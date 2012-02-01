@@ -1,14 +1,17 @@
 ---
 layout: default
 ---
-<h1>{{page.title}}</h1>
-<h2>{{page.by}}</h2>
-<em>{{page.dateline}}</em> at <em>{{page.venue}}</em>
 
-<div id="post">
-{{ content }}
-</div>
+<section>
+	<h3><em>{{page.dateline}}</em> at <em>{{page.venue}}</em></h3>
+	<h1>{{page.title}}</h1>
+	<h2>{{page.by}}</h2>
+</section>
+<hr>
+<section>
+	{{ content }}
+</section>
 
-<div>
-<a href="{{page.url-to-buy}}">Buy tickets</a>
-</div>
+<section>
+	<a id="buy" href="{{page.url-to-buy}}">Buy tickets</a>
+</section>
