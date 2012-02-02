@@ -12,11 +12,11 @@ Third Angel + mala voadora
 
 Wed 7 Mar, 9pm / Thu 8 Mar, 7:30pm at Contact  
 BALL & OTHER FUNNY STORIES ABOUT CANCER†  
-Brian Lobel (†artist workshops – see website)
+Brian Lobel (†artist workshops – details coming soon)
 
 Thu 8 Mar, 9pm at Contact  
 THE MAKING OF BULL: THE TRUE STORY†  
-Stacy Makishi (†artist workshops – see website)
+Stacy Makishi (†artist workshops – details coming soon)
 
 Fri 16 Mar, 7.30pm at Zion Arts Centre   
 SAMPLER SERIES  
@@ -26,7 +26,7 @@ Fri 20 Apr, 7.30pm at Zion Arts Centre
 SAMPLER SERIES   
 Tom Marshman; getinthebackofthevan
 
-Thu 3 — Sat 5 May (see website for times) at Contact  
+Thu 3 — Sat 5 May at Contact  
 TURN 2012   
 Microfestival of dance
 
@@ -42,7 +42,7 @@ Fri 1 Jun, from 4pm at Contact
 WORKS AHEAD: INTERACTIONS   
 Angel Club (north); Julieann O’Malley; Fallen Wall Arts; Small Acts
 
-Fri 8 / Sat 9 Jun (see website for programme) at Zion Arts Centre  
+Fri 8 / Sat 9 Jun (programme to be announced) at Zion Arts Centre  
 SAMPLER SERIES meets FLARE WEEKENDER  
 Sleepwalk Collective; Katherina Radeva; more to be announced
 
