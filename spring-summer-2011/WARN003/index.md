@@ -2,7 +2,7 @@
 layout: warn
 
 warn: "003"
-title: The Making Of Bull: The True Story
+title: "The Making Of Bull: The True Story"
 by: Stacy Makishi
 venue: Contact
 dateline: Fri 17 Feb, 8pm
