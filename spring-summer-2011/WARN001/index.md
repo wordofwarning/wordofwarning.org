@@ -10,17 +10,47 @@ url-to-buy: http://www.wegottickets.com/event/152521
 
 ---
 
-##### Description
+####In Brief
+There's a place where fake snow covers real mountains.  There's a place where you can rent strangers to cry at your funeral.  There's a place where, if the army send your Dad overseas, they give you a life-size cut-out version to keep you company
+The world seems to get bigger every day…how on earth can you know all the places you’ve been, let alone the places you haven’t?
 
-Lorem ipsum dolor sit amet si meliora dies ut vina.
+An unfeasible attempt to describe the impossible… A theatre piece with 2 songs…
 
-##### Who they are
+####Who Are They?
+Alexander Kelly and Rachael Walton set up Third Angel in Sheffield in 1995 and have been making performance, theatre, live art, installation, film and just about everything else you can imagine ever since.  They have shown at festivals and venues throughout the UK and Europe - in theatres, galleries, cinemas, office blocks, car parks, swimming baths, on the internet and TV, in school halls, a damp cellar in Leicester and a public toilet in Bristol. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean volutpat neque eu purus vestibulum eu condimentum felis ullamcorper. Duis in tellus et orci tempor molestie. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur mattis neque pulvinar odio tincidunt ut ornare ante aliquam. Maecenas sagittis interdum justo, eget vulputate justo semper sed. Mauris est nulla, posuere eget porttitor ac, adipiscing ac eros. Nam ut convallis libero.
+Third Angel’s aim is to make entertaining and original contemporary performance that speaks directly, honestly and engagingly to its audience.
+*For What I Heard About The World*, they join forces both with Portuguese company Mala Voadora and Mancunian writer/performer/musician Chris Thorpe (Unlimited Theatre, BBC Radio 4's Friday Night Play)
 
-Nulla eu nunc turpis, semper viverra ante. Cras non purus nec lectus pretium rutrum. Sed neque erat, suscipit sed lobortis convallis, consequat in justo. Integer cursus magna ac nisl cursus vehicula. Etiam et massa ligula. Pellentesque dictum viverra interdum. Vestibulum feugiat, orci vel luctus molestie, nisl est iaculis elit, non dictum diam purus eget neque. Nulla facilisi. Maecenas nec pretium ipsum. Vestibulum imperdiet odio a lacus scelerisque elementum. Donec rutrum dolor vel risus bibendum id tincidunt erat lobortis. Mauris aliquet, elit quis auctor blandit, lorem nulla auctor tortor, ultrices hendrerit lorem enim ac felis. In non malesuada libero. Quisque tristique quam in enim mattis quis imperdiet sapien hendrerit. Pellentesque aliquam sem ac diam porta aliquam. Praesent varius venenatis cursus.
+####What People Have Said About Them
+*“engaging, moving, provoking, thoughtful, funny, brutal and beautiful...brilliant theatre...  resonant and eloquent...beautiful, anxious, heartfelt story telling...brilliant, v thinky...top quality night out...awesome, very thought provoking...brilliant”* Twitter audience responses
 
-Etiam vulputate felis a sapien fringilla dapibus. Nunc vulputate sapien ac nisl euismod rutrum. Mauris facilisis bibendum molestie. Etiam scelerisque elit aliquam tellus ultricies ac semper quam posuere. Proin elit mauris, vulputate non convallis eget, fermentum at purus. Nullam vitae orci est. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent tincidunt, augue vel tincidunt commodo, velit mi consequat quam, sed euismod diam dui et lacus. Quisque posuere, odio vel aliquam eleifend, purus odio ultricies tortor, et vulputate lectus augue vel odio. Nunc non laoreet augue. Integer a orci libero. Aliquam ullamcorper viverra fermentum. Quisque vehicula rutrum augue, in blandit sapien ultricies at. Nam lobortis semper sagittis. Sed auctor tincidunt est vel lobortis.
+*“The great thing about Third Angel is you never know what you're going to get...heavenly work.”*The Guardian
 
-##### Other stuff
-Liorem.
+####More
+There's a place where you confess your sins to voicemail.
+There's a place where you can buy a cure for loneliness on CD.
+There's a place where fake snow covers real mountains.
+There's a place where the dances only exist in the memory of three old women.
+There's a place where you can rent demonstrators to be angry on your behalf.
+There's a place where you can rent strangers to cry at your funeral. 
+There's a place where they listen to a radio station that broadcasts silence. 
+There's a place where there are only five official haircuts for men. 
+There's a place where, if the army send your Dad overseas, they give you a life-size cut-out version to keep you company.
+
+When you actually go there, you'll understand. The heat there. It's a different sort of heat. Or the cold. It makes you shiver in a completely new way. The light. They're always going on about the light.
+
+A theatre piece with two songs: one original, one karaoke.
+
+Produced in association with the geographers behind [Worldmapper.org](http://www.worldmapper.org), the show aims *“to help us to see foreigners as yourself in another place”* says Co-Director Alexander Kelly:
+*“The project began as a search for the authentic, but we found more and more stories of the inauthentic, the fake, replicas”* he continues. *“The stories connect to paint a sometimes bleak, sometimes hopeful, and darkly humorous view of the world, based on how people have told us they see it, and our own attempts to hold it all in our heads.”*
+
+Third Angel has a history of making work based on the collection and exchange of stories.  People can catch up with what's gone into *What I Heard About The World* so far, and contribute stories of their own via:
+
+[thirdangel.co.uk](http://www.thirdangel.co.uk)      
+[malavoadora.blogspot.com](http://www.malavoadora.blogspot.com)
+
+CREDITS:  co-production with Sheffield Theatres and Teatro Maria Matos, Lisbon, in association with [worldmapper.org](http://www.worldmapper.org)
+Supported by the National Lottery through Arts Council England. 
+Co-produced with PAZZ Performing Arts Festival, Oldenburg, 
+
