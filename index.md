@@ -8,6 +8,7 @@ _SAVE THE DATE(S) - here's a sneak preview of the upcoming Word of Warning progr
 Fri 17 Feb, 7.30pm at Zion Arts Centre  
 WHAT I HEARD ABOUT THE WORLD  
 Third Angel + mala voadora
+[Buy tickets](http://www.wegottickets.com/event/152521)
 
 Wed 7 Mar, 9pm / Thu 8 Mar, 7:30pm at Contact  
 BALL & OTHER FUNNY STORIES ABOUT CANCER†  
