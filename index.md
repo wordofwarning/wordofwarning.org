@@ -5,48 +5,48 @@ assetpath: "assets"
 
 _SAVE THE DATE(S) - here's a sneak preview of the upcoming Word of Warning programme for your diaries, more events, details and links to follow soon._
 
-Fri 17 Feb, 7.30pm at Zion Arts Centre  
+_Fri 17 Feb, 7.30pm_ at _[Zion Arts Centre](http://www.zionarts.com/)_     
 WHAT I HEARD ABOUT THE WORLD  
-Third Angel + mala voadora
-[Buy tickets](http://www.wegottickets.com/event/152521)
+Third Angel + mala voadora  
+**[Buy tickets](http://www.wegottickets.com/event/152521)**
 
-Wed 7 Mar, 9pm / Thu 8 Mar, 7:30pm at Contact  
+_Wed 7 Mar, 9pm / Thu 8 Mar, 7:30pm_ at _[Contact](http://contactmcr.com/)_  
 BALL & OTHER FUNNY STORIES ABOUT CANCER†  
 Brian Lobel (†artist workshops – details coming soon)
 
-Thu 8 Mar, 9pm at Contact  
+_Thu 8 Mar, 9pm_ at _[Contact](http://contactmcr.com/)_  
 THE MAKING OF BULL: THE TRUE STORY†  
 Stacy Makishi (†artist workshops – details coming soon)
 
-Fri 16 Mar, 7.30pm at Zion Arts Centre   
+_Fri 16 Mar, 7.30pm_ at _[Zion Arts Centre](http://www.zionarts.com/)_   
 SAMPLER SERIES  
 The Mustdashios; Levantes Dance Theatre    
 
-Fri 20 Apr, 7.30pm at Zion Arts Centre  
+_Fri 20 Apr, 7.30pm_ at _[Zion Arts Centre](http://www.zionarts.com/)_    
 SAMPLER SERIES   
 Tom Marshman; getinthebackofthevan
 
-Thu 3 — Sat 5 May at Contact  
+_Thu 3 — Sat 5 May_ at _[Contact](http://contactmcr.com/)_  
 TURN 2012   
 Microfestival of dance
 
-Fri 18 May, 7.30pm at Zion Arts Centre  
+_Fri 18 May, 7.30pm_ at _[Zion Arts Centre](http://www.zionarts.com/)_    
 SAMPLER SERIES   
 Olwen Davies; Ellie Harrison; Levantes Dance Theatre
  
-Thu 31 May, 7.30pm at Contact  
+_Thu 31 May, 7.30pm_ at _[Contact](http://contactmcr.com/)_   
 WORKS AHEAD: PERFORMANCES   
 Krissi Musiol; Lowri Evans; Gareth Cutter
 
-Fri 1 Jun, from 4pm at Contact  
+_Fri 1 Jun, from 4pm_ at _[Contact](http://contactmcr.com/)_  
 WORKS AHEAD: INTERACTIONS   
 Angel Club (north); Julieann O’Malley; Fallen Wall Arts; Small Acts
 
-Fri 8 / Sat 9 Jun (programme to be announced) at Zion Arts Centre  
+_Fri 8 / Sat 9 Jun (programme to be announced)_ at _[Zion Arts Centre](http://www.zionarts.com/)_    
 SAMPLER SERIES meets FLARE WEEKENDER  
 Sleepwalk Collective; Katherina Radeva; more to be announced
 
-Coming to Manchester city centre in July  
+_Coming to Manchester city centre in July_  
 HAZARD 2012   
 Microfestival of intervention
 
