@@ -50,7 +50,8 @@ Third Angel has a history of making work based on the collection and exchange of
 [thirdangel.co.uk](http://www.thirdangel.co.uk)      
 [malavoadora.blogspot.com](http://www.malavoadora.blogspot.com)
 
-CREDITS:  co-production with Sheffield Theatres and Teatro Maria Matos, Lisbon, in association with [worldmapper.org](http://www.worldmapper.org)
+####Credits:  
+a co-production with Sheffield Theatres and Teatro Maria Matos, Lisbon, in association with [worldmapper.org](http://www.worldmapper.org)
 Supported by the National Lottery through Arts Council England. 
 Co-produced with PAZZ Performing Arts Festival, Oldenburg, 
 
