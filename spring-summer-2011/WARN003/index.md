@@ -6,7 +6,7 @@ title: "The Making Of Bull: The True Story"
 by: Stacy Makishi
 venue: Contact
 dateline: Fri 17 Feb, 8pm
-url-to-buy: http://contactmcr.com/whats-on/1067-fs2012the-making-of-bull-the-true-story
+url-to-buy: http://contactmcr.com/whats-on/1067-fs2012the-making-of-bull-the-true-story/booking/
 
 ---
 
