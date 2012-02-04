@@ -10,3 +10,29 @@ showprogramme: true
 	<h2>{{page.by}}</h2>
 	<hr>
 </div>
+<div class="two-thirds column">
+	{{ content }}
+</div>
+<div class="one-third column">
+	<div id="tickets">
+		<h4>Tickets</h4>
+		<h5 style="text-align:center">{{page.ticketprice}}</h5>
+		{% if page.url-to-buy%}
+			<a id="buy" href="{{page.url-to-buy}}">Buy tickets</a>
+		{% endif %}
+	</div>
+	<div id="venue">
+		{% if page.venue == "Zion" %}
+			{% include venue_zion %}
+		{% endif %}
+		{% if page.venue == "Contact" %}
+			{% include venue_contact %}
+		{% endif %}
+	</div>
+	{% if page.partners %}
+		<div>
+			<h4>Partners</h4>
+			{{page.partners}}
+		</div>
+	{% endif %}
+</div>

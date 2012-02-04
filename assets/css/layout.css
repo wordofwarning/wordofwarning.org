@@ -61,6 +61,18 @@ footer{
 	line-height:72px;
 }
 
+h4{
+	color: #aaa !important;
+   	text-transform:uppercase;
+   	font-size:14px;
+   	line-height: 21px;
+   	font-weight: normal;
+}
+
+a#buy {text-align:center; text-decoration:none;display:block;padding:9px; text-indent:0; margin:18px auto 18px auto; background: #06e; color:#fff; font-size:18px; border-radius:4px;width:50%;}
+
+a#buy:hover {background:#07f;}
+
 /* #Media Queries
 ================================================== */
 
