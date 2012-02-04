@@ -7,7 +7,7 @@ by: "Microfestival of dance"
 venue: Contact
 dateline: Thurs 3 May /Fri 4 May /Sat 5 May, 7:30pm
 ticketprice: booking coming soon
-parnters: "A hÅb, Contact, Dance Initiative Greater Manchester and Live at LICA co-production."
+partners: "A hÅb, Contact, Dance Initiative Greater Manchester and Live at LICA co-production."
 
 ---
 
