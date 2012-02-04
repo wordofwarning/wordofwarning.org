@@ -4,16 +4,16 @@ assetpath: "../../assets"
 ---
 
 <section>
-	<h3><em>{{page.dateline}}</em> at <em>{{page.venue}}</em></h3>
+	<h3><em>{{page.dateline}}</em>{% if page.venue %} at <em>{{page.venue}}</em>{% endif %}</h3>
 	<h1 id="maintitle" style="color:{{page.titlecolour}};">{{page.title}}</h1>
 	<h2>{{page.by}}</h2>
 </section>
 <hr>
 <section class="clearfix">
-	<div class="left">
+	<div class="lhs">
 		{{ content }}
 	</div>
-	<div class="right">
+	<div class="rhs">
 		<div id="tickets">
 			<h4>Tickets</h4>
 			<h3 style="text-align:center">{{page.ticketprice}}</h3>
@@ -33,6 +33,7 @@ assetpath: "../../assets"
 		
 		{% if page.partners %}
 		<div>
+			<h4>Partners</h4>
 			{{page.partners}}
 		</div>
 		{% endif %}
