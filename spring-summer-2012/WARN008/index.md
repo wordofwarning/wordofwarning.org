@@ -3,7 +3,7 @@ layout: warn
 
 warn: "008"
 title: "Sampler Series"
-by: "Olwen Davies; Levantes Dance Theatre: Ellie Harrison"
+by: "Olwen Davies; Levantes Dance Theatre; Ellie Harrison"
 venue: "Zion Arts Centre"
 dateline: Fri 18 May, 7.30 pm
 url-to-buy: http://www.wegottickets.com/event/152678
