@@ -9,7 +9,7 @@ venue: Zion
 url-to-buy: http://www.wegottickets.com/event/152521
 titlecolour: ff625e
 ticketprice: £8 / £5 concessions
-partners: "A hAb, Contact, Dance Initiative Greater Manchester and Live at LICA co-production."
+
 
 ---
 
@@ -50,6 +50,7 @@ Produced in association with the geographers behind [Worldmapper.org](http://www
 
 Third Angel has a history of making work based on the collection and exchange of stories.  People can catch up with what's gone into *What I Heard About The World* so far, and contribute stories of their own via:
 
+####Websites
 [thirdangel.co.uk](http://www.thirdangel.co.uk)      
 [malavoadora.blogspot.com](http://www.malavoadora.blogspot.com)
 
