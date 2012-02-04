@@ -26,13 +26,13 @@ Born and bread in Accrington, Lancashire, Rachel grew up around pies, football,
 *‘Consistently absurd, uncompromisingly foolish, and committed to exposing the unruly side of dance theatre.The Mustdashios are no normal dancing duo. They offer a delightfully fresh approach to dance, comedy, and what it is to be a woman on stage. They’re daring and fearless in their choreography, insightful in their image making, and unashamedly grotesque whenever they find the opportunity Focusing on the oddities of day to day life, The Mustdashios will simultaneously provoke your imagination, unweave your expectations and entertain the pants off you.’*
 
 ####More
-*chips.gravy.trains.buses.glitterballs.dance.
-girls.dresscode.dance.heels.boys.venue.
-chewinggum.music.lights.farts.dance.
-toilets.piss.dance.drink.cocktails.
-dance.bouncers.fight.chips.
-gravy.dance.
-chips*
+*chips.gravy.trains.buses.glitterballs.dance.    
+girls.dresscode.dance.heels.boys.venue.    
+chewinggum.music.lights.farts.dance.    
+toilets.piss.dance.drink.cocktails.    
+dance.bouncers.fight.chips.    
+gravy.dance.    
+chips*    
 
 Chips delves into the friendship of two young women who live for booze and sequined pants. Through witty observations and discerning movement, Chips aims to expose the less attractive side of human nature whilst out on the tiles. Using Manchester city centre as their stimulus, the Mustdashios draw on their cheeky northern unabashedness to take you on a journey in which they dance, laugh and possibly cry their way through an intoxicated friendship. 
 
