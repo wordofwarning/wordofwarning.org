@@ -3,10 +3,11 @@ layout: warn
 
 warn: "008"
 title: "Sampler Series"
-by: "Olwen Davies; Levantes Dance Theatre, Ellie Harrison;"
+by: "Olwen Davies; Levantes Dance Theatre: Ellie Harrison"
 venue: "Zion Arts Centre"
 dateline: Fri 18 May, 7.30 pm
 url-to-buy: http://www.wegottickets.com/event/152678
+ticketprice: £8/£5
 
 ---
 ####In Brief
@@ -21,7 +22,7 @@ Devastated by Diana? Mortified by Michael? A step by step guide to public bereav
 ###Olwen Davies
 
 ####Who is she?
-Olwen Davies is a performance maker, actor and writer, making her own work and acting in external projects, most recently an independent feature film 43 Pounds and performance company Zoo Indigo. Olwen trained at De Montfort University and co-founded the performance company ‘Southpaw Junction’. With an interest in the re-possession of cultural images on screen, comedy and the uses of recorded and live moments in performance, Olwen creates work that explores the audience’s relationship with the screen and with each other.
+Olwen Davies is a performance maker, actor and writer, making her own work and acting in external projects, most recently an independent feature film *43 Pounds* and performance company Zoo Indigo. Olwen trained at De Montfort University and co-founded the performance company Southpaw Junction. With an interest in the re-possession of cultural images on screen, comedy and the uses of recorded and live moments in performance, Olwen creates work that explores the audience’s relationship with the screen and with each other.
 
 Olwen never expected to own a helium canister. 
 
@@ -31,10 +32,10 @@ She is having trouble.
 She doesn’t have the resources she needs.     
 She is not sexy enough, scary enough, entertaining enough.     
 She needs you to believe in her and help her discover the emotive direction needed.    
- 
+
 Following classic narrative structures, referencing other famous movies and their characters, the piece takes a humorous and moving journey through bad re-enactment and the confessions of a lonely performer.
 
-*Fridge Logic* explores and questions the audience’s relationship to the mediated performer within a media literate culture. For the 3 days leading up to the performance, [watch optional videos](www.youtube.com/user/FridgeLogic) that offer you a series of tasks to undertake in preparation for the show.
+*Fridge Logic* explores and questions the audience’s relationship to the mediated performer within a media literate culture. For the 3 days leading up to the performance, [watch optional videos](http://www.youtube.com/user/FridgeLogic) that offer you a series of tasks to undertake in preparation for the show.
 
 While creating the piece Olwen experimented a lot. She likes to play around when making work and have fun with it. While attempting something she thought would be wonderful she made a lot of mistakes. It turned out to be more interesting when she failed. 
 
@@ -43,11 +44,11 @@ She wanted to make a performance that would set the audience up as a community, 
 ##Canapé Art
 ###Levantes Dance Theatre
 ####Who are They?
-Winners of the Oxford Samuel Beckett Trust Award in 2010, Levantes Dance Theatre is Bethanie Harrison and Eleni Edipidi.  
+Winners of the Oxford Samuel Beckett Trust Award in 2010, Levantes Dance Theatre is Bethanie Harrison and Eleni Edipidi.
 
-Originally from Greece, Eleni trained at Laban and MMU and has performed internationally with the Belgian based company Victoria and has performed in the Opening Ceremonies of the Athens 2004 Olympic and Paralympics Games!  Eleni is the recipient of The Marion North Mentoring Scheme 2009 and has worked with Lindsey Butcher as her mentor.  
+Originally from Greece, Eleni trained at Laban and MMU and has toured internationally with the Belgian based company Victoria and has performed in the Opening Ceremonies of the Athens 2004 Olympic and Paralympics Games! Eleni was the recipient of The Marion North Mentoring Scheme 2009, with Lindsey Butcher as her mentor.
 
-Bethanie trained in Dance and Visual Art at MMU and has co-directed and co-choreographed LDT since the beginning. Bethanie has collaborated with art practitioners Andre Gingras and Anna Macdonald and has lead workshops in schools in the Northwest with “Charged 2 dance”. Bethanie is the recipient of The Bonnie Bird New Uk Choreography Award 2010.
+Bethanie trained in Dance and Visual Art at MMU and has co-directed and co-choreographed LDT since the beginning. Bethanie has collaborated with art practitioners Andre Gingras and Anna Macdonald and has lead workshops in schools in the Northwest with “Charged 2 dance”. Bethanie was the recipient of The Bonnie Bird New Uk Choreography Award 2010.
 
 Levantes Dance Theatre has a constant enthusiasm for fusing artistic disciplines and indulging in vibrant aesthetics. Current, bold and honest, the work visually explores contradictions: the mundane and divine, the absurd and the familiar in a kitsch cocoon of colourful activity.
 
@@ -57,7 +58,7 @@ Levantes Dance Theatre has a constant enthusiasm for fusing artistic disciplines
 *Members of Levantes Dance Theatre trace ambiguous themes of compulsive disorders, pleasures and sins through an intensely visual display. Inventive props and wacky costumes feature high on the agenda…* Josephine Leask, Resolution 
 
 ####More
- *Canapé Art* is the performance of daily routine with a peculiar twist. A series of task are repeated, extended and submerged in sugar to playfully explore aspects of human behaviour.
+*Canapé Art* is the performance of daily routine with a peculiar twist. A series of task are repeated, extended and submerged in sugar to playfully explore aspects of human behaviour.
 *Canapé Art* is small pieces of play performed both amongst and in front of its audience, pockets of performance that hopefully trigger a smile.
 
 ##Etiquette of Grief
