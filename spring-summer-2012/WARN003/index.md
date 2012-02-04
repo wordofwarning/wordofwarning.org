@@ -43,5 +43,10 @@ All that Lucy has left of her mother is a crumpled map of a place called Fargo, 
 
 *Bull: The True Story* is a powerful fusion of physical theatre, music, film and text. The stage is a battleground between truth and lies; what’s spoken and what’s omitted; what’s fiction and what is documentary.           
 
-**Running Time:** 45 minutes
+*Running Time:* 45 minutes
+
+####Website:
+[stacymakishi.com](http://www.stacymakishi.com/)
+
+
 
