@@ -12,11 +12,15 @@ body{
 	font-family: "minion-pro", Times;
 }
 
-header {
+header,
+#programme {
 	background: #f0ebea;
+	color: #555;
 }
 
-header a, header a:visited, header a:hover{
+header a, header a:visited, header a:hover,
+#programme a, #programme a:visited, #programme a:hover,
+#programme h6{
 	color: #555;
 	text-decoration:none;
 }
