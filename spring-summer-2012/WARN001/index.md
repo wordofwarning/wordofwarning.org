@@ -49,7 +49,7 @@ Produced in association with the geographers behind [Worldmapper.org](http://www
 *“The project began as a search for the authentic, but we found more and more stories of the inauthentic, the fake, replicas”* he continues. *“The stories connect to paint a sometimes bleak, sometimes hopeful, and darkly humorous view of the world, based on how people have told us they see it, and our own attempts to hold it all in our heads.”*
 
 Third Angel has a history of making work based on the collection and exchange of stories.  People can catch up with what's gone into *What I Heard About The World* so far, and contribute stories of their own via:
-Twitter: #whatiheardabouttheworld
+Twitter: #whatiheardabouttheworld    
 Facebook: [What I Heard About The World](http://www.facebook.com/pages/What-I-Heard-About-The-World/143036205737691)
 
 ####Websites
