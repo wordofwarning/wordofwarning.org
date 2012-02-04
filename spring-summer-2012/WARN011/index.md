@@ -6,7 +6,7 @@ title: "Sampler Series meets Flare Weekender"
 by: "Katherina Radeva; Sleepwalk Collective;"
 venue: "Zion Arts Centre"
 dateline: Fri 8 June /Sat 9 Jun, 7.30 pm
-ticketprices: "booking coming soon"
+ticketprice: "booking coming soon"
 partners: "Word of Warning with Flare Weekender"
 
 ---
