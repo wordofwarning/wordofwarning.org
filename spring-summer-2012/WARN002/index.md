@@ -7,7 +7,7 @@ by: Brian Lobel
 venue: Contact
 dateline: Wed 7 Mar, 9pm / Thu 8 Mar, 7:30pm
 url-to-buy: http://contactmcr.com/whats-on/1064-fs2012ball-and-other-funny-stories-about-cancer/booking/
-ticketprices: £8/£5
+ticketprice: £8/£5
 partners: A Contact presentation in association with Word of Warning
 
 ---
