@@ -6,7 +6,7 @@ title: Ball and Other Funny Stories About Cancer
 by: Brian Lobel
 venue: Contact
 dateline: Wed 7 Mar, 9pm / Thu 8 Mar, 7:30pm
-url-to-buy: http://www.wegottickets.com/event/152521
+url-to-buy: http://contactmcr.com/whats-on/1064-fs2012ball-and-other-funny-stories-about-cancer/booking/
 
 ---
 
