@@ -45,11 +45,9 @@ header a, header a:visited, header a:hover,
 	color:#07f;
 }
 
-header .container{
-	padding-top:18px;
-	padding-bottom:18px;
-}
-
+header .container,
+article .container,
+#programme .container,
 footer{
 	padding-top:18px;
 	padding-bottom:18px;
@@ -57,6 +55,11 @@ footer{
 
 /* #Page Styles
 ================================================== */
+
+#maintitle{
+	font-size:72px;
+	line-height:72px;
+}
 
 /* #Media Queries
 ================================================== */
