@@ -41,6 +41,10 @@ While creating the piece Olwen experimented a lot. She likes to play around when
 
 She wanted to make a performance that would set the audience up as a community, for them to feel connected not only to the work but also to each other because of what they were experiencing. Harking back to the communal experience of ‘appointment television’ when we all sat down to watch Top of the Pops or more recently the X Factor simultaneously, she set about creating that moment of simultaneous tele-connection.
 
+####Website
+[www.olwendavies.com](http://www.olwendavies.com)    
+[Youtube](http://www.youtube.com/user/FridgeLogic)    
+
 ##Canapé Art
 ###Levantes Dance Theatre
 ####Who are They?
@@ -60,6 +64,9 @@ Levantes Dance Theatre has a constant enthusiasm for fusing artistic disciplines
 ####More
 *Canapé Art* is the performance of daily routine with a peculiar twist. A series of task are repeated, extended and submerged in sugar to playfully explore aspects of human behaviour.
 *Canapé Art* is small pieces of play performed both amongst and in front of its audience, pockets of performance that hopefully trigger a smile.
+
+####Website
+[levantesdancetheatre.org](http://www.levantesdancetheatre.org)        
 
 ##Etiquette of Grief
 ###Ellie Harrison
@@ -96,4 +103,8 @@ With inspiring messages from her digital alter-ego, interactive games and plenty
 
 ####Credits
 *Etiquette of Grief* was made and is being toured with support from Arts Council England, Seedbed Trust and Leeds University through the Incubator Fund.
+
+####Website
+[ellieharrison.org](http://www.ellieharrison.org/)
+
 
