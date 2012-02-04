@@ -8,6 +8,21 @@
 /* #Site Styles
 ================================================== */
 
+a, a:visited{
+	color:#06e;
+}
+
+a:hover{
+	color:#07f;
+}
+
+img {
+	max-width: 100%;
+	display: block;
+	border: 0;
+	-ms-interpolation-mode: bicubic;
+}
+
 body{
 	font-family: "minion-pro", Times;
 }
@@ -19,13 +34,23 @@ header,
 }
 
 header a, header a:visited, header a:hover,
-#programme a, #programme a:visited, #programme a:hover,
+#programme a, #programme a:visited,
 #programme h6{
 	color: #555;
 	text-decoration:none;
 }
 
+#programme a:hover{
+	background: #fff;
+	color:#07f;
+}
+
 header .container{
+	padding-top:18px;
+	padding-bottom:18px;
+}
+
+footer{
 	padding-top:18px;
 	padding-bottom:18px;
 }
