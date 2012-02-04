@@ -5,7 +5,7 @@ warn: "012"
 title: "HAZARD 2012"
 by: "Microfestival of intervention"
 venue: "Manchester city centre"
-dateline: tba
+dateline: "coming soon"
 ticketprices: "free, no ticket required"
 
 ---
