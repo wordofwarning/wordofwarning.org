@@ -48,7 +48,7 @@ Winners of the Oxford Samuel Beckett Trust Award in 2010, Levantes Dance Theatre
 
 Originally from Greece, Eleni trained at Laban and MMU and has toured internationally with the Belgian based company Victoria and has performed in the Opening Ceremonies of the Athens 2004 Olympic and Paralympics Games! Eleni was the recipient of The Marion North Mentoring Scheme 2009, with Lindsey Butcher as her mentor.
 
-Bethanie trained in Dance and Visual Art at MMU and has co-directed and co-choreographed LDT since the beginning. Bethanie has collaborated with art practitioners Andre Gingras and Anna Macdonald and has lead workshops in schools in the Northwest with “Charged 2 dance”. Bethanie was the recipient of The Bonnie Bird New Uk Choreography Award 2010.
+Bethanie trained in Dance and Visual Art at MMU and has co-directed and co-choreographed LDT since the beginning. Bethanie has collaborated with art practitioners Andre Gingras and Anna Macdonald and has lead workshops in schools in the Northwest with “Charged 2 dance”. Bethanie was the recipient of The Bonnie Bird New UK Choreography Award 2010.
 
 Levantes Dance Theatre has a constant enthusiasm for fusing artistic disciplines and indulging in vibrant aesthetics. Current, bold and honest, the work visually explores contradictions: the mundane and divine, the absurd and the familiar in a kitsch cocoon of colourful activity.
 
