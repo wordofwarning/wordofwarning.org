@@ -5,7 +5,7 @@ warn: "012"
 title: "HAZARD 2012"
 by: "Microfestival of intervention"
 dateline: "Coming soon"
-ticketprices: "free, no ticket required"
+ticketprice: "free, no ticket required"
 
 ---
 ####In Brief
