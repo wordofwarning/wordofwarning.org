@@ -1,72 +1,67 @@
-<!doctype html>
-<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
 <head>
 	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-
 	<title>Word of Warning</title>
 	<meta name="description" content="">
-	<meta name="viewport" content="width=device-width,initial-scale=1">
-	<link rel="stylesheet" href="{{page.assetpath}}/css/style.css">
-	<script src="{{page.assetpath}}/js/libs/modernizr-2.0.6.min.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<link rel="stylesheet" href="{{page.assetpath}}/css/base.css">
+	<link rel="stylesheet" href="{{page.assetpath}}/css/skeleton.css">
+	<link rel="stylesheet" href="{{page.assetpath}}/css/layout.css">
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
 	<script type="text/javascript" src="http://use.typekit.com/yjo8lcl.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
 </head>
 <body>
 	<header>
-		<div class="page">
-			<a href="/"><strong>Word of Warning</strong><br>PERFORMANCE COLLECTION SPRING / SUMMER 2012</a>
+		<div class="container">
+			<div class="sixteen columns">
+				<a href="/"><strong>Word of Warning</strong><br>PERFORMANCE COLLECTION SPRING / SUMMER 2012</a>
+			</div>
 		</div>
 	</header>
-	<article role="main" class="page">
-		{{ content }}
-	</article>
-	{% if page.showprogramme %}
-	<section id="programme" class="clearfix">
-		<div class="page">
-			<p style="margin:18px 0;">PERFORMANCE COLLECTION SPRING / SUMMER 2012</p>
-			<div class="lhs">
-				{% include programme_left %}
-			</div>
-			<div class="rhs">
-				{% include programme_right %}
-			</div>
+	<div class="container">
+		<div class="sixteen columns">
+			<h1 class="remove-bottom" style="margin-top: 40px">Skeleton</h1>
+			<h5>Version 1.1</h5>
+			<hr />
 		</div>
-	</section>
-	{% endif %}
-	<footer>
-		<div class="clearfix page">
-			<div class="lhs">
-				<h5>Weekly Update</h5>
-				<p><a href="http://tinyletter.com/wordofwarning">Sign up</a> for your no-nonsense <a href="http://wordofwarning.posterous.com/">weekly e-mail</a> signpost to the bizarre, the beautiful and the best contemporary performance within range of Manchester.</p>
-				<h5>Calendar</h5>
-				Word of Warning also maintains a <a href="https://www.google.com/calendar/embed?src=wordofwarningmcr%40gmail.com&amp;ctz=Europe/London">Google calendar</a> of events in the region.
-			</div>
-			<div class="rhs">
-				<p>
-					<strong>Word of Warning</strong> is a <a href="http://www.habarts.org/">hÅb</a> production.<br>
-					<a href="">info@habarts.org</a><br>
-					0161 232 6086<br>
-					c/o Zion Arts Centre, 335 Stretford Road, Manchester, M15 5ZA
-				</p>
-			</div>
+		<div class="one-third column">
+			<h3>About Skeleton?</h3>
+			<p>Skeleton is a small collection of well-organized CSS &amp; JS files that can help you rapidly develop sites that look beautiful at any size, be it a 17" laptop screen or an iPhone. It's based on a responsive grid, but also provides very basic CSS for typography, buttons, tabs, forms and media queries. Go ahead, resize this super basic page to see the grid in action.</p>
 		</div>
-		<div class="clearfix page">
-			<img src="{{page.assetpath}}/images/acelogo.png" alt="Supported by Arts Council England / Lottery Funded by Arts Council England">
-			<p>A greenroom legacy project. With thanks to Zion Arts Centre (Z-Arts), Manchester Digital Development Agency and Helen Palmer.</p>
+		<div class="one-third column">
+			<h3>Three Core Principles</h3>
+			<p>Skeleton is built on three core principles:</p>
+			<ul class="square">
+				<li><strong>A Responsive Grid Down To Mobile</strong>: Elegant scaling from a browser to tablets to mobile.</li>
+				<li><strong>Fast to Start</strong>: It's a tool for rapid development with best practices</li>
+				<li><strong>Style Agnostic</strong>: It provides the most basic, beautiful styles, but is meant to be overwritten.</li>
+			</ul>
 		</div>
-	</footer>
+		<div class="one-third column">
+			<h3>Docs &amp; Support</h3>
+			<p>The easiest way to really get started with Skeleton is to check out the full docs and info at <a href="http://www.getskeleton.com">www.getskeleton.com.</a>. Skeleton is also open-source and has a <a href="https://github.com/dhgamache/skeleton">project on git</a>, so check that out if you want to report bugs or create a pull request. If you have any questions, thoughts, concerns or feedback, please don't hesitate to email me at <a href="mailto:hi@getskeleton.com">hi@getskeleton.com</a>.</p>
+		</div>
 
-	<!--
-	<script>
-    var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
-    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-    g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-    s.parentNode.insertBefore(g,s)}(document,'script'));
-	</script>
-	-->
+	</div><!-- container -->
+
+
+
+	<!-- JS
+	================================================== -->
+	<script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+	<script src="javascripts/tabs.js"></script>
+
+<!-- End Document
+================================================== -->
 </body>
 </html>
