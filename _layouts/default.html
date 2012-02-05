@@ -1,14 +1,7 @@
 ---
 layout: base
-mailer_signup_url: http://tinyletter.com/wordofwarning
 ---
-	<header>
-		<div class="container">
-			<div class="sixteen columns">
-				<a href="/"><strong>Word of Warning</strong><br>PERFORMANCE COLLECTION SPRING / SUMMER 2012</a>
-			</div>
-		</div>
-	</header>
+	{% include header %}
 	<article>
 		<div class="container">
 			{{ content }}
@@ -18,7 +11,7 @@ mailer_signup_url: http://tinyletter.com/wordofwarning
 	<section id="programme">
 		<div class="container">
 			<div class="sixteen columns">
-				<h6>PERFORMANCE COLLECTION SPRING / SUMMER 2012</h6>
+				<h6><a href="{{page.seasonpath}}index.html">PERFORMANCE COLLECTION SPRING / SUMMER 2012</a></h6>
 				<hr />
 			</div>
 			<div class="one-third column">
@@ -33,32 +26,3 @@ mailer_signup_url: http://tinyletter.com/wordofwarning
 		</div>
 	</section>
 	{% endif %}
-	<footer>
-		<div class="container">
-			<div class="one-third column">
-				<h5 id="mailer">Weekly Update</h5>
-				<p><a href="{{page.mailer_signup_url}}">Sign up</a> for your no-nonsense <a href="http://wordofwarning.posterous.com/">weekly e-mail</a> signpost to the bizarre, the beautiful and the best contemporary performance within range of Manchester.</p>
-				<h5>Calendar</h5>
-				<p>Word of Warning also maintains a <a href="https://www.google.com/calendar/embed?src=wordofwarningmcr%40gmail.com&amp;ctz=Europe/London">Google calendar</a> of events in the region.</p>
-			</div>
-			<div class="one-third column">
-				<h5>Brought to you by</h5>
-				<p>
-					<strong>Word of Warning</strong> is a <a href="http://www.habarts.org/">hÅb</a> production.
-				</p>
-				<p>
-					<a href="">info@habarts.org</a><br>
-					0161 232 6086
-				</p>
-				<p>
-					c/o Zion Arts Centre, 335 Stretford Road, Manchester, M15 5ZA
-				</p>
-			</div>
-			<div class="one-third column">
-				<img src="{{page.assetpath}}/images/acelogo.png" alt="Supported by Arts Council England / Lottery Funded by Arts Council England">
-				<p>A greenroom legacy project.</p>
-				<p>With thanks to Zion Arts Centre (Z-Arts), Manchester Digital Development Agency and Helen Palmer.</p>
-			</div>
-		</div>
-	</footer>
-	<a href="{{page.mailer_signup_url}}"><img style="position: absolute; top: 0; right: 0; border: 0;" src="{{page.assetpath}}/images/mailer.png" alt="Sign up for mailer"></a>
