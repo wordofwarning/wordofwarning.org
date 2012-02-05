@@ -69,9 +69,13 @@ h4{
    	font-weight: normal;
 }
 
+article img {margin-bottom:18px;}
+
 a#buy {text-align:center; text-decoration:none;display:block;padding:9px; text-indent:0; margin:18px auto 18px auto; background: #06e; color:#fff; font-size:18px; border-radius:4px;width:50%;}
 
 a#buy:hover {background:#07f;}
+
+
 
 /* #Media Queries
 ================================================== */

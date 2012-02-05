@@ -14,7 +14,7 @@ ticketprice: £8 / £5 concessions
 ---
 
 ####In Brief
-There's a place where fake snow covers real mountains.  There's a place where you can rent strangers to cry at your funeral.  There's a place where, if the army send your Dad overseas, they give you a life-size cut-out version to keep you company.
+![Third Angel](thirdangel.jpg) There's a place where fake snow covers real mountains.  There's a place where you can rent strangers to cry at your funeral.  There's a place where, if the army send your Dad overseas, they give you a life-size cut-out version to keep you company.
 The world seems to get bigger every day… how on earth can you know all the places you’ve been, let alone the places you haven’t?
 
 An unfeasible attempt to describe the impossible… A theatre piece with 2 songs…

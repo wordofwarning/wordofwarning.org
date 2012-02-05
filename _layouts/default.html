@@ -1,5 +1,6 @@
 ---
 layout: base
+mailer_signup_url: http://tinyletter.com/wordofwarning
 ---
 	<header>
 		<div class="container">
@@ -35,8 +36,8 @@ layout: base
 	<footer>
 		<div class="container">
 			<div class="one-third column">
-				<h5>Weekly Update</h5>
-				<p><a href="http://tinyletter.com/wordofwarning">Sign up</a> for your no-nonsense <a href="http://wordofwarning.posterous.com/">weekly e-mail</a> signpost to the bizarre, the beautiful and the best contemporary performance within range of Manchester.</p>
+				<h5 id="mailer">Weekly Update</h5>
+				<p><a href="{{page.mailer_signup_url}}">Sign up</a> for your no-nonsense <a href="http://wordofwarning.posterous.com/">weekly e-mail</a> signpost to the bizarre, the beautiful and the best contemporary performance within range of Manchester.</p>
 				<h5>Calendar</h5>
 				<p>Word of Warning also maintains a <a href="https://www.google.com/calendar/embed?src=wordofwarningmcr%40gmail.com&amp;ctz=Europe/London">Google calendar</a> of events in the region.</p>
 			</div>
@@ -59,3 +60,4 @@ layout: base
 			</div>
 		</div>
 	</footer>
+	<a href="{{page.mailer_signup_url}}"><img style="position: absolute; top: 0; right: 0; border: 0;" src="{{page.assetpath}}/images/mailer.png" alt="Sign up for mailer"></a>
