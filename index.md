@@ -1,6 +1,7 @@
 ---
-layout: homepage
+layout: default
 assetpath: "assets"
+
 ---
 
 _SAVE THE DATE(S) - here's a sneak preview of the upcoming Word of Warning programme for your diaries, more events, details and links to follow soon._
@@ -24,7 +25,7 @@ The Mustdashios; Levantes Dance Theatre    
 
 _Fri 20 Apr, 7.30pm_ at _[Zion Arts Centre](http://www.zionarts.com/)_    
 SAMPLER SERIES   
-Tom Marshman; getinthebackofthevan
+Tom Marshman; <small>GETINTHEBACKOFTHEVAN</small>
 
 _Thu 3 — Sat 5 May_ at _[Contact](http://contactmcr.com/)_  
 TURN 2012   
