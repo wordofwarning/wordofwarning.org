@@ -5,7 +5,7 @@ warn: "001"
 dateline: Fri 17 Feb, 8pm
 title: What I Heard About The World
 by: Third Angel + mala voadora
-venue: Zion
+venue: Zion Arts Centre
 url-to-buy: http://www.wegottickets.com/event/152521
 titlecolour: ff625e
 ticketprice: £8 / £5 concessions
