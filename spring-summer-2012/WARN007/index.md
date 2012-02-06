@@ -2,10 +2,10 @@
 layout: warn
 
 warn: "007"
-title: "Turn"
+title: "Turn 2012"
 by: "Microfestival of dance"
 venue: Contact
-dateline: Thurs 3 May /Fri 4 May /Sat 5 May, 7:30pm
+dateline: Thu 3 May /Fri 4 May /Sat 5 May, 7:30pm
 ticketprice: booking coming soon
 partners: "A hÅb, Contact, Dance Initiative Greater Manchester and Live at LICA co-production."
 
