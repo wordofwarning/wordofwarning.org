@@ -17,6 +17,7 @@ Jen and Lucy went to see a show where the performers wrote them letters. They di
 
 ##Legs 11
 ###Tom Marshman
+![Tom Marshman](w6tom.jpg)
 
 ####Who is he?
 Hello, I'm Tom Marshman.
@@ -55,6 +56,8 @@ In this intimate performance, Tom conveys a brave story of transformation, hospi
 
 ##External
 ###GETINTHEBACKOFTHEVAN
+![GETINTHEBACKOFTHEVAN](w6getintheback.jpg)
+
 ####Who Are They?
 <p><small>GETINTHEBACKOFTHEVAN</small> is Hester Chillingworth, Lucy McCormick and Jennifer Pick, a London-based performance company, formed in 2008.</p>
 
