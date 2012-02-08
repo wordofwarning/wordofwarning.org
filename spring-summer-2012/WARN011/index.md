@@ -12,4 +12,6 @@ partners: "Word of Warning with Flare Weekender"
 ---
 ####In Brief
 More details available soon.
+![Katherina Radeva](w11katherina.jpg)
 ![Sleepwalk Collective](w11sleepwalk.jpg)
+
