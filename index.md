@@ -1,54 +1,8 @@
 ---
-layout: default
-assetpath: "assets"
+layout: homepage
+
+strapline: "Word of Warning is: [1] An ongoing <a href=\"spring-summer-2012/index.html\">performance</a> collection in a range of Manchester venues; [2] A weekly <a href=\"http://tinyletter.com/wordofwarning\">email alert</a> of the best contemporary performance in the region."
+
+news: "Our launch event is Third Angel's brilliant <a href=\"spring-summer-2012/WARN001/index.html\">What I Heard About the World</a> at Zion Arts Centre on Friday 17th February."
 
 ---
-
-_SAVE THE DATE(S) - here's a sneak preview of the upcoming Word of Warning programme for your diaries, more events, details and links to follow soon._
-
-_Fri 17 Feb, 7.30pm_ at _[Zion Arts Centre](http://www.zionarts.com/)_     
-WHAT I HEARD ABOUT THE WORLD  
-Third Angel + mala voadora  
-**[Buy tickets](http://www.wegottickets.com/event/152521)**
-
-_Wed 7 Mar, 9pm / Thu 8 Mar, 7:30pm_ at _[Contact](http://contactmcr.com/)_  
-BALL & OTHER FUNNY STORIES ABOUT CANCER†  
-Brian Lobel (†artist workshops – details coming soon)
-
-_Thu 8 Mar, 9pm_ at _[Contact](http://contactmcr.com/)_  
-THE MAKING OF BULL: THE TRUE STORY†  
-Stacy Makishi (†artist workshops – details coming soon)
-
-_Fri 16 Mar, 7.30pm_ at _[Zion Arts Centre](http://www.zionarts.com/)_   
-SAMPLER SERIES  
-The Mustdashios; Levantes Dance Theatre    
-
-_Fri 20 Apr, 7.30pm_ at _[Zion Arts Centre](http://www.zionarts.com/)_    
-SAMPLER SERIES   
-Tom Marshman; <small>GETINTHEBACKOFTHEVAN</small>
-
-_Thu 3 — Sat 5 May_ at _[Contact](http://contactmcr.com/)_  
-TURN 2012   
-Microfestival of dance
-
-_Fri 18 May, 7.30pm_ at _[Zion Arts Centre](http://www.zionarts.com/)_    
-SAMPLER SERIES   
-Olwen Davies; Ellie Harrison; Levantes Dance Theatre
- 
-_Thu 31 May, 7.30pm_ at _[Contact](http://contactmcr.com/)_   
-WORKS AHEAD: PERFORMANCES   
-Krissi Musiol; Lowri Evans; Gareth Cutter
-
-_Fri 1 Jun, from 4pm_ at _[Contact](http://contactmcr.com/)_  
-WORKS AHEAD: INTERACTIONS   
-Angel Club (north); Julieann O’Malley; Fallen Wall Arts; Small Acts
-
-_Fri 8 / Sat 9 Jun (programme to be announced)_ at _[Zion Arts Centre](http://www.zionarts.com/)_    
-SAMPLER SERIES meets FLARE WEEKENDER  
-Sleepwalk Collective; Katherina Radeva; more to be announced
-
-_Coming to Manchester city centre in July_  
-HAZARD 2012   
-Microfestival of intervention
-
-__All tickets for Zion Arts Centre can be bought over the phone or in person from the Zion box office 0161 232 6089 and we should have online arrangements running next week!   Tickets for Contact can be bought from [Contact](http://contactmcr.com/)__
