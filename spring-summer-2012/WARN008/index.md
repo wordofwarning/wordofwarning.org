@@ -21,7 +21,7 @@ Devastated by Diana? Mortified by Michael? A step by step guide to public bereav
 ##Fridge Logic
 ###Olwen Davies
 !(Olwen Davies)[w8olwen.jpg]
-
+ 
 ####Who is she?
 Olwen Davies is a performance maker, actor and writer, making her own work and acting in external projects, most recently an independent feature film *43 Pounds* and performance company Zoo Indigo. Olwen trained at De Montfort University and co-founded the performance company Southpaw Junction. With an interest in the re-possession of cultural images on screen, comedy and the uses of recorded and live moments in performance, Olwen creates work that explores the audience’s relationship with the screen and with each other.
 
@@ -48,7 +48,8 @@ She wanted to make a performance that would set the audience up as a community, 
 
 ##Canapé Art
 ###Levantes Dance Theatre
-!(Levantes Dance Theatre)[w8ldt.jpg]
+![Levantes Dance Theatre](w8ldt.jpg)
+
 ####Who are They?
 Winners of the Oxford Samuel Beckett Trust Award in 2010, Levantes Dance Theatre is Bethanie Harrison and Eleni Edipidi.
 
@@ -72,7 +73,7 @@ Levantes Dance Theatre has a constant enthusiasm for fusing artistic disciplines
 
 ##Etiquette of Grief
 ###Ellie Harrison
-!(Ellie Harrison)[w8ellie.jpg]
+![Ellie Harrison](w8ellie.jpg)
 
 ####Who Is She?
 Ellie Harrison is a performance maker and artist living and working in Leeds.
