@@ -15,9 +15,10 @@ ticketprice: £8/£5
 Two pairs of young women (and one hapless satyr) bring their own very irreverent twist to booze, benders and what we think of as dance…    
 A sneak-peak into what girls do on a lary night out…and a tangy story of gin and a lot of satsumas.
 
+
 ##Chips
 ###The Mustdashios
-
+![The Mustdashios](w4mustdash.jpg)
 ####Who Are They?
 The Mustdashios are Genevieve Say and Rachel Entwhistle:    
 Genevieve trained at the Liverpool Institute of Performing Arts, and has since gone on to establish herself as a professional dancer working nationally and internationally. Genevieve combines her dance training with other influences, including clowning, theatre, film and live music, leading to an eclectic mix of collaborations including Collision (Lisi Perry), Gary Clarke, Flukt (Norway), Eee-Motion, Sweetshop Revolution, and Axial Dance. 
@@ -43,7 +44,7 @@ Chips delves into the friendship of two young women who live for booze and sequi
 
 ##Gin & Satsumas
 ###Levantes Dance Theatre
-
+![Levantes Dance Theatre](w4ldt.jpg)
 ####Who are They?
 Winners of the Oxford Samuel Beckett Trust Award in 2010, Levantes Dance Theatre is Bethanie Harrison and Eleni Edipidi.  
 
