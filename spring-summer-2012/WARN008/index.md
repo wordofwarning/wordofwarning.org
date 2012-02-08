@@ -20,8 +20,8 @@ Devastated by Diana? Mortified by Michael? A step by step guide to public bereav
 
 ##Fridge Logic
 ###Olwen Davies
-!(Olwen Davies)[w8olwen.jpg]
- 
+![Olwen Davies](w8olwen.jpg)
+
 ####Who is she?
 Olwen Davies is a performance maker, actor and writer, making her own work and acting in external projects, most recently an independent feature film *43 Pounds* and performance company Zoo Indigo. Olwen trained at De Montfort University and co-founded the performance company Southpaw Junction. With an interest in the re-possession of cultural images on screen, comedy and the uses of recorded and live moments in performance, Olwen creates work that explores the audience’s relationship with the screen and with each other.
 
