@@ -12,6 +12,7 @@ partners: "A hÅb, Contact, Dance Initiative Greater Manchester and Live at LICA
 ---
 
 ####In Brief
+![Maelstrom](w7maesltrom.jpg)
 Bursting into life for its fourth outing, *Turn* pivots into a new home to showcase new and experimental work from the region’s dancemakers.  In a frenzy of loose limbs and lyrical gestures, unfeasible stretches and frantic rhythms, twelve shows and countless performers fill the building with every style imaginable. 
 
 ####Who Are They?
