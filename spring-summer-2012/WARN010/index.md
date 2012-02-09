@@ -15,6 +15,9 @@ partners: "A hÅb/Contact Re:Con co-production for Word of Warning."
 A journey around the hidden spaces of a theatre - one monumental installation, three intimate encounters... 
 
 ####Who Are They?
+![julieann](w10julieann.jpg)
+![angelclub](w10angelclub2.jpg)
+![fallenwall](W10fallenwall.jpg)
 
 
 ####More

@@ -23,9 +23,9 @@ Hawaii-born Stacy Makishi works in a variety of media including site-specific in
 Stacy is  an Artsadmin Associate Artist.
 
 ####What People Have Said About Them
-*The sheer waves of emotion that come over you with every performance. She has a knack for leaving no clues as to where the performance is going until you’re emotionally ensnared in it. Genius.* - Self Titled Daily Magazine
+>The sheer waves of emotion that come over you with every performance. She has a knack for leaving no clues as to where the performance is going until you’re emotionally ensnared in it. Genius.   *Self Titled Daily Magazine*
 
-*Stacy Makishi is a master of mischief. She can draw out the creative juice from any situation in the most inspiring ways. She rocks!* - Shlomo
+>Stacy Makishi is a master of mischief. She can draw out the creative juice from any situation in the most inspiring ways. She rocks!  *Shlomo*
 
 ####More
 *Bull: The True Story* is a layered and concentric theatre-based solo piece by Stacy Makishi with original music by Paul Clark and Gareth Fry. 

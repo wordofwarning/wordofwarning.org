@@ -60,9 +60,9 @@ Bethanie trained in Dance and Visual Art at MMU and has co-directed and co-chore
 Levantes Dance Theatre has a constant enthusiasm for fusing artistic disciplines and indulging in vibrant aesthetics. Current, bold and honest, the work visually explores contradictions: the mundane and divine, the absurd and the familiar in a kitsch cocoon of colourful activity.
 
 ####What People Have Said About Them
-*The Northern Ballet foyer no longer bristles with the wary fascination of bystanders as Levantes Theatre mixed cupcakes, made paper-chains, flew paper aeroplanes, and scattered confetti into the early gloaming.*' Aled Roberts, Head Receptionist, Northern Ballet.
+>The Northern Ballet foyer no longer bristles with the wary fascination of bystanders as Levantes Theatre mixed cupcakes, made paper-chains, flew paper aeroplanes, and scattered confetti into the early gloaming. *Aled Roberts, Head Receptionist, Northern Ballet.*
 
-*Members of Levantes Dance Theatre trace ambiguous themes of compulsive disorders, pleasures and sins through an intensely visual display. Inventive props and wacky costumes feature high on the agenda…* Josephine Leask, Resolution 
+>Members of Levantes Dance Theatre trace ambiguous themes of compulsive disorders, pleasures and sins through an intensely visual display. Inventive props and wacky costumes feature high on the agenda…*Josephine Leask, Resolution* 
 
 ####More
 *Canapé Art* is the performance of daily routine with a peculiar twist. A series of task are repeated, extended and submerged in sugar to playfully explore aspects of human behaviour.
@@ -84,13 +84,13 @@ Previous performance work includes the touring solo show Dressing the Part which
 Following Dressing the Part Ellie went on to make *Revolution!* with Ollie Smith, a performance specifically designed for Vodka Revolution bars and commissioned by HATCH and Nott Dance.  Ellie is on the Artistic Direction team of Pointed Arrow, making journey based public art projects including pushing a 1/2 tonne sailing boat 105 miles around the cities, villages and countryside of Yorkshire. 
 
 ####What People Have Said About Her
-*Etiquette of Grief is a gem of a show. Smart, funny, touching, and performed with real conviction. Ellie Harrison is definitely one to watch.*   Robert Pacitti, SPILL Festival of Performance
+>Etiquette of Grief is a gem of a show. Smart, funny, touching, and performed with real conviction. Ellie Harrison is definitely one to watch. *Robert Pacitti, SPILL Festival of Performance*
 
-*Etiquette of Grief is a remarkable piece of work. The atmosphere was fantastic. Iʼm delighted to be given the chance to recommend this show.*   Alex Kelly, Third Angel
+>Etiquette of Grief is a remarkable piece of work. The atmosphere was fantastic. Iʼm delighted to be given the chance to recommend this show.  *Alex Kelly, Third Angel*
 
-*I genuinely wanted to be brave enough to give you a standing ovation as I've never seen anything quite like it, either as meaningful or as funny*  Audience Feedback
+>I genuinely wanted to be brave enough to give you a standing ovation as I've never seen anything quite like it, either as meaningful or as funny  *Audience feedback*
 
-*Etiquette of Grief struck to the core of my own grief having lost a close relative this year. It is refreshing to watch a performance about grief and death that is not awash with patronising sentiment. I cannot recommend this performance enough*  Audience Feedback
+>Etiquette of Grief struck to the core of my own grief having lost a close relative this year. It is refreshing to watch a performance about grief and death that is not awash with patronising sentiment. I cannot recommend this performance enough *Audience Feedback*
 
 ####More
 *Etiquette of Grief* is a step by step guide for how to cope with bereavement. Thousands of people struggled to cope with the deaths of Princess Diana, Jade Goody, Michael Jackson and even occasionally their own loved ones. 

@@ -28,11 +28,12 @@ Third Angel’s aim is to make entertaining and original contemporary performanc
 For *What I Heard About The World*, they join forces both with Portuguese company Mala Voadora and Mancunian writer/performer/musician Chris Thorpe (Unlimited Theatre, BBC Radio 4's *Friday Night Play*)
 
 ####What People Have Said About Them
-*engaging, moving, provoking, thoughtful, funny, brutal and beautiful... brilliant theatre...  resonant and eloquent... beautiful, anxious, heartfelt story telling... brilliant, v thinky... top quality night out... awesome, very thought provoking... brilliant* Twitter audience responses
+>engaging, moving, provoking, thoughtful, funny, brutal and beautiful... brilliant theatre...  resonant and eloquent... beautiful, anxious, heartfelt story telling... brilliant, v thinky... top quality night out... awesome, very thought provoking... brilliant...   *Twitter audience responses*
 
-*The great thing about Third Angel is you never know what you're going to get...heavenly work.*The Guardian
+>The great thing about Third Angel is you never know what you're going to get...heavenly work.  *The Guardian*
 
 ####More
+![Third Angel](w1WIHATW-4-scream.jpg)
 There's a place where you confess your sins to voicemail.    
 There's a place where you can buy a cure for loneliness on CD.    
 There's a place where fake snow covers real mountains.    
@@ -46,6 +47,8 @@ There's a place where, if the army send your Dad overseas, they give you a life-
 When you actually go there, you'll understand. The heat there. It's a different sort of heat. Or the cold. It makes you shiver in a completely new way. The light. They're always going on about the light.
 
 A theatre piece with two songs: one original, one karaoke.
+
+![Third Angel](w1WIHATW-7-guitar.jpg)
 
 Produced in association with the geographers behind [Worldmapper.org](http://www.worldmapper.org), the show aims *“to help us to see foreigners as yourself in another place”* says Co-Director Alexander Kelly:
 *“The project began as a search for the authentic, but we found more and more stories of the inauthentic, the fake, replicas”* he continues. *“The stories connect to paint a sometimes bleak, sometimes hopeful, and darkly humorous view of the world, based on how people have told us they see it, and our own attempts to hold it all in our heads.”*
