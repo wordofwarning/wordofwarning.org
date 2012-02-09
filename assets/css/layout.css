@@ -60,6 +60,10 @@ header {
 /* #Page Styles
 ================================================== */
 
+#social{
+	margin-bottom:18px;
+}
+
 #maintitle{
 	font-size:72px;
 	line-height:72px;
