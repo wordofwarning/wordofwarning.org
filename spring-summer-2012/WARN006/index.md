@@ -61,7 +61,7 @@ In this intimate performance, Tom conveys a brave story of transformation, hospi
 ####Who Are They?
 <p><small>GETINTHEBACKOFTHEVAN</small> is Hester Chillingworth, Lucy McCormick and Jennifer Pick, a London-based performance company, formed in 2008.</p>
 
-Together they play with failure, attempt, endurance, utterance, trashiness, the pathetic, triumph, mess.  Based in London, they make theatre pieces and live art together… so far.  They are beginning to think about making some installations.
+Together they play with failure, attempt, endurance, utterance, trashiness, the pathetic, triumph, mess.  Based in London, they make theatre pieces and live art together… so far.  
 
 ####Vanifesto
 <small>GETINTHEBACKOFTHEVAN:</small>   
