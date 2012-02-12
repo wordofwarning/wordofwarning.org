@@ -28,6 +28,6 @@ My name’s Tamsin Drury and I run an organisation called **hÅb**, which was gr
 
 I’ve been around a while, a really long while… and in that time, I’ve been responsible for making the Arndale Tower flash, wrapping Cathedral Gardens in 7km of hazard tape and encouraging a mass audience conga and a glitter-cannon Hallelujah chorus! On the less eccentric side over the years, **hÅb** has also worked with literally hundreds of young artists to help them create new pieces of theatre and dance.      
 
-Please send programming enquiries to me at?      
+Please send programming enquiries to me at info@habarts.org     
 
 I’m joined in this lunacy by John Franklin, greenroom’s long time programme coordinator and by an assortment of the people who populated that leaky railway arch!     
