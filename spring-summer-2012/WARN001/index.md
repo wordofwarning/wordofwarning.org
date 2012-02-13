@@ -28,7 +28,7 @@ Third Angel’s aim is to make entertaining and original contemporary performanc
 For *What I Heard About The World*, they join forces both with Portuguese company Mala Voadora and Mancunian writer/performer/musician Chris Thorpe (Unlimited Theatre, BBC Radio 4's *Friday Night Play*)
 
 ####What People Have Said About Them
->engaging, moving, provoking, thoughtful, funny, brutal and beautiful... brilliant theatre...  resonant and eloquent... beautiful, anxious, heartfelt story telling... brilliant, v thinky... top quality night out... awesome, very thought provoking... brilliant...   *Twitter audience responses*
+>engaging, moving, provoking, thoughtful, funny, brutal and beautiful... brilliant theatre...  resonant and eloquent... beautiful, anxious, heartfelt story telling... brilliant, v thinky... top quality night out... awesome, very thought provoking... brilliant...   *Twitter audience responses*   
 
 >The great thing about Third Angel is you never know what you're going to get...heavenly work.  *The Guardian*
 
