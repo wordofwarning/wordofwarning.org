@@ -9,12 +9,12 @@ dateline: Wed 7 Mar, 9pm / Thu 8 Mar, 7:30pm
 url-to-buy: http://contactmcr.com/whats-on/1064-fs2012ball-and-other-funny-stories-about-cancer/booking/
 ticketprice: £8/£5
 partners: A Contact presentation in association with Word of Warning
-Part of Flying Solo Festival, Special Ticket offer book tickets for two Flying Solo shows for £12/8
-
 ---
 ![Brian Lobel](w2Brian3.jpg) 
 ####In Brief
 Unexpected, humorous and provocative story of cancer survival. You’ll laugh. You’ll cry. You’ll want to perform a self-exam. 
+
+A Part of Flying Solo Festival - SPECIAL OFFER - book tickets for two Flying Solo Shows fo £12/8
 
 Brian Lobel will lead a CAMP LIVE ART Workshop on Thu 8 March, 10am to 4pm. FREE with a show ticket, booking via 0161 274 0600.  
 
