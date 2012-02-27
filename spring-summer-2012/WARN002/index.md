@@ -10,9 +10,11 @@ url-to-buy: http://contactmcr.com/whats-on/1064-fs2012ball-and-other-funny-stori
 ticketprice: £8/£5
 partners: A Contact presentation in association with Word of Warning
 
+
 ---
-![Brian Lobel](w2Brian3.jpg)
+
 ####In Brief
+![Brian Lobel](w2Brian3.jpg)
 Unexpected, humorous and provocative story of cancer survival. You’ll laugh. You’ll cry. You’ll want to perform a self-exam. 
 
 Part of Flying Solo Festival, SPECIAL OFFER: book tickets for two Flying Solo shows for £12/8
