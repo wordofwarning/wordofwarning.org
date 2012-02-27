@@ -30,9 +30,9 @@ In 2008, Lobel received a Wellcome Trust Arts Award for *Fun With Cancer Patient
 ####What People Have Said About Them
 >endearingly brave  *The Economist* 
  
->a raw, powerful piece… a show that is deeply touching in more ways than one  *The Guardian*   
+>a raw, powerful piece… a show that is deeply touching in more ways than one.  *The Guardian*   
 
->a raw and ambitious performance  *Chicago Reader*    
+>a raw and ambitious performance.  *Chicago Reader*    
 
 ####More
 Unexpected, quirky and provocative, *BALL & Other Funny Stories About Cancer* is a unique performance about illness and the changing body over time. Presented by Brian Lobel in one evening for the first time ever, his trilogy of work written in 2003, 2006 and 2009 challenges the stories of cancer survivors and cancer martyrs that have come before – infusing the “cancer story” with an urgency and humour which is sometimes inappropriate, often salacious and always, above all else, honest and open.    
