@@ -48,8 +48,7 @@ You’ll laugh, you’ll cry, you’ll want to perform a self-exam.
 [blobelwarming.com](http://www.blobelwarming.com/)     
 [official Ball website](http://brianlobel.freeservers.com/BALL1.htm). 
 
-####Running Time
-70 Minutes
+*Running Time*: 70 Minutes
 
 ####Workshop
 **CAMP LIVE ART  - Thursday 8 March, 10am to 4pm.  FREE with performance ticket**    
