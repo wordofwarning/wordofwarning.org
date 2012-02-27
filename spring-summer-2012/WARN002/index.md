@@ -24,7 +24,8 @@ Brian Lobel will lead a CAMP LIVE ART Workshop on Thu 8 March, 10am to 4pm. FREE
 ####Who Are They?
 Brian Lobel creates performances about isolated bodies and the dilemma of community and interactivity. Lobel has shown work in a range of contexts, from medical schools to galleries, cabarets to museums. Performances include *Cruising for Art* (Victoria & Albert Museum, London, and Forest Fringe, Edinburgh), *Hold My Hand and We’re Halfway There* (Sadler’s Wells, Shunt, and with the Lower Manhattan Cultural Council, New York), *BALL* (in over 70 cities internationally and published by Routledge in *Understanding Disability Studies and Performance Studies*, 2010), *Other Funny Stories About Cancer*, and *An Appreciation*(Duckie, Bristol Old Vic, PSi Toronto and Purex, Lisbon).   
 
-In 2008, Lobel received a Wellcome Trust Arts Award for *Fun With Cancer Patients*, a grant from the Jerwood Charitable Foundation for *Carpe Minuta Prima* in 2010, a commission from motiroti for *Purge* in 2011 and professional development funding from ACE in 2012. He is a Teaching Associate at Queen Mary, University of London, a Supported Artist at The Basement in Brighton and an Associate Artist for Clod Ensemble’s Performing Medicine.
+In 2008, Lobel received a Wellcome Trust Arts Award for *Fun With Cancer Patients*, a grant from the Jerwood Charitable Foundation for *Carpe Minuta Prima* in 2010, a commission from motiroti for *Purge* in 2011 and professional development funding from ACE in 2012. He is a Teaching Associate at Queen Mary, University of London, a Supported Artist at The Basement in Brighton and an Associate Artist for Clod Ensemble’s Performing Medicine
+.
 ![Brian Lobel](w2Brian1.jpg)
 ####What People Have Said About Them
 >endearingly brave *The Economist* 
@@ -48,6 +49,7 @@ You’ll laugh, you’ll cry, you’ll want to perform a self-exam.
 70 Minutes
 
 ####Workshop
-**CAMP LIVE ART  - Thursday 8 March, 10am to 4pm.  FREE with performance ticket**
+**CAMP LIVE ART  - Thursday 8 March, 10am to 4pm.  FREE with performance ticket**    
 The workshop, *CAMP LIVE ART*, is meant for performers who are interested in interactive work. Using the model of American Summer Camps, workshop participants will create games with and for each other, exploring the artistic, political and personal potential inside creative play, competition and co-operation. Brian Lobel is a former American Summer Camp counsellor and was the activity programmer for Seeds of Peace International Camp - a camp working with children from Palestine/Israel, and India/Pakistan. He uses this experience to directly relate to his understandings about audiences and interactivity, using instructions as a form of dramaturgy. He loves games and is extremely competitive and hopefully all workshop participants will be too.
+
 ![Brian Lobel](w2Brian2.jpg)
