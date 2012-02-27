@@ -58,7 +58,8 @@ Inspired by the strange twists surrounding the mythology of *FARGO*, *The Making
 ####Workshop
 **BULL: YOUR OWN TRUE LIES    
 Wed 7 March, 3pm to 6pm. FREE with a show ticket**    Makishi is a renowned workshop leader and mentor, often opening her making processes to the public through creative workshops alongside performances.  
-*Bull: Your Own True Lies* is a workshop that looks at how truths and lies can feed into performances.  This intensive workshop will explore how to make original work that is derived from your own lives, newspaper stories, family secrets, lies and pop culture.    This workshop galvanises people to    *move faster than think      
+*Bull: Your Own True Lies* is a workshop that looks at how truths and lies can feed into performances.  This intensive workshop will explore how to make original work that is derived from your own lives, newspaper stories, family secrets, lies and pop culture.    This workshop galvanises people to    
+*move faster than think      
 write quicker than edit     
 create faster than critique*        
 *Bull: Your Own True Lies* includes strategies for creating text and devising visual images for your own workshop.    
