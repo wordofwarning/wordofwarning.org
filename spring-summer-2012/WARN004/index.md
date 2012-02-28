@@ -25,6 +25,8 @@ Genevieve trained at the Liverpool Institute of Performing Arts, and has since g
 
 Born and bread in Accrington, Lancashire, Rachel grew up around pies, football and bread and butter pudding. After deciding pie making wasn’t for her, Rachel instead went on to train in dance, working professionally as a performer around the UK and Scotland - with Lisi Perry (ex-Motionhouse/Scottish Dance theatre), Tids Pickard for EEE-Motion  and on the critics choice Scotland award-winning Jane Eyre at Perth Theatre. 
 
+[Watch video here](http://www.youtube.com/watch?v=EP7SxwIppKA)
+
 ####What People Have Said About Them
 >Consistently absurd, uncompromisingly foolish, and committed to exposing the unruly side of dance theatre. The Mustdashios are no normal dancing duo. They offer a delightfully fresh approach to dance, comedy, and what it is to be a woman on stage. They’re daring and fearless in their choreography, insightful in their image making, and unashamedly grotesque whenever they find the opportunity. Focusing on the oddities of day to day life, The Mustdashios will simultaneously provoke your imagination, unweave your expectations and entertain the pants off you.
 
@@ -54,12 +56,17 @@ Bethanie trained in Dance and Visual Art at MMU and has co-directed and co-chore
 
 Levantes Dance Theatre has a constant enthusiasm for fusing artistic disciplines and indulging in vibrant aesthetics. Current, bold and honest, the work visually explores contradictions: the mundane and divine, the absurd and the familiar in a kitsch cocoon of colourful activity.
 
+[Watch video here](http://www.levantesdancetheatre.org/GIn%20and%20Satsumas_Smlr_Prog.mov)
+
 ####What People Have Said About Them
->Often challenging, their previous works have established Levantes Dance Theatre as one of the most innovative modern dance organisations in the country. A powerful critique of glorified normality, Gin & Satsumas is every bit as refreshing as the title suggests.  *Aaron Lavery, Manchester Metro*
+>Often challenging, their previous works have established Levantes Dance Theatre as one of the most innovative modern dance organisations in the country. A powerful critique of glorified normality, Gin & Satsumas is every bit as refreshing as the title suggests.     
+*Aaron Lavery, Manchester Metro*
 
->Without a doubt one of the most intelligent, entertaining and generous works I've ever seen. We need more artists like this. *Silke Arnold, Creative Projects Manager East London Dance*
+>Without a doubt one of the most intelligent, entertaining and generous works I've ever seen. We need more artists like this.    
+ *Silke Arnold, Creative Projects Manager East London Dance*
 
->They bring the stage space alive with their strong presence, and striking use of visual environments. This is certainly a company worth looking out for! *Sally O'Donnell, Leicester University, De Monfort*    
+>They bring the stage space alive with their strong presence, and striking use of visual environments. This is certainly a company worth looking out for!    
+*Sally O'Donnell, Leicester University, De Monfort*    
  
 ####More
  The story of gin and a lot of satsumas.
