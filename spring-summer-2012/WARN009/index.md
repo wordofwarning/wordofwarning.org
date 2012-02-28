@@ -39,7 +39,7 @@ Fleetwood Mac once sang, ‘You can go your own way,’ but when the Lone Ranger
 The myths of the romantic artist and the trailblazing hero are picked apart by one solo performer who wonders whether such loneliness on stage and in life will get him to success quicker. He’ll dance, he’ll sing, he’ll perform – but what’s the point if there’s no-one there to support him?
 
 ####Website
-www.cutteruption.wordpress.com   
+[cutteruption.wordpress.com](http://www.cutteruption.wordpress.com)   
 
 ##Krissi Musiol     
 ###Blue   
@@ -94,7 +94,7 @@ Lowri has a long history of putting her heart on the line. In the increasing blu
 This performance is no exception. By working as close as she can between her own life and her art she knows they reveal something about the other, and hopes to delve into the grey ocean of what it is to be human, in all its cruelty and splendour. 
 
 ####Website
-www.lowrievans.wordpress.com
+[lowrievans.wordpress.com](http://www.lowrievans.wordpress.com)
 
 
 
