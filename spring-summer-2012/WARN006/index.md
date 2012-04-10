@@ -26,8 +26,7 @@ My shows are hand crafted, intimate, naughty, humorous, high brow, low brow, sen
 
 I have shown work in a variety of venues including Bristol Old Vic, Arnolfini (Bristol), Oval House, Chapter Arts Centre, Battersea Arts Centre, Basement Brighton, Colchester Arts Centre, Exeter Phoenix and within Festivals including National Review of Live Art, Inbetween Time and White Nights.
 
-Collaborators include: Dan Canham, Sam Halmarack, Ben Pollock, Ziggy Jacobs,
-Neil Bartlett MBE, Michael Pinchbeck, Bryony Kimmings, Joseph Mercier, Clara Giraud.
+Collaborators include: Dan Canham, Sam Halmarack, Ben Pollock, Ziggy Jacobs, Neil Bartlett MBE, Michael Pinchbeck, Bryony Kimmings, Mamoru Iriguchi,  Clara Giraud.
 
 ####What People Have Said About Him
 
