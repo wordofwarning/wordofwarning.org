@@ -46,6 +46,8 @@ Collaborators include: Dan Canham, Sam Halmarack, Ben Pollock, Ziggy Jacobs, Nei
 ####More
 Tom Marshman is mingling with fashionistas&hellip; but will his winning smile pull him through? 
 
+See his trailer [here](http://vimeo.com/40034437)
+
 Tom has an ambiguous relationship to his legs. He has suffered from varicose veins for a number of years, leading to discomfort, embarrassment and a series of operations. A new-found confidence encouraged Tom to delve into a world of celebrity, stockings, photoshoots, beauty pageants and gender misadventures, so imagine his surprise when he was shortlisted for the Pretty Polly *Best Legs of 2011* competition (and finished in 6th place).
 
 In this intimate performance, Tom conveys a brave story of transformation, hospital visits and rejuvenation, running a half marathon and remembering past embarrassments. Heart-warming and funny, the show celebrates misfits through personal stories, songs and charmingly camp dances. 
@@ -93,6 +95,8 @@ Jen wants to talk to you. Lucy wants more.
 They’ve got some stuff they found in a garage, a strict no-touch policy and conflicting ideas about how to keep you happy.
 
 Maverick makers <small>GETINTHEBACKOFTHEVAN</small> went to see a show where the performers wrote them letters. They didn’t write back – instead this unravelling game of truth and lies is their response.
+
+Hear them talk about the piece [here](http://www.youtube.com/watch?v=ZlvafgN31hs)
 
 *External* hurls a conversation about authenticity and originality right out into the open and forces it to fight for its life, giggling, gnashing and doing its own head in.
 
