@@ -45,7 +45,6 @@ SAT 5 MAY:
 	◦	Rachel Rimmer, Lisa Osborne-Kendall & Andrew Piekarczyk: *Chase/Conversation* (dance films)   
 
 Programme correct as of 13 April 2012   
-A hÅb, Contact, DiGM, Live at LICA co-production;a greenroom legacy project.   
 
 ####More
 In its brief lifespan, *Turn* has seen a real surge in homegrown talent and vision –  mesmerising immersive landscapes, breathtaking physical extremes and extraordinary playful antics in the bar and street.  A true lucky-dip glimpse into just what the North West has to offer – check back here for the results of the open-call and to see just what this year’s turn-out will be.
