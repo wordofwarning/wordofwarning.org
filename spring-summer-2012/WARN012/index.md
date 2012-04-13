@@ -4,7 +4,7 @@ layout: warn
 warn: "012"
 title: "HAZARD 2012"
 by: "Microfestival of intervention"
-dateline: "Coming soon"
+dateline: Sat 21 July, 12-5 pm
 ticketprice: "free, no ticket required"
 
 ---
