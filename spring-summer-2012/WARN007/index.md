@@ -6,7 +6,7 @@ title: "Turn 2012"
 by: "Microfestival of dance"
 venue: Contact
 dateline: Thu 3 May /Fri 4 May /Sat 5 May, 7:30pm
-ticketprice: booking coming soon
+ticketprice: £10/£6, three day pass £20/£12
 partners: "A hÅb, Contact, Dance Initiative Greater Manchester and Live at LICA co-production."
 
 ---
