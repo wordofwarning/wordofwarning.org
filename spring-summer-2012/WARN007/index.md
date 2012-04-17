@@ -12,17 +12,21 @@ partners: "A hÅb, Contact, Dance Initiative Greater Manchester and Live at LICA
 ---
 
 ####In Brief
-![Maelstrom](w7maesltrom.jpg)
+![Maelstrom](w7maesltrom.jpg)    
+
 Bursting into life for its fourth outing, *Turn* pivots into a new home to showcase new and experimental work from the region’s dancemakers.  In a frenzy of loose limbs and lyrical gestures, unfeasible stretches and frantic rhythms, twelve shows and countless performers fill the building with every style imaginable. 
 
 ####Who Are They?
 The list of artists participating is as follows.  Please remember that due to the nature of the event, things may change!    
+![Ellen Turner](w7ellen.jpg)     
+
 THU 3 MAY     
 	◦	Levantes Dance Theatre: *(R&D)*        
 	◦	Jennifer Hale: Taciturn: *A Turn or Two*   
 	◦	Maelstrom Dance: *BALLAST*   
 	◦	Company Fierce Academy: *1 - The Sound Boy experience*   
 	◦	Rachel Rimmer, Lisa Osborne-Kendall & Andrew Piekarczyk: *Chase/Conversation* (dance films)  
+![dt.ellipsis](w7dt.jpg)     
 
 FRI 4 MAY:     
 	◦	Emma Lansley & Eve Stainton: *Better Because I Wear Vintage*     
@@ -34,6 +38,7 @@ FRI 4 MAY:
 	◦	Hannah Buckley & Dwayne Antony Simms: *A Conversation (Part 1)*   
 	◦	Ellen Turner: *Car-door moment*
 	◦	Rachel Rimmer, Lisa Osborne-Kendall & Andrew Piekarczyk: *Chase/Conversation* (dance films)   
+![Kate Jackson](w7kate.jpg)     
 
 SAT 5 MAY:     
 	◦	Kate Jackson Projects: *Solo*   
