@@ -3,6 +3,6 @@ layout: homepage
 
 strapline: "Word of Warning is: [1] An ongoing <a href=\"spring-summer-2012/index.html\">performance</a> collection in a range of Manchester venues; [2] A weekly <a href=\"http://eepurl.com/i_Odb\">email alert</a> of the best contemporary performance in the region."
 
-news: "We showcase the region's newest dance next week in the fourth <a href=\"spring-summer-2012/WARN007\">Turn</a> at a new home [Contact, Thu 3 - Sat 5 May, 7.30pm]</h2><h2>In May our third Sampler Series presents <a href=\"spring-summer-2012/WARN008\">Olwen Davies, Levantes Dance Theatre & Ellie Harrison</a>  [Z-arts, Fri 18 May, 7.30pm]</h2><h2>On Sat 21 July <a href=\"spring-summer-2012/WARN012\">HAZARD</a> invades the streets of Manchester & we're looking for support, please visit our Sponsume pitch."
+news: "Next week <a href=\"spring-summer-2012/WARN007\">Turn</a> showcases the region's newest dance at a new home [Contact, Thu 3 - Sat 5 May, 7.30pm]</h2><h2>Our May Sampler Series presents <a href=\"spring-summer-2012/WARN008\">Olwen Davies, Levantes Dance Theatre, Ellie Harrison</a>  [Z-arts, Fri 18 May, 7.30pm]</h2><h2>On Sat 21 July <a href=\"spring-summer-2012/WARN012\">HAZARD</a> invades the streets of Manchester & we're looking for support, please visit our Sponsume pitch."
 
 ---
