@@ -45,8 +45,7 @@ SAT 5 MAY:
 	◦	Le Petit Mort: *Cabaret Voltaire (solo)*   
 	◦	dt.ellipsis: *It started with a riff*   
 	◦	Joshua Hubbard: *Juan Loco*   
-	◦	Mixed Movement    
-	◦	Company Fierce Academy ◦	Company Fierce Academy: *1 - The Sound Boy experience*      
+	◦	Mixed Movement      
 	◦	Rachel Rimmer, Lisa Osborne-Kendall & Andrew Piekarczyk: *Chase/Conversation* (dance films)   
 
 Programme correct as of 13 April 2012   
