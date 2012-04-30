@@ -36,7 +36,7 @@ FRI 4 MAY:
 	◦	Sarah Ojapah: *And Behold...*   
 	◦	the dangerologists: *Work Songs*   
 	◦	Hannah Buckley & Dwayne Antony Simms: *A Conversation (Part 1)*   
-	◦	Ellen Turner: *Car-door moment*
+	◦	Ellen Turner: *Car-door moment*     
 	◦	Rachel Rimmer, Lisa Osborne-Kendall & Andrew Piekarczyk: *Chase/Conversation* (dance films)   
 ![Kate Jackson](w7kate.jpg)     
 
