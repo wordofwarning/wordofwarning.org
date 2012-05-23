@@ -3,10 +3,10 @@ layout: warn
 
 warn: "011"
 title: "Sampler Series meets The Flare Weekender"
-by: ""
+by: "a smith; Anna Fenemore; Beermann, Sveshtarova, Theisen; Club Reckless; dperformance; Facade Theatre; Formally Silent; Jodean Sumner; Katherina Radeva; Leen Dewilde; Massive Owl; Mole Wetherell; Nicki Hobday; Sleepwalk Collective; Tenderfoot"
 venue: "Z-arts"
 dateline: Fri 8 Jun 7pm / Sat 9 Jun 1pm + 7pm
-ticketprice: "Whole Weekend £15/£10 | Fri or Sat Evening £8/£5 | Sat Afternoon £5/£3 | BUY www.z-arts.org/events/flare-the-weekender"
+ticketprice: "Whole Weekend £15/£10 | Fri or Sat Evening £8/£5 | Sat Afternoon £5/£3 | ONLINE SALES www.z-arts.org/events/flare-the-weekender"
 partners: "Word of Warning & Flare Festival"
 
 ---
@@ -15,14 +15,14 @@ Presented in collaboration with Word of Warning's Sampler Series, The Flare Week
 
 After the Flare International Festival of New Theatre in 2011, the Flare Weekender is doing it all again, but this time in one place in just two days... Full schedule www.flarefestival.com
 ![Katherina Radeva](w11katherina.jpg)
-##Fri 8 June, 7pm onwards includes:
+####Fri 8 June, 7pm onwards includes:
 Beermann, Sveshtarova, Theisen - Velocity Pumps (ltd capacity, repeats Sat)
 Katherina Radeva - Fallen Fruit - now here, now gone
 Leen Dewilde - String Section (ltd capacity, repeats Sat)
 Sleepwalk Collective - Amusements
 live music by Gideon Conn
 ![Sleepwalk Collective](w11sleepwalk.jpg)
-##Sat 9 June, 1pm onwards includes:
+###Sat 9 June, 1pm onwards includes:
 Club Reckless - Daddy Cool
 Formally Silent - On Writing
 ##Sat 9 June, 2.30pm onwards includes:
@@ -30,7 +30,7 @@ Facade Theatre - Here Alone, (Together) (ltd capacity, repeats)
 Anna Fenemore (Pigeon Theatre) - performance workshop
 Mole Wetherell (Reckless Sleepers) - performance workshop
 artist forum
-##Sat 9 June, 7pm onwards includes:
+#Sat 9 June, 7pm onwards includes:
 a smith - commonwealth
 Beermann, Sveshtarova, Theisen - Velocity Pumps (ltd capacity, shown Fri)
 Jodean Sumner - It starts like this
@@ -41,7 +41,4 @@ Nicki Hobday - The Flare Cabaret
 Tenderfoot - The Flare Cabaret
 live music by Maria and The Gay and more - The Flare Party
 
-Presented with, and supported by Word of Warning
-Hosted by Z-arts (formerly Zion Arts Centre)
-Supported by University of Salford & MMU Cheshire
-Supported using public funding by the National Lottery through Arts Council England
+Presented with, and supported by Word of Warning; Hosted by Z-arts (formerly Zion Arts Centre); Supported by University of Salford & MMU Cheshire; Supported using public funding by the National Lottery through Arts Council England.
