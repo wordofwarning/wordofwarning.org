@@ -5,7 +5,7 @@ warn: "010"
 title: "Works Ahead: Interactions"
 by: "Julieann O'Malley; Angel Club (north); Fallen Wall Arts; Small Acts"
 venue: Contact
-dateline: Fri 1 June from 4pm 'til late
+dateline: Fri 1 June from 4pm to 9pm
 ticketprice: £1 per interaction (on the door)
 partners: "A hÅb/Contact Re:Con co-production for Word of Warning."
 
