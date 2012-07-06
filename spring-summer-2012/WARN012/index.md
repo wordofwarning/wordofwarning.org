@@ -13,5 +13,6 @@ ticketprice: "free, no ticket required"
 
 Manchester’s micro-festival of incidental intervention and sited performance returns for its fourth outing - chance encounters, random occurrences and risky ventures around and about the city centre.
 
-The full programme will be announced very shortly at  [hazardmcr.org](http://hazardmcr.org)   
+The full programme will be announced very shortly at  [hazardmcr.org](http://hazardmcr.org)      
+
 
