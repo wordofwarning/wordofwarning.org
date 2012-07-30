@@ -1,0 +1,24 @@
+---
+
+layout: base
+
+bodyclass: example # classname on body - add per-event styles to assets/stylesheets/events.css
+event: "Example event" # name of the season or event
+rootpath: "../../../"
+
+---
+
+		<div class="row">
+			<div class="eight columns">
+				{{content}}
+			</div>
+			<div class="four columns">
+				<h3>{{ page.event }}</h3>
+				<ul>
+					<li><a href="">An artist</a></li>
+					<li><a href="">An artist</a></li>
+					<li><a href="">An artist</a></li>
+					<li><a href="">An artist</a></li>
+				</ul>
+			</div>
+		</div>

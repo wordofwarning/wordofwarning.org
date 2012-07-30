@@ -9,10 +9,10 @@
 	<meta name="viewport" content="width=device-width" />
 	<title>Word of Warning: {{ page.event}}</title>
 
-	<link rel="stylesheet" href="{{ page.rootpath }}/assets/vendor/zurb/stylesheets/foundation.css">
-	<!-- <link rel="stylesheet" href="{{ page.rootpath }}/assets/vendor/zurb/stylesheets/app.css"> -->
-	<link rel="stylesheet" href="{{ page.rootpath }}/assets/stylesheets/wordofwarning.css">
-	<link rel="stylesheet" href="{{ page.rootpath }}/assets/stylesheets/events.css">
+	<link rel="stylesheet" href="{{ page.rootpath }}assets/vendor/zurb/stylesheets/foundation.css">
+	<!-- <link rel="stylesheet" href="{{ page.rootpath }}assets/vendor/zurb/stylesheets/app.css"> -->
+	<link rel="stylesheet" href="{{ page.rootpath }}assets/stylesheets/wordofwarning.css">
+	<link rel="stylesheet" href="{{ page.rootpath }}assets/stylesheets/events.css">
 	
 	{% if page.header_image %}
 	<style>
@@ -20,7 +20,7 @@
 			{background:url({{ page.header_image }}) center center !important;}
 	</style>
 	{% endif %}
-	<script src="{{ page.rootpath }}/assets/vendor/zurb/javascripts/modernizr.foundation.js"></script>
+	<script src="{{ page.rootpath }}assets/vendor/zurb/javascripts/modernizr.foundation.js"></script>
 	<script type="text/javascript" src="http://use.typekit.com/yjo8lcl.js"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 	

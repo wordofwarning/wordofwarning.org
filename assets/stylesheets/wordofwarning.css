@@ -13,6 +13,9 @@
 	#sitelevel a
 		{margin-right:4px; padding:1px;}
 
+	h1, h2, h3, h4, h5
+		{font-weight:normal;}
+
 	article header
 		{height:500px; margin-bottom:27px;}
 	article header #titles

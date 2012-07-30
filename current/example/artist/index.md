@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: example-show # the season or event-specific template in /_layouts
+layout: show-example # the season or event-specific template in /_layouts
 
 # ABOUT THE SHOW - GENERIC
 artist: "J. Random Artist" # the name of the artist or company
