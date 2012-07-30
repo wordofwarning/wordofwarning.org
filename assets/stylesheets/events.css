@@ -6,7 +6,7 @@
 	body,
 	.artist, 
 	.show,
-	.season,
+	.season
 		{background:#fff; color:#111;}
 
 	blockquote
@@ -15,12 +15,15 @@
 		{color: #444;}
 
 	a,
-	a:visited
-		{color:#666;}
+	a:visited,
 	a:hover
+		{color:#666;}
+	article a:hover,
+	footer a:hover,
+	nav a:hover
 		{background: #000; color: #fff;}
 
-	article header
+	.splash
 		{background:url(../images/header_default.jpg) -150px center}
 
 /* an example (not pretty) event styling
@@ -33,12 +36,15 @@
 		{background:#f00; color:#fff;}
 
 	.example a,
-	.example a:visited
-		{color:#fff;}
+	.example a:visited,
 	.example a:hover
+		{color:#fff;}
+	.example nav a:hover,
+	.example article a:hover,
+	.example footer a:hover
 		{background: #fff; color: #f00;}
 		
-	.example article header
+	.example .splash
 		{background:url(../images/header_example.png) -150px center}
 		
 /* hazard
@@ -51,9 +57,12 @@
 		{background:#fd0; color:#000;}
 
 	.hazard a,
-	.hazard a:visited
-		{color:#000;}
+	.hazard a:visited,
 	.hazard a:hover
+		{color:#000;}
+	.hazard nav a:hover,
+	.hazard article a:hover,
+	.hazard footer a:hover
 		{background: #000; color: #fff;}
-	.hazard article header
+	.hazard .splash
 		{background:url(../images/header_2012_hazard.jpg) center center}

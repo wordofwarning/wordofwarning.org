@@ -16,13 +16,20 @@
 	h1, h2, h3, h4, h5
 		{font-weight:normal;}
 
-	article header
+	a.splash
+		{display:block; text-decoration:none;}
+	a.splash:hover
+		{background:#000}
+		
+	.splash
 		{height:500px; margin-bottom:27px;}
-	article header #titles
-		{padding: 160px 0 0 0;}
-	article header #titles div
+	.splash .titles
+		{padding: 160px 0 0 0; display:block;}
+	.archive .splash .titles
+		{padding: 230px 0 0 0;}
+	.splash .titles div
 		{max-width:70%;}
-	article header h1, article header h2, article header h3, article header h4, article header h5
+	.splash h1, .splash h2, .splash h3, .splash h4, .splash h5
 		{display:inline; font-weight: normal; max-width:50%;  padding:0 10px;}
 	.show
 		{font-style: italic;}

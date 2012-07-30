@@ -16,7 +16,7 @@
 	
 	{% if page.header_image %}
 	<style>
-		article header
+		.splash
 			{background:url({{ page.header_image }}) center center !important;}
 	</style>
 	{% endif %}

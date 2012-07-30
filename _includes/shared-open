@@ -1,26 +1,15 @@
 <!-- begin _includes/shared-open.html -->
 <body class="{% if page.bodyclass %}{{ page.bodyclass }}{% endif %}">	
 	<div id="page">
-		<header id="sitelevel">
-			<div class="row">
-				<div class="twelve columns">
-					<a href="{{ page.rootpath }}index.html">Word of Warning</a> 
-					<nav>
-						<!-- <a href="">Emergency!</a> -->
-						<a href="">Weekly alert</a>
-						<a href="">Archive</a>  
-					</nav>
-				</div>
-			</div>
-		</header>
+		{% include shared-nav %}
 		<article>
-			<header>
+			<header class="splash">
 				<div class="row">
 					<div class="twelve columns">
 						<h5 class="season">{{ page.event }}</h5>
 					</div>
 				</div>
-				<div id="titles" class="row">
+				<div class="titles row">
 					<div>
 						{% if page.artist %}<h{% if page.artist_size %}{{ page.artist_size }}{% else %}1{% endif %} class="artist">{{ page.artist }}</h{% if page.artist_size %}{{ page.artist_size }}{% else %}1{% endif %}><br> {% endif %}
 						{% if page.show %}<h{% if page.show_size %}{{ page.show_size }}{% else %}2{% endif %} class="show">{{ page.show }}</h{% if page.show_size %}{{ page.show_size }}{% else %}2{% endif %}> {% endif %}

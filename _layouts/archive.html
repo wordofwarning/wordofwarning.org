@@ -1,0 +1,17 @@
+{% include shared-head %}
+<body class="archive">	
+	<div id="page">
+		{% include shared-nav %}
+		{% for item in page.archived %}
+			<div class="{{ item.class }}">
+				<a class="splash" href="archive/{{ item.folder }}/index.html">
+					<span class="titles row">
+						<h1 class="artist">{{ item.name }}</h1>
+					</span>
+				</a>
+			</div>
+		{% endfor %}
+
+			<article>
+{% include shared-close %}
+
