@@ -10,6 +10,7 @@ show: "Kitty has no pity: the art of not giving up"
 
 # ABOUT THE SHOW - LAYOUT
 header_image: "header.jpg"
+show_size: 3
 
 # ABOUT THE SHOW - HAZARD
 hatch: false

@@ -10,6 +10,7 @@ show: "YOUPON Quality Time Experiences"
 
 # ABOUT THE SHOW - LAYOUT
 header_image: "header.jpg"
+show_size: 3
 
 # ABOUT THE SHOW - HAZARD
 hatch: false
