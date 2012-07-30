@@ -1,0 +1,30 @@
+<!-- begin _includes/shared-open.html -->
+<body class="{% if page.bodyclass %}{{ page.bodyclass }}{% endif %}">	
+	<div id="page">
+		<header id="sitelevel">
+			<div class="row">
+				<div class="twelve columns">
+					<a href="/">Word of Warning</a> 
+					<nav>
+						<a href="">Emergency!</a> 
+						<a href="">Weekly alert</a>
+						<a href="">Archive</a>  
+					</nav>
+				</div>
+			</div>
+		</header>
+		<article>
+			<header>
+				<div class="row">
+					<div class="twelve columns">
+						<h5 class="season">Hazard 2012</h5>
+					</div>
+				</div>
+				<div id="titles" class="row">
+					<div>
+						<h1 class="artist">Lembrança UK</h1><br>
+						<h2 class="show">Guantanamo Presence</h2>
+					</div>
+				</div>
+			</header>
+<!-- end _includes/shared-open.html -->

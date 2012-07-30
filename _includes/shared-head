@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width" />
+	<title>Title</title>
+
+	<link rel="stylesheet" href="../../../assets/vendor/zurb/stylesheets/foundation.css">
+	<!-- <link rel="stylesheet" href="../../../assets/vendor/zurb/stylesheets/app.css"> -->
+	<link rel="stylesheet" href="../../../assets/stylesheets/wordofwarning.css">
+	<link rel="stylesheet" href="../../../assets/stylesheets/events.css">
+	
+	<!--
+	<style>
+		article header
+			{background-image:url(header.jpg)}
+	</style>
+	-->
+	<script src="../../../assets/vendor/zurb/javascripts/modernizr.foundation.js"></script>
+	<script type="text/javascript" src="http://use.typekit.com/yjo8lcl.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	
+	<!--[if lt IE 9]>
+	<link rel="stylesheet" href="assets/vendor/zurb/stylesheets/ie.css">
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+</head>

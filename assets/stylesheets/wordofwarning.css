@@ -1,0 +1,27 @@
+/* CORE SITE STYLES ---------------------------*/
+
+	body
+		{font-family: "minion-pro", Georgia, Times;}
+
+	#page
+		{max-width:1000px; margin:0 auto; overflow:hidden;}
+
+	#sitelevel
+		{padding:8px 0; overflow:hidden;}
+	#sitelevel nav
+		{display: inline; margin-left: 10px; float:right;}
+	#sitelevel a
+		{margin-right:4px; padding:1px;}
+
+	article header
+		{height:500px;}
+	article header #titles
+		{padding: 160px 0 0 0;}
+	article header #titles div
+		{max-width:70%;}
+	article header h1, article header h2, article header h3, article header h4, article header h5
+		{display:inline; font-weight: normal; max-width:50%;  padding:0 10px;}
+	.show
+		{font-style: italic;}
+	.season
+		{float: right; margin-top:20px; padding: 1px 4px;}

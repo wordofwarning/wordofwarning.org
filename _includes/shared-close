@@ -1,0 +1,19 @@
+<!-- begin _includes/shared-close.html -->
+		</article>
+		<footer>
+			TODO: footer here
+		</footer>
+	</div>
+
+	<!--
+	<script src="../../../assets/vendor/jquery/javascripts/jquery.min.js"></script>
+	<script src="../../../assets/vendor/zurb/javascripts/jquery.reveal.js"></script>
+	<script src="../../../assets/vendor/zurb/javascripts/jquery.orbit-1.4.0.js"></script>
+	<script src="../../../assets/vendor/zurb/javascripts/jquery.customforms.js"></script>
+	<script src="../../../assets/vendor/zurb/javascripts/jquery.placeholder.min.js"></script>
+	<script src="../../../assets/vendor/zurb/javascripts/jquery.tooltips.js"></script>
+	<script src="../../../assets/vendor/zurb/javascripts/app.js"></script>
+	-->
+
+</body>
+</html>
