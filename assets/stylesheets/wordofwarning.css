@@ -29,6 +29,9 @@
 	.season
 		{float: right; margin-top:20px; padding: 1px 4px;}
 
+	ul.menu
+		{list-style:none;}
+
 	footer
 		{margin:64px 0 27px 0;}
 	

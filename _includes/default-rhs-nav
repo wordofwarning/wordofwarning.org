@@ -1,0 +1,6 @@
+				<h4><a href="../index.html" style="text-decoration:none;">{{ page.event }}</a></h4>
+				<ul class="menu">
+					{% for artist in page.artists %}
+						<li><a href="{% unless page.is_index %}../{% endunless %}{{artist.folder}}/index.html">{{ artist.name }}</a></li>
+					{% endfor %}
+				</ul>

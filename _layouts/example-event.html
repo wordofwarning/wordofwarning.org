@@ -1,0 +1,26 @@
+---
+
+layout: base
+
+bodyclass: example # classname on body - add per-event styles to assets/stylesheets/events.css
+event: "Example event" # name of the season or event
+
+# to use default rhs navigation, fill in the list of artists
+# nb that you can also write custom rhs navigation just for this event
+# by changing the template below
+artists:
+    - {folder: artist, name: "Artist One"}
+    - {folder: artist, name: "Artist Two"}
+    - {folder: artist, name: "Artist Three"}
+    - {folder: artist, name: "Artist Four"}
+ 
+---
+
+		<div class="row">
+			<div class="eight columns">
+				{{content}}
+			</div>
+			<div class="four columns">
+				{% include default-rhs-nav %}
+			</div>
+		</div>

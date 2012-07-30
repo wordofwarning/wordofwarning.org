@@ -35,3 +35,20 @@
 		
 	.example article header
 		{background:url(../images/header_example.png) -150px center}
+		
+/* hazard
+------------------------------------------------------*/
+
+	.hazard,
+	.hazard .artist, 
+	.hazard .show,
+	.hazard .season
+		{background:#fd0; color:#000;}
+
+	.hazard a,
+	.hazard a:visited
+		{color:#000;}
+	.hazard a:hover
+		{background: #000; color: #fff;}
+	.hazard article header
+		{background:url(../images/header_2012_hazard.jpg) center center}
