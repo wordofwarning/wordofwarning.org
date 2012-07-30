@@ -7,6 +7,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "GETINTHEBACKOFTHEVAN"
 show: "External"
+artist_size: 2
 
 ---
 
