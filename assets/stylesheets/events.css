@@ -9,10 +9,10 @@
 	.season
 		{background:#fff; color:#111;}
 
-	#sitelevel a,
-	#sitelevel a:visited
+	a,
+	a:visited
 		{color:#666;}
-	#sitelevel a:hover
+	a:hover
 		{background: #000; color: #fff;}
 
 	article header
@@ -27,11 +27,11 @@
 	.example .season
 		{background:#f00; color:#fff;}
 
-	.example #sitelevel a,
-	.example #sitelevel a:visited
+	.example a,
+	.example a:visited
 		{color:#fff;}
-	.example #sitelevel a:hover
+	.example a:hover
 		{background: #fff; color: #f00;}
 		
 	.example article header
-		{background:url(../images/header_example.jpg) -150px center}
+		{background:url(../images/header_example.png) -150px center}

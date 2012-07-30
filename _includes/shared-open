@@ -4,7 +4,7 @@
 		<header id="sitelevel">
 			<div class="row">
 				<div class="twelve columns">
-					<a href="/">Word of Warning</a> 
+					<a href="{{ page.rootpath }}">Word of Warning</a> 
 					<nav>
 						<a href="">Emergency!</a> 
 						<a href="">Weekly alert</a>
@@ -17,13 +17,13 @@
 			<header>
 				<div class="row">
 					<div class="twelve columns">
-						<h5 class="season">Hazard 2012</h5>
+						<h5 class="season">{{ page.event }}</h5>
 					</div>
 				</div>
 				<div id="titles" class="row">
 					<div>
-						<h1 class="artist">Lembrança UK</h1><br>
-						<h2 class="show">Guantanamo Presence</h2>
+						<h{% if page.artist_size %}{{ page.artist_size }}{% else %}1{% endif %} class="artist">{{ page.artist }}</h{% if page.artist_size %}{{ page.artist_size }}{% else %}1{% endif %}><br>
+						<h{% if page.show_size %}{{ page.show_size }}{% else %}2{% endif %} class="show">{{ page.show }}</h{% if page.show_size %}{{ page.show_size }}{% else %}2{% endif %}>
 					</div>
 				</div>
 			</header>
