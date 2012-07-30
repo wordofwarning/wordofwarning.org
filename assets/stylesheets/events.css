@@ -6,8 +6,13 @@
 	body,
 	.artist, 
 	.show,
-	.season
+	.season,
 		{background:#fff; color:#111;}
+
+	blockquote
+		{border-left-color:#444;}
+	blockquote, blockquote p
+		{color: #444;}
 
 	a,
 	a:visited

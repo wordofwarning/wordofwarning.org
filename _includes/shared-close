@@ -25,6 +25,11 @@
 					<p><img src="{{page.rootpath}}assets/images/logos.png" alt="Supported by Arts Council England / Lottery Funded by Arts Council England, and by Manchester City Council"></p>
 				</div>
 			</div>
+			<div class="row">
+				<div class="twelve columns">
+					<small>Copyright &copy;2012 Word of Warning. All rights reserved.</small>
+				</div>
+			</div>
 		</footer>
 	</div>
 
