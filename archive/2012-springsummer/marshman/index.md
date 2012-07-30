@@ -22,7 +22,7 @@ I have shown work in a variety of venues including Bristol Old Vic, Arnolfini (B
 
 Collaborators include: Dan Canham, Sam Halmarack, Ben Pollock, Ziggy Jacobs, Neil Bartlett MBE, Michael Pinchbeck, Bryony Kimmings, Mamoru Iriguchi,  Clara Giraud.
 
-####What People Have Said About Him
+####What people have said about him
 
 >We fully support your project and if the quest for *Legs11* helps bring it to a more public view, we are delighted. - *David Hinchliffe, brands director, Pretty Polly.*
 

@@ -12,7 +12,7 @@ show: "Chips"
 
 ![The Mustdashios](w4mustdash.jpg)
 
-####Who Are They?
+####Who are they?
 
 The Mustdashios are Genevieve Say and Rachel Entwhistle:    
 Genevieve trained at the Liverpool Institute of Performing Arts, and has since gone on to establish herself as a professional dancer working nationally and internationally. Genevieve combines her dance training with other influences, including clowning, theatre, film and live music, leading to an eclectic mix of collaborations including Collision (Lisi Perry), Gary Clarke, Flukt (Norway), Eee-Motion, Sweetshop Revolution, and Axial Dance. 

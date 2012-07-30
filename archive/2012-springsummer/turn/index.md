@@ -16,7 +16,7 @@ show: "Dance Microfestival"
 
 Bursting into life for its fourth outing, *Turn* pivots into a new home to showcase new and experimental work from the region’s dancemakers.  In a frenzy of loose limbs and lyrical gestures, unfeasible stretches and frantic rhythms, twelve shows and countless performers fill the building with every style imaginable. 
 
-####Who Are They?
+####Who are they?
 The list of artists participating is as follows.  Please remember that due to the nature of the event, things may change! 
   
 ![Ellen Turner](w7ellen.jpg)     

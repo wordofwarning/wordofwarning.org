@@ -16,7 +16,7 @@ I will love you... to death
 
 ![fallenwall](W10fallenwall.jpg)
 
-####Who Are They?
+####Who are they?
 
 Jack Coverdale is the founder/director of Fallen Wall, a contemporary arts company, specialising in performance work and based in Preston, UK.  Interested in the live-ness of performance and what distinguishes it from television and film, the work is never polished, high-tech or big budget and strives to expose artifice instead.    
 

@@ -12,7 +12,7 @@ show: "Etiquette of Grief"
 
 ![Ellie Harrison](w8ellie.jpg)
 
-####Who Is She?
+####Who is she?
 
 Ellie Harrison is a performance maker and artist living and working in Leeds.
 She creates a range of solo and collaborative devised performance work for studios, galleries, found and public spaces.
@@ -21,7 +21,7 @@ Previous performance work includes the touring solo show Dressing the Part which
  
 Following Dressing the Part Ellie went on to make *Revolution!* with Ollie Smith, a performance specifically designed for Vodka Revolution bars and commissioned by HATCH and Nott Dance.  Ellie is on the Artistic Direction team of Pointed Arrow, making journey based public art projects including pushing a 1/2 tonne sailing boat 105 miles around the cities, villages and countryside of Yorkshire. 
 
-####What People Have Said About Her
+####What people have said about her
 
 >Etiquette of Grief is a gem of a show. Smart, funny, touching, and performed with real conviction. Ellie Harrison is definitely one to watch. - *Robert Pacitti, SPILL Festival of Performance*
 

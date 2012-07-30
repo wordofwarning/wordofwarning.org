@@ -13,7 +13,7 @@ artist_size: 2
 
 ![GETINTHEBACKOFTHEVAN](w6getintheback.jpg)
 
-####Who Are They?
+####Who are they?
 
 GETINTHEBACKOFTHEVAN is Hester Chillingworth, Lucy McCormick and Jennifer Pick, a London-based performance company, formed in 2008.
 

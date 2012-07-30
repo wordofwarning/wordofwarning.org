@@ -16,11 +16,11 @@ How does love exist when you're not there? Live Letter is about absence, love, a
 
 ![Lowri Evans](w9lowri.jpg)
 
-####Who Is She?
+####Who is she?
 
 Ten years ago Lowri didn’t get into drama school so she studied art. She moved to Manchester, learnt to think sideways, formed a punk band and found her own way to make theatre.   
 
-####What People Have Said About Her
+####What people have said about her
 
 >Compelling - *David Hoyle* 
 

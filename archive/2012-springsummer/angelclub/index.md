@@ -18,7 +18,7 @@ show: "Minute"
 
 ![angelclub](w10angelclub2.jpg)
 
-####Who Are They?
+####Who are they?
 
 Based in the North West of England, Angel Club (north) have been making performance for 10 years in both theatre studios and public settings. Recent works include 'Beyond the Sea' (2008-2010) and 'Obstacles to Coming home' (2007-9) The company has presented at The National Review of Live Arts (Glasgow) and enjoyed a 10 year working relationship with ‘greenroom’. They  presented  the  finale of the last ever greenroom emergency in 2010. 
 

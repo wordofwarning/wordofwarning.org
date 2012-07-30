@@ -14,7 +14,7 @@ show: "Blue"
 
 Blue is burying your head in the sand, it's drowning in whiskey and it's compiling a list of all the things you haven't yet done.     
 
-####Who Is She?
+####Who is she?
 
 Krissi Musiol is the last person to leave the party (but not necessarily the last one standing).
 
@@ -22,7 +22,7 @@ Krissi Musiol is the last person to leave the party (but not necessarily the las
 
 Krissi Musiol cannot dance - she can't waltz, can't salsa, she can't do a pirouette.  She can't do the twist, the tango, a tap dance, the tarantella.  She's can't two-step, hand-jive, boogie woogie, break dance, dirty dance, maypole dance.  She can't moonwalk.  No ballet, polka, flamenco, fandango, vogue or rumba.  Nor Irish dancing, Latin dancing, Polish dancing, no pole dancing.  There is no way her legs can do a Can-Can. 
 
-####What People Have Said About Her
+####What people have said about her
 
 >The way its language, movement, visuals and content were integrated created something simultaneously richly-layered and spare, intensely plausible yet built on a single family’s histories and myths.  From the moment when Musiol first appears on the white stage in a bridal gown, “a girl in a rotten grey dress searching for a rotten grey man”, the blend of truth and fiction, folklore and history, is seamlessly achieved. - *Audience member, Hatch, NEAT 11*
 

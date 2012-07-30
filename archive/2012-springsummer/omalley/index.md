@@ -18,7 +18,7 @@ An immersive experience investigating the future possibilities of the human race
 
 Julieann O’Malley actually lives under two different identities and always lies about her age… she suffers with Automatonophobia.     
 
-####What People Have Said About Her 
+####What people have said about her 
 
 >Julieann O’Malley makes live performance installations & video work that's raw, visceral emotionally charged, resonant, questioning, poignant, mesmerizing & evocative. - *Robyn Woolston – Artist.*    
 
