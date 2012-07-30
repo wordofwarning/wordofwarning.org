@@ -7,7 +7,7 @@
 <head>
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width" />
-	<title>Word of Warning: {{ page.event}}</title>
+	<title>Word of Warning: {{ page.season }}</title>
 
 	<link rel="stylesheet" href="{{ page.rootpath }}assets/vendor/zurb/stylesheets/foundation.css">
 	<!-- <link rel="stylesheet" href="{{ page.rootpath }}assets/vendor/zurb/stylesheets/app.css"> -->

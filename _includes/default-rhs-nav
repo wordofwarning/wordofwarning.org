@@ -1,6 +1,15 @@
-				<h4><a href="../index.html" style="text-decoration:none;">{{ page.event }}</a></h4>
+			<h4><a href="{% unless page.is_index %}../{% endunless %}index.html" style="text-decoration:none;">{{ page.season }}</a></h4>
+			{% for event in page.events %}	
+				<!-- <em>WARN {{ event.warn }}</em> -->
+				{% if event.date %} <em>{{ event.date }}</em> {% endif %}
+				{% if event.link_title %}
+				<h4 style="margin-top:0;">{% if event.link_title %}<a href="{% unless page.is_index %}../{% endunless %}index.html" style="text-decoration:none;">{% endif %}{{ event.label }}{% if event.link_title %}</a>{% endif %}</h4>
+				{% else  %}
+				<h5 style="margin:0; text-transform:uppercase;">{{ event.label }}</h5>
+				{% endif %}
 				<ul class="menu">
-					{% for artist in page.artists %}
-						<li><a href="{% unless page.is_index %}../{% endunless %}{{artist.folder}}/index.html">{{ artist.name }}</a></li>
+					{% for artist in event.artists %}
+						<li>{% if artist.folder %}<a href="{% unless page.is_index %}../{% endunless %}{{artist.folder}}/index.html">{% endif %}{{ artist.name }}{% if artist.folder %}</a>{% endif %}</li>
 					{% endfor %}
 				</ul>
+			{% endfor %}

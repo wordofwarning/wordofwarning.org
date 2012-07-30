@@ -3,40 +3,48 @@
 layout: base
 
 bodyclass: hazard
-event: "Hazard 2012"
+season: "Hazard 2012"
 
-artists:
-    - {folder: aitchison, name: "Bill Aitchison"}
-    - {folder: beavis, name: "Amelia Beavis-Harrison"}
-    - {folder: bidolak, name: "Alex Bidolak"}
-    - {folder: burn, name: "sean burn"}
-    - {folder: cochrane, name: "Clare Cochrane"}
-    - {folder: burrow, name: "Dangerous Times"}
-    - {folder: foster, name: "Annette Foster"}
-    - {folder: agfkf, name: "Gale-Feeny &amp; Fishman"}
-    - {folder: gramophones, name: "The Gramophones"}
-    - {folder: hamblen, name: "Martin Hamblen"}
-    - {folder: jeeves, name: "Tim Jeeves"}
-    - {folder: larkin, name: "Larkin' About"}
-    - {folder: lembranca, name: "Lembrança UK"}
-    - {folder: liquid, name: "Liquid"}
-    - {folder: mautner, name: "Jessica Mautner"}
-    - {folder: omalley, name: "Julieann O'Malley"}
-    - {folder: parry, name: "Rachel Parry"}
-    - {folder: pinchbeck, name: "Michael Pinchbeck"}
-    - {folder: radeva, name: "Katherina Radeva"}
-    - {folder: raven, name: "Simon Raven"}
-    - {folder: shrug, name: "SHRUG"}
-    - {folder: smallthings, name: "Small Things"}
-    - {folder: smith, name: "Nicola Smith"}
-    - {folder: smykla, name: "Harald Smykla"}
-    - {folder: zoo, name: "Zoo Indigo"}
+events:
+    -   warn: "011"
+        artists:
+            - {folder: aitchison, name: "Bill Aitchison"}
+            - {folder: beavis, name: "Amelia Beavis-Harrison"}
+            - {folder: bidolak, name: "Alex Bidolak"}
+            - {folder: burn, name: "sean burn"}
+            - {folder: cochrane, name: "Clare Cochrane"}
+            - {folder: burrow, name: "Dangerous Times"}
+            - {folder: foster, name: "Annette Foster"}
+            - {folder: agfkf, name: "Gale-Feeny &amp; Fishman"}
+            - {folder: gramophones, name: "The Gramophones"}
+            - {folder: hamblen, name: "Martin Hamblen"}
+            - {folder: jeeves, name: "Tim Jeeves"}
+            - {folder: larkin, name: "Larkin' About"}
+            - {folder: lembranca, name: "Lembrança UK"}
+            - {folder: liquid, name: "Liquid"}
+            - {folder: mautner, name: "Jessica Mautner"}
+            - {folder: omalley, name: "Julieann O'Malley"}
+            - {folder: parry, name: "Rachel Parry"}
+            - {folder: pinchbeck, name: "Michael Pinchbeck"}
+            - {folder: radeva, name: "Katherina Radeva"}
+            - {folder: raven, name: "Simon Raven"}
+            - {folder: shrug, name: "SHRUG"}
+            - {folder: smallthings, name: "Small Things"}
+            - {folder: smith, name: "Nicola Smith"}
+            - {folder: smykla, name: "Harald Smykla"}
+            - {folder: zoo, name: "Zoo Indigo"}
 
 ---
 
 		<div class="row">
 			<div class="eight columns">
 				{{content}}
+				{% if page.hatch %}
+					<a href="http://hatchnottingham.co.uk"><img src="../../../assets/images/hatch.png" alt="Hatch"></a>
+				{% endif %}
+				{% if page.larkin %}
+					<a href="http://larkin-about.co.uk"><img src="../../../assets/images/larkin.png" alt="Larkin About"></a>
+				{% endif %}
 			</div>
 			<div class="four columns">
 				{% include default-rhs-nav %}

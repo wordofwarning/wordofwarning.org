@@ -6,7 +6,7 @@
 			<header class="splash">
 				<div class="row">
 					<div class="twelve columns">
-						<h5 class="season">{{ page.event }}</h5>
+						<a href="{% unless page.is_index %}../{% endunless %}index.html"><h5 class="season">{{ page.season }}</h5></a>
 					</div>
 				</div>
 				<div class="titles row">
