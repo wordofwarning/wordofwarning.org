@@ -16,11 +16,11 @@ The self-imposed isolation of a solo performer meets a love of cabaret in a show
 
 ![Gareth Cutter](w9gareth.jpg)
  
-####Who Is He
+####Who is he?
 
 Involved in Manchester's performance scene for over 3 years, running The Cabaret Of Ida Bucket, showcasing local acts at Mother's Ruin and creating work with the likes of hÅb, Manchester Library Theatre and Larkin’ About.  He combines clowning and physical comedy, music, writing and visual arts to explore serious topics playfully, creating homemade costumes and props that straddle the line between the ingenious and crude, work in parody and satire, exaggerate the best and worst aspects of my personality to absurd lengths and keep a straight face when doing stupid things.     
 
-####What People Have Said About Him
+####What people have said about him
 
 >Gareth Cutter is no good, chop him up for firewood - *a lullaby his dad used to sing to him as a child.*
 
