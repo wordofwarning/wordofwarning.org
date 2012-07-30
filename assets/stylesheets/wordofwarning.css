@@ -25,3 +25,11 @@
 		{font-style: italic;}
 	.season
 		{float: right; margin-top:20px; padding: 1px 4px;}
+
+	footer
+		{margin:64px 0 27px 0;}
+	
+	article a, footer a
+		{text-decoration: underline}
+	article a:hover, footer a:hover
+		{text-decoration: none}

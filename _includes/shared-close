@@ -1,7 +1,29 @@
 <!-- begin _includes/shared-close.html -->
 		</article>
 		<footer>
-			TODO: footer here
+			<div class="row">
+				<div class="four columns">
+					<h5>Word of Warning</h5>
+					<p>Word of Warning is a <a href="http://www.habarts.org/">hÅb</a> production. <a href="{{page.seasonpath}}index.html">Read more</a></p>
+					<p>
+					Tamsin Drury,  hÅb<br>
+					c/o Z-Arts Centre, 335 Stretford Road, Manchester, M15 5ZA<br>
+					<a href="">info@habarts.org</a>
+					0161 232 6086
+					</p>
+				</div>
+				<div class="four columns">
+					<h5 id="mailer">Weekly Update</h5>
+					<p><a href="{{ site.mailer_signup_url }}">Sign up</a> for your no-nonsense <a href="http://wordofwarning.posterous.com/">weekly e-mail</a> signpost to the bizarre, the beautiful and the best contemporary performance within range of Manchester.</p>
+					<h5>Calendar</h5>
+					<p>Word of Warning also maintains a <a href="https://www.google.com/calendar/embed?src=wordofwarningmcr%40gmail.com&amp;ctz=Europe/London">Google calendar</a> of events in the region.</p>
+				</div>
+				<div class="four columns">
+					<p>A greenroom legacy project.</p>
+					<p>With thanks to Z-Arts, Manchester Digital Development Agency and Helen Palmer.</p>
+					<p><img src="{{page.rootpath}}/assets/images/logos.png" alt="Supported by Arts Council England / Lottery Funded by Arts Council England, and by Manchester City Council"></p>
+				</div>
+			</div>
 		</footer>
 	</div>
 
