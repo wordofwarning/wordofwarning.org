@@ -3,8 +3,8 @@
 				<div class="twelve columns">
 					<a href="{{ page.rootpath }}index.html">Word of Warning</a> 
 					<nav>
-						<!-- <a href="">Emergency!</a> -->
-						<a href="">Weekly alert</a>
+						<a href="http://emergencymcr.org">Emergency</a>
+						<a href="{{ site.mailer_signup_url }}">Weekly update</a>
 						<a href="{{ page.rootpath }}archive.html">Archive</a>  
 					</nav>
 				</div>

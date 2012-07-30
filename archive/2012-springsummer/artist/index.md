@@ -6,7 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "J. Random Artist"
-show: "A Great Big Show"
+show: "A Great Show"
 
 ---
 
