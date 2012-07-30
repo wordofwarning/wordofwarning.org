@@ -18,15 +18,13 @@
 
 	a.splash
 		{display:block; text-decoration:none;}
-	a.splash:hover
-		{background:#000}
 		
 	.splash
 		{height:500px; margin-bottom:27px;}
 	.splash .titles
 		{padding: 180px 0 0 0; display:block;}
 	.archive .splash .titles
-		{padding: 230px 0 0 0;}
+		{padding: 240px 0 0 0;}
 	.splash .titles div
 		{max-width:70%;}
 	.splash h1, .splash h2, .splash h3, .splash h4, .splash h5
