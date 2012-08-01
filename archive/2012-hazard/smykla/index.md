@@ -7,9 +7,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Harald Smykla"
 show: "FACE VALUE Currency X Change Manchester"
-
-# ABOUT THE SHOW - LAYOUT
-header_image: "header.jpg"
+show_size: 4
 
 # ABOUT THE SHOW - HAZARD
 hatch: false

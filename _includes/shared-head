@@ -21,7 +21,7 @@
 	</style>
 	{% endif %}
 	<script src="{{ page.rootpath }}assets/vendor/zurb/javascripts/modernizr.foundation.js"></script>
-	<script type="text/javascript" src="http://use.typekit.com/yjo8lcl.js"></script>
+	<script type="text/javascript" src="{{ site.typekit_url }}"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 	
 	<!--[if lt IE 9]>
