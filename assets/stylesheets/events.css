@@ -64,6 +64,19 @@
 	.hazard .show,
 	.hazard .season
 		{background:#fd0; color:#000;}
+		
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	body.hazard
+		{background: #fd0 url(../images/angle_small.png) center top no-repeat}
+}
+@media only screen and (min-width: 960px) and (max-width: 1399px) {
+	body.hazard
+		{background: #fd0 url(../images/angle_medium.png) center top no-repeat}
+}
+@media only screen and (min-width: 1400px) and (max-width: 1599px) {
+	body.hazard
+		{background: #fd0 url(../images/angle_large.png) center top no-repeat}
+}
 
 	.hazard a,
 	.hazard a:visited,
