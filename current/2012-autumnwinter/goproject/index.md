@@ -5,8 +5,8 @@ layout: 2012-autumnwinter
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "J. Random Artist" # the name of the artist or company
-show: "A Great Big Show" # the name of the show
+artist: "Action Hero vs. GO Project"
+show: "Frontman"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -15,6 +15,15 @@ show: "A Great Big Show" # the name of the show
 
 ---
 
-Text about the show. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Sed posuere consectetur est at lobortis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit.
+####In Brief
+Poised on the edge of catastrophe, Frontman is a furiously loud, raucous reproduction of the all the best gigs you never saw. With borrowed ramblings from iconic frontmen, the ghost of Elvis/Dolly/Kurt/Iggy is channeled by a girl in sequins, whilst a techie in rabbit ears refuses to watch the show. She turns up the volume and humps the speakers, and tells the crowd she loves them.     
 
-VENUE & BOOKING DETAILS HERE
+Balanced between euphoria and a car crash, Frontman is part-gig, part-perfomance for an audience who like it loud.    
+
+![Frontman](Action_Hero_6.jpg)
+
+Date:    Friday, 12 October, 7.30pm    
+Venue:  GORILLA, 54-56 Whitworth Street West, M15 5WW    
+Tickets: [£8/5](http://www.wegottickets.com/wordofwarning)      
+Tel:       0161 832 1111    
+
