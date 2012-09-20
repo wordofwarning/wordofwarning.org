@@ -2,8 +2,11 @@
 			{% for event in page.events %}	
 				<!-- <em>WARN {{ event.warn }}</em> -->
 				{% if event.date %} <em>{{ event.date }}</em> {% endif %} {% if event.venue %} ({{ event.venue }}) {% endif %}
-				<h5 style="margin:0; text-transform:uppercase;">{{ event.label }}</h5>
+				<h5 style="margin:5px 0 0 0; text-transform:uppercase;">{{ event.label }}</h5>
 				<ul class="menu">
+				    {% if event.rawhtmlinstead %}
+				        <li>{{ event.rawhtmlinstead }}</li>
+				    {% endif %}
 					{% for artist in event.artists %}
 						<li>{% if artist.folder %}<a href="{% unless page.is_index %}../{% endunless %}{{artist.folder}}/index.html">{% endif %}{{ artist.name }}{% if artist.folder %}</a>{% endif %}</li>
 					{% endfor %}

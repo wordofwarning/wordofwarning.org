@@ -1,0 +1,28 @@
+---
+
+layout: base
+
+season: "Emergency 2012"
+bodyclass: example
+
+events:
+    -   warn: "012"
+        artists:
+            - {folder: artist, name: "Artist"}
+  
+---
+
+		<div class="row">
+			<div class="eight columns">
+				{{content}}
+				{% if page.hatch %}
+					<a href="http://hatchnottingham.co.uk"><img src="../../../assets/images/hatch.png" alt="Hatch"></a>
+				{% endif %}
+				{% if page.larkin %}
+					<a href="http://larkin-about.co.uk"><img src="../../../assets/images/larkin.png" alt="Larkin About"></a>
+				{% endif %}
+			</div>
+			<div class="four columns">
+				{% include default-rhs-nav %}
+			</div>
+		</div>
