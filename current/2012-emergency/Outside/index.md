@@ -5,8 +5,8 @@ layout: 2012-emergency
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "J. Random Artist" # the name of the artist or company
-show: "A Great Big Show" # the name of the show
+artist: "Outside" # the name of the artist or company
+show: "12-5pm" # the name of the show
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -15,10 +15,18 @@ show: "A Great Big Show" # the name of the show
 
 ---
 
-Text about the show. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Sed posuere consectetur est at lobortis. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Nullam id dolor id nibh ultricies vehicula ut id elit.
+####anton hecht   *video reality*    	
+Video Reality seeks to create a virtual world, with low tech technology, for single audience members with whose assistance the two performers will take through the looking glass anyone with a sense of wonder.  It is a dance of possibilities that you, the audience, engage in with performers. A fun and immersive work that shows the full poetential of performers working with technology.      
 
-Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo. Sed posuere consectetur est at lobortis. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Maecenas sed diam eget risus varius blandit sit amet non magna.
+anton hecht studied creative arts and fine arts at Manchester University then went to Newcastle as artist in residence for the year of visual arts. He works in video, mostly with communities and non professionals of all ages on works that seek to question the notion of professionalism. He works across genre, including dance, classical music and poetry. This work is being created in collaboration with Michael Davies, a designer, who has worked with many companies in the North East.    
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sed diam eget risus varius blandit sit amet non magna.
+####Clarissa Sacchelli   *Untitled*    
+A performance about a desire for stillness.  It is about what moves to immobilise and what is in stillness to move, about an impossible possibility that can just exist in interrelations.    
+    
+Clarissa Sacchelli is a London-based artist that has been creating her own work since 2007. She works with video art, performance art, dance and installation. Her works have already been presented in Brazil, U.K. and Portugal. Clarissa is currently doing a Master in Creative Practice at Laban (London, UK).    
 
-Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Curabitur blandit tempus porttitor. Maecenas sed diam eget risus varius blandit sit amet non magna. Etiam porta sem malesuada magna mollis euismod. Aenean lacinia bibendum nulla sed consectetur.
+####Larkin’ About    *Mix Tape*    
+
+####Streethead    
+
+####Sam Treadaway    
