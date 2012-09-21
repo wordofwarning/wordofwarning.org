@@ -109,6 +109,7 @@ Alice Malseed is from Northern Ireland and lives in London. She makes performanc
 ####Lee and Burrow   *Wait A Minute*    
 *Are you struggling to find time in this fast-moving world?  Learn to harness the power to become time rich.*	
 Julie Burrow is Artistic Director of Dangerous Times theatre company, producing Montage Of Misery for the Not Part Of Festival 2011 (5 stars, Forever Manchester award) and Youpon Quality Time Experiences at this year's Hazard.  She has previously performed with Organised Chaos, Elysion Productions, Hens' Teeth Theatre and Larkin' About.  She is an actor, writer, director and storyteller.    
+
 Jessica Lee's piece Stalking My Neighbour was in emergency accommodation 2012.  Her site specific piece the Swayze Stall was part of the Mayhem In The Market event by Question Your Teaspoons at Goole Market.  She was a documenter at Michael Mayhew's In Remembrance.  She worked with Julie at Hazard 2012 and at Contact Theatre's 24 Arty People.    
 ####Moreno Solinas   *URANUS*    
 Moreno Solinas trained at London Contemporary Dance School. He performed with Bonachela Dance Company, DV8 Physical Theatre, Stan Won't Dance and Earthfall. He is a co-founder of BLOOM! Dance Collective. He is also a Work Place artist, Escalator artist and was commissioned for The Place Prize 2012.    
@@ -116,4 +117,5 @@ Moreno Solinas trained at London Contemporary Dance School. He performed with Bo
 A one-man performance, devised in collaboration with Lowri Jones, using spoken word, projection and movement.    
 
 You've been waiting for the kettle to boil, your train to arrive, and your lunch to be served. I've been waiting for you. The passing of time and the harsh weather have troubled my thoughts and my body. For the first or the thousandth time, I've been waiting for you to wait with me. You don't have to stay for long, but without you, I'm not much.    
-Leo Olamerino is a theatre-based artist working primarily with artists collective, Fake|Simile. As a performance maker, Leo aims to provoke stories rather than telling them, by providing the audience with material that aims at triggering our 'collective imagination' and regularly collaborates with established as well as emerging companies and artists.    
+
+Leo Olamerino is a theatre-based artist working primarily with artists collective, Fake|Simile. As a performance maker, Leo aims to provoke stories rather than telling them, by providing the audience with material that aims at triggering our 'collective imagination' and regularly collaborates with established as well as emerging companies and artists.    
