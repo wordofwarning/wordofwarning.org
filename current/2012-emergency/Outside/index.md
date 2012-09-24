@@ -42,3 +42,5 @@ Currently a BA Theatre/Performance student at University College, Falmouth inc. 
 A performance about a desire for stillness.  It is about what moves to immobilise and what is in stillness to move, about an impossible possibility that can just exist in interrelations.    
     
 Clarissa Sacchelli is a London-based artist that has been creating her own work since 2007. She works with video art, performance art, dance and installation. Her works have already been presented in Brazil, U.K. and Portugal. Clarissa is currently doing a Master in Creative Practice at Laban (London, UK).    
+![Clarissa Sacchelli](Sacchelli.jpg)
+

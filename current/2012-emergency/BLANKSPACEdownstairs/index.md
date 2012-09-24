@@ -22,7 +22,10 @@ Kitty trained at Trinity Laban. During my time there I was lucky enough perform 
 ####Nicola Smith   *Human Desktop*	    
 Nicola Smith will become a human desk were the audience can explore their curiosity by simply sitting, looking, handling items, sharing stories and speaking directly to the artist.	Inspired by the artist at work, who not only uses the studio but also spends a lot of their time attached to their desk.  In fact most of her time is spent at a desk writing proposals, researching and making. This piece offers a unique insight into her daily practice. The audience can explore their curiosity and explore the artist's desk by simply looking, handling items, sharing stories and speaking directly to the artist.       
 
-Nicola Smith is a visual artist who makes work in response to the context of her surroundings using different mediums such as live art intervention, performance, installation and video. She punctuates situations in public and private spaces by playing 'host' and acting out a series of actions. Smith's actions take on many forms such as public speaking, directing, singing and dancing in order to engage and disrupt the expectations of the audience. These performances happen in semi-public spaces to allow accidental audiences to take part.    ####Sturgeon's Law   *Between Us (you and me)*    	                            	
+Nicola Smith is a visual artist who makes work in response to the context of her surroundings using different mediums such as live art intervention, performance, installation and video. She punctuates situations in public and private spaces by playing 'host' and acting out a series of actions. Smith's actions take on many forms such as public speaking, directing, singing and dancing in order to engage and disrupt the expectations of the audience. These performances happen in semi-public spaces to allow accidental audiences to take part.    
+
+![Human Desktop](NicolaSmith.jpg)
+    ####Sturgeon's Law   *Between Us (you and me)*    	                            	
 *She tries not to care when you say cruel things about her. No matter what, she'll always love you.*      
 A short, one on one performance based on a text by US author Daniel Abraham and adapted by his kind permission.	     
 
@@ -38,6 +41,8 @@ And it is all documented.But... On the 13th of October 2012 all of Alexandra's 
 Come to her greenhouse and become part of her bean family! Adopt a plant and additionally you will receive its own, unique video documentation...      And... After all, how will you take care of your vicia faba? 	
 
 Alexandra Kraszko is a solo artist, who has recently been seen in angel club (north)'s 'minute'. Alexandra is open for collaboration, but mainly experimenting within the fields of live art, installation, durational and one to one performance.     
+
+![Vicio Fabia](planting.png)
 ####Raoul Simpson   *Past Reflections*    
 An interactive mirror that hangs on the wall, as people pass and look in, it's their image but with the face of the preceding viewer, superimposed over theirs,that they see.    
 
@@ -66,12 +71,16 @@ Julieann O'Malley is an interdisciplinary artist based in Liverpool, UK.
 A place to discuss ideas while you have a manual worker's finger nail fitted - fake false finger nails painted to look soiled, split, bruised or generally affected by manual work. Each is a tiny painting.  Fitting it is an intimate situation involving close physical proximity and touch. As such, it provides a perfect opportunity for slow and thoughtful discussion with strangers. Lets talk...    
 
 Much of Clare's work involves interaction with the public. She is particularly interested in using the work itself as a process of negotiation.   
+![Nail Bar](NailBar.jpg)
 
 ####Moreno Solinas   *URANUS*    
 Moreno Solinas trained at London Contemporary Dance School. He performed with Bonachela Dance Company, DV8 Physical Theatre, Stan Won't Dance and Earthfall. He is a co-founder of BLOOM! Dance Collective. He is also a Work Place artist, Escalator artist and was commissioned for The Place Prize 2012.    
+![(Uranus](Uranus.jpg)
 ####Leo Olamerino   *I've been waiting for you*    
 A one-man performance, devised in collaboration with Lowri Jones, using spoken word, projection and movement.    
 
 You've been waiting for the kettle to boil, your train to arrive, and your lunch to be served. I've been waiting for you. The passing of time and the harsh weather have troubled my thoughts and my body. For the first or the thousandth time, I've been waiting for you to wait with me. You don't have to stay for long, but without you, I'm not much.    
 
-Leo Olamerino is a theatre-based artist working primarily with artists collective, Fake|Simile. As a performance maker, Leo aims to provoke stories rather than telling them, by providing the audience with material that aims at triggering our 'collective imagination' and regularly collaborates with established as well as emerging companies and artists.    
+Leo Olamerino is a theatre-based artist working primarily with artists collective, Fake|Simile. As a performance maker, Leo aims to provoke stories rather than telling them, by providing the audience with material that aims at triggering our 'collective imagination' and regularly collaborates with established as well as emerging companies and artists.    
+![I've been waiting for you](LeoBurtin.jpg)
+

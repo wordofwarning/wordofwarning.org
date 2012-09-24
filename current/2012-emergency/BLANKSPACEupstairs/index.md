@@ -18,15 +18,18 @@ show: "12-5pm" # the name of the show
 ####Katie Taylor   *Let me wash your face*    
 A shared ritual of cleansing exploring trust and vulnerability. How do we mark the moments of pain and pleasure which shape our lives?	A shared ritual of cleansing, exploring trust and vulnerability. How do we mark the moments of pain and pleasure which shape our lives?         
 Katie is an emerging artist interested in performativity, ritual, gender and sexuality. She studies English and Drama at Salford University.    
+
 ####Kris Rowland/ How We Run	*Please don't touch*    
 Homosapien,  from Nottingham, is looking for a mate or friend to join him in his new space. WLTM the same/similar species for a meetup very soon. If interested please inquire below...      	
 
 Kris Rowland is an emerging live artist and film maker who works through queer and often autobiographical frames within intimate and interactive settings. He has previously worked with  Rachel Bernard, Chris Goode, Marc Hulson, Peter Mills and is a founding member of How We Run collective.  He has performed at Stoke Newington Airport, Embrace Arts Centre, De Montford University,  FIVE YEARS gallery, DEDA dance and Birmingham's Custard Factory    
+![Kris Rowland](KrisRowland.jpg)
 ####Jojo Townsend  *The wow project: Task Three*	    
 *Go onto Google Maps and find a place where you feel like you lost something. Pinpoint the location and explain what you lost.*	    
 With a laptop, a printer and Google maps you and Jojo Townsend navigate the world of lost items and people. You'll leave something behind of yourself but you'll take more with you: a fuller heart and a few biscuits in your belly.	    
 
 Jojo Townsend is a performance artist and designer currently in her final year at Central St Martins. She makes heartfelt art pieces, installations and one-to-one performances. They are about people she has met, loved, lived with and lost.     
+![WoW Project](JoJo.jpg)
 
 ####aswespeakproject   *I know this, I do this all the time (I don't like it though)*    
 *I do this again and again: I will close my eyes and keep still. You will draw. I will repeat your pattern until it becomes mine.  Could you also tell me what to wear?*      

@@ -19,6 +19,7 @@ show: "12-5pm" # the name of the show
 Follow the artist on screen and in person along mirrored pathways that suddenly turn upside down, through impossible forests of black paper, past looming geometric constructions. And just when you thought you are getting your bearings, the artist remakes the landscape ahead of you.    
 
 Stephanie Douet exhibits sculpture, performance and installation at various UK venues including the De La Warr Pavillion, V&A, Outpost Norwich, Kraak Manchester and home London. She is currently exhibiting in 'Sinopticon' at National Trust's Saltram House and Plymouth Museum. Douet also co-curates the Queen of Hungary Project Space.    
+![Stephanie Douet](Douet.jpg)
 
 ####Qasim Riza Shaheen	*Misplaced Memoirs*    
 Qasim Riza Shaheen invites you to step into his world and experience his declarations of love and desire.    
@@ -45,3 +46,4 @@ Aliyah Hussain graduated from Manchester Metropolitan University in 2009. She ha
 
 David Birchall started playing the guitar in 1994 and has continued to ever since, gigging and touring extensively with a variety of groups in the UK, France, Holland, Germany, Spain, Portugal, Czech Republic, Austria, Switzerland, Italy, Palestine and Denmark. He consciously locate's improvisation at the core of his musical work.    
 Supported by Arts Council England, Salford University, Dance Initiative Greater Manchester and Manchester Dance Consortium.    
+![The Dreaming](dreaming.png)

@@ -34,6 +34,7 @@ But this time will be different.  This time you won't play by the rules.  This t
 Wayne Steven Jackson creates *'poignant, beautiful and clever'* work.  Fusing video and liveness he confronts the fleeting moments of performance and explores ideas of memory and of being.  Image created by Alana Danielle Richards.     
 
 He has worked for eight years creating 'funny, baffling, mystical, absurd and mind bending' work with Escape Theatre, creating seven pieces of live performance both with Escape and as a solo artist.  Wayne is currently exploring the relationship between live performance and memory, using video within his performances with intelligence and creativity as an aide to exploring his and his audience's position to his work.    
+![and two](Wayne.jpg)
 ####Sedated By A Brick	*Sedated By A Brick present Serrated By A Knife present Sedated By A Brick*	
 A fevered dream, a paranoid trip or an inter-generational seance?  Whatever way you see it, they are a company possessed. 	Tonight Sedated By A Brick will summon up the spirits of their alter-ego theatre company, Serrated By A Knife.    
 *Is there anybody out there?*    
@@ -49,6 +50,7 @@ Allan is just another strong, successful person in control of his single and fab
 A take on the cult classic *Sex and the City*,  Allan explores the ideals of modern city living through a staged TV episode where his interior monologue and perception of the world in his own psycho drama soon goes awry after he comes to a realisation about the world he has constructed.    
 
 Allan Taylor is a live artist, writer and theatre-maker whose work ranges from theatrical performance to durational installations and intimate performances. His work investigates the absurd in relation to the self and how external expectations affect our internal self-perception, often using character and façade to display the dichotomy between our ideals and reality.    
+ ![Allan Taylor](allan.jpg)
    ####Sh!t Theatre	*Sh!t Theatre's JSA (Job Seekers Anonymous)*    
 A unique and humorous exploration of the (un)employment situation in the UK today. Expect song, satire and a sharing of stories. 	
 *We all know someone who's on the dole. Your dad's on the dole. Your dog's on the dole. You're probably on the dole, aren't you? Or even worse, maybe you have a job....* 
@@ -59,7 +61,8 @@ See Sh!t Theatre before they hit the big time. Or have to go work at Poundland.
 Sh!t Theatre are: Louise Mothersole and Rebecca Biscuit. With backgrounds in performance art, music and long-form improv, they have been writing and performing together since summer 2010. This project is supported by Escalator East and the Arts Council for England.     
 
 As performers they have collectively worked with: Duckie, The Barbican, Bobby Baker, Ron Athey, Marisa Carnesky, Split Britches' Lois Weaver and Peggy Shaw, Stacy Makishi, Helena Hunter, Julia Bardsley,  The RSC.   
-[www.shittheatre.co.uk](http://www.shittheatre.co.uk)   
+[www.shittheatre.co.uk](http://www.shittheatre.co.uk)  
+![sh!t theatre](sh!t.jpg) 
 ####Jenny Duffy and Massive Owl	*The MOBB Project*    
 There's this man sat at a desk.    
 There's this man and he's not sat at a desk...    
@@ -71,6 +74,7 @@ The MOBB Project is a new collaboration between Bristol based theatre company Ma
   
 Jenny is a performance maker and writer from Bristol, now based in Newcastle upon Tyne. Jenny is also the higher education 'GIFTed' co-ordinator for Gateshead International Festival of Theatre (GIFT).    
 [www.massiveowltheatre.com](http://www.massiveowltheatre.com)    
+[MOBB](MOBB2.jpg)    
 ####Lena Simic	   *1994*    
 A homage to Kurt Cobain, forgotten soldiers and failed encounters from a life lived retrospectively.    
 This solo performance is a story about 1994.    
@@ -81,6 +85,7 @@ A performative confession of a 37 year old woman who is remembering a 27 year ol
 This piece is about the troubling thrill of living life retrospectively.    
 
 Lena Simic, performance practitioner and pedagogue, born in Dubrovnik, Croatia, living in Liverpool, UK. Co-organiser of The Institute for the Art and Practice of Dissent at Home, an art activist initiative run from her family home. Lena's autobiographical performance practice is informed by its relation to everyday lived experience, memory and fantasy.    
+![1994](1994.jpg)   
 
 ####70/30 Split	   *Content part 1:*    
 Two women search for content. Meaning and substance is sourced through the philosophical medium of burlesque. Two women perform.    
