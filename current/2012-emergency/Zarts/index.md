@@ -59,8 +59,8 @@ See Sh!t Theatre before they hit the big time. Or have to go work at Poundland.
 Sh!t Theatre are: Louise Mothersole and Rebecca Biscuit. With backgrounds in performance art, music and long-form improv, they have been writing and performing together since summer 2010. This project is supported by Escalator East and the Arts Council for England.     
 
 As performers they have collectively worked with: Duckie, The Barbican, Bobby Baker, Ron Athey, Marisa Carnesky, Split Britches' Lois Weaver and Peggy Shaw, Stacy Makishi, Helena Hunter, Julia Bardsley,  The RSC.   
-[www.shittheatre.co.uk](http://www.shittheatre.co.uk)    
- ####Jenny Duffy and Massive Owl	*The MOBB Project*    
+[www.shittheatre.co.uk](http://www.shittheatre.co.uk)   
+####Jenny Duffy and Massive Owl	*The MOBB Project*    
 There's this man sat at a desk.    
 There's this man and he's not sat at a desk...    
 There are four men and one woman and they are all sat on chairs.    
