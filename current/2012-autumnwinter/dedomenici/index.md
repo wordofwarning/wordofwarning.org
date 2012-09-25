@@ -26,7 +26,7 @@ See video [here.](http://www.youtube.com/watch?v=T3bCKVk2Ui0)
 Artist, Filmmaker, Raconteur and Manufacturer of Dangerous Toys since 1798.    
 
 ####What people have said about him:
->The thinking man's Ashton Kutcher<br>*Matt Truemanm, The Guardian*    
+>The thinking man's Ashton Kutcher<br>*Matt Trueman, The Guardian*    
 >Beautiful acts of absurdity highlighting more serious issues.  Frighteningly effective.<br>*The Guardian*       
 >Clever, tremendously funny, powerfully political and unafraid to be accessible.  Think of comic activist Mark Thomas crossed with TV satirist Chris Morris, and you have something approximating DeDomenici.<br>*The Sunday Herald*    
 >This is the Future<br>*Time Out*    
