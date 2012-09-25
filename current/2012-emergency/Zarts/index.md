@@ -51,8 +51,9 @@ Allan is just another strong, successful person in control of his single and fab
 A take on the cult classic *Sex and the City*,  Allan explores the ideals of modern city living through a staged TV episode where his interior monologue and perception of the world in his own psycho drama soon goes awry after he comes to a realisation about the world he has constructed.    
 
 Allan Taylor is a live artist, writer and theatre-maker whose work ranges from theatrical performance to durational installations and intimate performances. His work investigates the absurd in relation to the self and how external expectations affect our internal self-perception, often using character and façade to display the dichotomy between our ideals and reality.    
- ![Allan Taylor](allan.jpg)     
- ####Sh!t Theatre	*Sh!t Theatre's JSA (Job Seekers Anonymous)*    
+ ![Allan Taylor](allan.jpg)    
+ 
+####Sh!t Theatre	*Sh!t Theatre's JSA (Job Seekers Anonymous)*    
 A unique and humorous exploration of the (un)employment situation in the UK today. Expect song, satire and a sharing of stories.    
 
 *We all know someone who's on the dole. Your dad's on the dole. Your dog's on the dole. You're probably on the dole, aren't you? Or even worse, maybe you have a job....* 
