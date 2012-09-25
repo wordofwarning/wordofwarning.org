@@ -45,7 +45,7 @@ He has toured nationally with various shows and has received commissions, platfo
 
 
 ####Venue & Booking Details
-Date:   Friday 2 November, 7.30pm    
+Date: Friday 2 November, 7.30pm (doublebill with Richard DeDomenici)    
 Venue:	Z-arts, 335 Stretford Road, Manchester, M15 5ZA    
 Tickets: £8/5    
-Tel:      0161 232 6089     
+Tel: 0161 232 6089     
