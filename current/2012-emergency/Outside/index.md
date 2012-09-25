@@ -36,7 +36,7 @@ Sam Treadaway is a multimedia artist whose practise includes live art, book-arts
 ###Near Castlefield Gallery    
 
 ####Streethead    
-Fluxus inspired street installation	
+Fluxus inspired street installation.    
 Currently a BA Theatre/Performance student at University College, Falmouth inc. Dartington College of Arts and an emerging Live Artist, experimenting with audience reaction	Born and raised in Manchester, during the 80's he performed with the Hulme based Dogs of Heaven.    
 
 ####Clarissa Sacchelli   *Untitled*    

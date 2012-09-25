@@ -47,7 +47,7 @@ Alexandra Kraszko is a solo artist, who has recently been seen in angel club (no
 An interactive mirror that hangs on the wall, as people pass and look in, it's their image but with the face of the preceding viewer, superimposed over theirs,that they see.    
 
 Raoul Simpson is an Irish based, self taught lighting/video artist who has taken his techniques, experiences and materials used as a lighting designer within the entertainment industry to create existing and thought provoking interactive artworks.     
-####Evans & Gaskell   *100 Deeds*    
+####Evans + Gaskell   *100 Deeds*    
 A visual gathering of deeds to define feminism in the modern day	It is deeds that are needed, not words. We're just not sure what deeds they should be.    
 
 100 years ago, a woman did something which was considered by everyone to be truly heroic/irrational/essential/extremist/empowering/detrimental.  When Emily Wilding Davison jumped in front of the King's horse, her action would go on to impact how a nation perceives feminism.    

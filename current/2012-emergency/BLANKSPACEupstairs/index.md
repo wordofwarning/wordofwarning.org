@@ -57,7 +57,7 @@ Georgie Grace's films work to activate the sensory dimensions of language, using
 I’m 24 and my world is really nice but there are lots of cracks. It’s like there’s been a tornado and loads of important bits have been blown away and broken. I remember being 4 and thinking everything was amazing, and I remember thinking that at 18 too. I’m afraid this piece is about being naive.    
 
 Alice Malseed is from Northern Ireland and lives in London. She makes performance with, for and about communities. Her work is honest, sometimes brutally so. Alice is currently studying MA Applied Drama at Goldsmiths.     
-####Lee and Burrow   *Wait A Minute*    
+####Burrow + Lee   *Wait A Minute*    
 *Are you struggling to find time in this fast-moving world?  Learn to harness the power to become time rich.*	
 Julie Burrow is Artistic Director of Dangerous Times theatre company, producing Montage Of Misery for the Not Part Of Festival 2011 (5 stars, Forever Manchester award) and Youpon Quality Time Experiences at this year's Hazard.  She has previously performed with Organised Chaos, Elysion Productions, Hens' Teeth Theatre and Larkin' About.  She is an actor, writer, director and storyteller.    
 

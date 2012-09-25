@@ -37,7 +37,7 @@ Liam Herne will be dressed as a bear and shaving himself.
 
 Liam Herne is a mixed media artist.  He usually presents his work in the mediums of video, photography and performance.  He was born in Watford, Hertfordshire and has lived there most of his life.  He currently works as an art and photography teacher.    
 
-####Platt, Birchall and Hussain	*The Dreaming*    
+####Platt, Birchall + Hussain	*The Dreaming*    
 Myth of creation and how it all began. By Rebekka Platt in collaboration with David Birchall & Aliyah Hussain.    
 
 Rebekka graduated from Salford University in 2010 and has worked with a range of artists from different disciplines: choreographer Saju Hari, musician & visual artist Goran Vejvoda, musician David Birchall, Volkov Commanders, Edwina Ashton and Genevieve Say.    
