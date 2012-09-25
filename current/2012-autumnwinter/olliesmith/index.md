@@ -20,11 +20,7 @@ Real rockstars die aged 27. Ollie Smith is 26. He is not a rockstar. Yet. Sittin
 ![27](Ollie27_1.jpg)    
 
 ####More    
-<<<<<<< HEAD
-**Hendrix.  Joplin.  Morrison.  Cobain.  Winehouse.  (Smith?)**     
-=======
-####Jones. Hendrix. Joplin. Morrison. Cobain. Winehouse. Smith?  
->>>>>>> Ollie edits JF
+**Jones. Hendrix. Joplin. Morrison. Cobain. Winehouse. Smith?**  
 *27 is drugs, booze, suffocation, electrocution, suicide and murder.    
 It is hero-worshiping, celebrity-idolising, self-gratifying, growing-up-and-falling-down masturbation.    
 27 is my current solo performance project.   
@@ -52,4 +48,4 @@ He has toured nationally with various shows and has received commissions, platfo
 Date:   Friday 2 November, 7.30pm    
 Venue:	Z-arts, 335 Stretford Road, Manchester, M15 5ZA    
 Tickets: £8/5    
-Tel:		0161 232 6089     
+Tel:      0161 232 6089     
