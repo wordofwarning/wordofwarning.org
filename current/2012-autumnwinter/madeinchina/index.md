@@ -15,13 +15,13 @@ show: "We Hope That You’re Happy (Why Would We Lie?)" # the name of the show
 
 ---
 
-####In Brief
+####In Brief    
 Jess is stuck. Her lifelong friend, Chris, can’t help. The others are out getting wasted. And the world is falling apart.    
 Luckily Jess and Chris have a cooler full of beer, a goofy rapport, a series of dance moves - and a sincere desire to make you, the audience, happy.    Or so they claim.    
 They also claim that each other are liars. That they only met last year. And that they are eyewitnesses to the key world events of the last hundred years.     A flat-out, unhinged and very normal  performance about trying to connect: to the person next to you and to the unknown victim of a televised tragedy.    *We Hope That You’re Happy (Why Would We Lie?)* is a hilarious and unsettling examination of what it means to be a tuned-in, delusional and unwitting consumer in a hyper-communicative world.    
 ![We Hope That You're Happy](Made-In-China_0134.jpg)    
 
-####More
+####More    
 Formed in 2009 and already a National Theatre Studio affiliate company, Made In China debuted with *Stationary Excess*, performed on an exercise bike at Underbelly, Edinburgh 2010 before transferring to the Shunt Lounge.  Part of Forest Fringe’s Edinburgh 2011 programme, the two hander *We Hope That You’re Happy…* turned more heads with an unhinged, riotous mix of new writing and live art that informs the company’s unique style.   
 
 Watch video trailer [here.](http://vimeo.com/30622699) 
