@@ -23,7 +23,7 @@ Balanced between euphoria and a car crash, *Frontman* is part-gig, part-perfoman
 ![Frontman](Action_Hero_6.jpg)
 
 ####More
-*“I just wanna say that as of right now, this time tonight, you are my favourite fucking audience I’ve ever had!”*   
+*I just wanna say that as of right now, this time tonight, you are my favourite fucking audience I’ve ever had!*   
 
 On a small raised stage surrounded by a tightly packed crowd on three sides cut through with haze and lights, a frontman lip-synchs, dances in spangled hotpants, sings her heart out and reminds us all how thankful she is that we’re all here.    
 
@@ -50,12 +50,12 @@ It feels like a music gig but we know its not.  The frontman knows this and we k
 ####Credits      
 Action Hero vs. GO Project was co-commissioned by In Between Time and hÅb. Frontman was co-commissioned by Fierce festival 2011 and IBT. Supported by Forest Fringe and Residence. National tour supported by ACE. Photos by Briony Campbell.     
 
-####Websites:
+####Websites
 [www.actionhero.org.uk](http://www.actionhero.org.uk)
 
 Date:    Friday, 12 October, 7.30pm    
 Venue:  GORILLA, 54-56 Whitworth Street West, M15 5WW    
-Tickets: [£8/5](http://www.wegottickets.com/wordofwarning) also available from GORILLA in person at their bar      
-Tel:       0161 832 1111 (ticketmaster)   
+Tickets: [£8/5](http://www.wegottickets.com/wordofwarning) (also available in person from GORILLA's bar)      
+Tel:       0161 832 1111 (Ticketmaster)   
 
 ![Frontman](Action_Hero_2.jpg)
