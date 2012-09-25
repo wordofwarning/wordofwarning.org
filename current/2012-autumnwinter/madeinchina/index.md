@@ -41,4 +41,4 @@ Watch video trailer [here.](http://vimeo.com/30622699)
 Date:   Friday 30 November, 7.30pm    
 Venue:	Z-arts, 335 Stretford Road, Manchester, M15 5ZA    
 Tickets: £8/5    
-Tel:		0161 232 6089 
+Tel:		0161 232 6089    
