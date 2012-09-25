@@ -24,8 +24,8 @@ Nicola Smith will become a human desk were the audience can explore their curios
 
 Nicola Smith is a visual artist who makes work in response to the context of her surroundings using different mediums such as live art intervention, performance, installation and video. She punctuates situations in public and private spaces by playing 'host' and acting out a series of actions. Smith's actions take on many forms such as public speaking, directing, singing and dancing in order to engage and disrupt the expectations of the audience. These performances happen in semi-public spaces to allow accidental audiences to take part.    
 
-![Human Desktop](NicolaSmith.jpg)
-    ####Sturgeon's Law   *Between Us (you and me)*    	                            	
+![Human Desktop](NicolaSmith.jpg)    
+####Sturgeon's Law   *Between Us (you and me)*    	                            	
 *She tries not to care when you say cruel things about her. No matter what, she'll always love you.*      
 A short, one on one performance based on a text by US author Daniel Abraham and adapted by his kind permission.	     
 
