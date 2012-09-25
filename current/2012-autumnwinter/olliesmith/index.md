@@ -15,12 +15,16 @@ show: "27" # the name of the show
 
 ---
 ####In Brief    
-Real rockstars die aged 27. Ollie Smith is 26. He is not a rockstar. Yet. Sitting somewhere between a grubby gig, a fanatic lecture and a Jonestown-esque cult meeting, '27' is a darkly humorous show that stirs up the myths surrounding the notorious 27 Club: a group of legendary musicians who all died at just 27 years of age.    
+Real rockstars die aged 27. Ollie Smith is 26. He is not a rockstar. Yet. Sitting somewhere between a grubby gig, a fanatic lecture and a Jonestown-esque cult meeting, *27* is a darkly humorous show that stirs up the myths surrounding the notorious 27 Club: a group of legendary musicians who all died at just 27 years of age.    
 
 ![27](Ollie27_1.jpg)    
 
 ####More    
+<<<<<<< HEAD
 **Hendrix.  Joplin.  Morrison.  Cobain.  Winehouse.  (Smith?)**     
+=======
+####Jones. Hendrix. Joplin. Morrison. Cobain. Winehouse. Smith?  
+>>>>>>> Ollie edits JF
 *27 is drugs, booze, suffocation, electrocution, suicide and murder.    
 It is hero-worshiping, celebrity-idolising, self-gratifying, growing-up-and-falling-down masturbation.    
 27 is my current solo performance project.   
@@ -33,11 +37,11 @@ So I have one year.*
 ![27](Ollie27_2.jpg) 
 
 ####Who is he
-Ollie Smith is a live artist, theatre maker and musician based in Nottingham, UK.  He trained as a performer at Bretton Hall and graduated in 2007 with first-class honours.  He now makes his own performance work as a solo artist and as a collaborator.  He has been a rock junkie since he was a child and he have an extensive vinyl library - but my turntable is broken.    
+Ollie Smith is a live artist, theatre maker and musician based in Nottingham, UK.  He trained as a performer at Bretton Hall and graduated in 2007 with first-class honours.  He now makes his own performance work as a solo artist and as a collaborator.  He has been a rock junkie since he was a child and has an extensive vinyl library - but his turntable is broken.    
 
-Other theatre work he is currently involved with includes *The End*, a collaboration with Nottingham-based artist and writer Michael Pinchbeck, which has been touring since 2010.  They’re currently making a follow-up piece, *The Beginning*, working with Manchester-based artist Nicki Hobday.  He's also currently working on a collaboration with London-based artist Phoebe Walsh called Cat in Hell which collides Andrew Lloyd Webber’s *Cats* with Goethe’s *Faust*.    
+Other theatre work he is currently involved with includes *The End*, a collaboration with Nottingham-based artist and writer Michael Pinchbeck, which has been touring since 2010.  They’re currently making a follow-up piece, *The Beginning*, working with Manchester-based artist Nicki Hobday.  He's also currently working on a collaboration with London-based artist Phoebe Walsh called *Cat in Hell* which collides Andrew Lloyd Webber’s *Cats* with Goethe’s *Faust*.    
 
-He has toured nationally with various shows and has received commissions, platforms and development opportunities from Theatre Writing Partnership (Nottingham), greenroom (Manchester), Hatch (Nottingham) and Compass Live Art Festival (Leeds).  He is currently being mentored by New Perspectives (Nottingham).    
+He has toured nationally with various shows and has received commissions, platforms and development opportunities from Theatre Writing Partnership (Nottingham), greenroom & hÅb (Manchester), Hatch (Nottingham) and Compass Live Art Festival (Leeds).  He is currently being mentored by New Perspectives (Nottingham).    
 
 
 ####Website    
