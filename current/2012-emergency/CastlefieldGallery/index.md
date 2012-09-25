@@ -6,7 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Castlefield Gallery" # the name of the artist or company
-show: "12-5pm" # the name of the show
+show: "12 til 5pm" # the name of the show
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
