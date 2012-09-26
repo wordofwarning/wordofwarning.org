@@ -10,7 +10,7 @@ show: "We Hope That You’re Happy (Why Would We Lie?)" # the name of the show
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
-# show_size: 2 # optional - size of show name 2-5. Default is 2. Set longer names to lower values
+# show_size: 4 # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
@@ -28,7 +28,8 @@ A flat-out, unhinged and very normal performance about trying to connect: to the
 Formed in 2009 and already a National Theatre Studio affiliate company, Made In China debuted with *Stationary Excess*, performed on an exercise bike at Underbelly, Edinburgh 2010 before transferring to the Shunt Lounge.  Part of Forest Fringe’s Edinburgh 2011 programme, the two hander *We Hope That You’re Happy…* turned more heads with an unhinged, riotous mix of new writing and live art that informs the company’s unique style.   
 
 Watch video trailer [here.](http://vimeo.com/30622699)    
-####Who are they    
+
+####Who are they    
 Made In China is the collaborative work of Tim Cowbury and Jessica Latowicki. They make visceral shows at the juncture of playwriting and live art, for audiences who are fans of neither and both. So far, the shows have been physical, playful, excessive and destructive. Made In China are drawn to great stories but like to disrupt them with things like bad dancing, beer downing, interval training and downright lying. Each show makes its own rules. And each show aims to ask the audience difficult questions whilst giving them a really good time.            
 Made in China formed in 2009. Their work has been seen across the UK and internationally at venues including: BAC, The ICA, Shunt Lounge, Riverside Studios, The Junction, Warwick Arts Centre, Hull Truck Theatre, Tobacco Factory Theatre, Arcola Theatre, La MaMa ETC (New York).    
 
@@ -47,7 +48,8 @@ Made in China formed in 2009. Their work has been seen across the UK and interna
       
 ####Credits     
 Presented by BAC Takeout.  Made In China is a National Theatre Studio Affiliate Company and a Supported Artist at The Basement, Brighton.    
-####Venue & Booking Details    
+
+####Venue & Booking Details    
 Date: Friday 30 November, 7.30pm    
 Venue:	Z-arts, 335 Stretford Road, Manchester, M15 5ZA    
 Tickets: £8/5    
