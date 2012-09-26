@@ -15,22 +15,15 @@ show: "6 til 10pm" # the name of the show
 
 ---
 
-<<<<<<< HEAD
 ####Angel Club (north)	*The Mirror Twins*    
-=======
-[id]: http://example.com/ 
-####Angel Club (north)	*The Mirror Twins*	
->>>>>>> removed bad filename
 The 'mirror twins' take the weight from your shoulders and transport you to exotic climes in this head to head encounter of canapé art.    
 
 *I find it hard to believe you don't know the beauty you are....but if you don't, let me be your eyes...a hand to your darkness, so you won't be afraid.*  Velvet Underground - I'll Be Your Mirror lyrics
 Phil Sykes and Chris Gilligan have been making performance for 10 years as Angel Club (north). Working in  theatre studios and public settings, recent works include 'Beyond the Sea' and 'Obstacles to Coming home' (2007-9). The company has presented at The NRLA (Glasgow) . They presented the final Emergency finale at greenroom in 2010.    
-<<<<<<< HEAD
-####Diego Bowie	*Double Up: Life Is Fantasy By Nature...*    
-=======
 
-####Diego Bowie	*Double Up: Life Is Fantasy By Nature...	*    
->>>>>>> removed bad filename
+
+
+####Diego Bowie	*Double Up: Life Is Fantasy By Nature...*    
 *…And We Must Create Our Own Reality , Before We Lose Our Identity Believing What We're Programmed To Believe.*    
 
 A commentary on how we are tricked into thinking what society wants. A video Performance filmed by Georges Don.    
@@ -46,12 +39,9 @@ Wayne Steven Jackson creates *'poignant, beautiful and clever'* work.  Fusing vi
 
 He has worked for eight years creating 'funny, baffling, mystical, absurd and mind bending' work with Escape Theatre, creating seven pieces of live performance both with Escape and as a solo artist.  Wayne is currently exploring the relationship between live performance and memory, using video within his performances with intelligence and creativity as an aide to exploring his and his audience's position to his work.    
 ![and two](Wayne.jpg)
-<<<<<<< HEAD
-####Sedated By A Brick	*Sedated By A Brick present Serrated By A Knife present Sedated By A Brick*	    
-=======
 
-####Sedated By A Brick	*Sedated By A Brick present Serrated By A Knife present Sedated By A Brick*	
->>>>>>> removed bad filename
+
+####Sedated By A Brick	*Sedated By A Brick present Serrated By A Knife present Sedated By A Brick*
 A fevered dream, a paranoid trip or an inter-generational seance?  Whatever way you see it, they are a company possessed. 	Tonight Sedated By A Brick will summon up the spirits of their alter-ego theatre company, Serrated By A Knife.    
 
 *Is there anybody out there?*    
@@ -68,15 +58,10 @@ Allan is just another strong, successful person in control of his single and fab
 A take on the cult classic *Sex and the City*,  Allan explores the ideals of modern city living through a staged TV episode where his interior monologue and perception of the world in his own psycho drama soon goes awry after he comes to a realisation about the world he has constructed.    
 
 Allan Taylor is a live artist, writer and theatre-maker whose work ranges from theatrical performance to durational installations and intimate performances. His work investigates the absurd in relation to the self and how external expectations affect our internal self-perception, often using character and façade to display the dichotomy between our ideals and reality.    
-<<<<<<< HEAD
- ![Allan Taylor](allan.jpg)    
- 
-####Sh!t Theatre	*Sh!t Theatre's JSA (Job Seekers Anonymous)*    
-A unique and humorous exploration of the (un)employment situation in the UK today. Expect song, satire and a sharing of stories.    
 
-=======
+
  ![Allan Taylor](allan.jpg)
-   
+
 ####Sh!t Theatre	*Sh!t Theatre's JSA (Job Seekers Anonymous)*    
 A unique and humorous exploration of the (un)employment situation in the UK today. Expect song, satire and a sharing of stories. 	
 >>>>>>> removed bad filename
@@ -103,12 +88,9 @@ The MOBB Project is a new collaboration between Bristol based theatre company Ma
 Jenny is a performance maker and writer from Bristol, now based in Newcastle upon Tyne. Jenny is also the higher education 'GIFTed' co-ordinator for Gateshead International Festival of Theatre (GIFT).    
 [www.massiveowltheatre.com](http://www.massiveowltheatre.com)    
 [MOBB](MOBB2.jpg)    
-<<<<<<< HEAD
-####Lena Simic	   *1994*     
-=======
 
 ####Lena Simic	   *1994*    
->>>>>>> removed bad filename
+
 A homage to Kurt Cobain, forgotten soldiers and failed encounters from a life lived retrospectively.    
 This solo performance is a story about 1994.    
 A series of memory excerpts which intertwine the past with the present.    
@@ -123,23 +105,19 @@ Lena Simic, performance practitioner and pedagogue, born in Dubrovnik, Croatia, 
 ####70/30 Split	   *Content part 1:*     
 Two women search for content. Meaning and substance is sourced through the philosophical medium of burlesque. Two women perform.    
 70/30 Split is Sophie Unwin and Lydia Cottrell, two York based choreographers and performers. Together they present an accumulation of words, thoughts, characters, expectations, stories, experiences and alternatives.  Creating satirically energetic dance theatre work, the pair utilise movement, text, honesty and leotards, combining burlesque, bodies and the bizarre.  They have  performed to audiences both nationally and throughout the region including Leeds Light Night festival, Friday Firsts at Yorkshire Dance, Heads up north east at Edinburgh Fringe festival and Spring Loaded at The Place, London.    
-<<<<<<< HEAD
-####Robin Sidwell	*An Evening of Poetry*     
-=======
 
-####Robin Sidwell	*An Evening of Poetry*    
->>>>>>> removed bad filename
+
+
+####Robin Sidwell	*An Evening of Poetry*     
 Chorlton based performance poet Robin Sidwell writes poems for the people and reads them to the people, his people, for he is the people's poet.      
 Come and listen, he's not saying the work will change the world completely ...but it will a little bit!    
 *"Oh that thing in the news? Yeah man,that was awful wasn't it!  Probably write a poem about it, that's just what I do!"* (Sidwell 20/08/12)    
 
 Former greenroom associate artist with theatre company **Until Thursday** and Method Lab artist as Robin Sidwell.    
-<<<<<<< HEAD
-####Chris Fitzsimmons	   *It Goes Without Seeing*
-=======
 
-####Chris Fitzsimmons	   *It Goes Without Seeing*    
->>>>>>> removed bad filename
+
+
+####Chris Fitzsimmons	   *It Goes Without Seeing*
 *Small, thin, humpy, stumbly man seeks open-eared audience for simple show.*    
 
 Imagine a small, thin person stood in front of some other people whose heights and widths are variable.    
@@ -150,12 +128,8 @@ Some way, but not very close. :)
 Dedicated to all those people who have dared speak to me over the years...    
 
 Chris Fitzsimmons graduated from UCLAN in 2007 and has since written and performed in countless solo projects. He has been a member of the NYT since 2004 and continues to make work both solo and in collaboration with other artists.    
-<<<<<<< HEAD
-####Josh Coates	*Stevie Wonder's Stern Warning*      
-=======
 
-####Josh Coates	*Stevie Wonder's Stern Warning*    
->>>>>>> removed bad filename
+####Josh Coates	*Stevie Wonder's Stern Warning*      
 A rock-ukulele-pop concert performed by Josh Coates exploring how the only remaining member of the band 'Stevie Wonder's Stern Warning' copes with the loss of friendship, career and an audience. A solo performance for two.    
 
 Josh Coates is a performance artist based in Lancaster and is the Creative Producer of LEAP, Lancaster Emerging Arts Platform. Special thanks to Ideas Tap, GETINTHEBACKOFTHEVAN, befur the bear and to anyone who has seen the piece in its infancy.    
