@@ -114,8 +114,6 @@ Come and listen, he's not saying the work will change the world completely ...bu
 
 Former greenroom associate artist with theatre company **Until Thursday** and Method Lab artist as Robin Sidwell.    
 
-
-
 ####Chris Fitzsimmons	   *It Goes Without Seeing*
 *Small, thin, humpy, stumbly man seeks open-eared audience for simple show.*    
 
