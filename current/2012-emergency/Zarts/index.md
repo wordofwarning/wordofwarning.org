@@ -59,8 +59,7 @@ A take on the cult classic *Sex and the City*,  Allan explores the ideals of mod
 
 Allan Taylor is a live artist, writer and theatre-maker whose work ranges from theatrical performance to durational installations and intimate performances. His work investigates the absurd in relation to the self and how external expectations affect our internal self-perception, often using character and façade to display the dichotomy between our ideals and reality.    
 
-
- ![Allan Taylor](allan.jpg)
+![Allan Taylor](allan.jpg)
 
 ####Sh!t Theatre	*Sh!t Theatre's JSA (Job Seekers Anonymous)*    
 A unique and humorous exploration of the (un)employment situation in the UK today. Expect song, satire and a sharing of stories. 	
