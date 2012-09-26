@@ -10,7 +10,7 @@ show: "We Hope That You’re Happy (Why Would We Lie?)" # the name of the show
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
-# show_size: 4 # optional - size of show name 2-5. Default is 2. Set longer names to lower values
+show_size: 3 # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
