@@ -20,24 +20,19 @@ Real rockstars die aged 27. Ollie Smith is 26. He is not a rockstar. Yet. Sittin
 ![27](Ollie27_1.jpg)    
 
 ####More    
-**Jones. Hendrix. Joplin. Morrison. Cobain. Winehouse. Smith?**  
-*27 is drugs, booze, suffocation, electrocution, suicide and murder.    
-It is hero-worshiping, celebrity-idolising, self-gratifying, growing-up-and-falling-down masturbation.    
-27 is my current solo performance project.   
-It's a show which explores the so-called 27 Club: an elite group of popular musicians who all died aged 27 whilst at the peak of their creative careers.    
-The original ‘members’ were Brian Jones, Jimi Hendrix, Janis Joplin and Jim Morrison, but it wasn’t until Kurt Cobain died in 1994 that the concept of a ‘club’ was more widely popularised by the media.    
-The show also speculates on my own potential death.  If I'm to become a legend of rock ‘n’ roll and subsequently a member of the 27 Club then I first have to establish myself as a rockstar.    
-I’m now 26.    
-So I have one year.*    
+**Hendrix. Joplin. Morrison. Cobain. Winehouse. Smith?**  
+*27* takes on hedonism and fading dreams, drugs and booze, suffocation and electrocution, murder and suicide.  Tying fact together with fiction, speculation and conspiracy, the show fashions a tangled noose of self-destruction which chokes out the myths surrounding the notorious 27 Club: a group of legendary musicians who all died at 27 years of age.  Through a precise meandering of pseudo-philosophy and numerology, risk assessments and fading dreams, Ollie speculates on his own untimely demise as he struggles to secure his own legend alongside such greats as Jimi Hendrix, Jim Morrison and Amy Winehouse.
 
 ![27](Ollie27_2.jpg) 
 
 ####Who is he
-Ollie Smith is a live artist, theatre maker and musician based in Nottingham, UK.  He trained as a performer at Bretton Hall and graduated in 2007 with first-class honours.  He now makes his own performance work as a solo artist and as a collaborator.  He has been a rock junkie since he was a child and has an extensive vinyl library - but his turntable is broken.    
+Ollie Smith is a live artist, theatre maker and musician based in Nottingham, UK. He makes performance work as a solo artist and as a collaborator. He has been a rock junkie since he was a child and has an extensive vinyl library - but his turntable is broken.  In addition to *27*, Ollie has recently begun working on *Cat in Hell*:
+"a kind of rock 'n' roll musical comedy in which a demon and a cat seem to be enduring (or inflicting on each-other) some implicitly eternal torment of frustration" (Wayne Burrows, writer).
+Other theatre work he is currently involved with includes *The End*, a collaboration with Nottingham-based artist and writer Michael Pinchbeck, which has been touring since 2010 - and a recently completed follow-up piece, *The Beginning*, in collaboration with Manchester-based artist Nicki Hobday.  Ollie has toured nationally with various shows and has received commissions, platforms and development opportunities from Arts Council England, Theatre Writing Partnership (Nottingham), greenroom & hÅb (Manchester), Hatch (Nottingham), Emerge (Leeds) circuit (Leicester) and Compass (Leeds).  Ollie trained as a performer at Bretton Hall and graduated in 2007 with first-class honours.
 
-Other theatre work he is currently involved with includes *The End*, a collaboration with Nottingham-based artist and writer Michael Pinchbeck, which has been touring since 2010.  They’re currently making a follow-up piece, *The Beginning*, working with Manchester-based artist Nicki Hobday.  He's also currently working on a collaboration with London-based artist Phoebe Walsh called *Cat in Hell* which collides Andrew Lloyd Webber’s *Cats* with Goethe’s *Faust*.    
 
-He has toured nationally with various shows and has received commissions, platforms and development opportunities from Theatre Writing Partnership (Nottingham), greenroom & hÅb (Manchester), Hatch (Nottingham) and Compass Live Art Festival (Leeds).  He is currently being mentored by New Perspectives (Nottingham).    
+####Credits            
+*27* is supported using public funding by Arts Council England; Emerge (Leeds); circuit Live Art Festival (Leicester).
 
 
 ####Website    
