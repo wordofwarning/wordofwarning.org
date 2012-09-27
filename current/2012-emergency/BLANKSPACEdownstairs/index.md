@@ -33,14 +33,11 @@ Sturgeon's Law is the name under which Aliki Chapple performs work that isn't qu
 [sturgeonsotherlaw.blogspot.co.uk](http://sturgeonsotherlaw.blogspot.co.uk/)     
 ####Alexandra Kraszko	   *Vicia Faba*	    
 *Adopt a plant and become part of an unusual family!*    
-Alexandra Kraszko has been raising vicia faba (broad bean) plants, planting beans daily and giving them unusual care and attention.    
-Each plant has been fertilised with the artist's blood.    
-Each plant has its own name.    
-Each has been involved in everyday activities with Alexandra and shares an unique history with her...    
-And it is all documented.But... On the 13th of October 2012 all of Alexandra's plants are up for adoption.    
-Come to her greenhouse and become part of her bean family! Adopt a plant and additionally you will receive its own, unique video documentation...      And... After all, how will you take care of your vicia faba? 	
+Alexandra planted 30 vicia faba beans and raised them with unusual care and attention while documenting the whole process on video. Each plant is unique and has been fertilised with the artist's blood. Each one has its own identity.     
+On the 13th of October 2012 all of Alexandra’s plants are up for adoption.    
+Come to her greenhouse and become part of her bean family! Adopt a plant of your choice and you will find out how it's been raised exactly. After that, it's up to you… How will you take care of your vicia faba?    
 
-Alexandra Kraszko is a solo artist, who has recently been seen in angel club (north)'s 'minute'. Alexandra is open for collaboration, but mainly experimenting within the fields of live art, installation, durational and one to one performance.     
+Alexandra Kraszko is both a solo and collaborative artist, mainly experimenting within the fields of live art, installation, durational and one to one performance.  Alexandra has recently been seen in Angel Club (north)’s performance installation ‘minute’.    
 
 ![Vicio Fabia](planting.png)    
 ####Evans + Gaskell   *100 Deeds*    
