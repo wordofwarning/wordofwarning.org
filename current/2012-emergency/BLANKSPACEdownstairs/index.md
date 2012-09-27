@@ -39,7 +39,7 @@ Come to her greenhouse and become part of her bean family! Adopt a plant of your
 
 Alexandra Kraszko is both a solo and collaborative artist, mainly experimenting within the fields of live art, installation, durational and one to one performance.  Alexandra has recently been seen in Angel Club (north)’s performance installation ‘minute’.    
 
-![Vicio Faba](ViciaFaba.jp)    
+![Vicio Faba](ViciaFaba.jpg)    
 ####Evans + Gaskell   *100 Deeds*    
 A visual gathering of deeds to define feminism in the modern day	It is deeds that are needed, not words. We're just not sure what deeds they should be.    
 
