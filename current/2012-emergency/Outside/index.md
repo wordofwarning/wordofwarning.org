@@ -21,6 +21,7 @@ show: "12 til 5pm" # the name of the show
 Video Reality seeks to create a virtual world, with low tech technology, for single audience members with whose assistance the two performers will take through the looking glass anyone with a sense of wonder.  It is a dance of possibilities that you, the audience, engage in with performers. A fun and immersive work that shows the full poetential of performers working with technology.      
 
 anton hecht studied creative arts and fine arts at Manchester University then went to Newcastle as artist in residence for the year of visual arts. He works in video, mostly with communities and non professionals of all ages on works that seek to question the notion of professionalism. He works across genre, including dance, classical music and poetry. This work is being created in collaboration with Michael Davies, a designer, who has worked with many companies in the North East.    
+[antonhecht.wordpress.com](http://antonhecht.wordpress.com)    
 
 ###The journey between spaces:    
 
@@ -29,9 +30,12 @@ A retro-audio treasure hunt with a soundtrack that takes you between spaces and
 *Mixtape* n: a compilation of favourite pieces of music, typically by many different artists, recorded on to tape or another medium by an individual.    
 
 ####Sam Treadaway    *Bound and Re-bound - a 'post' performance*    
-The artist will roll a ball-like form, made from collected postal elastic bands and keys collected from the street between Castlefield Gallery and BLANKSPACE, periodically throughout the day in a circular route, adding any postal elastic bands or keys found en-route.    
+The artist will roll a ball-like form, made from found postal elastic bands and keys, collected over a number of years during urban wanderings, between Castlefield Gallery and BLANKSPACE. Made with an interest in the meditative potential of collection and repetition,  for the duration of  this performance the  object will be returned to the environment of its origin, the street.   The journey between the two galleries will be made periodically throughout the day, following a circular route, with any  postal elastic bands or keys found en-route, added at either gallery.    
 
 Sam Treadaway is a multimedia artist whose practise includes live art, book-arts, sculpture and installation, some of which incorporates the application of scent. Often with reference to the urban built environment and making use of existing frictions between aesthetic form and utilitarian function, the artist engages with an editing and re-aligning of found objects, structures and systems, though which new meaning is made possible. The interplay between the arts, as with other fields of research, frequently informs this process.    
+[www.samtreadaway.com](http://www.samtreadaway.com)    
+
+![Bound and Re-bound](samtreadway.jpg)    
 
 ###Near Castlefield Gallery    
 

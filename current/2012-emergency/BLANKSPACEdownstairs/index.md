@@ -49,6 +49,7 @@ We want to know what feminism means now, or perhaps what actions should happen n
 
 Sarah Evans makes work which often has love and justice at its heart with a slice of comedy, sometimes light, sometimes dark (often weather dependent). She loves creating personal story-based pieces which linger. She loves working on one-to-one, intimate performances and giving little tokens of love.    
 Jenny Gaskell is a contemporary theatre maker and producer.  She has a habit of making, and supporting, theatre which doesn't happen in a theatre. Past credits include performance in a shopping centre, in a post office, in a toilet, in a cafe, on a tram, in an office & in a cupboard.    
+[www.artwithheart.org.uk](http://www.artwithheart.org.uk)    
 ####Julieann O’Malley   *Tour of Duty*	    
 200 soldiers have completed their tours of duty but now find themselves in yet another unfamiliar territory.  Left alone to fend for themselves,  the soldiers' new mission is to conquer and survive the urban landscape of Manchester. Coloured gold and unable to shift or move from their military pose, they look on unnoticed: unsung heroes.     
 
@@ -78,5 +79,5 @@ A one-man performance, devised in collaboration with Lowri Jones, using spoken w
 You've been waiting for the kettle to boil, your train to arrive, and your lunch to be served. I've been waiting for you. The passing of time and the harsh weather have troubled my thoughts and my body. For the first or the thousandth time, I've been waiting for you to wait with me. You don't have to stay for long, but without you, I'm not much.    
 
 Leo Olamerino is a theatre-based artist working primarily with artists collective, Fake|Simile. As a performance maker, Leo aims to provoke stories rather than telling them, by providing the audience with material that aims at triggering our 'collective imagination' and regularly collaborates with established as well as emerging companies and artists.    
-![I've been waiting for you](LeoBurtin.jpg)
+![I've been waiting for you](SAM_0730.jpg)
 

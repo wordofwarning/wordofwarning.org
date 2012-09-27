@@ -29,6 +29,7 @@ The 'mirror twins' take the weight from your shoulders and transport you to exot
 A commentary on how we are tricked into thinking what society wants. A video Performance filmed by Georges Don.    
 
 Diego Bowie is 20 years old, born and based in Panama City, Panama. The main motivation behind his work is social criticism and technology , which he takes as the starting point of all his creative adventures.    
+[cargocollective.com/diegobowie](http://cargocollective.com/diegobowie)    
 
 ####Wayne Steven Jackson	   *(7,070,732,128) and two*    
 A live performance trying to be a film, piecing together fragments of narrative, telling the story of two people meant to be more than strangers. After the opening credits fade you will see the man and the woman walk towards each other, strangers, oblivious to their imminent collision.  And you will fall in love with these mediated, fictional characters behind the screen, will them to see each other, to see into each other; to have their happy ending.    
@@ -42,15 +43,18 @@ He has worked for eight years creating 'funny, baffling, mystical, absurd and mi
 
 
 ####Sedated By A Brick	*Sedated By A Brick present Serrated By A Knife present Sedated By A Brick*
-A fevered dream, a paranoid trip or an inter-generational seance?  Whatever way you see it, they are a company possessed. 	Tonight Sedated By A Brick will summon up the spirits of their alter-ego theatre company, Serrated By A Knife.    
+Tonight Sedated By A Brick will summon up the spirits of their alter-ego theatre company, Serrated By A Knife.    
 
 *Is there anybody out there?*    
 
-Unexpectedly, three icons of the seventies will answer their call and assume the mantle of Serrated By A Knife, presenting their dramatic rendition of seminal book/film classic, *The Shining*.    
+Unexpectedly, three icons of the seventies will answer their call and assume the mantle of Serrated By A Knife, presenting their dramatic rendition of seminal book/film classic, The Shining.    
 
-A fevered dream, a paranoid trip or an inter-generational seance?  Whatever way you see it, they are a company possessed.
-A Bristol-based performance company, producing high quality 'quirk' since 2009. 
-*''We want to see what kind of experiences we can create when we put our minds and bodies together. We combine strong imagery and a mordant strain of humour to explore interrelations between often impossible characters and situations."*    
+A fevered dream, a paranoid trip or an inter-generational seance? Whatever way you see it, they are a company possessed.    
+
+Sedated By A Brick are a Bristol-based performance company, producing high quality ‘quirk’ since 2009. *"We want to see what kind of experiences we can create when we put our minds and bodies together. We combine strong imagery and a mordant strain of humour to explore interrelations between often impossible characters and situations."*    
+[sedatedbyabrick.org](http://sedatedbyabrick.org)    
+
+![Sedated by A Brick](sbab.jpg)    
 
 ####Allan Taylor	*Success and the City*    
 Allan is just another strong, successful person in control of his single and fabulous life.
@@ -62,8 +66,8 @@ Allan Taylor is a live artist, writer and theatre-maker whose work ranges from t
 ![Allan Taylor](allan.jpg)
 
 ####Sh!t Theatre	*Sh!t Theatre's JSA (Job Seekers Anonymous)*    
-A unique and humorous exploration of the (un)employment situation in the UK today. Expect song, satire and a sharing of stories. 	
->>>>>>> removed bad filename
+A unique and humorous exploration of the (un)employment situation in the UK today. Expect song, satire and a sharing of stories.    
+
 *We all know someone who's on the dole. Your dad's on the dole. Your dog's on the dole. You're probably on the dole, aren't you? Or even worse, maybe you have a job....* 
 
 See Sh!t Theatre before they hit the big time. Or have to go work at Poundland.    
@@ -75,22 +79,20 @@ As performers they have collectively worked with: Duckie, The Barbican, Bobby Ba
 [www.shittheatre.co.uk](http://www.shittheatre.co.uk)  
 ![sh!t theatre](sh_t.jpg) 
 
-####Jenny Duffy and Massive Owl	*The MOBB Project*    
-There's this man sat at a desk.    
+####Jenny Duffy + Massive Owl	*The MOBB Project*    
+There's this man sat at a desk...    
 There's this man and he's not sat at a desk...    
-There are four men and one woman and they are all sat on chairs.    
-Then there's You.    
+There are four men and one woman and they're sat on chairs...    
+And then, there's You...    
 
-The MOBB Project is a new collaboration between Bristol based theatre company Massive Owl and Newcastle-upon-tyne performance maker Jenny Duffy.    
-Massive Owl are a Bristol based theatre company made up of three Artistic Leads: Adrian Spring, Danny Prosser and Sam Powell. They are Associate Artists of University College Falmouth. The MOBB Project has also been made in collaboration with Massive Owl Associate Artist: Jack Jago.    
-  
-Jenny is a performance maker and writer from Bristol, now based in Newcastle upon Tyne. Jenny is also the higher education 'GIFTed' co-ordinator for Gateshead International Festival of Theatre (GIFT).    
+From moments of one on one intimacy to moments of a cacophony of ensemble wordplay, The MOBB Project playfully explores and exposes how we interact online. Expect some storytelling, some arguing and there might even be a bit of Sting... (Yes, the musician)...    
+
+The MOBB Project is a new collaboration between Bristol based theatre company Massive Owl and Newcastle-upon-Tyne based performance maker Jenny Duffy. For Emergency Jenny and Massive Owl will be presenting an extract of performance.    
 [www.massiveowltheatre.com](http://www.massiveowltheatre.com)    
-[MOBB](MOBB2.jpg)    
+![MOBB](MOBB2.jpg)    
 
 ####Lena Simic	   *1994*    
-
-A homage to Kurt Cobain, forgotten soldiers and failed encounters from a life lived retrospectively.    
+A homage to Kurt Cobain, lost youth, impossible and failed encounters from a life lived retrospectively.    
 This solo performance is a story about 1994.    
 A series of memory excerpts which intertwine the past with the present.    
 An exploration of lost youth and ageing.    
@@ -105,14 +107,13 @@ Lena Simic, performance practitioner and pedagogue, born in Dubrovnik, Croatia, 
 Two women search for content. Meaning and substance is sourced through the philosophical medium of burlesque. Two women perform.    
 70/30 Split is Sophie Unwin and Lydia Cottrell, two York based choreographers and performers. Together they present an accumulation of words, thoughts, characters, expectations, stories, experiences and alternatives.  Creating satirically energetic dance theatre work, the pair utilise movement, text, honesty and leotards, combining burlesque, bodies and the bizarre.  They have  performed to audiences both nationally and throughout the region including Leeds Light Night festival, Friday Firsts at Yorkshire Dance, Heads up north east at Edinburgh Fringe festival and Spring Loaded at The Place, London.    
 
-
-
 ####Robin Sidwell	*An Evening of Poetry*     
 Chorlton based performance poet Robin Sidwell writes poems for the people and reads them to the people, his people, for he is the people's poet.      
 Come and listen, he's not saying the work will change the world completely ...but it will a little bit!    
 *"Oh that thing in the news? Yeah man,that was awful wasn't it!  Probably write a poem about it, that's just what I do!"* (Sidwell 20/08/12)    
 
 Former greenroom associate artist with theatre company **Until Thursday** and Method Lab artist as Robin Sidwell.    
+![Robin Sidwell](RobinSidwell.jpg)    
 
 ####Chris Fitzsimmons	   *It Goes Without Seeing*
 *Small, thin, humpy, stumbly man seeks open-eared audience for simple show.*    

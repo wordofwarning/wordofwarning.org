@@ -32,11 +32,16 @@ Jojo Townsend is a performance artist and designer currently in her final year a
 ![WoW Project](JoJo.jpg)
 
 ####aswespeakproject   *I know this, I do this all the time (I don't like it though)*    
-*I do this again and again: I will close my eyes and keep still. You will draw. I will repeat your pattern until it becomes mine.  Could you also tell me what to wear?*      
+ An interactive performance installation performed by Julieta Kilgelmann    
+ 
+ *I do this again and again: I will close my eyes and keep still. You will draw. I will repeat your pattern until it becomes mine.  Could you also tell me what to wear?*      
   
 This piece uses projection, direct audience participation and the performer's body to unearth the patterns that shape the space of the self, the messages, codes and images that invade, embed and collude on our encounter with the other.    
-Xristina Penna works internationally as a stage designer, art director and performance maker. Her practice is cross-disciplinary and consists of creating visual environments by blurring contemporary reality with dreamy states that relate to the uncanny. [www.xristinapenna.com](http://www.xristinapenna.com)  
-[www.aswespeakproject.org](www.aswespeakproject.org)
+The aswespeakproject creates mixed media performance and installation work using the “stage space” as temporal and  spatial representation of the human brain. Xristina Penna is an independent designer and performance maker. her practice is cross-disciplinary and consists of creating visual environments by blurring reality with dreamy states that relate to the uncanny.    *I Know this…* originally commissioned by [Out of the Box Intermedia](http:// www.outoftheboxintermedia.org)    
+
+[www.xristinapenna.com](http://www.xristinapenna.com)  [www.aswespeakproject.org](www.aswespeakproject.org)    
+  
+![aswespeakproject](awsproject.jpg)  
 
 ####Miyuki Kasahara   *His/her personal sky*    
 Experience illuminated memories through a stranger's ear and even have your own ear cast. An installation and interactive performance.    
@@ -45,12 +50,18 @@ Miyuki invites you to have your ear cast; it takes 15-20 minutes. After casting,
     
 These ear sphere sculptures are also a floating presence around the space you are encouraged to search for strangers' personal memories by looking into each ear hole. Shining a torch from behind creates a light-box effect, the inside illuminated as if another's secret memory just came to you.    
 
-Miyuki Kasahara graduated with an MA from the Royal College of Art London. Her projects include 'Message to me 2012' (2008-12) commissioned by Shoreditch Trust, London, 'Trigger' a solo exhibition at Art Gallery X, Tokyo (2007). She is currently showing 'Linking the paper chain' (2010) at Hackney Museum, London.    
+Miyuki Kasahara graduated with an MA from the Royal College of Art London. Her projects include 'Message to me 2012' (2008-12) commissioned by Shoreditch Trust, London, 'Trigger' a solo exhibition at Art Gallery X, Tokyo (2007).    
+   
+[www.miyukikasahara.com](http://www.miyukikasahara.com)    
+
+![His/her personal sky](Miyuki.jpg)    
 
 ####Yoko Ishiguro   *Flashes*    
 An intimate and playful experience in the darkness 'taken' by you.	A photo documentation piece which only exists at the flashes of moments, occurring between you and the performer. Inspired by Vito Acconci's Blinks (1969).    
 
 Yoko Ishiguro is a performance maker, performer and actress. Mostly, her works are site/time/situation-specific and performed in a toilet, a rice field etc. with some daily technologies to look at time, distance and communication.    
+
+[ishiguro.info](http://ishiguroyoko.info/iroiro/)    
 ####Georgie Grace   *untitled (treat your mind like a screen)*    
 Georgie Grace's films work to activate the sensory dimensions of language, using text to trigger tactile associations and imagined actions, allowing the viewer to become absorbed in an imagined present moment.  At the centre of her enquiry is the possibility of enjoyment in language and its capacity to create presence through the speed of its transmission.     
 ####Alice Malseed  *At the time, I had no idea...*    
