@@ -63,7 +63,10 @@ Julieann O'Malley is an interdisciplinary artist based in Liverpool, UK.
 ####Clare Charnley	   *Nail Bar*    
 A place to discuss ideas while you have a manual worker's finger nail fitted - fake false finger nails painted to look soiled, split, bruised or generally affected by manual work. Each is a tiny painting.  Fitting it is an intimate situation involving close physical proximity and touch. As such, it provides a perfect opportunity for slow and thoughtful discussion with strangers. Lets talk...    
 
-Much of Clare's work involves interaction with the public. She is particularly interested in using the work itself as a process of negotiation.   
+Much of Clare's work involves interaction with the public. She is particularly interested in using the work itself as a process of negotiation.    
+
+[www.clarecharnley.com](http://www.clarecharnley.com)    
+
 ![Nail Bar](NailBar.jpg)
 
 ####Moreno Solinas   *URANUS*    
