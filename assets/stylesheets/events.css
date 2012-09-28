@@ -94,3 +94,24 @@
 		{background: #000; color: #fff;}
 	.hazard .splash
 		{background:url(../images/header_2012_hazard.jpg) center center}
+		
+/* emergency 2012
+------------------------------------------------------*/
+
+	.e2012,
+	.e2012 .artist, 
+	.e2012 .show,
+	.e2012 .season
+		{background:#900; color:#fff;}
+
+	.e2012 a,
+	.e2012 a:visited,
+	.e2012 a:hover
+		{color:#fff;}
+	.e2012 nav a:hover,
+	.e2012 article a:hover,
+	.e2012 footer a:hover
+		{background: #fff; color: #f00;}
+		
+	.e2012 .splash
+		{background:url(../images/header_emergency_reversed.jpg) center center}
