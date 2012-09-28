@@ -18,14 +18,13 @@ show: "6 til 10pm" # the name of the show
 ####Angel Club (north)   *The Mirror Twins*    
 The 'mirror twins' take the weight from your shoulders and transport you to exotic climes in this head to head encounter of canapé art.    
 
-*I find it hard to believe you don't know the beauty you are... but if you don't, let me be your eyes... a hand to your darkness, so you won't be afraid.*
-   Velvet Underground - I'll Be Your Mirror lyrics            
+*I find it hard to believe you don't know the beauty you are... but if you don't, let me be your eyes... a hand to your darkness, so you won't be afraid.* Velvet Underground - I'll Be Your Mirror lyrics                 
 
 Phil Sykes and Chris Gilligan have been making performance for 10 years as Angel Club (north). Working in theatre studios and public settings, recent works include *Beyond the Sea* and *Obstacles to Coming home* (2007-9). The company has presented at the NRLA (Glasgow) and presented greenroom's final *Emergency* finale in 2010.    
 
 
 ####Diego Bowie   *Double Up: Life Is Fantasy By Nature...*    
-*…And We Must Create Our Own Reality , Before We Lose Our Identity Believing What We're Programmed To Believe.*    
+***…And We Must Create Our Own Reality , Before We Lose Our Identity Believing What We're Programmed To Believe.***    
 
 A commentary on how we are tricked into thinking what society wants. A video performance filmed by Georges Don.    
 
@@ -36,18 +35,20 @@ Diego Bowie is 20 years old, born and based in Panama City, Panama. The main mo
 ####Wayne Steven Jackson   *(7,070,732,128) and two*    
 A live performance trying to be a film, piecing together fragments of narrative, telling the story of two people meant to be more than strangers.              
 
-*After the opening credits fade you will see the man and the woman walk towards each other, strangers oblivious to their imminent collision. And you will fall in love with these mediated, fictional characters behind the screen and will them to see each other, to see into each other, to have their happy ending.    
-But this time will be different. This time you won't play by the rules. This time you will be with them in that moment. And this time... this time, this story will be about you.*    
+*After the opening credits fade you will see the man and the woman walk towards each other, strangers oblivious to their imminent collision. And you will fall in love with these mediated, fictional characters behind the screen and will them to see each other, to see into each other, to have their happy ending.*            
+
+*But this time will be different. This time you won't play by the rules. This time you will be with them in that moment. And this time... this time, this story will be about you.*    
 
 Wayne Steven Jackson creates poignant, beautiful and clever work. Fusing video and liveness he confronts the fleeting moments of performance and explores ideas of memory and of being.     
 
 Wayne has worked for eight years creating funny, baffling, mystical, absurd and mind bending work with Escape Theatre, creating seven pieces of live performance both with Escape and as a solo artist. Wayne is currently exploring the relationship between live performance and memory, using video within his performances with intelligence and creativity as an aide to exploring his and his audience's position to his work.
 
-![and two](Wayne.jpg) Image created by Alana Danielle Richards.
+![and two](Wayne.jpg)Image created by Alana Danielle Richards.
 
 
-####Sedated By A Brick	*Sedated By A Brick present Serrated By A Knife present Sedated By A Brick*
-Tonight Sedated By A Brick will summon up the spirits of their alter-ego theatre company, Serrated By A Knife.    
+####Sedated By A Brick
+####*Sedated By A Brick present Serrated By A Knife present Sedated By A Brick*
+Tonight, Sedated By A Brick will summon up the spirits of their alter-ego theatre company, Serrated By A Knife.    
 
 *Is there anybody out there?*    
 
@@ -55,8 +56,7 @@ Unexpectedly, three icons of the seventies will answer their call and assume the
 
 A fevered dream, a paranoid trip or an inter-generational seance? Whatever way you see it, they are a company possessed.    
 
-Sedated By A Brick are a Bristol-based performance company, producing high quality ‘quirk’ since 2009.            
-*We want to see what kind of experiences we can create when we put our minds and bodies together. We combine strong imagery and a mordant strain of humour to explore interrelations between often impossible characters and situations.*    
+Sedated By A Brick are a Bristol-based performance company, producing high quality ‘quirk’ since 2009. They want to see what kind of experiences they can create when they put their minds and bodies together. They combine strong imagery and a mordant strain of humour to explore interrelations between often impossible characters and situations.              
 [sedatedbyabrick.org](http://sedatedbyabrick.org)    
 
 ![Sedated by A Brick](sbab.jpg)    
@@ -77,12 +77,13 @@ A unique and humorous exploration of the (un)employment situation in the UK toda
 
 *We all know someone who's on the dole. Your dad's on the dole. Your dog's on the dole. You're probably on the dole, aren't you? Or even worse, maybe you have a job....* 
 
-See Sh!t Theatre before they hit the big time. Or have to go work at Poundland.    
-*'Wonderfully politically incorrect and insightful...a cracking showcase for Mothersole and Biscuit's weighty talents'*   WhatsOnStage.com    
+See Sh!t Theatre before they hit the big time. Or have to go work at Poundland.                   
+
+*'Wonderfully politically incorrect and insightful...a cracking showcase for Mothersole and Biscuit's weighty talents'* WhatsOnStage.com    
 
 Sh!t Theatre are Louise Mothersole and Rebecca Biscuit. With backgrounds in performance art, music and long-form improv, they have been writing and performing together since summer 2010. This project is supported by Escalator East and supported using public funding by Arts Council England.     
 
-As performers they have collectively worked with: Duckie, The Barbican, Bobby Baker, Ron Athey, Marisa Carnesky, Split Britches' Lois Weaver and Peggy Shaw, Stacy Makishi, Helena Hunter, Julia Bardsley, the RSC.   
+As performers they have collectively worked with: Duckie, The Barbican, Bobby Baker, Ron Athey, Marisa Carnesky, Split Britches' Lois Weaver and Peggy Shaw, Stacy Makishi, Helena Hunter, Julia Bardsley, and the RSC.   
 [www.shittheatre.co.uk](http://www.shittheatre.co.uk)  
 
 ![sh!t theatre](sh_t.jpg) 
@@ -103,7 +104,8 @@ From moments of one-on-one intimacy to moments of a cacophony of ensemble wordpl
 
 
 ####Lena Simic	   *1994*    
-A homage to Kurt Cobain, lost youth, impossible and failed encounters from a life lived retrospectively.    
+A homage to Kurt Cobain, lost youth, impossible and failed encounters from a life lived retrospectively.
+
 This solo performance is a story about 1994.    
 A series of memory excerpts which intertwine the past with the present.    
 An exploration of lost youth and ageing.    
@@ -117,10 +119,11 @@ Lena Simic, performance practitioner and pedagogue, born in Dubrovnik, Croatia, 
 
 
 ####70/30 Split   *Content: part 1*     
-*Two women search for content. Meaning and substance is sourced through the philosophical medium of burlesque. Two women perform.*    
-70/30 Split is Sophie Unwin and Lydia Cottrell, two York based choreographers and performers. Together they present an accumulation of words, thoughts, characters, expectations, stories, experiences and alternatives. Creating satirically energetic dance theatre work, the pair utilise movement, text, honesty and leotards, combining burlesque, bodies and the bizarre. They have performed to audiences both nationally and throughout the region including Leeds Light Night, Friday Firsts at Yorkshire Dance, Heads up north east at Edinburgh Fringe and Spring Loaded at The Place, London.    
+*Two women search for content. Meaning and substance is sourced through the philosophical medium of burlesque. Two women perform.*            
 
-![7030](7030.jpg)
+70/30 Split is Sophie Unwin and Lydia Cottrell, two York based choreographers and performers. Together they present an accumulation of words, thoughts, characters, expectations, stories, experiences and alternatives. Creating satirically energetic dance theatre work, the pair utilise movement, text, honesty and leotards, combining burlesque, bodies and the bizarre. They have performed to audiences both nationally and throughout the region including Leeds Light Night, Friday Firsts at Yorkshire Dance, Heads up north east at Edinburgh Fringe and Spring Loaded at The Place, London.    
+
+![7030](7030.JPG)
 
 
 ####Robin Sidwell   *An Evening of Poetry*     
