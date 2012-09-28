@@ -15,19 +15,19 @@ show: "12 til 5pm" # the name of the show
 
 ---
 
-##... near BLANKSPACE    
+##Near BLANKSPACE    
 
 ####anton hecht   *video reality*    	
 *video reality* seeks to create a virtual world, with low-tech technology, for single audience members with whose assistance two performers will take through the looking glass anyone with a sense of wonder. It is a dance of possibilities that you, the audience, engage in with performers;  a fun and immersive work that shows the full potential of performers working with technology.      
 
-anton hecht studied creative arts and fine arts at Manchester University then went to Newcastle as artist in residence for the year of visual arts. He works in video, mostly with communities and non-professionals of all ages on works that seek to question the notion of professionalism. He works across genre, including dance, classical music and poetry. *video reality*is created in collaboration with Michael Davies, a designer from the North East.    
+anton hecht studied creative arts and fine arts at Manchester University then went to Newcastle as artist in residence for the year of visual arts. He works in video, mostly with communities and non-professionals of all ages on works that seek to question the notion of professionalism. He works across genre, including dance, classical music and poetry. *video reality* was created in collaboration with Michael Davies, a designer from the North East.    
 [antonhecht.wordpress.com](http://antonhecht.wordpress.com)    
 
 
-##... the journey between BLANKSPACE + Castlefield Gallery    
+##Journey between spaces    
 
 
-####Larkin’ About   *MixTape by [Vee Uye]*(http://www.twitter.com/vee_uye)     
+####Larkin’ About   *MixTape by [Vee Uye](http://www.twitter.com/vee_uye)*            
 A retro-audio treasure hunt with a soundtrack that takes you between spaces and into the puzzle of our hearts. Players navigate the space with analogue personal stereos and augment the narrative with their own memories.          
 
 **Mixtape** *n*: a compilation of favourite pieces of music, typically by many different artists, recorded on to tape or another medium by an individual.    
@@ -44,7 +44,7 @@ Sam Treadaway is a multimedia artist whose practice includes live art, book-arts
 ![Bound and Re-bound](samtreadway.jpg)    
 
 
-##... near Castlefield Gallery    
+##Near Castlefield Gallery    
 
 ####Streethead
 Fluxus inspired street installation.
