@@ -26,8 +26,10 @@ Stephanie Douet exhibits sculpture, performance and installation at various UK v
 ####Qasim Riza Shaheen   *Misplaced Memoirs*    
 *Qasim Riza Shaheen invites you to step into his world and experience his declarations of love and desire.*    
 
-Qasim Riza Shaheen is a British artist based in Manchester with an international repertoire. His work has been presented at prominent venues and festivals throughout the United Kingdom, including at the Victoria and Albert Museum, London; the National Review of Live Art, Glasgow; the Liverpool Biennial; and British Dance Edition. Internationally, Shaheen's work has been programmed as part of several film festivals; British Council's showcases of live art in Denmark, Spain and Belgium; and at numerous art museums and galleries in Pakistan, India and in the USA. His art works have been acquired by museums and collectors internationally.     
-![Misplaced Memoirs](Qasim.jpg) photo by Karin Albinsonn.    
+Qasim Riza Shaheen is a British artist based in Manchester with an international repertoire. His work has been presented at prominent venues and festivals throughout the United Kingdom, including at the Victoria and Albert Museum, London; the National Review of Live Art, Glasgow; the Liverpool Biennial; and British Dance Edition. Internationally, Shaheen's work has been programmed as part of several film festivals; British Council's showcases of live art in Denmark, Spain and Belgium; and at numerous art museums and galleries in Pakistan, India and in the USA. His art works have been acquired by museums and collectors internationally.
+
+![Misplaced Memoirs](Qasim.jpg)
+photo by Karin Albinsonn    
 
 [www.qasimrizashaheen.com](http://www.qasimrizashaheen.com)    
 
@@ -42,7 +44,7 @@ Performed as both solo and a group piece in a variety of settings, *Yugo yoga...
 
 Lara Ritosa Roberts is a Croatian born, UK based visual and performance artist. She obtained an MA in Fine Art from Central Saint Martins College of Art & Design in 2007, and has also trained as a sculptor and as a physical theatre performer. In 2007, Lara founded Performance Klub Fiskulturnik, an international collaborative live art project.    
 
-![Yugoyoga](Yugoyoga.jpg)
+![Yugoyoga](YugoYoga.jpg)
 
 ####Liam Herne   *Bare*    
 Liam Herne will be dressed as a bear and shaving himself.    
@@ -50,7 +52,7 @@ Liam Herne will be dressed as a bear and shaving himself.
 Liam Herne is a mixed media artist. He usually presents his work in the mediums of video, photography and performance. He was born in Watford, Hertfordshire and has lived there most of his life. He currently works as an art and photography teacher.    
 
 ####Platt, Birchall + Hussain   *The Dreaming*    
-*Myth of creation and how it all began.*
+*Myth of creation and how it all began.*                  
 By Rebekka Platt in collaboration with David Birchall + Aliyah Hussain.    
 
 Rebekka Platt graduated from Salford University in 2010 and has worked with a range of artists from different disciplines: choreographer Saju Hari, musician and visual artist Goran Vejvoda, musician David Birchall, Volkov Commanders, Edwina Ashton and Genevieve Say.    
