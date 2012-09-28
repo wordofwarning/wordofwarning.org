@@ -44,7 +44,7 @@ Alexandra Kraszko is both a solo and collaborative artist, mainly experimenting 
 ![Vicio Faba](ViciaFaba.jpg)    
 
 ####Evans + Gaskell   *100 Deeds*    
-A visual gathering of deeds to define feminism in the modern day.
+A visual gathering of deeds to define feminism in the modern day.             
 *It is deeds that are needed, not words. We're just not sure what deeds they should be.*    
 
 100 years ago, a woman did something which was considered by everyone to be truly heroic/irrational/essential/extremist/empowering/detrimental. When Emily Wilding Davison jumped in front of the King's horse, her action would go on to impact how a nation perceives feminism.    
@@ -66,6 +66,8 @@ On 12 October 2012 a search party will be sent out to rescue the survivors; to b
 *How many will remain?*      
 
 Julieann O'Malley is an interdisciplinary artist based in Liverpool. She makes live performance, installation & video work that's raw, visceral, emotionally charged and evocative. She likes to test the limits of her body as well as using it as a material in her work. She has a great fascination for the possibilities of the future of the human race and is passionate about people's personal connections with one another and the world around them.
+
+![soldier](soldier.jpg)
 
 ####Clare Charnley	   *Nail Bar*    
 A place to discuss ideas while you have a manual worker's finger nail fitted - fake false finger nails painted to look soiled, split, bruised or generally affected by manual work. Each is a tiny painting.  Fitting it is an intimate situation involving close physical proximity and touch. As such, it provides a perfect opportunity for slow and thoughtful discussion with strangers. Lets talk...    
