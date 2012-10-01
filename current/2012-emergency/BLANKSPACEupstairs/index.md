@@ -5,7 +5,7 @@ layout: 2012-emergency
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "BLANKSPACE" # the name of the artist or company
+artist: "BLANKSPACE Upstairs" # the name of the artist or company
 show: "12 til 5pm" # the name of the show
 
 # ABOUT THE SHOW - LAYOUT

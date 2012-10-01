@@ -24,8 +24,7 @@ anton hecht studied creative arts and fine arts at Manchester University then we
 [antonhecht.wordpress.com](http://antonhecht.wordpress.com)    
 
 
-##Journey between spaces    
-
+##Journey Between Spaces                  
 
 ####Larkin’ About   *MixTape by [Vee Uye](http://www.twitter.com/vee_uye)*            
 A retro-audio treasure hunt with a soundtrack that takes you between spaces and into the puzzle of our hearts. Players navigate the space with analogue personal stereos and augment the narrative with their own memories.          

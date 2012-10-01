@@ -5,7 +5,7 @@ layout: 2012-emergency
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "BLANKSPACE" # the name of the artist or company
+artist: "BLANKSPACE Downstairs" # the name of the artist or company
 show: "12 til 5pm" # the name of the show
 
 # ABOUT THE SHOW - LAYOUT
@@ -84,7 +84,7 @@ Moreno Solinas trained at the London Contemporary Dance School. He has performed
 ![(Uranus](Uranus.jpg)
 
 ####Leo Olamerino   *I've been waiting for you*    
-A one-man performance, devised in collaboration with Lowri Jones, using spoken word, projection and movement.    
+A one-man performance, devised in collaboration with Lowri Jones and Keely Hawkins, using spoken word, projection and movement.    
 
 *You've been waiting for the kettle to boil, your train to arrive, and your lunch to be served. I've been waiting for you. The passing of time and the harsh weather have troubled my thoughts and my body. For the first or the thousandth time, I've been waiting for you to wait with me. You don't have to stay for long, but without you, I'm not much.* 
 
