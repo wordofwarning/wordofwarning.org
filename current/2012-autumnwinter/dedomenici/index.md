@@ -25,6 +25,7 @@ See video [here.](http://www.youtube.com/watch?v=T3bCKVk2Ui0)
 ####Who is he?
 Artist, Filmmaker, Raconteur and Manufacturer of Dangerous Toys since 1798.    
 
+
 ####What people have said about him
 >The thinking man's Ashton Kutcher<br>*Matt Trueman, The Guardian*    
 >Beautiful acts of absurdity highlighting more serious issues.  Frighteningly effective.<br>*The Guardian*       
@@ -33,16 +34,19 @@ Artist, Filmmaker, Raconteur and Manufacturer of Dangerous Toys since 1798.
 
 ![Popaganda](dedomenici.png)
 
+
 ####Credits       
 Presented by house.  Supported using public funding by Arts Council England.
+
 
 ####Websites
 [www.dedomenici.com](http://www.dedomenici.com)    
 [www.housetheatre.org.uk](http://www.housetheatre.org.uk)
 
+
 ####Venue & Booking Details
-Date: Friday 2 November, 7.30pm (doublebill with Ollie Smith)   
-Venue: Z-arts, 335 Stretford Road, Manchester, M15 5ZA    
-Tickets: £8/5    
-Tel: 0161 232 6089    
+Date: Friday 2 November, 7.30pm (double bill with Ollie Smith)   
+[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
+[Tickets: £8/5](http://www.z-arts.org/events/word-of-warning-02-nov/)    
+Box Office Tel: 0161 232 6089
 

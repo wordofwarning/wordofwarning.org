@@ -51,7 +51,7 @@ Ollie trained as a performer at Bretton Hall and graduated in 2007 with first-cl
 
 
 ####Venue & Booking Details
-Date: Friday 2 November, 7.30pm (doublebill with Richard DeDomenici)    
-Venue:	Z-arts, 335 Stretford Road, Manchester, M15 5ZA    
-Tickets: £8/5    
-Tel: 0161 232 6089     
+Date: Friday 2 November, 7.30pm (double bill with Richard DeDomenici)    
+[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
+[Tickets: £8/5](http://www.z-arts.org/events/word-of-warning-02-nov/)    
+Box Office Tel: 0161 232 6089     
