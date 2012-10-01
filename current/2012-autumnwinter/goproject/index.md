@@ -48,15 +48,15 @@ It feels like a music gig but we know its not.  The frontman knows this and we k
 >GO Project: ‘Achingly beautiful and fascinatingly different.’<br>*Glasgow Herald*     
 
 ####Credits      
-Action Hero vs. GO Project was co-commissioned by In Between Time and hÅb. Frontman was co-commissioned by Fierce festival 2011 and IBT. Supported by Forest Fringe and Residence. National tour supported by ACE. Photos by Briony Campbell.     
+*Action Hero vs. GO Project* was co-commissioned by In Between Time and hÅb. Frontman was co-commissioned by Fierce festival 2011 and IBT. Supported by Forest Fringe and Residence. National tour supported by ACE. Photos by Briony Campbell.     
 
 ####Websites
 [www.actionhero.org.uk](http://www.actionhero.org.uk)
 
 ####Venue & Booking Details
 Date:    Friday, 12 October, 7.30pm    
-Venue:  GORILLA, 54-56 Whitworth Street West, M1 5WW    
-Tickets: [£8/5](http://www.wegottickets.com/wordofwarning) (also available in person from GORILLA's bar)      
+Venue:  Gorilla, 54-56 Whitworth Street West, M1 5WW    
+Tickets: [£8/5](http://www.wegottickets.com/wordofwarning) (also available in person from Gorilla's bar)      
 Tel: 0161 832 1111 (Ticketmaster)   
 
 ![Frontman](Action_Hero_2.jpg)
