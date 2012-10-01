@@ -60,6 +60,6 @@ Made In China is a National Theatre Studio Affiliate Company.
 
 ####Venue & Booking Details    
 Date: Friday 30 November, 7.30pm    
-Venue:	Z-arts, 335 Stretford Road, Manchester, M15 5ZA    
-Tickets: £8/5    
-Tel: 0161 232 6089    
+[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
+[Tickets: £8/5](http://www.z-arts.org/events/word-of-warning-30-nov/)    
+Box Office Tel: 0161 232 6089    
