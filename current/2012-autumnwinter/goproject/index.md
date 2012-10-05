@@ -57,6 +57,6 @@ It feels like a music gig but we know its not.  The frontman knows this and we k
 Date:    Friday, 12 October, 7.30pm    
 [Venue: Gorilla](http://www.thisisgorilla.com/), 54-56 Whitworth Street West, M1 5WW    
 [Tickets: £8/5](http://www.wegottickets.com/wordofwarning) (also available in person from Gorilla's bar)      
-Box Office Tel (Ticketmaster): 0161 832 1111   
+Box Office Tel (Ticketline): 0161 832 1111   
 
 ![Frontman](Action_Hero_2.jpg)
