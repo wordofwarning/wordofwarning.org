@@ -17,7 +17,7 @@ show: "6 til 10pm" # the name of the show
 ####Clarissa Sacchelli   *Untitled*    
 *Untitled* is a performance about a desire for stillness. It is about what moves to immobilise, and what is in stillness to move, about an impossible possibility that can just exist in inter-relations.    
     
-concept and direction | Clarissa Sacchelli
+concept and direction | Clarissa Sacchelli          
 with | Clarissa Sachelli, Ieva Dzindza, Kate Adams, Patricia Guerra Ovín, Rachel Anne Bamford          
 
 
