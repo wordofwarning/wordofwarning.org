@@ -15,9 +15,10 @@ show: "6 til 10pm" # the name of the show
 
 ---
 ####Clarissa Sacchelli   *Untitled*    
-A performance about a desire for stillness. It is about what moves to immobilise, and what is in stillness to move; about an impossible possibility that can just exist in inter-relations.    
+*Untitled* is a performance about a desire for stillness. It is about what moves to immobilise, and what is in stillness to move, about an impossible possibility that can just exist in inter-relations.    
     
-Clarissa Sacchelli is a London based artist creating her own work since 2007. She works with video art, performance art, dance and installation. Her works have been presented in Brazil, UK and Portugal. Clarissa is currently is studying a Masters in Creative Practice at Laban.          
+concept and direction | Clarissa Sacchelli
+with | Clarissa Sachelli, Ieva Dzindza, Kate Adams, Patricia Guerra Ovín, Rachel Anne Bamford          
 
 
 ####Angel Club (north)   *The Mirror Twins*    
@@ -96,8 +97,9 @@ As performers they have collectively worked with: Duckie, The Barbican, Bobby Ba
 ####Jenny Duffy + Massive Owl   *The MOBB Project*    
 *There's this man sat at a desk...    
 There's this man and he's not sat at a desk...    
-There are four men and one woman and they're sat on chairs...    
-And then, there's You...*         
+There are four men and one woman and they're sat on chairs...*    
+
+*And then, there's You...*         
 
 From moments of one-on-one intimacy to moments of a cacophony of ensemble wordplay, *The MOBB Project* playfully explores and exposes how we interact online. Expect some storytelling, some arguing and there might even be a bit of Sting... (yes, the musician)...    
 
@@ -136,7 +138,7 @@ Come and listen, he's not saying the work will change the world completely ... b
 
 *"Oh that thing in the news? Yeah man, that was awful wasn't it! Probably write a poem about it, that's just what I do!"* (Sidwell 20/08/12)    
 
-Former greenroom associate artist with theatre company **Until Thursday** and Method Lab artist as Robin Sidwell.    
+Former greenroom associate artist with theatre company Until Thursday, and Method Lab artist as Robin Sidwell.    
 ![Robin Sidwell](RobinSidwell.jpg)    
 
 
@@ -156,4 +158,4 @@ Chris Fitzsimmons graduated from UCLAN in 2007 and has since written and perform
 ####Josh Coates   *Stevie Wonder's Stern Warning*      
 A rock-ukulele-pop concert performed by Josh Coates exploring how the only remaining member of the band 'Stevie Wonder's Stern Warning' copes with the loss of friendship, career and an audience. A solo performance for two.    
 
-Josh Coates is a performance artist based in Lancaster and is the Creative Producer of LEAP - Lancaster Emerging Arts Platform. Special thanks to Ideas Tap, GETINTHEBACKOFTHEVAN, befur the bear and to anyone who has seen the piece in its infancy.    
+Josh Coates is a performance artist based in Lancaster and is the Creative Producer of LEAP - Lancaster Emerging Arts Platform. Special thanks to Ideas Tap, GETINTHEBACKOFTHEVAN, befur the bear and to anyone who has seen the piece in its infancy. 
