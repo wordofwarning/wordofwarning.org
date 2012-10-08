@@ -46,11 +46,6 @@ Lara Ritosa Roberts is a Croatian born, UK based visual and performance artist. 
 
 ![Yugoyoga](YugoYoga.jpg)
 
-####Liam Herne   *Bare*    
-Liam Herne will be dressed as a bear and shaving himself.    
-
-Liam Herne is a mixed media artist. He usually presents his work in the mediums of video, photography and performance. He was born in Watford, Hertfordshire and has lived there most of his life. He currently works as an art and photography teacher.    
-
 ####Platt, Birchall + Hussain   *The Dreaming*    
 *Myth of creation and how it all began.*                  
 By Rebekka Platt in collaboration with David Birchall + Aliyah Hussain.    

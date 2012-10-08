@@ -20,6 +20,12 @@ Using a bed of earth, "the place of death and decay, as well as creation and gro
 
 Kitty trained at Trinity Laban. During her time there she was lucky enough to perform in work by Reinhild Hoffman, Zoi Dimitriou, Matteo Fargion and Marie-Gabriell Rotie, whose Butoh practice has been a great inspiration for this piece.    
 
+
+####Liam Herne   *Bare*    
+Liam Herne will be dressed as a bear and shaving himself.    
+
+Liam Herne is a mixed media artist. He usually presents his work in the mediums of video, photography and performance. He was born in Watford, Hertfordshire and has lived there most of his life. He currently works as an art and photography teacher.    
+
 ####Nicola Smith   *Human Desktop*	    
 Nicola Smith will become a human desk where the audience can explore their curiosity by simply sitting, looking, handling items, sharing stories and speaking directly to the artist. Inspired by the artist at work, who not only uses the studio but also spends a lot of their time attached to their desk; in fact most of her time is spent at a desk writing proposals, researching and making. This piece offers a unique insight into her daily practice; the audience can explore their curiosity and explore the artist's desk by simply looking, handling items, sharing stories and speaking directly to the artist.       
 
