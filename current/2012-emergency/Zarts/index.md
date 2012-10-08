@@ -14,6 +14,11 @@ show: "6 til 10pm" # the name of the show
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
+####Clarissa Sacchelli   *Untitled*    
+A performance about a desire for stillness. It is about what moves to immobilise, and what is in stillness to move; about an impossible possibility that can just exist in inter-relations.    
+    
+Clarissa Sacchelli is a London based artist creating her own work since 2007. She works with video art, performance art, dance and installation. Her works have been presented in Brazil, UK and Portugal. Clarissa is currently is studying a Masters in Creative Practice at Laban.          
+
 
 ####Angel Club (north)   *The Mirror Twins*    
 The 'mirror twins' take the weight from your shoulders and transport you to exotic climes in this head to head encounter of canapé art.    
@@ -46,8 +51,7 @@ Wayne has worked for eight years creating funny, baffling, mystical, absurd and 
 ![and two](Wayne.jpg)Image created by Alana Danielle Richards.
 
 
-####Sedated By A Brick
-####*Sedated By A Brick present Serrated By A Knife present Sedated By A Brick*
+####Sedated By A Brick present   *Serrated By A Knife present Sedated By A Brick*
 Tonight, Sedated By A Brick will summon up the spirits of their alter-ego theatre company, Serrated By A Knife.    
 
 *Is there anybody out there?*    
