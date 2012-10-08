@@ -15,6 +15,8 @@ show: "12 til 5pm" # the name of the show
 
 ---
 
+**Please accept our apologies, but unfortunately the Upstairs Spaces at BLANKSPACE are not wheelchair accessible.**      
+
 ####Katie Taylor   *Let me wash your face*    
 A shared ritual of cleansing exploring trust and vulnerability.           
 *How do we mark the moments of pain and pleasure which shape our lives?*           
