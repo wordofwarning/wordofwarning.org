@@ -48,12 +48,4 @@ For a number of years Sam worked from the Spacex Gallery studios. He is currentl
 ####Streethead
 Fluxus inspired street installation.
 
-Currently a BA Theatre/Performance student at University College, Falmouth incl. Dartington College of Arts and an emerging live artist, experimenting with audience reaction. Born and raised in Manchester, during the 80's he performed with the Hulme based Dogs of Heaven.    
-
-
-####Clarissa Sacchelli   *Untitled*    
-*Untitled* is a performance about a desire for stillness. It is about what moves to immobilise, and what is in stillness to move, about an impossible possibility that can just exist in inter-relations.    
-    
-concept and performance | Clarissa Sacchelli    
-
-![Clarissa Sacchelli](Sacchelli.jpg)
+Currently a BA Theatre/Performance student at University College, Falmouth incl. Dartington College of Arts and an emerging live artist, experimenting with audience reaction. Born and raised in Manchester, during the 80's he performed with the Hulme based Dogs of Heaven.

@@ -46,9 +46,18 @@ Performed as both solo and a group piece in a variety of settings, *Yugo yoga...
 
 Lara Ritosa Roberts is a Croatian born, UK based visual and performance artist. She obtained an MA in Fine Art from Central Saint Martins College of Art & Design in 2007, and has also trained as a sculptor and as a physical theatre performer. In 2007, Lara founded Performance Klub Fiskulturnik, an international collaborative live art project.    
 
-![Yugoyoga](YugoYoga.jpg)
+![Yugoyoga](YugoYoga.jpg)            
 
-####Platt, Birchall + Hussain   *The Dreaming*    
+
+####Clarissa Sacchelli   *Untitled*    
+*Untitled* is a performance about a desire for stillness. It is about what moves to immobilise, and what is in stillness to move, about an impossible possibility that can just exist in inter-relations.    
+    
+concept and performance | Clarissa Sacchelli    
+
+![Clarissa Sacchelli](Sacchelli.jpg)            
+
+
+####Platt, Birchall + Hussain   *The Dreaming*    
 *Myth of creation and how it all began.*                  
 By Rebekka Platt in collaboration with David Birchall + Aliyah Hussain.    
 
