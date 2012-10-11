@@ -15,14 +15,7 @@ show: "12 til 5pm" # the name of the show
 
 ---
 
-##Near BLANKSPACE    
-
-####anton hecht   *video reality*    	
-*video reality* seeks to create a virtual world, with low-tech technology, for single audience members with whose assistance two performers will take through the looking glass anyone with a sense of wonder. It is a dance of possibilities that you, the audience, engage in with performers;  a fun and immersive work that shows the full potential of performers working with technology.      
-
-anton hecht studied creative arts and fine arts at Manchester University then went to Newcastle as artist in residence for the year of visual arts. He works in video, mostly with communities and non-professionals of all ages on works that seek to question the notion of professionalism. He works across genre, including dance, classical music and poetry. *video reality* was created in collaboration with Michael Davies, a designer from the North East.    
-[antonhecht.wordpress.com](http://antonhecht.wordpress.com)    
-
+**Unfortunately, anton hecht's *video reality* will no longer be presented during Emergency**    	
 
 ##Journey Between Spaces                  
 
