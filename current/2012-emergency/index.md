@@ -14,13 +14,13 @@ is_index: true
 
 So the reading and scoring, juggling and hair-tearing is done and dusted for another year and the full artist list lies below...    
 
-**The schedule is now available to [download]**(http://emergencymcr.posterous.com/emergency-schedules-revealed)**, though remember, it is and always will be subject to change!**    
+**The schedule is now available to [download](http://emergencymcr.posterous.com/emergency-schedules-revealed), though remember, it is and always will be subject to change!**    
 
 Manchester's 13th marathon of the bizarre, the beautiful and the bold pops up in three venues - BLANKSPACE, Castlefield Gallery and Z-arts and this year's Emergency features a full 39 free pieces of live work.    
 
 Expect daytime installations, interactions and intimate experiences at BLANKSPACE and Castlefield Gallery and an evening of sit-down performance at Z-arts.    
 
-**See map [here]**(https://maps.google.co.uk/maps/ms?msid=207310072245535503927.0004c60b67be9371f1dec&msa=0)     
+**See map [here](https://maps.google.co.uk/maps/ms?msid=207310072245535503927.0004c60b67be9371f1dec&msa=0)**     
 
 Presented by Word of Warning, produced by hÅb with BLANKSPACE, Castlefield Gallery and Z-arts. Part of the Manchester arts and culture event, [the Manchester Weekender](http://www.creativetourist.com/weekender-2/the-manchester-weekender-2012).      
 
