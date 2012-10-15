@@ -2,12 +2,12 @@
 
 # CONFIGURATION
 layout: home
-header_image: "assets/images/header_emergency.jpg"
+header_image: "assets/images/header_2012_aw_blue.jpg"
 
 ---
 
-# Welcome to our new [Autumn/Winter Collection](/current/2012-autumnwinter/index.html). We start with a Manchester Weekender flurry: on Friday 12 October we return to a familiar railway arch for [Action Hero vs. GO Project](http://www.wordofwarning.org/current/2012-autumnwinter/goproject/index.html) at Gorilla.
+# Welcome to our new [Autumn/Winter Collection](/current/2012-autumnwinter/index.html). Huge thanks to all the artists, venues, technicians, volunteers and audiences for the monumental weekend just gone - a full-on crescendo of a gig with Action Hero vs. GO Project at Gorilla and the frantic frenzy that was Emergency 2012.
 
-# Then, on Saturday 13 October we launch our 13th [Emergency](http://emergencymcr.org) - 1 day, 40 pieces, 3 venues, all free!
+# Next up we have a mammoth double-bill of shows featuring [Ollie Smith's *27*](http://www.wordofwarning.org/current/2012-autumnwinter/olliesmith/index.html) and [Richard Dedomenici's *Popaganda*](http://www.wordofwarning.org/current/2012-autumnwinter/dedomenici/index.html) on Fri 2 November at Z-arts.
 
 ## Sign up [here]({{ site.mailer_signup_url }}) for updates.
