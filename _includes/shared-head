@@ -11,8 +11,8 @@
 
 	<link rel="stylesheet" href="{{ page.rootpath }}assets/vendor/zurb/stylesheets/foundation.css">
 	<!-- <link rel="stylesheet" href="{{ page.rootpath }}assets/vendor/zurb/stylesheets/app.css"> -->
-	<link rel="stylesheet" href="{{ page.rootpath }}assets/stylesheets/wordofwarning.css">
-	<link rel="stylesheet" href="{{ page.rootpath }}assets/stylesheets/events.css">
+	<link rel="stylesheet" href="{{ page.rootpath }}assets/stylesheets/shared.css">
+	<link rel="stylesheet" href="{{ page.rootpath }}assets/stylesheets/season_styles.css">
 	
 	{% if page.header_image %}
 	<style>
