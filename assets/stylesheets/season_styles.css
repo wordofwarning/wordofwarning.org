@@ -29,26 +29,6 @@
 	.splash
 		{background:url(../images/header_default.jpg) -150px center}
 
-/* an example (not pretty) event styling
-------------------------------------------------------*/
-
-	.example,
-	.example .artist, 
-	.example .show,
-	.example .season
-		{background:#f00; color:#fff;}
-
-	.example a,
-	.example a:visited,
-	.example a:hover
-		{color:#fff;}
-	.example nav a:hover,
-	.example article a:hover,
-	.example footer a:hover
-		{background: #fff; color: #f00;}
-		
-	.example .splash
-		{background:url(../images/header_example.png) -150px center}
 
 /* Spring / Summer 2012 Collection
 ------------------------------------------------------*/
@@ -111,7 +91,29 @@
 	.e2012 nav a:hover,
 	.e2012 article a:hover,
 	.e2012 footer a:hover
-		{background: #fff; color: #f00;}
+		{background: #fff; color: #900;}
 		
 	.e2012 .splash
 		{background:url(../images/header_emergency_reversed.jpg) center center}
+		
+/* an example (not pretty) event styling - copy and paste to make new event styles
+------------------------------------------------------*/
+/*
+	.example,
+	.example .artist, 
+	.example .show,
+	.example .season
+		{background:#f00; color:#fff;}
+
+	.example a,
+	.example a:visited,
+	.example a:hover
+		{color:#fff;}
+	.example nav a:hover,
+	.example article a:hover,
+	.example footer a:hover
+		{background: #fff; color: #f00;}
+		
+	.example .splash
+		{background:url(../images/header_example.png) -150px center}
+*/

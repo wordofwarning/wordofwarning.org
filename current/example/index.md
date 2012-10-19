@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: example-event
+layout: event-example
 rootpath: "../../"
 is_index: true
 
