@@ -9,3 +9,7 @@ archived:
     - {folder: "2012-springsummer", name: "Spring/Summer 2012", class: "ss2012"}
     
 ---
+
+# Archive
+
+Word of Warning's previous events organised by collection in chronological order (most recent first).
