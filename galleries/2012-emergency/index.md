@@ -13,6 +13,7 @@ more_url: "../../archive/2012-emergency/index.html"
 
 gallery:
     -   {file: "titlepage.jpg", show: "<small>Images copyright &copy;2012 Word of Warning</small>"}
+    -   {file: "graham.jpg", artist: "Kitty Graham", show: "The Bare Earth (pic: Bob France)"}
 
 
 ---
