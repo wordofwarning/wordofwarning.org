@@ -6,10 +6,9 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Streethead"
-show: ""
+show: "Untitled"
 
 # ABOUT THE SHOW - LAYOUT
-header_image: "header.jpg"
 
 ---
 

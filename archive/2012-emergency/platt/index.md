@@ -6,14 +6,14 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Platt, Birchall + Hussain"
-show: ""
+show: "Myth of creation and how it all began."
 
 # ABOUT THE SHOW - LAYOUT
 header_image: "header.jpg"
+show_size: 4
 
 ---
-
-*Myth of creation and how it all began.*                  
+                 
 By Rebekka Platt in collaboration with David Birchall + Aliyah Hussain.    
 
 Rebekka Platt graduated from Salford University in 2010 and has worked with a range of artists from different disciplines: choreographer Saju Hari, musician and visual artist Goran Vejvoda, musician David Birchall, Volkov Commanders, Edwina Ashton and Genevieve Say.    

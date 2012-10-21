@@ -10,6 +10,7 @@ show: "Serrated By A Knife present Sedated By A Brick"
 
 # ABOUT THE SHOW - LAYOUT
 header_image: "header.jpg"
+show_size: 4
 
 ---
 

@@ -9,7 +9,6 @@ artist: "Yoko Ishiguro"
 show: "Flashes"
 
 # ABOUT THE SHOW - LAYOUT
-header_image: "header.jpg"
 
 ---
 
