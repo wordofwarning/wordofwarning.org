@@ -10,6 +10,7 @@ show: "I know this, I do this all the time (I don't like it though)"
 
 # ABOUT THE SHOW - LAYOUT
 header_image: "header.jpg"
+show_size: 4
 
 ---
 

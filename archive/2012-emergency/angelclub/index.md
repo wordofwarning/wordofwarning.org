@@ -9,7 +9,6 @@ artist: "Angel Club (north)"
 show: "he Mirror Twins"
 
 # ABOUT THE SHOW - LAYOUT
-header_image: "header.jpg"
 
 ---
 

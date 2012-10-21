@@ -6,7 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Diego Bowie"
-show: ""
+show: "Untitled"
 
 # ABOUT THE SHOW - LAYOUT
 header_image: "header.jpg"

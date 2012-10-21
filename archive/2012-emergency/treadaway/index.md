@@ -10,6 +10,7 @@ show: "Bound and Re-bound - a 'post' performance"
 
 # ABOUT THE SHOW - LAYOUT
 header_image: "header.jpg"
+show_size: 4
 
 ---
 

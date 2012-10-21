@@ -10,6 +10,7 @@ show: "Sh!t Theatre's JSA (Job Seekers Anonymous)"
 
 # ABOUT THE SHOW - LAYOUT
 header_image: "header.jpg"
+show_size: 4
 
 ---
 
