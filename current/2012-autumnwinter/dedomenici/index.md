@@ -20,24 +20,27 @@ Sit back and relax to the dulcet tones of Richard DeDomenici's songs that arenâ€
 A jetlagged litterpicker of the world's cultural landfill, watch DeDomenici throw western civilisation at the wall, caution to the wind, and see what sticks.    
 Like a can of tomato soup *Popaganda* is condensed, easily digestible, and likely to stain.    
 
-See video [here.](http://www.youtube.com/watch?v=T3bCKVk2Ui0)    
+See video [here](http://www.youtube.com/watch?v=T3bCKVk2Ui0) and [here.](http://www.youtube.com/watch?v=K3ONqPgGbCk)    
+
+![Popaganda](Popaganda.jpg)     
 
 ####Who is he?
 Artist, Filmmaker, Raconteur and Manufacturer of Dangerous Toys since 1798.    
-
+![Popaganda](rd2.jpg)
 
 ####What people have said about him
 >The thinking man's Ashton Kutcher<br>*Matt Trueman, The Guardian*    
 >Beautiful acts of absurdity highlighting more serious issues.  Frighteningly effective.<br>*The Guardian*       
 >Clever, tremendously funny, powerfully political and unafraid to be accessible.  Think of comic activist Mark Thomas crossed with TV satirist Chris Morris, and you have something approximating DeDomenici.<br>*The Sunday Herald*    
 >This is the Future<br>*Time Out*    
-
-![Popaganda](dedomenici.png)
+>Describing DeDomenici's set doesn't do him justice. I found him to be a clever instigator of mischief, which he chronicles on video and presents to the audience. It's stand-up, but with a much more 'performance' angle than most. Some bits work better than others, like his lyrics to the theme tune of TV's Cagney and Lacey and his hilarious treatment of the UK tour of the Olympic flame. I found his act very funny, and I would most certainly go out of my way to see him perform again. 4stars <br>*www.acrossthearts.co.uk*
+![Popaganda](rd6.jpg)
 
 
 ####Credits       
 Presented by house.  Supported using public funding by Arts Council England.
 
+![Popaganda](rd5.jpg)    
 
 ####Websites
 [www.dedomenici.com](http://www.dedomenici.com)    
