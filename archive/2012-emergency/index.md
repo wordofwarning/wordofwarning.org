@@ -13,4 +13,4 @@ So it's all over for another year... Manchester's 13th marathon of the bizarre, 
 
 Daytime installations, interactions and intimate experiences at BLANKSPACE and Castlefield Gallery and an evening of sit-down performance at Z-arts.    
  
-Presented by Word of Warning, produced by hÅb with Blank Media Collective, Castlefield Gallery and Z-arts. Part of the Manchester arts and culture event, [the Manchester Weekender](http://www.creativetourist.com/weekender-2/the-manchester-weekender-2012).
+Presented by [Word of Warning](http://www.wordofwarning.org), produced by [hÅb](http://www.habarts.org) with [Blank Media Collective](http://www.blankmediacollective.org), [Castlefield Gallery](http://www.castlefieldgallery.co.uk) and [Z-arts](http://www.z-arts.org). Part of the Manchester arts and culture event, [the Manchester Weekender](http://www.creativetourist.com/weekender-2/the-manchester-weekender-2012).
