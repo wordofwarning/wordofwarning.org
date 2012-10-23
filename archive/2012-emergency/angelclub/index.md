@@ -6,7 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Angel Club (north)"
-show: "he Mirror Twins"
+show: "The Mirror Twins"
 
 # ABOUT THE SHOW - LAYOUT
 
