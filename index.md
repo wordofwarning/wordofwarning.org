@@ -2,7 +2,7 @@
 
 # CONFIGURATION
 layout: home
-header_image: "assets/images/header_2012_aw_blue.jpg"
+header_image: "assets/images/header_doublebill.jpg"
 
 ---
 
