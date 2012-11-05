@@ -9,7 +9,7 @@ header: Haz<br>ard.
 stylesheet: gallery.css
 
 more_link: More info
-more_url: "../../archive/2012-hazard/index.html"
+more_url: "http://www.wordofwarning.org/archive/2012-hazard/index.html"
 
 gallery:
     -   {file: "titlepage.jpg", show: "<small>Images copyright &copy;2012 Word of Warning</small>"}
