@@ -2,11 +2,11 @@
 
 # CONFIGURATION
 layout: home
-header_image: "assets/images/header_doublebill.jpg"
+header_image: "assets/images/header_2012_aw_blue.jpg"
 
 ---
 
-# Our [Autumn/Winter Performance Collection](/current/2012-autumnwinter/index.html) continues on Friday (2 Nov) at Z-arts with a mammoth double bill featuring [Ollie Smith's *27*](http://www.wordofwarning.org/current/2012-autumnwinter/olliesmith/index.html) and [Richard DeDomenici's *Popaganda*](http://www.wordofwarning.org/current/2012-autumnwinter/dedomenici/index.html).
-#Huge thanks to everyone involved in our epic opening weekend with Action Hero vs. GO Project + Emergency... if you missed Emergency, have a look at some images [here](http://emergencymcr.org).
+# Big thanks to Ollie Smith, Richard DeDomenici and all of your for making Friday a real cracker... if you missed it, you really missed out.  To avoid missing out in future - our [Autumn/Winter Performance Collection](/current/2012-autumnwinter/index.html) concludes on Friday 30 Nov) at Z-arts with National Theatre and BAC residents, [Made in China](/current/2012-autumnwinter/madeinchina/index.html)'s first ever trip to Manchester... and watch this space for a few last minute extras!
+#In the meantime, have a look at our Emergency image archive[here](http://emergencymcr.org).
 
 ## Sign up [here]({{ site.mailer_signup_url }}) for updates.
