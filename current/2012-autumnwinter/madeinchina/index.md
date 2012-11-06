@@ -55,8 +55,8 @@ Made in China formed in 2009. Their work has been seen across the UK and interna
 [www.bac.org.uk](http://www.bac.org.uk/get-involved/programmes/bac-t/)
       
 ####Credits     
-Presented by BAC Take Out.             
-Made In China is a National Theatre Studio Affiliate Company.    
+Presented by BAC Take out and funded by Arts Council England. Developed with support from National Theatre Studio, The Junction and The Basement.     
+Made In China is a National Theatre Studio Affiliate Company.   
 
 ####Venue & Booking Details    
 Date: Friday 30 November, 7.30pm    
