@@ -7,6 +7,8 @@ is_index: true
 
 ---
 #### 21 July, 2012
+**To see our gallery of the day's events click [here](http://hazardmcr.org)**
+
 Sneaking up on you from behind a bus, Manchester's stripiest festival returns to unleash its fourth wave of bizarre behaviour on the city centre. 
 
 In this year of all things Games, get fit in the hula-hoopathon, see the goal posts shifting, or take a soapbox tour from the Olympics to the End of the World. 
