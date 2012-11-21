@@ -16,7 +16,7 @@ show_size: 3 # optional - size of show name 2-5. Default is 2. Set longer names 
 ---
 
 ####*Stop Press - bonus event*    
-*Because this is Word of Warning and because we can't help ourselves, we've got an extra bonus event!  Following their Emergency appearance, shaking their shambolic thing, Angel Club (north’s) errant offspring, The Mirror Twins return to present a special seasonal buffet of ‘one to one’ cabaret encounters.*    
+*Because this is Word of Warning and because we can't help ourselves, we've got an extra bonus event!  Following their Emergency appearance, shaking their shambolic thing, Angel Club (north)'s errant offspring, The Mirror Twins return to present a special seasonal buffet of ‘one to one’ cabaret encounters.*    
 ![Mirror Twins](ACN1.jpg) 
   
 ###Made In China    
