@@ -6,7 +6,7 @@ header_image: "assets/images/header_2012_aw_blue.jpg"
 
 ---
 
-# Big thanks to Ollie Smith, Richard DeDomenici and all of you for making Friday sparkle...  Don't miss our [Autumn/Winter Performance Collection](/current/2012-autumnwinter/index.html) season closer on Friday 30 Nov at Z-arts with National Theatre and BAC affiliates, [Made in China](/current/2012-autumnwinter/madeinchina/index.html)'s first ever trip to Manchester... and watch this space for a few last minute extras!
-#In the meantime, have a look at our Emergency image archive [here](http://emergencymcr.org).
+# Big thanks to [Made In China, Angel Club (north)](/current/2012-autumnwinter/madeinchina/index.html), Z-arts and our audience for making a wonderful St Andrew's seasonal send-off to 2012 last Friday. 
+# Our Spring/Summer 2013 Performance Collection will be announced soon... In the meantime, have a look at our Emergency image archive [here](http://emergencymcr.org).
 
 ## Sign up [here]({{ site.mailer_signup_url }}) for updates.
