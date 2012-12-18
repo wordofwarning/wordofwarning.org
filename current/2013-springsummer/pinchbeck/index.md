@@ -7,8 +7,8 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Michael Pinchbeck | CTP, University of Salford" # the name of the artist or company
 show: "The Beginning | Debut" # the name of the show
-artist_size: 4
-show_size: 4
+artist_size: 3
+show_size: 3
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
