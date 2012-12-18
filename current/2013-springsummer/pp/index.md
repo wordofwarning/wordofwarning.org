@@ -9,14 +9,14 @@ artist: "Plane Performance | Pigeon Theatre" # the name of the artist or company
 show: "Three Sisters | The Smell of Envy" # the name of the show
 
 # ABOUT THE SHOW - LAYOUT
-# artist_size: "3" # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
+# artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 # show_size: 2 # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
 
 #### In Brief
-Sit back and relax to the dulcet tones of Richard DeDomenici's songs that aren’t real, facts that are funny, and jokes that don’t rhyme, in his new show *Popaganda*.    
+show text here and relax to the dulcet tones of Richard DeDomenici's songs that aren’t real, facts that are funny, and jokes that don’t rhyme, in his new show *Popaganda*.    
 A jetlagged litterpicker of the world's cultural landfill, watch DeDomenici throw western civilisation at the wall, caution to the wind, and see what sticks.    
 Like a can of tomato soup *Popaganda* is condensed, easily digestible, and likely to stain.    
 
