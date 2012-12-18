@@ -5,8 +5,7 @@ layout: 2013-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Plane Performance |
-     Pigeon Theatre" # the name of the artist or company
+artist: "Plane Performance |          Pigeon Theatre" # the name of the artist or company
 show: "Three Sisters | The Smell of Envy" # the name of the show
 
 # ABOUT THE SHOW - LAYOUT
