@@ -69,6 +69,24 @@
 	.p2013 .splash
 		{background:url(../images/header_pe_photo.jpg) center center}
 		
+/* Turn 2013
+------------------------------------------------------*/
+
+	.t2013,
+	.t2013 .artist, 
+	.t2013 .show,
+	.t2013 .season
+		{background:#036; color:#fff;}
+
+	.t2013 a,
+	.t2013 a:visited,
+	.t2013 a:hover
+		{color:#fff;}
+	.t2013 nav a:hover,
+	.t2013 article a:hover,
+	.t2013 footer a:hover
+		{background: #fff; color: #036;}
+		
 /* Hazard
 ------------------------------------------------------*/
 
