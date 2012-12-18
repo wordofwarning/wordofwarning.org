@@ -7,8 +7,7 @@ is_index: true
 
 ---
 
-#### 13 April, 2013  
-**To see our gallery of the day's events click [here](http://emergencymcr.org)**
+#### 13 April, 2013      
 
 So it's all over for another year... Manchester's 13th marathon of the bizarre, the beautiful and the bold popped up in three venues - BLANKSPACE, Castlefield Gallery and Z-arts and this year's Emergency featured a full 39 free pieces of live work.    
 
