@@ -86,6 +86,9 @@
 	.t2013 article a:hover,
 	.t2013 footer a:hover
 		{background: #fff; color: #036;}
+
+	.t2013 .splash
+		{background:url(../images/header_turn_photo.jpg) center center}
 		
 /* Hazard
 ------------------------------------------------------*/
