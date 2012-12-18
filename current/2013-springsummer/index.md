@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: event-example
+layout: 2013-springsummer
 rootpath: "../../"
 is_index: true
 
