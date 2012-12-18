@@ -34,6 +34,55 @@
 		{display:inline; font-weight: normal; max-width:50%;  padding:0 10px;}
 	.show
 		{font-style: italic;}
+	/* CORE SITE STYLES ---------------------------*/
+
+	body
+		{font-family: "minion-pro", Georgia, Times;}
+
+	.bodycopy p
+		{font-size: 18px; line-height: 1.6; margin-bottom: 18px; }
+
+	#page
+		{max-width:1000px; margin:0 auto; overflow:hidden;}
+
+	#sitelevel
+		{padding:8px 0; overflow:hidden;}
+	#sitelevel nav
+		{display: inline; margin-left: 10px; float:right;}
+	#sitelevel a
+		{margin-right:4px; padding:1px;}
+
+	h1, h2, h3, h4, h5
+		{font-weight:normal;}
+
+	a.splash
+		{display:block; text-decoration:none;}
+		
+	.splash
+		{height:500px; margin-bottom:27px;}
+	.splash .titles
+		{padding: 180px 0 0 0; display:block;}
+	.archive .splash .titles
+		{padding: 240px 0 0 0;}
+	.splash .titles div
+		{max-width:70%;}
+	.splash h1, .splash h2, .splash h3, .splash h4, .splash h5
+		{display:inline; font-weight: normal; max-width:50%;  padding:0 10px;}
+	.show
+		{font-style: italic;}
+	.season
+		{float: right; margin-top:20px; padding: 1px 4px;}
+
+	ul.menu
+		{list-style:none;}
+
+	footer
+		{margin:64px 0 27px 0;}
+	
+	article a, footer a
+		{text-decoration: underline}
+	article a:hover, footer a:hover
+		{text-decoration: none}
 
 	ul.menu
 		{list-style:none;}
