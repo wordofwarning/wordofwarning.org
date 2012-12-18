@@ -22,7 +22,7 @@
 				<div class="four columns">
 					<p>A greenroom legacy project</p>
 					<p>With thanks to Z-arts, Manchester Digital Development Agency and Helen Palmer.</p>
-					<p><img src="{{page.rootpath}}assets/images/logos.png" alt="Supported by Arts Council England / Lottery Funded by Arts Council England, and by Manchester City Council"></p>
+					<p><img src="{{page.rootpath}}assets/images/logos.png" alt="Supported using public funding by Arts Council England; and funded by Manchester City Council"></p>
 				</div>
 			</div>
 			<div class="row">
