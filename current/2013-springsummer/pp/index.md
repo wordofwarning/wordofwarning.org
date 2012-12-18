@@ -9,8 +9,8 @@ artist: "Plane Performance | Pigeon Theatre" # the name of the artist or company
 show: "Three Sisters | The Smell of Envy" # the name of the show
 
 # ABOUT THE SHOW - LAYOUT
-# artist_size: 3 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
-# show_size: 2 # optional - size of show name 2-5. Default is 2. Set longer names to lower values
+# artist_size: 5 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
+# show_size: 5 # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
