@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: event-example # the season or event-specific template in /_layouts
+layout: 2013-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
