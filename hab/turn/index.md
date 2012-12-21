@@ -15,6 +15,8 @@ artist: "Emergency" # the name of the artist or company
 
 ---
 
-Emergency is an annual platform for live art and contemporary performance featuring up to 40 short pieces of work in a day and a half. Normally taking place in **September/October**, the open call will happen mid summer, with details here.
+Turn is an annual platform for north west dancers and dancemakers taking place in 2013 on **19+20 April at Contact**.  
 
-In the meantime have a look at the [archive](http://www.wordofwarning.org/archive/2012-emergency/index.html) of last year's event or at the [event blog](http://emergencymcr.posterous.com)
+The call is now open - click here for details.
+
+In the meantime have a look at the [archive](http://www.wordofwarning.org/archive/2012-springsummer/turn/index.html) of last year's event or at the [event blog](http://turnmcr.posterous.com)
