@@ -20,6 +20,7 @@
 					</p>
 				</div>
 				<div class="four columns">
+					<h4> </h4>
 					<p>With thanks to Z-arts, Manchester Digital Development Agency and Helen Palmer.</p>
 					<p><img src="{{page.rootpath}}assets/images/logos.png" alt="Supported using public funding by Arts Council England; and funded by Manchester City Council"></p>
 				</div>
