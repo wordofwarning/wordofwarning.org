@@ -5,7 +5,8 @@
 					<nav>
 					    <a href="{{ page.rootpath }}current/2012-autumnwinter/index.html">A/W 2012 Collection</a>
 					    <a href="{{ page.rootpath }}archive/index.html">Archive</a>  
-					    <a href="{{ site.mailer_signup_url }}">Weekly update</a>
+					    <a href="{{ site.mailer_signup_url }}">Weekly Update</a>
+					    <a href="{{ page.rootpath }}hab/index.html">hÅb</a>
 					</nav>
 				</div>
 			</div>
