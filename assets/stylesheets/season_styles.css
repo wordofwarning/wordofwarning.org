@@ -143,6 +143,27 @@
 		
 	.e2012 .splash
 		{background:url(../images/header_emergency_photo.jpg) center center}
+
+/* hAb
+------------------------------------------------------*/
+
+	.hab,
+	.hab .artist, 
+	.hab .show,
+	.hab .season
+		{background:#000; color:#fff;}
+
+	.hab a,
+	.hab a:visited,
+	.hab a:hover
+		{color:#fff;}
+	.hab nav a:hover,
+	.hab article a:hover,
+	.hab footer a:hover
+		{background: #fff; color: #000;}
+
+	.hab .splash
+		{background:url(../images/header_emergency_photo.jpg) center center}
 		
 /* an example (not pretty) event styling - copy and paste to make new event styles
 ------------------------------------------------------*/
