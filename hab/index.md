@@ -13,9 +13,6 @@ Based in Manchester, hÅb is a producer, developer and advocate of contemporary 
 
 Essentially industry-facing, hÅb works with artists, colleagues and venues to create the best possible opportunities for new work to flourish.
 
-<<<<<<< HEAD
-Donec sed odio dui. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Nullam quis risus eget urna mollis ornare vel eu leo. Curabitur blandit tempus porttitor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-=======
 Since Jan 2012, however hÅb gone 'public' in the guise of Word of Warning, a peripatetic programme of and regular bulletin for contemporary live work in Manchester and beyond.   
 
 From emergency, an annual micro-festival for new work, now in its 14th year, which presents up to 40 short pieces in a day each September/October and its Merseyside sibling, ‘poolside emergency; through Works Ahead, a series of small commissions for new work, we aim to provide a joined-up series of opportunities for emerging work and artists in contemporary performance and live art.  We also co-produce the Turn micro-festival for north west dance and dance makers and the ensuing Turn Prize.    
@@ -25,4 +22,4 @@ hÅb also works as a curator of sited performance and intervention presenting, H
 In any given year, hÅb might work with 200 artists, present 3 platforms, 1 sited festival and show over 100 pieces of work.    
 
 hÅb is supported by public funding through Arts Council England and is funded by Manchester City Council.    
->>>>>>> re done text
+
