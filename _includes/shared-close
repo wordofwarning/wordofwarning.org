@@ -6,11 +6,11 @@
 					<h4 id="mailer">Weekly Update</h4>
 					<p><a href="{{ site.mailer_signup_url }}">Sign up</a> for your no-nonsense <a href="http://wordofwarning.posterous.com/">weekly e-mail</a><br>signpost to the bizarre, the beautiful and the best contemporary performance within range of Manchester.</p>
 					<h4>Calendar</h4>
-					<p>Word of Warning also maintains a <a href="https://www.google.com/calendar/embed?src=wordofwarningmcr%40gmail.com&amp;ctz=Europe/London">Google calendar</a> of events in the region.</p>
+					<p>Word of Warning also maintains a <a href="https://www.google.com/calendar/embed?src=wordofwarningmcr%40gmail.com&amp;ctz=Europe/London">Google calendar</a>.</p>
 				</div>
 				<div class="four columns">
 					<h4>Word of Warning</h4>
-					<p>Word of Warning is a <a href="http://www.habarts.org/">hÅb</a> production.</p>
+					<p>Word of Warning is a <a href="http://www.habarts.org/">hÅb</a> production.<br>A greenroom legacy project.</p>
 					<p>
 					Tamsin Drury,  h&Aring;b<br>
 					c/o Z-arts, 335 Stretford Road,<br>Manchester, M15 5ZA
@@ -20,14 +20,13 @@
 					</p>
 				</div>
 				<div class="four columns">
-					<p>A greenroom legacy project</p>
 					<p>With thanks to Z-arts, Manchester Digital Development Agency and Helen Palmer.</p>
 					<p><img src="{{page.rootpath}}assets/images/logos.png" alt="Supported using public funding by Arts Council England; and funded by Manchester City Council"></p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="twelve columns">
-					<small>Copyright &copy;2012 Word of Warning. All rights reserved.</small>
+					<small>Copyright &copy;2013 Word of Warning. All rights reserved.</small>
 				</div>
 			</div>
 		</footer>
