@@ -13,7 +13,7 @@ Based in Manchester, hÅb is a producer, developer and advocate of contemporary 
 
 Essentially industry-facing, hÅb works with artists, colleagues and venues to create the best possible opportunities for new work to flourish.    
 
-Since Jan 2012, however hÅb has gone 'public' in the guise of [Word of Warning]((http://www.wordofwarning.org)   , a peripatetic programme of and [regular bulletin](http://wordofwarning.us2.list-manage.com/subscribe?u=0d0b9e09079cc9204f77cb396&id=d72a36f1c2) for contemporary live work in Manchester and beyond.    
+Since Jan 2012, however hÅb has gone 'public' in the guise of [Word of Warning]((http://www.wordofwarning.org), a peripatetic programme of and [regular bulletin](http://wordofwarning.us2.list-manage.com/subscribe?u=0d0b9e09079cc9204f77cb396&id=d72a36f1c2) for contemporary live work in Manchester and beyond.    
 
 From **emergency**, an annual micro-festival for new work, now in its 14th year, which presents up to 40 short pieces in a day each September/October and its Merseyside sibling, **‘poolside emergency**; through **Works Ahead**, a series of small commissions for new work, we aim to provide a joined-up series of opportunities for emerging work and artists in contemporary performance and live art.  We also co-produce the **Turn** micro-festival for north west dance and dance makers and the ensuing **Turn Prize**.    
 
