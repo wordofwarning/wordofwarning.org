@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: 2013-springsummer
+layout: hab
 rootpath: "../../"
 is_index: true
 
