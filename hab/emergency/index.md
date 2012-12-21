@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: event-example # the season or event-specific template in /_layouts
+layout: hab # the season or event-specific template in /_layouts
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
