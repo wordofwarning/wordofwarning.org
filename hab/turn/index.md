@@ -19,4 +19,4 @@ Turn is an annual platform for north west dancers and dancemakers taking place i
 
 The call is now open - click [here](http://turnmcr.posterous.com/turn-2013-call-for-proposals) for details.
 
-In the meantime have a look at the [archive](archive/2012-springsummer/turn) of last year's event or at the [event blog](http://turnmcr.posterous.com)
+In the meantime have a look at the [archive](/archive/2012-springsummer/turn) of last year's event or at the [event blog](http://turnmcr.posterous.com)
