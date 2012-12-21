@@ -17,4 +17,4 @@ artist: "Emergency" # the name of the artist or company
 
 Emergency is an annual platform for live art and contemporary performance featuring up to 40 short pieces of work in a day and a half. Normally taking place in **September/October**, the open call will happen mid summer, with details here.
 
-In the meantime have a look at the [archive](http://www.wordofwarning.org/archive/2012-emergency/index.html) of last year's event.
+In the meantime have a look at the [archive](http://www.wordofwarning.org/archive/2012-emergency/index.html) of last year's event or at the [event blog](http://emergencymcr.posterous.com)
