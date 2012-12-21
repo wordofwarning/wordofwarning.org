@@ -5,7 +5,7 @@ layout: hab # the season or event-specific template in /_layouts
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Emergency" # the name of the artist or company
+artist: "Turn" # the name of the artist or company
 
 
 # ABOUT THE SHOW - LAYOUT
