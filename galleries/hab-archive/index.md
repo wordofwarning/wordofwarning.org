@@ -8,8 +8,8 @@ title: "Images 2006-2011"
 header: <img src="logo.png">
 stylesheet: gallery.css
 
-more_link: Emergency 2012
-more_url: "../../archive/2012-emergency/index.html"
+more_link: hÅb
+more_url: "../../hab/index.html"
 
 gallery:
     -   {file: "titlepage.jpg", show: "<small>Images copyright &copy;2013 hÅb</small>"}
