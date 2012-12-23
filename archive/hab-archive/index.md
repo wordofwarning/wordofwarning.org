@@ -4,7 +4,7 @@ layout: fullscreengallery
 assetpath: "../../../"
 galleryimagespath: ""
 
-title: "Word of Warning presents Emergency 2012"
+title: "hÅb image selection 2006-2011"
 header: <img src="logo.png">
 stylesheet: gallery.css
 
@@ -13,17 +13,11 @@ more_url: "../../archive/2012-emergency/index.html"
 
 gallery:
     -   {file: "titlepage.jpg", show: "<small>Images copyright &copy;2012 Word of Warning</small>"}
-    -   {file: "treadaway.jpg", artist: "Sam Treadaway", show: "Bound and Re-bound"}
-    -   {file: "sacchelli.jpg", artist: "Clarissa Sacchelli", show: "Untitled"}
-    -   {file: "solinas.jpg", artist: "Moreno Solinas", show: "URANUS"}
-    -   {file: "sht.jpg", artist: "Sh!t Theatre", show: "JSA (Job Seekers Anonymous)"}
-    -   {file: "massiveowl.jpg", artist: "Massive Owl", show: "The MOBB Project"}
-    -   {file: "townsend.jpg", artist: "Jojo Townsend", show: "The wow project: Task Three"}
-    -   {file: "kasahara.jpg", artist: "Miyuki Kasahara", show: "his/her personal sky"}
-    -   {file: "rowland.jpg", artist: "Kris Rowland", show: "Please don't touch"}
-    -   {file: "taylor.jpg", artist: "Katie Taylor", show: "Let me wash your face"}
-    -   {file: "graham.jpg", artist: "Kitty Graham", show: "The Bare Earth (pic: Bob France)"}
-    -   {file: "7030.jpg", artist: "70/30 Split", show: "Content: part 1"}
-    -   {file: "shaheen.jpg", artist: "Qasim Riza Shaheen"}
-    -   {file: "olamerino.jpg", artist: "Leo Olamerino", show: "I've been waiting for you"}
+    -   {file: "pavlos.jpg", artist: "Pavlos Kountouriotis", show: "Supermodern Dance"}
+    -   {file: "emergandrew", artist: "Andrew Adshead", show: "emergency"}
+    -   {file: "pe.jpg", artist: "unknown", show: "'poolside emergency"}
+    -   {file: "utwend", artist: "Michael Pinchbeck", show: "Up the Wall"}
+    -   {file: "utwpp.jpg", artist: "Proto-type Theater", show: "Up the Wall"}
+    -   {file: "utwtom.jpg", artist: "Tom Marshman", show: "Up the Wall"}
+
 ---
