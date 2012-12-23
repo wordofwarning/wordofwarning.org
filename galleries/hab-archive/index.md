@@ -29,5 +29,4 @@ gallery:
     -   {file: "Hazeggs.jpg", artist: "Eggs Collective", show: "Hazard"}
     -   {file: "Hazlark.jpg", artist: "Larkin' About + Hannah Nicklin", show: "Hazard"}
     -   {file: "pavlos.jpg", artist: "Pavlos Kountouriotis", show: "Supermodern Dance"}
-
    ---
