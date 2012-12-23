@@ -20,7 +20,11 @@ Turn is an annual platform for north west dancers and dancemakers taking place i
 The call is now open - click [here](http://turnmcr.posterous.com/turn-2013-call-for-proposals) for details.
 
 In the meantime have a look at the [archive](http://www.wordofwarning.org/archive/2012-springsummer/turn/index.html) of last year's event or at the [event blog](http://turnmcr.posterous.com)
-
-[Archive 1](wordofwarning/wordofwarning.github.com/tree/master/archive/2012-springsummer/turn)
-[Archive 2](wordofwarning.github.com/tree/master/archive/2012-springsummer/turn)
-[Archive 3](wordofwarning/tree/master/archive/2012-springsummer/turn)
+[Archive](/archive/2012-springsummer/turn)
+[Archive2](/archive/2012-springsummer/turn/index.html)
+[Archive 3](/tree/master/archive/2012-springsummer/turn)
+[Archive 4](/tree/master/archive/2012-springsummer/turn/index.html)
+[Archive 5](wordofwarning.github.com/tree/master/archive/2012-springsummer/turn)
+[Archive 6](wordofwarning.github.com/tree/master/archive/2012-springsummer/turn/index.html)
+[Archive 7](wordofwarning/wordofwarning.github.com/tree/master/archive/2012-springsummer/turn)
+[Archive 8](wordofwarning/wordofwarning.github.com/tree/master/archive/2012-springsummer/turn/index.html)
