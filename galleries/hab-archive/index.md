@@ -9,7 +9,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 gallery:
-    -   {file: "titlepage.jpg", show: ""}
+    -   {file: "titlepage.jpg", show: "<small>images by Roshana Rubin Mayhew, Tamsin Drury + Liverpool Biennial</small>"}
     -   {file: "LLkaz", artist: "Kazuko Hohki", show: "Liverpool Live"}
     -   {file: "LLmarcus.jpg", artist: "Marcus Young", show: "Liverpool Live"}
     -   {file: "emergandrew.jpg", artist: "Andrew Adshead", show: "emergency"}
