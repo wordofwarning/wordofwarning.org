@@ -5,10 +5,10 @@ assetpath: "../../../"
 galleryimagespath: ""
 
 title: "Images 2006-2011"
-header: <img src="logo.png">
+header: ""
 stylesheet: gallery.css
 
-more_link: <img src="logo.png">]
+more_link: <img src="logo.png">
 more_url: "../../hab/index.html"
 
 gallery:
