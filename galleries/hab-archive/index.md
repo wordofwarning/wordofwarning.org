@@ -8,7 +8,7 @@ title: "Images 2006-2011"
 header: <img src="logo.png">
 stylesheet: gallery.css
 
-more_link: hÅb
+more_link: <img src="logo.png">]
 more_url: "../../hab/index.html"
 
 gallery:
