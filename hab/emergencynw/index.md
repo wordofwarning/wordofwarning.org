@@ -20,8 +20,6 @@ hÅb maintains the [EmergencyNW e-group](http://groups.yahoo.com/group/emergency
 We forward information and opportunities to this group, both our own projects and information we think may be useful; and members can post messages, call outs etc.  We also organise workshare opportunities through the group.
 
 If you would like to join the group please email <mailto:emergencynw-subscribe@yahoogroups.com>.
-(mailto:emergencynw-subscribe <at> yahoogroups.com)
-[email](mailto:emergencynw-subscribe@yahoogroups.com)
 
 All membership requests need to be approved so we can keep the group friendly and relevant, so please tell us a little bit about yourself in your email.    
 
