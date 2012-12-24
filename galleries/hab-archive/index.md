@@ -5,7 +5,7 @@ assetpath: "../../../"
 galleryimagespath: ""
 
 title: "Images 2006-2011"
-header: "<img src="logo.png">"
+header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: 
