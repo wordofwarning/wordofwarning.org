@@ -15,7 +15,7 @@ artist: "Turn" # the name of the artist or company
 
 ---
 
-Turn is an annual platform for north west dancers and dancemakers taking place in 2013 on **19+20 April at Contact**.  
+**Turn** is an annual platform for north west dancers and dancemakers taking place in 2013 on **19+20 April at Contact**.  
 
 The call is now open - click [here](http://turnmcr.posterous.com/turn-2013-call-for-proposals) for details.
 
