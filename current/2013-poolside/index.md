@@ -19,7 +19,7 @@ show: "Mayhem on Merseyside" # the name of the show
 ##COMING SOON    
 Mayhem on Merseyside - a day-long splash of live art and performance at the Bluecoat.
 
-From 8 January 2013, to submit a proposal for inclusion click [here](http://pooslide.posterous.com)    
+From 8 January 2013, to submit a proposal for inclusion click [here](http://poolside.posterous.com)    
 Deadline 15 February 2013.    
 
 ####Venue & Booking Details
