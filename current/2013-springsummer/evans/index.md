@@ -15,6 +15,8 @@ show: "The Secret Life of You and Me" # the name of the show
 
 ---
 
+Word of Warning and The Lowry presents:
+
 #### In Brief
 *A live scrap book. An unfinished love affair. A made up true story.*    
 
@@ -22,7 +24,10 @@ Lowri is in trouble. She leads a double life. By day she ponders the passing of 
   
 But the telescope has turned on this meddling voyeur. You are invited to witness her attempt to piece together a sparkling constellation from stuff, love and darkness; to understand what we are, how we fit together and what we leave behind.
 
-This is Lowri's first feature length solo show and will see her visual art and theatre practice blur together on the night of her thirtieth birthday.    
+This is Lowri's first feature length solo show and will see her visual art and theatre practice blur together on the night of her thirtieth birthday.
+    
+####More
+Lowri's website is beautiful - we couldn't sum it up any better than her pictures do - so have a look [here](http://www.thelowri.com/the-secret-life-of-you-and-me-2/).    
 
 ####Who is she?
 Lowri is a Manchester based live artist whose work draws upon a background in visual art, experience in performance and commitment to social engagement. Over the last few years she has worked with National Theatre of Scotland, Tate Liverpool, Cornerhouse, Contact Theatre, Hatch, Islington Mill, hÅb, The Lowry, Quarantine, Eggs Collective, David Hoyle, Small Things, Weeding Cane, Salford University and Grupo XIX de Teatro.  She is also in girl band Hotpants Romance, who have released two albums and toured the world.    
