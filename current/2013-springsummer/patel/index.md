@@ -19,7 +19,7 @@ header_image: "header_hetain_photo.jpg"
 Contact + Word of Warning present:
 
 #### In Brief
-*"Have you ever wanted to be somebody else? I always wanted to be **Bruce Lee**.  And sometimes **my dad**.  What determines who we are anyway?"*    
+*"Have you ever wanted to be somebody else? I always wanted to be Bruce Lee.  And sometimes my dad.  What determines who we are anyway?"*    
 
 Straight from the Royal Opera House, with dramaturgy by Michael Pinchbeck and Eva Martinez, award-winning Hetain Patel delivers a visually arresting and witty consideration of culture and identity.    
    
