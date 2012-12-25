@@ -9,6 +9,7 @@ artist: "Michael Pinchbeck | CTP, University of Salford" # the name of the artis
 show: "The Beginning | Debut" # the name of the show
 artist_size: 3
 show_size: 3
+header_image: "header_beginning_photo.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,41 +18,52 @@ show_size: 3
 
 ---
 
-#### In Brief
-Sit back and relax to the dulcet tones of Richard DeDomenici's songs that aren’t real, facts that are funny, and jokes that don’t rhyme, in his new show *Popaganda*.    
-A jetlagged litterpicker of the world's cultural landfill, watch DeDomenici throw western civilisation at the wall, caution to the wind, and see what sticks.    
-Like a can of tomato soup *Popaganda* is condensed, easily digestible, and likely to stain.    
-
-See video [here](http://www.youtube.com/watch?v=T3bCKVk2Ui0) and [here.](http://www.youtube.com/watch?v=K3ONqPgGbCk)    
-
-![Popaganda](Popaganda.jpg)     
-
-####Who is he?
-Artist, Filmmaker, Raconteur and Manufacturer of Dangerous Toys since 1798.    
-![Popaganda](rd2.jpg)
-
-####What people have said about him
->The thinking man's Ashton Kutcher<br>*Matt Trueman, The Guardian*    
->Beautiful acts of absurdity highlighting more serious issues.  Frighteningly effective.<br>*The Guardian*       
->Clever, tremendously funny, powerfully political and unafraid to be accessible.  Think of comic activist Mark Thomas crossed with TV satirist Chris Morris, and you have something approximating DeDomenici.<br>*The Sunday Herald*    
->This is the Future<br>*Time Out*    
->Describing DeDomenici's set doesn't do him justice. I found him to be a clever instigator of mischief, which he chronicles on video and presents to the audience. It's stand-up, but with a much more 'performance' angle than most. Some bits work better than others, like his lyrics to the theme tune of TV's Cagney and Lacey and his hilarious treatment of the UK tour of the Olympic flame. I found his act very funny, and I would most certainly go out of my way to see him perform again. 4stars <br>*www.acrossthearts.co.uk*
-![Popaganda](rd6.jpg)
-
-
-####Credits       
-Presented by house.  Supported using public funding by Arts Council England.
-
-![Popaganda](rd5.jpg)    
-
-####Websites
-[www.dedomenici.com](http://www.dedomenici.com)    
-[www.housetheatre.org.uk](http://www.housetheatre.org.uk)
-
+#### In Brief    
+A pair of beginnings that ask why we take to the stage and what we do when we get there.    
 
 ####Venue & Booking Details
-Date: Friday 2 November, 7.30pm (double bill with Ollie Smith)   
-[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
-[Tickets: £8/5](http://www.z-arts.org/events/word-of-warning-02-nov/)    
-Box Office Tel: 0161 232 6089
+Date: Friday 15th March 2013, 8pm    
+[Venue: The Lowry](http://www.thelowry.com/plan-your-visit/getting-here/), Pier 8, Salford Quays, M50 3AZ    
+[Tickets: £9/7](http://www.thelowry.com/event/the-beginning-debut)    
+Box Office Tel: 0843 208 6000    
+
+####MICHAEL PINCHBECK - THE BEGINNING    
+####More
+*They are professionals.    
+They have learned their lines.     
+They are waiting to make their entrance.    
+They are ready to begin.*    
+ 
+Taking place somewhere between a rehearsal and a performance, dreaming and being awake, *The Beginning* asks how we might begin a career, a relationship, a life or a show. *A Midsummer Night’s Dream* meets the mesmerising music of Serge Gainsbourg in this tender love letter to theatre that addresses the unwritten contract between performers and an audience.    
+
+Part theatrical memoir, part safety announcement, *The Beginning* is the second in a trilogy of work inspired by Shakespearean stage directions by the award-winning writer and performance maker Michael Pinchbeck. Because he has promised never to perform again, Michael has invited Nicki Hobday and Ollie Smith to help him to remember how it feels to perform for the first time.
+
+Watch video [here](https://vimeo.com/4353102)   
+    
+####Who is he?    
+Michael Pinchbeck is a writer, live artist and performance maker. He co-founded Metro-Boulot-Dodo in 1997 after studying Theatre and Creative Writing at Lancaster University. He left the company in 2004 to embark on a five-year live art project – *The Long and Winding Road*, performed at the ICA (London), Ikon Gallery (Birmingham) and the Bluecoat (Liverpool). Michael was commissioned by Nottingham Playhouse to write *The White Album* (2006) and *The Ashes* (2011) and was awarded a bursary by Theatre Writing Partnership to research a new play - *Bolero*.    
+
+He is currently working on a trilogy of devised performances inspired by Shakespearean stage directions: *The Beginning*, *The Middle* and *The End*. In 2008, Michael was selected by Arts Council England to represent the UK at the Biennale for Young Artists in Italy. In 2012, he will be an ambassador for the World Event of Young Artists in Nottingham. His work has been selected twice for the British Council’s Edinburgh Showcase. He has a Masters in Performance and Live Art from Nottingham Trent University and is currently undertaking a PhD at Loughborough University exploring the role of the dramaturg in contemporary performance. Michael is a co-director of Hatch, a platform for performance in the East Midlands.    
+
+####What people have said about him    
+>*The Beginning asks us to reassess how we watch a play* <br>The Stage    
+>*Pinchbeck is such an interesting theatre-maker*<br>The Guardian    
+>*An individual practice that is powerful and compelling*<br>ArtArtArt magazine    
+
+####Credits
+Developed at Lakeside Arts Centre (Nottingham), Leeds Met Studio Theatre, Loughborough University and The Junction (Cambridge), The Beginning was Supported using public funding by the National Lottery through Arts Council England and commissioned by World Event Young Artists 2012 (Nottingham).    
+    
+####Websites     [www.michaelpinchbeck.co.uk](http://www.michaelpinchbeck.co.uk)    
+[www.makingthebeginning.tumblr.com](http://www.makingthebeginning.tumblr.com)   
+
+![The Debutants](header_debut_photo.jpg)     
+
+####MICHAEL PINCHBECK + THE DEBUTANTS - DEBUT    
+#### More    
+Contemporary Theatre Practice students from the University of Salford have worked with live artist and writer, Michael Pinchbeck, to device a piece that reflects on their own experiences of walking onstage for the first time. They may have been nervous. They may have forgotten their lines. They may have missed their entrance. These stories are a starting point for a show that looks at beginnings through the lens of what it means to perform. Debut asks what we do when we walk onstage and why we walk onstage in the first place.    
+   
+####Website:
+[Contemporary Theatre Practice](http://www.salford.ac.uk/courses/performance-contemporary-practices?mode=ov )    
+
+    
 
