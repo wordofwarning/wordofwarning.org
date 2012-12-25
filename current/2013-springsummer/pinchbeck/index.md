@@ -48,6 +48,8 @@ Michael Pinchbeck is a writer, live artist and performance maker. He co-founded 
 
 He is currently working on a trilogy of devised performances inspired by Shakespearean stage directions: *The Beginning*, *The Middle* and *The End*. In 2008, Michael was selected by Arts Council England to represent the UK at the Biennale for Young Artists in Italy. In 2012, he will be an ambassador for the World Event of Young Artists in Nottingham. His work has been selected twice for the British Council’s Edinburgh Showcase. He has a Masters in Performance and Live Art from Nottingham Trent University and is currently undertaking a PhD at Loughborough University exploring the role of the dramaturg in contemporary performance. Michael is a co-director of Hatch, a platform for performance in the East Midlands.    
 
+![The Beginning](TheBeginningsunset.jpg)    
+
 ####What people have said about him    
 >*The Beginning asks us to reassess how we watch a play* <br>The Stage    
 >*Pinchbeck is such an interesting theatre-maker*<br>The Guardian    
