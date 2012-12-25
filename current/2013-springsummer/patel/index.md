@@ -62,6 +62,8 @@ It started as a solo piece, but through a chance experiment with dancer Shelley 
     
 >*Intelligent, thoughtful, humourous and hypnotic*<br>Ian Palmer, The Dancing Times (TEN, 2011)    
 
+![BLW](BLW-amsterdam2-project)
+
 ####Credits       
 Co-commissioned by Royal Opera House (ROH2), London, Dance4 and New Art Exchange, Nottingham. Development.
 Supported by public funding by the National Lottery through Arts Council England and by Broadway Media Centre, Lakeside Arts Centre and Hatch, Nottingham, and South East Dance, Brighton. Hetain Patel is a Sadler’s Wells New Wave Associate Artist.    
@@ -70,3 +72,4 @@ Supported by public funding by the National Lottery through Arts Council England
 [www.hetainpatel.com](http://www.hetainpatel.com)     
 [@HetainPatel1](http://twitter.com/hetainpatel1)    
 
+![BLW](BLW-amsterdam4-project)    
