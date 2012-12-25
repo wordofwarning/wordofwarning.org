@@ -7,6 +7,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Hetain Patel" # the name of the artist or company
 show: "Be Like Water" # the name of the show
+header_image: "header_hetain_photo.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -28,7 +29,7 @@ Video, live music and plenty of Northern factory talk courtesy of Hetain’s dad
     
 ####Venue & Booking Details
 Date: Thursday 14 + Friday 15 February, 7.30pm    
-[Venue: Contact](http://contactmcr.com/visit/getting-here/), Contact, Oxford Road, Manchester, M15 6JA    
+[Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
 [Tickets: £8/5](http://contactmcr.com/whats-on/2013/02/14/)    
 Box Office Tel: 0161 274 0600   
 
@@ -51,6 +52,8 @@ It started as a solo piece, but through a chance experiment with dancer Shelley 
 *Initially framing myself as the sole protagonist in what are often performative works, my practice is now increasingly populated by characters, both fictional and real, in relation to which I juxtapose myself in moments of elision and dissonance.*    
 
 *My work is not consciously political. Any explorations of identity are not statements but rather a result of ideas allowed to develop from their residence in my body. I almost wish to deny the burden of representation in order to engage with subtler layers of placing oneself in the world, often using humour as a way into this. Most recently this has taken form through the lens of imitation: an activity I find myself drawn to because of the requirement to listen acutely to someone or something outside of myself. This listening, in every sense of the word, feels like the key to a connection or exchange with someone else. I imitate my father, or somebody I’ve met, or equally DVD footage of Bruce Lee.*    
+    
+![Be Like Water](hetain.jpg)    
 
 ####What people have said about him
 >*It is Patel’s skilled precision in realising an almost seamless harmony of his culturally and historically divergent source material that gives his installations a distinctive resonance*<br>The Guardian     
