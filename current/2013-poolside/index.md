@@ -24,7 +24,7 @@ Deadline 15 February 2013.
 
 ####Venue & Booking Details
 Date:  Saturday 13 April, 12 - 5pm    
-[Venue: the Bluecoat](http://www.thebluecoat.org.uk/content/index/visitor-info) the Bluecoat, School Lane, Liverpool L1 3BX    
+[Venue: the Bluecoat](http://www.thebluecoat.org.uk/content/index/visitor-info), School Lane, Liverpool L1 3BX    
 Tickets: FREE    
 Box Office Tel: 0151 702 532    
     
