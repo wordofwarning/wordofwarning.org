@@ -26,6 +26,12 @@ Lowri is in trouble. She leads a double life. By day she ponders the passing of 
 But the telescope has turned on this meddling voyeur. You are invited to witness her attempt to piece together a sparkling constellation from stuff, love and darkness; to understand what we are, how we fit together and what we leave behind.
 
 This is Lowri's first feature length solo show and will see her visual art and theatre practice blur together on the night of her thirtieth birthday.
+
+####Venue & Booking Details
+Date: Thursday 31st January + Friday 1st February 2013, 8pm    
+[Venue: The Lowry](http://www.thelowry.com/plan-your-visit/getting-here/), Pier 8, Salford Quays, M50 3AZ    
+[Tickets: £10/8](http://www.thelowry.com/event/the-secret-life-of-you-and-me)    
+Box Office Tel: 0843 208 6000    
     
 ####More
 Lowri's website is beautiful - we couldn't sum it up any better than her pictures do - so have a look [here](http://www.thelowri.com/the-secret-life-of-you-and-me-2/).    
@@ -40,8 +46,8 @@ Lowri is a Manchester based live artist whose work draws upon a background in vi
 *"I am interested in human experience, the mundane and the miraculous. I try to strip information away to the barest truth, to the startling and underwhelming inside of things, often starting with the autobiographical. I am fascinated by the blurring of art and real life, and play as much as I can with that, subsequently my life appears in my work and I also take my work out to non-art spaces and connect with people from all walks of life."*   
 
 ####What people have said about her
->Lowri is one of the most interesting emerging artists and performance makers in the North West<br>*Richard Gregory, Quarantine*     
->Compelling<br>*David Hoyle*
+>*Lowri is one of the most interesting emerging artists and performance makers in the North West*<br>Richard Gregory, Quarantine   
+>*Compelling*<br>David Hoyle
 
 ####Credits       
 Supported by hÅb and The Lowry.    
@@ -51,13 +57,7 @@ Photography: Layla Sailor
 ####Websites
 [www.thelowri.com](http://www.thelowri.com)    
 [@lowrievans](www.twitter.com/lowrievans)
-
-
-####Venue & Booking Details
-Date: Thursday 31st January + Friday 1st February 2013, 8pm    
-[Venue: The Lowry](http://www.thelowry.com/plan-your-visit/getting-here/), Pier 8, Salford Quays, M50 3AZ    
-[Tickets: £10/8](http://www.thelowry.com/event/the-secret-life-of-you-and-me)    
-Box Office Tel: 0843 208 6000     
+     
 ![The Secret Life of You and Me](lowri_brochure.jpg)    
 
  
