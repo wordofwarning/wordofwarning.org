@@ -24,6 +24,7 @@ A two night micro-festival of emerging north west danceworks:  explosive, intima
 plus - a Mixed Movement Turn Special with Sound Moves at 10pm.    
 
 To submit a proposal for inclusion click [here](http://turnmcr.org)    
+Deadline 18 January 2013.    
 
 ####Venue & Booking Details
 Date: Friday 19 + Saturday 20 April, 7.30pm    
