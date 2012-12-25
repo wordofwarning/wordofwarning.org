@@ -16,40 +16,37 @@ show: "The Secret Life of You and Me" # the name of the show
 ---
 
 #### In Brief
-Sit back and relax to the dulcet tones of Richard DeDomenici's songs that aren’t real, facts that are funny, and jokes that don’t rhyme, in his new show *Popaganda*.    
-A jetlagged litterpicker of the world's cultural landfill, watch DeDomenici throw western civilisation at the wall, caution to the wind, and see what sticks.    
-Like a can of tomato soup *Popaganda* is condensed, easily digestible, and likely to stain.    
+*A live scrap book. An unfinished love affair. A made up true story.*    
 
-See video [here](http://www.youtube.com/watch?v=T3bCKVk2Ui0) and [here.](http://www.youtube.com/watch?v=K3ONqPgGbCk)    
+Lowri is in trouble. She leads a double life. By day she ponders the passing of time, sifting through the fractured memories of people left with snippets of who they were. By night she makes art in strange places: fleeting, filmic moments with unsuspecting mortals. All to draw meaning from our jumble-sale lives.    
+  
+But the telescope has turned on this meddling voyeur. You are invited to witness her attempt to piece together a sparkling constellation from stuff, love and darkness; to understand what we are, how we fit together and what we leave behind.
 
-![Popaganda](Popaganda.jpg)     
+This is Lowri's first feature length solo show and will see her visual art and theatre practice blur together on the night of her thirtieth birthday.    
 
-####Who is he?
-Artist, Filmmaker, Raconteur and Manufacturer of Dangerous Toys since 1798.    
-![Popaganda](rd2.jpg)
+####Who is she?
+Lowri is a Manchester based live artist whose work draws upon a background in visual art, experience in performance and commitment to social engagement. Over the last few years she has worked with National Theatre of Scotland, Tate Liverpool, Cornerhouse, Contact Theatre, Hatch, Islington Mill, hÅb, The Lowry, Quarantine, Eggs Collective, David Hoyle, Small Things, Weeding Cane, Salford University and Grupo XIX de Teatro.  She is also in girl band Hotpants Romance, who have released two albums and toured the world.    
+   
+*"I am interested in human experience, the mundane and the miraculous. I try to strip information away to the barest truth, to the startling and underwhelming inside of things, often starting with the autobiographical. I am fascinated by the blurring of art and real life, and play as much as I can with that, subsequently my life appears in my work and I also take my work out to non-art spaces and connect with people from all walks of life."*   
 
-####What people have said about him
->The thinking man's Ashton Kutcher<br>*Matt Trueman, The Guardian*    
->Beautiful acts of absurdity highlighting more serious issues.  Frighteningly effective.<br>*The Guardian*       
->Clever, tremendously funny, powerfully political and unafraid to be accessible.  Think of comic activist Mark Thomas crossed with TV satirist Chris Morris, and you have something approximating DeDomenici.<br>*The Sunday Herald*    
->This is the Future<br>*Time Out*    
->Describing DeDomenici's set doesn't do him justice. I found him to be a clever instigator of mischief, which he chronicles on video and presents to the audience. It's stand-up, but with a much more 'performance' angle than most. Some bits work better than others, like his lyrics to the theme tune of TV's Cagney and Lacey and his hilarious treatment of the UK tour of the Olympic flame. I found his act very funny, and I would most certainly go out of my way to see him perform again. 4stars <br>*www.acrossthearts.co.uk*
-![Popaganda](rd6.jpg)
-
+####What people have said about her
+>Lowri is one of the most interesting emerging artists and performance makers in the North West<br>*Richard Gregory, Quarantine*     
+>Compelling<br>*David Hoyle*
 
 ####Credits       
-Presented by house.  Supported using public funding by Arts Council England.
-
-![Popaganda](rd5.jpg)    
+Supported by hÅb and The Lowry.    
+Developed with support from Works Ahead, Contact, University of Salford and public funding by the National Lottery through Arts Council England.    
+Photography: Layla Sailor   
 
 ####Websites
-[www.dedomenici.com](http://www.dedomenici.com)    
-[www.housetheatre.org.uk](http://www.housetheatre.org.uk)
+[www.thelowri.com](http://www.thelowri.com)    
+[@lowrievans](www.twitter.com/lowrievans)
 
 
 ####Venue & Booking Details
-Date: Friday 2 November, 7.30pm (double bill with Ollie Smith)   
-[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
-[Tickets: £8/5](http://www.z-arts.org/events/word-of-warning-02-nov/)    
-Box Office Tel: 0161 232 6089
+Date: Thursday 31st January + Friday 1st February 2013, 8pm    
+[Venue: The Lowry](http://www.thelowry.com/plan-your-visit/getting-here/), Pier 8, Salford Quays, M50 3AZ    
+[Tickets: £10/8](http://www.thelowry.com/event/the-secret-life-of-you-and-me)    
+Box Office Tel: 0843 208 6000 
 
+ 
