@@ -9,6 +9,7 @@ artist: "Plane Performance | Pigeon Theatre" # the name of the artist or company
 show: "Three Sisters | The Smell of Envy" # the name of the show
 artist_size: 3
 show_size: 3
+header_image: "header_pigeon_photo.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -52,7 +53,7 @@ Recent press for work by Neil Mackenzie:
 ####Websites
 [www.planeperformance.co.uk](http://www.planeperformance.co.uk)    
 
-![Smell me](header_smellme_photo.jpg)
+![Smell me](header_smell-me_photo.jpg)
 
 ####PIGEON THEATRE
 ####More
