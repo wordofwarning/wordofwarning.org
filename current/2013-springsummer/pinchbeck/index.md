@@ -18,7 +18,10 @@ header_image: "header_beginning_photo.jpg"
 
 ---
 
+The Lowry, University of Salford and Word of Warning present:
+
 #### In Brief    
+A double bill by Michael Pinchbeck.   
 A pair of beginnings that ask why we take to the stage and what we do when we get there.    
 
 ####Venue & Booking Details
