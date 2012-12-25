@@ -44,6 +44,8 @@ But after *TEN*, Hetain knew he didn’t want to speak on stage in his own voice
 
 It started as a solo piece, but through a chance experiment with dancer Shelley Maxwell, things changed and Hetain became interested in asking a female performer to be his translator, avatar, or somewhere in between.    
   
+![BLW](amsterdam2.jpg)    
+
 ####Who is he?   
 *I am a UK-based artist. My work is about being.*
 
@@ -52,9 +54,7 @@ It started as a solo piece, but through a chance experiment with dancer Shelley 
 *Initially framing myself as the sole protagonist in what are often performative works, my practice is now increasingly populated by characters, both fictional and real, in relation to which I juxtapose myself in moments of elision and dissonance.*    
 
 *My work is not consciously political. Any explorations of identity are not statements but rather a result of ideas allowed to develop from their residence in my body. I almost wish to deny the burden of representation in order to engage with subtler layers of placing oneself in the world, often using humour as a way into this. Most recently this has taken form through the lens of imitation: an activity I find myself drawn to because of the requirement to listen acutely to someone or something outside of myself. This listening, in every sense of the word, feels like the key to a connection or exchange with someone else. I imitate my father, or somebody I’ve met, or equally DVD footage of Bruce Lee.*    
-    
-![Be Like Water](hetain.jpg)    
-
+      
 ####What people have said about him
 >*It is Patel’s skilled precision in realising an almost seamless harmony of his culturally and historically divergent source material that gives his installations a distinctive resonance*<br>The Guardian     
     
@@ -62,7 +62,7 @@ It started as a solo piece, but through a chance experiment with dancer Shelley 
     
 >*Intelligent, thoughtful, humourous and hypnotic*<br>Ian Palmer, The Dancing Times (TEN, 2011)    
 
-![BLW](amsterdam2.jpg)
+![Be Like Water](hetain.jpg)  
 
 ####Credits       
 Co-commissioned by Royal Opera House (ROH2), London, Dance4 and New Art Exchange, Nottingham. Development.
