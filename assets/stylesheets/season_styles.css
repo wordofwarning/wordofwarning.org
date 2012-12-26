@@ -169,9 +169,9 @@
 ------------------------------------------------------*/
 
 	blockquote
-		{border-left-color:#fff;}
+		{border-left-color:#c99;}
 	blockquote, blockquote p
-		{color: #fff;}
+		{color: #c99;}
 		
 	.woah,
 	.woah .artist, 
