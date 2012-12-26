@@ -165,6 +165,27 @@
 	.hab .splash
 		{background:url(../images/header_hab_photo.jpg) center center}
 		
+/* hAb
+------------------------------------------------------*/
+
+	.woah,
+	.woah .artist, 
+	.woah .show,
+	.woah .season
+		{background:#000; color:#fff;}
+
+	.woah a,
+	.woah a:visited,
+	.woah a:hover
+		{color:#fff;}
+	.woah nav a:hover,
+	.woah article a:hover,
+	.woah footer a:hover
+		{background: #fff; color: #000;}
+
+	.woah .splash
+		{background:url(../images/header_woah_photo.jpg) center center}
+		
 /* an example (not pretty) event styling - copy and paste to make new event styles
 ------------------------------------------------------*/
 /*
