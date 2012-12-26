@@ -151,7 +151,7 @@
 	.hab .artist, 
 	.hab .show,
 	.hab .season
-		{background:#300; color:#fff;}
+		{background:#000; color:#fff;}
 
 	.hab a,
 	.hab a:visited,
@@ -160,7 +160,7 @@
 	.hab nav a:hover,
 	.hab article a:hover,
 	.hab footer a:hover
-		{background: #fff; color: #300;}
+		{background: #fff; color: #000;}
 
 	.hab .splash
 		{background:url(../images/header_hab_photo.jpg) center center}
