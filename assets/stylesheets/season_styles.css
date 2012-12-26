@@ -10,9 +10,9 @@
 		{background:#fff; color:#111;}
 
 	blockquote
-		{border-left-color:#444;}
+		{border-left-color:#ccc;}
 	blockquote, blockquote p
-		{color: #444;}
+		{color: #ccc;}
 
 	a,
 	a:visited,
@@ -167,11 +167,6 @@
 		
 /* Works Ahead
 ------------------------------------------------------*/
-
-	blockquote
-		{border-left-color:#c99;}
-	blockquote, blockquote p
-		{color: #c99;}
 		
 	.woah,
 	.woah .artist, 
