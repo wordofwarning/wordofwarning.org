@@ -19,7 +19,7 @@ artist: "Turn" # the name of the artist or company
 
 The call is now open - click [here](http://turnmcr.posterous.com/turn-2013-call-for-proposals) for details.
 
-In the meantime have a look at the [Archive](/archive/2012-springsummer/turn) of last year's event or at the [event blog](http://turnmcr.posterous.com).    
+In the meantime have a look at the [gallery](/galleries/2012-turn/index.html)  and [archive](/archive/2012-springsummer/turn) and of last year's event or at the [event blog](http://turnmcr.posterous.com).    
 
 
 

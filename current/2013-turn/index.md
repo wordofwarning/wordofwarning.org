@@ -26,6 +26,8 @@ plus - a Mixed Movement Turn Special with Sound Moves at 10pm.
 To submit a proposal for inclusion click [here](http://turnmcr.org)    
 Deadline 18 January 2013.    
 
+In the meantime have a look at the [gallery](/galleries/2012-turn/index.html) of last year's event.    
+
 ####Venue & Booking Details
 Date: Friday 19 + Saturday 20 April, 7.30pm    
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
