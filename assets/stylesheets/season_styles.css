@@ -168,6 +168,11 @@
 /* Works Ahead
 ------------------------------------------------------*/
 
+	blockquote
+		{border-left-color:#FFF;}
+	blockquote, blockquote p
+		{color: #FFF;}
+		
 	.woah,
 	.woah .artist, 
 	.woah .show,
