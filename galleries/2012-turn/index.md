@@ -21,8 +21,9 @@ gallery:
     -   {file: "lau.jpg", artist: "Joseph Lau", show: "Solo"}
     -   {file: "ojapah.jpg", artist: "Sarah Ojapah", show: "And Behold..."}
     -   {file: "dangerologists.jpg", artist: "The Dangerologists", show: "Works Songs"}
-    -   {file: "leentje.jpg", artist: "Leentje van de Crusy + Tine Feys", show: "Going to the Chapel"}
+    -   {file: "leentje.jpg", artist: "Leentje van de Cruys + Tine Feys", show: "Going to the Chapel"}
     -   {file: "buckley.jpg", artist: "Hannah Buckley + Dwayne Antony Simms", show: "A Conversation"}
+    -   {file: "turner2.jpg", artist: "Ellen Turner", show: "Car-door Moment"}
     -   {file: "rimmer.jpg", artist: "Rimmer,Osborne-Kendall + Piekarczyk", show: "Chase/Conversation (dance films)"}
     -   {file: "jackson.jpg", artist: "Kate Jackson Projects", show: "Solo"}
     -   {file: "voltaire.jpg", artist: "Le Petit Mort", show: "Cabaret Voltaire"}
