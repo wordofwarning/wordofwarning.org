@@ -25,5 +25,5 @@ gallery:
     -   {file: "acn2.jpg", artist: "Angel Club (north)", show: "Minute"}
     -   {file: "julieann2.jpg", artist: "Julieann O'Malley", show: "Posthuman"}
     -   {file: "julieann3.jpg", artist: "Julieann O'Malley", show: "Posthuman"}
-    -   {file: "julieannfeet.jpg", artist: "Julieann O'Malley", show: "Posthuman""}
+    -   {file: "julieannfeet.jpg", artist: "Julieann O'Malley", show: "Posthuman"}
 ---
