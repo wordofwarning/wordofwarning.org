@@ -6,9 +6,11 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Turn"
-show: "Dance Microfestival"
+show: "Micro-festival of dance"
 
 ---
+
+**Click [here](/galleries/2012-turn/index.html) for a gallery of images from the event.  
 
 ####In Brief
 
