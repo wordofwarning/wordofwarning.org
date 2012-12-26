@@ -27,6 +27,7 @@ gallery:
     -   {file: "rimmer.jpg", artist: "Rimmer,Osborne-Kendall + Piekarczyk", show: "Chase/Conversation (dance films)"}
     -   {file: "jackson.jpg", artist: "Kate Jackson Projects", show: "Solo"}
     -   {file: "voltaire.jpg", artist: "Le Petit Mort", show: "Cabaret Voltaire"}
+    -   {file: "dtellipsis.jpg", artist: "dt.ellipsis", show: "It Started with a Riff"}
     -   {file: "leeds.jpg", artist: "Joshua Hubbard", show: "Juan Loco"}
     -   {file: "mm.jpg", artist: "Mixed Movement"}
 ---
