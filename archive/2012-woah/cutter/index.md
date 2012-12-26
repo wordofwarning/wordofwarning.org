@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: 2012-springsummer
+layout: woah
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
