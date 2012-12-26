@@ -17,40 +17,15 @@ header_image: "header_haphazard_photo.jpg"
 ---
 
 #### In Brief
-Sit back and relax to the dulcet tones of Richard DeDomenici's songs that aren’t real, facts that are funny, and jokes that don’t rhyme, in his new show *Popaganda*.    
-A jetlagged litterpicker of the world's cultural landfill, watch DeDomenici throw western civilisation at the wall, caution to the wind, and see what sticks.    
-Like a can of tomato soup *Popaganda* is condensed, easily digestible, and likely to stain.    
+A day out for the curious of all ages.    
 
-See video [here](http://www.youtube.com/watch?v=T3bCKVk2Ui0) and [here.](http://www.youtube.com/watch?v=K3ONqPgGbCk)    
+Intriguing images and offbeat oddities dotted around this historic building - take a wander and see what you stumble upon... living geometric shapes making moon music, a bonkers bucket dance, marathon hula-hooping and bouncy, squeaky, ping-pong performers… playful, quirky, engaging and sometimes plain daft.   
 
-![Popaganda](Popaganda.jpg)     
-
-####Who is he?
-Artist, Filmmaker, Raconteur and Manufacturer of Dangerous Toys since 1798.    
-![Popaganda](rd2.jpg)
-
-####What people have said about him
->The thinking man's Ashton Kutcher<br>*Matt Trueman, The Guardian*    
->Beautiful acts of absurdity highlighting more serious issues.  Frighteningly effective.<br>*The Guardian*       
->Clever, tremendously funny, powerfully political and unafraid to be accessible.  Think of comic activist Mark Thomas crossed with TV satirist Chris Morris, and you have something approximating DeDomenici.<br>*The Sunday Herald*    
->This is the Future<br>*Time Out*    
->Describing DeDomenici's set doesn't do him justice. I found him to be a clever instigator of mischief, which he chronicles on video and presents to the audience. It's stand-up, but with a much more 'performance' angle than most. Some bits work better than others, like his lyrics to the theme tune of TV's Cagney and Lacey and his hilarious treatment of the UK tour of the Olympic flame. I found his act very funny, and I would most certainly go out of my way to see him perform again. 4stars <br>*www.acrossthearts.co.uk*
-![Popaganda](rd6.jpg)
-
-
-####Credits       
-Presented by house.  Supported using public funding by Arts Council England.
-
-![Popaganda](rd5.jpg)    
-
-####Websites
-[www.dedomenici.com](http://www.dedomenici.com)    
-[www.housetheatre.org.uk](http://www.housetheatre.org.uk)
-
+Check back here soon as we are still confirming artists!
 
 ####Venue & Booking Details
-Date: Friday 2 November, 7.30pm (double bill with Ollie Smith)   
+Date: Saturday 8 February, 12-4pm    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
-[Tickets: £8/5](http://www.z-arts.org/events/word-of-warning-02-nov/)    
+Tickets: FREE    
 Box Office Tel: 0161 232 6089
 
