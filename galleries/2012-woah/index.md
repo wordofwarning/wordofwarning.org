@@ -9,7 +9,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: Works Ahead 2012
-more_url: "../../archive/2012-springsummer/index.html"
+more_url: "../../archive/2012-woah/index.html"
 
 gallery:
     -   {file: "titlepage.jpg", show: "<small>Images copyright &copy;2012 Word of Warning</small>"}
