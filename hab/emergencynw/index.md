@@ -6,6 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency e-group" # the name of the artist or company
+header_image: "header_emergencynw.jpg"    
 
 
 # ABOUT THE SHOW - LAYOUT

@@ -6,6 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Turn" # the name of the artist or company
+header_image: "header_turn_photo.jpg"   
 
 
 # ABOUT THE SHOW - LAYOUT
