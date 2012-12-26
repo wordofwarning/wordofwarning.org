@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: 2012-emergency
+layout: 2012-woah
 rootpath: "../../"
 is_index: true
 
