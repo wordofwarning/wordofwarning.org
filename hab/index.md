@@ -17,7 +17,7 @@ Since Jan 2012, however hÅb gone 'public' in the guise of [Word of Warning](/in
 
 This site aims to offer information to artists wanting to know more about our work and how to get involved.  For more information about public programme go to [Word of Warning](/index.html).   
 
-From [emergency](/archive/2012-emergency), an annual micro-festival for new work, now in its 14th year, which presents up to 40 short pieces in a day each September/October and its Merseyside sibling, [‘poolside emergency]; through [Works Ahead](/archive/2012-springsummer/), a series of small commissions for new work, we aim to provide a joined-up series of opportunities for emerging new work and artists in contemporary performance and live art.  We also co-produce the [Turn](http://turnmcr.posterous.com/turn-2013-call-for-proposals) micro-festival for north west dance and dance makers and the ensuing Turn Prize.    
+From [emergency](/archive/2012-emergency), an annual micro-festival for new work, now in its 14th year, which presents up to 40 short pieces in a day each September/October and its Merseyside sibling, [‘poolside emergency]; through [Works Ahead](/archive/2012-woah/index.html), a series of small commissions for new work, we aim to provide a joined-up series of opportunities for emerging new work and artists in contemporary performance and live art.  We also co-produce the [Turn](http://turnmcr.posterous.com/turn-2013-call-for-proposals) micro-festival for north west dance and dance makers and the ensuing Turn Prize.    
 
 hÅb also works as a curator of sited performance and intervention presenting, [Hazard](/archive/2012-hazard), a biennial micro-festival of intervention, taking performance out of the black box environment and into Manchester city centre.    
 
