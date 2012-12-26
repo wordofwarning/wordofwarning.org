@@ -16,7 +16,7 @@ gallery:
     -   {file: "darren.jpg", artist: "Company Fierce Academy", show: "1 - The Sound Boy Experience"}
     -   {file: "levantes.jpg", artist: "Levantes Dance Theatre", show: "(R&D)"}
     -   {file: "maelstrom.jpg", artist: "Maelstrom Dance", show: "Ballast"}
-    -   {file: "tactiturn.jpg", artist: "Jennifer Hale", show: "A Turn or Two"}
+    -   {file: "taciturn.jpg", artist: "Jennifer Hale", show: "A Turn or Two"}
     -   {file: "lansley.jpg", artist: "Emma Lansley + Eve Stainton", show: "Better Because I Wear Vintage"}
     -   {file: "lau.jpg", artist: "Joseph Lau", show: "Solo"}
     -   {file: "ojapah.jpg", artist: "Sarah Ojapah", show: "And Behold..."}
