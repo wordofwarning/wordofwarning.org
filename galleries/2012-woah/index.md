@@ -20,7 +20,7 @@ gallery:
     -    {file: "krissi1.jpg", artist: "Krissi Musiol", show: "Blue"}
     -    {file: "krissi2.jpg", artist: "Krissi Musiol", show: "Blue"}
     -    {file: "krissi3.jpg", artist: "Krissi Musiol", show: "Blue"}
-    -   {file: "fallenwall.jpg", artist: "Fallen Wall Arts", show: "If I Could Re-Write The Alphabet"}
+    -   {file: "fallenwall.jpg", artist: "Fallen Wall Arts", show: "If I Could Rewrite The Alphabet"}
     -   {file: "acn1.jpg", artist: "Angel Club (north)", show: "Minute"}
     -   {file: "acn2.jpg", artist: "Angel Club (north)", show: "Minute"}
     -   {file: "julieann2.jpg", artist: "Julieann O'Malley", show: "Posthuman"}
