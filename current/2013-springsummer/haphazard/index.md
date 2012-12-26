@@ -24,7 +24,7 @@ Intriguing images and offbeat oddities dotted around this historic building - ta
 Check back here soon as we are still confirming artists!
 
 ####Venue & Booking Details
-Date: Saturday 8 February, 12-4pm    
+Date: Saturday 9 February, 12-4pm    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
 Tickets: FREE    
 Box Office Tel: 0161 232 6089
