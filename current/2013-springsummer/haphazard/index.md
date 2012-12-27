@@ -19,7 +19,9 @@ header_image: "header_haphazard_photo.jpg"
 #### In Brief
 A day out for the curious of all ages.    
 
-Intriguing images and offbeat oddities dotted around this historic building - take a wander and see what you stumble upon... living geometric shapes making moon music, a bonkers bucket dance, marathon hula-hooping and bouncy, squeaky, ping-pong performers… playful, quirky, engaging and sometimes plain daft.   
+Intriguing images and offbeat oddities dotted around this historic building - take a wander and see what you stumble upon... living geometric shapes making moon music, a bonkers bucket dance, marathon hula-hooping and bouncy, squeaky, ping-pong performers...    
+
+Playful, quirky, engaging and sometimes plain daft, this is a day for kids and their adults; adults and *their* adults - in short, anyone looking for a different day-out.    
 
 Check back here soon as we are still confirming artists!
 
