@@ -48,7 +48,7 @@ Plane Performance is an experimental theatre company formed in 1992. Concerned w
 Founding director, Neil Mackenzie (also Artistic Director of the Axis Arts Centre, Crewe and Flare International Festival of New Theatre), works in collaboration with a number of regular performers, most frequently Niki Woods, as well as other artistic associates. Based in Manchester, Plane Performance have performed widely in England as well as in Germany and Croatia.     
 ####What people have said about them    
 Recent press for work by Neil Mackenzie:
->*Experimental, dangerous, funny and occasionally profound …precisely the stuff of which great fringe experiences are made* The Stage, on *Nicki Hobday Conquers Space*, directed by Neil Mackenzie.
+>*Experimental, dangerous, funny and occasionally profound …precisely the stuff of which great fringe experiences are made*<br>The Stage, on *Nicki Hobday Conquers Space*, directed by Neil Mackenzie.
 
 ####Websites    
 [www.planeperformance.co.uk](http://www.planeperformance.co.uk)    
