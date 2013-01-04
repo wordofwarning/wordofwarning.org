@@ -7,18 +7,18 @@ is_index: true
 
 ---
 
-Unbelievably Word of Warning is entering its second year of programme... so welcome to Spring 2013.  To all those who've come with us thus far - *thank you*... to anyone new - *we hope to give you a truly different 2013!*
+Unbelievably Word of Warning enters its second year of programming... so welcome to Spring 2013. To all those who've come with us thus far – *thank you*. To anyone new – *we hope to give you a truly different 2013!*
 
-Predictably, and completely in character, we've gone a bit over-the-top this season, to the extent that we've had to split it in two - so look out for Spring/Summer 2013 coming sometime after Easter.    
+Predictably, and completely in character, we've gone a bit over-the-top this season, to the extent that we've had to split it in two – so look out for Spring/Summer 2013 coming sometime after Easter.    
 
-No theme this time - just an awful lot of good work and a bit of idiosyncrasy thrown in for good measure.  We are also really pleased to be collaborating for the first time with the Lowry studio - and returning to Contact... lots! Plus, of course the ongoing WoW nights at Z-arts.  
+No theme this time – just an awful lot of good work and a bit of idiosyncrasy thrown in for good measure. We are also really pleased to be collaborating for the first time with The Lowry's Studio – and returning to Contact... lots! Plus, of course, our ongoing WoW nights at Z-arts.  
 
-Spring sees a new work by **Lowri Evans**, visits from **Hetain Patel** and **Michael Pinchbeck**, a showcase of new work from local luminaries **Plane Performance** and **Pigeon Theatre**, the fifth **Turn** and the third **'Poolside Emergency**.  Plus a bit of an experiment - a live art day for all ages - **Haphazard** (and it will be!).  Big images, silly sounds, random characters - it's a chance for those with little ones to share a day out for all - and for the rest of us to watch the work through fresher eyes.   
+Spring sees a new work by **Lowri Evans**, visits from **Hetain Patel** and **Michael Pinchbeck**, a showcase of new work from local luminaries **Plane Performance** and **Pigeon Theatre**, the fifth **Turn** and the third **'Poolside Emergency**. Plus a bit of an experiment – a live art day for all ages – **Haphazard** (and it will be!). Big images, silly sounds, random characters – it's a chance for those with little ones to share a day out for all – and for the rest of us to watch the work through fresher eyes.   
 
 ####What is Word of Warning and where did it come from?
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of live performance: an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work in Manchester.
 
-We take live work very seriously - but we don't take ourselves seriously at all.  In 2012, alongside funny, thought-provoking, beautiful work by the likes of Third Angel, Ellie Harrison, GETINTHEBACKOFTHEVAN, Levantes Dance Theatre, Action Hero, Richard DeDomenici, Made In China and many more, we served the audience gin and satsuma jello shots, played bingo, apple-bobbing, drenched them in confetti and reinvented St Andrews Day with snowballs and whisky macs.
+We take live work very seriously – but we don't take ourselves seriously at all. In 2012, alongside funny, thought-provoking, beautiful work by the likes of Third Angel, Ellie Harrison, GETINTHEBACKOFTHEVAN, Levantes Dance Theatre, Action Hero, Richard DeDomenici, Made In China and many more, we served the audience gin and satsuma jello shots, played bingo, apple-bobbing, drenched them in confetti and reinvented St Andrews Day with snowballs and whisky macs.
 
 ####Who’s it for?
 **Anyone looking for a different night out**.    
@@ -49,4 +49,4 @@ On the less eccentric side over the years, hÅb has also worked with literally h
           
 Please send programming enquiries to me at info@habarts.org             
 
-I’m joined in this lunacy by John Franklin, greenroom’s long time programme coordinator.  Often spotted in a hat or proffering a variety of bizarre refreshments, John is the friendly face greeting you and eliciting your feedback at many of our events.    
+I’m joined in this lunacy by John Franklin, greenroom’s long time programme coordinator. Often spotted in a hat or proffering a variety of bizarre refreshments, John is the friendly face greeting you and eliciting your feedback at many of our events.    
