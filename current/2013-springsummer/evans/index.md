@@ -15,7 +15,7 @@ header_image: "header_lowri_photo.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-Presented by Word of Warning & The Lowry.
+*Presented by* Word of Warning *+* The Lowry
 
 #### In Brief
 *A live scrap book. An unfinished love affair. A made up true story.*    
@@ -26,19 +26,19 @@ But the telescope has turned on this meddling voyeur. You are invited to witness
 
 This is Lowri's first feature length solo show and will see her visual art and theatre practice blur together on the night of her thirtieth birthday.
 
-####Venue & Booking Details
-Date: Thursday 31st January + Friday 1st February 2013, 8pm    
-[Venue: The Lowry](http://www.thelowry.com/plan-your-visit/getting-here/), Pier 8, Salford Quays, M50 3AZ    
+####Venue + Booking Details
+Date: Thursday 31 January + Friday 1 February 2013, 8pm    
+[Venue: The Lowry – Studio](http://www.thelowry.com/plan-your-visit/getting-here/), Pier 8, Salford Quays, M50 3AZ    
 [Tickets: £10/8](http://www.thelowry.com/event/the-secret-life-of-you-and-me)    
 Box Office Tel: 0843 208 6000    
     
 ####More
-Lowri's website is beautiful - we couldn't sum it up any better than her pictures do - so have a look [here](http://www.thelowri.com/the-secret-life-of-you-and-me-2/).    
+Lowri's website is beautiful – we couldn't sum it up any better than her pictures do – so have a look [here](http://www.thelowri.com/the-secret-life-of-you-and-me-2/).    
 
 ![A sketch](five.jpg)    
  
 ####Who is she?
-Lowri is a Manchester based live artist whose work draws upon a background in visual art, experience in performance and commitment to social engagement. Over the last few years she has worked with National Theatre of Scotland, Tate Liverpool, Cornerhouse, Contact Theatre, Hatch, Islington Mill, hÅb, The Lowry, Quarantine, Eggs Collective, David Hoyle, Small Things, Weeding Cane, Salford University and Grupo XIX de Teatro.  She is also in girl band Hotpants Romance, who have released two albums and toured the world.    
+Lowri is a Manchester based live artist whose work draws upon a background in visual art, experience in performance and commitment to social engagement. Over the last few years she has worked with National Theatre of Scotland, Tate Liverpool, Cornerhouse, Contact Theatre, Hatch, Islington Mill, hÅb, The Lowry, Quarantine, Eggs Collective, David Hoyle, Small Things, Weeding Cane, Salford University and Grupo XIX de Teatro. She is also in girl band Hotpants Romance, who have released two albums and toured the world.    
     
  ![Live Letter](Lowri-Evans-Image-3.jpg)    
    
@@ -51,7 +51,7 @@ Lowri is a Manchester based live artist whose work draws upon a background in vi
 ####Credits       
 Supported by hÅb and The Lowry.    
 Developed with support from Works Ahead, Contact, University of Salford and public funding by the National Lottery through Arts Council England.    
-Photography: Layla Sailor   
+Photography by Layla Sailor.   
 
 ####Websites
 [www.thelowri.com](http://www.thelowri.com)    
