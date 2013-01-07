@@ -41,7 +41,7 @@ But after *TEN*, Hetain knew he didn’t want to speak on stage in his own voice
 
 It started as a solo piece, but through a chance experiment with dancer Shelley Maxwell, things changed and Hetain became interested in asking a female performer to be his translator, avatar, or somewhere in between.    
 
-[Video clip](https://vimeo.com/37181870#)          
+Watch video [here](https://vimeo.com/37181870#)          
   
 ![BLW](amsterdam2.jpg)    
 
