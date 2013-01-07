@@ -15,9 +15,9 @@ show: "Mayhem on Merseyside." # the name of the show
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* the Bluecoat. *+* Word of Warning          
+*Presented by* the Bluecoat. + Word of Warning          
 
-####COMING SOON...    
+##COMING SOON...    
 Mayhem on Merseyside: a day-long splash of live art and performance at the Bluecoat.
 
 From 8 January 2013, to submit a proposal for inclusion click [here](http://poolside.posterous.com).    
@@ -30,5 +30,5 @@ Tickets: FREE
 Box Office Tel: 0151 702 532    
 
 ####Websites
-[the Bluecoat.](http://www.thebluecoat.org.uk)
+[the Bluecoat.](http://www.thebluecoat.org.uk)           
 [@theBluecoat](https://twitter.com/theBluecoat)
