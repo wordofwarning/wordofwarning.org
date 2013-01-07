@@ -29,7 +29,7 @@ Date: Friday 15 March 2013, 8pm
 [Tickets: £9/7](http://www.thelowry.com/event/the-beginning-debut)    
 Box Office Tel: 0843 208 6000    
 
-##MICHAEL PINCHBECK – THE BEGINNING    
+###THE BEGINNING by MICHAEL PINCHBECK    
 ####More
 *They are professionals.    
 They have learned their lines.     
@@ -63,7 +63,7 @@ Developed at Lakeside Arts Centre (Nottingham), Leeds Met Studio Theatre, Loughb
 
 ![The Debutants](header_debut_photo.jpg)     
 
-##DEBUT by MICHAEL PINCHBECK + THE DEBUTANTS    
+###Debut by Michael Pinchbeck + The Debutants    
 #### More    
 Contemporary Theatre Practice students from the University of Salford have worked with live artist and writer, Michael Pinchbeck, to device a piece that reflects on their own experiences of walking onstage for the first time. They may have been nervous. They may have forgotten their lines. They may have missed their entrance. These stories are a starting point for a show that looks at beginnings through the lens of what it means to perform. Debut asks what we do when we walk onstage and why we walk onstage in the first place.    
    
