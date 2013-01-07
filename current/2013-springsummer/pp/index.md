@@ -7,7 +7,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Plane Performance | Pigeon Theatre" # the name of the artist or company
 show: "Three Sisters | The Smell of Envy" # the name of the show
-artist_size: 2
+artist_size: 1
 show_size: 2
 header_image: "header_pigeon_photo.jpg"
 
@@ -17,6 +17,7 @@ header_image: "header_pigeon_photo.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
+*Presented by* Word of Warning *+* Z-arts      
 
 #### In Brief
 A one-off chance to see a double bill of new works from two of Manchester's best-loved companies:    
@@ -50,7 +51,10 @@ Plane Performance is an experimental theatre company formed in 1992. Concerned w
 Recent press for work by Neil Mackenzie:
 >*Experimental, dangerous, funny and occasionally profound …precisely the stuff of which great fringe experiences are made*<br>The Stage, on *Nicki Hobday Conquers Space*, directed by Neil Mackenzie.
 
-####Websites    
+####Credits         
+Supported using public funding by Arts Council England, and by Manchester Metropolitan University.
+          
+####Website    
 [www.planeperformance.co.uk](http://www.planeperformance.co.uk)    
 
 ![Smell me](header_smell-me_photo.jpg)
@@ -76,7 +80,9 @@ Anna Fenemore, Artistic Director + Performer, is a lecturer in Theatre and Perfo
 
 Gillian Knox, Deviser, Performer + Co-Producer, has worked as a performer with Pigeon Theatre since 2001.  A lecturer at LIPA and an associate lecturer at the University of Leeds, she has also worked with writer Mark Griffiths to direct *The Impossibility Club for Rookie Theatre* and with PickleHerring Theatre, as a workshop facilitator and performer/maker making site work around environmental themes.    
   
-  
+####Credits         
+A collaboration with Cognitive Neuroscientist Dr Colin Lever at the University of Durham; an outcome of the Wellcome Trust-funded project *Site and Smell*; supported by the University of Leeds and hÅb.
+
 ####Websites
 [www.pigeontheatre.com](http://www.pigeontheatre.com)  
 [@PigeonTheatre](http://twitter.com/PigeonTheatre)
