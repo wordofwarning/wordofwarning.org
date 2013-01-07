@@ -6,7 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Haphazard" # the name of the artist or company
-show: "A day out for the curious of all ages" # the name of the show
+show: "A day out for the curious of all ages." # the name of the show
 header_image: "header_haphazard_photo.jpg" 
 
 # ABOUT THE SHOW - LAYOUT
@@ -22,7 +22,7 @@ Intriguing images and offbeat oddities dotted around this historic building – 
 
 Playful, quirky, engaging and sometimes plain daft, this is a day for kids and their adults; adults and *their* adults – in short, anyone looking for a different day-out.    
 
-Check back here soon as we are still confirming artists!
+**Check back here soon as we are still confirming artists!**
 
 ####Venue + Booking Details
 Date: Saturday 9 February 2013, 12noon-4pm    

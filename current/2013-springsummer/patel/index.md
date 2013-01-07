@@ -32,8 +32,6 @@ Date: Thursday 14 + Friday 15 February 2013, 7.30pm
 Tickets: £8/5    
 Box Office Tel: 0161 274 0600   
 
-[Video clip](https://vimeo.com/37181870#) 
-
 ####More    
 This piece began with Hetain wanting to recreate a scene from a kung fu movie that he loves. He knew it would be performative but without knowing whether it would become a video or live piece.    
 
@@ -42,6 +40,8 @@ It became both: a video installation, *The First Dance* and also a live work: *B
 But after *TEN*, Hetain knew he didn’t want to speak on stage in his own voice. To repeat this would have felt too comfortable. Instead he would speak in Chinese or use subtitles.  
 
 It started as a solo piece, but through a chance experiment with dancer Shelley Maxwell, things changed and Hetain became interested in asking a female performer to be his translator, avatar, or somewhere in between.    
+
+[Video clip](https://vimeo.com/37181870#)          
   
 ![BLW](amsterdam2.jpg)    
 
