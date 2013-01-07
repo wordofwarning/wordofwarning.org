@@ -17,7 +17,7 @@ header_image: "header_pigeon_photo.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning *+* Z-arts      
+*Presented by* Word of Warning + Z-arts      
 
 #### In Brief
 A one-off chance to see a double bill of new works from two of Manchester's best-loved companies:    

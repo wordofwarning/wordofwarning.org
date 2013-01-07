@@ -15,7 +15,7 @@ show: "Mayhem on Merseyside." # the name of the show
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* the Bluecoat. + Word of Warning          
+*Presented by* Word of Warning + the Bluecoat          
 
 ##COMING SOON...    
 Mayhem on Merseyside: a day-long splash of live art and performance at the Bluecoat.

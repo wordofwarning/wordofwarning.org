@@ -15,7 +15,7 @@ header_image: "header_hetain_photo.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Contact *+* Word of Warning
+*Presented by* Word of Warning + Contact
 
 #### In Brief
 *"Have you ever wanted to be somebody else? I always wanted to be Bruce Lee.  And sometimes my dad. What determines who we are anyway?"*    

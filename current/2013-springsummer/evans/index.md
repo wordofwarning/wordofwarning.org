@@ -15,7 +15,7 @@ header_image: "header_lowri_photo.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning *+* The Lowry
+*Presented by* Word of Warning + The Lowry
 
 #### In Brief
 *A live scrap book. An unfinished love affair. A made up true story.*    

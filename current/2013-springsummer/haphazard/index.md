@@ -15,7 +15,7 @@ header_image: "header_haphazard_photo.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning *+* Z-arts
+*Presented by* Word of Warning + Z-arts
           
 #### In Brief
 Intriguing images and offbeat oddities dotted around this historic building – take a wander and see what you stumble upon... living geometric shapes making moon music, a bonkers bucket dance, marathon hula-hooping and bouncy, squeaky, ping-pong performers...    

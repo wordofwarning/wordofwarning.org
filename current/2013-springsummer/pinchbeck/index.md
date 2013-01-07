@@ -7,7 +7,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Michael Pinchbeck | The Debutants, University of Salford" # the name of the artist or company
 show: "The Beginning | Debut" # the name of the show
-artist_size: 4
+artist_size: 3
 show_size: 2
 header_image: "header_beginning_photo.jpg"
 
@@ -17,7 +17,7 @@ header_image: "header_beginning_photo.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* The Lowry*,* University of Salford *+* Word of Warning
+*Presented by* Word of Warning + The Lowry + University of Salford
 
 #### In Brief    
 A double bill by Michael Pinchbeck.   
