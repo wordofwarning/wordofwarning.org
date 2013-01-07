@@ -13,7 +13,7 @@ Predictably, and completely in character, we've gone a bit over-the-top this sea
 
 No theme this time – just an awful lot of good work and a bit of idiosyncrasy thrown in for good measure. We are also really pleased to be collaborating for the first time with The Lowry's Studio – and returning to Contact... lots! Plus, of course, our ongoing WoW nights at Z-arts.  
 
-Spring sees a new work by **Lowri Evans**, visits from **Hetain Patel** and **Michael Pinchbeck**, a showcase of new work from local luminaries **Plane Performance** and **Pigeon Theatre**, the fifth **Turn** and the third **`Poolside Emergency**. Plus a bit of an experiment – a live art day for all ages – **Haphazard** (and it will be!). Big images, silly sounds, random characters – it's a chance for those with little ones to share a day out for all – and for the rest of us to watch the work through fresher eyes.   
+Spring sees a new work by **Lowri Evans**, visits from **Hetain Patel** and **Michael Pinchbeck**, a showcase of new work from local luminaries **Plane Performance** and **Pigeon Theatre**, the fifth **Turn** and the third **'Poolside Emergency**. Plus a bit of an experiment – a live art day for all ages – **Haphazard** (and it will be!). Big images, silly sounds, random characters – it's a chance for those with little ones to share a day out for all – and for the rest of us to watch the work through fresher eyes.   
 
 ####What is Word of Warning and where did it come from?
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of live performance: an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work in Manchester.
