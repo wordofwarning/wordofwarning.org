@@ -7,7 +7,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Plane Performance | Pigeon Theatre" # the name of the artist or company
 show: "Three Sisters | The Smell of Envy" # the name of the show
-artist_size: 1
+artist_size: 2
 show_size: 2
 header_image: "header_pigeon_photo.jpg"
 
