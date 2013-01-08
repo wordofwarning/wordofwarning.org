@@ -20,8 +20,8 @@ show: "Mayhem on Merseyside." # the name of the show
 ##COMING SOON...    
 Mayhem on Merseyside: a day-long splash of live art and performance at the Bluecoat.
 
-From 8 January 2013, to submit a proposal for inclusion click [here](http://poolside.posterous.com).    
-Deadline: 15 February 2013.    
+**Artists...** to submit a proposal for inclusion click [here](http://poolside.posterous.com).    
+Deadline: Friday 15 February 2013, 5pm.    
 
 ####Venue + Booking Details
 Date: Saturday 13 April 2013, 12noon-5pm    
@@ -29,6 +29,5 @@ Date: Saturday 13 April 2013, 12noon-5pm
 Tickets: FREE    
 Box Office Tel: 0151 702 532    
 
-####Websites
-[the Bluecoat.](http://www.thebluecoat.org.uk)           
-[@theBluecoat](https://twitter.com/theBluecoat)
+####Credits         
+Co-produced by hÅb + the Bluecoat.
