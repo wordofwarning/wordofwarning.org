@@ -65,7 +65,7 @@ Developed at Lakeside Arts Centre (Nottingham), Leeds Met Studio Theatre, Loughb
 
 ####DEBUT – MICHAEL PINCHBECK + THE DEBUTANTS    
 #### More    
-Contemporary Theatre Practice students from the University of Salford have worked with live artist and writer, Michael Pinchbeck, to device a piece that reflects on their own experiences of walking onstage for the first time. They may have been nervous. They may have forgotten their lines. They may have missed their entrance. These stories are a starting point for a show that looks at beginnings through the lens of what it means to perform. *Debut* asks what we do when we walk onstage and why we walk onstage in the first place.    
+Contemporary Theatre Practice students from the University of Salford have worked with live artist and writer, Michael Pinchbeck, to devise a piece that reflects on their own experiences of walking onstage for the first time. They may have been nervous. They may have forgotten their lines. They may have missed their entrance. These stories are a starting point for a show that looks at beginnings through the lens of what it means to perform. *Debut* asks what we do when we walk onstage and why we walk onstage in the first place.    
    
 ####Website
 [Contemporary Theatre Practice, University of Salford](http://www.salford.ac.uk/courses/performance-contemporary-practices?mode=ov )
