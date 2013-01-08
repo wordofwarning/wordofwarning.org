@@ -4,6 +4,7 @@
 layout: archive
 
 archived:
+	- {folder: "2012-autumnwinter", name: "Autumn/Winter 2012", class: "aw2012"}
     - {folder: "2012-emergency", name: "Emergency 2012", class: "e2012"}
     - {folder: "2012-hazard", name: "Hazard 2012", class: "hazard"}
     - {folder: "2012-woah", name: "Works Ahead 2012", class: "woah"}
