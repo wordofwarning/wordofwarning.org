@@ -7,7 +7,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Michael Pinchbeck | The Debutants, University of Salford" # the name of the artist or company
 show: "The Beginning | Debut" # the name of the show
-artist_size: 3
+artist_size: 4
 show_size: 2
 header_image: "header_beginning_photo.jpg"
 
