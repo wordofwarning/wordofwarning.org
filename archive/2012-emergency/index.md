@@ -7,7 +7,7 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency 2012" # the name of the artist or company
-show: "Micro-festival marathon." # the name of the show
+show: # the name of the show
 
 ---
 ####Saturday 13 October 2012, 12noon-10pm  

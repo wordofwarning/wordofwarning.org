@@ -5,8 +5,11 @@ layout: 2012-hazard
 rootpath: "../../"
 is_index: true
 
+# ABOUT THE SHOW - GENERIC
+artist: "Hazard 2012" # the name of the artist or company
+show: # the name of the show
 ---
-#### 21 July, 2012
+####Saturday 21 July 2012, 12noon-5pm
 **To see our gallery of the day's events click [here](http://hazardmcr.org)**
 
 Sneaking up on you from behind a bus, Manchester's stripiest festival returns to unleash its fourth wave of bizarre behaviour on the city centre. 
@@ -32,9 +35,6 @@ And while you're in the vicinity, don't forget to check out the [Truth About You
 Reinventing playtime, **Larkin' About** hosts gaming events throughout the year.  Events see players chasing + racing, searching + collecting, code-breaking + puzzle-solving in a series of playful experiences.
 
 #### Credits
-
-Presented by Word of Warning.
-
-Produced by [hÅb](http://www.habarts.org"), [Larkin' About](http://larkin-about.co.uk), [Hatch](http://hatchnottingham.co.uk) and the artists.
+Presented by Word of Warning, produced by [hÅb](http://www.habarts.org"), [Larkin' About](http://larkin-about.co.uk), [Hatch](http://hatchnottingham.co.uk) and the artists.
 Private supporters: Lena Simic, Janet Drury, Gareth Cutter.
 Supported by the National Lottery through Arts Council England and Manchester City Council. With thanks to the Royal Exchange Theatre. A greenroom legacy project.

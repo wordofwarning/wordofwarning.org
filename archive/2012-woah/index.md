@@ -5,10 +5,12 @@ layout: 2012-woah
 rootpath: "../../"
 is_index: true
 
+# ABOUT THE SHOW - GENERIC
+artist: "Works Ahead 2012" # the name of the artist or company
+show: # the name of the show
 ---
-
-#### Works Ahead 2012  
-**A two night expoloration of the hidden world of Contact, in the company of a group of artists.  To see our gallery click [here](/galleries/2012-woah/index.html)**    
+####Thursday 31 May + Friday 1 June 2012  
+**A two night expoloration of the hidden world of Contact, in the company of a group o f artists.  To see our gallery click [here](/galleries/2012-woah/index.html)**    
 
 October 2011 saw an extraordinary coming together of over 30 artists in a day-*'maze of performance'*: **emergency accommodation**. Two whole buildings resonated with small exchanges, moving installations and intriguing conversations, punctuated by naked encounters and full-blown performances. Recapturing that spirit of adventure, **Works Ahead** invited a group of the most intriguing **emergency accommodation** artists to develop and present their work in a takeover of Contact.    
 
