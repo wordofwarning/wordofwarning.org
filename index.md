@@ -6,7 +6,7 @@ header_image: "assets/images/header_spring13.jpg"
 
 ---
 
-# We present the fifth Turn dance platform at Contact with DiGM + Live at LICA in April 2013... see our [call for proposals](http://turnmcr.posterous.com/turn-2013-call-for-proposals). 
-# Our Spring/Summer 2013 Performance Collection will be announced soon... In the meantime, have a look at our [Emergency image archive](http://emergencymcr.org).
+# Welcome to Spring 2013 - a season so big we've split it in two - look out for more coming after Easter!     
+# Kicking off with [Lowri Evans' *The Secret Life of You and Me at the Lowry* on Thu 31 Jan + Fri 1 Feb](/current/2013-springsummer/evans/index.html), followed by a [*Haphazard*](/current/2013-springsummer/haphazard/index.html) takeover of Z-arts on Sat 9 Feb - day out for the curious of all ages!    
 
 ## Sign up [here]({{ site.mailer_signup_url }}) for updates.
