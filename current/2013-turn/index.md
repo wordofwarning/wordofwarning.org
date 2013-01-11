@@ -30,7 +30,7 @@ In the meantime have a look at the [gallery](/galleries/2012-turn/index.html) of
 ####Venue + Booking Details
 Date: Friday 19 + Saturday 20 April 2013, 7.30pm    
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
-Tickets: £8/5    
+[Tickets: £8/5](http://contactmcr.com/whats-on/1201-turn-2013/)    
 Box Office Tel: 0161 274 0600   
        
 ####Credits         
