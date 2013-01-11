@@ -29,7 +29,7 @@ Video, live music and plenty of northern factory talk courtesy of Hetain’s dad
 ####Venue + Booking Details
 Date: Thursday 14 + Friday 15 February 2013, 7.30pm    
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
-Tickets: £8/5    
+[Tickets: £8/5](http://contactmcr.com/whats-on/1188-hetain-patel-be-like-water/)   
 Box Office Tel: 0161 274 0600   
 
 ####More    
