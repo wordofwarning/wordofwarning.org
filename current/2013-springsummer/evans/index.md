@@ -50,7 +50,7 @@ Lowri is a Manchester based live artist whose work draws upon a background in vi
 
 ####Credits       
 Supported by hÅb and The Lowry.    
-Developed with support from Works Ahead, Contact, University of Salford and public funding by the National Lottery through Arts Council England.    
+Developed with support from Works Ahead, Contact, The Future, University of Salford and public funding by the National Lottery through Arts Council England.    
 Photography by Layla Sailor.   
 
 ####Websites
