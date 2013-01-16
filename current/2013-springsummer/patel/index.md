@@ -41,7 +41,8 @@ But after *TEN*, Hetain knew he didn’t want to speak on stage in his own voice
 
 It started as a solo piece, but through a chance experiment with dancer Shelley Maxwell, things changed and Hetain became interested in asking a female performer to be his translator, avatar, or somewhere in between.    
 
-Watch video [here](https://vimeo.com/37181870#)          
+Watch video [here](https://vimeo.com/37181870#).          
+Read Judith Mackrell's 4* review for The Guardian [here](https://www.guardian.co.uk/stage/2012/nov/28/hetain-patel-be-like-water-review).
   
 ![BLW](amsterdam2.jpg)    
 
