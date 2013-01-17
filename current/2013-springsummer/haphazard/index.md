@@ -22,7 +22,9 @@ Intriguing images and offbeat oddities dotted around this historic building – 
 
 Playful, quirky, engaging and sometimes plain daft, this is a day for kids and their adults; adults and *their* adults – in short, anyone looking for a different day-out.    
 
-**Check back here soon as we are still confirming artists!**
+**Participating artists: Angel Club (north) - Eggs Collective - Forecast - Robert Foster - Lani Irving - Rachael Nutter - Katherina Radeva - Ultraviolets - Volkov Commanders - whatsthebigmistry.**
+
+*Check back here for more details soon.*
 
 ####Venue + Booking Details
 Date: Saturday 9 February 2013, 12noon-4pm    
