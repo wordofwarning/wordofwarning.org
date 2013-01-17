@@ -22,9 +22,12 @@ Intriguing images and offbeat oddities dotted around this historic building – 
 
 Playful, quirky, engaging and sometimes plain daft, this is a day for kids and their adults; adults and *their* adults – in short, anyone looking for a different day-out.    
 
-**Participating artists: Angel Club (north) - Eggs Collective - Forecast - Robert Foster - Lani Irving - Rachael Nutter - Katherina Radeva - Ultraviolets - Volkov Commanders - whatsthebigmistry.**
+**Participating artists: Angel Club (north) - Eggs Collective - Forecast - Robert Foster - Lani Irving - Rachael Nutter - Katherina Radeva - Ultraviolets - Volkov Commanders - whatsthebigmistry.**    
 
-*Check back here for more details soon.*
+*Check back here for more details soon.*    
+
+**Haphazard discussion 4pm**
+An informal chance to meet the artists and to discuss art that can bridge the generation gap.  What different responses does the same work provoke and what can we, as adults, learn from how kids watch performance?    
 
 ####Venue + Booking Details
 Date: Saturday 9 February 2013, 12noon-4pm    
