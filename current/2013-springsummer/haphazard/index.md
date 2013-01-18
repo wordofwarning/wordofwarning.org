@@ -18,17 +18,17 @@ show_size: 3
 ---
 *Presented by* Word of Warning + Z-arts
           
-#### In Brief
+####In Brief
 Intriguing images and offbeat oddities dotted around this historic building – take a wander and see what you stumble upon... living geometric shapes making moon music, a bonkers bucket dance, marathon hula-hooping and bouncy, squeaky, ping-pong performers...    
 
 Playful, quirky, engaging and sometimes plain daft, this is a day for kids and their adults; adults and *their* adults – in short, anyone looking for a different day-out.    
 
-**Participating artists:            
+####Participating artists            
 Angel Club (north) | Eggs Collective | Forecast | Robert Foster | Lani Irving | Rachael Nutter | Katherina Radeva | Ultraviolets | Volkov Commanders | whatsthebigmistry**    
 
 *Check back here for more details soon.*    
 
-**Plus: Haphazard discussion at 4pm**
+####Plus – Haphazard discussion, 4pm
 An informal chance to meet the artists and to discuss art that can bridge the generation gap.  What different responses does the same work provoke and what can we, as adults, learn from how kids watch performance?    
 
 ####Venue + Booking Details
