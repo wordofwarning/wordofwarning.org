@@ -8,6 +8,7 @@ rootpath: "../../../"
 artist: "Haphazard" # the name of the artist or company
 show: "A free day out for the curious of all ages." # the name of the show
 header_image: "header_haphazard_photo.jpg" 
+show_size: 3
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -22,11 +23,12 @@ Intriguing images and offbeat oddities dotted around this historic building – 
 
 Playful, quirky, engaging and sometimes plain daft, this is a day for kids and their adults; adults and *their* adults – in short, anyone looking for a different day-out.    
 
-**Participating artists: Angel Club (north) - Eggs Collective - Forecast - Robert Foster - Lani Irving - Rachael Nutter - Katherina Radeva - Ultraviolets - Volkov Commanders - whatsthebigmistry.**    
+**Participating artists:            
+Angel Club (north) | Eggs Collective | Forecast | Robert Foster | Lani Irving | Rachael Nutter | Katherina Radeva | Ultraviolets | Volkov Commanders | whatsthebigmistry**    
 
 *Check back here for more details soon.*    
 
-**Haphazard discussion 4pm**
+**Plus: Haphazard discussion at 4pm**
 An informal chance to meet the artists and to discuss art that can bridge the generation gap.  What different responses does the same work provoke and what can we, as adults, learn from how kids watch performance?    
 
 ####Venue + Booking Details

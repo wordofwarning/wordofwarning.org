@@ -8,6 +8,7 @@ rootpath: "../../../"
 artist: "Lowri Evans" # the name of the artist or company
 show: "The Secret Life of You and Me" # the name of the show
 header_image: "header_lowri_photo.jpg"
+show_size: 3
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
