@@ -19,7 +19,7 @@ header_image: "header_beginning_photo.jpg"
 ---
 *Presented by* Word of Warning + The Lowry + University of Salford
 
-#### In Brief    
+####In Brief    
 A double bill by Michael Pinchbeck.   
 A pair of beginnings that ask why we take to the stage and what we do when we get there.    
 
@@ -63,8 +63,8 @@ Developed at Lakeside Arts Centre (Nottingham), Leeds Met Studio Theatre, Loughb
 
 ![The Debutants](header_debut_photo.jpg)     
 
-##Debut – Michael Pinchbeck + The Debutants         
-#### More    
+###Debut – Michael Pinchbeck + The Debutants         
+####More    
 Contemporary Theatre Practice students from the University of Salford have worked with live artist and writer, Michael Pinchbeck, to devise a piece that reflects on their own experiences of walking onstage for the first time. They may have been nervous. They may have forgotten their lines. They may have missed their entrance. These stories are a starting point for a show that looks at beginnings through the lens of what it means to perform. *Debut* asks what we do when we walk onstage and why we walk onstage in the first place.    
    
 ####Website
