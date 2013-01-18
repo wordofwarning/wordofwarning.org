@@ -34,7 +34,7 @@ Box Office Tel: 0161 232 6089
 
 ![Plane](header_plane_photo.jpg)   
 
-####PLANE PERFORMANCE
+##Plane Performance
 ####More
 Three women talk at a table. Picked up via headset microphones, the words they say belong on the lips of three women trapped in a life of social decay and lost hope, in provincial Russia over 100 years ago. But they are not these women – they are not there, it is not then – and they know it. The conversation turns into a game, a free-flowing game of truth and dare, whilst the reality of the situation, and the presence of the audience, gradually shifts to the centre of their attention...    
 
@@ -59,7 +59,7 @@ Supported using public funding by Arts Council England, and by Manchester Metrop
 
 ![Smell me](header_smell-me_photo.jpg)
 
-####PIGEON THEATRE
+##Pigeon Theatre
 ####More
 A (lecture) theatre performance for those of you who love the smell of yesterday...   
    
