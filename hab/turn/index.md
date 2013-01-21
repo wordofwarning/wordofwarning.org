@@ -18,7 +18,7 @@ header_image: "header_turn_photo.jpg"
 
 **Turn** is an annual platform for north west dancers and dancemakers taking place in 2013 on **19+20 April at Contact**.  
 
-The call is now open - click [here](http://turnmcr.posterous.com/turn-2013-call-for-proposals) for details.
+The call is now closed and the selection process starting - news of artists selected will be announced at [turnmcr.org](http://turnmcr.posterous.com/turn-2013-call-for-proposals).
 
 In the meantime have a look at the [gallery](/galleries/2012-turn/index.html)  and [archive](/archive/2012-springsummer/turn) and of last year's event or at the [event blog](http://turnmcr.posterous.com).    
 
