@@ -13,10 +13,6 @@ p
 #header
 	{width:130px;padding:20px;}	
 #header #info
-	{display:none;}
-#header:hover 
-	{background: #111; cursor:pointer;}
-#header:hover #info
 	{display: block;}
 		
 a, a:visited, a:hover
