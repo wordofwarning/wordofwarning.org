@@ -22,9 +22,7 @@ A two night micro-festival of emerging north west danceworks:  explosive, intima
 
 Plus a *Mixed Movement* Turn Special with Sound Moves, on Saturday from 10pm.    
 
-**Dancers + dance-makers...** to submit a proposal for inclusion click [here](http://turnmcr.org).    
-Deadline: Friday 18 January 2013, 5pm.    
-
+The Turn call for proposals is now closed,  we will be announcing the selected artists in early March here, or at [turnmcr.org](http://turnmcr.posterous.com).    
 In the meantime have a look at the [gallery](/galleries/2012-turn/index.html) of last year's event.    
 
 ####Venue + Booking Details
