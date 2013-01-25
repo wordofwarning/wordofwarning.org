@@ -27,7 +27,9 @@ Turn up at any time during the course of the day (12-4pm), come and go as you pl
 
 In the café, expect Volkov Commanders' geometric orchestra, Rachael Nutter's carbon dioxide garden, Angel Club (north's) mischievous Mirror Twins and, upstairs, become contestants in Lydia Hirst's budget recreation of the iconic Crystal Maze gameshow... or take a journey of discovery on Ultra Violets' exploration of the hidden maze of Z-arts in search of a Minotaur on the prowl.    
 
-In the Atrium meet Kitty, a hula-hooping maestro, or listen-in on a miniature highway of talking cars. Join a bonkers bucket dance in the rear atrium or take a half hour breather for whatsthebigmistry's Ping Pong Crash.  Throughout you will be welcomed by our friendly staff - if you need some help feel free to badger a badger, outfox fox a fox or just discover a duck.    
+In the Atrium meet Kitty, a hula-hooping maestro, or listen-in on a miniature highway of talking cars. Join a bonkers bucket dance in the rear atrium or take a half hour breather for whatsthebigmistry's Ping Pong Crash.  Throughout you will be welcomed by our friendly staff - if you need some help feel free to badger a badger, outfox fox a fox or just discover a duck.     
+  
+[**Back to image gallery**](/galleries/2013-haphazard/index.html)    
 
 ####Participating artists            
 **Angel Club (north) | Lydia Hirst (Eggs Collective) | Forecast | Robert Foster | Lani Irving | Rachael Nutter | Katherina Radeva | Ultra Violets | Volkov Commanders | whatsthebigmistry**    
