@@ -12,7 +12,7 @@ more_link: Haphazard
 more_url: "../../current/2013-springsummer/haphazard/index.html"
 
 gallery:
-    -   {file: "titlepage.jpg", show: "<small>A free day out for the curious of all ages, click top left for more.</small>"}
+    -   {file: "titlepage.jpg", show: "A free day out for the curious of all ages, click top left Haphazard for more."}
     -   {file: "bucket.jpg", artist: "Robert Foster", show: "Bucket Dance"}
     -   {file: "priya.jpg", artist: "whatsthebigmistry", show: "Ping Pong Crash + other sounds"}
     -   {file: "kitty.jpg", artist: "Katherina Radeva", show: "Kitty Has No Pity"}
