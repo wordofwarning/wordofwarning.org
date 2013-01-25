@@ -7,7 +7,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Haphazard" # the name of the artist or company
 show: "A free day out for the curious of all ages." # the name of the show
-header_image: "header_haphazard_photo.jpg" 
+header_image: "http://www.wordofwarning.org/galleries/2012-woah/index.html" 
 show_size: 3
 
 # ABOUT THE SHOW - LAYOUT
