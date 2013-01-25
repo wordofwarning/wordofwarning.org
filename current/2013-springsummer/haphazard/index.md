@@ -22,7 +22,8 @@ show_size: 3
 Intriguing images and offbeat oddities dotted around this historic building – take a wander and see what you stumble upon... living geometric shapes making moon music, a bonkers bucket dance, marathon hula-hooping and bouncy, squeaky, ping-pong performers...    
 
 Playful, quirky, engaging and sometimes plain daft, this is a day for kids and their adults; adults and *their* adults – in short, anyone looking for a different day-out.    
-Turn up at any time during the course of the day, come and go as you please - there will always be something to do or see.  Performances happen at least twice, and the full schedule will appear here the week commencing 4 Feb.    
+
+Turn up at any time during the course of the day (12-4pm), come and go as you please - there will always be something to do or see.  Performances happen at least twice, and the full schedule will appear here the week commencing 4 Feb.    
 
 In the café, expect Volkov Commanders' geometric orchestra, Rachael Nutter's carbon dioxide garden, Angel Club (north's) mischievous Mirror Twins and, upstairs, become contestants in Lydia Hirst's budget recreation of the iconic Crystal Maze gameshow... or take a journey of discovery on Ultra Violets' exploration of the hidden maze of Z-arts in search of a Minotaur on the prowl.    
 
@@ -39,9 +40,12 @@ A shape-shifting maze in an urban metropolis. Immersing players of all ages in f
 *Synesthetic Moonscape* - [**Volkov Commanders**](http://www.volkovcommanders.co.uk): living geometric shapes making moon music.    
    
 *Green, Gas, Grass* - **Rachael Nutter**    
-It's hard to be glum in a garden green, with the squeakiest flowers you've ever seen
-Where the sun shines bright all day long, qnd the grass grows round to the bird song
-If you're feeling deflated by the cold outside, pop along to the balloon filled patch where I reside.    
+It's hard to be glum in a garden green    
+With the squeakiest flowers you've ever seen     
+Where the sun shines bright all day long    
+And the grass grows round to the bird song    
+If you're feeling deflated by the cold outside    
+Pop along to the balloon filled patch where I reside.    
 
 *The Mirror Twins* - [**Angel Club (north)**](http://www.angelclubnorth.com)    
 Taking the weight from your shoulders and transporting you to exotic climes in this head to head encounter of canapé art - these 'talking heads' will amaze and amuse...
