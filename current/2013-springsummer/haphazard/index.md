@@ -32,7 +32,7 @@ In the **Atrium** meet Kitty, a hula-hooping maestro, or listen-in on a miniatur
 [**Have a look at our Haphazard image gallery**](/galleries/2013-haphazard/index.html)    
 
 ####Participating artists            
-**Angel Club (north) | Lydia Hirst (Eggs Collective) | Forecast | Robert Foster | Lani Irving | Rachael Nutter | Katherina Radeva | Ultra Violets | Volkov Commanders | whatsthebigmistry**    
+**Angel Club (north) | Lydia Hirst (Eggs Collective) |  Robert Foster | Lani Irving | Anna Macdonald | Rachael Nutter | Katherina Radeva | Ultra Violets | Volkov Commanders | whatsthebigmistry**    
 
 ####More    
 *LABOLIS :: Threads* – [**Ultra Violets**](http://www.ultraviolets.org.uk)    
@@ -40,7 +40,11 @@ Enter [*LABOLIS*](http://vimeo.com/33027206)... getting lost is just the beginni
 A shape-shifting maze in an urban metropolis – immersing players of all ages in fantasy spaces, it seeks to test the wits and sharpen senses through fun and games. Come creep, sneak, frolic and guess your way through riddle-solving realms where live creatures roam; star’s will charm you with their stories and nothing is quite what it seems. This time, a Minotaur is on the prowl...    
 
 *Synesthetic Moonscape* – [**Volkov Commanders**](http://www.volkovcommanders.co.uk): living geometric shapes make Moon music.    
-   
+
+*The Gameshow* - **Lydia Hirst** Set in the future on an abandoned space station, the Gamesmaster and his scientist have gone mad from watching too much bad TV. Two teams must do battle in a series of mental and physical challenges for the chance to return to Earth and play out more.    
+
+Lydia is a founding member of Eggs Collective her experiments in live art tend to be fun, trashy and high concept.    
+
 *Green, Gas, Grass* – **Rachael Nutter**    
 It's hard to be glum in a garden green    
 With the squeakiest flowers you've ever seen     
@@ -61,11 +65,14 @@ A nostalgic look at those lost childhood and childish moments of playful learnin
 *Bucket Dance* – [**Robert Foster** ](http://vimeo.com/25026289) – a Bauhaus inspired parody.    
 
 *Ping Pong Crash and other sounds* – [**whatsthebigmistry**](http://www.whatsthebigmistry.com)    
-A small orchestra of bodies and objects and an assemblage of quirksome movements. 
-The space is about to go off with a performance of falling, inflating and pushing – everything has a place but who knows where it will land!    
+A small orchestra of bodies and objects, performing a score of action and tasks - a performance of falling, inflating and pushing. This performance is conducted as an experiment. All the actions have an arrangement but I can’t say where everything will land.    
 
-*Car Conversations* – [**Forecast**](http://www.forecastdance.org/car_conversations.html)    
-A tiny motorway of overhead conversations sweeps round the Z-arts Atrium.    
+Imagine a space going off with an assortment lilos, life jackets and beach balls bouncing off the walls, the sound of 500 ping pong balls falling or a crash box of crockery hitting the floor, a march punctuated by the squeak of pet shop toys…     
+   
+*Car Conversations* – [**Anna Macdonald**](http://www.forecastdance.org/car_conversations.html)    
+There is something about being in a car that invites us to talk in ways that we wouldn’t in other places. *Car conversations* is an installation that consists of thousands of toy cars forming tiny motorways that run along, over and under unusual spaces. Inside some of the cars are miniature speakers so, when you lean in closely, you can hear real recordings of people on car journeys as they sing, shout and ask ‘are we nearly there yet?’    
+
+Anna Macdonald’s work spans dance, film and installations. For this work she collaborated with Manchester-based sound artist Sam Heitzman.     
 
 ####Plus: Haphazard discussion, 4pm
 An informal chance to meet the artists and to discuss art that can bridge the generation gap. What different responses does the same work provoke and what can we, as adults, learn from how kids watch performance?    
