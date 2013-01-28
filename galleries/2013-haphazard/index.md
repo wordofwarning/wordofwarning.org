@@ -15,6 +15,7 @@ gallery:
     -   {file: "titlepage.jpg", show: "A free day out for the curious of all ages, click top left Haphazard for more."}
     -   {file: "bucket.jpg", artist: "Robert Foster", show: "Bucket Dance"}
     -   {file: "priya.jpg", artist: "whatsthebigmistry", show: "Ping Pong Crash + other sounds"}
+    -   {file: "cars.jpg", artist: "Anna Macdonald", show: "Car Conversations"}
     -   {file: "kitty.jpg", artist: "Katherina Radeva", show: "Kitty Has No Pity"}
     -   {file: "lani.jpg", artist: "Lani Iriving", show: "Wildlife"}    
     -   {file: "mirror.jpg", artist: "Angel Club (north)", show: "The Mirror Twins"}
