@@ -42,7 +42,8 @@ A shape-shifting maze in an urban metropolis – immersing players of all ages i
 ![Volkov Commanders](volkov.jpg)    
 *Synesthetic Moonscape* – [**Volkov Commanders**](http://www.volkovcommanders.co.uk): living geometric shapes make Moon music.    
 ![The Game Show](gameshow.jpg)    
-*The Gameshow* - **Lydia Hirst** Set in the future on an abandoned space station, the Gamesmaster and his scientist have gone mad from watching too much bad TV. Two teams must do battle in a series of mental and physical challenges for the chance to return to Earth and play out more.    
+*The Gameshow* - **Lydia Hirst**    
+Set in the future on an abandoned space station, the Gamesmaster and his scientist have gone mad from watching too much bad TV. Two teams must do battle in a series of mental and physical challenges for the chance to return to Earth and play out more.    
 
 Lydia is a founding member of Eggs Collective her experiments in live art tend to be fun, trashy and high concept.    
 ![Green, Gas, Grass](rachael.jpg)    
@@ -55,8 +56,8 @@ If you're feeling deflated by the cold outside
 Pop along to the balloon filled patch where I reside.    
 ![The Mirror Twins](mirror.jpg)    
 *The Mirror Twins* – [**Angel Club (north)**](http://www.angelclubnorth.com)    
-Taking the weight from your shoulders and transporting you to exotic climes in this head to head encounter of canapé art – these 'talking heads' will amaze and amuse...
-![Wildlife](wildlife.jpg)    
+Taking the weight from your shoulders and transporting you to exotic climes in this head to head encounter of canapé art – these 'talking heads' will amaze and amuse...    
+![Wildlife](lani.jpg)    
 *Wildlife* – [**Lani Irving**](http://laniirving.wix.com/laniirving)    
 It is little known that Manchester is home to some of the most remarkable wildlife in the world. In recent months there have been sightings of dandy wolves, busy badgers, socially awkward foxes and the odd commuting duck... If you’re lucky, maybe you'll catch a glimpse of some of these bizarre creatures going about their business, or even discover a previously unseen species!    
 ![Kitty Has No Pity](kitty.jpg)    
