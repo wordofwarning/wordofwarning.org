@@ -23,21 +23,22 @@ Intriguing images and offbeat oddities dotted around this historic building – 
 
 Playful, quirky, engaging and sometimes plain daft, this is a day for kids and their adults; adults and *their* adults – in short, anyone looking for a different day-out.    
 
-Turn up at any time during the course of the day (12noon-4pm), come and go as you please – there will always be something to do or see.  Performances happen at least twice, and the full schedule will appear here the week commencing Mon 4 Feb.    
+Turn up at any time during the course of the day (12noon-4pm), come and go as you please – there will always be something to do or see.  Performances happen at least twice, and the full schedule will appear here from Monday 4 February.    
 
-In the **Café**, expect Volkov Commanders' geometric orchestra, Rachael Nutter's carbon dioxide garden, Angel Club (north's) mischievous *Mirror Twins* and, **Upstairs**, become contestants in Lydia Hirst's budget recreation of the iconic Crystal Maze *Gameshow*... Or take a journey of discovery on Ultra Violets' exploration of the **hidden maze** of Z-arts in search of a Minotaur on the prowl.    
+In the **Café**, expect Volkov Commanders' geometric orchestra, Rachael Nutter's carbon dioxide garden, Angel Club (north's) mischievous *mirror twins* and, **Upstairs**, become contestants in Lydia Hirst's budget recreation of the iconic Crystal Maze *gameshow*... Or take a journey of discovery on Ultra Violets' exploration of the **hidden maze of Z-arts** in search of a Minotaur on the prowl.    
 
-In the **Atrium** meet *Kitty*, a hula-hooping maestro, or listen-in on a miniature highway of talking *cars*... Join a bonkers *bucket dance* in the **Rear Atrium** or take a half-hour breather in the **Gallery** for whatsthebigmistry's *Ping Pong Crash...* Throughout you will be welcomed by our friendly staff – if you **need some help** feel free to badger a badger, outfox fox a fox or just discover a duck.     
+In the **Atrium** meet *Kitty*, a hula-hooping maestro, or listen-in on a miniature highway of talking *cars*... Join a bonkers *bucket dance* in the **Rear Atrium** or take a half-hour breather in the **Gallery** for whatsthebigmistry's *Ping Pong Crash...* Throughout you will be welcomed by friendly *wildlife* – if you **need some help** feel free to badger a badger, outfox fox a fox or just discover a duck.     
   
 [**Have a look at our Haphazard image gallery**](/galleries/2013-haphazard/index.html)    
 
 ####Participating artists            
-**Angel Club (north) | Robert Foster | Lydia Hirst (*Eggs Collective*) | Lani Irving | Anna Macdonald | Rachael Nutter | Katherina Radeva | Ultra Violets | Volkov Commanders | whatsthebigmistry**    
+**Angel Club (north) | Robert Foster | Lydia Hirst** (Eggs Collective) **| Lani Irving | Anna Macdonald | Rachael Nutter | Katherina Radeva | Ultra Violets | Volkov Commanders | whatsthebigmistry**    
 
 ####More     
 ![Ultra Violets](labolis.jpg)    
 *LABOLIS :: Threads* – [**Ultra Violets**](http://www.ultraviolets.org.uk)    
 Enter [*LABOLIS*](http://vimeo.com/33027206)... getting lost is just the beginning.   
+            
 A shape-shifting maze in an urban metropolis – immersing players of all ages in fantasy spaces, it seeks to test the wits and sharpen senses through fun and games. Come creep, sneak, frolic and guess your way through riddle-solving realms where live creatures roam; star’s will charm you with their stories and nothing is quite what it seems. This time, a Minotaur is on the prowl...    
 
 ![Volkov Commanders](volkov.jpg)    
@@ -69,11 +70,12 @@ It is little known that Manchester is home to some of the most remarkable wildli
 ![Kitty Has No Pity](kitty.jpg)    
 *Kitty Has No Pity* – [**Katherina Radeva**](http://www.katherinaradeva.co.uk)    
 No kidding, this will be fun!   
+          
 Remember when you were young and carefree? This is a bit like that, but with a twist! A fun nostalgic look at those lost childhood and childish moments of playful learning, exercising and gaming. Throwing caution to the wind, all are urged to take up the hoop and join in the games.   
 [See video](https://vimeo.com/38843313)    
         
 ![Bucket Dance](bucket.jpg)    
-*Bucket Dance* – [**Robert Foster** ](http://vimeo.com/25026289) – a Bauhaus inspired parody.    
+*Bucket Dance* – [**Robert Foster** ](http://vimeo.com/25026289): a Bauhaus inspired parody.    
         
 ![Ping Pong Crash](priya.jpg)    
 *Ping Pong Crash and Other Sounds* – [**whatsthebigmistry**](http://www.whatsthebigmistry.com)    
