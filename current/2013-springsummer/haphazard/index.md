@@ -34,7 +34,8 @@ In the **Atrium** meet Kitty, a hula-hooping maestro, or listen-in on a miniatur
 ####Participating artists            
 **Angel Club (north) | Lydia Hirst (Eggs Collective) |  Robert Foster | Lani Irving | Anna Macdonald | Rachael Nutter | Katherina Radeva | Ultra Violets | Volkov Commanders | whatsthebigmistry**    
 
-####More    
+####More     
+![Ultra Violets](labolis.jpg)    
 *LABOLIS :: Threads* – [**Ultra Violets**](http://www.ultraviolets.org.uk)    
 Enter [*LABOLIS*](http://vimeo.com/33027206)... getting lost is just the beginning.   
 A shape-shifting maze in an urban metropolis – immersing players of all ages in fantasy spaces, it seeks to test the wits and sharpen senses through fun and games. Come creep, sneak, frolic and guess your way through riddle-solving realms where live creatures roam; star’s will charm you with their stories and nothing is quite what it seems. This time, a Minotaur is on the prowl...    
@@ -55,14 +56,15 @@ And the grass grows round to the bird song
 If you're feeling deflated by the cold outside    
 Pop along to the balloon filled patch where I reside.    
 ![The Mirror Twins](mirror.jpg)    
-*The Mirror Twins* – [**Angel Club (north)**](http://www.angelclubnorth.com)    
-Taking the weight from your shoulders and transporting you to exotic climes in this head to head encounter of canapé art – these 'talking heads' will amaze and amuse...    
+*The Mirror Twins* – **Angel Club (north)**Fresh from their winter sports and alpine escapades the Mirror Twins are back in Hulme - and now they smell the romantic whiff of spring. We're not sure its very proper but Angel Club (north)'s errant twins are getting hitched !    
 ![Wildlife](lani.jpg)    
 *Wildlife* – [**Lani Irving**](http://laniirving.wix.com/laniirving)    
 It is little known that Manchester is home to some of the most remarkable wildlife in the world. In recent months there have been sightings of dandy wolves, busy badgers, socially awkward foxes and the odd commuting duck... If you’re lucky, maybe you'll catch a glimpse of some of these bizarre creatures going about their business, or even discover a previously unseen species!    
 ![Kitty Has No Pity](kitty.jpg)    
 *Kitty Has No Pity* – [**Katherina Radeva**](http://www.katherinaradeva.co.uk)    
-A nostalgic look at those lost childhood and childish moments of playful learning, exercising and gaming. Throwing caution to the wind, all are urged to take up the hoop and join in the games.   
+No kidding, this will be fun!   
+Remember when you were young and carefree?  This is a bit like that but with a twist! A fun nostalgic look at those lost childhood and childish moments of playful learning, exercising and gaming. Throwing caution to the wind, all are urged to take up the hoop and join in the games.   
+[See video](https://vimeo.com/38843313)    
 ![Bucket Dance](bucket.jpg)    
 *Bucket Dance* – [**Robert Foster** ](http://vimeo.com/25026289) – a Bauhaus inspired parody.    
 ![Ping Pong Crash](priya.jpg)    
