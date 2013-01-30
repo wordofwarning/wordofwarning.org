@@ -27,7 +27,7 @@ Video, live music and plenty of northern factory talk courtesy of Hetain’s dad
 >*clever and charming* The Guardian   
     
 ####Venue + Booking Details
-Date: Thursday 14 (SOLD-OUT) + Friday 15 February 2013, 7.30pm    
+Date: (Thursday 14 SOLD-OUT) Friday 15 February 2013, 7.30pm    
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
 [Tickets: £8/5](http://contactmcr.com/whats-on/1188-hetain-patel-be-like-water/)   
 Box Office Tel: 0161 274 0600   
