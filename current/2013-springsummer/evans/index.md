@@ -28,7 +28,7 @@ But the telescope has turned on this meddling voyeur. You are invited to witness
 This is Lowri's first feature length solo show and will see her visual art and theatre practice blur together on the night of her thirtieth birthday.
 
 ####Venue + Booking Details
-Date: (Thursday 31 January SOLD-OUT) Friday 1 February 2013, 8pm    
+Date: (Thursday 31 January + Friday 1 February 2013, 8pm. SOLD-OUT)    
 [Venue: The Lowry – Studio](http://www.thelowry.com/plan-your-visit/getting-here/), Pier 8, Salford Quays, M50 3AZ    
 [Tickets: £10/8](http://www.thelowry.com/event/the-secret-life-of-you-and-me)    
 Box Office Tel: 0843 208 6000    
