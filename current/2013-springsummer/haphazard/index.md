@@ -23,7 +23,26 @@ Intriguing images and offbeat oddities dotted around this historic building – 
 
 Playful, quirky, engaging and sometimes plain daft, this is a day for kids and their adults; adults and *their* adults – in short, anyone looking for a different day-out.    
 
-Turn up at any time during the course of the day (12noon-4pm), come and go as you please – there will always be something to do or see.  Performances happen at least twice, and the full schedule will appear here from Monday 4 February.    
+Turn up at any time during the course of the day (12noon-4pm), come and go as you please – there will always be something to do or see and performances happen at least twice.        
+**Schedule:**    
+**Ongoing:**    
+12-4pm    Car Conversations		   Anna Macdonald	    Atrium ramp    
+1230-2pm + 2.30-4pm    
+                 Green, Gas, Grass		   Rachael Nutter			Café    
+                 The Mirror Twins         Angel Club (north)  Café    
+                 Labolis :: Threads         Ultra Violets            meet in Café    
+                 The Game Show           Lydia Hirst              Café upstairs    
+                     
+**Performances:**
+1200  		Synesthetic Moonscape  Volkov Commanders  Café    
+1230  		Kitty has no pity             Katherina Radeva      Atrium     
+1300  		Ping Pong Crash             whatsthebigmistry      Gallery    
+1330  		Bucket Dance                 Robert Foster              Rear Atrium    
+1400  		Synesthetic Moonscape  Volkov Commanders  Café    
+1430  		Kitty has no pity             Katherina Radeva      Atrium     
+1500  		Ping Pong Crash             whatsthebigmistry      Gallery    
+1530  		Bucket Dance                 Robert Foster              Rear Atrium    
+1600  		Haphazard discussion                                        Café    
 
 In the **Café**, expect Volkov Commanders' geometric orchestra, Rachael Nutter's carbon dioxide garden, Angel Club (north's) mischievous *mirror twins* and, **Upstairs**, become contestants in Lydia Hirst's budget recreation of the iconic Crystal Maze *gameshow*... Or take a journey of discovery on Ultra Violets' exploration of the **hidden maze of Z-arts** in search of a Minotaur on the prowl.    
 
