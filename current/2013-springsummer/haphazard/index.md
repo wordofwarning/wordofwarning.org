@@ -26,12 +26,12 @@ Playful, quirky, engaging and sometimes plain daft, this is a day for kids and t
 Turn up at any time during the course of the day (12noon-4pm), come and go as you please – there will always be something to do or see and performances happen at least twice.        
 **Schedule:**    
 **Ongoing:**    
-12-4pm    Car Conversations		   Anna Macdonald	    Atrium ramp    
+12-4pm	Car Conversations			Anna Macdonald	Atrium ramp    
 1230-2pm + 2.30-4pm    
-                 Green, Gas, Grass		   Rachael Nutter			Café    
-                 The Mirror Twins         Angel Club (north)  Café    
-                 Labolis :: Threads         Ultra Violets            meet in Café    
-                 The Game Show           Lydia Hirst              Café upstairs    
+				Green, Gas, Grass			Rachael Nutter		Café    
+				The Mirror Twins			Angel Club (north)	Café    
+				Labolis :: Threads			Ultra Violets			meet in Café    
+				The Game Show				Lydia Hirst				Café upstairs    
                      
 **Performances:**
 1200  		Synesthetic Moonscape  Volkov Commanders  Café    
