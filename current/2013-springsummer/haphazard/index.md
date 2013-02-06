@@ -44,7 +44,8 @@ Enter [*LABOLIS*](http://vimeo.com/33027206)... getting lost is just the beginni
 A shape-shifting maze in an urban metropolis – immersing players of all ages in fantasy spaces, it seeks to test the wits and sharpen senses through fun and games. Come creep, sneak, frolic and guess your way through riddle-solving realms where live creatures roam; star’s will charm you with their stories and nothing is quite what it seems. This time, a Minotaur is on the prowl...    
 
 ![Volkov Commanders](volkov.jpg)    
-*Synesthetic Moonscape* – [**Volkov Commanders**](http://www.volkovcommanders.co.uk): living geometric shapes make Moon music.            
+*Synesthetic Moonscape* – [**Volkov Commanders**](http://www.volkovcommanders.co.uk):    
+An experimental sound performance by the Volkov Commanders, who are a trio of artists who clambered down to Earth on the Volkov; their large, mechanical woolly mammoth. They constructed the Volkov in their crater on the moon for the sole purpose of flying to Earth to gather information and share what knowledge they had from their home planet. This piece sees the Commanders housed inside large geometric shaped costumes with contact microphones attached to the structures, allowing them to make strange Moon music by playing the costumes like instruments.         
 
 ![The Game Show](gameshow.jpg)    
 *The Gameshow* – **Lydia Hirst**    
