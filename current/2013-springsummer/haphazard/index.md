@@ -29,7 +29,7 @@ Turn up at any time during the course of the day (12noon-4pm), come and go as yo
 
 In the **Café**, expect Volkov Commanders' geometric orchestra, Rachael Nutter's carbon dioxide garden, Angel Club (north's) mischievous *mirror twins* and, **Upstairs**, become contestants in Lydia Hirst's budget recreation of the iconic Crystal Maze *gameshow*... Or take a journey of discovery on Ultra Violets' exploration of the **hidden maze of Z-arts** in search of a Minotaur on the prowl.    
 
-In the **Atrium** meet *Kitty*, a hula-hooping maestro, or listen-in on a miniature highway of talking *cars*... Join a bonkers *bucket dance* in the **Rear Atrium** or take a half-hour breather in the **Gallery** for whatsthebigmistry's *Ping Pong Crash...* Throughout you will be welcomed by friendly *wildlife* – if you **need some help** feel free to badger a badger, outfox fox a fox or just discover a duck.     
+In the **Atrium** meet *Kitty*, a hula-hooping maestro, or listen-in on a miniature highway of talking *cars*... Join a bonkers *bucket dance* in the **Rear Atrium** or take a half-hour breather in the **Gallery** for whatsthebigmistry's *Ping Pong Crash...* Throughout you will be welcomed by friendly *wildlife* – if you **need some help** feel free to badger a badger, tackle a tiger or worry a wolf.  
   
 [**Have a look at our Haphazard image gallery**](/galleries/2013-haphazard/index.html)    
 
@@ -82,10 +82,8 @@ Remember when you were young and carefree? This is a bit like that, but with a t
         
 ![Ping Pong Crash](priya.jpg)    
 *Ping Pong Crash and Other Sounds* – [**whatsthebigmistry**](http://www.whatsthebigmistry.com)    
-A small orchestra of bodies and objects, performing a score of action and tasks – a performance of falling, inflating and pushing. This performance is conducted as an experiment. All the actions have an arrangement but I can’t say where everything will land.    
-
-Imagine a space going off with an assortment lilos, life jackets and beach balls bouncing off the walls, the sound of 500 ping pong balls falling or a crash box of crockery hitting the floor, a march punctuated by the squeak of pet shop toys...     
-         
+A small orchestra of bodies and objects, performing a score of action and tasks – a performance of falling, inflating and pushing.   Imagine a space going off with an assortment lilos, life jackets and beach balls bouncing off the walls, the sound of 500 ping pong balls falling or a crash box of crockery hitting the floor, a march punctuated by the squeak of pet shop toys…    
+ 
 ![Car Conversations](cars.jpg)    
 *Car Conversations* – [**Anna Macdonald**](http://www.forecastdance.org/car_conversations.html)    
 There is something about being in a car that invites us to talk in ways that we wouldn’t in other places. *Car Conversations* is an installation that consists of thousands of toy cars forming tiny motorways that run along, over and under unusual spaces. Inside some of the cars are miniature speakers so, when you lean in closely, you can hear real recordings of people on car journeys as they sing, shout and ask ‘are we nearly there yet?’    
