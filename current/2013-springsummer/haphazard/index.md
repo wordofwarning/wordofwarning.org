@@ -41,7 +41,7 @@ In the **Atrium** meet *Kitty*, a hula-hooping maestro, or listen-in on a miniat
 *LABOLIS :: Threads* – [**Ultra Violets**](http://www.ultraviolets.org.uk)    
 Enter [*LABOLIS*](http://vimeo.com/33027206)... getting lost is just the beginning.   
             
-A shape-shifting maze in an urban metropolis – immersing players of all ages in fantasy spaces, it seeks to test the wits and sharpen senses through fun and games. Come creep, sneak, frolic and guess your way through riddle-solving realms where live creatures roam; star’s will charm you with their stories and nothing is quite what it seems. This time, a Minotaur is on the prowl...    
+A shape-shifting maze in an urban metropolis – immersing players of all ages in fantasy spaces, it seeks to test the wits and sharpen senses through fun and games. Come creep, sneak, frolic and guess your way through riddle-solving realms where live creatures roam; stars will charm you with their stories and nothing is quite what it seems. This time, a Minotaur is on the prowl...    
 
 ![Volkov Commanders](volkov.jpg)    
 *Synesthetic Moonscape* – [**Volkov Commanders**](http://www.volkovcommanders.co.uk):    
