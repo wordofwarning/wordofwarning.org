@@ -81,7 +81,7 @@ Anna Fenemore, Artistic Director + Performer, is a lecturer in Theatre and Perfo
 Gillian Knox, Deviser, Performer + Co-Producer, has worked as a performer with Pigeon Theatre since 2001.  A lecturer at LIPA and an associate lecturer at the University of Leeds, she has also worked with writer Mark Griffiths to direct *The Impossibility Club for Rookie Theatre* and with PickleHerring Theatre, as a workshop facilitator and performer/maker making site work around environmental themes.    
   
 ####Credits         
-A collaboration with Cognitive Neuroscientist Dr Colin Lever at the University of Durham; an outcome of the Wellcome Trust-funded project *Site and Smell*; supported by the University of Leeds and hÅb.
+A collaboration with Cognitive Neuroscientist Dr Colin Lever at the University of Durham; an outcome of the Wellcome Trust-funded project *Site and Smell*; supported using public funding by Arts Council England, and by the University of Leeds and hÅb.
 
 ####Websites
 [www.pigeontheatre.com](http://www.pigeontheatre.com)  
