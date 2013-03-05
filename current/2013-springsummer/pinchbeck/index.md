@@ -61,10 +61,14 @@ Developed at Lakeside Arts Centre (Nottingham), Leeds Met Studio Theatre, Loughb
 [www.michaelpinchbeck.co.uk](http://www.michaelpinchbeck.co.uk)    
 [www.makingthebeginning.tumblr.com](http://www.makingthebeginning.tumblr.com)   
 
-![The Debutants](header_debut_photo.jpg)     
+![The Debutants](Debut.jpg)     
 
 ###Debut – Michael Pinchbeck + The Debutants         
 ####More    
+*"They are here but they are not here"*    
+
+Somewhere between a sweaty Macarena and an unfulfilled vow lies *Debut*. An eclectic mix of 'first times' that will be revisited in an attempt to uncover how we dealt with the initial nerves, excitement and the anti climax of performing. It is a journey back to the start via everything in between.    
+
 Contemporary Theatre Practice students from the University of Salford have worked with live artist and writer, Michael Pinchbeck, to devise a piece that reflects on their own experiences of walking onstage for the first time. They may have been nervous. They may have forgotten their lines. They may have missed their entrance. These stories are a starting point for a show that looks at beginnings through the lens of what it means to perform. *Debut* asks what we do when we walk onstage and why we walk onstage in the first place.    
    
 ####Website
