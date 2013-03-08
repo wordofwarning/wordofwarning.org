@@ -5,8 +5,8 @@ layout: 2013-poolside
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "70/30 Split"
-show: "Content: part 1"
+artist: "''Poolside Emergency"
+show: "Durational work 12-1400"
 
 # ABOUT THE SHOW - LAYOUT
 header_image: "header_pe_photo.jpg"
