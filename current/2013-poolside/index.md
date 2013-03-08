@@ -26,7 +26,8 @@ Previously at 'Poolside: A hunting party leading a charge and visceral experimen
 
 Drop-in for ten minutes or stay throughout - a free day-out for the curious.
 
-Participating artists (subject to change):  A Bottle Top Productions | Fiona Anderson | Katy Baird | Lindsay Bennett | David Bethell | Megan Clark-Bagnall | Jack Coverdale | Façade Theatre | Frances-Kay | Rachel Gomme | Kitty Graham | Sarah Grainger-Jones | Martin Hamblen | Lara Haworth & Lucy Hayhoe | Michelle Man & Lauren McGowan | Sophie Nathan | Julieann O'Malley | Louise Orwin | Paper People Theatre | Xristina Penna/aswespeakproject| PGB | Rebekka Platt | Rosanne Robertson | Sarah Spanton/Waymarking | Sam Treadaway   
+Participating artists (subject to change):    
+A Bottle Top Productions | Fiona Anderson | Katy Baird | Lindsay Bennett | David Bethell | Megan Clark-Bagnall | Jack Coverdale | Façade Theatre | Frances-Kay | Rachel Gomme | Kitty Graham | Sarah Grainger-Jones | Martin Hamblen | Lara Haworth & Lucy Hayhoe | Michelle Man & Lauren McGowan | Sophie Nathan | Julieann O'Malley | Louise Orwin | Paper People Theatre | Xristina Penna/aswespeakproject| PGB | Rebekka Platt | Rosanne Robertson | Sarah Spanton/Waymarking | Sam Treadaway   
 
 ####Venue + Booking Details
 Date: Saturday 13 April 2013, 12noon-5pm    
