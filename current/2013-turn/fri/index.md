@@ -20,7 +20,7 @@ A live sited performance piece, choreographed and performed by hop.skip.jump dan
 **Jo Ashbridge | S.O.S (working title)**   
 SOS, in this case meaning sense of self, but usually a call for help. The piece explores the perception a person has of themselves and the impact the world around us has on this; who we believe ourselves to be, how we became to be that person and how we can be pushed and pulled in many directions by the numerous factors that shape us.    
  
-**Oblique Strategists | In the Loop**
+**Oblique Strategists | In the Loop**    
 Drawn from autobiographic material, which explores differences and similarities between the two performers. A mixture of photographic images, spoken word and movement allows for past reflections and truths to merge with those of the present day, especially as events unfold within the precise moment of live performance.    
       
 **Jessica Butler | Your rights**   
