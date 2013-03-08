@@ -15,11 +15,15 @@ header_image: "header_pe_photo.jpg"
 
 **Julieann O'Malley | Salty Milk: Violation of Expectation**   
 It's human nature to try to make sense of what we do and the choices we make. Salty Milk: Violation of Expectation is an internal echo and exploration of personal and social constructs played out in a timeless space.    
+    
 **Sarah Spanton / Waymarking | City Scribe**   
 The City Scribe measures, marks and reflects on the city, inviting local people to reflect on it too.  The City Scribe is observes and documents the citys architecture, atmosphere and its flows of people through movement.    
- **Paper People Theatre | Here We Remain**    
+ 
+     **Paper People Theatre | Here We Remain**    
 There are three sorts of silence, three bodies waiting. Hers is a silent, active wait. She struggles to stay in motion, to continue waiting. His is a contemplative wait; it frames hers but remains his.  They both are destined to reach the third. Frozen. Her world is built of buttons and wool, meticulously sorted and separated by colour and size, filling her cushions, her shoes and her books. Reaching each corner, each nook, each crevice and pulling it in towards her.    
-   **Rosanne Robertson | Semi-automatic**     	
+    
+
+**Rosanne Robertson | Semi-automatic**     	
 The connection between a subtle movement and an imposing sound.    By connecting body, object, action and sound via the amplified vibration of a surface this piece presents an uncomplicated arrangement exploring control. What we have here is a continuous moment of control charged with the impeding terror of possible loss of control.    
 
 **Frances-Kay | Scaffold**   
