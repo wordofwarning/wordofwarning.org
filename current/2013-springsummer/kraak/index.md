@@ -24,6 +24,7 @@ A live experiment in sound and story, all told in black and white on the silver 
 ####Venue + Booking Details
 Date: Friday 28 March 2013, 7.30-11pm (doors 7pm)   
 Venue: [Kraak](http://www.kraak.co/home/find-us/), 11 Stevenson Square, Manchester, M1 1DB    
+Tickets: Free    
 
 ####More    
 *Panopolis* is an immersive experience - a specially commissioned experiment in sound, storytelling, and audience interaction. The Volkov Commanders are collaborating with three musicians on this combined gig, club night, and performance art event.    
