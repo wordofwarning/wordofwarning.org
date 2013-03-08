@@ -28,7 +28,7 @@ Following four peculiar characters who delve into the uncertainty of the unknown
 **Maelstrom Productions | Preppers**    
 A dark and hilariously disturbing world where four characters dive into action physically and metaphorically.   They spin out of control and find each other, playing on their skills and 'preparation' to survive. Using confessional theatre, contemporary and urban dance styles the Maelstrom Performers weave humility and humanity through chaos, madness and humour.              
 
-**Emma Lansley | Let's Talk to Mia & Butch**    
+**Emma Lansley | Let's Talk to Mia & Butch**    
 Lemon squeezing, patience pushing, game playing, hand holding, inflatable loving, failure facing, wine drinking reality.     
       
 **Joshua Hubbard F\*#''!D	| Cul-de-sac**    
