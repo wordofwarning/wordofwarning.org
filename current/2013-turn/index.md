@@ -20,7 +20,7 @@ show: "Micro-festival of new north west dance."# the name of the show
 ##COMING SOON    
 A two night micro-festival of emerging north west danceworks:  explosive, intimate, graceful and challenging.
 
-Plus a *Mixed Movement* Turn Special on Saturday from 10pm.    
+Plus a Mixed Movement Turn Special on Saturday from 10pm.    
 
 From intimate encounters in tiny cupboards to slow-dancing in the dark; mass ensemble precision to individual grace, Turn 2012 filled Contact to the brim with energy and virtuosity.     
 
