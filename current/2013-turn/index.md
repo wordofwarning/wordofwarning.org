@@ -22,7 +22,9 @@ A two night micro-festival of emerging north west danceworks:  explosive, intima
 
 Plus a *Mixed Movement* Turn Special on Saturday from 10pm.    
 
-From intimate encounters in tiny cupboards to slow-dancing in the dark; mass ensemble precision to individual grace, Turn 2012 filled Contact to the brim with energy and virtuosity. Turn returns in 2013 with fifteen new works featuring (subject to change):    
+From intimate encounters in tiny cupboards to slow-dancing in the dark; mass ensemble precision to individual grace, Turn 2012 filled Contact to the brim with energy and virtuosity.     
+
+Turn returns in 2013 with fifteen new works featuring (subject to change):    
 
 **Friday 19 April**
 hop.skip.jump dance collective | Jo Ashbridge | Oblique Strategists | Jessica Butler | Adam John Roberts | Ian and Jane | Daniela B Larsen & Robert Guy | Ian and Jane      
