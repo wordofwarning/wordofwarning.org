@@ -9,7 +9,7 @@ artist: "'Poolside Emergency"
 show: "Performances"
 
 # ABOUT THE SHOW - LAYOUT
-header_image: "header.jpg"
+header_image: "header_pe_photo.jpg"
 
 ---
 
@@ -19,7 +19,7 @@ Using a bed of earth “ this place of death and decay, as well as creation and 
 A solo performance exploring the futility of language in the face of loss.  The piece references death, mediumship and the struggle to communicate silence    
 
 **Sophie Nathan | 	Lucky Me**    
-A site-specific performance piece, which explores success, status and commodification of identity. The performance operates by re-enacting œtrophy-momentsù we may aspire to, things we have always wanted to achieve.      
+A site-specific performance piece, which explores success, status and commodification of identity. The performance operates by re-enacting œtrophy-momentsù we may aspire to, things we have always wanted to achieve.    
 **Moreno Solinas |	URANUS**    
 A performance for body and voice. Love and sex, need and fear, spirit and fluid. Entertains the audience with song and performance, then sets them a challenge they werent expecting.    
 
