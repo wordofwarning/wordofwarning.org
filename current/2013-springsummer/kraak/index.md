@@ -22,7 +22,7 @@ show: "Panopolis" # the name of the show
 A live experiment in sound and story, all told in black and white on the silver screen. Inspired and influenced by the era of silent film, lo-fi cinematic special effects, mime, mirror-trickery and the film *Metropolis*, the Volkov Commanders are collaborating with musicians David McLean (Tombed Visions/Naked (on Drugs), Yes Blythe (Baptists and Bootleggers), Negra Branca (Gnod/Tesla Tapes) and DJ’s Pumping Iron to bring an evening you an immersive evening of wonder, dancing and entertainment.   
 
 ####Venue + Booking Details
-Date: Friday 28 March 2013, 7.30-11pm (doors 7pm)   
+Date: Thursday 28 March 2013, 7.30-11pm (doors 7pm)   
 [Venue: Kraak](http://www.kraak.co/home/find-us/), 11 Stevenson Square, Manchester, M1 1DB    
 Tickets: FREE    
 
