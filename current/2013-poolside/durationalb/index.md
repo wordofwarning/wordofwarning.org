@@ -41,6 +41,7 @@ I use installation, intervention, time-based media and performance. Inspired by 
 **Michelle Man & Lauren McGowan | i n l i g h t  l e  s  s**    
 A durational, site-sensitive installation-dance piece created through a memory response to a passage way at The Bluecoat, Liverpool. Our proposal stems from a series of visits that have involved observing, sensing, documenting and touching on the space. The passageway is both an outside and inside space, between the private and the public, carving into the body of the building. The choreographic language has emerged from the visceral ability of light to identify directly with human sensation and emotion. 
 i n l i g h t l e s s will exhibit a discreet trail of images, traces from our process, visions between the imagined and the real.    
+![inlightless](inlightless.jpg)    
 
 **A Bottle Top Productions | SNAP!**   
 
