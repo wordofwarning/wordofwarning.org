@@ -36,6 +36,7 @@ Exploring the effects of duration on the mind, body and performance.
 I use installation, intervention, time-based media and performance. Inspired by Duchamp and Beuys my practise is democratic and egalitarian in delivery and execution, reacting to and embracing the laypersons common criticism of contemporary art "I could do that"    
 
 **David Bethell | Constant Gardner**   
+![David Bethell](david_bethell.jpg)    
 
 **Michelle Man & Lauren McGowan | i n l i g h t  l e  s  s**   
 A durational, site-sensitive installation-dance piece created through a memory response to a passage way at The Bluecoat, Liverpool. Our proposal stems from a series of visits that have involved observing, sensing, documenting and touching on the space. The passageway is both an outside and inside space, between the private and the public, carving into the body of the building. The choreographic language has emerged from the visceral ability of light to identify directly with human sensation and emotion. 
