@@ -15,7 +15,7 @@ header_image: "header_pe_photo.jpg"
 
 **Julieann O'Malley | Salty Milk: Violation of Expectation**   
 It's human nature to try to make sense of what we do and the choices we make. Salty Milk: Violation of Expectation is an internal echo and exploration of personal and social constructs played out in a timeless space.    
-![Julieann O'Malley](saltymilkbw1.jpg)
+![Julieann O'Malley](saltymilkbw1.jpg)     
 **Sarah Spanton / Waymarking | City Scribe**   
 The City Scribe measures, marks and reflects on the city, inviting local people to reflect on it too.  The City Scribe is observes and documents the citys architecture, atmosphere and its flows of people through movement.    
  ![City Scribe](city_scribe.jpg)    
