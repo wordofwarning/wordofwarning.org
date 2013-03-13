@@ -9,7 +9,7 @@ artist: "'Poolside Emergency"
 show: "Durational work 12-1400"
 
 # ABOUT THE SHOW - LAYOUT
-header_image: "header_pe_photo.jpg"
+header_image: "header_pool_photo.jpg"
 
 ---
 
