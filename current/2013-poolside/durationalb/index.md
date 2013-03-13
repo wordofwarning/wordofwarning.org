@@ -18,11 +18,14 @@ A piece about the past, about a changing country and a change in culture. 'Twice
 
 **Sam Treadaway | /«**  
 /« , or rewind,  is a live interventional work in which the artist will trace, edit and rupture the architectural space of the Bluecoat gallery, deploying only barrier tape and map pins.   The work is intended to address divisions and borders between  private and public territories. This includes the institutional control and sanction of a given place/space, be that within the 'non-spaces' of urban environments or, indeed, within the gallery setting and by extension the Art World.   
+![Sam Treadaway](Treadaway.jpg)    
 
 **Lindsay Bennett | Inverted Gray**    
 Inspired by the Oscar Wilde novel The Picture of Dorian Gray, this installation presents a transposed interpretation of the performer, creating and maintaining a youthful deity of herself while the audience can witness the deterioration of the live performer. Incorporating ritual, repetition and voice to address the social gender politics in the rituals of women to preserve and project a personal ideal. I cannot speak French, I cannot drink red wine, and I cannot paint without paint, this is an attempt to convince you I can. This Live Art performance installation will last for approximately four hours and you are free to watch and return as many times as you wish.    
+![Lindsay Bennett](LindsayBennett.jpg)    
 **Louise Orwin | Humiliation Piece (for the duration)**    
 Louise wants to be everything to you today- its her last chance. Watch her squirm and struggle through a dastardly game of Truth and Dare controlled and judged by you: shes willing to go that extra mile to keep that smile on your face, but if she fails, she knows punishment lies in your hands. A one-woman crusade to the ultimate exhilarating performance, think Truth-or-Dare meets X-Factor-judgement-day meets Fun-House-gunge-tank: what does entertainment mean to you?    
+![Louise Orwin](orwin.jpg)    
 
 **Rosanne Robertson | Semi-automatic**    
 The connection between a subtle movement and an imposing sound.    By connecting body, object, action and sound via the amplified vibration of a surface this piece presents an uncomplicated arrangement exploring control. What we have here is a continuous moment of control charged with the impeding terror of possible loss of control.    
