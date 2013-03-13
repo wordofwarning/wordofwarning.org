@@ -20,12 +20,10 @@ hÅb maintains the [EmergencyNW e-group](http://groups.yahoo.com/group/emergency
 
 We forward information and opportunities to this group, both our own projects and information we think may be useful; and members can post messages, call outs etc.  We also organise workshare opportunities through the group.    
 
-
-<form method="sign up"action="mailto:emergencynw-subscribe@yahoogroups.com">
-<tr><td colspan="2"><font size="3" face="minion pro">If you would like to join the group</font></td></tr><p/>
-<tr><td valign="top"><font size="3" face="minion pro">E-mail address:</font></td><td valign="top"><input type="text"</td></tr><p/>
-<tr><td valign="top"><font size="3" face="minion pro">All membership requests need to be approved so we can keep the group friendly and relevant, so please tell us a little bit about yourself:</font></td><td valign="top"><input type="text"</td></tr><p/>
-<tr><td colspan="3"><input type="submit" value="Submit"  />&nbsp;</td></tr>
+<form method="sign up"action="mailto:lisamattocks@rocketmail.com">
+<tr><td colspan="2"><font size="2" face="verdana,geneva">Sign up to our newsletter</font></td></tr><p/>
+<tr><td valign="top"><font size="2" face="verdana,geneva">E-mail address:</font></td><td valign="top"><input type="text"</td></tr>
+<tr><td colspan="2"><input type="submit" value="Submit"  />&nbsp;</td></tr>
 </table>
 </form>    
 
