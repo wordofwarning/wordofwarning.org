@@ -5,7 +5,7 @@ layout: 2013-poolside
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "''Poolside Emergency"
+artist: "'Poolside Emergency"
 show: "Limited Capaciy & One to Ones"
 
 # ABOUT THE SHOW - LAYOUT
