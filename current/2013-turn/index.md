@@ -30,7 +30,8 @@ Turn returns in 2013 with fifteen new works, featuring (subject to change):
 hop.skip.jump dance collective | Jo Ashbridge | Oblique Strategists | Jessica Butler | Adam John Roberts | Ian and Jane | Daniela B Larsen & Robert Guy        
 
 **Saturday 20 April, from 7.30pm**  
-The Mustdashios | Percussive Customer Projects | Joseph Lau, Shona Roberts & Joseph While | Tom Bowes Dance | Maelstrom Productions | Emma Lansley | Joshua Hubbard F\*#''!D | **from 10pm** Mixed Movement        
+The Mustdashios | Percussive Customer Projects | Joseph Lau, Shona Roberts & Joseph While | Tom Bowes Dance | Maelstrom Productions | Emma Lansley | Joshua Hubbard F\*#"!D        
+**from 10pm Mixed Movement**        
         
 Have a look at our [gallery](/galleries/2012-turn/index.html) from Turn 2012.    
 
