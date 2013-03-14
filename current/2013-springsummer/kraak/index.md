@@ -5,7 +5,7 @@ layout: 2013-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "The Volkov Commanders" # the name of the artist or company
+artist: "Volkov Commanders" # the name of the artist or company
 show: "Panopolis" # the name of the show
 
 # ABOUT THE SHOW - LAYOUT
