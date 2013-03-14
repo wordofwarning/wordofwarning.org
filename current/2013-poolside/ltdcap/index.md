@@ -6,13 +6,13 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "'Poolside Emergency 2013"
-show: "Limited Capacity + One-To-One Work"
+show: "Limited Capacity + One-To-One"
 
 # ABOUT THE SHOW - LAYOUT
 header_image: "header_pool_photo.jpg"
 
 ---
-**Kitty Graham | The Bare Earth**
+**Kitty Graham | The Bare Earth**        
 *You stand before a bed of earth. Perhaps it is empty, still, peaceful. Perhaps it is not.*        
 Using a bed of earth, “the place of death and decay, as well as creation and growth, and continual transformer of one into the other”, *The Bare Earth* explores what might emerge when unconscious contents are freed in liminal ritual, and how these contents may be transformed by contact with consciousness.        
 ![Kitty Graham](kitty_graham.jpg)    
