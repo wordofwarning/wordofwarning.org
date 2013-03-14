@@ -20,7 +20,7 @@ show: "Micro-festival of new north west dance." # the name of the show
 ##COMING SOON    
 **A two night micro-festival of emerging north west danceworks: explosive, intimate, graceful and challenging.**
 
-Plus: a Mixed Movement Turn Special, Saturday from 10pm.    
+Plus a Mixed Movement Turn Special, Saturday from 10pm.    
 
 From intimate encounters in tiny cupboards to slow-dancing in the dark, mass ensemble precision to individual grace, *Turn 2012* filled Contact to the brim with energy and virtuosity.     
 
@@ -30,8 +30,7 @@ Turn returns in 2013 with fifteen new works, featuring (subject to change):
 Rebekka Platt | hop.skip.jump dance collective | Jo Ashbridge | Oblique Strategists | Jessica Butler | Adam John Roberts | Ian and Jane | Daniela B Larsen & Robert Guy        
 
 **Saturday 20 April, from 7.30pm**  
-The Mustdashios | Percussive Customer Projects | Joseph Lau, Shona Roberts & Joseph While | Tom Bowes Dance | Maelstrom Productions | Emma Lansley | Joshua Hubbard F\*\#\"\!D        
-**from 10pm** Mixed Movement        
+Rebekka Platt | The Mustdashios | Percussive Customer Projects | Joseph Lau, Shona Roberts & Joseph While | Tom Bowes Dance | Maelstrom Productions | Emma Lansley | Joshua Hubbard F\*\#\"\!D | **from 10pm** Mixed Movement        
         
 Have a look at our [gallery](/galleries/2012-turn/index.html) from Turn 2012.    
 
