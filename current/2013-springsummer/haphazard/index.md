@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: 2013-springsummer
+layout: 2013-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -98,3 +98,6 @@ Date: Saturday 9 February 2013, 12noon-4pm
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
 Tickets: FREE    
 Box Office Tel: 0161 232 6089
+
+####Credits
+Co-produced by hÅb + Z-arts
