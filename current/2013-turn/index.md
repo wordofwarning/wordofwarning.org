@@ -27,7 +27,7 @@ From intimate encounters in tiny cupboards to slow-dancing in the dark, mass ens
 Turn returns in 2013 with fifteen new works, featuring (subject to change):    
 
 **Friday 19 April, from 7.30pm**    
-hop.skip.jump dance collective | Jo Ashbridge | Oblique Strategists | Jessica Butler | Adam John Roberts | Ian and Jane | Daniela B Larsen & Robert Guy        
+Rebekka Platt | hop.skip.jump dance collective | Jo Ashbridge | Oblique Strategists | Jessica Butler | Adam John Roberts | Ian and Jane | Daniela B Larsen & Robert Guy        
 
 **Saturday 20 April, from 7.30pm**  
 The Mustdashios | Percussive Customer Projects | Joseph Lau, Shona Roberts & Joseph While | Tom Bowes Dance | Maelstrom Productions | Emma Lansley | Joshua Hubbard F\*\#\"\!D        
