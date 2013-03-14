@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: 2013-springsummer
+layout: 2013-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -41,7 +41,7 @@ Lowri's website is beautiful – we couldn't sum it up any better than her pictu
 ####Who is she?
 Lowri is a Manchester based live artist whose work draws upon a background in visual art, experience in performance and commitment to social engagement. Over the last few years she has worked with National Theatre of Scotland, Tate Liverpool, Cornerhouse, Contact Theatre, Hatch, Islington Mill, hÅb, The Lowry, Quarantine, Eggs Collective, David Hoyle, Small Things, Weeding Cane, Salford University and Grupo XIX de Teatro. She is also in girl band Hotpants Romance, who have released two albums and toured the world.    
     
- ![Live Letter](Lowri-Evans-Image-3.jpg)    
+![Live Letter](Lowri-Evans-Image-3.jpg)    
    
 *"I am interested in human experience, the mundane and the miraculous. I try to strip information away to the barest truth, to the startling and underwhelming inside of things, often starting with the autobiographical. I am fascinated by the blurring of art and real life, and play as much as I can with that, subsequently my life appears in my work and I also take my work out to non-art spaces and connect with people from all walks of life."*   
 
@@ -58,6 +58,4 @@ Photography by Layla Sailor.
 [www.thelowri.com](http://www.thelowri.com)    
 [@lowrievans](www.twitter.com/lowrievans)
      
-![The Secret Life of You and Me](lowri_brochure.jpg)    
-
- 
+![The Secret Life of You and Me](lowri_brochure.jpg)
