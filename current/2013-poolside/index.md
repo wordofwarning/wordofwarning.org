@@ -17,17 +17,17 @@ show: "Mayhem on Merseyside." # the name of the show
 ---
 *Presented by* Word of Warning + the Bluecoat          
 
-##COMING SOON...    
-Mayhem on Merseyside: a day-long splash of live art and performance at the Bluecoat.
+##COMING SOON    
+**A day-long splash of live art and performance in Liverpool**
 
-Mayhem on Merseyside: Returning for its third frenetic outing, this mini-marathon of the weird and the wonderful, the bizarre and the breathtaking takes over at the Bluecoat.
+Mayhem on Merseyside: returning for its third frenetic outing, this mini-marathon of the weird and the wonderful, the bizarre and the breathtaking takes over at the Bluecoat.
 
-Previously at 'Poolside: A hunting party leading a charge and visceral experiments with butter and treacle.  Slow-dances in the lifts and singing in the toilets; mermaids in the cupboards and bucket-dancing in the stairwells.
+Previously at 'Poolside: a hunting party leading a charge and visceral experiments with butter and treacle; slow-dances in the lifts and singing in the toilets; mermaids in the cupboards and bucket-dancing in the stairwells.
 
-Drop-in for ten minutes or stay throughout - a free day-out for the curious.
+Drop-in for ten minutes or stay throughout – a free day-out for the curious.
 
 Participating artists (subject to change):    
-A Bottle Top Productions | Fiona Anderson | Lindsay Bennett | David Bethell | Megan Clark-Bagnall | Jack Coverdale | Façade Theatre | Frances-Kay | Rachel Gomme | Kitty Graham | Sarah Grainger-Jones | Martin Hamblen | Lara Haworth & Lucy Hayhoe | Michelle Man & Lauren McGowan | Sophie Nathan | Julieann O'Malley | Louise Orwin | Paper People Theatre | Xristina Penna/aswespeakproject| PGB | Rebekka Platt | Rosanne Robertson | Sarah Spanton/Waymarking | Sam Treadaway   
+A Bottle Top Productions | Fiona Anderson | Lindsay Bennett | David Bethell | Megan Clark-Bagnall | Jack Coverdale | Façade Theatre | Frances-Kay | Rachel Gomme | Kitty Graham | Sarah Grainger-Jones | Martin Hamblen | Lara Haworth & Lucy Hayhoe | Michelle Man & Lauren McGowan | Sophie Nathan | Julieann O'Malley | Louise Orwin | Paper People Theatre | Xristina Penna/aswespeakproject | PGB | Rebekka Platt | Rosanne Robertson | Moreno Solinas | Sarah Spanton/Waymarking | Sam Treadaway   
 
 ####Venue + Booking Details
 Date: Saturday 13 April 2013, 12noon-5pm    
