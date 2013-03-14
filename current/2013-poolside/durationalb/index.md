@@ -5,7 +5,7 @@ layout: 2013-poolside
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "'Poolside Emergency"
+artist: "'Poolside Emergency 2013"
 show: "Durational Work: 2pm-5pm"
 
 # ABOUT THE SHOW - LAYOUT
@@ -20,11 +20,10 @@ A piece about the past, about a changing country and a change in culture. A piec
 ![Sam Treadaway](Treadaway.jpg)    
         
 **Lindsay Bennett | Inverted Gray**    
-Inspired by Oscar Wilde's novel *The Picture of Dorian Gray*, this installation presents a transposed interpretation of the performer, creating and maintaining a youthful deity of herself while the audience can witness the deterioration of the live performer. *Inverted Gray* incorporates ritual, repetition and voice to address the social gender politics in the rituals of women to preserve and project a personal ideal.        
+Inspired by Oscar Wilde's novel *The Picture of Dorian Gray*, this installation presents a transposed interpretation of the performer, creating and maintaining a youthful deity of herself while the audience can witness the deterioration of the live performer. Incorporating ritual, repetition and voice to address the social gender politics in the rituals of women to preserve and project a personal ideal, you are free to watch and return as many times as you wish.       
 *I cannot speak French, I cannot drink red wine, and I cannot paint without paint, this is an attempt to convince you I can.*        
-You are free to watch and return as many times as you wish.    
 ![Lindsay Bennett](LindsayBennett.jpg)    
-        
+       
 **Louise Orwin | Humiliation Piece (for the duration)**    
 Louise wants to be everything to you today – it's her last chance. Watch her squirm and struggle through a dastardly game of Truth and Dare controlled and judged by you: she's willing to go that extra mile to keep that smile on your face, but if she fails, she knows punishment lies in your hands.        
 A one-woman crusade to the ultimate exhilarating performance, think Truth-or-Dare meets X-Factor-judgement-day meets Fun-House-gunge-tank: what does entertainment mean to you?    
