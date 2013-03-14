@@ -7,7 +7,7 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Turn 2013" # the name of the artist or company
-show: "Micro-festival of new north west dance."# the name of the show
+show: "Micro-festival of new north west dance." # the name of the show
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -18,27 +18,27 @@ show: "Micro-festival of new north west dance."# the name of the show
 *Presented by* Word of Warning + Contact    
 
 ##COMING SOON    
-A two night micro-festival of emerging north west danceworks:  explosive, intimate, graceful and challenging.
+**A two night micro-festival of emerging north west danceworks**        
+**explosive, intimate, graceful and challenging**
 
-Plus a Mixed Movement Turn Special on Saturday from 10pm.    
+Plus: a Mixed Movement Turn Special, Sat 20 Apr from 10pm.    
 
-From intimate encounters in tiny cupboards to slow-dancing in the dark; mass ensemble precision to individual grace, Turn 2012 filled Contact to the brim with energy and virtuosity.     
+From intimate encounters in tiny cupboards to slow-dancing in the dark, mass ensemble precision to individual grace, *Turn 2012* filled Contact to the brim with energy and virtuosity.     
 
-Turn returns in 2013 with fifteen new works featuring (subject to change):    
+Turn returns in 2013 with fifteen new works, featuring artists (subject to change):    
 
-**Friday 19 April**    
-hop.skip.jump dance collective | Jo Ashbridge | Oblique Strategists | Jessica Butler | Adam John Roberts | Ian and Jane | Daniela B Larsen & Robert Guy |    
-   
-**Saturday 20 April**  
-The Mustdashios | Percussive Customer Projects | Joseph Lau, Shona Roberts & Joseph While | Tom Bowes Dance |Maelstrom Productions | Emma Lansley | Joshua Hubbard F\*#''!D      
-plus a Mixed Movement Turn Special.    
+**Friday 19 April, from 7.30pm**    
+hop.skip.jump dance collective | Jo Ashbridge | Oblique Strategists | Jessica Butler | Adam John Roberts | Ian and Jane | Daniela B Larsen & Robert Guy        
 
-Have a look at the [gallery](/galleries/2012-turn/index.html) of 2012's event.    
+**Saturday 20 April, from 7.30pm**  
+The Mustdashios | Percussive Customer Projects | Joseph Lau, Shona Roberts & Joseph While | Tom Bowes Dance | Maelstrom Productions | Emma Lansley | Joshua Hubbard F\*#''!D | **from 10pm:** Mixed Movement        
+         
+Have a look at our [gallery](/galleries/2012-turn/index.html) from Turn 2012.    
 
 ####Venue + Booking Details
-Date: Friday 19 + Saturday 20 April 2013, 7.30pm    
+Dates: Friday 19 + Saturday 20 April 2013, 7.30pm    
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
-[Tickets: £8/5](http://contactmcr.com/whats-on/1201-turn-2013/)    
+[Tickets: £8/5 each night (2 night pass £10/6)](http://contactmcr.com/whats-on/1201-turn-2013/)    
 Box Office Tel: 0161 274 0600   
        
 ####Credits         
