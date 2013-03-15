@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: 2013-worksahead
+layout: 2013-woah
 rootpath: "../../"
 is_index: true
 
@@ -17,23 +17,25 @@ show: "Work that moves + work that speaks to you." # the name of the show
 ---
 *Presented by* Word of Warning + Contact          
 
-##COMING SOON    
-**A day-long splash of live art and performance in Liverpool**
+**Friday 2 May, from 7.30pm**    
+70/30 Split | Two Do: A Performance        
+Kitty Graham | The Bare Earth        
+Joseph Lau | Staff ID: 5201        
+Ellen Turner | Car-Door (winner Turn Prize 2012)        
+        
+**Saturday 3 May, from 7.30pm**          
+Lena Simic | 1994        
+Façade Theatre | Celladour       
+Wayne Steven Jackson | (Rewind) & Two        
 
-Mayhem on Merseyside: returning for its third frenetic outing, this mini-marathon of the weird and the wonderful, the bizarre and the breathtaking takes over at the Bluecoat.
-
-Previously at 'Poolside: a hunting party leading a charge and visceral experiments with butter and treacle; slow-dances in the lifts and singing in the toilets; mermaids in the cupboards and bucket-dancing in the stairwells.
-
-Drop-in for ten minutes or stay throughout – a free day-out for the curious.
-
-Participating artists (subject to change):    
-A Bottle Top Productions | Fiona Anderson | Lindsay Bennett | David Bethell | Megan Clark-Bagnall | Jack Coverdale | Façade Theatre | Frances-Kay | Rachel Gomme | Kitty Graham | Sarah Grainger-Jones | Martin Hamblen | Lara Haworth & Lucy Hayhoe | Michelle Man & Lauren McGowan | Sophie Nathan | Julieann O'Malley | Louise Orwin | Paper People Theatre | Xristina Penna + aswespeakproject | PGB | Rebekka Platt | Rosanne Robertson | Moreno Solinas | Sarah Spanton / Waymarking | Sam Treadaway   
+Have a look at our [gallery](/galleries/2012-woah/index.html) from Works Ahead 2012.    
 
 ####Venue + Booking Details
-Date: Saturday 13 April 2013, 12noon-5pm    
-[Venue: the Bluecoat](http://www.thebluecoat.org.uk/content/index/visitor-info), School Lane, Liverpool, L1 3BX    
-Tickets: FREE    
-Box Office Tel: 0151 702 532    
-
+Dates: Friday 2 + Saturday 3 May 2013, 7.30pm    
+[Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
+[Tickets: £5/3 (2 night pass £8/5)](http://contactmcr.com/worksahead/)    
+Box Office Tel: 0161 274 0600   
+       
 ####Credits         
-Co-produced by hÅb + the Bluecoat.
+Co-produced by hÅb + Contact.       
+Turn Prize 2012 supported by Dance initiative Greater Manchester + Live at LICA.
