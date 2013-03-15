@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: 2013-springsummer
+layout: 2013-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -71,4 +71,4 @@ Co-commissioned by Royal Opera House (ROH2), London, Dance4 and New Art Exchange
 [www.hetainpatel.com](http://www.hetainpatel.com)     
 [@HetainPatel1](http://twitter.com/hetainpatel1)    
 
-![BLW](amsterdam4.jpg)    
+![BLW](amsterdam4.jpg)
