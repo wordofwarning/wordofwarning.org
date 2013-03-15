@@ -1,34 +1,43 @@
 ---
 
 # CONFIGURATION
-layout: 2013-poolside
+layout: 2013-woah
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "'Poolside Emergency 2013"
-show: "Limited Capacity + One-To-One"
+artist: "Lena Simic"
+show: "1994"
 
 # ABOUT THE SHOW - LAYOUT
-header_image: "header_pool_photo.jpg"
+header_image: "header_1994_photo.jpg"
 
 ---
-**Kitty Graham | The Bare Earth**        
-*You stand before a bed of earth. Perhaps it is empty, still, peaceful. Perhaps it is not.*        
-Using a bed of earth, “the place of death and decay, as well as creation and growth, and continual transformer of one into the other”, *The Bare Earth* explores what might emerge when unconscious contents are freed in liminal ritual, and how these contents may be transformed by contact with consciousness.        
-![Kitty Graham](kitty_graham.jpg)    
-        
-**PGB | FTSE**    
-*I have a secret. Do you have a secret?*        
-We all have secrets. Some we will share and some we won't. What is your secret worth? I'll tell you mine if you tell me yours...    
-        
-**Rachel Gomme | Handover**    
-*If I give you my hand, will you give me yours?*        
-An invitation to a brief exchange of touch that leaves a lasting trace.     
-![Rachel Gomme](rachel_gomme_handover_latitude.jpg)    
-     
-**Rebekka Platt | The Body (extract/work-in-progress)**    
-A murder mystery. Investigating classic film noir, a body is found in the city centre: engage and uncover the mystery of how she happened to get there and who she happens to be. *The Body* brings together live dance/movement, music and digital technology to offer an intriguing and imaginative performance experience.    
-        
-**Lara Haworth & Lucy Hayhoe | Citizens Exchange Bureau**    
-Haworth & Hayhoe are live artists who create participatory installations that ask audiences to re-imagine or reinterpret their lived environments. Previous works include The Library Project and Cupid (collaborations); home sweet home (Hayhoe); Customs and Border Patrol (Haworth). *Citizens Exchange Bureau* premiered at Buzzcut Festival in Glasgow, March 2013.    
-![Citizens Exchange Bureau](citizensexchangebureau.jpg)    
+####In Brief:
+A homage to Kurt Cobain, lost youth, impossible and failed encounters from a life lived retrospectively.    
+
+####More:    
+This solo performance is a story about 1994.    
+
+A series of memory excerpts. An exploration of lost youth and ageing. The rise and fall of Nirvana.    
+
+A mix of historical, political and popular references. The Balkan War and its atrocities. Grunge and the suicide of Kurt Cobain. Inertia. Seduction. A number of the boys I kissed. My failed move to Seattle.    
+
+This piece is about the troubling thrill of living life retrospectively.    
+
+*I found myself thinking about Kurt Cobain during Live Art therapy workshop with Oriana Fox in Grizedale Forest in the Lake District. 'There she is with her hands, her arms in the air with the objects above her, her hair almost like Kurt Cobain’s, all that blond and kind of scruffy.*    
+
+####Who is she?    
+Lena Simic, performance practitioner and pedagogue, born in Dubrovnik, Croatia, living in Liverpool, UK. Co-organizer of The Institute for the Art and Practice of Dissent at Home, an art activist initiative run from her family home. Lena's autobiographical performance practice is informed by its relation to everyday lived experience, memory and fantasy.    
+
+In 1994 I was 19. Kurt Cobain was 27 when he died. I kissed 12 boys in 1994.    
+
+####What people have said about her?    
+>*Lena is an extraordinary performer and writer with a captivating presence. As a maker her work is original, unique and extremely authentic. Her work is so refreshingly different - personal yet utterly accessible.*<br> Helen Paris and Leslie Hill – Curious    
+
+>*Lena Simic is a dynamic performer of outstanding ability. The text resonates with humour and rage both engaging and challenging the audience from the moment she announces her arrival on stage.*<br> Louie Jenkins, Senior Lecturer in Performing Arts, University of Chichester    
+
+>*I just wanted to let you know that I was incredibly moved by your performance. I couldn't quite understand the effect that it had on me but I was definitely moved to tears!* Email from a student    
+
+####Website
+[www.lenasimic.org](http://www.lenasimic.org)    
+
