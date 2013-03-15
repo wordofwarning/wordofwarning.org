@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: 2013-springsummer
+layout: 2013-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -46,8 +46,10 @@ Harking back to Plane Performance’s *Re-placing Texts* trilogy, produced and t
 After a break of nearly seven years, *Three Sisters* marks the return of Plane Performance: returning to home territory but breaking new ground in the process. Once again directed by Neil Mackenzie, it features long time collaborator Niki Woods, Belgian theatre artist Leentje Van De Cruys and new performer Georgia Dawson.    
 
 Plane Performance is an experimental theatre company formed in 1992. Concerned with the construction of contemporary theatre through the deconstruction of existing performance texts, more recently Plane Performance has also been involved in the production of other theatre events and festivals.  
-Founding director, Neil Mackenzie (also Artistic Director of the Axis Arts Centre, Crewe and Flare International Festival of New Theatre), works in collaboration with a number of regular performers, most frequently Niki Woods, as well as other artistic associates. Based in Manchester, Plane Performance have performed widely in England as well as in Germany and Croatia.     
-####What people have said about them    
+
+Founding director, Neil Mackenzie (also Artistic Director of the Axis Arts Centre, Crewe and Flare International Festival of New Theatre), works in collaboration with a number of regular performers, most frequently Niki Woods, as well as other artistic associates. Based in Manchester, Plane Performance have performed widely in England as well as in Germany and Croatia.     
+
+####What people have said about them    
 Recent press for work by Neil Mackenzie:
 >*Experimental, dangerous, funny and occasionally profound …precisely the stuff of which great fringe experiences are made*<br>The Stage, on *Nicki Hobday Conquers Space*, directed by Neil Mackenzie.
 
