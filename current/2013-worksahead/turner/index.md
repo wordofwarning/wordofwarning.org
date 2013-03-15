@@ -1,34 +1,42 @@
 ---
 
 # CONFIGURATION
-layout: 2013-poolside
+layout: 2013-woah
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "'Poolside Emergency 2013"
-show: "Limited Capacity + One-To-One"
+artist: "Ellen Turner"
+show: "Car-Door Moment"
 
 # ABOUT THE SHOW - LAYOUT
-header_image: "header_pool_photo.jpg"
+header_image: "header_ellen_photo.jpg"
 
 ---
-**Kitty Graham | The Bare Earth**        
-*You stand before a bed of earth. Perhaps it is empty, still, peaceful. Perhaps it is not.*        
-Using a bed of earth, “the place of death and decay, as well as creation and growth, and continual transformer of one into the other”, *The Bare Earth* explores what might emerge when unconscious contents are freed in liminal ritual, and how these contents may be transformed by contact with consciousness.        
-![Kitty Graham](kitty_graham.jpg)    
-        
-**PGB | FTSE**    
-*I have a secret. Do you have a secret?*        
-We all have secrets. Some we will share and some we won't. What is your secret worth? I'll tell you mine if you tell me yours...    
-        
-**Rachel Gomme | Handover**    
-*If I give you my hand, will you give me yours?*        
-An invitation to a brief exchange of touch that leaves a lasting trace.     
-![Rachel Gomme](rachel_gomme_handover_latitude.jpg)    
-     
-**Rebekka Platt | The Body (extract/work-in-progress)**    
-A murder mystery. Investigating classic film noir, a body is found in the city centre: engage and uncover the mystery of how she happened to get there and who she happens to be. *The Body* brings together live dance/movement, music and digital technology to offer an intriguing and imaginative performance experience.    
-        
-**Lara Haworth & Lucy Hayhoe | Citizens Exchange Bureau**    
-Haworth & Hayhoe are live artists who create participatory installations that ask audiences to re-imagine or reinterpret their lived environments. Previous works include The Library Project and Cupid (collaborations); home sweet home (Hayhoe); Customs and Border Patrol (Haworth). *Citizens Exchange Bureau* premiered at Buzzcut Festival in Glasgow, March 2013.    
-![Citizens Exchange Bureau](citizensexchangebureau.jpg)    
+####In Brief    
+*Ever had the urge to jump off a train platform? To slap a random stranger? Or to open the car-door on the motorway?*    
+ 
+We all naturally have impulsive thoughts and through our up bringing in modern day society, we know that to "act" on our impulses could be frowned upon. We have learnt how to hide, ignore and suppress these impulsive urges.....up until now.    
+
+
+####More    
+Car-Door Moment, with its playful charisma will open its arms and embrace all weird, hilarious and outrageous impulsive moments. Ellen Turner will go where no one dares to go, and experience life with out consequences,. A mischievous "tongue-in-cheek" physical dance work that celebrates our most instinctive and impulsive reactions to life.    
+
+Ellen Turner- a young, energetic dance artist, who is twitching with energy brings you Car-Door Moment; A journey of her most common and honest impulsive thoughts. Car-Door Moment goes where no one dares to go and promises to be a mischievous "tongue-in-cheek" physical dance work that celebrates our most instinctive and impulsive reactions to life.    
+
+####Who is she?    
+Ellen Turner is a northern-based dancer and choreographer from Lancaster, who 
+Trained at The Northern School of Contemporary Dance. Ellen started her dancing career by joining Ludus dance company and toured work by Dylan Quinn, Yael Flexer, Ben Wright and Nigel Charnock. She has gone on to work with Maelstrom Dance Company, Brightfurnace Dance Company, and 12 degrees North. She has worked with Gary Clarke and Genevieve Say on her most recent work *5ive.*    
+    
+For the last year and half, Ellen has been perusing her choreographic aspirations by creating her newest work *Car-Door Moment* which won the Turn Prize 2012. She enjoys creating and performing high-energy work, which pushes audiences expectations of dance, whilst creating an entertaining atmosphere.    
+
+####What people have said about her    
+>*Car Door Moment is a fresh, gutsy, funny, daring, challenging and down right honest piece of dance theatre which made me crease with laughter, question my own limits and cringe with embarrassment. A wonderful display of life today from a young female performer with bags of charisma, tons of talent and a true comic at heart. Car Door Moment should be seen by the masses. It will change your life forever*<br>Gary Clarke    
+
+>*Ellen is a very funny young woman and talented dancer who’s ingeniously blended her skills into this extremely engaging piece of theatre.*<br>Helen Gould, Co-Director La Petite Mort    
+ 
+>*The sheer energy and commitment to her performance is completely engaging. Great stuff.*<br>Wieke Erringa, Artistic Director Yorkshire Dance    
+
+####Website
+[ellenturner.webs.com](http://ellenturner.webs.com)    
+[YouTube](http://www.youtube.com/watch?v=gqwmCQa2xGI)    
+[YouTube](http://www.youtube.com/watch?v=Qah3lQXuHM8)    
