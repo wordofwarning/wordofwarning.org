@@ -24,12 +24,12 @@ A double bill by Michael Pinchbeck.
 A pair of beginnings that ask why we take to the stage and what we do when we get there.    
 
 ####Venue + Booking Details
-Date: Friday 15 March 2013, 8pm    
+Date: Friday 15 March 2013, 8pm (Double Bill)        
 [Venue: The Lowry – Studio](http://www.thelowry.com/plan-your-visit/getting-here/), Pier 8, Salford Quays, M50 3AZ    
 [Tickets: £9/7](http://www.thelowry.com/event/the-beginning-debut)    
 Box Office Tel: 0843 208 6000    
 
-##The Beginning – Michael Pinchbeck   
+##Michael Pinchbeck | The Beginning   
 ####More
 *They are professionals.    
 They have learned their lines.     
@@ -63,7 +63,7 @@ Developed at Lakeside Arts Centre (Nottingham), Leeds Met Studio Theatre, Loughb
 
 ![The Debutants](Debut.jpg)     
 
-###Debut – Michael Pinchbeck + The Debutants         
+####Michael Pinchbeck + The Debutants | Debut         
 ####More    
 *"They are here but they are not here"*    
 
