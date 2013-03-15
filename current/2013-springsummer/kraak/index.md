@@ -35,7 +35,7 @@ A series of three interlinked performances, with interludes between. As a perfor
 
 ####Who are they?   
 ARTISTS:    
- **Volkov Commanders**    
+**Volkov Commanders**    
 A unified alter ego from a future of their own making who have travelled from the Moon on the *Volkov*, a large mechanical woolly Mammoth. They strive to continuously evolve and allow themselves to indulge their imaginations and encourage the indulgence of others. They entertain and excite, making work centred on characters that celebrate movement, sound and costume. This takes form through enacting rituals, ceremony, séance and offerings.    
     
 Some of their shows have included a future disco party from the moon, a Royal banquet with traditional Moon food and folk dancing and noisy interruptions at a music festival by a mobile orchestra made up of percussive costumed creatures.   
@@ -58,11 +58,7 @@ Supported using public funding from the National Lottery by Arts Council England
 ####Websites
 [volkovcommanders.co.uk](http://www.volkovcommanders.co.uk)    
 [yesblythe.blogspot.co.uk](http://yesblythe.blogspot.co.uk/)    
-[facebook.com/baptists.bootleggers](https://www.facebook.com/baptists.bootleggers )    
-[facebook.com/TombedVisions](https://www.facebook.com/TombedVisions )    
+[facebook.com/baptists.bootleggers](https://www.facebook.com/baptists.bootleggers)    
+[facebook.com/TombedVisions](https://www.facebook.com/TombedVisions)    
 [tombed-visions.tumblr.com](http://tombed-visions.tumblr.com/)    
-[teslatapes.bandcamp.com/album/negra-branca](http://teslatapes.bandcamp.com/album/negra-branca )     
-
-
-
-
+[teslatapes.bandcamp.com/album/negra-branca](http://teslatapes.bandcamp.com/album/negra-branca)
