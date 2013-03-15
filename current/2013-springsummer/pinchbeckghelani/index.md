@@ -47,7 +47,8 @@ A hÅb micro-commission.
 
 ####Website    
 [www.michaelpinchbeck.co.uk](http://www.michaelpinchbeck.co.uk)     
-   
+
+![Rat, Rose, Bird](header_ghelani2_photo.jpg)    
 
 ##Sheila Ghelani    
 ####More    
