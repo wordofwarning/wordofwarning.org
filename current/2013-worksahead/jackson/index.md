@@ -5,7 +5,7 @@ layout: 2013-woah
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "'Wayne Steven Jackson"
+artist: "Wayne Steven Jackson"
 show: "(rewind) and two"
 
 # ABOUT THE SHOW - LAYOUT
