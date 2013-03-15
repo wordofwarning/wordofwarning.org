@@ -9,7 +9,7 @@ artist: "imitating the dog" # the name of the artist or company
 show: "6 Degrees Below The Horizon" # the name of the show
 artist_size: 2
 show_size: 3
- header_image: "header_itd_photo.jpg"
+header_image: "header_itd_photo.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,7 +17,7 @@ show_size: 3
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning + Z-arts      
+*Presented by* Contact + Word of Warning     
 
 ####In Brief    
 French film meets Edwardian vaudeville on a twisted voyage of consequences.    
