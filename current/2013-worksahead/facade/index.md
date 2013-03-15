@@ -5,8 +5,8 @@ layout: 2013-woah
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "'Poolside Emergency 2013"
-show: "Limited Capacity + One-To-One"
+artist: "'Façade Theatre"
+show: "Celladour"
 
 # ABOUT THE SHOW - LAYOUT
 header_image: "header_facade_photo.jpg"
