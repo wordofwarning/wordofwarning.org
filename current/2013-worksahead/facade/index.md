@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: 2013-poolside
+layout: 2013-woah
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -9,26 +9,24 @@ artist: "'Poolside Emergency 2013"
 show: "Limited Capacity + One-To-One"
 
 # ABOUT THE SHOW - LAYOUT
-header_image: "header_pool_photo.jpg"
+header_image: "header_facade_photo.jpg"
 
 ---
-**Kitty Graham | The Bare Earth**        
-*You stand before a bed of earth. Perhaps it is empty, still, peaceful. Perhaps it is not.*        
-Using a bed of earth, “the place of death and decay, as well as creation and growth, and continual transformer of one into the other”, *The Bare Earth* explores what might emerge when unconscious contents are freed in liminal ritual, and how these contents may be transformed by contact with consciousness.        
-![Kitty Graham](kitty_graham.jpg)    
-        
-**PGB | FTSE**    
-*I have a secret. Do you have a secret?*        
-We all have secrets. Some we will share and some we won't. What is your secret worth? I'll tell you mine if you tell me yours...    
-        
-**Rachel Gomme | Handover**    
-*If I give you my hand, will you give me yours?*        
-An invitation to a brief exchange of touch that leaves a lasting trace.     
-![Rachel Gomme](rachel_gomme_handover_latitude.jpg)    
-     
-**Rebekka Platt | The Body (extract/work-in-progress)**    
-A murder mystery. Investigating classic film noir, a body is found in the city centre: engage and uncover the mystery of how she happened to get there and who she happens to be. *The Body* brings together live dance/movement, music and digital technology to offer an intriguing and imaginative performance experience.    
-        
-**Lara Haworth & Lucy Hayhoe | Citizens Exchange Bureau**    
-Haworth & Hayhoe are live artists who create participatory installations that ask audiences to re-imagine or reinterpret their lived environments. Previous works include The Library Project and Cupid (collaborations); home sweet home (Hayhoe); Customs and Border Patrol (Haworth). *Citizens Exchange Bureau* premiered at Buzzcut Festival in Glasgow, March 2013.    
-![Citizens Exchange Bureau](citizensexchangebureau.jpg)    
+##Façade Theatre        
+####In Brief
+*If you wish to find out what ugly thing may escape from the box I must tell you that it may be a whole family of earthly troubles, it could be greed, envy, lust, pride, sloth, gluttony and wrath, there could be more kinds of naughtiness than it would be any use for me to talk about, and so, I won’t talk about it.*    
+
+####More    
+Three caterpillars await inside a box, mischievous and brimming with anticipation. They are strange little creatures, inquisitive and naive, with one foot neatly bound to the box from whence they came. They are here to perform for you, entertain you, be beautiful for you. From their home they cannot stray too far away, allowing them to peek inside a childlike fantasy world, teetering but not venturing into the nightmare that lies in waiting.    
+
+*If you wish to find out what ugly thing may escape from the box I must tell you that it may be a whole family of earthly troubles, it could be greed, envy, lust, pride, sloth, gluttony and wrath, there could be more kinds of naughtiness than it would be any use for me to talk about, and so, I won’t talk about it.*    
+
+Influenced by the work of James Jean, Butoh, and a sprinkle of Greek mythology, Façade present *Celladour*, a whimsical tale of just how ugly the process of beautification can be. More specifically in reference to the cultural cruelty of Chinese foot binding, administered toittle girls for over 1000 years.    
+
+A softly narrated, highly visual and physical performance told through the actions of three trainee Geishas, and their universal quest to become The Madame Butterfly, the ultimate beauty. *How were they ever going to grow if they did not become uglier first?*    
+
+####Who are they?    
+Façade Theatre is a Manchester based collective founded at the University of Salford by Samantha Vickeridge, Natasha McNicholas and Kate Daley and later joined by Ben Thompson. The company's work is rooted in human nature, exploring, researching and embracing different human experiences. They find inspiration from cultural differences and place them into a framework from which they add our own experiences, sense of humour and playful nostalgic style. Their work is eclectic in nature, defined by each individual project and using a variety of art forms, from performance based practice to photographic augmentation, installation, film and sound art.    
+
+####Website    
+[Facebook](https://www.facebook.com/pages/Facade-Theatre/148891195263202?fref=ts)     

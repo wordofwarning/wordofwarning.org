@@ -16,6 +16,7 @@ show: "Work that moves + work that speaks to you." # the name of the show
 
 ---
 *Presented by* Word of Warning + Contact          
+Work that moves you and work that speaks to you — two very different nights of surprising new performance:    
 
 **Friday 2 May, from 7.30pm**    
 70/30 Split | Two Do: A Performance        
@@ -38,4 +39,4 @@ Box Office Tel: 0161 274 0600
        
 ####Credits         
 Co-produced by hÅb + Contact.       
-Turn Prize 2012 supported by Dance initiative Greater Manchester + Live at LICA.
+Turn Prize 2012 commissioned by Dance initiative Greater Manchester + supported by Live at LICA.     
