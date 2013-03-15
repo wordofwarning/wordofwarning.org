@@ -23,6 +23,6 @@ Using a bed of earth – the place of death and decay, as well as creation and g
 ####Who is she?    
 Kity had M.E for 19 years and pretty much completely missed secondary school, so was educated mostly by daytime TV. When she was 21 she went back to school (with the 15 year olds - socially quite an odd experience) to do some GCSEs and A levels, but after two years  decided to go to Laban and study dance full time, which is what she'd wanted to do all along really.  She spent five years at Laban all together, read a lot of Jung, and became especially interested in making work that explores ideas connected with Paganism and movement as an expression of nature, as well as in Butoh practice.  In the end, although inspired by research into Victor Turner's writing and by Butoh, *The Bare Earth* came about as a result of dream image.    
 
-####ßWebsite    
+####Website    
 [Facebook](http://www.facebook.com/kittyj.graham)    
   
