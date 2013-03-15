@@ -28,6 +28,8 @@ Date: Friday 31 May 2013, 7.30pm (Double Bill)
 Tickets: £8/5    
 Box Office Tel: 0161 232 6089     
 
+![The Middle](header_middle_photo.jpg)    
+
 ##Michael Pinchbeck    
 ####More    
 Inspired by *Hamlet*, *The Middle* is a one-man show devised for a theatre foyer - a liminal space between outside and the inside, the real world and theatre. Hamlet is a character caught in a limbo between *To be or not to be* and by casting his father, Tony Pinchbeck, to play the title role, Michael hopes to explore time passing, aging and the relationship between father and son.    
