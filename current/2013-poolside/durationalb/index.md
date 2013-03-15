@@ -15,8 +15,8 @@ header_image: "header_pool_photo.jpg"
 **Jack Coverdale | Twice Nightly**   
 A piece about the past, about a changing country and a change in culture. A piece about forgotten stars and fading sensibilities in the spit and sawdust theatres which used to dot this country.    
         
-**Sam Treadaway | /«**  
-**/«**, or rewind, is a live interventional work in which the artist will trace, edit and rupture the architectural space of the Bluecoat gallery, deploying only barrier tape and map pins. The work is intended to address divisions and borders between private and public territories; this includes the institutional control and sanction of a given place/space, be that within the 'non-spaces' of urban environments or, indeed, within the gallery setting and by extension the Art World.   
+**Sam Treadaway | «**  
+**«**, or rewind, is a live interventional work in which the artist will trace, edit and rupture the architectural space of the Bluecoat gallery, deploying only barrier tape and map pins. The work is intended to address divisions and borders between private and public territories; this includes the institutional control and sanction of a given place/space, be that within the 'non-spaces' of urban environments or, indeed, within the gallery setting and by extension the Art World.   
 ![Sam Treadaway](Treadaway.jpg)    
         
 **Lindsay Bennett | Inverted Gray**    
