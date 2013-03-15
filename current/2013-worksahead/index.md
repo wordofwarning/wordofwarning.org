@@ -1,13 +1,13 @@
 ---
 
 # CONFIGURATION
-layout: 2013-poolside
+layout: 2013-worksahead
 rootpath: "../../"
 is_index: true
 
 # ABOUT THE SHOW - GENERIC
-artist: "'Poolside Emergency 2013" # the name of the artist or company
-show: "Mayhem on Merseyside." # the name of the show
+artist: "Works Ahead 2013" # the name of the artist or company
+show: "Work that moves + work that speaks to you." # the name of the show
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -15,7 +15,7 @@ show: "Mayhem on Merseyside." # the name of the show
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning + the Bluecoat          
+*Presented by* Word of Warning + Contact          
 
 ##COMING SOON    
 **A day-long splash of live art and performance in Liverpool**
