@@ -29,7 +29,7 @@ Date: Thursday 9 May 2013, pm
 Box Office Tel: 0161 274 0600  
 
 ####More    
-Critically acclaimed imitating the dog (itd) bring their stunning fusion of digitalprojection and story telling to play in their new touring work, *6 DegreesBelow the Horizon*.    
+Critically acclaimed imitating the dog (itd) bring their stunning fusion of digitalprojection and story telling to play in their new touring work, *6 Degrees Below the Horizon*.    
 
 In that strange meeting place between film and theatre, which has become the hallmark of their work, itd create a fable before our eyes as a man on his deathbed attempts to explain to his daughter why he abandoned her as a young child. Moving between the genres of the musical, cinema and vaudeville the audience are drawn into the shadowy world of a mythological European port peopled by sailors, pimps, barflies, policemen and nightclub singers. In this startling new work the audience view the action through a series of moving windows frames and piece together a modern fable of failed dreams, lost love and the guilt of absent fatherhood.    
 
