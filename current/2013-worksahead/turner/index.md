@@ -29,6 +29,8 @@ Trained at The Northern School of Contemporary Dance. Ellen started her dancing 
     
 For the last year and half, Ellen has been perusing her choreographic aspirations by creating her newest work *Car-Door Moment* which won the Turn Prize 2012. She enjoys creating and performing high-energy work, which pushes audiences expectations of dance, whilst creating an entertaining atmosphere.    
 
+![Ellen Turner](Ellen.jpg)    
+
 ####What people have said about her    
 >*Car Door Moment is a fresh, gutsy, funny, daring, challenging and down right honest piece of dance theatre which made me crease with laughter, question my own limits and cringe with embarrassment. A wonderful display of life today from a young female performer with bags of charisma, tons of talent and a true comic at heart. Car Door Moment should be seen by the masses. It will change your life forever*<br>Gary Clarke    
 

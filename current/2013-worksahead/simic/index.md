@@ -29,7 +29,9 @@ This piece is about the troubling thrill of living life retrospectively.
 ####Who is she?    
 Lena Simic, performance practitioner and pedagogue, born in Dubrovnik, Croatia, living in Liverpool, UK. Co-organizer of The Institute for the Art and Practice of Dissent at Home, an art activist initiative run from her family home. Lena's autobiographical performance practice is informed by its relation to everyday lived experience, memory and fantasy.    
 
-In 1994 I was 19. Kurt Cobain was 27 when he died. I kissed 12 boys in 1994.    
+In 1994 I was 19. Kurt Cobain was 27 when he died. I kissed 12 boys in 1994. 
+
+![Lena Simic](lena1994.jpg)    
 
 ####What people have said about her?    
 >*Lena is an extraordinary performer and writer with a captivating presence. As a maker her work is original, unique and extremely authentic. Her work is so refreshingly different - personal yet utterly accessible.*<br> Helen Paris and Leslie Hill – Curious    
@@ -40,4 +42,5 @@ In 1994 I was 19. Kurt Cobain was 27 when he died. I kissed 12 boys in 1994.
 
 ####Website
 [www.lenasimic.org](http://www.lenasimic.org)    
+
 
