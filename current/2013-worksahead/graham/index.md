@@ -25,4 +25,7 @@ Kity had M.E for 19 years and pretty much completely missed secondary school, so
 
 ####Website    
 [Facebook](http://www.facebook.com/kittyj.graham)    
+
+![Kitty Graham](kitty1.jpg)    
+image by Bob France
   
