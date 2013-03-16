@@ -22,9 +22,9 @@ header_image: "header_zilla_photo.jpg"
 ####In Brief    
 A disaster movie for the stage and a story of heroism told with lego.    
 
-Zilla! is a three-part disaster movie for the stage. A story of heroism and tragedy told with lego figures, dinosaur slippers, microphones, business cards and google street view.    
+*Zilla!* is a three-part disaster movie for the stage. A story of heroism and tragedy told with lego figures, dinosaur slippers, microphones, business cards and google street view.    
 
-By turns funny, sad, hypnotic and ridiculous, Zilla! is an epic attempt to look from a different perspective at the cities we live in and the cities we dream of.    
+By turns funny, sad, hypnotic and ridiculous, *Zilla!* is an epic attempt to look from a different perspective at the cities we live in and the cities we dream of.    
 
 ####Venue + Booking Details
 Date: Thursday 13 + Friday 14 June 2013, 7pm (Pt1) + 9pm (Pt2)  
