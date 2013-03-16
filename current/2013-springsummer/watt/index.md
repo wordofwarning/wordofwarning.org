@@ -5,8 +5,8 @@ layout: 2013-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Stuart Silver | Tam Hinton" # the name of the artist or company
-show: "You Look Like Ants | Delicious Monster" # the name of the show
+artist: "Jenna Watt" # the name of the artist or company
+show: "Flâneurs" # the name of the show
 artist_size: 2
 show_size: 3
 
@@ -16,17 +16,16 @@ show_size: 3
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning + Z-arts      
+*Presented by* Contact + Word of Warning 
 
 ####In Brief
 
 ####Venue + Booking Details
-Date: Friday 26 April 2013, 7.30pm (Double Bill)   
-[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
-Tickets: £8/5    
-Box Office Tel: 0161 232 6089     
+Date: Thursday 20 June 2013, 7.30pm   
+[Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
+[Tickets: £8/5](http://contactmcr.com/whats-on/1224-jenna-watt-flaneurs/)   
+Box Office Tel: 0161 274 0600   
 
-##Stuart Silver
 ####More
 
 ####Who is he?
