@@ -25,11 +25,13 @@ Influenced by the work of James Jean, Butoh, and a sprinkle of Greek mythology, 
 
 A softly narrated, highly visual and physical performance told through the actions of three trainee Geishas, and their universal quest to become The Madame Butterfly, the ultimate beauty. *How were they ever going to grow if they did not become uglier first?*    
 
+![Celladoru](celladour2.jpg)   
+
 ####Who are they?    
 Façade Theatre is a Manchester based collective founded at the University of Salford by Samantha Vickeridge, Natasha McNicholas and Kate Daley and later joined by Ben Thompson. The company's work is rooted in human nature, exploring, researching and embracing different human experiences. They find inspiration from cultural differences and place them into a framework from which they add our own experiences, sense of humour and playful nostalgic style. Their work is eclectic in nature, defined by each individual project and using a variety of art forms, from performance based practice to photographic augmentation, installation, film and sound art.    
 
 ####Website    
 [Facebook](https://www.facebook.com/pages/Facade-Theatre/148891195263202?fref=ts)     
 
-![Celladoru](celladour2.jpg)    
+ 
 
