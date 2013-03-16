@@ -5,7 +5,7 @@ layout: 2013-woah
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "70.30 Split"
+artist: "70/30 Split"
 show: "Two Do: A Performance"
 
 # ABOUT THE SHOW - LAYOUT
