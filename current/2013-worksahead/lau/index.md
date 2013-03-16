@@ -13,5 +13,7 @@ header_image: "header_lau_photo.jpg"
 
 ---
 ####In Brief    
-This is a new solo work under development.  The main themes and questions are about the value of being human, globalisation, and the economics of being a human resource.     
+This is a new solo work under development.  The main themes and questions are about the value of being human, globalisation, and the economics of being a human resource.         
+
+![Joseph Lau](joe.jpg)    
 

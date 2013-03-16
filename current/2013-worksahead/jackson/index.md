@@ -34,7 +34,9 @@ We keep rewinding.
 Past the strangers facing each other as they walk away from one other, past them walking backwards into their houses, past waking back into sleep that morning, past them sleeping in reverse, past you wanting them to meet, past you willing them to have their happy ending, past the choir singing the air back into their mouths, past the opening credits popping and waning into the screen, past the lights fading on, past you leaving your found seat, past you preparing to take the role of an audience, to the moment the doors swing close to open the house.   
 And now, we can begin.*  
 
-Wayne Steven Jackson creates ‘poignant, beautiful and clever’ work.  Melding film and liveness he confronts the fleeting moments of performance and explores ideas of memory and of being.  He would like to take this opportunity to thank hÅb for nine years of continued support.    
+Wayne Steven Jackson creates ‘poignant, beautiful and clever’ work.  Melding film and liveness he confronts the fleeting moments of performance and explores ideas of memory and of being.  He would like to take this opportunity to thank hÅb for nine years of continued support.   
+ 
+![Wayne Jackson](wayne.jpg)    
 
 ####Who is he?   
 Wayne Steven Jackson was the three year old boy who swallowed a pound coin in his mum and dad’s bedroom, with cream walls, brown velvet curtains and a green carpet, in a semi-detached house on Ing’s Bridge, in Hull.  He has also been a sales assistant, internet order dispatcher, caravan light fitter, restaurant manager, play worker, barman, sports coach, gambling machine technician, retail banking salesman, care worker coordinator, light haulage driver, paperboy, lecturer, and aerosol can sell-by-date checker.  But he much prefers being an artist.    
