@@ -44,6 +44,7 @@ In part three we are invited out on to the streets, to imagine the same disaster
 *The piece was originally created as part of my PhD exploring the relationship between contemporary performance and the New York avant-garde of the 1960s and 1970s. As such not a lot of people know that the form of it (three parts, each the same story from a slightly different perspective) is deliberately borrowed from an incredible piece called Juice, created by Meredith Monk in 1969, which started off in the Guggenheim museum, before moving to a small Manhattan theatre a couple of weeks later and then ending up in Monk's own loft-apartment.*    
 
 *The main inspiration behind the piece was watching the film Earthquake a few years ago. A ridiculously over-serious disaster movie staring Charlton Heston as a retired American Football player and architect in Los Angeles, though other films that feature in some way include Towering Inferno (burning building), Dante's Peak (volcano), Volcano (volcano), Independence Day (alien attack), Daylight (tunnel collapse), The Swarm (killer bees), Godzilla (mutant lizard) and King Kong (giant ape). However, the show is really about cities rather than disasters. Having grown up in the countryside in a very small village, I've always been fascinated by cities. They still strike me as strange and fascinating. I want to understand them better and I think that most of the things I make are an attempt to do so, one way or another.*    
+![Zilla](zillapt1.jpg)    
 
 ####Who is he?    
 *"The best place to find out more about me is on* [*my blog*](http://lookingforastronauts.wordpress.com)*, where I write various bits and pieces for no good reason which often find their way into my work. A lot of the text from Zilla began as scraps of things on my blog.*    
@@ -57,3 +58,5 @@ Zilla was made with the support of Shunt, Stoke Newington International Airport 
              
 ####Website    
 [lookingforastronauts.wordpress.com](http://lookingforastronauts.wordpress.com)    
+
+![Zilla](ZillaHatch.jpg)  

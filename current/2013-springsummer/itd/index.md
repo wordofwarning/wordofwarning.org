@@ -35,6 +35,8 @@ In that strange meeting place between film and theatre, which has become the hal
 
 Building on the recent successes of *Hotel Methuselah*, *Kellerman* and theircollaboration with Oldham Coliseum’s *The Hound of the Baskervilles*, Leeds basedimitating the dog create an immersive experience for the audience in this fusion of cinema and theatre. Drawing on the works of Genet, Wedekind, Brecht and the photography of Pierre et Gilles *6 Degrees Below the Horizon* takes its audiences on a delightful and twisted voyage into a subterranean world in which doing the right thing is seen to have terrible consequences.    
 
+![6 Degrees Below the Horizon](itd2.jpg)    
+
 ####Who are they?   
 imitating the dog (itd) has been creating and touring original performance work since 1998. Over this period the company has built up a unique reputation, both within the UK and in Europe, for making high quality touring pieces of theatre that challenge theatrical convention and create exciting and testing viewing experiences for its audiences.    
 
@@ -53,4 +55,7 @@ This production is supported by Arts Council England
     
 ####Website    
 [www.imitatingthedog.co.uk](http://www.imitatingthedog.co.uk)     
+
+![6 Degrees Below the Horizon](itd3.jpg)   
+
   

@@ -35,7 +35,9 @@ Stuart Silver presents his ‘Big Picture’ monologue on getting perspective. 
 After a 10 year Bafta nominated, Perrier Award winning, collaboration with Kim Noble AS (nobleandsilver), Stuart Silver continues that partnerships’ tradition of crossing disciplines and entering new territories. After 2 highly successful runs at Soho Theatre, and shows at The Samuel Beckett Festival, The London Word Festival,  and Art Centres across the UK, this piece sees a technically stripped back, musical Stuart Silver.
 
 *You Look Like Ants* is an intimate, humorous, tragi-ballad.  A conversational and textually rich epic journey where Stuart seeks to get a hold on what life is all about, under the crush of great advice.    
- 
+
+![Stuart Silver](stu.jpg)   
+
 ####Who is he?    
 Stuart Silver is a BAFTA nominated, Perrier Award Winning, writer / performer / director working across theatre and gallery venues, television, radio, public spaces and experimental educational and mentoring contexts.  He is the co-founder of Multimedia double act (nobleandsilver) and more recently has performed solo at Soho Theatre, The London Word Festival, Pharos Arts Foundation – Cyprus, Tate Britain, How the Light Gets In music and philosophy festival at Hay, Anti site-specific festival, Finland.    
 
@@ -90,4 +92,7 @@ Developed with funding from the National Lottery through Arts Council England, a
 ####Website    
 [tam-hinton.wix.com](http://tam-hinton.wix.com/tamsvan)    
 [www.kirkgodless.com](http://www.kirkgodless.com/uglyface-interface.php)    
+
+![Tam Hinton](TamHinton.jpg)    
+
 

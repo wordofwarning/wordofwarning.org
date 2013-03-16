@@ -45,6 +45,8 @@ Jenna Watt is a an award winning Live Artist / Theatre Maker/ Director originall
 She creates multi-disciplinary works that combine the practice of live art and more traditional theatrical forms and is best known for creating works that explore risk, violence and interaction.  *Flâneurs* gained a Scotsman Fringe First in 2012 after its run at Summerhall during the Edinburgh Fringe. Her live art happening *It's Ok, It's Only Temporary (the apple smashing piece)* gained her notoriety after she was temporarily banned from a Scottish venue but went on to tour the UK to venues including Forest Fringe, The Basement, Brighton, Out of the Blue, Edinburgh and Camden People's Theatre, London.   
 
 As a Director, Jenna has worked on a variety of projects including large scale projects, directing professional actors, learning disabled adults and young people. In Autumn 2011, Jenna was part of the New Directors initiative with the National Theatre of Scotland where she worked as assistant director with Vicky Featherstone on Abi Morgan's *27*.    
+
+![Flâneurs](Flaneurs.jpg)    
 ####What people have said about her       
 >*a richly thoughtful show*\*\*\*\*<br> The Scotsman  
   
