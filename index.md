@@ -6,7 +6,6 @@ header_image: "assets/images/header_spring13.jpg"
 
 ---
 #Welcome to Spring 2013 – a season so big we've split it in two – look out for more after Easter!
-#Tonight *Fri 15 Mar* at The Lowry... a double bill from [Michael Pinchbeck + Salfordian Debutants](/current/2013-springsummer/pinchbeck/index.html).
-#Thank you [Plane Performance, Pigeon Theatre](/current/2013-springsummer/pp/index.html) and our audience for last Friday's epic at Z-arts.
-#Kraak *Thu 28 Mar* free gig: [Volkov Commanders](/current/2013-springsummer/kraak/index.html).
+#Thank you [Michael Pinchbeck, Salfordian Debutants](/current/2013-springsummer/pinchbeck/index.html) + our audience for last Friday at The Lowry | Next: [Volkov Commanders](/current/2013-springsummer/kraak/index.html) free gig at Kraak *Thu 28 Mar*.
+##Coming soon: ['Poolside Emergency](/current/2013-poolside/index.html) at the Bluecoat Sat 13 Apr | [Turn](/current/2013-turn/index.html) at Contact Fri 19 + Sat 20 Apr.
 ##Sign up [here]({{ site.mailer_signup_url }}) for updates.
