@@ -20,8 +20,7 @@ The man and the woman have just collided and they are just about to walk away.
 This is where we rewind.    
 Past the strangers walking towards each other, past you willing them to have their happy ending, past the opening credits, past the choir singing, past the lights fading, past you finding your seat, past you preparing to take the role of an audience, to the moment the doors open.    
 And now, we can begin.*   
-
-(rewind) and two goes back to the beginning; exploring the fusion of the mediated with the live and the frailty of memory, amidst the deconstruction of the role of the audience.    
+   
 
 ####More    
 The first in a trilogy of work developing a non-love, non-film, live performance that revolves around the moment two strangers collide.  (rewind) and two goes back to the beginning; exploring the fusion of the mediated with the live and the frailty of memory, amidst the deconstruction of the role of the audience.   

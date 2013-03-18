@@ -27,7 +27,7 @@ Ellen Turner | Car-Door (winner Turn Prize 2012)
 **Saturday 3 May, from 7.30pm**          
 Lena Simic | 1994        
 Façade Theatre | Celladour       
-Wayne Steven Jackson | (Rewind) & Two        
+Wayne Steven Jackson | (rewind) and two        
 
 Have a look at our [gallery](/galleries/2012-woah/index.html) from Works Ahead 2012.    
 
