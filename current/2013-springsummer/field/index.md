@@ -26,6 +26,8 @@ A disaster movie for the stage and a story of heroism told with lego.
 
 By turns funny, sad, hypnotic and ridiculous, *Zilla!* is an epic attempt to look from a different perspective at the cities we live in and the cities we dream of.    
 
+Book Parts 1 and  2 together - get Part 3 free to take away!   
+
 ####Venue + Booking Details
 Date: Thursday 13 + Friday 14 June 2013, 7pm (Pt1) + 9pm (Pt2)  
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
@@ -47,7 +49,7 @@ In part three we are invited out on to the streets, to imagine the same disaster
 ![Zilla](zillapt1.jpg)    
 
 ####Who is he?    
-*"The best place to find out more about me is on* [*my blog*](http://lookingforastronauts.wordpress.com)*, where I write various bits and pieces for no good reason which often find their way into my work. A lot of the text from Zilla began as scraps of things on my blog.*    
+*"The best place to find out more about me is on* [*my blog*](http://andytfield.wordpress.com)*, where I write various bits and pieces for no good reason which often find their way into my work. A lot of the text from Zilla began as scraps of things on my blog.*    
  
 *I am afraid of flying."*    
 ####What people have said about him    
@@ -57,6 +59,6 @@ In part three we are invited out on to the streets, to imagine the same disaster
 Zilla was made with the support of Shunt, Stoke Newington International Airport and Apiary Studios.    
              
 ####Website    
-[lookingforastronauts.wordpress.com](http://lookingforastronauts.wordpress.com)    
+[www.andytfield.co.uk/](http://www.andytfield.co.uk/)    
 
 ![Zilla](ZillaHatch.jpg)  
