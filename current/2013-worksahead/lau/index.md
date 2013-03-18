@@ -9,7 +9,7 @@ artist: "'Joseph Lau"
 show: "Staff ID: 5201"
 
 # ABOUT THE SHOW - LAYOUT
-header_image: "header_lau_photo.jpg"
+header_image: "header_lau2_photo.jpg"
 
 ---
 ####In Brief    

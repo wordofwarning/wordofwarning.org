@@ -34,7 +34,8 @@ Box Office Tel: 0161 274 0600
 
 ####More    
 *Flâneurs* is a touching and effecting story of friendship, violence and intervention, that explores the nature of violent acts in public spaces, from a pedestrian subway in Edinburgh to Londonʼs Overground.    
-  Reflecting on her own city, Jenna examines why particular urban areas gain and retain a reputation for being rough or even dangerous and asks, what can we do, if anything, to change our own psychogeographic relationship to where we live. With first hand accounts from the Scottish Constabulary and victims of violence, *Flâneurs* uses simple projections, psycho-geography and a little flaneuring to expose and deconstruct the social psychological phenomena known as the ʻbystander effectʼ.   
+    
+Reflecting on her own city, Jenna examines why particular urban areas gain and retain a reputation for being rough or even dangerous and asks, what can we do, if anything, to change our own psychogeographic relationship to where we live. With first hand accounts from the Scottish Constabulary and victims of violence, *Flâneurs* uses simple projections, psycho-geography and a little flaneuring to expose and deconstruct the social psychological phenomena known as the ʻbystander effectʼ.   
   
 ####Who is she?
 Jenna is a Scottish live artist / theatre maker and director.    
