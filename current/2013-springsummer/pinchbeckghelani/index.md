@@ -67,9 +67,9 @@ Sheila originally trained in dance before moving over into the world of Live Art
 ####Credits    
 Credits: Originally a BAC Scratch Commission, supported by the National Lottery through Arts Council England    
 Lighting Design: Martin Langthorne   
-Original Sound: Bob Karper 
+Original Sound: Bob Karper    
 Sheila & Rose Image: Daniel Martin (2011)    
-Rat Rose Bird set image: Briony Cambpell (2011)    
+Rat Rose Bird set image: Briony Campbell (2011)    
            
 ####Website    
 [www.sheilaghelani.co.uk](http://www.sheilaghelani.co.uk)    
