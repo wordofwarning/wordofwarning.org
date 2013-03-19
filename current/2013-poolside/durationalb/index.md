@@ -7,6 +7,8 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "'Poolside Emergency 2013"
 show: "Durational Work: 2pm-5pm"
+artist_size: 2
+show_size: 3
 
 # ABOUT THE SHOW - LAYOUT
 header_image: "header_pool_photo.jpg"
