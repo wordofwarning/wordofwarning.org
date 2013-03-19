@@ -6,7 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Ellen Turner"
-show: "Car-Door Moment<br>winner Turn Prize 2012"
+show: "Car-Door Moment<br> winner Turn Prize 2012"
 
 # ABOUT THE SHOW - LAYOUT
 header_image: "header_ellen_photo.jpg"
