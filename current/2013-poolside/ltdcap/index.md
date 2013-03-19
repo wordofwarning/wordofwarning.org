@@ -7,6 +7,8 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "'Poolside Emergency 2013"
 show: "Limited Capacity + One-To-One"
+artist_size: 2
+show_size: 4
 
 # ABOUT THE SHOW - LAYOUT
 header_image: "header_pool_photo.jpg"
