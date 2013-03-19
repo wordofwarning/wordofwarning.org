@@ -6,7 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Ellen Turner"
-show: "Car-Door Moment"
+show: "Car-Door Moment<br>winner Turn Prize 2012"
 
 # ABOUT THE SHOW - LAYOUT
 header_image: "header_ellen_photo.jpg"
@@ -44,4 +44,4 @@ For the past year and half, Ellen has been perusing her choreographic aspiration
 [YouTube](http://www.youtube.com/watch?v=Qah3lQXuHM8)    
         
 ####Credits        
-Winner — Turn Prize 2012: commissioned by Dance initiative Greater Manchester, co-produced by hÅb + Contact, supported by Live at LICA.
+Turn Prize 2012: commissioned by Dance initiative Greater Manchester, co-produced by hÅb + Contact, supported by Live at LICA.
