@@ -7,7 +7,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Turn 2013"
 show: "Second Night: Sat 20 Apr"
-show_size: 4
+show_size: 3
 
 # ABOUT THE SHOW - LAYOUT
 header_image: "header_turn_photo.jpg"
