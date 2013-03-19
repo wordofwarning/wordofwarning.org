@@ -38,7 +38,7 @@ In 1994 I was 19. Kurt Cobain was 27 when he died. I kissed 12 boys in 1994.
 
 >*Lena Simic is a dynamic performer of outstanding ability. The text resonates with humour and rage both engaging and challenging the audience from the moment she announces her arrival on stage.*<br> Louie Jenkins, Senior Lecturer in Performing Arts, University of Chichester    
 
->*I just wanted to let you know that I was incredibly moved by your performance. I couldn't quite understand the effect that it had on me but I was definitely moved to tears!* Email from a student    
+>*I just wanted to let you know that I was incredibly moved by your performance. I couldn't quite understand the effect that it had on me but I was definitely moved to tears!*<br>Email from a student    
 
 ####Website
 [www.lenasimic.org](http://www.lenasimic.org)    
