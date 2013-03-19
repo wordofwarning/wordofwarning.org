@@ -8,6 +8,7 @@ is_index: true
 # ABOUT THE SHOW - GENERIC
 artist: "Turn 2013" # the name of the artist or company
 show: "Micro-festival of new north west dance." # the name of the show
+show_size: 4
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -16,16 +17,15 @@ show: "Micro-festival of new north west dance." # the name of the show
 
 ---
 *Presented by* Word of Warning + Contact    
-
-##COMING SOON    
+        
 **A two night micro-festival of emerging north west danceworks: explosive, intimate, graceful and challenging.**
-
-Plus a Mixed Movement Turn Special, Saturday from 10pm.    
-
+        
+**Plus**: a Mixed Movement Turn Special, Saturday from 10pm.    
+        
 From intimate encounters in tiny cupboards to slow-dancing in the dark, mass ensemble precision to individual grace, *Turn 2012* filled Contact to the brim with energy and virtuosity.     
-
+        
 Turn returns in 2013 with fifteen new works, featuring (subject to change):    
-
+        
 **Friday 19 April, from 7.30pm**    
 Rebekka Platt | hop.skip.jump dance collective | Jo Ashbridge | Oblique Strategists | Jessica Butler | Adam John Roberts | Ian and Jane | Daniela B Larsen & Robert Guy        
 
