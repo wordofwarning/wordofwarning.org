@@ -18,7 +18,7 @@ show_size: 4
 ---
 *Presented by* Word of Warning + Contact    
         
-**A two night micro-festival of emerging north west danceworks: explosive, intimate, graceful and challenging.**
+**A two night micro-festival of emerging north west danceworks — explosive, intimate, graceful and challenging.**
         
 **Plus**: a Mixed Movement Turn Special, Saturday from 10pm.    
         
