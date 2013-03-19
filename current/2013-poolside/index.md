@@ -9,7 +9,7 @@ is_index: true
 artist: "'Poolside Emergency 2013" # the name of the artist or company
 show: "Mayhem on Merseyside." # the name of the show
 artist_size: 2
-show_size: 4
+show_size: 3
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -25,7 +25,7 @@ Returning for its third frenetic outing, this mini-marathon of the weird and the
 
 Previously at 'Poolside: a hunting party leading a charge and visceral experiments with butter and treacle; slow-dances in the lifts and singing in the toilets; mermaids in the cupboards and bucket-dancing in the stairwells.
 
-Drop-in for ten minutes or stay throughout — a free day-out for the curious with twenty-five works, featuring artists (subject to change):    
+Drop-in for ten minutes or stay for the full five hours — a free day-out for the curious with twenty-five new works, featuring (subject to change):    
 
 **Saturday 13 April, from 12noon to 5pm**        
 A Bottle Top Productions | Fiona Anderson | Lindsay Bennett | David Bethell | Megan Clark-Bagnall | Jack Coverdale | Façade Theatre | Frances-Kay | Rachel Gomme | Kitty Graham | Sarah Grainger-Jones | Martin Hamblen | Lara Haworth & Lucy Hayhoe | Michelle Man & Lauren McGowan | Sophie Nathan | Julieann O'Malley | Louise Orwin | Paper People Theatre | Xristina Penna + aswespeakproject | PGB | Rebekka Platt | Rosanne Robertson | Moreno Solinas | Sarah Spanton / Waymarking | Sam Treadaway   
