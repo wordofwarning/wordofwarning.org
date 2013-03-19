@@ -25,7 +25,7 @@ Works Ahead returns to Contact with seven newly-commissioned artists:
 70/30 Split | Two Do: A Performance        
 Kitty Graham | The Bare Earth        
 Joseph Lau | Staff ID: 5201        
-Ellen Turner | Car-Door (winner Turn Prize 2012)        
+Ellen Turner | Car-Door Moment (winner Turn Prize 2012)        
         
 **Friday 3 May, from 7.30pm**          
 Lena Simic | 1994        
@@ -42,4 +42,4 @@ Box Office Tel: 0161 274 0600
        
 ####Credits         
 Co-produced by hÅb + Contact.       
-Turn Prize 2012 commissioned by Dance initiative Greater Manchester + supported by Live at LICA.     
+Turn Prize 2012 commissioned by Dance initiative Greater Manchester + supported by Live at LICA.
