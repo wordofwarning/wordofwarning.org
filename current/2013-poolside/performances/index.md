@@ -8,7 +8,7 @@ rootpath: "../../../"
 artist: "'Poolside Emergency 2013"
 show: "Performances"
 artist_size: 2
-show_size: 3
+show_size: 2
 
 # ABOUT THE SHOW - LAYOUT
 header_image: "header_pool_photo.jpg"
