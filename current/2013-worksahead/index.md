@@ -7,7 +7,7 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Works Ahead 2013" # the name of the artist or company
-show: "Work that moves + work that speaks to you." # the name of the show
+show: "Work that moves you + work that speaks to you." # the name of the show
 show_size: 4
 
 # ABOUT THE SHOW - LAYOUT
