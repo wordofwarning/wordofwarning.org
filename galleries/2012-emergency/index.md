@@ -24,6 +24,6 @@ gallery:
     -   {file: "taylor.jpg", artist: "Katie Taylor", show: "Let me wash your face"}
     -   {file: "graham.jpg", artist: "Kitty Graham", show: "The Bare Earth (pic: Bob France)"}
     -   {file: "7030.jpg", artist: "70/30 Split", show: "Content: part 1"}
-    -   {file: "shaheen.jpg", artist: "Qasim Riza Shaheen"}
+    -   {file: "qasim.jpg", artist: "Qasim Riza Shaheen"}
     -   {file: "olamerino.jpg", artist: "Leo Olamerino", show: "I've been waiting for you"}
 ---
