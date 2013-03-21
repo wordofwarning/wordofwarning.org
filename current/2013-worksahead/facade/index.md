@@ -12,7 +12,7 @@ show: "Celladour"
 header_image: "header_facade_photo.jpg"
 
 ---
-*Presented by* Word of Warning + Contact                
+*Part of* Works Ahead 2013 — [booking details + information](/current/2013-worksahead/index.html)        
         
 ####In Brief
 *If you wish to find out what ugly thing may escape from the box, I must tell you that it may be a whole family of earthly troubles: it could be greed, envy, lust, pride, sloth, gluttony or wrath; there could be more kinds of naughtiness than it would be any use for me to talk about, and so, I won’t talk about it.*    
