@@ -12,8 +12,8 @@ show: "Two Do: A Performance"
 header_image: "header_7030_photo.jpg"
 
 ---
-*Presented by* Word of Warning + Contact
-        
+*Part of* Works Ahead 2013 — [booking details + information](/current/2013-worksahead/index.html)        
+          
 ####In Brief    
 *We are two women, with two of everything; two people, two bodies, two voices, two minds, two ways, two paths, two loves, two gains, two unrelated stories, two alternatives, two gether.*       
         
