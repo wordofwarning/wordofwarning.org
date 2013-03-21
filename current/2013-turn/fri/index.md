@@ -13,6 +13,8 @@ show_size: 3
 header_image: "header_turn_photo.jpg"
 
 ---
+*Part of* Turn 2013 — [booking details + information](/current/2013-turn/index.html)       
+        
 **Rebekka Platt | The Body (extract/work-in-progress)**    
 A body has been found ... murdered.   
 
