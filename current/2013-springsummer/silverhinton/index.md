@@ -32,7 +32,7 @@ Box Office Tel: 0161 232 6089
 ####More    
 Stuart Silver presents his ‘Big Picture’ monologue on getting perspective. A philosophical almost-narrative of perilous received wisdoms and long-distance ambitions. With ukulele when you least expect it. And when you expect it.    
         
-After a 10 year BAFTA-nominated + Perrier Award-winning collaboration with Kim Noble as (nobleandsilver), Stuart Silver continues that partnerships’ tradition of crossing disciplines and entering new territories. After two highly successful runs at Soho Theatre, and shows at The Samuel Beckett Festival, The London Word Festival and Art Centres across the UK, this piece sees a technically stripped-back, musical, Stuart Silver.
+After a 10 year BAFTA-nominated + Perrier Award-winning collaboration with Kim Noble as (nobleandsilver), Stuart Silver continues thatpartnerships’ tradition of crossing disciplines and entering new territories. After two highly successful runs at Soho Theatre, and shows at The Samuel Beckett Festival, The London Word Festival and Art Centres across the UK, this piece sees a technically stripped-back, musical, Stuart Silver.
        
 *You Look Like Ants* is an intimate, humorous, tragi-ballad. A conversational and textually rich epic journey where Stuart seeks to get a hold on what life is all about, under the crush of great advice.    
         
