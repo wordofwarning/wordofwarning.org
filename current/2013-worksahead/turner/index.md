@@ -12,8 +12,8 @@ show: "Car-Door Moment"
 header_image: "header_ellen_photo.jpg"
 
 ---
-*Part of* Works Ahead 2013 *— [booking details + information](/current/2013-worksahead/index.html).*        
-*winner Turn Prize 2012*      
+*Part of* Works Ahead 2013 — [booking details + information](/current/2013-worksahead/index.html).        
+*Winner* Turn Prize 2012.      
        
 ####In Brief    
 *Ever had the urge to jump off a train platform? To slap a random stranger? Or to open the car-door on the motorway?*        
@@ -42,7 +42,4 @@ For the past year and half, Ellen has been perusing her choreographic aspiration
 ####Website
 [ellenturner.webs.com](http://ellenturner.webs.com)    
 [YouTube](http://www.youtube.com/watch?v=gqwmCQa2xGI)    
-[YouTube](http://www.youtube.com/watch?v=Qah3lQXuHM8)    
-        
-####Credits        
-Turn Prize 2012: commissioned by Dance initiative Greater Manchester, co-produced by hÅb + Contact, supported by Live at LICA.
+[YouTube](http://www.youtube.com/watch?v=Qah3lQXuHM8)
