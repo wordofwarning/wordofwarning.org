@@ -14,6 +14,8 @@ show_size: 3
 header_image: "header_pool_photo.jpg"
 
 ---
+*Part of* 'Poolside Emergency 2013 — [information](/current/2013-poolside/index.html)        
+         
 **Julieann O'Malley | Salty Milk: Violation of Expectation**   
 It's human nature to try to make sense of what we do and the choices we make. *Salty Milk: Violation of Expectation* is an internal echo and exploration of personal and social constructs played out in a timeless space.        
 ![Julieann O'Malley](saltymilkbw1.jpg)        
