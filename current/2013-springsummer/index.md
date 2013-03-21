@@ -7,7 +7,7 @@ is_index: true
 
 ---
 
-[Spring 2013](/archive/2013-spring/index.html) is already almost done and dusted with shows at the Lowry, Contact + Z-arts; a manic day of all ages live art filling Z-arts; and ... a special Easter bonus with [Volkov Commanders' *Panopolis*](/current/2013-springsummer/kraak/index.html) at Kraak still to come.
+**[Spring 2013](/archive/2013-spring/index.html)** is already almost done and dusted with shows at the Lowry, Contact + Z-arts; a manic day of all ages live art filling Z-arts; and ... a special Easter bonus with **[Volkov Commanders' *Panopolis*](/current/2013-springsummer/kraak/index.html)** at Kraak still to come.
 
 And so to the second half of our bumper season that, despite the best the weather can throw at us, we are choosing to call Spring/Summer 2013!    
 
