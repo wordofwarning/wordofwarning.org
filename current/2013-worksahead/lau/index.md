@@ -12,8 +12,8 @@ show: "Staff ID: 5201"
 header_image: "header_lau2_photo.jpg"
 
 ---
-*Presented by* Word of Warning + Contact
-        
+*Part of* Works Ahead 2013 — [booking details + information](/current/2013-worksahead/index.html)          
+         
 ####In Brief    
 This is a new solo work under development. The main themes and questions are about the value of being human, globalisation, and the economics of being a human resource.         
         
