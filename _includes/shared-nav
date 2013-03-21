@@ -3,7 +3,7 @@
 				<div class="twelve columns">
 					<a href="{{ page.rootpath }}index.html">Word of Warning</a> 
 					<nav>
-					    <a href="{{ page.rootpath }}current/2013-springsummer/index.html">Performance Collection Spring 2013</a>
+					    <a href="{{ page.rootpath }}current/2013-springsummer/index.html">Performance Collection Spring/Summer 2013</a>
 					    <a href="{{ page.rootpath }}archive/index.html">Archive</a>  
 					    <a href="{{ site.mailer_signup_url }}">Weekly Update</a>
 					    <a href="{{ page.rootpath }}hab/index.html">hÅb</a>
