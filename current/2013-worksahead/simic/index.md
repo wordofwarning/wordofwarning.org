@@ -13,7 +13,7 @@ show_size: 1
 header_image: "header_1994_photo.jpg"
 
 ---
-*Presented by* Word of Warning + Contact        
+*Part of* Works Ahead 2013 — [booking details + information](/current/2013-worksahead/index.html)        
          
 ####In Brief
 A homage to Kurt Cobain, lost youth, impossible and failed encounters from a life lived retrospectively.    
