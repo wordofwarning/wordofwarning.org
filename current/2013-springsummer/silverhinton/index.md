@@ -25,7 +25,7 @@ A 'Big Picture' monologue on gaining perspective meets mind-bending storytelling
 ####Venue + Booking Details
 Date: Friday 26 April 2013, 7.30pm (Double Bill)   
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
-Tickets: £8/5    
+[Tickets: £8/5](http://www.z-arts.org/events/wow-april/)    
 Box Office Tel: 0161 232 6089     
         
 ##Stuart Silver    

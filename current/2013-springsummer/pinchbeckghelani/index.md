@@ -25,7 +25,7 @@ A foyer Hamlet in bubble wrap; and a meditation on leaving and staying-put.
 ####Venue + Booking Details    
 Date: Friday 31 May 2013, 7.30pm (Double Bill)   
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
-Tickets: £8/5    
+[Tickets: £8/5](http://www.z-arts.org/events/wow-may/)    
 Box Office Tel: 0161 232 6089     
 
 ![The Middle](header_middle_photo.jpg)    
