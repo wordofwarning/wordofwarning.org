@@ -7,11 +7,12 @@ is_index: true
 
 ---
 
-[Spring 2013](/archive/2013-spring/index.html) is already almost done and dusted with shows at the Lowry, Contact and Z-arts and a manic day of all ages live art filling Z-arts... and a special Easter bonus with [Volkov Commanders' *Panopolis*](/current/2013-springsummer/kraak/index.html) at Kraak still to come.
+[Spring 2013](/archive/2013-spring/index.html) is already almost done and dusted with shows at the Lowry, Contact + Z-arts; a manic day of all ages live art filling Z-arts; and ... a special Easter bonus with [Volkov Commanders' *Panopolis*](/current/2013-springsummer/kraak/index.html) at Kraak still to come.
 
-And so to the second half of our bumper season that, despite the best the weather can throw at us, we are choosing to call Spring Summer!    
+And so to the second half of our bumper season that, despite the best the weather can throw at us, we are choosing to call Spring/Summer 2013!    
 
-April into May sees over 50 shows - including the return of **'Poolside Emergency** and **Turn**; a double bill featuring The Mighty Boosh's **Stuart Silver**, and a micro-commission by Manchester's own **Tam Hinton**; and seven new pieces forming **Works Ahead** at Contact.  May continues with **imitating the dog**; a commissioned preview of **Michael Pinchbeck's *The Middle*** in a double bill with **Sheila Ghelani**; **Andy Field** of Forest Fringe's three part ***'Zilla*** and Fringe First winning **Jenna Watt**.    
+April into May sees 50 shows — including the return of **'Poolside Emergency** + **Turn**; a double bill featuring The Mighty Boosh's **Stuart Silver** and a micro-commission by Manchester's own **Tam Hinton**; and seven new pieces forming **Works Ahead** at Contact.        
+May into June continues with **imitating the dog**; a commissioned preview of **Michael Pinchbeck's *The Middle*** in a double bill with **Sheila Ghelani**; **Andy Field** of Forest Fringe's three part ***Zilla!***; rounded off with Fringe First-winning **Jenna Watt**.    
  
 ####What is Word of Warning and where did it come from?
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of live performance: an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work in Manchester.
