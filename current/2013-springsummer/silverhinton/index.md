@@ -58,7 +58,7 @@ Stuart co-wrote and co-directed *Cabaret Simon* at the Barbican, London with Lon
 ####Credits    
 Written and performed by Stuart Silver    
 Co-directed by Stuart Silver and Jason Phipps     
-This work has been funded by Arts Council England.    
+This work has been funded by Arts Council England.     
         
 ####Website    
 [www.astuartsilver.com](http://www.astuartsilver.com)    
