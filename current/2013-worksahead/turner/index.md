@@ -6,14 +6,15 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Ellen Turner"        
-show: "Car-Door Moment <br> winner Turn Prize 2012"
+show: "Car-Door Moment"
 
 # ABOUT THE SHOW - LAYOUT
 header_image: "header_ellen_photo.jpg"
 
 ---
-*Presented by* Word of Warning + Contact        
-        
+*Part of* Works Ahead 2013 *— [booking details + information](/current/2013-worksahead/index.html).*        
+*winner Turn Prize 2012*      
+       
 ####In Brief    
 *Ever had the urge to jump off a train platform? To slap a random stranger? Or to open the car-door on the motorway?*        
         
