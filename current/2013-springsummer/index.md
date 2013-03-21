@@ -1,20 +1,20 @@
 ---
 
 # CONFIGURATION
-layout: 2013-spring
+layout: 2013-springsummer
 rootpath: "../../"
 is_index: true
 
 ---
 
-Unbelievably Word of Warning enters its second year of programming... so welcome to Spring 2013. To all those who've come with us thus far – *thank you*. To anyone new – *we hope to give you a truly different 2013!*
+[Spring 2013](/archive/2013-spring/index.html) is already almost done and dusted with shows at the Lowry, Contact + Z-arts; a manic day of all ages live art filling Z-arts; and ... a special Easter bonus with [Volkov Commanders' *Panopolis*](/current/2013-springsummer/kraak/index.html) at Kraak still to come.
 
-Predictably, and completely in character, we've gone a bit over-the-top this season, to the extent that we've had to split it in two – so look out for Spring/Summer 2013 coming sometime after Easter.    
+And so to the second half of our bumper season that, despite the best the weather can throw at us, we are choosing to call Spring/Summer 2013!    
 
-No theme this time – just an awful lot of good work and a bit of idiosyncrasy thrown in for good measure. We are also really pleased to be collaborating for the first time with The Lowry's Studio – and returning to Contact... lots! Plus, of course, our ongoing WoW nights at Z-arts.  
-
-Spring sees a new work by **Lowri Evans**, visits from **Hetain Patel** and **Michael Pinchbeck**, a showcase of new work from local luminaries **Plane Performance** and **Pigeon Theatre**, the fifth **Turn** and the third **'Poolside Emergency**. Plus a bit of an experiment – a live art day for all ages – **Haphazard** (and it will be!). Big images, silly sounds, random characters – it's a chance for those with little ones to share a day out for all – and for the rest of us to watch the work through fresher eyes.   
-
+April into May sees almost 50 shows — including the return of **'Poolside Emergency** + **Turn**; a double bill featuring The Mighty Boosh's **Stuart Silver** and a micro-commission by Manchester's own **Tam Hinton**; and seven new pieces forming **Works Ahead** at Contact.        
+        
+May into June continues with **imitating the dog**; a commissioned preview of **Michael Pinchbeck's *The Middle*** in a double bill with **Sheila Ghelani**; **Andy Field** of Forest Fringe's three part ***Zilla!***; rounded off with Fringe First-winning **Jenna Watt**.    
+ 
 ####What is Word of Warning and where did it come from?
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of live performance: an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work in Manchester.
 
