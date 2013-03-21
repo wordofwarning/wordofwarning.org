@@ -14,6 +14,8 @@ show_size: 3
 header_image: "header_pool_photo.jpg"
 
 ---
+*Part of* 'Poolside Emergency 2013 — [information](/current/2013-poolside/index.html)       
+          
 **Jack Coverdale | Twice Nightly**   
 A piece about the past, about a changing country and a change in culture. A piece about forgotten stars and fading sensibilities in the spit and sawdust theatres which used to dot this country.    
         
