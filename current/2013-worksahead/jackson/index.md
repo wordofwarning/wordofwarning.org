@@ -12,7 +12,7 @@ show: "(rewind) and two"
 header_image: "header_wayne_photo.jpg"
 
 ---
-*Presented by* Word of Warning + Contact        
+*Part of* Works Ahead 2013 — [booking details + information](/current/2013-worksahead/index.html)        
         
 ####In Brief   
 *(rewind) and two* goes back to the beginning of all of your love stories that could and should have happened, but didn’t.   
