@@ -12,8 +12,8 @@ show: "The Bare Earth"
 header_image: "header_kitty_photo.jpg"
 
 ---
-*Presented by* Word of Warning + Contact
-         
+*Part of* Works Ahead 2013 — [booking details + information](/current/2013-worksahead/index.html)        
+        
 ####In Brief
 *You stand before a bed of earth. Perhaps it is empty, still, peaceful — perhaps it is not.*    
       
