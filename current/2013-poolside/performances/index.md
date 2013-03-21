@@ -14,6 +14,8 @@ show_size: 2
 header_image: "header_pool_photo.jpg"
 
 ---
+*Part of* 'Poolside Emergency 2013 — [information](/current/2013-poolside/index.html)        
+          
 **Kitty Graham | The Bare Earth**    
 *You stand before a bed of earth. Perhaps it is empty, still, peaceful — perhaps it is not.*        
 Using a bed of earth — the place of death and decay, as well as creation and growth, and continual transformer of one into the other — *The Bare Earth* explores what might emerge when unconscious contents are freed in liminal ritual, and how these contents may be transformed by contact with consciousness.        
