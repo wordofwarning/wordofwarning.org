@@ -33,8 +33,8 @@ A Bottle Top Productions | Fiona Anderson | Lindsay Bennett | David Bethell | Me
 ####Venue + Booking Details
 Date: Saturday 13 April 2013, 12noon-5pm    
 [Venue: the Bluecoat](http://www.thebluecoat.org.uk/content/index/visitor-info), School Lane, Liverpool, L1 3BX    
-Tickets: FREE    
-Box Office Tel: 0151 702 5324   
+Tickets: FREE no booking required   
+Venue Tel: 0151 702 5324   
 
 ####Credits         
 Co-produced by hÅb + the Bluecoat.
