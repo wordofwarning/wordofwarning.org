@@ -37,7 +37,7 @@ Inspired by *Hamlet*, *The Middle* is a one-man show devised for a theatre foyer
 ![The Middle by Julian Hughes](TheMiddle.jpg)
     
 ####Who is he?    
-Michael Pinchbeck is a writer, live artist and performance maker. He co-founded Metro-Boulot-Dodo in 1997 after studying Theatre and Creative Writing at Lancaster University. He left the company in 2004 to embark on a five-year live art project ­ *The Long and Winding Road*, performed at the IC A(London), Ikon Gallery (Birmingham) and The Bluecoat (Liverpool). Michaewas commissioned by Nottingham Playhouse to write *The White Album* (2006) and *The Ashes* (2011) and was awarded a bursary by Theatre Writing Partnershi pand funding from the British Council to research a new lay*Bolero*.    
+Michael Pinchbeck is a writer, live artist and performance maker. He co-founded Metro-Boulot-Dodo in 1997 after studying Theatre and Creative Writing at Lancaster University. He left the company in 2004 to embark on a five-year live art project­ *The Long and Winding Road*, performed at thIC I(London), Ikon Gallery (Birmingham) and The Bluecoat (Liverpool). Michaewas commissioned by Nottingham Playhouse to write *The White Album* (2006) and *The Ashes* (2011) and was awarded a bursary by Theatre Writing Partnershi pand funding from the British Council to research a w p lay*Bolero*.    
 
 He is currently working on a trilogy of devised performances inspired by Shakespearean plays: *The Beginning*, *The Middle* and *The End*. In 2008, Michael
 was selected by Arts Council England to represent the UK at the Biennale for
