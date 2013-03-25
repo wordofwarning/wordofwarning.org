@@ -47,13 +47,13 @@ Stuart co-wrote and co-directed *Cabaret Simon* at the Barbican, London with Lon
 (nobleandsilver) garnered a cult following for their Channel 4 TV series *(nobleandsiver): GET OF ME* and for three major theatre shows (shown at Soho Theatre, Arts Theatre London, Edinburgh Festival, Her Majesty's Theatre) and numerous one off commissions (the British Library, BBC Electric Proms, Guerilla performance at Preston UCI cinema, month-long residency at Beaconsfield Gallery, Vauxhall); also for roles in *The Boosh*, Garth Marenghi’s *Darkplace* and for writing the featurette for Richard Ayoade’s *The Double.*    
 
 ####What people have said about him     
->*4\* It's lurches of logic keep your head buzzing long after it ends ... It's not like anything else.*<br> The Times    
+>*4\* Its lurches of logic keep your head buzzing long after it ends ... Its not like anything else.*<br> The Times    
       
 >*... A surreptitiously seductive experience.*<br>The Guardian    
       
 >*Dreamlike and forensic ... He's like some pound-shop Laurie Anderson.*<br>The Times    
        
->*A performance quietly brilliant at understating it's depth.*<br>Culture Wars    
+>*A performance quietly brilliant at understating its depth.*<br>Culture Wars    
        
 ####Credits    
 Written and performed by Stuart Silver    
@@ -71,7 +71,7 @@ A one-man show for all the lost and angry children of the world. Using video, cl
 
 In a housing estate in a parallel universe, three intertwining characters struggle with their personal demons. Or are are they all the same demon? Only one way to find out...    
   
-In the latest show from the outsider artist's outsider artist, Hinton takes us on a trip into the diseased heart of modern England — via a rollercoaster ride along it’s furred up arteries on a collision course with it's wildly malfunctioning pacemaker.    
+In the latest show from the outsider artist's outsider artist, Hinton takes us on a trip into the diseased heart of modern England — via a rollercoaster ride along its furred up arteries on a collision course with it's wildly malfunctioning pacemaker.    
         
 Expect laughter, tears, and a strange tingling sensation in your left earlobe.    
        
