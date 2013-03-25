@@ -45,15 +45,14 @@ From the outset itd have been committed to developing innovative scenographic te
 Since 2003 the creative core of the company, Simon Wainwright, Andrew Quick, and Alice Booth has been extended to include director Pete Brooks and designer Laura Hopkins. itd also work with core ensemble of performers that include Anna Wilson-Hall, Morven Macbeth, Laura Atherton and Adam Nash. This creative collaboration has witnessed the successful creation of four touring theatre pieces, *Hotel Methuselah* (2005), *Kellerman* (2008), *6 Degrees Below the Horizon* (2011) and *The Zero Hour* (2012) all of which have been supported by Arts Council England funding. This work has toured throughout the UK and in various venues and festivals on the continent and all productions are still in the company’s repertoire. *Hotel Methuselah* has recently toured to The Lebanon, Brazil, and Ukraine, (supported by the British Council); *Kellerman* (*KM*), has recently performed in Taiwan as part of the Digital Performing Arts Festival, Taipei.   
        
 ####What people have said about them    
->\*\*\*\*\* *...the best I have seen of its kind… the whole experience is a delectable fusion 
-of cinema and theatre*<br>What’s on Stage    
+>*5\* ... the best I have seen of its kind ... the whole experience is a delectable fusion of cinema and theatre*<br>What’s on Stage    
     
->*A company at the forefront of testing the nature of theatre*<br> The Guardian    
-
->*...near as dammit a total work of art...*<br>The Observer (on *Kellerman*)    
-
->*...a mesmerizing piece of contemporary performance*<br>Metro (on *Kellerman*)     
-
+>*A company at the forefront of testing the nature of theatre*<br>The Guardian    
+    
+>*... near as dammit a total work of art*<br>The Observer (on *Kellerman*)    
+    
+>*... a mesmerizing piece of contemporary performance*<br>Metro (on *Kellerman*)     
+    
 ####Credits         
 This production is supported by Arts Council England.    
      
