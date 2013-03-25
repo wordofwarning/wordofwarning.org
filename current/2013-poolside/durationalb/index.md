@@ -22,12 +22,11 @@ A piece about the past, about a changing country and a change in culture. A piec
 **Sam Treadaway | «**  
 **«**, or rewind, is a live interventional work in which the artist will trace, edit and rupture the architectural space of the Bluecoat gallery, deploying only barrier tape and map pins. The work is intended to address divisions and borders between private and public territories; this includes the institutional control and sanction of a given place/space, be that within the 'non-spaces' of urban environments or, indeed, within the gallery setting and by extension the Art World.   
 ![Sam Treadaway](Treadaway.jpg)    
-        
-**Lindsay Bennett | Inverted Gray**    
-Inspired by Oscar Wilde's novel *The Picture of Dorian Gray*, this installation presents a transposed interpretation of the performer, creating and maintaining a youthful deity of herself while the audience can witness the deterioration of the live performer. Incorporating ritual, repetition and voice to address the social gender politics in the rituals of women to preserve and project a personal ideal, you are free to watch and return as many times as you wish.       
-*I cannot speak French, I cannot drink red wine, and I cannot paint without paint, this is an attempt to convince you I can.*        
-![Lindsay Bennett](LindsayBennett.jpg)    
-       
+
+**Julieann O'Malley | Salty Milk: Violation of Expectation**   
+It's human nature to try to make sense of what we do and the choices we make. *Salty Milk: Violation of Expectation* is an internal echo and exploration of personal and social constructs played out in a timeless space.        
+![Julieann O'Malley](saltymilkbw1.jpg)                
+    
 **Louise Orwin | Humiliation Piece (for the duration)**    
 Louise wants to be everything to you today – it's her last chance. Watch her squirm and struggle through a dastardly game of Truth and Dare controlled and judged by you: she's willing to go that extra mile to keep that smile on your face, but if she fails, she knows punishment lies in your hands.        
 A one-woman crusade to the ultimate exhilarating performance, think Truth-or-Dare meets X-Factor-judgement-day meets Fun-House-gunge-tank: what does entertainment mean to you?    

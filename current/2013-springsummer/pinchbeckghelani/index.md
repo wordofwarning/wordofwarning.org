@@ -37,10 +37,26 @@ Inspired by *Hamlet*, *The Middle* is a one-man show devised for a theatre foyer
 ![The Middle by Julian Hughes](TheMiddle.jpg)
 
 ####Who is he?    
-Michael Pinchbeck is a writer, live artist and performance maker. He co-founded Metro-Boulot-Dodo in 1997 after studying Theatre and Creative Writing at Lancaster University. He left the company in 2004 to embark on a five-year live art project – *The Long and Winding Road*, performed at the ICA (London), Ikon Gallery (Birmingham) and The Bluecoat (Liverpool). Michael was commissioned by Nottingham Playhouse to write *The White Album* (2006) and *The Ashes* (2011) and was awarded a bursary by Theatre Writing Partnership to research a new play - *Bolero*.    
+Michael Pinchbeck is a writer, live artist and performance maker. He
+co-founded Metro-Boulot-Dodo in 1997 after studying Theatre and Creative
+Writing at Lancaster University. He left the company in 2004 to embark on a
+five-year live art project ­ *The Long and Winding Road*, performed at the ICA
+(London), Ikon Gallery (Birmingham) and The Bluecoat (Liverpool). Michael
+was commissioned by Nottingham Playhouse to write *The White Album* (2006) and
+*The Ashes* (2011) and was awarded a bursary by Theatre Writing Partnership
+and funding from the British Council to research a new play - *Bolero*.    
 
-He is currently working on a trilogy of devised performances inspired by Shakespearean stage directions: *The Beginning*, *The Middle* and *The End*. In 2008, Michael was selected by Arts Council England to represent the UK at the Biennale for Young Artists in Italy. In 2012, he will be an ambassador for the World Event of Young Artists in Nottingham. His work has been selected twice for the British Council’s Edinburgh Showcase. He has a Masters in Performance and Live Art from Nottingham Trent University and is currently undertaking a PhD at Loughborough University exploring the role of the dramaturg in contemporary performance. Michael is a co-director of Hatch, a platform for performance in the East Midlands.    
-
+He is currently working on a trilogy of devised performances inspired by
+Shakespearean plays: *The Beginning*, *The Middle* and *The End*. In 2008, Michael
+was selected by Arts Council England to represent the UK at the Biennale for
+Young Artists in Italy. In 2012, he was a creative ambassador for World
+Event Young Artists in Nottingham. His work has been selected twice for the
+British Council¹s Edinburgh Showcase. He has a Masters in Performance and
+Live Art from Nottingham Trent University and is currently undertaking a PhD
+at Loughborough University exploring the role of the dramaturg in
+contemporary performance. Michael is a co-director of Hatch, a platform for
+performance in the East Midlands, and lectures at the University of Lincoln.    
+    
 ![The Middle by Julian Hughes](TheMiddle1.jpg)    
 
 ####What people have said about him    

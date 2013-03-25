@@ -16,9 +16,10 @@ header_image: "header_pool_photo.jpg"
 ---
 *Part of* 'Poolside Emergency 2013 — [information](/current/2013-poolside/index.html)        
          
-**Julieann O'Malley | Salty Milk: Violation of Expectation**   
-It's human nature to try to make sense of what we do and the choices we make. *Salty Milk: Violation of Expectation* is an internal echo and exploration of personal and social constructs played out in a timeless space.        
-![Julieann O'Malley](saltymilkbw1.jpg)        
+**Lindsay Bennett | Inverted Gray**    
+Inspired by Oscar Wilde's novel *The Picture of Dorian Gray*, this installation presents a transposed interpretation of the performer, creating and maintaining a youthful deity of herself while the audience can witness the deterioration of the live performer. Incorporating ritual, repetition and voice to address the social gender politics in the rituals of women to preserve and project a personal ideal, you are free to watch and return as many times as you wish.       
+*I cannot speak French, I cannot drink red wine, and I cannot paint without paint, this is an attempt to convince you I can.*        
+![Lindsay Bennett](LindsayBennett.jpg)    
         
 **Sarah Spanton / Waymarking | City Scribe**   
 The *City Scribe* measures, marks and reflects on the city, inviting local people to reflect on it too. The *City Scribe* observes and documents the city's architecture, atmosphere and its flows of people through movement.    
