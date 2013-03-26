@@ -11,9 +11,9 @@ is_index: true
 
 And so to the second half of our bumper season that, despite the best the weather can throw at us, we are choosing to call Spring/Summer 2013!    
 
-April into May sees almost 50 shows — including the return of **'Poolside Emergency** + **Turn**; a double bill featuring The Mighty Boosh's **Stuart Silver** and a micro-commission by Manchester's own **Tam Hinton**; and seven new pieces forming **Works Ahead** at Contact.        
+April into May sees almost 50 shows — including the return of **'Poolside Emergency** + **Turn**; a double bill featuring *The Mighty Boosh*'s **Stuart Silver** and a micro-commission by Manchester's own **Tam Hinton**; and seven new pieces forming **Works Ahead** at Contact.        
         
-May into June continues with **imitating the dog**; a commissioned preview of **Michael Pinchbeck's *The Middle*** in a double bill with **Sheila Ghelani**; **Andy Field** of Forest Fringe's three part ***Zilla!***; rounded off with Fringe First-winning **Jenna Watt**.    
+May into June continues with **imitating the dog**; a commissioned preview of **Michael Pinchbeck's *The Middle*** in a double bill with **Sheila Ghelani**; **Andy Field** (of Forest Fringe)'s three part ***Zilla!***; rounded off with Fringe First-winning **Jenna Watt**.    
  
 ####What is Word of Warning and where did it come from?
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of live performance: an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work in Manchester.
