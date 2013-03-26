@@ -72,7 +72,7 @@ Sheila originally trained in dance before moving over into the world of Live Art
 
 She has shown work at venues and festivals across Europe including Belluard Bollwerk International in Switzerland, Fierce Festival in Birmingham, NRLA in Glasgow, Trouble Festival in Brussels, EPAF in Poland and the Wellcome Collection in London. In 2010 she also produced a book/flower-press that was represented by KaleidEditions at UK art/book fairs.   
 
-As a collaborative artist she is a long-standing Associate Artist of Blast Theory and has toured and performed nationally and internationally for them and many other companies.  She also teaches in Academic contexts and regularly mentors artists and students and gives public talks.    
+As a collaborative artist she is a long-standing Associate Artist of Blast Theory and has toured and performed nationally and internationally for them and many other companies. She also teaches in academic contexts and regularly mentors artists and students and gives public talks.    
  
 Her work is informed by her own experience of being mixed heritage. She is interested in the relationship between art and science with particular focus on hybridity, crossings, blood, skins, skinning, carefully controlled experiments, colour, genetics and love.   
     
