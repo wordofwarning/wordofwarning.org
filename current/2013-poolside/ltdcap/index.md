@@ -31,8 +31,8 @@ An invitation to a brief exchange of touch that leaves a lasting trace.
 ![Rachel Gomme](rachel_gomme_handover_latitude.jpg)    
      
 **Rebekka Platt | The Body (extract/work-in-progress)**    
-A murder mystery. Investigating classic film noir, a body is found in the city centre: engage and uncover the mystery of how she happened to get there and who she happens to be. *The Body* brings together live dance/movement, music and digital technology to offer an intriguing and imaginative performance experience.    
-        
+An intimate live & digital performance inspired by film noir, mystery & silent discos. Observe and engage with a body left on the fringe of the world.      
+         
 **Lara Haworth & Lucy Hayhoe | Citizens Exchange Bureau**    
 Haworth & Hayhoe are live artists who create participatory installations that ask audiences to re-imagine or reinterpret their lived environments. Previous works include The Library Project and Cupid (collaborations); home sweet home (Hayhoe); Customs and Border Patrol (Haworth). *Citizens Exchange Bureau* premiered at Buzzcut Festival in Glasgow, March 2013.    
 ![Citizens Exchange Bureau](citizensexchangebureau.jpg)    
