@@ -53,20 +53,19 @@ Since 2003 the creative core of the company, Simon Wainwright, Andrew Quick, and
     
 >*... a mesmerizing piece of contemporary performance*<br>Metro (on *Kellerman*)     
     
-####†Workshop
-itd are offering a workshop to accompany *6 Degrees Below The Horizon*, free to ticket-holders.    
+####Workshop† 
+Free to ticket-holders, itd are offering a workshop to accompany *6 Degrees...*    
     
 TRACKING SHOT: Thu 9 May 2013, 2-4.30pm    
     
 This workshop focuses on a devising technique used by itd to make their shows. It explores the use of cinematic techniques in live performance without the use of technology. The workshop will take an extraordinary event as its starting point and encourage participants to explore the different ways in which the methods and language of film can be used in live performance.
     
-**Free with a show ticket — ring Contact's box office to book: 0161 274 0600**    
-Suitable for ages 15+ and is most suitable for School, College, University and Adult Practitioners.     
+Suitable for ages 15+ — most suitable for School, College, University and Adult Practitioners; **free with a show ticket — ring Contact's box office 0161 274 0600 to book.**     
+    
+![6 Degrees Below the Horizon](itd3.jpg)
     
 ####Credits         
 This production is supported by Arts Council England.    
      
 ####Website    
-[www.imitatingthedog.co.uk](http://www.imitatingthedog.co.uk)     
-
-![6 Degrees Below the Horizon](itd3.jpg)
+[www.imitatingthedog.co.uk](http://www.imitatingthedog.co.uk)
