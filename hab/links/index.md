@@ -34,7 +34,7 @@ We are pleased to count among our friends and regular partners:
 [Blank Media Collective](http://blankmediacollective.org)    
 [Contact](http://contactmcr.com)  
 [Contemporary Theatre + Performance, UCLAN](http://www.uclan.ac.uk/information/courses/ba_hons_contemporary_theatre_and_performance.php)    
-[Contemporary Practics, University of Salford](http://www.salford.ac.uk/courses/performance-contemporary-practices?mode=ov)    
+[Contemporary Practices, University of Salford](http://www.salford.ac.uk/courses/performance-contemporary-practices?mode=ov)    
 [Dance Initiative Greater Manchester](http://www.digm.org/dev/)    
 [Flare Festival](http://www.flarefestival.com)    
 [hatch](http://www.hatchnottingham.org.uk)    
@@ -45,6 +45,7 @@ We are pleased to count among our friends and regular partners:
 [Plane Performance](http://www.planeperformance.co.uk)    
 [Proto-type Theater](http://proto-type.org)    
 [Quarantine](http://www.qtine.com)    
+[Reckless Sleepers](http://www.reckless-sleepers.co.uk)    
 [The Larks](http://www.the-larks.com) (formerly Larkin' About) - resident gamers.    
 [the Bluecoat](http://www.thebluecoat.org.uk)   
 [Work for Change](http://change.coop)   
