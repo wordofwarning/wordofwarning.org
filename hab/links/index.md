@@ -46,6 +46,7 @@ We are pleased to count among our friends and regular partners:
 [Proto-type Theater](http://proto-type.org)    
 [Quarantine](http://www.qtine.com)    
 [Reckless Sleepers](http://www.reckless-sleepers.co.uk)    
+[The Future](http://www.the-future.co.uk)    
 [The Larks](http://www.the-larks.com) (formerly Larkin' About) - resident gamers.    
 [the Bluecoat](http://www.thebluecoat.org.uk)   
 [Work for Change](http://change.coop)   
