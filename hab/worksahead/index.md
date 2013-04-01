@@ -20,6 +20,6 @@ header_image: "header_woah_photo.jpg"
 
 Works Ahead took place in May 2012 at Contact, as a Contact Re:Con co-production and featured a night of performances and a night of interactions, featuring Lowri Evans, Gareth Cutter, Krissi Musiol, Julieann O'Malley, Angel Club (north), Small Acts, Fallen Wall Arts.  Have a look at the archive and gallery [here](/archive/2012-woah/index.html)    
 
-Works Ahead 2013 takes place 2/3 May 2013, once more at Contact.  Details coming soon.   
+Works Ahead 2013 takes place 2/3 May 2013, once more at Contact.  Click [here](/current/2013-worksahead/index.html) for details.   
 
 
