@@ -23,3 +23,9 @@ We forward information and opportunities to this group, both our own projects an
 If you would like to join the group please email <mailto:emergencynw-subscribe@yahoogroups.com>. All membership requests need to be approved so we can keep the group friendly and relevant, so please tell us a little bit about yourself.    
 
 [To join via the web](http://groups.yahoo.com/group/emergencynw/)  you need to have a Yahoo ID.    
+
+Other mailing lists artists might find useful to join are:    
+[LiveArt](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=LIVEART)    
+[SCUDD](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=SCUDD)    
+[ArtsNews](http://www.artsjobs.org.uk/arts-news-listings/)     
+
