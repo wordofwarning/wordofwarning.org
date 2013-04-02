@@ -26,6 +26,7 @@ A solo performance exploring the futility of language in the face of loss, *Soli
         
 **Sophie Nathan | Lucky Me**    
 A woman, dressed in cocktail dress, hair and make-up done, addresses a crowd at a lectern. “I just feel so lucky” she says. But the lectern is a prop and no-one is listening. You’ve never heard of her.    
+*Lucky Me* is a site-specific performance piece, which explores success, status and commodification of identity.    
 ![Sophie Nathan](sophienathan.jpg)    
         
 **Fiona Anderson | Sweet Nothings**    

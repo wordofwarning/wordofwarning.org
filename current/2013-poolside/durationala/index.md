@@ -22,7 +22,7 @@ Inspired by Oscar Wilde's novel *The Picture of Dorian Gray*, this installation 
 ![Lindsay Bennett](LindsayBennett.jpg)    
         
 **Sarah Spanton / Waymarking | City Scribe**   
-The *City Scribe* measures, marks and reflects on the city, inviting local people to reflect on it too. The *City Scribe* observes and documents the city's architecture, atmosphere and its flows of people through movement.    
+The *City Scribe* observes and documents Liverpool’s architecture, atmosphere and its flows of people through movement. The *City Scribe* measures, marks and reflects on the city, inviting local people to reflect on it too.    
 ![City Scribe](city_scribe.jpg)
         
 **Paper People Theatre | Here We Remain**    
@@ -40,15 +40,14 @@ Exploring the effects of duration on the mind, body and performance.
 I use installation, intervention, time-based media and performance. Inspired by Duchamp and Beuys my practise is democratic and egalitarian in delivery and execution, reacting to and embracing the laypersons common criticism of contemporary art: "I could do that".    
         
 **David Bethell | Constant Gardener**   
+Bored of performing mundane office tasks, a man constructs farming equipment from his office stationery to transform his desk into a landscape.    
+The work draws parallels between the ‘secret garden', and the city and shops that surround it.    
 ![David Bethell](david_bethell.jpg)    
         
 **Michelle Man & Lauren McGowan | i n l i g h t l e s s**   
 A durational, site-sensitive installation-dance piece created through a memory response to a passageway at the Bluecoat, stemming from a series of visits involving observing, sensing, documenting and touching the space. The passageway is both an outside and inside space, between the private and the public, carving into the body of the building. The choreographic language has emerged from the visceral ability of light to identify directly with human sensation and emotion. *i n l i g h t l e s s*  will exhibit a discreet trail of images, traces from our process; visions between the imagined and the real.     
         
 **A Bottle Top Productions | SNAP!**    
-        
-**Xristina Penna and the aswespeakproject | Uncovered:	can clothes tell stories?**  
-*Uncovered* uses multi-media, direct audience participation, sound and a sewing machine to *uncover* stories related to our clothes and build up a patchwork of memories, words and responses.     
-        
+         
 **Jack Coverdale | Twice Nightly**     
 A piece about the past, about a changing country and a change in culture. A piece about forgotten stars and fading sensibilities in the spit and sawdust theatres which used to dot this country.    

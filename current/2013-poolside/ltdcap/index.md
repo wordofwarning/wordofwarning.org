@@ -22,8 +22,10 @@ Using a bed of earth — the place of death and decay, as well as creation and g
 ![Kitty Graham](kitty_graham.jpg)    
         
 **PGB | FTSE**    
-*I have a secret. Do you have a secret?*        
-We all have secrets. Some we will share and some we won't. What is your secret worth? I'll tell you mine if you tell me yours...    
+*I have a secret. Do you?*    
+ We all have secrets... Some we will share and others we won't. What is your secret worth?    
+ Come and find out... I'll tell you mine if you tell me yours.    
+  
         
 **Rachel Gomme | Handover**    
 *If I give you my hand, will you give me yours?*        
@@ -36,3 +38,7 @@ An intimate live & digital performance inspired by film noir, mystery & silent d
 **Lara Haworth & Lucy Hayhoe | Citizens Exchange Bureau**    
 Haworth & Hayhoe are live artists who create participatory installations that ask audiences to re-imagine or reinterpret their lived environments. Previous works include The Library Project and Cupid (collaborations); home sweet home (Hayhoe); Customs and Border Patrol (Haworth). *Citizens Exchange Bureau* premiered at Buzzcut Festival in Glasgow, March 2013.    
 ![Citizens Exchange Bureau](citizensexchangebureau.jpg)    
+
+**Xristina Penna and the aswespeakproject | Uncovered:	can clothes tell stories?**  
+*Uncovered* uses multi-media, direct audience participation, sound and a sewing machine to *uncover* stories related to our clothes and build up a patchwork of memories, words and responses.    
+![Xristina Penna + the aswespeakprojct](xristina.jpg)
