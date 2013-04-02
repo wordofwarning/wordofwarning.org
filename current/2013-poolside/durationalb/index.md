@@ -45,5 +45,3 @@ A durational, site-sensitive installation-dance piece created through a memory r
         
 **A Bottle Top Productions | SNAP!**   
         
-**Xristina Penna and the aswespeakproject | Uncovered:	can clothes tell stories?**    
-*Uncovered* uses multi-media, direct audience participation, sound and a sewing machine to *uncover* stories related to our clothes and build up a patchwork of memories, words and responses.
