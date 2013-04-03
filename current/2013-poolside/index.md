@@ -29,7 +29,7 @@ Drop-in for ten minutes or stay for the full five hours — a free day-out for t
 
 **Saturday 13 April, from 12noon to 5pm**        
 A Bottle Top Productions | Fiona Anderson | Lindsay Bennett | David Bethell | Megan Clark-Bagnall | Jack Coverdale | Façade Theatre | Frances-Kay | Rachel Gomme | Kitty Graham | Sarah Grainger-Jones | Martin Hamblen | Haworth & Hayhoe | Michelle Man & Lauren McGowan | Sophie Nathan | Julieann O'Malley | Louise Orwin | Paper People Theatre | Xristina Penna + aswespeakproject | PGB | Rebekka Platt | Rosanne Robertson | Moreno Solinas | Sarah Spanton / Waymarking    
- 
+
 ####Venue + Booking Details
 Date: Saturday 13 April 2013, 12noon-5pm    
 [Venue: the Bluecoat](http://www.thebluecoat.org.uk/content/index/visitor-info), School Lane, Liverpool, L1 3BX    
