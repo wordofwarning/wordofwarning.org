@@ -42,4 +42,8 @@ Lemon squeezing, patience pushing, game playing, hand holding, inflatable loving
         
 **Joshua Hubbard F\*#"!D | Cul-de-sac**    
 An end to an end.    
-![Joshua Hubbard](JoshuaHubbard.jpg)
+![Joshua Hubbard](JoshuaHubbard.jpg)    
+
+**SoundMoves Mixed Movement Jam**    
+SoundMoves Mixed Movement Jam is an eclectic mix of dancers/movers and musicians joining together to improvise, celebrate and share their skills. The fusion of genres makes for a truly unique audience experience that will challenge your perceptions of dance/music
+improvisation!
