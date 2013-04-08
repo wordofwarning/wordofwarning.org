@@ -36,9 +36,7 @@ An invitation to a brief exchange of touch that leaves a lasting trace.
 An intimate live & digital performance inspired by film noir, mystery & silent discos. Observe and engage with a body left on the fringe of the world.      
          
 **Haworth & Hayhoe | Citizens Exchange Bureau**    
-Citizens Exchange Bureau provides a free knowledge exchange service. We offer face-to-face appointments with our friendly bureau staff, where you will have the opportunity to share and receive a unique, possibly useful piece of information. As the UK’s only knowledge exchange provider we are equipped to deal with any wisdom, of any substance, whether it be the theory of relativity, how to wire a plug, or where to find the best coffee in Liverpool. Citizens Exchange Bureau values diversity and promotes diffusion.    
-
-Haworth & Hayhoe are live artists who create participatory installations that ask audiences to re-imagine or reinterpret their lived environments. Previous works include The Library Project and Cupid (collaborations); home sweet home (Hayhoe); Customs and Border Patrol (Haworth). *Citizens Exchange Bureau* premiered at Buzzcut Festival in Glasgow, March 2013.    
+Citizens Exchange Bureau provides a free knowledge exchange service. We offer face-to-face appointments with our friendly bureau staff, where you will have the opportunity to share and receive a unique, possibly useful piece of information. As the UK’s only knowledge exchange provider we are equipped to deal with any wisdom, of any substance, whether it be the theory of relativity, how to wire a plug, or where to find the best coffee in Liverpool. Citizens Exchange Bureau values diversity and promotes diffusion.       
 ![Citizens Exchange Bureau](citizensexchangebureau.jpg)    
 
 **Xristina Penna and the aswespeakproject | Uncovered:	can clothes tell stories?**  
