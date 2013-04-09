@@ -42,4 +42,4 @@ Co-produced by hÅb + the Bluecoat.
 ####Schedule    
 All times are approximate and subject to change.
 To download, right click and save image.    
-![Poolside Schedule](Schedule.pdf)    
+![Poolside Schedule](Schedule.jpg)    
