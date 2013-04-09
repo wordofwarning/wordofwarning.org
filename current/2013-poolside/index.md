@@ -40,4 +40,4 @@ Venue Tel: 0151 702 5324
 Co-produced by hÅb + the Bluecoat.
 
 ####Schedule (subject to change)
-![Poolside Schedule](Schedule9.4.pdf)    
+![Poolside Schedule](Schedule.pdf)    
