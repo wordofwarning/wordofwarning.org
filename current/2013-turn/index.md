@@ -31,7 +31,9 @@ Rebekka Platt | hop.skip.jump dance collective | Jo Ashbridge | Oblique Strategi
 
 **Saturday 20 April, from 7.30pm**  
 Rebekka Platt | The Mustdashios | Percussive Customer Projects | Joseph Lau, Shona Roberts & Joseph While | Tom Bowes Dance | Maelstrom Productions | Emma Lansley | Joshua Hubbard F\*\#\"\!D | **from 10pm** SoundMoves Mixed Movement Jam      
-        
+
+**STOP PRESS: There will be pre-show events in the building from 7pm, including interactive and intimate performances.**   
+
 Have a look at our [gallery](/galleries/2012-turn/index.html) from Turn 2012.    
 
 ####Venue + Booking Details
