@@ -21,6 +21,13 @@ show_size: 4
 **Explosive, intimate, graceful and challenging — a two night micro-festival of emerging north west danceworks.**
         
 **Plus**: SoundMoves Mixed Movement Jam, Saturday from 10pm.    
+
+####Venue + Booking Details
+Dates: Friday 19 + Saturday 20 April 2013, 7.30pm    
+[Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
+[Tickets: £8/5 (2 night pass £10/6)](http://contactmcr.com/whats-on/1201-turn-2013/)    
+Box Office Tel: 0161 274 0600   
+
         
 From intimate encounters in tiny cupboards to slow-dancing in the dark, mass ensemble precision to individual grace, *Turn 2012* filled Contact to the brim with energy and virtuosity.     
         
@@ -36,11 +43,12 @@ Rebekka Platt | The Mustdashios | Percussive Customer Projects | Joseph Lau, Sho
 
 Have a look at our [gallery](/galleries/2012-turn/index.html) from Turn 2012.    
 
-####Venue + Booking Details
-Dates: Friday 19 + Saturday 20 April 2013, 7.30pm    
-[Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
-[Tickets: £8/5 (2 night pass £10/6)](http://contactmcr.com/whats-on/1201-turn-2013/)    
-Box Office Tel: 0161 274 0600   
+####Schedule    
+To download, right click and save image.    
+![Turn Schedule Friday](TurnschedFri.jpg)    
+![Turn Schedule Saturday](TurnschedSat.jpg)    
+  
+*All times are approximate and subject to change.*   
        
 ####Credits         
 Co-produced by hÅb, Contact, Dance initiative Greater Manchester + Live at LICA.
