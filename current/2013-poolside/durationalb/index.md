@@ -14,14 +14,12 @@ show_size: 3
 header_image: "header_pool_photo.jpg"
 
 ---
-*Part of* 'Poolside Emergency 2013 — [information](/current/2013-poolside/index.html)       
-          
-**Jack Coverdale | Twice Nightly**   
-A piece about the past, about a changing country and a change in culture. A piece about forgotten stars and fading sensibilities in the spit and sawdust theatres which used to dot this country.    
-
-**Sam Treadaway |  «**    
+*Part of* 'Poolside Emergency 2013 — [information](/current/2013-poolside/index.html)    
+    
+**Sam Treadaway |   «**    
 « , or rewind,  is a live interventional work in which the artist will trace, edit and rupture the architectural space of the Bluecoat, deploying only barrier tape and map pins.    
-The work is intended to address divisions and borders between  private and public territories. This includes the institutional control and sanction of a given place/space, be that within the 'non-spaces' of urban environments or, indeed, within the gallery setting and by extension the Art World.              [www.samtreadaway.com](http://www.samtreadaway.com)     
+
+The work is intended to address divisions and borders between  private and public territories. This includes the institutional control and sanction of a given place/space, be that within the 'non-spaces' of urban environments or, indeed, within the gallery setting and by extension the Art World.              [www.samtreadaway.com](http://www.samtreadaway.com)     
 ![Sam Treadaway](2.jpg)    
 
 **Julieann O'Malley | Salty Milk: Violation of Expectation**   
@@ -49,4 +47,6 @@ A durational, site-sensitive installation-dance piece created through a memory r
 ![inlightless](inlightless.jpg)    
         
 **A Bottle Top Productions | SNAP!**   
-        
+    
+CANCELLED: **Jack Coverdale | Twice Nightly**    
+A piece about the past, about a changing country and a change in culture. A piece about forgotten stars and fading sensibilities in the spit and sawdust theatres which used to dot this country.
