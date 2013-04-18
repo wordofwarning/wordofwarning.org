@@ -34,9 +34,6 @@ A one-woman crusade to the ultimate exhilarating performance, think Truth-or-Dar
 **Rosanne Robertson | Semi-automatic**    
 The connection between a subtle movement and an imposing sound. By connecting body, object, action and sound via the amplified vibration of a surface this piece presents an uncomplicated arrangement exploring control. A continuous moment of control charged with the impeding terror of possible loss of control.
         
-**Frances-Kay | Scaffold**     
-Exploring the effects of duration on the mind, body and performance.    
-
 **Martin Hamblen | Cutting Corners**    
 I use installation, intervention, time-based media and performance. Inspired by Duchamp and Beuys my practise is democratic and egalitarian in delivery and execution, reacting to and embracing the laypersons common criticism of contemporary art: "I could do that".    
 
@@ -47,6 +44,9 @@ A durational, site-sensitive installation-dance piece created through a memory r
 ![inlightless](inlightless.jpg)    
         
 **A Bottle Top Productions | SNAP!**   
+    
+ONLY 12noon-2pm: **Frances-Kay | Scaffold**     
+Exploring the effects of duration on the mind, body and performance.   
     
 CANCELLED: **Jack Coverdale | Twice Nightly**    
 A piece about the past, about a changing country and a change in culture. A piece about forgotten stars and fading sensibilities in the spit and sawdust theatres which used to dot this country.
