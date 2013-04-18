@@ -49,5 +49,5 @@ A durational, site-sensitive installation-dance piece created through a memory r
         
 **A Bottle Top Productions | SNAP!**    
          
-**Jack Coverdale | Twice Nightly**     
+CANCELLED: **Jack Coverdale | Twice Nightly**     
 A piece about the past, about a changing country and a change in culture. A piece about forgotten stars and fading sensibilities in the spit and sawdust theatres which used to dot this country.    
