@@ -37,7 +37,10 @@ After a 10 year BAFTA-nominated + Perrier Award-winning collaboration with Kim 
 *You Look Like Ants* is an intimate, humorous, tragi-ballad. A conversational and textually rich epic journey where Stuart seeks to get a hold on what life is all about, under the crush of great advice.    
         
 ![Stuart Silver](stu.jpg)   
-       
+
+####Video    
+See trailer [here](http://vimeo.com/32173929).    
+    
 ####Who is he?    
 Stuart Silver is a BAFTA-nominated, Perrier Award-winning writer / performer / director, working across theatre and gallery venues, television, radio, public spaces and experimental educational and mentoring contexts. He is co-founder of Multimedia double act (nobleandsilver) and more recently has performed solo at Soho Theatre, The London Word Festival, Pharos Arts Foundation — Cyprus, Tate Britain, How the Light Gets In music and philosophy festival at Hay, and Anti site-specific festival — Finland.    
      
