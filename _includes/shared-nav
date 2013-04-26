@@ -5,7 +5,7 @@
 					<nav>
 					    <a href="{{ page.rootpath }}current/2013-springsummer/index.html">Performance Collection S/S 2013</a>
 					    <a href="{{ page.rootpath }}archive/index.html">Archive</a>  
-					    rawhtmlinstead: "<a href='http://wordofwarning.posthaven.com'>Weekly Signpost</a>"
+					    <a href='http://wordofwarning.posthaven.com'>Weekly Signpost</a>
 					    <a href="{{ site.mailer_signup_url }}">Sign-up</a>
 					    <a href="{{ page.rootpath }}hab/index.html">hÅb</a>
 					</nav>
