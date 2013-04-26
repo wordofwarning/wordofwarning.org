@@ -4,7 +4,7 @@
 			<div class="row">
 				<div class="four columns">
 					<h4 id="mailer">Weekly Update</h4>
-					<p><a href="{{ site.mailer_signup_url }}">Sign up</a> for your no-nonsense <a href="http://wordofwarning.posterous.com/">weekly e-mail</a><br>signpost to the bizarre, the beautiful and the best contemporary performance within range of Manchester.</p>
+					<p><a href="{{ site.mailer_signup_url }}">Sign up</a> for your no-nonsense <a href="http://wordofwarning.posthaven.com">weekly e-mail</a><br>signpost to the bizarre, the beautiful and the best contemporary performance within range of Manchester.</p>
 					<h4>Calendar</h4>
 					<p>Word of Warning also maintains a <br><a href="https://www.google.com/calendar/embed?src=wordofwarningmcr%40gmail.com&amp;ctz=Europe/London">Google calendar</a>.</p>
 				</div>
