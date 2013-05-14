@@ -55,7 +55,6 @@ Developed with support from Works Ahead, Contact, The Future, University of Salf
 Photography by Layla Sailor.   
 
 ####Websites
-[www.thelowri.com](http://www.thelowri.com)    
-[@lowrievans](www.twitter.com/lowrievans)
+[www.thelowri.com](http://www.thelowri.com) | [@LowriEvans](http://twitter.com/lowrievans)    
      
 ![The Secret Life of You and Me](lowri_brochure.jpg)
