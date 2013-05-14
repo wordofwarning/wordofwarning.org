@@ -63,8 +63,8 @@ Written and performed by Stuart Silver
 Co-directed by Stuart Silver and Jason Phipps     
 This work has been funded by Arts Council England.     
         
-####Website    
-[www.astuartsilver.com](http://www.astuartsilver.com)    
+####Websites    
+[www.astuartsilver.com](http://www.astuartsilver.com) | [@aStuartSilver](http://twitter.com/astuartsilver)      
          
 ![Tam Hinton](header_hinton_photo.jpg)    
            
