@@ -52,8 +52,8 @@ He is currently working on a trilogy of devised performances inspired by Shakesp
 A hÅb micro-commission.    
 Production photos by Julian Hughes.    
     
-####Website    
-[www.michaelpinchbeck.co.uk](http://www.michaelpinchbeck.co.uk)     
+####Websites    
+[www.michaelpinchbeck.co.uk](http://www.michaelpinchbeck.co.uk) | [@MDPinchbeck](http://twitter.com/MDPinchbeck)      
     
 ![Rat, Rose, Bird](header_ghelani2_photo.jpg)    
      
@@ -76,6 +76,9 @@ As a collaborative artist she is a long-standing Associate Artist of Blast Theor
  
 Her work is informed by her own experience of being mixed heritage. She is interested in the relationship between art and science with particular focus on hybridity, crossings, blood, skins, skinning, carefully controlled experiments, colour, genetics and love.   
     
+####What people have said about her
+Two reviews of *Rat, Rose, Bird* at Chelsea Theatre in April 2013: Lara Tutton for The F-Word is [here](http://www.thefword.org.uk/reviews/2013/05/the_art_of_performance) and Lewis Church for EXEUNT is [here](http://exeuntmagazine.com/reviews/rat-rose-bird/).
+    
 ####Credits    
 Originally a BAC Scratch Commission, supported by the National Lottery through Arts Council England.    
 Lighting Design: Martin Langthorne   
@@ -83,5 +86,5 @@ Original Sound: Bob Karper
 Sheila & Rose Image: Daniel Martin (2011)    
 *Rat, Rose, Bird* set image: Briony Campbell (2011)    
            
-####Website    
-[www.sheilaghelani.co.uk](http://www.sheilaghelani.co.uk)    
+####Websites    
+[www.sheilaghelani.co.uk](http://www.sheilaghelani.co.uk) | [@SheilaGhelani](http://twitter.com/SheilaGhelani)
