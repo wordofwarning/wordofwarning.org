@@ -49,8 +49,8 @@ To download, right click and save image.
   
 *All times are approximate and subject to change.*   
        
-####What people have said about Turn    
-4* review of Friday night [here](http://www.thepublicreviews.com/turn-2013-contact-manchester/).    
+####What people said about Turn 2013    
+A 4* review of Friday night [here](http://www.thepublicreviews.com/turn-2013-contact-manchester/).    
     
 ####Credits         
 Co-produced by hÅb, Contact, Dance initiative Greater Manchester + Live at LICA.
