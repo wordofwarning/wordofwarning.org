@@ -53,8 +53,8 @@ Jenna has directed and created work for National Theatre of Scotland, Traverse T
     
 >*That casual air of Watt's stage presence, however, conflicts violently with the questions she is forcing us all to ask ourselves: am I a bystander, or am I a flâneur? These questions lead to a twist ending that will truly leave you dizzied.*<br>Broadway World    
     
-####Website    
-[www.jennawatt.co.uk](http://www.jennawatt.co.uk)  
-    
+####Websites    
+[www.jennawatt.co.uk](http://www.jennawatt.co.uk) | [@theJennaWatt](http://twitter.com/thejennawatt)   
+      
 ####Credits    
 The Tom McGrath Trust, Summerhall, National Theatre of Scotland, Forest Fringe, The Arches, The Basement, Tron Theatre.
