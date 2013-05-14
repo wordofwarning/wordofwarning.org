@@ -24,7 +24,7 @@ gallery:
     -   {file: "paperpeople.jpg", artist: "Paper People Theatre"}
     -   {file: "fionaanderson.jpg", artist: "Fiona Anderson"}
     -   {file: "moreno.jpg", artist: "Moreno Solinas"}
-    -   {file: "michelleman.jpg", artist: "Michelle Mann + Lauren McGowan"}
+    -   {file: "michellemann.jpg", artist: "Michelle Mann + Lauren McGowan"}
     -   {file: "nutter.jpg", artist: "A Bottle Top Productions"}    
     -   {file: "rachelgomme.jpg", artist: "Rachel Gomme"}
     -   {file: "samtreadaway2.jpg", artist: "Sam Treadaway"}
