@@ -40,7 +40,10 @@ Dates: Thursday 2 + Friday 3 May 2013, 7.30pm
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
 [Tickets: £5/3 (2 night pass £8/5)](http://contactmcr.com/worksahead/)    
 Box Office Tel: 0161 274 0600   
-       
+    
+####What people said about Works Ahead 2013    
+Two 4* reviews of Thursday night [here](http://www.whatsonstage.com/index.php?pg=207&story=E8831367600858) and [here](http://thegoodreview.co.uk/2013/05/works-ahead-the-contact-theatre-manchester/).    
+    
 ####Credits         
 Co-produced by hÅb + Contact.       
 Turn Prize 2012 commissioned by Dance initiative Greater Manchester + supported by Live at LICA.
