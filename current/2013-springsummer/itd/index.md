@@ -63,9 +63,12 @@ This workshop focuses on a devising technique used by itd to make their shows. I
 Suitable for ages 15+ (most suitable for Further/Higher Education/Adult Practitioners). Free with a show ticket, book via Contact B/O: 0161 274 0600     
     
 ![6 Degrees Below the Horizon](itd3.jpg)
-    
+     
+####What people said about them     
+A 5* review of *6Degrees* at Contact is [here](http://www.whatsonstage.com/index.php?pg=207&story=E8831368166046).     
+     
 ####Credits         
 This production is supported by Arts Council England.    
      
-####Website    
-[www.imitatingthedog.co.uk](http://www.imitatingthedog.co.uk)
+####Websites    
+[www.imitatingthedog.co.uk](http://www.imitatingthedog.co.uk) | [@imitatingthedog](http://twitter.com/ImitatingtheDog)
