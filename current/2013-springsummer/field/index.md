@@ -60,7 +60,7 @@ In part three we are invited out on to the streets, to imagine the same disaster
 ####Credits    
 *Zilla!* was made with the support of Shunt, Stoke Newington International Airport and Apiary Studios.    
     
-####Website    
-[www.andytfield.co.uk/](http://www.andytfield.co.uk/)    
+####Websites    
+[www.andytfield.co.uk](http://www.andytfield.co.uk/) | [@AndytField](http://twitter.com/andytfield)    
     
 ![Zilla](ZillaHatch.jpg)
