@@ -74,9 +74,9 @@ performance in the East Midlands, and lectures at the University of Lincoln.
 Developed at Lakeside Arts Centre (Nottingham), Leeds Met Studio Theatre, Loughborough University and The Junction (Cambridge). Supported using public funding by the National Lottery through Arts Council England, and commissioned by World Event Young Artists 2012 (Nottingham).    
     
 ####Websites    
-[www.michaelpinchbeck.co.uk](http://www.michaelpinchbeck.co.uk)    
+[www.michaelpinchbeck.co.uk](http://www.michaelpinchbeck.co.uk) | [@MDPinchbeck](http://twitter.com/mdpinchbeck)    
 [www.makingthebeginning.tumblr.com](http://www.makingthebeginning.tumblr.com)   
-
+    
 ![The Debutants](Debut.jpg)     
 
 ##M Pinchbeck + The Debutants | Debut         
