@@ -8,7 +8,7 @@ title: "Word of Warning + the Bluecoat present 'Poolside Emergency"
 header: <img src="logo.png">
 stylesheet: gallery.css
 
-more_link: Poolside Emergency
+more_link: 'Poolside Emergency
 more_url: "../../current/2013-poolside/index.html"
 
 gallery:
