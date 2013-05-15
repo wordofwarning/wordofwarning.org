@@ -4,6 +4,7 @@
 layout: archive
 
 archived:
+	- {folder: "wordofwarning.github.com/galleries", name: "Galleries"}
     - {folder: "2013-spring", name: "Spring 2013", class: "s2013"}
     - {folder: "2012-autumnwinter", name: "Autumn/Winter 2012", class: "aw2012"}
     - {folder: "2012-emergency", name: "Emergency 2012", class: "e2012"}
