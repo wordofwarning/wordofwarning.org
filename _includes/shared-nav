@@ -4,8 +4,9 @@
 					<a href="{{ page.rootpath }}index.html">Word of Warning</a> 
 					<nav>
 					    <a href="{{ page.rootpath }}current/2013-springsummer/index.html">Performance Collection S/S 2013</a>
-					    <a href="{{ page.rootpath }}archive/index.html">Archive</a>  
-					    <a href='http://wordofwarning.posthaven.com'>Weekly Signpost</a>
+					    <a href="{{ page.rootpath }}archive/index.html">Archive</a> 
+					    <a href="{{ page.rootpath }}galleries/index.html">Galleries</a>
+					    <a href='http://wordofwarning.posthaven.com'>Signpost</a>
 					    <a href="{{ site.mailer_signup_url }}">Sign-up</a>
 					    <a href="{{ page.rootpath }}hab/index.html">hÅb</a>
 					</nav>
