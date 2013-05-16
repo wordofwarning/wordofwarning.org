@@ -27,7 +27,7 @@ gallery:
     -   {file: "maelstrom.jpg", artist: "Maelstrom Dance"}
     -   {file: "lansley.jpg", artist: "Emma Lansley"}
     -   {file: "percussive.jpg", artist: "Percussive Customer Projects"}
-    -   {file: "hubbard.jpg", artist: "Joshua Hubbard F*#"!D"}
+    -   {file: "hubbard.jpg", artist: "Joshua Hubbard FD"}
     
     
 ---
