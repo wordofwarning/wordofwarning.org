@@ -4,6 +4,7 @@
 layout: archive
 
 archived:
+    - {folder: "2013-turn", name: "Turn 2013", class: "t2013"}
     - {folder: "2013-poolside", name: "Poolside Emergency 2013", class: "p2013"}
     - {folder: "2013-haphazard", name: "Haphazard 2013", class: "s2013"}
     - {folder: "2012-autumnwinter", name: "Autumn/Winter 2012", class: "aw2012"}
@@ -16,4 +17,4 @@ archived:
 ---
 
 # Galleries     
-Gallery of hÅb and Word of Warning's previous events organised by collection in chronological order (most recent first).
+Galleries of hÅb and Word of Warning's previous events, organised by collection in chronological order (most recent first).
