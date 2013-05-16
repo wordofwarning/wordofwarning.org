@@ -28,4 +28,5 @@ gallery:
     -   {file: "lansley.jpg", artist: "Emma Lansley"}
     -   {file: "percussive.jpg", artist: "Percussive Customer Projects"}
     -   {file: "hubbard.jpg", artist: "Joshua Hubbard F*#"!D"}
+    
 ---
