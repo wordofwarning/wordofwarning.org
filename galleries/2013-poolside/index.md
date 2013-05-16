@@ -13,7 +13,7 @@ more_url: "../../current/2013-poolside/index.html"
 
 gallery:
     -   {file: "samtreadaway.jpg", show: "Mayhem on Merseyside"}
-    -   {file: "rosannerobertson.jpg", artist: "Rosanne Roberton"}
+    -   {file: "rosannerobertson.jpg", artist: "Rosanne Robertson"}
     -   {file: "franceskay.jpg", artist: "Frances-Kay"}
     -   {file: "davidbethell.jpg", artist: "David Bethell"}
     -   {file: "martinhamblen.jpg", artist: "Martin Hamblen"}
