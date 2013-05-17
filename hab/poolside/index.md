@@ -18,6 +18,6 @@ header_image: "header_pe_photo.jpg"
 
 **'Poolside Emergency** is the younger scouse sibling of Emergency.  An occasional platform for live art and contemporary performance co-produced with and presented at the Bluecoat, Liverpool over the course of one day.    
 
-In 2013 it took place on **Saturday 13 April**. Programme details [here](/current/2013-poolside/index.html) and gallery images [here](/galleries/2013-poolside/index.html)    
+In 2013 it took place on **Saturday 13 April**. Programme details [here](/current/2013-poolside/index.html) and gallery images [here](/galleries/2013-poolside/index.html).    
 
 
