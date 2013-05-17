@@ -4,7 +4,7 @@ layout: fullscreengallery
 assetpath: "../../../"
 galleryimagespath: ""
 
-title: "Word of Warning presents Works Ahead 2013"
+title: "Word of Warning + Contact present Works Ahead 2013"
 header: <img src="logo.png">
 stylesheet: gallery.css
 
@@ -22,8 +22,8 @@ gallery:
     -   {file: "ellen2.jpg", artist: "Ellen Turner"}
     -   {file: "lena1.jpg", artist: "Lena Simic"}
     -   {file: "lena2.jpg", artist: "Lena Simic"}
-    -   {file: "facade1.jpg", artist: "Facade Theatre"}
-    -   {file: "facade2.jpg", artist: "Facade Theatre"}
+    -   {file: "facade1.jpg", artist: "Façade Theatre"}
+    -   {file: "facade2.jpg", artist: "Façade Theatre"}
     -   {file: "wayne1.jpg", artist: "Wayne Steven Jackson"}
     -   {file: "wayne2.jpg", artist: "Wayne Steven Jackson"}
     
