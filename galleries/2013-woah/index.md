@@ -13,8 +13,8 @@ more_url: "../../current/2013-worksahead/index.html"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small>Images: Bee Mackenzie, Javier Camañas Saéz, Tamsin Drury, Andrew Crofts</small>"}
-    -   {file: "7030.jpg", artist: "7030 Split"}
-    -   {file: "70302.jpg", artist: "7030 Split"}
+    -   {file: "7030.jpg", artist: "70/30 Split"}
+    -   {file: "70302.jpg", artist: "70/30 Split"}
     -   {file: "kitty.jpg", artist: "Kitty Graham"}
     -   {file: "lau1.jpg", artist: "Joseph Lau"}
     -   {file: "lau2.jpg", artist: "Joseph Lau"}
