@@ -12,7 +12,7 @@ more_link: Works Ahead 2013
 more_url: "../../current/2013-worksahead/index.html"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "<small>Images: Bee Mackenzie, Javier Camanas Saez, Tamsin Drury, Andrew Crofts</small>"}
+    -   {file: "titlepage.jpg", artist: "<small>Images: Bee Mackenzie, Javier Camañas Saéz, Tamsin Drury, Andrew Crofts</small>"}
     -   {file: "7030.jpg", artist: "7030 Split"}
     -   {file: "70302.jpg", artist: "7030 Split"}
     -   {file: "kitty.jpg", artist: "Kitty Graham"}
