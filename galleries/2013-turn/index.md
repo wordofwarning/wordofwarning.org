@@ -4,7 +4,7 @@ layout: fullscreengallery
 assetpath: "../../../"
 galleryimagespath: ""
 
-title: "Word of Warning presents Turn 2013"
+title: "Word of Warning, Contact, DiGM + Live at LICA present Turn 2013"
 header: <img src="logo.png">
 stylesheet: gallery.css
 
