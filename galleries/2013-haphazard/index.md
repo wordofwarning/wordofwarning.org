@@ -9,7 +9,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: Haphazard
-more_url: "../../current/2013-springsummer/haphazard/index.html"
+more_url: "../../archive/2013-spring/haphazard/index.html"
 
 gallery:
     -   {file: "titlepage.jpg", show: "A free day out for the curious of all ages, click top left Haphazard for more."}
