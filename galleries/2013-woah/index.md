@@ -23,7 +23,7 @@ gallery:
     -   {file: "lena1.jpg", artist: "Lena Simic"}
     -   {file: "lena2.jpg", artist: "Lena Simic"}
     -   {file: "facade1.jpg", artist: "Facade Theatre"}
-    -   {file: "facade2.jpg", artist: "Facade Theatre"
+    -   {file: "facade2.jpg", artist: "Facade Theatre"}
     -   {file: "wayne1.jpg", artist: "Wayne Steven Jackson"}
     -   {file: "wayne1.jpg", artist: "Wayne Steven Jackson"}
     
