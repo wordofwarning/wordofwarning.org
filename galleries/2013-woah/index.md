@@ -28,4 +28,5 @@ gallery:
     -   {file: "wayne1.jpg", artist: "Wayne Steven Jackson"}
     
     
+    
 ---
