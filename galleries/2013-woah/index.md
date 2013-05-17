@@ -17,7 +17,7 @@ gallery:
     -   {file: "70302.jpg", artist: "7030 Split"}
     -   {file: "kitty.jpg", artist: "Kitty Graham"}
     -   {file: "lau1.jpg", artist: "Joseph Lau"}
-    -   {file: "lau1.jpg", artist: "Joseph Lau"}
+    -   {file: "lau2.jpg", artist: "Joseph Lau"}
     -   {file: "ellen1.jpg", artist: "Ellen Turner"}
     -   {file: "ellen2.jpg", artist: "Ellen Turner"}
     -   {file: "lena1.jpg", artist: "Lena Simic"}
@@ -25,7 +25,7 @@ gallery:
     -   {file: "facade1.jpg", artist: "Facade Theatre"}
     -   {file: "facade2.jpg", artist: "Facade Theatre"}
     -   {file: "wayne1.jpg", artist: "Wayne Steven Jackson"}
-    -   {file: "wayne1.jpg", artist: "Wayne Steven Jackson"}
+    -   {file: "wayne2.jpg", artist: "Wayne Steven Jackson"}
     
     
     
