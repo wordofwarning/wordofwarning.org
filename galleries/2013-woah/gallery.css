@@ -14,8 +14,8 @@ p
 	{width:130px;padding:20px;}	
 #header #info
 	{display:none;}
-#header:hover 
-	{background: #fd0; cursor:pointer;}
+#header
+	{font-size:30px;}
 #header:hover #info
 	{display: block;}
 		
