@@ -10,8 +10,8 @@ stylesheet: gallery.css
 
 more_link: Works Ahead 2013
 more_url: "../../current/2013-worksahead/index.html"
-more_link: Back to Galleries
-more_url: "../../galleries/index.html"
+more2_link: Back to Galleries
+more2_url: "../../galleries/index.html"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small>Images: Bee Mackenzie, Javier Camañas Saéz, Tamsin Drury, Andrew Crofts</small>"}
