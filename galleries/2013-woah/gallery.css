@@ -15,8 +15,8 @@ p
 #header #info
 	{display:none;}
 #header
-	{font-size:30px;}
-#header:hover #info
+	{font-size:18px;}
+#header #info
 	{display: block;}
 		
 a, a:visited, a:hover
