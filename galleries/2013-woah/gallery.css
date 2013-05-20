@@ -15,7 +15,7 @@ p
 #header #info
 	{display:none;}
 #header:hover 
-	{background: #300; cursor:pointer;}
+	{background: #fd0; cursor:pointer;}
 #header:hover #info
 	{display: block;}
 		
