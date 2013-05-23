@@ -21,8 +21,8 @@ show_size: 3
         
 **Mayhem on Merseyside — a day-long splash of live art and performance in Liverpool.**    
 
-**NEW - [click here for gallery of day's events](/galleries/2013-poolside/) **    
-
+**NEW — [click here for a gallery of images from the day](/galleries/2013-poolside/).**    
+    
 Returning for its third frenetic outing, this mini-marathon of the weird and the wonderful, the bizarre and the breathtaking takes over at the Bluecoat.
 
 Previously at 'Poolside: a hunting party leading a charge and visceral experiments with butter and treacle; slow-dances in the lifts and singing in the toilets; mermaids in the cupboards and bucket-dancing in the stairwells.
