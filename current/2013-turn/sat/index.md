@@ -29,6 +29,7 @@ A relationship captured through dance, drawings & impressions.
         
 **Tom Bowes Dance | Brute**    
 Following four peculiar characters who delve into the uncertainty of the unknown. They displace the ordinary and hoard past happenings. Ensnared by animal qualities and human desires, *Brute* makes inquiries into decision and discovery.                
+A documentary about Tom Bowes Dance performing *Brute* on Saturday night is [here](http://vimeo.com/66465915).    
 ![Tom Bowes Dance](tom_bowes_dance.jpg)    
         
 **Maelstrom Productions | Preppers**    
@@ -47,3 +48,5 @@ An end to an end.
 **SoundMoves Mixed Movement Jam**    
 SoundMoves Mixed Movement Jam is an eclectic mix of dancers/movers and musicians joining together to improvise, celebrate and share their skills. The fusion of genres makes for a truly unique audience experience that will challenge your perceptions of dance/music
 improvisation!
+    
+A gallery of images from both nights is [here](/galleries/2013-turn/index.html).
