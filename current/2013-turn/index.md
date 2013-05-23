@@ -40,12 +40,10 @@ Rebekka Platt | hop.skip.jump dance collective | Jo Ashbridge | Adam John Robert
 **Saturday 20 April, from 7.30pm**  
 Rebekka Platt | The Mustdashios | Joseph Lau, Shona Roberts & Joseph While | Tom Bowes Dance | Percussive Customer Projects | Maelstrom Productions | Emma Lansley | Joshua Hubbard F\*\#\"\!D | **from 10pm** SoundMoves Mixed Movement Jam    
     
-####Schedule    
+####Schedule *All times are approximate and subject to change.*          
 To download, right click and save image.    
 ![Turn Schedule Friday](TurnschedFri.jpg)    
 ![Turn Schedule Saturday](TurnschedSat.jpg)    
-  
-*All times are approximate and subject to change.*   
        
 ####What people said about Turn 2013    
 A 4* review of Friday night is [here](http://www.thepublicreviews.com/turn-2013-contact-manchester/).    
