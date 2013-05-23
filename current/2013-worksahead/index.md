@@ -33,8 +33,6 @@ Lena Simic | 1994
 Façade Theatre | Celladour       
 Wayne Steven Jackson | (rewind) and two        
         
-Have a look at our [gallery](/galleries/2012-woah/index.html) from Works Ahead 2012.    
-        
 ####Venue + Booking Details
 Dates: Thursday 2 + Friday 3 May 2013, 7.30pm    
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
@@ -42,7 +40,8 @@ Dates: Thursday 2 + Friday 3 May 2013, 7.30pm
 Box Office Tel: 0161 274 0600   
     
 ####What people said about Works Ahead 2013    
-Two 4* reviews of Thursday night [here](http://www.whatsonstage.com/index.php?pg=207&story=E8831367600858) and [here](http://thegoodreview.co.uk/2013/05/works-ahead-the-contact-theatre-manchester/).    
+Two 4* reviews of Thursday night are [here](http://www.whatsonstage.com/index.php?pg=207&story=E8831367600858) and [here](http://thegoodreview.co.uk/2013/05/works-ahead-the-contact-theatre-manchester/).    
+A gallery of images from both nights is [here](/galleries/2013-woah/index.html).    
     
 ####Credits         
 Co-produced by hÅb + Contact.       
