@@ -43,3 +43,6 @@ Sometime fragile, sometimes visceral, *Everything Beautiful is Stolen* sees danc
 **Daniela B Larsen & Robert Guy | This House Smells of Ghosts**    
 *"I'm so scared I won't find what I'm looking for because I'm such a bad looker."*    
 ![Daniela B Larsen & Robert Guy](daniela.jpg)
+    
+A 4* review of Friday night is [here](http://www.thepublicreviews.com/turn-2013-contact-manchester/).    
+A gallery of images from both nights is [here](/galleries/2013-turn/index.html).
