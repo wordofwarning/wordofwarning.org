@@ -6,6 +6,6 @@ header_image: "assets/images/header_springsummer13.jpg"
 
 ---
 #Welcome to [S/S 2013](/current/2013-springsummer/index.html) — an ongoing whirlwind...    
-##Next: a [Pinchbeck|Ghelani](/current/2013-springsummer/pinchbeckghelani/index.html) double bill, Z-arts *Fri 31 May*.    
-##At Contact in June: [Andy Field](/current/2013-springsummer/field/index.html) *13&14*; [Jenna Watt](/current/2013-springsummer/watt/index.html) *Th 20*.    
+##This Friday *31 May* sees a [Michael Pinchbeck & Sheila Ghelani](/current/2013-springsummer/pinchbeckghelani/index.html) double bill at Z-arts.    
+##In June at Contact: [Andy Field](/current/2013-springsummer/field/index.html) *13&14*; [Jenna Watt](/current/2013-springsummer/watt/index.html) *Th 20*.    
 ##Sign up [here]({{ site.mailer_signup_url }}) for updates.
