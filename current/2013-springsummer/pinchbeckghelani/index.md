@@ -49,7 +49,7 @@ He is currently working on a trilogy of devised performances inspired by Shakesp
 >*An individual practice that is powerful and compelling*<br>ArtArtArt magazine    
      
 ####Credits    
-A hÅb micro-commission.    
+A hÅb micro-commission, developed at LPAC (Lincoln), Curve Theatre (Leicester) and Lakeside Arts Centre (Nottingham).    
 Production photos by Julian Hughes.    
     
 ####Websites    
@@ -80,9 +80,14 @@ Her work is informed by her own experience of being mixed heritage. She is inter
 Two reviews of *Rat, Rose, Bird* at Chelsea Theatre in April 2013: Lara Tutton for The F-Word is [here](http://www.thefword.org.uk/reviews/2013/05/the_art_of_performance) and Lewis Church for EXEUNT is [here](http://exeuntmagazine.com/reviews/rat-rose-bird/).
     
 ####Credits    
-Originally a BAC Scratch Commission, supported by the National Lottery through Arts Council England.    
-Lighting Design: Martin Langthorne   
-Original Sound: Bob Karper    
+A BAC Scratch Commission, supported by the National Lottery through Arts Council England.    
+Lighting Design: Marty Langthorne
+Set: Marty Langthorne & Sheila Ghelani
+Sound: Bob Karper
+Outside-eye: Dicky Eton & Caitlin Newton-Broad
+Video advice: Becky Edmunds
+Producer: Sally Rose
+Costume: Emma Kate-Wood
 Sheila & Rose Image: Daniel Martin (2011)    
 *Rat, Rose, Bird* set image: Briony Campbell (2011)    
            
