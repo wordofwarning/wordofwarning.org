@@ -28,7 +28,10 @@ A disaster movie for the stage and a story of heroism told with lego.
 By turns funny, sad, hypnotic and ridiculous, *Zilla!* is an epic attempt to look from a different perspective at the cities we live in and the cities we dream of.    
      
 Book Parts 1 & 2 together — get Part 3 free to take away!   
-      
+   
+####Trailer    
+Watch video [here](http://vimeo.com/67732979).    
+     
 ####Venue + Booking Details
 Date: Thursday 13 + Friday 14 June 2013 — 7pm Part1 + 9pm Part2  
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
