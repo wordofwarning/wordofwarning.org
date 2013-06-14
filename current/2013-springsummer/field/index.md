@@ -29,8 +29,7 @@ By turns funny, sad, hypnotic and ridiculous, *Zilla!* is an epic attempt to loo
      
 Book Parts 1 & 2 together — get Part 3 free to take away!   
    
-####Trailer    
-Watch video [here](http://vimeo.com/67732979).    
+Watch trailer [here](http://vimeo.com/67732979).    
      
 ####Venue + Booking Details
 Date: Thursday 13 + Friday 14 June 2013 — 7pm Part1 + 9pm Part2  
@@ -38,6 +37,9 @@ Date: Thursday 13 + Friday 14 June 2013 — 7pm Part1 + 9pm Part2
 [Tickets: £8/5 each OR £12/8 both parts](http://contactmcr.com/whats-on/1222-andy-field-zilla/)   
 Box Office Tel: 0161 274 0600  
       
+####Q&A          
+On Friday 14 June there will be a Q&A with Andy Field in Contact space 5 between Parts 1 & 2 (approx. 8.15pm).
+
 ####More    
 In part one we look at the city from above, imagining the people far below like ants. We choose our characters and watch from safety as the disaster unfolds in front of us.    
       
