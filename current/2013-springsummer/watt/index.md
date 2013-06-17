@@ -21,7 +21,9 @@ header_image: "header_flaneurs_photo.jpg"
    
 ####In Brief
 In 2010 a friend of Jenna's was the victim of a violent attack. Shocked to discover there were bystanders at the scene, Jenna created *Flâneurs* in an attempt to explore why we choose to intervene or not, and asks whether 'one punch is enough' to provoke an intervention. *Flâneurs* is a new piece of theatre that explores the nature of violence in our cities and attempts to deconstruct the 'bystander effect'.    
-     
+    
+Watch trailer [here](http://vimeo.com/49452231).    
+    
 *The larger the crowd, the less likely it is that anyone will intervene...*    
      
 **Winner of Scotsman Fringe First Award 2012.**    
