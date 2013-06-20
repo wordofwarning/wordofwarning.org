@@ -34,7 +34,7 @@ Date: Thursday 20 June 2013, 7.30pm
 [Tickets: £8/5](http://contactmcr.com/whats-on/1224-jenna-watt-flaneurs/)   
 Box Office Tel: 0161 274 0600   
      
-#####Q&A    
+####Q&A    
 There will be a post-show discussion.
      
 ####More    
