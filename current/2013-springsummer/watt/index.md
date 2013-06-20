@@ -22,9 +22,9 @@ header_image: "header_flaneurs_photo.jpg"
 ####In Brief
 In 2010 a friend of Jenna's was the victim of a violent attack. Shocked to discover there were bystanders at the scene, Jenna created *Flâneurs* in an attempt to explore why we choose to intervene or not, and asks whether 'one punch is enough' to provoke an intervention. *Flâneurs* is a new piece of theatre that explores the nature of violence in our cities and attempts to deconstruct the 'bystander effect'.    
     
-Watch trailer [here](http://vimeo.com/49452231).    
-    
 *The larger the crowd, the less likely it is that anyone will intervene...*    
+    
+Watch trailer [here](http://vimeo.com/49452231).    
      
 **Winner of Scotsman Fringe First Award 2012.**    
     
@@ -33,7 +33,10 @@ Date: Thursday 20 June 2013, 7.30pm
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
 [Tickets: £8/5](http://contactmcr.com/whats-on/1224-jenna-watt-flaneurs/)   
 Box Office Tel: 0161 274 0600   
-    
+     
+#####Q&A    
+There will be a post-show discussion.
+     
 ####More    
 *Flâneurs* is a touching and effecting story of friendship, violence and intervention, that explores the nature of violent acts in public spaces, from a pedestrian subway in Edinburgh to Londonʼs Overground.    
     
