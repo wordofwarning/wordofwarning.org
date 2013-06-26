@@ -18,9 +18,10 @@ header_image: "header_emergencynw.jpg"
 
 hÅb can only function in partnership with a host of other organisations and networks, some of which are linked to below.    
 
-In 2012 we were pleased to partner Live at LICA in producing the [*Getting It Out There*](https://www.liveatlica.org/whats-on/symposium-getting-it-out-there) symposium on touring.  A **free** publication produced with [Live Art Development Agency](http://www.thisisliveart.co.uk) following the event can be downloaded.     
+In 2012 we were pleased to partner Live at LICA in producing the [*Getting It Out There*](https://www.liveatlica.org/whats-on/symposium-getting-it-out-there) symposium on touring.  A **free** publication produced with [Live Art Development Agency](http://www.thisisliveart.co.uk) following the event can be downloaded [here](http://habmcr.posthaven.com/getting-it-out-there-publication-free-to-down).    
+
 hÅb is a member of:    
-[IETM](http://ietm.org)   
+[IETM](http://ietm.org)  
 [Live Art UK](http://www.liveartuk.org/index.htm)    
 [LANWest](http://www.lanwest.org)   
 FOG - the Manchester Festival Organisers Group.   
