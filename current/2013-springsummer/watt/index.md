@@ -50,6 +50,8 @@ Jenna has directed and created work for National Theatre of Scotland, Traverse T
 ![Flâneurs](Flaneurs.jpg)    
     
 ####What people have said about her       
+A 4\* review of *Flâneurs* at Contact is [here](http://www.thepublicreviews.com/flaneurs-contact-manchester).
+
 >*4\* A richly thoughtful show.*<br>The Scotsman  
     
 >*Utterly charming and surprisingly light-hearted.*<br>The Stage    
