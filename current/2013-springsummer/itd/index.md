@@ -45,6 +45,8 @@ From the outset itd have been committed to developing innovative scenographic te
 Since 2003 the creative core of the company, Simon Wainwright, Andrew Quick, and Alice Booth has been extended to include director Pete Brooks and designer Laura Hopkins. itd also work with core ensemble of performers that include Anna Wilson-Hall, Morven Macbeth, Laura Atherton and Adam Nash. This creative collaboration has witnessed the successful creation of four touring theatre pieces, *Hotel Methuselah* (2005), *Kellerman* (2008), *6 Degrees Below the Horizon* (2011) and *The Zero Hour* (2012) all of which have been supported by Arts Council England funding. This work has toured throughout the UK and in various venues and festivals on the continent and all productions are still in the company’s repertoire. *Hotel Methuselah* has recently toured to The Lebanon, Brazil, and Ukraine, (supported by the British Council); *Kellerman* (*KM*), has recently performed in Taiwan as part of the Digital Performing Arts Festival, Taipei.   
        
 ####What people have said about them    
+A 5\* review of *6 Degrees* at Contact is [here](http://www.whatsonstage.com/blackpool-theatre/reviews/05-2013/6-degrees-below-the-horizon-tour-manchester_255.html).    
+     
 >*5\* ... the best I have seen of its kind ... the whole experience is a delectable fusion of cinema and theatre*<br>What’s on Stage    
     
 >*A company at the forefront of testing the nature of theatre*<br>The Guardian    
@@ -63,10 +65,7 @@ This workshop focuses on a devising technique used by itd to make their shows. I
 Suitable for ages 15+ (most suitable for Further/Higher Education/Adult Practitioners). Free with a show ticket, book via Contact B/O: 0161 274 0600     
     
 ![6 Degrees Below the Horizon](itd3.jpg)
-     
-####What people said about them     
-A 5* review of *6 Degrees* at Contact is [here](http://www.whatsonstage.com/index.php?pg=207&story=E8831368166046).     
-     
+      
 ####Credits         
 This production is supported by Arts Council England.    
      
