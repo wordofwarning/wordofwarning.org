@@ -16,6 +16,6 @@ header_image: "header_emergency_photo.jpg"
 
 ---
     
-**Emergency** is an annual platform for live art and contemporary performance featuring up to 40 short pieces of work in a single day, across a number of venues. Normally taking place in **October**, the open happens mid-summer, with details posted here.    
+**Emergency** is an annual platform for live art and contemporary performance featuring up to 40 short pieces of work in a single day, across a number of venues. Normally taking place in **October**, the open call for proposals happens mid-summer, with details posted here.    
      
 In the meantime have a look at the [archive](/archive/2012-emergency) of 2012's event or at the [event blog](http://emergencymcr.posthaven.com).
