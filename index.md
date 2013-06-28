@@ -2,7 +2,7 @@
 
 # CONFIGURATION
 layout: home
-header_image: "assets/images/header_springsummer13.jpg"
+header_image: "assets/images/header_default.jpg"
 
 ---
 #Our [Spring/Summer](/current/2013-springsummer/index.html) whirlwind has finished... 
