@@ -28,7 +28,7 @@ gallery:
     -   {file: "acn1.jpg", artist: "Angel Club (north)", show: "The Mirror Twins"}
     -   {file: "acn2.jpg", artist: "Angel Club (north)", show: "The Mirror Twins"}
     -   {file: "rachael.jpg", artist: "Rachael Nutter", show: "Green, Gas, Grass"}
-    -   {file: "gameshow.jpg", artist: "Lydia Hirst", show: "The Game Show"}
+    -   {file: "rachael2.jpg", artist: "Rachael Nutter", show: "Green, Gas, Grass"}
     -   {file: "labolis.jpg", artist: "Ultra Violets", show: "LABOLIS :: Threads"}
     -   {file: "labolis2.jpg", artist: "Ultra Violets", show: "LABOLIS :: Threads"}
     -   {file: "volkov.jpg", artist: "Volkov Commanders", show: "Synesthetic Moonscape"}
