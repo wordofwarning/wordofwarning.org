@@ -20,7 +20,9 @@ header_image: "header_emergency_photo.jpg"
      
 In 2013 the fourteenth Emergency takes place on **Saturday 5 October**, with the callout for proposals open from **Monday 15 July** to **Wednesday 14 August** — details are posted [here](http://emergencymcr.posthaven.com).    
      
-In 2012 it took place on Saturday 13 October; programme archived [here](/archive/2012-emergency) and gallery images [here](/galleries/2012-emergency).  
+In 2012 it took place on Saturday 13 October; programme archived [here](/archive/2012-emergency) and gallery images [here](/galleries/2012-emergency).    
 
-![Open Call Guidance](Emergency 2013 info.pdf)     
+For guidance notes for 2013 see here:    
+
+![Open Call Guidance](open_info.pdf)     
    
