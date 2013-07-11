@@ -66,7 +66,7 @@ Guidance downloads from [http://emergencymcr.posthaven.com/emergency-2013](http:
 [http://habarts.wufoo.eu/forms/emergency-2013-proposal-form/](http://habarts.wufoo.eu/forms/emergency-2013-proposal-form/ )     
 [http://habarts.wufoo.eu/forms/hab-monitoring-form/](http://habarts.wufoo.eu/forms/hab-monitoring-form/  )    
 
-Emergency 2013 is presented by Word of Warning; produced by hÅb + Blank Media Collective and supported by Arts Council England, Manchester City Council and Z-arts.    
+Emergency 2013 is presented by Word of Warning; produced by hÅb + Blank Media Collective and supported by Z-arts.    
 
      
     
