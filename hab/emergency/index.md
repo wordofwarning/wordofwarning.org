@@ -33,8 +33,8 @@ Emergency is:
     
 Work can be in any relevant artform/medium, though some live presence is desirable. Show-type work should be 20 minutes max in duration, low tech and suitable for quick turnarounds, self-supporting in terms of props/set/equipment and specialised technology.    
 
-We also strongly encourage durational, one to one and limited capacity work; performance installation and intervention-based works in and around the spaces and on the journey from BLANKSPACE to Z-arts.    
-
+We also strongly encourage durational, one to one and limited capacity work; performance installation and intervention-based works in and around the spaces and [on the journey from BLANKSPACE to Z-arts.](https://maps.google.co.uk/maps/ms?msid=207310072245535503927.0004c60b67be9371f1dec&msa=0)    
+   
 *Emergency cannot pay fees or expenses (though we do feed you quite well!)*   
 
 **To apply:**    
