@@ -18,9 +18,9 @@ header_image: "header_emergency_photo.jpg"
     
 Somewhat of an institution in these parts, **Emergency** is our annual platform for live art and contemporary performance featuring up to 40 short pieces of work in a single day, across a number of Manchester venues.     
      
-To get a feel for it, have a look at the 2012 [programme](/archive/2012-emergency) and [gallery](/galleries/2012-emergency) from the 2012 event.    
+To get a feel for it, have a look at the 2012 [archive](/archive/2012-emergency) and [gallery](/galleries/2012-emergency).    
 
-In 2013 the fourteenth Emergency takes place on **Saturday 5 October**, at BLANKSPACE (12-4pm) and Z-arts (3-11pm) with the callout for proposals open from **Friday 12 July** to **Wednesday 14 August, 5pm** — details are posted [here](http://emergencymcr.posthaven.com).    
+In 2013 the fourteenth Emergency takes place on **Saturday 5 October**, at [BLANKSPACE](http://blankmediacollective.org/about-us/) (12-4pm) and [Z-arts](http://www.z-arts.org) (3-11pm) with the callout for proposals open from **Friday 12 July** to **Wednesday 14 August, 5pm** — details are posted [here](http://emergencymcr.posthaven.com).    
 
 With a whole range of spaces to fill - and the journey between spaces to think about too - what we now need is a lots of great work! So...    
 
@@ -65,6 +65,8 @@ Actual links:
 Guidance downloads from [http://emergencymcr.posthaven.com/emergency-2013](http://emergencymcr.posthaven.com/emergency-2013)
 [http://habarts.wufoo.eu/forms/emergency-2013-proposal-form/](http://habarts.wufoo.eu/forms/emergency-2013-proposal-form/ )     
 [http://habarts.wufoo.eu/forms/hab-monitoring-form/](http://habarts.wufoo.eu/forms/hab-monitoring-form/  )    
-   
+
+Emergency 2013 is presented by Word of Warning; produced by hÅb + Blank Media Collective and supported by Arts Council England, Manchester City Council and Z-arts.    
+
      
     
