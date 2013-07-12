@@ -41,7 +41,7 @@ We also strongly encourage durational, one to one and limited capacity work; per
 >Download the [Emergency Open Call Guidance Notes](https://phaven-prod.s3.amazonaws.com/files/document_part/asset/960671/ajBUQV6Px4Zc-jSgeEkTeGCy5aA/Emergency_2013_info.docx);     
 >Complete the [Online Proposal form](http://habarts.wufoo.eu/forms/emergency-2013-proposal-form/);    
 >Complete the [Online Monitoring form](http://habarts.wufoo.eu/forms/hab-monitoring-form/) (please, it really helps us!);       
->Keep an eye on the Emergency blog [here](http://emergencymcr.posthaven.com/emergency-2013);    
+>Keep an eye on the [Emergency blog](http://emergencymcr.posthaven.com);    
 
 **DEADLINE Wed 14 August 2013, 5pm.**   
  
@@ -58,11 +58,11 @@ The piece we are looking for must be:
 >Download the [BLANKSPACE Upstairs Guidance Notes](https://phaven-prod.s3.amazonaws.com/files/document_part/asset/960670/HTby1sXJrBpdQUa6jJX13-WZr5Y/Emergency_2013_BLANK_upstairs_notes.docx);       
 >Complete the [Online Proposal form](http://habarts.wufoo.eu/forms/emergency-2013-proposal-form/)(selecting Open, Upstairs commission or both);   
 >Complete the [Online Monitoring form](http://habarts.wufoo.eu/forms/hab-monitoring-form/) (please, it really helps us!);    
->Keep an eye on the Emergency blog [here](http://emergencymcr.posthaven.com/emergency-2013);    
+>Keep an eye on the [Emergency](http://emergencymcr.posthaven.com);    
 **DEADLINE Wed 14 August 2013, 5pm.**     
 
 Actual links:
-Guidance downloads from [http://emergencymcr.posthaven.com/emergency-2013](http://emergencymcr.posthaven.com/emergency-2013)
+Guidance downloads from [http://emergencymcr.posthaven.com/emergency-2103-sat-5-oct-call-for-proposals-now-open](http://emergencymcr.posthaven.com/emergency-2103-sat-5-oct-call-for-proposals-now-open)
 [http://habarts.wufoo.eu/forms/emergency-2013-proposal-form/](http://habarts.wufoo.eu/forms/emergency-2013-proposal-form/ )     
 [http://habarts.wufoo.eu/forms/hab-monitoring-form/](http://habarts.wufoo.eu/forms/hab-monitoring-form/  )    
 Enquiries: <a target="_blank" href="mailto:emergency@habarts.org" data-posthaven-guid="">emergencyAThabarts.org</a>
