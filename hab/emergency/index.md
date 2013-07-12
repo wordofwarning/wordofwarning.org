@@ -38,7 +38,7 @@ We also strongly encourage durational, one to one and limited capacity work; per
 *Emergency cannot pay fees or expenses (though we do feed you quite well!)*   
 
 **To apply:**    
->Download the [Emergency Open Call Guidance Notes](https://phaven-prod.s3.amazonaws.com/files/document_part/asset/960190/Ur-uVyWt5GfbNBnn9WDEQ0dRcLw/Emergency_2013_info.docx);     
+>Download the [Emergency Open Call Guidance Notes](https://phaven-prod.s3.amazonaws.com/files/document_part/asset/960671/ajBUQV6Px4Zc-jSgeEkTeGCy5aA/Emergency_2013_info.docx);     
 >Complete the [Online Proposal form](http://habarts.wufoo.eu/forms/emergency-2013-proposal-form/);    
 >Complete the [Online Monitoring form](http://habarts.wufoo.eu/forms/hab-monitoring-form/) (please, it really helps us!);       
 >Keep an eye on the Emergency blog [here](http://emergencymcr.posthaven.com/emergency-2013);    
@@ -54,8 +54,8 @@ The piece we are looking for must be:
 >Able to co-exist with other pieces – so neither loud (preferably unamplified), nor overly sensitive to external noise spill.   
 
 **To apply:**    
->Download the [Emergency Open Call Guidance Notes](https://phaven-prod.s3.amazonaws.com/files/document_part/asset/960190/Ur-uVyWt5GfbNBnn9WDEQ0dRcLw/Emergency_2013_info.docx);     
->Download the [BLANKSPACE Upstairs Guidance Notes](https://phaven-prod.s3.amazonaws.com/files/document_part/asset/960191/L3O9iGWZ3s9ECJMTAsA_3ZVS9Fc/Emergency_2013_BLANK_upstairs_notes.docx);       
+>Download the [Emergency Open Call Guidance Notes](https://phaven-prod.s3.amazonaws.com/files/document_part/asset/960671/ajBUQV6Px4Zc-jSgeEkTeGCy5aA/Emergency_2013_info.docx);     
+>Download the [BLANKSPACE Upstairs Guidance Notes](https://phaven-prod.s3.amazonaws.com/files/document_part/asset/960670/HTby1sXJrBpdQUa6jJX13-WZr5Y/Emergency_2013_BLANK_upstairs_notes.docx);       
 >Complete the [Online Proposal form](http://habarts.wufoo.eu/forms/emergency-2013-proposal-form/)(selecting Open, Upstairs commission or both);   
 >Complete the [Online Monitoring form](http://habarts.wufoo.eu/forms/hab-monitoring-form/) (please, it really helps us!);    
 >Keep an eye on the Emergency blog [here](http://emergencymcr.posthaven.com/emergency-2013);    
