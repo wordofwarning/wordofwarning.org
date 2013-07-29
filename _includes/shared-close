@@ -7,7 +7,7 @@
 					<p><a href="{{ site.mailer_signup_url }}">Sign up</a> for your no-nonsense <a href="http://wordofwarning.posthaven.com">weekly e-mail</a><br>signpost to the bizarre, the beautiful and the best contemporary performance within range of Manchester.</p>
 					<h4>Calendar</h4>
 					<p>Word of Warning also maintains a <br><a href="https://www.google.com/calendar/embed?src=wordofwarningmcr%40gmail.com&amp;ctz=Europe/London">Google calendar</a>.</p>
-					<p>To support us <a href="{{ page.rootpath }}hab/donations/index.html">click here</a>.</p>
+					<h4><a href="{{ page.rootpath }}hab/donations/index.html">Support Us</a></h4>
 				</div>
 				<div class="four columns">
 					<h4>Word of Warning</h4>
