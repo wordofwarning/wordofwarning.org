@@ -19,16 +19,16 @@ header_image: "header_emergencynw.jpg"
    
 If you like what we do, you can support us in a number of ways:    
 **by [signing-up for the mailer](http://wordofwarning.us2.list-manage.com/subscribe?u=0d0b9e09079cc9204f77cb396&id=d72a36f1c2)**    
-
 or    
 **by coming along to shows**  
 or    
-**by [making a donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LC9G9CWHVDQ8E)**    
-All donations, no matter how small, would be very welcome.  So if you've a lonely fiver going begging, then why not give it a good home? We will put it to very good use - after all, those Word of Warning interval treats don't cost nothing!    
+**by [making a donation](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LC9G9CWHVDQ8E)**   
+   
+All donations, no matter how small, are very welcome.  So if you've a lonely fiver going begging, then why not give it a good home? We will put it to very good use - supporting artists and interesting nights out in Manchester.   
 
-I'm sure I don't need to preach about straitened times and the onus on the arts to prove its worth and to attract private giving.  70% of all private giving goes to London organisations... and if you don't have a building it gets all the harder.    
-
-So to help us demonstrate we're 'doing our bit' click [here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LC9G9CWHVDQ8E) or drop a a couple of coins in collecting tin at one of our free events.     
+We're sure we don't need to preach about straitened times and the onus on the arts to prove its worth and to attract private giving.  However, [with 70% of all philanthropy going to London organisations](http://www.thefundingnetwork.org.uk/wp-content/uploads/2012/12/121126-Peter-Philips-philanthropy-in-the-regions.pdf), and without a building to focus attention, a small peripatetic organisation like us needs all its supporters' help.    
+   
+So to help us demonstrate we're 'doing our bit' click [here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LC9G9CWHVDQ8E) or drop a couple of coins in a collecting tin at one of our free events.     
 
 **We'll send web donors an exclusive personalised laminate to say thanks!**    
 ![friend](FoW.jpg)     
