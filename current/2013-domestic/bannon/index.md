@@ -23,7 +23,7 @@ header_image:
         
 ####Venue + Booking Details
 Dates: November 2013, pm   
-[Venue: Cooper House](), Hulme, Manchester, M15    
+[Venue: Cooper House](), Manchester, M15 6DX    
 [Tickets: £]()    
 Box Office Tel: 07     
          
