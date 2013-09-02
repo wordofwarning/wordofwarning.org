@@ -60,7 +60,7 @@
 	.aw2013 .splash
 		{background:url(../images/header_2013aw.jpg) -150px center}
 
-/* Domestic
+/* Domestic very dark green
 ------------------------------------------------------*/
 
 	.dom,
@@ -79,9 +79,51 @@
 		{background: #fff; color: #030;}
 		
 	.dom .splash
-		{background:url(../images/header_2013aw.jpg) center center}
+		{background:url(../images/header_2013ss.jpg) center center}
 
-/* Poolside Emergency 2013
+/* Emergency 2013 bright red
+------------------------------------------------------*/
+
+	.e2013,
+	.e2013 .artist, 
+	.e2013 .show,
+	.e2013 .season
+		{background:#f00; color:#333;}
+
+	.e2013 a,
+	.e2013 a:visited,
+	.e2013 a:hover
+		{color:#333;}
+	.e2013 nav a:hover,
+	.e2013 article a:hover,
+	.e2013 footer a:hover
+		{background: #333; color: #f00;}
+		
+	.e2013 .splash
+		{background:url(../images/header_emergency_photo.jpg) center center}
+
+/* Works Ahead very dark red-maroon
+------------------------------------------------------*/
+		
+	.woah,
+	.woah .artist, 
+	.woah .show,
+	.woah .season
+		{background:#300; color:#fff;}
+
+	.woah a,
+	.woah a:visited,
+	.woah a:hover
+		{color:#fff;}
+	.woah nav a:hover,
+	.woah article a:hover,
+	.woah footer a:hover
+		{background: #fff; color: #300;}
+
+	.woah .splash
+		{background:url(../images/header_woah_photo.jpg) center center}
+
+/* Poolside Emergency 2013 purple
 ------------------------------------------------------*/
 
 	.p2013,
@@ -102,7 +144,7 @@
 	.p2013 .splash
 		{background:url(../images/header_pool_photo.jpg) center center}
 		
-/* Turn 2013
+/* Turn 2013 dark blue-teal
 ------------------------------------------------------*/
 
 	.t2013,
@@ -123,7 +165,7 @@
 	.t2013 .splash
 		{background:url(../images/header_turn_photo.jpg) center center}
 		
-/* Hazard
+/* Hazard yellow with white diagonals
 ------------------------------------------------------*/
 
 	.hazard,
@@ -156,7 +198,7 @@
 	.hazard .splash
 		{background:url(../images/header_2012_hazard.jpg) center center}
 		
-/* Emergency 2012
+/* Emergency 2012 mid-red
 ------------------------------------------------------*/
 
 	.e2012,
@@ -177,7 +219,7 @@
 	.e2012 .splash
 		{background:url(../images/header_emergency_photo.jpg) center center}
 
-/* hAb
+/* hAb black
 ------------------------------------------------------*/
 
 	.hab,
@@ -198,26 +240,7 @@
 	.hab .splash
 		{background:url(../images/header_hab_photo.jpg) center center}
 		
-/* Works Ahead
-------------------------------------------------------*/
-		
-	.woah,
-	.woah .artist, 
-	.woah .show,
-	.woah .season
-		{background:#300; color:#fff;}
 
-	.woah a,
-	.woah a:visited,
-	.woah a:hover
-		{color:#fff;}
-	.woah nav a:hover,
-	.woah article a:hover,
-	.woah footer a:hover
-		{background: #fff; color: #300;}
-
-	.woah .splash
-		{background:url(../images/header_woah_photo.jpg) center center}
 		
 /* an example (not pretty) event styling - copy and paste to make new event styles
 ------------------------------------------------------*/
