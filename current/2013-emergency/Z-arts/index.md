@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: 2013-poolside
+layout: 2013-emergency
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
