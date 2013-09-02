@@ -35,7 +35,7 @@ Box Office Tel: 0161 274 0600
     
 ####What people have said about them       
     
+####Credits    
+        
 ####Websites    
 [www.rashdash.co.uk](http://www.rashdash.co.uk/) | [@rashdashtheatre](http://twitter.com/rashdashtheatre)   
-      
-####Credits    
