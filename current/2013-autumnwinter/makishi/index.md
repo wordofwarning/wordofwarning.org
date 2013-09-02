@@ -8,7 +8,7 @@ artist: "Stacy Makishi" # the name of the artist or company
 show: "The Falsettos" # the name of the show
 artist_size: 1
 show_size: 2
-header_image: ""
+header_image:
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -29,9 +29,7 @@ Box Office Tel: 0161 232 6089
         
 ####More    
 
-####Video    
-See trailer [here](http://vimeo.com).    
-    
+
 ####Who is she?    
 
 ####What people have said about her     
@@ -40,4 +38,5 @@ See trailer [here](http://vimeo.com).
 ####Credits    
         
 ####Websites    
-[www.stacymakishi.com](http://www.stacymakishi.com) | [www.artsadmin.co.uk](http://www.artsadmin.co.uk)
+[www.stacymakishi.com](http://www.stacymakishi.com) | 
+[www.artsadmin.co.uk](http://www.artsadmin.co.uk)
