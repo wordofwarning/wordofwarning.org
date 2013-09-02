@@ -1,12 +1,11 @@
 ---
 
 # CONFIGURATION
-layout: 2013-springsummer
+layout: 2013-autumnwinter
 rootpath: "../../"
 is_index: true
 
 ---
-
 [Spring 2013](/archive/2013-spring/index.html) is done and dusted with seven shows at Contact, Kraak, The Lowry & Z-arts, with ten more shows in a manic day of all ages live art filling Z-arts.
 
 And so to the second half of our bumper season that, despite the best the weather can throw at us, we are choosing to call Spring/Summer 2013!    
