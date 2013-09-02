@@ -5,10 +5,10 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Domestic"
-show: "Performance stripped bare..."
+show: "Performance stripped bare."
 artist_size: 1
-show_size: 5
-header_image: ""
+show_size: 3
+header_image:
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -31,4 +31,4 @@ Dates: Friday 8 — Sunday 17 November 2013
 Box Office Tel: 07x
         
 ####Credits         
-Produced by hÅb, with support from...
+Produced by hÅb, with support from XXX
