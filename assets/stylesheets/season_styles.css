@@ -67,7 +67,7 @@
 	.dom .artist, 
 	.dom .show,
 	.dom .season
-		{background:#060; color:#fff;}
+		{background:#030; color:#fff;}
 
 	.dom a,
 	.dom a:visited,
@@ -76,7 +76,7 @@
 	.dom nav a:hover,
 	.dom article a:hover,
 	.dom footer a:hover
-		{background: #fff; color: #060;}
+		{background: #fff; color: #030;}
 		
 	.dom .splash
 		{background:url(../images/header_2013aw.jpg) center center}
