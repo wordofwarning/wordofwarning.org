@@ -19,17 +19,25 @@ header_image:
 ---
 *Presented by* Word of Warning *with* Guiness Northern Counties + Z-arts       
  
-**Performance stripped bare — a series of intimate interactions, homely conversations and domestic dramas.**    
+**Performance stripped bare — a series of intimate interactions, homely conversations and domestic dramas played out in a block of flats.**    
         
-**group**    
-       
-**individual**          
+TICKETED SHOWS:          
+the vacuum cleaner | Mental *Fri 8 Nov, 8pm + Sat 9 Nov, 4pm + 8pm | £6/4*
+Leentje Van de Cruys | Kitsch'n Sync *Thu 14 + Fri 15 Nov, 6pm + 8pm | £5/3*
+J. Fergus Evans | My Heart is Hitchhiking Down Peachtree Street *Sat 16 + Sun 17 Nov, 2pm + 5pm + 8pm | £6/4*
+Greg Wohead | I Like the Way You Wear Your Hair *Sat 16 + Sun 17 Nov, 4pm + 7pm | £6/4*
+
+VARIOUS TIMES BY APPOINTMENT, DONATIONS INVITED:
+Small Acts | Shower Scenes *Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov*    
+Alex Bradley | Field Test *Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov*       
+Jo Bannon | Exposure *Sat 16 + Sun 17 Nov, 2-4pm + 5-7pm*       
+
         
 ####Venue + Booking Details
 Dates: Friday 8 — Sunday 17 November 2013    
-[Venue: Cooper House](), Hulme, Manchester, M1    
+[Venue: Cooper House](), Manchester, M15 6DX    
 [Tickets:]()    
 Box Office Tel: 07x
         
 ####Credits         
-Produced by hÅb, with support from XXX
+Produced by hÅb, with Guiness Northern Counties, Z-arts, etc etc
