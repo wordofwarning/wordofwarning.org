@@ -4,8 +4,8 @@ layout: 2013-domestic
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Jo Bannon"
-show: "Exposure"
+artist: "Alex Bradley"
+show: "Field Test"
 artist_size: 1
 show_size: 2
 header_image:
@@ -29,9 +29,9 @@ Box Office Tel: 07
          
 ####More      
        
-####Who is she?    
+####Who is he?    
               
-####What people have said about her       
+####What people have said about him       
 
 ####Credits        
         

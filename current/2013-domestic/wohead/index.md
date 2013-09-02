@@ -4,10 +4,10 @@ layout: 2013-domestic
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Jo Bannon"
-show: "Exposure"
+artist: "Greg Wohead"
+show: "I Like The Way You Wear Your Hair"
 artist_size: 1
-show_size: 2
+show_size: 3
 header_image:
 
 # ABOUT THE SHOW - LAYOUT
@@ -22,9 +22,9 @@ header_image:
 ####In Brief
         
 ####Venue + Booking Details
-Dates: November 2013, pm   
+Dates: Saturday 16 + Sunday 17 November 2013, 4pm + 7pm     
 [Venue: Cooper House](), Manchester, M15 6DX    
-[Tickets: £]()    
+[Tickets: £6/4]()    
 Box Office Tel: 07     
          
 ####More      

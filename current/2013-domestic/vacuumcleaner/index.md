@@ -4,8 +4,8 @@ layout: 2013-domestic
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Jo Bannon"
-show: "Exposure"
+artist: "the vacuum cleaner"
+show: "Mental"
 artist_size: 1
 show_size: 2
 header_image:
@@ -22,16 +22,16 @@ header_image:
 ####In Brief
         
 ####Venue + Booking Details
-Dates: November 2013, pm   
+Dates: Friday 8 November 2013, 8pm + Saturday 9 November 2013, 4pm + 8pm   
 [Venue: Cooper House](), Manchester, M15 6DX    
-[Tickets: £]()    
+[Tickets: £6/4]()    
 Box Office Tel: 07     
          
 ####More      
        
-####Who is she?    
+####Who is he?    
               
-####What people have said about her       
+####What people have said about him       
 
 ####Credits        
         

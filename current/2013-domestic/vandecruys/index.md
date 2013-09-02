@@ -4,8 +4,8 @@ layout: 2013-domestic
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Jo Bannon"
-show: "Exposure"
+artist: "Leentje Van de Cruys"
+show: "Kitsch'n Sync"
 artist_size: 1
 show_size: 2
 header_image:
@@ -22,9 +22,9 @@ header_image:
 ####In Brief
         
 ####Venue + Booking Details
-Dates: November 2013, pm   
+Dates: Thursday 14 + Friday 15 November 2013, 6pm + 8pm   
 [Venue: Cooper House](), Manchester, M15 6DX    
-[Tickets: £]()    
+[Tickets: £5/3]()    
 Box Office Tel: 07     
          
 ####More      
