@@ -1,15 +1,15 @@
 ---
 
 # CONFIGURATION
-layout: 2013-springsummer
+layout: 2013-autumnwinter
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Stuart Silver | Tam Hinton" # the name of the artist or company
-show: "You Look Like Ants | Delicious Monster" # the name of the show
-artist_size: 2
-show_size: 3
-header_image: "header_silver_photo.jpg"
+artist: "Stacy Makishi" # the name of the artist or company
+show: "The Falsettos" # the name of the show
+artist_size: 1
+show_size: 2
+header_image: "header_makishi.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -23,7 +23,7 @@ header_image: "header_silver_photo.jpg"
 A 'Big Picture' monologue on gaining perspective meets mind-bending storytelling with claymation insanity.    
         
 ####Venue + Booking Details
-Date: Friday 26 April 2013, 7.30pm (Double Bill)   
+Date: Friday 29 November 2013, 7.30pm   
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
 [Tickets: £8/5](http://www.z-arts.org/events/wow-april/)    
 Box Office Tel: 0161 232 6089     
