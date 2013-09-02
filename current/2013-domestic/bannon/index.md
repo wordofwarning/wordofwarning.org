@@ -1,5 +1,4 @@
 ---
-
 # CONFIGURATION
 layout: 2013-domestic
 rootpath: "../../../"
@@ -7,20 +6,33 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Jo Bannon"
 show: "Exposure"
-
-# ABOUT THE SHOW - LAYOUT
+artist_size: 1
+show_size: 2
 header_image: ""
 
+# ABOUT THE SHOW - LAYOUT
+# artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
+# show_size: 2 # optional - size of show name 2-5. Default is 2. Set longer names to lower values
+# header_image: "header.jpg" # optional custom background image, relative to current page
+
 ---
-*Part of* Domestic — [booking details + information](/current/2013-domestic/index.html)        
-        
+*Presented by* Word of Warning *with* Guiness Northern Counties + Z-arts       
+*during* [Domestic](/current/2013-domestic/index.html)        
+
 ####In Brief
-*You stand before a bed of earth. Perhaps it is empty, still, peaceful — perhaps it is not.*    
-      
-Using a bed of earth — the place of death and decay, as well as creation and growth, and continual transformer of one into the other — this piece explores what might emerge when unconscious contents are freed in liminal ritual, and how these contents may be transformed by contact with consciousness.    
-      
-####More 
+        
+####Venue + Booking Details
+Dates: November 2013, pm   
+[Venue: Cooper House](), Hulme, Manchester, M15    
+[Tickets: £]()    
+Box Office Tel: 07     
+         
+####More      
        
 ####Who is she?    
-       
-####Websites
+              
+####What people have said about her       
+
+####Credits        
+        
+####Websites        
