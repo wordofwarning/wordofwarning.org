@@ -23,9 +23,11 @@ header_image:
 SHORT COPY
         
 Watch video [here](http://vimeo.com/68437394).        
+        
+**Please note: this is a one-to-one encounter lasting approximately 10 minutes**
          
 ####Venue + Booking Details
-Dates: Friday 8 — Sunday 17 November 2013    
+Dates: Saturday 16 + Sunday 17 November 2013, 2pm-4pm + 5pm-7pm        
 Venue: Cooper House, Camelford Close, Manchester, M15 6DX   
 Appointments can be booked online via: [WeGotTickets](http://www.wegottickets.com/wordofwarning)     
 Appointments can be reserved over the phone: 07581 299 439       
