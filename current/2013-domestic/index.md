@@ -21,7 +21,7 @@ header_image:
  
 **Performance stripped bare — a series of intimate interactions, homely conversations and domestic dramas played out in a block of flats.**    
         
-#Ticketed Shows          
+###Ticketed Shows          
 *Fri 8 Nov, 8pm + Sat 9 Nov, 4pm + 8pm | £6/4*        
 the vacuum cleaner | Mental        
 *Thu 14 + Fri 15 Nov, 6pm + 8pm | £5/3*        
@@ -31,7 +31,7 @@ J. Fergus Evans | My Heart Is Hitchhiking Down Peachtree Street
 *Sat 16 + Sun 17 Nov, 4pm + 7pm | £6/4*       
 Greg Wohead | I Like The Way You Wear Your Hair        
         
-##By Appointment, donations invited        
+###By Appointment, donations invited        
 *Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov (various)*        
 Small Acts | Shower Scenes         
 *Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov (various)*        
@@ -39,7 +39,7 @@ Alex Bradley | Field Test
 *Sat 16 + Sun 17 Nov, 2-4pm + 5-7pm*        
 Jo Bannon | Exposure          
           
-###Venue + Booking Details
+####Venue + Booking Details
 Dates: Friday 8 — Sunday 17 November 2013    
 Venue: Cooper House, Camelford Close, Manchester, M15 6DX    
 Ticketed Shows + Appointments can be booked online via: [WeGotTickets](http://www.wegottickets.com/wordofwarning)     
