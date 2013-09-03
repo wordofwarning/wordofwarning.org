@@ -21,22 +21,29 @@ header_image:
  
 **Performance stripped bare — a series of intimate interactions, homely conversations and domestic dramas played out in a block of flats.**    
         
-TICKETED SHOWS:          
-the vacuum cleaner | Mental *Fri 8 Nov, 8pm + Sat 9 Nov, 4pm + 8pm | £6/4*        
-Leentje Van de Cruys | Kitsch'n Sync *Thu 14 + Fri 15 Nov, 6pm + 8pm | £5/3*        
-J. Fergus Evans | My Heart is Hitchhiking Down Peachtree Street *Sat 16 + Sun 17 Nov, 2pm + 5pm + 8pm | £6/4*        
-Greg Wohead | I Like the Way You Wear Your Hair *Sat 16 + Sun 17 Nov, 4pm + 7pm | £6/4*       
+#Ticketed Shows          
+*Fri 8 Nov, 8pm + Sat 9 Nov, 4pm + 8pm | £6/4*        
+the vacuum cleaner | Mental        
+*Thu 14 + Fri 15 Nov, 6pm + 8pm | £5/3*        
+Leentje Van de Cruys | Kitsch'n Sync        
+*Sat 16 + Sun 17 Nov, 2pm + 5pm + 8pm | £6/4*        
+J. Fergus Evans | My Heart Is Hitchhiking Down Peachtree Street        
+*Sat 16 + Sun 17 Nov, 4pm + 7pm | £6/4*       
+Greg Wohead | I Like The Way You Wear Your Hair        
         
-VARIOUS TIMES BY APPOINTMENT, DONATIONS INVITED:        
-Small Acts | Shower Scenes *Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov*        
-Alex Bradley | Field Test *Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov*        
-Jo Bannon | Exposure *Sat 16 + Sun 17 Nov, 2-4pm + 5-7pm*        
-
-####Venue + Booking Details
+##By Appointment, donations invited        
+*Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov (various)*        
+Small Acts | Shower Scenes         
+*Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov (various)*        
+Alex Bradley | Field Test         
+*Sat 16 + Sun 17 Nov, 2-4pm + 5-7pm*        
+Jo Bannon | Exposure          
+          
+###Venue + Booking Details
 Dates: Friday 8 — Sunday 17 November 2013    
-[Venue: Cooper House](), Manchester, M15 6DX    
-[Tickets:]()    
-Box Office Tel: 07x
+Venue: Cooper House, Camelford Close, Manchester, M15 6DX    
+Ticketed Shows + Appointments can be booked online via: [WeGotTickets](http://www.wegottickets.com/wordofwarning)     
+Ticketed Shows + Appointments can be reserved over the phone: 07581 299 439       
         
 ####Credits         
-Produced by hÅb, with Guiness Northern Counties, Z-arts, etc etc
+Produced by hÅb, with support from Guiness Northern Counties, Z-arts, etc.
