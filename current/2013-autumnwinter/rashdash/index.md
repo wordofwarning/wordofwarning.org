@@ -51,11 +51,11 @@ They are starting to play with how they can work with a writer, from the beginni
 They were Fringe First winners 2010 and 2011, and are an Associate Company of West Yorkshire Playhouse.        
           
 ####What people have said about them         
-'Electrifying' 4*  The Telegraph
-
-'A riotous evening of performance' 4* A Younger Theatre
-
-'Sensational' Total Theatre
+>*4\*Electrifying*<br>The Telegraph         
+        
+>*4\*A riotous evening of performance*<br>A Younger Theatre         
+        
+>*Sensational*<br>Total Theatre         
          
 ####Credits     
 Featuring *Not Now Bernard*; Direction by Kyle Davies; Design by Alison McDowall.        
