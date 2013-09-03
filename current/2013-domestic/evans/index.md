@@ -8,7 +8,7 @@ artist: "J. Fergus Evans"
 show: "My Heart Is Hitchhiking Down Peachtree Street"
 artist_size: 1
 show_size: 4
-header_image:
+header_image: "header_mhih.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
