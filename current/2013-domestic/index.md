@@ -1,7 +1,7 @@
 ---
 # CONFIGURATION
 layout: 2013-domestic
-rootpath: "../../../"
+rootpath: "../../"
 is_index: true
 
 # ABOUT THE SHOW - GENERIC

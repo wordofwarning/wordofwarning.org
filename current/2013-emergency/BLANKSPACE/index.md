@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency 2013"
-show: "BLANKSPACE 12noon-4pm"
+show: "BLANKSPACE: 12noon-4pm"
 artist_size: 1
 show_size: 3
 header_image:
@@ -16,7 +16,7 @@ header_image:
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Part of* Emergency 2013 — [information](/current/2013-emergency/index.html)        
+*Presented by* Word of Warning, Blank Media Collective + Z-arts *during* [Emergency 2013](/current/2013-emergency/index.html)        
           
 **Artist | Title**    
 *Quote.*        
@@ -26,4 +26,10 @@ Copy
 **Artist | Title**    
 *Quote.*        
 Copy        
-(Image)        
+(Image)       
+         
+####Venues + Booking Details          
+Date: Saturday 5 October 2013, 12noon-4pm            [Venue: BLANKSPACE](http://blankmediacollective.org/about-us), 43 Hulme Street, Manchester M15 6AW             Tickets: FREE no booking required            Venue Tel: 0161 222 6164         
+          
+####Credits           
+Co-produced by hÅb, Blank Media Collective and Z-arts; a greenroom legacy project.

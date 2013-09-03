@@ -35,9 +35,9 @@ Tickets: FREE no booking required
 Venue Tel: 0161 222 6164   
         
 Date: Saturday 5 October 2013, 3pm-11pm    
-[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
-Tickets: FREE no booking required   
+[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
+Tickets: FREE no booking required        
 Venue Tel: 0161 232 6089       
-
+            
 ####Credits         
 Co-produced by hÅb, Blank Media Collective and Z-arts; a greenroom legacy project.
