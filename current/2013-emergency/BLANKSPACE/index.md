@@ -28,8 +28,11 @@ Copy
 Copy        
 (Image)       
          
-####Venues + Booking Details          
-Date: Saturday 5 October 2013, 12noon-4pm            [Venue: BLANKSPACE](http://blankmediacollective.org/about-us), 43 Hulme Street, Manchester M15 6AW             Tickets: FREE no booking required            Venue Tel: 0161 222 6164         
+####Venue + Booking Details          
+Date: Saturday 5 October 2013, 12noon-4pm           
+[Venue: BLANKSPACE](http://blankmediacollective.org/about-us), 43 Hulme Street, Manchester M15 6AW                
+Tickets: FREE no booking required                
+Venue Tel: 0161 222 6164         
           
 ####Credits           
 Co-produced by hÅb, Blank Media Collective and Z-arts; a greenroom legacy project.

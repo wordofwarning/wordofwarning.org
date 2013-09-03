@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency 2013"
-show: "Z-arts: 3-11pm"
+show: "Z-arts: 3pm-11pm"
 artist_size: 1
 show_size: 3
 header_image:
@@ -28,9 +28,11 @@ Copy
 Copy        
 (Image)       
          
-####Venues + Booking Details          
-Date: Saturday 5 October 2013, 3pm-11pm         [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA          
-Tickets: FREE no booking required          Venue Tel: 0161 232 6089         
+####Venue + Booking Details          
+Date: Saturday 5 October 2013, 3pm-11pm               
+[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA           
+Tickets: FREE no booking required               
+Venue Tel: 0161 232 6089         
           
 ####Credits           
 Co-produced by hÅb, Blank Media Collective and Z-arts; a greenroom legacy project.
