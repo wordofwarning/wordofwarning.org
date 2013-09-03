@@ -22,7 +22,7 @@ header_image:
 ####In Brief
 SHORT COPY
         
-Watch video [here](http://vimeo.com/68437394).        
+Watch trailer [here](http://vimeo.com/68437394).        
         
 **Please note: this is a one-to-one encounter lasting approximately 10 minutes**
          
