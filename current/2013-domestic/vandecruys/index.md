@@ -20,19 +20,29 @@ header_image:
 *during* [Domestic](/current/2013-domestic/index.html)        
 
 ####In Brief
-        
-####Venue + Booking Details
-Dates: Thursday 14 + Friday 15 November 2013, 6pm + 8pm   
-[Venue: Cooper House](), Manchester, M15 6DX    
-[Tickets: £5/3]()    
-Box Office Tel: 07     
+SHORT COPY
+            
+**Please note: this is a newly commissioned show, currently in development; for maximum 10 people, lasting between 30 and 60 minutes.**
          
+####Venue + Booking Details
+Dates: Thursday 14 + Friday 15 November 2013, 6pm + 8pm         
+Venue: Cooper House, Camelford Close, Manchester, M15 6DX   
+Tickets: £5/3, can be booked online via: [WeGotTickets](http://www.wegottickets.com/wordofwarning)     
+Tickets: £5/3, can be reserved over the phone: 07581 299 439       
+
 ####More      
-       
+          
+        
 ####Who is she?    
+     
               
 ####What people have said about her       
-
+>*x*<br> xx        
+>          
+                     
 ####Credits        
-        
-####Websites        
+Commissioned by hÅb.
+Domestic is produced by hÅb, with support from Guiness Northern Counties, Z-arts, etc.                    
+         
+####Website        
+[@Leentjevdc](http://twitter.com/Leentjevdc)
