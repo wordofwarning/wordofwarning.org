@@ -10,7 +10,7 @@ artist_size: 1
 show_size: 3
 
 # ABOUT THE SHOW - LAYOUT
-header_image: ""
+header_image:
 
 ---
 *Part of* Emergency 2013 — [information](/current/2013-emergency/index.html)        
