@@ -27,16 +27,32 @@ Date: Friday 29 November 2013, 7.30pm
 [Tickets: £8/5](http://www.z-arts.org/events/wow-november/)    
 Box Office Tel: 0161 232 6089     
         
-####More    
-
-
+####More       
+Hawaiian performance-maker Stacy Makishi unearths another thrilling tale of filial-sleuthery...        
+          
+Masterfully grafting the trappings of gangster film onto domestic drama, *The Falsettos* is a humorous solo take on the mysteries of love, loss and separation.          
+         
+*The Falsettos* can be seen as a sequel to Stacy's earlier work [*The Making of Bull: The True Story*](/archive/2012-springsummer/makishi/index.html) which Word of Warning presented with Contact in March 2012, and continues to tour.          
+          
 ####Who is she?    
-
-####What people have said about her     
->*xxxxx*<br> xxxxx    
-       
-####Credits    
+Stacy Makishi is a transplant from Hawaii who found paradise in Dalston, East London in 1994.         
+         
+After graduating from the University of Hawaii she worked as a stand-up comic at the Comedy Store: but when her punchlines punched back, Stacy found herself happiest when making what New Yorkers called ‘Performance’.             
+              
+Her present body of work is interdisciplinary in scope and includes live art, film, installation and visual art. Her work is as complex as it is accessible; humorous as it is challenging; visual as it is literate.          
         
-####Websites    
+A workshop leader and mentor of international renown, Makishi opens her making processes to the public through workshops, open rehearsals and talks, alongside performances.           
+  
+She has been awarded an ICA Attached Artist Award, a Millennium Fellowship Award, a Live Art Development Agency One to One Bursary, an Artsadmin Bursary and the Franklin Furnace Award.        
+She is an Associate Artist with Artsadmin, Chelsea Theatre and New Unity.          
+           
+####What people have said about her     
+>*Stacy Makishi has a way of transforming the mundane into the radiant, where everyday people speak their innermost thoughts and where we as an audience experience truthful human moments that at times approach the surreal.*<br>Joshua Sofaer       
+         
+####Credits    
+The Falsettos by Stacy Makishi, image by Will Munro.         
+Co-commissioned by Chelsea Theatre, Colchester Arts Centre and The Basement; supported by the Roddick Foundation; produced by ArtsAdmin.         
+          
+####Websites        
 [www.stacymakishi.com](http://www.stacymakishi.com) | 
 [www.artsadmin.co.uk](http://www.artsadmin.co.uk)
