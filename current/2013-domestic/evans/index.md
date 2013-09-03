@@ -20,19 +20,28 @@ header_image:
 *during* [Domestic](/current/2013-domestic/index.html)        
 
 ####In Brief
-        
-####Venue + Booking Details
-Dates: Saturday 16 + Sunday 17 November 2013, 2pm + 5pm + 8pm   
-[Venue: Cooper House](), Manchester, M15 6DX    
-[Tickets: £6/4]()    
-Box Office Tel: 07     
+SHORT COPY
+            
+**Please note: this is a show for maximum 9 people, lasting approximately 50 minutes.**
          
+####Venue + Booking Details
+Dates: Saturday 9 + Thursday 14 — Sunday 17 November 2013 (various)        
+Venue: Cooper House, Camelford Close, Manchester, M15 6DX   
+Tickets: £6/4, can be booked online via: [WeGotTickets](http://www.wegottickets.com/wordofwarning)     
+Tickets: £6/4, can be reserved over the phone: 07581 299 439       
+
 ####More      
-       
+          
+        
 ####Who is he?    
+     
               
 ####What people have said about him       
-
+>*x*<br> xx        
+>          
+                     
 ####Credits        
-        
+Domestic is produced by hÅb, with support from Guiness Northern Counties, Z-arts, etc.                    
+         
 ####Websites        
+[jfergusevans.com](http://jfergusevans.com) | [@Fergus_Evans](http://twitter.com/Fergus_Evans)
