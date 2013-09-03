@@ -19,7 +19,7 @@ header_image:
 *Presented by* Word of Warning + Z-arts      
 
 ####In Brief
-A thrilling tale of sleuthery; midlife, mobs, meatballs and moms via Barbra Streisand, E.T. and The Sopranos.    
+The killer show everyone's dying to see.       
         
 ####Venue + Booking Details
 Date: Friday 29 November 2013, 7.30pm   
@@ -28,12 +28,12 @@ Date: Friday 29 November 2013, 7.30pm
 Box Office Tel: 0161 232 6089     
         
 ####More       
-Hawaiian performance-maker Stacy Makishi unearths another thrilling tale of filial-sleuthery...        
+Hawaiian performance-maker Stacy Makishi unearths another thrilling tale of filial-sleuthery; investigating midlife, mobs, meatballs and moms via Barbra Streisand, *E.T.* and *The Sopranos*.         
           
 Masterfully grafting the trappings of gangster film onto domestic drama, *The Falsettos* is a humorous solo take on the mysteries of love, loss and separation.          
          
-*The Falsettos* can be seen as a sequel to Stacy's earlier work [*The Making of Bull: The True Story*](/archive/2012-springsummer/makishi/index.html) which Word of Warning presented with Contact in March 2012, and continues to tour.          
-          
+A loose sequel to [*The Making of Bull: The True Story*](/archive/2012-springsummer/makishi/index.html) (presented with Contact in March 2012), *The Falsettos* looks at the very idea of the sequel, asking how artists remain faithful to their personal style, sensibility and ‘vision’ without resorting to formulas, gimmicks, and expectations created by past works. How do artists respond to the maxim, 'Make it like the last one only make it better'?       
+                              
 ####Who is she?    
 Stacy Makishi is a transplant from Hawaii who found paradise in Dalston, East London in 1994.         
          
