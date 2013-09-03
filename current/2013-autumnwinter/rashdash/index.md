@@ -28,7 +28,10 @@ Date: Friday 11 + Saturday 12 October 2013, 8pm
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
 [Tickets: £11/6](http://contactmcr.com/whats-on/6232-rashdash-theatre-the-ugly-sisters/)   
 Box Office Tel: 0161 274 0600    
-     
+    
+####Q&A          
+On Friday 11 October there will be a post-show talk.         
+       
 ####More        
 *Once upon a time there was us. Ruby and us. Ruby was our mum. She had to work a lot. We played in the burnt out car round the back. We could do anything... except play with the needles.*        
           
