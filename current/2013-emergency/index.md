@@ -23,11 +23,11 @@ header_image:
 
 Last year we taped performers to windows, played a uniquely guttural rendition of Nessun Dorma and unearthed a viscerally prehistoric woman. This year will be an equally eclectic performance lucky-dip... your chance to sample the different and all for free.
 
-Drop-in for ten minutes or stay for the full day & evening — a free day-out for the curious with twenty-six new works, featuring (subject to change):    
+Drop-in for ten minutes or stay for the full day & evening — a free day-out for the curious with over twenty-five new works, featuring artists (subject to change):    
 
 **Saturday 5 October 2013, from 12noon to 11pm**        
-A | B | C | D | E
-
+Maiada aBOUD | Lindsay Bennett | Nathan Birkinshaw | Sarah Boulton | Rebecca Bowley | Kerry Carroll | Collective Unconscious | Will Dickie | Dirty Shade | Drunken Chorus | Frances-Kay | Geranium Theatre Co | Paul Hurley | Lucy Hutson | Lotta SCAF | Paul O'Donnell | PartSuspended | Beth J Ross | SheepKnuckle  | Small Acts | lili Spain | The Same, But Different | Voris / Buchanan | Zimmermann / Singh          
+           
 ####Venues + Booking Details
 Date: Saturday 5 October 2013, 12noon-4pm    
 [Venue: BLANKSPACE](http://blankmediacollective.org/about-us), 43 Hulme Street, Manchester M15 6AW    
