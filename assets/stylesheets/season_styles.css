@@ -79,7 +79,7 @@
 		{background: #fff; color: #030;}
 		
 	.dom .splash
-		{background:url(../images/header_example.jpg) center center}
+		{background:url(../images/header_example.png) center center}
 
 /* Emergency 2013 bright red
 ------------------------------------------------------*/
@@ -100,7 +100,7 @@
 		{background: #fff; color: #c00;}
 		
 	.e2013 .splash
-		{background:url(../images/header_emergency_reversed.jpg) center center}
+		{background:url(../images/header_emergency.jpg) center center}
 
 /* Works Ahead very dark red-maroon
 ------------------------------------------------------*/
