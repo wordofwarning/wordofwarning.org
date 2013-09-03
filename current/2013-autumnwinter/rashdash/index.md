@@ -19,7 +19,7 @@ header_image:
 *Presented by* Contact + Word of Warning 
    
 ####In Brief
-Thumping drums, clanging keys and violent voices. RashDash tell the real story of Cinderella — a sinister and sensuous cabaret.    
+Thumping drums, clanging keys and violent voices; the real story of Cinderella — a sinister and sensuous cabaret.    
         
 Watch trailer [here](http://youtu.be/i0rUjOh4yu8).    
      
@@ -29,13 +29,34 @@ Date: Friday 11 + Saturday 12 October 2013, 8pm
 [Tickets: £11/6](http://contactmcr.com/whats-on/6232-rashdash-theatre-the-ugly-sisters/)   
 Box Office Tel: 0161 274 0600    
      
-####More    
-     
-####Who is she?
-    
-####What people have said about them       
-    
-####Credits    
+####More        
+*Once upon a time there was us. Ruby and us. Ruby was our mum. She had to work a lot. We played in the burnt out car round the back. We could do anything... except play with the needles.*        
+          
+*Then everything changed, and there were bright lights and loud noises and flashing cameras. And there was her, and she was different. Everyone loved her.*       
+        
+Whoever holds the pen writes the story.        
+        
+####Who are they?        
+Abbi Greenland and Helen Goalen formed RashDash in 2008 at The University of Hull; they are performers, devisers, choreographers and singers based at WYP in Leeds.        
+         
+They make theatre that is noisy, messy, fierce, funny, beautiful, unsettling, bold. So far all of their work has involved story, dance, live music and song  — but it might not always. They make shows about being young and being women. They make shows about what it feels like to be here, now. They make shows about the world we ALL know — can see, smell, touch — and the world that only THEY know; that exists in their cells and their bodies.        
+        
+Their process is evolving. It's never the same. Sometimes they sit and talk for days. Sometimes they play games. Sometimes they move together for hours without speaking. Sometimes they play with bubble wrap, or a bath, or a tower of mattresses, or...         
+           
+They are starting to play with how they can work with a writer, from the beginning, letting words affect movement and movement affect words. They are trying not to be scared of words and of asking someone else into the room to write them... they are doing well.        
+         
+They were Fringe First winners 2010 and 2011, and are an Associate Company of West Yorkshire Playhouse.        
+          
+####What people have said about them         
+'Electrifying' 4*  The Telegraph
+
+'A riotous evening of performance' 4* A Younger Theatre
+
+'Sensational' Total Theatre
+         
+####Credits     
+Featuring *Not Now Bernard*; Direction by Kyle Davies; Design by Alison McDowall.        
+Supported using public funding by the National Lottery through Arts Council England.        
         
 ####Websites    
 [www.rashdash.co.uk](http://www.rashdash.co.uk/) | [@rashdashtheatre](http://twitter.com/rashdashtheatre)   
