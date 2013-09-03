@@ -20,19 +20,38 @@ header_image:
 *during* [Domestic](/current/2013-domestic/index.html)        
 
 ####In Brief
+SHORT COPY
         
-####Venue + Booking Details
-Dates: November 2013, pm   
-[Venue: Cooper House](), Manchester, M15 6DX    
-[Tickets: £]()    
-Box Office Tel: 07     
+Watch video [here](http://vimeo.com/68437394).        
          
+####Venue + Booking Details
+Dates: Friday 8 — Sunday 17 November 2013    
+Venue: Cooper House, Camelford Close, Manchester, M15 6DX   
+Appointments can be booked online via: [WeGotTickets](http://www.wegottickets.com/wordofwarning)     
+Appointments can be reserved over the phone: 07581 299 439       
+
 ####More      
-       
+*Exposure* is the beginning of an investigation into how we look, how we are looked at and if we can ever really be seen. This intimate one-to-one performance is a tender and tentative look into autobiography, asking how fully we can reveal ourselves — to ourselves, to another, with another.        
+        
+It comes out of a tentative enquiry Bannon is making into autobiography and into how she looks and appears in the world; this is informed by her relationship to the fact that she has albinism. Albinism, a condition which affects her pigmentation and also her sight, affects both how she physically sees and experience the world, and how she is seen and perceived.          
+        
 ####Who is she?    
+Jo Bannon is a UK-based artist making live art and performance. She has presented work in the UK and Europe, and is an In Between Time associate artist and founder member of Residence. She also works as a dramaturg and director for devised theatre and as a producer of performance and live art.        
+        
+At the core of her work is a fascination with human exchange and the hope and futility which this endeavour entails. Her work explores how our physical bodies experience the world around us and how this sensory experience of living can only be conveyed in a faltering rudimentary language which continually fails to express how we see the world to each other. Her practice explores how live performance and encounters might be used as a strategy against this. As a result her work often manifests as intimate encounters designed for one person or small audiences alongside staged theatre work and installations.        
               
 ####What people have said about her       
-
-####Credits        
+>*A candid, powerful and moving self-portrait which is free from nostalgia, but has a note of real melancholy.*<br> Exeunt Magazine        
+>            
+>*...an extraordinary 10 minutes which considers not just how we look but what we choose to look at too.*<br> Lyn Gardner , The Guardian
+>         
+>*This step into the dark may cause trepidation but it’s a ten minute encounter well worth taking.*<br> The Public Reviews        
         
+####Credits        
+Created by Jo Bannon. Images: Manual Vason.         
+Developed with the support of Rules and Regs and South Hill Park. Further development supported by Bristol Ferment, Dartington Space with the support of the Dartington Hall Trust, In Between Time, The Basement, Residence, RWA, Arnolfini & BAC.           
+Supported using public funding by the National Lottery through Arts Council England.        
+Domestic is produced by hÅb, with support from Guiness Northern Counties, Z-arts, etc.                    
+         
 ####Websites        
+[www.jobannon.co.uk](http://www.jobannon.co.uk) | [@missjobannon](http://twitter.com/missjobannon)
