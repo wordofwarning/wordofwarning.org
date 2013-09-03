@@ -20,19 +20,28 @@ header_image:
 *during* [Domestic](/current/2013-domestic/index.html)        
 
 ####In Brief
-        
-####Venue + Booking Details
-Dates: Friday 8 November 2013, 8pm + Saturday 9 November 2013, 4pm + 8pm   
-[Venue: Cooper House](), Manchester, M15 6DX    
-[Tickets: £6/4]()    
-Box Office Tel: 07     
+SHORT COPY
+            
+**Please note: this is a show for maximum 20 people, lasting approximately 60 minutes.**
          
+####Venue + Booking Details
+Dates: Friday 8 November 2013, 8pm + Saturday 9 November 2013, 4pm + 8pm           
+Venue: Cooper House, Camelford Close, Manchester, M15 6DX   
+Tickets: £6/4, can be booked online via: [WeGotTickets](http://www.wegottickets.com/wordofwarning)     
+Tickets: £6/4, can be reserved over the phone: 07581 299 439       
+
 ####More      
-       
+          
+        
 ####Who is he?    
+     
               
 ####What people have said about him       
-
+>*x*<br> xx        
+>          
+                     
 ####Credits        
-        
+Domestic is produced by hÅb, with support from Guiness Northern Counties, Z-arts, etc.                    
+         
 ####Websites        
+[www.thevacuumcleaner.co.uk](http://www.thevacuumcleaner.co.uk) | [@vacuumcleaner](http://twitter.com/vacuumcleaner)
