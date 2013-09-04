@@ -38,7 +38,7 @@ Experience the very real physical sensation of warm water running over you body.
           
 ####Credits        
 A hÅb commission for Works Ahead 2012.
-Domestic is produced by hÅb, with support from Guiness Northern Counties, Z-arts, etc.                    
+Domestic is produced by hÅb; supported by Z-arts + City Response Limited.        
          
 ####Websites        
 [juliawilson.vpweb.co.uk](http://juliawilson.vpweb.co.uk) | [@wilsonjuliam](http://twitter.com/wilsonjuliam)
