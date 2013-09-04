@@ -24,7 +24,7 @@ The killer show everyone's dying to see.
 ####Venue + Booking Details
 Date: Friday 29 November 2013, 7.30pm   
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
-[Tickets: £8/5](http://www.z-arts.org/events/wow-november/)    
+[Tickets: £8/5](http://www.z-arts.org/events/wow-stacy-makishi/)    
 Box Office Tel: 0161 232 6089     
         
 ####More       
