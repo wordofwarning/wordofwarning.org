@@ -20,9 +20,9 @@ header_image: "header_mental.jpg"
 *during* [Domestic](/current/2013-domestic/index.html)        
 
 ####In Brief
-The Metropolitan Police call him a "Domestic Extremist". The NHS have described him as "highly disturbed", and labelled him with Borderline Personality Disorder. "A real and present threat to the safe running of our lawful business" is how E.ON described him at the Royal Courts of Justice.        
+The Metropolitan Police call him a Domestic Extremist. The NHS have described him as highly disturbed, and labelled him with Borderline Personality Disorder. A real and present threat to the safe running of our lawful business is how E.ON described him at the Royal Courts of Justice.        
          
-He prefers the term "Mental".       
+He prefers the term *Mental*.       
               
 **Please note: this is a show for maximum 20 people, lasting approximately 50-60 minutes.**
          
@@ -41,12 +41,12 @@ After ten years of being an outlaw and inpatient, notorious artist-activist the 
          
 Held in the intimate setting of a bedroom, a limited audience are invited to join him under an oversized duvet. Accompanied by an OHP and vinyl records, James provides a welcoming environment for you to explore his pertinent experiences of the dynamics of power.        
               
-*"Although the show is intense, many of the taboos within the show need to be talked about. For example, the high rates of suicide in men under 35, current undercover police operations and the length that big business will go to silence its critics."*
+*Although the show is intense, many of the taboos within the show need to be talked about. For example, the high rates of suicide in men under 35, current undercover police operations and the length that big business will go to silence its critics.*
           
 ####Who is he?    
 the vacuum cleaner is an art and activism collective of one. Through site-specific performance, street-based intervention and film, the vacuum cleaner empowers his audience to address socio-political issues including consumerism and mental health discrimination. From one-man shows to large-scale participatory actions, his approach is variously subtle and extreme, but always candid, provocative and playful.       
           
-He is an Artsadmin Associate Artist. His work has been commissioned and exhibited internationally, including at Tate Modern, ICA, Fierce Festival, the Centre for Contemporary Art Glasgow, the Liverpool Biennial, the Museum of Contemporary Art (Chicago), Wooster Collective (USA), Anti Festival (Finland), Centre d’Art Contemporain (Switzerland), Hebbel-Am-Ufer, Tanztendenz (Germany), Khoj Live 08 (India). His films have been commissioned by BBC4, Channel 4 and Arte.         
+He is an Artsadmin Associate Artist. His work has been commissioned and exhibited internationally, including at Tate Modern, ICA, Fierce Festival, the Centre for Contemporary Art Glasgow, the Liverpool Biennial, the Museum of Contemporary Art (Chicago), Wooster Collective (USA), Anti Festival (Finland), Centre d'Art Contemporain (Switzerland), Hebbel-Am-Ufer, Tanztendenz (Germany), Khoj Live 08 (India). His films have been commissioned by BBC4, Channel 4 and Arte.         
           
 ####What people have said about him       
 >*Mental is something different within the genre of confessional art. In a way that is provoking and unique... at
