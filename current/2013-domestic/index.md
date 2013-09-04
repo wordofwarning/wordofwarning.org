@@ -29,19 +29,19 @@ the vacuum cleaner | Mental
 Leentje Van de Cruys | Kitsch'n Sync        
          
 *Sat 16 + Sun 17 Nov, 2pm + 5pm + 8pm | £6/4*        
-J. Fergus Evans | My Heart Is Hitchhiking Down Peachtree Street        
+J. Fergus Evans | my heart is hitchhiking down peachtree street        
           
 *Sat 16 + Sun 17 Nov, 4pm + 7pm | £6/4*       
-Greg Wohead | I Like The Way You Wear Your Hair        
+Greg Wohead | I like the way you wear your hair        
         
 ###By Appointment, Donations Invited        
-*Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov (various)*        
+*Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov (various times)*        
 Small Acts | Shower Scenes         
            
-*Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov (various)*        
+*Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov (various times)*        
 Alex Bradley | Field Test         
            
-*Sat 16 + Sun 17 Nov, 2-4pm + 5-7pm*        
+*Sat 16 + Sun 17 Nov, 2pm-4pm + 5pm-7pm (every 12 minutes)*        
 Jo Bannon | Exposure          
           
 ####Venue + Booking Details
