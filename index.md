@@ -1,8 +1,7 @@
 ---
-
 # CONFIGURATION
 layout: home
-header_image: "assets/images/header_default.jpg"
+header_image: "assets/images/header_2013aw.jpg"
 
 ---
 #Our [Autumn/Winter] 2013 Programme coming soon...         
