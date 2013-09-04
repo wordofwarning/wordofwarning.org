@@ -42,4 +42,4 @@ Tickets: FREE no booking required
 Venue Tel: 0161 232 6089       
             
 ####Credits         
-Co-produced by [hÅb](/hab/index.html), [Blank Media Collective](http://www.blankmediacollective.org), [Castlefield Gallery](http://www.castlefieldgallery.co.uk) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.
+Co-produced by [hÅb](/hab/index.html), [Blank Media Collective](http://www.blankmediacollective.org) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.
