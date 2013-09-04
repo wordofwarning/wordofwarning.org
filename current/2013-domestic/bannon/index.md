@@ -19,14 +19,14 @@ header_image: "header_exposure.jpg"
 *Presented by* Word of Warning, Guiness Northern Counties + Z-arts *during* [Domestic](/current/2013-domestic/index.html)        
 
 ####In Brief
-SHORT COPY
-        
+A tender and tentative look into autobiography, asking how fully we can reveal ourselves — to ourselves, to another, with another.          
+               
 Watch trailer [here](http://vimeo.com/68437394).        
         
-**Please note: this is a one-to-one encounter lasting approximately 10 minutes**
+**Please note: this is a one-to-one encounter lasting approximately 9 minutes**
          
 ####Venue + Booking Details
-Dates: Saturday 16 + Sunday 17 November 2013, 2pm-4pm + 5pm-7pm        
+Dates: Saturday 16 + Sunday 17 November 2013, 2pm-4pm + 5pm-7pm (begins every 12 minutes)        
 Venue: Cooper House, Camelford Close, Manchester, M15 6DX   
 Appointments can be booked online via: [WeGotTickets](http://www.wegottickets.com/wordofwarning)     
 Appointments can be reserved over the phone: 07581 299 439        
