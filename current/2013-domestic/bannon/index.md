@@ -43,11 +43,11 @@ Jo Bannon is a UK-based artist making live art and performance. She has presente
 At the core of her work is a fascination with human exchange and the hope and futility which this endeavour entails. Her work explores how our physical bodies experience the world around us and how this sensory experience of living can only be conveyed in a faltering rudimentary language which continually fails to express how we see the world to each other. Her practice explores how live performance and encounters might be used as a strategy against this. As a result her work often manifests as intimate encounters designed for one person or small audiences alongside staged theatre work and installations.        
               
 ####What people have said about her       
->*A candid, powerful and moving self-portrait which is free from nostalgia, but has a note of real melancholy.*<br> Exeunt Magazine        
+>*A candid, powerful and moving self-portrait which is free from nostalgia, but has a note of real melancholy.*<br>Exeunt Magazine        
 >            
->*...an extraordinary 10 minutes which considers not just how we look but what we choose to look at too.*<br> Lyn Gardner , The Guardian
+>*...an extraordinary 10 minutes which considers not just how we look but what we choose to look at too.*<br>Lyn Gardner , The Guardian
 >         
->*This step into the dark may cause trepidation but it’s a ten minute encounter well worth taking.*<br> The Public Reviews        
+>*This step into the dark may cause trepidation but it’s a ten minute encounter well worth taking.*<br>The Public Reviews        
         
 ####Credits        
 Created by Jo Bannon. Images: Manual Vason.         
