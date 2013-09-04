@@ -17,25 +17,30 @@ header_image:
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning *with* Guiness Northern Counties + Z-arts       
+*Presented by* Word of Warning, Guiness Northern Counties + Z-arts       
  
 **Performance stripped bare — a series of intimate interactions, homely conversations and domestic dramas played out in a block of flats.**    
         
 ###Ticketed Shows          
 *Fri 8 Nov, 8pm + Sat 9 Nov, 4pm + 8pm | £6/4*        
 the vacuum cleaner | Mental        
+        
 *Thu 14 + Fri 15 Nov, 6pm + 8pm | £5/3*        
 Leentje Van de Cruys | Kitsch'n Sync        
+         
 *Sat 16 + Sun 17 Nov, 2pm + 5pm + 8pm | £6/4*        
 J. Fergus Evans | My Heart Is Hitchhiking Down Peachtree Street        
+          
 *Sat 16 + Sun 17 Nov, 4pm + 7pm | £6/4*       
 Greg Wohead | I Like The Way You Wear Your Hair        
         
-###By Appointment, donations invited        
+###By Appointment, Donations Invited        
 *Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov (various)*        
 Small Acts | Shower Scenes         
+           
 *Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov (various)*        
 Alex Bradley | Field Test         
+           
 *Sat 16 + Sun 17 Nov, 2-4pm + 5-7pm*        
 Jo Bannon | Exposure          
           
@@ -46,4 +51,4 @@ Ticketed Shows + Appointments can be booked online via: [WeGotTickets](http://ww
 Ticketed Shows + Appointments can be reserved over the phone: 07581 299 439       
         
 ####Credits         
-Produced by hÅb, with support from Guiness Northern Counties, Z-arts, etc.
+Produced by hÅb; supported by Z-arts + City Response Limited.
