@@ -16,8 +16,7 @@ header_image: "header_exposure.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning *with* Guiness Northern Counties + Z-arts       
-*during* [Domestic](/current/2013-domestic/index.html)        
+*Presented by* Word of Warning, Guiness Northern Counties + Z-arts *during* [Domestic](/current/2013-domestic/index.html)        
 
 ####In Brief
 SHORT COPY
@@ -54,7 +53,7 @@ At the core of her work is a fascination with human exchange and the hope and fu
 Created by Jo Bannon. Images: Manual Vason.         
 Developed with the support of Rules and Regs and South Hill Park. Further development supported by Bristol Ferment, Dartington Space with the support of the Dartington Hall Trust, In Between Time, The Basement, Residence, RWA, Arnolfini & BAC.           
 Supported using public funding by the National Lottery through Arts Council England.        
-Domestic is produced by hÅb, with support from Guiness Northern Counties, Z-arts, etc.                    
+Domestic is produced by hÅb; supported by Z-arts + City Response Limited.               
          
 ####Websites        
 [www.jobannon.co.uk](http://www.jobannon.co.uk) | [@missjobannon](http://twitter.com/missjobannon)
