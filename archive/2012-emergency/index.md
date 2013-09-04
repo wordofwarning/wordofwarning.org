@@ -17,4 +17,4 @@ show: "Micro-festival marathon." # the name of the show
 [*Emergency*](hab/emergency/index.html), Manchester's 13th marathon of the bizarre, the beautiful and the bold, popped up in three venues — BLANKSPACE, Castlefield Gallery + Z-arts — featuring a full 39 free pieces of live work: daytime installations, interactions and intimate experiences at BLANKSPACE + Castlefield Gallery and an evening of sit-down performance at Z-arts.    
            
 ####Credits          
-Produced by [hÅb](/hab/index.html) with [Blank Media Collective](http://www.blankmediacollective.org), [Castlefield Gallery](http://www.castlefieldgallery.co.uk) + [Z-arts](http://www.z-arts.org).
+Co-produced by [hÅb](/hab/index.html) with [Blank Media Collective](http://www.blankmediacollective.org), [Castlefield Gallery](http://www.castlefieldgallery.co.uk) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.
