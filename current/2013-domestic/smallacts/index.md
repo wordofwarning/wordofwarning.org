@@ -20,9 +20,9 @@ header_image: "header_shower.jpg"
 *during* [Domestic](/current/2013-domestic/index.html)        
 
 ####In Brief
-SHORT COPY
-            
-**Please note: this is a solo, private, encounter in a shower, lasting approximately 15 minutes.**
+An altogether different screen experience!        
+                     
+**Please note: this is a solo, private, encounter in a shower, lasting approximately 15 minutes. Suitable for ages 18+.**
          
 ####Venue + Booking Details
 Dates: Friday 8 + Saturday 9 + Thursday 14 — Sunday 17 November 2013 (various)        
@@ -32,16 +32,12 @@ Appointments can be reserved over the phone: 07581 299 439
 After your encounter, donations are invited.               
                 
 ####More      
+*Shower Scenes* invites you to take a private shower and step into the role of the solitary, wet and naked bather.        
           
-        
-####Who is she?    
-     
-              
-####What people have said about her       
->*x*<br> xx        
->          
-                     
+Experience the very real physical sensation of warm water running over you body. Wash yourself and watch video imagery projected onto the shower curtain. Feel the steam rise and wonder who is the viewer, who is the victim, who is innocent? 
+          
 ####Credits        
+A hÅb commission for Works Ahead 2012.
 Domestic is produced by hÅb, with support from Guiness Northern Counties, Z-arts, etc.                    
          
 ####Websites        
