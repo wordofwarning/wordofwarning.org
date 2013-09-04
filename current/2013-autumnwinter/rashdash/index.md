@@ -51,9 +51,9 @@ They are starting to play with how they can work with a writer, from the beginni
 They were Fringe First winners 2010 and 2011, and are an Associate Company of West Yorkshire Playhouse.        
           
 ####What people have said about them         
->*4\*Electrifying*<br> The Telegraph         
+>*4\* Electrifying*<br>The Daily Telegraph         
 >                
->*4\*A riotous evening of performance*<br> A Younger Theatre         
+>*4\* A riotous evening of performance*<br>A Younger Theatre         
 >        
 >*Sensational*<br>Total Theatre         
          
