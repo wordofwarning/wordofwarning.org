@@ -6,7 +6,7 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency 2013" # the name of the artist or company
-show: "A free day-out for the curious." # the name of the show
+show: "Micro-festival marathon." # the name of the show
 artist_size: 1
 show_size: 3
 header_image:
@@ -18,14 +18,17 @@ header_image:
 
 ---
 *Presented by* Word of Warning, Blank Media Collective + Z-arts          
-        
-**Returning for its fourteenth year, this two location micro-marathon of the bizarre, the bold and the beautiful pops up in a plethora of spaces.**
 
-Last year we taped performers to windows, played a uniquely guttural rendition of Nessun Dorma and unearthed a viscerally prehistoric woman. This year will be an equally eclectic performance lucky-dip... your chance to sample the different and all for free.
+####Saturday 5 October 2013, 12noon-11pm             
+         
+**A free day-out for the curious.**        
+           
+Returning for its fourteenth year, our two location micro-marathon of the bizarre, the bold and the beautiful pops up in a plethora of spaces.       
+          
+Last year we taped performers to windows, played a uniquely guttural rendition of Nessun Dorma and unearthed a viscerally prehistoric woman. This year will be an equally eclectic performance lucky-dip... your chance to sample the different and all for free.         
 
-Drop-in for ten minutes or stay for the full eleven hours — a free day-out for the curious with over twenty-five new works, featuring artists (subject to change, still being confirmed):    
+Drop-in for ten minutes or stay for the full eleven hours — a free day-out for the curious with over twenty-five new works; featuring artists (subject to change, still being confirmed):    
 
-**Saturday 5 October 2013, from 12noon to 11pm**        
 Maiada aBOUD | Lindsay Bennett | Nathan Birkinshaw | Sarah Boulton | Rebecca Bowley | Kerry Carroll | Collective Unconscious | Will Dickie | Dirty Shade | Drunken Chorus | Frances-Kay | Geranium Theatre Co | Paul Hurley | Lucy Hutson | Lotta SCAF | Manoli Moriarty | Paul O'Donnell | PartSuspended | Beth J Ross | SheepKnuckle  | Small Acts | lili Spain | The Same, But Different | Voris / Buchanan | Zimmermann / Singh          
            
 ####Venues + Booking Details
@@ -40,4 +43,4 @@ Tickets: FREE no booking required
 Venue Tel: 0161 232 6089       
             
 ####Credits         
-Co-produced by hÅb, Blank Media Collective and Z-arts; a greenroom legacy project.
+Co-produced by [hÅb](/hab/index.html), [Blank Media Collective](http://www.blankmediacollective.org), [Castlefield Gallery](http://www.castlefieldgallery.co.uk) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.
