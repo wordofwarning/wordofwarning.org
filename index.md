@@ -5,6 +5,6 @@ layout: home
 header_image: "assets/images/header_default.jpg"
 
 ---
-#Our [Autumn/Winter] Programme will soon be announced... 
-##Please bear with us as new pages on our website go live this week; first up is our fourteenth Emergency in early October.
+#Our [Autumn/Winter] 2013 Programme coming soon...         
+##First up will be our fourteenth *Emergency* in early October; please bear with us we update our website this week.        
 ##Sign-up [here]({{ site.mailer_signup_url }}) for regular updates.
