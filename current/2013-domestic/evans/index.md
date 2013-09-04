@@ -20,9 +20,9 @@ header_image: "header_mhih.jpg"
 *during* [Domestic](/current/2013-domestic/index.html)        
 
 ####In Brief
-SHORT COPY
-            
-**Please note: this is a show for maximum 9 people, lasting approximately 50 minutes.**
+Stories of Southern Comfort, dancing drag queens and singing cicadas from the sticky heat of Atlanta, Georgia.        
+                     
+**Please note: this is a show for maximum 9 people, lasting approximately 50-60 minutes.**        
          
 ####Venue + Booking Details
 Dates: Saturday 16 + Sunday 17 November 2013, 2pm + 5pm + 8pm        
@@ -31,17 +31,31 @@ Tickets: £6/4, can be booked online via: [WeGotTickets](http://www.wegottickets
 Tickets: £6/4, can be reserved over the phone: 07581 299 439       
 
 ####More      
+Fergus has lived in England for almost seven years. He hasn’t been back to his hometown in five.        
+           
+*my heart is hitchhiking down peachtree street* is a one-man show about living far away from home. It’s about the stories you tell people when they ask you when you’re from. It’s about learning that once you leave, you can’t go back.        
           
-        
+Using animation, storytelling, and spoken word, the show is about trying to make sense of where you come from when you’re very far from home.         
+          
 ####Who is he?    
-     
+J. Fergus Evans is a yarn-spinnin', boy-kissin' spoken word & performance artist. His work focuses on restaging spoken word using video, soundscaping and sculpture. He deftly weaves poetry, theatre, and installation into tapestries saturated with lived experience and half-imagined fantastical landscapes. Previous work included (among other things) a forest created from over a thousand donated sympathy cards. He has created work with a number of leading arts organisations including Contact Theatre, The Albany, and BAC.        
+        
+He is also a certified life coach and independent producer.      
               
 ####What people have said about him       
->*x*<br> xx        
->          
-                     
+>*a refreshing reminder of just what can be achieved in Theatre*<br>The Public Reviews       
+>         
+>*If you haven’t heard of Fergus Evans, you soon will*<br>The Pink Paper       
+>        
+>*Gently perceptive... rich and unhurried...*<br>Total Theatre       
+>       
+>*Heartwarming and intimate*<br> A Younger Theatre       
+        
 ####Credits        
-Domestic is produced by hÅb, with support from Guiness Northern Counties, Z-arts, etc.                    
+Written and performed by J. Fergus Evans.         
+Co-produced by Contact with support from The Albany; supported by the National Lottery through Arts Council England.         
+Image by 'Off the Grid' and photography by Roshana Rubin-Mayhew.
+Domestic is produced by hÅb; supported by Z-arts + City Response Limited.        
          
 ####Websites        
 [jfergusevans.com](http://jfergusevans.com) | [@Fergus_Evans](http://twitter.com/Fergus_Evans)
