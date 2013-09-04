@@ -23,7 +23,7 @@ header_image:
          
 **A free day-out for the curious.**        
            
-Returning for its fourteenth year, Manchester's two location micro-marathon of the bizarre, the bold and the beautiful pops up in a plethora of spaces.       
+Returning for its fourteenth year, [*Emergency*](/hab/emergency/index.html) — Manchester's two location micro-marathon of the bizarre, the bold and the beautiful — pops up in a plethora of spaces.       
           
 Last year we taped performers to windows, played a uniquely guttural rendition of Nessun Dorma and unearthed a viscerally prehistoric woman. This year will be an equally eclectic performance lucky-dip... your chance to sample the different and all for free.         
 
