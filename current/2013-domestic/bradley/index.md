@@ -19,27 +19,15 @@ header_image: "header_alex.jpg"
 *Presented by* Word of Warning, Guiness Northern Counties + Z-arts *during* [Domestic](/current/2013-domestic/index.html)        
 
 ####In Brief
-SHORT COPY
-            
-**Please note: this is a...**
+**Please note: this is an encounter in an outdoor space, open to the elements.**
          
 ####Venue + Booking Details
-Dates: Friday 8 + Saturday 9 + Thursday 14 — Sunday 17 November 2013 (various)        
+Dates: Friday 8 + Saturday 9 + Thursday 14 — Sunday 17 November 2013 (evenings, various times)        
 Venue: Cooper House, Camelford Close, Manchester, M15 6DX   
 Appointments can be booked online via: [WeGotTickets](http://www.wegottickets.com/wordofwarning)     
 Appointments can be reserved over the phone: 07581 299 439        
 After your encounter, donations are invited.               
                 
-####More      
-          
-        
-####Who is he?    
-     
-              
-####What people have said about him       
->*x*<br> xx        
->          
-                     
 ####Credits        
 Domestic is produced by hÅb; supported by Z-arts + City Response Limited.             
          
