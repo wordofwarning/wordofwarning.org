@@ -20,9 +20,9 @@ header_image: "header_mental.jpg"
 *during* [Domestic](/current/2013-domestic/index.html)        
 
 ####In Brief
-The Metropolitan Police call him a 'Domestic Extremist'. The NHS have described him as 'highly disturbed' and labelled him with Borderline Personality Disorder. ‘A real and present threat to the safe unning of our lawful business’ is how E.ON described him at the Royal Courts of Justice.        
+The Metropolitan Police call him a "Domestic Extremist". The NHS have described him as "highly disturbed", and labelled him with Borderline Personality Disorder. "A real and present threat to the safe running of our lawful business" is how E.ON described him at the Royal Courts of Justice.        
          
-He prefers the term *Mental*.       
+He prefers the term "Mental".       
               
 **Please note: this is a show for maximum 20 people, lasting approximately 50-60 minutes.**
          
