@@ -16,8 +16,7 @@ header_image: "header_alex.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning *with* Guiness Northern Counties + Z-arts       
-*during* [Domestic](/current/2013-domestic/index.html)        
+*Presented by* Word of Warning, Guiness Northern Counties + Z-arts *during* [Domestic](/current/2013-domestic/index.html)        
 
 ####In Brief
 SHORT COPY
@@ -42,7 +41,7 @@ After your encounter, donations are invited.
 >          
                      
 ####Credits        
-Domestic is produced by hÅb, with support from Guiness Northern Counties, Z-arts, etc.                    
+Domestic is produced by hÅb; supported by Z-arts + City Response Limited.             
          
 ####Website        
 [@atasterisk](http://twitter.com/atasterisk)
