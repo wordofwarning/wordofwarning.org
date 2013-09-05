@@ -52,7 +52,7 @@ She is an Associate Artist with Artsadmin, Chelsea Theatre and New Unity.
 ![Stacy Makishi](stacy2.jpg)    
          
 ####Credits    
-The Falsettos by Stacy Makishi, image by Will Munro.         
+The Falsettos by Stacy Makishi, images by Will Munro + Nikki Tomlinson.         
 Co-commissioned by Chelsea Theatre, Colchester Arts Centre and The Basement; supported by the Roddick Foundation; produced by ArtsAdmin.         
           
 ####Websites        
