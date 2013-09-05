@@ -10,9 +10,9 @@ A season of contrasts, from the eclectic explosion of our fourteenth [**Emergenc
 
 This season, alongside our regular outings to Z-arts and Contact, we will make our final visit to the lovely BLANKSPACE and will be venturing into new territory with a sited mini-festival in a Hulme block of flats.  
 
-Talk about taking your work home with you, Cooper House just happens to be the abode of one of our number and we will be doing shows in the flat that was actually the birthplace of Word of Warning's parent company [**hÅb**](/hab/index.html).  Currently in the middle of a major refurbishment, Cooper House will play host to [**Domestic**](/current/2013-domestic/index.html), a series of stories and experiences for small audiences from: the vacuum cleaner, Leentje Van de Cruys, J.Fergus Evans, Greg Wohead, Small Acts, Jo Bannon and (former Cooper House resident) Alex Bradley. All shows are VERY limited capacity so book early.    
+Talk about taking your work home with you, Cooper House just happens to be the abode of one of our number and we will be doing shows in the flat that was actually the birthplace of Word of Warning's parent company [**hÅb**](/hab/index.html). Currently in the middle of a major refurbishment, Cooper House will play host to [**Domestic**](/current/2013-domestic/index.html), a series of stories and experiences for small audiences from: the vacuum cleaner, Leentje Van de Cruys, J. Fergus Evans, Greg Wohead, Small Acts, Jo Bannon and (former Cooper House resident) Alex Bradley with Scott Smith. All shows are VERY limited capacity so book early.    
 
-Really hoping to see you at some of the forthcoming programme.  If you want to check out what you missed last season, have a look at the [Spring/Summer 2013 archive](/archive/2013-springsummer/index.html).    
+Really hoping to see you at some of the forthcoming programme. If you want to check out what you missed last season, have a look at the [Spring/Summer 2013 archive](/archive/2013-springsummer/index.html).    
  
 ####What is Word of Warning and where did it come from?
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of live performance: an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work in Manchester.
@@ -40,7 +40,7 @@ We don’t want to put you off by talking labels – yes there’ll be theatre, 
 >*Love it. So glad to have this developing as a brand I'd trust without knowing any of the work you're programming.*   
 
 ####Who is Word of Warning?
-My name’s Tamsin Drury and I run an organisation called [hÅb](/hab/index.html), which was greenroom’s partner for over a decade. You might not know hÅb but you might know some of our events – like **Emergency** (Manchester’s free marathon of live work with 40 shows in 3 venues) and **Hazard** (random sprees of eccentricity in Manchester's City Centre).
+My name’s Tamsin Drury and I run an organisation called **[hÅb](/hab/index.html)**, which was greenroom’s partner for over a decade. You might not know hÅb but you might know some of our events – like **Emergency** (Manchester’s free marathon of live work with 40 shows in 3 venues) and **Hazard** (random sprees of eccentricity in Manchester's City Centre).
 
 I’ve been around a while, a really long while… and in that time, I’ve been responsible for making the Arndale Tower flash, wrapping Cathedral Gardens in 7km of hazard tape and encouraging a mass audience conga and a glitter-cannon Hallelujah chorus!    
 
