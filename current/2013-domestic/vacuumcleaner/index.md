@@ -31,8 +31,9 @@ An autobiographical performance by artist-activist, the vacuum cleaner.
 ####Venue + Booking Details
 Dates: Friday 8 November 2013, 8pm + Saturday 9 November 2013, 4pm + 8pm        
 Venue: Cooper House, Camelford Close, Manchester, M15 6DX   
-Tickets: £6/4, can be booked online via: [WeGotTickets](http://www.wegottickets.com/wordofwarning)     
-Tickets: £6/4, can be reserved over the phone: 07581 299 439       
+Tickets: £6/4, can be booked online via: WeGotTickets from Friday 13 September       
+Tickets: £6/4, can be reserved over the phone: 07581 299 439 from Friday 13 September
+      
         
 ####More       
 After ten years of being an outlaw and inpatient, notorious artist-activist the vacuum cleaner (famed for hijacking the Starbucks logo, parodying the Olympic twitter account and causing a minor riot by giving away 100,000 one cent Euros of free money) presents an autobiographical performance told through his psychiatric records, police intelligence files and corporate injunctions — all collected through the Data Protection Act.            
