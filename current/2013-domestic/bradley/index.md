@@ -28,7 +28,7 @@ Coming to life at dusk, *Field Test in Garageland* is experienced by looking out
 **Please note: this piece takes place in an unheated garage, wrap up warm!**    
 
 ####Venue + Booking Details
-Dates: Friday 8 + Saturday 9 + Thursday 14 — Sunday 17 November 2013 (various)        
+Dates: Friday 8 + Saturday 9 + Thursday 14 — Sunday 17 November 2013 (5pm-10pm)        
 Venue: Cooper House, Camelford Close, Manchester, M15 6DX   
 Appointments can be booked online via: [WeGotTickets](http://www.wegottickets.com/wordofwarning)     
 Appointments can be reserved over the phone: 07581 299 439        
@@ -53,7 +53,7 @@ Scott Smith is a Kansas-born musician, a player of the steel guitar resonant wit
 ####Credits        
 Alex Bradley is an Associate Artist with In Between Time, by whom *Field Test* was originally commissioned.    
 
-Domestic is produced by hÅb, with support from Guiness Northern Counties, Z-arts, and City Response Limited.                   
+Domestic is produced by hÅb; supported by Guinness Northern Counties, Z-arts + City Response Limited.              
 ![Field Test](alex1.jpg)     
             
 ####Website        
