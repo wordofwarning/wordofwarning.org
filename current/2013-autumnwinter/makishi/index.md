@@ -31,7 +31,8 @@ Box Office Tel: 0161 232 6089
 Hawaiian performance-maker Stacy Makishi unearths another thrilling tale of filial-sleuthery; investigating midlife, mobs, meatballs and moms via Barbra Streisand, *E.T.* and *The Sopranos*.         
           
 Masterfully grafting the trappings of gangster film onto domestic drama, *The Falsettos* is a humorous solo take on the mysteries of love, loss and separation.          
-         
+![Stacy Makishi](stacy1.jpg)   
+
 A loose sequel to [*The Making of Bull: The True Story*](/archive/2012-springsummer/makishi/index.html) (presented with Contact in March 2012), *The Falsettos* looks at the very idea of the sequel, asking how artists remain faithful to their personal style, sensibility and ‘vision’ without resorting to formulas, gimmicks, and expectations created by past works. How do artists respond to the maxim, 'Make it like the last one only make it better'?       
                               
 ####Who is she?    
@@ -48,6 +49,7 @@ She is an Associate Artist with Artsadmin, Chelsea Theatre and New Unity.
            
 ####What people have said about her     
 >*Stacy Makishi has a way of transforming the mundane into the radiant, where everyday people speak their innermost thoughts and where we as an audience experience truthful human moments that at times approach the surreal.*<br>Joshua Sofaer       
+![Stacy Makishi](stacy2.jpg)    
          
 ####Credits    
 The Falsettos by Stacy Makishi, image by Will Munro.         
