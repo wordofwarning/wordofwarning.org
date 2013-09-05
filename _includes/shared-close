@@ -6,26 +6,25 @@
 					<h4 id="mailer">Weekly Update</h4>
 					<p><a href="{{ site.mailer_signup_url }}">Sign-up</a> for your no-nonsense <a href="http://wordofwarning.posthaven.com">weekly e-mail</a><br>signpost to the bizarre, the beautiful and the best contemporary performance within range of Manchester.</p>
 					<h4>Calendar</h4>
-					<p>Word of Warning also maintains a <br><a href="https://www.google.com/calendar/embed?src=wordofwarningmcr%40gmail.com&amp;ctz=Europe/London">Google calendar</a>.</p>
+					<p>Word of Warning also maintains a<br><a href="https://www.google.com/calendar/embed?src=wordofwarningmcr%40gmail.com&amp;ctz=Europe/London">Google calendar</a>.</p>
 					<h4><a href="{{ page.rootpath }}hab/donations/index.html">Support Us</a></h4>
 				</div>
 				<div class="four columns">
 					<h4>Word of Warning</h4>
 					<p>Word of Warning is a <a href="{{ page.rootpath }}hab/index.html">hÅb</a> production.<br>A greenroom legacy project.</p>
-					<p>
-					Tamsin Drury,  h&Aring;b<br>
-					c/o Z-arts, 335 Stretford Road,<br>Manchester, M15 5ZA
+					<p>Tamsin Drury, hÅb<br>
+					c/o Z-arts, 335 Stretford Road,<br>
+					Manchester, M15 5ZA
 					</p>
-					<p>
-						0161 232 6086<br><a href="">info@habarts.org</a><br>
-					<a href="http://www.twitter.com/warnmcr/">@WarnMcr</a>
-					</p>
+					<p>0161 232 6086<br><a href="">info@habarts.org</a><br>
+					<a href="http://www.twitter.com/warnmcr/">@WarnMcr</a><br>
+					<a href="http://www.facebook.com/warnmcr">facebook/WarnMcr</a></p>
 				</div>
 				<div class="four columns">
 					<h4>Credits</h4>
 					<p>With thanks to Z-arts, Manchester Digital Development Agency and Helen Palmer.</p>
-					<p>Word of Warning Spring/Summer 2013 is brought to you by hÅb
-with the Bluecoat, Contact, DiGM, Flare, Kraak, Live at LICA, The Lowry, University of Salford + Z-Arts.</p>
+					<p>Word of Warning Autumn/Winter 2013 is brought to you by hÅb<br>
+					with Blank Media Collective, Contact, Guinness Northern Counties + Z-arts.</p>
 					<p><img src="{{page.rootpath}}assets/images/logos.png" alt="Supported using public funding by Arts Council England; and funded by Manchester City Council"></p>
 				</div>
 			</div>
