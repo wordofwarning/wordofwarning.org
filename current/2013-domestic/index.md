@@ -39,7 +39,7 @@ Greg Wohead | I like the way you wear your hair
 Small Acts | Shower Scenes         
            
 *Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov (5pm-10pm)*        
-Alex Bradley + Scott Smith | Field Test         
+Alex Bradley + Scott Smith | Field Test in Garageland         
            
 *Sat 16 + Sun 17 Nov, 2pm-4pm + 5pm-7pm (every 15 minutes)*        
 Jo Bannon | Exposure          
