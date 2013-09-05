@@ -21,6 +21,8 @@ header_image: "header_shower.jpg"
 
 ####In Brief
 *Shower Scenes* invites you to take a private shower and step into the role of the solitary, wet and naked bather.        
+         
+Watch trailer [here](http://vimeo.com/45123003).        
         
 **Please note: this is a solo, private, encounter in a shower, lasting approximately 15 minutes. Suitable for ages 18+.**
          
