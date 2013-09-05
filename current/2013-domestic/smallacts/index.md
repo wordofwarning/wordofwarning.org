@@ -48,7 +48,7 @@ Julia Wilson makes performance work for theatre spaces and more recently partici
 >*I loved being trapped in my very psycho.*<br>Audience comments        
         
 ####Credits        
-A hÅb commission for Works Ahead 2012.        
+A hÅb + Contact Re:Con co-commission for Works Ahead 2012.        
 Domestic is produced by hÅb; supported by Z-arts + City Response Limited.        
          
 ####Websites        
