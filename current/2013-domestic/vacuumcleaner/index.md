@@ -43,6 +43,11 @@ After ten years of being an outlaw and inpatient, notorious artist-activist the 
             
 Held in the intimate setting of a bedroom, a limited audience are invited to join him under an oversized duvet. Accompanied by an OHP and vinyl records, James provides a welcoming environment for you to explore his pertinent experiences of the dynamics of power.            
              
+####Who is he?            
+the vacuum cleaner is an art and activism collective of one. Through site-specific performance, street-based intervention and film, the vacuum cleaner empowers his audience to address socio-political issues including consumerism and mental health discrimination. From one-man shows to large-scale participatory actions, his approach is variously subtle and extreme, but always candid, provocative and playful.                  
+                   
+He is an Artsadmin Associate Artist. His work has been commissioned and exhibited internationally, including at Tate Modern, ICA, Fierce Festival, the Centre for Contemporary Art Glasgow, the Liverpool Biennial, the Museum of Contemporary Art (Chicago), Wooster Collective (USA), Anti Festival (Finland), Centre d'Art Contemporain (Switzerland), Hebbel-Am-Ufer, Tanztendenz (Germany), Khoj Live 08 (India). His films have been commissioned by BBC4, Channel 4 and Arte.             
+             
 ####Credits        
 Directed by Perrier Award 'Best Newcomer' Kim Noble.         
 Supported by Artsadmin and In Between Time; supported using public funding by the National Lottery through Arts Council England.        
