@@ -31,6 +31,7 @@ Box Office Tel: 0161 274 0600
     
 ####Q&A          
 On Friday 11 October there will be a post-show talk.         
+![RashDash](rashdash.jpg)    
        
 ####More        
 *Once upon a time there was us. Ruby and us. Ruby was our mum. She had to work a lot. We played in the burnt out car round the back. We could do anything... except play with the needles.*        
@@ -56,6 +57,7 @@ They were Fringe First winners 2010 and 2011, and are an Associate Company of We
 >*4\* A riotous evening of performance*<br>A Younger Theatre         
 >        
 >*Sensational*<br>Total Theatre         
+![RashDash](rashdash1.jpg)    
          
 ####Credits     
 Featuring *Not Now Bernard*; Direction by Kyle Davies; Design by Alison McDowall.        
