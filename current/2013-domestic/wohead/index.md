@@ -22,7 +22,7 @@ header_image: "header_wearyourhair.jpg"
 ####In Brief
 Welcome to Greg’s bedroom in Mesquite, Texas, 1998. The Savage Garden CD is on repeat, there’s a pile of dirty laundry in the corner and he can’t stop thinking about Sara.
             
-**Please note: this is a show for maximum 15 people, lasting approximately 50-60 minutes.**        
+**Please note: this is a show for maximum 15 people, lasting approximately 50 minutes.**        
          
 ####Venue + Booking Details
 Dates: Saturday 16 + Sunday 17 November 2013, 4pm + 7pm        
@@ -35,7 +35,7 @@ In this solo performance Greg tells you (from the perspective of a geeky teenage
 
 *I like the way you wear your hair* is a conversation with a past version of yourself. It’s about stomach butterflies, private thoughts and marching band conveyed with simple storytelling and a pico projector, throwing hand-drawn memories and DIY atmosphere onto the walls, floor and ceiling.
 
-*"It's about me when I was 16 years old. I played the trumpet in marching band, wanted desperately to be 'grunge' and had a huge crush on a girl called Sara. The show is mainly about the ways in which I tried to get Sara's attention (which makes it sweet, funny and very cringey), and it's about the huge rush of emotions you get when you put yourself out there, especially as a teenager. But more generally it's about looking back at the person you used to be with older eyes and recognising how that person made you who you are today. I also use a pico projector in the show to project my own drawings all over the room. The drawings aren't technically skilled, but they go with the feel of the show. More doodles, really. The projector is the only lighting source in the show, and I like how that feeds a more intimate — almost conspiratorial — relationship with the audience."*       
+*"It's about me when I was 16 years old. I played the trumpet in a marching band, wanted desperately to be 'grunge' and had a huge crush on a girl called Sara. The show is mainly about the ways I tried to get Sara's attention and the huge rush of emotions you get when you put yourself out there. But more generally it's about looking back at the person you used to be with older eyes and recognising how that person made you who you are today."*       
             
 ####Who is he?    
 Greg Wohead is a writer and performer who makes theatre shows, 1-to-1 performances and audio pieces.          
@@ -45,11 +45,11 @@ Some of his work so far has been based around ideas of place and identity; he li
 ####What people have said about him       
 >*Wohead’s performance and projected drawings set the work apart from most in the usually unoriginal genre of teen-romance.*<br>The Latest         
 >         
->*A truly intimate coming of age journey whose gentle and richly evocative narrative brings audience and performer into genuine emotional as well as physical closeness.*<br>Total Theatre on *...and other safe places*        
+>*A truly intimate coming of age journey whose gentle and richly evocative narrative brings audience and performer into genuine emotional as well as physical closeness.*<br>Total Theatre about  *...and other safe places*        
         
 ####Credits        
 Supported by Battersea Arts Centre, The Basement and Camden People's Theatre.          
-Domestic is produced by hÅb; supported by Z-arts + City Response Limited.         
-          
+Domestic is produced by hÅb; supported by Guinness Northern Counties, Z-arts + City Response Limited.    
+               
 ####Websites        
 [gregwohead.com](http://http://gregwohead.com) | [@gregwohead](http://twitter.com/gregwohead)
