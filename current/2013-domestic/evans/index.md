@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "J. Fergus Evans"
-show: "My Heart Is Hitchhiking Down Peachtree Street"
+show: "my heart is hitchhiking down peachtree street"
 artist_size: 1
 show_size: 4
 header_image: "header_mhih.jpg"
@@ -38,9 +38,11 @@ Fergus has lived in England for almost seven years. He hasn’t been back to his
 Using animation, storytelling, and spoken word, the show is about trying to make sense of where you come from when you’re very far from home.         
           
 ####Who is he?    
-J. Fergus Evans is a yarn-spinnin', boy-kissin' spoken word & performance artist. His work focuses on restaging spoken word using video, soundscaping and sculpture. He deftly weaves poetry, theatre, and installation into tapestries saturated with lived experience and half-imagined fantastical landscapes. Previous work included (among other things) a forest created from over a thousand donated sympathy cards. He has created work with a number of leading arts organisations including Contact Theatre, The Albany, and BAC.        
+J. Fergus Evans is a yarn-spinnin', boy-kissin' spoken word & performance artist.           
         
-He is also a certified life coach and independent producer.      
+His work focuses on restaging spoken word using video, soundscaping and sculpture. He deftly weaves poetry, theatre, and installation into tapestries saturated with lived experience and half-imagined fantastical landscapes.           
+          
+Previous work included (among other things) a forest created from over a thousand donated sympathy cards. He has created work with a number of leading arts organisations including Contact Theatre, The Albany, and BAC; he is also a certified life coach and independent producer.      
               
 ####What people have said about him       
 >*a refreshing reminder of just what can be achieved in Theatre*<br>The Public Reviews       
@@ -53,8 +55,9 @@ He is also a certified life coach and independent producer.
         
 ####Credits        
 Written and performed by J. Fergus Evans.         
-Co-produced by Contact with support from The Albany; supported by the National Lottery through Arts Council England.         
-Image by 'Off the Grid' and photography by Roshana Rubin-Mayhew.
+Co-produced by Contact with support from The Albany.        
+Supported by the National Lottery through Arts Council England.             
+Image by 'Off the Grid' and photography by Roshana Rubin-Mayhew.             
 Domestic is produced by hÅb; supported by Z-arts + City Response Limited.        
          
 ####Websites        
