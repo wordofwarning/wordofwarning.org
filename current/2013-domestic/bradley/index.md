@@ -30,9 +30,9 @@ Coming to life at dusk, *Field Test in Garageland* is experienced by looking out
 ####Venue + Booking Details
 Dates: Friday 8 + Saturday 9 + Thursday 14 — Sunday 17 November 2013 (5pm-10pm)        
 Venue: Cooper House, Camelford Close, Manchester, M15 6DX   
-Appointments can be booked online via: [WeGotTickets](http://www.wegottickets.com/wordofwarning)     
-Appointments can be reserved over the phone: 07581 299 439        
-After your encounter, donations are invited.               
+Appointments can be booked online via: WeGotTickets from Friday 13 September    
+Appointments can be reserved over the phone: 07581 299 439 from Friday 13 September    
+After your encounter, donations are invited.     
 ![Field Test](alex2.jpg)      
               
 ####More      
