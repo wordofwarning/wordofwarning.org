@@ -28,7 +28,8 @@ Returning for its fourteenth year, [*Emergency*](/hab/emergency/index.html) — 
 Last year we taped performers to windows, played a uniquely guttural rendition of Nessun Dorma and unearthed a viscerally prehistoric woman. This year will be an equally eclectic performance lucky-dip... your chance to sample the different and all for free.         
 
 Drop-in for ten minutes or stay for the full eleven hours — a free day-out for the curious with over twenty-five new works; featuring artists (subject to change, still being confirmed):    
-Maiada aBOUD | Lindsay Bennett | Nathan Birkinshaw | Sarah Boulton | Rebecca Bowley | Kerry Carroll | Collective Unconscious | Will Dickie | Dirty Shade | Drunken Chorus | Frances-Kay | Sophie Frenzel | Geranium Theatre Co | Paul Hurley | Lucy Hutson | Lotta SCAF | Manoli Moriarty | Paul O'Donnell | PartSuspended | Beth J Ross | SheepKnuckle  | Small Acts | Chloë Smith | lili Spain | The Same, But Different | Voris / Buchanan | Zimmermann / Singh          
+         
+Maiada aBOUD | Lindsay Bennett | Nathan Birkinshaw | Sarah Boulton | Rebecca Bowley | Kerry Carroll | Mike Chavez-Dawson | Collective Unconscious | Will Dickie | Dirty Shade | Drunken Chorus | Frances-Kay | Sophie Frenzel | Geranium Theatre Co | Paul Hurley | Lucy Hutson | Lotta SCAF | Manoli Moriarty | Paul O'Donnell | PartSuspended | Beth J Ross | SheepKnuckle  | Small Acts | Chloë Smith | lili Spain | The Same, But Different | Voris/Buchanan | Zimmermann/Singh          
          
 ####Venues + Booking Details
 Date: Saturday 5 October 2013, 12noon-4pm    
