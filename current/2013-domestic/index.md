@@ -38,7 +38,7 @@ Greg Wohead | I like the way you wear your hair
 *Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov (various times)*        
 Small Acts | Shower Scenes         
            
-*Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov (various times)*        
+*Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov (5pm-10pm)*        
 Alex Bradley | Field Test         
            
 *Sat 16 + Sun 17 Nov, 2pm-4pm + 5pm-7pm (every 12 minutes)*        
@@ -51,4 +51,4 @@ Ticketed Shows + Appointments can be booked online via: [WeGotTickets](http://ww
 Ticketed Shows + Appointments can be reserved over the phone: 07581 299 439       
         
 ####Credits         
-Produced by hÅb; supported by Z-arts + City Response Limited.
+Produced by hÅb; supported by Guinness Northern Counties, Z-arts + City Response Limited.
