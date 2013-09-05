@@ -52,7 +52,7 @@ Julia Wilson makes performance work for theatre spaces and more recently partici
         
 ####Credits        
 A hÅb + Contact Re:Con co-commission for Works Ahead 2012.        
-Domestic is produced by hÅb; supported by Guinness Northern Counties, Z-arts + City Response Limited       
+Domestic is produced by hÅb; supported by Guinness Northern Counties, Z-arts + City Response Limited.       
          
 ####Websites        
 [juliawilson.vpweb.co.uk](http://juliawilson.vpweb.co.uk) | [@wilsonjuliam](http://twitter.com/wilsonjuliam)
