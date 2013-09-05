@@ -26,7 +26,7 @@ Watch trailer [here](http://vimeo.com/68437394).
 **Please note: this is a one-to-one encounter lasting approximately 9 minutes**
          
 ####Venue + Booking Details
-Dates: Saturday 16 + Sunday 17 November 2013, 2pm-4pm + 5pm-7pm (begins every 12 minutes)        
+Dates: Saturday 16 + Sunday 17 November 2013, 2pm-4pm + 5pm-7pm (begins every 15 minutes)        
 Venue: Cooper House, Camelford Close, Manchester, M15 6DX   
 Appointments can be booked online via: [WeGotTickets](http://www.wegottickets.com/wordofwarning)     
 Appointments can be reserved over the phone: 07581 299 439        
@@ -50,10 +50,10 @@ At the core of her work is a fascination with human exchange and the hope and fu
 >*This step into the dark may cause trepidation but it’s a ten minute encounter well worth taking.*<br>The Public Reviews        
         
 ####Credits        
-Created by Jo Bannon. Images: Manual Vason.         
+Created by Jo Bannon. Image: Manual Vason.         
 Developed with the support of Rules and Regs and South Hill Park. Further development supported by Bristol Ferment, Dartington Space with the support of the Dartington Hall Trust, In Between Time, The Basement, Residence, RWA, Arnolfini & BAC.           
 Supported using public funding by the National Lottery through Arts Council England.        
-Domestic is produced by hÅb; supported by Z-arts + City Response Limited.               
+Domestic is produced by hÅb; supported by Guinness Northern Counties, Z-arts + City Response Limited.              
          
 ####Websites        
 [www.jobannon.co.uk](http://www.jobannon.co.uk) | [@missjobannon](http://twitter.com/missjobannon)
