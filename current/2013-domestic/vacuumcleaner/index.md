@@ -48,6 +48,11 @@ the vacuum cleaner is an art and activism collective of one. Through site-specif
                    
 He is an Artsadmin Associate Artist. His work has been commissioned and exhibited internationally, including at Tate Modern, ICA, Fierce Festival, the Centre for Contemporary Art Glasgow, the Liverpool Biennial, the Museum of Contemporary Art (Chicago), Wooster Collective (USA), Anti Festival (Finland), Centre d'Art Contemporain (Switzerland), Hebbel-Am-Ufer, Tanztendenz (Germany), Khoj Live 08 (India). His films have been commissioned by BBC4, Channel 4 and Arte.             
              
+####What people have said about him        
+>        
+>            
+>          
+           
 ####Credits        
 Directed by Perrier Award 'Best Newcomer' Kim Noble.         
 Supported by Artsadmin and In Between Time; supported using public funding by the National Lottery through Arts Council England.        
