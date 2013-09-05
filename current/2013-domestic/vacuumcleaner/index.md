@@ -48,16 +48,6 @@ the vacuum cleaner is an art and activism collective of one. Through site-specif
                    
 He is an Artsadmin Associate Artist. His work has been commissioned and exhibited internationally, including at Tate Modern, ICA, Fierce Festival, the Centre for Contemporary Art Glasgow, the Liverpool Biennial, the Museum of Contemporary Art (Chicago), Wooster Collective (USA), Anti Festival (Finland), Centre d'Art Contemporain (Switzerland), Hebbel-Am-Ufer, Tanztendenz (Germany), Khoj Live 08 (India). His films have been commissioned by BBC4, Channel 4 and Arte.             
              
-####What people have said about him           
->*Mental is something different within the genre of confessional art. In a way that is provoking and unique... at
-once playfully comic and tremendously sad*<br>Dr Ian Patel, Academic in Law at Kings College            
->        
->*One of the most powerful portraits of creativity and depression I’ve ever seen*<br>Realtime Arts               
->               
->*Have been completely blasted apart. Am shaking. Am full of hope. Overwhelmed.*<br>Tanuja Amarasuriya, Theatre Bristol                
->                 
->*A kind of Scarlet Pimpernel of the Occupy Generation*<br>John O'Donoghue, Disability Arts Online              
-            
 ####Credits        
 Directed by Perrier Award 'Best Newcomer' Kim Noble.         
 Supported by Artsadmin and In Between Time; supported using public funding by the National Lottery through Arts Council England.        
