@@ -6,7 +6,7 @@ rootpath: "../../"
 is_index: true
 
 ---
-A season of contrasts, from the eclectic explosion of our fourteenth [**Emergency**](/current/2013-emergency/index.html) to the intimate intensity of [**Domestic**](/current/2013-domestic/index.html), by way of [**Cinderella**](/current/2013-autumnwinter/rashdash/index.html) and [**The Sopranos**](/current/2013-autumnwinter/makishi/index.html)...
+A season of contrasts, from the eclectic explosion of our fourteenth [**Emergency**](/current/2013-emergency/index.html) to the intimate intensity of [**Domestic**](/current/2013-domestic/index.html), by way of reimaginings of [*Cinderella*](/current/2013-autumnwinter/rashdash/index.html) and [*The Sopranos*](/current/2013-autumnwinter/makishi/index.html)...
 
 This season, alongside our regular outings to Z-arts and Contact, we will make our final visit to the lovely BLANKSPACE and will be venturing into new territory with a sited mini-festival in a Hulme block of flats.  
 
