@@ -27,8 +27,8 @@ Stories of Southern Comfort, dancing drag queens and singing cicadas from the st
 ####Venue + Booking Details
 Dates: Saturday 16 + Sunday 17 November 2013, 2pm + 5pm + 8pm        
 Venue: Cooper House, Camelford Close, Manchester, M15 6DX   
-Tickets: £6/4, can be booked online via: [WeGotTickets](http://www.wegottickets.com/wordofwarning)     
-Tickets: £6/4, can be reserved over the phone: 07581 299 439       
+Tickets: £6/4, can be booked online via: WeGotTickets from Friday 13 September    
+Tickets: £6/4, can be reserved over the phone: 07581 299 439 from Friday 13 September           
 
 ####More      
 Fergus has lived in England for almost seven years. He hasn’t been back to his hometown in five.        
