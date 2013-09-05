@@ -36,13 +36,14 @@ Fergus has lived in England for almost seven years. He hasn’t been back to his
 *my heart is hitchhiking down peachtree street* is a one-man show about living far away from home. It’s about the stories you tell people when they ask you when you’re from. It’s about learning that once you leave, you can’t go back.        
           
 Using animation, storytelling, and spoken word, the show is about trying to make sense of where you come from when you’re very far from home.         
-          
+![J.Fergus Evans](mhih3..jpg)    
+
 ####Who is he?    
 J. Fergus Evans is a yarn-spinnin', boy-kissin' spoken word & performance artist.           
         
 His work focuses on restaging spoken word using video, soundscaping and sculpture. He deftly weaves poetry, theatre, and installation into tapestries saturated with lived experience and half-imagined fantastical landscapes.           
           
-Previous work included (among other things) a forest created from over a thousand donated sympathy cards. He has created work with a number of leading arts organisations including Contact Theatre, The Albany, and BAC; he is also a certified life coach and independent producer.      
+Previous work included (among other things) a forest created from over a thousand donated sympathy cards. He has created work with a number of leading arts organisations including Contact, The Albany, and BAC; he is also a certified life coach and independent producer.      
               
 ####What people have said about him       
 >*a refreshing reminder of just what can be achieved in Theatre*<br>The Public Reviews       
@@ -52,13 +53,14 @@ Previous work included (among other things) a forest created from over a thousan
 >*Gently perceptive... rich and unhurried...*<br>Total Theatre       
 >       
 >*Heartwarming and intimate*<br> A Younger Theatre       
-        
+![J.Fergus Evans](mhih.jpg)    
+       
 ####Credits        
 Written and performed by J. Fergus Evans.         
 Co-produced by Contact with support from The Albany.        
-Supported by the National Lottery through Arts Council England.             
+Supported using public funding by the National Lottery through Arts Council England.             
 Image by 'Off the Grid' and photography by Roshana Rubin-Mayhew.             
-Domestic is produced by hÅb; supported by Z-arts + City Response Limited.        
+Domestic is produced by hÅb; supported by Guinness Northern Counties, Z-arts + City Response Limited.        
          
 ####Websites        
 [jfergusevans.com](http://jfergusevans.com) | [@Fergus_Evans](http://twitter.com/Fergus_Evans)
