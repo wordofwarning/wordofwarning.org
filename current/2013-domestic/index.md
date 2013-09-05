@@ -47,8 +47,8 @@ Jo Bannon | Exposure
 ####Venue + Booking Details
 Dates: Friday 8 — Sunday 17 November 2013    
 Venue: Cooper House, Camelford Close, Manchester, M15 6DX    
-Ticketed Shows + Appointments can be booked online via: [WeGotTickets](http://www.wegottickets.com/wordofwarning)     
-Ticketed Shows + Appointments can be reserved over the phone: 07581 299 439       
+Ticketed Shows + Appointments can be booked online via: WeGotTickets from Friday 13 September    
+Ticketed Shows + Appointments can be reserved over the phone: 07581 299 439  from Friday 13 September.    
         
 ####Credits         
 Produced by hÅb; supported by Guinness Northern Counties, Z-arts + City Response Limited.
