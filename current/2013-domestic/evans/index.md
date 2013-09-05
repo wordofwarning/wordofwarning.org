@@ -22,7 +22,7 @@ header_image: "header_mhih.jpg"
 ####In Brief
 Stories of Southern Comfort, dancing drag queens and singing cicadas from the sticky heat of Atlanta, Georgia.        
                      
-**Please note: this is a show for maximum 9 people, lasting approximately 50-60 minutes.**        
+**Please note: this is a show for maximum 9 people, lasting approximately 60 minutes.**        
          
 ####Venue + Booking Details
 Dates: Saturday 16 + Sunday 17 November 2013, 2pm + 5pm + 8pm        
