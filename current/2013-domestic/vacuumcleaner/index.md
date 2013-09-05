@@ -26,7 +26,7 @@ He prefers the term *"Mental"*.
          
 An autobiographical performance by artist-activist, the vacuum cleaner.           
                 
-**Please note: this is a show for maximum 20 people, lasting approximately 50-60 minutes.**
+**Please note: this is a show for maximum 20 people, lasting approximately 50 minutes.**
          
 ####Venue + Booking Details
 Dates: Friday 8 November 2013, 8pm + Saturday 9 November 2013, 4pm + 8pm        
@@ -54,7 +54,7 @@ He is an Artsadmin Associate Artist. His work has been commissioned and exhibite
 ####Credits        
 Directed by Perrier Award 'Best Newcomer' Kim Noble.         
 Supported by Artsadmin and In Between Time; supported using public funding by the National Lottery through Arts Council England.        
-Domestic is produced by hÅb; supported by Z-arts + City Response Limited.        
+Domestic is produced by hÅb; supported by Guinness Northern Counties, Z-arts + City Response Limited.      
         
 ####Websites        
 [www.thevacuumcleaner.co.uk](http://www.thevacuumcleaner.co.uk) | [@vacuumcleaner](http://twitter.com/vacuumcleaner)
