@@ -27,8 +27,9 @@ Welcome to Greg’s bedroom in Mesquite, Texas, 1998. The Savage Garden CD is on
 ####Venue + Booking Details
 Dates: Saturday 16 + Sunday 17 November 2013, 4pm + 7pm        
 Venue: Cooper House, Camelford Close, Manchester, M15 6DX   
-Tickets: £6/4, can be booked online via: [WeGotTickets](http://www.wegottickets.com/wordofwarning)     
-Tickets: £6/4, can be reserved over the phone: 07581 299 439       
+Tickets: £6/4, can be booked online via: WeGotTickets from Friday 13 September    
+Tickets: £6/4, can be reserved over the phone: 07581 299 439 from Friday 13 September    
+      
 
 ####More      
 In this solo performance Greg tells you (from the perspective of a geeky teenager) the true story of the night he took a chance.
