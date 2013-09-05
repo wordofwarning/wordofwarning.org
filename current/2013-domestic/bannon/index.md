@@ -28,9 +28,9 @@ Watch trailer [here](http://vimeo.com/68437394).
 ####Venue + Booking Details
 Dates: Saturday 16 + Sunday 17 November 2013, 2pm-4pm + 5pm-7pm (begins every 15 minutes)        
 Venue: Cooper House, Camelford Close, Manchester, M15 6DX   
-Appointments can be booked online via: [WeGotTickets](http://www.wegottickets.com/wordofwarning)     
-Appointments can be reserved over the phone: 07581 299 439        
-After your encounter, donations are invited.           
+Appointments can be booked online via: WeGotTickets from Friday 13 September    
+Appointments can be reserved over the phone: 07581 299 439 from Friday 13 September    
+After your encounter, donations are invited.   
               
 ####More      
 *Exposure* is the beginning of an investigation into how we look, how we are looked at and if we can ever really be seen. This intimate one-to-one performance is a tender and tentative look into autobiography, asking how fully we can reveal ourselves — to ourselves, to another, with another.        
