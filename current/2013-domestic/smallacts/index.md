@@ -34,9 +34,9 @@ Appointments can be reserved over the phone: 07581 299 439 from Friday 13 Septem
 After your encounter, donations are invited.               
                 
 ####More      
-You are invited to take off your clothes, and step into a working shower; where you can experience the very real physical sensation of warm water running over your body. Where you can wash yourself and watch video imagery projected onto the shower curtain. As you clean yourself, feel the steam rise and wonder who is the viewer, who is the victim, who is innocent?        
+You are invited to take off your clothes, and step into a working shower — where you can experience the very real physical sensation of warm water running over your body; where you can wash yourself and watch video imagery projected onto the shower curtain. As you clean yourself, feel the steam rise and wonder who is the viewer, who is the victim, who is innocent?        
          
-*"For a long time the piece just didn’t work. I thought I was making a piece about voyeurism; but I think that at its heart, the piece is about vulnerability and trust. I didn’t realize this until the very end of the making process.  It still amazes me how sometimes a piece seems to know what it is and you, the maker, can be the last one to find out!"*        
+*"For a long time the piece just didn’t work. I thought I was making a piece about voyeurism; but I think that at its heart, the piece is about vulnerability and trust. I didn’t realize this until the very end of the making process. It still amazes me how sometimes a piece seems to know what it is and you, the maker, can be the last one to find out!"*        
 ![Shower Scenes](water.jpeg)    
         
 ####Who is she?         
@@ -46,7 +46,7 @@ Julia Wilson makes performance work for theatre spaces and more recently partici
 >*Plays off convention and assumption really well. Fantastic.*        
 >*How vulnerable we are without our cloths on – very clever!*        
 >*Beautiful experience in a mundane space. Transforms everything into something both beautiful and occasionally challenging.*        
->*I loved being trapped in my very psycho.*<br>Audience comments        
+>*I loved being trapped in my very own Psycho.*<br>Audience comments        
 
 ![Shower Scenes](robes.jpeg)
         
