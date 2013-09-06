@@ -21,7 +21,7 @@ header_image: "header_alex.jpg"
 
 ####In Brief
 A field test to pull your eyes to the periphery and the wilderness beyond.   
-Durational, from sunset every night, this ‘depth of field’ illusion nestles amidst trees, forming a hidden landscape made immersive by sound and a moment of rural tranquility amidst urban chaos.    
+Durational, from sunset every night, this 'depth of field' illusion nestles amidst trees, forming a hidden landscape made immersive by sound — a moment of rural tranquility amidst urban chaos.    
 
 Coming to life at dusk, *Field Test in Garageland* is experienced by looking out from within an empty garage, immersing its audience in a world far from its building-site surroundings.    
             
@@ -40,15 +40,15 @@ Originally a work for a rural glade, here *Field Test* has been reimagined to of
 
 *"My family suffer from cataracts, a blurring of the vision. I haven’t personally suffered from this condition as yet, but I have taken the Humphries Field Test 6 times. This simple test examines your peripheral vision.”*    
 
-*Field Test* is an explosion of this test; an artistic extension of the bio-medical examination, a way of recalibrating our viewpoint to the outskirts, or the edgelands, into the darkness and wilderness where glow worms insist we move on. *Field Test* uses remote speakers, LEDs, and night fall to entice an audience into a collective ‘test’ of their senses, to take their senses literally to the edge and then beyond.    
+*Field Test* is an explosion of this test; an artistic extension of the bio-medical examination, a way of recalibrating our viewpoint to the outskirts, or the edgelands, into the darkness and wilderness where glow worms insist we move on. *Field Test* uses remote speakers, LEDs, and nightfall to entice an audience into a collective 'test' of their senses, to take their senses literally to the edge and then beyond.    
                   
 ####Who is he?    
-Alex Bradley (UK) is a Bristol based sound and performance artist creating large-scale immersive sound works including Whiteplane_2, described as ‘beautiful and disorientating’ (The Observer).  A former Cooper House resident and greenroom regular, last seen in Manchester as one half of the [GO Project](archive/2012-autumnwinter/goproject/index.html). *Field Test in Garageland* marks his return to his home of more than a decade ago.   
+Alex Bradley (UK) is a Bristol-based sound and performance artist creating large-scale immersive sound works including *Whiteplane_2*, described as 'beautiful and disorientating' (The Observer). A former Cooper House resident and greenroom regular, last seen in Manchester as one half of the [GO Project](/archive/2012-autumnwinter/goproject/index.html). *Field Test in Garageland* marks his return to his home of more than a decade ago.   
 
 Scott Smith (US) is a Kansas-born musician, a player of the steel guitar resonant with the feeling of belonging to absolute wilderness, of single railway tracks cast into the desert.   
                   
 ####What people have said about him       
->*Whiteplane 2 with Charles Poulet: 'Achingly beautiful and fascinatingly different.'*<br> Glasgow Herald         
+>*Whiteplane_2 with Charles Poulet: 'Achingly beautiful and fascinatingly different.'*<br> Glasgow Herald         
                      
 ####Credits        
 Alex Bradley is an Associate Artist with In Between Time, by whom *Field Test* was originally commissioned.         
