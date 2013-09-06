@@ -27,9 +27,7 @@ Date: Friday 29 November 2013, 7.30pm
 [Tickets: £8/5](http://www.z-arts.org/events/wow-stacy-makishi/)    
 Box Office Tel: 0161 232 6089     
         
-####More       
-Hawaiian performance-maker Stacy Makishi unearths another thrilling tale of filial-sleuthery; investigating midlife, mobs, meatballs and moms via Barbra Streisand, *E.T.* and *The Sopranos*.         
-          
+####More            
 Masterfully grafting the trappings of gangster film onto domestic drama, *The Falsettos* is a humorous solo take on the mysteries of love, loss and separation.          
 ![Stacy Makishi](stacy1.jpg)   
 
