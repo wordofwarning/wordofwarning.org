@@ -43,7 +43,7 @@ J. Fergus Evans is a yarn-spinnin', boy-kissin' spoken word + performance artist
         
 His work focuses on restaging spoken word using video, soundscaping and sculpture. He deftly weaves poetry, theatre, and installation into tapestries saturated with lived experience and half-imagined fantastical landscapes.           
           
-Previous work includes (among other things) a forest created from over a thousand donated sympathy cards, he has created work with a number of leading arts organisations including Contact, The Albany, and BAC; he is also a certified life coach and independent producer.      
+Previous work includes (among other things) a forest created from over a thousand donated sympathy cards; he has created work with a number of leading arts organisations including Contact, The Albany, and BAC; he is also a certified life coach and independent producer.      
               
 ####What people have said about him       
 >*a refreshing reminder of just what can be achieved in Theatre*<br>The Public Reviews       
