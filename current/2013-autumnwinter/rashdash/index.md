@@ -19,7 +19,7 @@ header_image: "header_rashdash.jpg"
 *Presented by* Contact + Word of Warning 
    
 ####In Brief
-Thumping drums, clanging keys and violent voices; the real story of Cinderella — a sinister and sensuous cabaret.    
+Thumping drums, clanging keys and violent voices; the real story of *Cinderella* — a sinister and sensuous cabaret.    
         
 Watch trailer [here](http://youtu.be/i0rUjOh4yu8).    
      
@@ -60,7 +60,7 @@ They were Fringe First winners 2010 and 2011, and are an Associate Company of We
 ![RashDash](rashdash1.jpg)    
          
 ####Credits     
-Featuring *Not Now Bernard*; Direction by Kyle Davies; Design by Alison McDowall.        
+Featuring *Not Now Bernard*; direction by Kyle Davies; design by Alison McDowall.        
 Supported using public funding by the National Lottery through Arts Council England.        
         
 ####Websites    
