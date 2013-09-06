@@ -19,7 +19,9 @@ header_image:
 ---
 *Presented by* Word of Warning, Guiness Northern Counties + Z-arts       
  
-**Performance stripped bare — a series of intimate interactions, homely conversations and domestic dramas played out in a block of flats.**    
+##Friday 8 — Sunday 17 November 2013             
+         
+**A series of intimate interactions, homely conversations and domestic dramas played out in a block of flats.**    
         
 ###Ticketed Shows          
 *Fri 8 Nov, 8pm + Sat 9 Nov, 4pm + 8pm | £6/4*        
