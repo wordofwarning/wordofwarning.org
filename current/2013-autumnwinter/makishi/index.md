@@ -19,8 +19,10 @@ header_image: "header_stacy.jpg"
 *Presented by* Word of Warning + Z-arts      
 
 ####In Brief
-The killer show everyone's dying to see.       
-        
+The killer show everyone's dying to see.             
+               
+Hawaiian performance-maker Stacy Makishi unearths a thrilling tale of filial-sleuthery — investigating midlife, mobs, meatballs and moms via Barbra Streisand, *E.T.*, and *The Sopranos*.            
+              
 ####Venue + Booking Details
 Date: Friday 29 November 2013, 7.30pm   
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
