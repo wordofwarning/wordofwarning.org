@@ -48,12 +48,12 @@ Alex Bradley (UK) is a Bristol based sound and performance artist creating large
 Scott Smith (US) is a Kansas-born musician, a player of the steel guitar resonant with the feeling of belonging to absolute wilderness, of single railway tracks cast into the desert.   
                   
 ####What people have said about him       
->*Whiteplane 2 with Charles Poulet : ‘Achingly beautiful and fascinatingly different.’*<br> Glasgow Herald         
+>*Whiteplane 2 with Charles Poulet: 'Achingly beautiful and fascinatingly different.'*<br> Glasgow Herald         
                      
 ####Credits        
-Alex Bradley is an Associate Artist with In Between Time, by whom *Field Test* was originally commissioned.    
-
-Domestic is produced by hÅb; supported by Guinness Northern Counties, Z-arts + City Response Limited.              
+Alex Bradley is an Associate Artist with In Between Time, by whom *Field Test* was originally commissioned.         
+Supported using public funding by the National Lottery through Arts Council England.         
+Domestic is produced by hÅb; supported by Guinness Northern Counties, Z-arts + City Response Limited.           
 ![Field Test](alex1.jpg)     
             
 ####Website        
