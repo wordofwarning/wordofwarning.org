@@ -26,7 +26,7 @@ He prefers the term *"Mental"*.
          
 An autobiographical performance by artist-activist, the vacuum cleaner.           
                 
-**Please note: this is a show for maximum 15 people, lasting approximately 50 minutes.**
+**Please note: this show contains material that some people may find upsetting and is not suitable for those under the age of 16; this is a show for maximum 15 people, lasting approximately 50 minutes.**            
          
 ####Venue + Booking Details
 Dates: Friday 8 November 2013, 8pm + Saturday 9 November 2013, 4pm + 8pm        
