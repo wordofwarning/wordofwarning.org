@@ -12,7 +12,7 @@ This season, alongside our regular outings to Z-arts and Contact, we will make o
 
 Talk about taking your work home with you, Cooper House just happens to be the abode of one of our number and we will be doing shows in the flat that was actually the birthplace of Word of Warning's parent company [**hÅb**](/hab/index.html). Currently in the middle of a major refurbishment, Cooper House will play host to [**Domestic**](/current/2013-domestic/index.html), a series of stories and experiences for small audiences from: the vacuum cleaner, Leentje Van de Cruys, J. Fergus Evans, Greg Wohead, Small Acts, Jo Bannon and (former Cooper House resident) Alex Bradley with Scott Smith. All shows are VERY limited capacity so book early.    
 
-Really hoping to see you at some of the forthcoming programme. If you want to check out what you missed last season, have a look at the [Spring/Summer 2013 archive](/archive/2013-springsummer/index.html).    
+Really hoping to see you at some of the forthcoming programme. If you want to check out what you missed last season, have a look at the Spring/Summer 2013 archive (soon!).    
  
 ####What is Word of Warning and where did it come from?
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of live performance: an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work in Manchester.
