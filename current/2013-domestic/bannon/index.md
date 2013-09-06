@@ -50,8 +50,8 @@ At the core of her work is a fascination with human exchange and the hope and fu
 >*This step into the dark may cause trepidation but it’s a ten minute encounter well worth taking.*<br>The Public Reviews        
         
 ####Credits        
-Created by Jo Bannon. Image: Manual Vason.         
-Developed with the support of Rules and Regs and South Hill Park. Further development supported by Bristol Ferment, Dartington Space with the support of the Dartington Hall Trust, In Between Time, The Basement, Residence, RWA, Arnolfini & BAC.           
+Created by Jo Bannon. Image by Manual Vason.         
+Developed with the support of Rules and Regs and South Hill Park. Further development supported by Bristol Ferment, Dartington Space with the support of the Dartington Hall Trust, In Between Time, The Basement, Residence, RWA, Arnolfini + BAC.           
 Supported using public funding by the National Lottery through Arts Council England.        
 Domestic is produced by hÅb; supported by Guinness Northern Counties, Z-arts + City Response Limited.              
          
