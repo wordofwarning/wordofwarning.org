@@ -20,8 +20,10 @@ header_image: "header_wearyourhair.jpg"
 *during* [Domestic](/current/2013-domestic/index.html)        
 
 ####In Brief
-Welcome to Greg’s bedroom in Mesquite, Texas, 1998. The Savage Garden CD is on repeat, there’s a pile of dirty laundry in the corner and he can’t stop thinking about Sara.
-            
+Welcome to Greg’s bedroom in Mesquite, Texas, 1998. The Savage Garden CD is on repeat, there’s a pile of dirty laundry in the corner and he can’t stop thinking about Sara.            
+          
+In this solo performance Greg tells you (from the perspective of a geeky teenager) the true story of the night he took a chance.            
+               
 **Please note: this is a show for maximum 15 people, lasting approximately 50 minutes.**        
          
 ####Venue + Booking Details
@@ -32,9 +34,7 @@ Tickets: £6/4, can be reserved over the phone: 07581 299 439 from Friday 13 Sep
       
 
 ####More      
-In this solo performance Greg tells you (from the perspective of a geeky teenager) the true story of the night he took a chance.
-
-*I like the way you wear your hair* is a conversation with a past version of yourself. It’s about stomach butterflies, private thoughts and marching band conveyed with simple storytelling and a pico projector, throwing hand-drawn memories and DIY atmosphere onto the walls, floor and ceiling.
+*I like the way you wear your hair* is a conversation with a past version of yourself. It’s about stomach butterflies, private thoughts and marching bands conveyed with simple storytelling and a pico projector, throwing hand-drawn memories and DIY atmosphere onto the walls, floor and ceiling.
 
 *"It's about me when I was 16 years old. I played the trumpet in a marching band, wanted desperately to be 'grunge' and had a huge crush on a girl called Sara. The show is mainly about the ways I tried to get Sara's attention and the huge rush of emotions you get when you put yourself out there. But more generally it's about looking back at the person you used to be with older eyes and recognising how that person made you who you are today."*       
             
