@@ -18,7 +18,7 @@ header_image: "header_turn_photo.jpg"
 
 **Turn** is an annual platform for north west dancers and dancemakers which took place in 2013 on **19+20 April at Contact**.  
 
-The programme can be seen at [turnmcr.org](/current/2013-turn/index.html).
+The programme can be seen at [turnmcr.org](/archive/2013-turn/index.html).
 
 Take a look at the [2013 gallery](/galleries/2013-turn/index.html) and [2012 gallery](/galleries/2012-turn/index.html).    
 
