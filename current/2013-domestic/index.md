@@ -51,6 +51,8 @@ Dates: Friday 8 — Sunday 17 November 2013
 Venue: Cooper House, Camelford Close, Manchester, M15 6DX    
 Ticketed Shows + Appointments can be booked online via: WeGotTickets from Friday 13 September    
 Ticketed Shows + Appointments can be reserved over the phone: 07581 299 439  from Friday 13 September.    
+Cooper House is 5 minutes walk from Oxford Road (Aquatic Centre/RNCM).  There is a bus stop right outside for buses 53,85,86,99,101,104,105,108,109,112,250,253,263,291.    
+
 
 ####Access Information    
 As a sited event, *Domestic* presents a number of access challenges, and not all spaces are wheelchair accessible.    
