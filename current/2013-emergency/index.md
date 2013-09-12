@@ -42,7 +42,12 @@ Venue Tel: 0161 222 6164
 Date: Saturday 5 October 2013, 3pm-11pm    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: FREE no booking required        
-Venue Tel: 0161 232 6089       
-            
+Venue Tel: 0161 232 6089    
+      
+####Access Information    
+Emergency takes place in a number of different spaces and formats - some seated, some standing, some spoken word, some visual.    
+BLANKSPACE Upstairs is unfortunately not wheelchair accessible.    
+For specific access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
+          
 ####Credits         
 Co-produced by [hÅb](/hab/index.html), [Blank Media Collective](http://www.blankmediacollective.org) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.
