@@ -45,9 +45,10 @@ Tickets: FREE no booking required
 Venue Tel: 0161 232 6089    
       
 ####Access Information    
-Emergency takes place in a number of different spaces and formats - some seated, some standing, some spoken word, some visual.    
+Emergency takes place in a number of different spaces and formats - some seated, some standing, some spoken word, some visual.   
+Some of the work is suitable for the under 16's, the majority may not be.   
 BLANKSPACE Upstairs is unfortunately not wheelchair accessible.    
-For specific access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
+For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
           
 ####Credits         
 Co-produced by [hÅb](/hab/index.html), [Blank Media Collective](http://www.blankmediacollective.org) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.
