@@ -30,6 +30,12 @@ Venue: Cooper House, Camelford Close, Manchester, M15 6DX
 Tickets: £5/3, can be booked online via: WeGotTickets from Friday 13 September    
 Tickets: £5/3, can be reserved over the phone: 07581 299 439 from Friday 13 September         
 
+####Access Information    
+As a sited event, *Domestic* presents a number of access challenges.
+The flat *Kitsch'n Sync* takes place in is up one flight of stairs and is therefore not wheelchair accessible.  Spoken word based.  
+Age advisory: tbc    
+For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.      
+
 ####Who is she?
 Belgian actress and theatre-maker Leentje Van de Cruys has been making quirky solo performances about domesticity and women’s identity for the last 7 years. Recent shows include; *Feedback*, *HORSE*, *The Best Party Ever* and *Knitting to Worry About*. She regularly performs and tours with contemporary theatre companies including Reckless Sleepers, Plane Performance and Proto-type Theater, and supervises theatre students at Manchester Metropolitan University and Lancaster University.        
 
