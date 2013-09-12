@@ -32,7 +32,13 @@ Venue: Cooper House, Camelford Close, Manchester, M15 6DX
 Appointments can be booked online via: WeGotTickets from Friday 13 September    
 Appointments can be reserved over the phone: 07581 299 439 from Friday 13 September    
 After your encounter, donations are invited.               
-                
+
+####Access Information    
+As a sited event, *Domestic* presents a number of access challenges.
+The flat *Shower Scenes* takes place in is up one flight of stairs and involves taking a shower, standing in a bath tub, in an unadapted bathroom.  Participants are given spoken word instructions.     
+Age advisory: 18+    
+For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.  
+              
 ####More      
 You are invited to take off your clothes, and step into a working shower — where you can experience the very real physical sensation of warm water running over your body; where you can wash yourself and watch video imagery projected onto the shower curtain. As you clean yourself, feel the steam rise and wonder who is the viewer, who is the victim, who is innocent?        
          

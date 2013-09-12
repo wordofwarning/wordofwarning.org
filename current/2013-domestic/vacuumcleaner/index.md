@@ -33,7 +33,13 @@ Dates: Friday 8 November 2013, 8pm + Saturday 9 November 2013, 4pm + 8pm
 Venue: Cooper House, Camelford Close, Manchester, M15 6DX   
 Tickets: £6/4, can be booked online via: WeGotTickets from Friday 13 September       
 Tickets: £6/4, can be reserved over the phone: 07581 299 439 from Friday 13 September
-      
+
+####Access Information    
+As a sited event, *Domestic* presents a number of access challenges.
+The flat *Mental* takes place in is level access, but the room is small so we would appreciate it if you could let us know about any wheelchairs so we can adjust capacity.   Seating is on floor cushions, though a chair will be provided on request.   
+Spoken word based, it contains material some people may find upsetting. 
+Age advisory: 16+    
+For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
         
 ####More       
 After ten years of being an outlaw and inpatient, notorious artist-activist the vacuum cleaner (famed for hijacking the Starbucks logo, parodying the Olympic twitter account and causing a minor riot by giving away 100,000 one cent Euros of free money) presents an autobiographical performance told through his psychiatric records, police intelligence files and corporate injunctions — all collected through the Data Protection Act.            
