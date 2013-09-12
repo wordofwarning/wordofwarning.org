@@ -33,7 +33,7 @@ Tickets: £6/4, can be reserved over the phone: 07581 299 439 from Friday 13 Sep
 ####Access Information    
 As a sited event, *Domestic* presents a number of access challenges.
 The flat *My Heart Is...* takes place in is level access, but the room is small so we would appreciate it if you could let us know about any wheelchairs so we can adjust capacity.   Spoken word based.  
-Age advisory: tbc    
+Age advisory: 12+   
 For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
 
 ####More      
