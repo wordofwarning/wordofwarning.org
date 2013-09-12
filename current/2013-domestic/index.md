@@ -51,6 +51,11 @@ Dates: Friday 8 — Sunday 17 November 2013
 Venue: Cooper House, Camelford Close, Manchester, M15 6DX    
 Ticketed Shows + Appointments can be booked online via: WeGotTickets from Friday 13 September    
 Ticketed Shows + Appointments can be reserved over the phone: 07581 299 439  from Friday 13 September.    
-        
+
+####Access Information    
+As a sited event, *Domestic* presents a number of access challenges, and not all spaces are wheelchair accessible.    
+Please see individual show listings for details of specific age and access information or, to discuss, email <mailto:info@habarts.org> or call 0161 232 6086.    
+There is no general audience parking in Cooper House; Blue Badge holders please contact us and we will make arrangements.    
+
 ####Credits         
 Produced by hÅb; supported by Guinness Northern Counties, Z-arts + City Response Limited.
