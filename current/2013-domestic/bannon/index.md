@@ -31,6 +31,12 @@ Venue: Cooper House, Camelford Close, Manchester, M15 6DX
 Appointments can be booked online via: WeGotTickets from Friday 13 September    
 Appointments can be reserved over the phone: 07581 299 439 from Friday 13 September    
 After your encounter, donations are invited.   
+
+####Access Information    
+As a sited event, *Domestic* presents a number of access challenges.
+The flat *Exposure* takes place in is up one flight of stairs and is therefore not wheelchair accessible.  Spoken word based, it takes place in a confined dark space.  
+Age advisory: 18+   
+For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
               
 ####More      
 *Exposure* is the beginning of an investigation into how we look, how we are looked at and if we can ever really be seen. This intimate one-to-one performance is a tender and tentative look into autobiography, asking how fully we can reveal ourselves — to ourselves, to another, with another.        
@@ -48,7 +54,7 @@ At the core of her work is a fascination with human exchange and the hope and fu
 >*...an extraordinary 10 minutes which considers not just how we look but what we choose to look at too.*<br>Lyn Gardner , The Guardian
 >         
 >*This step into the dark may cause trepidation but it’s a ten minute encounter well worth taking.*<br>The Public Reviews        
-        
+    
 ####Credits        
 Created by Jo Bannon. Image by Manual Vason.         
 Developed with the support of Rules and Regs and South Hill Park; further development supported by Bristol Ferment, Dartington Space with the support of the Dartington Hall Trust, The Basement, Residence, RWA, Arnolfini + BAC.              

@@ -33,6 +33,11 @@ Venue: Cooper House, Camelford Close, Manchester, M15 6DX
 Appointments can be booked online via: WeGotTickets from Friday 13 September    
 Appointments can be reserved over the phone: 07581 299 439 from Friday 13 September    
 After your encounter, donations are invited.     
+
+####Access Information    
+As a sited event, *Domestic* presents a number of access challenges.
+*Field Test in Garageland* takes place in a basement level garage and wheelchair users should be advised there is a fairly steep slope to negotiate.    Audio-visual installation, no spoken word.    
+For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
 ![Field Test](alex2.jpg)      
               
 ####More      
