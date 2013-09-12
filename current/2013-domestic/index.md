@@ -48,8 +48,8 @@ Jo Bannon | Exposure
           
 ####Venue + Booking Details
 Dates: Friday 8 — Sunday 17 November 2013    
-[Venue: Cooper House, off Boundary Lane, Manchester, M15 6DX](http://bit.ly/1anL5UN); a 5 minute walk from Oxford Road (Aquatic Centre/RNCM), there is a bus stop outside for buses 53, 85, 86, 99, 101, 104, 105, 108, 109, 112, 250, 253, 263 & 291.      
-Ticketed Shows + Appointments can be [booked online (a fee applies to Shows)](http://www.wegottickets.com/wordofwarning).
+[Venue: Cooper House, off Boundary Lane, Manchester, M15 6DX](http://bit.ly/1anL5UN) — a 5 minute walk from Oxford Road (Aquatic Centre/RNCM) with a bus stop outside for no's 53, 85, 86, 99, 101, 104, 105, 108, 109, 112, 250, 253, 263 & 291.      
+Ticketed Shows + Appointments can be [booked online; a fee applies to Shows](http://www.wegottickets.com/wordofwarning).
 Ticketed Shows + Appointments can be reserved over the phone: 07581 299 439    
         
 ####Access Information    
