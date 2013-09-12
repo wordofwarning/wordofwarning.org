@@ -35,7 +35,7 @@ After your encounter, donations are invited.
 ####Access Information    
 As a sited event, *Domestic* presents a number of access challenges.
 The flat *Exposure* takes place in is up one flight of stairs and is therefore not wheelchair accessible.  Spoken word based, it takes place in a confined dark space.  
-Age advisory: tbc    
+Age advisory: 14+    
 For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
               
 ####More      
