@@ -23,8 +23,8 @@ header_image:
          
 **A series of intimate interactions, homely conversations and domestic dramas played out in a block of flats.**    
         
-###Ticketed Shows          
-*Fri 8 Nov, [8pm](http://www.wegottickets.com/event/239511) + Sat 9 Nov, [4pm](http://www.wegottickets.com/event/240206) + [8pm](http://www.wegottickets.com/event/240211) | £6/4*        
+###Ticketed Shows (Limited Capacities)          
+*(Fri 8 Nov, [8pm](http://www.wegottickets.com/event/239511): SOLD-OUT) + Sat 9 Nov, [4pm](http://www.wegottickets.com/event/240206) + [8pm](http://www.wegottickets.com/event/240211) | £6/4*        
 the vacuum cleaner | Mental        
         
 *Thu 14 Nov, [6pm](http://www.wegottickets.com/event/240510) + [8pm](http://www.wegottickets.com/event/240512) + Fri 15 Nov, [6pm](http://www.wegottickets.com/event/240515) + [8pm](http://www.wegottickets.com/event/240518) | £5/3*        
@@ -37,18 +37,19 @@ J. Fergus Evans | my heart is hitchhiking down peachtree street
 Greg Wohead | I like the way you wear your hair        
         
 ###By Appointment, Donations Invited        
-*Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov [(various times)](http://www.wegottickets.com/wordofwarning)*        
+*Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov ([various times](http://www.wegottickets.com/wordofwarning))*        
 Small Acts | Shower Scenes         
            
 *Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov (5pm-10pm)*        
 Alex Bradley + Scott Smith | Field Test in Garageland         
            
-*Sat 16 + Sun 17 Nov, 2pm-4pm + 5pm-7pm [(every 15 minutes)](http://www.wegottickets.com/wordofwarning)*            
+*Sat 16 + Sun 17 Nov, 2pm-4pm + 5pm-7pm ([every 15 minutes](http://www.wegottickets.com/wordofwarning))*            
 Jo Bannon | Exposure          
           
 ####Venue + Booking Details
 Dates: Friday 8 — Sunday 17 November 2013    
-[Venue: Cooper House, off Boundary Lane, Manchester, M15 6DX](http://bit.ly/1anL5UN) — a 5 minute walk from Oxford Road (Aquatic Centre/RNCM) with a bus stop outside for no's 53, 85, 86, 99, 101, 104, 105, 108, 109, 112, 250, 253, 263 & 291.      
+[Venue: Cooper House](http://bit.ly/1anL5UN), off Boundary Lane, Manchester, M15 6DX — a 5 minute walk from Oxford Road (Aquatic Centre/RNCM), with a bus stop outside for no's 53, 85, 86, 99, 101, 104, 105, 108, 109, 112, 250, 253, 263 & 291.      
+LIMITED CAPACITIES, BOOKING ESSENTIAL:          
 Ticketed Shows + Appointments can be [booked online; a fee applies to Shows](http://www.wegottickets.com/wordofwarning).
 Ticketed Shows + Appointments can be reserved over the phone: 07581 299 439    
         
