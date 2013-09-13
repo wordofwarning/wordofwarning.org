@@ -2,6 +2,7 @@
 # CONFIGURATION
 layout: 2013-domestic
 rootpath: "../../"
+is_index: false
 
 # ABOUT THE SHOW - GENERIC
 artist: "Domestic"
