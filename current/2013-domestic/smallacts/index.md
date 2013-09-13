@@ -26,13 +26,19 @@ Watch trailer [here](http://vimeo.com/45123003).
         
 **Please note: this is a solo, private, encounter in a shower, lasting approximately 15 minutes. Suitable for ages 18+.**
          
-####Venue + Booking Details
-Dates: Friday 8 + Saturday 9 + Thursday 14 — Sunday 17 November 2013 (various times)        
-Venue: Cooper House, Camelford Close, Manchester, M15 6DX   
-Appointments can be booked online via: WeGotTickets from Friday 13 September    
-Appointments can be reserved over the phone: 07581 299 439 from Friday 13 September    
-After your encounter, donations are invited.               
-
+####Venue + Booking Details                 
+Day One: Friday 8 November 2013, 5pm 5.20pm 5.40pm 6pm 6.20pm 6.40pm 7pm 7.20pm 7.40pm             
+Day Two: Saturday 9 November 2013, 5pm 5.20pm 5.40pm 6pm 6.20pm 6.40pm 7pm 7.20pm 7.40pm             
+Day Three: Thursday 14 November 2013, 5pm 5.20pm 5.40pm | 7pm 7.20pm 7.40pm             
+Day Four: Friday 15 November 2013, 5pm 5.20pm 5.40pm | 7pm 7.20pm 7.40pm             
+Day Five: Saturday 9 November 2013, 2pm 2.20pm 2.40pm 3pm 3.20pm 3.40pm | 5pm 5.20pm 5.40pm | 6pm 6.20pm 6.40pm            
+Day Six: Sunday 17 November 2013, 2pm 2.20pm 2.40pm 3pm 3.20pm 3.40pm | 5pm 5.20pm 5.40pm | 6pm 6.20pm 6.40pm            
+[Venue: Cooper House](http://bit.ly/1anL5UN), off Boundary Lane, Manchester, M15 6DX — a 5 minute walk from Oxford Road (Aquatic Centre/RNCM), with a bus stop right outside for no's 53, 85, 86, 99, 101, 104, 105, 108, 109, 112, 250, 253, 263 & 291.             
+BOOKING ESSENTIAL:               
+Appointments can be [booked online; NO fee applies](http://www.wegottickets.com/wordofwarning).               
+Appointments can be reserved over the phone: 07581 299 439                 
+After your encounter, donations are invited.                   
+                
 ####Access Information    
 As a sited event, *Domestic* presents a number of access challenges.
 The flat *Shower Scenes* takes place in is up one flight of stairs and involves taking a shower, standing in a bath tub, in an unadapted bathroom.  Participants are given spoken word instructions.     
