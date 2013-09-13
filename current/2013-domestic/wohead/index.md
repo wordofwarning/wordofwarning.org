@@ -27,17 +27,18 @@ In this solo performance Greg tells you (from the perspective of a geeky teenage
 **Please note: this is a show for maximum 15 people, lasting approximately 50 minutes.**        
          
 ####Venue + Booking Details
-Dates: Saturday 16 + Sunday 17 November 2013, 4pm + 7pm        
-Venue: Cooper House, Camelford Close, Manchester, M15 6DX   
-Tickets: £6/4, can be booked online via: WeGotTickets from Friday 13 September    
-Tickets: £6/4, can be reserved over the phone: 07581 299 439 from Friday 13 September    
-      
+Dates: Saturday 16 November 2013, [4pm](http://www.wegottickets.com/event/240541) + [7pm](http://www.wegottickets.com/event/240543) + Sunday 17 November 2013, [4pm](http://www.wegottickets.com/event/240545) + [7pm](http://www.wegottickets.com/event/240547)                      
+[Venue: Cooper House](http://bit.ly/1anL5UN), off Boundary Lane, Manchester, M15 6DX — a 5 minute walk from Oxford Road (Aquatic Centre/RNCM), with a bus stop right outside for no's 53, 85, 86, 99, 101, 104, 105, 108, 109, 112, 250, 253, 263 & 291.             
+LIMITED CAPACITIES, BOOKING ESSENTIAL:               
+Tickets: £6/4, can be [booked online; a fee applies](http://www.wegottickets.com/wordofwarning).                
+Tickets: £6/4, can be reserved over the phone: 07581 299 439        
+          
 ####Access Information    
 As a sited event, *Domestic* presents a number of access challenges.
-The flat *I like the way...* takes place in is level access, but the room is small so we would appreciate it if you could let us know about any wheelchairs so we can adjust capacity.   Spoken word based.  
+The flat *I like the way...* takes place in is level access, but the room is small so we would appreciate it if you could let us know about any wheelchairs so we can adjust capacity. Spoken word based.             
 Age advisory: tbc    
 For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.  
-
+         
 ####More      
 *I like the way you wear your hair* is a conversation with a past version of yourself. It’s about stomach butterflies, private thoughts and marching bands conveyed with simple storytelling and a pico projector, throwing hand-drawn memories and DIY atmosphere onto the walls, floor and ceiling.
 
