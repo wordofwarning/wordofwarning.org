@@ -25,26 +25,26 @@ header_image:
         
 ###Ticketed Shows (Limited Capacities)          
 *(Fri 8 Nov, [8pm](http://www.wegottickets.com/event/239511): SOLD-OUT) + Sat 9 Nov, [4pm](http://www.wegottickets.com/event/240206) + [8pm](http://www.wegottickets.com/event/240211) | £6/4*        
-[the vacuum cleaner](/domestic/vacuumcleaner/index.html) | Mental        
+[the vacuum cleaner](/current/2013-domestic/vacuumcleaner/index.html) | Mental        
         
 *Thu 14 Nov, [6pm](http://www.wegottickets.com/event/240510) + [8pm](http://www.wegottickets.com/event/240512) + Fri 15 Nov, [6pm](http://www.wegottickets.com/event/240515) + [8pm](http://www.wegottickets.com/event/240518) | £5/3*        
-Leentje Van de Cruys | Kitsch'n Sync        
+[Leentje Van de Cruys](/current/2013-domestic/vandecruys/index.html) | Kitsch'n Sync        
          
 *Sat 16 Nov, [2pm](http://www.wegottickets.com/event/240524) + [5pm](http://www.wegottickets.com/event/240527) + [8pm](http://www.wegottickets.com/event/240529) + Sun 17 Nov, [2pm](http://www.wegottickets.com/event/240532) + [5pm](http://www.wegottickets.com/event/240534) + [8pm](http://www.wegottickets.com/event/240536) | £6/4*        
-J. Fergus Evans | my heart is hitchhiking down peachtree street        
+[J. Fergus Evans](/current/2013-domestic/evans/index.html) | my heart is hitchhiking down peachtree street        
           
 *Sat 16 Nov, [4pm](http://www.wegottickets.com/event/240541) + [7pm](http://www.wegottickets.com/event/240543) + Sun 17 Nov, [4pm](http://www.wegottickets.com/event/240545) + [7pm](http://www.wegottickets.com/event/240547) | £6/4*       
-Greg Wohead | I like the way you wear your hair        
+[Greg Wohead](/current/2013-domestic/wohead/index.html) | I like the way you wear your hair        
         
 ###By Appointment, Donations Invited        
 *Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov ([various times](http://www.wegottickets.com/wordofwarning))*        
-Small Acts | Shower Scenes         
+[Small Acts](/current/2013-domestic/smallacts/index.html) | Shower Scenes         
            
 *Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov (5pm-10pm)*        
-Alex Bradley + Scott Smith | Field Test in Garageland         
+[Alex Bradley + Scott Smith](/current/2013-domestic/bradley/index.html) | Field Test in Garageland         
            
 *Sat 16 + Sun 17 Nov, 2pm-4pm + 5pm-7pm ([every 15 minutes](http://www.wegottickets.com/wordofwarning))*            
-Jo Bannon | Exposure          
+[Jo Bannon](/current/2013-domestic/bannon/index.html) | Exposure          
           
 ####Venue + Booking Details
 Dates: Friday 8 — Sunday 17 November 2013    
