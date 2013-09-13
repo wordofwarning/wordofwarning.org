@@ -26,9 +26,10 @@ Watch trailer [here](http://vimeo.com/68437394).
 **Please note: this is a one-to-one encounter lasting approximately 9 minutes**
          
 ####Venue + Booking Details
-Dates: Saturday 16 November 2013, 2pm, 2.15pm, 2.30pm, 2.45pm | 3pm, 3.15pm, 3.30pm, 3.45pm | 5pm, 5.15pm, 5.30pm, 5.45pm | 6pm, 6.15pm, 6.30pm, 6.45pm + Sunday 17 November 2013, 2pm, 2.15pm, 2.30pm, 2.45pm | 3pm, 3.15pm, 3.30pm, 3.45pm | 5pm, 5.15pm, 5.30pm, 5.45pm | 6pm, 6.15pm, 6.30pm, 6.45pm                    
+Day One: Saturday 16 November 2013: [2pm](http://www.wegottickets.com/event/240578) [2.15pm](http://www.wegottickets.com/event/240583) [2.30pm](http://www.wegottickets.com/event/240591) [2.45pm](http://www.wegottickets.com/event/240599) [3pm](http://www.wegottickets.com/event/240574) [3.15pm](http://www.wegottickets.com/event/240584) [3.30pm](http://www.wegottickets.com/event/240593) [3.45pm](http://www.wegottickets.com/event/240601) | [5pm](http://www.wegottickets.com/event/240575) [5.15pm](http://www.wegottickets.com/event/240585) [5.30pm](http://www.wegottickets.com/event/240595) [5.45pm](http://www.wegottickets.com/event/240603) [6pm](http://www.wegottickets.com/event/240578) [6.15pm](http://www.wegottickets.com/event/240586) [6.30pm](http://www.wegottickets.com/event/240597) [6.45pm](http://www.wegottickets.com/event/240605)        
+Day Two: Sunday 17 November 2013: 2pm, 2.15pm, 2.30pm, 2.45pm, 3pm, 3.15pm, 3.30pm, 3.45pm | 5pm, 5.15pm, 5.30pm, 5.45pm | 6pm, 6.15pm, 6.30pm, 6.45pm                    
 [Venue: Cooper House](http://bit.ly/1anL5UN), off Boundary Lane, Manchester, M15 6DX — a 5 minute walk from Oxford Road (Aquatic Centre/RNCM), with a bus stop right outside for no's 53, 85, 86, 99, 101, 104, 105, 108, 109, 112, 250, 253, 263 & 291.             
-LIMITED CAPACITIES, BOOKING ESSENTIAL:              
+BOOKING ESSENTIAL:              
 Appointments can be [booked online; NO fee applies](http://www.wegottickets.com/wordofwarning).                   
 Appointments can be reserved over the phone: 07581 299 439               
 After your encounter, donations are invited.                 
