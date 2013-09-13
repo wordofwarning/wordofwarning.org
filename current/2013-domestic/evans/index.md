@@ -24,12 +24,13 @@ Stories of Southern Comfort, dancing drag queens and singing cicadas from the st
                      
 **Please note: this is a show for maximum 9 people, lasting approximately 60 minutes.**        
          
-####Venue + Booking Details
-Dates: Saturday 16 + Sunday 17 November 2013, 2pm + 5pm + 8pm        
-Venue: Cooper House, Camelford Close, Manchester, M15 6DX   
-Tickets: £6/4, can be booked online via: WeGotTickets from Friday 13 September    
-Tickets: £6/4, can be reserved over the phone: 07581 299 439 from Friday 13 September     
-      
+####Venue + Booking Details             
+Dates: Saturday 16 November 2013, [2pm](http://www.wegottickets.com/event/240524) + [5pm](http://www.wegottickets.com/event/240527) + [8pm](http://www.wegottickets.com/event/240529) + Sunday 17 November 2013, [2pm](http://www.wegottickets.com/event/240532) + [5pm](http://www.wegottickets.com/event/240534) + [8pm](http://www.wegottickets.com/event/240536)         
+[Venue: Cooper House](http://bit.ly/1anL5UN), off Boundary Lane, Manchester, M15 6DX — a 5 minute walk from Oxford Road (Aquatic Centre/RNCM), with a bus stop right outside for no's 53, 85, 86, 99, 101, 104, 105, 108, 109, 112, 250, 253, 263 & 291.             
+LIMITED CAPACITIES, BOOKING ESSENTIAL:          
+Tickets: £6/4, can be [booked online; a fee applies](http://www.wegottickets.com/wordofwarning).                
+Tickets: £6/4, can be reserved over the phone: 07581 299 439                
+                      
 ####Access Information    
 As a sited event, *Domestic* presents a number of access challenges.
 The flat *My Heart Is...* takes place in is level access, but the room is small so we would appreciate it if you could let us know about any wheelchairs so we can adjust capacity.   Spoken word based.  
