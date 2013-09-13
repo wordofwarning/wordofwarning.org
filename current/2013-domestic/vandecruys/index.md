@@ -24,12 +24,13 @@ The latest in a series of domestic performances created by Leentje Van de Cruys,
 
 **Please note: this is a new show, currently in development; for maximum 10 people, lasting between 30 and 60 minutes.**
          
-####Venue + Booking Details
-Dates: Thursday 14 + Friday 15 November 2013, 6pm + 8pm         
-Venue: Cooper House, Camelford Close, Manchester, M15 6DX   
-Tickets: £5/3, can be booked online via: WeGotTickets from Friday 13 September    
-Tickets: £5/3, can be reserved over the phone: 07581 299 439 from Friday 13 September         
-
+####Venue + Booking Details                  
+Dates: Thursday 14 November 2013, [6pm](http://www.wegottickets.com/event/240510) + [8pm](http://www.wegottickets.com/event/240512) + Friday 15 November 2013, [6pm](http://www.wegottickets.com/event/240515) + [8pm](http://www.wegottickets.com/event/240518)                
+[Venue: Cooper House](http://bit.ly/1anL5UN), off Boundary Lane, Manchester, M15 6DX — a 5 minute walk from Oxford Road (Aquatic Centre/RNCM), with a bus stop right outside for no's 53, 85, 86, 99, 101, 104, 105, 108, 109, 112, 250, 253, 263 & 291.                 
+LIMITED CAPACITIES, BOOKING ESSENTIAL:               
+Tickets: £5/3, can be [booked online; a fee applies](http://www.wegottickets.com/wordofwarning).                
+Tickets: £5/3, can be reserved over the phone: 07581 299 439                 
+                  
 ####Access Information    
 As a sited event, *Domestic* presents a number of access challenges.
 The flat *Kitsch'n Sync* takes place in is up one flight of stairs and is therefore not wheelchair accessible.  Spoken word based.  
