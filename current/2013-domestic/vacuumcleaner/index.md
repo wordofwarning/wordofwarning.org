@@ -29,11 +29,11 @@ An autobiographical performance by artist-activist, the vacuum cleaner.
 **Please note: this show contains material that some people may find upsetting and is not suitable for those under the age of 16; this is a show for maximum 14 people, lasting approximately 50 minutes.**            
          
 ####Venue + Booking Details
-Dates: (Friday 8 November 2013, [8pm](http://www.wegottickets.com/event/239511): SOLD-OUT) + Saturday 9 November 2013, [4pm](http://www.wegottickets.com/event/240206) + [8pm](http://www.wegottickets.com/event/240211)         
+Dates: (*Friday 8 November 2013, [8pm](http://www.wegottickets.com/event/239511): SOLD-OUT*) + Saturday 9 November 2013, [4pm](http://www.wegottickets.com/event/240206) + [8pm](http://www.wegottickets.com/event/240211)         
 [Venue: Cooper House](http://bit.ly/1anL5UN), off Boundary Lane, Manchester, M15 6DX — a 5 minute walk from Oxford Road (Aquatic Centre/RNCM), with a bus stop right outside for no's 53, 85, 86, 99, 101, 104, 105, 108, 109, 112, 250, 253, 263 & 291.             
 LIMITED CAPACITIES, BOOKING ESSENTIAL:               
 Tickets: £6/4, can be [booked online; a fee applies](http://www.wegottickets.com/wordofwarning).                
-Tickets: £6/4, can be reserved over the phone: 07581 299 439               
+Tickets: £6/4, can be reserved over the phone: 07581 299 439 (leave a message + we’ll get back to you).               
                    
 ####Access Information    
 As a sited event, *Domestic* presents a number of access challenges.
