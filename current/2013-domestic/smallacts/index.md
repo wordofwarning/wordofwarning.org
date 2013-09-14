@@ -27,8 +27,8 @@ Watch trailer [here](http://vimeo.com/45123003).
 **Please note: this is a solo, private, encounter in a shower, lasting approximately 15 minutes. Suitable for ages 18+.**
          
 ####Venue + Booking Details                 
-Day One: Friday 8 November 2013, [5pm [5.20pm [5.40pm [6pm [6.20pm [6.40pm [7pm [7.20pm [7.40pm             
-Day Two: Saturday 9 November 2013, 5pm 5.20pm 5.40pm 6pm 6.20pm 6.40pm 7pm 7.20pm 7.40pm             
+Day One: Friday 8 November 2013, [5pm](http://www.wegottickets.com/event/240616) [5.20pm](http://www.wegottickets.com/event/240745) [5.40pm](http://www.wegottickets.com/event/240843) [6pm](http://www.wegottickets.com/event/240717) [6.20pm](http://www.wegottickets.com/event/240760) [6.40pm](http://www.wegottickets.com/event/240844) [7pm](http://www.wegottickets.com/event/240721) [7.20pm](http://www.wegottickets.com/event/240767) [7.40pm](http://www.wegottickets.com/event/240845)        
+Day Two: Saturday 9 November 2013, [5pm](http://www.wegottickets.com/event/240617) [5.20pm](http://www.wegottickets.com/event/240746) [5.40pm](http://www.wegottickets.com/event/240846) [6pm](http://www.wegottickets.com/event/240718) [6.20pm](http://www.wegottickets.com/event/240761) [6.40pm](http://www.wegottickets.com/event/240847) [7pm](http://www.wegottickets.com/event/240722) [7.20pm](http://www.wegottickets.com/event/240768) [7.40pm](http://www.wegottickets.com/event/240848)               
 Day Three: Thursday 14 November 2013, 5pm 5.20pm 5.40pm | 7pm 7.20pm 7.40pm             
 Day Four: Friday 15 November 2013, 5pm 5.20pm 5.40pm | 7pm 7.20pm 7.40pm             
 Day Five: Saturday 16 November 2013, 2pm 2.20pm 2.40pm 3pm 3.20pm 3.40pm | 5pm 5.20pm 5.40pm | 6pm 6.20pm 6.40pm            
