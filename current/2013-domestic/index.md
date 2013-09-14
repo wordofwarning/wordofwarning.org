@@ -51,7 +51,7 @@ Dates: Friday 8 — Sunday 17 November 2013
 [Venue: Cooper House](http://bit.ly/1anL5UN), off Boundary Lane, Manchester, M15 6DX — a 5 minute walk from Oxford Road (Aquatic Centre/RNCM), with a bus stop outside for no's 53, 85, 86, 99, 101, 104, 105, 108, 109, 112, 250, 253, 263 & 291.      
 LIMITED CAPACITIES, BOOKING ESSENTIAL:          
 Ticketed Shows + Appointments can be [booked online; a fee applies to Shows](http://www.wegottickets.com/wordofwarning).
-Ticketed Shows + Appointments can be reserved over the phone: 07581 299 439 - leave a message + we'll get back to you.   
+Ticketed Shows + Appointments can be reserved over the phone: 07581 299 439 (leave a message + we'll get back to you).   
         
 ####Access Information    
 As a sited event, *Domestic* presents a number of access challenges, and not all spaces are wheelchair accessible.    
