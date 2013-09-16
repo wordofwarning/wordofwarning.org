@@ -15,7 +15,6 @@ header_image: "header_2012_hazard.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-
-**Hazard** is a biennial micro-festival of sited intervention, taking place in Manchester City Centre.  Since 2007 it has seen over 80 incursions into the normal Saturday in the City, ranging from wrapping Cathedral Gardens in 6km of Hazard tape to a wheelchair moon-landing. Normally taking place in **July** in 'even' years, the next Hazard is due to take place in 2014 and the open call will take place in April/May of that year, with details here.
-
-In the meantime have a look at the [archive](/archive/2012-hazard) of last year's event or at the [event blog](http://hazardmcr.posterous.com) or video via our video links section.
+**Hazard** is a biennial micro-festival of sited intervention, taking place in Manchester City Centre. Since 2007 it has seen over 80 incursions into the normal Saturday in the City, ranging from wrapping Cathedral Gardens in 6km of Hazard tape to a wheelchair moon-landing. Normally taking place in **July** in 'even' years, the next Hazard is due to take place in 2014 and the open call will take place in April/May 2014, with details posted here.                                
+                                  
+In the meantime have a look at the [2012 event archive](/archive/2012-hazard) or the [event blog](http://hazardmcr.posthaven.com) or find 2008 + 2010 footage on our [Vimeo channel](http://vimeo.com/habmcr).
