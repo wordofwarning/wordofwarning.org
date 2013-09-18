@@ -16,7 +16,7 @@ header_image: "header_shower.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning *with* Guiness Northern Counties + Z-arts       
+*Presented by* Word of Warning, Guiness Northern Counties + Z-arts       
 *during* [Domestic](/current/2013-domestic/index.html)        
 
 ####In Brief
