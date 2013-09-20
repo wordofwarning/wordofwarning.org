@@ -23,7 +23,7 @@ header_image:
          
 **Manchester's marathon micro-festival.**        
            
-[Emergency](/hab/emergency/index.html) returns for its fourteenth year — the bizarre, the bold and the beautiful popping up in a plethora of spaces.       
+[Emergency](/hab/emergency/index) returns for its fourteenth year — the bizarre, the bold and the beautiful popping up in a plethora of spaces.       
           
 Last year we taped performers to windows, played a uniquely guttural rendition of Nessun Dorma and unearthed a viscerally prehistoric woman. This year will be an equally eclectic performance lucky-dip in two locations — your chance to sample the different and all for free.         
 
@@ -45,10 +45,10 @@ Tickets: FREE no booking required
 Venue Tel: 0161 232 6089    
       
 ####Access Information    
-Emergency takes place in a number of different spaces and formats - some seated, some standing, some spoken word, some visual.   
+Emergency takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual.   
 Some of the work is suitable for the under 16's, the majority may not be.   
-BLANKSPACE Upstairs is unfortunately not wheelchair accessible.    
+Upstairs at [BLANKSPACE](/current/2013-emergency/blank) is unfortunately not wheelchair accessible.    
 For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
-          
+            
 ####Credits         
 Co-produced by [hÅb](/hab/index.html), [Blank Media Collective](http://www.blankmediacollective.org) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.
