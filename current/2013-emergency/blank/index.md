@@ -78,27 +78,9 @@ Mic Alche’s regalia sees him don a René Magritte inspired overcoat & bowler a
 Mike Chavez-Dawson is an artist-curator based at Rogue Artists' Studios, Manchester. He instigated and curated the critically acclaimed shows *Unrealised Potential* and David Shrigley's solo show entitled *HOW ARE YOU FEELING?* for Cornerhouse (2012–13). More recently his extraordinary proposal *Beyond the Medium, A Rake’s Dream…* made the 100 favorite proposals for Artangel *OPEN* 2013.                
 
 Chavez-Dawson tends to present 'propositional works' that retain a healthy skepticism for participation and interpretation; this is usually through multi-part works that sit between performance(-art) and curation, often revealing the myth of the artist's vision as against the audience's reading.              
-[www.mikechavezdawson.com](http://www.mikechavezdawson.com)                  
-![Mike Chavez-Dawson](mike_cd.jpg)                    
-                 
-**Sarah Boulton | Present**                
-A one-minute sound recording of the most silent place on Earth is offered to you to keep.                    
-                      
-*"I make situation-specific interventions in public spaces. A lot of them are carried out unannounced and unknown to the contemporary audience. The 'work' may then exist in various spaces both before or after its happening; its script may be told via word-of-mouth or printed onto business cards, it may sit in somebody's email inbox or be disseminated into the world at its own pace as the nail varnish that I wear chips away."*                  
-                    
-Sarah Boulton currently studies on the MFA Fine Art Media programme at the Slade School of Art.                   
-[www.sarah-boulton.co.uk ](http://www.sarah-boulton.co.uk)                 
-![Sarah Boulton](sarah_boulton_present.jpg)                  
-                 
-**Collective Unconscious | 5am Saint**                   
-An an invitation for you to explore a different, more sensuous mode of being with a single performer. Leave your identity at the door and bring only your senses and your desires to a co-exploration of intimacy.                     
-                   
-Collective Unconscious have shown work as part of  Franko B's Untouchable platform, Tempting Failure, and recently were co-collaborators on a major performance installation at this year's Roskilde Festival.              
-                   
-Dr Mark Ellis has been creating immersive, interactive performances with Collective Unconscious since 2010, he has performed at Tempting Failure (April 2013), The Franko B curated Untouchable (November 2012), Performing Porn (July 2013) and was one of two lead artists on a major interactive performance installation entitled The Velvet State manifested at this year's Roskilde Festival in Denmark. Mark lectures at the Universities of Worcester and Wolverhampton and has recently completed his PhD studying the relationship between reality and fiction in immersive theatre through practice.                   
-[http://collectiveunconscious.co.uk](http://collectiveunconscious.co.uk)              
-![Collective Unconscious](collective unconscious.jpg)                  
-                 
+[www.mikechavezdawson.com](http://www.mikechavezdawson.com)              
+![Mike Chavez-Dawson](mike_cd.jpg)
+ 
 ####Venue + Booking Details          
 Date: Saturday 5 October 2013, 12noon-4pm           
 [Venue: BLANKSPACE](http://blankmediacollective.org/about-us), 43 Hulme Street, Manchester M15 6AW                
