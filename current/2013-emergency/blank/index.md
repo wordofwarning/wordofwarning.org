@@ -51,7 +51,25 @@ Inspired by the 1993 film *The Piano*, this partly autobiographical work is abou
 *"Interested in the ideas of family, memory, home and history; my work to date includes installation, photography, sculpture and drawing. Following a career as a teacher, the birth of my two children proved a catalyst to my work and I started studying fine art in 2011."*                    
 [bethjross.wordpress.com](http://bethjross.wordpress.com)                  
 ![Beth J Ross](beth_ross.jpg)                      
-                         
+                 
+**Rebecca Bowley | The Mistakes I've Made/Longing and Waiting | *Commissioned for Emergency***               
+*The Mistakes I've Made/Longing and Waiting* is a boat, the sea, and a musical instrument.               
+                    
+It is an endurance piece set to a collection of writings accumulated through an informal call-out in which people were asked to describe their personal experiences of longing and waiting. It dreams of times, people and places that you want to go to but can not; it carries and transports us to those places through aloneness, distance, dream and physical endurance.                
+                
+The body becomes tired through rowing, rowing without physically being able to go anywhere; but rowing nonetheless, enduring the movement to enable the tired body to be transported as if by magic and child-like innocence to another shore where anything is possible and dreams have no limit.                
+
+Rebecca Bowley is based at Bloc Studios (Sheffield), and a Freelance Co-director/Curator for Bloc Projects Contemporary Art Space; she is also an Associate Member of Compass Live Art and Point Blank Theatre, and a Visiting Lecturer at Sheffield Hallam University.                   
+[www.beckybowleyworks.blogspot.co.uk](http://www.beckybowleyworks.blogspot.co.uk)              
+![Rebecca Bowley](becky_bowley.png)           
+                   
+**Lotta SCAF | Bank of Change — Unconditional Real Trust**             
+A live art act performed and developed by Sophie Frenzel; challenging the role of money in our society, this piece will give you deep insight about how an alternative economy could look.                
+               
+Sophie Charlotte Alexandra Frenzel, alas Lotta Vanina SCAF, is a conceptual artist and Social Entrepreneur. She strongly identifies with the practice of the FLUXUS movement, and with its representatives Valie Export and Joseph Beuys, she now is trying to find out what art can contribute to a socially, economically and ecologically balanced society; she has founded her own money Institute: *The Bank of Change — an Unconditional Real Trust*, that is in pursuit of an alternative economy for our future.                  
+                  
+Sophie is co-founder and manager of the award winning Social Enterprise OXFORD ART CIRCUS.             
+                      
 ####Venue + Booking Details          
 Date: Saturday 5 October 2013, 12noon-4pm           
 [Venue: BLANKSPACE](http://blankmediacollective.org/about-us), 43 Hulme Street, Manchester M15 6AW                
