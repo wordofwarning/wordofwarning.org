@@ -70,6 +70,17 @@ Sophie Charlotte Alexandra Frenzel, alas Lotta Vanina SCAF, is a conceptual arti
                   
 Sophie is co-founder and manager of the award winning Social Enterprise OXFORD ART CIRCUS.             
                       
+**Mike Chavez-Dawson | In Your Hands | *Commissioned for Emergency***              
+*In Your Hands* sees critically acclaimed Manchester-based artist-curator Mike Chavez-Dawson perform as Mic Alche with a one-to-one palmistry service where he will scrutinise your artistic temperament & success from the creases of your hands and the veins in the whites of your eyes.                
+                  
+Mic Alche’s regalia sees him don a René Magritte inspired overcoat & bowler and a gold painted face (*ref: Beuys, How to Explain Pictures to a Dead Hare*). In addition to his reading, each willing participant will receive a hand-map painting of her/his hands as a keepsake for taking part.               
+               
+Mike Chavez-Dawson is an artist-curator based at Rogue Artists' Studios, Manchester. He instigated and curated the critically acclaimed shows *Unrealised Potential* and David Shrigley's solo show entitled *HOW ARE YOU FEELING?* for Cornerhouse (2012–13). More recently his extraordinary proposal *Beyond the Medium, A Rake’s Dream…* made the 100 favorite proposals for Artangel *OPEN* 2013.                
+
+Chavez-Dawson tends to present 'propositional works' that retain a healthy skepticism for participation and interpretation; this is usually through multi-part works that sit between performance(-art) and curation, often revealing the myth of the artist's vision as against the audience's reading.              
+[www.mikechavezdawson.com](http://www.mikechavezdawson.com)              
+![Mike Chavez-Dawson](mike_cd.jpg)
+ 
 ####Venue + Booking Details          
 Date: Saturday 5 October 2013, 12noon-4pm           
 [Venue: BLANKSPACE](http://blankmediacollective.org/about-us), 43 Hulme Street, Manchester M15 6AW                
