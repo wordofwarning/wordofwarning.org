@@ -70,56 +70,6 @@ Sophie Charlotte Alexandra Frenzel, alas Lotta Vanina SCAF, is a conceptual arti
                   
 Sophie is co-founder and manager of the award winning Social Enterprise OXFORD ART CIRCUS.             
                       
-**Mike Chavez-Dawson | In Your Hands | *Commissioned for Emergency***             
-*In Your Hands* sees critically acclaimed Manchester-based artist-curator Mike Chavez-Dawson perform as Mic Alche with a one-to-one palmistry service where he will scrutinise your artistic temperament & success from the creases of your hands and the veins in the whites of your eyes.             
-               
-Mic Alche’s regalia sees him don a René Magritte inspired overcoat & bowler and a gold painted face (*ref: Beuys, How to Explain Pictures to a Dead Hare*). In addition to his reading, each willing participant will receive a hand-map painting of her/his hands as a keepsake for taking part.               
-                
-Mike Chavez-Dawson is an artist-curator based at Rogue Artists' Studios, Manchester. He instigated and curated the critically acclaimed shows *Unrealised Potential* and David Shrigley's solo show entitled *HOW ARE YOU FEELING?* for Cornerhouse (2012–13). More recently his extraordinary proposal *Beyond the Medium, A Rake’s Dream…* made the 100 favorite proposals for Artangel *OPEN* 2013.               
-                     
-Chavez-Dawson tends to present 'propositional works' that retain a healthy skepticism for participation and interpretation; this is usually through multi-part works that sit between performance(-art) and curation, often revealing the myth of the artist's vision as against the audience's reading.             
-[www.mikechavezdawson.com](http://www.mikechavezdawson.com)         
-![Mike Chavez-Dawson](mike_cd.jpg)             
-                    
-**Sarah Boulton | Present**                   
-A one-minute sound recording of the most silent place on Earth is offered to you to keep.                   
-                     
-*"I make situation-specific interventions in public spaces. A lot of them are carried out unannounced and unknown to the contemporary audience. The 'work' may then exist in various spaces both before or after its happening; its script may be told via word-of-mouth or printed onto business cards, it may sit in somebody's email inbox or be disseminated into the world at its own pace as the nail varnish that I wear chips away."*               
-                  
-Sarah Boulton currently studies on the MFA Fine Art Media programme at the Slade School of Art.                    
-[www.sarah-boulton.co.uk ](http://www.sarah-boulton.co.uk)              
-![Sarah Boulton](sarah_boulton_present.jpg)
-                  
-**Collective Unconscious | 5am Saint**                
-An an invitation for you to explore a different, more sensuous mode of being with a single performer. Leave your identity at the door and bring only your senses and your desires to a co-exploration of intimacy.             
-                  
-Collective Unconscious have shown work as part of  Franko B's Untouchable platform, Tempting Failure, and recently were co-collaborators on a major performance installation at this year's Roskilde Festival.              
-                    
-Dr Mark Ellis has been creating immersive, interactive performances with Collective Unconscious since 2010, he has performed at Tempting Failure (April 2013), The Franko B curated Untouchable (November 2012), Performing Porn (July 2013) and was one of two lead artists on a major interactive performance installation entitled The Velvet State manifested at this year's Roskilde Festival in Denmark. Mark lectures at the Universities of Worcester and Wolverhampton and has recently completed his PhD studying the relationship between reality and fiction in immersive theatre through practice.               
-[http://collectiveunconscious.co.uk](http://collectiveunconscious.co.uk)              
-![Collective Unconscious](collective unconscious.jpg)
-                  
-**Paul Hurley | If I Were You | *Outside on
-Hulme Street***                 
-Paul Hurley makes performances that are equally arduous and ridiculous. He is interested in exploring the relationships that bring us together and the actions that we use to make meaning in our lives.                   
-                     
-For this new piece of work, Paul wants to run. He wants to run for the things he cares about, for the things you care about. He wants to know what it is that keeps us going, what we're prepared to do for other people and what good that might even do anyway.                
-                     
-Paul Hurley is interested in ritual and connection, and in absurdity and humour. He has been making performance art in galleries, theatres and public spaces since 2002, and has more recently been interested in participatory and socially-engaged projects. He has shown work across the UK and in numerous international contexts, and has made collaborations with artists across a range of disciplines.             
-[http://paulhurley.org](http://paulhurley.org)
-                      
-**Geranium Theatre Co | Loose Soul**
-*Pinky has done something incredible: she has created the life she's always wanted; a life where she has a body of a supermodel and everyone adores her. There is just one catch: it only exists online. Welcome down the rabbit hole called cyberspace, where troubles melt like lemon drops and dreams really do come true.*                  
-                    
-*Loose Soul* is a solo performance that blends poetry, storytelling and improvisation which aims to question how we 'perform' our gender identities online; is the Internet a platform where we can transcend our physical limitations?                    
-                      
-The piece came third in the Soho Young Writer’s Award 2013 and is currently being developed for a full length stage production in 2014.                 
-                    
-Melody Parker, performer and writer, is currently studying theatre & performance at Goldsmiths and has previously performed at venues includng Dramaten, The Wharf Theatre, Latitude Festival and Camden Fringe festival in London.                  
-                     
-Sivert Lendorph, director, is also studying theatre & performance, and has previous experience from Copenhagen's fringe scene. He recently won the BFI Can Maker's Film Competition.                 
-[http://geraniumtheatreco.tumblr.com](http://geraniumtheatreco.tumblr.com) | [melodyparker.tumblr.com](http://melodyparker.tumblr.com)
-                       
 ####Venue + Booking Details          
 Date: Saturday 5 October 2013, 12noon-4pm           
 [Venue: BLANKSPACE](http://blankmediacollective.org/about-us), 43 Hulme Street, Manchester M15 6AW                
