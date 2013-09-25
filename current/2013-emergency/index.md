@@ -28,7 +28,8 @@ Last year we taped performers to windows, played a uniquely guttural rendition
 
 Drop-in for ten minutes or stay for the full eleven hours — a free day-out for the curious with over twenty-five new works; featuring artists (subject to change, still being confirmed):        
         
-Maiada aBOUD | Lindsay Bennett | Nathan Birkinshaw | Sarah Boulton | Kerry Carroll | Collective Unconscious | Will Dickie | Dirty Shade | Drunken Chorus | Frances-Kay | Geranium Theatre Co | Paul Hurley | Lucy Hutson | Lotta SCAF | Manoli Moriaty | Paul O'Donnell | PartSuspended | Beth J Ross | SheepKnuckle  | Small Acts | Chloë Smith | lili Spain | The Same, But Different | Voris/Buchanan | Zimmermann/Singh *plus commissioned works from* Rebecca Bowley + Mike Chavez-Dawson.       
+Maiada aBOUD | Lindsay Bennett | Nathan Birkinshaw | Sarah Boulton | Kerry Carroll | Collective Unconscious | Will Dickie | Dirty Shade | Drunken Chorus | Frances-Kay | Geranium Theatre Co | Paul Hurley | Lucy Hutson | Lotta SCAF | Manoli Moriaty | Paul O'Donnell | PartSuspended | Beth J Ross | SheepKnuckle  | Small Acts | Chloë Smith | lili Spain | The Same, But Different | Voris/Buchanan | Zimmermann/Singh      
+*Plus commissioned works from* Rebecca Bowley + Mike Chavez-Dawson.       
        
 *Sniff out* Dove *— an ambient intervention by* Sarah Boulton*, who has invited all our participating artists to smell the same.*
                 
@@ -43,6 +44,8 @@ Date: Saturday 5 October 2013, 3pm-11pm
 Tickets: FREE no booking required        
 Venue Tel: 0161 232 6089    
       
+[Venues Map](http://bit.ly/1bFUlqt)       
+            
 ####Access Information    
 Emergency takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual.   
 Some of the work is suitable for the under 16's, the majority may not be.   
