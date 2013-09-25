@@ -52,6 +52,85 @@ Inspired by the 1993 film *The Piano*, this partly autobiographical work is abou
 [bethjross.wordpress.com](http://bethjross.wordpress.com)                  
 ![Beth J Ross](beth_ross.jpg)                      
                          
+**Rebecca Bowley | The Mistakes I've Made/Longing and Waiting | *Commissioned for Emergency***
+*The Mistakes I've Made/Longing and Waiting* is a boat, the sea, and a musical instrument.
+
+It is an endurance piece set to a collection of writings accumulated through an informal call-out in which people were asked to describe their personal experiences of longing and waiting. It dreams of times, people and places that you want to go to but can not; it carries and transports us to those places through aloneness, distance, dream and physical endurance.
+
+The body becomes tired through rowing, rowing without physically being able to go anywhere; but rowing nonetheless, enduring the movement to enable the tired body to be transported as if by magic and child-like innocence to another shore where anything is possible and dreams have no limit.
+
+Rebecca Bowley is based at Bloc Studios (Sheffield), and a Freelance Co-director/Curator for Bloc Projects Contemporary Art Space; she is also an Associate Member of Compass Live Art and Point Blank Theatre, and a Visiting Lecturer at Sheffield Hallam University.
+[www.beckybowleyworks.blogspot.co.uk](http://www.beckybowleyworks.blogspot.co.uk)
+![Rebecca Bowley](becky_bowley.png)
+ 
+**Lotta SCAF | Bank of Change — Unconditional Real Trust**
+A live art act performed and developed by Sophie Frenzel; challenging the role of money in our society, this piece will give you deep insight about how an alternative economy could look.
+
+Sophie Charlotte Alexandra Frenzel, alas Lotta Vanina SCAF, is a conceptual artist and Social Entrepreneur. She strongly identifies with the practice of the FLUXUS movement, and with its representatives Valie Export and Joseph Beuys, she now is trying to find out what art can contribute to a socially, economically and ecologically balanced society; she has founded her own money Institute: *The Bank of Change — an Unconditional Real Trust*, that is in pursuit of an alternative economy for our future.
+
+Sophie is co-founder and manager of the award winning Social Enterprise OXFORD ART CIRCUS.
+ 
+**Mike Chavez-Dawson | In Your Hands | *Commissioned for Emergency***
+*In Your Hands* sees critically acclaimed Manchester-based artist-curator Mike Chavez-Dawson perform as Mic Alche with a one-to-one palmistry service where he will scrutinise your artistic temperament & success from the creases of your hands and the veins in the whites of your eyes.
+
+Mic Alche’s regalia sees him don a René Magritte inspired overcoat & bowler and a gold painted face (*ref: Beuys, How to Explain Pictures to a Dead Hare*). In addition to his reading, each willing participant will receive a hand-map painting of her/his hands as a keepsake for taking part.
+
+Mike Chavez-Dawson is an artist-curator based at Rogue Artists' Studios, Manchester. He instigated and curated the critically acclaimed shows *Unrealised Potential* and David Shrigley's solo show entitled *HOW ARE YOU FEELING?* for Cornerhouse (2012–13). More recently his extraordinary proposal *Beyond the Medium, A Rake’s Dream…* made the 100 favorite proposals for Artangel *OPEN 2013.
+
+Chavez-Dawson tends to present 'propositional works' that retain a healthy skepticism for participation and interpretation; this is usually through multi-part works that sit between performance(-art) and curation, often revealing the myth of the artist's vision as against the audience's reading.
+[www.mikechavezdawson.com](http://www.mikechavezdawson.com)  
+![Mike Chavez-Dawson](mike_cd.jpg)
+ 
+**Zimmermann/Singh | Melancholy Machines**
+A live improvised dialogue between electronic sound and voice and the projected image; an artistic collaboration between Jason Singh and Maike Zimmermann.
+Based on a loose principal narrative, *Melancholy Machines* develops a non-linear form from the live and improvised interaction between the Sound Artist (Jason Singh) and the Filmmaker/Visual Artist (Maike Zimmermann). The combination of sonic textures and poetic imagery unfolds new arrangements, suggesting references to mythologies, social norms, gender roles, the (post-)digital age and the complex relationship between gender, self and power.
+
+At Emergency, *Melancholy Machines* is presented as a 3-channel video installation; this unique approach is the result of the hybrid character of the project's concept i.e. the inherent (non-linear) narrativity residing in the material.
+
+Jason Singh is a Beatboxer, Vocal Sculptor and Sound Artist whose work is rooted in inspiring people to engage in exciting creative experiences through the breath, technology, performance and participation. Using his breath, voice and a range of samplers and loop pedals, he can vocally recreate sound and music compositions mimicking a wide range of instruments, genres, atmospheres, wildlife, and abstract experimental sonic textures. Jason composes music for film, theatre, dance and facilitates sound and music workshops to young people and adults. These include Beatboxing, Sound Design and Music Production. He is an Associate Lecturer at the Manchester Metropolitan University and has also recently completed a six-month sound art residency at the V&A Museum.
+
+Maike Zimmermann's work is image-based (photo, video, 16mm, super8) — creating experimental films and video, photographic or site-specific installations. Amongst others she has also made sound recordings for experimental radio shows. Her work has been shown internationally including exhibitions in Barcelona, Berlin, London, San Francisco, St Petersburg and Stockholm. She has been contributing images and videos to publications and channels such as Creative Review, The Guardian/Observer, Vogue online, DAZEDdigital, frieze magazine, Islamic Art Magazine, BBC, ITV, ARTE (Tracks) and many more. In 2011/2012 she was artist in residence at no.w.here, an artist film space in London, and has been employed at the V&A as a video content producer, video editor and photographer. In January 2013 she began a three-month residency program at Harvestworks (New Media Arts Centre) in New York.
+![Zimmermann/Singh](zimmerman_singh.jpg)
+ 
+**Sarah Boulton | Present**
+A one-minute sound recording of the most silent place on Earth is offered to you to keep.
+
+*"I make situation-specific interventions in public spaces. A lot of them are carried out unannounced and unknown to the contemporary audience. The 'work' may then exist in various spaces both before or after its happening; its script may be told via word-of-mouth or printed onto business cards, it may sit in somebody's email inbox or be disseminated into the world at its own pace as the nail varnish that I wear chips away."*
+
+Sarah Boulton currently studies on the MFA Fine Art Media programme at the Slade School of Art.
+[www.sarah-boulton.co.uk ](http://www.sarah-boulton.co.uk)
+![Sarah Boulton](sarah_boulton_present.jpeg)
+ 
+**Collective Unconscious | 5am Saint**
+An an invitation for you to explore a different, more sensuous mode of being with a single performer. Leave your identity at the door and bring only your senses and your desires to a co-exploration of intimacy.
+
+Collective Unconscious have shown work as part of  Franko B's Untouchable platform, Tempting Failure, and recently were co-collaborators on a major performance installation at this year's Roskilde Festival.
+
+Dr Mark Ellis has been creating immersive, interactive performances with Collective Unconscious since 2010, he has performed at Tempting Failure (April 2013), The Franko B curated Untouchable (November 2012), Performing Porn (July 2013) and was one of two lead artists on a major interactive performance installation entitled The Velvet State manifested at this year's Roskilde Festival in Denmark. Mark lectures at the Universities of Worcester and Wolverhampton and has recently completed his PhD studying the relationship between reality and fiction in immersive theatre through practice.
+[http://collectiveunconscious.co.uk](http://collectiveunconscious.co.uk)
+![Collective Unconscious](collective unconscious.jpg)
+ 
+**Paul Hurley | If I Were You | *Outside on
+Hulme Street***
+Paul Hurley makes performances that are equally arduous and ridiculous. He is interested in exploring the relationships that bring us together and the actions that we use to make meaning in our lives.
+
+For this new piece of work, Paul wants to run. He wants to run for the things he cares about, for the things you care about. He wants to know what it is that keeps us going, what we're prepared to do for other people and what good that might even do anyway.
+
+Paul Hurley is interested in ritual and connection, and in absurdity and humour. He has been making performance art in galleries, theatres and public spaces since 2002, and has more recently been interested in participatory and socially-engaged projects. He has shown work across the UK and in numerous international contexts, and has made collaborations with artists across a range of disciplines.
+[http://paulhurley.org](http://paulhurley.org)
+ 
+**Geranium Theatre Co | Loose Soul**
+*Pinky has done something incredible: she has created the life she's always wanted; a life where she has a body of a supermodel and everyone adores her. There is just one catch: it only exists online. Welcome down the rabbit hole called cyberspace, where troubles melt like lemon drops and dreams really do come true.*
+
+*Loose Soul* is a solo performance that blends poetry, storytelling and improvisation which aims to question how we 'perform' our gender identities online; is the Internet a platform where we can transcend our physical limitations? 
+
+The piece came third in the Soho Young Writer’s Award 2013 and is currently being developed for a full length stage production in 2014.
+
+Melody Parker, performer and writer, is currently studying theatre & performance at Goldsmiths and has previously performed at venues includng Dramaten, The Wharf Theatre, Latitude Festival and Camden Fringe festival in London.
+
+Sivert Lendorph, director, is also studying theatre & performance, and has previous experience from Copenhagen's fringe scene. He recently won the BFI Can Maker's Film Competition.
+[http://geraniumtheatreco.tumblr.com](http://geraniumtheatreco.tumblr.com) | [melodyparker.tumblr.com](http://melodyparker.tumblr.com)
+                         
 ####Venue + Booking Details          
 Date: Saturday 5 October 2013, 12noon-4pm           
 [Venue: BLANKSPACE](http://blankmediacollective.org/about-us), 43 Hulme Street, Manchester M15 6AW                
