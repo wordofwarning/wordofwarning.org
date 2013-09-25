@@ -78,9 +78,18 @@ Mic Alche’s regalia sees him don a René Magritte inspired overcoat & bowler a
 Mike Chavez-Dawson is an artist-curator based at Rogue Artists' Studios, Manchester. He instigated and curated the critically acclaimed shows *Unrealised Potential* and David Shrigley's solo show entitled *HOW ARE YOU FEELING?* for Cornerhouse (2012–13). More recently his extraordinary proposal *Beyond the Medium, A Rake’s Dream…* made the 100 favorite proposals for Artangel *OPEN* 2013.                
 
 Chavez-Dawson tends to present 'propositional works' that retain a healthy skepticism for participation and interpretation; this is usually through multi-part works that sit between performance(-art) and curation, often revealing the myth of the artist's vision as against the audience's reading.              
-[www.mikechavezdawson.com](http://www.mikechavezdawson.com)              
-![Mike Chavez-Dawson](mike_cd.jpg)
- 
+[www.mikechavezdawson.com](http://www.mikechavezdawson.com)                
+![Mike Chavez-Dawson](mike_cd.jpg)                
+                     
+**Sarah Boulton | Present**                   
+A one-minute sound recording of the most silent place on Earth is offered to you to keep.                    
+                      
+*"I make situation-specific interventions in public spaces. A lot of them are carried out unannounced and unknown to the contemporary audience. The 'work' may then exist in various spaces both before or after its happening; its script may be told via word-of-mouth or printed onto business cards, it may sit in somebody's email inbox or be disseminated into the world at its own pace as the nail varnish that I wear chips away."*                 
+                     
+Sarah Boulton currently studies on the MFA Fine Art Media programme at the Slade School of Art.                   
+[www.sarah-boulton.co.uk ](http://www.sarah-boulton.co.uk)               
+![Sarah Boulton](sarah_boulton_present.jpg)                
+                 
 ####Venue + Booking Details          
 Date: Saturday 5 October 2013, 12noon-4pm           
 [Venue: BLANKSPACE](http://blankmediacollective.org/about-us), 43 Hulme Street, Manchester M15 6AW                
