@@ -102,7 +102,27 @@ in New York.
 Recently graduated from Dartington College of Arts / Falmouth University, Chloë Smith is an artist interested in making work that is honest, intimate and socially relevant. Her recent projects have included a month-long residency in South London looking at home, and a site-specific work in a derelict house.    
 [www.chloesmith.net](http://www.chloesmith.net)    
 
-![Chloë Smith](chloe_smith.jpg)   
+![Chloë Smith](chloe_smith.jpg)    
+   
+**Lucy Hutson | Britney Spears custody battle vs. Zeus in swan rape shocker**    
+*I’ve been worrying about which way to go, what books to believe, and the cleanliness of my thoughts; I’ve been obsessing about getting it wrong and hoping that none of it matters. This is a show about fashion and God and hygiene and how much I love you.*    
+  
+Lucy Hutson is a London-based artist who has been making work since 2008. Her work engages with capitalism and gender. She works with found objects and unloved artefacts. Lucy Hutson has performed in the genres of intervention, installation, one-on-one and solo shows. These works have been seen as part of SPILL Festival of Performance, and Arches Live. Her collaborations include Kinetic Aesthetic and the
+Monkey United Freedom Force.    
+
+![Lucy Hutson](lucy_hutson.jpg)    
+
+**PartSuspended | Clepsydra**    
+*How is time experienced in a city's environment? Whilst everything moves constantly and rapidly around us, how scary is a moment of pause? What does it mean to measure time, to look at the past, to
+search for the present moment, and to look towards the future? Time entails light, joy, creation, luck and wisdom, but also darkness, misfortune, destruction and death.*    
+
+*Clepsydra* invites you to experience time as a collection of absurd, poetic, humorous and intense moments.    
+
+PartSuspended is a multidisciplinary group that addresses issues emerging from the contemporary way of living through physical and visual devised theatre. PartSuspended has pursued innovative work through devising, which challenges the conventional performance narrative and looks for inspiration in everyday life. In PartSuspended
+projects fragmentation, physicality, impulse and audience participation often appear leading to dynamic performances that ask both performers and audience to engage with imaginative approaches of creating and experiencing performance. They consider the devising process itself as a key part of the final performance piece because of its transformative effect on those involved.    
+[www.partsuspended.com](http://www.partsuspended.com)    
+![PartSuspended](partsuspended.jpg)    
+
 
        
 ####Venue + Booking Details          
