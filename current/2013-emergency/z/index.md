@@ -179,12 +179,11 @@ Dirty Shade is a new performance collaboration between Selina Mosinski and Danie
 
 Daniel Hunt is a Nottingham based artist / performer. He is a member of Third Space Studios and teaches on the Drama Programme at Lincoln University. His work centres around the possibilities that forms of collaboration offer the creative performance maker, focussing on techniques and processes of improvisation, and the unique contribution of the performer. Many works are concerned with the manipulation and
 orchestration of diverse but simple materials, elements or components to create a complex whole. Recent gallery and out-door based work has been more conceptual in nature, exploring notions of ritual, communication and rule-based structures, as well as rural and traditional performative identities and customs. Recent performance
-work has been presented at (amongst others) Hoopla! at Sugarhouse Studios, London, the Stockton International Riverside Festival, South Hill Park, Bracknell, LIFT Molten Festival, The Whitstable Biennale, and Watch This Space at the National Theatre.
+work has been presented at (amongst others) Hoopla! at Sugarhouse Studios, London, the Stockton International Riverside Festival, South Hill Park, Bracknell, LIFT Molten Festival, The Whitstable Biennale, and Watch This Space at the National Theatre.    
 
 Selina Mosinski is a Performer/Artist currently working with Stipe and Day, a performance collaboration that centres round surreal and fragmented views on contemporary culture, Wayward Company which is in the process of releasing a pilot of a satirical drama based around Nottingham life and Dirty Shade. Previous work has been showcased at Hatch, Reactor Halls and the recently released trailer for the Nottingham book Hello I’m Here. She has assisted at a number of Nottingham performance events including platform events at Backlit Gallery and Hatch Nottingham and is currently working with Nottingham Art Organisation.    
 
-[www.dirtyshade.tumblr.com](http://www.dirtyshade.tumblr.com) |
-[www.danielhunt.org](http://www.danielhunt.org)    
+[www.dirtyshade.tumblr.com](http://www.dirtyshade.tumblr.com) |[www.danielhunt.org](http://www.danielhunt.org)    
 
 ![Dirty Shage](hdpe.jpg)    
 
@@ -203,6 +202,39 @@ Nathan Birkinshaw is best known, if he's known at all, as one half of Matt & Nat
 Sheep Knuckle is a collaborative effort by live artists Patrick Confrey and James Monaghan, interested in making contemporary performance / live art across the creative spectrum using interactive media and the 'self' to challenge and de-construct traditional dramaturgy.    
 
 ![SheepKnuckle](SheepKnuckle.png)    
+
+**Small Acts | Stitches in Time**    
+In a sparse object landscape a woman tries to construct some meaning with her sewing machine.    
+
+*What meaning do we make with the tools we have to hand?*    
+
+[juliawilson.vpweb.co.uk](http://juliawilson.vpweb.co.uk)    
+
+**Lindsay Bennett | 6:41pm Mercury Complex**    
+Lindsay Bennett recalls a moment aged 5 when she told her Mother:    
+*When I grow up, I want to be Freddie Mercury.*    
+
+A hairbrush, an audience of porcelain dolls and a Hitachi 22inch television; an autobiographical solo performance that narrates a reminiscence of youthful aspirations lined with fragmented accounts of music and love. A retrospective personal story punctuated with nostalgia, sobriety and what could have been...   
+
+Lindsay Bennett is a mature student presently undertaking her final year at The University of Central Lancashire studying Contemporary Theatre and Performance. Lindsay has a varied spectrum of performance diversity with a history in black light puppetry, burlesque, screen acting and magic. Lindsay has been an active volunteer in previous hÅb/Word of Warning events and her most recent public performance work
+within the Contemporary Arts framework was her durational live art installation *Inverted Gray*, performed at 'Poolside Emergency earlier this year at the Bluecoat. in Liverpool. Lindsay is currently undertaking a UK tour over the Summer as a black light puppeteer and in pre-production for an independent film project titled *Lenny and her*
+to be filmed in early September 2013. She would like to thank Dr Lena Simic and Krissi Musiol for their advice and guidance in the process of making this piece.    
+
+![Lindsay Bennett](Lindsay_Bennett.jpg)    
+
+**Drunken Chorus | Just Like Larry Walters**    
+Sheena is blowing up balloons. She wants there to be a party. She wants everybody to dance.    
+Chris wants us to slow down. He wants us to take a balloon each, and float up high over the city: over deserts, over jungles, over mountains.    
+Performed by Chris Williams and Sheena Holliday.    
+
+Drunken Chorus is a contemporary performance company working across a variety of forms, including theatre, cabaret events and durational pieces; their work has been shown at earlier Emergency's, greenroom,vMayfest, Live at LICA, Chelsea Theatre, Leicester Square Theatre, Forest Fringe, Northern Ballet / Leeds Met Studio, the Bluecoat. and Warwick Arts Centre. Drunken Chorus also run DRUNKEN NIGHTS - a project supporting early career artists to create work for pubs and bars. The company has performed throughout the UK, as well as in Poland and Sweden.    
+
+Chris Williams is the Artistic Director of the company, and has also worked with Forced Entertainment and Kings of England.   
+Sheena Holliday recently joined Drunken Chorus as Co-Director of the company. She is also a filmmaker, writer and community artist.    
+
+[www.drunkenchorus.co.uk](http://www.drunkenchorus.co.uk)    
+
+![Drunken Chorus](drunken_chorus.jpg)    
 
 ####Venue + Booking Details          
 Date: Saturday 5 October 2013, 3pm-11pm               
