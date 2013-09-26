@@ -66,13 +66,11 @@ PartSuspended is a multidisciplinary group addressing issues emerging from the c
 ![PartSuspended](partsuspended.jpg)    
                 
 **Paul O'Donnell | So Far West**    
-A show led by a cowboy, a real, REAL cowboy. Using everything he owns — his horse, his mystery, his gun, his fancy clothes, his secretive ways —the man and the myth will stand in front of you, and will prove himself.     
+A show led by a cowboy, a real, REAL cowboy. Using everything he owns — his horse, his mystery, his gun, his fancy clothes, his secretive ways — the man and the myth will stand in front of you, and will prove himself; join him to discover the truth about the rootin' tootin' cowboy deep down inside everyone.     
               
-*This bar IS a saloon. You ARE Buffalo Bill / the Sheriff / the Bad Cowboy / the Town Whore.*            
-                
-Join him to discover the truth about the rootin’ tootin’ cowboy deep down inside everyone.       
+*This bar IS a saloon. You ARE Buffalo Bill / the Sheriff / the Bad Cowboy / the Town Whore.*           
         
-Paul O’Donnell is a recent graduate of Contemporary Theatre & Performance at MMU Cheshire — *So Far West* originated from his final year of study and has since been presented at a festival in Portugal; Paul will continue to tour with Sleepwalk Collective this November.    
+Paul O'Donnell is a recent graduate of Contemporary Theatre & Performance at MMU Cheshire — *So Far West* originated from his final year of study and has since been presented at a festival in Portugal; Paul will continue to tour with Sleepwalk Collective this November.    
 ![Paul O'Donnell](paul_odonnell.jpg)    
                  
 **The Same, But Different | THE WEDDING \[I DO I\]**    
