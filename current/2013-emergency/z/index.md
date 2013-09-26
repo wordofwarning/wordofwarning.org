@@ -155,7 +155,8 @@ A musician initiates an ambient soundscape alongside an artist drawing a paintin
 Manoli Moriaty is a Manchester based sound artist & composer of noise and electroacoustic music, performer/producer of techno & electronica, and researcher of collaborative performance. Born in Athens, he attended the University of Salford in 2005, where he completed BA Popular Music & Recording and MA Music Composition, after having also studied architecture at the University of Huddersfield. Up until his postgraduate studies, he was involved as performer and promoter in Manchester’s most popular club events, playing alongside and supporting world renowned DJs and EDM artists. After compiling a two-year portfolio of mostly conceptual minimal compositions, he is currently concentrating on researching interdisciplinary arts through collaborative performance and interactive sonic installations. Most recently, his work has been performed internationally, including the
 EU funded Listening Cities collection of works in Salford and Corfu.    
 
-[http://metanast.wordpress.com](http://metanast.wordpress.com)
+[http://metanast.wordpress.com](http://metanast.wordpress.com)    
+
 ![Manoli Moriaty](manoli_moriaty.jpg)    
 
 **Voris/Buchanan | clog clog**    
@@ -167,8 +168,41 @@ Amy Voris is a dance-artist recently relocated to Manchester. Her practice is pr
 
 James Buchanan plays several instruments including piano, saxophone and guitar amongst others. His passion is music composition and he works in a number of genres, including folk, death metal, jazz and contemporary classical. He studied Music at Goldsmiths, University of London and is currently studying part-time to complete his doctoral thesis in computer - assisted composition at Middlesex University. He is a member of both CoMA London Ensemble and Graphite, a group of five composer-performers who perform their own music alongside works by other contemporary composers.     
 
-[www.amyvoris.com](http://www.amyvoris.com)
+[www.amyvoris.com](http://www.amyvoris.com)    
+
 ![clog](Clog.jpg)    
+
+**Dirty Shade | HDPE (High-density polyethylene)**    
+Fetish, provocation, petrochemical plasic container manufaction, sex, and the text. A seductive ritual of textual play, the fetishisation of sound, and the persuasive pleasures of plastic...    
+
+Dirty Shade is a new performance collaboration between Selina Mosinski and Daniel Hunt. Recent performances have taken place at Edinburgh Fringe Festival’s PEEP / Anatomy, Upstairs at the Western, Leicester and The Chameleon Arts Café, Nottingham.    
+
+Daniel Hunt is a Nottingham based artist / performer. He is a member of Third Space Studios and teaches on the Drama Programme at Lincoln University. His work centres around the possibilities that forms of collaboration offer the creative performance maker, focussing on techniques and processes of improvisation, and the unique contribution of the performer. Many works are concerned with the manipulation and
+orchestration of diverse but simple materials, elements or components to create a complex whole. Recent gallery and out-door based work has been more conceptual in nature, exploring notions of ritual, communication and rule-based structures, as well as rural and traditional performative identities and customs. Recent performance
+work has been presented at (amongst others) Hoopla! at Sugarhouse Studios, London, the Stockton International Riverside Festival, South Hill Park, Bracknell, LIFT Molten Festival, The Whitstable Biennale, and Watch This Space at the National Theatre.
+
+Selina Mosinski is a Performer/Artist currently working with Stipe and Day, a performance collaboration that centres round surreal and fragmented views on contemporary culture, Wayward Company which is in the process of releasing a pilot of a satirical drama based around Nottingham life and Dirty Shade. Previous work has been showcased at Hatch, Reactor Halls and the recently released trailer for the Nottingham book Hello I’m Here. She has assisted at a number of Nottingham performance events including platform events at Backlit Gallery and Hatch Nottingham and is currently working with Nottingham Art Organisation.    
+
+[www.dirtyshade.tumblr.com](http://www.dirtyshade.tumblr.com) |
+[www.danielhunt.org](http://www.danielhunt.org)    
+
+![Dirty Shage](hdpe.jpg)    
+
+
+**Nathan Birkinshaw | That Night Recurring (A work in progress)**    
+*There’s a man at the bar, he's asking for you again.*    
+
+Nathan Birkinshaw is best known, if he's known at all, as one half of Matt & Nath, a performance duo who never quite made it. He considers himself a social commenter on subjects such as never quite realising your full potential and the lack of bins in train stations.    
+![Nathan Birkinshaw](nathan_birkinshaw.jpg)    
+
+**SheepKnuckle | Echo**    
+*Do not answer back. Raise your right hand if you can hear me. Good.*    
+
+*Echo* is a performance about the relevance of the live in a mediatised society and the impending connection between humans and their electronic shadow, their mobile devices.    
+
+Sheep Knuckle is a collaborative effort by live artists Patrick Confrey and James Monaghan, interested in making contemporary performance / live art across the creative spectrum using interactive media and the 'self' to challenge and de-construct traditional dramaturgy.    
+
+![SheepKnuckle](SheepKnuckle.png)    
 
 ####Venue + Booking Details          
 Date: Saturday 5 October 2013, 3pm-11pm               
