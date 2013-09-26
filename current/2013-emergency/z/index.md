@@ -123,8 +123,8 @@ projects fragmentation, physicality, impulse and audience participation often ap
 [www.partsuspended.com](http://www.partsuspended.com)    
 ![PartSuspended](partsuspended.jpg)    
 
-**Paul O'Donnell | So Far West**
-*So Far West* is a show led by a cowboy, a real, REAL cowboy. Using everything he owns — his horse, his mystery, his gun, his fancy clothes, his secretive ways… — the man and the myth will stand in front of you, and will prove himself. This bar IS a saloon. You ARE Buffalo Bill/ the Sheriff/ the Bad Cowboy/the Town Whore. Join him to discover the truth about the rootin’ tootin’ cowboy deep down inside everyone.    
+**Paul O'Donnell | So Far West**    
+*So Far West* is a show led by a cowboy, a real, REAL cowboy. Using everything he owns - his horse, his mystery, his gun, his fancy clothes, his secretive ways  - the man and the myth will stand in front of you, and will prove himself. This bar IS a saloon. You ARE Buffalo Bill/ the Sheriff/ the Bad Cowboy/the Town Whore. Join him to discover the truth about the rootin’ tootin’ cowboy deep down inside everyone.    
 
 Paul O’Donnell is a recent graduate of Contemporary Theatre and Performance at Manchester Metropolitan University, this performance being one that originated from his final year of study. Since then, Paul has brought *So Far West* to a festival in Portugal, and will continue to tour with Sleepwalk Collective in November.    
 ![Paul O'Donnell](paul_odonnell.jpg)    
@@ -147,8 +147,29 @@ Thanks to Sarah Readman for all her technical and administrative expertise.
 
 ![I do I](same_but.jpg)    
 
+**Manoli Moriaty | Symbiosis**    
+The biological phenomenon of symbiosis refers to mutually beneficial relationships between organisms of different species. Unlikely pairings working towards a common goal is the core concept of this cross-art audiovisual performance, aligning two artists of different disciplines within a novel art form.    
 
-       
+A musician initiates an ambient soundscape alongside an artist drawing a painting inspired by the sonic environment, which in turn is affected by the artist’s gestures through wireless motion sensors. The outcome is a feedback loop between the contrasting artists, resulting in an obligate relationship where removing one party would render the other bland and inanimate.    
+
+Manoli Moriaty is a Manchester based sound artist & composer of noise and electroacoustic music, performer/producer of techno & electronica, and researcher of collaborative performance. Born in Athens, he attended the University of Salford in 2005, where he completed BA Popular Music & Recording and MA Music Composition, after having also studied architecture at the University of Huddersfield. Up until his postgraduate studies, he was involved as performer and promoter in Manchester’s most popular club events, playing alongside and supporting world renowned DJs and EDM artists. After compiling a two-year portfolio of mostly conceptual minimal compositions, he is currently concentrating on researching interdisciplinary arts through collaborative performance and interactive sonic installations. Most recently, his work has been performed internationally, including the
+EU funded Listening Cities collection of works in Salford and Corfu.    
+
+[http://metanast.wordpress.com](http://metanast.wordpress.com)
+![Manoli Moriaty](manoli_moriaty.jpg)    
+
+**Voris/Buchanan | clog clog**    
+A performance between a woman, a red rug and a cascade of sound.    
+
+The work develops a long-standing collaboration between composer James Buchanan and choreographer Amy Voris. Made with support from Clarence Mews (London), Coventry University and the University of Chichester.    
+
+Amy Voris is a dance-artist recently relocated to Manchester. Her practice is process-oriented and collaborative. She works regularly with photographer Christian Kipp, composer James Buchanan, lighting designer Cath Cullinane and has ongoing creative relationships with dance artists Meghan Flanigan, Caroline Salem and Natalie Garrett. For her choreographic work she has received support from Chisenhale Dance Space, Falling Wide, Dance Northwest / Exploratorium, Decoda and Arts Council England.    
+
+James Buchanan plays several instruments including piano, saxophone and guitar amongst others. His passion is music composition and he works in a number of genres, including folk, death metal, jazz and contemporary classical. He studied Music at Goldsmiths, University of London and is currently studying part-time to complete his doctoral thesis in computer - assisted composition at Middlesex University. He is a member of both CoMA London Ensemble and Graphite, a group of five composer-performers who perform their own music alongside works by other contemporary composers.     
+
+[www.amyvoris.com](http://www.amyvoris.com)
+![clog](Clog.jpg)    
+
 ####Venue + Booking Details          
 Date: Saturday 5 October 2013, 3pm-11pm               
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA           
