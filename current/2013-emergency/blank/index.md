@@ -18,7 +18,7 @@ header_image:
 ---
 *Presented by* Word of Warning, Blank Media Collective + Z-arts *during* [Emergency 2013](/current/2013-emergency/index.html)        
           
-####In Order Of Appearance (subject to change):              
+####Order of Appearance (subject to change):              
 **lili Spain | Break on Through (to the Other Side)**                
 Pillaging elements of ancient ritual, anthropology, psychoanalysis and self-hypnosis, the work is an attempt to break through/back to an alternate state/time, and one of a series of performances marking the centenary of the publication of Sigmund Freud's controversial *Totem and Taboo* (2013).              
               
