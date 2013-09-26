@@ -47,6 +47,63 @@ inspired by interviewing those close to him and dancing alone in
 public space.    
 
 ![Will Dickie](will_dickie.jpg)    
+
+**Zimmermann/Singh | Melancholy Machines**    
+A live improvised dialogue between electronic sound and voice and the
+projected image; an artistic collaboration between Jason Singh and
+Maike Zimmermann.    
+
+Based on a loose principal narrative, *Melancholy Machines* develops a
+non-linear form from the live and improvised interaction between the
+Sound Artist (Jason Singh) and the Filmmaker/Visual Artist (Maike
+Zimmermann). The combination of sonic textures and poetic imagery
+unfolds new arrangements, suggesting references to mythologies, social
+norms, gender roles, the (post-)digital age and the complex
+relationship between gender, self and power.    
+
+At Emergency, *Melancholy Machines* is presented as a 3-channel video
+installation; this unique approach is the result of the hybrid
+character of the project's concept i.e. the inherent (non-linear)
+narrativity residing in the material.    
+ 
+Jason Singh is a Beatboxer, Vocal Sculptor and Sound Artist whose work
+is rooted in inspiring people to engage in exciting creative
+experiences through the breath, technology, performance and
+participation. Using his breath, voice and a range of samplers and
+loop pedals, he can vocally recreate sound and music compositions
+mimicking a wide range of instruments, genres, atmospheres, wildlife,
+and abstract experimental sonic textures. Jason composes music for
+film, theatre, dance and facilitates sound and music workshops to
+young people and adults. These include Beatboxing, Sound Design and
+Music Production. He is an Associate Lecturer at the Manchester
+Metropolitan University and has also recently completed a six-month
+sound art residency at the V&A Museum.    
+
+Maike Zimmermann's work is image-based (photo, video, 16mm, super8) —
+creating experimental films and video, photographic or site-specific
+installations. Amongst others she has also made sound recordings for
+experimental radio shows. Her work has been shown internationally
+including exhibitions in Barcelona, Berlin, London, San Francisco, St
+Petersburg and Stockholm. She has been contributing images and videos
+to publications and channels such as Creative Review, The
+Guardian/Observer, Vogue online, DAZEDdigital, frieze magazine,
+Islamic Art Magazine, BBC, ITV, ARTE (Tracks) and many more. In
+2011/2012 she was artist in residence at no.w.here, an artist film
+space in London, and has been employed at the V&A as a video content
+producer, video editor and photographer. In January 2013 she began a
+three-month residency program at Harvestworks (New Media Arts Centre)
+in New York.    
+
+![Zimmermann/Singh](zimmerman_singh.jpg)    
+
+**Chloë Smith | I’ve been dreaming of this since I was a boy**   
+*You cannot evict an idea. Such is the message of defiance from Occupy. But it is not entirely true. For the whole point of Occupy is that it's not just an idea bouncing around the internet. Occupy is stubbornly about the physical reality of space.* — Giles Fraser, former Canon Chancellor of St Paul's Cathedral     
+
+Recently graduated from Dartington College of Arts / Falmouth University, Chloë Smith is an artist interested in making work that is honest, intimate and socially relevant. Her recent projects have included a month-long residency in South London looking at home, and a site-specific work in a derelict house.    
+[www.chloesmith.net](http://www.chloesmith.net)    
+
+![Chloë Smith](chloe_smith.jpg)   
+
        
 ####Venue + Booking Details          
 Date: Saturday 5 October 2013, 3pm-11pm               
