@@ -123,6 +123,30 @@ projects fragmentation, physicality, impulse and audience participation often ap
 [www.partsuspended.com](http://www.partsuspended.com)    
 ![PartSuspended](partsuspended.jpg)    
 
+**Paul O'Donnell | So Far West**
+*So Far West* is a show led by a cowboy, a real, REAL cowboy. Using everything he owns — his horse, his mystery, his gun, his fancy clothes, his secretive ways… — the man and the myth will stand in front of you, and will prove himself. This bar IS a saloon. You ARE Buffalo Bill/ the Sheriff/ the Bad Cowboy/the Town Whore. Join him to discover the truth about the rootin’ tootin’ cowboy deep down inside everyone.    
+
+Paul O’Donnell is a recent graduate of Contemporary Theatre and Performance at Manchester Metropolitan University, this performance being one that originated from his final year of study. Since then, Paul has brought *So Far West* to a festival in Portugal, and will continue to tour with Sleepwalk Collective in November.    
+![Paul O'Donnell](paul_odonnell.jpg)    
+
+**The Same, But Different | THE WEDDING [I DO I]**    
+Meet Queeny and The Chancellor as they join their lives and love in Marriage.    
+
+The Same, But Different use dance routines, direct address, absurdist sketches as well as presented failure to explore what marriage might mean in the modern age. Fast paced, desperate and irreverent you may be left thinking; 'What?'   
+
+The Same, But Different is an Absurdist theatre group producing event-based performances that are both satirical and absurd. Using imagery, music, video and live performance they create an environment where all cultural reference points are made irrelevant. They are made up of performers and technicians based in Barcelona and London. Many of these performers are graduates of Rose Bruford's esteemed European
+Theatre Arts course in London, alumni including companies such as Sleepwalk Collective and Zecora Ura Theatre Network.    
+
+Lawrence Stanley (of Heywood, Greater Manchester) formed The Same, But Different in 2012 with the intention of creating new work that represents absurdist principles of performance. His particular theoretical interests regard the nature of failure in performance, the role of multi-media in performance and how chaos and juxtaposition
+might be utilised in the performance space. He has directed all The Same, But Different's 'Events', as well as working with 50 Letter's Theatre Company, Els Pirates Teatre and Smoking Apples in performances throughout Europe. He is currently based in Barcelona Spain.   
+
+Actor and Singer, Laura Pau studied at Institut del Teatre (Barcelona) and Rose Bruford College (London). Member of Els Pirates Teatre since she was 18, she's performed in festivals throughout Europe.    
+
+Thanks to Sarah Readman for all her technical and administrative expertise.    
+[www.samebutdifferenttheatre.com](http://www.samebutdifferenttheatre.com)    
+
+![I do I](same_but.jpg)    
+
 
        
 ####Venue + Booking Details          
