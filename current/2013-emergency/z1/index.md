@@ -39,10 +39,8 @@ A live, improvised dialogue between electronic sound, voice and the projected im
              
 Based on a loose principal narrative, *Melancholy Machines* develops a non-linear form from the live and improvised interaction between the Sound Artist (Jason Singh) and the Filmmaker/Visual Artist (Maike Zimmermann). The combination of sonic textures and poetic imagery unfolds new arrangements, suggesting references to mythologies, social norms, gender roles, the (post-)digital age and the complex relationship between gender, self and power. Here, *Melancholy Machines* is presented as a 3-channel video installation; this unique approach is the result of the hybrid character of the project's concept i.e. the inherent (non-linear) narrativity residing in the material.    
             
-Jason Singh is a Beatboxer, Vocal Sculptor and Sound Artist whose work is rooted in inspiring people to engage in exciting creative experiences through the breath, technology, performance and participation. Using his breath, voice and a range of samplers and loop pedals, he can vocally recreate sound and music compositions mimicking a wide range of instruments, genres, atmospheres, wildlife, and abstract experimental sonic textures. Jason composes music for film, theatre, dance and facilitates sound and music workshops to young people and adults. He is an Associate Lecturer at MMU and has recently completed a 6-month sound art residency at the V&A.    
-               
-Maike Zimmermann's work is image-based (photo, video, 16mm, super8) — creating experimental films and video, photographic or site-specific installations. Amongst others she has also made sound recordings for experimental radio shows. Her work has been shown internationally and she has been contributing images and videos to publications and channels such as Creative Review, The Guardian/Observer, Vogue online, DAZEDdigital, frieze magazine, Islamic Art Magazine, BBC, ITV, ARTE (Tracks) and many more. In 2011/12 she was artist in residence at no.w.here (London), and has been employed at the V&A as a video content
-producer, video editor and photographer. In January 2013 she began a 3-month residency program at Harvestworks (New York).    
+Jason Singh is a Beatboxer, Vocal Sculptor and Sound Artist whose work is rooted in inspiring people to engage in exciting creative experiences through the breath, technology, performance and participation; using his breath, voice and a range of samplers and loop pedals, he can vocally recreate sound and music compositions mimicking a wide range of instruments, genres, atmospheres, wildlife, and abstract experimental sonic textures. Jason composes music for film, theatre, dance and facilitates sound and music workshops to young people and adults; he is an Associate Lecturer at MMU and has recently completed a 6-month sound art residency at the V&A.             
+Maike Zimmermann's work is image-based (photo, video, 16mm, super8) — creating experimental films and video, photographic or site-specific installations; amongst others she has also made sound recordings for experimental radio shows. Her work has been shown internationally and she has contributed images and videos to publications/channels including Creative Review, The Guardian/Observer, Vogue online, DAZEDdigital, frieze magazine, Islamic Art Magazine, BBC, ITV, ARTE (Tracks). In 2011/12 she was artist in residence at no.w.here (London), and has been employed at the V&A as a video content producer, video editor and photographer; in January 2013 she began a 3-month residency program at Harvestworks (New York).    
 ![Zimmermann/Singh](zimmerman_singh.jpg)    
               
 **Chloë Smith | I’ve been dreaming of this since I was a boy**   
@@ -68,19 +66,25 @@ PartSuspended is a multidisciplinary group addressing issues emerging from the c
 ![PartSuspended](partsuspended.jpg)    
                 
 **Paul O'Donnell | So Far West**    
-*So Far West* is a show led by a cowboy, a real, REAL cowboy. Using everything he owns — his horse, his mystery, his gun, his fancy clothes, his secretive ways —the man and the myth will stand in front of you, and will prove himself. *This bar IS a saloon. You ARE Buffalo Bill / the Sheriff / the Bad Cowboy / the Town Whore.* Join him to discover the truth about the rootin’ tootin’ cowboy deep down inside everyone.       
+A show led by a cowboy, a real, REAL cowboy. Using everything he owns — his horse, his mystery, his gun, his fancy clothes, his secretive ways —the man and the myth will stand in front of you, and will prove himself.     
+              
+*This bar IS a saloon. You ARE Buffalo Bill / the Sheriff / the Bad Cowboy / the Town Whore.*            
+                
+Join him to discover the truth about the rootin’ tootin’ cowboy deep down inside everyone.       
         
 Paul O’Donnell is a recent graduate of Contemporary Theatre & Performance at MMU Cheshire — *So Far West* originated from his final year of study and has since been presented at a festival in Portugal; Paul will continue to tour with Sleepwalk Collective this November.    
 ![Paul O'Donnell](paul_odonnell.jpg)    
                  
-**The Same, But Different | THE WEDDING /[I DO I/]**    
+**The Same, But Different | THE WEDDING \[I DO I\]**    
 Meet Queeny and The Chancellor as they join their lives and love in Marriage.    
         
 The Same, But Different use dance routines, direct address, absurdist sketches and presented failure to explore what marriage might mean in the modern age. Fast paced, desperate and irreverent you may be left thinking 'What?'.   
                     
 An Absurdist theatre group producing event-based performances that are both satirical and absurd, they use imagery, music, video and live performance to create an environment where all cultural reference points are made irrelevant.          
                
-Lawrence Stanley formed The Same, But Different in 2012 with the intention of creating new work that represents absurdist principles of performance. His particular theoretical interests regard the nature of failure in performance, the role of multi-media in performance and how chaos and juxtaposition might be utilised in the performance space. Currently based in Barcelona, he also works with 50 Letter's Theatre Company, Els Pirates Teatre and Smoking Apples in performances throughout Europe. Laura Pau is a member of Els Pirates Teatre, studied at Institut del Teatre (Barcelona) and Rose Bruford College (London), and has performed in festivals throughout Europe.          
+Lawrence Stanley formed The Same, But Different in 2012 with the intention of creating new work that represents absurdist principles of performance. His particular theoretical interests regard the nature of failure in performance, the role of multi-media in performance and how chaos and juxtaposition might be utilised in the performance space. Currently based in Barcelona, he also works with 50 Letter's Theatre Company, Els Pirates Teatre and Smoking Apples in performances throughout Europe.          
+Laura Pau is a member of Els Pirates Teatre, studied at Institut del Teatre (Barcelona) and Rose Bruford College (London), and has performed in festivals throughout Europe.          
+                  
 Thanks to Sarah Readman for all her technical and administrative expertise.       
 [www.samebutdifferenttheatre.com](http://www.samebutdifferenttheatre.com)    
 ![I do I](same_but.jpg)    
