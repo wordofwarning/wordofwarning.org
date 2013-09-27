@@ -29,10 +29,10 @@ Selina Mosinski is a performer/artist currently working with: Stipe and Day, a p
 [www.dirtyshade.tumblr.com](http://www.dirtyshade.tumblr.com) | [www.danielhunt.org](http://www.danielhunt.org)    
 ![Dirty Shage](hdpe.jpg)    
          
-**Voris/Buchanan | clog clog**    
+**Voris/Buchanan | clog**    
 A performance between a woman, a red rug and a cascade of sound.      
              
-*clog clog* develops a long-standing collaboration between composer James Buchanan and choreographer Amy Voris; made with support from Clarence Mews (London), Coventry University and the University of Chichester.    
+*clog* develops a long-standing collaboration between composer James Buchanan and choreographer Amy Voris; made with support from Clarence Mews (London), Coventry University and the University of Chichester.    
             
 Amy Voris is a dance-artist recently relocated to Manchester. Her practice is process-oriented and collaborative; she works regularly with photographer Christian Kipp, composer James Buchanan, lighting designer Cath Cullinane and has ongoing creative relationships with dance artists Meghan Flanigan, Caroline Salem and Natalie Garrett. For her choreographic work she has received support from Chisenhale Dance Space, Falling Wide, Dance Northwest / Exploratorium, Decoda and Arts Council England.       
 James Buchanan plays several instruments including piano, saxophone and guitar amongst others. His passion is music composition and he works in a number of genres, including folk, death metal, jazz and contemporary classical. He studied Music at Goldsmiths, University of London and is currently studying part-time to complete his doctoral thesis in computer-assisted composition at Middlesex University. He is a member of both CoMA London Ensemble and Graphite.     
