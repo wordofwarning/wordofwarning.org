@@ -28,7 +28,7 @@ Last year we taped performers to windows, played a uniquely guttural rendition
 
 Drop-in for ten minutes or stay for the full eleven hours — a free day-out for the curious with over twenty-five new works; featuring artists (subject to change, still being confirmed):        
         
-Maiada aBOUD | Lindsay Bennett | Nathan Birkinshaw | Sarah Boulton | Kerry Carroll | Collective Unconscious | Will Dickie | Dirty Shade | Drunken Chorus | Frances-Kay | Geranium Theatre Co | Paul Hurley | Lucy Hutson | Lotta SCAF | Manoli Moriaty | Paul O'Donnell | PartSuspended | Beth J Ross | SheepKnuckle  | Small Acts | Chloë Smith | lili Spain | The Same, But Different | Voris/Buchanan | Zimmermann/Singh      
+Maiada aBOUD | Lindsay Bennett | Nathan Birkinshaw | Sarah Boulton | Kerry Carroll | Collective Unconscious | Dirty Shade | Drunken Chorus | Frances-Kay | Geranium Theatre Co | Paul Hurley | Lucy Hutson | Lotta SCAF | Manoli Moriaty | Paul O'Donnell | PartSuspended | Beth J Ross | SheepKnuckle  | Small Acts | Chloë Smith | lili Spain | The Same, But Different | Voris/Buchanan | Zimmermann/Singh      
 *Plus commissioned works from* Rebecca Bowley + Mike Chavez-Dawson.       
        
 *Sniff out* Dove *— an ambient intervention by* Sarah Boulton*, who has invited all our participating artists to smell the same.*
