@@ -19,14 +19,6 @@ header_image:
 *Presented by* Word of Warning, Blank Media Collective + Z-arts *during* [Emergency 2013](/current/2013-emergency/index.html)    
         
 ####Order of Appearance (subject to change):      
-**Will Dickie | Long Distance Relationship |** *Outside on Dearden Street*       
-A one-to-one performance in a public space. A meditative exploration of togetherness and separation. An appreciation of the other as a figure in dialogue with the background that surrounds it.             
-          
-*Take a cassette, stand on this spot, look out at the landscape, and wait.*     
-             
-Will Dickie is a performance-maker based in the suburbs of London whose practice is supported by a long-term commitment to training and self development, which includes Martial Arts, Butoh Dance and the Suzuki Actor Training Method; his performance work spans theatre, dance, and interdisciplinary collaboration, including extensive work with Tadashi Endo, Diego Ferrari, Jo Shapland and Zecora Ura. Making his first solo performance work, *Memories of Suburbia*, in 2012 with an awarded bursary from Chisenhale Dance Space, he is now artist in residence at BAC developing his second solo, *Man in Helmet in the Landscape*; both pieces are inspired by interviewing those close to him and dancing alone in public space.    
-![Will Dickie](will_dickie.jpg)    
-              
 **Frances-Kay | Scaffold**    
 Previously seen at this year's ['Poolside Emergency](/archive/2013-poolside/durationala) Frances-Kay's first installation, *Scaffold*, is inspired by her interest of the impact of duration on the body and mind. It embodies her explorations of the body, mind, and interests in religion and feminism; it represents her excitement of performing on high structures and the slight possibility of danger.    
              
