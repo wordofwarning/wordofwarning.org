@@ -123,6 +123,7 @@ Date: Saturday 5 October 2013, 12noon-4pm
 [Venue: BLANKSPACE](http://blankmediacollective.org/about-us), 43 Hulme Street, Manchester M15 6AW                
 Tickets: FREE no booking required                
 Venue Tel: 0161 222 6164         
-          
+NB. Thanks to building works, Hulme Street has been bisected by a large grey wall. To reach BLANKSPACE, follow the diversion signs, or on foot, arrive via Medlock Street (see [map](http://bit.ly/1bFUlqt)).    
+         
 ####Credits           
 Co-produced by [hÅb](/hab/index.html), [Blank Media Collective](http://www.blankmediacollective.org) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.
