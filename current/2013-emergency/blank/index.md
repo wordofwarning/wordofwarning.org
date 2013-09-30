@@ -116,6 +116,7 @@ Paul Hurley is interested in ritual and connection, and in absurdity and humour.
               
 Melody Parker (performer/writer) is currently studying theatre & performance at Goldsmiths and has previously performed at venues includng Dramaten, The Wharf Theatre, Latitude Festival and Camden Fringe festival in London. Sivert Lendorph (director) also studies theatre & performance, and has previous experience from Copenhagen's fringe scene. He recently won the BFI Can Maker's Film Competition.     
 [geraniumtheatreco.tumblr.com](http://geraniumtheatreco.tumblr.com) | [melodyparker.tumblr.com](http://melodyparker.tumblr.com)    
+![Geranium Theatre](geranium.jpg)    
         
 ####Venue + Booking Details          
 Date: Saturday 5 October 2013, 12noon-4pm           
