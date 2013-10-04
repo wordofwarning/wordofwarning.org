@@ -36,15 +36,7 @@ lili has performed and exhibited at a variety of venues, including the Whitechap
 *In my work I have always tried to employ forms of resistance to the sexual and social roles that I play as a woman; the role that I have had to follow throughout my life as a way of transcending the 'unkindness' of the real circumstances, finding my identity as an artist. In my society men are meant to control everyday life as part of the patriarchal society. These reasons and many more brought me to deal with the issues of identity, gender and sexuality so as to accomplish the things that are forbidden in my family, society, and religion.*           
 [www.Maiada-Aboud.com](http://www.Maiada-Aboud.com)                 
 ![Maiada aBOUD](maiada_aboud.jpg)                 
-           
-**Kerry Carroll | All imperfect things**               
-Inspired by the 1993 film *The Piano*, this partly autobiographical work is about expression; using the body to speak, to portray your desires.            
-                      
-*I will sometimes see an image or hear music, even read something that I find striking or inspiring, something that feeds my creativity; and then I take that and perform it, express it in any way I can. I film these 'bursts' of performances and keep them. These small bursts might only be 20 seconds long, but over a period of time these bursts grow into a full-length piece.*                
-               
-*With this particular piece I drew upon a film I have always admired, for its simplicity and its dark romantic beauty. The imagery and the music gave me so much inspiration; I wanted to test the waters and perform it on stage. I had a great amount of material from my 'bursts' that married with the material I had created from the film, so I chose to make it my first solo piece of work.*                
-![Kerry Carroll](kerry_carrol.jpg)              
-                  
+            
 **Beth J Ross | Kleines Haus ii**                  
 *Kleines Haus ii* is a quiet installation where the viewer becomes the participant, and the piece. It deals with personal spaces, intimacy, our relationship to others, and asks what 'home' is.                
                             
@@ -61,7 +53,6 @@ The body becomes tired through rowing, rowing without physically being able to g
                
 Rebecca Bowley is based at Bloc Studios (Sheffield), and a Freelance Co-director/Curator for Bloc Projects Contemporary Art Space; she is also an Associate Member of Compass Live Art and Point Blank Theatre, and a Visiting Lecturer at Sheffield Hallam University.                   
 [www.beckybowleyworks.blogspot.co.uk](http://www.beckybowleyworks.blogspot.co.uk)             
-
 ![Rebecca Bowley](becky_bowley.png)           
                    
 **Lotta SCAF | Bank of Change — an Unconditional Real Trust**             
@@ -70,16 +61,15 @@ A live art act performed and developed by Sophie Frenzel; challenging the role o
 Sophie Charlotte Alexandra Frenzel, alas Lotta Vanina SCAF, is a conceptual artist and Social Entrepreneur. She strongly identifies with the practice of the FLUXUS movement, and with its representatives Valie Export and Joseph Beuys, she now is trying to find out what art can contribute to a socially, economically and ecologically balanced society; she has founded her own money Institute: *The Bank of Change — an Unconditional Real Trust*, that is in pursuit of an alternative economy for our future.                  
                   
 Sophie is co-founder and manager of the award winning Social Enterprise OXFORD ART CIRCUS.             
-                      
-                    
+      
 **Mike Chavez-Dawson | In Your Hands**            
 Commissioned for Emergency, *In Your Hands* sees critically acclaimed Manchester-based artist-curator Mike Chavez-Dawson perform as Mic Alche; with a one-to-one palmistry service he will scrutinise your artistic temperament & success from the creases of your hands and the veins in the whites of your eyes.                
                   
 Mic Alche’s regalia sees him don a René Magritte inspired overcoat & bowler and a gold painted face (*ref: Beuys, How to Explain Pictures to a Dead Hare*). In addition to his reading, each willing participant will receive a hand-map painting of her/his hands as a keepsake for taking part.               
                
-Mike Chavez-Dawson is an artist-curator based at Rogue Artists' Studios, Manchester. He instigated and curated the critically acclaimed shows *Unrealised Potential* and David Shrigley's solo show entitled *HOW ARE YOU FEELING?* for Cornerhouse (2012–13). More recently his extraordinary proposal *Beyond the Medium, A Rake’s Dream…* made the 100 favorite proposals for Artangel *OPEN* 2013.                
+Mike Chavez-Dawson is an artist-curator based at Rogue Artists' Studios, Manchester. He instigated and curated the critically acclaimed shows *Unrealised Potential* and David Shrigley's solo show entitled *HOW ARE YOU FEELING?* for Cornerhouse (2012–13). More recently his extraordinary proposal *Beyond the Medium, A Rake’s Dream…* made the 100 favorite proposals for Artangel OPEN 2013.                
                       
-Chavez-Dawson tends to present 'propositional works' that retain a healthy skepticism for participation and interpretation; this is usually through multi-part works that sit between performance(-art) and curation, often revealing the myth of the artist's vision as against the audience's reading.              
+Chavez-Dawson tends to present 'propositional works' that retain a healthy scepticism for participation and interpretation; this is usually through multi-part works that sit between performance(-art) and curation, often revealing the myth of the artist's vision as against the audience's reading.              
 [www.mikechavezdawson.com](http://www.mikechavezdawson.com)                
 ![Mike Chavez-Dawson](mike_cd.jpg)                
                      
@@ -101,6 +91,14 @@ Dr Mark Ellis has been creating immersive, interactive performances with Collect
 [collectiveunconscious.co.uk](http://collectiveunconscious.co.uk)    
 ![5am Saint](5am_Saint.jpg)    
                 
+**Kerry Carroll | All imperfect things**               
+Inspired by the 1993 film *The Piano*, this partly autobiographical work is about expression; using the body to speak, to portray your desires.            
+                      
+*I will sometimes see an image or hear music, even read something that I find striking or inspiring, something that feeds my creativity; and then I take that and perform it, express it in any way I can. I film these 'bursts' of performances and keep them. These small bursts might only be 20 seconds long, but over a period of time these bursts grow into a full-length piece.*                
+               
+*With this particular piece I drew upon a film I have always admired, for its simplicity and its dark romantic beauty. The imagery and the music gave me so much inspiration; I wanted to test the waters and perform it on stage. I had a great amount of material from my 'bursts' that married with the material I had created from the film, so I chose to make it my first solo piece of work.*                
+![Kerry Carroll](kerry_carrol.jpg)              
+               
 **Paul Hurley | If I Were You |** *Outside on Hulme Street*    
 Paul Hurley makes performances that are equally arduous and ridiculous. He is interested in exploring the relationships that bring us together and the actions that we use to make meaning in our lives.    
             
