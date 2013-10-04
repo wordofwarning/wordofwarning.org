@@ -19,6 +19,16 @@ header_image:
 *Presented by* Word of Warning, Blank Media Collective + Z-arts *during* [Emergency 2013](/current/2013-emergency/index.html)    
         
 ####Order of Appearance (subject to change)          
+**Voris / Buchanan | clog**    
+A performance between a woman, a red rug and a cascade of sound.      
+             
+*clog* develops a long-standing collaboration between composer James Buchanan and choreographer Amy Voris; made with support from Clarence Mews (London), Coventry University and the University of Chichester.    
+            
+Amy Voris is a dance-artist recently relocated to Manchester. Her practice is process-oriented and collaborative; she works regularly with photographer Christian Kipp, composer James Buchanan, lighting designer Cath Cullinane and has ongoing creative relationships with dance artists Meghan Flanigan, Caroline Salem and Natalie Garrett. For her choreographic work she has received support from Chisenhale Dance Space, Falling Wide, Dance Northwest / Exploratorium, Decoda and Arts Council England.       
+James Buchanan plays several instruments including piano, saxophone and guitar amongst others. His passion is music composition and he works in a number of genres, including folk, death metal, jazz and contemporary classical. He studied Music at Goldsmiths, University of London and is currently studying part-time to complete his doctoral thesis in computer-assisted composition at Middlesex University. He is a member of both CoMA London Ensemble and Graphite.     
+[www.amyvoris.com](http://www.amyvoris.com)    
+![clog](Clog.jpg)    
+       
 **Dirty Shade | HDPE (High-density polyethylene)**    
 Fetish, provocation, petrochemical plasic container manufaction, sex, and the text. A seductive ritual of textual play, the fetishisation of sound, and the persuasive pleasures of plastic...    
        
@@ -28,18 +38,8 @@ Daniel Hunt is a Nottingham-based artist/performer, a member of Third Space Stud
 Selina Mosinski is a performer/artist currently working with: Stipe and Day, a performance collaboration that centres round surreal and fragmented views on contemporary culture; Wayward Company, in the process of releasing a pilot of a satirical drama based around Nottingham life; and Dirty Shade. Previous work has been showcased at Hatch, Reactor Halls and the recently released trailer for the Nottingham book *Hello I’m Here*.    
 [www.dirtyshade.tumblr.com](http://www.dirtyshade.tumblr.com) | [www.danielhunt.org](http://www.danielhunt.org)    
 ![Dirty Shage](hdpe.jpg)    
-         
-**Voris/Buchanan | clog**    
-A performance between a woman, a red rug and a cascade of sound.      
-             
-*clog* develops a long-standing collaboration between composer James Buchanan and choreographer Amy Voris; made with support from Clarence Mews (London), Coventry University and the University of Chichester.    
-            
-Amy Voris is a dance-artist recently relocated to Manchester. Her practice is process-oriented and collaborative; she works regularly with photographer Christian Kipp, composer James Buchanan, lighting designer Cath Cullinane and has ongoing creative relationships with dance artists Meghan Flanigan, Caroline Salem and Natalie Garrett. For her choreographic work she has received support from Chisenhale Dance Space, Falling Wide, Dance Northwest / Exploratorium, Decoda and Arts Council England.       
-James Buchanan plays several instruments including piano, saxophone and guitar amongst others. His passion is music composition and he works in a number of genres, including folk, death metal, jazz and contemporary classical. He studied Music at Goldsmiths, University of London and is currently studying part-time to complete his doctoral thesis in computer-assisted composition at Middlesex University. He is a member of both CoMA London Ensemble and Graphite.     
-[www.amyvoris.com](http://www.amyvoris.com)    
-![clog](Clog.jpg)    
-         
-**Nathan Birkinshaw | That Night Recurring (work-in-progress)**     
+
+**Nathan Birkinshaw | That Night Recurring *(a work-in-progress)***     
 *There’s a man at the bar, he's asking for you again.*      
          
 Nathan Birkinshaw is best known, if he's known at all, as one half of Matt & Nath, a performance duo who never quite made it. He considers himself a social commentator on subjects such as "never quite realising your full potential" and "the lack of bins in train stations".    
@@ -76,7 +76,7 @@ Sheena is blowing up balloons. She wants there to be a party. She wants everybod
                    
 Chris wants us to slow down. He wants us to take a balloon each, and float up high over the city, over deserts, over jungles, over mountains.    
               
-Drunken Chorus is a contemporary performance company working across a variety of forms, including theatre, cabaret events and durational pieces; their work has been shown at earlier Emergency's, greenroom, Mayfest, Live at LICA, Chelsea Theatre, Leicester Square Theatre, Forest Fringe, Northern Ballet / Leeds Met Studio, the Bluecoat. and Warwick Arts Centre. Drunken Chorus also run DRUNKEN NIGHTS — a project supporting early career artists to create work for pubs and bars. The company has performed throughout the UK, as well as in Poland and Sweden.    
+Drunken Chorus is a contemporary performance company working across a variety of forms, including theatre, cabaret events and durational pieces; their work has been shown at earlier Emergencys, greenroom, LanWest's InTransit, Mayfest, Live at LICA, Chelsea Theatre, Leicester Square Theatre, Forest Fringe, Northern Ballet / Leeds Met Studio, the Bluecoat. and Warwick Arts Centre. Drunken Chorus also run DRUNKEN NIGHTS — a project supporting early career artists to create work for pubs and bars. The company has performed throughout the UK, as well as in Poland and Sweden.    
 
 Performed by Chris Williams and Sheena Holliday: Chris Williams, Artistic Director, has also worked with Forced Entertainment and Kings of England; Sheena Holliday recently joined Drunken Chorus as Co-Director, she is also a filmmaker, writer and community artist.    
 [www.drunkenchorus.co.uk](http://www.drunkenchorus.co.uk)    
