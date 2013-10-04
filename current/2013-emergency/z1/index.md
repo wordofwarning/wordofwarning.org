@@ -19,13 +19,6 @@ header_image:
 *Presented by* Word of Warning, Blank Media Collective + Z-arts *during* [Emergency 2013](/current/2013-emergency/index.html)    
         
 ####Order of Appearance (subject to change):      
-**Frances-Kay | Scaffold**    
-Previously seen at this year's ['Poolside Emergency](/archive/2013-poolside/durationala) Frances-Kay's first installation, *Scaffold*, is inspired by her interest of the impact of duration on the body and mind. It embodies her explorations of the body, mind, and interests in religion and feminism; it represents her excitement of performing on high structures and the slight possibility of danger.    
-             
-Once again, a big thank you to CH + LJ, and this time FC + DW too.       
-[www.vimeo.com/userfranceskay](http://www.vimeo.com/userfranceskay)         
-![Scaffold](frances_kay.jpg)    
-          
 **Zimmermann/Singh | Melancholy Machines**    
 A live, improvised dialogue between electronic sound, voice and the projected image; an artistic collaboration between Jason Singh & Maike Zimmermann.    
              
@@ -34,7 +27,14 @@ Based on a loose principal narrative, *Melancholy Machines* develops a non-linea
 Jason Singh is a Beatboxer, Vocal Sculptor and Sound Artist whose work is rooted in inspiring people to engage in exciting creative experiences through the breath, technology, performance and participation; using his breath, voice and a range of samplers and loop pedals, he can vocally recreate sound and music compositions mimicking a wide range of instruments, genres, atmospheres, wildlife, and abstract experimental sonic textures. Jason composes music for film, theatre, dance and facilitates sound and music workshops to young people and adults; he is an Associate Lecturer at MMU and has recently completed a 6-month sound art residency at the V&A.             
 Maike Zimmermann's work is image-based (photo, video, 16mm, super8) — creating experimental films and video, photographic or site-specific installations; amongst others she has also made sound recordings for experimental radio shows. Her work has been shown internationally and she has contributed images and videos to publications/channels including Creative Review, The Guardian/Observer, Vogue online, DAZEDdigital, frieze magazine, Islamic Art Magazine, BBC, ITV, ARTE (Tracks). In 2011/12 she was artist in residence at no.w.here (London), and has been employed at the V&A as a video content producer, video editor and photographer; in January 2013 she began a 3-month residency program at Harvestworks (New York).    
 ![Zimmermann/Singh](zimmerman_singh.jpg)    
-              
+          
+**Frances-Kay | Scaffold**    
+Previously seen at this year's ['Poolside Emergency](/archive/2013-poolside/durationala) Frances-Kay's first installation, *Scaffold*, is inspired by her interest of the impact of duration on the body and mind. It embodies her explorations of the body, mind, and interests in religion and feminism; it represents her excitement of performing on high structures and the slight possibility of danger.    
+             
+Once again, a big thank you to CH + LJ, and this time FC + DW too.       
+[www.vimeo.com/userfranceskay](http://www.vimeo.com/userfranceskay)         
+![Scaffold](frances_kay.jpg)    
+          
 **Chloë Smith | I’ve been dreaming of this since I was a boy**   
 *You cannot evict an idea. Such is the message of defiance from Occupy. But it is not entirely true. For the whole point of Occupy is that it's not just an idea bouncing around the internet. Occupy is stubbornly about the physical reality of space.* — Giles Fraser, former Canon Chancellor of St Paul's Cathedral     
               
@@ -43,13 +43,13 @@ Recently graduated from Dartington College of Arts / Falmouth University, Chloë
 ![Chloë Smith](chloe_smith.jpg)     
       
 **Lucy Hutson | Britney Spears custody battle vs. Zeus in swan rape shocker**    
-*I’ve been worrying about which way to go, what books to believe, and the cleanliness of my thoughts; I’ve been obsessing about getting it wrong and hoping that none of it matters. This is a show about fashion and God and hygiene and how much I love you.*    
+I’ve been worrying about which way to go, what books to believe, and the cleanliness of my thoughts; I’ve been obsessing about getting it wrong and hoping that none of it matters. This is a show about fashion and God and hygiene and how much I love you.    
       
 Lucy Hutson is a London-based artist; making work since 2008, her work engages with capitalism and gender. She works with found objects and unloved artefacts. Lucy has performed in the genres of intervention, installation, one-on-one and solo shows; these works have been seen as part of SPILL Festival of Performance and Arches Live. Her collaborations include Kinetic Aesthetic and the Monkey United Freedom Force.    
 ![Lucy Hutson](lucy_hutson.jpg)    
             
 **PartSuspended | Clepsydra**    
-*How is time experienced in a city's environment? Whilst everything moves constantly and rapidly around us, how scary is a moment of pause? What does it mean to measure time, to look at the past, to search for the present moment, and to look towards the future? Time entails light, joy, creation, luck and wisdom, but also darkness, misfortune, destruction and death.*    
+How is time experienced in a city's environment? Whilst everything moves constantly and rapidly around us, how scary is a moment of pause? What does it mean to measure time, to look at the past, to search for the present moment, and to look towards the future? Time entails light, joy, creation, luck and wisdom, but also darkness, misfortune, destruction and death.    
                   
 *Clepsydra* invites you to experience time as a collection of absurd, poetic, humorous and intense moments.    
              
