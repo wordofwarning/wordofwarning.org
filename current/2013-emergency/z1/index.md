@@ -19,7 +19,7 @@ header_image:
 *Presented by* Word of Warning, Blank Media Collective + Z-arts *during* [Emergency 2013](/current/2013-emergency/index.html)    
         
 ####Order of Appearance (subject to change):      
-**Zimmermann/Singh | Melancholy Machines**    
+**Zimmermann / Singh | Melancholy Machines**    
 A live, improvised dialogue between electronic sound, voice and the projected image; an artistic collaboration between Jason Singh & Maike Zimmermann.    
              
 Based on a loose principal narrative, *Melancholy Machines* develops a non-linear form from the live and improvised interaction between the Sound Artist (Jason Singh) and the Filmmaker/Visual Artist (Maike Zimmermann). The combination of sonic textures and poetic imagery unfolds new arrangements, suggesting references to mythologies, social norms, gender roles, the (post-) digital age and the complex relationship between gender, self and power. Here, *Melancholy Machines* is presented as a 3-channel video installation; this unique approach is the result of the hybrid character of the project's concept i.e. the inherent (non-linear) narrativity residing in the material.    
