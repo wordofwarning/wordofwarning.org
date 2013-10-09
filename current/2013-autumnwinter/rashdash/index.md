@@ -20,6 +20,7 @@ header_image: "header_rashdash.jpg"
    
 ####In Brief
 Thumping drums, clanging keys and violent voices; a sinister and sensuous cabaret — a riotous funk-rock opera tells the real story of *Cinderella*.       
+
         
 Watch trailer [here](http://youtu.be/i0rUjOh4yu8).    
      
@@ -40,7 +41,7 @@ On Friday 11 October there will be a post-show talk.
         
 *Whoever holds the pen writes the story.*        
                
-Part-show, part-gig — a wild and unblinking look at media representations and public approval; a punk/pop reimagining of *Cinderella* told by two of the most infamous fairytale villains of all time, *The Ugly Sisters*.      
+Part-show, part-gig — it's a wild and unblinking look at media representations and public approval; a punk/pop reimagining of *Cinderella* told by two of the most infamous fairytale villains of all time — *The Ugly Sisters*.      
                           
 ####Who are they?        
 Abbi Greenland and Helen Goalen formed RashDash in 2008 at The University of Hull; they are performers, devisers, choreographers and singers based at WYP in Leeds.        
