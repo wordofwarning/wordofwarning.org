@@ -19,7 +19,7 @@ header_image: "header_rashdash.jpg"
 *Presented by* Contact + Word of Warning 
    
 ####In Brief
-Thumping drums, clanging keys and violent voices; the real story of *Cinderella* — a sinister and sensuous cabaret.    
+Thumping drums, clanging keys and violent voices; a sinister and sensuous cabaret — a riotous funk-rock opera tells the real story of *Cinderella*.       
         
 Watch trailer [here](http://youtu.be/i0rUjOh4yu8).    
      
@@ -38,8 +38,10 @@ On Friday 11 October there will be a post-show talk.
           
 *Then everything changed, and there were bright lights and loud noises and flashing cameras. And there was her, and she was different. Everyone loved her.*       
         
-Whoever holds the pen writes the story.        
-        
+*Whoever holds the pen writes the story.*        
+               
+Part-show, part-gig — a wild and unblinking look at media representations and public approval; a punk/pop reimagining of *Cinderella* told by two of the most infamous fairytale villains of all time, *The Ugly Sisters*.      
+                          
 ####Who are they?        
 Abbi Greenland and Helen Goalen formed RashDash in 2008 at The University of Hull; they are performers, devisers, choreographers and singers based at WYP in Leeds.        
          
@@ -49,7 +51,7 @@ Their process is evolving. It's never the same. Sometimes they sit and talk for 
            
 They are starting to play with how they can work with a writer, from the beginning, letting words affect movement and movement affect words. They are trying not to be scared of words and of asking someone else into the room to write them... they are doing well.        
          
-They were Fringe First winners 2010 and 2011, and are an Associate Company of West Yorkshire Playhouse.        
+They were Fringe First winners 2010 and 2011, have been nominated for a Total Theatre award for Innovation and Experimentation, and are an Associate Company of West Yorkshire Playhouse.        
           
 ####What people have said about them         
 >*4\* Electrifying*<br>The Daily Telegraph         
