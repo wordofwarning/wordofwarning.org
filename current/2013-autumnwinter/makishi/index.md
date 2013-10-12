@@ -24,7 +24,7 @@ The killer show everyone's dying to see.
 Hawaiian performance-maker Stacy Makishi unearths a thrilling tale of filial-sleuthery — investigating midlife, mobs, meatballs and moms via Barbra Streisand, *E.T.*, and *The Sopranos*.            
     
 ####Special ticket offer with Bryony Kimmings' at Contact      
-In an audacious, provocative protest against the world’s flagrant attempts to sexualise and commodify childhood for profit, Bryony Kimmings + her nine year-old niece set out to make fictional pop star Catherine Bennett world famous — *Credible Likable Superstar Role Model*(http://contactmcr.com/whats-on/6039-bryony-kimmings-credible-likable-superstar-role-model/) is their show. For only £15/8 see Stacy Makishi at Z-arts on Friday + Bryony Kimmings at Contact on Saturday.        
+In an audacious, provocative protest against the world’s flagrant attempts to sexualise and commodify childhood for profit, Bryony Kimmings + her nine year-old niece set out to make fictional pop star Catherine Bennett world famous — *[Credible Likable Superstar Role Model](http://contactmcr.com/whats-on/6039-bryony-kimmings-credible-likable-superstar-role-model/)* is their show. For only £15/8 see Stacy Makishi at Z-arts on Friday + Bryony Kimmings at Contact on Saturday.        
       
 ####Venue + Booking Details    
 **Stacy Makishi tickets only**    
