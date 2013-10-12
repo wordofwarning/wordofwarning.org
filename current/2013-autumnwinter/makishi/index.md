@@ -22,12 +22,25 @@ header_image: "header_stacy.jpg"
 The killer show everyone's dying to see.             
                
 Hawaiian performance-maker Stacy Makishi unearths a thrilling tale of filial-sleuthery — investigating midlife, mobs, meatballs and moms via Barbra Streisand, *E.T.*, and *The Sopranos*.            
-              
-####Venue + Booking Details
-Date: Friday 29 November 2013, 7.30pm   
+    
+####Special ticket offer with Bryony Kimmings' *Credible Likable Superstar Role Model*     
+In an audacious, provocative protest against the world’s flagrant attempts to sexualise and commodify childhood for profit, Bryony Kimmings + her nine year-old niece set out to make fictional pop star Catherine Bennett world famous — [this is their show](http://contactmcr.com/whats-on/6039-bryony-kimmings-credible-likable-superstar-role-model/).    
+For only £15/8 see Stacy Makishi at Z-arts on Friday + Bryony Kimmings at Contact on Saturday.        
+      
+####Venue + Booking Details    
+**Stacy Makishi tickets only**    
+Date: Friday 29 November 2013, 7.30pm    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
 [Tickets: £8/5](http://www.z-arts.org/events/wow-stacy-makishi/)    
 Box Office Tel: 0161 232 6089     
+    
+**Stacy Makishi + Bryony Kimmings joint tickets**    
+Date - Stacy Makishi: Fri 29 Nov, 7.30pm    
+[Venue — Stacy Makishi: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
+Date - Bryony Kimmings: Sat 30 Nov, 7.30pm    
+[Venue — Bryony Kimmings: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
+[Joint tickets: £15/8](http://contactmcr.com/whats-on/10252-stacy-makishi-the-falsettos/booking/)    
+Box Office Tel: 0161 274 0600     
         
 ####More            
 Masterfully grafting the trappings of gangster film onto domestic drama, *The Falsettos* is a humorous solo take on the mysteries of love, loss and separation.          
@@ -54,7 +67,8 @@ She is an Associate Artist with Artsadmin, Chelsea Theatre and New Unity.
 ####Credits    
 The Falsettos by Stacy Makishi, images by Will Munro + Nikki Tomlinson.         
 Co-commissioned by Chelsea Theatre, Colchester Arts Centre and The Basement; supported by the Roddick Foundation; produced by ArtsAdmin.         
-          
+    
 ####Websites        
 [www.stacymakishi.com](http://www.stacymakishi.com) | 
-[www.artsadmin.co.uk](http://www.artsadmin.co.uk)
+[www.artsadmin.co.uk](http://www.artsadmin.co.uk)    
+[www.bryonykimmings.com](http://www.bryonykimmings.com)
