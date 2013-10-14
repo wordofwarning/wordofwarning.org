@@ -4,5 +4,5 @@ layout: home
 header_image: "assets/images/header_2013aw.jpg"
 
 ---
-##Thank you audience, artists, Blank Media, Z-arts and our team for a fun, friendly + fantastic fourteenth [Emergency](/current/2013-emergency)     
-##A sinister + sensuous cabaret this week with [RashDash](/current/2013-autumnwinter/rashdash)' rumbustious reimagining of Cinderella, *11|12 Oct, Contact*
+##Thank you [RashDash + the Bernards](/current/2013-autumnwinter/rashdash), Contact + our audience for two engaging evenings of emotion + energy
+##Announcing a special, joint ticket offer for [Stacy Makishi](/current/2013-autumnwinter/rashdash) at Z-arts *Fri 29 Nov* + [Bryony Kimmings](http://contactmcr.com/whats-on/6039-bryony-kimmings-credible-likable-superstar-role-model/) at Contact *Sat 30 Nov* for [£15/8](http://contactmcr.com/whats-on/10252-stacy-makishi-the-falsettos/booking/)
