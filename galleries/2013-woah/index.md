@@ -10,7 +10,7 @@ stylesheet: gallery.css
 
 header_url: "../../galleries/index.html"
 more_link: Works Ahead 2013
-more_url: "../../current/2013-worksahead/index.html"
+more_url: "../../archive/2013-worksahead/index.html"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small>Images: Bee Mackenzie, Javier Camañas Saéz, Tamsin Drury, Andrew Crofts</small>"}
@@ -27,7 +27,5 @@ gallery:
     -   {file: "facade2.jpg", artist: "Façade Theatre"}
     -   {file: "wayne1.jpg", artist: "Wayne Steven Jackson"}
     -   {file: "wayne2.jpg", artist: "Wayne Steven Jackson"}
-    
-    
-    
+
 ---
