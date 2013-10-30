@@ -8,8 +8,8 @@ title: "Word of Warning + the Bluecoat present 'Poolside Emergency"
 header: <img src="logo.png">
 stylesheet: gallery.css
 
-more_link: Poolside Emergency 2013
-more_url: "../../current/2013-poolside/index.html"
+more_link: 'Poolside Emergency 2013
+more_url: "../../archive/2013-poolside"
 
 gallery:
     -   {file: "samtreadaway.jpg", show: "Mayhem on Merseyside"}
