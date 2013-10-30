@@ -9,7 +9,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: 'Poolside Emergency 2013
-more_url: "../../archive/2013-poolside"
+more_url: "../../archive/2013-poolside/index.html"
 
 gallery:
     -   {file: "samtreadaway.jpg", show: "Mayhem on Merseyside"}
