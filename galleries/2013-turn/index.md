@@ -9,7 +9,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: Turn 2013
-more_url: "../../current/2013-turn/index.html"
+more_url: "../../archive/2013-turn/index.html"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small>Images: Bee Mackenzie, Javier Camañas Saéz, Tamsin Drury</small>"}
@@ -28,6 +28,5 @@ gallery:
     -   {file: "lansley.jpg", artist: "Emma Lansley"}
     -   {file: "percussive.jpg", artist: "Percussive Customer Projects"}
     -   {file: "hubbard.jpg", artist: "Joshua Hubbard"}
-    
-    
+
 ---
