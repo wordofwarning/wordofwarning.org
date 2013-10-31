@@ -18,9 +18,9 @@ Since Jan 2012, however hÅb gone 'public' in the guise of [Word of Warning](/in
         
 This site aims to offer information to artists wanting to know more about our work and how to get involved. For more information about our public programme go to [Word of Warning](/index).   
         
-From [Emergency](/emergency), an annual micro-festival for new live work (now in its 14th year) which presents up to 40 short pieces in a day each September/October and its Merseyside sibling, [‘Poolside Emergency](/poolside); through [Works Ahead](/worksahead), a series of small commissions for new work, we aim to provide a joined-up series of opportunities for emerging new work and artists in contemporary performance and live art. We also co-produce the [Turn](/turn) micro-festival for new NW dance + dance-makers and the ensuing Turn Prize.    
+From [Emergency](/hab/emergency), an annual micro-festival for new live work (now in its 14th year) which presents up to 40 short pieces in a day each September/October and its Merseyside sibling, [‘Poolside Emergency](/hab/poolside); through [Works Ahead](/hab/worksahead), a series of small commissions for new work, we aim to provide a joined-up series of opportunities for emerging new work and artists in contemporary performance and live art. We also co-produce the [Turn](/hab/turn) micro-festival for new NW dance + dance-makers and the ensuing Turn Prize.    
         
-hÅb also works as a curator of sited performance and intervention presenting [Hazard](/hazard), a biennial micro-festival of intervention, taking performance out of the black box environment and into Manchester city centre (next in July 2014).    
+hÅb also works as a curator of sited performance and intervention presenting [Hazard](/hab/hazard), a biennial micro-festival of intervention, taking performance out of the black box environment and into Manchester city centre (next in July 2014).    
         
 In any given year, hÅb might work with 200 artists, present 3 platforms, 1 sited festival and show over 100 pieces of work.    
          
