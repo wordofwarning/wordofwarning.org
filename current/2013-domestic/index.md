@@ -59,4 +59,4 @@ Please see individual show listings for details of specific age and access infor
 There is no general audience parking in Cooper House; Blue Badge holders please contact us and we will make arrangements.    
 
 ####Credits         
-Produced by hÅb; supported by Guinness Northern Counties, Z-arts + City Response Limited.
+Produced by hÅb; supported by Guinness Northern Counties, Z-arts + City Response Limited. With thanks to [Wesley Community Furniture](http://www.thewesley.org.uk/index.html).
