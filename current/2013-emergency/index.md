@@ -41,11 +41,10 @@ Date: Saturday 5 October 2013, 3pm-11pm
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: FREE no booking required        
 Venue Tel: 0161 232 6089    
-      
 [Venues Map](http://bit.ly/1bFUlqt)       
             
 ####What people said about the work        
-A review of the work presented at BLANKSPACE is [here](http://confusedguff.blogspot.co.uk/2013/10/emergency-2013.html); a review of some of the work prsented at Z-arts is [here](http://mancunion.com/2013/10/17/emergency2013).        
+A review of the work presented at BLANKSPACE is [here](http://confusedguff.blogspot.co.uk/2013/10/emergency-2013.html); a review of some of the work presented at Z-arts is [here](http://mancunion.com/2013/10/17/emergency2013).        
         
 ####Schedules (timings are approximate)          
 ![BLANKSPACE](Emerg_sched_BS_2_10.jpg)        
