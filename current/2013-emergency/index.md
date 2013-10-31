@@ -44,6 +44,9 @@ Venue Tel: 0161 232 6089
       
 [Venues Map](http://bit.ly/1bFUlqt)       
             
+####What people said about the work        
+A review of the work presented at BLANKSPACE is [here](http://confusedguff.blogspot.co.uk/2013/10/emergency-2013.html); a review of some of the work prsented at Z-arts is [here](http://mancunion.com/2013/10/17/emergency2013).        
+        
 ####Schedules (timings are approximate)          
 ![BLANKSPACE](Emerg_sched_BS_2_10.jpg)        
 ![Z-arts](Emerg_sched_Z_2_10.jpg)        
