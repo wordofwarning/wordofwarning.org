@@ -61,7 +61,7 @@ At the core of her work is a fascination with human exchange and the hope and fu
 Created by Jo Bannon. Image by Manual Vason.         
 Developed with the support of Rules and Regs and South Hill Park; further development supported by Bristol Ferment, Dartington Space with the support of the Dartington Hall Trust, The Basement, Residence, RWA, Arnolfini + BAC.              
 Supported using public funding by the National Lottery through Arts Council England.        
-Domestic is produced by hÅb; supported by Guinness Northern Counties, Z-arts + City Response Limited.              
+Domestic is produced by [hÅb](/hab); supported by [Guinness Northern Counties](http://www.guinnesspartnership.com/about-us/news/gnc/2013/October/manchester%20tower%20block%20plays%20host%20to%20performing%20arts%20festival.aspx), [Z-arts](http://www.z-arts.org) + [City Response Ltd](http://www.cityresponse.co.uk).              
          
 ####Websites        
 [www.jobannon.co.uk](http://www.jobannon.co.uk) | [@missjobannon](http://twitter.com/missjobannon)
