@@ -23,7 +23,7 @@ A tender and tentative look into autobiography, asking how fully we can reveal o
                
 Watch trailer [here](http://vimeo.com/68437394).        
         
-**Please note: this is a one-to-one encounter lasting approximately 9 minutes**
+**Please note: this is a one-to-one encounter lasting approximately 9 minutes. Suitable for ages 14+.**
          
 ####Venue + Booking Details
 Day One: Saturday 16 November 2013, [2pm](http://www.wegottickets.com/event/240556) [2.15pm](http://www.wegottickets.com/event/240583) [2.30pm](http://www.wegottickets.com/event/240591) [2.45pm](http://www.wegottickets.com/event/240599), [3pm](http://www.wegottickets.com/event/240574) [3.15pm](http://www.wegottickets.com/event/240584) [3.30pm](http://www.wegottickets.com/event/240593) [3.45pm](http://www.wegottickets.com/event/240601) | [5pm](http://www.wegottickets.com/event/240575) [5.15pm](http://www.wegottickets.com/event/240585) [5.30pm](http://www.wegottickets.com/event/240595) [5.45pm](http://www.wegottickets.com/event/240603), [6pm](http://www.wegottickets.com/event/240578) [6.15pm](http://www.wegottickets.com/event/240586) [6.30pm](http://www.wegottickets.com/event/240597) [6.45pm](http://www.wegottickets.com/event/240605)          
