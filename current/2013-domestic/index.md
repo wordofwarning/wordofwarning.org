@@ -27,7 +27,7 @@ header_image:
 *Fri 8 Nov, [8pm](http://www.wegottickets.com/event/239511) + Sat 9 Nov, [4pm](http://www.wegottickets.com/event/240206) + [8pm](http://www.wegottickets.com/event/240211) (all sold-out) | £6/4*        
 [the vacuum cleaner](/current/2013-domestic/vacuumcleaner/index.html) | Mental        
         
-*Thu 14 Nov, [6pm](http://www.wegottickets.com/event/240510) + [8pm](http://www.wegottickets.com/event/240512) + Fri 15 Nov, [6pm](http://www.wegottickets.com/event/240515) + [8pm](http://www.wegottickets.com/event/240518) | £5/3*        
+*Thu 14 Nov, [6pm](http://www.wegottickets.com/event/240510) + [8pm](http://www.wegottickets.com/event/240512) (sold-out) + Fri 15 Nov, [6pm](http://www.wegottickets.com/event/240515) + [8pm](http://www.wegottickets.com/event/240518) | £5/3*        
 [Leentje Van de Cruys](/current/2013-domestic/vandecruys/index.html) | Kitsch'n Sync        
          
 *Sat 16 Nov, [2pm](http://www.wegottickets.com/event/240524) (sold-out) + [5pm](http://www.wegottickets.com/event/240527) (sold-out) + [8pm](http://www.wegottickets.com/event/240529) + Sun 17 Nov, [2pm](http://www.wegottickets.com/event/240532) + [5pm](http://www.wegottickets.com/event/240534) + [8pm](http://www.wegottickets.com/event/240536) | £6/4*        
