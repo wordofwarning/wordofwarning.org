@@ -40,6 +40,7 @@ For specific age and access information please email <mailto:info@habarts.org> o
 
 ####Who is she?
 Belgian actress and theatre-maker Leentje Van de Cruys has been making quirky solo performances about domesticity and women’s identity for the last 7 years. Recent shows include; *Feedback*, *HORSE*, *The Best Party Ever* and *Knitting to Worry About*. She regularly performs and tours with contemporary theatre companies including Reckless Sleepers, Plane Performance and Proto-type Theater, and supervises theatre students at Manchester Metropolitan University and Lancaster University.        
+![Leentje Van de Cruys](leentje.jpg)    
 
 ####Credits        
 A hÅb commission. Supported by The Future.    
