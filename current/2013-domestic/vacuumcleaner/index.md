@@ -26,7 +26,7 @@ He prefers the term *"Mental"*.
          
 An autobiographical performance by artist-activist, the vacuum cleaner.           
                 
-**Please note: this show contains material that some people may find upsetting and is not suitable for those under the age of 16; this is a show for maximum 14 people, lasting approximately 50 minutes.**            
+**Please note: this show contains material that some people may find upsetting and is not suitable for those under the age of 16; this is a show for maximum 18 people, lasting approximately 50 minutes.**            
          
 ####Venue + Booking Details
 ALL SHOWS ARE NOW SOLD-OUT               
@@ -63,7 +63,7 @@ He is an Artsadmin Associate Artist. His work has been commissioned and exhibite
 ####Credits        
 Directed by Perrier Award 'Best Newcomer' Kim Noble.         
 Supported by Artsadmin and In Between Time; supported using public funding by the National Lottery through Arts Council England.        
-Domestic is produced by hÅb; supported by Guinness Northern Counties, Z-arts + City Response Limited.      
+Domestic is produced by [hÅb](/hab); supported by [Guinness Northern Counties](http://www.guinnesspartnership.com/about-us/news/gnc/2013/October/manchester%20tower%20block%20plays%20host%20to%20performing%20arts%20festival.aspx), [Z-arts](http://www.z-arts.org) + [City Response Ltd](http://www.cityresponse.co.uk).      
         
 ####Websites        
 [www.thevacuumcleaner.co.uk](http://www.thevacuumcleaner.co.uk) | [@vacuumcleaner](http://twitter.com/vacuumcleaner)
