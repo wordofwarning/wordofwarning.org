@@ -58,7 +58,7 @@ Scott Smith (US) is a Kansas-born musician, a player of the steel guitar resonan
 ####Credits        
 Alex Bradley is an Associate Artist with In Between Time, by whom *Field Test* was originally commissioned.         
 Supported using public funding by the National Lottery through Arts Council England.         
-Domestic is produced by hÅb; supported by Guinness Northern Counties, Z-arts + City Response Limited.           
+Domestic is produced by [hÅb](/hab); supported by [Guinness Northern Counties](http://www.guinnesspartnership.com/about-us/news/gnc/2013/October/manchester%20tower%20block%20plays%20host%20to%20performing%20arts%20festival.aspx), [Z-arts](http://www.z-arts.org) + [City Response Ltd](http://www.cityresponse.co.uk).           
 ![Field Test](alex1.jpg)     
             
 ####Website        
