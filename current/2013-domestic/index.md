@@ -23,14 +23,14 @@ header_image:
          
 **A series of intimate interactions, homely conversations and domestic dramas played out in a block of flats.**    
         
-###Ticketed Shows (Limited Capacities)          
-*SOLD-OUT (Fri 8 Nov, [8pm](http://www.wegottickets.com/event/239511) + Sat 9 Nov, [4pm](http://www.wegottickets.com/event/240206) + [8pm](http://www.wegottickets.com/event/240211) | £6/4)*        
+###Ticketed Shows, Limited Capacities          
+*Fri 8 Nov, [8pm](http://www.wegottickets.com/event/239511) + Sat 9 Nov, [4pm](http://www.wegottickets.com/event/240206) + [8pm](http://www.wegottickets.com/event/240211) (all sold-out) | £6/4*        
 [the vacuum cleaner](/current/2013-domestic/vacuumcleaner/index.html) | Mental        
         
 *Thu 14 Nov, [6pm](http://www.wegottickets.com/event/240510) + [8pm](http://www.wegottickets.com/event/240512) + Fri 15 Nov, [6pm](http://www.wegottickets.com/event/240515) + [8pm](http://www.wegottickets.com/event/240518) | £5/3*        
 [Leentje Van de Cruys](/current/2013-domestic/vandecruys/index.html) | Kitsch'n Sync        
          
-*Sat 16 Nov, [2pm](http://www.wegottickets.com/event/240524) + [5pm](http://www.wegottickets.com/event/240527) + [8pm](http://www.wegottickets.com/event/240529) + Sun 17 Nov, [2pm](http://www.wegottickets.com/event/240532) + [5pm](http://www.wegottickets.com/event/240534) + [8pm](http://www.wegottickets.com/event/240536) | £6/4*        
+*Sat 16 Nov, [2pm](http://www.wegottickets.com/event/240524) (sold-out) + [5pm](http://www.wegottickets.com/event/240527) (sold-out) + [8pm](http://www.wegottickets.com/event/240529) + Sun 17 Nov, [2pm](http://www.wegottickets.com/event/240532) + [5pm](http://www.wegottickets.com/event/240534) + [8pm](http://www.wegottickets.com/event/240536) | £6/4*        
 [J. Fergus Evans](/current/2013-domestic/evans/index.html) | my heart is hitchhiking down peachtree street        
           
 *Sat 16 Nov, [4pm](http://www.wegottickets.com/event/240541) + [7pm](http://www.wegottickets.com/event/240543) + Sun 17 Nov, [4pm](http://www.wegottickets.com/event/240545) + [7pm](http://www.wegottickets.com/event/240547) | £6/4*       
@@ -40,7 +40,7 @@ header_image:
 *Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov ([various times](http://www.wegottickets.com/wordofwarning))*        
 [Small Acts](/current/2013-domestic/smallacts/index.html) | Shower Scenes         
            
-*Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov (5pm-10pm)*        
+*Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov (5pm-10pm each evening)*        
 [Alex Bradley + Scott Smith](/current/2013-domestic/bradley/index.html) | Field Test in Garageland         
            
 *Sat 16 + Sun 17 Nov, 2pm-4pm + 5pm-7pm ([every 15 minutes](http://www.wegottickets.com/wordofwarning))*            
@@ -59,4 +59,4 @@ Please see individual show listings for details of specific age and access infor
 There is no general audience parking in Cooper House; Blue Badge holders please contact us and we will make arrangements.    
 
 ####Credits         
-Produced by hÅb; supported by Guinness Northern Counties, Z-arts + City Response Limited. With thanks to [Wesley Community Furniture](http://www.thewesley.org.uk/index.html).
+Produced by [hÅb](/hab); supported by [Guinness Northern Counties](http://www.guinnesspartnership.com/about-us/news/gnc/2013/October/manchester%20tower%20block%20plays%20host%20to%20performing%20arts%20festival.aspx), [Z-arts](http://www.z-arts.org) + [City Response Ltd](http://www.cityresponse.co.uk). With thanks to [Wesley Community Furniture](http://www.thewesley.org.uk/index.html).
