@@ -36,7 +36,7 @@ Tickets: £6/4, can be reserved over the phone: 07581 299 439 (leave a message +
 ####Access Information    
 As a sited event, *Domestic* presents a number of access challenges.
 The flat *I like the way...* takes place in is level access, but the room is small so we would appreciate it if you could let us know about any wheelchairs so we can adjust capacity. Spoken word based.             
-Age advisory: tbc    
+Age advisory: 12+    
 For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.  
          
 ####More      
@@ -56,7 +56,7 @@ Some of his work so far has been based around ideas of place and identity; he li
         
 ####Credits        
 Supported by Battersea Arts Centre, The Basement and Camden People's Theatre.          
-Domestic is produced by hÅb; supported by Guinness Northern Counties, Z-arts + City Response Limited.    
+Domestic is produced by [hÅb](/hab); supported by [Guinness Northern Counties](http://www.guinnesspartnership.com/about-us/news/gnc/2013/October/manchester%20tower%20block%20plays%20host%20to%20performing%20arts%20festival.aspx), [Z-arts](http://www.z-arts.org) + [City Response Ltd](http://www.cityresponse.co.uk). With thanks to [Wesley Community Furniture](http://www.thewesley.org.uk/index.html).    
                
 ####Websites        
 [gregwohead.com](http://http://gregwohead.com) | [@gregwohead](http://twitter.com/gregwohead)
