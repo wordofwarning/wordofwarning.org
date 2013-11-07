@@ -25,7 +25,7 @@ Stories of Southern Comfort, dancing drag queens and singing cicadas from the st
 **Please note: this is a show for maximum 9 people, lasting approximately 60 minutes.**        
          
 ####Venue + Booking Details             
-Dates: Saturday 16 November 2013, [2pm](http://www.wegottickets.com/event/240524) + [5pm](http://www.wegottickets.com/event/240527) + [8pm](http://www.wegottickets.com/event/240529) + Sunday 17 November 2013, [2pm](http://www.wegottickets.com/event/240532) + [5pm](http://www.wegottickets.com/event/240534) + [8pm](http://www.wegottickets.com/event/240536)         
+Dates: Saturday 16 November 2013, [2pm](http://www.wegottickets.com/event/240524) (sold-out) + [5pm](http://www.wegottickets.com/event/240527) (sold-out) + [8pm](http://www.wegottickets.com/event/240529) + Sunday 17 November 2013, [2pm](http://www.wegottickets.com/event/240532) + [5pm](http://www.wegottickets.com/event/240534) + [8pm](http://www.wegottickets.com/event/240536)         
 [Venue: Cooper House](http://bit.ly/1anL5UN), off Boundary Lane, Manchester, M15 6DX — a 5 minute walk from Oxford Road (Aquatic Centre/RNCM), with a bus stop right outside for no's 53, 85, 86, 99, 101, 104, 105, 108, 109, 112, 250, 253, 263 & 291.             
 LIMITED CAPACITIES, BOOKING ESSENTIAL:          
 Tickets: £6/4, can be [booked online; a fee applies](http://www.wegottickets.com/wordofwarning).                
@@ -67,7 +67,7 @@ Written and performed by J. Fergus Evans.
 Co-produced by Contact with support from The Albany.        
 Supported using public funding by the National Lottery through Arts Council England.             
 Image by 'Off the Grid' and photography by Roshana Rubin-Mayhew.             
-Domestic is produced by hÅb; supported by Guinness Northern Counties, Z-arts + City Response Limited.        
+Domestic is produced by [hÅb](/hab); supported by [Guinness Northern Counties](http://www.guinnesspartnership.com/about-us/news/gnc/2013/October/manchester%20tower%20block%20plays%20host%20to%20performing%20arts%20festival.aspx), [Z-arts](http://www.z-arts.org) + [City Response Ltd](http://www.cityresponse.co.uk). With thanks to [Wesley Community Furniture](http://www.thewesley.org.uk/index.html).                  
          
 ####Websites        
 [jfergusevans.com](http://jfergusevans.com) | [@Fergus_Evans](http://twitter.com/Fergus_Evans)
