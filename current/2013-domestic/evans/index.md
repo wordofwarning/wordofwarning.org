@@ -22,7 +22,7 @@ header_image: "header_mhih.jpg"
 ####In Brief
 Stories of Southern Comfort, dancing drag queens and singing cicadas from the sticky heat of Atlanta, Georgia.        
                      
-**Please note: this is a show for maximum 9 people, lasting approximately 60 minutes.**        
+**Please note: this is a show for maximum 9 people, lasting approximately 60 minutes. Suitable for ages 12+.**        
          
 ####Venue + Booking Details             
 Dates: Saturday 16 November 2013, [2pm](http://www.wegottickets.com/event/240524) (sold-out) + [5pm](http://www.wegottickets.com/event/240527) (sold-out) + [8pm](http://www.wegottickets.com/event/240529) + Sunday 17 November 2013, [2pm](http://www.wegottickets.com/event/240532) + [5pm](http://www.wegottickets.com/event/240534) + [8pm](http://www.wegottickets.com/event/240536)         
