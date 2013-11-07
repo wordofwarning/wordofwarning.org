@@ -24,7 +24,7 @@ Welcome to Greg’s bedroom in Mesquite, Texas, 1998. The Savage Garden CD is on
           
 In this solo performance Greg tells you (from the perspective of a geeky teenager) the true story of the night he took a chance.            
                
-**Please note: this is a show for maximum 15 people, lasting approximately 50 minutes.**        
+**Please note: this is a show for maximum 15 people, lasting approximately 50 minutes. Suitable for ages 12+.**        
          
 ####Venue + Booking Details
 Dates: Saturday 16 November 2013, [4pm](http://www.wegottickets.com/event/240541) + [7pm](http://www.wegottickets.com/event/240543) + Sunday 17 November 2013, [4pm](http://www.wegottickets.com/event/240545) + [7pm](http://www.wegottickets.com/event/240547)                      
