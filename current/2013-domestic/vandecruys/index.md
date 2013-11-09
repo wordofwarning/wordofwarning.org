@@ -36,7 +36,7 @@ Tickets: £5/3, can be reserved over the phone: 07581 299 439 (leave a message +
 As a sited event, *Domestic* presents a number of access challenges.
 The flat *Kitsch'n Sync* takes place in is up one flight of stairs and is therefore not wheelchair accessible. Spoken word based.  
 Age advisory: 16+    
-For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.      
+For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.      
 
 ####Who is she?
 Belgian actress and theatre-maker Leentje Van de Cruys has been making quirky solo performances about domesticity and women’s identity for the last 7 years. Recent shows include; *Feedback*, *HORSE*, *The Best Party Ever* and *Knitting to Worry About*. She regularly performs and tours with contemporary theatre companies including Reckless Sleepers, Plane Performance and Proto-type Theater, and supervises theatre students at Manchester Metropolitan University and Lancaster University.        
