@@ -36,9 +36,10 @@ After your encounter, donations are invited.
                
 ####Access Information    
 As a sited event, *Domestic* presents a number of access challenges.
-The flat *Exposure* takes place in is up one flight of stairs and is therefore not wheelchair accessible.  Spoken word based, it takes place in a confined dark space.  
+The flat *Exposure* takes place in is level access but **doorways are narrow** and wheelchair access may not be possible dependent on width.  If you are a wheelchair user planning to come **please contact us asap** on 07581 299 439.    
+Spoken word based, it takes place in a confined dark space.  
 Age advisory: 14+    
-For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
+For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.         
               
 ####More      
 *Exposure* is the beginning of an investigation into how we look, how we are looked at and if we can ever really be seen. This intimate one-to-one performance is a tender and tentative look into autobiography, asking how fully we can reveal ourselves — to ourselves, to another, with another.        
