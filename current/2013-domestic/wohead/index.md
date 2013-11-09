@@ -35,9 +35,10 @@ Tickets: £6/4, can be reserved over the phone: 07581 299 439 (leave a message +
           
 ####Access Information    
 As a sited event, *Domestic* presents a number of access challenges.
-The flat *I like the way...* takes place in is level access, but the room is small so we would appreciate it if you could let us know about any wheelchairs so we can adjust capacity. Spoken word based.             
+The flat *I like the way...* takes place in is level access, but **doorways are narrow** and wheelchair access may not be possible dependent on width.  If you are a wheelchair user planning to come **please contact us asap** on 07581 299 439.
+Spoken word based.             
 Age advisory: 12+    
-For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.  
+For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.  
          
 ####More      
 *I like the way you wear your hair* is a conversation with a past version of yourself. It’s about stomach butterflies, private thoughts and marching bands conveyed with simple storytelling and a pico projector, throwing hand-drawn memories and DIY atmosphere onto the walls, floor and ceiling.
