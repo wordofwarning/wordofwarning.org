@@ -30,7 +30,7 @@ header_image:
 *Thu 14 Nov, [6pm](http://www.wegottickets.com/event/240510) + [8pm](http://www.wegottickets.com/event/240512) (sold-out) + Fri 15 Nov, [6pm](http://www.wegottickets.com/event/240515) + [8pm](http://www.wegottickets.com/event/240518) | £5/3*        
 [Leentje Van de Cruys](/current/2013-domestic/vandecruys/index.html) | Kitsch'n Sync        
          
-*Sat 16 Nov, [2pm](http://www.wegottickets.com/event/240524) (sold-out) + [5pm](http://www.wegottickets.com/event/240527) (sold-out) + [8pm](http://www.wegottickets.com/event/240529) + Sun 17 Nov, [2pm](http://www.wegottickets.com/event/240532) + [5pm](http://www.wegottickets.com/event/240534) + [8pm](http://www.wegottickets.com/event/240536) | £6/4*        
+*Sat 16 Nov, [2pm](http://www.wegottickets.com/event/240524) (sold-out) + [5pm](http://www.wegottickets.com/event/240527) (sold-out) + [8pm](http://www.wegottickets.com/event/240529) + Sun 17 Nov, [2pm](http://www.wegottickets.com/event/240532) + [5pm](http://www.wegottickets.com/event/240534) + [8pm](http://www.wegottickets.com/event/240536) (sold-out) | £6/4*        
 [J. Fergus Evans](/current/2013-domestic/evans/index.html) | my heart is hitchhiking down peachtree street        
           
 *Sat 16 Nov, [4pm](http://www.wegottickets.com/event/240541) + [7pm](http://www.wegottickets.com/event/240543) + Sun 17 Nov, [4pm](http://www.wegottickets.com/event/240545) + [7pm](http://www.wegottickets.com/event/240547) | £6/4*       
