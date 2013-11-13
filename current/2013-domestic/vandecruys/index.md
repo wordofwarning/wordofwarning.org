@@ -25,8 +25,8 @@ The latest in a series of domestic performances created by Leentje Van de Cruys,
 **Please note: this is a new show, currently in development; for maximum 12 people, lasting between 30 and 60 minutes. Suitable for ages 16+.**
          
 ####Venue + Booking Details                  
-Day One: Thursday 14 November 2013, [6pm](http://www.wegottickets.com/event/240510) + [8pm](http://www.wegottickets.com/event/240512) (sold-out)        
-Day Two: Friday 15 November 2013, [6pm](http://www.wegottickets.com/event/240515) (sold-out) + [8pm](http://www.wegottickets.com/event/240518)                
+Day One: Thursday 14 November 2013, [6pm](http://www.wegottickets.com/event/240510) (+ [8pm](http://www.wegottickets.com/event/240512): sold-out)        
+Day Two: Friday 15 November 2013, ([6pm](http://www.wegottickets.com/event/240515) + [8pm](http://www.wegottickets.com/event/240518): both sold-out)                
 [Venue: Cooper House](http://bit.ly/1anL5UN), off Boundary Lane, Manchester, M15 6DX — a 5 minute walk from Oxford Road (Aquatic Centre/RNCM), with a bus stop right outside for no's 53, 85, 86, 99, 101, 104, 105, 108, 109, 112, 250, 253, 263 & 291.                 
 LIMITED CAPACITIES, BOOKING ESSENTIAL:               
 Tickets: £5/3, can be [booked online; a fee applies](http://www.wegottickets.com/wordofwarning).                
