@@ -25,8 +25,8 @@ Stories of Southern Comfort, dancing drag queens and singing cicadas from the st
 **Please note: this is a show for maximum 9 people, lasting approximately 60 minutes. Suitable for ages 12+.**        
          
 ####Venue + Booking Details             
-Day One: Saturday 16 November 2013, [2pm](http://www.wegottickets.com/event/240524) (sold-out) + [5pm](http://www.wegottickets.com/event/240527) (sold-out) + [8pm](http://www.wegottickets.com/event/240529)        
-Day Two: Sunday 17 November 2013, [2pm](http://www.wegottickets.com/event/240532) + [5pm](http://www.wegottickets.com/event/240534) + [8pm](http://www.wegottickets.com/event/240536) (sold-out)         
+Day One: Saturday 16 November 2013, ([2pm](http://www.wegottickets.com/event/240524) + [5pm](http://www.wegottickets.com/event/240527) + [8pm](http://www.wegottickets.com/event/240529): all sold-out)        
+Day Two: Sunday 17 November 2013, [2pm](http://www.wegottickets.com/event/240532) (+ [5pm](http://www.wegottickets.com/event/240534) + [8pm](http://www.wegottickets.com/event/240536): both sold-out)         
 [Venue: Cooper House](http://bit.ly/1anL5UN), off Boundary Lane, Manchester, M15 6DX — a 5 minute walk from Oxford Road (Aquatic Centre/RNCM), with a bus stop right outside for no's 53, 85, 86, 99, 101, 104, 105, 108, 109, 112, 250, 253, 263 & 291.             
 LIMITED CAPACITIES, BOOKING ESSENTIAL:          
 Tickets: £6/4, can be [booked online; a fee applies](http://www.wegottickets.com/wordofwarning).                
