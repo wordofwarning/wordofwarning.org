@@ -27,7 +27,8 @@ In this solo performance Greg tells you (from the perspective of a geeky teenage
 **Please note: this is a show for maximum 15 people, lasting approximately 50 minutes. Suitable for ages 12+.**        
          
 ####Venue + Booking Details
-Dates: Saturday 16 November 2013, [4pm](http://www.wegottickets.com/event/240541) + [7pm](http://www.wegottickets.com/event/240543) + Sunday 17 November 2013, [4pm](http://www.wegottickets.com/event/240545) + [7pm](http://www.wegottickets.com/event/240547)                      
+Day One: Saturday 16 November 2013, [4pm](http://www.wegottickets.com/event/240541) + [7pm](http://www.wegottickets.com/event/240543)        
+Day Two: Sunday 17 November 2013, [4pm](http://www.wegottickets.com/event/240545) + [7pm](http://www.wegottickets.com/event/240547)                      
 [Venue: Cooper House](http://bit.ly/1anL5UN), off Boundary Lane, Manchester, M15 6DX — a 5 minute walk from Oxford Road (Aquatic Centre/RNCM), with a bus stop right outside for no's 53, 85, 86, 99, 101, 104, 105, 108, 109, 112, 250, 253, 263 & 291.             
 LIMITED CAPACITIES, BOOKING ESSENTIAL:               
 Tickets: £6/4, can be [booked online; a fee applies](http://www.wegottickets.com/wordofwarning).                
