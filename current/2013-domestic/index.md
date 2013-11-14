@@ -37,13 +37,13 @@ header_image:
 [Greg Wohead](/current/2013-domestic/wohead/index.html) | I like the way you wear your hair        
         
 ###By Appointment, Donations Invited        
-*Fri 8 + Sat 9 + Thu 14 + Sat 16 + Sun 17 Nov, [various times](http://www.wegottickets.com/wordofwarning)*        
+*Fri 8 + Sat 9 + Thu 14 + Sat 16 + Sun 17 Nov, [various in afternoons + evenings](http://www.wegottickets.com/wordofwarning)*        
 [Small Acts](/current/2013-domestic/smallacts/index.html) | Shower Scenes         
            
 *Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov, open 5-10pm each evening*        
 [Alex Bradley + Scott Smith](/current/2013-domestic/bradley/index.html) | Field Test in Garageland         
            
-*Sat 16 + Sun 17 Nov, 2-4pm + 5-7pm: [every 15 minutes](http://www.wegottickets.com/wordofwarning)*            
+*Sat 16 + Sun 17 Nov, [every 15 minutes 2-4pm + 5-7pm](http://www.wegottickets.com/wordofwarning)*            
 [Jo Bannon](/current/2013-domestic/bannon/index.html) | Exposure          
           
 ####Venue + Booking Details
