@@ -20,13 +20,14 @@ header_image: "header_leentje.jpg"
 *during* [Domestic](/current/2013-domestic/index.html)        
 
 ####In Brief
-The latest in a series of domestic performances created by Leentje Van de Cruys, *Kitsch'n Sync* is a newly commissioned work inspired by a short story, taking place in a dilapidated kitchen.    
+The latest in a series of domestic performances created by Leentje Van de Cruys; *Kitsch'n Sync* is a newly commissioned work inspired by a short story, taking place alongside a ¼ton of potatoes in a dilapidated high-rise kitchen.   
 
-**Please note: this is a new show, currently in development; for maximum 12 people, lasting between 30 and 60 minutes. Suitable for ages 16+.**
+**Please note: this is a new show, currently in development; for maximum 12 people, lasting approximately 50 minutes. Suitable for ages 16+.**
          
-####Venue + Booking Details                  
-Day One: Thursday 14 November 2013, [6pm](http://www.wegottickets.com/event/240510) (+ [8pm](http://www.wegottickets.com/event/240512): sold-out)        
-Day Two: Friday 15 November 2013, ([6pm](http://www.wegottickets.com/event/240515) + [8pm](http://www.wegottickets.com/event/240518): both sold-out)                
+####Venue + Booking Details    
+ALL PERFORMANCES ARE SOLD-OUT                      
+(Day One: Thursday 14 November 2013, [6pm](http://www.wegottickets.com/event/240510) + [8pm](http://www.wegottickets.com/event/240512))        
+(Day Two: Friday 15 November 2013, [6pm](http://www.wegottickets.com/event/240515) + [8pm](http://www.wegottickets.com/event/240518))                
 [Venue: Cooper House](http://bit.ly/1anL5UN), off Boundary Lane, Manchester, M15 6DX — a 5 minute walk from Oxford Road (Aquatic Centre/RNCM), with a bus stop right outside for no's 53, 85, 86, 99, 101, 104, 105, 108, 109, 112, 250, 253, 263 & 291.                 
 LIMITED CAPACITIES, BOOKING ESSENTIAL:               
 Tickets: £5/3, can be [booked online; a fee applies](http://www.wegottickets.com/wordofwarning).                
