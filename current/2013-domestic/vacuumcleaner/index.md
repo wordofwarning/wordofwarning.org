@@ -29,7 +29,7 @@ An autobiographical performance by artist-activist, the vacuum cleaner.
 **Please note: this show contains material that some people may find upsetting and is not suitable for those under the age of 16; this is a show for maximum 18 people, lasting approximately 50 minutes.**            
          
 ####Venue + Booking Details         
-ALL PERFORMANCES ARE NOW SOLD-OUT               
+ALL PERFORMANCES ARE SOLD-OUT               
 (Day One: Friday 8 November 2013, [8pm](http://www.wegottickets.com/event/239511))        
 (Day Two: Saturday 9 November 2013, [4pm](http://www.wegottickets.com/event/240206) + [8pm](http://www.wegottickets.com/event/240211))         
 [Venue: Cooper House](http://bit.ly/1anL5UN), off Boundary Lane, Manchester, M15 6DX — a 5 minute walk from Oxford Road (Aquatic Centre/RNCM), with a bus stop right outside for no's 53, 85, 86, 99, 101, 104, 105, 108, 109, 112, 250, 253, 263 & 291.             
