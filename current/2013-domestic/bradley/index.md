@@ -28,7 +28,7 @@ Coming to life at dusk, *Field Test in Garageland* is experienced by looking out
 **Please note: this piece takes place in an unheated garage, wrap up warm!**    
 
 ####Venue + Booking Details             
-Dates: Friday 8 + Saturday 9 + Thursday 14 — Sunday 17 November 2013 (5pm-10pm)         
+Dates: Friday 8 + Saturday 9 + Thursday 14 — Sunday 17 November 2013, open 5-10pm each evening         
 [Venue: Cooper House](http://bit.ly/1anL5UN), off Boundary Lane, Manchester, M15 6DX — a 5 minute walk from Oxford Road (Aquatic Centre/RNCM), with a bus stop right outside for no's 53, 85, 86, 99, 101, 104, 105, 108, 109, 112, 250, 253, 263 & 291.             
 BOOKING ESSENTIAL:             
 Appointments can ONLY be reserved over the phone: 07581 299 439 (leave a message + we’ll get back to you).               
