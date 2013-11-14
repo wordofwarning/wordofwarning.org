@@ -21,7 +21,7 @@ header_image:
  
 ###Friday 8 — Sunday 17 November 2013             
          
-**A series of intimate interactions, homely conversations and domestic dramas played out in a block of flats.**    
+**A series of intimate interactions, homely conversations + domestic dramas played out in a block of flats.**    
         
 ###Ticketed Shows, Limited Capacities          
 *(Fri 8 Nov, [8pm](http://www.wegottickets.com/event/239511) + Sat 9 Nov, [4pm](http://www.wegottickets.com/event/240206) + [8pm](http://www.wegottickets.com/event/240211): all sold-out) | £6/4*        
@@ -37,7 +37,7 @@ header_image:
 [Greg Wohead](/current/2013-domestic/wohead/index.html) | I like the way you wear your hair        
         
 ###By Appointment, Donations Invited        
-*Fri 8 + Sat 9 + Thu 14 + Sat 16 + Sun 17 Nov, [various in afternoons + evenings](http://www.wegottickets.com/wordofwarning)*        
+*Fri 8 + Sat 9 + Thu 14 + Sat 16 + Sun 17 Nov, [various afternoon + evening times](http://www.wegottickets.com/wordofwarning)*        
 [Small Acts](/current/2013-domestic/smallacts/index.html) | Shower Scenes         
            
 *Fri 8 + Sat 9 + Thu 14 — Sun 17 Nov, open 5-10pm each evening*        
