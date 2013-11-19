@@ -8,7 +8,8 @@ is_index: true
 ---
 ###Stimulating... extraordinary... performance...   
            
-STOP PRESS: if you have been directed here for news of the vacuum cleaner's Manchester performances of *Mental*: please click [here](/current/2013-domestic/vacuumcleaner).    
+STOP PRESS: Next up [**Domestic Dialogues**](http://habmcr.posthaven.com/emergencynw-domestic-dialogues-fri-29-nov) on Fri 29 November.  A chance for artists to discuss and explore making socially engaged and public realm work.    
+
          
 Based in Manchester, hÅb is a producer, developer and advocate of contemporary performance, live art and sited work in the North West. greenroom's key partner for over a decade, hÅb aims to maintain its legacy, working in collaboration with a range of venues to produce showing opportunities, platforms and artist development projects like Emergency, Turn, Hazard + Works Ahead.    
       
