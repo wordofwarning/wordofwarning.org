@@ -4,6 +4,7 @@
 layout: archive
 
 archived:
+    - {folder: "2013-emergency", name: "Emergency 2013", class: "e2013"}
     - {folder: "2013-woah", name: "Works Ahead 2013", class: "woah"}
     - {folder: "2013-turn", name: "Turn 2013", class: "t2013"}
     - {folder: "2013-poolside", name: "Poolside Emergency 2013", class: "p2013"}
