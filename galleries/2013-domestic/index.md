@@ -5,7 +5,7 @@ assetpath: "../../../"
 galleryimagespath: ""
 
 title: "Word of Warning presents Domestic"
-header: Dom<br>est<br>ic.
+header: <img src="logo.png">
 stylesheet: gallery.css
 
 header_url: "../../galleries/index.html"
@@ -13,7 +13,7 @@ more_link: Domestic
 more_url: "../../current/2013-domestic/index.html"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "<small>Domestic presented in association with Guinness Northern Counties, Z-arts + City Response Limited</small>"}
+    -   {file: "titlepage.jpg", artist: "<small>Domestic presented with Guinness Northern Counties, Z-arts + City Response Limited</small>"}
     -   {file: "bradley1.jpg", artist: "Alex Bradley + Scott Smith"}
     -   {file: "bradley2.jpg", artist: "Alex Bradley + Scott Smith"}
     -   {file: "smallacts1.jpg", artist: "Small Acts"}
