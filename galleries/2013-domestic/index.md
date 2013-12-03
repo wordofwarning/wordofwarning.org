@@ -8,12 +8,11 @@ title: "Word of Warning presents Domestic"
 header: <img src="logo.png">
 stylesheet: gallery.css
 
-header_url: "../../galleries/index.html"
 more_link: Domestic
 more_url: "../../current/2013-domestic/index.html"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "<small>Domestic presented with Guinness Northern Counties, Z-arts + City Response Limited</small>"}
+    -   {file: "titlepage.jpg", show: "<small>Domestic</small>"}
     -   {file: "bradley1.jpg", artist: "Alex Bradley + Scott Smith"}
     -   {file: "bradley2.jpg", artist: "Alex Bradley + Scott Smith"}
     -   {file: "smallacts1.jpg", artist: "Small Acts"}
@@ -28,5 +27,4 @@ gallery:
     -   {file: "greg1.jpg", artist: "Greg Wohead"}
     -   {file: "greg2.jpg", artist: "Greg Wohead"}
     -   {file: "greg3.jpg", artist: "Greg Wohead"}
-
 ---
