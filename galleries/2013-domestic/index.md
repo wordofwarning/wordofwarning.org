@@ -13,7 +13,6 @@ more_url: "../../current/2013-domestic/index.html"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small>Domestic presented with Guinness Northern Counties, Z-arts + City Response Limited</small>"}
-    -   {file: "bradley1.jpg", artist: "Alex Bradley + Scott Smith"}
     -   {file: "bradley2.jpg", artist: "Alex Bradley + Scott Smith"}
     -   {file: "smallacts1.jpg", artist: "Small Acts"}
     -   {file: "smallacts2.jpg", artist: "Small Acts"}
@@ -27,5 +26,6 @@ gallery:
     -   {file: "greg1.jpg", artist: "Greg Wohead"}
     -   {file: "greg2.jpg", artist: "Greg Wohead"}
     -   {file: "greg3.jpg", artist: "Greg Wohead"}
+    -   {file: "bradley1.jpg", artist: "Alex Bradley + Scott Smith"}
 
 ---
