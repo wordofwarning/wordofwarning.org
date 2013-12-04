@@ -9,24 +9,24 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 header_url: "../../galleries/index.html"
-more_link: Works Ahead 2013
-more_url: "../../archive/2013-worksahead/index.html"
+more_link: Domestic
+more_url: "../../current/2013-domestic/index.html"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "<small>Images: Bee Mackenzie, Javier Camañas Saéz, Tamsin Drury, Andrew Crofts</small>"}
-    -   {file: "bradley1.jpg", artist: "70/30 Split"}
-    -   {file: "bradley2.jpg", artist: "70/30 Split"}
-    -   {file: "smallacts1.jpg", artist: "Kitty Graham"}
-    -   {file: "smallacts2.jpg", artist: "Joseph Lau"}
-    -   {file: "smallacts3.jpg", artist: "Joseph Lau"}
-    -   {file: "leentje1.jpg", artist: "Ellen Turner"}
-    -   {file: "leentje2.jpg", artist: "Ellen Turner"}
-    -   {file: "leentje3.jpg", artist: "Lena Simic"}
-    -   {file: "fergus1.jpg", artist: "Lena Simic"}
-    -   {file: "fergus2.jpg", artist: "Façade Theatre"}
-    -   {file: "fergus3.jpg", artist: "Façade Theatre"}
-    -   {file: "greg1.jpg", artist: "Wayne Steven Jackson"}
-    -   {file: "greg2.jpg", artist: "Wayne Steven Jackson"}
-    -   {file: "greg3.jpg", artist: "Wayne Steven Jackson"}
+    -   {file: "titlepage.jpg", artist: "<small>Domestic presented with Guinness Northern Counties, Z-arts + City Response Limited</small>"}
+    -   {file: "bradley1.jpg", artist: "Alex Bradley + Scott Smith"}
+    -   {file: "bradley2.jpg", artist: "Alex Bradley + Scott Smith"}
+    -   {file: "smallacts1.jpg", artist: "Small Acts"}
+    -   {file: "smallacts2.jpg", artist: "Small Acts"}
+    -   {file: "smallacts3.jpg", artist: "Small Acts"}
+    -   {file: "leentje1.jpg", artist: "Leentje Van de Cruys"}
+    -   {file: "leentje2.jpg", artist: "Leentje Van de Cruys"}
+    -   {file: "leentje3.jpg", artist: "Leentje Van de Cruys"}
+    -   {file: "fergus1.jpg", artist: "J.Fergus Evans"}
+    -   {file: "fergus2.jpg", artist: "J.Fergus Evans"}
+    -   {file: "fergus3.jpg", artist: "J.Fergus Evans"}
+    -   {file: "greg1.jpg", artist: "Greg Wohead"}
+    -   {file: "greg2.jpg", artist: "Greg Wohead"}
+    -   {file: "greg3.jpg", artist: "Greg Wohead"}
 
 ---
