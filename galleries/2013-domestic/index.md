@@ -4,15 +4,16 @@ layout: fullscreengallery
 assetpath: "../../../"
 galleryimagespath: ""
 
-title: "Word of Warning presents Domestic"
+title: "Word of Warning + Contact present Domestic"
 header: <img src="logo.png">
 stylesheet: gallery.css
 
-more_link: Domestic
-more_url: "../../current/2013-domestic/index.html"
+header_url: "../../galleries/index.html"
+more_link: Works Ahead 2013
+more_url: "../../archive/2013-worksahead/index.html"
 
 gallery:
-    -   {file: "titlepage.jpg", show: "<small>Domestic</small>"}
+    -   {file: "titlepage.jpg", artist: "<small>Images: Bee Mackenzie, Javier Camañas Saéz, Tamsin Drury, Andrew Crofts</small>"}
     -   {file: "bradley1.jpg", artist: "Alex Bradley + Scott Smith"}
     -   {file: "bradley2.jpg", artist: "Alex Bradley + Scott Smith"}
     -   {file: "smallacts1.jpg", artist: "Small Acts"}
