@@ -4,7 +4,7 @@ layout: fullscreengallery
 assetpath: "../../../"
 galleryimagespath: ""
 
-title: "Word of Warning + Contact present Works Ahead 2013"
+title: "Word of Warning presents Domestic"
 header: <img src="logo.png">
 stylesheet: gallery.css
 
@@ -14,18 +14,19 @@ more_url: "../../archive/2013-worksahead/index.html"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small>Images: Bee Mackenzie, Javier Camañas Saéz, Tamsin Drury, Andrew Crofts</small>"}
-    -   {file: "7030.jpg", artist: "70/30 Split"}
-    -   {file: "70302.jpg", artist: "70/30 Split"}
-    -   {file: "kitty.jpg", artist: "Kitty Graham"}
-    -   {file: "lau1.jpg", artist: "Joseph Lau"}
-    -   {file: "lau2.jpg", artist: "Joseph Lau"}
-    -   {file: "ellen1.jpg", artist: "Ellen Turner"}
-    -   {file: "ellen2.jpg", artist: "Ellen Turner"}
-    -   {file: "lena1.jpg", artist: "Lena Simic"}
-    -   {file: "lena2.jpg", artist: "Lena Simic"}
-    -   {file: "facade1.jpg", artist: "Façade Theatre"}
-    -   {file: "facade2.jpg", artist: "Façade Theatre"}
-    -   {file: "wayne1.jpg", artist: "Wayne Steven Jackson"}
-    -   {file: "wayne2.jpg", artist: "Wayne Steven Jackson"}
+    -   {file: "bradley1.jpg", artist: "70/30 Split"}
+    -   {file: "bradley2.jpg", artist: "70/30 Split"}
+    -   {file: "smallacts1.jpg", artist: "Kitty Graham"}
+    -   {file: "smallacts2.jpg", artist: "Joseph Lau"}
+    -   {file: "smallacts3.jpg", artist: "Joseph Lau"}
+    -   {file: "leentje1.jpg", artist: "Ellen Turner"}
+    -   {file: "leentje2.jpg", artist: "Ellen Turner"}
+    -   {file: "leentje3.jpg", artist: "Lena Simic"}
+    -   {file: "fergus1.jpg", artist: "Lena Simic"}
+    -   {file: "fergus2.jpg", artist: "Façade Theatre"}
+    -   {file: "fergus3.jpg", artist: "Façade Theatre"}
+    -   {file: "greg1.jpg", artist: "Wayne Steven Jackson"}
+    -   {file: "greg2.jpg", artist: "Wayne Steven Jackson"}
+    -   {file: "greg3.jpg", artist: "Wayne Steven Jackson"}
 
 ---
