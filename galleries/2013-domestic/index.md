@@ -5,6 +5,7 @@ assetpath: "../../../"
 galleryimagespath: ""
 
 title: "Word of Warning presents Domestic"
+header: 
 stylesheet: gallery.css
 
 header_url: "../../galleries/index.html"
