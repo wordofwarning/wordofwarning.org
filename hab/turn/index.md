@@ -15,11 +15,11 @@ header_image: "header_turn_photo.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Turn** is our annual platform for NW dancers + dance-makers, featuring up to 15 short pieces of work over two nights in Manchester — see 2013's [programme](/archive/2013-turn) and [gallery](/galleries/2013-turn); the sixth Turn takes place on 4 + 5 April 2014, at [Contact](http://contactmcr.com).
+**Turn** is our annual platform for NW dancers + dance-makers, featuring up to 15 short pieces of work over two nights in Manchester — see 2013's [programme](/archive/2013-turn) and [gallery](/galleries/2013-turn); the sixth Turn takes place on 4/5 April 2014, at [Contact](http://contactmcr.com).         
            
 ##Turn 2014 — call for proposals        
 **Friday 4 + Saturday 5 April 2014 — Contact, Manchester**        
-Turn 2014 is a hÅb, Contact, Dance Initiative Greater Manchester, Live at LICA co-production and a greenroom legacy project.        
+Turn 2014 is a hÅb, Contact, Dance Initiative Greater Manchester, Live at LICA co-production and a greenroom legacy project. [www.turnmcr.org](http://www.turnmcr.org) | #TurnMcr        
         
 **North West** dancers + dance-makers (*aged 18+*) are invited to submit proposals of short pieces of work, works in progress or extracts of longer works for inclusion in this event.        
         
@@ -59,3 +59,4 @@ The proposal form must be completed at one sitting (you can't save and return to
 Turn cannot offer fees or expenses.           
 There will be a technical meeting for all selected artists on Saturday 1 March 2014 (daytime).               
 Enquiries: <mailto:turn@habarts.org>
+[www.turnmcr.org](http://www.turnmcr.org) | #TurnMcr
