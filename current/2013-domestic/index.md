@@ -52,11 +52,15 @@ Dates: Friday 8 — Sunday 17 November 2013
 LIMITED CAPACITIES, BOOKING ESSENTIAL:          
 Ticketed Shows + Appointments can be [booked online; a fee applies to Shows](http://www.wegottickets.com/wordofwarning).
 Ticketed Shows + Appointments can be reserved over the phone: 07581 299 439 (leave a message + we'll get back to you).   
-        
+         
+####What people said about the work
+A preview of Domestic + review of Leentje Van de Cruys' [*Kitsch'n Sync*](/vandecruys) is [here](http://www.mancky.co.uk/?p=11212).        
+A review of Domestic is [here](http://mancunion.com/2013/12/03/domestic-festival/).        
+         
 ####Access Information    
 As a sited event, *Domestic* presents a number of access challenges, and wheelchair access may not be possible, dependent on width of chair.   **If you are a wheelchaire user and plan to come please contact us ASAP on 07581 299 439.**   
 Please see individual show listings for details of specific age and access information or, to discuss, email <mailto:info@habarts.org> or call 07581 299 439.    
 There is no general audience parking in Cooper House; Blue Badge holders please contact us and we will make arrangements.    
-
+         
 ####Credits         
 Produced by [hÅb](/hab); supported by [Guinness Northern Counties](http://www.guinnesspartnership.com/about-us/news/gnc/2013/October/manchester%20tower%20block%20plays%20host%20to%20performing%20arts%20festival.aspx), [Z-arts](http://www.z-arts.org) + [City Response Ltd](http://www.cityresponse.co.uk). With thanks to [Wesley Community Furniture](http://www.thewesley.org.uk/index.html).
