@@ -60,6 +60,7 @@ She is an Associate Artist with Artsadmin, Chelsea Theatre and New Unity.
            
 ####What people have said about her     
 >*Stacy Makishi has a way of transforming the mundane into the radiant, where everyday people speak their innermost thoughts and where we as an audience experience truthful human moments that at times approach the surreal.*<br>Joshua Sofaer       
+A preview of *The Falsettos* by [Manchester Wire](http://manchesterwire.co.uk/#!/word-of-warnings-the-falsettos-at-z-arts-and-bryony-kimmings-at-contact).
 ![Stacy Makishi](stacy2.jpg)    
          
 ####Credits    
