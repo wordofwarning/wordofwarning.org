@@ -19,7 +19,7 @@ header_image: "header_turn_photo.jpg"
            
 ##Turn 2014 — call for proposals        
 **Friday 4 + Saturday 5 April 2014 — Contact, Manchester**        
-Turn 2014 is a hÅb, Contact, Dance Initiative Greater Manchester, Live at LICA co-production and a greenroom legacy project. [www.turnmcr.org](http://www.turnmcr.org) | #TurnMcr        
+Turn 2014 is a hÅb, Contact, Dance Manchester, Live at LICA co-production and a greenroom legacy project. [www.turnmcr.org](http://www.turnmcr.org) | #TurnMcr        
         
 **North West** dancers + dance-makers (*aged 18+*) are invited to submit proposals of short pieces of work, works in progress or extracts of longer works for inclusion in this event.        
         
@@ -38,7 +38,7 @@ Turn 2014 is a hÅb, Contact, Dance Initiative Greater Manchester, Live at LICA 
 ● a public platform;        
 ● an opportunity for artists to meet, show and peer review work;        
 ● an artist networking event;         
-● a selection platform for the Turn Prize (*a small, supported commission, supported by hÅb, DiGM, Contact, Live at LICA*).        
+● a selection platform for the Turn Prize (*a small, supported commission, supported by Dance Manchester, Contact, hÅb, Live at LICA*).        
         
 We are looking for dance in any form which uses the artists' creativity, has strong concept, original choreography and professional aspiration. For example, alongside Contemporary, we'd be interested in hearing about street dancers who are looking to choreograph a piece rather than to present a demonstration of skill; or classical work (from Ballet to Kathak, African and Chinese dance to Bharata Natyam) that is being re-imagined or re-explored, rather than a straight re-presentation of classic choreography.        
         
