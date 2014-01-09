@@ -26,7 +26,7 @@ header_image: "header_stacy.jpg"
 ####Venue + Booking Details    
 Date: Tue 18 Feb, 8pm     
 [Venue: Contact](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA    
-[Tickets: £11/6](https://contactmcr.com/whats-on/12664-proto-type-theater-the-good-the-god-and-the-guillotine/booking)(buy ten + get one free)    
+[Tickets: £11/6](https://contactmcr.com/whats-on/12664-proto-type-theater-the-good-the-god-and-the-guillotine/booking) | buy ten + get one free    
 Box Office Tel: 0161 274 0600     
         
 ####Q&A        
@@ -48,4 +48,4 @@ Age advisory: 15+
 .         
     
 ####Websites        
-<http://proto-type.org> | [@](https://twitter.com/Proto_type)
+<http://proto-type.org> | [@Proto_type](https://twitter.com/Proto_type)
