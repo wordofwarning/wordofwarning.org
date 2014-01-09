@@ -16,7 +16,7 @@ header_image: "header_stacy.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Contact + Word of Warning      
+<sub>*Presented by* Contact + Word of Warning</sub>      
 
 ####In Brief
 .             
@@ -24,25 +24,28 @@ header_image: "header_stacy.jpg"
 .        
           
 ####Venue + Booking Details    
-Date: Fri  FebMar, 7.30pm     
-[Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
-[Tickets: £9/5](http://contactmcr.com/whats-on/10252-stacy-makishi-the-falsettos/booking/)    
+Date: Tue 18 Feb, 8pm     
+[Venue: Contact](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA    
+[Tickets: £11/6](https://contactmcr.com/whats-on/12664-proto-type-theater-the-good-the-god-and-the-guillotine/booking)(buy ten + get one free)    
 Box Office Tel: 0161 274 0600     
         
 ####Q&A        
-There will be a post-show talk with the company.
+Following a short interval, there will be a post-show talk with the company.
                 
+####Access Information        
+Age advisory: 15+        
+        
 ####More            
 .            
                   
-####Who is she?    
+####Who are they?    
 .             
            
-####What people have said about her     
+####What people have said about them     
 >*.*<br>.       
          
 ####Credits    
 .         
     
 ####Websites        
-[www..com](http://www..com) | [@](https://twitter.com/)
+<http://proto-type.org> | [@](https://twitter.com/Proto_type)
