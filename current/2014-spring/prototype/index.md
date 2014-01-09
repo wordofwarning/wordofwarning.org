@@ -16,7 +16,7 @@ header_image: "header_stacy.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<sub>*Presented by* Contact + Word of Warning</sub>      
+<sub>*Presented by* Contact + Word of Warning</sub>WoW<small>WoW</small>      
 
 ####In Brief
 .             
