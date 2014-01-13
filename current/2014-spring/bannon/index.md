@@ -26,9 +26,9 @@ Watch trailer [here](http://vimeo.com/68437394).
 **Please note: this is a one-to-one encounter lasting approximately 9 minutes. Suitable for ages 17+.**        
          
 ####Venue + Booking Details
-Dates: Wednesday 12 + Thursday 13 March 2014, 5-7pm + 8-9pm (every 12 mins)
-[Venue: Cooper House](http://bit.ly/1anL5UN), off Boundary Lane, Manchester, M15 6DX         
-[Tickets: £3 / Free with a show ticket to Sylvia Rimat, Kindle Theatre or Rachel Mars](http://contactmcr.com/whats-on/12866-fs2014-jo-bannon-exposure/booking) | buy ten + get one free
+Dates: Wednesday 12 + Thursday 13 March 2014, 5-7pm + 8-9pm (every 12 mins)        
+[Venue: Contact](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA        
+[Tickets: £3 OR free with a Sylvia Rimat/Kindle Theatre/Rachel Mars show ticket](http://contactmcr.com/whats-on/12866-fs2014-jo-bannon-exposure/booking) | Special offer: buy ten + get one free
                        
 ####Access Information    
 Spoken word based, it takes place in a confined dark space.  
