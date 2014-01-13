@@ -16,25 +16,24 @@ header_image: "header_exposure.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* The Basement/East by South East, Contact + Word of Warning *during* Flying Solo       
+<small>*Presented by* The Basement/East by South East, Contact + Word of Warning *during* Flying Solo Festival 2014</small>       
 
 ####In Brief
 A tender and tentative look into autobiography, asking how fully we can reveal ourselves — to ourselves, to another, with another.          
                
 Watch trailer [here](http://vimeo.com/68437394).        
         
-**Please note: this is a one-to-one encounter lasting approximately 9 minutes. Suitable for ages 14+.**
+**Please note: this is a one-to-one encounter lasting approximately 9 minutes. Suitable for ages 17+.**        
          
 ####Venue + Booking Details
-Day One: Saturday 16 November 2013, [2pm](http://www.wegottickets.com/event/240556) [2.15pm](http://www.wegottickets.com/event/240583) [2.30pm](http://www.wegottickets.com/event/240591) [2.45pm](http://www.wegottickets.com/event/240599), [3pm](http://www.wegottickets.com/event/240574) [3.15pm](http://www.wegottickets.com/event/240584) [3.30pm](http://www.wegottickets.com/event/240593) [3.45pm](http://www.wegottickets.com/event/240601) | [5pm](http://www.wegottickets.com/event/240575) [5.15pm](http://www.wegottickets.com/event/240585) [5.30pm](http://www.wegottickets.com/event/240595) [5.45pm](http://www.wegottickets.com/event/240603), [6pm](http://www.wegottickets.com/event/240578) [6.15pm](http://www.wegottickets.com/event/240586) [6.30pm](http://www.wegottickets.com/event/240597) [6.45pm](http://www.wegottickets.com/event/240605)          
-Day Two: Sunday 17 November 2013, [2pm](http://www.wegottickets.com/event/240579) [2.15pm](http://www.wegottickets.com/event/240587) [2.30pm](http://www.wegottickets.com/event/240592) [2.45pm](http://www.wegottickets.com/event/240600), [3pm](http://www.wegottickets.com/event/240580) [3.15pm](http://www.wegottickets.com/event/240588) [3.30pm](http://www.wegottickets.com/event/240594) [3.45pm](http://www.wegottickets.com/event/240602) | [5pm](http://www.wegottickets.com/event/240581) [5.15pm](http://www.wegottickets.com/event/240589) [5.30pm](http://www.wegottickets.com/event/240596) [5.45pm](http://www.wegottickets.com/event/240604), [6pm](http://www.wegottickets.com/event/240582) [6.15pm](http://www.wegottickets.com/event/240590) [6.30pm](http://www.wegottickets.com/event/240598) [6.45pm](http://www.wegottickets.com/event/240606)                      
+Dates: Wednesday 12 + Thursday 13 March 2014, 5-7pm + 8-9pm (every 12 mins)
 [Venue: Cooper House](http://bit.ly/1anL5UN), off Boundary Lane, Manchester, M15 6DX         
-               
+[Tickets: £3 / Free with a show ticket to Sylvia Rimat, Kindle Theatre or Rachel Mars](http://contactmcr.com/whats-on/12866-fs2014-jo-bannon-exposure/booking) | buy ten + get one free
+                       
 ####Access Information    
 Spoken word based, it takes place in a confined dark space.  
-Age advisory: 14+    
-For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.         
-              
+Age advisory: 17+    
+        
 ####More      
 *Exposure* is the beginning of an investigation into how we look, how we are looked at and if we can ever really be seen. This intimate one-to-one performance is a tender and tentative look into autobiography, asking how fully we can reveal ourselves — to ourselves, to another, with another.        
         
@@ -53,8 +52,8 @@ At the core of her work is a fascination with human exchange and the hope and fu
 >*This step into the dark may cause trepidation but it’s a ten minute encounter well worth taking.*<br>The Public Reviews        
     
 ####Credits        
-Created by Jo Bannon. Image by Manual Vason.         
-Developed with the support of Rules and Regs and South Hill Park; further development supported by Bristol Ferment, Dartington Space with the support of the Dartington Hall Trust, The Basement, Residence, RWA, Arnolfini + BAC.              
+Created by Jo Bannon. Produced by MAYK. Image by Manual Vason.         
+Developed with the support of Rules and Regs + South Hill Park; further development supported by Bristol Ferment, Dartington Space with the support of the Dartington Hall Trust, The Basement, Residence, Royal West of England Academy, Arnolfini + BAC.              
 Supported using public funding by the National Lottery through Arts Council England.        
         
 ####Websites        
