@@ -25,13 +25,13 @@ Watch trailer [here](http://vimeo.com/68437394).
         
 **Please note: this is a one-to-one encounter lasting approximately 9 minutes. Suitable for ages 17+.**        
          
-####Venue + Booking Details
-Dates: Wednesday 12 + Thursday 13 March 2014, 5-7pm + 8-9pm (every 12 mins)        
+####Venue + Booking Details        
+Dates: Wednesday 12 + Thursday 13 March 2014, every 12 minutes 5-7pm + 8-9pm        
 [Venue: Contact](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA        
-[Tickets: £3 OR free with a Sylvia Rimat/Kindle Theatre/Rachel Mars show ticket](http://contactmcr.com/whats-on/12866-fs2014-jo-bannon-exposure/booking) | Special offer: buy ten + get one free
+[Tickets: £3 / Free with a Sylvia Rimat/Kindle Theatre/Rachel Mars ticket](http://contactmcr.com/whats-on/12866-fs2014-jo-bannon-exposure/booking) | Special offer: buy ten + get one free
                        
-####Access Information    
-Spoken word based, it takes place in a confined dark space.  
+####Access Information      
+Spoken word based, it takes place in a confined dark space.     
 Age advisory: 17+    
         
 ####More      
@@ -53,8 +53,7 @@ At the core of her work is a fascination with human exchange and the hope and fu
     
 ####Credits        
 Created by Jo Bannon. Produced by MAYK. Image by Manual Vason.         
-Developed with the support of Rules and Regs + South Hill Park; further development supported by Bristol Ferment, Dartington Space with the support of the Dartington Hall Trust, The Basement, Residence, Royal West of England Academy, Arnolfini + BAC.              
-Supported using public funding by the National Lottery through Arts Council England.        
+Developed with the support of Rules and Regs + South Hill Park; further development supported by Bristol Ferment, Dartington Space with the support of the Dartington Hall Trust, The Basement, Residence, Royal West of England Academy, Arnolfini + BAC. Supported using public funding by the National Lottery through Arts Council England.      
         
 ####Websites        
 [www.jobannon.co.uk](http://www.jobannon.co.uk) | [@missjobannon](http://twitter.com/missjobannon)
