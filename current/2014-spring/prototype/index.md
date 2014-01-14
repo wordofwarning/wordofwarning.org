@@ -19,7 +19,7 @@ header_image: "header_stacy.jpg"
 *Presented by* Contact + Word of Warning     
 
 ####In Brief
-A show that steals its style from the gig, the opera and the recital, *The Good, the God and the Guillotine* is a music-driven piece of theatre like no other.         
+A dystopian landscape of relationships, technologies, murder and redemption comes alive in this gig/opera hybrid with sung performance, hand-drawn animations and a live laptop 'orchestra'.
         
 Watch trailer [here](http://vimeo.com/75048789).        
         
@@ -37,14 +37,14 @@ Age advisory: 14+
 Following a short break, there will be a post-show talk with the company.
           
 ####More            
-*The Good, the God and the Guillotine* is a personal answer to the universal question, and was inspired by a reading of Albert Camus’ powerful 1942 novel *L’Étranger* (*The Stranger*).        
+A show that steals its style from the gig, the opera and the recital; a music-driven piece of theatre like no other — *The Good, the God and the Guillotine* is a personal answer to the universal question, inspired by a reading of Albert Camus’ powerful 1942 novel *L’Étranger* (*The Stranger*).        
           
 *A long walk, the beach. A fight, a murder. The heat, and the barking of dogs. We’re travelling out of the sun and towards darkness.*        
         
 Three performers and three laptop musicians create an atmospheric, cross-genre journey through a tangle of relationships and technologies, all set against reactive objects, lights and hand-drawn animations.         
             
-Proto-type Theater, collaborating with the musician/composers of MMUle, lighting designer Rebecca M. K. Makus and animator Adam York Gregory, present a performance sung and spoken across thirteen distinct chapters.        
-        
+Proto-type Theater, collaborating with the musician/composers of MMUle, lighting designer Rebecca M. K. Makus and animator Adam York Gregory, present a performance sung and spoken across thirteen distinct chapters.       
+       
 ####Who are they?    
 Proto-type Theater are a company of multi-disciplinary artists interested in live performance. They make original theatre and media work that is diverse in scale, subject and medium. Currently, they are exploring distributed narrative, city as source/site, the relationship between technology and intimacy, the sung-through format of music theatre and the nature of love and death.        
 
