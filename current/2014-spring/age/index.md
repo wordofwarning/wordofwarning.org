@@ -5,9 +5,9 @@ layout: 2014-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Ira Brand | Nicki Hobday + Sara Cocker" # the name of the artist or company
-show: "A Cure for Ageing | Age Concerns (work-in-progress)" # the name of the show
-artist_size: 2
+artist: "Michael Pinchbeck | Sheila Ghelani" # the name of the artist or company
+show: "The Middle (preview) | Rat, Rose, Bird" # the name of the show
+artist_size: 3
 show_size: 3
 header_image: "header_ghelani_photo.jpg"
 
@@ -20,55 +20,76 @@ header_image: "header_ghelani_photo.jpg"
 *Presented by* Word of Warning + Z-arts      
      
 ####In Brief    
-A double-bill of life-affirming performance — getting old, the passing of time, and the age-old truth that we've all started dying.
-         
+A foyer Hamlet in bubble wrap; and a meditation on leaving and staying-put.    
+     
 ####Venue + Booking Details    
-Date: Friday 28 February 2014, 7.30pm (Double Bill)   
-[Venue: STUN studio at Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
-[Tickets: £9/5](http://www.z-arts.org/events/wow-may/)    
+Date: Friday 31 May 2013, 7.30pm (Double Bill)   
+[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
+[Tickets: £8/5](http://www.z-arts.org/events/wow-may/)    
 Box Office Tel: 0161 232 6089     
     
-##Ira Brand    
-####More    
-*A Cure for Ageing* is a piece about being young and foolish, and becoming old and wise. Or about being young and wise, and becoming old and foolish. It asks how we can talk more honestly about ageing, drawing together true personal accounts and shameless speculation in a celebration of life and an attempt to fall in love with our own decline. A show of indelicate questions and immortal jellyfish, we consider numbers, years, the passing of time, and the fact that we have all, already, started dying.        
-        
-*I’m sorry to do this so early in the show. It’s really quite rude of me. But do you mind if I ask you how old you are?*       
-        
-####Who is she?    
-Ira is an artist, performance-maker and writer, working across theatre and live art. Her practice is rooted in the experience of being human, rather than singular narratives, and aims to make an audience re-consider themselves, and the world within which they live, through work that is evocative and intimate.              
-*A Cure for Ageing* is Ira’s second full-length solo performance. Her first solo show, *Keine Angst*, toured the UK in 2011-12. Her work has been presented at Camden People’s Theatre, The Junction, The ShowRoom, PULSE Festival, Buzzcut Festival, Forest Fringe, Norwich Arts Centre, and *A Cure for Ageing* was part of the SPILL Festival National Platform in 2012.             
-Ira's work often draws on autobiography, and research in the form of found images or objects, scientific, biographical, and factual sources. She likes talking to an audience, and her work increasingly includes elements of participation. Ira primarily makes live performance, and her work strives to be visceral, exciting, funny and tender. She is committed to making work that uses experimental modes of performance but remains humorous, playful and accessible to a wide audience.               
-Ira was a founding member of collaborative performance groups Tinned Fingers and Antique Women. She regularly also works in collaboration with other companies and artists, which currently include Made In China and Andy Field.             
-               
-####What people have said about her    
->*Brand is passionate, knowledgeable, inquisitive and tender in her approach to the audience and the
-subject matter… Through an hour that passes by all too quickly, Brand explores how it feels to
-become old, the effects of ageing on our bodies and minds, and the impact our own ageing has on
-those close to us. This is not a show one would describe as pleasant or entertaining. It's powerful,
-uncomfortable, and beautiful… Her methods are unashamedly unscientific yet the work carries an
-authority born out of absolute honesty.*<br>Fringe Review, Highly Recommended Show at the Edinburgh Fringe Festival 2013    
->*At times gut wrenchingly honest, and at others quite humorously direct, this piece opened more
-questions than it answered…. Just what theatre should be; with an engaging aesthetic, a weaving
-narrative of the author's own, and at least one thought to take way and chew over.*<br>Audience member, London
+![The Middle](header_middle_photo.jpg)    
     
-          
-####Credits    
-Created and performed by Ira Brand. Dramaturgy by Wendy Hubbard. Co-produced by Ira Brand and DREAM.             
-Developed at and supported by Cambridge Junction, Camden People’s Theatre + The Yard Theatre. Supported using public funding by the National Lottery through Arts Council England.            
-              
-####Websites    
-[www.irabrand.co.uk](http://www.irabrand.co.uk) | [@irabrand](http://twitter.com/irabrand)      
-    
-##Nicki Hobday + Sara cocker    
+##Michael Pinchbeck    
 ####More    
-*Age Concerns*...
-        
-####Who are they?
-
-####What people have said about them
-
+Inspired by *Hamlet*, *The Middle* is a one-man show devised for a theatre foyer — a liminal space between outside and the inside, the real world and theatre. Hamlet is a character caught in a limbo between *To be or not to be*; and by casting his father, Tony Pinchbeck, to play the title role, Michael hopes to explore time passing, aging and the relationship between father and son.    
+    
+![The Middle by Julian Hughes](TheMiddle.jpg)
+    
+####Who is he?    
+Michael Pinchbeck is a writer, live artist and performance maker. He co-founded Metro-Boulot-Dodo in 1997 after studying Theatre and Creative Writing at Lancaster University. He left the company in 2004 to embark on a five-year live art project­ *The Long and Winding Road*, performed at the ICA (London), Ikon Gallery (Birmingham) and the Bluecoat (Liverpool). Michael was commissioned by Nottingham Playhouse to write *The White Album* (2006) and *The Ashes* (2011), and was awarded a bursary by Theatre Writing Partnership and funding from the British Council to research a new play — *Bolero*.    
+    
+He is currently working on a trilogy of devised performances inspired by Shakespearean plays: *The Beginning*, *The Middle* and *The End*. In 2008, Michael was selected by Arts Council England to represent the UK at the Biennale for Young Artists in Italy. In 2012, he was a creative ambassador for World Event Young Artists in Nottingham. His work has been selected twice for the British Council's Edinburgh Showcase. He has a Masters in Performance and Live Art from Nottingham Trent University and is currently undertaking a PhD at Loughborough University exploring the role of the dramaturg in contemporary performance. Michael is a co-director of Hatch, a platform for performance in the East Midlands, and lectures at the University of Lincoln.    
+     
+![The Middle by Julian Hughes](TheMiddle1.jpg)    
+      
+####What people have said about him    
+>*Pinchbeck is such an interesting theatre-maker*<br>The Guardian    
+    
+>*An individual practice that is powerful and compelling*<br>ArtArtArt magazine    
+     
 ####Credits    
-Commissioned by hÅb. Supported by The Future + Contact. Development supported using public funding by the National Lottery through Arts Council England.
-
+A hÅb micro-commission, developed at LPAC (Lincoln), Curve Theatre (Leicester) and Lakeside Arts Centre (Nottingham).    
+Production photos by Julian Hughes.    
+    
 ####Websites    
-[www.nickihobday.co.uk](http://www.nickihobday.co.uk) + [www.saracocker.com](http://www.saracocker.com) | [@Nickihobday](http://twitter.com/Nickihobday) + [@SaraCocker](http://twitter.com/SaraCocker)
+[www.michaelpinchbeck.co.uk](http://www.michaelpinchbeck.co.uk) | [@MDPinchbeck](http://twitter.com/MDPinchbeck)      
+    
+![Rat, Rose, Bird](header_ghelani2_photo.jpg)    
+     
+##Sheila Ghelani    
+####More    
+*Rat, Rose, Bird* explores empire, colonialism, mortality and love. Subtly mashing up cultures, curios, objects and ideas, the piece is a poetic meditation on farewells, departures, long journeys and “the hunt” — for a better life, a better love, a place to drop anchor or a space to claim (“finally!”) as one's own.    
+    
+Inhabiting the work as a kind of hostess/magician, Sheila reveals, explodes and mixes together a range of ingredients including champagne, rats, roses and birds in order to re-enact a set of memories, remembrances, exits and endings — over and over again.    
+     
+Perhaps there's something to be learnt by invoking the past? Or perhaps it's nothing more than a series of repetitions?    
+     
+Sheila Ghelani makes visually rich performance work that engages with ideas surrounding hybridity, migration and love. Her work has been shown at venues and festivals across Europe including Belluard Bollwerk International in Switzerland and The Wellcome Collection in London.   
+        
+####Who is she?
+Sheila originally trained in dance before moving over into the world of Live Art/Performance. As an artist she makes work that manifests in a range of media (video, object, participatory event, performance etc). She works both as a solo and collaborative artist.    
+
+She has shown work at venues and festivals across Europe including Belluard Bollwerk International in Switzerland, Fierce Festival in Birmingham, NRLA in Glasgow, Trouble Festival in Brussels, EPAF in Poland and the Wellcome Collection in London. In 2010 she also produced a book/flower-press that was represented by KaleidEditions at UK art/book fairs.   
+
+As a collaborative artist she is a long-standing Associate Artist of Blast Theory and has toured and performed nationally and internationally for them and many other companies. She also teaches in academic contexts and regularly mentors artists and students and gives public talks.    
+ 
+Her work is informed by her own experience of being mixed heritage. She is interested in the relationship between art and science with particular focus on hybridity, crossings, blood, skins, skinning, carefully controlled experiments, colour, genetics and love.   
+    
+####What people have said about her
+Two reviews of *Rat, Rose, Bird* at Chelsea Theatre in April 2013: Lara Tutton for The F-Word is [here](http://www.thefword.org.uk/reviews/2013/05/the_art_of_performance) and Lewis Church for EXEUNT is [here](http://exeuntmagazine.com/reviews/rat-rose-bird/).
+    
+####Credits    
+A BAC Scratch Commission, supported by the National Lottery through Arts Council England.    
+Lighting Design: Marty Langthorne
+Set: Marty Langthorne & Sheila Ghelani
+Sound: Bob Karper
+Outside-eye: Dicky Eton & Caitlin Newton-Broad
+Video advice: Becky Edmunds
+Producer: Sally Rose
+Costume: Emma Kate-Wood
+Sheila & Rose Image: Daniel Martin (2011)    
+*Rat, Rose, Bird* set image: Briony Campbell (2011)    
+           
+####Websites    
+[www.sheilaghelani.co.uk](http://www.sheilaghelani.co.uk) | [@SheilaGhelani](http://twitter.com/SheilaGhelani)
