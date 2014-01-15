@@ -16,33 +16,38 @@ header_image: "header_stacy.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Contact + Word of Warning      
-
+*Presented by* Contact, Word of Warning + Palaver Festival      
+                
 ####In Brief
-.             
+2 performers, 2 languages + 400 fresh flowers in a heartfelt story about survival.             
                
-.        
+Watch trailer [here](http://vimeo.com/69757628).        
           
 ####Venue + Booking Details    
-Date: Fri  FebMar, 7.30pm     
+Date: Thursday 27 March, 8.30pm     
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
-[Tickets: £9/5](http://contactmcr.com/whats-on/10252-stacy-makishi-the-falsettos/booking/)    
+[Tickets: £9/5](http://contactmcr.com/whats-on/13267-palaver-2014-two-destination-language-near-gone/booking) | Special offer: buy ten + get one free       
 Box Office Tel: 0161 274 0600     
         
-####Q&A        
-There will be a post-show talk with the company.
-                
+####Access Information        
+The performance lasts approximately XX minutes with no interval.     
+Age advisory: 15+       
+          
 ####More            
-.            
-                  
-####Who is she?    
+*Near Gone* is a heartfelt story about survival.                 
+                 
+Two performers have a difficult story to tell. They come on stage and launch themselves into an hour long attempt to put into words the utterly unspeakable.                 
+
+Delivered in English and Bulgarian, with fantastic gypsy-inspired music, this performance fills an empty space with two performers and 400 fresh flowers. It transforms you too, your sense of what it is to be a mother, a father, a child. And you’ll leave more fully alive than ever.             
+               
+####Who are they?    
 .             
            
-####What people have said about her     
+####What people have said about them     
 >*.*<br>.       
          
 ####Credits    
 .         
     
 ####Websites        
-[www..com](http://www..com) | [@](https://twitter.com/)
+[www.twodestinationlanguage.com](http://www.twodestinationlanguage.com) | [@2destlang](https://twitter.com/2destlang)
