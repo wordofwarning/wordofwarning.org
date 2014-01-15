@@ -4,10 +4,10 @@ layout: 2014-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Proto-type Theater" # the name of the artist or company
-show: "The Good, the God and the Guillotine" # the name of the show
-artist_size: 1
-show_size: 4
+artist: "2 Destination Language" # the name of the artist or company
+show: "Near Gone" # the name of the show
+artist_size: 2
+show_size: 2
 header_image: "header_stacy.jpg"
 
 # ABOUT THE SHOW - LAYOUT
