@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Rachel Mars" # the name of the artist or company
-show: "The Way That You Tell Them" # the name of the show
+show: "The Way You Tell Them" # the name of the show
 artist_size: 1
 show_size: 3
 header_image: "header_stacy.jpg"
