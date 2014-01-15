@@ -17,12 +17,11 @@ header_image: "header_stacy.jpg"
 
 ---
 <small>*Presented by* The Basement/East by South East, Contact + Word of Warning *during* Flying Solo Festival 2014</small>       
-Watch trailer [here](http://youtu.be/2p02Jf-Z344).         
-         
-####In Brief
+           
+####In Brief        
 A hilarious and moving show about how we use and abuse comedy.         
              
-Watch trailer [here].          
+Watch trailer [here](http://youtu.be/2p02Jf-Z344).                  
             
 ####Venue + Booking Details    
 Date: Thursday 13 March 2014, 7pm     
