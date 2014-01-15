@@ -4,10 +4,10 @@ layout: 2014-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Proto-type Theater" # the name of the artist or company
-show: "The Good, the God and the Guillotine" # the name of the show
+artist: "Kindle Theater" # the name of the artist or company
+show: "A Journey Round My Skull" # the name of the show
 artist_size: 1
-show_size: 4
+show_size: 2
 header_image: "header_stacy.jpg"
 
 # ABOUT THE SHOW - LAYOUT
@@ -16,7 +16,7 @@ header_image: "header_stacy.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Contact + Word of Warning      
+<small>*Presented by* The Basement/East by South East, Contact + Word of Warning *during* Flying Solo Festival 2014</small>      
 
 ####In Brief
 .             
@@ -24,13 +24,14 @@ header_image: "header_stacy.jpg"
 .        
           
 ####Venue + Booking Details    
-Date: Fri  FebMar, 7.30pm     
+Date: Wednesday 12 March 2014, 9pm     
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
-[Tickets: £9/5](http://contactmcr.com/whats-on/10252-stacy-makishi-the-falsettos/booking/)    
+[Tickets: £9/5](http://contactmcr.com/whats-on/12666-fs2014-kindle-theatre-a-journey-around-my-skull/booking)    
 Box Office Tel: 0161 274 0600     
         
-####Q&A        
-There will be a post-show talk with the company.
+####Access Information        
+The performance lasts approximately XX minutes with no interval.       
+Age advisory: 14+       
                 
 ####More            
 .            
@@ -45,4 +46,4 @@ There will be a post-show talk with the company.
 .         
     
 ####Websites        
-[www..com](http://www..com) | [@](https://twitter.com/)
+<http://kindletheatre.org.uk> | [@KindleTheatre](https://twitter.com/KindleTheatre)
