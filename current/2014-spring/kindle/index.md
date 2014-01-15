@@ -26,7 +26,7 @@ header_image: "header_stacy.jpg"
 ####Venue + Booking Details    
 Date: Wednesday 12 March 2014, 9pm     
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
-[Tickets: £9/5](http://contactmcr.com/whats-on/12666-fs2014-kindle-theatre-a-journey-around-my-skull/booking)    
+[Tickets: £9/5](http://contactmcr.com/whats-on/12666-fs2014-kindle-theatre-a-journey-around-my-skull/booking) | Special offer: buy ten + get one free      
 Box Office Tel: 0161 274 0600     
         
 ####Access Information        
