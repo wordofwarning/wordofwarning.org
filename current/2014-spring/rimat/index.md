@@ -4,10 +4,10 @@ layout: 2014-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Proto-type Theater" # the name of the artist or company
-show: "The Good, the God and the Guillotine" # the name of the show
+artist: "Sylvia Rimat" # the name of the artist or company
+show: "If you decide to stay" # the name of the show
 artist_size: 1
-show_size: 4
+show_size: 3
 header_image: "header_stacy.jpg"
 
 # ABOUT THE SHOW - LAYOUT
