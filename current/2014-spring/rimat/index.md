@@ -16,22 +16,23 @@ header_image: "header_stacy.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Contact + Word of Warning      
+<small>*Presented by* The Basement/East by South East, Contact + Word of Warning *during* Flying Solo Festival 2014</small>      
 
 ####In Brief
 .             
                
-.        
+Watch trailer [here](http://vimeo.com/61282946).        
           
 ####Venue + Booking Details    
-Date: Fri  FebMar, 7.30pm     
+Date: Wednesday 12 March 2014, 7pm     
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
-[Tickets: £9/5](http://contactmcr.com/whats-on/10252-stacy-makishi-the-falsettos/booking/)    
+[Tickets: £9/5](https://contactmcr.com/whats-on/12665-fs2014-sylvia-rimat-if-you-decide-to-stay/booking/) | Special offer: buy ten + get one free     
 Box Office Tel: 0161 274 0600     
         
-####Q&A        
-There will be a post-show talk with the company.
-                
+####Access Information
+The performance lasts approximately 60 minutes with no interval. 
+Age advisory: 16+       
+        
 ####More            
 .            
                   
@@ -45,4 +46,4 @@ There will be a post-show talk with the company.
 .         
     
 ####Websites        
-[www..com](http://www..com) | [@](https://twitter.com/)
+[www.sylviarimat.com](http://www.sylviarimat.com) | [@SylviaRimat](https://twitter.com/SylviaRimat)
