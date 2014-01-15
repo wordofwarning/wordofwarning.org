@@ -31,7 +31,7 @@ Box Office Tel: 0161 274 0600
         
 ####Access Information        
 The performance lasts approximately XX minutes with no interval.     
-Age advisory: 15+       
+Age advisory: 14+       
           
 ####More            
 *Near Gone* is a heartfelt story about survival.                 
@@ -41,8 +41,14 @@ Two performers have a difficult story to tell. They come on stage and launch the
 Delivered in English and Bulgarian, with fantastic gypsy-inspired music, this performance fills an empty space with two performers and 400 fresh flowers. It transforms you too, your sense of what it is to be a mother, a father, a child. And you’ll leave more fully alive than ever.             
                
 ####Who are they?    
-.             
-           
+Katherina Radeva and Alister Lownie share interests in contemporary theatre and performance practices, traversing art and theatre. They formally created Two Destination Language in the summer of 2011 after a year of working together.           
+              
+In December 2011 they were appointed Resident Company at Salisbury Arts Centre and in October 2012 became Associate Artists at The Point Eastleigh. Their projects vary from theatre pieces to site-specific experiences and installations with a very strong participatory or interactive element to all of their work.               
+              
+Live art, movement and drama have their place in both artists’ histories. A belief that live work should have its audience at its core, and that artists should strive to create stimulating experiences for their audiences, is the foundation of their collaborative practice, Two Destination Language.              
+                
+Community, identity and memory are the ideas which percolate all Two Destination Language work: an interest in boundaries and otherness, belonging and personal history. For the artists, community is a corollary of performative work, and it is a pleasure to share in its exploration. Interculturalism is also important to both artists; Alister’s Scottish heritage and Katherina’s Bulgarian background give them an interest in how cultures interact and develop.
+             
 ####What people have said about them     
 >*.*<br>.       
          
