@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Sylvia Rimat" # the name of the artist or company
-show: "If you decide to stay" # the name of the show
+show: "If You Decide To Stay" # the name of the show
 artist_size: 1
 show_size: 3
 header_image: "header_stacy.jpg"
