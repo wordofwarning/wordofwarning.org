@@ -8,7 +8,7 @@ artist: "Rachel Mars" # the name of the artist or company
 show: "The Way You Tell Them" # the name of the show
 artist_size: 1
 show_size: 3
-header_image: "header_stacy.jpg"
+header_image: "header_rachelmars.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
