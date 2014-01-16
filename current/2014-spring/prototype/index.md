@@ -19,7 +19,7 @@ header_image: "header_prototype.jpg"
 *Presented by* Contact + Word of Warning     
 
 ####In Brief
-A dystopian landscape of relationships, technologies, murder and redemption; a theatre/gig/opera hybrid with sung performance, hand-drawn animation and a live laptop 'orchestra'.
+A tangle of relationships, technologies and a live laptop orchestra; an operatic and lushly visual take on Camus’s *L’Etranger*.
         
 Watch trailer [here](http://vimeo.com/75048789).        
         
