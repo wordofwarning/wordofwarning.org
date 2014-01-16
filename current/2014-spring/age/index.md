@@ -17,16 +17,16 @@ header_image: "header_ira.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning
-     
-####In Brief    
+*Presented by* Word of Warning        
+           
+####In Brief     
 A double-bill of life-affirming performance explores our notions of ageing via immortal jellyfish, tea + biscuits — we have, already, started dying.            
            
 ####Venue + Booking Details    
 Date: Friday 28 February 2014, 7.30pm (Double Bill)   
 [Venue: STUN studio at Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
-Tickets: £9/5 | will be available from Monday 27 January
-Box Office Tel: 0161 232 6089 will be available from Monday 27 January     
+Tickets: £9/5 | will be available from Monday 27 January            
+Box Office Tel: 0161 232 6089 will be available from Monday 27 January         
         
 ####Access Information      
 The evening of performance will last approximately 2 hours including an interval.      
@@ -39,10 +39,9 @@ Age advisory: tbc
 *I’m sorry to do this so early in the show. It’s really quite rude of me. But do you mind if I ask you how old you are?*       
         
 ####Who is she?    
-Ira is an artist, performance-maker and writer, working across theatre and live art. Her practice is rooted in the experience of being human, rather than singular narratives, and aims to make an audience re-consider themselves, and the world within which they live, through work that is evocative and intimate.              
-*A Cure for Ageing* is Ira’s second full-length solo performance. Her first solo show, *Keine Angst*, toured the UK in 2011-12. Her work has been presented at Camden People’s Theatre, The Junction, The ShowRoom, PULSE Festival, Buzzcut Festival, Forest Fringe, Norwich Arts Centre, and *A Cure for Ageing* was part of the SPILL Festival National Platform in 2012.             
-Ira's work often draws on autobiography, and research in the form of found images or objects, scientific, biographical, and factual sources. She likes talking to an audience, and her work increasingly includes elements of participation. Ira primarily makes live performance, and her work strives to be visceral, exciting, funny and tender. She is committed to making work that uses experimental modes of performance but remains humorous, playful and accessible to a wide audience.               
-Ira was a founding member of collaborative performance groups Tinned Fingers and Antique Women. She regularly also works in collaboration with other companies and artists, which currently include Made In China and Andy Field.             
+Ira is an artist, performance-maker and writer, working across theatre and live art. Her practice is rooted in the experience of being human, rather than singular narratives, and aims to make an audience re-consider themselves, and the world within which they live, through work that is evocative and intimate. *A Cure for Ageing* is Ira’s second full-length solo performance. Her first solo show, *Keine Angst*, toured the UK in 2011-12. Her work has been presented at Camden People’s Theatre, The Junction, The ShowRoom, PULSE Festival, Buzzcut Festival, Forest Fringe, Norwich Arts Centre, and *A Cure for Ageing* was part of the SPILL Festival National Platform in 2012.             
+               
+Ira's work often draws on autobiography, and research in the form of found images or objects, scientific, biographical, and factual sources. She likes talking to an audience, and her work increasingly includes elements of participation. Ira primarily makes live performance, and her work strives to be visceral, exciting, funny and tender. She is committed to making work that uses experimental modes of performance but remains humorous, playful and accessible to a wide audience. Ira was a founding member of collaborative performance groups Tinned Fingers and Antique Women. She regularly also works in collaboration with other companies and artists, which currently include Made In China and Andy Field.             
                
 ####What people have said about her    
 >*Brand is passionate, knowledgeable, inquisitive and tender in her approach to the audience and the subject matter... Through an hour that passes by all too quickly, Brand explores how it feels to become old, the effects of ageing on our bodies and minds, and the impact our own ageing has on those close to us. This is not a show one would describe as pleasant or entertaining. It's powerful, uncomfortable, and beautiful... Her methods are unashamedly unscientific yet the work carries an authority born out of absolute honesty.*<br>Fringe Review, Highly Recommended Show at the Edinburgh Fringe Festival 2013    
