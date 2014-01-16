@@ -23,17 +23,16 @@ header_image: "header_ira.jpg"
 A double-bill of life-affirming performance — getting old, the passing of time, and the age-old truth that we've all started dying.
 
 Age Concerns is an authentic, warm and witty performance, which sensitively investigates the art of ageing, exploring the past, present, future, tea and biscuits.
-
-         
+                
 ####Venue + Booking Details    
 Date: Friday 28 February 2014, 7.30pm (Double Bill)   
 [Venue: STUN studio at Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
-[Tickets: £9/5](http://www.z-arts.org/events/wow-may/)    
-Box Office Tel: 0161 232 6089     
+Tickets: £9/5 | will be available from Monday 27 January
+Box Office Tel: 0161 232 6089 will be available from Monday 27 January     
         
 ####Access Information      
 The evening of performance will last approximately 2 hours including an interval.      
-Age advisory: ???      
+Age advisory: tbc      
       
 ##Ira Brand    
 ####More    
@@ -60,7 +59,14 @@ Developed at and supported by Cambridge Junction, Camden People’s Theatre + Th
     
 ##Nicki Hobday + Sara Cocker    
 ####More    
-*Age Concerns* is an authentic, warm and witty performance, which sensitively investigates the art of ageing, exploring the past, present, future, tea and biscuits.
+*Age Concerns* is an authentic, warm and witty performance sensitively investigating the art of ageing - exploring the past, present, future, tea and biscuits.
+
+Inspired by Nicki Hobday + Sara Cocker’s ongoing experience of working with old people in the care industry - they have worked with older people separately and together; they have made shows separately and now they are making a show together. The time they have spent with the elderly has given them a lot of fond memories, and "memories live longer than dreams". That’s what Hilda told them anyway. Hilda helped them make the show.
+
+Sharing the conversations they’ve had and the dances they’ve learnt with Hilda - an 88 year old lady who previously entertained “the old dears” in care homes before retirement.  Age Concerns centres around Hilda’s advice to Nicki + Sara on how to be entertaining. 
+
+
+
                    
 ####Who are they?
 Nicki Hobday is a Manchester based theatre maker and performer. She makes her own work, as well in collaboration with other artists and companies currently including Michael Pinchbeck (*The Beginning*) and 30 bird (*Domestic Labour: A Study in Love*).               
@@ -72,7 +78,8 @@ Sara Cocker makes and performs live work alongside other people. She is one fift
 >*Experimental, dangerous, funny and occasionally profound...*<br>The Stage, on Nicki Hobday Conquers Space         
            
 ####Credits       
-Commissioned by hÅb. Supported by The Future + Contact. Development supported using public funding by the National Lottery through Arts Council England.
-        
+Commissioned by hÅb + The Future. Supported by Contact, The HUB (Slung Low) + Live at LICA. Development supported using public funding by the National Lottery through Arts Council England.          
+                 
 ####Websites    
-[www.nickihobday.co.uk](http://www.nickihobday.co.uk) + [www.saracocker.com](http://www.saracocker.com) | [@Nickihobday](http://twitter.com/Nickihobday) + [@SaraCocker](http://twitter.com/SaraCocker)
+[www.nickihobday.co.uk](http://www.nickihobday.co.uk) | [www.saracocker.com](http://www.saracocker.com) | [www.the-future.co.uk](http://www.the-future.co.uk)              
+[@Nickihobday](http://twitter.com/Nickihobday) | [@SaraCocker](http://twitter.com/SaraCocker) | [@thefuturemcr](http://twitter.com/thefuturemcr)
