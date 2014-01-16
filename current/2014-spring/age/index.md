@@ -20,7 +20,7 @@ header_image: "header_ira.jpg"
 *Presented by* Word of Warning        
            
 ####In Brief     
-A double-bill of life-affirming performance explores our notions of ageing via immortal jellyfish, tea + biscuits — we have, already, started dying.            
+A double-bill of life-affirming performance explores our notions of ageing via immortal jellyfish, tea and biscuits.            
            
 ####Venue + Booking Details    
 Date: Friday 28 February 2014, 7.30pm (Double Bill)   
