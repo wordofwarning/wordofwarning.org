@@ -23,15 +23,13 @@ A tender and tentative look into autobiography, asking how fully we can reveal o
                
 Watch trailer [here](http://vimeo.com/68437394).        
         
-**Please note: this is a one-to-one encounter lasting approximately 9 minutes. Suitable for ages 17+.**        
-         
 ####Venue + Booking Details        
 Dates: Wednesday 12 + Thursday 13 March 2014, every 12 minutes 5-7pm + 8-9pm        
 [Venue: Contact](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA        
 [Tickets: £3 / Free with a Sylvia Rimat/Kindle Theatre/Rachel Mars ticket](http://contactmcr.com/whats-on/12866-fs2014-jo-bannon-exposure/booking) | Special offer: buy ten + get one free
                        
 ####Access Information      
-Spoken word based, it takes place in a confined dark space.     
+This is a one-to-one encounter lasting approximately 9 minutes; spoken word based, it takes place in a confined dark space.     
 Age advisory: 17+    
         
 ####More      
