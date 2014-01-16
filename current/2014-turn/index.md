@@ -18,18 +18,19 @@ show_size: 3
 ---
 *Presented by* Word of Warning + Contact    
         
-**Explosive, intimate, graceful and challenging — a two night micro-festival of emerging north west danceworks.**
+**Explosive, intimate, graceful and challenging — a two night micro-festival of emerging north west danceworks.**             
         
+Full programme to be announced in March; to get a feel for Turn see 2013's [programme](/archive/2013-turn) + [image gallery](/galleries/2013-turn).      
+       
 ####Venue + Booking Details
 Dates: Friday 4 + Saturday 5 April 2014, 7.30pm    
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
-[Tickets: £9/5 (two night pass £11/6) | Offer: buy ten tickets, get one free](https://contactmcr.com/whats-on/13070-turn-2014/booking/)    
+[Tickets: £9/5 (two night pass £11/6)](https://contactmcr.com/whats-on/13070-turn-2014/booking/) | Special offer: buy ten tickets, get one free    
 Box Office Tel: 0161 274 0600   
       
 ####What people said about Turn 2013    
-A 4* review of Friday night is [here](http://www.thepublicreviews.com/turn-2013-contact-manchester/).    
-A gallery of images from both nights is [here](/galleries/2013-turn).    
-A documentary about Tom Bowes Dance performing *Brute* on Saturday night is [here](http://vimeo.com/66465915).   
+A 4* review of Turn 2013's first night is [here](http://www.thepublicreviews.com/turn-2013-contact-manchester/).    
+A documentary about Tom Bowes Dance performing *Brute* in Turn 2013 is [here](http://vimeo.com/66465915).   
     
 ####Credits         
 Co-produced by hÅb, Contact, Dance Manchester + Live at LICA.
