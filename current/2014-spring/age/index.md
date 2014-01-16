@@ -9,7 +9,7 @@ artist: "Ira Brand | Nicki Hobday + Sara Cocker" # the name of the artist or com
 show: "A Cure for Ageing | Age Concerns (work-in-progress)" # the name of the show
 artist_size: 2
 show_size: 3
-header_image: "header_ghelani_photo.jpg"
+header_image: "header_ira.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,10 +17,13 @@ header_image: "header_ghelani_photo.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning + Z-arts      
+*Presented by* Word of Warning
      
 ####In Brief    
 A double-bill of life-affirming performance — getting old, the passing of time, and the age-old truth that we've all started dying.
+
+Age Concerns is an authentic, warm and witty performance, which sensitively investigates the art of ageing, exploring the past, present, future, tea and biscuits.
+
          
 ####Venue + Booking Details    
 Date: Friday 28 February 2014, 7.30pm (Double Bill)   
@@ -57,13 +60,18 @@ Developed at and supported by Cambridge Junction, Camden People’s Theatre + Th
     
 ##Nicki Hobday + Sara Cocker    
 ####More    
-*Age Concerns* is...
-        
+*Age Concerns* is an authentic, warm and witty performance, which sensitively investigates the art of ageing, exploring the past, present, future, tea and biscuits.
+                   
 ####Who are they?
-
-####What people have said about them
-
-####Credits    
+Nicki Hobday is a Manchester based theatre maker and performer. She makes her own work, as well in collaboration with other artists and companies currently including Michael Pinchbeck (*The Beginning*) and 30 bird (*Domestic Labour: A Study in Love*).               
+             
+Sara Cocker makes and performs live work alongside other people. She is one fifth of Eggs Collective, recently creating and performing work for Southbank Centre, Duckie, Latitude and The Royal Shakespeare Company. Sara delivers a creative storytelling project for older people in communities across Manchester.                  
+              
+####What people have said about them         
+>*... really beautifully performed and thoughtful work.*<br>Alice Booth, on an early sharing of Age Concerns            
+>*Experimental, dangerous, funny and occasionally profound...*<br>The Stage, on Nicki Hobday Conquers Space         
+           
+####Credits       
 Commissioned by hÅb. Supported by The Future + Contact. Development supported using public funding by the National Lottery through Arts Council England.
         
 ####Websites    
