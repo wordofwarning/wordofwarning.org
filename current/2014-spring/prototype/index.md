@@ -8,7 +8,7 @@ artist: "Proto-type Theater" # the name of the artist or company
 show: "The Good, the God and the Guillotine" # the name of the show
 artist_size: 1
 show_size: 4
-header_image: "header_stacy.jpg"
+header_image: "header_prototype.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -19,7 +19,7 @@ header_image: "header_stacy.jpg"
 *Presented by* Contact + Word of Warning     
 
 ####In Brief
-A dystopian landscape of relationships, technologies, murder and redemption comes alive in this gig/opera hybrid with sung performance, hand-drawn animations and a live laptop 'orchestra'.
+A dystopian landscape of relationships, technologies, murder and redemption; a theatre/gig/opera hybrid with sung performance, hand-drawn animation and a live laptop 'orchestra'.
         
 Watch trailer [here](http://vimeo.com/75048789).        
         
@@ -54,9 +54,10 @@ The company experiments with different media and forms, developing site and subj
              
 ####What people have said about them     
 >*This is beautifully crafted stuff that has a broader relevance and audience than a traditional theatre company based in one city could manage.*<br>Tina Jackson, The Metro (Manchester)        
->*...one of the more adventurous, innovative, and worthy cutting-edge groups that I know of.*<br>Martin Denton, The New York Theatre Experience        
+>*... one of the more adventurous, innovative, and worthy cutting-edge groups that I know of.*<br>Martin Denton, The New York Theatre Experience        
                      
 ####Credits    
+Directed by Andrew Westerside. Concept + text by Peter S. Petralia. Performed + devised by Leentje van de Cruys, Gillian Lees, Andrew Westerside + MMUle (Martin Blain, Nick Donovan, Jonas Hummel + Paul J. Rogers). Original music composed by Blain, Donovan + Rogers. Lighting design by Rebecca M. K. Makus. Animation by Adam York Gregory. Dramaturgy by Rachel Baynton + Jane Turner. Production Manager David McBride             
 Commissioned by Lincoln Performing Arts Centre, Manchester Metropolitan University (Crewe) and Tramway (Glasgow). Supported by Live at LICA. Supported using public funding by the National Lottery through Arts Council England.         
     
 ####Websites        
