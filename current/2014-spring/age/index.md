@@ -58,24 +58,21 @@ Developed at and supported by Cambridge Junction, Camden People’s Theatre + Th
 [www.irabrand.co.uk](http://www.irabrand.co.uk) | [@irabrand](http://twitter.com/irabrand)      
     
 ##Nicki Hobday + Sara Cocker    
-####More    
-*Age Concerns* is an authentic, warm and witty performance sensitively investigating the art of ageing - exploring the past, present, future, tea and biscuits.
-
-Inspired by Nicki Hobday + Sara Cocker’s ongoing experience of working with old people in the care industry - they have worked with older people separately and together; they have made shows separately and now they are making a show together. The time they have spent with the elderly has given them a lot of fond memories, and "memories live longer than dreams". That’s what Hilda told them anyway. Hilda helped them make the show.
-
-Sharing the conversations they’ve had and the dances they’ve learnt with Hilda - an 88 year old lady who previously entertained “the old dears” in care homes before retirement.  Age Concerns centres around Hilda’s advice to Nicki + Sara on how to be entertaining. 
-
-
-
-                   
+####More      
+*Age Concerns* is an authentic, warm and witty performance sensitively investigating the art of ageing — exploring the past, present, future, tea and biscuits.    
+      
+Inspired by Nicki Hobday + Sara Cocker’s ongoing experience of working with old people in the care industry — they have worked with older people separately and together; they have made shows separately and now they are making a show together. The time they have spent with the elderly has given them a lot of fond memories, and "memories live longer than dreams". That’s what Hilda told them anyway. Hilda helped them make the show.      
+       
+Sharing the conversations they’ve had and the dances they’ve learnt with Hilda — an 88 year old lady who previously entertained “the old dears” in care homes before retirement — *Age Concerns* centres around Hilda’s advice to Nicki + Sara on how to be entertaining.             
+            
 ####Who are they?
 Nicki Hobday is a Manchester based theatre maker and performer. She makes her own work, as well in collaboration with other artists and companies currently including Michael Pinchbeck (*The Beginning*) and 30 bird (*Domestic Labour: A Study in Love*).               
              
 Sara Cocker makes and performs live work alongside other people. She is one fifth of Eggs Collective, recently creating and performing work for Southbank Centre, Duckie, Latitude and The Royal Shakespeare Company. Sara delivers a creative storytelling project for older people in communities across Manchester.                  
               
 ####What people have said about them         
->*... really beautifully performed and thoughtful work.*<br>Alice Booth, on an early sharing of Age Concerns            
->*Experimental, dangerous, funny and occasionally profound...*<br>The Stage, on Nicki Hobday Conquers Space         
+>*... really beautifully performed and thoughtful work.*<br>Alice Booth, on an early sharing of *Age Concerns*            
+>*Experimental, dangerous, funny and occasionally profound...*<br>The Stage, on *Nicki Hobday Conquers Space*         
            
 ####Credits       
 Commissioned by hÅb + The Future. Supported by Contact, The HUB (Slung Low) + Live at LICA. Development supported using public funding by the National Lottery through Arts Council England.          
