@@ -50,10 +50,13 @@ Live art, movement and drama have their place in both artists’ histories. A be
 Community, identity and memory are the ideas which percolate all Two Destination Language work: an interest in boundaries and otherness, belonging and personal history. For the artists, community is a corollary of performative work, and it is a pleasure to share in its exploration. Interculturalism is also important to both artists; Alister’s Scottish heritage and Katherina’s Bulgarian background give them an interest in how cultures interact and develop.
              
 ####What people have said about them     
->*.*<br>.       
-         
-####Credits    
-.         
-    
+>*Immensely powerful and life-enhancing.*<br>          
+>*A reminder that even in our darkest times ther is hope.*<br>         
+>*Brilliant, original, energetic and beautiful*<br>audience feedback        
+          
+####Credits     
+Devised + performed by Katherina Radeva + Alister Lownie. Dramaturgy + additional direction by Charlotte Vincent. Photo by Alma Haser.       
+Winner of Pulse Fringe Suitcase Prize 2013. A Colchester Arts Centre commission, supported by The Point, Eastleigh. Supported using public funding by the National Lottery through Arts Council England.      
+      
 ####Websites        
 [www.twodestinationlanguage.com](http://www.twodestinationlanguage.com) | [@2destlang](https://twitter.com/2destlang)
