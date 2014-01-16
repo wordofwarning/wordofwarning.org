@@ -7,7 +7,7 @@ rootpath: "../../../"
 artist: "Kindle Theater" # the name of the artist or company
 show: "A Journey Round My Skull" # the name of the show
 artist_size: 1
-show_size: 2
+show_size: 3
 header_image: "header_kindle.jpg"
 
 # ABOUT THE SHOW - LAYOUT
