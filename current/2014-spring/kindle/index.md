@@ -4,7 +4,7 @@ layout: 2014-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Kindle Theater" # the name of the artist or company
+artist: "Kindle Theatre" # the name of the artist or company
 show: "A Journey Round My Skull" # the name of the show
 artist_size: 1
 show_size: 3
@@ -41,7 +41,8 @@ Based in Birmingham, Kindle Theatre is led by Emily Ayres, Samantha Fox + Olivia
 >*Wildly imaginative ... one of the best emerging companies in the country*<br>The Guardian       
          
 ####Credits    
-Written by Olivia Winteringham + Nick Walker. Performed by Olivia Winteringham. Directed by Graeme Rose. Sound Design by Iain Armstrong. A Bristol Old Vic Ferment commission.         
+Written by Olivia Winteringham + Nick Walker. Performed by Olivia Winteringham. Directed by Graeme Rose. Sound Design by Iain Armstrong.          
+A Bristol Old Vic Ferment commission.         
           
 ####Websites        
 <http://kindletheatre.org.uk> | [@KindleTheatre](https://twitter.com/KindleTheatre)
