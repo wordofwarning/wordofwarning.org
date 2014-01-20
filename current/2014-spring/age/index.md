@@ -23,14 +23,14 @@ header_image: "header_ira.jpg"
 A double-bill of life-affirming performance explores our notions of ageing via immortal jellyfish, tea and biscuits.            
            
 ####Venue + Booking Details    
-Date: Friday 28 February 2014, 7.30pm (Double Bill)   
+Date: Wednesday 26 February 2014, 8pm (Double Bill)   
 [Venue: STUN studio at Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
-Tickets: £9/5 | will be available from Monday 27 January            
-Box Office Tel: 0161 232 6089 will be available from Monday 27 January         
+Tickets: £9/5            
+Box Office Tel: 0161 232 6089  
         
 ####Access Information      
-The evening of performance will last approximately 2 hours including an interval.      
-Age advisory: tbc      
+The performances will last approximately 2 hours overall, including an interval.      
+Age advisory: 13+      
       
 ##Ira Brand    
 ####More    
