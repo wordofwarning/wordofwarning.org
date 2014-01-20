@@ -24,13 +24,13 @@ A double-bill of life-affirming performance explores our notions of ageing via i
            
 ####Venue + Booking Details    
 Date: Wednesday 26 February 2014, 8pm (Double Bill)   
-[Venue: STUN studio at Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
+[Venue: STUN Studio at Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
 Tickets: £9/5            
 Box Office Tel: 0161 232 6089  
         
 ####Access Information      
 The performances will last approximately 2 hours overall, including an interval.      
-Age advisory: 13+      
+Age advisory: 14+      
       
 ##Ira Brand    
 ####More    
@@ -54,6 +54,7 @@ Developed at and supported by Cambridge Junction, Camden People’s Theatre + Th
 ####Websites    
 [www.irabrand.co.uk](http://www.irabrand.co.uk) | [@irabrand](http://twitter.com/irabrand)      
     
+![Nicki Hobday + Sara Cocker](ageconcerns2.jpg)         
 ##Nicki Hobday + Sara Cocker    
 ####More      
 *Age Concerns* is an authentic, warm and witty performance sensitively investigating the art of ageing — exploring the past, present, future, tea and biscuits.    
