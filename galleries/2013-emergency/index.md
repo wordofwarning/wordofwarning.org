@@ -9,7 +9,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: Emergency 2013
-more_url: "../../current/2013-emergency/index.html"
+more_url: "../../archive/2013-emergency"
 
 gallery:
     -   {file: "titlepage.jpg", show: "<small>Images copyright &copy;2013 Word of Warning</small>"}
@@ -27,7 +27,7 @@ gallery:
     -   {file: "odonnell.jpg", artist: "Paul O'Donnell"}
     -   {file: "moriaty.jpg", artist: "Manoli Moriaty"}
     -   {file: "smallacts.jpg", artist: "Small Acts"}
-    -   {file: "sheepknuckle.jpg", artist: "Sheepknuckle"}
+    -   {file: "sheepknuckle.jpg", artist: "Sheep Knuckle"}
     -   {file: "voris.jpg", artist: "Voris/Buchanan"} 
     -   {file: "dirtyshade.jpg", artist: "Dirty Shade"}
     -   {file: "lindsay.jpg", artist: "Lindsay Bennett"}
