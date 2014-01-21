@@ -27,7 +27,7 @@ Watch Ira Brand's trailer [here](http://vimeo.com/84575373).
 ####Venue + Booking Details    
 Date: Wednesday 26 February 2014, 8pm (Double Bill)   
 [Venue: STUN Studio at Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
-[Tickets: £9/5](http://www.z-arts.org/events/TBC) | Please note: there is a limited capacity            
+[Tickets: £9/5](http://www.z-arts.org/events/word-of-warning-double-bill-ira-brand-nicki-hobday-sara-cocker) | Please note there is a limited capacity.            
 Box Office Tel: 0161 232 6089  
         
 ####Access Information      
