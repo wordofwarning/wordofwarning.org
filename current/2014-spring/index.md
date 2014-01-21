@@ -14,7 +14,7 @@ In Spring 2014 you'll mainly find us ensconced in Contact, starting with the ret
        
 We also see the third outing for [Turn](/current/2014-turn) at Contact, and the third [Works Ahead](/current/2014-worksahead) (watch this space for the big reveal of this year’s Works Ahead artists). We are also genuinely excited to be trying out a brand new space — the newly equipped STUN Studio at Z-arts — with a [double bill on ageing](/current/2014-spring/age) featuring Manchester’s own Nicki Hobday + Sara Cocker and Forest Fringe’s Ira Brand.        
         
-The season climaxes with the fifth Hazard — taking the city centre by surprise with more random sprees of eccentricity. Before that, however, look out for the odd bonus extra we may be sneaking in after Easter!    
+The season climaxes with the fifth [Hazard](/current/2014-hazard) — taking the city centre by surprise with more random sprees of eccentricity. Before that, however, look out for the odd bonus extra we may be sneaking in after Easter!    
            
 Really hoping to see you at some of our forthcoming programme; if you want to check out what happened last season, have a look at our [A/W 2013 archive](/archive/2013-autumnwinter).    
         
@@ -26,7 +26,7 @@ We take live work very seriously — but we don't take ourselves seriously at al
 For 2013 we presented a whirlwind of work from artists including Lowri Evans, Hetain Patel, Michael Pinchbeck, the vacuum cleaner + Stacy Makishi, also creating a bonkers day of live art for all ages (Haphazard) and a performance festival for a 70s block of flats (Domestic).       
         
 ####Who’s it for?
-**Anyone looking for a different night out**.    
+**Anyone looking for a different night out.**    
 
 We don’t want to put you off by talking labels – yes there’ll be theatre, live art, dance – the aim is to be anything but elitist or po-faced. So if you like comedy, music, gaming or just a friendly, stimulating evening – there’ll be something you might want to take a chance on.    
 
