@@ -4,8 +4,8 @@ layout: archive
 
 archived:
     - {folder: "2013-autumnwinter", name: "Autumn/Winter 2013", class: "aw2013"}
-    - {folder: "2013-domestic", name: "Domestic", class: "e2013"}
-    - {folder: "2013-emergency", name: "Emergency 2013", class: "dom"}
+    - {folder: "2013-domestic", name: "Domestic", class: "dom"}
+    - {folder: "2013-emergency", name: "Emergency 2013", class: "e2013"}
     - {folder: "2013-springsummer", name: "Spring/Summer 2013", class: "ss2013"}
     - {folder: "2013-worksahead", name: "Works Ahead 2013", class: "woah"}
     - {folder: "2013-turn", name: "Turn 2013", class: "t2013"}
