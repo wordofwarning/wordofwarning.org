@@ -3,7 +3,7 @@
 				<div class="twelve columns">
 					<a href="{{ page.rootpath }}index.html">Word of Warning</a> 
 					<nav>
-					    <a href="{{ page.rootpath }}current/2013-autumnwinter/index.html">Performance Programme</a>
+					    <a href="{{ page.rootpath }}current/2014-spring/index.html">Performance Programme</a>
 					    <a href="{{ page.rootpath }}archive/index.html">Archive</a> 
 					    <a href="{{ page.rootpath }}galleries/index.html">Galleries</a>
 					    <a href='http://wordofwarning.posthaven.com'>Update</a>
