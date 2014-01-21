@@ -28,7 +28,7 @@ Date: Wednesday 12 March 2014, 9pm
 Box Office Tel: 0161 274 0600     
         
 ####Access Information        
-The performance lasts approximately XX minutes with no interval.       
+The performance duration is to be confirmed; there will be no interval.       
 Age advisory: 14+       
                 
 ####More            
