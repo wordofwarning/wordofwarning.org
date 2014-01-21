@@ -9,7 +9,7 @@ stylesheet: gallery.css
 
 header_url: "../../galleries/index.html"
 more_link: Domestic
-more_url: "../../current/2013-domestic/index.html"
+more_url: "../../archive/2013-domestic"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small>Domestic presented with Guinness Northern Counties, Z-arts + City Response Limited</small>"}
