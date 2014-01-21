@@ -21,11 +21,13 @@ header_image: "header_ira.jpg"
            
 ####In Brief     
 A double-bill of life-affirming performance explores our notions of ageing via immortal jellyfish, tea and biscuits.            
-           
+                 
+Watch Ira Brand's trailer [here](http://vimeo.com/84575373).       
+         
 ####Venue + Booking Details    
 Date: Wednesday 26 February 2014, 8pm (Double Bill)   
 [Venue: STUN Studio at Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
-Tickets: £9/5            
+[Tickets: £9/5](http://www.z-arts.org/events/TBC) | Please note: there is a limited capacity            
 Box Office Tel: 0161 232 6089  
         
 ####Access Information      
