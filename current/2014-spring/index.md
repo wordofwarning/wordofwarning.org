@@ -6,30 +6,29 @@ rootpath: "../../"
 is_index: true
 
 ---
-From meditations on mortality to a life-affirming floral tribute, by way of canine beauty pageants and a dose of gallows humour. A season of choice...    
-
-In Spring 2014 you will mainly find us ensconced in Contact, starting with the return of Proto-type Theater with their operatic and lushly visual take on Camus’s L’Etranger, followed by a series of highly varied one-handers as part of the Flying Solo Festival - from Rachel Mars’s take on the stand-up experience to the marvellous Victoria Melody being upstaged by her scene-stealing bloodhound.    
-
-Two Destination Language (Katherina Radeva and Alistair Lownie) return to Word of Warning, filling the stage with hundreds of flowers in what one of my advisors described as one of the best shows they’d ever seen.    
-
-We also see the third outing for Turn at Contact and the third Works Ahead (watch this space for the big reveal of this year’s Works Ahead artists).
-We are, also genuinely excited to be trying out a brand new space - the newly equipped STUN Studio at Z-arts - with a double bill on ageing featuring Manchester’s own Nicki Hobday and Sara Cocker and Forest Fringe’s Ira Brand.    
- 
-The season climaxes with the fifth Hazard - taking the city centre by surprise with more random sprees of eccentricity.    
-
-Before that, however, look out for the odd bonus extra we may be sneaking in after Easter!    
-  
-Really hoping to see you at some of the forthcoming programme. If you want to check out what you missed last season, have a look at our [Autumn/Winter 2013 archive](/archive/2013-autumnwinter).    
- 
+From meditations on mortality to a life-affirming floral tribute, by way of canine beauty pageants and a dose of gallows humour. A season of choice…    
+         
+In Spring 2014 you'll mainly find us ensconced in Contact, starting with the return of Proto-type Theater in their operatic and lushly visual take on Camus’s *L’Etranger*, followed by a series of highly varied one-handers as part of Flying Solo Festival 2014 — from Rachel Mars’s take on the stand-up experience to the marvellous Victoria Melody being upstaged by her scene-stealing basset hound.       
+         
+Two Destination Language (Katherina Radeva + Alister Lownie) return to Word of Warning, filling the stage with hundreds of flowers in what one of my advisors described as one of the best shows they’d ever seen.       
+       
+We also see the third outing for Turn at Contact and the third Works Ahead (watch this space for the big reveal of this year’s Works Ahead artists). We are also genuinely excited to be trying out a brand new space — the newly equipped STUN Studio at Z-arts — with a double bill on ageing featuring Manchester’s own Nicki Hobday + Sara Cocker and Forest Fringe’s Ira Brand.        
+        
+The season climaxes with the fifth Hazard — taking the city centre by surprise with more random sprees of eccentricity. Before that, however, look out for the odd bonus extra we may be sneaking in after Easter!    
+           
+Really hoping to see you at some of our forthcoming programme. If you want to check out what happened last season, have a look at our [Autumn/Winter 2013 archive](/archive/2013-autumnwinter).    
+        
 ####What is Word of Warning and where did it come from?
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of live performance: an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work in Manchester.
 
-We take live work very seriously – but we don't take ourselves seriously at all. In 2012, alongside funny, thought-provoking, beautiful work by the likes of Third Angel, Ellie Harrison, GETINTHEBACKOFTHEVAN, Levantes Dance Theatre, Action Hero, Richard DeDomenici, Made In China and many more, we served the audience gin and satsuma jello shots, played bingo, apple-bobbing, drenched them in confetti and reinvented St Andrews Day with snowballs and whisky macs.
-
+We take live work very seriously — but we don't take ourselves seriously at all. In 2012, alongside funny, thought-provoking, beautiful work by the likes of Third Angel, Ellie Harrison, GETINTHEBACKOFTHEVAN, Levantes Dance Theatre, Action Hero, Richard DeDomenici, Made In China and many more, we served the audience gin and satsuma jello shots, played bingo, apple-bobbing, drenched them in confetti and reinvented St Andrews Day with snowballs and whisky macs.        
+       
+For 2013 we presented a whirlwind of work from artists including Lowri Evans, Hetain Patel, Michael Pinchbeck, the vacuum cleaner + Stacy Makishi, also creating a bonkers day of live art for all ages (Haphazard) and a performance festival for a 70s block of flats (Domestic).       
+        
 ####Who’s it for?
 **Anyone looking for a different night out**.    
 
-We don’t want to put you off by talking labels – yes there’ll be theatre, live art, dance – but the aim is to be anything but elitist or po-faced. So if you like comedy, music, gaming or just a friendly, stimulating evening – there’ll be something you might want to take a chance on.    
+We don’t want to put you off by talking labels – yes there’ll be theatre, live art, dance – the aim is to be anything but elitist or po-faced. So if you like comedy, music, gaming or just a friendly, stimulating evening – there’ll be something you might want to take a chance on.    
 
 #### What people have said about the shows (audience 2012).    
 >*Very engaging, beautiful & thought provoking.*    
