@@ -7,8 +7,8 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Ira Brand | Nicki Hobday + Sara Cocker" # the name of the artist or company
 show: "A Cure for Ageing | Age Concerns (work-in-progress)" # the name of the show
-artist_size: 2
-show_size: 3
+artist_size: 3
+show_size: 4
 header_image: "header_ira.jpg"
 
 # ABOUT THE SHOW - LAYOUT
