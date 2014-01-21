@@ -19,7 +19,7 @@ header_image: "header_majortom.jpg"
 *Presented by* Contact + Word of Warning *during* Flying Solo Festival 2014      
        
 ####In Brief
-A show about how an unlikely pair of underdogs became a beauty queen and a championship show dog.          
+How a chubby 34 year old with a slightly smelly Basset Hound called Major Tom became a beauty queen and a championship show dog.          
          
 Watch trailer [here](http://vimeo.com/70623285).        
           
@@ -30,14 +30,18 @@ Date: Thursday 20 March, 8pm
 Box Office Tel: 0161 274 0600     
                
 ####Access Information
-The performance lasts approximately XX minutes with no interval. 
-Age advisory: 15+        
+The performance lasts approximately 75 minutes with no interval. 
+Age advisory: 14+        
              
 ####Q&A        
 Following a short break, there will be a post-show talk with the company.
                 
 ####More            
-.            
+Victoria unknowingly discovered that her basset hound (Major Tom) had prize-winning potential at a charity dog show and seized the opportunity to access the subculture of this extraordinarily exclusive member’s only club. Major Tom’s first championship show was a disaster and, feeling an overpowering sense of guilt about her dog being scrutinised, Victoria decided to put herself through the same process by becoming a beauty queen.             
+             
+Major Tom and Victoria increasingly immersed themselves into the obsessive and confusing realm of personal scrutiny as they participated as genuine contestants and aimed to win — Major Tom went to Crufts, with Victoria at 34 and 5ft 4 competing in Mrs England 2013; she currently holds the title of Mrs Brighton.          
+             
+This one woman, one dog show follows their story, reflecting on the British fascination with celebrities, beauty, and winning.       
                   
 ####Who is she?    
 .             
