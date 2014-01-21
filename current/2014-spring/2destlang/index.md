@@ -30,7 +30,7 @@ Date: Thursday 27 March, 8.30pm
 Box Office Tel: 0161 274 0600     
         
 ####Access Information        
-The performance lasts approximately XX minutes with no interval.     
+The performance lasts approximately 60 minutes with no interval.     
 Age advisory: 14+       
           
 ####More            
