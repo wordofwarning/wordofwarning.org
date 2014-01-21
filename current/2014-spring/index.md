@@ -8,15 +8,15 @@ is_index: true
 ---
 From meditations on mortality to a life-affirming floral tribute, by way of canine beauty pageants and a dose of gallows humour. A season of choice…    
          
-In Spring 2014 you'll mainly find us ensconced in Contact, starting with the return of [Proto-type Theater](/prototype) in their operatic and lushly visual take on Camus’s *L’Etranger*, followed by a series of highly varied one-handers as part of Flying Solo Festival 2014 — from Rachel Mars’s take on the stand-up experience to the marvellous Victoria Melody being upstaged by her scene-stealing basset hound.       
+In Spring 2014 you'll mainly find us ensconced in Contact, starting with the return of [Proto-type Theater](/current/2014-spring/prototype) in their operatic and lushly visual take on Camus’s *L’Etranger*, followed by a series of highly varied one-handers as part of Flying Solo Festival 2014 — from [Rachel Mars](/current/2014-spring/mars)’s take on the stand-up experience to the marvellous [Victoria Melody](/current/2014-spring/melody) being upstaged by her scene-stealing basset hound.       
          
-Two Destination Language (Katherina Radeva + Alister Lownie) return to Word of Warning, filling the stage with hundreds of flowers in what one of my advisors described as one of the best shows they’d ever seen.       
+[Two Destination Language](/current/2014-spring/2destlang) (Katherina Radeva + Alister Lownie) return to Word of Warning, filling the stage with hundreds of flowers in what one of my advisors described as one of the best shows they’d ever seen.       
        
-We also see the third outing for Turn at Contact and the third Works Ahead (watch this space for the big reveal of this year’s Works Ahead artists). We are also genuinely excited to be trying out a brand new space — the newly equipped STUN Studio at Z-arts — with a double bill on ageing featuring Manchester’s own Nicki Hobday + Sara Cocker and Forest Fringe’s Ira Brand.        
+We also see the third outing for [Turn](/current/2014-turn) at Contact, and the third [Works Ahead](/current/2014-worksahead) (watch this space for the big reveal of this year’s Works Ahead artists). We are also genuinely excited to be trying out a brand new space — the newly equipped STUN Studio at Z-arts — with a [double bill on ageing](/current/2014-spring/age) featuring Manchester’s own Nicki Hobday + Sara Cocker and Forest Fringe’s Ira Brand.        
         
 The season climaxes with the fifth Hazard — taking the city centre by surprise with more random sprees of eccentricity. Before that, however, look out for the odd bonus extra we may be sneaking in after Easter!    
            
-Really hoping to see you at some of our forthcoming programme. If you want to check out what happened last season, have a look at our [Autumn/Winter 2013 archive](/archive/2013-autumnwinter).    
+Really hoping to see you at some of our forthcoming programme; if you want to check out what happened last season, have a look at our [A/W 2013 archive](/archive/2013-autumnwinter).    
         
 ####What is Word of Warning and where did it come from?
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of live performance: an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work in Manchester.
@@ -50,7 +50,7 @@ My name’s Tamsin Drury and I run an organisation called **[hÅb](/hab)**, whic
 
 I’ve been around a while, a really long while… and in that time, I’ve been responsible for making the Arndale Tower flash, wrapping Cathedral Gardens in 7km of hazard tape and encouraging a mass audience conga and a glitter-cannon Hallelujah chorus!    
 
-On the less eccentric side over the years, hÅb has also worked with literally hundreds of young north west artists to help them create new pieces of theatre and dance.
+On the less eccentric side over the years, hÅb has also worked with literally hundreds of young NW artists to help them create new pieces of theatre + dance.
           
 Please send programming enquiries to me at info@habarts.org             
 
