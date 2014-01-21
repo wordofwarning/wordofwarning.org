@@ -44,7 +44,9 @@ Major Tom and Victoria increasingly immersed themselves into the obsessive and c
 This one woman, one dog show follows their story, reflecting on the British fascination with celebrities, beauty, and winning.       
                   
 ####Who is she?    
-.             
+Victoria Melody studied her post-graduate in fine art at Chelsea College of Art in 2001. Since 2001 Victoria has been creating humorous and thought-provoking work that appeals to a wide audience. Projects range from touring theatrical works to performance interventions and video installations.        
+        
+Victoria has presented her work nationally including venues such as Jacksons Lane, Soho Theatre, Carriageworks (Leeds), Oxford Playhouse, The Lowry, Tobacco Factory, The Junction + BAC. She also presented work internationally in 2013 at Push Festival (Vancouver), Canoe Theatre Festival (Edmonton) and in Interrarium (Banff).             
            
 ####What people have said about her     
 >*Beneath the show’s natural charm there’s an uneasy commentary on self-obsession.*<br>Exeunt Magazine        
