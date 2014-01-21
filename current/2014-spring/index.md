@@ -8,7 +8,7 @@ is_index: true
 ---
 From meditations on mortality to a life-affirming floral tribute, by way of canine beauty pageants and a dose of gallows humour. A season of choice…    
          
-In Spring 2014 you'll mainly find us ensconced in Contact, starting with the return of Proto-type Theater in their operatic and lushly visual take on Camus’s *L’Etranger*, followed by a series of highly varied one-handers as part of Flying Solo Festival 2014 — from Rachel Mars’s take on the stand-up experience to the marvellous Victoria Melody being upstaged by her scene-stealing basset hound.       
+In Spring 2014 you'll mainly find us ensconced in Contact, starting with the return of [Proto-type Theater](/prototype) in their operatic and lushly visual take on Camus’s *L’Etranger*, followed by a series of highly varied one-handers as part of Flying Solo Festival 2014 — from Rachel Mars’s take on the stand-up experience to the marvellous Victoria Melody being upstaged by her scene-stealing basset hound.       
          
 Two Destination Language (Katherina Radeva + Alister Lownie) return to Word of Warning, filling the stage with hundreds of flowers in what one of my advisors described as one of the best shows they’d ever seen.       
        
