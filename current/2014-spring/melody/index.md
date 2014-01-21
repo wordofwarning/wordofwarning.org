@@ -47,10 +47,12 @@ This one woman, one dog show follows their story, reflecting on the British fasc
 .             
            
 ####What people have said about her     
->*.*<br>.       
-         
+>*Beneath the show’s natural charm there’s an uneasy commentary on self-obsession.*<br>Exeunt Magazine        
+>*Victoria Melody has a unique way of looking at life. We could all do well to take time out and spend time in Victoria’s world. Life would certainly be a brighter place.*<br>The Public Reviews        
+        
 ####Credits    
-.         
-    
+Created + performed by Victoria Melody.        
+Commissioned + produced by Farnham Maltings. Developed at BAC, The Showroom (Chichester) + MAKE (Ireland). Supported using public funding by the National Lottery through Arts Council England.        
+         
 ####Websites        
 [www.victoriamelody.co.uk](http://www.victoriamelody.co.uk) | [@victoriamelody](https://twitter.com/victoriamelody)
