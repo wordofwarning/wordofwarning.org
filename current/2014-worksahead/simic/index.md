@@ -23,14 +23,14 @@ header_image: "header_1994_photo.jpg"
 A.    
 
 ####Venue + Booking Details, for Works Ahead
-Dates: Thursday 2 + Friday 3 May 2013, 7.30pm    
+Dates: Thursday 8 + Friday 9 May 2014, 7.30pm    
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
 [Tickets: £6/3](http://contactmcr.com/whats-on/13071-works-ahead-2014/booking) | Special offer: buy ten tickets, get one free       
 Box Office Tel: 0161 274 0600        
 *The same programme is presented each evening, there is no two night pass.*        
        
 ####Access Information      
-Part of a triple-bill of new performance, with each show taking place in a diferent space; this performance's duration is TBA; there is a limited capacity.     
+Part of a triple-bill of new performance, with each show taking place in a different space; this performance's duration is TBA; there is a limited capacity.     
 Age advisory: TBA
 
 ####More    
