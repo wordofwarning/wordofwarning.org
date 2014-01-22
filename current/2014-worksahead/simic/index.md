@@ -26,9 +26,9 @@ A.
 Dates: Thursday 2 + Friday 3 May 2013, 7.30pm    
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
 [Tickets: £6/3](http://contactmcr.com/whats-on/13071-works-ahead-2014/booking) | Special offer: buy ten tickets, get one free       
-*Please note: there is no two night pass — the same programme is presented each evening*    
-Box Office Tel: 0161 274 0600   
-               
+Box Office Tel: 0161 274 0600        
+*Please note: there is no two night pass — the same programme is presented each evening.*        
+       
 ####Access Information      
 Part of a triple-bill of new performance, with each show taking place in a diferent space; this performance's duration is TBA; there is a limited capacity.     
 Age advisory: TBA
