@@ -75,7 +75,7 @@ Sara Cocker makes and performs live work alongside other people. She is one fift
 >*Experimental, dangerous, funny and occasionally profound...*<br>The Stage, on *Nicki Hobday Conquers Space*         
            
 ####Credits       
-Commissioned by hÅb + The Future. Supported by Contact, The HUB (Slung Low) + Live at LICA. Development supported using public funding by the National Lottery through Arts Council England.          
+Commissioned by hÅb + The Future. Seed commissioned by Live at LICA. Supported by Contact + The HUB (Slung Low). Development supported using public funding by the National Lottery through Arts Council England.          
                  
 ####Websites    
 [www.nickihobday.co.uk](http://www.nickihobday.co.uk) | [www.saracocker.com](http://www.saracocker.com) | [www.the-future.co.uk](http://www.the-future.co.uk)              
