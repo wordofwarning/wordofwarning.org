@@ -34,7 +34,7 @@ Part of a triple-bill of new performance, with each show taking place in a diffe
 Age advisory: TBA
           
 ####Who are they?    
-SheepKnuckle are James Monaghan + Padraig Confrey — who make work that manifests often itself as an experiment; who are interested in using interactive media and ‘the self’ to challenge and de-construct traditional dramaturgy. They met at Salford University in their first year and have been in love ever since.     
+SheepKnuckle are James Monaghan + Padraig Confrey, who make work that manifests itself often as an experiment; who are interested in using interactive media and ‘the self’ to challenge and de-construct traditional dramaturgy. They met at Salford University in their first year and have been in love ever since.     
         
 ####Credits         
 Commissioned by hÅb; co-produced by Contact.
