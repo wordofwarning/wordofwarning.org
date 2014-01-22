@@ -17,12 +17,12 @@ header_image: "header_emergency_photo.jpg"
 ---
 Somewhat of an institution in these parts, **Emergency** is our annual platform for live art and contemporary performance featuring up to 40 short pieces of work in a single day, across a number of Manchester venues.     
      
-To get a feel for it, have a look at the 2013 [archive](/current/2013-emergency) and [gallery](/galleries/2013-emergency).    
+To get a feel for it, have a look at the 2013 [archive](/archive/2013-emergency) + [image gallery](/galleries/2013-emergency).    
 
-Our [fourteenth Emergency](/current/2013-emergency) took place on **Saturday 5 October 2013**, at BLANKSPACE + Z-arts.    
+Our [fourteenth Emergency](/archive/2013-emergency) took place on **Saturday 5 October 2013**, at BLANKSPACE + Z-arts.    
 
 Emergency is:    
->a free, public micro-festival + platform;   
+>a free, public micro-festival + open submission platform;   
 >an opportunity for artists to meet, show and peer-review work;      
 >a selection event for a number of small [Works Ahead](/hab/worksahead) commissions to be developed + supported by hÅb.    
        
