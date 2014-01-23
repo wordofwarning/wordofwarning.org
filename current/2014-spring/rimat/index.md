@@ -30,7 +30,7 @@ Date: Wednesday 12 March 2014, 7pm
 Box Office Tel: 0161 274 0600     
         
 ####Access Information
-The performance lasts approximately 60 minutes with no interval. 
+The performance lasts approximately 60 minutes with no interval; it includes moments of complete darkness (black-out); it uses spoken word from a dense source text.     
 Age advisory: 15+       
         
 ####More            
