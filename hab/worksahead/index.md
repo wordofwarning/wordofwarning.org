@@ -24,4 +24,4 @@ The second Works Ahead took place in May 2013, once more at Contact, with a nigh
        
 The third Works Ahead takes place 8/9 May 2014 at Contact, with a triple-bill of performance presented over two nights from Lindsay Bennett, Paul O’Donnell + SheepKnuckle… See the [programme](/current/2014-worksahead).
         
-#WorksAhead
+/#WorksAhead
