@@ -16,10 +16,12 @@ header_image: "header_woah_photo.jpg"
 
 ---
 
-**Works Ahead** is a new project, developed out of the old Method Lab and SeedFund schemes run with greenroom.  Started in 2012, it aims to offer very small supported work-in-development commissions for artists selected from the year's Emergency platform and/or other events. Support includes mentoring and a public showing of the next stage of the work.    
-
-Works Ahead took place in May 2012 at Contact, as a Contact Re:Con co-production and featured a night of performances and a night of interactions, featuring Lowri Evans, Gareth Cutter, Krissi Musiol, Julieann O'Malley, Angel Club (north), Small Acts, Fallen Wall Arts.  Have a look at the archive and gallery [here](/archive/2012-woah/index.html)    
-
-Works Ahead 2013 took place 2/3 May 2013, once more at Contact and featured a night of work that moves with 70/40 Split, Kitty Graham, Joseph Lau and winner of the 2012 Turn Prize, Ellen Turne; and work that speaks, with Lena Simic, Façade Theatre and Wayne Steven Jackson. For programme details click [here](/archive/2013-worksahead/index.html) and for [here](/galleries/2013-woah/index.html) for the gallery.   
-
-
+**Works Ahead** is a new project, developed out of the old Method Lab + SeedFund schemes we ran with greenroom. Started in 2012, it aims to offer very small supported work-in-development commissions for artists selected from the year's Emergency platform and/or other events. Support includes mentoring and a public showing of the next stage of the work…       
+        
+The first Works Ahead took place in May/June 2012 with a new partnership at Contact (as a Re:Con co-production), featuring a night of performances from Gareth Cutter, Lowri Evans, Krissi Musiol; and an evening of interactions from Angel Club (north), Fallen Wall Arts, Julieann O'Malley, Small Acts… See the [programme](/archive/2012-woah) + [image gallery](/galleries/2012-woah).        
+        
+The second Works Ahead took place in May 2013, once more at Contact, with a night of work that moved you from 70/30 Split, Kitty Graham, Joseph Lau + Ellen Turner (*winner of the 2012 Turn Prize*); and a night of work that spoke to you from Lena Simic, Façade Theatre, Wayne Steven Jackson… See the [programme](/archive/2013-worksahead) + [image gallery](/galleries/2013-woah).        
+       
+The third Works Ahead takes place 8/9 May 2014 at Contact, with a triple-bill of performance presented over two nights from Lindsay Bennett, Paul O’Donnell + SheepKnuckle… See the [programme](/current/2014-worksahead).
+        
+#WorksAhead
