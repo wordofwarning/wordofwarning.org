@@ -18,6 +18,7 @@ show_size: 3
 ---
 *Presented by* Word of Warning + Contact
          
+###Thu 8 + Fri 9 May, 7.30pm
 Our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content. To date, Works Ahead has brushed the petticoats of dance, skirted the fringes of musical theatre and warped the lines of performance installation…
           
 2014's artists will be announced here very soon; to get a feel for Works Ahead see 2013’s [programme](/archive/2013-worksahead) + [image gallery](/galleries/2013-woah).     
