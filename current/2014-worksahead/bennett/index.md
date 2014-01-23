@@ -39,5 +39,5 @@ Lindsay is an actress and artist based in the north west, with a spectrum of per
 ####Credits         
 Commissioned by hÅb; co-produced by Contact.
 
-####Websites
-[www](http://www) | [@](http://twitter.com/)
+####Website
+[@LinsyBennett](http://twitter.com/LinsyBennett)
