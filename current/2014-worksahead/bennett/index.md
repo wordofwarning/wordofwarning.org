@@ -8,7 +8,7 @@ rootpath: "../../../"
 artist: "Lindsay Bennett"
 show: "Exit Smiling (working title)"
 artist_size: 1
-show_size: 1
+show_size: 3
 header_image: "header_lindsay.jpg"
 
 # ABOUT THE SHOW - LAYOUT
@@ -20,8 +20,8 @@ header_image: "header_lindsay.jpg"
 *Part of* Works Ahead 2014, *presented by* Word of Warning + Contact      
          
 ####In Brief                      
-A.    
-
+Addressing the theory regarding identity and validation, with an individual journey documenting the life of an actress as she looks for the real person she is supposed to be playing. Having established a theatrical entrance she knows the importance of the dramatic ending — everything in the middle is just a show.       
+         
 ####Venue + Booking Details, for Works Ahead
 Dates: Thursday 8 + Friday 9 May 2014, 7.30pm    
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
@@ -33,14 +33,9 @@ Box Office Tel: 0161 274 0600
 Part of a triple-bill of new performance, with each show taking place in a different space; this performance's duration is TBA; there is a limited capacity.     
 Age advisory: TBA
 
-####More    
-    
-        
 ####Who is she?    
-
-####What people have said about her    
->*.*<br>    
-
+Lindsay is an actress and artist based in the north west, with a spectrum of performance diversity and history in Black Light Puppetry, Burlesque, theatre and screen acting. Her work is largely based on autobiographical experience and has been recognised in her approach to the cinematic and burlesquian aesthetic. *Exit Smiling* is her second solo show, having performed *6:41pm Mercury Complex* for Emergency 2013.        
+        
 ####Credits         
 Commissioned by hÅb; co-produced by Contact.
 
