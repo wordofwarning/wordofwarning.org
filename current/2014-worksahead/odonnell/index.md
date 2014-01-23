@@ -40,4 +40,4 @@ Paul is a solo artist/deviser whose previous credits include solo performances *
 Commissioned by hÅb; co-produced by Contact.
 
 ####Websites
-[www](http://www) | [@](http://twitter.com/)
+<http://podonnell6.wordpress.com> | [@podonnell2](http://twitter.com/podonnell2)
