@@ -18,10 +18,14 @@ show_size: 3
 ---
 *Presented by* Word of Warning + Contact
          
-###Thu 8 + Fri 9 May, 7.30pm
-Our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content. To date, Works Ahead has brushed the petticoats of dance, skirted the fringes of musical theatre and warped the lines of performance installation…
+###Thursday 8 + Friday 9 May 2014, 7.30pm
+Our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content. To date, Works Ahead has brushed the petticoats of dance, skirted the fringes of musical theatre and warped the lines of performance installation… 2014 sees three new commissions:        
+        
+[Lindsay Bennett](/current/2014-worksahead/bennett) | Exit Smiling <small>(working title)</small>        
+[Paul O'Donnell](/current/2014-worksahead/odonnell) | And Still You Give Me Nothing! <small>(working title)</small>       
+[SheepKnuckle](/current/2014-worksahead/sheepknuckle) | Echo        
           
-2014's artists will be announced here very soon; to get a feel for Works Ahead see 2013’s [programme](/archive/2013-worksahead) + [image gallery](/galleries/2013-woah).     
+To get a feel for Works Ahead see 2013’s [programme](/archive/2013-worksahead) + [image gallery](/galleries/2013-woah).     
               
 ####Venue + Booking Details
 Dates: Thursday 8 + Friday 9 May 2014, 7.30pm    
