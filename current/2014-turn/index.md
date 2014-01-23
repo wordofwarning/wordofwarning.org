@@ -17,10 +17,11 @@ show_size: 3
 
 ---
 *Presented by* Word of Warning + Contact    
+         
+###Friday 4 + Saturday 5 April 2014, 7.30pm
+Explosive, intimate, graceful and challenging — a two night micro-festival of emerging danceworks. Turn 2014 is our sixth annual platform for NW dancers + dance-makers, featuring up to 15 short pieces of work over two nights at Contact, Manchester; the programme will be announced here in March…        
         
-**Explosive, intimate, graceful and challenging — a two night micro-festival of emerging north west danceworks.**             
-        
-Full programme to be announced in March; to get a feel for Turn see 2013's [programme](/archive/2013-turn) + [image gallery](/galleries/2013-turn).      
+To get a feel for Turn see 2013's [programme](/archive/2013-turn) + [image gallery](/galleries/2013-turn).      
        
 ####Venue + Booking Details
 Dates: Friday 4 + Saturday 5 April 2014, 7.30pm    
