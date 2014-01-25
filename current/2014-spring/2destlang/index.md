@@ -4,9 +4,9 @@ layout: 2014-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "2 Destination Language" # the name of the artist or company
+artist: "Two Destination Language" # the name of the artist or company
 show: "Near Gone" # the name of the show
-artist_size: 2
+artist_size: 3
 show_size: 2
 header_image: "header_2dest.jpg"
 
