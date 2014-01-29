@@ -22,6 +22,8 @@ Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful an
 We take live work very seriously — but we don't take ourselves seriously at all. In 2012, alongside funny, thought-provoking, beautiful work by the likes of Third Angel, Ellie Harrison, GETINTHEBACKOFTHEVAN, Levantes Dance Theatre, Action Hero, Richard DeDomenici, Made In China and many more, we served the audience gin and satsuma jello shots, played bingo, apple-bobbing, drenched them in confetti and reinvented St Andrews Day with snowballs and whisky macs.        
        
 For 2013 we presented a whirlwind of work from artists including Lowri Evans, Hetain Patel, Michael Pinchbeck, the vacuum cleaner + Stacy Makishi, also creating a bonkers day of live art for all ages (Haphazard) and a performance festival for a 70s block of flats (Domestic).       
+
+>*Curated by the ever-impressive Word Of Warning, Domestic consists of seven offbeat shows staged in a 1970s tower block in Hulme.*<br>[The Guardian's Lyn Gardner, on Domestic](http://www.theguardian.com/stage/2013/nov/02/this-weeks-theatre)
         
 ####Who’s it for?
 **Anyone looking for a different night out.**    
