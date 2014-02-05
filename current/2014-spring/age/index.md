@@ -20,7 +20,7 @@ header_image: "header_ira.jpg"
 *Presented by* Word of Warning        
            
 ####In Brief     
-Two life-affirming performances explore our notions of ageing via tea, biscuits + immortal jellyfish.          
+A pair of life-affirming performances explore our notions of ageing via tea, biscuits + immortal jellyfish.          
             
 Watch Ira Brand's trailer [here](http://vimeo.com/84575373).       
          
