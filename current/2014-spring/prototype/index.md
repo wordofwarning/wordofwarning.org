@@ -30,7 +30,7 @@ Date: Tuesday 18 February 2014, 8pm
 Box Office Tel: 0161 274 0600     
         
 ####Access Information         
-The performance lasts approximately 70 minutes with no interval; it is entirely sung with a live, generated sound-track (*Proto-type can can provide a copy of the lyrics in advance,  please email<info@habarts.org>*); there are large-scale projections. Age advisory: 14+        
+The performance lasts approximately 70 minutes with no interval; it is entirely sung with a live, generated sound-track (*Proto-type can can provide a copy of the lyrics in advance,  please email <info@habarts.org>*); there are large-scale projections. Age advisory: 14+        
          
 ####Q&A        
 Following a short break, there will be a post-show talk with the company.
