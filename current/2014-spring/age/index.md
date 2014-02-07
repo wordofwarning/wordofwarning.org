@@ -31,8 +31,7 @@ Date: Wednesday 26 February 2014, 8pm (Double Bill)
 Box Office Tel: 0161 232 6089  
         
 ####Access Information      
-The performances will last approximately 2 hours overall, including an interval.      
-Age advisory: 14+      
+The performances will last approximately 2 hours overall, including an interval; includes some strong language, and deals with the topic of death, which might be inappropriate for younger children —  age advisory: 14+ (parental discretion).      
       
 ##Ira Brand    
 ####More    
