@@ -19,7 +19,7 @@ header_image: "header_majortom.jpg"
 *Presented by* Contact + Word of Warning *during* Flying Solo Festival 2014      
        
 ####In Brief      
-How a chubby average 34 year old became a beauty queen, and her unruly + slightly smelly pet basset hound (Major Tom) became a championship show dog.         
+How an average 34 year old became a beauty queen, and her unruly + slightly smelly pet basset hound (*Major Tom*) became a championship show dog.         
         
 Watch trailer [here](http://vimeo.com/70623285).        
           
@@ -30,7 +30,7 @@ Date: Thursday 20 March, 8pm
 Box Office Tel: 0161 274 0600     
                
 ####Access Information        
-The performance lasts approximately 75 minutes with no interval; with a high-text contect (including swearing) it is comedic and partly delivered in a lecture-style; it includes some use of projected image/film. Age advisory: 14+        
+The performance lasts approximately 75 minutes with no interval; with a high text-content (including swearing) it is comedic and partly delivered in a lecture-style; it includes some use of projected image/film. Age advisory: 14+        
        
 ####Q&A        
 Following a short break, there will be a post-show talk with the company.        
@@ -65,4 +65,4 @@ Created + performed by Victoria Melody.
 Commissioned + produced by Farnham Maltings. Developed at BAC, The Showroom (Chichester), MAKE (Ireland) + Nightingale Theatre. Supported using public funding by the National Lottery through Arts Council England; supported by Harlow Theatre + Escalator East to Edinburgh.
          
 ####Websites        
-[www.victoriamelody.co.uk](http://www.victoriamelody.co.uk) | [@victoriamelody](https://twitter.com/victoriamelody)
+[www.victoriamelody.co.uk](http://www.victoriamelody.co.uk) | [www.farnhammaltings.com](http://www.farnhammaltings.com) | [@victoriamelody](http://twitter.com/victoriamelody) | [@farnhammaltings](http://twitter.com/farnhammaltings)
