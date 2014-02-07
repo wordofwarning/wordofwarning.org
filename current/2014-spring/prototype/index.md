@@ -29,9 +29,8 @@ Date: Tuesday 18 February 2014, 8pm
 [Tickets: £11/6](https://contactmcr.com/whats-on/12664-proto-type-theater-the-good-the-god-and-the-guillotine/booking) | Special offer: buy ten + get one free    
 Box Office Tel: 0161 274 0600     
         
-####Access Information        
-The performance lasts approximately 70 minutes with no interval.         
-Age advisory: 14+        
+####Access Information         
+The performance lasts approximately 70 minutes with no interval; it is entirely sung with a live, generated sound-track (*Proto-type can can provide a copy of the lyrics in advance,  please email<info@habarts.org>*); there are large-scale projections. Age advisory: 14+        
          
 ####Q&A        
 Following a short break, there will be a post-show talk with the company.
