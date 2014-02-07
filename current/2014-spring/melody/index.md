@@ -34,8 +34,15 @@ The performance lasts approximately 75 minutes with no interval.
 Age advisory: 14+        
              
 ####Q&A        
-Following a short break, there will be a post-show talk with the company.
-                
+Following a short break, there will be a post-show talk with the company.        
+       
+####Workshop        
+Led by Victoria — a look at her creative triggers and approach to creating research-based work. **Over 14s only**   
+Date: Thursday 20 March 2014, 12noon-3pm. 
+[Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
+Tickets: £10/8 (*in person or telephone only*)
+Box Office Tel: 0161 274 0600      
+        
 ####More            
 Victoria unknowingly discovered that her basset hound (Major Tom) had prize-winning potential at a charity dog show and seized the opportunity to access the subculture of this extraordinarily exclusive member’s only club. Major Tom’s first championship show was a disaster and, feeling an overpowering sense of guilt about her dog being scrutinised, Victoria decided to put herself through the same process by becoming a beauty queen.             
              
