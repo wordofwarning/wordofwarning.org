@@ -30,7 +30,7 @@ Date: Thursday 20 March, 8pm
 Box Office Tel: 0161 274 0600     
                
 ####Access Information        
-The performance lasts approximately 75 minutes with no interval; with a high text-content (including swearing) it is comedic and partly delivered in a lecture-style; it includes some use of projected image/film. Age advisory: 14+        
+The performance lasts approximately 65 minutes with no interval; with a high text-content (including swearing) it is comedic and partly delivered in a lecture-style; it includes some use of projected image/film. Age advisory: 14+        
        
 ####Q&A        
 Following a short break, there will be a post-show talk with the company.        
@@ -57,8 +57,9 @@ Victoria has presented her work nationally + internationally at venues including
 Victoria Melody is produced by Farnham Maltings; they support, collaborate with, and invest in artists to make new theatre and reach new audiences.       
         
 ####What people have said about her     
->*Beneath the show’s natural charm there’s an uneasy commentary on self-obsession.*<br>Exeunt Magazine        
->*Victoria Melody has a unique way of looking at life. We could all do well to take time out and spend time in Victoria’s world. Life would certainly be a brighter place.*<br>The Public Reviews        
+>*5\* A truly winning comedy that is half-literally about the triumph of the underdog*<br>The Times        
+>*4\* Victoria Melody has a unique way of looking at life. We could all do well to take time out and spend time in Victoria’s world. Life would certainly be a brighter place.*<br>The Public Reviews        
+>*4\* Beneath the show’s natural charm there’s an uneasy commentary on self-obsession.*<br>Exeunt Magazine     
         
 ####Credits    
 Created + performed by Victoria Melody.        
