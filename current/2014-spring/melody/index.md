@@ -18,9 +18,9 @@ header_image: "header_majortom.jpg"
 ---
 *Presented by* Contact + Word of Warning *during* Flying Solo Festival 2014      
        
-####In Brief
-How a chubby 34 year old with a slightly smelly Basset Hound called Major Tom became a beauty queen and a championship show dog.          
-         
+####In Brief      
+How a chubby average 34 year old became a beauty queen, and her unruly + slightly smelly pet basset hound (Major Tom) became a championship show dog.         
+        
 Watch trailer [here](http://vimeo.com/70623285).        
           
 ####Venue + Booking Details    
@@ -52,15 +52,17 @@ This one woman, one dog show follows their story, reflecting on the British fasc
 ####Who is she?    
 Victoria Melody studied her post-graduate in fine art at Chelsea College of Art in 2001. Since 2001 Victoria has been creating humorous and thought-provoking work that appeals to a wide audience. Projects range from touring theatrical works to performance interventions and video installations.        
         
-Victoria has presented her work nationally including venues such as Jacksons Lane, Soho Theatre, Carriageworks (Leeds), Oxford Playhouse, The Lowry, Tobacco Factory, The Junction + BAC. She also presented work internationally in 2013 at Push Festival (Vancouver), Canoe Theatre Festival (Edmonton) and in Interrarium (Banff).             
-           
+Victoria has presented her work nationally + internationally at venues including Jacksons Lane, Soho Theatre, Carriageworks (Leeds), Oxford Playhouse, The Lowry, Bristol Old Vic, Cambridge Junction, Battersea Arts Centre, Summerhall (Edinburgh Festival Fringe), Push Festival (Canada), Aarhus Festival (Denmark) + Brisbane Festival (Australia).         
+       
+Victoria Melody is produced by Farnham Maltings; they support, collaborate with, and invest in artists to make new theatre and reach new audiences.       
+        
 ####What people have said about her     
 >*Beneath the show’s natural charm there’s an uneasy commentary on self-obsession.*<br>Exeunt Magazine        
 >*Victoria Melody has a unique way of looking at life. We could all do well to take time out and spend time in Victoria’s world. Life would certainly be a brighter place.*<br>The Public Reviews        
         
 ####Credits    
 Created + performed by Victoria Melody.        
-Commissioned + produced by Farnham Maltings. Developed at BAC, The Showroom (Chichester) + MAKE (Ireland). Supported using public funding by the National Lottery through Arts Council England.        
+Commissioned + produced by Farnham Maltings. Developed at BAC, The Showroom (Chichester), MAKE (Ireland) + Nightingale Theatre. Supported using public funding by the National Lottery through Arts Council England; supported by Harlow Theatre + Escalator East to Edinburgh.
          
 ####Websites        
 [www.victoriamelody.co.uk](http://www.victoriamelody.co.uk) | [@victoriamelody](https://twitter.com/victoriamelody)
