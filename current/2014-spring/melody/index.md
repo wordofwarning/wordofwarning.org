@@ -29,18 +29,17 @@ Date: Thursday 20 March, 8pm
 [Tickets: £11/6](http://contactmcr.com/whats-on/12668-fs2014-victoria-melody-major-tom/booking) | Special offer: buy ten + get one free     
 Box Office Tel: 0161 274 0600     
                
-####Access Information
-The performance lasts approximately 75 minutes with no interval. 
-Age advisory: 14+        
-             
+####Access Information        
+The performance lasts approximately 75 minutes with no interval; with a high-text contect (including swearing) it is comedic and partly delivered in a lecture-style; it includes some use of projected image/film. Age advisory: 14+        
+       
 ####Q&A        
 Following a short break, there will be a post-show talk with the company.        
        
 ####Workshop        
 Led by Victoria — a look at her creative triggers and approach to creating research-based work. **Over 14s only**   
-Date: Thursday 20 March 2014, 12noon-3pm. 
+Date: Thursday 20 March 2014, 12noon-3pm.         
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
-Tickets: £10/8 (*in person or telephone only*)
+Tickets: £10/8 (*in person or telephone only*)       
 Box Office Tel: 0161 274 0600      
         
 ####More            
