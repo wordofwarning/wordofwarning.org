@@ -30,6 +30,10 @@ Dates: Friday 4 + Saturday 5 April 2014, 7.30pm
 Box Office Tel: 0161 274 0600   
       
 ####What people said about Turn 2013    
+>*"Turn" is a new experience. Too many highlights to mention. Thank you WoW!*      
+>*Great to see creative innovative new local work. Really good vibe.*      
+>*Fantastic platform for artists.*      
+>*Weird and wonderful — as always.*      
 A 4* review of Turn 2013's first night is [here](http://www.thepublicreviews.com/turn-2013-contact-manchester/).    
 A documentary about Tom Bowes Dance performing *Brute* in Turn 2013 is [here](http://vimeo.com/66465915).   
     
