@@ -22,7 +22,7 @@ show_size: 3
 Our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content. To date, Works Ahead has brushed the petticoats of dance, skirted the fringes of musical theatre and warped the lines of performance installation… 2014 sees three new commissions:        
         
 [Lindsay Bennett](/current/2014-worksahead/bennett) | Exit Smiling <small>(working title)</small>        
-[Paul O'Donnell](/current/2014-worksahead/odonnell) | And Still You Give Me Nothing! <small>(working title)</small>       
+[Paul O'Donnell](/current/2014-worksahead/odonnell) | Nothing!       
 [SheepKnuckle](/current/2014-worksahead/sheepknuckle) | Echo        
           
 To get a feel for Works Ahead see 2013’s [programme](/archive/2013-worksahead) + [image gallery](/galleries/2013-woah).     
