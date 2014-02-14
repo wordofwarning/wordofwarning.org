@@ -6,9 +6,9 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Paul O'Donnell"
-show: "And Still You Give Me Nothing! (working title)"
+show: "Nothing!"
 artist_size: 1
-show_size: 4
+show_size: 2
 header_image: "header_odonnell.jpg"
 
 # ABOUT THE SHOW - LAYOUT
