@@ -30,8 +30,7 @@ Date: Wednesday 12 March 2014, 7pm
 Box Office Tel: 0161 274 0600     
         
 ####Access Information
-The performance lasts approximately 60 minutes with no interval; it includes moments of complete darkness (black-out); it uses spoken word from a dense source text.     
-Age advisory: 15+       
+The performance lasts approximately 60 minutes with no interval; it uses spoken word from a dense source text and includes moments of complete darkness (*black-out*). Age advisory: 15+       
         
 ####More            
 A playful and quirky investigation into decision-making, the neurons involved in the process, the difficulty many of us have to know what we want (really) and the complexity of the worlds around and within us. Using the image of a meadow and the stars above, performance maker Sylvia Rimat looks at the decisions that shaped the very performance, retraces a lifetime of decision-making and celebrates the choice each audience member made to join her.       
