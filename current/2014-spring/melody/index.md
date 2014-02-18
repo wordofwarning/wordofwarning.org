@@ -30,7 +30,7 @@ Date: Thursday 20 March, 8pm
 Box Office Tel: 0161 274 0600     
                
 ####Access Information        
-The performance lasts approximately 65 minutes with no interval; with a high text-content (including swearing) it is comedic and partly delivered in a lecture-style; it includes some use of projected image/film. Age advisory: 14+        
+The performance lasts approximately 65 minutes with no interval; with a high text-content (*including swearing*) it is comedic and partly delivered in a lecture-style; includes some use of projected image/film. Age advisory: 14+        
        
 ####Q&A        
 Following a short break, there will be a post-show talk with the company.        
