@@ -30,7 +30,7 @@ Date: Thursday 13 March 2014, 7pm
 Box Office Tel: 0161 274 0600     
         
 ####Access Information           
-The performance lasts approximately 60 minutes with no interval; with a high text-content (including strong language) there's some very low-level lighting/darkness and it includes some use of projected image/film. Age advisory: 14+         
+The performance lasts approximately 60 minutes with no interval; with a high text-content (*including strong language*) there's some low-level lighting/darkness and use of projected image/film. Age advisory: 14+         
         
 ####More            
 Rachel Mars has always relied on humour. In her latest solo performance, she goes in search of what is beyond the gags.                 
