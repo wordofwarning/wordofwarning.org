@@ -29,8 +29,7 @@ Dates: Wednesday 12 + Thursday 13 March 2014, every 12 minutes 5-7pm + 8-9pm
 [Tickets: £3 / Free with a Sylvia Rimat/Kindle Theatre/Rachel Mars ticket](http://contactmcr.com/whats-on/12866-fs2014-jo-bannon-exposure/booking) | Special offer: buy ten + get one free
                        
 ####Access Information      
-This is a one-to-one encounter lasting approximately 9 minutes; spoken word based, it takes place in a confined dark space.     
-Age advisory: 17+    
+This is a one-to-one encounter lasting approximately 9 minutes; spoken word based, it takes place in a confined dark space. Age advisory: 17+    
         
 ####More      
 *Exposure* is the beginning of an investigation into how we look, how we are looked at and if we can ever really be seen. This intimate one-to-one performance is a tender and tentative look into autobiography, asking how fully we can reveal ourselves — to ourselves, to another, with another.        
