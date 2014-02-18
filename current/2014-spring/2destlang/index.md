@@ -32,13 +32,16 @@ Box Office Tel: 0161 274 0600
 ####Access Information        
 The performance lasts approximately 60 minutes with no interval; performed in Bulgarian and English, it's not especially well-suited to those with significant hearing impairment; it contains quite loud music and can be very emotionally affecting for some audience members. Age advisory: 14+       
           
+####Q&A        
+Following a short break, there will be a post-show talk with the company.       
+          
 ####More            
 *Near Gone* is a heartfelt story about survival.                 
                  
-Two performers have a difficult story to tell. They come on stage and launch themselves into an hour long attempt to put into words the utterly unspeakable.                 
-
-Delivered in English and Bulgarian, with fantastic gypsy-inspired music, this performance fills an empty space with two performers and 400 fresh flowers. It transforms you too, your sense of what it is to be a mother, a father, a child. And you’ll leave more fully alive than ever.             
-               
+Two performers have a difficult story to tell. They come on stage and launch themselves into an hour-long attempt to put into words the utterly unspeakable. The duo tell a true story about a young girl's brush with death, and reveal their own relationship over the course of the show.        
+        
+Delivered in English + Bulgarian with a gypsy-inspired soundtrack, *Near Gone* fills an empty space with two performers and four hundred fresh flowers. It transforms you too, your sense of what it is to be a mother, a father, a child. And you’ll leave more fully alive than ever.             
+                
 ####Who are they?    
 Katherina Radeva and Alister Lownie share interests in contemporary theatre and performance practices, traversing art and theatre. They formally created Two Destination Language in the summer of 2011 after a year of working together.           
               
