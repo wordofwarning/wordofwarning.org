@@ -30,8 +30,7 @@ Date: Thursday 27 March, 8.30pm
 Box Office Tel: 0161 274 0600     
         
 ####Access Information        
-The performance lasts approximately 60 minutes with no interval.     
-Age advisory: 14+       
+The performance lasts approximately 60 minutes with no interval; performed in Bulgarian and English, it's not especially well-suited to those with significant hearing impairment; it contains quite loud music and can be very emotionally affecting for some audience members. Age advisory: 14+       
           
 ####More            
 *Near Gone* is a heartfelt story about survival.                 
@@ -53,7 +52,7 @@ Community, identity and memory are the ideas which percolate all Two Destination
 >*Immensely powerful and life-enhancing.*<br>*A reminder that even in our darkest times there is hope.*<br>*Brilliant, original, energetic and beautiful*<br>audience feedback        
           
 ####Credits     
-Devised + performed by Katherina Radeva + Alister Lownie. Dramaturgy + additional direction by Charlotte Vincent. Photo by Alma Haser.       
+Devised + performed by Katherina Radeva + Alister Lownie. Dramaturgy + additional direction by Charlotte Vincent. Sound design by Tim Blazdell. Mentored by Sheila Gheilani. Photo by Alma Haser.       
 Winner of Pulse Fringe Suitcase Prize 2013. A Colchester Arts Centre commission, supported by The Point, Eastleigh. Supported using public funding by the National Lottery through Arts Council England.      
       
 ####Websites        
