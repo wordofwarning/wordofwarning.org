@@ -28,9 +28,8 @@ Date: Wednesday 12 March 2014, 9pm
 Box Office Tel: 0161 274 0600     
         
 ####Access Information        
-The performance duration is to be confirmed; there will be no interval.       
-Age advisory: 14+       
-                
+The performance lasts approximately 60 minutes with no interval; particularly suitable for blind and visually-impaired audience members, it's sound-oriented with a strong narrative — there's a section of the show where audience members wear headphones to hear binaural sound (*which is much closer to the way that the brain interprets sound signals than conventional stereo sound*); however, the show is not particularly suitable for deaf and hard-of-hearing audience members, as binaural sound is not effective when experienced through a hearing-aid, and completely deaf audience members will not be able to appreciate the sound-only section of the show; there is some low-level lighting; there's no audience participation in the conventional sense, though audience members should feel they're at the centre of the performance. Age advisory: 14+        
+        
 ####More            
 Inspired by the extraordinary medical memoir written by Hungarian satirist Frigyes Karinthy, *A Journey Round My Skull* is a passionate love story which examines the complexity of the human brain by exploring the perplexing world of auditory hallucinations. Enveloping the audience in a fantastical sound-world, it playfully investigates what makes us who we are and the lengths we might go to in order to cure ourselves of our most painful and embarrassing memories.            
                
