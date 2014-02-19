@@ -53,7 +53,7 @@ The company experiments with different media and forms, developing site and subj
              
 ####What people have said about them     
 A 4\* review of *TGTGATG* at Contact by [The Public Reviews](http://www.thepublicreviews.com/the-good-the-god-and-the-guillotine-contact-manchester).        
-Two preview/recommendations of #TGTATG by [Manchester Confidential](http://www.manchesterconfidential.co.uk/Entertainment-and-Sport/Events-and-Listings/Things-To-Do-This-Week-14-20-February-Manchester-Whats-On-Listings) + [The Skinny](http://www.theskinny.co.uk/event/71141-prototype_theatre_good_god_the_guillotine).         
+Two previews of *TGTGATG* by [Manchester Confidential](http://www.manchesterconfidential.co.uk/Entertainment-and-Sport/Events-and-Listings/Things-To-Do-This-Week-14-20-February-Manchester-Whats-On-Listings) + [The Skinny](http://www.theskinny.co.uk/event/71141-prototype_theatre_good_god_the_guillotine).         
 >*This is beautifully crafted stuff that has a broader relevance and audience than a traditional theatre company based in one city could manage.*<br>Tina Jackson, The Metro (Manchester)        
 >*... one of the more adventurous, innovative, and worthy cutting-edge groups that I know of.*<br>Martin Denton, The New York Theatre Experience        
                      
