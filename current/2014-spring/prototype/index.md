@@ -52,6 +52,8 @@ Proto-type are an ensemble company, based in Manchester and led by Co-Artistic D
 The company experiments with different media and forms, developing site and subject responsive work and have made (amongst other things) installation work in a Roman garden in Chester, multi-media theatre that unravels the stereotype of American suburbia, a two-week long performance-experience for pervasive technologies, a delicate two-hander that looks at the mythology surrounding two of history’s most notorious criminals and a unique sight-read performance for a revolving cast of 3 performers that has been performed hundreds of times in locations across the globe. All of their work has a focus on precise execution and in making complicated material accessible.
              
 ####What people have said about them     
+A 4\* review of *TGTGATG* at Contact by [The Public Reviews](http://www.thepublicreviews.com/the-good-the-god-and-the-guillotine-contact-manchester).        
+Two preview/recommendations of #TGTATG by [Manchester Confidential](http://www.manchesterconfidential.co.uk/Entertainment-and-Sport/Events-and-Listings/Things-To-Do-This-Week-14-20-February-Manchester-Whats-On-Listings) + [The Skinny](http://www.theskinny.co.uk/event/71141-prototype_theatre_good_god_the_guillotine).         
 >*This is beautifully crafted stuff that has a broader relevance and audience than a traditional theatre company based in one city could manage.*<br>Tina Jackson, The Metro (Manchester)        
 >*... one of the more adventurous, innovative, and worthy cutting-edge groups that I know of.*<br>Martin Denton, The New York Theatre Experience        
                      
