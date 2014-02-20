@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: 2014-turn
+layout: 2012-emergency
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
