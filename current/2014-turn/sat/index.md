@@ -10,7 +10,7 @@ show: "Second Night: Sat 5 Apr"
 show_size: 3
 
 # ABOUT THE SHOW - LAYOUT
-header_image: "header_turn_photo.jpg"
+header_image: "header_turn.jpg"
 
 ---
 *Part of* Turn 2014, *presented by* Word of Warning + Contact       
