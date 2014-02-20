@@ -22,7 +22,7 @@ header_image: "header_ira.jpg"
 ####In Brief     
 A pair of life-affirming performances explore our notions of ageing via tea, biscuits + immortal jellyfish.          
             
-Watch Ira Brand's trailer [here](http://vimeo.com/84575373).       
+Watch Ira Brand's trailer [here](http://vimeo.com/84575373); watch Nicki Hobday + Sara Cocker's trailer [here](http://bit.ly/1eawStA).       
          
 ####Venue + Booking Details    
 Date: Wednesday 26 February 2014, 8pm (Double Bill)   
