@@ -4,4 +4,4 @@ layout: home
 header_image: "assets/images/header_spring2014wrn.jpg"
 
 ---
-###Thank you [Proto-type Theater](/current/2014-spring/prototype), Contact + our audience for a [4\*](http://www.thepublicreviews.com/the-good-the-god-and-the-guillotine-contact-manchester) start to [Spring](/current/2014-spring)... We continue with a pair of life-affirming performances exploring our notions of ageing by [Ira Brand, Nicki Hobday + Sara Cocker](/current/2014-spring/age), STUN Studio @ Z-arts, *26 Feb*
+###[Spring](/current/2014-spring) continues with a pair of life-affirming performances that explore our notions of ageing from [Ira Brand, Nicki Hobday + Sara Cocker](/current/2014-spring/age), STUN Studio @ Z-arts, *26 Feb* | See two 4\* reviews of [Proto-type Theater](/current/2014-spring/prototype), by [The Public Reviews](http://www.thepublicreviews.com/the-good-the-god-and-the-guillotine-contact-manchester) + [the Good review](http://thegoodreview.co.uk/2014/02/the-good-the-god-and-the-guillotine-contact-theatre-manchester).
