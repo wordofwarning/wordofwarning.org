@@ -29,28 +29,29 @@ Taking Our Bearings North — an emerging Greater North Network led in partnersh
    
 We are pleased to count among our friends + regular partners:    
 [Arden School of Theatre](http://www.themanchestercollege.ac.uk/subject-area/arden)    
-[Axis Arts Centre](http://www.axisartscentre.org.uk/home/)    
+[Axis Arts Centre](http://www.axisartscentre.org.uk)    
 [Blank Media Collective](http://blankmediacollective.org)    
 [Contact](http://contactmcr.com)  
-[Contemporary Theatre + Performance, UCLAN](http://www.uclan.ac.uk/information/courses/ba_hons_contemporary_theatre_and_performance.php)    
+[Contemporary Theatre + Performance, UCLan](http://www.uclan.ac.uk/information/courses/ba_hons_contemporary_theatre_and_performance.php)    
 [Contemporary Practices, University of Salford](http://www.salford.ac.uk/courses/performance-contemporary-practices?mode=ov)    
-[Dance Initiative Greater Manchester](http://www.digm.org/dev/)    
+[Dance Manchester](http://www.dancemanchester.org)    
 [Flare Festival](http://www.flarefestival.com)    
 [hatch](http://www.hatchnottingham.org.uk)    
-[Hope Street](http://www.hope-street.org)
+[Hope Street](http://www.hope-street.org)          
 [In Between Time Productions](http://inbetweentime.co.uk)    
 [Live at LICA](https://www.liveatlica.org/home)    
 [MKULTRA](http://www.mkultra.org.uk)    
-[PANDA](http://www.panda-arts.org.uk)
+[PANDA](http://www.panda-arts.org.uk)        
 [Pigeon Theatre](http://pigeontheatre.wordpress.com)    
 [Plane Performance](http://www.planeperformance.co.uk)    
 [Proto-type Theater](http://proto-type.org)    
 [Quarantine](http://www.qtine.com)    
 [Reckless Sleepers](http://www.reckless-sleepers.co.uk)    
+[STUN](http://stunlive.com)         
 [The Future](http://www.the-future.co.uk)    
-[The Larks](http://www.the-larks.com) (formerly Larkin' About) — resident gamers.    
+[The Larks (formerly Larkin' About)](http://www.the-larks.com) — resident gamers.    
 [the Bluecoat](http://www.thebluecoat.org.uk)   
 [Work for Change](http://change.coop)   
 [Z-arts](http://www.z-arts.org)    
-
+       
 hÅb is supported by public funding through [Arts Council England](http://www.artscouncil.org.uk) and is funded by Manchester City Council through the [Manchester Cultural Partnership](http://www.manchesterculturalpartnership.org).
