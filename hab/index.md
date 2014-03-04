@@ -6,7 +6,7 @@ rootpath: "../../"
 is_index: true
 
 ---
-###Stimulating... extraordinary... performance...   
+###Stimulating… extraordinary… performance…   
         
 Based in Manchester, hÅb is a producer, developer and advocate of contemporary performance, live art and sited work in the North West. greenroom's key partner for over a decade, hÅb aims to maintain its legacy, working in collaboration with a range of venues to produce showing opportunities, platforms and artist development projects like Emergency, Turn, Hazard + Works Ahead.    
       
@@ -22,4 +22,4 @@ hÅb also works as a curator of sited performance and intervention presenting [H
         
 In any given year, hÅb might work with 200 artists, present 3 platforms, 1 sited festival and show over 100 pieces of work.    
          
-hÅb is supported using public funding through Arts Council England and funded by Manchester City Council.
+hÅb is supported using public funding through Arts Council England and is funded by Manchester City Council.
