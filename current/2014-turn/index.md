@@ -19,16 +19,21 @@ show_size: 3
 *Presented by* Word of Warning + Contact    
          
 ###Friday 4 + Saturday 5 April 2014, 7.30pm
-Explosive, intimate, graceful and challenging — a two night micro-festival of emerging danceworks. Turn 2014 is our sixth annual platform for NW dancers + dance-makers, featuring up to 15 short pieces of work over two nights at Contact, Manchester; the programme will be announced here in March…        
-        
-To get a feel for Turn see 2013's [programme](/archive/2013-turn) + [image gallery](/galleries/2013-turn).      
-       
+Explosive, intimate, graceful and challenging — a two night micro-festival of emerging danceworks. Sinuous physicality and flying acrobatic exuberance; tender personal moments and giant shadows bending sound — Turn 2014 invites you to join the dance…          
+         
 ####Venue + Booking Details
 Dates: Friday 4 + Saturday 5 April 2014, 7.30pm    
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
 [Tickets: £9/5 (two night pass £11/6)](https://contactmcr.com/whats-on/13070-turn-2014/booking/) | Special offer: buy ten tickets, get one free    
 Box Office Tel: 0161 274 0600   
       
+####More      
+Turn 2014 is our sixth annual platform for dancers + dance-makers, featuring seventeen new works (participating artists subject to change):
+
+Ane Iselin Brogeland | Anoikis | Ashleigh Berry  | Christopher Owen | Debbie Freedman | Ellen Turner | Fluxus Collective | Gracefool Collective | Hannah Buckley | Jane Munro + the Visitors | Jenny Reeves Dance | Jo Ashbridge | Joshua Hubbard FD | Levantes Dance Theatre | Peter Grist + Company | Tom Bowes Dance | Yi-Han Wu 吳逸涵 + Oscar South         
+         
+To get a feel for Turn see 2013's [programme](/archive/2013-turn) + [image gallery](/galleries/2013-turn).      
+         
 ####What people said about Turn 2013    
 >*Great to see creative innovative new local work. Really good vibe.*      
 >*…a new experience. Too many highlights to mention. Thank you WoW!*      
