@@ -38,4 +38,4 @@ A 4* review of Turn 2013's first night is [here](http://www.thepublicreviews.com
 A documentary about Tom Bowes Dance performing *Brute* in Turn 2013 is [here](http://vimeo.com/66465915).   
     
 ####Credits         
-Co-produced by hÅb, Contact, Dance Manchester + Live at LICA.
+Co-produced by hÅb, Contact, Dance Manchester + Live at LICA. A greenroom legacy project.
