@@ -30,7 +30,7 @@ Box Office Tel: 0161 274 0600
 ####More      
 Turn 2014 is our sixth annual platform for dancers + dance-makers, featuring seventeen new works (participating artists subject to change):
 
-Ane Iselin Brogeland | Anoikis | Ashleigh Berry  | Christopher Owen | Debbie Freedman | Ellen Turner | Fluxus Collective | Gracefool Collective | Hannah Buckley | Jane Munro + the Visitors | Jenny Reeves Dance | Jo Ashbridge | Joshua Hubbard FD | Levantes Dance Theatre | Peter Grist + Company | Tom Bowes Dance | Yi-Han Wu 吳逸涵 + Oscar South         
+**Ane Iselin Brogeland | Anoikis | Ashleigh Berry  | Christopher Owen | Debbie Freedman | Ellen Turner | Fluxus Collective | Gracefool Collective | Hannah Buckley | Jane Munro + the Visitors | Jenny Reeves Dance | Jo Ashbridge | Joshua Hubbard F\*\#¿\!D | Levantes Dance Theatre | Peter Grist + Company | Tom Bowes Dance | Yi-Han Wu 吳逸涵 + Oscar South**         
          
 To get a feel for Turn see 2013's [programme](/archive/2013-turn) + [image gallery](/galleries/2013-turn).      
          
