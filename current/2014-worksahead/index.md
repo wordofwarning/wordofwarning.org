@@ -41,4 +41,4 @@ Box Office Tel: 0161 274 0600
 Two 4* reviews of 2013's first night are [here](http://www.whatsonstage.com/blackpool-theatre/reviews/05-2013/works-ahead-manchester_316.html) + [here](http://thegoodreview.co.uk/2013/05/works-ahead-the-contact-theatre-manchester/).    
         
 ####Credits         
-Commissioned by hÅb; co-produced by Contact.
+Commissioned by hÅb; co-produced by Contact. A greenroom legacy project.
