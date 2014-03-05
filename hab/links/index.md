@@ -44,7 +44,7 @@ We are pleased to count among our friends + regular partners:
 [Lancaster Emerging Arts Platform (LEAP)](http://www.talkwithleap.com)      
 [Live at LICA](https://www.liveatlica.org/home)    
 [MKULTRA](http://www.mkultra.org.uk)    
-[PANDA (performing arts network + development agency](http://www.panda-arts.org.uk)        
+[PANDA (performing arts network + development agency)](http://www.panda-arts.org.uk)        
 [Pigeon Theatre](http://pigeontheatre.wordpress.com)    
 [Plane Performance](http://www.planeperformance.co.uk)    
 [Proto-type Theater](http://proto-type.org)    
@@ -54,6 +54,7 @@ We are pleased to count among our friends + regular partners:
 [The1stFour](http://the1st4.blogspot.co.uk)       
 [The Future](http://www.the-future.co.uk)    
 [The Larks (formerly Larkin' About)](http://www.the-larks.com) — resident gamers.    
+[The Lowry Studio](http://www.thelowry.com/developed-with/the-studio-microsite/welcome)
 [the Bluecoat](http://www.thebluecoat.org.uk)   
 [Work for Change](http://change.coop)   
 [Z-arts](http://www.z-arts.org)    
