@@ -35,9 +35,9 @@ Ane Iselin Brogeland | Anoikis | Ashleigh Berry | Christopher Owen | Debbie Free
 To get a feel for Turn see 2013's [programme](/archive/2013-turn) + [image gallery](/galleries/2013-turn).      
          
 ####What people said about Turn 2013    
->*4\* …one of the key events in Manchester’s dance calendar.*<br>The Public Reviews     
+>★★★★ *One of the key events in Manchester’s dance calendar.*<br>The Public Reviews     
 >*Great to see creative innovative new local work. Really good vibe.*<br>*…a new experience. Too many highlights to mention. Thank you WoW!*<br>*Weird and wonderful — as always.*<br>*Fantastic platform for artists.*<br>Audience Feedback      
-A 4\* review of Turn 2013's first night is [here](http://www.thepublicreviews.com/turn-2013-contact-manchester/).    
+A 4★ review of Turn 2013's first night is [here](http://www.thepublicreviews.com/turn-2013-contact-manchester/).    
 A documentary about Tom Bowes Dance performing *Brute* in Turn 2013 is [here](http://vimeo.com/66465915).   
     
 ####Credits         
