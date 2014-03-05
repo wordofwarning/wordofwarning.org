@@ -52,10 +52,10 @@ We are pleased to count among our friends + regular partners:
 [Reckless Sleepers](http://www.reckless-sleepers.co.uk)    
 [STUN (Sustained Theatre Up North)](http://stunlive.com)         
 [The1stFour](http://the1st4.blogspot.co.uk)       
-[The Future](http://www.the-future.co.uk)    
+[the Bluecoat](http://www.thebluecoat.org.uk)       
+[The Future](http://www.the-future.co.uk)      
 [The Larks (formerly Larkin' About)](http://www.the-larks.com) — resident gamers.    
-[The Lowry Studio](http://www.thelowry.com/developed-with/the-studio-microsite/welcome)
-[the Bluecoat](http://www.thebluecoat.org.uk)   
+[The Lowry Studio](http://www.thelowry.com/developed-with/the-studio-microsite/welcome)      
 [Work for Change](http://change.coop)   
 [Z-arts](http://www.z-arts.org)    
        
