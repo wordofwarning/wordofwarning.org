@@ -45,9 +45,7 @@ At the core of her work is a fascination with human exchange and the hope and fu
 ####What people have said about her       
 A preview of Jo Bannon at Flying Solo by [The Guardian's Lyn Gardner](http://www.theguardian.com/stage/2014/mar/07/this-weeks-new-theatre).        
 >*A candid, powerful and moving self-portrait which is free from nostalgia, but has a note of real melancholy.*<br>Exeunt Magazine        
->            
->*...an extraordinary 10 minutes which considers not just how we look but what we choose to look at too.*<br>Lyn Gardner , The Guardian
->         
+>*...an extraordinary 10 minutes which considers not just how we look but what we choose to look at too.*<br>Lyn Gardner , The Guardian        
 >*This step into the dark may cause trepidation but it’s a ten minute encounter well worth taking.*<br>The Public Reviews        
     
 ####Credits        
