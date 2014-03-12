@@ -43,6 +43,7 @@ Jo Bannon is a UK-based artist making live art and performance. She has presente
 At the core of her work is a fascination with human exchange and the hope and futility which this endeavour entails. Her work explores how our physical bodies experience the world around us and how this sensory experience of living can only be conveyed in a faltering rudimentary language which continually fails to express how we see the world to each other. Her practice explores how live performance and encounters might be used as a strategy against this. As a result her work often manifests as intimate encounters designed for one person or small audiences alongside staged theatre work and installations.        
               
 ####What people have said about her       
+A preview of Jo Bannon at Flying Solo by [The Guardian's Lyn Gardner](http://www.theguardian.com/stage/2014/mar/07/this-weeks-new-theatre).        
 >*A candid, powerful and moving self-portrait which is free from nostalgia, but has a note of real melancholy.*<br>Exeunt Magazine        
 >            
 >*...an extraordinary 10 minutes which considers not just how we look but what we choose to look at too.*<br>Lyn Gardner , The Guardian
