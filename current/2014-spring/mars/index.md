@@ -45,6 +45,7 @@ Rachel Mars (performer/writer) is an established theatre maker and performer who
 Jamie Wood (director) is a Fringe First-winning director. He has devised work for national and international tours with artists including Caroline Horton, Toby Park (Spymonkey), Guy Dartnel and most recently with The Belarus Free Theatre and Chris Thorpe. He is an Associate Artist with Chris Goode & Company. In 2013 he was nominated for a Total Theatre Award for Beating McEnroe.               
                
 ####What people have said about her     
+A preview of Flying Solo Festival 2014 by [The Guardian's Lyn Gardner](http://www.theguardian.com/stage/2014/mar/07/this-weeks-new-theatre).       
 >*A love letter to comedy by someone who wants it to mean something... Rachel Mars is electrifying*<br>The Guardian           
 >*A beautifully crafted and brilliantly performed solo theatre piece*<br>Total Theatre         
 >*Tender and humorous but incredibly human*<br>A Younger Theatre            
