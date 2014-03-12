@@ -24,7 +24,8 @@ A tender and tentative look into autobiography, asking how fully we can reveal o
 Watch trailer [here](http://vimeo.com/68437394).        
         
 ####Venue + Booking Details        
-Dates: Wednesday 12 + Thursday 13 March 2014, every 12 minutes 5-7pm + 8-9pm        
+Day One: Wednesday 12 March 2014, every 15 minutes 5-7pm + 8-9pm (all sold-out)     
+Day Two: Thursday 13 March 2014, every 15 minutes 5-7pm + 8-9pm        
 [Venue: Contact](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA        
 [Tickets: £3 / Free with a Sylvia Rimat/Kindle Theatre/Rachel Mars ticket](http://contactmcr.com/whats-on/12866-fs2014-jo-bannon-exposure/booking) | Special offer: buy ten + get one free
                        
