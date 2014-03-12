@@ -37,6 +37,7 @@ Inspired by the extraordinary medical memoir written by Hungarian satirist Frigy
 Based in Birmingham, Kindle Theatre is led by Emily Ayres, Samantha Fox + Olivia Winteringham, supported by Producer Jo Salkilld. They create performances that seek to playfully reinvent the theatrical experience; exploring intimate and communal exchanges within the live event. Best known for their internationally acclaimed production *The Furies*, projects range from large-scale theatrical banquet to sweaty rock-gig and often include innovative food, audience engagement and live music. Kindle shows are always ensemble-led and they like to collaborate with artists, experts and enthusiasts. Kindle is an Associate Company of The Birmingham REP.        
             
 ####What people have said about them       
+A preview of Kindle Theatre at Flying Solo by [The Guardian's Lyn Gardner](http://www.theguardian.com/stage/2014/mar/07/this-weeks-new-theatre).         
 >*Wildly imaginative ... one of the best emerging companies in the country*<br>The Guardian       
          
 ####Credits    
