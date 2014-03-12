@@ -5,7 +5,7 @@ layout: hab # the season or event-specific template in /_layouts
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Links + Resources" # the name of the artist or company
+artist: "Links + Partners" # the name of the artist or company
 header_image: "header_emergencynw.jpg"    
 
 
@@ -15,7 +15,6 @@ header_image: "header_emergencynw.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-
 hÅb can only function in partnership with a host of other organisations + networks, some of which are linked to below.    
 
 In 2012 we were pleased to partner with Live at LICA in producing the [*Getting It Out There*](http://www.liveatlica.org/whats-on/symposium-getting-it-out-there) symposium on touring; a **free** publication produced with the [Live Art Development Agency](http://www.thisisliveart.co.uk) following the event can be downloaded [here](http://habmcr.posthaven.com/getting-it-out-there-publication-free-to-down).    
