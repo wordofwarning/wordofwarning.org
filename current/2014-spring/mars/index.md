@@ -46,6 +46,7 @@ Jamie Wood (director) is a Fringe First-winning director. He has devised work fo
                
 ####What people have said about her     
 A preview of Flying Solo Festival 2014 by [The Guardian's Lyn Gardner](http://www.theguardian.com/stage/2014/mar/07/this-weeks-new-theatre).       
+A **5\*** review of *The Way You Tell Them* at Contact, by [What's On Stage](www.whatsonstage.com/manchester-theatre/reviews/03-2014/rachel-mars-the-way-that-you-tell-them-tour-manche_33834.html).         
 >*A love letter to comedy by someone who wants it to mean something... Rachel Mars is electrifying*<br>The Guardian           
 >*A beautifully crafted and brilliantly performed solo theatre piece*<br>Total Theatre         
 >*Tender and humorous but incredibly human*<br>A Younger Theatre            
