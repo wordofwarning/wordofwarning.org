@@ -19,12 +19,16 @@ show_size: 3
 *Presented by* Word of Warning + Contact
          
 ###Thursday 8 + Friday 9 May 2014, 7.30pm
-Our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content. To date, Works Ahead has brushed the petticoats of dance, skirted the fringes of musical theatre and warped the lines of performance installation… 2014 sees three new commissions:        
+Our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content. To date, Works Ahead has brushed the petticoats of dance, skirted the fringes of musical theatre and warped the lines of performance installation…       
+         
+2014 sees three new works in development delving into the mindset of the performer.       
         
-[Lindsay Bennett](/current/2014-worksahead/bennett) | Exit Smiling <small>(working title)</small>        
-[Paul O'Donnell](/current/2014-worksahead/odonnell) | Nothing!       
-[SheepKnuckle](/current/2014-worksahead/sheepknuckle) | Echo        
+*The houselights dim, the audience goes quiet — and there you are… transfixed in a spotlight…*       
           
+[Lindsay Bennett](/current/2014-worksahead/bennett) | Exit Smiling        
+[Paul O'Donnell](/current/2014-worksahead/odonnell) | Nothing!       
+[SheepKnuckle](/current/2014-worksahead/sheepknuckle) | Echo     
+            
 To get a feel for Works Ahead see 2013’s [programme](/archive/2013-worksahead) + [image gallery](/galleries/2013-woah).     
               
 ####Venue + Booking Details
@@ -41,4 +45,4 @@ Box Office Tel: 0161 274 0600
 Two 4* reviews of 2013's first night are [here](http://www.whatsonstage.com/blackpool-theatre/reviews/05-2013/works-ahead-manchester_316.html) + [here](http://thegoodreview.co.uk/2013/05/works-ahead-the-contact-theatre-manchester/).    
         
 ####Credits         
-Commissioned by hÅb; co-produced by Contact. A greenroom legacy project.
+Commissioned by hÅb, co-produced by Contact, a greenroom legacy project.
