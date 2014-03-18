@@ -16,7 +16,7 @@ header_image: "header_turn.jpg"
 *Part of* Turn 2014, *presented by* Word of Warning + Contact       
      
 ####Venue + Booking Details, for Turn        
-Dates: Friday 4 (+ Saturday 5) April 2014, 7.30pm    
+Dates: Friday 4 + Saturday 5 April 2014, 7.30pm    
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
 [Tickets: £9/5 (two night pass £11/6)](https://contactmcr.com/whats-on/13070-turn-2014/booking/) | Special offer: buy ten tickets, get one free    
 Box Office Tel: 0161 274 0600    
@@ -25,8 +25,7 @@ Box Office Tel: 0161 274 0600
 **Ashleigh Berry | The Space Between**          
 A first-stage short film exploration created and directed by Ashleigh Berry, toying with the intersecting ideas of personal and public space. Examining space as a commodity in an ever-changing, ever-moving environment, the film questions when to 'hold space' as an individual, making a mark, and when to succumb to the bustle and become part of the background noise.
 
-Concept + creation: Ashleigh Berry | Collaborators: Nicole Ward, Emma Fishwick | Project Mentor: Laura Boynes         
-Supported by Healthway, promoting the Drug Aware message, and Propel Youth Arts Western Australia.        
+Concept + creation: Ashleigh Berry | Collaborators: Nicole Ward, Emma Fishwick | Project Mentor: Laura Boynes | Supported by Healthway, promoting the Drug Aware message, and Propel Youth Arts Western Australia.        
           
 **Percussive Customer Projects | Space is Only Noise**           
 A live sound installation performance, designed to unpick and understand the structures between space and sound within the creative act.       
