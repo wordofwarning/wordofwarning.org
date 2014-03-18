@@ -6,9 +6,9 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Lindsay Bennett"
-show: "Exit Smiling (working title)"
+show: "Exit Smiling"
 artist_size: 1
-show_size: 3
+show_size: 2
 header_image: "header_lindsay.jpg"
 
 # ABOUT THE SHOW - LAYOUT
