@@ -38,8 +38,14 @@ We don’t want to put you off by talking labels – yes there’ll be theatre, 
 >*Varied programme which always takes me by surprise (my favourite way to be taken!)*    
 >*Feels like a full night out in a couple of hours xxx - Loved it … Will be back!!!*   
 >*Love it. So glad to have this developing as a brand I'd trust without knowing any of the work you're programming.*   
-
+         
 ####Who is Word of Warning?
-My name’s Tamsin Drury and I run an organisation called **[hÅb](/hab)**, which was greenroom’s partner for over a decade. You might not know hÅb but you might know some of our events – like **Emergency** (Manchester’s free marathon of live work with 40 shows in 3 venues) and **Hazard** (random sprees of eccentricity in Manchester's City Centre).
-
-I’ve been around a while, a really long while… and in that time, I’ve been responsible for making the Arndale Tower flash, wrapping Cathedral Gardens in 7km of hazard tape and encouraging a mass audience conga and a gl
+My name’s Tamsin Drury and I run an organisation called **[hÅb](/hab)**, which was greenroom’s partner for over a decade. You might not know hÅb but you might know some of our events – like **Emergency** (Manchester’s free marathon of live work with 40 shows in 3 venues) and **Hazard** (random sprees of eccentricity in Manchester's City Centre).     
+      
+I’ve been around a while, a really long while… and in that time, I’ve been responsible for making the Arndale Tower flash, wrapping Cathedral Gardens in 7km of hazard tape and encouraging a mass audience conga and a glitter-cannon Hallelujah chorus!    
+     
+On the less eccentric side over the years, hÅb has also worked with literally hundreds of young NW artists to help them create new pieces of theatre + dance.      
+     
+Please send programming enquiries to me at <mailto:info@habarts.org>             
+      
+I’m joined in this lunacy by John Franklin, greenroom’s long time programme coordinator. Often spotted in a hat or proffering a variety of bizarre refreshments, John is the friendly face greeting you and eliciting your feedback at many of our events.
