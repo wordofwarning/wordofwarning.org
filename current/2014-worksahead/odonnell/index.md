@@ -20,8 +20,8 @@ header_image: "header_odonnell.jpg"
 *Part of* Works Ahead 2014, *presented by* Word of Warning + Contact      
          
 ####In Brief                      
-An exploration of an artist's search for approval, appreciation and most importantly, applause! You will clap, you will cheer, you will admire this show… you will!        
-        
+Paul needs adoration, approval and, above all, applause. You WILL clap, you WILL cheer… no, really, you WILL.        
+      
 ####Venue + Booking Details, for Works Ahead
 Dates: Thursday 8 + Friday 9 May 2014, 7.30pm    
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
@@ -33,11 +33,14 @@ Box Office Tel: 0161 274 0600
 Part of a triple-bill of new performance, with each show taking place in a different space; this performance's duration is TBA; there is a limited capacity.     
 Age advisory: TBA       
      
+####More
+An exploration of an artist's search for approval, appreciation and most importantly, applause.      
+      
 ####Who is he?        
-Paul is a solo artist/deviser whose previous credits include solo performances *One Thing on His Mime*, performed as part of Drunken Nights II, and *So Far West* — performed at Emergency 2013, Collaceo B Festival in Portugal, and Cheshire Rural Touring, double-billed with Sleepwalk Collective. His work aims to be contemporary in it's nature but also accessible, entertaining and engaging for all.       
+Paul is a solo artist/deviser whose previous credits include solo performances *One Thing on His Mime*, performed as part of Drunken Nights II, and *So Far West* — performed at [Emergency 2013](/archive/2013-emergency/z1), Collaceo B Festival in Portugal, and Cheshire Rural Touring, double-billed with Sleepwalk Collective. His work aims to be contemporary in it's nature but also accessible, entertaining and engaging for all.       
          
 ####Credits         
-Commissioned by hÅb; co-produced by Contact.
-
+Commissioned by hÅb, co-produced by Contact, a greenroom legacy project.
+       
 ####Websites
 <http://podonnell6.wordpress.com> | [@podonnell2](http://twitter.com/podonnell2)
