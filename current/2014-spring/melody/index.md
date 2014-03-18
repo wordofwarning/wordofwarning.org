@@ -35,8 +35,8 @@ The performance lasts approximately 65 minutes with no interval; with a high tex
 ####Q&A        
 Following a short break, there will be a post-show talk with the company.        
        
-####Workshop        
-Led by Victoria — a look at her creative triggers and approach to creating research-based work. **Over 14s only**   
+####Masterclass        
+Led by Victoria — a look at her creative triggers and approach to creating research-based work; more details [here](http://habmcr.posthaven.com/victoria-melody-masterclass-thu-20-march-at-contact-manchester). **Over 14s only**   
 Date: Thursday 20 March 2014, 12noon-3pm.         
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
 Tickets: £10/8 (*in person or telephone only*)       
