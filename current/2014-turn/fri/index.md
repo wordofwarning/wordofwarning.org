@@ -27,7 +27,7 @@ A first-stage short film exploration created and directed by Ashleigh Berry, toy
 
 Concept + creation: Ashleigh Berry | Collaborators: Nicole Ward, Emma Fishwick | Project Mentor: Laura Boynes | Supported by Healthway, promoting the Drug Aware message, and Propel Youth Arts Western Australia.        
           
-**Percussive Customer Projects | Space is Only Noise**           
+**Christopher Owen | Space is Only Noise**           
 A live sound installation performance, designed to unpick and understand the structures between space and sound within the creative act.       
         
 Choreographer + performer: Christopher Owen | Text: Marcel Duchamp on the artist and spectator.       
