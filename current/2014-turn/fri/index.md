@@ -14,7 +14,9 @@ header_image: "header_turn.jpg"
 
 ---
 *Part of* Turn 2014, *presented by* Word of Warning + Contact       
-        
+     
+####Order of Appearance (subject to change)        
+      
 **Artist | Title**         
 Copy        
 More copy        
