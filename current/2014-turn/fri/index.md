@@ -59,16 +59,16 @@ Performers: Ane Iselin Brogeland, Sarah Spies, Jane McLean
            
 [@RastrosnoAr](http://twitter.com/RastrosnoAr) | [Facebook Page](http://www.facebook.com/janemcleandanceartist)
            
- **Jo Ashbridge | Mental Time Travel**        
-'Mental time travel' refers to the casting of the mind back into the past, or forwards into the future; everyone experiences this to some degree, but for some it is difficult to control and takes the mind into some very unusual places. The piece explores this and takes it to the extreme — looking at it from a dark, but at times humorous, perspective.      
-       
-Choreographer + performer: Jo Ashbridge       
+**Jo Ashbridge | Going Places**      
+The mind wanders backwards and forwards in time — turning us into time travellers, dividing us into two, constantly searching for somewhere else to be; carving a surreal landscape, being everywhere but here.       
+          
+Choreographer + performer: Jo Ashbridge | Directorial assistance: Maria Malone | Video: Nikki Rose | Music: *Touched* by My Bloody Valentine, *Let’s Go Swimming* by Arthur Russell, *Last Target on the Last Day* by Melt Banana         
           
 [Website](http://joashbridgedance.wordpress.com)       
            
-**Levantes Dance Theatre | Quero Quero**        
-An enigmatic meeting of two strangers (birds), who are getting to know each other whilst dancing, playing and crying with laughter…      
+**Levantes Dance Theatre | Quero Quero (work-in-progress)**        
+An enigmatic meeting of two strangers who are getting to know each other whilst dancing, playing and crying…      
            
-Artistic Direction: Eleni Edipidi (LDT) | Performers: Eleni Edipidi, Nathan Johnston        
+Artistic Direction: Eleni Edipidi (LDT) | Performers: Eleni Edipidi, Andrew Graham | Thank you to: The Generating Company + Greenwich Dance        
         
 [Website](http://www.levantesdancetheatre.org) | [@LevantesDance](http://twitter.com/LevantesDance)

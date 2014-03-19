@@ -30,7 +30,7 @@ Concept + creation: Ashleigh Berry | Collaborators: Nicole Ward, Emma Fishwick |
 **Gracefool Collective | WE (spelt you & i)**         
 In this surreal party we see the ways in which alliances are made and relationships form and break over a night; we watch social patterns twist and change as the party plays out, witnessing the transformation and deviation of each character in turn. The result is an unrequited love letter gone wrong, a gender swapping tango, a synthesised party track and a battle of the sexes all rolled into one rather strange event. *WE…* is about relationships, friendships and hardships; about communication and miscommunication, hellos and goodbyes, towing the line, drawing the line and stepping over the line.        
                 
-Choreographer: Kate Cox | Performers: Sarah Maria Cook, Sofia Edstrand, Rachel Fullegar, Rebecca Holmberg, Kyle Lawson, Toke Strandby, Davide Trioani + Jack Wignall        
+Choreographer: Kate Cox | Performers: Sarah Maria Cook, Sofia Edstrand, Rachel Fullegar, Rebecca Holmberg, Kyle Lawson, Davide Trioani + Jack Wignall      
             
 [@gracefoolC](http://twitter.com/gracefoolC)                 
                        
