@@ -130,14 +130,14 @@
 	.e2013 .splash
 		{background:url(../images/header_emergency_photo.jpg) center center}
 
-/* Works Ahead very dark red-maroon
+/* Works Ahead dark red-maroon
 ------------------------------------------------------*/
 		
 	.woah,
 	.woah .artist, 
 	.woah .show,
 	.woah .season
-		{background:#300; color:#fff;}
+		{background:#600; color:#fff;}
 
 	.woah a,
 	.woah a:visited,
@@ -146,7 +146,7 @@
 	.woah nav a:hover,
 	.woah article a:hover,
 	.woah footer a:hover
-		{background: #fff; color: #300;}
+		{background: #fff; color: #600;}
 
 	.woah .splash
 		{background:url(../images/header_woah_photo.jpg) center center}
