@@ -51,6 +51,6 @@ I’ve been around a while, a really long while… and in that time, I’ve been
 
 On the less eccentric side over the years, hÅb has also worked with literally hundreds of young NW artists to help them create new pieces of theatre + dance.
           
-Please send programming enquiries to me at info@habarts.org             
+Please send programming enquiries to me at <mailto:info@habarts.org>             
 
 I’m joined in this lunacy by John Franklin, greenroom’s long time programme coordinator. Often spotted in a hat or proffering a variety of bizarre refreshments, John is the friendly face greeting you and eliciting your feedback at many of our events.
