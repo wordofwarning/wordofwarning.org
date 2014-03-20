@@ -44,7 +44,7 @@ Her projects often revolve around the places and times we inhabit mentally, phys
              
 ####What people have said about her     
 A preview of Flying Solo Festival 2014 by [The Guardian's Lyn Gardner](http://www.theguardian.com/stage/2014/mar/07/this-weeks-new-theatre).       
-A **3\*** review of *If You Decide To Stay* at Contact, by [the Good review](http://thegoodreview.co.uk/2014/03/flying-solo-festival-if-you-decide-to-stay-contact-theatre-manchester).        
+Two reviews of *If You Decide To Stay* at Contact: by [the Good review, 3\*](http://thegoodreview.co.uk/2014/03/flying-solo-festival-if-you-decide-to-stay-contact-theatre-manchester) + [Words & Fixtures](http://wordsandfixtures.blogspot.co.uk/2014/03/decisions-decisions.html)        
 >*Her artwork confronted the question of personal agency and choice face on, through a frank personal story of the artist’s own conflicted relationship with decision making. The piece was far more than that, and reached into concepts of time, identity, and nomenclature – defining one’s choices in the world as defining oneself.*<br>Exeunt Magazine         
 >*If You Decide To Stay is full of unpredictable and engaging lines of curiosity, which invite us to stay in the most playful ways. Sylvia's distinctive performance style has a great off-beat comedy to it, which makes the piece not only thought-provoking, but very entertaining too.*<br>Tanuja Amarasuriya, Executive Producer, Theatre Bristol.       
         
