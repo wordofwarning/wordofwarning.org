@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: 2014-turn
+layout: 2014-flare
 rootpath: "../../"
 is_index: true
 
@@ -34,4 +34,4 @@ Box Office Tel: 0161 232 6089
 To get a feel for The Flare Weekender see 2012's [programme](/archive/2012-springsummer/flare).      
                            
 ####Credits         
-[Flare](http://www.flarefestival.com)
+Produced by [Flare](http://www.flarefestival.com), supported by hÅb.
