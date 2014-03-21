@@ -87,6 +87,26 @@
 	.t2014 .splash
 		{background:url(../images/header_turn2014.jpg) center center}
 
+/* Flare 2014 
+------------------------------------------------------*/
+
+	.f2014,
+	.f2014 .artist, 
+	.f2014 .show,
+	.f2014 .season
+		{background:#663; color:#fff;}
+
+	.f2014 a,
+	.f2014 a:visited,
+	.f2014 a:hover
+		{color:#fff;}
+	.f2014 nav a:hover,
+	.f2014 article a:hover,
+	.f2014 footer a:hover
+		{background: #fff; color: #663;}
+
+	.f2014 .splash
+		{background:url(../images/Flare.jpg) center center}
 
 /* Domestic very dark green
 ------------------------------------------------------*/
