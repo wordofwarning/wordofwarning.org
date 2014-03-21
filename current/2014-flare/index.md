@@ -7,7 +7,7 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "The Flare Weekender" # the name of the artist or company
-show: "International, radical, new theatre." # the name of the show
+show: "Radical new international theatre." # the name of the show
 artist_size: 2
 show_size: 3
 
@@ -20,13 +20,13 @@ show_size: 3
 *Presented by* Flare + Word of Warning    
          
 ###Friday 13 + Saturday 14 June 2014
-International, radical, new theatre…          
+The Flare Weekender presents radical theatre by new international theatre makers…          
          
 ####Venue + Booking Details
 Evening One: Friday 13 June 2014, 7pm       
 Afternoon: Saturday 14 June 2014, 1pm        
 Evening Two: Saturday 14 June 2014, 7pm         
-[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here),335 Stretford Road, Manchester, M15 5ZA    
+[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA    
 Tickets (TBC): £11/6 per evening; £5/3 afternoon; £16/10 weekender pass     
 Box Office Tel: 0161 232 6089    
       
