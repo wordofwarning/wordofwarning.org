@@ -37,10 +37,12 @@ Choreographer + performer: Christopher Owen | Text: Marcel Duchamp on the artist
 **Yi-Han Wu 吳逸涵 + Oscar South | Motion & Music**        
 A collaboration between Contemporary/Ballet Dancer Yi-Han Wu 吳逸涵 and musician Oscar South. The project makes use of cutting edge motion sensing technology in order to seamlessly fuse choreography, composition and improvisation whilst blurring the lines between dance and music.        
           
-[Website](http://motionmusic.riseresolution.com) 
-        
+[Website](http://motionmusic.riseresolution.com)    
+![Yi-Han Wu 吳逸涵 + Oscar South](YiHanWu3.jpg)    
+
 **Jenny Reeves + Annelies Van Hijfte | It's a song story**        
-Voice and movement combine to create this duet by Jenny Reeves + Annelies Van Hijfte, filled with narrative, play and expressive exploration.         
+Voice and movement combine to create this duet by Jenny Reeves + Annelies Van Hijfte, filled with narrative, play and expressive exploration.  
+       
           
 **Ellen Turner | Trudy**           
 *Once someone has gone, is that it? The end?*       
@@ -65,10 +67,13 @@ The mind wanders backwards and forwards in time — turning us into time travell
 Choreographer + performer: Jo Ashbridge | Directorial assistance: Maria Malone | Video: Nikki Rose | Music: *Touched* by My Bloody Valentine, *Let’s Go Swimming* by Arthur Russell, *Last Target on the Last Day* by Melt Banana         
           
 [Website](http://joashbridgedance.wordpress.com)       
-           
+![Jo Ashbridge](JoAshbridge1.jpg)    
+  
 **Levantes Dance Theatre | Quero Quero (work-in-progress)**        
 An enigmatic meeting of two strangers who are getting to know each other whilst dancing, playing and crying…      
            
 Artistic Direction: Eleni Edipidi (LDT) | Performers: Eleni Edipidi, Andrew Graham | Thank you to: The Generating Company + Greenwich Dance        
         
-[Website](http://www.levantesdancetheatre.org) | [@LevantesDance](http://twitter.com/LevantesDance)
+[Website](http://www.levantesdancetheatre.org) | [@LevantesDance](http://twitter.com/LevantesDance)    
+![Levantes Dance Theatre](Levantes3.jpg)    
+    

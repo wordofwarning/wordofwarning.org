@@ -32,8 +32,9 @@ In this surreal party we see the ways in which alliances are made and relationsh
                 
 Choreographer: Kate Cox | Performers: Sarah Maria Cook, Sofia Edstrand, Rachel Fullegar, Rebecca Holmberg, Kyle Lawson, Davide Trioani + Jack Wignall      
             
-[@gracefoolC](http://twitter.com/gracefoolC)                 
-                       
+[@gracefoolC](http://twitter.com/gracefoolC)        
+![Gracefool Collective](Gracefool Collective2.jpg)    
+         
 **Hannah Buckley | Woman With Eggs**                    
 A solo about women's ability to be many things.              
                      
@@ -41,11 +42,13 @@ Choreographer + performer: Hannah Buckley | Music: Alex Drewchin (Babooshka), Gr
 Text: *Kakuarshuk* (Inuit folk story taken from Angela Carter's Book of Fairtytales); extracts from interviews with Bo Tillmanns + Elsie Brown; *The Terrorism of Children* (extracts from a Sheila Heti interview with Sophie Calle)               
                
 [@buckleyhello](http://twitter.com/buckleyhello)               
+![Hannah Buckley](HannahBuckley1.jpg) 
               
 **Ane Iselin Brogeland | Microphono**        
 Exploring thoughts of identity and language after being a foreigner in the UK for 2 years, Ane Iselin is curious about the ways in which spoken language and thought reach into each other, and might be inseparable from movement.               
                  
 [Website](http://aneiselin.wordpress.com)           
+![Ane Iselin Brogeland](AneIselinBrogeland2.jpg)
           
 **Debbie Freedman | Yugen**          
 *What happens when you find the missing piece to solve an ongoing curiosity? Do you take it? Reject it because it is too much to handle? Or do something extraordinary…*             
@@ -67,7 +70,8 @@ Performers: Rebecca Bogue + Robert Cook | Choreography: Jane Munro, Rebecca Bogu
 The dramaturgic texture of this piece has its roots in 20th century protest art, as it involves a complete and devastating negation of economically regulated spectacle (the denouncement of 'beauty' as a class-ified commodity or in any way objectively definable in favour of a more 'everyday' subjectivity) — yet at the same time it is a joyous affirmation of spectacle, albeit one dependent on mass participation and not exclusion, the utopian ideal of communion.           
          
 Dancer + choreographer: Melissa Pasut | Direction: Andrew Leslie Hooker
-          
+![Anoikis](Anoikis.jpg)           
+
 **Peter Grist + Company | Tiny Little Flashlights**                   
 A new work choreographed by Peter Grist about the consequences of small actions, and the fragility of relationships through tough times. The piece layers moments in time to convey journeys through relationships, love, the environment, and parenthood.         
          
@@ -79,7 +83,8 @@ Combining projection and choreographed live movement, *Imbue* follows a female d
 Choreography: Tom Bowes | Projection: Ethan Duffy | Performance: Jenny Reeves | Sound: *Enter The Host I* by William Fowler Collins, *Passport Control* by The Black Dog, *We Insist* by Zoë Keating, *Not a Number* by Apparat        
             
 [Website](http://www.tombowesdance.com) | [@tombowesdance](http://twitter.com/tombowesdance) | [Facebook Page](http://www.facebook.com/tombowesdance)        
-      
+![Tom Bowes Dance](TomBowes2.jpg)    
+          
 **Joshua Hubbard F\*\#¿\!D | Dummies**           
 A coolly crashing piece of work.     
           
