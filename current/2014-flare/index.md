@@ -23,17 +23,15 @@ show_size: 3
 International, radical, new theatre…          
          
 ####Venue + Booking Details
-Evening One: Friday 13 June 2014, 7pm
-Afternoon: Saturday 14 June 2014, 1pm
-Evening Two: Saturday 14 June 2014, 7pm
-[Venue: Z-arts]()    
-[Tickets: £11/6 per evening; £5/3 afternoon; £16/10 weekender pass]()     
-Box Office Tel: 0161    
+Evening One: Friday 13 June 2014, 7pm       
+Afternoon: Saturday 14 June 2014, 1pm        
+Evening Two: Saturday 14 June 2014, 7pm         
+[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here),335 Stretford Road, Manchester, M15 5ZA    
+Tickets (TBC): £11/6 per evening; £5/3 afternoon; £16/10 weekender pass     
+Box Office Tel: 0161 232 6089    
       
 ####More      
 To get a feel for The Flare Weekender see 2012's [programme](/archive/2012-springsummer/flare).      
-                   
-####What people said about Flare 2011/2012    
-       
+                           
 ####Credits         
-tbc
+[Flare](http://www.flarefestival.com)
