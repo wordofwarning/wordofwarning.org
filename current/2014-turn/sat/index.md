@@ -32,8 +32,7 @@ In this surreal party we see the ways in which alliances are made and relationsh
                 
 Choreographer: Kate Cox | Performers: Sarah Maria Cook, Sofia Edstrand, Rachel Fullegar, Rebecca Holmberg, Kyle Lawson, Davide Trioani + Jack Wignall      
             
-[@gracefoolC](http://twitter.com/gracefoolC)        
-![Gracefool Collective](Gracefool Collective2.jpg)    
+[@gracefoolC](http://twitter.com/gracefoolC)          
          
 **Hannah Buckley | Woman With Eggs**                    
 A solo about women's ability to be many things.              
