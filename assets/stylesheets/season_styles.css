@@ -94,7 +94,7 @@
 	.f2014 .artist, 
 	.f2014 .show,
 	.f2014 .season
-		{background:#441; color:#fff;}
+		{background:#642; color:#fff;}
 
 	.f2014 a,
 	.f2014 a:visited,
@@ -103,7 +103,7 @@
 	.f2014 nav a:hover,
 	.f2014 article a:hover,
 	.f2014 footer a:hover
-		{background: #fff; color: #441;}
+		{background: #fff; color: #642;}
 
 	.f2014 .splash
 		{background:url(../images/Flare.jpg) center center}
