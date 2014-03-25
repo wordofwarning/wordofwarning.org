@@ -72,8 +72,7 @@ Choreographer + performer: Jo Ashbridge | Directorial assistance: Maria Malone |
 **Levantes Dance Theatre | Quero Quero (work-in-progress)**        
 An enigmatic meeting of two strangers who are getting to know each other whilst dancing, playing and crying…      
            
-Artistic Direction: Eleni Edipidi (LDT) | Performers: Eleni Edipidi, Joseph Lau | Thank you to: The Generating Company + Greenwich Dance        
+Artistic Direction: Eleni Edipidi (LDT) | Performers: Eleni Edipidi, Joseph Lau | Thank you to: The Generating Company, Greenwich Dance + Toli Senzale (Eduardo de Souza)        
         
 [Website](http://www.levantesdancetheatre.org) | [@LevantesDance](http://twitter.com/LevantesDance)    
-![Levantes Dance Theatre](Levantes3.jpg)    
-    
+![Levantes Dance Theatre](Levantes3.jpg)
