@@ -35,7 +35,7 @@ Choreographer + performer: Christopher Owen | Text: Marcel Duchamp on the artist
 [Website](http://percussivecustomerprojectsblog.wordpress.com) | [Facebook Page](http://www.facebook.com/pages/Percussive-Customer-Projects/294267203937911)
 	      
 **Yi-Han Wu 吳逸涵 + Oscar South | Motion & Music**        
-A collaboration between Contemporary/Ballet Dancer Yi-Han Wu 吳逸涵 and musician Oscar South. The project makes use of cutting edge motion sensing technology in order to seamlessly fuse choreography, composition and improvisation whilst blurring the lines between dance and music.        
+A collaboration between Contemporary/Ballet dancer Yi-Han Wu 吳逸涵 and musician Oscar South. The project makes use of cutting edge motion sensing technology in order to seamlessly fuse choreography, composition and improvisation whilst blurring the lines between dance and music.        
           
 [Website](http://motionmusic.riseresolution.com)    
 ![Yi-Han Wu 吳逸涵 + Oscar South](YiHanWu3.jpg)    
