@@ -61,7 +61,7 @@ Debbie is a professional dancer, choreographer and dance teacher working in the 
 **Jane Munro + the visitors | Invitation**                      
 Examining how a performer deals with the negotiation of participation, we look at how the performer approaches an audience member. We look at the tricks he has to perform to get someone else to join; she seeks wallflowers and exhibitionists. *Invitation* leads audience members from the fearful, to the thrill of dancing an impromptu duet. Or maybe there are no dances and merely a series of refusals.        
               
-Performers: Rebecca Bogue + Robert Cook | Choreography: Jane Munro, Rebecca Bogue + Robert Cook | Music: Andrew Lawrence + Nico Muhly
+Performers: Rebecca Bogue + Jaime Lee-Rodney | Choreography: Jane Munro, Rebecca Bogue + Robert Cook | Music: Andrew Lawrence + Nico Muhly
        
 [Website](http://www.janemunro.co.uk)       
                
