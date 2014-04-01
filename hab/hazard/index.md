@@ -18,7 +18,7 @@ header_image: "header_2012_hazard.jpg"
 **Hazard — Saturday 12 July, Manchester City Centre — seeks proposals (Deadline: Friday 16 May 2014, 6pm)**          
 Presented by Word of Warning, produced by hÅb + The Larks in collaboration with the participating artists, a greenroom legacy project.    
 
-**[Proposals are now invited for Hazard 2014](http://hazardmcr.posthaven.com/670552?draft=tjcYVJFzjEHjpb_jhWf8PHK7wKwXTlo2VoxIJCzdhBs=):**    
+**[Proposals are now invited for Hazard 2014](http://hazardmcr.posthaven.com/hazard-2014-the-hit-and-run-of-sited-festivals-call-for-proposals):**    
 A micro-festival of incidental intervention and sited performance, blurring the boundaries between art and activism… cheeky, thought-provoking and sometimes raunchy sprees of eccentricity…    
            
 Manchester’s unique micro-festival of all things bizarre and stripy returns for its fifth outing, inviting you to join in with its strange antics and ludic(rous) activities.     
@@ -33,7 +33,7 @@ For a glimpse of previous outbreaks of hazardous behaviour see [2012's programme
               
 *Think big, think bright, think irreverent!*    
     
-**To submit a proposal, click [here]() for details.**
+**To submit a proposal, click [here](http://hazardmcr.posthaven.com/hazard-2014-the-hit-and-run-of-sited-festivals-call-for-proposals) for details.**
          
 Enquiries: <mailto:hazard@habarts.org>       
           
