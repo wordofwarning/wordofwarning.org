@@ -34,7 +34,7 @@ Ane Iselin Brogeland | Anoikis | Anna Macdonald | Ashleigh Berry | Christopher O
 
 ####Schedule *All times are approximate and subject to change.*          
 To download, right click and save image.    
-![Turn Schedule Friday](Turnsatsched.jpg)    
+![Turn Schedule Friday](Turnfrisched.jpg)    
 ![Turn Schedule Saturday](Turnsatsched.jpg)      
          
 To get a feel for Turn see 2013's [image gallery](/galleries/2013-turn).      
