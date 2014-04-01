@@ -15,13 +15,13 @@ header_image: "header_2012_hazard.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---         
-**Hazard — Saturday 12 July 2014, Manchester City Centre — is calling for proposals (Deadline 6pm Friday 16 May 2014)**          
+**Hazard — Saturday 12 July, Manchester City Centre — seeks proposals (Deadline: Friday 16 May 2014, 6pm)**          
 Presented by Word of Warning, produced by hÅb + The Larks in collaboration with the participating artists, a greenroom legacy project.    
 
 **[Proposals are now invited for Hazard 2014](http://hazardmcr.posthaven.com/670552?draft=tjcYVJFzjEHjpb_jhWf8PHK7wKwXTlo2VoxIJCzdhBs=):**    
 A micro-festival of incidental intervention and sited performance, blurring the boundaries between art and activism… cheeky, thought-provoking and sometimes raunchy sprees of eccentricity…    
            
-Manchester’s unique micro-festival of all things bizarre and stripy returns for its fifth outing, and invites you to join in with its strange antics and ludic(rous) activities.     
+Manchester’s unique micro-festival of all things bizarre and stripy returns for its fifth outing, inviting you to join in with its strange antics and ludic(rous) activities.     
             
 So far we’ve wrapped Cathedral Gardens in fluttering hazard tape, pitted together a lion and a unicorn, moved the goalposts (literally) and witnessed flat packed children take over the streets of Manchester — oh, and conducted a hoola-hoopathon; The Larks had the public riddling, racing and chasing as urban archaeologists and private investigators, injecting mass gaming into [St Ann’s Square](http://www.google.co.uk/maps/place/St.+Ann's+Church/@53.481784,-2.245663,3a,75y,218.69h,90t/data=!3m4!1e1!3m2!1syYuOT36eMUL4WFAfihEJIg!2e0!4m2!3m1!1s0x487bb1c3df375453:0x799439d91859d49d!6m1!1e1) and beyond.       
                  
