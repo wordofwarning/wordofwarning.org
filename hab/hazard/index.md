@@ -38,4 +38,4 @@ For a glimpse of previous outbreaks of hazardous behaviour see [2012's programme
 Enquiries: <mailto:hazard@habarts.org>       
           
 Hazard 2014 is a hÅb + the Larks co-production, a greenroom legacy project.
-hazardmcr.org | #HazardMcr
+hazardmcr.org | #HazardMcr | [@hazardmcr](https://twitter.com/hazardmcr)
