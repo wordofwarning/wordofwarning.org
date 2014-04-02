@@ -86,6 +86,6 @@ Choreography: Tom Bowes | Projection: Ethan Duffy | Performance: Jenny Reeves | 
 ![Tom Bowes Dance](TomBowes2.jpg)    
           
 **Joshua Hubbard F\*\#¿\!D | Glass on the Floor**           
-Choreographer: Joshua Hubbard | Dancers: Joshua Hubbard, Mary Mannion, Helen McCarron + James Southward | Music: *Burned* by The Dandy Warhols            
+Choreographer: Joshua Hubbard | Performer: Joshua Hubbard, Mary Mannion, Helen McCarron + James Southward | Music: *Burned* by The Dandy Warhols            
            
 [Facebook Page](http://www.facebook.com/joshua.hubbard.dance)       
