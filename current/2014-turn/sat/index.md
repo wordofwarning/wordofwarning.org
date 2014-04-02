@@ -68,7 +68,7 @@ Performers: Rebecca Bogue + Jaime Lee-Rodney | Choreography: Jane Munro, Rebecca
 **Anoikis | Black Plastic Bag**           
 The dramaturgic texture of this piece has its roots in 20th century protest art, as it involves a complete and devastating negation of economically regulated spectacle (the denouncement of 'beauty' as a class-ified commodity or in any way objectively definable in favour of a more 'everyday' subjectivity) — yet at the same time it is a joyous affirmation of spectacle, albeit one dependent on mass participation and not exclusion, the utopian ideal of communion.           
          
-Dancer + choreographer: Melissa Pasut | Direction: Andrew Leslie Hooker
+Dancer + choreographer: Melissa Pasut | Direction + sound: Andrew Leslie Hooker
 ![Anoikis](Anoikis.jpg)           
 
 **Peter Grist + Company | Tiny Little Flashlights**                   
