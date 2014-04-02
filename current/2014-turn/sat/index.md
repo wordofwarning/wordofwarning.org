@@ -85,9 +85,7 @@ Choreography: Tom Bowes | Projection: Ethan Duffy | Performance: Jenny Reeves | 
 [Website](http://www.tombowesdance.com) | [@tombowesdance](http://twitter.com/tombowesdance) | [Facebook Page](http://www.facebook.com/tombowesdance)        
 ![Tom Bowes Dance](TomBowes2.jpg)    
           
-**Joshua Hubbard F\*\#¿\!D | Dummies**           
-A coolly crashing piece of work.     
-          
-Choreographer: Joshua Hubbard | Dancers: Joshua Hubbard, Anton Hincliffe, Eve Stainton, Aimee Papworth            
+**Joshua Hubbard F\*\#¿\!D | Glass on the Floor**           
+Choreographer: Joshua Hubbard | Dancers: Joshua Hubbard, Mary Mannion, Helen McCarron + James Southward | Music: *Burned* by The Dandy Warhols            
            
 [Facebook Page](http://www.facebook.com/joshua.hubbard.dance)       
