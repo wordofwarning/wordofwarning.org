@@ -17,7 +17,7 @@ header_image: "header_turn_photo.jpg"
 ---
 **Turn** is our annual platform for NW dancers + dance-makers, featuring up to 15 short pieces of work over two nights in Manchester.       
        
-Our [sixth Turn](/current/2014-turn) takes place on Friday 4 + Saturday 5 April 2014, at [Contact](http://contactmcr.com). To get a feel for it see 2013's [programme](/archive/2013-turn) + [image gallery](/galleries/2013-turn).       
+Our [sixth Turn](/current/2014-turn) took place on Friday 4 + Saturday 5 April 2014, at [Contact](http://contactmcr.com). To get a feel for it see 2014's [image gallery](/galleries/2014-turn).       
        
 **Turn is:**        
 >a public micro-festival + open submission dance platform;        
