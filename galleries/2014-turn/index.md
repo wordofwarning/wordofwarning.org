@@ -21,7 +21,7 @@ gallery:
     -   {file: "fluxus.jpg", artist: "Fluxus Collective"}
     -   {file: "gracefool.jpg", artist: "Gracefool Collective"}
     -   {file: "buckley.jpg", artist: "Hannah Buckley"}
-    -   {file: "brogeland", artist: "Ane Iselin Brogeland"}
+    -   {file: "brogeland.jpg", artist: "Ane Iselin Brogeland"}
     -   {file: "freedman.jpg", artist: "Debbie Freedman"}
     -   {file: "grist.jpg", artist: "Peter Grist"}
     -   {file: "bowes.jpg", artist: "Tom Bowes Dance"}
