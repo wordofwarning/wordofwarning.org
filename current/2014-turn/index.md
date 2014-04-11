@@ -32,7 +32,7 @@ Turn 2014 is our sixth annual platform for dancers + dance-makers, featuring sev
 
 Ane Iselin Brogeland | Anna Macdonald | Anoikis | Ashleigh Berry | Christopher Owen | Debbie Freedman | Ellen Turner | Fluxus Collective | Gracefool Collective | Hannah Buckley | Jane Munro + the visitors |  Jo Ashbridge | Joshua Hubbard F\*\#¿\!D | Levantes Dance Theatre | Peter Grist + Company | Tom Bowes Dance | Yi-Han Wu 吳逸涵 + Oscar South        
               
-To get a feel for Turn see 2013's [image gallery](/galleries/2013-turn).      
+Now it's all over, see Turn 2014's [image gallery](/galleries/2014-turn).      
                
 ####Schedule (*timings are approximate and subject to change*)          
 To download, right click and save image.    
