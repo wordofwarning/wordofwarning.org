@@ -5,7 +5,7 @@ layout: hab # the season or event-specific template in /_layouts
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Links + Partners" # the name of the artist or company
+artist: "DivergencyMcr" # the name of the artist or company
 header_image: "header_emergencynw.jpg"    
 
 
@@ -15,47 +15,6 @@ header_image: "header_emergencynw.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-hÅb can only function in partnership with a host of other organisations + networks, some of which are linked to below.    
-
-In 2012 we were pleased to partner with Live at LICA in producing the [*Getting It Out There*](http://www.liveatlica.org/whats-on/symposium-getting-it-out-there) symposium on touring; a **free** publication produced with the [Live Art Development Agency](http://www.thisisliveart.co.uk) following the event can be downloaded [here](http://habmcr.posthaven.com/getting-it-out-there-publication-free-to-down).    
+From 28 April to 14 May 2014 [hÅb](/hab) and [STUN](http://stunlive.com) are working together on **DivergencyMcr**, a [Creative Case NORTH](http://www.zendeh.com/blog/#announcement) residency project exploring diversity in live art and contemporary performance — read our [blog](http://divergencymcr.posthaven.com) for progress, musings and ramblings throughout our residency.        
         
-hÅb is a member of:    
-[IETM](http://ietm.org)  
-[Live Art UK](http://www.liveartuk.org/index.htm)    
-[LANWest](http://www.lanwest.org)   
-FOG — the Manchester Festival Organisers Group   
-Taking Our Bearings North — an emerging Greater North Network led in partnership with [Compass Live Art](http://compassliveart.org.uk) + [Wunderbar](http://www.wunderbarfestival.co.uk)    
-   
-We are pleased to count among our friends + regular partners:    
-[Arden School of Theatre (The Manchester College)](http://www.themanchestercollege.ac.uk/subject-area/arden)    
-[ASSEMBLE](http://assembletheatre.wordpress.com)       
-[Axis Arts Centre (MMU Cheshire)](http://www.axisartscentre.org.uk)    
-[Blank Media Collective](http://blankmediacollective.org)    
-[Contact](http://contactmcr.com)  
-[Contemporary Theatre + Performance, UCLan](http://www.uclan.ac.uk/information/courses/ba_hons_contemporary_theatre_and_performance.php)    
-[Contemporary Practices, University of Salford](http://www.salford.ac.uk/courses/performance-contemporary-practices?mode=ov)    
-[Dance Manchester](http://www.dancemanchester.org)    
-[DERELICT](http://www.derelictlive.org)       
-[Flare Festival](http://www.flarefestival.com)    
-[hatch](http://www.hatchnottingham.org.uk)    
-[Hope Street](http://www.hope-street.org)          
-[In Between Time Productions](http://inbetweentime.co.uk)    
-[Lancaster Emerging Arts Platform (LEAP)](http://www.talkwithleap.com)      
-[Live at LICA](https://www.liveatlica.org/home)    
-[MKULTRA](http://www.mkultra.org.uk)    
-[PANDA (performing arts network + development agency)](http://www.panda-arts.org.uk)        
-[Pigeon Theatre](http://pigeontheatre.wordpress.com)    
-[Plane Performance](http://www.planeperformance.co.uk)    
-[Proto-type Theater](http://proto-type.org)    
-[Quarantine](http://www.qtine.com)    
-[Reckless Sleepers](http://www.reckless-sleepers.co.uk)    
-[STUN (Sustained Theatre Up North)](http://stunlive.com)         
-[The1stFour](http://the1st4.blogspot.co.uk)       
-[the Bluecoat](http://www.thebluecoat.org.uk)       
-[The Future](http://www.the-future.co.uk)      
-[The Larks (formerly Larkin' About)](http://www.the-larks.com) — resident gamers.    
-[The Lowry Studio](http://www.thelowry.com/developed-with/the-studio-microsite/welcome)      
-[Work for Change](http://change.coop)   
-[Z-arts](http://www.z-arts.org)    
-       
-hÅb is supported by public funding through [Arts Council England](http://www.artscouncil.org.uk) and is funded by Manchester City Council through the [Manchester Cultural Partnership](http://www.manchesterculturalpartnership.org).
+Creative Case NORTH is a programme of sector-led activity exploring the Creative Case for Diversity, developed by a consortium of arts and cultural organisations convened by Arts Council England from across the North area, including: Partners — ARC Stockton, BALTIC Centre for Contemporary Art, Contact Theatre, GemArts, STAY, ZENDEH; Critical Friends — Alchemy, Art House, Mind The Gap, Open Clasp, Tyne & Wear Archives & Museums.
