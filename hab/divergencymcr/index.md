@@ -15,7 +15,7 @@ header_image: "header_emergencynw.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-From 28 April to 14 May 2014 [hÅb](/hab) + [STUN(Sustained Theatre Up North)](http://stunlive.com) are working together on **DivergencyMcr**, a [Creative Case NORTH](http://www.zendeh.com/blog/#announcement) residency project exploring diversity in live art and contemporary performance…         
+From 28 April to 14 May 2014 [hÅb](/hab) and [STUN (Sustained Theatre Up North)](http://stunlive.com) are working together on **DivergencyMcr**, a [Creative Case NORTH](http://www.zendeh.com/blog/#announcement) residency project exploring diversity in live art and contemporary performance…         
           
 **Live Art and the Creative Case** is an exploration into diversifying the northern artist base for live art + contemporary performance through: database research, artform tools + strategies workshop, and a group go-see visit.                     
 STUN (a membership organisation dedicated to the development of UK Black and Asian Creatives) and hÅb have a joint goal of encouraging new ways of telling more diverse stories for new audiences — read our [blog](http://divergencymcr.posthaven.com) for progress, musings and ramblings throughout our residency.               
