@@ -1,19 +1,19 @@
 ---
 
 # CONFIGURATION
-layout: 2014-spring
+layout: 2014-springsummer
 rootpath: "../../"
 is_index: true
 
 ---
-This short extension to Spring sees a triple-headed delve into performance psyches; a flash of international talent and a hit and run incursion into the daily life of city centre.    
-         
-Rounding off our spring sojourn at Contact in May is the third [Works Ahead](/current/2014-worksahead),  with a trio of new works in development from young artists [SheepKnuckle](/current/2014-worksahead/sheepknuckle/index.html), [Lindsay Bennett](/2014-worksahead/bennett/index.html) and [Paul O’Donnell](/current/2014-worksahead/odonnell/index.html). Through grand entrances and dramatic exits, constant approval seeking and extreme efforts to avoid the stage, Works Ahead delves into the mindset of the performer.     
+This short summer extension to [Spring 2014](/archive/2014-spring) sees a triple-headed delve into performance psyches, a flash of international talent, and a hit-and-run incursion into the daily life of our city centre.    
+                
+Rounding off our spring sojourn at Contact in May is the third **[Works Ahead](/current/2014-worksahead)**, with a trio of new works-in-development from young artists [SheepKnuckle](/current/2014-worksahead/sheepknuckle), [Lindsay Bennett](/current/2014-worksahead/bennett) + [Paul O’Donnell](/current/2014-worksahead/odonnell). Through grand entrances and dramatic exits, constant approval seeking and extreme efforts to avoid the stage, Works Ahead delves into the mindset of the performer.     
    
-In June we return to Z-arts for the second [Flare Weekender](/current/2014-flare) - two days of new theatre from around Europe - with contributions from the Netherlands, Norway, Spain and UK.    
-  
-Finally, in July, we embark on our fifth bid to take over the city centre with the ever-irreverent [Hazard](/current/2014-hazard) - look out for the tell-tale flashes of yellow and black, coming to a street near you!
-
+In June we return to Z-arts for the second **[Flare Weekender](/current/2014-flare)** — two days of performance by new international theatre-makers from Belgium, Norway, the Netherlands, Spain and the UK, featuring guest perfomances of Leentje Van de Cruys's *Kitsch’n Sync* (last seen at [Domestic](/archive/2013-domestic/vandecruys)).       
+      
+Finally, in July, we embark on our fifth bid to take over Manchester's city centre with the ever-irreverent **[Hazard](/current/2014-hazard)** — look out for the tell-tale flashes of yellow and black, coming to a street near you!        
+        
 Really hoping to see you at some or all of it; if you want to check out what happened last season, have a look at our [Spring 2014 archive](/archive/2014-spring).    
         
 ####What is Word of Warning and where did it come from?
