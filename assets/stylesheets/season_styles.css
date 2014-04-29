@@ -54,7 +54,7 @@
 	.ss2013 .splash
 		{background:url(../images/header_springsummer13.jpg) -150px center}
 
-/* Autumn / Winter 2013 Programme
+/* Autumn/Winter 2013 Programme
 ------------------------------------------------------*/
 
 	.aw2013 .splash
@@ -65,6 +65,12 @@
 
 	.s2014 .splash
 		{background:url(../images/header_spring2014wrn.jpg) -150px center}
+
+/* Spring/Summer 2014 Programme
+------------------------------------------------------*/
+
+	.ss2014 .splash
+		{background:url(../images/header_ss2012.jpg) -150px center}
 
 /* Turn 2014 dark blue-teal
 ------------------------------------------------------*/
@@ -94,7 +100,7 @@
 	.f2014 .artist, 
 	.f2014 .show,
 	.f2014 .season
-		{background:#431; color:#fff;}
+		{background:#630; color:#fff;}
 
 	.f2014 a,
 	.f2014 a:visited,
@@ -103,10 +109,10 @@
 	.f2014 nav a:hover,
 	.f2014 article a:hover,
 	.f2014 footer a:hover
-		{background: #fff; color: #431;}
+		{background: #fff; color: #630;}
 
 	.f2014 .splash
-		{background:url(../images/Flare.jpg) center center}
+		{background:url(../images/header_flare.jpg) center center}
 
 /* Domestic very dark green
 ------------------------------------------------------*/
