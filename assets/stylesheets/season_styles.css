@@ -100,7 +100,7 @@
 	.f2014 .artist, 
 	.f2014 .show,
 	.f2014 .season
-		{background:#630; color:#fff;}
+		{background:#330; color:#fff;}
 
 	.f2014 a,
 	.f2014 a:visited,
@@ -109,7 +109,7 @@
 	.f2014 nav a:hover,
 	.f2014 article a:hover,
 	.f2014 footer a:hover
-		{background: #fff; color: #630;}
+		{background: #fff; color: #330;}
 
 	.f2014 .splash
 		{background:url(../images/header_flare.jpg) center center}
@@ -172,7 +172,7 @@
 	.woah nav a:hover,
 	.woah article a:hover,
 	.woah footer a:hover
-		{background: #fff; color: #600;}
+		{background: #fff; color: #400;}
 
 	.woah .splash
 		{background:url(../images/header_woah_photo.jpg) center center}
@@ -293,27 +293,3 @@
 
 	.hab .splash
 		{background:url(../images/header_hab_photo.jpg) center center}
-		
-
-		
-/* an example (not pretty) event styling - copy and paste to make new event styles
-------------------------------------------------------*/
-/*
-	.example,
-	.example .artist, 
-	.example .show,
-	.example .season
-		{background:#f00; color:#fff;}
-
-	.example a,
-	.example a:visited,
-	.example a:hover
-		{color:#fff;}
-	.example nav a:hover,
-	.example article a:hover,
-	.example footer a:hover
-		{background: #fff; color: #f00;}
-		
-	.example .splash
-		{background:url(../images/header_example.png) -150px center}
-*/
