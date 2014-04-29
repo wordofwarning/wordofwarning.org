@@ -31,7 +31,23 @@ Tickets (TBC): £11/6 per evening; £5/3 afternoon; £16/10 weekender pass
 Box Office Tel: 0161 232 6089    
       
 ####More      
+featuring:
+
+[Almost Human (UK)](http://www.almost-human.org) | *A Grindhouse Dante*                         
+[Drunken Chorus (UK)](http://www.drunkenchorus.co.uk) | *Just Like Larry Walters*                    
+[El Conde De Torrefiel (Spain)](http://www.elcondedetorrefiel.com/guerrilla.html) | *Guerrilla*                 
+[Hannah Sullivan (UK)](http://www.hannahsullivan.co.uk/Echo-Beach) | *Echo Beach*               
+[Moeremans&Sons (Holland)](www.moeremansandsons.com) | *My Own Private Disaster*                     
+[SheepKnuckle (UK)](http://sheepknuckle.tumblr.com) | *A Brave and Startling Truth*               
+[Walk of Shame (Norway)](http://www.flarefestival.com/project/i-saw-the-sign-ooo-is-enough-enough) | *I Saw the Sign (Oooo is enough enough)*                  
+[Wies Fest (Holland)](http://www.flarefestival.com/project/a-whole-lot-of-nothing-wies-fest) | *A whole lot of nothing*                
+Guest performance:            
+[Leentje Van de Cruys (Belgium/UK)](/archive/2013-domestic/vandecruys) | *Kitsch'n Sync*                
+            
 To get a feel for The Flare Weekender see 2012's [programme](/archive/2012-springsummer/flare).      
                            
 ####Credits         
-Produced by [Flare](http://www.flarefestival.com), supported by hÅb.
+Presented by Flare with Word of Warning. Supported using public funding by the National Lottery through Arts Council England; supported by Manchester Metropolitan University + University of Salford.       
+              
+####Websites           
+[www.flarefestival.com](http://www.flarefestival.com/flare-weekender-2014) | [@flarefestival](http://twitter.com/flarefestival)
