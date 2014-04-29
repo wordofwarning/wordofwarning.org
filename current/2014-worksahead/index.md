@@ -8,6 +8,7 @@ is_index: true
 # ABOUT THE SHOW - GENERIC
 artist: "Works Ahead 2014" # the name of the artist or company
 show: "Annual new performance sampler." # the name of the show
+artist_size: 2
 show_size: 3
 
 # ABOUT THE SHOW - LAYOUT
