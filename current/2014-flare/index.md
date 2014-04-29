@@ -8,7 +8,7 @@ is_index: true
 # ABOUT THE SHOW - GENERIC
 artist: "The Flare Weekender 2014" # the name of the artist or company
 show: "Radical new international theatre." # the name of the show
-artist_size: 3
+artist_size: 2
 show_size: 3
 
 # ABOUT THE SHOW - LAYOUT
