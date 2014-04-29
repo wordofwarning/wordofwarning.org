@@ -34,8 +34,12 @@ Part of a triple-bill of new performance, with each show taking place in a diffe
 Age advisory: TBA
        
 ####More       
-*Echo* is a celebration of the anxiety of performance. An exploration of what it is to be ‘live’ and ‘present’ in a culture that is increasingly digitally dependent. How we remove ourselves from personal interaction, how we ended up here, and why…       
-      
+SheepKnuckle are two young men going to extraordinary lengths to avoid being on a stage… so what exactly are they doing here?    
+
+In this celebration of collective performance anxiety, they cede centre stage to an audience-turned-performer, to become remote whispering guides through an intimate conversation and a performance of the everyday.    
+ 
+*Echo* is a love story you have already heard but are yet to take part in...    
+![Echo](sheep1.jpg)    
 ####Who are they?    
 SheepKnuckle are James Monaghan + Padraig Confrey, who make work that manifests itself often as an experiment; who are interested in using interactive media and ‘the self’ to challenge and de-construct traditional dramaturgy. They met at Salford University in their first year and have been in love ever since.     
         
