@@ -20,12 +20,11 @@ show_size: 3
 *Presented by* Flare + Word of Warning    
          
 ###Friday 13 + Saturday 14 June 2014
-The Flare Weekender presents radical theatre by new international theatre-makers from Norway, the Netherlands, Spain and the UK.         
+The Flare Weekender presents radical theatre by new international theatre-makers from Belgium, Norway, the Netherlands, Spain and the UK.         
           
 ####Venue + Booking Details
-Evening One: Friday 13 June 2014, 7pm       
-Afternoon: Saturday 14 June 2014, 1pm        
-Evening Two: Saturday 14 June 2014, 7pm         
+Day One: Friday 13 June 2014, 7pm       
+Day Two: Saturday 14 June 2014, 1pm + 7pm         
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA      
 Tickets on sale soon.      
            
@@ -37,13 +36,12 @@ Accompanied by live music, workshops, discussions and a closing party, The Flare
 [Drunken Chorus (UK)](http://www.drunkenchorus.co.uk) | *Just Like Larry Walters*                    
 [El Conde De Torrefiel (Spain)](http://www.elcondedetorrefiel.com/guerrilla.html) | *Guerrilla*                 
 [Hannah Sullivan (UK)](http://www.hannahsullivan.co.uk/Echo-Beach) | *Echo Beach*               
-[Moeremans&Sons (Holland)](www.moeremansandsons.com) | *My Own Private Disaster*                     
+[Leentje Van de Cruys (Belgium/UK)](/archive/2013-domestic/vandecruys) | *Kitsch'n Sync* (guest performer, limited capacity)                
+[Moeremans&Sons (Netherlands)](www.moeremansandsons.com) | *My Own Private Disaster*                     
 [SheepKnuckle (UK)](http://sheepknuckle.tumblr.com) | *A Brave and Startling Truth*               
 [Walk of Shame (Norway)](http://www.flarefestival.com/project/i-saw-the-sign-ooo-is-enough-enough) | *I Saw the Sign (Oooo is enough enough)*                  
-[Wies Fest (Holland)](http://www.flarefestival.com/project/a-whole-lot-of-nothing-wies-fest) | *A whole lot of nothing*                
-Guest performance:            
-[Leentje Van de Cruys (Belgium/UK)](/archive/2013-domestic/vandecruys) | *Kitsch'n Sync*                
-            
+[Wies Fest (Netherlands)](http://www.flarefestival.com/project/a-whole-lot-of-nothing-wies-fest) | *A whole lot of nothing*                
+         
 To get a feel for The Flare Weekender see 2012's [programme](/archive/2012-springsummer/flare).      
                            
 ####Credits         
