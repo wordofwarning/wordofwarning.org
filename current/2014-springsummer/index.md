@@ -12,7 +12,7 @@ Rounding off our spring sojourn at Contact in May is the third **[Works Ahead](/
    
 In June we return to Z-arts for the second **[Flare Weekender](/current/2014-flare)** — two days of performance by new international theatre-makers from Belgium, Norway, the Netherlands, Spain and the UK, featuring guest perfomances of Leentje Van de Cruys's *Kitsch’n Sync* (last seen at [Domestic](/archive/2013-domestic/vandecruys)).       
       
-Finally, in July, we embark on our fifth bid to take over Manchester's city centre with the ever-irreverent **[Hazard](/current/2014-hazard)** — look out for the tell-tale flashes of yellow and black, coming to a street near you!        
+Alongside resident gamers [The Larks](http://www.the-larks.com), in July, we embark on our fifth bid to take over Manchester's city centre with the ever-irreverent **[Hazard](/current/2014-hazard)** — look out for the tell-tale flashes of yellow and black, coming to a street near you!        
         
 Really hoping to see you at some or all of it; if you want to check out what happened last season, have a look at our [Spring 2014 archive](/archive/2014-spring).    
         
