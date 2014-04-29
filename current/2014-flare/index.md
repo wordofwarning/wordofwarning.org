@@ -20,7 +20,7 @@ show_size: 3
 *Presented by* Flare + Word of Warning    
          
 ###Friday 13 + Saturday 14 June 2014
-A weekend of performance by new theatre-makers from Belgium, Norway, the Netherlands, Spain and the UK.         
+A weekend of new performance by theatre-makers from Belgium, Norway, the Netherlands, Spain and the UK.         
           
 ####Venue + Booking Details
 Day One: Friday 13 June 2014, 7pm       
@@ -45,7 +45,4 @@ Accompanied by live music, workshops, discussions and a closing party, The Flare
 To get a feel for The Flare Weekender see 2012's [programme](/archive/2012-springsummer/flare).      
                            
 ####Credits         
-Produced by Flare with hÅb; supported using public funding by the National Lottery through Arts Council England, supported by Manchester Metropolitan University + University of Salford.
-           
-####Websites           
-[www.flarefestival.com](http://www.flarefestival.com) | [@flarefestival](http://twitter.com/flarefestival)
+Produced by Flare with hÅb; supported using public funding by the National Lotter
