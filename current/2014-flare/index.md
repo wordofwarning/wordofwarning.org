@@ -20,7 +20,7 @@ show_size: 3
 *Presented by* Flare + Word of Warning    
          
 ###Friday 13 + Saturday 14 June 2014
-The Flare Weekender presents radical theatre by new international theatre-makers from Belgium, Norway, the Netherlands, Spain and the UK.         
+A weekend of performance by new theatre-makers from Belgium, Norway, the Netherlands, Spain and the UK.         
           
 ####Venue + Booking Details
 Day One: Friday 13 June 2014, 7pm       
