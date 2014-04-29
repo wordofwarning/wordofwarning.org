@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: 2014-spring
+layout: 2014-springsummer
 rootpath: "../../"
 is_index: true
 
