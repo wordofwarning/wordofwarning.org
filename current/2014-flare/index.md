@@ -45,4 +45,7 @@ Accompanied by live music, workshops, discussions and a closing party, The Flare
 To get a feel for The Flare Weekender see 2012's [programme](/archive/2012-springsummer/flare).      
                            
 ####Credits         
-Presented by Flare with Word of Warning. Supported using public funding by the National Lottery th
+Produced by Flare with hÅb/Word of Warning. Supported using public funding by the National Lottery through Arts Council England; supported by Manchester Metropolitan University + University of Salford.
+           
+####Websites           
+[www.flarefestival.com/](http://www.flarefestival.com) | [@flarefestival](http://twitter.com/flarefestival)
