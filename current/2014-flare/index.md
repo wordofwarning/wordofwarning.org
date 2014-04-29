@@ -36,7 +36,7 @@ Accompanied by live music, workshops, discussions and a closing party, The Flare
 [Drunken Chorus (UK)](http://www.drunkenchorus.co.uk) | *Just Like Larry Walters*                    
 [El Conde De Torrefiel (Spain)](http://www.elcondedetorrefiel.com/guerrilla.html) | *Guerrilla*                 
 [Hannah Sullivan (UK)](http://www.hannahsullivan.co.uk/Echo-Beach) | *Echo Beach*               
-[Leentje Van de Cruys (Belgium/UK)](/archive/2013-domestic/vandecruys) | *Kitsch'n Sync* (guest performer, limited capacity)                
+[Leentje Van de Cruys (Belgium/UK)](/archive/2013-domestic/vandecruys) | *Kitsch'n Sync* (guest; ltd capacity)                
 [Moeremans&Sons (Netherlands)](www.moeremansandsons.com) | *My Own Private Disaster*                     
 [SheepKnuckle (UK)](http://sheepknuckle.tumblr.com) | *A Brave and Startling Truth*               
 [Walk of Shame (Norway)](http://www.flarefestival.com/project/i-saw-the-sign-ooo-is-enough-enough) | *I Saw the Sign (Oooo is enough enough)*                  
@@ -45,7 +45,4 @@ Accompanied by live music, workshops, discussions and a closing party, The Flare
 To get a feel for The Flare Weekender see 2012's [programme](/archive/2012-springsummer/flare).      
                            
 ####Credits         
-Presented by Flare with Word of Warning. Supported using public funding by the National Lottery through Arts Council England; supported by Manchester Metropolitan University + University of Salford.       
-              
-####Websites           
-[www.flarefestival.com](http://www.flarefestival.com/flare-weekender-2014) | [@flarefestival](http://twitter.com/flarefestival)
+Presented by Flare with Word of Warning. Supported using public funding by the National Lottery th
