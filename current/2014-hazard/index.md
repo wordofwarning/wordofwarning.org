@@ -11,7 +11,12 @@ show: "Micro-festival of intervention." # the name of the show
 ---
 *Presented by* Word of Warning        
         
-###Saturday 12 July 2014, daytime, free     
+###Saturday 12 July 2014, daytime. Free     
 Manchester's stripiest festival returns to unleash a fifth wave of bizarre behaviour on the city centre… random actions, strange antics, ludic activities + surprising sprees of eccentricity.    
-             
-To get a feel for Hazard see 2012's [programme](/archive/2012-hazard) + [image gallery](/galleries/2012-hazard).
+              
+To get a feel for Hazard see 2012's [programme](/archive/2012-hazard) + [image gallery](/galleries/2012-hazard).       
+         
+ARTISTS — proposals are now invited for Hazard 2014 (Deadline: Friday 16 May 2014, 6pm), see our [call-out](http://hazardmcr.posthaven.com/hazard-2014-the-hit-and-run-of-sited-festivals-call-for-proposals).           
+                                
+####Credits        
+Produced by hÅb + The Larks in collaboration with the participating artists, a greenroom legacy project.
