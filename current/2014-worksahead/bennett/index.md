@@ -30,8 +30,7 @@ Box Office Tel: 0161 274 0600
 *The same programme is presented each evening, there is no two night pass.*        
        
 ####Access Information      
-Part of a triple-bill of new performance, with each show taking place in a different space; this performance's duration is TBA; there is a limited capacity.     
-Age advisory: TBA
+Part of a triple-bill of new performance, the three shows take place in different auditoria within Contact; audience members will be guided from show to show. Show duration approx 30mins; triple-bill duration (including intervals) approx 2hrs. Age advisory: 14+             
         
 ####More       
 Addressing the theory regarding identity and validation, with an individual journey documenting the life of an actress as she looks for the real person she is supposed to be playing. Having established a theatrical entrance she knows the importance of the dramatic ending — everything in the middle is just a show.       
