@@ -14,10 +14,10 @@ show_size: 3
 *Part of* The Flare Weekender 2014, *presented by* Flare + Word of Warning       
      
 ####Venue + Booking Details, for The Flare Weekender        
-Dates: Friday 4 + Saturday 5 April 2014, 7.30pm    
-[Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
-[Tickets: £9/5 (two night pass £11/6)](https://contactmcr.com/whats-on/13070-turn-2014/booking/) | Special offer: buy ten tickets, get one free    
-Box Office Tel: 0161 274 0600    
+Day One: Friday 13 June 2014, 7pm       
+Day Two: Saturday 14 June 2014, 1pm + 7pm         
+[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA      
+Tickets on sale soon.        
         
 ####Order of Appearance (subject to change)      
 **Ashleigh Berry | The Space Between**          
