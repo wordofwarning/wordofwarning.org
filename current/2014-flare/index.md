@@ -31,12 +31,12 @@ Tickets on sale soon.
 ####More      
 Returning to Manchester's Z-arts, The Flare Weekender 2014 offers a glimpse of where the cutting edge of theatre might be heading in the future, with artists from Amsterdam, Barcelona, Bergen, Bristol, London, Manchester + Utrecht.        
           
-Accompanied by live music, workshops, discussions and a closing party, The Flare Weekender 2014 presents two evenings and an afternoon of performance.  Full programme details to come, but featured work to include:       
+Accompanied by live music, workshops, discussions and a closing party, The Flare Weekender 2014 presents two evenings and an afternoon of performance — full programme details to come, featured work includes:       
 [Almost Human (UK)](http://www.almost-human.org) | *A Grindhouse Dante*                         
 [Drunken Chorus (UK)](http://www.drunkenchorus.co.uk) | *Just Like Larry Walters*                    
 [El Conde De Torrefiel (Spain)](http://www.elcondedetorrefiel.com/guerrilla.html) | *Guerrilla*                 
 [Hannah Sullivan (UK)](http://www.hannahsullivan.co.uk/Echo-Beach) | *Echo Beach*               
-[Leentje Van de Cruys (Belgium/UK)](/archive/2013-domestic/vandecruys) | *Kitsch'n Sync* (guest; ltd capacity)                
+[Leentje Van de Cruys (Belgium/UK)](/archive/2013-domestic/vandecruys) | *Kitsch'n Sync* (guest; limited capacity)                
 [Moeremans&Sons (Netherlands)](www.moeremansandsons.com) | *My Own Private Disaster*                     
 [SheepKnuckle (UK)](http://sheepknuckle.tumblr.com) | *A Brave and Startling Truth*               
 [Walk of Shame (Norway)](http://www.flarefestival.com/project/i-saw-the-sign-ooo-is-enough-enough) | *I Saw the Sign (Oooo is enough enough)*                  
@@ -45,5 +45,7 @@ Accompanied by live music, workshops, discussions and a closing party, The Flare
 To get a feel for The Flare Weekender see 2012's [programme](/archive/2012-springsummer/flare).      
                            
 ####Credits         
-Produced by Flare with hÅb; supported using public funding by the National Lottery.    
-
+Produced by Flare with hÅb; supported using public funding by the National Lottery through Arts Council England, supported by Manchester Metropolitan University Cheshire + University of Salford.          
+        
+####Websites           
+[www.flarefestival.com/](http://www.flarefestival.com) | [@flarefestival](http://twitter.com/flarefestival)
