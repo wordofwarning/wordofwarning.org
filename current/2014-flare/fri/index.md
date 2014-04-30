@@ -10,9 +10,6 @@ show: "Friday 13 June, 7pm"
 artist_size: 2
 show_size: 3
 
-# ABOUT THE SHOW - LAYOUT
-header_image: "header_turn.jpg"
-
 ---
 *Part of* The Flare Weekender 2014, *presented by* Flare + Word of Warning       
      
@@ -34,13 +31,3 @@ A live sound installation performance, designed to unpick and understand the str
 Choreographer + performer: Christopher Owen | Text: Marcel Duchamp on the artist and spectator.       
          
 [Website](http://percussivecustomerprojectsblog.wordpress.com) | [Facebook Page](http://www.facebook.com/pages/Percussive-Customer-Projects/294267203937911)
-	      
-**Yi-Han Wu 吳逸涵 + Oscar South | Motion & Music**        
-A collaboration between Contemporary/Ballet Dancer Yi-Han Wu 吳逸涵 and musician Oscar South. The project makes use of cutting edge motion sensing technology in order to seamlessly fuse choreography, composition and improvisation whilst blurring the lines between dance and music.        
-          
-[Website](http://motionmusic.riseresolution.com) 
-        
-**Jenny Reeves + Annelies Van Hijfte | It's a song story**        
-Voice and movement combine to create this duet by Jenny Reeves + Annelies Van Hijfte, filled with narrative, play and expressive exploration.         
-          
-**
