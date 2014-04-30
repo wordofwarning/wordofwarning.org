@@ -1,21 +1,22 @@
 ---
 
 # CONFIGURATION
-layout: 2014-turn
+layout: 2014-flare
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Turn 2014"
-show: "First Night: Friday 4 April"
-show_size: 4
+artist: "The Flare Weekender 2014"
+show: "Friday 13 June, 7pm"
+artist_size: 2
+show_size: 3
 
 # ABOUT THE SHOW - LAYOUT
 header_image: "header_turn.jpg"
 
 ---
-*Part of* Turn 2014, *presented by* Word of Warning + Contact       
+*Part of* The Flare Weekender 2014, *presented by* Flare + Word of Warning       
      
-####Venue + Booking Details, for Turn        
+####Venue + Booking Details, for The Flare Weekender        
 Dates: Friday 4 + Saturday 5 April 2014, 7.30pm    
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
 [Tickets: £9/5 (two night pass £11/6)](https://contactmcr.com/whats-on/13070-turn-2014/booking/) | Special offer: buy ten tickets, get one free    
@@ -42,33 +43,4 @@ A collaboration between Contemporary/Ballet Dancer Yi-Han Wu 吳逸涵 and music
 **Jenny Reeves + Annelies Van Hijfte | It's a song story**        
 Voice and movement combine to create this duet by Jenny Reeves + Annelies Van Hijfte, filled with narrative, play and expressive exploration.         
           
-**Ellen Turner | Trudy**           
-*Once someone has gone, is that it? The end?*       
-         
-Involuntary autobiographical memory is a subcomponent of memory that occurs when cues are encountered in everyday life; these could be reflected in certain smells, words, colours or tastes. Award-winning choreographer Ellen Turner collaborates for the first time, with her sisters; reflecting memories of their Grandmother, and Alzheimer’s sufferer, *Trudy*.     
-        
-Choreographer: Ellen Turner | Dancers: Grace Turner, Lily Turner      
-Supported by Live at LICA      
-      
-[Website](http://ellenturner.webs.com) | [@EllenRTurner](http://twitter.com/EllenRTurner)     
-        
-**Fluxus Collective | Can we Play?**        
-Taking inspiration from the physicality and call-and-response elements of capoeira, *Can we Play?* sees four movement artists exploring the playful nature of these improvised forms.     
-          
-Performers: Ane Iselin Brogeland, Sarah Spies, Jane McLean        
-           
-[@RastrosnoAr](http://twitter.com/RastrosnoAr) | [Facebook Page](http://www.facebook.com/janemcleandanceartist)
-           
-**Jo Ashbridge | Going Places**      
-The mind wanders backwards and forwards in time — turning us into time travellers, dividing us into two, constantly searching for somewhere else to be; carving a surreal landscape, being everywhere but here.       
-          
-Choreographer + performer: Jo Ashbridge | Directorial assistance: Maria Malone | Video: Nikki Rose | Music: *Touched* by My Bloody Valentine, *Let’s Go Swimming* by Arthur Russell, *Last Target on the Last Day* by Melt Banana         
-          
-[Website](http://joashbridgedance.wordpress.com)       
-           
-**Levantes Dance Theatre | Quero Quero (work-in-progress)**        
-An enigmatic meeting of two strangers who are getting to know each other whilst dancing, playing and crying…      
-           
-Artistic Direction: Eleni Edipidi (LDT) | Performers: Eleni Edipidi, Andrew Graham | Thank you to: The Generating Company + Greenwich Dance        
-        
-[Website](http://www.levantesdancetheatre.org) | [@LevantesDance](http://twitter.com/LevantesDance)
+**
