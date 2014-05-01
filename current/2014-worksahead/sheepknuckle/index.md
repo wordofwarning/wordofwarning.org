@@ -20,7 +20,7 @@ header_image: "header_sheepknuckle.jpg"
 *Part of* Works Ahead 2014, *presented by* Word of Warning + Contact      
          
 ####In Brief                      
-SheepKnuckle are two young men going to extraordinary lengths to avoid being on a stage… so what exactly are they doing here?     
+SheepKnuckle are two young men going to extraordinary lengths to avoid being onstage… so what exactly are they doing here?     
      
 ####Venue + Booking Details, for Works Ahead
 Dates: Thursday 8 + Friday 9 May 2014, 7.30pm    
@@ -33,7 +33,7 @@ Box Office Tel: 0161 274 0600
 Part of a triple-bill of new performance, the three shows take place in different auditoria within Contact; audience members will be guided from show to show. Show duration approx 30mins; triple-bill duration (including intervals) approx 2hrs. Age advisory: 14+    
        
 ####More       
-SheepKnuckle are two young men going to extraordinary lengths to avoid being on a stage… so what exactly are they doing here?    
+SheepKnuckle are two young men going to extraordinary lengths to avoid being onstage… so what exactly are they doing here?    
 
 In this celebration of collective performance anxiety, they cede centre stage to an audience-turned-performer, to become remote whispering guides through an intimate conversation and a performance of the everyday.    
  
