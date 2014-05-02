@@ -33,9 +33,9 @@ Box Office Tel: 0161 274 0600
 Part of a triple-bill of new performance, the three shows take place in different auditoria within Contact; audience members will be guided from show to show. Show duration approx 30mins; triple-bill duration (including intervals) approx 2hrs. Age advisory: 14+           
      
 ####More
-Cataloguing a history of failures to impress - his mum, his dad, his teachers - Paul foresees that nothing will please you… He will dance, he will sing, he will clown, he will become an angelic chorus… all in an escalating attempt to please you, the audience.    
+Cataloguing a history of failures to impress — his mum, his dad, his teachers — Paul foresees that nothing will please you… He will dance, he will sing, he will clown, he will become an angelic chorus… all in an escalating attempt to please you, the audience.    
 
-A tragicomic exploration of the insecurity of the performer.    
+A tragi-comic exploration of the insecurity of the performer.    
 ![Nothing!](odonnell1.jpg)    
       
 ####Who is he?        
