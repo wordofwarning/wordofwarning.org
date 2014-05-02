@@ -33,8 +33,12 @@ Box Office Tel: 0161 274 0600
 Part of a triple-bill of new performance, the three shows take place in different auditoria within Contact; audience members will be guided from show to show. Show duration approx 30mins; triple-bill duration (including intervals) approx 2hrs. Age advisory: 14+             
         
 ####More       
-Addressing the theory regarding identity and validation, with an individual journey documenting the life of an actress as she looks for the real person she is supposed to be playing. Having established a theatrical entrance she knows the importance of the dramatic ending — everything in the middle is just a show.       
-      
+When they make the film of your life, who will you cast in the lead role? 
+Will you play yourself? What scenes will you discard?  Which version of yourself will you choose to portray?    
+
+*Exit Smiling* is an unfinished story, with an absentee protagonist, performed by a series of remarkably similar stand-ins… because being forgotten is so much worse than death, don’t you think?    
+![Exit Smiling](lindsay2.jpg)    
+     
 ####Who is she?    
 Lindsay is an actress and artist based in the north west, with a spectrum of performance diversity and history in Black Light Puppetry, Burlesque, theatre and screen acting. Her work is largely based on autobiographical experience and has been recognised in her approach to the cinematic and burlesquian aesthetic. *Exit Smiling* is her second solo show, having performed *6:41pm Mercury Complex* for [Emergency 2013](/archive/2013-emergency/z2).        
         
@@ -42,4 +46,6 @@ Lindsay is an actress and artist based in the north west, with a spectrum of per
 Commissioned by hÅb, co-produced by Contact, a greenroom legacy project.
 
 ####Website
-[@LinsyBennett](http://twitter.com/LinsyBennett)
+[@LinsyBennett](http://twitter.com/LinsyBennett)    
+
+![Exit Smiling](lindsay1.jpg)    

@@ -33,7 +33,10 @@ Box Office Tel: 0161 274 0600
 Part of a triple-bill of new performance, the three shows take place in different auditoria within Contact; audience members will be guided from show to show. Show duration approx 30mins; triple-bill duration (including intervals) approx 2hrs. Age advisory: 14+           
      
 ####More
-An exploration of an artist's search for approval, appreciation and most importantly, applause.      
+Cataloguing a history of failures to impress - his mum, his dad, his teachers - Paul foresees that nothing will please you… He will dance, he will sing, he will clown, he will become an angelic chorus… all in an escalating attempt to please you, the audience.    
+
+A tragicomic exploration of the insecurity of the performer.    
+![Nothing!](odonnell1.jpg)    
       
 ####Who is he?        
 Paul is a solo artist/deviser whose previous credits include solo performances *One Thing on His Mime*, performed as part of Drunken Nights II, and *So Far West* — performed at [Emergency 2013](/archive/2013-emergency/z1), Collaceo B Festival in Portugal, and Cheshire Rural Touring, double-billed with Sleepwalk Collective. His work aims to be contemporary in it's nature but also accessible, entertaining and engaging for all.       
@@ -42,4 +45,6 @@ Paul is a solo artist/deviser whose previous credits include solo performances *
 Commissioned by hÅb, co-produced by Contact, a greenroom legacy project.
        
 ####Websites
-<http://podonnell6.wordpress.com> | [@podonnell2](http://twitter.com/podonnell2)
+<http://podonnell6.wordpress.com> | [@podonnell2](http://twitter.com/podonnell2)    
+
+![Nothing!](odonnell2.jpg)    
