@@ -30,7 +30,7 @@ Box Office Tel: 0161 274 0600
 *The same programme is presented each evening, there is no two night pass.*        
        
 ####Access Information      
-Part of a triple-bill of new performance, the three shows take place in different auditoria within Contact; audience members will be guided from show to show. Show duration approx 30mins; triple-bill duration (including intervals) approx 2hrs. Age advisory: 14+             
+Part of a triple-bill of new performance, the three shows take place in different auditoria within Contact; audience members will be guided from show to show. Show duration 25mins; triple-bill duration (including intervals) approx 2hrs. Age advisory: 14+             
         
 ####More       
 When they make the film of your life, who will you cast in the lead role? Will you play yourself? What scenes will you discard? Which version of yourself will you choose to portray?    
