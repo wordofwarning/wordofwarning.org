@@ -26,7 +26,7 @@ A weekend of new performance by theatre-makers from Belgium, Norway, the Netherl
 Day One: Friday 13 June 2014, 7pm       
 Day Two: Saturday 14 June 2014, 1pm + 7pm         
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA      
-Tickets: £10/6 Friday or Saturday 7pm; £5/3 Saturday 1pm; £16/10 Weekender Pass     
+Tickets: [£10/6 Friday 7pm](http://www.z-arts.org/events/flare-2014-friday); [£5/3 Saturday 1pm](http://www.z-arts.org/events/flare-2014-sat-afternoon); [£10/6 Saturday 7pm](http://www.z-arts.org/events/flare-2014-sat-eve); [£16/10 Weekender Pass](http://www.z-arts.org/events/flare-2014-friday/)     
 Box Office Tel: 0161 232 6089    
               
 ####More      
