@@ -37,7 +37,7 @@ Accompanied by live music, workshops, discussions and a closing party, The Flare
 [Drunken Chorus (UK)](http://www.drunkenchorus.co.uk) | *Just Like Larry Walters*                    
 [El Conde De Torrefiel (Spain)](http://www.elcondedetorrefiel.com/guerrilla.html) | *Guerrilla*                 
 [Hannah Sullivan (UK)](http://www.hannahsullivan.co.uk/Echo-Beach) | *Echo Beach*               
-[Leentje Van de Cruys (Belgium/UK)](/archive/2013-domestic/vandecruys) | *Kitsch'n Sync* (guest; limited capacity)                
+[Leentje Van de Cruys (Belgium/UK)](/archive/2013-domestic/vandecruys) | *Kitsch'n Sync* (limited capacity)                
 [Marius Mensink (Netherlands)](http://www.flarefestival.com/project/mick-jagger-is-my-nightmare-marius-mensink) | *Mick Jagger is my Nightmare*       
 [Moeremans&Sons (Netherlands)](http://www.moeremansandsons.com) | *My Own Private Disaster*                     
 [SheepKnuckle (UK)](http://sheepknuckle.tumblr.com) | *A Brave and Startling Truth*               
