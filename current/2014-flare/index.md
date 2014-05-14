@@ -26,18 +26,20 @@ A weekend of new performance by theatre-makers from Belgium, Norway, the Netherl
 Day One: Friday 13 June 2014, 7pm       
 Day Two: Saturday 14 June 2014, 1pm + 7pm         
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA      
-Tickets on sale soon.      
-           
+Tickets: £10/6 Friday or Saturday 7pm; £5/3 Saturday 1pm; £16/10 Weekender Pass     
+Box Office Tel: 0161 232 6089    
+              
 ####More      
 Returning to Manchester's Z-arts, The Flare Weekender 2014 offers a glimpse of where the cutting edge of theatre might be heading in the future, with artists from Amsterdam, Barcelona, Bergen, Bristol, London, Manchester + Utrecht.        
           
 Accompanied by live music, workshops, discussions and a closing party, The Flare Weekender 2014 presents two evenings and an afternoon of performance — full programme details to come, featured work includes:       
-[Almost Human (UK)](http://www.almost-human.org) | *A Grindhouse Dante*                         
+[Almost Human (Netherlands/UK)](http://www.almost-human.org) | *A Grindhouse Dante*                         
 [Drunken Chorus (UK)](http://www.drunkenchorus.co.uk) | *Just Like Larry Walters*                    
 [El Conde De Torrefiel (Spain)](http://www.elcondedetorrefiel.com/guerrilla.html) | *Guerrilla*                 
 [Hannah Sullivan (UK)](http://www.hannahsullivan.co.uk/Echo-Beach) | *Echo Beach*               
 [Leentje Van de Cruys (Belgium/UK)](/archive/2013-domestic/vandecruys) | *Kitsch'n Sync* (guest; limited capacity)                
-[Moeremans&Sons (Netherlands)](www.moeremansandsons.com) | *My Own Private Disaster*                     
+[Marius Mensink (Netherlands)](http://www.flarefestival.com/project/mick-jagger-is-my-nightmare-marius-mensink) | *Mick Jagger is my Nightmare*       
+[Moeremans&Sons (Netherlands)](http://www.moeremansandsons.com) | *My Own Private Disaster*                     
 [SheepKnuckle (UK)](http://sheepknuckle.tumblr.com) | *A Brave and Startling Truth*               
 [Walk of Shame (Norway)](http://www.flarefestival.com/project/i-saw-the-sign-ooo-is-enough-enough) | *I Saw the Sign (Oooo is enough enough)*                  
 [Wies Fest (Netherlands)](http://www.flarefestival.com/project/a-whole-lot-of-nothing-wies-fest) | *A whole lot of nothing*                
