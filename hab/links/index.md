@@ -27,6 +27,7 @@ FOG — the Manchester Festival Organisers Group
 Taking Our Bearings North — an emerging Greater North Network led in partnership with [Compass Live Art](http://compassliveart.org.uk) + [Wunderbar](http://www.wunderbarfestival.co.uk)    
    
 We are pleased to count among our friends + regular partners:    
+[Albino Mosquito](http://www.albinomosquito.com)           
 [Arden School of Theatre (The Manchester College)](http://www.themanchestercollege.ac.uk/subject-area/arden)    
 [ASSEMBLE](http://assembletheatre.wordpress.com)       
 [Axis Arts Centre (MMU Cheshire)](http://www.axisartscentre.org.uk)    
@@ -36,7 +37,7 @@ We are pleased to count among our friends + regular partners:
 [Contemporary Practices, University of Salford](http://www.salford.ac.uk/courses/performance-contemporary-practices?mode=ov)    
 [Dance Manchester](http://www.dancemanchester.org)    
 [DERELICT](http://www.derelictlive.org)       
-[Flare Festival](http://www.flarefestival.com)    
+[Flare](http://www.flarefestival.com)    
 [hatch](http://www.hatchnottingham.org.uk)    
 [Hope Street](http://www.hope-street.org)          
 [In Between Time Productions](http://inbetweentime.co.uk)    
@@ -51,6 +52,7 @@ We are pleased to count among our friends + regular partners:
 [Reckless Sleepers](http://www.reckless-sleepers.co.uk)    
 [STUN (Sustained Theatre Up North)](http://stunlive.com)         
 [The1stFour](http://the1st4.blogspot.co.uk)       
+[The Basement/East by South East](http://www.thebasement.uk.com)            
 [the Bluecoat](http://www.thebluecoat.org.uk)       
 [The Future](http://www.the-future.co.uk)      
 [The Larks (formerly Larkin' About)](http://www.the-larks.com) — resident gamers.    
