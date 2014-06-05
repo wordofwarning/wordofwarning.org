@@ -33,7 +33,16 @@ Creative Consultant: Cathy Naden | Composer: John Avery | Choreography: Lydia Co
                         
 **Leentje Van de Cruys (Belgium/UK) | *Kitsch’n Sync* (limited capacity)**             
 
+The latest in a series of solo domestic performances created by Leentje Van de Cruys, Kitsch ’n Sync is a newly commissioned work taking place on a ¼ ton of potatoes in a dilapidated kitchen. It’s a heartfelt and funny exploration of the reality of being a housewife: killing time in a kitchen with only the latest domestic appliances for company. It’s about the glamour of wearing killer heels and yellow rubber gloves.
 
+Already a hit of the recent Domestic micro-festival, Kitsch ‘n Sync returns for three more performances to give more people a chance to witness this extra-ordinary piece.
+
+Belgian actress and theatre-maker Leentje Van de Cruys has been making quirky solo performances about domesticity and women’s identity for the last 10 years. Recent shows include Going to the Chapel, Feedback, HORSE, The Best Party Ever and Knitting to Worry About. She also performs and tours with contemporary theatre companies including Quarantine, Reckless Sleepers, Plane Performance and Proto-type Theater, and is the lead actress and vocalist in In May, a music theatre piece written by Frank Alva Buecheler and composed by Neil Hannon (Divine Comedy).
+
+Conceived + performed by Leentje Van de Cruys, based on a text by Esther Gerritsen | Sound sculpture: Paul J Rogers | Lighting design: Tamsin Drury | Directorial consultant: Peader Kirk | Dramaturg: Matt Fenton | Commissioned by hÅb for [Domestic](), and supported by The Future.
+
+[@Leentjevdc](http://twitter.com/Leentjevdc)           
+        
 **Anna Fenemore (UK) | *Biography, Autobiography and Lies* (workshop)**
 
-*The Artist's Forum**
+**The Artist's Forum**
