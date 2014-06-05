@@ -31,7 +31,7 @@ Creative Consultant: Cathy Naden | Composer: John Avery | Choreography: Lydia Co
 
 [www.drunkenchorus.co.uk](http://www.drunkenchorus.co.uk) | [@DrunkenChorus](http://twitter.com/DrunkenChorus)      
                         
-**Leentje Van de Cruys (Belgium/UK) | *Kitsch’n Sync* (limited capacity)**             
+**Leentje Van de Cruys (Belgium/UK) | *Kitsch’n Sync* (ltd capacity)**             
 
 The latest in a series of solo domestic performances created by Leentje Van de Cruys, *Kitsch ’n Sync* was commissioned by hÅb, for [Domestic](/archive/2013-domestic/vandecruys), and takes place on a ¼ ton of potatoes in a dilapidated kitchen. It’s a heartfelt and funny exploration of the reality of being a housewife: killing time in a kitchen with only the latest domestic appliances for company. It’s about the glamour of wearing killer heels and yellow rubber gloves.
                       
@@ -46,6 +46,6 @@ An interrogation of biography, autobiography, 'truth', 'authenticity', fictional
                 
 Dr Anna Fenemore is director of Pigeon Theatre, and a lecturer in Physical Performance at the University of Leeds.
 
-<http://pigeontheatre.wordpress.com> | [@PigeonTheatre](http://twitter.com/PigeonTheatre)           
+[pigeontheatre.com](http://pigeontheatre.wordpress.com/thecompany) | [@PigeonTheatre](http://twitter.com/PigeonTheatre)           
 
 **The Artist's Forum, led by Michael Pinchbeck.**
