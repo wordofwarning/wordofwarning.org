@@ -32,20 +32,19 @@ Creative Consultant: Cathy Naden | Composer: John Avery | Choreography: Lydia Co
 [www.drunkenchorus.co.uk](http://www.drunkenchorus.co.uk) | [@DrunkenChorus](http://twitter.com/DrunkenChorus)      
                         
 **Leentje Van de Cruys (Belgium/UK) | *Kitsch’n Sync* (ltd capacity)**             
-
 The latest in a series of solo domestic performances created by Leentje Van de Cruys, *Kitsch ’n Sync* was commissioned by hÅb for [Domestic](/archive/2013-domestic/vandecruys), and takes place on a ¼ ton of potatoes in a dilapidated kitchen. It’s a heartfelt and funny exploration of the reality of being a housewife: killing time in a kitchen with only the latest domestic appliances for company. It’s about the glamour of wearing killer heels and yellow rubber gloves.
                       
 Belgian actress and theatre-maker Leentje Van de Cruys has been making quirky solo performances about domesticity and women’s identity for the last 10 years, recent shows include *Going to the Chapel*, *Feedback*, *HORSE*, *The Best Party Ever* and *Knitting to Worry About*. She regulalry performs and tours with contemporary theatre companies including Quarantine, Reckless Sleepers, Plane Performance and Proto-type Theater, and is the lead actress/vocalist in *In May*, a music theatre piece written by Frank Alva Buecheler + composed by Neil Hannon (The Divine Comedy).
                    
-Conceived + performed by Leentje Van de Cruys, based on a text by Esther Gerritsen | Sound sculpture: Paul J Rogers | Lighting design: Tamsin Drury | Directorial consultant: Peader Kirk | Dramaturg: Matt Fenton | Commissioned by hÅb for Domestic, and supported by The Future
+Conceived + performed by Leentje Van de Cruys, based on a text by Esther Gerritsen | Sound sculpture: Paul J Rogers | Lighting design: Tamsin Drury | Directorial consultant: Peader Kirk | Dramaturg: Matt Fenton | Commissioned by hÅb | Supported by The Future
 
 [@Leentjevdc](http://twitter.com/Leentjevdc)           
         
 **Anna Fenemore (UK) | *Biography, Autobiography and Lies* (workshop)**                   
-An interrogation of biography, autobiography, 'truth', 'authenticity', fictionalisation and lying as solo performance-making strategies. Fenemore's workshop introduces making strategies that exploit the tendency for collaborative biographical and/or fictional performance material to be, more often than not, read as autobiographical 'truth' by audiences confronted with a solo performer.                  
+An interrogation of biography, autobiography, 'truth', 'authenticity', fictionalisation and lying as solo performance-making strategies; Fenemore's workshop introduces making strategies that exploit the tendency for collaborative biographical and/or fictional performance material to be (more often than not) read as autobiographical 'truth' by audiences confronted with a solo performer.                  
                 
 Dr Anna Fenemore is director of Pigeon Theatre, and a lecturer in Physical Performance at the University of Leeds.
 
 [pigeontheatre.com](http://pigeontheatre.wordpress.com/thecompany) | [@PigeonTheatre](http://twitter.com/PigeonTheatre)           
 
-**The Artist's Forum, led by Michael Pinchbeck.**
+**The Artist's Forum, chaired by Michael Pinchbeck (UK)**
