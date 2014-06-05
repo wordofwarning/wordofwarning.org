@@ -34,6 +34,7 @@ Returning to Manchester's Z-arts, The Flare Weekender 2014 offers a glimpse of w
           
 Accompanied by live music, workshops, discussions and a closing party, The Flare Weekender 2014 presents two evenings and an afternoon of performance — full programme details to come, featured work includes:       
 [Almost Human (Netherlands/UK)](http://www.almost-human.org) | *A Grindhouse Dante*                         
+[Anna Fenemore (UK)](http://www.flarefestival.com/project/making-a-performance-workshop-with-anna-fenemore) | *Biography, Autobiography and Lies – workshop*           
 [Drunken Chorus (UK)](http://www.drunkenchorus.co.uk) | *Just Like Larry Walters*                    
 [El Conde De Torrefiel (Spain)](http://www.elcondedetorrefiel.com/guerrilla.html) | *Guerrilla*                 
 [Hannah Sullivan (UK)](http://www.hannahsullivan.co.uk/Echo-Beach) | *Echo Beach*               
@@ -50,4 +51,4 @@ To get a feel for The Flare Weekender see 2012's [programme](/archive/2012-sprin
 Produced by Flare with hÅb; supported using public funding by the National Lottery through Arts Council England, supported by Manchester Metropolitan University Cheshire + University of Salford.          
         
 ####Websites           
-[www.flarefestival.com/](http://www.flarefestival.com) | [@flarefestival](http://twitter.com/flarefestival)
+[www.flarefestival.com](http://www.flarefestival.com) | [@flarefestival](http://twitter.com/flarefestival)
