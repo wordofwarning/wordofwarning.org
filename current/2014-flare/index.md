@@ -34,11 +34,11 @@ Returning to Manchester's Z-arts, The Flare Weekender 2014 offers a glimpse of w
           
 Accompanied by live music, workshops, discussions and a closing party, The Flare Weekender 2014 presents two evenings and an afternoon of performance — full programme details to come, featured work includes:       
 [Almost Human (Netherlands/UK)](http://www.almost-human.org) | *A Grindhouse Dante*                         
-[Anna Fenemore (UK)](http://www.flarefestival.com/project/making-a-performance-workshop-with-anna-fenemore) | *Biography, Autobiography and Lies – workshop*           
+[Anna Fenemore (UK)](http://www.flarefestival.com/project/making-a-performance-workshop-with-anna-fenemore) | *Biography, Autobiography and Lies (workshop)*           
 [Drunken Chorus (UK)](http://www.drunkenchorus.co.uk) | *Just Like Larry Walters*                    
 [El Conde De Torrefiel (Spain)](http://www.elcondedetorrefiel.com/guerrilla.html) | *Guerrilla*                 
 [Hannah Sullivan (UK)](http://www.hannahsullivan.co.uk/Echo-Beach) | *Echo Beach*               
-[Leentje Van de Cruys (Belgium/UK)](/archive/2013-domestic/vandecruys) | *Kitsch'n Sync* (limited capacity)                
+[Leentje Van de Cruys (Belgium/UK)](/archive/2013-domestic/vandecruys) | *Kitsch'n Sync (limited capacity)*                
 [Marius Mensink (Netherlands)](http://www.flarefestival.com/project/mick-jagger-is-my-nightmare-marius-mensink) | *Mick Jagger is my Nightmare*       
 [Moeremans&Sons (Netherlands)](http://www.moeremansandsons.com) | *My Own Private Disaster*                     
 [SheepKnuckle (UK)](http://sheepknuckle.tumblr.com) | *A Brave and Startling Truth*               
