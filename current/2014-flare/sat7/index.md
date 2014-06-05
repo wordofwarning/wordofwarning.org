@@ -6,7 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "The Flare Weekender 2014"
-show: "Saturday 14 June 2014, 7pm"
+show: "Saturday 14 June, 7pm"
 artist_size: 2
 show_size: 3
 
@@ -27,7 +27,7 @@ Hannah has a dance collection, it is a collection she has been gathering for a w
                      
 Hannah makes playful and emotive solo work for studio and site. A BA graduate of Dartington College of Arts in Theatre and a MA graduate of the University of Bristol in Performance Research, Hannah has been based in Bristol making and producing theatre in many forms since 2009, and is supported by artist-led support network, Interval.                 
               
-Written + performed by Hannah Sullivan | Dramaturgy: Alice Tatton-Brown | Sound design: Yas Clarke | Design: Annelies Henny | Movement advice: Dan Canham | Supported using public funding by the National Lottery through Arts Council England, and by IdeasTap + Bristol Ferment | Developed at Battersea Arts Centre
+Writer + performer: Hannah Sullivan | Dramaturgy: Alice Tatton-Brown | Sound design: Yas Clarke | Design: Annelies Henny | Movement advice: Dan Canham | Supported using public funding by the National Lottery through Arts Council England, and by IdeasTap + Bristol Ferment | Developed at Battersea Arts Centre
                
 [www.hannahsullivan.co.uk](http://www.hannahsullivan.co.uk) | [@hannahsullivan8](http://twitter.com/hannahsullivan8)             
                                             
@@ -49,4 +49,12 @@ Almost Human is an international performance/experimental theatre group whose me
 [www.almost-human.org](http://www.almost-human.org)                
 
 **Moeremans&Sons (The Netherlands) | *My Own Private Disaster***              
-[@m_and_sons](http://twitter.com/m_and_sons)
+Whoever witnesses a disastrous event and is able to survive, will find themselves as the centre of every party. In a world obsessed by fortune, in which we keep getting better at protecting ourselves against various discomforts, there is *My Own Private Disaster*. You will be the proud owner of a sensational story, witness of a catastrophic happening, without a grain of pain, but guaranteed success among your friends. Put your thirst for sensation aside and enjoy misfortune for once. After all, misfortune is part of the game…            
+                     
+A 20 minute performance based on Orson Wells's radio play *War Of The Worlds* (1938); in 20 minutes, Moeremans&Sons build a catastrophic disaster — complete with victims, heroic firefighters, a sensationalist-reporter to guide the witnessing audience through the chaos, and the narrow escape of fatal consequences at the end.        
+                   
+*Admit it, if you had the chance to face Death with the certainty not to be forced to shake his hand, wouldn’t you take it?*
+                             
+[www.moeremansandsons.com](http://www.moeremansandsons.com) | [@m_and_sons](http://twitter.com/m_and_sons)              
+                    
+**Closing party**                    
