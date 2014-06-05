@@ -41,4 +41,4 @@ El Conde de Torrefiel is based in Barcelona and led by Pablo Gisbert + Tanya Bey
                    
 [www.elcondedetorrefiel.com](http://www.elcondedetorrefiel.com) | [@CondeTorrefiel](http://twitter.com/CondeTorrefiel)             
                  
-**Gideon Conn (UK) | live music**
+**Live music by Gideon Conn (UK)**
