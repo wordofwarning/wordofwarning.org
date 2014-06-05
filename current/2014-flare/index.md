@@ -33,17 +33,17 @@ Box Office Tel: 0161 232 6089
 Returning to Manchester's Z-arts, The Flare Weekender 2014 offers a glimpse of where the cutting edge of theatre might be heading in the future, with artists from Amsterdam, Barcelona, Bergen, Bristol, London, Manchester + Utrecht.        
           
 Accompanied by live music, performance workshop, artist's forum and closing party, The Flare Weekender 2014 presents two evenings and an afternoon of performance — full programme details to come, featured work includes:       
-[Almost Human (Netherlands/UK)](http://www.almost-human.org) | *A Grindhouse Dante*                         
-[Anna Fenemore (UK)](http://www.flarefestival.com/project/making-a-performance-workshop-with-anna-fenemore) | *Biography, Autobiography and Lies* (workshop)           
-[Drunken Chorus (UK)](http://www.drunkenchorus.co.uk) | *Just Like Larry Walters*                    
-[El Conde De Torrefiel (Spain)](http://www.elcondedetorrefiel.com/guerrilla.html) | *Guerrilla*                 
-[Hannah Sullivan (UK)](http://www.hannahsullivan.co.uk/Echo-Beach) | *Echo Beach*               
-[Leentje Van de Cruys (Belgium/UK)](/archive/2013-domestic/vandecruys) | *Kitsch'n Sync* (limited capacity)                
-[Marius Mensink (Netherlands)](http://www.flarefestival.com/project/mick-jagger-is-my-nightmare-marius-mensink) | *Mick Jagger is my Nightmare*       
-[Moeremans&Sons (Netherlands)](http://www.moeremansandsons.com) | *My Own Private Disaster*                     
-[SheepKnuckle (UK)](http://sheepknuckle.tumblr.com) | *A Brave and Startling Truth*               
-[Walk of Shame (Norway)](http://www.flarefestival.com/project/i-saw-the-sign-ooo-is-enough-enough) | *I Saw the Sign (Oooo is enough enough)*                  
-[Wies Fest (Netherlands)](http://www.flarefestival.com/project/a-whole-lot-of-nothing-wies-fest) | *A whole lot of nothing*                
+[Almost Human (Netherlands/UK)](/current/2014-flare/sat7) | *A Grindhouse Dante*                         
+[Anna Fenemore (UK)](/current/2014-flare/sat1) | *Biography, Autobiography and Lies* (workshop)           
+[Drunken Chorus (UK)](/current/2014-flare/sat1) | *Just Like Larry Walters*                    
+[El Conde De Torrefiel (Spain)](/current/2014-flare/fri) | *Guerrilla*                 
+[Hannah Sullivan (UK)](/current/2014-flare/sat7) | *Echo Beach*               
+[Leentje Van de Cruys (Belgium/UK)](/current/2014-flare/sat1) | *Kitsch'n Sync* (limited capacity)                
+[Marius Mensink (Netherlands)](/current/2014-flare/sat7) | *Mick Jagger is my nightmare*       
+[Moeremans&Sons (Netherlands)](/current/2014-flare/sat7) | *My Own Private Disaster*                     
+[SheepKnuckle (UK)](/current/2014-flare/fri) | *A Brave and Startling Truth*               
+[Walk of Shame (Norway)](/current/2014-flare/sat7) | *I Saw the Sign (Oooo is enough enough)*                  
+[Wies Fest (Netherlands)](/current/2014-flare/fri) | *A whole lot of nothing*                
          
 To get a feel for The Flare Weekender see 2012's [programme](/archive/2012-springsummer/flare).      
                            
