@@ -6,7 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "The Flare Weekender 2014"
-show: "Saturday 14 June 2014, 1pm"
+show: "Saturday 14 June, 1pm"
 artist_size: 2
 show_size: 3
 
