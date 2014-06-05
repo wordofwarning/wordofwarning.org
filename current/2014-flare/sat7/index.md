@@ -51,7 +51,7 @@ Almost Human is an international performance/experimental theatre group whose me
 **Moeremans&Sons (The Netherlands) | *My Own Private Disaster***              
 Whoever witnesses a disastrous event and is able to survive, will find themselves as the centre of every party. In a world obsessed by fortune, in which we keep getting better at protecting ourselves against various discomforts, there is *My Own Private Disaster*. You will be the proud owner of a sensational story, witness of a catastrophic happening, without a grain of pain, but guaranteed success among your friends. Put your thirst for sensation aside and enjoy misfortune for once. After all, misfortune is part of the game…            
                      
-A short performance based on Orson Wells's radio play *War Of The Worlds* (1938); in 20 minutes, Moeremans&Sons build a catastrophic disaster — complete with victims, heroic firefighters, a sensationalist-reporter to guide the witnessing audience through the chaos, and the narrow escape of fatal consequences at the end.        
+A short performance based on Orson Wells's 1938 radio play *War Of The Worlds*; in 20 minutes, Moeremans&Sons build a catastrophic disaster — complete with victims, heroic firefighters, a sensationalist-reporter to guide the witnessing audience through the chaos, and the narrow escape of fatal consequences at the end.        
                    
 *Admit it, if you had the chance to face Death with the certainty not to be forced to shake his hand, wouldn’t you take it?*
                              
