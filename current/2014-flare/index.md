@@ -32,7 +32,7 @@ Box Office Tel: 0161 232 6089
 ####More      
 Returning to Manchester's Z-arts, The Flare Weekender 2014 offers a glimpse of where the cutting edge of theatre might be heading in the future, with artists from Amsterdam, Barcelona, Bergen, Bristol, London, Manchester + Utrecht.        
           
-Accompanied by live music, performance workshop, artist's forum and closing party, the 2014 Weekender presents two evenings and an afternoon of performance…       
+Accompanied by live music, artist's forum, workshop and closing party, the 2014 Weekender presents two evenings and an afternoon of performance…       
 [Almost Human (Netherlands/UK)](/current/2014-flare/sat7) | *A Grindhouse Dante*                         
 [Anna Fenemore (UK)](/current/2014-flare/sat1) | *Biography, Autobiography and Lies* (workshop)           
 [Drunken Chorus (UK)](/current/2014-flare/sat1) | *Just Like Larry Walters*                    
