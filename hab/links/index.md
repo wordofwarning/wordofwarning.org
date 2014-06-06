@@ -17,18 +17,19 @@ header_image: "header_emergencynw.jpg"
 ---
 hÅb can only function in partnership with a host of other organisations + networks, some of which are linked to below.    
 
-In 2012 we were pleased to partner with Live at LICA in producing the [*Getting It Out There*](http://www.liveatlica.org/whats-on/symposium-getting-it-out-there) symposium on touring; a **free** publication produced with the [Live Art Development Agency](http://www.thisisliveart.co.uk) following the event can be downloaded [here](http://habmcr.posthaven.com/getting-it-out-there-publication-free-to-down).    
+In 2012 we were pleased to partner with Live at LICA to produce the [*Getting It Out There*](http://www.liveatlica.org/whats-on/symposium-getting-it-out-there) symposium on touring; a **free** publication produced with the Live Art Development Agency following the event can be downloaded [here](http://habmcr.posthaven.com/getting-it-out-there-publication-free-to-down).    
         
 hÅb is a member of:    
 [IETM](http://ietm.org)  
-[Live Art UK](http://www.liveartuk.org/index.htm)    
+[Live Art UK](http://www.liveartuk.org)    
 [LANWest](http://www.lanwest.org)   
-FOG — the Manchester Festival Organisers Group   
-Taking Our Bearings North — an emerging Greater North Network led in partnership with [Compass Live Art](http://compassliveart.org.uk) + [Wunderbar](http://www.wunderbarfestival.co.uk)    
-   
-We are pleased to count among our friends + regular partners:    
+FOG — the Manchester Festival Organisers Group.   
+Taking Our Bearings North — an emerging Greater North Network, led in partnership with [Compass Live Art](http://compassliveart.org.uk) + [Wunderbar](http://www.wunderbarfestival.co.uk).    
+         
+We are pleased to count among our other friends + regular partners:    
 [Albino Mosquito](http://www.albinomosquito.com)           
 [Arden School of Theatre (The Manchester College)](http://www.themanchestercollege.ac.uk/subject-area/arden)    
+[Artsadmin](http://www.artsadmin.co.uk)
 [ASSEMBLE](http://assembletheatre.wordpress.com)       
 [Axis Arts Centre (MMU Cheshire)](http://www.axisartscentre.org.uk)    
 [Blank Media Collective](http://blankmediacollective.org)    
@@ -42,6 +43,7 @@ We are pleased to count among our friends + regular partners:
 [Hope Street](http://www.hope-street.org)          
 [In Between Time Productions](http://inbetweentime.co.uk)    
 [Lancaster Emerging Arts Platform (LEAP)](http://www.talkwithleap.com)      
+[Live Art Development Agency](http://www.thisisliveart.co.uk)          
 [Live at LICA](http://www.liveatlica.org/home)       
 [Michael Pinchbeck](http://michaelpinchbeck.co.uk)         
 [MKULTRA](http://www.mkultra.org.uk)    
