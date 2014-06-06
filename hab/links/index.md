@@ -29,7 +29,7 @@ Taking Our Bearings North — an emerging Greater North Network, led in partners
 We are pleased to count among our other friends + regular partners:    
 [Albino Mosquito](http://www.albinomosquito.com)           
 [Arden School of Theatre (The Manchester College)](http://www.themanchestercollege.ac.uk/subject-area/arden)    
-[Artsadmin](http://www.artsadmin.co.uk)
+[Artsadmin](http://www.artsadmin.co.uk)                
 [ASSEMBLE](http://assembletheatre.wordpress.com)       
 [Axis Arts Centre (MMU Cheshire)](http://www.axisartscentre.org.uk)    
 [Blank Media Collective](http://blankmediacollective.org)    
@@ -40,7 +40,7 @@ We are pleased to count among our other friends + regular partners:
 [DERELICT](http://www.derelictlive.org)       
 [Flare](http://www.flarefestival.com)    
 [hatch](http://www.hatchnottingham.org.uk)    
-[Hope Street](http://www.hope-street.org)          
+[Hope Street Ltd](http://www.hope-street.org)          
 [In Between Time Productions](http://inbetweentime.co.uk)    
 [Lancaster Emerging Arts Platform (LEAP)](http://www.talkwithleap.com)      
 [Live Art Development Agency](http://www.thisisliveart.co.uk)          
