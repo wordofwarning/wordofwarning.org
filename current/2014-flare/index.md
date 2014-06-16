@@ -38,6 +38,7 @@ Accompanied by live music, artist's forum, workshop and closing party, the 2014 
 [Drunken Chorus (UK)](/current/2014-flare/sat1) | *Just Like Larry Walters*                    
 [El Conde De Torrefiel (Spain)](/current/2014-flare/fri) | *Guerrilla*                 
 [Hannah Sullivan (UK)](/current/2014-flare/sat7) | *Echo Beach*               
+[Hester Chillingworth + Tim Etchells (UK)](/current/2014-flare/sat7) | *Borrowed Time* (guest video piece)       
 [Leentje Van de Cruys (Belgium/UK)](/current/2014-flare/sat1) | *Kitsch'n Sync* (limited capacity)                
 [Marius Mensink (Netherlands)](/current/2014-flare/sat7) | *Mick Jagger is my nightmare*       
 [Moeremans&Sons (Netherlands)](/current/2014-flare/sat7) | *My Own Private Disaster*                     
