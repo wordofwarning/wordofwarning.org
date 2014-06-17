@@ -23,4 +23,4 @@ So far we’ve wrapped Cathedral Gardens in fluttering hazard tape, pitted toget
                  
 Enquiries: <mailto:hazard@habarts.org>       
           
-Hazard 2014 is produced by hÅb + The Larks in collaboration with the participating artists + a greenroom legacy project. [hazardmcr.org](http://hazardmcr.org) | #HazardMcr | [@HazardMcr](https://twitter.com/HazardMcr)
+Hazard 2014 is produced by hÅb + The Larks in collaboration with the participating artists, supported by Royal Exchange Theatre + a greenroom legacy project. [hazardmcr.org](http://hazardmcr.org) | #HazardMcr | [@HazardMcr](https://twitter.com/HazardMcr)
