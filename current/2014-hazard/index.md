@@ -25,7 +25,7 @@ Manchester's stripiest festival returns to unleash a fifth wave of bizarre behav
 To get a feel for Hazard see 2012's [programme](/archive/2012-hazard) + [image gallery](/galleries/2012-hazard).       
          
 ####Credits        
-Produced by hÅb + The Larks in collaboration with the participating artists, a greenroom legacy project.               
+Produced by hÅb + The Larks in collaboration with the participating artists; supported by Royal Exchange Theatre; a greenroom legacy project.               
            
 ####Websites           
 [hazardmcr.org](http://hazardmcr.org) | #HazardMcr | [@HazardMcr](http://twitter.com/HazardMcr)
