@@ -15,7 +15,7 @@ show_size: 3
      
 ####Venue + Booking Details        
 Date: Saturday 12 July, 12noon-1pm       
-[Venue: St Ann's Square](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA      
+[Venue: St Ann's Square](http://www), Manchester, M2 7LF      
 Tickets: FREE    
                 
 ####Appearing (subject to change)      
