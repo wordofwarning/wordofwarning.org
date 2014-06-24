@@ -6,7 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Hazard 2014"
-show: "12noon-1pm"
+show: "1-2pm"
 artist_size: 1
 show_size: 2
 
@@ -14,11 +14,11 @@ show_size: 2
 *Part of* Hazard 2014, *presented by* Word of Warning       
      
 ####Venue + Booking Details        
-Date: Saturday 12 July, 12noon-1pm       
-[Venue: St Ann's Square](http://www), Manchester, M2 7LF      
+Date: Saturday 12 July, 1-2pm       
+[Venue: St Ann's Square](http://bit.ly/1wrGmvW), Manchester, M2 7LF      
 Tickets: FREE    
                 
-####Appearing (subject to change)      
+####Happening from 12noon to 1pm      
 **ARTIST | *TITLE***     
 COPY COPY COPY            
 COPY COPY COPY             
