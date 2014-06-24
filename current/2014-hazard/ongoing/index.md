@@ -8,7 +8,7 @@ rootpath: "../../../"
 artist: "Hazard 2014"
 show: "Ongoing activity"
 artist_size: 1
-show_size: 3
+show_size: 2
 
 ---
 *Part of* Hazard 2014, *presented by* Word of Warning       
