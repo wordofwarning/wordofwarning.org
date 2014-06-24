@@ -6,7 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Hazard 2014"
-show: "Happening all afternoon (12noon-5pm)"
+show: "Ongoing activity"
 artist_size: 1
 show_size: 3
 
@@ -18,7 +18,7 @@ Date: Saturday 12 July, 12noon-5pm
 [Venue: St Ann's Square](http://www), Manchester, M2 7LF      
 Tickets: FREE    
                 
-####Appearing (subject to change)      
+####Happening all afternoon (12noon-5pm)      
 **ARTIST | *TITLE***     
 COPY COPY COPY            
 COPY COPY COPY             
@@ -39,5 +39,4 @@ COPY COPY COPY
 COPY COPY COPY            
 COPY COPY COPY             
                      
-[www.WEBSITE.com](http://www.WEBSITE.com) | [@twitter](http://twitter.com/)            
-             
+[www.WEBSITE.com](http://www.WEBSITE.com) | [@twitter](http://twitter.com/)
