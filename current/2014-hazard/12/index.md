@@ -18,7 +18,7 @@ Date: Saturday 12 July, 12noon-1pm
 [Venue: St Ann's Square](http://bit.ly/1wrGmvW), Manchester, M2 7LF      
 Tickets: FREE    
                 
-####Happening from 12noon-1pm      
+####Happening from 12noon to 1pm      
 **ARTIST | *TITLE***     
 COPY COPY COPY            
 COPY COPY COPY             
