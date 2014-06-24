@@ -15,7 +15,7 @@ show_size: 2
      
 ####Venue + Booking Details        
 Date: Saturday 12 July, 2-3pm       
-[Venue: St Ann's Square](http://www), Manchester, M2 7LF      
+[Venue: St Ann's Square](http://bit.ly/1wrGmvW), Manchester, M2 7LF      
 Tickets: FREE    
                 
 ####Happening from 2-3pm      
