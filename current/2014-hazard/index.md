@@ -19,7 +19,7 @@ show_size: 3
 ---
 *Presented by* Word of Warning        
         
-###Saturday 12 July 2014, daytime. Free     
+###Saturday 12 July 2014, 12noon-5pm. Free     
 Manchester's stripiest festival returns to unleash a fifth wave of bizarre behaviour on the city centre… random actions, strange antics, ludic activities + surprising sprees of eccentricity.    
               
 To get a feel for Hazard see 2012's [programme](/archive/2012-hazard) + [image gallery](/galleries/2012-hazard).       
