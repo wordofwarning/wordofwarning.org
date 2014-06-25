@@ -33,7 +33,9 @@ Hazard 2014 is our fifth biennial micro-festival of incidental intervention and 
 TO BE CONFIRMED                   
                   
 To get a feel for Hazard see 2012's [programme](/archive/2012-hazard) + [image gallery](/galleries/2012-hazard).       
-         
+              
+**[Interactions](http://www.interactionsperformance.wordpress.com)** will be in the city centre getting a feel for how people react when they happen upon the work, and writing about it on their blog in the following days; follow them [@UKinteractions](http://twitter.com/UKinteractions)                
+                       
 ####Credits        
 Produced by hÅb + The Larks in collaboration with the participating artists; supported by Royal Exchange Theatre; a greenroom legacy project.               
            
