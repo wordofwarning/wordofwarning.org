@@ -24,7 +24,7 @@ Manchester's stripiest festival returns to unleash a fifth wave of bizarre behav
               
 ####Venue + Booking Details        
 Date: Saturday 12 July, 12noon-5pm                
-Venue: [St Ann's Square](http://bit.ly/1wrGmvW) and surronding streets (Manchester, M2 7LF)      
+Venue: within [St Ann's Square](http://bit.ly/1wrGmvW) (Manchester, M2 7LF) and surrounding streets       
 Tickets: free/unticketed            
                 
 ####More         
