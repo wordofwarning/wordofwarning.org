@@ -23,13 +23,15 @@ show_size: 3
 Manchester's stripiest festival returns to unleash a fifth wave of bizarre behaviour on the city centre… random actions, strange antics, ludic activities + surprising sprees of eccentricity.    
               
 ####Venue + Booking Details        
-Date: Saturday 12 July, 12noon-5pm
-FREE: unticketed event taking place within St Ann's Square + surrounding streets.
-[Information point: St Ann's Square](http://bit.ly/1wrGmvW), Manchester, M2 7LF      
-             
+Date: Saturday 12 July, 12noon-5pm                
+Venue: there will be an information point in [St Ann's Square](http://bit.ly/1wrGmvW), Manchester, M2 7LF      
+Tickets: free/unticketed            
+                
 ####More         
-Hazard 2014 is our fifth biennial micro-festival of incidental intervention and sited performance, blurring the boundaries between art and activism, featuring twenty new works (participating artists subject to change): 
-
+Hazard 2014 is our fifth biennial micro-festival of incidental intervention and sited performance, blurring the boundaries between art and activism, featuring twenty new works (participating artists subject to change):      
+               
+TO BE CONFIRMED                   
+                  
 To get a feel for Hazard see 2012's [programme](/archive/2012-hazard) + [image gallery](/galleries/2012-hazard).       
          
 ####Credits        
