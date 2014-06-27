@@ -28,7 +28,7 @@ Venue: within [St Ann's Square](http://bit.ly/1wrGmvW) (Manchester, M2 7LF) and 
 Tickets: free/unticketed            
                 
 ####More         
-Hazard 2014 is our fifth biennial micro-festival of incidental intervention and sited performance, blurring the boundaries between art and activism, featuring twenty new works from (participating artists subject to change):      
+Hazard 2014 is our fifth biennial micro-festival of incidental intervention and sited performance, blurring the boundaries between art and activism, featuring twenty free works from (*participating artists subject to change*):      
                
 Antje Hildebrandt | Disco Jazz + Bingo Meg | Eric MacLennan | Hanna Rohn + Signhild Wærsted | Harald Smykla | Hidden Track Theatre | ICD | Jamil Keating | Kris Canavan | Leo Burtin | Martin Hamblen | Natasha Vicars | Nicola Canavan | No more Page 3 Manchester | Oliver Palmer | Rachel Ramchurn | Stephen Donnelly | Stephen Sheehan | The Association Of Low Visibility Workers | Top Joe                  
                   
