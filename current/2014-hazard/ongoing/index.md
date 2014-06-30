@@ -9,6 +9,7 @@ artist: "Hazard 2014"
 show: "Ongoing activity"
 artist_size: 1
 show_size: 2
+header_image: "header_boat.jpg"
 
 ---
 *Part of* Hazard 2014, *presented by* Word of Warning       

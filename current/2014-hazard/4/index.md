@@ -9,7 +9,7 @@ artist: "Hazard 2014"
 show: "4-5pm"
 artist_size: 1
 show_size: 2
-
+header_image: "header_kris.jpg"
 ---
 *Part of* Hazard 2014, *presented by* Word of Warning       
      

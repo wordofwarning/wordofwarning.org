@@ -9,6 +9,7 @@ artist: "Hazard 2014"
 show: "1-2pm"
 artist_size: 1
 show_size: 2
+header_image: "header_antje.jpg"
 
 ---
 *Part of* Hazard 2014, *presented by* Word of Warning       
