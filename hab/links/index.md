@@ -24,7 +24,7 @@ hÅb is a member of:
 [Live Art UK](http://www.liveartuk.org)    
 [LANWest](http://www.lanwest.org)   
 FOG — the Manchester Festival Organisers Group.   
-Taking Our Bearings North — an emerging Greater North Network, led in partnership with [Compass Live Art](http://compassliveart.org.uk) + [Wunderbar](http://www.wunderbarfestival.co.uk).    
+Taking Our Bearings North — an emerging Greater North Network, led in partnership with [Compass Live Art](http://compassliveart.org.uk) + [Wunderbar](http://www.wunderbar.org.uk).    
          
 We are pleased to count among our other friends + regular partners:    
 [Albino Mosquito](http://www.albinomosquito.com)           
