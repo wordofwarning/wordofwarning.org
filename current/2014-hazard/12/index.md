@@ -36,4 +36,4 @@ Antje Hildebrandt is a London-based choreographer and performer who creates site
 <http://antjehildebrandt.blogspot.co.uk> | [@AntjeHi](http://twitter.com/AntjeHi)        
         
 ####Ongoing activity        
-The following pieces happening all afternoon: Hanna Rohn + Signhild Wærsted | Harald Smykla | Hidden Track Theatre | ICD | Leo Burtin | Martin Hamblen | Natasha Vicars | No more Page 3 | Oliver Palmer | Rachel Ramchurn | Top Joe | Tracy Lumpkin
+The following pieces happen all afternoon (12noon-5pm): Hanna Rohn + Signhild Wærsted | Harald Smykla | Hidden Track Theatre | ICD | Leo Burtin | Martin Hamblen | Natasha Vicars | No more Page 3 | Oliver Palmer | Rachel Ramchurn | Top Joe | Tracy Lumpkin
