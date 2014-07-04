@@ -29,14 +29,16 @@ Megan Clark-Bagnall + Jasmine Loveys are Bristol-based independent artists, esta
          
 ####2-3pm            
 **Nicola Canavan | *MILK***            
+A durational piece of work exploring the role of Mother, Canavan invites you to engage in an act of tenderness with an underlying inquiry. She is offering you milk, like never before.
+
              
               
             
 ####2-3.30pm               
 **The Association Of Low Visibility Workers | *By Association***             
-             
+A discreet game to be played between you and the Association, via your smart phone. Take care that only your most trusted friends know that you are playing. You'll need a charged smart phone with credit/facility to send a number of text messages. Everything else will reveal itself to you.                  
+[www.lowvisibilityworkers.org.uk](http://www.lowvisibilityworkers.org.uk) | [@LowVisWorkers](http://twitter.com/LowVisWorkers)         
               
-             
 ####2.30-2.50pm        
 **Antje Hildebrandt | *You Make Me Want To Lose You***        
 An experimental investigation into the human relationship between body and its surroundings. The performance plays in the here and now, with moments of stillness and movement, intimacy and publicity. The dancers cannot see but must negotiate themselves together and alone in a strange environment. In this playful and risky act of exploration the performers subtly interact with their surroundings — evoking moments of surprise, empathy and wonder.        
