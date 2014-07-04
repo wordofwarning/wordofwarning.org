@@ -6,7 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Hazard 2014"
-show: "2-3pm"
+show: "Happening 2-3pm"
 artist_size: 1
 show_size: 2
 header_image: "header_beans.jpg"
@@ -19,7 +19,7 @@ Date: Saturday 12 July, 2-3pm
 [Venue: St Ann's Square](http://bit.ly/1wrGmvW), Manchester, M2 7LF      
 Tickets: FREE    
                 
-####12noon-12.10pm (starts 11.45am)        
+####2-2.25pm        
 **Bingo Meg + Disco Jazz | *Carboot Disco Bingo***        
 An interactive experience — part dance-lesson, part party, part performance, part bingo. Essentially it's an elaborate game of bingo combined with the magic of disco, think Henry Ford meets Donna Summer down the gala! C'mon disco dogs, get your groove on!        
         
@@ -27,7 +27,7 @@ Megan Clark-Bagnall + Jasmine Loveys are Bristol-based independent artists, esta
         
 [Carboot Disco Bingo facebook](http://www.facebook.com/CarbootDiscoBingoFanClub) | [@ClarkBagnall](http://twitter.com/ClarkBagnall) + [@JasmineLoveys](http://twitter.com/JasmineLoveys)        
          
-####12.30-12.50pm        
+####2.30-2.50pm        
 **Antje Hildebrandt | *You Make Me Want To Lose You***        
 An experimental investigation into the human relationship between body and its surroundings. The performance plays in the here and now, with moments of stillness and movement, intimacy and publicity. The dancers cannot see but must negotiate themselves together and alone in a strange environment. In this playful and risky act of exploration the performers subtly interact with their surroundings — evoking moments of surprise, empathy and wonder.        
         
