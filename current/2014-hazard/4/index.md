@@ -20,9 +20,12 @@ Tickets: FREE
                 
 ####3.30-4.15pm          
 **Kris Canavan | *The Leveller***          
-
-
-                            
+As a political movement, the term "Leveller" first referred to a faction of New Model Army Agitators and their London supporters in 1649 who were allegedly plotting to assassinate the king; it had been used in 17th-century England as a term of abuse for rural rebels and in the Midland Revolt of 1607 to refer to those who "levelled" hedges in enclosure riots. Organised at a national level, with offices in a number of London inns and taverns such as The Rosemary Branch in Islington, *Levellers* would identify one another by sprigs of rosemary that they would wear in their hats…                
+                
+>*Using his body as a framework for iconoclasm and getting under his own skin, Kris Canavan makes the symbologies of fractured society a deeply personal affair.*<br>amino, 2014               
+              
+Since graduating in 2004, Kris Canavan has been developing works on his own and in collaboration with others including Manuel Vason, Nicola Canavan, Nick Kilby, Llewyen Máire and TRANS/HUMAN amongst others; he is an amino Associate Artist.            
+              
 [www.kriscanavan.com](http://www.kriscanavan.com) | [@kriscanavan](http://twitter.com/kriscanavan)         
             
 ####4.15-4.35pm        
