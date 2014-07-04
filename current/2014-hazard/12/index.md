@@ -19,7 +19,7 @@ Date: Saturday 12 July, 12noon-1pm
 [Venue: St Ann's Square](http://bit.ly/1wrGmvW), Manchester, M2 7LF      
 Tickets: FREE    
                 
-####12noon-12.10pm        
+####12noon-12.10pm (starts 11.45am)        
 **Bingo Meg + Disco Jazz | *Carboot Disco Bingo***        
 An interactive experience — part dance-lesson, part party, part performance, part bingo. Essentially it's an elaborate game of bingo combined with the magic of disco, think Henry Ford meets Donna Summer down the gala! C'mon disco dogs, get your groove on!        
         
