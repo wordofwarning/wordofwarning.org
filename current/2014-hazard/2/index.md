@@ -27,6 +27,16 @@ Megan Clark-Bagnall + Jasmine Loveys are Bristol-based independent artists, esta
         
 [Carboot Disco Bingo facebook](http://www.facebook.com/CarbootDiscoBingoFanClub) | [@ClarkBagnall](http://twitter.com/ClarkBagnall) + [@JasmineLoveys](http://twitter.com/JasmineLoveys)        
          
+####2-3pm            
+**Nicola Canavan | *MILK***            
+             
+              
+            
+####2-3.30pm               
+**The Association Of Low Visibility Workers | *By Association***             
+             
+              
+             
 ####2.30-2.50pm        
 **Antje Hildebrandt | *You Make Me Want To Lose You***        
 An experimental investigation into the human relationship between body and its surroundings. The performance plays in the here and now, with moments of stillness and movement, intimacy and publicity. The dancers cannot see but must negotiate themselves together and alone in a strange environment. In this playful and risky act of exploration the performers subtly interact with their surroundings — evoking moments of surprise, empathy and wonder.        
