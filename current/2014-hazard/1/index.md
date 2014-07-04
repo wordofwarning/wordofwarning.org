@@ -18,27 +18,5 @@ header_image: "header_antje.jpg"
 Date: Saturday 12 July, 1-2pm       
 [Venue: St Ann's Square](http://bit.ly/1wrGmvW), Manchester, M2 7LF      
 Tickets: FREE    
-                
-####Happening from 1pm to 2pm      
-**ARTIST | *TITLE***     
-COPY COPY COPY            
-COPY COPY COPY             
-COPY COPY COPY            
                
-COPY COPY COPY             
-COPY COPY COPY            
-COPY COPY COPY             
-                     
-[www.WEBSITE.com](http://www.WEBSITE.com) | [@twitter](http://twitter.com/)            
-             
-**ARTIST | *TITLE***     
-COPY COPY COPY            
-COPY COPY COPY             
-COPY COPY COPY            
                
-COPY COPY COPY             
-COPY COPY COPY            
-COPY COPY COPY             
-                     
-[www.WEBSITE.com](http://www.WEBSITE.com) | [@twitter](http://twitter.com/)            
-             
