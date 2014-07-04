@@ -8,7 +8,7 @@ rootpath: "../../../"
 artist: "Hazard 2014"
 show: "Happening 2-3pm"
 artist_size: 1
-show_size: 2
+show_size: 3
 header_image: "header_beans.jpg"
 
 ---
