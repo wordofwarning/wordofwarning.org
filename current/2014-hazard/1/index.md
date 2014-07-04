@@ -25,6 +25,8 @@ A culture-jamming game of follow-the-leader: players take it in turns to lead a 
                 
 A Swansea-based performer, creating site-specific and site-responsive work which encourages audiences to explore and experience their surroundings in new and unexpected ways. His most recent large scale project was *Block Party*, a pervasive theatrical experience which took place throughout locations across Cardiff Bay, commissioned as part of PlayARC Games Festival at the WMC. Since 2013 he has been under commission by Creative Bubble to create performances and events in Swansea City Centre.             
                 
+[@StDonnelly](http://twitter.com/StDonnelly)        
+        
 ####1-1.25pm        
 **Bingo Meg + Disco Jazz | *Carboot Disco Bingo***        
 An interactive experience — part dance-lesson, part party, part performance, part bingo. Essentially it's an elaborate game of bingo combined with the magic of disco, think Henry Ford meets Donna Summer down the gala! C'mon disco dogs, get your groove on!        
