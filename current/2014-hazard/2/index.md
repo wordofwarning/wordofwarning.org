@@ -29,10 +29,10 @@ Megan Clark-Bagnall + Jasmine Loveys are Bristol-based independent artists, esta
          
 ####2-3pm            
 **Nicola Canavan | *MILK***            
-A durational piece of work exploring the role of Mother, Canavan invites you to engage in an act of tenderness with an underlying inquiry. She is offering you milk, like never before.             
-            
-Born in North East England, Nicola Canavan performs and shows work nationally and internationally within programmes such as Momentum Festival (Brussels), performance space (London), In Between Time (Bristol), City of Women (Ljubljana), SPILL National Platform (Ipswich) and Emergency Accomodation (Manchester). Her practice is rooted in action-based performance and spans live work, documentations of its products + traces, and the re-presentation of these in other forms. Questioning notions of beauty, pain and expectation through a poetry which transforms brutal acts into tender and generous anecdotes of allegiance; thriving on the richness and allure of visual language; using performance and interactions to reflect on experience; using living marks from her skin to draw longer, deeper and more profound images haunted by a body once known.                  
-                  
+Isaiah 66:10-13 *“Behold, I will extend peace to her like a river, and the glory of the nations like an overflowing stream; and you shall nurse, you shall be carried upon her hip, and bounced upon her knees."*    
+             
+Nicola Canavan’s practice is rooted in action-based performance and spans live work, documentations of its products + traces, and the re-presentation of these in other forms. Born in North East England, Canavan performs and shows work nationally and internationally within programmes such as performance space (London), In Between Time (Bristol), City of Women (Ljubljana), SPILL National Platform (Ipswich). She recently won the Artsadmin Bursary, Artist International Development fund and the UNLIMITED R&D Bursary. She has worked with artist and filmmaker Manuel Vason and continues to create collaborative work with husband Kris Canavan.   
+                   
 [www.nicolacanavan.com](http://www.nicolacanavan.com) | [Nicola Canavan facebook](http://www.facebook.com/pages/Nicola-Canavan/284997073547) | [@NicolaCanavan](http://twitter.com/NicolaCanavan)              
         
 ####2-3.30pm               
