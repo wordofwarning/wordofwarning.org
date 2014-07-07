@@ -77,7 +77,7 @@ Natasha Vicars makes site-specific visual art, writing and collaborative perform
 [www.natashavicars.com](http://www.natashavicars.com) | [@ncvicars](http://twitter.com/ncvicars)           
              
 **No more Page 3 | *Hidden Women Trail***              
-No More Page 3 campaigners invite participants to take part in their *Hidden Woman trail*. Using blank newspaper and a set of clues, this will lead you from St Ann’s Square to The Penthouse NQ via a series of “hazardous” window displays, where you will collect hidden women to take to the final location.    
+No More Page 3 campaigners invite participants to take part in their *Hidden Woman Trail*. Using blank newspaper and a set of clues, this will lead you from St Ann’s Square to The Penthouse NQ via a series of “hazardous” window displays, where you will collect hidden women to take to the final location.    
  There, participants can collaborate and create a mass visual and sound installation of ideas, thoughts and hidden women.  Discover more about the hidden women themselves and have a drink or two while discussing the findings of the day.  
  	                     
 <http://nomorepage3.org> | [No more Page 3 facebook](http://www.facebook.com/groups/nmp3manchester) | [@NoMorePage3](http://twitter.com/NoMorePage3) + [@ThePenthouseNQ](http://twitter.com/ThePenthouseNQ)               
@@ -90,11 +90,11 @@ Oliver Palmer lives and works in London where he finished his MFA in Fine Art at
 <http://oliverwilliampalmer.tumblr.com>                
                     
 **Rachel Ramchurn | *Do you play Crochet?***                  
-"*Do you play crochet?*" You may not know the answer until your bus is late and those fuzzy dangly balls hanging from the bus stop that are gently blowing in the wind get the better of your curiosity and you reach out to touch them and then YES, you do play crochet! These playful, bright and fun, tactile objects seemingly appeared from nowhere and beg to be played with, touched and poked. These structures may be so fluffy, squashy and bright that you want to eat them. You can’t eat them.             
+*"Do you play Crochet?"* You may not know the answer until your bus is late and those fuzzy dangly balls hanging from the bus stop that are gently blowing in the wind get the better of your curiosity and you reach out to touch them and then YES, you do play crochet! These playful, bright and fun, tactile objects seemingly appeared from nowhere and beg to be played with, touched and poked. These structures may be so fluffy, squashy and bright that you want to eat them. You can’t eat them.             
                 
 [www.rachelramchurn.blogspot.com](http://www.rachelramchurn.blogspot.com)             
                 
-**Top Joe | *Documentation***
+**Top Joe | *Documentation***    
 Is it the photo or the act of taking a photo? What do you remember? Documentarian Top Joe has left the house and is looking to make intimate connections through the use of a vintage camera, a cassette player and a selection of 1980s tearjerker ballads. *Are you ready for your close up?*	          
                
 A North West-based practising video and performance artist whose work has been shown at Manchester Cornerhouse, FACT Liverpool and 4749 Tanner Street, London.
