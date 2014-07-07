@@ -39,7 +39,7 @@ Nicola Canavan’s practice is rooted in action-based performance and spans live
 **The Association Of Low Visibility Workers | *By Association***             
 A discreet game to be played between you and the Association, via your smart phone. Take care that only your most trusted friends know that you are playing. You'll need a charged smart phone with credit/facility to send a number of text messages. Everything else will reveal itself to you.                  
                 
-[www.lowvisibilityworkers.org.uk](http://www.lowvisibilityworkers.org.uk) | [@LowVisWorkers](http://twitter.com/LowVisWorkers)         
+[www.lowvisibilityworkers.org.uk](http://www.lowvisibilityworkers.org.uk) | [@ByAssociated](http://twitter.com/ByAssociated)         
               
 ####2.30-2.50pm        
 **Antje Hildebrandt | *You Make Me Want To Lose You***        
