@@ -42,8 +42,10 @@ Megan Clark-Bagnall + Jasmine Loveys are Bristol-based independent artists, esta
 ####1.30-1.50pm        
 **Antje Hildebrandt | *You Make Me Want To Lose You***        
 An experimental investigation into the human relationship between body and its surroundings. The performance plays in the here and now, with moments of stillness and movement, intimacy and publicity. The dancers cannot see but must negotiate themselves together and alone in a strange environment. In this playful and risky act of exploration the performers subtly interact with their surroundings — evoking moments of surprise, empathy and wonder.        
-        
-Antje Hildebrandt is a London-based choreographer and performer who creates site-specific performances, installations, one-to-one encounters, video and theatrical works. Her first choreography *Hybrid* was chosen to represent England in Bari, Italy at the 2008 Biennale for Young Artists from Europe and the Mediterranean. Antje has worked with Serbian Artistic Collective Doplgenger, Lea Anderson, Willi Dorner, Franko B, Ivana Müller and Tino Sehgal, and is a member of Trio, a collective of four artists interested in collaborative performance practice. Performers: Martha Passakopoulou + Rosalie Wahlfrid         
+
+Performers: Martha Passakopoulou + Rosalie Wahlfrid.    
+   
+Antje Hildebrandt is a London-based choreographer and performer who creates site-specific performances, installations, one-to-one encounters, video and theatrical works. Her first choreography *Hybrid* was chosen to represent England in Bari, Italy at the 2008 Biennale for Young Artists from Europe and the Mediterranean. Antje has worked with Serbian Artistic Collective Doplgenger, Lea Anderson, Willi Dorner, Franko B, Ivana Müller and Tino Sehgal, and is a member of Trio, a collective of four artists interested in collaborative performance practice.   
          
 <http://antjehildebrandt.blogspot.co.uk> | [@AntjeHi](http://twitter.com/AntjeHi)        
         

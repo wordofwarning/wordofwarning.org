@@ -32,7 +32,7 @@ To sign up in advance, text **ASSOCIATE** to **01618504353**
                
 ####3-3.03pm               
 **Stephen Sheehan | *Challenging a brick***             
-Artist Screams at brick.            
+Artist screams at brick.            
             
 A conceptual artist, Sheehan predominately uses performance to explore and question life, also working in installation, photography and video.                 
               
@@ -50,7 +50,7 @@ Limited spaces; sign-up in advance via <mailto:stepdonn@gmail.com> OR at the Inf
                
 ####3.30-4.15pm              
 **Kris Canavan | *The Leveller***                
-As a political movement, the term *Leveller* first referred to a faction of New Model Army Agitators and their London supporters in 1649 who were allegedly plotting to assassinate the king; it had been used in 17th-century England as a term of abuse for rural rebels and in the Midland Revolt of 1607 to refer to those who 'levelled' hedges in enclosure riots. Organised at a national level, with offices in a number of London inns and taverns such as The Rosemary Branch in Islington, Levellers would identify one another by sprigs of rosemary that they would wear in their hats...              
+As a political movement, the term "Leveller" first referred to a faction of New Model Army Agitators and their London supporters in 1649 who were allegedly plotting to assassinate the king; it had been used in 17th-century England as a term of abuse for rural rebels and in the Midland Revolt of 1607 to refer to those who "levelled" hedges in enclosure riots. Organised at a national level, with offices in a number of London inns and taverns such as The Rosemary Branch in Islington, "Levellers" would identify one another by sprigs of rosemary that they would wear in their hats...              
             
 >*Using his body as a framework for iconoclasm and getting under his own skin, Kris Canavan makes the symbologies of fractured society a deeply personal affair.*<br>amino, 2014                
                

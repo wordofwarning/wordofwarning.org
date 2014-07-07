@@ -30,7 +30,7 @@ Hanna Rohn + Signhild Wærsted began working together in autumn 2013 — Wærste
 **Harald Smykla | *Dental Portraiture (Know By Mouth)***                
 Using his teeth as his sole sculpting tools, Harald Smykla will eat lifelike portraits of members of the public out of apples, claiming that the sculptures will age in lieu of the people they portray.	
                    
-A German artist based in London, Smykla's site- and context-responsive practice merges performance with unorthodox approaches to 'traditional' art practice, often involving people and places in the public realm. He has performed and exhibited across England and Europe, including at Manchester’s Cornerhouse (2010) and Hazard 2012, and is represented by England & Co, London
+A German artist based in London, Smykla's site- and context-responsive practice merges performance with unorthodox approaches to 'traditional' art practice, often involving people and places in the public realm. He has performed and exhibited across England and Europe, including at Manchester’s Cornerhouse (2010) and Hazard 2012, and is represented by England & Co, London.
 
 [Smykla at England & Co](http://www.englandgallery.com/EXHIB_SMYKLA.htm)	
 
@@ -78,7 +78,7 @@ Natasha Vicars makes site-specific visual art, writing and collaborative perform
              
 **No more Page 3 | *Hidden Women Trail***              
 No More Page 3 campaigners invite participants to take part in their *Hidden Woman trail*. Using blank newspaper and a set of clues, this will lead you from St Ann’s Square to The Penthouse NQ via a series of “hazardous” window displays, where you will collect hidden women to take to the final location.    
- There, participants can collaborate and create a mass visual and sound installation of ideas, thoughts and hidden women.  Discover more about the hidden women themselves and have a drink or two while discussing the findings of the day...    
+ There, participants can collaborate and create a mass visual and sound installation of ideas, thoughts and hidden women.  Discover more about the hidden women themselves and have a drink or two while discussing the findings of the day.  
  	                     
 <http://nomorepage3.org> | [No more Page 3 facebook](http://www.facebook.com/groups/nmp3manchester) | [@NoMorePage3](http://twitter.com/NoMorePage3) + [@ThePenthouseNQ](http://twitter.com/ThePenthouseNQ)               
                 
