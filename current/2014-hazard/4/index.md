@@ -35,6 +35,9 @@ An experimental investigation into the human relationship between body and its s
 Antje Hildebrandt is a London-based choreographer and performer who creates site-specific performances, installations, one-to-one encounters, video and theatrical works. Her first choreography *Hybrid* was chosen to represent England in Bari, Italy at the 2008 Biennale for Young Artists from Europe and the Mediterranean. Antje has worked with Serbian Artistic Collective Doplgenger, Lea Anderson, Willi Dorner, Franko B, Ivana Müller and Tino Sehgal, and is a member of Trio, a collective of four artists interested in collaborative performance practice. Performers: Martha Passakopoulou + Rosalie Wahlfrid         
          
 <http://antjehildebrandt.blogspot.co.uk> | [@AntjeHi](http://twitter.com/AntjeHi)        
-        
+**4.30-4.50pm**    
+**Hidden Track | *Scavengers Finale*** (see Ongoing activity)    
+After the day's secret tasks and competition, Fox and Badger come face-to-face for their decisive finale. Each will tell their tale, plead their case, and attempt to win you round to their side. Only one of them can deliver the story of the Great War. We get to pick which one.    
+
 ####Ongoing activity        
 The following pieces happen all afternoon (12noon-5pm): Hanna Rohn + Signhild Wærsted | Harald Smykla | Hidden Track Theatre | ICD | Leo Burtin | Martin Hamblen | Natasha Vicars | No more Page 3 | Oliver Palmer | Rachel Ramchurn | Top Joe | Tracy Lumpkin
