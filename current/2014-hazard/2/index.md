@@ -37,7 +37,10 @@ Nicola Canavan’s practice is rooted in action-based performance and spans live
         
 ####2-3.30pm               
 **The Association Of Low Visibility Workers | *By Association***             
-A discreet game to be played between you and the Association, via your smart phone. Take care that only your most trusted friends know that you are playing. You'll need a charged smart phone with credit/facility to send a number of text messages. Everything else will reveal itself to you.    
+A discreet game to be played between you and the Association, via your smartphone.    
+Take care that only your most trusted friends know that you are playing.    
+You'll need a charged smart phone with credit/facility to send a number of text messages.    
+Everything else will reveal itself to you.        
                   
 To sign up in advance, text **ASSOCIATE** to **01618504353**    
               

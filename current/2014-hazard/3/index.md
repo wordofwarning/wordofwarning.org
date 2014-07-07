@@ -21,7 +21,12 @@ Tickets: FREE
          
 ####2-3.30pm             
 **The Association Of Low Visibility Workers | *By Association***               
-A discreet game to be played between you and the Association, via your smart phone. Take care that only your most trusted friends know that you are playing. You'll need a charged smart phone with credit/facility to send a number of text messages. Everything else will reveal itself to you.              
+A discreet game to be played between you and the Association, via your smartphone.    
+Take care that only your most trusted friends know that you are playing.    
+You'll need a charged smart phone with credit/facility to send a number of text messages.    
+Everything else will reveal itself to you.    
+          
+To sign up in advance, text **ASSOCIATE** to **01618504353**    
               
 [www.lowvisibilityworkers.org.uk](http://www.lowvisibilityworkers.org.uk) | [@ByAssociated](http://twitter.com/ByAssociated)            
                
@@ -38,7 +43,9 @@ A conceptual artist, Sheehan predominately uses performance to explore and quest
 A culture-jamming game of follow-the-leader: players take it in turns to lead a city-wide improvisation through the streets of Manchester, dishing out impromptu happenings and interventions as they go. The DriftMob begins in St Ann's Square; from there the details get hazy… all we know is it conspires to mark out it’s territory before evaporating back into the swarm of the street, leaving its traces in memories, rumours and urban myths.                 
                 
 A Swansea-based performer, creating site-specific and site-responsive work which encourages audiences to explore and experience their surroundings in new and unexpected ways. His most recent large scale project was *Block Party*, a pervasive theatrical experience which took place throughout locations across Cardiff Bay, commissioned as part of PlayARC Games Festival at the WMC. Since 2013 he has been under commission by Creative Bubble to create performances and events in Swansea City Centre.           
-                  
+
+Limited spaces; sign-up in advance via <mailto:stepdonn@gmail.com> OR at the Information Point from 12noon on the day.      
+                
 [@StDonnelly](http://twitter.com/StDonnelly)           
                
 ####3.30-4.15pm              
