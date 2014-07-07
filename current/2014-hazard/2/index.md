@@ -33,7 +33,7 @@ Isaiah 66:10-13 *“Behold, I will extend peace to her like a river, and the glo
              
 Nicola Canavan’s practice is rooted in action-based performance and spans live work, documentations of its products + traces, and the re-presentation of these in other forms. Born in North East England, Canavan performs and shows work nationally and internationally within programmes such as performance space (London), In Between Time (Bristol), City of Women (Ljubljana), SPILL National Platform (Ipswich). She recently won the Artsadmin Bursary, Artist International Development fund and the UNLIMITED R&D Bursary. She has worked with artist and filmmaker Manuel Vason and continues to create collaborative work with husband Kris Canavan.   
                    
-[www.nicolacanavan.com](http://www.nicolacanavan.com) | [Nicola Canavan facebook](http://www.facebook.com/pages/Nicola-Canavan/284997073547) | [@NicolaCanavan](http://twitter.com/NicolaCanavan)              
+[www.nicolacanavan.com](http://www.nicolacanavan.com) | [@NicolaCanavan](http://twitter.com/NicolaCanavan)              
         
 ####2-3.30pm               
 **The Association Of Low Visibility Workers | *By Association***             
