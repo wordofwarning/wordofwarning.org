@@ -37,7 +37,7 @@ A German artist based in London, Smykla's site- and context-responsive practice 
 **Hidden Track | *Scavengers***                  
 The Great Animal Spirits, Lion, Bear, Raven and Wolf, are fighting a fierce and terrible war; this is not their story. 
 Hidden Track invite you to meet other Spirits like Badger, and Fox — they don't get invited to posh dos like wars, they must scavenge to survive: it's up to us to fight their battles for them. Fox + Badger weave through the streets giving out secret tasks, persuading audiences to interact, to play, and to turn against each other.                  
-**N.B.** Look out for *Scavengers* [finale from 4.30 to 4.50pm](/current/2014-hazard/4)                   
+**N.B.** Look out for [*Scavengers finale* from 4.30 to 4.50pm](/current/2014-hazard/4)                   
                    
 Hidden Track is a company committed to creating new theatre outside of traditional performance spaces. They seek to create reactive, immersive worlds together with their audiences, while keeping strong roots in narrative storytelling.          
                     
