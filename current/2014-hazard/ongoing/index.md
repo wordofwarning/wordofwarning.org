@@ -37,7 +37,7 @@ A German artist based in London, Smykla's site- and context-responsive practice 
 **Hidden Track | *Scavengers***                  
 The Great Animal Spirits, Lion, Bear, Raven and Wolf, are fighting a fierce and terrible war; this is not their story. 
 Hidden Track invite you to meet other Spirits like Badger, and Fox — they don't get invited to posh dos like wars, they must scavenge to survive: it's up to us to fight their battles for them. Fox + Badger weave through the streets giving out secret tasks, persuading audiences to interact, to play, and to turn against each other.                  
-**N.B. Look out for *Scavengers* [Finale 4.30-4.50pm](/current/2014-hazard/4)**                   
+**N.B.** Look out for *Scavengers* [finale from 4.30 to 4.50pm](/current/2014-hazard/4)                   
                    
 Hidden Track is a company committed to creating new theatre outside of traditional performance spaces. They seek to create reactive, immersive worlds together with their audiences, while keeping strong roots in narrative storytelling.          
                     
@@ -57,7 +57,7 @@ Tracy Lumpkin is a Manchester-based mixed-media visual artist whose extensive bo
             
 **Leo Burtin | *Homemade: Le Bistroquet***                 
 You are invited to Leo's Bistro for an apéritif! Join us in this pop-up social space where the menu needs you! While you're sipping on a lemonade and tasting a delightful piece of quiche, why not contribute your own recipe for the establishment's chef to consider? *Le Bistroquet* is a pop-up intervention devised and hosted by Leo Burtin with assistance from Robin Goodings. It is produced by Talk with LEAP as part of the *Homemade* series.                       
-**Food and drink served may contain allergens.**	         
+**N.B.** Food and drink served may contain allergens.	         
                   
 Leo Burtin is an artist and creative producer whose work sits at the crossroads where genres and disciplines meet, blend and blur. Leo's practice is primarily collaborative, and has recently involved engaging in conversation with strangers a lot. Both as an artist and producer he has worked with Rajni Shah, Blast Theory, imitating the dog and shown work internationally. He wouldn't normally let you know that he is French and used to work for Jamie Oliver.	               
                      
