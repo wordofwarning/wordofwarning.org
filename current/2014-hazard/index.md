@@ -30,14 +30,14 @@ Tickets: free/unticketed
 ####More         
 Hazard 2014 is our fifth biennial micro-festival of incidental intervention and sited performance, blurring the boundaries between art and activism, featuring nineteen free works from (*participating artists subject to change*):      
                
-Antje Hildebrandt | Bingo Meg + Disco Jazz  | Hanna Rohn + Signhild Wærsted | Harald Smykla | Hidden Track | ICD | Kris Canavan | Leo Burtin | Martin Hamblen | Natasha Vicars | Nicola Canavan | No more Page 3 | Oliver Palmer | Rachel Ramchurn | Stephen Donnelly | Stephen Sheehan | The Association Of Low Visibility Workers | Top Joe | Tracy Lumpkin                  
+Antje Hildebrandt | Bingo Meg + Disco Jazz  | Hanna Rohn + Signhild Wærsted | Harald Smykla | Hidden Track | ICD | Kris Canavan | Leo Burtin | Martin Hamblen | Natasha Vicars | Nicola Canavan | No More Page 3 | Oliver Palmer | Rachel Ramchurn | Stephen Donnelly | Stephen Sheehan | The Association Of Low Visibility Workers | Top Joe | Tracy Lumpkin                  
                   
 To get a feel for Hazard see 2012's [programme](/archive/2012-hazard) + [image gallery](/galleries/2012-hazard).       
               
-**[Interactions](http://www.interactionsperformance.wordpress.com)** will be in the city centre getting a feel for how people react when they happen upon the work, and writing about it on their blog in the following days; follow them [@UKinteractions](http://twitter.com/UKinteractions)                
+**[Interactions](http://www.interactionsperformance.wordpress.com)** will be in St Ann's Square and surrounding streets getting a feel for how people react when they happen upon the work, and writing about it on their blog in the following days; follow them [@UKinteractions](http://twitter.com/UKinteractions)                
                        
 ####Credits        
-Produced by hÅb + The Larks in collaboration with the participating artists; supported by Royal Exchange Theatre; a greenroom legacy project.               
+Produced by [hÅb](/hab) + [The Larks](http://www.the-larks.com) in collaboration with the participating artists; supported by [Royal Exchange Theatre](http://www.royalexchange.co.uk); a greenroom legacy project.               
            
 ####Websites           
-[hazardmcr.org](http://hazardmcr.org) | #HazardMcr | [@HazardMcr](http://twitter.com/HazardMcr)
+<http://hazardmcr.org> | #hazardmcr | [@hazardmcr](http://twitter.com/HazardMcr)
