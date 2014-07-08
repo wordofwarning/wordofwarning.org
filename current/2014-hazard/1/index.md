@@ -15,20 +15,18 @@ header_image: "header_antje.jpg"
 *Part of* Hazard 2014, *presented by* Word of Warning       
      
 ####Venue + Booking Details        
-Date: Saturday 12 July, 1-2pm       
-[Venue: St Ann's Square](http://bit.ly/1wrGmvW), Manchester, M2 7LF      
-Tickets: FREE        
-              
+Date: Saturday 12 July, 1-2pm                
+Venue: within [St Ann's Square](http://bit.ly/1wrGmvW) (Manchester, M2 7LF) and surrounding streets       
+Tickets: FREE/unticketed        
+               
 ####1pm departure          
 **Stephen Donnelly | *DriftMob***           
 A culture-jamming game of follow-the-leader: players take it in turns to lead a city-wide improvisation through the streets of Manchester, dishing out impromptu happenings and interventions as they go. The *DriftMob* begins in St Ann's Square; from there the details get hazy… all we know is it conspires to mark out it’s territory before evaporating back into the swarm of the street, leaving its traces in memories, rumours and urban myths.                
-                
+                            
 A Swansea-based performer, creating site-specific and site-responsive work which encourages audiences to explore and experience their surroundings in new and unexpected ways. His most recent large scale project was *Block Party*, a pervasive theatrical experience which took place throughout locations across Cardiff Bay, commissioned as part of PlayARC Games Festival at the WMC. Since 2013 he has been under commission by Creative Bubble to create performances and events in Swansea City Centre.        
       
-Limited spaces; sign-up in advance via <mailto:stepdonn@gmail.com> OR at the Information Point from 12noon on the day.    
-  
-    
-                
+Limited spaces; sign-up in advance via <mailto:stepdonn@gmail.com> OR at the [Information Point](http://bit.ly/1wrGmvW) from 12noon on the day.      
+               
 [@StDonnelly](http://twitter.com/StDonnelly)        
         
 ####1-1.25pm        
@@ -49,5 +47,5 @@ Antje Hildebrandt is a London-based choreographer and performer who creates site
          
 <http://antjehildebrandt.blogspot.co.uk> | [@AntjeHi](http://twitter.com/AntjeHi)        
         
-####Ongoing activity        
-The following pieces happen all afternoon (12noon-5pm): Hanna Rohn + Signhild Wærsted | Harald Smykla | Hidden Track Theatre | ICD | Leo Burtin | Martin Hamblen | Natasha Vicars | No more Page 3 | Oliver Palmer | Rachel Ramchurn | Top Joe | Tracy Lumpkin
+####[Ongoing activity, happens all afternoon (12noon-5pm)](/current/2014-hazard/ongoing):                
+Hanna Rohn + Signhild Wærsted | Harald Smykla | Hidden Track | ICD | Leo Burtin | Martin Hamblen | Natasha Vicars | No More Page 3 | Oliver Palmer | Rachel Ramchurn | Top Joe | Tracy Lumpkin
