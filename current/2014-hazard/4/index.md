@@ -15,9 +15,9 @@ header_image: "header_kris.jpg"
      
 ####Venue + Booking Details        
 Date: Saturday 12 July, 4-5pm       
-[Venue: St Ann's Square](http://bit.ly/1wrGmvW), Manchester, M2 7LF      
-Tickets: FREE    
-                
+Venue: within [St Ann's Square](http://bit.ly/1wrGmvW) (Manchester, M2 7LF) and surrounding streets         
+Tickets: FREE/unticketed         
+             
 ####3.30-4.15pm          
 **Kris Canavan | *The Leveller***          
 As a political movement, the term "Leveller" first referred to a faction of New Model Army Agitators and their London supporters in 1649 who were allegedly plotting to assassinate the king; it had been used in 17th-century England as a term of abuse for rural rebels and in the Midland Revolt of 1607 to refer to those who "levelled" hedges in enclosure riots. Organised at a national level, with offices in a number of London inns and taverns such as The Rosemary Branch in Islington, "Levellers" would identify one another by sprigs of rosemary that they would wear in their hats…                
@@ -39,8 +39,8 @@ Antje Hildebrandt is a London-based choreographer and performer who creates site
 <http://antjehildebrandt.blogspot.co.uk> | [@AntjeHi](http://twitter.com/AntjeHi)     
        
 ####4.30-4.50pm    
-**Hidden Track | *Scavengers Finale*** (see Ongoing activity)    
-After the day's secret tasks and competition, Fox and Badger come face-to-face for their decisive finale. Each will tell their tale, plead their case, and attempt to win you round to their side. Only one of them can deliver the story of the Great War. We get to pick which one.    
-
-####Ongoing activity        
-The following pieces happen all afternoon (12noon-5pm): Hanna Rohn + Signhild Wærsted | Harald Smykla | Hidden Track Theatre | ICD | Leo Burtin | Martin Hamblen | Natasha Vicars | No more Page 3 | Oliver Palmer | Rachel Ramchurn | Top Joe | Tracy Lumpkin
+**Hidden Track | *Scavengers* (finale) — also see [Ongoing activity](/current/2014-hazard/ongoing))**        
+After the day's secret tasks and competition, Fox + Badger come face-to-face for their decisive finale. Each will tell their tale, plead their case, and attempt to win you round to their side. Only one of them can deliver the story of the Great War. We get to pick which one.        
+                  
+####[Ongoing activity, happens all afternoon (12noon-5pm)](/current/2014-hazard/ongoing):                
+Hanna Rohn + Signhild Wærsted | Harald Smykla | Hidden Track | ICD | Leo Burtin | Martin Hamblen | Natasha Vicars | No More Page 3 | Oliver Palmer | Rachel Ramchurn | Top Joe | Tracy Lumpkin
