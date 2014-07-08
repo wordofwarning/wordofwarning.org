@@ -15,7 +15,7 @@ header_image: "header_carboot.jpg"
 *Part of* Hazard 2014, *presented by* Word of Warning       
      
 ####Venue + Booking Details        
-Date: Saturday 12 July, 12noon-5pm                
+Date: Saturday 12 July, 12noon-1pm                
 Venue: within [St Ann's Square](http://bit.ly/1wrGmvW) (Manchester, M2 7LF) and surrounding streets       
 Tickets: FREE/unticketed                              
                 
