@@ -39,7 +39,7 @@ Antje Hildebrandt is a London-based choreographer and performer who creates site
 <http://antjehildebrandt.blogspot.co.uk> | [@AntjeHi](http://twitter.com/AntjeHi)     
        
 ####4.30-4.50pm    
-**Hidden Track | *Scavengers* finale — also see [Ongoing activity](/current/2014-hazard/ongoing)**        
+**Hidden Track | *Scavengers finale* — also see [Ongoing activity](/current/2014-hazard/ongoing)**        
 After the day's secret tasks and competition, Fox + Badger come face-to-face for their decisive finale. Each will tell their tale, plead their case, and attempt to win you round to their side. Only one of them can deliver the story of the Great War. We get to pick which one.        
                   
 ####[Ongoing activity, happens all afternoon (12noon-5pm)](/current/2014-hazard/ongoing):                
