@@ -4,4 +4,4 @@ layout: home
 header_image: "assets/images/header_ss2014wrn.jpg"
 
 ---
-###[Hazard](/current/2014-hazard) playfully intervenes [St Ann’s Square](http://bit.ly/1wrGmvW) this Saturday — join us for random actions, strange antics, ludic activities + surprising sprees of eccentricity *12 Jul*
+###[Hazard](/current/2014-hazard) playfully intervenes [St Ann’s Square](http://bit.ly/1wrGmvW) this Saturday — join us for random actions, strange antics, ludic activities + surprising sprees of eccentricity *12 July*
