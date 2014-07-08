@@ -25,7 +25,7 @@ A culture-jamming game of follow-the-leader: players take it in turns to lead a 
                             
 A Swansea-based performer, creating site-specific and site-responsive work which encourages audiences to explore and experience their surroundings in new and unexpected ways. His most recent large scale project was *Block Party*, a pervasive theatrical experience which took place throughout locations across Cardiff Bay, commissioned as part of PlayARC Games Festival at the WMC. Since 2013 he has been under commission by Creative Bubble to create performances and events in Swansea City Centre.        
       
-Limited spaces; sign-up in advance via <mailto:stepdonn@gmail.com> OR at the [Information Point](http://bit.ly/1wrGmvW) from 12noon on the day.      
+**N.B. Limited spaces:** sign-up in advance via <mailto:stepdonn@gmail.com> OR at the [Information Point](http://bit.ly/1wrGmvW) from 12noon on the day.      
                
 [@StDonnelly](http://twitter.com/StDonnelly)        
         
