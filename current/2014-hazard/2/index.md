@@ -16,9 +16,9 @@ header_image: "header_beans.jpg"
      
 ####Venue + Booking Details        
 Date: Saturday 12 July, 2-3pm       
-[Venue: St Ann's Square](http://bit.ly/1wrGmvW), Manchester, M2 7LF      
-Tickets: FREE    
-                
+Venue: within [St Ann's Square](http://bit.ly/1wrGmvW) (Manchester, M2 7LF) and surrounding streets       
+Tickets: FREE/unticketed                 
+              
 ####2-2.25pm        
 **Bingo Meg + Disco Jazz | *Carboot Disco Bingo***        
 An interactive experience — part dance-lesson, part party, part performance, part bingo. Essentially it's an elaborate game of bingo combined with the magic of disco, think Henry Ford meets Donna Summer down the gala! C'mon disco dogs, get your groove on!        
@@ -37,10 +37,7 @@ Nicola Canavan’s practice is rooted in action-based performance and spans live
         
 ####2-3.30pm               
 **The Association Of Low Visibility Workers | *By Association***             
-A discreet game to be played between you and the Association, via your smartphone.    
-Take care that only your most trusted friends know that you are playing.    
-You'll need a charged smart phone with credit/facility to send a number of text messages.    
-Everything else will reveal itself to you.        
+A discreet game to be played between you and The Association, via your smartphone. Take care that only your most trusted friends know that you are playing. You'll need a charged smart phone with credit/facility to send a number of text messages. Everything else will reveal itself to you.        
                   
 To sign up in advance, text **ASSOCIATE** to **01618504353**    
               
@@ -56,5 +53,5 @@ Antje Hildebrandt is a London-based choreographer and performer who creates site
                  
 <http://antjehildebrandt.blogspot.co.uk> | [@AntjeHi](http://twitter.com/AntjeHi)        
         
-####Ongoing activity        
-The following pieces happen all afternoon (12noon-5pm): Hanna Rohn + Signhild Wærsted | Harald Smykla | Hidden Track Theatre | ICD | Leo Burtin | Martin Hamblen | Natasha Vicars | No more Page 3 | Oliver Palmer | Rachel Ramchurn | Top Joe | Tracy Lumpkin
+####[Ongoing activity, happens all afternoon (12noon-5pm)](/current/2014-hazard/ongoing):                
+Hanna Rohn + Signhild Wærsted | Harald Smykla | Hidden Track | ICD | Leo Burtin | Martin Hamblen | Natasha Vicars | No More Page 3 | Oliver Palmer | Rachel Ramchurn | Top Joe | Tracy Lumpkin
