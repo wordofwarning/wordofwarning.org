@@ -25,7 +25,7 @@ Manchester's stripiest festival returns to unleash a fifth wave of bizarre behav
 ####Venue + Booking Details        
 Date: Saturday 12 July, 12noon-5pm                
 Venue: within [St Ann's Square](http://bit.ly/1wrGmvW) (Manchester, M2 7LF) and surrounding streets       
-Tickets: free/unticketed            
+Tickets: FREE/unticketed            
                 
 ####More         
 Hazard 2014 is our fifth biennial micro-festival of incidental intervention and sited performance, blurring the boundaries between art and activism, featuring nineteen free works from (*participating artists subject to change*):      
