@@ -44,7 +44,7 @@ Hidden Track is a company committed to creating new theatre outside of tradition
 [www.hiddentracktheatre.co.uk](http://www.hiddentracktheatre.co.uk) | [Hidden Track facebook](http://www.facebook.com/HiddenTrackTheatre) | [@HiddenTrackTC](http://twitter.com/HiddenTrackTC)
                  
 **ICD | *Life Boat***               
-The slowest ride on earth — ALL WELCOME. Rock gently, turn slowly, help push the boat or play thr drums; listen to our alphabet of Migration, Sustainability, Trade + Ethics; make conversation with fellow travellers and crew; sit with Death or start at Hope in the mirror… participants and passers-by are all welcome to post their forecast for the future in our log books.               
+The slowest ride on earth — ALL WELCOME. Rock gently, turn slowly, help push the boat or play the drums; listen to our alphabet of Migration, Sustainability, Trade + Ethics; make conversation with fellow travellers and crew; sit with Death or start at Hope in the mirror… participants and passers-by are all welcome to post their forecast for the future in our log books.               
                
 The ICD create work that changes the way we look at the world, inhabit public space and make conversation… They create compelling performance work for site-responsive journeys, events, happenings, traditional theatre spaces and unexpected places.              
                 
