@@ -32,18 +32,17 @@ Hazard 2014 is our fifth biennial micro-festival of incidental intervention and 
                
 Antje Hildebrandt | Bingo Meg + Disco Jazz  | Hanna Rohn + Signhild Wærsted | Harald Smykla | Hidden Track | ICD | Kris Canavan | Leo Burtin | Martin Hamblen | Natasha Vicars | Nicola Canavan | No More Page 3 | Oliver Palmer | Rachel Ramchurn | Stephen Donnelly | Stephen Sheehan | The Association Of Low Visibility Workers | Top Joe | Tracy Lumpkin      
 
-**[Interactions](http://www.interactionsperformance.wordpress.com)** will be in St Ann's Square and surrounding streets getting a feel for how people react when they happen upon the work, and writing about it on their blog in the following days; follow them [@UKinteractions](http://twitter.com/UKinteractions)    
-
+**[Interactions](http://www.interactionsperformance.wordpress.com)** will be in St Ann's Square and surrounding streets getting a feel for how people react when they happen upon the work, and writing about it on their blog in the following days; follow them [@UKinteractions](http://twitter.com/UKinteractions)               
+                
+To get a feel for Hazard see 2012's [programme](/archive/2012-hazard) + [image gallery](/galleries/2012-hazard).       
+                  
 ####Schedule + Map     
 Hazard is really aimed for you to encounter by chance, and will be paperless on the day.  So if you want a hand navigating it, we've put together a schedule and map.  Please be aware timings are very approximate and subject to change.    
 To download, right click and save image.    
-![Turn Schedule](Hazard-2014-schedule.jpg)     
-![Turn Map](St-Ann's-Square-site-plan.jpg)     
+![Hazard Schedule](Hazard-2014-schedule.jpg)     
+![Hazard Map](St-Ann's-Square-site-plan.jpg)     
                              
-To get a feel for Hazard see 2012's [programme](/archive/2012-hazard) + [image gallery](/galleries/2012-hazard).       
-              
-                
-                       
+                        
 ####Credits        
 Produced by [hÅb](/hab) + [The Larks](http://www.the-larks.com) in collaboration with the participating artists; supported by [Royal Exchange Theatre](http://www.royalexchange.co.uk); a greenroom legacy project.               
            
