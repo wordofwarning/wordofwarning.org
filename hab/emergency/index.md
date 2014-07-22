@@ -26,4 +26,4 @@ Our [fourteenth Emergency](/archive/2013-emergency) took place on Saturday 5 Oct
         
 Enquiries: <mailto:emergency@habarts.org>        
         
-Emergency 2013 was a hÅb, Blank Media, Z-arts co-production + a greenroom legacy project. [www.emergencymcr.org](http://www.emergencymcr.org) | #EmergencyMcr
+Emergency 2013 was a hÅb, Blank Media, Z-arts co-production + a greenroom legacy project. <http://www.emergencymcr.org> | #EmergencyMcr
