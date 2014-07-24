@@ -36,7 +36,8 @@ Emergency 2014 will offer an honorarium of up to £100 per piece selected, to co
 >Complete the [Online Proposal form](http://habarts.wufoo.eu/forms/emergency-2014-proposal-form);        
 >Complete the [Online Monitoring form](http://habarts.wufoo.eu/forms/hab-monitoring-form) (please, it really helps us!);       
 >**DEADLINE Monday 25 August 2014, 5pm.**         
-         
+>Enquiries: <mailto:emergency@habarts.org>        
+        
 Emergency 2014 is presented by Word of Warning; produced by hÅb; supported using public funding through Arts Council England and by Manchester City Council, STUN + Z-arts; a greenroom legacy project.        
         
-Enquiries: <mailto:emergency@habarts.org> | <http://emergencymcr.org> | #EmergencyMcr
+<http://emergencymcr.org> | #EmergencyMcr
