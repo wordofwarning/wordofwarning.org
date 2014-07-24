@@ -17,10 +17,10 @@ header_image: "header_emergency_photo.jpg"
 ---
 Our annual platform for live art + contemporary performance is celebrating its fifteenth birthday…! To get a feel for **Emergency** see 2013's [programme](/archive/2013-emergency) + [gallery](/galleries/2013-emergency).           
              
-Our fifteenth **Emergency** takes place on Saturday 4 October 2014 (12noon-11pm) at Manchester's [Z-arts](http://www.z-arts.org/about-us/getting-here), with the callout for artist proposals open from Friday 25 July to Monday 25 August, 5pm — full details are posted [here](). With a whole range of spaces to fill — what we now need is lots of great work! So…                   
+The fifteenth **Emergency** takes place on Saturday 4 October 2014 (12noon-11pm) at Manchester's [Z-arts](http://www.z-arts.org/about-us/getting-here), with the callout for artist proposals open from Friday 25 July to Monday 25 August, 5pm — full details are posted [here](). With a whole range of spaces to fill — what we now need is lots of great work! So…                   
              
 ###Call for proposals — Emergency 2014      
-*Artists working in live art, contemporary performance, time-based media and interdisciplinary arts are invited to submit proposals of short pieces of work, works-in-progress or extracts of longer works for inclusion in this event. Proposals are also encouraged for durational, one-to-one and limited capacity work; performance installation and intervention-based works in and around the spaces. And since this is our fifteenth year, we wouldn’t be averse to ideas for a finale!*        
+*Artists working in live art, contemporary performance, time-based media and interdisciplinary arts are invited to submit proposals of short pieces of work, works-in-progress or extracts of longer works for inclusion in this event. Proposals are also encouraged for durational, one-to-one and limited capacity work; performance installation and intervention-based works in and around the spaces. And since this is our 15th year, we're not averse to ideas for a finale!*        
              
 **Emergency is:**    
 >a free, public micro-festival + open submission platform;   
@@ -32,11 +32,12 @@ Work can be in any relevant artform/medium, though some live presence is desirab
 Emergency will offer an honorarium of up to £100 per piece selected, to cover fees/expenses.
 
 **To apply:**        
-• Download the Emergency Open Call Guidance Notes (below);        
-• Complete the [Online Proposal form](http://habarts.wufoo.eu/forms/emergency-2014-proposal-form);        
-• Complete the [Online Monitoring form](http://habarts.wufoo.eu/forms/hab-monitoring-form) (please, it really helps us!);       
-• DEADLINE Monday 25 August 2014, 5pm.         
+>•Download the Emergency Open Call Guidance Notes (below);        
+>• Complete the [Online Proposal form](http://habarts.wufoo.eu/forms/emergency-2014-proposal-form);        
+>• Complete the [Online Monitoring form](http://habarts.wufoo.eu/forms/hab-monitoring-form) (please, it really helps us!);       
+>• DEADLINE Monday 25 August 2014, 5pm.         
          
 Enquiries: <mailto:emergency@habarts.org>        
 
-Emergency 2014 is presented by Word of Warning; produced by hÅb; supported using public funding through Arts Council England, and by Manchester City Council, STUN + Z-arts; a greenroom legacy project. <http://emergencymcr.org> | #EmergencyMcr
+Emergency 2014 is presented by Word of Warning; produced by hÅb; supported using public funding through Arts Council England, and by Manchester City Council, STUN + Z-arts; a greenroom legacy project.        
+<http://emergencymcr.org> | #EmergencyMcr
