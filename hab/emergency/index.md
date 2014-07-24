@@ -27,16 +27,15 @@ The fifteenth **Emergency** takes place on Saturday 4 October 2014 (12noon-11pm)
 >An opportunity for artists to meet, show and peer-review work;      
 >A selection event for a number of small [Works Ahead](/hab/worksahead) commissions to be developed + supported by [hÅb](/hab).        
         
-Work can be in any relevant artform/medium, though some live presence is desirable. Show-type work should be 20mins max in duration; low tech; suitable for quick turnarounds; self-supporting in terms of props/set/equipment and specialised technology.        
-We also strongly encourage durational, one-to-one and limited capacity work; performance installation and intervention-based works in and around the spaces.             
+Work can be in any relevant artform/medium, though some live presence is desirable. Show-type work should be 20mins max in duration; low tech; suitable for quick turnarounds; self-supporting in terms of props / set / equipment and specialised technology. We also strongly encourage durational, one-to-one and limited capacity work; performance installation and intervention-based works in and around the spaces.             
             
 Emergency 2014 will offer an honorarium of up to £100 per piece selected, to cover fees/expenses.
 
 **To apply:**        
->Download the Emergency 2014 Open Call Guidance Notes (below);        
+>Download the [Emergency 2014 Open Call Guidance Notes](?) (below);        
 >Complete the [Online Proposal form](http://habarts.wufoo.eu/forms/emergency-2014-proposal-form);        
 >Complete the [Online Monitoring form](http://habarts.wufoo.eu/forms/hab-monitoring-form) (please, it really helps us!);       
->DEADLINE Monday 25 August 2014, 5pm.         
+>**DEADLINE Monday 25 August 2014, 5pm.**         
          
 Enquiries: <mailto:emergency@habarts.org>        
 
