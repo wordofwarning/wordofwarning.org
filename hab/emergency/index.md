@@ -32,7 +32,7 @@ Work can be in any relevant artform/medium, though some live presence is desirab
 Emergency 2014 will offer an honorarium of up to £100 per piece selected, to cover fees/expenses.
 
 **To apply:**        
->Download the [Emergency 2014 Open Call Guidance Notes](?) (below);        
+>Download the Emergency 2014 Open Call Guidance Notes [here](http://emergencymcr.posthaven.com);        
 >Complete the [Online Proposal form](http://habarts.wufoo.eu/forms/emergency-2014-proposal-form);        
 >Complete the [Online Monitoring form](http://habarts.wufoo.eu/forms/hab-monitoring-form) (please, it really helps us!);       
 >DEADLINE: Monday 25 August 2014, 5pm;         
