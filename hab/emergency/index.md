@@ -15,9 +15,11 @@ header_image: "header_emergency_photo.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
+**Emergency**, our annual platform for live art and contemporary performance, is celebrating its fifteenth birthday…!  
+To get a feel for it see 2013's [programme](/archive/2013-emergency) + [image gallery](/galleries/2013-emergency).
+
 Somewhat of an institution in these parts, **Emergency** is our annual platform for live art and contemporary performance featuring up to 40 short pieces of work in a single day, across a number of Manchester venues.        
        
-Our [fourteenth Emergency](/archive/2013-emergency) took place on Saturday 5 October 2013, at BLANKSPACE + Z-arts. To get a feel for it see 2013's [programme](/archive/2013-emergency) + [image gallery](/galleries/2013-emergency).       
          
 **Emergency is:**    
 >a free, public micro-festival + open submission platform;   
@@ -25,5 +27,5 @@ Our [fourteenth Emergency](/archive/2013-emergency) took place on Saturday 5 Oct
 >a selection event for a number of small [Works Ahead](/hab/worksahead) commissions to be developed + supported by hÅb.       
         
 Enquiries: <mailto:emergency@habarts.org>        
-        
-Emergency 2013 was a hÅb, Blank Media, Z-arts co-production + a greenroom legacy project. <http://emergencymcr.org> | #EmergencyMcr
+
+Emergency 2014 is presented by Word of Warning; produced by hÅb; supported using public funding through Arts Council England, and by Manchester City Council, STUN + Z-arts; a greenroom legacy project. <http://emergencymcr.org> | #EmergencyMcr
