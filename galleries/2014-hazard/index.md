@@ -17,10 +17,10 @@ gallery:
     -   {file: "discobingo1.jpg", artist: "Bingo Meg + Disco Jazz", show: "Carboot Disco Bingo"}
     -   {file: "discobingo2.jpg", artist: "Bingo Meg + Disco Jazz", show: "Carboot Disco Bingo"}
     -   {file: "beans.jpg", artist: "Hanna Rohn + Signhild Waersted", show: "Do Touch The Artwork"}
-    -   {file: "racmchurn1.jpg", artist: "Rachel Ramchurn", show: "Do you play Crochet?"}
-    -   {file: "racmchurn2.jpg", artist: "Rachel Ramchurn", show: "Do you play Crochet?
+    -   {file: "ramchurn1.jpg", artist: "Rachel Ramchurn", show: "Do you play Crochet?"}
+    -   {file: "ramchurn2.jpg", artist: "Rachel Ramchurn", show: "Do you play Crochet?"}
     -   {file: "burtin.jpg", artist: "Leo Burtin", show: "Le Bistroquet"}
-    -   file: "smykla1.jpg", artist: "Harald Smykla", show: "Dental Portraiture"}
+    -   {file: "smykla1.jpg", artist: "Harald Smykla", show: "Dental Portraiture"}
     -   {file: "hamblen1.jpg", artist: "Martin Hamblen", show: "Level Head"}
     -   {file: "hamblen2.jpg", artist: "Martin Hamblen", show: "Level Head"}
     -   {file: "hiddentrack1.jpg", artist: "Hidden Track", show: "Scavengers"}
