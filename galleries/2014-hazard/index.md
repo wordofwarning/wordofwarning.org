@@ -40,5 +40,4 @@ gallery:
     -   {file: "kris2.jpg", artist: "Kris Canavan", show: "The Leveller"}
     -   {file: "kris3.jpg", artist: "Kris Canavan", show: "The Leveller"}
 
-
 ---
