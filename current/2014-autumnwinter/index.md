@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: 2014-spring
+layout: 2014-autumnwinter
 rootpath: "../../"
 is_index: true
 
@@ -16,7 +16,7 @@ We're genuinely excited to be trying out a brand new space — the newly equippe
               
 After Easter we head into a [Spring/Summer](/current/2014-springsummer) extension, with the third **[Works Ahead](/current/2014-worksahead)**, the second **[Flare Weekender](/current/2014-flare)**, and the fifth **[Hazard](/current/2014-hazard)** takes Manchester city centre by surprise with more random sprees of eccentricity.             
                 
-Really hoping to see you at some of our forthcoming programme; if you want to check out what happened last season, have a look at our [A/W 2013 archive](/archive/2013-autumnwinter).    
+Really hoping to see you at some of our forthcoming programme; if you want to check out what happened last season, have a look at our [S/S 2014 archive](/current/2014-springsummer).    
         
 ####What is Word of Warning and where did it come from?
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of live performance: an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work in Manchester.
