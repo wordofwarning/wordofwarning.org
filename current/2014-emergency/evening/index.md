@@ -1,13 +1,13 @@
 ---
 # CONFIGURATION
-layout: 2013-emergency
+layout: 2014-emergency
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency 2014"
 show: "EVENING: 5pm-11pm"
 artist_size: 1
-show_size: 2
+show_size: 3
 header_image:
 
 # ABOUT THE SHOW - LAYOUT
@@ -28,11 +28,10 @@ Biog
 ![image](image.jpg)              
                    
 ####Venues + Booking Details
-Date: Saturday 4 October 2014, 5-11pm    
+Date: Saturday 4 October 2014, 12noon-11pm    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: FREE no booking required        
 Venue Tel: 0161 232 6089    
-[Venues Map 2013](http://bit.ly/1bFUlqt)       
-
+         
 ####Credits         
 [Emergency 2014](/hab/emergency) is co-produced by [hÅb](/hab), [STUN](http://stunlive.com/) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.
