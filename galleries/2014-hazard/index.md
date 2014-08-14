@@ -30,7 +30,7 @@ gallery:
     -   {file: "nicola1.jpg", artist: "Nicola Canavan", show: "MILK"}
     -   {file: "nicola2.jpg", artist: "Nicola Canavan", show: "MILK"}
     -   {file: "sheehan1.jpg", artist: "Stephen Sheehan", show: "Challenging a Brick"}
-    -   {file: "sheehan1.jpg", artist: "Stephen Sheehan", show: "Challenging a Brick"}
+    -   {file: "sheehan2.jpg", artist: "Stephen Sheehan", show: "Challenging a Brick"}
     -   {file: "nmp3.jpg", artist: "No More Page 3", show: "Hidden Women"}
     -   {file: "palmer.jpg", artist: "Oliver Palmer", show: "Cardboard"}
     -   {file: "keating1.jpg", artist: "Tracy Lumpkin", show: "Perspectives"}
