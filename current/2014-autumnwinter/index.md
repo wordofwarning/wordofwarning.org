@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: 2014-springsummer
+layout: 2014-autumnwinter
 rootpath: "../../"
 is_index: true
 
@@ -14,7 +14,7 @@ In June we return to Z-arts for the second **[Flare Weekender](/current/2014-fla
       
 Alongside resident gamers [The Larks](http://www.the-larks.com), in July, we embark on our fifth bid to take over Manchester's city centre with the ever-irreverent **[Hazard](/current/2014-hazard)** — look out for the tell-tale flashes of yellow and black, coming to a street near you!        
         
-Really hoping to see you at some or all of it; if you want to check out what happened last season, have a look at our [Spring 2014 archive](/archive/2014-spring).    
+Really hoping to see you at some or all of it; if you want to check out what happened last season, have a look at our [Spring/Summer 2014 archive](/current/2014-springsummer).    
         
 ####What is Word of Warning and where did it come from?
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of live performance: an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work in Manchester.
@@ -45,7 +45,7 @@ We don’t want to put you off by talking labels – yes there’ll be theatre, 
 >*Bold and brave programming.*      
        
 ####Who is Word of Warning?         
-My name’s Tamsin Drury and I run an organisation called **[hÅb](/hab)**, which was greenroom’s partner for over a decade. You might not know hÅb but you might know some of our events – like **Emergency** (Manchester’s free marathon of live work with 40 shows in 3 venues) and **Hazard** (random sprees of eccentricity in Manchester's City Centre).
+My name’s Tamsin Drury and I run an organisation called **[hÅb](/hab)**, which was greenroom’s partner for over a decade. You might not know hÅb but you might know some of our events – like **Emergency** (Manchester’s free marathon of live work with up to 40 shows over 3 venues) and **Hazard** (random sprees of eccentricity in Manchester's City Centre).
 
 I’ve been around a while, a really long while… and in that time, I’ve been responsible for making the Arndale Tower flash, wrapping Cathedral Gardens in 7km of hazard tape and encouraging a mass audience conga and a glitter-cannon Hallelujah chorus!    
 
