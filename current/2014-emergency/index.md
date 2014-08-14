@@ -18,7 +18,7 @@ header_image:
 ---
 *Presented by* Word of Warning, STUN + Z-arts          
 
-####Saturday 4 October 2014, 12noon-11pm             
+###Saturday 4 October 2014, 12noon-11pm. Free             
 **Manchester's marathon micro-festival returns for its fifteenth year — the bizarre, the bold + the beautiful dotted around this historic building.**       
           
 Last year we taped performers to windows, played a uniquely guttural rendition of Nessun Dorma and unearthed a viscerally prehistoric woman. This year will be an equally eclectic performance lucky-dip — your chance to sample the different and all for free.         
@@ -30,8 +30,7 @@ Date: Saturday 4 October 2014, 12noon-11pm
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: FREE no booking required        
 Venue Tel: 0161 232 6089    
-[Venues Map](http://bit.ly/1bFUlqt)       
-            
+
 ####What people said about Emergency 2013        
 A review of the work presented at BLANKSPACE by [C. James Fagan](http://confusedguff.blogspot.co.uk/2013/10/emergency-2013.html).        
 A review of some of the work presented at Z-arts by [The Mancunion](http://mancunion.com/2013/10/17/emergency2013).        
