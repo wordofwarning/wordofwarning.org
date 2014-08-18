@@ -80,8 +80,8 @@ A new work choreographed by Peter Grist about the consequences of small actions,
 **Tom Bowes Dance | Imbue**          
 Combining projection and choreographed live movement, *Imbue* follows a female dancer as she enters a metaphorical room; we watch as she explores the room's contents, and familiarises herself with past happenings.      
           
-Choreography: Tom Bowes | Projection: Ethan Duffy | Performance: Jenny Reeves | Sound: *Enter The Host I* by William Fowler Collins, *Passport Control* by The Black Dog, *We Insist* by Zoë Keating, *Not a Number* by Apparat        
-            
+Choreography: Tom Bowes | Projection: Ethan Duffy | Performance: Jenny Reeves      
+                 
 [Website](http://www.tombowesdance.com) | [@tombowesdance](http://twitter.com/tombowesdance) | [Facebook Page](http://www.facebook.com/tombowesdance)        
 ![Tom Bowes Dance](TomBowes2.jpg)    
           
