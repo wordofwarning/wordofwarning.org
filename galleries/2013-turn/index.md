@@ -12,7 +12,7 @@ more_link: Turn 2013
 more_url: "../../archive/2013-turn"
 
 gallery:
-    -   {file: "titlepage.jpg", show: "<small>Images: Bee Mackenzie, Javier Camañas Saéz + Tamsin Drury; copyright &copy;2013 Word of Warning</small>"}
+    -   {file: "titlepage.jpg", show: "<small>Images by Bee Mackenzie, Javier Camañas Saéz + Tamsin Drury: copyright &copy;2013 Word of Warning</small>"}
     -   {file: "platt.jpg", artist: "Rebekka Platt"}
     -   {file: "ashbridge.jpg", artist: "Jo Ashbridge"}
     -   {file: "ajr.jpg", artist: "Adam John Roberts"}
@@ -27,6 +27,6 @@ gallery:
     -   {file: "maelstrom.jpg", artist: "Maelstrom Dance"}
     -   {file: "lansley.jpg", artist: "Emma Lansley"}
     -   {file: "percussive.jpg", artist: "Percussive Customer Projects"}
-    -   {file: "hubbard.jpg", artist: "Joshua Hubbard F*#"!D"}
+    -   {file: "hubbard.jpg", artist: "Joshua Hubbard F*#¿!D"}
 
 ---
