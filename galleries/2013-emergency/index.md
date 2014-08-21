@@ -4,7 +4,7 @@ layout: fullscreengallery
 assetpath: "../../../"
 galleryimagespath: ""
 
-title: "Word of Warning presents Emergency 2013"
+title: "Word of Warning, Blank Media Collective + Z-arts presents Emergency 2013"
 header: <img src="logo.png">
 stylesheet: gallery.css
 
@@ -27,7 +27,7 @@ gallery:
     -   {file: "odonnell.jpg", artist: "Paul O'Donnell"}
     -   {file: "moriaty.jpg", artist: "Manoli Moriaty"}
     -   {file: "smallacts.jpg", artist: "Small Acts"}
-    -   {file: "sheepknuckle.jpg", artist: "Sheep Knuckle"}
+    -   {file: "sheepknuckle.jpg", artist: "SheepKnuckle"}
     -   {file: "voris.jpg", artist: "Voris/Buchanan"} 
     -   {file: "dirtyshade.jpg", artist: "Dirty Shade"}
     -   {file: "lindsay.jpg", artist: "Lindsay Bennett"}
