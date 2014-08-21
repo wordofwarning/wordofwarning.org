@@ -9,10 +9,10 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: Haphazard
-more_url: "../../archive/2013-spring/haphazard/index.html"
+more_url: "../../archive/2013-spring/haphazard"
 
 gallery:
-    -   {file: "titlepage.jpg", show: "A free day out for the curious of all ages, click top left Haphazard for more."}
+    -   {file: "titlepage.jpg", artist: "<small>A free day out for the curious of all ages, click top left Haphazard for more.</small>", show: "<small>Images copyright &copy;2013 Word of Warning"}
     -   {file: "bucket.jpg", artist: "Robert Foster", show: "Bucket Dance"}
     -   {file: "bucket2.jpg", artist: "Robert Foster", show: "Bucket Dance"}
     -   {file: "priya.jpg", artist: "whatsthebigmistry", show: "Ping Pong Crash + Other Sounds"}
