@@ -12,7 +12,7 @@ more_link: Domestic
 more_url: "../../archive/2013-domestic"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "<small>Domestic presented with Guinness Northern Counties, Z-arts + City Response Limited, November 2013</small>", show: "<small>Images copyright &copy;2014 Word of Warning</small>"}
+    -   {file: "titlepage.jpg", artist: "<small>Domestic presented with Guinness Northern Counties, Z-arts + City Response Limited, November 2013</small>", show: "<small>Images copyright &copy;2013 Word of Warning</small>"}
     -   {file: "bradley2.jpg", artist: "Alex Bradley + Scott Smith"}
     -   {file: "smallacts1.jpg", artist: "Small Acts"}
     -   {file: "smallacts2.jpg", artist: "Small Acts"}
