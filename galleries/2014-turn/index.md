@@ -12,7 +12,7 @@ more_link: Turn 2014
 more_url: "../../current/2014-turn"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "Joshua Hubbard F*#¿!D |<small>Images: Tamsin Drury + Afreena Islam</small>"}
+    -   {file: "titlepage.jpg", artist: "Joshua Hubbard F*#¿!D <small>| Images: Tamsin Drury + Afreena Islam</small>"}
     -   {file: "owens.jpg", artist: "Christopher Owen"}
     -   {file: "yihan.jpg", artist: "Yi-Han Wu 吳逸涵 + Oscar South"}
     -   {file: "turner.jpg", artist: "Ellen Turner"}
