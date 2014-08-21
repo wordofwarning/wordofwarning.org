@@ -4,11 +4,11 @@ layout: fullscreengallery
 assetpath: "../../../"
 galleryimagespath: ""
 
-title: "Word of Warning + Z-arts present Haphazard"
+title: "Word of Warning + Z-arts present Haphazard 2013"
 header: <img src="logo.png">
 stylesheet: gallery.css
 
-more_link: Haphazard
+more_link: Haphazard 2013
 more_url: "../../archive/2013-spring/haphazard"
 
 gallery:
