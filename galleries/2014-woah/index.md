@@ -8,9 +8,9 @@ title: "Word of Warning + Contact present Works Ahead 2014"
 header: <img src="logo.png">
 stylesheet: gallery.css
 
-header_url: "../../galleries/index.html"
+header_url: "../../galleries"
 more_link: Works Ahead 2014
-more_url: "../../current/2014-worksahead/index.html"
+more_url: "../../current/2014-worksahead"
 
 gallery:
     -   {file: "titlepage.jpg"}
