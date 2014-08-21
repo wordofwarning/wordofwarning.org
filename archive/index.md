@@ -20,4 +20,4 @@ archived:
     
 ---
 #Archive
-Word of Warning's previous events ordered by season or festival (most recent first).
+Word of Warning's previous events, ordered chronologically by season or festival (recent first).
