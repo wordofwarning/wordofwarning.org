@@ -4,15 +4,15 @@ layout: fullscreengallery
 assetpath: "../../../"
 galleryimagespath: ""
 
-title: "Word of Warning + the Bluecoat present 'Poolside Emergency"
+title: "Word of Warning + the Bluecoat present 'Poolside Emergency 2013"
 header: <img src="logo.png">
 stylesheet: gallery.css
 
-more_link: Poolside Emergency 2013
-more_url: "../../archive/2013-poolside/index.html"
+more_link: 'Poolside Emergency 2013
+more_url: "../../archive/2013-poolside"
 
 gallery:
-    -   {file: "samtreadaway.jpg", show: "Mayhem on Merseyside"}
+    -   {file: "samtreadaway.jpg", artist: "<small>Mayhem on Merseyside</small>", show: "<small>Images copyright &copy;2013 Word of Warning</small>"}
     -   {file: "rosannerobertson.jpg", artist: "Rosanne Robertson"}
     -   {file: "franceskay.jpg", artist: "Frances-Kay"}
     -   {file: "davidbethell.jpg", artist: "David Bethell"}
