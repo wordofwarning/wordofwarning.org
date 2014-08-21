@@ -22,4 +22,4 @@ archived:
 ---
 
 # Galleries     
-Images from hÅb + Word of Warning's previous events, ordered chronologically by season/festival (recent first).
+Images from hÅb + Word of Warning's previous events, ordered chronologically by season or festival (recent first).
