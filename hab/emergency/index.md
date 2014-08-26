@@ -15,7 +15,7 @@ header_image: "header_emergency_photo.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Emergency** is our annual platform for live art + contemporary performance, soon to celebrate its 15th birthday…! 
+**Emergency** is our annual platform for live art + contemporary performance, featuring at least 20 short pieces of work over a day/evening in Manchester, this year celebrating its 15th birthday…! 
              
 Our fifteenth Emergency takes place on Saturday 4 October 2014 (12noon-11pm) at Manchester's [Z-arts](http://www.z-arts.org/about-us/getting-here). To get a feel for it see 2013's [programme](/archive/2013-emergency) + [gallery](/galleries/2013-emergency).           
                
