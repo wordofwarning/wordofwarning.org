@@ -22,11 +22,11 @@ Our fifteenth Emergency takes place on Saturday 4 October 2014 (12noon-11pm) at 
 *Please note: the proposals deadline for Emergency 2014 has now passed.*           
                
 **Emergency is:**    
-● A free, public micro-festival + open submission platform;   
-● An opportunity for artists to meet, show and peer-review work;      
-● A selection event for a number of small [Works Ahead](/hab/worksahead) commissions to be developed + supported by [hÅb](/hab).            
-● Enquiries: <mailto:emergency@habarts.org>        
+ > ● A free, public micro-festival + open submission platform;   
+ ● An opportunity for artists to meet, show and peer-review work;      
+ ● A selection event for a number of small [Works Ahead](/hab/worksahead) commissions to be developed + supported by [hÅb](/hab).            
+ ● Enquiries: <mailto:emergency@habarts.org>        
         
 Emergency 2014 is presented by Word of Warning; produced by hÅb; supported using public funding through Arts Council England and by Manchester City Council, STUN + Z-arts; a greenroom legacy project.        
         
-<http://emergencymcr.org> ~ #EmergencyMcr
+<http://emergencymcr.org> | #EmergencyMcr
