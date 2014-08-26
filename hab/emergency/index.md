@@ -29,4 +29,4 @@ Our fifteenth Emergency takes place on Saturday 4 October 2014 (12noon-11pm) at 
         
 Emergency 2014 is presented by Word of Warning; produced by hÅb; supported using public funding through Arts Council England and by Manchester City Council, STUN + Z-arts; a greenroom legacy project.        
         
-<http://emergencymcr.org> ¦ #EmergencyMcr
+<http://emergencymcr.org> &#124 #EmergencyMcr
