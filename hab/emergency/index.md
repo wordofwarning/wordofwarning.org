@@ -19,6 +19,8 @@ header_image: "header_emergency_photo.jpg"
              
 Our fifteenth Emergency takes place on Saturday 4 October 2014 (12noon-11pm) at [Z-arts](http://www.z-arts.org/about-us/getting-here). To get a feel for it see 2013's [programme](/archive/2013-emergency) + [gallery](/galleries/2013-emergency).           
                
+*Please note: the proposals deadline for Emergency 2014 has now passed.*           
+               
 **Emergency is:**    
 >A free, public micro-festival + open submission platform;   
 >An opportunity for artists to meet, show and peer-review work;      
