@@ -19,9 +19,9 @@ header_image:
 *Presented by* Word of Warning, STUN + Z-arts          
 
 ###Saturday 4 October 2014, 12noon-11pm. Free             
-**Manchester’s marathon micro-festival returns for its fifteenth year, staged for the first time entirely in the cavernous realms of Z-arts… Expect the unexpected as the bizarre, the bold + the beautiful pop up all over this historic building.**      
+**Manchester’s marathon micro-festival returns for its fifteenth year — expect the unexpected as the bizarre, the bold + the beautiful pop up throughout the cavernous realms of Z-arts…**      
                        
-We've previously taped performers to windows, played a uniquely guttural rendition of Nessun Dorma and unearthed a viscerally prehistoric woman… This year will be an equally eclectic performance lucky-dip — your chance to sample the different and all for free.           
+We've previously taped performers to windows, played a uniquely guttural rendition of Nessun Dorma and unearthed a viscerally prehistoric woman… This year's equally eclectic performance lucky-dip is staged entirely within Z-arts for the first time — your chance to sample the different and all for free.           
 
 Drop-in for ten minutes or stay for the full eleven hours — a free day-out for the curious with over twenty new works; featuring artists (subject to change): TBC        
       
