@@ -23,7 +23,8 @@ header_image:
                        
 We've previously taped performers to windows, played a uniquely guttural rendition of Nessun Dorma and unearthed a viscerally prehistoric woman… This year's equally eclectic performance lucky-dip is staged entirely within Z-arts for the first time — your chance to sample the different and all for free.           
 
-Drop-in for ten minutes or stay for the full eleven hours — a free day-out for the curious with over twenty new works; featuring artists (subject to change): Alice Bunker-Whitney ¦ Ana Mendes ¦ Anonymous ¦ Anton Mirto ¦ Barbara Dean ¦ Debbie Sharp ¦ Eik + Orengo ¦ Fatima Ali ¦ FM ¦ Frances-Kay ¦ Hamish MacPherson ¦ Hannah Firth ¦ Hidden Track ¦ Irreverent Sideshows ¦ J. Fergus Evans ¦ Jade Montserrat ¦ Jamil Keating ¦ Jonathan Rogerson ¦ Joshua Boland-Burrell + Liam Byrne ¦ Krissi Musiol ¦ Lydia Cottrell ¦ Martin Hamblen ¦ Matthew Pearce ¦ Nathan Birkinshaw ¦ Odd Comic ¦ Olivia Preye ¦ Paul O'Donnell ¦ Peter Jacobs ¦ Rosanne Robertson ¦ VIA Collective        
+Drop-in for ten minutes or stay for the full eleven hours — a free day-out for the curious with over twenty-five new works; featuring artists (subject to change):            
+Alice Bunker-Whitney ¦ Ana Mendes ¦ Anonymous ¦ Anton Mirto ¦ Barbara Dean ¦ Debbie Sharp ¦ Eik + Orengo ¦ Fatima Ali ¦ FM ¦ Frances-Kay ¦ Hamish MacPherson ¦ Hannah Firth ¦ Hidden Track ¦ Irreverent Sideshows ¦ J. Fergus Evans ¦ Jade Montserrat ¦ Jamil Keating ¦ Jonathan Rogerson ¦ Joshua Boland-Burrell + Liam Byrne ¦ Krissi Musiol ¦ Lydia Cottrell ¦ Martin Hamblen ¦ Matthew Pearce ¦ Nathan Birkinshaw ¦ Odd Comic ¦ Olivia Preye ¦ Paul O'Donnell ¦ Peter Jacobs ¦ Rosanne Robertson ¦ VIA Collective        
       
 ####Venues + Booking Details
 Date: Saturday 4 October 2014, 12noon-11pm    
