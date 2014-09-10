@@ -19,8 +19,7 @@ header_image: "header_.jpg"
 *Presented by* Contact + Word of Warning     
 
 ####In Brief
-*Everything rests on this one free throw. On this one last shot. On these last few seconds.*        
-*Action Hero have got their game faces on.*        
+*Everything rests on this one free throw. On this one last shot. On these last few seconds. Action Hero have got their game faces on.*        
 With a nostalgic yearning for the simplicity of a world that never really existed, *Hoke's Bluff* uses the hackneyed formulas of high-school storylines and the cheap sentimentality of inspiring locker-room speeches to find out what it means to be a winner (on the inside). 
        
 ####Venue + Booking Details    
@@ -39,7 +38,7 @@ With a wistful yearning for a world that never really existed, *Hoke's Bluff* us
 
 *Hoke's Bluff* navigates the curious territory in which our emotional responses to American dreams outweigh our rational understanding of what America (and the Western world) really stands for. By attempting a heartfelt and sincere rendition of schmaltzy, hackneyed underdog sports movies Action Hero gently reveal both the ambient violence and the genuine beauty that hide within these seemingly innocuous cornball stories.
 
-**Hoke's Bluff* came out of The Darkroom, a writing residency we did in January 2012. We were interested in sports psychology writing and trashy American sports films and throughout the course of a two week writing marathon a kind of screenplay for a film emerged. It had characters and a story and being live artists, not playwrights, this felt strange to us. So we tried to stage it to see what happened. On the way we did a road trip across California and drove into the desert. We went to an American football game in Oakland, an Ice Hockey game in Vancouver, and a Basketball game in San Antonio. And we bought a giant wildcat mascot outfit in a fancy dress store in Austin, Texas and carried it home on the plane.*        
+*"*Hoke's Bluff* came out of The Darkroom, a writing residency we did in January 2012. We were interested in sports psychology writing and trashy American sports films and throughout the course of a two week writing marathon a kind of screenplay for a film emerged. It had characters and a story and being live artists, not playwrights, this felt strange to us. So we tried to stage it to see what happened. On the way we did a road trip across California and drove into the desert. We went to an American football game in Oakland, an Ice Hockey game in Vancouver, and a Basketball game in San Antonio. And we bought a giant wildcat mascot outfit in a fancy dress store in Austin, Texas and carried it home on the plane."*        
         
 ####Who are they?    
 Action Hero is the collaboration between Gemma Paintin & James Stenhouse. Living and working in Bristol, they have toured to theatres, bars, galleries and public spaces across five continents and have performed to audiences everywhere from an old cinema in Bangkok, to Shanghai Grand Theatre, to a Satan’s Riders Motorcycle clubhouse in Tasmania, to a blues bar in Texas on the same stage as James Brown (not at the same time).        
