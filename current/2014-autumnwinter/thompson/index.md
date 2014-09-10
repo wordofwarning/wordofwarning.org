@@ -19,7 +19,7 @@ header_image: "header_.jpg"
 *Presented by* The Lowry + Word of Warning      
        
 ####In Brief      
-Glitter, chicken legs and a rice pudding piñata: Selina invites you to her own version of a midnight feast, a cross between the confessions made over coffee at weight watchers, and sloppy drunken story-telling over a 3am kebab. Sitting somewhere between story telling, stand up, live art and theatre, *Chewing The Fat* is a powerful portrayal of how we live with our bodies.      
+Glitter, chicken legs and a rice pudding piñata: Selina invites you to her own version of a midnight feast, a cross between the confessions made over coffee at Weight Watchers, and sloppy drunken story-telling over a 3am kebab. Sitting somewhere between story-telling, stand-up, live art and theatre, *Chewing The Fat* is a powerful portrayal of how we live with our bodies.      
         
 ####Venue + Booking Details    
 Date: Friday 7 November 2014, 8pm     
@@ -32,15 +32,15 @@ The performance lasts approximately 70 minutes with no interval;. Age advisory: 
        
 ####More            
 *FAT! That's what I'm making a show about. My fat. Your fat, maybe. Fat. I've been fat for a long time now, and I thought I was fat, even when I wasn't, and as such, I've been thinking about fat for even longer. So I made a show about it. Our bodies and egos are fragile, our ways of talking about them inadequate, so I can understand that you might not be up for talking about fat for an hour. So I'll make you some promises:*       
-*•I promise to tell the truth;†*        
-*•I promise to make it funny;†*        
-*•I promise you won't get any mess on your nice clothes;†*        
-*•I promise not to talk about anorexia, bulimia, fat acceptance, the beauty myth, feminism, the fashion industry, weight loss, the diet industry, discrepancies between the European ideal of beauty and the Afro-Carribbean ideal of beauty, girls being bitchy to other girls, how men feel about their body, about how you should feel about your body;†*        
-*•I promise that your body is a Wonderland (copyright John Mayer) and so is mine.†*       
+*• I promise to tell the truth† ;*        
+*• I promise to make it funny† ;*        
+*• I promise you won't get any mess on your nice clothes† ;*        
+*• I promise not to talk about anorexia, bulimia, fat acceptance, the beauty myth, feminism, the fashion industry, weight loss, the diet industry, discrepancies between the European ideal of beauty and the Afro-Carribbean ideal of beauty, girls being bitchy to other girls, how men feel about their body, about how you should feel about your body† ;*        
+*• I promise that your body is a Wonderland (copyright John Mayer) and so is mine† .*       
 *†I can't guarantee that any of these promises will be kept.*        
-*p.s. Bring Snacks.*        
+*p.s. Bring snacks.*        
         
-Selina invites you to her own version of a midnight feast: somewhere between the confessions made over coffee at weight watchers, and sloppy drunken story-telling over a 3am kebab. She infuses discussion of complex, life-long issues with weight with laughter, popping balloons and a healthy dose of rice pudding to result in something truly vibrant. Sitting somewhere between story-telling, stand-up, live art and theatre, *Chewing The Fat* is a powerful and extremely open portrayal of how we live with our bodies, on both the days when they are beautiful, and the days when they are a burden.          
+Selina invites you to her own version of a midnight feast: somewhere between the confessions made over coffee at Weight Watchers, and sloppy drunken story-telling over a 3am kebab. She infuses discussion of complex, life-long issues with weight with laughter, popping balloons and a healthy dose of rice pudding to result in something truly vibrant. Sitting somewhere between story-telling, stand-up, live art and theatre, *Chewing The Fat* is a powerful and extremely open portrayal of how we live with our bodies, on both the days when they are beautiful, and the days when they are a burden.          
              
 ####Who is she?    
 Selina Thompson is a 22-year-old performance artist based in Leeds. She seeks to create work that leaves the audience feeling brave and optimistic, even if she has to reveal things that are painful in order to do this. She has performed in a variety of contexts, including the SPILL international platform for performing arts in Ipswich and in London. Described as a ‘one man band’ by her mother, Selina is a performer, theatre-maker and artist whose work is joyous, participatory and centred around ideas of change.       
