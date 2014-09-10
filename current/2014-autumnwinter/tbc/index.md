@@ -5,7 +5,7 @@ layout: 2014-autumnwinter
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "tbc" # the name of the artist or company
+artist: "Michael Pinchbeck tbc" # the name of the artist or company
 show: "tbc" # the name of the show
 artist_size: 1
 show_size: 2
@@ -24,7 +24,7 @@ tbc
           
 ####Venue + Booking Details    
 Date: Friday 28 November 2014, tbcpm   
-[Venue: STUN Studio at Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
+[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
 [Tickets: £tbc](http://) | Please note there is a limited capacity.            
 Box Office Tel: 0161 232 6089 tbc  
         
@@ -32,7 +32,7 @@ Box Office Tel: 0161 232 6089 tbc
 The performances will last approximately . Age advisory: tbc      
       
 
-####Who is she?    
+####Who is he?    
 
 ####What people have said about her    
 >*blah*<br>blah    
