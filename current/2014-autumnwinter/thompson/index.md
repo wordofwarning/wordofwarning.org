@@ -46,10 +46,10 @@ Selina invites you to her own version of a midnight feast: somewhere between the
 Selina Thompson is a 22-year-old performance artist based in Leeds. She seeks to create work that leaves the audience feeling brave and optimistic, even if she has to reveal things that are painful in order to do this. She has performed in a variety of contexts, including the SPILL international platform for performing arts in Ipswich and in London. Described as a ‘one man band’ by her mother, Selina is a performer, theatre-maker and artist whose work is joyous, participatory and centred around ideas of change.       
         
 ####What people have said about her         
->4\* a credible and slick piece of work, by turns disconcerting and uplifting.<br>Paul Couch, The Public Reviews        
+>*4\* … a credible and slick piece of work, by turns disconcerting and uplifting.*<br>Paul Couch, The Public Reviews        
         
 ####Credits    
 Supported using public funding by the National Lottery through Arts Council England. Originally developed with support from Theatre in the Mill (Bradford), ARC (Stockton) and West Yorkshire Playhouse (Leeds).        
           
 ####Websites        
-[www.selinathompson.co.uk/](http://www.selinathompson.co.uk) ¦ [@SelinaNThompson](http://twitter.com/SelinaNThompson)
+[www.selinathompson.co.uk](http://www.selinathompson.co.uk) ¦ [@SelinaNThompson](http://twitter.com/SelinaNThompson)
