@@ -31,16 +31,26 @@ Box Office Tel: 0161 274 0600
 The performance lasts approximately xx minutes with no interval; tbc. Age advisory: suitable for all.        
          
 ####More            
-The shw is copy.       
-       
+A show that tells a story in order to reflect on what stories are and what they mean to us.        
+        
+With a wistful yearning for a world that never really existed, Hoke’s Bluff uses high school storylines, inspiring locker room speeches and sentimentality to tell an underdog story that’s been told a million times before. Shifting and re-arranging the trite conventions and narratives of American teen movies we talk about what it means to be a winner (on the inside).
+
+Hoke’s Bluff navigates the curious territory in which our emotional responses to American dreams outweigh our rational understanding of what America (and the Western world) really stands for. By attempting a heartfelt and sincere rendition of schmaltzy, hackneyed underdog sports movies we gently reveal both the ambient violence and the genuine beauty that hide within these seemingly innocuous cornball stories.
+
+Hoke’s Bluff came out of The Darkroom, a writing residency we did in January 2012. We were interested in sports psychology writing and trashy American sports films and throughout the course of a two week writing marathon a kind of screenplay for a film emerged. It had characters and a story and being live artists, not playwrights, this felt strange to us. So we tried to stage it to see what happened. On the way we did a road trip across California and drove into the desert. We went to an American football game in Oakland, an Ice Hockey game in Vancouver, and a Basketball game in San Antonio. And we bought a giant wildcat mascot outfit in a fancy dress store in Austin, Texas and carried it home on the plane.        
+        
 ####Who are they?    
-Action Hero are biog.
-             
+Action Hero is the collaboration between Gemma Paintin & James Stenhouse. Living and working in Bristol, they have toured to theatres, bars, galleries and public spaces across five continents and have performed to audiences everywhere from an old cinema in Bangkok, to Shanghai Grand Theatre, to a Satan’s Riders Motorcycle clubhouse in Tasmania, to a blues bar in Texas on the same stage as James Brown (not at the same time).        
+        
+Exploring the epic and the banal, they create performance that is intimate, distinctive and invigorating. Their ongoing interests lie in the iconography of popular culture and its use; both as a weapon and as a shared cultural memory.        
+        
 ####What people have said about them     
 >*…see why this maverick company, with its engaging DIY aesthetic, is attracting so much attention.*<br>Lyn Gardner, The Guardian        
-                     
+>*The key to this show’s success is that it is all done with love. A very clever piece of theatre; a cracking night out.*<br>Total Theatre        
+        
 ####Credits    
 Co-produced by China Plate + Warwick Arts Centre. Co-commissioned by Bristol Old Vic Ferment. Supported using public funding by the National Lottery through Arts Council England. Action Hero are supported by Theatre Bristol’s Company Producer.         
     
 ####Websites        
-[www.actionhero.org.uk](http://www.actionhero.org.uk) | [@Actionherolive](http://twitter.com/Actionherolive) | #hokesbluff
+[www.actionhero.org.uk](http://www.actionhero.org.uk) ¦ <http://teamspiritwildcats.wordpress.com>        
+[@Actionherolive](http://twitter.com/Actionherolive) ¦ [@HBwildcat](http://twitter.com/HBwildcat) ¦ #hokesbluff
