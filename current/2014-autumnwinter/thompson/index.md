@@ -23,7 +23,7 @@ Glitter, chicken legs and a rice pudding piñata: Selina invites you to her own 
         
 ####Venue + Booking Details    
 Date: Friday 7 November 2014, 8pm     
-[Venue: The Lowry – Studio](http://www.thelowry.com/plan-your-visit/getting-here), Pier 8, Salford Quays, M50 3AZ    
+[Venue: The Lowry Studio](http://www.thelowry.com/plan-your-visit/getting-here), Pier 8, Salford Quays, M50 3AZ    
 [Tickets: £12/10](http://www.thelowry.com/event/chewing-the-fat)        
 Box Office Tel: 0843 208 6000        
         
