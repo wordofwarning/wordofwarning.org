@@ -26,4 +26,4 @@ Our **[sixth Turn](/archive/2014-turn)** took place on Friday 4 + Saturday 5 Apr
         
 Enquiries: <mailto:turn@habarts.org> ¦ <http://www.turnmcr.org> ¦ #TurnMcr        
         
-Turn 2014 was a hÅb, Contact, Dance Manchester, Live at LICA co-production; supported using public funding through Arts Council England + funded by Manchester City Council; a greenroom legacy project.
+Turn 2014 was presented by Word of Warning + Contact; co-produced by hÅb, Contact, Dance Manchester + Live at LICA; supported using public funding through Arts Council England + funded by Manchester City Council; a greenroom legacy project.
