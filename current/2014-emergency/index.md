@@ -23,7 +23,8 @@ header_image:
                        
 We've previously taped performers to windows, played a uniquely guttural rendition of Nessun Dorma and unearthed a viscerally prehistoric woman… This year's equally eclectic performance lucky-dip is staged entirely within Z-arts for the first time — your chance to sample the different and all for free.           
 
-Drop-in for ten minutes or stay for the full eleven hours — a free day-out for the curious with over twenty-five new works; featuring artists (*subject to change*):            
+Drop-in for ten minutes or stay for the full eleven hours — a free day-out for the curious with over twenty-five new works, featuring(*participating artists subject to changee*):        
+        
 Alice Bunker-Whitney ¦ Ana Mendes ¦ Anton Mirto ¦ Art Of Disappearing ¦ Barbara Dean ¦ Boland-Burrell + Byrne ¦ Debbie Sharp ¦ Eik + Orengo ¦ FM ¦ Frances-Kay ¦ Hamish MacPherson ¦ Hidden Track ¦ J. Fergus Evans ¦ Jade Montserrat ¦ Jamil Keating ¦ Jonathan Rogerson ¦ Krissi Musiol ¦ Lydia Cottrell ¦ Martin Hamblen ¦ Matthew Pearce ¦ Nathan Birkinshaw ¦ Neil Callaghan ¦ Odd Comic ¦ Olivia Preye ¦ Paul O'Donnell ¦ Peter Jacobs ¦ Rosanne Robertson ¦ VIA Collective        
       
 ####Venues + Booking Details
@@ -41,4 +42,7 @@ Emergency 2014 takes place in a number of different spaces and formats — some 
 For specific age and access information please see the programme notes, email <mailto:info@habarts.org> or call 0161 232 6086.    
             
 ####Credits         
-[Emergency](/hab/emergency) 2014 is produced by [hÅb](/hab); supported using public funding through Arts Council England, funded by Manchester City Council, supported by [STUN](http://stunlive.com) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.
+[Emergency](/hab/emergency) 2014 is produced by [hÅb](/hab); supported using public funding through Arts Council England, funded by Manchester City Council, supported by [STUN](http://stunlive.com) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.        
+        
+####Websites
+<http://emergencymcr.org> ¦ #EmergencyMcr
