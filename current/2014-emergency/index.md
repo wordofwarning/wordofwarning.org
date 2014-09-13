@@ -23,7 +23,7 @@ header_image:
                        
 We've previously taped performers to windows, played a uniquely guttural rendition of Nessun Dorma and unearthed a viscerally prehistoric woman… This year's equally eclectic performance lucky-dip is staged entirely within Z-arts for the first time — your chance to sample the different and all for free.           
 
-Drop-in for ten minutes or stay for the full eleven hours — a free day-out for the curious with over twenty-five new works, featuring(*participating artists subject to changee*):        
+Drop-in for ten minutes or stay for the full eleven hours — a free day-out for the curious with over 25 new works, featuring (*participating artists subject to changee*):        
         
 Alice Bunker-Whitney ¦ Ana Mendes ¦ Anton Mirto ¦ Art Of Disappearing ¦ Barbara Dean ¦ Boland-Burrell + Byrne ¦ Debbie Sharp ¦ Eik + Orengo ¦ FM ¦ Frances-Kay ¦ Hamish MacPherson ¦ Hidden Track ¦ J. Fergus Evans ¦ Jade Montserrat ¦ Jamil Keating ¦ Jonathan Rogerson ¦ Krissi Musiol ¦ Lydia Cottrell ¦ Martin Hamblen ¦ Matthew Pearce ¦ Nathan Birkinshaw ¦ Neil Callaghan ¦ Odd Comic ¦ Olivia Preye ¦ Paul O'Donnell ¦ Peter Jacobs ¦ Rosanne Robertson ¦ VIA Collective        
       
