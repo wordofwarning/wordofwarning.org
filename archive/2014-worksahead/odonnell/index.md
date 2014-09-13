@@ -25,7 +25,7 @@ Paul needs adoration, approval and, above all, applause. You WILL clap, you WILL
 ####Venue + Booking Details, for Works Ahead
 Dates: Thursday 8 + Friday 9 May 2014, 7.30pm    
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
-[Tickets: £6/3](http://contactmcr.com/whats-on/13071-works-ahead-2014/booking) | Special offer: buy ten tickets, get one free       
+[Tickets: £6/3](http://contactmcr.com/whats-on/13071-works-ahead-2014/booking) ¦ Special offer: buy ten tickets, get one free       
 Box Office Tel: 0161 274 0600        
 *The same programme is presented each evening, there is no two night pass.*        
        
@@ -45,6 +45,6 @@ Paul is a solo artist/deviser whose previous credits include solo performances *
 Commissioned by hÅb, co-produced by Contact, a greenroom legacy project.
        
 ####Websites
-<http://podonnell6.wordpress.com> | [@podonnell2](http://twitter.com/podonnell2)    
+<http://podonnell6.wordpress.com> ¦ [@podonnell2](http://twitter.com/podonnell2)    
 
 ![Nothing!](odonnell2.jpg)    
