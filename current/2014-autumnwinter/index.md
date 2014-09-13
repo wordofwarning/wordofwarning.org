@@ -6,15 +6,13 @@ rootpath: "../../"
 is_index: true
 
 ---
-This short summer extension to [Spring 2014](/archive/2014-spring) sees a triple-headed delve into performance psyches, a flash of international talent, and a hit-and-run incursion into the daily life of our city centre.    
-                
-Rounding off our spring sojourn at Contact in May is the third **[Works Ahead](/current/2014-worksahead)**, with a trio of new works-in-development from young artists [SheepKnuckle](/current/2014-worksahead/sheepknuckle), [Lindsay Bennett](/current/2014-worksahead/bennett) + [Paul O’Donnell](/current/2014-worksahead/odonnell). Through grand entrances and dramatic exits, constant approval seeking and extreme efforts to avoid the stage, Works Ahead delves into the mindset of the performer.     
-   
-In June we return to Z-arts for the second **[Flare Weekender](/current/2014-flare)** — two days of performance by new international theatre-makers from Belgium, Norway, the Netherlands, Spain and the UK, featuring guest perfomances of Leentje Van de Cruys's *Kitsch’n Sync* (last seen at [Domestic](/archive/2013-domestic/vandecruys)).       
-      
-Alongside resident gamers [The Larks](http://www.the-larks.com), in July, we embark on our fifth bid to take over Manchester's city centre with the ever-irreverent **[Hazard](/current/2014-hazard)** — look out for the tell-tale flashes of yellow and black, coming to a street near you!        
+This Autumn begins with our fifteenth **[Emergency](/current/2014-emergency)** micro-festival, staged for the first time entirely throughout the cavernous realms of Z-arts, including the new STUN Studio… A free day-out for the curious, 2014's marathon features at least 25 short pieces of work — drop-in for ten minutes or stay for the full eleven hours.        
         
-Really hoping to see you at some or all of it; if you want to check out what happened last season, have a look at our [Spring/Summer 2014 archive](/current/2014-springsummer).    
+Old friends [Action Hero](/current/2014-autumnwinter/actionhero) (last [seen](/archive/2012-autumnwinter/goproject) 2 years ago at Gorilla) find out what it means to be a winner at Contact in a wistful yearning for a world that never really existed — using high school storylines, inspiring locker room speeches and cheap sentimentality to tell an underdog story that’s been told a million times before.        
+        
+Glitter, chicken legs and a rice pudding piñata return us to The Lowry Studio in a powerful portrayal of how we live with our bodies — [Selina Thompson](/current/2014-autumnwinter/thompson) invites us to her own version of a midnight feast, somewhere between confessions made over coffee at Weight Watchers, and sloppy drunken story-telling over a 3am kebab.        
+        
+We look forward to seeing you at some or all of it; if you want to check out what happened last season, have a look at our [Spring/Summer 2014 archive](/archive/2014-springsummer).        
         
 ####What is Word of Warning and where did it come from?
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of live performance: an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work in Manchester.
