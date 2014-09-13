@@ -17,13 +17,14 @@ header_image: "header_turn_photo.jpg"
 ---
 **Turn** is our annual platform for NW dancers + dance-makers, featuring up to 17 short pieces of work over two nights in Manchester.       
        
-Our [sixth Turn](/current/2014-turn) took place on Friday 4 + Saturday 5 April 2014, at Contact. To get a feel for it see 2014's [programme](/current/2014-turn) + [image gallery](/galleries/2014-turn).       
+Our **[sixth Turn](/archive/2014-turn)** took place on Friday 4 + Saturday 5 April 2014, at Contact. To get a feel for it see 2014's [programme](/archive/2014-turn) + [image gallery](/galleries/2014-turn).       
        
 **Turn is:**        
 >a public micro-festival + open submission dance platform;        
 >an opportunity for artists to meet, show and peer-review work;        
->a selection platform for the Turn Prize (*a small, supported commission, supported by Dance Manchester, Contact, hÅb, Live at LICA*).        
+>a selection platform for the Turn Prize (*a small, supported commission, supported by Dance Manchester, Contact, hÅb + Live at LICA*).        
         
 Enquiries: <mailto:turn@habarts.org>        
         
-Turn 2014 is a hÅb, Contact, Dance Manchester, Live at LICA co-production + a greenroom legacy project. [www.turnmcr.org](http://www.turnmcr.org) | #TurnMcr
+Turn 2014 is a hÅb, Contact, Dance Manchester, Live at LICA co-production + a greenroom legacy project.        
+<http://www.turnmcr.org> ¦ #TurnMcr
