@@ -20,7 +20,7 @@ Tickets: [£5/3 Saturday 1pm](http://www.z-arts.org/events/flare-2014-sat-aftern
 Box Office Tel: 0161 232 6089    
 
 ####Order of Appearance (subject to change)      
-**Drunken Chorus (UK) ¦ *Just Like Larry Walters ***        
+**Drunken Chorus (UK) ¦ *Just Like Larry Walters * **        
 *In 1982, Larry Walters tied 45 helium balloons to his garden chair, and flew up into the sky. We want you to imagine that. We want you to close your eyes and hold on tight, as you drift up… over the city… over deserts… over jungles… over mountains…*        
                
 Through tales of human endeavour, dance routines, and songs from *The Greatest Ever Party Album*, Drunken Chorus try to piece together something magical; only to find themselves surrounded by half-inflated party balloons, scraps of rubber and burst bubbles. An early version was seen at Z-arts during [Emergency 2013](/archive/2013-emergency/z2).             
