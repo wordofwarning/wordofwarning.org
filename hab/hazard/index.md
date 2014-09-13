@@ -19,8 +19,8 @@ header_image: "header_2012_hazard.jpg"
         
 Our **[fifth Hazard](/archive/2014-hazard)** popped up in Manchester's [St Ann's Square](http://bit.ly/1wrGmvW) and surrounding streets on Saturday 12 July 2014, see some [images](/galleries/2014-hazard). For a glimpse of previous outbreaks of hazardous behaviour see 2012's [programme](/archive/2012-hazard) + [image gallery](/galleries/2012-hazard).         
               
-So far we’ve wrapped Cathedral Gardens in fluttering hazard tape, pitted together a lion and a unicorn, moved the goalposts (literally) and witnessed flat packed children take over the streets of Manchester — oh, and conducted a hoola-hoopathon; The Larks had the public riddling, racing and chasing as urban archaeologists and private investigators, injecting mass gaming into St Ann’s Square and beyond.       
+So far we've wrapped Cathedral Gardens in fluttering hazard tape, pitted together a lion and a unicorn, moved the goalposts (literally) and witnessed flat packed children take over the streets of Manchester — oh, and conducted a hoola-hoopathon; The Larks had the public riddling, racing and chasing as urban archaeologists and private investigators, injecting mass gaming into St Ann's Square and beyond.       
                  
 Enquiries: <mailto:hazard@habarts.org> ¦ <http://hazardmcr.org> ¦ #HazardMcr       
           
-Hazard 2014 was produced by hÅb + The Larks in collaboration with the participating artists; supported using public funding through Arts Council England, funded by Manchester City Council, supported by Royal Exchange Theatre; a greenroom legacy project.
+Hazard 2014 was presented by Word of Warning; produced by hÅb + The Larks in collaboration with the participating artists; supported using public funding through Arts Council England, funded by Manchester City Council, supported by Royal Exchange Theatre; a greenroom legacy project.
