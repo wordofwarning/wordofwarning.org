@@ -33,18 +33,18 @@ Box Office Tel: 0161 232 6089
 Returning to Manchester's Z-arts, The Flare Weekender 2014 offers a glimpse of where the cutting edge of theatre might be heading in the future, with artists from Amsterdam, Barcelona, Bergen, Bristol, London, Manchester + Utrecht.        
           
 Accompanied by live music, artist's forum, workshop and closing party, the 2014 Weekender presents two evenings and an afternoon of performance…       
-[Almost Human (Netherlands/UK)](/current/2014-flare/sat7) | *A Grindhouse Dante*                         
-[Anna Fenemore (UK)](/current/2014-flare/sat1) | *Biography, Autobiography and Lies* (workshop)           
-[Drunken Chorus (UK)](/current/2014-flare/sat1) | *Just Like Larry Walters*                    
-[El Conde De Torrefiel (Spain)](/current/2014-flare/fri) | *Guerrilla*                 
-[Hannah Sullivan (UK)](/current/2014-flare/sat7) | *Echo Beach*               
-[Hester Chillingworth + Tim Etchells (UK)](/current/2014-flare/sat7) | *Borrowed Time* (guest video piece)       
-[Leentje Van de Cruys (Belgium/UK)](/current/2014-flare/sat1) | *Kitsch'n Sync* (limited capacity)                
-[Marius Mensink (Netherlands)](/current/2014-flare/sat7) | *Mick Jagger is my nightmare*       
-[Moeremans&Sons (Netherlands)](/current/2014-flare/sat7) | *My Own Private Disaster*                     
-[SheepKnuckle (UK)](/current/2014-flare/fri) | *A Brave and Startling Truth*               
-[Walk of Shame (Norway)](/current/2014-flare/sat7) | *I Saw the Sign (Oooo is enough enough)*                  
-[Wies Fest (Netherlands)](/current/2014-flare/fri) | *A whole lot of nothing*                
+[Almost Human (Netherlands/UK)](/archive/2014-flare/sat7) ¦ *A Grindhouse Dante*                         
+[Anna Fenemore (UK)](/archive/2014-flare/sat1) ¦ *Biography, Autobiography and Lies* (workshop)           
+[Drunken Chorus (UK)](/archive/2014-flare/sat1) ¦ *Just Like Larry Walters*                    
+[El Conde De Torrefiel (Spain)](/archive/2014-flare/fri) ¦ *Guerrilla*                 
+[Hannah Sullivan (UK)](/archive/2014-flare/sat7) ¦ *Echo Beach*               
+[Hester Chillingworth + Tim Etchells (UK)](/archive/2014-flare/sat7) ¦ *Borrowed Time* (guest video piece)       
+[Leentje Van de Cruys (Belgium/UK)](/archive/2014-flare/sat1) ¦ *Kitsch'n Sync* (limited capacity)                
+[Marius Mensink (Netherlands)](/archive/2014-flare/sat7) ¦ *Mick Jagger is my nightmare*       
+[Moeremans&Sons (Netherlands)](/archive/2014-flare/sat7) ¦ *My Own Private Disaster*                     
+[SheepKnuckle (UK)](/archive/2014-flare/fri) ¦ *A Brave and Startling Truth*               
+[Walk of Shame (Norway)](/archive/2014-flare/sat7) ¦ *I Saw the Sign (Oooo is enough enough)*                  
+[Wies Fest (Netherlands)](/archive/2014-flare/fri) ¦ *A whole lot of nothing*                
          
 To get a feel for The Flare Weekender see 2012's [programme](/archive/2012-springsummer/flare).      
                            
@@ -52,4 +52,4 @@ To get a feel for The Flare Weekender see 2012's [programme](/archive/2012-sprin
 Produced by Flare with hÅb; hosted by Z-arts; supported using public funding by the National Lottery through Arts Council England, supported by Manchester Metropolitan University Cheshire + University of Salford.          
         
 ####Websites           
-[www.flarefestival.com](http://www.flarefestival.com) | [@flarefestival](http://twitter.com/flarefestival)
+[www.flarefestival.com](http://www.flarefestival.com) ¦ [@flarefestival](http://twitter.com/flarefestival)
