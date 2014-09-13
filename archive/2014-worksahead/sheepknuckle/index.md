@@ -25,7 +25,7 @@ SheepKnuckle are two young men going to extraordinary lengths to avoid being ons
 ####Venue + Booking Details, for Works Ahead
 Dates: Thursday 8 + Friday 9 May 2014, 7.30pm    
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
-[Tickets: £6/3](http://contactmcr.com/whats-on/13071-works-ahead-2014/booking) | Special offer: buy ten tickets, get one free       
+[Tickets: £6/3](http://contactmcr.com/whats-on/13071-works-ahead-2014/booking) ¦ Special offer: buy ten tickets, get one free       
 Box Office Tel: 0161 274 0600        
 *The same programme is presented each evening, there is no two night pass.*        
        
@@ -37,8 +37,9 @@ SheepKnuckle are two young men going to extraordinary lengths to avoid being ons
 
 In this celebration of collective performance anxiety, they cede centre stage to an audience-turned-performer, to become remote whispering guides through an intimate conversation and a performance of the everyday.    
  
-*Echo* is a love story you have already heard but are yet to take part in...    
+*Echo* is a love story you have already heard but are yet to take part in…    
 ![Echo](sheep1.jpg)    
+        
 ####Who are they?    
 SheepKnuckle are James Monaghan + Padraig Confrey, who make work that manifests itself often as an experiment; who are interested in using interactive media and ‘the self’ to challenge and de-construct traditional dramaturgy. They met at Salford University in their first year and have been in love ever since.     
         
@@ -46,4 +47,4 @@ SheepKnuckle are James Monaghan + Padraig Confrey, who make work that manifests 
 Commissioned by hÅb, co-produced by Contact, a greenroom legacy project.        
         
 ####Websites
-<http://sheepknuckle.tumblr.com> | [@SheepKnuckle](http://twitter.com/SheepKnuckle)
+<http://sheepknuckle.tumblr.com> ¦ [@SheepKnuckle](http://twitter.com/SheepKnuckle)
