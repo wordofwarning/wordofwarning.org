@@ -23,8 +23,7 @@ For 2013 we presented a whirlwind of work from artists including Lowri Evans, He
 
 >*Curated by the ever-impressive Word Of Warning, Domestic consists of seven offbeat shows staged in a 1970s tower block in Hulme.*<br>[The Guardian's Lyn Gardner, on Domestic](http://www.theguardian.com/stage/2013/nov/02/this-weeks-theatre)
         
-####Who’s it for?
-**Anyone looking for a different night out.**    
+####Who’s it for? Anyone looking for a different night (or day) out.    
 
 We don’t want to put you off by talking labels – yes there’ll be theatre, live art, dance – the aim is to be anything but elitist or po-faced. So if you like comedy, music, gaming or just a friendly, stimulating evening – there’ll be something you might want to take a chance on.    
 
