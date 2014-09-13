@@ -21,7 +21,6 @@ Our **[fifth Hazard](/archive/2014-hazard)** popped up in Manchester's [St Ann's
               
 So far we’ve wrapped Cathedral Gardens in fluttering hazard tape, pitted together a lion and a unicorn, moved the goalposts (literally) and witnessed flat packed children take over the streets of Manchester — oh, and conducted a hoola-hoopathon; The Larks had the public riddling, racing and chasing as urban archaeologists and private investigators, injecting mass gaming into St Ann’s Square and beyond.       
                  
-Enquiries: <mailto:hazard@habarts.org>       
+Enquiries: <mailto:hazard@habarts.org> ¦ <http://hazardmcr.org> ¦ #HazardMcr       
           
-Hazard 2014 was produced by hÅb + The Larks in collaboration with the participating artists; supported by Royal Exchange Theatre; a greenroom legacy project.        
-<http://hazardmcr.org> ¦ #HazardMcr
+Hazard 2014 was produced by hÅb + The Larks in collaboration with the participating artists; supported by Royal Exchange Theatre; a greenroom legacy project.
