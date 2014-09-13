@@ -24,24 +24,24 @@ Our annual sampler of what's next in contemporary performance and live art — p
         
 *The houselights dim, the audience goes quiet — and there you are… transfixed in a spotlight…*       
           
-[Lindsay Bennett](/current/2014-worksahead/bennett) | Exit Smiling        
-[Paul O'Donnell](/current/2014-worksahead/odonnell) | Nothing!       
-[SheepKnuckle](/current/2014-worksahead/sheepknuckle) | Echo     
+[Lindsay Bennett](/archive/2014-worksahead/bennett) ¦ *Exit Smiling*        
+[Paul O'Donnell](/archive/2014-worksahead/odonnell) ¦ *Nothing!*       
+[SheepKnuckle](/archive/2014-worksahead/sheepknuckle) ¦ *Echo*     
             
-To get a feel for Works Ahead see 2013’s [programme](/archive/2013-worksahead) + [image gallery](/galleries/2013-woah).     
+Now it’s all over, see works Ahead 2014's [image gallery](/galleries/2014-woah).     
               
 ####Venue + Booking Details
 Dates: Thursday 8 + Friday 9 May 2014, 7.30pm    
-[Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
-[Tickets: £6/3](http://contactmcr.com/whats-on/13071-works-ahead-2014/booking) | Special offer: buy ten tickets, get one free      
+[Venue: Contact](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA    
+[Tickets: £6/3](http://contactmcr.com/whats-on/13071-works-ahead-2014/booking) ¦ Special offer: buy ten tickets, get one free      
 Box Office Tel: 0161 274 0600       
 *The same programme is presented each evening, there is no two night pass.*       
         
-####What people said about Works Ahead 2013      
+####What people said about [Works Ahead 2013](/archive/2013-worksahead)      
 >*I really like these different performances. It was interesting: funny, embarrassing, crazy, emotional, fragile…*     
 >*I enjoyed the diversity of the programme. Each piece was stimulating, engaging + theatrical.*     
 >*This is a good event for people wanting to experiment with an open-minded audience.*     
-Two 4* reviews of 2013's first night are [here](http://www.whatsonstage.com/blackpool-theatre/reviews/05-2013/works-ahead-manchester_316.html) + [here](http://thegoodreview.co.uk/2013/05/works-ahead-the-contact-theatre-manchester/).    
+Two 4* reviews of 2013's first night are [here](http://www.whatsonstage.com/blackpool-theatre/reviews/05-2013/works-ahead-manchester_316.html) + [here](http://thegoodreview.co.uk/2013/05/works-ahead-the-contact-theatre-manchester).    
         
 ####Credits         
 Commissioned by hÅb, co-produced by Contact, a greenroom legacy project.
