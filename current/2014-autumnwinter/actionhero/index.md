@@ -20,6 +20,7 @@ header_image:
 
 ####In Brief
 *Everything rests on this one free throw. On this one last shot. On these last few seconds. Action Hero have got their game faces on.*        
+          
 With a nostalgic yearning for the simplicity of a world that never really existed, *Hoke's Bluff* uses the hackneyed formulas of high-school storylines and the cheap sentimentality of inspiring locker-room speeches to find out what it means to be a winner (on the inside). 
        
 ####Venue + Booking Details    
