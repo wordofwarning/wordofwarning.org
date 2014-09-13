@@ -31,7 +31,9 @@ Box Office Tel: 0843 208 6000
 The performance lasts approximately 70 minutes with no interval;. Age advisory: 14+        
        
 ####More            
-*FAT! That's what I'm making a show about. My fat. Your fat, maybe. Fat. I've been fat for a long time now, and I thought I was fat, even when I wasn't, and as such, I've been thinking about fat for even longer. So I made a show about it. Our bodies and egos are fragile, our ways of talking about them inadequate, so I can understand that you might not be up for talking about fat for an hour. So I'll make you some promises:*       
+*FAT! That's what I'm making a show about. My fat. Your fat, maybe. Fat. I've been fat for a long time now, and I thought I was fat, even when I wasn't, and as such, I've been thinking about fat for even longer. So I made a show about it. Our bodies and egos are fragile, our ways of talking about them inadequate, so I can understand that you might not be up for talking about fat for an hour.*        
+        
+*So I'll make you some promises:*       
 *• I promise to tell the truth†;*        
 *• I promise to make it funny†;*        
 *• I promise you won't get any mess on your nice clothes†;*        
