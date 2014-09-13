@@ -47,4 +47,7 @@ A documentary film about Tom Bowes Dance performing [*Brute* in Turn 2013](http:
 A preview of Turn 2014 by [Manchester Wire](http://manchesterwire.co.uk/#!/turn-danceworks-micro-fest-at-contact)       
         
 ####Credits         
-Co-produced by hÅb, Contact, Dance Manchester + Live at LICA; a greenroom legacy project.
+Co-produced by hÅb, Contact, Dance Manchester + Live at LICA; a greenroom legacy project.        
+        
+####Websites        
+<http://turnmcr.org> ¦ #TurnMcr
