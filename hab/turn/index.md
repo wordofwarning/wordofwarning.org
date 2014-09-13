@@ -22,7 +22,7 @@ Our **[sixth Turn](/archive/2014-turn)** took place on Friday 4 + Saturday 5 Apr
 **Turn is:**        
 • a public micro-festival + open submission dance platform;        
 • an opportunity for artists to meet, show and peer-review work;        
-• a selection platform for the Turn Prize (*a small, supported commission, supported by Dance Manchester, Contact, hÅb + Live at LICA*);         
+• a selection platform for the Turn Prize (*a small, supported commission, supported by Dance Manchester, Contact, hÅb + Live at LICA*).         
         
 Enquiries: <mailto:turn@habarts.org> ¦ <http://www.turnmcr.org> ¦ #TurnMcr        
         
