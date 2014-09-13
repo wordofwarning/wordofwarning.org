@@ -6,7 +6,7 @@ rootpath: "../../"
 is_index: true
 
 ---
-This Autumn begins with our **[15th Emergency](/current/2014-emergency)** micro-festival, staged for the first time entirely throughout the cavernous realms of Z-arts including the new STUN Studio. A free day-out for the curious, 2014's marathon features 28 (or more!) pieces of work… drop-in for ten minutes or stay for the full eleven hours.        
+Autumn begins with our **[fifteenth Emergency](/current/2014-emergency)** micro-festival, staged for the first time entirely throughout the cavernous realms of Z-arts including the new STUN Studio. A free day-out for the curious, 2014's marathon features 28 (or more!) new works… drop-in for ten minutes or stay for the full eleven hours.        
         
 Old friends [Action Hero](/current/2014-autumnwinter/actionhero) (last seen [2 years ago](/archive/2012-autumnwinter/goproject)) find out what it means to be a winner at Contact in a wistful yearning for a world that never really existed — high school storylines, inspiring locker room speeches and cheap sentimentality tell us an underdog story that's been told a million times before.        
         
