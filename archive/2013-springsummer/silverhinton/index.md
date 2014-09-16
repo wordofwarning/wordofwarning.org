@@ -29,7 +29,7 @@ Date: Friday 26 April 2013, 7.30pm (Double Bill)
 Box Office Tel: 0161 232 6089     
         
 ##Stuart Silver    
-####More    
+####More        
 Stuart Silver presents his ‘Big Picture’ monologue on getting perspective. A philosophical almost-narrative of perilous received wisdoms and long-distance ambitions. With ukulele when you least expect it. And when you expect it.    
         
 After a 10 year BAFTA-nominated + Perrier Award-winning collaboration with Kim Noble as (nobleandsilver), Stuart Silver continues that partnerships' tradition of crossing disciplines and entering new territories. After two highly successful runs at Soho Theatre, and shows at The Samuel Beckett Festival, The London Word Festival and Art Centres across the UK, this piece sees a technically stripped-back, musical, Stuart Silver.
