@@ -19,7 +19,7 @@ header_image:
 *Presented by* Word of Warning, STUN + Z-arts          
 
 ###Saturday 4 October 2014, 12noon-10pm. Free             
-**Manchester's fifteenth free micro-marathon of the bizarre + the beautiful pops up throughout the cavernous realms of Z-arts — drop in for ten minutes or stay for ten hours…**      
+**Manchester's fifteenth free micro-marathon of the bizarre + the beautiful pops up throughout the cavernous realms of Z-arts — drop in for ten minutes or stay for the full ten hours…**      
                        
 From gallery to theatre, changing room to basement, Z-arts will reverberate with some 28 individual shows in our fifteenth performance lucky-dip, happening for the first time under one roof… Your chance to sample the different — all for free, featuring (*participating artists subject to change*):        
         
@@ -30,7 +30,7 @@ Alice Bunker-Whitney ¦ Ana Mendes ¦ Anton Mirto ¦ Art Of Disappearing ¦ Barb
 ####Venues + Booking Details
 Date: Saturday 4 October 2014, 12noon-10pm    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
-Tickets: FREE no booking required; some limited capacity works will have sign-up sheets on the day        
+Tickets: FREE no booking required; some lt capacity shows will have sign-up sheets on the day        
 Venue Tel: 0161 232 6089    
 
 ####What people said about Emergency 2013        
