@@ -6,7 +6,7 @@ rootpath: "../../"
 is_index: true
 
 ---
-*From the [fifteenth Emergency](/current/2014-emergency) to a sneak preview of something brand new, A/W2014 takes us to [the High School gym](/current/2014-autumnwinter/actionhero), [a midnight feast](/current/2014-autumnwinter/thompson) and an empty gallery…*        
+*From the [fifteenth Emergency](/current/2014-emergency) to a sneak preview of something brand new, A/W takes us to [the High School gym](/current/2014-autumnwinter/actionhero), [a midnight feast](/current/2014-autumnwinter/thompson) and an empty gallery…*        
         
 We begin with our 15th annual micro-marathon, as [Emergency](/current/2014-emergency) is staged for the first time entirely throughout the cavernous realms of Z-arts, including the new STUN Studio. A free day-out for the curious, 2014's festival features 28 (or more!) new works… drop-in for ten minutes or stay for the full ten hours.        
         
