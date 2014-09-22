@@ -21,11 +21,11 @@ header_image:
 ###Saturday 4 October 2014, 12noon-10pm. Free             
 **Manchester’s marathon micro-festival celebrates its fifteenth birthday — expect the unexpected as the bizarre, the bold + the beautiful pop up throughout the cavernous realms of Z-arts…**      
                        
-From gallery to theatre, changing room to basement, Z-arts will reverberate with some 28 individual shows in this, our fifteenth performance lucky-dip, happening, this year, all under one roof… Your chance to sample the different — all for free, featuring (*participating artists subject to change*):        
+From gallery to theatre, changing room to basement, Z-arts will reverberate with some 28 individual shows in our fifteenth performance lucky-dip, happening for the first time under one roof… Your chance to sample the different — all for free, featuring (*participating artists subject to change*):        
         
 Alice Bunker-Whitney ¦ Ana Mendes ¦ Anton Mirto ¦ Art Of Disappearing ¦ Barbara Dean ¦ Boland-Burrell + Byrne ¦ Debbie Sharp ¦ Eik + Orengo ¦ FM ¦ Frances-Kay ¦ Hamish MacPherson ¦ Hidden Track ¦ J. Fergus Evans ¦ Jade Montserrat ¦ Jamil Keating ¦ Jonathan Rogerson ¦ Krissi Musiol ¦ Lydia Cottrell ¦ Martin Hamblen ¦ Matthew Pearce ¦ Nathan Birkinshaw ¦ Neil Callaghan ¦ Odd Comic ¦ Olivia Preye ¦ Paul O'Donnell ¦ Peter Jacobs ¦ Rosanne Robertson ¦ VIA Collective        
               
-*N.B. Emergency 2014 runs from 12noon to 10pm and is primarily an adult event; from 3pm onwards we advise that work may not be suitable for under 18s.*
+*N.B. The event runs from 12noon to 10pm and is primarily an adult event; from 3pm onwards we advise that work may not be suitable for under 18s.*
        
 ####Venues + Booking Details
 Date: Saturday 4 October 2014, 12noon-10pm    
