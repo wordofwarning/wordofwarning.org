@@ -30,7 +30,7 @@ Alice Bunker-Whitney ¦ Ana Mendes ¦ Anton Mirto ¦ Art Of Disappearing ¦ Barb
 ####Venues + Booking Details
 Date: Saturday 4 October 2014, 12noon-10pm    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
-Tickets: FREE no booking required; some lt capacity shows will have sign-up sheets on the day        
+Tickets: FREE no booking required; some ltd capacity shows will have sign-up sheets on the day        
 Venue Tel: 0161 232 6089    
 
 ####What people said about Emergency 2013        
