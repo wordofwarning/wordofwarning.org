@@ -6,12 +6,14 @@ rootpath: "../../"
 is_index: true
 
 ---
-Autumn begins with our **[fifteenth Emergency](/current/2014-emergency)** micro-festival, staged for the first time entirely throughout the cavernous realms of Z-arts including the new STUN Studio. A free day-out for the curious, 2014's marathon features 28 (or more!) new works… drop-in for ten minutes or stay for the full eleven hours.        
+Autumn begins with our **[fifteenth Emergency](/current/2014-emergency)** micro-festival, staged for the first time entirely throughout the cavernous realms of Z-arts including the new STUN Studio. A free day-out for the curious, 2014's marathon features 28 (or more!) new works… drop-in for ten minutes or stay for the full ten hours.        
         
 Old friends [Action Hero](/current/2014-autumnwinter/actionhero) (last seen [2 years ago](/archive/2012-autumnwinter/goproject)) find out what it means to be a winner at Contact in a wistful yearning for a world that never really existed — high school storylines, inspiring locker room speeches and cheap sentimentality tell us an underdog story that's been told a million times before.        
         
 Glitter, chicken legs and a rice pudding piñata return us to The Lowry Studio in [Selina Thompson](/current/2014-autumnwinter/thompson)'s version of a midnight feast; somewhere between confessions made over coffee at Weight Watchers and sloppy drunken story-telling over a 3am kebab, it's a powerful portrayal of how we live with our bodies.        
-        
+           
+And save Friday 28 November for a special (*very limited capacity*) bonus show!          
+            
 We look forward to seeing you at some or all of it; if you want to check out what happened last season, have a look at our [Spring/Summer 2014 archive](/archive/2014-springsummer).        
         
 ####What is Word of Warning and where did it come from?
