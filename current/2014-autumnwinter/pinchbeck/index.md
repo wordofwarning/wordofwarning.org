@@ -8,8 +8,8 @@ rootpath: "../../../"
 artist: "Michael Pinchbeck" # the name of the artist or company
 show: "The Man Who Flew into Space from His Apartment (work in progress)" # the name of the show
 artist_size: 1
-show_size: 5
-header_image: "header_.jpg"
+show_size: 4
+header_image: ""
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
