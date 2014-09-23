@@ -17,8 +17,8 @@
 				<div class="four columns">
 					<h4>Credits</h4>
 					<p>With thanks to Z-arts, Manchester Digital Development Agency and Helen Palmer.</p>
-					<p>Word of Warning Autumn/Winter 2014 is brought to you by hÅb with Contact, STUN, The Lowry Studio + Z-arts.</p>
-					<p><img src="{{page.rootpath}}assets/images/logos.png" alt="Supported using public funding through Arts Council England; funded by Manchester City Council."></p>
+					<p>Word of Warning Autumn/Winter 2014 is brought to you by hÅb — with Contact, STUN, The Lowry + Z-arts.</p>
+					<p><img src="{{page.rootpath}}assets/images/logos.png" alt="Supported using public funding through Arts Council England + funded by Manchester City Council."></p>
 				</div>
 			</div>
 			<div class="row">
