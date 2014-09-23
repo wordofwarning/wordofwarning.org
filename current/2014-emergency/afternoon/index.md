@@ -17,9 +17,10 @@ header_image:
 
 ---
 *Presented by* Word of Warning, STUN + Z-arts *during* [Emergency 2014](/current/2014-emergency)    
-**N.B.** The event runs from 12noon to 10pm and is primarily an adult event; from 3pm onwards we advise that work may not be suitable for under 18s.      
           
 ####Order of Appearance (subject to change):      
+**N.B.** [Emergency 2014](/current/2014-emergency) runs from 12noon to 10pm and is primarily an adult event; from 3pm onwards we advise that work may not be suitable for under 18s.      
+
 **Artist ¦ *Title***          
 Copy      
           
@@ -30,8 +31,8 @@ Biog
           
 ####Venues + Booking Details  
 Date: Saturday 4 October 2014, 12noon-10pm        
-[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA
-Tickets: FREE no booking required; some ltd capacity shows will have sign-up sheets on the day
+[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA         
+Tickets: FREE no booking required; some ltd capacity shows will have sign-up sheets on the day      
 Venue Tel: 0161 232 6089      
           
 ####Credits         
