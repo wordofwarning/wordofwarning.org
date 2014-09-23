@@ -6,7 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Michael Pinchbeck" # the name of the artist or company
-show: "The Man Who Flew into Space from His Apartment (work in progress)" # the name of the show
+show: "The Man Who Flew into Space from His Apartment<br>(work in progress)" # the name of the show
 artist_size: 1
 show_size: 5
 header_image:
