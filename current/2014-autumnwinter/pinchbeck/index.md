@@ -5,10 +5,10 @@ layout: 2014-autumnwinter
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Michael Pinchbeck tbc" # the name of the artist or company
-show: "tbc" # the name of the show
+artist: "Michael Pinchbeck" # the name of the artist or company
+show: "The Man Who Flew into Space from His Apartment (work in progress)" # the name of the show
 artist_size: 1
-show_size: 2
+show_size: 5
 header_image: "header_.jpg"
 
 # ABOUT THE SHOW - LAYOUT
@@ -20,25 +20,24 @@ header_image: "header_.jpg"
 *Presented by* Word of Warning        
            
 ####In Brief     
-tbc          
+A slideshow exploring absence and presence, flying and falling, and the power of the artist to fail or be free.          
           
 ####Venue + Booking Details    
-Date: Friday 28 November 2014, tbcpm   
+Date: Friday 28 November 2014, 6pm + 8pm (repeats)   
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
-[Tickets: £tbc](http://) | Please note there is a limited capacity.            
+[Tickets: by donation, booking essential](http://) | Please note there is a limited capacity.            
 Box Office Tel: 0161 232 6089 tbc  
         
 ####Access Information      
-The performances will last approximately . Age advisory: tbc      
-      
+The performances will last approximately xx minutes. Age advisory: tbc      
 
 ####Who is he?    
 
-####What people have said about her    
+####What people have said about him    
 >*blah*<br>blah    
         
 ####Credits    
-tbc            
-              
+A hÅb micro-commission.            
+            
 ####Websites    
-[www](http://) | [@tbc](http://twitter.com/)
+[www.michaelpinchbeck.co.uk](http://www.michaelpinchbeck.co.uk) | [@mdpinchbeck](http://twitter.com/mdpinchbeck)
