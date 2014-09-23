@@ -26,4 +26,4 @@ Staged for the first time entirely in the cavernous realms of [Z-arts](http://ww
         
 Enquiries: <mailto:emergency@habarts.org> ¦ <http://emergencymcr.org> ¦ #EmergencyMcr        
         
-Emergency 2014 is presented by Word of Warning, STUN + Z-arts; produced by hÅb; supported using public funding through Arts Council England, funded by Manchester City Council, supported by STUN + Z-arts; a greenroom legacy project.
+[Emergency 2014](/current/2014-emergency) is presented by Word of Warning, STUN + Z-arts; produced by hÅb; supported using public funding through Arts Council England, funded by Manchester City Council, supported by STUN + Z-arts; a greenroom legacy project.
