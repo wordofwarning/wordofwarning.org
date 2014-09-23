@@ -25,7 +25,7 @@ From gallery to theatre, changing room to basement, Z-arts will reverberate with
         
 Alice Bunker-Whitney ¦ Ana Mendes ¦ Anton Mirto ¦ Art Of Disappearing ¦ Barbara Dean ¦ Boland-Burrell + Byrne ¦ Debbie Sharp ¦ Eik + Orengo ¦ FM ¦ Frances-Kay ¦ Hamish MacPherson ¦ Hidden Track ¦ J. Fergus Evans ¦ Jade Montserrat ¦ Jamil Keating ¦ Jonathan Rogerson ¦ Krissi Musiol ¦ Lydia Cottrell ¦ Martin Hamblen ¦ Matthew Pearce ¦ Nathan Birkinshaw ¦ Neil Callaghan ¦ Odd Comic ¦ Olivia Preye ¦ Paul O'Donnell ¦ Peter Jacobs ¦ Rosanne Robertson ¦ VIA Collective        
               
-**N.B.** The event runs from 12noon to 10pm and is primarily an adult event; from 3pm onwards we *advise* that work may not be suitable for under 18s.*
+**N.B.** Emergency 2014 runs from 12noon to 10pm and is primarily an adult event; from 3pm onwards we *advise* that work may not be suitable for under 18s.
        
 ####Venues + Booking Details
 Date: Saturday 4 October 2014, 12noon-10pm    
