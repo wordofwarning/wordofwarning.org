@@ -16,22 +16,23 @@ header_image:
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, STUN + Z-arts *during* [Emergency 2014](/current/2014-emergency)        
+*Presented by* Word of Warning, STUN + Z-arts *during* [Emergency 2014](/current/2014-emergency)    
+**N.B.** The event runs from 12noon to 10pm and is primarily an adult event; from 3pm onwards we advise that work may not be suitable for under 18s.      
           
-####Order of Appearance (subject to change):              
-**Artist | Title**                
-Copy               
-              
-Biog            
-               
-[website](http://)              
-![image](image.jpg)              
-             
-####Venues + Booking Details          
-Date: Saturday 4 October 2014, 12noon-11pm    
-[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
-Tickets: FREE no booking required        
-Venue Tel: 0161 232 6089    
-             
+####Order of Appearance (subject to change):      
+**Artist ¦ *Title***          
+Copy      
+          
+Biog      
+          
+[website](http://www.) ¦ [facebook](http://www.facebook.com/) ¦ [@](http://twitter.com/)  
+![image](image.jpg) 
+          
+####Venues + Booking Details  
+Date: Saturday 4 October 2014, 12noon-10pm        
+[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA
+Tickets: FREE no booking required; some ltd capacity shows will have sign-up sheets on the day
+Venue Tel: 0161 232 6089      
+          
 ####Credits         
-[Emergency 2014](/hab/emergency) is co-produced by [hÅb](/hab), [STUN](http://stunlive.com/) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.
+[Emergency](/hab/emergency) 2014 is produced by [hÅb](/hab); supported using public funding through Arts Council England, funded by Manchester City Council, supported by [STUN](http://stunlive.com) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.
