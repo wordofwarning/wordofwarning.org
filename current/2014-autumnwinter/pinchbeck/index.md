@@ -6,7 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Michael Pinchbeck" # the name of the artist or company
-show: "The Man Who Flew into Space from His Apartment<br>(work in progress)" # the name of the show
+show: "The Man Who Flew Into Space From His Apartment<br>(work in progress)" # the name of the show
 artist_size: 1
 show_size: 4
 header_image: "header_pinchbeck.jpg"
@@ -24,9 +24,9 @@ A slideshow exploring absence and presence, flying and falling, and the power of
           
 ####Venue + Booking Details    
 Date: Friday 28 November 2014, 6pm + 8pm (repeats)   
-[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
+[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA    
 [Tickets: by donation, booking essential](http://) | Please note there is a limited capacity.            
-Box Office Tel: 0161 232 6089 tbc  
+Box Office Tel: 0161 232 6089  
         
 ####Access Information      
 The performances will last approximately xx minutes. Age advisory: tbc      
