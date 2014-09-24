@@ -52,7 +52,7 @@ Selina Thompson is a 22-year-old performance artist based in Leeds. She seeks to
         
 ####Workshop: *That's what you get for being food.*    
        
-Selina will be hosting a workshop in the [STUN Studio] at [Z-arts] on Monday 3 November, 6-9pm; in her own words, this is what it's all about: 
+Selina will be hosting a workshop in the [STUN Studio](http://stunlive.com) at [Z-arts](http://www.z-arts.org/about-us/getting-here) on Monday 3 November, 6-9pm; in her own words, this is what it's all about: 
        
 *I'm a firm believer that a performance with food in it makes the brain and the heart salivate just as much as the mouth. So for this workshop, I want to spend a little time exploring how our physical and sensory responses to food can be used to transform food into a visceral, powerful way of connecting with a peckish audience.*   
        
