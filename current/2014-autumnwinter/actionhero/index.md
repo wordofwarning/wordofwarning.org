@@ -30,7 +30,7 @@ Dates: Friday 24 + Saturday 25 October 2014, 8pm
 Box Office Tel: 0161 274 0600     
         
 ####Access Information         
-The performance lasts approximately 70 minutes with no interval;. Age advisory: suitable for all.        
+The performance lasts approximately 70 minutes with no interval. Age advisory: suitable for all.        
          
 ####More            
 A show that tells a story in order to reflect on what stories are and what they mean to us.        
