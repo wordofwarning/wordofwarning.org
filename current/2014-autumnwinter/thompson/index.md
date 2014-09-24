@@ -61,7 +61,7 @@ Selina will be hosting a workshop in the [STUN Studio](http://stunlive.com) at [
        
 *This workshop is for artists and students, but more than anything, it's for people that love food/cooking/eating/making a mess. Come armed with a strong anecdote — a story you love telling — and a food that you would like to use to tell it. Be as abstract or literal as you like, and bring as little or as much of that food as you need. See you soon!*  
        
-To book a place, please contact Word of Warning via 0161 232 6086 or email <mailto: rsvp@habarts.org>     
+To book a place please complete a [booking form](http://habarts.wufoo.eu/forms/workshop-booking-form); enquiries please call 0161 232 6086.       
        
 ####Credits    
 Supported using public funding by the National Lottery through Arts Council England. Originally developed with support from Theatre in the Mill (Bradford), ARC (Stockton) and West Yorkshire Playhouse (Leeds).        
