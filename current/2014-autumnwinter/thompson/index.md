@@ -29,7 +29,7 @@ Box Office Tel: 0843 208 6000
 *Workshop: Monday 3 November 2014, 6pm — details below* 
         
 ####Access Information        
-The performance lasts approximately 70 minutes with no interval;. Age advisory: 14+        
+The performance lasts approximately 70 minutes with no interval. Age advisory: 14+        
        
 ####More            
 *FAT! That's what I'm making a show about. My fat. Your fat, maybe. Fat. I've been fat for a long time now, and I thought I was fat, even when I wasn't, and as such, I've been thinking about fat for even longer. So I made a show about it. Our bodies and egos are fragile, our ways of talking about them inadequate, so I can understand that you might not be up for talking about fat for an hour.*        
@@ -61,7 +61,7 @@ Selina will be hosting a workshop in the [STUN Studio](http://stunlive.com) at [
        
 *This workshop is for artists and students, but more than anything, it's for people that love food/cooking/eating/making a mess. Come armed with a strong anecdote — a story you love telling — and a food that you would like to use to tell it. Be as abstract or literal as you like, and bring as little or as much of that food as you need. See you soon!*  
        
-To book a place please complete a [booking form](http://habarts.wufoo.eu/forms/workshop-booking-form); enquiries call 0161 232 6086.       
+To book a place please complete a [booking form](http://habarts.wufoo.eu/forms/workshop-booking-form); enquiries please call 0161 232 6086 or email <mailto:rsvp@habarts.org>       
        
 ####Credits    
 Supported using public funding by the National Lottery through Arts Council England. Originally developed with support from Theatre in the Mill (Bradford), ARC (Stockton) and West Yorkshire Playhouse (Leeds).        
