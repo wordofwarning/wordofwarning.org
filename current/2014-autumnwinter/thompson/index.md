@@ -26,7 +26,7 @@ Date: Friday 7 November 2014, 8pm
 [Venue: The Lowry Studio](http://www.thelowry.com/plan-your-visit/getting-here), Pier 8, Salford Quays, M50 3AZ    
 [Tickets: £12/10](http://www.thelowry.com/event/chewing-the-fat)        
 Box Office Tel: 0843 208 6000        
-†Workshop: Monday 3 November 2014, 6pm — details below 
+*Workshop: Monday 3 November 2014, 6pm — details below* 
         
 ####Access Information        
 The performance lasts approximately 70 minutes with no interval;. Age advisory: 14+        
@@ -51,17 +51,17 @@ Selina Thompson is a 22-year-old performance artist based in Leeds. She seeks to
 ####What people have said about her         
 >*4\* … a credible and slick piece of work, by turns disconcerting and uplifting.*<br>Paul Couch, The Public Reviews        
         
-####†Workshop: *That's what you get for being food.*    
+####Workshop: *That's what you get for being food.*    
        
 Selina will be hosting a workshop in the [STUN Studio](http://stunlive.com) at [Z-arts](http://www.z-arts.org/about-us/getting-here) on Monday 3 November, 6-9pm; in her own words, this is what it's all about: 
        
 *I'm a firm believer that a performance with food in it makes the brain and the heart salivate just as much as the mouth. So for this workshop, I want to spend a little time exploring how our physical and sensory responses to food can be used to transform food into a visceral, powerful way of connecting with a peckish audience.*   
        
-*We’ll be working with stolen words, our autobiographies and of course — food! — to create some positively delicious moments of performance.* 
+*We'll be working with stolen words, our autobiographies and of course — food! — to create some positively delicious moments of performance.* 
        
 *This workshop is for artists and students, but more than anything, it's for people that love food/cooking/eating/making a mess. Come armed with a strong anecdote — a story you love telling — and a food that you would like to use to tell it. Be as abstract or literal as you like, and bring as little or as much of that food as you need. See you soon!*  
        
-To book a place please complete a [booking form](http://habarts.wufoo.eu/forms/workshop-booking-form); enquiries please call 0161 232 6086.       
+To book a place please complete a [booking form](http://habarts.wufoo.eu/forms/workshop-booking-form); enquiries call 0161 232 6086.       
        
 ####Credits    
 Supported using public funding by the National Lottery through Arts Council England. Originally developed with support from Theatre in the Mill (Bradford), ARC (Stockton) and West Yorkshire Playhouse (Leeds).        
