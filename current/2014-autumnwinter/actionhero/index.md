@@ -8,7 +8,7 @@ artist: "Action Hero" # the name of the artist or company
 show: "Hoke's Bluff" # the name of the show
 artist_size: 1
 show_size: 2
-header_image:
+header_image: "header_hokes.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
