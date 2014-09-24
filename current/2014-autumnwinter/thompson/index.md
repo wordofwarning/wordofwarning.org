@@ -26,6 +26,7 @@ Date: Friday 7 November 2014, 8pm
 [Venue: The Lowry Studio](http://www.thelowry.com/plan-your-visit/getting-here), Pier 8, Salford Quays, M50 3AZ    
 [Tickets: £12/10](http://www.thelowry.com/event/chewing-the-fat)        
 Box Office Tel: 0843 208 6000        
+†Workshop: Monday 3 November 2014, 6pm — details below 
         
 ####Access Information        
 The performance lasts approximately 70 minutes with no interval;. Age advisory: 14+        
@@ -50,7 +51,7 @@ Selina Thompson is a 22-year-old performance artist based in Leeds. She seeks to
 ####What people have said about her         
 >*4\* … a credible and slick piece of work, by turns disconcerting and uplifting.*<br>Paul Couch, The Public Reviews        
         
-####Workshop: *That's what you get for being food.*    
+####†Workshop: *That's what you get for being food.*    
        
 Selina will be hosting a workshop in the [STUN Studio](http://stunlive.com) at [Z-arts](http://www.z-arts.org/about-us/getting-here) on Monday 3 November, 6-9pm; in her own words, this is what it's all about: 
        
