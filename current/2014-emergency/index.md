@@ -44,4 +44,4 @@ Emergency 2014 takes place in a number of different spaces and formats — some 
 [Emergency](/hab/emergency) 2014 is produced by [hÅb](/hab); supported using public funding through Arts Council England, funded by Manchester City Council, supported by [STUN](http://stunlive.com) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.        
         
 ####Websites
-<http://emergencymcr.org> ¦ #EmergencyMcr
+<http://emergencymcr.org> ¦ [Facebook event](http://www.facebook.com/events/764404806955224) ¦ [#EmergencyMcr](https://twitter.com/hashtag/EmergencyMcr)
