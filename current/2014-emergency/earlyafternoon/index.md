@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency 2014"
-show: "Afternoon for all: 12noon-5.30pm"
+show: "Early Afternoon: 12noon-3pm"
 artist_size: 1
 show_size: 3
 header_image:
@@ -18,7 +18,7 @@ header_image:
 ---
 *Presented by* Word of Warning, STUN + Z-arts *during* [Emergency 2014](/current/2014-emergency)    
           
-####Order of Appearance (subject to change):      
+####Alphabetical Order:      
 [Emergency 2014](/current/2014-emergency) runs from 12noon to 10pm and is primarily an adult event; from 3pm onwards we *advise* that work may not be suitable for under 18s.      
 
 **Artist ¦ *Title***          
