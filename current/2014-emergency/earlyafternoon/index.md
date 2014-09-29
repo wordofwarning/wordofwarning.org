@@ -35,7 +35,7 @@ Concept & Direction: Anton Mirto ¦ Performer: Eleftheria Tzamtzi ¦ Sound Desig
 **Art of Disappearing ¦ *The Stand In***          
 An audio experience and challenge.      
 Taking 2 willing audience members at a time, the work shifts the balance between performer and audience, asking you to become the watched as you take part in this collaborative experience, where you can find out just what type of performer you are and what type of performance you and your fellow stand in will make.      
-Art Of Disappearing is artists Rachel Champion & Tristan Shorr. ¦ Supported through Chisenhale Dance Space and the Homemade commission; thanks to Laura, Katherine and the rest of the Chisenhale team. [www.artofdisappearing.com](http://www.artofdisappearing.com) ¦ [@R_Champion ](http://twitter.com/R_Champion_) & [@shorr_tristan](http://twitter.com/shorr_tristan)          
+Art Of Disappearing is artists Rachel Champion & Tristan Shorr. ¦ Supported through Chisenhale Dance Space and the Homemade commission; thanks to Laura, Katherine and the rest of the Chisenhale team. [www.artofdisappearing.com](http://www.artofdisappearing.com) ¦ [@R_Champion_ ](http://twitter.com/R_Champion_) & [@shorr_tristan](http://twitter.com/shorr_tristan)          
           
 **Debbie Sharp ¦ *A Requiem For The Darkness (fragment)***   
 A fragment of a larger requiem, this piece looks into the space between life and death: the place of waiting, the mechanics of the mind, memories and the frailness of the body.           
@@ -53,7 +53,7 @@ What is the value of printed books? And how can you control, manipulate and dest
 **Rosanne Robertson ¦ *Touched***       
 A performance installation exploring contact between body, object, performance structures and heightened emotional states via sound. Making sound by touching in a simple and ritualistic performance, the artist interacts instinctively according to the unique situation, architecture and acoustic design of the rear atrium of Z-arts, creating a temporary sound monument to the moment.   
 Rosanne Robertson is an artist based in the North of England working with vibrations, objects and the body.   
->*For me Rosanne's very much a 'doodlebug', that is to say, a provocateur who tirelessly works across all  platforms, creating work by any medium necessary and who works beneath the skin*<br>Dazed and Confused.        
+*For me Rosanne's very much a 'doodlebug', that is to say, a provocateur who tirelessly works across all  platforms, creating work by any medium necessary and who works beneath the skin* — Dazed and Confused.        
 [rosannerobertson.com](http://www.rosannerobertson.com) ¦ [@R0sanneR](http://twitter.com/R0sanneR)  
 ![image](image.jpg) 
           
