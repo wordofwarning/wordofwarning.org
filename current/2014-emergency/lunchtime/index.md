@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency 2014"
-show: "Early Afternoon: 12noon-3pm"
+show: "Lunchtime: 12noon-3pm"
 artist_size: 1
 show_size: 3
 header_image:
