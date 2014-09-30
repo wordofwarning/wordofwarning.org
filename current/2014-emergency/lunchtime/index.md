@@ -31,21 +31,26 @@ In a world where we are consuming ourselves in the form of images, where our sen
 A work in development that explores finding and hiding the self and our need for memorialisation. Using silver foil a woman mass-produces versions of herself through moulding her face live.         
 Concept & Direction: Anton Mirto ¦ Performer: Eleftheria Tzamtzi ¦ Sound Design: Konstantinis Tsitsas ¦ A first iteration of *earning innocence* was supported & presented at The Yard Theatre, London, March 2014.   
 [a2company.org](http://www.A2company.org)         
-          
+![Anton Mirto](antonmirto.jpg)      
+
 **Art of Disappearing ¦ *The Stand In***          
 An audio experience and challenge.      
 Taking 2 willing audience members at a time, the work shifts the balance between performer and audience, asking you to become the watched as you take part in this collaborative experience, where you can find out just what type of performer you are and what type of performance you and your fellow stand in will make.      
 Art Of Disappearing is artists Rachel Champion & Tristan Shorr. ¦ Supported through Chisenhale Dance Space and the Homemade commission; thanks to Laura, Katherine and the rest of the Chisenhale team. [www.artofdisappearing.com](http://www.artofdisappearing.com) ¦ [@R_Champion_ ](http://twitter.com/R_Champion_) & [@shorr_tristan](http://twitter.com/shorr_tristan)          
-          
+![Ana Mendes](anamendes.jpg)      
+  
 **Debbie Sharp ¦ *A Requiem For The Darkness (fragment)***   
 A fragment of a larger requiem, this piece looks into the space between life and death: the place of waiting, the mechanics of the mind, memories and the frailness of the body.           
 Here comes darkness — watching, creeping, stalking. Here comes darkness, holding fear within — gripping, burning, tricking.       
-[debbie-sharp.com](http://debbie-sharp.com) ¦ [@iAMdebbiesharp](http://twitter.com/iAMdebbiesharp)  
-          
-**Jamil Keating ¦ *SECONDS*** 
-          
+[debbie-sharp.com](http://debbie-sharp.com) ¦ [@iAMdebbiesharp](http://twitter.com/iAMdebbiesharp)       
+![Debbie Sharp](DebSharp.jpg)         
+
+**Jamil Keating ¦ *Sandcastles***       
+During a not-so-perfect family holiday in southern Spain, a boy sits on a beach sipping sangria and building sandcastles, desperately trying to have fun. A short performance piece about the countless awkward, absurd and atrocious moments we have on the cusp of being young and naive enough to think you can save the world, but old and cynical enough to start doubting if it's even worth bothering.       
+Jamil Keating is an emerging theatre-maker, writer and performer currently undertaking a residency at the Whitworth Art Gallery. ‘Sandcastles’ is his live art debut, the first step in an artistic journey of trying to find the balance between being overwhelmed by  perverse enthusiasm for the craziness of life, and trying to say something of substance about it... simply.    
+
 **Peter Jacobs ¦ *KINDLING*** 
-An examination of the nature and value of reading and the printed word in an increasingly digital age.
+An examination of the nature and value of reading and the printed word in an increasingly digital age.     
 What is the value of printed books? And how can you control, manipulate and destroy education, ideas and narratives once transferred from page to human consciousness?     
 *KINDLING* explores the relationship between words and ideas, imagination and experience in a durational installation performance that questions why we read, the value of books as artefacts and where they take us individually and as a society.     
 [peter-jacobs.weebly.com](http://peter-jacobs.weebly.com) ¦ [@PeterTJacobs](http://twitter.com/PeterTJacobs)  
@@ -55,8 +60,8 @@ A performance installation exploring contact between body, object, performance s
 Rosanne Robertson is an artist based in the North of England working with vibrations, objects and the body.   
 *For me Rosanne's very much a 'doodlebug', that is to say, a provocateur who tirelessly works across all  platforms, creating work by any medium necessary and who works beneath the skin* — Dazed and Confused.        
 [rosannerobertson.com](http://www.rosannerobertson.com) ¦ [@R0sanneR](http://twitter.com/R0sanneR)  
-![image](image.jpg) 
-          
+![Rosanne Robertson](RRobertson.jpg)        
+
 ####Venues + Booking Details  
 Date: Saturday 4 October 2014, 12noon-10pm        
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA         
