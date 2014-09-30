@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency 2014"
-show: "Afternoon for all: 12noon-5.30pm"
+show: "One-to-Ones"
 artist_size: 1
 show_size: 3
 header_image:
@@ -36,10 +36,10 @@ An intimate performance for one (or two people) at a time, *Told in Confidence* 
 
 
 **J. Fergus Evans ¦ *She Sang Me To Sleep With It (work in progress)***      
-
 We all remember at least one song from our childhood - a lullaby our mother sang us, the theme song from our favourite tv show, the song we sang on road trips, the pop song our older sister taught us.     
 Poet and performer J. Fergus Evans is asking you to teach him a song from your childhood over a cup of tea, and he might just give you something in return. And don't worry - he isn't a very good singer either.    
-*She Sang Me To Sleep With It* was originally conceived at CAMPSITE 2014 with support from the Jerwood Charitable Foundation.                                                                                                                                                  [jfergusevans.com](http://www.jfergusevans.com)                                                                                                                                                            	**Boland-Burrell + Byrne ¦ *Hero- Episode 1: Gunslinger***     
+*She Sang Me To Sleep With It* was originally conceived at CAMPSITE 2014 with support from the Jerwood Charitable Foundation.                                                                                                                                                  [jfergusevans.com](http://www.jfergusevans.com)          
+                                                                                                                                                          **Boland-Burrell + Byrne ¦ *Hero- Episode 1: Gunslinger***     
 Have you ever wanted to be a hero? Fight the bad guys and save the day?    
 Well here's your chance!     
 This immersive audio experience puts you in the driving seat of a wild-west adventure.    
