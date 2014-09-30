@@ -25,7 +25,7 @@ A slideshow exploring absence and presence, flying and falling, and the power of
 ####Venue + Booking Details      
 Date: Friday 28 November 2014, [6pm](http://) + [8pm](http://) (repeats)     
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA         
-Tickets: Limited capacity — booking (free) essential, donations requested on the door.           
+Tickets: free booking essential (limited capacity), entry by donation.           
 Box Office Tel: 0161 232 6089    
            
 ####Access Information      
@@ -37,7 +37,7 @@ Michael Pinchbeck takes inspiration from an installation by Russian artist Ilya 
 A powerful and moving biography of an installation that talks of the world in which it was made; at the same time, it questions an understanding of space by relating outer space to the gallery space, the journey of the man with that of the audience involved, taking a leap of faith and heading into the unknown. Drawing on notions of escape, it makes a journey (like Kabakov) between east and west, flying and falling, attempt and failure. Using found text and an old slide projector, Michael presents a gallery tour for an empty gallery, to be performed by a guest performer in front of an audience of ten: the audience becomes the *Ten Characters* in Kabakov's work.
            
 ####Who is he?    
-Michael Pinchbeck is a Nottingham-based writer and artist. He co-founded Metro-Boulot-Dodo in 1997 after studying Theatre and Creative Writing at Lancaster University. He was commissioned by Nottingham Playhouse to write *The White Album* (2006) and *The Ashes* (2011), and was awarded funding by the British Council to write and direct a new play — *Bolero* — which premiered at Nottingham Playhouse in 2014 before touring to Sarajevo, Mostar, Tusla and Zenica. He recently toured a trilogy of devised performances — *The Beginning* ([shown March 2013](/archive/2013-spring/pinchbeck)), *The Middle* (commissioned by hÅb + [previewed May 2013](/archive/2013-springsummer/pinchbeckghelani)) and *The End* (closing greenroom [May 2011](http://www.greenroomarts.org/archive/events/the-end)) — and his work has been selected three times for the British Council’s Edinburgh Showcase.      
+Michael Pinchbeck is a Nottingham-based writer and artist. He co-founded Metro-Boulot-Dodo in 1997 after studying Theatre and Creative Writing at Lancaster University. He was commissioned by Nottingham Playhouse to write *The White Album* (2006) and *The Ashes* (2011), and was awarded funding by the British Council to write and direct a new play — *Bolero* — which premiered at Nottingham Playhouse in 2014 before touring to Sarajevo, Mostar, Tusla and Zenica. He recently toured a trilogy of devised performances — *The Beginning* ([shown March 2013](/archive/2013-spring/pinchbeck)), *The Middle* (commissioned by hÅb, [previewed May 2013](/archive/2013-springsummer/pinchbeckghelani)) and *The End* (closing greenroom, [May 2011](http://www.greenroomarts.org/archive/events/the-end)) — and his work has been selected three times for the British Council's Edinburgh Showcase.      
            
 He has a Masters in Performance and Live Art from Nottingham Trent University, lectures at the University of Lincoln and is completing a PhD at Loughborough University exploring the role of dramaturg; he is also co-director of Hatch, the East Midlands' "theatre without a building".    
            
