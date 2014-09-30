@@ -27,8 +27,11 @@ Copy
 Biog      
           
 [website](http://www.) ¦ [facebook](http://www.facebook.com/) ¦ [@](http://twitter.com/)  
-![image](image.jpg) 
-          
+![Eik+Orengo](EikOrengo.jpg)       
+![Frances-Kay](FrancesKay.jpg)       
+![Jade Monserrat](JadeM.jpg)           
+![Jonathan Rogerson](JRogerson.jpg)            
+ 
 ####Venues + Booking Details  
 Date: Saturday 4 October 2014, 12noon-10pm        
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA         
