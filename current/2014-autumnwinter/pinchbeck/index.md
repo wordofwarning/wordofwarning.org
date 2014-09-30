@@ -23,21 +23,25 @@ header_image: "header_pinchbeck.jpg"
 A slideshow exploring absence and presence, flying and falling, and the power of the artist to fail or be free.          
           
 ####Venue + Booking Details    
-Date: Friday 28 November 2014, 6pm + 8pm (repeats)   
+Date: Friday 28 November 2014, [6pm](http://) + [8pm](http://) (repeats)   
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA    
-[Tickets: by donation, booking essential](http://) | Please note there is a limited capacity.            
-Box Office Tel: 0161 232 6089  
-        
+[Tickets: by donation (on the door); booking (free) essential](http://) | Please note there is a limited capacity.       
+Box Office Tel: 0161 232 6089    
+           
 ####Access Information      
-The performances will last approximately xx minutes. Age advisory: tbc      
-
+In the Gallery at Z-arts, the work-in-progress will last 30-40 minutes (with no interval). Age advisory 16+.             
+           
 ####Who is he?    
-
-####What people have said about him    
->*blah*<br>blah    
-        
+Michael Pinchbeck is a Nottingham-based writer and artist. He co-founded Metro-Boulot-Dodo in 1997 after studying Theatre and Creative Writing at Lancaster University. He was commissioned by Nottingham Playhouse to write *The White Album* (2006) and *The Ashes* (2011), and was awarded funding by the British Council to write and direct a new play – *Bolero* – which premiered at Nottingham Playhouse in 2014 before touring to Sarajevo, Mostar, Tusla and Zenica. He recently toured a trilogy of devised performances: *The Beginning* (shown in March 2013), *The Middle* (commissioned by hÅb; shown in May 2013) and *The End* (shown at the end of greenroom in May 2011), and his work has been selected three times for the British Council’s Edinburgh Showcase.      
+           
+He has a Masters in Performance and Live Art from Nottingham Trent University, lectures at the University of Lincoln and is completing a PhD at Loughborough University exploring the role of dramaturg. Michael is co-director of Hatch, the East Midlands' "theatre without a building".    
+           
+####What people have said about him         
+>*Pinchbeck is such an interesting theatre-maker*<br>The Guardian            
+>*An individual practice that is powerful and compelling*<br>ArtArtArt magazine         
+           
 ####Credits    
-A hÅb micro-commission.            
+A hÅb commission.            
             
 ####Websites    
 [www.michaelpinchbeck.co.uk](http://www.michaelpinchbeck.co.uk) | [@mdpinchbeck](http://twitter.com/mdpinchbeck)
