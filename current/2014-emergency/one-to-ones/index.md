@@ -34,7 +34,9 @@ An intimate performance for one (or two people) at a time, *Told in Confidence* 
 [www.hiddentracktheatre.co.uk](http://www.hiddentracktheatre.co.uk)     
 ![Hidden Track](HTrack.jpg)    
 
-**J. Fergus Evans ¦ *She Sang Me To Sleep With It *** *(work in progress)*    
+
+**J. Fergus Evans ¦ *She Sang Me To Sleep With It (work in progress)***      
+
 We all remember at least one song from our childhood - a lullaby our mother sang us, the theme song from our favourite tv show, the song we sang on road trips, the pop song our older sister taught us.     
 Poet and performer J. Fergus Evans is asking you to teach him a song from your childhood over a cup of tea, and he might just give you something in return. And don't worry - he isn't a very good singer either.    
 *She Sang Me To Sleep With It* was originally conceived at CAMPSITE 2014 with support from the Jerwood Charitable Foundation.                                                                                                                                                  [jfergusevans.com](http://www.jfergusevans.com)                                                                                                                                                            	**Boland-Burrell + Byrne ¦ *Hero- Episode 1: Gunslinger***     
@@ -43,7 +45,7 @@ Well here's your chance!
 This immersive audio experience puts you in the driving seat of a wild-west adventure.    
 It's your time to put on your hat, take-up your shooting iron and be the hero you were always meant to be.    
 Voices:   Narration - Liam Byrne;  Old Man/Additional - Joshua Boland-Burrell;  Bartender/Santos/Additional - Luke Richards    
-![Boland-Burrell + Byrne](Liam.jpg)     
+![Boland-Burrell + Byrne](LiamB.jpg)     
  
 **Krissi Musiol ¦ *Making Time***    
 Make something happen in 1 year or 10.  I will deliver to your dedication.  I will do my best to ensure it reaches you on time.    
