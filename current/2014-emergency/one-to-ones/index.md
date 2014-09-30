@@ -21,30 +21,36 @@ header_image:
 ####Order of Appearance (subject to change):      
 [Emergency 2014](/current/2014-emergency) runs from 12noon to 10pm and is primarily an adult event; from 3pm onwards we *advise* that work may not be suitable for under 18s.      
        
-**ONGOING/DURATIONAL: 12noon-5.30pm**     
-**Barbara Dean ¦ *home corner***    	
-Welcome to the 'home corner', a crafty DIY emergency arts table.    
-Need to settle a few scores at the dinner table, or having problems whiling away the hours with another 'boring' day at home? Come and join artist Barbara Dean in creating your very own stuffed toy hand drill... see you at the 'home corner'.    
-[www.barbaradean.org](http://www.barbaradean.org)      
-![Barbara Dean](BDean.jpg)     
-**Hamish MacPherson ¦ *How Many Chairs to Build The Future?***      
-A cross between a game, a choreography and a philosophical playground. Come and find out what you really mean when you think about the future, freedom and 100 other fundamental ideas.      
-[hamishmacpherson.co.uk](http://hamishmacpherson.co.uk)     
-![Hamish MacPherson](Hamish.jpg)    
+**ONE-TO-ONES**     
+**Alice Bunker-Whitney ¦ *It's Never Too Late To Have A Happy Childhood.***    	
+A sensory experience for adults and their inner child.    
+Created and performed by Alice Bunker-Whitney.  Original score created by her parents, The Surf Messengers    .
+First developed as part of Hope Street Limited's On The Verge festival, with guidance from Elinor Randle (Tmesis Theatre).    
+      
+![Alice Bunker-Whitney](alicebw.jpg)     
+**Hidden Track ¦ *Told in Confidence***      
+I am going to tell you a story that I never tell anyone. But it's okay to tell you, because I don't know who you are.    
+An intimate performance for one (or two people) at a time, *Told in Confidence* is a gentle reflection on the taboos and stigma surrounding mental health. Through traditional storytelling and playful use of darkness and light, a space is created where secrets can be shared. Some things can only really be said to a stranger.    
+[www.hiddentracktheatre.co.uk](http://www.hiddentracktheatre.co.uk)     
+![Hidden Track](HTrack.jpg)    
 
-**Hooligans Present ¦ *SMALL TALK***    
-Tickle your chatter glands with an intimate textual journey for two.    
-Text Message 07474 360606.    
-No topic too big, or focus too small. A speciality EMERGENCY nugget for playful brain exchange. Must end by FIVE.    
-	**Martin Hamblen ¦ *A device for digging***     
-Martin Hamblen performs phrases.  He does the saying.     
-At Emergency he will call a spade, a spade.	     
-
-**VIA Collective ¦ *THE ORBIT***    
-Five people going on a journey together.      
-Starting point: here and now. Final destination: yet to be announced.     *THE ORBIT* is a durational piece where different worlds are reached through the repetition of the simple act of moving.    Multinational theatre company VIA Collective invites you to go on a venture that transcends the perimeters of our dimension.    
-VIA Collective is: Shanna May Breen, Vjera Orbanic, Yoli Seker, Zlil-hen Saks, Rakel Dimar.    
-![VIA Collective](viac.jpg)     
+**J. Fergus Evans ¦ *She Sang Me To Sleep With It *** *(work in progress)*    
+We all remember at least one song from our childhood - a lullaby our mother sang us, the theme song from our favourite tv show, the song we sang on road trips, the pop song our older sister taught us.     
+Poet and performer J. Fergus Evans is asking you to teach him a song from your childhood over a cup of tea, and he might just give you something in return. And don't worry - he isn't a very good singer either.    
+*She Sang Me To Sleep With It* was originally conceived at CAMPSITE 2014 with support from the Jerwood Charitable Foundation.                                                                                                                                                  [jfergusevans.com](http://www.jfergusevans.com)                                                                                                                                                            	**Boland-Burrell + Byrne ¦ *Hero- Episode 1: Gunslinger***     
+Have you ever wanted to be a hero? Fight the bad guys and save the day?    
+Well here's your chance!     
+This immersive audio experience puts you in the driving seat of a wild-west adventure.    
+It's your time to put on your hat, take-up your shooting iron and be the hero you were always meant to be.    
+Voices:   Narration - Liam Byrne;  Old Man/Additional - Joshua Boland-Burrell;  Bartender/Santos/Additional - Luke Richards    
+![Boland-Burrell + Byrne](Liam.jpg)     
+ 
+**Krissi Musiol ¦ *Making Time***    
+Make something happen in 1 year or 10.  I will deliver to your dedication.  I will do my best to ensure it reaches you on time.    
+A 6 minute one-to-one piece - about living, about doing, about not putting off tomorrow, about Making Time for all the things we want to do.    
+Krissi Musiol is a North West based solo contemporary performance maker, writer and performer. Since 2004, Krissi has been developing her own unique performance style, incorporating culture and identity, fusing together poetry and found materials, autobiographical experiences as well as themes of gambling, dancing and cake!     
+[krissimusiol.co.uk](http://krissimusiol.co.uk)    
+![Krissi Musiol](KMusiol.jpg)     
 
           
 ####Venues + Booking Details  
