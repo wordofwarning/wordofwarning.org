@@ -22,7 +22,7 @@ header_image:
 [Emergency 2014](/current/2014-emergency) runs from 12noon to 10pm and is primarily an adult event; from 3pm onwards we *advise* that work may not be suitable for under 18s.      
        
 **ONGOING/DURATIONAL: 12noon-5.30pm**     
-**Barbara Dean ¦ *home corner***    	
+**Barbara Dean ¦ *home corner***        
 Welcome to the 'home corner', a crafty DIY emergency arts table.    
 Need to settle a few scores at the dinner table, or having problems whiling away the hours with another 'boring' day at home? Come and join artist Barbara Dean in creating your very own stuffed toy hand drill... see you at the 'home corner'.    
 [www.barbaradean.org](http://www.barbaradean.org)      
