@@ -14,7 +14,7 @@ Old friends [Action Hero](/current/2014-autumnwinter/actionhero) (last seen [2 y
         
 Glitter, chicken legs and a rice pudding piñata return us to The Lowry Studio in [Selina Thompson](/current/2014-autumnwinter/thompson)'s version of a midnight feast; somewhere between confessions made over coffee at Weight Watchers and sloppy drunken story-telling over a 3am kebab, it's a powerful portrayal of how we live with our bodies.    
         
-Closing with a work-in-progress by newly-commissioned [Michael Pinchbeck](/current/2014-autumnwinter/pinchbeck) — a slideshow exploring absence and presence, flying and falling, and the power of the artist to fail or be free; (*very limited capacity*).     
+Closing with a work-in-progress by newly-commissioned [Michael Pinchbeck](/current/2014-autumnwinter/pinchbeck) — a slideshow exploring absence and presence, flying and falling, and the power of the artist to fail or be free; *very limited capacity*.     
         
 We look forward to seeing you at some or all of it; if you want to check out what happened last season, have a look at our [Spring/Summer 2014 archive](/archive/2014-springsummer).        
         
