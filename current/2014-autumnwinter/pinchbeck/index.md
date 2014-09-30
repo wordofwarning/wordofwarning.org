@@ -6,7 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Michael Pinchbeck" # the name of the artist or company
-show: "The Man Who Flew Into Space From His Apartment<br>(work in progress)" # the name of the show
+show: "The man who flew into space from his apartment<br>(work in progress)" # the name of the show
 artist_size: 1
 show_size: 4
 header_image: "header_pinchbeck.jpg"
@@ -32,6 +32,8 @@ Box Office Tel: 0161 232 6089
 In the Gallery at Z-arts, the work-in-progress will last 30-40 minutes (with no interval). Age advisory 16+.             
            
 ####More   
+*There is a room with Soviet propaganda on the walls. In the corner of the room is a diorama of the city with a wire shooting out of it. There is a catapult-like device in the centre of the room. On the floor there are shards of plaster and a pair of shoes. There is a hole in the ceiling. The room has been sealed by the authorities with hazard tape. This is 'The man who flew into space from his apartment'. This is an installation viewed through a crack in an old wooden door in a gallery like this one.*      
+           
 Michael Pinchbeck takes inspiration from an installation by Russian artist Ilya Kabakov, to make a performance for a gallery space; originally part of a series of installations called *Ten Characters*, *The Man Who Flew Into Space From His Apartment* was only exhibited when Kabakov emigrated to the West. The piece explores themes of utopia and dystopia, optimism and pessimism, absence and presence — weaving together historical and autobiographical narratives, Michael creates a multi-layered performance that responds to the artwork and the gallery in which it is shown.           
            
 A powerful and moving biography of an installation that talks of the world in which it was made; at the same time, it questions an understanding of space by relating outer space to the gallery space, the journey of the man with that of the audience involved, taking a leap of faith and heading into the unknown. Drawing on notions of escape, it makes a journey (like Kabakov) between east and west, flying and falling, attempt and failure. Using found text and an old slide projector, Michael presents a gallery tour for an empty gallery, to be performed by a guest performer in front of an audience of ten: the audience becomes the *Ten Characters* in Kabakov's work.
