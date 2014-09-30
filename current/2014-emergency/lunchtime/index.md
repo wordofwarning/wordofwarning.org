@@ -23,8 +23,9 @@ header_image:
           
 **Ana Mendes ¦ *Map Series***           
 A performance installation on colonialism, in which Ana Mendes stitches the maps of the British Empire using a sewing machine. From Canada to Nigeria, India to Asia, see the rise and fail of an empire. Part experiment, part musical composition, *Map Series* makes you think: what is an empire today?           
-[www.anamendes.com](http://www.anamendes.com) ¦ [@anamendesana](http://twitter.com/anamendesana)    
-          
+[www.anamendes.com](http://www.anamendes.com) ¦ [@anamendesana](http://twitter.com/anamendesana)        
+![Ana Mendes](anamendes.jpg)        
+     
 **Anton Mirto ¦ *earning innocence /3***          
 Can looking for who you are, be who you are?      
 In a world where we are consuming ourselves in the form of images, where our sense of identity is replicated and sold back to us, how do we remember who we are and who we have been?     
@@ -37,7 +38,7 @@ Concept & Direction: Anton Mirto ¦ Performer: Eleftheria Tzamtzi ¦ Sound Desig
 An audio experience and challenge.      
 Taking 2 willing audience members at a time, the work shifts the balance between performer and audience, asking you to become the watched as you take part in this collaborative experience, where you can find out just what type of performer you are and what type of performance you and your fellow stand in will make.      
 Art Of Disappearing is artists Rachel Champion & Tristan Shorr. ¦ Supported through Chisenhale Dance Space and the Homemade commission; thanks to Laura, Katherine and the rest of the Chisenhale team. [www.artofdisappearing.com](http://www.artofdisappearing.com) ¦ [@R_Champion_ ](http://twitter.com/R_Champion_) & [@shorr_tristan](http://twitter.com/shorr_tristan)          
-![Ana Mendes](anamendes.jpg)      
+   
   
 **Debbie Sharp ¦ *A Requiem For The Darkness (fragment)***   
 A fragment of a larger requiem, this piece looks into the space between life and death: the place of waiting, the mechanics of the mind, memories and the frailness of the body.           
