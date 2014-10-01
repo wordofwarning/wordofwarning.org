@@ -54,7 +54,7 @@ Mentored by David Rosenberg ¦ Music by Michael Donnelly ¦ Commissioned by Drun
 *Frank's still here. Or is he?<br>The old Frank played the guitar on stage. This Frank can't even bring himself to take it out of the case.*       
 The story of a relationship forged through music. A relationship between an elderly man with extreme Anxiety Disorder and a young music facilitator. Using the testimonies of people living with mental health issues, this compelling performance explores how music can heal a mind in chaos.     
 Performed by Olivia Preye ¦ Devised in collaboration with The Unhidden Collective ¦ Supported by the Barbican, The Yard Theatre and with public funding by the National Lottery through Arts Council England.             
-<http://findingfrank.tumblr.com>        
+<http://findingfrank.tumblr.com> ¦ <http://theunhiddencollective.wordpress.com>     
 ![Olivia Preyes](OliviaP.jpg)           
           
 **Matthew Pearce ¦ *Finding Kalen Bushe***        
