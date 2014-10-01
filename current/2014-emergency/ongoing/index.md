@@ -49,7 +49,7 @@ Five people going on a journey together.
 Starting point: here and now. Final destination: yet to be announced.           
 *THE ORBIT* is a durational piece where different worlds are reached through the repetition of the simple act of moving. Multinational theatre company VIA Collective invites you to go on a venture that transcends the perimeters of our dimension.      
 VIA Collective is Shanna May Breen, Vjera Orbanic, Yoli Seker, Zlil-hen Saks + Rakel Dimar.          
-[@via_collective](http://twitter.com/via_collective)        
+[VIA Collective facebook](http://www.facebook.com/viacollective) ¦ [@via_collective](http://twitter.com/via_collective)        
 ![VIA Collective](viac.jpg)             
           
 ####Venues + Booking Details  
