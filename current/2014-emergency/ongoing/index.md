@@ -5,9 +5,9 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency 2014"
-show: "Ongoing/Durational"
+show: "Ongoing/Durational: 12noon-5.30pm"
 artist_size: 1
-show_size: 3
+show_size: 2
 header_image:
 
 # ABOUT THE SHOW - LAYOUT
@@ -48,7 +48,7 @@ At Emergency 2014 he will call a spade, a spade.
 Five people going on a journey together.          
 Starting point: here and now. Final destination: yet to be announced.           
 *THE ORBIT* is a durational piece where different worlds are reached through the repetition of the simple act of moving. Multinational theatre company VIA Collective invites you to go on a venture that transcends the perimeters of our dimension.      
-VIA Collective is Shanna May Breen, Vjera Orbanic, Yoli Seker, Zlil-hen Saks, Rakel Dimar.          
+VIA Collective is Shanna May Breen, Vjera Orbanic, Yoli Seker, Zlil-hen Saks + Rakel Dimar.          
 [@via_collective](http://twitter.com/via_collective)        
 ![VIA Collective](viac.jpg)             
           
