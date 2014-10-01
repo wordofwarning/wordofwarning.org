@@ -28,8 +28,9 @@ A fragment of a larger project inspired by iconic 1930s African-American actress
           
 **Art of Disappearing ¦ *The Stand In***          
 An audio experience and challenge.      
-Taking 2 willing audience members at a time, the work shifts the balance between performer and audience, asking you to become the watched as you take part in this collaborative experience, where you can find out just what type of performer you are and what type of performance you and your fellow stand in will make. Art Of Disappearing is artists Rachel Champion & Tristan Shorr.  
-Supported through Dance and the Homemade commission; thanks to Laura, Katherine and the rest of the Chisenhale Dance Space team.  
+Taking 2 willing audience members at a time, the work shifts the balance between performer and audience, asking you to become the watched as you take part in this collaborative experience, where you can find out just what type of performer you are and what type of performance you and your fellow *Stand In* will make.              
+Art Of Disappearing is artists Rachel Champion + Tristan Shorr.       
+Supported through a Dance and the Homemade commission; thanks to Laura, Katherine and the rest of the Chisenhale Dance Space team.  
 [www.artofdisappearing.com](http://www.artofdisappearing.com) ¦ [@R_Champion_ ](http://twitter.com/R_Champion_) + [@shorr_tristan](http://twitter.com/shorr_tristan)          
           
 **Eik + Orengo ¦ *the air I fill is near to empty // paradise was there, in the silence between our thoughts.***         
