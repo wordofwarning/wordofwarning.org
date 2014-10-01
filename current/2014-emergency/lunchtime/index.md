@@ -51,7 +51,7 @@ A performance installation on colonialism, in which Ana Mendes stitches the maps
 A performance installation exploring contact between body, object, performance structures and heightened emotional states via sound. Making sound by touching in a simple and ritualistic performance, the artist interacts instinctively according to the unique situation, architecture and acoustic design of Z-arts' Rear Atrium, creating a temporary sound monument to the moment.   
 Rosanne Robertson is an artist based in the North of England working with vibrations, objects and the body.             
 *For me Rosanne's very much a 'doodlebug', that is to say, a provocateur who tirelessly works across all  platforms, creating work by any medium necessary and who works beneath the skin* — Dazed and Confused.       
-[rosannerobertson.com](http://www.rosannerobertson.com) ¦ [@R0sanneR](http://twitter.com/R0sanneR)            
+[rosannerobertson.com](http://www.rosannerobertson.com) ¦ [Rosanne Robertson facebook](http://www.facebook.com/rosanne.robertson) ¦ [@R0sanneR](http://twitter.com/R0sanneR)            
 ![Rosanne Robertson](RRobertson.jpg)              
           
 **Debbie Sharp ¦ *A Requiem For The Darkness (fragment)***   
