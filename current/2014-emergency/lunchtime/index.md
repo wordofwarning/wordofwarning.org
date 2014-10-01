@@ -30,7 +30,8 @@ A performance installation on colonialism, in which Ana Mendes stitches the maps
 Can looking for who you are, be who you are?      
 In a world where we are consuming ourselves in the form of images, where our sense of identity is replicated and sold back to us, how do we remember who we are and who we have been?     
 A work in development that explores finding and hiding the self and our need for memorialisation. Using silver foil a woman mass-produces versions of herself through moulding her face live.         
-Concept & Direction: Anton Mirto ¦ Performer: Eleftheria Tzamtzi ¦ Sound Design: Konstantinis Tsitsas ¦ A first iteration of *earning innocence* was supported & presented at The Yard Theatre, London, March 2014.   
+Concept & Direction: Anton Mirto ¦ Performer: Eleftheria Tzamtzi ¦     
+Sound Design: Konstantinis Tsitsas ¦ A first iteration of *earning innocence* was supported & presented at The Yard Theatre, London, March 2014.   
 [a2company.org](http://www.A2company.org)         
 ![Anton Mirto](antonmirto.jpg)      
 
@@ -50,7 +51,7 @@ Here comes darkness — watching, creeping, stalking. Here comes darkness, holdi
 During a not-so-perfect family holiday in southern Spain, a boy sits on a beach sipping sangria and building sandcastles, desperately trying to have fun. A short performance piece about the countless awkward, absurd and atrocious moments we have on the cusp of being young and naive enough to think you can save the world, but old and cynical enough to start doubting if it's even worth bothering.       
 Jamil Keating is an emerging theatre-maker, writer and performer currently undertaking a residency at the Whitworth Art Gallery. ‘Sandcastles’ is his live art debut, the first step in an artistic journey of trying to find the balance between being overwhelmed by  perverse enthusiasm for the craziness of life, and trying to say something of substance about it... simply.    
 
-**Peter Jacobs ¦ *KINDLING*** 
+**Peter Jacobs ¦ *KINDLING***      
 An examination of the nature and value of reading and the printed word in an increasingly digital age.     
 What is the value of printed books? And how can you control, manipulate and destroy education, ideas and narratives once transferred from page to human consciousness?     
 *KINDLING* explores the relationship between words and ideas, imagination and experience in a durational installation performance that questions why we read, the value of books as artefacts and where they take us individually and as a society.     
