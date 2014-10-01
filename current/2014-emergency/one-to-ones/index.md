@@ -37,7 +37,7 @@ Voices: Narration — Liam Byrne ¦ Old Man/Additional — Joshua Boland-Burrell
 **Hidden Track ¦ *Told in Confidence***           
 I am going to tell you a story that I never tell anyone. But it's okay to tell you, because I don't know who you are.             
 An intimate performance for one (or two people) at a time, *Told in Confidence* is a gentle reflection on the taboos and stigma surrounding mental health. Through traditional storytelling and playful use of darkness and light, a space is created where secrets can be shared. Some things can only really be said to a stranger.       
-[www.hiddentracktheatre.co.uk](http://www.hiddentracktheatre.co.uk) ¦ [@HiddenTrackTC](http://twitter.com/HiddenTrackTC)          
+[www.hiddentracktheatre.co.uk](http://www.hiddentracktheatre.co.uk) ¦ [Hidden Track facebook](http://www.facebook.com/HiddenTrackTheatre) ¦ [@HiddenTrackTC](http://twitter.com/HiddenTrackTC)          
 ![Hidden Track](HTrack.jpg)             
           
 **J. Fergus Evans ¦ *She Sang Me To Sleep With It*** *(work in progress)*      
