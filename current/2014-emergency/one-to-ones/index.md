@@ -19,13 +19,10 @@ header_image:
 *Presented by* Word of Warning, STUN + Z-arts *during* [Emergency 2014](/current/2014-emergency)    
           
 ####Order of Appearance (subject to change):      
-[Emergency 2014](/current/2014-emergency) runs from 12noon to 10pm and is primarily an adult event; from 3pm onwards we *advise* that work may not be suitable for under 18s.      
-       
-**ONE-TO-ONES**     
+[Emergency 2014](/current/2014-emergency) runs from 12noon to 10pm and is primarily an adult event; from 3pm onwards we *advise* that work may not be suitable for under 18s.         
 **Alice Bunker-Whitney ¦ *It's Never Too Late To Have A Happy Childhood.***       
 A sensory experience for adults and their inner child.    
-Created and performed by Alice Bunker-Whitney.  Original score created by her parents, The Surf Messengers    .
-First developed as part of Hope Street Limited's On The Verge festival, with guidance from Elinor Randle (Tmesis Theatre).    
+Created and performed by Alice Bunker-Whitney ¦ Original score created by her parents, The Surf Messengers  ¦ First developed as part of Hope Street Limited's On The Verge festival, with guidance from Elinor Randle (Tmesis Theatre).    
       
 ![Alice Bunker-Whitney](alicebw.jpg)     
 **Hidden Track ¦ *Told in Confidence***      
@@ -44,7 +41,7 @@ Have you ever wanted to be a hero? Fight the bad guys and save the day?
 Well here's your chance!     
 This immersive audio experience puts you in the driving seat of a wild-west adventure.    
 It's your time to put on your hat, take-up your shooting iron and be the hero you were always meant to be.    
-Voices:   Narration - Liam Byrne;  Old Man/Additional - Joshua Boland-Burrell;  Bartender/Santos/Additional - Luke Richards    
+Voices:   Narration - Liam Byrne ¦ Old Man/Additional - Joshua Boland-Burrell ¦ Bartender/Santos/Additional - Luke Richards    
 ![Boland-Burrell + Byrne](LiamB.jpg)     
  
 **Krissi Musiol ¦ *Making Time***    
