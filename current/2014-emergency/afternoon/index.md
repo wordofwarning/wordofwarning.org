@@ -44,7 +44,7 @@ A collaboration between Eik Elnes + Maria Jam Orengo (Brighton University).
 An examination of the nature and value of reading and the printed word in an increasingly digital age.        
 What is the value of printed books? And how can you control, manipulate and destroy education, ideas and narratives once transferred from page to human consciousness?                         
 *KINDLING* explores the relationship between words and ideas, imagination and experience in a durational installation performance that questions why we read, the value of books as artefacts and where they take us individually and as a society.     
-[peter-jacobs.weebly.com](http://peter-jacobs.weebly.com) ¦ [@PeterTJacobs](http://twitter.com/PeterTJacobs)            
+<http://peter-jacobs.weebly.com> ¦ [@PeterTJacobs](http://twitter.com/PeterTJacobs)            
           
 **Frances-Kay ¦ *"Sorry"***             
 What am I sorry for?          
