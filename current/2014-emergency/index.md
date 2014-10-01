@@ -25,20 +25,25 @@ From gallery to theatre, changing room to basement, Z-arts will reverberate with
         
 Alice Bunker-Whitney ¦ Ana Mendes ¦ Anton Mirto ¦ Art Of Disappearing ¦ Barbara Dean ¦ Boland-Burrell + Byrne ¦ Debbie Sharp ¦ Eik + Orengo ¦ FM ¦ Frances-Kay ¦ Hamish MacPherson ¦ Hidden Track ¦ Hooligans Present ¦ J. Fergus Evans ¦ Jade Montserrat ¦ Jamil Keating ¦ Jonathan Rogerson ¦ Krissi Musiol ¦ Lydia Cottrell ¦ Martin Hamblen ¦ Matthew Pearce ¦ Nathan Birkinshaw ¦ Neil Callaghan ¦ Odd Comic ¦ Olivia Preye ¦ Paul O'Donnell ¦ Peter Jacobs ¦ Rosanne Robertson ¦ VIA Collective        
               
-**N.B.** Primarily an adult event, Emergency 2014 runs from 12noon to 10pm; from 3pm onwards we *advise* that work may not be suitable for under 18s.
-       
+**N.B.** Primarily an adult event, Emergency 2014 runs from 12noon to 10pm; from 3pm onwards we *advise* that work may not be suitable for under 18s.    
+          
 ####Venues + Booking Details
 Date: Saturday 4 October 2014, 12noon-10pm    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: FREE no booking required; some ltd capacity shows will have sign-up sheets on the day        
 Venue Tel: 0161 232 6089    
 
+####Schedule (*timings are approximate and subject to change*)          
+To download, right click and save image.    
+![Schedule Daytime](Emergency-2014-schedule-1.jpg)    
+![Schedule Evening](Emergency-2014-schedule-2.jpg)    
+
 ####What people said about Emergency 2013        
 A review of the work presented at BLANKSPACE by [C. James Fagan](http://confusedguff.blogspot.co.uk/2013/10/emergency-2013.html).        
 A review of some of the work presented at Z-arts by [The Mancunion](http://mancunion.com/2013/10/17/emergency2013).        
         
 ####Access Information    
-Emergency 2014 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. Largely adult-focussed, some works will not be suitable for younger viewers (i.e. under 18s) from 3pm. For specific age and access information please see the programme notes, email <mailto:info@habarts.org> or call 0161 232 6086.    
+Emergency 2014 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. Largely adult-focussed, some works will not be suitable for younger viewers (i.e. under 18s) from 3pm.  We apologise but some of the of one-to-ones are not wheelchair accessible.  For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
             
 ####Credits         
 [Emergency](/hab/emergency) 2014 is produced by [hÅb](/hab); supported using public funding through Arts Council England, funded by Manchester City Council, supported by [STUN](http://stunlive.com) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.        
