@@ -31,7 +31,7 @@ Can the rules of being a mime really be so black and white?
 An investigation of the interactions, language and physicality associated with pet-ownership.       
 Spoken word, physical theatre and seemingly unpredictable occurrences take place as two people search for a better understanding of the "pet phenomenon". Surprising dialogue about pets and those who own them. An interpretation of the familiar yet absurd world of pets, pet lovers and pet lover-haters.             
 Devised by Odd Comic (Dot Howard + Holly Bodmer) with support from Escalator Live Art + Norwich Arts Centre, supported using public funding by the National Lottery through Arts Council England.            
-[www.oddcomic.co.uk](http://www.oddcomic.co.uk) ¦ <http://mychampionheartache.tumblr.com> ¦ [@OddComic](http://twitter.com/OddComic)           
+[www.oddcomic.co.uk](http://www.oddcomic.co.uk) ¦ <http://mychampionheartache.tumblr.com> ¦ [Odd Comic facebook](http://www.facebook.com/oddcomic) ¦ [@OddComic](http://twitter.com/OddComic)           
 ![Odd Comic](OddComic.jpg)              
           
 **FM ¦ *Reunion***            
