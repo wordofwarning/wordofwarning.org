@@ -51,7 +51,7 @@ What am I sorry for?
 Sorry for not equalling the glossy images of women, images that are simulations of our collective fantasy.              
 Sorry for performing the rituals which should keep me in line with an idea of a standard set down by people unknown.    
 Previously seen at Liverpool's The1st4, *"Sorry"*  is an exploration of the modern female and expectations of modern society.     
-**N.B.** *"Sorry"* contains material of an adult nature, that some may find upsetting.             
+**N.B.** Contains material of an adult nature that some may find upsetting.             
 <http://franceskayperformanceart.wordpress.com> ¦ [FK facebook](http://www.facebook.com/artists.FrancesKay) ¦ [@_FrancesKay](http://twitter.com/_FrancesKay)              
 ![Frances-Kay](FrancesKay.jpg)          
           
