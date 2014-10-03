@@ -66,6 +66,9 @@ It has become a solo that touches upon the round-the-world voyage of Bernard Moi
 With huge thanks to Natasha Davis, Bob Karper, Simone Kenyon, Theron Schmidt, Hannah Walker, Holly, Rosie, Emma, Laura + all the Chisenhale Dance team. ¦ Supported through A Dance and the Homemade commission.          
 [@neilacallaghan](http://twitter.com/neilacallaghan)        
           
+**Odd Comic… ¦ *…Do Jazz***         
+Join us in a rousing jazz fanfare for Emergency's 15th birthday!      
+          
 ####Venues + Booking Details  
 Date: Saturday 4 October 2014, 12noon-10pm        
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA         
