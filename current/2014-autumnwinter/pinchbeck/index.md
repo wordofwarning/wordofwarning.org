@@ -6,7 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Michael Pinchbeck" # the name of the artist or company
-show: "The man who flew into space from his apartment<br>(work in progress)" # the name of the show
+show: "The man who flew into space from his apartment<br>(work-in-progress)" # the name of the show
 artist_size: 1
 show_size: 4
 header_image: "header_pinchbeck.jpg"
@@ -20,7 +20,7 @@ header_image: "header_pinchbeck.jpg"
 *Presented by* Word of Warning        
            
 ####In Brief     
-A slideshow exploring absence and presence, flying and falling, and the power of the artist to fail or be free.          
+A slideshow exploring absence and presence, flying and falling, and the power of the artist to fail or be free; a specially commissioned work-in-progress.          
           
 ####Venue + Booking Details      
 Date: Friday 28 November 2014, 6pm + 8pm (repeats)     
