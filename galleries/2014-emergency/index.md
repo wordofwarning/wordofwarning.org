@@ -20,7 +20,7 @@ gallery:
     -   {file: "eik.jpg", artist: "Eik + Orengo"}
     -   {file: "debbie.jpg", artist: "Debbie Sharp"}
     -   {file: "martin.jpg", artist: "Martin Hamblen"}
-    -   {file: "francis.jpg", artist: "Frances Kay"}
+    -   {file: "frances.jpg", artist: "Frances Kay"}
     -   {file: "jamil.jpg", artist: "Jamil Keating"}
     -   {file: "jade.jpg", artist: "Jade Montserrat"}
     -   {file: "jonathan.jpg", artist: "Jonathan Rogerson"}
