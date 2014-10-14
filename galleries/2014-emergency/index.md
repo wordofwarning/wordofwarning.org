@@ -12,10 +12,11 @@ more_link: Emergency 2014
 more_url: "../../current/2014-emergency"
 
 gallery:
-    -   {file: "titlepage.jpg", show: "<small>Title page Lydia Cottrell by Sheena Holliday, remainder copyright &copy;2014 Word of Warning</small>"}
+    -   {file: "titlepage.jpg", show: "<small>Title page: Lydia Cottrell by Sheena Holliday; remainder copyright &copy;2014 Word of Warning</small>"}
     -   {file: "anton.jpg", artist: "Anton Mirto"}
     -   {file: "peter.jpg", artist: "Peter Jacobs"}
-    -   {file: "hamish.jpg", artist: "Hamish Macpherson"}
+    -   {file: "art.jpg", artist: "Art of Disappearing"}
+    -   {file: "hamish.jpg", artist: "Hamish MacPherson"}
     -   {file: "rosanne.jpg", artist: "Rosanne Roberston"}
     -   {file: "eik.jpg", artist: "Eik + Orengo"}
     -   {file: "debbie.jpg", artist: "Debbie Sharp"}
