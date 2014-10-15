@@ -15,7 +15,7 @@ header_image: "header_turn_photo.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Turn** is our annual platform for NW dancers + dance-makers, featuring over 15 short pieces of work over two nights in Manchester.       
+**Turn** is our annual platform for NW dancers + dance-makers, featuring over 15 short pieces of work over two nights in Manchester, usually in the spring.       
        
 Our **[sixth Turn](/archive/2014-turn)** was at Contact on 4+5 April 2014, to get a feel for it see some [images](/galleries/2014-turn) — or delve further with 2013's [programme](/archive/2013-turn) + [image gallery](/galleries/2013-turn).       
        
