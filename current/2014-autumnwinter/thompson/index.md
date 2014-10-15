@@ -19,7 +19,7 @@ header_image: "header_selina.jpg"
 *Presented by* The Lowry + Word of Warning      
        
 ####In Brief      
-Glitter, chicken legs and a rice pudding piñata: Selina invites you to her own version of a midnight feast, a cross between the confessions made over coffee at Weight Watchers, and sloppy drunken story-telling over a 3am kebab. Sitting somewhere between story-telling, stand-up, live art and theatre, *Chewing The Fat* is a powerful portrayal of how we live with our bodies.      
+Glitter, chicken legs and a rice pudding piñata… Selina invites you to her own version of a midnight feast: a cross between the confessions made over coffee at Weight Watchers, and sloppy drunken story-telling over a 3am kebab. Sitting somewhere between story-telling, stand-up, live art and theatre, *Chewing The Fat* is a powerful portrayal of how we live with our bodies.      
         
 ####Venue + Booking Details    
 Date: Friday 7 November 2014, 8pm     
