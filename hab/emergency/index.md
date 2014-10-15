@@ -15,9 +15,9 @@ header_image: "header_emergency_photo.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Emergency** is our annual platform for live art + contemporary performance, featuring at least 25 short pieces of work over a day/evening in Manchester… 
+**Emergency** is our annual platform for live art + contemporary performance, featuring at least 25 short pieces of work over a day/evening in Manchester…             
              
-Staged for the first time entirely at [Z-arts](http://www.z-arts.org/about-us/getting-here), our **[fifteenth Emergency](/current/2014-emergency)** took place on Saturday 4 October 2014 — to get a feel for it see 2014's [programme](/current/2014-emergency) + [gallery](/galleries/2014-emergency).        
+Our **[fifteenth Emergency](/current/2014-emergency)** took place on Saturday 4 October 2014, staged for the first time entirely within the cavernous realms of [Z-arts](http://www.z-arts.org/about-us/getting-here), see some [images](/galleries/2014-emergency). For a glimpse of our previous performance lucky-dip see 2013's [programme](/archive/2013-emergency) + [gallery](/galleries/2013-emergency).        
       
 **Emergency is:**    
 • a free, public micro-festival + open submission platform;   
@@ -26,4 +26,4 @@ Staged for the first time entirely at [Z-arts](http://www.z-arts.org/about-us/ge
         
 Enquiries: <mailto:emergency@habarts.org> ¦ <http://emergencymcr.org> ¦ #EmergencyMcr        
         
-[Emergency 2014](/current/2014-emergency) was presented by Word of Warning, STUN + Z-arts; produced by hÅb; supported using public funding through Arts Council England, funded by Manchester City Council, supported by STUN + Z-arts; a greenroom legacy project.
+[Emergency 2014](/current/2014-emergency) was presented by Word of Warning, STUN + Z-arts; produced by hÅb; supported using public funding through Arts Council England, funded by Manchester City Council; a greenroom legacy project.
