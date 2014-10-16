@@ -48,7 +48,7 @@ Selina invites you to her own version of a midnight feast: somewhere between the
 ####Who is she?    
 An artist + performer based in Leeds, Selina's work is playful, participatory and intimate — focused on the politics of identity and how this defines our bodies, lives and environments. She has made work for pubs, cafes, hairdressers, toilets, and sometimes even galleries and theatres, including SPILL Festival of Performance, The National Theatre Studio, The Birmingham REP, East Street Arts and the West Yorkshire Playhouse.           
               
-Over the past couple of years she's been developing a body of works, *Edible Women*, exploring the fat body, dieting, control around food, how much of a mess she can get away with creating with an audience, and a taste for excess; so far she has made a theatre show, build a dress out of cake, and spend quite a lot of time listening to people confess their food sins, as well as sharing many of her own.          
+Over the past couple of years she's been developing a body of works, *Edible Women*, exploring the fat body, dieting, control around food, how much of a mess she can get away with creating with an audience, and a taste for excess; so far she has made a theatre show, built a dress out of cake, spent quite a lot of time listening to people confess their food sins and shared many of her own…          
               
 ####What people have said about her         
 >*4\* … a credible and slick piece of work, by turns disconcerting and uplifting.*<br>Paul Couch, The Public Reviews        
