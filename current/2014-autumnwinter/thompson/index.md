@@ -46,8 +46,10 @@ The performance lasts approximately 70 minutes with no interval. Age advisory: 1
 Selina invites you to her own version of a midnight feast: somewhere between the confessions made over coffee at Weight Watchers, and sloppy drunken story-telling over a 3am kebab. She infuses discussion of complex, life-long issues with weight with laughter, popping balloons and a healthy dose of rice pudding to result in something truly vibrant. Sitting somewhere between story-telling, stand-up, live art and theatre, *Chewing The Fat* is a powerful and extremely open portrayal of how we live with our bodies, on both the days when they are beautiful, and the days when they are a burden.          
              
 ####Who is she?    
-Selina Thompson is a 22-year-old performance artist based in Leeds. She seeks to create work that leaves the audience feeling brave and optimistic, even if she has to reveal things that are painful in order to do this. She has performed in a variety of contexts, including the SPILL international platform for performing arts in Ipswich and in London. Described as a ‘one man band’ by her mother, Selina is a performer, theatre-maker and artist whose work is joyous, participatory and centred around ideas of change.       
-        
+An artist + performer based in Leeds, Selina's work is playful, participatory and intimate — focused on the politics of identity and how this defines our bodies, lives and environments. She has made work for pubs, cafes, hairdressers, toilets, and sometimes even galleries and theatres, including SPILL Festival of Performance, The National Theatre Studio, The Birmingham REP, East Street Arts and the West Yorkshire Playhouse.           
+              
+Over the past couple of years she's been developing a body of works, *Edible Women*, exploring the fat body, dieting, control around food, how much of a mess she can get away with creating with an audience, and a taste for excess; so far she has made a theatre show, build a dress out of cake, and spend quite a lot of time listening to people confess their food sins, as well as sharing many of her own.          
+              
 ####What people have said about her         
 >*4\* … a credible and slick piece of work, by turns disconcerting and uplifting.*<br>Paul Couch, The Public Reviews        
         
