@@ -21,8 +21,10 @@ header_image: "header_hokes.jpg"
 ####In Brief
 *Everything rests on this one free throw. On this one last shot. On these last few seconds. Action Hero have got their game faces on.*        
           
-With a nostalgic yearning for the simplicity of a world that never really existed, *Hoke's Bluff* uses the hackneyed formulas of high-school storylines and the cheap sentimentality of inspiring locker-room speeches to find out what it means to be a winner (on the inside). 
-       
+With a nostalgic yearning for the simplicity of a world that never really existed, *Hoke's Bluff* uses the hackneyed formulas of high-school storylines and the cheap sentimentality of inspiring locker-room speeches to find out what it means to be a winner (on the inside).              
+          
+See their [trailer](http://youtu.be/-TC-5DdEhSs).        
+          
 ####Venue + Booking Details    
 Dates: (Friday 24: sold-out) + Saturday 25 October 2014, 8pm     
 [Venue: Contact](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA    
