@@ -26,7 +26,7 @@ With a nostalgic yearning for the simplicity of a world that never really existe
 See their [trailer](http://youtu.be/-TC-5DdEhSs).        
           
 ####Venue + Booking Details    
-Dates: (Friday 24: sold-out) + Saturday 25 October 2014, 8pm     
+Dates: Friday 24 + Saturday 25 October 2014, 8pm     
 [Venue: Contact](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA    
 [Tickets: £11/6](http://contactmcr.com/whats-on/23692-action-hero-hokes-bluff/booking) ¦ Special offer: buy ten + get one free    
 Box Office Tel: 0161 274 0600     
