@@ -4,4 +4,4 @@ layout: home
 header_image: "assets/images/header_2014aw.jpg"
 
 ---
-####If you came along to [Emergency](/current/2014-emergency), your [feedback](http://habarts.wufoo.eu/forms/feedback) is very welcome, and there's a new [image gallery](/galleries/2014-emergency) to look at. [Next performances](/current/2014-autumnwinter): [Action Hero](/current/2014-autumnwinter/actionhero) *25 Oct <small>(24 Oct sold-out)</small>* + [Selina Thompson](/current/2014-autumnwinter/thompson) *7 Nov*
+####Thanks to our lovely + lively [Action Hero](/current/2014-autumnwinter/actionhero) audiences; any [feedback](http://habarts.wufoo.eu/forms/feedback) is very welcome. Our [A/W 2014 season](/current/2014-autumnwinter) continues with a midnight feast like no other at The Lowry Studio from [Selina Thompson](/current/2014-autumnwinter/thompson) *Fri 7 Nov*
