@@ -12,7 +12,7 @@ We begin with our 15th annual micro-marathon, as [Emergency](/current/2014-emerg
         
 Old friends [Action Hero](/current/2014-autumnwinter/actionhero) (last seen [2 years ago](/archive/2012-autumnwinter/goproject)) find out what it means to be a winner at Contact in a wistful yearning for a world that never really existed — high school storylines, inspiring locker room speeches and cheap sentimentality tell us an underdog story that's been told a million times before.        
         
-Glitter, chicken legs and a rice pudding piñata return us to The Lowry Studio in [Selina Thompson](/current/2014-autumnwinter/thompson)'s version of a midnight feast; somewhere between confess-ions made over coffee at Weight Watchers and sloppy drunken story-telling over a 3am kebab, it's a powerful portrayal of how we live with our bodies.    
+Glitter, chicken legs and a rice pudding piñata return us to The Lowry Studio in [Selina Thompson](/current/2014-autumnwinter/thompson)'s version of a midnight feast; somewhere between confessions made over coffee at Weight Watchers and sloppy drunken story-telling over a 3am kebab, it's a powerful portrayal of how we live with our bodies.    
         
 Newly-commissioned [Michael Pinchbeck](/current/2014-autumnwinter/pinchbeck) (and guest) close our season in Z-arts' gallery with a work-in-progress slideshow exploring absence and presence, flying and falling, and the power of the artist to fail or be free. Book early!     
         
