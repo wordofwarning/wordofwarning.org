@@ -19,14 +19,14 @@ header_image: "header_selina.jpg"
 *Presented by* The Lowry + Word of Warning      
        
 ####In Brief      
-Glitter, chicken legs and a rice pudding piñata… Selina invites you to her own version of a midnight feast: a cross between the confessions made over coffee at Weight Watchers, and sloppy drunken story-telling over a 3am kebab. Sitting somewhere between story-telling, stand-up, live art and theatre, *Chewing The Fat* is a powerful portrayal of how we live with our bodies.      
+Glitter, chicken legs and a rice pudding piñata… Selina invites you to her own version of a midnight feast — a cross between confessions made over coffee at Weight Watchers, and sloppy drunken story-telling over a 3am kebab; sitting somewhere between story-telling, stand-up, live art and theatre, *Chewing The Fat* is a powerful portrayal of how we live with our bodies.      
         
 ####Venue + Booking Details    
 Date: Friday 7 November 2014, 8pm     
 [Venue: The Lowry Studio](http://www.thelowry.com/plan-your-visit/getting-here), Pier 8, Salford Quays, M50 3AZ    
 [Tickets: £12/10](http://www.thelowry.com/event/chewing-the-fat)        
 Box Office Tel: 0843 208 6000        
-*Workshop: Monday 3 November 2014, 6pm — details below* 
+*N.B. the artist workshop on Monday 3 November is now fully booked* 
         
 ####Access Information        
 The performance lasts approximately 70 minutes with no interval. Age advisory: 14+        
@@ -51,6 +51,7 @@ An artist + performer based in Leeds, Selina's work is playful, participatory an
 Over the past couple of years she's been developing a body of works, *Edible Women*, exploring the fat body, dieting, control around food, how much of a mess she can get away with creating with an audience, and a taste for excess; so far she has made a theatre show, built a dress out of cake, spent quite a lot of time listening to people confess their food sins and shared many of her own…          
               
 ####What people have said about her         
+>*5\* Selina Thompson has a very special gift.*<br> [Nick Ahad, The Yorkshire Post](http://www.yorkshirepost.co.uk/yorkshire-living/arts/theatre-and-tv/theatre-reviews-we-re-not-going-back-chewing-the-fat-and-the-magic-flute-1-6914920)
 >*4\* … a credible and slick piece of work, by turns disconcerting and uplifting.*<br>Paul Couch, The Public Reviews        
         
 ####Workshop: *That's what you get for being food.*    
@@ -63,10 +64,10 @@ Selina will be hosting a workshop in the [STUN Studio](http://stunlive.com) at [
        
 *This workshop is for artists and students, but more than anything, it's for people that love food/cooking/eating/making a mess. Come armed with a strong anecdote — a story you love telling — and a food that you would like to use to tell it. Be as abstract or literal as you like, and bring as little or as much of that food as you need. See you soon!*  
        
-To book a place on Selina's workshop please complete an [online booking form](http://habarts.wufoo.eu/forms/workshop-booking-form); for enquiries please call 0161 232 6086 or email <mailto:rsvp@habarts.org>       
+Please note that this workshop is now fully booked.       
        
 ####Credits    
-Supported using public funding by the National Lottery through Arts Council England. Originally developed with support from Theatre in the Mill (Bradford), ARC (Stockton) and West Yorkshire Playhouse (Leeds).        
-          
+Chewing The Fat supported using public funding by the National Lottery through Arts Council England; originally developed with support from Theatre in the Mill (Bradford), ARC (Stockton) + West Yorkshire Playhouse (Leeds). Workshop also supported by hÅb + STUN as part of Divergency, supported using public funding by the National Lottery through Arts Council England.           
+              
 ####Websites        
 [www.selinathompson.co.uk](http://www.selinathompson.co.uk) ¦ [@SelinaNThompson](http://twitter.com/SelinaNThompson)
