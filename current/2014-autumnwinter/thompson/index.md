@@ -52,12 +52,12 @@ An artist + performer based in Leeds, Selina's work is playful, participatory an
 Over the past couple of years she's been developing a body of works, *Edible Women*, exploring the fat body, dieting, control around food, how much of a mess she can get away with creating with an audience, and a taste for excess; so far she has made a theatre show, built a dress out of cake, spent quite a lot of time listening to people confess their food sins and shared many of her own…          
               
 ####What people have said about her         
->*5\* Selina Thompson has a very special gift. She is one of the warmest, most engaging performers you might ever hope to see on stage*<br>[Nick Ahad, The Yorkshire Post](http://www.yorkshirepost.co.uk/yorkshire-living/arts/theatre-and-tv/theatre-reviews-we-re-not-going-back-chewing-the-fat-and-the-magic-flute-1-6914920)          
+>*5\* Selina Thompson has a very special gift. … She is one of the warmest, most engaging performers you might ever hope to see on stage.*<br>[Nick Ahad, The Yorkshire Post](http://www.yorkshirepost.co.uk/yorkshire-living/arts/theatre-and-tv/theatre-reviews-we-re-not-going-back-chewing-the-fat-and-the-magic-flute-1-6914920)          
 *4\* … a credible and slick piece of work, by turns disconcerting and uplifting.*<br>Paul Couch, The Public Reviews        
         
 ####Workshop: *That's what you get for being food.*    
        
-Selina will be hosting a workshop (*now fully booked*) in the [STUN Studio](http://stunlive.com) at [Z-arts](http://www.z-arts.org/about-us/getting-here) on Monday 3 November, 6-9pm; in her own words, this is what it's all about: 
+Selina is hosting a workshop (*now fully booked*) in the [STUN Studio](http://stunlive.com) at [Z-arts](http://www.z-arts.org/about-us/getting-here) on Monday 3 November from 6pm; in her own words, this is what it's all about: 
        
 *I'm a firm believer that a performance with food in it makes the brain and the heart salivate just as much as the mouth. So for this workshop, I want to spend a little time exploring how our physical and sensory responses to food can be used to transform food into a visceral, powerful way of connecting with a peckish audience.*   
        
