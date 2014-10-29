@@ -44,7 +44,7 @@ Age advisory: 14+
 *† I can't guarantee that any of these promises will be kept.*        
 *p.s. Bring snacks.*        
         
-Selina invites you to her own version of a midnight feast: somewhere between the confessions made over coffee at Weight Watchers, and sloppy drunken story-telling over a 3am kebab. She infuses discussion of complex, life-long issues with weight with laughter, popping balloons and a healthy dose of rice pudding to result in something truly vibrant. Sitting somewhere between story-telling, stand-up, live art and theatre, *Chewing The Fat* is a powerful and extremely open portrayal of how we live with our bodies, on both the days when they are beautiful, and the days when they are a burden.          
+Selina invites you to her own version of a midnight feast: somewhere between confessions made over coffee at Weight Watchers, and sloppy drunken story-telling over a 3am kebab. She infuses discussion of complex, life-long issues with weight with laughter, popping balloons and a healthy dose of rice pudding to result in something truly vibrant. Sitting somewhere between story-telling, stand-up, live art and theatre, *Chewing The Fat* is a powerful and extremely open portrayal of how we live with our bodies, on both the days when they are beautiful, and the days when they are a burden.          
              
 ####Who is she?    
 An artist + performer based in Leeds, Selina's work is playful, participatory and intimate — focused on the politics of identity and how this defines our bodies, lives and environments. She has made work for pubs, cafes, hairdressers, toilets, and sometimes even galleries and theatres, including SPILL Festival of Performance, The National Theatre Studio, The Birmingham REP, East Street Arts and the West Yorkshire Playhouse.           
@@ -52,7 +52,7 @@ An artist + performer based in Leeds, Selina's work is playful, participatory an
 Over the past couple of years she's been developing a body of works, *Edible Women*, exploring the fat body, dieting, control around food, how much of a mess she can get away with creating with an audience, and a taste for excess; so far she has made a theatre show, built a dress out of cake, spent quite a lot of time listening to people confess their food sins and shared many of her own…          
               
 ####What people have said about her         
->*5\* Selina Thompson has a very special gift. … She is one of the warmest, most engaging performers you might ever hope to see on stage.*<br>[Nick Ahad, The Yorkshire Post](http://www.yorkshirepost.co.uk/yorkshire-living/arts/theatre-and-tv/theatre-reviews-we-re-not-going-back-chewing-the-fat-and-the-magic-flute-1-6914920)          
+>*5\* Selina Thompson has a very special gift… She is one of the warmest, most engaging performers you might ever hope to see on stage.*<br>[Nick Ahad, The Yorkshire Post](http://www.yorkshirepost.co.uk/yorkshire-living/arts/theatre-and-tv/theatre-reviews-we-re-not-going-back-chewing-the-fat-and-the-magic-flute-1-6914920)          
 *4\* … a credible and slick piece of work, by turns disconcerting and uplifting.*<br>Paul Couch, The Public Reviews        
         
 ####Workshop: *That's what you get for being food.*    
