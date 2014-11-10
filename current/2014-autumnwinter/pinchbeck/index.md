@@ -23,13 +23,13 @@ header_image: "header_pinchbeck.jpg"
 A slideshow exploring absence and presence, flying and falling, and the power of the artist to fail or be free; a specially commissioned work-in-progress.          
           
 ####Venue + Booking Details      
-Date: Friday 28 November 2014, 6pm + 8pm (repeats)     
+Date: Friday 28 November 2014, 6pm [+ 7pm sold-out] + 8pm (repeats)     
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA         
-[Tickets: free booking essential](http://www.z-arts.org/events/word-of-warning-work-in-progress-michael-pinchbeck) (limited capacity), donations welcome on door.           
+[Tickets: free booking essential](http://www.z-arts.org/events/word-of-warning-work-in-progress-michael-pinchbeck) (limited capacities), donations welcome on door.           
 Box Office Tel: 0161 232 6089    
            
 ####Access Information      
-In the Gallery at Z-arts, the work-in-progress will last 30-40 minutes (with no interval). Age advisory 16+.             
+In the Gallery at Z-arts, these work-in-progress sharings will last 30-40 minutes (with no interval). Age advisory 16+.             
            
 ####More   
 *There is a room with Soviet propaganda on the walls. In the corner of the room is a diorama of the city with a wire shooting out of it. There is a catapult-like device in the centre of the room. On the floor there are shards of plaster and a pair of shoes. There is a hole in the ceiling. The room has been sealed by the authorities with hazard tape. This is 'The man who flew into space from his apartment'. This is an installation viewed through a crack in an old wooden door in a gallery like this one.*      
