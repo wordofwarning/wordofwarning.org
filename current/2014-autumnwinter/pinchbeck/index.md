@@ -23,13 +23,13 @@ header_image: "header_pinchbeck.jpg"
 A slideshow exploring absence and presence, flying and falling, and the power of the artist to fail or be free; a specially commissioned work-in-progress.          
           
 ####Venue + Booking Details      
-Date: Friday 28 November 2014, repeats at 6pm [7pm sold-out] + 8pm.     
+Date: Friday 28 November 2014, repeats at [6pm + 7pm sold-out] + 8pm.     
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA         
 [Tickets: free booking essential](http://www.z-arts.org/events/word-of-warning-work-in-progress-michael-pinchbeck) (limited capacities), donations welcome on door.           
 Box Office Tel: 0161 232 6089    
            
 ####Access Information      
-In the Gallery at Z-arts, these work-in-progress sharings will last 30-40 minutes (with no interval). Age advisory 16+.             
+In the Gallery at Z-arts, these works-in-progress will last 30-40 minutes each (with no interval). Age advisory 16+.             
            
 ####More   
 *There is a room with Soviet propaganda on the walls. In the corner of the room is a diorama of the city with a wire shooting out of it. There is a catapult-like device in the centre of the room. On the floor there are shards of plaster and a pair of shoes. There is a hole in the ceiling. The room has been sealed by the authorities with hazard tape. This is 'The man who flew into space from his apartment'. This is an installation viewed through a crack in an old wooden door in a gallery like this one.*      
@@ -43,7 +43,7 @@ Michael Pinchbeck is a Nottingham-based writer and artist. He co-founded Metro-B
            
 He has a Masters in Performance and Live Art from Nottingham Trent University, lectures at the University of Lincoln and is completing a PhD at Loughborough University exploring the role of dramaturg; he is also co-director of Hatch, the East Midlands' "theatre without a building".    
            
-Michael's guest performers are Anna Fenemore, Nicki Hobday + Ollie Smith.                  
+Michael's guest performers are Anna Fenemore (6pm), Nicki Hobday (7pm), Ollie Smith (8pm).                  
            
 ####What people have said about him         
 >*Pinchbeck is such an interesting theatre-maker*<br>The Guardian            
