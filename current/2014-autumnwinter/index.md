@@ -1,3 +1,5 @@
+---
+
 # CONFIGURATION
 layout: 2014-autumnwinter
 rootpath: "../../"
