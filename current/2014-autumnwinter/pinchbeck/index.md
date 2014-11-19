@@ -43,7 +43,7 @@ Michael Pinchbeck is a Nottingham-based writer and artist. He co-founded Metro-B
            
 He has a Masters in Performance and Live Art from Nottingham Trent University, lectures at the University of Lincoln and is completing a PhD at Loughborough University exploring the role of dramaturg; he is also co-director of Hatch, the East Midlands' "theatre without a building".    
            
-Michael's guest performers are Anna Fenemore (6pm), Nicki Hobday (7pm), Ollie Smith (8pm).                  
+Michael's guest performers are Anna Fenemore (6pm), Ollie Smith (7pm), Nicki Hobday (8pm).                  
            
 ####What people have said about him         
 >*Pinchbeck is such an interesting theatre-maker*<br>The Guardian            
