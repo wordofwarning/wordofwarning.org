@@ -30,7 +30,7 @@ ALL PERFORMANCES ARE SOLD-OUT
 Box Office Tel: 0161 232 6089    
            
 ####Access Information      
-In the Gallery at Z-arts, these works-in-progress will last 30-40 minutes each (with no interval). Age advisory 16+.             
+In the Gallery at Z-arts, these works-in-progress will last approximately 35 minutes each (with no interval). Age advisory 16+.             
            
 ####More   
 *There is a room with Soviet propaganda on the walls. In the corner of the room is a diorama of the city with a wire shooting out of it. There is a catapult-like device in the centre of the room. On the floor there are shards of plaster and a pair of shoes. There is a hole in the ceiling. The room has been sealed by the authorities with hazard tape. This is 'The man who flew into space from his apartment'. This is an installation viewed through a crack in an old wooden door in a gallery like this one.*      
