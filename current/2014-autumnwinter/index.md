@@ -14,7 +14,7 @@ Old friends [Action Hero](/current/2014-autumnwinter/actionhero) (last seen [2 y
         
 Glitter, chicken legs and a rice pudding piñata return us to The Lowry Studio in [Selina Thompson](/current/2014-autumnwinter/thompson)'s version of a midnight feast; somewhere between confessions made over coffee at Weight Watchers and sloppy drunken story-telling over a 3am kebab, it's a powerful portrayal of how we live with our bodies.    
         
-Newly-commissioned [Michael Pinchbeck](/current/2014-autumnwinter/pinchbeck) and guests (Anna Fenemore, Nicki Hobday, Ollie Smith) close our season in Z-arts' gallery with three work-in-progress slideshows exploring absence + presence, flying + falling, and the power of the artist to fail or be free. **Please book early!**     
+Newly-commissioned [Michael Pinchbeck](/current/2014-autumnwinter/pinchbeck) and guests (Anna Fenemore, Nicki Hobday, Ollie Smith) close our season in Z-arts' gallery with three work-in-progress slideshows exploring absence + presence, flying + falling, and the power of the artist to fail or be free. *N.B. all performances are now sold-out.*     
         
 We look forward to seeing you at some or all of it; if you want to check out what happened last season, have a look at our [Spring/Summer 2014 archive](/archive/2014-springsummer).        
         
