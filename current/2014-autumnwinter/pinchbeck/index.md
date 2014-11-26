@@ -23,7 +23,7 @@ header_image: "header_pinchbeck.jpg"
 A slideshow exploring absence + presence, flying + falling, and the power of the artist to fail or be free; a specially commissioned work-in-progress.          
           
 ####Venue + Booking Details      
-ALL PERFORMANCES ARE SOLD-OUT
+ALL PERFORMANCES ARE SOLD-OUT               
 (Date: Friday 28 November 2014, repeats at 6/7/8pm)     
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA         
 [Tickets: free booking essential](http://www.z-arts.org/events/word-of-warning-work-in-progress-michael-pinchbeck) (limited capacities), donations welcome on door.           
