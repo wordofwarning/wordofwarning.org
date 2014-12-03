@@ -43,10 +43,10 @@ We are looking for dance in any form which uses the artists' creativity, has str
 Priorities are for high quality and exciting dance based work by North West* artists, which has not been seen in Manchester before.    
  
 **To apply:**     
-1. Read the venue (Contact)'s [tech specs](http://turnmcr.posthaven.com/pages/contact-tech-specs) + [policies and procedures](http://turnmcr.posthaven.com/pages/policies-and-procedures-14138)    
-2. Complete and submit the [proposal](http://habarts.wufoo.eu/forms/turn-2015-proposal-form) + [monitoring](http://habarts.wufoo.eu/forms/hab-monitoring-form).    
-(Direct form links: https://habarts.wufoo.eu/forms/turn-2015-proposal-form/ + http://habarts.wufoo.eu/forms/hab-monitoring-form)    
-3. Include a short (compulsory) video submission — upload to your own YouTube/Vimeo or similar page and include the link in the proposal form. Alternatively send via [wetransfer.com](http://www.wetransfer.com) (or similar) to <mailto:turn@habarts.org> OR send a DVD to: hÅb, c/o Z-arts, 335 Stretford Road, Manchester, M15 5ZA. Video should be short (max 10 mins) and does not have to be high quality. It can be from a camcorder, digital camera or mobile phone. It helps your proposal if you can show some of what you are proposing — rehearsal footage or a video sketch of ideas and style.        
+1. Read the venue (Contact)'s [tech specs](http://turnmcr.posthaven.com/pages/contact-tech-specs) + [policies and procedures](http://turnmcr.posthaven.com/pages/policies-and-procedures-14138);    
+2. Complete and submit the [proposal](http://habarts.wufoo.eu/forms/turn-2015-proposal-form) + [monitoring](http://habarts.wufoo.eu/forms/hab-monitoring-form) forms    
+(Direct form links: http://habarts.wufoo.eu/forms/turn-2015-proposal-form + http://habarts.wufoo.eu/forms/hab-monitoring-form);    
+3. Include a short (compulsory) video submission — upload to your own YouTube/Vimeo or similar page and include the link in the proposal form; alternatively send via [wetransfer.com](http://www.wetransfer.com) (or similar) to <mailto:turn@habarts.org> OR send a DVD to: hÅb, c/o Z-arts, 335 Stretford Road, Manchester, M15 5ZA. Video should be short (max 10 mins) and does not have to be high quality. It can be from a camcorder, digital camera or mobile phone. It helps your proposal if you can show some of what you are proposing — rehearsal footage or a video sketch of ideas and style.        
 N.B. We would appreciate it if everyone could use the online form, but if you have significant difficulties contact <mailto:turn@habarts.org> for an offline version.    
   
 **Closing Deadline: 5pm, Friday 9 January 2015.**    
@@ -54,8 +54,8 @@ N.B. We would appreciate it if everyone could use the online form, but if you ha
 Notes:    
 The proposal form must be completed at one sitting (you can't save and return to it later) so please copy and paste the longer elements from another document.    
 Turn 2015 will offer an honorarium of up to £100 per piece selected, to cover fees/expenses for NW artists.    
-There will be **a technical meeting for ALL selected artists on Saturday 7 March 2015 (daytime)**.    
+There will be a **technical meeting for ALL selected artists on Saturday 7 March 2015 (daytime)**.    
         
 Enquiries: <mailto:turn@habarts.org> ¦ <http://turnmcr.org> ¦ #TurnMcr    
         
-Turn 2015 is presented by Word of Warning + Contact; co-produced by hÅb, Contact, Dance Manchester; supported using public funding through Arts Council England, funded by Manchester City Council; a greenroom legacy project.
+Turn 2015 is presented by Word of Warning + Contact; co-produced by hÅb, Contact + Dance Manchester; supported using public funding through Arts Council England + funded by Manchester City Council; a greenroom legacy project.
