@@ -15,12 +15,13 @@ header_image: "header_turn_photo.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Turn 2015**,our annual platform for North West dancers + dance-makers, is calling for proposals.  Taking place on Friday 27 + Saturday 28 March 2015 at Contact, Manchester, it is a hÅb, Contact, Dance Manchester co-production and a greenroom legacy project.    
+**Turn 2015**, our annual platform for North West dancers + dance-makers, is calling for proposals.  Taking place on **Friday 27 + Saturday 28 March 2015** at Contact, Manchester, Turn 2015 is a hÅb, Contact, Dance Manchester co-production and a greenroom legacy project.    
 
-North West dancers and dance-makers (aged 18+) are invited to submit proposals of short pieces of work, works in progress or extracts of longer works for inclusion in this annual event.  To get a feel for it, have a look at the  [2014 programme](/archive/2014-turn) and [gallery](/galleries/2014-turn).    
+North West dancers and dance-makers (aged 18+) are invited to submit proposals of short pieces of work, works in progress or extracts of longer works for inclusion in this annual event.  To get a feel for it, have a look at the  [2014 programme](/archive/2014-turn) and [gallery](/galleries/2014-turn).   
+ 
 **Closing Deadline: 5pm, Friday 9 January 2015.**     
    
-Turn:    
+**Turn:**    
 An open submission dance platform for North West* dancers and dance-makers:    
 ● short finished pieces;      
 ● excerpts;    
@@ -31,7 +32,7 @@ Sited and intervention-based works in and around the venue (Contact) are also st
 We are also accepting proposals for video based work to be screened around the building.     
 *effectively Greater Manchester, Merseyside, Cheshire, Lancashire, Cumbria.    
 
-Turn:    
+**Turn:**     
 ● a public platform;    
 ● an opportunity for artists to meet, show and peer review work;    
 ● an artist networking event;    
@@ -44,7 +45,9 @@ Priorities are for high quality and exciting dance based work by North West* art
 To apply:     
 1. Read the venue (Contact)'s [tech specs](http://turnmcr.posthaven.com/pages/contact-tech-specs) + [policies and procedures](http://turnmcr.posthaven.com/pages/policies-and-procedures-14138)    
 2. Complete and submit the [proposal](https://habarts.wufoo.eu/forms/turn-2015-proposal-form/ ) + [monitoring](http://habarts.wufoo.eu/forms/hab-monitoring-form).    
-(Direct form links: https://habarts.wufoo.eu/forms/turn-2015-proposal-form/ + http://habarts.wufoo.eu/forms/hab-monitoring-form)     
+
+(Direct form links: https://habarts.wufoo.eu/forms/turn-2015-proposal-form/ + http://habarts.wufoo.eu/forms/hab-monitoring-form)    
+ 
 3. Include a short (compulsory) video submission - upload to your own
 YouTube/Vimeo or similar page and include the link in the proposal form.
 Alternatively send via [wetransfer.com](http://www.wetransfer.com) (or similar) to <mailto:turn@habarts.org> OR send a DVD to: hÅb, c/o Z-arts, 335 Stretford Road, Manchester, M15 5ZA.     
