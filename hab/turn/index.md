@@ -49,7 +49,7 @@ To apply:
 3. Include a short (compulsory) video submission - upload to your own
 YouTube/Vimeo or similar page and include the link in the proposal form.
 Alternatively send via [wetransfer.com](http://www.wetransfer.com) (or similar) to <mailto:turn@habarts.org> OR send a DVD to: hÅb, c/o Z-arts, 335 Stretford Road, Manchester, M15 5ZA.     
-Video should be short (max 10 mins) and does not have to be high quality. It can be from a camcorder, digital camera or mobile phone. Rehearsal footage, a video sketch of ideas or a video proposal with clips of previous work are all good ways of showing us your style and what you are proposing.    
+Video should be short (max 10 mins) and does not have to be high quality. It can be from a camcorder, digital camera or mobile phone. It helps your proposal if you can show some of what you are proposing - rehearsal footage or a video sketch of ideas and style.    
 
 We would appreciate it if everyone could use the online form, but if you have significant difficulties contact <mailto:turn@habarts.org> for an offline version.    
 
