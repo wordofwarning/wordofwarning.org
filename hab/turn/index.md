@@ -45,9 +45,7 @@ Priorities are for high quality and exciting dance based work by North West* art
 To apply:     
 1. Read the venue (Contact)'s [tech specs](http://turnmcr.posthaven.com/pages/contact-tech-specs) + [policies and procedures](http://turnmcr.posthaven.com/pages/policies-and-procedures-14138)    
 2. Complete and submit the [proposal](https://habarts.wufoo.eu/forms/turn-2015-proposal-form/ ) + [monitoring](http://habarts.wufoo.eu/forms/hab-monitoring-form).    
-
 (Direct form links: https://habarts.wufoo.eu/forms/turn-2015-proposal-form/ + http://habarts.wufoo.eu/forms/hab-monitoring-form)    
- 
 3. Include a short (compulsory) video submission - upload to your own
 YouTube/Vimeo or similar page and include the link in the proposal form.
 Alternatively send via [wetransfer.com](http://www.wetransfer.com) (or similar) to <mailto:turn@habarts.org> OR send a DVD to: hÅb, c/o Z-arts, 335 Stretford Road, Manchester, M15 5ZA.     
