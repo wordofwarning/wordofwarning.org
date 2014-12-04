@@ -58,4 +58,4 @@ There will be a **technical meeting for ALL selected artists on Saturday 7 March
         
 Enquiries: <mailto:turn@habarts.org> ¦ <http://turnmcr.org> ¦ #TurnMcr    
         
-Turn 2015 [takes place at Contact on 27 + 28 March 2015](http://contactmcr.com/turn) and is, presented by Word of Warning + Contact; co-produced by hÅb, Contact + Dance Manchester; supported using public funding through Arts Council England + funded by Manchester City Council; a greenroom legacy project.
+Turn 2015 [takes place at Contact on 27 + 28 March 2015](http://contactmcr.com/turn) and is presented by Word of Warning + Contact; co-produced by hÅb, Contact + Dance Manchester; supported using public funding through Arts Council England + funded by Manchester City Council; a greenroom legacy project.
