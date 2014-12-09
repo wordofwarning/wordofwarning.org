@@ -30,7 +30,7 @@ An open submission dance platform for North West* dancers + dance-makers:
 Proposals should be for pieces with some live presence, 20 minutes maximum for show-type work, technically simple, adaptable to quick turnarounds and suitable for showing alongside other pieces.    
 Sited and intervention-based works in and around the venue (Contact) are also strongly encouraged.    
 We are also accepting proposals for video based work to be screened around the building.     
-**effectively Cheshire, Cumbria, Greater Manchester, Lancashire + Merseyside.*    
+**effectively Cheshire, Cumbria, Greater Manchester, Lancashire + Merseyside. ie NOT Yorkshire*    
 
 **Turn:**     
 ● a public platform;    
