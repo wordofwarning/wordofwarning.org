@@ -317,23 +317,23 @@
 	.s2015 .splash
 		{background:url(../images/header_2015s.jpg) -150px center}
 
-/* Haphazard 2015 bright green test
+/* Haphazard 2015 pink test
 ------------------------------------------------------*/
 
 	.h2015,
 	.h2015 .artist, 
 	.h2015 .show,
 	.h2015 .season
-		{background:#f60; color:#fff;}
+		{background:#f3f; color:#fff;}
 
 	.h2015 a,
 	.h2015 a:visited,
 	.h2015 a:hover
-		{color:#f60;}
+		{color:#fff;}
 	.h2015 nav a:hover,
 	.h2015 article a:hover,
 	.h2015 footer a:hover
-		{background: #fff; color: #f60;}
+		{background: #fff; color: #f3f;}
 
 	.h2015 .splash
 		{background:url(../images/header_haphazard.jpg) center center}
@@ -351,16 +351,16 @@
 	.t2015 .artist, 
 	.t2015 .show,
 	.t2015 .season
-		{background:#036; color:#fff;}
+		{background:#036; color:#000;}
 
 	.t2015 a,
 	.t2015 a:visited,
 	.t2015 a:hover
-		{color:#fff;}
+		{color:#000;}
 	.t2015 nav a:hover,
 	.t2015 article a:hover,
 	.t2015 footer a:hover
-		{background: #fff; color: #036;}
+		{background: #000; color: #036;}
 
 	.t2015 .splash
 		{background:url(../images/header_turn15.jpg) center center}
