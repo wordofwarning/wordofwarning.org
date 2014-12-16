@@ -1,15 +1,15 @@
 ---
 
 # CONFIGURATION
-layout: 2014-autumnwinter
+layout: 2015-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Michael Pinchbeck" # the name of the artist or company
-show: "The man who flew into space from his apartment<br>(work-in-progress)" # the name of the show
+artist: "Hunt & Darton Cafe" # the name of the artist or company
+show: "copy copy copy" # the name of the show
 artist_size: 1
-show_size: 4
-header_image: "header_pinchbeck.jpg"
+show_size: 2
+header_image: ""
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,7 +17,7 @@ header_image: "header_pinchbeck.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning        
+*Presented by* The Basement, Brighton + Word of Warning *during* SICK! Festival        
            
 ####In Brief     
 A slideshow exploring absence + presence, flying + falling, and the power of the artist to fail or be free; a specially commissioned work-in-progress.          
