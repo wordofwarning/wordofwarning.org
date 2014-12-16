@@ -29,18 +29,92 @@
 	.splash
 		{background:url(../images/header_default.jpg) -150px center}
 
+/* hAb black
+------------------------------------------------------*/
 
-/* Spring / Summer 2012 Collection
+	.hab,
+	.hab .artist, 
+	.hab .show,
+	.hab .season
+		{background:#000; color:#fff;}
+
+	.hab a,
+	.hab a:visited,
+	.hab a:hover
+		{color:#fff;}
+	.hab nav a:hover,
+	.hab article a:hover,
+	.hab footer a:hover
+		{background: #fff; color: #000;}
+
+	.hab .splash
+		{background:url(../images/header_hab_photo.jpg) center center}
+
+/* Spring/Summer 2012 Collection
 ------------------------------------------------------*/
 
 	.ss2012 .splash
 		{background:url(../images/header_ss2012.jpg) -150px center}
+
+/* Hazard yellow with white diagonals
+------------------------------------------------------*/
+
+	.hazard,
+	.hazard .artist, 
+	.hazard .show,
+	.hazard .season
+		{background:#fd0; color:#000;}
 		
-/* Autumn / Winter 2012 Collection
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	body.hazard
+		{background: #fd0 url(../images/angle_small.png) center top no-repeat}
+}
+@media only screen and (min-width: 960px) and (max-width: 1399px) {
+	body.hazard
+		{background: #fd0 url(../images/angle_medium.png) center top no-repeat}
+}
+@media only screen and (min-width: 1400px) and (max-width: 1599px) {
+	body.hazard
+		{background: #fd0 url(../images/angle_large.png) center top no-repeat}
+}
+
+	.hazard a,
+	.hazard a:visited,
+	.hazard a:hover
+		{color:#000;}
+	.hazard nav a:hover,
+	.hazard article a:hover,
+	.hazard footer a:hover
+		{background: #000; color: #fff;}
+	.hazard .splash
+		{background:url(../images/header_2014_hazard.jpg) center center}
+
+/* Autumn/Winter 2012 Collection
 ------------------------------------------------------*/
 
 	.aw2012 .splash
 		{background:url(../images/header_2012_aw_blue.jpg) -150px center}
+
+/* Emergency 2012 mid-red
+------------------------------------------------------*/
+
+	.e2012,
+	.e2012 .artist, 
+	.e2012 .show,
+	.e2012 .season
+		{background:#900; color:#fff;}
+
+	.e2012 a,
+	.e2012 a:visited,
+	.e2012 a:hover
+		{color:#fff;}
+	.e2012 nav a:hover,
+	.e2012 article a:hover,
+	.e2012 footer a:hover
+		{background: #fff; color: #900;}
+		
+	.e2012 .splash
+		{background:url(../images/header_emergency_photo.jpg) center center}
 
 /* Spring 2013 Collection
 ------------------------------------------------------*/
@@ -48,7 +122,49 @@
 	.s2013	.splash
 		{background:url(../images/header_spring13.jpg) -150px center}
 
-/* Spring / Summer 2013 Collection
+/* Poolside Emergency 2013 purple
+------------------------------------------------------*/
+
+	.p2013,
+	.p2013 .artist, 
+	.p2013 .show,
+	.p2013 .season
+		{background:#606; color:#fff;}
+
+	.p2013 a,
+	.p2013 a:visited,
+	.p2013 a:hover
+		{color:#fff;}
+	.p2013 nav a:hover,
+	.p2013 article a:hover,
+	.p2013 footer a:hover
+		{background: #fff; color: #606;}
+		
+	.p2013 .splash
+		{background:url(../images/header_pool_photo.jpg) center center}
+
+/* Turn 2013 dark blue-teal
+------------------------------------------------------*/
+
+	.t2013,
+	.t2013 .artist, 
+	.t2013 .show,
+	.t2013 .season
+		{background:#036; color:#fff;}
+
+	.t2013 a,
+	.t2013 a:visited,
+	.t2013 a:hover
+		{color:#fff;}
+	.t2013 nav a:hover,
+	.t2013 article a:hover,
+	.t2013 footer a:hover
+		{background: #fff; color: #036;}
+
+	.t2013 .splash
+		{background:url(../images/header_turn_photo.jpg) center center}
+
+/* Spring/Summer 2013 Collection
 ------------------------------------------------------*/
 
 	.ss2013 .splash
@@ -59,6 +175,48 @@
 
 	.aw2013 .splash
 		{background:url(../images/header_2013aw.jpg) -150px center}
+
+/* Emergency 2013 bright red
+------------------------------------------------------*/
+
+	.e2013,
+	.e2013 .artist, 
+	.e2013 .show,
+	.e2013 .season
+		{background:#c00; color:#fff;}
+
+	.e2013 a,
+	.e2013 a:visited,
+	.e2013 a:hover
+		{color:#fff;}
+	.e2013 nav a:hover,
+	.e2013 article a:hover,
+	.e2013 footer a:hover
+		{background: #fff; color: #c00;}
+		
+	.e2013 .splash
+		{background:url(../images/header_emergency_photo.jpg) center center}
+
+/* Domestic (2013) very dark green
+------------------------------------------------------*/
+
+	.dom,
+	.dom .artist, 
+	.dom .show,
+	.dom .season
+		{background:#030; color:#fff;}
+
+	.dom a,
+	.dom a:visited,
+	.dom a:hover
+		{color:#fff;}
+	.dom nav a:hover,
+	.dom article a:hover,
+	.dom footer a:hover
+		{background: #fff; color: #030;}
+		
+	.dom .splash
+		{background:url(../images/header_domestic.jpg) center center}
 
 /* Spring 2014 Programme
 ------------------------------------------------------*/
@@ -120,49 +278,61 @@
 	.aw2014 .splash
 		{background:url(../images/header_2014aw.jpg) -150px center}
 
-/* Domestic very dark green
+/* Spring 2015 Programme
 ------------------------------------------------------*/
 
-	.dom,
-	.dom .artist, 
-	.dom .show,
-	.dom .season
-		{background:#030; color:#fff;}
+	.s2015 .splash
+		{background:url(../images/header_2015s.jpg) -150px center}
 
-	.dom a,
-	.dom a:visited,
-	.dom a:hover
-		{color:#fff;}
-	.dom nav a:hover,
-	.dom article a:hover,
-	.dom footer a:hover
-		{background: #fff; color: #030;}
-		
-	.dom .splash
-		{background:url(../images/header_domestic.jpg) center center}
-
-/* Emergency 2013 bright red
+/* Haphazard 2015 
 ------------------------------------------------------*/
 
-	.e2013,
-	.e2013 .artist, 
-	.e2013 .show,
-	.e2013 .season
-		{background:#c00; color:#fff;}
+	.hap2015,
+	.hap2015 .artist, 
+	.hap2015 .show,
+	.hap2015 .season
+		{background:#3f3; color:#000;}
 
-	.e2013 a,
-	.e2013 a:visited,
-	.e2013 a:hover
+	.hap2015 a,
+	.hap2015 a:visited,
+	.hap2015 a:hover
 		{color:#fff;}
-	.e2013 nav a:hover,
-	.e2013 article a:hover,
-	.e2013 footer a:hover
-		{background: #fff; color: #c00;}
-		
-	.e2013 .splash
-		{background:url(../images/header_emergency_photo.jpg) center center}
+	.hap2015 nav a:hover,
+	.hap2015 article a:hover,
+	.hap2015 footer a:hover
+		{background: #000; color: #3f3;}
 
-/* Works Ahead dark red-maroon
+	.hap2015 .splash
+		{background:url(../images/header_flare.jpg) center center}
+
+/* Hunt & Darton Cafe 2015
+------------------------------------------------------*/
+
+	.hd2015 .splash
+		{background:url(../images/header_flare.jpg) -150px center}
+
+/* Turn 2015 dark blue-teal
+------------------------------------------------------*/
+
+	.t2015,
+	.t2015 .artist, 
+	.t2015 .show,
+	.t2015 .season
+		{background:#036; color:#fff;}
+
+	.t2015 a,
+	.t2015 a:visited,
+	.t2015 a:hover
+		{color:#fff;}
+	.t2015 nav a:hover,
+	.t2015 article a:hover,
+	.t2015 footer a:hover
+		{background: #fff; color: #036;}
+
+	.t2015 .splash
+		{background:url(../images/header_turn2014.jpg) center center}
+
+/* Works Ahead (2013/4/5) dark red-maroon
 ------------------------------------------------------*/
 		
 	.woah,
@@ -182,120 +352,3 @@
 
 	.woah .splash
 		{background:url(../images/header_woah_photo.jpg) center center}
-
-/* Poolside Emergency 2013 purple
-------------------------------------------------------*/
-
-	.p2013,
-	.p2013 .artist, 
-	.p2013 .show,
-	.p2013 .season
-		{background:#606; color:#fff;}
-
-	.p2013 a,
-	.p2013 a:visited,
-	.p2013 a:hover
-		{color:#fff;}
-	.p2013 nav a:hover,
-	.p2013 article a:hover,
-	.p2013 footer a:hover
-		{background: #fff; color: #606;}
-		
-	.p2013 .splash
-		{background:url(../images/header_pool_photo.jpg) center center}
-		
-/* Turn 2013 dark blue-teal
-------------------------------------------------------*/
-
-	.t2013,
-	.t2013 .artist, 
-	.t2013 .show,
-	.t2013 .season
-		{background:#036; color:#fff;}
-
-	.t2013 a,
-	.t2013 a:visited,
-	.t2013 a:hover
-		{color:#fff;}
-	.t2013 nav a:hover,
-	.t2013 article a:hover,
-	.t2013 footer a:hover
-		{background: #fff; color: #036;}
-
-	.t2013 .splash
-		{background:url(../images/header_turn_photo.jpg) center center}
-		
-/* Hazard yellow with white diagonals
-------------------------------------------------------*/
-
-	.hazard,
-	.hazard .artist, 
-	.hazard .show,
-	.hazard .season
-		{background:#fd0; color:#000;}
-		
-@media only screen and (min-width: 768px) and (max-width: 959px) {
-	body.hazard
-		{background: #fd0 url(../images/angle_small.png) center top no-repeat}
-}
-@media only screen and (min-width: 960px) and (max-width: 1399px) {
-	body.hazard
-		{background: #fd0 url(../images/angle_medium.png) center top no-repeat}
-}
-@media only screen and (min-width: 1400px) and (max-width: 1599px) {
-	body.hazard
-		{background: #fd0 url(../images/angle_large.png) center top no-repeat}
-}
-
-	.hazard a,
-	.hazard a:visited,
-	.hazard a:hover
-		{color:#000;}
-	.hazard nav a:hover,
-	.hazard article a:hover,
-	.hazard footer a:hover
-		{background: #000; color: #fff;}
-	.hazard .splash
-		{background:url(../images/header_2014_hazard.jpg) center center}
-		
-/* Emergency 2012 mid-red
-------------------------------------------------------*/
-
-	.e2012,
-	.e2012 .artist, 
-	.e2012 .show,
-	.e2012 .season
-		{background:#900; color:#fff;}
-
-	.e2012 a,
-	.e2012 a:visited,
-	.e2012 a:hover
-		{color:#fff;}
-	.e2012 nav a:hover,
-	.e2012 article a:hover,
-	.e2012 footer a:hover
-		{background: #fff; color: #900;}
-		
-	.e2012 .splash
-		{background:url(../images/header_emergency_photo.jpg) center center}
-
-/* hAb black
-------------------------------------------------------*/
-
-	.hab,
-	.hab .artist, 
-	.hab .show,
-	.hab .season
-		{background:#000; color:#fff;}
-
-	.hab a,
-	.hab a:visited,
-	.hab a:hover
-		{color:#fff;}
-	.hab nav a:hover,
-	.hab article a:hover,
-	.hab footer a:hover
-		{background: #fff; color: #000;}
-
-	.hab .splash
-		{background:url(../images/header_hab_photo.jpg) center center}
