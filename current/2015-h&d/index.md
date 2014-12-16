@@ -1,12 +1,12 @@
 ---
 # CONFIGURATION
-layout: 2014-emergency
+layout: 2015-hd
 rootpath: "../../"
 is_index: true
 
 # ABOUT THE SHOW - GENERIC
-artist: "Emergency 2014" # the name of the artist or company
-show: "A free day-out for the curious." # the name of the show
+artist: "Hunt & Darton Cafe" # the name of the artist or company
+show: "STRAPLINE REQUIRED" # the name of the show
 artist_size: 1
 show_size: 3
 header_image:
@@ -16,9 +16,9 @@ header_image:
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-*Presented by* Word of Warning, STUN + Z-arts          
+*Presented by* SICK! Festival + Word of Warning          
 
-###Saturday 4 October 2014, 12noon-10pm. Free             
+###2—22 March 2015, open Weds-Sun afternoons?             
 **Manchester's fifteenth free micro-marathon of the bizarre + the beautiful pops up throughout the cavernous realms of Z-arts — drop in for just ten minutes or stay for the full ten hours…**      
                        
 From gallery to theatre, changing room to basement, Z-arts will reverberate with some twenty-nine individual shows in our *fifteenth* performance lucky-dip, happening this year under one roof… Your chance to sample the different — all for free, featuring (*participating artists subject to change*):        
