@@ -1,15 +1,15 @@
 ---
 
 # CONFIGURATION
-layout: 2014-spring
+layout: 2015-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Ira Brand | Nicki Hobday + Sara Cocker" # the name of the artist or company
-show: "A Cure for Ageing | Age Concerns (work-in-progress)" # the name of the show
+artist: "Leentje Van de Cruys | University of Salford" # the name of the artist or company
+show: "Horse | Title" # the name of the show
 artist_size: 3
 show_size: 4
-header_image: "header_ira.jpg"
+header_image: "header_horse.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,7 +17,7 @@ header_image: "header_ira.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning        
+*Presented by* University of Salford, The Lowry + Word of Warning        
            
 ####In Brief     
 A pair of life-affirming performances explore our notions of ageing via tea, biscuits + immortal jellyfish.          
