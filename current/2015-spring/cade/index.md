@@ -1,14 +1,14 @@
 ---
 # CONFIGURATION
-layout: 2014-autumnwinter
+layout: 2015-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Action Hero" # the name of the artist or company
-show: "Hoke's Bluff" # the name of the show
-artist_size: 1
+artist: "Amy + Rosana Cade" # the name of the artist or company
+show: "Sister" # the name of the show
+artist_size: 2
 show_size: 2
-header_image: "header_hokes.jpg"
+header_image: "header_sister.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -16,7 +16,7 @@ header_image: "header_hokes.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Contact + Word of Warning     
+*Presented by* Contact + Word of Warning *during* Queer Contact 2015     
 
 ####In Brief
 *Everything rests on this one free throw. On this one last shot. On these last few seconds. Action Hero have got their game faces on.*        
