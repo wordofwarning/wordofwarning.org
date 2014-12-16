@@ -56,38 +56,38 @@
 	.ss2012 .splash
 		{background:url(../images/header_ss2012.jpg) -150px center}
 
-/* Hazard yellow with white diagonals
+/* Hazard 2012 yellow with white diagonals
 ------------------------------------------------------*/
 
-	.hazard,
-	.hazard .artist, 
-	.hazard .show,
-	.hazard .season
+	.h2012,
+	.h2012 .artist, 
+	.h2012 .show,
+	.h2012 .season
 		{background:#fd0; color:#000;}
 		
 @media only screen and (min-width: 768px) and (max-width: 959px) {
-	body.hazard
+	body.h2012
 		{background: #fd0 url(../images/angle_small.png) center top no-repeat}
 }
 @media only screen and (min-width: 960px) and (max-width: 1399px) {
-	body.hazard
+	body.h2012
 		{background: #fd0 url(../images/angle_medium.png) center top no-repeat}
 }
 @media only screen and (min-width: 1400px) and (max-width: 1599px) {
-	body.hazard
+	body.h2012
 		{background: #fd0 url(../images/angle_large.png) center top no-repeat}
 }
 
-	.hazard a,
-	.hazard a:visited,
-	.hazard a:hover
+	.h2012 a,
+	.h2012 a:visited,
+	.h2012 a:hover
 		{color:#000;}
-	.hazard nav a:hover,
-	.hazard article a:hover,
-	.hazard footer a:hover
+	.h2012 nav a:hover,
+	.h2012 article a:hover,
+	.h2012 footer a:hover
 		{background: #000; color: #fff;}
-	.hazard .splash
-		{background:url(../images/header_2014_hazard.jpg) center center}
+	.h2012 .splash
+		{background:url(../images/header_2012_hazard.jpg) center center}
 
 /* Autumn/Winter 2012 Collection
 ------------------------------------------------------*/
@@ -271,6 +271,38 @@
 
 	.f2014 .splash
 		{background:url(../images/header_flare.jpg) center center}
+/* Hazard 2014 yellow with white diagonals
+------------------------------------------------------*/
+
+	.h2014,
+	.h2014 .artist, 
+	.h2014 .show,
+	.h2014 .season
+		{background:#fd0; color:#000;}
+		
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	body.h2014
+		{background: #fd0 url(../images/angle_small.png) center top no-repeat}
+}
+@media only screen and (min-width: 960px) and (max-width: 1399px) {
+	body.h2014
+		{background: #fd0 url(../images/angle_medium.png) center top no-repeat}
+}
+@media only screen and (min-width: 1400px) and (max-width: 1599px) {
+	body.h2014
+		{background: #fd0 url(../images/angle_large.png) center top no-repeat}
+}
+
+	.h2014 a,
+	.h2014 a:visited,
+	.h2014 a:hover
+		{color:#000;}
+	.h2014 nav a:hover,
+	.h2014 article a:hover,
+	.h2014 footer a:hover
+		{background: #000; color: #fff;}
+	.h2014 .splash
+		{background:url(../images/header_2014_hazard.jpg) center center}
 
 /* Autumn/Winter 2014 Programme
 ------------------------------------------------------*/
@@ -284,25 +316,25 @@
 	.s2015 .splash
 		{background:url(../images/header_2015s.jpg) -150px center}
 
-/* Haphazard 2015 
+/* Haphazard 2015 bright green test
 ------------------------------------------------------*/
 
-	.hap2015,
-	.hap2015 .artist, 
-	.hap2015 .show,
-	.hap2015 .season
+	.h2015,
+	.h2015 .artist, 
+	.h2015 .show,
+	.h2015 .season
 		{background:#3f3; color:#000;}
 
-	.hap2015 a,
-	.hap2015 a:visited,
-	.hap2015 a:hover
+	.h2015 a,
+	.h2015 a:visited,
+	.h2015 a:hover
 		{color:#fff;}
-	.hap2015 nav a:hover,
-	.hap2015 article a:hover,
-	.hap2015 footer a:hover
+	.h2015 nav a:hover,
+	.h2015 article a:hover,
+	.h2015 footer a:hover
 		{background: #000; color: #3f3;}
 
-	.hap2015 .splash
+	.h2015 .splash
 		{background:url(../images/header_flare.jpg) center center}
 
 /* Hunt & Darton Cafe 2015
