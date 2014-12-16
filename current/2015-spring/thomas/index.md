@@ -1,14 +1,14 @@
 ---
 # CONFIGURATION
-layout: 2014-autumnwinter
+layout: 2015-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Selina Thompson" # the name of the artist or company
-show: "Chewing The Fat" # the name of the show
+artist: "Mark Thomas" # the name of the artist or company
+show: "Cuckooed" # the name of the show
 artist_size: 1
 show_size: 2
-header_image: "header_selina.jpg"    
+header_image: "header_thomas.jpg"    
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -23,7 +23,7 @@ Glitter, chicken legs and a rice pudding piñata… Selina invites you to her ow
         
 ####Venue + Booking Details    
 Date: Friday 7 November 2014, 8pm     
-[Venue: The Lowry Studio](http://www.thelowry.com/plan-your-visit/getting-here), Pier 8, Salford Quays, M50 3AZ    
+[Venue: The Lowry (Quays Theatre)](http://www.thelowry.com/plan-your-visit/getting-here), Pier 8, Salford Quays, M50 3AZ    
 [Tickets: £12/10](http://www.thelowry.com/event/chewing-the-fat)        
 Box Office Tel: 0843 208 6000        
 *N.B. the artist workshop on Monday 3 November is now fully booked* 
