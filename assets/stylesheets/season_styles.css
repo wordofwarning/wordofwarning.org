@@ -27,7 +27,7 @@
 		{background:#000; color:#fff;}
 
 	.splash
-		{background:url(../images/header_default.jpg) -150px center}
+		{background:url(../images/header_warni.jpg) -150px center}
 
 /* hAb black
 ------------------------------------------------------*/
@@ -271,6 +271,7 @@
 
 	.f2014 .splash
 		{background:url(../images/header_flare.jpg) center center}
+
 /* Hazard 2014 yellow with white diagonals
 ------------------------------------------------------*/
 
@@ -341,7 +342,7 @@
 ------------------------------------------------------*/
 
 	.hd2015 .splash
-		{background:url(../images/header_flare.jpg) -150px center}
+		{background:url(../images/header_flare.jpg) center center}
 
 /* Turn 2015 dark blue-teal
 ------------------------------------------------------*/
