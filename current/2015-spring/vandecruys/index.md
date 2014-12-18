@@ -8,7 +8,7 @@ rootpath: "../../../"
 artist: "Leentje Van de Cruys | University of Salford" # the name of the artist or company
 show: "Horse | Whoaaaaa Steady!" # the name of the show
 artist_size: 3
-show_size: 4
+show_size: 3
 header_image: "header_horse.jpg"
 
 # ABOUT THE SHOW - LAYOUT
