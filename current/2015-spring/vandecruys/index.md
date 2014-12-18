@@ -20,10 +20,8 @@ header_image: "header_horse.jpg"
 *Presented by* University of Salford, The Lowry + Word of Warning        
            
 ####In Brief     
-A pair of life-affirming performances explore our notions of ageing via tea, biscuits + immortal jellyfish.          
-            
-       
-         
+A pair of performances about being human (and being a horse) from Belgian theatre-maker Leentje Van de Cruys + University of Salford collaborators.       
+           
 ####Venue + Booking Details    
 Date: Tuesday 24 February 2015, 7.30pm (Double Bill)              
 [Venue: The Lowry Studio](http://www.thelowry.com/plan-your-visit/getting-here), Pier 8, Salford Quays, M50 3AZ    
@@ -55,27 +53,14 @@ Developed at and supported by Cambridge Junction, Camden People’s Theatre + Th
 ####Websites    
 [www.irabrand.co.uk](http://www.irabrand.co.uk) | [@irabrand](http://twitter.com/irabrand)      
     
-![Nicki Hobday + Sara Cocker](ageconcerns2.jpg)         
-##University of Salford   
-####More      
+##University of Salford performance students        
 *Age Concerns* is an authentic, warm and witty performance sensitively investigating the art of ageing — exploring the past, present, future, tea and biscuits.    
-      
-Inspired by Nicki Hobday + Sara Cocker’s ongoing experience of working with old people in the care industry — they have worked with older people separately and together, they have made shows separately, now they are making a show together. The time they have spent with the elderly has given them a lot of fond memories, and "memories live longer than dreams" — that’s what Hilda told them anyway. Hilda helped them make the show.      
-       
-Sharing the conversations they’ve had and the dances they’ve learnt with Hilda (an 88 year old lady who previously entertained “the old dears” in care homes before retirement) *Age Concerns* centres around Hilda’s advice to Nicki + Sara on how to be entertaining.             
-            
+           
 ####Who are they?
-Nicki Hobday is a Manchester based theatre maker and performer. She makes her own work, as well in collaboration with other artists and companies currently including Michael Pinchbeck (*The Beginning*) and 30 bird (*Domestic Labour: A Study in Love*).               
-             
-Sara Cocker makes and performs live work alongside other people. She is one fifth of Eggs Collective, recently creating and performing work for Southbank Centre, Duckie, Latitude and The Royal Shakespeare Company. Sara delivers a creative storytelling project for older people in communities across Manchester.                  
-              
-####What people have said about them         
->*... really beautifully performed and thoughtful work.*<br>Alice Booth, on an early sharing of *Age Concerns*            
->*Experimental, dangerous, funny and occasionally profound...*<br>The Stage, on *Nicki Hobday Conquers Space*         
+xxx        
            
 ####Credits       
-Commissioned by hÅb + The Future. Seed commissioned by Live at LICA. Supported by Contact + The HUB (Slung Low). Development supported using public funding by the National Lottery through Arts Council England.          
+xxx          
                  
 ####Websites    
-[www.nickihobday.co.uk](http://www.nickihobday.co.uk) | [www.saracocker.com](http://www.saracocker.com) | [www.the-future.co.uk](http://www.the-future.co.uk)              
-[@Nickihobday](http://twitter.com/Nickihobday) | [@SaraCocker](http://twitter.com/SaraCocker) | [@thefuturemcr](http://twitter.com/thefuturemcr)
+[www.nickihobday.co.uk](http://www.nickihobday.co.uk) | [@Nickihobday](http://twitter.com/Nickihobday)
