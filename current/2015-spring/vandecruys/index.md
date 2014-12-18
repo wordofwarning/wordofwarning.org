@@ -32,7 +32,7 @@ Box Office Tel: 0843 208 6000
 The performances will last approximately ?? hours/minutes overall, including an interval; includes nudity. Age advisory: 14+ (*parental discretion*).      
       
 ##Leentje Van de Cruys    
-####More    
+ 
 *A Cure for Ageing* is a piece about being young and foolish, and becoming old and wise. Or about being young and wise, and becoming old and foolish. It asks how we can talk more honestly about ageing, drawing together true personal accounts and shameless speculation in a celebration of life and an attempt to fall in love with our own decline. A show of indelicate questions and immortal jellyfish, we consider numbers, years, the passing of time, and the fact that we have all, already, started dying.        
         
 *I’m sorry to do this so early in the show. It’s really quite rude of me. But do you mind if I ask you how old you are?*       
