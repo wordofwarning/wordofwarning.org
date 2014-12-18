@@ -6,7 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Leentje Van de Cruys | University of Salford" # the name of the artist or company
-show: "Horse | Title" # the name of the show
+show: "Horse | Whoaaaaa Steady!" # the name of the show
 artist_size: 3
 show_size: 4
 header_image: "header_horse.jpg"
@@ -22,10 +22,10 @@ header_image: "header_horse.jpg"
 ####In Brief     
 A pair of life-affirming performances explore our notions of ageing via tea, biscuits + immortal jellyfish.          
             
-Watch Ira Brand's trailer [here](http://vimeo.com/84575373); watch Nicki Hobday + Sara Cocker's trailer [here](http://bit.ly/1eawStA).       
+       
          
 ####Venue + Booking Details    
-Date: Wednesday 26 February 2014, 8pm (Double Bill)   
+Date: Tuesday 24 February 2015, 7.30pm (Double Bill)   
 [Venue: STUN Studio at Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
 [Tickets: £9/5](http://www.z-arts.org/events/word-of-warning-double-bill-ira-brand-nicki-hobday-sara-cocker) | Please note there is a limited capacity.            
 Box Office Tel: 0161 232 6089  
