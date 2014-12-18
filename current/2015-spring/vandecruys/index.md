@@ -25,15 +25,15 @@ A pair of life-affirming performances explore our notions of ageing via tea, bis
        
          
 ####Venue + Booking Details    
-Date: Tuesday 24 February 2015, 7.30pm (Double Bill)   
-[Venue: STUN Studio at Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
-[Tickets: £9/5](http://www.z-arts.org/events/word-of-warning-double-bill-ira-brand-nicki-hobday-sara-cocker) | Please note there is a limited capacity.            
-Box Office Tel: 0161 232 6089  
+Date: Tuesday 24 February 2015, 7.30pm (Double Bill)              
+[Venue: The Lowry Studio](http://www.thelowry.com/plan-your-visit/getting-here), Pier 8, Salford Quays, M50 3AZ    
+[Tickets: £12/10](http://www.thelowry.com/event/double-bill-whoaaaaa-steady-and-horse)        
+Box Office Tel: 0843 208 6000   
         
 ####Access Information      
-The performances will last approximately 2 hours overall, including an interval; includes some strong language, and deals with the topic of death, which might be inappropriate for younger children. Age advisory: 14+ (*parental discretion*).      
+The performances will last approximately ?? hours/minutes overall, including an interval; includes nudity. Age advisory: 14+ (*parental discretion*).      
       
-##Ira Brand    
+##Leentje Van de Cruys    
 ####More    
 *A Cure for Ageing* is a piece about being young and foolish, and becoming old and wise. Or about being young and wise, and becoming old and foolish. It asks how we can talk more honestly about ageing, drawing together true personal accounts and shameless speculation in a celebration of life and an attempt to fall in love with our own decline. A show of indelicate questions and immortal jellyfish, we consider numbers, years, the passing of time, and the fact that we have all, already, started dying.        
         
@@ -56,7 +56,7 @@ Developed at and supported by Cambridge Junction, Camden People’s Theatre + Th
 [www.irabrand.co.uk](http://www.irabrand.co.uk) | [@irabrand](http://twitter.com/irabrand)      
     
 ![Nicki Hobday + Sara Cocker](ageconcerns2.jpg)         
-##Nicki Hobday + Sara Cocker    
+##University of Salford   
 ####More      
 *Age Concerns* is an authentic, warm and witty performance sensitively investigating the art of ageing — exploring the past, present, future, tea and biscuits.    
       
