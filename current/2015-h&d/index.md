@@ -9,7 +9,7 @@ artist: "Hunt & Darton Cafe" # the name of the artist or company
 show: "A fully functioning cafe blending art with the everyday." # the name of the show
 artist_size: 3
 show_size: 3
-header_image: 
+header_image:
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
