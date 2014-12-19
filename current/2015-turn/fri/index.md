@@ -10,7 +10,7 @@ show: "First Night: Friday 4 April"
 show_size: 4
 
 # ABOUT THE SHOW - LAYOUT
-header_image: "header_turn.jpg"
+header_image: "header_turn15.jpg"
 
 ---
 *Part of* Turn 2014, *presented by* Word of Warning + Contact       
