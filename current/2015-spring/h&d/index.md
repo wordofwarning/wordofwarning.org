@@ -7,7 +7,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Hunt & Darton Cafe" # the name of the artist or company
 show: # the name of the show
-artist_size: 2
+artist_size: 3
 show_size: 3
 header_image: "header_huntdarton.jpg"
 
