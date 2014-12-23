@@ -19,4 +19,5 @@ Following [**DivergencyMcr**](http://divergencymcr.posthaven.com), a [Creative C
      
 During 2015 Divergency will organise a series of meals, discussions, workshops, sharings and performances with a group of local artists and a series of visiting artists.    
 
-To find out more about Divergency or to get involved contact <mailto:divergency@habmcr.org>    
+To find out more about Divergency or to get involved contact <mailto:divergency@habmcr.org> or keep in touch via the [DivergencyMcr blog.](http://divergencymcr.posthaven.com)    
+ 
