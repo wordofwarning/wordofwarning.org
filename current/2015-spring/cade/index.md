@@ -49,11 +49,11 @@ Rosana received the Athena Award via New Moves International for *Walking:Holdin
                     
 ####What people have said about them              
 >*4\* Strange, beautiful, disturbing.*<br>The Scotsman           
->*4 Robust humour and unflinching integrity… leaves you caught between laughter and tears.*<br>The Herald                  
->*4 Frank and revealing.*<br>The List                
+>*4\* Robust humour and unflinching integrity… leaves you caught between laughter and tears.*<br>The Herald                  
+>*4\* Frank and revealing.*<br>The List                
                     
 ####Credits    
 Presented in association with The Arches (Glasgow). Supported by Wellcome Collection as part of their Sexology Season. Developed in association with The Arches, and with support from the National Theatre Studio + Battersea Arts Centre.            
                     
 ####Websites        
-[www.rosanacade.com](http://www.rosanacade.com) ¦ [@RosanaCade](http://twitter.com/RosanaCade) ¦ #sister
+[www.rosanacade.com](http://www.rosanacade.com) ¦ [@RosanaCade](http://twitter.com/RosanaCade) ¦ #SISTER
