@@ -19,14 +19,14 @@ header_image: "header_sister.jpg"
 *Presented by* Contact + Word of Warning *during* Queer Contact 2015     
 
 ####In Brief
-Two sisters - a sex worker and a shaven-headed lesbian - both feminists. A bold, unflinching examination of family bonds and differing paths.              
+Two sisters - a sex worker and a shaven-headed lesbian - both feminists.<br>A bold, unflinching examination of family bonds and differing paths.              
                     
-See their [trailer](http://vimeo.com/102549824) N.B. contains nudity.        
+See their [trailer](http://vimeo.com/102549824) (contains nudity).        
                     
 ####Venue + Booking Details    
 Dates: Thursday 5, Friday 6 + Saturday 7 February 2015, 7.30pm     
 [Venue: Contact](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA    
-[Tickets: £13/7](https://contactmcr.com/whats-on/29293-qc2015-amy-and-rosana-cade-sister/booking) ¦ Special offer: buy ten + get one free    
+[Tickets: £13/7](https://contactmcr.com/whats-on/29293-qc2015-amy-and-rosana-cade-sister/booking) ¦ Special offer: buy ten tickets + get one free    
 Box Office Tel: 0161 274 0600     
         
 ####Access Information         
@@ -36,16 +36,16 @@ The performance lasts approximately 75 minutes with no interval. Contains full n
 On Friday 6 February, following a short break, there will be a post-show talk with the company hosted by Prof. Jackie Stacey (University of Manchester).                  
                     
 ####More            
-Amy is a sex worker. Her sister, Rosana, is a shaven-headed lesbian. They are both feminists. *Sister* presents a bold and unflinching examination of themselves: their family bonds, shared experiences, and the differing paths their lives have taken.
+Amy is a sex worker. Her sister, Rosana, a shaven-headed lesbian. They are both feminists. *Sister* presents a bold and unflinching examination of themselves: their family bonds, shared experiences, and the differing paths their lives have taken.
 
-*Sister* weaves together their autobiographical stories of growing up, individual and contrasting sexual experiences, pole dancing, lap dancing and childhood family videos in an intimate strip club setting — which they inhabit, subvert and eventually deconstruct. Together, they reveal everything in a powerful and joyous performance, exploring female sexual identity, feminism and choice.
-
-*Sister* premiered at The Arches (Glasgow) in March 2014, and was part of the Made in Scotland Showcase at Summerhall during Edinburgh Festival Fringe 2014.
+*Sister* weaves together their autobiographical stories of growing up, individual and contrasting sexual experiences, pole dancing, lap dancing and childhood family videos in an intimate strip club setting — which they inhabit, subvert and eventually deconstruct. Together, they reveal everything in a powerful and joyous performance, exploring female sexual identity, feminism and choice.          
+                    
+Premiering at The Arches (Glasgow) in March 2014, *Sister* was part of the Made in Scotland Showcase at Summerhall during Edinburgh Festival Fringe 2014.         
                     
 ####Who are they?    
 An artist working mainly in live performance, Rosana Cade roots her identity, practice and politics in a queer discourse. She has made intimate work for one audience member at a time, worked with groups of non-performing participants in different cities, worked with family members, created studio-based performances both as herself and in various personas, and performed in multiple guises in cabaret and club settings. Through all of her performance work, including (especially) the everyday performance of herself, she aims to disrupt heteronormative ideas about gender and sexuality.                 
                     
-She received the Athena Award via New Moves International for *Walking:Holding* in 2011, and is currently (2015) an Artsadmin Bursary Artist. With Nick Anderson, she is co-founder of  live performance festival //BUZZCUT//, dedicated to creating holistic and progressive environments for artists and audiences to experiment with live performance across Scotland and beyond.             
+She received the Athena Award via New Moves International for *Walking:Holding* in 2011, and is currently (2015) an Artsadmin Bursary Artist. With Nick Anderson, she is co-founder of live performance festival //BUZZCUT//, dedicated to creating holistic and progressive environments for artists and audiences to experiment with live performance across Scotland and beyond.             
                     
 ####What people have said about them              
 >*4\* Strange, beautiful, disturbing.*<br>The Scotsman           
