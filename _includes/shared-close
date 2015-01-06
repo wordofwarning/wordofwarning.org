@@ -6,7 +6,7 @@
 					<h4 id="mailer">Weekly Update</h4>
 					<p><a href="{{ site.mailer_signup_url }}">Sign-up</a> for your no-nonsense <a href="http://wordofwarning.posthaven.com">weekly e-mail</a> signpost to the bizarre, the beautiful + the best new performance in Manchester + beyond.</p>
 					<h4>Calendar</h4>
-					<p>Word of Warning also maintains a<br><a href="https://www.google.com/calendar/embed?src=wordofwarningmcr%40gmail.com&amp;ctz=Europe/London">Google calendar</a>.</p>
+					<p>Word of Warning also maintains a <a href="http://www.google.com/calendar/embed?src=wordofwarningmcr%40gmail.com&amp;ctz=Europe/London">Google calendar</a> of new performance.</p>
 					<h4><a href="{{ page.rootpath }}hab/donations">Support Us</a></h4>
 				</div>
 				<div class="four columns">
