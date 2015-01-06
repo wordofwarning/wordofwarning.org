@@ -4,7 +4,7 @@
 			<div class="row">
 				<div class="four columns">
 					<h4 id="mailer">Weekly Update</h4>
-					<p><a href="{{ site.mailer_signup_url }}">Sign-up</a> for your no-nonsense <a href="http://wordofwarning.posthaven.com">weekly e-mail</a> signpost to the bizarre, the beautiful + the best contemporary performance within range of Manchester.</p>
+					<p><a href="{{ site.mailer_signup_url }}">Sign-up</a> for your no-nonsense <a href="http://wordofwarning.posthaven.com">weekly e-mail</a> signpost to the bizarre, the beautiful + the best performance in Manchester + beyond.</p>
 					<h4>Calendar</h4>
 					<p>Word of Warning also maintains a<br><a href="https://www.google.com/calendar/embed?src=wordofwarningmcr%40gmail.com&amp;ctz=Europe/London">Google calendar</a>.</p>
 					<h4><a href="{{ page.rootpath }}hab/donations">Support Us</a></h4>
@@ -17,13 +17,13 @@
 				<div class="four columns">
 					<h4>Credits</h4>
 					<p>With thanks to Z-arts, Manchester Digital Development Agency and Helen Palmer.</p>
-					<p>Word of Warning Autumn/Winter 2014 is brought to you by hÅb — with Contact, STUN, The Lowry + Z-arts.</p>
+					<p>Word of Warning Spring 2015 is brought to you by hÅb — with Contact, Dance Manchester, The Lowry, SICK! Festival, University of Salford + Z-arts.</p>
 					<p><img src="{{page.rootpath}}assets/images/logos.png" alt="Supported using public funding through Arts Council England + funded by Manchester City Council."></p>
 				</div>
 			</div>
 			<div class="row">
 				<div class="twelve columns">
-					<small>Copyright &copy;2014 Word of Warning. All rights reserved.</small>
+					<small>Copyright &copy;2015 Word of Warning. All rights reserved.</small>
 				</div>
 			</div>
 		</footer>
