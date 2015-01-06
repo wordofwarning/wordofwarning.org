@@ -45,7 +45,7 @@ Premiering at The Arches (Glasgow) in March 2014, *Sister* was part of the Made 
 ####Who are they?    
 An artist working mainly in live performance, Rosana Cade roots her identity, practice and politics in a queer discourse. She has made intimate work for one audience member at a time, worked with groups of non-performing participants in different cities, worked with family members, created studio-based performances both as herself and in various personas, and performed in multiple guises in cabaret and club settings. Through all of her performance work, including (especially) the everyday performance of herself, she aims to disrupt heteronormative ideas about gender and sexuality.                 
                     
-She received the Athena Award via New Moves International for *Walking:Holding* in 2011, and is currently (2015) an Artsadmin Bursary Artist. With Nick Anderson, she is co-founder of live performance festival //BUZZCUT//, dedicated to creating holistic and progressive environments for artists and audiences to experiment with live performance across Scotland and beyond.             
+Rosana received the Athena Award via New Moves International for *Walking:Holding* in 2011, and is currently (2015) an Artsadmin Bursary Artist. With Nick Anderson, she is co-founder of //BUZZCUT//, dedicated to creating holistic and progressive environments for artists and audiences to experiment with live performance across Scotland and beyond.             
                     
 ####What people have said about them              
 >*4\* Strange, beautiful, disturbing.*<br>The Scotsman           
