@@ -324,7 +324,7 @@
 	.h2015 .artist, 
 	.h2015 .show,
 	.h2015 .season
-		{background:#fd2; color:#000;}
+		{background:#fc3; color:#000;}
 
 	.h2015 a,
 	.h2015 a:visited,
@@ -333,7 +333,7 @@
 	.h2015 nav a:hover,
 	.h2015 article a:hover,
 	.h2015 footer a:hover
-		{background: #000; color: #fd2;}
+		{background: #000; color: #fc3;}
 
 	.h2015 .splash
 		{background:url(../images/header_haphazard.jpg) center center}
