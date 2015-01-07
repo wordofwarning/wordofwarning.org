@@ -317,14 +317,14 @@
 	.s2015 .splash
 		{background:url(../images/header_2015s.jpg) -150px center}
 
-/* Haphazard 2015 pink test
+/* Haphazard 2015 yellow
 ------------------------------------------------------*/
 
 	.h2015,
 	.h2015 .artist, 
 	.h2015 .show,
 	.h2015 .season
-		{background:#f90; color:#000;}
+		{background:#ff3; color:#000;}
 
 	.h2015 a,
 	.h2015 a:visited,
@@ -333,7 +333,7 @@
 	.h2015 nav a:hover,
 	.h2015 article a:hover,
 	.h2015 footer a:hover
-		{background: #000; color: #f90;}
+		{background: #000; color: #ff3;}
 
 	.h2015 .splash
 		{background:url(../images/header_haphazard.jpg) center center}
