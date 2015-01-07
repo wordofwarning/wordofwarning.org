@@ -6,7 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Hunt & Darton Cafe" # the name of the artist or company
-show: # the name of the show
+show: "Where food & drink meet live art.# the name of the show
 artist_size: 2
 show_size: 3
 header_image: "header_huntdarton.jpg"
@@ -23,19 +23,20 @@ header_image: "header_huntdarton.jpg"
 A fully functioning cafe blending art with the everyday.<br>Spontaneity and performance meet great food and drink.       
                       
 ####Venue + Booking Details      
-Dates: Wednesday 4 — Sunday 8, Wednesday 11 — Sunday 15, Wednesday 18 — Sunday 22 + Wednesday 25 March 2015              
-Times: open 12noon-7.30pm each day; happy hour 6.30-7.30pm       
+Dates: Wed 4 — Sun 8, Wed 11 — Sun 15, Wed 18 — Sun 22 + Wed 25 March 2015              
+Opening Times: 12noon-7.30pm each day (happy hour 6.30-7.30pm)       
 Venue: TO BE CONFIRMED IN LATE FEBRUARY         
 Tickets: entry to the cafe is free; however there may be some special events with restricted entry (see below for details)             
-Enquiries Tel: TBC    
-           
+
 ####Access Information      
-The venue is to be confirmed.             
+The venue is to be confirmed in late February.             
            
 ####More   
-Award winning Pop-up cafe– which isn’t just arty, it is ART. A fully functioning Café that blends art with the everyday, Hunt & Darton Cafe is a social and artistic hub where spontaneity and performance meet great food and drink. 
-
-Jenny Hunt and Holly Darton expose the inner workings of their business by presenting everything as art-from public display of their bank balance to the lovingly handpicked charity shop crockery.
+*At Hunt & Darton Cafe we are proud to satisfy appetites in more ways than one.*                   
+                      
+An award-winning pop-up cafe — which isn’t just arty, it is ART. A fully functioning cafe that blends art with the everyday — a social and artistic hub where spontaneity and performance meet great food and drink.           
+           
+Jenny Hunt + Holly Darton expose the inner workings of their business by presenting everything as art — from public display of their bank balance to the lovingly hand-picked charity shop crockery.
 
 Hunt & Darton Cafe encourages playful participation and meaningful social encounters. It can operate as an offsite micro-venue or temporarily transform and existing space in a gallery, theatre, public building or outdoors under canvas. Whether seeking surprising art or a relaxing place to spend the afternoon, customers can expect a welcoming atmosphere and food served with a twist. This is an exciting, innovative and entrepreneurial project unveiling and celebrating the ‘Cafe’ as an iconic and socially important hub for creative productivity and conversation. 
 
@@ -48,7 +49,7 @@ Hunt & Darton are associate artists at Artsadmin + Cambridge Junction.
                       
 ####What people have said about them         
 >*In a Fringe swimming with comedians, Shakespeare adaptations, improv comedy and BBC recordings, Hunt & Darton Cafe made its mark as something truly alternative.*<br>Three Weeks, presenting the Editors awards 2012           
->*A living, breathing, baking art project*<br>Cambridgeshire Journal         
+>*A pop up establishment of disarming eccentricity*<br>Lyn Gardner, The Guardian
 >*A uniquely delicious art installation*<br>Varsity               
            
 ####Credits    
