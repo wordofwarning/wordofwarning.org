@@ -23,7 +23,7 @@ header_image: "header_huntdarton.jpg"
 A fully functioning cafe blending art with the everyday.<br>Spontaneity and performance meet great food and drink.       
                       
 ####Venue + Booking Details      
-Dates: Wednesday 4 — Sunday 8, Wednesday 11 — Sunday 15, Wednesday 18 — Sunday 22 + Wednesday 25 March 2015
+Dates: Wednesday 4 — Sunday 8, Wednesday 11 — Sunday 15, Wednesday 18 — Sunday 22 + Wednesday 25 March 2015              
 Times: open 12noon-7.30pm each day; happy hour 6.30-7.30pm       
 Venue: TO BE CONFIRMED IN LATE FEBRUARY         
 Tickets: entry to the cafe is free; however there may be some special events with restricted entry (see below for details)             
@@ -33,25 +33,26 @@ Enquiries Tel: TBC
 The venue is to be confirmed.             
            
 ####More   
-*There is a room with Soviet propaganda on the walls. In the corner of the room is a diorama of the city with a wire shooting out of it. There is a catapult-like device in the centre of the room. On the floor there are shards of plaster and a pair of shoes. There is a hole in the ceiling. The room has been sealed by the authorities with hazard tape. This is 'The man who flew into space from his apartment'. This is an installation viewed through a crack in an old wooden door in a gallery like this one.*      
-           
-Michael Pinchbeck takes inspiration from an installation by Russian artist Ilya Kabakov, to make a performance for a gallery space; originally part of a series of installations called *Ten Characters*, *The Man Who Flew Into Space From His Apartment* was only exhibited when Kabakov emigrated to the West. The piece explores themes of utopia and dystopia, optimism and pessimism, absence and presence — weaving together historical and autobiographical narratives. Michael creates a multi-layered performance that responds to the artwork and the gallery in which it is shown.           
-           
-A powerful and moving biography of an installation that talks of the world in which it was made; at the same time, it questions an understanding of space by relating outer space to the gallery space, the journey of the man with that of the audience involved, taking a leap of faith and heading into the unknown. Drawing on notions of escape, it makes a journey (like Kabakov) between east and west, flying and falling, attempt and failure. Using found text and an old slide projector, Michael presents a gallery tour for an empty gallery, to be performed by a guest performer (Anna Fenemore, Nicki Hobday or Ollie Smith) in front of an audience of ten: the audience becomes the *Ten Characters* in Kabakov's work.
-           
-####Who are they?    
-Michael Pinchbeck is a Nottingham-based writer and artist. He co-founded Metro-Boulot-Dodo in 1997 after studying Theatre and Creative Writing at Lancaster University. He was commissioned by Nottingham Playhouse to write *The White Album* (2006) and *The Ashes* (2011), and was awarded funding by the British Council to write and direct a new play — *Bolero* — which premiered at Nottingham Playhouse in 2014 before touring to Sarajevo, Mostar, Tusla and Zenica. He recently toured a trilogy of devised performances — *The Beginning* ([launched WoW, Feb 2012](http://wordofwarning.posthaven.com/warnmcr-that-was-the-beginning-now-for-more)), *The Middle* ([commissioned by hÅb, May 2013](/archive/2013-springsummer/pinchbeckghelani)) and *The End* ([closed greenroom, May 2011](http://www.greenroomarts.org/archive/events/the-end)) — and his work has been selected three times for the British Council's Edinburgh Showcase.      
-           
-He has a Masters in Performance and Live Art from Nottingham Trent University, lectures at the University of Lincoln and is completing a PhD at Loughborough University exploring the role of dramaturg; he is also co-director of Hatch, the East Midlands' "theatre without a building".    
-           
-Michael's guest performers are Anna Fenemore (6pm), Ollie Smith (7pm), Nicki Hobday (8pm).                  
-           
+Award winning Pop-up cafe– which isn’t just arty, it is ART. A fully functioning Café that blends art with the everyday, Hunt & Darton Cafe is a social and artistic hub where spontaneity and performance meet great food and drink. 
+
+Jenny Hunt and Holly Darton expose the inner workings of their business by presenting everything as art-from public display of their bank balance to the lovingly handpicked charity shop crockery.
+
+Hunt & Darton Cafe encourages playful participation and meaningful social encounters. It can operate as an offsite micro-venue or temporarily transform and existing space in a gallery, theatre, public building or outdoors under canvas. Whether seeking surprising art or a relaxing place to spend the afternoon, customers can expect a welcoming atmosphere and food served with a twist. This is an exciting, innovative and entrepreneurial project unveiling and celebrating the ‘Cafe’ as an iconic and socially important hub for creative productivity and conversation. 
+
+The Cafe takes over empty shops, often working with council initiatives and art centres to benefit and increase artistic activity within the area. The alternative service from Hunt & Darton themselves (often wearing their iconic pineapple outfits and hats) comprises deadpan style and theme days such as ‘you-do-it-day’ where customers are encouraged to serve each other. Hunt & Darton also commission local artists to wait on the tables and create unique performances as they serve. Previous guest waiters have included Richard DeDomenici delivering his style of silver service, bronze service where everything’s a little bit crap, Brian Lobel, who embraced everything promised by American hospitality and Odd Comic, a duo of ‘trainee customer service providers’ who offered delights such as a tap dance with tap water.
+                      
+####Who are they?                
+Hunt & Darton are a Live Art Collaboration between Jenny Hunt + Holly Darton. They have both practiced Art since graduating from Central Saint Martins in 2003 and been Working together for 7 years. Approaching Live Art from a Fine Art background we work across mediums with a sculptural approach to performance, choreographing words and movement in a sensory way and setting up alternative spaces – often creating installations to perform within. Our work derives from our shared celebrations and anxieties surrounding life choices particularly as women, in Britain, now. Our work has been described as deadpan and absurd, often collapsing into humour. We have a persistent fetish within our practice to consistently re-assess our relationship with our audience, embracing awkward moments, risk taking and constantly trying to close the gap between performer and viewer opting for a raw, underdone, conversational aesthetic.            
+                      
+Hunt & Darton are associate artists at Artsadmin + Cambridge Junction.
+                      
 ####What people have said about them         
->*Pinchbeck is such an interesting theatre-maker*<br>The Guardian            
->*An individual practice that is powerful and compelling*<br>ArtArtArt magazine         
+>*In a Fringe swimming with comedians, Shakespeare adaptations, improv comedy and BBC recordings, Hunt & Darton Cafe made its mark as something truly alternative.*<br>Three Weeks, presenting the Editors awards 2012           
+>*A living, breathing, baking art project*<br>Cambridgeshire Journal         
+>*A uniquely delicious art installation*<br>Varsity               
            
 ####Credits    
-A hÅb commission.            
-            
+The Project was originally presented in an empty shop in Cambridge City Centre (April 2012) by Live Art Collective East in collaboration with Cambridge City Council, Changing Spaces and The Junction. Further support came from Escalator Live art and the National Lottery through Arts Council England. Hunt & Darton Cafe then traveled up to Edinburgh for the Fringe Festival in 2012, with the support of Escalator East to Edinburgh, transforming 17-21 St Mary’s Street into the fringe festival hub. Fresh from this success, H&D were asked to take over 118 on Lower Clapton Road, Hackney in Spring 2013. The Cafe has also ‘popped up’ at various festival’s including Latitude under a gazebo, Sampled and Flint Festival, transforming existing spaces and cafes for duration’s spanning 1- day to 4 weeks Tate Britain, Lakeside Theatre, Essex University, BAC, Colchester Arts Centre, Freud Museum, FLINT festival and Cambridge Junction. This project exists to meld and compliment whatever environment it encounters. It truly is a unique and memorable experience.      
+           
 ####Websites    
-[www.michaelpinchbeck.co.uk](http://www.michaelpinchbeck.co.uk) ¦ [@mdpinchbeck](http://twitter.com/mdpinchbeck)
+<http://huntanddartoncafe.com> ¦ [@HuntDarton](http://twitter.com/HuntDarton) ¦ [Hunt & Darton facebook](http://www.facebook.com/huntanddartoncafe)
