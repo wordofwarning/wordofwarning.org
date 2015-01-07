@@ -17,20 +17,20 @@ header_image: "header_huntdarton.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* The Basement, Brighton + Word of Warning *during* SICK! Festival        
+*Presented by* SICK! Festival + Word of Warning         
            
 ####In Brief     
-A slideshow exploring absence + presence, flying + falling, and the power of the artist to fail or be free; a specially commissioned work-in-progress.          
-          
+A fully functioning cafe blending art with the everyday.<br>Spontaneity and performance meet great food and drink.       
+                      
 ####Venue + Booking Details      
-ALL PERFORMANCES ARE SOLD-OUT               
-(Date: Friday 28 November 2014, repeats at 6/7/8pm)     
-[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA         
-[Tickets: free booking essential](http://www.z-arts.org/events/word-of-warning-work-in-progress-michael-pinchbeck) (limited capacities), donations welcome on door.           
-Box Office Tel: 0161 232 6089    
+Dates: Wednesday 4 — Sunday 8, Wednesday 11 — Sunday 15, Wednesday 18 — Sunday 22 + Wednesday 25 March 2015
+Times: open 12noon-7.30pm each day; happy hour 6.30-7.30pm       
+Venue: TO BE CONFIRMED IN LATE FEBRUARY         
+Tickets: entry to the cafe is free; however there may be some special events with restricted entry (see below for details)             
+Enquiries Tel: TBC    
            
 ####Access Information      
-In the Gallery at Z-arts, these works-in-progress will last approximately 35 minutes each (with no interval). Age advisory 16+.             
+The venue is to be confirmed.             
            
 ####More   
 *There is a room with Soviet propaganda on the walls. In the corner of the room is a diorama of the city with a wire shooting out of it. There is a catapult-like device in the centre of the room. On the floor there are shards of plaster and a pair of shoes. There is a hole in the ceiling. The room has been sealed by the authorities with hazard tape. This is 'The man who flew into space from his apartment'. This is an installation viewed through a crack in an old wooden door in a gallery like this one.*      
@@ -46,7 +46,7 @@ He has a Masters in Performance and Live Art from Nottingham Trent University, l
            
 Michael's guest performers are Anna Fenemore (6pm), Ollie Smith (7pm), Nicki Hobday (8pm).                  
            
-####What people have said about him         
+####What people have said about them         
 >*Pinchbeck is such an interesting theatre-maker*<br>The Guardian            
 >*An individual practice that is powerful and compelling*<br>ArtArtArt magazine         
            
