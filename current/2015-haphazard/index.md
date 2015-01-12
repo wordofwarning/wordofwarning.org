@@ -21,7 +21,7 @@ header_image:
 ###Saturday 28 February 2015, 12noon-4pm. Free             
 Haphazard 2013 filled this historic building to the brim with bizarre antics and amazing images — there were moving musical sculptures; a bouncy, squeaky, ping-pong dance; and an underground labyrinth (but only for the brave).                               
                        
-Why not join us to see what offbeat oddities and intriguing image 2015 will conjure? Playful, quirky, fun and sometimes plain daft: this is a very different day for kids and their adults, and adults and their adults. Turn up at any time and come and go as you please.                  
+Why not join us to see what offbeat oddities and intriguing images 2015 will conjure? Playful, quirky, fun and sometimes plain daft: this is a very different day for kids and their adults, and adults and their adults. Turn up at any time and come and go as you please.                  
                        
 ####Venue + Booking Details
 Date: Saturday 28 February 2015, 12noon-4pm    
