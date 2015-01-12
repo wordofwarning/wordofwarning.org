@@ -34,7 +34,7 @@ Turn 2015 is our seventh annual platform for dancers + dance-makers. To get a fe
                
 ####What people have said about Turn
 >★★★★ *One of the key events in Manchester's dance calendar.*<br>[the public reviews (2013)](http://www.thepublicreviews.com/turn-2013-contact-manchester).         
->*Great to see creative innovative new local work. Really good vibe.*<br>*…a new experience. Too many highlights to mention. Thank you WoW!*<br>*Weird and wonderful — as always.*<br>*Fantastic platform for artists.*<br>Audience Feedback (2013)
+>*Great to see creative innovative new local work. Really good vibe.*<br>*…a new experience. Too many highlights to mention. Thank you WoW!*<br>*Weird and wonderful — as always.*<br>*Fantastic platform for artists.*<br>Audience Feedback (2013)                
 >A preview of Turn 2014 by [Manchester Wire](http://manchesterwire.co.uk/#!/turn-danceworks-micro-fest-at-contact)       
         
 ####Credits         
