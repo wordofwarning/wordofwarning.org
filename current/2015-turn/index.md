@@ -30,13 +30,12 @@ Dates: Friday 27 + Saturday 28 March 2015, 7.30pm
 Box Office Tel: 0161 274 0600   
       
 ####More      
-Turn 2015 is our seventh annual platform for dancers + dance-makers, featuring some fifteen new works over two evenings. To get a feel for it, see Turn 2014's [programme](/archive/2014-turn) + [image gallery](/galleries/2014-turn).      
+Turn 2015 is our seventh annual platform for dancers + dance-makers. To get a feel for it, see Turn 2014's [programme](/archive/2014-turn) + [image gallery](/galleries/2014-turn).      
                
 ####What people have said about Turn
->★★★★ *One of the key events in Manchester's dance calendar.*<br>The Public Reviews (2013)          
->*Great to see creative innovative new local work. Really good vibe.*<br>*…a new experience. Too many highlights to mention. Thank you WoW!*<br>*Weird and wonderful — as always.*<br>*Fantastic platform for artists.*<br>Audience Feedback (2013)        
-A 4★ review of Turn 2013's first night by [the public reviews](http://www.thepublicreviews.com/turn-2013-contact-manchester).     
-A preview of Turn 2014 by [Manchester Wire](http://manchesterwire.co.uk/#!/turn-danceworks-micro-fest-at-contact)       
+>★★★★ *One of the key events in Manchester's dance calendar.*<br>[the public reviews (2013)](http://www.thepublicreviews.com/turn-2013-contact-manchester).         
+>*Great to see creative innovative new local work. Really good vibe.*<br>*…a new experience. Too many highlights to mention. Thank you WoW!*<br>*Weird and wonderful — as always.*<br>*Fantastic platform for artists.*<br>Audience Feedback (2013)
+>A preview of Turn 2014 by [Manchester Wire](http://manchesterwire.co.uk/#!/turn-danceworks-micro-fest-at-contact)       
         
 ####Credits         
 Co-produced by hÅb, Contact + Dance Manchester; supported using public funding through Arts Council England + funded by Manchester City Council; a greenroom legacy project        
