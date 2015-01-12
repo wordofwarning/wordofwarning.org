@@ -21,7 +21,7 @@ header_image:
 ###Saturday 28 February 2015, 12noon-4pm. Free             
 Haphazard 2013 filled Z-arts to the brim with bizarre antics and amazing images — there were moving musical sculptures; a bouncy, squeaky, ping-pong dance; and an underground labyrinth (for the brave only).                               
                        
-Why not join us to see what offbeat oddities 2015 will conjure? Playful, quirky, fun and sometimes plain daft: this is a very different day for kids and their adults, and adults and their adults. Turn up at any time and come and go as you please.                  
+Why not join us to see what offbeat oddities 2015 will conjure? Playful, quirky, fun and sometimes plain daft: this is a very different day for kids and their adults, and adults and their adults. Turn up at any time and come & go as you please.                  
                        
 ####Venue + Booking Details
 Date: Saturday 28 February 2015, 12noon-4pm    
@@ -32,8 +32,8 @@ Venue Tel: 0161 232 6089
 ####More    
 A schedule of activities and participating artists will be published here in mid-February.                         
                        
-####What people said about Haphazard (2013)        
->*Great! Everyone was energetic and friendly — very easy to interact with!*<br>*Suitably crazy & surreal for children and their grown ups*<br>*Really enjoyed the event and it's particularly nice to experience something a bit different, especially as adults, it is quite eye-popping…*<br>Audience Feedback (2013)         
+####What people said about Haphazard        
+>*Great! Everyone was energetic and friendly — very easy to interact with!*<br>*Suitably crazy & surreal for children and their grown-ups*.<br>*Really enjoyed the event and it's particularly nice to experience something a bit different, especially as adults, it is quite eye-popping…*<br>Audience Feedback (2013)         
         
 ####Access Information    
 Haphazard takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some parts of the building are not wheelchair accessible. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.
