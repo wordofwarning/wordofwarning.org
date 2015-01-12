@@ -7,7 +7,7 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Turn 2015" # the name of the artist or company
-show: "Micro-festival of new dance." # the name of the show
+show: "A micro-festival of new dance." # the name of the show
 show_size: 3
 
 # ABOUT THE SHOW - LAYOUT
@@ -19,8 +19,10 @@ show_size: 3
 *Presented by* Word of Warning + Contact    
          
 ###Friday 27 + Saturday 28 March 2015, 7.30pm
-Explosive, intimate, graceful and challenging — a two night micro-festival of emerging danceworks. Sinuous physicality and flying acrobatic exuberance; tender personal moments and giant shadows bending sound — Turn 2015 invites you to join the dance…          
-         
+Pirouetting and spinning, twizzling and twirling, Turn lands at Contact for its fourth year… this two-day conflagration of the best new dance in town explodes into life, with some fifteen new works taking over the whole building.           
+                  
+Fluidly lyrical, effervescently acrobatic or eccentrically innovative, Turn has played host to curly haired capoeira twins, a ballerina in a body bag and a goggle-wearing, flipper-dance — join us in 2015 for another round of physical exuberance.                
+                  
 ####Venue + Booking Details
 Dates: Friday 27 + Saturday 28 March 2015, 7.30pm    
 [Venue: Contact](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA    
@@ -28,15 +30,12 @@ Dates: Friday 27 + Saturday 28 March 2015, 7.30pm
 Box Office Tel: 0161 274 0600   
       
 ####More      
-Turn 2015 is our seventh annual platform for dancers + dance-makers, featuring XXX new works (*participating artists subject to change*):
-
-To get a feel for it, see Turn 2014's [programme](/archive/2014-turn) + [image gallery](/galleries/2014-turn).      
+Turn 2015 is our seventh annual platform for dancers + dance-makers, featuring some fifteen new works over two evenings. To get a feel for it, see Turn 2014's [programme](/archive/2014-turn) + [image gallery](/galleries/2014-turn).      
                
 ####What people have said about Turn
->★★★★*One of the key events in Manchester’s dance calendar.*<br>The Public Reviews (2013)          
+>★★★★ *One of the key events in Manchester's dance calendar.*<br>The Public Reviews (2013)          
 >*Great to see creative innovative new local work. Really good vibe.*<br>*…a new experience. Too many highlights to mention. Thank you WoW!*<br>*Weird and wonderful — as always.*<br>*Fantastic platform for artists.*<br>Audience Feedback (2013)        
 A 4★ review of Turn 2013's first night by [the public reviews](http://www.thepublicreviews.com/turn-2013-contact-manchester).     
-A documentary film about Tom Bowes Dance performing [*Brute* in Turn 2013](http://vimeo.com/66465915).       
 A preview of Turn 2014 by [Manchester Wire](http://manchesterwire.co.uk/#!/turn-danceworks-micro-fest-at-contact)       
         
 ####Credits         
