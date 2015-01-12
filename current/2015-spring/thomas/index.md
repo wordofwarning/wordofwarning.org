@@ -16,7 +16,7 @@ header_image: "header_thomas.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* The Lowry + Word of Warning      
+*Presented by* Lakin McCarthy in association with Traverse Theatre, The Lowry + Word of Warning.        
        
 ####In Brief      
 A comedy of betrayal. The true story of how Britain's biggest arms manufacturer came to spy on a comedian.             
@@ -44,10 +44,7 @@ Over the past couple of years she's been developing a body of works, *Edible Wom
               
 ####What people have said about him         
 >*5\* Selina Thompson has a very special gift… She is one of the warmest, most engaging performers you might ever hope to see on stage.*<br>[Nick Ahad, The Yorkshire Post](http://www.yorkshirepost.co.uk/yorkshire-living/arts/theatre-and-tv/theatre-reviews-we-re-not-going-back-chewing-the-fat-and-the-magic-flute-1-6914920)          
-*4\* … a credible and slick piece of work, by turns disconcerting and uplifting.*<br>Paul Couch, The Public Reviews        
-        
-####Credits    
-Presented by Lakin McCarthy in association with Traverse Theatre.            
+*4\* … a credible and slick piece of work, by turns disconcerting and uplifting.*<br>Paul Couch, The Public Reviews           
               
 ####Websites        
 [www.markthomasinfo.co.uk](http://www.markthomasinfo.co.uk) ¦ [@markthomasinfo](http://twitter.com/markthomasinfo)
