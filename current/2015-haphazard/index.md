@@ -26,13 +26,13 @@ Why not join us to see what offbeat oddities and intriguing images 2015 will con
 ####Venue + Booking Details
 Date: Saturday 28 February 2015, 12noon-4pm    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
-Tickets: FREE no booking required (some limited capacity shows may have sign-up sheets on the day)        
+Tickets: FREE no booking required (*some limited capacity activities MAY have sign-up sheets on the day*)        
 Venue Tel: 0161 232 6089    
 
 ####More    
 A schedule of activities and participating artists will be published here in mid-February.                         
                        
-####What people said about Haphazard        
+####What people have said about Haphazard        
 >*Great! Everyone was energetic and friendly — very easy to interact with!*<br>*Suitably crazy & surreal for children and their grown-ups*.<br>*Really enjoyed the event and it's particularly nice to experience something a bit different, especially as adults, it is quite eye-popping…*<br>Audience Feedback (2013)         
         
 ####Access Information    
