@@ -16,7 +16,7 @@ header_image: "header_sister.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>*Presented by* Contact + Word of Warning, in association with The Arches *during* Queer Contact 2015</small>     
+*Presented by* Contact + Word of Warning, in association with The Arches *during* Queer Contact 2015     
 
 ####In Brief
 Two sisters - a sex worker and a shaven-headed lesbian - both feminists.<br>A bold, unflinching examination of family bonds and differing paths.              
