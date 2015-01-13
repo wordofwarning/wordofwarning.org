@@ -19,7 +19,7 @@ header_image: "header_sister.jpg"
 *Presented by* Contact + Word of Warning in association with The Arches *during* Queer Contact 2015     
 
 ####In Brief
-Two sisters - a sex worker and a shaven-headed lesbian - both feminists.<br>A bold, unflinching examination of family bonds and differing paths.              
+Two sisters — a sex worker and a shaven-headed lesbian; both feminists — in a bold, unflinching examination of family bonds and differing paths.              
                     
 See their [trailer](http://vimeo.com/102549824) (contains nudity).        
                     
