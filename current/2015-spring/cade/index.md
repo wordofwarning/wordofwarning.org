@@ -16,7 +16,7 @@ header_image: "header_sister.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Contact + Word of Warning *during* Queer Contact 2015     
+<small>*Presented by* Contact + Word of Warning, in association with The Arches *during* Queer Contact 2015</small>     
 
 ####In Brief
 Two sisters - a sex worker and a shaven-headed lesbian - both feminists.<br>A bold, unflinching examination of family bonds and differing paths.              
@@ -53,7 +53,7 @@ Rosana received the Athena Award via New Moves International for *Walking:Holdin
 >*4\* Frank and revealing.*<br>The List                
                     
 ####Credits    
-Presented in association with The Arches (Glasgow). Supported by Wellcome Collection as part of their Sexology Season. Developed in association with The Arches, and with support from the National Theatre Studio + Battersea Arts Centre.            
+Supported by Wellcome Collection as part of their Sexology Season. Developed in association with The Arches (Glasgow), and with support from the National Theatre Studio + Battersea Arts Centre.            
                     
 ####Websites        
 [www.rosanacade.com](http://www.rosanacade.com) ¦ [@RosanaCade](http://twitter.com/RosanaCade) ¦ #SISTER
