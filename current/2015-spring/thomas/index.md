@@ -16,7 +16,7 @@ header_image: "header_thomas.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Lakin McCarthy in association with Traverse Theatre, The Lowry + Word of Warning        
+*Presented by* Lakin McCarthy *in association with* Traverse Theatre, *and* The Lowry + Word of Warning        
        
 ####In Brief      
 A comedy of betrayal. The true story of how Britain's biggest arms manufacturer came to spy on a comedian.             
@@ -28,14 +28,14 @@ Date: Friday 7 November 2014, 8pm
 Box Office Tel: 0843 208 6000        
 
 ####Access Information        
-The performance lasts approximately 60 minutes with no interval.<br>Age advisory: 14+ (*parental guidance*)       
+With no interval, the performance lasts approximately 1 hour.<br>Age advisory: 14+ (*parental guidance*)       
        
 ####More            
 A tale of hubris, planes, demos and undercover deceit told by an award-winning performer. Ten years ago an activist and close friend of Mark's was exposed as a spy for BAE Systems, infiltrating the movement. Now Mark wants to find him and has some questions to ask. This is a true story.          
               
 *Cuckooed* picks up from where the award-winning *Bravo Figaro* left off in style, using interviews from friends, colleagues, activists and journalists to examine the impact of betrayal. It is a personal and timely tale that tries to unearth what it means to be spied upon by a corporation under the sanction of the state.            
               
-Expect plenty of laughs, some weird characters, documentary styles, probably a tear or two, and the vague possibility that Mark might get beaten up in the making of it as he tries to find out if he wants revenge or if he can forgive a friend. *Fringe First Award Winner, August 2014*            
+Winner of an Edinburgh 2014 *Fringe First Award*, expect plenty of laughs, some weird characters, documentary styles, probably a tear or two, and the vague possibility that Mark might get beaten up in the process of making it as he tries to find out if he wants revenge — or if he can forgive a friend.             
               
 ####What people have said about *Cuckooed*         
 >5\* *…blisteringly funny, searingly powerful, totally thought-provoking and pure brilliance.*<br>[The Public Reviews](http://www.thepublicreviews.com/cuckooed-traverse-theatre-edinburgh)        
@@ -43,7 +43,7 @@ Expect plenty of laughs, some weird characters, documentary styles, probably a t
 >4\* *It's involving, inspiring, furious and funny.*<br>The Times            
               
 ####Credits          
-Written + performed by Mark Thomas ¦ Directed by Emma Callander ¦ Image by Steve Ullathorne              
+Written + performed by Mark Thomas | Directed by Emma Callander | Image by Steve Ullathorne              
               
 ####Websites        
-[www.markthomasinfo.co.uk](http://www.markthomasinfo.co.uk) ¦ [@markthomasinfo](http://twitter.com/markthomasinfo)
+[www.markthomasinfo.co.uk](http://www.markthomasinfo.co.uk) | [@markthomasinfo](http://twitter.com/markthomasinfo)
