@@ -19,7 +19,7 @@ header_image: "header_huntdarton.jpg"
 ---
 *Presented by* SICK! Festival + Word of Warning         
            
-###Café open 4 — 25 March 2015, 12noon-7.30pm (closed Mondays/Tuesdays)                     
+###Open 4-25 March 2015, 12noon-7.30pm (closed Mondays/Tuesdays)                     
 A fully functioning café blending art with the everyday.<br>Spontaneity and performance meet great food and drink.       
                       
 ####Venue + Booking Details      
