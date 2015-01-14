@@ -8,7 +8,7 @@ rootpath: "../../../"
 artist: "Hunt & Darton Cafe" # the name of the artist or company
 show: "Where food and drink meet live art." # the name of the show
 artist_size: 2
-show_size: 5
+show_size: 4
 header_image: "header_huntdarton.jpg"
 
 # ABOUT THE SHOW - LAYOUT
@@ -19,6 +19,8 @@ header_image: "header_huntdarton.jpg"
 ---
 *Presented by* SICK! Festival + Word of Warning         
            
+###OPEN 4 — 25 Mar (Wed-Sun only), 12noon-7.30pm                  
+                      
 ####In Brief     
 A fully functioning café blending art with the everyday.<br>Spontaneity and performance meet great food and drink.       
                       
