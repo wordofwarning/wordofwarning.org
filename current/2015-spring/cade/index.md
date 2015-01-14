@@ -16,8 +16,8 @@ header_image: "header_sister.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Contact + Word of Warning in association with The Arches *during* Queer Contact 2015     
-
+*Presented by* Contact + Word of Warning in association with The Arches + supported by Wellcome Collection as part of their Sexology Season *during* Queer Contact 2015                 
+                    
 ####In Brief
 Two sisters — a sex worker and a shaven-headed lesbian; both feminists — in a bold, unflinching examination of family bonds and differing paths.              
                     
@@ -25,8 +25,8 @@ See their [trailer](http://vimeo.com/102549824) (contains nudity).
                     
 ####Venue + Booking Details    
 Dates: Thursday 5, Friday 6 + Saturday 7 February 2015, 7.30pm     
-[Venue: Contact](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA    
-[Tickets: £13/7](https://contactmcr.com/whats-on/29293-qc2015-amy-and-rosana-cade-sister/booking) | Special offer: buy ten tickets + get one free    
+[Venue: Contact (space 2)](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA    
+[Tickets: £13/7](https://contactmcr.com/whats-on/29293-qc2015-amy-and-rosana-cade-sister/booking) | Special offer: buy nine tickets + get your tenth free    
 Box Office Tel: 0161 274 0600     
         
 ####Access Information         
@@ -53,7 +53,7 @@ Rosana received the Athena Award via New Moves International for *Walking:Holdin
 >4\* *Frank and revealing.*<br>The List                
                     
 ####Credits    
-Supported by Wellcome Collection as part of their [Sexology Season](http://www.wellcomecollection.org/sexologyseasonmanchester).<br>Developed in association with The Arches (Glasgow), and with support from the National Theatre Studio + Battersea Arts Centre.            
+Developed in association with The Arches (Glasgow), and with support from the National Theatre Studio + Battersea Arts Centre.            
                     
 ####Websites        
-[www.rosanacade.com](http://www.rosanacade.com) | [@RosanaCade](http://twitter.com/RosanaCade)
+[www.rosanacade.com](http://www.rosanacade.com) | [@RosanaCade](http://twitter.com/RosanaCade)<br>[Wellcome Collection's Sexology Season](http://www.wellcomecollection.org/sexologyseasonmanchester) | [Queer Contact 2015](http://www.contactmcr.com/queercontact)
