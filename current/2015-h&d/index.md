@@ -7,7 +7,7 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Hunt & Darton Cafe" # the name of the artist or company
-show: "A fully functioning café blend-<br>ing art with the everyday." # the name of the show
+show: "A fully functioning café blending<br>art with the everyday." # the name of the show
 artist_size: 2
 show_size: 4
 
