@@ -1,7 +1,7 @@
 ---
 # CONFIGURATION
 layout: home
-header_image: "assets/images/header_warni.jpg"
+header_image: "assets/images/header_2015s.jpg"
 
 ---
 ####We're announcing our Spring 2015 season very soon, apologies for any website disruption! We open with [Amy + Rosana Cade's *Sister*](http://contactmcr.com/sister), a co-promotion with Queer Contact *5—7 February*…      
