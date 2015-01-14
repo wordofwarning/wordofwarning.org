@@ -28,7 +28,8 @@ Turn 2015 is our seventh annual platform for dancers + dance-makers — to get a
 ####Venue + Booking Details
 Dates: Friday 27 + Saturday 28 March 2015, 7.30pm    
 [Venue: Contact](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA    
-[Tickets: £9/5 (two night pass £11/6)](http://contactmcr.com/turn) | Special offer: buy nine tickets + get your tenth free    
+[Tickets: £9/5 (two night pass £11/6)](http://contactmcr.com/turn)               
+Special offer: buy nine tickets + get your tenth free    
 Box Office Tel: 0161 274 0600                
                   
 ####What people have said about Turn
@@ -37,7 +38,7 @@ Box Office Tel: 0161 274 0600
 >*Great to see creative innovative new local work. Really good vibe.*<br>*Weird and wonderful — as always.*<br>*Fantastic platform for artists.*<br>Audience Feedback (2013)             
                   
 ####Access                 
-Turn 2015 takes place in a number of different spaces and formats — some seated, some standing, some limited capacity, some participatory.<br>Age advisory: 14+ (*parental discretion*). For specific age and access information please email info@habarts.org or call 0161 232 6086.               
+Turn 2015 takes place in a number of different spaces and formats — some seated, some standing, some limited capacity, some participatory.<br>Age advisory: 14+ (*parental discretion*). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.               
                           
 ####Credits         
 Co-produced by hÅb, Contact + Dance Manchester; supported using public funding through Arts Council England + funded by Manchester City Council; a greenroom legacy project        
