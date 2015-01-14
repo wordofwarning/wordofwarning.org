@@ -41,7 +41,7 @@ Box Office Tel: 0161 274 0600
 Turn 2015 takes place in a number of different spaces and formats — some seated, some standing, some limited capacity, some participatory.<br>Age advisory: 14+ (*parental discretion*). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.               
                           
 ####Credits         
-Co-produced by hÅb, Contact + Dance Manchester; supported using public funding through Arts Council England + funded by Manchester City Council; a greenroom legacy project.        
+Co-produced by hÅb, Contact + Dance Manchester; supported using public funding through Arts Council England + funded by Manchester City Council; a greenroom legacy project. Image: Levantes Dance Theatre, Turn 2014.        
         
 ####Websites        
 <http://turnmcr.org> | #TurnMcr
