@@ -28,7 +28,7 @@ Turn 2015 is our seventh annual platform for dancers + dance-makers — to get a
 ####Venue + Booking Details
 Dates: Friday 27 + Saturday 28 March 2015, 7.30pm    
 [Venue: Contact](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA    
-[Tickets: £9/5 (two night pass £11/6)](http://contactmcr.com/turn)               
+[Tickets: £9/5 per night (two night pass £11/6)](http://contactmcr.com/turn)               
 Special offer: buy nine tickets + get your tenth free    
 Box Office Tel: 0161 274 0600                
                   
