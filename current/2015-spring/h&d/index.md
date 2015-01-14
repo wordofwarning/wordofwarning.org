@@ -46,7 +46,7 @@ Responding to SICK! Festival will be theme days such as 'Sexy day' — where it 
 ####Who are they?                
 Hunt & Darton are a Live Art Collaboration between Jenny Hunt + Holly Darton, graduating together from Central Saint Martins in 2003. Approaching Live Art from a Fine Art background, they work across mediums with a sculptural approach to performance, choreographing words and movement in a sensory way and setting up alternative spaces — often creating installations to perform within.                  
                       
-Deriving from shared celebrations and anxieties surrounding life choices particularly as women, in Britain, now — their work has been described as deadpan and absurd, often collapsing into humour. They have a persistent fetish within their practice to consistently re-assess their relationship with their audience — embracing awkward moments, risk taking and constantly trying to close the gap between performer and viewer — opting for a raw, underdone, conversational aesthetic.            
+Deriving from shared celebrations and anxieties surrounding life choices particularly as women, in Britain, now, their work has been described as deadpan and absurd, often collapsing into humour. They have a persistent fetish within their practice to consistently re-assess their relationship with their audience — embracing awkward moments, risk taking and constantly trying to close the gap between performer and viewer — opting for a raw, underdone, conversational aesthetic.            
                       
 Hunt & Darton are associate artists at Artsadmin + Cambridge Junction.
                       
