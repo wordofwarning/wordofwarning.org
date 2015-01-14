@@ -16,7 +16,7 @@ header_image: "header_thomas.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Lakin McCarthy *in association with* Traverse Theatre, *and* The Lowry + Word of Warning        
+*Presented by* Lakin McCarthy *in association with* Traverse Theatre, The Lowry + Word of Warning        
        
 ####In Brief      
 A comedy of betrayal. The true story of how Britain's biggest arms manufacturer came to spy on a comedian.             
