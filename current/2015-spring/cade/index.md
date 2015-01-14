@@ -30,7 +30,7 @@ Dates: Thursday 5, Friday 6 + Saturday 7 February 2015, 7.30pm
 Box Office Tel: 0161 274 0600     
         
 ####Access Information         
-The performance lasts approximately 75 minutes with no interval and contains full nudity throughout. Age advisory: 16+        
+With no interval, the performance lasts approximately 75 minutes and contains full nudity throughout. Age advisory: 16+        
                     
 ####Q&A             
 On Friday 6 February, following a short break, there will be a post-show talk with the company hosted by Prof. Jackie Stacey (University of Manchester).                  
@@ -47,7 +47,7 @@ An artist working mainly in live performance, Rosana Cade roots her identity, pr
                     
 Rosana received the Athena Award via New Moves International for *Walking:Holding* in 2011, and is currently (2015) an Artsadmin Bursary Artist. With Nick Anderson, she is co-founder of //BUZZCUT//, dedicated to creating holistic and progressive environments for artists and audiences to experiment with live performance across Scotland and beyond.             
                     
-####What people have said about them              
+####What people have said about *Sister*              
 >4\* *…strange, beautiful and disturbing…*<br>[The Scotsman](http://www.scotsman.com/what-s-on/theatre-comedy-dance/theatre-review-sisters-glasgow-1-3332968)           
 >*…robust humour and unflinching integrity.*<br>[The Herald](http://www.heraldscotland.com/arts-ents/stage/performance-review-behaviour-festival-credible-likeable-superstar-rolemodelsister-ar.23635824)                  
 >4\* *Frank and revealing.*<br>The List                
