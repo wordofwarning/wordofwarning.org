@@ -6,7 +6,7 @@ rootpath: "../../"
 is_index: true
 
 ---
-*Eclectically [higgledy-piggledy](/current/2015-haphazard) with something for everyone — from an [intense tale of family ties](/current/2015-spring/cade) to an [equine evening](/current/2015-spring/vandecruys), by way of a [cuckoo in the nest](/current/2015-spring/thomas) and a '[right nice caff](/current/2015-spring/h&d)'*         
+*Eclectically [higgledy-piggledy](/current/2015-haphazard) with something for everyone — from an [intense tale of family ties](/current/2015-spring/cade) to an [equine evening](/current/2015-spring/vandecruys), by way of a [cuckoo in the nest](/current/2015-spring/thomas) and a '[right nice caff](/current/2015-spring/h&d)'! …and a [seventh round of physical exuberance](/current/2015-turn).*         
                 
 We begin with our 15th annual micro-marathon, as [Emergency](/current/2014-emergency) is staged for the first time entirely throughout the cavernous realms of Z-arts, including the new STUN Studio. A free day-out for the curious, 2014's festival features 29 (or more!) new works… drop-in for ten minutes or stay for the full ten hours.        
         
