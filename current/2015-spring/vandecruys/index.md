@@ -6,7 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Leentje Van de Cruys | University of Salford" # the name of the artist or company
-show: "Horse | Whoaaaaa Steady!" # the name of the show
+show: "HORSE | Whoaaaaa Steady!" # the name of the show
 artist_size: 4
 show_size: 2
 header_image: "header_horse.jpg"
@@ -20,47 +20,33 @@ header_image: "header_horse.jpg"
 *Presented by* University of Salford, The Lowry + Word of Warning        
            
 ####In Brief     
-A pair of performances about being human (and being a horse) from Belgian theatre-maker Leentje Van de Cruys + University of Salford collaborators.       
-           
+Two shows about horses, humans and fitting in. Giddy-up!                     
+                      
 ####Venue + Booking Details    
 Date: Tuesday 24 February 2015, 7.30pm (Double Bill)              
-[Venue: The Lowry Studio](http://www.thelowry.com/plan-your-visit/getting-here), Pier 8, Salford Quays, M50 3AZ    
+[Venue: The Lowry (Aldridge Studio)](http://www.thelowry.com/plan-your-visit/getting-here), Pier 8, Salford Quays, M50 3AZ    
 [Tickets: £12/10](http://www.thelowry.com/event/double-bill-whoaaaaa-steady-and-horse)        
 Box Office Tel: 0843 208 6000   
         
 ####Access Information      
-The performances will last approximately ?? hours/minutes overall, including an interval; includes nudity. Age advisory: 14+ (*parental discretion*).      
+The performances will last approximately 120 minutes overall, including an interval. Includes nudity. Age advisory: 14+ (*parental discretion*).      
       
-##Leentje Van de Cruys    
- 
-*A Cure for Ageing* is a piece about being young and foolish, and becoming old and wise. Or about being young and wise, and becoming old and foolish. It asks how we can talk more honestly about ageing, drawing together true personal accounts and shameless speculation in a celebration of life and an attempt to fall in love with our own decline. A show of indelicate questions and immortal jellyfish, we consider numbers, years, the passing of time, and the fact that we have all, already, started dying.        
-        
-*I’m sorry to do this so early in the show. It’s really quite rude of me. But do you mind if I ask you how old you are?*       
-        
+####More    
+A pair of performances about being human (and being a horse) from Belgian theatre-maker Leentje Van de Cruys + University of Salford collaborators.
+Belgian actress and theatre-maker Leentje Van de Cruys collaborates with University of Salford Performance students to present a double bill of performances about being human (and being a horse).
+
+***Whoaaaaa Steady!** (working title)*
+The British are weird. Take, for example, the racecourse: an intriguing world full of unexpected characters: 'enthusiasts, horseys, addicts, anoraks, socials, pair-bonders, suits and be-seens'.
+It's fascinating to observe some intriguing abnormalities in the body-language, rituals etiquette and behaviour of the racing crowds.  Inspired by anthropologist Kate Fox's book 'The Racing Tribe', we will be watching the horse-watchers, and start to make a show... A show about horses, humans and... well, being British (and weird). Giddy-up!
+
+***HORSE***
+A story about a woman who thinks she’s a horse. But the real problem is that she thinks she is a different horse from the one she is. HORSE is about what it takes to fit in, to make yourself look beautiful to other people, to be loved and accepted, despite everything…              
+                      
 ####Who is she?    
-Ira is an artist, performance-maker and writer, working across theatre and live art. Her practice is rooted in the experience of being human, rather than singular narratives, and aims to make an audience re-consider themselves, and the world within which they live, through work that is evocative and intimate. *A Cure for Ageing* is Ira’s second full-length solo performance. Her first solo show, *Keine Angst*, toured the UK in 2011-12. Her work has been presented at Camden People’s Theatre, The Junction, The ShowRoom, PULSE Festival, Buzzcut Festival, Forest Fringe, Norwich Arts Centre, and *A Cure for Ageing* was part of the SPILL Festival National Platform in 2012.             
-               
-Ira's work often draws on autobiography, and research in the form of found images or objects, scientific, biographical, and factual sources. She likes talking to an audience, and her work increasingly includes elements of participation. Ira primarily makes live performance, and her work strives to be visceral, exciting, funny and tender. She is committed to making work that uses experimental modes of performance but remains humorous, playful and accessible to a wide audience. Ira was a founding member of collaborative performance groups Tinned Fingers and Antique Women. She regularly also works in collaboration with other companies and artists, which currently include Made In China and Andy Field.             
-               
-####What people have said about her    
->*Brand is passionate, knowledgeable, inquisitive and tender in her approach to the audience and the subject matter... Through an hour that passes by all too quickly, Brand explores how it feels to become old, the effects of ageing on our bodies and minds, and the impact our own ageing has on those close to us. This is not a show one would describe as pleasant or entertaining. It's powerful, uncomfortable, and beautiful... Her methods are unashamedly unscientific yet the work carries an authority born out of absolute honesty.*<br>Fringe Review, Highly Recommended Show at the Edinburgh Fringe Festival 2013    
->*At times gut wrenchingly honest, and at others quite humorously direct, this piece opened more questions than it answered... Just what theatre should be; with an engaging aesthetic, a weaving narrative of the author's own, and at least one thought to take way and chew over.*<br>Audience member, London      
-      
+Belgian actress and theatre-maker Leentje Van de Cruys has been making quirky solo performances about domesticity and women's identity for the last 11 years — her recent shows include *Kitsch'n Sync* ([commissioned by hÅb for Domestic](/archive/2013-domestic/vandecruys)), *Going to the Chapel*, *Feedback*, *HORSE*, *The Best Party Ever* and *Knitting to Worry About*. She regularly performs and tours with contemporary theatre companies including Quarantine, Reckless Sleepers, Plane Performance, Proto-type Theater, and is the lead actress/vocalist in *In May*, a music theatre piece written by Frank Alva Buecheler + composed by Neil Hannon (The Divine Comedy). She has also been a guest lecturer and supervisor at Manchester Metropolitan University, Lancaster University + University of Salford.
+                      
 ####Credits    
-Created and performed by Ira Brand. Dramaturgy by Wendy Hubbard. Co-produced by Ira Brand and DREAM.             
-Developed at and supported by Cambridge Junction, Camden People’s Theatre + The Yard Theatre. Supported using public funding by the National Lottery through Arts Council England.            
-              
+*HORSE* originally commissioned by greenroom + hÅb. | *Whoaaaaa Steady!*…            
+                      
 ####Websites    
-[www.irabrand.co.uk](http://www.irabrand.co.uk) | [@irabrand](http://twitter.com/irabrand)      
-    
-##University of Salford performance students        
-*Age Concerns* is an authentic, warm and witty performance sensitively investigating the art of ageing — exploring the past, present, future, tea and biscuits.    
-           
-####Who are they?
-xxx        
-           
-####Credits       
-xxx          
-                 
-####Websites    
-[www.nickihobday.co.uk](http://www.nickihobday.co.uk) | [@Nickihobday](http://twitter.com/Nickihobday)
+[www.irabrand.co.uk](http://www.irabrand.co.uk) | [@Leentjevdc](http://twitter.com/Leentjevdc)
