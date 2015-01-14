@@ -1,4 +1,5 @@
 ---
+
 # CONFIGURATION
 layout: 2015-hd
 rootpath: "../../"
@@ -6,46 +7,56 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Hunt & Darton Cafe" # the name of the artist or company
-show: # the name of the show
-artist_size: 3
-show_size: 3
+show: "A fully functioning café blending art with the everyday." # the name of the show
+artist_size: 2
+show_size: 5
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
+
 ---
-*Presented by* SICK! Festival + Word of Warning          
-
-###2—22 March 2015, open Weds-Sun afternoons?             
-**Manchester's fifteenth free micro-marathon of the bizarre + the beautiful pops up throughout the cavernous realms of Z-arts — drop in for just ten minutes or stay for the full ten hours…**      
-                       
-From gallery to theatre, changing room to basement, Z-arts will reverberate with some twenty-nine individual shows in our *fifteenth* performance lucky-dip, happening this year under one roof… Your chance to sample the different — all for free, featuring (*participating artists subject to change*):        
-        
-Alice Bunker-Whitney ¦ Ana Mendes ¦ Anton Mirto ¦ Art Of Disappearing ¦ Barbara Dean ¦ Boland-Burrell + Byrne ¦ Debbie Sharp ¦ Eik + Orengo ¦ FM ¦ Frances-Kay ¦ Hamish MacPherson ¦ Hidden Track ¦ Hooligans Present ¦ J. Fergus Evans ¦ Jade Montserrat ¦ Jamil Keating ¦ Jonathan Rogerson ¦ Krissi Musiol ¦ Lydia Cottrell ¦ Martin Hamblen ¦ Matthew Pearce ¦ Nathan Birkinshaw ¦ Neil Callaghan ¦ Odd Comic ¦ Olivia Preye ¦ Paul O'Donnell ¦ Peter Jacobs ¦ Rosanne Robertson ¦ VIA Collective        
-              
-**N.B.** Primarily an adult event, Emergency 2014 runs from 12noon to 10pm; from 3pm onwards we *advise* that work may not be suitable for under 18s.    
-          
-####Venue + Booking Details
-Date: Saturday 4 October 2014, 12noon-10pm    
-[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
-Tickets: FREE no booking required (some limited capacity shows have sign-up sheets on the day)        
-Venue Tel: 0161 232 6089    
-
-####Schedule (*timings are approximate + subject to change*)          
-To download, right click and save image.    
-![Schedule Daytime](Emergency-2014-schedule-1.jpg)    
-![Schedule Evening](Emergency-2014-schedule-2.jpg)    
-                       
-####What people said about Emergency 2013        
-A review of the work presented at BLANKSPACE by [C. James Fagan](http://confusedguff.blogspot.co.uk/2013/10/emergency-2013.html).        
-A review of some of the work presented at Z-arts by [The Mancunion](http://mancunion.com/2013/10/17/emergency2013).        
-        
-####Access Information    
-Emergency 2014 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. Largely adult-focussed, some works will not be suitable for younger viewers (i.e. under 18s) from 3pm. We apologise but most of the of one-to-ones are not wheelchair accessible. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
-            
-####Credits         
-[Emergency](/hab/emergency) 2014 is produced by [hÅb](/hab); supported using public funding through Arts Council England, funded by Manchester City Council, supported by [STUN](http://stunlive.com) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.        
-        
-####Websites
-<http://emergencymcr.org> ¦ [Facebook event](http://www.facebook.com/events/764404806955224) ¦ [#EmergencyMcr](https://twitter.com/hashtag/EmergencyMcr)
+*Presented by* SICK! Festival + Word of Warning         
+           
+###Café Open 4 — 25 March (closed Mondays/Tuesdays)                     
+A fully functioning café blending art with the everyday.<br>Spontaneity and performance meet great food and drink.       
+                      
+####Venue + Booking Details      
+Dates: Wednesday 4 — Wednesday 25 March 2015 (closed Mondays/Tuesdays)              
+Opening Times: 12noon-7.30pm every day (closed Mondays/Tuesdays)           
+Venue: TO BE CONFIRMED IN MID-FEBRUARY         
+Tickets: entry to the café is free; however, there may be some special events with restricted entry (see below for details).             
+Special Offer: during Unhappy Hour (6.30pm-7.30pm) enjoy pre-show 2-for-1 drinks offers and great food by showing a ticket for any [SICK! Festival](http://www.sickfestival.com/programme/channel/manchester) event.                      
+                      
+####Access Information      
+A hub for [Manchester's SICK! Festival](http://www.sickfestival.com/programme/channel/manchester), the venue is to be confirmed in mid-February. Details of special events will be listed here during the festival.              
+           
+####More   
+An award-winning pop-up café — which isn't just arty, it is ART; a social and artistic hub where spontaneity and performance meet great food and drink.
+                      
+Jenny Hunt + Holly Darton expose the inner workings of their business by presenting everything as art — from the food served, the people serving, the décor and public display of their bank balance, to the lovingly hand-picked charity shop crockery.               
+                      
+*Hunt & Darton Cafe* encourages playful participation and meaningful social encounters — through its alternative service from hosts Hunt & Darton in their iconic fruit or veggie attire, comic interaction through their 'set menu' performances, guest waiters and themed days such as 'You-Do-It' or 'Health & Safety day'. Popping-up as [the hub for Manchester's SICK! Festival](http://www.sickfestival.com/programme/manchester/hunt-darton-cafe), guest waiters include Pigeon Theatre, Nikki Hobday + Sara Cocker and Erini Kartsaki.                     
+                      
+Responding to SICK! Festival will be theme days such as 'Sexy day' — where it is encouraged to speak frankly about sex with phallic food served up accompanied by sexual innuendo — and hosted talks collaborating with medical practitioners, academics, artists and local groups. Imagine being served tea whilst getting that leg looked at! Or perhaps a bowl of Coco Pops served up with a conversation about mental health…            
+                      
+*Hunt & Darton Cafe are proud to satisfy appetites in more ways than one.*                   
+                      
+####Who are they?                
+Hunt & Darton are a Live Art Collaboration between Jenny Hunt + Holly Darton, graduating together from Central Saint Martins in 2003. Approaching Live Art from a Fine Art background, they work across mediums with a sculptural approach to performance, choreographing words and movement in a sensory way and setting up alternative spaces — often creating installations to perform within.                  
+                      
+Deriving from shared celebrations and anxieties surrounding life choices particularly as women, in Britain, now, their work has been described as deadpan and absurd, often collapsing into humour. They have a persistent fetish within their practice to consistently re-assess their relationship with their audience — embracing awkward moments, risk taking and constantly trying to close the gap between performer and viewer — opting for a raw, underdone, conversational aesthetic.            
+                      
+Hunt & Darton are associate artists at Artsadmin + Cambridge Junction.
+                      
+####What people have said about them         
+>*…a pop-up establishment of disarming eccentricity.*<br>[Lyn Gardner, The Guardian](http://www.theguardian.com/culture/2012/aug/27/edinburgh-festival-2012-highlights)                  
+>*In a Fringe swimming with comedians, Shakespeare adaptations, improv comedy and BBC recordings, Hunt & Darton Cafe made its mark as something truly alternative.*<br>Three Weeks, presenting the Editors awards 2012           
+>*A uniquely delicious art installation.*<br>Varsity               
+           
+####Credits    
+Supported using public funding by the National Lottery through Arts Council England on a Strategic Tour. Hunt & Darton Cafe Manchester is commissioned by SICK! Festival + presented in association with Word of Warning.      
+           
+####Websites    
+<http://huntanddartoncafe.com> | [@HuntDarton](http://twitter.com/HuntDarton) | [Hunt & Darton facebook](http://www.facebook.com/huntanddartoncafe)<br>[www.sickfestival.com](http://www.sickfestival.com) | [@SICKfestival](http://twitter.com/SICKfestival) | [SICK! Festival facebook](http://www.facebook.com/sickfestival)
