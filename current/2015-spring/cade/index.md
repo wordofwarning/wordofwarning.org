@@ -16,7 +16,7 @@ header_image: "header_sister.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Contact + Word of Warning *in association with* The Arches + *supported by* Wellcome Collection's Sexology Season *during* Queer Contact 2015                 
+*Presented by* Contact + Word of Warning *in association with* The Arches + *supported by* Wellcome Collection's Sexology Season *during* Queer Contact                
                     
 ####In Brief
 Two sisters — a sex worker and a shaven-headed lesbian; both feminists — in a bold, unflinching examination of family bonds and differing paths.              
