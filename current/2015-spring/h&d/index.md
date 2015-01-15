@@ -19,13 +19,13 @@ header_image: "header_huntdarton.jpg"
 ---
 *Presented by* SICK! Festival + Word of Warning         
            
-###Café open 4 — 25 March (closed Mondays/Tuesdays)                     
+###Café Open 4 — 25 March (closed Mondays/Tuesdays)                     
 An award-winning pop-up café — which isn't just arty, it is ART — a social and artistic hub where spontaneity and performance meet great food and drink.       
                       
 ####Venue + Booking Details      
 Dates: Wednesday 4 — Wednesday 25 March 2015 (closed Mondays/Tuesdays)              
 Opening Times: 12noon-7.30pm every day (closed Mondays/Tuesdays)           
-Venue: TO BE CONFIRMED IN MID-FEBRUARY         
+Venue: to be confirmed in mid-February         
 Tickets: entry to the café is free; however, there may be some special events with restricted entry (see below for details).             
 Special Offer: during Unhappy Hour (6.30pm-7.30pm) enjoy pre-show 2-for-1 drinks offers and great food by showing a ticket for any [SICK! Festival](http://www.sickfestival.com/programme/channel/manchester) event.                      
                       
