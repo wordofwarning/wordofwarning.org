@@ -4,4 +4,4 @@ layout: home
 header_image: "assets/images/header_2015s.jpg"
 
 ---
-####Announcing [Spring 2015](/current/2015-spring): from [Amy + Rosana Cade](/current/2015-spring/cade)'s *Sister* during Queer Contact, to [Leentje Van de Cruys](/current/2015-spring/vandecruys)' *HORSE* and [Mark Thomas](/current/2015-spring/thomas)' *Cuckooed* at The Lowry, it's a very eclectic mix, with more to come…<br>We are [looking for a Trainee Project Manager](http://habmcr.posthaven.com/trainee-project-manager-paid-internship-6-months-with-hab-slash-word-of-warning-from-feb-2015) to join us on a 6 month paid internship in Feb.
+####Announcing [Spring 2015](/current/2015-spring): from [Amy + Rosana Cade](/current/2015-spring/cade)'s *Sister* during Queer Contact, to [Leentje Van de Cruys](/current/2015-spring/vandecruys)' *HORSE* + [Mark Thomas](/current/2015-spring/thomas)' *Cuckooed* at The Lowry — an eclectic mix, with more to come… We are also [looking for a Trainee Project Manager](http://habmcr.posthaven.com/trainee-project-manager-paid-internship-6-months-with-hab-slash-word-of-warning-from-feb-2015) to join us on a 6 month paid internship.
