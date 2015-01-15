@@ -52,7 +52,7 @@ We are pleased to count among our other friends + regular partners:
 [Quarantine](http://www.qtine.com)    
 [Reckless Sleepers](http://www.reckless-sleepers.co.uk)         
 [Royal Exchange Theatre](http://www.royalexchange.co.uk)        
-[SICK! Festival / The Basement](http://www.thebasement.uk.com)            
+[SICK! Festival](http://www.sickfestival.com) + [The Basement](http://www.thebasement.uk.com)            
 [STUN (Sustained Theatre Up North)](http://stunlive.com)         
 [The1stFour](http://the1st4.blogspot.co.uk)       
 [the Bluecoat](http://www.thebluecoat.org.uk)       
