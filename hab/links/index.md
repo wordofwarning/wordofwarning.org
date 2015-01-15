@@ -23,14 +23,12 @@ hÅb is a member of:
 [IETM](http://ietm.org)  
 [Live Art UK](http://www.liveartuk.org)    
 [LANWest](http://www.lanwest.org)   
-FOG — the Manchester Festival Organisers Group.   
 Taking Our Bearings North — an emerging Greater North Network, led in partnership with [Compass Live Art](http://compassliveart.org.uk) + [Wunderbar](http://www.wunderbar.org.uk).    
          
 We are pleased to count among our other friends + regular partners:    
 [Albino Mosquito](http://www.albinomosquito.com)           
 [Arden School of Theatre (The Manchester College)](http://www.themanchestercollege.ac.uk/subject-area/arden)    
 [Artsadmin](http://www.artsadmin.co.uk)                
-[ASSEMBLE](http://assembletheatre.wordpress.com)       
 [Axis Arts Centre (MMU Cheshire)](http://www.axisartscentre.org.uk)    
 [Blank Media Collective](http://blankmediacollective.org)    
 [Contact](http://contactmcr.com)  
@@ -54,13 +52,13 @@ We are pleased to count among our other friends + regular partners:
 [Quarantine](http://www.qtine.com)    
 [Reckless Sleepers](http://www.reckless-sleepers.co.uk)         
 [Royal Exchange Theatre](http://www.royalexchange.co.uk)        
+[SICK! Festival / The Basement](http://www.thebasement.uk.com)            
 [STUN (Sustained Theatre Up North)](http://stunlive.com)         
 [The1stFour](http://the1st4.blogspot.co.uk)       
-[The Basement/East by South East](http://www.thebasement.uk.com)            
 [the Bluecoat](http://www.thebluecoat.org.uk)       
 [The Future](http://www.the-future.co.uk)      
 [The Larks (formerly Larkin' About)](http://www.the-larks.com) — resident gamers.    
-[The Lowry Studio](http://www.thelowry.com/developed-with/the-studio-microsite/welcome)      
+[The Lowry (Aldridge Studio)](http://www.thelowry.com/events/theatre-shows/the-studio)      
 [Waymarking](http://www.waymarking.org.uk)          
 [Work for Change](http://change.coop)   
 [Z-arts](http://www.z-arts.org)    
