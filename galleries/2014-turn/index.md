@@ -9,7 +9,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: Turn 2014
-more_url: "../../current/2014-turn"
+more_url: "../../archive/2014-turn"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "Joshua Hubbard F*#¿!D", show: "<small>Images copyright &copy;2014 Word of Warning</small>"}
