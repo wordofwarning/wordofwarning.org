@@ -29,9 +29,7 @@ We don't want to put you off by talking labels – yes there'll be theatre, live
 ####Who is Word of Warning?         
 My name's Tamsin Drury and I run an organisation called **[hÅb](/hab)**, which was greenroom's partner for over a decade. You might not know hÅb but you might know some of our events – like **Emergency** (Manchester's free marathon of live work with up to 40 shows over 3 venues) and **Hazard** (random sprees of eccentricity in Manchester's City Centre).
 
-I've been around a while, a really long while… and in that time, I've been responsible for making the Arndale Tower flash, wrapping Cathedral Gardens in 7km of hazard tape and encouraging a mass audience conga and a glitter-cannon Hallelujah chorus!    
-
-On the less eccentric side, over the years hÅb has lso worked with literally hundreds of young NW artists to help them create new pieces of theatre + dance.
+I've been around a while, a really long while… and in that time, I've been responsible for making the Arndale Tower flash, wrapping Cathedral Gardens in 7km of hazard tape and encouraging a mass audience conga and a glitter-cannon Hallelujah chorus! On the less eccentric side, over the years hÅb has also worked with literally hundreds of young NW artists to help them create new pieces of theatre + dance.
           
 Please send programming enquiries to me at <mailto:info@habarts.org>             
 
