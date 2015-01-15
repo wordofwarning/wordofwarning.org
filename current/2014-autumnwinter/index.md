@@ -6,15 +6,15 @@ rootpath: "../../"
 is_index: true
 
 ---
-*From the [fifteenth Emergency](/current/2014-emergency) to a sneak preview of something brand new, A/W takes us to [the High School gym](/current/2014-autumnwinter/actionhero), [a midnight feast](/current/2014-autumnwinter/thompson) and [an empty gallery](/current/2014-autumnwinter/pinchbeck)…*        
+*From the [fifteenth Emergency](/archive/2014-emergency) to a sneak preview of something brand new, A/W takes us to [the High School gym](/archive/2014-autumnwinter/actionhero), [a midnight feast](/archive/2014-autumnwinter/thompson) and [an empty gallery](/archive/2014-autumnwinter/pinchbeck)…*        
         
-We begin with our 15th annual micro-marathon, as [Emergency](/current/2014-emergency) is staged for the first time entirely throughout the cavernous realms of Z-arts, including the new STUN Studio. A free day-out for the curious, 2014's festival features 29 (or more!) new works… drop-in for ten minutes or stay for the full ten hours.        
+We begin with our 15th annual micro-marathon, as [Emergency](/archive/2014-emergency) is staged for the first time entirely throughout the cavernous realms of Z-arts, including the new STUN Studio. A free day-out for the curious, 2014's festival features 29 (or more!) new works… drop-in for ten minutes or stay for the full ten hours.        
         
-Old friends [Action Hero](/current/2014-autumnwinter/actionhero) (last seen [2 years ago](/archive/2012-autumnwinter/goproject)) find out what it means to be a winner at Contact in a wistful yearning for a world that never really existed — high school storylines, inspiring locker room speeches and cheap sentimentality tell us an underdog story that's been told a million times before.        
+Old friends [Action Hero](/archive/2014-autumnwinter/actionhero) (last seen [2 years ago](/archive/2012-autumnwinter/goproject)) find out what it means to be a winner at Contact in a wistful yearning for a world that never really existed — high school storylines, inspiring locker room speeches and cheap sentimentality tell us an underdog story that's been told a million times before.        
         
-Glitter, chicken legs and a rice pudding piñata return us to The Lowry Studio in [Selina Thompson](/current/2014-autumnwinter/thompson)'s version of a midnight feast; somewhere between confessions made over coffee at Weight Watchers and sloppy drunken story-telling over a 3am kebab, it's a powerful portrayal of how we live with our bodies.    
+Glitter, chicken legs and a rice pudding piñata return us to The Lowry Studio in [Selina Thompson](/archive/2014-autumnwinter/thompson)'s version of a midnight feast; somewhere between confessions made over coffee at Weight Watchers and sloppy drunken story-telling over a 3am kebab, it's a powerful portrayal of how we live with our bodies.    
         
-Newly-commissioned [Michael Pinchbeck](/current/2014-autumnwinter/pinchbeck) and guests (Anna Fenemore, Nicki Hobday, Ollie Smith) close our season in Z-arts' gallery with three work-in-progress slideshows exploring absence + presence, flying + falling, and the power of the artist to fail or be free. *N.B. all performances are now sold-out.*     
+Newly-commissioned [Michael Pinchbeck](/archive/2014-autumnwinter/pinchbeck) and guests (Anna Fenemore, Nicki Hobday, Ollie Smith) close our season in Z-arts' gallery with three work-in-progress slideshows exploring absence + presence, flying + falling, and the power of the artist to fail or be free. *N.B. all performances are now sold-out.*     
         
 We look forward to seeing you at some or all of it; if you want to check out what happened last season, have a look at our [Spring/Summer 2014 archive](/archive/2014-springsummer).        
         
