@@ -29,7 +29,7 @@ Date: Tuesday 24 February 2015, 7.30pm (Double Bill)
 Box Office Tel: 0843 208 6000   
         
 ####Access Information      
-With an interval, the performances will last about 2 hours and include nudity.<br>Age advisory: 14+ (*parental discretion*).      
+With an interval, the doublebill will last about 2 hours. Includes nudity.<br>Age advisory: 14+ (*parental discretion*).      
       
 ####More    
 A pair of performances about being human (and being a horse) from Belgian theatre-maker Leentje Van de Cruys + University of Salford collaborators…           
