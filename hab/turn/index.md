@@ -26,4 +26,4 @@ Our **seventh Turn** takes place at Contact on 27 + 28 March 2015 — to get a f
         
 Enquiries: <mailto:turn@habarts.org> ¦ <http://www.turnmcr.org> ¦ #TurnMcr        
         
-Turn 2015 is presented by Word of Warning + Contact; co-produced by hÅb, Contact + Dance Manchester; supported using public funding through Arts Council England + funded by Manchester City Council; a greenroom legacy project.
+[Turn 2015](/current/2015-turn) is presented by Word of Warning + Contact; co-produced by hÅb, Contact + Dance Manchester; supported using public funding through Arts Council England + funded by Manchester City Council; a greenroom legacy project.
