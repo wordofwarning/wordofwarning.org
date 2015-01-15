@@ -16,10 +16,10 @@ header_image:
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, STUN + Z-arts *during* [Emergency 2014](/current/2014-emergency)    
+*Presented by* Word of Warning, STUN + Z-arts *during* [Emergency 2014](/archive/2014-emergency)    
           
 ####Order of Appearance (subject to change):      
-[Emergency 2014](/current/2014-emergency) runs from 12noon to 10pm and is primarily an adult event; from 3pm onwards we *advise* that work may not be suitable for under 18s.      
+[Emergency 2014](/archive/2014-emergency) runs from 12noon to 10pm and is primarily an adult event; from 3pm onwards we *advise* that work may not be suitable for under 18s.      
           
 **Paul O'Donnell ¦ *One Thing On His Mime***      
 Come and be seduced by this mime, come and see him perform in the glass box, drink from the imaginary cup and be pulled by the invisible rope. He's just like all the others, led by the same set of strict rules a mime must follow in order to be. But perhaps, hidden away in there, is a person underneath the face paint waiting to escape that 'glass box' he is trapped inside.             
