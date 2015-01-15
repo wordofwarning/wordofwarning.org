@@ -9,7 +9,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: Emergency 2014
-more_url: "../../current/2014-emergency"
+more_url: "../../archive/2014-emergency"
 
 gallery:
     -   {file: "titlepage.jpg", show: "<small>Title page: Lydia Cottrell by Sheena Holliday; remainder copyright &copy;2014 Word of Warning</small>"}
