@@ -3,6 +3,8 @@
 layout: archive
 
 archived:
+    - {folder: "2014-autumnwinter", name: "Autumn/Winter 2014", class: "aw2014"}    
+    - {folder: "2014-emergency", name: "Emergency 2014", class: "e2013"}    
     - {folder: "2014-hazard", name: "Hazard 2014", class: "h2014"}    
     - {folder: "2014-springsummer", name: "Spring/Summer 2014", class: "ss2014"}    
     - {folder: "2014-worksahead", name: "Works Ahead 2014", class: "woah"}    
