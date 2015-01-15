@@ -9,10 +9,10 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: HOME
-more_url: "../../hab/index.html"
+more_url: "../../hab"
 
 gallery:
-    -   {file: "titlepage.jpg", show: "<small>Images copyright &copy;2013 hÅb</small>"}
+    -   {file: "titlepage.jpg", show: "<small>Images copyright &copy;2015 hÅb</small>"}
     -   {file: "LLkaz.jpg", artist: "Kazuko Hohki", show: "Liverpool Live"}
     -   {file: "LLmarcus.jpg", artist: "Marcus Young", show: "Liverpool Live"}
     -   {file: "emergandrew.jpg", artist: "Andrew Adshead", show: "emergency"}
