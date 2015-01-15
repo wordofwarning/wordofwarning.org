@@ -7,7 +7,7 @@ rootpath: "../../../"
 artist: "Mark Thomas" # the name of the artist or company
 show: "Cuckooed" # the name of the show
 artist_size: 1
-show_size: 2
+show_size: 1
 header_image: "header_thomas.jpg"    
 
 # ABOUT THE SHOW - LAYOUT
