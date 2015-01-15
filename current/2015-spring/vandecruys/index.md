@@ -29,7 +29,7 @@ Date: Tuesday 24 February 2015, 7.30pm (Double Bill)
 Box Office Tel: 0843 208 6000   
         
 ####Access Information      
-With an interval, the doublebill will last about 2 hours. Includes nudity.<br>Age advisory: 14+ (*parental discretion*).      
+With an interval, the double bill will last about 2 hours. Includes nudity.<br>Age advisory: 14+ (*parental discretion*).      
       
 ####More    
 A pair of performances about being human (and being a horse) from Belgian theatre-maker Leentje Van de Cruys + University of Salford collaborators…           
@@ -44,7 +44,7 @@ It's fascinating to observe some intriguing abnormalities in the body language, 
 Belgian actress and theatre-maker Leentje Van de Cruys has been making quirky solo performances about domesticity and women's identity for the last 11 years — her recent shows include *Kitsch'n Sync* ([commissioned by hÅb for Domestic](/archive/2013-domestic/vandecruys)), *Going to the Chapel*, *Feedback*, *HORSE*, *The Best Party Ever* and *Knitting to Worry About*. She regularly performs and tours with contemporary theatre companies including Quarantine, Reckless Sleepers, Plane Performance, Proto-type Theater, and is the lead actress/vocalist in *In May*, a music theatre piece written by Frank Alva Buecheler + composed by Neil Hannon (The Divine Comedy). She has also been a guest lecturer and supervisor at Manchester Metropolitan University, Lancaster University + University of Salford.
                       
 ####Credits    
-*HORSE* originally commissioned by greenroom + hÅb. *Whoaaaaa Steady!* performed by University of Salford BA (Hons) Performance students.            
+*HORSE* originally commissioned by greenroom + hÅb for Method Lab 2010. *Whoaaaaa Steady!* performed by University of Salford BA (Hons) Performance students.            
                       
 ####Websites    
 [www.salford.ac.uk/news](http://www.salford.ac.uk/news/double-bill-horse-by-leentje-van-de-cruys-and-whoaaaaa-steady-by-contemporary-performance-students) | [@Leentjevdc](http://twitter.com/Leentjevdc) | [@UoSArts](http://twitter.com/UoSArts)
