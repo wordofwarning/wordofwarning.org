@@ -16,10 +16,10 @@ header_image:
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, STUN + Z-arts *during* [Emergency 2014](/current/2014-emergency)              
+*Presented by* Word of Warning, STUN + Z-arts *during* [Emergency 2014](/archive/2014-emergency)              
           
 ####Order of Appearance (subject to change):      
-[Emergency 2014](/current/2014-emergency) runs from 12noon to 10pm and is primarily an adult event; from 3pm onwards we *advise* that work may not be suitable for under 18s.      
+[Emergency 2014](/archive/2014-emergency) runs from 12noon to 10pm and is primarily an adult event; from 3pm onwards we *advise* that work may not be suitable for under 18s.      
           
 **Barbara Dean ¦ *home corner***        
 Welcome to the *home corner*, a crafty DIY emergency arts table.      
