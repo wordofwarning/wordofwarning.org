@@ -33,7 +33,7 @@ Venue Tel: 0161 232 6089
 A schedule of activities and participating artists will be published here in mid-February.                         
                        
 ####What people have said about Haphazard        
->• *Great! Everyone was energetic and friendly — very easy to interact with!*<br>• *Suitably crazy & surreal for children and their grown-ups*.<br>• *Really enjoyed the event and it's particularly nice to experience something a bit different, especially as adults, it is quite eye-popping…*<br>Audience Feedback (2013)         
+>• *Great! Everyone was energetic & friendly — very easy to interact with!*<br>• *Suitably crazy & surreal for children and their grown-ups*.<br>• *Really enjoyed the event and it's particularly nice to experience something a bit different, especially as adults, it is quite eye-popping…*<br>Audience Feedback (2013)         
         
 ####Access Information    
 Haphazard takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some parts of the building are not wheelchair accessible. Age advisory: suitable for all. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.
