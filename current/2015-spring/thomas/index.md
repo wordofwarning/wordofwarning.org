@@ -22,7 +22,7 @@ header_image: "header_thomas.jpg"
 A comedy of betrayal. The true story of how Britain's biggest arms manufacturer came to spy on a comedian.             
               
 ####Venue + Booking Details    
-Date: Friday 7 November 2014, 8pm     
+Date: Wednesday 25 February 2015, 8pm     
 [Venue: The Lowry (Quays Theatre)](http://www.thelowry.com/plan-your-visit/getting-here), Pier 8, Salford Quays, M50 3AZ    
 [Tickets: £19](http://www.thelowry.com/event/mark-thomas2) (including booking fee).        
 Box Office Tel: 0843 208 6000        
