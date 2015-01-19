@@ -35,10 +35,15 @@ A tale of hubris, planes, demos and undercover deceit told by an award-winning p
               
 *Cuckooed* picks up from where the award-winning *Bravo Figaro* left off in style, using interviews from friends, colleagues, activists and journalists to examine the impact of betrayal. It is a personal and timely tale that tries to unearth what it means to be spied upon by a corporation under the sanction of the state.            
               
-Winner of an Edinburgh 2014 *Fringe First Award*, expect plenty of laughs, some weird characters, documentary styles, probably a tear or two, and the vague possibility that Mark might get beaten up in the process of making it as he tries to find out if he wants revenge — or if he can forgive a friend.             
+Winner of a *Scotsman Fringe First (2014)* and *Amnesty International Freedom of Expression* awards, expect plenty of laughs, some weird characters, documentary styles, probably a tear or two, and the vague possibility that Mark might get beaten up in the process of making it as he tries to find out if he wants revenge — or if he can forgive a friend.             
+              
+####Who is he?              
+One of comedy's elder statesmen and all-round arty mischief-maker, Mark Thomas's earlier trouble-making-career included six series of *The Mark Thomas Comedy Product* on Channel 4; various series commissioned by Radio 4 including the Sony Award-winning *My Life in Serious Organised Crime*; regular contributions to *The New Statesman*; and formerly holding a Guinness World Record for Most Number of Political Demonstrations in 24 Hours. In 2013 he completed *100 Acts of Minor Dissent*, which included taking the police to court over surveillance and finding a new definition for the word "Farage".
+              
+Mark's output has always been varied, with his works entirely different from each other, more recently creating two one-man theatre shows — 2012 saw *Bravo Figaro*, a touching and poignant tale commissioned by the Royal Opera House about his opera-loving father; winning his first *Scotsman Fringe First*, it was recently broadcast on Radio 4.           
               
 ####What people have said about *Cuckooed*         
->5\* *…a brand of comedy that carries a far weightier purpose than to simply generate laughs… Cuckooed leaves a lasting impression.*<br>[Sunday Herald](http://www.heraldscotland.com/arts-ents/stage/mark-thomas-cuckooed-traverse-theatre-until-august-24-x.24963006)          
+>5\* *…a brand of comedy that carries a far weightier purpose than to simply generate laughs… leaves a lasting impression.*<br>[Sunday Herald](http://www.heraldscotland.com/arts-ents/stage/mark-thomas-cuckooed-traverse-theatre-until-august-24-x.24963006)          
 >5\* *…blisteringly funny, searingly powerful, totally thought-provoking and pure brilliance.*<br>[The Public Reviews](http://www.thepublicreviews.com/cuckooed-traverse-theatre-edinburgh)        
 >4\* *…a clever, funny and angry show.*<br>[Lyn Gardner, The Guardian](http://www.theguardian.com/stage/2014/aug/04/mark-thomas-cuckooed-edinburgh-festival-2014-review)          
 >4\* *It's involving, inspiring, furious and funny.*<br>The Times            
