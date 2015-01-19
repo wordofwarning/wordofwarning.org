@@ -38,6 +38,7 @@ A tale of hubris, planes, demos and undercover deceit told by an award-winning p
 Winner of an Edinburgh 2014 *Fringe First Award*, expect plenty of laughs, some weird characters, documentary styles, probably a tear or two, and the vague possibility that Mark might get beaten up in the process of making it as he tries to find out if he wants revenge — or if he can forgive a friend.             
               
 ####What people have said about *Cuckooed*         
+>5\* *…a brand of comedy that carries a far weightier purpose than to simply generate laughs… Cuckooed leaves a lasting impression.*<br>[Sunday Herald](http://www.heraldscotland.com/arts-ents/stage/mark-thomas-cuckooed-traverse-theatre-until-august-24-x.24963006)          
 >5\* *…blisteringly funny, searingly powerful, totally thought-provoking and pure brilliance.*<br>[The Public Reviews](http://www.thepublicreviews.com/cuckooed-traverse-theatre-edinburgh)        
 >4\* *…a clever, funny and angry show.*<br>[Lyn Gardner, The Guardian](http://www.theguardian.com/stage/2014/aug/04/mark-thomas-cuckooed-edinburgh-festival-2014-review)          
 >4\* *It's involving, inspiring, furious and funny.*<br>The Times            
