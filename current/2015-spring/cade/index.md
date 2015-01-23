@@ -30,7 +30,7 @@ Dates: Thursday 5, Friday 6 + Saturday 7 February 2015, 7.30pm
 Box Office Tel: 0161 274 0600     
         
 ####Access Information         
-With no interval, the performance lasts approximately 75 minutes and contains full nudity throughout. The performance on Saturday 7 February will be BSL interpreted by Jan Guest. Age advisory: 16+             
+With no interval, the performance lasts approximately 75 minutes and contains full nudity throughout. The seating (unreserved) will include a small number of cabaret-style tables + chairs close to the stage area. The performance on Saturday 7 February will be BSL interpreted by Jan Guest. Age advisory: 16+             
                     
 ####Q&A             
 On Friday 6 February, following a short break, there will be a post-show talk with the company hosted by Prof. Jackie Stacey (University of Manchester).                  
