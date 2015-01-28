@@ -19,9 +19,11 @@ header_image:
 *Presented by* Word of Warning + Z-arts          
 
 ###Saturday 28 February 2015, 12noon-4pm. Free             
-Haphazard 2013 filled the historic Z-arts' building to the brim with bizarre antics and amazing images — moving musical sculptures; a bouncy, squeaky, ping-pong dance; and an underground labyrinth (but only for the brave!).                               
+Intriguing images and offbeat oddities dotted around the historic Z-arts' building…         
                        
-Why not join us to see what offbeat oddities and intriguing images 2015 will conjure? Playful, quirky, fun and sometimes plain daft: this is a very different day for kids and their adults, and adults and their adults. Turn up at any time and come and go as you please.                  
+From quirky quoits to crotchety crochet, freaky food to a jungle jamboree, topped off with a dose of dotty dance and a plea to avenge the apiary (or *save the bees!*)                           
+                       
+Playful, quirky, engaging and sometimes plain daft: this is a day for kids and their adults, *adults* and their adults — in short, anyone looking for a different day out!. *Turn up at any time and come and go as you please.*                  
                        
 ####Venue + Booking Details
 Date: Saturday 28 February 2015, 12noon-4pm    
@@ -30,6 +32,8 @@ Tickets: FREE no booking required (*some limited capacity activities MAY have si
 Venue Tel: 0161 232 6089    
 
 ####More    
+[Haphazard 2013](/archive/2013-spring/haphazard) filled Z-arts to the brim — moving musical sculptures; a bouncy, squeaky, ping-pong dance; and an underground labyrinth (but only for the brave!) — why not join us to see what 2015 will conjure?                  
+                       
 A schedule of activities and participating artists will be published here in mid-February.                         
                        
 ####What people have said about Haphazard        
