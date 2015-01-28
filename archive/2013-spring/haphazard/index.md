@@ -5,7 +5,7 @@ layout: 2013-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Haphazard" # the name of the artist or company
+artist: "Haphazard 2013" # the name of the artist or company
 show: "A free day out for the curious of all ages." # the name of the show
 header_image: "header_haphazard_photo.jpg" 
 show_size: 3
