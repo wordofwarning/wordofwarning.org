@@ -30,7 +30,7 @@ Tickets: FREE no booking required (*some limited capacity activities MAY have si
 Venue Tel: 0161 232 6089    
 
 ####More    
-[Haphazard 2013](/archive/2013-spring/haphazard) filled Z-arts to the brim — moving musical sculptures; a bouncy, squeaky, ping-pong dance; an underground labyrinth, *but only for the brave!* — why not join us to see what 2015 will conjure?
+[Haphazard 2013](/archive/2013-spring/haphazard) filled Z-arts to the brim — moving musical sculptures; a bouncy, squeaky, ping-pong dance; an underground labyrinth (only for the brave!) — why not join us to see what 2015 will conjure?
                        
 Haphazard 2015's schedule will be listed here in mid-February, featuring (*tbc*):                         
 Leo Burtin | Liz Clarke | Josh Coates | Robert Foster | Peter Jacobs | Levantes Dance Theatre | Juliann O'Malley | Rachel Ramchurn | Ultra Violets                      
