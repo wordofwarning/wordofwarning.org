@@ -21,7 +21,7 @@ show_size: 4
 ####In Brief
 Intriguing images and offbeat oddities dotted around this historic building — take a wander and see what you stumble upon… Living geometric shapes making moon music, a bonkers bucket dance, marathon hula-hooping and bouncy, squeaky, ping-pong performers…    
 
-Playful, quirky, engaging and sometimes plain daft, this is a day for kids and their adults; adults and *their* adults — in short, anyone looking for a different day out.    
+Playful, quirky, engaging and sometimes plain daft: this is a day for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out.    
 
 Turn up at any time during the course of the day (12noon-4pm), come and go as you please – there will always be something to do or see, and performances happen at least twice.        
                     
@@ -40,7 +40,8 @@ In the **Café**, expect Volkov Commanders' geometric orchestra, Rachael Nutter'
 
 In the **Atrium** meet *Kitty*, a hula-hooping maestro, or listen-in on a miniature highway of talking *cars*… Join a bonkers *bucket dance* in the **Rear Atrium** or take a half-hour breather in the **Gallery** for whatsthebigmistry's *Ping Pong Crash and…* Throughout you will be welcomed by friendly *wildlife* – if you **need some help** feel free to badger a badger, tackle a tiger or worry a wolf.  
   
-Participating artists — Angel Club (north) | Robert Foster | Lydia Hirst | Lani Irving | Anna Macdonald | Rachael Nutter | Katherina Radeva | Ultra Violets | Volkov Commanders | whatsthebigmistry             
+Participating artists:                  
+Angel Club (north) | Robert Foster | Lydia Hirst | Lani Irving | Anna Macdonald | Rachael Nutter | Katherina Radeva | Ultra Violets | Volkov Commanders | whatsthebigmistry             
                     
 ####More     
 ![Ultra Violets](labolis.jpg)    
