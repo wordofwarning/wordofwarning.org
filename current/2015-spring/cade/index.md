@@ -24,7 +24,8 @@ Two sisters — a sex worker and a shaven-headed lesbian; both feminists — in 
 See their [trailer](http://vimeo.com/102549824) (contains nudity).        
                     
 ####Venue + Booking Details    
-Dates: (*Thursday 5, Friday 6 + Saturday 7 February 2015, 7.30pm: all sold-out*)     
+ALL PERFORMANCES ARE SOLD-OUT                               
+(Dates: Thursday 5, Friday 6 + Saturday 7 February 2015, 7.30pm)     
 [Venue: Contact (space 2)](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA    
 [Tickets: £13/7](https://contactmcr.com/whats-on/29293-qc2015-amy-and-rosana-cade-sister/booking) | Special offer: buy nine tickets + get your tenth free    
 Box Office Tel: 0161 274 0600     
