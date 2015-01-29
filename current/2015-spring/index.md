@@ -6,7 +6,7 @@ rootpath: "../../"
 is_index: true
 
 ---
-*Eclectically [higgledy-piggledy](/current/2015-haphazard) with something for everyone — from an [intense tale of family ties](/current/2015-spring/cade) to an [equine evening](/current/2015-spring/vandecruys), by way of a [cuckoo in the nest](/current/2015-spring/thomas) and a '[right nice caff](/current/2015-spring/h&d)'! Oh, and a [seventh round of physical exuberance](/current/2015-turn)…*               
+*Eclectically [higgledy-piggledy](/current/2015-haphazard) with something for everyone — from an [intense tale of family ties](/current/2015-spring/cade) (*now sold-out*) to an [equine evening](/current/2015-spring/vandecruys), by way of a [cuckoo in the nest](/current/2015-spring/thomas) and a '[right nice caff](/current/2015-spring/h&d)'! Oh, and a [seventh round of physical exuberance](/current/2015-turn)…*               
                 
 We look forward to seeing you at some or all of it; if you want to check out what happened last season, have a look at our [Autumn/Winter 2014 archive](/archive/2014-autumnwinter).        
         
