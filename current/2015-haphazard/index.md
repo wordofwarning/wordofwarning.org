@@ -26,14 +26,14 @@ Playful, quirky, engaging and sometimes plain daft: this is a day for kids and t
 ####Venue + Booking Details
 Date: Saturday 28 February 2015, 12noon-4pm    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
-Tickets: FREE no booking required (*some limited capacity activities MAY have sign-up sheets on the day*)        
+Tickets: FREE no booking required († *some limited capacity activities MAY have sign-up sheets on the day*)        
 Venue Tel: 0161 232 6089    
 
 ####More    
 [Haphazard 2013](/archive/2013-spring/haphazard) filled Z-arts to the brim — moving musical sculptures; a bouncy, squeaky, ping-pong dance; an underground labyrinth (only for the brave!) — why not join us to see what 2015 will conjure?
                        
 Haphazard 2015's schedule will be listed here in mid-February, featuring (*tbc*):                         
-Leo Burtin | Liz Clarke | Josh Coates | Robert Foster | Peter Jacobs | Levantes Dance Theatre | Juliann O'Malley | Rachel Ramchurn | Ultra Violets                      
+Leo Burtin | Liz Clarke | Josh Coates | Robert Foster | Hunt & Darton | Lani Irving | Peter Jacobs | Levantes Dance Theatre | Julieann O'Malley† | Natasha Patel | Rachel Ramchurn | Ultra Violets                         
                        
 ####What people have said about Haphazard        
 >• *Great! Everyone was energetic & friendly — very easy to interact with!*<br>• *Suitably crazy & surreal for children and their grown-ups*.<br>• *Really enjoyed the event and it's particularly nice to experience something a bit different, especially as adults, it is quite eye-popping…*<br>Audience Feedback ([2013](/archive/2013-spring/haphazard))         
