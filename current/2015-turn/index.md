@@ -19,9 +19,9 @@ show_size: 4
 *Presented by* Word of Warning + Contact    
          
 ###Friday 27 + Saturday 28 March 2015, 7.30pm
-Pirouetting and spinning, twizzling and twirling, Turn lands at Contact for its fourth year… this two-day conflagration of the best new dance in town explodes into life, with some fifteen new works taking over the whole building.           
+Pirouetting and spinning, twizzling and twirling, Turn lands at Contact for its fourth year… this two-day conflagration of the best new dance in town explodes into life, with some sixteen new works taking over the whole building.           
                   
-Fluidly lyrical, effervescently acrobatic or eccentrically innovative, Turn has played host to curly haired capoeira twins, a ballerina in a body bag and a goggle-wearing, flipper-dance — join us in 2015 for another round of physical exuberance.               
+Fluidly lyrical, effervescently acrobatic or eccentrically innovative, Turn has played host to curly haired capoeira twins, a ballerina in a body bag and a goggle-wearing, flipper-dance — join us in 2015 for another round of physical exuberance, *plus a Mixed Movement Turn Special*.
                   
 Turn 2015 is our seventh annual platform for dancers + dance-makers — to get a feel for it, see Turn 2014's [programme](/archive/2014-turn) + [image gallery](/galleries/2014-turn).   
                   
