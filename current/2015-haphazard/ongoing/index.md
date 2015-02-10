@@ -1,11 +1,11 @@
 ---
 # CONFIGURATION
-layout: 2014-emergency
+layout: 2015-haphazard
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Haphazard 2015"
-show: "Activities All Afternoon"
+show: "Ongoing Activities from 12noon to 4pm"
 artist_size: 1
 show_size: 4
 header_image:
@@ -16,10 +16,10 @@ header_image:
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning + Z-arts *during* [Haphazard 2015](/current/2015-haphazard)    
-          
-####Participating Artists (subject to change):      
-[Haphazard 2015](/current/2015-haphazard) runs from 12noon to 4pm and is a free event for the curious of all ages. Turn up at any time and come and go as you please.       
+*Presented by* Word of Warning + Z-arts		
+A free event for the curious of all ages, [Haphazard 2015](/current/2015-haphazard) runs from 12noon to 4pm  — turn up at any time and come and go as you please.		
+		
+####Ongoing Activities (subject to change):      
           
 **artist | *title***        
 copy.          
