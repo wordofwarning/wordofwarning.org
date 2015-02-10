@@ -16,7 +16,7 @@ header_image:
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning + Z-arts — *a free event for the curious of all ages, turn up any time between 12noon & 4pm and come and go as you please.*		
+*A free event for the curious of all ages presented by* Word of Warning + Z-arts<br>*Turn up any time from 12noon to 4pm and come and go as you please.*		
 		
 ####Ongoing Activities (subject to change):      
           
