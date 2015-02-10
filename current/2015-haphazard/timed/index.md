@@ -16,11 +16,9 @@ header_image:
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning + Z-arts		
-A free event for the curious of all ages, [Haphazard 2015](/current/2015-haphazard) runs from 12noon to 4pm  — turn up at any time and come and go as you please.		
+*A free event for the curious of all ages presented by* Word of Warning *+* Z-arts*.<br>Turn up at Z-arts any time from 12noon to 4pm… Come and go as you please.*				
 		
-####Timed Activities (in order of appearance, subject to change):      
-          
+####Timed Activities (order of appearance, subject to change):      
 **artist | *title***        
 copy.          
 [www.](http://) | [@](http://twitter.com/) | [artist facebook](http://www.facebook.com/)        
