@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Haphazard 2015"
-show: "Timed Activities between 12noon & 4pm"
+show: "Timed Activity Between 12noon & 4pm"
 artist_size: 1
 show_size: 4
 header_image:
@@ -18,7 +18,7 @@ header_image:
 ---
 *A free event for the curious of all ages presented by* Word of Warning *+* Z-arts*.<br>Turn up at Z-arts any time from 12noon to 4pm… Come and go as you please.*				
 		
-####Timed Activities (order of appearance, subject to change):      
+####Timed Activity, In Order Of Appearance (subject to change):      
 **artist | *title***        
 copy.          
 [www.](http://) | [@](http://twitter.com/) | [artist facebook](http://www.facebook.com/)        
