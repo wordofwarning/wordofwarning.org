@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Haphazard 2015"
-show: "Ongoing Activities from 12noon to 4pm"
+show: "Ongoing Activity From 12noon To 4pm"
 artist_size: 1
 show_size: 4
 header_image:
@@ -18,7 +18,7 @@ header_image:
 ---
 *A free event for the curious of all ages presented by* Word of Warning *+* Z-arts*.<br>Turn up at Z-arts any time from 12noon to 4pm… Come and go as you please.*		
 		
-####Ongoing Activities (subject to change):      
+####Ongoing Activity, In Alphabetical Order (subject to change):      
           
 **artist | *title***        
 copy.          
