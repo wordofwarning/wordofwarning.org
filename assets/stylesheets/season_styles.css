@@ -344,14 +344,14 @@
 	.hd .splash
 		{background:url(../images/header_huntdarton.jpg) center center}
 
-/* Turn 2015 dark blue-teal
+/* Turn 2015 dark lilac
 ------------------------------------------------------*/
 
 	.t2015,
 	.t2015 .artist, 
 	.t2015 .show,
 	.t2015 .season
-		{background:#036; color:#fff;}
+		{background:#339; color:#fff;}
 
 	.t2015 a,
 	.t2015 a:visited,
@@ -360,7 +360,7 @@
 	.t2015 nav a:hover,
 	.t2015 article a:hover,
 	.t2015 footer a:hover
-		{background: #fff; color: #036;}
+		{background: #fff; color: #339;}
 
 	.t2015 .splash
 		{background:url(../images/header_turn15.jpg) center center}
