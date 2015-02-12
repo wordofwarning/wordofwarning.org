@@ -16,16 +16,19 @@ header_image:
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*A free event for the curious of all ages presented by* Word of Warning *+* Z-arts*.<br>Turn up at Z-arts any time from 12noon to 4pm… Come and go as you please.*				
-		
-####Timed Activity, In Order Of Appearance (subject to change):      
-**artist | *title***        
-copy.          
-[www.](http://) | [@](http://twitter.com/) | [artist facebook](http://www.facebook.com/)        
-![picture](.jpg)		
-		
+*A free event for the curious of all ages, presented by* Word of Warning *+* Z-arts*<br>Turn up at Z-arts any time from 12noon to 4pm… Come and go as you please.*				
+
 ####Venue + Booking Details
 Date: Saturday 28 February 2015, 12noon-4pm    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: FREE no booking required († *some limited capacity activities MAY have sign-up sheets on the day*)        
 Venue Tel: 0161 232 6089
+		
+####time
+**artist | *title***        
+copy.          
+[www.](http://) | [@](http://twitter.com/) | [artist facebook](http://www.facebook.com/)        
+![picture](.jpg)		
+		
+####[Ongoing Activity From 12noon To 4pm](/current/2015-haphazard/ongoing):		
+Anonymous | Leo Burtin | Josh Coates | Hunt & Darton | Lani Irving | Peter Jacobs | Julieann O’Malley† | Natasha Patel
