@@ -43,14 +43,14 @@ You are invited to throw large coloured foam rings, with the aim of catching the
 	
 ####12.30-1pm | 1.30-2pm		
 **Levantes Dance Theatre | *The Western Frontier (work-in-progress)***        
-A playful exploration of love in a western landscape. Last seen during [Turn 2014](/archive/2014-turn/fri), Word of Warning stalwarts Levantes' latest work ventures into love, loss and banjos.		
+A playful exploration of love in a western landscape. Last seen during [Turn 2014](/archive/2014-turn/fri), stalwarts Levantes' return with a venture into love, loss and banjos…		
 		
 Commissioned by hÅb.        
 [www.levantesdancetheatre.org](http://www.levantesdancetheatre.org) | [Levantes facebook](http://www.facebook.com/pages/Levantes-Dance-Theatre/104271426281626) | [@LevantesDance](http://twitter.com/LevantesDance)		
 	
 ####1-3pm + 3-3.10pm performance		
 **Liz Clarke | *My Inflatable One***        
-A cross between a rubbery, exploding, all ages 'sewing bee' and an odd, deconstructed, cabaret encounter… At times spectators, at times involved, the audience share in a collective experience. Part mundane, part spectacle, part wonderment — this encounter charts the quest for *Bigger! Better! More!*, all told through the medium of balloons and silly soundtracks.
+A cross between a rubbery, exploding, all ages 'sewing bee' and an odd, deconstructed, cabaret encounter — at times spectators, at times involved, the audience share in a collective experience. Part mundane, part spectacle, part wonderment; this encounter charts the quest for *Bigger! Better! More!* through the medium of balloons and silly soundtracks.
 	
 Liz's performance practice is mostly body-based, exploring the boundaries between live art, theatre and cabaret, between gender, and between reality and dream-scapes. Shows include *I Tattooed My Baby* (she didn't) and *Cannonballista*, a dark human cannonball show (she did), as well as many durational and shorter cabaret works.		
 	
