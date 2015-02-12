@@ -1,28 +1,28 @@
 ---
 
 # CONFIGURATION
-layout: 2014-turn
+layout: 2015-turn
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Turn 2014"
-show: "First Night: Friday 4 April"
+artist: "Turn 2015"
+show: "First Night: Friday 27 March"
 show_size: 4
 
 # ABOUT THE SHOW - LAYOUT
 header_image: "header_turn15.jpg"
 
 ---
-*Part of* Turn 2014, *presented by* Word of Warning + Contact       
+*Part of* Turn 2015, *presented by* Word of Warning + Contact       
      
 ####Venue + Booking Details, for Turn        
-Dates: Friday 4 + Saturday 5 April 2014, 7.30pm    
-[Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
-[Tickets: £9/5 (two night pass £11/6)](https://contactmcr.com/whats-on/13070-turn-2014/booking/) ¦ Special offer: buy ten tickets, get one free    
+Dates: Friday 27 + Saturday 28 March 2015, 7.30pm    
+[Venue: Contact](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA    
+[Tickets: £9/5 per night (two night pass £11/6)](https://contactmcr.com/whats-on/30697-turn-2015/booking) | Special offer: buy nine tickets + get your tenth free    
 Box Office Tel: 0161 274 0600    
         
 ####Order of Appearance (subject to change)      
-**Ashleigh Berry ¦ *The Space Between***          
+**Ashleigh Berry | *The Space Between***          
 A first-stage short film exploration created and directed by Ashleigh Berry, toying with the intersecting ideas of personal and public space. Examining space as a commodity in an ever-changing, ever-moving environment, the film questions when to 'hold space' as an individual, making a mark, and when to succumb to the bustle and become part of the background noise.
 
 Concept + creation: Ashleigh Berry ¦ Collaborators: Nicole Ward, Emma Fishwick ¦ Project Mentor: Laura Boynes ¦ Supported by Healthway, promoting the Drug Aware message, and Propel Youth Arts Western Australia.        
@@ -78,3 +78,6 @@ Artistic Direction: Eleni Edipidi (LDT) ¦ Performers: Eleni Edipidi, Joseph Lau
         
 [Website](http://www.levantesdancetheatre.org) ¦ [@LevantesDance](http://twitter.com/LevantesDance)    
 ![Levantes Dance Theatre](Levantes3.jpg)
+
+####[First Night: Friday 27 March](/current/2015-turn/sat):
+|
