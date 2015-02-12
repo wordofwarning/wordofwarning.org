@@ -21,14 +21,14 @@ header_image:
 ####Venue + Booking Details
 Date: Saturday 28 February 2015, 12noon-4pm    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
-Tickets: FREE no booking required († *limited capacity with a sign-up sheet on the day*)        
+Tickets: FREE no booking required († *limited capacity, sign-up on the day*)        
 Venue Tel: 0161 232 6089
 		
 ####12noon-12.20pm | 1-1.20pm | 2-2.20pm | 3-3.20pm		
 **Rachel Ramchurn | *Crochet: LIVE***		
 What happens when crochet comes alive? Find out and meet the bizarre, whimsical character 'Crochet' in this spontaneous and improvised physical performance piece.		
-
-Created by Rachel Ramchurn | Performed by Amanda Debrowski		
+		
+Created by Rachel Ramchurn + performed by Amanda Debrowski.		
 <http://rachelramchurn.blogspot.co.uk> | [@rararamchurn](http://twitter.com/rararamchurn)	
 	
 ####12noon-12.30pm | 1-1.30pm | 2-4pm	
@@ -50,9 +50,9 @@ Commissioned by hÅb.
 **Liz Clarke | *My Inflatable One***		
 A cross between a rubbery, exploding, all ages 'sewing bee' and an odd, deconstructed, cabaret encounter… At times spectators, at times involved, the audience share in a collective experience. Part mundane, part spectacle, part wonderment — this encounter charts the quest for *Bigger! Better! More!*, all told through the medium of balloons and silly soundtracks.
 	
-Liz's performance practice is mostly body-based, exploring the boundaries between live art, theatre and cabaret, between gender, and between reality and dream-scapes. Shows include *I Tattooed My Baby* (she didn’t) and *Cannonballista*, a dark human cannonball show (she did), as well as many durational and shorter cabaret works.		
+Liz's performance practice is mostly body-based, exploring the boundaries between live art, theatre and cabaret, between gender, and between reality and dream-scapes. Shows include *I Tattooed My Baby* (she didn't) and *Cannonballista*, a dark human cannonball show (she did), as well as many durational and shorter cabaret works.		
 	
-Image Credit: Toaster in the Bath		
+<small>Image Credit: Toaster in the Bath</small>		
 [www.lizclarke.org](http://www.lizclarke.org) | [@LizGClarke](http://twitter.com/LizGClarke)        
 ![picture](.jpg)		
 		
