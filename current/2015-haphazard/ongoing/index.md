@@ -18,7 +18,7 @@ header_image:
 ---
 *A free event for the curious of all ages, presented by* Word of Warning *+* Z-arts*<br>Turn up at Z-arts any time from 12noon to 4pm, come and go as you please…*		
 
-####Venue + Booking Details
+####Venue + Booking Details, for Haphazard
 Date: Saturday 28 February 2015, 12noon-4pm    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: FREE no booking required († *limited capacity, sign-up on the day*)        

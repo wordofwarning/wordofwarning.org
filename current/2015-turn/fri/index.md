@@ -10,10 +10,10 @@ show: "First Night: Friday 27 March"
 show_size: 4
 
 # ABOUT THE SHOW - LAYOUT
-header_image: "header_turn15.jpg"
+header_image:
 
 ---
-*Part of* Turn 2015, *presented by* Word of Warning + Contact       
+A micro-festival of new dance, presented by* Word of Warning *+* Contact       
      
 ####Venue + Booking Details, for Turn        
 Dates: Friday 27 + Saturday 28 March 2015, 7.30pm    
@@ -79,5 +79,5 @@ Artistic Direction: Eleni Edipidi (LDT) ¦ Performers: Eleni Edipidi, Joseph Lau
 [Website](http://www.levantesdancetheatre.org) ¦ [@LevantesDance](http://twitter.com/LevantesDance)    
 ![Levantes Dance Theatre](Levantes3.jpg)
 
-####[First Night: Friday 27 March](/current/2015-turn/sat):
+####[Second Night: Saturday 28 March](/current/2015-turn/sat):
 |
