@@ -18,7 +18,8 @@ A micro-festival of new dance, presented by* Word of Warning *+* Contact
 ####Venue + Booking Details, for Turn        
 Dates: Friday 27 + Saturday 28 March 2015, 7.30pm    
 [Venue: Contact](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA    
-[Tickets: £9/5 per night (two night pass £11/6)](https://contactmcr.com/whats-on/30697-turn-2015/booking) | Special offer: buy nine tickets + get your tenth free    
+[Tickets: £9/5 per night (two night pass £11/6)](http://contactmcr.com/whats-on/30697-turn-2015/booking)        
+Special offer: buy nine tickets + get your tenth free    
 Box Office Tel: 0161 274 0600    
         
 ####Order of Appearance (subject to change)      
