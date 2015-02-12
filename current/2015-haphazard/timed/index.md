@@ -32,16 +32,18 @@ Created by Rachel Ramchurn + performed by Amanda Debrowski.
 <http://rachelramchurn.blogspot.co.uk> | [@rararamchurn](http://twitter.com/rararamchurn)	
 	
 ####12noon-12.30pm | 1-1.30pm | 2-4pm	
-**Ultra Violets**        
+**Ultra Violets | *Labolis***        
+A jungle-themed clue-based game.        
 [www.ultraviolets.org.uk](http://www.ultraviolets.org.uk) | [Ultra Violets facebook](http://www.facebook.com/pages/Ultra-Violet-Violence/182526948443905)		
 	
 ####12noon-1pm | 3-4pm		
 **Robert Foster | *Fool's Game***        
+You are invited to throw large coloured foam rings, with the aim of catching them on a fool's head.		
 <http://robertjohnfoster.wordpress.com> | [@robert_j_foster](http://twitter.com/robert_j_foster)	
 	
 ####12.30-1pm | 1.30-2pm		
-**Levantes Dance Theatre | *The Western Frontier (work in progress)***        
-A playful exploration of love in a western landscape, Levantes' work in progress ventures into love, loss and banjos.		
+**Levantes Dance Theatre | *The Western Frontier (work-in-progress)***        
+A playful exploration of love in a western landscape. Last seen during [Turn 2014](/archive/2014-turn/fri), Word of Warning stalwarts Levantes' latest work ventures into love, loss and banjos.		
 		
 Commissioned by hÅb.        
 [www.levantesdancetheatre.org](http://www.levantesdancetheatre.org) | [Levantes facebook](http://www.facebook.com/pages/Levantes-Dance-Theatre/104271426281626) | [@LevantesDance](http://twitter.com/LevantesDance)		
