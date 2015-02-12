@@ -30,5 +30,5 @@ copy.
 [www.](http://) | [@](http://twitter.com/) | [artist facebook](http://www.facebook.com/)        
 ![picture](.jpg)		
 
-####[Timed Activity between 12noon & 4pm]():		
+####[Timed Activity between 12noon & 4pm](/current/2015-haphazard/timed):		
 Rachel Ramchurn | Ultra Violets | Robert Foster | Levantes Dance Theatre | Liz Clarke
