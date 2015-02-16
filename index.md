@@ -4,4 +4,4 @@ layout: home
 header_image: "assets/images/header_2015s.jpg"
 
 ---
-####Next week gets busy as [Spring 2015](/current/2015-spring) continues… [Leentje Van de Cruys](/current/2015-spring/vandecruys)' *HORSE* + [Mark Thomas](/current/2015-spring/thomas)' *Cuckooed* at The Lowry, with a  [Haphazard](/current/2015-haphazard) free day out at Z-arts.
+####Our [season springs](/current/2015-spring) in to life next week with [Leentje Van de Cruys](/current/2015-spring/vandecruys)' *HORSE* (Tue 24) + [Mark Thomas](/current/2015-spring/thomas)' *Cuckooed* (Wed 25) at The Lowry + a free [Haphazard](/current/2015-haphazard) Saturday at Z-arts (28).
