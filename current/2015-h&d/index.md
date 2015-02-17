@@ -40,7 +40,9 @@ Jenny Hunt + Holly Darton expose the inner workings of their business by present
 *Hunt & Darton Cafe* encourages playful participation and meaningful social encounters — through its alternative service from hosts Hunt & Darton in their iconic fruit or veggie attire, comic interaction through their 'set menu' performances, guest waiters and themed days such as 'You-Do-It' or 'Health & Safety day'. Popping-up as [the hub for Manchester's SICK! Festival](http://www.sickfestival.com/programme/manchester/hunt-darton-cafe), guest waiters include Pigeon Theatre, Nikki Hobday + Sara Cocker and Erini Kartsaki.                     
                       
 Responding to SICK! Festival will be theme days such as 'Sexy day' — where it is encouraged to speak frankly about sex with phallic food served up accompanied by sexual innuendo — and hosted talks collaborating with medical practitioners, academics, artists and local groups. Imagine being served tea whilst getting that leg looked at! Or perhaps a bowl of Coco Pops served up with a conversation about mental health…            
-                      
+            
+**Food on offer** includes cakes (Battenberg!), light lunches and H&D's signature dish, the roast dinner sandwich.<br>**Things to spot** include The Survival Shelf, the "not" menu, Takeaway Art, the Boss mug, the quote of the day, the sugar bearers, and (of course) pineapples.         
+           
 *Hunt & Darton Cafe are proud to satisfy appetites in more ways than one.*                   
                       
 ####Who are they?                
@@ -59,4 +61,4 @@ Hunt & Darton are associate artists at Artsadmin + Cambridge Junction.
 Supported using public funding by the National Lottery through Arts Council England on a Strategic Tour. Hunt & Darton Cafe Manchester is commissioned by SICK! Festival + presented in association with Word of Warning.      
            
 ####Websites    
-<http://huntanddartoncafe.com> | [@HuntDarton](http://twitter.com/HuntDarton) | [Hunt & Darton facebook](http://www.facebook.com/huntanddartoncafe)<br>[www.sickfestival.com](http://www.sickfestival.com) | [@SICKfestival](http://twitter.com/SICKfestival) | [SICK! Festival facebook](http://www.facebook.com/sickfestival)
+<http://huntanddartoncafe.com> | [@HuntDarton](http://twitter.com/HuntDarton) | [Hunt & Darton Cafe facebook](http://www.facebook.com/huntanddartoncafe)<br>[www.sickfestival.com](http://www.sickfestival.com) | [@SICKfestival](http://twitter.com/SICKfestival) | [SICK! Festival facebook](http://www.facebook.com/sickfestival)
