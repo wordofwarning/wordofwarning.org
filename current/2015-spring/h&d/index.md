@@ -39,6 +39,8 @@ Jenny Hunt + Holly Darton expose the inner workings of their business by present
                       
 Responding to SICK! Festival will be theme days such as 'Sexy day' — where it is encouraged to speak frankly about sex with phallic food served up accompanied by sexual innuendo — and hosted talks collaborating with medical practitioners, academics, artists and local groups. Imagine being served tea whilst getting that leg looked at! Or perhaps a bowl of Coco Pops served up with a conversation about mental health…            
                       
+**Food on offer** includes cakes (Battenberg!), light lunches and H&D's signature dish, the roast dinner sandwich.<br>**Things to spot** include The Survival Shelf, the "not" menu, Takeaway Art, the Boss mug, the quote of the day, the sugar bearers, and (of course) pineapples.        
+           
 *Hunt & Darton Cafe are proud to satisfy appetites in more ways than one.*                   
                       
 ####Who are they?                
