@@ -47,7 +47,7 @@ Last seen during [2013](/archive/2013-spring/haphazard), Lani Irving brings alon
 <http://laniirving.wix.com/thebusybadgeruk> | [The Busy Badger facebook](http://www.facebook.com/thebusybadger) | [@thebusybadger](http://twitter.com/thebusybadger)          
         
 **Peter Jacobs**        
-<http://peter-jacobs.weebly.com> | [Peter Jacobs facebook](http://www.facebook.com/mrpeterjacobs) | [@PeterAJacobs](http://twitter.com/PeterAJacobs)        
+<http://peter-jacobs.weebly.com> | [Peter Jacobs facebook](http://www.facebook.com/mrpeterjacobs) | [@PeterTJacobs](http://twitter.com/PeterTJacobs)        
         
 **Julieann O’Malley | *HIVE***          
 Are young people encountering the natural word outside, the way that they used to? Are they aware about the struggling Bee species, and that if we loose this hearty worker we'll loose two thirds of our fresh fruit and vegetables?          
