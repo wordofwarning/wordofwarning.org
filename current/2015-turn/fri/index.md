@@ -13,7 +13,7 @@ show_size: 4
 header_image:
 
 ---
-A micro-festival of new dance, presented by* Word of Warning *+* Contact       
+*A micro-festival of new dance, presented by* Word of Warning *,* Contact *+* Dance Manchester       
      
 ####Venue + Booking Details, for Turn        
 Dates: Friday 27 + Saturday 28 March 2015, 7.30pm    
