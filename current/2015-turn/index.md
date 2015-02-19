@@ -30,7 +30,6 @@ Box Office Tel: 0161 274 0600
                   
 ####More        
 Fluidly lyrical, effervescently acrobatic or eccentrically innovative, Turn has played host to curly haired capoeira twins, a ballerina in a body bag and a goggle-wearing, flipper-dance — join us in 2015 for another round of physical exuberance, featuring (*participating artists subject to change*):    
-    
 Adam Russell | Dan Watson | Ebony-Rose + Lorienne Aimée | EdgeFWD Dance Theatre | Joseph Mannion | Joshua Hubbard | Lo-Giudice Dance | Maelstrom Theatre | Malachi Simmons + Theo Fapohunda | Peter Grist + Co | Phoebe Ophelia Douthwaite | Rachel Sweeney | Rebekka Platt | Sophie Unwin | Tangled Dance Company | Victoria Sheldon | *plus a Mixed Movement Turn Special*        
         
 Turn 2015 is our seventh annual platform for dancers + dance-makers — to get a feel for it, see Turn 2014's [programme](/archive/2014-turn) + [image gallery](/galleries/2014-turn).   
