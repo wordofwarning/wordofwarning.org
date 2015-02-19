@@ -24,7 +24,7 @@ A comedy of betrayal. The true story of how Britain's biggest arms manufacturer 
 ####Venue + Booking Details    
 Date: Wednesday 25 February 2015, 8pm     
 [Venue: The Lowry (Quays Theatre)](http://www.thelowry.com/plan-your-visit/getting-here), Pier 8, Salford Quays, M50 3AZ    
-[Tickets: £19](http://www.thelowry.com/event/mark-thomas2) (including booking fee). ***Only restriceted view seats left.***        
+[Tickets: £19](http://www.thelowry.com/event/mark-thomas2) (including booking fee) — ***only restricted view available***.        
 Box Office Tel: 0843 208 6000        
 
 ####Access Information        
