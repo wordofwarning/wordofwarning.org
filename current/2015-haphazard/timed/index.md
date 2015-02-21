@@ -31,7 +31,7 @@ Find out and meet the bizarrely whimsical character 'Crochet' in this spontaneou
 		
 Created by Rachel Ramchurn + performed by Amanda Debrowski.        
 <http://rachelramchurn.blogspot.co.uk> | [@rararamchurn](http://twitter.com/rararamchurn)       
-
+![Crochet](Crochet.jpg)    
  
 ####12noon-12.30pm | 1-1.30pm | 2-4pm	
 **Ultra Violets | *Labolis***        
