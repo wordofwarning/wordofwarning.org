@@ -33,7 +33,8 @@ Haphazard welcomes its very own bovine micro-herd... Last seen during [2013](/ar
 **Anonymous  | *Narcissus***       
 Everyone loves badges, don’t they? What slogan will *you* choose and what does it say about you?    
 Ask a white-coated volunteer for your favourite badge and become part of this mobile and moving self-portrait of an unknown artist, painted in words on tin.    
-          
+![Narcissus](Narcissus.jpg)      
+
 **Leo Burtin | *Homemade: Le Bistroquet***      
 You are invited to Leo's Bistro - join us in this pop-up café where the menu needs **you**!    
 While you sip on a soupçon or taste a tit-bit, why not offer your own recipe for our chef to consider?    
