@@ -9,7 +9,7 @@ artist: "Haphazard 2015" # the name of the artist or company
 show: "A free day out for the curious of all ages." # the name of the show
 artist_size: 1
 show_size: 4
-header_image: header_levantes.jpg
+header_image: header_haphazard2.jpg
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
