@@ -34,31 +34,37 @@ Created by Rachel Ramchurn + performed by Amanda Debrowski.
 ![Crochet](Crochet.jpg)    
  
 ####12noon-12.30pm | 1-1.30pm | 2-4pm	
-**Ultra Violets | *Labolis***        
-A jungle-themed clue-based game.        
+**Ultra Violets | *Labolis Goes Wild***        
+Welcome to the jungle… pick up a pirate map from Captain Jack and embark on a perilous quest for buried treasure.  Fish in the lagoon and unravel the spiderweb riddle in search of the elusive clues.    
+
+In [Haphzard 2013](/archive/2013-spring/haphazard/index.html), the Ultra Violets brought mayhem in the minotaur’s maze.  Now be enticed to explore but remember - it’s a jungle out there!    
+
 [www.ultraviolets.org.uk](http://www.ultraviolets.org.uk) | [Ultra Violets facebook](http://www.facebook.com/pages/Ultra-Violet-Violence/182526948443905)		
-	
+![Labolis](Weaver.jpg)	    
+
 ####12noon-1pm | 3-4pm		
 **Robert Foster | *Fool's Game***        
-You are invited to throw large coloured foam rings, with the aim of catching them on a fool's head.		
+Roll up, roll up and join in the hoopla!  
+Pick your challenge level and put your skill to the test by tossing a ring over a bucket-headed fool in this surreal makeover for the old fashioned game of quoits.   
 <http://robertjohnfoster.wordpress.com> | [@robert_j_foster](http://twitter.com/robert_j_foster)	
 	
 ####12.30-1pm | 1.30-2pm		
 **Levantes Dance Theatre | *The Western Frontier (work-in-progress)***        
-A playful exploration of love in a western landscape. Last seen during [Turn 2014](/archive/2014-turn/fri), stalwarts Levantes' return with a venture into love, loss and banjos…		
-		
-Commissioned by hÅb.        
+A playful exploration of love in a western landscape or an adventure in love, loss and banjos...    
+A return to Manchester for eccentrically engaging and offbeatly odd Word of Warning favourites, Levantes Dance Theatre.    
+A work in development commissioned by hÅb for Haphazard.           
 [www.levantesdancetheatre.org](http://www.levantesdancetheatre.org) | [Levantes facebook](http://www.facebook.com/pages/Levantes-Dance-Theatre/104271426281626) | [@LevantesDance](http://twitter.com/LevantesDance)		
+![Levantes](levantes.jpg)    	 
 	
-####1-3pm + 3-3.10pm performance		
+####1-3pm (durational) + 3-3.10pm performance		
 **Liz Clarke | *My Inflatable One***        
-A cross between a rubbery, exploding, all ages 'sewing bee' and an odd, deconstructed, cabaret encounter — at times spectators, at times involved, the audience share in a collective experience. Part mundane, part spectacle, part wonderment; this encounter charts the quest for *Bigger! Better! More!* through the medium of balloons and silly soundtracks.
+A cross between a rubbery, exploding 'sewing bee' and an odd cabaret. 
+Part mundane, part spectacle, part wonderment, this encounter charts the quest for *Bigger! Better! More!* through the medium of balloons and silly soundtracks.   
 	
-Liz's performance practice is mostly body-based, exploring the boundaries between live art, theatre and cabaret, between gender, and between reality and dream-scapes. Shows include *I Tattooed My Baby* (she didn't) and *Cannonballista*, a dark human cannonball show (she did), as well as many durational and shorter cabaret works.		
-	
-<small>Image Credit: Toaster in the Bath</small>        
+Liz Clarke is a performance maker who the boundaries between reality and dreamscape. Shows include *I Tattooed My Baby* (she didn't) and *Cannonballista*, a dark human cannonball show (she did).    
 [www.lizclarke.org](http://www.lizclarke.org) | [@LizGClarke](http://twitter.com/LizGClarke)        
-![picture](.jpg)		
+![My Inflatable One](Liz-Clarke.jpg)
+<small>Image Credit: Toaster in the Bath</small>  		
 		
 ####[Ongoing Activity from 12noon to 4pm](/current/2015-haphazard/ongoing):		
 Anonymous | Leo Burtin | Josh Coates | Hunt & Darton | Lani Irving | Peter Jacobs | Julieann O'Malley† | Natasha Patel
