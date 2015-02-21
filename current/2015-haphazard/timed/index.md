@@ -26,11 +26,13 @@ Venue Tel: 0161 232 6089
         
 ####12noon-12.20pm | 1-1.20pm | 2-2.20pm | 3-3.20pm		
 **Rachel Ramchurn | *Crochet: LIVE***        
-What happens when crochet comes alive? Find out and meet the bizarre, whimsical character 'Crochet' in this spontaneous and improvised physical performance piece.		
+What happens when crochet comes alive?
+Find out and meet the bizarrely whimsical character 'Crochet' in this spontaneously woolly performance.		
 		
 Created by Rachel Ramchurn + performed by Amanda Debrowski.        
-<http://rachelramchurn.blogspot.co.uk> | [@rararamchurn](http://twitter.com/rararamchurn)	
-	
+<http://rachelramchurn.blogspot.co.uk> | [@rararamchurn](http://twitter.com/rararamchurn)       
+
+ 
 ####12noon-12.30pm | 1-1.30pm | 2-4pm	
 **Ultra Violets | *Labolis***        
 A jungle-themed clue-based game.        
