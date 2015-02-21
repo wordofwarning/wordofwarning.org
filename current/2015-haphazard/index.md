@@ -33,7 +33,7 @@ Venue Tel: 0161 232 6089
 [Haphazard 2013](/archive/2013-spring/haphazard) filled Z-arts to the brim — moving musical sculptures; a bouncy, squeaky, ping-pong dance; an underground labyrinth (only for the brave!) — why not join us to see what 2015 will conjure?
                        
 Haphazard 2015's schedule will be listed here in mid-February, featuring (*tbc*):                         
-Anonymous | Leo Burtin | Liz Clarke | Josh Coates | Robert Foster | Hunt & Darton | Lani Irving | Peter Jacobs | Levantes Dance Theatre | Julieann O'Malley† | Natasha Patel | Rachel Ramchurn | Ultra Violets                         
+Anonymous | Leo Burtin | Liz Clarke | Josh Coates | Robert Foster | Lani Irving | Peter Jacobs | Levantes Dance Theatre | Julieann O'Malley† | Natasha Patel | Rachel Ramchurn | Ultra Violets                         
                        
 ####What people have said about Haphazard        
 >• *Great! Everyone was energetic & friendly — very easy to interact with!*<br>• *Suitably crazy & surreal for children and their grown-ups*.<br>• *Really enjoyed the event and it's particularly nice to experience something a bit different, especially as adults, it is quite eye-popping…*<br>[2013 Audience Feedback](/archive/2013-spring/haphazard)         
