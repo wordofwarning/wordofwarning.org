@@ -25,7 +25,7 @@ Tickets: FREE no booking required († *limited capacity, sign-up on the day*)
 Venue Tel: 0161 232 6089
 
 ####Ongoing Activity   
-**Lani Irving | *Wildlife***        
+**Lani Irving | *Livestock***        
 Haphazard welcomes its very own bovine micro-herd... Last seen during [2013](/archive/2013-spring/haphazard), Lani Irving returns with a friendly bunch of cows to herd you around the building – and if you need any help they might moo back!        
 <http://laniirving.wix.com/thebusybadgeruk> | [The Busy Badger facebook](http://www.facebook.com/thebusybadger) | [@thebusybadger](http://twitter.com/thebusybadger)          
 ![Wildlife - Haphazard 2013](lani.jpg)  
