@@ -53,9 +53,10 @@ Pick your challenge level and put your skill to the test by tossing a ring over 
 A playful exploration of love in a western landscape or an adventure in love, loss and banjos...    
 A return to Manchester for eccentrically engaging and offbeatly odd Word of Warning favourites, Levantes Dance Theatre.    
 A work in development commissioned by hÅb for Haphazard.           
-[www.levantesdancetheatre.org](http://www.levantesdancetheatre.org) | [Levantes facebook](http://www.facebook.com/pages/Levantes-Dance-Theatre/104271426281626) | [@LevantesDance](http://twitter.com/LevantesDance)		
-![Levantes](levantes.jpg)    	 
-	
+[www.levantesdancetheatre.org](http://www.levantesdancetheatre.org) | [Levantes facebook](http://www.facebook.com/pages/Levantes-Dance-Theatre/104271426281626) | [@LevantesDance](http://twitter.com/LevantesDance)    
+![Levantes](levantes.jpg)
+ <small>Image: Foteini Christofilopoulou for Levantes Dance Theatre</small>    
+ 	
 ####1-3pm (durational) + 3-3.10pm performance		
 **Liz Clarke | *My Inflatable One***        
 A cross between a rubbery, exploding 'sewing bee' and an odd cabaret. 
