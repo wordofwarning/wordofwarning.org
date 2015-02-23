@@ -33,7 +33,7 @@ Created by Rachel Ramchurn + performed by Amanda Debrowski.
  
 ####12noon-12.30pm | 1-1.30pm | 2-4pm	
 **Ultra Violets | *Labolis Goes Wild***        
-Welcome to the jungle… Pick up a pirate map from Captain Jack and embark on a perilous quest for buried treasure; fish in the lagoon and unravel the spider-web riddle as **you** search for the elusive clues.      
+Welcome to the jungle… Pick up a pirate map from Captain Jack and embark on a perilous quest for buried treasure. Fish in the lagoon and unravel the spider-web riddle as **you** search for the elusive clues.      
        
 [2013](/archive/2013-spring/haphazard) saw the Ultra Violets bring mayhem in the Minotaur's maze. Now be enticed to explore, but remember — it's a jungle out there!      
 [www.ultraviolets.org.uk](http://www.ultraviolets.org.uk) | [Ultra Violets facebook](http://www.facebook.com/pages/Ultra-Violet-Violence/182526948443905)		
@@ -41,7 +41,7 @@ Welcome to the jungle… Pick up a pirate map from Captain Jack and embark on a 
      
 ####12noon-1pm | 3-4pm		
 **Robert Foster | *Fool's Game***        
-*Roll up, roll up and join in the hoopla!*
+*Roll up, roll up and join in the hoopla!*        
 Pick **your** challenge level and put your skill to the test by tossing a ring over a bucket-headed fool in this surreal makeover for the old fashioned game of quoits.      
 [www.robertjohnfoster.co.uk](www.robertjohnfoster.co.uk) | [@robert_j_foster](http://twitter.com/robert_j_foster)	  
 	 
