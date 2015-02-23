@@ -28,7 +28,7 @@ Date: Wednesday 25 February 2015, 8pm
 Box Office Tel: 0843 208 6000        
 
 ####Access Information        
-With no interval, the performance lasts approximately 1 hour.<br>Age advisory: 14+ (*parental guidance*)       
+**UPDATED**: With an interval, the evening will last approximately 1¾ hours — *Cuckooed* lasts just over 1 hour, and will be preceded by a 20 minute stand-up set and an interval. Age advisory: 14+ (*parental guidance*)       
        
 ####More            
 A tale of hubris, planes, demos and undercover deceit told by an award-winning performer. Ten years ago an activist and close friend of Mark's was exposed as a spy for BAE Systems, infiltrating the movement. Now Mark wants to find him and has some questions to ask. This is a true story.          
