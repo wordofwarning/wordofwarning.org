@@ -44,9 +44,9 @@ In [Haphzard 2013](/archive/2013-spring/haphazard/index.html), the Ultra Violets
 
 ####12noon-1pm | 3-4pm		
 **Robert Foster | *Fool's Game***        
-Roll up, roll up and join in the hoopla!  
+Roll up, roll up and join in the hoopla!     
 Pick your challenge level and put your skill to the test by tossing a ring over a bucket-headed fool in this surreal makeover for the old fashioned game of quoits.   
-<http://robertjohnfoster.wordpress.com> | [@robert_j_foster](http://twitter.com/robert_j_foster)	
+[www.robertjohnfoster.co.uk](www.robertjohnfoster.co.uk) | [@robert_j_foster](http://twitter.com/robert_j_foster)	
 	
 ####12.30-1pm | 1.30-2pm		
 **Levantes Dance Theatre | *The Western Frontier (work-in-progress)***        
