@@ -41,14 +41,17 @@ While you sip on a soupçon or taste a tit-bit, why not offer your own recipe fo
  *Le Bistroquet* is a pop-up intervention by Leo Burtin [last seen at Hazard 2014](/archive/2014-hazard/ongoing),  and produced by Talk with LEAP as part of the Homemade series. Leo Burtin is an artist and creative producer... he wouldn't normally let you know that he is French and used to work for Jamie Oliver!         
 **N.B.** Food and drink served may contain allergens.            
 [www.talkwithleap.com](http://www.talkwithleap.com) | [@olamerino](http://twitter.com/olamerino)        
-        
+![Le Bistroquet](bistro.jpg)    
+
 **Peter Jacobs | *Gone Mad***    
 Little by little, as the hours while away, curious creatures appear in the café. Shaping and growing, from little more than a roll of tape, these brightly coloured mummies emerge, stumbling and waddling in a slow-mo game of follow-my-leader.     
-<http://peter-jacobs.weebly.com> | [Peter Jacobs facebook](http://www.facebook.com/mrpeterjacobs) | [@PeterTJacobs](http://twitter.com/PeterTJacobs)        
-
+<http://peter-jacobs.weebly.com> | [Peter Jacobs facebook](http://www.facebook.com/mrpeterjacobs) | [@PeterTJacobs](http://twitter.com/PeterTJacobs)    
+![Gone Mad](peter.jpg)    
+    
 **Natasha Patel | *Shoes***   
 If your shoes could talk, what stories could they tell?  What journeys have they been on and what has led you down the path you have walked?   
 A trail of shoes, big and small, plain and fancy, each with its own story...    
+![Shoes](shoes.jpg)     
 
 **Josh Coates | *The White Room***       
 *Is there something you want to get off your chest? Has something been bugging you for a while? That song lyric, that memory, that conversation?  Or is a little part of you just itching to make your mark?*   
