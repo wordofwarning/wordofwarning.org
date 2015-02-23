@@ -19,18 +19,19 @@ header_image: "header_huntdarton.jpg"
 ---
 *Presented by* SICK! Festival + Word of Warning         
            
-###Café Open 4 — 25 March (closed Mondays/Tuesdays)                     
+###Café Open 5 — 25 March (closed Mondays/Tuesdays)                     
 An award-winning pop-up café — which isn't just arty, it is ART — a social and artistic hub where spontaneity and performance meet great food and drink.       
                       
 ####Venue + Booking Details      
-Dates: Wednesday 4 — Wednesday 25 March 2015 (closed Mondays/Tuesdays)              
+Dates: Thursday 5 — Wednesday 25 March 2015 (closed Mondays/Tuesdays)              
 Opening Times: 12noon-7.30pm every day (closed Mondays/Tuesdays)           
-Venue: to be confirmed in mid-February         
+*Launch Party: Wednesday 4 March, evening*        
+[Venue: 8a Gateway House, Piccadilly Station Approach, Manchester. M1 2GH](www.google.co.uk/maps/place/Manchester+M1+2GH)         
 Tickets: entry to the café is free; however, there may be some special events with restricted entry (see below for details).             
 Special Offer: during Unhappy Hour (6.30pm-7.30pm) enjoy pre-show 2-for-1 drinks offers and great food by showing a ticket for any [SICK! Festival](http://www.sickfestival.com/programme/channel/manchester) event.                      
                       
 ####Access Information      
-A hub for [Manchester's SICK! Festival](http://www.sickfestival.com/programme/channel/manchester), the venue is to be confirmed in mid-February. Details of special events will be listed here during the festival.              
+A hub for [Manchester's SICK! Festival](http://www.sickfestival.com/programme/channel/manchester), the cafe is located in Gateway House on the Station Approach to [Manchester Piccadilly railway station](http://www.networkrail.co.uk/manchester-piccadilly-station) — between the Ian Allen bookshop + Chopstix. Details of special events will be listed here during the festival.              
            
 ####More   
 Jenny Hunt + Holly Darton expose the inner workings of their business by presenting everything as art — from the food served, the people serving, the décor and public display of their bank balance, to the lovingly hand-picked charity shop crockery.               
