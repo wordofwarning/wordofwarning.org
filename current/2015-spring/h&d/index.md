@@ -25,10 +25,10 @@ An award-winning pop-up café — which isn't just arty, it is ART — a social 
 ####Venue + Booking Details      
 Dates: Thursday 5 — Wednesday 25 March 2015 (closed Mondays/Tuesdays)              
 Opening Times: 12noon-7.30pm every day (closed Mondays/Tuesdays)           
-*Launch Party: Wednesday 4 March, evening*        
 [Venue: 8a Gateway House, Piccadilly Station Approach, Manchester. M1 2GH](http://www.google.co.uk/maps/place/Manchester+M1+2GH)         
 Tickets: entry to the café is free; however, there may be some special events with restricted entry (see below for details).             
 Special Offer: during Unhappy Hour (6.30pm-7.30pm) enjoy pre-show 2-for-1 drinks offers and great food by showing a ticket for any [SICK! Festival](http://www.sickfestival.com/programme/channel/manchester) event.                      
+Cafe + SICK! Festival Launch: Wednesday 4 March, 5-7pm        
                       
 ####Access Information      
 A hub for [Manchester's SICK! Festival](http://www.sickfestival.com/programme/channel/manchester), the cafe is located in Gateway House on the Station Approach to [Manchester Piccadilly railway station](http://www.networkrail.co.uk/manchester-piccadilly-station) — between the Ian Allen bookshop + Chopstix. Details of special events will be listed here during the festival.              
