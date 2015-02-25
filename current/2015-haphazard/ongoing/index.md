@@ -23,7 +23,7 @@ Date: Saturday 28 February 2015, 12noon-4pm
 Tickets: FREE no booking required († *limited capacity, sign-up on the day*)        
 Venue Tel: 0161 232 6089
 
-####Ongoing Activity   
+####Ongoing Activity (in no particular order)   
 **Lani Irving** (The Busy Badger) **| *Livestock***        
 Haphazard welcomes its very own bovine micro-herd… Last seen during [2013](/archive/2013-spring/haphazard), Lani returns with a friendly bunch of cows to herd you around the building — and if you **need any help** they might moo back!        
 [The Busy Badger website](http://laniirving.wix.com/thebusybadgeruk) | [The Busy Badger facebook](http://www.facebook.com/thebusybadger) | [@thebusybadger](http://twitter.com/thebusybadger)          
@@ -43,8 +43,15 @@ You are invited to Leo's Bistro — join us in this pop-up café where the menu 
 **Peter Jacobs | *Gone Mad***    
 Little by little, as the hours while away, curious creatures appear in the café. Shaping and growing, from little more than a roll of tape, these brightly coloured mummies emerge, stumbling and waddling in a slow-mo game of follow-my-leader.     
 <http://peter-jacobs.weebly.com> | [Peter Jacobs facebook](http://www.facebook.com/mrpeterjacobs) | [@PeterTJacobs](http://twitter.com/PeterTJacobs)    
-![Gone Mad](peter.jpg)    
+![Gone Mad](peter.jpg)        
+        
+**Ultra Violets | *Labolis Goes Wild***        
+Welcome to the jungle… Pick up a pirate map from Captain Jack and embark on a perilous quest for buried treasure. Fish in the lagoon and unravel the spider-web riddle as **you** search for the elusive clues.      
        
+[In 2013](/archive/2013-spring/haphazard) the Ultra Violets brought mayhem in the Minotaur's maze. Now be enticed to explore, but remember — it's a jungle out there!      
+[www.ultraviolets.org.uk](http://www.ultraviolets.org.uk) | [Ultra Violets facebook](http://www.facebook.com/pages/Ultra-Violet-Violence/182526948443905)		
+![Labolis](Weaver.jpg)	   
+        
 **Natasha Patel | *Shoes***   
 *If **your** shoes could talk, what stories could they tell? What journeys have they been on and what has led you down the path you have walked?*       
 A trail of shoes, big and small, plain and fancy, each with its own story…    
@@ -56,13 +63,13 @@ Offering **you** the chance to do just that, *The White Room* is a store-room tu
 [@J_JCoates](http://twitter.com/J_JCoates)       
 ![The White Room](josh.jpg)    
         
-**Julieann O’Malley | *HIVE*** †          
+**Julieann O'Malley | *HIVE* †**          
 Welcome to the *HIVE* — or the plight of the bumble bee.        
 Enter inside and meet Queen Bee, a friendly creature who needs your help — her workers are struggling and without them we'll lose our fruit and veg.        
 Can **your** ideas help the Queen save her bees?     
-† *A 5 minute experience for just one or two at a time, sign-up on the day.*       
+† *Please sign-up on the day. Suitable for any age, this a 5 minute experience involving a one-to-one conversation with an adult — accompanying adults are more than welcome to join children if they would feel more comfortable, or to wait outside!*       
 [@JulieannOMalley](http://twitter.com/JulieannOMalley)       
 ![Queen Bee](bee.jpg)        
         
-####[Timed Activity between 12noon & 4pm](/current/2015-haphazard/timed):		
-Rachel Ramchurn | Ultra Violets | Robert Foster | Levantes Dance Theatre | Liz Clarke
+####There's also [Timed Activity between 12noon & 4pm](/current/2015-haphazard/timed):		
+Rachel Ramchurn | Robert Foster | Levantes Dance Theatre | Liz Clarke
