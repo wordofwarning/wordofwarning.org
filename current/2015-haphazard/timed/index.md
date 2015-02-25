@@ -38,7 +38,7 @@ Pick **your** challenge level and put your skill to the test by tossing a ring o
 [www.robertjohnfoster.co.uk](www.robertjohnfoster.co.uk) | [@robert_j_foster](http://twitter.com/robert_j_foster)	  
 	 
 ####12.30-1pm | 1.30-2pm		
-**Levantes Dance Theatre | *The Western Frontier*** *(work-in-progress)*        
+**Levantes Dance Theatre | *The Western Frontier* (work-in-progress)**        
 A playful exploration of love in a western landscape or an adventure in love, loss and banjos… A return to Manchester for eccentrically engaging and offbeatly odd Word of Warning favourites, Levantes Dance Theatre.      
            
 A work in development, commissioned by hÅb for Haphazard 2015.           
