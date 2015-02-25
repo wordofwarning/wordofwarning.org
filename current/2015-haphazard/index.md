@@ -25,7 +25,7 @@ Playful, quirky, engaging and sometimes plain daft: this is a day for kids and t
 ####Venue + Booking Details
 Date: Saturday 28 February 2015, 12noon-4pm    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
-Tickets: FREE no booking required († *limited capacity, sign-up on the day*)        
+Tickets: FREE no booking required (*except* †*, see below*)        
 Venue Tel: 0161 232 6089    
 
 ####More    
@@ -39,3 +39,4 @@ Anonymous | Leo Burtin | Liz Clarke | Josh Coates | Robert Foster | Lani Irving 
         
 ####Access Information    
 Haphazard 2015 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some parts of the building are not wheelchair accessible. Age advisory: suitable for all. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.
+† *Please sign-up on the day. Suitable for any age, this a 5 minute experience involving a one-to-one conversation with an adult — accompanying adults are more than welcome to join children if they would feel more comfortable, or to wait outside!*
