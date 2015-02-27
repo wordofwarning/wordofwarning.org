@@ -23,7 +23,7 @@ Date: Saturday 28 February 2015, 12noon-4pm
 Tickets: FREE no booking required († *limited capacity, sign-up on the day*)        
 Venue Tel: 0161 232 6089        
         
-####Schedule of Timed Activity (updated Friday 27 February)…        
+(*Schedule of Timed Activity updated Friday 27 February…*)        
 ####12noon-12.20pm | 1-1.20pm | 2-2.20pm | 3-3.20pm		
 **Rachel Ramchurn | *Crochet: LIVE***        
 What happens when crochet comes alive? Find out and meet the bizarrely whimsical character *Crochet* in this spontaneously woolly performance.		
