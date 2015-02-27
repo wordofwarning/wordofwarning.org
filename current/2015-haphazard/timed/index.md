@@ -23,6 +23,7 @@ Date: Saturday 28 February 2015, 12noon-4pm
 Tickets: FREE no booking required († *limited capacity, sign-up on the day*)        
 Venue Tel: 0161 232 6089        
         
+####Schedule of Timed Activity (updated Friday 27 February)…        
 ####12noon-12.20pm | 1-1.20pm | 2-2.20pm | 3-3.20pm		
 **Rachel Ramchurn | *Crochet: LIVE***        
 What happens when crochet comes alive? Find out and meet the bizarrely whimsical character *Crochet* in this spontaneously woolly performance.		
@@ -31,13 +32,13 @@ Created by Rachel Ramchurn + performed by Amanda Debrowski.
 <http://rachelramchurn.blogspot.co.uk> | [@rararamchurn](http://twitter.com/rararamchurn)       
 ![Crochet](Crochet.jpg)    
         
-####12noon-1pm | 3-4pm		
+####12noon-12.30pm | 1-2pm | 3.30-4pm		
 **Robert Foster | *Fool's Game***        
 *Roll up, roll up and join in the hoopla!*        
 Pick **your** challenge level and put your skill to the test by tossing a ring over a bucket-headed fool in this surreal makeover for the old fashioned game of quoits.      
 [www.robertjohnfoster.co.uk](www.robertjohnfoster.co.uk) | [@robert_j_foster](http://twitter.com/robert_j_foster)	  
 	 
-####12.30-1pm | 1.30-2pm		
+####12.30-12.50pm | 2.30-2.50pm		
 **Levantes Dance Theatre | *The Western Frontier* (work-in-progress)**        
 A playful exploration of love in a western landscape or an adventure in love, loss and banjos… A return to Manchester for eccentrically engaging and offbeatly odd Word of Warning favourites, Levantes Dance Theatre.      
            
