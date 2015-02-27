@@ -15,15 +15,14 @@ show_size: 4
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*A free event for the curious of all ages, presented by* Word of Warning *+* Z-arts*<br>Turn up at Z-arts any time from 12noon to 4pm, come and go as you please…*        
+*A free event for the curious of all ages, presented by* Word of Warning *+* Z-arts*<br>Turn up at Z-arts any time from 12noon to 4pm, come and go as you please…<br>Schedule of Timed Activity updated Friday 27 February…*        
         
 ####Venue + Booking Details, for Haphazard        
 Date: Saturday 28 February 2015, 12noon-4pm    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: FREE no booking required († *limited capacity, sign-up on the day*)        
 Venue Tel: 0161 232 6089        
-        
-(*Schedule of Timed Activity updated Friday 27 February…*)        
+           
 ####12noon-12.20pm | 1-1.20pm | 2-2.20pm | 3-3.20pm		
 **Rachel Ramchurn | *Crochet: LIVE***        
 What happens when crochet comes alive? Find out and meet the bizarrely whimsical character *Crochet* in this spontaneously woolly performance.		
@@ -47,7 +46,7 @@ A work in development, commissioned by hÅb for Haphazard 2015.
 ![Levantes](levantes.jpg)    
 <small>Image Credit: Foteini Christofilopoulou for Levantes Dance Theatre</small>    
  	
-####1-3pm including 2.50pm performance		
+####1-3pm | 2.50-3pm performance		
 **Liz Clarke | *My Inflatable One***        
 A cross between a rubbery, exploding 'sewing bee' and an odd cabaret. 
 Part-mundane, part-spectacle, part-wonderment, this encounter charts the quest for *Bigger! Better! More!* through the medium of balloons and silly soundtracks.     
