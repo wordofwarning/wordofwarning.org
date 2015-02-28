@@ -28,6 +28,9 @@ Date: Saturday 28 February 2015, 12noon-4pm
 Tickets: FREE no booking required (*except* †*, see below*)        
 Venue Tel: 0161 232 6089    
 
+####Schedule (to save, right-click & download)      
+![Haphazard 2015 schedule](Hap-sched.jpg)
+         
 ####More    
 [Haphazard 2013](/archive/2013-spring/haphazard) filled Z-arts to the brim — moving musical sculptures; a bouncy, squeaky, ping-pong dance; an underground labyrinth (only for the brave!) — why not join us to see what 2015 will conjure?
                        
