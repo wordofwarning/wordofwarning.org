@@ -17,7 +17,7 @@ header_image: "header_huntdarton.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* SICK! Festival + Word of Warning         
+*Presented by* SICK! Festival *in association with* Word of Warning         
            
 ###Café Open 5 — 25 March (closed Mondays/Tuesdays)                     
 An award-winning pop-up café — which isn't just arty, it is ART — a social and artistic hub where spontaneity and performance meet great food and drink.       
