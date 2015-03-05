@@ -32,9 +32,9 @@ Special Offer: during Unhappy Hour (6.30pm-7.30pm) enjoy pre-show 2-for-1 drinks
 ####Access Information      
 A hub for [SICK! Festival](http://www.sickfestival.com/programme/channel/manchester), the café is in Gateway House on the Station Approach to Manchester Piccadilly, between Ian Allen Bookshop and Chopstix.          
         
-####Special Events Timetable (*regularly updated*)       
-**Wed 4 Mar, 5-7pm**: Cafe + SICK! Festival launch          
-<small>More to follow…</small>
+####Special Events Timetable     
+![Timetable](H_D timetable.jpg)     
+<small>Right click to download</small>
            
 ####More   
 Jenny Hunt + Holly Darton expose the inner workings of their business by presenting everything as art — from the food served, the people serving, the décor and public display of their bank balance, to the lovingly hand-picked charity shop crockery.               
