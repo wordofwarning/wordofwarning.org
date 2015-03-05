@@ -33,13 +33,12 @@ Special Offer: during Unhappy Hour (6.30pm-7.30pm) enjoy pre-show 2-for-1 drinks
 A hub for [SICK! Festival](http://www.sickfestival.com/programme/channel/manchester), the café is in Gateway House on the Station Approach to Manchester Piccadilly, between Ian Allen Bookshop and Chopstix.          
         
 ####Special Events Timetable     
-![Timetable](H_D timetable.jpg)     
-<small>Right click to download</small>
+<small>Will be posted here Friday morning, 6 March</small>
            
 ####More   
 Jenny Hunt + Holly Darton expose the inner workings of their business by presenting everything as art — from the food served, the people serving, the décor and public display of their bank balance, to the lovingly hand-picked charity shop crockery.               
                       
-*Hunt & Darton Cafe* encourages playful participation and meaningful social encounters — through its alternative service from hosts Hunt & Darton in their iconic fruit or veggie attire, comic interaction through their 'set menu' performances, guest waiters and themed days such as 'You-Do-It' or 'Health & Safety day'. Popping-up as [the hub for Manchester's SICK! Festival](http://www.sickfestival.com/programme/manchester/hunt-darton-cafe), guest waiters include Pigeon Theatre, Nicki Hobday + Sara Cocker and Erini Kartsaki.                     
+*Hunt & Darton Cafe* encourages playful participation and meaningful social encounters — through its alternative service from hosts Hunt & Darton in their iconic fruit or veggie attire, comic interaction through their 'set menu' performances, guest waiters and themed days such as 'You-Do-It' or 'Health & Safety day'. Popping-up as [the hub for Manchester's SICK! Festival](http://www.sickfestival.com/programme/manchester/hunt-darton-cafe), guest waiters include Pigeon Theatre (7th), Eggs Collective (11th), Lowri Evans + Sara Cocker (13th) and Erini Kartsaki (15th).                     
                       
 Responding to SICK! Festival will be theme days such as 'Sexy day' — where it is encouraged to speak frankly about sex with phallic food served up accompanied by sexual innuendo — and hosted talks collaborating with medical practitioners, academics, artists and local groups. Imagine being served tea whilst getting that leg looked at! Or perhaps a bowl of Coco Pops served up with a conversation about mental health…            
                       
@@ -64,3 +63,4 @@ Supported using public funding by the National Lottery through Arts Council Engl
            
 ####Websites    
 <http://huntanddartoncafe.com> | [@HuntDarton](http://twitter.com/HuntDarton) | [H&D Cafe facebook](http://www.facebook.com/huntanddartoncafe)<br>[www.sickfestival.com](http://www.sickfestival.com) | [@SICKfestival](http://twitter.com/SICKfestival) | [SICK! facebook](http://www.facebook.com/sickfestival)
+Y
