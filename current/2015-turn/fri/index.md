@@ -39,7 +39,7 @@ Choreographer + performer: Christopher Owen ¦ Text: Marcel Duchamp on the artis
 A collaboration between Contemporary/Ballet dancer Yi-Han Wu 吳逸涵 and musician Oscar South. The project makes use of cutting edge motion sensing technology in order to seamlessly fuse choreography, composition and improvisation whilst blurring the lines between dance and music.        
           
 [Website](http://motionmusic.riseresolution.com)    
-![Yi-Han Wu 吳逸涵 + Oscar South](YiHanWu3.jpg)    
+![Logiudice](Logiudice.jpg)    
 
 **Anna Macdonald ¦ *I will not hope***        
 Last Autumn, a group of people of different ages were invited to stand underneath a tree, and try and catch the leaves as they fell. It is almost impossible to predict when leaves will fall, but equally hard not to believe that, if you just wait long enough, or look attentively enough you wont eventually get one. The event was filmed and the footage used to make 'I will not hope', a short screendance that embraces the anxiety and joy of transience. The people in the film are completely engaged with the task and, as they dart and grasp for leaves, their movements appear child-like and excited. We watch people tip their weight forward in readiness, throwing themselves off balance to reach for a leaf, twisting as one goes past them and being curiously still as they wait for leaves to fall.    
