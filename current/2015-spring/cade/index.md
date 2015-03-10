@@ -52,6 +52,7 @@ Rosana received the Athena Award via New Moves International for *Walking:Holdin
 >4\* *…strange, beautiful and disturbing…*<br>[The Scotsman](http://www.scotsman.com/what-s-on/theatre-comedy-dance/theatre-review-sisters-glasgow-1-3332968)           
 >*…robust humour and unflinching integrity.*<br>[The Herald](http://www.heraldscotland.com/arts-ents/stage/performance-review-behaviour-festival-credible-likeable-superstar-rolemodelsister-ar.23635824)                  
 >4\* *Frank and revealing.*<br>The List                
+        
 A **4\*** review of *Sister* at Contact, by [The LGBTQ Arts and Culture Review](http://lgbtqartsandculturereview.com/2015/02/14/review-sister-by-rosana-and-amy-cade).        
         
 ####Credits    
