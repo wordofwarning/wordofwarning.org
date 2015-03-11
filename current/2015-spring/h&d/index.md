@@ -24,7 +24,7 @@ An award-winning pop-up café — which isn't just arty, it is ART — a social 
                       
 ####Venue + Booking Details      
 Dates: Thursday 5 — Wednesday 25 March 2015 (closed Mondays/Tuesdays)              
-Times: 12noon-7.30pm every day (closed Mondays/Tuesdays)           
+Times: Wednesdays — Saturdays, 12noon-7.30pm + Sundays, 10am-5pm           
 [Venue: 8a Gateway House, Manchester Piccadilly Station Approach](http://bit.ly/1AQdn9f). M1 2GH         
 Tickets: entry is free; special events (below) *may* have restricted entry.             
 Special Offer: during Unhappy Hour (6.30pm-7.30pm) enjoy pre-show 2-for-1 drinks offers and great food by showing a ticket for any [SICK! Festival](http://www.sickfestival.com/programme/channel/manchester) event.                      
@@ -32,10 +32,10 @@ Special Offer: during Unhappy Hour (6.30pm-7.30pm) enjoy pre-show 2-for-1 drinks
 ####Access Information      
 A hub for [SICK! Festival](http://www.sickfestival.com/programme/channel/manchester), the café is in Gateway House on the Station Approach to Manchester Piccadilly, between Ian Allen Bookshop and Chopstix.          
         
-####Special Events Timetable    
-![Timetable](H-D-timetable.jpg)    
-<small>Right click to download</small>    
-     
+####Special Events Timetable (11-25 Mar)          
+<small>WEEK2: 11 — 15 March | WEEK3: 18 — 22 March | Right click to download</small>        
+![Timetable](H-D-timetable.jpg)        
+
 ####More   
 Jenny Hunt + Holly Darton expose the inner workings of their business by presenting everything as art — from the food served, the people serving, the décor and public display of their bank balance, to the lovingly hand-picked charity shop crockery.               
                       
