@@ -26,7 +26,7 @@ An award-winning pop-up café — which isn't just arty, it is ART — a social 
 Dates: Thursday 5 — Wednesday 25 March 2015 (closed Mondays/Tuesdays)              
 Times: Wednesdays — Saturdays, 12noon-7.30pm + Sundays, 10am-5pm           
 [Venue: 8a Gateway House, Manchester Piccadilly Station Approach](http://bit.ly/1AQdn9f). M1 2GH         
-Tickets: entry is free; special events (below) *may* have restricted entry.             
+Tickets: entry is free; special events (see below) *may* have restricted entry.             
 Special Offer: during Unhappy Hour (6.30pm-7.30pm) enjoy pre-show 2-for-1 drinks offers and great food by showing a ticket for any [SICK! Festival](http://www.sickfestival.com/programme/channel/manchester) event.                      
         
 ####Access Information      
@@ -39,9 +39,9 @@ A hub for [SICK! Festival](http://www.sickfestival.com/programme/channel/manches
 ####More   
 Jenny Hunt + Holly Darton expose the inner workings of their business by presenting everything as art — from the food served, the people serving, the décor and public display of their bank balance, to the lovingly hand-picked charity shop crockery.               
                       
-*Hunt & Darton Cafe* encourages playful participation and meaningful social encounters — through its alternative service from hosts Hunt & Darton in their iconic fruit or veggie attire, comic interaction through their 'set menu' performances, guest waiters and themed days such as 'You-Do-It' or 'Health & Safety day'. Popping-up as [the hub for Manchester's SICK! Festival](http://www.sickfestival.com/programme/manchester/hunt-darton-cafe), guest waiters include Pigeon Theatre (7th), Eggs Collective (11th), Lowri Evans + Sara Cocker (13th), Erini Kartsaki (15th), with more tba.                     
+*Hunt & Darton Cafe* encourages playful participation and meaningful social encounters — through its alternative service from hosts Hunt & Darton in their iconic fruit or veggie attire, comic interaction through their 'set menu' performances, guest waiters and themed days such as "You-Do-It Day" or "Health & Safety Day". Popping-up as [the hub for Manchester's SICK! Festival](http://www.sickfestival.com/programme/manchester/hunt-darton-cafe), guest waiters include Pigeon Theatre (7th), Eggs Collective (11th), Lowri Evans + Sara Cocker (13th), Erini Kartsaki (15th), with more tba.                     
                       
-Responding to SICK! Festival will be theme days such as 'Sexy day' — where it is encouraged to speak frankly about sex with phallic food served up accompanied by sexual innuendo — and hosted talks collaborating with medical practitioners, academics, artists and local groups. Imagine being served tea whilst getting that leg looked at! Or perhaps a bowl of Coco Pops served up with a conversation about mental health…            
+Responding to SICK! Festival will be theme days such as "Sexy Day" — where it is encouraged to speak frankly about sex with phallic food served up accompanied by sexual innuendo — and hosted talks collaborating with medical practitioners, academics, artists and local groups. Imagine being served tea whilst getting that leg looked at! Or perhaps a bowl of Coco Pops served up with a conversation about mental health…            
                       
 **Food on offer** includes cakes (Battenberg!), light lunches and H&D's signature dish, the roast dinner sandwich.<br>**Things to spot** include The Survival Shelf, the "not" menu, Takeaway Art, the Boss mug, the quote of the day, the sugar bearers, and (of course) pineapples.        
            
@@ -58,10 +58,10 @@ Hunt & Darton are associate artists at Artsadmin + Cambridge Junction.
 >*…a pop-up establishment of disarming eccentricity.*<br>[Lyn Gardner, The Guardian](http://www.theguardian.com/culture/2012/aug/27/edinburgh-festival-2012-highlights)                  
 >*In a Fringe swimming with comedians, Shakespeare adaptations, improv comedy and BBC recordings, Hunt & Darton Cafe made its mark as something truly alternative.*<br>Three Weeks, presenting the Editors awards 2012           
 >*A uniquely delicious art installation.*<br>Varsity               
-           
+Online articles about H&D Cafe Manchester have appeared in [Manchester Confidential](http://www.manchesterconfidential.co.uk/Food-and-Drink/Food-and-Drink-Retail/NEW-Hunt-And-Darton-Art-Caf-Piccadilly) ([twice](http://www.manchesterconfidential.co.uk/Entertainment-and-Sport/Events-and-Listings/Things-To-Do-This-Weekend-Fri-6-Sun-9-Mar)), [Manchester Wire](http://manchesterwire.co.uk/#!/manchester-food-drink-round-up-ft-hunt-darton-koffee-pot-cook-manchester) + [The Skinny NW](http://www.theskinny.co.uk/food-and-drink/news/northwest-food-news-march-2015).        
+        
 ####Credits    
 Supported using public funding by the National Lottery through Arts Council England on a Strategic Tour. Hunt & Darton Cafe Manchester is commissioned by SICK! Festival + presented in association with Word of Warning.      
            
 ####Websites    
 <http://huntanddartoncafe.com> | [@HuntDarton](http://twitter.com/HuntDarton) | [H&D Cafe facebook](http://www.facebook.com/huntanddartoncafe)<br>[www.sickfestival.com](http://www.sickfestival.com) | [@SICKfestival](http://twitter.com/SICKfestival) | [SICK! facebook](http://www.facebook.com/sickfestival)
-Y
