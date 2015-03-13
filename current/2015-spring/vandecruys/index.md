@@ -40,7 +40,7 @@ A pair of performances about being human (and being a horse) from Belgian theatr
                       
 It's fascinating to observe some intriguing abnormalities in the body language, rituals, etiquette and behaviour of the racing crowds. Inspired by anthropologist Kate Fox's book *The Racing Tribe*, we will be watching the horse-watchers, and start to make a show… A show about horses, humans and… well, being British (and weird). Giddy-up!                  
                       
-At The Lowry, *HORSE* + *Whoaaaaa Steady!* were reviewed by [The Public Reviews](http://www.thepublicreviews.com/whoaaaaa-steady-and-horse-the-lowry-salford).        
+The double bill was reviewed at The Lowry by [The Public Reviews](http://www.thepublicreviews.com/whoaaaaa-steady-and-horse-the-lowry-salford).        
                       
 ####Who is she?    
 Belgian actress and theatre-maker Leentje Van de Cruys has been making quirky solo performances about domesticity and women's identity for the last 11 years — her recent shows include *Kitsch'n Sync* ([commissioned by hÅb for Domestic](/archive/2013-domestic/vandecruys)), *Going to the Chapel*, *Feedback*, *HORSE*, *The Best Party Ever* and *Knitting to Worry About*. She regularly performs and tours with contemporary theatre companies including Quarantine, Reckless Sleepers, Plane Performance, Proto-type Theater, and is the lead actress/vocalist in *In May*, a music theatre piece written by Frank Alva Buecheler + composed by Neil Hannon (The Divine Comedy). She has also been a guest lecturer and supervisor at Manchester Metropolitan University, Lancaster University + University of Salford.
