@@ -55,10 +55,11 @@ Deriving from shared celebrations and anxieties surrounding life choices particu
 Hunt & Darton are associate artists at Artsadmin + Cambridge Junction.
                       
 ####What people have said about them         
-Online articles about H&D Cafe Manchester have appeared in [Manchester Confidential](http://www.manchesterconfidential.co.uk/Food-and-Drink/Food-and-Drink-Retail/NEW-Hunt-And-Darton-Art-Caf-Piccadilly) ([twice](http://www.manchesterconfidential.co.uk/Entertainment-and-Sport/Events-and-Listings/Things-To-Do-This-Weekend-Fri-6-Sun-9-Mar)), [Manchester Wire](http://manchesterwire.co.uk/#!/manchester-food-drink-round-up-ft-hunt-darton-koffee-pot-cook-manchester) + [The Skinny NW](http://www.theskinny.co.uk/food-and-drink/news/northwest-food-news-march-2015).         
 >*…a pop-up establishment of disarming eccentricity.*<br>[Lyn Gardner, The Guardian](http://www.theguardian.com/culture/2012/aug/27/edinburgh-festival-2012-highlights)                  
 >*In a Fringe swimming with comedians, Shakespeare adaptations, improv comedy and BBC recordings, Hunt & Darton Cafe made its mark as something truly alternative.*<br>Three Weeks, presenting the Editors awards 2012           
 >*A uniquely delicious art installation.*<br>Varsity               
+        
+Online articles about H&D Cafe Manchester have appeared in [Manchester Confidential](http://www.manchesterconfidential.co.uk/Food-and-Drink/Food-and-Drink-Retail/NEW-Hunt-And-Darton-Art-Caf-Piccadilly) ([twice](http://www.manchesterconfidential.co.uk/Entertainment-and-Sport/Events-and-Listings/Things-To-Do-This-Weekend-Fri-6-Sun-9-Mar)), [Manchester Wire](http://manchesterwire.co.uk/#!/manchester-food-drink-round-up-ft-hunt-darton-koffee-pot-cook-manchester) + [The Skinny NW](http://www.theskinny.co.uk/food-and-drink/news/northwest-food-news-march-2015).        
         
 ####Credits    
 Supported using public funding by the National Lottery through Arts Council England on a Strategic Tour. Hunt & Darton Cafe Manchester is commissioned by SICK! Festival + presented in association with Word of Warning.      
