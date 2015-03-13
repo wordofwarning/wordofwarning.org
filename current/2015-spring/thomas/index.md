@@ -48,6 +48,8 @@ Now one of comedy's elder statesmen, in 2011/12 Mark created his first theatre s
 >4\* *…a clever, funny and angry show.*<br>[Lyn Gardner, The Guardian](http://www.theguardian.com/stage/2014/aug/04/mark-thomas-cuckooed-edinburgh-festival-2014-review)          
 >4\* *It's involving, inspiring, furious and funny.*<br>The Times            
               
+*Cuckooed* was reviewed at The Lowry by [The Public Reviews](http://www.thepublicreviews.com/mark-thomas-cuckooed-the-lowry-salford).            
+              
 ####Credits          
 Written + performed by Mark Thomas | Directed by Emma Callander | Image by Steve Ullathorne              
               
