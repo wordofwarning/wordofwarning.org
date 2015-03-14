@@ -33,7 +33,7 @@ Special Offer: during Unhappy Hour (6.30pm-7.30pm) enjoy pre-show 2-for-1 drinks
 A hub for [SICK! Festival](http://www.sickfestival.com/programme/channel/manchester), the café is in Gateway House on the Station Approach to Manchester Piccadilly, between Ian Allen Bookshop and Chopstix.          
         
 ####Special Events Timetable for 11 — 25 March          
-<small>WEEK 2: 11 — 15 March | WEEK 3: 18 — 22 March | Please right-click to download.</small>        
+<small>WEEK 2: 11 — 15 March | WEEK 3: 18 — 22 March | Please right-click to download.<br>*N.B. Eirini Kartsaki is now Saturday 14 March + "You-Do-It" Day is now Sunday 15 March*</small>        
 ![Timetable](H-D-timetable.jpg)        
 
 ####More   
