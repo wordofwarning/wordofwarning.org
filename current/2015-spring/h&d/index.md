@@ -1,4 +1,4 @@
----
+U---
 
 # CONFIGURATION
 layout: 2015-spring
@@ -39,7 +39,7 @@ A hub for [SICK! Festival](http://www.sickfestival.com/programme/channel/manches
 ####More   
 Jenny Hunt + Holly Darton expose the inner workings of their business by presenting everything as art — from the food served, the people serving, the décor and public display of their bank balance, to the lovingly hand-picked charity shop crockery.               
                       
-*Hunt & Darton Cafe* encourages playful participation and meaningful social encounters — through its alternative service from hosts Hunt & Darton in their iconic fruit or veggie attire, comic interaction through their 'set menu' performances, guest waiters and theme days such as "You-Do-It Day" or "Health & Safety Day". Popping-up as [the hub for Manchester's SICK! Festival](http://www.sickfestival.com/programme/manchester/hunt-darton-cafe), guest waiters include Pigeon Theatre (7th), Eggs Collective (11th), Lowri Evans + Sara Cocker (13th), Erini Kartsaki (15th), with more tba.                     
+*Hunt & Darton Cafe* encourages playful participation and meaningful social encounters — through its alternative service from hosts Hunt & Darton in their iconic fruit or veggie attire, comic interaction through their 'set menu' performances, guest waiters and theme days such as "You-Do-It Day" or "Health & Safety Day". Popping-up as [the hub for Manchester's SICK! Festival](http://www.sickfestival.com/programme/manchester/hunt-darton-cafe), guest waiters include Pigeon Theatre (7th), Eggs Collective (11th), Lowri Evans + Sara Cocker (13th), Eirini Kartsaki (14th), with more tba.                     
                       
 Responding to SICK! Festival will be theme days such as "Sexy Day" — where it is encouraged to speak frankly about sex with phallic food served up accompanied by sexual innuendo — and hosted talks collaborating with medical practitioners, academics, artists and local groups. Imagine being served tea whilst getting that leg looked at! Or perhaps a bowl of Coco Pops served up with a conversation about mental health…            
                       
