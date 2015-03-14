@@ -1,4 +1,4 @@
-U---
+---
 
 # CONFIGURATION
 layout: 2015-spring
