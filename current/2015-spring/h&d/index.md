@@ -35,6 +35,7 @@ A hub for [SICK! Festival](http://www.sickfestival.com/programme/channel/manches
 ####Special Events Timetable for 11 — 25 March          
 <small>WEEK 2: 11 — 15 March | WEEK 3: 18 — 22 March | Please right-click to download.<br>*N.B. Eirini Kartsaki is now Saturday 14 March + "You-Do-It" Day is now Sunday 15 March*</small>        
 ![Timetable](H-D-timetable.jpg)        
+[Read Dani Abulhawa's thoughts on Week One](http://wordofwarning.posthaven.com/warnmcr-week-one-at-hunt-and-darton-cafe?draft=5z8_sXULv6xlLF8N1oSDVxD-ctjWwhrringxriSNVLo=)    
 
 ####More   
 Jenny Hunt + Holly Darton expose the inner workings of their business by presenting everything as art — from the food served, the people serving, the décor and public display of their bank balance, to the lovingly hand-picked charity shop crockery.               
