@@ -69,7 +69,8 @@ Directed, choreographed + performed by: Victoria Sheldon | Music: *A Boxer's Sou
 **Dan Watson | *Jacket Dance***        
 We think there must be something seriously meaningful and interesting in the idea of ridiculous dancing. This performance is part-game, part-choreographed work.        
        
-Made possible by: a Dance and the Homemade Commission from Chisenhale Dance Space | Danced by: Dan Watson + Matthew Winston | Created by: Dan Watson with Rachael Mossom + Matthew Winston | Music: *Neither One Of Us (Wants To Be The First To Say Goodbye)* by Ruby Winters | Special thanks to: participants of the workshop *Play, Confusion and Ridiculous Dancing* at Chisenhale Dance Space, 13 April 2013        
+Made possible by a Dance and the Homemade Commission from Chisenhale Dance Space        
+Danced by: Dan Watson + Matthew Winston | Created by: Dan Watson with Rachael Mossom + Matthew Winston | Music: *Neither One Of Us (Wants To Be The First To Say Goodbye)* by Ruby Winters | Special thanks to: participants of the workshop *Play, Confusion and Ridiculous Dancing* at Chisenhale Dance Space on 13 April 2013        
 <http://danwatsonperforms.blogspot.co.uk> | [Dan Watson Facebook](http://www.facebook.com/pages/Dan-Watson-Performs/133892962511) | [@DanGWatson](http://twitter.com/DanGWatson)        
         
 ####[Appearing on the First Night: Friday 27 March](/current/2015-turn/fri)         
