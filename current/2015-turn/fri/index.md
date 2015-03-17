@@ -66,5 +66,5 @@ Music: *Gus on the bus* by The Travelling Salesman, *My Way* by Twinkle Twinkle 
 [@SophieUnwin2](http://twitter.com/SophieUnwin2)          
 ![Sophie](Sophie-Unwin.jpg)           
          
-####[Also appearing on the Second Night: Saturday 28 March](/current/2015-turn/sat)          
+####[Appearing on the Second Night: Saturday 28 March](/current/2015-turn/sat)          
 Dan Watson | EdgeFWD Dance Theatre | Joseph Mannion | Malachi Simmons + Theo Fapohunda | Phoebe Ophelia Douthwaite | Rebekka Platt | Tangled Dance Company | Victoria Sheldon — *plus a Mixed Movement Turn Special*
