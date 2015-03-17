@@ -50,7 +50,7 @@ Created + performed by: Ebony-Rose Kirk + Lorienne Aimée Simpson
            
 **Peter Grist + Company | *M.E.N.***        
 Drawing upon an idea contained within the Greek myth *Pygmalion* — a tale about a sculptor who falls in love with a female statue of his own creation, an exploration of narcissism in relationships. The work revolves around a male duet performed in a marked-out space. So what are we to do? How do we protect ourselves from narcissists if they're so adept at slipping into our lives unnoticed?             
-<http://petergristandcompany.wordpress.com> | [Peter Grist + Company Facebook](http://www.facebook.com/petergristandcompany)        
+<http://petergristandcompany.wordpress.com> | [Peter Grist + Co. Facebook](http://www.facebook.com/petergristandcompany)        
          
 **Joshua Hubbard | *Monochrome to colour***           
 This solo is two ideas merged together, focusing on the idea of transformation through visually striking imagery and highly physical movement.         
