@@ -33,14 +33,14 @@ Special Offer: during Unhappy Hour (6.30pm-7.30pm) enjoy pre-show 2-for-1 drinks
 A hub for [SICK! Festival](http://www.sickfestival.com/programme/channel/manchester), the café is in Gateway House on the Station Approach to Manchester Piccadilly, between Ian Allen Bookshop and Chopstix.          
         
 ####Special Events Timetable for 11 — 25 March          
-<small>WEEK 2: 11 — 15 March | WEEK 3: 18 — 22 March | Please right-click to download.<br>*N.B. Eirini Kartsaki is now Saturday 14 March + "You-Do-It" Day is now Sunday 15 March*</small>        
+<small>Please right-click to download image | WEEK1: 5 — 8 March | WEEK 2: 11 — 15 March | WEEK 3: 18 — 22 March<br>*EXTRA: Eirini Kartsaki is now Sat 14 Mar, "You-Do-It" Day is now Sun 15 Mar, Krissi Musiol is now Wed 18 Mar.*</small>        
 ![Timetable](H-D-timetable.jpg)        
-[Read Dani Abulhawa's thoughts on Week One](http://wordofwarning.posthaven.com/warnmcr-week-one-at-hunt-and-darton-cafe?draft=5z8_sXULv6xlLF8N1oSDVxD-ctjWwhrringxriSNVLo=)    
-
+Read [Dani Abulhawa's thoughts on WEEK1](http://wordofwarning.posthaven.com/warnmcr-week-one-at-hunt-and-darton-cafe).        
+          
 ####More   
 Jenny Hunt + Holly Darton expose the inner workings of their business by presenting everything as art — from the food served, the people serving, the décor and public display of their bank balance, to the lovingly hand-picked charity shop crockery.               
                       
-*Hunt & Darton Cafe* encourages playful participation and meaningful social encounters — through its alternative service from hosts Hunt & Darton in their iconic fruit or veggie attire, comic interaction through their 'set menu' performances, guest waiters and theme days such as "You-Do-It Day" or "Health & Safety Day". Popping-up as [the hub for Manchester's SICK! Festival](http://www.sickfestival.com/programme/manchester/hunt-darton-cafe), guest waiters include Pigeon Theatre (7th), Eggs Collective (11th), Lowri Evans + Sara Cocker (13th), Eirini Kartsaki (14th), with more tba.                     
+*Hunt & Darton Cafe* encourages playful participation and meaningful social encounters — through its alternative service from hosts Hunt & Darton in their iconic fruit or veggie attire, comic interaction through their 'set menu' performances, guest waiters and theme days such as "You-Do-It Day" or "Health & Safety Day". Popping-up as [the hub for Manchester's SICK! Festival](http://www.sickfestival.com/programme/manchester/hunt-darton-cafe), guest waiters include Pigeon Theatre (7th), Eggs Collective (11th), Lowri Evans + Sara Cocker (13th), Eirini Kartsaki (14th), Krissi Musiol (18th), with more tba.                     
                       
 Responding to SICK! Festival will be theme days such as "Sexy Day" — where it is encouraged to speak frankly about sex with phallic food served up accompanied by sexual innuendo — and hosted talks collaborating with medical practitioners, academics, artists and local groups. Imagine being served tea whilst getting that leg looked at! Or perhaps a bowl of Coco Pops served up with a conversation about mental health…            
                       
