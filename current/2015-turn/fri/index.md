@@ -48,7 +48,7 @@ A performance based on the concept of how women are viewed in society; devised u
             
 Created + performed by: Ebony-Rose Kirk + Lorienne Aimée Simpson          
            
-**Peter Grist + Company | *M.E.N.***
+**Peter Grist + Company | *M.E.N.***        
 Drawing upon an idea contained within the Greek myth *Pygmalion* — a tale about a sculptor who falls in love with a female statue of his own creation, an exploration of narcissism in relationships. The work revolves around a male duet performed in a marked-out space. So what are we to do? How do we protect ourselves from narcissists if they're so adept at slipping into our lives unnoticed?             
 <http://petergristandcompany.wordpress.com> | [Peter Grist + Company Facebook](http://www.facebook.com/petergristandcompany)        
          
@@ -66,5 +66,5 @@ Music: *Gus on the bus* by The Travelling Salesman, *My Way* by Twinkle Twinkle 
 [@SophieUnwin2](http://twitter.com/SophieUnwin2)          
 ![Sophie](Sophie-Unwin.jpg)           
          
-####[Second Night: Saturday 28 March](/current/2015-turn/sat):          
+####[Second Night (Saturday 28 March)](/current/2015-turn/sat):          
 Dan Watson | EdgeFWD Dance Theatre | Joseph Mannion | Malachi Simmons + Theo Fapohunda | Phoebe Ophelia Douthwaite | Rebekka Platt | Tangled Dance Company | Victoria Sheldon — *plus a Mixed Movement Turn Special*
