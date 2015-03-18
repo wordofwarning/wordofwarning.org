@@ -49,7 +49,7 @@ Devised by: Rebekka Platt + Louise Mellor
 I set off for the Appalachian mountains of North Carolina last summer with the intention of researching and developing my current skills in Appalachian step dance — at the end of this 3 month-long trip my aim was to bring all the inspiration and skills I had picked up from dance teachers, friends, musicians and the mountains to create a solo piece which fused both traditional step dance and contemporary movement. Performed from feelings, thoughts and a life changing experience, the feel of the movement changes every time — not just because Appalachian step dancing is a freestyle form, but that new experiences and feelings are provoked every time I put myself back into *The Land of the Blue Mist*; this isn't a performance, it's a true confession and expression of how I found mindfulness.        
         
 Choreography: Phoebe Ophelia | Composer: John Duncan | Credits: John Duncan, Northern School of Contemporary Dance, Sue Coe, Pete Coe, Ira Bernstein, Matt Gordon, Trevor + Travis Stuart.        
-<http://phoebeophelia.wordpress.com> | [@opheliaphoebe](http://twitter.com/opheliaphoebe)         
+<http://phoebeopheliaaa.tumblr.com>        
 ![Phoebe](Phoebe.jpg)        
          
 **EdgeFWD Dance Theatre | *REVOLT***       
