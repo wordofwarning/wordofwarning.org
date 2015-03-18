@@ -6,17 +6,18 @@ rootpath: "../../"
 is_index: true
 
 ---
-*Eclectically [higgledy-piggledy](/current/2015-haphazard) with something for everyone — from an [intense tale of family ties](/current/2015-spring/cade) (*now sold-out*) to an [equine evening](/current/2015-spring/vandecruys), by way of a [cuckoo in the nest](/current/2015-spring/thomas) + a '[right nice caff](/current/2015-spring/h&d)'! Oh, and a [seventh round of physical exuberance](/current/2015-turn)…*               
+*COPY*               
                 
-We look forward to seeing you at some or all of it; if you want to check out what happened last season, have a look at our [Autumn/Winter 2014 archive](/archive/2014-autumnwinter).        
+We look forward to seeing you at some or all of it; if you want to check out what happened last season, have a look at our [Spring 2015 archive](/archive/2015-spring).        
         
 ####What is Word of Warning + where did it come from?
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of new live performance — an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work in Manchester + beyond.
 
-We take live work very seriously — but we don't take ourselves seriously at all. In 2012, alongside funny, thought-provoking, beautiful work by the likes of Third Angel, Ellie Harrison, Levantes Dance Theatre, Action Hero, Richard DeDomenici and many more, we served the audience gin + satsuma jello shots and drenched them in confetti. 2013's whirlwind of work included Lowri Evans, Hetain Patel, the vacuum cleaner, Leentje Van de Cruys and Stacy Makishi, a bonkers day of live art for all ages (Haphazard) and a performance festival for a 70s block of flats (Domestic). 2014 included Proto-type Theater, Ira Brand, Rachel Mars, Two Destination Language, Selina Thompson and Michael Pinchbeck, with a fifth wave of bizarre behaviour unleashed upon Manchester's city centre (Hazard) ranging from a manual fairground ride to beautiful and transgressive images from Nicola and Kris Canavan.            
-                
->*Curated by the ever-impressive Word Of Warning…*<br>[The Guardian's Lyn Gardner, on Domestic (2013)](http://www.theguardian.com/stage/2013/nov/02/this-weeks-theatre)
+We take live work very seriously — but we don't take ourselves seriously at all. In 2012, alongside funny, thought-provoking, beautiful work by the likes of Third Angel, Ellie Harrison, Levantes Dance Theatre, Action Hero, Richard DeDomenici and many more, we served the audience gin + satsuma jello shots and drenched them in confetti. 2013's whirlwind of work included Lowri Evans, Hetain Patel, the vacuum cleaner, Leentje Van de Cruys and Stacy Makishi, a bonkers day of live art for all ages (Haphazard) and a performance festival for a 70s block of flats (Domestic). 2014 included Proto-type Theater, Ira Brand, Rachel Mars, Two Destination Language, Selina Thompson and Michael Pinchbeck, with a fifth wave of bizarre behaviour unleashed upon Manchester's city centre (Hazard) ranging from a manual fairground ride to beautiful and transgressive images from Nicola and Kris Canavan. 2015 has so far seen another Haphazard-ous afternoon for all ages and welcomed Mark Thomas.        
         
+>*Curated by the ever-impressive Word Of Warning…*<br>[The Guardian's Lyn Gardner, on Domestic (November 2013)](http://www.theguardian.com/stage/2013/nov/02/this-weeks-theatre)        
+>*…alternative and fledgling work that has only recently got a new lease of life via Word of Warning…*<br>[Creative Tourist on Manchester theatre (November 2014)](http://www.creativetourist.com/articles/theatre/manchester/manchester-theatre-lyn-gardner-on-a-city-reaching-beyond-the-theatrical-peaks)         
+          
 ####Who's it for? Anyone looking for a different night (or day) out.            
 We don't want to put you off by talking labels – yes there'll be theatre, live art, dance – the aim is to be anything but elitist or po-faced. So if you like comedy, music, gaming or just a friendly, stimulating evening – there'll be something you might want to take a chance on.                 
         
