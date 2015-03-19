@@ -22,8 +22,10 @@ show_size: 3
 ###Friday 24 + Saturday 25 April 2015, 8pm        
 Our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content. To date, Works Ahead has brushed the petticoats of dance, skirted the fringes of musical theatre, warped the lines of performance installation, and delved into the mindset of the performer…
 
-2015 sees two new works in development by two young male artists, questioning manliness in this digitised, disembodied, discombobulated era:        
+2015 sees new works in development by two young male artists, questioning manliness in this digitised, disembodied, discombobulated era:        
+          
 [Nathan Birkinshaw](/archive/2014-worksahead/bennett)'s *How I Lost The Will To Live (& Why You Should Too)* is a coming of age story for a hyper-connected world.        
+        
 [Jamil Keating](/archive/2014-worksahead/odonnell)'s *Affected*. Or the confessions of a marxist poseur…          
         
 ####Venue + Booking Details
@@ -33,9 +35,9 @@ Dates: Friday 24 + Saturday 25 April 2015, 8pm (Double Bill)
 Box Office Tel: 0161 274 0600        
         
 ####What people said about [Works Ahead 2014](/archive/2014-worksahead)      
->*A*     
->*B*     
->*C*
+>*An extremely impressive, varied collection of work.*          
+>*…creates a safe space from within which artists and audiences can develop.*          
+>*Some cracking emerging artists having the chance to perform here has made for some brilliant entertainment.*        
         
 ####Credits         
-Commissioned by hÅb, co-produced by Contact.
+[Works Ahead](/hab/worksahead) 2015 is commissioned by hÅb + co-produced by Contact; supported using public funding through Arts Council England + funded by Manchester City Council.
