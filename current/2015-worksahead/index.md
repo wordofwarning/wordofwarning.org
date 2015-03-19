@@ -35,9 +35,9 @@ Dates: Friday 24 + Saturday 25 April 2015, 8pm (Double Bill)
 Box Office Tel: 0161 274 0600        
         
 ####What people said about [Works Ahead 2014](/archive/2014-worksahead)      
->*An extremely impressive, varied collection of work.*          
->*…creates a safe space from within which artists and audiences can develop.*          
->*Some cracking emerging artists having the chance to perform here has made for some brilliant entertainment.*        
+>• *An extremely impressive, varied collection of work.*          
+>• *Some cracking emerging artists having the chance to perform here has made for some brilliant entertainment.*        
+>• *…creates a safe space from within which artists and audiences can develop.*          
         
 ####Credits         
 [Works Ahead](/hab/worksahead) 2015 is commissioned by hÅb + co-produced by Contact; supported using public funding through Arts Council England + funded by Manchester City Council.
