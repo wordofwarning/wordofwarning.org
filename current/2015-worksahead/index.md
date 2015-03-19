@@ -40,4 +40,4 @@ Box Office Tel: 0161 274 0600
 >• *…creates a safe space from within which artists and audiences can develop.*          
         
 ####Credits         
-[Works Ahead](/hab/worksahead) 2015 is commissioned by hÅb + co-produced by Contact; supported using public funding through Arts Council England + funded by Manchester City Council.
+[Works Ahead](/hab/worksahead) 2015 is commissioned by hÅb + co-produced with Contact; supported using public funding through Arts Council England + funded by Manchester City Council.
