@@ -22,4 +22,6 @@ The first Works Ahead took place in **May/June 2012** with a new partnership at 
         
 The second Works Ahead took place in **May 2013**, once more at Contact, with a night of work that moved you from 70/30 Split, Kitty Graham, Joseph Lau + Ellen Turner (*winner of the 2012 Turn Prize*); and a night of work that spoke to you from Lena Simic, Façade Theatre, Wayne Steven Jackson… See the [programme](/archive/2013-worksahead) + [image gallery](/galleries/2013-woah).        
        
-The third Works Ahead took place **8+9 May 2014** at Contact, with a triple-bill of work that delved into the mindset of the performer from Lindsay Bennett, Paul O’Donnell + SheepKnuckle… See the [programme](/archive/2014-worksahead) + [image gallery](/galleries/2014-woah).
+The third Works Ahead took place **8+9 May 2014** at Contact, with a triple-bill of work that delved into the mindset of the performer from Lindsay Bennett, Paul O’Donnell + SheepKnuckle… See the [programme](/archive/2014-worksahead) + [image gallery](/galleries/2014-woah).        
+        
+Our **[fourth Works Ahead](/current/2015-worksahead)** takes place **24+25 April 2015** at Contact, with a double-bill of work questioning manliness in this digitised, disembodied, discombobulated era from two young male artists, Nathan Birkinshaw + Jamil Keating…
