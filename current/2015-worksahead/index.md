@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: 2014-woah
+layout: 2015-woah
 rootpath: "../../"
 is_index: true
 
