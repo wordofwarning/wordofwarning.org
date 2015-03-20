@@ -26,7 +26,7 @@ Our annual sampler of what's next in contemporary performance and live art — p
           
 **Nathan Birkinshaw**'s *How I Lost The Will To Live (& Why You Should Too)* is a coming of age story for a hyper-connected world.        
         
-**Jamil Keating**'s *Affected*. Or the confessions of a marxist poseur…          
+**Jamil Keating**'s *Affected*. Or the confessions of a Marxist poseur…          
         
 ####Venue + Booking Details
 Dates: Friday 24 + Saturday 25 April 2015, 8pm (Double Bill)        
