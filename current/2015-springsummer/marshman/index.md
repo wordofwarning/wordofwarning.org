@@ -4,11 +4,11 @@ layout: 2015-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Amy + Rosana Cade" # the name of the artist or company
-show: "Sister" # the name of the show
+artist: "Tom Marshman" # the name of the artist or company
+show: "We Need To Talk About Bambi" # the name of the show
 artist_size: 2
 show_size: 1
-header_image: "header_sister.jpg"
+header_image: "header_marshman.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values

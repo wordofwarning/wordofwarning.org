@@ -5,11 +5,11 @@ layout: 2015-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Leentje Van de Cruys | University of Salford" # the name of the artist or company
-show: "HORSE | Whoaaaaa Steady!" # the name of the show
-artist_size: 4
-show_size: 3
-header_image: "header_horse.jpg"
+artist: "Ria Hartley" # the name of the artist or company
+show: "Matilda & Me" # the name of the show
+artist_size: 1
+show_size: 2
+header_image: "header_hartley.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
