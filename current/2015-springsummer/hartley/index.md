@@ -8,7 +8,7 @@ rootpath: "../../../"
 artist: "Ria Hartley" # the name of the artist or company
 show: "Matilda and Me" # the name of the show
 artist_size: 1
-show_size: 3
+show_size: 2
 header_image: "header_hartley.jpg"
 
 # ABOUT THE SHOW - LAYOUT
