@@ -1,14 +1,14 @@
 ---
 
 # CONFIGURATION
-layout: 2014-woah
+layout: 2015-woah
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Jamil Keating"
 show: "Affected"
 artist_size: 1
-show_size: 2
+show_size: 1
 header_image: "header_keating.jpg"
 
 # ABOUT THE SHOW - LAYOUT
@@ -17,7 +17,7 @@ header_image: "header_keating.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Part of* Works Ahead 2014, *presented by* Word of Warning + Contact      
+*Part of* Works Ahead 2015, *presented by* Word of Warning + Contact      
          
 ####In Brief                      
 Paul needs adoration, approval and, above all, applause. You WILL clap, you WILL cheer… no, really, you WILL.        
