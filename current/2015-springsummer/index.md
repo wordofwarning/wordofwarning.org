@@ -6,9 +6,9 @@ rootpath: "../../"
 is_index: true
 
 ---
-*COPY*               
+*A real trip of a season — from the [perils of growing-up a man](/current/2015-worksahead), through an [American odyssey](/current/2015-springsummer/bailey) to a [grandmother's quest for a new future](/current/2015-springsummer/hartley) and a [Disney-fuelled walk in the park](/current/2015-springsummer/marshman).*               
                 
-We look forward to seeing you at some or all of it; if you want to check out what happened last season, have a look at our [Spring 2015 archive](/archive/2015-spring).        
+We look forward to seeing you at some or all of it; if you want to check out what happened last season, have a look at our [Spring 2015 archive](/current/2015-spring).        
         
 ####What is Word of Warning + where did it come from?
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of new live performance — an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work in Manchester + beyond.
