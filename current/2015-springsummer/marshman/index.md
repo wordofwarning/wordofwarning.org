@@ -1,13 +1,13 @@
 ---
 # CONFIGURATION
-layout: 2015-spring
+layout: 2015-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Tom Marshman" # the name of the artist or company
 show: "We Need To Talk About Bambi" # the name of the show
-artist_size: 2
-show_size: 1
+artist_size: 1
+show_size: 4
 header_image: "header_marshman.jpg"
 
 # ABOUT THE SHOW - LAYOUT
