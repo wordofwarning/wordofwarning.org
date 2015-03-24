@@ -5,8 +5,8 @@ layout: 2015-woah
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Nathan Birkinshaw"
-show: "<br><br>How I Lost The Will To Live<br>(& Why You Should Too)"
+artist: "<br>Nathan Birkinshaw"
+show: "How I Lost The Will To Live<br>(& Why You Should Too)"
 artist_size: 1
 show_size: 3
 header_image: "header_birkinshaw.jpg"
