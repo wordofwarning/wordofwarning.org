@@ -6,10 +6,9 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Nathan Birkinshaw"
-show: "How I Lost The Will To Live  
-(And Why You Should Too)"
+show: "How I Lost The Will To Live (And Why You Should Too)"
 artist_size: 1
-show_size: 2
+show_size: 3
 header_image: "header_birkinshaw.jpg"
 
 # ABOUT THE SHOW - LAYOUT
