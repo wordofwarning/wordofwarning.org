@@ -1,12 +1,12 @@
 ---
 
 # CONFIGURATION
-layout: 2014-woah
+layout: 2015-woah
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Nathan Birkinshaw"
-show: "How I Lost The Will To Live (And Why You Should Too)"
+show: "<br><br>How I Lost The Will To Live<br>(& Why You Should Too)"
 artist_size: 1
 show_size: 3
 header_image: "header_birkinshaw.jpg"
@@ -17,7 +17,7 @@ header_image: "header_birkinshaw.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Part of* Works Ahead 2014, *presented by* Word of Warning + Contact      
+*Part of* Works Ahead 2015, *presented by* Word of Warning + Contact      
          
 ####In Brief                      
 In life, as on stage, Lindsay knows the importance of the grand entrance and the dramatic exit… but is everything in the middle just a show? And who, exactly, is she playing?       
