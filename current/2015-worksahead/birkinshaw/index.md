@@ -5,11 +5,11 @@ layout: 2014-woah
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Lindsay Bennett"
-show: "Exit Smiling"
+artist: "Nathan Birkinshaw"
+show: "How I Lost The Will To Live (And Why You Should Too)"
 artist_size: 1
 show_size: 2
-header_image: "header_lindsay.jpg"
+header_image: "header_birkinshaw.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values

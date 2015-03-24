@@ -5,11 +5,11 @@ layout: 2014-woah
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Paul O'Donnell"
-show: "Nothing!"
+artist: "Jamil Keating"
+show: "Affected"
 artist_size: 1
 show_size: 2
-header_image: "header_odonnell.jpg"
+header_image: "header_keating.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
