@@ -1,14 +1,14 @@
 ---
 
 # CONFIGURATION
-layout: 2015-spring
+layout: 2015-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Ria Hartley" # the name of the artist or company
-show: "Matilda & Me" # the name of the show
+show: "Matilda and Me" # the name of the show
 artist_size: 1
-show_size: 2
+show_size: 3
 header_image: "header_hartley.jpg"
 
 # ABOUT THE SHOW - LAYOUT
