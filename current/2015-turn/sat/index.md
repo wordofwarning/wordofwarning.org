@@ -26,7 +26,7 @@ Box Office Tel: 0161 274 0600
 **™ Dance Company | *Today***        
 When we meet someone we meet all that they are and all that they will be. Desire and influences are the past and futures within someone. However, we meet them as they are today and yet we can relate to all these things which exist within the individual. Through story-telling, Capoeira, Hip-hop and Contemporary, *Today* delivers solid physicality and intricate duet work; exploring the performers' journey from adolescence into manhood and beyond, it focuses on significant factors like the father figure, spirituality and culture.        
         
-™ Dance Company is Malachi Simmons + Theo Fapohunda | Special thanks to: 12 Degrees North Dance Company, The Lowry, Edge hill University, NSCD + Debbie Milner.              
+™ Dance Company is Malachi Simmons + Theo Fapohunda | Special thanks to: 12 Degrees North Dance Company, The Lowry, Edge Hill University, NSCD + Debbie Milner.              
 [@MalachiSimmons](http://twitter.com/MalachiSimmons) | [@theofapo](http://twitter.com/theofapo)        
 ![Malachi + Theo](Malachi.jpg)        
         
@@ -77,5 +77,7 @@ Danced by: Dan Watson + Matthew Winston | Created by: Dan Watson with Rachael Mo
 Made possible by a Dance and the Homemade Commission from Chisenhale Dance Space, special thanks to participants of the workshop *Play, Confusion and Ridiculous Dancing* at Chisenhale on 13 April 2013.        
 <http://danwatsonperforms.blogspot.co.uk> | [Dan Watson Facebook](http://www.facebook.com/pages/Dan-Watson-Performs/133892962511) | [@DanGWatson](http://twitter.com/DanGWatson)        
         
+**Mixed Movement**          
+       
 ####[Appearing on the First Night: Friday 27 March](/current/2015-turn/fri)         
 Adam Russell | Ebony-Rose + Lorienne Aimée | Joshua Hubbard | Lo-Giudice Dance | Maelstrom Theatre | Peter Grist + Company | Rachel Sweeney | Sophie Unwin
