@@ -38,8 +38,9 @@ Choreography: Amy Eccleston + Georgie Abbott | Composition: Craig Frangleton | P
 ![Tangled](Tangled.jpg)        
         
 **Joseph Mannion | *Brotherly Love***        
-This piece wouldn't have been possible without the creative input and dedication of the original member Bryn Gallimore.        
-Thank you to: Lisa Cullen, Sarie Slee + Joseph Lau from the University of Salford        
+A highly physical dance piece exploring the effect overuse of gadgets can have on individual's personality. Intertwining Contemporary with Hip-hop + Jazz-inspired, the ranges from comedic to meaningful.
+        
+Thanks to original collaborator Bryn Gallimore for his flair, inspiration and energy.        
 <http://josephmannionchoreography.weebly.com>) | [@JosephMannion\_](http://twitter.com/JosephMannion_)        
         
 **Rebekka Platt | *The Snow People* (a work-in-progress)**        
