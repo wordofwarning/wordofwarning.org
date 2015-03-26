@@ -23,7 +23,7 @@ Special offer: buy nine tickets + get your tenth free
 Box Office Tel: 0161 274 0600    
         
 ####Order of Appearance (subject to change)        
-**Malachi Simmons + Theo Fapohunda | *Today***        
+**™ Dance Company | *Today***        
 When we meet someone we meet all that they are and all that they will be. Desire and influences are the past and futures within someone. However, we meet them as they are today and yet we can relate to all these things which exist within the individual. Through story-telling, Capoeira, Hip-hop and Contemporary, *Today* delivers solid physicality and intricate duet work; exploring the performers' journey from adolescence into manhood and beyond, it focuses on significant factors like: the father figure, spirituality and culture.        
 [@MalachiSimmons](http://twitter.com/MalachiSimmons) | [@theofapo](http://twitter.com/theofapo)        
 ![Malachi + Theo](Malachi.jpg)        
