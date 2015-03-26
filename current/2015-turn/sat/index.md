@@ -24,7 +24,7 @@ Box Office Tel: 0161 274 0600
         
 ####Order of Appearance (subject to change)        
 **™ Dance Company | *Today***        
-When we meet someone we meet all that they are and all that they will be. Desire and influences are the past and futures within someone. However, we meet them as they are today and yet we can relate to all these things which exist within the individual. Through story-telling, Capoeira, Hip-hop and Contemporary, *Today* delivers solid physicality and intricate duet work; exploring the performers' journey from adolescence into manhood and beyond, it focuses on significant factors like: the father figure, spirituality and culture.        
+When we meet someone we meet all that they are and all that they will be. Desire and influences are the past and futures within someone. However, we meet them as they are today and yet we can relate to all these things which exist within the individual. Through story-telling, Capoeira, Hip-hop and Contemporary, *Today* delivers solid physicality and intricate duet work; exploring the performers' journey from adolescence into manhood and beyond, it focuses on significant factors like the father figure, spirituality and culture.        
         
 ™ Dance Company is Malachi Simmons + Theo Fapohunda | Special thanks to: 12 Degrees North Dance Company, The Lowry, Edge hill University, NSCD + Debbie Milner.              
 [@MalachiSimmons](http://twitter.com/MalachiSimmons) | [@theofapo](http://twitter.com/theofapo)        
@@ -49,16 +49,16 @@ Devised by: Rebekka Platt + Louise Mellor
 ![Rebekka](Rebekka-Platt.jpg)        
         
 **Phoebe Ophelia Douthwaite | *The Land of the Blue Mist***         
-I set off for the Appalachian mountains of North Carolina last summer with the intention of researching and developing my current skills in Appalachian step dance — at the end of this 3 month-long trip my aim was to bring all the inspiration and skills I had picked up from dance teachers, friends, musicians and the mountains to create a solo piece which fused both traditional step dance and contemporary movement. Performed from feelings, thoughts and a life changing experience, the feel of the movement changes every time — not just because Appalachian step dancing is a freestyle form, but that new experiences and feelings are provoked every time I put myself back into *The Land of the Blue Mist*; this isn't a performance, it's a true confession and expression of how I found mindfulness.        
+I set off for the Appalachian mountains of North Carolina last summer with the intention of researching and developing my current skills in Appalachian step dance — my aim was to bring all the inspiration and skills I had picked up from dance teachers, friends, musicians and the mountains to create a solo piece which fused both traditional step dance and contemporary movement. Performed from feelings, thoughts and a life changing experience, the feel of the movement changes every time — not just because Appalachian step dancing is a freestyle form, but that new experiences and feelings are provoked every time I put myself back into *The Land of the Blue Mist*.          
         
-Choreography: Phoebe Ophelia | Composer: John Duncan | Credits: John Duncan, Northern School of Contemporary Dance, Sue Coe, Pete Coe, Ira Bernstein, Matt Gordon, Trevor + Travis Stuart.        
+Choreography: Phoebe Ophelia | Composer: John Duncan | Credits: Northern School of Contemporary Dance, Sue Coe, Pete Coe, Ira Bernstein, Matt Gordon, Trevor + Travis Stuart.        
 <http://phoebeopheliaaa.tumblr.com>        
 ![Phoebe](Phoebe.jpg)        
          
 **EdgeFWD Dance Theatre | *REVOLT***       
-Taking inspiration from the 1984 British miners' strike, EdgeFWD presents a powerful, dynamic, splintering explosion of Northern, working class grit. Driven by a sound score mixing thumping 90's rave and Grimethorpe Colliery Brass Band classics, *Revolt* takes a hard hitting look at what it takes to stand up and be heard, in a demonstration of unity and survival.        
+Taking inspiration from the 1984 British miners' strike, EdgeFWD presents a powerful, dynamic, splintering explosion of Northern, working class grit. Driven by a sound score mixing thumping 90's rave and Grimethorpe Colliery brass band classics, *Revolt* takes a hard hitting look at what it takes to stand up and be heard, in a demonstration of unity and survival.        
         
-Music: *Born Slippy* by Underworld; Grimethorpe Colliery Band | Choreography: Gary Clarke | Performers: EdgeFWD | Artistic Direction: Debbie Milner | Rehearsal Direction: Julia Griffin + Joe Reay-Ried | Thanks to: Edge Hill University        
+Choreography: Gary Clarke | Performers: EdgeFWD | Artistic Direction: Debbie Milner | Rehearsal Direction: Julia Griffin + Joe Reay-Ried | Thanks to: Edge Hill University        
 [www.edgefwd.org](http://www.edgefwd.org) | [EdgeFWD Facebook](http://www.facebook.com/pages/Edge-FWD/121091001259090) | [@EdgeFWD](http://twitter.com/EdgeFWD)        
 ![EdgeFWD](EdgeFWD.jpg)        
         
