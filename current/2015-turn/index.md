@@ -38,6 +38,8 @@ Turn 2015 is our seventh annual platform for dancers + dance-makers — to get a
 >4\* *One of the key events in Manchester's dance calendar.*<br>[The Public Reviews (2013)](http://www.thepublicreviews.com/turn-2013-contact-manchester).         
 >• *Enjoyed the eclectic mix. A good way to sample dance, especially if you haven't seen a lot before.*<br>• *…creative and great to see such different work from emerging artists…*<br>• *A real spur to young talent.*<br>Audience Feedback (2014)            
 >• *Great to see creative innovative new local work. Really good vibe.*<br>• *Weird and wonderful — as always.*<br>• *Fantastic platform for artists.*<br>Audience Feedback (2013)             
+          
+A preview of Turn 2015 by [The Skinny](http://www.theskinny.co.uk/things-to-do/northwest/top-events-northwest-26-mar-2-apr-the-ladies-room-threshold-festival-cg-open-house).          
                   
 ####Access Information                 
 Turn 2015 takes place in a number of different spaces and formats — some seated, some standing, some limited capacity, some participatory.<br>Age advisory: 14+ (*parental discretion*). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.               
