@@ -25,12 +25,10 @@ Box Office Tel: 0161 274 0600
 ####Order of Appearance (subject to change)      
 **Rachel Sweeney | *Driftlines*** (video programme, ongoing from 7pm)        
 This short dance film explores sense and synapses within a delicate ecology of rock, water, salt and skin. *Driftlines* follows a series of shifting perspectives held by both camera and dancer, captured along the Copper Coast shingle stretches of south east Ireland. Here, the camera follows a dancer's physical immersion and tactile exploration of those arterial spaces that are left in the wake of coastal erosion. The movement and environmental sounds fuse with internalized sensations to create a kinesthetic experience moving from water to land.         
-        
 [www.orrandsweeney.com](http://www.orrandsweeney.com)           
         
 **Peter Grist + Company | *M.E.N.***        
 Drawing upon an idea contained within the Greek myth *Pygmalion* — a tale about a sculptor who falls in love with a female statue of his own creation, an exploration of narcissism in relationships. The work revolves around a male duet performed in a marked-out space. So what are we to do? How do we protect ourselves from narcissists if they're so adept at slipping into our lives unnoticed?             
-        
 <http://petergristandcompany.wordpress.com> | [Peter Grist + Co. Facebook](http://www.facebook.com/petergristandcompany)        
         
 **Joshua Hubbard | *Monochrome to colour***           
@@ -67,7 +65,6 @@ Inspired by time spent with artist Hector De Gregorio and his study on the theme
          
 **Maelstrom Theatre | *Oversight***        
 Due to illness this piece will not be presented.        
-![Maelstrom](Maelstrom.jpg)        
-        
+
 ####[Appearing on the Second Night: Saturday 28 March](/current/2015-turn/sat)          
 Dan Watson | EdgeFWD Dance Theatre | Joseph Mannion | Phoebe Ophelia Douthwaite | Rebekka Platt | Tangled Dance Company | ™ Dance Company | Victoria Sheldon — *plus a Mixed Movement Turn Special*
