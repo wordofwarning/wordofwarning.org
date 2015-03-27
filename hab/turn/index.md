@@ -15,9 +15,9 @@ header_image: "header_turn_photo.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Turn** is our annual platform for NW dancers + dance-makers, featuring over 15 short pieces of work over two nights in Manchester, usually in the spring.       
+**Turn** is our annual platform for NW dancers + dance-makers, featuring around 15 short pieces of work over two nights in Manchester, usually in the spring.       
        
-Our [**seventh Turn**](/current/2015-turn) takes place at Contact on 27 + 28 March 2015, with some new sixteen works — to get a feel for it see Turn 2014's [programme](/archive/2014-turn) + [image gallery](/galleries/2014-turn), or delve further with 2013's [programme](/archive/2013-turn) + [image gallery](/galleries/2013-turn).       
+Our [**seventh Turn**](/current/2015-turn) takes place at Contact on 27 + 28 March 2015, with some fifteen new works — to get a feel for it see Turn 2014's [programme](/archive/2014-turn) + [image gallery](/galleries/2014-turn), or delve further with 2013's [programme](/archive/2013-turn) + [image gallery](/galleries/2013-turn).       
        
 **Turn is:**        
 • a public micro-festival + open submission dance platform;        
@@ -26,4 +26,4 @@ Our [**seventh Turn**](/current/2015-turn) takes place at Contact on 27 + 28 Mar
         
 Enquiries: <mailto:turn@habarts.org> ¦ <http://www.turnmcr.org> ¦ #TurnMcr        
         
-[Turn 2015](/current/2015-turn) is presented by Word of Warning + Contact; co-produced by hÅb, Contact + Dance Manchester; supported using public funding through Arts Council England + funded by Manchester City Council; a greenroom legacy project.
+[Turn 2015](/current/2015-turn) is presented/co-produced by Word of Warning/hÅb, Contact + Dance Manchester; supported using public funding through Arts Council England + funded by Manchester City Council; a greenroom legacy project.
