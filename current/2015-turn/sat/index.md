@@ -23,6 +23,10 @@ Special offer: buy nine tickets + get your tenth free
 Box Office Tel: 0161 274 0600    
         
 ####Order of Appearance (subject to change)        
+**Rachel Sweeney | *Driftlines*** (video programme, ongoing from 7pm)        
+This short dance film explores sense and synapses within a delicate ecology of rock, water, salt and skin. *Driftlines* follows a series of shifting perspectives held by both camera and dancer, captured along the Copper Coast shingle stretches of south east Ireland. Here, the camera follows a dancer's physical immersion and tactile exploration of those arterial spaces that are left in the wake of coastal erosion. The movement and environmental sounds fuse with internalized sensations to create a kinesthetic experience moving from water to land.        
+[www.orrandsweeney.com](http://www.orrandsweeney.com)        
+        
 **™ Dance Company | *Today***        
 When we meet someone we meet all that they are and all that they will be. Desire and influences are the past and futures within someone. However, we meet them as they are today and yet we can relate to all these things which exist within the individual. Through story-telling, Capoeira, Hip-hop and Contemporary, *Today* delivers solid physicality and intricate duet work; exploring the performers' journey from adolescence into manhood and beyond, it focuses on significant factors like the father figure, spirituality and culture.        
         
