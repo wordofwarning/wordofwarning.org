@@ -23,10 +23,22 @@ Special offer: buy nine tickets + get your tenth free
 Box Office Tel: 0161 274 0600    
         
 ####Order of Appearance (subject to change)      
+**Rachel Sweeney | *Driftlines*** (video programme, ongoing from 7pm)        
+This short dance film explores sense and synapses within a delicate ecology of rock, water, salt and skin. *Driftlines* follows a series of shifting perspectives held by both camera and dancer, captured along the Copper Coast shingle stretches of south east Ireland. Here, the camera follows a dancer's physical immersion and tactile exploration of those arterial spaces that are left in the wake of coastal erosion. The movement and environmental sounds fuse with internalized sensations to create a kinesthetic experience moving from water to land.         
+        
+[www.orrandsweeney.com](http://www.orrandsweeney.com)           
+        
 **Peter Grist + Company | *M.E.N.***        
 Drawing upon an idea contained within the Greek myth *Pygmalion* — a tale about a sculptor who falls in love with a female statue of his own creation, an exploration of narcissism in relationships. The work revolves around a male duet performed in a marked-out space. So what are we to do? How do we protect ourselves from narcissists if they're so adept at slipping into our lives unnoticed?             
-<http://petergristandcompany.wordpress.com> | [Peter Grist + Co. Facebook](http://www.facebook.com/petergristandcompany)       
-         
+        
+<http://petergristandcompany.wordpress.com> | [Peter Grist + Co. Facebook](http://www.facebook.com/petergristandcompany)        
+        
+**Joshua Hubbard | *Monochrome to colour***           
+This solo is two ideas merged together, focusing on the idea of transformation through visually striking imagery and highly physical movement.
+        
+Dancer/choreographer: Joshua Hubbard | Starring drag queens: Grace (the face) Oni Smith + Liquorice Black | Make up artist: Louvaine C Lee | Filmed by: Andrew Greenland | On set assistant: Emma Speakman          
+![Joshua](Josh-Hubbard.jpg)        
+        
 **Sophie Unwin | *The Chronicles Of Joy***         
 *The Chronicles Of Joy* takes all the manuals, mantras and You Tube tutorials about happiness and throws them out of the
 window. Because you are not alone, she is not happier than you are and you were better off without him anyway. Rule number 1, say yes.         
@@ -34,13 +46,7 @@ window. Because you are not alone, she is not happier than you are and you were 
 Music: *Gus on the bus* by The Travelling Salesman, *My Way* by Twinkle Twinkle Little Rockstar | Thanks: Yorkshire Dance, Peggy Olislaegers, Beth Cassani, Hollie Harkness-Gowers + Emanuele Pecorari         
 [@SophieUnwin2](http://twitter.com/SophieUnwin2)          
 ![Sophie](Sophie-Unwin.jpg)           
-         
-**Joshua Hubbard | *Monochrome to colour***           
-This solo is two ideas merged together, focusing on the idea of transformation through visually striking imagery and highly physical movement.         
-           
-Dancer/choreographer: Joshua Hubbard | Starring drag queens: Grace (the face) Oni Smith + Liquorice Black | Make up artist: Louvaine C Lee | Filmed by: Andrew Greenland | On set assistant: Emma Speakman          
-![Joshua](Josh-Hubbard.jpg)        
-        
+
 **Rachel Sweeney | *Tradewinds/Taste of China***        
 This solo is informed by the composite metamorphosis from rock to liquid mass, and employs a minimalist Butoh movement aesthetic. The title reflects the spatial arrangement for this work and is based upon the old mining process of changing composite granite into china clay.        
 ![Rachel](Rachel-Sweeney.jpg)        
@@ -60,10 +66,7 @@ Inspired by time spent with artist Hector De Gregorio and his study on the theme
 ![Lo-Giudice](Logiudice.jpg)         
          
 **Maelstrom Theatre | *Oversight***        
-*Oversight* is the 'what if ?' situation. What if you didn't press enter but you pressed delete? What if you went for a fag break 5 minutes before the fire alarm? What if you missed Armageddon warnings? Maelstrom creates a DEFCON 1 situation for just your average office worker; using physical and dance theatre to create their trademark dark and surreal world, they invite you to the worst job appraisal ever…        
-        
-Maelstrom Theatre is founder Lindsey Brocklebank and co-creators/performers Paul Doyle, Anthony Briggs + Sarah Lockwood; Lighting Designer Murray Smoker has been the company's technical designer for 5 years.        
-[www.maelstromtheatre.co.uk](http://www.maelstromtheatre.co.uk) | [Maelstrom Facebook](http://www.facebook.comwww.facebook.com/MaelstromT) | [@MaelstromTH](http://twitter.com/MaelstromTH)        
+Due to illness this piece will not be presented.        
 ![Maelstrom](Maelstrom.jpg)        
         
 ####[Appearing on the Second Night: Saturday 28 March](/current/2015-turn/sat)          
