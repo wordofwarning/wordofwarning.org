@@ -77,7 +77,8 @@ Danced by: Dan Watson + Matthew Winston | Created by: Dan Watson with Rachael Mo
 Made possible by a Dance and the Homemade Commission from Chisenhale Dance Space, special thanks to participants of the workshop *Play, Confusion and Ridiculous Dancing* at Chisenhale on 13 April 2013.        
 <http://danwatsonperforms.blogspot.co.uk> | [Dan Watson Facebook](http://www.facebook.com/pages/Dan-Watson-Performs/133892962511) | [@DanGWatson](http://twitter.com/DanGWatson)        
         
-**Mixed Movement**          
-       
+**Mixed Movement** (from about 10pm, ends by 11.30pm)          
+Dance and live music combine, New York-style. The brainchild of dancer, theatre artist and poet DawN Crandell, Mixed Movement gives dancers and musicians a chance to improvise, celebrate and show off their skills.        
+        
 ####[Appearing on the First Night: Friday 27 March](/current/2015-turn/fri)         
-Adam Russell | Ebony-Rose + Lorienne Aimée | Joshua Hubbard | Lo-Giudice Dance | Maelstrom Theatre | Peter Grist + Company | Rachel Sweeney | Sophie Unwin
+Adam Russell | Ebony-Rose + Lorienne Aimée | Joshua Hubbard | Lo-Giudice Dance | Peter Grist + Company | Rachel Sweeney | Sophie Unwin<br>*Maelstrom Theatre no longer appear due to illness*
