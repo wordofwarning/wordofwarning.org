@@ -19,7 +19,7 @@ show_size: 4
 *Presented by* Word of Warning, Contact + Dance Manchester    
          
 ###[Friday 27](/current/2015-turn/fri) + [Saturday 28](/current/2015-turn/sat) March 2015, 7.30pm
-Pirouetting and spinning, twizzling and twirling, Turn lands at Contact for its fourth year… this two-day conflagration of the best new dance in town explodes into life, with some sixteen new works taking over the whole building.           
+Pirouetting and spinning, twizzling and twirling, Turn lands at Contact for its fourth year… this two-day conflagration of the best new dance in town explodes into life, with some fifteen new works taking over the whole building.           
         
 ####Venue + Booking Details
 Dates: Friday 27 + Saturday 28 March 2015, 7.30pm    
