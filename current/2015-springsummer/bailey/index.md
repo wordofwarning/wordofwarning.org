@@ -19,8 +19,10 @@ header_image: ""
 *Presented by* Contact + Word of Warning *during* Flying Solo Festival 2015         
        
 ####In Brief      
-A             
-              
+Tales of paranoia, young love and ultra-violence in a spiralling odyssey of pitch-black humour and nightmarish prose. A prime slice of surrealist trash, an Americana death trip and a dizzying exorcism for a world convinced it is dying.        
+        
+See his [trailer](http://youtu.be/-Tfv1UVH4wo) + [another](http://youtu.be/N3K2mqQsmDk).              
+        
 ####Venue + Booking Details    
 Dates: Tuesday 5 + Wednesday 6 May 2015, 8pm         
 [Venue: Contact (space 2)](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA        
@@ -35,13 +37,15 @@ On Tuesday 5 May, following a short break, there will be a post-show talk.
         
 ####More            
 COPY        
+Winner of the Arches Brick Award 2014 + TBC Award at Off West End Awards 2015.
+
         
 ####Who is he?              
 COPY        
         
 ####What people have said about *THIS IS HOW WE DIE*         
->4\* *…really shocks or transforms you… achingly hip and terrifyingly savage… an extraordinary experience…*<br>[Lyn Gardner, The Guardian](http://www.theguardian.com/stage/2014/jun/20/this-is-how-we-die-review-bubbling-paranoia)          
->5\* *…a bushel of cruel wit and bodily fluids.*<br>[Exeunt](http://exeuntmagazine.com/reviews/this-is-how-we-die)        
+>4\* *…really shocks or transforms you… achingly hip and terrifyingly savage… an extraordinary experience…*<br>*An absurd road movie of the soul cut with a razor wit and bubbling paranoia*<br>[Lyn Gardner, The Guardian](http://www.theguardian.com/stage/2014/jun/20/this-is-how-we-die-review-bubbling-paranoia)          
+>5\* *…a bushel of cruel wit and bodily fluids.*<br>*If gonzo journalism ever needed a news anchor, this would be the guy.*<br>[Exeunt](http://exeuntmagazine.com/reviews/this-is-how-we-die)        
          
 ####Credits          
 Written + performed by Christopher Brett Bailey | Dramaturg: Anne Rieger | Musicians: George Percy, Alicia Jane Turner + Apollo | Lighting Design by Sherry Coenen | Produced by Beckie Darlington | *Poster Image by Julian Martinez Milla*<br>Supported using public funding by the National Lottery through Arts Council England. An OvalHouse commission. Made with support from The Basement (Brighton), Cambridge Junction + Norwich Arts Centre as part of East By South East.        
