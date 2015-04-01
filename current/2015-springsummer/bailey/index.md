@@ -8,7 +8,7 @@ artist: "Christopher Brett Bailey" # the name of the artist or company
 show: "THIS IS HOW WE DIE" # the name of the show
 artist_size: 2
 show_size: 2
-header_image: "header_cbb1.jpg"    
+header_image: ""    
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
