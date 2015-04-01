@@ -33,7 +33,7 @@ Box Office Tel: 0161 274 0600
 With no interval, the show lasts XXmins. Age advisory: 16+        
         
 ####Q&A        
-On Tuesday 5 May, following a short break, there will be a post-show talk.
+
         
 ####More            
 COPY        
