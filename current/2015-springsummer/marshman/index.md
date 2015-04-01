@@ -25,14 +25,14 @@ See his [trailer](http).
                     
 ####Venue + Booking Details
 Day One: Saturday 13 June 2015, 3pm + 5pm        
-Day Two: Sunday 14 June 2015, 12noon + 3pm
+Day Two: Sunday 14 June 2015, 12noon + 3pm         
 [Venue: Hulme Community Garden Centre](http://www.hulmegardencentre.org.uk/contact), 28 Old Birley Street, Manchester, M15 5RG        
 LIMITED CAPACITIES, BOOKING ESSENTIAL: 
 Tickets: £5/3, can be booked online; a fee applies. 
 Box Office Enquiries: 0161 232 6086 (leave a message + we’ll get back to you).      
         
 ####Access Information         
-A sited event, *WNTTAB* takes place outside in the form of a walking tour. With no interval, each performance lasts approximately 40 minutes for a maximum audience of twenty people. Age advisory: 6+<br>For specific age and access information please email info@habarts.org or call 0161 232 6086.
+A sited event taking place outside in the form of a walking tour. With no interval, each performance lasts approximately 40 minutes for a maximum audience of twenty people. Age advisory: 6+<br>For specific age and access information please email info@habarts.org or call 0161 232 6086.
 
 ####More            
 
@@ -40,12 +40,10 @@ A sited event, *WNTTAB* takes place outside in the form of a walking tour. With 
   
                     
 ####What people have said about *Sister*              
->4\* *…strange, beautiful and disturbing…*<br>[The Scotsman](http://www.scotsman.com/what-s-on/theatre-comedy-dance/theatre-review-sisters-glasgow-1-3332968)           
-
-A **4\*** review of *Sister* at Contact, by [The LGBTQ Arts and Culture Review](http://lgbtqartsandculturereview.com/2015/02/14/review-sister-by-rosana-and-amy-cade).        
+>x\* **<br>[](http)        
         
 ####Credits    
             
                     
 ####Websites        
-[www.rosanacade.com](http://www.rosanacade.com) | [@RosanaCade](http://twitter.com/RosanaCade)
+[www.tommarshman.com](http://www.tommarshman.com) | [@TommyMarshman](http://twitter.com/TommyMarshman)
