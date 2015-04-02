@@ -20,7 +20,7 @@ header_image: "header_hartley.jpg"
 *Presented by* Word of Warning*,* Divergency *+* Sustained Theatre Up North        
            
 ####In Brief     
-A woman makes a decision that will change her family's history and the course of their future. Five decades later her granddaughter reflects on the con-sequences, retracing Matilda's journey to discover how it has shaped her own.        
+A woman makes a decision that will change her family's history and the course of their future. 5 decades later her granddaughter reflects on the consequences, retracing Matilda's journey to discover how it has shaped her own.        
           
 ####Venue + Booking Details    
 Date: Thursday 25 June 2015, 7.30pm              
@@ -36,10 +36,10 @@ With no interval, the performance lasts 1 hour. Age advisory: 14+
          
 Weaving together storytelling, spoken word, dubpoetry, live art, autobiography, and reggae music, this colourful and challenging performance offers a political viewpoint surrounding the lived experience of migration, colonialism, racism, and the current perception of British cultural identity. Performed solo, the piece is presented as a biographical mythology of Ria's lived experiences, reflecting poetically on the story of her and her Grandma, and the two islands they are from.       
           
-Devised through extensive training in the s.o.r.p.l.u.s.i methodology at the YEMOYA international artist residency (Jamaica) by internationally acclaimed dub poet, monodramatist and educator d'bi young anitafrika. YEMOYA is an international artist residency committed to the holistic development of people; s.o.r.p.l.u.s.i is an acronym of the eight core principles of the methodology which are self-knowledge, orality, rhythm, political content + context, language, urgency, sacredness, integrity.       
+Devised through extensive training in the s.o.r.p.l.u.s.i methodology at the YEMOYA international artist residency (Jamaica) by internationally acclaimed dub poet, monodramatist and educator d'bi young anitafrika. YEMOYA is an international artist residency committed to the holistic development of people; s.o.r.p.l.u.s.i is an acronym of the eight core principles of the methodology: self-knowledge, orality, rhythm, political content + context, language, urgency, sacredness, integrity.       
         
 ####Who is she?    
-An interdisciplinary performance artist, Ria works within the mediums of devised theatre, performance, live art, video installation, photography, spoken word, site specific and durational performance; her work is often autobiographical and concerned with memory, identity, communication and human relationships. She has been an associate lecturer at Falmouth University since 2010.           
+An interdisciplinary performance artist, Ria works within the mediums of devised theatre, performance, live art, video installation, photography, spoken word, site-specific + durational performance; often autobiographical, her work is concerned with memory, identity, communication and human relationships. She has been an associate lecturer at Falmouth University since 2010.           
            
 ####Credits         
 Writer + performer: Ria Hartley | Training + methodology: d’bi young anitafrika | Additional dramaturgy: Misri Dey | Additional direction: Leo Kay<br>Initial creation and development supported by Arts Council England + National Lottery Heritage Fund; further developed with support of the SOLO Contemporary Performance Forum + Apples and Snakes.         
