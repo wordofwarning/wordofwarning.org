@@ -33,13 +33,13 @@ gallery:
     -   {file: "JM.jpg", artist: "Joseph Mannion"}
     -   {file: "RP.jpg", artist: "Rebekka Platt"}
     -   {file: "Ed1.jpg", artist: "EdgeFWD Dance Theatre"}
-    -   {file: "Ed1.jpg", artist: "EdgeFWD Dance Theatre"}
+    -   {file: "Ed2.jpg", artist: "EdgeFWD Dance Theatre"}
     -   {file: "PhOD1.jpg", artist: "Phoebe Ophelia Douthwaite"}
     -   {file: "PhOD2.jpg", artist: "Phoebe Ophelia Douthwaite"}
     -   {file: "VS.jpg", artist: "Victoria Sheldon"}
     -   {file: "DW1.jpg", artist: "Dan Watson"}
     -   {file: "DW2.jpg", artist: "Dan Watson"}
-    -   {file: "MM1", artist: "Mixed Movement"}
-    -   {file: "MM2", artist: "Mixed Movement"}
+    -   {file: "MM1.jpg", artist: "Mixed Movement"}
+    -   {file: "MM2.jpg", artist: "Mixed Movement"}
 
 ---
