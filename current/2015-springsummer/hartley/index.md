@@ -31,10 +31,16 @@ Box Office Tel: 0161 232 6089
 ####Access Information      
 With no interval, the performance lasts 1 hour. Age advisory: 14+      
       
-####More    
-
+####More        
+"*Matilda is my Grandma. She migrated from Jamaica to England in 1962. Now all of her memories have faded. I need to remember for her, for me, for us…*"         
+         
+Weaving together storytelling, spoken word, dubpoetry, live art, autobiography, and reggae music, this colourful and challenging performance offers a political viewpoint surrounding the lived experience of migration, colonialism, racism, and the current perception of British cultural identity. Performed solo, the piece is presented as a biographical mythology of Ria's lived experiences, reflecting poetically on the story of her and her Grandma, and the two islands they are from.       
+          
+Devised through extensive training in the s.o.r.p.l.u.s.i methodology at the YEMOYA international artist residency (Jamaica) by internationally acclaimed dub poet, monodramatist and educator d'bi young anitafrika. YEMOYA is an international artist residency committed to the holistic development of people; s.o.r.p.l.u.s.i is an acronym of the eight core principles of the methodology which are self-knowledge, orality, rhythm, political content + context, language, urgency, sacredness, integrity.       
+        
 ####Who is she?    
-
+An interdisciplinary performance artist, she works within the mediums of devised theatre, performance, live art, video installation, photography, spoken word, site specific and durational performance; her work is often autobiographical and concerned with memory, identity, communication and human relationships. Ria has taught as an associate lecturer at Falmouth University since 2010.           
+           
 ####Credits         
 Writer + performer: Ria Hartley | Training + methodology: d’bi young anitafrika | Additional dramaturgy: Misri Dey | Additional direction: Leo Kay<br>Initial creation + development supported by Arts Council England + National Lottery Heritage Fund; further developed with support of the SOLO Contemporary Performance Forum + Apples and Snakes.         
          
