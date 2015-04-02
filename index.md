@@ -1,7 +1,7 @@
 ---
 # CONFIGURATION
 layout: home
-header_image: "assets/images/header_2015s.jpg"
+header_image: "assets/images/header_ss15wrn.jpg"
 
 ---
-####Thank you [Hunt & Darton & guests](/current/2015-spring/h&d) for popping-up with pineapples & panache during SICK — and also to our [(7th!) Turn](/current/2015-turn) artists, audiences & partners. [Spring](/current/2015-spring) segues into Spring/Summer — starting with [Works Ahead](/current/2015-worksahead) *24/25 Apr*.
+####Thank you to all our [Spring](/current/2015-spring) artists, audiences & partners.<br>Spring/Summer announced soon, featuring five artists: Christopher Brett Bailey | Nathan Birkinshaw | Ria Hartley | Jamil Keating | Tom Marshman — we start with [Works Ahead](/current/2015-worksahead) at Contact, *24/25 Apr*.
