@@ -20,7 +20,7 @@ header_image: "header_hartley.jpg"
 *Presented by* Word of Warning*,* Divergency *+* Sustained Theatre Up North        
            
 ####In Brief     
-A woman makes a decision that will change her family's history and the course of their future. 5 decades later her granddaughter reflects on the consequences, retracing Matilda's journey to discover how it has shaped her own.        
+A woman makes a decision that will change her family's history and the course of their future. Five decades later her granddaughter reflects on the con-sequences, retracing Matilda's journey to discover how it has shaped her own.        
           
 ####Venue + Booking Details    
 Date: Thursday 25 June 2015, 7.30pm              
@@ -34,7 +34,7 @@ With no interval, the performance lasts 1 hour. Age advisory: 14+
 ####More        
 "*Matilda is my Grandma. She migrated from Jamaica to England in 1962. Now all of her memories have faded. I need to remember for her, for me, for us…*"         
          
-Weaving together storytelling, spoken word, dubpoetry, live art, autobiography, and reggae music, this colourful and challenging performance offers a political viewpoint surrounding the lived experience of migration, colonialism, racism, and the current perception of British cultural identity. Performed solo, the piece is presented as a biographical mythology of Ria's lived experiences, reflecting poetically on the story of her and her Grandma, and the two islands they are from.       
+Weaving together storytelling, spoken word, dubpoetry, live art, autobiography, and reggae music, this colourful and challenging performance offers a political viewpoint surrounding the lived experience of migration, colonialism, racism, and the current perception of British cultural identity. Performed solo, the piece is presented as a biographical mythology of Ria's lived experiences, reflecting poetically on the story of her and her Grandma, and the 2 islands they are from.       
           
 Devised through extensive training in the s.o.r.p.l.u.s.i methodology at the YEMOYA international artist residency (Jamaica) by internationally acclaimed dub poet, monodramatist and educator d'bi young anitafrika. YEMOYA is an international artist residency committed to the holistic development of people; s.o.r.p.l.u.s.i is an acronym of the eight core principles of the methodology: self-knowledge, orality, rhythm, political content + context, language, urgency, sacredness, integrity.       
         
