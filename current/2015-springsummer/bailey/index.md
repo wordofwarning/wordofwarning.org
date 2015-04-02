@@ -21,7 +21,7 @@ header_image: "header_cbb1.jpg"
 ####In Brief      
 Tales of paranoia, young love and ultra-violence in a spiralling odyssey of pitch-black humour and nightmarish prose. A prime slice of surrealist trash, an Americana death trip and a dizzying exorcism for a world convinced it is dying.        
         
-See his [trailer](http://youtu.be/-Tfv1UVH4wo) + [another](http://youtu.be/N3K2mqQsmDk).              
+See his [trailer](http://youtu.be/-Tfv1UVH4wo) + [another trailer](http://youtu.be/N3K2mqQsmDk).              
         
 ####Venue + Booking Details    
 Dates: Tuesday 5 + Wednesday 6 May 2015, 8pm         
@@ -30,25 +30,26 @@ Dates: Tuesday 5 + Wednesday 6 May 2015, 8pm
 Box Office Tel: 0161 274 0600         
         
 ####Access Information        
-With no interval, the show lasts XXmins. Age advisory: 16+        
+With no interval, the show lasts approximately 75mins. Age advisory: 16+        
         
 ####Q&A        
 On Tuesday 5 May, following a short break, there will be a post-show talk.
         
 ####More            
-COPY        
-Winner of the Arches Brick Award 2014 + TBC Award at Off West End Awards 2015.
-
+A savage, surreal, and apocalyptic blend of spoken word, storytelling, caustic humour and gutter philosophy with echoes of Lenny Bruce, William Burroughs, beat poetry and B-movies. A blood-soaked love letter to the depraved, the depressed and the death-obsessed.         
         
-####Who is he?              
-COPY        
+[Winner of the TBC Award at the Offies 2015](http://www.offwestend.com/index.php/news/view/213) + Winner of the Arches Brick Award 2014.         
         
-####What people have said about *THIS IS HOW WE DIE*         
->4\* *…really shocks or transforms you… achingly hip and terrifyingly savage… an extraordinary experience…*<br>*An absurd road movie of the soul cut with a razor wit and bubbling paranoia*<br>[Lyn Gardner, The Guardian](http://www.theguardian.com/stage/2014/jun/20/this-is-how-we-die-review-bubbling-paranoia)          
->5\* *…a bushel of cruel wit and bodily fluids.*<br>*If gonzo journalism ever needed a news anchor, this would be the guy.*<br>[Exeunt](http://exeuntmagazine.com/reviews/this-is-how-we-die)        
+####Who is he?     
+A performer, writer, theatre-maker and musician, Christopher is an associate artist of Made In China — with whom he has he has toured to [Word of Warning](/archive/2012-autumnwinter/madeinchina), nationally and internationally — also working with BBC R4, Unicorn Theatre and collaborated with artists Andy Field, Mamoru Iriguchi, Glen Neath, Hannah Ringham and the late, great Ken Campbell. As a musician/composer Chris is ½ of ambient classical duo Moon Ate the Dark and leader of experimental guitar quartet THIS MACHINE WON'T KILL FASCISTS BUT IT MIGHT GET YOU LAID.          
          
-####Credits          
-Written + performed by Christopher Brett Bailey | Dramaturg: Anne Rieger | Musicians: George Percy, Alicia Jane Turner + Apollo | Lighting Design by Sherry Coenen | Produced by Beckie Darlington | *Poster Image by Julian Martinez Milla*<br>Supported using public funding by the National Lottery through Arts Council England. An OvalHouse commission. Made with support from The Basement (Brighton), Cambridge Junction + Norwich Arts Centre as part of East By South East.        
+####What people have said about *THIS IS HOW WE DIE*        
+>5\* *…a bushel of cruel wit and bodily fluids.<br>If gonzo journalism ever needed a news anchor, this would be the guy.*<br>[Exeunt](http://exeuntmagazine.com/reviews/this-is-how-we-die)        
+>4\* *An absurd road movie of the soul cut with a razor wit and bubbling paranoia.<br>…really shocks or transforms you.<br>…an increasingly surreal rant…<br>…an awesome display of verbal gymnastics.*<br>[Lyn Gardner, The Guardian](http://www.theguardian.com/stage/2014/jun/20/this-is-how-we-die-review-bubbling-paranoia)        
+>4\* *[A] blisteringly brilliant monologue, a surreal and mind-blowing odyssey…*<br>[Joyce McMillan, The Scotsman](http://www.wow247.co.uk/blog/2014/08/08/pretty-ugly-this-is-how-we-die-if-destroyed-still-true-karaoke)        
+        
+####Credits        
+Written + performed by Christopher Brett Bailey | Dramaturg: Anne Rieger | Musicians: George Percy, Alicia Jane Turner + Apollo | Production Manager: Alex Fernandes | Lighting Design by Sherry Coenen | Produced by Beckie Darlington | *Poster Image by Julian Martinez Milla*<br>Supported using public funding by the National Lottery through Arts Council England. An OvalHouse commission. Made with support from Basement Brighton, Cambridge Junction + Norwich Arts Centre as part of East By South East.       
         
 ####Websites        
 <http://christopherbrettbailey.com> | [@ct_bailey](http://twitter.com/ct_bailey)
