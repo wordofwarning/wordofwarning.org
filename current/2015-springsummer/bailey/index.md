@@ -47,7 +47,7 @@ A performer, writer + theatre-maker, Christopher is an associate artist of Made 
 >4\* *[A] blisteringly brilliant monologue, a surreal and mind-blowing odyssey…*<br>[Joyce McMillan, The Scotsman](http://www.wow247.co.uk/blog/2014/08/08/pretty-ugly-this-is-how-we-die-if-destroyed-still-true-karaoke)        
         
 ####Credits        
-Written + performed by Christopher Brett Bailey | Dramaturg: Anne Rieger | Musicians: George Percy, Alicia Jane Turner + Apollo | Production Manager: Alex Fernandes | Lighting Design by Sherry Coenen | Produced by Beckie Darlington | *Poster Image by Julian Martinez Milla*<br>Supported using public funding by the National Lottery through Arts Council England. An OvalHouse commission. Made with support from Basement Brighton, Cambridge Junction + Norwich Arts Centre as part of East By South East.       
+Written + performed by Christopher Brett Bailey | Dramaturg: Anne Rieger | Musicians: George Percy, Alicia Jane Turner + Apollo | Lighting Designer: Sherry Coenen | Production Manager: Alex Fernandes | Producer: Beckie Darlington*<br>An OvalHouse commission. Supported using public funding by the National Lottery through Arts Council England. Made with support from Basement Brighton, Cambridge Junction + Norwich Arts Centre through East By South East.       
         
 ####Websites        
 <http://christopherbrettbailey.com> | [@ct_bailey](http://twitter.com/ct_bailey)
