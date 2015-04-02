@@ -20,12 +20,12 @@ header_image: "header_hartley.jpg"
 *Presented by* Word of Warning*,* Divergency *+* Sustained Theatre Up North        
            
 ####In Brief     
-A woman makes a decision that will change her family's history and the course of their future. Five decades later her granddaughter reflects on the consequences, retracing Matilda's journey to discover how it has shaped her own.        
+A woman makes a decision that will change her family's history and the course of their future. Five decades later her granddaughter reflects on the con-sequences, retracing Matilda's journey to discover how it has shaped her own.        
           
 ####Venue + Booking Details    
 Date: Thursday 25 June 2015, 7.30pm              
-[Venue: STUN Studio at Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA 
-[Tickets: £5/3](http://www.z-arts.org/see-whats-on) | Please note there is a limited capacity. 
+[Venue: STUN Studio at Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA          
+[Tickets: £5/3](http://www.z-arts.org/see-whats-on) | Please note there is a limited capacity.         
 Box Office Tel: 0161 232 6089 
 
 ####Access Information      
@@ -39,10 +39,10 @@ Weaving together storytelling, spoken word, dubpoetry, live art, autobiography, 
 Devised through extensive training in the s.o.r.p.l.u.s.i methodology at the YEMOYA international artist residency (Jamaica) by internationally acclaimed dub poet, monodramatist and educator d'bi young anitafrika. YEMOYA is an international artist residency committed to the holistic development of people; s.o.r.p.l.u.s.i is an acronym of the eight core principles of the methodology which are self-knowledge, orality, rhythm, political content + context, language, urgency, sacredness, integrity.       
         
 ####Who is she?    
-An interdisciplinary performance artist, she works within the mediums of devised theatre, performance, live art, video installation, photography, spoken word, site specific and durational performance; her work is often autobiographical and concerned with memory, identity, communication and human relationships. Ria has taught as an associate lecturer at Falmouth University since 2010.           
+An interdisciplinary performance artist, Ria works within the mediums of devised theatre, performance, live art, video installation, photography, spoken word, site specific and durational performance; her work is often autobiographical and concerned with memory, identity, communication and human relationships. She has been an associate lecturer at Falmouth University since 2010.           
            
 ####Credits         
-Writer + performer: Ria Hartley | Training + methodology: d’bi young anitafrika | Additional dramaturgy: Misri Dey | Additional direction: Leo Kay<br>Initial creation + development supported by Arts Council England + National Lottery Heritage Fund; further developed with support of the SOLO Contemporary Performance Forum + Apples and Snakes.         
+Writer + performer: Ria Hartley | Training + methodology: d’bi young anitafrika | Additional dramaturgy: Misri Dey | Additional direction: Leo Kay<br>Initial creation and development supported by Arts Council England + National Lottery Heritage Fund; further developed with support of the SOLO Contemporary Performance Forum + Apples and Snakes.         
          
 ####Websites    
 [www.riahartley.com](http://www.riahartley.com/matildaandme) | [@RiaJadeHartley](http://twitter.com/RiaJadeHartley)
