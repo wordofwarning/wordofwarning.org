@@ -25,7 +25,7 @@ See his [trailer one](http://youtu.be/-Tfv1UVH4wo) + [trailer two](http://youtu.
         
 ####Venue + Booking Details    
 Dates: Tuesday 5 + Wednesday 6 May 2015, 8pm         
-[Venue: Contact (space 2)](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA        
+[Venue: Contact (space 1)](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA        
 [Tickets: £11/7](http://contactmcr.com/whats-on/35093-fs15-christopher-brett-bailey-this-is-how-we-die/booking) | Special offer: buy nine tickets + get your tenth free        
 Box Office Tel: 0161 274 0600         
         
