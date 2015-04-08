@@ -30,6 +30,7 @@ Box Office Tel: 0161 232 6089
 
 ####Access Information      
 With no interval, the performance lasts 1 hour. Age advisory: 14+      
+Spoken word, mainly English. For specific age and access information please email info@habarts.org or call 0161 232 6086.    
       
 ####More        
 "*Matilda is my Grandma. She migrated from Jamaica to England in 1962. Now all of her memories have faded. I need to remember for her, for me, for us…*"         
