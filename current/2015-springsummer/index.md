@@ -28,10 +28,11 @@ We don't want to put you off by talking labels – yes there'll be theatre, live
 >• *I have been a fan of Hazard for years but just discovered more of Word of Warning, signed up to the mailing list — my life has been improved since. Been to some amazing performance on your recommendation — thank you.*<br>• *Consistently finding, supporting and showcasing the most brilliant and beautiful experiences I have the priveledge to witness.*<br>• *Always pushing boundaries and testing the waters. An important part of Manchester's artistic make-up.*<br>• *Word of Warning's programme continues to intrigue and challenge me.*<br>• *Fantastic and innovative platform for live art and contemporary performance.*<br>• *Glad I'm on the mailing list, will definitely look more seriously at other stuff now!*        
         
 ####Who is Word of Warning?         
-My name's Tamsin Drury and I run an organisation called **[hÅb](/hab)**, which was greenroom's partner for over a decade. You might not know hÅb but you might know some of our events – like **Emergency** (Manchester's free marathon of live work with up to 40 shows over 3 venues) and **Hazard** (random sprees of eccentricity in Manchester's City Centre).
+My name's Tamsin Drury and I run an organisation called **[hÅb](/hab)**, which was greenroom's partner for over a decade. You might not know hÅb but you might know some of our events – like **Emergency** (Manchester's free marathon of live work now in its 16th year) and **Hazard** (biennial random sprees of eccentricity in Manchester's City Centre).
 
 I've been around a while, a really long while… and in that time, I've been responsible for making the Arndale Tower flash, wrapping Cathedral Gardens in 7km of hazard tape and encouraging a mass audience conga and a glitter-cannon Hallelujah chorus! On the less eccentric side, over the years hÅb has also worked with literally hundreds of young NW artists to help them create new pieces of theatre + dance.
           
 Please send programming enquiries to me at <mailto:info@habarts.org>             
 
-I'm joined in this lunacy by John Franklin, greenroom's long time programme co-ordinator. Often spotted in a hat or proffering a variety of bizarre refresh-ments, John is the friendly face greeting you and eliciting your feedback at many of our events.
+I'm joined in this lunacy by John Franklin, greenroom's long time programme co-ordinator. Often spotted in a hat or proffering a variety of bizarre refresh-ments, John is the friendly face greeting you and eliciting your feedback at many of our events.  We are also grateful for the support of a growing band of current and former interns - to date Tom Burford, Afreena Islam , Catherine Shaw and Jamil Keating.    
+
