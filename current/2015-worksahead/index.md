@@ -30,7 +30,7 @@ Our annual sampler of what's next in contemporary performance and live art — p
         
 ####Venue + Booking Details
 Dates: Friday 24 + Saturday 25 April 2015, 8pm (Double Bill)        
-[Venue: Contact](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA            
+[Venue: Contact (space 2)](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA            
 [Tickets: £6/3](http://contactmcr.com/whats-on/35092-works-ahead-2015/booking) | Special offer: buy nine tickets + get your tenth free            
 Box Office Tel: 0161 274 0600        
         
