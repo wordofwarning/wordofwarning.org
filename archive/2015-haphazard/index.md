@@ -22,6 +22,8 @@ Intriguing images and offbeat oddities dotted around the historic Z-arts' buildi
                        
 Playful, quirky, engaging and sometimes plain daft: this is a day for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out! *Turn up at any time and come and go as you please.*                  
                        
+Now it's all over, see our Haphazard [image gallery](/gallery/2015-hapahazard).       
+        
 ####Venue + Booking Details
 Date: Saturday 28 February 2015, 12noon-4pm    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
@@ -42,6 +44,8 @@ Anonymous | Leo Burtin | Liz Clarke | Josh Coates | Robert Foster | Lani Irving 
 >• *Great! Everyone was energetic & friendly — very easy to interact with!*<br>• *Suitably crazy & surreal for children and their grown-ups*.<br>• *Really enjoyed the event and it's particularly nice to experience something a bit different, especially as adults, it is quite eye-popping…*<br>[2013 Audience Feedback](/archive/2013-spring/haphazard)         
         
 ####Access Information    
-Haphazard 2015 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some parts of the building are not wheelchair accessible. Age advisory: suitable for all. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.<br>† *Please sign-up on the day. Suitable for any age, this a 5 minute experience involving a one-to-one conversation with an adult — accompanying adults are more than welcome to join children if they would feel more comfortable, or to wait outside!*   
+Haphazard 2015 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some parts of the building are not wheelchair accessible. Age advisory: suitable for all. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
+         
+† *Please sign-up on the day. Suitable for any age, this a 5 minute experience involving a one-to-one conversation with an adult — accompanying adults are more than welcome to join children if they would feel more comfortable, or to wait outside!*   
 
 Above is the schedule as a guide (to download, right click and save image) — please be aware it IS Haphazard so things may change!
