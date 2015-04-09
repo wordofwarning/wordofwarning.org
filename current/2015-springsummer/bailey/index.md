@@ -30,7 +30,7 @@ Dates: Tuesday 5 + Wednesday 6 May 2015, 8pm
 Box Office Tel: 0161 274 0600         
         
 ####Access Information        
-Age advisory: 16+ With no interval, the show lasts approximately 75 minutes. English spoken word and loud music.    
+Age advisory: 16+ With no interval, the show lasts approximately 75 minutes. English spoken word and loud music. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
             
 ####Q&A        
 On Tuesday 5 May, following a short break, there will be a post-show talk.
@@ -38,7 +38,7 @@ On Tuesday 5 May, following a short break, there will be a post-show talk.
 ####More            
 A savage, surreal, and apocalyptic blend of spoken word, storytelling, caustic humour and gutter philosophy with echoes of Lenny Bruce, William Burroughs, beat poetry and B-movies. A blood-soaked love letter to the depraved, the depressed and the death-obsessed.       
        
-Winner of the [TBC Award at the Offies 2015](http://www.offwestend.com/index.php/news/view/213) and Arches Brick Award 2014.         
+Winner of the [TBC Award at the Offies 2015](http://www.offwestend.com/index.php/news/view/213) + Arches Brick Award 2014.         
         
 ####Who is he?     
 A performer, writer and theatre-maker, Christopher is an associate artist of Made In China — touring to [Word of Warning](/archive/2012-autumnwinter/madeinchina), nationally and internationally; he has also worked with BBC R4, Unicorn Theatre and collaborated with artists Andy Field, Mamoru Iriguchi, Glen Neath, Hannah Ringham and the late, great Ken Campbell. As a musician/composer, Christopher is one half of ambient classical duo Moon Ate the Dark and leader of experimental guitar quartet This Machine Won't Kill Fascists But It Might Get You Laid.          
