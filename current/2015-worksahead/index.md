@@ -24,7 +24,7 @@ Our annual sampler of what's next in contemporary performance and live art — p
 
 2015 sees new works in development by two young male artists, questioning manliness in this digitised, disembodied, discombobulated era:        
           
-**Nathan Birkinshaw**'s *How I Lost The Will To Live (& Why You Should Too)* is a coming of age story for a hyper-connected world.        
+**Nathan Birkinshaw**'s *How I Lost The Will To Live (& Why You Should Too)* is a coming of age story for a hyper-connected world, and;        
         
 **Jamil Keating**'s *Affected*. Or the confessions of a Marxist poseur…          
         
@@ -40,4 +40,4 @@ Box Office Tel: 0161 274 0600
 >• *…creates a safe space from within which artists and audiences can develop.*          
         
 ####Credits         
-[Works Ahead](/hab/worksahead) 2015 is commissioned by hÅb + co-produced with Contact; supported using public funding through Arts Council England + funded by Manchester City Council.
+[Works Ahead](/hab/worksahead) 2015 is commissioned by hÅb + co-produced with Contact; supported using public funding by Arts Council England + funded by Manchester City Council.
