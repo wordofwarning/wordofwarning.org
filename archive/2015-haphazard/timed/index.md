@@ -56,5 +56,5 @@ A performance-maker who blurs the boundaries between reality and dreamscape, Liz
 ![My Inflatable One](Liz-Clarke.jpg)         
 <small>Image Credit: Toaster in the Bath</small>  		
 		
-####There's also [Ongoing Activity from 12noon to 4pm](/current/2015-haphazard/ongoing):		
+####There's also [Ongoing Activity from 12noon to 4pm](/archive/2015-haphazard/ongoing):		
 Anonymous | Leo Burtin | Josh Coates | Lani Irving | Peter Jacobs | Julieann O'Malley† | Natasha Patel | Ultra Violets
