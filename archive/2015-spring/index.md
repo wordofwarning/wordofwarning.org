@@ -6,7 +6,7 @@ rootpath: "../../"
 is_index: true
 
 ---
-*Eclectically [higgledy-piggledy](/current/2015-haphazard) with something for everyone — from an [intense tale of family ties](/current/2015-spring/cade) (*now sold-out*) to an [equine evening](/current/2015-spring/vandecruys), by way of a [cuckoo in the nest](/current/2015-spring/thomas) + a '[right nice caff](/current/2015-spring/h&d)'! Oh, and a [seventh round of physical exuberance](/current/2015-turn)…*               
+*Eclectically [higgledy-piggledy](/archive/2015-haphazard) with something for everyone — from an [intense tale of family ties](/archive/2015-spring/cade) (*now sold-out*) to an [equine evening](/archive/2015-spring/vandecruys), by way of a [cuckoo in the nest](/archive/2015-spring/thomas) + a '[right nice caff](/archive/2015-spring/h&d)'! Oh, and a [seventh round of physical exuberance](/archive/2015-turn)…*               
                 
 We look forward to seeing you at some or all of it; if you want to check out what happened last season, have a look at our [Autumn/Winter 2014 archive](/archive/2014-autumnwinter).        
         
@@ -33,4 +33,4 @@ I've been around a while, a really long while… and in that time, I've been res
           
 Please send programming enquiries to me at <mailto:info@habarts.org>             
 
-I'm joined in this lunacy by John Franklin, greenroom's long time programme co-ordinator. Often spotted in a hat or proffering a variety of bizarre refresh-ments, John is the friendly face greeting you and eliciting your feedback at many of our events.
+I'm joined in this lunacy by John Franklin, greenroom's long time programme co-ordinator. Often spotted in a hat or proffering a variety of bizarre refresh-ments, John is the friendly face greeting you and eliciting your feedback at many of our events. We are also grateful for the support of a growing band of current and former interns — to date Tom Burford, Afreena Islam, Catherine Shaw + Jamil Keating.
