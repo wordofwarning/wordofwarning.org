@@ -32,17 +32,16 @@ Tickets: £5/3, can be booked online; a fee applies.
 Enquiries Tel: 0161 232 6086 (Leave a message + we'll get back to you.)          
         
 ####Access Information         
-A sited event taking place outside in the form of a walking tour; with no interval, each performance lasts approximately 40 minutes for a maximum audience of twenty people. Age advisory: 6+ (contains some adult themes). 
-For specific age and access information please email info@habarts.org or call 0161 232 6086.   If you are a wheelchair user planning to come we'd really appreciate it if you could contact us in advance so we can ensure the route is accessible.     
+A sited event taking place outside in the form of a walking tour; with no interval, each show lasts approximately 40 minutes for a maximum audience of twenty. Age advisory: 6+ (contains some adult themes).<br>For specific age and access information please email info@habarts.org or call 0161 232 6086. If you are a wheelchair user planning to come we'd really appreciate it if you could contact us in advance so we can ensure the route is accessible.     
          
 ####More         
-Last seen [as a marvellous pair of legs during our opening season](/archive/2012-springsummer/marshman), we now find Tom Marshman thinking about Bambi — this iconic Disney film, responsible for twists and turns in his life, is also a curious filter through which to look back… Premiered at Latitude Festival 2013, Tom has worked with Christopher Green, Dickie Beau, Brenda Waite, Laura Dannequin, Steve Nice, Karen Christopher and costume designer David Curtis-Ring to create *We Need To Talk About Bambi*.        
+Last seen [as a marvellous pair of legs during our opening season](/archive/2012-springsummer/marshman), we now find Tom Marshman thinking about Bambi — this iconic Disney film, responsible for twists and turns in his life, is also a curious filter through which to look back… Premiered at Latitude Festival in 2013, Tom has worked with Christopher Green, Dickie Beau, Brenda Waite, Laura Dannequin, Steve Nice, Karen Christopher and costume designer David Curtis-Ring to create *…Bambi*.        
         
 ####Who is he       
-A performance artist, Tom Marshman actively encourages a dialogue with audiences and participants — aiming to create a 
-safe space to share their thoughts and experiences; the results give very evocative authentic glimpses into everyday things. To date the purpose of Tom's work has been to address issues that are often considered as mundane or commonplace; his work celebrates everyday domestic objects, exploring what is often taken for granted.       
+A performance artist, Tom actively encourages a dialogue with audiences and participants — aiming to create a 
+safe space to share their thoughts and experiences; the results give very evocative authentic glimpses into everyday things. To date, the purpose of Tom's work has been to address issues that are often considered as mundane or commonplace; his work celebrates everyday domestic objects, exploring what is often taken for granted.       
          
-Making performance for over ten years, he has created over twenty projects in a wide range of mediums including performance, photography, installation, publication + film; and showing work at venues/festivals including Arnolfini (Bristol), Basement Brighton, Battersea Arts Centre, Bristol Old Vic, Chapter Arts Centre (Cardiff), Colchester Arts Centre, Exeter Phoenix, In Between Time (Bristol), National Review of Live Art (Glasgow), Oval House (London) + White Nights.          
+Making performance for over ten years, he has created over twenty projects in a wide range of mediums including performance, photography, installation, publication and film — showing work at venues/festivals including Arnolfini (Bristol), Basement Brighton, Battersea Arts Centre, Bristol Old Vic, Chapter Arts Centre (Cardiff), Colchester Arts Centre, Exeter Phoenix, In Between Time (Bristol), National Review of Live Art, Ovalhouse (London) + White Nights.          
           
 ####What people have said about Tom         
 >*One of the most exciting things about Marshman's work is his ability to pick a seemingly small subject and peel back the layers to expose something unexpectedly profound…*<br>Big Issue          
