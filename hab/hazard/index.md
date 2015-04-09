@@ -23,4 +23,4 @@ So far we've wrapped Cathedral Gardens in fluttering hazard tape, pitted togethe
                  
 Enquiries: <mailto:hazard@habarts.org> ¦ <http://hazardmcr.org> ¦ #HazardMcr       
           
-Hazard 2014 was presented by Word of Warning; produced by hÅb + The Larks in collaboration with the participating artists; supported using public funding through Arts Council England, funded by Manchester City Council, supported by Royal Exchange Theatre; a greenroom legacy project.
+[Hazard 2014](/archive/2014-hazard) was presented by Word of Warning; produced by hÅb + The Larks in collaboration with the participating artists; supported using public funding by Arts Council England, funded by Manchester City Council + supported by Royal Exchange Theatre; a greenroom legacy project.
