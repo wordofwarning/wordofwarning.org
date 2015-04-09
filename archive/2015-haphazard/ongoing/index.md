@@ -71,5 +71,5 @@ Can **your** ideas help the Queen save her bees?
 [@JulieannOMalley](http://twitter.com/JulieannOMalley)       
 ![Queen Bee](bee.jpg)        
         
-####There's also [Timed Activity between 12noon & 4pm](/current/2015-haphazard/timed):		
+####There's also [Timed Activity between 12noon & 4pm](/archive/2015-haphazard/timed):		
 Rachel Ramchurn | Robert Foster | Levantes Dance Theatre | Liz Clarke
