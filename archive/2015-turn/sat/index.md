@@ -84,5 +84,5 @@ Made possible by a Dance and the Homemade Commission from Chisenhale Dance Space
 **Mixed Movement** (from about 10pm, ends by 11.30pm)          
 Dance and live music combine, New York-style. The brainchild of dancer, theatre artist and poet DawN Crandell, Mixed Movement gives dancers and musicians a chance to improvise, celebrate and show off their skills.        
         
-####[Appearing on the First Night: Friday 27 March](/current/2015-turn/fri)         
+####[Appearing on the First Night: Friday 27 March](/archive/2015-turn/fri)         
 Adam Russell | Ebony-Rose + Lorienne Aimée | Joshua Hubbard | Lo-Giudice Dance | Peter Grist + Company | Rachel Sweeney | Sophie Unwin<br>*Maelstrom Theatre no longer appear due to illness*
