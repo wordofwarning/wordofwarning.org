@@ -35,7 +35,7 @@ Venue Tel: 0161 232 6089
 ####More    
 [Haphazard 2013](/archive/2013-spring/haphazard) filled Z-arts to the brim — moving musical sculptures; a bouncy, squeaky, ping-pong dance; an underground labyrinth (only for the brave!) — why not join us to see what 2015 will conjure?
                        
-Haphazard 2015 features [ongoing](/current/2015-haphazard/ongoing) + [timed](/current/2015-haphazard/timed) activity from (*subject to change*):                         
+Haphazard 2015 features [ongoing](/archive/2015-haphazard/ongoing) + [timed](/archive/2015-haphazard/timed) activity from (*subject to change*):                         
 Anonymous | Leo Burtin | Liz Clarke | Josh Coates | Robert Foster | Lani Irving | Peter Jacobs | Levantes Dance Theatre | Julieann O'Malley† | Natasha Patel | Rachel Ramchurn | Ultra Violets                         
                        
 ####What people have said about Haphazard        
@@ -44,6 +44,4 @@ Anonymous | Leo Burtin | Liz Clarke | Josh Coates | Robert Foster | Lani Irving 
 ####Access Information    
 Haphazard 2015 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some parts of the building are not wheelchair accessible. Age advisory: suitable for all. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.<br>† *Please sign-up on the day. Suitable for any age, this a 5 minute experience involving a one-to-one conversation with an adult — accompanying adults are more than welcome to join children if they would feel more comfortable, or to wait outside!*   
 
-Below is the schedule as a guide - please be aware it IS Haphazard so things may change!    
-![Haphazard 2015 schedule](Hap-sched.jpg)    
-
+Above is the schedule as a guide (to download, right click and save image) — please be aware it IS Haphazard so things may change!
