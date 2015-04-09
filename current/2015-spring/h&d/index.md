@@ -33,9 +33,9 @@ Special Offer: during Unhappy Hour (6.30pm-7.30pm) enjoy pre-show 2-for-1 drinks
 A hub for [SICK! Festival](http://www.sickfestival.com/programme/channel/manchester), the café is in Gateway House on the Station Approach to Manchester Piccadilly, between Ian Allen Bookshop and Chopstix.          
         
 ####Special Events Timetable for 11 — 25 March          
-<small>Please right-click to download image | WEEK 1: 5 — 8 March | WEEK 2: 11 — 15 March | WEEK 3: 18 — 22 March<br>**N.B.** Eirini Kartsaki now Sat 14 Mar with "You-Do-It" Sun 15 Mar | Krissi Musiol also appears Wed 18 Mar, 3.30-5.30pm</small>        
+<small>Please right-click to download image | WEEK 1: 5 — 8 March | WEEK 2: 11 — 15 March | WEEK 3: 18 — 22 March<br>**N.B.** Eirini Kartsaki now Sat 14 Mar, with "You-Do-It" Sun 15 Mar | Krissi Musiol also appears Wed 18 Mar, 3.30-5.30pm</small>        
 ![Timetable](H-D-timetable.jpg)        
-Read Dani Abulhawa's thoughts on [WEEK 1](http://wordofwarning.posthaven.com/warnmcr-week-one-at-hunt-and-darton-cafe) and [WEEK 2.](http://wordofwarning.posthaven.com/warnmcr-week-two-at-hunt-and-darton-cafe)    
+Read Dani Abulhawa's thoughts on [WEEK 1](http://wordofwarning.posthaven.com/warnmcr-week-one-at-hunt-and-darton-cafe) + [WEEK 2](http://wordofwarning.posthaven.com/warnmcr-week-two-at-hunt-and-darton-cafe).    
      
           
 ####More   
@@ -56,12 +56,12 @@ Deriving from shared celebrations and anxieties surrounding life choices particu
                       
 Hunt & Darton are associate artists at Artsadmin + Cambridge Junction.
                       
-####What people have said about them         
+####What people have said about *Hunt & Darton Cafe*         
 >*…a pop-up establishment of disarming eccentricity.*<br>[Lyn Gardner, The Guardian](http://www.theguardian.com/culture/2012/aug/27/edinburgh-festival-2012-highlights)                  
 >*In a Fringe swimming with comedians, Shakespeare adaptations, improv comedy and BBC recordings, Hunt & Darton Cafe made its mark as something truly alternative.*<br>Three Weeks, presenting the Editors awards 2012           
 >*A uniquely delicious art installation.*<br>Varsity               
         
-Online articles about H&D Cafe Manchester have appeared in [Manchester Confidential](http://www.manchesterconfidential.co.uk/Food-and-Drink/Food-and-Drink-Retail/NEW-Hunt-And-Darton-Art-Caf-Piccadilly) ([twice](http://www.manchesterconfidential.co.uk/Entertainment-and-Sport/Events-and-Listings/Things-To-Do-This-Weekend-Fri-6-Sun-9-Mar)), [Manchester Wire](http://manchesterwire.co.uk/#!/manchester-food-drink-round-up-ft-hunt-darton-koffee-pot-cook-manchester) + [The Skinny NW](http://www.theskinny.co.uk/food-and-drink/news/northwest-food-news-march-2015).        
+Online articles about *H&D Cafe Manchester* have appeared in [Manchester Confidential](http://www.manchesterconfidential.co.uk/Food-and-Drink/Food-and-Drink-Retail/NEW-Hunt-And-Darton-Art-Caf-Piccadilly) ([twice](http://www.manchesterconfidential.co.uk/Entertainment-and-Sport/Events-and-Listings/Things-To-Do-This-Weekend-Fri-6-Sun-9-Mar)), [Manchester Wire](http://manchesterwire.co.uk/#!/manchester-food-drink-round-up-ft-hunt-darton-koffee-pot-cook-manchester) + [The Skinny NW](http://www.theskinny.co.uk/food-and-drink/news/northwest-food-news-march-2015). Read reviews from [Total Theatre](http://totaltheatre.org.uk/hunt-darton-hunt-darton-cafe) + [Vice/Munchies](http://munchies.vice.com/articles/this-cafe-serves-sandwiches-with-a-side-of-poetry).        
         
 ####Credits    
 Supported using public funding by the National Lottery through Arts Council England on a Strategic Tour. Hunt & Darton Cafe Manchester is commissioned by SICK! Festival + presented in association with Word of Warning.      
