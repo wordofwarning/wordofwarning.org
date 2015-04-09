@@ -30,7 +30,7 @@ Dates: Tuesday 5 + Wednesday 6 May 2015, 8pm
 Box Office Tel: 0161 274 0600         
         
 ####Access Information        
-Age advisory: 16+  With no interval, the show lasts approximately 75 minutess. English spoken word and loud music.    
+Age advisory: 16+  With no interval, the show lasts approximately 75 minutes. English spoken word and loud music.    
             
 ####Q&A        
 On Tuesday 5 May, following a short break, there will be a post-show talk.
@@ -41,7 +41,7 @@ A savage, surreal, and apocalyptic blend of spoken word, storytelling, caustic h
 Winner of the [TBC Award at the Offies 2015](http://www.offwestend.com/index.php/news/view/213) and Arches Brick Award 2014.         
         
 ####Who is he?     
-A performer, writer and theatre-maker, Christopher is an associate artist of Made In China — touring to [Word of Warning](/archive/2012-autumnwinter/madeinchina), nationally and internationally; he has also worked with BBC R4, Unicorn Theatre and collaborated with artists Andy Field, Mamoru Iriguchi, Glen Neath, Hannah Ringham and the late, great Ken Campbell. As a musician/composer, Christopher is ½ of ambient classical duo Moon Ate the Dark and leader of experimental guitar quartet This Machine Won't Kill Fascists But It Might Get You Laid.          
+A performer, writer and theatre-maker, Christopher is an associate artist of Made In China — touring to [Word of Warning](/archive/2012-autumnwinter/madeinchina), nationally and internationally; he has also worked with BBC R4, Unicorn Theatre and collaborated with artists Andy Field, Mamoru Iriguchi, Glen Neath, Hannah Ringham and the late, great Ken Campbell. As a musician/composer, Christopher is one half of ambient classical duo Moon Ate the Dark and leader of experimental guitar quartet This Machine Won't Kill Fascists But It Might Get You Laid.          
          
 ####What people have said about *THIS IS HOW WE DIE*        
 >5\* *…a bushel of cruel wit and bodily fluids. If gonzo journalism ever needed a news anchor, this would be the guy.*<br>[Exeunt](http://exeuntmagazine.com/reviews/this-is-how-we-die)        
