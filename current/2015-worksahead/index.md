@@ -24,7 +24,7 @@ Our annual sampler of what's next in contemporary performance and live art — p
 
 2015 sees new works in development by two young male artists, questioning manliness in this digitised, disembodied, discombobulated era:        
           
-**Nathan Birkinshaw**'s *How I Lost The Will To Live (& Why You Should Too)* is a coming of age story for a hyper-connected world, and;        
+**Nathan Birkinshaw**'s *How I Lost The Will To Live (& Why You Should Too)* is a coming of age story for a hyper-connected world; and,        
         
 **Jamil Keating**'s *Affected*. Or the confessions of a Marxist poseur…          
         
