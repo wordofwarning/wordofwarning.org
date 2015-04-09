@@ -24,4 +24,4 @@ The second Works Ahead took place in **May 2013**, once more at Contact, with a 
        
 The third Works Ahead took place **8+9 May 2014** at Contact, with a triple-bill of work that delved into the mindset of the performer from Lindsay Bennett, Paul O'Donnell + SheepKnuckle… See the [programme](/archive/2014-worksahead) + [image gallery](/galleries/2014-woah).        
         
-Our **[fourth Works Ahead](/current/2015-worksahead)** takes place **24+25 April 2015** at Contact, with a double-bill from Nathan Birkinshaw + Jamil Keating, two young male artists questioning manliness in this digitised, disembodied, discombobulated era.
+Our **[fourth Works Ahead](/current/2015-worksahead)** takes place **24+25 April 2015** at Contact, with a double-bill from Nathan Birkinshaw + Jamil Keating: two young male artists questioning manliness in this digitised, disembodied, discombobulated era.
