@@ -22,7 +22,7 @@ Intriguing images and offbeat oddities dotted around the historic Z-arts' buildi
                        
 Playful, quirky, engaging and sometimes plain daft: this is a day for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out! *Turn up at any time and come and go as you please.*                  
                        
-Now it's all over, see our Haphazard [image gallery](/gallery/2015-hapahazard).       
+Now it's all over, see our [Haphazard image gallery](/gallery/2015-haphazard).       
         
 ####Venue + Booking Details
 Date: Saturday 28 February 2015, 12noon-4pm    
