@@ -30,7 +30,7 @@ Dates: Tuesday 5 + Wednesday 6 May 2015, 8pm
 Box Office Tel: 0161 274 0600         
         
 ####Access Information        
-Age advisory: 16+   With no interval, the show lasts approximately 75 minutes. English spoken word and loud music.    
+Age advisory: 16+ With no interval, the show lasts approximately 75 minutes. English spoken word and loud music.    
             
 ####Q&A        
 On Tuesday 5 May, following a short break, there will be a post-show talk.
