@@ -63,4 +63,4 @@ We are pleased to count among our other friends + regular partners:
 [Work for Change](http://change.coop)   
 [Z-arts](http://www.z-arts.org)    
        
-hÅb is supported using public funding through [Arts Council England](http://www.artscouncil.org.uk), and is funded by Manchester City Council through the [Manchester Cultural Partnership](http://www.manchesterculturalpartnership.org).
+hÅb is supported using public funding by [Arts Council England](http://www.artscouncil.org.uk) + funded by Manchester City Council through the [Manchester Cultural Partnership](http://www.manchesterculturalpartnership.org).
