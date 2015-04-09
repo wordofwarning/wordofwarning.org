@@ -46,7 +46,7 @@ A review of some of the work presented at Z-arts by [The Mancunion](http://mancu
 Emergency 2014 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. Largely adult-focussed, some works will not be suitable for younger viewers (i.e. under 18s) from 3pm. We apologise but most of the of one-to-ones are not wheelchair accessible. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
             
 ####Credits         
-[Emergency](/hab/emergency) 2014 is produced by [hÅb](/hab); supported using public funding through Arts Council England, funded by Manchester City Council, supported by [STUN](http://stunlive.com) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.        
+[Emergency](/hab/emergency) 2014 is produced by [hÅb](/hab); supported using public funding by Arts Council England, funded by Manchester City Council, supported by [STUN](http://stunlive.com) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.        
         
 ####Websites
 <http://emergencymcr.org> ¦ [Facebook event](http://www.facebook.com/events/764404806955224) ¦ [#EmergencyMcr](http://twitter.com/hashtag/EmergencyMcr)
