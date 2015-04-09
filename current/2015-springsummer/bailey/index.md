@@ -21,7 +21,7 @@ header_image: "header_cbb1.jpg"
 ####In Brief      
 Tales of paranoia, young love and ultra-violence in a spiralling odyssey of pitch-black humour and nightmarish prose. A prime slice of surrealist trash, an Americana death trip and a dizzying exorcism for a world convinced it is dying.        
         
-See his [trailer one](http://youtu.be/-Tfv1UVH4wo) + [trailer two](http://youtu.be/N3K2mqQsmDk).              
+See his [first](http://youtu.be/-Tfv1UVH4wo) + [second trailer](http://youtu.be/N3K2mqQsmDk).              
         
 ####Venue + Booking Details    
 Dates: Tuesday 5 + Wednesday 6 May 2015, 8pm         
@@ -30,17 +30,18 @@ Dates: Tuesday 5 + Wednesday 6 May 2015, 8pm
 Box Office Tel: 0161 274 0600         
         
 ####Access Information        
-With no interval, the show lasts approximately 75mins. Age advisory: 16+  
-English spoken word and loud music.    
+Age advisory: 16+  With no interval, the show lasts approximately 75 minutess. English spoken word and loud music.    
             
 ####Q&A        
 On Tuesday 5 May, following a short break, there will be a post-show talk.
         
 ####More            
-A savage, surreal, and apocalyptic blend of spoken word, storytelling, caustic humour and gutter philosophy with echoes of Lenny Bruce, William Burroughs, beat poetry and B-movies. A blood-soaked love letter to the depraved, the depressed and the death-obsessed. [Winner of the TBC Award at the Offies 2015](http://www.offwestend.com/index.php/news/view/213) and the Arches Brick Award 2014.         
+A savage, surreal, and apocalyptic blend of spoken word, storytelling, caustic humour and gutter philosophy with echoes of Lenny Bruce, William Burroughs, beat poetry and B-movies. A blood-soaked love letter to the depraved, the depressed and the death-obsessed.       
+       
+Winner of the [TBC Award at the Offies 2015](http://www.offwestend.com/index.php/news/view/213) and Arches Brick Award 2014.         
         
 ####Who is he?     
-A performer, writer + theatre-maker, Christopher is an associate artist of Made In China, touring to [Word of Warning](/archive/2012-autumnwinter/madeinchina), nationally and internationally — he has also worked with BBC R4, Unicorn Theatre and collaborated with artists Andy Field, Mamoru Iriguchi, Glen Neath, Hannah Ringham and the late, great Ken Campbell. As a musician/composer Chris is ½ of ambient classical duo Moon Ate the Dark and leader of experimental guitar quartet This Machine Won't Kill Fascists But It Might Get You Laid.          
+A performer, writer and theatre-maker, Christopher is an associate artist of Made In China — touring to [Word of Warning](/archive/2012-autumnwinter/madeinchina), nationally and internationally; he has also worked with BBC R4, Unicorn Theatre and collaborated with artists Andy Field, Mamoru Iriguchi, Glen Neath, Hannah Ringham and the late, great Ken Campbell. As a musician/composer, Christopher is ½ of ambient classical duo Moon Ate the Dark and leader of experimental guitar quartet This Machine Won't Kill Fascists But It Might Get You Laid.          
          
 ####What people have said about *THIS IS HOW WE DIE*        
 >5\* *…a bushel of cruel wit and bodily fluids. If gonzo journalism ever needed a news anchor, this would be the guy.*<br>[Exeunt](http://exeuntmagazine.com/reviews/this-is-how-we-die)        
@@ -48,7 +49,7 @@ A performer, writer + theatre-maker, Christopher is an associate artist of Made 
 >4\* *[A] blisteringly brilliant monologue, a surreal and mind-blowing odyssey…*<br>[Joyce McMillan, The Scotsman](http://www.wow247.co.uk/blog/2014/08/08/pretty-ugly-this-is-how-we-die-if-destroyed-still-true-karaoke)        
         
 ####Credits        
-Written + performed by Christopher Brett Bailey | Dramaturg: Anne Rieger | Musicians: George Percy, Alicia Jane Turner, CBB + Apollo | Lighting Designer: Sherry Coenen | Production Manager: Alex Fernandes | Producer: Beckie Darlington<br>An OvalHouse commission. Supported using public funding by the National Lottery through Arts Council England. Made with support from Basement Brighton, Cambridge Junction + Norwich Arts Centre as part of East By South East.       
+Written + performed by Christopher Brett Bailey | Musicians: George Percy, Alicia Jane Turner + Apollo | Dramaturg: Anne Rieger | Lighting Designer: Sherry Coenen | Production Manager: Alex Fernandes | Producer: Beckie Darlington<br>An Ovalhouse commission. Supported using public funding by the National Lottery through Arts Council England. Made with support from Basement Brighton, Cambridge Junction + Norwich Arts Centre as part of East By South East.       
         
 ####Websites        
 <http://christopherbrettbailey.com> | [@ct_bailey](http://twitter.com/ct_bailey)
