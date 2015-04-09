@@ -3,13 +3,16 @@
 layout: archive
 
 archived:
+    - {folder: "2015-spring", name: "Spring 2015", class: "s2015"}    
+    - {folder: "2015-turn", name: "Turn 2015", class: "t2015"}    
+    - {folder: "2015-haphazard", name: "Haphazard 2015", class: "hh2015"}    
     - {folder: "2014-autumnwinter", name: "Autumn/Winter 2014", class: "aw2014"}    
     - {folder: "2014-emergency", name: "Emergency 2014", class: "e2013"}    
-    - {folder: "2014-hazard", name: "Hazard 2014", class: "h2014"}    
     - {folder: "2014-springsummer", name: "Spring/Summer 2014", class: "ss2014"}    
+    - {folder: "2014-hazard", name: "Hazard 2014", class: "h2014"}    
     - {folder: "2014-worksahead", name: "Works Ahead 2014", class: "woah"}    
-    - {folder: "2014-turn", name: "Turn 2014", class: "t2014"}    
     - {folder: "2014-spring", name: "Spring 2014", class: "s2014"}
+    - {folder: "2014-turn", name: "Turn 2014", class: "t2014"}    
     - {folder: "2013-autumnwinter", name: "Autumn/Winter 2013", class: "aw2013"}
     - {folder: "2013-domestic", name: "Domestic (2013)", class: "dom"}
     - {folder: "2013-emergency", name: "Emergency 2013", class: "e2013"}
