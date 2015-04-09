@@ -9,12 +9,12 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: Turn 2015
-more_url: "../../current/2015-turn"
+more_url: "../../archive/2015-turn"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "Rachel Sweeney", show: "<small>Images copyright &copy;2015 Word of Warning</small>"}
-    -   {file: "pg1.jpg", artist: "Peter Grist"}
-    -   {file: "pg2.jpg", artist: "Peter Grist"}
+    -   {file: "titlepage.jpg", artist: "Rachel Sweeney", show: "<small>All images copyright &copy;2015 Word of Warning</small>"}
+    -   {file: "pg1.jpg", artist: "Peter Grist + Co"}
+    -   {file: "pg2.jpg", artist: "Peter Grist + Co"}
     -   {file: "jh1.jpg", artist: "Joshua Hubbard"}
     -   {file: "jh2.jpg", artist: "Joshua Hubbard"}
     -   {file: "su1.jpg", artist: "Sophie Unwin"}
@@ -25,7 +25,7 @@ gallery:
     -   {file: "ERLA2.jpg", artist: "Ebony-Rose + Lorienne Aimée"}
     -   {file: "AR1.jpg", artist: "Adam Russell"}
     -   {file: "AR2.jpg", artist: "Adam Russell"}
-    -   {file: "LoG.jpg", artist: "Lo Giudice"}
+    -   {file: "LoG.jpg", artist: "Lo-Giudice Dance"}
     -   {file: "TM1.jpg", artist: "™ Dance Company"}
     -   {file: "TM2.jpg", artist: "™ Dance Company"}
     -   {file: "Tang1.jpg", artist: "Tangled Dance Company"}
@@ -41,5 +41,4 @@ gallery:
     -   {file: "DW2.jpg", artist: "Dan Watson"}
     -   {file: "MM1.jpg", artist: "Mixed Movement"}
     -   {file: "MM2.jpg", artist: "Mixed Movement"}
-
 ---
