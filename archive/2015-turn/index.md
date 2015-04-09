@@ -21,6 +21,8 @@ show_size: 4
 ###[Friday 27](/archive/2015-turn/fri) + [Saturday 28](/archive/2015-turn/sat) March 2015, 7.30pm
 Pirouetting and spinning, twizzling and twirling, Turn lands at Contact for its fourth year… this two-day conflagration of the best new dance in town explodes into life, with some fifteen† new works taking over the whole building.           
         
+Now it's all over, see our [Turn image gallery](/galleries/2015-turn).
+        
 ####Venue + Booking Details
 Dates: Friday 27 + Saturday 28 March 2015, 7.30pm    
 [Venue: Contact](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA    
