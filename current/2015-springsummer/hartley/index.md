@@ -25,15 +25,14 @@ A woman makes a decision that will change her family's history and the course of
 ####Venue + Booking Details    
 Date: Thursday 25 June 2015, 7.30pm              
 [Venue: STUN Studio at Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA          
-[Tickets: £5/3](http://www.z-arts.org/see-whats-on) | Please note there is a limited capacity.         
+[Tickets: £5/3](http://www.z-arts.org/events/word-of-warning-ria-hartley) | Please note there is a limited capacity.         
 Box Office Tel: 0161 232 6089 
 
 ####Access Information      
-With no interval, the performance lasts 1 hour. Age advisory: 14+      
-Spoken word, mainly English. For specific age and access information please email info@habarts.org or call 0161 232 6086.    
+With no interval, the performance lasts 1 hour. Age advisory: 14+<br>Spoken word, mainly English. For specific age and access information please email info@habarts.org or call 0161 232 6086.    
       
 ####More        
-"*Matilda is my Grandma. She migrated from Jamaica to England in 1962. Now all of her memories have faded. I need to remember for her, for me, for us…*"         
+"*Matilda is my Grandma.<br>She migrated from Jamaica to England in 1962.<br>Now all of her memories have faded.<br>I need to remember for her, for me, for us…*"         
          
 Weaving together storytelling, spoken word, dubpoetry, live art, autobiography, and reggae music, this colourful and challenging performance offers a political viewpoint surrounding the lived experience of migration, colonialism, racism, and the current perception of British cultural identity. Performed solo, the piece is presented as a biographical mythology of Ria's lived experiences, reflecting poetically on the story of her and her Grandma, and the 2 islands they are from.       
           
