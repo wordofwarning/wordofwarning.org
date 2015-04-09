@@ -32,10 +32,10 @@ Tickets: £5/3, can be booked online; a fee applies.
 Enquiries Tel: 0161 232 6086 (Leave a message + we'll get back to you.)          
         
 ####Access Information         
-A sited event taking place outside in the form of a walking tour; with no interval, each show lasts approximately 40 minutes for a maximum audience of twenty. Age advisory: 6+ (contains some adult themes).<br>For specific age and access information please email info@habarts.org or call 0161 232 6086. If you are a wheelchair user planning to come we'd really appreciate it if you could contact us in advance so we can ensure the route is accessible.     
+A sited event taking place outside in the form of a walking tour; with no interval, each show lasts approximately 40 minutes for a maximum audience of twenty. Age advisory: 6+ (contains some adult themes). For specific age and access information please email info@habarts.org or call 0161 232 6086. If you are a wheelchair user planning to come we'd really appreciate it if you could contact us in advance so we can ensure the route is accessible.     
          
 ####More         
-Last seen [as a marvellous pair of legs during our opening season](/archive/2012-springsummer/marshman), we now find Tom Marshman thinking about Bambi — this iconic Disney film, responsible for twists and turns in his life, is also a curious filter through which to look back… Premiered at Latitude Festival in 2013, Tom has worked with Christopher Green, Dickie Beau, Brenda Waite, Laura Dannequin, Steve Nice, Karen Christopher and costume designer David Curtis-Ring to create *…Bambi*.        
+Last seen [as a marvellous pair of legs during our opening season](/archive/2012-springsummer/marshman), we now find Tom Marshman thinking about Bambi — this iconic Disney film, responsible for twists and turns in his life, is also a curious filter through which to look back… Premiered at Latitude Festival 2013, Tom has worked with Christopher Green, Dickie Beau, Brenda Waite, Laura Dannequin, Steve Nice, Karen Christopher and costume designer David Curtis-Ring to create *We Need To Talk…*.        
         
 ####Who is he       
 A performance artist, Tom actively encourages a dialogue with audiences and participants — aiming to create a 
