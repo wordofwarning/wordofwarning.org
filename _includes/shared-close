@@ -11,14 +11,14 @@
 				</div>
 				<div class="four columns">
 					<h4>Word of Warning</h4>
-					<p>Word of Warning is a <a href="{{ page.rootpath }}hab">hÅb</a> production.<br>A greenroom legacy project.</p>
+					<p>Word of Warning is a <a href="{{ page.rootpath }}hab">hÅb</a> production.</p>
 					<p>Tamsin Drury, hÅb<br>c/o Z-arts, 335 Stretford Road,<br>Manchester, M15 5ZA<br>0161 232 6086<br><a href="mailto:info@habarts.org">info@habarts.org</a><br><a href="http://twitter.com/WarnMcr/">@WarnMcr</a><br><a href="http://facebook.com/WarnMcr">facebook/WarnMcr</a></p>
 				</div>
 				<div class="four columns">
 					<h4>Credits</h4>
-					<p>With thanks to Z-arts, Manchester Digital Development Agency + Helen Palmer.</p>
-					<p>Word of Warning Spring 2015 is brought to you by hÅb — with Contact, Dance Manchester, The Lowry, SICK! Festival, University of Salford + Z-arts.</p>
-					<p><img src="{{page.rootpath}}assets/images/logos.png" alt="Supported using public funding through Arts Council England + funded by Manchester City Council."></p>
+					<p>With thanks to Z-arts + our board of advisors.</p>
+					<p>Spring/Summer 2015 is brought to you by hÅb — with Contact, Hulme Community Garden Centre, Divergency + STUN. </p>
+					<p><img src="{{page.rootpath}}assets/images/logos.png" alt="Supported using public funding by Arts Council England + funded by Manchester City Council."></p>
 				</div>
 			</div>
 			<div class="row">
