@@ -18,7 +18,7 @@ show_size: 4
 ---
 *Presented by* Word of Warning, Contact + Dance Manchester    
          
-###[Friday 27](/current/2015-turn/fri) + [Saturday 28](/current/2015-turn/sat) March 2015, 7.30pm
+###[Friday 27](/archive/2015-turn/fri) + [Saturday 28](/archive/2015-turn/sat) March 2015, 7.30pm
 Pirouetting and spinning, twizzling and twirling, Turn lands at Contact for its fourth year… this two-day conflagration of the best new dance in town explodes into life, with some fifteen† new works taking over the whole building.           
         
 ####Venue + Booking Details
@@ -45,7 +45,7 @@ Turn 2015 previewed in articles by [Creative Tourist](http://www.creativetourist
 Turn 2015 takes place in a number of different spaces and formats — some seated, some standing, some limited capacity, some participatory.<br>With intervals, both evenings last about 2½ hours; Saturday's Mixed Movement extends beyond this by another 1½ hours max.<br>Age advisory: 14+ (*parental discretion*). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.               
                           
 ####Credits         
-[Turn](/hab/turn) 2015 is co-produced by [hÅb](/hab), [Contact](http://contactmcr.com) + [Dance Manchester](http://www.digm.org); supported using public funding through Arts Council England + funded by Manchester City Council; a greenroom legacy project. | <small>Image: Levantes Dance Theatre, Turn 2014</small>        
+[Turn](/hab/turn) 2015 is co-produced by [hÅb](/hab), [Contact](http://contactmcr.com) + [Dance Manchester](http://www.digm.org); supported using public funding by Arts Council England + funded by Manchester City Council; a greenroom legacy project. | <small>Image: Levantes Dance Theatre, Turn 2014</small>        
         
 ####Websites        
 <http://turnmcr.org> | #TurnMcr
