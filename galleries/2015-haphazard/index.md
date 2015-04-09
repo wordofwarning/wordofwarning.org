@@ -9,7 +9,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: Haphazard 2015
-more_url: "../../current/2015-haphazard"
+more_url: "../../archive/2015-haphazard"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small>A free day out for the curious of all ages, click top left Haphazard for more.</small>", show: "<small>Images copyright &copy;2015 Word of Warning"}
