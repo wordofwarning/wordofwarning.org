@@ -35,8 +35,8 @@ Each piece lasts approx 30 mins with a 30 min interval during which the audience
 ![Affected](JamilKeatingWoAh15028.jpg)       
       
 ####Who is he?        
-Jamil Keating is an emerging theatre-maker, writer and performer.  *Affected* is his first full solo work, the first step in an artistic journey of trying to find the balance between being overwhelmed by perverse enthusiasm for the craziness of life, and trying to say something of substance about it… simply.    
-To date he has made small pieces for [Hazard](/archive/2014-hazard/ongoing/index.html) (as Tracey Lumpkin) and [Emergency](archive/2014-emergency/lunchtime/) and has been an artist in residence at the Whitworth Art Gallery.       
+Jamil Keating is an emerging theatre-maker, writer and performer.  *Affected* is his first full solo work, the first step in an artistic journey of trying to find the balance between being overwhelmed by perverse enthusiasm for the absurdity of life, and trying to say something of substance about it… simply.    
+To date he has made small pieces for [Hazard](/archive/2014-hazard/ongoing/index.html) (as Tracey Lumpkin) and [Emergency](archive/2014-emergency/lunchtime/) and has been an emerging artist in residence at the Whitworth Art Gallery.       
          
 ####Credits         
 Commissioned by hÅb, co-produced by Contact.  Project Mentor: Peader Kirk.        
