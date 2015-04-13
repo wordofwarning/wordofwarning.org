@@ -49,6 +49,6 @@ Commissioned by hÅb, co-produced with Contact.
 Project Mentor: Peader Kirk.     
 
 ####Website
-[nathanbirkinshaw.wordpress.com}(https://nathanbirkinshaw.wordpress.com)    
+[nathanbirkinshaw.wordpress.com](https://nathanbirkinshaw.wordpress.com)    
 [@NathBirkinshaw](http://twitter.com/NathBirkinshaw)    
 
