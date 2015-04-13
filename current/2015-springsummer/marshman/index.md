@@ -32,7 +32,7 @@ Tickets: £5/3, can be booked online; a 10% fee applies.
 Enquiries: 0161 232 6086 (please leave a message + we'll get back to you).          
         
 ####Access Information         
-Age advisory: 6+ (contains some adult themes). A sited event taking place outside in the form of a walking tour; with no interval, each show lasts approximately 40 minutes for a maximum audience of twenty. If you are a wheelchair user planning to come we'd really appreciate it if you could contact us in advance so we can ensure the route is accessible. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
+Age advisory: Primarily a show for adults, but children 6+ welcome (contains some adult themes). A sited event taking place outside in the form of a walking tour; with no interval, each show lasts approximately 40 minutes for a maximum audience of twenty. If you are a wheelchair user planning to come we'd really appreciate it if you could contact us in advance so we can ensure the route is accessible. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
          
 ####More         
 Last seen [as a marvellous pair of legs during our opening season](/archive/2012-springsummer/marshman), we now find Tom Marshman thinking about Bambi — this iconic Disney film, responsible for twists and turns in his life, is also a curious filter through which to look back… Premiered at Latitude Festival 2013, Tom has worked with Christopher Green, Dickie Beau, Brenda Waite, Laura Dannequin, Steve Nice, Karen Christopher and costume designer David Curtis-Ring to create *We Need To Talk About…* .        
