@@ -34,10 +34,10 @@ Box Office Tel: 0161 274 0600
         
 ####Access Information      
 Part of a double-bill of new performance in development both shown in Contact Space 2.  Mainly spoken English.     
-Each piece lasts approx 40 mins with a 30 min interval during which the audience will be asked to return to the bar. how duration  Age advisory: 16+.                   
+Each piece lasts approx 30 mins with a 30 min interval during which the audience will be asked to return to the bar. how duration  Age advisory: 16+.                   
  
 ####Who is he?    
-Nathan Birkinshaw is a performer and theatre-maker from Wakefield, creating work that’s honest and funny, with a mixed-media approach. He aims to pick out the absurdity in the notion of humanity and the crazy time were living in.     
+Nathan Birkinshaw is a performer and theatre-maker from Wakefield, creating work that’s honest and funny, with a mixed-media approach. He aims to pick out the absurdity in the notion of humanity and the crazy time we're living in.     
                                              
 >• *Smartly silly* - Donald Hutera (The Times).      
 >• *A mistake* - Mr + Mrs Birkinshaw.         
