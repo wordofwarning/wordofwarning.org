@@ -20,31 +20,34 @@ header_image: "header_birkinshaw.jpg"
 *Part of* Works Ahead 2015, *presented by* Word of Warning + Contact      
          
 ####In Brief                      
-In life, as on stage, Lindsay knows the importance of the grand entrance and the dramatic exit… but is everything in the middle just a show? And who, exactly, is she playing?       
-         
-####Venue + Booking Details, for Works Ahead
-Dates: Thursday 8 + Friday 9 May 2014, 7.30pm    
-[Venue: Contact](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA    
-[Tickets: £6/3](http://contactmcr.com/whats-on/13071-works-ahead-2014/booking) ¦ Special offer: buy ten tickets, get one free       
-Box Office Tel: 0161 274 0600        
-*The same programme is presented each evening, there is no two night pass.*        
+A coming of age story for a hyper-connected world.   
+A world convinced it's dying.   
+A world that's no longer good enough.    
+A world where it's not the length that matters, but what you do with it.   
+(Allergen information: may contain nuts, gluten, ketchup and cats.)     
        
-####Access Information      
-Part of a triple-bill of new performance, the three shows take place in different auditoria within Contact; audience members will be guided from show to show. Show duration 25mins; triple-bill duration (including intervals) approx 2hrs. Age advisory: 14+             
+####Venue + Booking Details, for Works Ahead
+Dates: Friday 24 + Saturday 25 April 2015, 8pm (Double Bill)        
+[Venue: Contact (space 2)](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA            
+[Tickets: £6/3](http://contactmcr.com/whats-on/35092-works-ahead-2015/booking) | Special offer: buy nine tickets + get your tenth free            
+Box Office Tel: 0161 274 0600        
         
-####More       
-When they make the film of your life, who will you cast in the lead role? Will you play yourself? What scenes will you discard? Which version of yourself will you choose to portray?    
-
-*Exit Smiling* is an unfinished story, with an absentee protagonist, performed by a series of remarkably similar stand-ins… because being forgotten is so much worse than death, don’t you think?    
-![Exit Smiling](lindsay2.jpg)    
-     
+####Access Information      
+Part of a double-bill of new performance in development both shown in Contact Space 2.  Mainly spoken English.     
+Each piece lasts approx 40 mins with a 30 min interval during which the audience will be asked to return to the bar. how duration  Age advisory: 16+.                   
+ 
 ####Who is she?    
-Lindsay is an actress and artist based in the north west, with a spectrum of performance diversity and history in Black Light Puppetry, Burlesque, theatre and screen acting. Her work is largely based on autobiographical experience and has been recognised in her approach to the cinematic and burlesquian aesthetic. *Exit Smiling* is her second solo show, having performed *6:41pm Mercury Complex* for [Emergency 2013](/archive/2013-emergency/z2).        
+Nathan Birkinshaw is a performer and theatre-maker from Wakefield, creating work that’s honest and funny, with a mixed-media approach. He aims to pick out the absurdity in the notion of humanity and the crazy time were living in.     
+>• *Smartly silly* - Donald Hutera (The Times).  
+>• *A mistake* - Mr + Mrs Birkinshaw.        
+
+ [Nathan Birkinshaw](NathanBirkinshawWoAh15007.jpg).        
         
 ####Credits         
-Commissioned by hÅb, co-produced by Contact, a greenroom legacy project.
+Commissioned by hÅb, co-produced with Contact.         
+Project Mentor: Peader Kirk.     
 
 ####Website
-[@LinsyBennett](http://twitter.com/LinsyBennett)    
+[nathanbirkinshaw.wordpress.com}(https://nathanbirkinshaw.wordpress.com)    
+[@NathBirkinshaw](http://twitter.com/NathBirkinshaw)    
 
-![Exit Smiling](lindsay1.jpg)
