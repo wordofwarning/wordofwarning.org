@@ -43,7 +43,7 @@ Nathan Birkinshaw is a performer and theatre-maker from Wakefield, creating work
 ![Nathan Birkinshaw](NathanBirkinshawWoAh15007.jpg)        
         
 ####Credits         
-Commissioned by hÅb, co-produced with Contact. | Project Mentor: Peader Kirk
+Commissioned by hÅb, co-produced with Contact.<br>Project Mentor: Peader Kirk
 
 ####Website
 [nathanbirkinshaw.wordpress.com](http://nathanbirkinshaw.wordpress.com) | [@NathBirkinshaw](http://twitter.com/NathBirkinshaw)
