@@ -24,9 +24,9 @@ Our annual sampler of what's next in contemporary performance and live art — p
 
 2015 sees new works in development by two young male artists, questioning manliness in this digitised, disembodied, discombobulated era:        
           
-**Nathan Birkinshaw**'s *How I Lost The Will To Live (& Why You Should Too)* is a coming of age story for a hyper-connected world; and,        
+[Nathan Birkinshaw](/current/2015-worksahead/birkinshaw)'s *How I Lost The Will To Live (& Why You Should Too)* is a coming of age story for a hyper-connected world; and,        
         
-**Jamil Keating**'s *Affected*. Or the confessions of a Marxist poseur…          
+[Jamil Keating](/current/2015-worksahead/keating)**'s *Affected*. Or the confessions of a Marxist poseur…          
         
 ####Venue + Booking Details
 Dates: Friday 24 + Saturday 25 April 2015, 8pm (Double Bill)        
@@ -39,6 +39,8 @@ Box Office Tel: 0161 274 0600
 >• *Some cracking emerging artists having the chance to perform here has made for some brilliant entertainment.*        
 >• *…creates a safe space from within which artists and audiences can develop.*          
         
+####Access Information        
+Age advisory: 16+ A double bill of new performance in development, the evening will last approximately 1½ hours — each show lasts approximately 30 minutes, with a 30 minute interval between during which our audience will be asked to return to the bar/foyer. Mainly spoken English. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
+        
 ####Credits         
-[Works Ahead](/hab/worksahead) 2015 is commissioned by hÅb + co-produced with Contact; Project Mentor: Peader Kirk.    
-Supported using public funding by Arts Council England + funded by Manchester City Council.
+[Works Ahead](/hab/worksahead) 2015 is commissioned by hÅb + co-produced with Contact; supported using public funding by Arts Council England + funded by Manchester City Council.<br>Project Mentor: Peader Kirk
