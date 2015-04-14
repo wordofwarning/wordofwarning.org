@@ -33,22 +33,17 @@ Dates: Friday 24 + Saturday 25 April 2015, 8pm (Double Bill)
 Box Office Tel: 0161 274 0600        
         
 ####Access Information      
-Part of a double-bill of new performance in development both shown in Contact Space 2.  Mainly spoken English.     
-Each piece lasts approx 30 mins with a 30 min interval during which the audience will be asked to return to the bar. how duration  Age advisory: 16+.                   
+Age advisory: 16+ Part of a double bill of new performance in development, the evening will last approximately 1½ hours — each show lasts approximately 30 minutes, with a 30 minute interval between during which our audience will be asked to return to the bar/foyer. Mainly spoken English. For specific age and access information please email info@habarts.org or call 0161 232 6086.                     
  
 ####Who is he?    
-Nathan Birkinshaw is a performer and theatre-maker from Wakefield, creating work that’s honest and funny, with a mixed-media approach. He aims to pick out the absurdity in the notion of humanity and the crazy time we're living in.     
+Nathan Birkinshaw is a performer and theatre-maker from Wakefield, creating work that's honest and funny, with a mixed-media approach. He aims to pick out the absurdity in the notion of humanity and the crazy time we're living in.    
                                              
->• *Smartly silly* - Donald Hutera (The Times).      
->• *A mistake* - Mr + Mrs Birkinshaw.         
-
-![Nathan Birkinshaw](NathanBirkinshawWoAh15007.jpg).        
+>*Smartly-silly* — [Donald Hutera](http://twitter.com/donaldhutera/status/576193697022373888)      
+>*A mistake* — Mr + Mrs Birkinshaw         
+![Nathan Birkinshaw](NathanBirkinshawWoAh15007.jpg)        
         
 ####Credits         
-Commissioned by hÅb, co-produced with Contact.         
-Project Mentor: Peader Kirk.     
+Commissioned by hÅb, co-produced with Contact. | Project Mentor: Peader Kirk
 
 ####Website
-[nathanbirkinshaw.wordpress.com](https://nathanbirkinshaw.wordpress.com)    
-[@NathBirkinshaw](http://twitter.com/NathBirkinshaw)    
-
+[nathanbirkinshaw.wordpress.com](http://nathanbirkinshaw.wordpress.com) | [@NathBirkinshaw](http://twitter.com/NathBirkinshaw)
