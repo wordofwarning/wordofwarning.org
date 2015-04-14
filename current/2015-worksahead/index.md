@@ -26,7 +26,7 @@ Our annual sampler of what's next in contemporary performance and live art — p
           
 [Nathan Birkinshaw](/current/2015-worksahead/birkinshaw)'s *How I Lost The Will To Live (& Why You Should Too)* is a coming of age story for a hyper-connected world; and,        
         
-[Jamil Keating](/current/2015-worksahead/keating)**'s *Affected*. Or the confessions of a Marxist poseur…          
+[Jamil Keating](/current/2015-worksahead/keating)'s *Affected*. Or the confessions of a Marxist poseur…          
         
 ####Venue + Booking Details
 Dates: Friday 24 + Saturday 25 April 2015, 8pm (Double Bill)        
@@ -43,4 +43,4 @@ Box Office Tel: 0161 274 0600
 Age advisory: 16+ A double bill of new performance in development, the evening will last approximately 1½ hours — each show lasts approximately 30 minutes, with a 30 minute interval between during which our audience will be asked to return to the bar/foyer. Mainly spoken English. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
         
 ####Credits         
-[Works Ahead](/hab/worksahead) 2015 is commissioned by hÅb + co-produced with Contact; supported using public funding by Arts Council England + funded by Manchester City Council.<br>Project Mentor: Peader Kirk
+[Works Ahead](/hab/worksahead) 2015 is commissioned by hÅb + co-produced with Contact; supported using public funding by Arts Council England + funded by Manchester City Council. | Project Mentor: Peader Kirk
