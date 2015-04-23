@@ -33,7 +33,8 @@ Dates: Friday 24 + Saturday 25 April 2015, 8pm (Double Bill)
 Box Office Tel: 0161 274 0600        
         
 ####Access Information      
-Age advisory: 16+ Part of a double bill of new performance in development, the evening will last approximately 1½ hours — each show lasts approximately 30 minutes, with a 30 minute interval between during which our audience will be asked to return to the bar/foyer. Mainly spoken English. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.                     
+**Due to mechanical breakdown, Works Ahead is only accessible by stairs (two floors). Word of Warning and Contact apologise to any potential audience member for whom this is not possible.**    
+Age advisory: 16+ Part of a double bill of new performance in development, the evening will last approximately 1½ hours — each show lasts approximately 30-40 minutes, with a 30 minute interval between during which our audience will be asked to return to the bar/foyer. Mainly spoken English. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.                     
  
 ####Who is he?    
 Nathan Birkinshaw is a performer and theatre-maker from Wakefield, creating work that's honest and funny, with a mixed-media approach. He aims to pick out the absurdity in the notion of humanity and the crazy time we're living in.    
