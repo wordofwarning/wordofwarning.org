@@ -39,5 +39,5 @@ Jamil Keating is an emerging theatre-maker, writer and performer. *Affected* is 
 To date he has made small pieces for [Hazard](/archive/2014-hazard/ongoing) (as Tracey Lumpkin) and [Emergency](archive/2014-emergency/lunchtime), and has been an emerging artist in residence at the Whitworth.       
            
 ####Credits         
-Commissioned by hÅb, co-produced by Contact.<br>Project Mentor: Peader Kirk.        
+Commissioned by hÅb, co-produced with Contact.<br>Project Mentor: Peader Kirk.        
 ![Affected](JamilKeatingWoAh15029.jpg)
