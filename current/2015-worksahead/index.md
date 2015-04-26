@@ -29,7 +29,7 @@ Our annual sampler of what's next in contemporary performance and live art — p
 [Jamil Keating](/current/2015-worksahead/keating)'s *Affected*. Or the confessions of a Marxist poseur…          
         
 ####Venue + Booking Details
-Dates: Friday 24 + (Saturday 25: SOLD-OUT) 25 April 2015, 8pm (Double Bill)        
+Dates: Friday 24 (+ Saturday 25: SOLD-OUT) April 2015, 8pm (Double Bill)        
 [Venue: Contact (space 2)](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA            
 [Tickets: £6/3](http://contactmcr.com/whats-on/35092-works-ahead-2015/booking) | Special offer: buy nine tickets + get your tenth free            
 Box Office Tel: 0161 274 0600        
