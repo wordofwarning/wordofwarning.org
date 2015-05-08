@@ -20,7 +20,9 @@ show_size: 3
 *Presented by* Word of Warning + Contact
          
 ###Friday 24 + Saturday 25 April 2015, 8pm        
-Our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content. To date, Works Ahead has brushed the petticoats of dance, skirted the fringes of musical theatre, warped the lines of performance installation, and delved into the mindset of the performer…
+Our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content. To date, Works Ahead has brushed the petticoats of dance, skirted the fringes of musical theatre, warped the lines of performance installation, and delved into the mindset of the performer…     
+
+Now it's all over, have a look at the [gallery](/galleries/2015-woah/index.html).     
 
 2015 sees new works in development by two young male artists, questioning manliness in this digitised, disembodied, discombobulated era:        
           
