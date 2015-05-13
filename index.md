@@ -4,4 +4,4 @@ layout: home
 header_image: "assets/images/header_ss15wrn.jpg"
 
 ---
-####[Upcoming performance](/current/2015-springsummer)… follow [Tom Marshman](/current/2015-springsummer/marshman) on an intimate tour as he stumbles and skips through Hulme Garden Centre *13/14 Jun*; see [Ria Hartley](/current/2015-springsummer/hartley) retrace her grandma's 1962 journey from Jamaica in the STUN Studio at Z-arts *25 Jun*.
+####[Upcoming performance](/current/2015-springsummer)… follow [Tom Marshman](/current/2015-springsummer/marshman) on an intimate tour as he stumbles and skips thru Hulme Garden Centre *13/14 Jun*; see [Ria Hartley](/current/2015-springsummer/hartley) retrace her grandma's 1962 journey from Jamaica in the STUN Studio at Z-arts *25 Jun*.
