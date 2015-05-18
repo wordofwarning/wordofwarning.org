@@ -28,7 +28,7 @@ Day One: Saturday 13 June 2015, [3pm](http://www.wegottickets.com/event/315530) 
 Day Two: Sunday 14 June 2015, [12noon](http://www.wegottickets.com/event/315536) + [3pm](http://www.wegottickets.com/event/315538) + [5pm](http://www.wegottickets.com/event/315540)        
 [Venue: Hulme Community Garden Centre](http://www.hulmegardencentre.org.uk/contact), 28 Old Birley Street, Manchester, M15 5RG        
 LIMITED CAPACITIES, BOOKING ESSENTIAL:        
-Tickets: £5/3, can be booked online; a 10% fee applies.        
+Tickets: £5/3, can be booked online (10% booking fee applies) OR in person at the Garden Centre (cash only, no booking fee).        
 Enquiries: 0161 232 6086 (please leave a message + we'll get back to you).          
         
 ####Access Information         
