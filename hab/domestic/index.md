@@ -52,4 +52,4 @@ It will be rough, it will be low-tech, it will be unpredictable! The building it
                 
 <http://domesticmcr.org>              
                 
-Taking place within the M3 postcode area (TBC) on Saturday 26 September 2015, Domestic II is presented by Word of Warning; produced by hÅb; supported using public funding by Arts Council England + funded by Manchester City Council; supported by The Guinness Partnership + City Response Limited.
+Taking place within the M3 postcode area (TBC) on 26 September 2015, Domestic II is presented by Word of Warning; produced by hÅb; supported using public funding by Arts Council England + funded by Manchester City Council; supported by The Guinness Partnership + City Response Limited.
