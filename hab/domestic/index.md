@@ -6,7 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Domestic" # the name of the artist or company
-header_image: "header_domestic.jpg"   
+header_image: "header_domestic_bw.jpg"   
 
 
 # ABOUT THE SHOW - LAYOUT
@@ -19,58 +19,37 @@ Autumn 2013 saw a series of intimate interactions, homely conversations + domest
     
 **[Domestic II now seeks proposals](http://habmcr.posthaven.com/domestic-ii-call-for-proposals)** — calling artists working in live art, contemporary performance, time-based media and interdisciplinary arts to submit proposals for small pieces of live work to occupy one floor of this tower block — for one day — for an audience that can roam the floor ‘gallery-style’.
 
-Installation, durational and intimate performance work will lend themselves most easily to the environment.  
+Installation, durational and intimate performance work will lend themselves most easily to the environment. We are looking for pieces than can work with the building itself – essentially issue-led and socially engaged practice able to respond to its environment – be it a derelict bathroom, a stripped bare living room, a dingy corridor or a crumbling kitchen.
 
-We are looking for pieces than can work with the building itself – essentially issue-led and socially engaged practice able to respond to its environment – be it a derelict bathroom, a stripped bare living room, a dingy corridor or a crumbling kitchen.
+It will be rough, it will be low-tech, it will be unpredictable! The building itself is a work in progress, so the spaces themselves will be a bit of an adventure… We envisage spaces will range from completely gutted flats, through semi-stripped spaces with original walls and kitchen/bathroom fixtures in situ, to almost finished refurbished flats.
 
-It will be rough, it will be low-tech, it will be unpredictable! 
+To get a feel for it, have a look at Domestic's [2013 programme](/archive/2013-domestic) + [gallery](/galleries/2013-domestic).   
 
-The building itself is a work in progress, so the spaces themselves will be a bit of an adventure...
+**Domestic II**: will be curated by hÅb on the basis of suitability to curatorial vision, technical and logistical feasibility; criteria:
+**1** Artistic merit of proposed ideas and clarity of proposal;
+**2** Priority will be given to live art/contemporary performance/time-based media work;
+**3** Priority will be given to socially engaged work;
+**4** Work which has already been shown publicly in Greater Manchester will not be highest priority;
+**5** General criteria: 
+● pieces must be the artist's own, original work;
+● the artist must hold copyright/ownership of the piece and materials included;
+● artists must conform with statutory and local authority (Salford) rules concerning health and safety, obscenity and defamation;
+● Equal Opportunities will be employed in the selection and programming of this platform in line with Manchester City Council and Arts Council England guidelines;
+● the focus is primarily on non-linear performative work from a cross-artform background. We therefore advise that work that is PRIMARILY theatre, poetry, music, visual art or dance would be better served by proposing to a different context.  
+● Proposal Deadline: 5pm Friday 10 July 2015;
+● Selected artists will be notified BY Friday 31 July.
 
-We envisage spaces will range from completely gutted flats, through semi-stripped spaces with original walls and kitchen/bathroom fixtures in situ, to almost finished refurbished flats.
+**Applying:**     
+● Complete and submit the online [proposal](http://habarts.wufoo.eu/forms/domestic-ii-proposal-form) + [monitoring](http://habarts.wufoo.eu/forms/hab-monitoring-form) forms. (Direct links: http://habarts.wufoo.eu/forms/domestic-ii-proposal-form + http://habarts.wufoo.eu/forms/hab-monitoring-form)
+● All proposals uploaded will be acknowledged by automated email. If you have trouble with the form, please contact us. If you do not receive an acknowledgement you must contact us as it indicates a problem with receipt.
+● Some video is always helpful to give us an idea of your work — upload to your own YouTube/Vimeo or similar page and include the link in the proposal form; alternatively send via [wetransfer.com](http://www.wetransfer.com) (or similar).
+● If desired, supporting material and documentation may be submitted by email or by postts.org  
+hÅb, c/o Z-arts, 335 Stretford Road, Manchester, M15 5ZA 
+● The proposal form must be completed at one sitting (you can't save and return to it later) so please copy and paste the longer elements from another document.    
+● Domestic II honorarium/expenses (£200-300 per piece) to be negotiated on an individual basis. Please include outline budget with your proposal. For projects needing significantly more money, please email us to talk feasibility through first.
 
-Direct links -  
-
-
-
-North West* dancers and dance-makers (aged 18+) are invited to submit proposals of short pieces of work, works-in-progress or extracts of longer works for inclusion in this annual event. To get a feel for it, have a look at the [2014 programme](/archive/2014-turn) + [gallery](/galleries/2014-turn).   
- 
-**Closing Deadline: 5pm, Friday 9 January 2015.**     
-   
-**Turn:**    
-An open submission dance platform for North West* dancers + dance-makers:    
-● short finished pieces;      
-● excerpts;    
-● works in progress;    
-● sited works in and around the building also welcomed.    
-Proposals should be for pieces with some live presence, 20 minutes maximum for show-type work, technically simple, adaptable to quick turnarounds and suitable for showing alongside other pieces.    
-Sited and intervention-based works in and around the venue (Contact) are also strongly encouraged.    
-We are also accepting proposals for video based work to be screened around the building.     
-**effectively Cheshire, Cumbria, Greater Manchester, Lancashire + Merseyside. ie NOT Yorkshire*    
-
-**Turn:**     
-● a public platform;    
-● an opportunity for artists to meet, show and peer review work;    
-● an artist networking event;    
-● a selection platform for the Turn Prize (a small, supported commission, supported by Dance Manchester, Contact + hÅb).     
-
-We are looking for dance in any form which uses the artists' creativity, has strong concept, original choreography and professional aspiration. For example, alongside Contemporary, we'd be interested in hearing about street dancers who are looking to choreograph a piece rather than to present a demonstration of  skill; or classical work (from Ballet to Kathak, African and Chinese dance to Bharata Natyam) that is being re-imagined or re-explored, rather than a straight re-presentation of classic choreography.    
- 
-Priorities are for high quality and exciting dance based work by North West* artists, which has not been seen in Manchester before.    
- 
-**To apply:**     
-1. Read the venue (Contact)'s [tech specs](http://turnmcr.posthaven.com/pages/contact-tech-specs) + [policies and procedures](http://turnmcr.posthaven.com/pages/policies-and-procedures-14138);    
-2. Complete and submit the [proposal](http://habarts.wufoo.eu/forms/domestic-ii-proposal-form) + [monitoring](http://habarts.wufoo.eu/forms/hab-monitoring-form) forms    
-(Direct form links: http://habarts.wufoo.eu/forms/domestic-ii-proposal-form + http://habarts.wufoo.eu/forms/hab-monitoring-form);    
-3. Include a short (compulsory) video submission — upload to your own YouTube/Vimeo or similar page and include the link in the proposal form; alternatively send via [wetransfer.com](http://www.wetransfer.com) (or similar) to <mailto:turn@habarts.org> OR send a DVD to: hÅb, c/o Z-arts, 335 Stretford Road, Manchester, M15 5ZA. Video should be short (max 10 mins) and does not have to be high quality. It can be from a camcorder, digital camera or mobile phone. It helps your proposal if you can show some of what you are proposing — rehearsal footage or a video sketch of ideas and style.        
-N.B. We would appreciate it if everyone could use the online form, but if you have significant difficulties contact <mailto:info@habarts.org> for an offline version.    
-  
 **Closing Deadline: 5pm, Friday 10 July 2015.**    
   
-Notes:    
-The proposal form must be completed at one sitting (you can't save and return to it later) so please copy and paste the longer elements from another document.    
-Domestic II honorarium/expenses (£200-300 per piece) to be negotiated on an individual basis. Please include outline budget with your proposal. For projects needing significantly more money, please email us to talk feasibility through first.
-
-Enquiries: <mailto:info@habarts.org> | #DomesticII    
+Enquiries: 0161 232 6086 | <mailto:info@habarts.org> | #DomesticII    
         
 Taking within the M3 postcode area (TBC) on Saturday 26 September 2015, Domestic II is presented by Word of Warning; produced by hÅb; supported using public funding by Arts Council England + funded by Manchester City Council; supported by The Guinness Partnership + City Response Limited.
