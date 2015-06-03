@@ -23,9 +23,7 @@ header_image: "header_domestic_bw.jpg"
         
 Installation, durational and intimate performance work will lend themselves most easily to the environment. We are looking for pieces than can work with the building itself – essentially issue-led and socially engaged practice able to respond to its environment – be it a derelict bathroom, a stripped bare living room, a dingy corridor or a crumbling kitchen.
 
-It will be rough, it will be low-tech, it will be unpredictable! The building itself is a work-in-progress, so the spaces themselves will be a bit of an adventure… We envisage spaces will range from completely gutted flats, through semi-stripped spaces with original walls and kitchen/bathroom fixtures in situ, to almost finished refurbished flats.         
-                
-To get a feel for it, have a look at Domestic's [2013 programme](/archive/2013-domestic) + [gallery](/galleries/2013-domestic).   
+It will be rough, it will be low-tech, it will be unpredictable! The building itself is a work-in-progress, so the spaces themselves will be a bit of an adventure… We envisage spaces will range from completely gutted flats, through semi-stripped spaces with original walls and kitchen/bathroom fixtures in situ, to almost finished refurbished flats. To get a feel for it, have a look at [2013's image gallery](/galleries/2013-domestic).   
 
 **Domestic II will be curated by [hÅb](/hab) on the basis of suitability to curatorial vision, technical + logistical feasibility, with Criteria:**      
 **1** Artistic merit of proposed ideas and clarity of proposal;     
@@ -51,7 +49,6 @@ To get a feel for it, have a look at Domestic's [2013 programme](/archive/2013-d
 ● Selected artists will be notified BY Friday 31 July.      
 ● Enquiries: 0161 232 6086 | <mailto:info@habarts.org>          
 ● Address: hÅb, c/o Z-arts, 335 Stretford Road, Manchester, M15 5ZA             
-                
-<http://domesticmcr.org> | #DomesticII
+● <http://domesticmcr.org> | #DomesticII                
                 
 Taking within the M3 postcode area (TBC) on Saturday 26 September 2015, Domestic II is presented by Word of Warning; produced by hÅb; supported using public funding by Arts Council England + funded by Manchester City Council; supported by The Guinness Partnership + City Response Limited.
