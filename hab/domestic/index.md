@@ -41,15 +41,14 @@ To get a feel for it, have a look at Domestic's [2013 programme](/archive/2013-d
         
 **How to apply:**       
 ● Complete and submit the online [proposal](http://habarts.wufoo.eu/forms/domestic-ii-proposal-form) + [monitoring](http://habarts.wufoo.eu/forms/hab-monitoring-form) forms.          
-(http://habarts.wufoo.eu/forms/domestic-ii-proposal-form | http://habarts.wufoo.eu/forms/hab-monitoring-form)          
+(*URLs are http://habarts.wufoo.eu/forms/domestic-ii-proposal-form and http://habarts.wufoo.eu/forms/hab-monitoring-form*)          
 ● The proposal form must be completed at one sitting (you can't save and return to it later) so please copy and paste the longer elements from another document.          
 ● All proposals uploaded will be acknowledged by automated email. If you have trouble with the form, please contact us. If you do not receive an acknowledgement you must contact us as it indicates a problem with receipt.       
 ● Some video is always helpful to give us an idea of your work — upload to your own YouTube/Vimeo or similar page and include the link in the proposal form; alternatively send via [wetransfer.com](http://www.wetransfer.com) (or similar).     
 ● If desired, supporting material and documentation may be submitted by email or post.       
-● Honorarium/expenses (£200-£300 per piece) to be negotiated on an individual basis. Please include outline budget with your proposal. For projects needing significantly more money, please email us to talk feasibility through first.     
-● Proposal Deadline: 5pm Friday 10 July 2015.       
+● Honorarium/expenses (£200-£300 per piece) to be negotiated on an individual basis. Please include outline budget with your proposal. For projects needing significantly more, please email us to talk feasibility through first.     
+● PROPOSAL DEADLINE: Friday 10 July 2015, 5pm
 ● Selected artists will be notified BY Friday 31 July.      
-● Contact/Enquiries: 0161 232 6086 | <mailto:info@habarts.org> | hÅb, c/o Z-arts, 335 Stretford Road, Manchester, M15 5ZA            
-#DomesticII
+● Enquiries: 0161 232 6086 | <mailto:info@habarts.org> | hÅb, c/o Z-arts, 335 Stretford Road, Manchester, M15 5ZA | #DomesticII
                 
-Taking within the M3 postcode area (TBC) on Saturday 26 September 2015, Domestic II is presented by Word of Warning; produced by hÅb; supported using public funding by Arts Council England + funded by Manchester City Council; supported by The Guinness Partnership + City Response Limited.
+*Taking within the M3 postcode area (TBC) on Saturday 26 September 2015, Domestic II is presented by Word of Warning; produced by hÅb; supported using public funding by Arts Council England + funded by Manchester City Council; supported by The Guinness Partnership + City Response Limited.*
