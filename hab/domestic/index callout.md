@@ -5,8 +5,8 @@ layout: hab # the season or event-specific template in /_layouts
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Turn" # the name of the artist or company
-header_image: "header_turn_photo.jpg"   
+artist: "Domestic" # the name of the artist or company
+header_image: "header_domestic.jpg"   
 
 
 # ABOUT THE SHOW - LAYOUT
@@ -15,8 +15,24 @@ header_image: "header_turn_photo.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Turn 2015**, our seventh annual platform for North West dancers + dance-makers, is calling for proposals. Taking place on **Friday 27 + Saturday 28 March 2015** at Manchester's Contact, Turn 2015 is a hÅb, Contact, Dance Manchester co-production and a greenroom legacy project.    
-  
+Autumn 2013 saw a series of intimate interactions, homely conversations + domestic dramas played out in a block of flats, still inhabited but in the midst of major refurbishment — [**Domestic**](/archive/2013-domestic) hosted 7 pieces over 10 days by artists including the vacuum cleaner, Jo Bannon and Fergus J Evans, with work ranging from an immersive environment in a garage, to a solo naked shower piece and a woman's story of domestic despair atop a ¼ton of potatoes… In Autumn 2015, **Domestic II** will be unleashed on a new tower block in a new location somewhere in the Manchester conurbation; this time uninhabited, but definitely mid-refurbishment, we will be occupying a space in transition: not quite a building-site, not quite a home…   
+    
+**[Domestic II now seeks proposals](http://habmcr.posthaven.com/domestic-ii-call-for-proposals)** — calling artists working in live art, contemporary performance, time-based media and interdisciplinary arts to submit proposals for small pieces of live work to occupy one floor of this tower block — for one day — for an audience that can roam the floor ‘gallery-style’.
+
+Installation, durational and intimate performance work will lend themselves most easily to the environment.  
+
+We are looking for pieces than can work with the building itself – essentially issue-led and socially engaged practice able to respond to its environment – be it a derelict bathroom, a stripped bare living room, a dingy corridor or a crumbling kitchen.
+
+It will be rough, it will be low-tech, it will be unpredictable! 
+
+The building itself is a work in progress, so the spaces themselves will be a bit of an adventure...
+
+We envisage spaces will range from completely gutted flats, through semi-stripped spaces with original walls and kitchen/bathroom fixtures in situ, to almost finished refurbished flats.
+
+Direct links -  
+
+
+
 North West* dancers and dance-makers (aged 18+) are invited to submit proposals of short pieces of work, works-in-progress or extracts of longer works for inclusion in this annual event. To get a feel for it, have a look at the [2014 programme](/archive/2014-turn) + [gallery](/galleries/2014-turn).   
  
 **Closing Deadline: 5pm, Friday 9 January 2015.**     
@@ -44,18 +60,17 @@ Priorities are for high quality and exciting dance based work by North West* art
  
 **To apply:**     
 1. Read the venue (Contact)'s [tech specs](http://turnmcr.posthaven.com/pages/contact-tech-specs) + [policies and procedures](http://turnmcr.posthaven.com/pages/policies-and-procedures-14138);    
-2. Complete and submit the [proposal](http://habarts.wufoo.eu/forms/turn-2015-proposal-form) + [monitoring](http://habarts.wufoo.eu/forms/hab-monitoring-form) forms    
-(Direct form links: http://habarts.wufoo.eu/forms/turn-2015-proposal-form + http://habarts.wufoo.eu/forms/hab-monitoring-form);    
+2. Complete and submit the [proposal](http://habarts.wufoo.eu/forms/domestic-ii-proposal-form) + [monitoring](http://habarts.wufoo.eu/forms/hab-monitoring-form) forms    
+(Direct form links: http://habarts.wufoo.eu/forms/domestic-ii-proposal-form + http://habarts.wufoo.eu/forms/hab-monitoring-form);    
 3. Include a short (compulsory) video submission — upload to your own YouTube/Vimeo or similar page and include the link in the proposal form; alternatively send via [wetransfer.com](http://www.wetransfer.com) (or similar) to <mailto:turn@habarts.org> OR send a DVD to: hÅb, c/o Z-arts, 335 Stretford Road, Manchester, M15 5ZA. Video should be short (max 10 mins) and does not have to be high quality. It can be from a camcorder, digital camera or mobile phone. It helps your proposal if you can show some of what you are proposing — rehearsal footage or a video sketch of ideas and style.        
-N.B. We would appreciate it if everyone could use the online form, but if you have significant difficulties contact <mailto:turn@habarts.org> for an offline version.    
+N.B. We would appreciate it if everyone could use the online form, but if you have significant difficulties contact <mailto:info@habarts.org> for an offline version.    
   
-**Closing Deadline: 5pm, Friday 9 January 2015.**    
+**Closing Deadline: 5pm, Friday 10 July 2015.**    
   
 Notes:    
 The proposal form must be completed at one sitting (you can't save and return to it later) so please copy and paste the longer elements from another document.    
-Turn 2015 will offer an honorarium of up to £100 per piece selected, to cover fees/expenses for NW artists.    
-There will be a **technical meeting for ALL selected artists on Saturday 7 March 2015 (daytime)**.    
+Domestic II honorarium/expenses (£200-300 per piece) to be negotiated on an individual basis. Please include outline budget with your proposal. For projects needing significantly more money, please email us to talk feasibility through first.
+
+Enquiries: <mailto:info@habarts.org> | #DomesticII    
         
-Enquiries: <mailto:turn@habarts.org> ¦ <http://turnmcr.org> ¦ #TurnMcr    
-        
-[Taking place at Contact on 27 + 28 March 2015](http://contactmcr.com/turn), Turn 2015 is presented by Word of Warning + Contact; co-produced by hÅb, Contact + Dance Manchester; supported using public funding through Arts Council England + funded by Manchester City Council; a greenroom legacy project.
+Taking within the M3 postcode area (TBC) on Saturday 26 September 2015, Domestic II is presented by Word of Warning; produced by hÅb; supported using public funding by Arts Council England + funded by Manchester City Council; supported by The Guinness Partnership + City Response Limited.
