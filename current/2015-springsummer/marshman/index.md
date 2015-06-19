@@ -45,6 +45,7 @@ Making performance for over ten years, he has created over twenty projects in a 
           
 ####What people have said about Tom         
 >*One of the most exciting things about Marshman's work is his ability to pick a seemingly small subject and peel back the layers to expose something unexpectedly profound…*<br>Big Issue          
+Read a [lovely review](http://quietmandave.co.uk/2015/06/bambi-in-hulme) of Tom's *…Bambi* at the garden centre.          
          
 ####Credits         
 Funded by the Jerwood Charitable Foundation. Supported using public funding by the National Lottery through Arts Council England. Supported by Arnolfini (Bristol), Battersea Arts Centre, In Between Time (Bristol) + Prema Arts Centre.        
