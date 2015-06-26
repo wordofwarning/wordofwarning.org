@@ -1,7 +1,9 @@
 ---
 # CONFIGURATION
 layout: home
-header_image: "assets/images/header_ss15wrn.jpg"
+header_image: "assets/images/header_warni.jpg"
 
 ---
-####Closing our [summer season](/current/2015-springsummer) — [Ria Hartley](/current/2015-springsummer/hartley) retraces her grandmother's 1962 journey from Jamaica to discover how it has shaped her own, in the STUN Studio at Z-arts *25 June, 7.30pm*<br>Unleashed on a local tower block in September, [Domestic II](/hab/domestic) seeks artist proposals *by 10 July*
+####Big thanks to [Ria Hartley](/current/2015-springsummer/hartley) for giving our Spring/Summer a sold-out finale. Thanks also to everyone, artists, audiences, partners and 'crew' for the whole season.  We'll be back with more programme in late September - in the meantime, if you're an artist and looking to propose something to us check out the [Domestic II](/hab/domestic) call *deadline 10 July* [Emergency 15](/hab/emergency) call coming soon.   
+    
+
