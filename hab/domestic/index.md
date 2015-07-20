@@ -19,7 +19,7 @@ header_image: "header_domestic_bw.jpg"
         
 **In Autumn 2015, Domestic II** will be unleashed on a new tower block in a new location somewhere in the Manchester conurbation; this time uninhabited, but definitely mid-refurbishment, we will be occupying a space in transition: not quite a building-site, not quite a home…   
     
-The open call for **[Domestic proposals](http://habmcr.posthaven.com/domestic-ii-call-for-proposals)** is now closed.  We had 101 proposals in total and we are currently working our way through them.    
+The open call for proposals is now closed.  We had 101 proposals in total and we are currently working our way through them.    
       
 Check back at [domesticmcr.org](http://www.domesticmcr.org) in early September for the programme.    
 
