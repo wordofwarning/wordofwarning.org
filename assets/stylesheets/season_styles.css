@@ -176,27 +176,6 @@
 	.aw2013 .splash
 		{background:url(../images/header_2013aw.jpg) -150px center}
 
-/* Emergency 2013 (also 2014) bright red
-------------------------------------------------------*/
-
-	.e2013,
-	.e2013 .artist, 
-	.e2013 .show,
-	.e2013 .season
-		{background:#c00; color:#fff;}
-
-	.e2013 a,
-	.e2013 a:visited,
-	.e2013 a:hover
-		{color:#fff;}
-	.e2013 nav a:hover,
-	.e2013 article a:hover,
-	.e2013 footer a:hover
-		{background: #fff; color: #c00;}
-		
-	.e2013 .splash
-		{background:url(../images/header_emergency_photo.jpg) center center}
-
 /* Domestic (2013) very dark green
 ------------------------------------------------------*/
 
@@ -371,7 +350,7 @@
 	.ss2015 .splash
 		{background:url(../images/header_ss15wrn.jpg) -150px center}
 
-/* Works Ahead (2013/4/5) dark red-maroon
+/* Works Ahead (2013/14/15) dark red-maroon
 ------------------------------------------------------*/
 		
 	.woah,
@@ -391,3 +370,51 @@
 
 	.woah .splash
 		{background:url(../images/header_woah_photo.jpg) center center}
+
+/* Autumn/Winter 2015 Programme
+------------------------------------------------------*/
+
+	.aw2015 .splash
+		{background:url(../images/header_warni.jpg) -150px center}
+
+/* Domestic II (2015) blue
+------------------------------------------------------*/
+
+	.d2015,
+	.d2015 .artist, 
+	.d2015 .show,
+	.d2015 .season
+		{background:#039; color:#fff;}
+
+	.d2015 a,
+	.d2015 a:visited,
+	.d2015 a:hover
+		{color:#fff;}
+	.d2015 nav a:hover,
+	.d2015 article a:hover,
+	.d2015 footer a:hover
+		{background: #fff; color: #039;}
+
+	.d2015 .splash
+		{background:url(../images/header_emergency.jpg) center center}
+
+/* Emergency 2013/14/15 bright red
+------------------------------------------------------*/
+
+	.e2013,
+	.e2013 .artist, 
+	.e2013 .show,
+	.e2013 .season
+		{background:#c00; color:#fff;}
+
+	.e2013 a,
+	.e2013 a:visited,
+	.e2013 a:hover
+		{color:#fff;}
+	.e2013 nav a:hover,
+	.e2013 article a:hover,
+	.e2013 footer a:hover
+		{background: #fff; color: #c00;}
+		
+	.e2013 .splash
+		{background:url(../images/header_emergency_photo.jpg) center center}
