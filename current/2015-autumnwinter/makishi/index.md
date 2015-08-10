@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Stacy Makishi" # the name of the artist or company
-show: "Vesper Time" # the name of the show
+show: "VesperTime" # the name of the show
 artist_size: 1
 show_size: 2
 header_image: "header.jpg"    
@@ -19,7 +19,8 @@ header_image: "header.jpg"
 *Presented by* Contact + Word of Warning         
        
 ####In Brief      
-
+With characteristic wit, Stacy offers up a secular evening prayer (vesper) — delving into the undercurrents of *Moby Dick*, pop music and Hollywood blockbusters.            
+              
 ####Venue + Booking Details    
 Dates: Tuesday 17 + Wednesday 18 November 2015, 8pm         
 [Venue: Contact (space 1)](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA        
@@ -28,20 +29,28 @@ Special offers: (TBC) buy nine tickets + get your tenth free.
 Box Office Tel: 0161 274 0600         
         
 ####Access Information        
-Age advisory: 14+ With no interval, the show lasts approximately 75 minutes. English spoken word and loud music. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
+Age advisory: 16+ With no interval, the show lasts approximately 60 minutes. English spoken word and ???. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
-####More            
-      
-        
+####More      
+Last seen in [2013's performance to die](/archive/2013-autumnwinter/makishi), Stacy Makishi returns to Manchester in a solo show that draws on her stand-up comedy roots and theatrical sense of the uncanny… Looking at loss and mourning, and Stacy's one-time wish to be a missionary, *VesperTime* weaves together the undercurrents of *Moby Dick* alongside 80s and 90s pop culture to offer up a 'vesper', a secular evening prayer.             
+       
 ####Who is she?     
-
-####What people have said about her        
->5\* *…a bushel of cruel wit and bodily fluids. If gonzo journalism ever needed a news anchor, this would be the guy.*<br>[Exeunt](http://exeuntmagazine.com/reviews/this-is-how-we-die)        
->4\* *An absurd road movie of the soul cut with a razor wit and bubbling paranoia …an awesome display of verbal gymnastics.*<br>[Lyn Gardner, The Guardian](http://www.theguardian.com/stage/2014/jun/20/this-is-how-we-die-review-bubbling-paranoia)        
->4\* *[A] blisteringly brilliant monologue, a surreal and mind-blowing odyssey…*<br>[Joyce McMillan, The Scotsman](http://www.wow247.co.uk/blog/2014/08/08/pretty-ugly-this-is-how-we-die-if-destroyed-still-true-karaoke)        
-        
-####Credits        
-Supported using public funding by the National Lottery through Arts Council England.       
-        
-####Websites        
-<http://>
+Stacy Makishi is a transplant from Hawaii who found paradise in Dalston, East London in 1994.            
+       
+After graduating from the University of Hawaii she worked as a stand-up comic at the Comedy Store: but when her punchlines punched back, Stacy found herself happiest when making what New Yorkers called 'Performance'.            
+       
+Her present body of work is interdisciplinary in scope and includes live art, film, installation and visual art. Her work is as complex as it is accessible; humorous as it is challenging; visual as it is literate.          
+       
+A workshop leader and mentor of international renown, Makishi opens her making processes to the public through workshops, open rehearsals and talks, alongside performances.             
+       
+She has been awarded an ICA Attached Artist Award, a Millennium Fellowship Award, a Live Art Development Agency One to One Bursary, an Artsadmin Bursary and the Franklin Furnace Award. She is an Associate Artist with Artsadmin, Chelsea Theatre and New Unity.           
+       
+####What people have said about *VesperTime*        
+>*…charismatically witty yet painful and honest…*<br>[Total Theatre](http://totaltheatre.org.uk/vespertime)     
+>*…genuinely moving…*<br>[A Younger Theatre](http://www.ayoungertheatre.com/review-vespertime-chelsea-theatre-stacey-makishi)
+       
+####Credits          
+A Chelsea Theatre + Colchester Arts Centre co-commission, supported by the National Theatre Studio; supported using public funding by the National Lottery through Arts Council England; produced by Artsadmin.
+       
+####Website          
+<http://stacymakishi.com>
