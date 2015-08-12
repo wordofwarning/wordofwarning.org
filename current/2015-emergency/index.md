@@ -19,11 +19,10 @@ header_image:
 *Presented by* Word of Warning, STUN + Z-arts          
 
 ###Saturday 3 October 2015, ???12noon-10pm. Free             
-**Manchester's sixteenth free micro-marathon of the bizarre + the beautiful pops up throughout the cavernous realms of Z-arts — drop in for just ten minutes or stay for the full ten hours…**      
+**Manchester's sixteenth free micro-marathon of the bizarre + the beautiful pops up throughout the cavernous realms of Z-arts — drop in for just ten minutes or stay for the full ???ten hours…**      
                        
 From gallery to theatre, changing room to basement, Z-arts will reverberate with some twenty-nine individual shows in our *fifteenth* performance lucky-dip, happening this year under one roof… Your chance to sample the different — all for free, featuring (*participating artists subject to change*):        
-        
-        
+
               
 **N.B.** ??Primarily an adult event, Emergency 2015 runs from ??12noon to 10pm; ??from 3pm onwards we *advise* that work may not be suitable for under 18s.    
           
@@ -32,9 +31,8 @@ Date: Saturday 3 October 2015, ??12noon-10pm
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: FREE no booking required (some limited capacity shows have sign-up sheets on the day)        
 Venue Tel: 0161 232 6089    
-
-
-####What people said about Emergency 2013        
+      
+####What people said about Emergency 2013 NO 2014 REVIEWS, USE AUD QUOTES?        
 A review of the work presented at BLANKSPACE by [C. James Fagan](http://confusedguff.blogspot.co.uk/2013/10/emergency-2013.html).        
 A review of some of the work presented at Z-arts by [The Mancunion](http://mancunion.com/2013/10/17/emergency2013).        
         
