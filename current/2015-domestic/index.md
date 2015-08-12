@@ -1,14 +1,15 @@
 ---
 
 # CONFIGURATION
-layout: 2015-turn
+layout: 2015-woah
 rootpath: "../../"
 is_index: true
 
 # ABOUT THE SHOW - GENERIC
-artist: "Turn 2015" # the name of the artist or company
-show: "A micro-festival of new dance." # the name of the show
-show_size: 4
+artist: "Works Ahead 2015" # the name of the artist or company
+show: "Annual new performance sampler." # the name of the show
+artist_size: 2
+show_size: 3
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -16,38 +17,32 @@ show_size: 4
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, Contact + Dance Manchester    
+*Presented by* Word of Warning + Contact
          
-###[Friday 27](/archive/2015-turn/fri) + [Saturday 28](/archive/2015-turn/sat) March 2015, 7.30pm
-Pirouetting and spinning, twizzling and twirling, Turn lands at Contact for its fourth year… this two-day conflagration of the best new dance in town explodes into life, with some fifteen† new works taking over the whole building.           
+###Friday 24 + Saturday 25 April 2015, 8pm        
+Our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content. To date, Works Ahead has brushed the petticoats of dance, skirted the fringes of musical theatre, warped the lines of performance installation, and delved into the mindset of the performer…     
+
+Now it's all over, have a look at the [gallery](/galleries/2015-woah/index.html).     
+
+2015 sees new works in development by two young male artists, questioning manliness in this digitised, disembodied, discombobulated era:        
+          
+[Nathan Birkinshaw](/current/2015-worksahead/birkinshaw)'s *How I Lost The Will To Live (& Why You Should Too)* is a coming of age story for a hyper-connected world; and,        
         
-Now it's all over, see our [Turn image gallery](/galleries/2015-turn).
+[Jamil Keating](/current/2015-worksahead/keating)'s *Affected*. Or the confessions of a Marxist poseur…          
         
 ####Venue + Booking Details
-Dates: Friday 27 + Saturday 28 March 2015, 7.30pm    
-[Venue: Contact](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA    
-[Tickets: £9/5 per night (two night pass £11/6)](http://contactmcr.com/whats-on/30697-turn-2015/booking)               
-Special offer: buy nine tickets + get your tenth free    
-Box Office Tel: 0161 274 0600                
-                  
-####More        
-Fluidly lyrical, effervescently acrobatic or eccentrically innovative, Turn has played host to curly haired capoeira twins, a ballerina in a body bag and a goggle-wearing, flipper-dance — join us in 2015 for another round of physical exuberance, featuring (*participating artists subject to change*†):    
-Adam Russell | Dan Watson | Ebony-Rose + Lorienne Aimée | EdgeFWD Dance Theatre | Joseph Mannion | Joshua Hubbard | Lo-Giudice Dance | Peter Grist + Co | Phoebe Ophelia Douthwaite | Rachel Sweeney | Rebekka Platt | Sophie Unwin | Tangled Dance Company | ™ Dance Company | Victoria Sheldon<br>*plus a Mixed Movement Turn Special*<br>† *Maelstrom Theatre no longer appear due to illness*         
+Dates: Friday 24 (+ Saturday 25: SOLD-OUT) April 2015, 8pm (Double Bill)        
+[Venue: Contact (space 2)](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA            
+[Tickets: £6/3](http://contactmcr.com/whats-on/35092-works-ahead-2015/booking) | Special offer: buy nine tickets + get your tenth free            
+Box Office Tel: 0161 274 0600        
         
-Turn 2015 is our seventh annual platform for dancers + dance-makers — to get a feel for it, see Turn 2014's [programme](/archive/2014-turn) + [image gallery](/galleries/2014-turn).   
-                  
-####What people have said about Turn
->4\* *One of the key events in Manchester's dance calendar.*<br>[The Public Reviews (2013)](http://www.thepublicreviews.com/turn-2013-contact-manchester).         
->• *Enjoyed the eclectic mix. A good way to sample dance, especially if you haven't seen a lot before.*<br>• *…creative and great to see such different work from emerging artists…*<br>• *A real spur to young talent.*<br>Audience Feedback (2014)            
->• *Great to see creative innovative new local work. Really good vibe.*<br>• *Weird and wonderful — as always.*<br>• *Fantastic platform for artists.*<br>Audience Feedback (2013)             
-          
-Turn 2015 previewed in articles by [Creative Tourist](http://www.creativetourist.com/articles/dance/manchester/dance-in-manchester-dance-in-the-new-year), [The Skinny](http://www.theskinny.co.uk/things-to-do/northwest/top-events-northwest-26-mar-2-apr-the-ladies-room-threshold-festival-cg-open-house) + [The Telegraph/The Axis](http://www.telegraph.co.uk/sponsored/education/the-axis/11450135/uk-student-nightlife.html).          
-                  
-####Access Information                 
-Turn 2015 takes place in a number of different spaces and formats — some seated, some standing, some limited capacity, some participatory.<br>With intervals, both evenings last about 2½ hours; Saturday's Mixed Movement extends beyond this by another 1½ hours max.<br>Age advisory: 14+ (*parental discretion*). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.               
-                          
+####What people said about [Works Ahead 2014](/archive/2014-worksahead)      
+>• *An extremely impressive, varied collection of work.*          
+>• *Some cracking emerging artists having the chance to perform here has made for some brilliant entertainment.*        
+>• *…creates a safe space from within which artists and audiences can develop.*          
+        
+####Access Information        
+**Due to mechanical breakdown, Works Ahead is only accessible by stairs (two floors). Word of Warning + Contact apologise to any potential audience member for whom this is not possible.**<br>Age advisory: 16+ A double bill of new performance in development, the evening will last approximately 1¾ hours — each show lasts approximately 30-40 minutes, with a 30 minute interval between during which our audience will be asked to return to the bar/foyer. Mainly spoken English. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
+        
 ####Credits         
-[Turn](/hab/turn) 2015 is co-produced by [hÅb](/hab), [Contact](http://contactmcr.com) + [Dance Manchester](http://www.digm.org); supported using public funding by Arts Council England + funded by Manchester City Council; a greenroom legacy project. *Image: Levantes Dance Theatre, 2014*        
-        
-####Websites        
-<http://turnmcr.org> | #TurnMcr
+[Works Ahead](/hab/worksahead) 2015 is commissioned by hÅb + co-produced with Contact; supported using public funding by Arts Council England + funded by Manchester City Council. | Project Mentor: Peader Kirk.
