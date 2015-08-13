@@ -23,9 +23,9 @@ header_image: "header.jpg"
         
           
 ####Venue + Booking Details    
-Date: Friday 23 + ?? October 2015, ??pm              
+Date: Thursday 22 October 2015, 8pm              
 [Venue: STUN Studio at Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA          
-[Tickets: £5/3](http://www.z-arts.org/events/word-of-warning) | Please note there is a limited capacity.         
+[Tickets: £8/5](http://www.z-arts.org/events/word-of-warning) | Please note there is a limited capacity.         
 Box Office Tel: 0161 232 6089 
 
 ####Access Information      
