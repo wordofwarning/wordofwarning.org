@@ -17,17 +17,10 @@ header_image: "header_domestic_bw.jpg"
 ---
 **Autumn 2013** saw a series of intimate interactions, homely conversations + domestic dramas played out in a block of flats, still inhabited but in the midst of major refurbishment — [**Domestic**](/archive/2013-domestic) hosted 7 pieces over 10 days by artists including the vacuum cleaner, Jo Bannon and Fergus J Evans, with work ranging from an immersive environment in a garage, to a solo naked shower piece and a woman's story of domestic despair atop a ¼ton of potatoes…       
         
-**In Autumn 2015, Domestic II** will be unleashed on a new tower block in a new location somewhere in the Manchester conurbation; this time uninhabited, but definitely mid-refurbishment, we will be occupying a space in transition: not quite a building-site, not quite a home…   
-    
-The open call for proposals is now closed.  We had 101 proposals in total and we are currently working our way through them.    
-      
-Check back at [domesticmcr.org](http://www.domesticmcr.org) in early September for the programme.    
-
-It will be rough, it will be low-tech, it will be unpredictable! To get a feel for it, have a look at [2013's image gallery](/galleries/2013-domestic).   
-
-● Enquiries: 0161 232 6086 | <mailto:info@habarts.org> | #DomesticII        
-● Address: hÅb, c/o Z-arts, 335 Stretford Road, Manchester, M15 5ZA             
-
-<http://domesticmcr.org>              
+**In Autumn 2015, Domestic II** will be unleashed in late September on a new tower block in a new location somewhere in the Manchester conurbation (M3); this time uninhabited, but definitely mid-refurbishment, we will be occupying a space in transition: not quite a building-site, not quite a home… The open call for proposals is now closed.             
                 
-Taking place within the M3 postcode area (TBC) on 26 September 2015, Domestic II is presented by Word of Warning; produced by hÅb; supported using public funding by Arts Council England + funded by Manchester City Council; supported by The Guinness Partnership + City Response Limited.
+Check back at [domesticmcr.org](http://www.domesticmcr.org) in early September for the programme. It will be rough, it will be low-tech, it will be unpredictable! To get a feel for it, have a look at [2013's image gallery](/galleries/2013-domestic).         
+                
+Enquiries: 0161 232 6086 | <mailto:info@habarts.org> | <http://domesticmcr.org> | #DomesticII           
+        
+Taking place within the M3 postcode area 24-26 September 2015, Domestic II is presented by Word of Warning; produced by hÅb; supported using public funding by the National Lottery through Arts Council England, supported using public funding by Arts Council England + funded by Manchester City Council; supported by The Guinness Partnership + City Response Limited.
