@@ -21,6 +21,6 @@ header_image: "header_emergency_photo.jpg"
 • a free, public micro-festival + open submission platform;   
 • an opportunity for artists to meet, show and peer-review work;      
 • a selection event for a number of small [Works Ahead](/hab/worksahead) commissions to be developed + supported by [hÅb](/hab).        
-• Enquiries: <mailto:emergency@habarts.org> | <http://emergencymcr.org> | #EmergencyMcr        
+• Enquiries: <mailto:emergency@habarts.org> | <http://emergencymcr.org> | [#EmergencyMcr](http://twitter.com/hashtag/EmergencyMcr)	
     
 Emergency 2015 is presented by Word of Warning, STUN + Z-arts; produced by hÅb; supported using public funding by Arts Council England + funded by Manchester City Council; a greenroom legacy project.
