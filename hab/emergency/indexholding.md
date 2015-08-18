@@ -26,4 +26,4 @@ Our **[fifteenth Emergency](/archive/2014-emergency)** took over the cavernous r
         
 Enquiries: <mailto:emergency@habarts.org> ¦ <http://emergencymcr.org> ¦ #EmergencyMcr        
         
-[Emergency 2014](/archive/2014-emergency) was presented by Word of Warning, STUN + Z-arts; produced by hÅb; supported using public funding by Arts Council England + funded by Manchester City Council; a greenroom legacy project.
+Emergency 2015 is presented by Word of Warning, STUN + Z-arts; produced by hÅb; supported using public funding by Arts Council England + funded by Manchester City Council; a greenroom legacy project.
