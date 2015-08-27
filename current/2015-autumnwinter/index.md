@@ -6,8 +6,8 @@ rootpath: "../../"
 is_index: true
 
 ---
-*A real trip of a season — from the [perils of growing-up a man](/current/2015-worksahead), through an [American odyssey](/current/2015-springsummer/bailey) to a [grandmother's quest for a new future](/current/2015-springsummer/hartley) and a [Disney-fuelled walk in the park](/current/2015-springsummer/marshman).*               
-                
+*A season under construction — from a [one-off, never to be repeated trip around a building in transition](/current/2015-domestic), to a [sweet sixteenth](/current/2015-emergency), with a [digital swirl of dance](/current/2015-autumnwinter/pritchard) and the [beatification of an old friend](/current/2015-autumnwinter/makishi).*
+		
 We look forward to seeing you at some or all of it; if you want to check out what happened last season, have a look at our [Spring/Summer 2015 archive](/archive/2015-springsummer).        
         
 ####What is Word of Warning + where did it come from?
