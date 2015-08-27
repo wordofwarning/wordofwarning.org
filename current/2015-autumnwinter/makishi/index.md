@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Stacy Makishi" # the name of the artist or company
-show: "VesperTime" # the name of the show
+show: "Vesper Time" # the name of the show
 artist_size: 1
 show_size: 2
 header_image: "header.jpg"    
@@ -32,7 +32,7 @@ Box Office Tel: 0161 274 0600
 Age advisory: 16+ With no interval, the show lasts approximately 60 minutes. English spoken word and ???. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
 ####More      
-Last seen in [2013's performance to die for](/archive/2013-autumnwinter/makishi), Stacy Makishi returns to Manchester in a solo show that draws on her stand-up comedy roots and theatrical sense of the uncanny… Looking at loss and mourning, and Stacy's one-time wish to be a missionary, *VesperTime* weaves together the undercurrents of *Moby Dick* alongside 80s and 90s pop culture to offer up a 'vesper', a secular evening prayer.             
+Last seen in [2013's performance to die for](/archive/2013-autumnwinter/makishi), Stacy Makishi returns to Manchester in a solo show that draws on her stand-up comedy roots and theatrical sense of the uncanny… Looking at loss and mourning, and Stacy's one-time wish to be a missionary, *Vesper Time* weaves together the undercurrents of *Moby Dick* alongside 80s and 90s pop culture to offer up a 'vesper', a secular evening prayer.             
        
 ####Who is she?     
 Stacy Makishi is a transplant from Hawaii who found paradise in Dalston, East London in 1994.            
@@ -45,12 +45,12 @@ A workshop leader and mentor of international renown, Makishi opens her making p
        
 She has been awarded an ICA Attached Artist Award, a Millennium Fellowship Award, a Live Art Development Agency One to One Bursary, an Artsadmin Bursary and the Franklin Furnace Award. She is an Associate Artist with Artsadmin, Chelsea Theatre and New Unity.           
        
-####What people have said about *VesperTime*        
+####What people have said about *Vesper Time*        
 >*…charismatically witty yet painful and honest…*<br>[Total Theatre](http://totaltheatre.org.uk/vespertime)     
 >*…genuinely moving…*<br>[A Younger Theatre](http://www.ayoungertheatre.com/review-vespertime-chelsea-theatre-stacey-makishi)
        
 ####Credits          
-A Chelsea Theatre + Colchester Arts Centre co-commission, supported by the National Theatre Studio; supported using public funding by the National Lottery through Arts Council England; produced by Artsadmin.
+Developed with the support of the National Theatre Studio; a Chelsea Theatre + Colchester Arts Centre co-commission; supported using public funding by the National Lottery through Arts Council England; produced by Artsadmin.
        
 ####Website          
 <http://stacymakishi.com>
