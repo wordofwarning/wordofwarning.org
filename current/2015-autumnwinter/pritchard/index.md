@@ -17,10 +17,10 @@ header_image: "header.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning*,* Divergency *+* Sustained Theatre Up North ORDER?       
+*Presented by* Word of Warning *+* Sustained Theatre Up North       
            
 ####In Brief     
-        
+A seamless landscape of flowing image, where graphics bend effortlessly around the arcs of a live dancer.        
           
 ####Venue + Booking Details    
 Date: Thursday 22 October 2015, 8pm              
