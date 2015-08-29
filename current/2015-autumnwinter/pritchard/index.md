@@ -47,7 +47,7 @@ and has brought about an extraordinary new artistic partnership with Guernsey ba
 >*I witnessed a mesmerizing piece of work, where technology is married with dance in a very human way, not overpowered by the technology but working in tandem. *<br>Sonia Hughes, Writer/Director    
 
 ####Credits         
-Supported using public funding by the National Lottery through Arts Council England;  and by Guernsey Arts Commission, Journey Through Time , STUN, hÅb, Dance Manchester.
+Supported using public funding by the National Lottery through Arts Council England;  and by Guernsey Arts Commission, Journey Through Time, STUN, hÅb, Dance Manchester.
          
 ####Websites    
 [www.thebodyoflight.dance](http://www.thebodyoflight.dance) | [www.darrenpritcharddance.com](http://www.darrenpritcharddance.com) | [@DarrenDancer](http://twitter.com/DarrenDancer)
