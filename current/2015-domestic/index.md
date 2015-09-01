@@ -38,4 +38,6 @@ Box Office Tel: ???
 Age advisory: ??+ For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.       
         
 ####Credits         
-[Domestic](/hab/domestic) 2015 is ??? commissioned by hÅb + ??? supported by Guiness Partnership; supported using public funding by the National Lottery through Arts Council England, supported using public funding by Arts Council England + funded by Manchester City Council.
+[Domestic](/hab/domestic) 2015 is  produced by hÅb with The Guinness Partnership; and supported by City Response Limited and supported using public funding by the National Lottery through Arts Council England.    
+Photo: licensed through Creative Commons © [T.J.Blackwell](http://tjblackwell.co.uk/lucid)     
+
