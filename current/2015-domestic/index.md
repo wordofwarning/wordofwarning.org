@@ -22,22 +22,23 @@ show_size: 4
 ###Thursday 24 — Saturday 26 September 2015        
 **A one-off, never to be repeated trip around a building in transition. Intimate interactions, homely conversations and domestic dramas played out in a block of flats…**        
          
-###Evening Performances		
-*Thu 24 Sep, 7.30pm | £5 [booking essential]*        
-Tin Can People | Ria Hartley | Cheryl Martin | Louise Wallwein + guest Liz Clarke        
-*Fri 25 Sep, 7.30pm | £5 [booking essential]*        
-Tin Can People | Ria Hartley | Cheryl Martin | Louise Wallwein + guest Catherine Hoffman        
-*Sat 26 Sep, 7.30pm | £5 [booking essential]*        
-Tin Can People | Ria Hartley | Cheryl Martin | Louise Wallwein + guest Ellie Stamp        
+###Evening Performances	[booking essential]	
 **A series of 'at homes' atop a transforming tower block. Stories of real lives in a surreal setting.**         
-        
-*Fri 25 Sep, 7pm + 10pm | £3 [booking essential]*        
+*Thu 24 Sep, 7.30pm | £5*        
+Tin Can People | Ria Hartley | Cheryl Martin | Louise Wallwein + guest Liz Clarke        
+*Fri 25 Sep, 7.30pm | £5*        
+Tin Can People | Ria Hartley | Cheryl Martin | Louise Wallwein + guest Catherine Hoffman        
+*Sat 26 Sep, 7.30pm | £5*        
+Tin Can People | Ria Hartley | Cheryl Martin | Louise Wallwein + guest Ellie Stamp        
+
+**A slideshow exploring absence and presence, flying and falling, and the power of the artist to fail or be free.**        
+*Fri 25 Sep, 7pm + 10pm | £3*        
 Michael Pinchbeck        
-**A slideshow exploring absence and presence, flying and falling, and the power of the artist to fail or be free.**                
-###Daytime Performances        
-*Sat 26 Sep, 12noon-5pm | FREE [come + go as you please]*        
-Leo Burtin | Clare Charnley | Charlotte CHW | Ria Hartley | Afreena Islam | Jamil Keating | Doris La Trine | Mackenzie & Reed | Ana Mendes | Threshold | Tin Can People | Louise Wallwein | Laura Wyatt O'Keeffe        
+       
+###Daytime Performances [come + go as you please]        
 **A live gallery takeover of this gutted ground floor, peeling back the layers to expose our social foundations. Domestic tales of pasts remembered and forgotten, and the impossibility of flat-pack furniture.**        
+*Sat 26 Sep, 12noon-5pm | FREE*        
+Leo Burtin | Clare Charnley | Charlotte CHW | Ria Hartley | Afreena Islam | Jamil Keating | Doris La Trine | Mackenzie & Reed | Ana Mendes | Threshold | Tin Can People | Louise Wallwein | Laura Wyatt O'Keeffe        
          
 Have a look at the first Domestic [programme](/archive/2013-domestic) + [gallery](/galleries/2013-domestic).        
 http://domesticmcr.org | #domesticmcr         
@@ -48,9 +49,9 @@ http://domesticmcr.org | #domesticmcr
 Box Office Tel: 07581 299 439        
         
 ####What people said about [Domestic (2013)](/archive/2013-domestic)      
->Curated by the ever-impressive Word Of Warning…<br>*[Lyn Gardner, The Guardian](http://www.theguardian.com/stage/2013/nov/02/this-weeks-theatre)*
->• Very original and enjoyable, I have never attended anything like this before. Truly thought provoking.<br>*Audience member*          
->• A really eclectic and engaging programme of intimate work in a series of exciting and unique spaces.<br>*Audience member*          
+>Curated by the ever-impressive Word Of Warning…<br>*[Lyn Gardner, The Guardian](http://www.theguardian.com/stage/2013/nov/02/this-weeks-theatre)*        
+>Very original and enjoyable, I have never attended anything like this before. Truly thought provoking.<br>*Audience member*          
+>A really eclectic and engaging programme of intimate work in a series of exciting and unique spaces.<br>*Audience member*          
          
 ####Access Information        
 For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.       
