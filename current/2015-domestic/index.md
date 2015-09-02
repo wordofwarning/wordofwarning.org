@@ -7,7 +7,7 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Domestic II" # the name of the artist or company
-show: "at Matthias Court, M3 6JD" # the name of the show
+show: "at Matthias Court, M3" # the name of the show
 artist_size: 1
 show_size: 4
 
@@ -26,27 +26,26 @@ show_size: 4
 **A series of 'at homes' atop a transforming tower block. Stories of real lives in a surreal setting.**        
 *Thu 24 Sep, 7.30pm | £5 [booking essential]*        
 Tin Can People — Audio Caff | Ria Hartley — My Brother's Father | Cheryl Martin — Alaska | Louise Wallwein — Glue | Liz Clarke — Domestic Appliances        
-*Fri 25 Sep, 7pm + 10pm | £3 [booking essential]*			
-Michael Pinchbeck — The man who flew into space from his apartment				
-*Fri 25 Sep, 7.30pm | £5 [booking essential]*			
-Tin Can People — Audio Caff | Ria Hartley — My Brother's Father | Cheryl Martin — Alaska | Louise Wallwein — Glue | Catherine Hoffman — Free Lunch with the Stench Wench			
-*Sat 26 Sep, 7.30pm | £5 [booking essential]*			
-Tin Can People — Audio Caff | Ria Hartley — My Brother's Father | Cheryl Martin — Alaska | Louise Wallwein — Glue | Ellie Stamp — Are You Lonesome Tonight?		
-		
-###Daytime Performances
-*Sat 26 Sep, 12noon-5pm | FREE [come + go as you please]*			
-**A live gallery takeover of this gutted ground floor, peeling back the layers to expose our social foundations. Domestic tales of pasts remembered and forgotten, and the impossibility of flat-pack furniture.**			
-Leo Burtin | Clare Charnley | Charlotte CHW | Ria Hartley | Afreena Islam | Jamil Keating | Doris La Trine | Mackenzie & Reed | Ana Mendes | Threshold | Tin Can People | Louise Wallwein | Laura Wyatt O'Keeffe		
-		
-Have a look at the first Domestic [programme](/archive/2013-domestic) + [gallery](/galleries/2013-domestic).		
-		
-http://domesticmcr.org | #domesticmcr		
-		
-####Venue + Booking Details
-[Venue: Matthias Court, M3 6JD](http://bit.ly/domesticTWO)            
-[Tickets: book via We Got Tickets](http://www.wegottickets.com/wordofwarning)            
-Box Office Tel: 07581 299 439 
-
+*Fri 25 Sep, 7pm + 10pm | £3 [booking essential]*        
+Michael Pinchbeck — The man who flew into space from his apartment        
+*Fri 25 Sep, 7.30pm | £5 [booking essential]*        
+Tin Can People — Audio Caff | Ria Hartley — My Brother's Father | Cheryl Martin — Alaska | Louise Wallwein — Glue | Catherine Hoffman — Free Lunch with the Stench Wench        
+*Sat 26 Sep, 7.30pm | £5 [booking essential]*        
+Tin Can People — Audio Caff | Ria Hartley — My Brother's Father | Cheryl Martin — Alaska | Louise Wallwein — Glue | Ellie Stamp — Are You Lonesome Tonight?        
+        
+###Daytime Performances        
+*Sat 26 Sep, 12noon-5pm | FREE [come + go as you please]*         
+**A live gallery takeover of this gutted ground floor, peeling back the layers to expose our social foundations. Domestic tales of pasts remembered and forgotten, and the impossibility of flat-pack furniture.**        
+Leo Burtin | Clare Charnley | Charlotte CHW | Ria Hartley | Afreena Islam | Jamil Keating | Doris La Trine | Mackenzie & Reed | Ana Mendes | Threshold | Tin Can People | Louise Wallwein | Laura Wyatt O'Keeffe        
+        
+Have a look at the first Domestic [programme](/archive/2013-domestic) + [gallery](/galleries/2013-domestic).        
+http://domesticmcr.org | #domesticmcr         
+        
+####Venue + Booking Details        
+[Venue: Matthias Court, *entrance via Cannon Street*, Salford, M3 6JD](http://bit.ly/domesticTWO)            
+[Tickets: book via We Got Tickets](http://www.wegottickets.com/wordofwarning) (10% online booking fee applies)            
+Box Office Tel: 07581 299 439        
+        
 ####What people said about [Domestic (2013)](/archive/2013-domestic)      
 >Curated by the ever-impressive Word Of Warning…<br>*[Lyn Gardner, The Guardian](http://www.theguardian.com/stage/2013/nov/02/this-weeks-theatre)*
 >• *AUDIENCE QUOTE.*          
@@ -56,6 +55,6 @@ Box Office Tel: 07581 299 439
 For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.       
         
 ####Credits         
-[Domestic](/hab/domestic) 2015 is produced by hÅb with The Guinness Partnership; supported by City Response Limited + supported using public funding by the National Lottery through Arts Council England.			
-Photo licensed through Creative Commons © [T.J.Blackwell](http://tjblackwell.co.uk/lucid)			
+[Domestic](/hab/domestic) 2015 is produced by hÅb with The Guinness Partnership; supported by City Response Limited + supported using public funding by the National Lottery through Arts Council England.        
+Photo licensed through Creative Commons © [T.J.Blackwell](http://tjblackwell.co.uk/lucid)        
 Domestic II is running alongside Flow Salford [www.flowsalford.co.uk](http://www.flowsalford.co.uk)
