@@ -18,14 +18,11 @@ header_image:
 ---
 *Presented by* Word of Warning, STUN + Z-arts          
 
-###Saturday 3 October 2015, ???12noon-10pm. Free             
-**Manchester's sixteenth free micro-marathon of the bizarre + the beautiful pops up throughout the cavernous realms of Z-arts — drop in for just ten minutes or stay for the full ???ten hours…**      
+###Saturday 3 October 2015, 12noon-10pm. Free             
+**Manchester's sixteenth free micro-marathon of the bizarre + the beautiful pops up throughout the cavernous realms of Z-arts — drop in for just ten minutes or stay for the full ten hours…**      
                        
-From gallery to theatre, changing room to basement, Z-arts will reverberate with some twenty-nine individual shows in our *fifteenth* performance lucky-dip, happening this year under one roof… Your chance to sample the different — all for free, featuring (*participating artists subject to change*):        
-
-              
-**N.B.** ??Primarily an adult event, Emergency 2015 runs from ??12noon to 10pm; ??from 3pm onwards we *advise* that work may not be suitable for under 18s.    
-          
+From gallery to theatre, changing room to basement, Z-arts will reverberate with some twenty-nine individual shows in our *sixteenth* performance lucky-dip, happening this year under one roof… Your chance to sample the different — all for free, featuring (*participating artists subject to change*):        
+        
 ####Venue + Booking Details
 Date: Saturday 3 October 2015, ??12noon-10pm    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
@@ -37,7 +34,7 @@ A review of the work presented at BLANKSPACE by [C. James Fagan](http://confused
 A review of some of the work presented at Z-arts by [The Mancunion](http://mancunion.com/2013/10/17/emergency2013).        
         
 ####Access Information REDO    
-Emergency 2015 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. Largely adult-focussed, some works will not be suitable for younger viewers (i.e. under 18s) from 3pm. We apologise but most of the of one-to-ones are not wheelchair accessible. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
+Emergency 2015 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. Largely adult-focussed, some works will not be suitable for younger viewers (i.e. under 18s). We apologise but some of the work is not wheelchair accessible. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
             
 ####Credits         
 [Emergency](/hab/emergency) 2015 is produced by [hÅb](/hab); supported using public funding by Arts Council England, funded by Manchester City Council, supported by [STUN](http://stunlive.com) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.        
