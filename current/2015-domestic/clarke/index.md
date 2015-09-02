@@ -9,7 +9,7 @@ artist: "Ria Hartley"
 show: "My Brother's Father"
 artist_size: 1
 show_size: 3
-header_image: "header_hartley.jpg"
+header_image: "header_clarke2.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -20,11 +20,8 @@ header_image: "header_hartley.jpg"
 *Part of* Domestic II, *presented by* Word of Warning + The Guinness Partnership.      
          
 ####In Brief                      
-Can you ever fully recover from years of childhood abuse & trauma?    
-*My Brother's Father* is an installation with live performance. This intimate and visceral work invites you to witness silenced and hidden fragments of childhood memories which piece together an abusive relationship and the preservation  of self, sanity and survival.    
-
-Sited in an empty flat, the audience are given tools to reveal and discover the work, and also to walk away when they choose.    
-    
+Liz Clarke channels a version of herself; her alter ego Betty Bruiser: a hardcore Haus Frau in a strangly nostalgic peep into a twisted domestic scene. Join her as she whistfully wrangles with her white goods and merges with her machines.    
+   
 ####Venue + Booking Details
 Dates: Friday 24 (+ Saturday 25: SOLD-OUT) April 2015, 8pm (Double Bill)        
 [Venue: Contact (space 2)](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA            
@@ -33,21 +30,28 @@ Box Office Tel: 0161 274 0600
         
 ####Access Information      
 As a sited event, Domestic II presents a number of access challenges and whilst we will make every effort to help, wheelchair access may not be possible, please contact us for details.    
-Combining autobiographical content in visual and textual form with live performance.    
-Age advisory: 12+    
+A short performance/installation.    
+Age advisory: 16+.  Please note this performance contains sensitive material.    
 For specific age and access information please email info@habarts.org or call 07581 299 439.  
                        
 ####More   
-*My Brothers Father* was first developed and performed in an abandoned house in 2007, presenting fragmented autobiographical narratives from 1994–2000 depicting the abusive relationship between myself and my Brothers Father.    
- 
-####Who is she?    
-Ria Hartley is an interdisciplinary solo performance artist based in Bristol, UK. Her work has taken forms as devised theatre, site-specific and durational performance, live art, installation, video, photography, one-to-one performance and socio-political art. Her practice pays close attention to memory, identity, human relationships, and shared narratives and often invites participation and exchange between herself and her audiences, seeking to blur the relationship between performer and audience, space and situation in order to open new spaces of thought and exchange.  Upcoming performances include: SPIT KIT  (Fierce Festival, Oct 2015)  Descansos (IPA Autumn 2015, Arnolfini) RECALL (SPILL National Showcase, Oct/Nov 2015) Untouchable (Contact Flying Solo Festival, May 2016.    
+With a post modern nod to a by- gone era *Domestic Appliances* is a glimpse into the warped reality of this wistful wife. Tethered to her white goods she goes about her mundane tasks, a pristine parody of the feminine.    
+ 
+Is she one teaspoon short of a cutlery draw or has she enlisted some soporific medicinal assistance? We're never quite sure.    
+ 
+The piece tinkers with (wo)man and machine, the merging of body and object in a setting charged with gender signifiers. The Body undergoes a minor trauma in order to complete a function as part of machine but any 'trauma' that the audience might feel witnessing this will be undercut by Bety's choice of soundtrack and her sheer ambivalence to the action.    
    
+####Who is she?    
+Liz Clarke is a live artist. Her work is primarily concerned with the Body as Site and Object; exploring its boundaries and vulnerabilities in performance. Practicing in the spaces between theatre, cabaret and live art she questions what happens when the genres’ unwritten rules are broken, merged, unclassified, exploited. Her work is strongly connected with representing the Female through alienation, intimacy and construction of mythical Hyperfeminine archetypes. She has performed at In between Time, Arnolfini, Duckie, Roundhouse, Appetite, Shunt, ]PerformanceSpace[, Mayfest, on stages, understairs, in cars, giant balloons & nightclubs world-wide. She is resident performer & mentor with Beacons Icons & Dykons.    
+Through her socially engaged practice with Liz Clarke & Company she encourages people to take supported risks through performance and facilitates the creation new work.    
+Her latest work Cannonballista charts the rise and fall of her Super Hero Alter Ego Betty Bruiser, whilst inviting participants from the local community to take to the stage with her through a series of intensive workshops. Cannonballista has shown at Arnolfini and Appetite Festival in 2014 and Trinity 2015.    
+    
 ####What people have said about her                                                
->*Ria has established herself as one of the UK’s most exciting young performance makers, and is also one of a small handful of artists addressing issues around autobiographical trauma, in this instance domestic violence.* — Lois Keidan, Director Live Art Development Agency    
+>*Liz's work evokes a glitterball in a junkyard.* — Ron Athey.    
+>*Liz is a performance alchemist...The quality and sincerity of her work is astounding.* — Audience members. 
                         
 ####Credits         
-Co-commissioned by hÅb for Domestic II, with special thanks to Dr Joanne 'Bob' Whalley & Dr Lee Miller.    
-
+Images: Ragdoll photography.    
+    
 ####Websites
-[riahartley.com](http://www.riahartley.com) | [@RiaJadeHartley](http://twitter.com/RiaJadeHartley)
+[lizclarke.org](http://www.lizclarke.org) | [@lizgclarke](http://twitter.com/lizgclarke)
