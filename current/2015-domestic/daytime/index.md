@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: 2014-emergency
+layout: 2015-domestic
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
