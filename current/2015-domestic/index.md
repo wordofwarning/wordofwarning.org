@@ -7,7 +7,7 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Domestic II" # the name of the artist or company
-show: "Performance stripped bare." # the name of the show
+show: "at Matthias Court, M3 6JD" # the name of the show
 artist_size: 2
 show_size: 3
 
