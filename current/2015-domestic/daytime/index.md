@@ -102,7 +102,7 @@ Portuguese-born Ana Mendes is a writer and artist working and living in London a
              
 ####Venues + Booking Details  
 Date: Saturday 26 September 2015, 12noon-5pm        
-[Venue: Matthias Court ](http://), M3 6JD.       
+[Venue: Matthias Court ](https://www.google.com/maps/d/viewer?mid=zUP9hOfLluWs.kxF_FyzLKBI8&usp=sharing), M3 6JD.       
 Tickets: FREE no booking required; some ltd capacity shows will have sign-up sheets on the day      
 Enquires: 07581 299 439    
           
