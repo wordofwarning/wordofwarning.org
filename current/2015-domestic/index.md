@@ -22,20 +22,20 @@ show_size: 4
 ###Thursday 24 — Saturday 26 September 2015        
 **A one-off, never to be repeated trip around a building in transition. Intimate interactions, homely conversations and domestic dramas played out in a block of flats…**        
          
-###Evening Performances	[booking essential]	
+###Evening Performances, Booking Essential	
 **A series of 'at homes' atop a transforming tower block. Stories of real lives in a surreal setting.**         
 *Thu 24 Sep, 7.30pm | £5*        
-Tin Can People | Ria Hartley | Cheryl Martin | Louise Wallwein + guest Liz Clarke        
+Tin Can People | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Liz Clarke        
 *Fri 25 Sep, 7.30pm | £5*        
-Tin Can People | Ria Hartley | Cheryl Martin | Louise Wallwein + guest Catherine Hoffman        
+Tin Can People | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Catherine Hoffman        
 *Sat 26 Sep, 7.30pm | £5*        
-Tin Can People | Ria Hartley | Cheryl Martin | Louise Wallwein + guest Ellie Stamp        
+Tin Can People | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Ellie Stamp        
 
 **A slideshow exploring absence and presence, flying and falling, and the power of the artist to fail or be free.**        
 *Fri 25 Sep, 7pm + 10pm | £3*        
 Michael Pinchbeck        
        
-###Daytime Performances [come + go as you please]        
+###Daytime Performances, Come + Go As You Please        
 **A live gallery takeover of this gutted ground floor, peeling back the layers to expose our social foundations. Domestic tales of pasts remembered and forgotten, and the impossibility of flat-pack furniture.**        
 *Sat 26 Sep, 12noon-5pm | FREE*        
 Leo Burtin | Clare Charnley | Charlotte CHW | Ria Hartley | Afreena Islam | Jamil Keating | Doris La Trine | Mackenzie & Reed | Ana Mendes | Threshold | Tin Can People | Louise Wallwein | Laura Wyatt O'Keeffe        
@@ -44,7 +44,11 @@ Have a look at the first Domestic [programme](/archive/2013-domestic) + [gallery
 http://domesticmcr.org | #domesticmcr         
         
 ####Venue + Booking Details        
-[Venue: Matthias Court, *entrance via Cannon Street*, Salford, M3 6JD](http://bit.ly/domesticTWO)            
+Dates: Thursday 24 — Saturday 26 September 2015 
+[Venue: Matthias Court, off Cannon Street, Salford, M3 6JD](http://bit.ly/domesticTWO) — a 5 minute walk from Salford Cathedral???, with buses stopping close by ???.            
+Evening Performances can be [booked online via We Got Tickets (10% booking fee applies).](http://www.wegottickets.com/wordofwarning)
+Evening Performances can be reserved over the phone: 07581 299 439 (leave a message + we'll get back to you). 
+
 [Tickets: book via We Got Tickets](http://www.wegottickets.com/wordofwarning) (10% online booking fee applies)            
 Box Office Tel: 07581 299 439        
         
