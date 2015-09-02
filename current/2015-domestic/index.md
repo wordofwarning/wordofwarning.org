@@ -22,20 +22,24 @@ show_size: 4
 ###Thursday 24 — Saturday 26 September 2015        
 **A one-off, never to be repeated trip around a building in transition. Intimate interactions, homely conversations and domestic dramas played out in a block of flats…**        
          
-###Evening Performances		
+####Evening Performances		
 **A series of 'at homes' atop a transforming tower block. Stories of real lives in a surreal setting.**        
 *Thu 24 Sep, 7.30pm | £5 [booking essential]*        
-Tin Can People — Audio Caff | Ria Hartley — My Brother's Father | Cheryl Martin — Alaska | Louise Wallwein — Glue | Liz Clarke — Domestic Appliances        
+Tin Can People | Ria Hartley | Cheryl Martin | Louise Wallwein + guest Liz Clarke        
+        
+*Fri 25 Sep, 7.30pm | £5 [booking essential]*        
+Tin Can People | Ria Hartley | Cheryl Martin | Louise Wallwein + guest Catherine Hoffman        
+         
+*Sat 26 Sep, 7.30pm | £5 [booking essential]*        
+Tin Can People | Ria Hartley | Cheryl Martin | Louise Wallwein + guest Ellie Stamp        
+        
+**A slideshow exploring absence and presence, flying and falling, and the power of the artist to fail or be free.**        
 *Fri 25 Sep, 7pm + 10pm | £3 [booking essential]*        
 Michael Pinchbeck — The man who flew into space from his apartment        
-*Fri 25 Sep, 7.30pm | £5 [booking essential]*        
-Tin Can People — Audio Caff | Ria Hartley — My Brother's Father | Cheryl Martin — Alaska | Louise Wallwein — Glue | Catherine Hoffman — Free Lunch with the Stench Wench        
-*Sat 26 Sep, 7.30pm | £5 [booking essential]*        
-Tin Can People — Audio Caff | Ria Hartley — My Brother's Father | Cheryl Martin — Alaska | Louise Wallwein — Glue | Ellie Stamp — Are You Lonesome Tonight?        
         
-###Daytime Performances        
-*Sat 26 Sep, 12noon-5pm | FREE [come + go as you please]*         
+####Daytime Performances        
 **A live gallery takeover of this gutted ground floor, peeling back the layers to expose our social foundations. Domestic tales of pasts remembered and forgotten, and the impossibility of flat-pack furniture.**        
+*Sat 26 Sep, 12noon-5pm | FREE [come + go as you please]*        
 Leo Burtin | Clare Charnley | Charlotte CHW | Ria Hartley | Afreena Islam | Jamil Keating | Doris La Trine | Mackenzie & Reed | Ana Mendes | Threshold | Tin Can People | Louise Wallwein | Laura Wyatt O'Keeffe        
         
 Have a look at the first Domestic [programme](/archive/2013-domestic) + [gallery](/galleries/2013-domestic).        
