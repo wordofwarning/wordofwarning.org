@@ -46,11 +46,8 @@ http://domesticmcr.org | #domesticmcr
 ####Venue + Booking Details        
 Dates: Thursday 24 — Saturday 26 September 2015 
 [Venue: Matthias Court, off Cannon Street, Salford, M3 6JD](http://bit.ly/domesticTWO) — a 5 minute walk from Salford Cathedral???, with buses stopping close by ???.            
-Evening Performances can be [booked online via We Got Tickets (10% booking fee applies).](http://www.wegottickets.com/wordofwarning)
-Evening Performances can be reserved over the phone: 07581 299 439 (leave a message + we'll get back to you). 
-
-[Tickets: book via We Got Tickets](http://www.wegottickets.com/wordofwarning) (10% online booking fee applies)            
-Box Office Tel: 07581 299 439        
+Evening Performances can be [booked online via We Got Tickets (10% booking fee applies).](http://www.wegottickets.com/wordofwarning)        
+Evening Performances can be reserved over the phone: 07581 299 439 (leave a message + we'll get back to you).
         
 ####What people said about [Domestic (2013)](/archive/2013-domestic)      
 >Curated by the ever-impressive Word Of Warning…<br>*[Lyn Gardner, The Guardian](http://www.theguardian.com/stage/2013/nov/02/this-weeks-theatre)*        
