@@ -5,11 +5,11 @@ layout: 2015-domestic
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Ria Hartley"
-show: "My Brother's Father"
+artist: "Catherine Hoffmann"
+show: "Free Lunch With The Stench Wench"
 artist_size: 1
 show_size: 3
-header_image: "header_hartley.jpg"
+header_image: "header_hoffman.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -20,10 +20,10 @@ header_image: "header_hartley.jpg"
 *Part of* Domestic II, *presented by* Word of Warning + The Guinness Partnership.      
          
 ####In Brief                      
-Can you ever fully recover from years of childhood abuse & trauma?    
-*My Brother's Father* is an installation with live performance. This intimate and visceral work invites you to witness silenced and hidden fragments of childhood memories which piece together an abusive relationship and the preservation  of self, sanity and survival.    
+A new solo show exploring the personal and shared experiences of growing up as one of the ‘feral underclass’ in relation to today's 'Austerity Britain'. 
+Fleas, cheap clothes, thrifty bread, cold baths, and debauched disadvantaged dancing will be investigated as I chart the drive for survival and fitting in.    
 
-Sited in an empty flat, the audience are given tools to reveal and discover the work, and also to walk away when they choose.    
+Stories and songs about how to get by and make do will be shared whilst I attempt to overcome the shame of bareness and celebrate our spirit of community and hope.    
     
 ####Venue + Booking Details
 Dates: Friday 24 (+ Saturday 25: SOLD-OUT) April 2015, 8pm (Double Bill)        
@@ -32,22 +32,15 @@ Dates: Friday 24 (+ Saturday 25: SOLD-OUT) April 2015, 8pm (Double Bill)
 Box Office Tel: 0161 274 0600        
         
 ####Access Information      
-As a sited event, Domestic II presents a number of access challenges and whilst we will make every effort to help, wheelchair access may not be possible, please contact us for details.    
-Combining autobiographical content in visual and textual form with live performance.    
+As a sited event, Domestic II presents a number of access challenges and whilst we will make every effort to help, wheelchair access may not be possible, please contact us for details.       
 Age advisory: 12+    
 For specific age and access information please email info@habarts.org or call 07581 299 439.  
-                       
-####More   
-*My Brothers Father* was first developed and performed in an abandoned house in 2007, presenting fragmented autobiographical narratives from 1994–2000 depicting the abusive relationship between myself and my Brothers Father.    
  
 ####Who is she?    
-Ria Hartley is an interdisciplinary solo performance artist based in Bristol, UK. Her work has taken forms as devised theatre, site-specific and durational performance, live art, installation, video, photography, one-to-one performance and socio-political art. Her practice pays close attention to memory, identity, human relationships, and shared narratives and often invites participation and exchange between herself and her audiences, seeking to blur the relationship between performer and audience, space and situation in order to open new spaces of thought and exchange.  Upcoming performances include: SPIT KIT  (Fierce Festival, Oct 2015)  Descansos (IPA Autumn 2015, Arnolfini) RECALL (SPILL National Showcase, Oct/Nov 2015) Untouchable (Contact Flying Solo Festival, May 2016.    
+Catherine Hoffmann explores the interaction between performance art, theatre, comedy and music. She creates a mixture of interactive one to one performances as well as staged pieces.      
    
 ####What people have said about her                                                
->*Ria has established herself as one of the UK’s most exciting young performance makers, and is also one of a small handful of artists addressing issues around autobiographical trauma, in this instance domestic violence.* — Lois Keidan, Director Live Art Development Agency    
-                        
-####Credits         
-Co-commissioned by hÅb for Domestic II, with special thanks to Dr Joanne 'Bob' Whalley & Dr Lee Miller.    
+>*Catherine Hoffmann, is such a commanding presence…Her voice is full and gorgeous, the more bestial and primal her performance becomes, the more thrillingly alive the work feels…* — This Is Cabaret   
 
 ####Websites
-[riahartley.com](http://www.riahartley.com) | [@RiaJadeHartley](http://twitter.com/RiaJadeHartley)
+[cathoffmann.com](http://www.riahartley.com) | [@CathHoffmann](http://twitter.com/CathHoffmann)
