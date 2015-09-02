@@ -5,11 +5,11 @@ layout: 2015-domestic
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Ria Hartley"
-show: "My Brother's Father"
+artist: "Liz Clarke"
+show: "Domestic Appliances"
 artist_size: 1
 show_size: 3
-header_image: "header_clarke2.jpg"
+header_image: "header_clarke1.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
