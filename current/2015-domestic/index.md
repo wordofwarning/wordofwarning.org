@@ -19,27 +19,24 @@ show_size: 3
 ---
 *Presented by* Word of Warning *+* The Guinness Partnership			
 		
-###Thursday 24 — Saturday 26 September 2015
-
+###Thursday 24 — Saturday 26 September 2015			
 **A one-off, never to be repeated trip around a building in transition. Intimate interactions, homely conversations and domestic dramas played out in a block of flats…**			
 		
-###Evening Performances			
-**A series of 'at homes' atop a transforming tower block. Stories of real lives in a surreal setting.**			
-*Thu 24 Sep, 7.30pm | £5 [booking essential]*
-Tin Can People — Audio Caff | Ria Hartley — My Brother's Father | Cheryl Martin — Alaska | Louise Wallwein — Glue | Liz Clarke — Domestic Appliances		
-*Fri 25 Sep, 7pm + 10pm | £3 [booking essential]*		
-Michael Pinchbeck — The man who flew into space from his apartment		
-*Fri 25 Sep, 7.30pm | £5 [booking essential]*		
+###Evening Performances		
+**A series of 'at homes' atop a transforming tower block. Stories of real lives in a surreal setting.**		
+*Thu 24 Sep, 7.30pm | £5 [booking essential]*			
+Tin Can People — Audio Caff | Ria Hartley — My Brother's Father | Cheryl Martin — Alaska | Louise Wallwein — Glue | Liz Clarke — Domestic Appliances			
+*Fri 25 Sep, 7pm + 10pm | £3 [booking essential]*			
+Michael Pinchbeck — The man who flew into space from his apartment				
+*Fri 25 Sep, 7.30pm | £5 [booking essential]*			
 Tin Can People — Audio Caff | Ria Hartley — My Brother's Father | Cheryl Martin — Alaska | Louise Wallwein — Glue | Catherine Hoffman — Free Lunch with the Stench Wench			
-*Sat 26 Sep, 7.30pm | £5 [booking essential]*		
+*Sat 26 Sep, 7.30pm | £5 [booking essential]*			
 Tin Can People — Audio Caff | Ria Hartley — My Brother's Father | Cheryl Martin — Alaska | Louise Wallwein — Glue | Ellie Stamp — Are You Lonesome Tonight?		
 		
 ###Daytime Performances
-*Sat 26 Sep, 12noon-5pm | FREE [come + go as you please]*		
-**A live gallery takeover of this gutted ground floor, peeling back the layers to expose our social foundations. Domestic tales of pasts remembered and forgotten, and the impossibility of flat-pack furniture.**		
+*Sat 26 Sep, 12noon-5pm | FREE [come + go as you please]*			
+**A live gallery takeover of this gutted ground floor, peeling back the layers to expose our social foundations. Domestic tales of pasts remembered and forgotten, and the impossibility of flat-pack furniture.**			
 Leo Burtin | Clare Charnley | Charlotte CHW | Ria Hartley | Afreena Islam | Jamil Keating | Doris La Trine | Mackenzie & Reed | Ana Mendes | Threshold | Tin Can People | Louise Wallwein | Laura Wyatt O'Keeffe		
-		
-Domestic II is running alongside Flow Salford | [www.flowsalford.co.uk](http://www.flowsalford.co.uk)			
 		
 Have a look at the first Domestic [programme](/archive/2013-domestic) + [gallery](/galleries/2013-domestic).		
 		
@@ -59,5 +56,6 @@ Box Office Tel: 07581 299 439
 For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.       
         
 ####Credits         
-[Domestic](/hab/domestic) 2015 is produced by hÅb with The Guinness Partnership; supported by City Response Limited + supported using public funding by the National Lottery through Arts Council England.		
-Photo licensed through Creative Commons © [T.J.Blackwell](http://tjblackwell.co.uk/lucid)
+[Domestic](/hab/domestic) 2015 is produced by hÅb with The Guinness Partnership; supported by City Response Limited + supported using public funding by the National Lottery through Arts Council England.			
+Photo licensed through Creative Commons © [T.J.Blackwell](http://tjblackwell.co.uk/lucid)			
+Domestic II is running alongside Flow Salford [www.flowsalford.co.uk](http://www.flowsalford.co.uk)
