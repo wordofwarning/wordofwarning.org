@@ -54,7 +54,7 @@ Her latest work Cannonballista charts the rise and fall of her Super Hero Alter 
 Images: Ragdoll photography.    
     
 ####Websites
-[lizclarke.org](http://www.lizclarke.org) | [@lizgclarke](http://twitter.com/lizgclarke)
+[lizclarke.org](http://www.lizclarke.org) | [@lizgclarke](http://twitter.com/lizgclarke) | 
 [Video link 1](https://www.youtube.com/channel/UCktQkzOMBNx4ruDmZwDOQKA) | [Video link 2](https://www.youtube.com/playlist?list=PLZp1f5zgoE6lWCgEk6azrUEsiIEFSzT6)
 
 
