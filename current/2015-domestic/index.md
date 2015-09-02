@@ -17,15 +17,15 @@ show_size: 4
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning *+* The Guinness Partnership			
-		
-###Thursday 24 — Saturday 26 September 2015			
-**A one-off, never to be repeated trip around a building in transition. Intimate interactions, homely conversations and domestic dramas played out in a block of flats…**			
-		
+*Presented by* Word of Warning *+* The Guinness Partnership        
+        
+###Thursday 24 — Saturday 26 September 2015        
+**A one-off, never to be repeated trip around a building in transition. Intimate interactions, homely conversations and domestic dramas played out in a block of flats…**        
+         
 ###Evening Performances		
-**A series of 'at homes' atop a transforming tower block. Stories of real lives in a surreal setting.**		
-*Thu 24 Sep, 7.30pm | £5 [booking essential]*			
-Tin Can People — Audio Caff | Ria Hartley — My Brother's Father | Cheryl Martin — Alaska | Louise Wallwein — Glue | Liz Clarke — Domestic Appliances			
+**A series of 'at homes' atop a transforming tower block. Stories of real lives in a surreal setting.**        
+*Thu 24 Sep, 7.30pm | £5 [booking essential]*        
+Tin Can People — Audio Caff | Ria Hartley — My Brother's Father | Cheryl Martin — Alaska | Louise Wallwein — Glue | Liz Clarke — Domestic Appliances        
 *Fri 25 Sep, 7pm + 10pm | £3 [booking essential]*			
 Michael Pinchbeck — The man who flew into space from his apartment				
 *Fri 25 Sep, 7.30pm | £5 [booking essential]*			
