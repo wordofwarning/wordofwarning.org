@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: 2015-woah
+layout: 2015-domestic
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
