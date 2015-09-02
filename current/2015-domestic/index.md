@@ -8,8 +8,8 @@ is_index: true
 # ABOUT THE SHOW - GENERIC
 artist: "Domestic II" # the name of the artist or company
 show: "at Matthias Court, M3 6JD" # the name of the show
-artist_size: 2
-show_size: 3
+artist_size: 1
+show_size: 4
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -43,8 +43,8 @@ Have a look at the first Domestic [programme](/archive/2013-domestic) + [gallery
 http://domesticmcr.org | #domesticmcr		
 		
 ####Venue + Booking Details
-[Venue: Matthias Court, M3](http://bit.ly/domesticTWO)            
-[Tickets: £5](wgt)            
+[Venue: Matthias Court, M3 6JD](http://bit.ly/domesticTWO)            
+[Tickets: book via We Got Tickets](http://www.wegottickets.com/wordofwarning)            
 Box Office Tel: 07581 299 439 
 
 ####What people said about [Domestic (2013)](/archive/2013-domestic)      
