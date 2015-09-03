@@ -41,7 +41,7 @@ Michael Pinchbeck
 Leo Burtin | Clare Charnley | Charlotte CHW | Ria Hartley | Afreena Islam | Jamil Keating | Doris La Trine | Mackenzie & Reed | Ana Mendes | Threshold | Tin Can People | Louise Wallwein | Laura Wyatt O'Keeffe        
          
 Have a look at the first Domestic [programme](/archive/2013-domestic) + [gallery](/galleries/2013-domestic).        
-http://domesticmcr.org | #domesticmcr         
+<http://domesticmcr.org> | #domesticmcr         
         
 ####Venue + Booking Details        
 Dates: Thursday 24 — Saturday 26 September 2015 
