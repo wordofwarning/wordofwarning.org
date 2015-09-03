@@ -5,11 +5,11 @@ layout: 2015-domestic
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Ria Hartley"
-show: "My Brother's Father"
+artist: "Ellie Stamp"
+show: "Are You Lonesome Tonight?"
 artist_size: 1
 show_size: 3
-header_image: "header_hartley.jpg"
+header_image: "header_stamp.jpg" 
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -20,8 +20,9 @@ header_image: "header_hartley.jpg"
 *Part of* Domestic II, *presented by* Word of Warning + The Guinness Partnership.      
          
 ####In Brief                      
-Can you ever fully recover from years of childhood abuse & trauma?    
-*My Brother's Father* is an installation with live performance. This intimate and visceral work invites you to witness silenced and hidden fragments of childhood memories which piece together an abusive relationship and the preservation  of self, sanity and survival.    
+Ellie Stamp is the secret love child of Elvis.    
+
+In this autobiographical interactive performance - created with neuroscientist research partners – Ellie utilises her skills in participation and music to examine the problematic methodology used to define psychosis. She invites the audience to play with 9 numbers that fascinated Sir Issac Newton, Pythagoras and Elvis.    
 
 Sited in an empty flat, the audience are given tools to reveal and discover the work, and also to walk away when they choose.    
     
@@ -33,21 +34,33 @@ Box Office Tel: 0161 274 0600
         
 ####Access Information      
 As a sited event, Domestic II presents a number of access challenges and whilst we will make every effort to help, wheelchair access may not be possible, please contact us for details.    
-Combining autobiographical content in visual and textual form with live performance.    
+Interactie performance with music.    
 Age advisory: 12+    
 For specific age and access information please email info@habarts.org or call 07581 299 439.  
                        
 ####More   
-*My Brothers Father* was first developed and performed in an abandoned house in 2007, presenting fragmented autobiographical narratives from 1994–2000 depicting the abusive relationship between myself and my Brothers Father.    
+*Are You Lonesome Tonight?*is a solo performance based on true events. Ellie has been trying to understand how and why delusional beliefs occur by asking:    
+*What is the difference between an imaginative thought and a delusional belief?*    
+
+Created as part of NOW14 The Yard Theatre London in March 2014 it has since shown at Exeter Ignite Festival, Latitude Festival, Theatre Delicatessen, The British Science Festival, Summmerhall and Oval House.    
  
 ####Who is she?    
-Ria Hartley is an interdisciplinary solo performance artist based in Bristol, UK. Her work has taken forms as devised theatre, site-specific and durational performance, live art, installation, video, photography, one-to-one performance and socio-political art. Her practice pays close attention to memory, identity, human relationships, and shared narratives and often invites participation and exchange between herself and her audiences, seeking to blur the relationship between performer and audience, space and situation in order to open new spaces of thought and exchange.  Upcoming performances include: SPIT KIT  (Fierce Festival, Oct 2015)  Descansos (IPA Autumn 2015, Arnolfini) RECALL (SPILL National Showcase, Oct/Nov 2015) Untouchable (Contact Flying Solo Festival, May 2016.    
+Ellie Stamp is an artist, activist and mental health campaigner who feels conflicted by labels and swears a lot.    
+Here are some of the labels other people give Ellie Stamp:    
+Live artist, performance maker, campaigner, activist, queer, mental, female, femme, man, woman, dyke, secret love child of Elvis, producer, singer, director, dyslexic, musician, feminist, pain in the arse, dramaturg, weirdo.   
+
+Ellie's practice is driven by her confusion towards labels; how illness or disorders and appropriate behaviour are constructed and quantified.
+Ellie makes devised performance that sits somewhere between live art, theatre and game mainly in non-traditional spaces, engaging unsuspecting audiences in live art practice. Ellie's performance work is usually interdisciplinary, participatory and experiential, embracing all forms of dialogue, co-creation and points of exchange with an audience to create fun spaces where audiences consider difficult subject matter with the aim to provoke social change.   
+
+Ellie also works with other artists as a dramaturg, is a visiting artist at De Montfort University, runs workshops, takes promotional photos and makes music.   
    
 ####What people have said about her                                                
->*Ria has established herself as one of the UK’s most exciting young performance makers, and is also one of a small handful of artists addressing issues around autobiographical trauma, in this instance domestic violence.* — Lois Keidan, Director Live Art Development Agency    
-                        
+>*Stamp is a sharply engaging performer and the questions she asks cloud preconceived certainties about this complex subject.* — The Stage    
+>*The interactive element of the show is deftly handled, drawing us in with a hint of gameplay before later unveiling the intelligence behind what had felt like sheer silliness.* — Exeunt Magazine    
+>*Skillfully executed and resonant Stamp has created a work which needs to be seen by anyone wishing to understand better the subject of mental health that is so easily dismissed or deemed taboo.* — Total Theatre Review    
+              
 ####Credits         
-Co-commissioned by hÅb for Domestic II, with special thanks to Dr Joanne 'Bob' Whalley & Dr Lee Miller.    
+Created with support The Yard Theatre, Theatre Delicatessen, Nigel&Louise, Caroline Williams, Ross Sutherland & Xavier de Sousa.  Supported using public funding by the National Lottery through Arts Council England.   
 
 ####Websites
-[riahartley.com](http://www.riahartley.com) | [@RiaJadeHartley](http://twitter.com/RiaJadeHartley)
+[elliestamp.com](http://www.elliestamp.com) | [@stampellie](http://twitter.com/stampellie) | [Facebook](http://www.facebook.com/ellie.stamp.9) | [Video](https://vimeo.com/89635894)    
