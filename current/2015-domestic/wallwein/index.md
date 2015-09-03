@@ -31,6 +31,7 @@ Box Office Tel: 0161 274 0600
 ####Access Information      
 As a sited event, Domestic II presents a number of access challenges and whilst we will make every effort to help, wheelchair access may not be possible, please contact us for details.    
 A one-woman show mixing monologue, spoken word, live art and a sound score combining words and sound.   
+Duration: 25 minutes   
 Age advisory: 12+    
 For specific age and access information please email info@habarts.org or call 07581 299 439.  
 
@@ -63,6 +64,4 @@ Written and performed by Louise Wallwein.
 Directed by Susan Roberts.    
 Music and Sound by Jaydev Mistry.    
 Commissioned by Z-arts and the Royal Exchange for *Family Matters*, this re-development has been co-commissioned by hÅb for Domestic II.    
-
-####Websites
-[Video](https://vimeo.com/110757099)    
+   
