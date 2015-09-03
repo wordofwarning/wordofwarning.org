@@ -23,7 +23,7 @@ show_size: 4
 **A one-off, never to be repeated trip around a building in transition. Intimate interactions, homely conversations and domestic dramas played out in a block of flats…**        
          
 ###Evening Performances, Booking Essential	
-**A series of 'at homes' atop a transforming tower block. Stories of real lives in a surreal setting. (Click on times to book.)**         
+**A series of 'at homes' atop a transforming tower block. Stories of real lives in a surreal setting. (Click on times to book tickets.)**         
 *Thu 24 Sep, [7.30pm](http://www.wegottickets.com/event/332263) | £5*        
 Tin Can People | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Liz Clarke        
 *Fri 25 Sep, [7.30pm](http://www.wegottickets.com/event/332264) | £5*        
@@ -36,7 +36,7 @@ Tin Can People | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Ellie 
 Michael Pinchbeck        
        
 ###Daytime Performances, Come + Go As You Please        
-**A live gallery takeover of this gutted ground floor, peeling back the layers to expose our social foundations. Domestic tales of pasts remembered and forgotten, and the impossibility of flat-pack furniture.**        
+**A live gallery takeover of this gutted ground floor, peeling back the layers to expose our social foundations. Domestic tales of pasts remembered and forgotten, and the impossibility of flat-pack furniture. (No booking required.)**        
 *Sat 26 Sep, 12noon-5pm | FREE*        
 Leo Burtin | Clare Charnley | Charlotte CHW | Ria Hartley | Afreena Islam | Jamil Keating | Doris La Trine | Mackenzie & Reed | Ana Mendes | Threshold | Tin Can People | Louise Wallwein | Laura Wyatt O'Keeffe        
          
@@ -44,7 +44,7 @@ Have a look at the first Domestic [programme](/archive/2013-domestic) + [gallery
 <http://domesticmcr.org> | [#domesticmcr](http://twitter.com/hashtag/domesticmcr)         
         
 ####Venue + Booking Details        
-Dates: Thursday 24 — Saturday 26 September 2015 
+Dates: Thursday 24 — Saturday 26 September 2015        
 [Venue: Matthias Court, off Cannon Street, Salford, M3 6JD](http://bit.ly/domesticTWO) — a 7 minute walk from Chapel Street / Salford Cathedral, a 13 minute walk to Salford Central Railway Station, and a 20 minute walk to Opera House on Quay Street.            
 Evening Performances can be [booked online via We Got Tickets (10% booking fee applies).](http://www.wegottickets.com/wordofwarning)        
 Evening Performances can be reserved over the phone: 07581 299 439 (leave a message + we'll get back to you).
