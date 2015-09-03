@@ -20,7 +20,7 @@ show_size: 4
 *Presented by* Word of Warning *+* The Guinness Partnership        
         
 ###Thursday 24 — Saturday 26 September 2015        
-**A one-off, never to be repeated trip around a building in transition. Intimate interactions, homely conversations and domestic dramas played out in a block of flats…**        
+**A one-off, never to be repeated trip around a building in transition. Intimate interactions, homely conversations and domestic dramas played out in a block of flats… (Please click on the times to book tickets.)**        
          
 ###Evening Performances, Booking Essential	
 **A series of 'at homes' atop a transforming tower block. Stories of real lives in a surreal setting.**         
@@ -41,7 +41,7 @@ Michael Pinchbeck
 Leo Burtin | Clare Charnley | Charlotte CHW | Ria Hartley | Afreena Islam | Jamil Keating | Doris La Trine | Mackenzie & Reed | Ana Mendes | Threshold | Tin Can People | Louise Wallwein | Laura Wyatt O'Keeffe        
          
 Have a look at the first Domestic [programme](/archive/2013-domestic) + [gallery](/galleries/2013-domestic).        
-<http://domesticmcr.org> | #domesticmcr         
+<http://domesticmcr.org> | [#domesticmcr](http://twitter.com/hashtag/domesticmcr)         
         
 ####Venue + Booking Details        
 Dates: Thursday 24 — Saturday 26 September 2015 
