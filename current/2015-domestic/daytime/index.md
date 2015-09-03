@@ -19,8 +19,13 @@ header_image:
 *Presented by* Word of Warning, The Guinness Partnership *during* [Domestic II](/current/2015-domestic)    
           
 ####Saturday Daytime:      
-[Domestic II daytime](/current/2015-domestic) runs from 12noon to 5pm and is primarily an adult event.      
-          
+[Domestic II daytime](/current/2015-domestic) runs from 12noon to 5pm and is primarily an adult event.   
+
+See individual pages for: 
+[**Tin Can People ¦ *Audio Caff***](/current/2015-domestic/audiocaff)    
+[**Louise Wallwein ¦ *Glue***](/current/2015-domestic/wallwein)     
+[**Ria Hartley ¦ *My Brother's Father***](/current/2015-domestic/hartley)     
+  
 **Threshold ¦ *1989 called...***      
 A sonic silhouette, an artist's self-portrait created from the substance of absence.    
 *1989 Called...* shapes a sonic silhouette, an artist's portrait in their absence created from the substance left behind that might define them. In this case, the portrait is created from genuine answer phone messages left by friends, recorded in 1989. We listen in on someone else's life as disembodied voices from the past hint at relationships, events, both real and imagined, and imply a character to this absent recipient for whom the messages were once intended.    
@@ -28,10 +33,7 @@ A sonic silhouette, an artist's self-portrait created from the substance of abse
 A professional filmmaker for 30 years, with more than 200 film credits as artist, producer, director or writer, including rock videos for major UK and US record labels, artists’ shorts video installations, commercial promotional films and award-winning community access workshops productions  Barry’s work has had numerous international screenings and exhibitions, from Las Vegas to Latvia, from the ICA to the belly of a Stockholm ship  He is the Co-Founder and Creative Director of Threshold Studios and Festival Co-Director of Frequency Festival of Digital Culture.    
 Supported using public funding by the National Lottery through Arts Council England.                
 <http://www.thresholdstudios.tv>     
-        
-[**Tin Can People ¦ *Audio Caff***](/current/2015-domestic/audiocaff)           
-A traditional English café amplified, reverberated and delayed whilst enjoying a pot of tea and a homemade slice of Victoria Sponge. Audio Caff is a performance hub where anyone can meet, relax, enjoy a brew and have a slice of homemade cake, while being immersed in a sound installation.    
- Charlotte Berry is a theatre maker, performance artist and musician based in the NorthWest. Charlotte is a member of Tin Can People, a theatre company that platform devised group performances and solo projects.        
+     
 **Doris La Trine ¦ *Flushed***            
 Doris La Trine and her beloved toilet Len get Flushed.    
 Doris and Len have been together for what seems like forever and the time has come for Doris to open the bathroom door and go alone. This visual and physical performance juxtaposes comedy and tragedy as one piece.    
