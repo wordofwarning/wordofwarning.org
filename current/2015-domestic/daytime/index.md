@@ -98,6 +98,7 @@ When I was little, I used to hang out at my dad's restaurant every weekend, back
 *The Daughters of the Curry Revolution* is a reflection on my dad's life; from his journey to this country, to his journey to this day.    
 	
 Last seen trading secrets in a Liverpool shed for ‘Poolside Emergency, Afreena normally makes work as one half of Manchester-based interactive theatre company, PGB. She calls herself an artist only when she’s got something to say, the rest of the time she manages Divergency, sits on Contact’s board, and is an Associate for London-based interactive theatre-makers, Coney. This is her first solo work.    
+![Afreena Islam](afreena.jpg)    
 
 **Ana Mendes ¦ *Backspace***             
 An audio experience for one person at a time.     
