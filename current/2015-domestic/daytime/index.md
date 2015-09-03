@@ -107,5 +107,5 @@ Tickets: FREE no booking required; some ltd capacity shows will have sign-up she
 Enquires: 07581 299 439    
           
 ####Credits         
-[Domestic II](/current/2015-domestic) is produced by [hÅb](/hab) with The Guinness Partnership; supported using using public funding by the National Lottery through Arts Council England; supported by City Response Limited.    
+[Domestic II](/current/2015-domestic) is produced by [hÅb](/hab) with support from the Guinness Partnership and Guinness Property; supported using using public funding by the National Lottery through Arts Council England.    
 

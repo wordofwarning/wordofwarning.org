@@ -58,6 +58,6 @@ Evening Performances can be reserved over the phone: 07581 299 439 (leave a mess
 For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.       
         
 ####Credits         
-[Domestic](/hab/domestic) 2015 is produced by hÅb with The Guinness Partnership; supported by City Response Limited + supported using public funding by the National Lottery through Arts Council England.        
+[Domestic](/hab/domestic) 2015 is produced by hÅb with support from the Guinness Partnership and Guinness Property + supported using public funding by the National Lottery through Arts Council England.        
 Photo licensed through Creative Commons © [T.J.Blackwell](http://tjblackwell.co.uk/lucid)        
 Domestic II is running alongside Flow Salford [www.flowsalford.co.uk](http://www.flowsalford.co.uk)
