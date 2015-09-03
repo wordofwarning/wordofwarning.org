@@ -375,7 +375,7 @@
 ------------------------------------------------------*/
 
 	.aw2015 .splash
-		{background:url(../images/header_warni.jpg) -150px center}
+		{background:url(../images/header_aw15wrn.jpg) -150px center}
 
 /* Domestic II (2015) blue
 ------------------------------------------------------*/
@@ -384,7 +384,7 @@
 	.d2015 .artist, 
 	.d2015 .show,
 	.d2015 .season
-		{background:#039; color:#fff;}
+		{background:#006; color:#fff;}
 
 	.d2015 a,
 	.d2015 a:visited,
@@ -393,7 +393,7 @@
 	.d2015 nav a:hover,
 	.d2015 article a:hover,
 	.d2015 footer a:hover
-		{background: #fff; color: #039;}
+		{background: #fff; color: #006;}
 
 	.d2015 .splash
 		{background:url(../images/header_2015_domestic.jpg) center center}
