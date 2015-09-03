@@ -20,10 +20,10 @@ show_size: 4
 *Presented by* Word of Warning *+* The Guinness Partnership        
         
 ###Thursday 24 — Saturday 26 September 2015        
-**A one-off, never to be repeated trip around a building in transition. Intimate interactions, homely conversations and domestic dramas played out in a block of flats… (Please click on the times to book tickets.)**        
+**A one-off, never to be repeated trip around a building in transition. Intimate interactions, homely conversations and domestic dramas played out in a block of flats…**        
          
 ###Evening Performances, Booking Essential	
-**A series of 'at homes' atop a transforming tower block. Stories of real lives in a surreal setting.**         
+**A series of 'at homes' atop a transforming tower block. Stories of real lives in a surreal setting.** (Please click on times to buy tickets)         
 *Thu 24 Sep, [7.30pm](http://www.wegottickets.com/event/332263) | £5*        
 Tin Can People | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Liz Clarke        
 *Fri 25 Sep, [7.30pm](http://www.wegottickets.com/event/332264) | £5*        
