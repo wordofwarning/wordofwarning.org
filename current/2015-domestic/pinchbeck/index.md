@@ -5,7 +5,7 @@ layout: 2015-domestic
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "MIchael Pinchbeck"
+artist: "Michael Pinchbeck"
 show: "The man who flew into space from his apartment"
 artist_size: 1
 show_size: 3
