@@ -29,7 +29,7 @@ A professional filmmaker for 30 years, with more than 200 film credits as artist
 Supported using public funding by the National Lottery through Arts Council England.                
 <http://www.thresholdstudios.tv>     
         
-**Tin Can People ¦ *Audio Caff***           
+[**Tin Can People ¦ *Audio Caff***](/current/2015-domestic/audiocaff)           
 A traditional English café amplified, reverberated and delayed whilst enjoying a pot of tea and a homemade slice of Victoria Sponge. Audio Caff is a performance hub where anyone can meet, relax, enjoy a brew and have a slice of homemade cake, while being immersed in a sound installation.    
  Charlotte Berry is a theatre maker, performance artist and musician based in the NorthWest. Charlotte is a member of Tin Can People, a theatre company that platform devised group performances and solo projects.        
 **Doris La Trine ¦ *Flushed***            
@@ -37,11 +37,13 @@ Doris La Trine and her beloved toilet Len get Flushed.
 Doris and Len have been together for what seems like forever and the time has come for Doris to open the bathroom door and go alone. This visual and physical performance juxtaposes comedy and tragedy as one piece.    
 
 Doris La Trine is performed by Liselle Terret. As Doris La Trine, she creates and  has performed feminist low art at venues including BAC, Duckie, Assembly Rooms, and Soho Review Ba. She has also performed with Annie Sprinkle (The Chelsea Theatre 2008) as Annie’s dutiful nurse. A lecturer of many years standing, between 2008 to 2010 she co-curated a series of low art queer feminist events in partnership with the Roundhouse, London, and has published articles in a variety of publications.    
-  
+![Doris La Trine](doris_la_trine.jpg)    
+
 **Clare Charnley ¦ *Flat Pack***            
 Charnley turns things inside out as she makes furniture from its packaging. 
 A contemplation on obsolescence in dialogue with the public, Clare is making repro just-out-of-date furniture for this new space. What on earth does she think she’s doing? And why?  Construction and dialogue.    
 <http://www.clarecharnley.com>    
+ ![Clare Charnley](charnley.jpg)    
   
 **Mackenzie & Reed ¦ *Natura Naturans***             
 Natura Naturans redefines ‘life’ to ask, is a space ever really uninhabited?    
@@ -59,6 +61,7 @@ There is a bed. Not different to hers.     There is a pillow.     A pillow. A 
 Hers.     This intimate sound installation explores the landscape of the dying mind. Its gentle and surprising.     
 Laura Wyatt O’ Keeffe is an actor, writer, theatre maker and the artistic director of the theatre and film company justmakeit Productions.     
 Shane O' Sullivan is a composer, sound designer and broadcast engineer from Cork, Ireland and has been designing for theatre, short film and radio since 2009.            
+![Laura Wyatt O’Keeffe](pillowtalk3.jpg)    
 
 **Jamil E-R Keating ¦ *Asteroid RK1***      
 How close is too close for something so far?	    
@@ -75,6 +78,7 @@ What is your 4th July? Whose birthday would you never forget? When did you take 
 *Between Us* is a performance for one person at a time devised by Leo Burtin as part of the Homemade series. Homemade is a series of artworks which seek to provoke complex conversations by gently disrupting familiar and domestic contexts and concepts.     
   
 Leo Burtin is an artist, creative producer and writer based in London. Leo describes himself as a socially engaged practitioner, and his work often takes place at the crossroads where genres and disciplines meet, blend and blur. In the recent past, he has worked with imitating the dog, Raisin & Willow, Rajni Shah Projects and Blast Theory.     
+![Leo Burtin](burtin.jpg)     
 
 **Charlotte CHW ¦ *Body-Wake***             
 A repeating performance for small groups.    
@@ -83,23 +87,23 @@ An intimate durational live art installation using the body and movement, film a
 This highly personal work uses the bodily presence, film, overlapping abstract soundscapes and ceramics to explore the physical and mental impact of living in a degenerating body, mirrored in an intimate semi-derelict environment.    
 	
 Charlotte CHW is a multidisciplinary artist based in Hastings primarily working in the realms of live art, sculpture, sound and installation and where the boundaries of these mediums do or don’t lie. Primary interests in her work lie in the societal anxiety surrounding physical and mental health and the presentation of this. She attempts to translate emotional honesty to physicality and portray the ebbs and flows of the human body.    
-               
+![Charlotte CHW](charlotte_chw.jpg)    
+           
 **Afreena Islam ¦ *Daughters of the Curry Revolution***         
 Not very authentic "Authentic Indian Cuisine".  A repeating performance for small groups.    
 When I was little, I used to hang out at my dad's restaurant every weekend, back when they used to stay open until 5am. After a hard days toil running round like I owned the place for a bit, I would fall asleep to the CCTV; my body on the chest freezer, and my head resting on a pile of tablecloths.    
 
 *The Daughters of the Curry Revolution* is a reflection on my dad's life; from his journey to this country, to his journey to this day.    
 	
-Afreena was in Contact’s Young Actors Company 2009–2010 and subsequently PGB with two other members . As PGB I have made a one-on-few experience about the stock market in a shed, a one-on-one inviting audience to respond to a personal ad, and in 2013 was commissioned by Contact for ‘They Never Let Me Play’, a full-length interactive show inviting audience members to join a secret society…    
-
-A Documentary workshop with Coney at CPT sparked an idea to develop a solo show – concentrating on my dad, his story, and his journey to the UK, within the wider context of immigration and anti-immigration rhetoric within the media and politics.    
+Last seen trading secrets in a Liverpool shed for ‘Poolside Emergency, Afreena normally makes work as one half of Manchester-based interactive theatre company, PGB. She calls herself an artist only when she’s got something to say, the rest of the time she manages Divergency, sits on Contact’s board, and is an Associate for London-based interactive theatre-makers, Coney. This is her first solo work.    
 
 **Ana Mendes ¦ *Backspace***             
 An audio experience for one person at a time.     
 An audio play about anorexia in which audiences interact with a distorted mirror. Funny, witty, but also truthful, try it if you dare to be on the other side of the mirror.    
 
 Portuguese-born Ana Mendes is a writer and artist working and living in London and Berlin. She has studied animation film,  photography and an MA in Writing for Performance. She started to work as a writer, but turned gradually into visual arts. Her performance career started accidentally when she wrote Self-portrait, a play on her identity, in 2010. Since then, she has been developing projects that play on the intersection of photography and performance.    
-             
+![Ana Mendes](mendes_ana.jpg)    
+
 ####Venues + Booking Details  
 Date: Saturday 26 September 2015, 12noon-5pm        
 [Venue: Matthias Court ](https://www.google.com/maps/d/viewer?mid=zUP9hOfLluWs.kxF_FyzLKBI8&usp=sharing), M3 6JD.       
