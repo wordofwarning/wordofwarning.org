@@ -9,7 +9,7 @@ artist: "MIchael Pinchbeck"
 show: "The man who flew into space from his apartment"
 artist_size: 1
 show_size: 3
-header_image: "header_pinchbecknew2.jpg"
+header_image: "header_pincbecknew2.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
