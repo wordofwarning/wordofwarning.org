@@ -32,21 +32,23 @@ A sonic silhouette, an artist's self-portrait created from the substance of abse
 
 A professional filmmaker for 30 years, with more than 200 film credits as artist, producer, director or writer, including rock videos for major UK and US record labels, artists’ shorts video installations, commercial promotional films and award-winning community access workshops productions  Barry’s work has had numerous international screenings and exhibitions, from Las Vegas to Latvia, from the ICA to the belly of a Stockholm ship  He is the Co-Founder and Creative Director of Threshold Studios and Festival Co-Director of Frequency Festival of Digital Culture.    
 Supported using public funding by the National Lottery through Arts Council England.                
-<http://www.thresholdstudios.tv>    
+[thresholdstudios.tv](http://www.thresholdstudios.tv)   
  
      
 **Doris La Trine ¦ *Flushed***            
 Doris La Trine and her beloved toilet Len get Flushed.    
 Doris and Len have been together for what seems like forever and the time has come for Doris to open the bathroom door and go alone. This visual and physical performance juxtaposes comedy and tragedy as one piece.    
 
-Doris La Trine is performed by Liselle Terret. As Doris La Trine, she creates and  has performed feminist low art at venues including BAC, Duckie, Assembly Rooms, and Soho Review Ba. She has also performed with Annie Sprinkle (The Chelsea Theatre 2008) as Annie’s dutiful nurse. A lecturer of many years standing, between 2008 to 2010 she co-curated a series of low art queer feminist events in partnership with the Roundhouse, London, and has published articles in a variety of publications.    
+Doris La Trine is performed by Liselle Terret. As Doris La Trine, she creates and  has performed feminist low art at venues including BAC, Duckie, Assembly Rooms, and Soho Review Ba. She has also performed with Annie Sprinkle (The Chelsea Theatre 2008) as Annie’s dutiful nurse. A lecturer of many years standing, between 2008 to 2010 she co-curated a series of low art queer feminist events in partnership with the Roundhouse, London, and has published articles in a variety of publications.   
+[lipsickqueerfeministneoburlesque](http://www.lipsickqueerfeministneoburlesque.wordpress.com)    
+ 
 ![Doris La Trine](doris_la_trine.jpg)    
 
 
 **Clare Charnley ¦ *Flat Pack***            
 Charnley turns things inside out as she makes furniture from its packaging. 
 A contemplation on obsolescence in dialogue with the public, Clare is making repro just-out-of-date furniture for this new space. What on earth does she think she’s doing? And why?  Construction and dialogue.    
-<http://www.clarecharnley.com>    
+[clarecharnley.com](http://www.clarecharnley.com)     
  ![Clare Charnley](charnley.jpg)    
   
 **Mackenzie & Reed ¦ *Natura Naturans***             
@@ -56,7 +58,7 @@ Acting as enablers, Mackenzie and Reed explore the flaws in our current definiti
 Louise Mackenzie (UK) is a mixed-media artist creating installation, sculpture, performance, sound and film worksWith a focus on living material
 Mark Reed is a freelance sound recordist, artist and would-be hermit philosopher if he wasn’t so busy workingA graduate of Popular and Contemporary Music at Newcastle University, Mark has expertise in sound design, composition and recording, managing sound production.    
 Supported by Northumbria University.    
-<http://www.viralexperiments.co/>    
+[viralexperiments.co](http://www.viralexperiments.co/)    
 
  
 **Laura Wyatt O'Keeffe ¦ *Pillow Talk***    	
@@ -66,6 +68,7 @@ There is a bed. Not different to hers.     There is a pillow.     A pillow. A 
 Hers.     This intimate sound installation explores the landscape of the dying mind. Its gentle and surprising.     
 Laura Wyatt O’ Keeffe is an actor, writer, theatre maker and the artistic director of the theatre and film company justmakeit Productions.     
 Shane O' Sullivan is a composer, sound designer and broadcast engineer from Cork, Ireland and has been designing for theatre, short film and radio since 2009.            
+[justmakeitproductions.com](http://www.justmakeitproductions.com)
 ![Laura Wyatt O’Keeffe](pillowtalk3.jpg)    
 
 **Jamil E-R Keating ¦ *Asteroid RK1***      
@@ -83,7 +86,8 @@ What is your 4th July? Whose birthday would you never forget? When did you take 
      
 *Between Us* is a performance for one person at a time devised by Leo Burtin as part of the Homemade series. Homemade is a series of artworks which seek to provoke complex conversations by gently disrupting familiar and domestic contexts and concepts.     
   
-Leo Burtin is an artist, creative producer and writer based in London. Leo describes himself as a socially engaged practitioner, and his work often takes place at the crossroads where genres and disciplines meet, blend and blur. In the recent past, he has worked with imitating the dog, Raisin & Willow, Rajni Shah Projects and Blast Theory.     
+Leo Burtin is an artist, creative producer and writer based in London. Leo describes himself as a socially engaged practitioner, and his work often takes place at the crossroads where genres and disciplines meet, blend and blur. In the recent past, he has worked with imitating the dog, Raisin & Willow, Rajni Shah Projects and Blast Theory.   
+[leoburtin.co.uk](http://www.leoburtin.co.uk)     
 ![Leo Burtin](burtin.jpg)     
 
 **Charlotte CHW ¦ *Body-Wake***             
@@ -109,6 +113,7 @@ An audio experience for one person at a time.
 An audio play about anorexia in which audiences interact with a distorted mirror. Funny, witty, but also truthful, try it if you dare to be on the other side of the mirror.    
 
 Portuguese-born Ana Mendes is a writer and artist working and living in London and Berlin. She has studied animation film,  photography and an MA in Writing for Performance. She started to work as a writer, but turned gradually into visual arts. Her performance career started accidentally when she wrote Self-portrait, a play on her identity, in 2010. Since then, she has been developing projects that play on the intersection of photography and performance.    
+[anamendes.com](http://www.anamendes.com)    
 ![Ana Mendes](mendes_ana.jpg)    
 
 ####Venues + Booking Details  
