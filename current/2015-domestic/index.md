@@ -55,7 +55,9 @@ Evening Performances can be reserved over the phone: 07581 299 439 (leave a mess
 >A really eclectic and engaging programme of intimate work in a series of exciting and unique spaces.<br>*Audience member*          
          
 ####Access Information        
-For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.       
+As a sited event, Domestic II presents a number of access challenges and whilst we will make every effort to help, wheelchair access may not be possible, please contact us for details.        
+Age advisory: Domestic II is primarily aimed at adults and deals with autobiographical and social issues with some sensitive content.  Works suitable for younger people on Saturday daytime will be clearly signposted on the day.   
+For specific age and access information please email info@habarts.org or call 07581 299 439.        
         
 ####Credits         
 [Domestic](/hab/domestic) 2015 is produced by hÅb with support from the Guinness Partnership and Guinness Property + supported using public funding by the National Lottery through Arts Council England.        

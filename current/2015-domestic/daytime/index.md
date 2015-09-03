@@ -105,7 +105,12 @@ Date: Saturday 26 September 2015, 12noon-5pm
 [Venue: Matthias Court ](https://www.google.com/maps/d/viewer?mid=zUP9hOfLluWs.kxF_FyzLKBI8&usp=sharing), M3 6JD.       
 Tickets: FREE no booking required; some ltd capacity shows will have sign-up sheets on the day      
 Enquires: 07581 299 439    
-          
+
+####Access Information        
+As a sited event, Domestic II presents a number of access challenges and whilst we will make every effort to help, wheelchair access may not be possible, please contact us for details.        
+Age advisory: Domestic II is primarily aimed at adults and deals with autobiographical and social issues with some sensitive content.  Works suitable for younger people on Saturday daytime will be clearly signposted on the day.   
+For specific age and access information please email info@habarts.org or call 07581 299 439.     
+ 
 ####Credits         
 [Domestic II](/current/2015-domestic) is produced by [hÅb](/hab) with support from the Guinness Partnership and Guinness Property; supported using using public funding by the National Lottery through Arts Council England.    
 
