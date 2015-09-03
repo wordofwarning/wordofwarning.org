@@ -32,7 +32,8 @@ A sonic silhouette, an artist's self-portrait created from the substance of abse
 
 A professional filmmaker for 30 years, with more than 200 film credits as artist, producer, director or writer, including rock videos for major UK and US record labels, artists’ shorts video installations, commercial promotional films and award-winning community access workshops productions  Barry’s work has had numerous international screenings and exhibitions, from Las Vegas to Latvia, from the ICA to the belly of a Stockholm ship  He is the Co-Founder and Creative Director of Threshold Studios and Festival Co-Director of Frequency Festival of Digital Culture.    
 Supported using public funding by the National Lottery through Arts Council England.                
-<http://www.thresholdstudios.tv>     
+<http://www.thresholdstudios.tv>    
+ 
      
 **Doris La Trine ¦ *Flushed***            
 Doris La Trine and her beloved toilet Len get Flushed.    
@@ -40,6 +41,7 @@ Doris and Len have been together for what seems like forever and the time has co
 
 Doris La Trine is performed by Liselle Terret. As Doris La Trine, she creates and  has performed feminist low art at venues including BAC, Duckie, Assembly Rooms, and Soho Review Ba. She has also performed with Annie Sprinkle (The Chelsea Theatre 2008) as Annie’s dutiful nurse. A lecturer of many years standing, between 2008 to 2010 she co-curated a series of low art queer feminist events in partnership with the Roundhouse, London, and has published articles in a variety of publications.    
 ![Doris La Trine](doris_la_trine.jpg)    
+
 
 **Clare Charnley ¦ *Flat Pack***            
 Charnley turns things inside out as she makes furniture from its packaging. 
@@ -55,6 +57,7 @@ Louise Mackenzie (UK) is a mixed-media artist creating installation, sculpture, 
 Mark Reed is a freelance sound recordist, artist and would-be hermit philosopher if he wasn’t so busy workingA graduate of Popular and Contemporary Music at Newcastle University, Mark has expertise in sound design, composition and recording, managing sound production.    
 Supported by Northumbria University.    
 <http://www.viralexperiments.co/>    
+
  
 **Laura Wyatt O'Keeffe ¦ *Pillow Talk***    	
 The sound of forgotten intimacy, an installation for one person at a time.    
@@ -69,6 +72,7 @@ Shane O' Sullivan is a composer, sound designer and broadcast engineer from Cork
 How close is too close for something so far?	    
 An installation-story about asteroids and alcoholism, meteorites and human rights, comets in the night-sky and care in the city. Rotations, revolutions and realisations...    
 An interdisciplinary artist interested in theatre and live art, Jamil has developed an auto-biographical coming of age solo-show for hÅb’s Works Ahead and pieces for Hazard and Emergency.  He was Assistant Director on Contact Young Company’s 'The Shrine of Everyday Things' and produces performance nights as part of the collective, Gnarled Tongues.     
+
           
 **Leo Burtin ¦ *Between Us***        
 A brief encounter with a stranger about the bits of life you'd like to never forget.  A conversation for one person at a time.    
