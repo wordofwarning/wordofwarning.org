@@ -5,11 +5,11 @@ layout: 2015-domestic
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Ria Hartley"
-show: "My Brother's Father"
+artist: "Louise Wallwein"
+show: "Glue"
 artist_size: 1
 show_size: 3
-header_image: "header_hartley.jpg"
+header_image: 
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -20,10 +20,9 @@ header_image: "header_hartley.jpg"
 *Part of* Domestic II, *presented by* Word of Warning + The Guinness Partnership.      
          
 ####In Brief                      
-Can you ever fully recover from years of childhood abuse & trauma?    
-*My Brother's Father* is an installation with live performance. This intimate and visceral work invites you to witness silenced and hidden fragments of childhood memories which piece together an abusive relationship and the preservation  of self, sanity and survival.    
+The true story of Louise’s first two meetings with her birth mother, three decades after being offered for adoption. Allowing the audience to share both the intimacy of their private first reunion, and also their public second meeting while she was on stage, the story puts fierce independence and emotional vulnerability alongside each other.    
 
-Sited in an empty flat, the audience are given tools to reveal and discover the work, and also to walk away when they choose.    
+Directed by Susan Roberts.      
     
 ####Venue + Booking Details
 Dates: Friday 24 (+ Saturday 25: SOLD-OUT) April 2015, 8pm (Double Bill)        
@@ -33,21 +32,17 @@ Box Office Tel: 0161 274 0600
         
 ####Access Information      
 As a sited event, Domestic II presents a number of access challenges and whilst we will make every effort to help, wheelchair access may not be possible, please contact us for details.    
-Combining autobiographical content in visual and textual form with live performance.    
+Spoken word.    
 Age advisory: 12+    
 For specific age and access information please email info@habarts.org or call 07581 299 439.  
-                       
-####More   
-*My Brothers Father* was first developed and performed in an abandoned house in 2007, presenting fragmented autobiographical narratives from 1994–2000 depicting the abusive relationship between myself and my Brothers Father.    
- 
-####Who is she?    
-Ria Hartley is an interdisciplinary solo performance artist based in Bristol, UK. Her work has taken forms as devised theatre, site-specific and durational performance, live art, installation, video, photography, one-to-one performance and socio-political art. Her practice pays close attention to memory, identity, human relationships, and shared narratives and often invites participation and exchange between herself and her audiences, seeking to blur the relationship between performer and audience, space and situation in order to open new spaces of thought and exchange.  Upcoming performances include: SPIT KIT  (Fierce Festival, Oct 2015)  Descansos (IPA Autumn 2015, Arnolfini) RECALL (SPILL National Showcase, Oct/Nov 2015) Untouchable (Contact Flying Solo Festival, May 2016.    
-   
-####What people have said about her                                                
->*Ria has established herself as one of the UK’s most exciting young performance makers, and is also one of a small handful of artists addressing issues around autobiographical trauma, in this instance domestic violence.* — Lois Keidan, Director Live Art Development Agency    
-                        
+                           
+####Who are they?    
+Writer and Performer, Louise Wallwein is a Performance Poet and Playwright. In 1998 she performed a one woman show on the wing of a world war 2 Shackleton aircraft in Manchester Museum of Science and Industry and has gone on to write plays for Contact, The Royal Exchange, Sydney Opera House, Red Ladder, Sheffield Crucible and BBC Radio, She has worked locally and internationally in various hard to reach communities including residencies in Queensland and Winnipeg.    
+
+Director, Susan Roberts has directed over 200 radio plays for BBC R3 & R4.  She was Director of Black Roses:The Killing of Sophie Lancaster by Simon  Armitage at The Royal Exchange and won the Manchester Theatre award for best studio production 2012.  Family Matters – Z-arts and The Royal Exchange 2014.  Winner of the Sony Gold and Bronze, Amnesty International Award.        
+               
 ####Credits         
-Co-commissioned by hÅb for Domestic II, with special thanks to Dr Joanne 'Bob' Whalley & Dr Lee Miller.    
+Co-commissioned by hÅb for Domestic II.    
 
 ####Websites
-[riahartley.com](http://www.riahartley.com) | [@RiaJadeHartley](http://twitter.com/RiaJadeHartley)
+[Video](https://vimeo.com/110757099)    
