@@ -46,12 +46,12 @@ The performance draws on notions of escape and makes a journey, like Kabakov, be
 Michael Pinchbeck is an award-winning writer and theatre maker based in Nottingham, UK. His work has toured nationally and internationally and has been selected for the British Council’s Edinburgh Showcase three times. *The man who flew into space from his apartment* is commissioned by hÅb (Manchester) and Lincoln Performing Arts Centre. Supported by First Bite, Hatch and Primary (Nottingham), the piece will tour nationally from Autumn 2015.    
    
 ####What people have said about it                                           
->*Like watching a Tarkovsky film.* 
->*Loved the intimacy and the audience participation.* 
->*Visually it was beautiful. Loved the unknown nature of performance and audience participation.* 
->*Exciting new concept. Good use of audience participation generates same feeling in the audience as the performer.* 
->*Loved how it made me feel a part of it. Immersed and expectant. Nervous but excited.*   
->*Like a performance poem.*   
+>*Like watching a Tarkovsky film.*    
+>*Loved the intimacy and the audience participation.*     
+>*Visually it was beautiful. Loved the unknown nature of performance and audience participation.*    
+>*Exciting new concept. Good use of audience participation generates same feeling in the audience as the performer.*     
+>*Loved how it made me feel a part of it. Immersed and expectant. Nervous but excited.*       
+>*Like a performance poem.*       
 
 ####Credits         
 Commissioned by hÅb and Lincoln Performing Arts Centre. Developed at First Bite, Forest Fringe and Hatch. Supported using public funding by the National Lottery through Arts Council England. Photography by Julian Hughes.    
