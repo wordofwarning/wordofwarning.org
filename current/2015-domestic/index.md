@@ -24,15 +24,15 @@ show_size: 4
          
 ###Evening Performances, Booking Essential	
 **A series of 'at homes' atop a transforming tower block. Stories of real lives in a surreal setting.**         
-*Thu 24 Sep, 7.30pm | £5*        
+*Thu 24 Sep, [7.30pm](http://www.wegottickets.com/event/332263) | £5*        
 Tin Can People | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Liz Clarke        
-*Fri 25 Sep, 7.30pm | £5*        
+*Fri 25 Sep, [7.30pm](http://www.wegottickets.com/event/332264) | £5*        
 Tin Can People | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Catherine Hoffman        
-*Sat 26 Sep, 7.30pm | £5*        
+*Sat 26 Sep, [7.30pm](http://www.wegottickets.com/event/332265) | £5*        
 Tin Can People | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Ellie Stamp        
 
 **A slideshow exploring absence and presence, flying and falling, and the power of the artist to fail or be free.**        
-*Fri 25 Sep, 7pm + 10pm | £3*        
+*Fri 25 Sep, [7pm](http://www.wegottickets.com/event/332266) + [10pm](http://www.wegottickets.com/event/332267) | £3*        
 Michael Pinchbeck        
        
 ###Daytime Performances, Come + Go As You Please        
@@ -45,7 +45,7 @@ http://domesticmcr.org | #domesticmcr
         
 ####Venue + Booking Details        
 Dates: Thursday 24 — Saturday 26 September 2015 
-[Venue: Matthias Court, off Cannon Street, Salford, M3 6JD](http://bit.ly/domesticTWO) — a 5 minute walk from Salford Cathedral???, with buses stopping close by ???.            
+[Venue: Matthias Court, off Cannon Street, Salford, M3 6JD](http://bit.ly/domesticTWO) — a 7 minute walk from Chapel Street / Salford Cathedral, a 13 minute walk to Salford Central Railway Station, and a 20 minute walk to Opera House on Quay Street.            
 Evening Performances can be [booked online via We Got Tickets (10% booking fee applies).](http://www.wegottickets.com/wordofwarning)        
 Evening Performances can be reserved over the phone: 07581 299 439 (leave a message + we'll get back to you).
         
@@ -55,11 +55,11 @@ Evening Performances can be reserved over the phone: 07581 299 439 (leave a mess
 >A really eclectic and engaging programme of intimate work in a series of exciting and unique spaces.<br>*Audience member*          
          
 ####Access Information        
-As a sited event, Domestic II presents a number of access challenges and whilst we will make every effort to help, wheelchair access may not be possible, please contact us for details.        
-Age advisory: Domestic II is primarily aimed at adults and deals with autobiographical and social issues with some sensitive content.  Works suitable for younger people on Saturday daytime will be clearly signposted on the day.   
-For specific age and access information please email info@habarts.org or call 07581 299 439.        
+As a sited event, Domestic II presents a number of access challenges and whilst we will make every effort to help, wheelchair access may not be possible, please contact us for details.        
+Age advisory: Domestic II is primarily aimed at adults and deals with autobiographical and social issues with some sensitive content. Works suitable for younger people on Saturday daytime will be clearly signposted on the day.        
+For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.        
         
 ####Credits         
-[Domestic](/hab/domestic) 2015 is produced by hÅb with support from the Guinness Partnership and Guinness Property + supported using public funding by the National Lottery through Arts Council England.        
+[Domestic](/hab/domestic) II is produced by hÅb with support from The Guinness Partnership + Guinness Property, and  supported using public funding by the National Lottery through Arts Council England.        
 Photo licensed through Creative Commons © [T.J.Blackwell](http://tjblackwell.co.uk/lucid)        
 Domestic II is running alongside Flow Salford [www.flowsalford.co.uk](http://www.flowsalford.co.uk)
