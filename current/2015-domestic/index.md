@@ -25,11 +25,11 @@ show_size: 4
 ###Evening Performances, Booking Essential	
 **A series of 'at homes' atop a transforming tower block. Stories of real lives in a surreal setting. (Click on times to book tickets.)**         
 *Thu 24 Sep, [7.30pm](http://www.wegottickets.com/event/332263) | £5*        
-Tin Can People | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Liz Clarke        
+Audio Caff | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Liz Clarke        
 *Fri 25 Sep, [7.30pm](http://www.wegottickets.com/event/332264) | £5*        
-Tin Can People | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Catherine Hoffman        
+Audio Caff | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Catherine Hoffman        
 *Sat 26 Sep, [7.30pm](http://www.wegottickets.com/event/332265) | £5*        
-Tin Can People | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Ellie Stamp        
+Audio Caff | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Ellie Stamp        
 
 **A slideshow exploring absence and presence, flying and falling, and the power of the artist to fail or be free. (Click on times to book.)**        
 *Fri 25 Sep, [7pm](http://www.wegottickets.com/event/332266) + [10pm](http://www.wegottickets.com/event/332267) | £3*        
@@ -38,7 +38,7 @@ Michael Pinchbeck
 ###Daytime Performances, Come + Go As You Please        
 **A live gallery takeover of this gutted ground floor, peeling back the layers to expose our social foundations. Domestic tales of pasts remembered and forgotten, and the impossibility of flat-pack furniture. (No booking required.)**        
 *Sat 26 Sep, 12noon-5pm | FREE*        
-Leo Burtin | Clare Charnley | Charlotte CHW | Ria Hartley | Afreena Islam | Jamil Keating | Doris La Trine | Mackenzie & Reed | Ana Mendes | Threshold | Tin Can People | Louise Wallwein | Laura Wyatt O'Keeffe        
+Audio Caff | Leo Burtin | Clare Charnley | Charlotte CHW | Ria Hartley | Afreena Islam | Jamil Keating | Doris La Trine | Mackenzie & Reed | Ana Mendes | Threshold | Louise Wallwein | Laura Wyatt O'Keeffe        
          
 To get a feel for it, have a look at the first Domestic [programme](/archive/2013-domestic) + [gallery](/galleries/2013-domestic).        
         
