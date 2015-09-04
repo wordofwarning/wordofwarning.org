@@ -24,8 +24,6 @@ Ellie Stamp is the secret love child of Elvis.
 
 In this autobiographical interactive performance - created with neuroscientist research partners – Ellie utilises her skills in participation and music to examine the problematic methodology used to define psychosis. She invites the audience to play with 9 numbers that fascinated Sir Issac Newton, Pythagoras and Elvis.    
 
-Sited in an empty flat, the audience are given tools to reveal and discover the work, and also to walk away when they choose.    
-    
 ####Venue + Booking Details
 Dates: Friday 24 (+ Saturday 25: SOLD-OUT) April 2015, 8pm (Double Bill)        
 [Venue: Contact (space 2)](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA            
@@ -34,7 +32,8 @@ Box Office Tel: 0161 274 0600
         
 ####Access Information      
 As a sited event, Domestic II presents a number of access challenges and whilst we will make every effort to help, wheelchair access may not be possible, please contact us for details.    
-Interactie performance with music.    
+Interactive performance with music.   
+Duration: 50 minutes    
 Age advisory: 12+    
 For specific age and access information please email info@habarts.org or call 07581 299 439.  
                        
