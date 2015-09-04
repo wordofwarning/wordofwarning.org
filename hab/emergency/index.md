@@ -15,7 +15,9 @@ header_image: "header_emergency_photo.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Emergency** is our annual platform for live art + contemporary performance, featuring at least 25 short pieces of work over a day/evening in Manchester… Celebrating its sweet sixteenth birthday on **Saturday 3 October 2015** (12noon-10pm) at [Z-arts](http://www.z-arts.org/about-us/getting-here), Manchester — the callout for artist proposals has now closed. To get a feel for it, have a look at 2014's [programme](/archive/2014-emergency) + [gallery](/galleries/2014-emergency) and 2013's [programme](/archive/2013-emergency) + [image gallery](/galleries/2013-emergency).		
+**Emergency** is our annual platform for live art + contemporary performance, featuring at least 25 short pieces of work over a day/evening in Manchester…        
+        
+**Emergency celebrates its sweet sixteenth birthday on Saturday 3 October 2015** (12noon-10pm) at [Z-arts](http://www.z-arts.org/about-us/getting-here), Manchester — the callout for artist proposals has now closed. To get a feel for it, have a look at 2014's [programme](/archive/2014-emergency) + [gallery](/galleries/2014-emergency) and 2013's [programme](/archive/2013-emergency) + [image gallery](/galleries/2013-emergency).		
 		
 **Emergency is:**    
 • a free, public micro-festival + open submission platform;   
@@ -23,4 +25,4 @@ header_image: "header_emergency_photo.jpg"
 • a selection event for a number of small [Works Ahead](/hab/worksahead) commissions to be developed + supported by [hÅb](/hab).        
 • Enquiries: <mailto:emergency@habarts.org> | <http://emergencymcr.org> | [#EmergencyMcr](http://twitter.com/hashtag/EmergencyMcr)	
     
-Emergency 2015 is presented by Word of Warning, STUN + Z-arts; produced by hÅb; supported using public funding by Arts Council England + funded by Manchester City Council; a greenroom legacy project.
+[Emergency 2015](/current/2015-emergency) is presented by Word of Warning, STUN + Z-arts; produced by hÅb; supported using public funding by Arts Council England + funded by Manchester City Council; a greenroom legacy project.
