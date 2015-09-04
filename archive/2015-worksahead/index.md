@@ -22,13 +22,13 @@ show_size: 3
 ###Friday 24 + Saturday 25 April 2015, 8pm        
 Our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content. To date, Works Ahead has brushed the petticoats of dance, skirted the fringes of musical theatre, warped the lines of performance installation, and delved into the mindset of the performer…     
 
-Now it's all over, have a look at the [gallery](/galleries/2015-woah/index.html).     
+Now it's all over, have a look at the [gallery](/galleries/2015-woah).     
 
 2015 sees new works in development by two young male artists, questioning manliness in this digitised, disembodied, discombobulated era:        
           
-[Nathan Birkinshaw](/current/2015-worksahead/birkinshaw)'s *How I Lost The Will To Live (& Why You Should Too)* is a coming of age story for a hyper-connected world; and,        
+[Nathan Birkinshaw](/archive/2015-worksahead/birkinshaw)'s *How I Lost The Will To Live (& Why You Should Too)* is a coming of age story for a hyper-connected world; and,        
         
-[Jamil Keating](/current/2015-worksahead/keating)'s *Affected*. Or the confessions of a Marxist poseur…          
+[Jamil Keating](/archive/2015-worksahead/keating)'s *Affected*. Or the confessions of a Marxist poseur…          
         
 ####Venue + Booking Details
 Dates: Friday 24 (+ Saturday 25: SOLD-OUT) April 2015, 8pm (Double Bill)        
