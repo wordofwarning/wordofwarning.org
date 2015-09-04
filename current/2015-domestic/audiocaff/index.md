@@ -31,9 +31,7 @@ Tickets: Evening Performances can be [booked online via We Got Tickets (10% book
 
 ####Access Information      
 As a sited event, Domestic II presents a number of access challenges and whilst we will make every effort to help, wheelchair access may not be possible, please contact us for details.    
-Sound installation and working café. Please request details of allergens.    
-Age advisory: n/a      
-For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.       
+Age advisory: none. Sound installation and working café. Please request details of allergens. For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.       
                           
 ####Who is she?    
 Charlotte Berry is a theatre maker, performance artist and musician based in NW England. Charlotte is a member of Tin Can People, a theatre company that platform devised group performances and solo projects.                   
