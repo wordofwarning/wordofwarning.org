@@ -42,8 +42,8 @@ The T in T minus stands for test. This is a test. This is an immersive slideshow
  There is a guest performer. There is an audience of ten people. The guest performer follows instructions on headphones they have never heard before.
 The performance draws on notions of escape and makes a journey, like Kabakov, between east and west, flying and falling, attempt and failure. It questions an understanding of space by relating outer space to the theatre space, the journey of the man who flew into space from his apartment with that of the guest performer involved, taking a leap of faith and heading into the unknown.    
    
-####Who is hhe?    
-Michael Pinchbeck is an award-winning writer and theatre maker based in Nottingham, UK. His work has toured nationally and internationally and has been selected for the British Council’s Edinburgh Showcase three times. *The man who flew into space from his apartment* is commissioned by hÅb (Manchester) and Lincoln Performing Arts Centre. Supported by First Bite, Hatch and Primary (Nottingham), the piece will tour nationally from Autumn 2015.    
+####Who is he?    
+Michael Pinchbeck is an award-winning writer and theatre maker based in Nottingham, UK. His work has toured nationally and internationally and has been selected for the British Council’s Edinburgh Showcase three times.     
    
 ####What people have said about it                                           
 >*Like watching a Tarkovsky film.*    
