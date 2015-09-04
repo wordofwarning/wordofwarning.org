@@ -40,14 +40,12 @@ Michael Pinchbeck
 *Sat 26 Sep, 12noon-5pm | FREE*        
 Leo Burtin | Clare Charnley | Charlotte CHW | Ria Hartley | Afreena Islam | Jamil Keating | Doris La Trine | Mackenzie & Reed | Ana Mendes | Threshold | Tin Can People | Louise Wallwein | Laura Wyatt O'Keeffe        
          
-Have a look at the first Domestic [programme](/archive/2013-domestic) + [gallery](/galleries/2013-domestic).        
-<http://domesticmcr.org> | [#domesticmcr](http://twitter.com/hashtag/domesticmcr)         
+To get a feel for it, have a look at the first Domestic [programme](/archive/2013-domestic) + [gallery](/galleries/2013-domestic).        
         
 ####Venue + Booking Details        
 Dates: Thursday 24 — Saturday 26 September 2015        
 [Venue: Matthias Court, off Cannon Street, Salford, M3 6JD](http://bit.ly/domesticTWO) — a 7 minute walk from Chapel Street / Salford Cathedral, a 13 minute walk to Salford Central Railway Station, and a 20 minute walk to Opera House on Quay Street.            
-Evening Performances can be [booked online via We Got Tickets (10% booking fee applies).](http://www.wegottickets.com/wordofwarning)        
-Evening Performances can be reserved over the phone: 07581 299 439 (leave a message + we'll get back to you).
+Evening Performances can be, EITHER [booked online via We Got Tickets (10% booking fee applies).](http://www.wegottickets.com/wordofwarning), OR reserved over the phone: 07581 299 439 (leave a message + we'll get back to you); remaining tickets will be available at Matthias Court (cash only) just before the performances.
         
 ####What people said about [Domestic (2013)](/archive/2013-domestic)      
 >Curated by the ever-impressive Word Of Warning…<br>*[Lyn Gardner, The Guardian](http://www.theguardian.com/stage/2013/nov/02/this-weeks-theatre)*        
@@ -63,3 +61,6 @@ For specific age and access information please email <mailto:info@habarts.org> o
 [Domestic](/hab/domestic) II is produced by hÅb with support from The Guinness Partnership + Guinness Property, and  supported using public funding by the National Lottery through Arts Council England.        
 Photo licensed through Creative Commons © [T.J.Blackwell](http://tjblackwell.co.uk/lucid)        
 Domestic II is running alongside Flow Salford [www.flowsalford.co.uk](http://www.flowsalford.co.uk)
+
+####Websites
+<http://domesticmcr.org> | [#domesticmcr](http://twitter.com/hashtag/domesticmcr)
