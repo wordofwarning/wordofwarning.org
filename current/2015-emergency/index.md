@@ -19,14 +19,15 @@ header_image:
 *Presented by* Word of Warning, STUN + Z-arts
         
 ###Saturday 3 October 2015, 12noon-10pm. FREE             
-**Manchester's manic micro-marathon of the bizarre + the beautiful celebrates sweet sixteen, popping-up throughout the cavernous realms of Z-arts — drop in for just ten minutes or stay for the full ten hours…**        
+**Manchester's manic micro-marathon of the bizarre + the beautiful celebrates sweet sixteen — drop in for just ten minutes or stay for the full ten hours…**        
            
-Z-arts reverberates with some twenty-five individual shows in our annual performance lucky-dip; your chance to sample the different — all for free. (Participating artists to be confirmed.) To get a feel for it, have a look at 2014's [programme](/archive/2014-emergency) + [gallery](/galleries/2014-emergency).         
-          
+The cavernous realms of Z-arts reverberate with some twenty-five individual shows in our annual performance lucky-dip: your chance to sample the different — all for free. Participating artists to be confirmed *very soon* — to get a feel for it, have a look at 2014's [programme](/archive/2014-emergency) + [gallery](/galleries/2014-emergency).        
+        
 ####Venue + Booking Details
 Date: Saturday 3 October 2015, 12noon-10pm    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
-Tickets: FREE, no booking required, come + go as you please. Some limited capacity shows have sign-up sheets on the day, others operate on a first come, first served basis.          
+Tickets: FREE no booking required, come + go as you please.        
+*N.B. Some limited capacity shows have sign-up sheets on the day, others operate on a first come, first served basis.*          
 Venue Tel: 0161 232 6089    
       
 ####What people said about Emergency 2013        
