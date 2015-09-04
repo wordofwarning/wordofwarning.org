@@ -27,7 +27,7 @@ show_size: 4
 *Thu 24 Sep, [7.30pm](http://www.wegottickets.com/event/332263) | £5*        
 Audio Caff | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Liz Clarke        
 *Fri 25 Sep, [7.30pm](http://www.wegottickets.com/event/332264) | £5*        
-Audio Caff | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Catherine Hoffman        
+Audio Caff | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Catherine Hoffmann        
 *Sat 26 Sep, [7.30pm](http://www.wegottickets.com/event/332265) | £5*        
 Audio Caff | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Ellie Stamp        
 
