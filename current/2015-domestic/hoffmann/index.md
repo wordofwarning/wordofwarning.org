@@ -35,12 +35,20 @@ Box Office Tel: 0161 274 0600
 As a sited event, Domestic II presents a number of access challenges and whilst we will make every effort to help, wheelchair access may not be possible, please contact us for details.       
 Age advisory: 12+    
 For specific age and access information please email info@habarts.org or call 07581 299 439.  
+
+####More    
+This is a new development- following on from the first showings at the Bristol Art Gallery and Museum May 2015 for the Bad Taste of the Town event and at Invention Festival at Stanley Halls.   
  
 ####Who is she?    
-Catherine Hoffmann explores the interaction between performance art, theatre, comedy and music. She creates a mixture of interactive one to one performances as well as staged pieces.      
-   
+Catherine Hoffmann explores the intersection between performance art, theatre, comedy and music. She combines process- based actions, texts, visuals and extended use of the voice in a number of solo and collaborative projects.   
+
+Described as an elemental weather system, she creates a mixture of interactive one to one performances as well as staged pieces. She toys with personas and atmospheres that expose vulnerability, power and assumptions about identity and performance itself. She is concerned with exposing psychological fragility and personal rituals to address complex issues relating to who we are and the constraints in our contemporary lives with absurd humour playing an important role. Love, loss, guilt and shame are themes she has been exploring recently. Her own experiences and those of others. Personal Family history, current states and memories are exposed within this process.    
+
+Recently she has made work for The Festival of Love at The Southbank, Latitude, In Between Time, Sprint festival at CPT, The National Portrait Gallery,  markets, buses, gardens, fields, bars and boxes in the UK and Europe. In October she will be performing in Love Letters to a (post) Europe in BIOS, Athens. She presents work with Home Live Art, and performs with Dickie Beau as part of The House of Strange Loops and with Lundahl and Seitl.  Her video TRAMP part of Molly and Me was selected for the Re.act Feminism 2 archive tour of European galleries in 2014-15.    
+
 ####What people have said about her                                                
 >*Catherine Hoffmann, is such a commanding presence…Her voice is full and gorgeous, the more bestial and primal her performance becomes, the more thrillingly alive the work feels…* — This Is Cabaret   
+>*Lovely…Hoffmann’s work evokes the joy of effacing oneself; of escaping the self into something bigger and more lasting than all of us.* — Time Out    
 
 ####Websites
 [cathoffmann.com](http://www.riahartley.com) | [@CathHoffmann](http://twitter.com/CathHoffmann)
