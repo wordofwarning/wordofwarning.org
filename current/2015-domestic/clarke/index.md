@@ -17,7 +17,7 @@ header_image: "header_clarke1.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Part of* Domestic II, *presented by* Word of Warning + The Guinness Partnership.      
+*Presented by* Word of Warning, The Guinness Partnership *during* [Domestic II](/current/2015-domestic)          
          
 ####In Brief                      
 Liz Clarke channels a version of herself; her alter ego Betty Bruiser: a hardcore Haus Frau in a strangly nostalgic peep into a twisted domestic scene. Join her as she whistfully wrangles with her white goods and merges with her machines.    
