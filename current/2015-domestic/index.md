@@ -45,7 +45,7 @@ To get a feel for it, have a look at the first Domestic [programme](/archive/201
 ####Venue + Booking Details        
 Dates: Thursday 24 — Saturday 26 September 2015        
 [Venue: Matthias Court, off Cannon Street, Salford, M3 6JD](http://bit.ly/domesticTWO) — a 7 minute walk from Chapel Street / Salford Cathedral, a 13 minute walk to Salford Central Railway Station, and a 20 minute walk to Opera House on Quay Street.            
-Evening Performances can be [booked online via We Got Tickets (10% booking fee applies)](http://www.wegottickets.com/wordofwarning) OR reserved over the phone: 07581 299 439 (leave a message + we'll get back to you); remaining tickets will be available at Matthias Court (cash only) just before the performances.
+Tickets: Evening Performances can be [booked online via We Got Tickets (10% booking fee applies)](http://www.wegottickets.com/wordofwarning) OR reserved over the phone 07581 299 439 (leave a message + we'll get back to you); remaining tickets will be available at Matthias Court (cash only) just before the performances.
         
 ####What people said about [Domestic (2013)](/archive/2013-domestic)      
 >Curated by the ever-impressive Word Of Warning…<br>*[Lyn Gardner, The Guardian](http://www.theguardian.com/stage/2013/nov/02/this-weeks-theatre)*        
