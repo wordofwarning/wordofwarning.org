@@ -40,7 +40,7 @@ Darren Pritchard has been creating dance works since 2006. As well as devising h
 Stylistically, Darren has explored ballet, street dance and contemporary dance, sometimes fused with text, projection and other multimedia forms. This project takes him to a new level of technological innovation and has brought about an extraordinary new artistic partnership with Guernsey-based digital artist Marcel Normand and dancer Adam Russell, taking them from early steps in playing with Kinect (motion sensitive gaming technology) to being virtual experts in its manipulation.          
          
 ####What people have said about *Body of Light*        
->*…a revelation. Body of Light was/is transcendental. You walk away pondering the questions of the universe.*<br>Juliet Ellis, Film/Director        
+>*…a revelation. Body of Light was/is transcendental. You walk away pondering the questions of the universe.*<br>Juliet Ellis, Film-maker/Director        
 >*I witnessed a mesmerizing piece of work, where technology is married with dance in a very human way, not overpowered by the technology but working in tandem.*<br>Sonia Hughes, Writer/Director       
         
 ####Credits         
