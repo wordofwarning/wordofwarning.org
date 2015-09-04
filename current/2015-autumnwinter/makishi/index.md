@@ -24,8 +24,7 @@ A characteristically quirky, subversive sermon of souls searching, humour and ab
 ####Venue + Booking Details    
 Dates: Tuesday 17 + Wednesday 18 November 2015, 8pm         
 [Venue: Contact (space 1)](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA        
-[Tickets: £13/7](http://contactmcr.com/whats-on/40896-stacy-makishi-vesper-time/booking/)    
-Special offers: buy nine tickets + get your tenth free.    
+[Tickets: £13/7](http://contactmcr.com/whats-on/40896-stacy-makishi-vesper-time/booking/) | Special offer: buy nine tickets + get your tenth free.    
 Box Office Tel: 0161 274 0600         
         
 ####Access Information        
