@@ -17,33 +17,32 @@ header_image: "header_bol.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning *+* Sustained Theatre Up North*, part of* Black Gold Arts Festival       
+<small>*Presented by* Word of Warning *+* Sustained Theatre Up North, *part of* Black Gold Arts Festival</small>       
            
 ####In Brief     
 A seamless landscape of flowing image, where graphics bend effortlessly around the arcs of a live dancer.        
           
-####Venue + Booking Details    
+####Venue + Booking Details       
 Date: Thursday 22 October 2015, 8pm              
 [Venue: STUN Studio at Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA          
 [Tickets: £8/5](http://www.z-arts.org/events/body-of-light) | Please note there is a limited capacity.         
-Box Office Tel: 0161 232 6089 
-
+Box Office Tel: 0161 232 6089         
+        
 ####Access Information      
-Age advisory: 6+.  With no interval, the show lasts approximately 40 minutes and will be followed by an opportunity to interact with the technology used. Primarily a visual, physical work, it incorporates fast moving projected imagery. For specific access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
+Age advisory: 6+ With no interval, the show lasts approximately 40 minutes and will be followed by an opportunity to interact with the technology used. Primarily a visual, physical work, it incorporates fast moving projected imagery. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
       
 ####More        
-*Body of Light* is a very human journey into the world of technology.  
-Take one finely tuned body, one home-gaming device and three creative minds, mix vigorously and see what happens.  The result: a seamless landscape of flowing imagery, where the body's movements translate into sweeping brushstrokes, and the boundaries of flesh and pixel blur into one.  Colour, texture and tone are shaped by body and in response, the body curves and moulds to the image, opening up new possibilities for human and machine alike.    
-
+*Body of Light* is a very human journey into the world of technology. Take one finely tuned body, one home-gaming device and three creative minds, mix vigorously and see what happens. The result: a seamless landscape of flowing imagery, where the body's movements translate into sweeping brushstrokes, and the boundaries of flesh and pixel blur into one. Colour, texture and tone are shaped by body and in response, the body curves and moulds to the image, opening up new possibilities for human and machine alike.        
+        
 ####Who is he?    
-Darren Pritchard has been creating dance works since 2006. As well as devising his own works, for theatres, galleries, a church, hotels and even the Sale of the Century TV studio, Darren has created dance works for and in collaboration with others, notably *The Chase* - a Blaze commission, working with parkour and freerunning specialists, *Susan and Darren*, a Quarantine collaboration; *Gulliver's Boom Box* with Walk the Plank; and *One*, a solo performance installation. Most recently, he has worked as director on Chanje Kunda*s award-winning *Amsterdam*, and Cheryl Martin's *Alaska*.   
-
-Stylistically, Darren has explored ballet, street dance and contemporary dance, sometimes fused with text, projection and other multimedia forms. This project takes him to a new level of technological innovation and has brought about an extraordinary new artistic partnership with Guernsey based digital artist Marcel Normand and dancer Adam Russell, taking them from early steps in playing with Kinect (motion sensitive gaming technology) to being virtual experts in its manipulation.    
-    
+Darren Pritchard has been creating dance works since 2006. As well as devising his own works, for theatres, galleries, a church, hotels and even the *Sale of the Century* TV studio, Darren has created dance works for and in collaboration with others, notably *The Chase* — a Blaze commission, working with parkour and freerunning specialists; *Susan and Darren* — a Quarantine collaboration; *Gulliver's Boom Box* with Walk the Plank; and *One* — a solo performance installation. Most recently, he has worked as director on Chanje Kunda's award-winning *Amsterdam* and Cheryl Martin's *Alaska*.   
+        
+Stylistically, Darren has explored ballet, street dance and contemporary dance, sometimes fused with text, projection and other multimedia forms. This project takes him to a new level of technological innovation and has brought about an extraordinary new artistic partnership with Guernsey-based digital artist Marcel Normand and dancer Adam Russell, taking them from early steps in playing with Kinect (motion sensitive gaming technology) to being virtual experts in its manipulation.          
+         
 ####What people have said about *Body of Light*        
->*..a revelation. Body of Light was/is transcendental. You walk away pondering the questions of the universe.*<br>Juliet Ellis, Film/Director        
->*I witnessed a mesmerizing piece of work, where technology is married with dance in a very human way, not overpowered by the technology but working in tandem.*<br>Sonia Hughes, Writer/Director    
-
+>*…a revelation. Body of Light was/is transcendental. You walk away pondering the questions of the universe.*<br>Juliet Ellis, Film/Director        
+>*I witnessed a mesmerizing piece of work, where technology is married with dance in a very human way, not overpowered by the technology but working in tandem.*<br>Sonia Hughes, Writer/Director       
+        
 ####Credits         
 Supported using public funding by the National Lottery through Arts Council England; supported by Guernsey Arts Commission, Journey Through Time, STUN, hÅb, Dance Manchester + Contact.
          
