@@ -19,7 +19,7 @@ header_image:
 *Presented by* Word of Warning, STUN + Z-arts
         
 ###Saturday 3 October 2015, 12noon-10pm. FREE             
-**Manchester's manic micro-marathon of the bizarre + the beautiful celebrates sweet sixteen — popping up throughout the cavernous realms of Z-arts — drop in for just ten minutes or stay for the full ten hours…**        
+**Manchester's manic micro-marathon of the bizarre + the beautiful celebrates sweet sixteen, popping-up throughout the cavernous realms of Z-arts — drop in for just ten minutes or stay for the full ten hours…**        
            
 Z-arts reverberates with some twenty-five individual shows in our annual performance lucky-dip; your chance to sample the different — all for free. (Participating artists to be confirmed.) To get a feel for it, have a look at 2014's [programme](/archive/2014-emergency) + [gallery](/galleries/2014-emergency).         
           
