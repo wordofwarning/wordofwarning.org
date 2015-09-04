@@ -100,11 +100,10 @@ Charlotte CHW is a multidisciplinary artist based in Hastings primarily working 
 ![Charlotte CHW](charlotte_chw.jpg)    
            
 **Afreena Islam ¦ *Daughters of the Curry Revolution***         
-Not very authentic "Authentic Indian Cuisine".  A repeating performance for small groups.    
 When I was little, I used to hang out at my dad's restaurant every weekend, back when they used to stay open until 5am. After a hard days toil running round like I owned the place for a bit, I would fall asleep to the CCTV; my body on the chest freezer, and my head resting on a pile of tablecloths.    
-
-*The Daughters of the Curry Revolution* is a reflection on my dad's life; from his journey to this country, to his journey to this day.    
-	
+*The Daughters of the Curry Revolution* is a reflection on my dad's life; from his journey to this country, to his journey to this day. 
+A repeating performance for small groups.    
+  
 Last seen trading secrets in a Liverpool shed for ‘Poolside Emergency, Afreena normally makes work as one half of Manchester-based interactive theatre company, PGB. She calls herself an artist only when she’s got something to say, the rest of the time she manages Divergency, sits on Contact’s board, and is an Associate for London-based interactive theatre-makers, Coney. This is her first solo work.    
 ![Afreena Islam](afreena.jpg)    
 
