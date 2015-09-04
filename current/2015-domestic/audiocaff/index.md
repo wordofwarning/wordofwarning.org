@@ -17,7 +17,7 @@ header_image: "header_audiocaff.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Part of* Domestic II, *presented by* Word of Warning + The Guinness Partnership.      
+*Presented by* Word of Warning, The Guinness Partnership *during* [Domestic II](/current/2015-domestic)          
          
 ####In Brief                      
 A traditional English café amplified, reverberated and delayed whilst enjoying a pot of tea and a homemade slice of Victoria Sponge.   
