@@ -1,7 +1,7 @@
 ---
 # CONFIGURATION
 layout: home
-header_image: "assets/images/header_warni.jpg"
+header_image: "assets/images/header_aw15wrn.jpg"
 
 ---
-####Word of Warning is on hiatus while we put together what comes next, starting in late September with [Domestic](/hab/domestic) II, continuing in early October with our 16th [Emergency](/hab/emergency)… Look at our [galleries](/galleries), or [sign-up](http://eepurl.com/i_Odb) to discover new performance in Manchester + beyond.
+####Announcing our [Autumn/Winter season](/current/2015-autumnwinter) — [Domestic II](/current/2015-domestic) sees a one-off, never to be repeated trip around a building in transition *24—26 Sep at Matthias Court, M3*; [Emergency](/current/2015-domesticemergency), our free day-out for the curious, celebrates sweet sixteen *3 Oct at Z-arts*.
