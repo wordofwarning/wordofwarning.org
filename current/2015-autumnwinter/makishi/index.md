@@ -29,7 +29,7 @@ Special offers: buy nine tickets + get your tenth free.
 Box Office Tel: 0161 274 0600         
         
 ####Access Information        
-Age advisory: 16+ With no interval, the show lasts approximately 60 minutes. English spoken word and ???. Wednesday 18 November's performance is BSL interpreted. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
+Age advisory: 16+ With no interval, the show lasts approximately 60 minutes. Primarily English spoken word, contains material some audience members may find offensive. Wednesday 18 November's performance is BSL interpreted. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
 ####More      
 Last seen in [2013's performance to die for](/archive/2013-autumnwinter/makishi), Stacy Makishi returns to Manchester in a solo show that draws on her stand-up comedy roots and theatrical sense of the uncanny… Looking at loss and mourning, and Stacy's one-time wish to be a missionary, *Vesper Time* weaves together the undercurrents of *Moby Dick* alongside 80s and 90s pop culture to offer up a 'vesper', a secular evening prayer.             
