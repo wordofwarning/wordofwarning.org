@@ -18,9 +18,9 @@ header_image:
 ---
 *Presented by* Word of Warning, The Guinness Partnership *during* [Domestic II](/current/2015-domestic)    
           
-####Saturday Daytime:      
-[Domestic II daytime](/current/2015-domestic) runs from 12noon to 5pm and is primarily an adult event.   
-
+####Saturday Daytime      
+**[Domestic II](/current/2015-domestic) daytime runs from 12noon to 5pm, and is primarily an adult event.**
+        
 See individual pages for:   
 [**Tin Can People ¦ *Audio Caff***](/current/2015-domestic/audiocaff)    
 [**Ria Hartley ¦ *My Brother's Father***](/current/2015-domestic/hartley)   
