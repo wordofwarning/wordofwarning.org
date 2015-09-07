@@ -18,24 +18,28 @@ header_image:
 ---
 *Presented by* Word of Warning, The Guinness Partnership *during* [Domestic II](/current/2015-domestic)        
          
-####Saturday Daytime Performances, 12noon-5pm         
+####Saturday Daytime Performance Programme, 12noon-5pm         
 **Please note, this is primarily an adult event.**        
 
 Please see individual pages for:      
 [**Tin Can People | *Audio Caff***](/current/2015-domestic/audiocaff)        
-Also available with a 24/25/26 Sep evening ticket.        
-[**Ria Hartley | *My Brother's Father***](/current/2015-domestic/hartley)          
-Also available with a 24/25/26 Sep evening ticket.        
-[**Louise Wallwein | *Glue***](/current/2015-domestic/wallwein)         
-Saturday Daytime brings a durational installation version of *Glue*, for the 20 minute performance please book a 24/25/26 Sep evening ticket.        
+Also available with a 24/25/26 September evening ticket.        
         
+[**Ria Hartley | *My Brother's Father***](/current/2015-domestic/hartley)          
+Also available with a 24/25/26 September evening ticket.        
+           
+[**Louise Wallwein | *Glue***](/current/2015-domestic/wallwein)         
+Saturday Daytime brings a durational installation version of *Glue*, for the 20 minute performance please book a 24/25/26 September evening ticket.        
+        hale
 **Threshold | *1989 called…***      
-A sonic silhouette, an artist's self-portrait created from the substance of absence.    
-*1989 Called…* shapes a sonic silhouette, an artist's portrait in their absence created from the substance left behind that might define them. In this case, the portrait is created from genuine answer phone messages left by friends, recorded in 1989. We listen in on someone else's life as disembodied voices from the past hint at relationships, events, both real and imagined, and imply a character to this absent recipient for whom the messages were once intended.    
-
+A sonic silhouette, an artist's self-portrait created from the substance of absence.        
+           
+*1989 Called…* shapes a sonic silhouette, an artist's self-portrait in their absence created from the substance left behind that might define them. In this case, the portrait is created from genuine answer phone messages left by friends, recorded in 1989. We listen in on someone else's life as disembodied voices from the past hint at relationships, events, both real and imagined, and imply a character to this absent recipient for whom the messages were once intended.    
+         
 *1989 called…* is an ongoing domestic installation.  
-  
-A professional filmmaker for 30 years, with more than 200 film credits as artist, producer, director or writer, including rock videos for major UK and US record labels, artists’ shorts video installations, commercial promotional films and award-winning community access workshops productions  Barry’s work has had numerous international screenings and exhibitions, from Las Vegas to Latvia, from the ICA to the belly of a Stockholm ship  He is the Co-Founder and Creative Director of Threshold Studios and Festival Co-Director of Frequency Festival of Digital Culture.    
+        
+A professional film-maker for 30 years, with more than 200 film credits as artist, producer, director or writer, including rock videos for major UK and US record labels, artists' shorts video installations, commercial promotional films and award-winning community access workshops productions, Barry Hale's work has had numerous international screenings and exhibitions, from Las Vegas to Latvia, from the ICA to the belly of a Stockholm ship. He is the Co-Founder and Creative Director of Threshold Studios and Festival Co-Director of Frequency Festival of Digital Culture.      
+           
 Supported using public funding by the National Lottery through Arts Council England.                
 [thresholdstudios.tv](http://www.thresholdstudios.tv)   
         
