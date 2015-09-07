@@ -25,7 +25,7 @@ Ellie Stamp is the secret love child of Elvis.
 In this autobiographical interactive performance — created with neuroscientist research partners — Ellie utilises her skills in participation and music to examine the problematic methodology used to define psychosis. She invites the audience to play with 9 numbers that fascinated Sir Issac Newton, Pythagoras and Elvis.        
         
 ####Venue + Booking Details        
-Dates: Thursday 24 — Saturday 26 September 2015, 7.30pm; Saturday 26 September 2015 12noon-5pm        
+Dates: Saturday 26 September 2015, 7.30pm        
 [Venue: Matthias Court, off Cannon Street, Salford, M3 6JD](http://bit.ly/domesticTWO) — a 7 minute walk from Chapel Street / Salford Cathedral, a 13 minute walk to Salford Central Railway Station, and a 20 minute walk to Opera House on Quay Street.            
 Tickets: Evening Performances can be [booked online via We Got Tickets (10% booking fee applies)](http://www.wegottickets.com/wordofwarning) OR reserved over the phone 07581 299 439 (leave a message + we'll get back to you); remaining tickets will be available at Matthias Court (cash only) just before the performances.        
         
