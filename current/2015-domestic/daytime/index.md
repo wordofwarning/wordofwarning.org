@@ -58,16 +58,13 @@ A contemplation on obsolescence in dialogue with the public, Clare is making rep
  ![Clare Charnley](charnley.jpg)    
   
 **Mackenzie & Reed | *Natura Naturans***             
-*Natura Naturans* redefines ‘life’ to ask, is a space ever really uninhabited?    
-Acting as enablers, Mackenzie and Reed explore the flaws in our current definition of the word ‘life’ by allowing the activity of living matter within the room to become performer.  Using a combination of live microscopy, projection and sound recording within the seemingly uninhabited domestic space, the artists will reveal that the room is alive and coax it into a collaborative performance, encouraging reflection on what constitutes ‘life’ and of our co-existence with this unassuming other.    
-
-*Natura Naturans* is an ongoing performance installation.    
-
-Louise Mackenzie (UK) is a mixed-media artist creating installation, sculpture, performance, sound and film worksWith a focus on living material
-Mark Reed is a freelance sound recordist, artist and would-be hermit philosopher if he wasn’t so busy workingA graduate of Popular and Contemporary Music at Newcastle University, Mark has expertise in sound design, composition and recording, managing sound production.    
+An experimental work that asks, is a space ever really uninhabited?    Acting as enablers, Mackenzie and Reed test the flaws in our current definition of the word ‘life’ by allowing the activity of unseen living matter within the room to become performer. Using a combination of live hack-microscopy, projection and sound recording within the seemingly uninhabited domestic space, Mackenzie & Reed reveal that the room is alive and coax it into a collaborative performance.    *Natura Naturans* is an ongoing performance installation.    
+Louise Mackenzie is a mixed-media artist creating installation, sculpture, performance, sound and film works since 2009. Currently researching living matter as material, she enables unpredictable relationships between medium, sound, image and text.    
+Mark Reed is a freelance sound recordist, artist and would-be hermit philosopher.  A graduate of Popular and Contemporary Music at Newcastle University, Mark has expertise in sound design, composition and recording, managing sound production.     
 Supported by Northumbria University.    
 [viralexperiments.co](http://www.viralexperiments.co/)    
 
+![Mackenzie + Reed](Mackenzie-and-Reed.jpg)     
  
 **Laura Wyatt O'Keeffe | *Pillow Talk***    
 The sound of forgotten intimacy, an installation for one person at a time.    
