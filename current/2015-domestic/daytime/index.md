@@ -5,9 +5,9 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Domestic II"
-show: "Saturday Daytime 12noon-5pm"
+show: "Saturday Daytime"
 artist_size: 1
-show_size: 3
+show_size: 2
 header_image:
 
 # ABOUT THE SHOW - LAYOUT
@@ -16,15 +16,17 @@ header_image:
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, The Guinness Partnership *during* [Domestic II](/current/2015-domestic)    
+*Presented by* Word of Warning, The Guinness Partnership *during* [Domestic II](/current/2015-domestic)          
           
-####Saturday Daytime      
-**[Domestic II](/current/2015-domestic) daytime runs from 12noon to 5pm, and is primarily an adult event.**
-        
+**Primarily an adult event, the Saturday Daytime programme for [Domestic II](/current/2015-domestic) runs from 12noon to 5pm.**
+
+###Saturday Daytime Performance Programme         
 See individual pages for:   
-[**Tin Can People | *Audio Caff***](/current/2015-domestic/audiocaff) — also avaialable with a 24/25/26 Sep evening ticket.        
-[**Ria Hartley | *My Brother's Father***](/current/2015-domestic/hartley) — also avaialable with a 24/25/26 Sep evening ticket.        
-[**Louise Wallwein | *Glue***](/current/2015-domestic/wallwein) — Saturday daytime brings a durational installation version of *Glue*, for the 20 minute performance please book a 24/25/26 Sep evening ticket.        
+[**Tin Can People | *Audio Caff***](/current/2015-domestic/audiocaff) — also available with a 24/25/26 Sep evening ticket.        
+         
+[**Ria Hartley | *My Brother's Father***](/current/2015-domestic/hartley) — also available with a 24/25/26 Sep evening ticket.        
+             
+[**Louise Wallwein | *Glue***](/current/2015-domestic/wallwein) — Saturday Daytime brings a durational installation version of *Glue*, for the 20 minute performance please book a 24/25/26 Sep evening ticket.        
         
 **Threshold | *1989 called…***      
 A sonic silhouette, an artist's self-portrait created from the substance of absence.    
@@ -35,19 +37,15 @@ A sonic silhouette, an artist's self-portrait created from the substance of abse
 A professional filmmaker for 30 years, with more than 200 film credits as artist, producer, director or writer, including rock videos for major UK and US record labels, artists’ shorts video installations, commercial promotional films and award-winning community access workshops productions  Barry’s work has had numerous international screenings and exhibitions, from Las Vegas to Latvia, from the ICA to the belly of a Stockholm ship  He is the Co-Founder and Creative Director of Threshold Studios and Festival Co-Director of Frequency Festival of Digital Culture.    
 Supported using public funding by the National Lottery through Arts Council England.                
 [thresholdstudios.tv](http://www.thresholdstudios.tv)   
- 
-     
+        
 **Doris La Trine | *Flushed***            
-Doris La Trine & her beloved toilet, Len, perform *Flushed*.  Doris has finally come out the (water) closet, and is trying to say good-bye to Len. Flushed is a feminist visual and physical tragi-comedy.        
-*Flushed* is an occasional performance intervention.    
-
-Doris La Trine is performed by Liselle Terret a Senior Lecturer at Coventry University. She performs queer feminist crip comedic low performance art & is co-course leader for a new Diploma in Performance-Making for learning disabled adults with Access All Areas at the Royal Central School of Speech & Drama. She has performed with Annie Sprinkle at The Chelsea Theatre, London.
-
+Doris La Trine + her beloved toilet, Len, perform *Flushed*. Doris has finally come out the (water) closet, and is trying to say good-bye to Len. *Flushed* is a feminist visual and physical tragi-comedy. *Flushed* is an occasional performance intervention.    
+         
+Doris La Trine is performed by Liselle Terret, a Senior Lecturer at Coventry University. She performs queer feminist crip comedic low performance art and is co-course leader for a new Diploma in Performance-Making for learning disabled adults with Access All Areas at the Royal Central School of Speech & Drama. She has performed with Annie Sprinkle at The Chelsea Theatre, London.           
+         
 [lipsickqueerfeministneoburlesque](http://www.lipsickqueerfeministneoburlesque.wordpress.com)    
- 
-![Doris La Trine](doris_la_trine.jpg)    
-
-
+![Doris La Trine](doris_la_trine.jpg)          
+           
 **Clare Charnley | *Flat Pack***            
 Charnley turns things inside out as she makes furniture from its packaging. 
 A contemplation on obsolescence in dialogue with the public, Clare is making repro just-out-of-date furniture for this new space. What on earth does she think she’s doing? And why?  Construction and dialogue.     
@@ -58,8 +56,11 @@ A contemplation on obsolescence in dialogue with the public, Clare is making rep
  ![Clare Charnley](charnley.jpg)    
   
 **Mackenzie & Reed | *Natura Naturans***             
-An experimental work that asks, is a space ever really uninhabited?    Acting as enablers, Mackenzie and Reed test the flaws in our current definition of the word ‘life’ by allowing the activity of unseen living matter within the room to become performer. Using a combination of live hack-microscopy, projection and sound recording within the seemingly uninhabited domestic space, Mackenzie & Reed reveal that the room is alive and coax it into a collaborative performance.    *Natura Naturans* is an ongoing performance installation.    
-Louise Mackenzie is a mixed-media artist creating installation, sculpture, performance, sound and film works since 2009. Currently researching living matter as material, she enables unpredictable relationships between medium, sound, image and text.    
+An experimental work that asks, is a space ever really uninhabited?    
+Acting as enablers, Mackenzie and Reed test the flaws in our current definition of the word ‘life’ by allowing the activity of unseen living matter within the room to become performer. Using a combination of live hack-microscopy, projection and sound recording within the seemingly uninhabited domestic space, Mackenzie & Reed reveal that the room is alive and coax it into a collaborative performance.    
+*Natura Naturans* is an ongoing performance installation.    
+
+Louise Mackenzie is a mixed-media artist creating installation, sculpture, performance, sound and film works since 2009. Currently researching living matter as material, she enables unpredictable relationships between medium, sound, image and text.    
 Mark Reed is a freelance sound recordist, artist and would-be hermit philosopher.  A graduate of Popular and Contemporary Music at Newcastle University, Mark has expertise in sound design, composition and recording, managing sound production.     
 Supported by Northumbria University.    
 [viralexperiments.co](http://www.viralexperiments.co/)    
