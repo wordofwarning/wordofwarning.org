@@ -19,21 +19,21 @@ header_image:
 *Presented by* Word of Warning, The Guinness Partnership *during* [Domestic II](/current/2015-domestic)        
          
 ####Saturday Daytime Performance Programme, 12noon-5pm         
-**Please note, this is primarily an adult event.**          
+**Please note this is primarily an adult event, see Access Info below.**          
           
 [**Tin Can People | *Audio Caff***](/current/2015-domestic/audiocaff)        
-Please see individual page; also available with a 24/25/26 September evening ticket.        
+Please see individual page; also available with a 24/25/26 Sep evening ticket.        
         
 [**Ria Hartley | *My Brother's Father***](/current/2015-domestic/hartley)          
-Please see individual page; also available with a 24/25/26 September evening ticket.        
+Please see individual page; also available with a 24/25/26 Sep evening ticket.        
            
 [**Louise Wallwein | *Glue***](/current/2015-domestic/wallwein)         
-Please see individual page; Saturday Daytime brings a durational installation version of *Glue*, for the 20 minute performance please book a 24/25/26 September evening ticket.          
+Please see individual page; Saturday Daytime brings a durational installation version, to see the 20 minute performance version please book a 24/25/26 Sep evening ticket.          
           
 **Threshold | *1989 called…***      
 A sonic silhouette, an artist's self-portrait created from the substance of absence.        
            
-*1989 Called…* shapes a sonic silhouette, an artist's self-portrait in their absence created from the substance left behind that might define them. In this case, the portrait is created from genuine answer phone messages left by friends, recorded in 1989. We listen in on someone else's life as disembodied voices from the past hint at relationships, events, both real and imagined, and imply a character to this absent recipient for whom the messages were once intended.    
+*1989 called…* shapes a sonic silhouette, an artist's self-portrait in their absence created from the substance left behind that might define them. In this case, the portrait is created from genuine answer phone messages left by friends, recorded in 1989. We listen in on someone else's life as disembodied voices from the past hint at relationships, events, both real and imagined, and imply a character to this absent recipient for whom the messages were once intended.    
          
 *1989 called…* is an ongoing domestic installation.  
         
