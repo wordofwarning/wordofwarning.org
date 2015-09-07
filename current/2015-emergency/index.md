@@ -21,10 +21,10 @@ header_image:
 ###Saturday 3 October 2015, 12noon-10pm. FREE             
 **Manchester's manic micro-marathon of the bizarre + the beautiful celebrates sweet sixteen — from gallery to theatre, store-cupboard to stairwell, some twenty-eight live works in a non-stop performance takeover.**         
          
-Your chance to sample the different — all for free. To get a feel for it, have a look at 2014's [programme](/archive/2014-emergency) + [gallery](/galleries/2014-emergency).     
+Your chance to sample the different — all for free. Participating artists (*subject to change*): Adam Lowe | Adam York Gregory + Gillian Jane Lees | Ali Matthews + Leo Burtin | Ali Wilson | Alicia Radage | Chris Jenkins | Dr Mango | Eleanor Fogg | Gareth Cutter | Gwendolen Osmond | Howl Yuan | James O'Donoghue | Jon M Coleman | Lucy McCormick | Milk + Two Sugars | Nicola Smith | Paul Hughes + Andy Edwards | Rachel Gomme | Rebekka Platt | Simon Farid | Simon Gerrard | Stephen Donnelly | Stephen Sheehan | Sturgeon's Law | Terri Donovan | The Demolition Project | Tim Anderson + Tessa Buddle | Trendscendence          
          
-Participating artists (subject to change): Adam Lowe | Adam York Gregory + Gillian Jane Lees | Ali Matthews + Leo Burtin | Ali Wilson | Alicia Radage | Chris Jenkins | Dr Mango | Eleanor Fogg | Gareth Cutter | Gwendolen Osmond | Howl Yuan | James O'Donoghue | Jon M Coleman | Lucy McCormick | Milk + Two Sugars | Nicola Smith | Paul Hughes + Andy Edwards | Rachel Gomme | Rebekka Platt | Simon Farid | Simon Gerrard | Stephen Donnelly | Stephen Sheehan | Sturgeon's Law | Terri Donovan | The Demolition Project | Tim Anderson + Tessa Buddle | Trendscendence          
-         
+To get a feel for it, have a look at 2014's [programme](/archive/2014-emergency) + [gallery](/galleries/2014-emergency).        
+        
 ####Venue + Booking Details
 Date: Saturday 3 October 2015, 12noon-10pm    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
