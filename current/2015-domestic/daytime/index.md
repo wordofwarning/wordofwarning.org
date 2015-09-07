@@ -7,7 +7,7 @@ rootpath: "../../../"
 artist: "Domestic II"
 show: "Saturday Daytime"
 artist_size: 1
-show_size: 2
+show_size: 3
 header_image:
 
 # ABOUT THE SHOW - LAYOUT
