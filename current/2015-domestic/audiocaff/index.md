@@ -8,7 +8,7 @@ rootpath: "../../../"
 artist: "Tin Can People"
 show: "Audio Caff"
 artist_size: 1
-show_size: 3
+show_size: 2
 header_image: "header_audiocaff.jpg"
 
 # ABOUT THE SHOW - LAYOUT
