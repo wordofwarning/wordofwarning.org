@@ -38,12 +38,11 @@ Supported using public funding by the National Lottery through Arts Council Engl
  
      
 **Doris La Trine | *Flushed***            
-Doris La Trine and her beloved toilet Len get Flushed.    
-Doris and Len have been together for what seems like forever and the time has come for Doris to open the bathroom door and go alone. This visual and physical performance juxtaposes comedy and tragedy as one piece.    
+Doris La Trine & her beloved toilet, Len, perform *Flushed*.  Doris has finally come out the (water) closet, and is trying to say good-bye to Len. Flushed is a feminist visual and physical tragi-comedy.        
+*Flushed* is an occasional performance intervention.    
 
-*Flushed* is an occasional performance intervention.     
+Doris La Trine is performed by Liselle Terret a Senior Lecturer at Coventry University. She performs queer feminist crip comedic low performance art & is co-course leader for a new Diploma in Performance-Making for learning disabled adults with Access All Areas at the Royal Central School of Speech & Drama. She has performed with Annie Sprinkle at The Chelsea Theatre, London.
 
-Doris La Trine is performed by Liselle Terret. As Doris La Trine, she creates and  has performed feminist low art at venues including BAC, Duckie, Assembly Rooms, and Soho Review Ba. She has also performed with Annie Sprinkle (The Chelsea Theatre 2008) as Annie’s dutiful nurse. A lecturer of many years standing, between 2008 to 2010 she co-curated a series of low art queer feminist events in partnership with the Roundhouse, London, and has published articles in a variety of publications.   
 [lipsickqueerfeministneoburlesque](http://www.lipsickqueerfeministneoburlesque.wordpress.com)    
  
 ![Doris La Trine](doris_la_trine.jpg)    
