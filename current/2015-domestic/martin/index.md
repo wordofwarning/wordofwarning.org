@@ -8,7 +8,7 @@ rootpath: "../../../"
 artist: "Cheryl Martin"
 show: "Alaska"
 artist_size: 1
-show_size: 2
+show_size: 1
 header_image: "header_martin.jpg"
 
 # ABOUT THE SHOW - LAYOUT
