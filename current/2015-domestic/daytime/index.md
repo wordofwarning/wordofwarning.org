@@ -16,17 +16,18 @@ header_image:
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, The Guinness Partnership *during* [Domestic II](/current/2015-domestic)          
-          
-**Primarily an adult event, the Saturday Daytime programme for [Domestic II](/current/2015-domestic) runs from 12noon to 5pm.**
-
-###Saturday Daytime Performance Programme         
-See individual pages for:   
-[**Tin Can People | *Audio Caff***](/current/2015-domestic/audiocaff) — also available with a 24/25/26 Sep evening ticket.        
+*Presented by* Word of Warning, The Guinness Partnership *during* [Domestic II](/current/2015-domestic)        
          
-[**Ria Hartley | *My Brother's Father***](/current/2015-domestic/hartley) — also available with a 24/25/26 Sep evening ticket.        
-             
-[**Louise Wallwein | *Glue***](/current/2015-domestic/wallwein) — Saturday Daytime brings a durational installation version of *Glue*, for the 20 minute performance please book a 24/25/26 Sep evening ticket.        
+####Saturday Daytime Performances, 12noon-5pm         
+**Please note, this is primarily an adult event.**        
+
+Please see individual pages for:      
+[**Tin Can People | *Audio Caff***](/current/2015-domestic/audiocaff)        
+Also available with a 24/25/26 Sep evening ticket.        
+[**Ria Hartley | *My Brother's Father***](/current/2015-domestic/hartley)          
+Also available with a 24/25/26 Sep evening ticket.        
+[**Louise Wallwein | *Glue***](/current/2015-domestic/wallwein)         
+Saturday Daytime brings a durational installation version of *Glue*, for the 20 minute performance please book a 24/25/26 Sep evening ticket.        
         
 **Threshold | *1989 called…***      
 A sonic silhouette, an artist's self-portrait created from the substance of absence.    
