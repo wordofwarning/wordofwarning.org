@@ -290,6 +290,27 @@
 	.aw2014 .splash
 		{background:url(../images/header_2014aw.jpg) -150px center}
 
+/* Emergency 2013/14 bright red
+------------------------------------------------------*/
+
+	.e2013,
+	.e2013 .artist, 
+	.e2013 .show,
+	.e2013 .season
+		{background:#c00; color:#fff;}
+
+	.e2013 a,
+	.e2013 a:visited,
+	.e2013 a:hover
+		{color:#fff;}
+	.e2013 nav a:hover,
+	.e2013 article a:hover,
+	.e2013 footer a:hover
+		{background: #fff; color: #c00;}
+		
+	.e2013 .splash
+		{background:url(../images/header_emergency_photo.jpg) center center}
+
 /* Spring 2015 Programme
 ------------------------------------------------------*/
 
@@ -392,23 +413,23 @@
 	.d2015 .splash
 		{background:url(../images/header_2015_domestic.jpg) center center}
 
-/* Emergency 2013/14/15 bright red
+/* Emergency 2015 bright red
 ------------------------------------------------------*/
 
-	.e2013,
-	.e2013 .artist, 
-	.e2013 .show,
-	.e2013 .season
-		{background:#c00; color:#fff;}
+	.e2015,
+	.e2015 .artist, 
+	.e2015 .show,
+	.e2015 .season
+		{background:#f00; color:#fff;}
 
-	.e2013 a,
-	.e2013 a:visited,
-	.e2013 a:hover
+	.e2015 a,
+	.e2015 a:visited,
+	.e2015 a:hover
 		{color:#fff;}
-	.e2013 nav a:hover,
-	.e2013 article a:hover,
-	.e2013 footer a:hover
-		{background: #fff; color: #c00;}
+	.e2015 nav a:hover,
+	.e2015 article a:hover,
+	.e2015 footer a:hover
+		{background: #fff; color: #f00;}
 		
-	.e2013 .splash
+	.e2015 .splash
 		{background:url(../images/header_emergency_photo.jpg) center center}
