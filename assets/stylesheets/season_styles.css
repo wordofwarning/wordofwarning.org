@@ -420,7 +420,7 @@
 	.e2015 .artist, 
 	.e2015 .show,
 	.e2015 .season
-		{background:#f00; color:#fff;}
+		{background:#d00; color:#fff;}
 
 	.e2015 a,
 	.e2015 a:visited,
@@ -429,7 +429,7 @@
 	.e2015 nav a:hover,
 	.e2015 article a:hover,
 	.e2015 footer a:hover
-		{background: #fff; color: #f00;}
+		{background: #fff; color: #d00;}
 		
 	.e2015 .splash
 		{background:url(../images/header_emergency_photo.jpg) center center}
