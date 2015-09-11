@@ -51,17 +51,19 @@ Doris La Trine is performed by Liselle Terret, a Senior Lecturer at Coventry Uni
 ![Doris La Trine](doris_la_trine.jpg)          
            
 **Clare Charnley | *Flat Pack***            
-Charnley turns things inside out as she makes furniture from its packaging. A contemplation on obsolescence in dialogue with the public, Clare is making repro just-out-of-date furniture for this new space. What on earth does she think she's doing? And why? Construction and dialogue.     
-       
+Container ships; the undeniable pleasures of packaging; the politics and aesthetics of obsolescence — the short step between the flashy show flat and the pathos of the charity store. As she fits out the room, these are some of the things Charnley is puzzling about. She does so in discussion with visitors.          
+         
 *Flat Pack* is an ongoing performance installation and conversation.        
          
-[clarecharnley.com](http://www.clarecharnley.com) | [Facebook](http://www.facebook.com/clarecharnley) | [@clarecharnley](http://twitter.com/clarecharnley)         
+Clare Charnley regards making as a kind of thinking. Much of her work is evolved  in dialog with the public. Recent videos, exhibitions and performances include Torino Performance, Italy; Archetype Drift, Chicago; PNEM Sound Art, Netherland; the Bluecoat, Liverpool; Post War, Sulamaniyah Kurdistan/ Iraq.        
+         
+[clarecharnley.com](http://www.clarecharnley.com) | [@clare_charnley](http://twitter.com/clare_charnley)         
 ![Clare Charnley](charnley.jpg)       
          
 **Mackenzie & Reed | *Natura Naturans***             
 An experimental work that asks, is a space ever really uninhabited?        
           
-Acting as enablers, Mackenzie & Reed test the flaws in our current definition of the word ‘life’ by allowing the activity of unseen living matter within the room to become performer. Using a combination of live hack-microscopy, projection and sound recording within the seemingly uninhabited domestic space, Mackenzie & Reed reveal that the room is alive and coax it into a collaborative performance.          
+Acting as enablers, Mackenzie & Reed test the flaws in our current definition of the word 'life' by allowing the activity of unseen living matter within the room to become performer. Using a combination of live hack-microscopy, projection and sound recording within the seemingly uninhabited domestic space, Mackenzie & Reed reveal that the room is alive and coax it into a collaborative performance.          
           
 *Natura Naturans* is an ongoing performance installation.    
           
@@ -132,7 +134,7 @@ An audio play about anorexia in which audiences interact with a distorted mirror
 *Backspace* is an audio experience for one person at a time.        
             
 Portuguese-born Ana Mendes is a writer and artist working and living in London and Berlin. She has studied animation film,  photography and an MA in Writing for Performance. She started to work as a writer, but turned gradually into visual arts. Her performance career started accidentally when she wrote Self-portrait, a play on her identity, in 2010. Since then, she has been developing projects that play on the intersection of photography and performance.    
-[anamendes.com](http://www.anamendes.com) | [Facebook](http://www.facebook.com/anamendesana) | [@anamendesana](http://twitter.com/anamendesana)       
+[anamendes.com](http://www.anamendes.com) | [@anamendesana](http://twitter.com/anamendesana)       
 ![Ana Mendes](mendes_ana.jpg)    
 
 ####Venue + Booking Details        
