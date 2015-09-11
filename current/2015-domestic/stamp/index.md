@@ -58,4 +58,4 @@ Ellie also works with other artists as a dramaturg, is a visiting artist at De M
 Created with support The Yard Theatre, Theatre Delicatessen, Nigel&Louise, Caroline Williams, Ross Sutherland & Xavier de Sousa. Supported using public funding by the National Lottery through Arts Council England.   
 
 ####Websites
-[elliestamp.com](http://www.elliestamp.com) | [@stampellie](http://twitter.com/stampellie) | [Facebook](http://www.facebook.com/ellie.stamp.9) | [Video](https://vimeo.com/89635894)
+[elliestamp.com](http://www.elliestamp.com) | [@stampellie](http://twitter.com/stampellie) | [Video](https://vimeo.com/89635894)
