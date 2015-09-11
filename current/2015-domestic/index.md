@@ -23,21 +23,21 @@ show_size: 4
 **A one-off, never to be repeated trip around a building in transition. Intimate interactions, homely conversations and domestic dramas played out in a block of flats…**        
          
 ###Evening Performances, Booking Essential	
-**A series of 'at homes' atop a transforming tower block. Stories of real lives in a surreal setting. (Click on times to book tickets.)**         
-*Thu 24 Sep, [7.30pm](http://www.wegottickets.com/event/332263) | £5*        
+**A series of 'at homes' atop a transforming tower block. Stories of real lives in a surreal setting.**         
+*Thu 24 Sep, 7.30pm [(book tickets)](http://www.wegottickets.com/event/332263) | £5*        
 Audio Caff | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Liz Clarke        
-*Fri 25 Sep, [7.30pm](http://www.wegottickets.com/event/332264) | £5*        
+*Fri 25 Sep, 7.30pm [(book tickets)](http://www.wegottickets.com/event/332264) | £5*        
 Audio Caff | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Catherine Hoffmann        
-*Sat 26 Sep, [7.30pm](http://www.wegottickets.com/event/332265) | £5*        
+*Sat 26 Sep, 7.30pm [(book tickets)](http://www.wegottickets.com/event/332265) | £5*        
 Audio Caff | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Ellie Stamp        
 
-**A slideshow exploring absence and presence, flying and falling, and the power of the artist to fail or be free. (Click on times to book.)**        
-*Fri 25 Sep, [7pm](http://www.wegottickets.com/event/332266) + [10pm](http://www.wegottickets.com/event/332267) | £3*        
+**A slideshow exploring absence and presence, flying and falling, and the power of the artist to fail or be free.**        
+*Fri 25 Sep, 7pm [(book tickets)](http://www.wegottickets.com/event/332266) + 10pm [(book tickets)](http://www.wegottickets.com/event/332267) | £3*        
 Michael Pinchbeck        
        
 ###Daytime Performances, Come + Go As You Please        
-**A live gallery takeover of this gutted ground floor, peeling back the layers to expose our social foundations. Domestic tales of pasts remembered and forgotten, and the impossibility of flat-pack furniture. (No booking required.)**        
-*Sat 26 Sep, 12noon-5pm | FREE*        
+**A live gallery takeover of this gutted ground floor, peeling back the layers to expose our social foundations. Domestic tales of pasts remembered and forgotten, and the impossibility of flat-pack furniture.**        
+*Sat 26 Sep, 12noon-5pm | FREE, no booking required*        
 Audio Caff | Leo Burtin | Clare Charnley | Charlotte CHW | Ria Hartley | Afreena Islam | Jamil Keating | Doris La Trine | Mackenzie & Reed | Ana Mendes | Threshold | Louise Wallwein | Laura Wyatt O'Keeffe        
          
 To get a feel for it, have a look at the first Domestic [programme](/archive/2013-domestic) + [gallery](/galleries/2013-domestic).        
