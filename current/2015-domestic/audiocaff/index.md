@@ -37,4 +37,4 @@ Age advisory: none. Sound installation and working café. Please request details
 Charlotte Berry is a theatre maker, performance artist and musician based in NW England. Charlotte is a member of Tin Can People, a theatre company that platform devised group performances and solo projects.                   
             
 ####Websites
-[tincanpeople.com](http://www.tincanpeople.com) | [Facebook](http://www.facebook.com/tincanpeople) | [@_CLBerry](http://twitter.com/_CLBerry)
+[tincanpeople.com](http://www.tincanpeople.com) | [Facebook](http://www.facebook.com/tincanpeople) | [@TinCanPeople](http://twitter.com/TinCanPeople)
