@@ -55,7 +55,7 @@ Charnley turns things inside out as she makes furniture from its packaging. A co
        
 *Flat Pack* is an ongoing performance installation and conversation.        
          
-[clarecharnley.com](http://www.clarecharnley.com) | [Facebook](http://www.facebook.com/clarecharnley) | [http://twitter.com/clarecharnley](@clarecharnley)         
+[clarecharnley.com](http://www.clarecharnley.com) | [Facebook](http://www.facebook.com/clarecharnley) | [@clarecharnley](http://twitter.com/clarecharnley)         
 ![Clare Charnley](charnley.jpg)       
          
 **Mackenzie & Reed | *Natura Naturans***             
@@ -67,7 +67,7 @@ Acting as enablers, Mackenzie & Reed test the flaws in our current definition of
           
 Louise Mackenzie is a mixed-media artist creating installation, sculpture, performance, sound and film works since 2009. Currently researching living matter as material, she enables unpredictable relationships between medium, sound, image and text. Mark Reed is a freelance sound recordist, artist and would-be hermit philosopher. A graduate of Popular and Contemporary Music at Newcastle University, Mark has expertise in sound design, composition and recording, managing sound production.     
 Supported by Northumbria University.        
-[viralexperiments.co](http://www.viralexperiments.co) | [http://twitter.com/loumackenzie](@loumackenzie)           
+[viralexperiments.co](http://www.viralexperiments.co) | [@loumackenzie](http://twitter.com/loumackenzie)           
 ![Mackenzie + Reed](Mackenzie-and-Reed.jpg)         
           
 **Laura Wyatt O'Keeffe | *Pillow Talk***    
@@ -80,7 +80,7 @@ This intimate sound installation explores the landscape of the dying mind. It's 
 *Pillow Talk* is an ongoing installation for one person at a time.    
            
 Laura Wyatt O'Keeffe is an actor, writer, theatre maker and the artistic director of the theatre and film company justmakeit Productions. Shane O'Sullivan is a composer, sound designer and broadcast engineer from Cork, Ireland and has been designing for theatre, short film and radio since 2009.            
-[justmakeitproductions.com](http://www.justmakeitproductions.com) | [Facebook](http://www.facebook.com/justmakeitproductions) | [http://twitter.com/LauraWOK](@LauraWOK)            
+[justmakeitproductions.com](http://www.justmakeitproductions.com) | [Facebook](http://www.facebook.com/justmakeitproductions) | [@LauraWOK](http://twitter.com/LauraWOK)            
 ![Laura Wyatt O'Keeffe](pillowtalk3.jpg)    
             
 **Jamil E-R Keating | *Asteroid RK1***      
@@ -91,7 +91,7 @@ An installation-story about asteroids and alcoholism, meteorites and human right
 *Asteroid RK1* is a looping 15 minute performance installation for small groups.      
            
 An interdisciplinary artist interested in theatre and live art, Jamil has developed [an auto-biographical coming of age solo-show for hÅb's Works Ahead](/archive/2015-worksahead) and pieces for Hazard and Emergency. He was Assistant Director on Contact Young Company's *The Shrine of Everyday Things* and produces performance nights as part of the collective, Gnarled Tongues.                
-[http://twitter.com/jamilkeating](@jamilkeating)             
+[@jamilkeating](http://twitter.com/jamilkeating)             
              
 **Leo Burtin | *Between Us***        
 A brief encounter with a stranger about the bits of life you'd like to never forget. A conversation for one person at a time.    
@@ -105,7 +105,7 @@ It's a short story, a snapshot of the everyday. You are invited to celebrate the
 Devised by Leo Burtin as part of the *Homemade series*, a series of artworks which seek to provoke complex conversations by gently disrupting familiar and domestic contexts and concepts.          
            
 Leo Burtin is an artist, creative producer and writer based in London. Leo describes himself as a socially engaged practitioner, and his work often takes place at the crossroads where genres and disciplines meet, blend and blur. In the recent past, he has worked with imitating the dog, Raisin & Willow, Rajni Shah Projects + Blast Theory.   
-[leoburtin.co.uk](http://www.leoburtin.co.uk) | [Facebook](http://www.facebook.com/leoburtin) | [http://twitter.com/](@olamerino)     
+[leoburtin.co.uk](http://www.leoburtin.co.uk) | [Facebook](http://www.facebook.com/leoburtin) | [@olamerino](http://twitter.com/olamerino)     
 ![Leo Burtin](burtin.jpg)     
 
 **Charlotte CHW | *Body-Wake***             
@@ -114,7 +114,7 @@ An intimate durational live art installation using the body and movement, film a
 *Body Wake* is a repeating performance for small groups.          
              
 Charlotte CHW is a multidisciplinary artist based in Hastings primarily working in the realms of live art, sculpture, sound and installation and where the boundaries of these mediums do or don't lie. Primary interests in her work lie in the societal anxiety surrounding physical and mental health and the presentation of this. She attempts to translate emotional honesty to physicality and portray the ebbs and flows of the human body.    
-[http://twitter.com/CHW_art](@CHW_art)         
+[@CHW_art](http://twitter.com/CHW_art)         
 ![Charlotte CHW](charlotte_chw.jpg)    
            
 **Afreena Islam | *Daughters of the Curry Revolution***         
@@ -123,7 +123,7 @@ Charlotte CHW is a multidisciplinary artist based in Hastings primarily working 
 *Daughters of the Curry Revolution* is a repeating performance for small groups.         
         
 [Last seen trading secrets in a Liverpool shed for 'Poolside Emergency](/archive/2013-poolside/ltdcap), Afreena normally makes work as one half of Manchester-based interactive theatre company, PGB. She calls herself an artist only when she’s got something to say, the rest of the time she manages Divergency, sits on Contact’s board, and is an Associate for London-based interactive theatre-makers, Coney. This is her first solo work.        
-[http://twitter.com/afreenaazaria](@afreenaazaria)          
+[@afreenaazaria](http://twitter.com/afreenaazaria)          
 ![Afreena Islam](afreena.jpg)    
             
 **Ana Mendes | *Backspace***             
@@ -132,7 +132,7 @@ An audio play about anorexia in which audiences interact with a distorted mirror
 *Backspace* is an audio experience for one person at a time.        
             
 Portuguese-born Ana Mendes is a writer and artist working and living in London and Berlin. She has studied animation film,  photography and an MA in Writing for Performance. She started to work as a writer, but turned gradually into visual arts. Her performance career started accidentally when she wrote Self-portrait, a play on her identity, in 2010. Since then, she has been developing projects that play on the intersection of photography and performance.    
-[anamendes.com](http://www.anamendes.com) | [Facebook](http://www.facebook.com/anamendesana) | [http://twitter.com/anamendesana](@anamendesana)       
+[anamendes.com](http://www.anamendes.com) | [Facebook](http://www.facebook.com/anamendesana) | [@anamendesana](http://twitter.com/anamendesana)       
 ![Ana Mendes](mendes_ana.jpg)    
 
 ####Venue + Booking Details        
@@ -151,4 +151,4 @@ Age advisory: Domestic II is primarily aimed at adults and deals with autobiogra
 Domestic II is running alongside Flow Salford [www.flowsalford.co.uk](http://www.flowsalford.co.uk)
 
 ####Websites
-<http://domesticmcr.org> | [#domesticmcr](http://twitter.com/hashtag/domesticmcr)
+<http://domesticmcr.org> | [Facebook event coming soon]() | [#domesticmcr](http://twitter.com/hashtag/domesticmcr)
