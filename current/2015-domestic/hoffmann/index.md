@@ -50,4 +50,4 @@ Recently she has made work for The Festival of Love at The Southbank, Latitude, 
 >*Lovely… Hoffmann’s work evokes the joy of effacing oneself; of escaping the self into something bigger and more lasting than all of us.*<br>Time Out    
 
 ####Websites
-[cathoffmann.com](http://www.riahartley.com) | [@CathHoffmann](http://twitter.com/CathHoffmann)
+[cathoffmann.com](http://www.cathoffmann.com) | [@CathHoffmann](http://twitter.com/CathHoffmann)
