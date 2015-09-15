@@ -25,7 +25,7 @@ Can you ever fully recover from years of childhood abuse & trauma?
 
 Sited in an empty flat, the audience are given tools to reveal and discover the work, and also to walk away when they choose.    
     
-####Venue + Booking Details        
+####Venue + Booking Details, for Domestic II        
 Dates: Thursday 24 — Saturday 26 September 2015, 7.30pm; Saturday 26 September 2015 12noon-5pm        
 [Venue: Matthias Court, off Cannon Street, Salford, M3 6JD](http://bit.ly/domesticTWO) — a 7 minute walk from Chapel Street / Salford Cathedral, a 13 minute walk to Salford Central Railway Station, and a 20 minute walk to Opera House on Quay Street.            
 Tickets: Evening Performances can be [booked online via We Got Tickets (10% booking fee applies)](http://www.wegottickets.com/wordofwarning) OR reserved over the phone 07581 299 439 (leave a message + we'll get back to you); remaining tickets will be available at Matthias Court (cash only) just before the performances.        
