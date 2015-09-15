@@ -22,8 +22,8 @@ header_image: "header_pincbecknew2.jpg"
 ####In Brief                      
 A slideshow exploring absence and presence, flying and falling, and the power of the artist to fail or be free.      
          
-####Venue + Booking Details        
-Dates: Friday 25 September 2015, 7pm + 10pm        
+####Venue + Booking Details, for Domestic II        
+Dates: Friday 25 September 2015, 7pm + 10pm (limited capacities)       
 [Venue: Matthias Court, off Cannon Street, Salford, M3 6JD](http://bit.ly/domesticTWO) — a 7 minute walk from Chapel Street / Salford Cathedral, a 13 minute walk to Salford Central Railway Station, and a 20 minute walk to Opera House on Quay Street.            
 Tickets: Evening Performances can be [booked online via We Got Tickets (10% booking fee applies)](http://www.wegottickets.com/wordofwarning) OR reserved over the phone 07581 299 439 (leave a message + we'll get back to you); remaining tickets will be available at Matthias Court (cash only) just before the performances.
          
@@ -41,7 +41,7 @@ There is a guest performer. There is an audience of ten people. The guest perfor
 The performance draws on notions of escape and makes a journey (like Kabakov) between east and west, flying and falling, attempt and failure. It questions an understanding of space by relating outer space to the theatre space, the journey of the man who flew into space from his apartment with that of the guest performer involved, taking a leap of faith and heading into the unknown.        
         
 ####Who are they?       
-Michael Pinchbeck is a Nottingham-based award-winning writer and theatre maker. His work has toured nationally and internationally, including a trilogy of devised performances — *The Beginning* ([launched WoW, Feb 2012](http://wordofwarning.posthaven.com/warnmcr-that-was-the-beginning-now-for-more)), *The Middle* ([commissioned by hÅb, May 2013](/archive/2013-springsummer/pinchbeckghelani)) and *The End* ([closed greenroom, May 2011](http://www.greenroomarts.org/archive/events/the-end)) — and his work has been selected for the British Council's Edinburgh Showcase three times. Works-in-progress of *The man who…* (commissioned by hÅb) were shown in [November 2014]/archive/2014-autumnwinter/pinchbeck).          
+Michael Pinchbeck is a Nottingham-based award-winning writer and theatre maker. His work has toured nationally and internationally, including a trilogy of devised performances — *The Beginning* ([launched WoW, Feb 2012](http://wordofwarning.posthaven.com/warnmcr-that-was-the-beginning-now-for-more)), *The Middle* ([commissioned by hÅb, May 2013](/archive/2013-springsummer/pinchbeckghelani)) and *The End* (closed greenroom, May 2011) — and his work has been selected for the British Council's Edinburgh Showcase three times. Works-in-progress of *The man who…* (commissioned by hÅb) were shown in [November 2014](/archive/2014-autumnwinter/pinchbeck).          
          
 He has a Masters in Performance and Live Art from Nottingham Trent University, lectures at the University of Lincoln and is completing a PhD at Loughborough University exploring the role of dramaturg; he is also co-director of Hatch, the East Midlands' "theatre without a building".        
          
