@@ -33,7 +33,7 @@ Audio Caff | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Ellie Stam
 
 **A slideshow exploring absence and presence, flying and falling, and the power of the artist to fail or be free.**        
 *Fri 25 Sep, 7pm [(book tickets)](http://www.wegottickets.com/event/332266) + 10pm [(book tickets)](http://www.wegottickets.com/event/332267) | £3*        
-Michael Pinchbeck        
+Michael Pinchbeck + guests Niki Woods (7pm) | Oliver Bray (10pm)        
        
 ###Daytime Performances, Come + Go As You Please        
 **A live gallery takeover of this gutted ground floor, peeling back the layers to expose our social foundations. Domestic tales of pasts remembered and forgotten, and the impossibility of flat-pack furniture.**        
