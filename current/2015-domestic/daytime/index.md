@@ -82,7 +82,7 @@ This intimate sound installation explores the landscape of the dying mind. It's 
 *Pillow Talk* is an ongoing installation for one person at a time.    
            
 Laura Wyatt O'Keeffe is an actor, writer, theatre maker and the artistic director of the theatre and film company justmakeit Productions. Shane O'Sullivan is a composer, sound designer and broadcast engineer from Cork, Ireland and has been designing for theatre, short film and radio since 2009.            
-[justmakeitproductions.com](http://www.justmakeitproductions.com) | [Facebook](http://www.facebook.com/justmakeitproductions) | [@LauraWOK](http://twitter.com/LauraWOK)            
+[@LauraWOK](http://twitter.com/LauraWOK)            
 ![Laura Wyatt O'Keeffe](pillowtalk3.jpg)    
             
 **Jamil E-R Keating | *Asteroid RK1***      
