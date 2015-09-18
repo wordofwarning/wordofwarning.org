@@ -22,6 +22,8 @@ header_image: "header_pincbecknew2.jpg"
 ####In Brief                      
 A slideshow exploring absence and presence, flying and falling, and the power of the artist to fail or be free.      
          
+See his [trailer](http://vimeo.com/139682403).          
+         
 ####Venue + Booking Details, for Domestic II        
 Dates: Friday 25 September 2015, 7pm + 10pm (limited capacities)       
 [Venue: Matthias Court, off Cannon Street, Salford, M3 6JD](http://bit.ly/domesticTWO) — a 7 minute walk from Chapel Street / Salford Cathedral, a 13 minute walk to Salford Central Railway Station, and a 20 minute walk to Opera House on Quay Street.            
