@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency 2015"
-show: "EVENING: 4pm-10pm"
+show: "AFTERNOON: 12noon-4pm"
 artist_size: 1
 show_size: 3
 header_image:
@@ -18,13 +18,13 @@ header_image:
 ---
 *Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2015](/current/2015-emergency)    
           
-####Order of Appearance (*artists/order subject to change*)      
+####Alphabetical Order (*participating artists subject to change*)      
 **Please note this is primarily an adult event, see Access Info below.**        
            
-COPY
+COPY TO FOLLOW HERE…        
             
 ####Venue + Booking Details
-Date: Saturday 3 October 2015, 12noon-10pm    
+Date: Saturday 3 October 2015, 12noon-4pm (full event runs to 10pm)    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: FREE no booking required, come + go as you please.        
 *N.B. Some limited capacity shows have sign-up sheets on the day, others operate on a first come, first served basis.*          
