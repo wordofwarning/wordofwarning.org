@@ -24,7 +24,7 @@ header_image:
 COPY TO FOLLOW HERE…        
             
 ####Venue + Booking Details
-Date: Saturday 3 October 2015, 4pm-10pm (event sarts at 12noon)    
+Date: Saturday 3 October 2015, 4pm-10pm (event starts at 12noon)    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: FREE no booking required, come + go as you please.        
 *N.B. Some limited capacity shows have sign-up sheets on the day, others operate on a first come, first served basis.*          
