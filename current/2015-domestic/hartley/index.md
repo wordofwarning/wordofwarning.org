@@ -32,7 +32,7 @@ Tickets: Evening Performances can be [booked online via We Got Tickets (10% book
          
 ####Access Information      
 As a sited event, Domestic II presents a number of access challenges please see [front page](/current/2015-domestic) for details.    
-Age advisory: parental advisory 12+ Sound installation and working café. Please request details of allergens. For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.       
+Age advisory: parental advisory 12+ For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.       
            
 ####More   
 *My Brother's Father* was first developed and performed in an abandoned house in 2007, presenting fragmented autobiographical narratives from 1994–2000 depicting the abusive relationship between myself and my Brothers Father.    
