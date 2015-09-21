@@ -25,13 +25,14 @@ A slideshow exploring absence and presence, flying and falling, and the power of
 See his [trailer](http://vimeo.com/139682403).          
          
 ####Venue + Booking Details, for Domestic II        
-Dates: Friday 25 September 2015, 7pm + 10pm (limited capacities)       
+BOTH PERFORMANCES ARE SOLD-OUT 
+(Dates: Friday 25 September 2015, 7pm + 10pm)                 
 [Venue: Matthias Court, off Cannon Street, Salford, M3 6JD](http://bit.ly/domesticTWO) — a 7 minute walk from Chapel Street / Salford Cathedral, a 13 minute walk to Salford Central Railway Station, and a 20 minute walk to Opera House on Quay Street.            
 Tickets: Evening Performances can be [booked online via We Got Tickets (10% booking fee applies)](http://www.wegottickets.com/wordofwarning) OR reserved over the phone 07581 299 439 (leave a message + we'll get back to you); remaining tickets will be available at Matthias Court (cash only) just before the performances.
          
 ####Access Information      
 As a sited event, Domestic II presents a number of access challenges please see [front page](/current/2015-domestic) for details.    
-Age advisory: none. Sound installation and working café. Please request details of allergens. For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.       
+Age advisory: 14+ Slideshow with narration and music. For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.       
         
 ####More   
 The first thing to do if you ever find yourself suddenly expelled into the vacuum of space is exhale.    
