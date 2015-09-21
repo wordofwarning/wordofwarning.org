@@ -32,7 +32,7 @@ Audio Caff | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Catherine 
 Audio Caff | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Ellie Stamp        
 
 **A slideshow exploring absence and presence, flying and falling, and the power of the artist to fail or be free.**        
-*Fri 25 Sep, 7pm [(book tickets)](http://www.wegottickets.com/event/332266) + 10pm [(book tickets)](http://www.wegottickets.com/event/332267) | £3*        
+*(Fri 25 Sep, 7pm + 10pm: both shows are now sold-out) | £3*        
 Michael Pinchbeck, with guests Niki Woods (7pm) + Oliver Bray (10pm)        
        
 ###Daytime Performances, Come + Go As You Please        
