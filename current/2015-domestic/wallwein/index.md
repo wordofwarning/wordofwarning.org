@@ -29,7 +29,7 @@ Tickets: Evening Performances can be [booked online via We Got Tickets (10% book
         
 ####Access Information      
 As a sited event, Domestic II presents a number of access challenges please see [front page](/current/2015-domestic) for details.    
-Age advisory: none. Sound installation and working café. Please request details of allergens. For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.       
+Age advisory: 12+ For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.       
         
 ####More    
 *There I was, tipped to be one to watch after doing a show on the wings of an aeroplane a year earlier. 1999, my life was moving in the right direction – a career, a new home and a new girlfriend.*    
