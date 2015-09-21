@@ -53,10 +53,12 @@ Tickets: Evening Performances can be [booked online via We Got Tickets (10% book
 >A really eclectic and engaging programme of intimate work in a series of exciting and unique spaces.<br>*Audience member*          
          
 ####Access Information        
-As a sited event, Domestic II presents a number of access challenges and whilst we will make every effort to help, wheelchair access may not be possible, please contact us for details.        
-Age advisory: Domestic II is primarily aimed at adults and deals with autobiographical and social issues with some sensitive content. Works suitable for younger people on Saturday daytime will be clearly signposted on the day.        
-For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.        
-        
+As a sited event, Domestic II presents a number of access challenges.  Audience members should be aware that Matthias Court is an active construction site and as such, is rough and ready.  Please wear sensible shoes, warm layered clothing (that you are happy to get dirty) and be aware of possible rough floor and wall surfaces!    
+
+Mobility restrictions: Door widths vary from 65-78cm and several of the flats have a half step lip. Regrettably, the 15th floor is not wheelchair accessible due to concerns of possible lift breakdown; audience members with mobility issues should also be aware that (*in worst case scenario*) they might need to walk back down the stairs. If you have concerns, please call us on 07581 299 439 to discuss.     
+
+Age advisory: Domestic II is primarily aimed at adults and deals with autobiographical and social issues with some sensitive content. Works suitable for younger people during Saturday Daytime will be clearly signposted on the day. For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.      
+       
 ####Credits         
 [Domestic](/hab/domestic) II is produced by hÅb with support from The Guinness Partnership + Guinness Property, and  supported using public funding by the National Lottery through Arts Council England.        
 Photo licensed through Creative Commons © [T.J.Blackwell](http://tjblackwell.co.uk/lucid)        
