@@ -31,7 +31,7 @@ Tickets: Evening Performances can be [booked online via We Got Tickets (10% book
         
 ####Access Information      
 As a sited event, Domestic II presents a number of access challenges please see [front page](/current/2015-domestic) for details.    
-Age advisory: none. Sound installation and working café. Please request details of allergens. For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.       
+Age advisory: 15+ For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.       
         
 ####More   
 *Are You Lonesome Tonight?* is a solo performance based on true events. Ellie has been trying to understand how and why delusional beliefs occur by asking:    
