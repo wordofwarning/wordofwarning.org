@@ -31,8 +31,8 @@ Dates: Thursday 24 — Saturday 26 September 2015, 7.30pm; Saturday 26 September
 Tickets: Evening Performances can be [booked online via We Got Tickets (10% booking fee applies)](http://www.wegottickets.com/wordofwarning) OR reserved over the phone 07581 299 439 (leave a message + we'll get back to you); remaining tickets will be available at Matthias Court (cash only) just before the performances.        
          
 ####Access Information      
-As a sited event, Domestic II presents a number of access challenges and whilst we will make every effort to help, wheelchair access may not be possible, please contact us for details.        
-Age advisory: 12+ Combining autobiographical content in visual and textual form with live performance. For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439. 
+As a sited event, Domestic II presents a number of access challenges please see [front page](/current/2015-domestic) for details.    
+Age advisory: none. Sound installation and working café. Please request details of allergens. For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.       
            
 ####More   
 *My Brother's Father* was first developed and performed in an abandoned house in 2007, presenting fragmented autobiographical narratives from 1994–2000 depicting the abusive relationship between myself and my Brothers Father.    
