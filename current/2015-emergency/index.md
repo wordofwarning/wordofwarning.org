@@ -26,7 +26,7 @@ From noon, dip in and out of ongoing performances — from virtual reality to ph
 Then from 4pm join us for a series of short sit-down shows in a variety of spaces — from stand-up with a twist, to a manic roller derby and a raunchy celebratory climax.         
          
 Your chance to sample the different — all for free, featuring (*participating artists subject to change*):            
-Adam Lowe | Adam York Gregory + Gillian Jane Lees | Ali Matthews + Leo Burtin | Ali Wilson | Alicia Radage | Chris Jenkins | Dr Mango | Eleanor Fogg | Gareth Cutter | Gwendolen Osmond | Howl Yuan | James O'Donoghue | Jon M Coleman | Lucy McCormick | Nicola Smith | Paul Hughes + Andy Edwards | Rachel Gomme | Rebekka Platt | Simon Farid | Simon Gerrard | Stephen Donnelly | Stephen Sheehan | Sturgeon's Law | Terri Donovan | The Demolition Project | Tim Anderson + Tessa Buddle | Trendscendence          
+Adam Lowe | Adam York Gregory + Gillian Jane Lees | Ali Matthews + Leo Burtin | Ali Wilson | Alicia Radage | Chris Jenkins | Dr Mango | Eleanor Fogg | Gareth Cutter | Gwendolen Osmond | Howl Yuan | James O'Donoghue | Jon M Coleman | Lucy McCormick | Nicola Smith | Paul Hughes + Andy Edwards | Rachel Gomme | Rebekka Platt | Simon Farid | Simon Gerrard | Stephen Donnelly | Sturgeon's Law | Terri Donovan | The Demolition Project | Tim Anderson + Tessa Buddle | Trendscendence          
          
 To get a feel for it, have a look at 2014's [programme](/archive/2014-emergency) + [gallery](/galleries/2014-emergency).        
         
