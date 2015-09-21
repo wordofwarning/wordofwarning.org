@@ -67,8 +67,8 @@ Acting as enablers, Mackenzie & Reed test the flaws in our current definition of
           
 *Natura Naturans* is an ongoing performance installation.    
           
-Louise Mackenzie is a mixed-media artist creating installation, sculpture, performance, sound and film works since 2009. Currently researching living matter as material, she enables unpredictable relationships between medium, sound, image and text. Mark Reed is a freelance sound recordist, artist and would-be hermit philosopher. A graduate of Popular and Contemporary Music at Newcastle University, Mark has expertise in sound design, composition and recording, managing sound production.     
-Supported by Northumbria University.        
+Louise Mackenzie is a mixed-media artist creating installation, sculpture, performance, sound and film works since 2009. Currently researching living matter as material, she enables unpredictable relationships between medium, sound, image and text. She won the New Graduate Award at Manchester Science Festival 2013 and has exhibited in the UK, Australia and Japan. Mark Reed is a freelance sound recordist, artist and would-be hermit philosopher. A graduate of Popular and Contemporary Music at Newcastle University, Mark has expertise in sound design, composition and recording, managing sound production.     
+Supported by Northumbria University, Newcastle University and Lancaster University.       
 [viralexperiments.co](http://www.viralexperiments.co) | [@loumackenzie](http://twitter.com/loumackenzie)           
 ![Mackenzie + Reed](Mackenzie-and-Reed.jpg)         
           
@@ -145,7 +145,10 @@ Tickets: FREE no booking required, come + go as you please.
 Enquires: <mailto:info@habarts.org> | 07581 299 439    
          
 ####Access Information      
-As a sited event, Domestic II presents a number of access challenges and whilst we will make every effort to help, wheelchair access may not be possible, please contact us for details.          
+As a sited event, Domestic II presents a number of access challenges.  Audience members should be aware that Matthias Court is an active construction site and as such, is rough and ready.  Please wear sensible shoes, warm layered clothing (that you are happy to get dirty) and be aware of possible rough floor and wall surfaces!    
+
+Mobility restrictions: Door widths vary from 65-78cm and several of the flats have a half step lip. Regrettably, the 15th floor is not wheelchair accessible due to concerns of possible lift breakdown; audience members with mobility issues should also be aware that (*in worst case scenario*) they might need to walk back down the stairs. If you have concerns, please call us on 07581 299 439 to discuss.     
+
 Age advisory: Domestic II is primarily aimed at adults and deals with autobiographical and social issues with some sensitive content. Works suitable for younger people during Saturday Daytime will be clearly signposted on the day. For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.            
            
 ####Credits         
