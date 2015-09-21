@@ -65,8 +65,8 @@ An experimental work that asks, is a space ever really uninhabited?
           
 Acting as enablers, Mackenzie & Reed test the flaws in our current definition of the word 'life' by allowing the activity of unseen living matter within the room to become performer. Using a combination of live hack-microscopy, projection and sound recording within the seemingly uninhabited domestic space, Mackenzie & Reed reveal that the room is alive and coax it into a collaborative performance.          
           
-*Natura Naturans* is an ongoing performance installation.    
-          
+*Natura Naturans* is an ongoing performance installation.   Open to all ages, but be advised it quite dark and there are large insect/arachnid images.    
+
 Louise Mackenzie is a mixed-media artist creating installation, sculpture, performance, sound and film works since 2009. Currently researching living matter as material, she enables unpredictable relationships between medium, sound, image and text. She won the New Graduate Award at Manchester Science Festival 2013 and has exhibited in the UK, Australia and Japan. Mark Reed is a freelance sound recordist, artist and would-be hermit philosopher. A graduate of Popular and Contemporary Music at Newcastle University, Mark has expertise in sound design, composition and recording, managing sound production.     
 Supported by Northumbria University, Newcastle University and Lancaster University.       
 [viralexperiments.co](http://www.viralexperiments.co) | [@loumackenzie](http://twitter.com/loumackenzie)           
@@ -79,8 +79,8 @@ Laura and Shane are cousins. They have a Grandmother. She is forgetting herself.
              
 This intimate sound installation explores the landscape of the dying mind. It's gentle and surprising.            
            
-*Pillow Talk* is an ongoing installation for one person at a time.    
-           
+*Pillow Talk* is an ongoing installation for one person at a time.    Age advisory, 12+ or with adult accompaniment.    
+
 Laura Wyatt O'Keeffe is an actor, writer, theatre maker and the artistic director of the theatre and film company justmakeit Productions. Shane O'Sullivan is a composer, sound designer and broadcast engineer from Cork, Ireland and has been designing for theatre, short film and radio since 2009.            
 [@LauraWOK](http://twitter.com/LauraWOK)            
 ![Laura Wyatt O'Keeffe](pillowtalk3.jpg)    
@@ -102,8 +102,8 @@ It's a short story, a snapshot of the everyday. You are invited to celebrate the
 
 "What is your 4th July? Who's birthday would you never forget? When did you take your first steps?"           
      
-*Between Us* is a performance for one person at a time.    
-        
+*Between Us* is a performance for one person at a time. Age advisory, 12 + or with parental discretion.     
+
 Devised by Leo Burtin as part of the *Homemade series*, a series of artworks which seek to provoke complex conversations by gently disrupting familiar and domestic contexts and concepts.          
            
 Leo Burtin is an artist, creative producer and writer based in London. Leo describes himself as a socially engaged practitioner, and his work often takes place at the crossroads where genres and disciplines meet, blend and blur. In the recent past, he has worked with imitating the dog, Raisin & Willow, Rajni Shah Projects + Blast Theory.   
@@ -122,8 +122,8 @@ Charlotte CHW is a multidisciplinary artist based in Hastings primarily working 
 **Afreena Islam | *Daughters of the Curry Revolution***         
 "When I was little, I used to hang out at my dad's restaurant every weekend, back when they used to stay open until 5am. After a hard days toil running-round like I owned the place for a bit, I would fall asleep to the CCTV; my body on the chest freezer, and my head resting on a pile of tablecloths. *The Daughters of the Curry Revolution* is a reflection on my dad's life; from his journey to this country, to his journey to this day."          
            
-*Daughters of the Curry Revolution* is a repeating performance for small groups.         
-        
+*Daughters of the Curry Revolution* is a repeating performance for small groups.      
+     
 [Last seen trading secrets in a Liverpool shed for 'Poolside Emergency](/archive/2013-poolside/ltdcap), Afreena normally makes work as one half of Manchester-based interactive theatre company, PGB. She calls herself an artist only when she’s got something to say, the rest of the time she manages Divergency, sits on Contact’s board, and is an Associate for London-based interactive theatre-makers, Coney. This is her first solo work.        
 [@afreenaazaria](http://twitter.com/afreenaazaria)          
 ![Afreena Islam](afreena.jpg)    

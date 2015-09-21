@@ -32,7 +32,7 @@ Tickets: Evening Performances can be [booked online via We Got Tickets (10% book
         
 ####Access Information      
 As a sited event, Domestic II presents a number of access challenges and whilst we will make every effort to help, wheelchair access may not be possible, please contact us for details.        
-Age advisory: 12+ For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439. 
+Age advisory: 14+ For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439. 
 
 
 ####More    

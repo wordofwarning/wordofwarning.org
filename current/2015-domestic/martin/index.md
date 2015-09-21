@@ -30,7 +30,7 @@ Tickets: Evening Performances can be [booked online via We Got Tickets (10% book
 
 ####Access Information      
 As a sited event, Domestic II presents a number of access challenges and whilst we will make every effort to help, wheelchair access may not be possible, please contact us for details.        
-Age advisory: 12+ (TBC). Spoken word. For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.           
+Age advisory: 14+. Spoken word. For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.           
          
 ####Who is she?    
 Cheryl has won Manchester Evening News Theatre Awards as both writer [Best Community Production, Heart and Soul, Oldham Coliseum] and director [Best Studio Production, Iron by Rona Munro, Working Girls/Contact], an Edinburgh Fringe First as co-director and producer of Traverse Theatre’s Breakfast Series The World Is Too Much, and this year a Lloyd’s Bank regional award for the immersive play she directed for Community Arts Northwest, Rule 35, and longlisted for the Polari Book Prize for her collection of poems, Alaska [Crocus/Commonword], the inspiration for this play.    

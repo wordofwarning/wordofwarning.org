@@ -31,7 +31,7 @@ Tickets: Evening Performances can be [booked online via We Got Tickets (10% book
         
 ####Access Information      
 As a sited event, Domestic II presents a number of access challenges and whilst we will make every effort to help, wheelchair access may not be possible, please contact us for details.        
-Age advisory: 12+ Duration: 50 minutes. Interactive performance with music. Please note this performance contains sensitive material. For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.        
+Age advisory: 15+ Duration: 50 minutes. Interactive performance with music. Please note this performance contains sensitive material. For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.        
          
 ####More   
 *Are You Lonesome Tonight?* is a solo performance based on true events. Ellie has been trying to understand how and why delusional beliefs occur by asking:    
