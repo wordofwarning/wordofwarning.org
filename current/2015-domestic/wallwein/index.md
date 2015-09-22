@@ -42,7 +42,7 @@ Part of the story takes place in Salford and Louise is looking forward to taking
 Originally a short monologue commissioned by Liz O’Neill of Z-Arts for *Family Matters* and The Royal Exchange to explore the modern family and to see how these contemporary models can be better served in theatre. *Glue* has already moved and inspired many people in a short form.    
                           
 ####Who are they?    
-Louise Wallwein is an award winning Poet/Playwright/Film maker from Manchester. Her career took off in 1998 when she performed an award winning one-woman show on the wing of a world war 2 Shackleton reconnaissance aircraft in the Air and Space gallery in Manchester Museum of Science and Industry.    
+Louise Wallwein is an award winning Poet/Playwright/Film maker from Manchester. Her career took off in 1998 when she performed an award winning one-woman show on the wing of a WW2 Shackleton reconnaissance aircraft in the Air and Space gallery in MOSI.    
   
 She has been Poet in Residence of Queensland, Australia 2006 and 
 Writer in Residence Centre for Creative Writing and Oral Culture Winnipeg, Canada 2014.   
@@ -51,7 +51,7 @@ She is very proud of her work in Communities and Schools, and has worked with th
 
 Director Susan Roberts (Sony Gold and Bronze, Amnesty International Award) has directed over 200 radio plays for BBC R3 & R4. Director of *Black Roses: The Killing of Sophie Lancaster* by Simon Armitage – The Royal Exchange won the Manchester Theatre award for best studio production 2012.     
 
-Musician Jaydev Mistry has been a part of the Manchester music scene for over 20 years.  He is a guitarist, percussionist and music technologist and has collaborated with artists such as Nitin Sawhney (session 72: Contact Theatre) and the Kaliphz. Jaydev has performed in many bands including, Timeless Love Orchestra, Giddy and B.B and Me performing in venues including Band on the Wall, Bridge Water Hall, Royal Exchange, the Pompidou Centre and the Hackney Empire. Jaydev also specialises in composition and sound design for theatrical productions, and has been commissioned by companies such as Red Ladder Theatre Company, Theatre in the Mill, Greater Manchester Music Action Zone and BBC Radio 4.     
+Musician Jaydev Mistry has been a part of the Manchester music scene for over 20 years.  He is a guitarist, percussionist and music technologist and has collaborated with artists such as Nitin Sawhney (*session 72*: Contact Theatre) and the Kaliphz. Jaydev has performed in many bands including Timeless Love Orchestra, Giddy and B.B and Me, performing in venues including Band on the Wall, Bridgewater Hall, Royal Exchange, the Pompidou Centre and the Hackney Empire. Jaydev also specialises in composition and sound design for theatrical productions, and has been commissioned by companies such as Red Ladder Theatre Company, Theatre in the Mill, Greater Manchester Music Action Zone and BBC R4.     
                
 ####Credits         
 Written + performed by Louise Wallwein | Directed by Susan Roberts | Music + Sound by Jaydev Mistry | Commissioned by Z-arts + the Royal Exchange for *Family Matters*, this re-development has been co-commissioned by hÅb for Domestic II.
