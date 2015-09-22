@@ -19,7 +19,7 @@ header_image:
 *Presented by* Word of Warning, STUN + Z-arts
         
 ###Saturday 3 October 2015, 12noon-10pm. FREE             
-**Manchester's manic micro-marathon of the bizarre + the beautiful celebrates sweet sixteen — from gallery to theatre, store-cupboard to stairwell, some 26 live works in a non-stop performance takeover.**         
+**Manchester's manic micro-marathon of the bizarre + the beautiful celebrates sweet sixteen — from gallery to theatre, store-cupboard to stairwell, some 25 live works in a non-stop performance takeover.**         
          
 From noon, dip in and out of ongoing performances — from virtual reality to physical anxiety — all over the building: a couple defy the sands of time, grain by grain; a man elevates the humble cabbage to the heights of celebrity; and a woman bends, literally, under the strain…           
          
