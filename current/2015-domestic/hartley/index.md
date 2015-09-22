@@ -21,7 +21,7 @@ header_image: "header_hartley.jpg"
          
 ####In Brief                      
 Can you ever fully recover from years of childhood abuse & trauma?    
-*My Brother's Father* is an installation with live performance. This intimate and visceral work invites you to witness silenced and hidden fragments of childhood memories which piece together an abusive relationship and the preservation  of self, sanity and survival.    
+*My Brother's Father* is an installation with live performance. This intimate and visceral work invites you to witness silenced and hidden fragments of childhood memories which piece together an abusive relationship and the preservation of self, sanity and survival.    
 
 Sited in an empty flat, the audience are given tools to reveal and discover the work, and also to walk away when they choose.    
     
@@ -35,9 +35,9 @@ As a sited event, Domestic II presents a number of access challenges please see 
 Age advisory: parental advisory 12+ For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.       
            
 ####More   
-*My Brother's Father* was first developed and performed in an abandoned house in 2007, presenting fragmented autobiographical narratives from 1994–2000 depicting the abusive relationship between myself and my Brothers Father.    
- 
-####Who is she?    
+*My Brother's Father* was first developed and performed in an abandoned house in 2007, presenting fragmented autobiographical narratives from 1994–2000 depicting the abusive relationship between myself and my Brother's Father.          
+         
+####Who is she?        
 Ria Hartley is an interdisciplinary solo performance artist based in Bristol, UK. Her work has taken forms as devised theatre, site-specific and durational performance, live art, installation, video, photography, one-to-one performance and socio-political art. Her practice pays close attention to memory, identity, human relationships, and shared narratives and often invites participation and exchange between herself and her audiences, seeking to blur the relationship between performer and audience, space and situation in order to open new spaces of thought and exchange. Upcoming performances include: SPIT KIT (Fierce Festival, Oct 2015), Descansos (IPA Autumn 2015, Arnolfini), RECALL (SPILL National Showcase, Oct/Nov 2015), Untouchable (Contact Flying Solo Festival, May 2016).    
    
 ####What people have said about her                                                
