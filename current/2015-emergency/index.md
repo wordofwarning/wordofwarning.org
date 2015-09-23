@@ -48,4 +48,4 @@ Emergency 2015 is primarily an adult-focussed event, some works will not be suit
 [Emergency](/hab/emergency) 2015 is produced by [hÅb](/hab); supported using public funding by Arts Council England, funded by Manchester City Council, supported by [STUN](http://stunlive.com) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.        
         
 ####Websites
-<http://emergencymcr.org> | [#EmergencyMcr](http://twitter.com/hashtag/EmergencyMcr)
+<http://emergencymcr.org> | [Facebook event](http://www.facebook.com/events/1479136439056940) |[#EmergencyMcr](http://twitter.com/hashtag/EmergencyMcr)
