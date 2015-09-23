@@ -16,12 +16,11 @@ header_image:
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2015](/current/2015-emergency)    
-          
-####Order of Appearance (*artists/order subject to change*)      
+*Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2015](/current/2015-emergency)         
+        
+####Alphabetical Order (*participating artists subject to change*)         
 **Please note this is primarily an adult event, see Access Info below.**        
-           
-COPY TO FOLLOW HERE…        
+
             
 ####Venue + Booking Details
 Date: Saturday 3 October 2015, 4pm-10pm (event starts at 12noon)    
