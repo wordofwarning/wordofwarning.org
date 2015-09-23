@@ -24,7 +24,7 @@ header_image:
 **Adam Lowe** | ***Encounters with Ecstasies***        
 Presenting selections from his solo show *Ecstasies*, Adam Lowe as Beyonce Holes will lead you through a descent into the glittery history of Manchester's gay clubs. From intimate moments in a toilet cubicle to revelry on the dancefloor, club kid Beyonce reaches for the strobe-light stars across the ceiling and whispers profane incantations to the Lord of the Dance.        
         
-Directed by Gerry Potter, with music by Nikki Franklin + animation by Charlie Taylor.        
+Directed by Gerry Potter, music by Nikki Franklin, animation by Charlie Taylor.        
 [Facebook](http://www.facebook.com/adambeyoncelowe) | [@adambeyoncelowe](http://twitter.com/adambeyoncelowe)
          
 **Adam York Gregory + Gillian Jane Lees** | ***Time/Distance***        
@@ -46,16 +46,14 @@ A new production about crossing culture, lost identity, nationalism and mobility
 Thanks to Ben Francombe, Pete Phillips + Helena Hunter and all at University of Chichester without whose help, I couldn't have made this work.         
          
 **Nicola Smith** | ***Drop Pick Up***        
-*I use simple actions in my interventions, which have multiple meanings that can be understood by everyone. As a mother the action I repeat most is picking up objects off the floor in a never-ending continual cycle, which is reflected in my performance. My shallow retail self still wants to look good whilst tidying up and I have carefully styled my wardrobe accordingly: with the soles of my shoes painted red, custom-made Chanel bag and sleek black hair hanging down over my face.*        
+*I use simple actions in my interventions, which have multiple meanings that can be understood by everyone. As a mother the action I repeat most is picking up objects off the floor in a never-ending continual cycle, which is reflected in my performance. My shallow retail self still wants to look good whilst tidying up and I have carefully styled my wardrobe accordingly: with the soles of my shoes painted red, a custom-made Chanel bag and sleek black hair hanging down over my face.*        
 <http://nicolasmith.prosite.com> | [@nsartist34](http://twitter.com/nsartist34)        
           
 **Paul Hughes + Andy Edwards** | ***the ground, the highest point.***        
 A new interdisciplinary performance project intimately exploring the possibilities of duets and performance (im)balance. Through dance and text improvisations, this collaboration considers the ways in which our bodies are shaped by and can shape the spaces around us.        
         
-Paul Hughes is a performance artist and theatre-maker who has made work with Forest Fringe, Artsadmin, Battersea Arts Centre, The Yard Theatre and SPILL festival. He is currently a member of performance ensemble Ponyboy Curtis.         
-<http://paulpaschal.tumblr.com> | [@paul_paschal](http://twitter.com/paul_paschal)        
-Andy Edwards is a dramaturg, writer and performer who has performed with Scrapyard Theatre, Bedlam Theatre, and a smattering of scratch nights across Scotland. He is currently studying for an MLitt at the University of Glasgow in Playwriting & Dramaturgy.        
-<http://andynedwards.tumblr.com> | [@AndyNedwards](http://twitter.com/AndyNedwards)         
+Paul Hughes is a performance artist and theatre-maker who has made work with Forest Fringe, Artsadmin, Battersea Arts Centre, The Yard Theatre and SPILL festival. He is currently a member of performance ensemble Ponyboy Curtis. <http://paulpaschal.tumblr.com> | [@paul_paschal](http://twitter.com/paul_paschal)          
+Andy Edwards is a dramaturg, writer and performer who has performed with Scrapyard Theatre, Bedlam Theatre, and a smattering of scratch nights across Scotland. He is currently studying for an MLitt at the University of Glasgow in Playwriting & Dramaturgy. <http://andynedwards.tumblr.com> | [@AndyNedwards](http://twitter.com/AndyNedwards)         
         
 **Rachel Gomme** | ***Mouth to Mouth***        
 *Share a breath with me. Receive a gift from an unknown other.*        
