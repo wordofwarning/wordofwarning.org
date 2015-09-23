@@ -66,4 +66,4 @@ Photo licensed through Creative Commons © [T.J.Blackwell](http://tjblackwell.co
 Domestic II is running alongside Flow Salford [www.flowsalford.co.uk](http://www.flowsalford.co.uk)
 
 ####Websites
-<http://domesticmcr.org> | [#domesticmcr](http://twitter.com/hashtag/domesticmcr)
+<http://domesticmcr.org> | [Facebook event](http://www.facebook.com/events/761760307283189) | [#domesticmcr](http://twitter.com/hashtag/domesticmcr)
