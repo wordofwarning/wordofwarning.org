@@ -156,4 +156,4 @@ Age advisory: Domestic II is primarily aimed at adults and deals with autobiogra
 Domestic II is running alongside Flow Salford [www.flowsalford.co.uk](http://www.flowsalford.co.uk)
 
 ####Websites
-<http://domesticmcr.org> | [Facebook event coming soon]() | [#domesticmcr](http://twitter.com/hashtag/domesticmcr)
+<http://domesticmcr.org> | [Facebook event](http://www.facebook.com/events/761760307283189) | [#domesticmcr](http://twitter.com/hashtag/domesticmcr)
