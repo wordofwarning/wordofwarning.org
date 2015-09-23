@@ -52,8 +52,7 @@ Thanks to Ben Francombe, Pete Phillips + Helena Hunter and all at University of 
 **Paul Hughes + Andy Edwards** | ***the ground, the highest point.***        
 A new interdisciplinary performance project intimately exploring the possibilities of duets and performance (im)balance. Through dance and text improvisations, this collaboration considers the ways in which our bodies are shaped by and can shape the spaces around us.        
         
-Paul Hughes is a performance artist and theatre-maker who has made work with Forest Fringe, Artsadmin, Battersea Arts Centre, The Yard Theatre and SPILL festival. He is currently a member of performance ensemble Ponyboy Curtis. <http://paulpaschal.tumblr.com> | [@paul_paschal](http://twitter.com/paul_paschal)          
-Andy Edwards is a dramaturg, writer and performer who has performed with Scrapyard Theatre, Bedlam Theatre, and a smattering of scratch nights across Scotland. He is currently studying for an MLitt at the University of Glasgow in Playwriting & Dramaturgy. <http://andynedwards.tumblr.com> | [@AndyNedwards](http://twitter.com/AndyNedwards)         
+Paul Hughes is a performance artist & theatre-maker who has made work with Forest Fringe, Artsadmin, Battersea Arts Centre, The Yard Theatre, SPILL festival and is currently a member of performance ensemble Ponyboy Curtis. Andy Edwards is a dramaturg, writer & performer who has performed with Scrapyard Theatre, Bedlam Theatre and a smattering of scratch nights across Scotland; he is currently studying for an MLitt at the University of Glasgow in Playwriting & Dramaturgy.<http://paulpaschal.tumblr.com> | [@paul_paschal](http://twitter.com/paul_paschal) + <http://andynedwards.tumblr.com> | [@AndyNedwards](http://twitter.com/AndyNedwards)         
         
 **Rachel Gomme** | ***Mouth to Mouth***        
 *Share a breath with me. Receive a gift from an unknown other.*        
