@@ -18,7 +18,7 @@ header_image:
 ---
 *Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2015](/current/2015-emergency)         
         
-####Alphabetical Order (*participating artists subject to change*)         
+####Artists in Alphabetical Order (*subject to change*)         
 **Please note this is primarily an adult event, see Access Info below.**        
 
             
