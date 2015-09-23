@@ -28,7 +28,7 @@ show_size: 4
 Audio Caff | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Liz Clarke        
 *(Fri 25 Sep, 7.30pm: sold-out) | £5*        
 Audio Caff | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Catherine Hoffmann        
-*Sat 26 Sep, 7.30pm [(book tickets)](http://www.wegottickets.com/event/332265) | £5*        
+*(Sat 26 Sep, 7.30pm: sold out)[](http://www.wegottickets.com/event/332265) | £5*        
 Audio Caff | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Ellie Stamp        
 
 **A slideshow exploring absence and presence, flying and falling, and the power of the artist to fail or be free.**        
