@@ -28,7 +28,7 @@ Using 1930s French street songs, sales pitches, autobiography and live audience 
 Supported using public funding by the National Lottery through Arts Council England, with additional support from ARC Stockton, East Street Arts + the University of Salford. Produced by Becci Sharrock.        
 [www.bitchuationistinternational.com](http://www.bitchuationistinternational.com) | [@bitchuationist](http://twitter.com/bitchuationist) + [www.leoburtin.co.uk](http://www.leoburtin.co.uk) | [Leo Burtin Facebook](http://www.facebook.com/leoburtin) | [@olamerino](http://twitter.com/olamerino)        
         
-**Ali Wilson** | ***Sh*t Happens***        
+**Ali Wilson** | ***Sh*\t Happens***        
 How many cucumbers can you slice in minute?        
 How many nappies can you change before the kettle boils?        
 And what do you do when you find you've become a completely different person without even realising?        
@@ -38,8 +38,7 @@ Make yourself at home, but please don't wear your shoes around the apartment.
 [@aliwil267](http://twitter.com/aliwil267)        
         
 **Chris Jenkins** | ***‘Comedy’ with Top Joe***        
-We never actually see ourselves with our own eyes. We only ever see our reflections.        
-*Comedy* is an autobiographical performance in which Chris Jenkins explores life, depression and desire through his comedy alter-ego Top Joe.         
+We never actually see ourselves with our own eyes. We only ever see our reflections. *Comedy* is an autobiographical performance in which Chris Jenkins explores life, depression and desire through his comedy alter-ego Top Joe.         
         
 Chris performs and creates work across a number of mediums including live art, theatre, video, clown and alternative comedy. He has performed/had work shown at Latitude, Hazard, SLAP, Beacons Festival, Live Art Bistro, FACT, Cornerhouse, Under the Owls, CALM + Food for Thought.        
 <http://toptopjoe.tumblr.com> | [@toptopjoe](http://twitter.com/toptopjoe)        
@@ -57,7 +56,7 @@ Inspired by the journey to a surgical operation at the age of 18, *I Was A Teena
 Supported by an OPEN Bursary from Live at LICA.        
 <http://garethcutter.com> | [@garethcutter](http://twitter.com/garethcutter)       
         
-**Howl Yuan** | ***The Invisible Guest* (performance)**          
+**Howl Yuan** | ***The Invisible Guest** (performance)*          
 He changed his English name several times…         
 A new production about crossing culture, lost identity, nationalism and mobility. Through physical movement, language barriers and military figures, identity is questioned within cultures, nations and persons. We walk, run or march through moving images, memory and scenery like a changing mirror, which lights up our homecoming — an impossible homecoming.        
          
@@ -67,7 +66,8 @@ Thanks to Ben Francombe, Pete Phillips + Helena Hunter and all at University of 
 *A heroic little struggle using stand-up and Starbucks.*        
 Globalisation has meant the presence of huge corporations in Aberystwyth that do not fit the town, nor do they respect its local businesses or residences. And yet, they still maintain customers. *Zero Point* is the trajectory of a comedian — from the opening joke, to the cheap divisive gag, to the failure of comedy, to its eventual return. It is despair and hope.        
         
-Tony Benn once said that progress is made by two flames: anger and hope. *Zero Point* adds another flame: the flame of silliness.          
+Tony Benn once said that progress is made by two flames: anger and hope.         
+*Zero Point* adds another flame: the flame of silliness.          
 [@JAODonoghue](http://twitter.com/JAODonoghue)        
         
 **Jon M Coleman** | ***How to be a Man***        
@@ -84,8 +84,8 @@ With trademark absurdism and enthusiasm, Lucy puts her best foot forward in the 
 [@lucy_muck](http://twitter.com/lucy_muck)        
         
 **Stephen Donnelly** | ***Sibling Audition***        
-A participatory theatre game show where the performer auditions the audience in a search for a new sibling.        
-Inspired by the Yorgos Lanthimos film, *The Alps*.           
+A participatory theatre game show where the performer auditions the audience in a search for a new sibling. Inspired by the Yorgos Lanthimos film, *The Alps*.           
+        
 Part of an ongoing project exploring the rituals we create to deal with loss, dealing with grief and the ways we help each other pick up the pieces.        
 [@stdonnelly](http://twitter.com/stdonnelly)        
         
