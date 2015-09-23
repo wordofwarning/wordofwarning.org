@@ -21,8 +21,17 @@ header_image:
 ####Alphabetical Order (*participating artists subject to change*)      
 **Please note this is primarily an adult event, see Access Info below.**        
            
-COPY TO FOLLOW HERE…        
-            
+**Adam Lowe** | ***Encounters with Ecstasies***        
+Presenting selections from his solo show *Ecstasies*, Adam Lowe as Beyonce Holes will lead you through a descent into the glittery history of Manchester's gay clubs. From intimate moments in a toilet cubicle to revelry on the dancefloor, club kid Beyonce reaches for the strobe-light stars across the ceiling and whispers profane incantations to the Lord of the Dance.          
+          
+Directed by Gerry Potter, with music by Nikki Franklin + animation by Charlie Taylor.         
+          
+**Adam York Gregory + Gillian Jane Lees** | ***Time/Distance***          
+           
+          
+**Alicia Radage** | ***Illegitimi non carborundum (Grinding Down)***          
+[http://www.aliciaradage.com](www.aliciaradage.com)          
+          
 ####Venue + Booking Details
 Date: Saturday 3 October 2015, 12noon-4pm (full event runs to 10pm)    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
