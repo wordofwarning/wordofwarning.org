@@ -18,7 +18,7 @@ header_image:
 ---
 *Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2015](/current/2015-emergency)    
           
-####Alphabetical Order (*participating artists subject to change*)      
+####Artists in Alphabetical Order (*subject to change*)      
 **Please note this is primarily an adult event, see Access Info below.**        
            
 **Adam Lowe** | ***Encounters with Ecstasies***        
@@ -85,7 +85,7 @@ Born and bred in Manchester, Terri Donovan is a current member of Contact's Youn
 What would you like to demolish in your city? The house where your heart was broken?  The school where you were bullied? A workplace, a hospital, the street where you were mugged? Or perhaps it's an ideological target (Old Trafford? Albert Square?), or a building that offends your sense of beauty, whether it's a shiny glass lego brick or a brutalist concrete wall.        
         
 Whatever it is, we'll give you the tools to wipe it off the map – as long as you give us the reason for your demolition. With a little help from a street map, a scalpel and the Demolition Project team, let's reimagine Manchester!        
-[Facebook](http://www.facebook.com//thedestructionists) | [@debriskent](http://twitter.com/debriskent)        
+[Facebook](http://www.facebook.com/thedestructionists) | [@debriskent](http://twitter.com/debriskent)        
          
 **Tim Anderson + Tessa Buddle** | ***How to resolve disputes over fossil fuels and fences***        
 There is a hole in Tim’s garden fence. It was made in 1984 or 1985 (the dates change every time he tells the story), by members of the UDM who used Tim's back garden to get to Wollaston Pit without having to cross the picket line at the main entrance to the colliery.        
