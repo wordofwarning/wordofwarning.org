@@ -20,7 +20,7 @@ header_image: "header_clarke1.jpg"
 *Presented by* Word of Warning, The Guinness Partnership *during* [Domestic II](/current/2015-domestic)          
          
 ####In Brief                      
-Liz Clarke channels a version of herself; her alter ego Betty Bruiser: a hardcore Haus Frau in a strangly nostalgic peep into a twisted domestic scene. Join her as she whistfully wrangles with her white goods and merges with her machines.    
+Liz Clarke channels a version of herself; her alter ego Betty Bruiser: a hardcore Haus Frau in a strangely nostalgic peep into a twisted domestic scene. Join her as she wistfully wrangles with her white goods and merges with her machines.    
    
 ####Venue + Booking Details, for Domestic II        
 Dates: Thursday 24 September 2015, 7.30pm        
