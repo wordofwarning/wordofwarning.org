@@ -24,7 +24,7 @@ show_size: 4
          
 ###Evening Performances, Booking Essential	
 **A series of 'at homes' atop a transforming tower block. Stories of real lives in a surreal setting.**         
-*Thu 24 Sep, 7.30pm [(book tickets)](http://www.wegottickets.com/event/332263) | £5*        
+*Thu 24 Sep, 7.30pm | £5 (limited capacity) [book tickets](http://www.wegottickets.com/event/332263)*        
 Audio Caff | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Liz Clarke        
 *(Fri 25 Sep, 7.30pm: sold-out) | £5*        
 Audio Caff | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Catherine Hoffmann        
