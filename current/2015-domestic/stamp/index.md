@@ -22,7 +22,7 @@ header_image: "header_stamp2.jpg"
 ####In Brief                      
 Ellie Stamp is the secret love child of Elvis.    
 
-In this autobiographical interactive performance — created with neuroscientist research partners — Ellie utilises her skills in participation and music to examine the problematic methodology used to define psychosis. She invites the audience to play with 9 numbers that fascinated Sir Issac Newton, Pythagoras and Elvis.        
+In this autobiographical interactive performance — created with neuroscientist research partners — Ellie utilises her skills in participation and music to examine the problematic methodology used to define psychosis. She invites the audience to play with 9 numbers that fascinated Sir Isaac Newton, Pythagoras and Elvis.        
         
 ####Venue + Booking Details, for Domestic II        
 SATURDAY EVENING IS SOLD-OUT          
