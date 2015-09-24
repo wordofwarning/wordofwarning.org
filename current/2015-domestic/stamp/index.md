@@ -41,14 +41,10 @@ Age advisory: 15+ For specific age and access information please email <mailto:i
 Created as part of NOW14 The Yard Theatre London in March 2014 it has since shown at Exeter Ignite Festival, Latitude Festival, Theatre Delicatessen, The British Science Festival, Summmerhall and Oval House.    
  
 ####Who is she?    
-Ellie Stamp is an artist, activist and mental health campaigner who feels conflicted by labels and swears a lot.    
-Here are some of the labels other people give Ellie Stamp:    
-Live artist, performance maker, campaigner, activist, queer, mental, female, femme, man, woman, dyke, secret love child of Elvis, producer, singer, director, dyslexic, musician, feminist, pain in the arse, dramaturg, weirdo.   
+Ellie Stamp is an artist, activist and mental health campaigner who feels conflicted by labels and swears a lot. Here are some of the labels other people give Ellie Stamp:         
+live artist, performance maker, campaigner, activist, queer, mental, female, femme, man, woman, dyke, secret love child of Elvis, producer, singer, director, dyslexic, musician, feminist, pain in the arse, dramaturg, weirdo.   
 
-Ellie's practice is driven by her confusion towards labels; how illness or disorders and appropriate behaviour are constructed and quantified.
-Ellie makes devised performance that sits somewhere between live art, theatre and game mainly in non-traditional spaces, engaging unsuspecting audiences in live art practice. Ellie's performance work is usually interdisciplinary, participatory and experiential, embracing all forms of dialogue, co-creation and points of exchange with an audience to create fun spaces where audiences consider difficult subject matter with the aim to provoke social change.   
-
-Ellie also works with other artists as a dramaturg, is a visiting artist at De Montfort University, runs workshops, takes promotional photos and makes music.   
+Ellie's practice is driven by her confusion towards labels; how illness or disorders and appropriate behaviour are constructed and quantified. Ellie makes devised performance that sits somewhere between live art, theatre and game mainly in non-traditional spaces, engaging unsuspecting audiences in live art practice. Ellie's performance work is usually interdisciplinary, participatory and experiential, embracing all forms of dialogue, co-creation and points of exchange with an audience to create fun spaces where audiences consider difficult subject matter with the aim to provoke social change. Ellie also works with other artists as a dramaturg, is a visiting artist at De Montfort University, runs workshops, takes promotional photos and makes music.   
    
 ####What people have said about her                                                
 >*Stamp is a sharply engaging performer and the questions she asks cloud preconceived certainties about this complex subject.*<br>The Stage    
