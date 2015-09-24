@@ -47,11 +47,12 @@ Dates: Thursday 24 — Saturday 26 September 2015
 [Venue: Matthias Court, off Cannon Street, Salford, M3 6JD](http://bit.ly/domesticTWO) — a 7 minute walk from Chapel Street / Salford Cathedral, a 13 minute walk to Salford Central Railway Station, and a 20 minute walk to Opera House on Quay Street.            
 Tickets: Evening Performances can be [booked online via We Got Tickets (10% booking fee applies)](http://www.wegottickets.com/wordofwarning) OR reserved over the phone 07581 299 439 (leave a message + we'll get back to you); remaining tickets will be available at Matthias Court (cash only) just before the performances.
         
-####What people said about [Domestic (2013)](/archive/2013-domestic)      
->Curated by the ever-impressive Word Of Warning…<br>*[Lyn Gardner, The Guardian](http://www.theguardian.com/stage/2013/nov/02/this-weeks-theatre)*        
->Very original and enjoyable, I have never attended anything like this before. Truly thought provoking.<br>*Audience member*          
->A really eclectic and engaging programme of intimate work in a series of exciting and unique spaces.<br>*Audience member*          
-         
+####What people have said about Domestic       
+>Curated by the ever-impressive Word Of Warning…<br>*[Lyn Gardner, The Guardian](http://www.theguardian.com/stage/2013/nov/02/this-weeks-theatre), on [2013](/archive/2013-domestic)*        
+>Very original and enjoyable, I have never attended anything like this before. Truly thought provoking.<br>*Audience member, [2013](/archive/2013-domestic)*          
+>A really eclectic and engaging programme of intimate work in a series of exciting and unique spaces.<br>*Audience member, [2013](/archive/2013-domestic)*          
+>Domestic II is… a [Guardian Stage top theatre ticket](http://www.theguardian.com/stage/theatreblog/2015/sep/21/iliad-llanelli-odyssey-simon-armitage-domestic-11-rebecca-lenkiewicz-theatre-top-tickets); appears in the [Manchester Evening News](http://www.manchestereveningnews.co.uk/news/greater-manchester-news/derelict-block-flats-stage-community-10121091); listed in [The Skinny's What's On Northwest](http://www.theskinny.co.uk/things-to-do/northwest/whats-on-liverpool-psych-fest-ottolenghi-menace-beach) guide; previewed in [Time Out Manchester](http://www.timeout.com/manchester/blog/art-festival-domestic-ii-gives-lease-of-life-to-unused-salford-tower-block-090915).               
+             
 ####Access Information        
 As a sited event, Domestic II presents a number of access challenges.  Audience members should be aware that Matthias Court is an active construction site and as such, is rough and ready.  Please wear sensible shoes, warm layered clothing (that you are happy to get dirty) and be aware of possible rough floor and wall surfaces!    
 
@@ -61,7 +62,7 @@ Audience members with mobility issues should also be aware that (*in worst case 
 Age advisory: Domestic II is primarily aimed at adults and deals with autobiographical and social issues with some sensitive content. Works suitable for younger people during Saturday Daytime will be clearly signposted on the day. For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.      
        
 ####Credits         
-[Domestic](/hab/domestic) II is produced by hÅb with support from The Guinness Partnership + Guinness Property, and  supported using public funding by the National Lottery through Arts Council England.        
+[Domestic](/hab/domestic) II is produced by hÅb with support from [The Guinness Partnership](http://www.guinnesspartnership.com/about-us/news/tgp/2015/september/matthias-court-production#.VgFCXXmFPGg) + Guinness Property, and supported using public funding by the National Lottery through Arts Council England. Special thanks to Z-arts.        
 Photo licensed through Creative Commons © [T.J.Blackwell](http://tjblackwell.co.uk/lucid)        
 Domestic II is running alongside Flow Salford [www.flowsalford.co.uk](http://www.flowsalford.co.uk)
 
