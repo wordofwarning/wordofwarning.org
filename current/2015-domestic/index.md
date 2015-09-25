@@ -26,13 +26,13 @@ show_size: 4
 **A series of 'at homes' atop a transforming tower block. Stories of real lives in a surreal setting.**         
 *Thu 24 Sep, 7.30pm | £5*        
 Audio Caff | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Liz Clarke        
-*(Fri 25 Sep, 7.30pm: sold-out) | £5*        
+*Fri 25 Sep, 7.30pm | £5 (sold-out)*        
 Audio Caff | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Catherine Hoffmann        
-*Sat 26 Sep, 7.30pm | £5, [a few extra tickets just released](http://www.wegottickets.com/event/332265)*        
+*Sat 26 Sep, 7.30pm | £5, low availability: call 07581 299 439*        
 Audio Caff | Ria Hartley | Cheryl Martin | Louise Wallwein<br>+ guest Ellie Stamp        
 
 **A slideshow exploring absence and presence, flying and falling, and the power of the artist to fail or be free.**        
-*(Fri 25 Sep, 7pm + 10pm: both shows are now sold-out) | £3*        
+*Fri 25 Sep, 7pm + 10pm | £3 (both shows sold-out)*        
 Michael Pinchbeck, with guests Niki Woods (7pm) + Oliver Bray (10pm)        
        
 ###Daytime Performances, Come + Go As You Please        
