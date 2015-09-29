@@ -89,6 +89,12 @@ A participatory theatre game show where the performer auditions the audience in 
 Part of an ongoing project exploring the rituals we create to deal with loss, dealing with grief and the ways we help each other pick up the pieces.        
 [@stdonnelly](http://twitter.com/stdonnelly)        
         
+**Tin Can People** | ***Remember Me***         
+A performance which explores the layers of a live gig.           
+        
+Charlotte Berry + Rob Gregson created Tin Can People, a NW-based theatre company platforming devised group performances and their solo projects.        
+<http://tincanpeople.com> | [Facebook](http://www.facebook.com/tincanpeople) | [@TinCanPeople](http://twitter.com/TinCanPeople)        
+         
 ####Venue + Booking Details
 Date: Saturday 3 October 2015, 4pm-10pm (event starts at 12noon)    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
