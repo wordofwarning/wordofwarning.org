@@ -85,7 +85,7 @@ Laura Wyatt O'Keeffe is an actor, writer, theatre maker and the artistic directo
 [@LauraWOK](http://twitter.com/LauraWOK)            
 ![Laura Wyatt O'Keeffe](pillowtalk3.jpg)    
             
-**Jamil E-R Keating | *Asteroid RK1***      
+**Jamil E-R Keating | *Asteroid RK1*** (no longer appears)      
 How close is too close for something so far?         
            
 An installation-story about asteroids and alcoholism, meteorites and human rights, comets in the night-sky and care in the city. Rotations, revolutions and realisations…         
