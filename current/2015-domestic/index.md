@@ -38,7 +38,7 @@ Michael Pinchbeck, with guests Niki Woods (7pm) + Oliver Bray (10pm)
 ###Daytime Performances, Come + Go As You Please        
 **A live gallery takeover of this gutted ground floor, peeling back the layers to expose our social foundations. Domestic tales of pasts remembered and forgotten, and the impossibility of flat-pack furniture.**        
 *Sat 26 Sep, 12noon-5pm | FREE, no booking required*        
-Audio Caff | Leo Burtin | Clare Charnley | Charlotte CHW | Ria Hartley | Afreena Islam | Jamil Keating | Doris La Trine | Mackenzie & Reed | Ana Mendes | Threshold | Louise Wallwein | Laura Wyatt O'Keeffe        
+Audio Caff | Leo Burtin | Clare Charnley | Charlotte CHW | Ria Hartley | Afreena Islam | Doris La Trine | Mackenzie & Reed | Ana Mendes | Threshold | Louise Wallwein | Laura Wyatt O'Keeffe        
          
 To get a feel for it, have a look at the first Domestic [programme](/archive/2013-domestic) + [gallery](/galleries/2013-domestic).        
         
