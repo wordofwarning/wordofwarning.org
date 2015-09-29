@@ -90,8 +90,9 @@ Part of an ongoing project exploring the rituals we create to deal with loss, de
 [@stdonnelly](http://twitter.com/stdonnelly)        
         
 **Tin Can People** | ***Remember Me***         
-A performance which explores the layers of a live gig.           
-        
+The smell is stained within the denim and thick within the smoke. The music is loud, the drums, even louder! Rock & Roll will never die and we will be remembered.          
+*Welcome to our little soirée. Tonight, we will go down in history!*           
+             
 Charlotte Berry + Rob Gregson created Tin Can People, a NW-based theatre company platforming devised group performances and their solo projects.        
 <http://tincanpeople.com> | [Facebook](http://www.facebook.com/tincanpeople) | [@TinCanPeople](http://twitter.com/TinCanPeople)        
          
