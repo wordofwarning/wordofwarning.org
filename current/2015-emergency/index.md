@@ -19,14 +19,14 @@ header_image:
 *Presented by* Word of Warning, STUN + Z-arts
         
 ###Saturday 3 October 2015, 12noon-10pm. FREE             
-**Manchester's manic micro-marathon of the bizarre + the beautiful celebrates sweet sixteen — from gallery to theatre, store-cupboard to stairwell, some 25 live works in a non-stop performance takeover.**         
+**Manchester's manic micro-marathon of the bizarre + the beautiful celebrates sweet sixteen — from gallery to theatre, store-cupboard to stairwell, some 26 live works in a non-stop performance takeover.**         
          
 [From noon](/current/2015-emergency/afternoon), dip in and out of ongoing performances — from virtual reality to physical anxiety — all over the building: a couple defy the sands of time, grain by grain; a man elevates the humble cabbage to the heights of celebrity; and a woman bends, literally, under the strain…           
          
 [Then from 4pm](/current/2015-emergency/evening) join us for a series of short sit-down shows in a variety of spaces — from stand-up with a twist, to a manic roller derby and a raunchy celebratory climax.         
          
 Your chance to sample the different — all for free, featuring (*participating artists subject to change*):            
-Adam Lowe | Adam York Gregory + Gillian Jane Lees | Ali Matthews + Leo Burtin | Ali Wilson | Alicia Radage | Chris Jenkins | Dr Mango | Eleanor Fogg | Gareth Cutter | Gwendolen Osmond | Howl Yuan | James O'Donoghue | Jon M Coleman | Lucy McCormick | Nicola Smith | Paul Hughes + Andy Edwards | Rachel Gomme | Simon Farid | Simon Gerrard | Stephen Donnelly | Sturgeon's Law | Terri Donovan | The Demolition Project | Tim Anderson + Tessa Buddle | Trendscendence          
+Adam Lowe | Adam York Gregory + Gillian Jane Lees | Ali Matthews + Leo Burtin | Ali Wilson | Alicia Radage | Chris Jenkins | Dr Mango | Eleanor Fogg | Gareth Cutter | Gwendolen Osmond | Howl Yuan | James O'Donoghue | Jon M Coleman | Lucy McCormick | Nicola Smith | Paul Hughes + Andy Edwards | Rachel Gomme | Simon Farid | Simon Gerrard | Stephen Donnelly | Sturgeon's Law | Terri Donovan | The Demolition Project | Tim Anderson + Tessa Buddle | Tin Can People | Trendscendence          
          
 To get a feel for it, have a look at 2014's [programme](/archive/2014-emergency) + [gallery](/galleries/2014-emergency).        
         
