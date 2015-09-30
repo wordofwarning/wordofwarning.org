@@ -57,7 +57,8 @@ Matt and Greg have lost each other and are stuck on their own self-imposed islan
 Inspired by the journey to a surgical operation at the age of 18, *I Was A Teenage Volcano* is a part-fictionalised reminiscence of a time of sexual turbulence and emotional upheaval that makes the ground shake and brings the walls down.       
 Supported by an OPEN Bursary from Live at LICA.        
 <http://garethcutter.com> | [@garethcutter](http://twitter.com/garethcutter)       
-        
+![Gareth Cutter](GarethCutter.jpg)         
+             
 **Howl Yuan** | ***The Invisible Guest** (performance)*          
 He changed his English name several times…         
 A new production about crossing culture, lost identity, nationalism and mobility. Through physical movement, language barriers and military figures, identity is questioned within cultures, nations and persons. We walk, run or march through moving images, memory and scenery like a changing mirror, which lights up our homecoming — an impossible homecoming.        
@@ -65,7 +66,6 @@ A new production about crossing culture, lost identity, nationalism and mobility
 Thanks to Ben Francombe, Pete Phillips + Helena Hunter and all at University of Chichester without whose help, I couldn't have made this work.        
 ![Howl Yuan](HowlYuan.jpg)      
 
-         
 **James O'Donoghue** | ***Zero Point***        
 *A heroic little struggle using stand-up and Starbucks.*        
 Globalisation has meant the presence of huge corporations in Aberystwyth that do not fit the town, nor do they respect its local businesses or residences. And yet, they still maintain customers. *Zero Point* is the trajectory of a comedian — from the opening joke, to the cheap divisive gag, to the failure of comedy, to its eventual return. It is despair and hope.        
