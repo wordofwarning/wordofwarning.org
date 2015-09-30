@@ -25,11 +25,13 @@ header_image:
 Presenting selections from his solo show *Ecstasies*, Adam Lowe as Beyonce Holes will lead you through a descent into the glittery history of Manchester's gay clubs. From intimate moments in a toilet cubicle to revelry on the dancefloor, club kid Beyonce reaches for the strobe-light stars across the ceiling and whispers profane incantations to the Lord of the Dance.        
         
 Directed by Gerry Potter, music by Nikki Franklin, animation by Charlie Taylor.        
-[Facebook](http://www.facebook.com/adambeyoncelowe) | [@adambeyoncelowe](http://twitter.com/adambeyoncelowe)
+[Facebook](http://www.facebook.com/adambeyoncelowe) | [@adambeyoncelowe](http://twitter.com/adambeyoncelowe)     
+![Adam Lowe](adamlowe.jpg)       
          
 **Adam York Gregory + Gillian Jane Lees** | ***Time/Distance***        
 Gillian Jane Lees is a performer and director, Adam York Gregory is a scientist and visual artist — together they explore the equivalence and contradictions between their individual practices. *Time/Distance* is an attempt to place time under a microscope, enlarging it so that we can observe and study it better.        
 [@Adam_Y](http://twitter.com/Adam_Y) + [@GillianLees](http://twitter.com/GillianLees)        
+![AY Gregory + GJ Lees](GregoryLees.jpg)      
         
 **Eleanor Fogg** | ***selves portrait***        
 A darkened room. A lone figure sits in front of a mirror, their reflection glowing in the glass…        
@@ -50,7 +52,8 @@ Thanks to Ben Francombe, Pete Phillips + Helena Hunter and all at University of 
          
 **Nicola Smith** | ***Drop Pick Up***        
 *I use simple actions in my interventions, which have multiple meanings that can be understood by everyone. As a mother the action I repeat most is picking up objects off the floor in a never-ending continual cycle, which is reflected in my performance. My shallow retail self still wants to look good whilst tidying up and I have carefully styled my wardrobe accordingly: with the soles of my shoes painted red, a custom-made Chanel bag and sleek black hair hanging down over my face.*        
-<http://nicolasmith.prosite.com> | [@nsartist34](http://twitter.com/nsartist34)        
+<http://nicolasmith.prosite.com> | [@nsartist34](http://twitter.com/nsartist34)      
+![Nicola Smith](nicolasmith.jpg)      
           
 **Paul Hughes + Andy Edwards** | ***the ground, the highest point.***        
 A new interdisciplinary performance project intimately exploring the possibilities of duets and performance (im)balance. Through dance and text improvisations, this collaboration considers the ways in which our bodies are shaped by and can shape the spaces around us.        
@@ -68,15 +71,18 @@ A one-to-one interaction that celebrates breath as mutual interdependence and cy
         
 Learning from his invigilation day-job, Simon Farid will be making more visible one of the monitoring criteria — the visitor count. You can't miss him. And he won't miss you either.        
 [www.simonfarid.com](http://www.simonfarid.com) | [@simoncfarid](http://twitter.com/simoncfarid)        
-        
+![Simon Farid](simonfarid.jpg)          
+
 **Simon Gerrard** | ***9"***        
 Simon works with various media and form to explore human experience and perception. He produces environments that are inhabited and activated by the participant aiming to provoke a heightened awareness of self and the interplay between subject and object. His practice explores the state between the reflective and pre-reflective, knowing and non-knowing, and questions an individual's perception and awareness of self in relation to their surroundings and social identity. Simon attempts to locate and sustain this pre-reflective state by capturing and interpreting the sliding exchange between reflection and present awareness and by drawing attention to the lived body, creating situations that enable the participant to perceive themselves through others. The work aims to re-appraise faith placed in pre-conceived concepts and uncover an intuitive unboundedness.        
 [simongerrard.com](http://www.simongerrard.com)        
+![Simon Gerrard](9inches.jpg)     
         
 **Sturgeon's Law** | ***Portal 2 by 2***        
 Odysseas loves video games. His mother makes theatre, rehearsing while he's on the computer.        
 They are losing touch with each other's worlds. This performance brings them together.        
 [@amaenad](http://twitter.com/amaenad)        
+![Sturgeon’s Law](Sturgeon.jpg)        
         
 **Terri Donovan** | ***Finding Elsie***        
 *Switch on the stereo, listen. In all that sound, can you hear her speaking out?*        

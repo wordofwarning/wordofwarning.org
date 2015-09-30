@@ -27,6 +27,7 @@ Using 1930s French street songs, sales pitches, autobiography and live audience 
         
 Supported using public funding by the National Lottery through Arts Council England, with additional support from ARC Stockton, East Street Arts + the University of Salford. Produced by Becci Sharrock.        
 [www.bitchuationistinternational.com](http://www.bitchuationistinternational.com) | [@bitchuationist](http://twitter.com/bitchuationist) + [www.leoburtin.co.uk](http://www.leoburtin.co.uk) | [Leo Burtin Facebook](http://www.facebook.com/leoburtin) | [@olamerino](http://twitter.com/olamerino)        
+![Burtin + Matthews](BurtinMatthews.jpg)         
         
 **Ali Wilson** | ***Sh\*t Happens***        
 How many cucumbers can you slice in minute?        
