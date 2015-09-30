@@ -62,6 +62,8 @@ He changed his English name several times…
 A new production about crossing culture, lost identity, nationalism and mobility. Through physical movement, language barriers and military figures, identity is questioned within cultures, nations and persons. We walk, run or march through moving images, memory and scenery like a changing mirror, which lights up our homecoming — an impossible homecoming.        
          
 Thanks to Ben Francombe, Pete Phillips + Helena Hunter and all at University of Chichester without whose help, I couldn't have made this work.        
+![Howl Yuan](HowlYuan.jpg)      
+
          
 **James O'Donoghue** | ***Zero Point***        
 *A heroic little struggle using stand-up and Starbucks.*        

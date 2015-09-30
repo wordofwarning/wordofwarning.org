@@ -90,6 +90,7 @@ What would you like to demolish in your city? The house where your heart was bro
         
 Whatever it is, we'll give you the tools to wipe it off the map – as long as you give us the reason for your demolition. With a little help from a street map, a scalpel and the Demolition Project team, let's reimagine Manchester!        
 [Facebook](http://www.facebook.com/thedestructionists) | [@debriskent](http://twitter.com/debriskent)        
+![The Demolition Project](demolitionproject.jpg)       
          
 **Tim Anderson + Tessa Buddle** | ***How to resolve disputes over fossil fuels and fences***        
 There is a hole in Tim’s garden fence. It was made in 1984 or 1985 (the dates change every time he tells the story), by members of the UDM who used Tim's back garden to get to Wollaston Pit without having to cross the picket line at the main entrance to the colliery.        
