@@ -41,7 +41,8 @@ Make yourself at home, but please don't wear your shoes around the apartment.
 We never actually see ourselves with our own eyes. We only ever see our reflections. *Comedy* is an autobiographical performance in which Chris Jenkins explores life, depression and desire through his comedy alter-ego Top Joe.         
         
 Chris performs and creates work across a number of mediums including live art, theatre, video, clown and alternative comedy. He has performed/had work shown at Latitude, Hazard, SLAP, Beacons Festival, Live Art Bistro, FACT, Cornerhouse, Under the Owls, CALM + Food for Thought.        
-<http://toptopjoe.tumblr.com> | [@toptopjoe](http://twitter.com/toptopjoe)        
+<http://toptopjoe.tumblr.com> | [@toptopjoe](http://twitter.com/toptopjoe)      
+![Chris Jenkins](ChrisJenkins.jpg)        
         
 **Dr Mango** | ***The Third Island***        
 Two men, two islands.        
@@ -69,6 +70,7 @@ Globalisation has meant the presence of huge corporations in Aberystwyth that do
 Tony Benn once said that progress is made by two flames: anger and hope.         
 *Zero Point* adds another flame: the flame of silliness.          
 [@JAODonoghue](http://twitter.com/JAODonoghue)        
+![James O’Donoghue](JamesODonoghue.jpg)       
         
 **Jon M Coleman** | ***How to be a Man***        
 *Men are in crisis. They don’t know how to be men anymore and they are trying to find the answers. What are the core values that a man should hold dear? Is manhood a choice? How does a man hug?*        
@@ -77,23 +79,27 @@ In this solo performance, one man (and two mannequins) attempt to navigate the v
 Written + devised by Jon Coleman, directed by Josh Coates, set design by Simone Romaniuk.        
 Supported by Ovalhouse, Live at LICA + using public funding by the National Lottery through Arts Council England.        
 [Facebook](http://www.facebook.com/jonmcoleman) | [@JonathanColem](http://twitter.com/JonathanColem)        
+![Jon Coleman](JonColeman.jpg)       
         
 **Lucy McCormick** | ***Ascension Piece***        
 Lucy McCormick presents a f*ckstep-dubpunk morality play for the new age. Casting herself as Jesus Christ, the artist attempts to 're-connect to her own moral conscience' by re-enacting old biblical stories via power ballads and performance art, with the additional help of two professional backing dancers.           
 With trademark absurdism and enthusiasm, Lucy puts her best foot forward in the face of existential deadlock.        
-[@lucy_muck](http://twitter.com/lucy_muck)        
-        
+[@lucy_muck](http://twitter.com/lucy_muck)      
+![Lucy McCormick.jpg](lucymccormick.jpg)      
+ 
 **Stephen Donnelly** | ***Sibling Audition***        
 A participatory theatre game show where the performer auditions the audience in a search for a new sibling. Inspired by the Yorgos Lanthimos film, *The Alps*.           
         
 Part of an ongoing project exploring the rituals we create to deal with loss, dealing with grief and the ways we help each other pick up the pieces.        
 [@stdonnelly](http://twitter.com/stdonnelly)        
+![Stephen Donnelly](StephenDonnelly.jpg)       
         
 **Tin Can People** | ***Remember Me***         
 The smell is stained within the denim and thick within the smoke. The music is loud, the drums, even louder! Rock & Roll will never die and we will be remembered. *Welcome to our little soirée. Tonight, we will go down in history!*           
              
 Charlotte Berry + Rob Gregson created Tin Can People, a NW-based theatre company platforming devised group performances and their solo projects.        
 <http://tincanpeople.com> | [Facebook](http://www.facebook.com/tincanpeople) | [@TinCanPeople](http://twitter.com/TinCanPeople)        
+![Tin Can People](tincanpeople.jpg)        
          
 ####Venue + Booking Details
 Date: Saturday 3 October 2015, 4pm-10pm (event starts at 12noon)    

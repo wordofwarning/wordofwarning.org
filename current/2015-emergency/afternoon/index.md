@@ -34,16 +34,19 @@ Gillian Jane Lees is a performer and director, Adam York Gregory is a scientist 
 **Eleanor Fogg** | ***selves portrait***        
 A darkened room. A lone figure sits in front of a mirror, their reflection glowing in the glass…        
 *selves portrait* is a solo performance/installation exploring the multiplicity of identity. This short and intimate piece combines projection, lip-sync and a slow-motion pop soundtrack to create a hypnotic experience which 'feels like being inside a music video', placing the audience within the complex relationship between a person and their reflection.        
-<http://cargocollective.com/eleanorfogg> | [@efoggy](http://twitter.com/efoggy)        
-        
+<http://cargocollective.com/eleanorfogg> | [@efoggy](http://twitter.com/efoggy)       
+![Eleanor Fogg](EleanorFogg.jpg)         
+         
 **Gwendolen Osmond** | ***The loss***         
 An exploration of poetry, physical gesture and music around a female character's experience of loss…        
+![Gwendolen Osmond](GwendolenOsmond.jpg)        
         
 **Howl Yuan** | ***The Invisible Guest***        
 He changed his English name several times…          
 A new production about crossing culture, lost identity, nationalism and mobility. Through physical movement, language barriers and military figures, identity is questioned within cultures, nations and persons. We walk, run or march through moving images, memory and scenery like a changing mirror, which lights up our homecoming — an impossible homecoming.         
         
 Thanks to Ben Francombe, Pete Phillips + Helena Hunter and all at University of Chichester without whose help, I couldn't have made this work.         
+![Howl Yuan](HowlYuan.jpg)      
          
 **Nicola Smith** | ***Drop Pick Up***        
 *I use simple actions in my interventions, which have multiple meanings that can be understood by everyone. As a mother the action I repeat most is picking up objects off the floor in a never-ending continual cycle, which is reflected in my performance. My shallow retail self still wants to look good whilst tidying up and I have carefully styled my wardrobe accordingly: with the soles of my shoes painted red, a custom-made Chanel bag and sleek black hair hanging down over my face.*        
@@ -58,6 +61,7 @@ Paul Hughes is a performance artist & theatre-maker who has made work with Fores
 **Rachel Gomme** | ***Mouth to Mouth***        
 *Share a breath with me. Receive a gift from an unknown other.*        
 A one-to-one interaction that celebrates breath as mutual interdependence and cycle of gift exchange.        
+![Rachel Gomme](RachelGomme.jpg)         
          
 **Simon Farid** | ***The Gallery Watches You Back***        
 *Supported by public funds means a lot of things. It means you've paid for this. Through lottery funding it means poorer people have paid more. It means those responsible for the event have filled in a lot of forms. It means others have checked those forms. It means your role as a visitor will be heavily monitored. Are you satisfied?*        
@@ -92,10 +96,12 @@ There is a hole in Tim’s garden fence. It was made in 1984 or 1985 (the dates 
         
 Tessa visited the hole and discovered that it's now a portal in time and space, leading to a utopian society formed in a mining colony on an asteroid. Tim and Tessa agreed that they should make a show about the hole. But they have very different ideas about what that show should be.        
 [@tessabuddle](http://twitter.com/tessabuddle)        
+![Anderson+ Buddle](AndersonBuddle.jpg)        
         
 **Trendscendence** | ***Prototype (Phase 1)***        
 An interactive experience that envisions a post-human future in which the online and offline avatar morph indistinguishably and the border between reality and fantasy evaporates. Focusing on communication and connectivity, phase 1 probes simulated realities, virtual representations, and primal instincts through the medium of digital performance.        
 [www.trendscendencelivehere.com](http://www.trendscendencelivehere.com) | [@trendscendence](http://twitter.com/trendscendence)        
+![Trendscendence](Trendscendence.jpg)           
         
 ####Venue + Booking Details
 Date: Saturday 3 October 2015, 12noon-4pm (full event runs to 10pm)    
