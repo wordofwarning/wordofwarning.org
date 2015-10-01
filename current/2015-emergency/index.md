@@ -29,7 +29,7 @@ Your chance to sample the different — all for free, featuring (*participating 
 Adam Lowe | Adam York Gregory + Gillian Jane Lees | Ali Matthews + Leo Burtin | Ali Wilson | Alicia Radage | Chris Jenkins | Dr Mango | Eleanor Fogg | Gareth Cutter | Gwendolen Osmond | Howl Yuan | James O'Donoghue | Jon M Coleman | Lucy McCormick | Nicola Smith | Paul Hughes + Andy Edwards | Rachel Gomme | Simon Farid | Simon Gerrard | Stephen Donnelly | Sturgeon's Law | Terri Donovan | The Demolition Project | Tim Anderson + Tessa Buddle | Tin Can People | Trendscendence      
 
 To get a feel for it, have a look at this year's schedule (subject to change):     
-![Emergency 2015 Schedule (subject to change)](Emerg-sched-1-Oct.jpg)       
+![Emergency 2015 Schedule (subject to change)](Emerg-sched-portrait.jpg)       
              
 To get a feel for it, have a look at 2014's [programme](/archive/2014-emergency) + [gallery](/galleries/2014-emergency).        
         
