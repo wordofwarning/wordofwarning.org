@@ -32,7 +32,10 @@ Directed by Gerry Potter, music by Nikki Franklin, animation by Charlie Taylor.
 Gillian Jane Lees is a performer and director, Adam York Gregory is a scientist and visual artist — together they explore the equivalence and contradictions between their individual practices. *Time/Distance* is an attempt to place time under a microscope, enlarging it so that we can observe and study it better.        
 [@Adam_Y](http://twitter.com/Adam_Y) + [@GillianLees](http://twitter.com/GillianLees)        
 ![AY Gregory + GJ Lees](GregoryLees.jpg)      
-        
+            
+**Alicia Radage** | ***Illegitimi non carborundum (Grinding Down)***         
+![Alicia Radage](AliciaRadage.jpg)         
+            
 **Eleanor Fogg** | ***selves portrait***        
 A darkened room. A lone figure sits in front of a mirror, their reflection glowing in the glass…        
 *selves portrait* is a solo performance/installation exploring the multiplicity of identity. This short and intimate piece combines projection, lip-sync and a slow-motion pop soundtrack to create a hypnotic experience which 'feels like being inside a music video', placing the audience within the complex relationship between a person and their reflection.        
