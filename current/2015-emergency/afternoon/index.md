@@ -34,6 +34,7 @@ Gillian Jane Lees is a performer and director, Adam York Gregory is a scientist 
 ![AY Gregory + GJ Lees](GregoryLees.jpg)      
             
 **Alicia Radage** | ***Illegitimi non carborundum (Grinding Down)***         
+[www.aliciaradage.com](http://www.aliciaradage.com)           
 ![Alicia Radage](AliciaRadage.jpg)         
             
 **Eleanor Fogg** | ***selves portrait***        
