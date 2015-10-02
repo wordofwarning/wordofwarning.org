@@ -34,6 +34,7 @@ Gillian Jane Lees is a performer and director, Adam York Gregory is a scientist 
 ![AY Gregory + GJ Lees](GregoryLees.jpg)      
             
 **Alicia Radage** | ***Illegitimi non carborundum (Grinding Down)***         
+Radage's work explores the body and the relationship to gender within space. This piece looks at the concept and experience of aspects of masculinity alongside the visibility of the (female) body.          
 [www.aliciaradage.com](http://www.aliciaradage.com)           
 ![Alicia Radage](AliciaRadage.jpg)         
             
