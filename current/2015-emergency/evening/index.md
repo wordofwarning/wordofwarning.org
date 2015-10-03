@@ -90,13 +90,12 @@ With trademark absurdism and enthusiasm, Lucy puts her best foot forward in the 
 [@lucy_muck](http://twitter.com/lucy_muck)      
 ![Lucy McCormick.jpg](lucymccormick.jpg)      
  
-**Stephen Donnelly** | ***Sibling Audition***        
+**Stephen Donnelly** | ***Sibling Audition*** *(no longer appears)*        
 A participatory theatre game show where the performer auditions the audience in a search for a new sibling. Inspired by the Yorgos Lanthimos film, *The Alps*.           
         
 Part of an ongoing project exploring the rituals we create to deal with loss, dealing with grief and the ways we help each other pick up the pieces.        
 [@stdonnelly](http://twitter.com/stdonnelly)        
-![Stephen Donnelly](StephenDonnelly.jpg)       
-        
+          
 **Tin Can People** | ***Remember Me***         
 The smell is stained within the denim and thick within the smoke. The music is loud, the drums, even louder! Rock & Roll will never die and we will be remembered. *Welcome to our little soirée. Tonight, we will go down in history!*           
              
