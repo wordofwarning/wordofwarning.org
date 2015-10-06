@@ -17,7 +17,7 @@ header_image: "header_bol.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>*Presented by* Sustained Theatre Up North *+* Word of Warning; *part of* Black Gold Arts Festival</small>       
+<small>*Presented by* Sustained Theatre Up North *+* Word of Warning *duringf* Black Gold Arts Festival</small>       
            
 ####In Brief     
 A seamless landscape of flowing image, where graphics bend effortlessly around the arcs of a live dancer.        
