@@ -17,7 +17,7 @@ header_image: "header_bol.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* STUN *+* Word of Warning <small>*during*</small> Black Gold Arts Festival       
+*Presented by* STUN <small>*during*</small> Black Gold Arts Festival *+* Word of Warning       
            
 ####In Brief     
 A seamless landscape of flowing image, where graphics bend effortlessly around the arcs of a live dancer.        
