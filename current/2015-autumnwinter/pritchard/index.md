@@ -17,7 +17,7 @@ header_image: "header_bol.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>*Presented by* Word of Warning *+* Sustained Theatre Up North, *part of* Black Gold Arts Festival</small>       
+*Presented by* Sustained Theatre Up North *+* Word of Warning, <small>*part of* Black Gold Arts Festival</small>       
            
 ####In Brief     
 A seamless landscape of flowing image, where graphics bend effortlessly around the arcs of a live dancer.        
@@ -44,7 +44,7 @@ Stylistically, Darren has explored ballet, street dance and contemporary dance, 
 >*I witnessed a mesmerizing piece of work, where technology is married with dance in a very human way, not overpowered by the technology but working in tandem.*<br>Sonia Hughes, Writer/Director       
         
 ####Credits         
-Supported using public funding by the National Lottery through Arts Council England; supported by Guernsey Arts Commission, Journey Through Time, STUN, hÅb, Dance Manchester + Contact.
+Supported using public funding by the National Lottery through Arts Council England; supported by hÅb, STUN, Dance Manchester, Guernsey Arts Commission, Journey Through Time.
          
 ####Websites    
 [www.thebodyoflight.dance](http://www.thebodyoflight.dance) | [www.darrenpritcharddance.com](http://www.darrenpritcharddance.com) | [@DarrenDancer](http://twitter.com/DarrenDancer)
