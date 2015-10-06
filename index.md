@@ -4,4 +4,5 @@ layout: home
 header_image: "assets/images/header_aw15wrn.jpg"
 
 ---
-####Many thanks to our [Domestic II](/current/2015-domestic) artists/audiences/team + partner The Guinness Partnership. [Autumn/Winter](/current/2015-autumnwinter) continues with [Emergency](/current/2015-emergency) taking over Z-arts *3 Oct* | then sees [Darren Pritchard](/current/2015-autumnwinter/pritchard) in STUN Studio at Z-arts *22 Oct* | closes with [Stacy Makishi](http://www.wordofwarning.org/current/2015-autumnwinter/makishi) at Contact *17+18 Nov*.
+####Many thanks to our [Emergency 2015](/current/2015-emergency) artists/audiences/team + venues STUN/Z-arts.
+[Autumn/Winter](/current/2015-autumnwinter) continues with [Darren Pritchard](/current/2015-autumnwinter/pritchard) in the STUN Studio at Z-arts *22 Oct* & closes with [Stacy Makishi](http://www.wordofwarning.org/current/2015-autumnwinter/makishi) at Contact *17+18 Nov*.
