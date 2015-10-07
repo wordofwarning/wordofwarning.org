@@ -41,4 +41,4 @@ Cheryl has won Manchester Evening News Theatre Awards as both writer (Best Commu
 Directed by Darren Pritchard | Commissioned by The Albany, supported by Contact, STUN + Commonword; co-commissioned by hÅb for Domestic II    
     
 ####Websites
-[cherylmartin.co.uk](http://www.cherylmartin.co.uk/about) | [@cherylalaska](http://twitter.com/cherylalaska)
+[cherylmartin.co.uk](http://www.cherylmartin.co.uk/about) | [@cherylalaska](http://twitter.com/cherylalaska) | [Black Gold Arts Festival Facebook event](http://www.facebook.com/events/942571815809180)
