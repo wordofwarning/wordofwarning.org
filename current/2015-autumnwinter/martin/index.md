@@ -25,7 +25,7 @@ Tells the story of a black perimenopausal lesbian's descent into suicidal depres
 ####Venue + Booking Details        
 Date: Thursday 22 October 2015, 3pm (+ 7pm sold-out)        
 [Venue: STUN Studio at Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA 
-[Tickets: £5](http://www.z-arts.org/events/alaska) | Please note there is a limited capacity.
+[Tickets: £5](http://www.z-arts.org/events/alaska) | Please note there is a limited capacity of 15 per show.
          
 ####Access Information      
 Age advisory: 14+ For specific age and access information please email <mailto:info@habarts.org>.       
