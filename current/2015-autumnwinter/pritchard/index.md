@@ -27,7 +27,7 @@ Date: Thursday 22 October 2015, 8pm
 [Venue: STUN Studio at Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA          
 [Tickets: £5 (*a NEW PRICE for this 30 minute performance*)](http://www.z-arts.org/events/body-of-light) | Please note there is a limited capacity in the STUN Studio.         
 Box Office Tel: 0161 232 6089         
-*Also see [Cheryl Martin's Alaska](/martin), supported by hÅb + seen at Domestic II*
+*Also see [Cheryl Martin's Alaska](/current/2015-autumnwinter/martin) supported by hÅb, last seen at [Domestic II](/current/2015-domestic/martin)*
         
 ####Access Information      
 Age advisory: 6+ With no interval, the performance lasts 30 minutes (*NB revised duration*) and will be followed by an opportunity to interact with the technology used. Primarily a visual, physical work, it incorporates fast moving projected imagery. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
