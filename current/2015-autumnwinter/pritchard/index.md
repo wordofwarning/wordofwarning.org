@@ -29,7 +29,7 @@ Date: Thursday 22 October 2015, 8pm
 Box Office Tel: 0161 232 6089         
         
 ####Access Information      
-Age advisory: 6+ With no interval, the show lasts approximately 40 minutes and will be followed by an opportunity to interact with the technology used. Primarily a visual, physical work, it incorporates fast moving projected imagery. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
+Age advisory: 6+ With no interval, the show lasts 30 minutes (*NB revised duration*) and will be followed by an opportunity to interact with the technology used. Primarily a visual, physical work, it incorporates fast moving projected imagery. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
       
 ####More        
 *Body of Light* is a very human journey into the world of technology. Take one finely tuned body, one home-gaming device and three creative minds, mix vigorously and see what happens. The result: a seamless landscape of flowing imagery, where the body's movements translate into sweeping brushstrokes, and the boundaries of flesh and pixel blur into one. Colour, texture and tone are shaped by body and in response, the body curves and moulds to the image, opening up new possibilities for human and machine alike.        
