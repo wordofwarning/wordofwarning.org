@@ -25,7 +25,7 @@ A seamless landscape of flowing image, where graphics bend effortlessly around t
 ####Venue + Booking Details       
 Date: Thursday 22 October 2015, 8pm              
 [Venue: STUN Studio at Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA          
-[Tickets: £8/5](http://www.z-arts.org/events/body-of-light) | Please note there is a limited capacity.         
+[Tickets: £5 (NEW PRICE)](http://www.z-arts.org/events/body-of-light) | Please note there is a limited capacity.         
 Box Office Tel: 0161 232 6089         
         
 ####Access Information      
