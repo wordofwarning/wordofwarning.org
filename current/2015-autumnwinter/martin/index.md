@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: 2015-domestic
+layout: 2015-autumnwinter
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
