@@ -27,7 +27,8 @@ Date: Thursday 22 October 2015, 8pm
 [Venue: STUN Studio at Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA          
 [Tickets: £5 (*a NEW PRICE for this 30 minute performance*)](http://z-arts.ticketsolve.com/shows/873540047/events/127519222) | Please note there is a limited capacity in the STUN Studio.         
 Box Office Tel: 0161 232 6089         
-*Also see: Cheryl Martin's [Alaska](/current/2015-autumnwinter/martin) supported by hÅb + last seen at [Domestic II](/current/2015-domestic/martin); Chanje Kunda's [Amsterdam](http://www.z-arts.org/events/amsterdam); Keisha Thompson's [I Wish I Had A Moustache](http://www.z-arts.org/events/i-wish-i-had-a-moustache) during Black Gold Arts Festival.*        
+Also see during [Black Gold Arts Festival](http://stunlive.com/black-gold-festival):         
+Cheryl Martin's *[Alaska](/current/2015-autumnwinter/martin)* supported by hÅb + last seen at [Domestic II](/current/2015-domestic/martin); Chanje Kunda's *[Amsterdam](http://www.z-arts.org/events/amsterdam)*; Keisha Thompson's *[I Wish I Had A Moustache](http://www.z-arts.org/events/i-wish-i-had-a-moustache)*.        
 *Body of Light* is also shown during [Manchester Science Festival](http://www.manchestersciencefestival.com/whatson/bodyoflight) 23 + 24 Oct.         
          
 ####Access Information      
