@@ -28,7 +28,7 @@ Date: Thursday 22 October 2015, 3pm (+ 7pm sold-out)
 [Tickets: £5 (3pm only)](http://z-arts.ticketsolve.com/shows/873540040/events/127519178) | Please note limited capacity of 15 per show.                
         
 ####Black Gold Arts Festival        
-Also see Darren Pritchard's *[Body of Light](/current/2015-autumnwinter/pritchard)* presented with Word of Warning; Chanje Kunda's *[Amsterdam](http://www.z-arts.org/events/amsterdam)*; Keisha Thompson's *[I Wish I Had A Moustache](http://www.z-arts.org/events/i-wish-i-had-a-moustache)* during [Black Gold Arts Festival](http://stunlive.com/black-gold-festival)*.            
+Also see Darren Pritchard's *[Body of Light](/current/2015-autumnwinter/pritchard)* presented with Word of Warning; Chanje Kunda's *[Amsterdam](http://www.z-arts.org/events/amsterdam)*; Keisha Thompson's *[I Wish I Had A Moustache](http://www.z-arts.org/events/i-wish-i-had-a-moustache)* during [Black Gold Arts Festival](http://stunlive.com/black-gold-festival).            
         
 ####Access Information      
 Age advisory: 14+ For specific age and access information please email <mailto:info@habarts.org>.       
