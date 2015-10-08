@@ -25,7 +25,7 @@ Tells the story of a black perimenopausal lesbian's descent into suicidal depres
 ####Venue + Booking Details        
 Date: Thursday 22 October 2015, 3pm (+ 7pm sold-out)        
 [Venue: STUN Studio at Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA 
-[Tickets: £5](http://www.z-arts.org/events/alaska) | Please note there is a limited capacity of 15 per show.                
+[Tickets: £5 (3pm only)](http://z-arts.ticketsolve.com/shows/873540040/events/127519178) | Please note limited capacity of 15 per show.                
 *Also see Darren Pritchard's [Body of Light](/current/2015-autumnwinter/pritchard) presented with Word of Warning; Chanje Kunda's [Amsterdam](http://www.z-arts.org/events/amsterdam); Keisha Thompson's [I Wish I Had A Moustache](http://www.z-arts.org/events/i-wish-i-had-a-moustache) during Black Gold Arts Festival.*            
         
 ####Access Information      
