@@ -20,8 +20,8 @@ header_image: "header_bol.jpg"
 *Presented by* STUN <small>*during*</small> Black Gold Arts Festival *+* Word of Warning       
            
 ####In Brief     
-A seamless landscape of flowing image, where graphics bend effortlessly around the arcs of a live dancer.        
-          
+A seamless landscape of flowing image, where graphics bend effortlessly around the arcs of a live dancer. A very human journey into the world of technology.           
+         
 ####Venue + Booking Details       
 Date: Thursday 22 October 2015, 8pm              
 [Venue: STUN Studio at Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA          
