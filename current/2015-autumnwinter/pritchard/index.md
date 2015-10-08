@@ -49,4 +49,4 @@ Stylistically, Darren has explored ballet, street dance and contemporary dance, 
 Dancer: Adam Russell | Designer: Marcel Lenormand<br>Supported using public funding by the National Lottery through Arts Council England; supported by hÅb, STUN, Dance Manchester, Guernsey Arts Commission, Journey Through Time.
          
 ####Websites    
-[www.thebodyoflight.dance](http://www.thebodyoflight.dance) | [www.darrenpritcharddance.com](http://www.darrenpritcharddance.com) | [@DarrenDancer](http://twitter.com/DarrenDancer) | [Black Gold Arts Festival Facebook event](http://www.facebook.com/events/942571815809180)
+[www.thebodyoflight.dance](http://www.thebodyoflight.dance) | [www.darrenpritcharddance.com](http://www.darrenpritcharddance.com) | [@DarrenDancer](http://twitter.com/DarrenDancer)<br> [Black Gold Arts Festival](http://stunlive.com/black-gold-festival) | [Black Gold Arts Festival Facebook event](http://www.facebook.com/events/942571815809180)
