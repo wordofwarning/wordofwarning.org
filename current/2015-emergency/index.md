@@ -40,9 +40,8 @@ Tickets: FREE no booking required, come + go as you please.
 *N.B. Some limited capacity shows have sign-up sheets on the day, others operate on a first come, first served basis.*          
 Venue Tel: 0161 232 6089    
       
-####What people said about Emergency 2013        
-A review of the work presented at BLANKSPACE by [C. James Fagan](http://confusedguff.blogspot.co.uk/2013/10/emergency-2013.html).        
-A review of some of the work presented at Z-arts by [The Mancunion](http://mancunion.com/2013/10/17/emergency2013).        
+####What people have said about Emergency        
+Emergency 2015 was a [Guardian top theatre ticket](http://www.theguardian.com/stage/theatreblog/2015/sep/28/romola-garai-fun-palaces-pomona-theatre-top-tickets); 2013 was reviewed by [C. James Fagan](http://confusedguff.blogspot.co.uk/2013/10/emergency-2013.html) (at BLANKSPACE) and by [The Mancunion](http://mancunion.com/2013/10/17/emergency2013) (at Z-arts).        
         
 ####Access Information       
 Emergency 2015 is primarily an adult-focussed event, some works will not be suitable for younger viewers (i.e. under 18s). From 12noon experience durational and limited capacity work; from 4pm onwards see a short series of short performances. It takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some of the work is not wheelchair accessible. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
