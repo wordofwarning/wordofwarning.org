@@ -24,7 +24,7 @@ Tells the story of a black perimenopausal lesbian's descent into suicidal depres
          
 ####Venue + Booking Details        
 Original Date: Thursday 22 October 2015, 3pm (+ 7pm sold-out)        
-Extra Date: Friday 23 October 2015, 7pm
+Extra Date: Friday 23 October 2015, 7pm         
 [Venue: STUN Studio at Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA 
 Tickets: £5 — [Thursday 3pm](http://z-arts.ticketsolve.com/shows/873540040/events/127519178); [Friday 7pm TICKETS ON SALE SOON]() | Please note limited capacity of 15 per show.                
         
