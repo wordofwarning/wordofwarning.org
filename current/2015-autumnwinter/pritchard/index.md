@@ -46,9 +46,11 @@ Stylistically, Darren has explored ballet, street dance and contemporary dance, 
 ####What people have said about *Body of Light*        
 >*…a revelation. Body of Light was/is transcendental. You walk away pondering the questions of the universe.*<br>Juliet Ellis, Film-maker/Director        
 >*I witnessed a mesmerizing piece of work, where technology is married with dance in a very human way, not overpowered by the technology but working in tandem.*<br>Sonia Hughes, Writer/Director       
+         
+*Body of Light*'s public premiere is a [Guardian top theatre ticket](http://www.theguardian.com/stage/theatreblog/2015/oct/19/husbands-sons-national-theatre-devils-larder-grid-iron-beggars-opera-northern-stage-land-of-our-fathers-top-tickets).        
         
 ####Credits         
-Dancer: Adam Russell | Designer: Marcel Lenormand | Supported using public funding by the National Lottery through Arts Council England; supported by hÅb, STUN, Dance Manchester, Guernsey Arts Commission, Journey Through Time.
-         
+Choreography: Darren Pritchard | Dancer + Choreography Contributor: Adam Russell | Technology Designer, and Music Composer: Marcel Lenormand | Screen Fabricator: Jim Bond<br>Supported using public funding by the National Lottery through Arts Council England; supported by Dance Manchester, hÅb, STUN, Z-arts, Contact, Guernsey Arts Commission, Alder Hey Children's Hospital, Ladywood School, Black Gold Arts Festival, Museum of Science and Industry, Manchester Science Festival, HacMan, FabLab + Journey Through Time.         
+           
 ####Websites    
 [www.thebodyoflight.dance](http://www.thebodyoflight.dance) | [www.darrenpritcharddance.com](http://www.darrenpritcharddance.com) | [@DarrenDancer](http://twitter.com/DarrenDancer)<br> [Black Gold Arts Festival](http://stunlive.com/black-gold-festival) | [Black Gold Arts Festival Facebook event](http://www.facebook.com/events/942571815809180)
