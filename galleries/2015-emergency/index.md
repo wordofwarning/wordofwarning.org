@@ -12,7 +12,7 @@ more_link: Emergency 2015
 more_url: "../../current/2015-emergency"
 
 gallery:
-    -   {file: "titlepage.jpg", show: "<small>Emergency 2015: Lucy McCormick. Copyright &copy;2015 Word of Warning</small>"}
+    -   {file: "titlepage.jpg", artist: "<small>Emergency 2015: Lucy McCormick. </small>", show: "<small>Images copyright &copy;2015 Word of Warning</small>"}
     -   {file: "farid.jpg", artist: "Simon Farid"}
     -   {file: "alicia.jpg", artist: "Alicia Radage"}
     -   {file: "demolition.jpg", artist: "The Demolition Project"}
