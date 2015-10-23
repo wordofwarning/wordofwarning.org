@@ -22,7 +22,7 @@ gallery:
     -   {file: "ria2.jpg", artist: "Ria Hartley"}
     -   {file: "ria4.jpg", artist: "Ria Hartley"}
     -   {file: "lizc.jpg", artist: "Liz Clarke"}
-    -   {file: "cahth.jpg", artist: "Catherine Hoffmann"}
+    -   {file: "cathh.jpg", artist: "Catherine Hoffmann"}
     -   {file: "ellie2.jpg", artist: "Ellie Stamp"}
     -   {file: "michael1.jpg", artist: "Michael Pinchbeck"}
     -   {file: "michael2.jpg", artist: "Michael Pinchbeck"}
@@ -33,8 +33,8 @@ gallery:
     -   {file: "natura1.jpg", artist: "Mackenzie + Reed"}
     -   {file: "natura2.jpg", artist: "Mackenzie + Reed"}
     -   {file: "laura.jpg", artist: "Laura Wyatt O'Keeffe"}
-    -   {file: "charlottechw1.jpg", artist: "Charlotte CHW.jpg"}
-    -   {file: "charlottechw2.jpg", artist: "Charlotte CHW.jpg"}
+    -   {file: "charlottechw1.jpg", artist: "Charlotte CHW"}
+    -   {file: "charlottechw2.jpg", artist: "Charlotte CHW"}
     -   {file: "leo.jpg", artist: "Leo Burtin"}
     -   {file: "afreena1.jpg", artist: "Afreena Islam"}
     -   {file: "afreena2.jpg", artist: "Afreena Islam"}
