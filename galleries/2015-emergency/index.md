@@ -26,7 +26,7 @@ gallery:
     -   {file: "terri.jpg", artist: "Terri Donovan"}
     -   {file: "howl.jpg", artist: "Howl"}
     -   {file: "jonc.jpg", artist: "Jon Coleman"}
-    -   {file: "aliwilson.jpg", artist: "Alison Wilson"}
+    -   {file: "aliwilson.jpg", artist: "Ali Wilson"}
     -   {file: "gareth.jpg", artist: "Gareth Cutter"}
     -   {file: "chrisj.jpg", artist: "Chris Jenkins"}
     -   {file: "burtinmatthews.jpg", artist: "Burtin + Matthews"}
