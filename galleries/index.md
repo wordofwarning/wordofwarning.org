@@ -4,6 +4,7 @@
 layout: archive
 
 archived:
+    - {folder: "2015-domestic", name: "Domestic II", class: "d2015"}
     - {folder: "2015-woah", name: "Works Ahead 2015", class: "woah"}
     - {folder: "2015-turn", name: "Turn 2015", class: "t2015"}
     - {folder: "2015-haphazard", name: "Haphazard 2015", class: "h2015"}
