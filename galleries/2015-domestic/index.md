@@ -9,10 +9,10 @@ stylesheet: gallery.css
 
 header_url: "../../galleries"
 more_link: Domestic II
-more_url: "../../archive/2015-domestic"
+more_url: "../../current/2015-domestic"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "<small>Domestic presented with the Guinness Partnership, September 2015</small>", show: "<small>Images copyright &copy;2015 Word of Warning</small>"}
+    -   {file: "titlepage.jpg", artist: "<small>Domestic II presented with the Guinness Partnership, September 2015</small>", show: "<small>Images copyright &copy;2015 Word of Warning</small>"}
     -   {file: "audiocaff.jpg", artist: "Tin Can People"}
     -   {file: "cheryl.jpg", artist: "Cheryl Martin"}
     -   {file: "cheryl2.jpg", artist: "Cheryl Martin"}
