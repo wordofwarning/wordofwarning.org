@@ -19,7 +19,7 @@ header_image: "header_domestic_bw.jpg"
         
 **In September 2015, [Domestic II](/current/2015-domestic)** was unleashed on Matthias Court, a new tower block in a new location in the Manchester conurbation (M3 6JD); this time uninhabited, but definitely mid-refurbishment, we occupied a space in transition: not quite a building-site, not quite a home…        
         
-To get a feel for it, have a look at image galleries from [2013](/galleries/2013-domestic) + [2015](/galleries/2015-domestic).         
+To get a feel for them, have a look at the image galleries from [2013](/galleries/2013-domestic) + [2015](/galleries/2015-domestic).         
 • Enquiries: <mailto:info@habarts.org> | <http://domesticmcr.org> | [#domesticmcr](http://twitter.com/hashtag/domesticmcr)           
         
 [Domestic II](/current/2015-domestic) was presented by Word of Warning + The Guinness Partnership; produced by hÅb with support from The Guinness Partnership + Guinness Property; supported using public funding by the National Lottery through Arts Council England, supported using public funding by Arts Council England + funded by Manchester City Council.
