@@ -17,7 +17,7 @@ header_image: "header_emergency_photo.jpg"
 ---
 **Emergency** is our annual platform for live art + contemporary performance, featuring at least 25 short pieces of work over a day/evening in Manchester…        
         
-Our [**sweet sixteenth Emergency**](/current/2015-emergency) took place on Saturday 3 October 2015 (12noon-10pm) at [Z-arts](http://www.z-arts.org/about-us/getting-here), Manchester. To get a feel for it, have a look at images from [2015](/galleries/2015-emergency) + [2014](/galleries/2014-emergency), and [2014's programme](http://www.wordofwarning.org/archive/2014-emergency).         
+Our [**sweet sixteenth Emergency**](/current/2015-emergency) took place on Saturday 3 October 2015 (12noon-10pm) at [Z-arts](http://www.z-arts.org/about-us/getting-here), Manchester. To get a feel for it, have a look at [2015's new image gallery](/galleries/2015-emergency) or 2014's [gallery](/galleries/2014-emergency) + [programme](http://www.wordofwarning.org/archive/2014-emergency).         
 		
 **Emergency is:**    
 • a free, public micro-festival + open submission platform;   
