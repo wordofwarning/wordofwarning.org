@@ -19,7 +19,7 @@ header_image: "header_makishi.jpg"
 *Presented by* Contact + Word of Warning         
        
 ####In Brief      
-A characteristically quirky, subversive sermon of souls searching, humour and absurd home truths.        
+A characteristically quirky, subversive sermon of souls searching, humour and absurd home truths. Read a [new Total Theatre review](http://totaltheatre.org.uk/stacy-makishi-vesper-time).                
        
 ####Venue + Booking Details    
 Dates: Tuesday 17 + Wednesday 18 November 2015, 8pm         
@@ -45,8 +45,8 @@ A workshop leader and mentor of international renown, Makishi opens her making p
 She has been awarded an ICA Attached Artist Award, a Millennium Fellowship Award, a Live Art Development Agency One to One Bursary, an Artsadmin Bursary and the Franklin Furnace Award. She is an Associate Artist with Artsadmin, Chelsea Theatre and New Unity.           
        
 ####What people have said about *Vesper Time*        
->*…charismatically witty yet painful and honest…*<br>[Total Theatre](http://totaltheatre.org.uk/vespertime)     
->*…genuinely moving…*<br>[A Younger Theatre](http://www.ayoungertheatre.com/review-vespertime-chelsea-theatre-stacey-makishi)
+>*…charismatically witty yet painful and honest…*<br>[Total Theatre](http://totaltheatre.org.uk/vespertime)       
+>*…genuinely moving…*<br>[A Younger Theatre](http://www.ayoungertheatre.com/review-vespertime-chelsea-theatre-stacey-makishi)        
        
 ####Credits          
 Developed with the support of the National Theatre Studio; a Chelsea Theatre + Colchester Arts Centre co-commission; supported using public funding by the National Lottery through Arts Council England; produced by Artsadmin.
