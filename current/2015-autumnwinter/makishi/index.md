@@ -19,12 +19,12 @@ header_image: "header_makishi.jpg"
 *Presented by* Contact + Word of Warning         
        
 ####In Brief      
-A characteristically quirky, subversive sermon of soul searching, humour and absurd home truths… See Stacy talk about *Vesper Time*in a <a href="http://www.facebook.com/contactmcr/videos/10153737909778928" target="_blank">video on facebook</a> + <a href="ttp://totaltheatre.org.uk/stacy-makishi-vesper-time" target="_blank">read a new review</a> from Total Theatre Magazine (*NB spoilers!*).                
+A characteristically quirky, subversive sermon of soul searching, humour and absurd home truths… See Stacy talk about *Vesper Time* in a <a href="http://www.facebook.com/contactmcr/videos/10153737909778928" target="_blank">video (on facebook)</a> + read a <a href="ttp://totaltheatre.org.uk/stacy-makishi-vesper-time" target="_blank">new review</a> from Total Theatre Magazine (*NB spoilers!*).                
        
 ####Venue + Booking Details    
 Dates: Tuesday 17 + Wednesday 18 November 2015, 8pm         
 [Venue: Contact (space 1)](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA        
-[Tickets: £13/7](http://contactmcr.com/whats-on/40896-stacy-makishi-vesper-time/booking/) | Special offer: buy nine tickets + get your tenth free.    
+[Tickets: £13/7](http://contactmcr.com/whats-on/40896-stacy-makishi-vesper-time/booking) | Special offer: buy nine tickets + get your tenth free.    
 Box Office Tel: 0161 274 0600         
         
 ####Access Information        
@@ -48,6 +48,11 @@ She has been awarded an ICA Attached Artist Award, a Millennium Fellowship Award
 >*…charismatically witty yet painful and honest…*<br>[Total Theatre](http://totaltheatre.org.uk/vespertime)       
 >*…genuinely moving…*<br>[A Younger Theatre](http://www.ayoungertheatre.com/review-vespertime-chelsea-theatre-stacey-makishi)        
        
+####Workshop: *Killing Time*        
+Stacy is leading a workshop with [Divergency](/hab/divergencymcr) at Contact, open to all artists willing to try out new ideas and walk out into the unknown. Join her and find out how to move faster than you think, write quicker than edit, and create faster than critique! A two-hour workshop for anyone who's interested in learning about devising and performance.
+        
+At Contact on Wednesday 18 November from 2.30pm to 4.30pm and suitable for over 16s, workshop tickets cost £10/6: book [online](http://contactmcr.com/whats-on/40697-stacy-makishi-workshop-killing-time) or call 0161 274 0600.           
+        
 ####Credits          
 Developed with the support of the National Theatre Studio; a Chelsea Theatre + Colchester Arts Centre co-commission; supported using public funding by the National Lottery through Arts Council England; produced by Artsadmin.
        
