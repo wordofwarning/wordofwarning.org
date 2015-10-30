@@ -19,7 +19,7 @@ header_image: "header_makishi.jpg"
 *Presented by* Contact + Word of Warning         
        
 ####In Brief      
-A characteristically quirky, subversive sermon of souls searching, humour and absurd home truths. [Read a new review](http://totaltheatre.org.uk/stacy-makishi-vesper-time) from Total Theatre (*NB spoilers!*).                
+A characteristically quirky, subversive sermon of soul searching, humour and absurd home truths… See Stacy talk about *Vesper Time*in a <a href="http://www.facebook.com/contactmcr/videos/10153737909778928" target="_blank">video on facebook</a> + <a href="ttp://totaltheatre.org.uk/stacy-makishi-vesper-time" target="_blank">read a new review</a> from Total Theatre Magazine (*NB spoilers!*).                
        
 ####Venue + Booking Details    
 Dates: Tuesday 17 + Wednesday 18 November 2015, 8pm         
