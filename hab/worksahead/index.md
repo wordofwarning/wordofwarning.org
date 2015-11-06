@@ -16,7 +16,7 @@ header_image: "header_woah_photo.jpg"
 
 ---
 
-**Works Ahead** is a new project, developed out of the old Method Lab + SeedFund schemes we ran with greenroom. Started in 2012, it aims to offer very small supported work-in-development commissions for artists selected from the year's [Emergency](/hab/emergency) platform and/or other events. Support includes mentoring and a public showing of the next stage of the work…       
+**Works Ahead** is a new-ish project, developed out of the old Method Lab + SeedFund schemes we ran with greenroom. Started in 2012, it aims to offer very small supported work-in-development commissions for artists selected from the year's [Emergency](/hab/emergency) platform and/or other events. Support includes mentoring and a public showing of the next stage of the work…       
         
 The **[first Works Ahead](/archive/2012-woah)** took place in May/June 2012, with a new partnership at Contact (as a Re:Con co-production) featuring a night of performances from Gareth Cutter, Lowri Evans + Krissi Musiol; and an evening of interactions from Angel Club (north), Fallen Wall Arts, Julieann O'Malley + Small Acts… See their [image gallery](/galleries/2012-woah).        
         
@@ -24,4 +24,4 @@ The **[second Works Ahead](/archive/2013-worksahead)** took place in May 2013, o
        
 The **[third Works Ahead](/archive/2014-worksahead)** took place 8+9 May 2014 at Contact, with a triple-bill of work that delved into the mindset of the performer from Lindsay Bennett, Paul O'Donnell + SheepKnuckle… See their [image gallery](/galleries/2014-woah).        
         
-Our **[fourth Works Ahead](/current/2015-worksahead)** takes place 24+25 April 2015 at Contact, with a double-bill from Nathan Birkinshaw + Jamil Keating: two young male artists questioning manliness in this digitised, disembodied, discombobulated era.
+Our **[fourth Works Ahead](/archive/2015-worksahead)** took place 24+25 April 2015 at Contact, with a double-bill from Nathan Birkinshaw + Jamil Keating: two young male artists questioning manliness in this digitised, disembodied, discombobulated era… See their [image gallery](/galleries/2015-woah).
