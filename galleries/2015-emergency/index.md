@@ -18,18 +18,18 @@ gallery:
     -   {file: "demolition.jpg", artist: "The Demolition Project"}
     -   {file: "nicola.jpg", artist: "Nicola Smith"}
     -   {file: "gwen.jpg", artist: "Gwendolen Osmond"}
-    -   {file: "gregorylees.jpg", artist: "AY Gregory + GJ Lees"}
+    -   {file: "gregorylees.jpg", artist: "Adam York Gregory + Gillian James Lees"}
     -   {file: "adaml.jpg", artist: "Adam Lowe"}
-    -   {file: "buddle.jpg", artist: "Buddle + Anderson"}
+    -   {file: "buddle.jpg", artist: "Tim Anderson + Tessa Buddle"}
     -   {file: "eleanor.jpg", artist: "Eleanor Fogg"}
     -   {file: "sturgeon.jpg", artist: "Sturgeon's Law"}
     -   {file: "terri.jpg", artist: "Terri Donovan"}
-    -   {file: "howl.jpg", artist: "Howl"}
-    -   {file: "jonc.jpg", artist: "Jon Coleman"}
+    -   {file: "howl.jpg", artist: "Howl Yuan"}
+    -   {file: "jonc.jpg", artist: "Jon M Coleman"}
     -   {file: "aliwilson.jpg", artist: "Ali Wilson"}
     -   {file: "gareth.jpg", artist: "Gareth Cutter"}
     -   {file: "chrisj.jpg", artist: "Chris Jenkins"}
-    -   {file: "burtinmatthews.jpg", artist: "Burtin + Matthews"}
+    -   {file: "burtinmatthews.jpg", artist: "Ali Matthews + Leo Burtin"}
     -   {file: "tcp.jpg", artist: "Tin Can People"}
     -   {file: "drmango.jpg", artist: "Dr Mango"}
     -   {file: "jameso.jpg", artist: "James O'Donoghue"}
