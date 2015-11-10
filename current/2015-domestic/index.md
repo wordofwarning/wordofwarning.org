@@ -22,6 +22,8 @@ show_size: 4
 ###Thursday 24 — Saturday 26 September 2015        
 **A one-off, never to be repeated trip around a building in transition. Intimate interactions, homely conversations and domestic dramas played out in a block of flats…**        
          
+Now that it's over, see a rapid overview <a href="http://vimeo.com/143630694" target="_blank">on vimeo</a>, have a look at the [image gallery](/galleries/2015-domestic) + read <a href="http://quietmandave.co.uk/2015/09/domestic-ii" target="_blank">QuietManDave's review</a>.        
+         
 ###Evening Performances, Booking Essential	
 **A series of 'at homes' atop a transforming tower block. Stories of real lives in a surreal setting.**         
 *Thu 24 Sep, 7.30pm | £5*        
@@ -52,7 +54,7 @@ Tickets: Evening Performances can be [booked online via We Got Tickets (10% book
 >Very original and enjoyable, I have never attended anything like this before. Truly thought provoking.<br>*Audience member, [2013](/archive/2013-domestic)*          
 >A really eclectic and engaging programme of intimate work in a series of exciting and unique spaces.<br>*Audience member, [2013](/archive/2013-domestic)*          
             
-Domestic II is… a [Guardian top theatre ticket](http://www.theguardian.com/stage/theatreblog/2015/sep/21/iliad-llanelli-odyssey-simon-armitage-domestic-11-rebecca-lenkiewicz-theatre-top-tickets), featured in the [Manchester Evening News](http://www.manchestereveningnews.co.uk/news/greater-manchester-news/derelict-block-flats-stage-community-10121091), recommended by [The Skinny](http://www.theskinny.co.uk/things-to-do/northwest/whats-on-liverpool-psych-fest-ottolenghi-menace-beach), previewed in [Time Out Manchester](http://www.timeout.com/manchester/blog/art-festival-domestic-ii-gives-lease-of-life-to-unused-salford-tower-block-090915). Now that it's over, read [QuietManDave's review](http://quietmandave.co.uk/2015/09/domestic-ii).               
+Domestic II is… a [Guardian top theatre ticket](http://www.theguardian.com/stage/theatreblog/2015/sep/21/iliad-llanelli-odyssey-simon-armitage-domestic-11-rebecca-lenkiewicz-theatre-top-tickets), featured in the [Manchester Evening News](http://www.manchestereveningnews.co.uk/news/greater-manchester-news/derelict-block-flats-stage-community-10121091), recommended by [The Skinny](http://www.theskinny.co.uk/things-to-do/northwest/whats-on-liverpool-psych-fest-ottolenghi-menace-beach), previewed in [Time Out Manchester](http://www.timeout.com/manchester/blog/art-festival-domestic-ii-gives-lease-of-life-to-unused-salford-tower-block-090915).               
              
 ####Access Information        
 As a sited event, Domestic II presents a number of access challenges.  Audience members should be aware that Matthias Court is an active construction site and as such, is rough and ready.  Please wear sensible shoes, warm layered clothing (that you are happy to get dirty) and be aware of possible rough floor and wall surfaces!    
