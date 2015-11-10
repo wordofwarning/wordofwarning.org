@@ -18,7 +18,7 @@ gallery:
     -   {file: "demolition.jpg", artist: "The Demolition Project"}
     -   {file: "nicola.jpg", artist: "Nicola Smith"}
     -   {file: "gwen.jpg", artist: "Gwendolen Osmond"}
-    -   {file: "gregorylees.jpg", artist: "Adam York Gregory + Gillian James Lees"}
+    -   {file: "gregorylees.jpg", artist: "Adam York Gregory + Gillian Jane Lees"}
     -   {file: "adaml.jpg", artist: "Adam Lowe"}
     -   {file: "buddle.jpg", artist: "Tim Anderson + Tessa Buddle"}
     -   {file: "eleanor.jpg", artist: "Eleanor Fogg"}
