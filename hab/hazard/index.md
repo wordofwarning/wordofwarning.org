@@ -5,8 +5,8 @@ layout: hab # the season or event-specific template in /_layouts
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Hazard" # the name of the artist or company
-header_image: "header_2012_hazard.jpg"   
+artist: "Haphazard" # the name of the artist or company
+header_image: ""   
 
 
 # ABOUT THE SHOW - LAYOUT
@@ -15,12 +15,10 @@ header_image: "header_2012_hazard.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---         
-**Hazard** is our biennial micro-festival of incidental intervention and sited performance, blurring the boundaries between art and activism… Over 80 artists have taken to the streets of Manchester including: Action Hero, Alex Bradley, Jordan Mackenzie, Juliann O’Malley, Katherina Radeva, Michael Pinchbeck, Richard DeDomenici, Shahram Entekhabi + the vacuum cleaner.        
-        
-Our **[fifth Hazard](/archive/2014-hazard)** popped up in Manchester's [St Ann's Square](http://bit.ly/1wrGmvW) and surrounding streets on Saturday 12 July 2014, see some [images](/galleries/2014-hazard). For a glimpse of previous outbreaks of hazardous behaviour see 2012's [programme](/archive/2012-hazard) + [image gallery](/galleries/2012-hazard).         
-              
-So far we've wrapped Cathedral Gardens in fluttering hazard tape, pitted together a lion and a unicorn, moved the goalposts (literally) and witnessed flat packed children take over the streets of Manchester — oh, and conducted a hoola-hoopathon; The Larks had the public riddling, racing and chasing as urban archaeologists and private investigators, injecting mass gaming into St Ann's Square and beyond.       
-                 
-Enquiries: <mailto:hazard@habarts.org> ¦ <http://hazardmcr.org> ¦ #HazardMcr       
-          
-[Hazard 2014](/archive/2014-hazard) was presented by Word of Warning; produced by hÅb + The Larks in collaboration with the participating artists; supported using public funding by Arts Council England, funded by Manchester City Council + supported by Royal Exchange Theatre; a greenroom legacy project.
+**Haphazard** is our occasional foray into all ages live art, with intriguing images and offbeat oddities dotted around teh historic [Z-arts](http://www.z-arts.org)' building in Manchester's Hulme. Playful, quirky, engaging and sometimes plain daft: this is a day for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out!         
+           
+In [2013](/archive/2013-spring/haphazard) we filled Z-arts to the brim with moving musical sculptures; a bouncy, squeaky, ping-pong dance; and an underground labyrinth (only for the brave!) — [2015](/archive/2015-spring/haphazard) saw everything from quirky quoits to crotchety crochet, freaky food to a jungle jamboree, topped off with a dose of dotty dance and a plea to avenge the apiary (or save the bees!).
+
+Our **third Haphazard** takes over Z-arts on Saturday 20 February 2016 (turn up at any time 12noon to 4pm, come and go as you please) and we now seek proposals from artists. For a glimpse of previous outbreaks of haphazardous behaviour see images from [2013](/galleries/2013-haphazard) + [2015(galleries/2015-haphazard). To apply, please complete an <a href="http://URL" target="_blank">online application form</a> + <a href="http://URL" target="_blank">monitoring form</a>.          
+         
+Haphazard 2016 is presented by Word of Warning + Z-arts; produced by hÅb; supported using public funding by Arts Council England, funded by Manchester City Council + supported by Z-arts. Enquiries: <mailto:haphazard@habarts.org> | #Haphazard
