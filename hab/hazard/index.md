@@ -21,4 +21,5 @@ In [2013](/archive/2013-spring/haphazard) we filled Z-arts to the brim with movi
 
 Our **third Haphazard** takes over Z-arts on Saturday 20 February 2016 (turn up at any time 12noon to 4pm, come and go as you please) and we now seek proposals from artists: to apply, please complete an <a href="http://URL" target="_blank">online application form</a> + <a href="http://URL" target="_blank">monitoring form</a>.          
          
-Haphazard 2016 is presented by Word of Warning + Z-arts; produced by hÅb; supported using public funding by Arts Council England, funded by Manchester City Council + supported by Z-arts. Enquiries: <mailto:haphazard@habarts.org> | #Haphazard
+Haphazard 2016 is presented by Word of Warning + Z-arts; produced by hÅb; supported using public funding by Arts Council England, funded by Manchester City Council + supported by Z-arts.
+Enquiries: <mailto:haphazard@habarts.org> | #Haphazard
