@@ -19,7 +19,9 @@ header_image: ""
 *Presented by* Contact + Word of Warning *during* SICK! Lab         
        
 ####In Brief      
-Hmmm.                
+Blending performance, comedy and film, Kim Noble tries to get close to other people on this planet. Keith for instance. You maybe.        
+          
+See his <a href="http://youtu.be/ZpI9fdp87Y8" target="_blank">trailer</a>.                
        
 ####Venue + Booking Details    
 Date: Saturday 12 March 2016, ??pm         
@@ -28,20 +30,22 @@ Date: Saturday 12 March 2016, ??pm
 Box Office Tel: 0161 274 0600         
         
 ####Access Information        
-Age advisory: 18+ With no interval, the show lasts approximately ?? minutes. Primarily English spoken word, contains material some audience members may find offensive, including explicit???. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
+Age advisory: Strictly 18+ (ID may be required when collecting tickets.) Contains adult content and material that some audience members may find offensive. With no interval, the show lasts approximately 60 minutes. Primarily English spoken word + audio-visual presentation???. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
 ####More         
-???         
-       
+*You're Not Alone* is a provocative, moving and comic show, chronicling one man's attempts at connection, friendship and employment at B&Q. Taking you on a journey through tower blocks, supermarkets and Facebook as Kim seeks an escape from the loneliness of modern society, this is an intimate glimpse into the mind of an eccentric genius.         
+        
 ####Who is he?     
 ???           
             
 ####What people have said about *You're Not Alone*        
+>★★★★ *Fearless and tender.*<br><a href="http://www.standard.co.uk/goingout/theatre/kim-noble-you-re-not-alone-soho-theatre-review-10041114.html" target="_blank">Henry Hitchings, Evening Standard</a>        
+>4\* *…one of the most hypnotically involving pieces of theatre I’ve ever seen.*<br><a href="http://www.telegraph.co.uk/culture/theatre/edinburgh-festival/10995672/Edinburgh-theatre-2014-what-to-see.html" target="_blank">Laura Barnett, The Telegraph</a>        
 >*…dark and often troubling<br>…a unique window on the bleak comedy of human existence.*<br><a href="http://www.theguardian.com/stage/2015/feb/22/kim-noble-youre-not-alone-review-soho-theatre-london" target="_blank">Stephanie Merritt, The Guardian</a>           
->*Warped and explicit, it is very much not for the faint-hearted. It is also one of the oddest, funniest, saddest hours of comedy I ve seen.*<br><a href="http://www.independent.co.uk/arts-entertainment/comedy/reviews/kim-noble-you-re-not-alone-soho-theatre-review-a-show-that-runs-on-surprise-and-shock-10036119.html" target="_blank">Alice Jones, The Independent</a>          
+>*Warped and explicit, it is very much not for the faint-hearted. It is also one of the oddest, funniest, saddest hours of comedy I ve seen.*<br><a href="http://www.independent.co.uk/arts-entertainment/comedy/reviews/kim-noble-you-re-not-alone-soho-theatre-review-a-show-that-runs-on-surprise-and-shock-10036119.html" target="_blank">Alice Jones, The Independent</a>       >*Hilarious, unforgettable, even moving.*<br>The Times   
          
 ####Credits          
 
 
 ####Websites          
-http://mrkimnoble.com | http://twitter.com/mrkimnoble @mrkimnoble
+<a href="http://mrkimnoble.com/when-you-can-see-bollocks-that-i-do" target="_blank">http://mrkimnoble.com</a> | <a href="http://twitter.com/mrkimnoble" target="_blank">@mrkimnoble</a> | #SICK!
