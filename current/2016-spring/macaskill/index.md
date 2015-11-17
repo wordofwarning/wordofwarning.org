@@ -19,8 +19,8 @@ header_image: ""
 *Presented by* Contact + Word of Warning *during* Queer Contact 2016         
        
 ####In Brief      
-A new performance about penis envy, masculinity, horses + DIY.                
-       
+A new performance about penis envy, female masculinity, horses + DIY.                
+              
 ####Venue + Booking Details    
 Dates: Thursday 4 — Saturday 6 February 2016, 9.30pm         
 [Venue: Contact (space 2?)](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA        
@@ -35,7 +35,7 @@ Age advisory: 16+ With no interval, the show lasts approximately ?? minutes. Pri
          
 In *STUD*, Eilidh MacAskill dons her chaps and asks if size really does matter. As she explores her own female masculinity with some help from Dr Freud himself alongside a patriarchal DIY expert, a macho cowboy and the famous talking horse Mister Ed, Eilidh ponders if she has Penis Envy or of it's all a load of bollocks.        
          
-A stripped back show for anyone who likes their psychoanalysis heteronormative and their cowboys in the buff.         
+An entertaining yet complex attack on gender binaries and masculinity from the point of view of a queer female; a stripped-back solo show for anyone who likes their psychoanalysis heteronormative and their cowboys in the buff.         
         
 ####Who is she?     
 COPY PLS          
@@ -48,4 +48,4 @@ COPY PLS
 Developed at BUZZCUT (April 2015) Residency, supported by Jerwood Charitable Foundation.        
         
 ####Websites          
-<a href="http://eilidhmacaskill.com/portfolio/stud-2" target="_blank">eilidhmacaskill.com</a> | <a href="http://twitter.com/EilidhUkulele" target="_blank">@EilidhUkulele</a>
+<a href="http://eilidhmacaskill.com/portfolio/stud-2" target="_blank">eilidhmacaskill.com</a> | <a href="http://twitter.com/EilidhUkulele" target="_blank">@EilidhUkulele</a> | #QC16
