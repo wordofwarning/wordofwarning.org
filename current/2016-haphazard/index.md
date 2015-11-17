@@ -28,10 +28,11 @@ Tickets: FREE no booking required, come + go as you please.
 Venue Tel: 0161 232 6089              
          
 ####More    
-[Haphazard 2013](/archive/2013-spring/haphazard) filled Z-arts to the brim with moving musical sculptures, a bouncy squeaky ping-pong dance and an underground labyrinth (only for the brave!) — [2015](/archive/2015-spring/haphazard) saw everything from quirky quoits to crotchety crochet, freaky food to a jungle jamboree, topped off with a dose of dotty dance and a plea to avenge the apiary (or save the bees!) — why not join us to see what 2016 will conjure? To get a feel for it have a look at images from [2013](/galleries/2013-haphazard) + [2015](/galleries/2015-haphazard).         
+[Haphazard 2013](/archive/2013-spring/haphazard) filled Z-arts to the brim with moving musical sculptures, a bouncy squeaky ping-pong dance and an underground labyrinth (only for the brave!) whilst [2015](/archive/2015-spring/haphazard) saw everything from quirky quoits to crotchety crochet, freaky food to a jungle jamboree, topped off with a dose of dotty dance and a plea to avenge the apiary (or save the bees!) — why not join us to see what 2016 will conjure? To get a feel for it have a look at images from [2013](/galleries/2013-haphazard) + [2015](/galleries/2015-haphazard).         
         
 ####What people have said about Haphazard        
+>• *need a quote or two*<br>[2015 Audience Feedback](/archive/2015-spring/haphazard)         
 >• *Great! Everyone was energetic & friendly — very easy to interact with!*<br>• *Suitably crazy & surreal for children and their grown-ups*.<br>• *Really enjoyed the event and it's particularly nice to experience something a bit different, especially as adults, it is quite eye-popping…*<br>[2013 Audience Feedback](/archive/2013-spring/haphazard)         
         
 ####Access Information    
-Haphazard 2016 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some parts of the building are not wheelchair accessible. Age advisory: suitable for all. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.
+[Haphazard](/hab/haphazard) 2016 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some parts of the building are not wheelchair accessible. Age advisory: suitable for all. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.
