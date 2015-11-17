@@ -42,10 +42,11 @@ Age advisory: Strictly 18+ (ID may be required when collecting tickets.) Contain
 >★★★★ *Fearless and tender.*<br><a href="http://www.standard.co.uk/goingout/theatre/kim-noble-you-re-not-alone-soho-theatre-review-10041114.html" target="_blank">Henry Hitchings, Evening Standard</a>        
 >4\* *…one of the most hypnotically involving pieces of theatre I’ve ever seen.*<br><a href="http://www.telegraph.co.uk/culture/theatre/edinburgh-festival/10995672/Edinburgh-theatre-2014-what-to-see.html" target="_blank">Laura Barnett, The Telegraph</a>        
 >*…dark and often troubling<br>…a unique window on the bleak comedy of human existence.*<br><a href="http://www.theguardian.com/stage/2015/feb/22/kim-noble-youre-not-alone-review-soho-theatre-london" target="_blank">Stephanie Merritt, The Guardian</a>           
->*Warped and explicit, it is very much not for the faint-hearted. It is also one of the oddest, funniest, saddest hours of comedy I ve seen.*<br><a href="http://www.independent.co.uk/arts-entertainment/comedy/reviews/kim-noble-you-re-not-alone-soho-theatre-review-a-show-that-runs-on-surprise-and-shock-10036119.html" target="_blank">Alice Jones, The Independent</a>       >*Hilarious, unforgettable, even moving.*<br>The Times   
+>*Warped and explicit, it is very much not for the faint-hearted. It is also one of the oddest, funniest, saddest hours of comedy I ve seen.*<br><a href="http://www.independent.co.uk/arts-entertainment/comedy/reviews/kim-noble-you-re-not-alone-soho-theatre-review-a-show-that-runs-on-surprise-and-shock-10036119.html" target="_blank">Alice Jones, The Independent</a>        
+>*Hilarious, unforgettable, even moving.*<br>The Times      
          
 ####Credits          
-
-
+Written + performed by Kim Noble | Co-directed by Kim Noble + Gary Reich | Music Production: Geoff Howse | Lighting Designer: Marty Langthorne             
+             
 ####Websites          
 <a href="http://mrkimnoble.com/when-you-can-see-bollocks-that-i-do" target="_blank">http://mrkimnoble.com</a> | <a href="http://twitter.com/mrkimnoble" target="_blank">@mrkimnoble</a> | #SICK!
