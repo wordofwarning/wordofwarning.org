@@ -37,8 +37,8 @@ Age advisory: 18+ With no interval, the show lasts approximately ?? minutes. Pri
 ???           
             
 ####What people have said about *You're Not Alone*        
->*…quote…*<br><a href="http://www.theguardian.com/stage/2015/feb/22/kim-noble-youre-not-alone-review-soho-theatre-london" target="_blank">The Guardian</a>           
->*…quote…*<br><a href="http://www.independent.co.uk/arts-entertainment/comedy/reviews/kim-noble-you-re-not-alone-soho-theatre-review-a-show-that-runs-on-surprise-and-shock-10036119.html" target="_blank">The Independent</a>          
+>*…dark and often troubling …a unique window on the bleak comedy of human existence.*<br><a href="http://www.theguardian.com/stage/2015/feb/22/kim-noble-youre-not-alone-review-soho-theatre-london" target="_blank">Stephanie Merritt, The Guardian</a>           
+>*Warped and explicit, it is very much not for the faint-hearted. It is also one of the oddest, funniest, saddest hours of comedy I ve seen. *<br><a href="http://www.independent.co.uk/arts-entertainment/comedy/reviews/kim-noble-you-re-not-alone-soho-theatre-review-a-show-that-runs-on-surprise-and-shock-10036119.html" target="_blank">Alice Jones, The Independent</a>          
          
 ####Credits          
 
