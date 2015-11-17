@@ -49,6 +49,7 @@ She has been awarded an ICA Attached Artist Award, a Millennium Fellowship Award
 >*…genuinely moving…*<br>[A Younger Theatre](http://www.ayoungertheatre.com/review-vespertime-chelsea-theatre-stacey-makishi)        
        
 ####Workshop: *Killing Time*        
+PLEASE NOTE THIS WORKSHOP IS NOW SOLD-OUT          
 Stacy is leading a workshop with [Divergency](/hab/divergencymcr) at Contact, open to all artists willing to try out new ideas and walk out into the unknown. Join her and find out how to move faster than you think, write quicker than edit, and create faster than critique! A two-hour workshop for anyone who's interested in learning about devising and performance.
         
 At Contact on Wednesday 18 November from 2.30pm to 4.30pm and suitable for over 16s, workshop tickets cost £10/6: book [online](http://contactmcr.com/whats-on/40697-stacy-makishi-workshop-killing-time) or call 0161 274 0600.           
