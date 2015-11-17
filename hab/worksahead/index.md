@@ -26,4 +26,5 @@ The **[third Works Ahead](/archive/2014-worksahead)** took place 8+9 May 2014 at
         
 Our **[fourth Works Ahead](/archive/2015-worksahead)** took place 24+25 April 2015 at Contact, with a double-bill from Nathan Birkinshaw + Jamil Keating: two young male artists questioning manliness in this digitised, disembodied, discombobulated era… See their [image gallery](/galleries/2015-woah).          
            
-Works Ahead is commissioned by hÅb + co-produced with Contact; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentor: Peader Kirk | <http://worksahead.org> | #WorksAhead
+Works Ahead is commissioned by hÅb + co-produced with Contact; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentor: Peader Kirk         
+<http://worksahead.org> | #WorksAhead
