@@ -434,8 +434,29 @@
 	.e2015 .splash
 		{background:url(../images/header_emergency15.jpg) center center}
 
-/* Spring 2016 Programme header needs adding
+/* Spring 2016 Programme header needs amending
 ------------------------------------------------------*/
 
 	.s2016 .splash
 		{background:url(../images/header_warni.jpg) -150px center}
+
+/* Haphazard 2016 yellow colour/header need amending
+------------------------------------------------------*/
+
+	.hh2016,
+	.hh2016 .artist, 
+	.hh2016 .show,
+	.hh2016 .season
+		{background:#f60; color:#000;}
+
+	.hh2016 a,
+	.hh2016 a:visited,
+	.hh2016 a:hover
+		{color:#000;}
+	.hh2016 nav a:hover,
+	.hh2016 article a:hover,
+	.hh2016 footer a:hover
+		{background: #000; color: #f60;}
+
+	.hh2016 .splash
+		{background:url(../images/header_haphazard.jpg) center center}
