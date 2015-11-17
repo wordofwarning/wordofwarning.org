@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: 2015-autumnwinter
+layout: 2016-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -23,9 +23,9 @@ header_image: ""
 ???
          
 ####Venue + Booking Details       
-Date: ??? March 2015, ?pm              
+Date: ??? March 2016, ?pm              
 [Venue: STUN Studio at Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA          
-[Tickets: £5)](http://z-arts.ticketsolve.com/shows/873540047/events/127519222) | Please note there is a limited capacity in the STUN Studio.         
+[Tickets: £5/3)](http://z-arts.ticketsolve.com/shows//events/) | Please note there is a limited capacity in the STUN Studio.         
 Box Office Tel: 0161 232 6089        
         
 ####Access Information      
