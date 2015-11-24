@@ -8,7 +8,7 @@ is_index: true
 ---
 ###Stimulating… extraordinary… performance…   
         
-Based in Manchester, hÅb is a producer, developer and strategic advocate of contemporary performance, live art and sited work in the North of England. greenroom's key partner for over a decade, hÅb aims to maintain its legacy, working in collaboration with a range of venues to produce showing opportunities, platforms and artist development projects like [Emergency](/hab/emergency), [Haphazard](/hab/haphazard), [Hazard](/hab/hazard), [Turn](/hab/turn), [Works Ahead](/hab/worksahead).    
+Based in Manchester, hÅb is a producer, developer and strategic advocate of contemporary performance, live art and sited work in the North of England. greenroom's key partner for over a decade, hÅb aims to maintain its legacy, working in collaboration with a range of venues to produce showing opportunities, platforms and artist development projects like [Emergency](/hab/emergency), [Hazard](/hab/hazard), [Works Ahead](/hab/worksahead) as well as [Haphazard](/hab/haphazard), [Turn](/hab/turn) (now seeking proposals).    
       
 Essentially industry-facing, hÅb works with artists, colleagues and venues to create the best possible opportunities for new work to flourish.
         
