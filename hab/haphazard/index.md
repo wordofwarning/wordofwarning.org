@@ -19,7 +19,7 @@ header_image: "header_haphazard.jpg"
         
 **In [2013](/archive/2013-spring/haphazard)** we filled Z-arts to the brim with moving musical sculptures, a bouncy squeaky ping-pong dance and an underground labyrinth (only for the brave!) — **[2015](/archive/2015-spring/haphazard)** saw everything from quirky quoits to crotchety crochet, freaky food to a jungle jamboree, topped off with a dose of dotty dance and a plea to avenge the apiary (or save the bees!); to get a feel for it have a look at [2013](/galleries/2013-haphazard) + [2015](/galleries/2015-haphazard) images.       
         
-Our **third Haphazard** takes over Z-arts on Saturday 20 February 2016, with audiences coming and going as they please between 12noon and 4pm… <br>**we now seek proposals from artists (by 5pm, Friday 8 January 2016):**          
+Our **third Haphazard** takes over Z-arts on Saturday 20 February 2016, with audiences coming and going as they please between 12noon and 4pm… <br>**We now seek proposals from artists (by 5pm, Friday 8 January).**          
          
 **This is not live art for children but live art for all ages**, so work should have appeal for adults and children alike (even if the kids need to explain it to the adults!). We have access to a variety of spaces — from black box to gallery to café (<a href="http://haphazard.posthaven.com/haphazard-2016-live-art-for-all-ages-call-for-artists" target="_blank">see our Space Info sheet</a>) — though the programme emphasis will be more on durational and 'come and go' work than traditional black-box shows.         
         
