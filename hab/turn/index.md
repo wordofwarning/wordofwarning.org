@@ -17,7 +17,7 @@ header_image: "header_turn_photo.jpg"
 ---
 **Turn 2016**, our eighth annual platform for North West dancers + dance-makers, is calling for proposals. Taking place on **Friday 22 + Saturday 23 April 2016** at Manchester's Contact, Turn 2016 is a hÅb, Contact, Dance Manchester co-production.    
   
-North West* dancers and dance-makers (aged 18+) are invited to submit proposals of short pieces of work, works-in-progress or extracts of longer works for inclusion in this annual event. To get a feel for it, have a look at the [2014 programme](/archive/2015-turn) + [gallery](/galleries/2015-turn).   
+North West* dancers and dance-makers (aged 18+) are invited to submit proposals of short pieces of work, works-in-progress or extracts of longer works for inclusion in this annual event. To get a feel for it, have a look at the [2015 programme](/archive/2015-turn) + [gallery](/galleries/2015-turn).   
  
 **Closing Deadline: 5pm, Friday 15 January 2016.**     
    
@@ -30,7 +30,7 @@ An open submission dance platform for North West* dancers + dance-makers:
 Proposals should be for pieces with some live presence, 20 minutes maximum for show-type work, technically simple, adaptable to quick turnarounds and suitable for showing alongside other pieces.    
 Sited and intervention-based works in and around the venue (Contact) are also strongly encouraged.    
 We are also accepting proposals for video based work to be screened around the building.     
-* *effectively Cheshire, Cumbria, Greater Manchester, Lancashire + Merseyside. ie NOT Yorkshire*    
+* *effectively Cheshire, Cumbria, Greater Manchester, Lancashire + Merseyside: **NOT** Yorkshire*    
 
 **Turn:**      
 ● a public platform;    
@@ -51,11 +51,10 @@ N.B. We would appreciate it if everyone could use the online form, but if you ha
   
 **Closing Deadline: 5pm, Friday 15 January 2016.**    
   
-Notes:    
-The proposal form must be completed at one sitting (you can't save and return to it later) so please copy and paste the longer elements from another document.    
-Turn 2016 will offer an honorarium of up to £100 per piece selected, to cover fees/expenses for NW artists.    
-There will be a **technical meeting for ALL selected artists on Saturday 9 March 2016 (daytime)**.    
-        
-Enquiries: <mailto:turn@habarts.org> ¦ <http://turnmcr.org> ¦ #TurnMcr    
+**Notes:**    
+● The proposal form must be completed at one sitting (you can't save and return to it later) so please copy and paste the longer elements from another document.    
+● Turn 2016 will offer an honorarium of up to £100 per piece selected, to cover fees/expenses for NW artists.    
+● There will be a **technical meeting for ALL selected artists on Saturday 9 March 2016 (daytime)**.    
+● Enquiries: <mailto:turn@habarts.org> | <http://turnmcr.org> | #TurnMcr    
         
 Taking place at Contact on 22 + 23 April 2016, Turn 2016 is presented by Word of Warning + Contact; co-produced by hÅb, Contact + Dance Manchester; supported using public funding through Arts Council England + funded by Manchester City Council.
