@@ -54,8 +54,8 @@ N.B. We would appreciate it if everyone could use the online form, but if you ha
 Notes:    
 The proposal form must be completed at one sitting (you can't save and return to it later) so please copy and paste the longer elements from another document.    
 Turn 2016 will offer an honorarium of up to £100 per piece selected, to cover fees/expenses for NW artists.    
-There will be a **technical meeting for ALL selected artists on Saturday 9 March 2015 (daytime)**.    
+There will be a **technical meeting for ALL selected artists on Saturday 9 March 2016 (daytime)**.    
         
 Enquiries: <mailto:turn@habarts.org> ¦ <http://turnmcr.org> ¦ #TurnMcr    
         
-Taking place at Contact on 22 + 23 April 2016, Turn 2015 is presented by Word of Warning + Contact; co-produced by hÅb, Contact + Dance Manchester; supported using public funding through Arts Council England + funded by Manchester City Council.
+Taking place at Contact on 22 + 23 April 2016, Turn 2016 is presented by Word of Warning + Contact; co-produced by hÅb, Contact + Dance Manchester; supported using public funding through Arts Council England + funded by Manchester City Council.
