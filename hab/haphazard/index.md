@@ -21,7 +21,7 @@ In [2013](/archive/2013-spring/haphazard) we filled Z-arts to the brim with movi
         
 Our **third Haphazard** takes over Z-arts on Saturday 20 February 2016 (turn up at any time 12noon to 4pm, come and go as you please) and we now seek proposals from artists.    
 **This is not live art for children but live art for all ages**, so work should have appeal for adults and children alike (even if the kids need to explain it to the adults!)     
-We have access to a variety of spaces - from black box to gallery to café (see [space info sheet](http://haphazard.posthaven.com/haphazard-2014-live-art-for-all-ages-call-for-artists) - though the programme emphasis will be more on durational and ‘come and go’ work than traditional black-box shows.    
+We have access to a variety of spaces - from black box to gallery to café (see [space info sheet](http://haphazard.posthaven.com/haphazard-2016-live-art-for-all-ages-call-for-artists) - though the programme emphasis will be more on durational and ‘come and go’ work than traditional black-box shows.    
 **We have a small budget and expect to pay up to £300 for smaller pieces/interventions, up to a max of £1000 for one main ‘focal’ work.**    
  to apply, please complete online <a href="http://habarts.wufoo.eu/forms/haphazard-2016-proposal-form" target="_blank">application</a> + <a href="http://habarts.wufoo.eu/forms/hab-monitoring-form" target="_blank">monitoring</a> forms.      
  
