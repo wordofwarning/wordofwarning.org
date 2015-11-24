@@ -30,12 +30,13 @@ An open submission dance platform for North West* dancers + dance-makers:
 Proposals should be for pieces with some live presence, 20 minutes maximum for show-type work, technically simple, adaptable to quick turnarounds and suitable for showing alongside other pieces.    
 Sited and intervention-based works in and around the venue (Contact) are also strongly encouraged.    
 We are also accepting proposals for video based work to be screened around the building.     
-**effectively Cheshire, Cumbria, Greater Manchester, Lancashire + Merseyside. ie NOT Yorkshire*    
+* *effectively Cheshire, Cumbria, Greater Manchester, Lancashire + Merseyside. ie NOT Yorkshire*    
 
-**Turn:**     
+**Turn:**      
 ● a public platform;    
 ● an opportunity for artists to meet, show and peer review work;    
-● an artist networking event;      
+● an artist networking event;    
+● a selection platform for the Turn Prize (a small, supported commission, supported by Dance Manchester, Contact + hÅb).      
 
 We are looking for dance in any form which uses the artists' creativity, has strong concept, original choreography and professional aspiration. For example, alongside Contemporary, we'd be interested in hearing about street dancers who are looking to choreograph a piece rather than to present a demonstration of  skill; or classical work (from Ballet to Kathak, African and Chinese dance to Bharata Natyam) that is being re-imagined or re-explored, rather than a straight re-presentation of classic choreography.    
  
