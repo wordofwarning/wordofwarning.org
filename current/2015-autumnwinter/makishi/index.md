@@ -19,8 +19,10 @@ header_image: "header_makishi.jpg"
 *Presented by* Contact + Word of Warning         
        
 ####In Brief      
-A characteristically quirky, subversive sermon of soul searching, humour + absurd home truths… See Stacy talk about *Vesper Time* <a href="http://youtu.be/KFOtqN6ocGk" target="_blank">on YouTube</a> + read a <a href="http://totaltheatre.org.uk/stacy-makishi-vesper-time" target="_blank">new review</a> from Total Theatre Magazine (*NB spoilers!*).                
+A characteristically quirky, subversive sermon of soul searching, humour + absurd home truths… See Stacy talk about *Vesper Time* <a href="http://youtu.be/KFOtqN6ocGk" target="_blank">on YouTube</a>.                
        
+Now that it's over, read <a href="http://quietmandave.co.uk/2015/11/vesper-time-2" target="_blank">QuietManDave's review</a>.           
+             
 ####Venue + Booking Details    
 Dates: Tuesday 17 + Wednesday 18 November 2015, 8pm         
 [Venue: Contact (space 1)](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA        
@@ -47,6 +49,7 @@ She has been awarded an ICA Attached Artist Award, a Millennium Fellowship Award
 ####What people have said about *Vesper Time*        
 >*…charismatically witty yet painful and honest…*<br>[Total Theatre](http://totaltheatre.org.uk/vespertime)       
 >*…genuinely moving…*<br>[A Younger Theatre](http://www.ayoungertheatre.com/review-vespertime-chelsea-theatre-stacey-makishi)        
+>A <a href="http://totaltheatre.org.uk/stacy-makishi-vesper-time" target="_blank">newer review</a> from Total Theatre Magazine *with spoilers!*               
        
 ####Workshop: *Killing Time*        
 PLEASE NOTE THIS WORKSHOP IS NOW SOLD-OUT          
