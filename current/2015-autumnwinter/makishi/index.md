@@ -49,7 +49,7 @@ She has been awarded an ICA Attached Artist Award, a Millennium Fellowship Award
 ####What people have said about *Vesper Time*        
 >*…charismatically witty yet painful and honest…*<br>[Total Theatre](http://totaltheatre.org.uk/vespertime)       
 >*…genuinely moving…*<br>[A Younger Theatre](http://www.ayoungertheatre.com/review-vespertime-chelsea-theatre-stacey-makishi)        
->A <a href="http://totaltheatre.org.uk/stacy-makishi-vesper-time" target="_blank">newer review</a> from Total Theatre Magazine *with spoilers!*               
+A newer review from <a href="http://totaltheatre.org.uk/stacy-makishi-vesper-time" target="_blank">Total Theatre</a> (with spoilers!).               
        
 ####Workshop: *Killing Time*        
 PLEASE NOTE THIS WORKSHOP IS NOW SOLD-OUT          
