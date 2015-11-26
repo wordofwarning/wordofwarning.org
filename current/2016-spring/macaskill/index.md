@@ -23,7 +23,7 @@ A new performance about penis envy, female masculinity, horses + DIY.
               
 ####Venue + Booking Details    
 Dates: Thursday 4 — Saturday 6 February 2016, 9.30pm         
-[Venue: Contact (space 2?)](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA        
+[Venue: Contact (space 2)](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA        
 [Tickets: £13/7](https://contactmcr.com/whats-on/46294-qc16-eilidh-macaskill-stud/booking) | Special offer: buy nine tickets + get your tenth free.    
 Box Office Tel: 0161 274 0600         
         
