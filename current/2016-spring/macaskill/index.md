@@ -23,8 +23,9 @@ A new performance about penis envy, female masculinity, horses + DIY.
               
 ####Venue + Booking Details    
 Dates: Thursday 4 — Saturday 6 February 2016, 9.30pm         
-[Venue: Contact (space 2)](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA        
-<a href="https://contactmcr.com/whats-on/46294-qc16-eilidh-macaskill-stud/booking" target="_blank">Tickets: £13/7</a> | Special ticket deals:<br>• Book for 2 <a href="http://www.contactmcr.com/queercontact" target="_blank">Queer Contact 2016</a> shows (incl. *STUD*) + get 10% off;<br>• Book for 3 <a href="http://www.contactmcr.com/queercontact" target="_blank">Queer Contact 2016</a> shows (incl. *STUD*) + get 15% off;<br>• Book 6 (full or concession) tickets for *STUD* in a single transaction + get £1 off each ticket;<br>• Buy 10 (full or concession) tickets for *STUD* + get your 11th free.          
+<a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact (space 2)</a>, Oxford Road, Manchester, M15 6JA             
+<a href="https://contactmcr.com/whats-on/46294-qc16-eilidh-macaskill-stud/booking" target="_blank">Tickets: £13/7</a> | Special ticket deals† available during <a href="http://www.contactmcr.com/queercontact" target="_blank">Queer Contact 2016</a>:<br>• Book for 2 Queer Contact 2016 shows (incl. *STUD*) + get 10% off;<br>• Book for 3 Queer Contact 2016 shows (incl. *STUD*) + get 15% off;<br>• Book 6 (full or concession) tickets for *STUD* + get £1 off each ticket;<br>• Buy 10 (full or concession) tickets for *STUD* + get your 11th free;<br>†T&Cs: tickets must be booked in a single transaction, offer cannot be applied retrospectively. Exclusions apply, visit <a href="http://www.contactmcr.com/ticketoffers" target="_blank">contactmcr.com/ticketoffers</a> for full details.
+          
           
 Box Office Tel: 0161 274 0600         
         
