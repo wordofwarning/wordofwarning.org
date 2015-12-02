@@ -24,28 +24,29 @@ A new performance about penis envy, female masculinity, horses + DIY.
 ####Venue + Booking Details    
 Dates: Thursday 4 — Saturday 6 February 2016, 9.30pm         
 [Venue: Contact (space 2)](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA        
-[Tickets: £13/7](https://contactmcr.com/whats-on/46294-qc16-eilidh-macaskill-stud/booking) | Special offer: buy nine tickets + get your tenth free.    
+<a href="https://contactmcr.com/whats-on/46294-qc16-eilidh-macaskill-stud/booking" target="_blank">Tickets: £13/7</a> | Special ticket deals:<br>• Book for 2 <a href="http://www.contactmcr.com/queercontact" target="_blank">Queer Contact 2016</a> shows (incl. *STUD*) + get 10% off;<br>• Book for 3 <a href="http://www.contactmcr.com/queercontact" target="_blank">Queer Contact 2016</a> shows (incl. *STUD*) + get 15% off;<br>• Book 6 (full or concession) tickets for *STUD* in a single transaction + get £1 off each ticket;<br>• Buy 10 (full or concession) tickets for *STUD* + get your 11th free.          
+          
 Box Office Tel: 0161 274 0600         
         
 ####Access Information        
-Age advisory: 16+ With no interval, the show lasts approximately ?? minutes. Primarily English spoken word, contains nudity + material some audience members may find offensive. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
+Age advisory: 16+ With no interval, the show lasts approximately 50 minutes. Primarily English spoken word, features nudity, strong language and sexual themes). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
 ####More      
 *Tell, me about it, Stud. Well, Dr Freud tells me I'm missing something and I think he's right. He tells me that until I get over it and turn my desire for that missing thing into a desire for a baby I'm gonna be in deep shit. He also tells me he doesn't really get chicks…*           
          
 In *STUD*, Eilidh MacAskill dons her chaps and asks if size really does matter. As she explores her own female masculinity with some help from Dr Freud himself alongside a patriarchal DIY expert, a macho cowboy and the famous talking horse Mister Ed, Eilidh ponders if she has Penis Envy or of it's all a load of bollocks.        
          
-An entertaining yet complex attack on gender binaries and masculinity from the point of view of a queer female; a stripped-back solo show for anyone who likes their psychoanalysis heteronormative and their cowboys in the buff.         
+An attack on gender binaries and masculinity from the point of view of a queer female; a stripped-back solo show for anyone who likes their psychoanalysis heteronormative and their cowboys in the buff.         
         
 ####Who is she?     
 COPY PLS          
        
 ####What people have said about *STUD*        
->4\* *…a fully-frontal assault …it's whimsical. And hilarious …cogent and provocative.*<br><a href="http://www.heraldscotland.com/arts_ents/13206858.Review__BuzzCut__Pearce_Institute__Glasgow" target="_blank">Mary Brennan, The Herald</a>          
->*…MacAskill’s performance is full of kinks as she offers a challenge to misogyny.*<br><a href="http://exeuntmagazine.com/reviews/steakhouse-live-2" target="_blank">Amelia Forsbrook, Exeunt</a>         
+>*…fully-frontal assault …it's whimsical. And hilarious*<br><a href="http://www.heraldscotland.com/arts_ents/13206858.Review__BuzzCut__Pearce_Institute__Glasgow" target="_blank">Mary Brennan, The Herald</a>          
+>*…MacAskill's performance is full of kinks as she offers a challenge to misogyny.*<br><a href="http://exeuntmagazine.com/reviews/steakhouse-live-2" target="_blank">Amelia Forsbrook, Exeunt</a>         
          
 ####Credits          
 Developed at BUZZCUT (April 2015) Residency, supported by Jerwood Charitable Foundation.        
         
 ####Websites          
-<a href="http://eilidhmacaskill.com/portfolio/stud-2" target="_blank">eilidhmacaskill.com</a> | <a href="http://twitter.com/EilidhUkulele" target="_blank">@EilidhUkulele</a> | #QC16
+<a href="http://eilidhmacaskill.com/portfolio/stud-2" target="_blank">eilidhmacaskill.com</a> | <a href="http://twitter.com/EilidhUkulele" target="_blank">@EilidhUkulele</a> | <a href="http://www.contactmcr.com/queercontact" target="_blank">Queer Contact 2016</a>
