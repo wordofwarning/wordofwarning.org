@@ -6,10 +6,10 @@ rootpath: "../../"
 is_index: true
 
 ---
-RE-WRITE to incl [Eilidh](/current/2016-spring/macaskill), [Sampler???](/current/2016-spring/sampler), [Kim](/current/2016-spring/noble), [Haphazard](/current/2016-haphazard).             
+*Book-ended by random horse metaphors, this short, sharp shock of a season spans just six weeks and takes a canter through [gender binaries](/current/2016-spring/macaskill), the [darker side of intimacy](/current/2016-spring/noble) and, on a lighter note, a [bonkers bash for the young at heart](/current/2016-haphazard).<br>Before we ride off into the Easter sunset, you might also just catch us doing some eggy filming out on the streets…*          
+          
+[Sampler???](/current/2016-spring/sampler)         
             
-*A season under construction — from a [one-off, never to be repeated trip around a building in transition](/current/2015-domestic), to a [sweet sixteenth](/current/2015-emergency), with a [digital swirl of dance](/current/2015-autumnwinter/pritchard) and the [beatification of an old friend](/current/2015-autumnwinter/makishi).*       
-        
 We look forward to seeing you at some or all of it; if you want to check out what happened last season, have a look at our [Autumn/Winter 2015 archive](/archive/2015-autumnwinter).        
         
 ####What is Word of Warning + where did it come from?
