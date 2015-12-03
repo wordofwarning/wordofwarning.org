@@ -6,7 +6,7 @@ rootpath: "../../"
 is_index: true
 
 ---
-RE-WRITE to incl [Eilidh](/current/2016-spring/macaskill), [Sampler Series](/current/2016-spring/sampler), [Kim](/current/2016-spring/noble).             
+RE-WRITE to incl [Eilidh](/current/2016-spring/macaskill), [Sampler???](/current/2016-spring/sampler), [Kim](/current/2016-spring/noble), [Haphazard](/current/2016-haphazard).             
             
 *A season under construction — from a [one-off, never to be repeated trip around a building in transition](/current/2015-domestic), to a [sweet sixteenth](/current/2015-emergency), with a [digital swirl of dance](/current/2015-autumnwinter/pritchard) and the [beatification of an old friend](/current/2015-autumnwinter/makishi).*       
         
