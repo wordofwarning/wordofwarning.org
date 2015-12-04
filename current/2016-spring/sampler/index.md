@@ -5,7 +5,7 @@ layout: 2016-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "tbc" # the name of the artist or company
+artist: "Vincent Gambini tbc" # the name of the artist or company
 show: "Sampler Series" # the name of the show
 artist_size: 1
 show_size: 2
@@ -23,11 +23,11 @@ header_image: ""
 ???
          
 ####Venue + Booking Details       
-Date: ??? March 2016, ?pm              
-[Venue: STUN Studio at Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA          
-[Tickets: £5/3)](http://z-arts.ticketsolve.com/shows//events/) | Please note there is a limited capacity in the STUN Studio.         
-Box Office Tel: 0161 232 6089        
-        
+Date: Thursday 25 February 2016, 7.30pm              
+<a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
+Entry by donation, no booking required | Please note there is a limited capacity in the STUN Studio + entry will be on a first come, first served basis.        
+Venue (Z-arts) Tel: 0161 232 6089             
+              
 ####Access Information      
 Age advisory: ??+ With an interval, the evening will last approximately ?? minutes. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
       
@@ -45,3 +45,4 @@ Age advisory: ??+ With an interval, the evening will last approximately ?? minut
 ####Credits         
 
 ####Websites    
+<a href="http://URL" target="_blank">URL</a> | <a href="https://twitter.com/" target="_blank">@</a>
