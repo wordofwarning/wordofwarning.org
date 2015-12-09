@@ -26,13 +26,10 @@ See his <a href="http://youtu.be/ZpI9fdp87Y8" target="_blank">trailer</a>.
 ####Venue + Booking Details    
 Date: Saturday 12 March 2016, 8pm         
 <a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact (space 1)</a>, Oxford Road, Manchester, M15 6JA         
-<a href="http://contactmcr.com/whats-on/46699-kim-noble-youre-not-alone/booking/" target="_blank">Tickets: £13/7</a> | Special ticket deals† available during <a href="http://www.contactmcr.com/queercontact" target="_blank"> Contact Spring/Summer 2016 season </a>:<br>• Book for 2 Contact S/S 2016 shows (incl. *Y N A*) + get 10% off;<br>• Book for 3 Contact S/S 2016 shows (incl. *Y N A*) + get 15% off;<br>• Book 6 (full or concession) tickets for *Y N A* + get £1 off each ticket;<br>• Buy 10 (full or concession) tickets for *Y N A* + get your 11th free.
-
-† T&Cs: tickets must be booked in a single transaction, offer cannot be applied retrospectively. Exclusions apply, visit <a href="http://www.contactmcr.com/ticketoffers" target="_blank">contactmcr.com/ticketoffers</a> for full details.              
-Box Office Tel: 0161 274 0600         
-           
-Box Office Tel: 0161 274 0600         
-        
+<a href="http://contactmcr.com/whats-on/46699-kim-noble-youre-not-alone/booking" target="_blank">Tickets: £13/7</a> | Special ticket deals† at <a href="http://contactmcr.com/whats-on" target="_blank">Contact during Spring/Summer 2016</a>:<br>• Book for 2 Contact Spring/Summer 2016 shows (incl. *Y N A*) + get 10% off;<br>• Book for 3 Contact Spring/Summer 2016 shows (incl. *Y N A*) + get 15% off;<br>• Book 6 (full or concession) tickets for *Y N A* + get £1 off each ticket;<br>• Buy 10 (full or concession) tickets for *Y N A* + get your 11th free.                  
+† T&Cs: tickets must be booked in a single transaction, offer cannot be applied retrospectively; exclusions apply, visit <a href="http://www.contactmcr.com/ticketoffers" target="_blank">contactmcr.com/ticketoffers</a> for details.              
+Box Office Tel: 0161 274 0600          
+          
 ####Access Information        
 Age advisory: Strictly 18+ (ID may be required when collecting tickets.) Contains adult content and material that some audience members may find offensive. With no interval, the show lasts approximately 60 minutes. Primarily English spoken word + audio-visual presentation???. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
