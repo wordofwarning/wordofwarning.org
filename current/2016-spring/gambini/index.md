@@ -6,9 +6,9 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Vincent Gambini" # the name of the artist or company
-show: "INFORMAL" # the name of the show
+show: "This Is Not A Magic Show" # the name of the show
 artist_size: 1
-show_size: 1
+show_size: 3
 header_image: ""
 
 # ABOUT THE SHOW - LAYOUT
@@ -20,8 +20,10 @@ header_image: ""
 *Presented by* Word of Warning       
            
 ####In Brief     
-???
-         
+copy 1         
+        
+copy 2         
+          
 ####Venue + Booking Details       
 Date: Friday 4 March 2016, 7.30pm              
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
@@ -31,18 +33,22 @@ Venue (Z-arts) Tel: 0161 232 6089
 ####Access Information      
 Age advisory: ??+ With an interval, the evening will last approximately ?? minutes. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
       
-###*This Is Not A Magic Show* by Vincent Gambini         
-
 ####More        
         
         
-####Who is he?    
+####Who is Vincent Gambini?    
        
          
-####What people have said about *???*        
+####What people have said about *This Is Not A Magic Show*        
 
+
+
+####Who is Top Joe?    
         
+             
 ####Credits         
-
+This Is Not A Magic Show =          
+Top Joe =        
+           
 ####Websites    
-<a href="http://URL" target="_blank">URL</a> | <a href="https://twitter.com/" target="_blank">@</a>
+<a href="http://URL" target="_blank">URL</a> | <a href="https://twitter.com/" target="_blank">@</a> | <a href="http://URL" target="_blank">URL</a> | <a href="https://twitter.com/" target="_blank">@</a>
