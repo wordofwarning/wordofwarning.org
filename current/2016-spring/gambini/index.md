@@ -6,9 +6,9 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Vincent Gambini" # the name of the artist or company
-show: "This Is Not A Magic Show" # the name of the show
+show: "This is not a magic show" # the name of the show
 artist_size: 1
-show_size: 3
+show_size: 2
 header_image: ""
 
 # ABOUT THE SHOW - LAYOUT
@@ -20,10 +20,8 @@ header_image: ""
 *Presented by* Word of Warning       
            
 ####In Brief     
-copy 1         
-        
-copy 2         
-          
+Forget everything you know about magic and magicians.<br>Now remember it all again.<br>Join us for the first of our *Informal* evenings of sneak peeks and exclusive glimpses — the mysteriously dextrous Gambini and guest trick from Top Joe.        
+         
 ####Venue + Booking Details       
 Date: Friday 4 March 2016, 7.30pm              
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
@@ -31,24 +29,33 @@ Entry by donation, no booking required | *Please note there is a limited capacit
 Venue (Z-arts) Tel: 0161 232 6089             
               
 ####Access Information      
-Age advisory: ??+ With an interval, the evening will last approximately ?? minutes. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
+Age advisory: 14?+ With an interval, the evening will last approximately 1 hour + ?? minutes. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
       
 ####More        
+A performance of and about sleight-of-hand magic: its invisible mechanics, its clichés, and what it tells us about live theatre and make-believe. In a conversational yet crafted approach, Gambini presents astonishing close-up magic that invites us to question how enchantment and wonder are produced within a theatrical situation.        
         
+Possibly the first of its kind, *This is not a magic show* is part performance-lecture, part deconstructed showbiz, and part magic trick(s) that leave you, like, omg.         
+        
+A guest trick from Top Joe precedes Vincent Gambini's *This is not a magic show*.        
         
 ####Who is Vincent Gambini?    
-       
-         
-####What people have said about *This Is Not A Magic Show*        
-
-
-
-####Who is Top Joe?    
+London-based, over the last 10 years his performances have taken him across Europe, the US, and South America. His speciality is sleight-of-hand with cards and coins, performed at very close quarters. He combines magic with elements of theatre, performance art and spoken word, all to create new forms of deception.        
         
+As a teen he won 1st prize at the Italian Close-up Magic competition, and 2nd prize at the International competition in London. In 2001 he gained entry to the Magic Circle by writing a thesis called 'Deconstucting Magic' which, as a title, does a good job at describing what he does now.        
+          
+####What people have said about *This is not a magic show*        
+>4\* *…quote…*<br><a href="http://URL" target="_blank">The Guardian (Edinburgh 2015)</a>         
+>4\* *…quote…*<br><a href="http://URL" target="_blank">Time Out (Edinburgh 2015)</a>           
+>4\* *…quote…*<br><a href="http://URL" target="_blank">Fest Mag (Edinburgh 2015)</a>           
+>4\* *…quote…*<br><a href="http://URL" target="_blank">The Stage (Edinburgh 2015)</a>         
+         
+####Who is Top Joe?    
+CJ/TJ BIOG        
              
 ####Credits         
-This Is Not A Magic Show =          
-Top Joe =        
+Material for *This is not a magic show* was first developed during a residency at Rhubaba Gallery, Edinburgh.        
+        
+Top Joe ???       
            
 ####Websites    
-<a href="http://URL" target="_blank">URL</a> | <a href="https://twitter.com/" target="_blank">@</a> | <a href="http://URL" target="_blank">URL</a> | <a href="https://twitter.com/" target="_blank">@</a>
+<a href="http://www.vincentgambini.com" target="_blank">www.vincentgambini.com</a> | <a href="http://twitter.com/Gambinimagic" target="_blank">@Gambinimagic</a><br><a href="http://vimeo.com/topjoe" target="_blank">vimeo.com/topjoe</a> | <a href="http://twitter.com/toptopjoe" target="_blank">@toptopjoe</a>
