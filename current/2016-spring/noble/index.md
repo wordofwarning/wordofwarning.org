@@ -19,10 +19,12 @@ header_image: ""
 *Presented by* Contact, Word of Warning + SICK! Festival *during* SICK! Lab          
        
 ####In Brief      
-Blending performance, comedy and film, Kim Noble tries to get close to other people on this planet. Keith for instance. You maybe.        
+A darkly comic take on one man’s attempts at connection, friendship and employment at B&Q.         
+        
+Through tower block, supermarket and Facebook, Kim seeks an escape from the loneliness of modern society and tries to get close to others. *Too close, maybe…*           
           
 See his <a href="http://youtu.be/ZpI9fdp87Y8" target="_blank">trailer</a>.                
-       
+           
 ####Venue + Booking Details    
 Date: Saturday 12 March 2016, 8pm         
 <a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact (space 1)</a>, Oxford Road, Manchester, M15 6JA         
@@ -49,7 +51,7 @@ Kim is an In Between Time (Bristol) Associate Artist.
 >*Hilarious, unforgettable, even moving.*<br>The Times      
          
 ####Credits          
-Written + performed by Kim Noble | Co-directed by Kim Noble + Gary Reich | Music Production: Geoff Howse | Lighting Designer: Marty Langthorne<br>Produced + presented by In Between Time in assocaiation with Soho Theatre.           
+Written + performed by Kim Noble | Co-directed by Kim Noble + Gary Reich | Music Production: Geoff Howse | Lighting Designer: Marty Langthorne<br>Produced + presented by In Between Time in assocaiation with Soho Theatre.<br>Presented during SICK! Lab, a 4-day programme exploring what makes us who we are (Wed 9 — Sat 12 Mar).              
              
 ####Websites          
-<a href="http://mrkimnoble.com/when-you-can-see-bollocks-that-i-do" target="_blank">http://mrkimnoble.com</a> | <a href="http://twitter.com/mrkimnoble" target="_blank">@mrkimnoble</a> | #SICK
+<a href="http://mrkimnoble.com/when-you-can-see-bollocks-that-i-do" target="_blank">mrkimnoble.com</a> | <a href="http://twitter.com/mrkimnoble" target="_blank">@mrkimnoble</a> | #yourenotalone<br><a href="http://sickfestival.com" target="_blank">sickfestival.com</a> | <a href="http://twitter.com/SICK!Festival" target="_blank">@SICK!Festival</a>
