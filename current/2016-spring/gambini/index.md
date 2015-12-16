@@ -20,34 +20,36 @@ header_image: ""
 *Presented by* Word of Warning       
            
 ####In Brief     
-Forget everything you know about magic and magicians.<br>Now remember it all again.<br>Join us for the first of our *Informal* evenings of sneak peeks and exclusive glimpses — the mysteriously dextrous Gambini and guest trick from Top Joe.        
+Forget everything you know about magic and magicians.<br>Now remember it all again.          
+         
+Join us for the first of our *Informal* evenings of sneak peeks and exclusive glimpses — the mysteriously dextrous Gambini and guest trick from Top Joe.        
          
 ####Venue + Booking Details       
 Date: Friday 4 March 2016, 7.30pm              
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
-Entry by donation, no booking required | *Please note there is a limited capacity in the STUN Studio + entry will be on a first come, first served basis.*        
+Entry by donation, no booking required. *Please note there is a limited capacity in the STUN Studio + entry will be on a first come, first served basis.*        
 Venue (Z-arts) Tel: 0161 232 6089             
               
 ####Access Information      
 Age advisory: 14?+ With an interval, the evening will last approximately 1 hour + ?? minutes. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
       
 ####More        
-A performance of and about sleight-of-hand magic: its invisible mechanics, its clichés, and what it tells us about live theatre and make-believe. In a conversational yet crafted approach, Gambini presents astonishing close-up magic that invites us to question how enchantment and wonder are produced within a theatrical situation.        
+A performance of and about sleight-of-hand magic: its invisible mechanics, its clichés, and what it tells us about live theatre and make-believe.<br>In a conversational yet crafted approach, Gambini presents astonishing close-up magic that invites us to question how enchantment and wonder are produced within a theatrical situation.        
         
-Possibly the first of its kind, *This is not a magic show* is part performance-lecture, part deconstructed showbiz, and part magic trick(s) that leave you, like, omg.         
+Possibly the first of its kind, *This is not a magic show* is part performance-lecture, part deconstructed showbiz, and part magic trick that leaves you, like, omg.         
         
 A guest trick from Top Joe precedes Vincent Gambini's *This is not a magic show*.        
         
 ####Who is Vincent Gambini?    
-London-based, over the last 10 years his performances have taken him across Europe, the US, and South America. His speciality is sleight-of-hand with cards and coins, performed at very close quarters. He combines magic with elements of theatre, performance art and spoken word, all to create new forms of deception.        
+London-based, over the last 10 years his performances have taken him across Europe, the U.S. + South America. Specialising in sleight-of-hand with cards and coins, performed at very close quarters, he combines magic with elements of theatre, performance art and spoken word, all to create new forms of deception.        
         
 As a teen he won 1st prize at the Italian Close-up Magic competition, and 2nd prize at the International competition in London. In 2001 he gained entry to the Magic Circle by writing a thesis called 'Deconstucting Magic' which, as a title, does a good job at describing what he does now.        
           
-####What people have said about *This is not a magic show*        
->4\* *…quote…*<br><a href="http://URL" target="_blank">The Guardian (Edinburgh 2015)</a>         
->4\* *…quote…*<br><a href="http://URL" target="_blank">Time Out (Edinburgh 2015)</a>           
->4\* *…quote…*<br><a href="http://URL" target="_blank">Fest Mag (Edinburgh 2015)</a>           
->4\* *…quote…*<br><a href="http://URL" target="_blank">The Stage (Edinburgh 2015)</a>         
+####What people have said about *This is not a magic show* (Edinburgh 2015)        
+>★★★★<br><a href="http://URL" target="_blank">The Guardian</a>         
+>★★★★<br><a href="http://URL" target="_blank">Time Out</a>          
+>★★★★<br><a href="http://URL" target="_blank">Fest Mag</a>           
+>★★★★<br><a href="http://URL" target="_blank">The Stage</a>         
          
 ####Who is Top Joe?    
 CJ/TJ BIOG        
