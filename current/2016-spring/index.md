@@ -6,10 +6,8 @@ rootpath: "../../"
 is_index: true
 
 ---
-*Book-ended by random horse metaphors, this short, sharp shock of a season spans just six weeks and takes a canter through [gender binaries](/current/2016-spring/macaskill), the [darker side of intimacy](/current/2016-spring/noble) and, on a lighter note, a [bonkers bash for the young at heart](/current/2016-haphazard).<br>Before we ride off into the Easter sunset, you might also just catch us doing some eggy filming out on the streets…*          
+*Book-ended by random horse metaphors, this short, sharp shock of a season spans just six weeks and takes a [canter through gender binaries](/current/2016-spring/macaskill), the [darker side of intimacy](/current/2016-spring/noble), [stupendous magic](/current/2016-spring/gambini) and a [bonkers bash for the young at heart](/current/2016-haphazard). Before we ride off into the Easter sunset, you might also just catch us doing some eggy filming out on the streets…*          
           
-[Informal](/current/2016-spring/informal)         
-            
 We look forward to seeing you at some or all of it; if you want to check out what happened last season, have a look at our [Autumn/Winter 2015 archive](/archive/2015-autumnwinter).        
         
 ####What is Word of Warning + where did it come from?
