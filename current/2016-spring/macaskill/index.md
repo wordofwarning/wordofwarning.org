@@ -19,8 +19,8 @@ header_image: ""
 *Presented by* Contact + Word of Warning *during* Queer Contact 2016         
        
 ####In Brief      
-A new performance about penis envy, female masculinity, horses + DIY.                
-              
+Donning her chaps to ask if size really does matter, MacAskill delivers a full-frontal assault on penis envy, female masculinity, horses and DIY.  *Tell me about it, Stud…*        
+         
 ####Venue + Booking Details    
 Dates: Thursday 4 — Saturday 6 February 2016, 9.30pm         
 <a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact (space 2)</a>, Oxford Road, Manchester, M15 6JA             
@@ -39,7 +39,7 @@ In *STUD*, Eilidh MacAskill dons her chaps and asks if size really does matter. 
 An attack on gender binaries and masculinity from the point of view of a queer female; a stripped-back solo show for anyone who likes their psychoanalysis heteronormative and their cowboys in the buff.         
         
 ####Who is she?     
-COPY PLS          
+BIOG          
        
 ####What people have said about *STUD*        
 >*…fully-frontal assault …it's whimsical. And hilarious*<br><a href="http://www.heraldscotland.com/arts_ents/13206858.Review__BuzzCut__Pearce_Institute__Glasgow" target="_blank">Mary Brennan, The Herald</a>          
