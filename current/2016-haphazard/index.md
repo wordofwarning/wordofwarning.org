@@ -18,7 +18,7 @@ show_size: 4
 *Presented by* Word of Warning + Z-arts          
 
 ###Saturday 20 February 2016, 12noon-4pm. Free             
-Intriguing images and offbeat oddities dotted around the historic Z-arts' building… Playful, quirky, engaging and sometimes plain daft: this is a day for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out! *Turn up at any time and come and go as you please.*            
+Intriguing images and offbeat oddities dotted around the historic Z-arts' building. Playful, quirky, engaging and sometimes plain daft: this is a day for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out! *Turn up at any time and come and go as you please.*            
            
 ####Venue + Booking Details
 Date: Saturday 20 February 2016, 12noon-4pm    
@@ -31,7 +31,7 @@ Venue Tel: 0161 232 6089
 [Haphazard 2013](/archive/2013-spring/haphazard) filled Z-arts to the brim with moving musical sculptures, a bouncy squeaky ping-pong dance and an underground labyrinth (only for the brave!) whilst [2015](/archive/2015-spring/haphazard) saw everything from quirky quoits to crotchety crochet, freaky food to a jungle jamboree, topped off with a dose of dotty dance and a plea to avenge the apiary (or save the bees!) — why not join us to see what 2016 will conjure? To get a feel for it have a look at images from [2013](/galleries/2013-haphazard) + [2015](/galleries/2015-haphazard).         
         
 ####What people have said about Haphazard        
->• *need a quote or two*<br>[2015 Audience Feedback](/archive/2015-spring/haphazard)         
+>• *Absolutely brilliant, for kids and grown ups.*<br>• *We liked the drop-in, continuous feel, like you weren't missing stuff.*<br>• *Great madcap fun!*<br>• *Bizarre, lots to keep us interested.*<br>• *…very good for a broad range of ages!*<br>• *Great energy, lots of weird interactive stuff. Kids loving it.*<br>• *Loved the way the event uses the whole space. Wacky and creative fun!*<br>[2015 Audience Feedback](/archive/2015-spring/haphazard)         
 >• *Great! Everyone was energetic & friendly — very easy to interact with!*<br>• *Suitably crazy & surreal for children and their grown-ups*.<br>• *Really enjoyed the event and it's particularly nice to experience something a bit different, especially as adults, it is quite eye-popping…*<br>[2013 Audience Feedback](/archive/2013-spring/haphazard)         
         
 ####Access Information    
