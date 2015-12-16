@@ -19,7 +19,7 @@ header_image: ""
 *Presented by* Contact + Word of Warning *during* Queer Contact 2016         
        
 ####In Brief      
-Donning her chaps to ask if size really does matter, MacAskill delivers a full-frontal assault on penis envy, female masculinity, horses and DIY.  *Tell me about it, Stud…*        
+Donning her chaps to ask if size really does matter, MacAskill delivers a full-frontal assault on penis envy, female masculinity, horses and DIY.<br>*Tell me about it, Stud…*        
          
 ####Venue + Booking Details    
 Dates: Thursday 4 — Saturday 6 February 2016, 9.30pm         
