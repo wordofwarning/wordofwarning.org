@@ -39,7 +39,9 @@ In *STUD*, Eilidh MacAskill dons her chaps and asks if size really does matter. 
 An attack on gender binaries and masculinity from the point of view of a queer female; a stripped-back solo show for anyone who likes their psychoanalysis heteronormative and their cowboys in the buff.         
         
 ####Who is she?     
-BIOG          
+Glasgow-based, Eilidh MacAskill creates performances and projects that sit somewhere between theatre, live art and visual art inspired by nature and how we human animals live in the world. She is Artistic Director of Fish & Game and also works as a freelance performer with other artists. Her work is often for children and often presented in non-theatre sites and public spaces. But *STUD* isn't.       
+           
+Representing a shift in Eilidh's practice, *STUD* foregrounds her homosexuality, queerness and feminism both within her performance work and daily life in response to conservative heteronormative and misogynist ideals that Eilidh sees in society and aimed particularly at young people. It is part of Eilidh's wider enquiry into gender and queer theory, the Gendersaurus Rex project, supported by Imaginate and looking particularly at representation of queerness, sexuality and difference in children's theatre.          
        
 ####What people have said about *STUD*        
 >*…fully-frontal assault …it's whimsical. And hilarious*<br><a href="http://www.heraldscotland.com/arts_ents/13206858.Review__BuzzCut__Pearce_Institute__Glasgow" target="_blank">Mary Brennan, The Herald</a>          
