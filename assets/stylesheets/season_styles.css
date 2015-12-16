@@ -447,7 +447,7 @@
 	.hh2016 .artist, 
 	.hh2016 .show,
 	.hh2016 .season
-		{background:#fc6; color:#000;}
+		{background:#ff3; color:#000;}
 
 	.hh2016 a,
 	.hh2016 a:visited,
@@ -456,7 +456,7 @@
 	.hh2016 nav a:hover,
 	.hh2016 article a:hover,
 	.hh2016 footer a:hover
-		{background: #000; color: #fc6;}
+		{background: #000; color: #ff3;}
 
 	.hh2016 .splash
 		{background:url(../images/header_haphazard.jpg) center center}
