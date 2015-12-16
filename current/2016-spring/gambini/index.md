@@ -34,22 +34,23 @@ Venue (Z-arts) Tel: 0161 232 6089
 Age advisory: 14?+ With an interval, the evening will last approximately 1 hour + ?? minutes. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
       
 ####More        
-A performance of and about sleight-of-hand magic: its invisible mechanics, its clichés, and what it tells us about live theatre and make-believe.<br>In a conversational yet crafted approach, Gambini presents astonishing close-up magic that invites us to question how enchantment and wonder are produced within a theatrical situation.        
+A performance of and about sleight-of-hand magic: its invisible mechanics, its clichés, and what it tells us about live theatre and make-believe.              
+         
+In a conversational yet crafted approach, Gambini presents astonishing close-up magic that invites us to question how enchantment and wonder are produced within a theatrical situation. Possibly the first of its kind, *This is not a magic show* is part performance-lecture, part deconstructed showbiz, and part magic trick that leaves you, like, omg.         
         
-Possibly the first of its kind, *This is not a magic show* is part performance-lecture, part deconstructed showbiz, and part magic trick that leaves you, like, omg.         
-        
-A guest trick from Top Joe precedes Vincent Gambini's *This is not a magic show*.        
+A guest trick from Top Joe precedes Vincent Gambini's *This is not a…*.        
         
 ####Who is Vincent Gambini?    
-London-based, over the last 10 years his performances have taken him across Europe, the U.S. + South America. Specialising in sleight-of-hand with cards and coins, performed at very close quarters, he combines magic with elements of theatre, performance art and spoken word, all to create new forms of deception.        
+London-based, over the last 10 years his performances have taken him across Europe, the US + South America. Specialising in sleight-of-hand with cards and coins, performed at very close quarters, he combines magic with elements of theatre, performance art, spoken word — all to create new forms of deception.        
         
 As a teen he won 1st prize at the Italian Close-up Magic competition, and 2nd prize at the International competition in London. In 2001 he gained entry to the Magic Circle by writing a thesis called 'Deconstucting Magic' which, as a title, does a good job at describing what he does now.        
           
 ####What people have said about *This is not a magic show* (Edinburgh 2015)        
->★★★★<br><a href="http://URL" target="_blank">The Guardian</a>         
->★★★★<br><a href="http://URL" target="_blank">Time Out</a>          
->★★★★<br><a href="http://URL" target="_blank">Fest Mag</a>           
->★★★★<br><a href="http://URL" target="_blank">The Stage</a>         
+>★★★★<br><a
+href="http://http://www.theguardian.com/stage/2015/aug/18/vincent-gambini-at-edinburgh-festival-review-sleights-of-mind" target="_blank">Lyn Gardner, The Guardian</a>         
+>★★★★<br><a href="http://http://www.timeout.com/edinburgh/theatre/this-is-not-a-magic-show" target="_blank">Time Out</a>          
+>★★★★<br><a href="http://www.festmag.co.uk/theatre/103071-vincent_gambini_this_not_magic_show" target="_blank">Fest Mag</a>           
+>★★★★<br><a href="http://www.thestage.co.uk/reviews/2015/forest-fringe-week-1" target="_blank">The Stage, on Forest Fringe week 1</a>         
          
 ####Who is Top Joe?    
 CJ/TJ BIOG        
