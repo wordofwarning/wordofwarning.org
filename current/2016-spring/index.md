@@ -20,10 +20,10 @@ We take live work very seriously — but we don't take ourselves seriously at al
 ####Who's it for? Anyone looking for a different night (or day) out.            
 We don't want to put you off by talking labels – yes there'll be theatre, live art, dance – the aim is to be anything but elitist or po-faced. So if you like comedy, music, gaming or just a friendly, stimulating evening – there'll be something you might want to take a chance on.                 
         
-####What our audiences have said about the shows (2014/15)    
+####What our audiences said about the shows in A/W 2015    
 >• *One of the best shows I've seen in ages! (& I've seen bloody loads!) I could see the effort and passion… clever, moving, funny!!!*<br>• *Wow! Beautiful, big, brave, sad, poignant, playful, happy, exuberant, engaging, poetic, visceral, intimate. Visually and emotionally very powerful and challenging.*<br>• *Great to stumble across the event, spontaneously… Brings life to the city.*<br>• *Really creative and great to see such different work from emerging artists…*<br>• *Awesome, so different to anything I've ever seen before.*<br>• *Exquisite, a great double bill*        
         
-####What our audiences have said about us (2014/15)            
+####What our audiences said about us in A/W 2015            
 >• *…signed up to the mailing list — my life has been improved since. Been to some amazing performance on your recommendation — thank you.*<br>• *Consistently finding, supporting and showcasing the most brilliant and beautiful experiences I have the privilege to witness.*<br>• *Always pushing boundaries and testing the waters. An important part of Manchester's artistic make-up.*<br>• *Word of Warning's programme continues to intrigue and challenge me.*<br>• *Fantastic and innovative platform for live art and contemporary performance.*<br>• *Glad I'm on the mailing list, will definitely look more seriously at other stuff now!*        
         
 ####Who is Word of Warning?         
