@@ -24,6 +24,8 @@ Forget everything you know about magic and magicians.<br>Now remember it all aga
          
 Join us for the first of our *Informal* evenings of sneak peeks and exclusive glimpses — the mysteriously dextrous Gambini and guest trick from Top Joe.        
          
+See Vincent Gambini's <a href="http://youtu.be/c-z5glnzZIg" target="_blank">teaser trailer</a>.          
+              
 ####Venue + Booking Details       
 Date: Friday 4 March 2016, 7.30pm              
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
@@ -31,7 +33,7 @@ Entry by donation, no booking required. *Please note there is a limited capacity
 Venue (Z-arts) Tel: 0161 232 6089             
               
 ####Access Information      
-Age advisory: 14?+ With an interval, the evening will last approximately 1 hour + ?? minutes. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
+Age advisory: TBC There may or may not be an interval, and we think the evening will last about 90 minutes. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
       
 ####More        
 A performance of and about sleight-of-hand magic: its invisible mechanics, its clichés, and what it tells us about live theatre and make-believe.              
@@ -52,11 +54,10 @@ As a teen he won 1st prize at the Italian Close-up Magic competition, and 2nd pr
 >★★★★<br><a href="http://www.thestage.co.uk/reviews/2015/forest-fringe-week-1" target="_blank">The Stage, on Forest Fringe week 1</a>         
          
 ####Who is Top Joe?    
-BIOG        
+We don't know yet…        
              
 ####Credits         
 Material for *This is not a magic show* was first developed during a residency at Rhubaba Gallery, Edinburgh.        
-Top Joe ???       
-           
+
 ####Websites    
 <a href="http://www.vincentgambini.com" target="_blank">www.vincentgambini.com</a> | <a href="http://twitter.com/Gambinimagic" target="_blank">@Gambinimagic</a><br><a href="http://vimeo.com/topjoe" target="_blank">vimeo.com/topjoe</a> | <a href="http://twitter.com/toptopjoe" target="_blank">@toptopjoe</a>
