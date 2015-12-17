@@ -4,4 +4,4 @@ layout: home
 header_image: "assets/images/header_warni.jpg"
 
 ---
-####Many thanks to our [A/W](/current/2015-autumnwinter) artists, audiences, partners + team: have a look back at images from <a href="http://www.wordofwarning.org/galleries/2015-domestic" target="_blank">Domestic II</a> + <a href="http://www.wordofwarning.org/galleries/2015-emergency" target="_blank">Emergency 2015</a>. We're seeking artist proposals for 2016's [Haphazard](/hab/haphazard) + [Turn](/hab/turn).
+####If you've been to one of our events recently, please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=144976563660" target="_blank">online survey</a>. Spring 2016's season announced soon, we're seeking artist proposals for [Haphazard](/hab/haphazard) + [Turn](/hab/turn).
