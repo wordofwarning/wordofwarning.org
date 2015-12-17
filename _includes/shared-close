@@ -3,7 +3,7 @@
 		<footer>
 			<div class="row">
 				<div class="four columns">
-					<h4 id="mailer">Weekly Update</h4>
+					<h4 id="mailer">Weekly Warning</h4>
 					<p><a href="{{ site.mailer_signup_url }}" target="_blank">Sign-up</a> for your no-nonsense <a href="http://wordofwarning.posthaven.com" target="_blank">weekly e-mail</a> signpost to the bizarre, the beautiful + the best new performance in Manchester + beyond.</p>
 					<h4>Calendar</h4>
 					<p>Word of Warning also maintains a <a href="http://www.google.com/calendar/embed?src=wordofwarningmcr%40gmail.com&amp;ctz=Europe/London" target="_blank">Google calendar</a> of new performance dates.</p>
