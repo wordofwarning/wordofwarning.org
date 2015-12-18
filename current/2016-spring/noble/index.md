@@ -57,6 +57,6 @@ Written + performed by Kim Noble | Co-directed by Kim Noble + Gary Reich | Music
 ####Websites          
 <a href="http://mrkimnoble.com/when-you-can-see-bollocks-that-i-do" target="_blank">mrkimnoble.com</a> | <a href="http://twitter.com/mrkimnoble" target="_blank">@mrkimnoble</a> | #yourenotalone<br>     
 
-####Ticket Offers available at Contact during S/S 2016</a>
+####Ticket Offers available at Contact during S/S 2016         
 • Book for 2 Contact Spring/Summer 2016 shows (incl. *Y N A*) + get 10% off;<br>• Book for 3 Contact Spring/Summer 2016 shows (incl. *Y N A*) + get 15% off;<br>• Book 6 (full or concession) tickets for *Y N A* + get £1 off each ticket;<br>• Buy 10 (full or concession) tickets for *Y N A* + get your 11th free.                  
 T&Cs: tickets must be booked in a single transaction, offer cannot be applied retrospectively; exclusions apply, visit <a href="http://www.contactmcr.com/ticketoffers" target="_blank">contactmcr.com/ticketoffers</a> for details.
