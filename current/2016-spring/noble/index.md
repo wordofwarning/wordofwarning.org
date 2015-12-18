@@ -21,26 +21,25 @@ header_image: "header_noble.jpg"
 ####In Brief      
 A darkly comic take on one man's attempts at connection, friendship and employment at B&Q. See the <a href="http://youtu.be/ZpI9fdp87Y8" target="_blank">trailer</a>.                         
         
-Through tower block, supermarket and Facebook, Kim seeks an escape from the loneliness of modern society and tries to get close to others. *Too close, maybe…*           
-          
-
-           
+Through tower block, supermarket and Facebook, Kim seeks an escape from the loneliness of modern society and tries to get close to others. *Too close, maybe…*        
+        
 ####Venue + Booking Details    
 Date: Saturday 12 March 2016, 8pm         
 <a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact (space 1)</a>, Oxford Road, Manchester, M15 6JA         
-<a href="http://contactmcr.com/whats-on/46699-kim-noble-youre-not-alone/booking" target="_blank">Tickets: £13/7</a> | Special ticket deals† at <a href="http://contactmcr.com/whats-on" target="_blank">Contact during Spring/Summer 2016</a>:<br>• Book for 2 Contact Spring/Summer 2016 shows (incl. *Y N A*) + get 10% off;<br>• Book for 3 Contact Spring/Summer 2016 shows (incl. *Y N A*) + get 15% off;<br>• Book 6 (full or concession) tickets for *Y N A* + get £1 off each ticket;<br>• Buy 10 (full or concession) tickets for *Y N A* + get your 11th free.                  
-† T&Cs: tickets must be booked in a single transaction, offer cannot be applied retrospectively; exclusions apply, visit <a href="http://www.contactmcr.com/ticketoffers" target="_blank">contactmcr.com/ticketoffers</a> for details.              
+<a href="http://contactmcr.com/whats-on/46699-kim-noble-youre-not-alone/booking" target="_blank">Tickets: £13/7</a> | *<a href="http://www.contactmcr.com/ticketoffers" target="_blank">Ticket offers are available at Contact</a>, please see below.*       
 Box Office Tel: 0161 274 0600          
           
 ####Access Information        
 Age advisory: Strictly 18+ (ID may be required when collecting tickets.) Contains adult content and material that some audience members may find offensive. With no interval, the show lasts approximately 60 minutes. Primarily English spoken word + audio-visual presentation. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
 ####More         
-Blending performance, comedy and film, Kim Noble tries to get close to other people on this planet. Keith for instance. You maybe.   
-*We’re born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we’re not alone.* Orson Welles.   
-Provocative, moving and darkly comic *You're Not Alone* is an intimate glimpse into the mind of an eccentric genius.        
+Blending performance, comedy and film, Kim Noble tries to get close to other people on this planet. Keith for instance. You maybe.        
+       
+*We're born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we're not alone.*<br>Orson Welles.           
+           
+Provocative, moving and darkly comic, *You're Not Alone* is an intimate glimpse into the mind of an eccentric genius.        
         
-####Who is he?     
+####Who is he?        
 A renowned performance + video artist, Kim is best known as one half of Perrier Award-winning, BAFTA-nominated comedy duo Noble and Silver; he has also starred in TV shows *The Mighty Boosh*, *Noel Fielding's Luxury Comedy* + *Garth Marenghi's Darkplace*. He currently works at B&Q.               
              
 Kim is an In Between Time (Bristol) Associate Artist.         
@@ -58,3 +57,6 @@ Written + performed by Kim Noble | Co-directed by Kim Noble + Gary Reich | Music
 ####Websites          
 <a href="http://mrkimnoble.com/when-you-can-see-bollocks-that-i-do" target="_blank">mrkimnoble.com</a> | <a href="http://twitter.com/mrkimnoble" target="_blank">@mrkimnoble</a> | #yourenotalone<br>     
 
+####Ticket Offers available at Contact during S/S 2016</a>
+• Book for 2 Contact Spring/Summer 2016 shows (incl. *Y N A*) + get 10% off;<br>• Book for 3 Contact Spring/Summer 2016 shows (incl. *Y N A*) + get 15% off;<br>• Book 6 (full or concession) tickets for *Y N A* + get £1 off each ticket;<br>• Buy 10 (full or concession) tickets for *Y N A* + get your 11th free.                  
+T&Cs: tickets must be booked in a single transaction, offer cannot be applied retrospectively; exclusions apply, visit <a href="http://www.contactmcr.com/ticketoffers" target="_blank">contactmcr.com/ticketoffers</a> for details.
