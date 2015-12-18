@@ -33,7 +33,7 @@ Date: Saturday 12 March 2016, 8pm
 Box Office Tel: 0161 274 0600          
           
 ####Access Information        
-Age advisory: Strictly 18+ (ID may be required when collecting tickets.) Contains adult content and material that some audience members may find offensive. With no interval, the show lasts approximately 60 minutes. Primarily English spoken word + audio-visual presentation???. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
+Age advisory: Strictly 18+ (ID may be required when collecting tickets.) Contains adult content and material that some audience members may find offensive. With no interval, the show lasts approximately 60 minutes. Primarily English spoken word + audio-visual presentation. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
 ####More         
 Blending performance, comedy and film, Kim Noble tries to get close to other people on this planet. Keith for instance. You maybe.   
