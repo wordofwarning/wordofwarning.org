@@ -26,7 +26,7 @@ See her <a href="http://vimeo.com/133550925" target="_blank">trailer</a>.
 ####Venue + Booking Details    
 Dates: Thursday 4 — Saturday 6 February 2016, 9.30pm         
 <a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact (space 2)</a>, Oxford Road, Manchester, M15 6JA             
-<a href="http://contactmcr.com/whats-on/46294-qc16-eilidh-macaskill-stud/booking" target="_blank">Tickets: £13/7</a> *Ticket offers are available, please see below.*     
+<a href="http://contactmcr.com/whats-on/46294-qc16-eilidh-macaskill-stud/booking" target="_blank">Tickets: £13/7</a> | *<a href="http://www.contactmcr.com/ticketoffers" target="_blank">Ticket offers are available at Contact</a>, please see below.*     
 Box Office Tel: 0161 274 0600         
         
 ####Access Information        
@@ -54,6 +54,6 @@ Developed at BUZZCUT (April 2015) Residency, supported by Jerwood Charitable Fou
 ####Websites          
 <a href="http://eilidhmacaskill.com/portfolio/stud-2" target="_blank">eilidhmacaskill.com</a> | <a href="http://twitter.com/EilidhUkulele" target="_blank">@EilidhUkulele</a> | <a href="http://www.contactmcr.com/queercontact" target="_blank">Queer Contact 2016</a>
 
-####Ticket Offers available during <a href="http://www.contactmcr.com/queercontact" target="_blank">Queer Contact 2016</a>        
+####Ticket Offers available during Queer Contact 2016        
 • Book for 2 Queer Contact 2016 shows (incl. *STUD*) + get 10% off;<br>• Book for 3 Queer Contact 2016 shows (incl. *STUD*) + get 15% off;<br>• Book 6 (full or concession) tickets for *STUD* + get £1 off each ticket;<br>• Buy 10 (full or concession) tickets for *STUD* + get your 11th free.        
 T&Cs: tickets must be booked in a single transaction, offer cannot be applied retrospectively; exclusions apply, visit <a href="http://www.contactmcr.com/ticketoffers" target="_blank">contactmcr.com/ticketoffers</a> for details.
