@@ -53,7 +53,7 @@ Kim is an In Between Time (Bristol) Associate Artist.
 >*Hilarious, unforgettable, even moving.*<br>The Times      
          
 ####Credits          
-Written + performed by Kim Noble | Co-directed by Kim Noble + Gary Reich | Music Production: Geoff Howse | Lighting Designer: Marty Langthorne<br>Produced + presented by In Between Time in association with Soho Theatre.<br>Presented in Manchester during [SICK! Lab](<a href="http://sickfestival.com" target="_blank">sickfestival.com</a>), a 4-day programme exploring what makes us who we are (Wed 9 — Sat 12 Mar 2016).              
+Written + performed by Kim Noble | Co-directed by Kim Noble + Gary Reich | Music Production: Geoff Howse | Lighting Designer: Marty Langthorne<br>Produced + presented by In Between Time in association with Soho Theatre.<br>Presented in Manchester during <a href="http://sickfestival.com" target="_blank">SICK! Lab</a>, a 4-day programme exploring what makes us who we are (Wed 9 — Sat 12 Mar 2016).              
              
 ####Websites          
 <a href="http://mrkimnoble.com/when-you-can-see-bollocks-that-i-do" target="_blank">mrkimnoble.com</a> | <a href="http://twitter.com/mrkimnoble" target="_blank">@mrkimnoble</a> | #yourenotalone<br>     
