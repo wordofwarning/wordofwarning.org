@@ -26,8 +26,7 @@ See her <a href="http://vimeo.com/133550925" target="_blank">trailer</a>.
 ####Venue + Booking Details    
 Dates: Thursday 4 — Saturday 6 February 2016, 9.30pm         
 <a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact (space 2)</a>, Oxford Road, Manchester, M15 6JA             
-<a href="http://contactmcr.com/whats-on/46294-qc16-eilidh-macaskill-stud/booking" target="_blank">Tickets: £13/7</a> | Special ticket deals† available during <a href="http://www.contactmcr.com/queercontact" target="_blank">Queer Contact 2016</a>:<br>• Book for 2 Queer Contact 2016 shows (incl. *STUD*) + get 10% off;<br>• Book for 3 Queer Contact 2016 shows (incl. *STUD*) + get 15% off;<br>• Book 6 (full or concession) tickets for *STUD* + get £1 off each ticket;<br>• Buy 10 (full or concession) tickets for *STUD* + get your 11th free.        
-† T&Cs: tickets must be booked in a single transaction, offer cannot be applied retrospectively; exclusions apply, visit <a href="http://www.contactmcr.com/ticketoffers" target="_blank">contactmcr.com/ticketoffers</a> for details.              
+<a href="http://contactmcr.com/whats-on/46294-qc16-eilidh-macaskill-stud/booking" target="_blank">Tickets: £13/7</a> *Ticket offers are available, please see below.*     
 Box Office Tel: 0161 274 0600         
         
 ####Access Information        
@@ -36,13 +35,14 @@ Age advisory: 16+ With no interval, the show lasts approximately 50 minutes. Pri
 ####More      
 *Well, Dr Freud tells me I'm missing something and I think he's right. He tells me that until I get over it and turn my desire for that missing thing into a desire for a baby I'm gonna be in deep shit. He also tells me he doesn't really get chicks…*           
          
-Invoking the ghost of Sigmund Freud, this energetic solo works through MacAskill’s penis envy, while displaying her undeniable womanhood… through crotchless chaps! Aided by a macho cowboy, a hysterical woman with anger issues, a patriarchal DIY expert and the famous talking horse, Mr Ed, she ponders if she does, indeed, have penis envy -  or if it's all a load of bollocks!    
+Invoking the ghost of Sigmund Freud, this energetic solo works through MacAskill’s penis envy, while displaying her undeniable womanhood… through crotchless chaps! Aided by a macho cowboy, a hysterical woman with anger issues, a patriarchal DIY expert and the famous talking horse, Mr Ed, she ponders if she does, indeed, have penis envy — or if it's all a load of bollocks!    
         
 A stripped-back solo show for anyone who likes their psychoanalysis heteronormative and their cowboys in the buff.         
         
 ####Who is she?     
 Glasgow-based, Eilidh MacAskill creates performances and projects that sit somewhere between theatre, live art and visual art, inspired by nature and how we human animals live in the world. She is Artistic Director of Fish & Game, making entertaining experimental performances, particularly for children, and is a freelance performer.    
-STUD represents a shift in her practice and is part of a wider enquiry into gender and queer theory called the Gendersaurus Rex project. It is supported by Imaginate and looks particularly at representation of queerness, sexuality and difference in children’s theatre.         
+
+STUD represents a shift in her practice and is part of a wider enquiry into gender and queer theory called the Gendersaurus Rex project. It is supported by Imaginate and looks particularly at representation of queerness, sexuality and difference in children’s theatre.         
        
 ####What people have said about *STUD*        
 >*…fully-frontal assault …it's whimsical. And hilarious*<br><a href="http://www.heraldscotland.com/arts_ents/13206858.Review__BuzzCut__Pearce_Institute__Glasgow" target="_blank">Mary Brennan, The Herald</a>          
@@ -53,3 +53,7 @@ Developed at BUZZCUT (April 2015) Residency, supported by Jerwood Charitable Fou
         
 ####Websites          
 <a href="http://eilidhmacaskill.com/portfolio/stud-2" target="_blank">eilidhmacaskill.com</a> | <a href="http://twitter.com/EilidhUkulele" target="_blank">@EilidhUkulele</a> | <a href="http://www.contactmcr.com/queercontact" target="_blank">Queer Contact 2016</a>
+
+####Ticket Offers available during <a href="http://www.contactmcr.com/queercontact" target="_blank">Queer Contact 2016</a>        
+• Book for 2 Queer Contact 2016 shows (incl. *STUD*) + get 10% off;<br>• Book for 3 Queer Contact 2016 shows (incl. *STUD*) + get 15% off;<br>• Book 6 (full or concession) tickets for *STUD* + get £1 off each ticket;<br>• Buy 10 (full or concession) tickets for *STUD* + get your 11th free.        
+T&Cs: tickets must be booked in a single transaction, offer cannot be applied retrospectively; exclusions apply, visit <a href="http://www.contactmcr.com/ticketoffers" target="_blank">contactmcr.com/ticketoffers</a> for details.
