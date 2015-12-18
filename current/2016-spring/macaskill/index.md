@@ -34,16 +34,15 @@ Box Office Tel: 0161 274 0600
 Age advisory: 16+ With no interval, the show lasts approximately 50 minutes. Primarily English spoken word, features nudity, strong language and sexual themes. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
 ####More      
-*Tell, me about it, Stud. Well, Dr Freud tells me I'm missing something and I think he's right. He tells me that until I get over it and turn my desire for that missing thing into a desire for a baby I'm gonna be in deep shit. He also tells me he doesn't really get chicks…*           
+*Well, Dr Freud tells me I'm missing something and I think he's right. He tells me that until I get over it and turn my desire for that missing thing into a desire for a baby I'm gonna be in deep shit. He also tells me he doesn't really get chicks…*           
          
-In *STUD*, Eilidh MacAskill dons her chaps and asks if size really does matter. As she explores her own female masculinity with some help from Dr Freud himself alongside a patriarchal DIY expert, a macho cowboy and the famous talking horse Mister Ed, Eilidh ponders if she has Penis Envy or of it's all a load of bollocks.        
-         
-An attack on gender binaries and masculinity from the point of view of a queer female; a stripped-back solo show for anyone who likes their psychoanalysis heteronormative and their cowboys in the buff.         
+Invoking the ghost of Sigmund Freud, this energetic solo works through MacAskill’s penis envy, while displaying her undeniable womanhood… through crotchless chaps! Aided by a macho cowboy, a hysterical woman with anger issues, a patriarchal DIY expert and the famous talking horse, Mr Ed, she ponders if she does, indeed, have penis envy -  or if it's all a load of bollocks!    
+        
+A stripped-back solo show for anyone who likes their psychoanalysis heteronormative and their cowboys in the buff.         
         
 ####Who is she?     
-Glasgow-based, Eilidh MacAskill creates performances and projects that sit somewhere between theatre, live art and visual art inspired by nature and how we human animals live in the world. She is Artistic Director of Fish & Game and also works as a freelance performer with other artists. Her work is often for children and often presented in non-theatre sites and public spaces.<br>But *STUD* isn't.       
-           
-Representing a shift in Eilidh's practice, *STUD* foregrounds her homosexuality, queerness and feminism both within her performance work and daily life in response to conservative heteronormative and misogynist ideals that Eilidh sees in society and aimed particularly at young people. It is part of Eilidh's wider enquiry into gender and queer theory, the Gendersaurus Rex project, supported by Imaginate and looking particularly at representation of queerness, sexuality and difference in children's theatre.          
+Glasgow-based, Eilidh MacAskill creates performances and projects that sit somewhere between theatre, live art and visual art, inspired by nature and how we human animals live in the world. She is Artistic Director of Fish & Game, making entertaining experimental performances, particularly for children, and is a freelance performer.    
+STUD represents a shift in her practice and is part of a wider enquiry into gender and queer theory called the Gendersaurus Rex project. It is supported by Imaginate and looks particularly at representation of queerness, sexuality and difference in children’s theatre.         
        
 ####What people have said about *STUD*        
 >*…fully-frontal assault …it's whimsical. And hilarious*<br><a href="http://www.heraldscotland.com/arts_ents/13206858.Review__BuzzCut__Pearce_Institute__Glasgow" target="_blank">Mary Brennan, The Herald</a>          
