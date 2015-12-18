@@ -36,7 +36,9 @@ Box Office Tel: 0161 274 0600
 Age advisory: Strictly 18+ (ID may be required when collecting tickets.) Contains adult content and material that some audience members may find offensive. With no interval, the show lasts approximately 60 minutes. Primarily English spoken word + audio-visual presentation???. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
 ####More         
-*You're Not Alone* is a provocative, moving and darkly comic take on one man's attempts at connection, friendship and employment at B&Q. Taking you on a journey through tower blocks, supermarkets and Facebook, as Kim seeks an escape from the loneliness of modern society, this is an intimate glimpse into the mind of an eccentric genius.         
+Blending performance, comedy and film, Kim Noble tries to get close to other people on this planet. Keith for instance. You maybe.   
+*We’re born alone, we live alone, we die alone. Only through our love and friendship can we create the illusion for the moment that we’re not alone.* Orson Welles.   
+Provocative, moving and darkly comic *You're Not Alone* is an intimate glimpse into the mind of an eccentric genius.        
         
 ####Who is he?     
 A renowned performance + video artist, Kim is best known as one half of Perrier Award-winning, BAFTA-nominated comedy duo Noble and Silver; he has also starred in TV shows *The Mighty Boosh*, *Noel Fielding's Luxury Comedy* + *Garth Marenghi's Darkplace*. He currently works at B&Q.               
@@ -51,7 +53,8 @@ Kim is an In Between Time (Bristol) Associate Artist.
 >*Hilarious, unforgettable, even moving.*<br>The Times      
          
 ####Credits          
-Written + performed by Kim Noble | Co-directed by Kim Noble + Gary Reich | Music Production: Geoff Howse | Lighting Designer: Marty Langthorne<br>Produced + presented by In Between Time in assocaiation with Soho Theatre.<br>Presented in Manchester during SICK! Lab, a 4-day programme exploring what makes us who we are (Wed 9 — Sat 12 Mar 2016).              
+Written + performed by Kim Noble | Co-directed by Kim Noble + Gary Reich | Music Production: Geoff Howse | Lighting Designer: Marty Langthorne<br>Produced + presented by In Between Time in association with Soho Theatre.<br>Presented in Manchester during [SICK! Lab](<a href="http://sickfestival.com" target="_blank">sickfestival.com</a>), a 4-day programme exploring what makes us who we are (Wed 9 — Sat 12 Mar 2016).              
              
 ####Websites          
-<a href="http://mrkimnoble.com/when-you-can-see-bollocks-that-i-do" target="_blank">mrkimnoble.com</a> | <a href="http://twitter.com/mrkimnoble" target="_blank">@mrkimnoble</a> | #yourenotalone<br><a href="http://sickfestival.com" target="_blank">sickfestival.com</a> | <a href="http://twitter.com/SICKFestival" target="_blank">@SICKFestival</a>
+<a href="http://mrkimnoble.com/when-you-can-see-bollocks-that-i-do" target="_blank">mrkimnoble.com</a> | <a href="http://twitter.com/mrkimnoble" target="_blank">@mrkimnoble</a> | #yourenotalone<br>     
+
