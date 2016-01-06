@@ -60,4 +60,4 @@ Top Joe is a timid character who wears a hi-vis jacket and only comes out at nig
 Material for *This is not a magic show* was first developed during a residency at Rhubaba Gallery, Edinburgh.        
 
 ####Websites    
-<a href="http://www.vincentgambini.com" target="_blank">www.vincentgambini.com</a> | <a href="http://twitter.com/Gambinimagic" target="_blank">@Gambinimagic</a><br><a href="http://vimeo.com/topjoe" target="_blank">vimeo.com/topjoe</a> | <a href="http://twitter.com/toptopjoe" target="_blank">@toptopjoe</a>
+<a href="http://www.vincentgambini.com" target="_blank">www.vincentgambini.com</a> | <a href="http://twitter.com/Gambinimagic" target="_blank">@Gambinimagic</a><br><a href="http://topjoe.co.uk" target="_blank">topjoe.co.uk</a> | <a href="http://vimeo.com/topjoe" target="_blank">vimeo.com/topjoe</a> | <a href="http://twitter.com/toptopjoe" target="_blank">@toptopjoe</a>
