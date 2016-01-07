@@ -3,6 +3,9 @@
 layout: archive
 
 archived:
+    - {folder: "2015-autumnwinter", name: "Autumn/Winter 2015", class: "aw2015"}
+    - {folder: "2015-emergency", name: "Emergency 2015", class: "e2015"}
+    - {folder: "2015-domestic", name: "Domestic II (2015)", class: "d2015"}
     - {folder: "2015-springsummer", name: "Spring/Summer 2015", class: "ss2015"}    
     - {folder: "2015-worksahead", name: "Works Ahead 2015", class: "woah"}    
     - {folder: "2015-spring", name: "Spring 2015", class: "s2015"}    
