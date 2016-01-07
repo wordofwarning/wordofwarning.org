@@ -23,9 +23,9 @@ header_image:
          
 Now that it's over, have a look at the [image gallery](/galleries/2015-emergency) + read <a href="http://quietmandave.co.uk/2015/10/emergency-at-z-arts" target="_blank">QuietManDave's review</a>.           
           
-[From noon](/current/2015-emergency/afternoon), dip in and out of ongoing performances — from virtual reality to physical anxiety — all over the building: a couple defy the sands of time, grain by grain; a man elevates the humble cabbage to the heights of celebrity; and a woman bends, literally, under the strain…           
+[From noon](/archive/2015-emergency/afternoon), dip in and out of ongoing performances — from virtual reality to physical anxiety — all over the building: a couple defy the sands of time, grain by grain; a man elevates the humble cabbage to the heights of celebrity; and a woman bends, literally, under the strain…           
          
-[Then from 4pm](/current/2015-emergency/evening) join us for a series of short sit-down shows in a variety of spaces — from stand-up with a twist, to a manic roller derby and a raunchy celebratory climax.         
+[Then from 4pm](/archive/2015-emergency/evening) join us for a series of short sit-down shows in a variety of spaces — from stand-up with a twist, to a manic roller derby and a raunchy celebratory climax.         
          
 Your chance to sample the different — all for free, featuring (*participating artists subject to change*):            
 Adam Lowe | Adam York Gregory + Gillian Jane Lees | Ali Matthews + Leo Burtin | Ali Wilson | Alicia Radage | Chris Jenkins | Dr Mango | Eleanor Fogg | Gareth Cutter | Gwendolen Osmond | Howl Yuan | James O'Donoghue | Jon M Coleman | Lucy McCormick | Nicola Smith | Paul Hughes + Andy Edwards | Rachel Gomme | Simon Farid | Simon Gerrard | Sturgeon's Law | Terri Donovan | The Demolition Project | Tim Anderson + Tessa Buddle | Tin Can People | Trendscendence          
