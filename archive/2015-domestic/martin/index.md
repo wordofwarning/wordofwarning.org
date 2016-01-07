@@ -17,7 +17,7 @@ header_image: "header_martin.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, The Guinness Partnership *during* [Domestic II](/current/2015-domestic)                
+*Presented by* Word of Warning, The Guinness Partnership *during* [Domestic II](/archive/2015-domestic)                
          
 ####In Brief                      
 Tells the story of a black perimenopausal lesbian's descent into suicidal depression and her emergence from it.         
@@ -31,7 +31,7 @@ Tickets: Evening Performances can be [booked online via We Got Tickets (10% book
 
 
 ####Access Information      
-As a sited event, Domestic II presents a number of access challenges please see [front page](/current/2015-domestic) for details.    
+As a sited event, Domestic II presents a number of access challenges please see [front page](/archive/2015-domestic) for details.    
 Age advisory: 14+ For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.       
             
 ####Who is she?    
