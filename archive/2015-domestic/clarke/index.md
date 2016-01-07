@@ -17,7 +17,7 @@ header_image: "header_clarke1.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, The Guinness Partnership *during* [Domestic II](/current/2015-domestic)          
+*Presented by* Word of Warning, The Guinness Partnership *during* [Domestic II](/archive/2015-domestic)          
          
 ####In Brief                      
 Liz Clarke channels a version of herself; her alter ego Betty Bruiser: a hardcore Haus Frau in a strangely nostalgic peep into a twisted domestic scene. Join her as she wistfully wrangles with her white goods and merges with her machines.    
@@ -28,7 +28,7 @@ Dates: Thursday 24 September 2015, 7.30pm
 Tickets: Evening Performances can be [booked online via We Got Tickets (10% booking fee applies)](http://www.wegottickets.com/wordofwarning) OR reserved over the phone 07581 299 439 (leave a message + we'll get back to you); remaining tickets will be available at Matthias Court (cash only) just before the performances.                
         
 ####Access Information      
-As a sited event, Domestic II presents a number of access challenges please see [front page](/current/2015-domestic) for details.    
+As a sited event, Domestic II presents a number of access challenges please see [front page](/archive/2015-domestic) for details.    
 Age advisory: 16+ For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.       
                       
 ####More   
