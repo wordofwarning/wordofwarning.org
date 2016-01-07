@@ -16,18 +16,18 @@ header_image:
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, The Guinness Partnership *during* [Domestic II](/current/2015-domestic)        
+*Presented by* Word of Warning, The Guinness Partnership *during* [Domestic II](/archive/2015-domestic)        
          
 ####Saturday Daytime Performance Programme, 12noon-5pm         
 **Please note this is primarily an adult event, see Access Info below.**          
           
-[**Tin Can People | *Audio Caff***](/current/2015-domestic/audiocaff)        
+[**Tin Can People | *Audio Caff***](/archive/2015-domestic/audiocaff)        
 Please see individual page; also available with a 24/25/26 Sep evening ticket.        
         
-[**Ria Hartley | *My Brother's Father***](/current/2015-domestic/hartley)          
+[**Ria Hartley | *My Brother's Father***](/archive/2015-domestic/hartley)          
 Please see individual page; also available with a 24/25/26 Sep evening ticket.        
            
-[**Louise Wallwein | *Glue***](/current/2015-domestic/wallwein)         
+[**Louise Wallwein | *Glue***](/archive/2015-domestic/wallwein)         
 Please see individual page; Saturday Daytime brings a durational installation version, to see the 20 minute performance version please book a 24/25/26 Sep evening ticket.          
           
 **Threshold | *1989 called…***      
@@ -79,7 +79,7 @@ Laura and Shane are cousins. They have a Grandmother. She is forgetting herself.
              
 This intimate sound installation explores the landscape of the dying mind. It's gentle and surprising.            
            
-*Pillow Talk* is an ongoing installation for one person at a time.    Age advisory, 12+ or with adult accompaniment.    
+*Pillow Talk* is an ongoing installation for one person at a time. Age advisory, 12+ or with adult accompaniment.    
 
 Laura Wyatt O'Keeffe is an actor, writer, theatre maker and the artistic director of the theatre and film company justmakeit Productions. Shane O'Sullivan is a composer, sound designer and broadcast engineer from Cork, Ireland and has been designing for theatre, short film and radio since 2009.            
 [@LauraWOK](http://twitter.com/LauraWOK)            
@@ -145,9 +145,9 @@ Tickets: FREE no booking required, come + go as you please.
 Enquires: <mailto:info@habarts.org> | 07581 299 439    
          
 ####Access Information      
-As a sited event, Domestic II presents a number of access challenges.  Audience members should be aware that Matthias Court is an active construction site and as such, is rough and ready.  Please wear sensible shoes, warm layered clothing (that you are happy to get dirty) and be aware of possible rough floor and wall surfaces!    
-
-Mobility restrictions: We ask that any wheelchair user thinking of coming to Domestic II call us on 07581 299 439: Door widths vary from 65-78cm and several of the flats have a half step lip.     
+As a sited event, Domestic II presents a number of access challenges. Audience members should be aware that Matthias Court is an active construction site and as such, is rough and ready. Please wear sensible shoes, warm layered clothing (that you are happy to get dirty) and be aware of possible rough floor and wall surfaces!        
+            
+Mobility restrictions: We ask that any wheelchair user thinking of coming to Domestic II call us on 07581 299 439: door widths vary from 65-78cm and several of the flats have a half-step lip.     
    
 Age advisory: Domestic II is primarily aimed at adults and deals with autobiographical and social issues with some sensitive content. Works suitable for younger people during Saturday Daytime will be clearly signposted on the day. For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.            
            
