@@ -17,7 +17,7 @@ header_image: "header_wallwein.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, The Guinness Partnership *during* [Domestic II](/current/2015-domestic)          
+*Presented by* Word of Warning, The Guinness Partnership *during* [Domestic II](/archive/2015-domestic)          
          
 ####In Brief                      
 The true story of Louise Wallwein and her first two meetings with her birth mother, three decades after being put up for adoption. The audience is invited to share a very private first reunion, but also the subsequent more public second meeting.           
@@ -30,7 +30,7 @@ Dates: Thursday 24 — Saturday 26 September 2015, 7.30pm; Saturday 26 September
 Tickets: Evening Performances can be [booked online via We Got Tickets (10% booking fee applies)](http://www.wegottickets.com/wordofwarning) OR reserved over the phone 07581 299 439 (leave a message + we'll get back to you); remaining tickets will be available at Matthias Court (cash only) just before the performances.        
         
 ####Access Information      
-As a sited event, Domestic II presents a number of access challenges please see [front page](/current/2015-domestic) for details.    
+As a sited event, Domestic II presents a number of access challenges please see [front page](/archive/2015-domestic) for details.    
 Age advisory: 12+ For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.       
         
 ####More    
@@ -53,7 +53,7 @@ She is very proud of her work in Communities and Schools, and has worked with th
 
 Director Susan Roberts (Sony Gold and Bronze, Amnesty International Award) has directed over 200 radio plays for BBC R3 & R4. Director of *Black Roses: The Killing of Sophie Lancaster* by Simon Armitage – The Royal Exchange won the Manchester Theatre award for best studio production 2012.     
 
-Musician Jaydev Mistry has been a part of the Manchester music scene for over 20 years.  He is a guitarist, percussionist and music technologist and has collaborated with artists such as Nitin Sawhney (*session 72*: Contact Theatre) and the Kaliphz. Jaydev has performed in many bands including Timeless Love Orchestra, Giddy and B.B and Me, performing in venues including Band on the Wall, Bridgewater Hall, Royal Exchange, the Pompidou Centre and the Hackney Empire. Jaydev also specialises in composition and sound design for theatrical productions, and has been commissioned by companies such as Red Ladder Theatre Company, Theatre in the Mill, Greater Manchester Music Action Zone and BBC R4.     
+Musician Jaydev Mistry has been a part of the Manchester music scene for over 20 years. He is a guitarist, percussionist and music technologist and has collaborated with artists such as Nitin Sawhney (*session 72*: Contact Theatre) + the Kaliphz. Jaydev has performed in many bands including Timeless Love Orchestra, Giddy + B.B and Me, performing in venues including Band on the Wall, Bridgewater Hall, Royal Exchange, the Pompidou Centre + the Hackney Empire. Jaydev also specialises in composition and sound design for theatrical productions, and has been commissioned by companies such as Red Ladder Theatre Company, Theatre in the Mill, Greater Manchester Music Action Zone + BBC R4.     
                
 ####Credits         
 Written + performed by Louise Wallwein | Directed by Susan Roberts | Music + Sound by Jaydev Mistry | Commissioned by Z-arts + the Royal Exchange for *Family Matters*, this re-development has been co-commissioned by hÅb for Domestic II.
