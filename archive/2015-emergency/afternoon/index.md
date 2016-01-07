@@ -16,7 +16,7 @@ header_image:
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2015](/current/2015-emergency)    
+*Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2015](/archive/2015-emergency)    
           
 ####Artists in Alphabetical Order (*subject to change*)      
 **Please note this is primarily an adult event, see Access Info below.**        
@@ -97,7 +97,7 @@ Born and bred in Manchester, Terri Donovan is a current member of Contact's Youn
 [@TerriTezmabob](http://twitter.com/TerriTezmabob)        
         
 ***The Demolition Project***        
-What would you like to demolish in your city? The house where your heart was broken?  The school where you were bullied? A workplace, a hospital, the street where you were mugged? Or perhaps it's an ideological target (Old Trafford? Albert Square?), or a building that offends your sense of beauty, whether it's a shiny glass lego brick or a brutalist concrete wall.        
+What would you like to demolish in your city? The house where your heart was broken? The school where you were bullied? A workplace, a hospital, the street where you were mugged? Or perhaps it's an ideological target (Old Trafford? Albert Square?), or a building that offends your sense of beauty, whether it's a shiny glass lego brick or a brutalist concrete wall.        
         
 Whatever it is, we'll give you the tools to wipe it off the map – as long as you give us the reason for your demolition. With a little help from a street map, a scalpel and the Demolition Project team, let's reimagine Manchester!        
 [Facebook](http://www.facebook.com/thedestructionists) | [@debriskent](http://twitter.com/debriskent)        
