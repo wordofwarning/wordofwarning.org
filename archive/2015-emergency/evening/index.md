@@ -16,7 +16,7 @@ header_image:
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2015](/current/2015-emergency)         
+*Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2015](/archive/2015-emergency)         
         
 ####Artists in Alphabetical Order (*subject to change*)         
 **Please note this is primarily an adult event, see Access Info below.**        
