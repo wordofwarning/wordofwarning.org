@@ -30,7 +30,7 @@ Box Office Tel: 0161 232 6089
 *Body of Light* is also shown during [Manchester Science Festival](http://www.manchestersciencefestival.com/whatson/bodyoflight) 23 + 24 Oct.           
           
 ####Black Gold Arts Festival           
-Also see Cheryl Martin's *[Alaska](/current/2015-autumnwinter/martin)* supported by hÅb + last seen at [Domestic II](/current/2015-domestic/martin); Chanje Kunda's *[Amsterdam](http://www.z-arts.org/events/amsterdam)*; Keisha Thompson's *[I Wish I Had A Moustache](http://www.z-arts.org/events/i-wish-i-had-a-moustache)* during [Black Gold Arts Festival](http://stunlive.com/black-gold-festival).        
+Also see Cheryl Martin's *[Alaska](/archive/2015-autumnwinter/martin)* supported by hÅb + last seen at [Domestic II](/current/2015-domestic/martin); Chanje Kunda's *[Amsterdam](http://www.z-arts.org/events/amsterdam)*; Keisha Thompson's *[I Wish I Had A Moustache](http://www.z-arts.org/events/i-wish-i-had-a-moustache)* during [Black Gold Arts Festival](http://stunlive.com/black-gold-festival).        
          
 ####Access Information      
 Age advisory: 6+ With no interval, the performance lasts 30 minutes (*NB revised duration*) and will be followed by an opportunity to interact with the technology used. Primarily a visual, physical work, it incorporates fast moving projected imagery. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
