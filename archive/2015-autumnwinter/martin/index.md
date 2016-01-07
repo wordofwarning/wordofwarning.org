@@ -29,7 +29,7 @@ Extra Date: Friday 23 October 2015, 7pm
 Tickets: £5 — [Thursday 3pm](http://z-arts.ticketsolve.com/shows/873540040/events/127519178); [Friday 7pm](http://z-arts.ticketsolve.com/shows/873540040/events/127595898) | Please note limited capacity of 15 per show.                
         
 ####Black Gold Arts Festival        
-Also see Darren Pritchard's *[Body of Light](/current/2015-autumnwinter/pritchard)* presented with Word of Warning; Chanje Kunda's *[Amsterdam](http://www.z-arts.org/events/amsterdam)*; Keisha Thompson's *[I Wish I Had A Moustache](http://www.z-arts.org/events/i-wish-i-had-a-moustache)* during [Black Gold Arts Festival](http://stunlive.com/black-gold-festival).            
+Also see Darren Pritchard's *[Body of Light](/archive/2015-autumnwinter/pritchard)* presented with Word of Warning; Chanje Kunda's *[Amsterdam](http://www.z-arts.org/events/amsterdam)*; Keisha Thompson's *[I Wish I Had A Moustache](http://www.z-arts.org/events/i-wish-i-had-a-moustache)* during [Black Gold Arts Festival](http://stunlive.com/black-gold-festival).            
         
 ####Access Information      
 Age advisory: 14+ For specific age and access information please email <mailto:info@habarts.org>.       
@@ -41,7 +41,7 @@ Cheryl has won Manchester Evening News Theatre Awards as both writer (Best Commu
 >*It is a devastatingly beautiful show…, poetic narrative and heart achingly profound… people should go*<br>Audience Member.    
                         
 ####Credits         
-Directed by Darren Pritchard | Commissioned by The Albany, supported by Contact, STUN + Commonword; co-commissioned by hÅb for Domestic II    
+Directed by Darren Pritchard | Commissioned by The Albany, supported by Contact, STUN + Commonword; co-commissioned by hÅb for [Domestic II](/archive/2015-domestic/martin)        
     
 ####Websites
 [cherylmartin.co.uk](http://www.cherylmartin.co.uk/about) | [@cherylalaska](http://twitter.com/cherylalaska)<br>[Black Gold Arts Festival](http://stunlive.com/black-gold-festival) | [Black Gold Arts Festival Facebook event](http://www.facebook.com/events/942571815809180)
