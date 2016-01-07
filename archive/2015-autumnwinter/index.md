@@ -6,7 +6,7 @@ rootpath: "../../"
 is_index: true
 
 ---
-*A season under construction — from a [one-off, never to be repeated trip around a building in transition](/current/2015-domestic), to a [sweet sixteenth](/current/2015-emergency), with a [digital swirl of dance](/current/2015-autumnwinter/pritchard) and the [beatification of an old friend](/current/2015-autumnwinter/makishi).*
+*A season under construction — from a [one-off, never to be repeated trip around a building in transition](/archive/2015-domestic), to a [sweet sixteenth](/archive/2015-emergency), with a [digital swirl of dance](/archive/2015-autumnwinter/pritchard) and the [beatification of an old friend](/archive/2015-autumnwinter/makishi).*
 		
 We look forward to seeing you at some or all of it; if you want to check out what happened last season, have a look at our [Spring/Summer 2015 archive](/archive/2015-springsummer).        
         
