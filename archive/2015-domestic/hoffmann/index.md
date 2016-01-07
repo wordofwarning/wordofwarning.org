@@ -17,7 +17,7 @@ header_image: "header_hoffmann.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, The Guinness Partnership *during* [Domestic II](/current/2015-domestic)          
+*Presented by* Word of Warning, The Guinness Partnership *during* [Domestic II](/archive/2015-domestic)          
          
 ####In Brief                      
 A new solo show exploring the personal and shared experiences of growing up as one of the 'feral underclass' in relation to today's 'Austerity Britain'. 
@@ -32,7 +32,7 @@ FRIDAY EVENING IS SOLD-OUT
 Tickets: Evening Performances can be [booked online via We Got Tickets (10% booking fee applies)](http://www.wegottickets.com/wordofwarning) OR reserved over the phone 07581 299 439 (leave a message + we'll get back to you); remaining tickets will be available at Matthias Court (cash only) just before the performances.        
         
 ####Access Information      
-As a sited event, Domestic II presents a number of access challenges please see [front page](/current/2015-domestic) for details.    
+As a sited event, Domestic II presents a number of access challenges please see [front page](/archive/2015-domestic) for details.    
 Age advisory: 14+ For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.       
 
 ####More    
@@ -43,7 +43,7 @@ Catherine Hoffmann explores the intersection between performance art, theatre, c
 
 Described as an elemental weather system, she creates a mixture of interactive one to one performances as well as staged pieces. She toys with personas and atmospheres that expose vulnerability, power and assumptions about identity and performance itself. She is concerned with exposing psychological fragility and personal rituals to address complex issues relating to who we are and the constraints in our contemporary lives with absurd humour playing an important role.    
 
-Recently she has made work for The Festival of Love at The Southbank, Latitude, In Between Time, Sprint festival at CPT, The National Portrait Gallery, markets, buses, gardens, fields, bars and boxes in the UK and Europe. In October she will be performing in Love Letters to a (post) Europe in BIOS, Athens. She presents work with Home Live Art, and performs with Dickie Beau as part of The House of Strange Loops and with Lundahl and Seitl. Her video TRAMP part of Molly and Me was selected for the Re.act Feminism 2 archive tour of European galleries in 2014-15.    
+Recently she has made work for The Festival of Love at The Southbank, Latitude, In Between Time, Sprint festival at CPT, The National Portrait Gallery, markets, buses, gardens, fields, bars and boxes in the UK and Europe. In October 2015 she will be performing in Love Letters to a (post) Europe in BIOS, Athens. She presents work with Home Live Art, and performs with Dickie Beau as part of The House of Strange Loops and with Lundahl and Seitl. Her video *TRAMP part of Molly and Me* was selected for the Re.act Feminism 2 archive tour of European galleries in 2014-15.    
 
 ####What people have said about her                                                
 >*Catherine Hoffmann, is such a commanding presence…Her voice is full and gorgeous, the more bestial and primal her performance becomes, the more thrillingly alive the work feels…*<br>This Is Cabaret   
