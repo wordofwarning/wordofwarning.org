@@ -17,6 +17,6 @@ header_image: "header_emergencynw.jpg"
 ---
 Following [**DivergencyMcr**](http://divergencymcr.posthaven.com) — a [Creative Case NORTH](http://www.zendeh.com/blog/#announcement) residency exploring diversity in live art and contemporary performance, undertaken by [hÅb](/hab) + [STUN (Sustained Theatre Up North)](http://stunlive.com) — we are delighted to have received Grants for the Arts funding to continue the project.    
      
-During 2015 Divergency will organise a series of meals, discussions, workshops, sharings and performances with a group of local artists and a series of visiting artists — the first public performance being **[Ria Hartley](/current/2015-springsummer/hartley)'s *Matilda and Me*** on 25 June 2015 at 7.30pm in the STUN Studio at Z-arts.        
+During 2015 Divergency will organise a series of meals, discussions, workshops, sharings and performances with a group of local artists and a series of visiting artists — the first public performance being **[Ria Hartley](/archive/2015-springsummer/hartley)'s *Matilda and Me*** on 25 June 2015 at 7.30pm in the STUN Studio at Z-arts.        
         
 To find out more about Divergency or to get involved email <mailto:divergency@habmcr.org> or keep in touch via the [DivergencyMcr blog](http://divergencymcr.posthaven.com).
