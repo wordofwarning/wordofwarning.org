@@ -16,7 +16,7 @@ Since January 2012, however hÅb gone 'public' in the guise of [Word of Warning]
         
 From [Emergency](/hab/emergency), an annual micro-festival for new live work (now entering its seventeenth year) which presents over 25 short pieces in a day each October and its Merseyside sibling, ['Poolside Emergency](/hab/poolside); through [Works Ahead](/hab/worksahead), a series of small commissions for new work — we aim to provide a joined-up series of opportunities for emerging new work and artists in contemporary performance and live art. We also co-produce the annual [Turn](/hab/turn) micro-festival for new NW dance + dance-makers each spring, and the ensuing Turn Prize.    
         
-hÅb also works as a curator of sited performance and intervention presenting [Hazard](/hab/hazard), a biennial micro-festival of intervention, taking performance out of the black box environment and into Manchester city centre (next in July 2016), as well as [Haphazard](/hab/haphazard), our more frequent foray into all ages live art and             
+hÅb also works as a curator of sited performance and intervention presenting [Hazard](/hab/hazard), a biennial micro-festival of intervention, taking performance out of the black box environment and into Manchester city centre (next in July 2016), as well as [Haphazard](/hab/haphazard), our more frequent foray into all ages live art in Z-arts.             
         
 In any given year, hÅb might work with 200 artists, present 3 platforms, 1 sited festival and show over 100 pieces of work (under the guise of [Word of Warning](/index)).      
          
