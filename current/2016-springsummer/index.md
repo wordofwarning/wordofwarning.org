@@ -1,14 +1,14 @@
 ---
 
 # CONFIGURATION
-layout: 2016-spring
+layout: 2016-springsummer
 rootpath: "../../"
 is_index: true
 
 ---
 *Book-ended by random horse metaphors, this short, sharp shock of a season spans just six weeks and takes a [canter through gender binaries](/current/2016-spring/macaskill), the [darker side of intimacy](/current/2016-spring/noble), [stupendous magic](/current/2016-spring/gambini) and a [bonkers bash for the young at heart](/current/2016-haphazard). Before we ride off into the Easter sunset, you might also just catch us doing some eggy filming out on the streets…*          
           
-We look forward to seeing you at some or all of it; if you want to check out what happened last season take a look at our [A/W 2015 archive](/archive/2015-autumnwinter), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=144976563660" target="_blank">online survey</a>.       
+We look forward to seeing you at some or all of it; if you want to check out what happened last season take a look at our [Spring 2016 archive](/current/2016-spring), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=144976563660" target="_blank">online survey</a>.       
         
 ####What is Word of Warning + where did it come from?
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of new live performance — an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work in Manchester + beyond…
@@ -21,7 +21,7 @@ Over the past four years we've shown funny, thought-provoking, beautiful work by
 ####Who's it for? Anyone looking for a different night (or day) out.            
 We don't want to put you off by talking labels – yes there'll be theatre, live art, dance – the aim is to be anything but elitist or po-faced. So if you like comedy, music, gaming or just a friendly, stimulating evening – there'll be something you might want to take a chance on.                 
         
-####What our audiences said about the work in A/W 2015    
+####What our audiences said about the work in A/W 2015 **add Spring 2016**   
 >• *Lovely show, very personal and connected with the audience.*<br>• *Fantastic, atmospheric, with an amazing variety of work.*<br>• *Great to have such exciting off beat talent.*<br>• *Really open minded and entertaining. Left me deeply moved.*<br>• *So impressed. It was an emotional rollercoaster.*<br>• *…best live art event I've been to in ages.*        
         
 ####What our audiences said about us in 2014/2015            
