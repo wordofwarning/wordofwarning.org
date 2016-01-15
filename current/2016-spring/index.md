@@ -10,7 +10,7 @@ is_index: true
           
 We look forward to seeing you at some or all of it; if you want to check out what happened last season, have a look at our [Autumn/Winter 2015 archive](/archive/2015-autumnwinter).
 
-You can also join our <a href="http://www.facebook.com/events/449979085191153" target="_blank">facebook event</a>), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=144976563660" target="_blank">online survey</a>.       
+You can also join our <a href="http://www.facebook.com/events/449979085191153" target="_blank">facebook event</a>, and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=144976563660" target="_blank">online audience survey</a>.         
         
 ####What is Word of Warning + where did it come from?
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of new live performance — an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work in Manchester + beyond…
