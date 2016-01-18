@@ -15,15 +15,15 @@ header_image: "header_turn_photo.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Turn** is our annual platform for North West† dancers + dance-makers, featuring around 15 short pieces of work over two nights in Manchester, usually held in the spring.       
+**Turn** is our annual platform for NW† dancers + dance-makers, featuring around 15 short pieces of work over two nights in Manchester, usually in the spring.       
        
-Our **eighth Turn** will take place at Contact on 22+23 April 2016 (*programme to be announced; the call out for proposals has now closed*) — to get a feel for it see 2015's [image gallery](/galleries/2015-turn) + [programe](/archive/2015-turn), or delve further with 2014's [gallery](/galleries/2014-turn) + [programme](/archive/2014-turn).       
+Our **eighth Turn** takes place at Contact on 22+23 April 2016 (*programme to be announced; the proposal call out has closed*) — to get a feel for it see 2015's [image gallery](/galleries/2015-turn) + [programe](/archive/2015-turn), or delve further with 2014's [gallery](/galleries/2014-turn) + [programme](/archive/2014-turn).       
        
 **Turn is:**        
 • a public micro-festival + open submission platform;        
 • an opportunity for artists to meet, show and peer-review work;        
-• a selection platform for the Turn Prize (*a small, supported commission, supported by Dance Manchester, Contact + hÅb*);
-• open to NW († *effectively Cheshire, Cumbria, Greater Manchester, Lancashire + Merseyside: NOT Yorkshire*) dancers + dance-makers aged 18+         
+• a selection platform for the Turn Prize (*a small, supported commission, supported by Dance Manchester, Contact + hÅb*);        
+• open to North West († *effectively Cheshire, Cumbria, Greater Manchester, Lancashire, Merseyside: NOT Yorkshire*) dancers + dance-makers aged 18+         
 • Enquiries: <mailto:turn@habarts.org> | <http://turnmcr.org> | #TurnMcr          
          
 Turn 2016 is presented/co-produced by Word of Warning/hÅb, Contact + Dance Manchester; supported using public funding by Arts Council England + funded by Manchester City Council.
