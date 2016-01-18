@@ -1,10 +1,10 @@
 ---
 # CONFIGURATION
-layout: 2015-haphazard
+layout: 2016-haphazard
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Haphazard 2015"
+artist: "Haphazard 2016"
 show: "Timed Activity between 12noon & 4pm"
 artist_size: 1
 show_size: 4
@@ -15,12 +15,12 @@ show_size: 4
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*A free event for the curious of all ages, presented by* Word of Warning *+* Z-arts*<br>Turn up at Z-arts any time from 12noon to 4pm, come and go as you please…<br>Schedule of Timed Activity updated Friday 27 February…*        
+*A free event for the curious of all ages, presented by* Word of Warning *+* Z-arts*<br>Turn up at Z-arts any time from 12noon to 4pm, come and go as you please…*        
         
 ####Venue + Booking Details, for Haphazard        
-Date: Saturday 28 February 2015, 12noon-4pm    
-[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
-Tickets: FREE no booking required († *limited capacity, sign-up on the day*)        
+Date: Saturday 20 February 2016, 12noon-4pm    
+<a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA        
+Tickets: FREE no booking required († *some limited capacity shows have sign-up sheets on the day, others operate on a first come, first served basis*)        
 Venue Tel: 0161 232 6089        
            
 ####12noon-12.20pm | 1-1.20pm | 2-2.20pm | 3-3.20pm		
@@ -56,5 +56,5 @@ A performance-maker who blurs the boundaries between reality and dreamscape, Liz
 ![My Inflatable One](Liz-Clarke.jpg)         
 <small>Image Credit: Toaster in the Bath</small>  		
 		
-####There's also [Ongoing Activity from 12noon to 4pm](/archive/2015-haphazard/ongoing):		
+####There's also [Ongoing Activity from 12noon to 4pm](/current/2016-haphazard/ongoing):		
 Anonymous | Leo Burtin | Josh Coates | Lani Irving | Peter Jacobs | Julieann O'Malley† | Natasha Patel | Ultra Violets
