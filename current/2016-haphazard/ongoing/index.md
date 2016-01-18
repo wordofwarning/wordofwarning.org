@@ -1,10 +1,10 @@
 ---
 # CONFIGURATION
-layout: 2015-haphazard
+layout: 2016-haphazard
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Haphazard 2015"
+artist: "Haphazard 2016"
 show: "Ongoing Activity from 12noon to 4pm"
 artist_size: 1
 show_size: 4
@@ -18,8 +18,8 @@ show_size: 4
 *A free event for the curious of all ages, presented by* Word of Warning *+* Z-arts*<br>Turn up at Z-arts any time from 12noon to 4pm, come and go as you please…*		
 
 ####Venue + Booking Details, for Haphazard
-Date: Saturday 28 February 2015, 12noon-4pm    
-[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
+Date: Saturday 20 February 2016, 12noon-4pm    
+<a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: FREE no booking required († *limited capacity, sign-up on the day*)        
 Venue Tel: 0161 232 6089
 
@@ -71,5 +71,5 @@ Can **your** ideas help the Queen save her bees?
 [@JulieannOMalley](http://twitter.com/JulieannOMalley)       
 ![Queen Bee](bee.jpg)        
         
-####There's also [Timed Activity between 12noon & 4pm](/archive/2015-haphazard/timed):		
+####There's also [Timed Activity between 12noon & 4pm](/current/2016-haphazard/timed):		
 Rachel Ramchurn | Robert Foster | Levantes Dance Theatre | Liz Clarke
