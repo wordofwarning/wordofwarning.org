@@ -6,9 +6,9 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Haphazard 2016" # the name of the artist or company
-show: "A free day out for the curious of all ages." # the name of the show
+show: "A free day out<br>for the curious<br>of all ages." # the name of the show
 artist_size: 1
-show_size: 4
+show_size: 2
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -23,15 +23,15 @@ Intriguing images and offbeat oddities dotted around the historic Z-arts' buildi
 ####Venue + Booking Details
 Date: Saturday 20 February 2016, 12noon-4pm    
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA        
-Entry is FREE, come + go as you please (*N.B. no ticket booking required, though* some *activity will operate on a first-come, first-served basis*).         
+Entry is FREE, come + go as you please (*N.B. no ticket booking required, though some activity will operate on a first-come, first-served basis*).         
 Venue Tel: 0161 232 6089              
          
 ####More    
-[Haphazard 2013](/archive/2013-spring/haphazard) filled Z-arts to the brim with moving musical sculptures, a bouncy squeaky ping-pong dance and an underground labyrinth (only for the brave!) whilst [2015](/archive/2015-haphazard) saw everything from quirky quoits to crotchety crochet, freaky food to a jungle jamboree, topped off with a dose of dotty dance and a plea to avenge the apiary (or save the bees!) — why not join us to see what 2016 will conjure? To get a feel for it have a look at images from [2013](/galleries/2013-haphazard) + [2015](/galleries/2015-haphazard).         
+[Haphazard 2013](/archive/2013-spring/haphazard) filled Z-arts to the brim with moving musical sculptures, a bouncy squeaky ping-pong dance and an underground labyrinth (only for the brave!); whilst [2015](/archive/2015-haphazard) saw everything from quirky quoits to crotchety crochet, freaky food to a jungle jamboree, topped off with a dose of dotty dance and a plea to avenge the apiary (or save the bees!) — why not join us to see what 2016 will conjure? To get a feel for it have a look at images from [2013](/galleries/2013-haphazard) + [2015](/galleries/2015-haphazard).         
         
-####What people said about Haphazard in 2013 + 2015        
->• *Absolutely brilliant, for kids and grown ups.*<br>• *We liked the drop-in, continuous feel, like you weren't missing stuff.*<br>• *Loved the way the event uses the whole space. Wacky and creative fun!*<br>[Audience Feedback 2015](/archive/2015-haphazard)         
->• *Great! Everyone was energetic & friendly — very easy to interact with!*<br>• *Suitably crazy & surreal for children and their grown-ups*.<br>• *Really enjoyed the event and it's particularly nice to experience something a bit different, especially as adults, it is quite eye-popping…*<br>[Audience Feedback 2013](/archive/2013-spring/haphazard)         
+####What people have said about Haphazard in 2013 + 2015        
+>• *Absolutely brilliant, for kids and grown ups.*<br>• *We liked the drop-in, continuous feel, like you weren't missing stuff.*<br>• *Loved the way the event uses the whole space. Wacky and creative fun!*<br>Audience Feedback from [2015](/archive/2015-haphazard)         
+>• *Great! Everyone was energetic & friendly — very easy to interact with!*<br>• *Suitably crazy & surreal for children and their grown-ups*.<br>• *Really enjoyed the event and it's particularly nice to experience something a bit different, especially as adults, it is quite eye-popping…*<br>Audience Feedback from [2013](/archive/2013-spring/haphazard)         
         
 ####Access Information    
 [Haphazard](/hab/haphazard) 2016 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some parts of the Z-arts building are not wheelchair accessible. Age advisory: suitable for ALL. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
