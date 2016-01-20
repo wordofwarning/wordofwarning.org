@@ -6,9 +6,9 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Haphazard 2016" # the name of the artist or company
-show: "A free day out<br>for the curious<br>of all ages." # the name of the show
+show: "A free day out<br>for the curious<br>of ALL ages." # the name of the show
 artist_size: 1
-show_size: 2
+show_size: 1
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
