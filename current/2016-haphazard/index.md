@@ -23,7 +23,7 @@ Intriguing images and offbeat oddities dotted around the historic Z-arts' buildi
 ####Venue + Booking Details
 Date: Saturday 20 February 2016, 12noon-4pm    
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA        
-Entry is FREE, come + go as you please (*N.B. no booking required, though some limited capacity activity **may** have a sign-up sheet on the day, or operate on a first come, first served basis*).         
+Entry is FREE, come + go as you please (*N.B. no ticket booking required, though* some *activity will operate on a first-come, first-served basis*).         
 Venue Tel: 0161 232 6089              
          
 ####More    
