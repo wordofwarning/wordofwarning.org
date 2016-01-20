@@ -37,5 +37,5 @@ Venue Tel: 0161 232 6089
 [Haphazard](/hab/haphazard) 2016 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some parts of the Z-arts building are not wheelchair accessible. Age advisory: suitable for ALL. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
         
 ####Credits         
-Presented by Word of Warning + Z-arts; co-produced by hÅb + Z-arts; supported using public funding by Arts Council England + funded by Manchester City Council.
+Presented by Word of Warning + Z-arts; produced by hÅb + Z-arts; supported using public funding by Arts Council England + funded by Manchester City Council.        
 <a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | #Haphazard
