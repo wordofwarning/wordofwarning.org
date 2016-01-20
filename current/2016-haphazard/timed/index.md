@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Haphazard 2016"
-show: "Timed Activity between 12noon & 4pm"
+show: "activity happening at specific times between 12noon & 4pm"
 artist_size: 1
 show_size: 4
 
@@ -20,9 +20,9 @@ show_size: 4
 ####Venue + Booking Details, for Haphazard        
 Date: Saturday 20 February 2016, 12noon-4pm    
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA        
-Tickets: FREE no booking required († *some limited capacity shows have sign-up sheets on the day, others operate on a first come, first served basis*)        
+Entry is FREE, come and go as you please (*N.B. no ticket booking required, though* some† *activity will operate on a first-come, first-served basis*).        
 Venue Tel: 0161 232 6089        
-           
+        
 ####12noon-12.20pm | 1-1.20pm | 2-2.20pm | 3-3.20pm		
 **Rachel Ramchurn | *Crochet: LIVE***        
 What happens when crochet comes alive? Find out and meet the bizarrely whimsical character *Crochet* in this spontaneously woolly performance.		
@@ -56,5 +56,9 @@ A performance-maker who blurs the boundaries between reality and dreamscape, Liz
 ![My Inflatable One](Liz-Clarke.jpg)         
 <small>Image Credit: Toaster in the Bath</small>  		
 		
-####There's also [Ongoing Activity from 12noon to 4pm](/current/2016-haphazard/ongoing):		
-Anonymous | Leo Burtin | Josh Coates | Lani Irving | Peter Jacobs | Julieann O'Malley† | Natasha Patel | Ultra Violets
+####There's other activity happening all afternoon from:		
+A | B | C        
+        
+####Credits        
+Presented by Word of Warning + Z-arts; produced by hÅb + Z-arts; supported using public funding by Arts Council England + funded by Manchester City Council.        
+<a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | #Haphazard
