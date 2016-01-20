@@ -21,5 +21,5 @@ header_image: "header_haphazard.jpg"
         
 Our **[third Haphazard](/current/2016-haphazard)** takes over Z-arts on Saturday 20 February 2016, with audiences coming and going as they please between 12noon and 4pm. This is NOT live art for children but live art for ALL ages, so the day should appeal to adults and children alike (even if the kids need to explain it to the adults!).<br>Using a variety of spaces — from black box to gallery to café — the programme (tba) emphasis will be more on durational and 'come and go' work than traditional black-box shows (*N.B. the proposal call out has closed*).         
         
-[Haphazard 2016](/current/2016-haphazard) is presented by Word of Warning + Z-arts; produced by hÅb; supported using public funding by Arts Council England, funded by Manchester City Council + supported by Z-arts.         
+[Haphazard 2016](/current/2016-haphazard) is presented by Word of Warning + Z-arts; produced by hÅb + Z-arts; supported using public funding by Arts Council England + funded by Manchester City Council.         
 Enquiries: <mailto:haphazard@habarts.org> | <a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | #Haphazard
