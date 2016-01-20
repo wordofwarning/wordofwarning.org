@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Haphazard 2016"
-show: "Timed Activity between 12noon & 4pm"
+show: "Schedule of Activity, 12noon-4pm"
 artist_size: 1
 show_size: 4
 
@@ -56,5 +56,3 @@ A performance-maker who blurs the boundaries between reality and dreamscape, Liz
 ![My Inflatable One](Liz-Clarke.jpg)         
 <small>Image Credit: Toaster in the Bath</small>  		
 		
-####There's also [Ongoing Activity from 12noon to 4pm](/current/2016-haphazard/ongoing):		
-Anonymous | Leo Burtin | Josh Coates | Lani Irving | Peter Jacobs | Julieann O'Malley† | Natasha Patel | Ultra Violets
