@@ -23,8 +23,7 @@ Intriguing images and offbeat oddities dotted around the historic Z-arts' buildi
 ####Venue + Booking Details
 Date: Saturday 20 February 2016, 12noon-4pm    
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA        
-Tickets: FREE no booking required, come + go as you please.            
-*N.B. Some limited capacity shows have sign-up sheets on the day, others operate on a first come, first served basis.*         
+Entry is FREE, come + go as you please (*N.B. no booking required, though some limited capacity activity **may** have a sign-up sheet on the day, or operate on a first come, first served basis*).         
 Venue Tel: 0161 232 6089              
          
 ####More    
@@ -35,7 +34,8 @@ Venue Tel: 0161 232 6089
 >• *Great! Everyone was energetic & friendly — very easy to interact with!*<br>• *Suitably crazy & surreal for children and their grown-ups*.<br>• *Really enjoyed the event and it's particularly nice to experience something a bit different, especially as adults, it is quite eye-popping…*<br>[Audience Feedback 2013](/archive/2013-spring/haphazard)         
         
 ####Access Information    
-[Haphazard](/hab/haphazard) 2016 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some parts of the building are not wheelchair accessible. Age advisory: suitable for all. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
+[Haphazard](/hab/haphazard) 2016 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some parts of the Z-arts building are not wheelchair accessible. Age advisory: suitable for ALL. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
         
 ####Credits         
+Presented by Word of Warning + Z-arts; co-produced by hÅb + Z-arts; supported using public funding by Arts Council England + funded by Manchester City Council.
 <a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | #Haphazard
