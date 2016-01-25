@@ -28,4 +28,5 @@ Our **[fourth Works Ahead](/archive/2015-worksahead)** took place in April 2015 
            
 Our **fifth Works Ahead** takes place 3+4 June 2016 at Contact, with artists to be announced during February…        
         
-Works Ahead is commissioned by hÅb + co-produced with Contact; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentor: Peader Kirk | <a href="http://worksahead.org" target="_blank">worksahead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
+Works Ahead is commissioned by hÅb + co-produced with Contact; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentor: Peader Kirk
+<a href="http://worksahead.org" target="_blank">worksahead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
