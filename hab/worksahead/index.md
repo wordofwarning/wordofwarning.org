@@ -22,9 +22,10 @@ The **[first Works Ahead](/archive/2012-woah)** took place in May/June 2012, wit
         
 The **[second Works Ahead](/archive/2013-worksahead)** took place in May 2013, once more at Contact, with a night of work that moved you from 70/30 Split, Kitty Graham, Joseph Lau + Ellen Turner (*winner of the 2012 Turn Prize*); and a night of work that spoke to you from Lena Simic, Façade Theatre + Wayne Steven Jackson… See their [image gallery](/galleries/2013-woah).        
        
-The **[third Works Ahead](/archive/2014-worksahead)** took place 8+9 May 2014 at Contact, with a triple-bill of work that delved into the mindset of the performer from Lindsay Bennett, Paul O'Donnell + SheepKnuckle… See their [image gallery](/galleries/2014-woah).        
+The **[third Works Ahead](/archive/2014-worksahead)** took place in May 2014 at Contact, with a triple-bill of work that delved into the mindset of the performer from Lindsay Bennett, Paul O'Donnell + SheepKnuckle… See their [image gallery](/galleries/2014-woah).        
         
-Our **[fourth Works Ahead](/archive/2015-worksahead)** took place 24+25 April 2015 at Contact, with a double-bill from Nathan Birkinshaw + Jamil Keating: two young male artists questioning manliness in this digitised, disembodied, discombobulated era… See their [image gallery](/galleries/2015-woah).          
+Our **[fourth Works Ahead](/archive/2015-worksahead)** took place in April 2015 at Contact, with a double-bill from Nathan Birkinshaw + Jamil Keating: two young male artists questioning manliness in this digitised, disembodied, discombobulated era… See their [image gallery](/galleries/2015-woah).          
            
-Works Ahead is commissioned by hÅb + co-produced with Contact; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentor: Peader Kirk         
-<http://worksahead.org> | #WorksAhead
+Our **fifth Works Ahead** takes place 3+4 June 2016 at Contact, with artists to be announced during February…        
+        
+Works Ahead is commissioned by hÅb + co-produced with Contact; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentor: Peader Kirk | <a href="http://worksahead.org" target="_blank">worksahead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
