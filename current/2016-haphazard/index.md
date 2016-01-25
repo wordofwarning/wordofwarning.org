@@ -29,7 +29,7 @@ Venue Tel: 0161 232 6089
 ####More    
 [Haphazard 2013](/archive/2013-spring/haphazard) filled Z-arts to the brim with moving musical sculptures, a bouncy squeaky ping-pong dance and an underground labyrinth (only for the brave!); whilst [2015](/archive/2015-haphazard) saw everything from quirky quoits to crotchety crochet, freaky food to a jungle jamboree, topped off with a dose of dotty dance and a plea to avenge the apiary (or save the bees!) — why not join us to see what 2016 will conjure? To get a feel for it have a look at images from [2013](/galleries/2013-haphazard) + [2015](/galleries/2015-haphazard).         
         
-####What people have said about Haphazard in before        
+####What people have said about Haphazard before        
 >• *Absolutely brilliant, for kids and grown ups.*<br>• *We liked the drop-in, continuous feel, like you weren't missing stuff.*<br>• *Loved the way the event uses the whole space. Wacky and creative fun!*<br>[Audience Feedback from 2015](/archive/2015-haphazard)         
 >• *Great! Everyone was energetic & friendly — very easy to interact with!*<br>• *Suitably crazy & surreal for children and their grown-ups*.<br>• *Really enjoyed the event and it's particularly nice to experience something a bit different, especially as adults, it is quite eye-popping…*<br>[Audience Feedback from 2013](/archive/2013-spring/haphazard)         
         
@@ -37,4 +37,5 @@ Venue Tel: 0161 232 6089
 [Haphazard](/hab/haphazard) 2016 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some parts of the Z-arts building are not wheelchair accessible. Age advisory: suitable for ALL. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
         
 ####Credits         
-Produced by hÅb + Z-arts; supported using public funding by Arts Council England + funded by Manchester City Council; supported by the Paul Hamlyn Foundation Breakthrough Fund. | <a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | <a href="http://twitter.com/hashtag/Haphazard" target="_blank">#Haphazard</a>
+Produced by hÅb + Z-arts; supported using public funding by Arts Council England + funded by Manchester City Council; supported by the Paul Hamlyn Foundation Breakthrough Fund.        
+<a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | <a href="http://twitter.com/hashtag/Haphazard" target="_blank">#Haphazard</a> | <a href="http://www.facebook.com/events/539217769586878" target="_blank">Haphazard 2016 on Facebook</a>
