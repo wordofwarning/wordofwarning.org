@@ -30,7 +30,7 @@ Venue Tel: 0161 232 6089
 [Haphazard 2013](/archive/2013-spring/haphazard) filled Z-arts to the brim with moving musical sculptures, a bouncy squeaky ping-pong dance and an underground labyrinth (only for the brave!); whilst [2015](/archive/2015-haphazard) saw everything from quirky quoits to crotchety crochet, freaky food to a jungle jamboree, topped off with a dose of dotty dance and a plea to avenge the apiary (or save the bees!) — why not join us to see what 2016 will conjure?
             
 Haphazard 2016 features activity from (*subject to change*):        
-Artizani | Doris La Trine | Eilidh MacAskill + Rosana Cade (Gendersaurus Rex) | Fi Simpson + Shaun Wykes | Gareth Cutter | Katy Baird | Katy Dye | Left Leg Gallery | Lucy McCormick | Marcus Orlandi | Matt Girling | Same Difference | Travelling Lights        
+Artizani | Doris La Trine | Eilidh MacAskill + Rosana Cade (Gendersaurus Rex) | Gareth Cutter | Katy Baird | Katy Dye | Left Leg Gallery | Lucy McCormick | Marcus Orlandi | Matt Girling | Same Difference | Travelling Lights | Two Sea Why       
             
 To get a feel for it have a look at images from [2013](/galleries/2013-haphazard) + [2015](/galleries/2015-haphazard).         
         
