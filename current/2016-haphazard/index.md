@@ -17,7 +17,7 @@ show_size: 3
 ---
 *Presented by* Word of Warning + Z-arts          
 
-###Saturday 20 February 2016, 12noon-4pm. Free             
+###Saturday 20 February 2016, 12noon-4pm. FREE             
 Intriguing images and offbeat oddities dotted around the historic Z-arts' building. Playful, quirky, engaging and sometimes plain daft: this is a day for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out! *Turn up at any time and come and go as you please.*            
            
 ####Venue + Booking Details
