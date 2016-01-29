@@ -23,14 +23,14 @@ Intriguing images and offbeat oddities dotted around the historic Z-arts' buildi
 ####Venue + Booking Details
 Date: Saturday 20 February 2016, 12noon-4pm    
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA        
-Entry is FREE, come + go as you please (*N.B. no ticket booking required, though some activity will operate on a first-come, first-served basis*).         
+Entry is FREE, come + go as you please (*N.B. no ticket booking required, though some† activity will operate on a first-come, first-served basis*).         
 Venue Tel: 0161 232 6089              
             
 ####More    
 [Haphazard 2013](/archive/2013-spring/haphazard) filled Z-arts to the brim with moving musical sculptures, a bouncy squeaky ping-pong dance and an underground labyrinth (only for the brave!); whilst [2015](/archive/2015-haphazard) saw everything from quirky quoits to crotchety crochet, freaky food to a jungle jamboree, topped off with a dose of dotty dance and a plea to avenge the apiary (or save the bees!) — why not join us to see what 2016 will conjure?
             
-Haphazard 2016 features activity from (*subject to change*):        
-Artizani | Doris La Trine | Eilidh MacAskill + Rosana Cade (Gendersaurus Rex) | Flipbook People | Gareth Cutter | Katy Baird | Katy Dye | Left Leg Gallery | Lucy McCormick | Marcus Orlandi | Matt Girling | Same Difference | Travelling Lights         
+Haphazard 2016 features [activity](/current/2016-haphazard/programme) from (*artists subject to change*):        
+Artizani | Doris La Trine | Eilidh MacAskill + Rosana Cade (Gendersaurus Rex) | † Flipbook People | Gareth Cutter | Katy Baird | Katy Dye | Left Leg Gallery | Lucy McCormick | Marcus Orlandi | Matt Girling | Same Difference | Travelling Lights         
             
 To get a feel for it have a look at images from [2013](/galleries/2013-haphazard) + [2015](/galleries/2015-haphazard).         
         
