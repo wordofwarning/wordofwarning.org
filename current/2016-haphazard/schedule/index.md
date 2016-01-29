@@ -26,15 +26,16 @@ Venue Tel: 0161 232 6089
 ####Artists + Activity (*subject to change*)        
 **Artizani | *The Bees: Colony***        
 Multiple handmade hives, each hiding an unexpected honey-scented world to challenge, charm and confound expectation. Tended by ethereal beekeepers, visitors participate in multi-sensory micro-experiences of sight, sound, taste, smell and touch.        
+        
 >*Bees!… has done much to raise the quality of outdoor performing arts… something different and distinctive* — Lyn Gardner, The Guardian        
         
 **Doris La Trine | *Flushed!***        
 Doris La Trine has finally come out the (water) closet, and is trying to say goodbye to her beloved giant golden toilet, Len, in this feminist visual and physical tragi-comedy.        
         
-**Eilidh MacAskill + Rosana Cade | *Gendersaurus Rex: The Clothes Show***        
+**Eilidh MacAskill + Rosana Cade | *Gendersaurus Rex: The Clothes Show*** (header image)        
 Meet the Gendersaurus Rex — the genial host of this gender-busting fashion show like no other… with dinosaurs.        
         
-**Flipbook People | *Flipbook Live***        
+† **Flipbook People | *Flipbook Live***        
 Remember body flipbooks? Some of the characters have come to life! And you have an opportunity to join them as a flipbook character of your own creation: a 'swimming cowboy clown' or 'hula dancing doctor king'. It's up to you!        
         
 **Gareth Cutter | *I Am A Volcano***        
@@ -52,7 +53,7 @@ Crazy Golf meets action painting. Load your golf ball with paint and aim for a h
 **Lucy McCormick | *Animal Study***        
 Part Disney film, part #LOLcat vine: Man is Dog, Woman is Cat but without the furry façade. A roaming challenge to sensible public behaviour.<br>*Can you see the kitty? Perhaps she is sitting on the wall. Oh look there's a doggy too, and he wants to play!*        
         
-**Marcus Orlandi | *Two Reeler***
+**Marcus Orlandi | *Two Reeler***        
 Inspired by the early era films of Chaplin, Keaton and Lloyd, everyday household objects are misused, misunderstood and confused. Expect slapstick, awkwardness and tuneless song!        
          
 **Matt Girling | *Pastures new***       
