@@ -26,7 +26,7 @@ Venue Tel: 0161 232 6089
 ####Artists + Activity (*subject to change*)        
 **Artizani | *The Bees: Colony***        
 Multiple handmade hives, each hiding an unexpected honey-scented world to challenge, charm and confound expectation. Tended by ethereal beekeepers, visitors participate in multi-sensory micro-experiences of sight, sound, taste, smell and touch.        
->"*Bees!*… has done much to raise the quality of outdoor performing arts… something different and distinctive"<br>Lyn Gardner, The Guardian        
+>*Bees!… has done much to raise the quality of outdoor performing arts… something different and distinctive* — Lyn Gardner, The Guardian        
         
 **Doris La Trine | *Flushed!***        
 Doris La Trine has finally come out the (water) closet, and is trying to say goodbye to her beloved giant golden toilet, Len, in this feminist visual and physical tragi-comedy.        
@@ -44,7 +44,7 @@ A volcano is getting ready to erupt… active and ominous, this volcano isn't ma
 Katy is selling her entire wardrobe — in a bid to change herself. Don't bring cash, but bring your ideas and get rid of those February blues in this sale of the season. *Everything must go!*        
         
 **Katy Dye | *RATS!***        
-Crawling in our kitchens and blocking up our drainpipes, nibbling at our cornflakes and scratching at our doorsteps… dirty, smelly, flea-bitten, disease-ridden, ugly, amazing RATS!<br>A performance that explores rodent reputation and tries to redress the balance — after all, it's a hard life being a rat!         
+Crawling in our kitchens and blocking up our drainpipes, nibbling at our cornflakes and scratching at our doorsteps… dirty, smelly, flea-bitten, disease-ridden, ugly, amazing *RATS!* A performance that explores rodent reputation and tries to redress the balance — after all, it's a hard life being a rat!         
         
 **Left Leg Gallery | *Crazy F.O.R.E***        
 Crazy Golf meets action painting. Load your golf ball with paint and aim for a hole in one!        
@@ -62,4 +62,4 @@ Watch the unfolding of a strange and exciting tiny world, ready to be inhabited 
 Just above our heads is an entirely different and unexplored realm — always present but just out of reach. Use our giant periscope to see a familiar place anew for a literal and metaphorical change of perspective.        
         
 **Travelling Lights | *Ludicrously Luminous***        
-Digital meets steampunk in this mesmerising lightshow, as a helix of light colour and pattern swirls above your head.<br>An eccentric trio of machines — re-fashioned beer pumps, an old laundry mangle and the mysterious Helical Morphosis Configurator — put the control in your hands.
+Digital meets steampunk in this mesmerising lightshow, as a helix of light colour and pattern swirls above your head. An eccentric trio of machines — re-fashioned beer pumps, an old laundry mangle and the mysterious Helical Morphosis Configurator — put the control in your hands.
