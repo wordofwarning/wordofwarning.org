@@ -5,9 +5,9 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Haphazard 2016"
-show: "Schedule of Activity, 12noon-4pm"
+show: "Artists + Activity, 12noon-4pm"
 artist_size: 1
-show_size: 4
+show_size: 3
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -23,5 +23,4 @@ Date: Saturday 20 February 2016, 12noon-4pm
 Entry is FREE, come and go as you please (*N.B. no ticket booking required, though some† activity will operate on a first-come, first-served basis*).        
 Venue Tel: 0161 232 6089        
          
-####Schedule (*timings are approximate + subject to change*)        
-*To be announced in early February*
+####Artists in Alphabetical Order (*subject to change*)        
