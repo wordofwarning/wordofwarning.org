@@ -32,7 +32,7 @@ Multiple handmade hives, each hiding an unexpected honey-scented world to challe
 **Doris La Trine | *Flushed!***        
 Doris La Trine has finally come out the (water) closet, and is trying to say goodbye to her beloved giant golden toilet, Len, in this feminist visual and physical tragi-comedy.        
         
-**Eilidh MacAskill + Rosana Cade | *Gendersaurus Rex: The Clothes Show*** (header image)        
+**Eilidh MacAskill + Rosana Cade | *Gendersaurus Rex: The Clothes Show <small>(header image)</small>***        
 Meet the Gendersaurus Rex — the genial host of this gender-busting fashion show like no other… with dinosaurs.        
         
 † **Flipbook People | *Flipbook Live***        
