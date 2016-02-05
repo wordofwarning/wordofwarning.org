@@ -20,13 +20,13 @@ show_size: 3
 *Presented by* Word of Warning + Contact
          
 ### Friday 3 + Saturday 4 June 2016        
-Our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content. Autumn 2015 saw Word of Warning show over 40 emerging performances in spaces ranging from a building site to a theatre… From this enormous variety of work we have invited four artists at different stages in their careers to further develop their shows for Works Ahead 2016. They're all at the very beginning of their explorations…        
+Our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content. [Autumn 2015](/archive/2015-autumnwinter) saw Word of Warning show over 40 emerging performances in spaces ranging from a building site to a theatre… From this enormous variety of work we have invited four artists at different stages in their careers to further develop their shows for Works Ahead 2016. They're all at the very beginning of their explorations…        
         
 **AFTERNOONS: Works Ahead Compact Edition, times + prices tbc**        
 Micro-performances in hidden spaces from Terri Donovan + Afreena Islam
 
 **EVENINGS: Works Ahead, from 7.30pm. £6/3**          
-A double bill from Top Joe + Lucy McCormick        
+A performance double bill from Top Joe + Lucy McCormick        
         
 #### Artists        
 **Terri Donovan**        
