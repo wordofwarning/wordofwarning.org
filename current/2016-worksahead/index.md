@@ -22,13 +22,13 @@ show_size: 3
 ### Friday 3 + Saturday 4 June 2016        
 Our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content. Autumn 2015 saw Word of Warning show over 40 emerging performances in spaces ranging from a building site to a theatre… From this enormous variety of work we have invited four artists at different stages in their careers to further develop their shows for Works Ahead 2016. They're all at the very beginning of their explorations…        
         
-##### AFTERNOONS: Works Ahead Compact Edition, times + prices tbc        
+**AFTERNOONS: Works Ahead Compact Edition, times + prices tbc**        
 Micro-performances in hidden spaces from Terri Donovan + Afreena Islam
 
-##### EVENINGS: Works Ahead, from 7.30pm. £6/3          
+**EVENINGS: Works Ahead, from 7.30pm. £6/3**          
 A double bill from Top Joe + Lucy McCormick        
         
-#### More        
+#### Artists        
 **Terri Donovan**        
 "*Finding Elsie* is about me, my Dad, my Gran… and dementia. This is my exploration of how relationships change and continue to change in my attempt to find a true reflection of my Elsie."        
 <a href="http://twitter.com/TerriTezmabob" target="_blank">@TerriTezmabob</a>        
@@ -38,27 +38,28 @@ A double bill from Top Joe + Lucy McCormick
 <a href="http://twitter.com/afreenaazaria" target="_blank">@afreenaazaria</a>         
         
 **Lucy McCormick**         
-"I have cast myself as God in a large scale biblical re-enactment, performed via pop ballads and performance art, and with the help of two backing dancers. I was partly inspired to create this work by an ongoing interest in the Quaker belief in 'God' as one's own moral conscience — that of 'God in everyone'. The piece is also an exercise in casting myself as the Ultimate Man, and so allows for my interests and frustrations in gender politics and feminist discourse."           
+"I have cast myself as God in a large scale biblical re-enactment, performed via pop ballads and performance art, and with the help of two backing dancers. I was partly inspired to create this work by an ongoing interest in the Quaker belief in 'God' as one's own moral conscience — that of 'God in everyone'.<br>"The piece is also an exercise in casting myself as the Ultimate Man, and so allows for my interests and frustrations in gender politics and feminist discourse."           
 <a href="http://twitter.com/lucy_muck" target="_blank">@lucy_muck</a>        
         
 **Top Joe**             
 Top Joe is a timid character who wears a hi-vis jacket and only comes out at night. He occasionally braves leaving the house in order to meet people and give his thoughts on life, vouchers and pistachios.<br>For Works Ahead he is developing a piece that explores the nature of Ross Kemp, Dyson vacuum cleaners, identity, comedy, and childhood.        
 <a href="http://twitter.com/toptopjoe" target="_blank">@toptopjoe</a> | <a href="http://vimeo.com/topjoe" target="_blank">vimeo.com/topjoe</a>        
         
-#### Venue + Booking Details, for Top Joe + Lucy McCormick double bill        
-Dates: Friday 3 + Saturday 4 June 2016, 7.30pm        
+#### Venue + Booking Details, for double bill        
+Dates: Friday 3 + Saturday 4 June 2016, from 7.30pm        
 <a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact</a>, Oxford Road, Manchester, M15 6JA         
 <a href="http://contactmcr.com/whats-on/47292-works-ahead/booking" target="_blank">Tickets: £6/3</a>               
 Box Office Tel: 0161 274 0600        
           
-#### What people said about [Works Ahead 2015](/archive/2015-worksahead)        
+#### What people have said about Works Ahead before        
 >• *Brilliant works in progress, varied and interesting.*        
 >• *Good to see a space for something a bit different.*        
 >• *I enjoyed both shows even though they were very different. I look forward to seeing how they develop.*          
+[Audience feedback from 2015](/archive/2015-worksahead)
         
 #### Access Information        
 Age advisory: TBC. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
         
 #### Credits         
-[Works Ahead](/hab/worksahead) 2016 is co-commissioned by hÅb + Contact; supported using public funding by Arts Council England + funded by Manchester City Council. | Project Mentor: Peader Kirk        
-<a href="http://worksahead.org" target="_blank">worksahead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
+[Works Ahead](/hab/worksahead) 2016 is co-commissioned by hÅb + Contact; supported using public funding by Arts Council England + funded by Manchester City Council.        
+Project Mentor: Peader Kirk | <a href="http://worksahead.org" target="_blank">worksahead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
