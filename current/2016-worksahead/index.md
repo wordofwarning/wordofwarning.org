@@ -20,11 +20,31 @@ show_size: 3
 *Presented by* Word of Warning + Contact
          
 ###Friday 3 + Saturday 4 June 2016        
-Our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content. To date, Works Ahead has brushed the petticoats of dance, skirted the fringes of musical theatre, warped the lines of performance installation, delved into the mindset of the performer, and questioned manliness in this digitised, disembodied, discombobulated era…         
-         
-2016 sees four new works in development:        
-PERFORMANCES from Lucy McCormick + Top Joe        
-INTERACTIONS from Afreena Islam + Terri Donovan       
+Our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content.     
+Autumn 2015 saw Word of Warning show over 40 emerging performances in spaces ranging from a building site to a theatre… From this enormous variety of work we have invited four artists at different stages in their careers to further develop their shows for Works Ahead 2016.  They’re all at the very beginning of their explorations....         
+
+AFTERNOONS: WORKS AHEAD COMPACT EDITION - times + prices tbc
+micro-performances in hidden spaces
+Terri Donovan + Afreena Islam
+
+EVENINGS: WORKS AHEAD - from 7.30pm £6/3
+Top Joe + Lucy McCormick
+
+#### More
+Terri Donovan
+“Finding Elsie is about me, my Dad, my Gran… and dementia. This is my exploration of how relationships change and continue to change in my attempt to find a true reflection of my Elsie.
+
+Afreena Islam
+“Daughters of the Curry Revolution is about my Dad - or is it about me? Where am I up to now? I’ve been trying to make it for about 3 years now and I still want to do more writing, to unearth more stories and to pin down really who it’s about!”
+
+Lucy McCormick: 
+“I have cast myself as God in a large scale biblical re-enactment, performed via pop ballads and performance art, and with the help of two backing dancers. I was partly inspired to create this work by an ongoing interest in the Quaker belief in ‘God’ as one’s own moral conscience - ‘that of God in everyone’. The piece is also an exercise in casting myself as the Ultimate Man, and so allows for my interests and frustrations in gender politics and feminist discourse.”
+
+Top Joe
+“Top Joe is a timid character who wears a hi-vis jacket and only comes out at night. He occasionally braves leaving the house in order to meet people and give his thoughts on life, vouchers and pistachios.
+For Works Ahead 2016 he is developing a piece that explores the nature of Ross Kemp, Dyson vacuum cleaners, identity, comedy, and childhood.
+He's on vimeo at www.vimeo.com/topjoe”
+    
         
 ####Venue + Booking Details
 Dates: Friday 3 + Saturday 4 June 2016, 7.30pm (Lucy + Top Joe Double Bill)        
