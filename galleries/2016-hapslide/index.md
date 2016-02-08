@@ -12,7 +12,7 @@ more_link: Haphazard 2016
 more_url: "../../current/2016-haphazard"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "<small>A free day out for the curious of all ages.", show: Eilidh MacAskill + Rosana Cade, Gendersaurus Rex; image Jassy Earl"</small>"}
+    -   {file: "titlepage.jpg", artist: "<small>A free day out for the curious of all ages.",  show: "Eilidh MacAskill + Rosana Cade, Gendersaurus Rex; image Jassy Earl</small>"}
     -   {file: "travellinglights.jpg", artist: "Travelling Lights"}
     -   {file: "artizani.jpg", artist: "Artizani"}
     -   {file: "leftleg.jpg", artist: "Left Leg Gallery"}
