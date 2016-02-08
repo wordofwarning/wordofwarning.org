@@ -48,8 +48,8 @@ Katy is selling her entire wardrobe — in a bid to change herself. Don't bring 
 Crawling in our kitchens and blocking up our drainpipes, nibbling at our cornflakes and scratching at our doorsteps… dirty, smelly, flea-bitten, disease-ridden, ugly, amazing *RATS!* A performance that explores rodent reputation and tries to redress the balance — after all, it's a hard life being a rat!         
         
 **Left Leg Gallery | *Crazy F.O.R.E***        
-Crazy Golf meets action painting. Load your golf ball with paint and aim for a hole in one!        
-        
+Crazy Golf meets action painting. Load your golf ball with paint and aim for a hole in one! Check out videos <a href="https://vimeo.com/154595130?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=28749">here </a> and <a href="https://vimeo.com/154595129?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=28749">here </a>      
+     
 **Lucy McCormick | *Animal Study***        
 Part Disney film, part #LOLcat vine: Man is Dog, Woman is Cat but without the furry façade. A roaming challenge to sensible public behaviour.<br>*Can you see the kitty? Perhaps she is sitting on the wall. Oh look there's a doggy too, and he wants to play!*        
         
