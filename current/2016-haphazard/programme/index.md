@@ -34,14 +34,14 @@ Inspired by the early era films of Chaplin, Keaton and Lloyd, everyday household
          
 **2pm — Eilidh MacAskill + Rosana Cade | *Gendersaurus Rex: The Clothes Show* <small>(header image)</small>**        
 Meet the Gendersaurus Rex — the genial host of this gender-busting fashion show like no other… with dinosaurs.        
-<a href="http://twitter.com/EilidhUkulele" target="_blank">@EilidhUkulele</a> <a href="http://twitter.com/RosanaCade" target="_blank">@RosanaCade</a> <a href="http://twitter.com/GendersaurusRex" target="_blank">@GendersaurusRex</a> | <a href="http://facebook.com/gendersaurus" target="_blank">Gendersaurus Rex Facebook</a>        
+<a href="http://twitter.com/EilidhUkulele" target="_blank">@EilidhUkulele</a> <a href="http://twitter.com/RosanaCade" target="_blank">@RosanaCade</a> <a href="http://twitter.com/GendersaurusRex" target="_blank">@GendersaurusRex</a> | <a href="http://facebook.com/gendersaurus" target="_blank">Gendersaurus Facebook</a>        
         
 #### Activity All Afternoon (*subject to change*)        
 **Artizani | *The Bees: Colony***        
 Multiple handmade hives, each hiding an unexpected honey-scented world to challenge, charm and confound expectation. Tended by ethereal beekeepers, visitors participate in multi-sensory micro-experiences of sight, sound, taste, smell and touch.        
+<a href="http://twitter.com/ArtizaniUK" target="_blank">@ArtizaniUK</a> | <a href="http://facebook.com/Artizani-131426260302569" target="_blank">Artizani Facebook</a>         
         
->*Bees!… has done much to raise the quality of outdoor performing arts… something different and distinctive* — Lyn Gardner, The Guardian        
-<a href="http://twitter.com/ArtizaniUK" target="_blank">@ArtizaniUK</a> | <a href="http://facebook.com/Artizani-131426260302569" target="_blank">Artizani Facebook</a>        
+>*Bees!… has done much to raise the quality of outdoor performing arts… something different and distinctive* — Lyn Gardner, The Guardian         
         
 **Doris La Trine | *Flushed!***        
 Doris La Trine has finally come out of her (water) closet as it's time she said goodbye to her beloved Len, her golden giant toilet, a queer couple. A feminist visual and physical tragic-comedy.         
