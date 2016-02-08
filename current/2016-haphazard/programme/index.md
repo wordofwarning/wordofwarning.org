@@ -23,7 +23,17 @@ Date: Saturday 20 February 2016, 12noon-4pm
 Entry is FREE, come and go as you please (*N.B. no ticket booking required; †Some activity will operate on a first-come, first-served basis*).        
 Venue Tel: 0161 232 6089        
          
-#### Artists + Activity (*subject to change*)        
+#### Timed Activity (*subject to change*)        
+**12.30pm, 1.30pm, 2.30pm, 3.30pm Katy Dye | *RATS!***        
+Crawling in our kitchens and blocking up our drainpipes, nibbling at our cornflakes and scratching at our doorsteps… dirty, smelly, flea-bitten, disease-ridden, ugly, amazing *RATS!* A performance that explores rodent reputation and tries to redress the balance — after all, it's a hard life being a rat!         
+        
+**1pm, 3pm — Marcus Orlandi | *Two Reeler* †**        
+Inspired by the early era films of Chaplin, Keaton and Lloyd, everyday household objects are misused, misunderstood and confused. Expect slapstick, awkwardness and tuneless song!        
+         
+**2pm — Eilidh MacAskill + Rosana Cade | *Gendersaurus Rex: The Clothes Show* <small>(header image)</small>**        
+Meet the Gendersaurus Rex — the genial host of this gender-busting fashion show like no other… with dinosaurs.        
+        
+#### Activity All Afternoon (*subject to change*)        
 **Artizani | *The Bees: Colony***        
 Multiple handmade hives, each hiding an unexpected honey-scented world to challenge, charm and confound expectation. Tended by ethereal beekeepers, visitors participate in multi-sensory micro-experiences of sight, sound, taste, smell and touch.        
         
@@ -31,9 +41,6 @@ Multiple handmade hives, each hiding an unexpected honey-scented world to challe
         
 **Doris La Trine | *Flushed!***        
 Doris La Trine has finally come out of her (water) closet as it's time she said goodbye to her beloved Len, her golden giant toilet, a queer couple. A feminist visual and physical tragic-comedy.         
-        
-**Eilidh MacAskill + Rosana Cade | *Gendersaurus Rex: The Clothes Show* <small>(header image)</small>**        
-Meet the Gendersaurus Rex — the genial host of this gender-busting fashion show like no other… with dinosaurs.        
         
 **Flipbook People | *Flipbook Live* †**        
 Remember body flipbooks? Some of the characters have come to life! And you have an opportunity to join them as a flipbook character of your own creation: a 'swimming cowboy clown' or 'hula dancing doctor king'. It's up to you!        
@@ -44,18 +51,12 @@ A volcano is getting ready to erupt… active and ominous, this volcano isn't ma
 **Katy Baird | *The Free Market***        
 Katy is selling her entire wardrobe — in a bid to change herself. Don't bring cash, but bring your ideas and get rid of those February blues in this sale of the season. *Everything must go!*        
         
-**Katy Dye | *RATS!***        
-Crawling in our kitchens and blocking up our drainpipes, nibbling at our cornflakes and scratching at our doorsteps… dirty, smelly, flea-bitten, disease-ridden, ugly, amazing *RATS!* A performance that explores rodent reputation and tries to redress the balance — after all, it's a hard life being a rat!         
-        
 **Left Leg Gallery | *Crazy F.O.R.E***        
 Crazy Golf meets action painting. Load your golf ball with paint and aim for a hole in one! Check out videos <a href="https://vimeo.com/154595130?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=28749">here </a> and <a href="https://vimeo.com/154595129?utm_source=email&utm_medium=vimeo-cliptranscode-201504&utm_campaign=28749">here. </a>      
      
 **Lucy McCormick | *Animal Study***        
 Part Disney film, part #LOLcat vine: Man is Dog, Woman is Cat but without the furry façade. A roaming challenge to sensible public behaviour.<br>*Can you see the kitty? Perhaps she is sitting on the wall. Oh look there's a doggy too, and he wants to play!*        
         
-**Marcus Orlandi | *Two Reeler* †**        
-Inspired by the early era films of Chaplin, Keaton and Lloyd, everyday household objects are misused, misunderstood and confused. Expect slapstick, awkwardness and tuneless song!        
-         
 **Matt Girling | *Pastures new***       
 Watch the unfolding of a strange and exciting tiny world, ready to be inhabited by YOUR creativity.       
         
