@@ -12,15 +12,15 @@ more_link: Haphazard 2016
 more_url: "../../current/2016-haphazard"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "<small>A free day out for the curious of all ages, click top left Haphazard for more.</small>", show: Eilidh MacAskill + Rosana Cade, Gendersaurus Rex; image Jassy Earl"<small>I"}
+    -   {file: "titlepage.jpg", artist: "<small>A free day out for the curious of all ages.", show: Eilidh MacAskill + Rosana Cade, Gendersaurus Rex; image Jassy Earl"</small>"}
     -   {file: "travellinglights.jpg", artist: "Travelling Lights"}
     -   {file: "artizani.jpg", artist: "Artizani"}
     -   {file: "leftleg.jpg", artist: "Left Leg Gallery"}
     -   {file: "garethcutter.jpg", artist: "Gareth Cutter"}
-    -   {file: "katybaird.jpg", artist: "Katy Baird; image Richard Dedomenici"}
+    -   {file: "katybaird.jpg", artist: "Katy Baird; <small> image Richard Dedomenici </small>"}
     -   {file: "dorislatrine.jpg", artist: "Doris La Trine"}
     -   {file: "mattgirling.jpg", artist: "Matt Girling"}
-    -   {file: "katydye.jpg", artist: "Katy Dye; image Daniel Hughes "}
+    -   {file: "katydye.jpg", artist: "Katy Dye; <small> image Daniel Hughes</small> "}
     -   {file: "marcusorlandi.jpg", artist: "Marcus Orlandi"}
     -   {file: "samedifference.jpg", artist: "Same Difference"}  
  
