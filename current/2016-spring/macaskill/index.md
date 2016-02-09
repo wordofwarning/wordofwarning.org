@@ -19,9 +19,9 @@ header_image: "header_macaskill.jpg"
 *Presented by* Contact + Word of Warning *during* Queer Contact 2016         
        
 #### In Brief    
-Donning her chaps to ask if size really does matter, MacAskill delivers a full-frontal assault on penis envy, female masculinity, horses and DIY.<br>*Tell me about it, Stud…*        
+Donning her chaps to ask if size really does matter, MacAskill delivers a full-frontal assault on penis envy, female masculinity, horses & DIY. <a href="http://vimeo.com/133550925" target="_blank">Trailer</a>. <br>*Tell me about it, Stud…*        
          
-See her <a href="http://vimeo.com/133550925" target="_blank">trailer</a>.          
+Now that it's over, read <a href="http://www.thestage.co.uk/reviews/2016/stud-review-at-contact-manchester-revels-in-absurdity" target="_blank">The Stage review</a>.          
         
 #### Venue + Booking Details    
 Dates: Thursday 4 — Saturday 6 February 2016, 9.30pm         
