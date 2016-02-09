@@ -33,5 +33,5 @@ archived:
     - {folder: "2012-springsummer", name: "Spring/Summer 2012", class: "ss2012"}
     
 ---
-#Archive
+# Archive
 Word of Warning's previous events, ordered chronologically by season or festival (recent first).
