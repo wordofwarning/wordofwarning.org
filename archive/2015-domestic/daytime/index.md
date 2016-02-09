@@ -18,7 +18,7 @@ header_image:
 ---
 *Presented by* Word of Warning, The Guinness Partnership *during* [Domestic II](/archive/2015-domestic)        
          
-####Saturday Daytime Performance Programme, 12noon-5pm         
+#### Saturday Daytime Performance Programme, 12noon-5pm         
 **Please note this is primarily an adult event, see Access Info below.**          
           
 [**Tin Can People | *Audio Caff***](/archive/2015-domestic/audiocaff)        
@@ -137,23 +137,23 @@ Portuguese-born Ana Mendes is a writer and artist working and living in London a
 [anamendes.com](http://www.anamendes.com) | [@anamendesana](http://twitter.com/anamendesana)       
 ![Ana Mendes](mendes_ana.jpg)    
 
-####Venue + Booking Details        
+#### Venue + Booking Details        
 Date: Saturday 26 September 2015, 12noon-5pm        
 [Venue: Matthias Court, off Cannon Street, Salford, M3 6JD](http://bit.ly/domesticTWO) — a 7 minute walk from Chapel Street / Salford Cathedral, a 13 minute walk to Salford Central Railway Station, and a 20 minute walk to Opera House on Quay Street.        
 Tickets: FREE no booking required, come + go as you please.           
 *N.B. Some limited capacity shows have sign-up sheets on the day, others operate on a first come, first served basis.*      
 Enquires: <mailto:info@habarts.org> | 07581 299 439    
          
-####Access Information      
+#### Access Information      
 As a sited event, Domestic II presents a number of access challenges. Audience members should be aware that Matthias Court is an active construction site and as such, is rough and ready. Please wear sensible shoes, warm layered clothing (that you are happy to get dirty) and be aware of possible rough floor and wall surfaces!        
             
 Mobility restrictions: We ask that any wheelchair user thinking of coming to Domestic II call us on 07581 299 439: door widths vary from 65-78cm and several of the flats have a half-step lip.     
    
 Age advisory: Domestic II is primarily aimed at adults and deals with autobiographical and social issues with some sensitive content. Works suitable for younger people during Saturday Daytime will be clearly signposted on the day. For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.            
            
-####Credits         
+#### Credits         
 [Domestic](/hab/domestic) II is produced by hÅb with support from The Guinness Partnership + Guinness Property, and  supported using public funding by the National Lottery through Arts Council England.        
 Domestic II is running alongside Flow Salford [www.flowsalford.co.uk](http://www.flowsalford.co.uk)
 
-####Websites
+#### Websites
 <http://domesticmcr.org> | [Facebook event](http://www.facebook.com/events/761760307283189) | [#domesticmcr](http://twitter.com/hashtag/domesticmcr)
