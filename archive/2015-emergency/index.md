@@ -18,7 +18,7 @@ header_image:
 ---
 *Presented by* Word of Warning, STUN + Z-arts
         
-###Saturday 3 October 2015, 12noon-10pm. FREE             
+### Saturday 3 October 2015, 12noon-10pm. FREE             
 **Manchester's manic micro-marathon of the bizarre + the beautiful celebrates sweet sixteen — from gallery to theatre, store-cupboard to stairwell, some 25 live works in a non-stop performance takeover.**         
          
 Now that it's over, have a look at the [image gallery](/galleries/2015-emergency) + read <a href="http://quietmandave.co.uk/2015/10/emergency-at-z-arts" target="_blank">QuietManDave's review</a>.           
@@ -32,25 +32,25 @@ Adam Lowe | Adam York Gregory + Gillian Jane Lees | Ali Matthews + Leo Burtin | 
            
 To get a feel for it, have a look at 2014's [programme](/archive/2014-emergency) + [gallery](/galleries/2014-emergency).       
         
-####Venue + Booking Details         
+#### Venue + Booking Details         
 Date: Saturday 3 October 2015, 12noon-10pm        
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: FREE no booking required, come + go as you please.        
 *N.B. Some limited capacity shows have sign-up sheets on the day, others operate on a first come, first served basis.*          
 Venue Tel: 0161 232 6089         
        
-####What people have said about Emergency        
+#### What people have said about Emergency        
 Emergency 2015 is a [Guardian top theatre ticket](http://www.theguardian.com/stage/theatreblog/2015/sep/28/romola-garai-fun-palaces-pomona-theatre-top-tickets).                 
           
-####Schedule (*timings are approximate + subject to change*)        
+#### Schedule (*timings are approximate + subject to change*)        
 To download, right-click + save image.        
 ![Emergency 2015 Schedule (subject to change)](Emerg-sched-portrait.jpg)           
         
-####Access Information       
+#### Access Information       
 Emergency 2015 is primarily an adult-focussed event, some works will not be suitable for younger viewers (i.e. under 18s). From 12noon experience durational and limited capacity work; from 4pm onwards see a short series of short performances. It takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some of the work is not wheelchair accessible. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
             
-####Credits         
+#### Credits         
 [Emergency](/hab/emergency) 2015 is produced by [hÅb](/hab); supported using public funding by Arts Council England, funded by Manchester City Council, supported by [STUN](http://stunlive.com) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.        
         
-####Websites
+#### Websites
 <http://emergencymcr.org> | [Facebook event](http://www.facebook.com/events/1479136439056940) |[#EmergencyMcr](http://twitter.com/hashtag/EmergencyMcr)
