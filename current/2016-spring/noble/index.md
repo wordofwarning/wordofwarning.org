@@ -45,10 +45,12 @@ A renowned performance + video artist, Kim is best known as one half of Perrier 
 Kim is an In Between Time (Bristol) Associate Artist.         
          
 #### What people have said about *You're Not Alone*        
+>★★★★ *…extraordinary, unsettling, and very funny…*<br><a href="http://www.whatsonstage.com/london-theatre/reviews/kim-noble-youre-not-alone-soho-theatre_39331.html" target="_blank">Jo Caird, What's On Stage</a>        
 >★★★★ *Fearless and tender.*<br><a href="http://www.standard.co.uk/goingout/theatre/kim-noble-you-re-not-alone-soho-theatre-review-10041114.html" target="_blank">Henry Hitchings, Evening Standard</a>        
 >★★★★ *…one of the most hypnotically involving pieces of theatre I've ever seen.*<br><a href="http://www.telegraph.co.uk/culture/theatre/edinburgh-festival/10995672/Edinburgh-theatre-2014-what-to-see.html" target="_blank">Laura Barnett, The Telegraph</a>        
 >★★★★ *…dark and often troubling<br>…a unique window on the bleak comedy of human existence.*<br><a href="http://www.theguardian.com/stage/2015/feb/22/kim-noble-youre-not-alone-review-soho-theatre-london" target="_blank">Stephanie Merritt, The Guardian</a>           
->*Warped and explicit, it is very much not for the faint-hearted. It is also one of the oddest, funniest, saddest hours of comedy I ve seen.*<br><a href="http://www.independent.co.uk/arts-entertainment/comedy/reviews/kim-noble-you-re-not-alone-soho-theatre-review-a-show-that-runs-on-surprise-and-shock-10036119.html" target="_blank">Alice Jones, The Independent</a>        
+> *An hour of HILARITY and PROFUNDITY and great power ballads*<br><a href="http://www.huffingtonpost.co.uk/jessie-thompson/kim-noble-the-dazzle_b_8825062.html" target="_blank">Jessie Thompson, Huffington Post</a>        
+>*Warped and explicit, it is very much not for the faint-hearted. It is also one of the oddest, funniest, saddest hours of comedy I've seen.*<br><a href="http://www.independent.co.uk/arts-entertainment/comedy/reviews/kim-noble-you-re-not-alone-soho-theatre-review-a-show-that-runs-on-surprise-and-shock-10036119.html" target="_blank">Alice Jones, The Independent</a>        
 >*Hilarious, unforgettable, even moving.*<br>The Times      
          
 #### Credits          
