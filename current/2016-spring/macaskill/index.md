@@ -21,7 +21,7 @@ header_image: "header_macaskill.jpg"
 #### In Brief    
 Donning her chaps to ask if size really does matter, MacAskill delivers a full-frontal assault on penis envy, female masculinity, horses & DIY; <a href="http://vimeo.com/133550925" target="_blank">see trailer</a>. <br>*Tell me about it, Stud…*        
          
-Now that it's over, read <a href="http://www.thestage.co.uk/reviews/2016/stud-review-at-contact-manchester-revels-in-absurdity" target="_blank">The Stage review</a>.          
+Now that it's over, read reviews from Queer Contact by <a href="http://www.thestage.co.uk/reviews/2016/stud-review-at-contact-manchester-revels-in-absurdity" target="_blank">The Stage</a> + <a href="http://manhattanchester.blogspot.co.uk/2016/02/queer-contact-story-so-far.html" target="_blank">Greg Thorpe</a>.          
         
 #### Venue + Booking Details    
 Dates: Thursday 4 — Saturday 6 February 2016, 9.30pm         
