@@ -21,7 +21,7 @@ header_image: "header_macaskill.jpg"
 #### In Brief    
 Donning her chaps to ask if size really does matter, MacAskill delivers a full-frontal assault on penis envy, female masculinity, horses & DIY; <a href="http://vimeo.com/133550925" target="_blank">see trailer</a>. <br>*Tell me about it, Stud…*        
          
-Now that it's over, read reviews from Queer Contact by <a href="http://www.thestage.co.uk/reviews/2016/stud-review-at-contact-manchester-revels-in-absurdity" target="_blank">The Stage</a> + <a href="http://manhattanchester.blogspot.co.uk/2016/02/queer-contact-story-so-far.html" target="_blank">Greg Thorpe</a>.          
+Now that it's over, read reviews from <a href="http://www.thestage.co.uk/reviews/2016/stud-review-at-contact-manchester-revels-in-absurdity" target="_blank">The Stage</a> + <a href="http://manhattanchester.blogspot.co.uk/2016/02/queer-contact-story-so-far.html" target="_blank">Greg Thorpe</a>.          
         
 #### Venue + Booking Details    
 Dates: Thursday 4 — Saturday 6 February 2016, 9.30pm         
@@ -42,7 +42,7 @@ A stripped-back solo show for anyone who likes their psychoanalysis heteronormat
 #### Who is she?     
 Glasgow-based, Eilidh MacAskill creates performances and projects that sit somewhere between theatre, live art and visual art, inspired by nature and how we human animals live in the world. She is Artistic Director of Fish & Game, making entertaining experimental performances, particularly for children, and is a freelance performer.    
 
-STUD represents a shift in her practice and is part of a wider enquiry into gender and queer theory called the Gendersaurus Rex project. It is supported by Imaginate and looks particularly at representation of queerness, sexuality and difference in children’s theatre.         
+*STUD* represents a shift in her practice and is part of a wider enquiry into gender and queer theory called the Gendersaurus Rex project: supported by Imaginate, it looks particularly at representation of queerness, sexuality and difference in children's theatre, and *Gendersaurus Rex: The Clothes Show* will appear later in February during [Haphazard 2016](/current/2016-haphazard).         
        
 #### What people have said about *STUD*        
 >*…fully-frontal assault …it's whimsical. And hilarious*<br><a href="http://www.heraldscotland.com/arts_ents/13206858.Review__BuzzCut__Pearce_Institute__Glasgow" target="_blank">Mary Brennan, The Herald</a>          
