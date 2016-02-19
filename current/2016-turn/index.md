@@ -44,7 +44,7 @@ To get a feel for it, see Turn 2015's [programme](/archive/2015-turn) + [image g
 Turn 2016 takes place in a number of different spaces and formats around Contact's building — some seated, some standing, some limited capacity, some participatory. With intervals, both evenings will last between 2-3 hours.<br>Age advisory: 14+ (*parental discretion*). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.               
                           
 #### Credits         
-[Turn](/hab/turn) 2016 is co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://www.digm.org" target="_blank">Dance Manchester</a>; supported using public funding by Arts Council England + funded by Manchester City Council. <small>*Header image: Jo Ashbridge, Turn Prize 2014; photo: Jerome Whittingham*</small>         
+[Turn](/hab/turn) 2016 is co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://www.digm.org" target="_blank">Dance Manchester</a>; supported using public funding by Arts Council England + funded by Manchester City Council. <small>Header image: Jo Ashbridge, Turn Prize 2014 | Photo: Jerome Whittingham</small>         
 <a href="http://turnmcr.org" target="_blank">turnmcr.org</a> | <a href="http://twitter.com/hashtag/TurnMcr" target="_blank">#TurnMcr</a>
 
 #### † Ticket Offers available at Contact during Turn 2016         
