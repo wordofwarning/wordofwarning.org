@@ -30,12 +30,15 @@ Dates: Friday 22 + Saturday 23 April 2016, 7.30pm
 Box Office Tel: 0161 274 0600                
                   
 #### More        
-Fluidly lyrical, effervescently acrobatic or eccentrically innovative, Turn 2016 is our eighth annual platform for dancers + dance-makers — to get a feel for it, see Turn 2015's [programme](/archive/2015-turn) + [image gallery](/galleries/2015-turn).   
+Turn 2016 is our eighth annual platform for dancers + dance-makers, and typically features around 15 short pieces of work over the two evenings — participating artists to be announced here soon.        
+         
+To get a feel for it, see Turn 2015's [programme](/archive/2015-turn) + [image gallery](/galleries/2015-turn).      
                   
 #### What people have said about Turn before
->4\* *One of the key events in Manchester's dance calendar.*<br>[The Public Reviews (2013)](http://www.thepublicreviews.com/turn-2013-contact-manchester).         
->• *Enjoyed the eclectic mix. A good way to sample dance, especially if you haven't seen a lot before.*<br>• *…creative and great to see such different work from emerging artists…*<br>• *A real spur to young talent.*<br>Audience Feedback (2014)            
->• *Great to see creative innovative new local work. Really good vibe.*<br>• *Weird and wonderful — as always.*<br>• *Fantastic platform for artists.*<br>Audience Feedback (2013)             
+>★★★★ *One of the key events in Manchester's dance calendar.*<br>[The Public Reviews (2013)](http://www.thepublicreviews.com/turn-2013-contact-manchester).             
+>• *Variety of performances and styles was good and prevented the feeling of déjà vu.*<br>• *…great that a lot of different performers had the chance and the space to show their pieces.*<br>[Audience Feedback from 2015](/archive/2015-turn)         
+>• *Enjoyed the eclectic mix. A good way to sample dance, especially if you haven't seen a lot before.*<br>• *…creative and great to see such different work from emerging artists…*<br>• *A real spur to young talent.*<br>[Audience Feedback from 2014](/archive/2014-turn)            
+>• *Great to see creative innovative new local work. Really good vibe.*<br>• *Weird and wonderful — as always.*<br>• *Fantastic platform for artists.*<br>[Audience Feedback from 2013](/archive/2013-turn)             
          
 #### Access Information                 
 Turn 2016 takes place in a number of different spaces and formats — some seated, some standing, some limited capacity, some participatory.<br>With intervals, both evenings last about 2½ hours; Saturday's Mixed Movement extends beyond this by another 1½ hours max.<br>Age advisory: 14+ (*parental discretion*). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.               
@@ -44,6 +47,7 @@ Turn 2016 takes place in a number of different spaces and formats — some seate
 [Turn](/hab/turn) 2016 is co-produced by [hÅb](/hab), [Contact](http://contactmcr.com) + [Dance Manchester](http://www.digm.org); supported using public funding by Arts Council England + funded by Manchester City Council. *Header image: Levantes Dance Theatre, 2014*         
 <a href="http://turnmcr.org" target="_blank">turnmcr.org</a> | <a href="http://twitter.com/hashtag/TurnMcr" target="_blank">#TurnMcr</a>
 
-#### Ticket Offers available at Contact during Spring/Summer         
-• Book for 2 Contact Spring/Summer 2016 shows (incl. *Y N A*) + get 10% off;<br>• Book for 3 Contact Spring/Summer 2016 shows (incl. *Y N A*) + get 15% off;<br>• Book 6 (full or concession) tickets for *Y N A* + get £1 off each ticket;<br>• Buy 10 (full or concession) tickets for *Y N A* + get your 11th free.                  
+#### Ticket Offers available at Contact during Turn 2016         
+• Book to see both nights with a two night pass (£11/6) and save £7/4;
+• Buy 10 (full or concession) tickets + get your 11th free.                  
 T&Cs: tickets must be booked in a single transaction, offer cannot be applied retrospectively; exclusions apply, visit <a href="http://www.contactmcr.com/ticketoffers" target="_blank">contactmcr.com/ticketoffers</a> for details.
