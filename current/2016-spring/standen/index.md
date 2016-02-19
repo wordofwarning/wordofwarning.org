@@ -16,7 +16,7 @@ header_image: "header_.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Derelict + Word of Warning in Manchester + Preston<br>*Part of* Thursday Lates *at* the Whitworth         
+*Presented by* Derelict + Word of Warning *in Manchester + Preston*<br>*Part of* Thursday Lates *at* the Whitworth         
        
 #### In Brief      
 An immersive choral sound bath in the ...        
@@ -24,14 +24,14 @@ An immersive choral sound bath in the ...
 See her <a href="http://" target="_blank">trailer</a>.          
         
 #### Manchester Venue + Booking Details        
-Date: Thursday 7 April 2016
-Times: 6pm, 6.45pm, 7.30pm, 8.15pm        
+Date: Thursday 7 April 2016           
+Times: 6pm, 6.45pm, 7.30pm, 8.15pm            
 <a href="http://www.whitworth.manchester.ac.uk/visit/gettinghere" target="_blank">Venue: the Whitworth</a>, The University of Manchester, Oxford Road, Manchester, M15 6ER             
-<a href="http://www.wegottickets.com/wordofwarning" target="_blank">Tickets: are FREE, please book online</a> in advance as each performance has a limited capacity (remaining tickets will be available at the Whitworth in person from 5pm on the day)     
+<a href="http://www.wegottickets.com/wordofwarning" target="_blank">Tickets: are FREE, please book online</a> in advance as each performance has a limited capacity (remaining tickets will be available at the Whitworth in person from 5pm on the day)         
 Box Office Tel: 07581 299 439 (leave a message + we'll get back to you)         
-
-#### Preston Venue + Booking Details    
-Dates: Saturday 9 + Sunday 10 April 2016
+         
+#### Preston Venue + Booking Details          
+Dates: Saturday 9 + Sunday 10 April 2016          
 Times: to be confirmed        
 <a href="http://www.harrismuseum.org.uk/your-visit/23-getting-here" target="_blank">Venue: Harris Museum & Art Gallery</a>, Market Square, Preston, PR1 2PP             
 <a href="" target="_blank">Tickets: are FREE, please book online</a> in advance as each performance has a limited capacity (remaining tickets will be available at HM&AG in person on the day)     
