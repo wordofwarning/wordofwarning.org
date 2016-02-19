@@ -440,7 +440,7 @@
 	.s2016 .splash
 		{background:url(../images/header_spring2016wrn.jpg) -150px center}
 
-/* Haphazard 2016 yellow (new header image tbc)
+/* Haphazard 2016 yellow
 ------------------------------------------------------*/
 
 	.hh2016,
@@ -466,3 +466,24 @@
 
 	.ss2016 .splash
 		{background:url(../images/header_spring2016wrn.jpg) -150px center}
+
+/* Turn 2016 darkish lilac (using T15 Levantes header)
+------------------------------------------------------*/
+
+	.t2016,
+	.t2016 .artist, 
+	.t2016 .show,
+	.t2016 .season
+		{background:#339; color:#fff;}
+
+	.t2016 a,
+	.t2016 a:visited,
+	.t2016 a:hover
+		{color:#fff;}
+	.t2016 nav a:hover,
+	.t2016 article a:hover,
+	.t2016 footer a:hover
+		{background: #fff; color: #339;}
+
+	.t2016 .splash
+		{background:url(../images/header_turn15.jpg) center center}
