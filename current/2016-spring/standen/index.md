@@ -16,34 +16,41 @@ header_image: "header_.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Derelict + Word of Warning<br>*Part of* Thursday Lates *at* the Whitworth         
+*Presented by* Derelict + Word of Warning in Manchester + Preston<br>*Part of* Thursday Lates *at* the Whitworth         
        
-####In Brief      
+#### In Brief      
 An immersive choral sound bath in the ...        
          
 See her <a href="http://" target="_blank">trailer</a>.          
         
-####Venue + Booking Details    
-Dates: Thursday 7 April 2016
+#### Manchester Venue + Booking Details        
+Date: Thursday 7 April 2016
 Times: 6pm, 6.45pm, 7.30pm, 8.15pm        
 <a href="http://www.whitworth.manchester.ac.uk/visit/gettinghere" target="_blank">Venue: the Whitworth</a>, The University of Manchester, Oxford Road, Manchester, M15 6ER             
 <a href="http://www.wegottickets.com/wordofwarning" target="_blank">Tickets: are FREE, please book online</a> in advance as each performance has a limited capacity (remaining tickets will be available at the Whitworth in person from 5pm on the day)     
 Box Office Tel: 07581 299 439 (leave a message + we'll get back to you)         
-        
-####Access Information        
+
+#### Preston Venue + Booking Details    
+Dates: Saturday 9 + Sunday 10 April 2016
+Times: to be confirmed        
+<a href="http://www.harrismuseum.org.uk/your-visit/23-getting-here" target="_blank">Venue: Harris Museum & Art Gallery</a>, Market Square, Preston, PR1 2PP             
+<a href="" target="_blank">Tickets: are FREE, please book online</a> in advance as each performance has a limited capacity (remaining tickets will be available at HM&AG in person on the day)     
+Box Office Tel: TBC       
+          
+#### Access Information        
 Age advisory: ??? With no interval, each performance lasts approximately 25 minutes. Primarily experienced through sound, each audience member is blindfolded and will experience intimate physical contact with a performer. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
-####More      
+#### More      
          
         
-####Who is she?     
+#### Who is she?     
          
        
-####What people have said about *HUG*        
+#### What people have said about *HUG*        
 >stars *quote*<br><a href="http://" target="_blank">author</a>          
 
-####Credits          
+#### Credits          
 tbc        
         
-####Websites          
+#### Websites          
 <a href="http://veritystanden.com" target="_blank">veritystanden.com</a> | <a href="http://twitter.com/verity_standen" target="_blank">@verity_standen</a><br><a href="http://www.whitworth.manchester.ac.uk/whats-on/events/thursdaylates" target="_blank">Thursday Lates at the Whitworth</a>
