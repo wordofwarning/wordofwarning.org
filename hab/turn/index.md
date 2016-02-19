@@ -23,7 +23,7 @@ Our **[eighth Turn](/current/2016-turn)** takes place at Contact on Fri 22 + Sat
 • a public micro-festival + open submission platform;        
 • an opportunity for artists to meet, show and peer-review work;        
 • a selection platform for the Turn Prize (*a small, supported commission, supported by Dance Manchester, Contact + hÅb*);        
-• open to North West († *effectively Cheshire, Cumbria, Greater Manchester, Lancashire, Merseyside: NOT Yorkshire*) dancers + dance-makers aged 18+         
-• Enquiries: <mailto:turn@habarts.org> | <http://turnmcr.org> | #TurnMcr          
+• open to North West († *effectively Cheshire, Cumbria, Greater Manchester, Lancashire, Merseyside: NOT Yorkshire*) dancers + dance-makers, aged 18+         
+• Enquiries: <mailto:turn@habarts.org> | <a href="http://turnmcr.org" target="_blank">turnmcr.org</a> | <a href="http://twitter.com/hashtag/TurnMcr" target="_blank">#TurnMcr</a>          
          
-Turn 2016 is presented/co-produced by Word of Warning/hÅb, Contact + Dance Manchester; supported using public funding by Arts Council England + funded by Manchester City Council.
+[Turn 2016](/current/2016-turn) is presented/co-produced by Word of Warning/hÅb, <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://www.digm.org" target="_blank">Dance Manchester</a>; supported using public funding by Arts Council England + funded by Manchester City Council.
