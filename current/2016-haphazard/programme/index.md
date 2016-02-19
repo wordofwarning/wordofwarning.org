@@ -69,7 +69,7 @@ Part Disney film, part #LOLcat vine: Man is Dog, Woman is Cat but without the fu
         
 **Matt Girling | *Pastures new***       
 Watch the unfolding of a strange and exciting tiny world, ready to be inhabited by YOUR creativity.       
-<a href="http://twitter.com/MattGirlingArtist " target="_blank">@MattGirlingArtist</a>            
+<a href="http://twitter.com/GirlingMatt" target="_blank">@GirlingMatt</a>            
         
 **Same Difference | *A Few Feet Up***         
 Just above our heads is an entirely different and unexplored realm — always present but just out of reach. Use our giant periscope to see a familiar place anew for a literal and metaphorical change of perspective.        
