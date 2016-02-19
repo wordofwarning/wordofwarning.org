@@ -19,7 +19,7 @@ header_image: "header_.jpg"
 *Presented by* Derelict + Word of Warning *in Manchester + Preston*<br>*Part of* Thursday Lates *at* the Whitworth         
        
 #### In Brief      
-An immersive choral sound bath in the ...        
+An immersive choral sound bath.        
          
 See her <a href="http://" target="_blank">trailer</a>.          
         
@@ -38,7 +38,7 @@ Times: to be confirmed
 Box Office Tel: TBC       
           
 #### Access Information        
-Age advisory: ??? With no interval, each performance lasts approximately 25 minutes. Primarily experienced through sound, each audience member is blindfolded and will experience intimate physical contact with a performer. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
+Age advisory: TBC. With no interval, each performance lasts approximately 25 minutes. Predominantly aural and includes deprivation of sight and close physical contact (with a performer). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
 #### More      
          
