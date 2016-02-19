@@ -25,15 +25,15 @@ Venue Tel: 0161 232 6089
          
 #### Timed Activity (*subject to change*)        
 **12.30pm, 1.30pm, 2.30pm, 3.30pm — Katy Dye | *RATS!***        
-Crawling in our kitchens and blocking up our drainpipes, nibbling at our cornflakes and scratching at our doorsteps… dirty, smelly, flea-bitten, disease-ridden, ugly, amazing *RATS!* A performance that explores rodent reputation and tries to redress the balance — after all, it's a hard life being a rat!         
+Crawling in our kitchens and blocking up our drainpipes, nibbling at our cornflakes and scratching at our doorsteps… dirty, smelly, flea-bitten, disease-ridden, ugly, amazing *RATS!* A 10 minute performance that explores rodent reputation and tries to redress the balance — after all, it's a hard life being a rat!         
 <a href="http://twitter.com/katydye1" target="_blank">@katydye1</a>        
         
 **1pm & 3pm — Marcus Orlandi | *Two Reeler* †**        
-Inspired by the early era films of Chaplin, Keaton and Lloyd, everyday household objects are misused, misunderstood and confused. Expect slapstick, awkwardness and tuneless song!        
+Inspired by the early era films of Chaplin, Keaton and Lloyd, everyday household objects are misused, misunderstood and confused. A 15 minute performance — expect slapstick, awkwardness and tuneless song!        
 <a href="http://twitter.com/lostmyshoes80" target="_blank">@lostmyshoes80</a>        
          
 **2pm — Eilidh MacAskill + Rosana Cade | *Gendersaurus Rex: The Clothes Show* <small>(header image)</small>**        
-Meet the Gendersaurus Rex — the genial host of this gender-busting fashion show like no other… with dinosaurs.        
+Meet the *Gendersaurus Rex* — the genial host of this gender-busting fashion show like no other — a 15 minute performance… with dinosaurs!        
 <a href="http://twitter.com/EilidhUkulele" target="_blank">@EilidhUkulele</a> <a href="http://twitter.com/RosanaCade" target="_blank">@RosanaCade</a> <a href="http://twitter.com/GendersaurusRex" target="_blank">@GendersaurusRex</a> | <a href="http://facebook.com/gendersaurus" target="_blank">Gendersaurus Facebook</a>        
         
 #### Activity All Afternoon (*subject to change*)        
@@ -69,11 +69,16 @@ Part Disney film, part #LOLcat vine: Man is Dog, Woman is Cat but without the fu
         
 **Matt Girling | *Pastures new***       
 Watch the unfolding of a strange and exciting tiny world, ready to be inhabited by YOUR creativity.       
+<a href="http://twitter.com/MattGirlingArtist " target="_blank">@MattGirlingArtist</a>            
         
 **Same Difference | *A Few Feet Up***         
 Just above our heads is an entirely different and unexplored realm — always present but just out of reach. Use our giant periscope to see a familiar place anew for a literal and metaphorical change of perspective.        
 <a href="http://twitter.com/samediff_art" target="_blank">@samediff_art</a> | <a href="http://facebook.com/SameDifferenceart" target="_blank">Same Difference Facebook</a>        
         
 **Travelling Lights | *Ludicrously Luminous***        
-Digital meets steampunk in this mesmerising lightshow, as a helix of light colour and pattern swirls above your head. An eccentric trio of machines — re-fashioned beer pumps, an old laundry mangle and the mysterious Helical Morphosis Configurator — put the control in your hands.        
+Digital meets steampunk in this mesmerising lightshow, as a spiral of light colour and pattern swirls above your head. An eccentric trio of machines — re-fashioned beer pumps, an old laundry mangle and the mysterious Helical Morphosis Configurator — put the control in your hands.        
 <a href="http://twitter.com/TL_Circus" target="_blank">@TL_Circus</a> | <a href="http://facebook.com/Travelling.Light.Circus" target="_blank">Travelling Light Circus Facebook</a>
+        
+#### Credits         
+Produced by hÅb + Z-arts; supported using public funding by Arts Council England + funded by Manchester City Council; supported by the Paul Hamlyn Foundation Breakthrough Fund.        
+<a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | <a href="http://twitter.com/hashtag/Haphazard" target="_blank">#Haphazard</a> | <a href="http://www.facebook.com/events/539217769586878" target="_blank">Haphazard 2016 on Facebook</a>
