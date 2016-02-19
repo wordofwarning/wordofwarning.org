@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: 2016-springsummer
+layout: 2016-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -16,7 +16,7 @@ header_image: "header_.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, Derelict Live *+* tbc         
+*Presented by* Derelict + Word of Warning<br>*Part of* Thursday Lates *at* the Whitworth         
        
 ####In Brief      
 An immersive choral sound bath in the ...        
@@ -24,11 +24,11 @@ An immersive choral sound bath in the ...
 See her <a href="http://" target="_blank">trailer</a>.          
         
 ####Venue + Booking Details    
-Dates: Thursday 7 or Saturday 9 / Sunday 10 April 2016
-Times: repeated every ???, performances are at ?pm, ?pm each day        
-<a href="http://" target="_blank">Venue: tbc</a>, Oxford Road, Manchester,             
-<a href="http://" target="_blank">Tickets: £???</a> | limited capacity     
-Box Office Tel: 0161 ???         
+Dates: Thursday 7 April 2016
+Times: 6pm, 6.45pm, 7.30pm, 8.15pm        
+<a href="http://www.whitworth.manchester.ac.uk/visit/gettinghere" target="_blank">Venue: the Whitworth</a>, The University of Manchester, Oxford Road, Manchester, M15 6ER             
+<a href="http://www.wegottickets.com/wordofwarning" target="_blank">Tickets: are FREE, please book online</a> in advance as each performance has a limited capacity (remaining tickets will be available at the Whitworth in person from 5pm on the day)     
+Box Office Tel: 07581 299 439 (leave a message + we'll get back to you)         
         
 ####Access Information        
 Age advisory: ??? With no interval, each performance lasts approximately 25 minutes. Primarily experienced through sound, each audience member is blindfolded and will experience intimate physical contact with a performer. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
@@ -46,4 +46,4 @@ Age advisory: ??? With no interval, each performance lasts approximately 25 minu
 tbc        
         
 ####Websites          
-<a href="http://veritystanden.com" target="_blank">veritystanden.com</a> | <a href="http://twitter.com/" target="_blank">@</a>
+<a href="http://veritystanden.com" target="_blank">veritystanden.com</a> | <a href="http://twitter.com/verity_standen" target="_blank">@verity_standen</a><br><a href="http://www.whitworth.manchester.ac.uk/whats-on/events/thursdaylates" target="_blank">Thursday Lates at the Whitworth</a>
