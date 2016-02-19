@@ -7,7 +7,7 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Turn 2016" # the name of the artist or company
-show: "A micro-festival of new dance." # the name of the show
+show: "A micro-festival of new northern dance." # the name of the show
 show_size: 4
 
 # ABOUT THE SHOW - LAYOUT
@@ -16,7 +16,7 @@ show_size: 4
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning + Contact    
+*Presented by* Word of Warning, Contact + Dance Manchester    
          
 ### Friday 22 + Saturday 23 April 2016, 7.30pm
 Celebrating five years of this whirlwind of dance at Contact, this two-day spin around new northern dance sees energy burst from every nook and cranny.           
@@ -41,10 +41,10 @@ To get a feel for it, see Turn 2015's [programme](/archive/2015-turn) + [image g
 >• *Great to see creative innovative new local work. Really good vibe.*<br>• *Weird and wonderful — as always.*<br>• *Fantastic platform for artists.*<br>[Audience Feedback from 2013](/archive/2013-turn)             
          
 #### Access Information                 
-Turn 2016 takes place in a number of different spaces and formats around Contact's building — some seated, some standing, some limited capacity, some participatory.<br>With intervals, both evenings will last between 2-3 hours.<br>Age advisory: 14+ (*parental discretion*). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.               
+Turn 2016 takes place in a number of different spaces and formats around Contact's building — some seated, some standing, some limited capacity, some participatory. With intervals, both evenings will last between 2-3 hours.<br>Age advisory: 14+ (*parental discretion*). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.               
                           
 #### Credits         
-[Turn](/hab/turn) 2016 is co-produced by [hÅb](/hab), [Contact](http://contactmcr.com) + [Dance Manchester](http://www.digm.org); supported using public funding by Arts Council England + funded by Manchester City Council. *Header image: Levantes Dance Theatre, 2014*         
+[Turn](/hab/turn) 2016 is co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://www.digm.org" target="_blank">Dance Manchester</a>; supported using public funding by Arts Council England + funded by Manchester City Council. *Header image: Levantes Dance Theatre, Turn 2014*         
 <a href="http://turnmcr.org" target="_blank">turnmcr.org</a> | <a href="http://twitter.com/hashtag/TurnMcr" target="_blank">#TurnMcr</a>
 
 #### † Ticket Offers available at Contact during Turn 2016         
