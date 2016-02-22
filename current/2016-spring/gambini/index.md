@@ -33,7 +33,7 @@ Entry by donation, no booking required. *Please note there is a limited capacity
 Venue (Z-arts) Tel: 0161 232 6089             
               
 #### Access Information      
-Age advisory + duration tbc. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
+Age advisory: 14+ (*TBC*); we expect the evening to last no more than 2 hours. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
       
 #### More        
 A performance of and about sleight-of-hand magic: its invisible mechanics, its clichés, and what it tells us about live theatre and make-believe.              
