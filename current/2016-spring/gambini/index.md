@@ -29,7 +29,7 @@ See Vincent Gambini's <a href="http://youtu.be/c-z5glnzZIg" target="_blank">teas
 #### Venue + Booking Details       
 Date: Friday 4 March 2016, 7.30pm              
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
-Entry by donation, no booking required. *Please note there is a limited capacity in the STUN Studio + entry will be on a first come, first served basis.*        
+Entry by donation, no booking required. *Please note there is a limited capacity in the STUN Studio at Z-arts, and entry will be on a first come, first served basis; please arrive from 7pm to guarantee a seat!*        
 Venue (Z-arts) Tel: 0161 232 6089             
               
 #### Access Information      
