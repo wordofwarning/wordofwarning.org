@@ -32,8 +32,7 @@ gallery:
     -   {file: "LucyMcCormick.jpg", artist: "Lucy McCormick"}
     -   {file: "DorisLaTrine1.jpg", artist: "Doris La Trine"}
     -   {file: "DorisLaTrine2.jpg", artist: "Doris La Trine"}
-    -   {file: "travellinglights1.jpg", artist: Travelling Lights"}
-    -   {file: "travellinglights1.jpg", artist: Travelling Lights"}
- 
+    -   {file: "travellinglights1.jpg", artist: "Travelling Lights"}
+    -   {file: "travellinglights2.jpg", artist: "Travelling Lights"} 
  
 ---
