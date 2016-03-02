@@ -20,6 +20,7 @@ gallery:
     -   {file: "GarethCutter2.jpg", artist: "Gareth Cutter"}
     -   {file: "KatyBaird1.jpg", artist: "Katy Baird"}
     -   {file: "KatyBaird2.jpg", artist: "Katy Baird"}
+    -   {file: "FlipbookPeople.jpg", artist: "Flipbook People"}
     -   {file: "Artizani.jpg", artist: "Artizani"}
     -   {file: "MattGirling.jpg", artist: "Matt Girling"}
     -   {file: "MattGirling2.jpg", artist: "Matt Girling"}
