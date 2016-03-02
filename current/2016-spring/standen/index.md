@@ -19,27 +19,29 @@ header_image: "header_hug.jpg"
 *Presented by* Derelict + Word of Warning *in Manchester + Preston*<br>*Part of* Thursday Lates *at* the Whitworth         
        
 #### In Brief      
-'Song erupts around you in what is described as a choral sound-bath. It's startling, moving and genuinely immersive.'<a href="http://www.theguardian.com/stage/2014/jul/20/latitude-festival-theatre-review" target="_blank">Lyn Gardner, The Guardian</a>e the <a href="http://youtu.be/pCHcVPjJWRU" target="_blank">trailer</a>.          
+'Song erupts around you in what is described as a choral sound-bath. It's startling, moving and genuinely immersive.' <a href="http://www.theguardian.com/stage/2014/jul/20/latitude-festival-theatre-review" target="_blank">Lyn Gardner, The Guardian</a>
+        
+See her <a href="http://youtu.be/pCHcVPjJWRU" target="_blank">trailer</a>.          
         
 #### Manchester Venue + Booking Details        
 Date: Thursday 7 April 2016           
 Times: 6pm, 6.45pm, 7.30pm, 8.15pm            
 <a href="http://www.whitworth.manchester.ac.uk/visit/gettinghere" target="_blank">Venue: the Whitworth (Grand Hall)</a>, The University of Manchester, Oxford Road, Manchester, M15 6ER             
-<a href="http://www.wegottickets.com/wordofwarning" target="_blank">Tickets: are FREE, please book online</a> in advance as each performance has a limited capacity (*remaining tickets will be available at the Whitworth in person from 5pm on the day*).         
+Entry by donation, please <a href="http://www.wegottickets.com/wordofwarning" target="_blank">book online for free</a> in advance, as each performance has a limited capacity. (*Remaining tickets will be available at the Whitworth in person from 5pm on the day.*)         
 Box Office Tel: 07581 299 439 (leave a message + we'll get back to you)         
          
 #### Preston Venue + Booking Details          
 Dates: Saturday 9 + Sunday 10 April 2016          
 Times: to be confirmed        
 <a href="http://www.harrismuseum.org.uk/your-visit/23-getting-here" target="_blank">Venue: Harris Museum & Art Gallery</a>, Market Square, Preston, PR1 2PP             
-<a href="" target="_blank">Tickets: are FREE, please book online</a> in advance as each performance has a limited capacity (remaining tickets will be available at HM&AG in person on the day)     
+<a href="" target="_blank">Tickets are free, please book online</a> in advance as each performance has a limited capacity (remaining tickets will be available at HM&AG in person on the day)     
 Box Office Tel: TBC       
           
 #### Access Information        
 Age advisory: TBC. With no interval, each performance lasts approximately 25 minutes. Predominantly aural and includes deprivation of sight and close physical contact (with a performer). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
 #### More      
-Unable to visually gauge their surroundings, participants experience the performance through sound, breath and vibrations of the body as the choir of voices deliver the song. Playing with sense and perspective, *HUG* is a unique examination of the human voice's power.            
+Unable to visually gauge their surroundings, participants experience the performance through sound, breath and vibrations of the body as a choir of voices deliver the song. Playing with sense and perspective, *HUG* is a unique examination of the human voice's power.            
         
 *'I celebrate myself, and sing myself,<br>And what I assume you shall assume,<br>For every atom belonging to me as good belongs to you.'*<br>Walt Whitman – *Song of Myself*        
          
@@ -51,8 +53,8 @@ In addition to her solo work and running her choir (Utterance) she regularly col
 #### What people have said about *HUG*        
 >★★★★★ *To feel somebody’s 'horax vibrate as they tackle an elaborate countermelody feels like the most immediate, visceral experience of music as human expression possible… like an antenna to heaven.*<br><a href="http://URL" target="_blank">TimeOut</a>        
 >★★★★ *THERE IS MORE TO IT THAN JUST SENSATION. HUG IS ALSO A STRANGELY CATHARTIC EXPERIENCE, UNEQUIVOCALLY ILLUSTRATING THE POWER THAT MUSIC HOLDS TO MOVE US…*<br><a href="http://URL" target="_blank">Exeunt</a>        
->*SOUND ROSE AND FELL IN WAVES UNTIL IT FELT AS IF I WAS DRENCHED IN MUSIC THAT HAD SEEPED ITS WAY INTO EVERY ORGAN IN MY BODY, AND MAYBE EVEN FOUND MY SOUL*<br>Lyn Gardner, Guardian     http://www.theguardian.com/stage/theatreblog/2014/aug/08/edinburgh-festival-2014-new-levels-intimacy-verity-standen   
-        
+>*…sound rose and fell in waves until it felt as if I was drenched in music that had seeped its way into every organ in my body, and maybe even found my soul. The enforced intimacy of the piece is startling, initially discomforting, charged and ultimately liberating. You can't help but feel better after experiencing it.*<br><a href="http://www.theguardian.com/stage/theatreblog/2014/aug/08/edinburgh-festival-2014-new-levels-intimacy-verity-standen" target="_blank">Lyn Gardner, Guardian</a>            
+          
 #### Credits          
 TBC (can't find any on her website or tour pack or copy document)        
         
