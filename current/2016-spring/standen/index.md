@@ -19,7 +19,7 @@ header_image: "header_hug.jpg"
 *Presented by* Derelict + Word of Warning *in Manchester + Preston*<br>*Part of* Thursday Lates *at* the Whitworth         
        
 #### In Brief      
-An immersive choral sound bath. See the <a href="http://youtu.be/pCHcVPjJWRU" target="_blank">trailer</a>.          
+'Song erupts around you in what is described as a choral sound-bath. It's startling, moving and genuinely immersive.'<a href="http://www.theguardian.com/stage/2014/jul/20/latitude-festival-theatre-review" target="_blank">Lyn Gardner, The Guardian</a>e the <a href="http://youtu.be/pCHcVPjJWRU" target="_blank">trailer</a>.          
         
 #### Manchester Venue + Booking Details        
 Date: Thursday 7 April 2016           
@@ -39,7 +39,7 @@ Box Office Tel: TBC
 Age advisory: TBC. With no interval, each performance lasts approximately 25 minutes. Predominantly aural and includes deprivation of sight and close physical contact (with a performer). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
 #### More      
-Each audience member is blindfolded. They are then individually hugged by a singer. Unable to visually gauge their surroundings, participants experience the performance through sound, breath and vibrations of the body as the choir of voices deliver the song. Playing with sense and perspective, *HUG* is a unique examination of the human voice's power.            
+Unable to visually gauge their surroundings, participants experience the performance through sound, breath and vibrations of the body as the choir of voices deliver the song. Playing with sense and perspective, *HUG* is a unique examination of the human voice's power.            
         
 *'I celebrate myself, and sing myself,<br>And what I assume you shall assume,<br>For every atom belonging to me as good belongs to you.'*<br>Walt Whitman – *Song of Myself*        
          
@@ -50,9 +50,8 @@ In addition to her solo work and running her choir (Utterance) she regularly col
         
 #### What people have said about *HUG*        
 >★★★★★ *To feel somebody’s 'horax vibrate as they tackle an elaborate countermelody feels like the most immediate, visceral experience of music as human expression possible… like an antenna to heaven.*<br><a href="http://URL" target="_blank">TimeOut</a>        
->★★★★ *Song erupts around you… it’s'startling, moving and genuinely immersive.*<br><a href="http://URL" target="_blank">???Lyn Gardner, The Guardian</a>        
->*SOUND ROSE AND FELL IN WAVES UNTIL IT FELT AS IF I WAS DRENCHED IN MUSIC THAT HAD SEEPED ITS WAY INTO EVERY ORGAN IN MY BODY, AND MAYBE EVEN FOUND MY SOUL*<br>Lyn Gardner, Guardian        
 >★★★★ *THERE IS MORE TO IT THAN JUST SENSATION. HUG IS ALSO A STRANGELY CATHARTIC EXPERIENCE, UNEQUIVOCALLY ILLUSTRATING THE POWER THAT MUSIC HOLDS TO MOVE US…*<br><a href="http://URL" target="_blank">Exeunt</a>        
+>*SOUND ROSE AND FELL IN WAVES UNTIL IT FELT AS IF I WAS DRENCHED IN MUSIC THAT HAD SEEPED ITS WAY INTO EVERY ORGAN IN MY BODY, AND MAYBE EVEN FOUND MY SOUL*<br>Lyn Gardner, Guardian     http://www.theguardian.com/stage/theatreblog/2014/aug/08/edinburgh-festival-2014-new-levels-intimacy-verity-standen   
         
 #### Credits          
 TBC (can't find any on her website or tour pack or copy document)        
