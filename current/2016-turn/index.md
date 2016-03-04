@@ -7,7 +7,7 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Turn 2016" # the name of the artist or company
-show: "A micro-festival of new northern dance." # the name of the show
+show: "Micro-festival of new northern dance." # the name of the show
 show_size: 4
 
 # ABOUT THE SHOW - LAYOUT
@@ -30,10 +30,10 @@ Dates: Friday 22 + Saturday 23 April 2016, 7.30pm
 Box Office Tel: 0161 274 0600                
                   
 #### More        
-Our eighth annual platform for dancers + dance-makers, 2016 sees twenty short pieces of new work over two evenings from (*participating artists subject to change*):          
-Jo Ashbridge | Tom Bowes Dance | Brink Dance Company | Giorgio de Carolis | Ina Colizza + Antonello Apicella | Ekpei, McKie + Withycombe-Wharton | Bridget Fiske + Collaborators | Gayathri Ganapathy | Louise Gibbons | Gracefool Collective | Lizzie J Klotz | Manoli Moriaty + Frances Kay | Now | Shelley Owen | Joseph Reay-Reid | Adam John Roberts | Holly Rush | Sap Dance  | Stream Project | Lauren Tucker
-
-To get a feel for it, see Turn 2015's [programme](/archive/2015-turn) + [image gallery](/galleries/2015-turn).      
+Our eighth annual platform for dancers + dance-makers, 2016 sees twenty short pieces of work over two evenings (*participating artists subject to change*):          
+Jo Ashbridge | Tom Bowes Dance | Brink Dance Company | Giorgio de Carolis | Ina Colizza + Antonello Apicella | Ekpei, McKie + Withycombe-Wharton | Bridget Fiske + Collaborators | Gayathri Ganapathy | Louise Gibbons | Gracefool Collective | Lizzie J Klotz | Manoli Moriaty + Frances Kay | Now | Shelley Owen | Joseph Reay-Reid | Adam John Roberts | Holly Rush | Sap Dance | Stream Project | Lauren Tucker        
+          
+To get a feel for it, see Turn 2015's [programme](/archive/2015-turn) + [image gallery](/galleries/2015-turn).         
                   
 #### What people have said about Turn before
 >★★★★ *One of the key events in Manchester's dance calendar.*<br><a href="http://www.thepublicreviews.com/turn-2013-contact-manchester" target="_blank">The Public Reviews</a>             
