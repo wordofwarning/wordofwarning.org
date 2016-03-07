@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: 2016-spring
+layout: 2016-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -16,7 +16,7 @@ header_image: "header_hug.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Derelict + Word of Warning *in Manchester + Preston*<br>*Part of* Thursday Lates *at* the Whitworth         
+*Presented by* Derelict + Word of Warning, *supported by* UCLan<br>*Part of* Thursday Lates *at* the Whitworth *in Manchester*         
        
 #### In Brief      
 'Song erupts around you in what is described as a choral sound-bath. It's startling, moving and genuinely immersive.' <a href="http://www.theguardian.com/stage/2014/jul/20/latitude-festival-theatre-review" target="_blank">Lyn Gardner, The Guardian</a>
@@ -25,17 +25,17 @@ See her <a href="http://youtu.be/pCHcVPjJWRU" target="_blank">trailer</a>.
         
 #### Manchester Venue + Booking Details        
 Date: Thursday 7 April 2016           
-Times: 6pm, 6.45pm, 7.30pm, 8.15pm            
+Times: <a href="http://www.wegottickets.com/event/353698" target="_blank">6.45pm</a>, <a href="http://www.wegottickets.com/event/353699" target="_blank">7.30pm</a>, <a href="http://www.wegottickets.com/event/353700" target="_blank">8.15pm</a>        
 <a href="http://www.whitworth.manchester.ac.uk/visit/gettinghere" target="_blank">Venue: the Whitworth (Grand Hall)</a>, The University of Manchester, Oxford Road, Manchester, M15 6ER             
-Entry by donation, please <a href="http://www.wegottickets.com/wordofwarning" target="_blank">book online for free</a> in advance, as each performance has a limited capacity. (*Remaining tickets will be available at the Whitworth in person from 5pm on the day.*)         
+Tickets are free to <a href="http://www.wegottickets.com/wordofwarning" target="_blank">book online</a>, with donations welcome at the Whitworth. Booking essential as each performance has a limited capacity. (*Remaining tickets will be available at the Whitworth in person from 5pm on the day.*)         
 Box Office Tel: 07581 299 439 (leave a message + we'll get back to you)         
          
 #### Preston Venue + Booking Details          
 Dates: Saturday 9 + Sunday 10 April 2016          
 Times: to be confirmed        
-<a href="http://www.harrismuseum.org.uk/your-visit/23-getting-here" target="_blank">Venue: Harris Museum & Art Gallery</a>, Market Square, Preston, PR1 2PP             
-<a href="" target="_blank">Tickets are free, please book online</a> in advance as each performance has a limited capacity (remaining tickets will be available at HM&AG in person on the day)     
-Box Office Tel: TBC       
+<a href="http://www.harrismuseum.org.uk/your-visit/23-getting-here" target="_blank">Venue: Harris Museum</a>, Market Square, Preston, PR1 2PP             
+<a href="" target="_blank">Tickets are free, please book online</a> in advance as each performance has a limited capacity (remaining tickets will be available at HM in person on the day)     
+Box Office Tel: 01772 905 414 / 07867 306 062       
           
 #### Access Information        
 Age advisory: TBC. With no interval, each performance lasts approximately 25 minutes. Predominantly aural and includes deprivation of sight and close physical contact (with a performer). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
