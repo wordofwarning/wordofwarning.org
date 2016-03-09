@@ -30,9 +30,23 @@ Box Office Tel: 0161 200 1500
               
 #### Access Information      
 Age advisory + duration tbc. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
-      
+
+#### More
+Since 2013 Richard DeDomenici's inexplicably popular Redux Project has caused a stir over fifty times, in places as diverse as London, Bangkok, Hong Kong, Seoul, Sydney, Beijing and Milton Keynes.    
+ 
+The project celebrates and subverts the cultural heritage of the places it visits, by attempting to make shot-for-shot remakes of scenes from famous movies and telly, on a shoe-string budget with amateur local crews, in the same locations where the originals were filmed.    
+ 
+Most recently Richard adapted the Redux Project into a tv show, for the BBC4 event Live From Television Centre.    
+
+It was described by a Guardian journalist as one of the smartest, strangest, subversive half hours of television they had ever seen.    
+
+Richard will apply his unique set of skills to the to the groundbreaking Mancunian classic *Queer As Folk*, in collaboration with renowned locally-sourced performance trio Eggs Collective.    
+
+#### What people have said about the Redux Project        
+>*Outrageous ... Hilarious ... a sharp critique of modern myth-making*<br><a href="http://URL" target="_blank">The Scotsman</a>       
+   
 #### Credits         
 Commissioned by hÅb. Produced by Richard DeDomenici.        
           
 #### Websites       
-<a href="http://dedomenici.com/redux" target="_blank">TheReduxProject.com</a><br><a href="http://twitter.com/TheReduxProject" target="_blank">@TheReduxProject</a> | <a href="http://twitter.com/DeDomenici" target="_blank">@DeDomenici</a> | <a href="http://twitter.com/EggsCollective" target="_blank">@EggsCollective</a>
+<a href="http://dedomenici.com/redux" target="_blank">theReduxProject.com</a><br><a href="http://www.EggsCollective.com" target="_blank">EggsCollective.com</a><br><a href="http://www.www.DeDomenici.com" target="_blank">DeDomenici.com</a><br><a href="http://twitter.com/TheReduxProject" target="_blank">@TheReduxProject</a> | <a href="http://twitter.com/DeDomenici" target="_blank">@DeDomenici</a> | <a href="http://twitter.com/EggsCollective" target="_blank">@EggsCollective</a>
