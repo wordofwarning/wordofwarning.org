@@ -7,7 +7,7 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Hazard 2016" # the name of the artist or company
-show: "Micro-festival of intervention." # the name of the show
+show: "Incidental intervention and sited performance." # the name of the show
 artist_size: 1
 show_size: 4
 
@@ -20,23 +20,18 @@ show_size: 4
 *Presented by* Word of Warning        
         
 ### Saturday 9 July 2016, 12noon-5pm. Free     
-Manchester's stripiest festival returns to unleash a sixth wave of bizarre behaviour on the city centre… random actions, strange antics, ludic activities + surprising sprees of eccentricity.    
-              
+Incidental intervention and sited performance…<br>Cheeky, thought-provoking sprees of eccentricity…        
+        
 #### Venue + Booking Details        
 Date: Saturday 9 July, 12noon-5pm                
-Venue: within [St Ann's Square](http://bit.ly/1wrGmvW) (Manchester, M2 7LF) and surrounding streets       
-Tickets: FREE/unticketed            
+Venue: within <a href="http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" target="_blank">St Ann's Square, Manchester, M2 7LF</a> and surrounding streets.       
+Tickets: FREE/unticketed, turn up + discover activity around the square.            
                 
 #### More         
-Hazard 2014 is our sixth biennial micro-festival of incidental intervention and sited performance, blurring the boundaries between art and activism, featuring free works from (*participating artists subject to change*):      
-               
-Now it's all over, see Hazard 2014's [image gallery](/galleries/2014-hazard).      
-        
-#### Schedule + Map     
-Hazard is really aimed for you to encounter by chance, and will be paperless on the day.          
-        
+Manchester's stripiest festival returns to unleash a sixth wave of bizarre behaviour on the city centre, blurring the boundaries between art and activism… random actions, strange antics, ludic activities + surprising sprees of eccentricity.          
+         
+Hazard is really aimed for you to encounter by chance, and will be paperless on the day; a schedule will appear here in June. To get a feel for it, see Hazard 2014's [programme](/archive/2014-hazard) + [image gallery](/galleries/2014-hazard).        
+         
 #### Credits        
-Produced by [hÅb](/hab) in collaboration with the participating artists.               
-           
-#### Websites           
-<http://hazardmcr.org> | #HazardMcr | [@HazardMcr](http://twitter.com/HazardMcr)
+[Hazard](/hab/hazard) 2016 is produced by [hÅb](/hab), in collaboration with the participating artists; supported using public funding by Arts Council England + funded by Manchester City Council. <small>Header image: Antje Hildebrandt, 2014</small>         
+<a href="http://hazardmcr.org" target="_blank">hazardmcr.org</a> | <a href="http://twitter.com/hashtag/HazardMcr" target="_blank">#HazardMcr</a>
