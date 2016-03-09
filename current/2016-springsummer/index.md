@@ -9,6 +9,9 @@ is_index: true
 *From a [resonant embrace](/current/2016-springsummer/standen) to a [city takeover bid](/current/2016-hazard), a season of [twists and turns](/current/2016-turn); [eggs](/current/2016-springsummer/dedomenici), [coffee](/current/2016-springsummer/igorandmoreno) and [spicy moments](/current/2016-worksahead)…*          
           
 We look forward to seeing you at some or all of it; if you want to check out what happened last season take a look at our [Spring 2016 archive](/current/2016-spring), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=144976563660" target="_blank">online survey</a>.       
+         
+<small>*Brought to you by* hÅb *with* Derelict, UCLan, the Whitworth, Contact, Dance Manchester, HOME, The Lowry + The Place.</small>
+
         
 #### What is Word of Warning + where did it come from?
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of new live performance — an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work in Manchester + beyond…
@@ -35,5 +38,3 @@ I've been around a while, a really long while… and in that time, I've been res
 Please send programming enquiries to me at <mailto:info@habarts.org>             
 
 I'm joined in this lunacy by John Franklin, greenroom's long time programme co-ordinator. Often spotted in a hat or proffering a variety of bizarre refreshments, John is the friendly face greeting you and eliciting your feedback at many of our events. We are also grateful for the support of a growing band of hÅb-ettes — currently Afreena Islam, Catherine (Cat) Shaw + Sam Stockdale.        
-        
-<small>Spring/Summer 2016 is brought to you by hÅb — with Derelict, UCLan, the Whitworth, Contact, Dance Manchester, HOME, The Lowry + The Place.</small>
