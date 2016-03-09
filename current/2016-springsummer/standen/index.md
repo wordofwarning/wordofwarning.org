@@ -38,12 +38,14 @@ Times: to be confirmed
 Box Office Tel: 01772 905 414 / 07867 306 062       
           
 #### Access Information        
-Age advisory: TBC. With no interval, each performance lasts approximately 25 minutes. Predominantly aural and includes deprivation of sight and close physical contact (with a performer). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
+Age advisory: TBC. With no interval, each performance lasts approximately 25 minutes. Each audience member is blindfolded and hugged by a singer. Unable to visually gauge their surroundings, participants experience the performance through sound, breath and vibrations of the body. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
 #### More      
 Unable to visually gauge their surroundings, participants experience the performance through sound, breath and vibrations of the body as a choir of voices deliver the song. Playing with sense and perspective, *HUG* is a unique examination of the human voice's power.            
         
 *'I celebrate myself, and sing myself,<br>And what I assume you shall assume,<br>For every atom belonging to me as good belongs to you.'*<br>Walt Whitman – *Song of Myself*        
+
+*HUG* is currently touring the UK and internationally following critically acclaimed performances at the Edinburgh Festival Fringe and the Southbank Centre, London. For Manchester and Preston it brings together a brand new ensemble of local voices for three days only.   
          
 #### Who is she?     
 Bristol-based, Verity Stenden trained in music at Dartington College of Arts; her work as a composer, musical director and performer explores the human voice and how it can be celebrated and transformed through live performance.            
