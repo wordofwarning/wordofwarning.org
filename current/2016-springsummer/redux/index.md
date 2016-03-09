@@ -32,7 +32,7 @@ Box Office Tel: 0161 200 1500
 Age advisory + duration tbc. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
 
 #### More
-Since 2013 Richard DeDomenici's inexplicably popular Redux Project has caused a stir over fifty times, in places as diverse as London, Bangkok, Hong Kong, Seoul, Sydney, Beijing and Milton Keynes.    
+Since 2013 Richard DeDomenici's inexplicably popular Redux Project has caused a stir over fifty times, in places as diverse as London, Bangkok, Hong Kong, Seoul, Sydney, Beijing and Norwich.    
  
 The project celebrates and subverts the cultural heritage of the places it visits, by attempting to make shot-for-shot remakes of scenes from famous movies and telly, on a shoe-string budget with amateur local crews, in the same locations where the originals were filmed.    
  
@@ -42,9 +42,18 @@ It was described by a Guardian journalist as one of the smartest, strangest, sub
 
 Richard will apply his unique set of skills to the to the groundbreaking Mancunian classic *Queer As Folk*, in collaboration with renowned locally-sourced performance trio Eggs Collective.    
 
+#### Who are they?    
+Richard DeDomenici makes work that is social, joyful, topical and political - although rarely simultaneously.  He specialises in urban-absurdist interventions which strive to create the kind of uncertainty that leads to possibility.  In addition to Manchester, this year he plans to make work in Malaysia, Macedonia and Milton Keynes.    
+
+Eggs Collective are a trio making sharp, fun, culturally-observational performance that falls somewhere in the cracks between theatre and cabaret. THey explore feminism through the way we see the world and what they find funny.     
+
 #### What people have said about the Redux Project        
->*Outrageous ... Hilarious ... a sharp critique of modern myth-making*<br><a href="http://URL" target="_blank">The Scotsman</a>       
-   
+>*Outrageous ... Hilarious ... a sharp critique of modern myth-making*<br><a href="http://URL" target="_blank">The Scotsman</a>    
+>*DeDomenici's Redux Project is a Don Quixote tilt at cultural hegemony*<br><a href="http://URL" target="_blank">Exeunt</a>   
+>*Typical DeDomenici lunacy ... brilliant, refreshing and delightful*<br><a href="http://URL" target="_blank">Total Theatre Magazine</a>   
+>*Brilliantly irreverent stuff from DeDomenici*<br><a href="http://URL" target="_blank">Lyn Gardner, Guardian</a>   
+>*Better than a trip to the Multiplex*<br><a href="http://URL" target="_blank">Eastern Daily Press</a>    
+  
 #### Credits         
 Commissioned by hÅb. Produced by Richard DeDomenici.        
           
