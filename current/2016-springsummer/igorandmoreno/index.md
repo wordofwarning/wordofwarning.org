@@ -8,7 +8,7 @@ artist: "Igor and Moreno" # the name of the artist or company
 show: "A Room for All Our Tomorrows" # the name of the show
 artist_size: 2
 show_size: 4
-header_image: "header_.jpg"    
+header_image: "header_igor.jpg"    
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
