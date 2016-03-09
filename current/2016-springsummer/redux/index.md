@@ -49,4 +49,4 @@ Richard will apply his unique set of skills to the to the groundbreaking Mancuni
 Commissioned by hÅb. Produced by Richard DeDomenici.        
           
 #### Websites       
-<a href="http://dedomenici.com/redux" target="_blank">theReduxProject.com</a><br><a href="http://www.EggsCollective.com" target="_blank">EggsCollective.com</a><br><a href="http://www.www.DeDomenici.com" target="_blank">DeDomenici.com</a><br><a href="http://twitter.com/TheReduxProject" target="_blank">@TheReduxProject</a> | <a href="http://twitter.com/DeDomenici" target="_blank">@DeDomenici</a> | <a href="http://twitter.com/EggsCollective" target="_blank">@EggsCollective</a>
+<a href="http://dedomenici.com/redux" target="_blank">theReduxProject.com</a><br><a href="http://www.EggsCollective.com" target="_blank">EggsCollective.com</a><br><a href="http://www.DeDomenici.com" target="_blank">DeDomenici.com</a><br><a href="http://twitter.com/TheReduxProject" target="_blank">@TheReduxProject</a> | <a href="http://twitter.com/DeDomenici" target="_blank">@DeDomenici</a> | <a href="http://twitter.com/EggsCollective" target="_blank">@EggsCollective</a>
