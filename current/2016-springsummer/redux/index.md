@@ -5,7 +5,7 @@ layout: 2016-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Richard DeDomenici<br> and Eggs Collective" # the name of the artist or company
+artist: "Richard DeDomenici<br>__and Eggs Collective" # the name of the artist or company
 show: "Queer As Yolk: Redux" # the name of the show
 artist_size: 2
 show_size: 2
@@ -29,15 +29,15 @@ Tickets: free to book online or in person at HOME (from 14 March), donations are
 Box Office Tel: 0161 200 1500             
               
 #### Access Information      
-Age advisory + duration tbc. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
+Age advisory + duration TBC. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
 
 #### More
 Since 2013 Richard DeDomenici's inexplicably popular *The Redux Project* has caused a stir over fifty times, in places as diverse as London, Bangkok, Hong Kong, Seoul, Sydney, Beijing + Norwich.         
          
 The project celebrates and subverts the cultural heritage of the places it visits, by attempting to make shot-for-shot remakes of scenes from famous movies and telly, on a shoe-string budget with amateur local crews, in the same locations where the originals were filmed.         
           
-Most recently Richard adapted *The Redux Project* into a tv show, for the <a href="http://www.bbc.co.uk/programmes/p038bxhz" target="_blank">BBC4 event *On Stage: Live From Television Centre*</a>. It was described by a Guardian journalist as one of the smartest, strangest, subversive half hours of television they had ever seen.         
-       
+Most recently Richard adapted *The Redux Project* into a tv show, for the BBC4 event<a href="http://www.bbc.co.uk/programmes/p038bxhz" target="_blank">*On Stage: Live From Television Centre*</a> — described by journalist Matt Trueman as <a href="http://twitter.com/matttrueman/status/666028504119648256" target="_blank">'one of the smartest, strangest subversive half hours of television I've ever seen'</a>.        
+        
 Richard will apply his unique set of skills to the groundbreaking Mancunian classic *Queer As Folk*, in collaboration with renowned locally-sourced performance trio Eggs Collective.       
        
 #### Who are they?    
