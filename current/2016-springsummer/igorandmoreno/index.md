@@ -19,26 +19,39 @@ header_image: "header_igor.jpg"
 *Presented by* The Lowry, The Place + Word of Warning          
        
 #### In Brief      
-There are two people in this dance performance, but it is not just about them. It is about all of us. It is about the secret lives we all possess when we are close to others. It is about those moments – between coffee and dancing – when harmony abandons us and all we have left is the desire to scream. It is a performance and place to imagine how things might be other than the way they are. It is a simple room for all our tomorrows.
-See the <a href="http://" target="_blank">trailer</a>.                         
+For those moments – between coffee and dancing – when harmony abandons us and all that's left is the desire to scream.       
+        
+See <a href="https://vimeo.com/igorandmoreno" target="_blank">teaser trailers</a> on their vimeo channel.         
         
 #### Venue + Booking Details    
 Date: Wednesday 29 June 2016, 8pm          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-<a href="http://www.thelowry.com/event/a-room-for-all-our-tomorrows" target="_blank">Tickets: £12/10 (*booking fees may apply*)         
+<a href="http://www.thelowry.com/event/a-room-for-all-our-tomorrows" target="_blank">Tickets: £12/10</a> (*booking fees may apply*)         
 Box Office Tel: 0843 208 6000          
           
 #### Access Information        
-Age advisory + duration: TBC For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
+Age advisory: TBC. With no interval, the show lasts approximately 1 hour. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
 #### More         
-         
-#### Who are they?        
+There are two people in this dance performance, but it is not just about them. It is about all of us. It is about the secret lives we all possess when we are close to others. It is about those moments – between coffee and dancing – when harmony abandons us and all we have left is the desire to scream. It is a performance and place to imagine how things might be other than the way they are. It is a simple room for all our tomorrows.          
         
-#### What people have said about *A Room For All Our…*        
-
+#### Who are they?        
+Igor Urzelai and Moreno Solinas are two London-based dance artists. They started creating stage works collaboratively in 2007, co-founding ‘BLOOM! dance collective’ in 2009 and ‘Igor and Moreno’ in 2012.         
+        
+Igor and Moreno make work about people and what makes us such special animals. Their work is characterised by their interest in the moving body and the immediacy of action as a vehicle for meaning, ideas and desires.         
+         
+Across all their works they have always tried to create a frame to share their views without dictating a single reading, instead creating space for reflection for the viewer. They want to reclaim the role of the theatre as a place for assembly and exploring the cathartic properties of live performance.           
+          
+Currently Work Place artists (the associate artist programme at The Place), Igor and Moreno have presented their works extensively in Europe and the USA with recognition from both audiences and professionals: in 2010 they won the Rudolf Laban Award and special mention at Prix Jardin d'Europe; they were an Aerowaves Priority company in 2011, 2013 + 2015; in 2015 they were nominated for the National Dance Awards 2015, Total Theatre Awards 2015 and selected for the British Council Showcase 2015, Anticorpi XL network + Vetrina Giovane Danza D'Autore.        
+          
+#### What people have said about *A Room For All Our…*         
+>*The depth and range of emotions that this singular piece provokes within me is astounding.…*<br><a href="http://URL" target="_blank">Jake Orr</a>           
+>*Sent everyone home infused with a greater degree of humorous compassion for their own relationships. It was a pure, unadulterated delight…*<br><a href="http://URL" target="_blank">Joy Martin, Exeunt</a>           
+>*it was BRILLIANT. And VISCERAL. […] You know the best thing about ‘visceral’? IT DOESN’T HAVE TO MEAN ANYTHING. You just feel it.…*<br><a href="http://URL" target="_blank">Megan Vaughan</a>          
+>*The tension between the two dancers was extraordinary and overwhelmingly human. […] Every aspect of this performance was executed to perfection. I can’t wait to see what these two produce next.…*<br><a href="http://URL" target="_blank">Dulcie Fraser</a>        
+         
 #### Credits          
-performed by      
-             
+Produced by Igor and Moreno + The Place | Created + performed by Igor Urzelai and Moreno Solinas | Commissioned by The Place (London) + Cambridge Junction, supported using public funding by the National Lottery through Arts Council England, with support from Centro Per La Scena Contemporanea (Bassano del Grappa), Dance Base (Edinburgh), Chelsea Theatre, Roehampton University + Nuovo Teatro Verdi (Sassari).        
+        
 #### Websites          
 <a href="http://igorandmoreno.com/works/a-room-for-all-our-tomorrows" target="_blank">igorandmoreno.com</a> | <a href="http://twitter.com/igorandmoreno" target="_blank">@igorandmoreno</a> | <a href="http://facebook.com/IgorAndMoreno" target="_blank">Igor and Moreno on Facebook</a>
