@@ -19,9 +19,9 @@ header_image: "header_hug.jpg"
 *Presented by* Derelict + Word of Warning, *supported by* UCLan<br>*Part of* Thursday Lates *at* the Whitworth *in Manchester*         
        
 #### In Brief      
-'Song erupts around you in what is described as a choral sound-bath. It's startling, moving and genuinely immersive.'<br><a href="http://www.theguardian.com/stage/2014/jul/20/latitude-festival-theatre-review" target="_blank">★★★★ Lyn Gardner, The Guardian</a>
-        
-See her <a href="http://youtu.be/pCHcVPjJWRU" target="_blank">trailer</a>.          
+An immersive choral sound bath…         
+         
+'Song erupts around you… startling, moving and genuinely immersive.'<br><a href="http://www.theguardian.com/stage/2014/jul/20/latitude-festival-theatre-review" target="_blank">★★★★ Lyn Gardner, The Guardian</a>
         
 #### Manchester Venue + Booking Details        
 Date: Thursday 7 April 2016, <a href="http://www.wegottickets.com/event/353698" target="_blank">6.45pm</a> + <a href="http://www.wegottickets.com/event/353699" target="_blank">7.30pm</a> + <a href="http://www.wegottickets.com/event/353700" target="_blank">8.15pm</a>        
@@ -30,25 +30,22 @@ Tickets: free to <a href="http://www.wegottickets.com/wordofwarning" target="_bl
 Box Office Tel: 07581 299 439 (leave a message + we'll get back to you)         
          
 #### Preston Venue + Booking Details          
-Day One: Friday 8 April 2016, 6-8pm (exact times tbc)          
-Day Two: Saturday 9 April 2016, 1-5pm (exact times tbc)          
+Day One: Friday 8 April 2016, 6-8pm (*exact times tbc*)          
+Day Two: Saturday 9 April 2016, 1-5pm (*exact times tbc*)          
 <a href="http://www.harrismuseum.org.uk/your-visit/23-getting-here" target="_blank">Venue: Harris Museum</a>, Market Square, Preston, PR1 2PP             
-Tickets: free to book online (*link coming soon*), donations are welcome at the Harris on the day. *Booking essential as each performance has a limited capacity (remaining tickets will be available at the Harris in person on the day).*       
+Tickets: free to book online (*link coming soon*). *Booking essential as each performance has a limited capacity*       
 Box Office Tel: 01772 905 414 / 07867 306 062       
           
 #### Access Information        
-Age : 18+ (parental/guardian advisory). With no interval, each performance lasts approximately 25 minutes. Each audience member is blindfolded and hugged by a singer. Unable to visually gauge their surroundings, participants experience the performance through sound, breath and vibrations of the body. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
+Age: 18+ (parental/guardian advisory). With no interval, each performance lasts approximately 25 minutes. Each audience member is blindfolded and hugged by a singer; participants experience the performance through sound, breath and vibrations of the body. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
 #### More      
-Unable to visually gauge their surroundings, participants experience the performance through sound, breath and vibrations of the body as the choir of voices deliver the song. Playing with sense and perspective, *HUG* is a unique examination of the human voice's power.            
-        
-*'I celebrate myself, and sing myself,<br>And what I assume you shall assume,<br>For every atom belonging to me as good belongs to you.'*<br>Walt Whitman – *Song of Myself*        
-
-*HUG* is currently touring the UK and internationally following critically acclaimed performances at the Edinburgh Festival Fringe and the 
-Southbank Centre, London. For Manchester and Preston it brings together a brand new ensemble of local voices for three days only.   
+Unable to visually gauge their surroundings, participants experience the performance through sound, breath and vibrations of the body as the choir of voices deliver the song. Playing with sense and perspective, *HUG* is a unique examination of the human voice's power.        
+           
+*HUG* is currently touring the UK and internationally following critically acclaimed performances at the Edinburgh Festival Fringe and the Southbank Centre, London. For Manchester and Preston it brings together a brand new ensemble of local voices for three days only.          
          
 #### Who is she?     
-Bristol-based, Verity Stenden trained in music at Dartington College of Arts; her work as a composer, musical director and performer explores the human voice and how it can be celebrated and transformed through live performance.            
+Bristol-based, Verity Standen trained in music at Dartington College of Arts; her work as a composer, musical director and performer explores the human voice and how it can be celebrated and transformed through live performance.            
          
 In addition to her solo work and running her choir (Utterance) she regularly collaborates with a range of artists and companies across the UK, also as an outside eye + ear, vocal coach, facilitator and lecturer. Her current composition projects include *Medusa* (Bristol Old Vic) + *The Light Princess* (Tobacco Factory Theatres), and she has been nominated for an Off West End Award, The Arches Brick Award and a Total Theatre Award.           
         
@@ -58,4 +55,5 @@ In addition to her solo work and running her choir (Utterance) she regularly col
 >*…sound rose and fell in waves until it felt as if I was drenched in music that had seeped its way into every organ in my body, and maybe even found my soul. The enforced intimacy of the piece is startling, initially discomforting, charged and ultimately liberating. You can't help but feel better after experiencing it.*<br><a href="http://www.theguardian.com/stage/theatreblog/2014/aug/08/edinburgh-festival-2014-new-levels-intimacy-verity-standen" target="_blank">Lyn Gardner, Guardian</a>            
          
 #### Websites          
-<a href="http://veritystanden.com" target="_blank">veritystanden.com</a> | <a href="http://twitter.com/verity_standen" target="_blank">@verity_standen</a><br><a href="http://www.whitworth.manchester.ac.uk/whats-on/events/thursdaylates" target="_blank">Thursday Lates at the Whitworth</a>
+<a href="http://veritystanden.com" target="_blank">veritystanden.com</a> | <a href="http://twitter.com/verity_standen" target="_blank">@verity_standen</a> | <a href="http://youtu.be/pCHcVPjJWRU" target="_blank">*HUG* trailer</a><br>
+<a href="http://www.derelictlive.org" target="_blank">Derelict</a> | <a href="http://www.whitworth.manchester.ac.uk/whats-on/events/thursdaylates" target="_blank">Thursday Lates at the Whitworth</a>
