@@ -31,8 +31,8 @@ Tickets: free to <a href="http://www.wegottickets.com/wordofwarning" target="_bl
 Box Office Tel: 07581 299 439 (leave a message + we'll get back to you)         
          
 #### Preston Venue + Booking Details          
-Day One: Friday 8 April 2016, 6-8pm (*exact times tbc*)          
-Day Two: Saturday 9 April 2016, 1-5pm (*exact times tbc*)          
+Day One: Friday 8 April 2016, 6pm + 7pm + 8pm               
+Day Two: Saturday 9 April 2016, 1pm + 2pm + 3pm + 4pm + 5pm    
 <a href="http://www.harrismuseum.org.uk/your-visit/23-getting-here" target="_blank">Venue: Harris Museum</a>, Market Square, Preston, PR1 2PP             
 Tickets: free to book online (link coming soon). *Booking essential as each performance has a limited capacity.*       
 Box Office Tel: 01772 905 414 / 07867 306 062       
