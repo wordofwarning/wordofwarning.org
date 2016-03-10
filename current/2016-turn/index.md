@@ -35,7 +35,7 @@ Jo Ashbridge | Tom Bowes Dance | Brink Dance Company | Giorgio de Carolis | Ina 
           
 To get a feel for it, see Turn 2015's [programme](/archive/2015-turn) + [image gallery](/galleries/2015-turn).         
                   
-#### What people have said about Turn before
+#### What people have said about Turn
 >★★★★ *One of the key events in Manchester's dance calendar.*<br><a href="http://www.thepublicreviews.com/turn-2013-contact-manchester" target="_blank">The Public Reviews</a>             
 >• *Variety of performances and styles was good and prevented the feeling of déjà vu.*<br>• *…great that a lot of different performers had the chance and the space to show their pieces.*<br>[Audience Feedback from 2015](/archive/2015-turn)         
 >• *Enjoyed the eclectic mix. A good way to sample dance, especially if you haven't seen a lot before.*<br>• *…creative and great to see such different work from emerging artists…*<br>• *A real spur to young talent.*<br>[Audience Feedback from 2014](/archive/2014-turn)            
@@ -45,7 +45,7 @@ To get a feel for it, see Turn 2015's [programme](/archive/2015-turn) + [image g
 Turn 2016 takes place in a number of different spaces and formats around Contact's building — some seated, some standing, some limited capacity, some participatory. With intervals, both evenings will last between 2-3 hours.<br>Age advisory: 14+ (*parental discretion*). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.               
                           
 #### Credits         
-[Turn](/hab/turn) 2016 is co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://www.digm.org" target="_blank">Dance Manchester</a>; supported using public funding by Arts Council England + funded by Manchester City Council. <small>Header image: Jo Ashbridge, Turn Prize 2014 | Photo: Jerome Whittingham</small>         
+[Turn](/hab/turn) 2016 is co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://www.digm.org" target="_blank">Dance Manchester</a>; supported using public funding by Arts Council England + funded by Manchester City Council. <small>| Header image: Jo Ashbridge, Turn Prize 2014 | Photo: Jerome Whittingham</small>          
 <a href="http://turnmcr.org" target="_blank">turnmcr.org</a> | <a href="http://twitter.com/hashtag/TurnMcr" target="_blank">#TurnMcr</a>
 
 #### † Ticket Offers available at Contact during Turn 2016         
