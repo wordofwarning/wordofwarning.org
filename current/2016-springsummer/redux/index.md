@@ -24,7 +24,7 @@ Première of this (ir)reverent remake of a Mancunian classic.<br>Starring Eggs C
          
 #### Venue + Booking Details       
 Date: Sunday 22 May 2016, 8pm              
-<a href="http://homemcr.org/visit" target="_blank">Venue: HOME (Theatre 2)</a>, 2 Tony Wilson Place Manchester M15 4FN          
+<a href="http://homemcr.org/visit" target="_blank">Venue: HOME (Theatre 2)</a>, 2 Tony Wilson Place, Manchester, M15 4FN          
 Tickets: free to book online or in person at HOME (from 14 March), donations are welcome on the day.         
 Box Office Tel: 0161 200 1500             
               
