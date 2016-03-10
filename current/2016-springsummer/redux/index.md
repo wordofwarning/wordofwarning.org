@@ -32,7 +32,7 @@ Box Office Tel: 0161 200 1500
 Age advisory + duration TBC. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
 
 #### More
-Since 2013 Richard DeDomenici's inexplicably popular *The Redux Project* has caused a stir over fifty times, in places as diverse as London, Bangkok, Hong Kong, Seoul, Sydney, Beijing + Norwich.         
+Since 2013 Richard DeDomenici's inexplicably popular *The Redux Project* has caused a stir over fifty times, in places as diverse as London, Bangkok, Hong Kong, Seoul, Sydney, Beijing and Norwich.         
          
 The project celebrates and subverts the cultural heritage of the places it visits, by attempting to make shot-for-shot remakes of scenes from famous movies and telly, on a shoe-string budget with amateur local crews, in the same locations where the originals were filmed.         
           
@@ -41,7 +41,7 @@ Most recently Richard adapted *The Redux Project* into a tv show, for the BBC4 e
 Richard will apply his unique set of skills to the groundbreaking Mancunian classic *Queer As Folk*, in collaboration with renowned locally-sourced performance trio Eggs Collective.       
        
 #### Who are they?    
-Richard DeDomenici makes work that is social, joyful, topical and political — although rarely simultaneously. He specialises in urban-absurdist interventions which strive to create the kind of uncertainty that leads to possibility. In addition to Manchester, in 2016 he plans to make work in Malaysia, Macedonia + Milton Keynes.        
+Richard DeDomenici makes work that is social, joyful, topical and political — although rarely simultaneously. He specialises in urban-absurdist interventions which strive to create the kind of uncertainty that leads to possibility. In addition to Manchester, in 2016 he plans to make work in Malaysia, Macedonia and Milton Keynes.        
        
 Eggs Collective are a trio making sharp, fun, culturally-observational performance that falls somewhere in the cracks between theatre + cabaret. They explore feminism through the way we see the world and what they find funny.        
         
