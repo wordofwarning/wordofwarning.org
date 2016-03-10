@@ -5,7 +5,7 @@ layout: 2016-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Richard DeDomenici<br>+ Eggs Collective" # the name of the artist or company
+artist: "Richard DeDomenici<br> and Eggs Collective" # the name of the artist or company
 show: "Queer As Yolk: Redux" # the name of the show
 artist_size: 2
 show_size: 2
@@ -25,37 +25,35 @@ Première of this (ir)reverent remake of a Mancunian classic.<br>Starring Eggs C
 #### Venue + Booking Details       
 Date: Sunday 22 May 2016, 8pm              
 <a href="http://homemcr.org/visit" target="_blank">Venue: HOME (Theatre 2)</a>, 2 Tony Wilson Place Manchester M15 4FN          
-Tickets: entry by donation; free booking available at HOME/online from Monday 21 March            
+Tickets: free to book online or in person at HOME (from 14 March), donations are welcome on the day.         
 Box Office Tel: 0161 200 1500             
               
 #### Access Information      
 Age advisory + duration tbc. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
 
 #### More
-Since 2013 Richard DeDomenici's inexplicably popular Redux Project has caused a stir over fifty times, in places as diverse as London, Bangkok, Hong Kong, Seoul, Sydney, Beijing and Norwich.    
- 
-The project celebrates and subverts the cultural heritage of the places it visits, by attempting to make shot-for-shot remakes of scenes from famous movies and telly, on a shoe-string budget with amateur local crews, in the same locations where the originals were filmed.    
- 
-Most recently Richard adapted the Redux Project into a tv show, for the BBC4 event Live From Television Centre.    
-
-It was described by a Guardian journalist as one of the smartest, strangest, subversive half hours of television they had ever seen.    
-
-Richard will apply his unique set of skills to the to the groundbreaking Mancunian classic *Queer As Folk*, in collaboration with renowned locally-sourced performance trio Eggs Collective.    
-
+Since 2013 Richard DeDomenici's inexplicably popular *The Redux Project* has caused a stir over fifty times, in places as diverse as London, Bangkok, Hong Kong, Seoul, Sydney, Beijing + Norwich.         
+         
+The project celebrates and subverts the cultural heritage of the places it visits, by attempting to make shot-for-shot remakes of scenes from famous movies and telly, on a shoe-string budget with amateur local crews, in the same locations where the originals were filmed.         
+          
+Most recently Richard adapted *The Redux Project* into a tv show, for the <a href="http://www.bbc.co.uk/programmes/p038bxhz" target="_blank">BBC4 event *On Stage: Live From Television Centre*</a>. It was described by a Guardian journalist as one of the smartest, strangest, subversive half hours of television they had ever seen.         
+       
+Richard will apply his unique set of skills to the groundbreaking Mancunian classic *Queer As Folk*, in collaboration with renowned locally-sourced performance trio Eggs Collective.       
+       
 #### Who are they?    
-Richard DeDomenici makes work that is social, joyful, topical and political - although rarely simultaneously.  He specialises in urban-absurdist interventions which strive to create the kind of uncertainty that leads to possibility.  In addition to Manchester, this year he plans to make work in Malaysia, Macedonia and Milton Keynes.    
-
-Eggs Collective are a trio making sharp, fun, culturally-observational performance that falls somewhere in the cracks between theatre and cabaret. They explore feminism through the way we see the world and what they find funny.     
-
-#### What people have said about the Redux Project        
->*Outrageous ... Hilarious ... a sharp critique of modern myth-making*<br><a href="http://URL" target="_blank">The Scotsman</a>    
+Richard DeDomenici makes work that is social, joyful, topical and political — although rarely simultaneously. He specialises in urban-absurdist interventions which strive to create the kind of uncertainty that leads to possibility. In addition to Manchester, in 2016 he plans to make work in Malaysia, Macedonia + Milton Keynes.        
+       
+Eggs Collective are a trio making sharp, fun, culturally-observational performance that falls somewhere in the cracks between theatre and cabaret. They explore feminism through the way we see the world and what they find funny.        
+        
+#### What people have said about *The Redux Project*         
+>*Outrageous… Hilarious… a sharp critique of modern myth-making*<br><a href="http://URL" target="_blank">The Scotsman</a>    
 >*DeDomenici's Redux Project is a Don Quixote tilt at cultural hegemony*<br><a href="http://URL" target="_blank">Exeunt</a>   
->*Typical DeDomenici lunacy ... brilliant, refreshing and delightful*<br><a href="http://URL" target="_blank">Total Theatre Magazine</a>   
->*Brilliantly irreverent stuff from DeDomenici*<br><a href="http://URL" target="_blank">Lyn Gardner, Guardian</a>   
->*Better than a trip to the Multiplex*<br><a href="http://URL" target="_blank">Eastern Daily Press</a>    
-  
+>*Typical DeDomenici lunacy… brilliant, refreshing and delightful*<br><a href="http://URL" target="_blank">Total Theatre Magazine</a>   
+>*Brilliantly irreverent stuff from DeDomenici*<br><a href="http://URL" target="_blank">Lyn Gardner, The Guardian</a>   
+>*Better than a trip to the Multiplex*<br><a href="http://URL" target="_blank">Eastern Daily Press</a>
+        
 #### Credits         
 Commissioned by hÅb. Produced by Richard DeDomenici.        
           
 #### Websites       
-<a href="http://dedomenici.com/redux" target="_blank">theReduxProject.com</a><br><a href="http://www.EggsCollective.com" target="_blank">EggsCollective.com</a><br><a href="http://dedomenici.com" target="_blank">DeDomenici.com</a><br><a href="http://twitter.com/TheReduxProject" target="_blank">@TheReduxProject</a> | <a href="http://twitter.com/DeDomenici" target="_blank">@DeDomenici</a> | <a href="http://twitter.com/EggsCollective" target="_blank">@EggsCollective</a>
+<a href="http://dedomenici.com/redux" target="_blank">TheReduxProject.com</a> | <a href="http://dedomenici.com" target="_blank">dedomenici.com</a> | <a href="http://www.EggsCollective.com" target="_blank">eggscollective.com</a><br><a href="http://twitter.com/TheReduxProject" target="_blank">@TheReduxProject</a> | <a href="http://twitter.com/DeDomenici" target="_blank">@DeDomenici</a> | <a href="http://twitter.com/EggsCollective" target="_blank">@EggsCollective</a>
