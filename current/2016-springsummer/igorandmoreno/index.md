@@ -6,8 +6,8 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Igor and Moreno" # the name of the artist or company
 show: "A Room for All Our Tomorrows" # the name of the show
-artist_size: 2
-show_size: 4
+artist_size: 1
+show_size: 3
 header_image: "header_igor.jpg"    
 
 # ABOUT THE SHOW - LAYOUT
