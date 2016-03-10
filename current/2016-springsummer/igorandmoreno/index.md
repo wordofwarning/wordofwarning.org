@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Igor and Moreno" # the name of the artist or company
-show: "A Room For All Our Tomorrows" # the name of the show
+show: "A Room for All Our Tomorrows" # the name of the show
 artist_size: 2
 show_size: 4
 header_image: "header_igor.jpg"    
@@ -44,11 +44,11 @@ Across all their works they have always tried to create a frame to share their v
           
 Currently Work Place artists (the associate artist programme at The Place), Igor and Moreno have presented their works extensively in Europe and the USA with recognition from both audiences and professionals: in 2010 they won the Rudolf Laban Award and special mention at Prix Jardin d'Europe; they were an Aerowaves Priority company in 2011, 2013 + 2015; in 2015 they were nominated for the National Dance Awards 2015, Total Theatre Awards 2015 and selected for the British Council Showcase 2015, Anticorpi XL network + Vetrina Giovane Danza D'Autore.        
           
-#### What people have said about *A Room For All Our…*         
->*The depth and range of emotions that this singular piece provokes within me is astounding.…*<br><a href="http://URL" target="_blank">Jake Orr</a>           
->*Sent everyone home infused with a greater degree of humorous compassion for their own relationships. It was a pure, unadulterated delight…*<br><a href="http://URL" target="_blank">Joy Martin, Exeunt</a>           
->*it was BRILLIANT. And VISCERAL. […] You know the best thing about ‘visceral’? IT DOESN’T HAVE TO MEAN ANYTHING. You just feel it.…*<br><a href="http://URL" target="_blank">Megan Vaughan</a>          
->*The tension between the two dancers was extraordinary and overwhelmingly human. […] Every aspect of this performance was executed to perfection. I can’t wait to see what these two produce next.…*<br><a href="http://URL" target="_blank">Dulcie Fraser</a>        
+#### What people have said about *A Room for…*         
+>*The depth and range of emotions that this singular piece provokes within me is astounding.*<br><a href="http://www.jakeorr.co.uk/blog/2015/10/being-gay-and-finding-hope-in-dance-igor-and-morenos-a-room-for-all-our-tomorrows" target="_blank">Jake Orr</a>           
+>*…probably sent everyone home infused with a greater degree of humorous compassion for their own relationships. It was a pure, unadulterated delight.*<br><a href="http://exeuntmagazine.com/features/watch-out" target="_blank">Joy Martin, Exeunt</a>           
+>*…it was BRILLIANT. And VISCERAL. […] You know the best thing about 'visceral'? IT DOESN'T HAVE TO MEAN ANYTHING You just feel it.*<br><a href="http://synonymsforchurlish.tumblr.com/post/130642370648/stimulants-mate-igor-and-moreno-not-even" target="_blank">Megan Vaughan</a>          
+>*The tension between the two dancers was extraordinary and overwhelmingly human. […] Every aspect of this performance was executed to perfection. I can't wait to see what these two produce next.*<br><a href="http://dulciefraserdance.wordpress.com/2015/10/12/igor-and-moreno-a-room-for-all-our-tomorrows" target="_blank">Dulcie Fraser</a>        
          
 #### Credits          
 Produced by Igor and Moreno + The Place | Created + performed by Igor Urzelai and Moreno Solinas | Commissioned by The Place (London) + Cambridge Junction, supported using public funding by the National Lottery through Arts Council England, with support from Centro Per La Scena Contemporanea (Bassano del Grappa), Dance Base (Edinburgh), Chelsea Theatre, Roehampton University + Nuovo Teatro Verdi (Sassari).        
