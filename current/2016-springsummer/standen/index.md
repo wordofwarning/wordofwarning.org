@@ -38,7 +38,7 @@ Tickets: free to book online (link coming soon). *Booking essential as each perf
 Box Office Tel: 01772 905 414 / 07867 306 062       
           
 #### Access Information        
-Age: 18+ (parental/guardian advisory). With no interval, each performance lasts approximately 25 minutes. Each audience member is blindfolded and hugged by a singer; participants experience the performance through sound, breath and vibrations of the body. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
+Age advisory: 18+ (parental/guardian discretion). With no interval, each performance lasts approximately 25 minutes. Each audience member is blindfolded and hugged by a singer; participants experience the performance through sound, breath and vibrations of the body. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
 #### More      
 Unable to visually gauge their surroundings, participants experience the performance through sound, breath and vibrations of the body as the choir of voices deliver the song. Playing with sense and perspective, *HUG* is a unique examination of the human voice's power.        
