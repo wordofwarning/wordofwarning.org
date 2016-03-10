@@ -16,7 +16,7 @@ header_image: "header_hug.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Derelict + Word of Warning, *supported by* UCLan<br>*Part of* Thursday Lates *at* the Whitworth *in Manchester*         
+*Presented by* Derelict *+* Word of Warning, *supported by* UCLan<br>*Part of* Thursday Lates *at* the Whitworth *in Manchester*         
        
 #### In Brief      
 An immersive choral sound bath…         
@@ -34,7 +34,7 @@ Box Office Tel: 07581 299 439 (leave a message + we'll get back to you)
 Day One: Friday 8 April 2016, 6-8pm (*exact times tbc*)          
 Day Two: Saturday 9 April 2016, 1-5pm (*exact times tbc*)          
 <a href="http://www.harrismuseum.org.uk/your-visit/23-getting-here" target="_blank">Venue: Harris Museum</a>, Market Square, Preston, PR1 2PP             
-Tickets: free to book online (*link coming soon*). *Booking essential as each performance has a limited capacity*       
+Tickets: free to book online (link coming soon). *Booking essential as each performance has a limited capacity.*       
 Box Office Tel: 01772 905 414 / 07867 306 062       
           
 #### Access Information        
@@ -52,7 +52,7 @@ In addition to her solo work and running her choir (Utterance) she regularly col
         
 #### What people have said about *HUG*        
 >★★★★★ *To feel somebody's thorax vibrate as they tackle an elaborate countermelody feels like the most immediate, visceral experience of music as human expression possible… like an antenna to heaven.*<br><a href="http://www.timeout.com/london/theatre/hug-review" target="_blank">TimeOut</a>        
->*…there is more to it than just sensation. *HUG* is also a strangely cathartic experience, unequivocally illustrating the power that music holds to move us.*<br><a href="http://exeuntmagazine.com/reviews/mmm-hmmm-hug/" target="_blank">Exeunt</a>        
+>*…there is more to it than just sensation. HUG is also a strangely cathartic experience, unequivocally illustrating the power that music holds to move us.*<br><a href="http://exeuntmagazine.com/reviews/mmm-hmmm-hug/" target="_blank">Exeunt</a>        
 >*…the sound rose and fell in waves until it felt as if I was drenched in music that had seeped its way into every organ in my body, and maybe even found my soul. The enforced intimacy of the piece is startling, initially discomforting, charged and ultimately liberating. You can't help but feel better after experiencing it.*<br><a href="http://www.theguardian.com/stage/theatreblog/2014/aug/08/edinburgh-festival-2014-new-levels-intimacy-verity-standen" target="_blank">Lyn Gardner, The Guardian</a>            
          
 #### Websites          
