@@ -33,7 +33,7 @@ Box Office Tel: 0843 208 6000
 Age advisory: TBC. With no interval, the show lasts approximately 1 hour. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
 #### More         
-There are two people in this dance performance, but it is not just about them.<br>It is about all of us.<br>It is about the secret lives we all possess when we are close to others.<br>It is about those moments – between coffee and dancing – when harmony abandons us and all we have left is the desire to scream.<br>It is a performance and place to imagine how things might be other than the way they are. It is a simple room for all our tomorrows.          
+There are two people in this dance performance, but it is not just about them.<br>It is about all of us.<br>It is about the secret lives we all possess when we are close to others.<br>It is about those moments – between coffee and dancing – when harmony abandons us and all we have left is the desire to scream.<br>It is a performance and place to imagine how things might be other than the way they are.<br>It is a simple room for all our tomorrows.          
         
 #### Who are they?        
 Igor Urzelai and Moreno Solinas are two London-based dance artists. They started creating stage works collaboratively in 2007, co-founding ‘BLOOM! dance collective’ in 2009 and ‘Igor and Moreno’ in 2012.         
