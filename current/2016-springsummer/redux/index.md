@@ -5,7 +5,7 @@ layout: 2016-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Richard DeDomenici<br>  + Eggs Collective" # the name of the artist or company
+artist: "Richard DeDomenici<br>_+ Eggs Collective" # the name of the artist or company
 show: "Queer As Yolk: Redux" # the name of the show
 artist_size: 2
 show_size: 2
