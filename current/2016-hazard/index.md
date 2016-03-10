@@ -35,5 +35,5 @@ Manchester's stripiest festival returns to unleash a sixth wave of bizarre behav
 Hazard is really aimed for you to encounter by chance, and will be paperless on the day — participating artists and a schedule will appear here during June. To get a feel for it, see Hazard 2014's [programme](/archive/2014-hazard) + [image gallery](/galleries/2014-hazard).        
          
 #### Credits        
-[Hazard](/hab/hazard) 2016 is produced by [hÅb](/hab), in collaboration with the participating artists; supported using public funding by Arts Council England + funded by Manchester City Council. <small>Header image: Antje Hildebrandt, 2014</small>         
+[Hazard](/hab/hazard) 2016 is produced by [hÅb](/hab), in collaboration with the participating artists; supported using public funding by Arts Council England + funded by Manchester City Council. | Header image: Antje Hildebrandt, 2014         
 <a href="http://hazardmcr.org" target="_blank">hazardmcr.org</a> | <a href="http://twitter.com/hashtag/HazardMcr" target="_blank">#HazardMcr</a>
