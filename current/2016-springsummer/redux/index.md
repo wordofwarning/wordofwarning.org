@@ -43,7 +43,7 @@ Richard will apply his unique set of skills to the groundbreaking Mancunian clas
 #### Who are they?    
 Richard DeDomenici makes work that is social, joyful, topical and political — although rarely simultaneously. He specialises in urban-absurdist interventions which strive to create the kind of uncertainty that leads to possibility. In addition to Manchester, in 2016 he plans to make work in Malaysia, Macedonia + Milton Keynes.        
        
-Eggs Collective are a trio making sharp, fun, culturally-observational performance that falls somewhere in the cracks between theatre and cabaret. They explore feminism through the way we see the world and what they find funny.        
+Eggs Collective are a trio making sharp, fun, culturally-observational performance that falls somewhere in the cracks between theatre + cabaret. They explore feminism through the way we see the world + what they find funny.        
         
 #### What people have said about *The Redux Project*         
 >*outrageous… hilarious… sharp critique of modern myth-making…*<br><a href="http://www.scotsman.com/lifestyle/culture/theatre/theatre-review-buzzcut-various-venues-glasgow-1-2870020" target="_blank">The Scotsman</a>       
