@@ -38,7 +38,7 @@ Unpredictable double bill from Top Joe + Lucy McCormick.
 <a href="http://twitter.com/afreenaazaria" target="_blank">@afreenaazaria</a>         
         
 **Lucy McCormick**         
-"I have cast myself as God in a large scale biblical re-enactment, performed via pop ballads and performance art with the help of two backing dancers. I was partly inspired to create this work by an ongoing interest in the Quaker belief in 'God' as one's own moral conscience — that of 'God in everyone'.<br>The piece is also an exercise in casting myself as the Ultimate Man, allow-ing for my interests and frustrations in gender politics and feminist discourse."           
+"I have cast myself as God in a large scale biblical re-enactment, performed via pop ballads and performance art with the help of two backing dancers. I was partly inspired to create this work by an ongoing interest in the Quaker belief in 'God' as one's own moral conscience — that of 'God in everyone'.<br>The piece is also an exercise in casting myself as the Ultimate Man, allowing for my interests and frustrations in gender politics and feminist discourse."           
 <a href="http://twitter.com/lucy_muck" target="_blank">@lucy_muck</a>        
         
 **Top Joe**             
