@@ -8,12 +8,8 @@ is_index: true
 ---
 *Book-ended by random horse metaphors, this short, sharp shock of a season spans just six weeks and takes a [canter through gender binaries](/current/2016-spring/macaskill), the [darker side of intimacy](/current/2016-spring/noble), [stupendous magic](/current/2016-spring/gambini) and a [bonkers bash for the young at heart](/current/2016-haphazard). Before we ride off into the Easter sunset, you might also just catch us doing some eggy filming out on the streets…*          
           
-We look forward to seeing you at some or all of it; if you want to check out what happened last season, have a look at our [Autumn/Winter 2015 archive](/archive/2015-autumnwinter).
-
-You can also join our <a href="http://www.facebook.com/events/449979085191153" target="_blank">facebook event</a>, and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=144976563660" target="_blank">online audience survey</a>.         
-        
-<small>*Brought to you by* hÅb *with* Contact, Z-arts, Sustained Theatre Up North (STUN) + SICK! Festival.</small>          
-        
+Brought to you by [hÅb](/hab) with Contact, Z-arts, Sustained Theatre Up North (STUN) + SICK! Festival, we look forward to seeing you at some or all of Spring 2016; you can also join our <a href="http://www.facebook.com/events/449979085191153" target="_blank">facebook event</a>. If you want to check out what happened last season take a look at our [Autumn/Winter 2015 archive](/archive/2015-autumnwinter), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=144976563660" target="_blank">online audience survey</a>.            
+            
 #### What is Word of Warning + where did it come from?
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of new live performance — an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work in Manchester + beyond…
 
