@@ -25,7 +25,7 @@ An immersive choral sound bath…
 ★★★★ The Guardian</a>
         
 #### Manchester Venue + Booking Details        
-PLEASE NOTE THIS EVENT HAS A LIMITED CAPACITY, WITH SOME TIMES ALREADY SOLD-OUT. WE WILL RELEASE EXTRA CAPACITY WHEN WE CAN — PLEASE CHECK OUR <a href="http://www.wegottickets.com/wordofwarning" target="_blank">ONLINE TICKET PORTAL</a>
+PLEASE NOTE: due to unprecedented initial demand + limited capacities, *HUG* is very likely to sell out in advance of the day. We will release extra capacity when we can — please check our <a href="http://www.wegottickets.com/wordofwarning" target="_blank">ticket portal</a>.            
 Date: Thursday 7 April 2016, <a href="http://www.wegottickets.com/event/353698" target="_blank">6.45pm</a> + <a href="http://www.wegottickets.com/event/353699" target="_blank">7.30pm</a> + <a href="http://www.wegottickets.com/event/353700" target="_blank">8.15pm</a>        
 <a href="http://www.whitworth.manchester.ac.uk/visit/gettinghere" target="_blank">Venue: the Whitworth (Grand Hall)</a>, The University of Manchester, Oxford Road, Manchester, M15 6ER             
 Tickets: free to <a href="http://www.wegottickets.com/wordofwarning" target="_blank">book online</a>, donations are welcome at the Whitworth on the day. *Booking essential as each performance has a limited capacity (remaining tickets will be available at the Whitworth in person from 5pm on the day).*            
