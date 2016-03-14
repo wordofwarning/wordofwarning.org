@@ -32,7 +32,7 @@ Manchester's stripiest festival returns to unleash a sixth wave of bizarre behav
          
 <iframe src="https://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" width="640" height="480"></iframe>        
          
-Hazard is really aimed for you to encounter by chance, and will be paperless on the day — participating artists and a schedule will appear here during June. To get a feel for it, see Hazard 2014's [programme](/archive/2014-hazard) + [image gallery](/galleries/2014-hazard).        
+Hazard is really aimed for you to encounter by chance, and will be paperless on the day — participating artists and a schedule will appear here during June, we are now <a href="http://hazardmcr.posthaven.com" target="_blank">seeking proposals online until 22 April</a>. To get a feel for it, see Hazard 2014's [programme](/archive/2014-hazard) + [image gallery](/galleries/2014-hazard).        
          
 #### Credits        
 [Hazard](/hab/hazard) 2016 is produced by [hÅb](/hab), in collaboration with the participating artists; supported using public funding by Arts Council England + funded by Manchester City Council. | Header image: Antje Hildebrandt, 2014         
