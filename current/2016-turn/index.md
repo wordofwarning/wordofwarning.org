@@ -31,8 +31,8 @@ Box Office Tel: 0161 274 0600
                   
 #### Artists        
 Our eighth annual platform for dancers + dance-makers sees twenty short pieces of new work over two evenings (*participating artists subject to change*):          
-**Friday**: Jo Ashbridge | Tom Bowes Dance | Giorgio de Carolis | Bridget Fiske + Co. | Gayathri Ganapathy | Lizzie J Klotz | Holly Rush | Stream Project | Lauren Tucker          
-**Saturday**: Brink Dance Company | Ina Colizza + Antonello Apicella | Ekpei, McKie + Withycombe-Wharton | Louise Gibbons | Gracefool Collective | Manoli Moriaty + Frances Kay | Now | Shelley Owen | Joseph Reay-Reid | Adam John Roberts | Sap Dance        
+**Friday 22 April**<br>Jo Ashbridge | Tom Bowes Dance | Giorgio de Carolis | Bridget Fiske + Co. | Gayathri Ganapathy | Lizzie J Klotz | Holly Rush | Stream Project | Lauren Tucker          
+**Saturday 23 April**<br>Brink Dance Company | Ina Colizza + Antonello Apicella | Ekpei, McKie + Withycombe-Wharton | Louise Gibbons | Gracefool Collective | Manoli Moriaty + Frances Kay | Now | Shelley Owen | Joseph Reay-Reid | Adam John Roberts | Sap Dance        
           
 To get a feel for it, see Turn 2015's [programme](/archive/2015-turn) + [image gallery](/galleries/2015-turn).         
                   
