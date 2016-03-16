@@ -22,19 +22,19 @@ show_size: 4
 Celebrating five years of this whirlwind of dance at Contact, Turn's two day spin around new northern dance sees energy burst from every nook and cranny…           
         
 Fluidly lyrical, effervescently acrobatic or eccentrically innovative, let Turn transport you into a frenzy of dance.        
+                  
+### Artists        
+Our eighth annual platform for dancers + dance-makers sees twenty short pieces of new work over two evenings (*participating artists subject to change*):          
+**Friday 22 April, 7.30pm**<br>Jo Ashbridge | Tom Bowes Dance | Giorgio de Carolis | Bridget Fiske + Co. | Gayathri Ganapathy | Lizzie J Klotz | Holly Rush | Stream Project | Lauren Tucker          
+**Saturday 23 April, 7.30pm**<br>Brink Dance Company | Ina Colizza + Antonello Apicella | Ekpei, McKie + Withycombe-Wharton | Louise Gibbons | Gracefool Collective | Manoli Moriaty + Frances Kay | Now | Shelley Owen | Joseph Reay-Reid | Adam John Roberts | Sap Dance        
+          
+To get a feel for it, see Turn 2015's [programme](/archive/2015-turn) + [image gallery](/galleries/2015-turn).         
          
 #### Venue + Booking Details              
 Dates: Friday 22 + Saturday 23 April 2016, 7.30pm       
 <a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact</a>, Oxford Road, Manchester, M15 6JA         
 <a href="http://contactmcr.com/whats-on/47093-turn-2016/booking" target="_blank">Tickets: £9/5 per night (two night pass £11/6)</a> | † *See group offer below.*        
 Box Office Tel: 0161 274 0600                
-                  
-#### Artists        
-Our eighth annual platform for dancers + dance-makers sees twenty short pieces of new work over two evenings (*participating artists subject to change*):          
-**Friday 22 April**<br>Jo Ashbridge | Tom Bowes Dance | Giorgio de Carolis | Bridget Fiske + Co. | Gayathri Ganapathy | Lizzie J Klotz | Holly Rush | Stream Project | Lauren Tucker          
-**Saturday 23 April**<br>Brink Dance Company | Ina Colizza + Antonello Apicella | Ekpei, McKie + Withycombe-Wharton | Louise Gibbons | Gracefool Collective | Manoli Moriaty + Frances Kay | Now | Shelley Owen | Joseph Reay-Reid | Adam John Roberts | Sap Dance        
-          
-To get a feel for it, see Turn 2015's [programme](/archive/2015-turn) + [image gallery](/galleries/2015-turn).         
                   
 #### What people have said about Turn
 >★★★★ *One of the key events in Manchester's dance calendar.*<br><a href="http://www.thepublicreviews.com/turn-2013-contact-manchester" target="_blank">The Public Reviews</a>             
