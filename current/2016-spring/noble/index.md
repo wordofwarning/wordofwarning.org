@@ -22,6 +22,8 @@ header_image: "header_noble.jpg"
 A darkly comic take on one man's attempts at connection, friendship and employment at B&Q. See the <a href="http://youtu.be/ZpI9fdp87Y8" target="_blank">trailer</a>.                         
         
 Through tower block, supermarket and Facebook, Kim seeks an escape from the loneliness of modern society and tries to get close to others. *Too close, maybe…*        
+           
+Now that it's over, read reviews from <a href="http://www.thereviewshub.com/kim-noble-youre-not-alone-contact-manchester" target="_blank">Reviews Hub (★★★★)</a>, <a href="http://www.northwestend.co.uk/index.php/professional-reviews/659-kim-noble-you-re-not-alone-contact-theatre-manchester" target="_blank">North West End</a> + <a href="http://betweentheland.wordpress.com/2016/03/15/review-youre-not-alone-contact" target="_blank">Edwina McEachran</a>.
         
 #### Venue + Booking Details    
 Date: Saturday 12 March 2016, 8pm         
