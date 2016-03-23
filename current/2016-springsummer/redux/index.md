@@ -25,7 +25,7 @@ Première of this (ir)reverent remake of a Mancunian classic.<br>Starring Eggs C
 #### Venue + Booking Details       
 Date: Sunday 22 May 2016, 8pm              
 <a href="http://homemcr.org/visit" target="_blank">Venue: HOME (Theatre 2)</a>, 2 Tony Wilson Place, Manchester, M15 4FN          
-Tickets: <a href="http://homemcr.org/production/queer-as-yolk-redux" target="_blank"> free to book online</a> or in person at HOME, donations are welcome after the show.         
+Tickets: <a href="http://homemcr.org/event/queer-as-yolk-redux" target="_blank"> free to book online</a> or in person at HOME, donations are welcome after the show.         
 Box Office Tel: 0161 200 1500             
               
 #### Access Information      
