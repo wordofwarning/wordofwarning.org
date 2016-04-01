@@ -20,7 +20,7 @@ show_size: 3
 ### Saturday 20 February 2016, 12noon-4pm. FREE             
 Intriguing images and offbeat oddities dotted around the historic Z-arts' building. Playful, quirky, engaging and sometimes plain daft: this is a day for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out! *Turn up at any time and come and go as you please.*            
           
-Now that it's over, read a review from <a href="http://www.canal-st.co.uk/Box-office/canal-st-reviews/haphazard-at-z-arts" target="_blank">Canal St Online/Northern Soul</a> and Liz O'Neill (Z-arts)'s article in <a href="http://www.artsprofessional.co.uk/magazine/article/allowed-play" target="_blank">Arts Professional</a>.             
+Now that it's over, read a review from <a href="http://www.canal-st.co.uk/Box-office/canal-st-reviews/haphazard-at-z-arts" target="_blank">Canal St Online/Northern Soul</a> and a reflection on Haphazard + intergenerational live art inn <a href="http://www.artsprofessional.co.uk/magazine/article/allowed-play" target="_blank">Arts Professional</a> by Z-arts' Liz O'Neill.             
            
 #### Venue + Booking Details
 Date: Saturday 20 February 2016, 12noon-4pm    
