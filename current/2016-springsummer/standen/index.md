@@ -31,8 +31,8 @@ An immersive choral sound bath…
 ***UPDATE Tue 5 April** — if you have booked and for any reason aren't going to be able to use your ticket(s) please could you let us know via <mailto:rsvp@habarts.org> or 07581 299 439. Any remaining tickets or returns will be available in person at the Whitworth from 5pm on 7 April.*            
 Manchester Date: Thursday 7 April 2016, <a href="http://www.wegottickets.com/event/353697" target="_blank">6pm</a> + <a href="http://www.wegottickets.com/event/353698" target="_blank">6.45pm</a> + <a href="http://www.wegottickets.com/event/353699" target="_blank">7.30pm</a> + <a href="http://www.wegottickets.com/event/353700" target="_blank">8.15pm</a>        
 Manchester Venue: <a href="http://www.whitworth.manchester.ac.uk/visit/gettinghere" target="_blank">the Whitworth (Grand Hall)</a>, The University of Manchester, Oxford Road, Manchester, M15 6ER             
-Manchester Tickets: <a href="http://www.wegottickets.com/wordofwarning" target="_blank">free to book online</a>, donations are welcome on the day. *Remaining tickets available in person at the Whitworth from 5pm on 7 Apr.*            
-M'cr Box Office Tel: 07581 299 439 (leave a message + we'll get back to you)         
+Manchester Tickets: <a href="http://www.wegottickets.com/wordofwarning" target="_blank">free to book online</a>, donations are welcome on the day.           
+Mcr Box Office Tel: 07581 299 439 (leave a message + we'll get back to you)         
          
 #### Preston Venue + Booking Details (Harris Museum)          
 Preston Day One: Friday 8 April 2016, 6pm + 7pm + 8pm               
