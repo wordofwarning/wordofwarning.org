@@ -35,8 +35,8 @@ Manchester Tickets: <a href="http://www.wegottickets.com/wordofwarning" target="
 Mcr Box Office Tel: 07581 299 439 (leave a message + we'll get back to you)         
          
 #### Preston Venue + Booking Details (Harris Museum)          
-Preston Day One: Friday 8 April 2016, 6pm + 7pm + 8pm               
-Preston Day Two: Saturday 9 April 2016, 1pm + 2pm + 3pm + 4pm + 5pm    
+Preston Day One: Friday 8 April 2016, 6pm + 7pm               
+Preston Day Two: Saturday 9 April 2016, 2pm + 3pm + 4pm + 5pm    
 Preston Venue: <a href="http://www.harrismuseum.org.uk/your-visit/23-getting-here" target="_blank">Harris Museum & Art Gallery</a>, Market Square, Preston, PR1 2PP             
 Preston Tickets: <a href="http://www.eventbrite.co.uk/o/harris-museum-amp-art-gallery-4265632867" target="_blank">free to book online</a>.        
 Preston Box Office Tel: 01772 905 414 / 07867 306 062       
