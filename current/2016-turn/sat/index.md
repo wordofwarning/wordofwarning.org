@@ -24,11 +24,11 @@ Box Office Tel: 0161 274 0600
 
 #### Order of Appearance (subject to change)           
 **Manoli Moriaty + Frances Kay | *Symbiosis***      
-Symbiosis: where the performers become interconnected through motion sensors and tactile devices...      
+*Symbiosis*: where the performers become interconnected through motion sensors and tactile devices...      
  [franceskayperformanceart.wordpress.com](https://franceskayperformanceart.wordpress.com/symbiosis/)      
 
 **Ina Colizza + Antonello Apicella | *Bruise***     
-*"The continuous possibility of choice in everyone's life is nothing more than reality ...a man and a woman showing to one another how feelings come up while bruises keep raising"*    
+*"The continuous possibility of choice in everyone's life is nothing more than reality ... a man and a woman showing to one another how feelings come up while bruises keep raising"*    
 ![Ina Colizza](Ina-Colizza.jpg)                
 	
 **Adam John Roberts | *Awaiting Acknowledgement***     
@@ -40,21 +40,21 @@ This expressive solo dance work is inspired by my personal experience of depress
 **Sap Dance | *The Dusk Wood***     
 A solitary dancer traces the trees of a wood as it descends from daytime, through dusk, into night.     
 The work has emerged from an intensive process of recording the sound and motion of Grubbins Wood, an ancient wood in Arnside, Cumbria, managed by Cumbria Wildlife Trust.    
-Sap Dance make short theatre pieces and full-length site-specific works that combine dance with at least one other art form, and that distil and disclose aspects of the natural world. Previous works include Lune (2005), Saturated Moment (2006-7), Still Life (2008, rev. 2009), and Jack Scout (2010).     
+Sap Dance make short theatre pieces and full-length site-specific works that combine dance with at least one other art form, and that distil and disclose aspects of the natural world. Previous works include *Lune* (2005), *Saturated Moment* (2006-7), *Still Life* (2008, rev. 2009), and *Jack Scout* (2010).     
 [Website](http://www.lancaster.ac.uk/fass/projects/jackscout/)       
  
 **Joseph Reay-Reid | *Moment to Moment***          
-A couple, A spotlight, A clash of memories     
-An auto biographical piece from memory and experience.     
+A couple, A spotlight, A clash of memories.     
+An autobiographical piece from memory and experience.     
 It is about human interaction and how memory informs how we are with new people that we meet. It analyses how we sometimes find it difficult to connect with other people. Even people we have known all our lives.         
  	
 **Ekpei, McKie + Withycombe-Wharton | *Loquens In Latrina***     
-Did you ever think how much time you actually spent in the toilets when you were clubbing in the 80's?      
+Did you ever think how much time you actually spent in the toilets when you were clubbing in the 80s?      
 Kema T. Ekpei presents Anne-Marie McKie and Bridget Withycombe-Wharton.     
 [www.kema.org.uk](http://www.kema.org.uk)          
 
 **Now | *Piece of Cake***    
-*"We'll be full of jollity and real good cheer,     
+*We'll be full of jollity and real good cheer,     
 Happiness is what we want to make,        
 Wipe your little tootsies on the front door mat     
 And cut yourself a little piece of cake.*    
