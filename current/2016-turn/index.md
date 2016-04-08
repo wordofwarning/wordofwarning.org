@@ -25,17 +25,18 @@ Fluidly lyrical, effervescently acrobatic or eccentrically innovative, let Turn 
                   
 ### Artists        
 Our eighth annual platform for dancers + dance-makers sees twenty short pieces of new work over two evenings, *participating artists subject to change*…         
-**Friday 22 April, 7.30pm** — Jo Ashbridge | Tom Bowes Dance | Giorgio de Carolis | Bridget Fiske + Co. | Gayathri Ganapathy | Lizzie J Klotz | Holly Rush | Stream Project | Lauren Tucker          
-**Saturday 23 April, 7.30pm** — Brink Dance Company | Ina Colizza + Antonello Apicella | Ekpei, McKie + Withycombe-Wharton | Louise Gibbons | Gracefool Collective | Manoli Moriaty + Frances Kay | Now | Shelley Owen | Joseph Reay-Reid | Adam John Roberts | Sap Dance        
+**FIRST NIGHT: Fri 22 Apr, 7.30pm** — Jo Ashbridge | Tom Bowes Dance | Giorgio de Carolis | Bridget Fiske + Co. | Gayathri Ganapathy | Lizzie J Klotz | Holly Rush | Stream Project | Lauren Tucker          
+**SECOND NIGHT: Sat 23 Apr, 7.30pm** — Brink Dance Company | Ina Colizza + Antonello Apicella | Ekpei, McKie + Withycombe-Wharton | Louise Gibbons | Gracefool Collective | Manoli Moriaty + Frances Kay | Now | Shelley Owen | Joseph Reay-Reid | Adam John Roberts | Sap Dance        
           
 To get a feel for it, see Turn 2015's [programme](/archive/2015-turn) + [image gallery](/galleries/2015-turn).         
          
 #### Venue + Booking Details              
 Dates: Friday 22 + Saturday 23 April 2016, 7.30pm       
 <a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact</a>, Oxford Road, Manchester, M15 6JA         
-<a href="http://contactmcr.com/whats-on/47093-turn-2016/booking" target="_blank">Tickets: £9/5 per night (two night pass £11/6)</a> | † *See group offer below.*        
+<a href="http://contactmcr.com/whats-on/47093-turn-2016/booking" target="_blank">Tickets: £9/5 per night</a> (two night pass £11/6)        
+*<a href="http://www.contactmcr.com/ticketoffers" target="_blank">Group offer</a>: buy 10 (full or concession) tickets + get your 11th free.*        
 Box Office Tel: 0161 274 0600                
-                  
+          
 #### What people have said about Turn
 >★★★★ *One of the key events in Manchester's dance calendar.*<br><a href="http://www.thepublicreviews.com/turn-2013-contact-manchester" target="_blank">The Public Reviews</a>             
 >• *Variety of performances and styles was good and prevented the feeling of déjà vu.*<br>• *…great that a lot of different performers had the chance and the space to show their pieces.*<br>[Audience Feedback from 2015](/archive/2015-turn)         
@@ -48,7 +49,3 @@ Turn 2016 takes place in a number of different spaces and formats around Contact
 #### Credits         
 [Turn](/hab/turn) 2016 is co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://www.digm.org" target="_blank">Dance Manchester</a>; supported using public funding by Arts Council England + funded by Manchester City Council. | Image: Jo Ashbridge, Turn Prize 2014 by Jerome Whittingham          
 <a href="http://turnmcr.org" target="_blank">turnmcr.org</a> | <a href="http://twitter.com/hashtag/TurnMcr" target="_blank">#TurnMcr</a>
-
-#### † Group ticket offer available at Contact during Turn 2016         
-Buy 10 (full or concession) tickets + get your 11th free.                  
-T&Cs: tickets must be booked in a single transaction, offer cannot be applied retrospectively; exclusions apply, visit <a href="http://www.contactmcr.com/ticketoffers" target="_blank">contactmcr.com/ticketoffers</a> for details.
