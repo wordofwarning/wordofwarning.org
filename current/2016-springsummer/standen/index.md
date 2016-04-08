@@ -26,10 +26,8 @@ An immersive choral sound bath…
         
 *Booking essential as each performance has a limited capacity.*         
         
-Read Sarah Walters article on *HUG* in the <a href="http://www.manchestereveningnews.co.uk/whats-on/arts-culture-news/hug-whitworth-thursday-lates-standen-11155335" target="_blank">Manchester Evening News</a>.             
-        
 #### Manchester Venue + Booking Details (the Whitworth)        
-(Manchester Date: Thursday 7 April 2016, <a href="http://www.wegottickets.com/event/353697" target="_blank">6/6.45/7.30/8.15pm</a>: all sold-out)        
+(Manchester Date: Thursday 7 April 2016, 6/6.45/7.30/8.15pm: all sold-out)        
 Manchester Venue: <a href="http://www.whitworth.manchester.ac.uk/visit/gettinghere" target="_blank">the Whitworth (Grand Hall)</a>, The University of Manchester, Oxford Road, Manchester, M15 6ER             
 Manchester Tickets: <a href="http://www.wegottickets.com/wordofwarning" target="_blank">free to book online</a>, donations are welcome on the day.           
 Mcr Box Office Tel: 07581 299 439 (leave a message + we'll get back to you)         
@@ -45,6 +43,8 @@ Preston Box Office Tel: 01772 905 414 / 07867 306 062
 Age advisory: 18+ (parental/guardian discretion). With no interval, each performance lasts approximately 25 minutes. Each audience member is blindfolded and hugged by a singer; participants experience the performance through sound, breath and vibrations of the body. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
 #### More      
+Read Sarah Walters article on *HUG* in the <a href="http://www.manchestereveningnews.co.uk/whats-on/arts-culture-news/hug-whitworth-thursday-lates-standen-11155335" target="_blank">Manchester Evening News</a>.             
+        
 Unable to visually gauge their surroundings, participants experience the performance through sound, breath and vibrations of the body as the choir of voices deliver the song. Playing with sense and perspective, *HUG* is a unique examination of the human voice's power.        
            
 *HUG* is currently touring the UK and internationally following critically acclaimed performances at the Edinburgh Festival Fringe and the Southbank Centre, London. For Manchester and Preston it brings together a brand new ensemble of local voices for three days only.          
