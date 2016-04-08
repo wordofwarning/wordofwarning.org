@@ -52,7 +52,8 @@ Lizzie J Klotz is a Newcastle based dance artist, working with companies such as
    **Lauren Tucker | *This is what we left behind***    
 An autobiographical solo work in progress that responds to film footage of Lauren's great grandmother in 1964.    
 Starting with the question:  'What can we learn from the woman in our past?' Lauren has explored her family heritage and drawn upon significant moments of her great grandmother's life to create a physical and theatrical response. This is an exploration of an ordinary woman from Liverpool, who had two daughters and a son, two husbands, two silver wedding anniversaries, and a collection of memories from all over the world.    
-[Website](http://letucker6.wix.com/laurentuckerdance#!about/c2414)
+[Website](http://letucker6.wix.com/laurentuckerdance#!about/c2414)     
+
 ![Lauren Tucker](lauren_tucker.jpg)      
 **Giorgio de Carolis | *Blind Certainty***    
 *“…a close-mindedness that amounts to an imprisonment so total that the prisoner doesn’t even know he is locked up.”*    
