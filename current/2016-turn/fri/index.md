@@ -22,10 +22,10 @@ Dates: Friday 22 + Saturday 23 April 2016, 7.30pm
 *<a href="http://www.contactmcr.com/ticketoffers" target="_blank">Group offer</a>: buy 10 (full or concession) tickets + get your 11th free.*        
 Box Office Tel: 0161 274 0600                
                   
-### Artists (subject to change)      
+### Artists (subject to change)     
 Jo Ashbridge | Tom Bowes Dance | Giorgio de Carolis | Bridget Fiske + Co. | Gayathri Ganapathy | Lizzie J Klotz | Holly Rush | Stream Project | Lauren Tucker        
               
-#### Access Information         
+#### Access Information      
 Turn 2016 takes place in a number of different spaces and formats around Contact's building — some seated, some standing, some limited capacity, some participatory. With intervals, each evening will last between 2 to 3 hours.<br>Age advisory: 14+ (parental/guardian discretion). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.            
        
 #### Credits         
@@ -39,6 +39,7 @@ Brink Dance Company | Ina Colizza + Antonello Apicella | Ekpei, McKie + Withycom
 **Stream Project | *A Searching Mind...***    
 The work explores the internal working of the body, with a view to make the internal external. Struggle and frustration leading to calmness, revealed through the moving body. The body is seen as the site for expression and perception.    
  [streamproject.wordpress.com](https://streamproject.wordpress.com/)    
+ ![Stream Project](stream.jpg)    
  **Stream Project | *Wired 2***   
 An interactive installation that allows the viewer's heart rate to dictate what they see on the screen in front of them.  Shot on a bridge in the beautiful Peak District in Derbyshire, Wired:2 takes advantage of new technology where the viewer can construct their experience by altering their heart rate and ultimately view a dance film that is both empowering and intimate.    
  [streamproject.wordpress.com](https://streamproject.wordpress.com/)    
@@ -46,10 +47,12 @@ An interactive installation that allows the viewer's heart rate to dictate what 
 [joashbridgedance.wordpress.com](https:/joashbridgedance.wordpress.com)    
 **Gayathri Ganapathy |*Mirror N You're On!***
 Body. Mind. Synergy.    
+![Gayathri Ganapathy](gganapathy.jpg)      
     	**Bridget Fiske + Co. | *Inner Terra***    	
 Terra: earth, land (latin).    
 A new dance duet for public spaces, *Inner Terra* documents, embodies and reflects upon conversations with people affected by crisis, migration and being at the fringes.  A documentary inscribed through the body, Inner Terra explores freedom, restriction and chaos.      A work-in-progress performed by Bridget Fiske with Joseph Lau.    
 [www.bridgetfiske.com](http://www.bridgetfiske.com)     
+![Bridget Fiske](fiskebylau3.jpg)     
 **Holly Rush | *Yes Sir Act**      
 An exploration of movement with literature, creating a surreal perspective into parenthood, adulthood and childhood. this piece morphs movement, memories and metaphors to explore the *Yes Sir Act* that creates the absurd look into obeying and disobedience.     
 [Video](https://www.youtube.com/channel/UC3OVEE66Ebd22OmwVTCsl0A )      
@@ -57,13 +60,16 @@ An exploration of movement with literature, creating a surreal perspective into 
 A dance-theatre exploration of the relationship between man and woman. Developed through an investigation into human communication, the work draws comparisons to animal courtship rituals, specifically exploring the behaviour of birds. Commenting on the social formalities of human interaction, *To Suit* explores the use of body, voice and sound as a means of conversation.    
 Lizzie J Klotz is a Newcastle based dance artist, working with companies such as Rosie Kay Dance Company, State of Grace and Not So Silent: Dance Theatre. Lizzie’s choreography is marked by an interest in human behaviour, exploring actions, reactions and interactions of the everyday to create sensitive, humorous and thought-provoking work.    
 [www.lizziejklotz.co.uk](http://www.lizziejklotz.co.uk)    
-**Lauren Tucker | *This is what we left behind***    
+![Lizzie Klotz](Lizzie-Klotz.jpg)    
+   **Lauren Tucker | *This is what we left behind***    
 An autobiographical solo work in progress that responds to film footage of Lauren's great grandmother in 1964.    
 Starting with the question:  'What can we learn from the woman in our past?' Lauren has explored her family heritage and drawn upon significant moments of her great grandmother's life to create a physical and theatrical response. This is an exploration of an ordinary woman from Liverpool, who had two daughters and a son, two husbands, two silver wedding anniversaries, and a collection of memories from all over the world.    
 [Website](http://letucker6.wix.com/laurentuckerdance#!about/c2414)
+![Lauren Tucker](lauren_tucker.jpg)      
 **Giorgio de Carolis | *Blind Certainty***    
 *“…a close-mindedness that amounts to an imprisonment so total that the prisoner doesn’t even know he is locked up.”*    
 [giorgiodecarolis.com](http://giorgiodecarolis.com/)    
-**Tom Bowes Dance | *The Two-Character Dance***    
+![Giorgio de Carolis](Giorgio.jpg)    
+     **Tom Bowes Dance | *The Two-Character Dance***    
 You may be able to see us in the blackout. We're almost ready to begin. Now, how to start..?     [www.tombowesdance.com](http://www.tombowesdance.com)    
 
