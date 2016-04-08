@@ -37,7 +37,7 @@ Inspired by the idea of ‘mental time travel’ or mind wandering, the piece is
 A work in development, Turn Prize 2014.    
 [joashbridgedance.wordpress.com](https:/joashbridgedance.wordpress.com)    
 
-**Gayathri Ganapathy |*Mirror N You're On!***                     
+**Gayathri Ganapathy | *Mirror N You're On!***                     
 Body. Mind. Synergy.    
 ![Gayathri Ganapathy](gganapathy.jpg)      
     	
