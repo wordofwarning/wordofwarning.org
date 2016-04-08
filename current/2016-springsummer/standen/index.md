@@ -24,19 +24,19 @@ An immersive choral sound bath…
 'Song erupts around you… startling, moving and genuinely immersive.'<br><a href="http://www.theguardian.com/stage/2014/jul/20/latitude-festival-theatre-review" target="_blank">
 ★★★★ The Guardian</a>
         
-*Booking essential as each performance has a limited capacity.*         
+*Booking essential as each performance has a limited capacity; Thursday + Friday sold-out.*         
+        
+Read Sarah Walters article on *HUG* in Manchester + Preston in the <a href="http://www.manchestereveningnews.co.uk/whats-on/arts-culture-news/hug-whitworth-thursday-lates-standen-11155335" target="_blank">Manchester Evening News</a>.             
         
 #### Manchester Venue + Booking Details (the Whitworth)        
-***Please note** — due to unprecedented initial demand + limited capacities, HUG at the Whitworth sold out in advance. We will release extra capacity when we can, <a href="http://www.wegottickets.com/wordofwarning" target="_blank">please check our online ticket portal for latest availability</a>.*         
-***UPDATE Tue 5 April** — if you have booked and for any reason aren't going to be able to use your ticket(s) please could you let us know via <mailto:rsvp@habarts.org> or 07581 299 439. Any remaining tickets or returns will be available in person at the Whitworth from 5pm on 7 April.*            
-Manchester Date: Thursday 7 April 2016, <a href="http://www.wegottickets.com/event/353697" target="_blank">6pm</a> + <a href="http://www.wegottickets.com/event/353698" target="_blank">6.45pm</a> + <a href="http://www.wegottickets.com/event/353699" target="_blank">7.30pm</a> + <a href="http://www.wegottickets.com/event/353700" target="_blank">8.15pm</a>        
+(Manchester Date: Thursday 7 April 2016, <a href="http://www.wegottickets.com/event/353697" target="_blank">6pm</a> + <a href="http://www.wegottickets.com/event/353698" target="_blank">6.45pm</a> + <a href="http://www.wegottickets.com/event/353699" target="_blank">7.30pm</a> + <a href="http://www.wegottickets.com/event/353700" target="_blank">8.15pm</a>: all sold-out)        
 Manchester Venue: <a href="http://www.whitworth.manchester.ac.uk/visit/gettinghere" target="_blank">the Whitworth (Grand Hall)</a>, The University of Manchester, Oxford Road, Manchester, M15 6ER             
 Manchester Tickets: <a href="http://www.wegottickets.com/wordofwarning" target="_blank">free to book online</a>, donations are welcome on the day.           
 Mcr Box Office Tel: 07581 299 439 (leave a message + we'll get back to you)         
          
 #### Preston Venue + Booking Details (Harris Museum)          
-Preston Day One: Friday 8 April 2016, 6pm + 7pm               
-Preston Day Two: Saturday 9 April 2016, 2pm + 3pm + 4pm + 5pm    
+(Preston Day One: Friday 8 April 2016, 6pm + 7pm: both sold-out)               
+Preston Day Two: Saturday 9 April 2016, 1pm + 2pm + 3pm + 4pm + 5pm    
 Preston Venue: <a href="http://www.harrismuseum.org.uk/your-visit/23-getting-here" target="_blank">Harris Museum & Art Gallery</a>, Market Square, Preston, PR1 2PP             
 Preston Tickets: <a href="http://www.eventbrite.co.uk/o/harris-museum-amp-art-gallery-4265632867" target="_blank">free to book online</a>.        
 Preston Box Office Tel: 01772 905 414 / 07867 306 062       
