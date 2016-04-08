@@ -41,13 +41,13 @@ A work in development, Turn Prize 2014.
 Body. Mind. Synergy.    
 ![Gayathri Ganapathy](gganapathy.jpg)      
     	
-**Bridget Fiske + Co. | *Inner Terra***                	
-Terra: earth, land (latin).    
+**Bridget Fiske + Co. | *Inner Terra***    
+Terra: earth, land (latin).         
 A new dance duet for public spaces,*Inner Terra* documents, embodies and reflects upon conversations with people affected by crisis, migration and being at the fringes. A documentary inscribed through the body, Inner Terra explores freedom, restriction and chaos.     A work-in-progress performed by Bridget Fiske with Joseph Lau.      
 [www.bridgetfiske.com](http://www.bridgetfiske.com)     
 ![Bridget Fiske](fiskebylau3.jpg)     
 
-**Holly Rush | *Yes Sir Act**      
+**Holly Rush | *Yes Sir Act***      
 An exploration of movement with literature, creating a surreal perspective into parenthood, adulthood and childhood. This piece morphs movement, memories and metaphors to explore the *Yes Sir Act* that creates the absurd look into obeying and disobedience.     
 [Video](https://www.youtube.com/channel/UC3OVEE66Ebd22OmwVTCsl0A )      
 
@@ -70,7 +70,7 @@ Starting with the question:  *'What can we learn from the woman in our past?'* L
 ![Giorgio de Carolis](Giorgio.jpg)    
      
 **Tom Bowes Dance | *The Two-Character Dance***    
-You may be able to see us in the blackout. We're almost ready to begin. Now, how to start..?     [www.tombowesdance.com](http://www.tombowesdance.com)      
+You may be able to see us in the blackout. We're almost ready to begin. Now, how to start..?     [www.tombowesdance.com](http://www.tombowesdance.com)      
               
 #### Access Information      
 Turn 2016 takes place in a number of different spaces and formats around Contact's building — some seated, some standing, some limited capacity, some participatory. With intervals, each evening will last between 2 to 3 hours.<br>Age advisory: 14+ (parental/guardian discretion). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.            
