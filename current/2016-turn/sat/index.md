@@ -32,7 +32,7 @@ Symbiosis: where the performers become interconnected through motion sensors and
 ![Ina Colizza](Ina-Colizza.jpg)                
 	
 **Adam John Roberts | *Awaiting Acknowledgement***     
-*“At first, no one knew I was struggling. I wanted to keep it a secret… Fear took over and I started to cry. I thought, ‘I’m not confident to put this on. I can’t do it’… There is so much stigma around mental illness, and that’s the reason you have to talk about it… But once you start to slide into that black hole you can’t ever imagine being well again.”*  Beverly Callard (Coronation Street’s Liz McDonald)     
+*“At first, no one knew I was struggling. I wanted to keep it a secret… Fear took over and I started to cry. I thought, ‘I’m not confident to put this on. I can’t do it’… There is so much stigma around mental illness, and that’s the reason you have to talk about it… But once you start to slide into that black hole you can’t ever imagine being well again.”*  Beverly Callard (Coronation St Liz McDonald)     
 This expressive solo dance work is inspired by my personal experience of depression, stress and anxiety. It is a structured improvisation focusing on broken interpersonal relationships symbolised by the interaction between me, a rocking horse and a teddy bear who observe and switch roles within an empty children's playroom.      
 [Website](http://adamrob1.wix.com/adamjohnroberts)     
 ![Adam John Roberts](Adam.jpg)         
