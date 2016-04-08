@@ -22,20 +22,7 @@ Dates: Friday 22 + Saturday 23 April 2016, 7.30pm
 *<a href="http://www.contactmcr.com/ticketoffers" target="_blank">Group offer</a>: buy 10 (full or concession) tickets + get your 11th free.*        
 Box Office Tel: 0161 274 0600                
                   
-### Artists (subject to change)     
-Jo Ashbridge | Tom Bowes Dance | Giorgio de Carolis | Bridget Fiske + Co. | Gayathri Ganapathy | Lizzie J Klotz | Holly Rush | Stream Project | Lauren Tucker        
-              
-#### Access Information      
-Turn 2016 takes place in a number of different spaces and formats around Contact's building — some seated, some standing, some limited capacity, some participatory. With intervals, each evening will last between 2 to 3 hours.<br>Age advisory: 14+ (parental/guardian discretion). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.            
-       
-#### Credits         
-[Turn](/hab/turn) 2016 is co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://www.digm.org" target="_blank">Dance Manchester</a>; supported using public funding by Arts Council England + funded by Manchester City Council. | Image: Jo Ashbridge, Turn Prize 2014 by Jerome Whittingham          
-<a href="http://turnmcr.org" target="_blank">turnmcr.org</a> | <a href="http://twitter.com/hashtag/TurnMcr" target="_blank">#TurnMcr</a>          
-         
-#### Appearing on the [SECOND NIGHT: Sat 23 Apr](/current/2016-turn/sat)          
-Brink Dance Company | Ina Colizza + Antonello Apicella | Ekpei, McKie + Withycombe-Wharton | Louise Gibbons | Gracefool Collective | Manoli Moriaty + Frances Kay | Now | Shelley Owen | Joseph Reay-Reid | Adam John Roberts | Sap Dance
-
-####Order of Appearance (subject to change)           
+#### Order of Appearance (subject to change)           
 **Stream Project | *A Searching Mind...***    
 The work explores the internal working of the body, with a view to make the internal external. Struggle and frustration leading to calmness, revealed through the moving body. The body is seen as the site for expression and perception.    
  [streamproject.wordpress.com](https://streamproject.wordpress.com/)    
@@ -72,5 +59,17 @@ Starting with the question:  'What can we learn from the woman in our past?' Lau
 [giorgiodecarolis.com](http://giorgiodecarolis.com/)    
 ![Giorgio de Carolis](Giorgio.jpg)    
      **Tom Bowes Dance | *The Two-Character Dance***    
-You may be able to see us in the blackout. We're almost ready to begin. Now, how to start..?     [www.tombowesdance.com](http://www.tombowesdance.com)    
+You may be able to see us in the blackout. We're almost ready to begin. Now, how to start..?     [www.tombowesdance.com](http://www.tombowesdance.com)      
+              
+#### Access Information      
+Turn 2016 takes place in a number of different spaces and formats around Contact's building — some seated, some standing, some limited capacity, some participatory. With intervals, each evening will last between 2 to 3 hours.<br>Age advisory: 14+ (parental/guardian discretion). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.            
+       
+#### Credits         
+[Turn](/hab/turn) 2016 is co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://www.digm.org" target="_blank">Dance Manchester</a>; supported using public funding by Arts Council England + funded by Manchester City Council. | Image: Jo Ashbridge, Turn Prize 2014 by Jerome Whittingham          
+<a href="http://turnmcr.org" target="_blank">turnmcr.org</a> | <a href="http://twitter.com/hashtag/TurnMcr" target="_blank">#TurnMcr</a>          
+         
+#### Appearing on the [SECOND NIGHT: Sat 23 Apr](/current/2016-turn/sat)          
+Brink Dance Company | Ina Colizza + Antonello Apicella | Ekpei, McKie + Withycombe-Wharton | Louise Gibbons | Gracefool Collective | Manoli Moriaty + Frances Kay | Now | Shelley Owen | Joseph Reay-Reid | Adam John Roberts | Sap Dance
+
+
 
