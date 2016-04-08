@@ -27,12 +27,11 @@ Box Office Tel: 0161 274 0600
 Symbiosis: where the performers become interconnected through motion sensors and tactile devices...      
  [franceskayperformanceart.wordpress.com](https://franceskayperformanceart.wordpress.com/symbiosis/)      
 
-
 **Ina Colizza + Antonello Apicella | *Bruise***     
 *"The continuous possibility of choice in everyone's life is nothing more than reality ...a man and a woman showing to one another how feelings come up while bruises keep raising"*    
 ![Ina Colizza](Ina-Colizza.jpg)                
 	
-**Adam John Roberts | *Awaiting Acknowledgement	***     
+**Adam John Roberts | *Awaiting Acknowledgement***     
 *“At first, no one knew I was struggling. I wanted to keep it a secret… Fear took over and I started to cry. I thought, ‘I’m not confident to put this on. I can’t do it’… There is so much stigma around mental illness, and that’s the reason you have to talk about it… But once you start to slide into that black hole you can’t ever imagine being well again.”*  Beverly Callard (Coronation Street’s Liz McDonald)     
 This expressive solo dance work is inspired by my personal experience of depression, stress and anxiety. It is a structured improvisation focusing on broken interpersonal relationships symbolised by the interaction between me, a rocking horse and a teddy bear who observe and switch roles within an empty children's playroom.      
 [Website](http://adamrob1.wix.com/adamjohnroberts)     
@@ -55,11 +54,14 @@ Kema T. Ekpei presents Anne-Marie McKie and Bridget Withycombe-Wharton.
 [www.kema.org.uk](http://www.kema.org.uk)          
 
 **Now | *Piece of Cake***    
-*"We'll be full of jollity and real good cheer, Happiness is what we want to make,     
-Wipe your little tootsies on the front door mat and cut yourself a little piece of cake.*    
+*"We'll be full of jollity and real good cheer,     
+Happiness is what we want to make,        
+Wipe your little tootsies on the front door mat     
+And cut yourself a little piece of cake.*    
 
 **Louise Gibbons | *Miss Baines***     
-Miss Baines is a physical response to research into Lancashire's past, making you think twice about skipping that weekly hoover. *'Get it cleaned up, or you're out!'*     
+Miss Baines is a physical response to research into Lancashire's past, making you think twice about skipping that weekly hoover.     
+*'Get it cleaned up, or you're out!'*     
 ![Louise Gibbons](Louise-Gibbons.jpg) 
 
 **Brink Dance Company | *I carve or doodle and i Inspire***        
