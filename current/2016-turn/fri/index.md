@@ -34,3 +34,36 @@ Turn 2016 takes place in a number of different spaces and formats around Contact
          
 #### Appearing on the [SECOND NIGHT: Sat 23 Apr](/current/2016-turn/sat)          
 Brink Dance Company | Ina Colizza + Antonello Apicella | Ekpei, McKie + Withycombe-Wharton | Louise Gibbons | Gracefool Collective | Manoli Moriaty + Frances Kay | Now | Shelley Owen | Joseph Reay-Reid | Adam John Roberts | Sap Dance
+
+####Order of Appearance (subject to change)           
+**Stream Project | *A Searching Mind...***    
+The work explores the internal working of the body, with a view to make the internal external. Struggle and frustration leading to calmness, revealed through the moving body. The body is seen as the site for expression and perception.    
+ [streamproject.wordpress.com](https://streamproject.wordpress.com/)    
+ **Stream Project | *Wired 2***   
+An interactive installation that allows the viewer's heart rate to dictate what they see on the screen in front of them.  Shot on a bridge in the beautiful Peak District in Derbyshire, Wired:2 takes advantage of new technology where the viewer can construct their experience by altering their heart rate and ultimately view a dance film that is both empowering and intimate.    
+ [streamproject.wordpress.com](https://streamproject.wordpress.com/)    
+   **Jo Ashbridge | *Going Places***     Inspired by the idea of ‘mental time travel’ or mind wandering, the piece is a whimsical take on the activities of the mind when disconnected from the present moment, when it has ceased to engage with the here and now and has drifted off to past or future events, scenarios, regrets, plans or aspirations.     A work in development, Turn Prize 2014.    
+[joashbridgedance.wordpress.com](https:/joashbridgedance.wordpress.com)    
+**Gayathri Ganapathy |*Mirror N You're On!***
+Body. Mind. Synergy.    
+    	**Bridget Fiske + Co. | *Inner Terra***    	
+Terra: earth, land (latin).    
+A new dance duet for public spaces, *Inner Terra* documents, embodies and reflects upon conversations with people affected by crisis, migration and being at the fringes.  A documentary inscribed through the body, Inner Terra explores freedom, restriction and chaos.      A work-in-progress performed by Bridget Fiske with Joseph Lau.    
+[www.bridgetfiske.com](http://www.bridgetfiske.com)     
+**Holly Rush | *Yes Sir Act**      
+An exploration of movement with literature, creating a surreal perspective into parenthood, adulthood and childhood. this piece morphs movement, memories and metaphors to explore the *Yes Sir Act* that creates the absurd look into obeying and disobedience.     
+[Video](https://www.youtube.com/channel/UC3OVEE66Ebd22OmwVTCsl0A )      
+**Lizzie J Klotz | *To Suit***    	
+A dance-theatre exploration of the relationship between man and woman. Developed through an investigation into human communication, the work draws comparisons to animal courtship rituals, specifically exploring the behaviour of birds. Commenting on the social formalities of human interaction, *To Suit* explores the use of body, voice and sound as a means of conversation.    
+Lizzie J Klotz is a Newcastle based dance artist, working with companies such as Rosie Kay Dance Company, State of Grace and Not So Silent: Dance Theatre. Lizzie’s choreography is marked by an interest in human behaviour, exploring actions, reactions and interactions of the everyday to create sensitive, humorous and thought-provoking work.    
+[www.lizziejklotz.co.uk](http://www.lizziejklotz.co.uk)    
+**Lauren Tucker | *This is what we left behind***    
+An autobiographical solo work in progress that responds to film footage of Lauren's great grandmother in 1964.    
+Starting with the question:  'What can we learn from the woman in our past?' Lauren has explored her family heritage and drawn upon significant moments of her great grandmother's life to create a physical and theatrical response. This is an exploration of an ordinary woman from Liverpool, who had two daughters and a son, two husbands, two silver wedding anniversaries, and a collection of memories from all over the world.    
+[Website](http://letucker6.wix.com/laurentuckerdance#!about/c2414)
+**Giorgio de Carolis | *Blind Certainty***    
+*“…a close-mindedness that amounts to an imprisonment so total that the prisoner doesn’t even know he is locked up.”*    
+[giorgiodecarolis.com](http://giorgiodecarolis.com/)    
+**Tom Bowes Dance | *The Two-Character Dance***    
+You may be able to see us in the blackout. We're almost ready to begin. Now, how to start..?     [www.tombowesdance.com](http://www.tombowesdance.com)    
+
