@@ -50,6 +50,7 @@ A new dance duet for public spaces, *Inner Terra* documents, embodies and reflec
 **Holly Rush | *Yes Sir Act***      
 An exploration of movement with literature, creating a surreal perspective into parenthood, adulthood and childhood. This piece morphs movement, memories and metaphors to explore the *Yes Sir Act* that creates the absurd look into obeying and disobedience.     
 [Video](https://www.youtube.com/channel/UC3OVEE66Ebd22OmwVTCsl0A )      
+![Holly Rush](Holly-Rush.jpg)    
 
 **Lizzie J Klotz | *To Suit***    
 A dance-theatre exploration of the relationship between man and woman. Developed through an investigation into human communication, the work draws comparisons to animal courtship rituals, specifically exploring the behaviour of birds. Commenting on the social formalities of human interaction, *To Suit* explores the use of body, voice and sound as a means of conversation.    
