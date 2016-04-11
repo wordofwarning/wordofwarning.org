@@ -25,8 +25,8 @@ Fluidly lyrical, effervescently acrobatic or eccentrically innovative, let Turn 
                   
 ### Artists        
 Our eighth annual platform for dancers + dance-makers sees twenty short pieces of new work over two evenings, *participating artists subject to change*…         
-**FIRST NIGHT: Fri 22 Apr, 7.30pm** — Jo Ashbridge | Tom Bowes Dance | Giorgio de Carolis | Bridget Fiske + Co. | Gayathri Ganapathy | Lizzie J Klotz | Holly Rush | Stream Project | Lauren Tucker          
-**SECOND NIGHT: Sat 23 Apr, 7.30pm** — Brink Dance Company | Ina Colizza + Antonello Apicella | Ekpei, McKie + Withycombe-Wharton | Louise Gibbons | Gracefool Collective | Manoli Moriaty + Frances Kay | Now | Shelley Owen | Joseph Reay-Reid | Adam John Roberts | Sap Dance        
+**[FIRST NIGHT: Fri 22 Apr, 7.30pm](/current/2016-turn/fri)** — Jo Ashbridge | Tom Bowes Dance | Giorgio de Carolis | Bridget Fiske + Co. | Gayathri Ganapathy | Lizzie J Klotz | Holly Rush | Stream Project | Lauren Tucker          
+**[SECOND NIGHT: Sat 23 Apr, 7.30pm](/current/2016-turn/sat)** — Brink Dance Company | Ina Colizza + Antonello Apicella | Ekpei, McKie + Withycombe-Wharton | Louise Gibbons | Gracefool Collective | Manoli Moriaty + Frances Kay | Now | Shelley Owen | Joseph Reay-Reid | Adam John Roberts | Sap Dance        
           
 To get a feel for it, see Turn 2015's [programme](/archive/2015-turn) + [image gallery](/galleries/2015-turn).         
          
@@ -44,7 +44,7 @@ Box Office Tel: 0161 274 0600
 >• *Great to see creative innovative new local work. Really good vibe.*<br>• *Weird and wonderful — as always.*<br>• *Fantastic platform for artists.*<br>[Audience Feedback from 2013](/archive/2013-turn)             
          
 #### Access Information                 
-Turn 2016 takes place in a number of different spaces and formats around Contact's building — some seated, some standing, some limited capacity, some participatory. With intervals, each evening will last between 2 to 3 hours.<br>Age advisory: 14+ (parental/guardian discretion). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.               
+Turn 2016 takes place in a number of different spaces and formats around Contact's building — some seated, some standing, some limited capacity, some participatory. With intervals, each evening will last about 3 hours.<br>Age advisory: 14+ (parental/guardian discretion). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.               
                           
 #### Credits         
 [Turn](/hab/turn) 2016 is co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://www.digm.org" target="_blank">Dance Manchester</a>; supported using public funding by Arts Council England + funded by Manchester City Council. | Image: Jo Ashbridge, Turn Prize 2014 by Jerome Whittingham          
