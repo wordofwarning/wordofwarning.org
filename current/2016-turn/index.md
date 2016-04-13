@@ -24,7 +24,7 @@ Celebrating five years of this whirlwind of dance at Contact, Turn's two day spi
 Fluidly lyrical, effervescently acrobatic or eccentrically innovative, let Turn transport you into a frenzy of dance.        
                   
 ### Artists        
-Our eighth annual platform for dancers + dance-makers sees twenty short pieces of new work over two evenings, *participating artists subject to change*…         
+Our eighth annual platform for dancers + dance-makers sees twenty-one short pieces of new work over two evenings, *participating artists subject to change*…         
 **[FIRST NIGHT: Fri 22 Apr, 7.30pm](/current/2016-turn/fri)** — Jo Ashbridge | Tom Bowes Dance | Giorgio de Carolis | Bridget Fiske + Co. | Gayathri Ganapathy | Lizzie J Klotz | Holly Rush | Stream Project | Lauren Tucker          
 **[SECOND NIGHT: Sat 23 Apr, 7.30pm](/current/2016-turn/sat)** — Brink Dance Company | Ina Colizza + Antonello Apicella | Ekpei, McKie + Withycombe-Wharton | Louise Gibbons | Gracefool Collective | Manoli Moriaty + Frances Kay | Now | Shelley Owen | Joseph Reay-Reid | Adam John Roberts | Sap Dance        
           
