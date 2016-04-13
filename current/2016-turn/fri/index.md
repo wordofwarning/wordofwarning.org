@@ -70,9 +70,10 @@ Starting with the question: *'What can we learn from the woman in our past?'* La
 [giorgiodecarolis.com](http://giorgiodecarolis.com)       
 ![Giorgio de Carolis](Giorgio.jpg)       
           
-**Tom Bowes Dance | *The Two-Character Dance***    
-You may be able to see us in the blackout. We're almost ready to begin. Now, how to start…?        
+**Tom Bowes Dance | *Long and Short of It***    
+*You may be able to see us in the blackout. We're ready to begin.*      
 [www.tombowesdance.com](http://www.tombowesdance.com)      
+![Tom Bowes Dance](Tom-Bowes.jpg)       
               
 #### Access Information      
 Turn 2016 takes place in a number of different spaces and formats around Contact's building — some seated, some standing, some limited capacity, some participatory. With intervals, each evening will last about 3 hours.<br>Age advisory: 14+ (parental/guardian discretion). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.            
