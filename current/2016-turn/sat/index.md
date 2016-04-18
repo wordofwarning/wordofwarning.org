@@ -46,7 +46,8 @@ Sap Dance make short theatre pieces and full-length site-specific works that com
 **Joseph Reay-Reid | *Moment to Moment***          
 A couple, A spotlight, A clash of memories.         
 An autobiographical piece from memory and experience.          
-It is about human interaction and how memory informs how we are with new people that we meet. It analyses how we sometimes find it difficult to connect with other people. Even people we have known all our lives.         
+It is about human interaction and how memory informs how we are with new people that we meet.         
+It analyses how we sometimes find it difficult to connect with other people. Even people we have known all our lives.         
  	   
 **Ekpei, McKie + Withycombe-Wharton | *Loquens In Latrina***     
 Did you ever think how much time you actually spent in the toilets when you were clubbing in the 80s?        
@@ -60,7 +61,7 @@ Wipe your little tootsies on the front door mat
 And cut yourself a little piece of cake.*    
 
 **Louise Gibbons | *Miss Baines***     
-Miss Baines is a physical response to research into Lancashire's past, making you think twice about skipping that weekly hoover.     
+*Miss Baines* is a physical response to research into Lancashire's past, making you think twice about skipping that weekly hoover.     
 *'Get it cleaned up, or you're out!'*        
 ![Louise Gibbons](Louise-Gibbons.jpg) 
 
