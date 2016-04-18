@@ -29,7 +29,7 @@ The work explores the internal working of the body, with a view to make the inte
 ![Stream Project](stream.jpg)    
  
 **Stream Project | *Wired 2***   
-An interactive installation that allows the viewer's heart rate to dictate what they see on the screen in front of them. Shot on a bridge in the beautiful Peak District in Derbyshire, *Wired:2* takes advantage of new technology where the viewer can construct their experience by altering their heart rate and ultimately view a dance film that is both empowering and intimate.    
+An interactive installation that allows the viewer's heart rate to dictate what they see on the screen in front of them. Shot on a bridge in the beautiful Peak District in Derbyshire, *Wired 2* takes advantage of new technology where the viewer can construct their experience by altering their heart rate and ultimately view a dance film that is both empowering and intimate.    
 [streamproject.wordpress.com](http://streamproject.wordpress.com)    
    
 **Jo Ashbridge | *Going Places***                      
@@ -60,7 +60,7 @@ Lizzie J Klotz is a Newcastle based dance artist, working with companies such as
 ![Lizzie Klotz](Lizzie-Klotz.jpg)      
        
 **Lauren Tucker | *This is what we left behind***    
-An autobiographical solo work in progress that responds to film footage of Lauren's great grandmother in 1964.       
+An extract of an autobiographical solo work in progress that responds to film footage of Lauren's great grandmother in 1964.       
 Starting with the question: *'What can we learn from the woman in our past?'* Lauren has explored her family heritage and drawn upon significant moments of her great grandmother's life to create a physical and theatrical response. This is an exploration of an ordinary woman from Liverpool, who had two daughters and a son, two husbands, two silver wedding anniversaries, and a collection of memories from all over the world.        
 [Website](http://letucker6.wix.com/laurentuckerdance#!about/c2414)       
 ![Lauren Tucker](lauren_tucker.jpg)      
