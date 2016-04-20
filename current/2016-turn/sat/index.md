@@ -40,17 +40,15 @@ This expressive solo dance work is inspired by my personal experience of depress
 **Sap Dance | *The Dusk Wood***     
 A solitary dancer traces the trees of a wood as it descends from daytime, through dusk, into night.           
 The work has emerged from an intensive process of recording the sound and motion of Grubbins Wood, an ancient wood in Arnside, Cumbria, managed by Cumbria Wildlife Trust.         
-Sap Dance make short theatre pieces and full-length site-specific works that combine dance with at least one other art form, and that distil and disclose aspects of the natural world. Previous works include *Lune* (2005), *Saturated Moment* (2006-7), *Still Life* (2008, rev. 2009), and *Jack Scout* (2010).       
+In each production, Sap Dance combines dance with at least one other art form, and seeks to distil and disclose aspects of the natural world. This has included short theatre pieces such as *Lune* (2005) and *Saturated Moment* (2006-7); full-length rural site-specific works in collaboration with Louise Ann Wilson Company, such as *Still Life* (2008, rev. 2009), and *Jack Scout* (2010); and the films *Jack Scout Redux* (2013) and *Still Life Redux* (2014).        
 [Website](http://www.lancaster.ac.uk/fass/projects/jackscout)       
            
 **Joseph Reay-Reid | *Moment to Moment***          
-A couple, A spotlight, A clash of memories.         
-An autobiographical piece from memory and experience.          
-It is about human interaction and how memory informs how we are with new people that we meet.         
-It analyses how we sometimes find it difficult to connect with other people. Even people we have known all our lives.         
- 	   
+A couple, a spotlight, a spinning top of words and limbs.         
+*Moment to Moment* is a dance theatre insight into human relations and how sometimes we find it difficult to connect with even the closest people in our lives.          
+         
 **Ekpei, McKie + Withycombe-Wharton | *Loquens In Latrina***     
-Did you ever think how much time you actually spent in the toilets when you were clubbing in the 80s?        
+*Did you ever think how much time you actually spent in the toilets when you were clubbing in the 80s?*            
 Kema T. Ekpei presents Anne-Marie McKie + Bridget Withycombe-Wharton.        
 [www.kema.org.uk](http://www.kema.org.uk)          
            
