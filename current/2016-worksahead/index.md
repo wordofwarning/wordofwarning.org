@@ -20,9 +20,10 @@ show_size: 3
 *Presented by* Word of Warning + Contact
          
 ### Friday 3 + Saturday 4 June 2016        
-Our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content. [Autumn 2015](/archive/2015-autumnwinter) saw Word of Warning show over 40 emerging performances in spaces ranging from a building site to a theatre… From this enormous variety of work we have invited four artists at different stages in their careers to further develop their shows for Works Ahead 2016. They're all at the very beginning of their explorations…        
+**Different stages, different scales. Still Works Ahead…**          
+Two very different double bills make up our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content. [Autumn 2015](/archive/2015-autumnwinter) saw Word of Warning show over 40 emerging performances in spaces ranging from a building site to a theatre… From this enormous variety of work we have invited four artists at different stages in their careers to further develop their shows for Works Ahead 2016. They're all at the very beginning of their explorations…        
         
-**AFTERNOONS: Works Ahead Compact Edition, times + prices tbc**        
+**AFTERNOONS: Works Ahead Compact Edition, 5pm + 6pm. £4/2**        
 Hidden stories from Terri Donovan + Afreena Islam.        
          
 **EVENINGS: Works Ahead, from 7.30pm. £6/3**          
@@ -45,10 +46,11 @@ Unpredictable double bill from Top Joe + Lucy McCormick.
 Top Joe is a timid character who wears a hi-vis jacket and only comes out at night. He occasionally braves leaving the house in order to meet people and give his thoughts on life, vouchers and pistachios.<br>For Works Ahead he is developing a piece that explores the nature of Ross Kemp, Dyson vacuum cleaners, identity, comedy, and childhood.        
 <a href="http://twitter.com/toptopjoe" target="_blank">@toptopjoe</a> | <a href="http://vimeo.com/topjoe" target="_blank">vimeo.com/topjoe</a>        
         
-#### Venue + Booking Details, for Terri + Afreena's hidden stories        
-Dates: Friday 3 + Saturday 4 June 2016, *times tbc*        
+#### Venue + Booking Details, for Terri + Afreena's double bill        
+Dates: Friday 3 + Saturday 4 June 2016, 5pm + 6pm (*limited capacity*)        
 <a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact</a>, Oxford Road, Manchester, M15 6JA         
-Tickets: *prices tbc*               
+Tickets: £4/2 (*booking link coming soon*)               
+Box Office Tel: 0161 274 0600        
        
 #### Venue + Booking Details, for Top Joe + Lucy's double bill        
 Dates: Friday 3 + Saturday 4 June 2016, from 7.30pm        
@@ -63,7 +65,7 @@ Box Office Tel: 0161 274 0600
 [Audience feedback from 2015](/archive/2015-worksahead)
         
 #### Access Information        
-Age advisory: TBC. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
+Age advisory: AFTERNOONS 14+ tbc | EVENINGS strictly 18+. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
         
 #### Credits         
 [Works Ahead](/hab/worksahead) 2016 is co-commissioned by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>; supported using public funding by Arts Council England + funded by Manchester City Council.        
