@@ -37,7 +37,13 @@ Dates: Friday 22 + Saturday 23 April 2016, 7.30pm
 <a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact</a>, Oxford Road, Manchester, M15 6JA         
 <a href="http://contactmcr.com/whats-on/47093-turn-2016/booking" target="_blank">Tickets: £9/5 per night</a> (two night pass £11/6)        
 *<a href="http://www.contactmcr.com/ticketoffers" target="_blank">Group offer</a>: buy 10 (full or concession) tickets + get your 11th free.*        
-Box Office Tel: 0161 274 0600                
+Box Office Tel: 0161 274 0600        
+
+####Schedule (*timings are approximate and subject to change*)           
+With 21 pieces of work across two evenings, Turn 2016 is a complicated event to run.  Following are the schedules of what we *plan* to happen, but please be aware that things may change on the night!    
+To download, right click and save image.     
+![Turn 2016 Fri](Turn-Fri-sched-latest.jpg)      
+![Turn 2016 Sat](Turn-Sat-sched-latest.jpg)     
           
 #### What people have said about Turn
 >★★★★ *One of the key events in Manchester's dance calendar.*<br><a href="http://www.thepublicreviews.com/turn-2013-contact-manchester" target="_blank">The Public Reviews</a>             
