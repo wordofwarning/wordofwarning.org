@@ -39,7 +39,7 @@ Dates: Friday 22 + Saturday 23 April 2016, 7.30pm
 *<a href="http://www.contactmcr.com/ticketoffers" target="_blank">Group offer</a>: buy 10 (full or concession) tickets + get your 11th free.*        
 Box Office Tel: 0161 274 0600        
 
-####Schedule (*timings are approximate and subject to change*)           
+#### Schedule (*timings are approximate and subject to change*)           
 With 21 pieces of work across two evenings, Turn 2016 is a complicated event to run.  Following are the schedules of what we *plan* to happen, but please be aware that things may change on the night!    
 To download, right click and save image.     
 ![Turn 2016 Fri](Turn-Fri-sched-latest.jpg)      
