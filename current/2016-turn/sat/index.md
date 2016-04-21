@@ -22,11 +22,13 @@ Dates: Friday 22 + Saturday 23 April 2016, 7.30pm
 *<a href="http://www.contactmcr.com/ticketoffers" target="_blank">Group offer</a>: buy 10 (full or concession) tickets + get your 11th free.*        
 Box Office Tel: 0161 274 0600                
 
-#### Order of Appearance (subject to change)           
+#### Order of Appearance (subject to change)  
+Ongoing from 6pm:                 
 **Manoli Moriaty + Frances Kay | *Symbiosis***      
 *Symbiosis*: where the performers become interconnected through motion sensors and tactile devices…         
 [franceskayperformanceart.wordpress.com](http://franceskayperformanceart.wordpress.com/symbiosis)      
-         
+
+From 7.30pm:            
 **Ina Colizza + Antonello Apicella | *Bruise***     
 *"The continuous possibility of choice in everyone's life is nothing more than reality… a man and a woman showing to one another how feelings come up while bruises keep raising."*       
 ![Ina Colizza](Ina-Colizza.jpg)           

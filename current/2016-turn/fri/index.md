@@ -22,7 +22,8 @@ Dates: Friday 22 + Saturday 23 April 2016, 7.30pm
 *<a href="http://www.contactmcr.com/ticketoffers" target="_blank">Group offer</a>: buy 10 (full or concession) tickets + get your 11th free.*        
 Box Office Tel: 0161 274 0600                
                   
-#### Order of Appearance (subject to change)           
+#### Order of Appearance (subject to change)     
+Ongoing from 6pm:    
 **Stream Project | *A Searching Mind…***    
 Shot on a bridge in the beautiful Peak District in Derbyshire, the film explores the internal working of the body, with a view to make the internal external. This work evolved from an investigation into dancing with sound produced by measuring brainwaves, heart rate and breath.    
 [streamproject.wordpress.com](http://streamproject.wordpress.com)    
@@ -31,7 +32,8 @@ Shot on a bridge in the beautiful Peak District in Derbyshire, the film explores
 **Stream Project | *Wired 2***   
 An interactive installation that allows the viewer's heart rate to dictate what they see on the screen in front of them. *Wired 2* takes advantage of new technology where the viewer can construct their experience by altering their heart rate and ultimately view a dance film that is both empowering and intimate.
 [streamproject.wordpress.com](http://streamproject.wordpress.com)    
-   
+
+From 7.30pm:    
 **Jo Ashbridge | *Going Places***                      
 Inspired by the idea of 'mental time travel' or mind wandering, the piece is a whimsical take on the activities of the mind when disconnected from the present moment, when it has ceased to engage with the here and now and has drifted off to past or future events, scenarios, regrets, plans or aspirations.     
 A work-in-development, supported by Dance Manchester, hÅb and Contact through Turn Prize 2014.    
