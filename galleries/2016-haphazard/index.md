@@ -9,7 +9,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: Haphazard 2016
-more_url: "../../current/2016-haphazard"
+more_url: "../../archive/2016-haphazard"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small>A free day out for the curious of all ages, click top left Haphazard for more.</small>", show: "<small>Images copyright &copy;2016 Word of Warning"}
@@ -26,8 +26,8 @@ gallery:
     -   {file: "MattGirling2.jpg", artist: "Matt Girling"}
     -   {file: "MarcusOrlandi.jpg", artist: "Marcus Orlandi"}
     -   {file: "MarcusOrlandi2.jpg", artist: "Marcus Orlandi"}
-    -   {file: "EilidhMcAskill1.jpg", artist: "Eilidh McAskill + Rosana Quade"}
-    -   {file: "EilidhMcAskill2.jpg", artist: "Eilidh McAskill + Rosana Quade"}
+    -   {file: "EilidhMcAskill1.jpg", artist: "Eilidh McAskill + Rosana Cade"}
+    -   {file: "EilidhMcAskill2.jpg", artist: "Eilidh McAskill + Rosana Cade"}
     -   {file: "KatyDye1.jpg", artist: "Katy Dye"}
     -   {file: "KatyDye2.jpg", artist: "Katy Dye"}
     -   {file: "LucyMcCormick.jpg", artist: "Lucy McCormick"}
