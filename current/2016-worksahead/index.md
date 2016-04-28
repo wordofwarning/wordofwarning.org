@@ -30,21 +30,21 @@ Hidden stories and half-remembered truths from Terri Donovan + Afreena Islam.
 From Dyson to the Passion — an unpredictable double bill from Top Joe + Lucy McCormick.        
         
 ### Artists        
-**Terri Donovan**        
+**Terri Donovan** (Compact Edition)        
 "*Finding Elsie* is about me, my Dad, my Gran… and dementia. This is my exploration of how relationships change and continue to change in my attempt to find a true reflection of my Elsie."        
 <a href="http://twitter.com/TerriTezmabob" target="_blank">@TerriTezmabob</a>        
         
-**Afreena Islam**        
+**Afreena Islam** (Compact Edition)       
 "I've only been alive for about 30% of my dad's life, so I've been trying to piece together what happened in the 70% I wasn't…"<br>A daughter telling secondhand stories to strangers, trying to navigate her dad's journey to help her figure out her own.         
 <a href="http://twitter.com/afreenaazaria" target="_blank">@afreenaazaria</a>         
         
-**Lucy McCormick**         
-"I have cast myself as God in a large scale biblical re-enactment, performed via pop ballads and performance art with the help of two backing dancers. I was partly inspired to create this work by an ongoing interest in the Quaker belief in 'God' as one's own moral conscience — that of 'God in everyone'.<br>The piece is also an exercise in casting myself as the Ultimate Man, allowing for my interests and frustrations in gender politics and feminist discourse."           
-<a href="http://twitter.com/lucy_muck" target="_blank">@lucy_muck</a>        
-        
-**Top Joe**             
+**Top Joe** (Evening Edition)             
 Top Joe is a timid character who wears a hi-vis jacket and only comes out at night. He occasionally braves leaving the house in order to meet people and give his thoughts on life, vouchers and pistachios.<br>For Works Ahead he is developing a piece that explores the nature of Ross Kemp, Dyson vacuum cleaners, identity, comedy, and childhood.        
 <a href="http://twitter.com/toptopjoe" target="_blank">@toptopjoe</a> | <a href="http://vimeo.com/topjoe" target="_blank">vimeo.com/topjoe</a>        
+         
+**Lucy McCormick** (Evening Edition)         
+"I have cast myself as God in a large scale biblical re-enactment, performed via pop ballads and performance art with the help of two backing dancers. I was partly inspired to create this work by an ongoing interest in the Quaker belief in 'God' as one's own moral conscience — that of 'God in everyone'.<br>The piece is also an exercise in casting myself as the Ultimate Man, allowing for my interests and frustrations in gender politics and feminist discourse."           
+<a href="http://twitter.com/lucy_muck" target="_blank">@lucy_muck</a>        
         
 #### Venue + Booking Details for Compact Edition        
 Dates: Friday 3 + Saturday 4 June 2016, 5pm + 6pm (*limited capacity, repeats*)        
@@ -65,8 +65,8 @@ Box Office Tel: 0161 274 0600
 [Audience feedback from 2015](/archive/2015-worksahead)
         
 #### Access Information        
-Age advisory: Compact Edition 14+ tbc | Evening Edition strictly 18+. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
+Age advisory: Compact Edition 14+ (parental/guardian discretion) | Evening Edition strictly 18+. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
         
 #### Credits         
-[Works Ahead](/hab/worksahead) 2016 is commissioned + produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>; supported using public funding by Arts Council England + funded by Manchester City Council.        
-Project Mentor: Peader Kirk | <a href="http://worksahead.org" target="_blank">worksahead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
+[Works Ahead](/hab/worksahead) 2016 is commissioned and produced by [hÅb](/hab) and <a href="http://contactmcr.com" target="_blank">Contact</a>; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentor: Peader Kirk
+<a href="http://worksahead.org" target="_blank">worksahead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
