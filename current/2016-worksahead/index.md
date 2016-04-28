@@ -65,8 +65,8 @@ Box Office Tel: 0161 274 0600
 [Audience feedback from 2015](/archive/2015-worksahead)
         
 #### Access Information        
-Age advisory: Compact Edition 14+ (parental/guardian discretion) | Evening Edition strictly 18+. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
+Age advisory: Compact Edition 14+ (parental/guardian discretion); Evening Edition strictly 18+. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
         
 #### Credits         
-[Works Ahead](/hab/worksahead) 2016 is commissioned and produced by [hÅb](/hab) and <a href="http://contactmcr.com" target="_blank">Contact</a>; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentor: Peader Kirk
+[Works Ahead](/hab/worksahead) 2016 is commissioned and produced by [hÅb](/hab) and <a href="http://contactmcr.com" target="_blank">Contact</a>; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentor: Peader Kirk        
 <a href="http://worksahead.org" target="_blank">worksahead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
