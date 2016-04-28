@@ -9,7 +9,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: Haphazard 2016
-more_url: "../../current/2016-haphazard"
+more_url: "../../archive/2016-haphazard"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small>A free day out for the curious of all ages.",  show: "Eilidh MacAskill + Rosana Cade, Gendersaurus Rex; image Jassy Earl</small>"}
