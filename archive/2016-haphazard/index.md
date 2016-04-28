@@ -28,7 +28,7 @@ Date: Saturday 20 February 2016, 12noon-4pm
 Entry is FREE, come + go as you please (*N.B. no ticket booking required; †Some activity will operate on a first-come, first-served basis*).         
 Venue Tel: 0161 232 6089              
             
-#### [Artists + Activity (*subject to change*)](/current/2016-haphazard/programme)           
+#### [Artists + Activity (*subject to change*)](/archive/2016-haphazard/programme)           
 Artizani | Doris La Trine | Eilidh MacAskill + Rosana Cade (Gendersaurus Rex) | Flipbook People† | Gareth Cutter | Katy Baird | Katy Dye | Left Leg Gallery | Lucy McCormick | Marcus Orlandi† | Matt Girling | Same Difference | Travelling Lights         
             
 To get a feel for it have a look at our [slideshow](/galleries/2016-hapslide), or images from [2013](/galleries/2013-haphazard) + [2015](/galleries/2015-haphazard).         
