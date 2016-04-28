@@ -6,9 +6,9 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Afreena Islam"
-show: "Daughters of The Curry Revolution"
+show: "Daughters of the Curry Revolution"
 artist_size: 1
-show_size: 3
+show_size: 4
 header_image: "header_afreena.jpg"
 
 # ABOUT THE SHOW - LAYOUT
