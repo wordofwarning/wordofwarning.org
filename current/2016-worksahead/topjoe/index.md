@@ -5,8 +5,8 @@ layout: 2016-woah
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Afreena"
-show: "Affected"
+artist: "Top Joe"
+show: "Comedy"
 artist_size: 1
 show_size: 1
 header_image: "header_topjoe.jpg"
@@ -17,26 +17,23 @@ header_image: "header_topjoe.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Part of* Works Ahead 2015, *presented by* Word of Warning + Contact      
-         
-####In Brief                      
-The confessions of a Marxist poseur… From achingly earnest teen-activist to wannabe Olivier, the scuffles and skirmishes of a young man seeking his place in the world.    
-         
-####Venue + Booking Details, for Works Ahead
-Dates: Friday 24 (+ Saturday 25: SOLD-OUT) April 2015, 8pm (Double Bill)        
-[Venue: Contact (space 2)](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA            
-[Tickets: £6/3](http://contactmcr.com/whats-on/35092-works-ahead-2015/booking) | Special offer: buy nine tickets + get your tenth free            
-Box Office Tel: 0161 274 0600      
-       
-####Access Information      
-**Due to mechanical breakdown, Works Ahead is only accessible by stairs (two floors). Word of Warning + Contact apologise to any potential audience member for whom this is not possible.**<br>Age advisory: 16+ Part of a double bill of new performance in development, the evening will last approximately 1¾ hours — each show lasts approximately 30-40 minutes, with a 30 minute interval between during which our audience will be asked to return to the bar/foyer. Mainly spoken English. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
-![Affected](JamilKeatingWoAh15028.jpg)       
-      
-####Who is he?        
-Jamil Keating is an emerging theatre-maker, writer and performer. *Affected* is his first full solo work, the first step in an artistic journey of trying to find the balance between being overwhelmed by perverse enthusiasm for the absurdity of life, and trying to say something of substance about it… simply.         
-         
-To date he has made small pieces for [Hazard](/archive/2014-hazard/ongoing) (as Tracey Lumpkin) and [Emergency](archive/2014-emergency/lunchtime), and has been an emerging artist in residence at the Whitworth.       
+*Presented by* Word of Warning + Contact        
            
-####Credits         
-Commissioned by hÅb, co-produced with Contact.<br>Project Mentor: Peader Kirk.        
-![Affected](JamilKeatingWoAh15029.jpg)
+*Part of* Works Ahead Evening Edition: from Dyson to the Passion — an unpredictable double bill from Top Joe + Lucy McCormick.      
+         
+#### In Brief                      
+Top Joe is a timid character who wears a hi-vis jacket and only comes out at night. He occasionally braves leaving the house in order to meet people and give his thoughts on life, vouchers and pistachios.<br>For Works Ahead he is developing a piece that explores the nature of Ross Kemp, Dyson vacuum cleaners, identity, comedy, and childhood.        
+<a href="http://twitter.com/toptopjoe" target="_blank">@toptopjoe</a> | <a href="http://vimeo.com/topjoe" target="_blank">vimeo.com/topjoe</a>        
+            
+#### Venue + Booking Details for Evening Edition        
+Dates: Friday 3 + Saturday 4 June 2016, 7.30pm        
+<a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact</a>, Oxford Road, Manchester, M15 6JA         
+<a href="http://contactmcr.com/whats-on/47292-works-ahead/booking" target="_blank">Tickets: £6/3</a>               
+Box Office Tel: 0161 274 0600        
+          
+#### Access Information for Evening Edition         
+Age advisory: strictly 18+. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
+        
+#### Credits         
+[Works Ahead](/hab/worksahead) 2016 is commissioned and produced by [hÅb](/hab) and <a href="http://contactmcr.com" target="_blank">Contact</a>; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentor: Peader Kirk        
+<a href="http://worksahead.org" target="_blank">worksahead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
