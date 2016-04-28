@@ -17,7 +17,10 @@ header_image: "header_terri.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning + Contact *during* Works Ahead Compact Edition 2016: *hidden stories and half-remembered truths from Terri Donovan + Afreena Islam*      
+*Presented by* Word of Warning + Contact        
+           
+***Part of* Works Ahead Compact Edition 2016:**         
+Hidden stories and half-remembered truths from Terri Donovan + Afreena Islam.      
          
 #### In Brief                      
 "*Finding Elsie* is about me, my Dad, my Gran… and dementia. This is my exploration of how relationships change and continue to change in my attempt to find a true reflection of my Elsie."        
