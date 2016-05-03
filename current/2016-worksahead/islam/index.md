@@ -19,7 +19,7 @@ header_image: "header_afreena.jpg"
 ---
 *Presented by* Word of Warning + Contact         
            
-*Part of* Works Ahead Compact Edition 2016: hidden stories and half-remembered truths from Terri Donovan + Afreena Islam.        
+*Part of* Works Ahead 2016 Compact Edition: hidden stories and half-remembered truths from Terri Donovan + Afreena Islam.        
            
 #### In Brief                      
 "I've only been alive for about 30% of my dad's life, so I've been trying to piece together what happened in the 70% I wasn't…"<br>A daughter telling secondhand stories to strangers, trying to navigate her dad's journey to help her figure out her own.         
