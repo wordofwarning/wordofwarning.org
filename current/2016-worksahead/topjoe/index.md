@@ -19,7 +19,7 @@ header_image: "header_topjoe.jpg"
 ---
 *Presented by* Word of Warning + Contact        
            
-*Part of* Works Ahead Evening Edition 2016: from Dyson to the Passion — an unpredictable double bill from Top Joe + Lucy McCormick.      
+*Part of* Works Ahead 2016 Evening Edition: from Dyson to the Passion — an unpredictable double bill from Top Joe + Lucy McCormick.      
          
 #### In Brief                      
 Top Joe is a timid character who wears a hi-vis jacket and only comes out at night. He occasionally braves leaving the house in order to meet people and give his thoughts on life, vouchers and pistachios.<br>For Works Ahead he is developing a piece that explores the nature of Ross Kemp, Dyson vacuum cleaners, identity, comedy, and childhood.        
