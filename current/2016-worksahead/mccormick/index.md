@@ -19,7 +19,7 @@ header_image: "header_lucy.jpg"
 ---
 *Presented by* Word of Warning + Contact        
            
-*Part of* Works Ahead Evening Edition 2016: from Dyson to the Passion — an unpredictable double bill from Top Joe + Lucy McCormick.      
+*Part of* Works Ahead 2016 Evening Edition: from Dyson to the Passion — an unpredictable double bill from Top Joe + Lucy McCormick.      
          
 #### In Brief                      
 "I have cast myself as God in a large scale biblical re-enactment, performed via pop ballads and performance art with the help of two backing dancers. I was partly inspired to create this work by an ongoing interest in the Quaker belief in 'God' as one's own moral conscience — that of 'God in everyone'.<br>The piece is also an exercise in casting myself as the Ultimate Man, allowing for my interests and frustrations in gender politics and feminist discourse."           
