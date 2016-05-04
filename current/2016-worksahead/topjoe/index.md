@@ -23,8 +23,7 @@ header_image: "header_topjoe.jpg"
          
 #### In Brief                      
 Top Joe is a timid character who wears a hi-vis jacket and only comes out at night. He occasionally braves leaving the house in order to meet people and give his thoughts on life, vouchers and pistachios.<br>For Works Ahead he is developing a piece that explores the nature of Ross Kemp, Dyson vacuum cleaners, identity, comedy, and childhood.        
-<a href="http://twitter.com/toptopjoe" target="_blank">@toptopjoe</a> | <a href="http://vimeo.com/topjoe" target="_blank">vimeo.com/topjoe</a>        
-            
+             
 #### Venue + Booking Details for Evening Edition        
 Dates: Friday 3 + Saturday 4 June 2016, 7.30pm        
 <a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact</a>, Oxford Road, Manchester, M15 6JA         
@@ -49,7 +48,7 @@ The old adage still stands: non-Michael Bolton fans will not be admitted.
 Top Joe is a confused man in a hi-vis jacket who only comes out at night. He's known for bringing misadventure to comedy and arts venues across the north-west, whether it's commandeering the mic at a children's festival in Leeds or causing a minor evacuation at an arts café in Liverpool. He also presents on local channel Bay TV Liverpool, and has appeared at Latitude, [Emergency](/archive/2015-emergency/evening), Edinburgh and a mobile sauna in Leeds.            
              
 #### What people have said about him              
->• *Hilarious. Genuinely funny, poignant and heart-warming.*<br>• *Totally charming. Felt as if he brought everyone in the room together.*<br>• *Top Joe = Best!*<br>Audience members from *Top Joe: Leaving the House* at 4749 Tanner Street               
+>• *Hilarious. Genuinely funny, poignant and heart-warming.*<br>• *Totally charming. Felt as if he brought everyone in the room together.*<br>• *Top Joe = Best!*<br>Audience members from *Top Joe: Leaving the House* at 4749 Tanner St               
             
 #### Credits         
 [Works Ahead](/hab/worksahead) 2016 is commissioned and produced by [hÅb](/hab) and <a href="http://contactmcr.com" target="_blank">Contact</a>; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentor: Peader Kirk        
