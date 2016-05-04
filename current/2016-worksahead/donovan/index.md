@@ -31,7 +31,7 @@ Tickets: £4/2 (*booking link coming soon*)
 Box Office Tel: 0161 274 0600         
              
 #### Access Information for Compact Edition        
-Age advisory: 14+ (parental/guardian discretion). *Finding Elsie* is spoken word based and will be the first part of a double bill lasting approximately 1¼ hours including an interval. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
+Age advisory: 14+ (parental/guardian discretion). *Finding Elsie* is spoken word based and will be the first part of a double bill lasting approximately 1¼ hours including a short pause to move location within the building. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
             
 #### More               
 *We shall not cease from exploration<br>And the end of all our exploring<br>Will be to arrive where we started<br>And know the place for the first time.*<br>— T. S. Eliot (*Little Gidding*)            
@@ -48,5 +48,5 @@ I have a whisper of time to share with you mine and her moments, and perhaps fin
 [Works Ahead](/hab/worksahead) 2016 is commissioned and produced by [hÅb](/hab) and <a href="http://contactmcr.com" target="_blank">Contact</a>; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentor: Peader Kirk        
 <a href="http://worksahead.org" target="_blank">worksahead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
              
-#### Websites           
+#### Website          
 <a href="http://twitter.com/TerriTezmabob" target="_blank">@TerriTezmabob</a>
