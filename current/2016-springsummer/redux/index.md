@@ -29,7 +29,8 @@ Tickets: <a href="http://homemcr.org/event/queer-as-yolk-redux" target="_blank">
 Box Office Tel: 0161 200 1500             
               
 #### Access Information      
-Age advisory + duration TBC. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
+
+Age advisory 18+ (parental/guardian discretion); duration TBC. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
 
 #### More
 Since 2013 Richard DeDomenici's inexplicably popular *The Redux Project* has caused a stir over fifty times, in places as diverse as London, Bangkok, Hong Kong, Seoul, Sydney, Beijing and Norwich.         
