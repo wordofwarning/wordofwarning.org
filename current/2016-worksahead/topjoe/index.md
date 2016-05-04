@@ -22,7 +22,9 @@ header_image: "header_topjoe.jpg"
 *Part of* Works Ahead 2016 Evening Edition: from Dyson to the Passion — an unpredictable double bill from Top Joe + Lucy McCormick.      
          
 #### In Brief                      
-Top Joe is a timid character who wears a hi-vis jacket and only comes out at night. He occasionally braves leaving the house in order to meet people and give his thoughts on life, vouchers and pistachios.<br>For Works Ahead he is developing a piece that explores the nature of Ross Kemp, Dyson vacuum cleaners, identity, comedy, and childhood.        
+Top Joe is a timid character who wears a hi-vis jacket and only comes out at night. He occasionally braves leaving the house in order to meet people and give his thoughts on life, vouchers and pistachios.            
+             
+For Works Ahead he is developing a piece that explores the nature of Ross Kemp, Dyson vacuum cleaners, identity, comedy, and childhood.        
              
 #### Venue + Booking Details for Evening Edition        
 Dates: Friday 3 + Saturday 4 June 2016, 7.30pm        
@@ -31,7 +33,7 @@ Dates: Friday 3 + Saturday 4 June 2016, 7.30pm
 Box Office Tel: 0161 274 0600        
           
 #### Access Information for Evening Edition         
-Age advisory: strictly 18+. *Comedy* is spoken word based and will be the first part of a double bill lasting approximately two hours including an interval. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
+Age advisory: strictly 18+. *Comedy* is spoken word based and will be the first part of a double bill lasting about 2 hours including an interval. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
              
 #### More            
 *"At the risk of missing a call back from prospective employers Pound Bakery, Top Joe is venturing out of the house.*            
