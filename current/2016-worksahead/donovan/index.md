@@ -28,10 +28,10 @@ header_image: "header_terri.jpg"
 Dates: Friday 3 + Saturday 4 June 2016, 5pm + 6pm (*limited capacity, repeats*)        
 <a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact</a>, Oxford Road, Manchester, M15 6JA         
 Tickets: £4/2 (*booking link coming soon*)               
-Box Office Tel: 0161 274 0600        
+Box Office Tel: 0161 274 0600         
              
 #### Access Information for Compact Edition        
-Age advisory: 14+ (parental/guardian discretion). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
+Age advisory: 14+ (parental/guardian discretion). *Finding Elsie* is spoken word based and will be the first part of a double bill lasting approximately 1¼ hours including an interval. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
             
 #### More               
 *We shall not cease from exploration<br>And the end of all our exploring<br>Will be to arrive where we started<br>And know the place for the first time.*<br>— T. S. Eliot (*Little Gidding*)            
