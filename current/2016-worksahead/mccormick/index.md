@@ -22,8 +22,7 @@ header_image: "header_lucy.jpg"
 *Part of* Works Ahead 2016 Evening Edition: from Dyson to the Passion — an unpredictable double bill from Top Joe + Lucy McCormick.      
          
 #### In Brief                      
-REPLACE as MORE is new copy. It's a different version of the old one so please replace
-"I have cast myself as God in a large scale biblical re-enactment, performed via pop ballads and performance art with the help of two backing dancers. I was partly inspired to create this work by an ongoing interest in the Quaker belief in 'God' as one's own moral conscience — that of 'God in everyone'.<br>The piece is also an exercise in casting myself as the Ultimate Man, allowing for my interests and frustrations in gender politics and feminist discourse."           
+Post-popular prodigy Lucy McCormick and her Girl Squad present a trashstep-dubpunk morality play for the modern age. Casting herself in all the main roles, Lucy will attempt to re-connect to her own moral conscience by re-enacting old biblical stories via a nu-wave holy trinity of dance, power ballads and performance art. With trademark absurdism and enthusiasm, Lucy puts her best foot forward in the face of existential deadlock.              
             
 #### Venue + Booking Details for Evening Edition        
 Dates: Friday 3 + Saturday 4 June 2016, 7.30pm        
@@ -31,15 +30,13 @@ Dates: Friday 3 + Saturday 4 June 2016, 7.30pm
 <a href="http://contactmcr.com/whats-on/47292-works-ahead/booking" target="_blank">Tickets: £6/3</a>               
 Box Office Tel: 0161 274 0600        
           
-#### Access Information for Evening Edition         
-Age advisory: strictly 18+. *Triple Threat* is across-genre work inspired by dance, theatre, cabaret and performance art, and will be the second part of a double bill lasting approximately 2 hours including an interval. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
+#### Access Information for Evening Edition           
+Age advisory: strictly 18+. *Triple Threat* is a cross-genre work inspired by dance, theatre, cabaret and performance art, and will be the second part of a double bill lasting approximately 2 hours including an interval. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
         
-#### More
-Post-popular prodigy Lucy McCormick and her Girl Squad present a trashstep-dubpunk morality play for the modern age. Casting herself in all the main roles, Lucy will attempt to re-connect to her own moral conscience by reenacting old biblical stories via a nu-wave holy trinity of dance, power ballads and performance art. With trademark absurdism and enthusiasm, Lucy puts her best foot forward in the face of existential deadlock. 
-
-Lording it over western thought and stereotype, this show is a frenzied right of passage which is as enthusiastic as it is volatile.
-
-#### Who is she?
+#### More              
+Lording it over western thought and stereotype, this show is a frenzied right of passage which is as enthusiastic as it is volatile.          
+             
+#### Who is she?             
 Lucy performs club installations, cabaret interventions and performance art plays at venues around the UK including Soho Theatre, Duckie, Buzzcut, Bethnal Green Working Men's Club, Latitude Festival, Cambridge Junction, Apiary Studios, The Black Cap, Dalston Superstore + The Arches (Glasgow).             
              
 She is co-founder of <a href="http://www.getinthebackofthevan.com" target="_blank">GETINTHEBACKOFTHEVAN</a>, touring extensively with them to venues including Soho Theatre, Almeida Theatre, Warwick Arts Centre, Carriageworks (Leeds), Abersytwyth Arts Centre, Experimentica Festival (Cardiff), PACTZollverein (Germany), Vienna Festwochen, L1 Dance Fest (Budapest) + BoraBora (Denmark).               
