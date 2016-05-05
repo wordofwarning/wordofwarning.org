@@ -49,7 +49,7 @@ Top Joe is a timid character who wears a hi-vis jacket and only comes out at nig
 #### Venue + Booking Details for Compact Edition        
 Dates: Friday 3 + Saturday 4 June 2016, 5pm + 6pm (*limited capacity, repeats*)        
 <a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact</a>, Oxford Road, Manchester, M15 6JA         
-Tickets: £4/2 (*booking link coming soon*)               
+<a href="http://contactmcr.com/whats-on/56892-works-ahead-compact-edition/booking" target="_blank">Tickets: £4/2</a>               
 Box Office Tel: 0161 274 0600        
        
 #### Venue + Booking Details for Evening Edition        
