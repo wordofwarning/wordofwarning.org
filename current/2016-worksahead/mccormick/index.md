@@ -40,23 +40,18 @@ Post-popular prodigy Lucy McCormick and her Girl Squad present a trashstep-dubpu
 Lording it over western thought and stereotype, this show is a frenzied right of passage which is as enthusiastic as it is volatile.
 
 #### Who is she?
-Lucy performs club installations, cabaret interventions and performance art plays at venues around UK including Soho Theatre, Duckie, Buzzcut, Bethnal Green Working Men's Club, Latitude Festival, Cambridge Junction, Apiary Studios, The Black Cap, Dalston Superstore and The Arches Glasgow.
-
-She is also co-founder of GETINTHEBACKOFTHEVAN (www.getinthebackofthevan.com)
-
-Work with GETINTHEBACKOFTHEVAN tours extensively to venues including  Soho Theatre, Almeida Theatre, Warwick Arts Centre, Carriageworks Leeds, Abersytwyth Arts Centre, Experimentica Festival Cardiff, PACTZollverein Germany, Vienna Festwochen, L1 Dance Fest Budapest and BoraBora Denmark.
-
-“GETINTHEBACKOFTHEVAN is at the forefront of Britain’s new breed of artists” Robert Pacitti – SPILL Festival
-
-Lucy is also a freelance performer and has worked for Tim Etchells (In Between Time Festival/Festival of The Moving Image Geneva), with Lauren Bari Holstein (Barbican/SPILL Festival/In Between Time Festival) and on various projects with David Hoyle, Dickie Beau, Scottie, Richard Dedomenici and Thomas Graves of Texan based drag act Christeene.
-
-
-#### What people have said about her…
-'A phenomenally watchable performer. With McCormick, anything is a possibility. She floats on the present moment, and there’s no knowing how far she’ll go'' 
-Matt Truman
-'Hilarious,  shocking and profound '
-Exeunt Magazine
-
+Lucy performs club installations, cabaret interventions and performance art plays at venues around UK including Soho Theatre, Duckie, Buzzcut, Bethnal Green Working Men's Club, Latitude Festival, Cambridge Junction, Apiary Studios, The Black Cap, Dalston Superstore and The Arches Glasgow.             
+             
+She is co-founder of <a href="http://www.getinthebackofthevan.com" target="_blank">GETINTHEBACKOFTHEVAN</a>, who tour extensively to venues including Soho Theatre, Almeida Theatre, Warwick Arts Centre, Carriageworks Leeds, Abersytwyth Arts Centre, Experimentica Festival Cardiff, PACTZollverein Germany, Vienna Festwochen, L1 Dance Fest Budapest + BoraBora Denmark.               
+            
+>*GETINTHEBACKOFTHEVAN is at the forefront of Britain's new breed of artists*<br>Robert Pacitti, SPILL Festival            
+            
+Lucy is also a freelance performer and has worked for Tim Etchells (In Between Time Festival/Festival of The Moving Image Geneva), with Lauren Bari Holstein (Barbican/SPILL Festival/In Between Time Festival) and on various projects with David Hoyle, Dickie Beau, Scottie, Richard Dedomenici and Thomas Graves of Texan-based drag act Christeene.          
+            
+#### What people have said about her
+>*A phenomenally watchable performer. With McCormick, anything is a possibility. She floats on the present moment, and there’s no knowing how far she'll go.*<br><a href="http://URL" target="_blank">Matt Trueman</a>              
+>*Hilarious, shocking and profound.*<br><a href="http://URL" target="_blank">Exeunt Magazine</a>               
+            
 #### Credits         
 Supported by Soho Theatre, Cambridge Junction, BAC, Marlbourgh Theatre Brighton and Arts Council England.
 With direction from Ursula Martinez of ‘La Soiree’, ‘My Stories Your Emails’, ‘Free Admission’ and ‘Office Party’.
