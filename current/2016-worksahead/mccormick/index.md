@@ -40,23 +40,23 @@ Post-popular prodigy Lucy McCormick and her Girl Squad present a trashstep-dubpu
 Lording it over western thought and stereotype, this show is a frenzied right of passage which is as enthusiastic as it is volatile.
 
 #### Who is she?
-Lucy performs club installations, cabaret interventions and performance art plays at venues around UK including Soho Theatre, Duckie, Buzzcut, Bethnal Green Working Men's Club, Latitude Festival, Cambridge Junction, Apiary Studios, The Black Cap, Dalston Superstore and The Arches Glasgow.             
+Lucy performs club installations, cabaret interventions and performance art plays at venues around the UK including Soho Theatre, Duckie, Buzzcut, Bethnal Green Working Men's Club, Latitude Festival, Cambridge Junction, Apiary Studios, The Black Cap, Dalston Superstore + The Arches (Glasgow).             
              
-She is co-founder of <a href="http://www.getinthebackofthevan.com" target="_blank">GETINTHEBACKOFTHEVAN</a>, who tour extensively to venues including Soho Theatre, Almeida Theatre, Warwick Arts Centre, Carriageworks Leeds, Abersytwyth Arts Centre, Experimentica Festival Cardiff, PACTZollverein Germany, Vienna Festwochen, L1 Dance Fest Budapest + BoraBora Denmark.               
+She is co-founder of <a href="http://www.getinthebackofthevan.com" target="_blank">GETINTHEBACKOFTHEVAN</a>, touring extensively with them to venues including Soho Theatre, Almeida Theatre, Warwick Arts Centre, Carriageworks (Leeds), Abersytwyth Arts Centre, Experimentica Festival (Cardiff), PACTZollverein (Germany), Vienna Festwochen, L1 Dance Fest (Budapest) + BoraBora (Denmark).               
             
->*GETINTHEBACKOFTHEVAN is at the forefront of Britain's new breed of artists*<br>Robert Pacitti, SPILL Festival            
+>*GETINTHEBACKOFTHEVAN is at the forefront of Britain's new breed of artists* — Robert Pacitti, SPILL Festival            
             
-Lucy is also a freelance performer and has worked for Tim Etchells (In Between Time Festival/Festival of The Moving Image Geneva), with Lauren Bari Holstein (Barbican/SPILL Festival/In Between Time Festival) and on various projects with David Hoyle, Dickie Beau, Scottie, Richard Dedomenici and Thomas Graves of Texan-based drag act Christeene.          
+Lucy is also a freelance performer and has worked for Tim Etchells (In Between Time Festival/Festival of The Moving Image Geneva), with Lauren Bari Holstein (Barbican/SPILL Festival/In Between Time Festival) and on various projects with David Hoyle, Dickie Beau, Scottie, Richard DeDomenici + Thomas Graves of Texan-based drag act Christeene.          
             
 #### What people have said about her
->*A phenomenally watchable performer. With McCormick, anything is a possibility. She floats on the present moment, and there’s no knowing how far she'll go.*<br><a href="http://URL" target="_blank">Matt Trueman</a>              
->*Hilarious, shocking and profound.*<br><a href="http://URL" target="_blank">Exeunt Magazine</a>               
+>*…a phenomenally watchable performer… With McCormick, anything is a possibility. She floats on the present moment, and there’s no knowing how far she’ll go.*<br><a href="http://matttrueman.co.uk/2012/09/review-big-hits-soho-theatre.html" target="_blank">Matt Trueman</a>              
+>*…hilarious, shocking and profound…*<br><a href="http://exeuntmagazine.com/features/watch-out" target="_blank">Exeunt Magazine</a>               
             
 #### Credits         
-Supported by Soho Theatre, Cambridge Junction, BAC, Marlbourgh Theatre Brighton and Arts Council England.
-With direction from Ursula Martinez of ‘La Soiree’, ‘My Stories Your Emails’, ‘Free Admission’ and ‘Office Party’.
+Supported using public funding by the National Lottery through Arts Council England; supported by Soho Theatre, Cambridge Junction, BAC + Marlbourgh Theatre (Brighton).                     
+With direction from Ursula Martinez of *La Soiree*, *My Stories Your Emails*, *Free Admission* + *Office Party*.                 
 [Works Ahead](/hab/worksahead) 2016 is commissioned and produced by [hÅb](/hab) and <a href="http://contactmcr.com" target="_blank">Contact</a>; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentor: Peader Kirk        
 <a href="http://worksahead.org" target="_blank">worksahead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>             
-            
+              
 #### Website          
 <a href="http://twitter.com/lucy_muck" target="_blank">@lucy_muck</a>
