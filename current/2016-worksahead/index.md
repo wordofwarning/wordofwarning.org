@@ -39,9 +39,10 @@ From Dyson to the Passion — an unpredictable double bill from Top Joe + Lucy M
 *Daughters of the Curry Revolution* is an exploration into her dad's life; from his journey to this country, to his journey to this day.           
            
 **Top Joe** (Evening Edition, first part)             
-Top Joe is a timid character who wears a hi-vis jacket and only comes out at night. He occasionally braves leaving the house in order to meet people and give his thoughts on life, vouchers and pistachios.<br>For Works Ahead he is developing a piece that explores the nature of Ross Kemp, Dyson vacuum cleaners, identity, comedy, and childhood.        
-<a href="http://twitter.com/toptopjoe" target="_blank">@toptopjoe</a> | <a href="http://vimeo.com/topjoe" target="_blank">vimeo.com/topjoe</a>        
-         
+Top Joe is a timid character who wears a hi-vis jacket and only comes out at night. He occasionally braves leaving the house in order to meet people and give his thoughts on life, vouchers and pistachios.             
+          
+For Works Ahead he is developing a piece that explores the nature of Ross Kemp, Dyson vacuum cleaners, identity, comedy, and childhood.        
+          
 **Lucy McCormick** (Evening Edition, second part)         
 Post-popular prodigy Lucy McCormick and her Girl Squad present a trashstep-dubpunk morality play for the modern age. Casting herself in all the main roles, Lucy will attempt to re-connect to her own moral conscience by re-enacting old biblical stories via a nu-wave holy trinity of dance, power ballads and performance art. With trademark absurdism and enthusiasm, Lucy puts her best foot forward in the face of existential deadlock.          
             
