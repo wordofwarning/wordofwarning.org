@@ -31,7 +31,7 @@ Dates: Friday 3 + Saturday 4 June 2016, 5pm + 6pm (*limited capacity, repeats*)
 Box Office Tel: 0161 274 0600         
              
 #### Access Information for Compact Edition        
-Age advisory: 14+ (parental/guardian discretion). *Finding Elsie* is spoken word based and will be the first part of a double bill lasting approximately 1¼ hours including a short pause to move location within the building. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
+Age advisory: 14+ (parental/guardian discretion). *Finding Elsie* is spoken word based and will be the first part of a double bill lasting approximately 1¼ hours including a short pause to move location within the building. We apologise, but this piece has restricted access for people with mobility difficulties, please call 0161 274 0600 for information.         
             
 #### More               
 *We shall not cease from exploration<br>And the end of all our exploring<br>Will be to arrive where we started<br>And know the place for the first time.*<br>— T. S. Eliot (*Little Gidding*)            
