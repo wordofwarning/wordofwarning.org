@@ -36,9 +36,9 @@ Box Office Tel: 0161 274 0600
 Age advisory: strictly 18+. *Comedy* is spoken word based and will be the first part of a double bill lasting about 2 hours including an interval. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
              
 #### More            
-*"At the risk of missing a call back from prospective employers Pound Bakery, Top Joe is venturing out of the house.*            
+At the risk of missing a call back from prospective employers Pound Bakery, Top Joe is venturing out of the house.          
             
-*"The hi-vis sporting Welshman is hoping it will be worth it as he shares his hopes, fears, 80s cassette collection and vitamin supplements with all who are equally as brave. Influenced by the Dalai Lama, his dad (deceased), and the great philosophers, this alternative comedy performance is not to be missed.*           
+The hi-vis sporting Welshman is hoping it will be worth it as he shares his hopes, fears, 80s cassette collection and vitamin supplements with all who are equally as brave. Influenced by the Dalai Lama, his dad (deceased), and the great philosophers, this alternative comedy performance is not to be missed.          
             
 *"Gaining cult status from performances at Latitude, Edinburgh…"* — hold on that was last year. A lot has changed in Top Joe's life since then. Top Joe is confused about the world around us. How is he coping with celebrity and his addiction to buffalo mozzarella on sliced tomatoes with basil leaves dressed in olive oil?             
              

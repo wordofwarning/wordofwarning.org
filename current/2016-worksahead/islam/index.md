@@ -24,7 +24,7 @@ header_image: "header_afreena.jpg"
 #### In Brief                      
 "When I was little, I used to hang out at my dad's restaurant most weekends, back when they used to stay open until 5am. After a hard days toil running round like I owned the place I would fall asleep to the CCTV, my body on the chest freezer and my head resting on a pile of tablecloths."              
             
-*Daughters of the Curry Revolution* is an exploration into her dad's life; from his journey to this country, to his journey to this day.                 
+*Daughters of the Curry Revolution* is an exploration of her dad's life; from his journey to this country, to his journey to this day.                 
              
 #### Venue + Booking Details for Compact Edition        
 Dates: Friday 3 + Saturday 4 June 2016, 5pm + 6pm (*limited capacity, repeats*)        
@@ -38,7 +38,7 @@ Age advisory: 14+ (parental/guardian discretion). *Daughters…* is spoken word 
 #### More             
 "My dad is an illiterate Muslim immigrant called Michael. He left home when he was 8, and came to England when he was 22. He worked for about 65 years, retired, and then had a brain haemorrhage. He's 84 now.             
             
-"I am a first generation Mancunian Bangladeshi called Afreena. I tried to leave home a few times, but the smell of my mum's curry always led me back. I'm the last child (as far as I know!) born to my dad. I'm 25 now."           
+I am a first generation Mancunian Bangladeshi called Afreena. I tried to leave home a few times, but the smell of my mum's curry always led me back. I'm the last child (as far as I know!) born to my dad. I'm 25 now."           
              
 In an intimate performance, Afreena invites you to take a seat around her dinner table as she serves up stories from her father's past, present, and what little she imagines is left of his future. Exploring what it means to be her dad's daughter in the context of the anti-immigration rhetoric she is surrounded by, Afreena tells secondhand stories to strangers, navigating her dad's journey to help her figure out her own.                 
              
