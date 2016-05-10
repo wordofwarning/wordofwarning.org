@@ -22,8 +22,8 @@ header_image: "header_lucy.jpg"
 *Part of* Works Ahead 2016 Evening Edition: from Dyson to the Passion — an unpredictable double bill from Top Joe + Lucy McCormick.      
          
 #### In Brief                      
-Post-popular prodigy Lucy McCormick and her Girl Squad present a trashstep-dubpunk morality play for the modern age. Casting herself in all the main roles, Lucy will attempt to re-connect to her own moral conscience by re-enacting old biblical stories via a nu-wave holy trinity of dance, power ballads and performance art. With trademark absurdism and enthusiasm, Lucy puts her best foot forward in the face of existential deadlock.              
-            
+Post-popular prodigy Lucy McCormick and her Girl Squad present a trashstep-dubpunk morality play for the modern age.     
+
 #### Venue + Booking Details for Evening Edition        
 Dates: Friday 3 + Saturday 4 June 2016, 7.30pm        
 <a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact</a>, Oxford Road, Manchester, M15 6JA         
@@ -34,16 +34,18 @@ Box Office Tel: 0161 274 0600
 Age advisory: strictly 18+. *Triple Threat* is a cross-genre work inspired by dance, theatre, cabaret and performance art, and will be the second part of a double bill lasting approximately 2 hours including an interval. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
         
 #### More              
-Lording it over western thought and stereotype, this show is a frenzied right of passage which is as enthusiastic as it is volatile.          
+Lording it over western thought and stereotype, this show is a frenzied right of passage which is as enthusiastic as it is volatile.       
+
+Casting herself in all the main roles, Lucy will attempt to re-connect to her own moral conscience by re-enacting old biblical stories via a nu-wave holy trinity of dance, power ballads and performance art. With trademark absurdism and enthusiasm, Lucy puts her best foot forward in the face of existential deadlock.           
              
 #### Who is she?             
-Lucy performs club installations, cabaret interventions and performance art plays at venues around the UK including Soho Theatre, Duckie, Buzzcut, Bethnal Green Working Men's Club, Latitude Festival, Cambridge Junction, Apiary Studios, The Black Cap, Dalston Superstore + The Arches (Glasgow).             
-             
-She is co-founder of <a href="http://www.getinthebackofthevan.com" target="_blank">GETINTHEBACKOFTHEVAN</a>, touring extensively with them to venues including Soho Theatre, Almeida Theatre, Warwick Arts Centre, Carriageworks (Leeds), Abersytwyth Arts Centre, Experimentica Festival (Cardiff), PACTZollverein (Germany), Vienna Festwochen, L1 Dance Fest (Budapest) + BoraBora (Denmark).               
-            
+Lucy performs club installations, cabaret interventions and performance art plays at venues around the UK.      
+         
+She is co-founder of <a href="http://www.getinthebackofthevan.com" target="_blank">GETINTHEBACKOFTHEVAN</a>, touring extensively with them to venues throughout Europe.     
+           
 >*GETINTHEBACKOFTHEVAN is at the forefront of Britain's new breed of artists* — Robert Pacitti, SPILL Festival            
             
-Lucy is also a freelance performer and has worked for Tim Etchells (In Between Time Festival/Festival of The Moving Image Geneva), with Lauren Bari Holstein (Barbican/SPILL Festival/In Between Time Festival) and on various projects with David Hoyle, Dickie Beau, Scottie, Richard DeDomenici + Thomas Graves of Texan-based drag act Christeene.          
+Lucy is also a freelance performer and has worked with Tim Etchells, Lauren Bari Holstein, David Hoyle, Dickie Beau, Scottie, Richard DeDomenici + Thomas Graves of Texan-based drag act Christeene.          
             
 #### What people have said about her
 >*…a phenomenally watchable performer… With McCormick, anything is a possibility. She floats on the present moment, and there’s no knowing how far she’ll go.*<br><a href="http://matttrueman.co.uk/2012/09/review-big-hits-soho-theatre.html" target="_blank">Matt Trueman</a>              
