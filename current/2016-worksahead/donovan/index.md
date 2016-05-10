@@ -38,11 +38,11 @@ Age advisory: 14+ (parental/guardian discretion). *Finding Elsie* is spoken word
              
 "If you want, I could describe to you every inch of my Grandma's living room: the carpet — crimson red with the Persian pattern; the sofa — soda cream four-seater in a soft weft weave; the TV — wide-screen with a dozen illegal DVDs stored safely underneath; the armchair — cracked maroon leather placed next to a full glass ashtray; the window — facing the road and boarding school, the long grass tumbling continually amongst the sand and wind. I know this room like the back of my hand. But the blur in this landscape is — Her.               
             
-"*Finding Elsie* is an exploration using words, sound and movement to answer the questions we all face: *Who are you? Who am I?*                
+*Finding Elsie* is an exploration using words, sound and movement to answer the questions we all face: *Who are you? Who am I?*                
              
-"I cannot promise to find any answers — I had the privilege of knowing my Elsie for 19 years, 10 months, 19 days, 3 hours and 45 minutes, and I still haven't figured out who that great Mancunian lady was.            
-            
-"I have a whisper of time to share with you mine and her moments, and perhaps finally — to truly find my Elsie for the first time."            
+I cannot promise to find any answers — I had the privilege of knowing my Elsie for 19 years, 10 months, 19 days, 3 hours and 45 minutes, and I still haven't figured out who that great Mancunian lady was.       
+
+I have a whisper of time to share with you mine and her moments, and perhaps finally — to truly find my Elsie for the first time."            
             
 #### Credits           
 [Works Ahead](/hab/worksahead) 2016 is commissioned and produced by [hÅb](/hab) and <a href="http://contactmcr.com" target="_blank">Contact</a>; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentor: Peader Kirk        
