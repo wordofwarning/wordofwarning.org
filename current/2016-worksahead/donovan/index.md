@@ -42,8 +42,15 @@ Age advisory: 14+ (parental/guardian discretion). *Finding Elsie* is spoken word
              
 I cannot promise to find any answers — I had the privilege of knowing my Elsie for 19 years, 10 months, 19 days, 3 hours and 45 minutes, and I still haven't figured out who that great Mancunian lady was.       
 
-I have a whisper of time to share with you mine and her moments, and perhaps finally — to truly find my Elsie for the first time."            
+I have a whisper of time to share with you mine and her moments, and perhaps finally — to truly find my Elsie for the first time."                
             
+#### Who is she?  
+Terri is a former member of Contact Young Company, involved in the Stacy Makishi directed *Under the Covers* at Contact, BAC + Southbank Centre, London and Traverse Theatre, Edinburgh; Rodolfo Amorim + Lowri Evans’s sited *The Shrine of Everyday Things*; and Commonwealth’s *How To Be Better*.     
+
+A member of the National Youth Theatre, she was also one of the poets selected as part of BBC Radio1Xtra and Roundhouse's *Words First* scheme.    
+
+This is Terri's first solo performance work.    
+
 #### Credits           
 [Works Ahead](/hab/worksahead) 2016 is commissioned and produced by [hÅb](/hab) and <a href="http://contactmcr.com" target="_blank">Contact</a>; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentor: Peader Kirk        
 <a href="http://worksahead.org" target="_blank">worksahead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
