@@ -23,6 +23,7 @@ header_image: "header_redux.jpg"
 Première of this (ir)reverent remake of a Mancunian classic.<br>Starring Eggs Collective, introduced by auteur DeDomenici.        
          
 #### Venue + Booking Details       
+*Currently SOLD-OUT, though it may be worth coming on spec to HOME on Sunday evening — as a free event there could well be returns; AND if you have a ticket that you aren't planning to use, please let HOME's box office know on 0161 200 1500.*           
 Date: Sunday 22 May 2016, 8pm              
 <a href="http://homemcr.org/visit" target="_blank">Venue: HOME (Theatre 2)</a>, 2 Tony Wilson Place, Manchester, M15 4FN          
 Tickets: <a href="http://homemcr.org/event/queer-as-yolk-redux" target="_blank"> free to book online</a> or in person at HOME, donations are welcome after the show.         
