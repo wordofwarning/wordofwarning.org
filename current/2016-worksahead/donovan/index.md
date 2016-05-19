@@ -32,7 +32,7 @@ Box Office Tel: 0161 274 0600
              
 #### Access Information for Compact Edition        
 Age advisory: 14+ (parental/guardian discretion). *Finding Elsie* is spoken word based and will be the first part of a double bill lasting approximately 1¼ hours including a short pause to move location within the building. 
-This piece is in the basement and in case of emergency, audience members must be able to climb up one flight of stairs.  We apologise for the access limitations this creates.   Please call 0161 274 0600 for information.         
+This piece is in the basement and, in case of emergency, audience members must be able to climb up one flight of stairs.  We apologise for the access limitations this creates.   Please call 0161 274 0600 for information.         
             
 #### More               
 *We shall not cease from exploration<br>And the end of all our exploring<br>Will be to arrive where we started<br>And know the place for the first time.*<br>— T. S. Eliot (*Little Gidding*)            
