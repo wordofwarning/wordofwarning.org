@@ -6,7 +6,7 @@
 	.bodycopy p
 		{font-size: 18px; line-height: 1.6; margin-bottom: 18px; }
 
-	#page
+	#layout
 		{max-width:1000px; margin:0 auto; overflow:hidden;}
 
 	#sitelevel
@@ -42,7 +42,7 @@
 	.bodycopy p
 		{font-size: 18px; line-height: 1.6; margin-bottom: 18px; }
 
-	#page
+	#layout
 		{max-width:1000px; margin:0 auto; overflow:hidden;}
 
 	#sitelevel
