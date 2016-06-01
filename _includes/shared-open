@@ -1,6 +1,6 @@
 <!-- begin _includes/shared-open.html -->
-<body class="{% if layout.bodyclass %}{{ layout.bodyclass }}{% endif %}">	
-	<div id="layout">
+<body class="{% if page.bodyclass %}{{ page.bodyclass }}{% endif %}">	
+	<div id="page">
 		{% include shared-nav %}
 		<article>
 			<header class="splash">
@@ -10,8 +10,8 @@
 				</div>
 				<div class="titles row">
 					<div>
-						{% if layout.artist %}<h{% if layout.artist_size %}{{ layout.artist_size }}{% else %}1{% endif %} class="artist">{{ layout.artist }}</h{% if layout.artist_size %}{{ layout.artist_size }}{% else %}1{% endif %}><br> {% endif %}
-						{% if layout.show %}<h{% if layout.show_size %}{{ layout.show_size }}{% else %}2{% endif %} class="show">{{ layout.show }}</h{% if layout.show_size %}{{ layout.show_size }}{% else %}2{% endif %}> {% endif %}
+						{% if page.artist %}<h{% if page.artist_size %}{{ page.artist_size }}{% else %}1{% endif %} class="artist">{{ page.artist }}</h{% if page.artist_size %}{{ page.artist_size }}{% else %}1{% endif %}><br> {% endif %}
+						{% if page.show %}<h{% if page.show_size %}{{ page.show_size }}{% else %}2{% endif %} class="show">{{ page.show }}</h{% if page.show_size %}{{ page.show_size }}{% else %}2{% endif %}> {% endif %}
 					</div>
 				</div>
 			</header>
