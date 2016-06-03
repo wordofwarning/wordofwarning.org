@@ -28,7 +28,7 @@ In *Daughters of the Curry Revolution*, Afreena attempts to navigate her dad’s
              
 #### Venue + Booking Details for Compact Edition        
 Dates: Friday 3 + Saturday 4 June 2016, 5pm + 6pm (*limited capacity, repeats*)          
-*Extra show added due to demand: Friday 3 June (only), 4pm*              
+*Two extra shows added due to demand: 4pm (both dates)*              
 <a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact</a>, Oxford Road, Manchester, M15 6JA         
 <a href="http://contactmcr.com/whats-on/56892-works-ahead-compact-edition/booking" target="_blank">Tickets: £4/2</a>               
 Box Office Tel: 0161 274 0600        
@@ -43,7 +43,7 @@ I am a first generation Mancunian Bangladeshi called Afreena. I tried to leave h
              
 In an intimate performance, Afreena invites you to take a seat around her dinner table as she serves up stories from her father’s past, present, and what little she imagines is left of his future. Exploring what it means to be her dad’s daughter in the context of the anti-immigration rhetoric she is surrounded by, Afreena follows her dad’s journey to this country, and his journey to this day.               
              
-"I’ve never told my dad that I love him and it would be contrived if I ever did. We’re not a very lovey-dovey family. But I guess this performance is something of a love letter, maybe?"                 
+"I've never told my dad that I love him and it would be contrived if I ever did. We’re not a very lovey-dovey family. But I guess this performance is something of a love letter, maybe?"                 
               
 #### Who is she?            
 Afreena calls herself an artist only when she's got something to say. The rest of the time she produces stuff, researches stuff, performs in stuff, sits on boards and eats posh sandwiches.               
