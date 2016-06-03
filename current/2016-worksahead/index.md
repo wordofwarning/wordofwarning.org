@@ -24,7 +24,7 @@ show_size: 3
 Two very different double bills make up our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content. [Autumn 2015](/archive/2015-autumnwinter) saw Word of Warning show over 40 emerging performances in spaces ranging from a building site to a theatre… From this enormous variety of work we have invited four artists at different stages in their careers to further develop their shows for Works Ahead 2016. They're all at the very beginning of their explorations…        
         
 **Compact Edition, 5pm + 6pm. £4/2** (*limited capacity, repeats*)        
-***Extra show added due to demand: Friday 3 June (only), 4pm***           
+***Two extra shows added due to demand: 4pm (both dates)***           
 Hidden stories and half-remembered truths from [Terri Donovan](/current/2016-worksahead/donovan) + [Afreena Islam](/current/2016-worksahead/islam).        
          
 **Evening Edition, 7.30pm. £6/3**          
@@ -49,7 +49,7 @@ Post-popular prodigy Lucy McCormick and her Girl Squad present a trashstep-dubpu
             
 #### Venue + Booking Details for Compact Edition        
 Dates: Friday 3 + Saturday 4 June 2016, 5pm + 6pm (*limited capacity, repeats*)        
-*Extra show added due to demand: Friday 3 June (only), 4pm*              
+*Two extra shows added due to demand: 4pm (both dates)*              
 <a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact</a>, Oxford Road, Manchester, M15 6JA         
 <a href="http://contactmcr.com/whats-on/56892-works-ahead-compact-edition/booking" target="_blank">Tickets: £4/2</a>               
 Box Office Tel: 0161 274 0600        
