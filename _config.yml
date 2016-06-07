@@ -1,4 +1,3 @@
-auto: true
 permalink: /:title.html
 
 mailer_signup_url: "http://eepurl.com/i_Odb"

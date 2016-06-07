@@ -1,0 +1,18 @@
+<!-- begin _includes/shared-open.html -->
+<body class="{% if page.bodyclass %}{{ page.bodyclass }}{% endif %}">
+	<div id="page">
+		{% include shared-nav.html %}
+		<article>
+			<header class="splash">
+				<div class="row">
+					<div class="twelve columns">
+					</div>
+				</div>
+				<div class="titles row">
+					<div>
+						{% if page.artist %}<h{% if page.artist_size %}{{ page.artist_size }}{% else %}1{% endif %} class="artist">{{ page.artist }}</h{% if page.artist_size %}{{ page.artist_size }}{% else %}1{% endif %}><br> {% endif %}
+						{% if page.show %}<h{% if page.show_size %}{{ page.show_size }}{% else %}2{% endif %} class="show">{{ page.show }}</h{% if page.show_size %}{{ page.show_size }}{% else %}2{% endif %}> {% endif %}
+					</div>
+				</div>
+			</header>
+<!-- end _includes/shared-open.html -->

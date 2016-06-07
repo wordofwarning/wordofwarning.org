@@ -1,0 +1,13 @@
+			<h4><a href="{% unless layout.is_index %}../{% endunless %}index.html" style="text-decoration:none;">{{ layout.season }}</a></h4>
+			{% for event in layout.events %}
+				{% if event.date %} <em>{{ event.date }}</em> {% endif %} {% if event.venue %} <em>{{ event.venue }}</em> {% endif %}
+				<h5 style="margin:5px 0 0 0; text-transform:uppercase;">{{ event.label }}</h5>
+				<ul class="menu">
+				    {% if event.rawhtmlinstead %}
+				        <li>{{ event.rawhtmlinstead }}</li>
+				    {% endif %}
+					{% for artist in event.artists %}
+						<li>{% if artist.folder %}<a href="{% unless layout.is_index %}../{% endunless %}{{artist.folder}}/index.html">{% endif %}{{ artist.name }}{% if artist.folder %}</a>{% endif %}</li>
+					{% endfor %}
+				</ul>
+			{% endfor %}
