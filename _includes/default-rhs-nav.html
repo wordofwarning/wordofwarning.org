@@ -1,5 +1,5 @@
 <h4>
-	<a href="{% unless layout.is_index %}./{% endunless %}index.html" style="text-decoration:none;">{{ layout.season }}</a>
+	<a href="{% unless layout.is_index %}../{% endunless %}index.html" style="text-decoration:none;">{{ layout.season }}</a>
 </h4>
 {% for event in layout.events %}
 	{% if event.date %} <em>{{ event.date }}</em> {% endif %}
