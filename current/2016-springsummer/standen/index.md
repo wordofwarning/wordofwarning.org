@@ -1,7 +1,7 @@
 ---
 # CONFIGURATION
 layout: 2016-springsummer
-rootpath: "../"
+rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Verity Standen" # the name of the artist or company
