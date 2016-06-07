@@ -9,21 +9,21 @@
 	<meta name="viewport" content="width=device-width" />
 	<title>Word of Warning: {{ page.season }}</title>
 
-	<link rel="stylesheet" href="{{ page.rootpath }}assets/vendor/zurb/stylesheets/foundation.css">
-	<!-- <link rel="stylesheet" href="{{ page.rootpath }}assets/vendor/zurb/stylesheets/app.css"> -->
-	<link rel="stylesheet" href="{{ page.rootpath }}assets/stylesheets/shared.css">
-	<link rel="stylesheet" href="{{ page.rootpath }}assets/stylesheets/season_styles.css">
-	
+	<link rel="stylesheet" href="{{ site.github.url }}/assets/vendor/zurb/stylesheets/foundation.css">
+	<!-- <link rel="stylesheet" href="{{ site.github.url }}/assets/vendor/zurb/stylesheets/app.css"> -->
+	<link rel="stylesheet" href="{{ site.github.url }}/assets/stylesheets/shared.css">
+	<link rel="stylesheet" href="{{ site.github.url }}/assets/stylesheets/season_styles.css">
+
 	{% if page.header_image %}
 	<style>
 		.splash
 			{background:url({{ page.header_image }}) center center !important;}
 	</style>
 	{% endif %}
-	<script src="{{ page.rootpath }}assets/vendor/zurb/javascripts/modernizr.foundation.js"></script>
+	<script src="{{ site.github.url }}/assets/vendor/zurb/javascripts/modernizr.foundation.js"></script>
 	<script type="text/javascript" src="{{ site.typekit_url }}"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-	
+
 	<!--[if lt IE 9]>
 	<link rel="stylesheet" href="assets/vendor/zurb/stylesheets/ie.css">
 	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
