@@ -28,8 +28,10 @@ Two very different double bills make up our annual sampler of what's next in con
 Hidden stories and half-remembered truths from [Terri Donovan](/current/2016-worksahead/donovan) + [Afreena Islam](/current/2016-worksahead/islam).        
          
 **Evening Edition, 7.30pm. £6/3**          
-From Dyson to the Passion — an unpredictable double bill from [Top Joe](/current/2016-worksahead/topjoe) + [Lucy McCormick](/current/2016-worksahead/mccormick).        
-        
+From Dyson to the Passion — an unpredictable double bill from [Top Joe](/current/2016-worksahead/topjoe) + [Lucy McCormick](/current/2016-worksahead/mccormick).         
+          
+Now that its over, read a review by <a href="http://quietmandave.co.uk/2016/06/works-ahead" target="_blank">Quiet Man Dave</a>.         
+          
 ### Artists        
 **Terri Donovan (Compact Edition, first part)**           
 "*Finding Elsie* is about me, my Dad, my Gran… and dementia. This is my exploration of how relationships change and continue to change in my attempt to find a true reflection of my Elsie."            
