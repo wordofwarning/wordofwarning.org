@@ -10,8 +10,16 @@
 				</div>
 				<div class="titles row">
 					<div>
-						{% if page.artist %}<h{% if page.artist_size %}{{ page.artist_size }}{% else %}1{% endif %} class="artist">{{ page.artist }}</h{% if page.artist_size %}{{ page.artist_size }}{% else %}1{% endif %}><br> {% endif %}
-						{% if page.show %}<h{% if page.show_size %}{{ page.show_size }}{% else %}2{% endif %} class="show">{{ page.show }}</h{% if page.show_size %}{{ page.show_size }}{% else %}2{% endif %}> {% endif %}
+						<!-- Creates the titles overlaying the images on the artist pages -->
+						{% if page.artist %}
+							<h{% if page.artist_size %}{{ page.artist_size }}{% else %}1{% endif %} class="artist">
+								{{ page.artist }}
+							</h{% if page.artist_size %}{{ page.artist_size }}{% else %}1{% endif %}><br> {% endif %}
+						{% if page.show %}
+							<h{% if page.show_size %}{{ page.show_size }}{% else %}2{% endif %} class="show">
+								{{ page.show }}
+							</h{% if page.show_size %}{{ page.show_size }}{% else %}2{% endif %}>
+						{% endif %}
 					</div>
 				</div>
 			</header>
