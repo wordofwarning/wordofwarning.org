@@ -4,5 +4,5 @@ layout: home
 header_image: "assets/images/header_ss2016wrn.jpg"
 
 ---
-#### Thanks to our audience, HOME, Eggs + Richard for their [irreverent première](/current/2016-springsummer/redux)… We [spring into summer](/current/2016-springsummer) with: [four artists in two very different double bills](/current/2016-worksahead) at Contact *Fri 3 + Sat 4 Jun*; [intimate dance](/current/2016-springsummer/igorandmoreno) at The Lowry *Wed 29 Jun*; [incidental intervention](/current/2016-hazard) in St Ann's Square *Sat 9 Jul*.          
-*Please note our website is currently experiencing layout issues and is unfortunately not looking or operating as we expect it to.*
+#### Warm thanks to our [Works Ahead](/current/2016-worksahead) artists, audiences and all at Contact… We round off our [spring/summer season](/current/2016-springsummer) with an [intimate dance](/current/2016-springsummer/igorandmoreno) at The Lowry *Wed 29 Jun, 8pm* and [incidental interventions](/current/2016-hazard) in St Ann's Square *Sat 9 Jul, 12-5pm*.          
+*Please note: our website is currently experiencing layout issues and is unfortunately not looking or operating as we would expect it to.*
