@@ -7,7 +7,7 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Hazard 2016" # the name of the artist or company
-show: "Incidental intervention and sited performance." # the name of the show
+show: "Incidental intervention<br>and sited performance." # the name of the show
 artist_size: 1
 show_size: 4
 
@@ -25,10 +25,10 @@ Incidental intervention and sited performance…<br>Cheeky, thought-provoking sp
 #### Venue + Booking Details        
 Date: Saturday 9 July, 12noon-5pm                
 Venue: within <a href="http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" target="_blank">St Ann's Square, Manchester, M2 7LF</a> and surrounding streets.       
-Tickets: FREE/unticketed, turn up + discover activity around the square.            
+Tickets: FREE/unticketed, turn up and discover activity around the square.            
                 
 #### More         
-Manchester's stripiest festival returns to unleash a sixth wave of bizarre behaviour on the city centre, blurring the boundaries between art and activism… random actions, strange antics + ludic activities.          
+Manchester's stripiest festival returns to unleash a sixth wave of bizarre behaviour on the city centre, blurring the boundaries between art and activism… random actions, strange antics and ludic activities.          
          
 <iframe src="https://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" width="640" height="480"></iframe>        
          
