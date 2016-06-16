@@ -1,13 +1,13 @@
 ---
 # CONFIGURATION
-layout: 2016-haphazard
+layout: 2016-hazard
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Haphazard 2016"
-show: "Artists + Activity, 12noon-4pm"
+artist: "Hazard 2016"
+show: "Programme"
 artist_size: 1
-show_size: 3
+show_size: 1
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -15,70 +15,59 @@ show_size: 3
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*A free event for the curious of all ages, presented by* Word of Warning *+* Z-arts*<br>Turn up at Z-arts any time from 12noon to 4pm, come and go as you please…*        
-        
-#### Venue + Booking Details, for Haphazard        
-Date: Saturday 20 February 2016, 12noon-4pm      
-<a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA        
-Entry is FREE, come and go as you please (*N.B. no ticket booking required; †Some activity will operate on a first-come, first-served basis*).        
-Venue Tel: 0161 232 6089        
+*A free (unticketed) afternoon of incidental intervention and sited performance in Manchester City Centre, presented by Word of Warning. Aimed for you to encounter by chance, turn up at any time from 12 noon to 5pm and discover activity in and around St Ann's Square…*          
          
-#### Timed Activity (*subject to change*)        
-**12.30pm, 1.30pm, 2.30pm, 3.30pm — Katy Dye | *RATS!***        
-Crawling in our kitchens and blocking up our drainpipes, nibbling at our cornflakes and scratching at our doorsteps… dirty, smelly, flea-bitten, disease-ridden, ugly, amazing *RATS!* A 10 minute performance that explores rodent reputation and tries to redress the balance — after all, it's a hard life being a rat!         
-<a href="http://twitter.com/katydye1" target="_blank">@katydye1</a>        
-        
-**1pm & 3pm — Marcus Orlandi | *Two Reeler* †**        
-Inspired by the early era films of Chaplin, Keaton and Lloyd, everyday household objects are misused, misunderstood and confused. A 15 minute performance — expect slapstick, awkwardness and tuneless song!        
-<a href="http://twitter.com/lostmyshoes80" target="_blank">@lostmyshoes80</a>        
+#### Venue + Booking Details        
+Date: Saturday 9 July, 12noon-5pm                
+Venue: within <a href="http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" target="_blank">St Ann's Square, Manchester, M2 7LF</a> and surrounding streets.       
+Tickets: FREE/unticketed, turn up and discover activity around the square.            
+                
+#### Artists + Activity (*subject to change*)         
+**Aidan Strudwick | *Human Mini-Golf***           
+… Like mini-golf.          
+           
+**Alex Bradley + Bill Leslie | *COME AS YOU ARE (guerrilla mix 1.0)***          
+Surtitling the public's personal sense of expression — a playful set of 'in the moment' incidents.          
          
-**2pm — Eilidh MacAskill + Rosana Cade | *Gendersaurus Rex: The Clothes Show* <small>(header image)</small>**        
-Meet the *Gendersaurus Rex* — the genial host of this gender-busting fashion show like no other — a 15 minute performance… with dinosaurs!        
-<a href="http://twitter.com/EilidhUkulele" target="_blank">@EilidhUkulele</a> <a href="http://twitter.com/RosanaCade" target="_blank">@RosanaCade</a> <a href="http://twitter.com/GendersaurusRex" target="_blank">@GendersaurusRex</a> | <a href="http://facebook.com/gendersaurus" target="_blank">Gendersaurus Facebook</a>        
-        
-#### Activity All Afternoon (*subject to change*)        
-**Artizani | *The Bees: Colony***        
-Multiple handmade hives, each hiding an unexpected honey-scented world to challenge, charm and confound expectation. Tended by ethereal beekeepers, visitors participate in multi-sensory micro-experiences of sight, sound, taste, smell and touch.        
-<a href="http://twitter.com/ArtizaniUK" target="_blank">@ArtizaniUK</a> | <a href="http://facebook.com/Artizani-131426260302569" target="_blank">Artizani Facebook</a>         
-        
->*Bees!… has done much to raise the quality of outdoor performing arts… something different and distinctive* — Lyn Gardner, The Guardian         
-        
-**Doris La Trine | *Flushed!***        
-Doris La Trine has finally come out of her (water) closet as it's time she said goodbye to her beloved Len, her golden giant toilet, a queer couple. A feminist visual and physical tragic-comedy.         
-<a href="http://twitter.com/DorisLaTrine" target="_blank">@DorisLaTrine</a>        
-        
-**Flipbook People | *Flipbook Live* †**        
-Remember body flipbooks? Some of the characters have come to life! And you have an opportunity to join them as a flipbook character of your own creation: a 'swimming cowboy clown' or 'hula dancing doctor king'. It's up to you!        
-<a href="http://twitter.com/FiSimpo" target="_blank">@FiSimpo</a> + <a href="http://twitter.com/shaunwykes" target="_blank">@shaunwykes</a>        
-        
-**Gareth Cutter | *I Am A Volcano***        
-A volcano is getting ready to erupt… active and ominous, this volcano isn't magma-powered but fuelled by voice alone. The more sounds you add the more unpredictable it becomes, in a collective climactic audience shout, hiss, or growl…        
-<a href="http://twitter.com/garethcutter" target="_blank">@garethcutter</a> | <a href="http://facebook.com/garethcutterartist" target="_blank">Gareth Cutter Facebook</a>        
-        
-**Katy Baird | *The Free Market***        
-Katy is selling her entire wardrobe — in a bid to change herself. Don't bring cash, but bring your ideas and get rid of those February blues in this sale of the season. *Everything must go!*        
-<a href="http://twitter.com/katy_baird" target="_blank">@katy_baird</a>        
-        
-**Left Leg Gallery | *Crazy F.O.R.E***        
-Crazy Golf meets action painting. Load your golf ball with paint and aim for a hole in one! Check out videos <a href="http://vimeo.com/154595130" target="_blank">here</a> + <a href="http://vimeo.com/154595129" target="_blank">here</a>.        
-<a href="http://twitter.com/LeftLegGallery" target="_blank">@LeftLegGallery</a> | <a href="http://facebook.com/LeftLegGallery" target="_blank">Left Leg Gallery Facebook</a>
-     
-**Lucy McCormick | *Animal Study***        
-Part Disney film, part #LOLcat vine: Man is Dog, Woman is Cat but without the furry façade. A roaming challenge to sensible public behaviour.<br>*Can you see the kitty? Perhaps she is sitting on the wall. Oh look there's a doggy too, and he wants to play!*        
-<a href="http://twitter.com/lucy_muck" target="_blank">@lucy_muck</a>       
-        
-**Matt Girling | *Pastures new***       
-Watch the unfolding of a strange and exciting tiny world, ready to be inhabited by YOUR creativity.       
-<a href="http://twitter.com/GirlingMatt" target="_blank">@GirlingMatt</a>            
-        
-**Same Difference | *A Few Feet Up***         
-Just above our heads is an entirely different and unexplored realm — always present but just out of reach. Use our giant periscope to see a familiar place anew for a literal and metaphorical change of perspective.        
-<a href="http://twitter.com/samediff_art" target="_blank">@samediff_art</a> | <a href="http://facebook.com/SameDifferenceart" target="_blank">Same Difference Facebook</a>        
-        
-**Travelling Lights | *Ludicrously Luminous***        
-Digital meets steampunk in this mesmerising lightshow, as a spiral of light colour and pattern swirls above your head. An eccentric trio of machines — re-fashioned beer pumps, an old laundry mangle and the mysterious Helical Morphosis Configurator — put the control in your hands.        
-<a href="http://twitter.com/TL_Circus" target="_blank">@TL_Circus</a> | <a href="http://facebook.com/Travelling.Light.Circus" target="_blank">Travelling Light Circus Facebook</a>
-        
-#### Credits         
-Produced by hÅb + Z-arts; supported using public funding by Arts Council England + funded by Manchester City Council; supported by the Paul Hamlyn Foundation Breakthrough Fund.        
-<a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | <a href="http://twitter.com/hashtag/Haphazard" target="_blank">#Haphazard</a> | <a href="http://www.facebook.com/events/539217769586878" target="_blank">Haphazard 2016 on Facebook</a>
+**Ali Wilson + Jessica Gibson | *Pair of Pears***          
+We are a pair of Pears and we are looking for each other. 3—2—1—GO!          
+         
+**Charlotte CHW | *Caution: Falling…***         
+Falling isn't a work of art but nor is it a crime. People are doing it in public every day. We just choose not to see it.             
+           
+**Dominique Baron-Bonarjee | *Collapse Manchester***             
+A "slow-mob" exploring the pace of the city through the speed of the body.           
+            
+**Elena Koukoli + Andreas Papapetrou | *Out of Thin Air***           
+An unexpected performance exploring emptiness and excess — imaginative, meditative, provoking and joyful.             
+
+**Full Circle Arts + Playfuel | *Box Society***        
+A game about our society, the pressure to fit in and the hurdles we face navigating our daily lives with different means and abilities.          
+           
+**Instant Dissidence | *Dancing with Strangers: From Calais to England***          
+A choreographic act of order transgression: dance with a resident from The Jungle refugee camp in Calais, in a virtual dance making connection across borders.          
+         
+**Jin Bells | *Head in Hole 2016***         
+Floating, completely still with my head buried in a hole in a wall… this meaningless action seeks to confront its audience, whether they are suspecting or not…           
+
+**Nathaniel Mason | *Occupied***          
+Dying, desperate, gagging, bursting. This archive of public convenience is made by the people for the people.           
+            
+**Output Arts | *Running with Scissors***         
+The ultimate in hazardous track games.        
+         
+**Sexcentenary | *WE REFUSE TO BE UNSEEN***         
+Using humour and a sense of the absurd, a collective of women who identify as older, set about disrupting the flow of public spaces.         
+          
+**There There | *Text HOME***          
+A durational invasion of immigration advice.          
+          
+**unearthed collective | *Inflated Hazard — dicing with dystopia***         
+Roll the giant inflatable dice — dice with dystopia and explore the hazards of our times.         
+         
+**Vivian Chinasa Ezugha | *Because of hair***         
+"I am not historical, I am not futuristic, I am not the old nor am I the new. I am but an object made from human hair. My purpose is to disturb, to interrupt your contemplation and seduce your vision; so that I become an image of your imagination."                
+          
+#### Credits        
+[Hazard](/hab/hazard) 2016 is produced by [hÅb](/hab), in collaboration with the participating artists; supported using public funding by Arts Council England + funded by Manchester City Council. | Header image: Antje Hildebrandt, 2014         
+<a href="http://hazardmcr.org" target="_blank">hazardmcr.org</a> | <a href="http://twitter.com/HazardMcr" target="_blank">@HazardMcr</a> | <a href="http://twitter.com/hashtag/HazardMcr" target="_blank">#HazardMcr</a>
