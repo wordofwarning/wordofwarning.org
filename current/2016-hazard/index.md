@@ -27,13 +27,15 @@ Date: Saturday 9 July, 12noon-5pm
 Venue: within <a href="http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" target="_blank">St Ann's Square, Manchester, M2 7LF</a> and surrounding streets.       
 Tickets: FREE/unticketed, turn up and discover activity around the square.            
                 
-#### More         
-Manchester's stripiest festival returns to unleash a sixth wave of bizarre behaviour on the city centre, blurring the boundaries between art and activism… random actions, strange antics and ludic activities.          
-         
+#### Artists + Activity (*subject to change*)         
+Aidan Strudwick | Alex Bradley + Bill Leslie | Ali Wilson + Jessica Gibson | Charlotte CHW | Dominique Baron-Bonarjee | Elena Koukoli + Andreas Papapetrou | Full Circle Arts + Playfuel | Instant Dissidence | Jin Bells | Nathaniel Mason | Output Arts | Sexcentenary | There There | unearthed collective | Vivian Chinasa Ezugha               
+          
+For a glimpse of previous outbreaks of hazardous behaviour see 2014's [image gallery](/galleries/2014-hazard) + [programme](/archive/2014-hazard), or delve further with 2012's [gallery](/galleries/2012-hazard) + [programme](/archive/2012-hazard).          
 <iframe src="https://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" width="640" height="480"></iframe>        
-         
-Hazard is really aimed for you to encounter by chance, and will be paperless on the day — participating artists and a schedule will appear here during June.<br>For a glimpse of previous outbreaks of hazardous behaviour see 2014's [image gallery](/galleries/2014-hazard) + [programme](/archive/2014-hazard), or delve further with 2012's [gallery](/galleries/2012-hazard) + [programme](/archive/2012-hazard).
-         
+
+#### More             
+Manchester's stripiest festival returns to unleash a sixth wave of bizarre behaviour on the city centre, blurring the boundaries between art and activism… random actions, strange antics and ludic activities. Aimed for you to encounter by chance, Hazard 2016 will be paperless on the day — a schedule will appear here in late June.           
+          
 #### Credits        
 [Hazard](/hab/hazard) 2016 is produced by [hÅb](/hab), in collaboration with the participating artists; supported using public funding by Arts Council England + funded by Manchester City Council. | Header image: Antje Hildebrandt, 2014         
 <a href="http://hazardmcr.org" target="_blank">hazardmcr.org</a> | <a href="http://twitter.com/hashtag/HazardMcr" target="_blank">#HazardMcr</a>
