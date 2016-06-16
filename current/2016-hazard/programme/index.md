@@ -15,7 +15,7 @@ show_size: 1
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*A free (unticketed) afternoon of incidental intervention and sited performance in Mcr City Centre, presented by Word of Warning on Saturday 9 July: turn up at any time from 12 noon to 5pm and discover activity in and around St Ann's Square…*          
+*A free afternoon of incidental intervention and sited performance in Mcr City Centre, presented by Word of Warning on Saturday 9 July: turn up at any time from 12 noon to 5pm and discover activity around <a href="http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" target="_blank">St Ann's Square</a>…*          
          
 #### Venue + Booking Details        
 Date: Saturday 9 July, 12noon-5pm                
