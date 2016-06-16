@@ -7,7 +7,7 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Hazard 2016" # the name of the artist or company
-show: "Incidental intervention<br>and sited performance." # the name of the show
+show: "Incidental intervention<br> and sited performance." # the name of the show
 artist_size: 1
 show_size: 4
 
