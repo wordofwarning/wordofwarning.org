@@ -28,7 +28,7 @@ Venue: within <a href="http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwd
 Tickets: FREE/unticketed, turn up and discover activity around the square.            
                 
 #### Artists (*subject to change*)         
-Aidan Strudwick | Alex Bradley + Bill Leslie | Ali Wilson + Jessica Gibson | Charlotte CHW | Dominique Baron-Bonarjee | Elena Koukoli + Andreas Papapetrou | Full Circle Arts + Playfuel | Instant Dissidence | Jin Bells | Nathaniel Mason | Output Arts | Sexcentenary | There There | unearthed collective | Vivian Chinasa Ezugha               
+Aidan Strudwick | Alex Bradley + Bill Leslie | Ali Wilson + Jessica Gibson | Charlotte CHW | Dominique Baron-Bonarjee | Elena Koukoli + Andreas Papapetrou | Full Circle Arts + Playfuel | Instant Dissidence | Jin Bells | Nathaniel Mason | Output Arts | Sexcentenary | There There | un-earthed collective | Vivian Chinasa Ezugha               
           
 For a glimpse of previous outbreaks of hazardous behaviour see 2014's [image gallery](/galleries/2014-hazard) + [programme](/archive/2014-hazard), or delve further with 2012's [gallery](/galleries/2012-hazard) + [programme](/archive/2012-hazard).          
 <iframe src="http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" width="640" height="480"></iframe>        

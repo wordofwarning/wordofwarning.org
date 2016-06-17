@@ -62,7 +62,7 @@ Using humour and a sense of the absurd, a collective of women who identify as ol
 **There There | *Text HOME***          
 A durational invasion of immigration advice.          
           
-**unearthed collective | *Inflated Hazard — dicing with dystopia***         
+**un-earthed collective | *Inflated Hazard — dicing with dystopia***         
 Roll the giant inflatable dice — dice with dystopia and explore the hazards of our times.         
          
 **Vivian Chinasa Ezugha | *Because of hair***         
