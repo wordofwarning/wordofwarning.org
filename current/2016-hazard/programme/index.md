@@ -24,7 +24,7 @@ Tickets: FREE/unticketed, turn up and discover activity around the square.
                 
 #### Artists + Activity (*subject to change*)         
 **Aidan Strudwick | *Human Mini-Golf***           
-… Like mini-golf.          
+Like mini-golf but fun for a change.           
            
 **Alex Bradley + Bill Leslie | *COME AS YOU ARE (guerrilla mix 1.0)***          
 Surtitling the public's personal sense of expression — a playful set of 'in the moment' incidents.          
@@ -45,7 +45,7 @@ An unexpected performance exploring emptiness and excess — imaginative, medita
 A game about our society, the pressure to fit in and the hurdles we face navigating our daily lives with different means and abilities.          
            
 **Instant Dissidence | *Dancing with Strangers: From Calais to England***          
-A choreographic act of order transgression: dance with a resident from The Jungle refugee camp in Calais, in a virtual dance making connection across borders.          
+A choreographic act of border transgression: dance with a resident from The Jungle refugee camp in Calais, in a virtual dance making connection across borders.          
          
 **Jin Bells | *Head in Hole 2016***         
 Floating, completely still with my head buried in a hole in a wall… this meaningless action seeks to confront its audience, whether they are suspecting or not…           
