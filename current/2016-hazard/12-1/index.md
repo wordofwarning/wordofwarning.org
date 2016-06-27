@@ -16,36 +16,16 @@ show_size: 3
 
 ---
 *A free afternoon of incidental intervention and sited performance in Mcr City Centre, presented by Word of Warning on Saturday 9 July: turn up at any time from 12 noon to 5pm and discover activity around <a href="http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" target="_blank">St Ann's Square</a>…*            
-         
-#### 1.30-2pm + 3.30-4pm            
-**Charlotte CHW | *Caution: Falling…***         
-Falling isn't a work of art but nor is it a crime. People are doing it in public every day. We just choose not to see it.             
-           
-#### 2.10-2.30pm           
-**Dominique Baron-Bonarjee | *Collapse Manchester***             
-A "slow-mob" exploring the pace of the city through the speed of the body.           
-            
-#### 1.40-2pm + 3.40-4pm           
-**Elena Koukoli + Andreas Papapetrou | *Out of Thin Air***           
-An unexpected performance exploring emptiness and excess — imaginative, meditative, provoking and joyful.             
           
-#### 12.30-1pm + 1.30-2pm + 2.30-3pm + 3.30-4pm + 4.30-5pm           
+#### 12noon-12.05pm           
+**Output Arts | *Running with Scissors***         
+The ultimate in hazardous track games.        
+          
+#### 12.30-1pm           
 **Jin Bells | *Head in Hole 2016***         
 Floating, completely still with my head buried in a hole in a wall… this meaningless action seeks to confront its audience, whether they are suspecting or not…           
           
-#### 12noon-12.05pm + 1-1.05pm + 2-2.05pm + 3-3.05pm + 4-4.05pm           
-**Output Arts | *Running with Scissors***         
-The ultimate in hazardous track games.        
-         
-#### 1-4pm           
-**There There | *Text HOME***          
-A durational invasion of immigration advice.          
-          
-#### 2.30-3.30pm           
-**Vivian Chinasa Ezugha | *Because of hair***         
-"I am not historical, I am not futuristic, I am not the old nor am I the new. I am but an object made from human hair. My purpose is to disturb, to interrupt your contemplation and seduce your vision; so that I become an image of your imagination."               
-          
-#### [Ongoing, happening 12noon-5pm](/current/2016-hazard/ongoing):              
+#### [Also happening all afternoon 12noon-5pm](/current/2016-hazard/12-5):              
 **Aidan Strudwick | *Human Mini-Golf***           
 Like mini-golf but fun for a change.           
            
