@@ -17,14 +17,6 @@ show_size: 3
 ---
 *A free afternoon of incidental intervention and sited performance in Mcr City Centre, presented by Word of Warning on Saturday 9 July: turn up at any time from 12 noon to 5pm and discover activity around <a href="http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" target="_blank">St Ann's Square</a>…*            
            
-#### 12noon-12.05pm           
-**Output Arts | *Running with Scissors***         
-The ultimate in hazardous track games.        
-           
-#### 12.30-1pm           
-**Jin Bells | *Head in Hole 2016***         
-Floating, completely still with my head buried in a hole in a wall… this meaningless action seeks to confront its audience, whether they are suspecting or not…           
-           
 #### [Ongoing activity 12noon-5pm](/current/2016-hazard/ongoing):              
 **Aidan Strudwick | *Human Mini-Golf***           
 Like mini-golf but fun for a change.           
