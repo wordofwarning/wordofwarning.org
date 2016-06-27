@@ -1,5 +1,4 @@
 ---
-
 # CONFIGURATION
 layout: 2016-hazard
 rootpath: "../../../"
@@ -9,14 +8,68 @@ artist: "Hazard 2016"
 show: "Happening 12noon-1pm"
 artist_size: 1
 show_size: 3
-header_image: ""
+
+# ABOUT THE SHOW - LAYOUT
+# artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
+# show_size: 2 # optional - size of show name 2-5. Default is 2. Set longer names to lower values
+# header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Part of* Hazard 2016, *presented by* Word of Warning       
-     
-####Venue + Booking Details        
-                           
-                
-####12noon-12.10pm (starts 11.45am)        
-
-####[Ongoing activity, happens all afternoon (12noon-5pm)](/current/2016-hazard/ongoing):                
+*A free afternoon of incidental intervention and sited performance in Mcr City Centre, presented by Word of Warning on Saturday 9 July: turn up at any time from 12 noon to 5pm and discover activity around <a href="http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" target="_blank">St Ann's Square</a>…*            
+         
+#### 1.30-2pm + 3.30-4pm            
+**Charlotte CHW | *Caution: Falling…***         
+Falling isn't a work of art but nor is it a crime. People are doing it in public every day. We just choose not to see it.             
+           
+#### 2.10-2.30pm           
+**Dominique Baron-Bonarjee | *Collapse Manchester***             
+A "slow-mob" exploring the pace of the city through the speed of the body.           
+            
+#### 1.40-2pm + 3.40-4pm           
+**Elena Koukoli + Andreas Papapetrou | *Out of Thin Air***           
+An unexpected performance exploring emptiness and excess — imaginative, meditative, provoking and joyful.             
+          
+#### 12.30-1pm + 1.30-2pm + 2.30-3pm + 3.30-4pm + 4.30-5pm           
+**Jin Bells | *Head in Hole 2016***         
+Floating, completely still with my head buried in a hole in a wall… this meaningless action seeks to confront its audience, whether they are suspecting or not…           
+          
+#### 12noon-12.05pm + 1-1.05pm + 2-2.05pm + 3-3.05pm + 4-4.05pm           
+**Output Arts | *Running with Scissors***         
+The ultimate in hazardous track games.        
+         
+#### 1-4pm           
+**There There | *Text HOME***          
+A durational invasion of immigration advice.          
+          
+#### 2.30-3.30pm           
+**Vivian Chinasa Ezugha | *Because of hair***         
+"I am not historical, I am not futuristic, I am not the old nor am I the new. I am but an object made from human hair. My purpose is to disturb, to interrupt your contemplation and seduce your vision; so that I become an image of your imagination."               
+          
+#### [Ongoing, happening 12noon-5pm](/current/2016-hazard/ongoing):              
+**Aidan Strudwick | *Human Mini-Golf***           
+Like mini-golf but fun for a change.           
+           
+**Alex Bradley + Bill Leslie | *COME AS YOU ARE (guerrilla mix 1.0)***          
+Surtitling the public's personal sense of expression — a playful set of 'in the moment' incidents.          
+         
+**Ali Wilson + Jessica Gibson | *Pair of Pears***          
+We are a pair of Pears and we are looking for each other. 3—2—1—GO!          
+         
+**Full Circle Arts + Playfuel | *Box Society***        
+A game about our society, the pressure to fit in and the hurdles we face navigating our daily lives with different means and abilities.          
+           
+**Instant Dissidence | *Dancing with Strangers: From Calais to England***          
+A choreographic act of border transgression: dance with a resident from The Jungle refugee camp in Calais, in a virtual dance making connection across borders.          
+         
+**Nathaniel Mason | *Occupied***          
+Dying, desperate, gagging, bursting. This archive of public convenience is made by the people for the people.           
+            
+**Sexcentenary | *WE REFUSE TO BE UNSEEN***         
+Using humour and a sense of the absurd, a collective of women who identify as older, set about disrupting the flow of public spaces.         
+          
+**un-earthed collective | *Inflated Hazard — dicing with dystopia***         
+Roll the giant inflatable dice — dice with dystopia and explore the hazards of our times.         
+         
+#### Credits        
+[Hazard](/hab/hazard) 2016 is produced by [hÅb](/hab), in collaboration with the participating artists; supported using public funding by Arts Council England + funded by Manchester City Council. | Header image: Antje Hildebrandt, 2014         
+<a href="http://hazardmcr.org" target="_blank">hazardmcr.org</a> | <a href="http://twitter.com/HazardMcr" target="_blank">@HazardMcr</a> | <a href="http://twitter.com/hashtag/HazardMcr" target="_blank">#HazardMcr</a>
