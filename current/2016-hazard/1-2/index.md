@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Hazard 2016"
-show: "Happening 12noon-1pm"
+show: "Happening 1-2pm"
 artist_size: 1
 show_size: 3
 
@@ -17,13 +17,25 @@ show_size: 3
 ---
 *A free afternoon of incidental intervention and sited performance in Mcr City Centre, presented by Word of Warning on Saturday 9 July: turn up at any time from 12 noon to 5pm and discover activity around <a href="http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" target="_blank">St Ann's Square</a>…*            
           
-#### 12noon-12.05pm           
+#### 1-1.05pm + 1.30-1.35pm           
 **Output Arts | *Running with Scissors***         
 The ultimate in hazardous track games.        
           
-#### 12.30-1pm           
+#### 1.10-1.30pm
+**un-earthed collective | *Inflated Hazard — dicing with dystopia***         
+Roll the giant inflatable dice — dice with dystopia and explore the hazards of our times.         
+         
+#### 1.30-2pm           
 **Jin Bells | *Head in Hole 2016***         
 Floating, completely still with my head buried in a hole in a wall… this meaningless action seeks to confront its audience, whether they are suspecting or not…           
+          
+#### 1.30-2pm            
+**Charlotte CHW | *Caution: Falling…***         
+Falling isn't a work of art but nor is it a crime. People are doing it in public every day. We just choose not to see it.             
+         
+#### 1.40-2pm + 3.40-4pm           
+**Elena Koukoli + Andreas Papapetrou | *Out of Thin Air***           
+An unexpected performance exploring emptiness and excess — imaginative, meditative, provoking and joyful.             
           
 #### [Ongoing activity 12noon-5pm](/current/2016-hazard/ongoing):             
 **Aidan Strudwick | *Human Mini-Golf***           
@@ -46,7 +58,7 @@ Dying, desperate, gagging, bursting. This archive of public convenience is made 
             
 **Sexcentenary | *WE REFUSE TO BE UNSEEN***         
 Using humour and a sense of the absurd, a collective of women who identify as older, set about disrupting the flow of public spaces.         
-          
+           
 **un-earthed collective | *Inflated Hazard — dicing with dystopia***         
 Roll the giant inflatable dice — dice with dystopia and explore the hazards of our times.         
          
