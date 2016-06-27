@@ -25,7 +25,7 @@ The ultimate in hazardous track games.
 **Jin Bells | *Head in Hole 2016***         
 Floating, completely still with my head buried in a hole in a wall… this meaningless action seeks to confront its audience, whether they are suspecting or not…           
           
-#### [Also happening all afternoon 12noon-5pm](/current/2016-hazard/12-5):              
+#### [Ongoing activity 12noon-5pm](/current/2016-hazard/ongoing):             
 **Aidan Strudwick | *Human Mini-Golf***           
 Like mini-golf but fun for a change.           
            
