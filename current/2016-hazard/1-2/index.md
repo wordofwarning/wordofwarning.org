@@ -18,30 +18,42 @@ header_image: "header_therethere.jpg"
 ---
 *A free afternoon of incidental intervention and sited performance in Mcr City Centre, presented by Word of Warning on Saturday 9 July: turn up at any time from 12 noon to 5pm and discover activity around <a href="http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" target="_blank">St Ann's Square</a>…*            
           
-#### 1-4pm           
+                            
 **There There | *Text HOME***          
-A durational invasion of immigration advice.          
-          
-#### 1-1.05pm + 1.30-1.35pm           
+*Text HOME to 78070* is a durational performative invasion of immigration advice. It sees two stereotypical Eastern Europeans occupy public spaces to distribute first-hand tips on everything from getting a work permit to navigating the NHS, helping immigrants integrate and endanger the British way.    
+*Text HOME to 78070* is the brainchild of There There, a 100% Eastern European performance company conjured up by Dana Olărescu and Bojana Janković. Originally commissioned by Giving in to Gift.    
+                    
 **Output Arts | *Running with Scissors***         
-The ultimate in hazardous track games.        
-          
-#### 1.10-1.30pm
+Output Arts presents the ultimate in hazardous track games: *Running with Scissors* gives you the opportunity to really test your metal. Fabulous prizes to be won!    
+Output Arts produces playful and poignant site-specific installations: drawing with light under a flyover; searching for stories of loss on the beach with mumbling metal detectors; a motion-triggered ringing WWII telephone in a shopping centre.    
+<a href="https://www.outputarts.com/" target="_blank">outputarts.com</a> | @outputarts on Twitter, Facebook, Instagram and Vimeo.    
+               
 **un-earthed collective | *Inflated Hazard — dicing with dystopia***         
-Roll the giant inflatable dice — dice with dystopia and explore the hazards of our times. (Plus ongoing interaction all afternoon.)         
-         
-#### 1.30-2pm           
+*Roll the dice, inflate the hazard...*    
+Every generation has its defining threat: a world at war; nuclear holocaust; climate change; terrorism. A dystopian vision of the future; hazard on the horizon. The corporate media inflates these threats with sensationalism, while politicians and the state use fear as a political tool. What effect does this inflation of fear and the perception of risk have on us individually and collectively?    
+How the story is told has an effect.    
+This interactive intervention invites the audience to roll giant inflatable dice in the street, allowing chance to dictate elements of what follows, in stories of migration, climate change and war/terrorism. Participants then have a chance to tell a different story.    
+This playful, provocative performance is an exploration of the stories of the hazards and threats of our times and how they shape us. Whether we are witnessing ecological collapse and social unravelling or transitioning to a more sustainable, conscious and connected society is up to you. We can choose whether we live our lives by a story that shuts us down with fear, or empowers us with hope and inspiration.    
+*What happens next? You decide.*    
+
+un-earthed collective is a collective of artists, researchers and activists working together to tell the untold stories of our times through film and live performance.    
+nb timed performances plus ongoing installation.    
+          
 **Jin Bells | *Head in Hole 2016***         
-Floating, completely still with my head buried in a hole in a wall… this meaningless action seeks to confront its audience, whether they are suspecting or not…           
-          
-#### 1.30-2pm            
+Floating, completely still with my head buried in a hole in a wall… this meaningless action seeks to confront its audience, whether they are suspecting or not…    
+
+Emerging Manchester artist Jin Bells works between theatre and performance art and has undertaken a residency at CRASH2016 and has upcoming performances at Islington Mill, Salford and Tempting Failure Festival, London.    
+               
 **Charlotte CHW | *Caution: Falling…***         
-Falling isn't a work of art but nor is it a crime. People are doing it in public every day. We just choose not to see it.             
-         
-#### 1.40-2pm           
+Falling down, falling from grace, falling off, falling out.     
+But falling isn't a work of art? People are doing it in public everyday. We just choose not to see it.    
+You may not see her today, genuinely. She fights to conceal her public fall, but only so much privacy can ever be afforded in public and falling is not a crime.  
+*Caution: Falling...* is a new movement-based public intervention by Charlotte CHW exploring collective anxiety and self absorption through absurdity.    
+      
 **Elena Koukoli + Andreas Papapetrou | *Out of Thin Air***           
-An unexpected performance exploring emptiness and excess — imaginative, meditative, provoking and joyful.             
-          
+Movement, voice and the rustling whisper of escaping air fill the Square momentarily with colour and noise.  This meditation on emptiness and excess, scored by a soundtrack of deflation, invites its audience to take a deep breath and explore…    
+A collaborative project between choreographer Elena Koukoli and composer Andreas Papapetrou.    
+ 
 #### [These activities happen all afternoon, 12noon-5pm](/current/2016-hazard/ongoing)             
 **Aidan Strudwick | *Human Mini-Golf***           
 Like mini-golf but fun for a change.           
