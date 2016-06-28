@@ -8,6 +8,7 @@ artist: "Hazard 2016"
 show: "Programme"
 artist_size: 1
 show_size: 1
+header_image: "header_golf.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
