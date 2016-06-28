@@ -8,7 +8,7 @@ artist: "Hazard 2016"
 show: "Activity 3-4pm"
 artist_size: 1
 show_size: 2
-header_image: "header_caya.jpg"
+header_image: "header_vivian.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
