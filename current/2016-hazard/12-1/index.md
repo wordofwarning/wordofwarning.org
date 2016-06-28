@@ -5,10 +5,10 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Hazard 2016"
-show: "Activity 4-5pm"
+show: "Activity 12noon-1pm"
 artist_size: 1
 show_size: 2
-header_image: "header_jin.jpg"
+header_image: "header_unearth.jpg"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
