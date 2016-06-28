@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Hazard 2016"
-show: "Happening 3-4pm"
+show: "Activity 3-4pm"
 artist_size: 1
 show_size: 3
 
@@ -17,21 +17,21 @@ show_size: 3
 ---
 *A free afternoon of incidental intervention and sited performance in Mcr City Centre, presented by Word of Warning on Saturday 9 July: turn up at any time from 12 noon to 5pm and discover activity around <a href="http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" target="_blank">St Ann's Square</a>…*            
           
-#### 3-3.30pm (commences 2.30pm)           
-**Vivian Chinasa Ezugha | *Because of hair***         
-"I am not historical, I am not futuristic, I am not the old nor am I the new. I am but an object made from human hair. My purpose is to disturb, to interrupt your contemplation and seduce your vision; so that I become an image of your imagination."               
-         
-#### 3-4pm (commences 1pm)           
+#### 1-4pm           
 **There There | *Text HOME***          
 A durational invasion of immigration advice.          
           
+#### 2.30-3.30pm           
+**Vivian Chinasa Ezugha | *Because of hair***         
+"I am not historical, I am not futuristic, I am not the old nor am I the new. I am but an object made from human hair. My purpose is to disturb, to interrupt your contemplation and seduce your vision; so that I become an image of your imagination."               
+         
 #### 3-3.05pm + 3.30-3.35pm           
 **Output Arts | *Running with Scissors***         
 The ultimate in hazardous track games.        
           
 #### 3.10-3.30pm             
 **un-earthed collective | *Inflated Hazard — dicing with dystopia***         
-Roll the giant inflatable dice — dice with dystopia and explore the hazards of our times.         
+Roll the giant inflatable dice — dice with dystopia and explore the hazards of our times. (Plus ongoing interaction all afternoon.)         
          
 #### 3.30-4pm           
 **Jin Bells | *Head in Hole 2016***         
@@ -67,6 +67,9 @@ Dying, desperate, gagging, bursting. This archive of public convenience is made 
 **Sexcentenary | *WE REFUSE TO BE UNSEEN***         
 Using humour and a sense of the absurd, a collective of women who identify as older, set about disrupting the flow of public spaces.         
          
+#### Discover what else is happening by clicking on a time below            
+**Activities each hour… [12noon-1pm](/current/2016-hazard/12-1) | [1-2pm](/current/2016-hazard/1-2) | [2-3pm](/current/2016-hazard/2-3) | [4-5pm](/current/2016-hazard/4-5)**            
+         
 #### Credits        
-[Hazard](/hab/hazard) 2016 is produced by [hÅb](/hab), in collaboration with the participating artists; supported using public funding by Arts Council England + funded by Manchester City Council. | Header image: Antje Hildebrandt, 2014         
+[Hazard](/hab/hazard) 2016 is produced by [hÅb](/hab), in collaboration with the participating artists; supported using public funding by Arts Council England + funded by Manchester City Council. Thanks to the Royal Exchange Theatre.         
 <a href="http://hazardmcr.org" target="_blank">hazardmcr.org</a> | <a href="http://twitter.com/HazardMcr" target="_blank">@HazardMcr</a> | <a href="http://twitter.com/hashtag/HazardMcr" target="_blank">#HazardMcr</a>
