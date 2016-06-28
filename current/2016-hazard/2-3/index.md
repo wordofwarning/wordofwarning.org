@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Hazard 2016"
-show: "Happening 12noon-1pm"
+show: "Happening 2-3pm"
 artist_size: 1
 show_size: 3
 
@@ -17,14 +17,26 @@ show_size: 3
 ---
 *A free afternoon of incidental intervention and sited performance in Mcr City Centre, presented by Word of Warning on Saturday 9 July: turn up at any time from 12 noon to 5pm and discover activity around <a href="http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" target="_blank">St Ann's Square</a>…*            
           
-#### 12noon-12.05pm           
+#### 2-3pm (open from 1pm; continues to 4pm)         
+**There There | *Text HOME***          
+A durational invasion of immigration advice.          
+          
+#### 2-2.05pm + 2.30-2.35pm           
 **Output Arts | *Running with Scissors***         
 The ultimate in hazardous track games.        
           
-#### 12.30-1pm           
+#### 2.10-2.30pm           
+**Dominique Baron-Bonarjee | *Collapse Manchester***             
+A "slow-mob" exploring the pace of the city through the speed of the body.           
+            
+#### 2.30-3pm           
 **Jin Bells | *Head in Hole 2016***         
 Floating, completely still with my head buried in a hole in a wall… this meaningless action seeks to confront its audience, whether they are suspecting or not…           
           
+#### 2.30-3pm (continues to 3.30pm)           
+**Vivian Chinasa Ezugha | *Because of hair***           
+"I am not historical, I am not futuristic, I am not the old nor am I the new. I am but an object made from human hair. My purpose is to disturb, to interrupt your contemplation and seduce your vision; so that I become an image of your imagination."               
+         
 #### [Ongoing activity 12noon-5pm](/current/2016-hazard/ongoing):             
 **Aidan Strudwick | *Human Mini-Golf***           
 Like mini-golf but fun for a change.           
