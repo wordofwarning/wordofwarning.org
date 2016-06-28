@@ -7,7 +7,7 @@ rootpath: "../../../"
 artist: "Hazard 2016"
 show: "Activity 4-5pm"
 artist_size: 1
-show_size: 3
+show_size: 2
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -55,5 +55,5 @@ Using humour and a sense of the absurd, a collective of women who identify as ol
 **Activities each hour… [12noon-1pm](/current/2016-hazard/12-1) | [1-2pm](/current/2016-hazard/1-2) | [2-3pm](/current/2016-hazard/2-3) | [3-4pm](/current/2016-hazard/3-4)**            
 
 #### Credits        
-[Hazard](/hab/hazard) 2016 is produced by [hÅb](/hab), in collaboration with the participating artists; supported using public funding by Arts Council England + funded by Manchester City Council. Thanks to the the Royal Exchange Theatre.          
+[Hazard](/hab/hazard) 2016 is produced by [hÅb](/hab), in collaboration with the participating artists; supported using public funding by Arts Council England + funded by Manchester City Council. Thanks to the Royal Exchange Theatre.          
 <a href="http://hazardmcr.org" target="_blank">hazardmcr.org</a> | <a href="http://twitter.com/HazardMcr" target="_blank">@HazardMcr</a> | <a href="http://twitter.com/hashtag/HazardMcr" target="_blank">#HazardMcr</a>
