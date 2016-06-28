@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Hazard 2016"
-show: "Happening 12noon-1pm"
+show: "Happening 4-5pm"
 artist_size: 1
 show_size: 3
 
@@ -17,11 +17,15 @@ show_size: 3
 ---
 *A free afternoon of incidental intervention and sited performance in Mcr City Centre, presented by Word of Warning on Saturday 9 July: turn up at any time from 12 noon to 5pm and discover activity around <a href="http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" target="_blank">St Ann's Square</a>…*            
           
-#### 12noon-12.05pm           
+#### 4-4.05pm + 4.30-4.35pm           
 **Output Arts | *Running with Scissors***         
 The ultimate in hazardous track games.        
-          
-#### 12.30-1pm           
+         
+#### 4.10-4.30pm        
+**un-earthed collective | *Inflated Hazard — dicing with dystopia***         
+Roll the giant inflatable dice — dice with dystopia and explore the hazards of our times.         
+         
+#### 4.30-5pm           
 **Jin Bells | *Head in Hole 2016***         
 Floating, completely still with my head buried in a hole in a wall… this meaningless action seeks to confront its audience, whether they are suspecting or not…           
           
