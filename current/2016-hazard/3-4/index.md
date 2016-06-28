@@ -24,19 +24,33 @@ A durational invasion of immigration advice.
           
 #### 2.30-3.30pm           
 **Vivian Chinasa Ezugha | *Because of hair***         
-"I am not historical, I am not futuristic, I am not the old nor am I the new. I am but an object made from human hair. My purpose is to disturb, to interrupt your contemplation and seduce your vision; so that I become an image of your imagination."               
-         
+*I am not historical, I am not futuristic, I am not the old nor am I the new. I am but an object made from human hair. My purpose is to disturb, to interrupt your contemplation and seduce your vision; so that I become an image of your imagination.*    
+Vivian Chinasa Ezugha makes work that attempts to connect to her Nigerian culture and to the questions she is asking about her identity as a black woman living in England.    
+"a raw unedited power, too distinct to miss. Charged and alive, Ezugha’s presence irrepressibly seeps through her skin into every action, imbuing them with strong personal, political and cultural significance.” Zierle & Carter    
+   
 #### 3-3.05pm + 3.30-3.35pm           
 **Output Arts | *Running with Scissors***         
-The ultimate in hazardous track games.        
+Output Arts presents the ultimate in hazardous track games: *Running with Scissors* gives you the opportunity to really test your metal. Fabulous prizes to be won!    
+Output Arts produces playful and poignant site-specific installations: drawing with light under a flyover; searching for stories of loss on the beach with mumbling metal detectors; a motion-triggered ringing WWII telephone in a shopping centre.    
+<a href="https://www.outputarts.com/" target="_blank">outputarts.com</a> | @outputarts on Twitter, Facebook, Instagram and Vimeo.    
           
 #### 3.10-3.30pm             
 **un-earthed collective | *Inflated Hazard — dicing with dystopia***         
-Roll the giant inflatable dice — dice with dystopia and explore the hazards of our times. (Plus ongoing interaction all afternoon.)         
-         
+*Roll the dice, inflate the hazard...*    
+Every generation has its defining threat: a world at war; nuclear holocaust; climate change; terrorism. A dystopian vision of the future; hazard on the horizon. The corporate media inflates these threats with sensationalism, while politicians and the state use fear as a political tool. What effect does this inflation of fear and the perception of risk have on us individually and collectively?    
+How the story is told has an effect.    
+This interactive intervention invites the audience to roll giant inflatable dice in the street, allowing chance to dictate elements of what follows, in stories of migration, climate change and war/terrorism. Participants then have a chance to tell a different story.    
+This playful, provocative performance is an exploration of the stories of the hazards and threats of our times and how they shape us. Whether we are witnessing ecological collapse and social unravelling or transitioning to a more sustainable, conscious and connected society is up to you. We can choose whether we live our lives by a story that shuts us down with fear, or empowers us with hope and inspiration.    
+*What happens next? You decide.*    
+
+un-earthed collective is a collective of artists, researchers and activists working together to tell the untold stories of our times through film and live performance.    
+nb timed performances plus ongoing installation.    
+                  
 #### 3.30-4pm           
 **Jin Bells | *Head in Hole 2016***         
-Floating, completely still with my head buried in a hole in a wall… this meaningless action seeks to confront its audience, whether they are suspecting or not…           
+Floating, completely still with my head buried in a hole in a wall… this meaningless action seeks to confront its audience, whether they are suspecting or not…    
+
+Emerging Manchester artist Jin Bells works between theatre and performance art and has undertaken a residency at CRASH2016 and has upcoming performances at Islington Mill, Salford and Tempting Failure Festival, London.            
           
 #### 3.30-4pm            
 **Charlotte CHW | *Caution: Falling…***         
