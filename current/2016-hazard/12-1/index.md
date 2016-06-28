@@ -17,10 +17,14 @@ show_size: 3
 ---
 *A free afternoon of incidental intervention and sited performance in Mcr City Centre, presented by Word of Warning on Saturday 9 July: turn up at any time from 12 noon to 5pm and discover activity around <a href="http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" target="_blank">St Ann's Square</a>…*            
           
-#### 12noon-12.05pm           
+#### 12noon-12.05pm + 12.30-12.35pm           
 **Output Arts | *Running with Scissors***         
 The ultimate in hazardous track games.        
           
+#### 12.10-12.30pm            
+**un-earthed collective | *Inflated Hazard — dicing with dystopia***          
+Roll the giant inflatable dice — dice with dystopia and explore the hazards of our times.           
+         
 #### 12.30-1pm           
 **Jin Bells | *Head in Hole 2016***         
 Floating, completely still with my head buried in a hole in a wall… this meaningless action seeks to confront its audience, whether they are suspecting or not…           
