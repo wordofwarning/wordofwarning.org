@@ -17,7 +17,7 @@ show_size: 3
 ---
 *A free afternoon of incidental intervention and sited performance in Mcr City Centre, presented by Word of Warning on Saturday 9 July: turn up at any time from 12 noon to 5pm and discover activity around <a href="http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" target="_blank">St Ann's Square</a>…*            
            
-#### [These activities happen all afternoon, 12noon-5pm](/current/2016-hazard/ongoing):              
+#### These activities happen all afternoon, 12noon-5pm              
 **Aidan Strudwick | *Human Mini-Golf***           
 Like mini-golf but fun for a change.           
            
@@ -39,7 +39,7 @@ Dying, desperate, gagging, bursting. This archive of public convenience is made 
 **Sexcentenary | *WE REFUSE TO BE UNSEEN***         
 Using humour and a sense of the absurd, a collective of women who identify as older, set about disrupting the flow of public spaces.         
          
-#### Other activities happen at specific times in each hour:
+#### Other activities happen at specific times, in hourly slots
 **[12noon-1pm](/current/2016-hazard/12-1) | [1-2pm](/current/2016-hazard/1-2) | [2-3pm](/current/2016-hazard/2-3) | [3-4pm](/current/2016-hazard/3-4) | [4-5pm](/current/2016-hazard/4-5)**            
          
 #### Credits        
