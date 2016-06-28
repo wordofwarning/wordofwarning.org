@@ -48,8 +48,8 @@ Emerging Manchester artist Jin Bells works between theatre and performance art a
 **Nathaniel Mason | *Occupied***          
 **Sexcentenary | *WE REFUSE TO BE UNSEEN***                  
           
-#### Discover what else is happening by clicking on a time below
-**Activities each hour… [12noon-1pm](/current/2016-hazard/12-1) | [1-2pm](/current/2016-hazard/1-2) | [2-3pm](/current/2016-hazard/2-3) | [3-4pm](/current/2016-hazard/3-4)**            
+#### Discover what else is happening by clicking on a time below             
+**Activities each hour… [1-2pm](/current/2016-hazard/1-2) | [2-3pm](/current/2016-hazard/2-3) | [3-4pm](/current/2016-hazard/3-4) | [4-5pm](/current/2016-hazard/4-5)**            
 
 #### Credits        
 [Hazard](/hab/hazard) 2016 is produced by [hÅb](/hab), in collaboration with the participating artists; supported using public funding by Arts Council England + funded by Manchester City Council. Thanks to the Royal Exchange Theatre.          
