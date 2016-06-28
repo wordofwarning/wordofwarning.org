@@ -30,13 +30,11 @@ How the story is told has an effect.
 This interactive intervention invites the audience to roll giant inflatable dice in the street, allowing chance to dictate elements of what follows, in stories of migration, climate change and war/terrorism. Participants then have a chance to tell a different story.    
 This playful, provocative performance is an exploration of the stories of the hazards and threats of our times and how they shape us. Whether we are witnessing ecological collapse and social unravelling or transitioning to a more sustainable, conscious and connected society is up to you. We can choose whether we live our lives by a story that shuts us down with fear, or empowers us with hope and inspiration.    
 *What happens next? You decide.*    
-
 un-earthed collective is a collective of artists, researchers and activists working together to tell the untold stories of our times through film and live performance.    
 nb timed performances plus ongoing installation.    
           
 **Jin Bells | *Head in Hole 2016***         
 Floating, completely still with my head buried in a hole in a wall… this meaningless action seeks to confront its audience, whether they are suspecting or not…    
-
 Emerging Manchester artist Jin Bells works between theatre and performance art and has undertaken a residency at CRASH2016 and has upcoming performances at Islington Mill, Salford and Tempting Failure Festival, London.    
         
 #### [These activities happen all afternoon, 12noon-5pm](/current/2016-hazard/ongoing)             

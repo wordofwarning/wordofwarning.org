@@ -35,7 +35,6 @@ How the story is told has an effect.
 This interactive intervention invites the audience to roll giant inflatable dice in the street, allowing chance to dictate elements of what follows, in stories of migration, climate change and war/terrorism. Participants then have a chance to tell a different story.    
 This playful, provocative performance is an exploration of the stories of the hazards and threats of our times and how they shape us. Whether we are witnessing ecological collapse and social unravelling or transitioning to a more sustainable, conscious and connected society is up to you. We can choose whether we live our lives by a story that shuts us down with fear, or empowers us with hope and inspiration.    
 *What happens next? You decide.*    
-
 un-earthed collective is a collective of artists, researchers and activists working together to tell the untold stories of our times through film and live performance.    
 nb timed performances plus ongoing installation.    
           
