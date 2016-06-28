@@ -33,7 +33,7 @@ Floating, completely still with my head buried in a hole in a wall… this meani
 **Charlotte CHW | *Caution: Falling…***         
 Falling isn't a work of art but nor is it a crime. People are doing it in public every day. We just choose not to see it.             
          
-#### 1.40-2pm + 3.40-4pm           
+#### 1.40-2pm           
 **Elena Koukoli + Andreas Papapetrou | *Out of Thin Air***           
 An unexpected performance exploring emptiness and excess — imaginative, meditative, provoking and joyful.             
           
