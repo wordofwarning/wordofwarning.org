@@ -38,8 +38,9 @@ Emerging Manchester artist Jin Bells works between theatre and performance art a
 **Full Circle Arts + Playfuel | *Box Society***        
 **Instant Dissidence | *Dancing with Strangers: From Calais to England***          
 **Nathaniel Mason | *Occupied***          
-**Sexcentenary | *WE REFUSE TO BE UNSEEN***                  
-          
+**Sexcentenary | *WE REFUSE TO BE UNSEEN*** 
+**un-earthed collective | *Inflated Hazard — dicing with dystopia***     
+                 
 #### Discover what else is happening by clicking on a time below             
 **Activities each hour… [1-2pm](/current/2016-hazard/1-2) | [2-3pm](/current/2016-hazard/2-3) | [3-4pm](/current/2016-hazard/3-4) | [4-5pm](/current/2016-hazard/4-5)**            
 
