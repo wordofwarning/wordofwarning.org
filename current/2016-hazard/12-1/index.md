@@ -29,7 +29,7 @@ Roll the giant inflatable dice — dice with dystopia and explore the hazards of
 **Jin Bells | *Head in Hole 2016***         
 Floating, completely still with my head buried in a hole in a wall… this meaningless action seeks to confront its audience, whether they are suspecting or not…           
           
-#### [Ongoing activity 12noon-5pm](/current/2016-hazard/ongoing):             
+#### [These activities happen all afternoon, 12noon-5pm](/current/2016-hazard/ongoing):             
 **Aidan Strudwick | *Human Mini-Golf***           
 Like mini-golf but fun for a change.           
            
