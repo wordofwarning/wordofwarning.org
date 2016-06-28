@@ -56,25 +56,12 @@ A collaborative project between choreographer Elena Koukoli and composer Andreas
  
 #### [These activities happen all afternoon, 12noon-5pm](/current/2016-hazard/ongoing)             
 **Aidan Strudwick | *Human Mini-Golf***           
-Like mini-golf but fun for a change.           
-           
 **Alex Bradley + Bill Leslie | *COME AS YOU ARE (guerrilla mix 1.0)***          
-Surtitling the public's personal sense of expression — a playful set of 'in the moment' incidents.          
-         
-**Ali Wilson + Jessica Gibson | *Pair of Pears***          
-We are a pair of Pears and we are looking for each other. 3—2—1—GO!          
-         
+**Ali Wilson + Jessica Gibson | *Pair of Pears***              
 **Full Circle Arts + Playfuel | *Box Society***        
-A game about our society, the pressure to fit in and the hurdles we face navigating our daily lives with different means and abilities.          
-           
 **Instant Dissidence | *Dancing with Strangers: From Calais to England***          
-A choreographic act of border transgression: dance with a resident from The Jungle refugee camp in Calais, in a virtual dance making connection across borders.          
-         
 **Nathaniel Mason | *Occupied***          
-Dying, desperate, gagging, bursting. This archive of public convenience is made by the people for the people.           
-            
 **Sexcentenary | *WE REFUSE TO BE UNSEEN***         
-Using humour and a sense of the absurd, a collective of women who identify as older, set about disrupting the flow of public spaces.         
          
 #### Discover what else is happening by clicking on a time below                  
 **Activities each hour… [12noon-1pm](/current/2016-hazard/12-1) | [2-3pm](/current/2016-hazard/2-3) | [3-4pm](/current/2016-hazard/3-4) | [4-5pm](/current/2016-hazard/4-5)**            
