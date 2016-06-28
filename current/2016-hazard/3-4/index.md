@@ -21,11 +21,11 @@ show_size: 3
 **Vivian Chinasa Ezugha | *Because of hair***         
 "I am not historical, I am not futuristic, I am not the old nor am I the new. I am but an object made from human hair. My purpose is to disturb, to interrupt your contemplation and seduce your vision; so that I become an image of your imagination."               
          
-#### 3-4pm (open from 1pm)           
+#### 3-4pm (commences 1pm)           
 **There There | *Text HOME***          
 A durational invasion of immigration advice.          
           
-#### 3pm-3.05pm + 3.30-3.35pm           
+#### 3-3.05pm + 3.30-3.35pm           
 **Output Arts | *Running with Scissors***         
 The ultimate in hazardous track games.        
           
@@ -45,7 +45,7 @@ Falling isn't a work of art but nor is it a crime. People are doing it in public
 **Elena Koukoli + Andreas Papapetrou | *Out of Thin Air***           
 An unexpected performance exploring emptiness and excess — imaginative, meditative, provoking and joyful.             
           
-#### [Ongoing activity 12noon-5pm](/current/2016-hazard/ongoing):             
+#### [These activities happen all afternoon, 12noon-5pm](/current/2016-hazard/ongoing)             
 **Aidan Strudwick | *Human Mini-Golf***           
 Like mini-golf but fun for a change.           
            
@@ -66,9 +66,6 @@ Dying, desperate, gagging, bursting. This archive of public convenience is made 
             
 **Sexcentenary | *WE REFUSE TO BE UNSEEN***         
 Using humour and a sense of the absurd, a collective of women who identify as older, set about disrupting the flow of public spaces.         
-          
-**un-earthed collective | *Inflated Hazard — dicing with dystopia***         
-Roll the giant inflatable dice — dice with dystopia and explore the hazards of our times.         
          
 #### Credits        
 [Hazard](/hab/hazard) 2016 is produced by [hÅb](/hab), in collaboration with the participating artists; supported using public funding by Arts Council England + funded by Manchester City Council. | Header image: Antje Hildebrandt, 2014         
