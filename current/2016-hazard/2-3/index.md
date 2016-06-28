@@ -34,8 +34,7 @@ A series of bodies appears, dotted around the urban landscape. Each body is fall
 **Jin Bells | *Head in Hole 2016***         
 Floating, completely still with my head buried in a hole in a wall… this meaningless action seeks to confront its audience, whether they are suspecting or not…    
 Emerging Manchester artist Jin Bells works between theatre and performance art and has undertaken a residency at CRASH2016 and has upcoming performances at Islington Mill, Salford and Tempting Failure Festival, London.              
-          
-#### 2.30-3.30pm           
+                    
 **Vivian Chinasa Ezugha | *Because of hair***           
 *I am not historical, I am not futuristic, I am not the old nor am I the new. I am but an object made from human hair. My purpose is to disturb, to interrupt your contemplation and seduce your vision; so that I become an image of your imagination.*    
 Vivian Chinasa Ezugha makes work that attempts to connect to her Nigerian culture and to the questions she is asking about her identity as a black woman living in England.    
