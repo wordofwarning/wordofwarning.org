@@ -29,7 +29,7 @@ Roll the giant inflatable dice — dice with dystopia and explore the hazards of
 **Jin Bells | *Head in Hole 2016***         
 Floating, completely still with my head buried in a hole in a wall… this meaningless action seeks to confront its audience, whether they are suspecting or not…           
           
-#### [Ongoing activity 12noon-5pm](/current/2016-hazard/ongoing):             
+#### [These activities happen all afternoon, 12noon-5pm](/current/2016-hazard/ongoing)             
 **Aidan Strudwick | *Human Mini-Golf***           
 Like mini-golf but fun for a change.           
            
@@ -51,9 +51,6 @@ Dying, desperate, gagging, bursting. This archive of public convenience is made 
 **Sexcentenary | *WE REFUSE TO BE UNSEEN***         
 Using humour and a sense of the absurd, a collective of women who identify as older, set about disrupting the flow of public spaces.         
           
-**un-earthed collective | *Inflated Hazard — dicing with dystopia***         
-Roll the giant inflatable dice — dice with dystopia and explore the hazards of our times.         
-         
 #### Credits        
 [Hazard](/hab/hazard) 2016 is produced by [hÅb](/hab), in collaboration with the participating artists; supported using public funding by Arts Council England + funded by Manchester City Council. | Header image: Antje Hildebrandt, 2014         
 <a href="http://hazardmcr.org" target="_blank">hazardmcr.org</a> | <a href="http://twitter.com/HazardMcr" target="_blank">@HazardMcr</a> | <a href="http://twitter.com/hashtag/HazardMcr" target="_blank">#HazardMcr</a>
