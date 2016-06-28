@@ -29,14 +29,8 @@ Output Arts produces playful and poignant site-specific installations: drawing 
 <a href="https://www.outputarts.com/" target="_blank">outputarts.com</a> | @outputarts on Twitter, Facebook, Instagram and Vimeo.    
                
 **un-earthed collective | *Inflated Hazard — dicing with dystopia***         
-*Roll the dice, inflate the hazard...*    
-Every generation has its defining threat: a world at war; nuclear holocaust; climate change; terrorism. A dystopian vision of the future; hazard on the horizon. The corporate media inflates these threats with sensationalism, while politicians and the state use fear as a political tool. What effect does this inflation of fear and the perception of risk have on us individually and collectively?    
-How the story is told has an effect.    
-This interactive intervention invites the audience to roll giant inflatable dice in the street, allowing chance to dictate elements of what follows, in stories of migration, climate change and war/terrorism. Participants then have a chance to tell a different story.    
-This playful, provocative performance is an exploration of the stories of the hazards and threats of our times and how they shape us. Whether we are witnessing ecological collapse and social unravelling or transitioning to a more sustainable, conscious and connected society is up to you. We can choose whether we live our lives by a story that shuts us down with fear, or empowers us with hope and inspiration.    
-*What happens next? You decide.*    
-un-earthed collective is a collective of artists, researchers and activists working together to tell the untold stories of our times through film and live performance.    
-nb timed performances plus ongoing installation.    
+*Roll the dice, inflate the hazard...*    Every generation has its defining threat: a world at war; nuclear holocaust; climate change; terrorism. The corporate media inflates these threats with sensationalism. What effect does this inflation of fear have on us?    This playful, provocative performance invites the audience to roll giant inflatable dice in the street, allowing chance to dictate what follows then offering a chance to tell a different story.     *What happens next? You decide.*
+*Inflated Hazard* takes the form of a series of timed performances and an [ongoing installation](/current/2016-hazard/ongoing) with which you can interact.        
           
 **Jin Bells | *Head in Hole 2016***         
 Floating, completely still with my head buried in a hole in a wall… this meaningless action seeks to confront its audience, whether they are suspecting or not…    
