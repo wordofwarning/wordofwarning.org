@@ -41,7 +41,7 @@ Falling isn't a work of art but nor is it a crime. People are doing it in public
 **Elena Koukoli + Andreas Papapetrou | *Out of Thin Air***           
 An unexpected performance exploring emptiness and excess — imaginative, meditative, provoking and joyful.             
           
-#### [Ongoing activity 12noon-5pm](/current/2016-hazard/ongoing):             
+#### [These activities happen all afternoon, 12noon-5pm](/current/2016-hazard/ongoing)             
 **Aidan Strudwick | *Human Mini-Golf***           
 Like mini-golf but fun for a change.           
            
@@ -62,9 +62,6 @@ Dying, desperate, gagging, bursting. This archive of public convenience is made 
             
 **Sexcentenary | *WE REFUSE TO BE UNSEEN***         
 Using humour and a sense of the absurd, a collective of women who identify as older, set about disrupting the flow of public spaces.         
-           
-**un-earthed collective | *Inflated Hazard — dicing with dystopia***         
-Roll the giant inflatable dice — dice with dystopia and explore the hazards of our times.         
          
 #### Credits        
 [Hazard](/hab/hazard) 2016 is produced by [hÅb](/hab), in collaboration with the participating artists; supported using public funding by Arts Council England + funded by Manchester City Council. | Header image: Antje Hildebrandt, 2014         
