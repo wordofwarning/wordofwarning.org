@@ -42,7 +42,7 @@ Emerging Manchester artist Jin Bells works between theatre and performance art a
 *I am not historical, I am not futuristic, I am not the old nor am I the new. I am but an object made from human hair. My purpose is to disturb, to interrupt your contemplation and seduce your vision; so that I become an image of your imagination.*
 
 Vivian Chinasa Ezugha makes work that attempts to connect to her Nigerian culture and to the questions she is asking about her identity as a black woman living in England.       
->*… a raw unedited power, too distinct to miss. Charged and alive, Ezugha's presence irrepressibly seeps through her skin into every action, imbuing them with strong personal, political and cultural significance.* — Zierle & Carter        
+"*A raw unedited power, too distinct to miss. Charged and alive, Ezugha's presence irrepressibly seeps through her skin into every action, imbuing them with strong personal, political and cultural significance.*" — Zierle & Carter        
           
 #### [These activities happen all afternoon, 12noon-5pm](/current/2016-hazard/ongoing)             
 **Aidan Strudwick | *Human Mini-Golf***           
