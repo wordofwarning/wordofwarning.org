@@ -20,6 +20,7 @@ header_image: "header_jin.jpg"
            
 **Output Arts | *Running with Scissors***         
 Output Arts presents the ultimate in hazardous track games: *Running with Scissors* gives you the opportunity to really test your metal. Fabulous prizes to be won!          
+         
 Output Arts produces playful and poignant site-specific installations: drawing with light under a flyover; searching for stories of loss on the beach with mumbling metal detectors; a motion-triggered ringing WWII telephone in a shopping centre.         
 <a href="http://www.outputarts.com/" target="_blank">outputarts.com</a> | @outputarts on Twitter, Facebook, Instagram + Vimeo.        
          
