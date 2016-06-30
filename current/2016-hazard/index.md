@@ -35,7 +35,7 @@ For a glimpse of previous outbreaks of hazardous behaviour see 2014's [image gal
 
 #### More             
 Manchester's stripiest festival returns to unleash a sixth wave of bizarre behaviour on the city centre, blurring the boundaries between art and activism… random actions, strange antics and ludic activities.           
-Aimed for you to encounter by chance, Hazard 2016 will be paperless on the day — see our [provisional programme](/current/2016-hazard/programme); timings coming soon.           
+Aimed for you to encounter by chance, Hazard 2016 will be paperless on the day — see our [programme](/current/2016-hazard/programme);.           
           
 #### Credits        
 [Hazard](/hab/hazard) 2016 is produced by [hÅb](/hab), in collaboration with the participating artists; supported using public funding by Arts Council England + funded by Manchester City Council. Thanks to the Royal Exchange Theatre.           
