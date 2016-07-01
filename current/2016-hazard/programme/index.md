@@ -45,10 +45,10 @@ An unexpected performance exploring emptiness and excess — imaginative, medita
 **Full Circle Arts + Playfuel | *Box Society***        
 A game about our society, the pressure to fit in and the hurdles we face navigating our daily lives with different means and abilities.          
            
-**Instant Dissidence | *Dancing with Strangers: From Calais to England***          
+**Instant Dissidence | *Dancing With Strangers: From Calais to England***          
 A choreographic act of border transgression: dance with a resident from The Jungle refugee camp in Calais, in a virtual dance making connection across borders.          
          
-**Jin Bells | *Head in Hole 2016***         
+**Jin Bells | *Head In Hole 2016***         
 Floating, completely still with my head buried in a hole in a wall… this meaningless action seeks to confront its audience, whether they are suspecting or not…           
 
 **Nathaniel Mason | *Occupied***          
@@ -66,7 +66,7 @@ A durational invasion of immigration advice.
 **un-earthed collective | *Inflated Hazard — dicing with dystopia***         
 Roll the giant inflatable dice — dice with dystopia and explore the hazards of our times.         
          
-**Vivian Chinasa Ezugha | *Because of hair***         
+**Vivian Chinasa Ezugha | *Because of hair; the dichotomy of culture and identity***         
 "I am not historical, I am not futuristic, I am not the old nor am I the new. I am but an object made from human hair. My purpose is to disturb, to interrupt your contemplation and seduce your vision; so that I become an image of your imagination."                
           
 #### Credits        
