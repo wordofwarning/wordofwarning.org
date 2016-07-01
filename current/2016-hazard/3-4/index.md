@@ -44,7 +44,7 @@ This playful, provocative performance invites the audience to roll giant inflata
 *Inflated Hazard* takes the form of a series of timed performances and an [ongoing installation](/current/2016-hazard/ongoing) with which you can interact.        
               
 **Jin Bells | *Head In Hole 2016***         
-*A pointless body, a meaningless action, a nonsensical intervention into the city...*     
+A pointless body, a meaningless action, a nonsensical intervention into the city...     
          
 Emerging Manchester artist Jin Bells works between theatre and performance art and has undertaken a residency at CRASH2016 and has upcoming performances at Islington Mill, Salford and Tempting Failure Festival, London.            
           
