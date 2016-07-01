@@ -34,7 +34,7 @@ A series of bodies appears, dotted around the urban landscape. Each body is fall
 *Collapse* is an ongoing series of performance interventions that place the 'body as measure'; *Collapse Manchester* creates a new landscape of stillness in the daily rush.       
            
 **Jin Bells | *Head in Hole 2016***         
-Floating, completely still with my head buried in a hole in a wall… this meaningless action seeks to confront its audience, whether they are suspecting or not…        
+*A pointless body, a meaningless action, a nonsensical intervention into the city...*     
          
 Emerging Manchester artist Jin Bells works between theatre and performance art and has undertaken a residency at CRASH2016 and has upcoming performances at Islington Mill, Salford and Tempting Failure Festival, London.              
             

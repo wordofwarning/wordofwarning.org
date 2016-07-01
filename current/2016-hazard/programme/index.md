@@ -49,7 +49,7 @@ A game about our society, the pressure to fit in and the hurdles we face navigat
 A choreographic act of border transgression: dance with a resident from 'The Jungle' refugee camp in Calais, in a virtual dance making connection across borders.          
          
 **Jin Bells | *Head In Hole 2016***         
-Floating, completely still with my head buried in a hole in a wall… this meaningless action seeks to confront its audience, whether they are suspecting or not…           
+*A pointless body, a meaningless action, a nonsensical intervention into the city...*          
 
 **Nathaniel Mason | *Occupied***          
 Dying, desperate, gagging, bursting. This archive of public convenience is made by the people for the people.           
