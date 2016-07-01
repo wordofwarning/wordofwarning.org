@@ -37,7 +37,7 @@ This playful, provocative performance invites the audience to roll giant inflata
          
 *Inflated Hazard* takes the form of a series of timed performances and an [ongoing installation](/current/2016-hazard/ongoing) with which you can interact.        
           
-**Jin Bells | *Head in Hole 2016***         
+**Jin Bells | *Head In Hole 2016***         
 Floating, completely still with my head buried in a hole in a wall… this meaningless action seeks to confront its audience, whether they are suspecting or not…        
          
 Emerging Manchester artist Jin Bells works between theatre and performance art and has undertaken a residency at CRASH2016 and has upcoming performances at Islington Mill, Salford and Tempting Failure Festival, London.          
@@ -59,7 +59,7 @@ A collaborative project between choreographer Elena Koukoli + composer Andreas P
 **Alex Bradley + Bill Leslie | *COME AS YOU ARE (guerrilla mix 1.0)***          
 **Ali Wilson + Jessica Gibson | *Pair of Pears***              
 **Full Circle Arts + Playfuel | *Box Society***        
-**Instant Dissidence | *Dancing with Strangers: From Calais to England***          
+**Instant Dissidence | *Dancing With Strangers: From Calais to England***          
 **Nathaniel Mason | *Occupied***          
 **Sexcentenary | *WE REFUSE TO BE UNSEEN***     
 **un-earthed collective | *Inflated Hazard — dicing with dystopia***        
