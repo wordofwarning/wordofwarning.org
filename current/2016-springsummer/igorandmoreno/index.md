@@ -20,9 +20,11 @@ header_image: "header_igor.jpg"
        
 #### In Brief      
 For those moments – between coffee and dancing – when harmony abandons us and all that's left is the desire to scream.       
-        
+         
 See <a href="https://vimeo.com/igorandmoreno" target="_blank">teaser trailers</a> on their vimeo channel.         
-        
+         
+Now that it's over, read a review from <a href="http://www.thereviewshub.com/igor-and-moreno-a-room-for-all-our-tomorrows-the-lowry-salford" target="_blank">The Reviews Hub (★★★★)</a>.         
+         
 #### Venue + Booking Details    
 Date: Wednesday 29 June 2016, 8pm          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
