@@ -43,7 +43,7 @@ We'll happily offer you a pear if you can help!
          
 Full Circle Arts is a disabled-led organisation which works to involve those who are excluded from the arts. *Box Society* is a collaboration with urban game designers Playfuel, who create games that ask questions about the world.    
            
-**Instant Dissidence | *Dancing with Strangers: From Calais to England***          
+**Instant Dissidence | *Dancing With Strangers: From Calais to England***          
 A choreographic act of border transgression: dance with a resident from 'The Jungle' refugee camp in Calais, in a virtual dance making connection across borders.    
 Rita Marcalo (Instant Dissidence) is going to ask you to dance.     
 She's been dancing with refugees in 'The Jungle' camp in Calais and they have created a series of duets that they would like to perform with a person in England.        
