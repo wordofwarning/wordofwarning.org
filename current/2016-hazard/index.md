@@ -33,8 +33,8 @@ Aidan Strudwick | Alex Bradley + Bill Leslie | Ali Wilson + Jessica Gibson | Cha
           
 For a glimpse of previous outbreaks of hazardous behaviour see 2014's [image gallery](/galleries/2014-hazard) + [programme](/archive/2014-hazard), or delve further with 2012's [gallery](/galleries/2012-hazard) + [programme](/archive/2012-hazard).          
          
-**Call for participants**: Dominique Baron-Bonarjee's *Collapse Manchester* is still <a href="http://facebook.com/events/598733406960259" target="_blank">looking for brightly coloured slow-mobbers</a>.               
-iframe src="http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" width="640" height="480"></iframe>        
+**Call for participants**: Dominique Baron-Bonarjee's *Collapse Manchester* is <a href="http://facebook.com/events/598733406960259" target="_blank">looking for brightly coloured slow-mobbers (via facebook)</a>, open to people of all ages and abilities.              
+<iframe src="http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" width="640" height="480"></iframe>        
 
 #### More             
 Manchester's stripiest festival returns to unleash a sixth wave of bizarre behaviour on the city centre, blurring the boundaries between art and activism… random actions, strange antics and ludic activities.               
