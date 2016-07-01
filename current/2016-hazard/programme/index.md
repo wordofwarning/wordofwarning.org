@@ -22,7 +22,8 @@ header_image: "header_golf.jpg"
 Date: Saturday 9 July, 12noon-5pm                
 Venue: within <a href="http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" target="_blank">St Ann's Square, Manchester, M2 7LF</a> and surrounding streets.       
 Tickets: FREE/unticketed, turn up and discover activity around the square.            
-                
+Tel (on the day): 07581 299 439 (leave a message + we’ll get back to you)            
+         
 #### Artists + Activity (*subject to change*)         
 **Aidan Strudwick | *Human Mini-Golf***           
 Like mini-golf but fun for a change.           
@@ -38,6 +39,7 @@ Falling isn't a work of art but nor is it a crime. People are doing it in public
            
 **Dominique Baron-Bonarjee | *Collapse Manchester***             
 A "slow-mob" exploring the pace of the city through the speed of the body.           
+**Call for participants**: we're <a href="http://facebook.com/events/598733406960259" target="_blank">looking for brightly coloured slow-mobbers</a>.             
             
 **Elena Koukoli + Andreas Papapetrou | *Out of Thin Air***           
 An unexpected performance exploring emptiness and excess — imaginative, meditative, provoking and joyful.             
