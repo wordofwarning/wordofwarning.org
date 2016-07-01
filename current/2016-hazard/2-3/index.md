@@ -38,7 +38,7 @@ Floating, completely still with my head buried in a hole in a wall… this meani
          
 Emerging Manchester artist Jin Bells works between theatre and performance art and has undertaken a residency at CRASH2016 and has upcoming performances at Islington Mill, Salford and Tempting Failure Festival, London.              
             
-**Vivian Chinasa Ezugha | *Because of hair***           
+**Vivian Chinasa Ezugha | *Because of hair; the dichotomy of culture and identity***           
 *I am not historical, I am not futuristic, I am not the old nor am I the new. I am but an object made from human hair. My purpose is to disturb, to interrupt your contemplation and seduce your vision; so that I become an image of your imagination.*
 
 Vivian Chinasa Ezugha makes work that attempts to connect to her Nigerian culture and to the questions she is asking about her identity as a black woman living in England.       
@@ -49,7 +49,7 @@ Vivian Chinasa Ezugha makes work that attempts to connect to her Nigerian cultur
 **Alex Bradley + Bill Leslie | *COME AS YOU ARE (guerrilla mix 1.0)***          
 **Ali Wilson + Jessica Gibson | *Pair of Pears***              
 **Full Circle Arts + Playfuel | *Box Society***        
-**Instant Dissidence | *Dancing with Strangers: From Calais to England***          
+**Instant Dissidence | *Dancing With Strangers: From Calais to England***          
 **Nathaniel Mason | *Occupied***          
 **Sexcentenary | *WE REFUSE TO BE UNSEEN***     
 **un-earthed collective | *Inflated Hazard — dicing with dystopia***      
