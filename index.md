@@ -4,4 +4,4 @@ layout: home
 header_image: "assets/images/header_ss2016wrnhaz.jpg"
 
 ---
-#### Thank you [Igor, Moreno](/current/2016-springsummer/igorandmoreno) and The Lowry — read The Reviews Hub <a href="http://www.thereviewshub.com/igor-and-moreno-a-room-for-all-our-tomorrows-the-lowry-salford" target="_blank">★★★★</a> review. [Summer](/current/2016-springsummer) ends with [Hazard](/current/2016-hazard)'s incidental interventions on *Sat 9 Jul, 12noon-5pm* in St Ann's Square — if you'd like to be part of it, *Collapse Manchester* is <a href="http://facebook.com/events/598733406960259" target="_blank">looking for brightly coloured slow-mobbers</a>.
+#### Thank you to all our [Hazard](/current/2016-hazard) artists, team and the Royal Exchange Theatre — read <a href="http://quietmandave.co.uk/2016/07/hazard" target="_blank">QuietManDave<a>'s review. Our [Summer season](/current/2016-springsummer) has finished — we'll be back with Emergency on *Sat 1 Oct*.
