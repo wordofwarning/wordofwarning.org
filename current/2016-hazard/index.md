@@ -21,7 +21,9 @@ show_size: 4
         
 ### Saturday 9 July 2016, 12noon-5pm. Free     
 Incidental intervention and sited performance…<br>Cheeky, thought-provoking sprees of eccentricity…        
-        
+         
+Now that its over, read <a href="http://quietmandave.co.uk/2016/07/hazard" target="_blank">QuietManDave</a>'s review. Hazard 2016 was previewed in the <a href="http://www.manchestereveningnews.co.uk/whats-on/arts-culture-news/human-mini-golf-manchester-hazard-11576027" target="_blank">Manchester Evening News</a> and one of<a href="http://www.creativetourist.com/articles/festivals-and-events/manchester/event-radar-10-unmissable-things-to-do-in-manchester-this-july" target="_blank">Creative Tourist</a>'s 10 unmissable things to do in Manchester this July.   
+         
 #### Venue + Booking Details        
 Date: Saturday 9 July, 12noon-5pm                
 Venue: within <a href="http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" target="_blank">St Ann's Square, Manchester, M2 7LF</a> and surrounding streets.       
@@ -29,8 +31,10 @@ Tickets: FREE/unticketed, turn up and discover activity around the square.
 Tel (on the day): 07581 299 439 (leave a message + we’ll get back to you)           
                 
 #### Artists (*subject to change*)         
-Aidan Strudwick | Alex Bradley + Bill Leslie | Ali Wilson + Jessica Gibson | Charlotte CHW | Dominique Baron-Bonarjee | Elena Koukoli + Andreas Papapetrou | Full Circle Arts + Playfuel | Instant Dissidence | Jin Bells | Nathaniel Mason | Output Arts | Sexcentenary | There There | un-earthed collective | Vivian Chinasa Ezugha               
+Aidan Strudwick | Alex Bradley + Bill Leslie | Ali Wilson + Jessica Gibson | Dominique Baron-Bonarjee | Elena Koukoli + Andreas Papapetrou | Full Circle Arts + Playfuel | Instant Dissidence | Jin Bells | Nathaniel Mason | Output Arts | Sexcentenary | There There | un-earthed collective | Vivian Chinasa Ezugha               
           
+*Please note*: due to illness, Charlotte CHW no longer appears.
+         
 For a glimpse of previous outbreaks of hazardous behaviour see 2014's [image gallery](/galleries/2014-hazard) + [programme](/archive/2014-hazard), or delve further with 2012's [gallery](/galleries/2012-hazard) + [programme](/archive/2012-hazard).          
          
 **Call for participants**: Dominique Baron-Bonarjee's *Collapse Manchester* is <a href="http://facebook.com/events/598733406960259" target="_blank">looking for brightly coloured slow-mobbers (via facebook)</a>, open to people of all ages and abilities.              
@@ -40,8 +44,6 @@ For a glimpse of previous outbreaks of hazardous behaviour see 2014's [image gal
 Manchester's stripiest festival returns to unleash a sixth wave of bizarre behaviour on the city centre, blurring the boundaries between art and activism… random actions, strange antics and ludic activities.               
 Aimed for you to encounter by chance, Hazard 2016 will be paperless on the day — see our [programme](/current/2016-hazard/programme) OR discover what is happening by clicking on a time… **[ongoing, 12noon-5pm](/current/2016-hazard/ongoing) | [12noon-1pm](/current/2016-hazard/12-1) | [1-2pm](/current/2016-hazard/1-2) | [2-3pm](/current/2016-hazard/2-3) | [3-4pm](/current/2016-hazard/3-4) | [4-5pm](/current/2016-hazard/4-5)**         
           
-Previewed in the <a href="http://www.manchestereveningnews.co.uk/whats-on/arts-culture-news/human-mini-golf-manchester-hazard-11576027" target="_blank">Manchester Evening News</a>, Hazard 2016 is one of <a href="http://www.creativetourist.com/articles/festivals-and-events/manchester/event-radar-10-unmissable-things-to-do-in-manchester-this-july" target="_blank">Creative Tourist</a>'s 10 unmissable things to do in Manchester this July.               
-         
 #### Credits        
 [Hazard](/hab/hazard) 2016 is produced by [hÅb](/hab), in collaboration with the participating artists; supported using public funding by Arts Council England + funded by Manchester City Council. Thanks to the Royal Exchange Theatre.           
 Header image: Antje Hildebrandt, 2014         
