@@ -22,7 +22,7 @@ show_size: 4
 ### Saturday 9 July 2016, 12noon-5pm. Free     
 Incidental intervention and sited performance…<br>Cheeky, thought-provoking sprees of eccentricity…        
          
-Now that it's over, read <a href="http://quietmandave.co.uk/2016/07/hazard" target="_blank">QuietManDave</a>'s review; Hazard 2016 was one of <a href="http://www.creativetourist.com/articles/festivals-and-events/manchester/event-radar-10-unmissable-things-to-do-in-manchester-this-july" target="_blank">Creative Tourist</a>'s unmissable events + previewed by the <a href="http://www.manchestereveningnews.co.uk/whats-on/arts-culture-news/human-mini-golf-manchester-hazard-11576027" target="_blank">Manchester Evening News</a>.          
+Now that it's over, read <a href="http://quietmandave.co.uk/2016/07/hazard" target="_blank">QuietManDave</a>'s review; Hazard 2016 was previewed by <a href="http://www.manchestereveningnews.co.uk/whats-on/arts-culture-news/human-mini-golf-manchester-hazard-11576027" target="_blank">Manchester Evening News</a> + one of <a href="http://www.creativetourist.com/articles/festivals-and-events/manchester/event-radar-10-unmissable-things-to-do-in-manchester-this-july" target="_blank">Creative Tourist</a>'s unmissable events.          
          
 #### Venue + Booking Details        
 Date: Saturday 9 July, 12noon-5pm                
