@@ -34,7 +34,7 @@ Surtitling the public's personal sense of expression — a playful set of 'in th
 **Ali Wilson + Jessica Gibson | *Pair of Pears***          
 We are a pair of Pears and we are looking for each other. 3—2—1—GO!          
          
-**Charlotte CHW | *Caution: Falling…***         
+**Charlotte CHW | *Caution: Falling…*** (no longer appears)         
 Falling isn't a work of art but nor is it a crime. People are doing it in public every day. We just choose not to see it.             
            
 **Dominique Baron-Bonarjee | *Collapse Manchester***             
