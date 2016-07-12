@@ -48,7 +48,7 @@ A pointless body, a meaningless action, a nonsensical intervention into the city
          
 Emerging Manchester artist Jin Bells works between theatre and performance art and has undertaken a residency at CRASH2016 and has upcoming performances at Islington Mill, Salford and Tempting Failure Festival, London.            
           
-**Charlotte CHW | *Caution: Falling…***         
+**Charlotte CHW | *Caution: Falling…*** (no longer appears)          
 Falling down, falling from grace, falling off, falling out.        
 But falling isn't a work of art? People are doing it in public everyday. We just choose not to see it.        
 You may not see her today, genuinely. She fights to conceal her public fall, but only so much privacy can ever be afforded in public and falling is not a crime.          
