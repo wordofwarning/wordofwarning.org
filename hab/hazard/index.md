@@ -17,7 +17,7 @@ header_image: "header_2012_hazard.jpg"
 ---         
 **Hazard** is our biennial micro-festival of incidental intervention and sited performance, blurring the boundaries between art and activism…                    
               
-Our **[sixth Hazard](/current/2016-hazard)** popped up in Manchester on Saturday 9 July 2016, with some 14 works in <a href='http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU' target='_blank'>St Ann's Square</a> and surrounding streets.          
+Our **[sixth Hazard](/current/2016-hazard)** popped up in Manchester on Saturday 9 July 2016, with some 14 works taking over <a href='http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU' target='_blank'>St Ann's Square</a> and surrounding streets.          
             
 Since 2007 nearly 100 artists have taken to the streets of Manchester including: Action Hero, Alex Bradley, Kris Canavan, Nicola Hunter, Jordan Mackenzie, Juliann O'Malley, Katherina Radeva, Michael Pinchbeck, Richard DeDomenici, Shahram Entekhabi, the vacuum cleaner — so far we've wrapped Cathedral Gardens in fluttering hazard tape, hosted the world's slowest fairground ride, moved the goalposts (literally) and witnessed breastfeeding in a shop window — oh, and conducted a hoola-hoopathon; The Larks have had the public riddling, racing and chasing as urban archaeologists and private investigators, injecting mass gaming into St Ann's Square and beyond.             
               
