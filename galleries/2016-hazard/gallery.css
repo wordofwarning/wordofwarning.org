@@ -1,0 +1,25 @@
+body
+	{background:#111; color: #fff;}
+body, #slidecaption
+	{font-family: "minion-pro", Georgia, Times;}
+h1
+	{color: white; font-size:72px; font-weight:normal; line-height:60px; padding-bottom:20px;}
+p
+	{margin:20px;}
+#controls-wrapper
+	{background:#fd0 url(hazardlogos.gif) no-repeat right;}
+#slidecaption
+	{font-size:18px; margin-left:20px; color: #000; text-shadow: none;}
+#header
+	{width:130px;padding:20px;}	
+#header #info
+	{display:none;}
+#header:hover 
+	{background: #fd0; cursor:pointer;}
+#header:hover #info
+	{display: block;}
+		
+a, a:visited, a:hover
+	{color: #000; font-weight:bold; display:block; text-decoration:none;}
+a:hover
+	{text-decoration:underline;}
