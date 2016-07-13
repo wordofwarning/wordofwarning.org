@@ -16,7 +16,7 @@ gallery:
     -   {file: "titlepage.jpg", show: "<small>Images copyright &copy;2016 Word of Warning</small>"}
     -   {file: "terri1.jpg", artist: "Terri Donovan"}
     -   {file: "terri2.jpg", artist: "Terri Donovan"}
-    -   {file: "terri2.jpg", artist: "Terri Donovan"} 
+    -   {file: "terri3.jpg", artist: "Terri Donovan"} 
     -   {file: "afreena1.jpg", artist: "Afreena Islam"}
     -   {file: "afreena2.jpg", artist: "Afreena Islam"}
     -   {file: "afreena3.jpg", artist: "Afreena Islam"}
