@@ -16,10 +16,11 @@ header_image: "header_emergency_photo.jpg"
 
 ---
 **Emergency**, *our annual platform for live art and contemporary performance, is legally allowed to drive this autumn!*          
-Our **seventeenth Emergency** takes place on **Saturday 1 October 2016**, at [Z-arts](http://www.z-arts.org/about-us/getting-here), Manchester (12noon-10pm) with the callout for proposals now open until **Friday 19 August, 5pm** — click [here](http://emergencymcr.posthaven.com) for full details.             
+           
+Our **seventeenth Emergency** takes place on **Saturday 1 October 2016** at [Z-arts](http://www.z-arts.org/about-us/getting-here), Manchester (12noon-10pm), with the callout for proposals open until **Friday 19 August, 5pm** — click [here](http://emergencymcr.posthaven.com) for full details.             
          
-With a whole range of spaces to fill — what we now need is a lots of great work! So…      
-Artists working in live art, contemporary performance, time-based media + interdisciplinary arts are invited to submit proposals of short pieces of work, works-in-progress or extracts of longer works for inclusion in this event. Proposals are also encouraged for durational, one-to-one + limited capacity work; performance installation + intervention-based works in and around the spaces.       
+With a whole range of spaces to fill — what we now need is a lots of great work!         
+So… Artists working in live art, contemporary performance, time-based media and interdisciplinary arts are invited to submit proposals of short pieces of work, works-in-progress or extracts of longer works for inclusion in this event. Proposals are also encouraged for durational, one-to-one and limited capacity work; performance installation and intervention-based works in and around the spaces available.       
                
 **Emergency is:**    
 • a free, public micro-festival + open submission platform;   
@@ -28,21 +29,21 @@ Artists working in live art, contemporary performance, time-based media + interd
           
 Work can be in any relevant artform/medium, though some live presence is desirable. Show-type work should be 20 minutes max in duration, low tech and suitable for quick turnarounds, self-supporting in terms of props/set/equipment and specialised technology.        
           
-Emergency will offer an honorarium of up to £100 per piece selected, to cover fees/expenses.         
+Emergency 2016 will offer an honorarium of up to £100 per piece selected, to cover fees/expenses.         
+          
+To get a feel for it, have a look at the 2015 [programme](/archive/2015-emergency) + [gallery](/galleries/2015-emergency).           
+• Enquiries: <mailto:emergency@habarts.org> | <http://emergencymcr.org> | #EmergencyMcr      
          
-To apply:    
+**To apply:**       
 • download the Emergency Open Call Guidance Notes [here](http://emergencymcr.posthaven.com);         
 • complete the [Online Proposal form]( https://habarts.wufoo.com/forms/z1i31f0m03ovwoe/);            
 • complete the [Online Monitoring form](https://habarts.wufoo.com/forms/r19tdg9m0h21yu0/) (*please do, it really helps us!*);            
-         
-**DEADLINE Friday 19 August 2016, 5pm.**      
-         
+          
+**DEADLINE: Friday 19 August 2016, 5pm.**      
+          
 Actual links, to cut + paste into a web browser:         
 http://emergencymcr.posthaven.com/emergency-2016-1-oct-2016-manchester-call-for-proposals-now-open          
 http://habarts.wufoo.com/forms/z1i31f0m03ovwoe            
 http://habarts.wufoo.com/forms/r19tdg9m0h21yu0         
              
-To get a feel for it, have a look at the 2015 [programme](/archive/2015-emergency) + [gallery](/galleries/2015-emergency).           
-• Enquiries: <mailto:emergency@habarts.org> | <http://emergencymcr.org> | #EmergencyMcr          
-              
 Emergency 2016 is presented by Word of Warning; produced by hÅb; supported using public funding by Arts Council England, and by Manchester City Council, STUN + Z-arts.
