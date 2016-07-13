@@ -15,7 +15,9 @@ header_image: "header_emergency_photo.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Emergency** our annual platform for live art and contemporary performance, is legally allowed to drive!  To get a feel for it, have a look at the 2015 [programme](/archive/2015-emergency) and [gallery](/galleries/2015-emergency).  In 2016 the seventeenth Emergency takes place on **Saturday 1 October**, at [Z-arts](http://www.z-arts.org/about-us/getting-here), Manchester (12-10pm) with the callout for proposals open from Wednesday 13 July to **Friday 19 August, 5pm** — click [here](http://emergencymcr.posthaven.com) for full details.    
+***Emergency** our annual platform for live art and contemporary performance, is legally allowed to drive!*    
+To get a feel for it, have a look at the 2015 [programme](/archive/2015-emergency) and [gallery](/galleries/2015-emergency).    
+In 2016 the seventeenth Emergency takes place on **Saturday 1 October**, at [Z-arts](http://www.z-arts.org/about-us/getting-here), Manchester (12-10pm) with the callout for proposals open from Wednesday 13 July to **Friday 19 August, 5pm** — click [here](http://emergencymcr.posthaven.com) for full details.    
 
 With a whole range of spaces to fill — what we now need is a lots of great work! So…      
 Artists working in live art, contemporary performance, time-based media and interdisciplinary arts are invited to submit proposals of short pieces of work, works in progress or extracts of longer works for inclusion in this event. Proposals are also encouraged for durational, one to one and limited capacity work; performance installation and intervention-based works in and around the spaces.    
