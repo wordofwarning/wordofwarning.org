@@ -15,7 +15,7 @@ header_image: "header_emergency_photo.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-***Emergency** our annual platform for live art and contemporary performance, is legally allowed to drive!*    
+**Emergency** *our annual platform for live art and contemporary performance, is legally allowed to drive!*    
 To get a feel for it, have a look at the 2015 [programme](/archive/2015-emergency) and [gallery](/galleries/2015-emergency).    
 In 2016 the seventeenth Emergency takes place on **Saturday 1 October**, at [Z-arts](http://www.z-arts.org/about-us/getting-here), Manchester (12-10pm) with the callout for proposals open from Wednesday 13 July to **Friday 19 August, 5pm** — click [here](http://emergencymcr.posthaven.com) for full details.    
 
