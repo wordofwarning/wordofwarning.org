@@ -37,7 +37,8 @@ Emergency 2016 will offer an honorarium of up to £100 per piece selected, to co
 **To apply:**       
 • download the Emergency Open Call Guidance Notes [here](http://emergencymcr.posthaven.com);         
 • complete the [Online Proposal form]( https://habarts.wufoo.com/forms/z1i31f0m03ovwoe/);            
-• complete the [Online Monitoring form](https://habarts.wufoo.com/forms/r19tdg9m0h21yu0/) (*please do, it really helps us!*).         • Enquiries: <mailto:emergency@habarts.org> | <http://emergencymcr.org> | #EmergencyMcr         
+• complete the [Online Monitoring form](https://habarts.wufoo.com/forms/r19tdg9m0h21yu0/) (*please do, it really helps us!*).         
+• Enquiries: <mailto:emergency@habarts.org> | <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>         
           
 **DEADLINE: Friday 19 August 2016, 5pm.**      
           
