@@ -43,7 +43,8 @@ To apply:
 Actual links:    
 http://emergencymcr.posthaven.com/emergency-2016-1-oct-2016-manchester-call-for-proposals-now-open    
 https://habarts.wufoo.com/forms/z1i31f0m03ovwoe/
-https://habarts.wufoo.com/forms/r19tdg9m0h21yu0/
+https://habarts.wufoo.com/forms/r19tdg9m0h21yu0/    
+
 Enquiries: <mailto:emergency@habarts.org> ¦ <http://emergencymcr.org> ¦ #EmergencyMcr         
 
 Emergency 2016 is presented by Word of Warning; produced by hÅb; supported using public funding by Arts Council England, and by Manchester City Council, STUN + Z-arts.
