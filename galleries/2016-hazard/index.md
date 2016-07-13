@@ -27,7 +27,6 @@ gallery:
     -   {file: "jin1.jpg", artist: "Jin Bells", show: "Head in Hole"}
     -   {file: "jin2.jpg", artist: "Jin Bells", show: "Head in Hole"}
     -   {file: "therethere1.jpg", artist: "There There", show: "Text Home"}
-    -   {file: "therethere2.jpg", artist: "There There", show: "Text Home"}
     -   {file: "golf.jpg", artist: "Aidan Strudwick", show: "Human Mini-Golf"}
     -   {file: "collapse1.jpg", artist: "Dominique Baron-Bonarjee", show: "Collapse Mcr"}
     -   {file: "collapse2.jpg", artist: "Dominique Baron-Bonarjee", show: "Collapse Mcr"}
