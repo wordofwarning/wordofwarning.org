@@ -17,7 +17,7 @@ header_image: "header_emergency_photo.jpg"
 ---
 **Emergency**, *our annual platform for live art and contemporary performance, is legally allowed to drive this autumn!*          
            
-Our **seventeenth Emergency** takes place on **Saturday 1 October 2016** (12noon-10pm) at [Z-arts](http://www.z-arts.org/about-us/getting-here), Manchester , with the callout for proposals open until **Friday 19 August, 5pm** — click [here](http://emergencymcr.posthaven.com) for full details.             
+Our **seventeenth Emergency** takes place on **Saturday 1 October 2016** (12noon-10pm) in Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, with the callout for proposals open until **Friday 19 August, 5pm** — click [here](http://emergencymcr.posthaven.com) for full details.             
          
 With a whole range of spaces to fill — what we now need is a lots of great work!         
 So… Artists working in live art, contemporary performance, time-based media and interdisciplinary arts are invited to submit proposals of short pieces of work, works-in-progress or extracts of longer works for inclusion in this event.           
@@ -35,9 +35,9 @@ Work can be in any relevant artform/medium, though some live presence is desirab
 Emergency 2016 will offer an honorarium of up to £100 per piece selected, to cover fees/expenses.         
           
 **To apply:**       
-• download the Emergency Open Call Guidance Notes [here](http://emergencymcr.posthaven.com);         
-• complete the [Online Proposal form]( https://habarts.wufoo.com/forms/z1i31f0m03ovwoe/);            
-• complete the [Online Monitoring form](https://habarts.wufoo.com/forms/r19tdg9m0h21yu0/) (*please do, it really helps us!*).         
+• download the Emergency Open Call Guidance Notes <a href="http://emergencymcr.posthaven.com" target="_blank">here</a>;         
+• complete the <a href="http://habarts.wufoo.com/forms/z1i31f0m03ovwoe" target="_blank">Online Proposal form</a>;            
+• complete the <a href="http://habarts.wufoo.com/forms/r19tdg9m0h21yu0" target="_blank">Online Monitoring form</a> (*please do, it really helps us!*).         
 • Enquiries: <mailto:emergency@habarts.org> | <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>         
           
 **DEADLINE: Friday 19 August 2016, 5pm.**      
