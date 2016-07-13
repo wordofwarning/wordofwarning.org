@@ -36,6 +36,8 @@ gallery:
     -   {file: "thinair2.jpg", artist: "Elena Koukoli + Andreas Papapetrou", show: "Out of Thin Air"}
     -   {file: "vivian1.jpg", artist: "Vivian Chinasa Ezugha", show: "Because of hair; the dichotomy of culture and identity"}
 	-   {file: "vivian1.jpg", artist: "Vivian Chinasa Ezugha", show: "Because of hair; the dichotomy of culture and identity"}
+    -   {file: "vivan1.jpg", artist: "Vivian Chinasa Ezugha", show: "Because of hair; the dichotomy of culture and identity"}
+    -   {file: "vivan1.jpg", artist: "Vivian Chinasa Ezugha", show: "Because of hair; the dichotomy of culture and identity"}
     -   {file: "CAYA2.jpg", artist: "Alex Bradley + Bill Leslie", show: "Come As You Are"}
 
 ---
