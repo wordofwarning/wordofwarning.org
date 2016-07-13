@@ -25,7 +25,7 @@ gallery:
     -   {file: "topjoe3.jpg", artist: "Top Joe"}
     -   {file: "lucy1.jpg", artist: "Lucy McCormick"}
     -   {file: "lucy2.jpg", artist: "Lucy McCormick"}
-     -  {file: "lucy3.jpg", artist: "Lucy McCormick"}
+    -   {file: "lucy3.jpg", artist: "Lucy McCormick"}
    
 
 ---
