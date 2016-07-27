@@ -1,14 +1,14 @@
 ---
 # CONFIGURATION
-layout: 2016-springsummer
+layout: 2016-autumnwinter
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Verity Standen" # the name of the artist or company
-show: "HUG" # the name of the show
+artist: "who" # the name of the artist or company
+show: "what" # the name of the show
 artist_size: 1
 show_size: 1
-header_image: "header_hug.jpg"    
+header_image: "header_.jpg"    
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -16,17 +16,14 @@ header_image: "header_hug.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Derelict *+* Word of Warning, *supported by* UCLan<br>*Part of* Thursday Lates *at* the Whitworth *in Manchester*         
+*Presented by* Word of Warning + *who*         
 
 #### In Brief      
-An immersive choral sound bath…         
-
-'Song erupts around you… startling, moving and genuinely immersive.'<br><a href="http://www.theguardian.com/stage/2014/jul/20/latitude-festival-theatre-review" target="_blank">
-★★★★ The Guardian</a>
-
+Ipsum lorem…         
+         
 *Booking essential as each performance has a limited capacity.*         
-
-#### Manchester Venue + Booking Details (the Whitworth)        
+         
+#### Venue + Booking Details (the Whitworth)        
 (Manchester Date: Thursday 7 April 2016, 6/6.45/7.30/8.15pm: all sold-out)        
 Manchester Venue: <a href="http://www.whitworth.manchester.ac.uk/visit/gettinghere" target="_blank">the Whitworth (Grand Hall)</a>, The University of Manchester, Oxford Road, Manchester, M15 6ER             
 Manchester Tickets: <a href="http://www.wegottickets.com/wordofwarning" target="_blank">free to book online</a>, donations are welcome on the day.           
