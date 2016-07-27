@@ -1,14 +1,14 @@
 ---
 
 # CONFIGURATION
-layout: 2016-woah
+layout: 2016-divergency
 rootpath: "../../"
 is_index: true
 
 # ABOUT THE SHOW - GENERIC
-artist: "Works Ahead 2016" # the name of the artist or company
-show: "Annual new performance sampler." # the name of the show
-artist_size: 2
+artist: "Divergency" # the name of the artist or company
+show: "An evening of the different." # the name of the show
+artist_size: 1
 show_size: 3
 
 # ABOUT THE SHOW - LAYOUT
@@ -19,8 +19,8 @@ show_size: 3
 ---
 *Presented by* Word of Warning + Contact
          
-### Friday 3 + Saturday 4 June 2016        
-**Different stages, different scales, still Works Ahead…**          
+### Thursday 6 October 2016        
+**An evening of emerging works by artists as diverse as their subject matter.**          
 Two very different double bills make up our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content. [Autumn 2015](/archive/2015-autumnwinter) saw Word of Warning show over 40 emerging performances in spaces ranging from a building site to a theatre… From this enormous variety of work we have invited four artists at different stages in their careers to further develop their shows for Works Ahead 2016. They're all at the very beginning of their explorations…        
         
 **Compact Edition, 5pm + 6pm. £4/2** (*limited capacity, repeats*)        
