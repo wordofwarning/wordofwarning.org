@@ -32,6 +32,9 @@ Box Office Tel: 0161 274 0600
 #### Access Information        
 Age advisory: 15+ ***With no interval, the show lasts approximately ??? minutes. Primarily English spoken word + music???*** For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
+#### Q&A         
+On Tuesday 22 November, following a short break, there will be a post-show talk with Greg.          
+         
 #### More      
 It's an experiment in time drag; wearing another time as drag and dragging another time into the present. What happens if the *Comeback* comes back? ***ADD?***
          
@@ -45,7 +48,7 @@ Greg Wohead is a writer and performer who makes theatre shows, 1-to-1 performanc
 >*Original…innovative*<br><a href="http://" target="_blank">A Younger Theatre</a>          
          
 #### Credits          
-A LOT OF THEM.        
+Co-commissioned by Shoreditch Town Hall, Theatre in the Mill + South Street Arts Centre. A Jerwood Charitable Foundation/Bristol Old Vic Ferment Commission. Developed at MAKE, Bios, Greenwich and Lewisham Young People's Theatre + the New Wolsey Theatre. Initially supported through a 2014 Dance and the Homemade Commission by Chisenhale Dance Space. Supported using public funding by the National Lottery through Arts Council England.        
          
 #### Websites          
 <a href="http://gregwohead.com" target="_blank">gregwohead.com</a> | <a href="http://twitter.com/gregwohead" target="_blank">@gregwohead</a> | <a href="http://twitter.com/hashtag/ComebackSpecial" target="_blank">#ComebackSpecial</a>
