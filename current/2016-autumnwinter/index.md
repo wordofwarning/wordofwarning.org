@@ -6,7 +6,7 @@ rootpath: "../../"
 is_index: true
 
 ---
-*Ipsum lorem from a [comeback](/current/2016-autumnwinter/wohead) to an [emergency](/current/2016-emergency), a [diverse evening](/current/2016-diversity) and a [surprise](/current/2016-autumnwinter/spare…*          
+*Ipsum lorem from a [comeback](/current/2016-autumnwinter/wohead) to an [emergency](/current/2016-emergency), a [diverse evening](/current/2016-diversity) and a [surprise](/current/2016-autumnwinter/spare)…*          
           
 Brought to you by hÅb with Black Gold Arts Festival???, Contact, Sustained Theatre Up North, the Whitworth??? + Z-arts, we look forward to seeing you at some or all of Autumn/Winter 2016. If you want to check out what happened last season take a look at our [Spring/Summer 2016 archive](/archive/2016-springsummer), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=144976563660" target="_blank">online survey</a>.       
              
