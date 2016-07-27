@@ -1,14 +1,14 @@
 ---
 
 # CONFIGURATION
-layout: 2016-springsummer
+layout: 2016-autumnwinter
 rootpath: "../../"
 is_index: true
 
 ---
-*From a [resonant embrace](/current/2016-springsummer/standen) to a [city takeover bid](/current/2016-hazard), a season of [twists and turns](/current/2016-turn); [eggs](/current/2016-springsummer/redux), [coffee](/current/2016-springsummer/igorandmoreno) and [spicy moments](/current/2016-worksahead)…*          
+*Ipsum lorem from a [comeback](/current/2016-autumnwinter/wohead) to an [emergency](/current/2016-emergency), a [diverse evening](/current/2016-diversity) and a [surprise](/current/2016-autumnwinter/spare…*          
           
-Brought to you by hÅb with Derelict, UCLan, the Whitworth, Contact, Dance Manchester, HOME, The Lowry + The Place, we look forward to seeing you at some or all of Spring/Summer 2016. If you want to check out what happened last season take a look at our [Spring 2016 archive](/archive/2016-spring), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=144976563660" target="_blank">online survey</a>.       
+Brought to you by hÅb with Black Gold Arts Festival???, Contact, Sustained Theatre Up North, the Whitworth??? + Z-arts, we look forward to seeing you at some or all of Autumn/Winter 2016. If you want to check out what happened last season take a look at our [Spring/Summer 2016 archive](/archive/2016-springsummer), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=144976563660" target="_blank">online survey</a>.       
              
 #### What is Word of Warning + where did it come from?
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of new live performance — an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work in Manchester + beyond…          
@@ -20,7 +20,7 @@ We take live work very seriously — but we don't take ourselves seriously at al
 #### Who's it for? Anyone looking for a different night (or day) out.            
 We don't want to put you off by talking labels – yes there'll be theatre, live art, dance – the aim is to be anything but elitist or po-faced. So if you like comedy, music, gaming or just a friendly, stimulating evening – there'll be something you might want to take a chance on.                 
         
-#### What our audiences said about the work in A/W 2015   
+#### What our audiences said about the work in A/W 2015 ***REDO***  
 >• *Lovely show, very personal and connected with the audience.*<br>• *Fantastic, atmospheric, with an amazing variety of work.*<br>• *Great to have such exciting off beat talent.*<br>• *Really open minded and entertaining. Left me deeply moved.*<br>• *So impressed. It was an emotional rollercoaster.*<br>• *…best live art event I've been to in ages.*        
         
 #### What our audiences have said about us           
@@ -33,4 +33,4 @@ I've been around a while, a really long while… and in that time, I've been res
           
 Please send programming enquiries to me at <mailto:info@habarts.org>             
 
-I'm joined in this lunacy by John Franklin, greenroom's long time programme co-ordinator. Often spotted in a hat or proffering a variety of bizarre refreshments, John is the friendly face greeting you and eliciting your feedback at many of our events. We are also grateful for the support of a growing band of hÅb-ettes — currently Afreena Islam, Catherine (Cat) Shaw + Sam Stockdale.        
+I'm joined in this lunacy by John Franklin, greenroom's long time programme co-ordinator. Often spotted in a hat or proffering a variety of bizarre refreshments, John is the friendly face greeting you and eliciting your feedback at many of our events. We are also grateful for the support of a growing band of hÅb-ettes — currently Afreena Islam, Catherine (Cat) Shaw + Sam Stockdale.
