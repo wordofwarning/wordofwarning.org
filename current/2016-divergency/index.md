@@ -22,23 +22,22 @@ show_size: 3
 ### Thursday 6 October 2016, 6-10pm        
 **An evening of tabletop performances, installations + sit-down shows feat. Maya Chowdhry, Jamil Keating, Chanje Kunda, Afreena Islam, Cheryl Martin, Chelsea Morgan, Toni-Dee Paul + Yvonne Shelton.**             
          
-From the earth beneath our feet to the stars in our skies, an evening of emerging works by a group of artists as diverse as their subject matter…              
-Quantum mechanics, homelessness, food and sex brought together in a series of tabletop performances, installations and sit-down shows.           
+From the earth beneath our feet to the stars in our skies, an evening of emerging works by a group of artists as diverse as their subject matter… Quantum mechanics, homelessness, food and sex brought together in a series of tabletop performances, installations and sit-down shows.           
          
-###Installation, 6-8.30pm. Free           
+### Installation, 6-8.30pm. Free           
 **Jamil Keating | *Asteroid RK1***        
 **Chelsea Morgan | *title tbc***         
 **Yvonne Shelton | *title tbc***         
          
-###Tabletop Triple Bill, 6pm. £6/3         
+### Tabletop Triple Bill, 6pm. £6/3         
 (*very limited capacity*)         
-**Maya Chowdry | *Peas on Earth***
-**Afreena Islam | *Daughters of the Curry Revolution***
-**Toni-Dee Paul | *My Faher's Kitchen***        
+**Maya Chowdry | *Peas on Earth***        
+**Afreena Islam | *Daughters of the Curry Revolution***        
+**Toni-Dee Paul | *My Father's Kitchen***        
          
-###Late Double Bill, 8.30pm. £6/3          
-**Chanje Kunda | *Superposition***
-**Cheryl Martin | *Who Wants to Live Forever (extract)***         
+### Late Double Bill, 8.30pm. £6/3          
+**Chanje Kunda | *Superposition***         
+**Cheryl Martin | *Who Wants to Live Forever (extract)***          
          
 #### Venue + Booking Details for Installation        
 Date: Thursday 6 October 2016, 6-8.30pm        
@@ -58,8 +57,8 @@ Date: Thursday 6 October 2016, 8.30pm
 Venue (Z-arts) Tel: 0161 232 6089       
          
 #### Access Information        
-Age advisory: primarily an adult event, may contain content not suitable for under 18s — Installation TBC; Tabletop Triple Bill TBC; Late Double Bill TBC. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.          
+Divergency is primarily an adult-focussed event, some works will not be suitable for younger viewers (i.e. under 18s). For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.          
           
 #### Credits         
 Divergency is an onging artist development programme supported by [hÅb](/hab) + <a href="http://stunlive.com" target="_blank">STUN</a>; supported using public funding by the National Lottery through Arts Council England. | Header image: Chanje Kunda          
-<a href="http://divergencymcr.posthaven.com" target="_blank">divergencymcr.posthaven.com/</a> | <a href="http://twitter.com/hashtag/Divergency" target="_blank">#Divergency</a>
+<a href="http://divergencymcr.posthaven.com" target="_blank">divergencymcr.posthaven.com</a> | <a href="http://twitter.com/hashtag/Divergency" target="_blank">#Divergency</a>
