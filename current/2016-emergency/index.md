@@ -21,7 +21,7 @@ header_image:
 ### Saturday 1 October 2016, 12noon-10pm. FREE             
 **Manchester's manic micro-marathon of the bizarre + the beautiful is legally allowed to drive this autumn!**         
          
-Our seventeenth annual performance lucky-dip is your chance to sample the different — all for free, with participating artists announced here mid-September.            
+Our seventeenth annual performance lucky-dip is your chance to sample the different — all for free, with participating artists announced mid-September.            
          
 To get a feel for it, have a look at 2015's [programme](/archive/2015-emergency) + [gallery](/galleries/2015-emergency).       
          
