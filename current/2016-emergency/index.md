@@ -19,13 +19,13 @@ header_image:
 *Presented by* Word of Warning, STUN + Z-arts
         
 ### Saturday 1 October 2016, 12noon-10pm. FREE             
-**Manchester's manic micro-marathon of the bizarre + the beautiful is legally allowed to drive this autumn!**         
+**Manchester's manic micro-marathon of the bizarre + the beautiful is legally allowed to drive this autumn! …our seventeenth annual performance lucky-dip.**         
          
 Your chance to sample the different — all for free, with participating artists announced here mid-September.            
          
 To get a feel for it, have a look at 2015's [programme](/archive/2015-emergency) + [gallery](/galleries/2015-emergency).       
          
-#### Venue + Booking Details for Daytime *TBC*         
+#### Venue + Booking Details for Daytime (*tbc*)         
 Date: Saturday 1 October 2016, 12noon-??pm        
 Venue: Hulme Library, Stretford Road, Manchester, M15 5FQ        
 Tickets: FREE no booking required, come + go as you please.        
@@ -48,4 +48,4 @@ Emergency 2016 is primarily an adult-focussed event and some works may not be su
 [Emergency](/hab/emergency) 2016 is produced by [hÅb](/hab); supported using public funding by Arts Council England, funded by Manchester City Council, supported by [STUN](http://stunlive.com) + [Z-arts](http://www.z-arts.org).        
         
 #### Websites
-<http://emergencymcr.org> |[#EmergencyMcr](http://twitter.com/hashtag/EmergencyMcr)
+<a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr<a>
