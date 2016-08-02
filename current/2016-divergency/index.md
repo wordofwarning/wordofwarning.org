@@ -17,60 +17,59 @@ show_size: 3
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning + Contact
+*Presented by* Word of Warning, STUN + Black Gold  Arts Festival         
          
-### Thursday 6 October 2016        
-**An evening of emerging works by artists as diverse as their subject matter.**          
-Two very different double bills make up our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content. [Autumn 2015](/archive/2015-autumnwinter) saw Word of Warning show over 40 emerging performances in spaces ranging from a building site to a theatre… From this enormous variety of work we have invited four artists at different stages in their careers to further develop their shows for Works Ahead 2016. They're all at the very beginning of their explorations…        
-        
-**Compact Edition, 5pm + 6pm. £4/2** (*limited capacity, repeats*)        
-***Two extra shows added due to demand: 4pm (both dates)***           
-Hidden stories and half-remembered truths from [Terri Donovan](/current/2016-worksahead/donovan) + [Afreena Islam](/current/2016-worksahead/islam).        
+### Thursday 6 October 2016, 6-10pm        
+**An evening of tabletop performances, installations + sit-down shows, featuring<br>Maya Chowdhry, Jamil Keating, Chanje Kunda, Afreena Islam, Cheryl Martin, Chelsea Morgan, Toni-Dee Paul + Yvonne Shelton.**             
+From the earth beneath our feet to the stars in our skies, an evening of emerging works by a group of artists as diverse as their subject matter…              
+Quantum mechanics, homelessness, food and sex brought together in a series of tabletop performances, installations and sit-down shows.           
          
-**Evening Edition, 7.30pm. £6/3**          
-From Dyson to the Passion — an unpredictable double bill from [Top Joe](/current/2016-worksahead/topjoe) + [Lucy McCormick](/current/2016-worksahead/mccormick).         
-          
-Now that its over, read a review by <a href="http://quietmandave.co.uk/2016/06/works-ahead" target="_blank">Quiet Man Dave</a>.         
+**Installation, 6-8.30pm. FREE**           
+Jamil Keating, Chelsea Morgan + Yvonne Shelton.        
+         
+**Tabletop Triple Bill, 6pm. £6/3** (*very limited capacity*)        
+Maya Chowdry, Afreena Islam + Toni-Dee Paul.        
+         
+**Late Double Bill, 8.30pm. £6/3**          
+Chanje Kunda + Cheryl Martin.         
           
 ### Artists        
-**Terri Donovan (Compact Edition, first part)**           
-"*Finding Elsie* is about me, my Dad, my Gran… and dementia. This is my exploration of how relationships change and continue to change in my attempt to find a true reflection of my Elsie."            
-          
-**Afreena Islam (Compact Edition, second part)**          
-"When I was little, I used to hang out at my dad's restaurant most weekends, back when they used to stay open until 5am. After a hard days toil running round like I owned the place I would fall asleep to the CCTV, my body on the chest freezer and my head resting on a pile of tablecloths."             
-          
-*Daughters of the Curry Revolution* is an exploration into her dad's life; from his journey to this country, to his journey to this day.           
-           
-**Top Joe (Evening Edition, first part)**             
-Top Joe is a timid character who wears a hi-vis jacket and only comes out at night. He occasionally braves leaving the house in order to meet people and give his thoughts on life, vouchers and pistachios.             
-          
-For Works Ahead he is developing a piece that explores the nature of Ross Kemp, Dyson vacuum cleaners, identity, comedy, and childhood.        
-          
-**Lucy McCormick (Evening Edition, second part)**         
-Post-popular prodigy Lucy McCormick and her Girl Squad present a trashstep-dubpunk morality play for the modern age. Casting herself in all the main roles, Lucy will attempt to re-connect to her own moral conscience by re-enacting old biblical stories via a nu-wave holy trinity of dance, power ballads and performance art. With trademark absurdism and enthusiasm, Lucy puts her best foot forward in the face of existential deadlock.          
+**Maya Chowdhry**        
+         
+**Jamil Keating**        
+         
+**Chanje Kunda**        
+         
+**Afreena Islam**        
+         
+**Cheryl Martin**        
+         
+**Chelsea Morgan**          
+
+**Toni-Dee Paul**           
+         
+**Yvonne Shelton**            
             
-#### Venue + Booking Details for Compact Edition        
-Dates: Friday 3 + Saturday 4 June 2016, 5pm + 6pm (*limited capacity, repeats*)        
-*Two extra shows added due to demand: 4pm (both dates)*              
-<a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact</a>, Oxford Road, Manchester, M15 6JA         
-<a href="http://contactmcr.com/whats-on/56892-works-ahead-compact-edition/booking" target="_blank">Tickets: £4/2</a>               
-Box Office Tel: 0161 274 0600        
-       
-#### Venue + Booking Details for Evening Edition        
-Dates: Friday 3 + Saturday 4 June 2016, 7.30pm        
-<a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact</a>, Oxford Road, Manchester, M15 6JA         
-<a href="http://contactmcr.com/whats-on/47292-works-ahead/booking" target="_blank">Tickets: £6/3</a>               
-Box Office Tel: 0161 274 0600        
+#### Venue + Booking Details for Installation        
+Date: Thursday 6 October 2016, 6-8.30pm        
+<a href="http://" target="_blank">Venue: TBC</a>         
+Tickets: FREE no booking required, come + go as you please.                
+         
+#### Venue + Booking Details for Tabletop Triple Bill         
+Date: Thursday 6 October 2016, 6pm (*very limited capacity*)       
+<a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
+<a href="http://" target="_blank">Tickets: £6/3</a>               
+Venue (Z-arts) Tel: 0161 232 6089       
           
-#### What people have said about Works Ahead        
->• *Brilliant works in progress, varied and interesting.*        
->• *Good to see a space for something a bit different.*        
->• *I enjoyed both shows even though they were very different. I look forward to seeing how they develop.*          
-[Audience feedback from 2015](/archive/2015-worksahead)
-          
+#### Venue + Booking Details for Late Duoble Bill         
+Date: Thursday 6 October 2016, 8.30pm        
+<a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts incl. STUN Studio</a>, 335 Stretford Road, Manchester, M15 5ZA          
+<a href="http://" target="_blank">Tickets: £6/3</a>               
+Venue (Z-arts) Tel: 0161 232 6089       
+         
 #### Access Information        
-Age advisory: Compact Edition 14+ (parental/guardian discretion); Evening Edition strictly 18+. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.          
+Age advisory: primarily an adult event, may contain content not suitable for under 18s — Installation TBC; Tabletop Triple Bill TBC; Late Double Bill TBC. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.          
           
 #### Credits         
-[Works Ahead](/hab/worksahead) 2016 is commissioned and produced by [hÅb](/hab) and <a href="http://contactmcr.com" target="_blank">Contact</a>; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentor: Peader Kirk        
-<a href="http://worksahead.org" target="_blank">worksahead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
+Divergency is an onging artist development programme supported by [hÅb](/hab) + <a href="http://stunlive.com" target="_blank">STUN</a>; supported using public funding by the National Lottery through Arts Council England. | Header image: Chanje Kunda          
+<a href="http://divergencymcr.posthaven.com" target="_blank">divergencymcr.posthaven.com/</a> | <a href="http://twitter.com/hashtag/Divergency" target="_blank">#Divergency</a>
