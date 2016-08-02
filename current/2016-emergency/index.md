@@ -19,9 +19,9 @@ header_image:
 *Presented by* Word of Warning, STUN + Z-arts
         
 ### Saturday 1 October 2016, 12noon-10pm. FREE             
-**Manchester's manic micro-marathon of the bizarre + the beautiful is legally allowed to drive this autumn! …our seventeenth annual performance lucky-dip.**         
+**Manchester's manic micro-marathon of the bizarre + the beautiful is legally allowed to drive this autumn!**         
          
-Your chance to sample the different — all for free, with participating artists announced here mid-September.            
+Our seventeenth annual performance lucky-dip is your chance to sample the different — all for free, with participating artists announced here mid-September.            
          
 To get a feel for it, have a look at 2015's [programme](/archive/2015-emergency) + [gallery](/galleries/2015-emergency).       
          
@@ -45,7 +45,7 @@ Emergency 2015 was a [Guardian top theatre ticket](http://www.theguardian.com/st
 Emergency 2016 is primarily an adult-focussed event and some works may not be suitable for younger viewers (i.e. under 18s). It takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some of the work may not be wheelchair accessible. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
             
 #### Credits         
-[Emergency](/hab/emergency) 2016 is produced by [hÅb](/hab); supported using public funding by Arts Council England, funded by Manchester City Council, supported by [STUN](http://stunlive.com) + [Z-arts](http://www.z-arts.org).        
-        
+[Emergency](/hab/emergency) 2016 is produced by [hÅb](/hab); supported using public funding by Arts Council England, and by Manchester City Council, [STUN](http://stunlive.com) + [Z-arts](http://www.z-arts.org).        
+         
 #### Websites
 <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr<a>
