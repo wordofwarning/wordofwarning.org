@@ -20,36 +20,26 @@ show_size: 3
 *Presented by* Word of Warning, STUN + Black Gold  Arts Festival         
          
 ### Thursday 6 October 2016, 6-10pm        
-**An evening of tabletop performances, installations + sit-down shows<br>Maya Chowdhry, Jamil Keating, Chanje Kunda, Afreena Islam, Cheryl Martin, Chelsea Morgan, Toni-Dee Paul + Yvonne Shelton.**             
+**An evening of tabletop performances, installations + sit-down shows feat. Maya Chowdhry, Jamil Keating, Chanje Kunda, Afreena Islam, Cheryl Martin, Chelsea Morgan, Toni-Dee Paul + Yvonne Shelton.**             
+         
 From the earth beneath our feet to the stars in our skies, an evening of emerging works by a group of artists as diverse as their subject matter…              
 Quantum mechanics, homelessness, food and sex brought together in a series of tabletop performances, installations and sit-down shows.           
          
-**Installation, 6-8.30pm. FREE**           
-Jamil Keating, Chelsea Morgan + Yvonne Shelton.        
+###Installation, 6-8.30pm. Free           
+**Jamil Keating | *Asteroid RK1***        
+**Chelsea Morgan | *title tbc***         
+**Yvonne Shelton | *title tbc***         
          
-**Tabletop Triple Bill, 6pm. £6/3** (*very limited capacity*)        
-Maya Chowdry, Afreena Islam + Toni-Dee Paul.        
+###Tabletop Triple Bill, 6pm. £6/3         
+(*very limited capacity*)         
+**Maya Chowdry | *Peas on Earth***
+**Afreena Islam | *Daughters of the Curry Revolution***
+**Toni-Dee Paul | *My Faher's Kitchen***        
          
-**Late Double Bill, 8.30pm. £6/3**          
-Chanje Kunda + Cheryl Martin.         
-          
-### Artists        
-**Maya Chowdhry**        
+###Late Double Bill, 8.30pm. £6/3          
+**Chanje Kunda | *Superposition***
+**Cheryl Martin | *Who Wants to Live Forever (extract)***         
          
-**Jamil Keating**        
-         
-**Chanje Kunda**        
-         
-**Afreena Islam**        
-         
-**Cheryl Martin**        
-         
-**Chelsea Morgan**          
-
-**Toni-Dee Paul**           
-         
-**Yvonne Shelton**            
-            
 #### Venue + Booking Details for Installation        
 Date: Thursday 6 October 2016, 6-8.30pm        
 <a href="http://" target="_blank">Venue: TBC</a>         
