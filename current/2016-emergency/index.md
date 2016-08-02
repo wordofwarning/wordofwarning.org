@@ -25,21 +25,27 @@ Your chance to sample the different — all for free, with participating artists
          
 To get a feel for it, have a look at 2015's [programme](/archive/2015-emergency) + [gallery](/galleries/2015-emergency).       
          
-#### Venue + Booking Details         
-Date: Saturday 1 October 2016, 12noon-10pm        
-[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
+#### Venue + Booking Details for Daytime *TBC*         
+Date: Saturday 1 October 2016, 12noon-??pm        
+Venue: Hulme Library, Stretford Road, Manchester, M15 5FQ        
 Tickets: FREE no booking required, come + go as you please.        
-*N.B. Some limited capacity shows have sign-up sheets on the day, others operate on a first come, first served basis.*          
-Venue Tel: 0161 232 6089         
-       
+*N.B. Some limited capacity shows may have sign-up sheets on the day, others may operate on a first come, first served basis.*        
+          
+#### Venue + Booking Details for Evening         
+Date: Saturday 1 October 2016, ??-10pm        
+[Venue: Z-arts (incl STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
+Tickets: FREE no booking required, come + go as you please.        
+*N.B. Some limited capacity shows may have sign-up sheets on the day, others may operate on a first come, first served basis.*        
+Venue (Z-arts) Tel: 0161 232 6089         
+         
 #### What people have said about Emergency        
 Emergency 2015 was a [Guardian top theatre ticket](http://www.theguardian.com/stage/theatreblog/2015/sep/28/romola-garai-fun-palaces-pomona-theatre-top-tickets).                 
           
 #### Access Information       
-Emergency 2016 is primarily an adult-focussed event, some works will not be suitable for younger viewers (i.e. under 18s). From 12noon experience durational and limited capacity work; from 4pm onwards see a short series of short performances. It takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some of the work is not wheelchair accessible. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
+Emergency 2016 is primarily an adult-focussed event and some works may not be suitable for younger viewers (i.e. under 18s). It takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some of the work may not be wheelchair accessible. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
             
 #### Credits         
-[Emergency](/hab/emergency) 2016 is produced by [hÅb](/hab); supported using public funding by Arts Council England, funded by Manchester City Council, supported by [STUN](http://stunlive.com) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.        
+[Emergency](/hab/emergency) 2016 is produced by [hÅb](/hab); supported using public funding by Arts Council England, funded by Manchester City Council, supported by [STUN](http://stunlive.com) + [Z-arts](http://www.z-arts.org).        
         
 #### Websites
 <http://emergencymcr.org> |[#EmergencyMcr](http://twitter.com/hashtag/EmergencyMcr)
