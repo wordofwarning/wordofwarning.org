@@ -20,7 +20,7 @@ show_size: 3
 *Presented by* Word of Warning, STUN + Black Gold  Arts Festival         
          
 ### Thursday 6 October 2016, 6-10pm        
-**An evening of tabletop performances, installations + sit-down shows, featuring<br>Maya Chowdhry, Jamil Keating, Chanje Kunda, Afreena Islam, Cheryl Martin, Chelsea Morgan, Toni-Dee Paul + Yvonne Shelton.**             
+**An evening of tabletop performances, installations + sit-down shows<br>Maya Chowdhry, Jamil Keating, Chanje Kunda, Afreena Islam, Cheryl Martin, Chelsea Morgan, Toni-Dee Paul + Yvonne Shelton.**             
 From the earth beneath our feet to the stars in our skies, an evening of emerging works by a group of artists as diverse as their subject matter…              
 Quantum mechanics, homelessness, food and sex brought together in a series of tabletop performances, installations and sit-down shows.           
          
@@ -61,7 +61,7 @@ Date: Thursday 6 October 2016, 6pm (*very limited capacity*)
 <a href="http://" target="_blank">Tickets: £6/3</a>               
 Venue (Z-arts) Tel: 0161 232 6089       
           
-#### Venue + Booking Details for Late Duoble Bill         
+#### Venue + Booking Details for Late Double Bill         
 Date: Thursday 6 October 2016, 8.30pm        
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts incl. STUN Studio</a>, 335 Stretford Road, Manchester, M15 5ZA          
 <a href="http://" target="_blank">Tickets: £6/3</a>               
