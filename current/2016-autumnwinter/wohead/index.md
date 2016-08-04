@@ -30,7 +30,7 @@ Dates: Tuesday 22 — Thursday 24 November 2016, 8pm
 Box Office Tel: 0161 274 0600         
         
 #### Access Information        
-Age advisory: 15+ With no interval, the show lasts approximately ***?? minutes***. Primarily English spoken word + music***???*** For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
+Age advisory: 15+ With no interval, the show lasts approximately ***??*** minutes. Primarily English spoken word + music***?*** For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
 #### Q&A         
 On Tuesday 22 November, following a short break, there will be a post-show talk with Greg.          
@@ -45,7 +45,9 @@ Greg welcomes Elvis fans, theatre fans and anyone who thinks this peculiar re-en
 #### Who is he?     
 Greg Wohead is a writer, performer and live artist; originally from Texas, he makes make theatre performances, one-to-one pieces and audio work — most recently for Word of Warning in 2013's [Domestic](/archive/2013-domestic/wohead).             
          
-His work sometimes orbits around larger-than-life American icons, for better or worse; recently he's been preoccupied with surrogates, re-enactments and radical manifestations of masculinity.<br>Prioritising a sense of the personal and the exposing, his practice veers between writing and actions, hilarity and disgust, things that are obvious and things that are left unsaid; he tries never to make the same piece twice.            
+His work sometimes orbits around larger-than-life American icons, for better or worse; recently he's been preoccupied with surrogates, re-enactments and radical manifestations of masculinity.         
+         
+Prioritising a sense of the personal and the exposing, his practice veers between writing and actions, hilarity and disgust, things that are obvious and things that are left unsaid; he tries never to make the same piece twice.            
          
 In the past his work has mainly been a solo practice, but recently he's enjoyed collaborations with artists like Rachel Mars + Joe Wild, among others.<br>He's shown and developed new work internationally at Battersea Arts Centre, Bristol Old Vic, Ovalhouse, Mayfest, Pulse Festival, Northern Stage, Chapter Arts Centre, Forest Fringe, MC (Amsterdam), Orchard Project (New York), MAKE (Ireland), Bios (Athens), LAX Festival (Los Angeles), Fusebox Festival (Austin) + ArtPower (San Diego).<br>Greg is an Associate Artist at The Yard + Shoreditch Town Hall in London.           
          
@@ -56,7 +58,7 @@ In the past his work has mainly been a solo practice, but recently he's enjoyed 
 >*Original… innovative…*<br><a href="http://www.ayoungertheatre.com/review-comeback-special-shoreditch-town-hall" target="_blank">A Younger Theatre</a>       
          
 #### Credits          
-Co-commissioned by Shoreditch Town Hall, Theatre in the Mill + South Street Arts Centre. A Jerwood Charitable Foundation/Bristol Old Vic Ferment Commission. Developed at MAKE, Bios, Greenwich and Lewisham Young People's Theatre + the New Wolsey Theatre. Initially supported through a 2014 Dance and the Homemade Commission by Chisenhale Dance Space. Supported using public funding by the National Lottery through Arts Council England.<br>Photo by Manuel Vason***???*** | Trailer by Rosie Powell        
+Co-commissioned by Shoreditch Town Hall, Theatre in the Mill + South Street Arts Centre. A Jerwood Charitable Foundation/Bristol Old Vic Ferment Commission. Developed at MAKE, Bios, Greenwich and Lewisham Young People's Theatre + the New Wolsey Theatre. Initially supported through a 2014 Dance and the Homemade Commission by Chisenhale Dance Space. Supported using public funding by the National Lottery through Arts Council England.<br>Photo***?*** by Manuel Vason | Trailer by Rosie Powell        
          
 #### Websites          
 <a href="http://gregwohead.com" target="_blank">gregwohead.com</a> | <a href="http://twitter.com/gregwohead" target="_blank">@gregwohead</a> | <a href="http://twitter.com/hashtag/ComebackSpecial" target="_blank">#ComebackSpecial</a>
