@@ -17,11 +17,11 @@ header_image: "header_.jpg"
 
 ---
 *Presented by* Contact + Word of Warning         
-       
+         
 #### In Brief    
 Jam sessions, patter with a Southern drawl, big dance numbers, and a bit of sweat: this is a re-enactment of Elvis Presley's *1968 Comeback Special*. Sort of.         
          
-See his <a href="http://" target="_blank">trailer???</a>.        
+See his <a href="http://vimeo.com/165147968" target="_blank">trailer</a>.        
          
 #### Venue + Booking Details    
 Dates: Tuesday 22 — Thursday 24 November 2016, 8pm         
@@ -30,25 +30,33 @@ Dates: Tuesday 22 — Thursday 24 November 2016, 8pm
 Box Office Tel: 0161 274 0600         
         
 #### Access Information        
-Age advisory: 15+ ***With no interval, the show lasts approximately ??? minutes. Primarily English spoken word + music???*** For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
+Age advisory: 15+ With no interval, the show lasts approximately ***?? minutes***. Primarily English spoken word + music***???*** For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
 #### Q&A         
 On Tuesday 22 November, following a short break, there will be a post-show talk with Greg.          
          
 #### More      
-It's an experiment in time drag; wearing another time as drag and dragging another time into the present. What happens if the *Comeback* comes back? ***ADD?***
+It's an experiment in time drag; wearing another time as drag and dragging another time into the present. What happens if the *Comeback* comes back? Like a half-remembered dream or two mirrors facing each other or repeating a word so much it loses its meaning.        
+         
+*Comeback Special* is a double negative. It's not the original, but it's not *not*.        
+         
+Greg welcomes Elvis fans, theatre fans and anyone who thinks this peculiar re-enactment might be fun. He certainly does.          
          
 #### Who is he?     
-Greg Wohead is a writer and performer who makes theatre shows, 1-to-1 performances and audio pieces… most recently for WoW in a [domestic setting](/archive/2013-domestic/wohead).      
+Greg Wohead is a writer, performer and live artist; originally from Texas, he makes make theatre performances, 1-to-1 pieces and audio work — most recently for Word of Warning in a [domestic setting](/archive/2013-domestic/wohead).             
          
-***UPDATE*** Some of his work so far has been based around ideas of place and identity; he lived in Texas until moving to the UK at age 22, nearly 8 years ago. He likes work that’s personal and generous, and tries to make it with that in mind. He’s shown original work at places like Battersea Arts Centre, Ovalhouse, Wales Millennium Centre and The Yard, where he is an Artistic Associate.        
+His work sometimes orbits around larger-than-life American icons, for better or worse; recently he's been preoccupied with surrogates, re-enactments and radical manifestations of masculinity. Prioritising a sense of the personal and the exposing, his practice veers between writing and actions, hilarity and disgust, things that are obvious and things that are left unsaid; he tries never to make the same piece twice.            
+         
+In the past his work has mainly been a solo practice, but recently he's enjoyed collaborations with artists like Rachel Mars + Joe Wild, among others. He's shown and developed new work internationally at Battersea Arts Centre, Bristol Old Vic, Ovalhouse, Mayfest, Pulse Festival, Northern Stage, Chapter Arts Centre, Forest Fringe, MC (Amsterdam), Orchard Project (New York), MAKE (Ireland), Bios (Athens), LAX Festival (Los Angeles), Fusebox Festival (Austin) + ArtPower (San Diego). He is an Associate Artist at The Yard + Shoreditch Town Hall in London.           
          
 #### What people have said about *Comeback Special*         
->*Neither an act of hom,age nor a simple nostalgia trip*<br><a href="http://" target="_blank">★★★★ The Times</a>          
->*Original…innovative*<br><a href="http://" target="_blank">A Younger Theatre</a>          
+>*Although Presley is the ghostly heart of it, it’s neither an act of homage nor a simple nostalgia trip… by blurring the line between performers and their public, as well as the past and the present, Wohead creates a special bond*<br><a href="http://www.thetimes.co.uk/tto/arts/firstnightreviews/article4725184.ece" target="_blank">★★★★ Donald Hutera, The Times</a>        
+>*He catches the swagger, the sex appeal, the smile. His attention is exacting – so concentrated and precise – and the process of transforming is transfixing: both electric and ghoulish. There’s the air of a séance: a comeback special.*<br><a href="http://" target="_blank">Matt Trueman, Whatonstage</a>        
+>*Drained of the bright, synthetic colour of 1960s fashion, Wohead’s version is a shadow or skeleton of the original event. Recreated in monochrome, this is a black-and-white negative of the 1968 Comeback Special. An echo. A ghost.*<br><a href="http://" target="_blank">Catherine Love, Exeunt Magazine</a>        
+>*Original…innovative*<br><a href="http://" target="_blank">A Younger Theatre</a>       
          
 #### Credits          
-Co-commissioned by Shoreditch Town Hall, Theatre in the Mill + South Street Arts Centre. A Jerwood Charitable Foundation/Bristol Old Vic Ferment Commission. Developed at MAKE, Bios, Greenwich and Lewisham Young People's Theatre + the New Wolsey Theatre. Initially supported through a 2014 Dance and the Homemade Commission by Chisenhale Dance Space. Supported using public funding by the National Lottery through Arts Council England.        
+Co-commissioned by Shoreditch Town Hall, Theatre in the Mill + South Street Arts Centre. A Jerwood Charitable Foundation/Bristol Old Vic Ferment Commission. Developed at MAKE, Bios, Greenwich and Lewisham Young People's Theatre + the New Wolsey Theatre. Initially supported through a 2014 Dance and the Homemade Commission by Chisenhale Dance Space. Supported using public funding by the National Lottery through Arts Council England.<br>Photo by Manuel Vason***???***.        
          
 #### Websites          
 <a href="http://gregwohead.com" target="_blank">gregwohead.com</a> | <a href="http://twitter.com/gregwohead" target="_blank">@gregwohead</a> | <a href="http://twitter.com/hashtag/ComebackSpecial" target="_blank">#ComebackSpecial</a>
