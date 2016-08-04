@@ -6,9 +6,9 @@ rootpath: "../../"
 is_index: true
 
 ---
-*Ipsum lorem from a [comeback](/current/2016-autumnwinter/wohead) to an [emergency](/current/2016-emergency), a [diverse evening](/current/2016-divergency) and a [surprise](/current/2016-autumnwinter/spare)…*          
+*Ipsum lorem with a [free day out for the curious](/current/2016-emergency), an [evening of the different](/current/2016-divergency), a [comeback](/current/2016-autumnwinter/wohead) and a [final surprise](/current/2016-autumnwinter/spare)…*          
           
-Brought to you by hÅb with Black Gold Arts Festival, Bluecoat***?***, Contact, DaDa Fest***?***, Divergency, STUN, the Whitworth***?*** + Z-arts, we look forward to seeing you at some or all of Autumn/Winter 2016. If you want to check out what happened last season take a look at our [Spring/Summer 2016 archive***†***](/archive/2016-springsummer), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=144976563660" target="_blank">online survey</a>.       
+Brought to you by hÅb with Black Gold Arts Festival, Bluecoat***?***, Contact, DaDa Fest***?***, Divergency, STUN, the Whitworth***?*** + Z-arts, we look forward to seeing you at some or all of Autumn/Winter 2016. If you want to check out what happened last season take a look at our [Spring/Summer 2016 archive**†**](/archive/2016-springsummer), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=144976563660" target="_blank">online survey</a>.       
              
 #### What is Word of Warning + where did it come from?
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of new live performance — an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work in Manchester + beyond…          
@@ -33,4 +33,4 @@ I've been around a while, a really long while… and in that time, I've been res
           
 Please send programming enquiries to me at <mailto:info@habarts.org>             
 
-I'm joined in this lunacy by John Franklin, greenroom's long time programme co-ordinator. Often spotted in a hat or proffering a variety of bizarre refreshments, John is the friendly face greeting you and eliciting your feedback at many of our events. We are also grateful for the support of a growing band of hÅb-ettes — currently***?*** Afreena Islam, Catherine (Cat) Shaw + Sam Stockdale. 
+I'm joined in this lunacy by John Franklin, greenroom's long time programme co-ordinator. Often spotted in a hat or proffering a variety of bizarre refreshments, John is the friendly face greeting you and eliciting your feedback at many of our events. We are also grateful for the support of a growing band of hÅb-ettes — currently***??*** Afreena Islam, Catherine (Cat) Shaw + Sam Stockdale.
