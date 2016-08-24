@@ -42,17 +42,18 @@ From the earth beneath our feet to the stars in our skies, an evening of emergin
 Date: Thursday 6 October 2016, 6-8.30pm        
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
 Tickets: FREE no booking required, come + go as you please.                
+Venue (Z-arts) Tel: 0161 232 6089        
          
 #### Venue + Booking Details for Tabletop Triple Bill         
 Date: Thursday 6 October 2016, 6pm (*very limited capacity*)       
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
-Tickets: £6/3, available from Mon 19 Sep               
-Venue (Z-arts) Tel: 0161 232 6089       
+Tickets: £6/3, available from Mon 19 Sep.               
+Venue (Z-arts) Tel: 0161 232 6089        
           
 #### Venue + Booking Details for Late Double Bill         
 Date: Thursday 6 October 2016, 8.30pm        
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts (incl STUN Studio)</a>, 335 Stretford Road, Manchester, M15 5ZA          
-Tickets: £6/3, available from Mon 19 Sep               
+Tickets: £6/3, available from Mon 19 Sep.               
 Venue (Z-arts) Tel: 0161 232 6089       
          
 #### Access Information        
