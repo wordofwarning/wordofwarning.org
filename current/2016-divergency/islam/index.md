@@ -33,7 +33,7 @@ Tickets: £6/4
 Venue (Z-arts) Tel: 0161 232 6089    
         
 #### Access Information for Compact Edition        
-Age advisory: 14+ (parental/guardian discretion). *Daughters…* is spoken word based and will be the second part of a double bill lasting approximately 1¼ hours including a short pause to move location within the building. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
+Age advisory: 14+ (parental/guardian discretion). *Daughters…* is spoken word based and will be the second part of a double bill lasting approximately 1¼ hours including a short pause to move location within the building. For specific age and access information please email <mailto:divergency@habmcr.org> or call 0161 232 6086.        
         
 #### More             
 "My dad is an illiterate Muslim immigrant called Michael. He left home when he was 8, and came to England when he was 22. He worked for about 65 years, retired, and then had a brain haemorrhage. He’s 84 now.    
@@ -54,9 +54,9 @@ At the moment she is managing <a href="http://divergencymcr.posthaven.com" targe
 >*I was deeply moved by Daughters of the Curry Revolution, an important work that takes courage to make and share.*<br>Ria Hartley, Artist                
               
 #### Credits         
-Works-in-progress of *Daughters…* have been seen at [Domestic II](/archive/2015-domestic/daytime), and <a href="http://www.cptheatre.co.uk/production/daughters-of-the-curry-revolution" target="_blank">Camden People's Theatre</a> during Sprint 2016.                   
-[Works Ahead](/hab/worksahead) 2016 is commissioned and produced by [hÅb](/hab) and <a href="http://contactmcr.com" target="_blank">Contact</a>; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentor: Peader Kirk        
-<a href="http://worksahead.org" target="_blank">worksahead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>             
+Developed as a Divergency seed commission with support from hÅb and STUN [Sustained Theatre Up North].  A [Works Ahead](/hab/worksahead) 2016 [hÅb](/hab) and <a href="http://contactmcr.com" target="_blank">Contact</a>commission.     
+Project Mentor: Peader Kirk        
 
 #### Website          
+<a href="http://www.afreenaislam.com" target="_blank">afreenaislam.com</a>    
 <a href="http://twitter.com/afreenaazaria" target="_blank">@afreenaazaria</a>
