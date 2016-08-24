@@ -24,13 +24,12 @@ show_size: 3
          
 From the earth beneath our feet to the stars in our skies, an evening of emerging works by a group of artists as diverse as their subject matter…<br>Quantum mechanics, homelessness, food and sex brought together in a series of tabletop performances, installations and sit-down shows.           
          
-### Installation, 6-8.30pm. Free           
+### Installation, 6-8.30pm. Free            
 **Jamil Keating | *Asteroid RK1***        
 **Chelsea Morgan | *title tbc***         
 **Yvonne Shelton | *title tbc***         
          
-### Tabletop Triple Bill, 6pm. £6/3         
-(*very limited capacity*)         
+### Tabletop Triple Bill, 6pm. £6/3 <small>(*very limited capacity*)</small>        
 **Maya Chowdry | *Peas on Earth***        
 **Afreena Islam | *Daughters of the Curry Revolution***        
 **Toni-Dee Paul | *My Father's Kitchen***        
