@@ -7,7 +7,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Cheryl Martin"
 show: "Who Wants To Live Forever"
-artist_size: 2
+artist_size: 1
 show_size: 4
 header_image: "header_martin.jpg"
 
