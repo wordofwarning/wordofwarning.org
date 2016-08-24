@@ -6,8 +6,8 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Two Destination Language" # the name of the artist or company
 show: "Manpower" # the name of the show
-artist_size: 3
-show_size: 2
+artist_size: 4
+show_size: 1
 header_image: "header_.jpg"    
 
 # ABOUT THE SHOW - LAYOUT
@@ -21,7 +21,7 @@ header_image: "header_.jpg"
 #### In Brief      
 An exploration of masculinity, maleness, gender and power.           
          
-A very playful examination of being a man, and what expectations and ambitions that creates, performed by a woman and a man, with live vinyl DJing and a DIY building project.             
+A very playful examination of being a man, and what expectations and ambitions that creates, performed by a woman and a man.              
          
 #### Venue + Booking Details    
 Date: Thursday 10 November 2016, 8pm          
@@ -33,7 +33,7 @@ Box Office Tel: 0843 208 6000
 Age advisory: TBC. With no interval, the show lasts approximately 80 minutes. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
 #### More         
-A man at work. A man playing. A man playing at being a man. A woman too.         
+*A man at work. A man playing. A man playing at being a man. A woman too.*         
          
 Alister and Kat have been thinking about men and power. Aspirations and expectations. Sheds and tea. Mouth-watering barbecues. Vulnerability and sheer hard work.          
          
@@ -52,8 +52,7 @@ UK-based, they are currently resident Company at Salisbury Arts Centre and suppo
 >*ONLY AUDIENCE QUOTES?*             
          
 #### Credits          
-Conceived, devised, performed + produced by Alister Lownie + Katherina Radeva | 2016 tour produced with Jo Mackie | Lighting design by Vince Field | Thanks to Richard Owen, Cheryl Pierce, Caroline Steele + Tanya Steinhauser        
-An ICIA University of Bath commission with Salisbury Arts Centre. | Development supported using public funding by the National Lottery through Arts Council England, and by the Kevin Spacey Foundation, The Point Eastleigh, The New Wolsey Theatre, Bristol Old Vic Ferment + BAC.            
+Conceived, devised, performed + produced by Alister Lownie + Katherina Radeva | 2016 tour produced with Jo Mackie | Lighting design by Vince Field<br>Thanks to Richard Owen, Cheryl Pierce, Caroline Steele + Tanya Steinhauser.<br>An ICIA University of Bath commission with Salisbury Arts Centre.<br>Development supported using public funding by the National Lottery through Arts Council England, and by the Kevin Spacey Foundation, The Point Eastleigh, The New Wolsey Theatre, Bristol Old Vic Ferment + BAC.            
          
 #### Websites          
-<a href="http://www.twodestinationlanguage.com/?page_id=1137" target="_blank">twodestinationlanguage.com</a> | <a href="http://twitter.com/2destlang" target="_blank">@2destlang</a> | <a href="http://facebook.com/2destlang" target="_blank">Two Destination Language on Facebook</a>
+<a href="http://www.twodestinationlanguage.com/?page_id=1137" target="_blank">twodestinationlanguage.com</a> | <a href="http://twitter.com/2destlang" target="_blank">@2destlang</a> | <a href="http://facebook.com/2destlang" target="_blank">2destlang on Facebook</a>
