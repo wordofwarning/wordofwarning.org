@@ -32,8 +32,8 @@ Dates: Thursday 6 Oct 2016, 6pm (*Divergency Tabletop Trio*)
 Tickets: £6/4              
 Venue (Z-arts) Tel: 0161 232 6089    
         
-#### Access Information for Compact Edition        
-Age advisory: 14+ (parental/guardian discretion). *Daughters…* is spoken word based and will be the second part of a double bill lasting approximately 1¼ hours including a short pause to move location within the building. For specific age and access information please email <mailto:divergency@habmcr.org> or call 0161 232 6086.        
+#### Access Information     
+Age advisory: 14+ (parental/guardian discretion). *Daughters…* is spoken word based and will for part of a double bill lasting approximately 2 hours including a short pause to move location within the building. For specific age and access information please email <mailto:divergency@habmcr.org> or call 0161 232 6086.        
         
 #### More             
 "My dad is an illiterate Muslim immigrant called Michael. He left home when he was 8, and came to England when he was 22. He worked for about 65 years, retired, and then had a brain haemorrhage. He’s 84 now.    
