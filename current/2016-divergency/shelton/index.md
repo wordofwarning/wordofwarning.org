@@ -6,7 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Yvonne Shelton"
-show: ""
+show: "Testimony"
 artist_size: 1
 show_size: 2
 header_image: "header_shelton.jpg"
