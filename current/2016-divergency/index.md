@@ -30,7 +30,7 @@ From the earth beneath our feet to the stars in our skies, an evening of emergin
 **Yvonne Shelton | *Testimony***         
          
 ### Tabletop Trio, 6pm. £6/3      
-**Maya Chowdry | *Peas on Earth***        
+**Maya Chowdhry | *Peas on Earth***        
 **Afreena Islam | *Daughters of the Curry Revolution***        
 **Toni-Dee Paul | *My Father's Kitchen***        
          
