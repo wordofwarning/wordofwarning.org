@@ -17,13 +17,12 @@ show_size: 3
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, STUN + Black Gold  Arts Festival         
+*Presented by* Word of Warning, STUN + Black Gold Arts Festival         
          
 ### Thursday 6 October 2016, 6-10pm        
 **An evening of tabletop performances, installations + sit-down shows feat. Maya Chowdhry, Jamil Keating, Chanje Kunda, Afreena Islam, Cheryl Martin, Chelsea Morgan, Toni-Dee Paul + Yvonne Shelton.**             
          
-From the earth beneath our feet to the stars in our skies, an evening of emerging works by a group of artists as diverse as their subject matter…         
-Quantum mechanics, homelessness, food and sex brought together in a series of tabletop performances, installations and sit-down shows.           
+From the earth beneath our feet to the stars in our skies, an evening of emerging works by a group of artists as diverse as their subject matter…<br>Quantum mechanics, homelessness, food and sex brought together in a series of tabletop performances, installations and sit-down shows.           
          
 ### Installation, 6-8.30pm. Free           
 **Jamil Keating | *Asteroid RK1***        
@@ -40,9 +39,9 @@ Quantum mechanics, homelessness, food and sex brought together in a series of ta
 **Chanje Kunda | *Superposition***         
 **Cheryl Martin | *Who Wants to Live Forever (extract)***          
          
-#### Venue + Booking Details for Installation (*tbc*)        
+#### Venue + Booking Details for Installation        
 Date: Thursday 6 October 2016, 6-8.30pm        
-Venue: Hulme Library, Stretford Road, Manchester, M15 5FQ        
+<a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
 Tickets: FREE no booking required, come + go as you please.                
          
 #### Venue + Booking Details for Tabletop Triple Bill         
