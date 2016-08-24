@@ -24,17 +24,17 @@ show_size: 3
          
 From the earth beneath our feet to the stars in our skies, an evening of emerging works by a group of artists as diverse as their subject matter…<br>Quantum mechanics, homelessness, food and sex brought together in a series of tabletop performances, installations and sit-down shows.           
          
-### Installation, 6-8.30pm. Free            
+### Installation, 6-8.30pm. FREE            
 **Jamil Keating | *Asteroid RK1***        
 **Chelsea Morgan**         
 **Yvonne Shelton | *Testimony***         
          
-### Tabletop Triple Bill, 6pm. £6/3 <small>(*very limited capacity*)</small>        
+### Tabletop Trio, 6pm. £6/3      
 **Maya Chowdry | *Peas on Earth***        
 **Afreena Islam | *Daughters of the Curry Revolution***        
 **Toni-Dee Paul | *My Father's Kitchen***        
          
-### Late Double Bill, 8.30pm. £6/3          
+### Double Bill, 8.30pm. £6/3          
 **Chanje Kunda | *Superposition***         
 **Cheryl Martin | *Who Wants to Live Forever (extract)***          
          
@@ -44,13 +44,13 @@ Date: Thursday 6 October 2016, 6-8.30pm
 Tickets: FREE no booking required, come + go as you please.                
 Venue (Z-arts) Tel: 0161 232 6089        
          
-#### Venue + Booking Details for Tabletop Triple Bill         
+#### Venue + Booking Details for Tabletop Trio         
 Date: Thursday 6 October 2016, 6pm (*very limited capacity*)       
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
 Tickets: £6/3, available from Mon 19 Sep.               
 Venue (Z-arts) Tel: 0161 232 6089        
           
-#### Venue + Booking Details for Late Double Bill         
+#### Venue + Booking Details for Double Bill         
 Date: Thursday 6 October 2016, 8.30pm        
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts (incl STUN Studio)</a>, 335 Stretford Road, Manchester, M15 5ZA          
 Tickets: £6/3, available from Mon 19 Sep.               
@@ -61,4 +61,4 @@ Divergency is primarily an adult-focussed event, some works will not be suitable
           
 #### Credits         
 Divergency is an onging artist development programme supported by [hÅb](/hab) + <a href="http://stunlive.com" target="_blank">STUN</a>; supported using public funding by the National Lottery through Arts Council England. | Header image: Chanje Kunda          
-<a href="http://divergencymcr.posthaven.com" target="_blank">divergencymcr.posthaven.com</a> | <a href="http://twitter.com/hashtag/Divergency" target="_blank">#Divergency</a>
+<a href="http://divergencymcr.posthaven.com" target="_blank">divergencymcr.posthaven.com</a> | <a href="http://twitter.com/hashtag/Divergency" target="_blank">#Divergency</a> | <a href="http://bgafestival.com" target="_blank">Black Gold Arts Festival</a>
