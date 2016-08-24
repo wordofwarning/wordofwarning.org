@@ -6,7 +6,7 @@ rootpath: "../../"
 is_index: true
 
 ---
-*Ipsum lorem with a [free day out for the curious](/current/2016-emergency), an [evening of the different](/current/2016-divergency), a [comeback](/current/2016-autumnwinter/wohead) and an [exporation of manliness](/current/2016-autumnwinter/2destlang)…*          
+*Ipsum lorem with a [free day out for the curious](/current/2016-emergency), an [evening of the different](/current/2016-divergency), a [comeback](/current/2016-autumnwinter/wohead) and an [exploration of manliness](/current/2016-autumnwinter/2destlang)…*          
           
 Brought to you by hÅb with Black Gold Arts Festival, Contact, Divergency, STUN, The Lowry + Z-arts, we look forward to seeing you at some or all of Autumn/Winter 2016. If you want to check out what happened last season take a look at our [Spring/Summer 2016 archive**†**](/archive/2016-springsummer), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=144976563660" target="_blank">online survey</a>.       
              
