@@ -17,21 +17,20 @@ header_image: "header_afreena.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning + Contact         
+*Presented by* Divergency, STUN + Word of Warning for Black Gold Arts Festival.        
            
-*Part of* Works Ahead 2016 Compact Edition: hidden stories and half-remembered truths from Terri Donovan + Afreena Islam.        
+*Part of* Divergency Tabletop Trio     
            
 #### In Brief                      
 "When I was little, I used to hang out at my dad’s restaurant most weekends, back when they used to stay open until 5am. After a hard day's toil running around pretending to be him, I would fall asleep to the CCTV, my body on the chest freezer and my head resting on a pile of tablecloths."              
             
 In *Daughters of the Curry Revolution*, Afreena attempts to navigate her dad’s journey to help her figure out her own...                 
              
-#### Venue + Booking Details for Compact Edition        
-Dates: Friday 3 + Saturday 4 June 2016, 5pm + 6pm (*limited capacity, repeats*)          
-*Two extra shows added due to demand: 4pm (both dates)*              
-<a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact</a>, Oxford Road, Manchester, M15 6JA         
-<a href="http://contactmcr.com/whats-on/56892-works-ahead-compact-edition/booking" target="_blank">Tickets: £4/2</a>               
-Box Office Tel: 0161 274 0600        
+#### Venue + Booking Details       
+Dates: Thursday 6 Oct 2016, 6pm (*Divergency Tabletop Trio*)                     
+[Venue: Z-arts (incl STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
+Tickets: £6/4              
+Venue (Z-arts) Tel: 0161 232 6089    
         
 #### Access Information for Compact Edition        
 Age advisory: 14+ (parental/guardian discretion). *Daughters…* is spoken word based and will be the second part of a double bill lasting approximately 1¼ hours including a short pause to move location within the building. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
