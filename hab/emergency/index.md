@@ -17,7 +17,9 @@ header_image: "header_emergency_photo.jpg"
 ---
 **Emergency** is our annual platform for live art + contemporary performance, featuring at least 25 short pieces of work over a day/evening in Manchester…           
          
-The call for proposals is now closed and selection underway for our **seventeenth Emergency**, taking place on **Saturday 1 October 2016** (12noon-10pm) in Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> (including the STUN Studio). To get a feel for it, have a look at 2015's [image gallery](/galleries/2015-emergency) + [programme](/archive/2015-emergency) or 2014's [gallery](/galleries/2014-emergency) + [programme](http://www.wordofwarning.org/archive/2014-emergency).           
+The call for proposals is now closed and selection underway for our **seventeenth Emergency**, taking place on **Saturday 1 October 2016** (12noon-10pm) in Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> (including the STUN Studio).         
+         
+To get a feel for it, have a look at 2015's [image gallery](/galleries/2015-emergency) + [programme](/archive/2015-emergency) or 2014's [gallery](/galleries/2014-emergency) + [programme](http://www.wordofwarning.org/archive/2014-emergency).           
 		
 **Emergency is:**      
 • a free, public micro-festival + open submission platform;        
