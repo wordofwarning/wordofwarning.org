@@ -24,13 +24,13 @@ header_image: "header_martin.jpg"
 #### In Brief                           
 A jazz fantasy about loss, love and hope set among the stars.  Combining science fact, real-world psychological observation, and autobiography with lots and lots of live jazz vocals to ask why some stars shine more brightly than others, human and celestial, and why people love to watch them fall.    
 
-#### Venue + Booking Details for Compact Edition        
+#### Venue + Booking Details    
 Dates: Thursday 6 Oct 2016, 8.30pm (*Divergency Double Bill with Chanje Kunda*)                     
 [Venue: Z-arts (incl STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: £6/4 (Double Bill)          
 Venue (Z-arts) Tel: 0161 232 6089    
              
-#### Access Information for Compact Edition        
+#### Access Information          
 Age advisory: 14+ (parental/guardian discretion).     
                    
 #### More               
@@ -44,7 +44,7 @@ Born in Washington, DC, Cheryl’s lived all her adult life in her adored adopte
 >*I was deeply moved by (a work-in-progress of) Cheryl Martin’s Who Wants To Live Forever. Utterly devastating personal moments felt like they were being shared with only me. Cheryl is an incredibly powerful performer, she paints pictures so vividly, and this story in particular leaves me aching.*  Afreena Islam, Artist.    
 
 #### Credits           
-Developed as a Divergency seed commission with support from hÅb and STUN [Sustained Theatre Up North] and supported through the Black Gold Arts Festival and an Artist Residency at Lawrence Batley Theatre’ Cellar.    
+Developed as a Divergency seed commission with support from hÅb and STUN [Sustained Theatre Up North] and supported through the Black Gold Arts Festival and an Artist Residency at Lawrence Batley Theatre Cellar.    
 
 #### Website          
 <a href="http://www.cherylmartin.net" target="_blank">cherylmartin.net</a>      

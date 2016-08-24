@@ -25,13 +25,13 @@ header_image: "header_chowdhry.jpg"
 How does the food on our tables reach us?     
 An immersive journey exploring the performance of eating, growing and sustaining ourselves, brought to life through Augmented Reality.      
 
-#### Venue + Booking Details for Compact Edition        
+#### Venue + Booking Details    
 Dates: Thursday 6 Oct 2016, 6pm (*Divergency Tabletop Trio*)                     
 [Venue: Z-arts (incl STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: £6/4              
 Venue (Z-arts) Tel: 0161 232 6089    
              
-#### Access Information for Compact Edition        
+#### Access Information    
 Age advisory: no specific age limit, but may be more suited to 14+.     
 You will need headphones and a smartphone or device that can download the  <a href="https://www.zappar.com/getzappar/" target="_blank">Zappar free app.</a>    
 Please do this before the performance. You can use our wifi. If you don’t have a device or headphones then email <mailto:divergency@habmcr.org> when you book.    
@@ -54,7 +54,7 @@ storytelling to create immersive and democratic experiences for audiences. Her r
 #### Credits           
 Maya Chowdhry - Writer and Transmedia artist    
 Niki Woods - Performance mentor    
-Supported via a Divergency Seedfund commission.    
+Developed as a Divergency seed commission with support from hÅb and STUN [Sustained Theatre Up North].    
 
 #### Website          
 <a href="http://www.interactiveartist.org" target="_blank">interactiveartist.org</a>    

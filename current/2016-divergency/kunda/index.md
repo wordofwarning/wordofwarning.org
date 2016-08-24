@@ -25,13 +25,13 @@ header_image: "header_chanjenl.jpg"
 What are the real laws of attraction?    
 Unlikely bed-fellows quantum mechanics, existentialism and erotic dance combine in this celebration of female sensuality from a feminist perspective.     
 
-#### Venue + Booking Details for Compact Edition        
+#### Venue + Booking Details    
 Dates: Thursday 6 Oct 2016, 8.30pm (*Divergency Double Bill with Cheryl Martin*)                     
 [Venue: Z-arts (incl STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: £6/4              
 Venue (Z-arts) Tel: 0161 232 6089    
              
-#### Access Information for Compact Edition        
+#### Access Information    
 Age advisory: 14+ (parental/guardian discretion).     
                    
 #### More               
@@ -43,7 +43,7 @@ Developed with Director Benji Reid and Dramaturge Malika Booker.
 Chanje Kunda is a solo artist working nationally and internationally as both a poet and performance artist.  Her last full length show *Amsterdam* fused spoken word with live art and was nominated for Best Studio Production by Manchester Theatre Awards.  It toured nationally to Nottingham Playhouse, Camden People's Theatre, The Albany, Cast, Contact, and The Drum, as well as at the National Rural Touring Conference. It was also performed in South Africa at the National Arts Festival at Grahamstown and also at Podium Mozaiek Theater in Amsterdam, Netherlands.     
 
 #### Credits           
-Supported using public funding by the National Lottery through Arts Council England.  Commissioned by Contact, hÅb and STUN.     
+Supported using public funding by the National Lottery through Arts Council England.  Developed as a Divergency seed commission.  Commissioned by Contact, hÅb and STUN.     
 
 #### Website          
 <a href="http://www.chanjekunda.com" target="_blank">chanjekunda.com</a>
