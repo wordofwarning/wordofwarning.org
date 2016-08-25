@@ -26,7 +26,7 @@ From the earth beneath our feet to the stars in our skies, an evening of emergin
          
 ### Installation, 6-8.30pm. FREE            
 **Jamil Keating | *Asteroid RK1***        
-**Chelsea Morgan**         
+**Chelsea Morgan | *Tented***         
 **Yvonne Shelton | *Testimony***         
          
 ### Tabletop Trio, 6pm. £6/3      
