@@ -9,7 +9,7 @@ artist: "Afreena Islam"
 show: "Daughters of the<br>Curry Revolution"
 artist_size: 1
 show_size: 4
-header_image: "header_afreena.jpg"
+header_image: "header_div.png"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
