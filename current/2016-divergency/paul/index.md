@@ -40,7 +40,7 @@ Toni-Dee's performance explores home cooked food and family trees, whilst delvin
 #### Who is she?  
 Toni-Dee is a theatre maker, collaborator, writer and performance artist from Leeds currently based in the North West of England. Her current body of work explores identity politics, memory and culture – which is intimate, literate and participatory using auto-biography as stimuli.    She has been previously been commissioned by Fuel Productions Ltd and worked with artists such as Andy Smith and Selina Thompson.    
 
-#### What people have said about *My Father's Kitchen" 
+#### What people have said about *My Father's Kitchen* 
 >*An adventure through time, culture and cuisine. Delivered with emotion and empathy, this solo performance makes connections to personal and political issues and offers a taste into someone else's world*<br>Audience member     
 >*Toni-Dee Paul spins a yarn with such warmth and intimacy*<br>Audience member     
 
