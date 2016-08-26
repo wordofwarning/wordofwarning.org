@@ -9,14 +9,14 @@ artist: "Emergency 2016" # the name of the artist or company
 show: "A free day-out for the curious." # the name of the show
 artist_size: 1
 show_size: 3
-header_image:
+season: Emergency 1|10|2016
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-*Presented by* Word of Warning, STUN + Z-arts
+*Presented by* Word of Warning
         
 ### Saturday 1 October 2016, 12noon-10pm. FREE             
 **Manchester's manic micro-marathon of the bizarre + the beautiful is legally allowed to drive this autumn!**         
