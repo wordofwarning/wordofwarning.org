@@ -10,6 +10,7 @@ artist: "Divergency" # the name of the artist or company
 show: "An evening of the different." # the name of the show
 artist_size: 1
 show_size: 3
+season: Divergency 6/10/2016
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
