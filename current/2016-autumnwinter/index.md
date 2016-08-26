@@ -4,6 +4,7 @@
 layout: 2016-autumnwinter
 rootpath: "../../"
 is_index: true
+season: "A/W 2016"
 
 ---
 *Ipsum lorem with a [free day out for the curious](/current/2016-emergency), an [evening of the different](/current/2016-divergency), a [comeback](/current/2016-autumnwinter/wohead) and an [exploration of manliness](/current/2016-autumnwinter/2destlang)…*          
