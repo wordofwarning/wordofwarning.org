@@ -9,6 +9,7 @@ show: "Manpower" # the name of the show
 artist_size: 4
 show_size: 1
 header_image: "header_.jpg"    
+season: Two Destination Language
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
