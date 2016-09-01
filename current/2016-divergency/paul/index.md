@@ -5,7 +5,7 @@ layout: 2016-divergency
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Toni-Dee"
+artist: "Toni-Dee Paul"
 show: "My Father's Kitchen"
 artist_size: 1
 show_size: 2
