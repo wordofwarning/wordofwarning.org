@@ -16,29 +16,24 @@ season: Emergency 1|10|2016
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-*Presented by* Word of Warning
-        
-### Saturday 1 October 2016, 12noon-10pm. FREE             
-**Manchester's manic micro-marathon of the bizarre + the beautiful is legally allowed to drive this autumn!**         
+*Presented by* Word of Warning           
          
-Our seventeenth annual performance lucky-dip is your chance to sample the different — all for free, with participating artists announced mid-September.            
+### Saturday 1 October 2016, 12noon-10pm. FREE             
+**Manchester's manic micro-marathon of the bizarre + the beautiful returns for its 17th year in a non-stop day-long performance takeover.**         
+         
+Our annual performance lucky-dip is your chance to sample the different — all for free, with participating artists announced mid-September.            
          
 To get a feel for it, have a look at 2015's [programme](/archive/2015-emergency) + [gallery](/galleries/2015-emergency).       
          
-#### Venue + Booking Details for Daytime (*tbc*)         
-Date: Saturday 1 October 2016, 12noon-??pm        
-Venue: Hulme Library, Stretford Road, Manchester, M15 5FQ        
-Tickets: FREE no booking required, come + go as you please.        
-*N.B. Some limited capacity shows may have sign-up sheets on the day, others may operate on a first come, first served basis.*        
-          
-#### Venue + Booking Details for Evening         
-Date: Saturday 1 October 2016, ??-10pm        
-[Venue: Z-arts (incl STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
+#### Venue + Booking Details         
+Date: Saturday 1 October 2016, 12noon-10pm        
+[Venue: Z-arts (incl. STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: FREE no booking required, come + go as you please.        
 *N.B. Some limited capacity shows may have sign-up sheets on the day, others may operate on a first come, first served basis.*        
 Venue (Z-arts) Tel: 0161 232 6089         
          
 #### What people have said about Emergency        
+>• *Great to have such exciting off beat talent.*<br>• *…genuinely amazing that this is still going giving new/different acts a platform to work from.*<br>• *Really important event for NW artists — safe space to experiment. Unlocks hidden gems*<br>• *I was thoroughly disappointed. What a waste of my time and petrol. I enjoy the arts with a passion but yesterday was a terrible waste of time and money. I thought the organisation was poor. I thought the demolition project was OK but what was the woman under the sheep fleece supposed to be doing? I found the experience quite disturbing.*<br>[Audience Feedback from 2015](/archive/2015-emergency)        
 Emergency 2015 was a [Guardian top theatre ticket](http://www.theguardian.com/stage/theatreblog/2015/sep/28/romola-garai-fun-palaces-pomona-theatre-top-tickets).                 
           
 #### Access Information       
