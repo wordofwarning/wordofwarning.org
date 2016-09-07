@@ -21,7 +21,7 @@ season: Divergency 6|10|2016
 *Presented by* Word of Warning, STUN + Black Gold Arts Festival         
          
 ### Thursday 6 October 2016, 6-10pm        
-**An evening of tabletop performances, installations + sit-down shows feat. Maya Chowdhry, Jamil Keating, Chanje Kunda, Afreena Islam, Cheryl Martin, Chelsea Morgan, Toni-Dee Paul + Yvonne Shelton.**             
+**An evening of tabletop performances, installations + sit-down shows feat. Maya Chowdhry, Jamil Keating, Chanje Kunda, Afreena Islam, Cheryl Martin, Chelsea Morgan, Toni-Dee Paul and Yvonne Shelton.**             
          
 From the earth beneath our feet to the stars in our skies, an evening of emerging works by a group of artists as diverse as their subject matter…<br>Quantum mechanics, homelessness, food and sex brought together in a series of tabletop performances, installations and sit-down shows.           
          
@@ -62,4 +62,4 @@ Divergency is primarily an adult-focussed event, some works will not be suitable
           
 #### Credits         
 Divergency is an onging artist development programme supported by [hÅb](/hab) + <a href="http://stunlive.com" target="_blank">STUN</a>; supported using public funding by the National Lottery through Arts Council England. | Header image: Chanje Kunda          
-<a href="http://divergencymcr.posthaven.com" target="_blank">divergencymcr.posthaven.com</a> | <a href="http://twitter.com/hashtag/Divergency" target="_blank">#Divergency</a> | <a href="http://bgafestival.com" target="_blank">Black Gold Arts Festival</a>
+<a href="http://www.divergencymcr.org" target="_blank">www.divergencymcr.org</a> | <a href="http://twitter.com/hashtag/Divergency" target="_blank">#Divergency</a> | <a href="http://bgafestival.com" target="_blank">Black Gold Arts Festival</a>
