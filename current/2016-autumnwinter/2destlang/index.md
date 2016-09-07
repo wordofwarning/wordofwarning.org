@@ -20,7 +20,7 @@ season: Two Destination Language 10|11|2016
 *Presented by* The Lowry + Word of Warning          
          
 #### In Brief      
-A man at work. A man playing. A man playing at being a man. A woman too. A celebration of everyday maleness.        
+A man at work. A man playing. A man playing at being a man. A woman too.<br>A celebration of everyday maleness.        
          
 #### Venue + Booking Details    
 Date: Thursday 10 November 2016, 8pm          
@@ -47,10 +47,10 @@ Led by artists Katherina Radeva and Alister Lownie, their work explores question
           
 UK-based, they are currently resident Company at Salisbury Arts Centre and supported artists at The Point, Eastleigh. *Near Gone* won them a Total Theatre Award for Innovation, Experimentation & Playing With Form, and the Pulse Ipswich Suitcase Prize.            
           
-#### What people have said about their work         
->*Immensely powerful and life enhancing.*<br>audience member on *Manpower*          
->*…great beauty, sensitivity and humour…*<br><a href="http://www.broadwaybaby.com/shows/near-gone/702154" target="_blank">★★★★★ Broadway Baby on *Near Gone*</a>            
->*…a near-perfect show.*<br><a href="http://totaltheatre.org.uk/two-destination-language-near-gone/" target="_blank">Dorothy Max Prior, Total Theatre Magazine on *Near Gone*</a>         
+#### What people have said about themk         
+>*Immensely powerful and life enhancing.*<br>Audience member on *Manpower*          
+>*…great beauty, sensitivity and humour…*<br><a href="http://www.broadwaybaby.com/shows/near-gone/702154" target="_blank">★★★★★ Broadway Baby</a> on *Near Gone*            
+>*…a near-perfect show.*<br><a href="http://totaltheatre.org.uk/two-destination-language-near-gone/" target="_blank">Dorothy Max Prior, Total Theatre Magazine</a> on *Near Gone*         
          
 #### Credits          
 Conceived, devised, performed + produced by Alister Lownie + Katherina Radeva | 2016 tour produced with Jo Mackie | Lighting design by Vince Field<br>Thanks to Richard Owen, Cheryl Pierce, Caroline Steele + Tanya Steinhauser.<br>An ICIA University of Bath commission with Salisbury Arts Centre.<br>Development supported using public funding by the National Lottery through Arts Council England, and by the Kevin Spacey Foundation, The Point Eastleigh, The New Wolsey Theatre, Bristol Old Vic Ferment + BAC. Image by Alex Brenner.                 
