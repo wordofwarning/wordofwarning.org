@@ -7,14 +7,16 @@ is_index: true
 season: A/W 2016
 
 ---
-*Ipsum lorem with a [free day out for the curious](/current/2016-emergency), an [evening of the different](/current/2016-divergency), a [comeback](/current/2016-autumnwinter/wohead) and an [exploration of manliness](/current/2016-autumnwinter/2destlang)…*          
+*As season of two halves, Word of Warning enters its fifth autumn with an opening October flurry - the17th [free day out for the curious](/current/2016-emergency), followed hard on by an [evening of the different](/current/2016-divergency).  Then we fast forward to November for a [special comeback](/current/2016-autumnwinter/wohead) and an [exploration of manliness](/current/2016-autumnwinter/2destlang)…*          
           
 Brought to you by hÅb with Black Gold Arts Festival, Contact, Divergency, STUN, The Lowry + Z-arts, we look forward to seeing you at some or all of Autumn/Winter 2016. If you want to check out what happened last season take a look at our [Spring/Summer 2016 archive**†**](/archive/2016-springsummer), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=144976563660" target="_blank">online survey</a>.       
              
 #### What is Word of Warning + where did it come from?
+>*Consistently refreshing and surprising, no season is ever the same....* Audience Feedback.    
+
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of new live performance — an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work in Manchester + beyond…          
-        
-We take live work very seriously — but we don't take ourselves seriously at all. Over the past 4½ years we've shown funny, thought-provoking, beautiful work by the likes of Action Hero, Michael Pinchbeck, Ria Hartley, Lowri Evans, the vacuum cleaner, Leentje Van de Cruys + Stacy Makishi ***ADD*** amongst others. We've also created bonkers all ages live art ([Haphazard](http://haphazardmcr.org)), hosted [Hunt & Darton's pop-up art-café](/archive/2015-spring/h&d), unleashed bizarre behaviour upon Manchester's city centre ([Hazard](http://hazardmcr.org)) and created performance festivals in blocks of flats ([Domestic](http://domesticmcr.org)).     
+
+We take live work very seriously — but we don't take ourselves seriously at all. Over the past 4½ years we've shown funny, thought-provoking, beautiful work by the likes of Action Hero, Michael Pinchbeck, Ria Hartley, Lowri Evans, the vacuum cleaner, Leentje Van de Cruys + Stacy Makishi, Kim Noble and Richard DeDomenici amongst others. We've also created bonkers all ages live art ([Haphazard](http://haphazardmcr.org)), hosted [Hunt & Darton's pop-up art-café](/archive/2015-spring/h&d), unleashed bizarre behaviour upon Manchester's city centre ([Hazard](http://hazardmcr.org)) and created performance festivals in blocks of flats ([Domestic](http://domesticmcr.org)).     
         
 >*Curated by the ever-impressive Word Of Warning…*<br><a href="http://www.theguardian.com/stage/2013/nov/02/this-weeks-theatre" target="_blank">The Guardian's Lyn Gardner, on Domestic (November 2013)</a><br>*…a strand of alternative and fledgling work that has only recently got a new lease of life via Word of Warning and Emergency.*<br><a href="http://www.creativetourist.com/articles/theatre/manchester/manchester-theatre-lyn-gardner-on-a-city-reaching-beyond-the-theatrical-peaks" target="_blank">Creative Tourist on Manchester theatre (November 2014)</a>        
         
