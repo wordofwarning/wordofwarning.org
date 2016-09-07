@@ -33,7 +33,7 @@ Tickets: FREE no booking required, come + go as you please.
 Venue (Z-arts) Tel: 0161 232 6089         
          
 #### What people have said about Emergency        
->• *Great to have such exciting off beat talent.*<br>• *…genuinely amazing that this is still going giving new/different acts a platform to work from.*<br>• *Really important event for NW artists — safe space to experiment. Unlocks hidden gems*<br>• *I was thoroughly disappointed. What a waste of my time and petrol. I enjoy the arts with a passion but yesterday was a terrible waste of time and money. I thought the organisation was poor. I thought the demolition project was OK but what was the woman under the sheep fleece supposed to be doing? I found the experience quite disturbing.*<br>[Audience Feedback from 2015](/archive/2015-emergency)        
+>• *Great to have such exciting off beat talent.*<br>• *…genuinely amazing that this is still going giving new/different acts a platform to work from.*<br>• *Really important event for NW artists — safe space to experiment. Unlocks hidden gems*<br>• *I was thoroughly disappointed… I found the experience quite disturbing.*<br>[Audience Feedback from 2015](/archive/2015-emergency)        
 Emergency 2015 was a [Guardian top theatre ticket](http://www.theguardian.com/stage/theatreblog/2015/sep/28/romola-garai-fun-palaces-pomona-theatre-top-tickets).                 
           
 #### Access Information       
