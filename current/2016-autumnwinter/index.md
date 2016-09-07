@@ -23,11 +23,12 @@ We take live work very seriously — but we don't take ourselves seriously at al
 #### Who's it for? Anyone looking for a different night (or day) out.            
 We don't want to put you off by talking labels – yes there'll be theatre, live art, dance – the aim is to be anything but elitist or po-faced. So if you like comedy, music, gaming or just a friendly, stimulating evening – there'll be something you might want to take a chance on.                 
          
-#### What our audiences said about the work in S/S 2016 ***REDO***  
+#### What our audiences said about the work in S/S 2016  
 >• *Lovely show, very personal and connected with the audience.*<br>• *Fantastic, atmospheric, with an amazing variety of work.*<br>• *Great to have such exciting off beat talent.*<br>• *Really open minded and entertaining. Left me deeply moved.*<br>• *So impressed. It was an emotional rollercoaster.*<br>• *…best live art event I've been to in ages.*        
+>• *Astonishing. Like nothing else. Transformative, immersive, moving.*<br>• *Brave, dark, humerous, intimate, intense.*<br>• *Heartwarming, funny + engaging.*<br>• *Strangely mesmeric. A unique experience.*<br>• *Very enjoyable — felt accessible and thus enjoyable to all.*          
          
-#### What our audiences have said about us ***REDO***           
->• *…signed up to the mailing list — my life has been improved since. Been to some amazing performance on your recommendation — thank you.*<br>• *Consistently finding, supporting and showcasing the most brilliant and beautiful experiences I have the privilege to witness.*<br>• *Always pushing boundaries and testing the waters.*<br>• *Offers a variety of performances that challenge traditional theatre.*<br>• *…brings work to Manchester that otherwise I couldn’t see.*        
+#### What our audiences said about us in S/S 2016           
+>• *Always special, bringing the unexpected and intriguing, thank you.*<br>• *Bringing some of the most interesting performance work in the world to our city.*<br>• *Consistently refreshing and surprising, no season is ever the same.*<br>• *Fabulous for seeing things different from the mainstream machine.*<br>• *I don't know what I would do with my spare time without you.*<br>• *               
          
 #### Who is Word of Warning?         
 My name's Tamsin Drury and I run an organisation called **[hÅb](/hab)**, which was greenroom's partner for over a decade. You might not know hÅb but you might know some of our events – like **Emergency** (Manchester's free marathon of live work, now in its sixteenth year) and **Hazard** (biennial random sprees of eccentricity in Manchester's City Centre).
