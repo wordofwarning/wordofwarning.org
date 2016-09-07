@@ -21,17 +21,16 @@ We take live work very seriously — but we don't take ourselves seriously at al
 >*Curated by the ever-impressive Word Of Warning…*<br><a href="http://www.theguardian.com/stage/2013/nov/02/this-weeks-theatre" target="_blank">The Guardian's Lyn Gardner, on Domestic (November 2013)</a><br>*…a strand of alternative and fledgling work that has only recently got a new lease of life via Word of Warning and Emergency.*<br><a href="http://www.creativetourist.com/articles/theatre/manchester/manchester-theatre-lyn-gardner-on-a-city-reaching-beyond-the-theatrical-peaks" target="_blank">Creative Tourist on Manchester theatre (November 2014)</a>        
          
 #### Who's it for? Anyone looking for a different night (or day) out.            
-We don't want to put you off by talking labels – yes there'll be theatre, live art, dance – the aim is to be anything but elitist or po-faced. So if you like comedy, music, gaming or just a friendly, stimulating evening – there'll be something you might want to take a chance on.                 
+We don't want to put you off by talking labels — yes there'll be theatre, live art, dance — the aim is to be anything but elitist or po-faced. So if you like comedy, music, gaming or just a friendly, stimulating evening — there'll be something you might want to take a chance on.                 
          
 #### What our audiences said about the work in S/S 2016  
->• *Lovely show, very personal and connected with the audience.*<br>• *Fantastic, atmospheric, with an amazing variety of work.*<br>• *Great to have such exciting off beat talent.*<br>• *Really open minded and entertaining. Left me deeply moved.*<br>• *So impressed. It was an emotional rollercoaster.*<br>• *…best live art event I've been to in ages.*        
 >• *Astonishing. Like nothing else. Transformative, immersive, moving.*<br>• *Brave, dark, humerous, intimate, intense.*<br>• *Heartwarming, funny + engaging.*<br>• *Strangely mesmeric. A unique experience.*<br>• *Very enjoyable — felt accessible and thus enjoyable to all.*          
          
 #### What our audiences said about us in S/S 2016           
->• *Always special, bringing the unexpected and intriguing, thank you.*<br>• *Bringing some of the most interesting performance work in the world to our city.*<br>• *Consistently refreshing and surprising, no season is ever the same.*<br>• *Fabulous for seeing things different from the mainstream machine.*<br>• *I don't know what I would do with my spare time without you.*<br>• *               
+>• *Always special, bringing the unexpected and intriguing, thank you.*<br>• *Bringing some of the most interesting performance work in the world to our city.*<br>• *Consistently refreshing and surprising, no season is ever the same.*<br>• *Fabulous for seeing things different from the mainstream machine.*<br>• *I don't know what I would do with my spare time without you.*               
          
 #### Who is Word of Warning?         
-My name's Tamsin Drury and I run an organisation called **[hÅb](/hab)**, which was greenroom's partner for over a decade. You might not know hÅb but you might know some of our events – like **Emergency** (Manchester's free marathon of live work, now in its sixteenth year) and **Hazard** (biennial random sprees of eccentricity in Manchester's City Centre).
+My name's Tamsin Drury and I run an organisation called **[hÅb](/hab)**, which was greenroom's partner for over a decade. You might not know hÅb but you might know some of our events — like **[Emergency](http://emergencymcr.org)** (Manchester's free marathon of live work, now in its seventeenth year) and **[Hazard](http://hazardmcr.org)** (biennial random sprees of eccentricity in Manchester's City Centre).
          
 I've been around a while, a really long while… and in that time, I've been responsible for making the Arndale Tower flash, wrapping Cathedral Gardens in 7km of hazard tape and encouraging a mass audience conga and a glitter-cannon Hallelujah chorus! On the less eccentric side, over the years hÅb has also worked with literally hundreds of young NW artists to help them create new pieces of theatre + dance.
           
