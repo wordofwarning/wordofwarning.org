@@ -12,7 +12,7 @@ season: A/W 2016
 Brought to you by hÅb with Black Gold Arts Festival, Contact, Divergency, STUN, The Lowry + Z-arts, we look forward to seeing you at some or all of Autumn/Winter 2016. If you want to check out what happened last season take a look at our [Spring/Summer 2016 archive**†**](/archive/2016-springsummer), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=144976563660" target="_blank">online survey</a>.       
              
 #### What is Word of Warning + where did it come from?
->*Consistently refreshing and surprising, no season is ever the same....* Audience Feedback.    
+>*Consistently refreshing and surprising, no season is ever the same....* 
 
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of new live performance — an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work in Manchester + beyond…          
 
