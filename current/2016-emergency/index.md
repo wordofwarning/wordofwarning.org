@@ -19,9 +19,9 @@ season: Emergency 1|10|2016
 *Presented by* Word of Warning           
          
 ### Saturday 1 October 2016, 12noon-10pm. FREE             
-**Manchester's manic micro-marathon of the bizarre + the beautiful returns for its 17th year in a non-stop day-long performance takeover.**         
+**Manchester's manic micro-marathon of the bizarre + the beautiful returns for its seventeenth year in a non-stop day-long performance takeover.**         
          
-Our annual performance lucky-dip is your chance to sample the different — all for free, with participating artists announced mid-September.            
+Our annual performance lucky-dip is your chance to sample the different — all for free, with our participating artists announced in mid-September.            
          
 To get a feel for it, have a look at 2015's [programme](/archive/2015-emergency) + [gallery](/galleries/2015-emergency).       
          
