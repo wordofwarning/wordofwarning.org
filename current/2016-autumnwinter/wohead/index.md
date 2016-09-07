@@ -8,7 +8,7 @@ artist: "Greg Wohead" # the name of the artist or company
 show: "Comeback Special" # the name of the show
 artist_size: 1
 show_size: 2
-header_image: "header_.jpg"    
+header_image: "header_wohead.jpg"    
 season: Greg Wohead 22-24|11|2016
 
 # ABOUT THE SHOW - LAYOUT
@@ -31,15 +31,17 @@ Dates: Tuesday 22 — Thursday 24 November 2016, 8pm
 Box Office Tel: 0161 274 0600         
         
 #### Access Information        
-Age advisory: 15+ With no interval, the show lasts approximately ***??*** minutes. Primarily English spoken word + music***?*** For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
+Age advisory: 15+ With no interval, the show lasts approximately 70 minutes. Primarily English spoken word. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
 #### Q&A         
 On Tuesday 22 November, following a short break, there will be a post-show talk with Greg.          
          
-#### More      
-It's an experiment in time drag; wearing another time as drag and dragging another time into the present. What happens if the *Comeback* comes back? Like a half-remembered dream or two mirrors facing each other or repeating a word so much it loses its meaning.        
-         
+#### More             
 *Comeback Special* is a double negative. It's not the original, but it's not *not*.        
+
+It's an experiment in time drag; like a half-remembered dream or two mirrors facing each other or repeating a word so much it loses its meaning.  The audience is invited into an imaginative space to participate in watching the performer in front of them as if they were watching Elvis as one of the 1968 audience members.     
+
+Acting simultaneously as an Elvis stand-in, a floor manager and a medium for the re-enactment, Greg guides the audience through the TV special as he remembers it, blurring the identities of himself and Elvis, the actual audience members in front of him and the audience members from 1968.     
          
 Greg welcomes Elvis fans, theatre fans and anyone who thinks this peculiar re-enactment might be fun. He certainly does.          
          
@@ -59,7 +61,7 @@ In the past his work has mainly been a solo practice, but recently he's enjoyed 
 >*Original… innovative…*<br><a href="http://www.ayoungertheatre.com/review-comeback-special-shoreditch-town-hall" target="_blank">A Younger Theatre</a>       
          
 #### Credits          
-Co-commissioned by Shoreditch Town Hall, Theatre in the Mill + South Street Arts Centre. A Jerwood Charitable Foundation/Bristol Old Vic Ferment Commission. Developed at MAKE, Bios, Greenwich and Lewisham Young People's Theatre + the New Wolsey Theatre. Initially supported through a 2014 Dance and the Homemade Commission by Chisenhale Dance Space. Supported using public funding by the National Lottery through Arts Council England.<br>Photo***?*** by Manuel Vason | Trailer by Rosie Powell        
+Co-commissioned by Shoreditch Town Hall, Theatre in the Mill + South Street Arts Centre. A Jerwood Charitable Foundation/Bristol Old Vic Ferment Commission. Developed at MAKE, Bios, Greenwich and Lewisham Young People's Theatre + the New Wolsey Theatre. Initially supported through a 2014 Dance and the Homemade Commission by Chisenhale Dance Space. Supported using public funding by the National Lottery through Arts Council England.<br>Image by Manuel Vason | Trailer by Rosie Powell        
          
 #### Websites          
 <a href="http://gregwohead.com" target="_blank">gregwohead.com</a> | <a href="http://twitter.com/gregwohead" target="_blank">@gregwohead</a> | <a href="http://twitter.com/hashtag/ComebackSpecial" target="_blank">#ComebackSpecial</a>

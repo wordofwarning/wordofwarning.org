@@ -8,7 +8,7 @@ artist: "Two Destination Language" # the name of the artist or company
 show: "Manpower" # the name of the show
 artist_size: 4
 show_size: 1
-header_image: "header_.jpg"    
+header_image: "header_2dl.jpg"    
 season: Two Destination Language 10|11|2016
 
 # ABOUT THE SHOW - LAYOUT
@@ -20,9 +20,7 @@ season: Two Destination Language 10|11|2016
 *Presented by* The Lowry + Word of Warning          
          
 #### In Brief      
-An exploration of masculinity, maleness, gender and power.           
-         
-A very playful examination of being a man, and what expectations and ambitions that creates, performed by a woman and a man.              
+A man at work. A man playing. A man playing at being a man. A woman too. A celebration of everyday maleness.     
          
 #### Venue + Booking Details    
 Date: Thursday 10 November 2016, 8pm          
@@ -34,12 +32,12 @@ Box Office Tel: 0843 208 6000
 Age advisory: TBC. With no interval, the show lasts approximately 80 minutes. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
 #### More         
-*A man at work. A man playing. A man playing at being a man. A woman too.*         
-         
-Alister and Kat have been thinking about men and power. Aspirations and expectations. Sheds and tea. Mouth-watering barbecues. Vulnerability and sheer hard work.          
-         
-*Manpower* is a celebration of everyday maleness. A conversation. A tribute. A DIY project. A DJ set. A healthy dose of nostalgia.           
-          
+Alister and Kat have been thinking about men and power. Aspirations and expectations. Sheds and tea. Mouth-watering barbecues. Vulnerability and sheer hard work.    
+
+Two microphones, two wooden boxes, two performers. They begin to share stories of childhood, of how they came to be the people they are. They share hopes and fears, successes and failures, role models and nemeses. She DJs while he builds. She dances while he builds. He cooks. They are together.     
+              
+*Manpower* is a celebration of everyday maleness. A conversation. A tribute. A DIY project. A DJ set. A healthy dose of nostalgia.         
+
 A navigation through culture and people and becoming ourselves.          
          
 #### Who are they?        
@@ -49,11 +47,15 @@ Led by artists Katherina Radeva and Alister Lownie, their work explores question
           
 UK-based, they are currently resident Company at Salisbury Arts Centre and supported artists at The Point, Eastleigh. *Near Gone* won them a Total Theatre Award for Innovation, Experimentation & Playing With Form, and the Pulse Ipswich Suitcase Prize.            
           
-#### What people have said about *Manpower*         
->*ONLY AUDIENCE QUOTES?*             
-         
+#### What people have said about them    
+About *Near Gone*:         
+>*great beauty, sensitivity and humour* <br><a href="http://www.broadwaybaby.com/shows/near-gone/702154" target="_blank">★★★★ Broadway Baby </a>           
+>*a near­perfect show.* <br><a href="http://totaltheatre.org.uk/two-destination-language-near-gone/" target="_blank">Dorothy Max Prior for Total Theatre Magazine</a>      
+About *Landed*:   
+>*a near­perfect show.* <br> The Daily Telegraph    
+        
 #### Credits          
-Conceived, devised, performed + produced by Alister Lownie + Katherina Radeva | 2016 tour produced with Jo Mackie | Lighting design by Vince Field<br>Thanks to Richard Owen, Cheryl Pierce, Caroline Steele + Tanya Steinhauser.<br>An ICIA University of Bath commission with Salisbury Arts Centre.<br>Development supported using public funding by the National Lottery through Arts Council England, and by the Kevin Spacey Foundation, The Point Eastleigh, The New Wolsey Theatre, Bristol Old Vic Ferment + BAC.            
+Conceived, devised, performed + produced by Alister Lownie + Katherina Radeva | 2016 tour produced with Jo Mackie | Lighting design by Vince Field<br>Thanks to Richard Owen, Cheryl Pierce, Caroline Steele + Tanya Steinhauser.<br>An ICIA University of Bath commission with Salisbury Arts Centre.<br>Development supported using public funding by the National Lottery through Arts Council England, and by the Kevin Spacey Foundation, The Point Eastleigh, The New Wolsey Theatre, Bristol Old Vic Ferment + BAC. Image by Alex Brenner.                 
          
 #### Websites          
 <a href="http://www.twodestinationlanguage.com/?page_id=1137" target="_blank">twodestinationlanguage.com</a> | <a href="http://twitter.com/2destlang" target="_blank">@2destlang</a> | <a href="http://facebook.com/2destlang" target="_blank">2destlang on Facebook</a>
