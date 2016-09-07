@@ -52,7 +52,7 @@ About *Near Gone*:
 >*great beauty, sensitivity and humour* <br><a href="http://www.broadwaybaby.com/shows/near-gone/702154" target="_blank">★★★★ Broadway Baby </a>           
 >*a near­perfect show.* <br><a href="http://totaltheatre.org.uk/two-destination-language-near-gone/" target="_blank">Dorothy Max Prior for Total Theatre Magazine</a>      
 About *Landed*:   
->*a near­perfect show.* <br> The Daily Telegraph    
+>*the power to subvert normality,* <br> The Daily Telegraph    
         
 #### Credits          
 Conceived, devised, performed + produced by Alister Lownie + Katherina Radeva | 2016 tour produced with Jo Mackie | Lighting design by Vince Field<br>Thanks to Richard Owen, Cheryl Pierce, Caroline Steele + Tanya Steinhauser.<br>An ICIA University of Bath commission with Salisbury Arts Centre.<br>Development supported using public funding by the National Lottery through Arts Council England, and by the Kevin Spacey Foundation, The Point Eastleigh, The New Wolsey Theatre, Bristol Old Vic Ferment + BAC. Image by Alex Brenner.                 
