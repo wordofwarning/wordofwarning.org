@@ -29,7 +29,7 @@ Dates: Tuesday 22 — Thursday 24 November 2016, 8pm
 <a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact (space 2)</a>, Oxford Road, Manchester, M15 6JA             
 <a href="http://contactmcr.com/whats-on/58697-greg-wohead-comeback-special/booking" target="_blank">Tickets: £13/7</a> | *<a href="http://www.contactmcr.com/ticketoffers" target="_blank">Ticket offers are available at Contact</a>, please see below.*     
 Box Office Tel: 0161 274 0600         
-        
+         
 #### Access Information        
 Age advisory: 15+ With no interval, the show lasts approximately 70 minutes. Primarily English spoken word. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
@@ -38,9 +38,9 @@ On Tuesday 22 November, following a short break, there will be a post-show talk 
          
 #### More             
 *Comeback Special* is a double negative. It's not the original, but it's not *not*.        
-
-It's an experiment in time drag; like a half-remembered dream or two mirrors facing each other or repeating a word so much it loses its meaning.  The audience is invited into an imaginative space to participate in watching the performer in front of them as if they were watching Elvis as one of the 1968 audience members.     
-
+          
+It's an experiment in time drag; like a half-remembered dream or two mirrors facing each other or repeating a word so much it loses its meaning.<br>The audience is invited into an imaginative space to participate in watching the performer in front of them as if they were watching Elvis as one of the 1968 audience members.     
+         
 Acting simultaneously as an Elvis stand-in, a floor manager and a medium for the re-enactment, Greg guides the audience through the TV special as he remembers it, blurring the identities of himself and Elvis, the actual audience members in front of him and the audience members from 1968.     
          
 Greg welcomes Elvis fans, theatre fans and anyone who thinks this peculiar re-enactment might be fun. He certainly does.          
@@ -64,8 +64,8 @@ In the past his work has mainly been a solo practice, but recently he's enjoyed 
 Co-commissioned by Shoreditch Town Hall, Theatre in the Mill + South Street Arts Centre. A Jerwood Charitable Foundation/Bristol Old Vic Ferment Commission. Developed at MAKE, Bios, Greenwich and Lewisham Young People's Theatre + the New Wolsey Theatre. Initially supported through a 2014 Dance and the Homemade Commission by Chisenhale Dance Space. Supported using public funding by the National Lottery through Arts Council England.<br>Image by Manuel Vason | Trailer by Rosie Powell        
          
 #### Websites          
-<a href="http://gregwohead.com" target="_blank">gregwohead.com</a> | <a href="http://twitter.com/gregwohead" target="_blank">@gregwohead</a> | <a href="http://twitter.com/hashtag/ComebackSpecial" target="_blank">#ComebackSpecial</a>
-
+<a href="http://gregwohead.com" target="_blank">gregwohead.com</a> | <a href="http://twitter.com/gregwohead" target="_blank">@gregwohead</a> | <a href="http://twitter.com/hashtag/ComebackSpecial" target="_blank">#ComebackSpecial</a>           
+         
 #### Ticket Offers available at Contact during A/W 2016         
 • Book for 2 Contact Autumn/Winter 2016 shows (incl. *CS*) + get 10% off;<br>• Book for 3 Contact Autumn/Winter 2016 shows (incl. *CS*) + get 15% off;<br>• Book 6 (full or concession) tickets for *CS* + get £1 off each ticket;<br>• Buy 11 (full or concession) tickets for *CS* + get one free.                  
 T&Cs: tickets must be booked in a single transaction, offer cannot be applied retrospectively; exclusions apply, visit <a href="http://www.contactmcr.com/ticketoffers" target="_blank">contactmcr.com/ticketoffers</a> for details.
