@@ -9,7 +9,7 @@ header: Haz<br>ard.
 stylesheet: gallery.css
 
 more_link: More info
-more_url: "../../current/2016-hazard"
+more_url: "../../archive/2016-hazard"
 
 gallery:
     -   {file: "titlepage.jpg", show: "<small>Alex Bradley + Bill Leslie. Images copyright &copy;2016 Word of Warning</small>"}
