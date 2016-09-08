@@ -26,7 +26,7 @@ The **[third Works Ahead](/archive/2014-worksahead)** took place in May 2014 at 
         
 Our **[fourth Works Ahead](/archive/2015-worksahead)** took place in April 2015 at Contact, with a double-bill from Nathan Birkinshaw + Jamil Keating: two young male artists questioning manliness in this digitised, disembodied, discombobulated era… See their [image gallery](/galleries/2015-woah).          
            
-Our **[fifth Works Ahead](/current/2016-worksahead)** took place in June 2016 at Contact, with two very different double bills from four artists at different stages in their careers: Terri Donovan + Afreena Islam; Top Joe + Lucy McCormick. On different stages, at different scales… See their [image gallery](/galleries/2016-woah).             
+Our **[fifth Works Ahead](/archive/2016-worksahead)** took place in June 2016 at Contact, with two very different double bills from four artists at different stages in their careers: Terri Donovan + Afreena Islam; Top Joe + Lucy McCormick. On different stages, at different scales… See their [image gallery](/galleries/2016-woah).             
           
-Works Ahead 2016 was commissioned and produced by hÅb and Contact; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentor: Peader Kirk        
+[Works Ahead 2016](/archive/2016-worksahead) was commissioned and produced by hÅb and Contact; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentor: Peader Kirk        
 <a href="http://worksahead.org" target="_blank">worksahead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
