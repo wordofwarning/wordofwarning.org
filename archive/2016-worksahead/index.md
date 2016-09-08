@@ -25,10 +25,10 @@ Two very different double bills make up our annual sampler of what's next in con
         
 **Compact Edition, 5pm + 6pm. £4/2** (*limited capacity, repeats*)        
 ***Two extra shows added due to demand: 4pm (both dates)***           
-Hidden stories and half-remembered truths from [Terri Donovan](/current/2016-worksahead/donovan) + [Afreena Islam](/current/2016-worksahead/islam).        
+Hidden stories and half-remembered truths from [Terri Donovan](/archive/2016-worksahead/donovan) + [Afreena Islam](/archive/2016-worksahead/islam).        
          
 **Evening Edition, 7.30pm. £6/3**          
-From Dyson to the Passion — an unpredictable double bill from [Top Joe](/current/2016-worksahead/topjoe) + [Lucy McCormick](/current/2016-worksahead/mccormick).         
+From Dyson to the Passion — an unpredictable double bill from [Top Joe](/archive/2016-worksahead/topjoe) + [Lucy McCormick](/archive/2016-worksahead/mccormick).         
           
 Now that its over, read a review by <a href="http://quietmandave.co.uk/2016/06/works-ahead" target="_blank">Quiet Man Dave</a>.         
           
