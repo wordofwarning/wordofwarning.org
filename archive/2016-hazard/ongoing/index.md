@@ -75,7 +75,7 @@ un-earthed collective is a collective of artists, researchers and activists work
 **NB** *Inflated Hazard* takes the form of a series of timed performances and an ongoing installation with which you can interact.   
         
 #### Discover what else is happening by clicking on a time below
-**Activities each hour… [12noon-1pm](/current/2016-hazard/12-1) | [1-2pm](/current/2016-hazard/1-2) | [2-3pm](/current/2016-hazard/2-3) | [3-4pm](/current/2016-hazard/3-4) | [4-5pm](/current/2016-hazard/4-5)**            
+**Activities each hour… [12noon-1pm](/archive/2016-hazard/12-1) | [1-2pm](/archive/2016-hazard/1-2) | [2-3pm](/archive/2016-hazard/2-3) | [3-4pm](/archive/2016-hazard/3-4) | [4-5pm](/archive/2016-hazard/4-5)**            
          
 #### Credits        
 [Hazard](/hab/hazard) 2016 is produced by [hÅb](/hab), in collaboration with the participating artists; supported using public funding by Arts Council England + funded by Manchester City Council. Thanks to the Royal Exchange Theatre.         
