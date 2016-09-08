@@ -17,7 +17,7 @@ header_image: "header_emergency_photo.jpg"
 ---
 **Emergency** is our annual platform for live art + contemporary performance, featuring at least 25 short pieces of work over a day/evening in Manchester…           
          
-Our [**seventeenth Emergency**](/current/2016-emergency), takes place on **Saturday 1 October 2016** (12noon-10pm) in Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> (including the STUN Studio), with participating artists to be announced.         
+Our [**seventeenth Emergency**](/current/2016-emergency) takes place on **Saturday 1 October 2016** (12noon-10pm) in Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> (including the STUN Studio) — with our participating artists announced in mid-September.         
          
 To get a feel for it, have a look at 2015's [image gallery](/galleries/2015-emergency) + [programme](/archive/2015-emergency), or delve further with 2014's [gallery](/galleries/2014-emergency) + [programme](http://www.wordofwarning.org/archive/2014-emergency).           
 		
