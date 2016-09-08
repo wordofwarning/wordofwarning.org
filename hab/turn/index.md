@@ -17,7 +17,7 @@ season: Turn
 ---
 **Turn** is our annual platform for NW† dancers + dance-makers, featuring around 15 short pieces of work over (usually) two spring nights in Manchester.       
          
-Our **[eighth Turn](/archive/2016-turn)** took place at Contact on Friday 22 + Saturday 23 April 2016**, with some twenty-one new northern dance-works — to get a feel for it see 2016's [image gallery](/galleries/2016-turn), or delve further with 2015's [gallery](/galleries/2015-turn) + [programme](/archive/2015-turn).       
+Our **[eighth Turn](/archive/2016-turn)** took place at Contact on Friday 22 + Saturday 23 April 2016, with some twenty-one new northern dance-works — to get a feel for it see 2016's [image gallery](/galleries/2016-turn), or delve further with 2015's [gallery](/galleries/2015-turn) + [programme](/archive/2015-turn).       
          
 **Turn is:**        
 • a public micro-festival + open submission platform;        
