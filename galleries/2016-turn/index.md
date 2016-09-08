@@ -9,7 +9,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: Turn 2016
-more_url: "../../current/2016-turn"
+more_url: "../../archive/2016-turn"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "Brink Dance Company", show: "<small>All images copyright &copy;2016 Word of Warning</small>"}
