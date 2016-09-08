@@ -41,7 +41,7 @@ Every generation has its defining threat: a world at war; nuclear holocaust; cli
 This playful, provocative performance invites the audience to roll giant inflatable dice in the street, allowing chance to dictate what follows then offering a chance to tell a different story.        
 *What happens next? You decide.*          
          
-*Inflated Hazard* takes the form of a series of timed performances and an [ongoing installation](/current/2016-hazard/ongoing) with which you can interact.        
+*Inflated Hazard* takes the form of a series of timed performances and an [ongoing installation](/archive/2016-hazard/ongoing) with which you can interact.        
               
 **Jin Bells | *Head In Hole 2016***         
 A pointless body, a meaningless action, a nonsensical intervention into the city...     
@@ -60,7 +60,7 @@ Movement, voice and the rustling whisper of escaping air fill the Square momenta
          
 A collaborative project between choreographer Elena Koukoli + composer Andreas Papapetrou.    
          
-#### [These activities happen all afternoon, 12noon-5pm](/current/2016-hazard/ongoing)             
+#### [These activities happen all afternoon, 12noon-5pm](/archive/2016-hazard/ongoing)             
 **Aidan Strudwick | *Human Mini-Golf***           
 **Alex Bradley + Bill Leslie | *COME AS YOU ARE (guerrilla mix 1.0)***          
 **Ali Wilson + Jessica Gibson | *Pair of Pears***              
@@ -71,7 +71,7 @@ A collaborative project between choreographer Elena Koukoli + composer Andreas P
 **un-earthed collective | *Inflated Hazard — dicing with dystopia***   
          
 #### Discover what else is happening by clicking on a time below            
-**Activities each hour… [12noon-1pm](/current/2016-hazard/12-1) | [1-2pm](/current/2016-hazard/1-2) | [2-3pm](/current/2016-hazard/2-3) | [4-5pm](/current/2016-hazard/4-5)**            
+**Activities each hour… [12noon-1pm](/archive/2016-hazard/12-1) | [1-2pm](/archive/2016-hazard/1-2) | [2-3pm](/archive/2016-hazard/2-3) | [4-5pm](/archive/2016-hazard/4-5)**            
          
 #### Credits        
 [Hazard](/hab/hazard) 2016 is produced by [hÅb](/hab), in collaboration with the participating artists; supported using public funding by Arts Council England + funded by Manchester City Council. Thanks to the Royal Exchange Theatre.         
