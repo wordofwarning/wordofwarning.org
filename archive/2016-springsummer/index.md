@@ -6,7 +6,7 @@ rootpath: "../../"
 is_index: true
 
 ---
-*From a [resonant embrace](/current/2016-springsummer/standen) to a [city takeover bid](/current/2016-hazard), a season of [twists and turns](/current/2016-turn); [eggs](/current/2016-springsummer/redux), [coffee](/current/2016-springsummer/igorandmoreno) and [spicy moments](/current/2016-worksahead)…*          
+*From a [resonant embrace](/archive/2016-springsummer/standen) to a [city takeover bid](/archive/2016-hazard), a season of [twists and turns](/archive/2016-turn); [eggs](/archive/2016-springsummer/redux), [coffee](/archive/2016-springsummer/igorandmoreno) and [spicy moments](/archive/2016-worksahead)…*          
           
 Brought to you by hÅb with Derelict, UCLan, the Whitworth, Contact, Dance Manchester, HOME, The Lowry + The Place, we look forward to seeing you at some or all of Spring/Summer 2016. If you want to check out what happened last season take a look at our [Spring 2016 archive](/archive/2016-spring), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=144976563660" target="_blank">online survey</a>.       
              
