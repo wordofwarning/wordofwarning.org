@@ -16,14 +16,20 @@ season: Emergency 1|10|2016
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-*Presented by* Word of Warning           
+*Presented by* Word of Warning, STUN *+* Z-arts           
          
 ### Saturday 1 October 2016, 12noon-10pm. FREE             
-**Manchester's manic micro-marathon of the bizarre + the beautiful returns for its seventeenth year in a non-stop day-long performance takeover.**         
+Manchester's manic micro-marathon of the bizarre + the beautiful returns for its seventeenth year in a non-stop day-long performance takeover.         
          
-Our annual performance lucky-dip is your chance to sample the different — all for free, with our participating artists announced in mid-September.            
+*A living room, a lifeline, a freakshow, a caution,<br>Lipsync androgyny + bedroom confessionals,<br>A new map of Europe + a 'Jungle' invitation,<br>Gilded scars + stiletto stigmata,<br>A career-ending rock show + an empty musical…*          
          
-To get a feel for it, have a look at 2015's [programme](/archive/2015-emergency) + [gallery](/galleries/2015-emergency).       
+Your chance to sample the different — all for free.         
+         
+### Artists            
+Filling the building to bursting-point with some 29 live works in a non-stop performance takeover, *participating artists are subject to change…*        
+Ali Wilson | Amy Steel | Ben Spatz | Chanje Kunda | Darren White | Ding & Sich | Dominique Baron-Bonarjee | Elena Molinaro | Hellen Burrough | Hollie Miller | Instant Dissidence | Jake Bowen | Jamil E-R Keating | Jen Morgan | Maelstrom Theatre | Matthew Harrison-Lord | Maya Chowdhry | Natalie Ramus | Paper People Theatre | Paul O'Donnell | Peter Jacobs | Ross McCaffrey | Roxanne Carney | Ryan O'Shea | Sarah Rowland Hill + Jack Sheen | Theatre 42 | Tin Can People | Tom Cassani | Toni-Dee Paul         
+         
+To get a feel for it, have a look at 2015's [programme](/archive/2015-emergency) + [gallery](/galleries/2015-emergency).        
          
 #### Venue + Booking Details         
 Date: Saturday 1 October 2016, 12noon-10pm        
@@ -40,7 +46,7 @@ Emergency 2015 was a [Guardian top theatre ticket](http://www.theguardian.com/st
 Emergency 2016 is primarily an adult-focussed event and some works may not be suitable for younger viewers (i.e. under 18s). It takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some of the work may not be wheelchair accessible. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
             
 #### Credits         
-[Emergency](/hab/emergency) 2016 is produced by [hÅb](/hab); supported using public funding by Arts Council England, and by Manchester City Council, [STUN](http://stunlive.com) + [Z-arts](http://www.z-arts.org).        
+[Emergency](/hab/emergency) 2016 is produced by [hÅb](/hab); supported using public funding by Arts Council England + Manchester City Council. | Image: Maelstrom Theatre by David Forrest       
          
 #### Websites
 <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr<a>
