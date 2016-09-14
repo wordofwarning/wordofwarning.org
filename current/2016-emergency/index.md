@@ -19,7 +19,7 @@ season: Emergency 1|10|2016
 *Presented by* Word of Warning, STUN *+* Z-arts           
          
 ### Saturday 1 October 2016, 12noon-10pm. FREE             
-The 17th outing for Manchester's micro-marathon of the bizarre + the beautiful fills the building to bursting-point with some 29 live works in a non-stop performance takeover.           
+Manchester's 17th micro-marathon of the bizarre + the beautiful fills the building to bursting-point with some 29 live works in a non-stop performance takeover.           
          
 *A living room, a lifeline, a freakshow, a caution,<br>Lipsync androgyny + bedroom confessionals,<br>A new map of Europe + a 'Jungle' invitation,<br>Gilded scars + stiletto stigmata,<br>A career-ending rock show + an empty musical…*          
          
@@ -29,7 +29,7 @@ Your chance to sample the different — all for free.
 Ali Wilson | Amy Steel | Ben Spatz | Chanje Kunda | Darren White | Ding & Sich | Dominique Baron-Bonarjee | Elena Molinaro | Hellen Burrough | Hollie Miller | Instant Dissidence | Jake Bowen | Jamil E-R Keating | Jen Morgan | Maelstrom Theatre | Matthew Harrison-Lord | Maya Chowdhry | Natalie Ramus | Paper People Theatre | Paul O'Donnell | Peter Jacobs | Ross McCaffrey | Roxanne Carney | Ryan O'Shea | Sarah Rowland Hill + Jack Sheen | Theatre 42 | Tin Can People | Tom Cassani | Toni-Dee Paul          
          
 With *participating artists subject to change*, it's a day in four sessions:        
-**12noon-2pm**: dip in + out of ongoing performances, installations + one-to-ones;          
+**12noon-2pm**: dip in + out of ongoing performances, installations + 1-to-1s;          
 **2-4pm**: join us for a series of short sit-down shows;         
 **4-7pm**: see new spaces + new ongoing performances + installations;        
 **7pm onwards**: launch into a final burst of short sit-down shows.         
