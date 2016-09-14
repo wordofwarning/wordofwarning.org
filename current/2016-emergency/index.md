@@ -26,7 +26,7 @@ Manchester's 17th micro-marathon of the bizarre + the beautiful fills Z-arts to 
 Your chance to sample the different — all for free.          
          
 ### Artists           
-Ali Wilson | Amy Steel | Ben Spatz | Chanje Kunda | Darren White | Ding & Sich | Dominique Baron-Bonarjee | Elena Molinaro | Hellen Burrough | Hollie Miller | Instant Dissidence | Jake Bowen | Jamil E-R Keating | Jen Morgan | Maelstrom Theatre | Matthew Harrison-Lord | Maya Chowdhry | Natalie Ramus | Paper People Theatre | Paul O'Donnell | Peter Jacobs | Ross McCaffrey | Roxanne Carney | Ryan O'Shea | Sarah Rowland Hill + Jack Sheen | Theatre 42 | Tin Can People | Tom Cassani | Toni-Dee Paul          
+Ali Wilson | Amy Steel | Ben Spatz | Chanje Kunda | Darren White | Ding & Sich | Dominique Baron-Bonarjee | Elena Molinaro | Hellen Burrough | Hollie Miller | Instant Dissidence | Jake Bowen | Jamil E-R Keating | Jen Morgan | Maelstrom Theatre | Matthew Harrison-Lord | Maya Chowdhry | Natalie Ramus | Paper People Theatre | Paul O'Donnell | Peter Jacobs | Ross McCaffrey | Rowland Hill + Jack Sheen | Roxanne Carney | Ryan O'Shea | Theatre 42 | Tin Can People | Tom Cassani | Toni-Dee Paul          
          
 With participating artists *subject to change*, it's a day in four sessions:        
 **12noon-2pm**: dip in + out of ongoing performances, installations + 1-to-1s;          
