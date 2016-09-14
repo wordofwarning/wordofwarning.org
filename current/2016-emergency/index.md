@@ -6,7 +6,7 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency 2016" # the name of the artist or company
-show: "A free day-out for the curious." # the name of the show
+show: "A free day out for the curious." # the name of the show
 artist_size: 1
 show_size: 3
 season: Emergency 1|10|2016
@@ -19,7 +19,7 @@ season: Emergency 1|10|2016
 *Presented by* Word of Warning, STUN *+* Z-arts           
          
 ### Saturday 1 October 2016, 12noon-10pm. FREE             
-Manchester's 17th micro-marathon of the bizarre + the beautiful fills Z-arts to bursting-point with some 29 live works in a non-stop performance takeover.           
+Manchester's 17th micro-marathon of the bizarre + the beautiful fills Z-arts to bursting point with some 29 live works in a non-stop performance takeover.           
          
 *A living room, a lifeline, a freakshow, a caution,<br>Lipsync androgyny + bedroom confessionals,<br>A new map of Europe + a 'Jungle' invitation,<br>Gilded scars + stiletto stigmata,<br>A career-ending rock show + an empty musical…*          
          
@@ -32,14 +32,14 @@ With participating artists *subject to change*, it's a day in four sessions:
 **12noon-2pm**: dip in + out of ongoing performances, installations + 1-to-1s;          
 **2-4pm**: join us for a series of short sit-down shows;         
 **4-7pm**: see new spaces + new ongoing performances + installations;        
-**7pm onwards**: launch into a final burst of short sit-down shows.         
+**7pm**: launch into a final burst of short sit-down shows.         
          
 To get a feel for it, have a look at 2015's [programme](/archive/2015-emergency) + [gallery](/galleries/2015-emergency).        
          
 #### Venue + Booking Details         
 Date: Saturday 1 October 2016, 12noon-10pm        
 [Venue: Z-arts (incl. STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
-Tickets: FREE no booking required, come + go as you please.        
+Tickets: FREE, no booking required, come + go as you please.        
 *N.B. Some limited capacity shows may have sign-up sheets on the day, others may operate on a first come, first served basis.*        
 Venue (Z-arts) Tel: 0161 232 6089         
          
