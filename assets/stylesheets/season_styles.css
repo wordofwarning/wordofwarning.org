@@ -534,7 +534,7 @@
 	.e2016 .artist, 
 	.e2016 .show,
 	.e2016 .season
-		{background:#e23; color:#fff;}
+		{background:#d12; color:#fff;}
 
 	.e2016 a,
 	.e2016 a:visited,
@@ -543,7 +543,7 @@
 	.e2016 nav a:hover,
 	.e2016 article a:hover,
 	.e2016 footer a:hover
-		{background: #fff; color: #e23;}
+		{background: #fff; color: #d12;}
 		
 	.e2016 .splash
 		{background:url(../images/header_emergency16.jpg) center center}
