@@ -21,7 +21,7 @@ season: "Divergency: Toni-Dee Paul 6|10|2016"
 *Presented by* Word of Warning, STUN + Black Gold Arts Festival *during* Divergency: Tabletop Trio          
          
 #### In Brief                           
-*So welcome, welcome to my father's kitchen… Or at least, this is how I remember it…*          
+*So welcome, welcome to my father's kitchen…<br>Or at least, this is how I remember it…*          
          
 #### Venue + Booking Details for Divergency: Tabletop Trio
 Date: Thursday 6 October 2016, 6pm           
@@ -31,7 +31,7 @@ Venue (Z-arts) Tel: 0161 232 6089
              
 #### Access Information      
 Age advisory: 14+ (parental/guardian discretion).        
-Spoken word based, with use of vegan friendly food and drink during performance. For specific age and access information please email <mailto:divergency@habmcr.org> or call 0161 232 6086.          
+Spoken word based, with use of vegan friendly food and drink during the performance. For specific age and access information please email <mailto:divergency@habmcr.org> or call 0161 232 6086.          
               
 #### More               
 Toni-Dee's performance explores home-cooked food and family trees, whilst delving into the stories that unfold in her father's kitchen. The show examines the relationship, between an 8 year old girl and her estranged father, and the journey that follows 12 years on, whilst reflecting on hundreds of years of Jamaican history through memory, music & poetry.    
