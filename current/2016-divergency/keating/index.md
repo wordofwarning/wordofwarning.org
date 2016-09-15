@@ -26,8 +26,8 @@ Rotations, revolutions, realisations…
 An allegorical installation-performance about outer-space and our inner-city streets. Asteroids and addictions. Meteorites and human rights. Comets in the night sky and care in the city.        
          
 #### Venue + Booking Details for Divergency: Installation
-Dates: Thursday 6 Oct 2016, 6-8.30pm 
-[Venue: Z-arts (incl STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
+Date: Thursday 6 Oct 2016, 6-8.30pm         
+[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: FREE, no booking required, come + go as you please.           
 Venue (Z-arts) Tel: 0161 232 6089    
              
