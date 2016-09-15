@@ -10,6 +10,7 @@ show: "Peas On Earth"
 artist_size: 1
 show_size: 2
 header_image: "header_chowdhry.jpg"
+season: "Divergency: Maya Chowdhry 6|10|2016"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -31,9 +32,9 @@ Tickets: £6/3, available from Mon 19 Sep.
 Venue (Z-arts) Tel: 0161 232 6089        
              
 #### Access Information       
-Age advisory: no specific age limit, but may be more suited to ages 14+        
+Age advisory: 14+ (parental/guardian discretion).        
 You will need headphones and a smartphone or mobile device that can download the <a href="http://www.zappar.com/getzappar/" target="_blank">Zappar free app</a> — please do this before the performance, you can use our wifi. If you don't have a mobile device or headphones then please email <mailto:divergency@habmcr.org> when you book.        
-If you have any access requirements please give us this information in advance so we can try to accommodate you.        
+If you have any access requirements please contact us in advance so we can try to accommodate you via <mailto:info@habarts.org> or call 0161 232 6086.                  
          
 #### More               
 The domestication of the pea took place 11,000 years ago in the Near East. Which East is near depends on whether you called the wind trade-winds or hava. Using the humble pea as a symbol of our relationship to food, a portion of poetry and a pair of gardening gloves, *Peas on Earth* is a table-top of interactive theatre that gently augments our reality to allow us to experience the politics of eating, growing and sustaining ourselves.    
