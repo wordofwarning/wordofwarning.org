@@ -28,7 +28,7 @@ How does the food on our tables reach us?
 #### Venue + Booking Details for Divergency: Tabletop Trio    
 Date: Thursday 6 Oct 2016, 6pm         
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
-Tickets: £6/3, available from Mon 19 Sep.                
+Tickets: £6/3, available from Mon 19 Sep (*very limited capacity*).                
 Venue (Z-arts) Tel: 0161 232 6089        
              
 #### Access Information       
