@@ -28,12 +28,12 @@ Jamil E-R Keating | *Asteroid RK1*
 Chelsea Morgan | *Tented*             
 Yvonne Shelton | *Testimony*         
          
-**Tabletop Trio, 6pm. £6/3** (very limited capacity)      
+**Tabletop Trio: 6pm. £6/3** (*very limited capacity*)      
 Maya Chowdhry | *Peas on Earth*        
 Afreena Islam | *Daughters of the Curry Revolution*        
 Toni-Dee Paul | *My Father's Kitchen*        
          
-**Double Bill, 8.30pm. £6/3**          
+**Double Bill: 8.30pm. £6/3**          
 Chanje Kunda | *Superposition*         
 Cheryl Martin | *Who Wants to Live Forever (extract)*          
          
