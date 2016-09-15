@@ -26,8 +26,8 @@ How does the food on our tables reach us?
 *Peas on Earth* is an immersive journey exploring the performance of eating, growing and sustaining ourselves, brought to life through Augmented Reality.         
          
 #### Venue + Booking Details for Divergency: Tabletop Trio    
-Dates: Thursday 6 Oct 2016, 6pm             
-[Venue: Z-arts (incl STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
+Date: Thursday 6 Oct 2016, 6pm         
+[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: £6/3, available from Mon 19 Sep.                
 Venue (Z-arts) Tel: 0161 232 6089        
              
