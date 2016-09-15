@@ -26,14 +26,14 @@ How does the food on our tables reach us?
 *Peas on Earth* is an immersive journey exploring the performance of eating, growing and sustaining ourselves, brought to life through Augmented Reality.         
          
 #### Venue + Booking Details for Divergency: Tabletop Trio    
-Date: Thursday 6 Oct 2016, 6pm         
+Date: Thursday 6 October 2016, 6pm         
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: £6/3, available from Mon 19 Sep (*very limited capacity*).                
 Venue (Z-arts) Tel: 0161 232 6089        
              
 #### Access Information       
 Age advisory: 14+ (parental/guardian discretion).        
-You will need headphones and a smartphone or mobile device that can download the <a href="http://www.zappar.com/getzappar/" target="_blank">Zappar free app</a> — please do this before the performance, you can use our wifi. If you don't have a mobile device or headphones then please let us know when you book via <mailto:info@habarts.org> or call 0161 232 6086; if you have any access requirements please also contact us in advance so we can try to accommodate you.                  
+You will need headphones and a smartphone or mobile device that can download the <a href="http://www.zappar.com/getzappar/" target="_blank">Zappar free app</a> — please do this before the performance (you can use our wifi); if you don't have a mobile device or headphones then please let us know when you book via <mailto:divergency@habmcr.org> or call 0161 232 6086. If you have any access requirements please contact us in advance so we can try to accommodate you.                  
          
 #### More               
 The domestication of the pea took place 11,000 years ago in the Near East. Which East is near depends on whether you called the wind trade-winds or hava. Using the humble pea as a symbol of our relationship to food, a portion of poetry and a pair of gardening gloves, *Peas on Earth* is a table-top of interactive theatre that gently augments our reality to allow us to experience the politics of eating, growing and sustaining ourselves.    
