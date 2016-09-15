@@ -46,9 +46,9 @@ Tickets: FREE, no booking required, come + go as you please.
 Venue (Z-arts) Tel: 0161 232 6089        
          
 #### Venue + Booking Details for Tabletop Trio         
-Date: Thursday 6 October 2016, 6pm (*very limited capacity*)       
+Date: Thursday 6 October 2016, 6pm          
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
-Tickets: £6/3, available from Mon 19 Sep.               
+Tickets: £6/3, available from Mon 19 Sep (*very limited capacity*).               
 Venue (Z-arts) Tel: 0161 232 6089        
           
 #### Venue + Booking Details for Double Bill         
@@ -58,7 +58,7 @@ Tickets: £6/3, available from Mon 19 Sep.
 Venue (Z-arts) Tel: 0161 232 6089       
          
 #### Access Information        
-Divergency is primarily an adult-focussed event, some works will not be suitable for younger viewers (i.e. under 18s). It takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some of the work may not be wheelchair accessible. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.          
+Divergency is primarily an adult-focussed event, some works will not be suitable for younger viewers (i.e. under 18s). It takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some of the work may not be wheelchair accessible. For specific age and access information please email <mailto:divergency@habmcr.org> or call 0161 232 6086.          
           
 #### Credits         
 Divergency is an ongoing artist development programme supported by [hÅb](/hab) + <a href="http://stunlive.com" target="_blank">STUN</a>; supported using public funding by the National Lottery through Arts Council England. | Header image: Chanje Kunda          
