@@ -7,7 +7,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Jamil E-R Keating"
 show: "Asteroid RK1"
-artist_size: 1
+artist_size: 2
 show_size: 2
 header_image: "header_jamil.jpg"
 season: "Divergency: Jamil E-R Keating 6|10|2016"
