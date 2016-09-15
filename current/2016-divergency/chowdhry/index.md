@@ -32,8 +32,7 @@ Venue (Z-arts) Tel: 0161 232 6089
              
 #### Access Information       
 Age advisory: no specific age limit, but may be more suited to ages 14+        
-You will need headphones and a smartphone or mobile device that can download the <a href="http://www.zappar.com/getzappar/" target="_blank">Zappar free app</a> — please do this before the performance, you can use our wifi.          
-If you don't have a mobile device or headphones then please email <mailto:divergency@habmcr.org> when you book.        
+You will need headphones and a smartphone or mobile device that can download the <a href="http://www.zappar.com/getzappar/" target="_blank">Zappar free app</a> — please do this before the performance, you can use our wifi. If you don't have a mobile device or headphones then please email <mailto:divergency@habmcr.org> when you book.        
 If you have any access requirements please give us this information in advance so we can try to accommodate you.        
          
 #### More               
