@@ -23,10 +23,10 @@ season: "Divergency: Afreena Islam 6|10|2016"
 #### In Brief                      
 "When I was little, I used to hang out at my dad's restaurant most weekends, back when they used to stay open until 5am. After a hard day's toil running around pretending to be him, I would fall asleep to the CCTV, my body on the chest freezer and my head resting on a pile of tablecloths."              
             
-In *Daughters…*, Afreena attempts to navigate her dad's journey to help her figure out her own.                
+In *Daughters of the Curry Revolution*, Afreena attempts to navigate her dad's journey to help her figure out her own…                
          
 #### Venue + Booking Details for Divergency: Tabletop Trio     
-Date: Thursday 6 Oct 2016, 6pm
+Date: Thursday 6 Oct 2016, 6pm          
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA         
 Tickets: £6/3, available from Mon 19 Sep (*very limited capacity*).              
 Venue (Z-arts) Tel: 0161 232 6089       
@@ -36,7 +36,7 @@ Age advisory: 14+ (parental/guardian discretion).
 For specific age and access information please email <mailto:divergency@habmcr.org> or call 0161 232 6086.           
          
 #### More             
-"My dad is an illiterate Muslim immigrant called Michael. He left home when he was 8, and came to England when he was 22. He worked for about 65 years, retired, and then had a brain haemorrhage. He's 84 now.         
+"My dad is an illiterate Muslim immigrant called Michael. He left home when he was 8, and came to England when he was 22. He worked for about 65 years, retired, and then had a brain haemorrhage. He's 84 now."         
          
 "I am a first generation Mancunian Bangladeshi called Afreena. I tried to leave home a few times, but the smell of my mum's curry always led me back. I'm the last child (as far as I know!) born to my dad. I'm 25 now."           
              
@@ -55,7 +55,7 @@ Afreena calls herself an artist only when she's got something to say. The rest o
          
 #### Credits         
 Peader Kirk — Works Ahead Mentor            
-A [Works Ahead](/hab/worksahead) 2016 [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>commission.   
+A Works Ahead 2016 [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a> commission.   
 Developed as a Divergency micro-commission with support from [hÅb](/hab) + <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North).
          
 #### Websites          
