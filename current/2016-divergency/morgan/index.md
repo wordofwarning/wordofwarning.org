@@ -10,7 +10,7 @@ show: "Tented"
 artist_size: 1
 show_size: 2
 header_image: "header_morgan.jpg"
-season: Divergency: Chelsea Morgan 6|10|2016
+season: "Divergency: Chelsea Morgan 6|10|2016"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -36,7 +36,9 @@ Age advisory: 14+ (parental/guardian discretion).
 The installation is inside a small tent and is made for one person — you can spend as much or as little time as you want inside. The size and shape of the tent will offer some access challenges, but there are elements on the outside that can be accessed by all. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.         
          
 #### More               
-An intimate solo experience and an invitation to interact.<br>Invite Chelseas to tell you a story, write some advice to a stranger or simply sit and contemplate.<br>*I want the audience (you!) to have a dead nice time.*          
+An intimate solo experience and an invitation to interact.Invite Chelseas to tell you a story, write some advice to a stranger or simply sit and contemplate.          
+         
+*I want the audience (you!) to have a dead nice time.*          
          
 #### Who is she?         
 Chelsea is a theatre maker and facilitator from Manchester. She has previously made work as one half of interactive theatre company PGB. *Tented* is a sharing of her first installation and solo piece.       
