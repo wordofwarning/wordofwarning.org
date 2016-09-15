@@ -26,14 +26,14 @@ season: "Divergency: Afreena Islam 6|10|2016"
 In *Daughters of the Curry Revolution*, Afreena attempts to navigate her dad's journey to help her figure out her own…                
          
 #### Venue + Booking Details for Divergency: Tabletop Trio     
-Date: Thursday 6 Oct 2016, 6pm          
+Date: Thursday 6 October 2016, 6pm          
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA         
 Tickets: £6/3, available from Mon 19 Sep (*very limited capacity*).              
 Venue (Z-arts) Tel: 0161 232 6089       
          
 #### Access Information     
 Age advisory: 14+ (parental/guardian discretion).            
-For specific age and access information please email <mailto:divergency@habmcr.org> or call 0161 232 6086.           
+Spoken word based, with food and drink offered during the performance. For specific age and access information please email <mailto:divergency@habmcr.org> or call 0161 232 6086.           
          
 #### More             
 "My dad is an illiterate Muslim immigrant called Michael. He left home when he was 8, and came to England when he was 22. He worked for about 65 years, retired, and then had a brain haemorrhage. He's 84 now."         
