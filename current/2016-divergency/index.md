@@ -21,23 +21,23 @@ season: Divergency 6|10|2016
 *Presented by* Word of Warning, STUN + Black Gold Arts Festival         
          
 ### Thursday 6 October 2016, 6-10pm        
-An evening of tabletop performances, installations + sit-down shows featuring: Maya Chowdhry, Jamil E-R Keating, Chanje Kunda, Afreena Islam, Cheryl Martin, Chelsea Morgan, Toni-Dee Paul and Yvonne Shelton.             
+An evening of tabletop performances, installations + sit-down shows, featuring:             
          
-From the earth beneath our feet to the stars in our skies, an evening of emerging works by a group of artists as diverse as their subject matter…<br>Quantum mechanics, homelessness, food and sex brought together in a series of tabletop performances, installations and sit-down shows.           
+**Installation: 6-8.30pm. FREE**            
+Jamil E-R Keating | *Asteroid RK1*        
+Chelsea Morgan | *Tented*             
+Yvonne Shelton | *Testimony*         
          
-### Installation, 6-8.30pm. FREE            
-**Jamil E-R Keating | *Asteroid RK1***        
-**Chelsea Morgan | *Tented***         
-**Yvonne Shelton | *Testimony***         
+**Tabletop Trio, 6pm. £6/3** (very limited capacity)      
+Maya Chowdhry | *Peas on Earth*        
+Afreena Islam | *Daughters of the Curry Revolution*        
+Toni-Dee Paul | *My Father's Kitchen*        
          
-### Tabletop Trio, 6pm. £6/3      
-**Maya Chowdhry | *Peas on Earth***        
-**Afreena Islam | *Daughters of the Curry Revolution***        
-**Toni-Dee Paul | *My Father's Kitchen***        
+**Double Bill, 8.30pm. £6/3**          
+Chanje Kunda | *Superposition*         
+Cheryl Martin | *Who Wants to Live Forever (extract)*          
          
-### Double Bill, 8.30pm. £6/3          
-**Chanje Kunda | *Superposition***         
-**Cheryl Martin | *Who Wants to Live Forever (extract)***          
+From the earth beneath our feet to the stars in our skies, an evening of emerging works by a group of artists as diverse as their subject matter…<br>Quantum mechanics, homelessness, food and sex brought together in a series of tabletop performances, installations and sit-down shows.         
          
 #### Venue + Booking Details for Installation        
 Date: Thursday 6 October 2016, 6-8.30pm        
