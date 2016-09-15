@@ -26,8 +26,8 @@ Take time out in the tent. A space to recuperate.<br>Dream. Imagine. Immerse. Sh
 A unique installation experience, made for you.         
          
 #### Venue + Booking Details for Divergency: Installation        
-Dates: Thursday 6 Oct 2016, 6-8.30pm      
-[Venue: Z-arts (incl STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
+Date: Thursday 6 Oct 2016, 6-8.30pm          
+[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: FREE, no booking required, come + go as you please.          
 Venue (Z-arts) Tel: 0161 232 6089    
              
