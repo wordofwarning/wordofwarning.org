@@ -36,7 +36,7 @@ Age advisory: 14+ (parental/guardian discretion).
 The installation is inside a small tent and is made for one person — you can spend as much or as little time as you want inside. The size and shape of the tent will offer some access challenges, but there are elements on the outside that can be accessed by all. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.         
          
 #### More               
-An intimate solo experience and an invitation to interact.Invite Chelseas to tell you a story, write some advice to a stranger or simply sit and contemplate.          
+An intimate solo experience and an invitation to interact. Invite Chelsea to tell you a story, write some advice to a stranger or simply sit and contemplate.          
          
 *I want the audience (you!) to have a dead nice time.*          
          
