@@ -37,7 +37,7 @@ With participating artists *subject to change*, it's a day in four sessions:
 To get a feel for it, have a look at 2015's [programme](/archive/2015-emergency) + [gallery](/galleries/2015-emergency).        
          
 #### Venue + Booking Details         
-Date: Saturday 1 October 2016, 12noon-11pm (*Later than advertised.*)        
+Date: Saturday 1 October 2016, 12noon-11pm (*Ends 1hr later than advertised*)        
 [Venue: Z-arts (incl. STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: FREE, no booking required, come + go as you please.        
 *N.B. Some limited capacity shows may have sign-up sheets on the day, others operate on a first-come, first-served basis.*        
