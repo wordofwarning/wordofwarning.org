@@ -28,7 +28,7 @@ In *Daughters of the Curry Revolution*, Afreena attempts to navigate her dad's j
 #### Venue + Booking Details for Divergency: Tabletop Trio     
 Date: Thursday 6 October 2016, 6pm          
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA         
-Tickets: £6/3, available from Mon 19 Sep (*very limited capacity*).              
+<a href="http://z-arts.ticketsolve.com/shows/873562246/events/127983126" target="_blank">Tickets: £6/3 (*very limited capacity*)</a>              
 Venue (Z-arts) Tel: 0161 232 6089       
          
 #### Access Information     
