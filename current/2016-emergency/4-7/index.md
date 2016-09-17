@@ -5,11 +5,11 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency 2016"
-show: "First Session: 12noon-2pm"
+show: "Third Session: 4-7pm"
 artist_size: 1
 show_size: 3
 header_image:
-season: "Emergency 1|10|2016, 12noon-2pm"
+season: "Emergency 1|10|2016, 4-7pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,20 +17,20 @@ season: "Emergency 1|10|2016, 12noon-2pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2016](/current/2016-emergency)    
-
+*Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2016](/current/2016-emergency)        
+         
 ### Artists in Alphabetical Order (*subject to change*)      
 ***Please note this is primarily an adult event, see Access Info below.***        
-           
+         
 **Adam Lowe** | ***Encounters with Ecstasies***        
 Presenting selections from his solo show *Ecstasies*, Adam Lowe as Beyonce Holes will lead you through a descent into the glittery history of Manchester's gay clubs. From intimate moments in a toilet cubicle to revelry on the dancefloor, club kid Beyonce reaches for the strobe-light stars across the ceiling and whispers profane incantations to the Lord of the Dance.        
-        
+         
 Directed by Gerry Potter, music by Nikki Franklin, animation by Charlie Taylor.        
-[Facebook](http://www.facebook.com/adambeyoncelowe) | [@adambeyoncelowe](http://twitter.com/adambeyoncelowe)     
-![Adam Lowe](adamlowe.jpg)       
+[Facebook](http://www.facebook.com/adambeyoncelowe) | [@adambeyoncelowe](http://twitter.com/adambeyoncelowe)         
+![Adam Lowe](adamlowe.jpg)         
          
 #### Venue + Booking Details         
-Date: Saturday 1 October 2016, 12noon-2pm (*full event runs 12noon-11pm*)        
+Date: Saturday 1 October 2016, 4-7pm (*full event runs 12noon-11pm*)        
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: FREE, no booking required, come + go as you please.        
 *N.B. Some limited capacity shows may have sign-up sheets on the day, others operate on a first-come, first-served basis.*        
