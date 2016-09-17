@@ -5,11 +5,11 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency 2016"
-show: "First Session: 12noon-2pm"
+show: "Second Session: 2-4pm"
 artist_size: 1
 show_size: 3
 header_image:
-season: "Emergency 1|10|2016, 12noon-2pm"
+season: "Emergency 1|10|2016, 2-4pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -30,8 +30,8 @@ Directed by Gerry Potter, music by Nikki Franklin, animation by Charlie Taylor.
 ![Adam Lowe](adamlowe.jpg)       
          
 #### Venue + Booking Details         
-Date: Saturday 1 October 2016, 12noon-2pm (*full event runs 12noon-11pm*)        
-[Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
+Date: Saturday 1 October 2016, 2-4pm (*full event runs 12noon-11pm*)        
+[Venue: Z-arts (incl. STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: FREE, no booking required, come + go as you please.        
 *N.B. Some limited capacity shows may have sign-up sheets on the day, others operate on a first-come, first-served basis.*        
 Venue (Z-arts) Tel: 0161 232 6089         
@@ -43,4 +43,4 @@ Emergency 2016 is primarily an adult-focussed event and some works may not be su
 [Emergency](/hab/emergency) 2016 is produced by [hÅb](/hab); supported using public funding by Arts Council England + Manchester City Council.             
          
 #### Websites           
-<a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://facebook.com/events/147434852375256" target="_blank">Facebook event</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr<a> 
+<a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://facebook.com/events/147434852375256" target="_blank">Facebook event</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr<a>
