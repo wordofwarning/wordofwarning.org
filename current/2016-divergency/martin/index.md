@@ -25,7 +25,7 @@ A jazz fantasy about loss, love and hope set among the stars. Combining science 
 #### Venue + Booking Details for Divergency: Double Bill         
 Dates: Thursday 6 October 2016, 8.30pm            
 [Venue: Z-arts (incl STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
-Tickets: £6/3, available from Mon 19 Sep (*very limited capacity*).           
+<a href="http://z-arts.ticketsolve.com/shows/873562246/events/127983129" target="_blank">Tickets: £6/3</a>           
 Venue (Z-arts) Tel: 0161 232 6089           
          
 #### Access Information          
