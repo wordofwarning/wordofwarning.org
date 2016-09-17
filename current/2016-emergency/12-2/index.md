@@ -9,7 +9,7 @@ show: "First Session: 12noon-2pm"
 artist_size: 1
 show_size: 3
 header_image:
-season: "Emergency 1|10|2016"
+season: "Emergency 1|10|2016, 12noon-2pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
