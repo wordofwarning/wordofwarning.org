@@ -61,5 +61,6 @@ Venue (Z-arts) Tel: 0161 232 6089
 Divergency is primarily an adult-focussed event, some works will not be suitable for younger viewers (i.e. under 18s). It takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some of the work may not be wheelchair accessible. For specific age and access information please email <mailto:divergency@habmcr.org> or call 0161 232 6086.          
           
 #### Credits         
-Divergency is an ongoing artist development programme supported by [hÅb](/hab) + <a href="http://stunlive.com" target="_blank">STUN</a>; supported using public funding by the National Lottery through Arts Council England. | Header image: Chanje Kunda          
+Divergency is an ongoing artist development programme supported by [hÅb](/hab) + <a href="http://stunlive.com" target="_blank">STUN</a>; supported using public funding by the National Lottery through Arts Council England. | Header image: Chanje Kunda from
+<a href="https://vimeo.com/148735827" target="_blank">*Physics*</a> a short film by Lwimbo Kunda.       
 <a href="http://www.divergencymcr.org" target="_blank">www.divergencymcr.org</a> | <a href="http://twitter.com/hashtag/Divergency" target="_blank">#Divergency</a> | <a href="http://bgafestival.com" target="_blank">Black Gold Arts Festival</a>
