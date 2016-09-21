@@ -41,7 +41,7 @@ The domestication of the pea took place 11,000 years ago in the Near East. Which
 #### Who is she?  
 Maya Chowdhry is an inTer-aCtive artist, theatre-maker and Transmedia writer. Her writing is infused and influenced through her work for radio, film, live art and theatre. Her current practice uses interactive theatre-making and digital storytelling to create immersive and democratic experiences for audiences.          
          
-Maya's recent work includes *What is Lunch for*, a scratch performance at Camden People's Theatre, and a live-action-animation for a *Telling Tales: Scratch* with Coney at HOME, Manchester.      
+Maya's recent work includes *What is Lunch for?*, a scratch performance at Camden People's Theatre, and a live-action-animation for a *Telling Tales: Scratch* with Coney at HOME, Manchester.      
          
 #### What people have said about her    
 >*Maya is a writer of talent and has the ability to both craft a strong narrative whilst exploiting the potency and poetry of language.*<br>Kully Thiarai, Artistic Director, National Theatre Wales         
