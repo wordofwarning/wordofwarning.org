@@ -34,12 +34,10 @@ Age advisory: 14+ (parental/guardian discretion).
 Spoken word based, with use of vegan friendly food and drink during the performance. For specific age and access information please email <mailto:divergency@habmcr.org> or call 0161 232 6086.          
               
 #### More               
-Exploring home-cooked food and family trees, whilst delving into the stories that unfold in her father's kitchen, the show examines the relationship between an 8-year-old girl and her estranged father, and the journey that follows 12 years on, whilst reflecting on hundreds of years of Jamaican history through memory, music & poetry.    
+Exploring home-cooked food and family trees, whilst delving into the stories that unfold in her father's kitchen, the show examines the relationship between an 8-year-old girl and her estranged father, and the journey that follows 12 years on, whilst reflecting on hundreds of years of Jamaican history through memory & poetry.    
             
 #### Who is she?  
-Toni-Dee is a theatre maker, collaborator, writer and performance artist from Leeds, currently based in NW England.       
-         
-Her current body of work explores identity politics, memory and culture — which is intimate, literate and participatory using auto-biography as stimuli. She has been previously been commissioned by Fuel Productions Ltd, and worked with artists such as Andy Smith and Selina Thompson.        
+Toni-Dee is a theatre maker, collaborator, writer and performance artist from Leeds. Her practice explores identity politics, memory and culture using auto-biography as stimulus for her work thus far. Toni has previously been commissioned by Fuel and has toured her mono-dialogue *Rum Punch* around the North of England; she has also worked with artists such as Andy Smith + Selina Thompson.        
          
 #### What people have said about *My Father's Kitchen*        
 >*An adventure through time, culture and cuisine. Delivered with emotion and empathy, this solo performance makes connections to personal and political issues and offers a taste into someone else's world.*<br>Audience member         
