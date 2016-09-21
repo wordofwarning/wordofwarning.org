@@ -38,4 +38,4 @@ I've been around a while, a really long while… and in that time, I've been res
           
 Please send programming enquiries to me at <mailto:info@habarts.org>             
          
-I'm joined in this lunacy by John Franklin, greenroom's long time programme co-ordinator. Often spotted in a hat or proffering a variety of bizarre refreshments, John is the friendly face greeting you and eliciting your feedback at many of our events. We are also grateful for the support of a growing band of hÅb-ettes — currently Catherine (Cat) Shaw + Sam Stockdale.
+I'm joined in this lunacy by John Franklin, greenroom's long time programme co-ordinator. Often spotted in a hat or proffering a variety of bizarre refreshments, John is the friendly face greeting you and eliciting your feedback at many of our events. We are also grateful for the support of a growing band of hÅb-ettes: currently Catherine (Cat) Shaw, Sam Stockdale + Toni-Dee Paul.
