@@ -34,7 +34,7 @@ Age advisory: 14+ (parental/guardian discretion).
 Spoken word based, with use of vegan friendly food and drink during the performance. For specific age and access information please email <mailto:divergency@habmcr.org> or call 0161 232 6086.          
               
 #### More               
-Toni-Dee's performance explores home-cooked food and family trees, whilst delving into the stories that unfold in her father's kitchen. The show examines the relationship, between an 8 year old girl and her estranged father, and the journey that follows 12 years on, whilst reflecting on hundreds of years of Jamaican history through memory, music & poetry.    
+Exploring home-cooked food and family trees, whilst delving into the stories that unfold in her father's kitchen, the show examines the relationship between an 8-year-old girl and her estranged father, and the journey that follows 12 years on, whilst reflecting on hundreds of years of Jamaican history through memory, music & poetry.    
             
 #### Who is she?  
 Toni-Dee is a theatre maker, collaborator, writer and performance artist from Leeds, currently based in NW England.       
