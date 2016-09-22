@@ -25,25 +25,26 @@ season: "Emergency 1|10|2016, 2-4pm"
 **Maelstrom Theatre | *Land of the Giants***         
 For 30 years I had the perfect disguise. Like carefully crafted synthetic skin, I hid my true self from the world. With each new lover I forced my body to create yet another layer of lies. Layer upon layer, I moulded myself around the needs and desires of others, until one day the skins cracked and I was forced to see myself for the first time.          
          
-Created and performed by Maelstrom Theatre's Co-Director Anthony Briggs, with direction from Lindsey Brocklebank. When not authoring his own work or performing with Maelstrom Theatre, Anthony works part-time for Ludus Dance as their Creative Director, producing dance initiatives across the North West. *Land of the Giants* was created with support from Lancaster Arts and Ludus Dance.           
+Created and performed by Maelstrom Theatre's Co-Director Anthony Briggs, with direction from Lindsey Brocklebank. When not authoring his own work or performing with Maelstrom Theatre, Anthony works part-time for Ludus Dance as their Creative Director, producing dance initiatives across the North West. Created with support from Lancaster Arts + Ludus Dance.         
          
 **Ding & Sich | *Ding & Sich***          
 Ding & Sich is an ongoing collaboration between writer Simon Bowes + sculptor Annie Lord. Their work explores a poetics of flesh and bone, thought and speech, time and place. Founded in Winter 2015, formally their work draws on respective practices in writing, sound art and sculpture.         
          
-Annie has recently developed a trilogy of site-specific stories performed at three iterations of Edinburghs Hidden Door festival, alongside ongoing visual and sculptural art practices. She has developed work through residency programmes at Mustarinda (Finland) and Obras Foundation (Portugal). Simon led performance company Kings of England between 2008 + 2015, the company was commissioned by Battersea Arts Centre, SPILL Festival + greenroom. Ding & Sich recently performed at Camden People's Theatre as part of SPRINT Festival.             
+Annie has recently developed a trilogy of site-specific stories performed at three iterations of Edinburghs Hidden Door festival, alongside ongoing visual and sculptural art practices. She has developed work through residency programmes at Mustarinda (Finland) +d Obras Foundation (Portugal). Simon led performance company Kings of England between 2008 + 2015, the company was commissioned by Battersea Arts Centre, SPILL Festival + greenroom. Ding & Sich recently performed at Camden People's Theatre as part of SPRINT Festival.             
          
 **Paper People Theatre | *Do Geese See God?***          
 Do geese see God? What are planets? How many red balloons are there really?         
-Facts. Facts allow us to understand the universe and our place within it. But what is a fact? How do we know when a fact is true, out of date, misunderstood or just a lie? That's what were here to find out. In amongst the facts, all quite interesting, is one story of a young fact, personified, and her flight through life as she struggles to remain true.          
+Facts. Facts allow us to understand the universe and our place within it. But what is a fact? How do we know when a fact is true, out of date, misunderstood or just a lie? That's what were here to find out.          
+In amongst the facts, all quite interesting, is one story of a young fact, personified, and her flight through life as she struggles to remain true.          
 Sit down, listen close and we'll tell you the story of fact. You might even learn something.          
          
-Paper People Theatre is a company of cross-disciplinary artists who seek to make visually rich and vibrant work that explores humanity and our relationships with each other and the world we inhabit. The company members are Lowri Jones, Hannah Mook, Jake Walton + Jon Coleman.
+Paper People Theatre is a company of cross-disciplinary artists who seek to make visually rich and vibrant work that explores humanity and our relationships with each other and the world we inhabit. The company members are Lowri Jones, Hannah Mook, Jake Walton + Jon Coleman.        
          
-**Ryan O'Shea | *Sync.***
+**Ryan O'Shea | *Sync.***        
 Oozing European sex appeal, sleekness and minimalism, *Sync.* mixes homages to drag divas and mainstream pop culture with a slow brooding intensity questioning concepts of deceit, authenticity and belief.          
 Set amongst an alien-like, 80s androgynous future where everything is clean, stylized and most importantly precise, *Sync.* explores the relationship between synchronization, language and movement, deconstructing an art form by simultaneously fusing iconography, faith and pop. All boiling down to one question: Do you believe?         
          
-Ryan O'Shea is an artist and performance maker hailing from Bristol. A recent graduate of Manchester Metropolitan University, he makes performance work transcending a range of disciplines. Play, deconstruction and popular culture sit at the heart of his performance pieces. He has worked with a range of international artists including: El Conde de Torrifiel (Spain) + Reckless Sleepers (UK/Belgium), and will be working with artist Michael Pinchbeck on his latest piece.        
+Ryan is an artist and performance maker hailing from Bristol. A recent graduate of Manchester Metropolitan University, he makes performance work transcending a range of disciplines. Play, deconstruction and popular culture sit at the heart of his performance pieces. He has worked with a range of international artists including: El Conde de Torrifiel (Spain) + Reckless Sleepers (UK/Belgium), and will be working with artist Michael Pinchbeck on his latest piece.        
 <a href="http://RyanOSheaTheatre.com" target="_blank">RyanOSheaTheatre.com</a>        
          
 #### Venue + Booking Details         
