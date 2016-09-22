@@ -54,4 +54,4 @@ Emergency 2016 is primarily an adult-focussed event and some works may not be su
 [Emergency](/hab/emergency) 2016 is produced by [hÅb](/hab); supported using public funding by Arts Council England + Manchester City Council. | Image: Maelstrom Theatre by David Forrest       
          
 #### Websites
-<a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr<a>
+<a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://facebook.com/events/147434852375256" target="_blank">Facebook event</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr<a>
