@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency 2016"
-show: "Third Session: 4-7pm"
+show: "Third Session: 4pm-7pm"
 artist_size: 1
 show_size: 3
 header_image:
@@ -22,12 +22,7 @@ season: "Emergency 1|10|2016, 4-7pm"
 ### Artists in Alphabetical Order (*subject to change*)      
 ***Please note this is primarily an adult event, see Access Info below.***        
          
-**Adam Lowe** | ***Encounters with Ecstasies***        
-Presenting selections from his solo show *Ecstasies*, Adam Lowe as Beyonce Holes will lead you through a descent into the glittery history of Manchester's gay clubs. From intimate moments in a toilet cubicle to revelry on the dancefloor, club kid Beyonce reaches for the strobe-light stars across the ceiling and whispers profane incantations to the Lord of the Dance.        
-         
-Directed by Gerry Potter, music by Nikki Franklin, animation by Charlie Taylor.        
-[Facebook](http://www.facebook.com/adambeyoncelowe) | [@adambeyoncelowe](http://twitter.com/adambeyoncelowe)         
-![Adam Lowe](adamlowe.jpg)         
+Amy Steel | Ben Spatz | Dominique Baron-Bonarjee | Hellen Burrough | Hollie Miller | Instant Dissidence | Jake Bowen | Jamil E-R Keating | Maya Chowdhry | Natalie Ramus | Ross McCaffrey | Rowland Hill + Jack Sheen | Toni-Dee Paul           
          
 #### Venue + Booking Details         
 Date: Saturday 1 October 2016, 4-7pm (*full event runs 12noon-11pm*)        
