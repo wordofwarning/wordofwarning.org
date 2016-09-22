@@ -52,7 +52,7 @@ Currently studying at UCLan, Jen's previous work *Breeze Block Pedestal* was see
          
 **Matthew Harrison-Lord | *(Mis)Information Desk***         
 An improvised, site-specific live art performance that provides correct, misleading, and irrelevant information. Overly long directions, news about the weather, random facts about the invention of the wheel, and hot gossip about Katie Price's latest wedding. A parodic performance providing playful opportunities for misinformation and subject redefinition.        
-> *a spectacle of the absurd* — Art in Liverpool | 2016          
+"a spectacle of the absurd" — Art in Liverpool | 2016          
          
 Performers: Matthew Harrison-Lord + Ellen Buckley. Matthew currently tours his own live art and contemporary theatre performances internationally, some of the festivals and galleries include: Tate Liverpool, the Whitworth, Palazzo Lucarini (Trevi, Italy), MMK2 (Frankfurt, Germany), Espai La Rambleta (Valencia, Spain), Fringe Arts Bath + Warrington Contemporary Arts Festival.         
 <a href="http://matthewharrisonlord.co.uk" target="_blank">matthewharrisonlord.co.uk</a>        
