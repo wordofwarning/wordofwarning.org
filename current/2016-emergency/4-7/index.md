@@ -22,8 +22,6 @@ season: "Emergency 1|10|2016, 4-7pm"
 ### Artists in Alphabetical Order (*subject to change*)      
 ***Please note this is primarily an adult event, see Access Info below.***        
          
-***N.B. THIS WEBPAGE IS IN THE PROCESS OF BEING UPDATED***        
-         
 **Amy Steel | *Lifeline***        
 The performance *Lifeline* hovers in a liminal space, caught between private and public. A domestic object is suspended before a moving body, out of which a threshold appears; a doorway into a new being.         
          
@@ -54,8 +52,8 @@ The foetal position holds grief of the existential exile from mother. Ultimately
 Hollie has a Fine Art Performance MA from The Royal College of Art, with prior training in dance + somatic practice from The Northern School of Contemporary Dance. She has performed her work in Europe, New York + Japan.           
 <a href="http://hollieclairemiller.com" target="_blank">hollieclairemiller.com</a>          
          
-**Instant Dissidence | *Dancing With Strangers…***
-***…From Calais to England — the Residency***
+**Instant Dissidence | *Dancing With Strangers…***         
+***…From Calais to England — the Residency***           
 Between 19th May and 3rd June 2016, Instant Dissidence travelled to The Jungle refugee camp in Calais to develop the project *Dancing With Strangers: From Calais to England*, which premiered in Manchester at [Hazard 2016](/archive/2016-hazard/ongoing). This is a (12 minute) documentary film offering an account of the company's experience whilst in residency in Calais.         
          
 Instant Dissidence is a Bradford-based company directed by Rita Marcalo. A way of bringing different artists together, in different combinations, to realise different ideas, Instant Dissidence invents ways of offering other people art experiences. Rita's practice began in dance/choreography but she became more interested in communicating concepts than sticking to a particular artform and today collaborates with others to create work in different media and to solve creative problems.            
@@ -81,22 +79,23 @@ Developed as a Divergency micro-commission with support from [hÅb](/hab) + <a h
 Maya is an inTer-aCtive artist, theatre-maker and Transmedia writer. Her writing is infused and influenced through her work for radio, film, live art and theatre. Her current practice uses interactive theatre-making and digital storytelling to create immersive and democratic experiences for audiences. Maya's recent work includes *What is Lunch for?*, a scratch performance at Camden People's Theatre, and a live-action-animation for a *Telling Tales: Scratch* with Coney at HOME, Manchester.            
 <a href="http://www.interactiveartist.org" target="_blank">interactiveartist.org</a>             
          
-**Natalie Ramus  | *16000:3***
+**Natalie Ramus  | *16000:3***           
 A fascination with the materiality of the body has led Natalie to question its edges and boundaries. *16000* is a long term project which began at Tempting Failure CIC 2016, *16000:3* will be the third performance and sees her make use of a stack of paper equalling her height. This stack will be used to explore and document the body through a series of performances until the stack has been reworked fully; the traces of which will be captured to create an archive of time, memory and body.         
          
 Natalie is a Fine Art graduate and holds an MFA from Cardiff School of Art and Design. She has exhibited and performed both in Wales and in London and has been selected for New Art West Midlands which will see her work displayed in Birmingham in 2017. Image credit: Julia Bauer          
          
-**Ross McCaffrey | *Come Be Sad With Me***
+**Ross McCaffrey | *Come Be Sad With Me***          
 *I think we need to have a chat. But we don't have to. We can just sit. Or we can lie down. It's up to you. I'm just inviting you to Come be Sad with Me.*            
 A one-to-one performance that explores the themes and severity of mental health conditions and tries to spread some joy through sadness. Performances are about 15 minutes long and are however you want them to be.         
          
 Through Contact Young Company Ross has worked with Artists and Directors such as Montse Gili, Stacy Makishi + Nathaniel Hall and was performer in the show *Under the Covers* which toured various arts festivals throughout 2015. He is a member of Powder Keg, a theatre company blending pop culture and politics to create work that tries to make sense of the political landscape that surrounds us; current work is supported by Theatre Delicatessen in Sheffield and the company is recipient of the Hodgkiss Award from the Royal Exchange Theatre.         
          
-**Rowland Hill + Jack Sheen | *I have never been anywhere so long***
+**Rowland Hill + Jack Sheen | *I have never been anywhere so long***                
 Beginning life as a four-minute audio-visual work entitled *Hand Film*, *I have never been anywhere so long* is a performance-installation choreographed from archive footage of women's work in the Lancashire cotton mills. A meditation on variation within stasis, *Hand Film* mapped a series of lost hand gestures used by the workers to operate the mill's machinery onto a cycle of repeated musical phrases. *I have never been anywhere so long* extrapolates these ideas within an extended time frame in an exploration of manual labour, the discipline of repetition, and corporeal memory.            
          
 Created by Rowland Hill + Jack Sheen. Original movement choreographed with Hannah Buckley. Music performed by Harry Fausing Smith.         
-Rowland Hill is an artist and curator currently based in Manchester. With a background in devised theatre and performing arts, her creative practice centres on the relationship between moving image, sound and live performance. Jack is the co-founder and director of ddmmyy, a concert/events series dedicated to commissioning and contextualising experimental and contemporary classical music, alongside dance, audio-visual installations and film.          
+Rowland Hill is an artist and curator currently based in Manchester. With a background in devised theatre and performing arts, her creative practice centres on the relationship between moving image, sound and live performance.            
+Jack is the co-founder and director of ddmmyy, a concert/events series dedicated to commissioning and contextualising experimental and contemporary classical music, alongside dance, audio-visual installations and film.          
 <a href="http://rowland-hill.com" target="_blank">rowland-hill.com</a> | <a href="http://jacksheen.com" target="_blank">jacksheen.com</a>           
          
 **Toni-Dee Paul | *My Father's Kitchen***           
