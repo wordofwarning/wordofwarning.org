@@ -30,7 +30,7 @@ Created and performed by Maelstrom Theatre's Co-Director Anthony Briggs, with di
 **Ding & Sich | *Ding & Sich***          
 Ding & Sich is an ongoing collaboration between writer Simon Bowes + sculptor Annie Lord. Their work explores a poetics of flesh and bone, thought and speech, time and place. Founded in Winter 2015, formally their work draws on respective practices in writing, sound art and sculpture.         
          
-Annie has recently developed a trilogy of site-specific stories performed at three iterations of Edinburghs Hidden Door festival, alongside ongoing visual and sculptural art practices. She has developed work through residency programmes at Mustarinda (Finland) +d Obras Foundation (Portugal). Simon led performance company Kings of England between 2008 + 2015, the company was commissioned by Battersea Arts Centre, SPILL Festival + greenroom. Ding & Sich recently performed at Camden People's Theatre as part of SPRINT Festival.             
+Annie has recently developed a trilogy of site-specific stories performed at three iterations of Edinburghs Hidden Door festival, alongside ongoing visual and sculptural art practices. She has developed work through residency programmes at Mustarinda (Finland) +d Obras Foundation (Portugal). Simon led performance company Kings of England between 2008 + 2015, the company was commissioned by Battersea Arts Centre, SPILL Festival + greenroom. D&S recently performed at Camden People's Theatre as part of SPRINT Festival.             
          
 **Paper People Theatre | *Do Geese See God?***          
 Do geese see God? What are planets? How many red balloons are there really?         
@@ -42,7 +42,8 @@ Paper People Theatre is a company of cross-disciplinary artists who seek to make
          
 **Ryan O'Shea | *Sync.***        
 Oozing European sex appeal, sleekness and minimalism, *Sync.* mixes homages to drag divas and mainstream pop culture with a slow brooding intensity questioning concepts of deceit, authenticity and belief.          
-Set amongst an alien-like, 80s androgynous future where everything is clean, stylized and most importantly precise, *Sync.* explores the relationship between synchronization, language and movement, deconstructing an art form by simultaneously fusing iconography, faith and pop. All boiling down to one question: Do you believe?         
+Set amongst an alien-like, 80s androgynous future where everything is clean, stylized and most importantly precise, *Sync.* explores the relationship between synchronization, language and movement, deconstructing an art form by simultaneously fusing iconography, faith and pop.         
+All boiling down to one question: Do you believe?         
          
 Ryan is an artist and performance maker hailing from Bristol. A recent graduate of Manchester Metropolitan University, he makes performance work transcending a range of disciplines. Play, deconstruction and popular culture sit at the heart of his performance pieces. He has worked with a range of international artists including: El Conde de Torrifiel (Spain) + Reckless Sleepers (UK/Belgium), and will be working with artist Michael Pinchbeck on his latest piece.        
 <a href="http://RyanOSheaTheatre.com" target="_blank">RyanOSheaTheatre.com</a>        
