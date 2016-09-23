@@ -44,6 +44,7 @@ From the earth beneath our feet to the stars in our skies, an evening of emergin
 Date: Thursday 6 October 2016, 6-8.30pm        
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
 Tickets: FREE, no booking required, come + go as you please.                
+*N.B. Some installations have a limited capacity and may operate on a first-come, first-served basis. *
 Venue (Z-arts) Tel: 0161 232 6089        
          
 #### Venue + Booking Details for Tabletop Trio         
@@ -64,4 +65,4 @@ Divergency is primarily an adult-focussed event, some works will not be suitable
 #### Credits         
 Divergency is an ongoing artist development programme supported by [hÅb](/hab) + <a href="http://stunlive.com" target="_blank">STUN</a>; supported using public funding by the National Lottery through Arts Council England. | Header image: Chanje Kunda from
 <a href="https://vimeo.com/148735827" target="_blank">*Physics*</a> a short film by Lwimbo Kunda.       
-<a href="http://www.divergencymcr.org" target="_blank">www.divergencymcr.org</a> | <a href="http://twitter.com/hashtag/Divergency" target="_blank">#Divergency</a> | <a href="http://bgafestival.com" target="_blank">Black Gold Arts Festival</a>
+<a href="http://divergencymcr.org" target="_blank">divergencymcr.org</a> | <a href="http://facebook.com/events/138098743314898" target="_blank">Facebook event</a> | <a href="http://twitter.com/hashtag/Divergency" target="_blank">#Divergency</a> | <a href="http://bgafestival.com" target="_blank">Black Gold Arts Festival</a>
