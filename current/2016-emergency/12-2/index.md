@@ -40,9 +40,10 @@ A durational performance dealing with notions of displacement and remoteness, ur
 Elena is a performance maker based in London. Since 2010 she has developed a rigorous body-based practice at the interface between live art and performance. For over ten years she has also been working as a performance artist teaching and performing for different artistic directors, and in various educational and community settings. Her work has been seen both nationally and internationally in venues such as The NoN Festival of Contemporary Art, Trento, Italy (2015), City of Women Performance Festival, Ljubljana (2015), Dance Base, Edinburgh (2013); the National Theatre Studio, SPILL 2013.           
          
 **Jamil E-R Keating | *Asteroid RK1***          
-An allegorical installation-performance about outer-space and our inner-city streets. Asteroids and addictions. Meteorites and human rights. Comets in the night sky and care in the city.        
+An allegorical installation-performance about outer-space and our inner-city streets. Asteroids and addictions. Meteorites and human rights. Comets in the night sky and care in the city.         
+Developed as a Divergency micro-commission with support from [hÅb](/hab) + <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North).       
          
-Jamil is an emerging theatre-maker, writer and performer. *Asteroid RK1* is his fourth piece of work, the fourth step in an artistic journey of trying to find the balance between being overwhelmed by a perverse enthusiasm for the absurdity of life, and trying to say something of substance about it… simply.       
+Jamil is an emerging theatre-maker, writer and performer. *Asteroid RK1* is his fourth piece of work, the fourth step in an artistic journey of trying to find the balance between being overwhelmed by a perverse enthusiasm for the absurdity of life, and trying to say something of substance about it… simply.         
 To date: he has made small pieces for Hazard (as Tracey Lumpkin) and Emergency; received a [Works Ahead](/archive/2015-worksahead/keating) commission from hÅb + Contact; collaborated as dramaturg on a performance at The Royal Exchange; assistant directed for Contact; curated performances at Manchester Art Gallery; been an emerging artist in residence at the Whitworth.        
          
 **Jen Morgan | *Get In My Bed***         
@@ -59,8 +60,12 @@ Performers: Matthew Harrison-Lord + Ellen Buckley. Matthew currently tours his o
          
 **Maya Chowdhry | *Peas on Earth***         
 The domestication of the pea took place 11,000 years ago in the Near East. Which East is near depends on whether you called the wind trade-winds or hava. Using the humble pea as a symbol of our relationship to food, a portion of poetry and a pair of gardening gloves, *Peas on Earth* is a table-top of interactive theatre that gently augments our reality to allow us to experience the politics of eating, growing and sustaining ourselves.          
+Maya Chowdhry — Writer and Transmedia artist          
+Niki Woods — Performance mentor         
+Developed as a Divergency micro-commission with support from [hÅb](/hab) + <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North). Supported using public funding by the National Lottery through Arts Council England.              
          
-Maya is an inTer-aCtive artist, theatre-maker and Transmedia writer. Her writing is infused and influenced through her work for radio, film, live art and theatre. Her current practice uses interactive theatre-making and digital storytelling to create immersive and democratic experiences for audiences. Maya's recent work includes *What is Lunch for?*, a scratch performance at Camden People's Theatre, and a live-action-animation for a *Telling Tales: Scratch* with Coney at HOME, Manchester.        
+Maya is an inTer-aCtive artist, theatre-maker and Transmedia writer. Her writing is infused and influenced through her work for radio, film, live art and theatre. Her current practice uses interactive theatre-making and digital storytelling to create immersive and democratic experiences for audiences. Maya's recent work includes *What is Lunch for?*, a scratch performance at Camden People's Theatre, and a live-action-animation for a *Telling Tales: Scratch* with Coney at HOME, Manchester.            
+<a href="http://www.interactiveartist.org" target="_blank">interactiveartist.org</a>             
          
 **Peter Jacobs | *No Man Is An Island***         
 A durational performance installation that explores perceptions of public, personal and private space, freedom and restriction through gameplay and movement within a series of fixed spaces. A group of men in a performance area of ever-decreasing size, with a random and unknown hierarchy that turns on its head as those with the most space become those trying to fit into a space where there is none left.         
