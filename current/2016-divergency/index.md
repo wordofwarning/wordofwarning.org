@@ -43,8 +43,8 @@ From the earth beneath our feet to the stars in our skies, an evening of emergin
 #### Venue + Booking Details for Installation        
 Date: Thursday 6 October 2016, 6-8.30pm        
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
-Tickets: FREE, no booking required, come + go as you please.                
-*N.B. Some installations have a limited capacity and may operate on a first-come, first-served basis. *
+Tickets: FREE, no booking required, come + go as you please.              
+*N.B. Some installations have a limited capacity and may operate on a first-come, first-served basis.*         
 Venue (Z-arts) Tel: 0161 232 6089        
          
 #### Venue + Booking Details for Tabletop Trio         
