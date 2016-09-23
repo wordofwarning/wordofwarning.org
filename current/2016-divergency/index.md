@@ -21,7 +21,7 @@ season: "Divergency 6|10|2016"
 *Presented by* Word of Warning, STUN *+* Black Gold Arts Festival         
          
 ### Thursday 6 October 2016, 6-10pm        
-An evening of tabletop performances, installations + sit-down shows, featuring:             
+An evening of tabletop performances, installations + sit-down shows.  A unique insight into eight new works in various stages of development from first sketches to ready-to-go shows, featuring:               
          
 **Installation: 6-8.30pm. FREE**            
 Jamil E-R Keating | *Asteroid RK1*        
