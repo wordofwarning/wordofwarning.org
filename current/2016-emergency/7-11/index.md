@@ -40,7 +40,7 @@ What are the real laws of attraction?
 Unlikely bed-fellows quantum mechanics, existentialism and erotic dance combine in this celebration of female sensuality from a feminist perspective.          
 Developed with Director Benji Reid + Dramaturg Malika Booker.          
 Developed as a Divergency micro-commission with support from [hÅb](/hab) + <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North). Commissioned by Contact, hÅb + STUN. Supported using public funding by the National Lottery through Arts Council England.           
-Image from <a href="http://vimeo.com/148735827" target="_blank">*Physics*</a>, a short film by Lwimbo Kunda.          
+Image from <a href="http://vimeo.com/148735827" target="_blank">*Physics*</a> a short film by Lwimbo Kunda.          
          
 Chanje is a solo artist working nationally and internationally as both a poet and performance artist. Her last full length show, *Amsterdam*, fused spoken word with live art and was nominated for Best Studio Production by Manchester Theatre Awards, touring both nationally and to South Africa + The Netherlands.         
 <a href="http://www.chanjekunda.com" target="_blank">chanjekunda.com</a>         
