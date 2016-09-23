@@ -46,7 +46,7 @@ Her last full length show, *Amsterdam*, fused spoken word with live art and was 
 #### Credits           
 Developed with Director Benji Reid + Dramaturg Malika Booker.          
 Developed as a Divergency micro-commission with support from [hÅb](/hab) + <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North). Commissioned by Contact, hÅb + STUN. Supported using public funding by the National Lottery through Arts Council England.          
-Header image: Chanje Kunda from <a href="http://vimeo.com/148735827" target="_blank">*Physics*</a>, a short film by Lwimbo Kunda.    
+Header image: Chanje Kunda from <a href="http://vimeo.com/148735827" target="_blank">*Physics*</a> a short film by Lwimbo Kunda.    
          
 #### Websites          
 <a href="http://www.chanjekunda.com" target="_blank">chanjekunda.com</a> | <a href="http://facebook.com/Chanje-Kunda-Page-196097173743336" target="_blank">Chanje Kunda on Facebook</a> | <a href="http://twitter.com/ChanjeKunda" target="_blank">@ChanjeKunda</a><br><a href="http://www.divergencymcr.org" target="_blank">www.divergencymcr.org</a> | <a href="http://twitter.com/hashtag/Divergency" target="_blank">#Divergency</a> | <a href="http://bgafestival.com" target="_blank">Black Gold Arts Festival</a>
