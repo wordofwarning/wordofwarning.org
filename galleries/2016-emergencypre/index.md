@@ -17,6 +17,7 @@ gallery:
     -   {file: "dominiquebb.jpg", artist: "Dominique Baron-Bonarjee"}
     -   {file: "elenamolinaro.jpg", artist: "Elena Molinaro"}
     -   {file: "jamilkeating.jpg", artist: "Jamil Keating"}
+    -   {file: "jenmorgan.jpg", artist: "Jen Morgan"}
     -   {file: "matthewhl.jpg", artist: "Matthew Harrison-Lord"}
     -   {file: "mayachowdhry.jpg", artist: "Maya Chowdhry"}
     -   {file: "peterjacobs.jpg", artist: "Peter Jacobs; <small> image Stephen Pictureman</small>"}
