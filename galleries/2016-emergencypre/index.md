@@ -24,7 +24,7 @@ gallery:
     -   {file: "paperpeople.jpg", artist: "Paper People Theatre"}
     -   {file: "dingsich.jpg", artist: "Ding & Sich"}
     -   {file: "ryanoshea.jpg", artist: "Ryan O'Shea; <small> image Bryan Slater</small>"}
-    -   {file: "hellenburroughs.jpg", artist: "Hellen Burroughs"}
+    -   {file: "hellenburrough.jpg", artist: "Hellen Burrough; <small> image Julia Bauer</small>"}
     -   {file: "holliemiller.jpg", artist: "Hollie Miller"}
     -   {file: "natalieramus.jpg", artist: "Natalie Ramus"}
     -   {file: "tonipaul.jpg", artist: "Toni-Dee Paul"}
