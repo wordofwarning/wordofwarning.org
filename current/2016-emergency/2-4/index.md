@@ -8,7 +8,7 @@ artist: "Emergency 2016"
 show: "Second Session: 2pm-4pm"
 artist_size: 1
 show_size: 3
-header_image:
+header_image: "header_oshea.jpg"
 season: "Emergency 1|10|2016, 2-4pm"
 
 # ABOUT THE SHOW - LAYOUT
@@ -59,7 +59,7 @@ Venue (Z-arts) Tel: 0161 232 6089
 Emergency 2016 is primarily an adult-focussed event and some works may not be suitable for younger viewers (i.e. under 18s). It takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some of the work may not be wheelchair accessible. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.        
          
 #### Credits         
-[Emergency](/hab/emergency) 2016 is produced by [hÅb](/hab); supported using public funding by Arts Council England + Manchester City Council. | Image: Maelstrom Theatre by David Forrest             
+[Emergency](/hab/emergency) 2016 is produced by [hÅb](/hab); supported using public funding by Arts Council England + Manchester City Council. | Image: Ryan O'Shea by Bryan Slater             
          
 #### Websites           
 <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://facebook.com/events/147434852375256" target="_blank">Facebook event</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr<a>

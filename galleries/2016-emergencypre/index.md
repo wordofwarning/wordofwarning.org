@@ -31,6 +31,7 @@ gallery:
     -   {file: "instantdissidence.jpg", artist: "Instant Dissidence"}
     -   {file: "rowlandhillsheen.jpg", artist: "Rowland-Hill + Jack Sheen"}
     -   {file: "theatre42.jpg", artist: "Theatre 42"}
+    -   {file: "aliwilson.jpg", artist: "Ali Wilson"}
     -   {file: "chanjekunda.jpg", artist: "Chanje Kunda; <small> image design Lwimbo Kunda</small> "}
     -   {file: "paulodonnell.jpg", artist: "Paul O'Donnell"}
     -   {file: "darrenwhite.jpg", artist: "Darren White"}  
