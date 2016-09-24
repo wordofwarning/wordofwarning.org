@@ -32,7 +32,7 @@ gallery:
     -   {file: "rowlandhillsheen.jpg", artist: "Rowland-Hill + Jack Sheen"}
     -   {file: "theatre42.jpg", artist: "Theatre 42"}
     -   {file: "chanjekunda.jpg", artist: "Chanje Kunda; <small> image design Lwimbo Kunda</small> "}
-    -   {file: "paullodonnell.jpg", artist: "Paul O'Donnell"}
+    -   {file: "paulodonnell.jpg", artist: "Paul O'Donnell"}
     -   {file: "darrenwhite.jpg", artist: "Darren White"}  
  
 ---
