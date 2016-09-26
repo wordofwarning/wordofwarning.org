@@ -20,7 +20,7 @@ gallery:
     -   {file: "jenmorgan.jpg", artist: "Jen Morgan"}
     -   {file: "matthewhl.jpg", artist: "Matthew Harrison-Lord"}
     -   {file: "mayachowdhry.jpg", artist: "Maya Chowdhry"}
-    -   {file: "peterjacobs.jpg", artist: "Peter Jacobs; <small> image Stephen Pictureman</small>"}
+    -   {file: "peterjacobs.jpg", artist: "Peter Jacobs; <small> image Stephen Hignett</small>"}
     -   {file: "paperpeople.jpg", artist: "Paper People Theatre"}
     -   {file: "dingsich.jpg", artist: "Ding & Sich"}
     -   {file: "ryanoshea.jpg", artist: "Ryan O'Shea; <small> image Bryan Slater</small>"}
@@ -32,6 +32,7 @@ gallery:
     -   {file: "rowlandhillsheen.jpg", artist: "Rowland-Hill + Jack Sheen"}
     -   {file: "theatre42.jpg", artist: "Theatre 42"}
     -   {file: "aliwilson.jpg", artist: "Ali Wilson"}
+    -   {file: "tincanpeople.jpg", artist: "Tin Can People"}
     -   {file: "chanjekunda.jpg", artist: "Chanje Kunda; <small> image design Lwimbo Kunda</small> "}
     -   {file: "paulodonnell.jpg", artist: "Paul O'Donnell"}
     -   {file: "darrenwhite.jpg", artist: "Darren White"}  
