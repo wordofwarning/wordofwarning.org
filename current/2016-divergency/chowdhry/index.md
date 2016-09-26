@@ -52,7 +52,8 @@ About *Kaahini*:
 #### Credits           
 Maya Chowdhry — Writer and Transmedia artist         
 Niki Woods — Performance mentor         
+Caro C — Sound Engineer        
 Developed as a Divergency micro-commission with support from [hÅb](/hab) + <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North). Supported using public funding by the National Lottery through Arts Council England.            
          
 #### Websites          
-<a href="http://www.interactiveartist.org" target="_blank">interactiveartist.org</a> | <a href="http://facebook.com/maya.chowdhry" target="_blank">facebook.com/maya.chowdhry</a> | <a href="http://twitter.com/MayaChowdhry" target="_blank">@MayaChowdhry</a><br><a href="http://www.divergencymcr.org" target="_blank">www.divergencymcr.org</a> | <a href="http://twitter.com/hashtag/Divergency" target="_blank">#Divergency</a> | <a href="http://bgafestival.com" target="_blank">Black Gold Arts Festival</a>
+<a href="http://www.interactiveartist.org" target="_blank">interactiveartist.org</a> | <a href="http://facebook.com/maya.chowdhry" target="_blank">facebook.com/maya.chowdhry</a> | <a href="http://twitter.com/MayaChowdhry" target="_blank">@MayaChowdhry</a> | <a href="http://www.carocsound.com" target="_blank">carocsound.com</a> | <a href="http://www.divergencymcr.org" target="_blank">www.divergencymcr.org</a> | <a href="http://twitter.com/hashtag/Divergency" target="_blank">#Divergency</a> | <a href="http://bgafestival.com" target="_blank">Black Gold Arts Festival</a>
