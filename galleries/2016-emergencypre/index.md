@@ -27,6 +27,7 @@ gallery:
     -   {file: "hellenburrough.jpg", artist: "Hellen Burrough; <small> image Julia Bauer</small>"}
     -   {file: "holliemiller.jpg", artist: "Hollie Miller"}
     -   {file: "natalieramus.jpg", artist: "Natalie Ramus"}
+    -   {file: "rossmccaffrey.jpg", artist: "Ross McCaffrey"}
     -   {file: "tonipaul.jpg", artist: "Toni-Dee Paul"}
     -   {file: "instantdissidence.jpg", artist: "Instant Dissidence"}
     -   {file: "rowlandhillsheen.jpg", artist: "Rowland-Hill + Jack Sheen"}

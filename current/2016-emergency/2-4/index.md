@@ -27,11 +27,10 @@ For 30 years I had the perfect disguise. Like carefully crafted synthetic skin, 
          
 Created and performed by Maelstrom Theatre's Co-Director Anthony Briggs, with direction from Lindsey Brocklebank. When not authoring his own work or performing with Maelstrom Theatre, Anthony works part-time for Ludus Dance as their Creative Director, producing dance initiatives across the North West. Created with support from Lancaster Arts + Ludus Dance.         
          
-**Ding & Sich | *Ding & Sich***          
-Ding & Sich is an ongoing collaboration between writer Simon Bowes + sculptor Annie Lord. Their work explores a poetics of flesh and bone, thought and speech, time and place. Founded in Winter 2015, formally their work draws on respective practices in writing, sound art and sculpture.         
-         
-Annie has recently developed a trilogy of site-specific stories performed at three iterations of Edinburghs Hidden Door festival, alongside ongoing visual and sculptural art practices. She has developed work through residency programmes at Mustarinda (Finland) +d Obras Foundation (Portugal). Simon led performance company Kings of England between 2008 + 2015, the company was commissioned by Battersea Arts Centre, SPILL Festival + greenroom. D&S recently performed at Camden People's Theatre as part of SPRINT Festival.             
-         
+**Ding & Sich | *Transfigurations***          
+Exploring the material conditions of life and death in starkly poetic, material terms, mouth-to-ear, we tell stories of flesh and bone. In thrall to the visceralness, the eroticism, of sound, sight, taste, smell, touch, we imagine reaching beyond. Emboldened, the tales get taller and taller as we chart great journeys through inner and outer experience; plot magnificent transfigurations between body and world, until we come to rest, cleaving, silent, still.         
+Ding & Sich was founded by Annie Lord & Simon Bowes in Winter, 2015. Annie has produced a trilogy of site-specific storytelling performances for Hidden Door Festival, Edinburgh. She has held residencies at Mustarinda, Finland (2015, 2016) and Obras, Portugal (2015). Simon led Kings of England between 2009 and 2015. The company was commissioned by greenroom, LICA, and SPILL Festival.        
+              
 **Paper People Theatre | *Do Geese See God?***          
 Do geese see God? What are planets? How many red balloons are there really?         
 Facts. Facts allow us to understand the universe and our place within it. But what is a fact? How do we know when a fact is true, out of date, misunderstood or just a lie? That's what were here to find out.          
