@@ -62,10 +62,11 @@ Performers: Matthew Harrison-Lord + Ellen Buckley. Matthew currently tours his o
 The domestication of the pea took place 11,000 years ago in the Near East. Which East is near depends on whether you called the wind trade-winds or hava. Using the humble pea as a symbol of our relationship to food, a portion of poetry and a pair of gardening gloves, *Peas on Earth* is a table-top of interactive theatre that gently augments our reality to allow us to experience the politics of eating, growing and sustaining ourselves.          
 Maya Chowdhry — Writer and Transmedia artist          
 Niki Woods — Performance mentor         
+Caro C — Sound Engineer         
 Developed as a Divergency micro-commission with support from [hÅb](/hab) + <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North). Supported using public funding by the National Lottery through Arts Council England.              
          
 Maya is an inTer-aCtive artist, theatre-maker and Transmedia writer. Her writing is infused and influenced through her work for radio, film, live art and theatre. Her current practice uses interactive theatre-making and digital storytelling to create immersive and democratic experiences for audiences. Maya's recent work includes *What is Lunch for?*, a scratch performance at Camden People's Theatre, and a live-action-animation for a *Telling Tales: Scratch* with Coney at HOME, Manchester.            
-<a href="http://www.interactiveartist.org" target="_blank">interactiveartist.org</a>             
+<a href="http://www.interactiveartist.org" target="_blank">interactiveartist.org</a> | <a href="http://www.carocsound.com" target="_blank">carocsound.com</a>                          
          
 **Peter Jacobs | *No Man Is An Island***         
 A durational performance installation that explores perceptions of public, personal and private space, freedom and restriction through gameplay and movement within a series of fixed spaces. A group of men in a performance area of ever-decreasing size, with a random and unknown hierarchy that turns on its head as those with the most space become those trying to fit into a space where there is none left.         
