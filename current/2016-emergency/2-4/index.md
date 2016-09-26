@@ -30,7 +30,9 @@ Created and performed by Maelstrom Theatre's Co-Director Anthony Briggs, with di
 **Ding & sich | *Transfigurations***          
 Exploring the material conditions of life and death in starkly poetic, material terms, mouth-to-ear, we tell stories of flesh and bone. In thrall to the visceralness, the eroticism, of sound, sight, taste, smell, touch, we imagine reaching beyond. Emboldened, the tales get taller and taller as we chart great journeys through inner and outer experience; plot magnificent transfigurations between body and world, until we come to rest, cleaving, silent, still.         
          
-Ding & sich was founded by Annie Lord & Simon Bowes in Winter 2015. Annie has produced a trilogy of site-specific storytelling performances for Hidden Door Festival, Edinburgh; she has held residencies at Mustarinda, Finland (2015, 2016) + Obras, Portugal (2015). Simon led Kings of England between 2009 + 2015; the company was commissioned by greenroom, LICA + SPILL Festival.           
+Ding & sich was founded by Annie Lord & Simon Bowes in Winter 2015.         
+Annie has produced a trilogy of site-specific storytelling performances for Hidden Door Festival, Edinburgh; she has held residencies at Mustarinda, Finland (2015, 2016) + Obras, Portugal (2015).          
+Simon led Kings of England between 2009 + 2015; the company was commissioned by greenroom, LICA + SPILL Festival.           
               
 **Paper People Theatre | *Do Geese See God?***          
 Do geese see God? What are planets? How many red balloons are there really?         
