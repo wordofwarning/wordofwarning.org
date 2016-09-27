@@ -19,6 +19,7 @@ gallery:
     -   {file: "jamilkeating.jpg", artist: "Jamil Keating"}
     -   {file: "jenmorgan.jpg", artist: "Jen Morgan"}
     -   {file: "matthewhl.jpg", artist: "Matthew Harrison-Lord"}
+    -   {file: "roxannecarney.jpg", artist: "Roxanne Carney"}
     -   {file: "mayachowdhry.jpg", artist: "Maya Chowdhry"}
     -   {file: "peterjacobs.jpg", artist: "Peter Jacobs; <small>image Stephen Hignett</small>"}
     -   {file: "paperpeople.jpg", artist: "Paper People Theatre"}
