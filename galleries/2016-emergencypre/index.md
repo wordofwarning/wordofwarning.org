@@ -27,7 +27,7 @@ gallery:
     -   {file: "ryanoshea.jpg", artist: "Ryan O'Shea; <small>image Bryan Slater</small>"}
     -   {file: "hellenburrough.jpg", artist: "Hellen Burrough; <small>image Julia Bauer</small>"}
     -   {file: "holliemiller.jpg", artist: "Hollie Miller"}
-    -   {file: "natalieramus.jpg", artist: "Natalie Ramus"}
+    -   {file: "natalieramus.jpg", artist: "Natalie Ramus; <small>image Julia Bauer</small>"}
     -   {file: "rossmccaffrey.jpg", artist: "Ross McCaffrey"}
     -   {file: "tonipaul.jpg", artist: "Toni-Dee Paul"}
     -   {file: "instantdissidence.jpg", artist: "Instant Dissidence"}
