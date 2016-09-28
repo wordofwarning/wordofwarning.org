@@ -19,20 +19,20 @@ season: Emergency 1|10|2016
 *Presented by* Word of Warning, STUN *+* Z-arts           
          
 ### Saturday 1 October 2016, 12noon-11pm†. FREE             
-Manchester's 17th micro-marathon of the bizarre + the beautiful fills Z-arts to bursting point with some 29 live works in a non-stop performance takeover.           
+Manchester's 17th micro-marathon of the bizarre + the beautiful fills Z-arts to bursting point with some 28 live works in a non-stop performance takeover.           
          
 *A living room, a lifeline, a freakshow, a caution,<br>Lipsync androgyny + bedroom confessionals,<br>A new map of Europe + a 'Jungle' invitation,<br>Gilded scars + stiletto stigmata,<br>A career-ending rock show + an empty musical…*          
          
 Your chance to sample the different — all for free. († *Ends 11pm, not 10pm.*)          
          
 ### Artists           
-Ali Wilson | Amy Steel | Ben Spatz | Chanje Kunda | Darren White | Ding & sich | Dominique Baron-Bonarjee | Elena Molinaro | Hellen Burrough | Hollie Miller | Instant Dissidence | Jake Bowen | Jamil E-R Keating | Jen Morgan | Maelstrom Theatre | Matthew Harrison-Lord | Maya Chowdhry | Natalie Ramus | Paper People Theatre | Paul O'Donnell | Peter Jacobs | Ross McCaffrey | Rowland Hill + Jack Sheen | Roxanne Carney | Ryan O'Shea | Theatre 42 | Tin Can People | Tom Cassani | Toni-Dee Paul          
+Ali Wilson | Amy Steel | Ben Spatz | Chanje Kunda | Ding & sich | Dominique Baron-Bonarjee | Elena Molinaro | Hellen Burrough | Hollie Miller | Instant Dissidence | Jake Bowen | Jamil E-R Keating | Jen Morgan | Maelstrom Theatre | Matthew Harrison-Lord | Maya Chowdhry | Natalie Ramus | Paper People Theatre | Paul O'Donnell | Peter Jacobs | Ross McCaffrey | Rowland Hill + Jack Sheen | Roxanne Carney | Ryan O'Shea | Theatre 42 | Tin Can People | Tom Cassani | Toni-Dee Paul (*N.B. Darren White no longer appears*)          
          
 With participating artists *subject to change*, it's a day in four sessions:        
-[**12noon-2pm**](/2016-emergency/12-2): dip in + out of ongoing performances, installations + 1-2-1s;          
-[**2pm-4pm**](/2016-emergency/2-4): join us for a series of short sit-down shows;         
-[**4pm-7pm**](/2016-emergency/4-7): see new spaces, ongoing performances, installations + 1-2-1s;        
-[**7pm-11pm**](/2016-emergency/7-11): a final burst of short sit-down shows.         
+[**12noon-2pm**](/current/2016-emergency/12-2): dip in + out of ongoing performances, installations + 1-2-1s;          
+[**2pm-4pm**](/current/2016-emergency/2-4): join us for a series of short sit-down shows;         
+[**4pm-7pm**](/current/2016-emergency/4-7): see new spaces, ongoing performances, installations + 1-2-1s;        
+[**7pm-11pm**](/current/2016-emergency/7-11): a final burst of short sit-down shows.         
          
 To get a feel for it, have a look at 2015's [programme](/archive/2015-emergency) + [gallery](/galleries/2015-emergency).        
          
