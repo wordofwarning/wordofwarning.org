@@ -64,11 +64,7 @@ Tin Can People is a Preston-based collaborative company led by Charlotte Berry +
          
 Tom's practice is informed by a background in Performance Magic, Contemporary Theatre + Choreographic techniques. He works with the composition of actions and texts that integrate notions of the Self with wider concerns of Authenticity and Deception, using his background in sleight of hand and a knowledge of magic-based deceptive techniques to explore Truth, Lies, Belief + Failure.          
          
-**Darren White | *Rockstar***         
-Witness the birth and death of the greatest living rock star as he rises to fame and falls from grace in his first and final headline show.           
-Using verbatim text stolen from the drug-addled mouths of iconic rock stars, and recreating the most memorable moments from rock history, *Rockstar* charts the turbulent life of a reluctant rock star in an unforgettable, career-ending show. Live music by S Club 27.
-         
-Darren considers himself an explorer that utilises performance art as a means to document and preserve discoveries and naiveties. *Rockstar* is a new show, his first performance piece since the closing of greenroom in 2011. Previous work has been presented at Emergency + Hazard (hÅb/greenroom), Fresh AiR (Live Art Development Agency), CAST Festival, Accidental Festival + Up The Walls (Chester Performs). Solo shows *A Sense of the World* + *We Are Heroes* were seen at SPILL Festival + greenroom/Flare 2011 respectively.             
+***N.B. Darren White no longer appears***            
          
 #### Venue + Booking Details          
 Date: Saturday 1 October 2016, 7-11pm (*full event runs 12noon-11pm*)        
