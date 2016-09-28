@@ -59,10 +59,10 @@ Performers: Matthew Harrison-Lord + Ellen Buckley. Matthew currently tours his o
 <a href="http://matthewharrisonlord.co.uk" target="_blank">matthewharrisonlord.co.uk</a>        
          
 **Maya Chowdhry | *Peas on Earth***         
-The domestication of the pea took place 11,000 years ago in the Near East. Which East is near depends on whether you called the wind trade-winds or hava. Using the humble pea as a symbol of our relationship to food, a portion of poetry and a pair of gardening gloves, *Peas on Earth* is a table-top of interactive theatre that gently augments our reality to allow us to experience the politics of eating, growing and sustaining ourselves.    
-Age advisory: 14+ (parental/guardian discretion).        
+The domestication of the pea took place 11,000 years ago in the Near East. Which East is near depends on whether you called the wind trade-winds or hava. Using the humble pea as a symbol of our relationship to food, a portion of poetry and a pair of gardening gloves, *Peas on Earth* is a table-top of interactive theatre that gently augments our reality to allow us to experience the politics of eating, growing and sustaining ourselves.          
+*Age advisory: 14+ (parental/guardian discretion).*          
 *You will need headphones and a smartphone or mobile device that can download the <a href="http://www.zappar.com/getzappar/" target="_blank">Zappar free app</a> — please do this before the performance (you can use our wifi); if you don't have a mobile device or headphones then please let us know when signing-up.*          
-
+           
 Maya Chowdhry — Writer and Transmedia artist          
 Niki Woods — Performance mentor         
 Caro C — Sound Engineer         
