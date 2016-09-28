@@ -8,7 +8,7 @@ artist: "Emergency 2016"
 show: "Fourth Session: 7pm-11pm"
 artist_size: 1
 show_size: 3
-header_image: "header_white.jpg"
+header_image: "header_t42.jpg"
 season: "Emergency 1|10|2016, 7-11pm"
 
 # ABOUT THE SHOW - LAYOUT
