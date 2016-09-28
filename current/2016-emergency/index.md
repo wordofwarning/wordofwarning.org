@@ -29,10 +29,10 @@ Your chance to sample the different — all for free. († *Ends 11pm, not 10pm.
 Ali Wilson | Amy Steel | Ben Spatz | Chanje Kunda | Darren White | Ding & sich | Dominique Baron-Bonarjee | Elena Molinaro | Hellen Burrough | Hollie Miller | Instant Dissidence | Jake Bowen | Jamil E-R Keating | Jen Morgan | Maelstrom Theatre | Matthew Harrison-Lord | Maya Chowdhry | Natalie Ramus | Paper People Theatre | Paul O'Donnell | Peter Jacobs | Ross McCaffrey | Rowland Hill + Jack Sheen | Roxanne Carney | Ryan O'Shea | Theatre 42 | Tin Can People | Tom Cassani | Toni-Dee Paul          
          
 With participating artists *subject to change*, it's a day in four sessions:        
-**12noon-2pm**: dip in + out of ongoing performances, installations + 1-2-1s;          
-**2pm-4pm**: join us for a series of short sit-down shows;         
-**4pm-7pm**: see new spaces + new ongoing performances + installations;        
-**7pm-11pm**: a final burst of short sit-down shows.         
+[**12noon-2pm**](/2016-emergency/12-2): dip in + out of ongoing performances, installations + 1-2-1s;          
+[**2pm-4pm**](/2016-emergency/2-4): join us for a series of short sit-down shows;         
+[**4pm-7pm**](/2016-emergency/4-7): see new spaces, ongoing performances, installations + 1-2-1s;        
+[**7pm-11pm**](/2016-emergency/7-11): a final burst of short sit-down shows.         
          
 To get a feel for it, have a look at 2015's [programme](/archive/2015-emergency) + [gallery](/galleries/2015-emergency).        
          
