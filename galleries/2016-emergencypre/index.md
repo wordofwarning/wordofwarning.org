@@ -37,6 +37,5 @@ gallery:
     -   {file: "tincanpeople.jpg", artist: "Tin Can People"}
     -   {file: "chanjekunda.jpg", artist: "Chanje Kunda; <small>image design Lwimbo Kunda</small>"}
     -   {file: "paulodonnell.jpg", artist: "Paul O'Donnell"}
-    -   {file: "darrenwhite.jpg", artist: "Darren White"}  
- 
+     
 ---
