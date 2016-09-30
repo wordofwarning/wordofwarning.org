@@ -32,13 +32,15 @@ Amy graduated from Goldsmiths University with a BA in Fine Art in 2015. Her work
 *Sui Generis: 'In a class of its own, not like anything else, unique'.*         
 In our societies the needs of the individual for freedom, expression and fulfilment have to coexist with the need to belong to a group, to make ourselves recognisable to others by showing signs of this group through nationality, subcultures, religions and even gender. Groups become a 'territory' or home, a frame of recognition and protection. Featuring three monolithic costumes, *Sui Generis* develops a cycle of form and formlessness, which explores the creation of self and identity and interrogates the human form as a space for the inscription of categories, territories and realities.         
          
-Dominique is a French-Indian artist, based between Berlin and London. The primacy of the body as a framework for observing the social, personal and invisible realms of being, recurs within her work. She is a graduate of St Martin's School of Art, London. Selected 2016 exhibitions and performances: *Vacancies*, Galerie Wedding, Berlin; *Loitering with Intent*, People's History Museum, Manchester; *Collapse* at [Hazard 2016](/archive/2016-hazard), Manchester; *Sui Generis* at Water Tower Arts Festival, Sofia (Bulgaria).             
-         
+Dominique is a French-Indian artist, based between Berlin and London. The primacy of the body as a framework for observing the social, personal and invisible realms of being, recurs within her work. She is a graduate of St Martin's School of Art, London. Selected 2016 exhibitions and performances: *Vacancies*, Galerie Wedding, Berlin; *Loitering with Intent*, People's History Museum, Manchester; *Collapse* at [Hazard 2016](/archive/2016-hazard), Manchester; *Sui Generis* at Water Tower Arts Festival, Sofia (Bulgaria).         
+<a href="http://dominiquebb.com" target="_blank">dominiquebb.com</a>            
+            
 **Elena Molinaro | *CUT OFF***         
 A durational performance dealing with notions of displacement and remoteness, urgency and resistance to the recent political events that have put Europe and its people in a state of total uncertainty.          
          
 Elena is a performance maker based in London. Since 2010 she has developed a rigorous body-based practice at the interface between live art and performance. For over ten years she has also been working as a performance artist teaching and performing for different artistic directors, and in various educational and community settings. Her work has been seen both nationally and internationally in venues such as The NoN Festival of Contemporary Art, Trento, Italy (2015), City of Women Performance Festival, Ljubljana (2015), Dance Base, Edinburgh (2013); the National Theatre Studio, SPILL 2013.           
-         
+<a href="http://elenamolinaro.com" target="_blank">elenamolinaro.com</a>           
+            
 **Jamil E-R Keating | *Asteroid RK1***          
 An allegorical installation-performance about outer-space and our inner-city streets. Asteroids and addictions. Meteorites and human rights. Comets in the night sky and care in the city.         
 Developed as a Divergency micro-commission with support from [hÅb](/hab) + <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North).       
@@ -49,8 +51,8 @@ To date: he has made small pieces for Hazard (as Tracey Lumpkin) and Emergency; 
 **Jen Morgan | *Get In My Bed***         
 A one-to-one experience, in which I invite you to get in my bed. Telling you the story of the breakdown of my marriage. I journey you through the story with position movements and a distancing of contact. A piece of solo autobiographical work.          
          
-Currently studying at UCLan, Jen's previous work *Breeze Block Pedestal* was seen at Eventure Arts' *Unknown Identity* at Nexus Cafe, Manchester.         
-         
+Currently studying at UCLan, Jen's previous work *Breeze Block Pedestal* was seen at Eventure Arts' *Unknown Identity* at Nexus Cafe, Manchester.                 
+             
 **Matthew Harrison-Lord | *(Mis)Information Desk***         
 An improvised, site-specific live art performance that provides correct, misleading, and irrelevant information. Overly long directions, news about the weather, random facts about the invention of the wheel, and hot gossip about Katie Price's latest wedding. A parodic performance providing playful opportunities for misinformation and subject redefinition.        
 "a spectacle of the absurd" — Art in Liverpool | 2016          
