@@ -6,7 +6,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Maya Chowdhry"
-show: "Peas On Earth"
+show: "Peas on Earth"
 artist_size: 1
 show_size: 2
 header_image: "header_chowdhry.jpg"
