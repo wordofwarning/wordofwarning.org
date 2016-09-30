@@ -28,7 +28,7 @@ Blending colourful game-like visuals with contemporary dark storytelling, Theatr
 Developed at Lancaster University; supported by LICA at Lancaster University, Making Room + Lancaster Arts.          
          
 Theatre 42 is a group of graduates from Lancaster University. They make work based around technological and social change, and the way these two things interact. T42 is David Callanan, Anna West, Elizabeth Duggan, Jack Madley, Beatrice Sutton + Louise Cross.          
-
+<a href="http://theatre42.co.uk" target="_blank">theatre42.co.uk</a>             
          
 **Ali Wilson | *The Living Room***        
 Welcome to *The Living Room* — aka the dancing room, the biscuit room, the dreaming room, the singing room, the video-making room, the fortune telling room. Grandad's here and raring to go. I'll make sure he's turned his hearing-aid on. We've been working on this for a while…          
@@ -38,27 +38,29 @@ Ali makes quirky, semi-autobiographical solo work which tries to ask big questio
 **Chanje Kunda | *Superposition***         
 What are the real laws of attraction?         
 Unlikely bed-fellows quantum mechanics, existentialism and erotic dance combine in this celebration of female sensuality from a feminist perspective.          
-Developed with Director Benji Reid + Dramaturg Malika Booker.          
+Writer + performer: Chanje Kunda | Performance Development: Benji Reid | Dramaturge: Malika Booker | Movement Consultant: Fay Warne                
 Developed as a Divergency micro-commission with support from [hÅb](/hab) + <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North). Commissioned by Contact, hÅb + STUN. Supported using public funding by the National Lottery through Arts Council England.           
 Image from <a href="http://vimeo.com/148735827" target="_blank">*Physics*</a> a short film by Lwimbo Kunda.          
          
 Chanje is a solo artist working nationally and internationally as both a poet and performance artist. Her last full length show, *Amsterdam*, fused spoken word with live art and was nominated for Best Studio Production by Manchester Theatre Awards, touring both nationally and to South Africa + The Netherlands.         
 <a href="http://www.chanjekunda.com" target="_blank">chanjekunda.com</a>         
          
-**Paul O'Donnell | *Beautiful Theatre***        
+**Paul O'Donnell | *Beautiful***        
 Due to a miscommunication and gross lack of funds, Paul is unable to bring you the full-scale West End Bon Jovi musical he had hoped to today.          
 He's got the lights, he's got the music… he just can't afford the fees for a full cast of 32, and a 7-piece live band, or any set… we hope you understand.          
 Join Paul in imagining what is in the gaps, and lose yourself in this beautifully empty spectacle of a musical theatre show.          
          
 Paul is a solo theatre maker creating work that aims to both entertain and challenge audiences. His previous work includes *So Far West*, *Nothing!* ([a Works Ahead 2014 commission](/archive/2014-worksahead/odonnell)) and *One Thing On His Mime*, which have been received positively across the UK. Paul is currently Birmingham Repertory Theatre + Theatre Absolute's Associate Artist, and also produces events and his own theatre festival (Shoot Festival) in and around Coventry.         
-         
+<a href="http://podonnell6.wordpress.com" target="_blank">podonnell6.wordpress.com</a>         
+           
 **Tin Can People | *The Freak Show feat. Crystal Vision***        
 *We've only gone and bloody done it, we've joined the 21st century.<br>Through the chaos we look into crystal balls and we turn to the moon for answers.<br>Maybe there aren't any answers, maybe this is an illusion. Whatever it is, let's enjoy being here, together.*        
          
 A journey of dream sequences where we meet enchanted gypsies, beefeater bears and take job opportunities. We leave a small reclusive village and end up in a city.         
          
 Tin Can People is a Preston-based collaborative company led by Charlotte Berry + Rob Gregson. They have created work for studios, museums, pubs + kitchens — at Hatch, Derelict, Domestic II, Emergency 2015 + Camden People's Theatre.           
-         
+<a href="http://tincanpeople.com" target="_blank">tincanpeople.com</a>         
+          
 **Tom Cassani | *Someone Loves You Drive With Care***           
 *The structure of a trick is imbalanced. Watch everyday actions turn into the impossible. I place myself in vulnerable situations so we can examine the extremities of collectively constructed truths and lies. We will explore moments in time that have never happened and will never happen again. Being born at the same time as a tree, holding a stranger's hand, crying. I will expose deceptive techniques, teach how to spot a deception, empty my pockets and disarm myself of any hidden magnets, threads and pulleys. Stripping back any physical means of trickery we will explore and expose deception.*          
          
