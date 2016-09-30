@@ -39,13 +39,15 @@ Ben is Senior Lecturer in Drama, Theatre and Performance at University of Hudder
 In our societies the needs of the individual for freedom, expression and fulfilment have to coexist with the need to belong to a group, to make ourselves recognisable to others by showing signs of this group through nationality, subcultures, religions and even gender. Groups become a 'territory' or home, a frame of recognition and protection. Featuring three monolithic costumes, *Sui Generis* develops a cycle of form and formlessness, which explores the creation of self and identity and interrogates the human form as a space for the inscription of categories, territories and realities.         
          
 Dominique is a French-Indian artist, based between Berlin and London. The primacy of the body as a framework for observing the social, personal and invisible realms of being, recurs within her work. She is a graduate of St Martin's School of Art, London. Selected 2016 exhibitions and performances: *Vacancies*, Galerie Wedding, Berlin; *Loitering with Intent*, People's History Museum, Manchester; *Collapse* at [Hazard 2016](/archive/2016-hazard), Manchester; *Sui Generis* at Water Tower Arts Festival, Sofia (Bulgaria).             
-         
+<a href="http://dominiquebb.com" target="_blank">dominiquebb.com</a>            
+          
 **Hellen Burrough | *Kintsukuroi: Golden seams***        
 Kintsukuroi (Japanese: golden repair) is the Japanese art of repairing broken pottery with lacquer dusted or mixed with powdered gold, silver, or platinum. As a philosophy it treats breakage and repair as part of the history of an object, rather than something to disguise.          
 *Gilding each of my scars in gold leaf. Transforming these flaws into glittering decoration, recognising my body's repair as a part of my history. Body modifications, performances, surgical incisions, accidental cuts, intentional wounds. They've all left their mark.  Acknowledging fragility, honouring resilience. Presenting my scars as armour and autobiography.*           
           
 Hellen's work centres around her body as a site for exploring the abject or transgressive female body and reimagining and subverting ideas of femininity. Informed by a background in the subcultures of body modification and fetishism she makes live pieces using body ritual, action, endurance and wounds to examine intimacy, pain and the limits of the body. She began focussing on solo practice in 2012, after a period of working as a collaborator with Polish group Suka Off. She has most recently shown work at SPILL Festival + Tempting Failure.         
-         
+<a href="http://traumata.org" target="_blank">traumata.org</a>          
+          
 **Hollie Miller | *Stigmata***          
 The foetal position holds grief of the existential exile from mother. Ultimately our relationship to our maternal body is how we measure our relationship to time. Squatting in stilettos I stand on my hands. The pain of the action pulls me from childhood to womanhood, emphasising the gradual loss and becoming of mother.           
          
@@ -56,7 +58,8 @@ Hollie has a Fine Art Performance MA from The Royal College of Art, with prior t
 ***…From Calais to England — the Residency***           
 Between 19th May and 3rd June 2016, Instant Dissidence travelled to The Jungle refugee camp in Calais to develop the project *Dancing With Strangers: From Calais to England*, which premiered in Manchester at [Hazard 2016](/archive/2016-hazard/ongoing). This is a (12 minute) documentary film offering an account of the company's experience whilst in residency in Calais.         
          
-Instant Dissidence is a Bradford-based company directed by Rita Marcalo. A way of bringing different artists together, in different combinations, to realise different ideas, Instant Dissidence invents ways of offering other people art experiences. Rita's practice began in dance/choreography but she became more interested in communicating concepts than sticking to a particular artform and today collaborates with others to create work in different media and to solve creative problems.            
+Instant Dissidence is a Bradford-based company directed by Rita Marcalo. A way of bringing different artists together, in different combinations, to realise different ideas, Instant Dissidence invents ways of offering other people art experiences. Rita's practice began in dance/choreography but she became more interested in communicating concepts than sticking to a particular artform and today collaborates with others to create work in different media and to solve creative problems.             
+<a href="http://instantdissidence.co.uk" target="_blank">instantdissidence.co.uk</a>          
          
 **Jake Bowen | *Plea Bargain***            
 *Excuse me, I've been told I need to ask about having a Duty Solicitor… erm… I've got a court hearing in three hours… can you help me?*          
@@ -86,8 +89,9 @@ Maya is an inTer-aCtive artist, theatre-maker and Transmedia writer. Her writing
 **Natalie Ramus  | *16000:3***           
 A fascination with the materiality of the body has led Natalie to question its edges and boundaries. *16000* is a long term project which began at Tempting Failure CIC 2016, *16000:3* will be the third performance and sees her make use of a stack of paper equalling her height. This stack will be used to explore and document the body through a series of performances until the stack has been reworked fully; the traces of which will be captured to create an archive of time, memory and body.         
          
-Natalie is a Fine Art graduate and holds an MFA from Cardiff School of Art and Design. She has exhibited and performed both in Wales and in London and has been selected for New Art West Midlands which will see her work displayed in Birmingham in 2017. Image credit: Julia Bauer          
-         
+Natalie is a Fine Art graduate and holds an MFA from Cardiff School of Art and Design. She has exhibited and performed both in Wales and in London and has been selected for New Art West Midlands which will see her work displayed in Birmingham in 2017. | Image credit: Julia Bauer          
+<a href="http://natalieramus.com" target="_blank">natalieramus.com</a>          
+          
 **Ross McCaffrey | *Come Be Sad With Me***          
 *I think we need to have a chat. But we don't have to. We can just sit. Or we can lie down. It's up to you. I'm just inviting you to Come be Sad with Me.*            
 A one-to-one performance that explores the themes and severity of mental health conditions and tries to spread some joy through sadness. Performances are about 15 minutes long and are however you want them to be.         
