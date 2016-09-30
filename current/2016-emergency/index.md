@@ -32,7 +32,9 @@ With participating artists *subject to change*, it's a day in four sessions:
 [**12noon-2pm**](/current/2016-emergency/12-2): dip in + out of ongoing performances, installations + 1-2-1s;          
 [**2pm-4pm**](/current/2016-emergency/2-4): join us for a series of short sit-down shows;         
 [**4pm-7pm**](/current/2016-emergency/4-7): see new spaces, ongoing performances, installations + 1-2-1s;        
-[**7pm-11pm**](/current/2016-emergency/7-11): a final burst of short sit-down shows.         
+[**7pm-11pm**](/current/2016-emergency/7-11): a final burst of short sit-down shows.      
+   
+The planned schedule is now <a href="http://emergencymcr.posthaven.com/emergency-2016-schedule" target="_blank">here</a>  - please don't take it as gospel as things may change!      
          
 To get a feel for it, have a look at 2015's [programme](/archive/2015-emergency) + [gallery](/galleries/2015-emergency).        
          
