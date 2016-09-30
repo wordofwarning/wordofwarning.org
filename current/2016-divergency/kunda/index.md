@@ -44,7 +44,7 @@ Chanje Kunda is a solo artist working nationally and internationally as both a p
 Her last full length show, *Amsterdam*, fused spoken word with live art and was nominated for Best Studio Production by Manchester Theatre Awards; it toured nationally to Nottingham Playhouse, Camden People's Theatre, The Albany, Cast, Contact, The Drum and the National Rural Touring Conference, and internationally at South Africa's National Arts Festival in Grahamstown and at Podium Mozaiek Theater in Amsterdam, the Netherlands.         
          
 #### Credits           
-Developed with Director Benji Reid + Dramaturg Malika Booker.          
+Writer + performer: Chanje Kunda | Performance Development: Benji Reid | Dramaturge: Malika Booker | Movement Consultant: Fay Warne                
 Developed as a Divergency micro-commission with support from [hÅb](/hab) + <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North). Commissioned by Contact, hÅb + STUN. Supported using public funding by the National Lottery through Arts Council England.          
 Header image: Chanje Kunda from <a href="http://vimeo.com/148735827" target="_blank">*Physics*</a> a short film by Lwimbo Kunda.    
          
