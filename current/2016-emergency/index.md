@@ -36,9 +36,7 @@ With participating artists *subject to change*, it's a day in four sessions:
 [**4pm-7pm**](/current/2016-emergency/4-7): see new spaces, ongoing performances, installations + 1-2-1s;        
 [**7pm-11pm**](/current/2016-emergency/7-11): a final burst of short sit-down shows.      
    
-Our planned schedule is <a href="http://emergencymcr.posthaven.com/emergency-2016-schedule" target="_blank">here</a> — please don't take it as gospel as things may change!           
-                   
-To get a feel for it, have a look at 2015's [programme](/archive/2015-emergency) + [gallery](/galleries/2015-emergency).        
+Our planned schedule is <a href="http://emergencymcr.posthaven.com/emergency-2016-schedule" target="_blank">here</a> — please don't take it as gospel as things may change! To get a feel for it, have a look at 2015's [programme](/archive/2015-emergency) + [gallery](/galleries/2015-emergency).        
          
 #### Venue + Booking Details         
 Date: Saturday 1 October 2016, 12noon-11pm (*Ends 1hr later than advertised*)        
