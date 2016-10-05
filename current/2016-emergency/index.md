@@ -25,6 +25,8 @@ Manchester's 17th micro-marathon of the bizarre + the beautiful fills Z-arts to 
          
 Your chance to sample the different — all for free. († *Ends 11pm, not 10pm.*)          
          
+Now that it's over, read <a href="http://exeuntmagazine.com/features/emergency-festival-free-non-stop-performance-manchester" target="_blank">Exeunt Magazine</a>'s review.         
+         
 ### Artists           
 Ali Wilson | Amy Steel | Ben Spatz | Chanje Kunda | Ding & sich | Dominique Baron-Bonarjee | Elena Molinaro | Hellen Burrough | Hollie Miller | Instant Dissidence | Jake Bowen | Jamil E-R Keating | Jen Morgan | Maelstrom Theatre | Matthew Harrison-Lord | Maya Chowdhry | Natalie Ramus | Paper People Theatre | Paul O'Donnell | Peter Jacobs | Ross McCaffrey | Rowland Hill + Jack Sheen | Roxanne Carney | Ryan O'Shea | Theatre 42 | Tin Can People | Tom Cassani | Toni-Dee Paul | *N.B. Darren White no longer appears*          
          
@@ -34,8 +36,8 @@ With participating artists *subject to change*, it's a day in four sessions:
 [**4pm-7pm**](/current/2016-emergency/4-7): see new spaces, ongoing performances, installations + 1-2-1s;        
 [**7pm-11pm**](/current/2016-emergency/7-11): a final burst of short sit-down shows.      
    
-The planned schedule is now <a href="http://emergencymcr.posthaven.com/emergency-2016-schedule" target="_blank">here</a>  - please don't take it as gospel as things may change!      
-         
+Our planned schedule is <a href="http://emergencymcr.posthaven.com/emergency-2016-schedule" target="_blank">here</a> — please don't take it as gospel as things may change!           
+                   
 To get a feel for it, have a look at 2015's [programme](/archive/2015-emergency) + [gallery](/galleries/2015-emergency).        
          
 #### Venue + Booking Details         
@@ -48,7 +50,7 @@ Venue (Z-arts) Tel: 0161 232 6089
 #### What people have said about Emergency        
 >• *Great to have such exciting off beat talent.*<br>• *…genuinely amazing that this is still going giving new/different acts a platform to work from.*<br>• *Really important event for NW artists — safe space to experiment. Unlocks hidden gems*<br>• *I was thoroughly disappointed… I found the experience quite disturbing.*<br>[Audience Feedback from 2015](/archive/2015-emergency)           
          
-Emergency 2016 is a <a href="http://www.theguardian.com/stage/theatreblog/2016/sep/26/harriet-walter-tempest-mark-gatiss-boys-in-the-band" target="_blank">Guardian top theatre ticket</a>, previewed in the <a href="http://www.britishtheatreguide.info/news/marathon-events-for-manchester-6762" target="_blank">British Theatre Guide</a> + <a href="http://manchesterwire.co.uk/#!/free-performance-art-word-of-warning-at-z-arts-ft-29-events-in-11-hrs" target="_blank">Manchester Wire</a>, and recommended by <a href="http://quietmandave.co.uk/2016/09/october-theatre" target="_blank">QuietManDave</a>.         
+Emergency 2016 was a <a href="http://www.theguardian.com/stage/theatreblog/2016/sep/26/harriet-walter-tempest-mark-gatiss-boys-in-the-band" target="_blank">Guardian top theatre ticket</a>, previewed in the <a href="http://www.britishtheatreguide.info/news/marathon-events-for-manchester-6762" target="_blank">British Theatre Guide</a> + <a href="http://manchesterwire.co.uk/#!/free-performance-art-word-of-warning-at-z-arts-ft-29-events-in-11-hrs" target="_blank">Manchester Wire</a>, and recommended by <a href="http://quietmandave.co.uk/2016/09/october-theatre" target="_blank">QuietManDave</a>.         
         
 #### Access Information       
 Emergency 2016 is primarily an adult-focussed event and some works may not be suitable for younger viewers (i.e. under 18s). It takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some of the work may not be wheelchair accessible. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
