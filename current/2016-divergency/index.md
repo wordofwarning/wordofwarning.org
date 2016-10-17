@@ -29,12 +29,12 @@ Jamil E-R Keating | *Asteroid RK1*
 Chelsea Morgan | *Tented*             
 Yvonne Shelton | *Testimony*         
          
-**Tabletop Trio: 6pm. £6/3** (*very limited capacity*)      
+**Tabletop Trio: 6pm. £6/3** (*sold-out*)      
 Maya Chowdhry | *Peas on Earth*        
 Afreena Islam | *Daughters of the Curry Revolution*        
 Toni-Dee Paul | *My Father's Kitchen*        
          
-**Double Bill: 8.30pm. £6/3**          
+**Double Bill: 8.30pm. £6/3** (*sold-out*)         
 Chanje Kunda | *Superposition*         
 Cheryl Martin | *Who Wants to Live Forever (extract)*          
          
@@ -50,13 +50,13 @@ Venue (Z-arts) Tel: 0161 232 6089
 #### Venue + Booking Details for Tabletop Trio         
 Date: Thursday 6 October 2016, 6pm          
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
-<a href="http://z-arts.ticketsolve.com/shows/873562246/events/127983126" target="_blank">Tickets: £6/3 (*very limited capacity*)</a>               
+<a href="http://z-arts.ticketsolve.com/shows/873562246/events/127983126" target="_blank">Tickets: £6/3 (*sold-out*)</a>               
 Venue (Z-arts) Tel: 0161 232 6089        
           
 #### Venue + Booking Details for Double Bill         
 Date: Thursday 6 October 2016, 8.30pm        
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts (incl STUN Studio)</a>, 335 Stretford Road, Manchester, M15 5ZA          
-<a href="http://z-arts.ticketsolve.com/shows/873562246/events/127983129" target="_blank">Tickets: £6/3</a>               
+<a href="http://z-arts.ticketsolve.com/shows/873562246/events/127983129" target="_blank">Tickets: £6/3 (*sold-out*)</a>               
 Venue (Z-arts) Tel: 0161 232 6089       
          
 #### What people have said about Divergency         
