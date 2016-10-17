@@ -40,6 +40,8 @@ Cheryl Martin | *Who Wants to Live Forever (extract)*
          
 From the earth beneath our feet to the stars in our skies, an evening of emerging works by a group of artists as diverse as their subject matter…<br>Quantum mechanics, homelessness, food and sex brought together in a series of tabletop performances, installations and sit-down shows.         
          
+Now that it's over, read <a href="http://quietmandave.co.uk/2016/10/divergency" target="_blank">QuietManDave</a>'s review.              
+              
 #### Venue + Booking Details for Installation        
 Date: Thursday 6 October 2016, 6-8.30pm        
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
@@ -50,7 +52,7 @@ Venue (Z-arts) Tel: 0161 232 6089
 #### Venue + Booking Details for Tabletop Trio         
 Date: Thursday 6 October 2016, 6pm          
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
-<a href="http://z-arts.ticketsolve.com/shows/873562246/events/127983126" target="_blank">Tickets: £6/3 (*sold-out*)</a>               
+<a href="http://z-arts.ticketsolve.com/shows/873562246/events/127983126" target="_blank">Tickets: £6/3 (*very limited capacity: sold-out*)</a>               
 Venue (Z-arts) Tel: 0161 232 6089        
           
 #### Venue + Booking Details for Double Bill         
