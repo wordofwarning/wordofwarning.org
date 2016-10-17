@@ -25,7 +25,7 @@ Manchester's 17th micro-marathon of the bizarre + the beautiful fills Z-arts to 
          
 Your chance to sample the different — all for free. († *Ends 11pm, not 10pm.*)          
          
-Now that it's over, read reviews by <a href="http://exeuntmagazine.com/features/emergency-festival-free-non-stop-performance-manchester" target="_blank">Exeunt Magazine</a> + <a href="http://www.thestateofthearts.co.uk/features/review-emergency-z-arts" target="_blank">The State of the Arts</a>, and see our [gallery of images](galleries/2016-emergency) from the event.         
+Now that it's over, read reviews by <a href="http://exeuntmagazine.com/features/emergency-festival-free-non-stop-performance-manchester" target="_blank">Exeunt Magazine</a> + <a href="http://www.thestateofthearts.co.uk/features/review-emergency-z-arts" target="_blank">The State of the Arts</a>, and see our [gallery of images](/galleries/2016-emergency) from the event.         
          
 ### Artists           
 Ali Wilson | Amy Steel | Ben Spatz | Chanje Kunda | Ding & sich | Dominique Baron-Bonarjee | Elena Molinaro | Hellen Burrough | Hollie Miller | Instant Dissidence | Jake Bowen | Jamil E-R Keating | Jen Morgan | Maelstrom Theatre | Matthew Harrison-Lord | Maya Chowdhry | Natalie Ramus | Paper People Theatre | Paul O'Donnell | Peter Jacobs | Ross McCaffrey | Rowland Hill + Jack Sheen | Roxanne Carney | Ryan O'Shea | Theatre 42 | Tin Can People | Tom Cassani | Toni-Dee Paul | *N.B. Darren White no longer appears*          
