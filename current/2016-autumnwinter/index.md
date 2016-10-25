@@ -9,7 +9,7 @@ season: A/W 2016
 ---
 *A season of two halves, we enter our fifth autumn with an opening October flurry — the seventeenth [free day out for the curious](/current/2016-emergency), followed hard on by an [evening of the different](/current/2016-divergency). We then fast forward to November for a [special comeback](/current/2016-autumnwinter/wohead) and an [exploration of manliness](/current/2016-autumnwinter/2destlang)…*          
           
-Brought to you by hÅb with Black Gold Arts Festival, Contact, Divergency, STUN, The Lowry + Z-arts, we look forward to seeing you at some or all of Autumn/Winter 2016. If you want to check out what happened last season take a look at our [Spring/Summer 2016 archive](/archive/2016-springsummer), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=144976563660" target="_blank">online survey</a>.        
+Brought to you by hÅb with Black Gold Arts Festival, Contact, Divergency, STUN, The Lowry + Z-arts, we look forward to seeing you at some or all of Autumn/Winter 2016. If you want to check out what happened last season take a look at our [Spring/Summer 2016 archive](/archive/2016-springsummer), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=147497048277" target="_blank">online survey</a>.        
              
 #### What is Word of Warning + where did it come from?         
 >*Consistently refreshing and surprising, no season is ever the same…*          
