@@ -22,7 +22,7 @@ season: Two Destination Language 10|11|2016
 #### In Brief      
 A man at work. A man playing. A man playing at being a man. A woman too.<br>A celebration of everyday maleness.        
          
-Read About Manchester's<a href="http://aboutmanchester.co.uk/latest/new-performance-about-men-and-power-discusses-the-rapidly-changing-landscape-of-brexit-britain" target="_blank">preview article</a>.           
+Read a preview of *Manpower* by <a href="http://aboutmanchester.co.uk/latest/new-performance-about-men-and-power-discusses-the-rapidly-changing-landscape-of-brexit-britain" target="_blank">About Manchester</a>.           
            
 #### Venue + Booking Details    
 Date: Thursday 10 November 2016, 8pm          
