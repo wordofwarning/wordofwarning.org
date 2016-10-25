@@ -22,6 +22,8 @@ season: Two Destination Language 10|11|2016
 #### In Brief      
 A man at work. A man playing. A man playing at being a man. A woman too.<br>A celebration of everyday maleness.        
          
+Read About Manchester's<a href="http://aboutmanchester.co.uk/latest/new-performance-about-men-and-power-discusses-the-rapidly-changing-landscape-of-brexit-britain" target="_blank">preview article</a>.           
+           
 #### Venue + Booking Details    
 Date: Thursday 10 November 2016, 8pm          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (The Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
@@ -50,7 +52,7 @@ UK-based, they are currently resident Company at Salisbury Arts Centre and suppo
 #### What people have said about themk         
 >*Immensely powerful and life enhancing.*<br>Audience member on *Manpower*          
 >*…great beauty, sensitivity and humour…*<br><a href="http://www.broadwaybaby.com/shows/near-gone/702154" target="_blank">★★★★★ Broadway Baby</a> on *Near Gone*            
->*…a near-perfect show.*<br><a href="http://totaltheatre.org.uk/two-destination-language-near-gone/" target="_blank">Dorothy Max Prior, Total Theatre Magazine</a> on *Near Gone*         
+>*…a near-perfect show.*<br><a href="http://totaltheatre.org.uk/two-destination-language-near-gone/" target="_blank">Dorothy Max Prior, Total Theatre Magazine</a> on *Near Gone*              
          
 #### Credits          
 Conceived, devised, performed + produced by Alister Lownie + Katherina Radeva | 2016 tour produced with Jo Mackie | Lighting design by Vince Field<br>Thanks to Richard Owen, Cheryl Pierce, Caroline Steele + Tanya Steinhauser.<br>An ICIA University of Bath commission with Salisbury Arts Centre.<br>Development supported using public funding by the National Lottery through Arts Council England, and by the Kevin Spacey Foundation, The Point Eastleigh, The New Wolsey Theatre, Bristol Old Vic Ferment + BAC. Image by Alex Brenner.                 
