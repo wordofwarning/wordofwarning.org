@@ -20,7 +20,7 @@ season: Two Destination Language 10|11|2016
 *Presented by* The Lowry + Word of Warning          
          
 #### In Brief      
-A man at work. A man playing. A man playing at being a man. A woman too.<br>A celebration of everyday maleness.        
+A man at work. A man playing.  A man playing at being a man.  A woman too.<br>A celebration of everyday maleness.        
          
 Read previews of *Manpower* by <a href="http://aboutmanchester.co.uk/latest/new-performance-about-men-and-power-discusses-the-rapidly-changing-landscape-of-brexit-britain" target="_blank">About Manchester</a> + <a href="http://quietmandave.co.uk/2016/10/november-preview-manpower" target="_blank">QuietManDave</a>.           
            
@@ -55,7 +55,7 @@ UK-based, they are currently resident Company at Salisbury Arts Centre and suppo
 >*…a near-perfect show.*<br><a href="http://totaltheatre.org.uk/two-destination-language-near-gone/" target="_blank">Dorothy Max Prior, Total Theatre Magazine</a> on *Near Gone*              
          
 #### Credits          
-Conceived, devised, performed + produced by Alister Lownie + Katherina Radeva | 2016 tour produced with Jo Mackie | Lighting design by Vince Field<br>Thanks to Richard Owen, Cheryl Pierce, Caroline Steele + Tanya Steinhauser.<br>An ICIA University of Bath commission with Salisbury Arts Centre.<br>Development supported using public funding by the National Lottery through Arts Council England, and by the Kevin Spacey Foundation, The Point Eastleigh, The New Wolsey Theatre, Bristol Old Vic Ferment + BAC. Image by Alex Brenner.                 
+Conceived, devised, performed + produced by Alister Lownie + Katherina Radeva | 2016 tour produced with Jo Mackie | Lighting design by Vince Field<br>Thanks to Richard Owen, Cheryl Pierce, Caroline Steele + Tanya Steinhauser<br>An ICIA (Edge Arts) University of Bath commission with Salisbury Arts Centre.<br>Development supported using public funding by the National Lottery through Arts Council England, and by Kevin Spacey Foundation, The Point Eastleigh, New Wolsey Theatre, Bristol Old Vic Ferment + Battersea Arts Centre. | Image by Alex Brenner.                 
          
 #### Websites          
-<a href="http://www.twodestinationlanguage.com/?page_id=1137" target="_blank">twodestinationlanguage.com</a> | <a href="http://twitter.com/2destlang" target="_blank">@2destlang</a> | <a href="http://facebook.com/2destlang" target="_blank">2destlang on Facebook</a>
+<a href="http://www.twodestinationlanguage.com/?page_id=1137" target="_blank">twodestinationlanguage.com</a> | <a href="http://twitter.com/2destlang" target="_blank">@2destlang</a> | <a href="http://facebook.com/2destlang" target="_blank">2destlang on Facebook</a> | <a href="http://www.facebook.com/events/691026767730262" target="_blank">Facebook event</a>
