@@ -22,7 +22,7 @@ season: Two Destination Language 10|11|2016
 #### In Brief      
 A man at work. A man playing.  A man playing at being a man.  A woman too.<br>A celebration of everyday maleness.        
          
-Read previews of *Manpower* by <a href="http://aboutmanchester.co.uk/latest/new-performance-about-men-and-power-discusses-the-rapidly-changing-landscape-of-brexit-britain" target="_blank">About Manchester</a> + <a href="http://quietmandave.co.uk/2016/10/november-preview-manpower" target="_blank">QuietManDave</a>.           
+See their <a href="http://vimeo.com/189768637" target="_blank">trailer</a> and read previews by <a href="http://aboutmanchester.co.uk/latest/new-performance-about-men-and-power-discusses-the-rapidly-changing-landscape-of-brexit-britain" target="_blank">About Manchester</a> + <a href="http://quietmandave.co.uk/2016/10/november-preview-manpower" target="_blank">QuietManDave</a>.           
            
 #### Venue + Booking Details    
 Date: Thursday 10 November 2016, 8pm          
