@@ -20,8 +20,10 @@ season: Two Destination Language 10|11|2016
 *Presented by* The Lowry + Word of Warning          
          
 #### In Brief      
-A man at work. A man playing.  A man playing at being a man.  A woman too.<br>A celebration of everyday maleness.        
-         
+A DIY project. A DJ set. A celebration of everyday maleness.         
+        
+Set to the music of the forty years pre-Brexit, *Manpower* looks at the changing male roles that led to the cry 'we want our country back' and sets about reclaiming the little things: the right song, the right bolt for the job, the everyday pleasures of the working man… especially those that aren't working now.         
+        
 See their <a href="http://vimeo.com/189768637" target="_blank">trailer</a> and read previews by <a href="http://aboutmanchester.co.uk/latest/new-performance-about-men-and-power-discusses-the-rapidly-changing-landscape-of-brexit-britain" target="_blank">About Manchester</a> + <a href="http://quietmandave.co.uk/2016/10/november-preview-manpower" target="_blank">QuietManDave</a>.           
            
 #### Venue + Booking Details    
@@ -34,13 +36,13 @@ Box Office Tel: 0843 208 6000
 Age advisory: 14+ (parental/guardian discretion). With no interval, the show lasts approximately 80 minutes. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
 #### More         
+A man at work. A man playing. A man playing at being a man. A woman too.         
+         
 Alister and Kat have been thinking about men and power. Aspirations and expectations. Sheds and tea. Mouth-watering barbecues. Vulnerability and sheer hard work.           
          
 Two microphones, two wooden boxes, two performers. They begin to share stories of childhood, of how they came to be the people they are. They share hopes and fears, successes and failures, role models and nemeses. She DJs while he builds. She dances while he builds. He cooks. They are together.            
               
-*Manpower* is a celebration of everyday maleness. A conversation. A tribute. A DIY project. A DJ set. A healthy dose of nostalgia.        
-         
-A navigation through culture and people and becoming ourselves.          
+A conversation. A tribute. A healthy dose of nostalgia. A navigation through culture and people and becoming ourselves.          
          
 #### Who are they?        
 Two Destination Language make contemporary performance that's beautiful, arresting and accessible; sometimes it's called theatre, sometimes live art, sometimes dance theatre — Word of Warning most recently presented their heartfelt [*Near Gone*](/archive/2014-spring/2destlang) in 2014.                
