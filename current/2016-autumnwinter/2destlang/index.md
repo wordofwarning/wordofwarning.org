@@ -42,7 +42,7 @@ Alister and Kat have been thinking about men and power. Aspirations and expectat
          
 Two microphones, two wooden boxes, two performers. They begin to share stories of childhood, of how they came to be the people they are. They share hopes and fears, successes and failures, role models and nemeses. She DJs while he builds. She dances while he builds. He cooks. They are together.            
               
-A conversation. A tribute. A healthy dose of nostalgia. A navigation through culture and people and becoming ourselves.          
+With traditional roles for men and expectations of masculinity in flux, continued privilege afforded to 'the white male,' and the current political climate in the UK, *Manpower* has a lot to talk about… A conversation. A tribute. A healthy dose of nostalgia. A navigation through culture and people and becoming ourselves.          
          
 #### Who are they?        
 Two Destination Language make contemporary performance that's beautiful, arresting and accessible; sometimes it's called theatre, sometimes live art, sometimes dance theatre — Word of Warning most recently presented their heartfelt [*Near Gone*](/archive/2014-spring/2destlang) in 2014.                
