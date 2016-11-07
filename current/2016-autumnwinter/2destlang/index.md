@@ -24,7 +24,9 @@ A DIY project. A DJ set. A celebration of everyday maleness.
         
 Set to the music of the forty years pre-Brexit, *Manpower* looks at the changing male roles that led to the cry 'we want our country back' and sets about reclaiming the little things: the right song, the right bolt for the job, the everyday pleasures of the working man… especially those that aren't working now.         
         
-See their <a href="http://vimeo.com/189768637" target="_blank">trailer</a>, previews by <a href="http://aboutmanchester.co.uk/latest/new-performance-about-men-and-power-discusses-the-rapidly-changing-landscape-of-brexit-britain" target="_blank">About Manchester</a> + <a href="http://quietmandave.co.uk/2016/10/november-preview-manpower" target="_blank">QuietManDave</a>, and an article by Two Destination in <a href="http://exeuntmagazine.com/features/manpower-embraced-anger" target="_blank">Exeunt Magazine</a>.           
+See their <a href="http://vimeo.com/189768637" target="_blank">trailer</a> + read their <a href="http://exeuntmagazine.com/features/manpower-embraced-anger" target="_blank">Exeunt Magazine article</a>.            
+         
+*Manpower* is a <a href="http://URL" target="_blank">Guardian top theatre ticket</a> and previewed by <a href="http://aboutmanchester.co.uk/latest/new-performance-about-men-and-power-discusses-the-rapidly-changing-landscape-of-brexit-britain" target="_blank">About Manchester</a> + <a href="http://quietmandave.co.uk/2016/10/november-preview-manpower" target="_blank">QuietManDave</a>.           
            
 #### Venue + Booking Details    
 Date: Thursday 10 November 2016, 8pm          
