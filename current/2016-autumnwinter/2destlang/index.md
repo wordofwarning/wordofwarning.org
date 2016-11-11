@@ -25,17 +25,15 @@ A DIY project. A DJ set. A celebration of everyday maleness.
 Set to the music of the forty years pre-Brexit, *Manpower* looks at the changing male roles that led to the cry 'we want our country back' and sets about reclaiming the little things: the right song, the right bolt for the job, the everyday pleasures of the working man… especially those that aren't working now.         
         
 See their <a href="http://vimeo.com/189768637" target="_blank">trailer</a> + read their <a href="http://exeuntmagazine.com/features/manpower-embraced-anger" target="_blank">Exeunt Magazine article</a>.        
-        
-*Manpower* is a <a href="http://www.theguardian.com/stage/theatreblog/2016/nov/07/simon-russell-beale-tempest-comus-compass-festival-leeds-frankenstein-weston-theatre-top-tickets" target="_blank">Guardian top theatre ticket</a>; previewed by <a href="http://aboutmanchester.co.uk/latest/new-performance-about-men-and-power-discusses-the-rapidly-changing-landscape-of-brexit-britain" target="_blank">About Manchester</a>, the <a href="http://www.britishtheatreguide.info/news/manpower-roams-the-region-6939" target="_blank">British Theatre Guide</a> + <a href="http://quietmandave.co.uk/2016/10/november-preview-manpower" target="_blank">QuietManDave</a>.           
-           
+         
 #### Venue + Booking Details    
 Date: Thursday 10 November 2016, 8pm          
-<a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (The Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
+<a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
 <a href="http://www.thelowry.com/event/manpower" target="_blank">Tickets: £12/10</a> (*booking fees may apply*)         
 Box Office Tel: 0843 208 6000          
           
 #### Access Information        
-Age advisory: 14+ (parental/guardian discretion). With no interval, the show lasts approximately 80 minutes. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
+Age advisory: 14+ (parental/guardian discretion). With no interval, the show lasts approximately 1 hour. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
              
 #### More         
 A man at work. A man playing. A man playing at being a man. A woman too.         
@@ -57,7 +55,9 @@ UK-based, they are currently resident Company at Salisbury Arts Centre and suppo
 >*Immensely powerful and life enhancing.*<br>Audience member on *Manpower*          
 >*…great beauty, sensitivity and humour…*<br><a href="http://www.broadwaybaby.com/shows/near-gone/702154" target="_blank">★★★★★ Broadway Baby</a> on *Near Gone*            
 >*…a near-perfect show.*<br><a href="http://totaltheatre.org.uk/two-destination-language-near-gone/" target="_blank">Dorothy Max Prior, Total Theatre Magazine</a> on *Near Gone*              
-         
+          
+*Manpower* at The Lowry was a <a href="http://www.theguardian.com/stage/theatreblog/2016/nov/07/simon-russell-beale-tempest-comus-compass-festival-leeds-frankenstein-weston-theatre-top-tickets" target="_blank">Guardian top theatre ticket</a>; previewed by <a href="http://aboutmanchester.co.uk/latest/new-performance-about-men-and-power-discusses-the-rapidly-changing-landscape-of-brexit-britain" target="_blank">About Manchester</a>, the <a href="http://www.britishtheatreguide.info/news/manpower-roams-the-region-6939" target="_blank">British Theatre Guide</a> + <a href="http://quietmandave.co.uk/2016/10/november-preview-manpower" target="_blank">QuietManDave</a>; reviewed by <a href="http://www.thereviewshub.com/manpower-the-lowry-salford" target="_blank">The Reviews Hub</a>.          
+        
 #### Credits          
 Conceived, devised, performed + produced by Alister Lownie + Katherina Radeva | 2016 tour produced with Jo Mackie | Lighting design by Vince Field<br>Thanks to Richard Owen, Cheryl Pierce, Caroline Steele + Tanya Steinhauser.<br>An ICIA (Edge Arts) University of Bath commission with Salisbury Arts Centre. Development supported using public funding by the National Lottery through Arts Council England, and by Kevin Spacey Foundation, The Point Eastleigh, New Wolsey Theatre, Bristol Old Vic Ferment + Battersea Arts Centre.<br>Image by Alex Brenner.                 
          
