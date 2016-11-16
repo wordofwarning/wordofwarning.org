@@ -22,7 +22,7 @@ season: Greg Wohead 22-24|11|2016
 #### In Brief    
 Jam sessions, patter with a Southern drawl, big dance numbers, and a bit of sweat: this is a re-enactment of Elvis Presley's *1968 Comeback Special*. Sort of.         
          
-See his <a href="http://vimeo.com/165147968" target="_blank">trailer</a>.        
+See his <a href="http://vimeo.com/165147968" target="_blank">trailer</a> + read an <a href="http://exeuntmagazine.com/features/greg-wohead" target="_blank">Exeunt Magazine interview</a>.        
          
 #### Venue + Booking Details    
 Dates: Tuesday 22 — Thursday 24 November 2016, 8pm         
