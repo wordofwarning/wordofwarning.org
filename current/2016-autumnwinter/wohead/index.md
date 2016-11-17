@@ -22,7 +22,7 @@ season: Greg Wohead 22-24|11|2016
 #### In Brief       
 Jam sessions, patter with a Southern drawl, big dance numbers, and a bit of sweat: this is a re-enactment of Elvis Presley's *1968 Comeback Special*. Sort of.         
          
-See his <a href="http://vimeo.com/165147968" target="_blank">trailer</a> + read an <a href="http://exeuntmagazine.com/features/greg-wohead" target="_blank">Exeunt Magazine feature</a> on *Comeback Special*.        
+See his <a href="http://vimeo.com/165147968" target="_blank">trailer</a> + read his <a href="http://exeuntmagazine.com/features/greg-wohead" target="_blank">Exeunt Magazine feature</a>.        
          
 #### Venue + Booking Details    
 Dates: Tuesday 22 — Thursday 24 November 2016, 8pm         
@@ -64,7 +64,7 @@ In the past his work has mainly been a solo practice, but recently he's enjoyed 
 Co-commissioned by Shoreditch Town Hall, Theatre in the Mill + South Street Arts Centre. A Jerwood Charitable Foundation/Bristol Old Vic Ferment Commission. Developed at MAKE, Bios, Greenwich and Lewisham Young People's Theatre + the New Wolsey Theatre. Initially supported through a 2014 Dance and the Homemade Commission by Chisenhale Dance Space. Supported using public funding by the National Lottery through Arts Council England.<br>Image by Manuel Vason | Trailer by Rosie Powell        
          
 #### Websites          
-<a href="http://gregwohead.com" target="_blank">gregwohead.com</a> | <a href="http://twitter.com/gregwohead" target="_blank">@gregwohead</a> | <a href="http://twitter.com/hashtag/ComebackSpecial" target="_blank">#ComebackSpecial</a>           
+<a href="http://gregwohead.com" target="_blank">gregwohead.com</a> | <a href="http://twitter.com/gregwohead" target="_blank">@gregwohead</a> | <a href="http://twitter.com/hashtag/ComebackSpecial" target="_blank">#ComebackSpecial</a> | <a href="http://www.facebook.com/events/625788037624895" target="_blank">Facebook event</a>           
          
 #### Ticket Offers available at Contact during A/W 2016         
 • Book for 2 Contact Autumn/Winter 2016 shows (incl. *CS*) + get 10% off;<br>• Book for 3 Contact Autumn/Winter 2016 shows (incl. *CS*) + get 15% off;<br>• Book 6 (full or concession) tickets for *CS* + get £1 off each ticket;<br>• Buy 11 (full or concession) tickets for *CS* + get one free.                  
