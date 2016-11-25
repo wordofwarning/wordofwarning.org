@@ -5,4 +5,4 @@ header_image: "assets/images/header_aw16wrn_fth.jpg"
 season: homepage
 
 ---
-#### Thank you [Two Destination Language](/current/2016-autumnwinter/2destlang) for your provocative + punchy Lowry performance<br>[Autumn/Winter 2016](/current/2016-autumnwinter) closes with [Greg Wohead](/current/2016-autumnwinter/wohead)'s *Comeback Special* at Contact *22-24 Nov*
+#### Thank you to all our audiences, the Contact team, Elvis + Greg Wohead for getting us all shook up this week with [ComebackSpecial](/current/2016-autumnwinter/wohead)… Our [Autumn/Winter](/current/2016-autumnwinter) season has finished + we return in January.
