@@ -29,7 +29,7 @@ See their <a href="http://vimeo.com/189768637" target="_blank">trailer</a> + rea
 #### Venue + Booking Details    
 Date: Thursday 10 November 2016, 8pm          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-<a href="http://www.thelowry.com/event/manpower" target="_blank">Tickets: £12/10</a> (*booking fees may apply*)         
+<a href="http://www.thelowry.com/event/manpower" target="_blank">Tickets: Pay What You Decide — please book a free ticket in advance to ensure you get a space.</a>         
 Box Office Tel: 0843 208 6000          
           
 #### Access Information        
