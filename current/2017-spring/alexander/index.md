@@ -26,7 +26,7 @@ In a unique individual moment of undivided love + attention, FK takes your hand,
 Date: Thursday 16 February 2017, 6-9pm          
 <a href="http://www.whitworth.manchester.ac.uk/visit/gettinghere" target="_blank">Venue: the Whitworth</a>, The University of Manchester, Oxford Road, Manchester, M15 6ER              
 <a href="http://contactmcr.com/whats-on/64894-qc17-fk-alexander-i-could-go-on-singing-over-the-rainbow" target="_blank">Tickets: Free to book (via Contact)</a> for entry at 6pm, 7pm, 8pm.        
-Box Office Tel: 0161 274 0600 (Contact)         
+Box Office (Contact) Tel: 0161 274 0600         
          
 #### Access Information        
 Age advisory: ***??***+ (parental/guardian discretion). With no interval, this is a durational performance installation, with audience members free to come and go as they please***?***. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.      
