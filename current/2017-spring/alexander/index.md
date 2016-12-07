@@ -1,15 +1,15 @@
 ---
 # CONFIGURATION
-layout: 2016-autumnwinter
+layout: 2017-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Martin O'B" # the name of the artist or company
-show: "what" # the name of the show
+artist: "FK Alexander" # the name of the artist or company
+show: "(I Could Go On Singing) Over The Rainbow" # the name of the show
 artist_size: 1
-show_size: 1
-header_image: "header_.jpg"    
-season: unconfirmed
+show_size: 4
+header_image: "header_x.jpg"
+season: "FK Alexander 16|2|2017"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,22 +17,16 @@ season: unconfirmed
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning + ***who***         
-
-#### In Brief      
-Ipsum lorem…         
-         
-#### Liverpool Venue + Booking Details (Bluecoat)          
-Liverpool Date: Sunday 27 November 2016, daytime    
-Liverpool Venue: <a href="http://www.thebluecoat.org.uk/content/index/visitor-info" target="_blank">Bluecoat</a>, School Lane, Liverpool L1 3BX             
-Liverpool Tickets: <a href="http://" target="_blank">tbc Free or by donation</a>.        
-Liverpool Venue Tel: ???       
+*Presented by* Contact, Word of Warning + the Whitworth<br>*Part of* Thursday Lates *at* the Whitworth + Queer Contact 2017             
           
-#### M'cr Venue + Booking Details (???)        
-Manchester Date: tbc        
-Manchester Venue: tbc             
-Manchester Tickets: tbc           
-Mcr Box Office Tel: 07581 299 439 (leave a message + we'll get back to you)         
+#### In Brief          
+In a unique individual moment of undivided love + attention, FK takes your hand, fixes your gaze + sings you Judy Garland's swan song.         
+         
+#### Venue + Booking Details        
+Date: Thursday 16 February 2017, 6-9pm          
+<a href="http://www.whitworth.manchester.ac.uk/visit/gettinghere" target="_blank">Venue: the Whitworth</a>, The University of Manchester, Oxford Road, Manchester, M15 6ER              
+<a href="http://contactmcr.com/whats-on/64894-qc17-fk-alexander-i-could-go-on-singing-over-the-rainbow" target="_blank">Tickets: Free to book (via Contact)</a> for entry at 6pm, 7pm, 8pm.        
+Box Office Tel: 0161 274 0600 (Contact)         
          
 #### Access Information        
 Age advisory: ***??***+ (parental/guardian discretion). With no interval, this is a durational performance installation, with audience members free to come and go as they please***?***. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.      
@@ -40,12 +34,12 @@ Age advisory: ***??***+ (parental/guardian discretion). With no interval, this i
 #### More      
 ***ADD***          
          
-#### Who is he?     
+#### Who is she?     
 ***ADD***         
          
 #### What people have said about ***WHAT***        
 >STARS? *…quote…*<br><a href="http://URL" target="_blank">author, publication</a>
          
 #### Websites          
-<a href="http://" target="_blank">artist.com</a> | <a href="http://twitter.com/" target="_blank">@</a>         
-<a href="http://" target="_blank">festival.com</a>
+<a href="http://" target="_blank">artist.com</a> | <a href="http://twitter.com/fkalexander" target="_blank">@fkalexander</a>         
+<a href="http://www.whitworth.manchester.ac.uk/learn/adults/talkasandtours/thursdaylates">Thursday Lates at the Whitworth</a>
