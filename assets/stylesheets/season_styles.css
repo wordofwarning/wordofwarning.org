@@ -488,7 +488,7 @@
 	.woah .splash
 		{background:url(../images/header_woah_photo.jpg) center center}
 
-/* Hazard 2016 yellow with black? diagonals
+/* Hazard 2016 yellow with white diagonals
 ------------------------------------------------------*/
 
 	.h2016,
@@ -521,7 +521,7 @@
 	.h2016 .splash
 		{background:url(../images/header_2016_hazard.jpg) center center}
 
-/* Autumn/Winter 2016 Programme colour tbc
+/* Autumn/Winter 2016 Programme (feather last colour of four used)
 ------------------------------------------------------*/
 
 	.aw2016 .splash
@@ -568,3 +568,31 @@
 
 	.div .splash
 		{background:url(../images/header_chanje.jpg) center center}
+
+/* Spring 2017 Programme (needs either green pine or lilac leaves)
+------------------------------------------------------*/
+
+	.s2017 .splash
+		{background:url(../images/header_ss15wrn_fth.jpg) -150px center}
+
+
+/* Haphazard 2017 yellow (needs new header)
+------------------------------------------------------*/
+
+	.hh2017,
+	.hh2017 .artist, 
+	.hh2017 .show,
+	.hh2017 .season
+		{background:#fd2; color:#000;}
+
+	.hh2017 a,
+	.hh2017 a:visited,
+	.hh2017 a:hover
+		{color:#000;}
+	.hh2017 nav a:hover,
+	.hh2017 article a:hover,
+	.hh2017 footer a:hover
+		{background: #000; color: #fd2;}
+
+	.hh2017 .splash
+		{background:url(../images/header_haphazard4.jpg) center center}
