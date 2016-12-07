@@ -1,13 +1,14 @@
 ---
 # CONFIGURATION
-layout: 2016-haphazard
+layout: 2017-haphazard
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Haphazard 2016"
+artist: "Haphazard 2017"
 show: "Artists + Activity, 12noon-4pm"
 artist_size: 1
 show_size: 3
+season: "Haphazard programme 1|4|2017" 
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -18,11 +19,12 @@ show_size: 3
 *A free event for the curious of all ages, presented by* Word of Warning *+* Z-arts*<br>Turn up at Z-arts any time from 12noon to 4pm, come and go as you please…*        
         
 #### Venue + Booking Details, for Haphazard        
-Date: Saturday 20 February 2016, 12noon-4pm      
+Date: Saturday 1 April 2017, 12noon-4pm      
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA        
 Entry is FREE, come and go as you please (*N.B. no ticket booking required; †Some activity will operate on a first-come, first-served basis*).        
 Venue Tel: 0161 232 6089        
          
+### 2016 PROGRAMME WAS:         
 #### Timed Activity (*subject to change*)        
 **12.30pm, 1.30pm, 2.30pm, 3.30pm — Katy Dye | *RATS!***        
 Crawling in our kitchens and blocking up our drainpipes, nibbling at our cornflakes and scratching at our doorsteps… dirty, smelly, flea-bitten, disease-ridden, ugly, amazing *RATS!* A 10 minute performance that explores rodent reputation and tries to redress the balance — after all, it's a hard life being a rat!         
@@ -80,5 +82,5 @@ Digital meets steampunk in this mesmerising lightshow, as a spiral of light colo
 <a href="http://twitter.com/TL_Circus" target="_blank">@TL_Circus</a> | <a href="http://facebook.com/Travelling.Light.Circus" target="_blank">Travelling Light Circus Facebook</a>
         
 #### Credits         
-Produced by hÅb + Z-arts; supported using public funding by Arts Council England + funded by Manchester City Council; supported by the Paul Hamlyn Foundation Breakthrough Fund.        
-<a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | <a href="http://twitter.com/hashtag/Haphazard" target="_blank">#Haphazard</a> | <a href="http://www.facebook.com/events/539217769586878" target="_blank">Haphazard 2016 on Facebook</a>
+Produced by hÅb + Z-arts; supported using public funding by Arts Council England + funded by Manchester City Council.        
+<a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | <a href="http://twitter.com/hashtag/Haphazard" target="_blank">#Haphazard</a>
