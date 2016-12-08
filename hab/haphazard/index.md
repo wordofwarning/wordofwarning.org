@@ -7,7 +7,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Haphazard" # the name of the artist or company
 header_image: "header_haphazard.jpg"   
-
+season: "Haphazard" 
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -15,11 +15,15 @@ header_image: "header_haphazard.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---         
-**Haphazard** is our occasional foray into all ages live art, with intriguing images and offbeat oddities dotted around the historic [Z-arts](http://www.z-arts.org)' building in Manchester's Hulme. Playful, quirky, engaging and sometimes plain daft: this is a day for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out!
+**Haphazard** is our occasional foray into all ages live art, with intriguing images and offbeat oddities dotted around the historic <a href="http://www.z-arts.org" target="_blank">Z-arts</a>' building in Manchester's Hulme. Playful, quirky, engaging and sometimes plain daft: this is a day for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out!        
         
-**In [2013](/archive/2013-spring/haphazard)** we filled Z-arts to the brim with moving musical sculptures, a bouncy squeaky ping-pong dance and an underground labyrinth (only for the brave!) — **[2015](/archive/2015-haphazard)** saw everything from quirky quoits to crotchety crochet, freaky food to a jungle jamboree, topped off with a dose of dotty dance and a plea to avenge the apiary (or save the bees!); to get a feel for it have a look at [2013](/galleries/2013-haphazard) + [2015](/galleries/2015-haphazard) images.       
+**Fooling around… Haphazard 2017 call for artist proposals**        
         
-Our **[third Haphazard](/archive/2016-haphazard)** took over Z-arts on Saturday 20 February 2016, with audiences coming and going as they pleased between 12noon and 4pm. Not just for children but live art for ALL ages, the day appealed to adults and children alike (even if the kids needed to explain it to the adults!). With thirteen works, the [programme](/archive/2016-haphazard/programme) used a variety of spaces — from black box to gallery to café — have a look at [images from the day](/galleries/2016-haphazard).         
+hÅb + Z-arts are calling for proposals and expressions of interest from artists for our **fourth Haphazard on Sat 1 Apr 2017 (12noon-4pm)**, a free 'all ages' live art day in and around Z-arts, and since it's taking place on April Fool's day we thought we'd throw the gauntlet down and invite imaginative ideas that play the fool… *not* an invitation for spoof applications please!        
         
-[Haphazard 2016](/archive/2016-haphazard) was presented by Word of Warning + Z-arts; produced by hÅb + Z-arts; supported using public funding by Arts Council England + funded by Manchester City Council; supported by the Paul Hamlyn Foundation Breakthrough Fund.         
-Enquiries: <mailto:haphazard@habarts.org> | <a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | <a href="http://twitter.com/hashtag/Haphazard" target="_blank">#Haphazard</a>
+To date, Haphazard has seen ping pong balls and squeaky toys; human dogs, cats, giant rats and the Gendersaurus Rex; hula-hooping and human quoits; a giant periscope, a golden toilet and a tiny bee-shaped world… to get a feel for it have a look at [2016](/galleries/2016-haphazard)/[2015](/galleries/2015-haphazard)/[2013](/galleries/2013-haphazard)'s image galleries and to get an idea of what's gone before see [2016](/archive/2016-haphazard)/[2015](/archive/2015-haphazard)/[2013](/archive/2013-spring/haphazard)'s archives.        
+        
+This is not live art for children but live art for all ages — and we mean from tot to timeworn, 8 months to 80 years — so work should have appeal for adults and children alike (even if the kids need to explain it to the adults!). From experience, what works best are big surreal images, interesting repetitive movement and nothing too text heavy. This year we'll award bonus points for ideas that play with the idea of the April Fool. We have access to a variety of spaces <a href="http://haphazard.posthaven.com/fooling-around-dot-dot-dot-haphazard-2017-live-art-for-all-ages-call-for-artists" target="_blank">(see space info sheet here)</a> most suitable for durational, intervention and 'come and go' work rather than sit-down shows. We have a small budget and can offer an honorarium of up to £300 per piece (bigger proposals please get in contact first). This isn't a really formal selection process with lots of criteria, but work does need to be legal and you must have the right to perform it! So we can get all the info in one place, we'd be grateful if you could fill out the <a href="http://habarts.wufoo.eu/forms/haphazard-2017-proposal-form" target="_blank">Haphazard proposal form</a> **by Friday 27 January 2017**, after which we'll let you know if you're on the list of possible projects and get in touch to take it from there. If you'd like to talk to us about your ideas first – email <mailto:haphazard@habarts.org> or call 0161 232 6086 and talk to Tamsin or Cat.        
+        
+Haphazard 2017 is presented by Word of Warning + Z-arts; produced by hÅb + Z-arts; supported using public funding by Arts Council England + funded by Manchester City Council.         
+Enquiries: <mailto:haphazard@habarts.org> | <a href="http://twitter.com/hashtag/Haphazard" target="_blank">#Haphazard</a>
