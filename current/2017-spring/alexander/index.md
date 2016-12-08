@@ -5,10 +5,10 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "FK Alexander" # the name of the artist or company
-show: "(I Could Go On Singing) Over The Rainbow" # the name of the show
+show: "(I Could Go On Singing)<br>Over The Rainbow" # the name of the show
 artist_size: 1
-show_size: 4
-header_image: "header_x.jpg"
+show_size: 2
+header_image: "header_FK.jpg"
 season: "FK Alexander 16|2|2017"
 
 # ABOUT THE SHOW - LAYOUT
