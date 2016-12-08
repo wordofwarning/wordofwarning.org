@@ -7,8 +7,8 @@ rootpath: "../../../"
 artist: "Massive Owl" # the name of the artist or company
 show: "Castle Rock" # the name of the show
 artist_size: 1
-show_size: 2
-header_image: "header_massiveowl.jpg"    
+show_size: 1
+header_image: "header_massive_owl.jpg"    
 season: "Massive Owl 25|1|2017"
 
 # ABOUT THE SHOW - LAYOUT
