@@ -6,9 +6,9 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Massive Owl" # the name of the artist or company
 show: "Castle Rock" # the name of the show
-artist_size: 2
+artist_size: 1
 show_size: 2
-header_image: "header_x.jpg"    
+header_image: "header_massiveowl.jpg"    
 season: "Massive Owl 25|1|2017"
 
 # ABOUT THE SHOW - LAYOUT
