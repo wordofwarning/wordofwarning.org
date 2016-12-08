@@ -21,15 +21,13 @@ To date, Haphazard has seen ping pong balls and squeaky toys; human dogs, cats, 
          
 #### Fooling around… Haphazard 2017 call for proposals        
         
-hÅb + Z-arts seek proposals and expressions of interest from live artists for our **fourth Haphazard on Saturday 1 April 2017, 12noon-4pm at Z-arts** — and since it's taking place on April Fool's day we thought we'd throw the gauntlet down and invite imaginative ideas that play the fool… *not* an invitation for spoof applications please!        
+hÅb + Z-arts seek proposals and expressions of interest from live artists for our **fourth Haphazard on Saturday 1 April 2017, 12noon-4pm at Z-arts**… and since it's taking place on April Fool's day we thought we'd throw the gauntlet down and invite imaginative ideas that play the fool… *not* an invitation for spoof applications please!        
         
 This is not live art for children but live art for ALL ages — and we mean from tot to timeworn, 8 months to 80 years — so work should appeal to adults and children alike (even if the kids need to explain it to the adults!). From experience, what works best are big surreal images, interesting repetitive movement and nothing too text heavy. This year we'll award bonus points for ideas that play with the idea of the April Fool.        
          
 We have access to a variety of spaces <a href="http://phaven-prod.s3.amazonaws.com/files/document_part/asset/1810635/PouiG-jmpM8qhcdIrieANpFC5O0/Haphazard17_spaces.docx" target="_blank">(see space info sheet)</a> most suitable for durational, intervention and 'come and go' work rather than sit-down shows. We have a small budget and can offer an honorarium of up to £300 per piece (bigger proposals please get in contact first).           
         
-This isn't a really formal selection process with lots of criteria, but work does need to be legal and you must have the right to perform it! To apply, please complete a <a href="http://habarts.wufoo.eu/forms/haphazard-2017-proposal-form" target="_blank">Haphazard proposal form</a> **by Friday 27 January 2017**, after which we'll let you know if you're on the list of possible projects and get in touch to take it from there.           
-           
-If you'd like to talk to us about your ideas first – email <mailto:haphazard@habarts.org> or call 0161 232 6086 and talk to Tamsin or Cat.        
+This isn't a really formal selection process with lots of criteria, but work does need to be legal and you must have the right to perform it! To apply, please **complete a Haphazard <a href="http://habarts.wufoo.eu/forms/haphazard-2017-proposal-form" target="_blank">proposal form</a> by Friday 27 January 2017**, after which we'll let you know if you're on the list of possible projects and get in touch to take it from there. If you'd like to talk to us about your ideas first please email or call 0161 232 6086 and talk to Tamsin or Cat.        
         
 Haphazard 2017 is presented by Word of Warning + Z-arts; produced by hÅb + Z-arts; supported using public funding by Arts Council England + funded by Manchester City Council.         
 Enquiries: <mailto:haphazard@habarts.org> | <a href="http://twitter.com/hashtag/Haphazard" target="_blank">#Haphazard</a>
