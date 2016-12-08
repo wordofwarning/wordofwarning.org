@@ -6,9 +6,9 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Proto-type Theater" # the name of the artist or company
 show: "A Machine They're Secretly Building" # the name of the show
-artist_size: 2
+artist_size: 1
 show_size: 4
-header_image: "header_x.jpg"    
+header_image: "header_proto-type.jpg"    
 season: "Proto-type Theater 1|3|2017"
 
 # ABOUT THE SHOW - LAYOUT
