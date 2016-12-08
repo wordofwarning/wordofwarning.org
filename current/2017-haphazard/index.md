@@ -19,7 +19,7 @@ season: "Haphazard 1|4|2017"
 *Presented by* Word of Warning + Z-arts          
          
 ### Saturday 1 April 2017, 12noon-4pm. FREE             
-Intriguing images and offbeat oddities dotted around the historic <a href="http://www.z-arts.org" target="_blank">Z-arts</a> building with an April Fool's twist. Playful, quirky, engaging and sometimes plain daft: this is a free day out for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out.<br>*Turn up at any time; come + go as you please + expect the unexpected…*        
+Intriguing images and offbeat oddities dotted around the historic <a href="http://www.z-arts.org/events/haphazard-2017" target="_blank">Z-arts</a> building with an April Fool's twist. Playful, quirky, engaging and sometimes plain daft: this is a free day out for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out.<br>*Turn up at any time; come + go as you please + expect the unexpected…*        
         
 To get a feel for it have a look at [2016](/galleries/2016-haphazard)/[2015](/galleries/2015-haphazard)/[2013](/galleries/2013-haphazard)'s image galleries and to get an idea of what's gone before see [2016](/archive/2016-haphazard)/[2015](/archive/2015-haphazard)/[2013](/archive/2013-spring/haphazard)'s archives. 
         
@@ -30,12 +30,10 @@ Tickets: FREE, no ticket booking required, come + go as you please (*N.B. some a
 Venue Tel: 0161 232 6089            
          
 #### More        
-To date, Haphazard has seen ping pong balls and squeaky toys; human dogs, cats, giant rats and the Gendersaurus Rex; hula-hooping and human quoits; a giant periscope, a golden toilet and a tiny bee-shaped world — why not join us to see what 2017 will conjure? (*N.B. programme tba early March; we are [seeking artist proposals](/hab/haphazard) until Friday 27 January.*)         
+To date, Haphazard has seen ping pong balls and squeaky toys; human dogs, cats, giant rats and the Gendersaurus Rex; hula-hooping and human quoits; a giant periscope, a golden toilet and a tiny bee-shaped world — why not join us to see what 2017 will conjure? (*N.B. programme to be announced early March; we are [seeking artist proposals](/hab/haphazard) until Friday 27 January.*)         
              
 #### What people have said about Haphazard        
->• *Bizarre surreal fun. Creative. Very interactive. Unpredicatable.*<br>• *Quirky performances — lots going on. First-timer here, would come back.*<br>• *
-Better than Shrek the Musical… freedom to explore & children to play. Brilliant!
-*<br>[Audience Feedback from 2016](/archive/2016-haphazard)        
+>• *Bizarre surreal fun. Creative. Very interactive. Unpredicatable.*<br>• *Quirky performances, lots going on. First-timer here, would come back.*<br>• *Better than Shrek the Musical… freedom to explore & children to play. Brilliant!*<br>[Audience Feedback from 2016](/archive/2016-haphazard)        
 >• *Absolutely brilliant, for kids and grown ups.*<br>• *We liked the drop-in, continuous feel, like you weren't missing stuff.*<br>• *Loved the way the event uses the whole space. Wacky and creative fun!*<br>[Audience Feedback from 2015](/archive/2015-haphazard)         
 >• *Great! Everyone was energetic & friendly — very easy to interact with!*<br>• *Suitably crazy & surreal for children and their grown-ups*.<br>• *Really enjoyed the event and it's particularly nice to experience something a bit different, especially as adults, it is quite eye-popping…*<br>[Audience Feedback from 2013](/archive/2013-spring/haphazard)         
         
