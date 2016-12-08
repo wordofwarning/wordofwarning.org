@@ -7,8 +7,8 @@ rootpath: "../../../"
 artist: "Nic Green" # the name of the artist or company
 show: "Cock and Bull" # the name of the show
 artist_size: 1
-show_size: 2
-header_image: "header_x.jpg"    
+show_size: 3
+header_image: "header_green.jpg"    
 season: "Nic Green 16-18|3|2017"
 
 # ABOUT THE SHOW - LAYOUT
@@ -17,7 +17,7 @@ season: "Nic Green 16-18|3|2017"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by the* Royal Exchange Theatre + Word of Warning<br>Created by Nic Green with Laura Bradshaw, Rosana Cade + Simone Kenyon         
+*Presented by the* Royal Exchange Theatre + Word of Warning<br>*Created by* Nic Green *with* Laura Bradshaw, Rosana Cade + Simone Kenyon         
          
 #### In Brief       
 Conceived for the eve of the 2015 General Election — part protest, part catharsis, part exorcism: an alternative party conference to redress the balance of power.           
