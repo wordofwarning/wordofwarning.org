@@ -40,15 +40,13 @@ From what might be a news desk, an office, a bedroom, a bunker under a mountain 
         
 *AMTSB* charts a course from the Top Secret secrets of WWI intelligence (via the moon, 1972's Chess World Championships, a disco in Oklahoma and the cafeteria at CERN) through to 9/11, the erosion of privacy, Edward Snowden and the terror of a future that might already be upon us.        
        
-Combining original text and classified intelligence documents with film from digital artist Adam York Gregory and music + sound design by Paul J. Rogers, Proto-type vent their frustration at the insidious machine of surveillance. How did we get to the point where our governments are spying on us, and how is that changing who we are?
+Combining original text and classified intelligence documents with film, music + sound, Proto-type vent their frustration at the insidious machine of surveillance. How did we get to the point where our governments are spying on us, and how is that changing who we are?
          
 #### Who are they?        
-Proto-type Theater are a company of multi-disciplinary artists interested in live performance. They make original theatre and media work that is diverse in scale, subject and medium. Currently, they are exploring distributed narrative, city as source/site, the relationship between technology and intimacy, the sung-through format of music theatre and the nature of love and death.
-
-Proto-type are an ensemble company, based in Manchester and led by Co-Artistic Directors Gillian Lees, Rachel Baynton and Andrew Westerside. Their work has been performed throughout England and in the US, Korea, Zimbabwe, Armenia, Scotland, Russia, China and Mongolia. — most recently for Word of Warning in [Spring 2014](/2014-spring/prototype).
-
-The company experiments with different media and forms, developing site and subject responsive work and have made (amongst other things) installation work in a Roman garden in Chester, multi-media theatre that unravels the stereotype of American suburbia, a two-week long performance-experience for pervasive technologies, a delicate two-hander that looks at the mythology surrounding two of history’s most notorious criminals and a unique sight-read performance for a revolving cast of 3 performers that has been performed hundreds of times in locations across the globe. All of their work has a focus on precise execution and in making complicated material accessible.
-
+A company of multi-disciplinary artists led by Rachel Baynton, Gillian Lees + Andrew Westerside, Proto-type create original performance work that is diverse in scale, subject and medium. Alongside touring *AMTSB* this has recently included a two-week long theatrical experience using pervasive technologies (*Fortnight*), a multimedia concert-performance featuring a live laptop orchestra + animation (*The Good, the God and the Guillotine* — at Word of Warning in [Spring 2014](/2014-spring/prototype)) and a radio drama with the BBC.         
+          
+Since 1997 they've made work and supported young artists in Armenia, China, France, the Netherlands, Russia, the UK, the US + Zimbabwe: founded in New York City by Peter S. Petralia (1997-2006), relocating to Lancaster's Storey Institute (2006-2010), Manchester's Northern Quarter (2010-2014), and now Lincoln's Cathedral Quarter, making and supporting work across the region.            
+        
 #### What people have said about *AMTSB*         
 >*An inspired, deeply political essay rounded off by heartfelt empathy.*<br>Oxford Guardian          
 >*I think that we're all broadly aware of the vast level of surveillance that the government subjects us to. The strength of AMTSB, however, is that their humour and simple, compelling performance presents the facts plainly and directly challenges any sense that this is something that we can simply ignore, or pretend does not apply to 'people like us' … a bombastic, dynamic explanation of world affairs since Edward Snowden's revelations in 2013.*<br>SCAN, Lancaster University          
