@@ -22,26 +22,34 @@ season: "Massive Owl 25|1|2017"
 #### In Brief      
 As flashing neon lights descend upon the tracks, a boxing-gloved boy with a death wish comes head to head with a white locomotive. Stephen King meets David Lynch in a distortion of *Stand By Me*…            
           
-See their <a href="http://vimeo.com/?" target="_blank">trailer</a>.        
+See their <a href="http://youtu.be/Viq1IxHS09M" target="_blank">trailer</a>.        
          
 #### Venue + Booking Details    
 Date: Wednesday 25 January 2017, 8pm          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-<a href="http://www.thelowry.com/event/massive-owls-castle-rock" target="_blank">Tickets: Pay What You Decide — please book a free ticket in advance to ensure you get a space.</a>         
+<a href="http://www.thelowry.com/event/massive-owls-castle-rock" target="_blank">Tickets: Pay What You Decide on the evening — we suggest you book a free ticket in advance to ensure you get a space.</a>         
 Box Office Tel: 0843 208 6000          
           
 #### Access Information        
-Age advisory: 14+ (parental/guardian discretion). With no interval, the show lasts approximately 1 hour. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.     
+Age advisory: TBC (parental/guardian discretion). With no interval, the show lasts approximately TBC. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
-
-         
+*As flashing neon lights descend upon the tracks, a boxing-gloved boy with a death wish comes head to head with a white suited locomotive and a deer in black patent stilettos.*        
+        
+A new story inspired by three of the voiceless characters in Stephen King's novella *The Body* + its 1986 cult film adaptation *Stand By Me* — expect distorted sound, movement and projection as Massive Owl contort the book's characters and twist the film's soundtrack into a reimagined story about loss and acceptance. Welcome to Castle Rock…         
+       
 #### Who are they?        
-          
+A Bristol-based collaborative performance company making cinematic work that sits between theatre and live art,  Massive Owl tell stories and in the process challenge how they can look, sound and feel.         
+         
+Founded in 2009 by Adrian Spring, Danny Prosser, Richard Mowbray + Sam Powell whilst studying at Dartington College of Arts/Falmouth University, they are currently Danny Prosser, Jenny Duffy + Sam Powell.
+
+Making and touring work across the UK and internationally — most notably the Barbican (London), Project Arts Centre (Dublin), Mayfest (Bristol) — they have also run workshops at various UK universities and are associate artists of <a href="http://www.livecollision.com" target="_blank">Live Collision</a> + members of <a href="http://www.intervalbristol.org" target="_blank">Interval</a> artist collective.
+
 #### What people have said about them         
->*Immensely powerful and life enhancing.*<br>Audience member on *Manpower*          
+>*The performance work they create sits somewhere between physical theatre and live art, with their ability to ‘story-tell’ through the most minimal of means making their work both complex and accessible.*<br> — Kate Craddock, Gateshead International Festival of Theatre (GIFT).        
         
 #### Credits          
-         
+Performed + devised by Jenny Duffy, Sam Powell + Danny Prosser | Additional music by Sammy Metcalfe/Sleepwalk Collective | Trailer by Adam Stocker/Mighty Colour Films<br>Supported using public funding by the National Lottery through Arts Council England, Barbican, Bristol Ferment, The Edge/ICIA (Bath), The Island, Arnolfini (Bristol) and partners in Ireland: Project Arts Centre, Live Collision, Fringe Lab + British Council (Ireland). With special thanks to Jane Duffy.        
+          
 #### Websites          
-<a href="http://www.massiveowltheatre.com" target="_blank">massiveowltheatre.com</a> | <a href="http://twitter.com/Massive_Owl" target="_blank">@Massive_Owl</a> | <a href="http://facebook.com/massiveowl" target="_blank">Massive Owl on Facebook</a>
+<a href="http://www.massiveowltheatre.com/projects/castle-rock" target="_blank">massiveowltheatre.com</a> | <a href="http://twitter.com/Massive_Owl" target="_blank">@Massive_Owl</a> | <a href="http://facebook.com/massiveowl" target="_blank">Massive Owl on Facebook</a>
