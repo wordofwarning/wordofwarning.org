@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Proto-type<br>Theater" # the name of the artist or company
-show: "A Machine They're<br>Secretly Building" # the name of the show
+show: "A Machine they're<br>Secretly Building" # the name of the show
 artist_size: 1
 show_size: 3
 header_image: "header_proto-type.jpg"    
@@ -20,7 +20,7 @@ season: "Proto-type Theater 1|3|2017"
 *Presented by* The Lowry + Word of Warning<br>*Part of* WTF Wednesday *at* The Lowry          
          
 #### In Brief      
-Charting a course from the Top Secret secrets of WWI to 9/11, Edward Snowden + the terror of a future already here… Proto-type speak up, speak out, blow the whistle + lift the veil.            
+Charting a course from the Top Secret secrets of WWI to 9/11, Edward Snowden and the terror of a future already here… Proto-type speak up, speak out, blow the whistle and lift the veil.            
           
 See their <a href="http://vimeo.com/139957520" target="_blank">trailer</a>.        
          
@@ -49,11 +49,12 @@ Proto-type are an ensemble company, based in Manchester and led by Co-Artistic D
 
 The company experiments with different media and forms, developing site and subject responsive work and have made (amongst other things) installation work in a Roman garden in Chester, multi-media theatre that unravels the stereotype of American suburbia, a two-week long performance-experience for pervasive technologies, a delicate two-hander that looks at the mythology surrounding two of history’s most notorious criminals and a unique sight-read performance for a revolving cast of 3 performers that has been performed hundreds of times in locations across the globe. All of their work has a focus on precise execution and in making complicated material accessible.
 
-#### What people have said about them         
->*Immensely powerful and life enhancing.*<br>Audience member on *Manpower*          
+#### What people have said about *AMTSB*         
+>*An inspired, deeply political essay rounded off by heartfelt empathy.*<br>Oxford Guardian          
+>*I think that we're all broadly aware of the vast level of surveillance that the government subjects us to. The strength of AMTSB, however, is that their humour and simple, compelling performance presents the facts plainly and directly challenges any sense that this is something that we can simply ignore, or pretend does not apply to 'people like us' … a bombastic, dynamic explanation of world affairs since Edward Snowden's revelations in 2013.*<br>SCAN, Lancaster University          
         
 #### Credits          
-Commissioned by Lincoln Performing Arts Centre, Warwick Arts Centre + [hÅb](/hab). Supported by Tramway (Glasgow), the Britten-Pears Foundation, and using public funding by the National Lottery through Arts Council England.            
+Written + directed by Andrew Westerside | Devised + performed by Rachel Baynton + Gillian Lees | Digital design + artwork by Adam York Gregory | Original music + sound design by Paul J. Rogers | Stage Manager: Thomas Marcinek | Produced by Matt Burman<br>Commissioned by [hÅb](/hab), Lincoln Performing Arts Centre + Warwick Arts Centre.<br>Supported by Tramway (Glasgow), Lancaster Arts at Lancaster University, the Britten-Pears Foundation, and using public funding by the National Lottery through Arts Council England.            
          
 #### Websites          
 <a href="http://proto-type.org/projects/current/a-machine-theyre-secretly-building" target="_blank">proto-type.org</a> | <a href="http://twitter.com/Proto_type" target="_blank">@Proto_type</a> | <a href="http://twitter.com/hashtag/AMTSB" target="_blank">#AMTSB</a> | <a href="http://facebook.com/prototypetheater" target="_blank">Proto-type on Facebook</a>
