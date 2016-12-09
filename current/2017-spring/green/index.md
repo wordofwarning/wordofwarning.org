@@ -7,8 +7,8 @@ rootpath: "../../../"
 artist: "Nic Green" # the name of the artist or company
 show: "Cock and Bull" # the name of the show
 artist_size: 1
-show_size: 3
-header_image: "header_green.jpg"    
+show_size: 2
+header_image: "header_nic_green.jpg"    
 season: "Nic Green 16-18|3|2017"
 
 # ABOUT THE SHOW - LAYOUT
