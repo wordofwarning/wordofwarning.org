@@ -38,7 +38,7 @@ Age advisory: TBC (parental/guardian discretion). With no interval, the show las
         
 From what might be a news desk, an office, a bedroom, a bunker under a mountain or a theatre, two people — reporters, senators, freedom fighters, or just… well… concerned citizens like you — think about what it is to speak up, speak out, blow the whistle and lift the veil.        
         
-*AMTSB* charts a course from the Top Secret secrets of WWI intelligence (via the moon, 1972's Chess World Championships, a disco in Oklahoma and the cafeteria at CERN) through to 9/11, the erosion of privacy, Edward Snowden and the terror of a future that might already be upon us.        
+*AMtSB* charts a course from the Top Secret secrets of WWI intelligence (via the moon, 1972's Chess World Championships, a disco in Oklahoma and the cafeteria at CERN) through to 9/11, the erosion of privacy, Edward Snowden and the terror of a future that might already be upon us.        
        
 Combining original text and classified intelligence documents with film, music + sound, Proto-type vent their frustration at the insidious machine of surveillance. How did we get to the point where our governments are spying on us, and how is that changing who we are?
          
@@ -48,8 +48,8 @@ A company of multi-disciplinary artists led by Rachel Baynton, Gillian Lees + An
 Since 1997 they've made work and supported young artists in Armenia, China, France, the Netherlands, Russia, the UK, the US + Zimbabwe: founded in New York City by Peter S. Petralia (1997-2006), relocating to Lancaster's Storey Institute (2006-2010), Manchester's Northern Quarter (2010-2014), and now Lincoln's Cathedral Quarter, making and supporting work across the region.            
         
 #### What people have said about *AMTSB*         
->*An inspired, deeply political essay rounded off by heartfelt empathy.*<br>Oxford Guardian          
->*I think that we're all broadly aware of the vast level of surveillance that the government subjects us to. The strength of AMTSB, however, is that their humour and simple, compelling performance presents the facts plainly and directly challenges any sense that this is something that we can simply ignore, or pretend does not apply to 'people like us' … a bombastic, dynamic explanation of world affairs since Edward Snowden's revelations in 2013.*<br>SCAN, Lancaster University          
+>*An inspired, deeply political essay rounded off by heartfelt empathy.*<br><a href="http://twitter.com/ambhack/status/720700401872412673" target="_blank">Alex Ballinger</a>, <a href="http://twitter.com/ambhack/status/720680046999023616" target="_blank">Oxfordshire Guardian</a>          
+>*…a bombastic, dynamic explanation of world affairs since Edward Snowden's revelations in 2013.<br>I think that we're all broadly aware of the vast level of surveillance that the government subjects us to. The strength of AMTSB, however, is that their humour and simple, compelling performance presents the facts plainly and directly challenges any sense that this is something that we can simply ignore, or pretend does not apply to 'people like us'.*<br><a href="http://scan.lusu.co.uk/index.php/2016/02/09/review-proto-type-theatre-a-machine-theyre-secretly" target="_blank">Student Comment And News</a>, Lancaster University          
         
 #### Credits          
 Written + directed by Andrew Westerside | Devised + performed by Rachel Baynton + Gillian Lees | Digital design + artwork by Adam York Gregory | Original music + sound design by Paul J. Rogers | Stage Manager: Thomas Marcinek | Produced by Matt Burman<br>Commissioned by [hÅb](/hab), Lincoln Performing Arts Centre + Warwick Arts Centre.<br>Supported by Tramway (Glasgow), Lancaster Arts at Lancaster University, the Britten-Pears Foundation, and using public funding by the National Lottery through Arts Council England.            
