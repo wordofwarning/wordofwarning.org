@@ -38,7 +38,7 @@ With live accompaniment from Glasgow-based noise band Okishima Island Tourist As
         
 Stand hand-in-hand with FK, and witness others do the same in this intimate interactive live experience of undivided attention and love.        
        
-Winner of <a href="http://www.summerhall.co.uk/2016/summerhall-autopsy-award-2016/" target="_blank">Summerhall's 2016 Autopsy Award</a>.         
+Winner of <a href="http://www.summerhall.co.uk/2016/summerhall-autopsy-award-2016/" target="_blank">Summerhall's 2016 Autopsy Award</a> and a <a href="http://www.edfringe.com/media/award-winners#Total" target="_blank">2016 Total Theatre Award 2016</a> (Show by an Emerging Company/Artist).                 
        
 #### Who is she?     
 Glasgow-based, FK's practice centres on aggressive healing, radical wellness, public vulnerability, noise music, 12 step recovery… She believes personal transformation is real, deep change is possible, and that we are trying to recover from something/one.
@@ -46,7 +46,7 @@ Glasgow-based, FK's practice centres on aggressive healing, radical wellness, pu
 Making work by herself and with others for no-one in particular, she strongly welcomes everyone — whether that work be live art or to go on a stage, the street, on headphones, in front of a camera, on a wall, or on a page.         
          
 #### What people have said about *(I Could Go on Singing)…*        
->★★★★★ <a href="http://www.broadwaybaby.com/shows/i-could-go-on-singing-over-the-rainbow/715038" target="_blank">Broadway Baby</a><br>★★★★ <a href="http://www.whatsonstage.com/edinburgh-theatre/reviews/i-could-go-on-singing-festival-fringe-summerhall_41603.html" target="_blank">What's On Stage</a><br>★★★★ <a href="http://www.festmag.co.uk/music/103151-i-could-on-singing-over-rainbow" target="_blank">FestMag</a>       
+><a href="http://twitter.com/lyngardner/status/528473260317745152" target="_blank">…desperate, moving, distressing & beautiful too.</a><br>Lyn Gardner, The Guardian<br>★★★★★ <a href="http://www.broadwaybaby.com/shows/i-could-go-on-singing-over-the-rainbow/715038" target="_blank">Broadway Baby</a><br>★★★★ <a href="http://www.whatsonstage.com/edinburgh-theatre/reviews/i-could-go-on-singing-festival-fringe-summerhall_41603.html" target="_blank">What's On Stage</a><br>★★★★ <a href="http://www.festmag.co.uk/music/103151-i-could-on-singing-over-rainbow" target="_blank">FestMag</a>       
        
 #### Credits        
 ***TBC*:** Created by FK Alexander + performed with Okishima Island Tourist Association. | Produced by Nick / BUZZCUT***?***        
