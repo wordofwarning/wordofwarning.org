@@ -28,7 +28,10 @@ Date: Saturday 1 April 2017, 12noon-4pm
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: FREE, no ticket booking required, come + go as you please (*N.B. some activity may operate on a first-come, first-served basis.*)         
 Venue Tel: 0161 232 6089            
-         
+        
+#### Access Information            
+Age advisory: suitable for ALL. Haphazard 2017 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some parts of the Z-arts building are not wheelchair accessible. For specific age + access information please email <mailto:haphazard@habmcr.org> or call 0161 232 6086.        
+        
 #### More        
 To date, Haphazard has seen ping pong balls and squeaky toys; human dogs, cats, giant rats and the Gendersaurus Rex; hula-hooping and human quoits; a giant periscope, a golden toilet and a tiny bee-shaped world — why not join us to see what 2017 will conjure? (*N.B. programme to be announced early March; we are [seeking artist proposals](/hab/haphazard) until Friday 27 January.*)         
              
@@ -37,9 +40,8 @@ To date, Haphazard has seen ping pong balls and squeaky toys; human dogs, cats, 
 >• *Absolutely brilliant, for kids and grown ups.*<br>• *We liked the drop-in, continuous feel, like you weren't missing stuff.*<br>• *Loved the way the event uses the whole space. Wacky and creative fun!*<br>[Audience Feedback from 2015](/archive/2015-haphazard)         
 >• *Great! Everyone was energetic & friendly — very easy to interact with!*<br>• *Suitably crazy & surreal for children and their grown-ups*.<br>• *Really enjoyed the event and it's particularly nice to experience something a bit different, especially as adults, it is quite eye-popping…*<br>[Audience Feedback from 2013](/archive/2013-spring/haphazard)         
         
-#### Access Information    
-Haphazard 2017 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some parts of the Z-arts building are not wheelchair accessible. Age advisory: suitable for ALL. For specific age + access information please email <mailto:haphazard@habmcr.org> or call 0161 232 6086.        
-        
 #### Credits         
 [Haphazard](/hab/haphazard) 2017 is produced by hÅb + Z-arts; supported using public funding by Arts Council England + funded by Manchester City Council.        
-Enquiries: <a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | <mailto:haphazard@habmcr.org> | <a href="http://twitter.com/hashtag/Haphazard" target="_blank">#Haphazard</a>
+
+#### Websites        
+<a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | <a href="http://twitter.com/hashtag/Haphazard" target="_blank">#Haphazard</a>
