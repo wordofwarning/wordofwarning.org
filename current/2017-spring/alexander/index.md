@@ -17,7 +17,7 @@ season: "FK Alexander 16|2|2017"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Contact, Word of Warning + the Whitworth<br>*Part of* Thursday Lates *at* the Whitworth + Queer Contact 2017             
+*Presented by* Contact, Word of Warning + the Whitworth<br>*Part of* Thursday Lates *at* the Whitworth *during* Queer Contact 2017             
           
 #### In Brief          
 In a unique individual moment of undivided love and attention, FK takes your hand, fixes your gaze, and sings you Judy Garland's swan song.         
@@ -27,11 +27,11 @@ See her <a href="http://youtu.be/HdsA0YhjETk" target="_blank">trailer</a>.
 #### Venue + Booking Details        
 Date: Thursday 16 February 2017, 6-9pm          
 <a href="http://www.whitworth.manchester.ac.uk/visit/gettinghere" target="_blank">Venue: the Whitworth</a>, The University of Manchester, Oxford Road, Manchester, M15 6ER              
-<a href="http://contactmcr.com/whats-on/64894-qc17-fk-alexander-i-could-go-on-singing-over-the-rainbow" target="_blank">Tickets: Free to book (via Contact)</a> for entry at 6pm (to 7pm), 7pm (to 8pm), 8pm (to 9pm).        
+<a href="http://contactmcr.com/whats-on/64894-qc17-fk-alexander-i-could-go-on-singing-over-the-rainbow" target="_blank">Tickets: Free to book (via Contact)</a> for entry at: 6pm (to 7), 7pm (to 8), 8pm (to 9).        
 Box Office (Contact) Tel: 0161 274 0600         
          
 #### Access Information        
-Age advisory: ***??***+ (parental/guardian discretion). With no interval, this free 3 hour durational performance installation allows audience members to come and go as they please; to have an intense 1-2-1 chorus of *Over the Rainbow* sung (very directly) to you by FK: you'll need to queue in person on the evening to take a (free) numbered ticket for this short intimate experinece. The show contains small moments of strobe and noise music; it's not quiet, and earplugs are available on request. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.      
+Age advisory: ***TBA***+ (parental/guardian discretion). This free durational performance installation allows audience members to come and go as they please over 3 hours. To have an intense 1-2-1 chorus of *Over the Rainbow* sung (very directly) to you by FK you'll need to queue in person on the evening to take a (free) numbered ticket for this short intimate experience. With small moments of strobe and noise music, it's not quiet and earplugs are available on request. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.      
          
 #### More      
 With live accompaniment from Glasgow-based noise band Okishima Island Tourist Association, FK Alexander sings along to the recording of the last time Judy Garland ever sang *Over the Rainbow*, four months before her death.        
@@ -49,8 +49,7 @@ Making work by herself and with others for no-one in particular, she strongly we
 >★★★★★ <a href="http://www.broadwaybaby.com/shows/i-could-go-on-singing-over-the-rainbow/715038" target="_blank">Broadway Baby</a><br>★★★★ <a href="http://www.whatsonstage.com/edinburgh-theatre/reviews/i-could-go-on-singing-festival-fringe-summerhall_41603.html" target="_blank">What's On Stage</a><br>★★★★ <a href="http://www.festmag.co.uk/music/103151-i-could-on-singing-over-rainbow" target="_blank">FestMag</a>       
        
 #### Credits        
-***TBA***         
-Created by + performed ***?*** with Okishima Island Tourist Association.        
+***TBC*:** Created by FK Alexander + performed with Okishima Island Tourist Association. | Produced by Nick?        
         
 #### Websites          
 <a href="http://fkalexan.de/r?ds-gallery-category=solo#i-could-go-on-singing" target="_blank">fkalexan.de/r</a> | <a href="http://twitter.com/fkalexander" target="_blank">@fkalexander</a> | <a href="http://www.whitworth.manchester.ac.uk/learn/adults/talkasandtours/thursdaylates" target="_blank">Thursday Lates at the Whitworth</a>
