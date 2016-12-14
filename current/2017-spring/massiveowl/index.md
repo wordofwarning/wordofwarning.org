@@ -20,23 +20,23 @@ season: "Massive Owl 25|1|2017"
 *Presented by* The Lowry + Word of Warning<br>*Part of* WTF Wednesday *at* The Lowry          
          
 #### In Brief      
-As flashing neon lights descend upon the tracks, a boxing-gloved boy with a death wish comes head to head with a white locomotive. Stephen King meets David Lynch in a distortion of *Stand By Me*…            
+As flashing neon lights descend upon the tracks, a boxing-gloved boy with a death wish comes head to head with a white locomotive.<br>Stephen King meets David Lynch in a distortion of *Stand By Me*…            
           
 See their <a href="http://youtu.be/Viq1IxHS09M" target="_blank">trailer</a>.        
          
 #### Venue + Booking Details    
 Date: Wednesday 25 January 2017, 8pm          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-<a href="http://www.thelowry.com/event/massive-owls-castle-rock" target="_blank">Tickets: Pay What You Decide on the evening — we suggest you book a free ticket in advance to ensure you get a space.</a>         
+Tickets: Pay What You Decide on the evening — we suggest you <a href="http://www.thelowry.com/event/massive-owls-castle-rock" target="_blank">book a free ticket in advance</a> to ensure you get a space.         
 Box Office Tel: 0843 208 6000          
           
 #### Access Information        
-Age advisory: TBC (parental/guardian discretion). With no interval, the show lasts approximately TBC. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: ***TBC***+ (parental/guardian discretion). With no interval, the show lasts approximately ***TBC*** minutes. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
 *As flashing neon lights descend upon the tracks, a boxing-gloved boy with a death wish comes head to head with a white suited locomotive and a deer in black patent stilettos.*        
         
-A new story inspired by three of the voiceless characters in Stephen King's novella *The Body* + its 1986 cult film adaptation *Stand By Me* — expect distorted sound, movement and projection as Massive Owl contort the book's characters and twist the film's soundtrack into a reimagined story about loss and acceptance. Welcome to Castle Rock…         
+A new story inspired by three of the voiceless characters in Stephen King's novella *The Body* and its 1986 cult film adaptation *Stand By Me* — expect distorted sound, movement and projection as Massive Owl contort the book's characters and twist the film's soundtrack into a reimagined story about loss and acceptance. Welcome to *Castle Rock*…         
        
 #### Who are they?        
 A Bristol-based collaborative performance company making cinematic work that sits between theatre and live art, Massive Owl tell stories and in the process challenge how a story can look, sound and feel.         
