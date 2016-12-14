@@ -31,7 +31,7 @@ Date: Thursday 16 February 2017, 6-9pm
 Box Office (Contact) Tel: 0161 274 0600         
          
 #### Access Information        
-Age advisory: ***TBA***+ (parental/guardian discretion). This free durational performance installation allows audience members to come and go as they please over 3 hours. To have an intense 1-2-1 chorus of *Over the Rainbow* sung (very directly) to you by FK you'll need to queue in person on the evening to take a (free) numbered ticket for this short intimate experience. With small moments of strobe and noise music, it's not quiet and earplugs are available on request. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.      
+**Warning: strobe lighting used.**<br>Age advisory: ***TBC***+ (parental/guardian discretion). This free durational performance installation allows audience members to come and go as they please over a 3 hour period; to further experience an intense 1-2-1 chorus of *Over the Rainbow* sung (very directly) to you by FK, you'll need to queue in person on the evening to take a (free) numbered ticket for this short intimate experience. With loud noise music, earplugs are available on request. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.      
          
 #### More      
 With live accompaniment from Glasgow-based noise band Okishima Island Tourist Association, FK Alexander sings along to the recording of the last time Judy Garland ever sang *Over the Rainbow*, four months before her death.        
@@ -49,7 +49,7 @@ Making work by herself and with others for no-one in particular, she strongly we
 >★★★★★ <a href="http://www.broadwaybaby.com/shows/i-could-go-on-singing-over-the-rainbow/715038" target="_blank">Broadway Baby</a><br>★★★★ <a href="http://www.whatsonstage.com/edinburgh-theatre/reviews/i-could-go-on-singing-festival-fringe-summerhall_41603.html" target="_blank">What's On Stage</a><br>★★★★ <a href="http://www.festmag.co.uk/music/103151-i-could-on-singing-over-rainbow" target="_blank">FestMag</a>       
        
 #### Credits        
-***TBC*:** Created by FK Alexander + performed with Okishima Island Tourist Association. | Produced by Nick?        
+***TBC*:** Created by FK Alexander + performed with Okishima Island Tourist Association. | Produced by Nick / BUZZCUT***?***        
         
 #### Websites          
 <a href="http://fkalexan.de/r?ds-gallery-category=solo#i-could-go-on-singing" target="_blank">fkalexan.de/r</a> | <a href="http://twitter.com/fkalexander" target="_blank">@fkalexander</a> | <a href="http://www.whitworth.manchester.ac.uk/learn/adults/talkasandtours/thursdaylates" target="_blank">Thursday Lates at the Whitworth</a>
