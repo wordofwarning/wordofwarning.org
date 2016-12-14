@@ -27,11 +27,11 @@ See her <a href="http://youtu.be/HdsA0YhjETk" target="_blank">trailer</a>.
 #### Venue + Booking Details        
 Date: Thursday 16 February 2017, 6-9pm          
 <a href="http://www.whitworth.manchester.ac.uk/visit/gettinghere" target="_blank">Venue: the Whitworth</a>, The University of Manchester, Oxford Road, Manchester, M15 6ER              
-<a href="http://contactmcr.com/whats-on/64894-qc17-fk-alexander-i-could-go-on-singing-over-the-rainbow" target="_blank">Tickets: Free to book (via Contact)</a> for entry at: 6(to7)pm, 7(to8)pm, 8(to9)pm).        
+<a href="http://contactmcr.com/whats-on/64894-qc17-fk-alexander-i-could-go-on-singing-over-the-rainbow" target="_blank">Tickets: Free to book (via Contact)</a> for entry at: 6(*-7*)pm, 7(*-8*)pm, 8(*-9*)pm.        
 Box Office (Contact) Tel: 0161 274 0600         
          
 #### Access Information        
-Age advisory: ***TBC***+ (parental/guardian discretion). This free durational performance installation allows audience members to come and go as they please over a 3 hour period; to further experience an intense 1-2-1 chorus of *Over the Rainbow* sung (very directly) to you by FK, you'll need to queue in person on the evening to take a (free) numbered ticket for this short intimate experience. **Warning**: strobe lighting used. With loud noise music, earplugs are available on request. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.      
+Age advisory: ***TBC***+ (parental/guardian discretion). A durational performance installation allowing audience members to freely come and go over a 3 hour period; to further experience an intense 1-2-1 chorus of *Over the Rainbow* sung (very directly) to you by FK, you'll need to queue in person on the evening to take a (free) numbered ticket for this short intimate experience. **Warning**: uses strobe lighting loud noise music; earplugs are available on request. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.      
          
 #### More      
 With live accompaniment from Glasgow-based noise band Okishima Island Tourist Association, FK Alexander sings along to the recording of the last time Judy Garland ever sang *Over the Rainbow*, four months before her death.        
