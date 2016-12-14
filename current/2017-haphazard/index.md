@@ -38,7 +38,7 @@ To date, Haphazard has seen ping pong balls and squeaky toys; human dogs, cats, 
 >• *Great! Everyone was energetic & friendly — very easy to interact with!*<br>• *Suitably crazy & surreal for children and their grown-ups*.<br>• *Really enjoyed the event and it's particularly nice to experience something a bit different, especially as adults, it is quite eye-popping…*<br>[Audience Feedback from 2013](/archive/2013-spring/haphazard)         
         
 #### Access Information    
-Haphazard 2017 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some parts of the Z-arts building are not wheelchair accessible. Age advisory: suitable for ALL. For specific age and access information please email <mailto:haphazard@habmcr.org> or call 0161 232 6086.        
+Haphazard 2017 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some parts of the Z-arts building are not wheelchair accessible. Age advisory: suitable for ALL. For specific age + access information please email <mailto:haphazard@habmcr.org> or call 0161 232 6086.        
         
 #### Credits         
 [Haphazard](/hab/haphazard) 2017 is produced by hÅb + Z-arts; supported using public funding by Arts Council England + funded by Manchester City Council.        
