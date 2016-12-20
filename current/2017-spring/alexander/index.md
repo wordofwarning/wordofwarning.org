@@ -27,11 +27,11 @@ See her <a href="http://youtu.be/HdsA0YhjETk" target="_blank">trailer</a>.
 #### Venue + Booking Details        
 Date: Thursday 16 February 2017, 6-9pm          
 <a href="http://www.whitworth.manchester.ac.uk/visit/gettinghere" target="_blank">Venue: the Whitworth</a>, The University of Manchester, Oxford Road, Manchester, M15 6ER              
-<a href="http://contactmcr.com/whats-on/64894-qc17-fk-alexander-i-could-go-on-singing-over-the-rainbow" target="_blank">Tickets: Free to book (via Contact)</a> for entry at: 6(-7)pm, 7(-8)pm, 8(-9)pm.        
+Tickets: FREE entry; you can also <a href="http://contactmcr.com/whats-on/64894-qc17-fk-alexander-i-could-go-on-singing-over-the-rainbow" target="_blank">book one of a limited number of tickets for an intense experience (via Contact)</a> for entry at: 6(-7)pm, 7(-8)pm, 8(-9)pm.        
 Box Office (Contact) Tel: 0161 274 0600         
          
 #### Access Information        
-Age advisory: ***TBC***+ (parental/guardian discretion). A durational performance installation allowing audience members to freely come and go over 3 hours; to further experience an intense 1-2-1 chorus of *Over the Rainbow* sung (very directly) to you by FK, you'll need to queue in person on the evening to take a (free) numbered ticket for this short intimate experience. **Warning**: uses strobe lighting and loud noise music; earplugs available on request. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.      
+Age advisory: ***TBC***+ (parental/guardian discretion). A durational performance installation allowing audience members to freely come and go over 3 hours; for an intense 1-2-1 experience book a free ticket in one of the hourly slots. **Warning**: uses strobe lighting and loud noise music; earplugs available on request. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.      
          
 #### More      
 With live accompaniment from Glasgow-based noise band Okishima Island Tourist Association, FK Alexander sings along to the recording of the last time Judy Garland ever sang *Over the Rainbow*, four months before her death.        
@@ -46,7 +46,7 @@ Glasgow-based, FK's practice centres on aggressive healing, radical wellness, pu
 Making work by herself and with others for no-one in particular, she strongly welcomes everyone — whether that work be live art or to go on a stage, the street, on headphones, in front of a camera, on a wall, or on a page.         
          
 #### What people have said about *(I Could Go on Singing)…*        
->Desperate, moving, distressing & beautiful too.<br><a href="http://twitter.com/lyngardner/status/528473260317745152" target="_blank">Lyn Gardner, The Guardian</a><br>★★★★★ <a href="http://www.broadwaybaby.com/shows/i-could-go-on-singing-over-the-rainbow/715038" target="_blank">Broadway Baby</a><br>★★★★ <a href="http://www.whatsonstage.com/edinburgh-theatre/reviews/i-could-go-on-singing-festival-fringe-summerhall_41603.html" target="_blank">What's On Stage</a><br>★★★★ <a href="http://www.festmag.co.uk/music/103151-i-could-on-singing-over-rainbow" target="_blank">FestMag</a>       
+>*Desperate, moving, distressing & beautiful too.*<br><a href="http://twitter.com/lyngardner/status/528473260317745152" target="_blank">Lyn Gardner, The Guardian</a><br>★★★★★ <a href="http://www.broadwaybaby.com/shows/i-could-go-on-singing-over-the-rainbow/715038" target="_blank">Broadway Baby</a><br>★★★★ <a href="http://www.whatsonstage.com/edinburgh-theatre/reviews/i-could-go-on-singing-festival-fringe-summerhall_41603.html" target="_blank">What's On Stage</a><br>★★★★ <a href="http://www.festmag.co.uk/music/103151-i-could-on-singing-over-rainbow" target="_blank">FestMag</a>       
        
 #### Credits        
 ***TBC*:** Created by FK Alexander + performed with Okishima Island Tourist Association. | Produced by Nick / BUZZCUT***?***        
