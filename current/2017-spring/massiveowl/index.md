@@ -17,7 +17,7 @@ season: "Massive Owl 25|1|2017"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* The Lowry + Word of Warning<br>*Part of* WTF Wednesday *at* The Lowry          
+*Presented by* The Lowry + Word of Warning *as part of* WTF          
          
 #### In Brief      
 As flashing neon lights descend upon the tracks, a boxing-gloved boy with a death wish comes head to head with a white locomotive.<br>Stephen King meets David Lynch in a distortion of *Stand By Me*…            
