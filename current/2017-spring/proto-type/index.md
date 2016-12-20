@@ -17,7 +17,7 @@ season: "Proto-type Theater 1|3|2017"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* The Lowry + Word of Warning<br>*Part of* WTF Wednesday *at* The Lowry          
+*Presented by* The Lowry + Word of Warning *as part of* WTF          
          
 #### In Brief      
 Charting a course from the Top Secret secrets of WWI to 9/11, Edward Snowden and the terror of a future already here…<br>Proto-type speak up, speak out, blow the whistle and lift the veil.            
