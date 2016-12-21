@@ -52,5 +52,4 @@ Making work by herself and with others for no-one in particular, she strongly we
 Created + performed by FK Alexander + Okishima Island Tourist Association. | Amplified by Nick Anderson + Roz Coleman. | Image by Jannica Honey.<br>Supported using public funding by the National Lottery through Arts Council England. 
         
 #### Websites          
-<a href="http://www.fkalexander.com" target="_blank">fkalexander.com</a> | <a href="http://twitter.com/fkalexander" target="_blank">@fkalexander</a> | <a href="http://facebook.com/fkalexanderart" target="_blank">FK on Facebook</a>
-<a href="http://www.whitworth.manchester.ac.uk/learn/adults/talkasandtours/thursdaylates" target="_blank">Thursday Lates at the Whitworth</a>
+<a href="http://www.fkalexander.com" target="_blank">fkalexander.com</a> | <a href="http://twitter.com/fkalexander" target="_blank">@fkalexander</a> | <a href="http://facebook.com/fkalexanderart" target="_blank">FK on Facebook</a><br><a href="http://www.whitworth.manchester.ac.uk/learn/adults/talkasandtours/thursdaylates" target="_blank">Thursday Lates at the Whitworth</a>
