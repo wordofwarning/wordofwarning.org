@@ -49,7 +49,8 @@ Making work by herself and with others for no-one in particular, she strongly we
 >*Desperate, moving, distressing & beautiful too.*<br><a href="http://twitter.com/lyngardner/status/528473260317745152" target="_blank">Lyn Gardner, The Guardian</a><br>★★★★★ <a href="http://www.broadwaybaby.com/shows/i-could-go-on-singing-over-the-rainbow/715038" target="_blank">Broadway Baby</a><br>★★★★ <a href="http://www.whatsonstage.com/edinburgh-theatre/reviews/i-could-go-on-singing-festival-fringe-summerhall_41603.html" target="_blank">What's On Stage</a><br>★★★★ <a href="http://www.festmag.co.uk/music/103151-i-could-on-singing-over-rainbow" target="_blank">FestMag</a>       
        
 #### Credits        
-Created + performed by FK Alexander + Okishima Island Tourist Association.<br>Amplified by Nick Anderson + Roz Coleman.<br>Supported using public funding by the National Lottery through Arts Council England. | Image credit: Jannica Honey          
+Created + performed by FK Alexander + Okishima Island Tourist Association. | Amplified by Nick Anderson + Roz Coleman. | Image by Jannica Honey.<br>Supported using public funding by the National Lottery through Arts Council England. 
         
 #### Websites          
-<a href="http://www.fkalexander.com" target="_blank">fkalexander.com</a> | <a href="http://twitter.com/fkalexander" target="_blank">@fkalexander</a> | <a href="http://www.whitworth.manchester.ac.uk/learn/adults/talkasandtours/thursdaylates" target="_blank">Thursday Lates at the Whitworth</a>
+<a href="http://www.fkalexander.com" target="_blank">fkalexander.com</a> | <a href="http://twitter.com/fkalexander" target="_blank">@fkalexander</a> | <a href="http://facebook.com/fkalexanderart" target="_blank">FK on Facebook</a>
+<a href="http://www.whitworth.manchester.ac.uk/learn/adults/talkasandtours/thursdaylates" target="_blank">Thursday Lates at the Whitworth</a>
