@@ -31,7 +31,7 @@ Tickets: Pay What You Decide on the evening — we suggest you <a href="http://w
 Box Office Tel: 0843 208 6000          
           
 #### Access Information        
-Age advisory: parental/guardian discretion. With no interval, the show lasts approximately 60 minutes. **Warning**: includes flashing imagert + loud noise. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: parental/guardian discretion. With no interval, the show lasts approximately 60 minutes. **Warning**: includes flashing imagery + loud noise. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
 *As flashing neon lights descend upon the tracks, a boxing-gloved boy with a death wish comes head to head with a white suited locomotive and a deer in black patent stilettos.*        
