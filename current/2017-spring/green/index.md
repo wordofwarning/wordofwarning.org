@@ -27,11 +27,11 @@ Read their May 2016 <a href="http://www.theguardian.com/stage/2016/may/17/cock-a
 #### Venue + Booking Details    
 Dates: Thursday 16 — Saturday 18 March 2017, 7.30pm         
 <a href="http://www.royalexchange.co.uk/where-how-to-find-us" target="_blank">Venue: Studio at the Royal Exchange Theatre</a>, St Ann's Square, Manchester M2 7DH             
-<a href="http://www.royalexchange.co.uk/whats-on-and-tickets/cock-and-bull" target="_blank">Tickets: £12/10</a> | ***TBC** Booking fees may apply.*     
+<a href="http://www.royalexchange.co.uk/whats-on-and-tickets/cock-and-bull" target="_blank">Tickets: £12/10</a>     
 Box Office Tel: 0161 833 9833         
          
 #### Access Information        
-Age advisory: ***TBC***+ With no interval, the show lasts approximately 70 minutes. Primarily English spoken word. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: parental/guardian discretion. With no interval, the show lasts approximately 70 minutes. Primarily English spoken word. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More             
 Exploring power, voice, agency and sustainability, three women convene to perform their own, alternative, party conference — and using oft-heard rhetoric they dismantle and redress dominant paradigms of politics and power in a demonstration of togetherness.        
@@ -47,7 +47,7 @@ Work under the artistic direction of Nic Green is broad and comprehensive, spann
 >*A battering ram against the political establishment… For all its fury and exhaustion, it's also cathartic… A blistering, beautiful act.*<br><a href="http://www.whatsonstage.com/edinburgh-theatre/reviews/cock-and-bull-forest-fringe-festival-nic-green_41533.html" target="_blank">★★★★ Matt Trueman, What's On Stage</a>        
               
 #### Credits          
-Created by Nic Green with Laura Bradshaw, Rosana Cade + Simone Kenyon. | Produced + supported by ***??***        
+Created by Nic Green with Laura Bradshaw, Rosana Cade + Simone Kenyon.        
          
 #### Websites          
 <a href="http://nicgreen.org.uk" target="_blank">nicgreen.org.uk</a> | <a href="http://twitter.com/nicgreen_" target="_blank">@nicgreen_</a> | <a href="http://twitter.com/hashtag/CockandBull" target="_blank">#CockandBull</a>
