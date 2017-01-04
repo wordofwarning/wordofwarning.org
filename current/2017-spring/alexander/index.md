@@ -41,10 +41,10 @@ Stand hand-in-hand with FK, and witness others do the same in this intimate inte
        
 Winner of <a href="http://www.summerhall.co.uk/2016/summerhall-autopsy-award-2016/" target="_blank">Summerhall's 2016 Autopsy Award</a> + a <a href="http://www.edfringe.com/media/award-winners#Total" target="_blank">2016 Total Theatre Award</a>.                 
        
-#### Who is she? (*to be updated by FK*)     
-Glasgow-based, FK's practice centres on aggressive healing, radical wellness, public vulnerability, noise music, and 12 step recovery… She believes personal transformation is real, deep change is possible, and that we are all trying to recover from something/one.
-
-Making work by herself and with others for no-one in particular, she strongly welcomes everyone — whether that work be live art or to go on a stage, the street, on headphones, in front of a camera, on a wall, or on a page.         
+#### Who is she?     
+A Glasgow-based performance artist, FK's practice is concerned with issues of wounds, recovery, aggressive healing, radical wellness, industrialisation and noise music. Her work predominantly puts her body at the centre of ritualised, action based, often durational work, in often ridiculous attempts to communicate ideas around new language, new violence and new love.       
+         
+Often collaborating with a range of live artists and noise musicians, FK's work finds its home in outdoor performances, studio work, nightclubs and noise music gigs; as a former DJ, FK is interested in placing performance art in rock and roll settings and rock and roll in performance art.         
          
 #### What people have said about *(I Could Go on Singing)…*        
 >*Desperate, moving, distressing & beautiful too.*<br><a href="http://twitter.com/lyngardner/status/528473260317745152" target="_blank">Lyn Gardner, The Guardian</a><br>★★★★★ <a href="http://www.broadwaybaby.com/shows/i-could-go-on-singing-over-the-rainbow/715038" target="_blank">Broadway Baby</a><br>★★★★ <a href="http://www.whatsonstage.com/edinburgh-theatre/reviews/i-could-go-on-singing-festival-fringe-summerhall_41603.html" target="_blank">What's On Stage</a><br>★★★★ <a href="http://www.festmag.co.uk/music/103151-i-could-on-singing-over-rainbow" target="_blank">FestMag</a>       
