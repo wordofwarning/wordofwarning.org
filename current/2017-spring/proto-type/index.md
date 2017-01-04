@@ -31,7 +31,7 @@ Tickets: Pay What You Decide on the evening — we suggest you <a href="http://w
 Box Office Tel: 0843 208 6000          
           
 #### Access Information        
-Age advisory: ***TBC*** (parental/guardian discretion). With no interval, the show lasts approximately ***TBC*** minutes. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: parental/guardian discretion. With no interval, the show lasts approximately 70 minutes. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
 *I want you to know what's happening…*        
