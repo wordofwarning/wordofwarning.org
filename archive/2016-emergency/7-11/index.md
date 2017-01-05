@@ -17,7 +17,7 @@ season: "Emergency 1|10|2016, 7-11pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2016](/current/2016-emergency)         
+*Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2016](/archive/2016-emergency)         
          
 ### Artists in Chronological Order (*subject to change*)       
 ***Please note this is primarily an adult event, see Access Info below.***        
@@ -33,7 +33,7 @@ Theatre 42 is a group of graduates from Lancaster University. They make work bas
 **Ali Wilson | *The Living Room***        
 Welcome to *The Living Room* — aka the dancing room, the biscuit room, the dreaming room, the singing room, the video-making room, the fortune telling room. Grandad's here and raring to go. I'll make sure he's turned his hearing-aid on. We've been working on this for a while…          
          
-Ali makes quirky, semi-autobiographical solo work which tries to ask big questions about big things. She has performed with Quarantine and has worked with Belgian theatre maker Leentje Van de Cruys. She performed her solo show *Shit Happens* at Emergency 2015 and was ½ of the *Pair of Pears* at [Hazard 2016](/2016-hazard/ongoing). She is an Associate Artist with Facade Theare and ⅕ of the ensemble Sour Lemons.        
+Ali makes quirky, semi-autobiographical solo work which tries to ask big questions about big things. She has performed with Quarantine and has worked with Belgian theatre maker Leentje Van de Cruys. She performed her solo show *Shit Happens* at Emergency 2015 and was ½ of the *Pair of Pears* at [Hazard 2016](/archive/2016-hazard/ongoing). She is an Associate Artist with Facade Theare and ⅕ of the ensemble Sour Lemons.        
          
 **Chanje Kunda | *Superposition***         
 What are the real laws of attraction?         
