@@ -9,7 +9,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: Emergency 2016
-more_url: "../../current/2016-emergency"
+more_url: "../../archive/2016-emergency"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small>A free day out for the curious, Sat 1 Oct at Z-arts.", show: "Maelstrom Theatre; image David Forrest</small>"}
@@ -24,7 +24,7 @@ gallery:
     -   {file: "holliemiller.jpg", artist: "Hollie Miller"}
     -   {file: "natalieramus.jpg", artist: "Natalie Ramus; <small>image Garry Cook</small>"}
     -   {file: "tonipaul.jpg", artist: "Toni-Dee Paul"}
-    -   {file: "rowlandhillsheen.jpg", artist: "Rowland-Hill + Jack Sheen; <small>image Garry Cook</small"}
+    -   {file: "rowlandhillsheen.jpg", artist: "Rowland-Hill + Jack Sheen; <small>image Garry Cook</small>"}
     -   {file: "theatre42.jpg", artist: "Theatre 42"}
     -   {file: "aliwilson.jpg", artist: "Ali Wilson"}
     -   {file: "tincanpeople.jpg", artist: "Tin Can People"}
