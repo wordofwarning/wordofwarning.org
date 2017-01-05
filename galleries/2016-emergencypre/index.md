@@ -9,7 +9,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: Emergency 2016
-more_url: "../../current/2016-emergency"
+more_url: "../../archive/2016-emergency"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small>A free day out for the curious, Sat 1 Oct at Z-arts.", show: "Maelstrom Theatre; image David Forrest</small>"}
