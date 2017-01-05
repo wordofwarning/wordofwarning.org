@@ -4,7 +4,7 @@ layout: archive
 
 archived:
     - {folder: "2016-autumnwinter", name: "Autumn/Winter 2016", class: "aw2016"}    
-    - {folder: "2016-divergency", name: "Divergency 2016", class: "div"}    
+    - {folder: "2016-divergency", name: "Divergency (2016)", class: "div"}    
     - {folder: "2016-emergency", name: "Emergency 2016", class: "e2016"}    
     - {folder: "2016-springsummer", name: "Spring/Summer 2016", class: "ss2016"}    
     - {folder: "2016-hazard", name: "Hazard 2016", class: "h2016"}    
