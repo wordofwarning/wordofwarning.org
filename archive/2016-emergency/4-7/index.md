@@ -17,7 +17,7 @@ season: "Emergency 1|10|2016, 4-7pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2016](/current/2016-emergency)        
+*Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2016](/archive/2016-emergency)        
          
 ### Artists in Alphabetical Order (*subject to change*)      
 ***Please note this is primarily an adult event, see Access Info below.***        
