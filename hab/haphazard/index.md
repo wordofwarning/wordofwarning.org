@@ -21,7 +21,7 @@ To date, Haphazard has seen ping pong balls and squeaky toys; human dogs, cats, 
          
 #### Fooling around… Haphazard 2017 call for proposals        
         
-hÅb + Z-arts seek proposals and expressions of interest from live artists for our **fourth Haphazard on Saturday 1 April 2017, 12noon-4pm at Z-arts**… And since it's taking place on April Fool's day we thought we'd throw the gauntlet down and invite imaginative ideas that play the fool… *not* an invitation for spoof applications please!        
+hÅb + Z-arts seek proposals and expressions of interest from live artists for our **[fourth Haphazard on Saturday 1 April 2017, 12noon-4pm at Z-arts](/current/2017-haphazard)**… And since it's taking place on April Fool's day we thought we'd throw the gauntlet down and invite imaginative ideas that play the fool… *not* an invitation for spoof applications please!        
         
 This is not live art for children but live art for ALL ages — and we mean from tot to timeworn, 8 months to 80 years — so work should appeal to adults and children alike (even if the kids need to explain it to the adults!).        
 From experience, what works best are big surreal images, interesting repetitive movement and nothing too text heavy. This year we'll award bonus points for ideas that play with the idea of the April Fool.        
