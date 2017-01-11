@@ -46,10 +46,11 @@ Founded in 2009 by Adrian Spring, Danny Prosser, Richard Mowbray + Sam Powell wh
 Making and touring work across the UK and internationally — most notably the Barbican (London), Project Arts Centre (Dublin), Mayfest (Bristol) — they have also run workshops at various UK universities and are associate artists of <a href="http://www.livecollision.com" target="_blank">Live Collision</a> + members of <a href="http://www.intervalbristol.org" target="_blank">Interval</a> artist collective.
 
 #### What people have said about them         
->*The performance work they create sits somewhere between physical theatre and live art, with their ability to ‘story-tell’ through the most minimal of means making their work both complex and accessible.*<br>Kate Craddock, Gateshead International Festival of Theatre (GIFT).        
-        
+>*The performance work they create sits somewhere between physical theatre and live art, with their ability to 'story-tell' through the most minimal of means making their work both complex and accessible.*<br>Kate Craddock, Gateshead International Festival of Theatre (GIFT).        
+*Castle Rock* at The Lowry is a <a href="http://www.creativetourist.com/theatre" target="_blank">creative tourist </a> top theatre pick.        
+         
 #### Credits          
-Performed + devised by Jenny Duffy, Sam Powell + Danny Prosser.<br>Additional music by Sammy Metcalfe/Sleepwalk Collective.<br>Trailer by Adam Stocker/Mighty Colour Films.<br>Supported using public funding by the National Lottery through Arts Council England, Barbican, Bristol Ferment, The Edge/ICIA (Bath), The Island, Arnolfini (Bristol) and partners in Ireland: Project Arts Centre, Live Collision, Fringe Lab + British Council (Ireland). With special thanks to Jane Duffy.        
+Performed + devised by Jenny Duffy, Sam Powell + Danny Prosser.<br>Additional music by Sammy Metcalfe/Sleepwalk Collective.<br>Trailer by Adam Stocker/Mighty Colour Films.<br>Supported using public funding by the National Lottery through Arts Council England, Barbican, Bristol Ferment, The Edge/ICIA (Bath), The Island, Arnolfini (Bristol) and partners in Ireland: Project Arts Centre, Live Collision, Fringe Lab + British Council (Ireland). With special thanks to Jane Duffy.<br>Header image: Paul Samuel White        
           
 #### Websites          
 <a href="http://www.massiveowltheatre.com/projects/castle-rock" target="_blank">massiveowltheatre.com</a> | <a href="http://twitter.com/Massive_Owl" target="_blank">@Massive_Owl</a> | <a href="http://twitter.com/hashtag/CastleRock" target="_blank">#CastleRock</a> | <a href="http://facebook.com/massiveowl" target="_blank">M.O. on Facebook</a>
