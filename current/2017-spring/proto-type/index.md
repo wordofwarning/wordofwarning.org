@@ -27,7 +27,7 @@ See their <a href="http://vimeo.com/139957520" target="_blank">trailer</a>.
 #### Venue + Booking Details    
 Date: Wednesday 1 March 2017, 8pm          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-Tickets: Pay What You Decide on the evening — we suggest you <a href="http://www.thelowry.com/event/a-machine-theyre-secretly-building" target="_blank">book a free ticket in advance</a> to ensure you get a space.        
+Tickets: Pay What You Decide on the evening — we suggest you <a href="http://www.thelowry.com/event/a-machine-theyre-secretly-building" target="_blank">book a free ticket in advance</a> to ensure you get a space; please collect by 7.45pm or it may be re-allocated.        
 Box Office Tel: 0843 208 6000          
           
 #### Access Information        
