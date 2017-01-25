@@ -48,7 +48,7 @@ Making and touring work across the UK and internationally — most notably the B
 #### What people have said about them         
 >*The performance work they create sits somewhere between physical theatre and live art, with their ability to 'story-tell' through the most minimal of means making their work both complex and accessible.*<br>Kate Craddock, Gateshead International Festival of Theatre (GIFT).        
          
-*Castle Rock* at The Lowry is a <a href="http://www.creativetourist.com/theatre" target="_blank">creative tourist </a> top theatre pick.           
+*Castle Rock* at The Lowry is a <a href="http://www.creativetourist.com/theatre" target="_blank">creative tourist</a> top theatre pick + was profiled in a <a href="http://www.manchestereveningnews.co.uk/whats-on/whats-on-news/pay-decide-lowry-manchester-theatres-12502063" target="_blank">Manchester Evening News</a> article about WTF Wednesdays.           
          
 #### Credits          
 Performed + devised by Jenny Duffy, Sam Powell + Danny Prosser.<br>Additional music by Sammy Metcalfe/Sleepwalk Collective.<br>Trailer by Adam Stocker/Mighty Colour Films.<br>Supported using public funding by the National Lottery through Arts Council England, Barbican, Bristol Ferment, The Edge/ICIA (Bath), The Island, Arnolfini (Bristol) and partners in Ireland: Project Arts Centre, Live Collision, Fringe Lab + British Council (Ireland). With special thanks to Jane Duffy.<br>Header image: Paul Samuel White        
