@@ -15,7 +15,7 @@ header_image: "header_turn_photo.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Turn 2017**, our ninth annual platform for North West dancers + dance-makers, is calling for proposals. Taking place on **Friday 28 + Saturday 29 April 2016** at Manchester's Contact, Turn 2017 is a hÅb, Contact, Dance Manchester + Manchester Dance Consortium co-production — this year taking a slightly different format, with public performances on Friday evening and masterclass/workshops for artists on Saturday.       
+**Turn 2017**, our ninth annual platform for North West dancers + dance-makers, is calling for proposals. Taking place on **Friday 28 + Saturday 29 April 2016** at Manchester's Contact, Turn 2017 is a hÅb, Contact, Dance Manchester + Manchester Dance Consortium co-production — this year taking a slightly different format, with public performances on Friday evening and an artist day on Saturday.       
       
 North West* dancers and dance-makers (aged 18+) are invited to submit proposals of short pieces of work, works-in-progress or extracts of longer works for inclusion in this annual event. To get a feel for it, have a look at the [2016 programme](/archive/2016-turn) + [gallery](/galleries/2016-turn).   
  
