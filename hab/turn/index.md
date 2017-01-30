@@ -55,6 +55,6 @@ We are looking for dance in any form which uses the artists' creativity, has str
 ● The proposal form must be completed at one sitting (you can't save and return to it later) so please copy and paste the longer elements from another document.    
 ● Turn 2017 will offer an honorarium of up to £100 per piece selected, to cover fees/expenses for NW† artists.    
 ● There will be a **technical meeting for ALL selected artists on Saturday 22 April 2017 (daytime)**.      
-● Enquiries: <mailto:turn@habmcr.org> | <a href="http://turnmcr.org" target="_blank">turnmcr.org</a> | <a href="http://twitter.com/hashtag/#TurnMcr" target="_blank">#TurnMcr</a>        
+● Enquiries: <mailto:turn@habmcr.org> | <a href="http://turnmcr.org" target="_blank">turnmcr.org</a> | <a href="http://twitter.com/hashtag/TurnMcr" target="_blank">#TurnMcr</a>        
         
 Taking place at Contact on 28 + 29 April 2017, Turn 2017 is presented by Word of Warning + Contact; co-produced by hÅb, Contact, Dance Manchester + Manchester Dance Consortium; supported using public funding through Arts Council England + funded by Manchester City Council.
