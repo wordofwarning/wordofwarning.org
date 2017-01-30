@@ -15,14 +15,14 @@ header_image: "header_turn_photo.jpg"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Turn 2017**, our ninth annual platform for North West dancers + dance-makers, is calling for proposals. Taking place on **Friday 28 + Saturday 29 April 2016** at Manchester's Contact, Turn 2017 is a hÅb, Contact, Dance Manchester + Manchester Dance Consortium co-production — this year taking a slightly different format, with public performances on Friday evening and an artist day on Saturday.       
+**Turn 2017**, our ninth annual platform for North West dancers + dance-makers, is calling for proposals. Taking place on **Friday 28 (public programme) + Saturday 29 (artist day) April 2016** at Manchester's Contact, Turn 2017 is a hÅb, Contact, Dance Manchester + Manchester Dance Consortium co-production — this year taking a slightly different format, with performances for a public audience on Friday evening and masterclasses, workshops and a feedback session on Saturday.       
       
-North West* dancers and dance-makers (aged 18+) are invited to submit proposals of short pieces of work, works-in-progress or extracts of longer works for inclusion in this annual event. To get a feel for it, have a look at the [2016 programme](/archive/2016-turn) + [gallery](/galleries/2016-turn).   
+North West† dancers and dance-makers (aged 18+) are invited to submit proposals of short pieces of work, works-in-progress or extracts of longer works for inclusion in this annual event. To get a feel for it, have a look at the [2016 programme](/archive/2016-turn) + [gallery](/galleries/2016-turn).   
  
 **Closing Deadline: 5pm, Friday 3 March 2017.**     
    
 **Turn:**    
-An open submission dance platform for North West* dancers + dance-makers:    
+An open submission dance platform for North West† dancers + dance-makers:    
 ● short finished pieces;      
 ● excerpts;    
 ● works in progress;    
@@ -30,7 +30,8 @@ An open submission dance platform for North West* dancers + dance-makers:
 Proposals should be for pieces with some live presence, 20 minutes maximum for show-type work, technically simple, adaptable to quick turnarounds and suitable for showing alongside other pieces.    
 Sited and intervention-based works in and around the venue (Contact) are also strongly encouraged.    
 We are also accepting proposals for video based work to be screened around the building.     
-* *effectively Cheshire, Cumbria, Greater Manchester, Lancashire + Merseyside: **NOT** Yorkshire*    
+† *effectively Cheshire, Cumbria, Greater Manchester, Lancashire + Merseyside: **NOT** Yorkshire*      
+†† *Choreolab is subject to funding.*
 
 **Turn:**      
 ● a public platform;    
