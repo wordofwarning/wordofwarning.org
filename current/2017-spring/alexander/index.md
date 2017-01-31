@@ -49,7 +49,7 @@ Often collaborating with a range of live artists and noise musicians, FK's work 
 #### What people have said about *(I Could Go on Singing)…*        
 >*Desperate, moving, distressing & beautiful too.*<br><a href="http://twitter.com/lyngardner/status/528473260317745152" target="_blank">Lyn Gardner, The Guardian</a><br>★★★★★ <a href="http://www.broadwaybaby.com/shows/i-could-go-on-singing-over-the-rainbow/715038" target="_blank">Broadway Baby</a><br>★★★★ <a href="http://www.whatsonstage.com/edinburgh-theatre/reviews/i-could-go-on-singing-festival-fringe-summerhall_41603.html" target="_blank">What's On Stage</a><br>★★★★ <a href="http://www.festmag.co.uk/music/103151-i-could-on-singing-over-rainbow" target="_blank">FestMag</a>       
 
-*(I Could Go on Singing)…* in Manchester is profiled in <a href="http://www.canal-st.co.uk/news/for-fans-of-judy-garland" target="_blank">Canal St online</a>.        
+*(I Could Go on Singing)…* in Manchester is recommended by <a href="http://www.manchesterconfidential.co.uk/entertainment-and-sport/events-and-listings/15-great-things-to-do-in-manchester-this-february" target="_blank">Manchester Confidential</a> + profiled in <a href="http://www.canal-st.co.uk/news/for-fans-of-judy-garland" target="_blank">Canal St online</a>.        
         
 #### Credits        
 Created + performed by FK Alexander + Okishima Island Tourist Association.<br>Amplified by Nick Anderson + Roz Coleman. | Image by Jannica Honey.<br>Supported using public funding by the National Lottery through Arts Council England.           
