@@ -28,7 +28,7 @@ See her <a href="http://youtu.be/HdsA0YhjETk" target="_blank">trailer</a>.
 Date: Thursday 16 February 2017, 6-9pm          
 <a href="http://www.whitworth.manchester.ac.uk/visit" target="_blank">Venue: the Whitworth</a>, The University of Manchester, Oxford Road, Manchester, M15 6ER              
 Venue Tel: 0161 275 7450 (the Whitworth)            
-Tickets: free to enter at any time. *N.B. the limited number of intense solo experiences are now <a href="http://contactmcr.com/whats-on/64894-qc17-fk-alexander-i-could-go-on-singing-over-the-rainbow" target="_blank">fully-booked</a>; there may be a few available in person on the night at the Whitworth on first-come first-served basis*.        
+Tickets: free to enter at any time. *N.B. the limited number of intense solo experiences are now <a href="http://contactmcr.com/whats-on/64894-qc17-fk-alexander-i-could-go-on-singing-over-the-rainbow" target="_blank">fully-booked</a>; there may be a few available in person at the Whitworth from 6pm on the night, first-come first-served*.        
 Box Office Tel: 0161 274 0600 (Contact)         
          
 #### Access Information        
