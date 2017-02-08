@@ -27,7 +27,7 @@ Read their May 2016 <a href="http://www.theguardian.com/stage/2016/may/17/cock-a
 #### Venue + Booking Details    
 Dates: (*Thursday 16 sold-out*) Friday 17 + Saturday 18 March 2017, 7.30pm        
 <a href="http://www.royalexchange.co.uk/where-how-to-find-us" target="_blank">Venue: The Studio at Royal Exchange Theatre</a>, St Ann's Square, Manchester M2 7DH             
-<a href="http://www.royalexchange.co.uk/whats-on-and-tickets/cock-and-bull" target="_blank">Tickets: £12/10</a> (*Friday only: £6 under 26/student tickets available.*)         
+<a href="http://www.royalexchange.co.uk/whats-on-and-tickets/cock-and-bull" target="_blank">Tickets: £12/10</a> (*Friday only: £6 tickets available for students/under 26.*)         
 Box Office Tel: 0161 833 9833         
          
 #### Access Information        
