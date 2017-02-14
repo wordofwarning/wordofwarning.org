@@ -31,7 +31,7 @@ Dates: (*Thursday 16 sold-out*) Friday 17 + Saturday 18 March 2017, 7.30pm
 Box Office Tel: 0161 833 9833         
          
 #### Access Information        
-Age advisory: parental/guardian discretion. With no interval, the show lasts approximately 70 minutes. Primarily English spoken word. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: parental/guardian discretion. With no interval, the show lasts approximately 60-70 minutes. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More             
 Exploring power, voice, agency and sustainability, three women convene to perform their own, alternative, party conference — and using oft-heard rhetoric they dismantle and redress dominant paradigms of politics and power in a demonstration of togetherness.        
