@@ -10,7 +10,7 @@ show: "What I Heard About the World"
 
 ---
 
-####In Brief
+#### In Brief
 
 ![Third Angel](thirdangel.jpg) 
 
@@ -21,14 +21,14 @@ An unfeasible attempt to describe the impossible… A theatre piece with 2 songs
 
 Watch video trailer [here](http://vimeo.com/36294994)
 
-####Who are they?
+#### Who are they?
 
 Alexander Kelly and Rachael Walton set up Third Angel in Sheffield in 1995 and have been making performance, theatre, live art, installation, film and just about everything else you can imagine ever since.  They have shown at festivals and venues throughout the UK and Europe - in theatres, galleries, cinemas, office blocks, car parks, swimming baths, on the internet and TV, in school halls, a damp cellar in Leicester and a public toilet in Bristol. 
 
 Third Angel’s aim is to make entertaining and original contemporary performance that speaks directly, honestly and engagingly to its audience.
 For *What I Heard About The World*, they join forces both with Portuguese company Mala Voadora and Mancunian writer/performer/musician Chris Thorpe (Unlimited Theatre, BBC Radio 4's *Friday Night Play*)
 
-####What people have said about them
+#### What people have said about them
 
 >engaging, moving, provoking, thoughtful, funny, brutal and beautiful... brilliant theatre...  resonant and eloquent... beautiful, anxious, heartfelt story telling... brilliant, v thinky... top quality night out... awesome, very thought provoking... brilliant...<br>*Twitter audience responses*   
 
@@ -36,7 +36,7 @@ For *What I Heard About The World*, they join forces both with Portuguese compan
 
 ![Third Angel](w1WIHATW-4-scream.jpg)
 
-####More
+#### More
 
 There's a place where you confess your sins to voicemail.    
 There's a place where you can buy a cure for loneliness on CD.    
@@ -61,12 +61,12 @@ Third Angel has a history of making work based on the collection and exchange of
 Twitter: #whatiheardabouttheworld    
 Facebook: [What I Heard About The World](http://www.facebook.com/pages/What-I-Heard-About-The-World/143036205737691)
 
-####Websites
+#### Websites
 
 [thirdangel.co.uk](http://www.thirdangel.co.uk)      
 [malavoadora.blogspot.com](http://www.malavoadora.blogspot.com)
 
-####Credits
+#### Credits
 
 A co-production with Sheffield Theatres and Teatro Maria Matos, Lisbon, in association with [worldmapper.org](http://www.worldmapper.org)
 Supported by the National Lottery through Arts Council England. 
