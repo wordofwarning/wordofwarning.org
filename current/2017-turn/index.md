@@ -46,8 +46,8 @@ Date: Saturday 29 April 2017, 7pm
 Box Office Tel: 0161 274 0600        
           
 #### What people have said about Turn
->★★★★ *QUOTE*<br><a href="http://www.thepublicreviews.com/turn-2016-night-1-contact-manchester" target="_blank">The Public Reviews (2016)</a>             
->★★★★ *One of the key events in Manchester's dance calendar.*<br><a href="http://www.thepublicreviews.com/turn-2013-contact-manchester" target="_blank">The Public Reviews (2013)</a>   
+>★★★★ *…a significant event in the annual calendar for audiences and creatives.*<br><a href="http://www.thepublicreviews.com/turn-2016-night-1-contact-manchester" target="_blank">The Public Reviews (first night 2016)</a>             
+>★★★★ *…good to see it deliver so strongly this year.*<br><a href="http://www.thepublicreviews.com/turn-2016-night-2-contact-manchester" target="_blank">The Public Reviews (second night 2016)</a>             
 >• *TBD*<br>• *TBD*<br>[Audience Feedback from 2016](/archive/2016-turn)          
 >• *Variety of performances and styles was good and prevented the feeling of déjà vu.*<br>• *…great that a lot of different performers had the chance and the space to show their pieces.*<br>[Audience Feedback from 2015](/archive/2015-turn)         
 >• *Enjoyed the eclectic mix. A good way to sample dance, especially if you haven't seen a lot before.*<br>• *…creative and great to see such different work from emerging artists…*<br>• *A real spur to young talent.*<br>[Audience Feedback from 2014](/archive/2014-turn)            
