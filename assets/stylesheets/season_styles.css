@@ -583,7 +583,7 @@
 	.hh2017 .artist, 
 	.hh2017 .show,
 	.hh2017 .season
-		{background:#fd2; color:#000;}
+		{background:#ffcd05; color:#000;}
 
 	.hh2017 a,
 	.hh2017 a:visited,
@@ -592,7 +592,7 @@
 	.hh2017 nav a:hover,
 	.hh2017 article a:hover,
 	.hh2017 footer a:hover
-		{background: #000; color: #fd2;}
+		{background: #000; color: #ffcd05;}
 
 	.hh2017 .splash
 		{background:url(../images/header_haphazard17.jpg) center center}
