@@ -467,7 +467,7 @@
 	.t2016 .splash
 		{background:url(../images/header_turn16.jpg) center center}
 
-/* Works Ahead (2013/14/15/16) dark red-maroon
+/* Works Ahead (2013/14/15/16/17) dark red-maroon
 ------------------------------------------------------*/
 		
 	.woah,
@@ -595,4 +595,26 @@
 		{background: #000; color: #fd2;}
 
 	.hh2017 .splash
-		{background:url(../images/header_haphazard4.jpg) center center}
+		{background:url(../images/header_haphazard17.jpg) center center}
+
+/* Turn 2017 darkish lilac
+------------------------------------------------------*/
+
+	.t2017,
+	.t2017 .artist, 
+	.t2017 .show,
+	.t2017 .season
+		{background:#339; color:#fff;}
+
+	.t2017 a,
+	.t2017 a:visited,
+	.t2017 a:hover
+		{color:#fff;}
+	.t2017 nav a:hover,
+	.t2017 article a:hover,
+	.t2017 footer a:hover
+		{background: #fff; color: #339;}
+
+	.t2017 .splash
+		{background:url(../images/header_turn16.jpg) center center}
+
