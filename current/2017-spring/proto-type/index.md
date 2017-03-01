@@ -25,9 +25,12 @@ Charting a course from the Top Secret secrets of WWI to 9/11, Edward Snowden and
 See their <a href="http://youtu.be/4M3waWjXeYY" target="_blank">trailer</a>.        
          
 #### Venue + Booking Details    
+CURRENTLY SOLD-OUT, SEE BELOW          
 Date: Wednesday 1 March 2017, 8pm          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-Tickets: Pay What You Decide on the evening — we suggest you <a href="http://www.thelowry.com/event/a-machine-theyre-secretly-building" target="_blank">book a free ticket in advance</a>: to ensure you get a space **please collect by 7.45pm** or it may be re-allocated due to huge demand + limited capacity.        
+Tickets: Pay What You Decide on the evening — <a href="http://www.thelowry.com/event/a-machine-theyre-secretly-building" target="_blank">reserve a free ticket</a>.         
+IF YOU HAVE RESERVED A TICKET: please note that due to huge demand and limited capacity, this does not guarantee a seat — **you must collect your ticket by 7:45pm** to gain entry or your ticket may be released.        
+IF YOU HAVEN'T BOOKED A TICKET: you may get lucky by waiting in the box office and after 7.45pm getting a released ticket.             
 Box Office Tel: 0843 208 6000          
           
 #### Access Information        
