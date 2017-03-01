@@ -30,9 +30,11 @@ Date: Wednesday 1 March 2017, 8pm
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
 Tickets: Pay What You Decide on the evening — <a href="http://www.thelowry.com/event/a-machine-theyre-secretly-building" target="_blank">reserve a free ticket</a>.         
 IF YOU HAVE RESERVED A TICKET: please note that due to huge demand and limited capacity, this does not guarantee a seat — **you must collect your ticket by 7:45pm** to gain entry or your ticket may be released.        
-IF YOU HAVEN'T BOOKED A TICKET: you may get lucky by waiting in the box office and after 7.45pm getting a released ticket.             
+IF YOU DON'T NEED YOUR TICKET: please let The Lowry know so they can re-allocate to anyone waiting…          
+IF YOU HAVEN'T BOOKED A TICKET: you may get lucky by waiting at The Lowry box office and after 7.45pm getting a released ticket.             
 Box Office Tel: 0843 208 6000          
-          
+
+
 #### Access Information        
 Age advisory: 14+ (parental/guardian discretion). With no interval, the show lasts approximately 1 hour. Features a combination of spoken text, composed sound + film. Proto-type can provide large-print versions of the script and touch tours in advance of the performance — please email <mailto:admin@proto-type.org> to arrange. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
