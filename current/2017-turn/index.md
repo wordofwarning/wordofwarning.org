@@ -18,11 +18,11 @@ show_size: 4
 ---
 *Presented by* Word of Warning + Contact    
          
-### Friday 28 April 2017, 7.30pm
+### Friday 28 April 2017, 7.30pm (plus Saturday, 7pm)
 All the energy of this annual whirlwind of new northern dance condensed into just one (Friday) night. Fluidly lyrical, effervescently acrobatic or eccentrically innovative, let Turn transport you into a frenzy of dance.
            
 ### Artists        
-In a new format, our ninth annual platform for dancers + dance-makers sees up to a dozen short new works on Friday Night (*participating artists tba early April*) followed by Saturday's Artist Day (*featuring a professional development workshop and public Mixed Movement*).              
+In a new format, our ninth annual platform for dancers + dance-makers sees up to a dozen short new works on Friday Night (*participating artists tba early April*) with Mixed Movement closing Saturday's Artist Day.              
         
 To get a feel for Friday Night, see Turn 2016's [programme](/archive/2016-turn) + [image gallery](/galleries/2016-turn).         
          
@@ -31,12 +31,6 @@ Date: Friday 28 April 2017, 7.30pm
 <a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact</a>, Oxford Road, Manchester, M15 6JA         
 <a href="http://contactmcr.com/whats-on" target="_blank">Tickets: £9/5</a>        
 *<a href="http://www.contactmcr.com/ticketoffers" target="_blank">Group offer</a>: buy 10 (full or concession) tickets + get your 11th free.*        
-Box Office Tel: 0161 274 0600        
-          
-#### Venue + Booking Details, for Saturday's workshop            
-Date: Saturday 29 April 2017, 3.30pm       
-<a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact</a>, Oxford Road, Manchester, M15 6JA         
-<a href="http://contactmcr.com/whats-on" target="_blank">Tickets: £? (*NB: for dancers only*)</a>        
 Box Office Tel: 0161 274 0600        
           
 #### Venue + Booking Details, for Saturday's Mixed Movement            
