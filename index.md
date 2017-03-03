@@ -1,7 +1,7 @@
 ---
 # CONFIGURATION
 layout: home
-header_image: "assets/images/header_2017SprWrn_leaf.jpg"
+header_image: "assets/images/header_2017SprWrn_pine.jpg"
 season: homepage
 
 ---
