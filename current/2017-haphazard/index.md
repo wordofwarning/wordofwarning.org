@@ -43,7 +43,7 @@ To date, Haphazard has seen ping pong balls and squeaky toys; human dogs, cats, 
 Haphazard 2017 is a <a href="http://www.manchesterconfidential.co.uk/entertainment-and-sport/events-and-listings/top-10-theatre-comedy-in-march-april-2017" target="_blank">Manchester Confidential TOP 10</a> for March/April.           
           
 #### Credits         
-[Haphazard](/hab/haphazard) 2017 is produced by hÅb + Z-arts; supported using public funding by Arts Council England, funded by Manchester City Council + supported by the Paul Hamlyn Foundation.        
+[Haphazard](/hab/haphazard) 2017 is produced by hÅb + Z-arts; supported using public funding by Arts Council England, funded by Manchester City Council + supported by the Paul Hamlyn Foundation. | Image: Chris Sav        
 
 #### Websites        
 <a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | <a href="http://twitter.com/hashtag/Haphazard" target="_blank">#Haphazard</a>
