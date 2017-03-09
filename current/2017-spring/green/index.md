@@ -52,7 +52,7 @@ A practical workshop in The Studio at Royal Exchange Theatre — open to artists
         
 **How to attend the workshop**        
 First: you must be a member of RET's Open Exchange — membership is free and you can <a href="http://www.surveymonkey.co.uk/r/Open_Exchange" target="_blank">apply to join online</a>.         
-Then: register for the free artist workshop by emailing Davinia Jokhi at RET: [emailto:davinia.jokhi@royalexchange.co.uk] (N.B. capacity is limited to ~15).          
+Then: register for the free artist workshop by emailing Davinia Jokhi at RET: <mailto:davinia.jokhi@royalexchange.co.uk> (N.B. capacity is limited to about 15).          
 If you go: please wear comfortable clothing and bring water; should you have any specific or additional needs, please let Davinia know in advance so RET can be sure to accommodate these with awareness and sensitivity.              
             
 #### Credits          
