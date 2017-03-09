@@ -19,15 +19,20 @@ season: "Haphazard 1|4|2017"
 *Presented by* Word of Warning + Z-arts          
          
 ### Saturday 1 April 2017, 12noon-4pm. FREE             
-Intriguing images and offbeat oddities dotted around the historic <a href="http://www.z-arts.org/events/haphazard-2017" target="_blank">Z-arts</a> building with an April Fool's twist. Playful, quirky, engaging and sometimes plain daft: this is a free day out for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out.<br>*Turn up at any time; come + go as you please + expect the unexpected…*        
+Intriguing images and offbeat oddities dotted around the historic <a href="http://www.z-arts.org/events/haphazard-2017" target="_blank">Z-arts</a> building with an April Fool's twist. Playful, quirky, engaging and sometimes plain daft: this is a free day out for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out.          
         
-To get a feel for it have a look at [2016](/galleries/2016-haphazard)/[2015](/galleries/2015-haphazard)/[2013](/galleries/2013-haphazard)'s image galleries and to get an idea of what's gone before see [2016](/archive/2016-haphazard)/[2015](/archive/2015-haphazard)/[2013](/archive/2013-spring/haphazard)'s archives. 
+*Turn up at any time; come + go as you please + expect the unexpected…*        
         
 #### Venue + Booking Details
 Date: Saturday 1 April 2017, 12noon-4pm    
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: FREE, no ticket booking required, come + go as you please (*N.B. some activity may operate on a first-come, first-served basis.*)         
 Venue Tel: 0161 232 6089            
+        
+#### Artists + Activity (subject to change)        
+AAA Batteries | Benjamin McChrystal Plimmer | Chris Sav | Delpha Hudson + Nigel Bispham | Grace Surman + Clare Dearnaley | Lani Irving + Chloe Smith | Megan Egglestein | Michael Gleave | Natalie Wearden + Indigo Branscombe | Nicola Smith | Philip Breadney | Rebekka Platt<br>*plus* a special version of *Playing Up*          
+        
+To get a feel for it have a look at [2016](/galleries/2016-haphazard)/[2015](/galleries/2015-haphazard)/[2013](/galleries/2013-haphazard)'s image galleries and to get an idea of what's gone before see [2016](/archive/2016-haphazard)/[2015](/archive/2015-haphazard)/[2013](/archive/2013-spring/haphazard)'s archives.        
         
 #### Access Information            
 Age advisory: suitable for ALL. Haphazard 2017 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some parts of the Z-arts building are not wheelchair accessible. For specific age + access information please email <mailto:haphazard@habmcr.org> or call 0161 232 6086.        
