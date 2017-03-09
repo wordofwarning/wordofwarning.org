@@ -604,16 +604,16 @@
 	.t2017 .artist, 
 	.t2017 .show,
 	.t2017 .season
-		{background:#6cc; color:#fff;}
+		{background:#66ccee; color:#000;}
 
 	.t2017 a,
 	.t2017 a:visited,
 	.t2017 a:hover
-		{color:#fff;}
+		{color:#000;}
 	.t2017 nav a:hover,
 	.t2017 article a:hover,
 	.t2017 footer a:hover
-		{background: #fff; color: #6cc;}
+		{background: #000; color: #66ccee;}
 
 	.t2017 .splash
 		{background:url(../images/header_turn16.jpg) center center}
