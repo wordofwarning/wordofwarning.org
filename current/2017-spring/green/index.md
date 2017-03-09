@@ -47,12 +47,12 @@ Work under the artistic direction of Nic Green is broad and comprehensive, spann
 >*A battering ram against the political establishment… For all its fury and exhaustion, it's also cathartic… A blistering, beautiful act.*<br><a href="http://www.whatsonstage.com/edinburgh-theatre/reviews/cock-and-bull-forest-fringe-festival-nic-green_41533.html" target="_blank">★★★★ Matt Trueman, What's On Stage</a>        
          
 #### Artist Workshop         
-***Voice, Pattern + Meaning*: Sat 18 Mar, 10am-4pm**        
+***Voice, Pattern + Meaning*: Saturday 18 March, 10am-4pm**        
 A practical workshop in The Studio at Royal Exchange Theatre — open to artists working across performance interested in experimenting with (speaking) voice, rhythm, deconstruction and vocal patterning + composition. Nic Green will share some processes connected with *Cock and Bull*, including influences and inspirations, techniques, exercises and ideas behind the work. Participants will apply these in their own way to create original performance experiments.        
         
 **How to attend the workshop**        
 First: you must be a member of RET's Open Exchange — membership is free and you can <a href="http://www.surveymonkey.co.uk/r/Open_Exchange" target="_blank">apply to join online</a>.         
-Then: register for the free artist workshop by emailing Davinia Jokhi at RET: <mailto:davinia.jokhi@royalexchange.co.uk> (N.B. capacity is limited to about 15).          
+Then: register for the free artist workshop by emailing Davinia Jokhi at RET via <mailto:davinia.jokhi@royalexchange.co.uk> (N.B. capacity is limited to about 15).          
 If you go: please wear comfortable clothing and bring water; should you have any specific or additional needs, please let Davinia know in advance so RET can be sure to accommodate these with awareness and sensitivity.              
             
 #### Credits          
