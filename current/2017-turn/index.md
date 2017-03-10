@@ -9,6 +9,7 @@ is_index: true
 artist: "Turn 2017" # the name of the artist or company
 show: "Micro-festival of new northern dance." # the name of the show
 show_size: 4
+season: "Turn 28|4|2017"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
