@@ -18,7 +18,7 @@ show_size: 4
 ---
 *Presented by* Word of Warning + Contact    
          
-### Friday 28 April 2017, 7.30pm<br>*plus Mixed Movement* Saturday 29 April, 7pm
+### Friday 28 April 2017, 7.30pm<br>*plus Mixed Movement: Saturday 29 April, 7pm*
 All the energy of this annual whirlwind of new northern dance condensed into just one (Friday) night. Fluidly lyrical, effervescently acrobatic or eccentrically innovative, let Turn transport you into a frenzy of dance.
            
 ### Artists        
