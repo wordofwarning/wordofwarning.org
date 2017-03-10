@@ -576,7 +576,7 @@
 		{background:url(../images/header_2017SprWrn_pine.jpg) -150px center}
 
 
-/* Haphazard 2017 yellow (needs new header)
+/* Haphazard 2017 yellow
 ------------------------------------------------------*/
 
 	.hh2017,
@@ -597,14 +597,14 @@
 	.hh2017 .splash
 		{background:url(../images/header_haphazard17.jpg) center center}
 
-/* Turn 2017 cyan-ish
+/* Turn 2017 cyan
 ------------------------------------------------------*/
 
 	.t2017,
 	.t2017 .artist, 
 	.t2017 .show,
 	.t2017 .season
-		{background:#66ccee; color:#000;}
+		{background:#6cc; color:#000;}
 
 	.t2017 a,
 	.t2017 a:visited,
@@ -613,8 +613,8 @@
 	.t2017 nav a:hover,
 	.t2017 article a:hover,
 	.t2017 footer a:hover
-		{background: #000; color: #66ccee;}
+		{background: #000; color: #6cc;}
 
 	.t2017 .splash
-		{background:url(../images/header_turn16.jpg) center center}
+		{background:url(../images/header_turn17.jpg) center center}
 
