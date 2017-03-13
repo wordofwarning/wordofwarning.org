@@ -21,7 +21,7 @@ season: "Haphazard 1|4|2017"
 ### Saturday 1 April 2017, 12noon-4pm. FREE             
 Intriguing images and offbeat oddities dotted around the historic <a href="http://www.z-arts.org/events/haphazard-2017" target="_blank">Z-arts</a> building with an April Fool's twist. Playful, quirky, engaging and sometimes plain daft: this is a free day out for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out.          
         
->*Turn up at any time; come + go as you please + expect the unexpected…*        
+*Turn up at any time; come + go as you please + expect the unexpected…*        
         
 #### Venue + Booking Details
 Date: Saturday 1 April 2017, 12noon-4pm    
