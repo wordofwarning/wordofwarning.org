@@ -23,7 +23,7 @@ season: "Turn 28|4|2017"
 All the energy of this annual whirlwind of new northern dance condensed into just one (Friday) night. Fluidly lyrical, effervescently acrobatic or eccentrically innovative, let Turn transport you into a frenzy of dance.
            
 ### Artists        
-In a new format, our ninth annual platform for dancers + dance-makers sees up to a dozen short new works on a single (Friday) night (*participating artists tba early April*); to get a feel for it, see Turn 2016's [programme](/archive/2016-turn) + [image gallery](/galleries/2016-turn).         
+In a new format, our ninth annual platform for dancers + dance-makers sees up to a dozen short new works on a single night with *participating artists tba in early April*. To get a feel for it, see Turn 2016's [programme](/archive/2016-turn) + [image gallery](/galleries/2016-turn).         
          
 #### Venue + Booking Details
 Date: Friday 28 April 2017, 7.30pm       
@@ -32,14 +32,14 @@ Date: Friday 28 April 2017, 7.30pm
 Box Office Tel: 0161 274 0600        
           
 #### What people have said about Turn          
->★★★★ *…a significant event in the annual calendar for audiences and creatives.*<a href="http://www.thepublicreviews.com/turn-2016-night-1-contact-manchester" target="_blank">The Public Reviews (2016)</a>             
+>★★★★ *…a significant event in the annual calendar for audiences and creatives.*<a href="http://www.thepublicreviews.com/turn-2016-night-1-contact-manchester" target="_blank"><br>The Public Reviews (2016)</a>             
 >• *Leaving feeling inspired… Eclectic, brilliant, vibrant.*<br>• *Fantastic combination of diverse performers… entertaining & engaging.*<br>• *Enjoyed the eclectic mix. A good way to sample dance, especially if you haven't seen a lot before.*<br>• *Great to see creative innovative new local work. Really good vibe.*<br>[Audience Feedback from 2016](/archive/2016-turn), [2015](/archive/2015-turn), [2014](/archive/2014-turn), [2013](/archive/2013-turn)            
          
 #### Access Information                 
-Turn 2017 takes place in a number of different spaces and formats around Contact's building — some seated, some standing, some limited capacity, some participatory. With intervals, Friday Night's programme will last up to 3 hours.<br>Age advisory: 12+ (parental/guardian discretion). For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.               
+Turn 2017 takes place in a number of different spaces and formats around Contact's building — some seated, some standing, some limited capacity, some participatory. With intervals, Friday night's programme will last up to 3 hours.<br>Age advisory: 12+ (parental/guardian discretion). For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.               
                           
 #### Credits         
-[Turn](/hab/turn) 2017 is co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a>, <a href="http://www.digm.org" target="_blank">Dance Manchester</a> + <a href="http://bit.ly/McrDanceConsortium" target="_blank">Manchester Dance Consortium</a>; supported using public funding by Arts Council England + funded by Manchester City Council. | Image: Holly Rush, Turn 2016         
+[Turn](/hab/turn) 2017 is co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a>, <a href="http://www.digm.org" target="_blank">Dance Manchester</a> + <a href="http://bit.ly/McrDanceConsortium" target="_blank">Manchester Dance Consortium</a>; supported using public funding by Arts Council England + funded by Manchester City Council. | Image: Holly Rush (Turn 2016)         
          
 #### Websites        
 <a href="http://turnmcr.org" target="_blank">turnmcr.org</a> | <a href="http://twitter.com/hashtag/TurnMcr" target="_blank">#TurnMcr</a>        
