@@ -6,7 +6,7 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Haphazard 2017" # the name of the artist or company
-show: "A free day out for the<br>curious of all ages<br>with an April Fool's twist." # the name of the show
+show: "A free day out for the<br>curious of all ages with<br>an April Fool's twist." # the name of the show
 artist_size: 1
 show_size: 3
 season: "Haphazard 1|4|2017" 
