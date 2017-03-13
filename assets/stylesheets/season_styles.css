@@ -584,6 +584,11 @@
 	.hh2017 .show,
 	.hh2017 .season
 		{background:#ffcd05; color:#000;}
+	
+	.hh2017	blockquote
+		{border-left-color:#639;}
+	.hh2017	blockquote, blockquote p
+		{color: #639;}
 
 	.hh2017 a,
 	.hh2017 a:visited,
@@ -607,9 +612,9 @@
 		{background:#6cc; color:#000;}
 	
 	.t2017	blockquote
-		{border-left-color:#666;}
+		{border-left-color:#066;}
 	.t2017	blockquote, blockquote p
-		{color: #666;}
+		{color: #066;}
 
 	.t2017 a,
 	.t2017 a:visited,
