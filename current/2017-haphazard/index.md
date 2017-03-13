@@ -6,7 +6,7 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Haphazard 2017" # the name of the artist or company
-show: "A free day out for the curious of all ages." # the name of the show
+show: "A free day out for the<br>curious of all ages." # the name of the show
 artist_size: 1
 show_size: 3
 season: "Haphazard 1|4|2017" 
@@ -21,7 +21,7 @@ season: "Haphazard 1|4|2017"
 ### Saturday 1 April 2017, 12noon-4pm. FREE             
 Intriguing images and offbeat oddities dotted around the historic <a href="http://www.z-arts.org/events/haphazard-2017" target="_blank">Z-arts</a> building with an April Fool's twist. Playful, quirky, engaging and sometimes plain daft: this is a free day out for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out.          
         
-*Turn up at any time; come + go as you please + expect the unexpected…*        
+>*Turn up at any time; come + go as you please + expect the unexpected…*        
         
 #### Venue + Booking Details
 Date: Saturday 1 April 2017, 12noon-4pm    
