@@ -12,7 +12,7 @@
 	blockquote
 		{border-left-color:#999;}
 	blockquote, blockquote p
-		{color: #999;}
+		{color:#999;}
 
 	a,
 	a:visited,
@@ -21,7 +21,7 @@
 	article a:hover,
 	footer a:hover,
 	nav a:hover
-		{background: #000; color: #fff;}
+		{background:#000; color:#fff;}
 		
 	a.splash:hover .artist
 		{background:#000; color:#fff;}
@@ -588,7 +588,7 @@
 	.hh2017	blockquote
 		{border-left-color:#609;}
 	.hh2017	blockquote, blockquote p
-		{color: #909;}
+		{color:#609;}
 
 	.hh2017 a,
 	.hh2017 a:visited,
@@ -597,7 +597,7 @@
 	.hh2017 nav a:hover,
 	.hh2017 article a:hover,
 	.hh2017 footer a:hover
-		{background: #000; color: #ffcd05;}
+		{background:#000; color:#ffcd05;}
 
 	.hh2017 .splash
 		{background:url(../images/header_haphazard17.jpg) center center}
@@ -614,7 +614,7 @@
 	.t2017	blockquote
 		{border-left-color:#066;}
 	.t2017	blockquote, blockquote p
-		{color: #066;}
+		{color:#066;}
 
 	.t2017 a,
 	.t2017 a:visited,
@@ -623,7 +623,7 @@
 	.t2017 nav a:hover,
 	.t2017 article a:hover,
 	.t2017 footer a:hover
-		{background: #000; color: #6cc;}
+		{background:#000; color:#6cc;}
 
 	.t2017 .splash
 		{background:url(../images/header_turn17.jpg) center center}
