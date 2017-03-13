@@ -605,6 +605,11 @@
 	.t2017 .show,
 	.t2017 .season
 		{background:#6cc; color:#000;}
+	
+	.t2017	blockquote
+		{border-left-color:#333;}
+	.t2017	blockquote, blockquote p
+		{color: #333;}
 
 	.t2017 a,
 	.t2017 a:visited,
@@ -617,4 +622,3 @@
 
 	.t2017 .splash
 		{background:url(../images/header_turn17.jpg) center center}
-
