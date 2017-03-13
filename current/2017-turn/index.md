@@ -7,7 +7,7 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Turn 2017" # the name of the artist or company
-show: "A whirlwind night of<br>new northern dance." # the name of the show
+show: "A whirlwind night of new northern dance." # the name of the show
 show_size: 3
 season: "Turn 28|4|2017"
 
