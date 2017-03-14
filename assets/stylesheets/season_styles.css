@@ -10,7 +10,7 @@
 		{background:#fff; color:#111;}
 
 	blockquote
-		{border-left-color:#f00;}
+		{border-left-color:#888;}
 	blockquote, blockquote p
 		{color:#888;}
 
@@ -584,9 +584,6 @@
 	.hh2017 .season
 		{background:#ffcd05; color:#000;}
 
-	.hh2017 blockquote, blockquote p
-		{color:#0f0;}
-
 	.hh2017 a,
 	.hh2017 a:visited,
 	.hh2017 a:hover
@@ -607,9 +604,6 @@
 	.t2017 .show,
 	.t2017 .season
 		{background:#6cc; color:#000;}
-
-	.t2017 blockquote, blockquote p
-		{color:#0ff;}
 
 	.t2017 a,
 	.t2017 a:visited,
