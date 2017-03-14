@@ -10,9 +10,9 @@
 		{background:#fff; color:#111;}
 
 	blockquote
-		{border-left-color:#f00;}
+		{border-left-color:#800;}
 	blockquote, blockquote p
-		{color:#0f0;}
+		{color:#880;}
 
 	a,
 	a:visited,
@@ -586,7 +586,7 @@
 		{background:#ffcd05; color:#000;}
 
 	.hh2017 blockquote
-		{border-left-color:#880;}
+		{border-left-color:#088;}
 	
 	.hh2017 blockquote, blockquote p
 		{color:#008;}
