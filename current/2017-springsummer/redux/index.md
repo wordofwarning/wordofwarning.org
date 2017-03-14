@@ -1,7 +1,7 @@
 ---
 
 # CONFIGURATION
-layout: 2016-springsummer
+layout: 2017-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
