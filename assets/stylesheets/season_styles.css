@@ -586,9 +586,10 @@
 		{background:#ffcd05; color:#000;}
 
 	.hh2017 blockquote
-		{border-left-color:#0ff}
+		{border-left-color:#880;}
+	
 	.hh2017 blockquote, blockquote p
-		{color:#00f;}
+		{color:#008;}
 
 	.hh2017 a,
 	.hh2017 a:visited,
