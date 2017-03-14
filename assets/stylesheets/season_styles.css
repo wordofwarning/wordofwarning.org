@@ -10,9 +10,9 @@
 		{background:#fff; color:#111;}
 
 	blockquote
-		{border-left-color:#999;}
+		{border-left-color:#f00;}
 	blockquote, blockquote p
-		{color:#999;}
+		{color:#0f0;}
 
 	a,
 	a:visited,
