@@ -575,7 +575,6 @@
 	.s2017 .splash
 		{background:url(../images/header_2017SprWrn_pine.jpg) -150px center}
 
-
 /* Haphazard 2017 yellow
 ------------------------------------------------------*/
 
@@ -623,3 +622,9 @@
 
 	.t2017 .splash
 		{background:url(../images/header_turn17.jpg) center center}
+
+/* Spring/Summer 2017 Programme (tbc, alternative tbc)
+------------------------------------------------------*/
+
+	.ss2017 .splash
+		{background:url(../images/header_2017SprWrn_leaf.jpg) -150px center}
