@@ -5,4 +5,4 @@ header_image: "assets/images/header_2017SprWrn_pine.jpg"
 season: homepage
 
 ---
-#### [Spring](/current/2017-spring) continues with: [Nic Green &co](/current/2017-spring/green)'s alternative party conference at Royal Exchange Theatre (*Thu 16 — Sat 18 Mar, 7.30pm*); [Haphazard](/current/2017-haphazard)'s free April Fool's afternoon for the curious of all ages at Z-arts (*Sat 1 Apr*); [Turn](/current/2017-turn)'s whirlwind of dance at Contact (*Fri 28 Apr, 7.30pm*).
+#### [Spring](/current/2017-spring) continues with: [Nic Green](/current/2017-spring/green)'s alternative party conference at Royal Exchange Theatre (*Thu 16 — Sat 18 Mar, 7.30pm*); [Haphazard](/current/2017-haphazard)'s free April Fool's afternoon for the curious of all ages at Z-arts (*Sat 1 Apr, 12-4*); [Turn](/current/2017-turn)'s whirlwind of dance at Contact (*Fri 28 Apr, 7.30pm*).
