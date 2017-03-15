@@ -28,7 +28,7 @@ In a new format, our ninth annual platform for dancers + dance-makers sees up to
 #### Venue + Booking Details
 Date: Friday 28 April 2017, 7.30pm       
 <a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact</a>, Oxford Road, Manchester, M15 6JA         
-<a href="http://contactmcr.com/whats-on" target="_blank">Tickets: £9/5</a> | *<a href="http://www.contactmcr.com/ticketoffers" target="_blank">Ticket offers are available at Contact</a>, please see below.*       
+<a href="http://contactmcr.com/whats-on/69492-turn-2017/booking" target="_blank">Tickets: £9/5</a> | *<a href="http://www.contactmcr.com/ticketoffers" target="_blank">Ticket offers are available at Contact</a>, please see below.*       
 Box Office Tel: 0161 274 0600        
           
 #### What people have said about Turn          
