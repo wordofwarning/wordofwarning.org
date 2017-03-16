@@ -24,9 +24,8 @@ Conceived for the eve of the 2015 General Election — part protest, part cathar
          
 Read their May 2016 <a href="http://www.theguardian.com/stage/2016/may/17/cock-and-bull-political-slogans-rosana-cade-laura-bradshaw-nic-green" target="_blank">article</a> in The Guardian; *Cock and Bull* in Manchester is a <a href="theguardian.com/stage/theatreblog/2017/mar/13/plan-your-weeks-theatre-top-tickets-david-tennant-don-juan" target="_blank">Lyn Gardner</a> top theatre ticket.        
          
-#### Venue + Booking Details    
-PLEASE NOTE TICKETS ARE SELLING FAST WITH AVAILABILITY ON SATURDAY ONLY
-Dates: (*Thursday 16 + Friday 17 sold-out*) Saturday 18 March 2017, 7.30pm        
+#### Venue + Booking Details        
+Dates: (*Thursday 16 / Friday 17 sold-out*) Saturday 18 March 2017, 7.30pm        
 <a href="http://www.royalexchange.co.uk/where-how-to-find-us" target="_blank">Venue: The Studio at Royal Exchange Theatre</a>, St Ann's Square, Manchester M2 7DH             
 <a href="http://www.royalexchange.co.uk/whats-on-and-tickets/cock-and-bull" target="_blank">Tickets: £12/10</a> (*Friday only: £6 tickets available for students/under 26.*)         
 Box Office Tel: 0161 833 9833         
