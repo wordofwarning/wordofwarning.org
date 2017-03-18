@@ -22,7 +22,7 @@ season: "Nic Green 16-18|3|2017"
 #### In Brief       
 Conceived for the eve of the 2015 General Election — part protest, part catharsis, part exorcism: an alternative party conference to redress the balance of power.           
          
-Read their May 2016 <a href="http://www.theguardian.com/stage/2016/may/17/cock-and-bull-political-slogans-rosana-cade-laura-bradshaw-nic-green" target="_blank">article</a> in The Guardian; *Cock and Bull* in Manchester is a <a href="theguardian.com/stage/theatreblog/2017/mar/13/plan-your-weeks-theatre-top-tickets-david-tennant-don-juan" target="_blank">Lyn Gardner</a> top theatre ticket + was reviewed by <a href="http://quietmandave.co.uk/2017/03/cock-and-bull" target="_blank">QuietManDave</a>.        
+Read their May 2016 <a href="http://www.theguardian.com/stage/2016/may/17/cock-and-bull-political-slogans-rosana-cade-laura-bradshaw-nic-green" target="_blank">article</a> in The Guardian. *Cock and Bull* in Manchester is a <a href="theguardian.com/stage/theatreblog/2017/mar/13/plan-your-weeks-theatre-top-tickets-david-tennant-don-juan" target="_blank">Lyn Gardner</a> top theatre ticket; reviewed by <a href="http://exeuntmagazine.com/reviews/review-cock-bull-royal-exchange-manchester" target="_blank">Exeunt</a> + <a href="http://quietmandave.co.uk/2017/03/cock-and-bull" target="_blank">QuietManDave</a>.        
          
 #### Venue + Booking Details        
 Dates: (*Thursday 16 / Friday 17 sold-out*) Saturday 18 March 2017, 7.30pm        
