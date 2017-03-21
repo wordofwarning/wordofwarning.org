@@ -38,7 +38,7 @@ To get a feel for it have a look at [2016](/galleries/2016-haphazard)/[2015](/ga
 Age advisory: suitable for ALL. Haphazard 2017 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some parts of the Z-arts building are not wheelchair accessible. For specific age + access information please email <mailto:haphazard@habmcr.org> or call 0161 232 6086.        
         
 #### More        
-To date, Haphazard has seen ping pong balls and squeaky toys; human dogs, cats, giant rats and the Gendersaurus Rex; hula-hooping and human quoits; a giant periscope, a golden toilet and a tiny bee-shaped world — why not join us to see what 2017 will conjure?          
+To date, Haphazard has seen ping pong balls and squeaky toys; human dogs, cats, giant rats and the Gendersaurus Rex; hula-hooping and human quoits; a giant periscope, a golden toilet and a tiny bee-shaped world — why not join us to see what 2017 will conjure? *Sing-a-long with a fish, walk like Sponge Bob, dance with a bear or play a trick on your friends…*           
              
 #### What people have said about Haphazard        
 >• *Bizarre surreal fun. Creative. Very interactive. Unpredicatable.*<br>• *Quirky performances, lots going on. First-timer here, would come back.*<br>• *Better than Shrek the Musical… freedom to explore & children to play. Brilliant!*<br>[Audience Feedback from 2016](/archive/2016-haphazard)        
