@@ -25,6 +25,7 @@ gallery:
     -   {file: "natalieramus.jpg", artist: "Natalie Ramus; <small>image Garry Cook</small>"}
     -   {file: "tonipaul.jpg", artist: "Toni-Dee Paul"}
     -   {file: "rowlandhillsheen.jpg", artist: "Rowland-Hill + Jack Sheen; <small>image Garry Cook</small>"}
+    -   {file: "inst_diss.jpg", artist: "Instant Dissidence; <small>image Garry Cook</small>"}
     -   {file: "theatre42.jpg", artist: "Theatre 42"}
     -   {file: "aliwilson.jpg", artist: "Ali Wilson"}
     -   {file: "tincanpeople.jpg", artist: "Tin Can People"}
