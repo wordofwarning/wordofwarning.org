@@ -22,7 +22,7 @@ season: "Nic Green 16-18|3|2017"
 #### In Brief       
 Conceived for the eve of the 2015 General Election — part protest, part catharsis, part exorcism: an alternative party conference to redress the balance of power.           
          
-Read their May 2016 <a href="http://www.theguardian.com/stage/2016/may/17/cock-and-bull-political-slogans-rosana-cade-laura-bradshaw-nic-green" target="_blank">article</a> in The Guardian. *Cock and Bull* in Manchester is a <a href="theguardian.com/stage/theatreblog/2017/mar/13/plan-your-weeks-theatre-top-tickets-david-tennant-don-juan" target="_blank">Lyn Gardner</a> top theatre ticket; reviewed by <a href="http://exeuntmagazine.com/reviews/review-cock-bull-royal-exchange-manchester" target="_blank">Exeunt</a> + <a href="http://quietmandave.co.uk/2017/03/cock-and-bull" target="_blank">QuietManDave</a>.        
+Read their May 2016 <a href="http://www.theguardian.com/stage/2016/may/17/cock-and-bull-political-slogans-rosana-cade-laura-bradshaw-nic-green" target="_blank">article</a> in The Guardian.           
          
 #### Venue + Booking Details        
 Dates: (*Thursday 16 / Friday 17 sold-out*) Saturday 18 March 2017, 7.30pm        
@@ -45,6 +45,8 @@ Work under the artistic direction of Nic Green is broad and comprehensive, spann
          
 #### What people have said about *Cock and Bull*         
 >*A battering ram against the political establishment… For all its fury and exhaustion, it's also cathartic… A blistering, beautiful act.*<br><a href="http://www.whatsonstage.com/edinburgh-theatre/reviews/cock-and-bull-forest-fringe-festival-nic-green_41533.html" target="_blank">★★★★ Matt Trueman, What's On Stage</a>        
+         
+*Cock and Bull* in Manchester was a <a href="theguardian.com/stage/theatreblog/2017/mar/13/plan-your-weeks-theatre-top-tickets-david-tennant-don-juan" target="_blank">Lyn Gardner</a> top theatre ticket and reviewed by <a href="http://exeuntmagazine.com/reviews/review-cock-bull-royal-exchange-manchester" target="_blank">Exeunt</a> + <a href="http://quietmandave.co.uk/2017/03/cock-and-bull" target="_blank">QuietManDave</a>.          
          
 #### Artist Workshop         
 ***Voice, Pattern + Meaning*: Saturday 18 March, 10am-4pm**        
