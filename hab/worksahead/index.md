@@ -28,7 +28,7 @@ Our **[fourth Works Ahead](/archive/2015-worksahead)** took place in April 2015 
            
 Our **[fifth Works Ahead](/archive/2016-worksahead)** took place in June 2016 at Contact, with two very different double bills from four artists at different stages in their careers: Terri Donovan + Afreena Islam; Top Joe + Lucy McCormick. On different stages, at different scales… See their [image gallery](/galleries/2016-woah).             
           
-Our **sixth Works Ahead** takes place in May 2017 with two venues hosting four different artists: Tom Cassani + Toni-Dee Paul at Contact, Chanje Kunda at STUN Studio (within Z-arts) and work developed by Jamil Keating potentially also being shown within Z-arts.             
+Our **sixth Works Ahead** takes place in May 2017 with two nights in two venues featuring four artists: Tom Cassani + Toni-Dee Paul's double-bill at Contact, with Chanje Kunda at STUN Studio at Z-arts alongside Jamil Keating's limited capacity free experience.             
           
 Works Ahead 2017 is co-commissioned/produced by hÅb + Contact; co-presented by STUN; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentor: Peader Kirk        
 <a href="http://worksahead.org" target="_blank">worksahead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
