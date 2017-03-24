@@ -16,7 +16,7 @@ gallery:
     -   {file: "sav.jpg", artist: "Chris Sav"}
     -   {file: "specs.jpg", artist: "Megan Egglestein"}
     -   {file: "cagedqueen.jpg", artist: "Philip Breadney"}
-    -   {file: "delpha.jpg", artist: "Delta Hudson + Nigel Bispham"}
+    -   {file: "delpha.jpg", artist: "Delpha Hudson + Nigel Bispham"}
     -   {file: "funnywalks.jpg", artist: "Natalie Wearden + Indigo Branscombe"}
     -   {file: "glitterball.jpg", artist: "Michael Gleave"}
     -   {file: "nsmith.jpg", artist: "Nicola Smith"} 
