@@ -30,7 +30,7 @@ Tickets: FREE, no ticket booking required, come + go as you please (*N.B. some a
 Venue Tel: 0161 232 6089            
         
 #### Artists + Activity (*subject to change*)        
-AAA Batteries | Benjamin McChrystal Plimmer | Chris Sav | Delpha Hudson + Nigel Bispham | Grace Surman + Clare Dearnaley | Lani Irving + Chloe Smith | Megan Egglestein | Michael Gleave | Natalie Wearden + Indigo Branscombe | Nicola Smith | Philip Breadney | Rebekka Platt        
+AAA Batteries | Benjamin McChrystal Plimmer | Chris Sav | Delpha Hudson + Nigel Bispham | Grace Surman + Clare Dearnaley | Lani Irving + Chloë Smith | Megan Egglestein | Michael Gleave | Natalie Wearden + Indigo Branscombe | Nicola Smith | Philip Breadney | Rebekka Platt        
         
 To get a feel for it have a look at [2016](/galleries/2016-haphazard)/[2015](/galleries/2015-haphazard)/[2013](/galleries/2013-haphazard)'s image galleries and to get an idea of what's gone before see [2016](/archive/2016-haphazard)/[2015](/archive/2015-haphazard)/[2013](/archive/2013-spring/haphazard)'s archives.        
         
@@ -51,4 +51,4 @@ Haphazard 2017 is a <a href="http://www.manchesterconfidential.co.uk/entertainme
 [Haphazard](/hab/haphazard) 2017 is produced by hÅb + Z-arts; supported using public funding by Arts Council England, funded by Manchester City Council + supported by the Paul Hamlyn Foundation. | Image: Chris Sav        
 
 #### Websites        
-<a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | <a href="http://twitter.com/hashtag/Haphazard" target="_blank">#Haphazard</a> | <a href="http://facebook.com/events/274998376255183" target="_blank">Hap' Facebook event</a>
+<a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | <a href="http://twitter.com/hashtag/Haphazard" target="_blank">#Haphazard</a> | <a href="http://facebook.com/events/274998376255183" target="_blank">Haphazard 2017 Facebook event</a>
