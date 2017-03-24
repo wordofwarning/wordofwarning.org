@@ -24,7 +24,7 @@ Date: Saturday 1 April 2017, 12noon-4pm
 Tickets: FREE, no ticket booking required, come + go as you please (*N.B. some activity may operate on a first-come, first-served basis.*)         
 Venue Tel: 0161 232 6089        
         
-### Activity All Afternoon from 12noon to 4pm (*artists subject to change*)        
+### Activity All Afternoon (*artists subject to change*)        
 **AAA Batteries | *Pesky Poissons***        
 On April 1st the French find fish not fools… in this twist on the francophile, find a hidden fish, complete a task and who knows what you might find… the fool who dares wins.        
         
@@ -65,14 +65,14 @@ Lucky Gills is the most liberating, heart-racing, life-affirming karaoke experie
 After shaping your vision — however colourful, sparkly, or fuzzy — Megan reveals the true power of political gesture in a speech without words.            
 <a href="http://www.meggj.com" target="_blank">www.meggj.com</a>        
         
-**At 2pm & 3.15pm<br>Nicola Smith | *#work***        
-Roll up, roll up and watch the Smith family spin a plate, wear trick slippers, drop toy cars off a ladder, and magic stick letters to the wall. Rose-tinted spectacles available!<br>ALSO: between 2.15pm & 3.15pm, drop by and have a go at spinning a plate in *#workshop*.        
-<a href="http://nsartist.myportfolio.com"target="_blank">nsartist.myportfolio.com</a> | <a href="http://twitter.com/nsartist34" target="_blank">@nsartist34</a> + <a href="http://twitter.com/family_resident" target="_blank">@family_resident</a>           
+**At 2pm + 3.15pm<br>Nicola Smith | *#work***        
+Roll up, roll up and watch the Smith family spin a plate, wear trick slippers, drop toy cars off a ladder, and magic stick letters to the wall. Rose-tinted spectacles available!<br>Also, from 2.15pm to 3.15pm drop by and have a go at spinning a plate in *#workshop*.        
+<a href="http://nsartist.myportfolio.com" target="_blank">nsartist.myportfolio.com</a> | <a href="http://twitter.com/nsartist34" target="_blank">@nsartist34</a> + <a href="http://twitter.com/family_resident" target="_blank">@family_resident</a>           
                
-**From 2.30 to 3.15pm & from 3.30pm to 4pm<br>Grace Surman + Clare Dearnaley | *Film with Hope***          
-A nine-year-old child speaks to us directly about her lifetime work of raising her mother. (*NB 15-minute video on loop.*)        
+**From 2.30pm to 3.15pm + from 3.30pm to 4pm<br>Grace Surman + Clare Dearnaley | *Film with Hope***          
+A nine-year-old child speaks to us directly about her lifetime work of raising her mother. (NB 15-minute video on loop.)        
         
-**From 2.30pm to 4pm<br>Michael Gleave | *Space Adex***
+**From 2.30pm to 4pm<br>Michael Gleave | *Space Adex***          
 "I've been dying for years. We're all dying."<br>It's a funeral for everyone, but a funeral with a twist… the world's first karaoke disco-funeral, with added glitter.<br>Michael is a member of Proud & Loud Arts.          
 <a href="http://www.proudandloudarts.com/cells-a-body-of-work" target="_blank">www.proudandloudarts.com</a> | <a href="http://facebook.com/proudandloudarts" target="_blank">Proud & Loud Arts on Facebook</a> | <a href="http://twitter.com/proudandloudart" target="_blank">@proudandloudart</a>            
              
