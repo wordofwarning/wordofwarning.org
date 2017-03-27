@@ -18,9 +18,9 @@ season: "Works Ahead 11+12|5|2017"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, Contact + STUN (Sustained Theatre Up North)
+*Presented by* Word of Warning, Contact + STUN
          
-### Thursday 11 + Friday 12 May 2017, 7.30pm        
+### Thursday 11 + Friday 12 May 2017        
 **Two nights, two venues, four new works in development.**          
 Our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content.        
 2016's [Divergency](/archive/2016-divergency) + [Emergency](/archive/2016-emergency) saw over thirty emerging performances — from this enormous variety of work we've invited four artists at different stages in their careers to further develop their shows for Works Ahead 2017…        
@@ -47,9 +47,7 @@ Box Office Tel: 0161 274 0600 (Contact)
          
 <a href="http://quietmandave.co.uk/2016/06/works-ahead" target="_blank">QuietManDave (2016 review)</a>
         
->• *Great to see new work by younger artists.*
->• *Brilliant works in progress, varied and interesting.*        
->• *I enjoyed both shows even though they were very different. I look forward to seeing how they develop.*          
+>• *Great to see new work by younger artists.<br>• *Brilliant works in progress, varied and interesting.<br>• *I enjoyed both shows even though they were very different. I look forward to seeing how they develop.*          
         
 Audience feedback from [2016](/archive/2016-worksahead)/[15](/archive/2015-worksahead)        
           
