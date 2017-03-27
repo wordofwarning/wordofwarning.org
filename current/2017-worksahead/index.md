@@ -24,15 +24,15 @@ season: "Works Ahead 11+12|5|2017"
 **Two nights, two venues, four new works in development…**          
 Our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content. Autumn 2016's [Divergency](/archive/2016-divergency) + [Emergency](/archive/2016-emergency) saw over thirty emerging performances — from this enormous variety of work we've invited four artists at different stages in their careers to further develop their shows for Works Ahead 2017…        
          
-#### *at Contact, 7.30pm. £7/4 each night*        
-***My Father's Kitchen*: Toni-Dee Paul**<br>Food, family, memories and the meaning of 'home'.        
-***Someone Loves You Drive With Care*: Tom Cassani**<br>A deceptive exposé of deception itself.        
+#### at Contact, 7.30pm. £7/4 each night        
+***My Father's Kitchen* — Toni-Dee Paul**<br>Food, family, memories and the meaning of 'home'.        
+***Someone Loves You Drive With Care* — Tom Cassani**<br>A deceptive exposé of deception itself.        
         
-#### *at STUN Studio at Z-arts: 7.30pm. £7/4 each night*        
-***Superposition*: Chanje Kunda**<br>Science, sensuality, spirituality, self…        
-***Asteroid RK1*: Jamil Keating †**<br>Comets in the night sky and care in the city.<br><small>[† Limited capacity; free with Superposition ticket.]</small>         
+#### at STUN Studio at Z-arts: 7.30pm. £7/4 each night        
+***Superposition* — Chanje Kunda**<br>Science, sensuality, spirituality, self…        
+***Asteroid RK1* — Jamil Keating**<br>Comets in the night sky and care in the city.<small>[Limited capacity; free with *Superposition*.]</small>         
          
-*See both nights (i.e. all four Works Ahead, in two venues) for £13/7*
+See both nights (i.e. all four Works Ahead, in two venues) for £13/7
 
 #### Venues + Booking Details        
 Dates: Thursday 11 + Friday 12 May 2017, 7.30pm          
