@@ -33,7 +33,7 @@ Our annual sampler of what's next in contemporary performance and live art — p
 ***Superposition* — Chanje Kunda**<br>Science, sensuality, spirituality, self…        
 ***Asteroid RK1* — Jamil Keating**<br>Comets in the night sky and care in the city.<small> Limited capacity; free with *Superposition*.</small>         
          
-**See both nights for £13/7**
+**See both nights for £13/7.**
 
 #### Venues + Booking Details        
 Dates: Thursday 11 + Friday 12 May 2017, 7.30pm          
@@ -43,12 +43,15 @@ Dates: Thursday 11 + Friday 12 May 2017, 7.30pm
 Box Office Tel: 0161 274 0600 (Contact)        
           
 #### What people have said about Works Ahead        
->*Maybe not what you'd regard as traditional 'theatre', but compelling nonetheless …make you think that anything could happen in the performance space.*
-<a href="http://quietmandave.co.uk/2016/06/works-ahead" target="_blank">[QuietManDave (2016 review)]</a>
+>*Maybe not what you'd regard as traditional 'theatre', but compelling nonetheless …make you think that anything could happen in the performance space.*         
+         
+<a href="http://quietmandave.co.uk/2016/06/works-ahead" target="_blank">QuietManDave (2016 review)</a>
+        
 >• *Great to see new work by younger artists.*
 >• *Brilliant works in progress, varied and interesting.*        
 >• *I enjoyed both shows even though they were very different. I look forward to seeing how they develop.*          
-Audience feedback from [2016](/archive/2016-worksahead)/[15](/archive/2015-worksahead)
+        
+Audience feedback from [2016](/archive/2016-worksahead)/[15](/archive/2015-worksahead)        
           
 #### Access Information        
 Age advisory: 18+ (parental/guardian discretion) For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
