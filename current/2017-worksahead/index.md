@@ -9,7 +9,7 @@ is_index: true
 artist: "Works Ahead 2017" # the name of the artist or company
 show: "Annual new performance sampler." # the name of the show
 artist_size: 2
-show_size: 3
+show_size: 4
 season: "Works Ahead 11+12|5|2017"
 
 # ABOUT THE SHOW - LAYOUT
@@ -18,41 +18,27 @@ season: "Works Ahead 11+12|5|2017"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, Contact + STUN
+*Presented by* Word of Warning, Contact + STUN (Sustained Theatre Up North)
          
 ### Thursday 11 + Friday 12 May 2017, 7.30pm        
-**NEW TAG LINE REQ'D HERE…**          
-New copy here too = make up our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content. [Autumn 2016](/archive/2016-autumnwinter) saw Word of Warning show over 40?? emerging performances in spaces ranging from a building site to a theatre… From this enormous variety of work we have invited four artists at different stages in their careers to further develop their shows for Works Ahead 2017. They're all at the very beginning of their explorations…        
-        
-**Contact Edition, 7.30pm. £6/3?** 
-COPY double bill from Tom Cassani + Toni-Dee Paul.        
+**Two nights, two venues, four new works in development…**          
+Our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content. Autumn 2016's [Divergency](/archive/2016-divergency) + [Emergency](/archive/2016-emergency) saw over thirty emerging performances — from this enormous variety of work we've invited four artists at different stages in their careers to further develop their shows for Works Ahead 2017…        
          
-**STUN Edition, 7.30pm. £6/3?**          
-COPY from Chanje Kunda, with a limited capacity extra from Jamil Keating.         
-          
-#### Artists        
-**Tom Cassani (Contact Edition, part 1)**           
-copy            
-          
-**Toni-Dee Paul (Contact Edition, part 2 )**          
-copy             
-           
-**Chanje Kunda (STUN Edition)**             
-copy      
-          
-**Jamil Keating (STUN Edition, limited capacity extra)**         
-Post-popular prodigy Lucy McCormick and her Girl Squad present a trashstep-dubpunk morality play for the modern age. Casting herself in all the main roles, Lucy will attempt to re-connect to her own moral conscience by re-enacting old biblical stories via a nu-wave holy trinity of dance, power ballads and performance art. With trademark absurdism and enthusiasm, Lucy puts her best foot forward in the face of existential deadlock.          
-            
-#### Venue + Booking Details for Contact Edition        
+***at Contact Edition, 7.30pm. £7/4 each night***        
+***My Father's Kitchen* Toni-Dee Paul**<br>Food, family, memories and the meaning of 'home'.        
+***Someone Loves You Drive With Care* Tom Cassani**<br>A deceptive exposé of deception itself.        
+        
+***at STUN Studio at Z-arts: 7.30pm. £7/4 each night***        
+***Superposition* Chanje Kunda**<br>Science, sensuality, spirituality, self…        
+***Asteroid RK1* Jamil Keating †**<br>Comets in the night sky and care in the city.<br><small>[† Limited capacity; free with Superposition ticket.]</small>         
+         
+*See both nights (i.e. all four Works Ahead, in two venues) for £13/7*
+
+#### Venues + Booking Details        
 Dates: Thursday 11 + Friday 12 May 2017, 7.30pm          
-<a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact</a>, Oxford Road, Manchester, M15 6JA         
-<a href="http://contactmcr.com/whats-on//booking" target="_blank">Tickets: £6/3</a>               
-Box Office Tel: 0161 274 0600        
-       
-#### Venue + Booking Details for STUN Edition        
-Dates: Thursday 11 + Friday 12 May 2017, 7.30pm          
-<a href="" target="_blank">Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
-<a href="http://contactmcr.com/whats-on//booking" target="_blank">Tickets: £6/3</a> (via Contact)               
+<a href="http://contactmcr.com/visit/getting-here" target="_blank">First Venue: Contact</a>, Oxford Road, Manchester, M15 6JA        
+<a href="" target="_blank">Second Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
+<a href="http://contactmcr.com/whats-on//booking" target="_blank">Tickets: £7/4 each night OR £13/7 both nights</a> (via Contact)               
 Box Office Tel: 0161 274 0600 (Contact)        
           
 #### What people have said about Works Ahead        
@@ -62,8 +48,8 @@ Box Office Tel: 0161 274 0600 (Contact)
 [Audience feedback from 2015](/archive/2015-worksahead)
           
 #### Access Information        
-Age advisory: Contact Edition ***??+*** (parental/guardian discretion); STUN Edition ***??+***. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
+Age advisory: 18+ (parental/guardian discretion) For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
           
 #### Credits         
-[Works Ahead](/hab/worksahead) 2017 is co-commissioned and produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + STUN (Sustained Theatre Up North); supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentors: Matt Fenton + Peader Kirk        
+[Works Ahead](/hab/worksahead) 2017 is co-commissioned + produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentors: Matt Fenton + Peader Kirk        
 <a href="http://worksahead.org" target="_blank">worksahead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
