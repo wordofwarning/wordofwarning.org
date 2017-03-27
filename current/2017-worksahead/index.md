@@ -47,7 +47,7 @@ Box Office Tel: 0161 274 0600 (Contact)
          
 <a href="http://quietmandave.co.uk/2016/06/works-ahead" target="_blank">QuietManDave (2016 review)</a>
         
->• *Great to see new work by younger artists.<br>• *Brilliant works in progress, varied and interesting.<br>• *I enjoyed both shows even though they were very different. I look forward to seeing how they develop.*          
+>• *Great to see new work by younger artists.<br>• Brilliant works in progress, varied and interesting.<br>• I enjoyed both shows even though they were very different. I look forward to seeing how they develop.*          
         
 Audience feedback from [2016](/archive/2016-worksahead)/[15](/archive/2015-worksahead)        
           
