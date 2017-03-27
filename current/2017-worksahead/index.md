@@ -21,8 +21,9 @@ season: "Works Ahead 11+12|5|2017"
 *Presented by* Word of Warning, Contact + STUN (Sustained Theatre Up North)
          
 ### Thursday 11 + Friday 12 May 2017, 7.30pm        
-**Two nights, two venues, four new works in development…**          
-Our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content. Autumn 2016's [Divergency](/archive/2016-divergency) + [Emergency](/archive/2016-emergency) saw over thirty emerging performances — from this enormous variety of work we've invited four artists at different stages in their careers to further develop their shows for Works Ahead 2017…        
+**Two nights, two venues, four new works in development.**          
+Our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content.        
+2016's [Divergency](/archive/2016-divergency) + [Emergency](/archive/2016-emergency) saw over thirty emerging performances — from this enormous variety of work we've invited four artists at different stages in their careers to further develop their shows for Works Ahead 2017…        
          
 #### at Contact, 7.30pm. £7/4 each night        
 ***My Father's Kitchen* — Toni-Dee Paul**<br>Food, family, memories and the meaning of 'home'.        
@@ -30,9 +31,9 @@ Our annual sampler of what's next in contemporary performance and live art — p
         
 #### at STUN Studio at Z-arts: 7.30pm. £7/4 each night        
 ***Superposition* — Chanje Kunda**<br>Science, sensuality, spirituality, self…        
-***Asteroid RK1* — Jamil Keating**<br>Comets in the night sky and care in the city.<small>[Limited capacity; free with *Superposition*.]</small>         
+***Asteroid RK1* — Jamil Keating**<br>Comets in the night sky and care in the city.<small> Limited capacity; free with *Superposition*.</small>         
          
-See both nights (i.e. all four Works Ahead, in two venues) for £13/7
+**See both nights for £13/7**
 
 #### Venues + Booking Details        
 Dates: Thursday 11 + Friday 12 May 2017, 7.30pm          
@@ -42,10 +43,12 @@ Dates: Thursday 11 + Friday 12 May 2017, 7.30pm
 Box Office Tel: 0161 274 0600 (Contact)        
           
 #### What people have said about Works Ahead        
+>*Maybe not what you'd regard as traditional 'theatre', but compelling nonetheless …make you think that anything could happen in the performance space.*
+<a href="http://quietmandave.co.uk/2016/06/works-ahead" target="_blank">[QuietManDave (2016 review)]</a>
+>• *Great to see new work by younger artists.*
 >• *Brilliant works in progress, varied and interesting.*        
->• *Good to see a space for something a bit different.*        
 >• *I enjoyed both shows even though they were very different. I look forward to seeing how they develop.*          
-[Audience feedback from 2015](/archive/2015-worksahead)
+Audience feedback from [2016](/archive/2016-worksahead)/[15](/archive/2015-worksahead)
           
 #### Access Information        
 Age advisory: 18+ (parental/guardian discretion) For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
