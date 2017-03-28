@@ -20,10 +20,9 @@ season: "Works Ahead 11+12|5|2017"
 ---
 *Presented by* Word of Warning, Contact + STUN
          
-### Thursday 11 + Friday 12 May 2017        
-**Two nights, two venues, four new works in development.**          
-Our annual sampler of what's next in contemporary performance and live art — pushing the boundaries of form and content.        
-2016's [Divergency](/archive/2016-divergency) + [Emergency](/archive/2016-emergency) saw over thirty emerging performances — from this enormous variety of work we've invited four artists at different stages in their careers to further develop their shows for Works Ahead 2017…        
+### Thursday 11 + Friday 12 May 2017, 7.30pm        
+**Home + homelessness, trust + trickery, science + sensuality…**
+From the very edges of deception to the comfort blanket of the home-cooked, outer space to inner city streets, our annual sampler of new performance brings two nights, two venues, four new works in development:             
          
 #### at Contact, 7.30pm. £7/4 each night        
 ***My Father's Kitchen* — Toni-Dee Paul**<br>Food, family, memories and the meaning of 'home'.        
