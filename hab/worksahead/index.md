@@ -7,7 +7,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Works Ahead" # the name of the artist or company
 header_image: "header_woah_photo.jpg"   
-
+season: "Works Ahead"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -28,7 +28,7 @@ Our **[fourth Works Ahead](/archive/2015-worksahead)** took place in April 2015 
            
 Our **[fifth Works Ahead](/archive/2016-worksahead)** took place in June 2016 at Contact, with two very different double bills from four artists at different stages in their careers: Terri Donovan + Afreena Islam; Top Joe + Lucy McCormick. On different stages, at different scales… See their [image gallery](/galleries/2016-woah).             
           
-Our **sixth Works Ahead** takes place in May 2017 with two nights in two venues featuring four artists: Tom Cassani + Toni-Dee Paul's double-bill at Contact, with Chanje Kunda at STUN Studio at Z-arts alongside Jamil Keating's limited capacity free experience.             
+Our **[sixth Works Ahead](/current/2017-worksahead)** takes place in May 2017 with two nights in two venues featuring four artists: Tom Cassani + Toni-Dee Paul's double-bill at Contact, with Chanje Kunda at STUN Studio at Z-arts alongside Jamil Keating's limited capacity free experience.             
           
-Works Ahead 2017 is co-commissioned/produced by hÅb + Contact; co-presented by STUN; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentor: Peader Kirk        
-<a href="http://worksahead.org" target="_blank">worksahead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
+Works Ahead 2017 is co-commissioned/co-produced by hÅb + Contact; supported by STUN; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentors: Matt Fenton + Peader Kirk        
+<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
