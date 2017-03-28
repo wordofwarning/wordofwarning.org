@@ -7,9 +7,9 @@ is_index: true
 season: "Spring/Summer 2017"
 
 ---
-*From [T](/current/2017-turn) to [WA](/current/2017-worksahead); [SR](/current/2017-springsummer/ridings) to [RDD](/current/2017-springsummer/redux)…*        
-        
-Brought to you by hÅb — with Contact, Dance Manchester, HOME, The Lowry, Mcr Dance Consortium, MIF, STUN, Z-arts — we look forward to seeing you at some or all of Spring/Summer 2017. If you want to check out what happened last season take a look at our [Spring 2017 archive](/current/2017-spring), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=147497048277" target="_blank">online survey</a>.        
+*From [the very edges of deception to the comfort blanket of the home-cooked; outer space to inner city streets](/current/2017-worksahead); [corporeal virtuosity](/current/2017-turn) to [capital vengeance](/current/2017-springsummer/ridings) — capped off with [the ultimate red carpet event](/current/2017-springsummer/redux). Dress to impress…*        
+         
+Brought to you by hÅb — with Contact, Dance Manchester, Manchester Dance Consortium, STUN, The Lowry, HOME — we look forward to seeing you at some or all of Spring/Summer 2017. If you want to check out what happened last season take a look at our [Spring 2017 archive](/current/2017-spring), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=147497048277" target="_blank">online survey</a>.        
              
 #### What is Word of Warning + where did it come from?         
 >*Consistently refreshing and surprising, no season is ever the same…*          
