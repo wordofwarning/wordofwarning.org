@@ -36,13 +36,15 @@ From the very edges of deception to the comfort blanket of the home-cooked, oute
 
 #### Venues + Booking Details        
 Dates: Thursday 11 + Friday 12 May 2017, 7.30pm          
-<a href="http://contactmcr.com/visit/getting-here" target="_blank">1st Venue: Contact</a>, Oxford Road, Manchester, M15 6JA        
-<a href="http://contactmcr.com/whats-on/72092-works-ahead-at-contact/booking" target="_blank">Tickets: £7/4 each night</a> ‡ 
-<a href="" target="_blank">2nd Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
-              
-<a href="http://contactmcr.com/whats-on/72292-works-ahead-at-stun-studio/booking" target="_blank">Tickets: £7/4 each night</a> ‡
-‡See all four Works Ahead at both Contact + STUN Studio at Z-arts over two nights for £13/7
 Box Office Tel: 0161 274 0600 (all tickets booked via Contact)        
+           
+<a href="http://contactmcr.com/visit/getting-here" target="_blank">1st Venue: Contact</a>, Oxford Road, Manchester, M15 6JA        
+<a href="http://contactmcr.com/whats-on/72092-works-ahead-at-contact/booking" target="_blank">Tickets: £7/4 each night</a> ‡
+        
+<a href="" target="_blank">2nd Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
+<a href="http://contactmcr.com/whats-on/72292-works-ahead-at-stun-studio/booking" target="_blank">Tickets: £7/4 each night</a> ‡        
+        
+‡See all four Works Ahead at both Contact + STUN Studio over two nights for £13/7        
         
 #### What people have said about Works Ahead        
 >*Maybe not what you'd regard as traditional 'theatre', but compelling nonetheless …make you think that anything could happen in the performance space.*         
