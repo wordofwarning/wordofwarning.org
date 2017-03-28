@@ -21,24 +21,24 @@ season: "Works Ahead 11+12|5|2017"
 *Presented by* Word of Warning, Contact + STUN
          
 ### Thursday 11 + Friday 12 May 2017, 7.30pm        
-**Home + homelessness, trust + trickery, science + sensuality…**
+**Home + homelessness, trust + trickery, science + sensuality…**        
 From the very edges of deception to the comfort blanket of the home-cooked, outer space to inner city streets, our annual sampler of new performance brings two nights, two venues, four new works in development:             
          
-#### at Contact, 7.30pm. £7/4 each night        
+#### at Contact: 7.30pm. £7/4 each night‡        
 ***My Father's Kitchen* — Toni-Dee Paul**<br>Food, family, memories and the meaning of 'home'.        
 ***Someone Loves You Drive With Care* — Tom Cassani**<br>A deceptive exposé of deception itself.        
         
-#### at STUN Studio at Z-arts: 7.30pm. £7/4 each night        
+#### at STUN Studio at Z-arts: 7.30pm. £7/4 each night‡        
 ***Superposition* — Chanje Kunda**<br>Science, sensuality, spirituality, self…        
 ***Asteroid RK1* — Jamil Keating**<br>Comets in the night sky and care in the city.<small> Limited capacity; free with *Superposition*.</small>         
          
-**See both nights for £13/7.**
+‡See both nights for £13/7
 
 #### Venues + Booking Details        
 Dates: Thursday 11 + Friday 12 May 2017, 7.30pm          
-<a href="http://contactmcr.com/visit/getting-here" target="_blank">First Venue: Contact</a>, Oxford Road, Manchester, M15 6JA        
-<a href="" target="_blank">Second Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
-<a href="http://contactmcr.com/whats-on//booking" target="_blank">Tickets: £7/4 each night OR £13/7 both nights</a> (via Contact)               
+<a href="http://contactmcr.com/visit/getting-here" target="_blank">1st Venue: Contact</a>, Oxford Road, Manchester, M15 6JA        
+<a href="" target="_blank">2nd Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
+<a href="http://contactmcr.com/whats-on//booking" target="_blank">Tickets: £7/4 each night OR £13/7 both nights</a> (only via Contact)               
 Box Office Tel: 0161 274 0600 (Contact)        
           
 #### What people have said about Works Ahead        
@@ -54,7 +54,7 @@ Audience feedback from [2016](/archive/2016-worksahead)/[15](/archive/2015-works
 Age advisory: 18+ (parental/guardian discretion) For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
           
 #### Credits         
-[Works Ahead](/hab/worksahead) 2017 is co-commissioned + produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentor: Peader Kirk        
+[Works Ahead](/hab/worksahead) 2017 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England + funded by Manchester City Council. Project Mentor: Peader Kirk        
         
 #### Websites         
 <a href="http://worksahead.org" target="_blank">worksahead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
