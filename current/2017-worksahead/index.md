@@ -22,7 +22,7 @@ season: "Works Ahead 11+12|5|2017"
          
 ### Thursday 11 + Friday 12 May 2017, 7.30pm        
 **Home + homelessness, trust + trickery, science + sensuality…**        
-From the very edges of deception to the comfort blanket of the home-cooked, outer space to inner city streets, our annual sampler of new performance brings two nights, two venues, four new works in development:             
+From the very edges of deception to the comfort blanket of the home-cooked, outer space to inner city streets, our annual sampler of new performance brings **two nights, two venues, four new works in development:**             
          
 #### at Contact: 7.30pm. £7/4 each night ‡        
 ***My Father's Kitchen* — Toni-Dee Paul**<br>Food, family, memories and the meaning of 'home'.        
@@ -48,7 +48,7 @@ Box Office Tel: 0161 274 0600 (all tickets booked via Contact)
         
 #### What people have said about Works Ahead        
 >*Maybe not what you'd regard as traditional 'theatre', but compelling nonetheless …make you think that anything could happen in the performance space.*         
-<a href="http://quietmandave.co.uk/2016/06/works-ahead" target="_blank">QuietManDave (2016 review)</a>
+<a href="http://quietmandave.co.uk/2016/06/works-ahead" target="_blank">QuietManDave (2016 review)</a>            
 >• *Great to see new work by younger artists.<br>• Brilliant works in progress, varied and interesting.<br>• I enjoyed both shows even though they were very different. I look forward to seeing how they develop.*          
 [Audience feedback from 2016](/archive/2016-worksahead)/[15](/archive/2015-worksahead)        
           
