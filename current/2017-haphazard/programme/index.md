@@ -69,12 +69,12 @@ After shaping your vision — however colourful, sparkly, or fuzzy — Megan rev
 <a href="http://www.meggj.com" target="_blank">www.meggj.com</a>        
         
 **At 2pm + 3.15pm<br>Nicola Smith | *#work***        
-Roll up, roll up and watch the Smith family spin a plate, wear trick slippers, drop toy cars off a ladder, and magic stick letters to the wall. Rose-tinted spectacles available!
+Roll up, roll up and watch the Smith family spin a plate, wear trick slippers, drop toy cars off a ladder, and magic stick letters to the wall. Rose-tinted spectacles available!        
 **And from 2.15pm to 3.15pm<br>Nicola Smith | *#workshop***          
 A drop-in plate-spinning workshop where you can come and have a go, perform in front of the red velver curtain and collect your special prize.        
 <a href="http://nsartist.myportfolio.com" target="_blank">nsartist.myportfolio.com</a> | <a href="http://twitter.com/nsartist34" target="_blank">@nsartist34</a> + <a href="http://twitter.com/family_resident" target="_blank">@family_resident</a>           
                
-**From 2.30pm to 3.15pm + from 3.30pm to 4pm<br>Grace Surman + Clare Dearnaley | *Film with Hope***          
+**From 2.30pm to 3.15pm, and from 3.30pm to 4pm<br>Grace Surman + Clare Dearnaley | *Film with Hope***          
 A nine-year-old child speaks to us directly about her lifetime work of raising her mother. (NB 15-minute video on loop.)        
         
 **From 2.30pm to 4pm<br>Michael Gleave | *Space Adex***          
