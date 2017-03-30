@@ -53,8 +53,7 @@ A whisper through space and time inspired by the 1977 Wow! signal. Duration: 72-
 <a href="http://facebook.com/RebekkaPlatt" target="_blank">Rebekka Platt on Facebook</a> | <a href="http://twitter.com/RebekkaPlatt" target="_blank">@RebekkaPlatt</a>           
           
 **Playing Up | *A DIY introduction***        
-Pick a card, read it out loud, complete the action. *Playing Up* means you might: dog-walk your parents, create a cabinet of wonders, recreate your identity, re-enact an incident, reimagine the future, or see your name in lights… Drawing on key Live Art works, Playing Up is a unique game played by adults and kids together.        
-To discover more or get your own copy: <a href="http://playingup.thisisliveart.co.uk" target="_blank">playingup.thisisliveart.co.uk</a>         
+Pick a card, read it out loud, complete the action. *Playing Up* means you might: dog-walk your parents, create a cabinet of wonders, recreate your identity, re-enact an incident, reimagine the future, or see your name in lights… Drawing on key Live Art works, *Playing Up* is a unique game played by adults and kids together; discover more or get your own copy from <a href="http://playingup.thisisliveart.co.uk" target="_blank">playingup.thisisliveart.co.uk</a>         
         
 ### Timed Activity (*artists + timings subject to change*)           
 **From 12noon to 2pm<br>Philip Breadney	| *Caged Queen***         
