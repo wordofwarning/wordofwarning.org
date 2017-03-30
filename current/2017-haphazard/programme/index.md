@@ -48,13 +48,13 @@ What lenses would you fashion to look towards the future? At the *Spec Savers* c
 Killer clowns and political clowns: coulrophobia and post-truth are the buzzwords of our time… Join Natalie + Indigo to reclaim clowning in this ministry of silly walks for the post-truth age.        
 <a href="http://nataliewearden.co.uk" target="_blank">nataliewearden.co.uk</a> + <a href="http://indigoverity.wordpress.com" target="_blank">indigoverity.wordpress.com</a>        
          
+**Playing Up | *A DIY introduction***        
+Pick a card, read it out loud, complete the action. *Playing Up* means you might: dog-walk your parents, create a cabinet of wonders, recreate your identity, re-enact an incident, reimagine the future, or see your name in lights… Drawing on key Live Art works, *Playing Up* is a unique game played by adults and kids together; discover more or get your own copy from <a href="http://playingup.thisisliveart.co.uk" target="_blank">playingup.thisisliveart.co.uk</a>         
+        
 **Rebekka Platt | *Can you hear me?***        
 A whisper through space and time inspired by the 1977 Wow! signal. Duration: 72-seconds.        
 <a href="http://facebook.com/RebekkaPlatt" target="_blank">Rebekka Platt on Facebook</a> | <a href="http://twitter.com/RebekkaPlatt" target="_blank">@RebekkaPlatt</a>           
           
-**Playing Up | *A DIY introduction***        
-Pick a card, read it out loud, complete the action. *Playing Up* means you might: dog-walk your parents, create a cabinet of wonders, recreate your identity, re-enact an incident, reimagine the future, or see your name in lights… Drawing on key Live Art works, *Playing Up* is a unique game played by adults and kids together; discover more or get your own copy from <a href="http://playingup.thisisliveart.co.uk" target="_blank">playingup.thisisliveart.co.uk</a>         
-        
 ### Timed Activity (*artists + timings subject to change*)           
 **From 12noon to 2pm<br>Philip Breadney	| *Caged Queen***         
 Vicious, evil and nasty… or just wickedly funny… the *Caged Queen* lurks in our darkest recesses — a mirror to a world that shows no trust, dignity or respect. How will she reflect on you?<br>Philip is a member of Proud & Loud Arts.            
@@ -80,7 +80,7 @@ A nine-year-old child speaks to us directly about her lifetime work of raising h
 <a href="http://www.proudandloudarts.com/cells-a-body-of-work" target="_blank">www.proudandloudarts.com</a> | <a href="http://facebook.com/proudandloudarts" target="_blank">Proud & Loud Arts on Facebook</a> | <a href="http://twitter.com/proudandloudart" target="_blank">@proudandloudart</a>            
              
 #### Credits         
-[Haphazard](/hab/haphazard) 2017 is produced by hÅb + Z-arts; supported using public funding by Arts Council England, funded by Manchester City Council + supported by the Paul Hamlyn Foundation. | Image: Chris Sav        
+[Haphazard](/hab/haphazard) 2017 is produced by hÅb; supported using public funding by Arts Council England; funded by Manchester City Council; supported by the Paul Hamlyn Foundation. | Image: Chris Sav        
 
 #### Websites        
 <a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | <a href="http://twitter.com/hashtag/Haphazard" target="_blank">#Haphazard</a> | <a href="http://facebook.com/events/274998376255183" target="_blank">Haphazard 2017 Facebook event</a>
