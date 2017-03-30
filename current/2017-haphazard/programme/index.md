@@ -33,7 +33,7 @@ Open a door and see what happens…
 <a href="http://bmcchrystalp.wordpress.com" target="_blank">website</a> | <a href="http://twitter.com/BMcChrystalP" target="_blank">@BMcChrystalP</a>         
         
 **Delpha Hudson + Nigel Bispham | *Bear-hemian Rhapsody***         
-A Russian girl on accordion and a dancing bear on saxophone — together they make beautiful music. But there is talk of a wall being built between them. Help shape their story — reunite the bear and his love; help them play music together again.         
+A Russian girl on accordion and a dancing bear on saxophone — together they make beautiful music. But there is talk of a wall being built between them. Help shape their story — reunite the bear and his love; help them play amazing music together again.         
 <a href="http://www.delphahudson.co.uk" target="_blank">delphahudson.co.uk</a>        
          
 **Lani Irving + Chloë Smith | *The Blanket Fort***        
@@ -41,7 +41,7 @@ Lani + Chloë believe that life isn't playful enough, so they've made a space fo
 <a href="http://laniirving.co.uk" target="_blank">laniirving.co.uk</a> + <a href="http://chloesmith.net" target="_blank">chloesmith.net</a> | <a href="http://facebook.com/thebusybadger" target="_blank">Lani Irving Art on Facebook</a> | <a href="http://twitter.com/thebusybadger" target="_blank">@thebusybadger</a> + <a href="http://twitter.com/chloeliveartist" target="_blank">@chloeliveartist</a>        
         
 **Megan Egglestein | *Spec Savers: Future Visions***        
-What lenses would you fashion to look towards the future? At the *Spec Savers* craft table, Megan helps shape your vision — however colourful, sparkly, or fuzzy — and then (every hour), reveals the true power of political gesture in a speech without words.            
+What lenses would you fashion to look towards the future? At the *Spec Savers* craft table, Megan helps shape your vision — however colourful, sparkly, or fuzzy — and then, every hour, reveals the true power of political gesture in a speech without words.            
 <a href="http://www.meggj.com" target="_blank">www.meggj.com</a>        
         
 **Natalie Wearden + Indigo Branscombe | *Post-Truth Clowning***         
@@ -49,7 +49,7 @@ Killer clowns and political clowns: coulrophobia and post-truth are the buzzword
 <a href="http://nataliewearden.co.uk" target="_blank">nataliewearden.co.uk</a> + <a href="http://indigoverity.wordpress.com" target="_blank">indigoverity.wordpress.com</a>        
          
 **Playing Up | *A DIY introduction***        
-Pick a card, read it out loud, complete the action. *Playing Up* means you might: dog-walk your parents, create a cabinet of wonders, recreate your identity, re-enact an incident, reimagine the future, or see your name in lights… Drawing on key Live Art works, *Playing Up* is a unique game played by adults and kids together; discover more or get your own copy from <a href="http://playingup.thisisliveart.co.uk" target="_blank">playingup.thisisliveart.co.uk</a>         
+Pick a card, read it out loud, complete the action. *Playing Up* means you might: dog-walk your parents, create a cabinet of wonders, recreate your identity, re-enact an incident, reimagine the future, or see your name in lights… Drawing on key Live Art works, this is a unique game played by adults and kids together; discover more or get your own copy from <a href="http://playingup.thisisliveart.co.uk" target="_blank">playingup.thisisliveart.co.uk</a>         
         
 **Rebekka Platt | *Can you hear me?***        
 A whisper through space and time inspired by the 1977 Wow! signal. Duration: 72-seconds.        
@@ -69,7 +69,9 @@ After shaping your vision — however colourful, sparkly, or fuzzy — Megan rev
 <a href="http://www.meggj.com" target="_blank">www.meggj.com</a>        
         
 **At 2pm + 3.15pm<br>Nicola Smith | *#work***        
-Roll up, roll up and watch the Smith family spin a plate, wear trick slippers, drop toy cars off a ladder, and magic stick letters to the wall. Rose-tinted spectacles available!<br>Also, from 2.15pm to 3.15pm drop by and have a go at spinning a plate in *#workshop*.        
+Roll up, roll up and watch the Smith family spin a plate, wear trick slippers, drop toy cars off a ladder, and magic stick letters to the wall. Rose-tinted spectacles available!
+**And from 2.15pm to 3.15pm<br>Nicola Smith | *#workshop***          
+A drop-in plate-spinning workshop where you can come and have a go, perform in front of the red velver curtain and collect your special prize.        
 <a href="http://nsartist.myportfolio.com" target="_blank">nsartist.myportfolio.com</a> | <a href="http://twitter.com/nsartist34" target="_blank">@nsartist34</a> + <a href="http://twitter.com/family_resident" target="_blank">@family_resident</a>           
                
 **From 2.30pm to 3.15pm + from 3.30pm to 4pm<br>Grace Surman + Clare Dearnaley | *Film with Hope***          
