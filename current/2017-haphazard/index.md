@@ -47,7 +47,7 @@ To get a feel for it have a look at [2016](/galleries/2016-haphazard)/[2015](/ga
 >• *Absolutely brilliant, for kids and grown ups.*<br>• *We liked the drop-in, continuous feel, like you weren't missing stuff.*<br>• *Loved the way the event uses the whole space. Wacky and creative fun!*<br>[Audience Feedback from 2015](/archive/2015-haphazard)         
 >• *Great! Everyone was energetic & friendly — very easy to interact with!*<br>• *Suitably crazy & surreal for children and their grown-ups*.<br>• *Really enjoyed the event and it's particularly nice to experience something a bit different, especially as adults, it is quite eye-popping…*<br>[Audience Feedback from 2013](/archive/2013-spring/haphazard)         
          
-Haphazard 2017 is a <a href="http://www.manchesterconfidential.co.uk/entertainment-and-sport/events-and-listings/top-10-theatre-comedy-in-march-april-2017" target="_blank">Manchester Confidential TOP 10</a> for March/April.           
+Haphazard 2017 is a <a href="http://www.manchesterconfidential.co.uk/entertainment-and-sport/events-and-listings/top-10-theatre-comedy-in-march-april-2017" target="_blank">Manchester Confidential TOP 10</a> for March/April and previewed by Creative Tourist, Manchester Wire + Rainy City Kids.          
           
 #### Credits         
 [Haphazard](/hab/haphazard) 2017 is produced by hÅb; supported using public funding by Arts Council England; funded by Manchester City Council; supported by the Paul Hamlyn Foundation. | Image: Chris Sav        
