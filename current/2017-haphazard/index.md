@@ -24,18 +24,18 @@ Intriguing images and offbeat oddities dotted around the historic <a href="http:
 *Turn up at any time; come + go as you please + expect the unexpected…*        
         
 Now that it's over, read a review by <a href="http://rainycitykids.com/2017/04/03/review-word-warning-present-haphazard-z-arts" target="_blank">Rainy City Kids</a>.                 
+          
+### [Artists + Activity,*subject to change*](/current/2017-haphazard/programme)        
+AAA Batteries | Benjamin McChrystal Plimmer | Chris Sav | Delpha Hudson + Nigel Bispham | Grace Surman + Clare Dearnaley | Lani Irving + Chloë Smith | Megan Egglestein | Michael Gleave | Natalie Wearden + Indigo Branscombe | Nicola Smith | Philip Breadney | Playing Up | Rebekka Platt        
         
+*Sing-a-long with a fish, walk like Sponge Bob, dance with a bear or play a trick on your friends…*          
+         
 #### Venue + Booking Details
 Date: Saturday 1 April 2017, 12noon-4pm    
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: FREE, no ticket booking required, come + go as you please (*N.B. some activity may operate on a first-come, first-served basis.*)         
 Venue Tel: 0161 232 6089            
         
-#### [Artists + Activity (*subject to change*)](/current/2017-haphazard/programme)        
-AAA Batteries | Benjamin McChrystal Plimmer | Chris Sav | Delpha Hudson + Nigel Bispham | Grace Surman + Clare Dearnaley | Lani Irving + Chloë Smith | Megan Egglestein | Michael Gleave | Natalie Wearden + Indigo Branscombe | Nicola Smith | Philip Breadney | Playing Up | Rebekka Platt        
-        
-*Sing-a-long with a fish, walk like Sponge Bob, dance with a bear or play a trick on your friends…*          
-         
 #### Access Information            
 Age advisory: suitable for ALL. Haphazard 2017 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some parts of the Z-arts building are not wheelchair accessible. For specific age + access information please email <mailto:haphazard@habmcr.org> or call 0161 232 6086.        
         
