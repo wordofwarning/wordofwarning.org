@@ -25,7 +25,7 @@ Intriguing images and offbeat oddities dotted around the historic <a href="http:
         
 Now that it's over, read a review by <a href="http://rainycitykids.com/2017/04/03/review-word-warning-present-haphazard-z-arts" target="_blank">Rainy City Kids</a>.                 
           
-### [Artists + Activity,*subject to change*](/current/2017-haphazard/programme)        
+### [Artists + Activity, *subject to change*](/current/2017-haphazard/programme)        
 AAA Batteries | Benjamin McChrystal Plimmer | Chris Sav | Delpha Hudson + Nigel Bispham | Grace Surman + Clare Dearnaley | Lani Irving + Chloë Smith | Megan Egglestein | Michael Gleave | Natalie Wearden + Indigo Branscombe | Nicola Smith | Philip Breadney | Playing Up | Rebekka Platt        
         
 *Sing-a-long with a fish, walk like Sponge Bob, dance with a bear or play a trick on your friends…*          
