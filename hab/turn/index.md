@@ -15,9 +15,9 @@ season: Turn
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Turn** is our annual platform for North West† dancers + dance-makers: held in Manchester every spring, 2017's new format features short pieces of work on a Friday night followed by a Saturday of professional development…        
+**Turn** is our annual platform for North West† dancers + dance-makers: held in Manchester every spring, 2017's new format features short pieces of new work on a single (Friday) night followed by a day of professional development…        
          
-Our [**ninth Turn**](/current/2017-turn) takes place at Contact on Friday 28 April 2017, with up to a dozen new northern dance-works — to get a feel for it see 2016's [image gallery](/galleries/2016-turn) + [programme](/archive/2015-turn), or delve further with 2015's [gallery](/galleries/2015-turn) + [programme](/archive/2015-turn).       
+Our [**ninth Turn**](/current/2017-turn) takes place at Contact on Friday 28 April 2017, with a dozen new northern dance-works — to get a feel for it see 2016's [image gallery](/galleries/2016-turn) + [programme](/archive/2015-turn), or delve further with 2015's [gallery](/galleries/2015-turn) + [programme](/archive/2015-turn).       
          
 **Turn is:**        
 • a public micro-festival + open submission platform;        
@@ -30,4 +30,4 @@ Our [**ninth Turn**](/current/2017-turn) takes place at Contact on Friday 28 Apr
 † *NW England is effectively Cheshire, Cumbria, Greater Manchester, Lancashire + Merseyside: **NOT** Yorkshire*;        
 ^ *Choreolab takes place 24-29 July 2017 at Contact subject to funding*.
          
-[Turn 2017](/current/2017-turn) is presented/co-produced by Word of Warning/hÅb, <a href="http://contactmcr.com" target="_blank">Contact</a>, <a href="http://www.digm.org" target="_blank">Dance Manchester</a> + <a href="http://bit.ly/McrDanceConsortium" target="_blank">Manchester Dance Consortium; supported using public funding by Arts Council England + funded by Manchester City Council.
+[Turn 2017](/current/2017-turn) is presented/co-produced by Word of Warning/hÅb, <a href="http://contactmcr.com" target="_blank">Contact</a>, <a href="http://www.digm.org" target="_blank">Dance Manchester</a> + <a href="http://bit.ly/McrDanceConsortium" target="_blank">Manchester Dance Consortium</a>; supported using public funding by Arts Council England; funded by Manchester City Council.
