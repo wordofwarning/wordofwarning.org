@@ -23,6 +23,8 @@ Intriguing images and offbeat oddities dotted around the historic <a href="http:
         
 *Turn up at any time; come + go as you please + expect the unexpected…*        
         
+Now that it's over, read a review by <a href="http://rainycitykids.com/2017/04/03/review-word-warning-present-haphazard-z-arts" target="_blank">Rainy City Kids</a>.                 
+        
 #### Venue + Booking Details
 Date: Saturday 1 April 2017, 12noon-4pm    
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA        
@@ -33,7 +35,7 @@ Venue Tel: 0161 232 6089
 AAA Batteries | Benjamin McChrystal Plimmer | Chris Sav | Delpha Hudson + Nigel Bispham | Grace Surman + Clare Dearnaley | Lani Irving + Chloë Smith | Megan Egglestein | Michael Gleave | Natalie Wearden + Indigo Branscombe | Nicola Smith | Philip Breadney | Playing Up | Rebekka Platt        
         
 *Sing-a-long with a fish, walk like Sponge Bob, dance with a bear or play a trick on your friends…*          
-        
+         
 #### Access Information            
 Age advisory: suitable for ALL. Haphazard 2017 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some parts of the Z-arts building are not wheelchair accessible. For specific age + access information please email <mailto:haphazard@habmcr.org> or call 0161 232 6086.        
         
@@ -47,7 +49,7 @@ To get a feel for it have a look at [2016](/galleries/2016-haphazard)/[2015](/ga
 >• *Absolutely brilliant, for kids and grown ups.*<br>• *We liked the drop-in, continuous feel, like you weren't missing stuff.*<br>• *Loved the way the event uses the whole space. Wacky and creative fun!*<br>[Audience Feedback from 2015](/archive/2015-haphazard)         
 >• *Great! Everyone was energetic & friendly — very easy to interact with!*<br>• *Suitably crazy & surreal for children and their grown-ups*.<br>• *Really enjoyed the event and it's particularly nice to experience something a bit different, especially as adults, it is quite eye-popping…*<br>[Audience Feedback from 2013](/archive/2013-spring/haphazard)         
          
-Haphazard 2017 is previewed in <a href="http://manchesterwire.co.uk/#!/free-haphazard-family-fun-day-at-z-arts" target="_blank">Manchester Wire</a> and recommended by <a href="http://www.creativetourist.com/event/haphazard" target="_blank">Creative Tourist</a>, <a href="http://www.manchesterconfidential.co.uk/entertainment-and-sport/events-and-listings/top-10-theatre-comedy-in-march-april-2017" target="_blank">Manchester Confidential</a> + <a href="http://rainycitykids.com/2017/03/30/rainy-city-loves-weekend-10-things-2" target="_blank">Rainy City Kids</a>.         
+Haphazard 2017 was previewed in <a href="http://manchesterwire.co.uk/#!/free-haphazard-family-fun-day-at-z-arts" target="_blank">Manchester Wire</a> and recommended by <a href="http://www.creativetourist.com/event/haphazard" target="_blank">Creative Tourist</a>, <a href="http://www.manchesterconfidential.co.uk/entertainment-and-sport/events-and-listings/top-10-theatre-comedy-in-march-april-2017" target="_blank">Manchester Confidential</a> + <a href="http://rainycitykids.com/2017/03/30/rainy-city-loves-weekend-10-things-2" target="_blank">Rainy City Kids</a>.         
           
 #### Credits         
 [Haphazard](/hab/haphazard) 2017 is produced by hÅb; supported using public funding by Arts Council England; funded by Manchester City Council; supported by the Paul Hamlyn Foundation. | Image: Chris Sav        
