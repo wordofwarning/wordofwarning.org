@@ -34,13 +34,13 @@ Box Office Tel: 0161 200 1500
 Age advisory ***TBC*** (parental/guardian discretion); duration ***TBC***. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
 
 #### More
-Since 2013 Richard DeDomenici's inexplicably popular *The Redux Project* has caused a stir over fifty times, in places as diverse as London, Bangkok, Hong Kong, Seoul, Sydney, Beijing and Norwich.         
+Since 2013 Richard DeDomenici's inexplicably popular *The Redux Project* has caused a stir over fifty times, in places as diverse as London, Bangkok, Hong Kong, Seoul, Sydney, Beijing + Norwich — in May 2016 Word of Warning premiered his [*Queer As Yolk: Redux* with Eggs Collective](/archive/2016-springsummer/redux) at HOME.        
          
 The project celebrates and subverts the cultural heritage of the places it visits, by attempting to make shot-for-shot remakes of scenes from famous movies and telly, on a shoe-string budget with amateur local crews, in the same locations where the originals were filmed.         
           
 Most recently Richard adapted *The Redux Project* into a tv show, for the BBC4 event <a href="http://www.bbc.co.uk/programmes/p038bxhz" target="_blank">*On Stage: Live From Television Centre*</a> — described by journalist Matt Trueman as '<a href="http://twitter.com/matttrueman/status/666028504119648256" target="_blank">one of the smartest, strangest subversive half hours of television I've ever seen</a>'.        
       
-#### Who are they?    
+#### Who is he?    
 Richard DeDomenici makes work that is social, joyful, topical and political — although rarely simultaneously. He specialises in urban-absurdist interventions which strive to create the kind of uncertainty that leads to possibility. In addition to Manchester, in 2016 he plans to make work in Malaysia, Macedonia and Milton Keynes.        
        
 #### What people have said about *The Redux Project*         
