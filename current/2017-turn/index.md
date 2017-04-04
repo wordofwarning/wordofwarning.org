@@ -20,17 +20,15 @@ season: "Turn 28|4|2017"
 *Presented by* Word of Warning + Contact    
          
 ### Friday 28 April 2017, 7.30pm
-All the energy of this annual whirlwind of new northern dance condensed into just one (Friday) night. Fluidly lyrical, effervescently acrobatic or eccentrically innovative, let Turn transport you into a frenzy of dance.        
-        
-Twelve works, twelve articulations of human expression. One extraordinary night of dance.          
+All the energy of this annual whirlwind of new northern dance condensed.<br>Twelve works, twelve articulations of human expression.<br>One extraordinary night of dance.          
         
 ### Artists        
-In a new format, our ninth annual platform for dancers + dance-makers sees a dozen short new works on a single night with *participating artists subject to change…*        
+In a new format, our ninth annual platform for dancers + dance-makers sees just one night of short new works from (*participating artists subject to change*):        
 Akeim Toussaint Buck | Ane Iselin Brogeland | Born + Bred Dance Theatre | Coalesce Dance | Giorgio de Carolis | Jo Cork | Kapow Dance | Matrafisc Dance | Meraki Collective | Peter Groom Dance Theatre | Rebekka Platt | The inFamous Five        
         
 *Mr. President, Prime Minister, Ladies + Gentlemen, we stand before you tonight…<br>Folding like paper, playing with your food…<br>The shifting politics of the movement of people…<br>Ancestral memory, the human condition, the colour blue…<br>Blind certainty, a lover’s look and a whisper from the unknown…*             
          
-To get a feel for it, see Turn 2016's [programme](/archive/2016-turn) + [image gallery](/galleries/2016-turn).         
+Fluidly lyrical, effervescently acrobatic or eccentrically innovative, let Turn transport you into a frenzy of dance. To get a feel for it, see Turn 2016's [programme](/archive/2016-turn) + [image gallery](/galleries/2016-turn).         
          
 #### Venue + Booking Details        
 Date: Friday 28 April 2017, 7.30pm       
