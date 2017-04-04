@@ -23,7 +23,7 @@ season: "Turn 28|4|2017"
 All the energy of this annual whirlwind of new northern dance condensed.<br>Twelve works, twelve articulations of human expression.<br>One extraordinary night of dance.          
         
 ### Artists        
-In a new format, our ninth annual platform for dancers + dance-makers sees just one night of short new works from (*participating artists subject to change*):        
+In a new, single night format, our ninth annual platform for dancers + dance-makers feutures short new works from (*participating artists subject to change*):        
 Akeim Toussaint Buck | Ane Iselin Brogeland | Born + Bred Dance Theatre | Coalesce Dance | Giorgio de Carolis | Jo Cork | Kapow Dance | Matrafisc Dance | Meraki Collective | Peter Groom Dance Theatre | Rebekka Platt | The inFamous Five        
         
 *Mr. President, Prime Minister, Ladies + Gentlemen, we stand before you tonight…<br>Folding like paper, playing with your food…<br>The shifting politics of the movement of people…<br>Ancestral memory, the human condition, the colour blue…<br>Blind certainty, a lover’s look and a whisper from the unknown…*             
