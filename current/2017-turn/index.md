@@ -23,10 +23,10 @@ season: "Turn 28|4|2017"
 All the energy of this annual whirlwind of new northern dance condensed.<br>Twelve works, twelve articulations of human expression.<br>One extraordinary night of dance.          
         
 ### Artists        
-In a new, single night format, our ninth annual platform for dancers + dance-makers feutures short new works from (*participating artists subject to change*):        
+In a new format, our ninth annual platform for dancers + dance-makers sees a single night of short new dance-works, *participating artists subject to change*…        
 Akeim Toussaint Buck | Ane Iselin Brogeland | Born + Bred Dance Theatre | Coalesce Dance | Giorgio de Carolis | Jo Cork | Kapow Dance | Matrafisc Dance | Meraki Collective | Peter Groom Dance Theatre | Rebekka Platt | The inFamous Five        
         
-*Mr. President, Prime Minister, Ladies + Gentlemen, we stand before you tonight…<br>Folding like paper, playing with your food…<br>The shifting politics of the movement of people…<br>Ancestral memory, the human condition, the colour blue…<br>Blind certainty, a lover’s look and a whisper from the unknown…*             
+*Mr. President, Prime Minister, Ladies + Gentlemen, we stand before you…<br>Folding like paper, playing with your food…<br>The shifting politics of the movement of people…<br>Ancestral memory, the human condition, the colour blue…<br>Blind certainty, a lover’s look and a whisper from the unknown…*             
          
 Fluidly lyrical, effervescently acrobatic or eccentrically innovative, let Turn transport you into a frenzy of dance. To get a feel for it, see Turn 2016's [programme](/archive/2016-turn) + [image gallery](/galleries/2016-turn).         
          
@@ -44,7 +44,7 @@ Box Office Tel: 0161 274 0600
 Turn 2017 takes place in a number of different spaces and formats around Contact's building — some seated, some standing, some limited capacity, some participatory. With intervals, the night's programme will last up to 3½ hours.<br>Age advisory: 12+ (parental/guardian discretion). For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.               
                           
 #### Credits         
-[Turn](/hab/turn) 2017 is co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a>, <a href="http://www.digm.org" target="_blank">Dance Manchester</a> + <a href="http://bit.ly/McrDanceConsortium" target="_blank">Manchester Dance Consortium</a>; supported using public funding by Arts Council England + funded by Manchester City Council. | Image: Holly Rush (Turn 2016)         
+[Turn](/hab/turn) 2017 is co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a>, <a href="http://www.digm.org" target="_blank">Dance Manchester</a> + <a href="http://bit.ly/McrDanceConsortium" target="_blank">Manchester Dance Consortium</a>; supported using public funding by Arts Council England; funded by Manchester City Council. | Image: Holly Rush (Turn 2016)         
          
 #### Websites        
 <a href="http://turnmcr.org" target="_blank">turnmcr.org</a> | <a href="http://twitter.com/hashtag/TurnMcr" target="_blank">#TurnMcr</a>        
