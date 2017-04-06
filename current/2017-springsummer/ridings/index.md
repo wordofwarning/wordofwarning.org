@@ -49,7 +49,7 @@ Stephanie Ridings is a writer and performer. Her most recent work, *Unknown Male
         
 #### What people have said about *The Road…*         
 >★★★★★ *Amazing*<br><a href="http://www.artsawardvoice.com/magazine/reviews/the-road-to-huntsville" target="_blank">Arts Award Voice</a> (<a href="http://www.artsawardvoice.com/magazine/articles/voices-pick-of-the-edinburgh-fringe-2016" target="_blank">also won Pick of the Edinburgh Fringe 2016</a>)<br>★★★★ *Beautiful storyteller*<br>
-<a href="http://www.acrossthearts.co.uk/news/artsblog/festival-reviews-briefs-and-the-road-to-huntsville" target="_blank">Across the Arts</a>★★★★ *Chilling*<br><a href="http://www.edfestmag.com/the-road-to-huntsville-2" target="_blank">Ed Fest Magazine</a><br>★★★★ *Fascinating*<br><a href="http://www.thereviewshub.com/the-road-to-huntsville-summerhall-edinburgh" target="_blank">The Reviews Hub</a>        
+<a href="http://www.acrossthearts.co.uk/news/artsblog/festival-reviews-briefs-and-the-road-to-huntsville" target="_blank">Across the Arts</a><br>★★★★ *Chilling*<br><a href="http://www.edfestmag.com/the-road-to-huntsville-2" target="_blank">Ed Fest Magazine</a><br>★★★★ *Fascinating*<br><a href="http://www.thereviewshub.com/the-road-to-huntsville-summerhall-edinburgh" target="_blank">The Reviews Hub</a>        
         
 #### Credits          
 Written + performed by Stephanie Ridings. Directed by Jonathan V McGrath.<br>Commissioned by China Plate, Warwick Arts Centre + mac birmingham.<br>Supported using public funding by the National Lottery through Arts Council England. Supported by Birmingham REP, Sir Barry Jackson + Peggy Ramsay Foundation.          
