@@ -40,7 +40,7 @@ London, Bangkok, Hong Kong, Seoul, Sydney, Beijing, and Milton Keynes. The proje
        
 In November 2015 DeDomenici adapted *The Redux Project* for television as part of the BBC4 event <a href="http://www.bbc.co.uk/programmes/p038bxhz" target="_blank">*On Stage: Live from Television Centre*</a> — described by journalist Matt Trueman as "<a href="http://twitter.com/matttrueman/status/666028504119648256" target="_blank">one of the smartest, strangest subversive half hours of television I've ever seen</a>"         
          
-*The Redux Project*'s second visit to Manchester — following May 2016's [*Queer As Yolk: Redux* with Eggs Collective](/archive/2016-springsummer/redux) — returns them HOME with Word of Warning for a glittering World Première.           
+The project's second visit to Manchester — following May 2016's [*Queer As Yolk*](/archive/2016-springsummer/redux) with Eggs Collective — returns *Redux* HOME with Word of Warning for a glittering World Première.           
          
 #### Who is he?        
 Richard DeDomenici makes work that is social, joyful, topical and political — although rarely simultaneously. He specialises in urban-absurdist interventions which strive to create the kind of uncertainty that leads to possibility.        
