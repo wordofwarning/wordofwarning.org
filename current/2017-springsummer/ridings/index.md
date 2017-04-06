@@ -27,7 +27,7 @@ See her <a href="http://vimeo.com/172586727" target="_blank">trailer</a>.
 #### Venue + Booking Details    
 Date: Wednesday 17 May 2017, 8pm          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-Tickets: Pay What You Decide on the evening — <a href="http://www.thelowry.com/events/the-road-to-huntsville" target="_blank">tickets available to reserve from Fri 21 Apr</a>, **please note the WTF Wednesday ticketing policy below**.          
+<a href="http://www.thelowry.com/events/the-road-to-huntsville" target="_blank">Tickets: available to reserve from Fri 21 Apr</a> + Pay What You Decide on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0843 208 6000          
           
 #### Access Information        
@@ -48,7 +48,8 @@ Challenging preconceptions, *The Road to Huntsville* is an exploration into unco
 Stephanie Ridings is a writer and performer. Her most recent work, *Unknown Male*, opened at Birmingham REP to critical acclaim and was awarded the 2014 Peter Brook / Mark Marvin Award. In March 2016 she created *Dylan's Parents* for Live Lunch at the Royal Court.       
         
 #### What people have said about *The Road…*         
->★★★★★*Amazing*<br><a href="http://www.artsawardvoice.com/magazine/reviews/the-road-to-huntsville" target="_blank">Arts Award Voice</a>; also won their<a href="http://www.artsawardvoice.com/magazine/articles/voices-pick-of-the-edinburgh-fringe-2016" target="_blank">Pick of the Edinburgh Fringe 2016</a><br>★★★★*Fascinating*<br><a href="http://www.thereviewshub.com/the-road-to-huntsville-summerhall-edinburgh" target="_blank">The Reviews Hub</a><br>★★★★*Chilling*<br>Ed Fest Magazine<br>★★★★*Beautiful storyteller*<br>Across the Arts        
+>★★★★★ *Amazing*<br><a href="http://www.artsawardvoice.com/magazine/reviews/the-road-to-huntsville" target="_blank">Arts Award Voice</a> (<a href="http://www.artsawardvoice.com/magazine/articles/voices-pick-of-the-edinburgh-fringe-2016" target="_blank">also won Pick of the Edinburgh Fringe 2016</a>)<br>★★★★ *Beautiful storyteller*<br>
+<a href="http://www.acrossthearts.co.uk/news/artsblog/festival-reviews-briefs-and-the-road-to-huntsville" target="_blank">Across the Arts</a>★★★★ *Chilling*<br><a href="http://www.edfestmag.com/the-road-to-huntsville-2" target="_blank">Ed Fest Magazine</a><br>★★★★ *Fascinating*<br><a href="http://www.thereviewshub.com/the-road-to-huntsville-summerhall-edinburgh" target="_blank">The Reviews Hub</a>        
         
 #### Credits          
 Written + performed by Stephanie Ridings. Directed by Jonathan V McGrath.<br>Commissioned by China Plate, Warwick Arts Centre + mac birmingham.<br>Supported using public funding by the National Lottery through Arts Council England. Supported by Birmingham REP, Sir Barry Jackson + Peggy Ramsay Foundation.          
