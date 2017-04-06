@@ -22,8 +22,9 @@ header_image: "header_redux.jpg"
 #### In Brief     
 Première of this (ir)reverent remake of a Mancunian classic.<br>Starring Eggs Collective, introduced by auteur DeDomenici.        
          
-You can now see the full 7 minute *Redux* on <a href="http://youtu.be/wx_hJ0NxfI0" target="_blank">YouTube</a>.            
-         
+You can now see the full 7 minute *Redux* on YouTube:            
+<iframe width="853" height="480" src="http://youtube.com/embed/wx_hJ0NxfI0" frameborder="0"></iframe>              
+        
 #### Venue + Booking Details       
 *Currently SOLD-OUT, though it may be worth coming on spec to HOME on Sunday evening — as a free event there could well be returns; AND if you have a ticket that you aren't planning to use, please let HOME's box office know on 0161 200 1500.*           
 Date: Sunday 22 May 2016, 8pm              
