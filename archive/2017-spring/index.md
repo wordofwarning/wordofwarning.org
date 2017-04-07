@@ -7,7 +7,7 @@ is_index: true
 season: Spring 2017
 
 ---
-*From [David Lynch](/current/2017-spring/massiveowl) to [Judy Garland](/current/2017-spring/alexander); [blowing the whistle](/current/2017-spring/proto-type) to [lifting the skirt of politics](/current/2017-spring/green) — all capped off with an [April Fool of small-people proportions](/current/2017-haphazard)…*        
+*From [David Lynch](/archive/2017-spring/massiveowl) to [Judy Garland](/archive/2017-spring/alexander); [blowing the whistle](/archive/2017-spring/proto-type) to [lifting the skirt of politics](/archive/2017-spring/green) — all capped off with an [April Fool of small-people proportions](/archive/2017-haphazard)…*        
         
 Brought to you by hÅb — with Queer Contact, Royal Exchange Theatre, The Lowry, the Whitworth, Z-arts — we look forward to seeing you at some or all of Spring 2017. If you want to check out what happened last season take a look at our [Autumn/Winter 2016 archive](/archive/2016-autumnwinter), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=147497048277" target="_blank">online survey</a>.        
              
