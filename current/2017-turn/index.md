@@ -47,7 +47,7 @@ Turn 2017 takes place in a number of different spaces and formats around Contact
 [Turn](/hab/turn) 2017 is co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a>, <a href="http://www.digm.org" target="_blank">Dance Manchester</a> + <a href="http://bit.ly/McrDanceConsortium" target="_blank">Manchester Dance Consortium</a>; supported using public funding by Arts Council England; funded by Manchester City Council. | Image: Holly Rush (Turn 2016)         
          
 #### Websites        
-<a href="http://turnmcr.org" target="_blank">turnmcr.org</a> | <a href="http://twitter.com/hashtag/TurnMcr" target="_blank">#TurnMcr</a>        
+<a href="http://turnmcr.org" target="_blank">turnmcr.org</a> | <a href="http://twitter.com/hashtag/TurnMcr" target="_blank">#TurnMcr</a> | <a href="http://facebook.com/events/459885731009816" target="_blank">Turn 2017 Facebook event</a>        
          
 #### Ticket Offers available at Contact         
 • Book for 2 Contact shows (incl. *Turn*) + get 10% off;<br>• Book for 3 Contact shows (incl. *Turn*) + get 15% off;<br>• Book 6 (full or concession) tickets for *Turn* + get £1 off each ticket;<br>• Buy 10 (full or concession) tickets for *Turn* + get an 11th free.<br>T&Cs: tickets must be booked in a single transaction, offer cannot be applied retrospectively; exclusions apply, visit <a href="http://www.contactmcr.com/ticketoffers" target="_blank">contactmcr.com/ticketoffers</a> for details.
