@@ -1,6 +1,7 @@
 ---
 # CONFIGURATION
 layout: archive
+season: "Archive"
 
 archived:
     - {folder: "2017-spring", name: "Spring 2017", class: "s2017"}
