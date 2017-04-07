@@ -2,7 +2,12 @@
 # CONFIGURATION
 layout: archive
 
+# Archive
+Word of Warning's previous events, ordered chronologically by season or festival (*recent first*)…
+
 archived:
+    - {folder: "2017-spring", name: "Spring 2017", class: "s2017"}
+    - {folder: "2017-haphazard", name: "Haphazard 2017", class: "hh2017"}
     - {folder: "2016-autumnwinter", name: "Autumn/Winter 2016", class: "aw2016"}    
     - {folder: "2016-divergency", name: "Divergency (2016)", class: "div"}    
     - {folder: "2016-emergency", name: "Emergency 2016", class: "e2016"}    
@@ -42,5 +47,3 @@ archived:
     - {folder: "2012-springsummer", name: "Spring/Summer 2012", class: "ss2012"}
     
 ---
-# Archive
-Word of Warning's previous events, ordered chronologically by season or festival (recent first).
