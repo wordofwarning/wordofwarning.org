@@ -2,6 +2,7 @@
 
 # CONFIGURATION
 layout: archive
+season: "Galleries"
 
 archived:
     - {folder: "2016-emergency", name: "Emergency 2016", class: "e2016"}
@@ -33,4 +34,4 @@ archived:
 ---
 
 # Galleries     
-Images from hÅb + Word of Warning's previous events, ordered chronologically by season or festival (recent first).
+Images from hÅb + Word of Warning's previous events, ordered chronologically by season or festival (*recent first*)…
