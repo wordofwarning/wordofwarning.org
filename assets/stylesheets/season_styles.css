@@ -521,7 +521,7 @@
 	.h2016 .splash
 		{background:url(../images/header_2016_hazard.jpg) center center}
 
-/* Autumn/Winter 2016 Programme (feather last colour of four used)
+/* Autumn/Winter 2016 Programme (maroon feather, last colour of four used)
 ------------------------------------------------------*/
 
 	.aw2016 .splash
@@ -569,11 +569,11 @@
 	.div .splash
 		{background:url(../images/header_chanje.jpg) center center}
 
-/* Spring 2017 Programme (green pine, alternative lilac leaf)
+/* Spring 2017 Programme (lilac leaf, alternative green pine)
 ------------------------------------------------------*/
 
 	.s2017 .splash
-		{background:url(../images/header_2017SprWrn_pine.jpg) -150px center}
+		{background:url(../images/header_2017SprWrn_leaf.jpg) -150px center}
 
 /* Haphazard 2017 yellow
 ------------------------------------------------------*/
@@ -617,7 +617,7 @@
 	.t2017 .splash
 		{background:url(../images/header_turn17.jpg) center center}
 
-/* Spring/Summer 2017 Programme (brown wood, alternative orange petal)
+/* Spring/Summer 2017 Programme (tan wood, alternative ochre petal)
 ------------------------------------------------------*/
 
 	.ss2017 .splash
