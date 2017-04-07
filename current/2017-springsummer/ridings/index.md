@@ -52,7 +52,7 @@ Stephanie Ridings is a writer and performer. Her most recent work, *Unknown Male
 <a href="http://www.acrossthearts.co.uk/news/artsblog/festival-reviews-briefs-and-the-road-to-huntsville" target="_blank">Across the Arts</a><br>★★★★ *Chilling*<br><a href="http://www.edfestmag.com/the-road-to-huntsville-2" target="_blank">Ed Fest Magazine</a><br>★★★★ *Fascinating*<br><a href="http://www.thereviewshub.com/the-road-to-huntsville-summerhall-edinburgh" target="_blank">The Reviews Hub</a>        
         
 #### Credits          
-Written + performed by Stephanie Ridings. Directed by Jonathan V McGrath.<br>Commissioned by China Plate, Warwick Arts Centre + mac birmingham.<br>Supported using public funding by the National Lottery through Arts Council England. Supported by Birmingham REP, Sir Barry Jackson + Peggy Ramsay Foundation.          
+Written + performed by Stephanie Ridings.<br>Directed by Jonathan V McGrath.<br>Produced by Pippa Frith.<br>A Bite Size Commission for China Plate, mac birmingham + Warwick Arts Centre.<br>Supported using public funding by the National Lottery through Arts Council England, and by The Sir Barry Jackson Trust, The Peggy Ramsay Foundation + Birmingham REP.          
         
 #### Websites          
 <a href="http://www.theroadtohuntsville.com" target="_blank">theroadtohuntsville.com</a> | <a href="http://twitter.com/Stephaniser" target="_blank">@Stephaniser</a> | <a href="http://twitter.com/hashtag/TheRoadtoHuntsville" target="_blank">#TheRoadtoHuntsville</a>
