@@ -53,7 +53,7 @@ Box Office Tel: 0161 274 0600 (all tickets booked via Contact)
 [Audience feedback from 2016](/archive/2016-worksahead)/[15](/archive/2015-worksahead)        
           
 #### Access Information        
-Age advisory: 14+ (parental/guardian discretion). For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
+Age advisory at Contact: the works contain imagery that some people may find disturbing, we suggest 14+ (parental/guardian discretion).<br>Age advisory at STUN Studio: 16+ (parental/guardian discretion).<br>For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
           
 #### Credits         
 [Works Ahead](/hab/worksahead) 2017 is co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>; supported by <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England + funded by Manchester City Council.<br>Project Mentors: Matt Fenton + Peader Kirk        
