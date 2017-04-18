@@ -16,10 +16,10 @@ season: "Turn programme 28|4|2017"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*A whirlwind night of new northern dance, presented by* Word of Warning *+* Contact*        
+*A night of new northern dance, presented by* Word of Warning *+* Contact        
         
 #### Venue + Booking Details        
-Date: Friday 28 April 2017, 7.30pm (*ends approximately 11pm*)       
+Date: Friday 28 April 2017, 7.30pm (ends by *approximately* 11pm)       
 <a href="http://contactmcr.com/visit/getting-here" target="_blank">Venue: Contact</a>, Oxford Road, Manchester, M15 6JA         
 <a href="http://contactmcr.com/whats-on/69492-turn-2017/booking" target="_blank">Tickets: £9/5</a> | *<a href="http://www.contactmcr.com/ticketoffers" target="_blank">Ticket offers are available at Contact</a>, please see below.*       
 Box Office Tel: 0161 274 0600        
