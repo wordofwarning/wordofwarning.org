@@ -4,7 +4,7 @@ layout: fullscreengallery
 assetpath: "../../../"
 galleryimagespath: ""
 
-title: "Word of Warning + Z-arts present Haphazard 2017"
+title: "Word of Warning + Z-arts present Haphazard, 1|4|2017"
 header: <img src="logo.png">
 stylesheet: gallery.css
 
