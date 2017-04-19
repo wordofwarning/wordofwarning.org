@@ -56,10 +56,11 @@ Tiresias was a prophet of Apollo in Greek mythology. He was blind and famous for
 <a href="http://giorgiodecarolis.com" target="_blank">giorgiodecarolis.com</a>        
         
 **Grace Surman + Clare Dearnaley | *Film with Hope***        
-A nine-year-old child speaks to us directly about her lifetime work of raising her mother (15-minute video).         
-**Grace** biog.                 
-**Clare** biog.        
-           
+A nine-year-old child speaks to us directly about her lifetime work of raising her mother.         
+**Grace Surman** dallies around the terms performance (art), live art, theatre, and choreography. With over 20 years experience of making solo + collaborative work, her work has been presented nationally + internationally.              
+**Clare Dearnaley** is an experienced Writer, Director + Producer who has worked in film + television for over 20 years. Recently she has returned to her preferred world of more independence: developing and creating high-end documentaries + award winning arts programming.         
+<a href="http://www.gracesurman.wordpress.com" target="_blank">www.gracesurman.wordpress.com</a>             
+            
 **Jo Cork | *The Intersection Series***         
 A series of short experimental films which are, quite literally, an intersection between two projects. Combining footage from her 2016 dance film, *Sensate*, and editing processes which might be used in her next envisioned project. The films are demonstrations and studies as to how choreography is presented on film, and how it it further manipulated by the editing and post-production processes.           
 Choreographed + performed by Jo Cork | Produced, directed + edited by Jo Cork | Assistant Producer/Rehearsal Director: Annie Taylor-Gooby | Cinematography: Orestes Chouchoulas | Original Score/Sound Design: Bartosz Szafranski | Costume: James Stanley Thomas         
