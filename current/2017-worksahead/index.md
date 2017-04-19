@@ -30,7 +30,7 @@ From the very edges of deception to the comfort blanket of the home-cooked, oute
         
 #### at STUN Studio at Z-arts: 7.30pm. £7/4 each night ‡        
 ***Superposition* — Chanje Kunda**<br>Science, sensuality, spirituality, self…        
-[nb Jamil Keating's *Asteroid RK1* will no longer appear.]         
+(NB Jamil Keating's *Asteroid RK1* will no longer appear.)         
          
 ‡ See both nights for £13/7: book a ticket for each venue on a different night.
             
