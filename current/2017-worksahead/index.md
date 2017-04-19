@@ -21,8 +21,8 @@ season: "Works Ahead 11+12|5|2017"
 *Presented by* Word of Warning, Contact + STUN
          
 ### Thursday 11 + Friday 12 May 2017, 7.30pm        
-**Home + homelessness, trust + trickery, science + sensuality…**        
-From the very edges of deception to the comfort blanket of the home-cooked, outer space to inner city streets, our annual sampler of new performance brings **two nights, two venues, four new works in development:**             
+**Home + hearth, trust + trickery, science + sensuality…**        
+From the very edges of deception to the comfort blanket of the home-cooked, outer space to inner turmoil, our annual sampler of new performance brings **two nights, two venues, three new works in development:**             
          
 #### at Contact: 7.30pm. £7/4 each night ‡        
 ***My Father's Kitchen* — Toni-Dee Paul**<br>Food, family, memories and the meaning of 'home'.        
@@ -30,10 +30,10 @@ From the very edges of deception to the comfort blanket of the home-cooked, oute
         
 #### at STUN Studio at Z-arts: 7.30pm. £7/4 each night ‡        
 ***Superposition* — Chanje Kunda**<br>Science, sensuality, spirituality, self…        
-***Asteroid RK1* — Jamil Keating**<br>Comets in the night sky and care in the city.<small> Limited capacity; free with *Superposition*.</small>         
+[nb Jamil Keating's *Asteroid RK1* will no longer appear.]         
          
 ‡ See both nights for £13/7: book a ticket for each venue on a different night.
-
+            
 #### Venues + Booking Details        
 Dates: Thursday 11 + Friday 12 May 2017, 7.30pm          
 Box Office Tel: 0161 274 0600 (all tickets booked via Contact)        
@@ -53,7 +53,7 @@ Box Office Tel: 0161 274 0600 (all tickets booked via Contact)
 [Audience feedback from 2016](/archive/2016-worksahead)/[15](/archive/2015-worksahead)        
           
 #### Access Information        
-Age advisory at Contact: the works contain imagery that some people may find disturbing, we suggest 14+ (parental/guardian discretion).<br>Age advisory at STUN Studio: 16+ (parental/guardian discretion).<br>For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
+Age advisory at Contact: the works contain imagery that some people may find disturbing, we suggest 14+ (parental/guardian discretion).<br>Age advisory at STUN Studio at Z-arts: 16+ (parental/guardian discretion).<br>For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
           
 #### Credits         
 [Works Ahead](/hab/worksahead) 2017 is co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>; supported by <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England + funded by Manchester City Council.<br>Project Mentors: Matt Fenton + Peader Kirk        
