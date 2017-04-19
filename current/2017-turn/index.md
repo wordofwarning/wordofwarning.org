@@ -20,11 +20,11 @@ season: "Turn 28|4|2017"
 *Presented by* Word of Warning + Contact    
          
 ### Friday 28 April 2017, 7.30pm
-All the energy of this annual whirlwind of new northern dance condensed.<br>Twelve works, twelve articulations of human expression.<br>One extraordinary night of dance.          
+All the energy of this annual whirlwind of new northern dance condensed.<br>Thirteen works, thirteen articulations of human expression.<br>One extraordinary night of dance.          
         
 ### Artists        
 In a new format, our ninth annual platform for dancers + dance-makers sees a single night of short new dance-works, *participating artists subject to change*…        
-Akeim Toussaint Buck | Ane Iselin Brogeland | Born + Bred Dance Theatre | Coalesce Dance | Giorgio de Carolis | Jo Cork | Kapow Dance | Matrafisc Dance | Meraki Collective | Peter Groom Dance Theatre | Rebekka Platt | The inFamous Five        
+Akeim Toussaint Buck | Ane Iselin Brogeland | Born + Bred Dance Theatre | Coalesce Dance | Giorgio de Carolis | Grace Surman + Clare Dearnaley | Jo Cork | Kapow Dance | Matrafisc Dance | Meraki Collective | Peter Groom Dance Theatre | Rebekka Platt | The inFamous Five        
         
 *Mr. President, Prime Minister, Ladies + Gentlemen, we stand before you…<br>Folding like paper, playing with your food…<br>The shifting politics of the movement of people…<br>Ancestral memory, the human condition, the colour blue…<br>Blind certainty, a lover’s look and a whisper from the unknown…*             
          
