@@ -20,5 +20,6 @@ gallery:
     -   {file: "cork.jpg", artist: "Jo Cork"}
     -   {file: "matrafisc.jpg", artist: "Matrafisc Dance"}
     -   {file: "iselin.jpg", artist: "Ane Iselin Brogeland"}
-    -   {file: "meraki.jpg", artist: "Meraki Collective"}
+    -   {file: "meraki.jpg", artist: "Meraki Collective"}     
+    -   {file: "coalesce.jpg", artist: "Coalesce Dance"}
 ---
