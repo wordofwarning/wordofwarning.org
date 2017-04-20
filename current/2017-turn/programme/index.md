@@ -66,7 +66,7 @@ A series of short experimental films which are, quite literally, an intersection
 Choreographed + performed by Jo Cork | Produced, directed + edited by Jo Cork | Assistant Producer/Rehearsal Director: Annie Taylor-Gooby | Cinematography: Orestes Chouchoulas | Original Score/Sound Design: Bartosz Szafranski | Costume: James Stanley Thomas         
 **Jo Cork** has made work for Liverpool's LEAP and Ludus' Dance Cuts festivals, and has danced in works by Lea Anderson and Frauke Requardt, Kate Jackson, Ruth Tyson-Jones, Fleur Darkin and Gary Clarke, Temporeare Theatre (Berlin), STREB, Tempered Body Dance Theatre, London Symphony Orchestra, House of O'Dwyer, and currently works with theatre company Studio for Electronic Theatre. She is developing her next independent work with the support of Chisenhale Dance Space, Southbank University, and London College of Music.           
 **Bartosz Szafranski** is a Polish composer whose first love was music for visual media. He has written scores for several short films and has embarked on doctoral level composing work at London College of Music, where he also teaches composition.            
-<a href="http://twitter.com/jcdancedigital" target="_blank">@jcdancedigital</a>          
+<a href="http://facebook.com/jcdanceanddigital" target="_blank">Jo Cork on Facebook</a> | <a href="http://twitter.com/jcdancedigital" target="_blank">@jcdancedigital</a>          
           
 **Kapow Dance | *Origami***          
 Folding, twisting, turning, rolling, jumping, sliding. Our body is a complex machine and it can fold and articulate in thousands of ways. *Origami* imagines trying out movement for the first time, from discovery to mastery to… there's a lot to learn in a short space of time.          
@@ -90,7 +90,7 @@ Formerly NOW, Laura and Emmy of the Meraki Collective met briefly at Salford Uni
           
 **Peter Groom Dance Theatre | *MADRE***         
 What if it's all or nothing? Created from a scratch performance whilst in residence at Battersea Arts Centre, the piece began as an exploration into working solo. Some of the questions explored were: blood ties, lament, mafia + saying goodbye. Since its creation at BAC in 2014, *MADRE* has toured to DanceCity, DanceBase, TripSpace + Yorkshire Dance.           
-Performed by Peter Groom. | Dramaturgy by Kai Gree.           
+Performed by Peter Groom. | Dramaturgy by Kai Green.           
 **Peter Groom** is a choreographer and actor working mainly with dance and theatre. He is currently Associate Choreographic Dance Maker at DanceCity, Newcastle for 2016/17.         
 <a href="http://www.petergroomdance-theatre.com" target="_blank">www.petergroomdance-theatre.com</a> | <a href="http://twitter.com/_petergroom" target="_blank">@_petergroom</a>        
          
