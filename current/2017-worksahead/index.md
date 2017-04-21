@@ -41,7 +41,7 @@ Box Office Tel: 0161 274 0600 (all tickets booked via Contact)
 <a href="http://contactmcr.com/visit/getting-here" target="_blank">1st Venue: Contact</a>, Oxford Road, Manchester, M15 6JA        
 <a href="http://contactmcr.com/whats-on/72092-works-ahead-at-contact/booking" target="_blank">Tickets: £7/4 each night</a> ‡
         
-<a href="" target="_blank">2nd Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
+<a href="http://www.z-arts.org/about-us/getting-here" target="_blank">2nd Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
 <a href="http://contactmcr.com/whats-on/72292-works-ahead-at-stun-studio/booking" target="_blank">Tickets: £7/4 each night</a> ‡        
         
 ‡ See both nights for £13/7: book a ticket for each venue on a different night.         
