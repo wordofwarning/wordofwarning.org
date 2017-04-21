@@ -1,5 +1,4 @@
 ---
-
 # CONFIGURATION
 layout: 2017-woah
 rootpath: "../../../"
@@ -9,7 +8,8 @@ artist: "Chanje Kunda"
 show: "Superposition"
 artist_size: 1
 show_size: 1
-header_image: "header_.jpg"
+header_image: "header_chanje.jpg"
+season: "Works Ahead — Chanje Kunda 11+12|5|2017"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
