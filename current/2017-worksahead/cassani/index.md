@@ -7,7 +7,7 @@ rootpath: "../../../"
 artist: "Tom Cassani"
 show: "Someone Loves You<br>Drive With Care"
 artist_size: 1
-show_size: 3
+show_size: 2
 header_image: "header_tom.jpg"
 season: "Works Ahead — Tom Cassani 11+12|5|2017"
 
