@@ -7,7 +7,7 @@ rootpath: "../../../"
 artist: "Toni-Dee Paul"
 show: "My Father's Kitchen"
 artist_size: 1
-show_size: 2
+show_size: 3
 header_image: "header_toni.jpg"
 season: "Works Ahead — Toni-Dee Paul 11+12|5|2017"
 
