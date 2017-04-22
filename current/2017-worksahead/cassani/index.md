@@ -17,7 +17,7 @@ season: "Works Ahead — Tom Cassani 11+12|5|2017"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, Contact + STUN *during* [Works Ahead 2017](/current/2017-worksahead)<br>*A double bill with* Toni-Dee Paul      
+*Presented by* Word of Warning, Contact + STUN *during* [Works Ahead 2017](/current/2017-worksahead)<br>*A double bill with* [Toni-Dee Paul](/current/2017-worksahead/paul)      
          
 #### In Brief                      
 Collectively constructed truths and lies — a deceptive exposé of deception itself.             
@@ -29,8 +29,8 @@ Dates: Thursday 11 + Friday 12 May 2017, 7.30pm
 Box Office Tel: 0161 274 0600 (all tickets booked via Contact only)        
         
 #### Access Information for Works Ahead at Contact           
-Age advisory: Tom's work contains imagery that some people may find disturbing, we suggest 14+ (parental/guardian discretion). Duration: the double bill lasts up to 2 hours, including an interval. Largely spoken English. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.        
-        
+Age advisory: as Tom's work contains imagery that some people may find disturbing, we suggest 14+ (parental/guardian discretion). Duration: the double bill lasts up to 2 hours, including an interval. Both works largely spoken English; [Toni-Dee Paul](/current/2017-worksahead/paul)'s work includes vegan friendly food + drink. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.         
+                
 #### More              
 The structure of a trick is imbalanced.<br>Watch everyday actions turn into the impossible.                 
 "*I place myself in vulnerable situations so we can examine the extremities of collectively constructed truths and lies. We will explore moments in time that have never happened and will never happen again. Being born at the same time as a tree, holding a stranger’s hand, crying. I will expose deceptive techniques, teach how to spot a deception, empty my pockets and disarm myself of any hidden magnets, threads and pulleys. Stripping back any physical means of trickery we will explore and expose deception.*"              
@@ -42,7 +42,7 @@ Tom is a performance artist and liar.<br>Trained in sleight of hand and prestidi
 >*…clever and challenging performance that lingers long after.*<br><a href="http://cardiffstudentmedia.co.uk/quench/culture/experimentica15" target="_blank">Sadia Pineda Hameed, Quench Magazine</a>        
                   
 #### Credits         
-Co-commissioned by hÅb + Contact for [Works Ahead](/hab/worksahead). Part of the SPILL National Platform 2016.<br>With thanks to Arts Lab, Steakhouse Live, Forest Fringe, Carnesky Productions + Tim Bromage.        
+Co-commissioned by hÅb + Contact for [Works Ahead](/hab/worksahead). Part of the SPILL National Platform 2016. With thanks to Arts Lab, Steakhouse Live, Forest Fringe, Carnesky Productions + Tim Bromage.        
                     
 [Works Ahead 2017](/current/2017-worksahead) is co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>; supported by <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England; funded by Manchester City Council.<br>Project Mentors: Matt Fenton + Peader Kirk        
          
