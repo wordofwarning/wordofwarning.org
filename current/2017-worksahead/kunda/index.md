@@ -43,20 +43,11 @@ A playful journey of discovery: about science; about sensuality; about spiritual
 #### Who is she?             
 Chanje is a Manchester-based poet, playwright, and performance artist. Her first full-length play *Blue Black Sister* was commissioned by Royal Exchange Theatre in 2009; her most recent production *Amsterdam* premièred at Contact in 2014, subsequently touring nationally + internationally, and was nominated both for the Manchester Theatre and Alfred Fagon Awards. In 2015 she was supported by the Talawa Firsts programme and won the BBC's Verb New Voices Award where she made a short film, broadcast on iPlayer. Chanje is a regular performer across the performance poetry circuit including performances at the Royal Albert Hall + Calabash Literature Festival (Jamaica).              
           
-#### What people have said about her
-About Superposition
-‘It was surprising and broke many of the clichés about live art - particularly live art dealing with issues of gender and race. I thought you had great presence.’
-JOHN MCGRATH,ARTIST DIRECTOR, MANCHESTER INTERNATIONAL FESTIVAL
-
-About Amsterdam
-‘Richly textured, poignant, funny, gloriously descriptive, cleverly constructed.’
-JUDY GORDON, WRITE OUT LOUD
-‘Highly imaginative... so lively and moving that there can be no barriers to audiences having a very good time indeed.’
-WHAT’S ON STAGE ****
-
-
->*…hilarious, shocking and profound…*<br><a href="http://exeuntmagazine.com/features/watch-out" target="_blank">Exeunt Magazine</a>               
-        
+#### What people have said about her               
+>*It was surprising and broke many of the clichés about live art — particularly live art dealing with issues of gender and race. I thought you had great presence.*<br>John McGrath, MIF, on *Superposition*              
+>★★★★ *Highly imaginative… so lively and moving that there can be no barriers to audiences having a very good time indeed…*<br><a href="" target="_blank">What's On Stage, on *Amsterdam*</a>        
+>*Richly textured, poignant, funny, gloriously descriptive, cleverly constructed.…*<br><a href="" target="_blank">Judy Gordon, Write Out Loud, on *Amsterdam*</a>
+           
 #### Credits     
 Writer + Performer: Chanje Kunda | Director: Peader Kirk | Literary Consultant: Malika Booker | Movement Consultant: Fay Warne | Creative Development: Benji Reid | Producer: Michaela Waldram-Jones          
                
