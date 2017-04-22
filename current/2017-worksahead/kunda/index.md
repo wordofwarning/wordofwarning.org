@@ -44,7 +44,7 @@ A playful journey of discovery: about science; about sensuality; about spiritual
 Chanje is a Manchester-based poet, playwright, and performance artist. Her first full-length play *Blue Black Sister* was commissioned by Royal Exchange Theatre in 2009; her most recent production *Amsterdam* premièred at Contact in 2014, subsequently touring nationally + internationally, and was nominated both for the Manchester Theatre and Alfred Fagon Awards. In 2015 she was supported by the Talawa Firsts programme and won the BBC's Verb New Voices Award where she made a short film, broadcast on iPlayer. Chanje is a regular performer across the performance poetry circuit including performances at the Royal Albert Hall + Calabash Literature Festival (Jamaica).              
           
 #### What people have said about her               
->*It was surprising and broke many of the clichés about live art — particularly live art dealing with issues of gender and race. I thought you had great presence.*<br>John McGrath, MIF, on *Superposition*              
+>*It was surprising and broke many of the clichés about live art — particularly live art dealing with issues of gender and race. I thought you had great presence.*<br>John McGrath, Manchester International Festival, on *Superposition*              
              
 >★★★★ *…highly imaginative …so lively and moving that there can be no barriers to audiences having a very good time indeed.*<br><a href="http://www.whatsonstage.com/manchester-theatre/reviews/amsterdam-contact-manchester_35979.html" target="_blank">What's On Stage, on *Amsterdam*</a>        
 >*…richly textured, poignant, funny, gloriously descriptive, cleverly constructed…*<br><a href="http://www.writeoutloud.net/public/blogentry.php?blogentryid=44624" target="_blank">Judy Gordon, Write Out Loud, on *Amsterdam*</a>
@@ -52,9 +52,8 @@ Chanje is a Manchester-based poet, playwright, and performance artist. Her first
 #### Credits     
 Writer + Performer: Chanje Kunda | Director: Peader Kirk | Literary Consultant: Malika Booker | Movement Consultant: Fay Warne | Creative Development: Benji Reid | Producer: Michaela Waldram-Jones          
                
-***EITEHR:*** Co-commissioned by hÅb, Contact + STUN (Sustained Theatre Up North) for [Works Ahead](/hab/worksahead). Developed as a [Divergency](/archive/2016-divergency) micro-commission with support from hÅb + STUN (Sustained Theatre Up North). The final development will be <a href="http://www.thelowry.com/artists-partners/artist-development-programme/developed-with" target="_blank">Developed With The Lowry</a>. Supported using public funding by the National Lottery through Arts Council England.             
-----------
-***OR:*** Jointly developed with support from Divergency, Contact, hÅb, STUN + The Lowry; supported using public funding by the National Lottery through Arts Council England.           
+**EITHER:** Co-commissioned by hÅb, Contact + STUN (Sustained Theatre Up North) for [Works Ahead](/hab/worksahead). Developed as a [Divergency](/archive/2016-divergency) micro-commission with support from hÅb + STUN (Sustained Theatre Up North). The final development will be <a href="http://www.thelowry.com/artists-partners/artist-development-programme/developed-with" target="_blank">Developed With The Lowry</a>. Supported using public funding by the National Lottery through Arts Council England.             
+**OR:** Jointly developed with support from Divergency, Contact, hÅb, STUN + The Lowry; supported using public funding by the National Lottery through Arts Council England.           
          
 [Works Ahead 2017](/current/2017-worksahead) is co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>; supported by <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England; funded by Manchester City Council.<br>Project Mentors: Matt Fenton + Peader Kirk        
         
