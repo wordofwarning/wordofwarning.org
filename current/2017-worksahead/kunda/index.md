@@ -45,8 +45,9 @@ Chanje is a Manchester-based poet, playwright, and performance artist. Her first
           
 #### What people have said about her               
 >*It was surprising and broke many of the clichés about live art — particularly live art dealing with issues of gender and race. I thought you had great presence.*<br>John McGrath, MIF, on *Superposition*              
->★★★★ *Highly imaginative… so lively and moving that there can be no barriers to audiences having a very good time indeed…*<br><a href="" target="_blank">What's On Stage, on *Amsterdam*</a>        
->*Richly textured, poignant, funny, gloriously descriptive, cleverly constructed.…*<br><a href="" target="_blank">Judy Gordon, Write Out Loud, on *Amsterdam*</a>
+             
+>★★★★ *…highly imaginative …so lively and moving that there can be no barriers to audiences having a very good time indeed.*<br><a href="http://www.whatsonstage.com/manchester-theatre/reviews/amsterdam-contact-manchester_35979.html" target="_blank">What's On Stage, on *Amsterdam*</a>        
+>*…richly textured, poignant, funny, gloriously descriptive, cleverly constructed…*<br><a href="http://www.writeoutloud.net/public/blogentry.php?blogentryid=44624" target="_blank">Judy Gordon, Write Out Loud, on *Amsterdam*</a>
            
 #### Credits     
 Writer + Performer: Chanje Kunda | Director: Peader Kirk | Literary Consultant: Malika Booker | Movement Consultant: Fay Warne | Creative Development: Benji Reid | Producer: Michaela Waldram-Jones          
