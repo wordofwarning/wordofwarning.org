@@ -17,30 +17,53 @@ season: "Works Ahead — Chanje Kunda 11+12|5|2017"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, Contact + STUN *during* Works Ahead 2017      
+*Presented by* Word of Warning, Contact + STUN *during* [Works Ahead 2017](/current/2017-worksahead)      
          
 #### In Brief                      
-Science, sensuality, spirituality, self…   
-
-#### Venues + Booking Details        
+Science, sensuality, spirituality, selves. How our bodies mirror the universe through a constellation of particles shimmering within.           
+           
+#### Venues + Booking Details for Works Ahead at STUN Studio        
 Dates: Thursday 11 + Friday 12 May 2017, 7.30pm          
 <a href="" target="_blank">Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
 <a href="http://contactmcr.com/whats-on/72292-works-ahead-at-stun-studio/booking" target="_blank">Tickets: £7/4</a> | *For £13/7 see all three Works Ahead over two nights in two venues: book a ticket for <a href="http://contactmcr.com/whats-on/72092-works-ahead-at-contact/booking" target="_blank">Toni-Dee Paul + Tom Cassani at Contact</a>.*          
 Box Office Tel: 0161 274 0600 (all tickets booked via Contact only)        
         
-#### Access Information           
+#### Access Information for Works Ahead at STUN Studio           
 Age advisory: 16+ (parental/guardian discretion). Duration: up to 1 hour.<br>For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.        
         
 #### More              
-             
+"*The sun is a flaming cocktail of hydrogen<br>Literally too hot to handle<br>Hot enough to melt a landing probe<br>I have the same fire in me*"         
+          
+*Superposition* takes you down the rabbit hole of physics, from the quantum world of the tiny to the expanses of the universe — via a lap dancing club — seeking to answer the big questions in life:          
+           
+What are the real laws of attraction?<br>How do we satisfy our longing to connect?<br>What is my place in the universe?<br>What makes me, me?                
+           
+A playful journey of discovery: about science; about sensuality; about spirituality; about ourselves; and how our bodies magically mirror the universe through a constellations of particles twinkling within us.            
+          
 #### Who is she?             
-            
+Chanje is a Manchester-based poet, playwright, and performance artist. Her first full-length play *Blue Black Sister* was commissioned by Royal Exchange Theatre in 2009; her most recent production *Amsterdam* premièred at Contact in 2014, subsequently touring nationally + internationally, and was nominated both for the Manchester Theatre and Alfred Fagon Awards. In 2015 she was supported by the Talawa Firsts programme and won the BBC's Verb New Voices Award where she made a short film, broadcast on iPlayer. Chanje is a regular performer across the performance poetry circuit including performances at the Royal Albert Hall + Calabash Literature Festival (Jamaica).              
+          
 #### What people have said about her
+About Superposition
+‘It was surprising and broke many of the clichés about live art - particularly live art dealing with issues of gender and race. I thought you had great presence.’
+JOHN MCGRATH,ARTIST DIRECTOR, MANCHESTER INTERNATIONAL FESTIVAL
+
+About Amsterdam
+‘Richly textured, poignant, funny, gloriously descriptive, cleverly constructed.’
+JUDY GORDON, WRITE OUT LOUD
+‘Highly imaginative... so lively and moving that there can be no barriers to audiences having a very good time indeed.’
+WHAT’S ON STAGE ****
+
+
 >*…hilarious, shocking and profound…*<br><a href="http://exeuntmagazine.com/features/watch-out" target="_blank">Exeunt Magazine</a>               
         
-#### Credits         
-Writer + Performer: Chanje Kunda | Director: Peader Kirk | Literary Consultant: Malika Booker | Movement Consultant: Fay Warne | Creative Development: Benji Reid | Producer: Michaela Waldram-Jones
-Developed with support from Divergency, Contact, hÅb, STUN + The Lowry; supported using public funding by the National Lottery through Arts Council England.<br>[Works Ahead](/hab/worksahead) 2017 is co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>; supported by <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England; funded by Manchester City Council.<br>Project Mentors: Matt Fenton + Peader Kirk        
+#### Credits     
+Writer + Performer: Chanje Kunda | Director: Peader Kirk | Literary Consultant: Malika Booker | Movement Consultant: Fay Warne | Creative Development: Benji Reid | Producer: Michaela Waldram-Jones          
+               
+***either*** Co-commissioned by hÅb, Contact + STUN (Sustained Theatre Up North) for [Works Ahead](/hab/worksahead). Developed as a [Divergency](/archive/2016-divergency) micro-commission with support from hÅb + STUN (Sustained Theatre Up North). The final development will be <a href="http://www.thelowry.com/artists-partners/artist-development-programme/developed-with" target="_blank">Developed With The Lowry</a>. Supported using public funding by the National Lottery through Arts Council England.             
+***or*** Jointly developed with support from Divergency, Contact, hÅb, STUN + The Lowry; supported using public funding by the National Lottery through Arts Council England.           
+         
+[Works Ahead 2017](/current/2017-worksahead) is co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>; supported by <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England; funded by Manchester City Council.<br>Project Mentors: Matt Fenton + Peader Kirk        
         
 #### Websites         
 <a href="http://www.chanjekunda.com" target="_blank">www.chanjekunda.com</a> | <a href="http://twitter.com/ChanjeKunda" target="_blank">@ChanjeKunda</a><br><a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
