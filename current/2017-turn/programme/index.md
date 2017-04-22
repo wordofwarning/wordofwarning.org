@@ -99,8 +99,9 @@ A whisper through space and time from the unknown; inspired by the 1977 Wow! sig
 **Rebekka Platt** is a dance artist based in Manchester. She is curious about interdisciplinary practice and takes inspiration from other art forms to create imaginative dance works, chiefly through long-running collaboration with sound artist David Birchall, creating the performance work *One* which toured 2010-13. Rebekka also collaborated with visual artist Aliyah Hussain on *The Dreaming* and performed in the Volkov Commanders' futuristic discos.             
 <a href="http://facebook.com/RebekkaPlatt" target="_blank">Rebekka Platt on Facebook</a> | <a href="http://twitter.com/BekkePlatt" target="_blank">@BekkePlatt</a>         
            
-**The inFamous Five | *Working title — INFAMY***              
-Five women from different parts of the globe, whose combined ages add up to 185, are finding solidarity and good humour in wake of the Brexit vote and the election of President Trump. *Mr. President, Prime Minister, Ladies and Gentlemen, we stand before you tonight…*
+**The inFamous Five | *INFAMY***              
+Five women from different parts of the globe, whose combined ages add up to 185, present a structured improv while finding solidarity and good humour in wake of the Brexit vote and the election of President Trump.             
+*Mr. President, Prime Minister, Ladies and Gentlemen, we stand before you tonight…*         
 Dancers: Ane Iselin Brogeland, Bettina Carpi, Manny Emslie, Jane McLean + Sarah Spies | Special thanks to Gary Lloyd for producing the audio track.              
 For **Ane Iselin Brogeland**, please see her solo biography above.            
 **Bettina Carpi** is a Swiss-Italian dance artist. She has danced with CandoCo Dance Company, Marc Brew, Arthur Pita, ENO, Annie Lok, and Joe Moran, as well as creating her own choreographic work.          
