@@ -33,7 +33,7 @@ Age advisory: as Tom's work contains imagery that some people may find disturbin
                 
 #### More              
 The structure of a trick is imbalanced.<br>Watch everyday actions turn into the impossible.                 
-"*I place myself in vulnerable situations so we can examine the extremities of collectively constructed truths and lies. We will explore moments in time that have never happened and will never happen again. Being born at the same time as a tree, holding a stranger’s hand, crying. I will expose deceptive techniques, teach how to spot a deception, empty my pockets and disarm myself of any hidden magnets, threads and pulleys. Stripping back any physical means of trickery we will explore and expose deception.*"              
+"*I place myself in vulnerable situations so we can examine the extremities of collectively constructed truths and lies. We will explore moments in time that have never happened and will never happen again. Things that might have happened.<br>Being born at the same time as a tree, holding a strangers hand, crying. I will expose deceptive techniques, teach how to spot a deception, empty my hands and disarm myself of any hidden mechanisms. Stripping back any physical means of trickery we will explore and expose deception, and truth together.*"              
           
 #### Who is he?             
 Tom is a performance artist and liar.<br>Trained in sleight of hand and prestidigitation, he uses deceit as an artistic platform, exploring subjects of truth, honesty, and manipulation.<br>Tom invites you to investigate his relationship with a practice founded on bending the truth and being honest about doing just that.                
