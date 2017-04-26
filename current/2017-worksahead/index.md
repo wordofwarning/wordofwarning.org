@@ -25,11 +25,11 @@ season: "Works Ahead 11+12|5|2017"
 From the very edges of deception to the comfort blanket of the home-cooked, outer space to inner turmoil, our annual sampler of new performance brings **two nights, two venues, three new works in development:**             
          
 #### at Contact: 7.30pm. £7/4 each night ‡        
-***My Father's Kitchen* — Toni-Dee Paul**<br>Food, family, memories and the meaning of 'home'.        
-***Someone Loves You Drive With Care* — Tom Cassani**<br>A deceptive exposé of deception itself.        
+[***My Father's Kitchen* — Toni-Dee Paul**](/current/2017-worksahead/paul)<br>Food, family, memories and the meaning of 'home'.        
+[***Someone Loves You Drive With Care* — Tom Cassani**](/current/2017-worksahead/cassani)<br>A deceptive exposé of deception itself.        
         
 #### at STUN Studio at Z-arts: 7.30pm. £7/4 each night ‡        
-***Superposition* — Chanje Kunda**<br>Science, sensuality, spirituality, self…        
+[***Superposition* — Chanje Kunda**](/current/2017-worksahead/kunda)<br>Science, sensuality, spirituality, self…        
 (NB Jamil Keating's *Asteroid RK1* will no longer appear.)         
          
 ‡ See both nights for £13/7: book a ticket for each venue on a different night.
