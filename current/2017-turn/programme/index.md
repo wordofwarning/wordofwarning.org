@@ -75,7 +75,7 @@ Folding, twisting, turning, rolling, jumping, sliding. Our body is a complex mac
 <a href="http://www.kapowdance.co.uk" target="_blank">www.kapowdance.co.uk</a> | <a href="http://facebook.com/kapowdance" target="_blank">Kapow Dance on Facebook</a> | <a href="http://twitter.com/kapowdance" target="_blank">@kapowdance</a>        
          
 **Matrafisc Dance | *Periodo Blu***            
-Matrafisc Dance explore the human condition through the qualities of the colour blue, a colour both life-affirming and ruthless.
+Two people… one stuck in the past and one gazing into the future. A piece about trying to keep your feet on the ground… and losing your head.        
 Music: *Winter* — Vivaldi re-composed by Max Ritcher; *La Naissance* — Keaton Henson; *Destino* — Dora Luz; *Where is my mind?* — Maxence Cyrin            
 Choreographed + performed by Matrafisc Dance: Antonello Apicella + Ina Colizza           
 **Matrafisc Dance** is an artistic collaboration between Manchester-based Italian choreographers Antonello Apicella and Ina Colizza. Key recent projects include: *Bruise* (2015-16) presented in Naples, Manchester, Hereford, and Amsterdam, and *Soul's Paths* (2016-17), an atmospheric promenade 'journey' of the soul, presented at The Wonder Inn, Manchester.             
