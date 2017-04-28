@@ -25,7 +25,7 @@ Date: Friday 28 April 2017, 7.30pm (ends by *approximately* 11pm)
 Box Office Tel: 0161 274 0600        
         
 ### Artists in Alphabetical Order (*subject to change*)        
-**Akeim Toussaint Buck no longer appears due to illness.**        
+**Akeim Toussaint Buck — due to illness he can no longer perform.**        
         
 **Ane Iselin Brogeland | *The Album of Love (an extract)***        
 *I believe it is the time and space for some sweat, silver, and lots of love! Together we will be sharing a space we have all somehow visited in one way or another. It is extreme, it is painful, it is playful, and we get lost. It is love!*         
