@@ -25,11 +25,7 @@ Date: Friday 28 April 2017, 7.30pm (ends by *approximately* 11pm)
 Box Office Tel: 0161 274 0600        
         
 ### Artists in Alphabetical Order (*subject to change*)        
-**Akeim Toussaint Buck | *Windows of Displacement***        
-An autobiographically sourced solo, blending dance, song, and spoken word to explore personal narratives, ancestral memory, and the shifting (and increasingly urgent) politics surrounding the movement of people. It explores his own experience of displacement, coupled with historical and current political references. Aiming to create a story of the past, present and future of humanity, this marks Akeim's first work strictly for theatre settings.        
-Choreographed + performed by Akeim Toussaint Buck. The development of *Windows of Displacement* is supported using public funding by the National Lottery through Arts Council England; further supported by Yorkshire Dance through the Amplified project, funded by Esmee Fairbairn Foundation.         
-**Akeim Toussaint Buck** is a multifaceted performing artist, born in Jamaica and raised in England. He seeks to create moving, thought provoking yet accessible and free spirited projects. A Northern School of Contemporary Dance graduate, Akeim has worked as a dancer, beatboxer, and actor with Pauline Mayers (Mayers Ensemble), Chris Goode & Co, Balbir Singh Dance, Jamaal Burkmar Dance, John Liron (Wolf Kid Theatre), Heather Walrond Dance, and Ballet Lorent; and has created collaborative projects including: *Snakebox* with Otis Jones, merging music and dance and creating projects for a wide range of communities and contexts.        
-<a href="http://www.toussainttomove.com" target="_blank">www.toussainttomove.com</a> | <a href="http://facebook.com/ToussaintToMove" target="_blank">Toussaint To Move on Facebook</a>        
+**Akeim Toussaint Buck no longer appears due to illness.**        
         
 **Ane Iselin Brogeland | *The Album of Love (an extract)***        
 *I believe it is the time and space for some sweat, silver, and lots of love! Together we will be sharing a space we have all somehow visited in one way or another. It is extreme, it is painful, it is playful, and we get lost. It is love!*         
