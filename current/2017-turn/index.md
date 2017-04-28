@@ -24,7 +24,7 @@ All the energy of this annual whirlwind of new northern dance condensed.<br>Twel
         
 ### Artists        
 In a new format, our ninth annual platform for dancers + dance-makers sees a single night of short new dance-works, *participating artists subject to change*…        
-Ane Iselin Brogeland | Born + Bred Dance Theatre | Coalesce Dance | Giorgio de Carolis | Grace Surman + Clare Dearnaley | Jo Cork | Kapow Dance | Matrafisc Dance | Meraki Collective | Peter Groom Dance Theatre | Rebekka Platt | The inFamous Five<br>(†Akeim Toussaint Buck no longer appears due to illness.)        
+Ane Iselin Brogeland | Born + Bred Dance Theatre | Coalesce Dance | Giorgio de Carolis | Grace Surman + Clare Dearnaley | Jo Cork | Kapow Dance | Matrafisc Dance | Meraki Collective | Peter Groom Dance Theatre | Rebekka Platt | The inFamous Five |<br>† NB due to illness, Akeim Toussaint Buck no longer appears.        
         
 *Mr. President, Prime Minister, Ladies + Gentlemen, we stand before you…<br>Folding like paper, playing with your food…<br>The shifting politics of the movement of people…<br>Ancestral memory, the human condition, the colour blue…<br>Blind certainty, a lover’s look and a whisper from the unknown…*             
          
