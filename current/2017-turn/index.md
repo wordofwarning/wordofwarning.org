@@ -21,8 +21,10 @@ season: "Turn 28|4|2017"
          
 ### Friday 28 April 2017, 7.30pm
 All the energy of this annual whirlwind of new northern dance condensed.<br>Twelve† works, twelve articulations of human expression.<br>One extraordinary night of dance.          
-        
-### Artists        
+              
+Now that it's over, read reviews by <a href="http://www.thereviewshub.com/turn-2017-contact-manchester" target="_blank">The Public Reviews</a> + <a href="http://afronalysis.wordpress.com/2017/04/29/review-turn-contact" target="_blank">Afronalysis</a>.            
+             
+### [Artists + Programme](/current/2017-turn/programme)          
 In a new format, our ninth annual platform for dancers + dance-makers sees a single night of short new dance-works, *participating artists subject to change*…        
 Ane Iselin Brogeland | Born + Bred Dance Theatre | Coalesce Dance | Giorgio de Carolis | Grace Surman + Clare Dearnaley | Jo Cork | Kapow Dance | Matrafisc Dance | Meraki Collective | Peter Groom Dance Theatre | Rebekka Platt | The inFamous Five |<br>† NB: due to illness Akeim Toussaint Buck can no longer perform.            
         
