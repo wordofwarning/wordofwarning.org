@@ -22,7 +22,7 @@ season: "Turn 28|4|2017"
 ### Friday 28 April 2017, 7.30pm
 All the energy of this annual whirlwind of new northern dance condensed.<br>Twelve† works, twelve articulations of human expression.<br>One extraordinary night of dance.          
               
-Now that it's over, read reviews by <a href="http://www.thereviewshub.com/turn-2017-contact-manchester" target="_blank">The Public Reviews</a> + <a href="http://afronalysis.wordpress.com/2017/04/29/review-turn-contact" target="_blank">Afronalysis</a>.            
+Now that it's over, read reviews by <a href="http://afronalysis.wordpress.com/2017/04/29/review-turn-contact" target="_blank">Afronalysis</a> + <a href="http://www.thereviewshub.com/turn-2017-contact-manchester" target="_blank">The Public Reviews</a>.           
              
 ### [Artists + Programme](/current/2017-turn/programme)          
 In a new format, our ninth annual platform for dancers + dance-makers sees a single night of short new dance-works, *participating artists subject to change*…        
