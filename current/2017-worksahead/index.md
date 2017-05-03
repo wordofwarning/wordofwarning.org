@@ -61,4 +61,4 @@ For specific age and access information please email <mailto:info@habmcr.org> or
 [Works Ahead](/hab/worksahead) 2017 is co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>; supported by <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England; funded by Manchester City Council.<br>Project Mentors: Matt Fenton + Peader Kirk        
         
 #### Websites         
-<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
+<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a> | <a href="http://facebook.com/events/286249641798766" target="_blank">Works Ahead 2017 Facebook event</a>
