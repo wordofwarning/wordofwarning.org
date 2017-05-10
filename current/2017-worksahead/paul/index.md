@@ -32,16 +32,13 @@ Box Office Tel: 0161 274 0600 (all tickets booked via Contact only)
 Age advisory: as [Tom Cassani](/current/2017-worksahead/cassani)'s work contains imagery that some people may find disturbing, we suggest 14+ (parental/guardian discretion). Duration: the double bill lasts up to 2 hours, including an interval. Both works largely spoken English; Toni-Dee's work includes vegan friendly food + drink. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.        
         
 #### More              
-The Black British identity is endlessly complex. A combination of adaptation, absorption, and integration means our culture is never static, and is always shifting.                  
-                
-Exploring home-cooked food and family trees, whilst delving into the stories that unfold in my father's kitchen, this show examines the meaning of home, whilst reflecting on an empire's history and Caribbean migration of the 1950s.             
+Exploring home-cooked food and family trees, whilst delving into the stories that unfold in her father's kitchen, the show examines the relationship between an 8-year-old girl and her estranged father, and the journey that follows 12 years on, whilst reflecting on hundreds of years of Jamaican history through memory and poetry.             
           
 #### Who is she?             
-Toni-Dee is a Leeds/Manchester-based theatre maker, collaborator, writer, and performance artist — whose current body of work explores identity politics, memory, and culture.          
+Toni-Dee is a Leeds/Manchester-based theatre maker, collaborator, writer, and performance artist — her practice explores identity politics, memory, and culture, using auto-biography as stimulus for her work thus far. Previously commissioned by Fuel, she has toured her mono-dialogue *Rum Punch* around the North of England, and has also worked with artists such as Andy Smith + Selina Thompson.                
          
-#### What people have said about *My Father's Kitchen*          
->*The communal sharing of food nourishes intimacy, as does Paul’s infectious warmth.*<br><a href="http://exeuntmagazine.com/reviews/review-sick-festival-manchester" target="_blank">Catherine Love, Exeunt Magazine</a>           
->*Wonderfully poetic.*<br><a href="http://quietmandave.co.uk/2016/10/divergency" target="_blank">QuietManDave</a>        
+#### What people have said about her          
+>*Wonderfully poetic.*<br><a href="http://quietmandave.co.uk/2016/10/divergency" target="_blank">QuietManDave, on *My Father's Kitchen at Divergency</a>        
                   
 #### Credits         
 Co-commissioned by hÅb + Contact for [Works Ahead](/hab/worksahead). Developed as a [Divergency](/archive/2016-divergency) micro-commission with support from hÅb + STUN (Sustained Theatre Up North).        
