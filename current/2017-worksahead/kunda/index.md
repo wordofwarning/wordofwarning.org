@@ -29,7 +29,7 @@ Dates: Thursday 11 + Friday 12 May 2017, 7.30pm
 Box Office Tel: 0161 274 0600 (all tickets booked via Contact only)        
         
 #### Access Information for Works Ahead at STUN Studio           
-Age advisory: 16+ (parental/guardian discretion). Duration: up to 1 hour.<br>For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.        
+Age advisory: 16+ (parental/guardian discretion). Duration: up to 45 minutes.<br>For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.        
         
 #### More              
 "*The sun is a flaming cocktail of hydrogen<br>Literally too hot to handle<br>Hot enough to melt a landing probe<br>I have the same fire in me*"         
