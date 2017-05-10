@@ -37,9 +37,10 @@ Exploring home-cooked food and family trees, whilst delving into the stories tha
 #### Who is she?             
 Toni-Dee is a Leeds/Manchester-based theatre maker, collaborator, writer, and performance artist — her practice explores identity politics, memory, and culture, using auto-biography as stimulus for her work thus far. Previously commissioned by Fuel, she has toured her mono-dialogue *Rum Punch* around the North of England, and has also worked with artists such as Andy Smith + Selina Thompson.                
          
-#### What people have said about her          
->*Wonderfully poetic.*<br><a href="http://quietmandave.co.uk/2016/10/divergency" target="_blank">QuietManDave, on *My Father's Kitchen at Divergency</a>        
-                  
+#### What people have said about *My Father's Kitchen*          
+>*The communal sharing of food nourishes intimacy, as does Paul’s infectious warmth.*<br><a href="http://exeuntmagazine.com/reviews/review-sick-festival-manchester" target="_blank">Catherine Love, Exeunt Magazine</a>           
+>*Wonderfully poetic.*<br><a href="http://quietmandave.co.uk/2016/10/divergency" target="_blank">QuietManDave</a>                  
+               
 #### Credits         
 Co-commissioned by hÅb + Contact for [Works Ahead](/hab/worksahead). Developed as a [Divergency](/archive/2016-divergency) micro-commission with support from hÅb + STUN (Sustained Theatre Up North).        
                     
