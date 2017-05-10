@@ -38,10 +38,10 @@ Age advisory: 16+ (parental/guardian discretion). Duration: up to 1 hour.<br>For
            
 What are the real laws of attraction?<br>How do we satisfy our longing to connect?<br>What is my place in the universe?<br>What makes me, me?                
            
-A playful journey of discovery: about science; about sensuality; about spirituality; about ourselves; and how our bodies magically mirror the universe through a constellations of particles twinkling within us.            
+A playful journey of discovery: about science; about sensuality; about spirituality; about ourselves; and how our bodies magically mirror the universe through a constellation of particles twinkling within us.            
           
 #### Who is she?             
-Chanje is a Manchester-based poet, playwright, and performance artist. Her first full-length play *Blue Black Sister* was commissioned by Royal Exchange Theatre in 2009; her most recent production *Amsterdam* premièred at Contact in 2014, subsequently touring nationally + internationally, and was nominated both for the Manchester Theatre and Alfred Fagon Awards. In 2015 she was supported by the Talawa Firsts programme and won the BBC's Verb New Voices Award where she made a short film, broadcast on iPlayer. Chanje is a regular performer across the performance poetry circuit including performances at the Royal Albert Hall + Calabash Literature Festival (Jamaica).              
+Chanje is a Manchester-based poet, playwright, and performance artist. Her first full-length play *Blue Black Sister* was commissioned by Royal Exchange Theatre in 2009; her most recent production *Amsterdam* premièred at Contact in 2014, subsequently touring nationally + internationally, and was nominated for both Manchester Theatre + Alfred Fagon Awards. In 2015 she was supported by the Talawa Firsts programme and won the BBC’s Verb New Voices Award, making content for radio + online platforms. On the performance poetry circuit she has performed at the Royal Albert Hall, and venues in Jamaica + the Netherlands.              
           
 #### What people have said about her               
 >*It was surprising and broke many of the clichés about live art — particularly live art dealing with issues of gender and race. I thought you had great presence.*<br>John McGrath, Manchester International Festival, on *Superposition*              
