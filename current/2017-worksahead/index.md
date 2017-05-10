@@ -54,8 +54,7 @@ Box Office Tel: 0161 274 0600 (all tickets booked via Contact)
           
 #### Access Information        
 **at Contact**<br>Age advisory: as Tom Cassani's work contains imagery that some people may find disturbing, we suggest 14+ (parental/guardian discretion). Duration: the double bill lasts up to 2 hours, including an interval. Both works largely spoken English; Toni-Dee Paul's work includes vegan friendly food + drink.         
-**at STUN Studio at Z-arts**<br>Age advisory: 16+ (parental/guardian discretion). Duration: up to 1 hour.          
-For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
+**at STUN Studio at Z-arts**<br>Age advisory: 16+ (parental/guardian discretion). Duration: up to 45 minutes. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
           
 #### Credits         
 [Works Ahead](/hab/worksahead) 2017 is co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>; supported by <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England; funded by Manchester City Council.<br>Project Mentors: Matt Fenton + Peader Kirk        
