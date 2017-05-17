@@ -30,7 +30,7 @@ From the very edges of deception to the comfort blanket of the home-cooked, oute
         
 #### at STUN Studio at Z-arts: 7.30pm. £7/4 each night ‡        
 [***Superposition* — Chanje Kunda**](/current/2017-worksahead/kunda)<br>Science, sensuality, spirituality, self…        
-<small>(NB Jamil Keating's *Asteroid RK1* will no longer appear.)</small>         
+(NB Jamil Keating's *Asteroid RK1* will no longer appear.)         
          
 Now that it's over, read a review of *Superposition* by <a href="http://afronalysis.wordpress.com/2017/05/14/review-superposition-stun" target="_blank">Afronalysis</a>.          
            
