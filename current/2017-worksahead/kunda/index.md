@@ -22,6 +22,8 @@ season: "Works Ahead — Chanje Kunda 11+12|5|2017"
 #### In Brief                      
 Science, sensuality, spirituality, selves. How our bodies mirror the universe through a constellation of particles shimmering within.           
            
+Now that it's over, read a review by <a href="http://afronalysis.wordpress.com/2017/05/14/review-superposition-stun" target="_blank">Afronalysis</a>.          
+               
 #### Venues + Booking Details for Works Ahead at STUN Studio        
 Dates: Thursday 11 + Friday 12 May 2017, 7.30pm          
 <a href="" target="_blank">Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
