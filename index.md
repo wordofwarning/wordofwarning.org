@@ -5,4 +5,4 @@ header_image: "assets/images/header_2017SSWarn_wood.jpg"
 season: homepage
 
 ---
-#### Thank you to Chanje, Tom, Toni, and to our audiences, partners + team for [Works Ahead](/current/2017-worksahead)…<br>Our [season](/current/2017-springsummer) continues with [Stephanie Ridings](/current/2017-springsummer/ridings) challenging preconceptions at The Lowry *17 May* & [Richard DeDomenici](/current/2017-springsummer/redux)'s (ir)reverent redux of a Muncunian classic at HOME *5 July*.
+#### Thank you [Stephanie Ridings](/current/2017-springsummer/ridings), The Lowry + our audience for Wednesday's WTF… We end [Spring/Summer](/current/2017-springsummer) with the premiere of [Richard DeDomenici](/current/2017-springsummer/redux)'s (ir)reverent redux of *24 Hour Party People* at HOME *5 July*.
