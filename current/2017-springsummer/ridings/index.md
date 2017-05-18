@@ -23,8 +23,10 @@ season: "Stephanie Ridings 17|5|2017"
 Women who marry men on death row: unconventional love, state homicide and challenging preconceptions – *trying to understand… trying not to judge…*         
           
 See her <a href="http://vimeo.com/172586727" target="_blank">trailer</a>.        
-         
-#### Venue + Booking Details    
+             
+Now that it's over, read a 3½★ review from <a href="http://www.thereviewshub.com/the-road-to-huntsville-the-lowry-salford" target="_blank">The Reviews Hub</a>.              
+            
+#### Venue + Booking Details           
 Date: Wednesday 17 May 2017, 8pm          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
 <a href="http://www.thelowry.com/events/the-road-to-huntsville" target="_blank">Tickets: available to reserve from Fri 21 Apr</a> + Pay What You Decide on the evening. **Please note the WTF Wednesday ticketing policy below**.          
