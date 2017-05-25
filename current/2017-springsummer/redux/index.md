@@ -29,9 +29,14 @@ Date: Wednesday 5 July 2017, 6.30pm
 <a href="http://homemcr.org" target="_blank">Tickets: £7/5</a> *will be on sale soon*           
 Box Office Tel: 0161 200 1500             
               
-#### Access Information      
-Age advisory *18+ tbc* (parental/guardian discretion); duration *approximately* 1 hour. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.    
-
+#### Access Information          
+Age advisory *18+ tbc* (parental/guardian discretion); duration *approximately* 1 hour. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
+            
+#### Call-out For Volunteer Extras            
+We're <a href="http://homemcr.org/opportunity/fancy-being-an-extra-in-24-hour-party-people-redux" target="_blank">looking for seeking volunteer extras</a> to help us make the *Redux*; no experience necessary, though we would LOVE to hear from you if you were involved as an extra in the original film. The shoots will take place 4–6 June at locations across Manchester and will last an hour or so each. You will need to make your own way to the locations and dress the part, but The Redux Project will provide you with snacks and refreshments – and, of course, F-A-M-E.              
+                  
+If you would like to take part please send an email to <mailto:redux@homemcr.org> (before Wed 31 May, 12noon) with the subject 'REDUX: Count me in'; please include: your name, phone number, a photo, and your availability on Sun 4, Mon 5, Tue 6 June. And if there is a particular character you'd like to play, please let us know! (We are still looking for a "Tony Wilson”, "Lindsay Reade”, "Iain Curtis”, "Shaun Ryder", and a "Bez").          
+            
 #### More
 Join Richard DeDomenici in his attempt to remake several minutes of the iconic 2002 Manchester movie *24 Hour Party People*…        
         
