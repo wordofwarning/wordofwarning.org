@@ -26,7 +26,7 @@ Glittering première of this (ir)reverent remake of the ultimate Mancunian class
 #### Venue + Booking Details       
 Date: Wednesday 5 July 2017, 6.30pm              
 <a href="http://homemcr.org/visit" target="_blank">Venue: HOME</a>, 2 Tony Wilson Place, Manchester, M15 4FN          
-<a href="http://homemcr.org" target="_blank">Tickets: £7/5</a> *will be on sale soon*           
+<a href="https://homemcr.org/checkout/?pid=318395" target="_blank">Tickets: £7/5</a>        
 Box Office Tel: 0161 200 1500             
               
 #### Access Information          
