@@ -15,13 +15,13 @@ gallery:
     -   {file: "titlepage.jpg", artist: "<small>A free day out for the curious of all ages, click top left Haphazard for more.</small>", show: "<small>Images copyright &copy;2017 Word of Warning"}
     -   {file: "sav.jpg", artist: "Chris Sav"}
     -   {file: "megan1.jpg", artist: "Megan Egglestein"}
-    -   {file: "megan1.jpg", artist: "Megan Egglestein"}
+    -   {file: "megan2.jpg", artist: "Megan Egglestein"}
     -   {file: "megan3.jpg", artist: "Megan Egglestein"}
     -   {file: "doors.jpg", artist: "Benjamin McChrystal Plimmer"}
     -   {file: "playingup.jpg", artist: "Playing Up"}
     -   {file: "fort1.jpg", artist: "Lani Irving + Chloë Smith"}
     -   {file: "fort2.jpg", artist: "Lani Irving + Chloë Smith"}
-    -   {file: "AAAjpg", artist: "AAA Batteries"}
+    -   {file: "AAA.jpg", artist: "AAA Batteries"}
     -   {file: "cagedqueen.jpg", artist: "Philip Breadney"}
     -   {file: "delpha1.jpg", artist: "Delpha Hudson + Nigel Bispham"}
     -   {file: "delpha2.jpg", artist: "Delpha Hudson + Nigel Bispham"}
@@ -30,7 +30,6 @@ gallery:
     -   {file: "michael1.jpg", artist: "Michael Gleave"}
     -   {file: "michael2.jpg", artist: "Michael Gleave"}
     -   {file: "nicola1.jpg", artist: "Nicola Smith"}
-    -   {file: "nicola2.jpg", artist: "Nicola Smith"}
-    -   {file: "nicola3.jpg", artist: "Nicola Smith"} 
+    -   {file: "nicola2.jpg", artist: "Nicola Smith"} 
  
 ---
