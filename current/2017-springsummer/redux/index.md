@@ -25,19 +25,14 @@ Glittering première of this (ir)reverent remake of the ultimate Mancunian class
         
 #### Venue + Booking Details       
 Date: Wednesday 5 July 2017, 6.30pm              
-<a href="http://homemcr.org/visit" target="_blank">Venue: HOME</a>, 2 Tony Wilson Place, Manchester, M15 4FN          
-<a href="https://homemcr.org/checkout/?pid=318395" target="_blank">Tickets: £7/5</a>        
+<a href="http://homemcr.org/visit" target="_blank">Venue: HOME (Cinema 1)</a>, 2 Tony Wilson Place, Manchester, M15 4FN          
+<a href="http://homemcr.org/checkout/?pid=318395" target="_blank">Tickets: £7/5</a>        
 Box Office Tel: 0161 200 1500             
               
 #### Access Information          
-Age advisory *18+ tbc* (parental/guardian discretion); duration *approximately* 1 hour. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
+Age advisory *18+* (parental/guardian discretion); duration *approximately* 1 hour. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
             
-#### Call-out For Volunteer Extras            
-We're <a href="http://homemcr.org/opportunity/fancy-being-an-extra-in-24-hour-party-people-redux" target="_blank">looking for volunteer extras</a> to help us make the *Redux*; no experience necessary, though we would LOVE to hear from you if you were involved as an extra in the original film. The shoots will take place 4/5/6 June at locations across Manchester and will last an hour or so each. You'll need to make your own way to the locations and dress the part, but The Redux Project will provide you with snacks and refreshments – and, of course, F-A-M-E.              
-                  
-If you'd like to take part please send an email to <mailto:redux@homemcr.org> (before Wed 31 May, 12noon) with the subject 'REDUX: Count me in'<br>Please include: your name, phone number, a photo, and your availability on Sun 4, Mon 5, Tue 6 June. And if there is a particular character you'd like to play, please let us know! (We are still looking for a "Tony Wilson”, "Lindsay Reade”, "Iain Curtis”, "Shaun Ryder", and a "Bez").          
-            
-#### More
+#### More            
 Join Richard DeDomenici in his attempt to remake several minutes of the iconic 2002 Manchester movie *24 Hour Party People*…        
         
 Since 2013 DeDomenici's inexplicably popular *Redux Project* has caused a stir over sixty times, in places as diverse as 
@@ -46,7 +41,9 @@ London, Bangkok, Hong Kong, Seoul, Sydney, Beijing, and Milton Keynes. The proje
 In November 2015 DeDomenici adapted *The Redux Project* for television as part of the BBC4 event <a href="http://www.bbc.co.uk/programmes/p038bxhz" target="_blank">*On Stage: Live from Television Centre*</a> — described by journalist Matt Trueman as "<a href="http://twitter.com/matttrueman/status/666028504119648256" target="_blank">one of the smartest, strangest subversive half hours of television I've ever seen</a>"         
          
 The project's second visit to Manchester — following May 2016's [*Queer As Yolk*](/archive/2016-springsummer/redux) with Eggs Collective — returns *Redux* HOME with Word of Warning for a glittering World Première.           
-         
+             
+*Please note that filming has now finished and we no longer require volunteer extras.*                         
+             
 #### Who is he?        
 Richard DeDomenici makes work that is social, joyful, topical and political — although rarely simultaneously. He specialises in urban-absurdist interventions which strive to create the kind of uncertainty that leads to possibility.        
        
@@ -59,7 +56,7 @@ Richard DeDomenici makes work that is social, joyful, topical and political — 
 >*DeDomenici delivered by the bucket load.*<br><a href="http://longlens.wordpress.com/2015/12/01/criticising-the-bbc-live-tv-and-live-from-televison-centre-featuring-common-wealthg-gecko-theatre-richard-dedomenici-and-tourettes-hero" target="_blank">Garry Cook, Journalist</a>             
         
 #### Credits         
-Commissioned by HOME + hÅb. Produced by Richard DeDomenici + hÅb.        
+Commissioned by <a href="http://homemcr.org/event/24-hour-party-people-redux" target="_blank">HOME</a> + hÅb. Produced by Richard DeDomenici + hÅb.        
           
 #### Websites       
 <a href="http://TheReduxProject.com" target="_blank">TheReduxProject.com</a> | <a href="http://dedomenici.com" target="_blank">dedomenici.com</a><br><a href="http://twitter.com/TheReduxProject" target="_blank">@TheReduxProject</a> | <a href="http://twitter.com/DeDomenici" target="_blank">@DeDomenici</a>
