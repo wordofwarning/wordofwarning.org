@@ -5,6 +5,9 @@ layout: archive
 season: "Galleries"
 
 archived:
+    - {folder: "2017-woah", name: "Works Ahead 2017", class: "woah"}
+    - {folder: "2017-turn", name: "Turn 2017", class: "t2017"}
+    - {folder: "2017-haphazard", name: "Haphazard 2017", class: "hh2017"}
     - {folder: "2016-emergency", name: "Emergency 2016", class: "e2016"}
     - {folder: "2016-hazard", name: "Hazard 2016", class: "h2016"}
     - {folder: "2016-woah", name: "Works Ahead 2016", class: "woah"}
