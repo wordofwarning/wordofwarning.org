@@ -21,7 +21,8 @@ Our **eighteenth Emergency** takes place on **Saturday 30 September 2017** (12no
          
 With a whole range of spaces to fill — what we now need is a lots of great work!  Whilst Emergency isn't themed, if anybody would like to create an eighteenth birthday celebration, we'd be more than amenable, and might be able to top the budget up a bit for the right project!     
        
-So… Artists working in live art and contemporary performance are invited to submit proposals of short pieces of work, works-in-progress or extracts of longer works for inclusion in this event.           
+So… Artists working in live art and contemporary performance are invited to submit proposals of short pieces of work, works-in-progress or extracts of longer works for inclusion in this event.        
+        
 Proposals are also encouraged for durational, one-to-one and limited capacity work; performance installation and intervention-based works in and around the spaces available.       
                
 To get a feel for it, have a look at the 2016 [programme](/archive/2016-emergency) + [gallery](/galleries/2016-emergency).           
@@ -44,7 +45,7 @@ Emergency 2017 will offer an honorarium of up to £100 per piece selected, to co
 **DEADLINE: Friday 11 August 2017, 5pm.**      
           
 Actual links, to cut + paste into a web browser:         
-http://emergencymcr.posthaven.com/emergency-2016-1-oct-2016-manchester-call-for-proposals-now-open          
+http://emergencymcr.posthaven.com/emergency-2017-30-sept-2017-manchester-call-for-proposals-now-open          
 http://habarts.wufoo.com/forms/z1i31f0m03ovwoe            
 http://habarts.wufoo.com/forms/r19tdg9m0h21yu0         
              
