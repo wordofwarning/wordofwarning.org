@@ -54,7 +54,7 @@ Chanje is a Manchester-based poet, playwright, and performance artist. Her first
 #### Credits     
 Writer + Performer: Chanje Kunda | Director: Peader Kirk | Literary Consultant: Malika Booker | Movement Consultant: Fay Warne | Creative Development: Benji Reid | Producer: Michaela Waldram-Jones          
                
-Jointly developed with support from [Divergency](/archive/2016-divergency), Contact, hÅb, STUN + <a href="http://www.thelowry.com/artists-partners/artist-development-programme/developed-with" target="_blank">Developed With The Lowry</a>; supported using public funding by the National Lottery through Arts Council England.           
+Jointly co-commissioned/developed with support from [Divergency](/archive/2016-divergency), Contact, hÅb, STUN + <a href="http://www.thelowry.com/artists-partners/artist-development-programme/developed-with" target="_blank">Developed With The Lowry</a>; supported using public funding by the National Lottery through Arts Council England.           
          
 [Works Ahead 2017](/current/2017-worksahead) is co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>; supported by <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England; funded by Manchester City Council.<br>Project Mentors: Matt Fenton + Peader Kirk        
         
