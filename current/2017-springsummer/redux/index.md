@@ -21,8 +21,10 @@ season: "Richard DeDomenici's Redux Project 5|7|2017"
 *Presented by* Word of Warning *+* HOME      
            
 #### In Brief     
-Glittering première of this (ir)reverent remake of the ultimate Mancunian classic, introduced by auteur DeDomenici.  <a href="http://thereduxproject.com/manchester" target="_blank">Click here for a look at the final product!</a> or <a href="https://www.facebook.com/HOMEmcr/videos/1399187930176710/" target="_blank">here for the *Live from the Red Carpet*. </a>    
-        
+Glittering première of this (ir)reverent remake of the ultimate Mancunian classic, introduced by auteur DeDomenici.            
+                 
+Now that it's over, take a look at the <a href="http://thereduxproject.com/manchester" target="_blank">finished film</a> or watch <a href="http://www.facebook.com/HOMEmcr/videos/1399187930176710/" target="_blank">*Live from the Red Carpet*</a>.         
+            
 #### Venue + Booking Details       
 Date: Wednesday 5 July 2017, 6.30pm              
 <a href="http://homemcr.org/visit" target="_blank">Venue: HOME (Cinema 1)</a>, 2 Tony Wilson Place, Manchester, M15 4FN          
