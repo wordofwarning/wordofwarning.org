@@ -23,6 +23,8 @@ season: "Richard DeDomenici's Redux Project 5|7|2017"
 #### In Brief     
 Glittering première of this (ir)reverent remake of the ultimate Mancunian classic, introduced by auteur DeDomenici.            
                  
+<iframe width="560" height="315" src="http://www.youtube.com/embed/rwXeFsRjZFg?rel=0" frameborder="0" allowfullscreen></iframe>             
+
 Now that it's over, take a look at the <a href="http://thereduxproject.com/manchester" target="_blank">finished film</a> or watch <a href="http://www.facebook.com/HOMEmcr/videos/1399187930176710/" target="_blank">*Live from the Red Carpet*</a>.         
             
 #### Venue + Booking Details       
