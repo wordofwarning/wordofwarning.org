@@ -23,9 +23,10 @@ season: "Richard DeDomenici's Redux Project 5|7|2017"
 #### In Brief     
 Glittering première of this (ir)reverent remake of the ultimate Mancunian classic, introduced by auteur DeDomenici.            
                  
-Now that it's over, you can now see the full 12 minute *Redux* on YouTube:            
+Now that it's over, see the full 12 minute *Redux* on YouTube:            
 <iframe width="560" height="315" src="http://www.youtube.com/embed/rwXeFsRjZFg?rel=0" frameborder="0" allowfullscreen></iframe>            
-Also see <a href="http://www.youtube.com/watch?v=AMGxDu_CD2sr" target="_blank">behind the scenes footage</a> or watch <a href="http://www.facebook.com/HOMEmcr/videos/1399187930176710/" target="_blank">*Live from the Red Carpet*</a>.         
+       
+You can also go <a href="http://www.youtube.com/watch?v=AMGxDu_CD2sr" target="_blank">behind the scenes</a> or see<a href="http://www.facebook.com/HOMEmcr/videos/1399187930176710/" target="_blank">*Live from the Red Carpet*</a>.         
             
 #### Venue + Booking Details       
 Date: Wednesday 5 July 2017, 6.30pm              
