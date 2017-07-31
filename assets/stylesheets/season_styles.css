@@ -521,7 +521,7 @@
 	.h2016 .splash
 		{background:url(../images/header_2016_hazard.jpg) center center}
 
-/* Autumn/Winter 2016 Programme (maroon feather, last colour of four used)
+/* Autumn/Winter 2016 Programme maroon feather (last of four colours used)
 ------------------------------------------------------*/
 
 	.aw2016 .splash
@@ -548,7 +548,7 @@
 	.e2016 .splash
 		{background:url(../images/header_emergency16.jpg) center center}
 
-/* divergency orange
+/* divergency (2017) orange
 ------------------------------------------------------*/
 		
 	.div,
@@ -569,7 +569,7 @@
 	.div .splash
 		{background:url(../images/header_chanje.jpg) center center}
 
-/* Spring 2017 Programme (lilac leaf, alternative green pine)
+/* Spring 2017 Programme lilac leaf (alternative green pine)
 ------------------------------------------------------*/
 
 	.s2017 .splash
@@ -596,6 +596,12 @@
 	.hh2017 .splash
 		{background:url(../images/header_haphazard17.jpg) center center}
 
+/* Spring/Summer 2017 Programme tan wood (alternative ochre petal)
+------------------------------------------------------*/
+
+	.ss2017 .splash
+		{background:url(../images/header_2017SSWarn_wood.jpg) -150px center}
+
 /* Turn 2017 cyan
 ------------------------------------------------------*/
 
@@ -617,8 +623,29 @@
 	.t2017 .splash
 		{background:url(../images/header_turn17.jpg) center center}
 
-/* Spring/Summer 2017 Programme (ochre petal, alternative tan wood)
+/* Autumn/Winter 2017 Programme purple bubbles
 ------------------------------------------------------*/
 
-	.ss2017 .splash
-		{background:url(../images/header_2017SSWarn_petal.jpg) -150px center}
+	.aw2017 .splash
+		{background:url(../images/header_2017awWarni.jpg) -150px center}
+
+/* Emergency 2017 bright red
+------------------------------------------------------*/
+
+	.e2017,
+	.e2017 .artist, 
+	.e2017 .show,
+	.e2017 .season
+		{background:#d13; color:#fff;}
+
+	.e2017 a,
+	.e2017 a:visited,
+	.e2017 a:hover
+		{color:#fff;}
+	.e2017 nav a:hover,
+	.e2017 article a:hover,
+	.e2017 footer a:hover
+		{background: #fff; color: #d13;}
+		
+	.e2017 .splash
+		{background:url(../images/header_emergency17a.jpg) center center}
