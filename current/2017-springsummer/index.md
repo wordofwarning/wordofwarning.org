@@ -4,7 +4,7 @@
 layout: 2017-springsummer
 rootpath: "../../"
 is_index: true
-season: "Spring/Summer 2017"
+season: "S/S 2017"
 
 ---
 *From the [very edges of deception](/current/2017-worksahead/cassani) to the [comfort blanket of the home-cooked](/current/2017-worksahead/paul); [outer space to inner turmoil](/current/2017-worksahead/kunda); [corporeal virtuosity](/current/2017-turn) to [capital vengeance](/current/2017-springsummer/ridings) — capped off with the [ultimate red carpet event](/current/2017-springsummer/redux). Dress to impress…*        
