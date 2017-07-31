@@ -4,6 +4,7 @@
 layout: 2016-springsummer
 rootpath: "../../"
 is_index: true
+season: "S/S 2016"
 
 ---
 *From a [resonant embrace](/archive/2016-springsummer/standen) to a [city takeover bid](/archive/2016-hazard), a season of [twists and turns](/archive/2016-turn); [eggs](/archive/2016-springsummer/redux), [coffee](/archive/2016-springsummer/igorandmoreno) and [spicy moments](/archive/2016-worksahead)…*          
