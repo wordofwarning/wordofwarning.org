@@ -1,15 +1,15 @@
 ---
 
 # CONFIGURATION
-layout: 2017-springsummer
+layout: 2017-autumnwinter
 rootpath: "../../"
 is_index: true
-season: "S/S 2017"
+season: "A/W 2017"
 
 ---
-*From the [very edges of deception](/current/2017-worksahead/cassani) to the [comfort blanket of the home-cooked](/current/2017-worksahead/paul); [outer space to inner turmoil](/current/2017-worksahead/kunda); [corporeal virtuosity](/current/2017-turn) to [capital vengeance](/current/2017-springsummer/ridings) — capped off with the [ultimate red carpet event](/current/2017-springsummer/redux). Dress to impress…*        
-         
-Brought to you by hÅb — with Contact, Dance Manchester, Manchester Dance Consortium, STUN, The Lowry, HOME — we look forward to seeing you at some or all of Spring/Summer 2017. If you want to check out what happened last season take a look at our [Spring 2017 archive](/archive/2017-spring), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=147497048277" target="_blank">online survey</a>.        
+*A season that sees [its oldest child come of age and earn its crust](/current/2017-emergency); a season where you choose what you want to pay. Tales of [displacement](/current/2017-autumnwinter/buck) and [fitting in](/current/2017-autumnwinter/bannon); of [home and what it means to belong](/current/2017-autumnwinter/2destlang); of [getting by and paying the rent](/current/2017-autumnwinter/pritchard)…*        
+        
+Brought to you by hÅb — with The Lowry, Z-arts, STUN, Divergency, The Guinness Partnership — we look forward to seeing you at some or all of Autumn/Winter 2017. If you want to check out what happened last season take a look at our [Spring/Summer 2017 archive](/archive/2017-springsummer), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=147497048277" target="_blank">online survey</a>.        
              
 #### What is Word of Warning + where did it come from?         
 >*Consistently refreshing and surprising, no season is ever the same…*          
@@ -29,13 +29,13 @@ We don't want to put you off by talking labels — yes there'll be theatre, live
 >• *Astonishing. Like nothing else. Transformative, immersive, moving.*<br>• *Brave, dark, humerous, intimate, intense.*<br>• *Heartwarming, funny + engaging.*<br>• *Strangely mesmeric. A unique experience.*<br>• *Very enjoyable — felt accessible and thus enjoyable to all.*<br>• *You programme wonderful, daring performances that I have never been disappointed by.*          
          
 #### Who is Word of Warning?         
-My name's Tamsin Drury and I run an organisation called **[hÅb](/hab)**, which was greenroom's partner for over a decade. You might not know hÅb but you might know some of our events — like **[Emergency](http://emergencymcr.org)** (Manchester's free marathon of live work, soon to enter its eighteenth year) and **[Hazard](http://hazardmcr.org)** (biennial random sprees of eccentricity in Manchester's City Centre).
+My name's Tamsin Drury and I run an organisation called **[hÅb](/hab)**, which was greenroom's partner for over a decade. You might not know hÅb but you might know some of our events — like **[Emergency](http://emergencymcr.org)** (Manchester's free marathon of live work, now in its eighteenth year) and **[Hazard](http://hazardmcr.org)** (biennial random sprees of eccentricity in Manchester's City Centre).
          
 I've been around a while, a really long while… and in that time, I've been responsible for making the Arndale Tower flash, wrapping Cathedral Gardens in 7km of hazard tape and encouraging a mass audience conga and a glitter-cannon Hallelujah chorus! On the less eccentric side, over the years hÅb has also worked with literally hundreds of young NW artists to help them create new pieces of theatre + dance.
           
 Please send programming enquiries to me at <mailto:info@habmcr.org>             
          
-I'm joined in this lunacy by John Franklin, greenroom's long time programme co-ordinator, the friendly face greeting you and eliciting your feedback at many of our events. We are also grateful for the support of a growing band of hÅb-ettes: currently Catherine (Cat) Shaw, Sam Stockdale + Toni-Dee Paul.
+I'm joined in this lunacy by John Franklin, greenroom's long time programme co-ordinator, the friendly face greeting you and eliciting your feedback at many of our events. We are also grateful for the support of Toni-Dee Paul.           
         
 #### What our audiences said about us in 2016           
 >• *Always special, bringing the unexpected and intriguing, thank you.*<br>• *Bringing some of the most interesting performance work in the world to our city.*<br>• *Fabulous for seeing things different from the mainstream machine.*<br>• *Great organisation — a reason to move to Manchester.*<br>• *I don't know what I would do with my spare time without you.*
