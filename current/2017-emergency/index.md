@@ -1,15 +1,15 @@
 ---
 # CONFIGURATION
-layout: 2016-emergency
+layout: 2017-emergency
 rootpath: "../../"
 is_index: true
 
 # ABOUT THE SHOW - GENERIC
-artist: "Emergency 2016" # the name of the artist or company
+artist: "Emergency 2017" # the name of the artist or company
 show: "A free day out for the curious." # the name of the show
 artist_size: 1
 show_size: 3
-season: Emergency 1|10|2016
+season: Emergency 30|9|2016
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
