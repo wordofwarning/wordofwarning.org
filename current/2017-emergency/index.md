@@ -18,13 +18,13 @@ season: Emergency 30|9|2017
 ---
 *Presented by* Word of Warning, STUN *+* Z-arts           
          
-### Saturday 30 September 2017, 12noon-10pm. Pay What You Decide†             
-Manchester's 18th micro-marathon of the bizarre + the beautiful fills the Z-arts building to bursting point — your chance to sample the different in a non-stop performance takeover. *Participating artists to be announced in mid-September.*         
+### Sat 30 Sep 2017, 12noon-10pm. Pay What You Decide             
+Manchester's 18th micro-marathon of the bizarre + the beautiful fills Z-arts to bursting point — your chance to sample the different in a non-stop performance takeover. *Participating artists to be announced mid-September.*         
          
 #### Venue + Booking Details         
-Date: Saturday 1 October 2016, 12noon-11pm (*Ends 1hr later than advertised*)        
+Date: Saturday 30 September 2017, 12noon-10pm           
 [Venue: Z-arts (incl. STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
-Tickets: FREE, no booking required, come + go as you please.        
+Tickets: Pay What You Decide throughout the event, no booking required, come + go as you please.           
 *N.B. Some limited capacity shows may have sign-up sheets on the day, others operate on a first-come, first-served basis.*        
 Venue (Z-arts) Tel: 0161 232 6089         
          
