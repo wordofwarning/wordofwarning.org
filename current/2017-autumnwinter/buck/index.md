@@ -8,7 +8,7 @@ rootpath: "../../../"
 artist: "Akeim Toussaint Buck" # the name of the artist or company
 show: "Windows of Displacement" # the name of the show
 artist_size: 2
-show_size: 3
+show_size: 2
 header_image: "header_akeim.jpg"
 season: "Akeim Toussaint Buck 19|10|2017"
 
@@ -21,13 +21,13 @@ season: "Akeim Toussaint Buck 19|10|2017"
 *Presented by* Divergency*,* STUN *+* Word of Warning      
            
 #### In Brief     
-Personal stories, ancestral memory and the shifting politics of the movement of people.<br>An urgent story of the past, present and future told through dance, song and word.            
+Personal stories, ancestral memory and the shifting politics of the movement of people. An urgent story of the past, present and future told through dance, song and word.            
           
 #### Venue + Booking Details       
 Date: Thursday 19 October 2017, 7.30pm              
-[Venue: STUN Studio at Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA          
-[Tickets: available to reserve online, Pay What You Decide in person on the evening](http://www.z-arts.org/events/TBD). Please note there is a limited capacity.         
-Box Office Tel: 0161 232 6089        
+<a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
+<a href="http://" target="_blank">Tickets: available to reserve online, Pay What You Decide in person on the evening</a>.<br>*Please note that with a limited capacity **ALL reservations will be released on the evening at 7.15pm**, so please arrive early to collect a ticket.*           
+Box Office Tel: 0161 232 6089 (Z-arts)        
               
 #### Access Information          
 Age advisory *??+* (parental/guardian discretion); duration ???. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
