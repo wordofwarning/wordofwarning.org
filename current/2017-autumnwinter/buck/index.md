@@ -8,7 +8,7 @@ rootpath: "../../../"
 artist: "Akeim Toussaint Buck" # the name of the artist or company
 show: "Windows of Displacement" # the name of the show
 artist_size: 2
-show_size: 2
+show_size: 3
 header_image: "header_akeim.jpg"
 season: "Akeim Toussaint Buck 19|10|2017"
 
@@ -26,7 +26,7 @@ Personal stories, ancestral memory and the shifting politics of the movement of 
 #### Venue + Booking Details       
 Date: Thursday 19 October 2017, 7.30pm              
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
-<a href="http://" target="_blank">Tickets: available to reserve online, Pay What You Decide in person on the evening</a>. With a limited capacity, **ALL reservations will be released on the evening at 7.15pm**, please arrive early to collect a ticket.           
+<a href="http://" target="_blank">Tickets: available to reserve online</a>, Pay What You Decide in person on the evening. With a limited capacity, **ALL reservations will be released on the evening at 7.15pm**, please arrive early at Z-arts to collect a ticket.           
 Box Office Tel: 0161 232 6089 (Z-arts)        
               
 #### Access Information          
@@ -38,7 +38,7 @@ Age advisory *??+* (parental/guardian discretion); duration ???. For specific ag
 #### Who is he?        
 ???        
        
-#### What people have said about *Windows…*         
+#### What people have said about Akeim / *Windows of…*         
 >*…*<br><a href="http://" target="_blank">publication</a>       
         
 #### Credits         
