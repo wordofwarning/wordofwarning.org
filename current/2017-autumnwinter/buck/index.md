@@ -26,7 +26,7 @@ Personal stories, ancestral memory and the shifting politics of the movement of 
 #### Venue + Booking Details       
 Date: Thursday 19 October 2017, 7.30pm              
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
-<a href="http://" target="_blank">Tickets: available to reserve online, Pay What You Decide in person on the evening</a>.<br>*Please note that with a limited capacity **ALL reservations will be released on the evening at 7.15pm**, so please arrive early to collect a ticket.*           
+<a href="http://" target="_blank">Tickets: available to reserve online, Pay What You Decide in person on the evening</a>. With a limited capacity, **ALL reservations will be released on the evening at 7.15pm**, please arrive early to collect a ticket.           
 Box Office Tel: 0161 232 6089 (Z-arts)        
               
 #### Access Information          
