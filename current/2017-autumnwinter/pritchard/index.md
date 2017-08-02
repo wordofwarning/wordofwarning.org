@@ -24,9 +24,9 @@ season: "Rent Party 1|12|2017"
 Part-show, part-party, for those just about managing.       
         
 #### Venue + Booking Details       
-Date: Friday 1 December 2017, ?pm              
+Date: Friday 1 December 2017, 8?pm              
 <a href="http://www.google.co.uk/maps/place/M3+6HU" target="_blank">Venue: Adelphi Court (SPACE?)</a>, North George Street, Salford, M3 6HU          
-<a href="http://TICKET" target="_blank">Tickets: available to reserve online from 1 Nov, Pay What You Decide in person on the evening.         
+Tickets: available to reserve online from 1 Nov, Pay What You Decide in person on the evening.         
 Tel: 0161 232 6086 (Word of Warning office)             
               
 #### Access Information          
@@ -36,7 +36,7 @@ Age advisory *18+* (parental/guardian discretion); duration ??? hour. For specif
 ???…        
         
 #### Who is he / are they?        
-DPD is ???        
+Darren collaborates and creates across art-forms as choreographer, director, performer, producer + teacher, often working in contemporary dance and experimenal theatre, especially devising orignal work.    
        
 #### What people have said about Darren Pritchard Dance / *Rent Party*         
 >*quote…*<br><a href="http://www.???" target="_blank">publication</a>         
