@@ -6,7 +6,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Two Destination Language" # the name of the artist or company
 show: "Manpower" # the name of the show
-artist_size: 4
+artist_size: 5
 show_size: 1
 header_image: "header_2dl.jpg"    
 season: Two Destination Language 10|11|2016
