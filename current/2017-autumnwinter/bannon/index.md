@@ -6,7 +6,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Jo Bannon" # the name of the artist or company
 show: "Alba" # the name of the show
-artist_size: 1
+artist_size: 2
 show_size: 1
 header_image: "header_bannon.jpg"    
 season: "Jo Bannon 27|9|2017"
@@ -23,8 +23,6 @@ season: "Jo Bannon 27|9|2017"
 Blinding light and visual poetry, inherited myth and performed identity.        
         
 A story of paleness, of blending in and of standing out.         
-          
-See her <a href="http://vimeo.com/172586727" target="_blank">trailer</a>.        
           
 #### Venue + Booking Details           
 Date: Wednesday 27 September 2017, 8pm          
@@ -43,7 +41,7 @@ Influenced by her experience as a person with albinism, Jo Bannon uses blinding 
 *Alba* explores the stories we tell of ourselves and the stories told about us, the myths we inherit and the ones we embody, the identities we cannot shake off and so instead perform.           
          
 #### Who is she          
-A Bristol-based artist making live art and performance, Jo also works as a dramaturg and producer, and is an In Between Time associate artist and founder member of Residence. She has presented work in the UK and Europe — Word of Warning presented her intimate [*Exposure*](/archive/2013-domestic/bannon) in 2013's Domestic.            
+A Bristol-based artist making live art and performance, Jo also works as a dramaturg and producer, and is an In Between Time associate artist and founder member of Residence. She has presented work in the UK and Europe — Word of Warning presented her intimate [*Exposure*](/archive/2013-domestic/bannon) during 2013's Domestic.            
         
 Her work is concerned with human exchange and encounter, and explores how our physical bodies experience the world around us and how this sensory experience can or cannot be conveyed. She attempts to unpick the ways we look, hear and sense our immediate environment in order to rethink or  make unfamiliar these intrinsic human behaviors. Her performances often manifest as intimate encounters designed for single or small audiences (cf *Exposure*), alongside staged theatre work and installations.         
           
@@ -52,10 +50,10 @@ Her work is concerned with human exchange and encounter, and explores how our ph
         
 #### Credits          
 Created by Jo Bannon.<br>Dramaturg: Nic Green | Sound Design: Yas Clarke 
-| Lighting Design: Jo Palmer<br>Commissioned + produced by In Between Time with Ovalhouse + Pink Fringe. Supported by Residence. Developed through Fuel's Jerwood Residencies at Cove Park which are supported by the Jerwood Charitable Foundation.<br>Image by Paul Blakemore.          
+| Lighting Design: Jo Palmer<br>Commissioned + produced by In Between Time with Ovalhouse + Pink Fringe.<br>Supported by Residence. Developed through Fuel's Jerwood Residencies at Cove Park which are supported by the Jerwood Charitable Foundation.<br>Image by Paul Blakemore.          
         
 #### Websites          
-<a href="http://jobannon.co.uk" target="_blank">jobannon.co.uk</a> | <a href="http://twitter.com/missjobannon" target="_blank">@missjobannon</a>           
+<a href="http://www.jobannon.co.uk/Alba.html" target="_blank">jobannon.co.uk</a> | <a href="http://twitter.com/missjobannon" target="_blank">@missjobannon</a>           
            
 #### WTF Wednesday ticketing policy at The Lowry         
 Please note that as not everyone who reserves tickets uses them, to make sure we have a full house we send out more tickets than there are places. We do our best to get the numbers right, but unfortunately we occasionally have to disappoint people so please arrive early. However, where possible, if you do miss out we will try to get you in to another show at The Lowry that evening.
