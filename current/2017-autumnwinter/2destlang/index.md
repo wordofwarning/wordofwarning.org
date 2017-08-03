@@ -40,19 +40,19 @@ A woman returns to visit her childhood home and misses the one thing she values 
          
 *Declining Solo* is about the relationship between a father and daughter, between a person and their culture. It's about migration and home, and what it means to belong in a place. It's about who we are.         
           
-Combining text with choreography, video and specially commissioned music, *Declining Solo* combines memories, folklore, political turmoil and family history in a celebration of life and shared stories.         
+Fusing text with choreography, video and specially commissioned music — memories, folklore, political turmoil and family history combine in a celebration of life and our shared stories.         
          
 >*It's in a place where there's singing and dancing and eating and drinking and being merry, of friendships and familial links as the core of communities.<br>It's in a place where the summer smells of sun, and the winter smells of burning coal.<br>I think if I piece it back together somehow<br>If the vase has been broken and I put back the pieces, it can get better.*        
          
 #### Who are they        
-Two Destination Language make contemporary performance that's beautiful, arresting and accessible; sometimes it's called theatre, sometimes live art, sometimes dance theatre — Word of Warning most recently presented their Brexit-triggered [*Manpower*](/archive/2016-autumnwinter/2destlang) in 2016.                
+Two Destination Language make contemporary performance that's beautiful, arresting and accessible; sometimes it's called theatre, sometimes live art, sometimes dance theatre — Word of Warning presented their Brexit-triggered [*Manpower*](/archive/2016-autumnwinter/2destlang) in 2016 and heartfelt [*Near Gone*](/archive/2014-spring/2destlang) in 2014.                
          
 Led by artists Katherina Radeva and Alister Lownie, their work explores questions of identity, belonging and culture; as a Bulgarian and a Scot working together, they use their own histories and experiences to explore these ideas.            
           
 UK-based, they are currently resident Company at Salisbury Arts Centre and **?** supported artists at The Point, Eastleigh.             
           
 #### What people have said about them         
->*A beautiful, brave piece of work steeped in memories and nostalgia.*<br>Cheryl Pierce, Quarterhouse Folkestone on *Declining Solo*<br>*Complex, tender work … uses all the senses to draw us in.*<br>Audience member on *Declining Solo*<br>★★★★★ *…great beauty, sensitivity and humour…*<br><a href="http://www.broadwaybaby.com/shows/near-gone/702154" target="_blank">Broadway Baby</a> on *Near Gone*            
+>*A beautiful, brave piece of work steeped in memories and nostalgia.*<br>Cheryl Pierce (Quarterhouse Folkestone) on *Declining Solo*<br>*Complex, tender work … uses all the senses to draw us in.*<br>Audience member on *Declining Solo*<br>★★★★★ *…great beauty, sensitivity and humour…*<br><a href="http://www.broadwaybaby.com/shows/near-gone/702154" target="_blank">Broadway Baby</a> on *Near Gone*            
         
 #### Credits          
 Supported using public funding by the National Lottery through Arts Council England. Research + development has been made possible by funding from Dance4, with residencies hosted by ARC Stockton, Quarterhouse, SPAM!, Salisbury Arts Centre + The Point Eastleigh.         
