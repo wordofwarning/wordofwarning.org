@@ -6,7 +6,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Jo Bannon" # the name of the artist or company
 show: "Alba" # the name of the show
-artist_size: 3
+artist_size: 2
 show_size: 1
 header_image: "header_bannon.jpg"    
 season: "Jo Bannon 27|9|2017"
