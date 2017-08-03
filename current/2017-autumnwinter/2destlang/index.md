@@ -27,21 +27,21 @@ Watch their <a href="http://vimeo.com/212925166" target="_blank">insight into ma
 #### Venue + Booking Details           
 Date: Wednesday 8 November 2017, 8pm          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-<a href="http://www.thelowry.com/events/category/Contemporary" target="_blank">Tickets: available to reserve from Fri 13 Oct**?**</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
+<a href="http://www.thelowry.com/events/category/Contemporary" target="_blank">Tickets: available to reserve from Fri 13 Oct</a>**?**, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
 Age advisory: **?**+ (parental/guardian discretion). With no interval, the show lasts approximately **?**. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
-???            
+**?**            
 
-#### Who are they?        
+#### Who are they        
 Two Destination Language make contemporary performance that's beautiful, arresting and accessible; sometimes it's called theatre, sometimes live art, sometimes dance theatre — Word of Warning most recently presented their Brexit-triggered [*Manpower*](/archive/2016-autumnwinter/2destlang) in 2016.                
          
 Led by artists Katherina Radeva and Alister Lownie, their work explores questions of identity, belonging and culture; as a Bulgarian and a Scot working together, they use their own histories and experiences to explore these ideas.            
           
-**?** UK-based, they are currently resident Company at Salisbury Arts Centre and supported artists at The Point, Eastleigh.             
+UK-based, they are currently **?** resident Company at Salisbury Arts Centre and **?** supported artists at The Point, Eastleigh.             
           
 #### What people have said about them         
 >*quote*<br><a href="http://URL" target="_blank">**?**</a> on *Declining Solo*        
