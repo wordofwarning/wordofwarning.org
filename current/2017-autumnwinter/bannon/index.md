@@ -20,9 +20,7 @@ season: "Jo Bannon 27|9|2017"
 *Presented by* The Lowry + Word of Warning *as part of* WTF          
          
 #### In Brief      
-Blinding light and visual poetry, inherited myth and performed identity.        
-        
-A story of paleness, of blending in and of standing out.         
+Blinding light and visual poetry, inherited myth and performed identity.<br>A story of paleness, of blending in and of standing out.         
           
 #### Venue + Booking Details           
 Date: Wednesday 27 September 2017, 8pm          
@@ -43,14 +41,14 @@ Influenced by her experience as a person with albinism, Jo Bannon uses blinding 
 #### Who is she          
 A Bristol-based artist making live art and performance, Jo also works as a dramaturg and producer, and is an In Between Time associate artist and founder member of Residence. She has presented work in the UK and Europe — Word of Warning presented her intimate [*Exposure*](/archive/2013-domestic/bannon) during 2013's Domestic.            
         
-Her work is concerned with human exchange and encounter, and explores how our physical bodies experience the world around us and how this sensory experience can or cannot be conveyed. She attempts to unpick the ways we look, hear and sense our immediate environment in order to rethink or  make unfamiliar these intrinsic human behaviors. Her performances often manifest as intimate encounters designed for single or small audiences (cf *Exposure*), alongside staged theatre work and installations.         
+Her work is concerned with human exchange and encounter, and explores how our physical bodies experience the world around us and how this sensory experience can or cannot be conveyed. She attempts to unpick the ways we look, hear and sense our immediate environment in order to rethink or  make unfamiliar these intrinsic human behaviors. Her performances often manifest as intimate encounters designed for single or small audiences (e.g. *Exposure*), alongside staged theatre work and installations.         
           
 #### What people have said about *Alba*         
 >*In its own unassuming way, this show is a little miracle, too.*<br><a href="http://www.theguardian.com/stage/2015/feb/16/in-between-time-festival-review-bristol" target="_blank">Lyn Gardner, The Guardian</a><br>*…creates a transcendent moment…*<br><a href="http://totaltheatre.org.uk/inbetweentime" target="_blank">Total Theatre</a><br>*…a bleached-white poem of domesticity and miracles.*<br><a href="http://www.thestage.co.uk/reviews/2015/forest-fringe-week-2" target="_blank">The Stage</a>
         
 #### Credits          
 Created by Jo Bannon.<br>Dramaturg: Nic Green | Sound Design: Yas Clarke 
-| Lighting Design: Jo Palmer<br>Commissioned + produced by In Between Time with Ovalhouse + Pink Fringe.<br>Supported by Residence. Developed through Fuel's Jerwood Residencies at Cove Park which are supported by the Jerwood Charitable Foundation.<br>Image by Paul Blakemore.          
+| Lighting Design: Jo Palmer<br>Commissioned + produced by In Between Time with Ovalhouse + Pink Fringe. Supported by Residence. Developed through Fuel's Jerwood Residencies at Cove Park which are supported by the Jerwood Charitable Foundation.<br>Image by Paul Blakemore.          
         
 #### Websites          
 <a href="http://www.jobannon.co.uk/Alba.html" target="_blank">jobannon.co.uk</a> | <a href="http://twitter.com/missjobannon" target="_blank">@missjobannon</a>           
