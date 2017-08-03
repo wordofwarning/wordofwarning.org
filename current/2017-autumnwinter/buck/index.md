@@ -7,7 +7,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Akeim Toussaint Buck" # the name of the artist or company
 show: "Windows of Displacement" # the name of the show
-artist_size: 2
+artist_size: 3
 show_size: 3
 header_image: "header_akeim.jpg"
 season: "Akeim Toussaint Buck 19|10|2017"
@@ -21,7 +21,7 @@ season: "Akeim Toussaint Buck 19|10|2017"
 *Presented by* Divergency*,* STUN *+* Word of Warning      
            
 #### In Brief     
-Personal stories, ancestral memory and the shifting politics of the movement of people. An urgent story of the past, present and future told through dance, song and word.            
+Personal stories, ancestral memory and the shifting politics of the diaspora. An urgent story of the past, present and future told through dance, song and word.            
           
 #### Venue + Booking Details       
 Date: Thursday 19 October 2017, 7.30pm              
@@ -35,9 +35,7 @@ Age advisory: parental/guardian discretion; duration **?**. For specific age and
 #### More            
 One young man's journey from Jamaica to England becomes a universal story of displacement told through the eyes, mouth and feet of personal experience.            
          
-A journey through ancestral memory, colonial history and modern economics to explore the shifting politics of the diaspora.
-      
-A personal narrative to invoke a sense of collective responsibility.<br>An urgent plea for the past, present and future of humanity.          
+A journey through ancestral memory, colonial history and modern economics to explore the shifting politics of the diaspora.<br>A personal narrative to invoke a sense of collective responsibility.<br>An urgent plea for the past, present and future of humanity.          
        
 Using his own experience as a Jamaican-born citizen now residing in the UK, Akeim Toussaint Buck works with dance, song and word in this exploration of identity in today's England.             
          
@@ -45,10 +43,10 @@ Using his own experience as a Jamaican-born citizen now residing in the UK, Akei
 **?**      
        
 #### What people have said about him / *Windows…*         
->*…an electric performer …an engaging exploration of crucial contemporary issues.*<br>Sophie Ignatieff, Refugee Week         
+>*…an electric performer<br>…an engaging exploration of crucial contemporary issues.*<br>Sophie Ignatieff, Refugee Week         
          
 #### Credits        
-Commissioned by Yorkshire Dance Amplified + Northern School of Contemporary Dance through the Northern Connections programme, delivered in partnership with Spin Arts + Leeds Beckett University.<br>Supported using public funding by the National Lottery through Arts Council England. Developed at West Yorkshire Playhouse; supported by The Civic, Barnsley + RJC Dance.<br>Image by Ashley Karrell.        
+Commissioned by Yorkshire Dance Amplified + Northern School of Contemporary Dance through the Northern Connections programme, delivered in partnership with Spin Arts + Leeds Beckett University.<br>Supported using public funding by the National Lottery through Arts Council England. Developed at West Yorkshire Playhouse; supported by The Civic, Barnsley + RJC Dance. | Image by Ashley Karrell.        
           
 #### Websites       
 <a href="http://www.toussainttomove.com" target="_blank">www.toussainttomove.com</a> | <a href="http://www.facebook.com/ToussaintToMove" target="_blank">facebook/ToussaintToMove</a>
