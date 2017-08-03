@@ -7,7 +7,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Darren Pritchard Dance" # the name of the artist or company
 show: "Rent Party" # the name of the show
-artist_size: 3
+artist_size: 4
 show_size: 1
 header_image: "header_placeholder.jpg"
 season: "Darren Pritchard Dance 1|12|2017"
