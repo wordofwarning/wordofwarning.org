@@ -30,29 +30,25 @@ Date: Thursday 19 October 2017, 7.30pm
 Box Office Tel: 0161 232 6089 (Z-arts)        
               
 #### Access Information          
-Age advisory **?**+ (parental/guardian discretion); duration **?**. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
+Age advisory: parental/guardian discretion; duration **?**. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
             
 #### More            
 One young man's journey from Jamaica to England becomes a universal story of displacement told through the eyes, mouth and feet of personal experience.            
          
-A journey through ancestral memory, colonial history and modern economics to explore the shifting politics of diaspora.        
-          
-Ancestral memory, colonial history and modern economics collide on the shifting sands of the movement of people.          
-          
-An unpicking of the shifting politics of the movement of people journey through ancestral memory, colonial history and contemporary socio-economics          
-         
-A personal narrative to invoke a sense of collective responsibility.<br>An urgent plea for the past, present and future of humanity.
-
-Using his own experience as a Jamaican born citizen now residing in the UK, Akeim Toussaint Buck works with dance song and spoken work in this exploration of diverse identities in today's England.             
-         
-#### Who is he?        
-???        
+A journey through ancestral memory, colonial history and modern economics to explore the shifting politics of the diaspora.
+      
+A personal narrative to invoke a sense of collective responsibility.<br>An urgent plea for the past, present and future of humanity.          
        
-#### What people have said about Akeim / *Windows…*         
->*Akeim is an electric performer and the piece is an engaging exploration of crucial contemporary issues.*<br>Sophie Ignatieff, Refugee Week         
+Using his own experience as a Jamaican-born citizen now residing in the UK, Akeim Toussaint Buck works with dance, song and word in this exploration of identity in today's England.             
+         
+#### Who is he        
+**?**      
+       
+#### What people have said about him / *Windows…*         
+>*…an electric performer …an engaging exploration of crucial contemporary issues.*<br>Sophie Ignatieff, Refugee Week         
          
 #### Credits        
-Commissioned by Yorkshire Dance Amplified + Northern School of Contemporary Dance through the Northern Connections programme, delivered in partnership with Spin Arts + Leeds Beckett University.<br>Supported using public funding by the National Lottery through Arts Council England.<br>Developed at West Yorkshire Playhouse; supported by The Civic, Barnsley + RJC Dance.        
+Commissioned by Yorkshire Dance Amplified + Northern School of Contemporary Dance through the Northern Connections programme, delivered in partnership with Spin Arts + Leeds Beckett University.<br>Supported using public funding by the National Lottery through Arts Council England. Developed at West Yorkshire Playhouse; supported by The Civic, Barnsley + RJC Dance.<br>Image by Ashley Karrell.        
           
 #### Websites       
 <a href="http://www.toussainttomove.com" target="_blank">www.toussainttomove.com</a> | <a href="http://www.facebook.com/ToussaintToMove" target="_blank">facebook/ToussaintToMove</a>
