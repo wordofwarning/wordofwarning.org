@@ -6,8 +6,8 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Two Destination Language" # the name of the artist or company
 show: "Declining Solo" # the name of the show
-artist_size: 4
-show_size: 2
+artist_size: 3
+show_size: 1
 header_image: "header_2dlflip.jpg"    
 season: "Two Destination Language 8|11|2017"
 
@@ -34,15 +34,15 @@ Box Office Tel: 0843 208 6000 (The Lowry)
 Age advisory: **?**+ (parental/guardian discretion). With no interval, the show lasts approximately **?**. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
-We are all ageing. As I write this, and as you read it. Time passes.          
+>*We are all ageing. As I write this, and as you read it. Time passes.*          
          
 A woman returns to visit her childhood home and misses the one thing she values most: the father she remembers.          
          
 *Declining Solo* is about the relationship between a father and daughter, between a person and their culture. It's about migration and home, and what it means to belong in a place. It's about who we are.         
           
-Combining text with choreography, video and specially commissioned music, *Declining Solo* invites you inside one woman's memories of the family home where she grew up. Those memories, folklore, political turmoil and family history combine in a celebration of life and shared stories.         
+Combining text with choreography, video and specially commissioned music, *Declining Solo* combines memories, folklore, political turmoil and family history in a celebration of life and shared stories.         
          
->It's in a place where there's singing and dancing and eating and drinking and being merry, of friendships and familial links as the core of communities.<br>It's in a place where the summer smells of sun, and the winter smells of burning coal.<br>I think if I piece it back together somehow<br>If the vase has been broken and I put back the pieces, it can get better.        
+>*It's in a place where there's singing and dancing and eating and drinking and being merry, of friendships and familial links as the core of communities.<br>It's in a place where the summer smells of sun, and the winter smells of burning coal.<br>I think if I piece it back together somehow<br>If the vase has been broken and I put back the pieces, it can get better.*        
          
 #### Who are they        
 Two Destination Language make contemporary performance that's beautiful, arresting and accessible; sometimes it's called theatre, sometimes live art, sometimes dance theatre — Word of Warning most recently presented their Brexit-triggered [*Manpower*](/archive/2016-autumnwinter/2destlang) in 2016.                
