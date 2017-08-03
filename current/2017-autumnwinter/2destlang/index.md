@@ -7,7 +7,7 @@ rootpath: "../../../"
 artist: "Two Destination Language" # the name of the artist or company
 show: "Declining Solo" # the name of the show
 artist_size: 4
-show_size: 1
+show_size: 2
 header_image: "header_2dlflip.jpg"    
 season: "Two Destination Language 8|11|2017"
 
@@ -34,25 +34,31 @@ Box Office Tel: 0843 208 6000 (The Lowry)
 Age advisory: **?**+ (parental/guardian discretion). With no interval, the show lasts approximately **?**. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
-**?**            
-
+We are all ageing. As I write this, and as you read it. Time passes.          
+         
+A woman returns to visit her childhood home and misses the one thing she values most: the father she remembers.          
+         
+*Declining Solo* is about the relationship between a father and daughter, between a person and their culture. It's about migration and home, and what it means to belong in a place. It's about who we are.         
+          
+Combining text with choreography, video and specially commissioned music, *Declining Solo* invites you inside one woman's memories of the family home where she grew up. Those memories, folklore, political turmoil and family history combine in a celebration of life and shared stories.         
+         
+>It's in a place where there's singing and dancing and eating and drinking and being merry, of friendships and familial links as the core of communities.<br>It's in a place where the summer smells of sun, and the winter smells of burning coal.<br>I think if I piece it back together somehow<br>If the vase has been broken and I put back the pieces, it can get better.        
+         
 #### Who are they        
 Two Destination Language make contemporary performance that's beautiful, arresting and accessible; sometimes it's called theatre, sometimes live art, sometimes dance theatre — Word of Warning most recently presented their Brexit-triggered [*Manpower*](/archive/2016-autumnwinter/2destlang) in 2016.                
          
 Led by artists Katherina Radeva and Alister Lownie, their work explores questions of identity, belonging and culture; as a Bulgarian and a Scot working together, they use their own histories and experiences to explore these ideas.            
           
-UK-based, they are currently **?** resident Company at Salisbury Arts Centre and **?** supported artists at The Point, Eastleigh.             
+UK-based, they are currently resident Company at Salisbury Arts Centre and **?** supported artists at The Point, Eastleigh.             
           
 #### What people have said about them         
->*quote*<br><a href="http://URL" target="_blank">**?**</a> on *Declining Solo*        
->*Immensely powerful and life enhancing.*<br>Audience member on *Manpower*          
->★★★★★ *…great beauty, sensitivity and humour…*<br><a href="http://www.broadwaybaby.com/shows/near-gone/702154" target="_blank">Broadway Baby</a> on *Near Gone*            
+>*A beautiful, brave piece of work steeped in memories and nostalgia.*<br>Cheryl Pierce, Quarterhouse Folkestone on *Declining Solo*<br>*Complex, tender work … uses all the senses to draw us in.*<br>Audience member on *Declining Solo*<br>★★★★★ *…great beauty, sensitivity and humour…*<br><a href="http://www.broadwaybaby.com/shows/near-gone/702154" target="_blank">Broadway Baby</a> on *Near Gone*            
         
 #### Credits          
-**?**          
+Supported using public funding by the National Lottery through Arts Council England. Research + development has been made possible by funding from Dance4, with residencies hosted by ARC Stockton, Quarterhouse, SPAM!, Salisbury Arts Centre + The Point Eastleigh.         
         
 #### Websites          
-<a href="http://www.twodestinationlanguage.com" target="_blank">twodestinationlanguage.com</a> | <a href="http://twitter.com/2destlang" target="_blank">@2destlang</a> | <a href="http://facebook.com/2destlang" target="_blank">2destlang on Facebook</a>         
+<a href="http://www.twodestinationlanguage.com/?page_id=1598" target="_blank">twodestinationlanguage.com</a> | <a href="http://twitter.com/2destlang" target="_blank">@2destlang</a> | <a href="http://facebook.com/2destlang" target="_blank">2destlang on Facebook</a>         
         
 #### WTF Wednesday ticketing policy at The Lowry         
 Please note that as not everyone who reserves tickets uses them, to make sure we have a full house we send out more tickets than there are places. We do our best to get the numbers right, but unfortunately we occasionally have to disappoint people so please arrive early. However, where possible, if you do miss out we will try to get you in to another show at The Lowry that evening.
