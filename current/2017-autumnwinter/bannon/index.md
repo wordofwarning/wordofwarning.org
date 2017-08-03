@@ -34,7 +34,7 @@ Box Office Tel: 0843 208 6000 (The Lowry)
 Age advisory: **?** (parental/guardian discretion). With no interval, the show lasts approximately 50 minutes. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
->"I was born on the day the Pope came to Coventry, my home town. In my family this unexpected appearance was perceived as a blessing. A sublime gift."        
+>*I was born on the day the Pope came to Coventry, my home town. In my family this unexpected appearance was perceived as a blessing. A sublime gift.*        
         
 Influenced by her experience as a person with albinism, Jo Bannon uses blinding light, proximity, movement and sound to create an extraordinary visual poem.         
         
