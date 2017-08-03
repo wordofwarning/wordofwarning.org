@@ -7,7 +7,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Akeim Toussaint Buck" # the name of the artist or company
 show: "Windows of Displacement" # the name of the show
-artist_size: 3
+artist_size: 2
 show_size: 3
 header_image: "header_akeim.jpg"
 season: "Akeim Toussaint Buck 19|10|2017"
@@ -30,7 +30,7 @@ Date: Thursday 19 October 2017, 7.30pm
 Box Office Tel: 0161 232 6089 (Z-arts)        
               
 #### Access Information          
-Age advisory: parental/guardian discretion; duration **?**. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
+Age advisory: parental/guardian discretion. With no interval, the show lasts approximately **?**. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
             
 #### More            
 One young man's journey from Jamaica to England becomes a universal story of displacement told through the eyes, mouth and feet of personal experience.            
@@ -43,7 +43,7 @@ Using his own experience as a Jamaican-born citizen now residing in the UK, Akei
 **?**      
        
 #### What people have said about him / *Windows…*         
->*…an electric performer<br>…an engaging exploration of crucial contemporary issues.*<br>Sophie Ignatieff, Refugee Week         
+>*…an electric performer …an engaging exploration of crucial contemporary issues.*<br>Sophie Ignatieff, Refugee Week         
          
 #### Credits        
 Commissioned by Yorkshire Dance Amplified + Northern School of Contemporary Dance through the Northern Connections programme, delivered in partnership with Spin Arts + Leeds Beckett University.<br>Supported using public funding by the National Lottery through Arts Council England. Developed at West Yorkshire Playhouse; supported by The Civic, Barnsley + RJC Dance. | Image by Ashley Karrell.        
