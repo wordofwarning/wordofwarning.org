@@ -44,16 +44,14 @@ Akeim Toussaint Buck is a multifaceted performing artist; born in Jamaica + rais
 
 Since graduating from Northern School of Contemporary Dance with a first-class BA (Hons) in Performing Arts, Akeim has been involved in cross-disciplinary projects working with a wide range of artists. His focus as a maker + collaborator is to combine expressive skills such as dance, writing, poetry, beat-box, singing and acting through performance, and telling new stories that reach beyond existing dance audiences.       
           
-He has worked on numerous projects with different artists + companies around the UK as a dancer, beatboxer and actor, includng: Pauline Mayers (Mayers Ensemble), Chris Goode & Co, Balbir Singh Dance, Jamaal Burkmar Dance, John Liron (Wolf Kid Theatre), Heather Walrond Dance + Ballet Lorent.      
+He has worked on numerous projects with different artists + companies around the UK as a dancer, beatboxer and actor, including: Pauline Mayers (Mayers Ensemble), Chris Goode & Co, Balbir Singh Dance, Jamaal Burkmar Dance, John Liron (Wolf Kid Theatre), Heather Walrond Dance + Ballet Lorent.      
        
 #### What people have said about *Windows…*         
 >*…an electric performer …an engaging exploration of crucial contemporary issues.*<br>Sophie Ignatieff, Refugee Week         
          
 #### Credits        
-Written + performed by Akeim Toussaint Buck.<br>Dramaturge + co-writer: Zodwa Nyoni | Gold Dust Director: Amanda Huxtable | Sound:
-Akeim Toussaint Buck, Burning Spear, Dizaya Khupe, Furaha Mussanzi, Otis Jones | Visual Designer: Akeelah Bertram | Lighting Designer: Mark Baker              
-             
-Commissioned by Yorkshire Dance Amplified + Northern School of Contemporary Dance through the Northern Connections programme, delivered in partnership with Spin Arts + Leeds Beckett University.<br>Supported using public funding by the National Lottery through Arts Council England. Developed at West Yorkshire Playhouse; supported by The Civic, Barnsley + RJC Dance. | Image by Ashley Karrell.        
+Written + performed by Akeim Toussaint Buck.<br>Dramaturge + co-writer: Zodwa Nyoni | Gold Dust Director: Amanda Huxtable<br>Sound:
+Akeim Toussaint Buck, Burning Spear, Dizaya Khupe, Furaha Mussanzi, Otis Jones<br>Visual Designer: Akeelah Bertram | Lighting Designer: Mark Baker<br>Commissioned by Yorkshire Dance Amplified + Northern School of Contemporary Dance through the Northern Connections programme, delivered in partnership with Spin Arts + Leeds Beckett University.<br>Supported using public funding by the National Lottery through Arts Council England. Developed at West Yorkshire Playhouse; supported by The Civic, Barnsley + RJC Dance. | Image by Ashley Karrell.        
           
 #### Websites       
 <a href="http://www.toussainttomove.com" target="_blank">www.toussainttomove.com</a> | <a href="http://www.facebook.com/ToussaintToMove" target="_blank">facebook/ToussaintToMove</a>
