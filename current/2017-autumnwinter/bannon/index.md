@@ -54,4 +54,4 @@ Created by Jo Bannon.<br>Dramaturg: Nic Green | Sound Design: Yas Clarke
 <a href="http://www.jobannon.co.uk/Alba.html" target="_blank">jobannon.co.uk</a> | <a href="http://twitter.com/missjobannon" target="_blank">@missjobannon</a>           
            
 #### WTF Wednesday ticketing policy at The Lowry         
-Please note that as not everyone who reserves tickets uses them, to make sure we have a full house we send out more tickets than there are places. We do our best to get the numbers right, but unfortunately we occasionally have to disappoint people so please arrive early. However, where possible, if you do miss out we will try to get you in to another show at The Lowry that evening.
+As this is a Pay What You Decide event, we know some people who book tickets won't turn up on the night so we send out more tickets than there are places. We do our best to get the numbers right but we advise you arrive early to ensure you get a seat! We don't often have to disappoint people but if we can't fit you in we will try to offer you tickets to another show in The Lowry that night.
