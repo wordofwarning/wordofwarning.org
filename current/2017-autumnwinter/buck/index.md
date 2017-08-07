@@ -26,11 +26,11 @@ Personal stories, ancestral memory and the shifting politics of the diaspora. An
 #### Venue + Booking Details       
 Date: Thursday 19 October 2017, 7.30pm              
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
-<a href="http://" target="_blank">Tickets: available to reserve online from Fri 1 Sep</a>**?**, Pay What You Decide in person on the evening. With a limited capacity, **ALL reservations will be released at 7.15pm on 19 Oct**, please arrive early at Z-arts to collect a ticket.           
+<a href="http://www.z-arts.org/see-whats-on/2017-10-19" target="_blank">Tickets: available to reserve online from Fri 15 Sep</a>, Pay What You Decide in person on the evening. With a limited capacity, **ALL reservations will be released at 7.15pm on 19 Oct**, please arrive early at Z-arts to collect a ticket.           
 Box Office Tel: 0161 232 6089 (Z-arts)        
               
 #### Access Information          
-Age advisory: parental/guardian discretion. With no interval, the show lasts approximately **?**. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
+Age advisory: parental/guardian discretion. With no interval, the show lasts approximately 1 hour. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
             
 #### More            
 One young man's journey from Jamaica to England becomes a universal story of displacement told through the eyes, mouth and feet of personal experience.            
@@ -51,7 +51,7 @@ He has worked on numerous projects with different artists + companies around the
          
 #### Credits        
 Written + performed by Akeim Toussaint Buck.<br>Dramaturge + co-writer: Zodwa Nyoni | Gold Dust Director: Amanda Huxtable<br>Sound:
-Akeim Toussaint Buck, Burning Spear, Dizaya Khupe, Furaha Mussanzi, Otis Jones<br>Visual Designer: Akeelah Bertram | Lighting Designer: Mark Baker<br>Commissioned by Yorkshire Dance Amplified + Northern School of Contemporary Dance through the Northern Connections programme, delivered in partnership with Spin Arts + Leeds Beckett University.<br>Supported using public funding by the National Lottery through Arts Council England. Developed at West Yorkshire Playhouse; supported by The Civic, Barnsley + RJC Dance. | Image by Ashley Karrell.        
+Akeim Toussaint Buck, Burning Spear, Dizaya Khupe, Furaha Mussanzi, Otis Jones | Visual Designer: Akeelah Bertram | Lighting Designer: Mark Baker<br>Commissioned by Yorkshire Dance Amplified + Northern School of Contemporary Dance through the Northern Connections programme, delivered in partnership with Spin Arts + Leeds Beckett University. Supported using public funding by the National Lottery through Arts Council England. Developed at West Yorkshire Playhouse. Supported by The Civic, Barnsley + RJC Dance. | Image by Ashley Karrell.        
           
 #### Websites       
 <a href="http://www.toussainttomove.com" target="_blank">www.toussainttomove.com</a> | <a href="http://www.facebook.com/ToussaintToMove" target="_blank">facebook/ToussaintToMove</a>
