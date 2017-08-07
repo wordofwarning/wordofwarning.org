@@ -25,7 +25,7 @@ Blinding light and visual poetry, inherited myth and performed identity.<br>A st
 #### Venue + Booking Details           
 Date: Wednesday 27 September 2017, 8pm          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-<a href="https://www.thelowry.com/events/wtf-jo-bannon-alba" target="_blank">Tickets: available to reserve from Fri 1 Sep</a>**?**, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
+<a href="https://www.thelowry.com/events/wtf-jo-bannon-alba" target="_blank">Tickets: available to reserve from Fri 25 Aug</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0843 208 6000 (The Lowry)    
           
 #### Access Information        
