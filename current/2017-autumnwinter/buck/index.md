@@ -47,7 +47,8 @@ Since graduating from Northern School of Contemporary Dance with a first-class B
 He has worked on numerous projects with different artists + companies around the UK as a dancer, beatboxer and actor, including: Pauline Mayers (Mayers Ensemble), Chris Goode & Co, Balbir Singh Dance, Jamaal Burkmar Dance, John Liron (Wolf Kid Theatre), Heather Walrond Dance + Ballet Lorent.      
        
 #### What people have said about *Windows…*         
->*…an electric performer …an engaging exploration of crucial contemporary issues.*<br>Sophie Ignatieff, Refugee Week         
+>*…wedded together with stunning and beautiful movement.<br>*…one of the most powerful and evocative portrayals that we had ever seen.<br>Audience members             
+>*…an electric performer …an engaging exploration of crucial contemporary issues.*<br>Sophie Ignatieff, Refugee Week Programme Co-ordinator          
          
 #### Credits        
 Written + performed by Akeim Toussaint Buck.<br>Dramaturge + co-writer: Zodwa Nyoni | Gold Dust Director: Amanda Huxtable<br>Sound:
