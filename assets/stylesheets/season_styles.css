@@ -650,5 +650,7 @@
 	.e2017 .splash
 		{background:url(../images/header_emergency17a.jpg) center center}
 
-	.e2017 quote
-		{color: 0f0;}
+	.e2017 blockquote
+		{border-left-color:#00f;}
+	.e2017 blockquote, blockquote p
+		{color:#0f0;}
