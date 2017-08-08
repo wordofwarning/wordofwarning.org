@@ -52,7 +52,7 @@ Led by artists Katherina Radeva and Alister Lownie, their work explores question
 UK-based, they are currently resident Company at Salisbury Arts Centre and **?** supported artists at The Point, Eastleigh.             
           
 #### What people have said about them         
->*A beautiful, brave piece of work steeped in memories and nostalgia.*<br>Cheryl Pierce (Quarterhouse Folkestone) on *Declining Solo*<br>*Complex, tender work … uses all the senses to draw us in.*<br>Audience member on *Declining Solo*<br>★★★★★ *…great beauty, sensitivity and humour…*<br><a href="http://www.broadwaybaby.com/shows/near-gone/702154" target="_blank">Broadway Baby</a> on *Near Gone*            
+>*A beautiful, brave piece of work steeped in memories and nostalgia.*<br>Cheryl Pierce, Quarterhouse Folkestone, on *Declining Solo*<br>*Complex, tender work … uses all the senses to draw us in.*<br>Audience Feedback for *Declining Solo*<br>★★★★★ *…great beauty, sensitivity and humour…*<br><a href="http://www.broadwaybaby.com/shows/near-gone/702154" target="_blank">Broadway Baby</a> on *Near Gone*            
         
 #### Credits          
 Supported using public funding by the National Lottery through Arts Council England. Research + development has been made possible by funding from Dance4, with residencies hosted by ARC Stockton, Quarterhouse, SPAM!, Salisbury Arts Centre + The Point Eastleigh.         
