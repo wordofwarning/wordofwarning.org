@@ -639,10 +639,8 @@
 		{background:#d21; color:#fff;}
 
 	.e2017 blockquote
-		{border-left-color:#610;}
-	.e2017 blockquote, blockquote p
-		{color:#610;}
-
+		{border-left-color:#610; color:#610;}
+	
 	.e2017 a,
 	.e2017 a:visited,
 	.e2017 a:hover
