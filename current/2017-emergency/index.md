@@ -32,7 +32,7 @@ Tickets: no booking required, Pay What You Decide in person on the day, come and
 Tel: 0161 232 6089 (Z-arts)          
          
 #### What people have said about Emergency         
-<font color="#610">>• *Great to have such exciting off beat talent.*<br>• *I am amazed they manage so many shows in a day…*<br>• *…loved diversity of work on show.*<br>• *Really important event for NW artists — safe space to experiment.*<br>• *Performances are both rewarding in their own right, and also offer a glimpse into where theatre might go in our more interactive and interconnected world.*<br>Audience Feedback from [2016](/archive/2016-emergency) + [2015](/archive/2015-emergency)</font>             
+>• *Great to have such exciting off beat talent.*<br>• *I am amazed they manage so many shows in a day…*<br>• *…loved diversity of work on show.*<br>• *Really important event for NW artists — safe space to experiment.*<br>• *Performances are both rewarding in their own right, and also offer a glimpse into where theatre might go in our more interactive and interconnected world.*<br>Audience Feedback from [2016](/archive/2016-emergency) <font color="#610">+</font> [2015](/archive/2015-emergency)             
            
 Emergency 2016 was reviewed by <a href="http://exeuntmagazine.com/features/emergency-festival-free-non-stop-performance-manchester" target="_blank">Exeunt Magazine</a> + <a href="http://www.thestateofthearts.co.uk/features/review-emergency-z-arts" target="_blank">The State of the Arts</a>.        
           
