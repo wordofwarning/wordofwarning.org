@@ -31,9 +31,9 @@ Date: Saturday 30 September 2017, 12noon-10pm
 Tickets: no booking required, Pay What You Decide in person on the day, come and go as you please. *N.B. Some work will have a limited capacity, and may have sign-up sheets on the day or operate on a first-come, first-served basis.*        
 Tel: 0161 232 6089 (Z-arts)          
          
-#### What people have said about <font color="#610">Emergency</font>      
->• *Great to have such exciting off beat talent.*<br>• *I am amazed they manage so many shows in a day…*<br>• *…loved diversity of work on show.*<br>• *Really important event for NW artists — safe space to experiment.*<br>• *Performances are both rewarding in their own right, and also offer a glimpse into where theatre might go in our more interactive and interconnected world.*<br>[Audience Feedback from 2016](/archive/2016-emergency)/[15](/archive/2015-emergency)           
-
+#### What people have said about Emergency         
+<font color="#610">>• *Great to have such exciting off beat talent.*<br>• *I am amazed they manage so many shows in a day…*<br>• *…loved diversity of work on show.*<br>• *Really important event for NW artists — safe space to experiment.*<br>• *Performances are both rewarding in their own right, and also offer a glimpse into where theatre might go in our more interactive and interconnected world.*<br>Audience Feedback from [2016](/archive/2016-emergency) + [2015](/archive/2015-emergency)</font>             
+           
 Emergency 2016 was reviewed by <a href="http://exeuntmagazine.com/features/emergency-festival-free-non-stop-performance-manchester" target="_blank">Exeunt Magazine</a> + <a href="http://www.thestateofthearts.co.uk/features/review-emergency-z-arts" target="_blank">The State of the Arts</a>.        
           
 #### Access Information       
