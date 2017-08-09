@@ -17,7 +17,7 @@ season: "Two Destination Language 8|11|2017"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* The Lowry + Word of Warning *as part of* WTF          
+*Presented by* The Lowry + Word of Warning *as part of* <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF</a>           
          
 #### In Brief      
 One woman's memories of the home where she grew up. Populated by stories of communism, war, merriment and family, she shapes a world from paper and picture as she seeks the father she has lost.          
@@ -58,7 +58,7 @@ UK-based, they are currently resident Company at Salisbury Arts Centre and **?**
 Supported using public funding by the National Lottery through Arts Council England. Research + development has been made possible by funding from Dance4, with residencies hosted by ARC Stockton, Quarterhouse, SPAM!, Salisbury Arts Centre + The Point Eastleigh.         
         
 #### Websites          
-<a href="http://www.twodestinationlanguage.com/?page_id=1598" target="_blank">twodestinationlanguage.com</a> | <a href="http://twitter.com/2destlang" target="_blank">@2destlang</a> | <a href="http://facebook.com/2destlang" target="_blank">2destlang on Facebook</a>         
+<a href="http://www.twodestinationlanguage.com/?page_id=1598" target="_blank">twodestinationlanguage.com</a> | <a href="http://twitter.com/2destlang" target="_blank">@2destlang</a> | <a href="http://facebook.com/2destlang" target="_blank">2destlang on Facebook</a> | <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF</a>         
         
 #### WTF Wednesday ticketing policy at The Lowry         
 As this is a Pay What You Decide event, we know some people who book tickets won’t turn up on the night so we send out more tickets than there are places. We do our best to get the numbers right but we advise you arrive early to ensure you get a seat! We don’t often have to disappoint people but if we can’t fit you in we will try to offer you tickets to another show in The Lowry that night.
