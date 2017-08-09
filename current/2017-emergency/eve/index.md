@@ -6,11 +6,11 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency 2017"
-show: "First Session: 12noon-2pm"
+show: "Last Session: evening"
 artist_size: 1
 show_size: 3
 header_image:
-season: "Emergency 30|9|2017, 12noon-2pm"
+season: "Emergency 30|9|2017, evening"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -19,7 +19,7 @@ season: "Emergency 30|9|2017, 12noon-2pm"
 ---
 *Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2017](/current/2017-emergency)    
 
-### Artists in Alphabetical Order (*subject to change*)      
+### Artists in Chronological Order (*subject to change*)      
 *Please note Emergency 2017 is mainly aimed at adults: see Access Info.*        
            
 **Artist | *Title***        
@@ -39,7 +39,7 @@ BIOG
 <a href="http://URL" target="_blank">URL</a> | <a href="http://twitter.com/" target="_blank">@</a>        
          
 #### Venue + Booking Details         
-Date: Saturday 30 September 2017, 12noon-2pm (*full event runs 12noon-10pm*)            
+Date: Saturday 30 September 2017, evening (*full event runs 12noon-10pm*)            
 [Venue: Z-arts (incl. STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: no booking required, Pay What You Decide in person on the day, come and go as you please. *N.B. Some work will have a limited capacity, and may have sign-up sheets on the day or operate on a first-come, first-served basis.*        
 Tel: 0161 232 6089 (Z-arts)          
@@ -52,4 +52,3 @@ Tel: 0161 232 6089 (Z-arts)
         
 #### Websites
 <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr<a>
-
