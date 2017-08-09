@@ -9,7 +9,7 @@ artist: "Emergency 2017" # the name of the artist or company
 show: "A full day out for the curious." # the name of the show
 artist_size: 1
 show_size: 3
-season: Emergency 30|9|2017
+season: "Emergency 30|9|2017"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
