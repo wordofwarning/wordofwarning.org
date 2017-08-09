@@ -20,11 +20,11 @@ season: "Emergency 30|9|2017, 12noon-2pm"
 *Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2017](/current/2017-emergency)    
 
 ### Artists in Alphabetical Order (*subject to change*)      
-*Please note Emergency 2017 is mainly aimed at adults, see *Access Info* below.*        
+*Please note Emergency 2017 is mainly aimed at adults: see Access Info.*        
            
 **Artist | *Title***        
 COPY         
-*Access Information: HERE*        
+*Access Information: HERE IF NEEDED*        
         
 CREDITS         
 BIOG         
@@ -32,7 +32,7 @@ BIOG
          
 **Artist | *Title***        
 COPY         
-*Access Information: HERE*        
+*Access Information: HERE IF NEEDED*        
          
 CREDITS         
 BIOG         
