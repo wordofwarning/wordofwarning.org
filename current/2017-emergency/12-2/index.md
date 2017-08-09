@@ -9,7 +9,7 @@ artist: "Emergency 2017"
 show: "First Session: 12noon-2pm"
 artist_size: 1
 show_size: 3
-header_image: ""
+header_image:
 season: "Emergency 30|9|2017, 12noon-2pm"
 
 # ABOUT THE SHOW - LAYOUT
@@ -20,7 +20,7 @@ season: "Emergency 30|9|2017, 12noon-2pm"
 *Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2017](/current/2017-emergency)    
 
 ### Artists in Alphabetical Order (*subject to change*)      
-***Please note this is primarily an adult event, see Access Info below.***        
+*Please note Emergency 2017 is mainly aimed at adults, see *Access Info* below.*        
            
 **Artist | *Title***        
 COPY         
@@ -28,7 +28,7 @@ COPY
         
 CREDITS         
 BIOG         
-<a href="http://URL" target="_blank">amysteel.co.uk</a> | <a href="http://twitter.com/" target="_blank">@</a>        
+<a href="http://URL" target="_blank">URL</a> | <a href="http://twitter.com/" target="_blank">@</a>        
          
 **Artist | *Title***        
 COPY         
@@ -36,7 +36,7 @@ COPY
          
 CREDITS         
 BIOG         
-<a href="http://URL" target="_blank">amysteel.co.uk</a> | <a href="http://twitter.com/" target="_blank">@</a>        
+<a href="http://URL" target="_blank">URL</a> | <a href="http://twitter.com/" target="_blank">@</a>        
          
 #### Venue + Booking Details         
 Date: Saturday 30 September 2017, 12noon-2pm (*full event runs 12noon-10pm*)            
