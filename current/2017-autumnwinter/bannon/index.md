@@ -29,7 +29,7 @@ Date: Wednesday 27 September 2017, 8pm
 Box Office Tel: 0843 208 6000 (The Lowry)    
           
 #### Access Information        
-Age advisory: **?** (parental/guardian discretion). With no interval, the show lasts approximately 50 minutes. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: parental/guardian discretion. With no interval, the show lasts approximately 50 minutes. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
 >*I was born on the day the Pope came to Coventry, my home town. In my family this unexpected appearance was perceived as a blessing. A sublime gift.*        
@@ -51,7 +51,7 @@ Created by Jo Bannon.<br>Dramaturg: Nic Green | Sound Design: Yas Clarke
 | Lighting Design: Jo Palmer<br>Commissioned + produced by In Between Time with Ovalhouse + Pink Fringe. Supported by Residence. Developed through Fuel's Jerwood Residencies at Cove Park which are supported by the Jerwood Charitable Foundation.<br>Image by Paul Blakemore.          
         
 #### Websites          
-<a href="http://www.jobannon.co.uk/Alba.html" target="_blank">jobannon.co.uk</a> | <a href="http://twitter.com/missjobannon" target="_blank">@missjobannon</a> | <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF Wednesdays</a>          
+<a href="http://www.jobannon.co.uk/Alba.html" target="_blank">jobannon.co.uk</a> | <a href="http://twitter.com/missjobannon" target="_blank">@missjobannon</a> | <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF Wednesday</a>          
            
 #### WTF Wednesday ticketing policy at The Lowry         
 As this is a Pay What You Decide event, we know some people who book tickets won't turn up on the night so we send out more tickets than there are places. We do our best to get the numbers right but we advise you arrive early to ensure you get a seat! We don't often have to disappoint people but if we can't fit you in we will try to offer you tickets to another show in The Lowry that night.
