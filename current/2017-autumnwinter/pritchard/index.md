@@ -26,11 +26,11 @@ Part-show, part-party, for those just about managing.
 #### Venue + Booking Details       
 Date: Saturday 11 November 2017, 8**?**pm              
 <a href="http://www.google.co.uk/maps/place/M3+6HU" target="_blank">Venue: Adelphi Court (SPACE?)</a>, North George Street, Salford, M3 6HU          
-<a href="http://www.wegottickets.com/wordofwarning" target="_blank">Tickets: available to reserve online from Fri 27 Oct</a>, Pay What You Decide in person on the evening — cash and/or food accepted, all proceeds donated to XXX food bank. With a limited capacity, **ALL reservations will be released at 7.45pm on 1 Nov**, please arrive early at Adelphi Court to collect a ticket.          
+<a href="http://www.wegottickets.com/wordofwarning" target="_blank">Tickets: available to reserve online from Fri 27 Oct</a>, Pay What You Decide in person on the evening: cash and/or food accepted with all proceeds donated to <a href="http://URL" target="_blank">**?** food bank</a>. With a limited capacity, **ALL reservations will be released at 7.45pm on 11 Nov**, please arrive early at Adelphi Court to collect a ticket.          
 Box Office Tel: 0161 232 6086 (Word of Warning)             
               
 #### Access Information          
-Age advisory **?**+ (parental/guardian discretion). With **?** interval, the show lasts approximately **?**. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
+Age advisory **?**+ (parental/guardian discretion). With **?** interval, the show lasts approximately **?**. Largely promenade, there will be a limited amount of seating available. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
             
 #### More            
 **?**        
