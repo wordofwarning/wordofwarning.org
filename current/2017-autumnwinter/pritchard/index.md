@@ -24,9 +24,9 @@ season: "Darren Pritchard Dance 1|12|2017"
 Part-show, part-party, for those just about managing.       
         
 #### Venue + Booking Details       
-Date: Friday 1 December 2017, 8**?**pm              
+Date: Saturday 11 November 2017, 8**?**pm              
 <a href="http://www.google.co.uk/maps/place/M3+6HU" target="_blank">Venue: Adelphi Court (SPACE?)</a>, North George Street, Salford, M3 6HU          
-<a href="http://www.wegottickets.com/wordofwarning" target="_blank">Tickets: available to reserve online from 1 Nov</a>**?**, Pay What You Decide in person on the evening. With a limited capacity, **ALL reservations will be released at 7.45pm on 1 Dec**, please arrive early at Adelphi Court to collect a ticket.          
+<a href="http://www.wegottickets.com/wordofwarning" target="_blank">Tickets: available to reserve online from Fri 27 Oct</a>, Pay What You Decide in person on the evening — cash and/or food accepted, all proceeds donated to XXX food bank. With a limited capacity, **ALL reservations will be released at 7.45pm on 1 Nov**, please arrive early at Adelphi Court to collect a ticket.          
 Box Office Tel: 0161 232 6086 (Word of Warning)             
               
 #### Access Information          
