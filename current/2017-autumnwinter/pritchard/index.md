@@ -31,18 +31,15 @@ Box Office Tel: 0161 232 6086 (Word of Warning)
               
 #### Access Information          
 Age advisory 16+ (parental/guardian discretion). With no interval, the show/party lasts approximately 1 hour. Largely promenade, there will be a limited amount of seating available. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
-            
-#### More            
+        
+#### Who is he?        
 Darren Pritchard has been creating dance works since 2006. As well as devising his own works, for theatres, galleries, a church, hotels and even the Sale of the Century TV studio, Darren has created dance works for and in collaboration with others, notably The Chase — a Blaze commission, working with parkour and freerunning specialists; Susan and Darren — a Quarantine collaboration; Gulliver’s Boom Box with Walk the Plank; and One — a solo performance installation. He has recently worked as director on Chanje Kunda's award-winning *Amsterdam* and Cheryl Martin's *Alaska*. 
             
-Stylistically, Darren has explored ballet, street dance and contemporary dance, sometimes fused with text, projection and other multimedia forms — Word of Warning most recently presented his [*Body of Light*](/archive/2015-autumnwinter/pritchard) in 2015.         
-        
-#### Who is he / are they?        
-Darren collaborates and creates across art-forms as choreographer, director, performer, producer + teacher, often working in contemporary dance and experimenal theatre, especially devising orignal work.    
+Stylistically, Darren has explored ballet, street dance and contemporary dance, sometimes fused with text, projection and other multimedia forms — Word of Warning most recently presented his [*Body of Light*](/archive/2015-autumnwinter/pritchard) in 2015.  
 **?**       
           
-#### What people have said about Darren Pritchard Dance / *Rent Party*         
->*quote…*<br><a href="http://URL" target="_blank">publication</a>         
+#### What people have said about *Rent Party*         
+>*quotes here…*<br>Audience members</a>         
         
 #### Credits         
 Commissioned by Homotopia; *Domestic Edition* commissioned by hÅb.<br>Supported using public funding by the National Lottery through Arts Council England.        
