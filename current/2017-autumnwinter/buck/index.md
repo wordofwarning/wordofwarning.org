@@ -21,7 +21,7 @@ season: "Akeim Toussaint Buck 19|10|2017"
 *Presented by* Divergency*,* STUN *+* Word of Warning      
            
 #### In Brief     
-Personal stories, ancestral memory and the shifting politics of the diaspora. An urgent story of the past, present and future told through dance, song and word.            
+Personal stories, ancestral memory and the shifting politics of diaspora. An urgent story of the past, present and future told through dance, song and word.            
           
 #### Venue + Booking Details       
 Date: Thursday 19 October 2017, 7.30pm              
@@ -35,7 +35,7 @@ Age advisory: parental/guardian discretion. With no interval, the show lasts app
 #### More            
 One young man's journey from Jamaica to England becomes a universal story of displacement told through the eyes, mouth and feet of personal experience.            
          
-A journey through ancestral memory, colonial history and modern economics to explore the shifting politics of the diaspora.<br>A personal narrative to invoke a sense of collective responsibility.<br>An urgent plea for the past, present and future of humanity.          
+A journey through ancestral memory, colonial history and modern economics to explore the shifting politics of diaspora.<br>A personal narrative to invoke a sense of collective responsibility.<br>An urgent plea for the past, present and future of humanity.          
        
 Using his own experience as a Jamaican-born citizen now residing in the UK, Akeim Toussaint Buck works with dance, song and word in this exploration of identity in today's England.             
          
