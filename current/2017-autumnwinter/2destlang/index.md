@@ -31,7 +31,7 @@ Date: Wednesday 8 November 2017, 8pm
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
-Age advisory: **?**+ (parental/guardian discretion). With no interval, the show lasts approximately **?**. English spoken word, movement, video and music. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: *tbc* (parental/guardian discretion). With no interval, the show duration is *tbc*. English spoken word, movement, video and music. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
 >*We are all ageing. As I write this, and as you read it. Time passes.*          
@@ -45,17 +45,17 @@ Memories, folklore, political turmoil and family history combine in a celebratio
 >*It's in a place where there's singing and dancing and eating and drinking and being merry, of friendships and familial links as the core of communities.<br>It's in a place where the summer smells of sun, and the winter smells of burning coal.<br>I think if I piece it back together somehow…<br>If the vase has been broken and I put back the pieces, it can get better.*        
          
 #### Who are they        
-Two Destination Language make contemporary performance that's beautiful, arresting and accessible; sometimes it's called theatre, sometimes live art, sometimes dance theatre — Word of Warning most recently presenting their Brexit-triggered [*Manpower*](/archive/2016-autumnwinter/2destlang) in 2016 and heartfelt [*Near Gone*](/archive/2014-spring/2destlang) in 2014.                
+Two Destination Language make contemporary performance that's beautiful, arresting and accessible; sometimes it's called theatre, sometimes live art, sometimes dance theatre — Word of Warning most recently presented their Brexit-triggered [*Manpower*](/archive/2016-autumnwinter/2destlang) in 2016 and heartfelt [*Near Gone*](/archive/2014-spring/2destlang) in 2014.                
          
 Led by artists Katherina Radeva and Alister Lownie, their work explores questions of identity, belonging and culture; as a Bulgarian and a Scot working together, they use their own histories and experiences to explore these ideas.            
           
-UK-based, they are currently resident Company at Salisbury Arts Centre and **?** supported artists at The Point, Eastleigh.             
+UK-based, they are currently resident Company at Salisbury Arts Centre and supported artists at The Point, Eastleigh.             
           
 #### What people have said about them         
 >*A beautiful, brave piece of work steeped in memories and nostalgia.*<br>Cheryl Pierce, Quarterhouse Folkestone, on *Declining Solo*<br>*Complex, tender work … uses all the senses to draw us in.*<br>Audience Feedback for *Declining Solo*<br>★★★★★ *…great beauty, sensitivity and humour…*<br><a href="http://www.broadwaybaby.com/shows/near-gone/702154" target="_blank">Broadway Baby</a> on *Near Gone*            
         
 #### Credits          
-Supported using public funding by the National Lottery through Arts Council England. Research + development has been made possible by funding from Dance4, with residencies hosted by ARC Stockton, Quarterhouse, SPAM!, Salisbury Arts Centre + The Point Eastleigh.         
+Supported using public funding by the National Lottery through Arts Council England. Research + development has been made possible by funding from Dance4, with residencies hosted by ARC Stockton, Quarterhouse, SPAM!, Salisbury Arts Centre + The Point, Eastleigh.         
         
 #### Websites          
 <a href="http://www.twodestinationlanguage.com/?page_id=1598" target="_blank">twodestinationlanguage.com</a> | <a href="http://twitter.com/2destlang" target="_blank">@2destlang</a> | <a href="http://facebook.com/2destlang" target="_blank">2destlang on Facebook</a> | <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF</a>         
