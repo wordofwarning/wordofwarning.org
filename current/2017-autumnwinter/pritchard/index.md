@@ -18,7 +18,7 @@ season: "Darren Pritchard Dance 10+11|11|2017"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning *with the* Guinness Partnership
+*Presented by* Word of Warning *+* The Guinness Partnership
            
 #### In Brief     
 From Harlem in the 20th to Salford in the 21st, a century of making the rent.<br>Part show, part party — for those just about managing.       
