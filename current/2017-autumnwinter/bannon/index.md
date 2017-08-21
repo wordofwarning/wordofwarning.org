@@ -20,7 +20,7 @@ season: "Jo Bannon 27|9|2017"
 *Presented by* The Lowry + Word of Warning *as part of* <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF</a>          
          
 #### In Brief      
-Blinding light and visual poetry, inherited myth and performed identity.<br>A story of paleness, of blending in and of standing out.         
+Blinding light and visual poetry; inherited myth and performed identity.<br>A story of paleness, of blending in and of standing out.         
           
 #### Venue + Booking Details           
 Date: Wednesday 27 September 2017, 8pm          
