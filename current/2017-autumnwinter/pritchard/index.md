@@ -32,6 +32,11 @@ Box Office Tel: 0161 232 6086 (Word of Warning)
 #### Access Information          
 Age advisory 16+ (parental/guardian discretion). With no interval, the show/party lasts approximately 1 hour. Largely promenade, there will be a limited amount of seating available. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
         
+#### More             
+A 21st century, austerity Britain, black, gay, immersive musical — inspired by the poetry of 1920s Harlem Renaissance black gay icon Langston Hughes.         
+         
+>*Like the 20s, we invite you, the audience, to pay to come to a party in our flat so that we can make this month's rent, and entertain you with all our artist friends – dancers, singers, musicians, poets — who will create a kaleidoscopic picture of what it means today to be young, gifted, and black — and poor, and gay.*          
+          
 #### Who is he?        
 Darren Pritchard has been creating dance works since 2006. As well as devising his own works, for theatres, galleries, a church, hotels and even the Sale of the Century TV studio, Darren has created dance works for and in collaboration with others, notably: *The Chase* — a Blaze commission, working with parkour and freerunning specialists; *Susan and Darren* — a Quarantine collaboration; *Gulliver's Boom Box* with Walk the Plank; *One* — a solo performance installation; and [*Body of Light*](/archive/2015-autumnwinter/pritchard) — a seamless landscape of flowing imagery that Word of Warning presented in 2015. Stylistically, Darren has explored ballet, street dance and contemporary dance, sometimes fused with text, projection and other multimedia forms, and has recently worked as director on Chanje Kunda's award-winning *Amsterdam* + Cheryl Martin's *Alaska*.
           
