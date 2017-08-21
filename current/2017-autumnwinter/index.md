@@ -7,7 +7,7 @@ is_index: true
 season: "A/W 2017"
 
 ---
-*A season that sees [its oldest child come of age and earn its crust](/current/2017-emergency); a season where you choose what you want to pay. Tales of [displacement](/current/2017-autumnwinter/buck) and [fitting in](/current/2017-autumnwinter/bannon); of [home and what it means to belong](/current/2017-autumnwinter/2destlang); of [getting by and paying the rent](/current/2017-autumnwinter/pritchard)…*        
+*A season that sees [its oldest child come of age and earn its crust](/current/2017-emergency); a season where you choose what you want to pay.<br>Tales [of displacement](/current/2017-autumnwinter/buck) and [of fitting in](/current/2017-autumnwinter/bannon); [of home and of what it means to belong](/current/2017-autumnwinter/2destlang); [of getting by and of paying the rent](/current/2017-autumnwinter/pritchard)…*        
         
 Brought to you by hÅb — with The Lowry, Z-arts, STUN, Divergency, The Guinness Partnership — we look forward to seeing you at some or all of Autumn/Winter 2017. If you want to check out what happened last season take a look at our [Spring/Summer 2017 archive](/archive/2017-springsummer), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=147497048277" target="_blank">online survey</a>.        
              
