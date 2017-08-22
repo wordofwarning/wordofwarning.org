@@ -9,7 +9,7 @@ artist: "Darren Pritchard Dance" # the name of the artist or company
 show: "Rent Party: Domestic Edition" # the name of the show
 artist_size: 2
 show_size: 3
-header_image: "header_placeholder.jpg"
+header_image:
 season: "Darren Pritchard Dance 10+11|11|2017"
 
 # ABOUT THE SHOW - LAYOUT
@@ -26,7 +26,7 @@ From Harlem in the 20th to Salford in the 21st, a century of making the rent.<br
 #### Venue + Booking Details       
 Dates: Friday 10 + Saturday 11 November 2017, 8pm              
 <a href="http://www.google.co.uk/maps/place/M3+6HU" target="_blank">Venue: Adelphi Court</a>, off Cannon Street, Salford, M3 6HU          
-<a href="http://www.wegottickets.com/wordofwarning" target="_blank">Tickets: available to reserve online from Fri 27 Oct</a>, Pay What You Decide in person on the evening: cash and/or food accepted with all proceeds donated to <a href="http://URL" target="_blank">**?** food bank</a>. With a limited capacity, **ALL reservations will be released at 7.45pm each night**, please arrive early at Adelphi Court to collect a ticket.          
+<a href="http://www.wegottickets.com/wordofwarning" target="_blank">Tickets: available to reserve online from Fri 27 Oct</a>, Pay What You Decide in person on the evening: cash and/or food accepted with all proceeds donated to a local food bank. With a limited capacity, **ALL reservations will be released at 7.45pm each night**, please arrive early at Adelphi Court to collect a ticket.          
 Box Office Tel: 0161 232 6086 (Word of Warning)             
               
 #### Access Information          
