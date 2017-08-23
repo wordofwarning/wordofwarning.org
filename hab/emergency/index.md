@@ -17,9 +17,9 @@ season: "Emergency"
 ---
 **Emergency** is our annual platform for live art + contemporary performance, featuring at least 20 short pieces of work over a day/evening in Manchester…           
          
-Our [**eighteenth Emergency**](/current/2017-emergency) takes place on **Saturday 30 September 2017** (12noon-10pm) in Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> including the STUN Studio, withh artists TBA.        
+Our [**eighteenth Emergency**](/current/2017-emergency) takes place on **Saturday 30 September 2017** (12noon-10pm) in Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, including STUN Studio; artists TBA.        
          
-To get a feel for it, have a look at 2016's [image gallery](/galleries/2016-emergency) + [programme](/archive/2016-emergency), or delve further with 2015's [gallery](/galleries/2015-emergency) + [programme](/archive/2015-emergency).           
+To get a feel for it, have a look at 2016's [image gallery](/galleries/2016-emergency) + [programme](/archive/2016-emergency), or delve further with 2015's [gallery](/galleries/2015-emergency) + [programme](/archive/2015-emergency) and 2014's [gallery](/galleries/2014-emergency) + [programme](/archive/2014-emergency).           
 		
 **Emergency is:**      
 • a free, public micro-festival + open submission platform;        
