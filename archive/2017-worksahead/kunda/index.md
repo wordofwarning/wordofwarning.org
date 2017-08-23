@@ -17,7 +17,7 @@ season: "Works Ahead — Chanje Kunda 11+12|5|2017"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, Contact + STUN *during* [Works Ahead 2017](/current/2017-worksahead)      
+*Presented by* Word of Warning, Contact + STUN *during* [Works Ahead 2017](/archive/2017-worksahead)      
          
 #### In Brief                      
 Science, sensuality, spirituality, selves. How our bodies mirror the universe through a constellation of particles shimmering within.           
@@ -56,7 +56,7 @@ Writer + Performer: Chanje Kunda | Director: Peader Kirk | Literary Consultant: 
                
 Jointly co-commissioned/developed with support from [Divergency](/archive/2016-divergency), Contact, hÅb, STUN + <a href="http://www.thelowry.com/artists-partners/artist-development-programme/developed-with" target="_blank">Developed With The Lowry</a>; supported using public funding by the National Lottery through Arts Council England.           
          
-[Works Ahead 2017](/current/2017-worksahead) is co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>; supported by <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England; funded by Manchester City Council.<br>Project Mentors: Matt Fenton + Peader Kirk        
+[Works Ahead 2017](/archive/2017-worksahead) is co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>; supported by <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England; funded by Manchester City Council.<br>Project Mentors: Matt Fenton + Peader Kirk        
         
 #### Websites         
 <a href="http://www.chanjekunda.com" target="_blank">www.chanjekunda.com</a> | <a href="http://twitter.com/ChanjeKunda" target="_blank">@ChanjeKunda</a><br><a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
