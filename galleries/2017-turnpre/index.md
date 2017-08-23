@@ -9,7 +9,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: Turn 2017
-more_url: "../../current/2017-turn"
+more_url: "../../archive/2017-turn"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "Holly Rush", show: "<small>(Turn 2016) All images copyright &copy;2017 Word of Warning</small>"}
