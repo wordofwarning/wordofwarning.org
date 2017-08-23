@@ -24,7 +24,7 @@ All the energy of this annual whirlwind of new northern dance condensed.<br>Twel
               
 Now that it's over, read reviews by <a href="http://afronalysis.wordpress.com/2017/04/29/review-turn-contact" target="_blank">Afronalysis</a> + <a href="http://www.thereviewshub.com/turn-2017-contact-manchester" target="_blank">The Reviews Hub</a>.           
              
-### [Artists + Programme](/current/2017-turn/programme)          
+### [Artists + Programme](/archive/2017-turn/programme)          
 In a new format, our ninth annual platform for dancers + dance-makers sees a single night of short new dance-works, *participating artists subject to change*…        
 Ane Iselin Brogeland | Born + Bred Dance Theatre | Coalesce Dance | Giorgio de Carolis | Grace Surman + Clare Dearnaley | Jo Cork | Kapow Dance | Matrafisc Dance | Meraki Collective | Peter Groom Dance Theatre | Rebekka Platt | The inFamous Five<br>† NB: due to illness Akeim Toussaint Buck can no longer perform.            
         
@@ -43,7 +43,7 @@ Box Office Tel: 0161 274 0600
 >• *Leaving feeling inspired… Eclectic, brilliant, vibrant.*<br>• *Fantastic combination of diverse performers… entertaining & engaging.*<br>• *Enjoyed the eclectic mix. A good way to sample dance, especially if you haven't seen a lot before.*<br>• *Great to see creative innovative new local work. Really good vibe.*<br>[Audience Feedback from 2016](/archive/2016-turn)/[15](/archive/2015-turn)/ [14](/archive/2014-turn)/[13](/archive/2013-turn)            
          
 #### Access Information                 
-Turn 2017 takes place in a number of different spaces and formats around Contact's building — some seated, some standing, some limited capacity, some participatory. With intervals, the night's [programme](/current/2017-turn/programme) will last up to 3½ hours.<br>Age advisory: 12+ (parental/guardian discretion). For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.               
+Turn 2017 takes place in a number of different spaces and formats around Contact's building — some seated, some standing, some limited capacity, some participatory. With intervals, the night's [programme](/archive/2017-turn/programme) will last up to 3½ hours.<br>Age advisory: 12+ (parental/guardian discretion). For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.               
                           
 #### Credits         
 [Turn](/hab/turn) 2017 is co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a>, <a href="http://www.digm.org" target="_blank">Dance Manchester</a> + <a href="http://bit.ly/McrDanceConsortium" target="_blank">Manchester Dance Consortium</a>; supported using public funding by Arts Council England; funded by Manchester City Council. | Image: Holly Rush (Turn 2016)         
