@@ -31,7 +31,7 @@ Date: Wednesday 8 November 2017, 8pm
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
-Age advisory: *tbc* (parental/guardian discretion). With no interval, the show duration is *tbc*. English spoken word, movement, video and music. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: *tbc* (parental/guardian discretion). With no interval, the show lasts approximately 65 minutes. English spoken word, movement, video and music. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
 >*We are all ageing. As I write this, and as you read it. Time passes.*          
