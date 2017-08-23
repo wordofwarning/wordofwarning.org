@@ -17,7 +17,7 @@ season: "Works Ahead — Tom Cassani 11+12|5|2017"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, Contact + STUN *during* [Works Ahead 2017](/current/2017-worksahead)<br>*A double bill with* [Toni-Dee Paul](/current/2017-worksahead/paul)      
+*Presented by* Word of Warning, Contact + STUN *during* [Works Ahead 2017](/archive/2017-worksahead)<br>*A double bill with* [Toni-Dee Paul](/archive/2017-worksahead/paul)      
          
 #### In Brief                      
 Collectively constructed truths and lies — a deceptive exposé of deception itself.             
@@ -29,7 +29,7 @@ Dates: Thursday 11 + Friday 12 May 2017, 7.30pm
 Box Office Tel: 0161 274 0600 (all tickets booked via Contact only)        
         
 #### Access Information for Works Ahead at Contact           
-Age advisory: as Tom's work contains imagery that some people may find disturbing, we suggest 14+ (parental/guardian discretion). Duration: the double bill lasts up to 2 hours, including an interval. Both works largely spoken English; [Toni-Dee Paul](/current/2017-worksahead/paul)'s work includes vegan friendly food + drink. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.         
+Age advisory: as Tom's work contains imagery that some people may find disturbing, we suggest 14+ (parental/guardian discretion). Duration: the double bill lasts up to 2 hours, including an interval. Both works largely spoken English; [Toni-Dee Paul](/archive/2017-worksahead/paul)'s work includes vegan friendly food + drink. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.         
                 
 #### More              
 The structure of a trick is imbalanced.<br>Watch everyday actions turn into the impossible.                 
@@ -44,7 +44,7 @@ Tom is a performance artist and liar.<br>Trained in sleight of hand and prestidi
 #### Credits         
 Co-commissioned by hÅb + Contact for [Works Ahead](/hab/worksahead). Part of the SPILL National Platform 2016. With thanks to Arts Lab, Steakhouse Live, Forest Fringe, Carnesky Productions + Tim Bromage.        
                     
-[Works Ahead 2017](/current/2017-worksahead) is co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>; supported by <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England; funded by Manchester City Council.<br>Project Mentors: Matt Fenton + Peader Kirk        
+[Works Ahead 2017](/archive/2017-worksahead) is co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>; supported by <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England; funded by Manchester City Council.<br>Project Mentors: Matt Fenton + Peader Kirk        
          
 #### Websites         
 <a href="http://tomcassani.com" target="_blank">tomcassani.com</a> | <a href="http://twitter.com/TomCassani" target="_blank">@TomCassani</a><br><a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
