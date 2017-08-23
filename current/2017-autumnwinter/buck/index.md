@@ -26,7 +26,7 @@ Personal stories, ancestral memory and the shifting politics of diaspora. An urg
 #### Venue + Booking Details       
 Date: Thursday 19 October 2017, 7.30pm              
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
-<a href="http://www.z-arts.org/events/windows-of-displacementakeim-toussaint-buck" target="_blank">Tickets: available to reserve online from Fri 15 Sep</a>, Pay What You Decide in person on the evening. With a limited capacity, **ALL reservations will be released at 7.15pm on 19 Oct**, please arrive early at Z-arts to collect a ticket.           
+<a href="http://z-arts.ticketsolve.com/shows/873578891/events/128081201" target="_blank">Tickets: available to reserve online from Fri 15 Sep</a>, Pay What You Decide in person on the evening. With a limited capacity, **ALL reservations will be released at 7.15pm on 19 Oct**, please arrive early at Z-arts to collect a ticket.           
 Box Office Tel: 0161 232 6089 (Z-arts)        
               
 #### Access Information          
