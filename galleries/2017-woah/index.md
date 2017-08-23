@@ -10,7 +10,7 @@ stylesheet: gallery.css
 
 header_url: "../../galleries"
 more_link: Works Ahead 2017
-more_url: "../../current/2017-worksahead"
+more_url: "../../archive/2017-worksahead"
 
 gallery:
     -   {file: "titlepage.jpg", show: "<small>Images copyright &copy;2017 Word of Warning</small>"}
