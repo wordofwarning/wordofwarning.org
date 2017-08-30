@@ -6,11 +6,11 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency 2017"
-show: "Last Session: evening"
+show: "Evening: 5-10pm"
 artist_size: 1
 show_size: 3
 header_image:
-season: "Emergency 30|9|2017, evening"
+season: "Emergency 30|9|2017, Evening"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -39,7 +39,7 @@ BIOG
 <a href="http://URL" target="_blank">URL</a> | <a href="http://twitter.com/" target="_blank">@</a>        
          
 #### Venue + Booking Details         
-Date: Saturday 30 September 2017, evening (*full event runs 12noon-10pm*)            
+Date: Saturday 30 September 2017, 5-10pm (*full event runs 12noon-10pm*)            
 [Venue: Z-arts (incl. STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: no booking required, Pay What You Decide in person on the day, come and go as you please. *N.B. Some work will have a limited capacity, and may have sign-up sheets on the day or operate on a first-come, first-served basis.*        
 Tel: 0161 232 6089 (Z-arts)          
