@@ -57,10 +57,10 @@ Richard DeDomenici makes work that is social, joyful, topical and political — 
 >*Better than a trip to the Multiplex.*<br><a href="http://www.edp24.co.uk/going-out/review_richard_dedomenici_the_redux_project_1_4075953" target="_blank">Eastern Daily Press</a>           
 >*DeDomenici delivered by the bucket load.*<br><a href="http://longlens.wordpress.com/2015/12/01/criticising-the-bbc-live-tv-and-live-from-televison-centre-featuring-common-wealthg-gecko-theatre-richard-dedomenici-and-tourettes-hero" target="_blank">Garry Cook, Journalist</a>             
               
-*24 Hour Party People: Redux* was previewed by <a href="http://ilovemanchester.com/2017/07/05/meet-man-whose-remake-24-hour-party-people-lasts-just-12-minutes.aspx" target="_blank">I Love MCR</a> + <a href="http://manchesterwire.co.uk/#!/subversive-cinema-24-hour-party-people-redux-at-home" target="_blank">Manchester Wire</a>.
+*24 Hour Party People: Redux* was previewed by <a href="http://ilovemanchester.com/2017/07/05/meet-man-whose-remake-24-hour-party-people-lasts-just-12-minutes.aspx" target="_blank">I &#9829 MCR</a> + <a href="http://manchesterwire.co.uk/#!/subversive-cinema-24-hour-party-people-redux-at-home" target="_blank">Manchester Wire</a>.
         
 #### Credits         
 Commissioned by <a href="http://homemcr.org/event/24-hour-party-people-redux" target="_blank">HOME</a> + hÅb. Produced by Richard DeDomenici + hÅb.        
           
 #### Websites       
-<a href="http://TheReduxProject.com" target="_blank">TheReduxProject.com</a> | <a href="http://dedomenici.com" target="_blank">dedomenici.com</a><br><a href="http://twitter.com/TheReduxProject" target="_blank">@TheReduxProject</a> | <a href="http://twitter.com/DeDomenici" target="_blank">@DeDomenici</a>
+<a href="http://TheReduxProject.com" target="_blank">TheReduxProject.com</a> | <a href="http://dedomenici.com" target="_blank">dedomenici.com</a><br><a href="http://twitter.com/TheReduxProject" target="_blank">@TheReduxProject</a> | <a href="http://twitter.com/DeDomenici" target="_blank">@DeDomenici</a> | <a href="http://twitter.com/hashtag/24HPPRedux" target="_blank">#24HPPRedux</a>
