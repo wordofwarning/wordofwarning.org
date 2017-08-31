@@ -24,7 +24,7 @@ Women who marry men on death row: unconventional love, state homicide and challe
           
 See her <a href="http://vimeo.com/172586727" target="_blank">trailer</a>.        
           
-Now that it's over, read reviews from <a href="http://liveartalive.com/2017/05/18/the-road-to-huntsville" target="_blank">Live Art Alive</a> + <a href="http://www.thereviewshub.com/the-road-to-huntsville-the-lowry-salford" target="_blank">The Reviews Hub</a>.              
+Now that it's over, read reviews by <a href="http://liveartalive.com/2017/05/18/the-road-to-huntsville" target="_blank">Live Art Alive</a> + <a href="http://www.thereviewshub.com/the-road-to-huntsville-the-lowry-salford" target="_blank">The Reviews Hub</a>.              
             
 #### Venue + Booking Details           
 Date: Wednesday 17 May 2017, 8pm          
