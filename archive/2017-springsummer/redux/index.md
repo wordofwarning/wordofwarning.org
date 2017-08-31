@@ -23,12 +23,8 @@ season: "Richard DeDomenici's Redux Project 5|7|2017"
 #### In Brief     
 Glittering première of this (ir)reverent remake of the ultimate Mancunian classic, introduced by auteur DeDomenici.            
                  
-Now that it's over, see the full 12 minute *Redux* on YouTube:            
-<iframe width="560" height="315" src="http://www.youtube.com/embed/rwXeFsRjZFg?rel=0" frameborder="50" allowfullscreen></iframe>            
-               
-               
-You can also look <a href="http://www.youtube.com/watch?v=AMGxDu_CD2sr" target="_blank">behind the scenes</a> or see <a href="http://www.facebook.com/HOMEmcr/videos/1399187930176710/" target="_blank">*Live from the Red Carpet*</a>.         
-            
+Now that it's over, go <a href="http://www.youtube.com/watch?v=AMGxDu_CD2sr" target="_blank">behind the scenes</a>, re-watch <a href="http://www.facebook.com/HOMEmcr/videos/1399187930176710/" target="_blank">*Live from the Red Carpet*</a>, and see the full 12 minute *Redux* on YouTube:            
+<iframe width="560" height="315" src="http://www.youtube.com/embed/rwXeFsRjZFg?rel=0" frameborder="0" allowfullscreen></iframe>                    
 #### Venue + Booking Details       
 Date: Wednesday 5 July 2017, 6.30pm              
 <a href="http://homemcr.org/visit" target="_blank">Venue: HOME (Cinema 1)</a>, 2 Tony Wilson Place, Manchester, M15 4FN          
