@@ -24,7 +24,7 @@ season: "Richard DeDomenici's Redux Project 5|7|2017"
 Glittering première of this (ir)reverent remake of the ultimate Mancunian classic, introduced by auteur DeDomenici.            
                  
 Now that it's over, see the full 12 minute *Redux* on YouTube:            
-<iframe width="560" height="315" src="http://www.youtube.com/embed/rwXeFsRjZFg?rel=0" frameborder="0" allowfullscreen></iframe>            
+<iframe width="560" height="315" src="http://www.youtube.com/embed/rwXeFsRjZFg?rel=0" frameborder="50" allowfullscreen></iframe>            
                
                
 You can also look <a href="http://www.youtube.com/watch?v=AMGxDu_CD2sr" target="_blank">behind the scenes</a> or see <a href="http://www.facebook.com/HOMEmcr/videos/1399187930176710/" target="_blank">*Live from the Red Carpet*</a>.         
@@ -60,6 +60,8 @@ Richard DeDomenici makes work that is social, joyful, topical and political — 
 >*Brilliantly irreverent stuff from DeDomenici.*<br><a href="https://twitter.com/lyngardner/status/666011949394710530" target="_blank">Lyn Gardner, The Guardian</a>      
 >*Better than a trip to the Multiplex.*<br><a href="http://www.edp24.co.uk/going-out/review_richard_dedomenici_the_redux_project_1_4075953" target="_blank">Eastern Daily Press</a>           
 >*DeDomenici delivered by the bucket load.*<br><a href="http://longlens.wordpress.com/2015/12/01/criticising-the-bbc-live-tv-and-live-from-televison-centre-featuring-common-wealthg-gecko-theatre-richard-dedomenici-and-tourettes-hero" target="_blank">Garry Cook, Journalist</a>             
+              
+*24 Hour Party People: Redux* was previewed by <a href="http://ilovemanchester.com/2017/07/05/meet-man-whose-remake-24-hour-party-people-lasts-just-12-minutes.aspx" target="_blank">I Love MCR</a> + <a href="http://manchesterwire.co.uk/#!/subversive-cinema-24-hour-party-people-redux-at-home" target="_blank">Manchester Wire</a>.
         
 #### Credits         
 Commissioned by <a href="http://homemcr.org/event/24-hour-party-people-redux" target="_blank">HOME</a> + hÅb. Produced by Richard DeDomenici + hÅb.        
