@@ -20,7 +20,8 @@ season: "Emergency 30|9|2017, Afternoon"
 *Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2017](/current/2017-emergency)    
 
 ### Artists in Alphabetical Order (*subject to change*)      
-*Please note Emergency 2017 is mainly aimed at adults: see Access Info.*        
+Alex Billingham | †Becoming Storybook | †Briggsy Produces & Hawk Dance Theatre | †Eliza Soroga | Gameshow | †Jamal Gerald | †Johanna Bolton | Laura Napier | M. Valcarcel-Saez | †Matrafisc Dance | Paula Davy & Gilda Lockheart | Peter Jacobs | †Rampant | †Vijay Patel | Virginia Scudeletti & Nicholas Figgis | Zoe Toolan          
+*Please note Emergency 2017 is mainly aimed at adults: see Access Info.<br>† indicates limited capacity; first come, first served.*         
            
 **Artist | *Title***        
 COPY         
@@ -39,13 +40,13 @@ BIOG
 <a href="http://URL" target="_blank">URL</a> | <a href="http://twitter.com/" target="_blank">@</a>        
          
 #### Venue + Booking Details         
-Date: Saturday 30 September 2017, 12noon-5pm (*full event runs 12noon-10pm*)            
+Date: Saturday 30 September 2017, 12noon-5pm (*full event runs 12noon-10pm; also see [Evening](/current/2017-emergency/evening)*)            
 [Venue: Z-arts (incl. STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: no booking required, Pay What You Decide in person on the day, come and go as you please. *N.B. Some work will have a limited capacity, and may have sign-up sheets on the day or operate on a first-come, first-served basis.*        
 Tel: 0161 232 6089 (Z-arts)          
         
 #### Access Information       
-**Emergency 2017 is mainly aimed at adults**: some work may not be suitable for under 18s and will be clearly signposted — details here from 19 Sep. It takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. We apologise but some work may not be wheelchair accessible. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+**Emergency 2017 is mainly aimed at adults**: some work may not be suitable for under 18s and will be clearly signposted — details here from 19 Sep. It takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity (marked †), some participatory. We apologise but some work may not be wheelchair accessible. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
             
 #### Credits         
 [Emergency](/hab/emergency) 2017 is produced by [hÅb](/hab); supported using public funding by Arts Council England, and by Manchester City Council, STUN + Z-arts. | Image: Elena Molinaro (2016) by Tamsin Drury        
