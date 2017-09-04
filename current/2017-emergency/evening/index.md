@@ -17,10 +17,10 @@ season: "Emergency 30|9|2017, Evening"
 # show_size: 2 # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-*Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2017](/current/2017-emergency)<br>*NB Emergency 2017 is mainly aimed at adults: see Access Info below.* † *limited capacity*           
+*Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2017](/current/2017-emergency); *mainly aimed at adults: see Access Information below.*          
                
 ### Artists in Chronological Order (*subject to change*)      
-Katy Dye† | Krissi Musiol† | Jon Coleman | Tom Estes | Greg Saxton† | TukaWach† | Matt & Nath | Emma Geraghty† | Dan Craddock & Sophie Unwin† | Ben Mills & Lydia Cottrell        
+Katy Dye† | Krissi Musiol† | Jon Coleman | Tom Estes | Greg Saxton† | TukaWach† | Matt & Nath | Emma Geraghty† | Dan Craddock & Sophie Unwin† | Ben Mills & Lydia Cottrell († limited capacity)       
           
 **Artist | *Title***        
 COPY         
