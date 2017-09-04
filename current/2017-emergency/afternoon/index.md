@@ -17,10 +17,10 @@ season: "Emergency 30|9|2017, Afternoon"
 # show_size: 2 # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-*Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2017](/current/2017-emergency)    
+*Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2017](/current/2017-emergency)<br>*Mainly aimed at adults: see Access Info below.* † *limited capacity*              
 
 ### Artists in Alphabetical Order (*subject to change*)      
-Alex Billingham | Becoming Storybook† | Briggsy Produces & Hawk Dance Theatre† | Eliza Soroga† | Gameshow | Jamal Gerald† | Johanna Bolton† | Laura Napier | M. Valcarcel-Saez | Matrafisc Dance† | Paula Davy & Gilda Lockheart | Peter Jacobs | Rampant† | Vijay Patel† | Virginia Scudeletti & Nicholas Figgis | Zoe Toolan (*NB Emergency 2017 is mainly aimed at adults: see Access Info. † limited capacity.*)          
+Alex Billingham | Becoming Storybook† | Briggsy Produces & Hawk Dance Theatre† | Eliza Soroga† | Gameshow | Jamal Gerald† | Johanna Bolton† | Laura Napier | M. Valcarcel-Saez | Matrafisc Dance† | Paula Davy & Gilda Lockheart | Peter Jacobs | Rampant† | Vijay Patel† | Virginia Scudeletti & Nicholas Figgis | Zoe Toolan        
            
 **Artist | *Title***        
 COPY         
@@ -38,7 +38,7 @@ CREDITS
 BIOG         
 <a href="http://URL" target="_blank">URL</a> | <a href="http://twitter.com/" target="_blank">@</a>        
          
-#### Venue + Booking Details         
+#### Venue + Booking Details, for Afternoon         
 Date: Saturday 30 September 2017, 12noon-5pm; full event runs [to 10pm](/current/2017-emergency/evening)            
 [Venue: Z-arts (incl. STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: no booking required, Pay What You Decide in person on the day, come and go as you please. ( † *NB Some work has a limited capacity and will have sign-up sheets on the day or operate on a first-come, first-served basis.*)        
