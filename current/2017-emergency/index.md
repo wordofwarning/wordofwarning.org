@@ -21,18 +21,18 @@ season: "Emergency 30|9|2017"
 ### Saturday 30 September. Pay What You Decide             
 Manchester's micro-marathon of the bizarre and the beautiful comes of age… Our eighteenth day-long performance takeover fills Z-arts to bursting point with over twenty live works, from gallery to theatre, store-cupboard to stairwell.          
         
-Your chance to sample the different — dip in and out of ongoing performances and installations from noon; join us for some sit-down shows in the evening.<br>*Participating artists to be announced from 19 Sep.*              
+Your chance to sample the different — dip in and out of ongoing performances and installations from noon; join us for some sit-down shows in the evening.<br>*Participating artists to be announced here from 19 Sep.*              
               
 To get a feel for it, have a look at the 2016 [programme](/archive/2016-emergency) + [gallery](/galleries/2016-emergency).         
          
 #### Venue + Booking Details         
 Date: Saturday 30 September 2017, 12noon-10pm           
 [Venue: Z-arts (incl. STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
-Tickets: no booking required, Pay What You Decide in person on the day, come and go as you please. *NB Some work will have a limited capacity (†) and may have sign-up sheets on the day or operate on a first-come, first-served basis.*        
+Tickets: no booking required, Pay What You Decide in person on the day, come and go as you please. ( † *NB Some work has a limited capacity and will have sign-up sheets on the day or operate on a first-come, first-served basis.*)        
 Tel: 0161 232 6089 (Z-arts)          
          
 #### What people have said about Emergency         
->• *Great to have such exciting off beat talent.*<br>• *I am amazed they manage so many shows in a day…*<br>• *…loved diversity of work on show.*<br>• *Really important event for NW artists — safe space to experiment.*<br>• *Performances are both rewarding in their own right, and also offer a glimpse into where theatre might go in our more interactive and interconnected world.*<br>Audience Feedback from [2016](/archive/2016-emergency)/[15](/archive/2015-emergency)             
+>• *Great to have such exciting off beat talent.*<br>• *I am amazed they manage so many shows in a day…*<br>• *…loved diversity of work on show.*<br>• *Really important event for NW artists — safe space to experiment.*<br>• *Performances are both rewarding in their own right, and also offer a glimpse into where theatre might go in our more interactive and interconnected world.*<br>Audience Feedback from [2016](/archive/2016-emergency)+[15](/archive/2015-emergency)             
            
 Emergency 2016 was reviewed by <a href="http://exeuntmagazine.com/features/emergency-festival-free-non-stop-performance-manchester" target="_blank">Exeunt Magazine</a> + <a href="http://www.thestateofthearts.co.uk/features/review-emergency-z-arts" target="_blank">The State of the Arts</a>.        
           
