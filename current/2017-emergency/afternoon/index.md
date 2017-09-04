@@ -17,10 +17,10 @@ season: "Emergency 30|9|2017, Afternoon"
 # show_size: 2 # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-*Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2017](/current/2017-emergency); *mainly aimed at adults: see Access Info below.*              
+*An afternoon of new live art presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2017](/current/2017-emergency); *mainly aimed at adults, see Access Info*              
 
 ### Artists in Alphabetical Order (*subject to change*)      
-Alex Billingham | Becoming Storybook† | Briggsy Produces & Hawk Dance Theatre† | Eliza Soroga† | Gameshow | Jamal Gerald† | Johanna Bolton† | Laura Napier | M. Valcarcel-Saez | Matrafisc Dance† | Paula Davy & Gilda Lockheart | Peter Jacobs | Rampant† | Vijay Patel† | Virginia Scudeletti & Nicholas Figgis | Zoe Toolan ( † limited capacity)       
+Alex Billingham | Becoming Storybook† | Briggsy Produces & Hawk Dance Theatre† | Eliza Soroga† | Gameshow | Jamal Gerald† | Johanna Bolton† | Laura Napier | M. Valcarcel-Saez | Matrafisc Dance† | Paula Davy & Gilda Lockheart | Peter Jacobs | Rampant† | Vijay Patel† | Virginia Scudeletti & Nicholas Figgis | Zoe Toolan ( † *limited capacity*)       
            
 **Artist | *Title***        
 COPY         
