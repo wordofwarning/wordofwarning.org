@@ -20,8 +20,7 @@ season: "Emergency 30|9|2017, Afternoon"
 *Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2017](/current/2017-emergency)    
 
 ### Artists in Alphabetical Order (*subject to change*)      
-Alex Billingham | †Becoming Storybook | †Briggsy Produces & Hawk Dance Theatre | †Eliza Soroga | Gameshow | †Jamal Gerald | †Johanna Bolton | Laura Napier | M. Valcarcel-Saez | †Matrafisc Dance | Paula Davy & Gilda Lockheart | Peter Jacobs | †Rampant | †Vijay Patel | Virginia Scudeletti & Nicholas Figgis | Zoe Toolan (*† indicates limited capacity*)          
-*Please note Emergency 2017 is mainly aimed at adults: see Access Info.*         
+Alex Billingham | Becoming Storybook† | Briggsy Produces & Hawk Dance Theatre† | Eliza Soroga† | Gameshow | Jamal Gerald† | Johanna Bolton† | Laura Napier | M. Valcarcel-Saez | Matrafisc Dance† | Paula Davy & Gilda Lockheart | Peter Jacobs | Rampant† | Vijay Patel† | Virginia Scudeletti & Nicholas Figgis | Zoe Toolan (*NB Emergency 2017 is mainly aimed at adults: see Access Info. † limited capacity.*)          
            
 **Artist | *Title***        
 COPY         
@@ -40,9 +39,9 @@ BIOG
 <a href="http://URL" target="_blank">URL</a> | <a href="http://twitter.com/" target="_blank">@</a>        
          
 #### Venue + Booking Details         
-Date: Saturday 30 September 2017, 12noon-5pm (*full event runs 12noon-10pm; also see [Evening](/current/2017-emergency/evening)*)            
+Date: Saturday 30 September 2017, 12noon-5pm; full event runs [to 10pm](/current/2017-emergency/evening)            
 [Venue: Z-arts (incl. STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
-Tickets: no booking required, Pay What You Decide in person on the day, come and go as you please. *NB Some work has a limited capacity (†) and may have sign-up sheets on the day or operate on a first-come, first-served basis.*        
+Tickets: no booking required, Pay What You Decide in person on the day, come and go as you please. ( † *NB Some work has a limited capacity and will have sign-up sheets on the day or operate on a first-come, first-served basis.*)        
 Tel: 0161 232 6089 (Z-arts)          
         
 #### Access Information       
