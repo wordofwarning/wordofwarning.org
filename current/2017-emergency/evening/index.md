@@ -20,7 +20,7 @@ season: "Emergency 30|9|2017, Evening"
 *Presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2017](/current/2017-emergency)    
 
 ### Artists in Chronological Order (*subject to change*)      
-Katy Dye | Krissi Musiol | Jon Coleman | Tom Estes | Greg Saxton | TukaWach | Matt & Nath | Emma Geraghty | Dan Craddock & Sophie Unwin | Ben Mills & Lydia Cottrell [*NB Emergency 2017 is mainly aimed at adults: see Access Info.*]        
+Katy Dye | Krissi Musiol | Jon Coleman | Tom Estes | Greg Saxton | TukaWach | Matt & Nath | Emma Geraghty | Dan Craddock & Sophie Unwin | Ben Mills & Lydia Cottrell (*NB Emergency 2017 is mainly aimed at adults: see Access Info.*)        
           
 **Artist | *Title***        
 COPY         
@@ -39,7 +39,7 @@ BIOG
 <a href="http://URL" target="_blank">URL</a> | <a href="http://twitter.com/" target="_blank">@</a>        
          
 #### Venue + Booking Details         
-Date: Saturday 30 September 2017, 5pm-10pm (*full event runs [from 12noon](/current/2017-emergency/afternoon)*)            
+Date: Saturday 30 September 2017, 5pm-10pm; full event runs [from 12noon](/current/2017-emergency/afternoon)            
 [Venue: Z-arts (incl. STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: no booking required, Pay What You Decide in person on the day, come and go as you please. ( † *NB Some work has a limited capacity and will have sign-up sheets on the day or operate on a first-come, first-served basis.*)         
 Tel: 0161 232 6089 (Z-arts)          
