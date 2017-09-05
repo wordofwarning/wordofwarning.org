@@ -41,7 +41,7 @@ Emergency 2016 was reviewed by <a href="http://exeuntmagazine.com/features/emerg
 **Emergency 2017 is mainly aimed at adults**: some work may not be suitable for under 18s and will be clearly signposted — details here from 19 Sep. It takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity (marked †), some participatory. We apologise but some work may not be wheelchair accessible. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
             
 #### Credits         
-[Emergency](/hab/emergency) 2017 is produced by [hÅb](/hab); supported using public funding by Arts Council England, and by Manchester City Council, STUN + Z-arts. | Image: Elena Molinaro (2016) by Tamsin Drury        
+[Emergency](/hab/emergency) 2017 is produced by [hÅb](/hab); supported using public funding by Arts Council England, and by Manchester City Council, STUN + Z-arts. | Image: Scudeletti & Figgis by Matt Warner Photography        
         
 #### Websites
 <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr<a>
