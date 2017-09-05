@@ -636,10 +636,10 @@
 	.e2017 .artist, 
 	.e2017 .show,
 	.e2017 .season
-		{background:#d21; color:#fff;}
+		{background:#ed1c24; color:#fff;}
 
 	.e2017 blockquote
-		{border-left-color:#fff; color:#909;}
+		{border-left-color:#fff;}
 	
 	.e2017 a,
 	.e2017 a:visited,
@@ -648,7 +648,7 @@
 	.e2017 nav a:hover,
 	.e2017 article a:hover,
 	.e2017 footer a:hover
-		{background: #fff; color: #d21;}
+		{background: #fff; color: #ed1c24;}
 		
 	.e2017 .splash
-		{background:url(../images/header_emergency17a.jpg) center center}
+		{background:url(../images/header_emergency17.jpg) center center}
