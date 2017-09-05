@@ -33,7 +33,7 @@ Box Office Tel: 0161 232 6089 (Z-arts)
 Age advisory: parental/guardian discretion. With no interval, the show lasts approximately 1 hour. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
             
 #### More            
-One young man's journey from Jamaica to England becomes a universal story of displacement told through the eyes, mouth and feet of personal experience.            
+One young man's journey from Jamaica to England becomes a universal story of displacement, told through the eyes, mouth and feet of personal experience.            
          
 A journey through ancestral memory, colonial history and modern economics to explore the shifting politics of diaspora.<br>A personal narrative to invoke a sense of collective responsibility.<br>An urgent plea for the past, present and future of humanity.          
        
@@ -48,7 +48,7 @@ He has worked on numerous projects with different artists + companies around the
        
 #### What people have said about *Windows…*         
 >*…wedded together with stunning and beautiful movement.<br>…one of the most powerful and evocative portrayals that we had ever seen.*<br>Audience Feedback             
->*…an electric performer …an engaging exploration of crucial contemporary issues.*<br>Sophie Ignatieff, Refugee Week Programme Co-ordinator          
+>*an electric performer …an engaging exploration of crucial contemporary issues.*<br>Sophie Ignatieff, Refugee Week Programme Co-ordinator          
          
 #### Credits        
 Written + performed by Akeim Toussaint Buck.<br>Dramaturge + co-writer: Zodwa Nyoni | Gold Dust Director: Amanda Huxtable<br>Sound:
