@@ -9,7 +9,7 @@ artist: "Darren Pritchard Dance" # the name of the artist or company
 show: "Rent Party: Domestic Edition" # the name of the show
 artist_size: 2
 show_size: 3
-header_image:
+header_image: "header_rentparty.jpg"
 season: "Darren Pritchard Dance 10+11|11|2017"
 
 # ABOUT THE SHOW - LAYOUT
