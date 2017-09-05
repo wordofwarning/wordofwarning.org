@@ -20,9 +20,9 @@ season: "Emergency 30|9|2017"
          
 ### Saturday 30 September. Pay What You Decide             
 Manchester's micro-marathon of the bizarre and the beautiful comes of age as our eighteenth day-long performance takeover fills Z-arts to bursting point…        
-**From noon**, dip in and out of ongoing performances, installations and limited capacity experiences;<br>**from 5pm**, join us for a series of short sit-down shows in this non-stop performance takeover.<br>Your chance to sample the different… then pay what you decide!        
+**From noon** dip in and out of ongoing performances, installations and limited capacity experiences; and **from 5pm** join us for a series of short sit-down shows in this non-stop performance takeover.<br>Your chance to sample the different… then pay what you decide!        
         
-*With over twenty live works, participating artists to be announced here from 19 Sep.*              
+*With over twenty live works, participating artists tba here from 19 Sep.*              
               
 To get a feel for it, have a look at the 2016 [programme](/archive/2016-emergency) + [gallery](/galleries/2016-emergency).         
          
