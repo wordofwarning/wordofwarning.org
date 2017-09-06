@@ -33,6 +33,5 @@ gallery:
     -   {file: "matt&nath.jpg", artist: "Matt & Nath"}
     -   {file: "emmag.jpg", artist: "Emma Geraghty"}
     -   {file: "sophiedan.jpg", artist: "Dan Craddock & Sophie Unwin"}
-    -   {file: "paulodonnell.jpg", artist: "Paul O'Donnell"}
      
 ---
