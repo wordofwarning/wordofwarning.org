@@ -22,7 +22,7 @@ season: "Emergency 30|9|2017, Evening"
 ### Artists in Chronological Order (*subject to change*)      
 Katy Dye† | Krissi Musiol† | Jon Coleman | Tom Estes | Greg Saxton† | TukaWach† | Matt & Nath | Emma Geraghty† | Dan Craddock & Sophie Unwin† | Ben Mills & Lydia Cottrell ( † *limited capacity*)       
           
-**Katy Dye & Craig Manson | *The Cat's Mother***
+**Katy Dye & Craig Manson | *The Cat's Mother***        
 A performance exploring: 'White Missing Woman Syndrome' — a term used by social scientists and media commentators to describe the extensive media coverage of missing person cases involving young, white, upper middle class women or girls. Performed by Kate and Gerry McCat. Supported by The National Theatre of Scotland's Engine Room.              
            
 Katy Dye is a performance artist interested in censorship, dehumanisation and freedom of speech. Her performance *Baby Face* explores the infantilisation of women, and has been performed at Camden People’s Theatre, Buzzcut + In Between Time.<br>Craig Manson is an artist whose work primarily addresses physical, emotional and political exploitation and objectification. So far he has used live performance to re-imagine ancient myths in a live art context and to extensively embody different species — from seals to bears and deers. He has toured his work *Selkie* to Unfix, Camden People’s Theatre + Edinburgh Fringe.
@@ -50,7 +50,7 @@ Greg Saxton is a writer, director and actor. His most recent play, *Somewhere in
 **TukaWach | *How the Hares are Dying***            
 "*For me the Hare is a symbol of incarnation, which the Hare really enacts — something a human can only do in imagination. It burrows, building itself a home in the earth.*" An imaginary workshop of Joseph Beuys, the setting for an exploration of self-sacrifice and transformation. Dedicated to this great German artist, who believed in the revolutionary and healing power of Art.           
            
-Magda Tuka: performer, dramaturg. A graduate of the Warsaw Theatre Academy she toured internationally with Studium Teatralne and has worked with interactive theatre company The Other Way Works. Sound design by Opaean.<br>Partners: Studium Teatralne (Warsaw), supported by Polish Institute, under artistic scholarship from the Polish Ministry of Culture and National Heritage.               
+Magda Tuka: performer, dramaturg. A graduate of the Warsaw Theatre Academy she toured internationally with Studium Teatralne and has worked with interactive theatre company The Other Way Works. Sound design by Opaean. Partners: Studium Teatralne (Warsaw), supported by Polish Institute, under artistic scholarship from the Polish Ministry of Culture and National Heritage.               
 liveart.work           
           
 **Matt & Nath | *don't try this at home (WIP)***             
@@ -68,7 +68,7 @@ Welcome. Come on in. I hope you're wearing suitable clothing. Prepare to be soak
            
 Dan Craddock is a  multi-disciplinary maker with a talent for improvisation and comedy who has performed a number of roles at international festivals and national venues, including hosting, performance interventions and solo performances.<br>Sophie Unwin is an artist whose work derives from autobiographical scrawl, observations of the everyday and a fondness for the sardonic, in an attempt to find answers to life's many questions. Sophie was a Yorkshire Dance new associate artist and has toured dance works both regionally and nationally, both her own and with Wendy Houstoun + Gary Clarke.            
           
-**Ben Mills & Lydia Cottrell | *They are going to create a work together.***                
+**Ben Mills & Lydia Cottrell | *Atomic***                
 A physical exploration into small actions that have huge consequences and the ethics of decision making. The work also draws inspiration from the cold war, Russian sleep experiments, the Manhattan Project and the CIA's MKUltra mind control experimentation.            
              
 Lydia Cottrell is a dancer, performer, apocaloptimist, NASA lover and is prepping for the end of the world; Ben Mills is a live artist, bread maker, mover, rugby player, pun lover and lacks time management skills. They are going to create a work together.             
