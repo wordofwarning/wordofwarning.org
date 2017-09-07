@@ -35,13 +35,16 @@ Nikky Norton Shafau has over 10 years experience within the arts, producing and 
 becomingstorybook.com          
         
 **Briggsy Produces & Hawk Dance Theatre | *HandsON***         
-An immersive and intimate audio visual outdoor performance experience for 30 people exploring why, in British culture, men are still discouraged from showing raw emotion publicly.<br>Music production + sound engineering: Lee Affen | Technical operations: David Forrest | Performers: Josh Hawkins, Anthony Briggs, Edenamiuki Aiguobasinmwin.<br>Supported using public funding by the National Lottery through Arts Council England, and by The University of Salford, Yorkshire Dance + Ludus Dance.        
+An immersive and intimate audio visual outdoor performance experience for 30 people exploring why, in British culture, men are still discouraged from showing raw emotion publicly.               
+Music production + sound engineering: Lee Affen | Technical operations: David Forrest | Performers: Josh Hawkins, Anthony Briggs, Edenamiuki Aiguobasinmwin.         
+Supported using public funding by the National Lottery through Arts Council England, and by The University of Salford, Yorkshire Dance + Ludus Dance.        
          
 Josh Hawkins is a choreographer/dancer. Currently Artist in Residence at The University of Salford, he founded Hawk Dance Theatre in 2015.<br>With a strong ethos in participatory practice, Anthony Briggs is interested in creating accessible work for diverse audiences; he is currently Creative Director for Ludus Dance, Co-Director of Maelstrom Theatre, and develops his own stuff.<br>Lee Affen is a composer, music producer and sound designer whose work includes the composition of new and original live scores for the 1920s silent films *Metropolis*, *Nosferatu* + *Sunrise: A Song of Two Humans*.        
 hawkdancetheatre.com | briggsyproduces.co.uk        
         
 **Eliza Soroga | *The Oppression of Intimacy***         
-Taking its cue from Artaud's statement, "*theatre should be a mirror of life*", this performance challenges the role of the individual and its relation to the role of the crowd, creating an emotional dissonance between subject and object. Borrowing elements from the controlled and composed language of cinema, which, when fed back to an audience makes them both voyeur and object, depending on the gaze.<br>Music: *In a Landscape*, John Cage | Photos: Alisa Oleva         
+Taking its cue from Artaud's statement, "*theatre should be a mirror of life*", this performance challenges the role of the individual and its relation to the role of the crowd, creating an emotional dissonance between subject and object. Borrowing elements from the controlled and composed language of cinema, which, when fed back to an audience makes them both voyeur and object, depending on the gaze.               
+Music: *In a Landscape*, John Cage | Photos: Alisa Oleva         
           
 Eliza Soroga is a London-based performance artist from Athens. Her work is mainly site-specific and explores the dynamic method of shaping everyday life into a performance. She was awarded the 2017 Overall Winner in Performance & Video Art at the international Arte Laguna Prize, and her work has been shown in galleries, museums and theatres including the V&A, Battersea Arts Centre + Camden People's Theatre. She is Artistic Director of Re-Inventing Public Spaces, and part of the Young Vic's Theatre Directors Programme, Geraldine Pilgrim Company's creative team + platform Gesamtatelier.              
 elizasoroga.com | www.re-inventing-public-spaces.tumblr.com             
@@ -52,7 +55,7 @@ Matt and Matthew are counting out 100,000 tiddlywinks. Each tiddlywink represent
 Gameshow is run by Matt Ryan and Matthew Evans. Associate company at the Bush Theatre in London, they create performance projects across the UK. Work to date ranges from performance installations and participatory projects to classic plays and new writing including: *Dancing Bear, Dancing Bear* at Pleasance, Camden People's Theatre, BE Festival + PULSE (special judges' commendation); *Grown Up* + *This Is The Moon*.          
         
 **Jamal Gerald | *You See…***         
-I am usually vocal about what I see. But for once, I'm just going to ask questions and stay quiet whilst you answer them. I am interested in seeing the world through the eyes of your experiences. I just want to ask you questions. Please, share with me what you see. I want to know what you see. I want you to know what you see. I can't promise you that all of my questions will be nice, but don’t you worry. Just remember, it's all about you, and what you see.<br>"*You See… is both thoughtful and thought provoking, carefully and quietly challenging of the assumptions we don’t notice ourselves make.*" — Alexander Kelly, Third Angel.        
+I am usually vocal about what I see. But for once, I'm just going to ask questions and stay quiet whilst you answer them. I am interested in seeing the world through the eyes of your experiences. I just want to ask you questions. Please, share with me what you see. I want to know what you see. I want you to know what you see. I can't promise you that all of my questions will be nice, but don’t you worry. Just remember, it's all about you, and what you see.<br>"*…both thoughtful and thought provoking, carefully and quietly challenging of the assumptions we don’t notice ourselves make.*" — Alexander Kelly, Third Angel.        
           
 Jamal Gerald is a Leeds-based artist whose work is conversational, socially conscious, a celebration of individuality, and focuses on identity and lived experiences. He is currently making a body of work, entitled Boxes, focusing on the concepts of labels and privilege. In 2016, he toured his first solo show *FADoubleGOT* and was commissioned by Random Acts North to make a short film called *Let's Walk* with Jessica Sweet. His work has been shown at West Yorkshire Playhouse, Homotopia, Queer Contact + Battersea Arts Centre.             
              
@@ -62,8 +65,8 @@ Divine your future with elastic bands. Explore the meaning of your found elastic
 Johanna Bolton is a Swedish artist living in London. A Fine Arts graduate from Chelsea College, she has taught at the Royal College of Art and has participated in a number of residencies, art festivals and group shows. Her practice is concerned with performative research and finding strategies to observe and record the invisible in the everyday.            
 www.johannabolton.com/i-twang              
              
-**Laura Napier | *Reject***
-A durational performance that charts a year of missed opportunities and failed art proposals. Formed from the real rejection emails received by the Sculptor Laura Napier, the piece celebrates monotony, absence, and the etiquette of language employed to let someone down gently.<br>Devised by Laura Napier + performed by Beatrice Scirocchi.             
+**Laura Napier | *Reject***               
+A durational performance that charts a year of missed opportunities and failed art proposals. Formed from the real rejection emails received by the Sculptor Laura Napier, the piece celebrates monotony, absence, and the etiquette of language employed to let someone down gently. Devised by Laura Napier + performed by Beatrice Scirocchi.             
           
 Laura Napier is a London-based Sculptor working in a range of media including performance to explore sense of place, identity, and loss. She received her BA at Chelsea College of Art (2004), and her MA in Sculpture at the Royal College of Art (2006). Her work is exhibited nationally and internationally.<br>Beatrice Scirocchi is an Italian born actress. She Trained at The Royal Central School of Speech and Drama and is a member of Engineer theatre ensemble.           
 lauranapier.co.uk | engineertheatre.com          
@@ -75,7 +78,7 @@ M. Valcarcel-Saez is a Spanish multidisciplinary artist, musician, and writing s
 alien-lost.party | valcarcel-saez.net        
            
 **Matrafisc Dance | *Soul's Paths: Journeys***         
-"*The truest expression of a person is in its dance. Bodies never lie.*" — Agnes de Mille. Through a series of questions Matrafisc Dance invite you to share the journey of your soul. See your story journey through a stranger's body. Stories from participants will inform material for an upcoming performance of *Soul's Paths* at The Wonder Inn, 13-15 Oct 2017.<br>Supported using public funding by the National Lottery through Arts Council England.             
+"*The truest expression of a person is in its dance. Bodies never lie.*" — Agnes de Mille. Through a series of questions Matrafisc Dance invite you to share the journey of your soul. See your story journey through a stranger's body. Stories from participants will inform material for an upcoming performance of *Soul's Paths* at The Wonder Inn, 13-15 Oct 2017. Supported using public funding by the National Lottery through Arts Council England.             
           
 Matrafisc Dance is an artistic collaboration between Manchester-based Italian choreographers Antonello Apicella & Ina Colizza. Previous work includes *Periodo Blu* at Shoots (The Lowry) & Turn (Contact); *Bruise* at Turn & Courtyard Theatre, Hereford.           
           
@@ -92,17 +95,18 @@ Peter Jacobs is an experienced performer, model and (less-experienced) artist ex
 peter-jacobs.weebly.com           
               
 **Rampant | *Questions of England***            
-"*What does he of England know who only England knows?*" A random collection of questions. Simple in concept, the range of ideas it evokes is entirely in the hands of the experience of the audience. Listen for as long as you like, take from it what you will. The chances are you will think of England slightly differently.
+"*What does he of England know who only England knows?*"<br>A random collection of questions. Simple in concept, the range of ideas it evokes is entirely in the hands of the experience of the audience. Listen for as long as you like, take from it what you will. The chances are you will think of England slightly differently.
             
 Mark Reid is a local writer and theatre activist, producing work on the alternative theatre scene in Manchester for many years. He has recently spent a year writing a play a week, and exploring audience interactive work with *Hamlet* and *Brutality*.            
              
 **Vijay Patel | *Asperger's Question Time***             
 A participatory performance which aims to create a safe space for those with Asperger's and those without. The audience are taken through a playful journey into the Asperger's mind and offered a space to have their wildest questions answered… perhaps with a more obscure answer. It is forced social interaction and we must support each other through it.              
           
-Vijay Patel is a performance artist based in South London. A live/performance artist who crosses forms into cabaret and installations. His work has previously dealt with the complexities of being of mixed Indian/British heritage and what that means within the contemporary condition, examining arranged marriages, immigration and gender issues. Graduate of the University of Chichester, he has performed at SPILL Festival 2016, Duckie + Artsadmin.<br>"A dynamic young artist exploring the contemporary condition with humour, pathos and heart. Mark him as one to watch." — Simon Casson, Duckie              
+Vijay Patel is a performance artist based in South London. A live/performance artist who crosses forms into cabaret and installations. His work has previously dealt with the complexities of being of mixed Indian/British heritage and what that means within the contemporary condition, examining arranged marriages, immigration and gender issues. Graduate of the University of Chichester, he has performed at SPILL Festival 2016, Duckie + Artsadmin.<br>"*A dynamic young artist exploring the contemporary condition with humour, pathos and heart. Mark him as one to watch.*" — Simon Casson, Duckie              
              
 **Virginia Scudeletti & Nicholas Figgis | *Va Adaxo che Amannaman ti Czzi — Go Slowly Or You Might Fall***
-We are all the pieces of what we remember.<br>Nicholas Figgis: Performer/Director/Writer | Virginia Scudeletti: Performer/Choreographer/Director | Caroline Salem: Mentor<br>Supported by Clarence Mews Studio, 3sA Crowd Collective, Spazio Sarav, Arti's           
+We are all the pieces of what we remember.               
+Nicholas Figgis: Performer/Director/Writer | Virginia Scudeletti: Performer/Choreographer/Director | Caroline Salem: Mentor<br>Supported by Clarence Mews Studio, 3sA Crowd Collective, Spazio Sarav, Arti's           
           
 Nicholas and Virginia met working as performers for Liveartshow in 2013. Their work lies within the field of physical theatre and the fusion between their rich experience as performers — Nicholas in the field of theatre, Virginia in the field of dance.<br>Nicholas trained as an actor and has spent his professional life working in theatre and television including National Theatre, Manchester Royal Exchange, BBC and Channel 4 amongst others.<br>Originally from Genoa (IT), Virginia trained at Laban and LCDS, working with Gill Clarke, Darren Ellis and Trisha Brown. She has been a member of the London Soundpainting Orchestra since its foundation in 2010, was movement director for Opera Viscera and works widely as a freelance dancer and performer. Her first solo work, SPUTI, was awarded winner of IFA 2014.               
 virginiascudeletti.wordpress.com           
