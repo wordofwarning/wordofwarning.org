@@ -50,7 +50,7 @@ Eliza Soroga is a London-based performance artist from Athens. Her work is mainl
 elizasoroga.com | www.re-inventing-public-spaces.tumblr.com             
              
 **Gameshow | *What I'm Worth***             
-Matt and Matthew are counting out 100,000 tiddlywinks. Each tiddlywink represents £1 used to sustain a human life. "*Is worth the same as money? Are they the same thing? Is money who we are?*" — Ali Smith, How To Be Both. Like many people, Gameshow values things differently to our society as a whole. *What I’m Worth* is an attempt to create a vivid and playful way of exploring the dilemmas of a culture that prioritises the financial worth of things and ideas. Developed for SPRINT festival at CPT.          
+Matt and Matthew are counting out 100,000 tiddlywinks. Each tiddlywink represents £1 used to sustain a human life. "*Is worth the same as money? Are they the same thing? Is money who we are?*" — Ali Smith, How To Be Both. Like many people, Gameshow values things differently to our society as a whole. *What I’m Worth* is an attempt to create a vivid and playful way of exploring the dilemmas of a culture that prioritises the financial worth of things and ideas. Developed for SPRINT festival at Camden People's Theatre.          
          
 Gameshow is run by Matt Ryan and Matthew Evans. Associate company at the Bush Theatre in London, they create performance projects across the UK. Work to date ranges from performance installations and participatory projects to classic plays and new writing including: *Dancing Bear, Dancing Bear* at Pleasance, Camden People's Theatre, BE Festival + PULSE (special judges' commendation); *Grown Up* + *This Is The Moon*.          
         
