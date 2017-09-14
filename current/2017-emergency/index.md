@@ -20,12 +20,15 @@ season: "Emergency 30|9|2017"
          
 ### Saturday 30 September. Pay What You Decide             
 Manchester's micro-marathon of the bizarre and the beautiful comes of age as our eighteenth day-long performance takeover fills Z-arts to bursting point…        
+          
+*Body positivity. Feminism. Ed Sheeran.<br>Elastic futures and hands on immersion.<br>Voyeur and object, the journey of your soul.<br>Jelly, ice cream, tutus and desperation.<br>Missed opportunities, violence of entertainment.<br>Something is amiss, it smells like fish.<br>Get lean, come clean… in 15!*           
+             
 **From noon** dip in and out of ongoing performances, installations and limited capacity experiences; and **from 5pm** join us for a series of short sit-down shows in this non-stop performance takeover.<br>Your chance to sample the different… then pay what you decide!        
         
 ### Participating artists (*subject to change*)        
-Alex Billingham | Becoming Storybook | Ben Mills & Lydia Cottrell | Briggsy Produces & Hawk Dance Theatre | Dan Craddock & Sophie Unwin | Eliza Soroga | Emma Geraghty | Gameshow | Greg Saxton | Jamal Gerald | Johanna Bolton | Jon Coleman | Katy Dye & Craig Manson | Krissi Musiol | Laura Napier | M. Valcarcel-Saez | Matrafisc Dance | Matt & Nath | Paula Davy & Gilda Lockheart | Peter Jacobs | Rampant | Tom Estes | TukaWach | Vijay Patel | Virginia Scudeletti & Nicholas Figgis | Zoe Toolan             
+Alex Billingham | Becoming Storybook | Ben Mills & Lydia Cottrell | Briggsy & Hawk Dance Theatre | Dan Craddock & Sophie Unwin | Eliza Soroga | Emma Geraghty | Gameshow | Greg Saxton | Jamal Gerald | Johanna Bolton | Jon Coleman | Katy Dye & Craig Manson | Krissi Musiol | Laura Napier | M. Valcarcel-Saez | Matrafisc Dance | Matt & Nath | Paula Davy & Gilda Lockheart | Peter Jacobs | Rampant | Tom Estes | TukaWach | Vijay Patel | Virginia Scudeletti & Nicholas Figgis | Zoe Toolan             
               
-To get a feel for it, have a look at the 2016 [programme](/archive/2016-emergency) + [gallery](/galleries/2016-emergency).         
+To get a feel for it, see our [gallery of 2017 artists](/galleries/2017-emergencypre) or have a look at the 2016 [programme](/archive/2016-emergency) + [gallery](/galleries/2016-emergency).         
          
 #### Venue + Booking Details         
 Date: Saturday 30 September 2017, 12noon-10pm           
