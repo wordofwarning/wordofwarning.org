@@ -48,4 +48,4 @@ Emergency 2016 was reviewed by <a href="http://exeuntmagazine.com/features/emerg
 [Emergency](/hab/emergency) 2017 is produced by [hÅb](/hab); supported using public funding by Arts Council England, and by Manchester City Council, STUN + Z-arts. | Image: Scudeletti & Figgis by Matt Warner Photography        
         
 #### Websites
-<a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr<a>
+<a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr<a> | <a href="http://www.facebook.com/events/126871721220622" target="_blank">Facebook Event</a>
