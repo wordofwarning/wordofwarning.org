@@ -25,6 +25,7 @@ gallery:
     -   {file: "scudelettifiggis.jpg", artist: "Virginia Scudeletti & Nicholas Figgis; image Matt Warner Photography</small>"}
     -   {file: "vijaypatel.jpg", artist: "Vijay Patel; <small>SPILL Festival of Performance 2016, Produced: Pacitti Company; photo: Christa Holka.</small>"}
     -   {file: "gildapaula.jpg", artist: "Paula Davy & Gilda Lockheart"}
+    -   {file: "lauranapier.jpg", artist: "Laura Napier"}
     -   {file: "katydye.jpg", artist: "Katy Dye"}
     -   {file: "joncoleman.jpg", artist: "Jon Coleman"}
     -   {file: "tomestes.jpg", artist: "Tom Estes"}
