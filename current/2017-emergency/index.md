@@ -25,7 +25,7 @@ Manchester's micro-marathon of the bizarre and the beautiful comes of age as our
              
 [**From noon**](/current/2017-emergency/afternoon) dip in and out of ongoing performances, installations + limited capacity experiences; [**from 5pm**](/current/2017-emergency/evening) join us for a series of short sit-down shows in this non-stop performance takeover.<br>Your chance to sample the different… then pay what you decide!        
         
-#### Participating artists (*subject to change*)        
+### Participating artists (*subject to change*)        
 Alex Billingham | Becoming Storybook† | Ben Mills & Lydia Cottrell | Briggsy & Hawk Dance Theatre† | Dan Craddock & Sophie Unwin† | Eliza Soroga† | Emma Geraghty† | Gameshow | Greg Saxton† | Jamal Gerald† | Johanna Bolton† | Jon Coleman | Katy Dye & Craig Manson† | Krissi Musiol† | Laura Napier | M. Valcarcel-Saez | Matrafisc Dance† | Matt & Nath | Paula Davy & Gilda Lockheart | Peter Jacobs | Rampant† | Tom Estes | TukaWach† | Vijay Patel† | Virginia Scudeletti & Nicholas Figgis | Zoe Toolan ( † *limited capacity*)            
               
 To get a feel for it, see our [gallery of 2017 artists](/galleries/2017-emergencypre) or have a look at the 2016 [programme](/archive/2016-emergency) + [gallery](/galleries/2016-emergency).         
