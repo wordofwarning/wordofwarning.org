@@ -117,7 +117,7 @@ Greetings cards are universally understood as a way of celebrating specific occa
 **Zoe Toolan** is a multidisciplinary artist from the north, now living in Brighton. Social interaction, the nature of experience and our relationship with 'things' are recurring themes within her work, and she also regards any workshop she hosts in her role as art tutor or whisky professional as a time-based, participatory happening. Her projects have been shown at various locations including Secret Garden Party, she has a piece in the Sluice archive, and she was recently selected as a lead artist for a Live Art Development Agency DIY. She is currently a fine art tutor at the Art Academy in London.             
 zklt.co.uk       
          
-#### Venue + Booking Details, for Afternoon         
+#### Venue + Booking Details, for Afternoon Session         
 Date: Saturday 30 September 2017, 12noon-5pm; full event runs [to 10pm](/current/2017-emergency/evening)            
 [Venue: Z-arts (incl. STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: no booking required, Pay What You Decide in person on the day, come and go as you please. ( † *NB Some work has a limited capacity and will have sign-up sheets on the day or operate on a first-come, first-served basis.*)        
