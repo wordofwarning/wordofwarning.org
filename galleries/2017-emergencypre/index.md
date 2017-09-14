@@ -12,7 +12,7 @@ more_link: Emergency 2017
 more_url: "../../current/2017-emergency"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "<small>A day out for the curious, Sat 30 Sept at Z-arts.", show: "Scudeletti & Figgis by Matt Warner Photography</small>"}
+    -   {file: "titlepage.jpg", artist: "A day out for the curious, Sat 30 Sept at Z-arts.", show: "<small>Scudeletti & Figgis by Matt Warner Photography</small>"}
     -   {file: "alexbillingham.jpg", artist: "Alex Billingham"}
     -   {file: "becomingstorybook.jpg", artist: "Becoming Storybook"}
     -   {file: "jamalgerald.jpg", artist: "Jamal Gerald"}
@@ -22,15 +22,15 @@ gallery:
     -   {file: "m.valcarcel-saez.jpg", artist: "M. Valcarcel-Saez"}
     -   {file: "briggsyhawk.jpg", artist: "Briggsy & Hawk Dance Theatre"}
     -   {file: "peterjacobs.jpg", artist: "Peter Jacobs"}
-    -   {file: "scudelettifiggis.jpg", artist: "Virginia Scudeletti & Nicholas Figgis", show: "Matt Warner Photography"}
-    -   {file: "vijaypatel.jpg", artist: "Vijay Patel [SPILL Festival of Performance 2016, produced by Pacitti Company]", show: "Christa Holka"}
+    -   {file: "scudelettifiggis.jpg", artist: "Virginia Scudeletti & Nicholas Figgis", show: "<small>Matt Warner Photography</small>"}
+    -   {file: "vijaypatel.jpg", artist: "Vijay Patel <small>(SPILL Festival of Performance 2016, produced by Pacitti Company)</small>", show: "<small>Christa Holka</small>"}
     -   {file: "gildapaula.jpg", artist: "Paula Davy & Gilda Lockheart"}
     -   {file: "lauranapier.jpg", artist: "Laura Napier"}
     -   {file: "katydye.jpg", artist: "Katy Dye"}
     -   {file: "joncoleman.jpg", artist: "Jon Coleman"}
     -   {file: "tomestes.jpg", artist: "Tom Estes"}
     -   {file: "gregsaxton.jpg", artist: "Greg Saxton"}
-    -   {file: "tukawach.jpg", artist: "TukaWach", show: "photo: Pat Mic</small>"}
+    -   {file: "tukawach.jpg", artist: "TukaWach", show: "<small>Pat Mic</small>"}
     -   {file: "matt&nath.jpg", artist: "Matt & Nath"}
     -   {file: "emmag.jpg", artist: "Emma Geraghty"}
     -   {file: "sophiedan.jpg", artist: "Dan Craddock & Sophie Unwin"}
