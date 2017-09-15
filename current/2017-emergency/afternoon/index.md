@@ -20,19 +20,19 @@ season: "Emergency 30|9|2017, Afternoon"
 *An afternoon of new live art presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2017](/current/2017-emergency); *mainly aimed at adults, see Access Info*              
 
 ### Artists in Alphabetical Order (*subject to change*)      
-Alex Billingham | Becoming Storybook† | Briggsy Produces & Hawk Dance Theatre† | Eliza Soroga† | Gameshow | Jamal Gerald† | Johanna Bolton† | Laura Napier | M. Valcarcel-Saez | Matrafisc Dance† | Paula Davy & Gilda Lockheart | Peter Jacobs | Rampant† | Vijay Patel† | Virginia Scudeletti & Nicholas Figgis | Zoe Toolan ( † *limited capacity*)       
+Alex Billingham | Becoming Storybook† | Briggsy & Hawk Dance Theatre† | Eliza Soroga† | Gameshow | Jamal Gerald† | Johanna Bolton† | Laura Napier | M. Valcarcel-Saez | Matrafisc Dance† | Paula Davy & Gilda Lockheart | Peter Jacobs | Rampant† | Vijay Patel† | Virginia Scudeletti & Nicholas Figgis | Zoe Toolan ( † *limited capacity*)       
            
 **Alex Billingham | *Jelly & I Scream***         
 The ultimate brat's birthday party complete with tantrums and tears. *Jelly & I Scream* reminds us why it's great to grow up. No one wants to be a 71 year old baby treating people like sweeties. Including Jelly, ice cream, tutus, balloons, cake and desperation. You can expect screaming and mess before bedtime!        
         
 A genderqueer performance artist based in the West Midlands, **Alex** is currently curating The WIGs residencies and preparing a show for Stryx for Fierce Festival. Current practice focuses on gender roles and the vital part vulnerability has within a healthy psyche and society at large: comedy, liberty and the uncanny inform beautifully dirty work that binds together grunge, glitter and grime.        
-<a href="http://alexbillingham.co.uk" target="_blank">alexbillingham.co.uk</a>        
+<a href="http://alexbillingham.co.uk" target="_blank">alexbillingham.co.uk</a> | <a href="http://twitter.com/AlexCBillingham" target="_blank">@AlexCBillingham</a>        
         
 **Becoming Storybook | *The PoetTree***         
 Nikky is a little bit strange. She wants to become a Storybook. Enter the secret garden, the one inside her imagination. Follow her, walk in nature, listen carefully. Let her tell you the story of *The PoetTree*… Reveal your inner treasure… Start your adventure…        
         
 **Nikky Norton Shafau** has over 10 years experience within the arts, producing and touring poetry; theatre-making alongside mini experiments within the digital space. She is currently launching her project Becoming Storybook. Recent appearances include sharing her storybook journey through poetry and narration at The National Portrait Gallery, Bridgewater Hall, HOME, Forest Of The Imagination, Hulme Community Garden Centre and The Horse & Bamboo Puppetry Festival. Her previous work has included *The Adventures Of Sky The Reluctant Hero*, Contact + *Everything You can Imagine Is Real*, The National Portrait Gallery.            
-<a href="http://becomingstorybook.com" target="_blank">becomingstorybook.com</a>          
+<a href="http://becomingstorybook.com" target="_blank">becomingstorybook.com</a> | <a href="http://twitter.com/mystorybookcase" target="_blank">@mystorybookcase</a>          
         
 **Briggsy & Hawk Dance Theatre | *HandsON***         
 An immersive and intimate audio visual outdoor performance experience for 30 people exploring why, in British culture, men are still discouraged from showing raw emotion publicly.               
@@ -40,25 +40,27 @@ Music production + sound engineering: Lee Affen | Technical operations: David Fo
 Supported using public funding by the National Lottery through Arts Council England, and by The University of Salford, Yorkshire Dance + Ludus Dance.        
          
 **Josh Hawkins** is a choreographer/dancer. Currently Artist in Residence at The University of Salford, he founded Hawk Dance Theatre in 2015.<br>With a strong ethos in participatory practice, **Anthony Briggs** is interested in creating accessible work for diverse audiences; he is currently Creative Director for Ludus Dance, Co-Director of Maelstrom Theatre, and develops his own stuff.<br>**Lee Affen** is a composer, music producer and sound designer whose work includes the composition of new and original live scores for the 1920s silent films *Metropolis*, *Nosferatu* + *Sunrise: A Song of Two Humans*.        
-<a href="http://hawkdancetheatre.com" target="_blank">hawkdancetheatre.com</a> | <a href="http://briggsyproduces.co.uk" target="_blank">briggsyproduces.co.uk</a>        
+<a href="http://briggsyproduces.co.uk" target="_blank">briggsyproduces.co.uk</a> | <a href="http://twitter.com/briggsyproduces" target="_blank">@briggsyproduces</a><br><a href="http://hawkdancetheatre.com" target="_blank">hawkdancetheatre.com</a> | <a href="http://twitter.com/hawkdance" target="_blank">@hawkdance</a>
         
 **Eliza Soroga | *The Oppression of Intimacy***         
 Taking its cue from Artaud's statement, "*theatre should be a mirror of life*", this performance challenges the role of the individual and its relation to the role of the crowd, creating an emotional dissonance between subject and object. Borrowing elements from the controlled and composed language of cinema, which, when fed back to an audience makes them both voyeur and object, depending on the gaze.               
 Music: *In a Landscape*, John Cage | Photos: Alisa Oleva         
           
 **Eliza Soroga** is a London-based performance artist from Athens. Her work is mainly site-specific and explores the dynamic method of shaping everyday life into a performance. She was awarded the 2017 Overall Winner in Performance & Video Art at the international Arte Laguna Prize, and her work has been shown in galleries, museums and theatres including the V&A, Battersea Arts Centre + Camden People's Theatre. She is Artistic Director of Re-Inventing Public Spaces, and part of the Young Vic's Theatre Directors Programme, Geraldine Pilgrim Company's creative team + platform Gesamtatelier.              
-<a href="http://elizasoroga.com" target="_blank">elizasoroga.com</a> | <a href="http://www.re-inventing-public-spaces.tumblr.com" target="_blank">www.re-inventing-public-spaces.tumblr.com</a>             
+<a href="http://elizasoroga.com" target="_blank">elizasoroga.com</a> | <a href="http://www.re-inventing-public-spaces.tumblr.com" target="_blank">www.re-inventing-public-spaces.tumblr.com</a> | <a href="http://twitter.com/Elizasoroga" target="_blank">@Elizasoroga</a>             
              
 **Gameshow | *What I'm Worth***             
 Matt and Matthew are counting out 100,000 tiddlywinks. Each tiddlywink represents £1 used to sustain a human life. "*Is worth the same as money? Are they the same thing? Is money who we are?*" — Ali Smith, How To Be Both. Like many people, Gameshow values things differently to our society as a whole. *What I’m Worth* is an attempt to create a vivid and playful way of exploring the dilemmas of a culture that prioritises the financial worth of things and ideas. Developed for SPRINT festival at Camden People's Theatre.          
          
 Gameshow is run by **Matt Ryan** and **Matthew Evans**. Associate company at the Bush Theatre in London, they create performance projects across the UK. Work to date ranges from performance installations and participatory projects to classic plays and new writing including: *Dancing Bear, Dancing Bear* at Pleasance, Camden People's Theatre, BE Festival + PULSE (special judges' commendation); *Grown Up* + *This Is The Moon*.          
+<a href="http://twitter.com/GameshowTheatre" target="_blank">@GameshowTheatre</a>           
         
 **Jamal Gerald | *You See…***         
 I am usually vocal about what I see. But for once, I'm just going to ask questions and stay quiet whilst you answer them. I am interested in seeing the world through the eyes of your experiences. I just want to ask you questions. Please, share with me what you see. I want to know what you see. I want you to know what you see. I can't promise you that all of my questions will be nice, but don’t you worry. Just remember, it's all about you, and what you see.<br>"*…both thoughtful and thought provoking, carefully and quietly challenging of the assumptions we don’t notice ourselves make.*" — Alexander Kelly, Third Angel.        
           
 **Jamal Gerald** is a Leeds-based artist whose work is conversational, socially conscious, a celebration of individuality, and focuses on identity and lived experiences. He is currently making a body of work, entitled Boxes, focusing on the concepts of labels and privilege. In 2016, he toured his first solo show *FADoubleGOT* and was commissioned by Random Acts North to make a short film called *Let's Walk* with Jessica Sweet. His work has been shown at West Yorkshire Playhouse, Homotopia, Queer Contact + Battersea Arts Centre.             
-             
+<a href="http://twitter.com/JamiBoii" target="_blank">@JamiBoii</a>              
+            
 **Johanna Bolton | *I Twang!***             
 Divine your future with elastic bands. Explore the meaning of your found elastic band shape or throw a shape. How far can you stretch your mind? Readings available on her website.          
            
@@ -75,34 +77,37 @@ A durational performance that charts a year of missed opportunities and failed a
 The idea of extraterrestrial civilisations conjures cosmic interplanetary intelligence. Yet, in Western societies the alien stands for the migrant, estranged stranger who doesnt naturally belong in the nation. There is no escape from the artificial for the alien; its naturalisation a fiction, the foreign body holds on to its defining marks, manifest even in the immaterial of its sound waves. Still, alienation is not foreign to the native population. Identity crises grow with the pace of technological advancement as the alien is revealed to be as digital as it is mechanical. Conceptions of authentic living and synthetic loving agitate notions of existence and being, us, all. When did we become strangers, stranded on the shores of identity? In the sheltered society, the alien(ated) play the theatre of be-longing, undisguised.       
         
 **M. Valcarcel-Saez** is a Spanish multidisciplinary artist, musician, and writing subject with an inclination for science, living in London. Valcarcel-Saez is currently developing The Contemporary, an online gallery-magazine to showcase artists' words contemporaneousness from around the world, together with new performance, installation, and literary projects in Lithuania, Spain, Taiwan, the UK and the world wide web.           
-<a href="http://alien-lost.party" target="_blank">alien-lost.party</a> | <a href="http://valcarcel-saez.net" target="_blank">valcarcel-saez.net</a>        
+<a href="http://alien-lost.party" target="_blank">alien-lost.party</a> | <a href="http://valcarcel-saez.net" target="_blank">valcarcel-saez.net</a> | <a href="http://twitter.com/MValcarcelSaez" target="_blank">@MValcarcelSaez</a>        
            
 **Matrafisc Dance | *Soul's Paths: Journeys***         
 "*The truest expression of a person is in its dance. Bodies never lie.*" — Agnes de Mille. Through a series of questions Matrafisc Dance invite you to share the journey of your soul. See your story journey through a stranger's body. Stories from participants will inform material for an upcoming performance of *Soul's Paths* at The Wonder Inn, 13-15 Oct 2017. Supported using public funding by the National Lottery through Arts Council England.             
           
 Matrafisc Dance is an artistic collaboration between Manchester-based Italian choreographers **Antonello Apicella & Ina Colizza**. Previous work includes *Periodo Blu* at Shoots (The Lowry) & Turn (Contact); *Bruise* at Turn & Courtyard Theatre, Hereford.           
+<a href="http://twitter.com/MatrafiscDance" target="_blank">@MatrafiscDance</a>          
           
 **Paula Davy & Gilda Lockheart | *Dolls House***          
 Inspired by Gilda's childhood trauma inflicted by her abusive, alcoholic mother, and Paula's desire to conform to and fit in within the constraints of a heterosexual mainstream culture, this piece is a re-enaction of childhood trauma and a desperate attempt to achieve closure and recovery through the mutilation and repair of dolls.         
            
 **Paula Davy** is from a background of political activism and protest, and her work often takes inspiration from her childhood home in South Birmingham and her working class background. She creates 'live art happenings' that explore her childhood, family life, mental health, female gender roles, and the female sexual deviant.<br>**Gilda Lockheart** makes interactive performances where audience members are a key part of the piece and are encouraged to challenge themselves and to talk about the things that are rarely talked about, such as mental health, sex and childhood trauma. She is the Artistic Director of Brain Cocaine.            
-<a href="http://pauladavy.wordpress.com" target="_blank">pauladavy.wordpress.com</a> | <a href="http://braincocaine.com" target="_blank">braincocaine.com</a>            
+<a href="http://pauladavy.wordpress.com" target="_blank">pauladavy.wordpress.com</a> | <a href="http://braincocaine.com" target="_blank">braincocaine.com</a> | <a href="http://twitter.com/Gilda_Lockheart" target="_blank">@Gilda_Lockheart</a>            
           
 **Peter Jacobs | *At Night I Lock The Doors***             
 A silent disco for a group of men alone together. Blurring the boundaries between public and private acts, the piece considers the meaning of privacy and freedom in a world of increasingly detailed surveillance and scrutiny of ordinary people through social media and government legislation. Is it still possible to lock the doors — and who really has the key?             
              
 **Peter Jacobs** is an experienced performer, model and (less-experienced) artist exploring opportunities within performance and installation art and performance making. As an artist Peter has created and performed in *Kindling* (2014), *Biblioclasm* (2015), *Gone Mad* (2015), *Lost | Found* (2015) and *No Man Is an Island* (2016). He has been a performer in the community choruses of *The Oresteia* (HOME), *The Suppliant Women* (Royal Exchange), *Fatherland* (Royal Exchange/MIF), and has featured in a diverse range of performances for artists including: Ron Athey, Phil Collins, Completely Naked + Jeremy Deller.          
-<a href="http://peter-jacobs.weebly.com" target="_blank">peter-jacobs.weebly.com</a>           
+<a href="http://peter-jacobs.weebly.com" target="_blank">peter-jacobs.weebly.com</a> | <a href="http://twitter.com/PeterTJacobs" target="_blank">@PeterTJacobs</a>           
               
 **Rampant | *Questions of England***            
 "*What does he of England know who only England knows?*"<br>A random collection of questions. Simple in concept, the range of ideas it evokes is entirely in the hands of the experience of the audience. Listen for as long as you like, take from it what you will. The chances are you will think of England slightly differently.
             
 **Mark Reid** is a local writer and theatre activist, producing work on the alternative theatre scene in Manchester for many years. He has recently spent a year writing a play a week, and exploring audience interactive work with *Hamlet* and *Brutality*.            
+<a href="http://twitter.com/rampantplays" target="_blank">@rampantplays</a>             
              
 **Vijay Patel | *Asperger's Question Time***             
 A participatory performance which aims to create a safe space for those with Asperger's and those without. The audience are taken through a playful journey into the Asperger's mind and offered a space to have their wildest questions answered… perhaps with a more obscure answer. It is forced social interaction and we must support each other through it.              
           
 **Vijay Patel** is a performance artist based in South London. A live/performance artist who crosses forms into cabaret and installations. His work has previously dealt with the complexities of being of mixed Indian/British heritage and what that means within the contemporary condition, examining arranged marriages, immigration and gender issues. Graduate of the University of Chichester, he has performed at SPILL Festival 2016, Duckie + Artsadmin.<br>"*A dynamic young artist exploring the contemporary condition with humour, pathos and heart. Mark him as one to watch.*" — Simon Casson, Duckie              
+<a href="http://twitter.com/vpateltheatre" target="_blank">@vpateltheatre</a>             
              
 **Virginia Scudeletti & Nicholas Figgis | *Va Adaxo che amannaman ti càzzi — Go Slowly Or You Might Fall***              
 We are all the pieces of what we remember.               
@@ -115,7 +120,7 @@ Nicholas Figgis: Performer/Director/Writer | Virginia Scudeletti: Performer/Chor
 Greetings cards are universally understood as a way of celebrating specific occasions. But more often than not, it's the occasion-defying co/incidental moments that are the ones worth celebrating: spilling tea all over your duvet results in a life changing encounter at the launderette, or being at a different part of your work commute because of a wrongly set alarm means that a lost dog is reunited with his owner. So I invite you to share these unique moments by joining me for a 1-2-1 chat where we'll celebrate it — and you — through the collaborative making of a personal and be"spoke" card.                
           
 **Zoe Toolan** is a multidisciplinary artist from the north, now living in Brighton. Social interaction, the nature of experience and our relationship with 'things' are recurring themes within her work, and she also regards any workshop she hosts in her role as art tutor or whisky professional as a time-based, participatory happening. Her projects have been shown at various locations including Secret Garden Party, she has a piece in the Sluice archive, and she was recently selected as a lead artist for a Live Art Development Agency DIY. She is currently a fine art tutor at the Art Academy in London.             
-<a href="http://zklt.co.uk" target="_blank">zklt.co.uk</a>       
+<a href="http://zklt.co.uk" target="_blank">zklt.co.uk</a> | <a href="http://twitter.com/TWLZoe" target="_blank">@TWLZoe</a>       
          
 #### Venue + Booking Details, for Afternoon Session         
 Date: Saturday 30 September 2017, 12noon-5pm; full event runs [to 10pm](/current/2017-emergency/evening)            
