@@ -94,9 +94,9 @@ Inspired by Gilda's childhood trauma inflicted by her abusive, alcoholic mother,
 **Peter Jacobs | *At Night I Lock The Doors***             
 A silent disco for a group of men alone together. Blurring the boundaries between public and private acts, the piece considers the meaning of privacy and freedom in a world of increasingly detailed surveillance and scrutiny of ordinary people through social media and government legislation. Is it still possible to lock the doors — and who really has the key?             
              
-**Peter Jacobs** is an experienced performer, model and (less-experienced) artist exploring opportunities within performance and installation art and performance making. As an artist Peter has created and performed in *Kindling* (2014), *Biblioclasm* (2015), *Gone Mad* (2015), *Lost | Found* (2015) and *No Man Is an Island* (2016). He has been a performer in the community choruses of *The Oresteia* (HOME), *The Suppliant Women* (Royal Exchange), *Fatherland* (Royal Exchange/MIF), and has featured in a diverse range of performances for artists including: Ron Athey, Phil Collins, Completely Naked + Jeremy Deller.          
-<a href="http://peter-jacobs.weebly.com" target="_blank">peter-jacobs.weebly.com</a> | <a href="http://twitter.com/PeterTJacobs" target="_blank">@PeterTJacobs</a>           
-              
+**Peter Jacobs** is an experienced performer, model and (less-experienced) artist exploring opportunities within performance and installation art and performance making. As an artist Peter has created and performed in *Kindling* (2014), *Biblioclasm* (2015), *Gone Mad* (2015), *Lost | Found* (2015) and *No Man Is an Island* (2016). He has been a performer in the community choruses of *The Oresteia* (HOME), *The Suppliant Women* (Royal Exchange), *Fatherland* (Royal Exchange/MIF), and has featured in a diverse range of performances for artists including: Ron Athey, Phil Collins, Completely Naked + Jeremy Deller.              
+<a href="http://peter-jacobs.weebly.com" target="_blank">peter-jacobs.weebly.com</a> | <a href="http://twitter.com/PeterTJacobs" target="_blank">@PeterTJacobs</a>        
+        
 **Rampant | *Questions of England***            
 "*What does he of England know who only England knows?*"<br>A random collection of questions. Simple in concept, the range of ideas it evokes is entirely in the hands of the experience of the audience. Listen for as long as you like, take from it what you will. The chances are you will think of England slightly differently.
             
