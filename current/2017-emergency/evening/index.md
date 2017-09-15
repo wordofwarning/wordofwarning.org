@@ -31,7 +31,7 @@ A performance exploring: 'White Missing Woman Syndrome' — a term used by socia
 *I have been up most of the night, exhausted but unable to sleep, thinking about stuff. About Trump & May, Brexit & Grenfell Tower, the gender pay gap & the thigh gap, about food waste & sugar addiction. Whilst you've been sleeping, I've been trying to work it all out. I'm working out, I'm working it out, & once I've worked it all out it'll be fabulous. So let's smash this! Let's get lean & come clean in 15.*         
         
 **Krissi Musiol** is a deviser, writer, performer, lecturer, mother & bad-dancer.  She has been making ensemble and solo performances since 2004, in studio theatres, galleries & cafes, one-to-one performances, sited work, festival pieces and public engagement projects. Her interests focus upon culture, identity & autobiographical live art and performance.          
-<a href="http://twitter.com/krissimusiol" target="_blank">@krissimusiol</a>           
+<a href="http://kmusiol.wixsite.com/krissimusiol" target="_blank">kmusiol.wixsite.com</a> | <a href="http://twitter.com/krissimusiol" target="_blank">@krissimusiol</a>           
             
 **Jon Coleman | *Two Suns in the Sunset***             
 "*Two suns in the sunset, could be the human race is run*"<br>The Universe is vast, infinite even. It's full of wonders and mystery. We can't be the only ones here, so if that's true why haven't we met anyone else yet? Is it that we're looking for the wrong things? Are we looking in the wrong way and in the wrong places? Or is it that the Universe was once teeming with life but now we are the only ones left and soon there won't be anyone left at all…                
