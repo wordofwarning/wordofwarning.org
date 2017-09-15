@@ -44,7 +44,7 @@ Darren Pritchard has been creating dance works since 2006. As well as devising h
 >*Relevant, raw, unashamedly political. A snapshot of working class queer Black Britain.<br>Real, powerful beautiful and colourful. Resonant of today's political climate.*<br>Audience members         
         
 #### Credits         
-Darren Pritchard — Director & Co-Writer | Cheryl Martin — Co-Writer | Sonia Hughes — Dramaturg | Jayne Compton — Producer | Phil Buckley — Lighting Designer & Production Manager<br>Commissioned by Homotopia; *Domestic Edition* commissioned by hÅb.<br>Supported using public funding by the National Lottery through Arts Council England.        
+Director & Co-Writer: Darren Pritchard | Co-Writer: Cheryl Martin | Dramaturg: Sonia Hughes | Producer: Jayne Compton | Lighting Designer & Production Manager: Phil Buckley<br>Commissioned by Homotopia; *Domestic Edition* commissioned by hÅb.<br>Supported using public funding by the National Lottery through Arts Council England.        
           
 #### Websites       
 <a href="http://darrenpritcharddance.com" target="_blank">darrenpritcharddance.com</a> | <a href="http://twitter.com/DarrenDancer" target="_blank">@DarrenDancer</a>
