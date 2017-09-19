@@ -20,7 +20,7 @@ season: "Emergency 30|9|2017, Afternoon"
 *An afternoon of new live art presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2017](/current/2017-emergency); *mainly aimed at adults, see Access Info*              
 
 ### Artists in Alphabetical Order (*subject to change*)      
-Alex Billingham | Becoming Storybook† | Briggsy & Hawk Dance Theatre† | Eliza Soroga† | Gameshow | Jamal Gerald† | Johanna Bolton† | Laura Napier | M. Valcarcel-Saez | Matrafisc Dance† | Paula Davy & Gilda Lockheart | Peter Jacobs | Rampant† | Vijay Patel† | Virginia Scudeletti & Nicholas Figgis | Zoe Toolan ( † *limited capacity*)       
+Alex Billingham | Becoming Storybook† | Briggsy & Hawk Dance Theatre† | Eliza Soroga† | Gameshow | Jamal Gerald† | Johanna Bolton† | Laura Napier | M. Valcarcel-Saez | Matrafisc Dance† | Paula Davy & Gilda Lockheart | Peter Jacobs | Rampant† | Vijay Patel† | Virginia Scudeletti & Nicholas Figgis | Zoe Toolan† ( † *limited capacity*)       
            
 **Alex Billingham | *Jelly & I Scream***         
 The ultimate brat's birthday party complete with tantrums and tears. *Jelly & I Scream* reminds us why it's great to grow up. No one wants to be a 71 year old baby treating people like sweeties. Including Jelly, ice cream, tutus, balloons, cake and desperation. You can expect screaming and mess before bedtime!        
