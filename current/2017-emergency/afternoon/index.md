@@ -109,7 +109,7 @@ A participatory performance which aims to create a safe space for those with As
 **Vijay Patel** is a performance artist based in South London. A live/performance artist who crosses forms into cabaret and installations. His work has previously dealt with the complexities of being of mixed Indian/British heritage and what that means within the contemporary condition, examining arranged marriages, immigration and gender issues. Graduate of the University of Chichester, he has performed at SPILL Festival 2016, Duckie + Artsadmin.<br>"*A dynamic young artist exploring the contemporary condition with humour, pathos and heart. Mark him as one to watch.*" — Simon Casson, Duckie              
 <a href="http://twitter.com/vpateltheatre" target="_blank">@vpateltheatre</a>             
              
-**Virginia Scudeletti & Nicholas Figgis | *Va Adaxo che amannaman ti càzzi — Go Slowly Or You Might Fall***              
+**Virginia Scudeletti & Nicholas Figgis | *Va Adaxo che Amannaman ti Càzzi — Go Slowly or you Might Fall***              
 We are all the pieces of what we remember.               
 Nicholas Figgis: Performer/Director/Writer | Virginia Scudeletti: Performer/Choreographer/Director | Caroline Salem: Mentor<br>Supported by Clarence Mews Studio, 3sA Crowd Collective, Spazio Saravà, Arti's Studio           
           
