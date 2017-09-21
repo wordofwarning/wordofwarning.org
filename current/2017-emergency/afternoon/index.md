@@ -20,7 +20,7 @@ season: "Emergency 30|9|2017, Afternoon"
 *An afternoon of new live art presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2017](/current/2017-emergency); *mainly aimed at adults, see Access Info*              
 
 ### Artists in Alphabetical Order (*subject to change*)      
-Alex Billingham | Becoming Storybook† | Briggsy & Hawk Dance Theatre† | Eliza Soroga† | Gameshow | Jamal Gerald† | Johanna Bolton† | Laura Napier | M. Valcarcel-Saez | Matrafisc Dance† | Paula Davy & Gilda Lockheart | Peter Jacobs | Rampant† | Vijay Patel† | Virginia Scudeletti & Nicholas Figgis | Zoe Toolan† ( † *limited capacity*)       
+Alex Billingham | Becoming Storybook† | Briggsy & Hawk Dance Theatre† | Casey Birks | Eliza Soroga† | Gameshow | Jamal Gerald† | Johanna Bolton† | Laura Napier | M. Valcarcel-Saez | Matrafisc Dance† | Paula Davy & Gilda Lockheart | Peter Jacobs | Rampant† | Vijay Patel† | Virginia Scudeletti & Nicholas Figgis | Zoe Toolan† ( † *limited capacity*)       
            
 **Alex Billingham | *Jelly & I Scream***         
 The ultimate brat's birthday party complete with tantrums and tears. *Jelly & I Scream* reminds us why it's great to grow up. No one wants to be a 71 year old baby treating people like sweeties. Including Jelly, ice cream, tutus, balloons, cake and desperation. You can expect screaming and mess before bedtime!        
@@ -40,7 +40,10 @@ Music production + sound engineering: Lee Affen | Technical operations: David Fo
 Supported using public funding by the National Lottery through Arts Council England, and by The University of Salford, Yorkshire Dance + Ludus Dance.        
          
 **Josh Hawkins** is a choreographer/dancer. Currently Artist in Residence at The University of Salford, he founded Hawk Dance Theatre in 2015.<br>With a strong ethos in participatory practice, **Anthony Briggs** is interested in creating accessible work for diverse audiences; he is currently Creative Director for Ludus Dance, Co-Director of Maelstrom Theatre, and develops his own stuff.<br>**Lee Affen** is a composer, music producer and sound designer whose work includes the composition of new and original live scores for the 1920s silent films *Metropolis*, *Nosferatu* + *Sunrise: A Song of Two Humans*.        
-<a href="http://briggsyproduces.co.uk" target="_blank">briggsyproduces.co.uk</a> | <a href="http://twitter.com/briggsyproduces" target="_blank">@briggsyproduces</a><br><a href="http://hawkdancetheatre.com" target="_blank">hawkdancetheatre.com</a> | <a href="http://twitter.com/hawkdance" target="_blank">@hawkdance</a>
+<a href="http://briggsyproduces.co.uk" target="_blank">briggsyproduces.co.uk</a> | <a href="http://twitter.com/briggsyproduces" target="_blank">@briggsyproduces</a><br><a href="http://hawkdancetheatre.com" target="_blank">hawkdancetheatre.com</a> | <a href="http://twitter.com/hawkdance" target="_blank">@hawkdance</a>            
+           
+**Casey Birks | *Casey's hair unplugged***         
+"*I have had long hair for as long as I can remember. I love having long hair, it's been a trademark look for me, but it's time for a change — and what better to do than cut the whole lot off and make a wig or two for the <a href="http://www.littleprincesses.org.uk" target="_blank">Little Princess Trust</a>, and raise some money for a great cause in the meantime. I will be taking donations for cancer research while I sing motivational, nostalgic, and generally pretty songs from around the world."          
         
 **Eliza Soroga | *The Oppression of Intimacy***         
 Taking its cue from Artaud's statement, "*theatre should be a mirror of life*", this performance challenges the role of the individual and its relation to the role of the crowd, creating an emotional dissonance between subject and object. Borrowing elements from the controlled and composed language of cinema, which, when fed back to an audience makes them both voyeur and object, depending on the gaze.               
