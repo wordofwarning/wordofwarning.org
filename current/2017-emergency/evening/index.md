@@ -71,7 +71,7 @@ Violence is a multi trillion dollar business, whether on television or on the ba
 <a href="http://twitter.com/patchworkduck" target="_blank">@patchworkduck</a>             
              
 **Dan Craddock & Sophie Unwin | *All At Sea***              
-*Welcome. Come on in. I hope you're wearing suitable clothing. Prepare to be soaked in a mysterious atmosphere that will douse your thoughts with a faint scent of fish. *All at Sea* is a trawl through the mystical questions of our age with a penchant for mischief and always fishing for a line. Don't worry it's not harmful. At least… we don't think it is…*         
+*Welcome. Come on in. I hope you're wearing suitable clothing. Prepare to be soaked in a mysterious atmosphere that will douse your thoughts with a faint scent of fish.* All at Sea *is a trawl through the mystical questions of our age with a penchant for mischief and always fishing for a line. Don't worry it's not harmful. At least… we don't think it is…*         
            
 **Dan Craddock** is a multi-disciplinary maker with a talent for improvisation and comedy who has performed a number of roles at international festivals and national venues, including hosting, performance interventions and solo performances.<br>**Sophie Unwin** is an artist whose work derives from autobiographical scrawl, observations of the everyday and a fondness for the sardonic, in an attempt to find answers to life's many questions. Sophie was a Yorkshire Dance new associate artist and has toured dance works both regionally and nationally, both her own and with Wendy Houstoun + Gary Clarke.            
 <a href="http://twitter.com/DanJCraddock" target="_blank">@DanJCraddock</a> | <a href="http://twitter.com/SophieUnwin2" target="_blank">@SophieUnwin2</a>          
