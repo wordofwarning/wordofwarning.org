@@ -22,6 +22,8 @@ season: "Jo Bannon 27|9|2017"
 #### In Brief      
 Blinding light and visual poetry; inherited myth and performed identity.<br>A story of paleness, of blending in and of standing out.         
           
+Now that it's over, read a review by <a href="http://http://www.franklymydearuk.co.uk/wtf-wednesday-jo-bannon-alba-lowry-salford" target="_blank">Frankly My Dear</a>.          
+          
 #### Venue + Booking Details           
 Date: Wednesday 27 September 2017, 8pm          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
