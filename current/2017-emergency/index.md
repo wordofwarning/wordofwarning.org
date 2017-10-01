@@ -23,6 +23,8 @@ Manchester's micro-marathon of the bizarre + the beautiful comes of age as our e
              
 [From noon](/current/2017-emergency/afternoon) dip in and out of ongoing performances, installations + limited capacity experiences, and [from 5pm](/current/2017-emergency/evening) join us for a series of short sit-down shows in this non-stop performance takeover; see our [gallery of 2017 artists](/galleries/2017-emergencypre).<br>**Your chance to sample the different — then pay what you decide!**        
         
+Now that it's over, read a review by <a href="http://quietmandave.co.uk/2017/10/emergency-2017" target="_blank">Quiet Man Dave</a>.        
+        
 ### Participating artists (*subject to change*)        
 Alex Billingham | Becoming Storybook† | Ben Mills & Lydia Cottrell | Briggsy & Hawk Dance Theatre† | Casey Birks | Dan Craddock & Sophie Unwin† | Eliza Soroga† | Emma Geraghty† | Gameshow | Greg Saxton† | Jamal Gerald† | Johanna Bolton† | Jon Coleman | Katy Dye & Craig Manson† | Krissi Musiol† | Laura Napier | M. Valcarcel-Saez | Matrafisc Dance† | Matt & Nath | Paula Davy & Gilda Lockheart | Peter Jacobs | Rampant† | Tom Estes | TukaWach† | Vijay Patel† | Virginia Scudeletti & Nicholas Figgis | Zoe Toolan† ( † *limited capacity*)            
               
@@ -39,7 +41,7 @@ Tel: 0161 232 6089 (Z-arts)
 #### What people have said about Emergency         
 >• *Great to have such exciting off beat talent.*<br>• *I am amazed they manage so many shows in a day…*<br>• *…loved diversity of work on show.*<br>• *Really important event for NW artists — safe space to experiment.*<br>• *Performances are both rewarding in their own right, and also offer a glimpse into where theatre might go in our more interactive and interconnected world.*<br>Audience Feedback from [2016](/archive/2016-emergency)+[15](/archive/2015-emergency)             
            
-Emergency 2016 was reviewed by <a href="http://exeuntmagazine.com/features/emergency-festival-free-non-stop-performance-manchester" target="_blank">Exeunt Magazine</a> + <a href="http://www.thestateofthearts.co.uk/features/review-emergency-z-arts" target="_blank">The State of the Arts</a>.        
+Emergency 2017 was previewed by <a href="http://manchesterwire.co.uk/#!/performance-festival-emergency-2017-ft-giant-tiddlywinks-sleep-experiments-at-z-arts" target="_blank">Manchester Wire</a>; 2016 was reviewed by <a href="http://exeuntmagazine.com/features/emergency-festival-free-non-stop-performance-manchester" target="_blank">Exeunt Magazine</a> + <a href="http://www.thestateofthearts.co.uk/features/review-emergency-z-arts" target="_blank">The State of the Arts</a>.        
           
 #### Access Information       
 **Emergency 2017 is mainly aimed at adults**: some work may not be suitable for under 18s and will be clearly signposted — details here from 19 Sep. It takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity (marked †), some participatory. We apologise but some work may not be wheelchair accessible. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
