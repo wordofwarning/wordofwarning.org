@@ -27,7 +27,7 @@ Watch their <a href="http://vimeo.com/212925166" target="_blank">insight into ma
 #### Venue + Booking Details           
 Date: Wednesday 8 November 2017, 8pm          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-<a href="http://www.thelowry.com/events/wtf-declining-solo" target="_blank">Tickets: available to reserve from Fri 13 Oct</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
+<a href="http://www.thelowry.com/performances/044F84CC-8974-43F9-9D39-0B8FBB0B9C2D/seat-map" target="_blank">Tickets: available to reserve from Fri 13 Oct</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
