@@ -26,11 +26,12 @@ From Harlem in the 20th to Salford in the 21st, a century of making the rent.<br
 #### Venue + Booking Details       
 Dates: Friday 10 + Saturday 11 November 2017, 8pm              
 <a href="http://www.google.co.uk/maps/place/M3+6HU" target="_blank">Venue: Adelphi Court</a>, off Cannon Street, Salford, M3 6HU          
-<a href="http://www.wegottickets.com/wordofwarning" target="_blank">Tickets: available to reserve online from Fri 27 Oct</a>, Pay What You Decide in person on the evening: cash and/or food accepted with all proceeds donated to a local food bank. With a limited capacity, **ALL reservations will be released at 7.45pm each night**, please arrive early at Adelphi Court to collect a ticket.          
-Box Office Tel: 0161 232 6086 (Word of Warning)             
+<a href="http://www.wegottickets.com/wordofwarning" target="_blank">Tickets: available to reserve online from Fri 27 Oct</a>, Pay What You Decide in person on the evening: cash and/or food accepted with all proceeds donated to a local food bank*. With a limited capacity, **ALL reservations will be released at 7.45pm each night**, please arrive early at Adelphi Court to collect a ticket.          
+Box Office Tel: 0161 232 6086 (Word of Warning)   
+*All food and cash collected donated to Salford Food Bank. Click <a href="https://salford.foodbank.org.uk/give-help/donate-food/" target="_blank">here</a> for list of suggested items.         
               
 #### Access Information          
-Age advisory 16+ (parental/guardian discretion). With no interval, the show/party lasts approximately 1 hour. Largely promenade, there will be a limited amount of seating available. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
+Age advisory 16+ (parental/guardian discretion). With no interval, the show/party lasts approximately 1 hour. Largely promenade, there will be a limited amount of seating available. Due to the nature of the building, **wheelchair access may be difficult - please contact us to discuss**. For all age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
         
 #### More             
 A 21st century, austerity Britain, black, gay, immersive musical — inspired by the poetry of 1920s Harlem Renaissance black gay icon Langston Hughes.         
