@@ -26,7 +26,8 @@ From Harlem in the 20th to Salford in the 21st, a century of making the rent.<br
 #### Venue + Booking Details       
 Dates: Friday 10 + Saturday 11 November 2017, 8pm              
 <a href="http://www.google.co.uk/maps/place/M3+6HU" target="_blank">Venue: Adelphi Court</a>, off Cannon Street, Salford, M3 6HU          
-<a href="http://www.wegottickets.com/wordofwarning" target="_blank">Tickets: available to reserve online from Fri 27 Oct</a>, Pay What You Decide in person on the evening: cash and/or food accepted with all proceeds donated to Salford Foodbank†.<br>With a limited capacity, **ALL reservations will be released at 7.45pm each night**, please arrive early at Adelphi Court to collect a ticket.          
+<a href="http://www.wegottickets.com/wordofwarning" target="_blank">Tickets: available to reserve online from Fri 27 Oct</a>, Pay What You Decide in person on the evening: cash and/or food accepted with all proceeds donated to Salford Foodbank†.         
+*With a limited capacity, **ALL reservations will be released at 7.45pm each night**, please arrive early at Adelphi Court to collect a ticket.*          
 Box Office Tel: 07488 308 111 (Word of Warning)   
 † *All food and cash collected donated to Salford Foodbank — <a href="http://salford.foodbank.org.uk/give-help/donate-food" target="_blank">click here</a> for a list of suggested items.*         
               
