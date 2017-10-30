@@ -23,7 +23,7 @@ Manchester's micro-marathon of the bizarre + the beautiful comes of age as our e
              
 [From noon](/current/2017-emergency/afternoon) dip in and out of ongoing performances, installations + limited capacity experiences, and [from 5pm](/current/2017-emergency/evening) join us for a series of short sit-down shows in this non-stop performance takeover; see our [gallery of 2017 artists](/galleries/2017-emergencypre).<br>**Your chance to sample the different — then pay what you decide!**        
         
-Now that it's over, read reviews by <a href="http://quietmandave.co.uk/2017/10/emergency-2017" target="_blank">Quiet Man Dave</a> + <a href="http://circlesandstalls.wordpress.com/2017/10/01/emergency-2017" target="_blank">Circles&Stalls</a>.         
+Now that it's over, read reviews by <a href="http://circlesandstalls.wordpress.com/2017/10/01/emergency-2017" target="_blank">Circles&Stalls</a> + <a href="http://quietmandave.co.uk/2017/10/emergency-2017" target="_blank">QuietManDave</a>.         
         
 ### Participating artists (*subject to change*)        
 Alex Billingham | Becoming Storybook† | Ben Mills & Lydia Cottrell | Briggsy & Hawk Dance Theatre† | Casey Birks | Dan Craddock & Sophie Unwin† | Eliza Soroga† | Emma Geraghty† | Gameshow | Greg Saxton† | Jamal Gerald† | Johanna Bolton† | Jon Coleman | Katy Dye & Craig Manson† | Krissi Musiol† | Laura Napier | M. Valcarcel-Saez | Matrafisc Dance† | Matt & Nath | Paula Davy & Gilda Lockheart | Peter Jacobs | Rampant† | Tom Estes | TukaWach† | Vijay Patel† | Virginia Scudeletti & Nicholas Figgis | Zoe Toolan† ( † *limited capacity*)            
