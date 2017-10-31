@@ -24,10 +24,11 @@ season: "Darren Pritchard Dance 10+11|11|2017"
 From Harlem in the 20th to Salford in the 21st, a century of making the rent.<br>Part show, part party — for those just about managing.       
             
 #### Venue + Booking Details       
-Dates: Friday 10 + Saturday 11 November 2017, 8pm              
+First Date: Friday 10 November 2017, 8pm              
+Second Date: Saturday 11 November 2017, 8pm              
 <a href="http://www.google.co.uk/maps/place/M3+6HU" target="_blank">Venue: Adelphi Court</a>, off Cannon Street, Salford, M3 6HU          
-<a href="http://www.wegottickets.com/wordofwarning" target="_blank">Tickets: available to reserve online from Fri 27 Oct</a>, Pay What You Decide in person on the evening: cash and/or food accepted with all proceeds donated to Salford Foodbank†.         
-*With a limited capacity, **ALL reservations will be released at 7.45pm each night**, please arrive early at Adelphi Court to collect a ticket.*          
+<a href="http://www.wegottickets.com/wordofwarning" target="_blank">Tickets: available to reserve online</a>, Pay What You Decide in person on the evening: cash and/or food accepted with all proceeds donated to Salford Foodbank†.         
+*With a limited capacity, **ALL reservations will be released 15 minutes before each start time**, so please arrive early at Adelphi Court to collect a ticket.*          
 Box Office Tel: 07488 308 111 (Word of Warning)   
 † *All food and cash collected donated to Salford Foodbank — <a href="http://salford.foodbank.org.uk/give-help/donate-food" target="_blank">click here</a> for a list of suggested items.*         
               
@@ -48,6 +49,8 @@ Darren Pritchard has been creating dance works since 2006. As well as devising h
           
 #### What people have said about *Rent Party*         
 >*Relevant, raw, unashamedly political. A snapshot of working class queer Black Britain.<br>Real, powerful, beautiful and colourful. Resonant of today's political climate.*<br>Audience Feedback         
+
+*Rent Party: Domestic Edition* is one of <a href="http://confidentials.com/manchester/15-great-things-to-do-in-manchester-this-november-2017" target="_blank">Manchester Confidentials</a> 15 November things to do + is previewed by <a href="http://www.manchestereveningnews.co.uk/whats-on/theatre-news/pay-as-you-feel-theatre-13649008" target="_blank">Manchester Evening News</a>.
         
 #### Credits         
 Director & Co-Writer: Darren Pritchard | Co-Writer: Cheryl Martin | Dramaturg: Sonia Hughes | Producer: Jayne Compton | Lighting Designer & Production Manager: Phil Buckley<br>Commissioned by Homotopia; *Domestic Edition* commissioned by hÅb.<br>Supported using public funding by the National Lottery through Arts Council England.        
