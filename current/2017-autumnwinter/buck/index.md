@@ -50,6 +50,8 @@ He has worked on numerous projects with different artists + companies around the
 >*…wedded together with stunning and beautiful movement.<br>…one of the most powerful and evocative portrayals that we had ever seen.*<br>Audience Feedback             
 >*an electric performer …an engaging exploration of crucial contemporary issues.*<br>Sophie Ignatieff, Refugee Week Programme Co-ordinator          
          
+*Windows…* in Manchester was previewed by <a href="http://www.manchestereveningnews.co.uk/whats-on/theatre-news/pay-as-you-feel-theatre-13649008" target="_blank">Manchester Evening News</a>.
+
 #### Credits        
 Written + performed by Akeim Toussaint Buck.<br>Dramaturge + co-writer: Zodwa Nyoni | Gold Dust Director: Amanda Huxtable<br>Sound:
 Akeim Toussaint Buck, Burning Spear, Dizaya Khupe, Furaha Mussanzi, Otis Jones | Visual Designer: Akeelah Bertram | Lighting Designer: Mark Baker<br>Commissioned by Yorkshire Dance Amplified + Northern School of Contemporary Dance through the Northern Connections programme, delivered in partnership with Spin Arts + Leeds Beckett University. Supported using public funding by the National Lottery through Arts Council England. Developed at West Yorkshire Playhouse. Supported by The Civic, Barnsley + RJC Dance. | Image by Ashley Karrell.        
