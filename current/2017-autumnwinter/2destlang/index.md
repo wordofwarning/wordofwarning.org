@@ -54,6 +54,8 @@ UK-based, they are currently resident Company at Salisbury Arts Centre and suppo
 #### What people have said about them         
 >*A beautiful, brave piece of work steeped in memories and nostalgia.*<br>Cheryl Pierce, Quarterhouse Folkestone, on *Declining Solo*<br>*Complex, tender work … uses all the senses to draw us in.*<br>Audience Feedback for *Declining Solo*<br>★★★★★ *…great beauty, sensitivity and humour…*<br><a href="http://www.broadwaybaby.com/shows/near-gone/702154" target="_blank">Broadway Baby</a> on *Near Gone*            
         
+*Declining Solo* in Salford is previewed by <a href="http://www.franklymydearuk.co.uk/interview-matthew-eames-talks-the-lowrys-pay-what-you-decide-season" target="_blank">Frankly My Dear</a>, <a href="http://www.manchestereveningnews.co.uk/whats-on/theatre-news/pay-as-you-feel-theatre-13649008" target="_blank">Manchester Evening News</a> + <a href="http://manchesterwire.co.uk/#!/pay-what-you-decide-theatre-two-destination-language-at-the-lowrys-latest-wtf-wednesday" target="_blank">Manchester Wire</a>.        
+        
 #### Credits          
 Supported using public funding by the National Lottery through Arts Council England. Research + development has been made possible by funding from Dance4, with residencies hosted by ARC Stockton, Quarterhouse, SPAM!, Salisbury Arts Centre + The Point, Eastleigh.         
         
