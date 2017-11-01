@@ -26,7 +26,7 @@ From Harlem in the 20th to Salford in the 21st, a century of making the rent.<br
 *<a href="http://www.wegottickets.com/wordofwarning" target="_blank">Booking</a> essential as each performance has a limited capacity.*            
             
 #### Venue + Booking Details       
-First Day: Friday 10 November 2017, (8pm sold-out: email <a href="mailto:rsvp@habmcr.org?subject=Rent Party Friday 8pm waiting list">rsvp@habmcr.org</a> to join a waiting list; *9.30pm extra performance on-sale from 12noon Thu 2 Nov*)              
+(First Day: Friday 10 November 2017, 8pm sold-out: email <a href="mailto:rsvp@habmcr.org?subject=Rent Party Friday 8pm waiting list">rsvp@habmcr.org</a> to join a waiting list; *extra 9.30pm performance on-sale from 12noon Thu 2 Nov*)              
 Second Day: Saturday 11 November 2017, 8pm              
 <a href="http://www.google.co.uk/maps/place/M3+6HU" target="_blank">Venue: Adelphi Court</a>, off Cannon Street, Salford, M3 6HU          
 <a href="http://www.wegottickets.com/wordofwarning" target="_blank">Tickets: available to reserve online</a>, Pay What You Decide† in person afterwards. *With a limited capacity, **ALL reservations will be released 15 minutes before the start time**, please arrive early at Adelphi Court to collect a ticket.*           
@@ -34,7 +34,7 @@ Box Office: call or text 07488 308 111 (Word of Warning)
 PWYD†: cash and/or food accepted, with ALL proceeds collected donated to Salford Foodbank — <a href="http://salford.foodbank.org.uk/give-help/donate-food" target="_blank">click here</a> for a list of suggested items.         
               
 #### Access Information          
-Age advisory 16+ (parental/guardian discretion). With no interval, the show/party lasts approximately 1 hour. Largely promenade, there will be a limited amount of seating available. Due to the nature of the building, **wheelchair access may be difficult — please contact us to discuss**. For all age and access information please email <a href="mailto:info@habmcr.org?subject=Rent Party Access Information">info@habmcr.org</a> or call 0161 232 6086.          
+Age advisory 16+ (parental/guardian discretion). With no interval, the show / party lasts approximately 1 hour. Largely promenade, there will be a limited amount of seating available. Due to the nature of the building, **wheelchair access may be difficult — please contact us to discuss**. For all age and access information please email <a href="mailto:info@habmcr.org?subject=Rent Party Access Information">info@habmcr.org</a> or call 0161 232 6086.          
         
 #### More             
 Autumn 2017: the bedroom tax, food banks and the shadow of Grenfell loom large over life below the breadline.           
@@ -43,7 +43,7 @@ In a kaleidoscopic picture of what it means today to be young, gifted and black�
            
 A joyously defiant stand against growing up poor. A 21st century, austerity Britain, black, gay, immersive musical in a real block of flats.        
        
-Showing for just two nights in a Salford tower block, come along, then Pay What You Decide — if you haven’t got the cash, then food will do.†          
+Showing for just two nights in a Salford tower block, come along, then Pay What You Decide — if you haven’t got the cash, then food will do†.          
           
 #### Who is he?        
 Darren Pritchard has been creating dance works since 2006. As well as devising his own works, for theatres, galleries, a church, hotels and even the Sale of the Century TV studio, Darren has created dance works for and in collaboration with others, notably: *The Chase* — a Blaze commission, working with parkour and freerunning specialists; *Susan and Darren* — a Quarantine collaboration; *Gulliver's Boom Box* with Walk the Plank; *One* — a solo performance installation; and [*Body of Light*](/archive/2015-autumnwinter/pritchard) — a seamless landscape of flowing imagery that Word of Warning presented in 2015. Stylistically, Darren has explored ballet, street dance and contemporary dance, sometimes fused with text, projection and other multimedia forms, and has recently worked as director on Chanje Kunda's award-winning *Amsterdam* + Cheryl Martin's *Alaska*.          
