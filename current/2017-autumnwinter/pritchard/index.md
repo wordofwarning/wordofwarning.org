@@ -23,12 +23,14 @@ season: "Darren Pritchard Dance 10+11|11|2017"
 #### In Brief     
 From Harlem in the 20th to Salford in the 21st, a century of making the rent.<br>Part show, part party — for those just about managing.       
             
+*Booking essential as each performance has a limited capacity.*            
+            
 #### Venue + Booking Details       
-First Date: Friday 10 November 2017, 8pm              
-Second Date: Saturday 11 November 2017, 8pm              
+(First Day: Friday 10 November 2017, 8pm: sold-out, to join a waiting list email <a href="mailto:rsvp@habmcr.org?subject=Rent Party Friday 8pm waiting list">rsvp@habmcr.org</a>)              
+Second Day: Saturday 11 November 2017, 8pm              
 <a href="http://www.google.co.uk/maps/place/M3+6HU" target="_blank">Venue: Adelphi Court</a>, off Cannon Street, Salford, M3 6HU          
-<a href="http://www.wegottickets.com/wordofwarning" target="_blank">Tickets: available to reserve online</a>, Pay What You Decide in person on the evening: cash and/or food accepted with all proceeds donated to Salford Foodbank†. (*With a limited capacity, **ALL reservations will be released 15 minutes before each start time**, so please arrive early at Adelphi Court to collect a ticket.*)          
-Box Office Tel: 07488 308 111 (Word of Warning)   
+<a href="http://www.wegottickets.com/wordofwarning" target="_blank">Tickets: available to reserve online</a>, Pay What You Decide in person on the evening: cash and/or food accepted with all proceeds donated to Salford Foodbank†. *With a limited capacity, **ALL reservations are released 15 minutes before each start time**, so please arrive early at Adelphi Court to collect a ticket.*          
+Box Office Tel: 07488 308 111 (call or text Word of Warning)   
 † *All food and cash collected donated to Salford Foodbank — <a href="http://salford.foodbank.org.uk/give-help/donate-food" target="_blank">click here</a> for a list of suggested items.*         
               
 #### Access Information          
