@@ -31,7 +31,7 @@ Second Day: Saturday 11 November 2017, 8pm
 <a href="http://www.google.co.uk/maps/place/M3+6HU" target="_blank">Venue: Adelphi Court</a>, off Cannon Street, Salford, M3 6HU          
 <a href="http://www.wegottickets.com/wordofwarning" target="_blank">Tickets: available to reserve online</a>, Pay What You Decide† in person afterwards. *With a limited capacity, **ALL reservations will be released 15 minutes before the start time**, please arrive early at Adelphi Court to collect a ticket.*           
 Box Office: call or text 07488 308 111 (Word of Warning)        
-PWYD†: cash and/or food accepted, with ALL proceeds collected donated to Salford Foodbank — <a href="http://salford.foodbank.org.uk/give-help/donate-food" target="_blank">click here</a> for a list of suggested items.         
+PWYD†: cash and/or food accepted on the evening, with ALL proceeds collected donated to Salford Foodbank — <a href="http://salford.foodbank.org.uk/give-help/donate-food" target="_blank">click here</a> for a list of suggested items.         
               
 #### Access Information          
 Age advisory 16+ (parental/guardian discretion). With no interval, the show / party lasts approximately 1 hour. Largely promenade, there will be a limited amount of seating available. Due to the nature of the building, **wheelchair access may be difficult — please contact us to discuss**. For all age and access information please email <a href="mailto:info@habmcr.org?subject=Rent Party Access Information">info@habmcr.org</a> or call 0161 232 6086.          
