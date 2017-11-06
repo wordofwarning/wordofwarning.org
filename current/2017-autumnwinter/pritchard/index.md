@@ -21,12 +21,12 @@ season: "Darren Pritchard Dance 10+11|11|2017"
 *Presented by* Word of Warning *+* The Guinness Partnership
            
 #### In Brief     
-From Harlem in the 20th to Salford in the 21st, a century of making the rent.<br>Part show, part party — for those just about managing.       
+From Harlem in the 20th to Salford in the 21st, a century of making the rent. Part show, part party — for those just about managing.       
             
 *<a href="http://www.wegottickets.com/wordofwarning" target="_blank">Booking</a> essential as each performance has a limited capacity.*            
             
 #### Venue + Booking Details       
-First Day: Friday 10 November 2017, (8pm sold-out: email <a href="mailto:rsvp@habmcr.org?subject=Rent Party Friday 8pm waiting list">rsvp@habmcr.org</a> to join a waiting list) + 9.30pm *extra performance now on-sale*               
+(First Day: Friday 10 November 2017, 8pm + 9.30pm both sold-out: email <a href="mailto:rsvp@habmcr.org?subject=Rent Party Friday 8pm or 9.30pm waiting list">rsvp@habmcr.org</a> to join a waiting list)               
 Second Day: Saturday 11 November 2017, 6pm *extra performance now on-sale* (+ 8pm sold-out: email <a href="mailto:rsvp@habmcr.org?subject=Rent Party Saturday 8pm waiting list">rsvp@habmcr.org</a> to join a waiting list)              
 <a href="http://www.google.co.uk/maps/place/M3+6HU" target="_blank">Venue: Adelphi Court</a>, off Cannon Street, Salford, M3 6HU          
 <a href="http://www.wegottickets.com/wordofwarning" target="_blank">Tickets: available to reserve online</a>, Pay What You Decide† in person afterwards. *With a limited capacity, **ALL reservations will be released 15 minutes before the start time**, please arrive early at Adelphi Court to collect a ticket.*           
