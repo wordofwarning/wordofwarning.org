@@ -57,4 +57,4 @@ Darren Pritchard has been creating dance works since 2006. As well as devising h
 Director & Co-Writer: Darren Pritchard | Co-Writer: Cheryl Martin | Dramaturg: Sonia Hughes | Producer: Jayne Compton | Lighting Designer & Production Manager: Phil Buckley<br>Commissioned by Homotopia; *Domestic Edition* commissioned by hÅb.<br>Supported using public funding by the National Lottery through Arts Council England.        
           
 #### Websites       
-<a href="http://darrenpritcharddance.com" target="_blank">darrenpritcharddance.com</a> | <a href="http://twitter.com/DarrenDancer" target="_blank">@DarrenDancer</a>
+<a href="http://darrenpritcharddance.com" target="_blank">darrenpritcharddance.com</a> | <a href="http://twitter.com/DarrenDancer" target="_blank">@DarrenDancer</a> | <a href="http://www.facebook.com/events/949917898504601" target="_blank">Facebook event</a>
