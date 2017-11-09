@@ -23,7 +23,9 @@ season: "Two Destination Language 8|11|2017"
 One woman's memories of the home where she grew up. Populated by stories of communism, war, merriment and family, she shapes a world from paper and picture as she seeks the father she has lost.          
              
 Watch their <a href="http://vimeo.com/212925166" target="_blank">insight into making the show</a>.            
-
+        
+Now that it's over, read a review by <a href="http://www.thereviewshub.com/declining-solo-the-lowry-salford" target="_blank">The Reviews Hub</a>.         
+        
 #### Venue + Booking Details           
 Date: Wednesday 8 November 2017, 8pm          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
