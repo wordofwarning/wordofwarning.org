@@ -24,7 +24,7 @@ One woman's memories of the home where she grew up. Populated by stories of comm
              
 Watch their <a href="http://vimeo.com/212925166" target="_blank">insight into making the show</a>.            
         
-Now that it's over, read a review by <a href="http://www.thereviewshub.com/declining-solo-the-lowry-salford" target="_blank">The Reviews Hub</a>.         
+Now that it's over, read reviews by <a href="http://www.franklymydearuk.co.uk/wtf-wednesday-declining-solo-lowry-salford" target="_blank">Frankly My Dear</a> + <a href="http://www.thereviewshub.com/declining-solo-the-lowry-salford" target="_blank">The Reviews Hub</a>.         
         
 #### Venue + Booking Details           
 Date: Wednesday 8 November 2017, 8pm          
