@@ -23,7 +23,7 @@ season: "Darren Pritchard Dance 10+11|11|2017"
 #### In Brief     
 From Harlem in the 20th to Salford in the 21st, a century of making the rent. Part show, part party — for those just about managing.       
             
-*<a href="http://www.wegottickets.com/wordofwarning" target="_blank">Booking</a> essential as each performance has a limited capacity; NB some previously sold-out shows now have space as people have cancelled. Email <a href="mailto:rsvp@habmcr.org?subject=Rent Party waiting list">rsvp@habmcr.org</a> to join a waiting list.*            
+*<a href="http://www.wegottickets.com/wordofwarning" target="_blank">Booking</a> essential as each performance has a limited capacity: some previously sold-out shows now have space as people have cancelled. To join a waiting list or book in person, please email <a href="mailto:rsvp@habmcr.org?subject=Rent Party waiting list">rsvp@habmcr.org</a> or call/text 07488 308 111.*            
             
 #### Venue + Booking Details       
 First Day: Friday 10 November 2017, (8pm sold-out) + 9.30pm               
