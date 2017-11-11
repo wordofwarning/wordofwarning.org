@@ -54,7 +54,7 @@ Darren Pritchard has been creating dance works since 2006. As well as devising h
 *Rent Party: Domestic Edition* is one of <a href="http://confidentials.com/manchester/15-great-things-to-do-in-manchester-this-november-2017" target="_blank">Manchester Confidentials</a> 15 November things to do + is previewed by <a href="http://www.manchestereveningnews.co.uk/whats-on/theatre-news/pay-as-you-feel-theatre-13649008" target="_blank">Manchester Evening News</a>.
         
 #### Credits         
-Director & Co-Writer: Darren Pritchard | Co-Writer: Cheryl Martin | Dramaturg: Sonia Hughes | Producer: Jayne Compton | Lighting Designer & Production Manager: Phil Buckley<br>Commissioned by Homotopia; *Domestic Edition* commissioned by hÅb.<br>Supported using public funding by the National Lottery through Arts Council England.        
+Director & Co-Writer: Darren Pritchard<br>Co-Writer: Cheryl Martin | Dramaturg: Sonia Hughes<br>Cast: Darren Pritchard, Lenai Russell, Kamille Gordon, Jason Andrew Guest<br>Commissioned by Homotopia; *Domestic Edition* commissioned by hÅb.<br>Supported using public funding by the National Lottery through Arts Council England.        
           
 #### Websites       
 <a href="http://darrenpritcharddance.com" target="_blank">darrenpritcharddance.com</a> | <a href="http://twitter.com/DarrenDancer" target="_blank">@DarrenDancer</a> | <a href="http://www.facebook.com/events/949917898504601" target="_blank">Facebook event</a>
