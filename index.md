@@ -5,4 +5,4 @@ header_image: "assets/images/header_2017awWarni.jpg"
 season: homepage
 
 ---
-#### Welcome to [Autumn/Winter 2017](/current/2017-autumnwinter) — a season where you choose what you want to pay. Next is [Darren Pritchard Dance](/current/2017-autumnwinter/pritchard)'s immersive musical in Salford's Adelphi Court | *Fri 10 + Sat 11 Nov*
+#### Our [Autumn/Winter 2017](/current/2017-autumnwinter) season has now finished — many thanks to all our artists, audiences, partners + team. Spring 2018's Performance Programme will be announced in early January, in the meantime discover new performance in Manchester + beyond from our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a>.
