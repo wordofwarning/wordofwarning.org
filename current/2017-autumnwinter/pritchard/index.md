@@ -23,11 +23,11 @@ season: "Darren Pritchard Dance 10+11|11|2017"
 #### In Brief     
 From Harlem in the 20th to Salford in the 21st, a century of making the rent. Part show, part party — for those just about managing.       
             
-*<a href="http://www.wegottickets.com/wordofwarning" target="_blank">Booking</a> essential as each performance has a limited capacity: some previously sold-out shows now have space as people have cancelled. To join a waiting list or book in person, please email <a href="mailto:rsvp@habmcr.org?subject=Rent Party waiting list">rsvp@habmcr.org</a> or call/text 07488 308 111.*            
+*<a href="http://www.wegottickets.com/wordofwarning" target="_blank">Booking</a> essential as each performance has a limited capacity.*            
             
 #### Venue + Booking Details       
 First Day: Friday 10 November 2017, (8pm sold-out) + 9.30pm               
-Second Day: Saturday 11 November 2017, 6pm + 8pm              
+(Second Day: Saturday 11 November 2017, 6pm + 8pm both sold-out)              
 <a href="http://www.google.co.uk/maps/place/M3+6HU" target="_blank">Venue: Adelphi Court</a>, off Cannon Street, Salford, M3 6HU          
 <a href="http://www.wegottickets.com/wordofwarning" target="_blank">Tickets: available to reserve online</a>, Pay What You Decide† in person afterwards. *With a limited capacity, **ALL reservations will be released 15 minutes before the start time**, please arrive early at Adelphi Court to collect a ticket.*           
 Box Office: call or text 07488 308 111 (Word of Warning)        
@@ -54,7 +54,7 @@ Darren Pritchard has been creating dance works since 2006. As well as devising h
 *Rent Party: Domestic Edition* is one of <a href="http://confidentials.com/manchester/15-great-things-to-do-in-manchester-this-november-2017" target="_blank">Manchester Confidentials</a> 15 November things to do + is previewed by <a href="http://www.manchestereveningnews.co.uk/whats-on/theatre-news/pay-as-you-feel-theatre-13649008" target="_blank">Manchester Evening News</a>.
         
 #### Credits         
-Director & Co-Writer: Darren Pritchard<br>Co-Writer: Cheryl Martin | Dramaturg: Sonia Hughes<br>Cast: Darren Pritchard, Lenai Russell, Kamille Gordon, Jason Andrew Guest<br>Commissioned by Homotopia; *Domestic Edition* commissioned by hÅb.<br>Supported using public funding by the National Lottery through Arts Council England.        
+Director & Co-Writer: Darren Pritchard | Co-Writer: Cheryl Martin | Dramaturg: Sonia Hughes | Cast: Darren Pritchard, Lenai Russell, Kamille Gordon, Jason Andrew Guest<br>Commissioned by Homotopia; *Domestic Edition* commissioned by hÅb.<br>Supported using public funding by the National Lottery through Arts Council England.        
           
 #### Websites       
 <a href="http://darrenpritcharddance.com" target="_blank">darrenpritcharddance.com</a> | <a href="http://twitter.com/DarrenDancer" target="_blank">@DarrenDancer</a> | <a href="http://www.facebook.com/events/949917898504601" target="_blank">Facebook event</a>
