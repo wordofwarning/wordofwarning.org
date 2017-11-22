@@ -23,6 +23,8 @@ season: "Akeim Toussaint Buck 19|10|2017"
 #### In Brief     
 Personal stories, ancestral memory and the shifting politics of diaspora. An urgent story of the past, present and future told through dance, song and word.            
           
+Now that it's over, read a review by <a href="http://manchesterdrama.wordpress.com/2017/11/22/windows-of-displacement" target="_blank">University of Manchester's Drama Department</a>.            
+          
 #### Venue + Booking Details       
 Date: Thursday 19 October 2017, 7.30pm              
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
