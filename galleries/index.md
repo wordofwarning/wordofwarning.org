@@ -5,6 +5,8 @@ layout: archive
 season: "Galleries"
 
 archived:
+    - {folder: "2017-domestic", name: "Rent Party: Domestic Edition", class: "d2015"}
+    - {folder: "2017-emergency", name: "Emergency 2017", class: "e2017"}
     - {folder: "2017-woah", name: "Works Ahead 2017", class: "woah"}
     - {folder: "2017-turn", name: "Turn 2017", class: "t2017"}
     - {folder: "2017-haphazard", name: "Haphazard 2017", class: "hh2017"}
