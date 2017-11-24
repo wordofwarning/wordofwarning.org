@@ -9,7 +9,7 @@ stylesheet: gallery.css
 
 header_url: "../../galleries"
 more_link: Rent Party:Domestic Edition
-more_url: "../../current/pritchard"
+more_url: "../../current/2017-autumnwinter/pritchard/"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small>Rent Party: Domestic Edition by Darren Pritchard Dance presented with the Guinness Partnership, November 2017</small>"}
