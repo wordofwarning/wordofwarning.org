@@ -12,7 +12,7 @@ more_link: Emergency 2017
 more_url: "../../current/2017-emergency"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "A day out for the curious, Sat 30 Sept at Z-arts.", show: "<small>Scudeletti & Figgis by Matt Warner Photography</small>"}
+    -   {file: "titlepage.jpg", artist: "A day out for the curious, Sat 30 Sep at Z-arts.", show: "<small>Scudeletti & Figgis by Matt Warner Photography</small>"}
     -   {file: "becomingstorybook.jpg", artist: "Becoming Storybook"}
     -   {file: "gameshow.jpg", artist: "Gameshow"}
     -   {file: "elizasoroga.jpg", artist: "Eliza Soroga"}
@@ -24,7 +24,7 @@ gallery:
     -   {file: "gildapaula.jpg", artist: "Paula Davy & Gilda Lockheart"}
     -   {file: "lauranapier.jpg", artist: "Laura Napier"}
     -   {file: "krissi.jpg", artist: "Krissi Musiol"}
-    -   {file: "katydye.jpg", artist: "Katy Dye"}
+    -   {file: "katydye.jpg", artist: "Katy Dye & Craig Manson"}
     -   {file: "joncoleman.jpg", artist: "Jon Coleman"}
     -   {file: "tomestes.jpg", artist: "Tom Estes"}
     -   {file: "gregsaxton.jpg", artist: "Greg Saxton"}
