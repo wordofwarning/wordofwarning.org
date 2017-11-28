@@ -23,6 +23,8 @@ season: "Darren Pritchard Dance 10+11|11|2017"
 #### In Brief     
 From Harlem in the 20th to Salford in the 21st, a century of making the rent. Part show, part party — for those just about managing.       
             
+Now that it's over, see a [gallery of images](/galleries/2017-domestic) from the parties.       
+            
 *Thanks to our generous audiences we're donating £574.65 & four crates of food to <a href="http://salford.foodbank.org.uk/give-help/donate-food" target="_blank">Salford Foodbank</a>.*            
             
 #### Venue + Booking Details       
