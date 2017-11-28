@@ -12,7 +12,7 @@ more_link: Emergency 2017
 more_url: "../../current/2017-emergency"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "A day out for the curious, Sat 30 Sep at Z-arts.", show: "<small>Scudeletti & Figgis by Matt Warner Photography</small>"}
+    -   {file: "titlepage.jpg", artist: "A day out for the curious, Sat 30 Sep at Z-arts.", show: "<small>Scudeletti & Figgis image by Matt Warner Photography; all other images copyright &copy;2017 Word of Warning</small>"}
     -   {file: "becomingstorybook.jpg", artist: "Becoming Storybook"}
     -   {file: "gameshow.jpg", artist: "Gameshow"}
     -   {file: "elizasoroga.jpg", artist: "Eliza Soroga"}
