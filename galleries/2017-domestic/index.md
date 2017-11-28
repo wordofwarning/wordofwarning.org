@@ -13,7 +13,7 @@ more_url: "../../current/2017-autumnwinter/pritchard"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small><i>Rent Party: Domestic Edition</i> by Darren Pritchard Dance, presented with the Guinness Partnership, November 2017.</small>", show: "<small>All images copyright &copy;2017 Word of Warning</small>"}
-    -   {file: "rp1.jpg"}
+    -   {file: "rp1.jpg", artist: "<small><i>Rent Party: Domestic Edition</i> by Darren Pritchard Dance, presented with the Guinness Partnership, November 2017.</small>"}
     -   {file: "rp2.jpg"}
     -   {file: "rp3.jpg"}
     -   {file: "rp4.jpg"}
