@@ -1,7 +1,7 @@
 ---
 # CONFIGURATION
 layout: home
-header_image: "assets/images/header_2017awWarni.jpg"
+header_image: "assets/images/header_warni.jpg"
 season: homepage
 
 ---
