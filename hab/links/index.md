@@ -7,7 +7,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Links + Partners" # the name of the artist or company
 header_image: "header_emergencynw.jpg"    
-
+season: "Links + Partners" 
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -43,7 +43,7 @@ We are pleased to count among our other friends + regular partners:
 [In Between Time Productions](http://inbetweentime.co.uk)    
 [Live Art Development Agency](http://www.thisisliveart.co.uk)          
 [Lancaster Arts at Lancaster University](http://www.lancasterarts.org)       
-[Making Room](http://making-room.co.uk)
+[Making Room](http://making-room.co.uk)               
 [Michael Pinchbeck](http://michaelpinchbeck.co.uk)         
 [MKULTRA](http://www.mkultra.org.uk)    
 [PANDA (performing arts network + development agency)](http://www.panda-arts.org.uk)        
