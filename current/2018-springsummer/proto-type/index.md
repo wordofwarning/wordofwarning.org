@@ -1,15 +1,15 @@
 ---
 # CONFIGURATION
-layout: 2017-autumnwinter
+layout: 2018-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Two Destination Language" # the name of the artist or company
-show: "Declining Solo" # the name of the show
-artist_size: 3
-show_size: 1
-header_image: "header_2dlflip.jpg"    
-season: "Two Destination Language 8|11|2017"
+artist: "Proto-type Theater" # the name of the artist or company
+show: "The Audit" # the name of the show
+artist_size: 1
+show_size: 2
+header_image: "header_auditdraft.jpg"    
+season: "Proto-type 28|2|2018"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -20,20 +20,18 @@ season: "Two Destination Language 8|11|2017"
 *Presented by* The Lowry + Word of Warning *as part of* <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF</a>           
          
 #### In Brief      
-One woman's memories of the home where she grew up. Populated by stories of communism, war, merriment and family, she shapes a world from paper and picture as she seeks the father she has lost.          
+copy.          
              
 Watch their <a href="http://vimeo.com/212925166" target="_blank">insight into making the show</a>.            
         
-Now that it's over, read reviews by <a href="http://www.franklymydearuk.co.uk/wtf-wednesday-declining-solo-lowry-salford" target="_blank">Frankly My Dear</a> + <a href="http://www.thereviewshub.com/declining-solo-the-lowry-salford" target="_blank">The Reviews Hub</a>.         
-        
 #### Venue + Booking Details           
-Date: Wednesday 8 November 2017, 8pm          
+Date: Wednesday 28 February 2018, 8pm          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-<a href="http://www.thelowry.com/performances/044F84CC-8974-43F9-9D39-0B8FBB0B9C2D/seat-map" target="_blank">Tickets: available to reserve from Fri 13 Oct</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
+<a href="http://www.thelowry.com/performances/5887ADC8-FE43-47E6-B0D7-252C326B8D2A/seat-map" target="_blank">Tickets: available to reserve from Fri 2 Feb</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
-Age advisory: 14+ (parental/guardian discretion). With no interval, the show lasts approximately 65 minutes. English spoken word, movement, video + music. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: **TBC** (parental/guardian discretion). With no interval, the show lasts approximately **TBC** minutes. English spoken word, movement, video + music***???***. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
 >*We are all ageing. As I write this, and as you read it. Time passes.*          
