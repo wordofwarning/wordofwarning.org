@@ -9,7 +9,7 @@ show: "The Audit" # the name of the show
 artist_size: 2
 show_size: 1
 header_image: "header_auditdraft.jpg"    
-season: "Proto-type 28|2|2018"
+season: "Proto-type Theater 28|2|2018"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -21,8 +21,6 @@ season: "Proto-type 28|2|2018"
          
 #### In Brief      
 copy.          
-             
-Watch their <a href="http://vimeo.com/212925166" target="_blank">insight into making the show</a>.            
         
 #### Venue + Booking Details           
 Date: Wednesday 28 February 2018, 8pm          
