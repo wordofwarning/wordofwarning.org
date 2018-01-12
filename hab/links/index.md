@@ -17,7 +17,7 @@ header_image: "header_emergencynw.jpg"
 ---
 hÅb can only function in partnership with a host of other organisations + networks, some of which are linked to below.    
 
-In 2012 we were pleased to partner with Live at LICA to produce the [*Getting It Out There*](http://www.liveatlica.org/whats-on/symposium-getting-it-out-there) symposium on touring; a **free** publication produced with the Live Art Development Agency following the event can be downloaded [here](http://habmcr.posthaven.com/getting-it-out-there-publication-free-to-down).    
+In 2012 we were pleased to partner with Live at LICA (now Lancaster Arts) to produce the [*Getting It Out There*](http://www.liveatlica.org/whats-on/symposium-getting-it-out-there) symposium on touring; a **free** publication produced with the Live Art Development Agency following the event can be downloaded [here](http://habmcr.posthaven.com/getting-it-out-there-publication-free-to-down).    
         
 hÅb is a member of:    
 [IETM](http://ietm.org)  
@@ -41,9 +41,9 @@ We are pleased to count among our other friends + regular partners:
 [HOME](http://homemcr.org)        
 [Hope Street Ltd](http://www.hope-street.org)          
 [In Between Time Productions](http://inbetweentime.co.uk)    
-[Lancaster Emerging Arts Platform (LEAP)](http://www.talkwithleap.com)      
 [Live Art Development Agency](http://www.thisisliveart.co.uk)          
-[Live at LICA](http://www.liveatlica.org/home)       
+[Lancaster Arts at Lancaster University](http://www.lancasterarts.org)       
+[Making Room](http://making-room.co.uk)
 [Michael Pinchbeck](http://michaelpinchbeck.co.uk)         
 [MKULTRA](http://www.mkultra.org.uk)    
 [PANDA (performing arts network + development agency)](http://www.panda-arts.org.uk)        
@@ -59,7 +59,7 @@ We are pleased to count among our other friends + regular partners:
 [the Bluecoat](http://www.thebluecoat.org.uk)       
 [The Future](http://www.the-future.co.uk)      
 [The Larks (formerly Larkin' About)](http://www.the-larks.com) — resident gamers.    
-[The Lowry — The Studio](http://www.thelowry.com/events/theatre-shows/the-studio)      
+[The Lowry](http://www.thelowry.com)      
 [the Whitworth](http://www.whitworth.manchester.ac.uk)         
 [Waymarking](http://www.waymarking.org.uk)          
 [Work for Change](http://change.coop)   
