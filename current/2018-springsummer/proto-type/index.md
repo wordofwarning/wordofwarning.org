@@ -4,7 +4,7 @@ layout: 2018-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Proto-type Theater" # the name of the artist or company
+artist: "Proto-type<br>Theater" # the name of the artist or company
 show: "The Audit" # the name of the show
 artist_size: 2
 show_size: 1
