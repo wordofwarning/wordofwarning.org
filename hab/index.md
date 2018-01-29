@@ -10,8 +10,6 @@ season: "hÅb homepage"
 ### Stimulating… extraordinary… performance…   
         
 Based in Manchester, hÅb is a producer, developer and strategic advocate of contemporary performance, live art and sited work in the North of England. greenroom's key partner for over a decade, hÅb aims to maintain its legacy, working in collaboration with a range of venues to produce showing opportunities, platforms and artist development projects like [Divergency](/hab/divergencymcr), [Emergency](/hab/emergency), [Hazard](/hab/hazard), [Haphazard](/hab/haphazard) + [Works Ahead](/hab/worksahead).      
-        
-***LATEST ARTIST OPPORTUNITY**<br>A creative challenge + springboard for early career artists, <a href="http://www.lancasterarts.org/projects/foot-in-the-door-2018-call-for-artists" target="_blank">Foot In The Door 2018</a> seeks five participants for a residency programme, 12-16 February at Nuffield Theatre, supported by Making Room, Lancaster Arts at Lancaster University + hÅb. Deadline to apply: Thursday 23 January, 11.59pm.*      
           
 Essentially industry-facing, hÅb works with artists, colleagues and venues to create the best possible opportunities for new work to flourish.        
         
