@@ -7,7 +7,7 @@ rootpath: "../../../"
 artist: "Proto-type Theater" # the name of the artist or company
 show: "The Audit<br>(or Iceland,<br>a modern myth)" # the name of the show
 artist_size: 3
-show_size: 1
+show_size: 2
 header_image: "header_audit.jpg"    
 season: "Proto-type Theater 28|2|2018"
 
@@ -33,14 +33,15 @@ Age advisory: **TBC** (parental/guardian discretion). With no interval, the show
              
 #### More         
 >*There’s a shadow coming, across the sea. Long and terrifying. The vultures are circling, the wolves are howling… how can we weather this storm?"*        
+
 The global economy is a mess. The crash has landed, the tide's swept out, and it's taken our hope with it. There's less in our pockets and more to be spent. The rich have got richer, the middle's squeezed tight, and the poor are being dragged ever downwards.
 With the true value of money and the human cost of greed firmly in their sights, Proto-type Theater tell the story of how a nation raised their voices in protest.
-Using original text, performance, film, music and animation, THE AUDIT is about finding strength, overcoming a world designed to keep us docile, and how collective power can move a mountain – even if only a little.
+Using original text, performance, film, music and animation, *The Audit* is about finding strength, overcoming a world designed to keep us docile, and how collective power can move a mountain – even if only a little.
          
 #### Who are they        
 A company of multi-disciplinary artists led by Rachel Baynton, Gillian Lees + Andrew Westerside, Proto-type create original performance work that is diverse in scale, subject and medium. Alongside touring *AMtSB*, this has recently included a two-week long theatrical experience using pervasive technologies (*Fortnight*), a multimedia concert-performance featuring animation and live laptop orchestra (*The Good, the God and the Guillotine* — at Word of Warning in [Spring 2014](/archive/2014-spring/prototype)), and a radio drama with the BBC.         
 
-THE AUDIT is Proto-type’s second theatrical work examining contemporary politics, following     
+THE AUDIT is Proto-type’s second theatrical work examining contemporary politics, following *A Machine they're Secretly Building*    
 
           
 Since 1997 they've made work and supported young artists in Armenia, China, France, the Netherlands, Russia, the UK, the US + Zimbabwe: founded in New York City by Peter S. Petralia (1997-2006), relocating to Lancaster's Storey Institute (2006-10), then Manchester's Northern Quarter (2010-14) and now Lincoln's Cathedral Quarter, they make and support work across the region.            
