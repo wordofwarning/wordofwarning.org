@@ -5,9 +5,9 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Proto-type Theater" # the name of the artist or company
-show: "The Audit<br>(or Iceland,<br>a modern myth)" # the name of the show
+show: "The Audit (or Iceland,<br>a modern myth)" # the name of the show
 artist_size: 3
-show_size: 2
+show_size: 3
 header_image: "header_audit.jpg"    
 season: "Proto-type Theater 28|2|2018"
 
@@ -20,7 +20,7 @@ season: "Proto-type Theater 28|2|2018"
 *Presented by* The Lowry + Word of Warning *as part of* <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF</a>           
          
 #### In Brief      
-How a nation raised their voices in protest. And how collective power can move a mountain — even if only a little       
+How a nation raised their voices in protest. And how collective power can move a mountain — even if only a little.       
         
 #### Venue + Booking Details           
 Date: Wednesday 28 February 2018, 8pm          
@@ -29,7 +29,7 @@ Date: Wednesday 28 February 2018, 8pm
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
-Age advisory: **TBC** (parental/guardian discretion). With no interval, the show lasts approximately **TBC** minutes. English spoken word, movement, video, animation + music***???***. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: 14+ (parental/guardian discretion). With no interval, the show lasts approximately 1 hour. Features a combination of spoken text, composed sound + film. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
 >*There's a shadow coming, across the sea. Long and terrifying. The vultures are circling, the wolves are howling… how can we weather this storm?"*        
@@ -45,7 +45,7 @@ Since 1997 they've made work and supported young artists in Armenia, China, Fran
           
 #### What people have said about them         
 >*Cracking intelligent, funny, new political theatre.<br>Terrifying,  overwhelming – a total highlight.*<br>Audience Feedback on *The Audit* (work-in-progress)          
->*…this smartly intelligent hour-long whizz through the world of surveillance, and the way governments legitimise spying on their citizens, makes you question what we mean by a terrorist and where the real threat lies.*<br><a href="http://www.theguardian.com/stage/2017/aug/27/a-machine-theyre-secretly-building-review-surveillance" target="_blank">★★★★ Lyn Gardner, The Guardian on *A Machine they're Secretly Building*</a>.            
+>*…this smartly intelligent hour-long whizz through the world of surveillance, and the way governments legitimise spying on their citizens, makes you question what we mean by a terrorist and where the real threat lies.*<br><a href="http://www.theguardian.com/stage/2017/aug/27/a-machine-theyre-secretly-building-review-surveillance" target="_blank">★★★★ Lyn Gardner, The Guardian on *A Machine…*</a>.            
           
 #### Credits          
 Written + directed by Andrew Westerside | Devised + performed by Rachel Baynton + Gillian Lees | Digital design + artwork by Adam York Gregory | Original sound design by Paul J. Rogers | Produced by Gillian Lees<br>Commissioned by Lincoln Performing Arts Centre, ARC (Stockton), Oxford Playhouse, Lancaster Arts at Lancaster University, hÅb + artsdepot (London).<br>Supported by Tramway (Glasgow), Curve (Leicester), and using public funding by the National Lottery through Arts Council England.           
