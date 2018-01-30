@@ -7,7 +7,7 @@ rootpath: "../../../"
 artist: "Proto-type Theater" # the name of the artist or company
 show: "The Audit (or Iceland,<br>a modern myth)" # the name of the show
 artist_size: 3
-show_size: 3
+show_size: 2
 header_image: "header_audit.jpg"    
 season: "Proto-type Theater 28|2|2018"
 
@@ -41,10 +41,10 @@ Using original text, performance, film, music and animation, *The Audit* is abou
 #### Who are they        
 A company of multi-disciplinary artists led by Rachel Baynton, Gillian Lees + Andrew Westerside, Proto-type create original performance work that is diverse in scale, subject and medium. Alongside lifting the veil on the Secret State in their first theatrical examination of contemporary politics (*A Machine they're Secretly Building* — at Word of Warning in [Spring 2017](/archive/2017-spring/proto-type)), this has recently included a two-week long theatrical experience using pervasive technologies (*Fortnight*), a multimedia concert-performance featuring animation and live laptop orchestra (*The Good, the God and the Guillotine* — at Word of Warning in [Spring 2014](/archive/2014-spring/prototype)), and a radio drama with the BBC.        
         
-Since 1997 they've made work and supported young artists in Armenia, China, France, the Netherlands, Russia, the UK, the US + Zimbabwe: founded in New York City by Peter S. Petralia (1997-2006), relocating to Lancaster's Storey Institute (2006-10), then Manchester's Northern Quarter (2010-14) and now Lincoln's Cathedral Quarter, they make and support work across the region.            
+Since 1997 they've made work and supported young artists in Armenia, China, France, the Netherlands, Russia, the UK, the US + Zimbabwe: founded in New York City by Peter S. Petralia (1997-2006), relocating to Lancaster's Storey Institute (2006-10), then Manchester's Northern Quarter (2010-14), and now Lincoln's Cathedral Quarter, they make and support work across the region.            
           
 #### What people have said about them         
->*Cracking intelligent, funny, new political theatre.<br>Terrifying,  overwhelming – a total highlight.*<br>Audience Feedback on *The Audit* (work-in-progress)          
+>*Cracking intelligent, funny, new political theatre.<br>Terrifying,  overwhelming – a total highlight.*<br>Audience Feedback on work-in-progress of *The Audit*          
 >*…this smartly intelligent hour-long whizz through the world of surveillance, and the way governments legitimise spying on their citizens, makes you question what we mean by a terrorist and where the real threat lies.*<br><a href="http://www.theguardian.com/stage/2017/aug/27/a-machine-theyre-secretly-building-review-surveillance" target="_blank">★★★★ Lyn Gardner, The Guardian on *A Machine…*</a>.            
           
 #### Credits          
