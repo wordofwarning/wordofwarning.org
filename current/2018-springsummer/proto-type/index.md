@@ -6,8 +6,8 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Proto-type Theater" # the name of the artist or company
 show: "The Audit (or Iceland,<br>a modern myth)" # the name of the show
-artist_size: 3
-show_size: 2
+artist_size: 2
+show_size: 3
 header_image: "header_audit.jpg"    
 season: "Proto-type Theater 28|2|2018"
 
