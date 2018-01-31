@@ -658,3 +658,36 @@
 
 	.woah .splash
 		{background:url(../images/header_woah_photo.jpg) center center}
+
+/* Hazard 2018 yellow with white diagonals
+------------------------------------------------------*/
+
+	.h2018,
+	.h2018 .artist, 
+	.h2018 .show,
+	.h2018 .season
+		{background:#fd0; color:#000;}
+		
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	body.h2018
+		{background: #fd0 url(../images/angle_small.png) center top no-repeat}
+}
+@media only screen and (min-width: 960px) and (max-width: 1399px) {
+	body.h2018
+		{background: #fd0 url(../images/angle_medium.png) center top no-repeat}
+}
+@media only screen and (min-width: 1400px) and (max-width: 1599px) {
+	body.h2018
+		{background: #fd0 url(../images/angle_large.png) center top no-repeat}
+}
+
+	.h2018 a,
+	.h2018 a:visited,
+	.h2018 a:hover
+		{color:#000;}
+	.h2018 nav a:hover,
+	.h2018 article a:hover,
+	.h2018 footer a:hover
+		{background: #000; color: #fff;}
+	.h2018 .splash
+		{background:url(../images/header_2016_hazard.jpg) center center}
