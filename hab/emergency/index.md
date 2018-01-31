@@ -17,7 +17,7 @@ season: "Emergency"
 ---
 **Emergency** is our annual platform for live art + contemporary performance, featuring at least 20 short pieces of work over a day/evening in Manchester…           
          
-Our [**eighteenth Emergency**](/current/2017-emergency) took place on **Saturday 30 September 2017** (12noon-10pm) in Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, including STUN Studio; see our [gallery of images](/galleries/2017-emergency) from the event.        
+Our [**eighteenth Emergency**](/archive/2017-emergency) took place on **Saturday 30 September 2017** (12noon-10pm) in Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, including STUN Studio; see our [gallery of images](/galleries/2017-emergency) from the event.        
          
 To get a feel for it, have a look at 2016's [image gallery](/galleries/2016-emergency) + [programme](/archive/2016-emergency), or delve further with 2015's [gallery](/galleries/2015-emergency) + [programme](/archive/2015-emergency) and 2014's [gallery](/galleries/2014-emergency) + [programme](/archive/2014-emergency).           
 		
@@ -27,4 +27,4 @@ To get a feel for it, have a look at 2016's [image gallery](/galleries/2016-emer
 • a selection event for a number of small [Works Ahead](/hab/worksahead) commissions to be developed + supported by [hÅb](/hab).          
 • Enquiries: <mailto:emergency@habmcr.org> | <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>            
          
-[Emergency 2017](/current/2017-emergency) was presented by Word of Warning, STUN + Z-arts; produced by hÅb; supported using public funding by Arts Council England, and by Manchester City Council.
+[Emergency 2017](/archive/2017-emergency) was presented by Word of Warning, STUN + Z-arts; produced by hÅb; supported using public funding by Arts Council England, and by Manchester City Council.
