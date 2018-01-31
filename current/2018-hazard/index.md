@@ -36,8 +36,7 @@ Age advisory: suitable for ALL. Hazard 2018 takes place outside. For specific ag
 Manchester's stripiest festival returns to unleash a seventh wave of bizarre behaviour on the city centre, blurring the boundaries between art and activism… random actions, strange antics and ludic activities. Aimed for you to encounter by chance, Hazard 2018 will be paperless on the day — see our [programme](/current/2018-hazard/programme). For a glimpse of previous outbreaks of hazardous behaviour see 2016's [image gallery](/galleries/2016-hazard) + [programme](/archive/2016-hazard), or delve further with 2014's [image gallery](/galleries/2014-hazard) + [programme](/archive/2014-hazard), or 2012's [gallery](/galleries/2012-hazard) + [programme](/archive/2012-hazard).         
           
 #### Credits         
-[Hazard](/hab/hazard) 2018 is produced by [hÅb](/hab), in collaboration with the participating artists; supported using public funding by Arts Council England. Thanks to the Royal Exchange Theatre. 
-[Haphazard](/hab/haphazard) 2017 is produced by hÅb; supported using public funding by Arts Council England; funded by Manchester City Council; supported by the Paul Hamlyn Foundation. | Image: Antje Hildebrandt, 2014     
+[Hazard](/hab/hazard) 2018 is produced by [hÅb](/hab), in collaboration with the participating artists; supported using public funding by Arts Council England. | Image: Antje Hildebrandt, 2014     
 
 #### Websites        
 <a href="http://hazardmcr.org" target="_blank">hazardmcr.org</a> | <a href="http://twitter.com/HazardMcr" target="_blank">@HazardMcr</a> | <a href="http://twitter.com/hashtag/HazardMcr" target="_blank">#HazardMcr</a>
