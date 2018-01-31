@@ -21,7 +21,7 @@ season: "Emergency 30|9|2017"
 ### Saturday 30 September. Pay What You Decide             
 Manchester's micro-marathon of the bizarre + the beautiful comes of age as our eighteenth day-long performance takeover fills Z-arts to bursting point…        
              
-[From noon](/current/2017-emergency/afternoon) dip in and out of ongoing performances, installations + limited capacity experiences, and [from 5pm](/current/2017-emergency/evening) join us for a series of short sit-down shows in this non-stop performance takeover; see our [gallery of 2017 artists](/galleries/2017-emergencypre).<br>**Your chance to sample the different — then pay what you decide!**        
+[From noon](/archive/2017-emergency/afternoon) dip in and out of ongoing performances, installations + limited capacity experiences, and [from 5pm](/archive/2017-emergency/evening) join us for a series of short sit-down shows in this non-stop performance takeover; see our [gallery of 2017 artists](/galleries/2017-emergencypre).<br>**Your chance to sample the different — then pay what you decide!**        
         
 Now that it's over, read reviews by <a href="http://circlesandstalls.wordpress.com/2017/10/01/emergency-2017" target="_blank">Circles&Stalls</a> + <a href="http://quietmandave.co.uk/2017/10/emergency-2017" target="_blank">QuietManDave</a>, and see our [gallery of images](/galleries/2017-emergency) from the event.          
         
