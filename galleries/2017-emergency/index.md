@@ -9,7 +9,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: Emergency 2017
-more_url: "../../current/2017-emergency"
+more_url: "../../archive/2017-emergency"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "A day out for the curious, Sat 30 Sep at Z-arts.", show: "<small>Scudeletti & Figgis image by Matt Warner Photography; all other images copyright &copy;2017 Word of Warning</small>"}
