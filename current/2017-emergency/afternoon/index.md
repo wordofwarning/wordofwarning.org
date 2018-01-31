@@ -17,7 +17,7 @@ season: "Emergency 30|9|2017, Afternoon"
 # show_size: 2 # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-*An afternoon of new live art presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2017](/current/2017-emergency); *mainly aimed at adults, see Access Info*              
+*An afternoon of new live art presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2017](/archive/2017-emergency); *mainly aimed at adults, see Access Info*              
 
 ### Artists in Alphabetical Order (*subject to change*)      
 Alex Billingham | Becoming Storybook† | Briggsy & Hawk Dance Theatre† | Casey Birks | Eliza Soroga† | Gameshow | Jamal Gerald† | Johanna Bolton† | Laura Napier | M. Valcarcel-Saez | Matrafisc Dance† | Paula Davy & Gilda Lockheart | Peter Jacobs | Rampant† | Vijay Patel† | Virginia Scudeletti & Nicholas Figgis | Zoe Toolan† ( † *limited capacity*)       
@@ -127,7 +127,7 @@ with his owner. So I invite you to share these unique moments by joining me for 
 <a href="http://zklt.co.uk" target="_blank">zklt.co.uk</a> | <a href="http://twitter.com/TWLZoe" target="_blank">@TWLZoe</a>       
          
 #### Venue + Booking Details, for Afternoon Session         
-Date: Saturday 30 September 2017, 12noon-5pm; full event runs [to 10pm](/current/2017-emergency/evening)            
+Date: Saturday 30 September 2017, 12noon-5pm; full event runs [to 10pm](/archive/2017-emergency/evening)            
 [Venue: Z-arts (incl. STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: no booking required, Pay What You Decide in person on the day, come and go as you please. ( † *NB Some work has a limited capacity and will have sign-up sheets on the day or operate on a first-come, first-served basis.*)        
 Tel: 0161 232 6089 (Z-arts)          
