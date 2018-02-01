@@ -1,7 +1,6 @@
 ---
 # CONFIGURATION
 layout: home
-header_image: ""
 season: homepage
 
 ---
