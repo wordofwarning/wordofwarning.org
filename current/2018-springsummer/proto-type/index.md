@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Proto-type Theater" # the name of the artist or company
-show: "The Audit (or Iceland,<br>a modern myth)" # the name of the show
+show: "The Audit (or Iceland,<br> a modern myth)" # the name of the show
 artist_size: 2
 show_size: 3
 header_image: "header_audit.jpg"    
@@ -25,7 +25,7 @@ How a nation raised their voices in protest. And how collective power can move a
 #### Venue + Booking Details           
 Date: Wednesday 28 February 2018, 8pm          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-<a href="http://www.thelowry.com/performances/5887ADC8-FE43-47E6-B0D7-252C326B8D2A/seat-map" target="_blank">Tickets: available to reserve from Fri 2 Feb</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
+<a href="http://www.thelowry.com/performances/5887ADC8-FE43-47E6-B0D7-252C326B8D2A/seat-map" target="_blank">Tickets: available to reserve</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
@@ -51,7 +51,7 @@ Since 1997 they've made work and supported young artists in Armenia, China, Fran
 Written + directed by Andrew Westerside | Devised + performed by Rachel Baynton + Gillian Lees | Digital design + artwork by Adam York Gregory | Original sound design by Paul J. Rogers | Produced by Gillian Lees<br>Commissioned by Lincoln Performing Arts Centre, ARC (Stockton), Oxford Playhouse, Lancaster Arts at Lancaster University, hÅb + artsdepot (London).<br>Supported by Tramway (Glasgow), Curve (Leicester), and using public funding by the National Lottery through Arts Council England.           
            
 #### Websites          
-<a href="http://proto-type.org/current/the-audit" target="_blank">proto-type.org</a> | <a href="http://twitter.com/Proto_type" target="_blank">@Proto_type</a> | <a href="http://facebook.com/prototypetheater" target="_blank">Proto-type on Facebook</a> | <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF</a>         
+<a href="http://proto-type.org/current/the-audit" target="_blank">proto-type.org</a> | <a href="http://twitter.com/Proto_type" target="_blank">@Proto_type</a> | <a href="http://facebook.com/prototypetheater" target="_blank">Proto-type on Facebook</a> | <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF Wednesday</a>         
         
 #### WTF Wednesday ticketing policy at The Lowry         
 As this is a Pay What You Decide event, we know some people who book tickets won't turn up on the night so we send out more tickets than there are places. We do our best to get the numbers right but we advise you arrive early to ensure you get a seat! We don't often have to disappoint people but if we can't fit you in we will try to offer you tickets to another show in The Lowry that night.
