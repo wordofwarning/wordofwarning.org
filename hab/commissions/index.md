@@ -17,13 +17,13 @@ season: "hÅb: Commissions"
 ---
 hÅb has commissioned hundreds of artists since its inception in 1996, often with partners such as greenroom, Contact, STUN; here's a chronological list of our recent commissioned artists/companies:           
         
-####2018      
-Emma Geraghty — *Fat Girl Singing* | Works Ahead 2018 with Contact + STUN       
-Jamal Gerald — *tbc* | Works Ahead 2018 with Contact + STUN       
-Vijay Patel — *tbc* | Works Ahead 2018 with Contact + STUN       
+#### 2018      
+Emma Geraghty — *Fat Girl Singing* | Works Ahead with Contact + STUN       
+Jamal Gerald — *tbc* | Works Ahead with Contact + STUN       
+Vijay Patel — *tbc* | Works Ahead with Contact + STUN       
           
-####2017     
+#### 2017     
 Darren Pritchard Dance — *Rent Party: Domestic Edition*        
 Proto-type Theater — *The Audit*        
        
-####2016      
+#### 2016      
