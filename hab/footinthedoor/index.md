@@ -15,6 +15,8 @@ season: "Foot In The Door"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Foot In The Door** is an artist development + support initiative from Making Room. In 2018, in partnership with Lancaster Arts + hÅb, it supported five artists (Avital Raz, Amy Vreeke, Ashleigh Owen, Josh Gardner, Emma Geraghty) in a week-long residency in Lancaster, with their developing ideas presented for the first time (alongside guest artists James Monaghan, Jenny McMillan) at a **<a href="http://www.lancasterarts.org/whats-on/making-room-foot-in-the-door" target="_blank">showcase on 15 February at Lancaster Arts</a>**
+**Foot In The Door** is a development initiative for artists at the start of their careers by Making Room.       
         
-Foot In The Door 2018 was supported by <a href='http://makingroom' target='_blank'>Making Room</a> + <a href='http://lancasterarts' target='_blank'>Lancaster Arts</a> + <a href='http://habmcr.org' target='_blank'>hÅb</a>.
+**February 2018** saw them partnership with Lancaster Arts + hÅb to support five artists (Avital Raz, Amy Vreeke, Ashleigh Owen, Josh Gardner, Emma Geraghty) in a week-long residency, developing brand new ideas in Lancaster and then presenting them for the first time (alongside guest artists James Monaghan, Jenny McMillan) at a <a href="http://www.lancasterarts.org/whats-on/making-room-foot-in-the-door" target="_blank">showcase on 15 February</a>.        
+       
+<a href="http://making-room.co.uk/2018/02/06/foot-in-the-door-meet-the-2018-cohortr" target="_blank">Foot In The Door 2018</a> was supporte by <a href='http://www.making-room.co.uk' target='_blank'>Making Room</a>, <a href='http://lancasterarts.org' target='_blank'>Lancaster Arts</a> + <a href='http://habmcr.org' target='_blank'>hÅb</a>.
