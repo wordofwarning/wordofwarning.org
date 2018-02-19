@@ -7,7 +7,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Foot In The Door" # the name of the artist or company
 header_image: "header_emergencynw.jpg"
-season: "Foot In The Door"
+season: "hÅb: Foot In The Door"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
