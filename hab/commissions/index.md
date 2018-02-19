@@ -5,7 +5,7 @@ layout: hab # the season or event-specific template in /_layouts
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Foot In The Door" # the name of the artist or company
+artist: "Commissions" # the name of the artist or company
 header_image: "header_emergencynw.jpg"
 season: "hÅb: Commissions"
 
