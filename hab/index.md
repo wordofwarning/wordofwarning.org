@@ -13,10 +13,6 @@ Based in Manchester, hÅb is a producer, developer and strategic advocate of con
           
 Essentially industry-facing, hÅb works with artists, colleagues and venues to create the best possible opportunities for new work to flourish.        
         
-#### *<a href="http://www.lancasterarts.org/whats-on/making-room-foot-in-the-door" target="_blank">Foot In The Door 2018 showcase</a>*        
-***Thu 15 Feb, 8pm. £9/5 | Lancaster Arts at Lancaster University**        
-See developing ideas presented for the first time by artists Avital Raz, Amy Vreeke, Ashleigh Owen, Josh Gardner & Emma Geraghty, plus guest appearances by previous Foot In The Door participant James Monaghan & emerging associate Jenny McMillan. Foot in the Door 2018 is brought to you by Making Room in partnership with Lancaster Arts + hÅb.*        
-        
 Since January 2012, however hÅb gone 'public' in the guise of [Word of Warning](/index) — a peripatetic programme of, and regular bulletin for, contemporary live work in Manchester + beyond. *N.B. this site aims to offer information to artists wanting to know more about our work and how to get involved; for more information about our public programme please see [Word of Warning](/index).*   
         
 From [Emergency](/hab/emergency), an annual micro-festival for new live work (now in its nineteenth year) which presents over 20 short pieces in a day each autumn (and its former Merseyside sibling, ['Poolside Emergency](/hab/poolside)); through [Works Ahead](/hab/worksahead), a series of small commissions for new work (now in its seventh year) — we aim to provide a joined-up series of opportunities for emerging new work and artists in contemporary performance + live art. We also co-produce [Turn](/hab/turn), a regular micro-festival for new northern dance + dance-makers (last in April 2017).    
