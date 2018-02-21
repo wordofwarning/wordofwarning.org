@@ -47,6 +47,8 @@ Since 1997 they've made work and supported young artists in Armenia, China, Fran
 >*Cracking intelligent, funny, new political theatre.<br>Terrifying,  overwhelming – a total highlight.*<br>Audience Feedback on work-in-progress of *The Audit*          
 >*…this smartly intelligent hour-long whizz through the world of surveillance, and the way governments legitimise spying on their citizens, makes you question what we mean by a terrorist and where the real threat lies.*<br><a href="http://www.theguardian.com/stage/2017/aug/27/a-machine-theyre-secretly-building-review-surveillance" target="_blank">★★★★ Lyn Gardner, The Guardian on *A Machine…*</a>.            
           
+*The Audit* in Salford is previewed by <a href="http://manchesterwire.co.uk/#!/pay-as-you-decide-theatre-the-audit-the-lowry-word-of-warning-wtf-wednesdays-feb-2018" target="_blank">Manchester Wire</a>.           
+          
 #### Credits          
 Written + directed by Andrew Westerside | Devised + performed by Rachel Baynton + Gillian Lees | Digital design + artwork by Adam York Gregory | Original sound design by Paul J. Rogers | Produced by Gillian Lees<br>Commissioned by Lincoln Performing Arts Centre, ARC (Stockton), Oxford Playhouse, Lancaster Arts at Lancaster University, hÅb + artsdepot (London).<br>Supported by Tramway (Glasgow), Curve (Leicester), and using public funding by the National Lottery through Arts Council England.           
            
