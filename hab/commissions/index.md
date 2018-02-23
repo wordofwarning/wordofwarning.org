@@ -18,12 +18,21 @@ season: "hÅb: Commissions"
 hÅb has commissioned hundreds of artists since its inception in 1996, often with partners such as greenroom, Contact, STUN; here's a chronological list of our recent commissioned artists/companies:           
         
 #### 2018      
-Emma Geraghty — *Fat Girl Singing* | Works Ahead with Contact + STUN       
-Jamal Gerald — *tbc* | Works Ahead with Contact + STUN       
-Vijay Patel — *tbc* | Works Ahead with Contact + STUN       
+Emma Geraghty — *Fat Girl Singing* <small>(Works Ahead with Contact + STUN</small>)       
+Jamal Gerald — *tbc* <small>(Works Ahead with Contact + STUN</small>)      
+Proto-type Theater — *The Audit*        
+Vijay Patel — *tbc* <small>(Works Ahead with Contact + STUN</small>)       
           
 #### 2017     
+Amy <small>(Divergency with STUN)</small>)        
+Chanje Kunda — *Superposition* <small>(Works Ahead with Contact + STUN</small>)       
 Darren Pritchard Dance — *Rent Party: Domestic Edition*        
-Proto-type Theater — *The Audit*        
-       
+Elmi <small>(Divergency with STUN)</small>)        
+Mahboobeh <small>(Divergency with STUN)</small>)        
+Nikki Norton <small>(Divergency with STUN)</small>)        
+Proto-type Theater — *AMTSB*        
+Richard DeDomenici The Redux Project — *24 Hour Party People: Redux* <small>(with HOME)</small>)        
+Tom Cassani — *SLYDWC* <small>(Works Ahead with Contact</small>)       
+Toni-Dee Paul — *My Father's Kitchen* <small>(Works Ahead with Contact</small>)       
+         
 #### 2016      
