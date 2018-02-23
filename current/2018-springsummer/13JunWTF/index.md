@@ -21,15 +21,16 @@ season: "Proto-type Theater 28|2|2018"
          
 #### In Brief      
 How a nation raised their voices in protest. And how collective power can move a mountain — even if only a little.       
+<iframe width="560" height="315" src="http://www.youtube.com/embed/Ceqe5tP9-5Q?rel=0" frameborder="0" allowfullscreen></iframe>        
         
 #### Venue + Booking Details           
-Date: Wednesday 28 February 2018, 8pm          
+Date: Wednesday 13 June 2018, 8pm          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-<a href="http://www.thelowry.com/performances/5887ADC8-FE43-47E6-B0D7-252C326B8D2A/seat-map" target="_blank">Tickets: available to reserve</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
+<a href="http://www.thelowry.com/performances/?/seat-map" target="_blank">Tickets: available to reserve</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
-Age advisory: 14+ (parental/guardian discretion). With no interval, the show lasts approximately 1 hour. Features a combination of spoken text, composed sound + film. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: ??+ (parental/guardian discretion). With no interval, the show lasts approximately ? hour. Features a combination of spoken text, composed sound + film. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
 >*There's a shadow coming, across the sea. Long and terrifying. The vultures are circling, the wolves are howling… how can we weather this storm?"*        
