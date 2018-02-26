@@ -22,7 +22,7 @@ season: "Proto-type Theater 28|2|2018"
 #### In Brief      
 How a nation raised their voices in protest. And how collective power can move a mountain — even if only a little.       
         
-<iframe width="640" height="272" src="http://player.vimeo.com/video/228695396" frameborder="0" allowfullscreen></iframe>
+See their <a href="http://vimeo.com/228695396" target="_blank">trailer</a>.
         
         
 #### Venue + Booking Details           
