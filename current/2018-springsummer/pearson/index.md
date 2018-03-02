@@ -4,12 +4,12 @@ layout: 2018-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Proto-type Theater" # the name of the artist or company
-show: "The Audit (or Iceland,<br> a modern myth)" # the name of the show
+artist: "Deborah Pearson" # the name of the artist or company
+show: "History. History. History." # the name of the show
 artist_size: 2
 show_size: 3
-header_image: "header_audit.jpg"    
-season: "Proto-type Theater 28|2|2018"
+header_image: "header_.jpg"    
+season: "Deborah Pearson 13|6|2018"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -20,8 +20,7 @@ season: "Proto-type Theater 28|2|2018"
 *Presented by* The Lowry + Word of Warning *as part of* <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF</a>           
          
 #### In Brief      
-How a nation raised their voices in protest. And how collective power can move a mountain — even if only a little.       
-<iframe width="560" height="315" src="http://www.youtube.com/embed/Ceqe5tP9-5Q?rel=0" frameborder="0" allowfullscreen></iframe>        
+copy        
         
 #### Venue + Booking Details           
 Date: Wednesday 13 June 2018, 8pm          
@@ -33,18 +32,12 @@ Box Office Tel: 0843 208 6000 (The Lowry)
 Age advisory: ??+ (parental/guardian discretion). With no interval, the show lasts approximately ? hour. Features a combination of spoken text, composed sound + film. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
->*There's a shadow coming, across the sea. Long and terrifying. The vultures are circling, the wolves are howling… how can we weather this storm?"*        
-
-The global economy is a mess. The crash has landed, the tide's swept out, and it's taken our hope with it. There's less in our pockets and more to be spent. The rich have got richer, the middle's squeezed tight, and the poor are being dragged ever downwards. With the true value of money and the human cost of greed firmly in their sights, Proto-type Theater tell the story of how a nation raised their voices in protest.                   
-           
-Using original text, performance, film, music and animation, *The Audit* is about finding strength, overcoming a world designed to keep us docile, and how collective power can move a mountain — even if only a little.           
-         
-#### Who are they        
-A company of multi-disciplinary artists led by Rachel Baynton, Gillian Lees + Andrew Westerside, Proto-type create original performance work that is diverse in scale, subject and medium. Alongside lifting the veil on the Secret State in their first theatrical examination of contemporary politics (*A Machine they're Secretly Building* — at Word of Warning in [Spring 2017](/archive/2017-spring/proto-type)), this has included a two-week long theatrical experience using pervasive technologies (*Fortnight*), a multimedia concert-performance featuring animation and live laptop orchestra (*The Good, the God and the Guillotine* — at Word of Warning in [Spring 2014](/archive/2014-spring/prototype)), and a radio drama with the BBC.        
+more copy         
         
-Since 1997 they've made work and supported young artists in Armenia, China, France, the Netherlands, Russia, the UK, the US + Zimbabwe: founded in New York City by Peter S. Petralia (1997-2006), relocating to Lancaster's Storey Institute (2006-10), then Manchester's Northern Quarter (2010-14), and now Lincoln's Cathedral Quarter, they make and support work across the region.            
-          
-#### What people have said about them         
+#### Who is she        
+biog        
+       
+#### What people have said about her / *HHH*         
 >*Cracking intelligent, funny, new political theatre.<br>Terrifying,  overwhelming – a total highlight.*<br>Audience Feedback on work-in-progress of *The Audit*          
 >*…this smartly intelligent hour-long whizz through the world of surveillance, and the way governments legitimise spying on their citizens, makes you question what we mean by a terrorist and where the real threat lies.*<br><a href="http://www.theguardian.com/stage/2017/aug/27/a-machine-theyre-secretly-building-review-surveillance" target="_blank">★★★★ Lyn Gardner, The Guardian on *A Machine…*</a>.            
           
