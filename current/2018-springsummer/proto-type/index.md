@@ -5,9 +5,9 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Proto-type Theater" # the name of the artist or company
-show: "The Audit (or Iceland,<br> a modern myth)" # the name of the show
+show: "The Audit (or Iceland, a modern myth)" # the name of the show
 artist_size: 2
-show_size: 3
+show_size: 4
 header_image: "header_audit.jpg"    
 season: "Proto-type Theater 28|2|2018"
 
@@ -22,9 +22,7 @@ season: "Proto-type Theater 28|2|2018"
 #### In Brief      
 How a nation raised their voices in protest. And how collective power can move a mountain — even if only a little.       
         
-See their <a href="http://vimeo.com/228695396" target="_blank">trailer</a>.           
-        
-Now that it's over, read a review in <a href="http://www.thereviewshub.com/the-audit-the-lowry-salford" target="_blank">The Reviews Hub</a>.        
+See their <a href="http://vimeo.com/228695396" target="_blank">trailer</a>. Now that it's over, read a review in <a href="http://www.thereviewshub.com/the-audit-the-lowry-salford" target="_blank">The Reviews Hub</a>.        
         
 #### Venue + Booking Details           
 Date: Wednesday 28 February 2018, 8pm          
