@@ -22,8 +22,9 @@ season: "Proto-type Theater 28|2|2018"
 #### In Brief      
 How a nation raised their voices in protest. And how collective power can move a mountain — even if only a little.       
         
-See their <a href="http://vimeo.com/228695396" target="_blank">trailer</a>.
+See their <a href="http://vimeo.com/228695396" target="_blank">trailer</a>.           
         
+Now that it's over, read a review in <a href="http://www.thereviewshub.com/the-audit-the-lowry-salford" target="_blank">The Reviews Hub</a>.        
         
 #### Venue + Booking Details           
 Date: Wednesday 28 February 2018, 8pm          
