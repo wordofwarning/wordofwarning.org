@@ -20,7 +20,7 @@ season: "Proto-type Theater 28|2|2018"
 *Presented by* The Lowry + Word of Warning *as part of* <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF</a>           
          
 #### In Brief      
-How a nation raised their voices in protest. And how collective power can move a mountain — even if only a little.       
+How a nation raised their voices in protest.<br>And how collective power can move a mountain — even if only a little.       
         
 See their <a href="http://vimeo.com/228695396" target="_blank">trailer</a>. Now that it's over, read a review in <a href="http://www.thereviewshub.com/the-audit-the-lowry-salford" target="_blank">The Reviews Hub</a>.        
         
