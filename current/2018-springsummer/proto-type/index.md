@@ -22,9 +22,7 @@ season: "Proto-type Theater 28|2|2018"
 #### In Brief      
 How a nation raised their voices in protest.<br>And how collective power can move a mountain — even if only a little.       
         
-See their <a href="http://vimeo.com/228695396" target="_blank">trailer</a>.           
-        
-Now that it's over, read reviews by <a href="http://www.thereviewshub.com/the-audit-the-lowry-salford" target="_blank">The Reviews Hub</a>, <a href="http://liveartalive.com/2018/03/02/the-audit-or-iceland-a-modern-myth" target="_blank">Live Art Alive</a> + <a href="http://upstagedmanchester.com/2018/03/01/review-audit-lowry-salford/" target="_blank">Upstaged Manchester</a>.        
+See their <a href="http://vimeo.com/228695396" target="_blank">trailer</a>. And, now that it's over, read reviews by <a href="http://www.thereviewshub.com/the-audit-the-lowry-salford" target="_blank">The Reviews Hub</a>, <a href="http://liveartalive.com/2018/03/02/the-audit-or-iceland-a-modern-myth" target="_blank">Live Art Alive</a> + <a href="http://upstagedmanchester.com/2018/03/01/review-audit-lowry-salford/" target="_blank">Upstaged Manchester</a>.        
         
 #### Venue + Booking Details           
 Date: Wednesday 28 February 2018, 8pm          
