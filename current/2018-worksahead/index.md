@@ -20,17 +20,17 @@ season: "Works Ahead 17+18|5|2018"
 ---
 *Presented by* Word of Warning, Contact + STUN         
          
-### Thursday 17 + Friday 18 May 2018        
+### Thursday 17 + Friday 18 May 2018, 7.30pm        
 **Our annual sampler of new performance is a double-bill from Emma Geraghty & Vijay Patel?**             
             
 #### Venue + Booking Details        
-Dates: Thursday 17 + Friday 18 May 2018, 7.30pm?          
+Dates: Thursday 17 + Friday 18 May 2018, 7.30pm          
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
-Tickets: £7?/4? on sale in March?        
+Tickets: **available to buy in April** (*prices to be confirmed*)        
 Box Office Tel: 0161 232 6089 (Z-arts)         
           
 #### Access Information        
-Age advisory: 16+ (parental/guardian discretion). Duration: the double bill lasts up to 2 hours, including an interval. Both works largely spoken English; also music?. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
+Age advisory: 14+ (parental/guardian discretion). Duration: the double bill will last up to 2½ hours, including an interval (*running order tbc*). Both works largely spoken English; Emma Geraghty's also includes live music. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
 
 #### What people have said about Works Ahead        
 >*A cathartic, funny and brutally honest show about bodies, particles and the universe.*<br><a href="http://afronalysis.com/2017/05/14/review-superposition-stun" target="_blank">Afronalysis (2017 review)</a>           
