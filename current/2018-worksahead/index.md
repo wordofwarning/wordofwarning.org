@@ -21,13 +21,13 @@ season: "Works Ahead 17+18|5|2018"
 *Presented by* Word of Warning, Contact + STUN         
          
 ### Thursday 17 + Friday 18 May 2018, 7.30pm        
-Our annual sampler of new performance is a double-bill of new works in development from Emma Geraghty & Vijay Patel…             
+Our annual sampler of new performance is a double-bill of new works in development from Emma Geraghty + Vijay Patel…             
             
 #### Emma Geraghty       
 *Fat Girl Singing* is copy required…      
         
 #### Vijay Patel      
-The pulsing anxieties that occur within the Asperger's mind are unraveled; *Sometimes I Leave* explores that simple action, but problematic mental preparation, for leaving. It could be leaving something so simple.      
+The pulsing anxieties that occur within the Asperger's mind are unraveled — *Sometimes I Leave* explores the simple action to, but problematic mental preparation for, leaving. It could be leaving something so simple.      
       
 To get a feel for it, have a look at Works Ahead 2017's [programme](/archive/2017-worksahead).        
         
