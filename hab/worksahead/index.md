@@ -31,4 +31,4 @@ Our **[sixth Works Ahead](/archive/2017-worksahead)** took place in May 2017 wit
                  
 Our **seventh Works Ahead** takes place in May 2018, with participating artists and venues to be announced soon…               
               
-Works Ahead 2018 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England. | Project Mentor: Peader Kirk<br><a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
+Works Ahead 2018 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England. Project Mentor: Peader Kirk<br><a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
