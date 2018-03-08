@@ -21,12 +21,20 @@ season: "Works Ahead 17+18|5|2018"
 *Presented by* Word of Warning, Contact + STUN         
          
 ### Thursday 17 + Friday 18 May 2018, 7.30pm        
-**Our annual sampler of new performance is a double-bill from Emma Geraghty & Vijay Patel?**             
+**Our annual sampler of new performance is a double-bill of new works in development from Emma Geraghty & Vijay Patel…**             
             
+**Emma Geraghty | *Fat Girl Singing***        
+copy      
+        
+**Vijay Patel | *Sometimes I Leave***        
+copy        
+      
+To get a feel for it, have a look at Works Ahead 2017's [programme](/archive/2017-worksahead).        
+        
 #### Venue + Booking Details        
 Dates: Thursday 17 + Friday 18 May 2018, 7.30pm          
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
-Tickets: **available to buy in April** (*prices to be confirmed*)        
+Tickets: **available to buy in April (*prices to be confirmed*)**        
 Box Office Tel: 0161 232 6089 (Z-arts)         
           
 #### Access Information        
@@ -38,7 +46,7 @@ Age advisory: 14+ (parental/guardian discretion). Duration: the double bill will
 >• *Brilliant platform for emerging talent.<br>• Great to see new work by younger artists.<br>• Brilliant works in progress, varied and interesting.<br>• I enjoyed both shows even though they were very different. I look forward to seeing how they develop.*<br>[Audience feedback from 2017](/archive/2017-worksahead)/[16](/archive/2016-worksahead)/[15](/archive/2015-worksahead)          
           
 #### Credits         
-[Works Ahead](/hab/worksahead) 2018 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England.<br>Project Mentor: Peader Kirk        
+[Works Ahead](/hab/worksahead) 2018 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England. | Project Mentor: Peader Kirk        
         
 #### Websites         
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
