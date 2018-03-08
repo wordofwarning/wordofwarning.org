@@ -29,7 +29,6 @@ Our **[fifth Works Ahead](/archive/2016-worksahead)** took place in June 2016 at
           
 Our **[sixth Works Ahead](/archive/2017-worksahead)** took place in May 2017 with two nights in two venues featuring three artists: Tom Cassani + Toni-Dee Paul's double bill at Contact, and Chanje Kunda at STUN Studio at Z-arts… See their [image gallery](/galleries/2017-woah).                 
                  
-Our **seventh Works Ahead** will take place in May 2018, with participating artists and venues to be announced soon…               
+Our **seventh Works Ahead** takes place in May 2018, with participating artists and venues to be announced soon…               
               
-[Works Ahead 2017](/archive/2017-worksahead) was co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>; supported by <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England; funded by Manchester City Council.<br>Project Mentors: Matt Fenton + Peader Kirk          
-<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
+Works Ahead 2018 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England. | Project Mentor: Peader Kirk<br><a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
