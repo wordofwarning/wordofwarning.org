@@ -21,13 +21,13 @@ season: "Works Ahead 17+18|5|2018"
 *Presented by* Word of Warning, Contact + STUN         
          
 ### Thursday 17 + Friday 18 May 2018, 7.30pm        
-**Our annual sampler of new performance is a double-bill of new works in development from Emma Geraghty & Vijay Patel…**             
+Our annual sampler of new performance is a double-bill of new works in development from Emma Geraghty & Vijay Patel…             
             
-**Emma Geraghty | *Fat Girl Singing***        
-copy      
+#### Emma Geraghty       
+*Fat Girl Singing* is copy…      
         
-**Vijay Patel | *Sometimes I Leave***        
-copy        
+#### Vijay Patel      
+*Sometimes I Leave* is copy…         
       
 To get a feel for it, have a look at Works Ahead 2017's [programme](/archive/2017-worksahead).        
         
@@ -35,7 +35,7 @@ To get a feel for it, have a look at Works Ahead 2017's [programme](/archive/201
 Dates: Thursday 17 + Friday 18 May 2018, 7.30pm          
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
 Tickets: **available to buy in April (*prices to be confirmed*)**        
-Box Office Tel: 0161 232 6089 (Z-arts)         
+Box Office Tel: 0161 232 6089 (Z-arts: NB tickets not yet on-sale)         
           
 #### Access Information        
 Age advisory: 14+ (parental/guardian discretion). Duration: the double bill will last up to 2½ hours, including an interval (*running order tbc*). Both works largely spoken English; Emma Geraghty's also includes live music. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
