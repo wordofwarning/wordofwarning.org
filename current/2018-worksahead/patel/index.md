@@ -20,7 +20,7 @@ season: "Works Ahead — Vijay Patel 17+18|5|2018"
 *Presented by* Word of Warning, Contact + STUN *during* [Works Ahead 2018](/current/2018-worksahead)<br>A double bill with [Emma Geraghty](/current/2018-worksahead/geraghty)      
          
 #### In Brief                      
-The pulsing anxieties that occur within the Asperger's mind are unraveled…          
+The pulsating anxieties that occur within the Asperger's mind are unraveled…          
                
 #### Venues + Booking Details for Works Ahead        
 Dates: Thursday 17 + Friday 18 May 2018, 7.30pm          
