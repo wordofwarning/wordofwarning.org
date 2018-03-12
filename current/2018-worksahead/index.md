@@ -24,7 +24,7 @@ season: "Works Ahead 17+18|5|2018"
 Our annual sampler of new performance is a double-bill of new works in development from Emma Geraghty + Vijay Patel.             
             
 #### Emma Geraghty       
-*Fat Girl Singing* is copy required…      
+A girl, a guitar, and a message of hope… Sharing stories of her journey towards positivity and unapologetic defiance, *Fat Girl Singing* is an anthem of self-acceptance and a call to arms for those who simply don't fit the model.         
         
 #### Vijay Patel      
 The pulsing anxieties that occur within the Asperger's mind are unraveled… *Sometimes I Leave* explores the simple action to, but problematic mental preparation for, leaving. It could be leaving something so simple.      
