@@ -38,7 +38,7 @@ Tickets: **available to buy in April (*prices to be confirmed*)**
 Box Office Tel: 0161 232 6089 (Z-arts: NB tickets not yet on-sale)         
           
 #### Access Information        
-Age advisory: 14+ (parental/guardian discretion). Duration: the double bill will last up to 2½ hours, including an interval (*running order tbc*). Both works largely spoken English; Emma Geraghty's also includes live music. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
+Age advisory: 14+ (parental/guardian discretion). Duration: the double bill will last up to 2½ hours, including an interval (*running order tbc*). Both works largely spoken English; Emma's work also includes live music. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
 
 #### What people have said about Works Ahead        
 >*A cathartic, funny and brutally honest show about bodies, particles and the universe.*<br><a href="http://afronalysis.com/2017/05/14/review-superposition-stun" target="_blank">Afronalysis (2017 review)</a>           
