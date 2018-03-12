@@ -27,7 +27,7 @@ Our annual sampler of new performance is a double-bill of new works in developme
 A girl, a guitar, and a message of hope… Sharing stories of her journey towards positivity and unapologetic defiance, *Fat Girl Singing* is an anthem of self-acceptance and a call to arms for those who simply don't fit the model.         
         
 #### Vijay Patel      
-The pulsing anxieties that occur within the Asperger's mind are unraveled… *Sometimes I Leave* explores the simple action to, but problematic mental preparation for, leaving. It could be leaving something so simple.      
+The pulsating anxieties that occur within the Asperger's mind are unraveled… *Sometimes I Leave* explores the simple action of, but problematic mental preparation for, leaving. It could be leaving something so simple.      
       
 To get a feel for it, have a look at Works Ahead 2017's [programme](/archive/2017-worksahead).        
         
