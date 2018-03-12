@@ -32,7 +32,7 @@ Box Office Tel: 0161 232 6089 (Z-arts: NB tickets not yet on-sale)
 Age advisory: 14+ (parental/guardian discretion). Duration: the double bill will last up to 2½ hours, including an interval (running order tbc). Both works largely spoken English; Emma's work also includes live music. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.        
         
 #### More              
-*Fat Girl Singing* is an anthem of self-acceptance. Emma Geraghty shares stories of her journey towards positivity and unapologetic defiance. It's a girl, a guitar, and a message of hope – a live EP exploding the myths of the ‘body beautiful’ and a call to arms for those who simply don’t fit the model.
+Emma shares stories of her journey towards positivity and unapologetic defiance in a live EP that explodes the myths of the 'body beautiful'.          
           
 #### Who is she?             
 Emma is…        
