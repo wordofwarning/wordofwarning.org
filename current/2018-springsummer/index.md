@@ -7,9 +7,9 @@ is_index: true
 season: "S/S 2018"
 
 ---
-*In a break from the norm, Spring/Summer 2018 is less of a season and more a series of events popping up — so keep checking here, or <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail. We're taking this mini-break to allow for a bit of in-house stock-taking — fittingly therefore, our first offering is [The Audit](/current/2018-springsummer/proto-type), and will continue with some new Works Ahead…*        
+*In a break from the norm, Spring/Summer 2018 is less of a season and more a series of events popping up — so keep checking here, or <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail. We're taking this mini-break to allow for a bit of in-house stock-taking — fittingly therefore, our first offering is [The Audit](/current/2018-springsummer/proto-type), continues with two new [Works Ahead](/current/2018-worksahead), with more tba…*        
            
-Brought to you by hÅb — with The Lowry, Contact, STUN, and more partners tba — we look forward to seeing you at some or all of Spring/Summer 2018.<br>If you want to check out what happened last season take a look at our [Autumn/Winter 2017 archive](/archive/2017-autumnwinter), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=150658850013" target="_blank">online survey</a>.                 
+Brought to you by hÅb — with The Lowry, Contact, STUN — we look forward to seeing you at some or all of Spring/Summer 2018.<br>If you want to check out what happened last season take a look at our [Autumn/Winter 2017 archive](/archive/2017-autumnwinter), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=150658850013" target="_blank">online survey</a>.                 
              
 #### What is Word of Warning + where did it come from?         
 >*Consistently refreshing and surprising, no season is ever the same…*          
