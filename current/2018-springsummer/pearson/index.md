@@ -5,9 +5,9 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Deborah Pearson" # the name of the artist or company
-show: "History History History." # the name of the show
+show: "History History History" # the name of the show
 artist_size: 1
-show_size: 2
+show_size: 3
 header_image: "header_.jpg"    
 season: "Deborah Pearson 13|6|2018"
 
@@ -41,14 +41,17 @@ A documentary, performed live, the performance runs the length of and is timed a
 This is a show for lovers of cinema, and for anyone who has stared at pictures of their ancestors a little too long.         
         
 #### Who is she        
-biog        
+A live artist and playwright, Deborah Pearson's work has toured to four continents and fifteen countries, and has been translated into five languages; she recently published *The Future Show* with Oberon books. A founding co-director of UK artist collective Forest Fringe, Deborah has won awards for both her solo practice and her work with Forest Fringe — including three Herald angels, a Scotsman Fringe First, a Peter Brooke Empty Space Award, and the Total Theatre Award for Significant Contribution.           
+           
+An associate artist with Volcano in Canada, she was a resident artist for two years at Somerset House Studios with Caroline Williams and is now an associate artist at Somerset House Studios with Forest Fringe.        
        
 #### What people have said about *HHH*         
+>*The show’s poignant humanity, its bittersweet reflections on the relentlessness of time and its potent blend of uplifting possibility and heartrending pathos make for an enchanting 90 minutes.*<br><a href="http://www.thefixmagazine.com/history-history-history" target="_blank">★★★★★ The Fix Magazine</a>. 
 >*A roving and inventive presentation.*<br><a href="http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/flatpack-festival-birmingham-2017-nature-aquatic" target="_blank">Sight and Sound Magazine</a>.            
->*A roving and inventive presentation.*<br><a href="http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/flatpack-festival-birmingham-2017-nature-aquatic" target="_blank">★★★★★</a>.            
+           
           
 #### Credits          
-Dramaturgy by Daniel Kitson; outside eye work by Tania El Khoury + Laura Dannequin.<br> A House on Fire research + development commission with Theatre Garonne (Toulouse) + bit teatergarasjen (Bergen). Developed in part at the National Theatre Studio.          
+Dramaturgy by Daniel Kitson | Outside eye work by Tania El Khoury + Laura Dannequin.<br> A House on Fire research + development commission with Theatre Garonne (Toulouse) + bit teatergarasjen (Bergen). Developed in part at the National Theatre Studio.          
            
 #### Websites          
 <a href="http://deborahpearson123.wordpress.com/2016/02/24/history-history-history" target="_blank">deborahpearson.com</a> | <a href="http://twitter.com/shysecretagent" target="_blank">@shysecretagent</a> | <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF Wednesday</a>         
