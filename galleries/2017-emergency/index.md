@@ -1,5 +1,4 @@
 ---
-
 layout: fullscreengallery
 assetpath: "../../../"
 galleryimagespath: ""
