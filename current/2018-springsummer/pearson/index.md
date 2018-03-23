@@ -44,12 +44,10 @@ A live artist and playwright, Deborah Pearson's work has toured to four continen
 An associate artist with Volcano in Canada, she was a resident artist for two years at Somerset House Studios with Caroline Williams and is now an associate artist at Somerset House Studios with Forest Fringe.        
        
 #### What people have said about *HHH*         
->*The show’s poignant humanity, its bittersweet reflections on the relentlessness of time and its potent blend of uplifting possibility and heartrending pathos make for an enchanting 90 minutes.*<br><a href="http://www.thefixmagazine.com/history-history-history" target="_blank">★★★★★ The Fix Magazine</a>. 
->*A roving and inventive presentation.*<br><a href="http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/flatpack-festival-birmingham-2017-nature-aquatic" target="_blank">Sight and Sound Magazine</a>.            
-           
+>*The show’s poignant humanity, its bittersweet reflections on the relentlessness of time and its potent blend of uplifting possibility and heartrending pathos make for an enchanting 90 minutes.*<br><a href="http://www.thefixmagazine.com/history-history-history" target="_blank">★★★★★ The Fix Magazine</a><br>*A roving and inventive presentation.*<br><a href="http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/flatpack-festival-birmingham-2017-nature-aquatic" target="_blank">Sight and Sound Magazine</a>            
           
 #### Credits          
-Dramaturgy by Daniel Kitson | Outside eye work by Tania El Khoury + Laura Dannequin.<br>A House on Fire commission with Culture Europe, co-produced by Theatre Garonne (Toulouse, France) + bit teatergarasjen (Bergen, Norway). Developed in part at the National Theatre Studio.          
+Dramaturgy by Daniel Kitson.<br>Outside eye work by Tania El Khoury + Laura Dannequin.<br>A House on Fire commission with Culture Europe, co-produced by Theatre Garonne (Toulouse, France) + bit teatergarasjen (Bergen, Norway).<br>Developed in part at the National Theatre Studio.          
            
 #### Websites          
 <a href="http://deborahpearson123.wordpress.com/2016/02/24/history-history-history" target="_blank">deborahpearson.com</a> | <a href="http://twitter.com/shysecretagent" target="_blank">@shysecretagent</a> | <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF Wednesday</a>         
