@@ -20,7 +20,7 @@ season: "Deborah Pearson 13|6|2018"
 *Presented by* The Lowry + Word of Warning *as part of* <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF</a>           
          
 #### In Brief      
-A documentary, performed live
+How a 1950s Soviet-sponsored sports comedy became tied to a political uprising that made a mark on world history. 
          
 <iframe src="http://player.vimeo.com/video/166492282" width="640" height="360" frameborder="0" allowfullscreen></iframe>         
         
@@ -31,14 +31,12 @@ Date: Wednesday 13 June 2018, 8pm
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
-Age advisory: ??+ (parental/guardian discretion). With no interval, the show lasts approximately ? hour. Features a combination of spoken text, composed sound + film. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: ***TBC*** (parental/guardian discretion). With no interval, the show lasts approximately ***TBC*** minutes. Features a combination of spoken text, composed sound + film ***TBC***. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
 In 1956, there was a popular uprising against the USSR in Hungary. The battle was fought primarily from the Corvin Cinema, and the uprising lead to one of the largest refugee crises of the twentieth century. In a live commentary screening of a 1956 comedy about football, scheduled to premiere at the Corvin Cinema the week of the uprising, Deborah Pearson unlocks a surprisingly personal story.        
-        
-A documentary, performed live, the performance runs the length of and is timed alongside the film, using interviews with the exiled screenwriter and people involved with the film to playfully reflect on immigration, suppression, and our personal links with history.        
-        
-This is a show for lovers of cinema, and for anyone who has stared at pictures of their ancestors a little too long.         
+
+Using the film as material, Pearson creates a live documentary onstage. Her words form a counterpoint to the movie, fusing the political, the historical and the achingly personal. Riveting, haunting and ultimately inspiring, this is a show for lovers of cinema, and for anyone who has stared at pictures of their ancestors a little too long.         
         
 #### Who is she        
 A live artist and playwright, Deborah Pearson's work has toured to four continents and fifteen countries, and has been translated into five languages; she recently published *The Future Show* with Oberon books. A founding co-director of UK artist collective Forest Fringe, Deborah has won awards for both her solo practice and her work with Forest Fringe — including three Herald angels, a Scotsman Fringe First, a Peter Brooke Empty Space Award, and the Total Theatre Award for Significant Contribution.           
@@ -51,7 +49,7 @@ An associate artist with Volcano in Canada, she was a resident artist for two ye
            
           
 #### Credits          
-Dramaturgy by Daniel Kitson | Outside eye work by Tania El Khoury + Laura Dannequin.<br> A House on Fire research + development commission with Theatre Garonne (Toulouse) + bit teatergarasjen (Bergen). Developed in part at the National Theatre Studio.          
+Dramaturgy by Daniel Kitson | Outside eye work by Tania El Khoury + Laura Dannequin.<br>A House on Fire commission with Culture Europe, co-produced by Theatre Garonne (Toulouse, France) + bit teatergarasjen (Bergen, Norway). Developed in part at the National Theatre Studio.          
            
 #### Websites          
 <a href="http://deborahpearson123.wordpress.com/2016/02/24/history-history-history" target="_blank">deborahpearson.com</a> | <a href="http://twitter.com/shysecretagent" target="_blank">@shysecretagent</a> | <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF Wednesday</a>         
