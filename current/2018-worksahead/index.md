@@ -31,6 +31,8 @@ The pulsating anxieties that occur within the Asperger's mind are unraveled… *
       
 To get a feel for it, have a look at Works Ahead 2017's [programme](/archive/2017-worksahead).        
         
+Works Ahead is also seed-commissioning Jamal Gerald's *Complexion* — exploring the historic experiences of the house and the field slaves; and drawing a parallel with contemporary pop culture and attitudes to race. Being developed in partnership with Transform in Leeds, look out for a low key interaction at Works Ahead 2018 (*tba here*).        
+        
 #### Venue + Booking Details        
 Dates: Thursday 17 + Friday 18 May 2018, 7.30pm          
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
