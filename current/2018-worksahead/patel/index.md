@@ -8,7 +8,7 @@ artist: "Vijay Patel"
 show: "Sometimes I Leave"
 artist_size: 1
 show_size: 3
-header_image: ""
+header_image: "header_vijay.jpg"
 season: "Works Ahead — Vijay Patel 17+18|5|2018"
 
 # ABOUT THE SHOW - LAYOUT

@@ -8,7 +8,7 @@ artist: "Emma Geraghty"
 show: "Fat Girl Singing"
 artist_size: 1
 show_size: 2
-header_image: ""
+header_image: "header_emma.jpg"
 season: "Works Ahead — Emma Geraghty 17+18|5|2018"
 
 # ABOUT THE SHOW - LAYOUT
