@@ -21,4 +21,4 @@ hÅb also works as a curator of sited performance and intervention presenting [H
         
 In any given year, hÅb might work with 200 artists, present 2 platforms, 1 sited festival and show over 100 pieces of work (under the guise of [Word of Warning](/index)).      
          
-hÅb is supported using public funding by Arts Council England + funded by Manchester City Council.
+hÅb is supported using public funding by Arts Council England.
