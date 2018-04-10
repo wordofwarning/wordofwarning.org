@@ -1,11 +1,10 @@
 ---
-
 # CONFIGURATION
 layout: hab # the season or event-specific template in /_layouts
-rootpath: "../../../"
+rootpath: "../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Privacy Policy" # the name of the artist or company
+artist: "Word of Warning's Privacy Policy" # the name of the artist or company
 header_image: ""    
 season: "Privacy Policy" 
 
