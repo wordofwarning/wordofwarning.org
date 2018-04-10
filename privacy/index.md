@@ -5,7 +5,7 @@ rootpath: "../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Word of Warning's Privacy Policy" # the name of the artist or company
-header_image: ""    
+header_image:   
 season: "Privacy Policy" 
 
 # ABOUT THE SHOW - LAYOUT
