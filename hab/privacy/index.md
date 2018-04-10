@@ -7,7 +7,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Privacy Policy" # the name of the artist or company
 header_image: ""    
-season: "hÅb Privacy Policy" 
+season: "Privacy Policy" 
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
