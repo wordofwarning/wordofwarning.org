@@ -27,11 +27,11 @@ How a 1950s Soviet-sponsored sports comedy became tied to a political uprising t
 #### Venue + Booking Details           
 Date: Wednesday 13 June 2018, 8pm          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-<a href="http://www.thelowry.com/performances/?/seat-map" target="_blank">Tickets: available to reserve from Friday 18 May</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
+Tickets: available to reserve from Friday 18 May, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
-Age advisory: ***TBC*** (parental/guardian discretion). With no interval, the show lasts approximately ***TBC*** minutes. Features a combination of spoken text, composed sound + film ***TBC***. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: *TBC* (parental/guardian discretion). With no interval, the show lasts approximately *TBC* minutes. Features a combination of spoken text, composed sound + film (*TBC*). For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
 In 1956, there was a popular uprising against the USSR in Hungary. The battle was fought primarily from the Corvin Cinema, and the uprising lead to one of the largest refugee crises of the twentieth century. In a live commentary screening of a 1956 comedy about football, scheduled to premiere at the Corvin Cinema the week of the uprising, Deborah Pearson unlocks a surprisingly personal story.        
