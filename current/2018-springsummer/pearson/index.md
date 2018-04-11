@@ -27,7 +27,7 @@ How a 1950s Soviet-sponsored sports comedy became tied to a political uprising t
 #### Venue + Booking Details           
 Date: Wednesday 13 June 2018, 8pm          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-Tickets: available to reserve from Friday 18 May, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
+Tickets: available to reserve from Wednesday 16 May, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
