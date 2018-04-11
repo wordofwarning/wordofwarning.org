@@ -1,12 +1,12 @@
 ---
 # CONFIGURATION
-layout: home # the season or event-specific template in /_layouts
-rootpath: "../"
+layout: hab # the season or event-specific template in /_layouts
+rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Word of Warning's Privacy Policy" # the name of the artist or company
+artist: "hÅb's Privacy Policy" # the name of the artist or company
 header_image:   
-season: "Privacy Policy" 
+season: "hÅb's Privacy Policy" 
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
