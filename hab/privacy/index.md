@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: hab # the season or event-specific template in /_layouts
+layout: homehab # the season or event-specific template in /_layouts
 rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -11,7 +11,7 @@ season: "hÅb's Privacy Policy"
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 # show_size: 2 # optional - size of show name 2-5. Default is 2. Set longer names to lower values
-# header_image: "header.jpg" # optional custom background image, relative to current page
+# header_image: "" # optional custom background image, relative to current page
 
 ---
 **Please note this privacy policy is for [hÅb](/hab) clients (e.g. artists, partners) — if you are a [Word of Warning](/) audience member and/or [Weekly Warning](http://wordofwarning.posthaven.com) subscriber, please see [Word of Warning's Privacy Policy](/privacy).**           
