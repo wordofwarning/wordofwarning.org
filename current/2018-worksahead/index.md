@@ -36,8 +36,8 @@ Works Ahead is also seed-commissioning Jamal Gerald's *Complexion* — exploring
 #### Venue + Booking Details        
 Dates: Thursday 17 + Friday 18 May 2018, 7.30pm          
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
-Tickets: **available to buy in April (*prices to be confirmed*)**        
-Box Office Tel: 0161 232 6089 (Z-arts: NB tickets not yet on-sale)         
+<a href="http://z-arts.ticketsolve.com/shows/873587693/events/128137713" target="_blank">Tickets: £7/4</a> (NB Z-arts charge a 5% online booking fee)        
+Box Office Tel: 0161 232 6089 (Z-arts)         
           
 #### Access Information        
 Age advisory: 14+ (parental/guardian discretion). Duration: the double bill will last up to 2½ hours, including an interval (*running order tbc*). Both works largely spoken English; Emma's work also includes live music. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.          
