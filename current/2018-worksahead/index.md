@@ -29,14 +29,14 @@ A girl, a guitar, and a message of hope… Sharing stories of her journey toward
 #### Vijay Patel      
 The pulsating anxieties that occur within the Asperger's mind are unraveled… *Sometimes I Leave* explores the simple action of, but problematic mental preparation for, leaving. It could be leaving something so simple.      
       
-To get a feel for it, have a look at Works Ahead 2017's [programme](/archive/2017-worksahead).        
+To get a feel for it, have a look at [Works Ahead 2017's programme](/archive/2017-worksahead).        
         
 Works Ahead is also seed-commissioning Jamal Gerald's *Complexion* — exploring the historic experiences of the house and the field slaves; and drawing a parallel with contemporary pop culture and attitudes to race. Being developed in partnership with Transform in Leeds, look out for a low key interaction.        
         
 #### Venue + Booking Details        
 Dates: Thursday 17 + Friday 18 May 2018, 7.30pm          
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
-<a href="http://z-arts.ticketsolve.com/shows/873587693/events/128137713" target="_blank">Tickets: £7/4</a> (NB Z-arts charge a 5% online booking fee)        
+<a href="http://z-arts.ticketsolve.com/shows/873587693/events/128137713" target="_blank">Tickets: £7/4</a> *Z-arts charge a 5% transaction fee for online + telephone bookings*        
 Box Office Tel: 0161 232 6089 (Z-arts)         
           
 #### Access Information        
