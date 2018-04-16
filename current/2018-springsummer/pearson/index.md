@@ -27,7 +27,7 @@ How a 1950s Soviet-sponsored sports comedy became tied to a political uprising t
 #### Venue + Booking Details           
 Date: Wednesday 13 June 2018, 8pm          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-Tickets: available to reserve from Wednesday 16 May, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
+<a href="http://www.thelowry.com/events/wtf-wed-history-history-history" target="_blank">Tickets: available to reserve from Wednesday 16 May</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
@@ -45,7 +45,7 @@ An associate artist with Volcano in Canada, she was a resident artist for two ye
        
 #### What people have said about *HHH*         
 >*The show’s poignant humanity, its bittersweet reflections on the relentlessness of time and its potent blend of uplifting possibility and heartrending pathos make for an enchanting 90 minutes.*<br><a href="http://www.thefixmagazine.com/history-history-history" target="_blank">★★★★★ The Fix Magazine</a><br>*A roving and inventive presentation.*<br><a href="http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/flatpack-festival-birmingham-2017-nature-aquatic" target="_blank">Sight and Sound Magazine</a>            
-          
+        
 #### Credits          
 Dramaturgy by Daniel Kitson.<br>Outside eye work by Tania El Khoury + Laura Dannequin.<br>A House on Fire commission with Culture Europe, co-produced by Theatre Garonne (Toulouse, France) + bit teatergarasjen (Bergen, Norway).<br>Developed in part at the National Theatre Studio.          
            
