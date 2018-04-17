@@ -25,5 +25,5 @@ OR: to <a href="http://groups.yahoo.com/group/emergencynw" target="_blank">join 
 Other mailing lists that you (as an artist) may find useful to join are:         
 • <a href="http://www.artsjobs.org.uk/subscribe" target="_blank">Arts Jobs & Arts News from Arts Council England</a>        
 • <a href="http://www.liveartuk.org/pages/sign-up" target="_blank">Live Art UK</a>         
-• <a href="http://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=LIVEART" target="_blank">LIVEART from JISCmail</a>
+• <a href="http://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=LIVEART" target="_blank">LIVEART from JISCmail</a>         
 • <a href="http://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=SCUDD" target="_blank">SCUDD (Standing Conference of University Drama Departments) from JISCmail</a>
