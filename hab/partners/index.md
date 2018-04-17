@@ -1,5 +1,4 @@
 ---
-
 # CONFIGURATION
 layout: hab # the season or event-specific template in /_layouts
 rootpath: "../../../"
@@ -17,44 +16,12 @@ season: "hÅb Partners"
 ---
 hÅb can only function in partnership with a host of other organisations + networks, some of whom are linked to below.          
          
-hÅb is supported using public funding by [Arts Council England](http://www.artscouncil.org.uk), and is a member of [Live Art UK](http://www.liveartuk.org) — a national network, supporting + developing the UK's Live Art infrastructure for the benefit of artists, presenters + audiences.        
+A member of <a href="http://www.liveartuk.org" target="_blank">Live Art UK</a> — a national network supporting + developing the UK's Live Art infrastructure for the benefit of artists, presenters + audiences — hÅb is supported using public funding by <a href="http://www.artscouncil.org.uk/NPO" target="_blank">Arts Council England</a>.           
          
 We are pleased to count among our other friends + regular partners:         
-[Arden School of Theatre (The Manchester College)](http://www.themanchestercollege.ac.uk/subject-area/arden)         
-[Artsadmin](http://www.artsadmin.co.uk)                
-[Axis Arts Centre (MMU Cheshire)](http://www.axisartscentre.org.uk)        
-[Chanje Kunda](http://www.chanjekunda.com)         
-[Compass Live Art](http://compassliveart.org.uk)        
-[Contact](http://contactmcr.com) — Turn + Works Ahead partners.        
-[Contemporary Theatre + Performance, UCLan](http://www.uclan.ac.uk/information/courses/ba_hons_contemporary_theatre_and_performance.php)       
-[Contemporary Practices, University of Salford](http://www.salford.ac.uk/courses/performance-contemporary-practices?mode=ov)    
-[Dance Manchester](http://www.dancemanchester.org)         
-[Darren Pritchard Dance](http://darrenpritcharddance.com)       
-[DERELICT](http://www.derelictlive.org)        
-[Divergency](http://www.divergencymcr.org)       
-[Flare](http://www.flarefestival.com)        
-[HOME](http://homemcr.org)        
-[In Between Time](http://inbetweentime.co.uk)         
-[Live Art Development Agency (LADA)](http://www.thisisliveart.co.uk)             
-[Lancaster Arts at Lancaster University](http://www.lancasterarts.org)          
-[Making Room](http://making-room.co.uk)               
-[Michael Pinchbeck](http://michaelpinchbeck.co.uk)         
-[MKULTRA](http://www.mkultra.org.uk)        
-[PANDA (performing arts network + development agency)](http://www.panda-arts.org.uk)        
-[Pigeon Theatre](http://pigeontheatre.wordpress.com)         
-[Proto-type Theater](http://proto-type.org)        
-[Quarantine](http://www.qtine.com)       
-[Reckless Sleepers](http://www.reckless-sleepers.co.uk)          
-[Royal Exchange Theatre](http://www.royalexchange.co.uk)         
-[STUN (Sustained Theatre Up North)](http://stunlive.com) — Divergency partners.         
-[The Guinness Partnership](http://www.guinnesspartnership.com/about-us/news/tgp/2015/september/matthias-court-production#.VgFCXXmFPGg) — Domestic partners.        
-[The Larks (formerly Larkin' About)](http://www.the-larks.com) — resident gamers.        
-[The Lowry](http://www.thelowry.com) — WTF programme partners.         
-[the Whitworth](http://www.whitworth.manchester.ac.uk)          
-[Two Destination Language](http://www.twodestinationlanguage.com)          
-[Work for Change](http://change.coop)         
-[Z-arts](http://www.z-arts.org) — Haphazard partners, and where we're based in Hulme.       
+<a href="http://www.themanchestercollege.ac.uk/subject-area/arden" target="_blank">Arden School of Theatre (The Manchester College)</a>         
+<a href="http://www.artsadmin.co.uk" target="_blank">Artsadmin</a><br><a href="http://www.axisartscentre.org.uk" target="_blank">Axis Arts Centre (MMU Cheshire)</a><br><a href="http://www.chanjekunda.com" target="_blank">Chanje Kunda</a><br><a href="http://compassliveart.org.uk" target="_blank">Compass Live Art</a><br><a href="http://contactmcr.com" target="_blank">Contact</a> — Turn + Works Ahead partners.<br><a href="http://www.uclan.ac.uk/information/courses/ba_hons_contemporary_theatre_and_performance.php" target="_blank">Contemporary Theatre + Performance, UCLan</a><br><a href="http://www.salford.ac.uk/courses/performance-contemporary-practices?mode=ov" target="_blank">Contemporary Practices, University of Salford</a><br><a href="http://darrenpritcharddance.com" target="_blank">Darren Pritchard Dance</a><br><a href="http://www.derelictlive.org" target="_blank">DERELICT Live</a><br><a href="http://www.divergencymcr.org" target="_blank">Divergency</a><br><a href="http://www.flarefestival.com" target="_blank">Flare</a><br><a href="http://homemcr.org" target="_blank">HOME</a><br><a href="http://inbetweentime.co.uk" target="_blank">In Between Time</a><br><a href="http://www.thisisliveart.co.uk" target="_blank">Live Art Development Agency (LADA)</a><br><a href="http://www.lancasterarts.org" target="_blank">Lancaster Arts at Lancaster University</a><br><a href="http://making-room.co.uk" target="_blank">Making Room</a><br><a href="http://michaelpinchbeck.co.uk" target="_blank">Michael Pinchbeck</a><br><a href="http://www.mkultra.org.uk" target="_blank">MKULTRA</a><br><a href="http://www.panda-arts.org.uk" target="_blank">PANDA (performing arts network + development agency)</a><br><a href="http://pigeontheatre.wordpress.com" target="_blank">Pigeon Theatre</a><br><a href="http://proto-type.org" target="_blank">Proto-type Theater</a><br><a href="http://www.qtine.com" target="_blank">Quarantine</a><br><a href="http://www.reckless-sleepers.co.uk" target="_blank">Reckless Sleepers</a><br><a href="http://www.royalexchange.co.uk" target="_blank">Royal Exchange Theatre</a><br><a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a> — Divergency partners.<br><a href="http://www.guinnesspartnership.com/aboutus/news/tgp/2015/september/matthias-court-production#.VgFCXXmFPGg" target="_blank">The Guinness Partnership</a> — Domestic partners.<br><a href="http://www.the-larks.com" target="_blank">The Larks (formerly Larkin' About)</a> — resident gamers.<br><a href="http://www.thelowry.com" target="_blank">The Lowry</a> — WTF programme partners.<br><a href="http://www.whitworth.manchester.ac.uk" target="_blank">the Whitworth</a><br><a href="http://www.twodestinationlanguage.com" target="_blank">Two Destination Language</a><br><a href="http://change.coop" target="_blank">Work for Change</a><br><a href="http://www.z-arts.org" target="_blank">Z-arts</a> — Haphazard partners, and where we're based in Hulme.        
           
-In 2012 we were pleased to partner with Live at LICA (now known as Lancaster Arts) to produce the [*Getting It Out There*](http://www.liveatlica.org/whats-on/symposium-getting-it-out-there) symposium on touring; a **free** publication produced with the Live Art Development Agency following the event can be downloaded [here](http://habmcr.posthaven.com/getting-it-out-there-publication-free-to-down).              
+In 2012 we were pleased to partner with Live at LICA (now known as Lancaster Arts) to produce the *<a href="http://URL" target="_blank">Getting It Out Therehttp://www.liveatlica.org/whats-on/symposium-getting-it-out-there) * symposium on touring; a **free** publication produced with the Live Art Development Agency following the event can be downloaded <a href="http://habmcr.posthaven.com/getting-it-out-there-publication-free-to-down" target="_blank">here</a>        
           
 <small>From April 2012 to March 2016 hÅb was funded by Manchester City Council through the Manchester Cultural Partnership.</small>
