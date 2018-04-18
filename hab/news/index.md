@@ -11,7 +11,7 @@ season: "hÅb News + Opportunities"
           
 Essentially industry-facing, hÅb works with [artists, colleagues and venues](/hab/partners) to create the best possible opportunities for new work to flourish, and is a  member of <a href="http://www.liveartuk.org" target="_blank">Live Art UK</a> — a national network supporting + developing the UK's Live Art infrastructure for the benefit of artists, presenters + audiences.         
           
-Upcoming artist opportunities from hÅb are published here when we have them; you may also find it useful to join these mailing lists to discover opportunities:         
+Upcoming artist opportunities from hÅb are published below when we have them; you may also find it useful to join these mailing lists:         
 • [EmergencyNW e-group: our own artist mailing list](/hab/emergencynw)        
 • <a href="http://www.artsjobs.org.uk/subscribe" target="_blank">Arts Jobs & Arts News from Arts Council England</a>        
 • <a href="http://www.liveartuk.org/pages/sign-up" target="_blank">Live Art UK</a>         
