@@ -1,5 +1,4 @@
 ---
-
 # CONFIGURATION
 layout: hab
 rootpath: "../../"
@@ -9,7 +8,7 @@ season: "hÅb homepage"
 ---
 ### Stimulating… extraordinary… performance…   
         
-Based in Manchester, hÅb is a producer, developer and strategic advocate of contemporary performance, live art and sited work in the North of England. greenroom's key partner for over a decade, hÅb aims to maintain its legacy, working in collaboration with a range of venues to produce showing opportunities, platforms + artist development projects like [Divergency](/hab/divergencymcr), [Emergency](/hab/emergency), [Foot In The Door](/hab/footinthedoor), [Haphazard](/hab/haphazard), [Hazard](/hab/hazard) + [Works Ahead](/hab/worksahead).         
+Based in Manchester, hÅb is a producer, developer + strategic advocate of contemporary performance, live art + sited work in the North of England. greenroom's key partner for over a decade, hÅb aims to maintain its legacy — working in collaboration with a range of [venues + other partners](/hab/partners) to produce showing [opportunities](/hab/news), platforms + artist development projects like [Divergency](/hab/divergencymcr), [Emergency](/hab/emergency), [Foot In The Door](/hab/footinthedoor), [Haphazard](/hab/haphazard), [Hazard](/hab/hazard) + [Works Ahead](/hab/worksahead).         
           
 Essentially industry-facing, hÅb works with [artists, colleagues and venues](/hab/partners) to create the best possible opportunities for new work to flourish. A member of <a href="http://www.liveartuk.org" target="_blank">Live Art UK</a> — a national network supporting + developing the UK's Live Art infrastructure for the benefit of artists, presenters + audiences — hÅb is supported using public funding by <a href="http://www.artscouncil.org.uk/NPO" target="_blank">Arts Council England</a>.          
         
