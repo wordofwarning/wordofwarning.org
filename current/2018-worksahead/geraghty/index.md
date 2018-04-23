@@ -17,7 +17,7 @@ season: "Works Ahead — Emma Geraghty 17+18|5|2018"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, Contact + STUN *during* [Works Ahead 2018](/current/2018-worksahead)<br>A double bill with [Vijay Patel](/current/2018-worksahead/patel)      
+*Presented by* Word of Warning, Contact + STUN *during* [Works Ahead 2018](/current/2018-worksahead) *in a double bill with* [Vijay Patel](/current/2018-worksahead/patel)      
          
 #### In Brief                      
 A girl, a guitar, and a message of hope.         
@@ -39,11 +39,11 @@ Fat is never a Good Thing.<br>Fat is bad, fat is unhealthy, fat is unattractive.
 #### Who is she?             
 Emma Geraghty is a writer, director, and performer. Her solo work in theatre and writing focuses on body positivity and representations of queerness, and she explores contemporary politics through different theatrical styles with the award-winning company Powder Keg.        
           
-#### What people have said about *FGS*         
->*It's Geraghty’s raw honesty that gives it bite …a smartly subversive act.*<br><a href="http://circlesandstalls.wordpress.com/2017/10/01/emergency-2017" target="_blank">Circles and Stalls</a>         
+#### What people have said about *Fat Girl Singing*        
+>*It's Geraghty’s raw honesty that gives it bite … a smartly subversive act.*<br><a href="http://circlesandstalls.wordpress.com/2017/10/01/emergency-2017" target="_blank">Circles and Stalls</a>         
            
 #### Credits     
-Director: Megan Marie Griffith | Dramaturgs: Toni-Dee Paul + Lauren Davidson | Producer: Josh Coates<br>*Fat Girl Singing* is supported by the Royal Exchange Theatre + The Dukes (Lancaster); supported using public funding by the National Lottery through Arts Council England.         
+Director: Megan Marie Griffith | Dramaturgs: Toni-Dee Paul + Lauren Davidson | Producer: Josh Coates<br>*Fat Girl Singing* supported by Royal Exchange Theatre + The Dukes (Lancaster); supported using public funding by the National Lottery through Arts Council England.         
 [Works Ahead](/hab/worksahead) 2018 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England. Project Mentor: Peader Kirk     
         
 #### Websites         
