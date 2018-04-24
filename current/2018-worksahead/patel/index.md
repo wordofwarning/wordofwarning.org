@@ -20,7 +20,7 @@ season: "Works Ahead — Vijay Patel 17+18|5|2018"
 *Presented by* Word of Warning, Contact + STUN *in a double bill with* [Emma Geraghty](/current/2018-worksahead/geraghty) *during* [Works Ahead 2018](/current/2018-worksahead)      
          
 #### In Brief                      
-The pulsating anxieties that occur within the Asperger's mind are unraveled…          
+*How do we leave? Why do we leave? Should we leave? Can we leave?*<br>At that point in a conversation when it all gets too much, are we more worried about the thought of leaving than the action itself?<br>*Sometimes I Leave* unravels the inner workings of the Asperger's mind — before making a dash for the door…          
                
 #### Venues + Booking Details for Works Ahead        
 Dates: Thursday 17 + Friday 18 May 2018, 7.30pm          
@@ -32,16 +32,18 @@ Box Office Tel: 0161 232 6089 (Z-arts)
 Age advisory: 14+ (parental/guardian discretion). Duration: the double bill will last up to 2½ hours, including an interval (*running order tbc*). Both works largely spoken English; Emma's work also includes bad language + live music. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.        
         
 #### More              
-Exploring the simple action to, but problematic mental preparation for, leaving. It could be leaving something so simple.          
-          
+At the turn of the millennium, Vijay was diagnosed with Asperger's syndrome (a form of autism). In a time where the diagnosis was new, he went through courses of prescribed drugs in order for him to cope in the 'real' world. Almost 20 years later, he's decided to make a show about it…        
+        
+*Sometimes I Leave* is a performance, a respite, which navigates the point within a conversation context when it all gets too much. How do we leave this context? Why do we leave this context? And maybe there are more inner anxieties about the thought of leaving than actually doing it. He's often been accused of saying the wrong thing, looking at people the wrong way and navigating his Asperger's mind as an adult.         
+        
 #### Who is he?             
-Vijay is…        
+A London-based performance artist, Vijay Patel crosses forms from live art, performance, cabaret, and installation. The work he makes predominantly surrounds cultural identity, making political points about this within the contemporary condition. His earlier performances have previously dealt with the complexities of being of mixed Indian/British heritage, gender, sexuality, and the crossover between these subjects. Vijay is currently interested in exploring his Asperger's identity, further research on disability studies, and how he can communicate this to a wider audience.        
           
 #### What people have said about him         
->*…copy.*<br><a href="http://" target="_blank">Where, on *what*</a>        
+>*An engaging, exciting and charming performance artist. His work is funny, poignant, fearlessly personal, and current. He makes the political palatable and uses pop-culture references to inform his work and turn them on their head in a surprising and entertaining way.* — Sh!t Theatre<br>*Vijay Patel is a dynamic young artist exploring the contemporary condition with humour, pathos and heart. Mark him as one to watch.* — Simon Casson, Duckie        
            
 #### Credits     
-
+Supported by VFD (Nicol Parkinson + Phoebe Patey-Ferguson) + Theatre Delicatessen           
 [Works Ahead](/hab/worksahead) 2018 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England. Project Mentor: Peader Kirk     
         
 #### Websites         
