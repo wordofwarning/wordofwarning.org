@@ -17,7 +17,7 @@ season: "Works Ahead — Vijay Patel 17+18|5|2018"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, Contact + STUN<br>*Part of* [Works Ahead 2018](/current/2018-worksahead)*in a double bill with* [Emma Geraghty](/current/2018-worksahead/geraghty)       
+*Presented by* Word of Warning, Contact + STUN<br>*Part of* [Works Ahead 2018](/current/2018-worksahead) *in a double bill with* [Emma Geraghty](/current/2018-worksahead/geraghty)       
          
 #### In Brief                      
 *How do we leave? Why do we leave? Should we leave? Can we leave?*<br>At that point in a conversation when it all gets too much, are we more worried about the thought of leaving than the action itself?<br>*Sometimes I Leave* unravels the inner workings of the Asperger's mind — before making a dash for the door…          
