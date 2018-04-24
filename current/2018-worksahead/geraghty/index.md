@@ -17,7 +17,7 @@ season: "Works Ahead — Emma Geraghty 17+18|5|2018"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, Contact + STUN *in a double bill with* [Vijay Patel](/current/2018-worksahead/patel) *during* [Works Ahead 2018](/current/2018-worksahead)       
+*Presented by* Word of Warning, Contact + STUN<br>*Part of* [Works Ahead 2018](/current/2018-worksahead) *in a double bill with* [Vijay Patel](/current/2018-worksahead/patel)       
          
 #### In Brief                      
 A girl, a guitar, and a message of hope.         
@@ -43,8 +43,7 @@ Emma Geraghty is a writer, director, and performer. Her solo work in theatre and
 >*It's Geraghty’s raw honesty that gives it bite … a smartly subversive act.*<br><a href="http://circlesandstalls.wordpress.com/2017/10/01/emergency-2017" target="_blank">Circles and Stalls</a>         
            
 #### Credits     
-Director: Megan Marie Griffith | Dramaturgs: Toni-Dee Paul, Lauren Davidson | Producer: Josh Coates<br>*Fat Girl Singing* is supported by Royal Exchange Theatre + The Dukes (Lancaster); supported using public funding by the National Lottery through Arts Council England.         
-[Works Ahead](/hab/worksahead) 2018 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England. Project Mentor: Peader Kirk     
+Director: Megan Marie Griffith | Dramaturgy: Toni-Dee Paul, Lauren Davidson | Producer: Josh Coates<br>*Fat Girl Singing* is supported by Royal Exchange Theatre + The Dukes (Lancaster); supported using public funding by the National Lottery through Arts Council England.<br>[Works Ahead](/hab/worksahead) 2018 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England. Project Mentor: Peader Kirk     
         
 #### Websites         
 <a href="http://voicesofwonder.wordpress.com" target="_blank">voicesofwonder.wordpress.com</a> | <a href="http://twitter.com/patchworkduck" target="_blank">@patchworkduck</a><br><a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
