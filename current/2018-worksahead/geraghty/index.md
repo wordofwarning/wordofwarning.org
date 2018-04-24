@@ -20,7 +20,7 @@ season: "Works Ahead — Emma Geraghty 17+18|5|2018"
 *Presented by* Word of Warning, Contact + STUN<br>*Part of* [Works Ahead 2018](/current/2018-worksahead) *in a double bill with* [Vijay Patel](/current/2018-worksahead/patel)       
          
 #### In Brief                      
-A girl, a guitar, and a message of hope.         
+A girl, a guitar, and a message of hope… *AND THIS?* Sharing stories of her journey towards positivity and unapologetic defiance, Fat Girl Singing is an anthem of self-acceptance and a call to arms for those who simply don’t fit the model.         
                
 #### Venues + Booking Details for Works Ahead        
 Dates: Thursday 17 + Friday 18 May 2018, 7.30pm          
