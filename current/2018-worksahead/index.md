@@ -26,8 +26,8 @@ Our annual sampler of new performance is a double bill of new works in developme
 A girl, a guitar, and a message of hope… *Fat Girl Singing* is an anthem of self-acceptance and a call to arms for those who simply don't fit the model.         
         
 #### Vijay Patel      
-At that point in a conversation when it all gets too much, are we more worried about the thought of leaving than the action itself? *Sometimes I Leave* unravels the inner workings of the Asperger's mind, before making a dash for the door…      
-      
+The pulsating anxieties that occur within the Asperger’s mind are unraveled… *Sometimes I Leave* explores the simple action of, but problematic mental preparation for, leaving. It could be leaving something so simple.            
+         
 To get a feel for Works Ahead 2018, have a look at [2017's programme](/archive/2017-worksahead).        
         
 Works Ahead is also seed-commissioning Jamal Gerald's *Complexion* — exploring the historic experiences of the house and the field slaves; and drawing a parallel with contemporary pop culture and attitudes to race. Being developed in partnership with Transform in Leeds, look out for a low key interaction.        
