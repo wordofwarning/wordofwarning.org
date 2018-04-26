@@ -20,7 +20,7 @@ season: "Works Ahead 17+18|5|2018"
 *Presented by* Word of Warning, Contact + STUN         
          
 ### Thursday 17 + Friday 18 May 2018, 7.30pm        
-Our annual sampler of new performance is a double bill of new works in development from Emma Geraghty + Vijay Patel. A girl and a guitar, a boy and a box of questions… An evening unpicking the complexity of identity and celebrating the difference.             
+Our annual sampler of new performance is a double bill of new works in development from Emma Geraghty + Vijay Patel: a girl and a guitar, a boy and a box of questions… An evening unpicking the complexity of identity and celebrating the difference.             
             
 #### [Emma Geraghty](/current/2018-worksahead/geraghty)       
 A girl, a guitar, and a message of hope… *Fat Girl Singing* is an anthem of self-acceptance and a call to arms for those who simply don't fit the model.         
