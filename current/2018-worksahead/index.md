@@ -30,7 +30,7 @@ The pulsating anxieties that occur within the Asperger’s mind are unraveled…
          
 To get a feel for Works Ahead 2018, have a look at [2017's programme](/archive/2017-worksahead).        
         
-Works Ahead is also seed-commissioning Jamal Gerald's *Complexion* — exploring the historic experiences of the house and the field slaves; and drawing a parallel with contemporary pop culture and attitudes to race. Being developed in partnership with Transform in Leeds, look out for a low key interaction.        
+Works Ahead is also seed-commissioning Jamal Gerald's *Complexion* — exploring the historic experiences of the house and the field slaves; and drawing a parallel with contemporary pop culture and attitudes to race. Being developed for 2019 in partnership with Transform in Leeds.        
         
 #### Venue + Booking Details        
 Dates: Thursday 17 + Friday 18 May 2018, 7.30pm          
