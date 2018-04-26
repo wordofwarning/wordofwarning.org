@@ -28,7 +28,7 @@ A girl, a guitar, and a message of hope… *Fat Girl Singing* is an anthem of se
 #### Vijay Patel      
 How do we leave? Why do we leave? Should we leave? Is the thought of leaving more worrying than the act? *Sometimes I Leave* unravels the inner workings of the Asperger's mind — before making a dash for the door…         
          
-**Plus** *The Hidden Pin-up* — a fleeting burlesque interval intervention into racial fetishism.         
+PLUS *The Hidden Pin-up* — a fleeting burlesque interval intervention into racial fetishism.         
          
 To get a feel for Works Ahead 2018, have a look at [2017's programme](/archive/2017-worksahead).        
         
