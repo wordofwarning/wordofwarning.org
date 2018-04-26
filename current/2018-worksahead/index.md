@@ -22,10 +22,10 @@ season: "Works Ahead 17+18|5|2018"
 ### Thursday 17 + Friday 18 May 2018, 7.30pm        
 Our annual sampler of new performance is a double bill of new works in development from Emma Geraghty + Vijay Patel.             
             
-#### Emma Geraghty       
+#### [Emma Geraghty](/current/2018-worksahead/geraghty)       
 A girl, a guitar, and a message of hope… *Fat Girl Singing* is an anthem of self-acceptance and a call to arms for those who simply don't fit the model.         
         
-#### Vijay Patel      
+#### [Vijay Patel](/current/2018-worksahead/patel)      
 How do we leave? Why do we leave? Should we leave? Is the thought of leaving more worrying than the act? *Sometimes I Leave* unravels the inner workings of the Asperger's mind — before making a dash for the door…         
          
 PLUS *The Hidden Pin-up* — a fleeting burlesque interval intervention into racial fetishism.         
