@@ -34,10 +34,12 @@ Box Office Tel: 0161 232 6089 (Z-arts)
 Age advisory: 14+ (parental/guardian discretion). Duration: the double bill will last up to 2½ hours, including an interval (*running order tbc*). Both works largely spoken English; Emma's work also includes bad language + live music. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.        
         
 #### More              
-At the turn of the millennium, Vijay was diagnosed with Asperger's syndrome (a form of autism). In a time where the diagnosis was new, he went through courses of prescribed drugs in order for him to cope in the 'real' world. Almost 20 years later, he's decided to make a show about it…        
-        
-*Sometimes I Leave* is a performance, a respite, which navigates the point within a conversation context when it all gets too much. How do we leave this context? Why do we leave this context? And maybe there are more inner anxieties about the thought of leaving than actually doing it. He's often been accused of saying the wrong thing, looking at people the wrong way, and navigating his Asperger's mind as an adult.         
-        
+At the turn of the millennium, Vijay was diagnosed with Asperger's syndrome (a form of autism). In a time where the diagnosis was new, he went through courses of prescribed drugs in order for him to cope in the 'real' world.        
+            
+Often accused of looking at people the wrong way or saying the wrong thing, in an attempt to navigate his Asperger's mind as an adult, almost 20 years later, he's decided to make a show about it…           
+             
+*Sometimes I Leave* is a performance, a respite, which navigates the point within a conversation context when it all gets too much. How do we leave this context? Why do we leave this context? And maybe there are more inner anxieties about the thought of leaving than actually doing it.           
+           
 #### Who is he?             
 A London-based performance artist, Vijay Patel crosses forms from live art, performance, cabaret, and installation. The work he makes predominantly surrounds cultural identity, making political points about this within the contemporary condition. His earlier performances have previously dealt with the complexities of being of mixed Indian/British heritage, gender, sexuality, and the crossover between these subjects. Vijay is currently interested in exploring his Asperger's identity, further research on disability studies, and how he can communicate this to a wider audience.        
           
