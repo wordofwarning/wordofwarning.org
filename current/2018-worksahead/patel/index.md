@@ -45,7 +45,7 @@ A London-based performance artist, Vijay Patel crosses forms from live art, perf
 >*An engaging, exciting and charming performance artist. His work is funny, poignant, fearlessly personal, and current. He makes the political palatable and uses pop-culture references to inform his work and turn them on their head in a surprising and entertaining way.*<br>— Sh!t Theatre<br>*Vijay Patel is a dynamic young artist exploring the contemporary condition with humour, pathos and heart. Mark him as one to watch.*<br>— Simon Casson, Duckie        
            
 #### Credits     
-*Sometimes I Leave* is supported by VFD (Nicol Parkinson + Phoebe Patey-Ferguson) + Theatre Delicatessen.<br>[Works Ahead](/hab/worksahead) 2018 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England. Project Mentor: Peader Kirk     
+Thanks to VFD (Nicol Parkinson + Phoebe Patey-Ferguson) and Theatre Delicatessen.<br>[Works Ahead](/hab/worksahead) 2018 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>; supported using public funding by Arts Council England. Project Mentor: Peader Kirk     
         
 #### Websites         
 <a href="http://www.vijaypateltheatre.co.uk" target="_blank">www.vijaypateltheatre.co.uk</a> | <a href="http://twitter.com/vpateltheatre" target="_blank">@vpateltheatre</a><br><a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
