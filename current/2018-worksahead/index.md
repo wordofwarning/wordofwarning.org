@@ -35,7 +35,7 @@ To get a feel for Works Ahead 2018, have a look at [2017's programme](/archive/2
 Works Ahead is also seed-commissioning Jamal Gerald's *Complexion* — exploring the historic experiences of the house and the field slaves; and drawing a parallel with contemporary pop culture and attitudes to race. Being developed for 2019 in partnership with Transform in Leeds.        
         
 #### Venue + Booking Details        
-Dates: Thursday 17 + Friday 18 May 2018, 7.30pm          
+Dates: Thursday 17 May 2018, 7.30pm (Friday 18 May 2018, 7.30pm: sold-out)         
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
 <a href="http://z-arts.ticketsolve.com/shows/873587693/events/128137713" target="_blank">Tickets: £7/4</a> (Z-arts charge 5% online or telephone transaction fees)        
 Box Office Tel: 0161 232 6089 (Z-arts)         
