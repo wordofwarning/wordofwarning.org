@@ -23,7 +23,7 @@ season: "Works Ahead — Emma Geraghty 17+18|5|2018"
 A girl, a guitar, and a message of hope… *Fat Girl Singing* is an anthem of self-acceptance and a call to arms for those who simply don't fit the model.         
                
 #### Venues + Booking Details for Works Ahead        
-Dates: Thursday 17 + Friday 18 May 2018, 7.30pm          
+Dates: Thursday 17 May 2018, 7.30pm (Friday 18 May 2018, 7.30pm: sold-out)          
 <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Venue: STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
 <a href="http://z-arts.ticketsolve.com/shows/873587693/events/128137713" target="_blank">Tickets: £7/4</a> (Z-arts charge 5% online or telephone transaction fees)        
 Box Office Tel: 0161 232 6089 (Z-arts)          
