@@ -24,6 +24,7 @@ gallery:
     -   {file: "vijay8.jpg", artist: "Vijay Patel"}
     -   {file: "vijay9.jpg", artist: "Vijay Patel"}
     -   {file: "vijay10.jpg", artist: "Vijay Patel"}
+    -   {file: "vijay11.jpg", artist: "Vijay Patel"}
     -   {file: "emma2.jpg", artist: "Emma Geraghty"}
     -   {file: "emma3.jpg", artist: "Emma Geraghty"}
     -   {file: "emma4.jpg", artist: "Emma Geraghty"}
