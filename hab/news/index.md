@@ -18,7 +18,7 @@ Upcoming artist opportunities from hÅb are published below when we have them; y
 • <a href="http://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=LIVEART" target="_blank">LIVEART from JISCmail</a>         
 • <a href="http://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=SCUDD" target="_blank">SCUDD (Standing Conference of University Drama Departments) from JISCmail</a>
              
-### Upcoming Events + Opportunities        
+## Upcoming Events + Opportunities        
         
 #### *KIDNAP@20: The Art of Incarceration Symposium*<br>Friday 20 July, 12.30-7pm at Martin Harris Centre. Free          
         
@@ -31,4 +31,4 @@ Widely covered in the press and media, *KIDNAP* caught the public imagination as
 Participants include:        
 Matt Adams, Ju Row Farr + Nick Tandavanitj (Blast Theory core artists) | John McGrath (Artistic Director, Manchester International Festival; author of Loving Big Brother) | Saul Hewish (Artistic Director, Rideout: Creative Arts for Rehabilitation) | Ali Matthews (independent artist; University of Salford) | Tamsin Drury (hÅb) + Dave Carter (University of Manchester) | Matt Fenton (Artistic Director, Contact) | Petra Tauscher (Dramaturg + Producer, HOME Manchester) | Professor Stephen Coleman (University of Leeds) | Russell Ward (1998 *Kidnap* victim)         
          
-To sign up for this FREE event, please visit the <a href="www.eventbrite.co.uk/e/kidnap20-the-art-of-incarceration-tickets-45734469028" target="_blank">Eventbrite</a> page. If you have questions or suggestions, contact the organiser Stephen Scott-Bottoms: <mailto:stephen.bottoms@manchester.ac.uk>
+To sign up for this FREE event, please visit the <a href="www.eventbrite.co.uk/e/kidnap20-the-art-of-incarceration-tickets-45734469028" target="_blank">Eventbrite</a> page. If you have questions or suggestions, contact Stephen Scott-Bottoms: <mailto:stephen.bottoms@manchester.ac.uk>
