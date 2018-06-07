@@ -18,9 +18,7 @@ Upcoming artist opportunities from hÅb are published below when we have them; y
 • <a href="http://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=LIVEART" target="_blank">LIVEART from JISCmail</a>         
 • <a href="http://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=SCUDD" target="_blank">SCUDD (Standing Conference of University Drama Departments) from JISCmail</a>
              
-### Upcoming Symposium: Friday 20 July 2018, 12.30pm-7pm        
-        
-***<a href="www.eventbrite.co.uk/e/kidnap20-the-art-of-incarceration-tickets-45734469028Eventbrite" target="_blank">KIDNAP@20: The Art of Incarceration Symposium</a>*<br>Martin Harris Centre, University of Manchester | Free**          
+#### Upcoming Symposium: Friday 20 July 2018, 12.30-7pm<br>*<a href="www.eventbrite.co.uk/e/kidnap20-the-art-of-incarceration-tickets-45734469028Eventbrite" target="_blank">KIDNAP@20: The Art of Incarceration Symposium</a>*<br>Martin Harris Centre, University of Manchester. Free          
         
 Widely covered in the press and media, *KIDNAP* caught the public imagination as an edgy example of what the internet was now making possible. A pivotal event in Blast Theory's evolution as a company, the piece also anticipated all kinds of subsequent developments in the wider culture — from the round-the-clock surveillance of reality TV shows like Big Brother, to the 21st century vogue for audience participation in live art, and the contemporary ubiquity of 'escape rooms' (getting yourself locked up for kicks).        
         
@@ -31,4 +29,4 @@ The event includes a screening of the film document of *KIDNAP* (30 mins) and re
 Participants include:        
 Matt Adams, Ju Row Farr and Nick Tandavanitj (Blast Theory core artists) | John McGrath (Artistic Director, Manchester International Festival; author of Loving Big Brother) | Saul Hewish (Artistic Director, Rideout: Creative Arts for Rehabilitation) | Ali Matthews (independent artist; University of Salford) | Tamsin Drury (hÅb) + Dave Carter (University of Manchester) | Matt Fenton (Artistic Director, Contact) | Petra Tauscher (Dramaturg and Producer, HOME Manchester) | Professor Stephen Coleman (University of Leeds) | Russell Ward (1998 Kidnap victim)         
          
-To sign up for this FREE event, please visit their <a href="www.eventbrite.co.uk/e/kidnap20-the-art-of-incarceration-tickets-45734469028Eventbrite" target="_blank">Eventbrite</a> page. If you have questions or suggestions, contact the organiser Stephen Scott-Bottoms: <emailto:stephen.bottoms@manchester.ac.uk>
+To sign up for this FREE event, please visit their <a href="www.eventbrite.co.uk/e/kidnap20-the-art-of-incarceration-tickets-45734469028Eventbrite" target="_blank">Eventbrite</a> page. If you have questions or suggestions, contact the organiser Stephen Scott-Bottoms: <mailto:stephen.bottoms@manchester.ac.uk>
