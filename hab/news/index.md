@@ -20,7 +20,7 @@ Upcoming artist opportunities from hÅb are published below when we have them; y
              
 ### Upcoming Opportunities        
         
-### *<a href="www.eventbrite.co.uk/e/kidnap20-the-art-of-incarceration-tickets-45734469028" target="_blank">KIDNAP@20: The Art of Incarceration Symposium</a>*<br>Fri 20 July 2018, 12.30-7pm at Martin Harris Centre. Free          
+#### *<a href="www.eventbrite.co.uk/e/kidnap20-the-art-of-incarceration-tickets-45734469028" target="_blank">KIDNAP@20: The Art of Incarceration Symposium</a>*<br>Friday 20 July, 12.30-7pm, Martin Harris Centre. Free          
         
 Widely covered in the press and media, *KIDNAP* caught the public imagination as an edgy example of what the internet was now making possible. A pivotal event in Blast Theory's evolution as a company, the piece also anticipated all kinds of subsequent developments in the wider culture — from the round-the-clock surveillance of reality TV shows like Big Brother, to the 21st century vogue for audience participation in live art, and the contemporary ubiquity of 'escape rooms' (getting yourself locked up for kicks).        
         
