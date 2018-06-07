@@ -31,7 +31,7 @@ Date: Wednesday 13 June 2018, 8pm
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
-Age advisory: *TBC* (parental/guardian discretion). With no interval, the show lasts approximately *TBC* minutes. Features a combination of spoken text, composed sound + film (*TBC*). For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: *TBC* (parental/guardian discretion). With no interval, the show lasts approximately 90 minutes. Features a combination of spoken text, composed sound + film. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
 In 1956, there was a popular uprising against the USSR in Hungary. The battle was fought primarily from the Corvin Cinema, and the uprising lead to one of the largest refugee crises of the twentieth century. In a live commentary screening of a 1956 comedy about football, scheduled to premiere at the Corvin Cinema the week of the uprising, Deborah Pearson unlocks a surprisingly personal story.        
