@@ -45,6 +45,8 @@ An associate artist with Volcano in Canada, she was a resident artist for two ye
        
 #### What people have said about *HHH*         
 >*The show’s poignant humanity, its bittersweet reflections on the relentlessness of time and its potent blend of uplifting possibility and heartrending pathos make for an enchanting 90 minutes.*<br><a href="http://www.thefixmagazine.com/index/history-history-history" target="_blank">★★★★★ The Fix Magazine</a><br>*A roving and inventive presentation.*<br><a href="http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/flatpack-festival-birmingham-2017-nature-aquatic" target="_blank">Sight and Sound Magazine</a>            
+          
+*History History History* in Salford is previewed by <a href="http://confidentials.com/manchester/history-history-history-lowry-salford?id=5b1a635b0be6e" target="_blank">Manchester Confidential</a>.        
         
 #### Credits          
 Dramaturgy by Daniel Kitson.<br>Outside eye work by Tania El Khoury + Laura Dannequin.<br>A House on Fire commission with Culture Europe, co-produced by Theatre Garonne (Toulouse, France) + bit teatergarasjen (Bergen, Norway).<br>Developed in part at the National Theatre Studio.          
