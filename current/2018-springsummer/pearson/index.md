@@ -22,6 +22,8 @@ season: "Deborah Pearson 13|6|2018"
 #### In Brief      
 How a 1950s Soviet-sponsored sports comedy became tied to a political uprising that made a mark on world history. 
          
+Now that it's over, read a ★★★★ review by <a href="http://www.thereviewshub.com/history-history-history-the-lowry-salford" target="_blank">The Reviews Hub</a>.         
+         
 <iframe src="http://player.vimeo.com/video/166492282" width="640" height="360" frameborder="0" allowfullscreen></iframe>         
         
 #### Venue + Booking Details           
