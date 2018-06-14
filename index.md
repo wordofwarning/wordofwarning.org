@@ -4,4 +4,4 @@ layout: home
 season: homepage
 
 ---
-#### Thanks to [Deborah Pearson](/current/2018-springsummer/pearson), The Lowry, and our audience for a powerfully poignant Wednesday evening — you can read a ★★★★ review <a href="https://www.thereviewshub.com/history-history-history-the-lowry-salford" target="_blank">here</a>. Our next [Summer](/current/2018-springsummer) event will be announced soon — in the meantime discover new northern performance through our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a>.
+#### Thank you [Deborah & co](/current/2018-springsummer/pearson), The Lowry, and our audience for a powerfully poignant Wednesday evening — you can read a ★★★★ review<a href="http://www.thereviewshub.com/history-history-history-the-lowry-salford" target="_blank">here</a>. With our final [Summer](/current/2018-springsummer) event to be announced, discover new northern performance through our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a>.
