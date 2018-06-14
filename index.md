@@ -4,4 +4,4 @@ layout: home
 season: homepage
 
 ---
-#### Thanks to [Deborah](/current/2018-springsummer/pearson), The Lowry, and our audience for Wednesday. Discover new northern performance through our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a>.
+#### Thank you [Deborah](/current/2018-springsummer/pearson), The Lowry + our audience for a powerfully poignant Wednesday evening; our next event will be announced soon, in the meantime discover new northern performance through our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a>.
