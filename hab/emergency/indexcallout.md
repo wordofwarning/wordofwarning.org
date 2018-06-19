@@ -29,9 +29,11 @@ To get a feel for it, have a look at the 2017 [programme](/archive/2017-emergenc
 • is an opportunity for artists to meet, show, and peer-review work;      
 • is a selection event for a number of small [Works Ahead](/hab/worksahead) commissions to be developed + supported by [hÅb](/hab).      
           
-Work can be in any relevant artform/medium, though some live presence is desirable. Show-type work should be 20 minutes maximum in duration, low-tech, suitable for quick turnarounds, and self-supporting in terms of props, set, equipment, and specialised technology.        
-          
-Emergency 2018 will offer an honorarium of up to £100 per piece selected, to cover fees/expenses.      
+Work can be in any relevant artform/medium, though some live presence is desirable. Show-type work should be: 20 minutes maximum in duration; low-tech or no-tech, and suitable for quick turnarounds; self-supporting in terms of props, set, equipment, and specialised technology.         
+            
+**Please note:**          
+• our technology resources are limited, please bear this in mind when making a proposal;         
+• Emergency 2018 will offer an honorarium of up to £100 per piece selected, to cover fees/expenses.        
        
 **To apply:**       
 • download the Emergency Open Call Guidance Notes <a href="http://emergencymcr.posthaven.com" target="_blank">here</a>;         
