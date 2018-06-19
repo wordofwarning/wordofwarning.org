@@ -15,21 +15,21 @@ season: "Emergency"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Emergency**, our annual platform for live art + contemporary performance, is calling for proposals…            
+**Emergency**, hÅb's annual Mancunian platform for live art + contemporary performance, is calling for proposals from Friday 29 June 2018…            
            
 Our **nineteenth Emergency** takes place on **Saturday 6 October 2018**, 12noon-10pm, in Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> (including STUN Studio), with the callout for proposals open until **Wednesday 15 August, 5pm** — full details <a href="http://emergencymcr.posthaven.com" target="_blank">here</a>.             
          
 With a whole range of spaces to fill — what we now need is a lots of great work! Artists working in live art and contemporary performance are invited to submit proposals of short pieces of work, works-in-progress, or extracts of longer works for inclusion in this event. Proposals are also encouraged for durational, one-to-one and limited capacity work, as well as performance installation and intervention-based works in-and-around the spaces available.       
                
-To get a feel for it, have a look at the 2017 [programme](/archive/2017-emergency) + [gallery](/galleries/2017-emergency).           
+To get a feel for it, have a look at the 2017 [programme](/archive/2017-emergency) + [gallery of images](/galleries/2017-emergency).           
          
 **Emergency:**    
-• typically features at least 20 short pieces of work over the day/evening;
+• typically features at least 20 short pieces of work throughout the day/evening;        
 • is a pay-what-you-decide public micro-festival + open submission platform;        
 • is an opportunity for artists to meet, show, and peer-review work;      
 • is a selection event for a number of small [Works Ahead](/hab/worksahead) commissions to be developed + supported by [hÅb](/hab).      
           
-Work can be in any relevant artform/medium, though some live presence is desirable. Show-type work should be 20 minutes max in duration, low-tech, suitable for quick turnarounds, and self-supporting in terms of props, set, equipment, and specialised technology.        
+Work can be in any relevant artform/medium, though some live presence is desirable. Show-type work should be 20 minutes maximum in duration, low-tech, suitable for quick turnarounds, and self-supporting in terms of props, set, equipment, and specialised technology.        
           
 Emergency 2018 will offer an honorarium of up to £100 per piece selected, to cover fees/expenses.      
        
