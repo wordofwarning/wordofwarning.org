@@ -15,9 +15,9 @@ season: "Emergency"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Emergency**, hÅb's annual Mancunian platform for live art + contemporary performance, is calling for proposals from Friday 29 June 2018…            
+**Emergency**, hÅb's annual Mancunian platform for live art + contemporary performance, seeks proposals from Friday 29 June 2018…            
            
-Our **nineteenth Emergency** takes place on **Saturday 6 October 2018**, 12noon-10pm, in Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> (including STUN Studio), with the callout for proposals open until **Wednesday 15 August, 5pm** — full details <a href="http://emergencymcr.posthaven.com" target="_blank">here</a>.             
+Our **nineteenth Emergency** takes place on **Saturday 6 October 2018**, 12noon-10pm, in Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> (including <a href="http://stunlive.com" target="_blank">STUN Studio</a>), with the callout for proposals open until **Wednesday 15 August, 5pm** — full details <a href="http://emergencymcr.posthaven.com" target="_blank">here</a>.             
          
 With a whole range of spaces to fill — what we now need is a lots of great work! Artists working in live art and contemporary performance are invited to submit proposals of short pieces of work, works-in-progress, or extracts of longer works for inclusion in this event. Proposals are also encouraged for durational, one-to-one and limited capacity work, as well as performance installation and intervention-based works in-and-around the spaces available.       
                
@@ -46,4 +46,4 @@ http://emergencymcr.posthaven.com
 http://habarts.wufoo.com/forms/z1i31f0m03ovwoe            
 http://habarts.wufoo.com/forms/r19tdg9m0h21yu0         
              
-Emergency 2018 is presented by Word of Warning, STUN + Z-arts; produced by hÅb; supported using public funding by Arts Council England.
+Emergency 2018 is presented by [Word of Warning](/), <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a> + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.
