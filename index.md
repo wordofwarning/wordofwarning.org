@@ -4,4 +4,4 @@ layout: home
 season: homepage
 
 ---
-#### Thank you [Deborah & co](/current/2018-springsummer/pearson), The Lowry, and our audience for a powerfully poignant Wednesday evening — you can read a ★★★★ review <a href="http://www.thereviewshub.com/history-history-history-the-lowry-salford" target="_blank">here</a>. With our final [Spring/Summer](/current/2018-springsummer) event to be announced soon, discover new northern performance through our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a>.
+#### With our final [Spring/Summer](/current/2018-springsummer) event to be announced soon, discover new northern performance through our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a>. We'd like to find out more about our audiences — WHO you are, WHY you come to our events, and WHAT you think of us… So, if you came to see [Emma + Vijay](/current/2018-worksahead) during Works Ahead, or [Deborah Pearson](/current/2018-springsummer/pearson) at The Lowry, and would like to give us feedback please visit our <a href="http://research.audiencesurveys.org/s.asp?k=152950990710" target="_blank">online survey</a>.
