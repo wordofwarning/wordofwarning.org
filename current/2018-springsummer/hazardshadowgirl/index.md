@@ -1,7 +1,6 @@
 ---
 # CONFIGURATION
 layout: 2018-springsummer
-bodyclass: h2018
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -11,6 +10,7 @@ artist_size: 1
 show_size: 3
 header_image: "header_shadow_girl.jpg"    
 season: "Hazard 2018 — Shadow Girl 4|8|2018"
+bodyclass: "h2018"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
