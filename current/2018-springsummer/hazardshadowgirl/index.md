@@ -7,7 +7,7 @@ rootpath: "../../../"
 artist: "Christina Jones" # the name of the artist or company
 show: "Hazard 2018 — Shadow Girl" # the name of the show
 artist_size: 1
-show_size: 4
+show_size: 3
 header_image: "header_shadow_girl.jpg"    
 season: "Hazard 2018 — Shadow Girl 4|8|2018"
 
