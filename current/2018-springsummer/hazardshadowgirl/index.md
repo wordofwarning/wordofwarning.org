@@ -1,13 +1,13 @@
 ---
 # CONFIGURATION
-layout: 2018-hazard
+layout: 2018-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Christina Jones" # the name of the artist or company
 show: "Hazard 2018 — Shadow Girl" # the name of the show
 artist_size: 1
-show_size: 3
+show_size: 4
 header_image: "header_shadow_girl.jpg"    
 season: "Hazard 2018 — Shadow Girl 4|8|2018"
 
@@ -23,13 +23,13 @@ season: "Hazard 2018 — Shadow Girl 4|8|2018"
 Shadowy figures move silently through the city, playing, questioning, exploring visibility + vulnerability…     
                
 #### Venue + Booking Details        
-Date: Saturday 4 August 2018, afternoon                
-Venue: within Manchester City Centre          
+Date: Saturday 4 August 2018, during the afternoon                
+Venue: across Manchester City Centre          
 Tickets: FREE/unticketed, turn up and discover activity around the square.            
 Telephone: call or text 07488 308 111 (leave a message + we'll get back to you)           
           
 #### Access Information            
-Age advisory: suitable for ALL. Hazard 2018 takes place outside. For specific age + access information please email <mailto:hazard@habmcr.org> or call 0161 232 6086 before the event / 07488 308 111 on the day of the event.     
+Age advisory: suitable for ALL ages. Hazard 2018 — *Shadow Girl* takes place outside. For specific age + access information please email <mailto:hazard@habmcr.org> or call 0161 232 6086 before the event / 07488 308 111 on the day of the event.     
              
 #### More         
 Shadowy figures move silently through the city, playing, questioning, exploring visibility and vulnerability…        
@@ -49,4 +49,4 @@ Christina Jones is a 29-year-old Manchester artist living with a Learning Disabi
 Supported using public funding by the National Lottery through Arts Council England.          
           
 #### Websites            
-<a href="" target="_blank"></a> | <a href="http://twitter.com/proudandloudart" target="_blank">@proudandloudart</a> | <a href="http://facebook.com/proudandloudarts" target="_blank">Proud & Loud Arts on facebook</a>
+<a href="http://proudandloudarts.com" target="_blank"></a> | <a href="http://twitter.com/proudandloudart" target="_blank">@proudandloudart</a> | <a href="http://facebook.com/proudandloudarts" target="_blank">Proud & Loud Arts on facebook</a>
