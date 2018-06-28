@@ -1,6 +1,7 @@
 ---
 # CONFIGURATION
 layout: 2018-springsummer
+bodyclass: h2018
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
