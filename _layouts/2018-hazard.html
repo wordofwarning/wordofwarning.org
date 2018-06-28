@@ -1,23 +1,36 @@
 ---
 layout: base
 
-season: "Hazard 2018"
+season: "Performance Programme Spring/Summer 2018"
 bodyclass: h2018
-sectionroot: 'current/2018-hazard'
+sectionroot: 'current/2018-springsummer'
 
 events:
-    -   label: "Hazard 2018"
-        date: "Sat Jul. FREE"
-        venue: "| St Ann's Square"
+    -   label: "The Audit<br>(<span style='text-transform:lowercase'>or</span> I<span style='text-transform:lowercase'>celand, a modern myth</span>)"
+        date: "Wed 28 Feb, 8pm. PWYD"
+        venue: "| The Lowry"
         artists:
-            - name: "Participating artists to be announced."
-    -   rawhtmlinstead: "<a href='/current/2018-springsummer'>Back to Performance Programme Spring/Summer 2018</a>"    
-    
+            - {folder: proto-type, name: "Proto-type Theater"}
+    -   label: "Works Ahead 2018"
+        date: "Thu 17 May, 7.30pm (Fri 18 May sold-out). £7/4"
+        venue: "| STUN Studio at Z-arts"
+        artists:
+            - name: "<a href='/current/2018-worksahead'>Emma Geraghty + Vijay Patel (double bill)</a>"
+    -   label: "History History History"
+        date: "Wed 13 Jun, 8pm. PWYD"
+        venue: "| The Lowry"
+        artists:
+            - {folder: pearson, name: "Deborah Pearson"}    
+    -   label: "Hazard 2018 — Shadow Girl"
+        date: "Sat 4 Aug, afternoon"
+        venue: "| Manchester City Centre"
+        artists:
+            - {folder: hazardshadowgirl, name: "Christina Jones"}    
 ---
 
 		<div class="row">
 			<div class="eight columns bodycopy">
-			    {{content}}
+				{{content}}
 			</div>
 			<div class="four columns">
 				{% include default-rhs-nav.html %}
