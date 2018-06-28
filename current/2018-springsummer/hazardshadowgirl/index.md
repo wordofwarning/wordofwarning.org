@@ -22,11 +22,10 @@ season: "Hazard 2018 — Shadow Girl 4|8|2018"
 #### In Brief      
 Shadowy figures move silently through the city, playing, questioning, exploring visibility + vulnerability…     
                
-#### Venue + Booking Details        
+#### Location Details        
 Date: Saturday 4 August 2018, during the afternoon                
-Venue: across Manchester City Centre          
-Tickets: FREE/unticketed, turn up and discover activity around the square.            
-Telephone: call or text 07488 308 111 (leave a message + we'll get back to you)           
+Location: various sites within Manchester City Centre          
+Telephone: call or text 07488 308 111 on the day           
           
 #### Access Information            
 Age advisory: suitable for ALL ages. Hazard 2018 — *Shadow Girl* takes place outside. For specific age + access information please email <mailto:hazard@habmcr.org> or call 0161 232 6086 before the event / 07488 308 111 on the day of the event.     
@@ -43,10 +42,10 @@ Sometimes it's more than words, and people are often fearful of making themselve
 #### Who is she           
 Christina Jones is a 29-year-old Manchester artist living with a Learning Disability Label — a long standing artist with Proud & Loud Arts currently working with The Lowry, DIY, and Access all Areas.          
               
-*Shadow Girl* is her first solo work, originally developed as part of Proud & Loud Arts’ group work *Cells – A Body of Work* — here expanded and developed on a larger scale. In *Shadow Girl*, Christina wants to bring a positive discussion about learning disability to a wider public audience through a creative intervention in public spaces.             
+*Shadow Girl* is her first solo work, originally developed as part of Proud & Loud Arts’ group work *Cells – A Body of Work*, here expanded and developed on a larger scale. In *Shadow Girl*, Christina wants to bring a positive discussion about learning disability to a wider public audience through a creative intervention in public spaces.             
              
 #### Credits         
 Supported using public funding by the National Lottery through Arts Council England.          
           
 #### Websites            
-<a href="http://proudandloudarts.com" target="_blank"></a> | <a href="http://twitter.com/proudandloudart" target="_blank">@proudandloudart</a> | <a href="http://facebook.com/proudandloudarts" target="_blank">Proud & Loud Arts on facebook</a>
+<a href="http://proudandloudarts.com" target="_blank">proudandloudarts.com</a> | <a href="http://twitter.com/proudandloudart" target="_blank">@proudandloudart</a> | <a href="http://facebook.com/proudandloudarts" target="_blank">Proud & Loud Arts on facebook</a>
