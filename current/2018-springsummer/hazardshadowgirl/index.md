@@ -48,4 +48,5 @@ Christina Jones is a 29-year-old Manchester artist living with a Learning Disabi
 #### Credits         
 Supported using public funding by the National Lottery through Arts Council England.          
           
-#### Websites
+#### Websites            
+<a href="" target="_blank"></a> | <a href="http://twitter.com/proudandloudart" target="_blank">@proudandloudart</a> | <a href="http://facebook.com/proudandloudarts" target="_blank">Proud & Loud Arts on facebook</a>
