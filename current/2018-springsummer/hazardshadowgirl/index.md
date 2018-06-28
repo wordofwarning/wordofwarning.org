@@ -28,7 +28,7 @@ Location: various sites within Manchester City Centre
 Telephone: call or text 07488 308 111 on the day           
           
 #### Access Information            
-Age advisory: suitable for ALL ages. Hazard 2018 — *Shadow Girl* takes place outside. For specific age + access information please email <mailto:hazard@habmcr.org> or call 0161 232 6086 before the event / 07488 308 111 on the day of the event.     
+Age advisory: suitable for ALL ages. Hazard 2018 — *Shadow Girl* takes place outside. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086 before the event / 07488 308 111 on the day of the event.     
              
 #### More         
 Shadowy figures move silently through the city, playing, questioning, exploring visibility and vulnerability…        
@@ -48,4 +48,4 @@ Christina Jones is a 29-year-old Manchester artist living with a Learning Disabi
 Supported using public funding by the National Lottery through Arts Council England.          
           
 #### Websites            
-<a href="http://proudandloudarts.com" target="_blank">proudandloudarts.com</a> | <a href="http://twitter.com/proudandloudart" target="_blank">@proudandloudart</a> | <a href="http://facebook.com/proudandloudarts" target="_blank">Proud & Loud Arts on facebook</a>
+<a href="http://proudandloudarts.com" target="_blank">proudandloudarts.com</a> | <a href="http://twitter.com/proudandloudart" target="_blank">@proudandloudart</a> | <a href="http://facebook.com/proudandloudarts" target="_blank">Proud & Loud Arts on facebook</a><br><a href="http://hazardmcr.org" target="_blank">hazardmcr.org</a> | <a href="http://twitter.com/hazardmcr" target="_blank">@hazardmcr</a>
