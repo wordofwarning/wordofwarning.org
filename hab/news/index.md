@@ -4,7 +4,7 @@ layout: hab
 rootpath: "../../../"
 is_index: true
 artist: "News + Opportunities"
-season: "hÅb News + Opportunities"
+season: "hÅb — News + Opportunities"
 
 ---
 [hÅb](/hab) is a producer, developer + strategic advocate of contemporary performance, live art + sited work in the North of England. greenroom's key partner for over a decade, hÅb aims to maintain its legacy — working in collaboration with a range of [venues + other partners](/hab/partners) to produce showing [opportunities](/hab/news), platforms + artist development projects like [Divergency](/hab/divergencymcr), [Emergency](/hab/emergency), [Foot In The Door](/hab/footinthedoor), [Haphazard](/hab/haphazard), [Hazard](/hab/hazard) + [Works Ahead](/hab/worksahead).           
