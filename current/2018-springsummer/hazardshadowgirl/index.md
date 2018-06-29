@@ -4,10 +4,10 @@ layout: 2018-hazard
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Christina Jones" # the name of the artist or company
-show: "Hazard 2018 — Shadow Girl" # the name of the show
+artist: "Chrissy Jones" # the name of the artist or company
+show: "Hazard 2018<br>Shadow Girl" # the name of the show
 artist_size: 1
-show_size: 3
+show_size: 2
 header_image: "header_shadow_girl.jpg"    
 season: "Hazard 2018 — Shadow Girl 4|8|2018"
 
@@ -38,9 +38,9 @@ Age advisory: suitable for ALL ages. Hazard 2018 — *Shadow Girl* takes place o
 Sometimes it's more than words, and people are often fearful of making themselves visible or going outside.              
           
 #### Who is she           
-Christina Jones is a 29-year-old Manchester-based artist living with a Learning Disability Label – a long standing artist with Proud & Loud Arts currently working with The Lowry, DIY, and Access all Areas.          
+Chrissy Jones is a Manchester-based artist living with a Learning Disability Label – a long standing artist with Proud & Loud Arts currently working with The Lowry, DIY, and Access all Areas.          
               
-*Shadow Girl* is her first solo work, originally developed as part of Proud & Loud Arts’ group work *Cells – A Body of Work*, here expanded and developed on a larger scale. In *Shadow Girl*, Christina wants to bring a positive discussion about learning disability to a wider public audience through a creative intervention in public spaces.             
+*Shadow Girl* is her first solo work, originally developed as part of Proud & Loud Arts’ group work *Cells – A Body of Work*, here expanded and developed on a larger scale. In *Shadow Girl*, Chrissy wants to bring a positive discussion about learning disability to a wider public audience through a creative intervention in public spaces.             
              
 #### Credits         
 Supported using public funding by the National Lottery through Arts Council England.          
