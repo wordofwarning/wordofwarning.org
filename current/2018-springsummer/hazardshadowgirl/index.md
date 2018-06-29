@@ -31,8 +31,6 @@ Telephone: call or text 07488 308 111 on the day
 Age advisory: suitable for ALL ages. Hazard 2018 — *Shadow Girl* takes place outside. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086 before the event / 07488 308 111 on the day of the event.     
              
 #### More         
-Shadowy figures move silently through the city, playing, questioning, exploring visibility and vulnerability…        
-           
 *Shadow Girl* was a creative response to 2015 UK Government statistics showing that GMP recorded the UK's 2nd highest rate of hate crime — with the number of disablity motivated crimes more than doubling since 2014.           
               
 *Shadow Girl* is about a girl that has become afraid of people and become a shadow of herself as result of the things people say about her. She can hear and understand the things that are said, and every time she hears hurtful words they chip away a little bit of her light.          
@@ -40,7 +38,7 @@ Shadowy figures move silently through the city, playing, questioning, exploring 
 Sometimes it's more than words, and people are often fearful of making themselves visible or going outside.              
           
 #### Who is she           
-Christina Jones is a 29-year-old Manchester artist living with a Learning Disability Label — a long standing artist with Proud & Loud Arts currently working with The Lowry, DIY, and Access all Areas.          
+Christina Jones is a 29-year-old Manchester-based artist living with a Learning Disability Label – a long standing artist with Proud & Loud Arts currently working with The Lowry, DIY, and Access all Areas.          
               
 *Shadow Girl* is her first solo work, originally developed as part of Proud & Loud Arts’ group work *Cells – A Body of Work*, here expanded and developed on a larger scale. In *Shadow Girl*, Christina wants to bring a positive discussion about learning disability to a wider public audience through a creative intervention in public spaces.             
              
