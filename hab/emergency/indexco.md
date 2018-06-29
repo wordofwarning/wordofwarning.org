@@ -15,7 +15,7 @@ season: "Emergency"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Emergency**, hÅb's annual Mancunian platform for live art + contemporary performance, seeks proposals from Friday 29 June 2018…            
+**Emergency, hÅb's annual platform for live art + contemporary performance, is now open for proposals…**            
            
 Our **nineteenth Emergency** takes place on **Saturday 6 October 2018**, 12noon-10pm, in Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> (incl. <a href="http://stunlive.com" target="_blank">STUN Studio</a>), with the callout for proposals open until **Wednesday 15 August, 5pm** — see full details <a href="http://emergencymcr.posthaven.com" target="_blank">here</a>.             
          
@@ -29,6 +29,8 @@ To get a feel for it, have a look at the 2017 [programme](/archive/2017-emergenc
 • a selection event for a number of small [Works Ahead](/hab/worksahead) commissions to be developed + supported by [hÅb](/hab).      
           
 Work can be in any relevant artform/medium, though some live presence is desirable. Show-type work should be: 20 minutes maximum in duration; low-tech or no-tech, and suitable for quick turnarounds; self-supporting in terms of props, set, equipment, and specialised technology.         
+            
+As this seems to be a recurrent question: whilst we don't encourage it, you are permitted to submit more than one proposal but it is unlikely that more than one would be successful from a single artist/group.           
             
 **Please note:**          
 • Emergency typically features at least 20 short pieces of work throughout the day/evening;        
