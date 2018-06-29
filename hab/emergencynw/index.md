@@ -6,7 +6,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "EmergencyNW e-group" # the name of the artist or company
 header_image: "header_emergencynw.jpg"
-season: "hÅb: EmergencyNW e-group"
+season: "hÅb — EmergencyNW artist e-group"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -14,7 +14,7 @@ season: "hÅb: EmergencyNW e-group"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-hÅb maintains the <a href="http://groups.yahoo.com/group/emergencynw" target="_blank">EmergencyNW e-group</a> for artists working in live art, contemporary performance + dance in North (West) England. Current members include almost everyone who has performed at one of our platform events, with 356 as of April 2018.        
+hÅb maintains the **<a href="http://groups.yahoo.com/group/emergencynw" target="_blank">EmergencyNW e-group</a>** for artists working in live art, contemporary performance + dance in North (West) England. Current members include almost everyone who has performed at one of our platform events, with 356 as of April 2018.        
            
 We forward information and opportunities to this group, both our own projects and information we think may be useful, and members can post messages, call-outs etc.       
 
