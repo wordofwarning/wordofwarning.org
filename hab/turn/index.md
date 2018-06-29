@@ -1,5 +1,4 @@
 ---
-
 # CONFIGURATION
 layout: hab # the season or event-specific template in /_layouts
 rootpath: "../../../"
@@ -7,7 +6,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Turn" # the name of the artist or company
 header_image: "header_turn_photo.jpg"   
-season: Turn
+season: "hÅb — Turn"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
