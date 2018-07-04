@@ -2,14 +2,14 @@
 # CONFIGURATION
 layout: 2018-hazard
 rootpath: "../../"
-is_index: true
 
 # ABOUT THE SHOW - GENERIC
-artist: "Hazard 2018" # the name of the artist or company
-show: "DO WE SAY ANYTHING HERE?" # the name of the show
+artist: "Chrissy Jones" # the name of the artist or company
+show: "Hazard 2018 — <br>Shadow Girl" # the name of the show
 artist_size: 1
-show_size: 4
-season: "Hazard 4|8|2018" 
+show_size: 2
+header_image:  # to be added between quote marks later on    
+season: "Hazard 2018 — Shadow Girl 4|8|2018"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,28 +17,33 @@ season: "Hazard 4|8|2018"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning + Proud & Loud Arts      
-        
-### Saturday 4 August July 2018. Free     
-NEEDS A RE-WRITE          
-Incidental intervention and sited performance…<br>Cheeky, thought-provoking sprees of eccentricity…        
+*Presented by* Word of Warning *+* Proud & Loud Arts            
          
-#### Venue + Booking Details        
-Date: Saturday 4 August 2018, 12noon-5pm                
-Venue: within <a href="http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" target="_blank">St Ann's Square, Manchester, M2 7LF</a> and surrounding streets.       
-Tickets: FREE/unticketed, turn up and discover activity around the square.            
-Telephone: call or text 07488 308 111 (leave a message + we'll get back to you)           
-<iframe src="http://www.google.com/maps/d/embed?mid=zUP9hOfLluWs.kfWwdpVK74IU" width="640" height="480"></iframe>        
-                
-#### Access Information            
-Age advisory: suitable for ALL. Hazard 2018 takes place outside. For specific age + access information please email <mailto:haphazard@habmcr.org> or call 0161 232 6086.        
-        
-#### More             
-NEEDS A RE-WRITE          
-Manchester's stripiest festival returns to unleash a seventh wave of bizarre behaviour on the city centre, blurring the boundaries between art and activism… random actions, strange antics and ludic activities. Aimed for you to encounter by chance, Hazard 2018 will be paperless on the day — see our [programme](/current/2018-hazard/programme). For a glimpse of previous outbreaks of hazardous behaviour see 2016's [image gallery](/galleries/2016-hazard) + [programme](/archive/2016-hazard), or delve further with 2014's [image gallery](/galleries/2014-hazard) + [programme](/archive/2014-hazard), or 2012's [gallery](/galleries/2012-hazard) + [programme](/archive/2012-hazard).         
+#### In Brief      
+Shadowy figures move silently through the city, playing, questioning, exploring visibility + vulnerability…     
+               
+#### Event Details        
+Date: Saturday 4 August 2018, during the afternoon                
+Location: various sites within Manchester City Centre (aimed for you to encounter by chance, it's free/unticketed)              
+Telephone: call or text 07488 308 111 on the day <iframe src="http://www.google.com/maps/d/embed?mid=1zwgOyZF7BKVMMH8ZNfZ_jLW7jDbxPpAd" width="640" height="480"></iframe>                  
           
+#### Access Information            
+Age advisory: suitable for ALL ages. Hazard 2018 — *Shadow Girl* takes place outside. For specific age + access information please email <mailto:info@habmcr.org>, or call 0161 232 6086 before the event / 07488 308 111 on the day of the event.          
+         
+#### More         
+*Shadow Girl* was a creative response to 2015 UK Government statistics showing that GMP recorded the UK's 2nd highest rate of hate crime — with the number of disablity motivated crimes more than doubling since 2014.           
+              
+*Shadow Girl* is about a girl that has become afraid of people and become a shadow of herself as result of the things people say about her. She can hear and understand the things that are said, and every time she hears hurtful words they chip away a little bit of her light.          
+         
+Sometimes it's more than words, and people are often fearful of making themselves visible or going outside.              
+          
+#### Who is she           
+Chrissy Jones is a Manchester-based artist living with a Learning Disability Label – a long standing artist with Proud & Loud Arts currently working with The Lowry, DIY, and Access all Areas.          
+              
+*Shadow Girl* is her first solo work, originally developed as part of Proud & Loud Arts’ group work *Cells – A Body of Work*, here expanded and developed on a larger scale. In *Shadow Girl*, Chrissy wants to bring a positive discussion about learning disability to a wider public audience through a creative intervention in public spaces.             
+             
 #### Credits         
-[Hazard](/hab/hazard) 2018 is produced by [hÅb](/hab) + <a href="http://www.proudandloudarts.com" target="_blank">Proud & Loud Arts</a>; supported using public funding by Arts Council England. | Image: TBC     
-
-#### Websites        
-<a href="http://hazardmcr.org" target="_blank">hazardmcr.org</a> | <a href="http://twitter.com/HazardMcr" target="_blank">@HazardMcr</a> | <a href="http://twitter.com/hashtag/HazardMcr" target="_blank">#HazardMcr</a>
+Supported using public funding by the National Lottery through Arts Council England.          
+          
+#### Websites            
+<a href="http://proudandloudarts.com" target="_blank">proudandloudarts.com</a> | <a href="http://twitter.com/proudandloudart" target="_blank">@proudandloudart</a> | <a href="http://facebook.com/proudandloudarts" target="_blank">Proud & Loud Arts on facebook</a><br><a href="http://hazardmcr.org" target="_blank">hazardmcr.org</a> | <a href="http://twitter.com/hazardmcr" target="_blank">@hazardmcr</a>
