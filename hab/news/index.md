@@ -20,8 +20,10 @@ Upcoming artist opportunities from hÅb are published below when we have them; y
              
 ## Upcoming Events + Opportunities        
         
+#### Emergency 2018 — Call for Artists
+hÅb's annual platform for live art + contemporary performance, is now open for proposals… Our nineteenth [Emergency](/hab/emergency) takes place on Saturday 6 October 2018, 12noon-10pm, in Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> (incl. <a href="http://stunlive.com" target="_blank">STUN Studio</a>), with the callout for proposals open until **Wednesday 15 August, 5pm** — see full details <a href="http://emergencymcr.posthaven.com" target="_blank">here</a>.             
+              
 #### *KIDNAP@20: The Art of Incarceration Symposium*<br>Friday 20 July, 12.30-7pm at Martin Harris Centre. Free          
-        
 Widely covered in the press and media, *KIDNAP* caught the public imagination as an edgy example of what the internet was now making possible. A pivotal event in Blast Theory's evolution as a company, the piece also anticipated all kinds of subsequent developments in the wider culture — from the round-the-clock surveillance of reality TV shows like Big Brother, to the 21st century vogue for audience participation in live art, and the contemporary ubiquity of 'escape rooms' (getting yourself locked up for kicks).        
         
 *<a href="http://www.eventbrite.co.uk/e/kidnap20-the-art-of-incarceration-tickets-45734469028" target="_blank">KIDNAP@20</a>* is a one-day symposium marking the piece's 20th anniversary, which will look back at where we were then, and ask where we are now. What has changed in the realms of digital art and technology, participatory performance, and the politics of consent? When, how and why do surveillance, imprisonment, and power games become art or entertainment?          
