@@ -24,7 +24,7 @@ Shadowy figures move silently through the city, playing, questioning, exploring 
                
 #### Event Details        
 Date: Saturday 4 August 2018, during the afternoon                
-Location: various sites within Manchester City Centre          
+Location: various sites within Manchester City Centre (it's free/unticketed)             
 Telephone: call or text 07488 308 111 on the day           
           
 #### Access Information            
