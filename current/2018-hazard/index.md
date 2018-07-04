@@ -25,7 +25,8 @@ Shadowy figures move silently through the city, playing, questioning, exploring 
 #### Event Details        
 Date: Saturday 4 August 2018, during the afternoon                
 Location: various sites within Manchester City Centre (aimed for you to encounter by chance, it's free/unticketed)              
-Telephone: call or text 07488 308 111 on the day <iframe src="http://www.google.com/maps/d/embed?mid=1zwgOyZF7BKVMMH8ZNfZ_jLW7jDbxPpAd" width="640" height="480"></iframe>                  
+Telephone: call or text 07488 308 111 on the day                      
+<iframe src="http://www.google.com/maps/d/embed?mid=1zwgOyZF7BKVMMH8ZNfZ_jLW7jDbxPpAd" width="640" height="480"></iframe>                  
           
 #### Access Information            
 Age advisory: suitable for ALL ages. Hazard 2018 — *Shadow Girl* takes place outside. For specific age + access information please email <mailto:info@habmcr.org>, or call 0161 232 6086 before the event / 07488 308 111 on the day of the event.          
