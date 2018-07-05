@@ -43,7 +43,7 @@ Chrissy Jones is a Manchester-based artist living with a Learning Disability Lab
 *Shadow Girl* is her first solo work, originally developed as part of Proud & Loud Arts’ group work *Cells – A Body of Work*, here expanded and developed on a larger scale. In *Shadow Girl*, Chrissy wants to bring a positive discussion about learning disability to a wider public audience through a creative intervention in public spaces.             
              
 #### Credits         
-Supported using public funding by the National Lottery through Arts Council England.          
+*Shadow Girl* commissioned by hÅb for Hazard 2018; supported using public funding by the National Lottery through Arts Council England.            
           
 #### Websites            
 <a href="http://proudandloudarts.com" target="_blank">proudandloudarts.com</a> | <a href="http://twitter.com/proudandloudart" target="_blank">@proudandloudart</a> | <a href="http://facebook.com/proudandloudarts" target="_blank">Proud & Loud Arts on facebook</a><br><a href="http://hazardmcr.org" target="_blank">hazardmcr.org</a> | <a href="http://twitter.com/hazardmcr" target="_blank">@hazardmcr</a>
