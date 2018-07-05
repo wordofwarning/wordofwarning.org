@@ -5,10 +5,10 @@ rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Chrissy Jones" # the name of the artist or company
-show: "Hazard 2018 — <br>Shadow Girl" # the name of the show
+show: "<i class='no-italics'>Hazard 2018 —</i><br>Shadow Girl" # the name of the show
 artist_size: 1
 show_size: 2
-header_image:  # to be added between quote marks later on    
+header_image: "header_shadow_girl.jpg" # to be added between quote marks later on    
 season: "Hazard 2018 — Shadow Girl 4|8|2018"
 
 # ABOUT THE SHOW - LAYOUT
@@ -44,7 +44,7 @@ Chrissy Jones is a Manchester-based artist living with a Learning Disability Lab
 *Shadow Girl* is her first solo work, originally developed as part of Proud & Loud Arts’ group work *Cells – A Body of Work*, here expanded and developed on a larger scale. In *Shadow Girl*, Chrissy wants to bring a positive discussion about learning disability to a wider public audience through a creative intervention in public spaces.             
              
 #### Credits         
-Supported using public funding by the National Lottery through Arts Council England.          
+Shadow Girl commissioned by hÅb for Hazard 2018; supported using public funding by the National Lottery through Arts Council England.          
           
 #### Websites            
 <a href="http://proudandloudarts.com" target="_blank">proudandloudarts.com</a> | <a href="http://twitter.com/proudandloudart" target="_blank">@proudandloudart</a> | <a href="http://facebook.com/proudandloudarts" target="_blank">Proud & Loud Arts on facebook</a><br><a href="http://hazardmcr.org" target="_blank">hazardmcr.org</a> | <a href="http://twitter.com/hazardmcr" target="_blank">@hazardmcr</a>
