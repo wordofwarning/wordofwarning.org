@@ -5,7 +5,7 @@ rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Chrissy Jones" # the name of the artist or company
-show: "<span style='font-variant: small-caps'>Hazard 2018 — </span><br>Shadow Girl" # the name of the show
+show: "<span style='font-style: normal'>Hazard 2018 — </span><br>Shadow Girl" # the name of the show
 artist_size: 1
 show_size: 2
 header_image: "header_shadow_girl.jpg" # to be added between quote marks later on    
