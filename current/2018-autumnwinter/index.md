@@ -1,14 +1,14 @@
 ---
 # CONFIGURATION
-layout: 2018-springsummer
+layout: 2018-autumnwinter
 rootpath: "../../"
 is_index: true
-season: "S/S 2018"
+season: "A/W 2018"
 
 ---
-*In a break from the norm, Spring/Summer 2018 is less of a season and more a series of events popping up — so keep checking here, or <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail. We're taking this mini-break to allow for a bit of in-house stock-taking — fittingly, therefore, our first offering is [The Audit](/current/2018-springsummer/proto-type); we continue with some new [Works Ahead](/current/2018-worksahead), followed by [History History History](/current/2018-springsummer/pearson); we wrap-up with a mini-outbreak of [Hazardous behaviour](/current/2018-springsummer/hazardshadowgirl)…*        
+*Autumn/Winter 2018 season… <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail. First comes [Emergency](/current/2018-emergency); we continue with [Rita](/current/2018-autumnwinter/marcalo), followed by [Stacy](/current/2018-autumnwinter/makishi)…*        
            
-Brought to you by hÅb — with The Lowry, Contact, Sustained Theatre Up North, and Proud & Loud Arts — we look forward to seeing you at some or all of Spring/Summer 2018. If you want to check out what happened last season take a look at our [Autumn/Winter 2017 archive](/archive/2017-autumnwinter), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=152950990710" target="_blank">online survey</a>.                 
+Brought to you by hÅb — with The Lowry, Sustained Theatre Up North, Z-arts — we look forward to seeing you at some or all of Autumn/Winter 2018. If you want to check out what happened last season take a look at our [Spring/Summer 2018 archive](/archive/2018-springsummer), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=152950990710" target="_blank">online survey</a>.                 
              
 #### What is Word of Warning + where did it come from?         
 >*Consistently refreshing and surprising, no season is ever the same…*          
@@ -17,7 +17,7 @@ Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful an
          
 >*…a strand of alternative and fledgling work that has only recently got a new lease of life via Word of Warning and Emergency.*<br><a href="http://www.creativetourist.com/articles/theatre/manchester/manchester-theatre-lyn-gardner-on-a-city-reaching-beyond-the-theatrical-peaks" target="_blank">Creative Tourist on Manchester theatre (November 2014)</a>
          
-We take live work very seriously — but we don't take ourselves seriously at all. Over the past 6 years we've shown funny, thought-provoking, beautiful work by the likes of FK Alexander, Jo Bannon, Richard DeDomenici, Eggs Collective, Nic Green, Ria Hartley, Stacy Makishi, Kim Noble, Darren Pritchard, Proto-type Theater + Greg Wohead, amongst others. We've also created bonkers all ages live art ([Haphazard](http://haphazardmcr.org)), hosted [Hunt & Darton's pop-up art-café](/archive/2015-spring/h&d), unleashed bizarre behaviour upon Manchester's city centre ([Hazard](http://hazardmcr.org), re-appearing this August), and created performance festivals in blocks of flats ([Domestic](http://domesticmcr.org)).          
+We take live work very seriously — but we don't take ourselves seriously at all. Over the past 6½ years we've shown funny, thought-provoking, beautiful work by the likes of FK Alexander, Jo Bannon, Richard DeDomenici, Eggs Collective, Nic Green, Ria Hartley, Stacy Makishi, Kim Noble, Deborah Pearson, Darren Pritchard, Proto-type Theater + Greg Wohead, amongst others. We've also created bonkers all ages live art ([Haphazard](http://haphazardmcr.org)), hosted [Hunt & Darton's pop-up art-café](/archive/2015-spring/h&d), unleashed bizarre behaviour upon Manchester's city centre ([Hazard](http://hazardmcr.org), re-appearing this August), and created performance festivals in blocks of flats ([Domestic](http://domesticmcr.org)).          
          
 >*Curated by the ever-impressive Word Of Warning…*<br><a href="http://www.theguardian.com/stage/2013/nov/02/this-weeks-theatre" target="_blank">The Guardian's Lyn Gardner, on Domestic (November 2013)</a>         
          
