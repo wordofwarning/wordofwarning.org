@@ -5,9 +5,9 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Chrissy Jones" # the name of the artist or company
-show: "<span style='font-style: normal'>Hazard 2018:</span> Shadow Girl — the city streets" # the name of the show
+show: "<span style='font-style: normal'>Hazard 2018: <br></span> Shadow Girl — <br>the city streets" # the name of the show
 artist_size: 1
-show_size: 4
+show_size: 2
 header_image: "header_shadow_girl.jpg"    
 season: "Hazard 2018: Shadow Girl — the city streets 4|8|2018"
 
