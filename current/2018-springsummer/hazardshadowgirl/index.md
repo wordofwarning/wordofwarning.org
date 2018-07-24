@@ -20,7 +20,7 @@ season: "Hazard 2018: Shadow Girl — the city streets 4|8|2018"
 *Presented by* Word of Warning *+* Proud & Loud Arts            
          
 #### In Brief      
-Shadowy figures move silently through the city, playing, questioning, exploring visibility + vulnerability…     
+Shadowy figures move silently through the city streets, playing, questioning, exploring visibility + vulnerability…     
                
 #### Event Details        
 Date: Saturday 4 August 2018, during the afternoon                
