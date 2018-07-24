@@ -5,9 +5,9 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Chrissy Jones" # the name of the artist or company
-show: "<span style='font-style: normal'>Hazard 2018:</span> <br>Shadow Girl — <br>the city streets" # the name of the show
+show: "<span style='font-style: normal'>Hazard 2018:</span> Shadow Girl — the city streets" # the name of the show
 artist_size: 1
-show_size: 3
+show_size: 4
 header_image: "header_shadow_girl.jpg"    
 season: "Hazard 2018: Shadow Girl — the city streets 4|8|2018"
 
@@ -44,7 +44,7 @@ Chrissy Jones is a Manchester-based artist living with a Learning Disability Lab
              
 #### Credits         
 Creator: Chrissy Jones | Director: Tom Hogan | Movement: Susan Swanson | Concept Design: Nerissa Cargill Thompson | Graphic Design: John Ossoway | Illustrations: Lizzie Finlay         
-*Shadow Girl — the city streets* commissioned by hÅb for Hazard 2018; produced by Proud & Loud Arts; supported using public funding by the National Lottery through Arts Council England.            
+*Shadow Girl — the city streets* commissioned by hÅb for Hazard 2018; produced by Proud & Loud Arts; supported using public funding by the National Lottery through Arts Council England. Thanks to Cross Street Chapel.            
           
 #### Websites            
 <a href="http://proudandloudarts.com" target="_blank">proudandloudarts.com</a> | <a href="http://twitter.com/proudandloudart" target="_blank">@proudandloudart</a> | <a href="http://facebook.com/proudandloudarts" target="_blank">Proud & Loud Arts on facebook</a><br><a href="http://hazardmcr.org" target="_blank">hazardmcr.org</a> | <a href="http://twitter.com/hazardmcr" target="_blank">@hazardmcr</a>
