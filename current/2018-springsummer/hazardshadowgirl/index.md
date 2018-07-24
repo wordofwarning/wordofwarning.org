@@ -40,7 +40,7 @@ Sometimes it's more than words, and people are often fearful of making themselve
 #### Who is she           
 Chrissy Jones is a Manchester-based artist living with a Learning Disability Label. She is a long standing artist with Proud & Loud Arts and has recently been working with The Lowry, DIY + Access all Areas in *MADHOUSE re:exit*, performed in Manchester's Barton Arcade.          
               
-*Shadow Girl* is her first solo work, originally developed as part of Proud & Loud Arts’ group work *Cells – A Body of Work*, here expanded and developed on a larger scale. In *Shadow Girl — the city streets*, Chrissy wants to bring a positive discussion about learning disability to a wider public audience through a creative intervention in public spaces.             
+*Shadow Girl* is her first solo work, originally developed as part of Proud & Loud Arts’ group work *Cells – A Body of Work*, here expanded and developed on a larger scale for Hazard 2018. In *Shadow Girl — the city streets*, Chrissy wants to bring a positive discussion about learning disability to a wider public audience through a creative intervention in public spaces.             
              
 #### Credits         
 Creator: Chrissy Jones | Director: Tom Hogan | Movement: Susan Swanson | Concept Design: Nerissa Cargill Thompson | Graphic Design: John Ossoway | Illustrations: Lizzie Finlay         
