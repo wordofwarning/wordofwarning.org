@@ -6,8 +6,8 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Chrissy Jones" # the name of the artist or company
 show: "<span style='font-style: normal'>Hazard 2018: </span><br>Shadow Girl <br>— the city streets" # the name of the show
-artist_size: 1
-show_size: 2
+artist_size: 2
+show_size: 3
 header_image: "header_shadowgirl.jpg"    
 season: "Hazard 2018: Shadow Girl — the city streets 4|8|2018"
 
@@ -24,9 +24,9 @@ Shadowy figures move silently through the city streets of Manchester, playing, q
                
 #### Event Details        
 Date: Saturday 4 August 2018, starting at 12noon / 1.45pm / 3.30pm                
-Location: Manchester City Centre, from St Ann's Square to Exchange Square          
-Tickets: FREE/unticketed (aimed for you to encounter by chance in the city)             
-Telephone: call or text 07488 308 111 on the day           
+Location: Manchester City Centre, from St Ann's Square to Exchange Square.          
+Tickets: FREE/unticketed (aimed for you to encounter by chance in the city).             
+Telephone: call or text 07488 308 111 on the day.           
           
 #### Access Information            
 Age advisory: suitable for ALL ages, Hazard 2018 takes place outside. For specific age + access information please email <mailto:info@habmcr.org>, or call 0161 232 6086 before the event / 07488 308 111 on the day of the event.     
