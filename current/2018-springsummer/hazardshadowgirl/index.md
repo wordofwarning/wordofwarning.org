@@ -8,7 +8,7 @@ artist: "Chrissy Jones" # the name of the artist or company
 show: "<span style='font-style: normal'>Hazard 2018: </span><br>Shadow Girl <br>— the city streets" # the name of the show
 artist_size: 1
 show_size: 2
-header_image: "header_shadow_girl.jpg"    
+header_image: "header_shadowgirl.jpg"    
 season: "Hazard 2018: Shadow Girl — the city streets 4|8|2018"
 
 # ABOUT THE SHOW - LAYOUT
