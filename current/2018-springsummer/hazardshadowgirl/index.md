@@ -23,13 +23,13 @@ season: "Hazard 2018: Shadow Girl — the city streets 4|8|2018"
 Shadowy figures move silently through the city streets of Manchester, playing, questioning, exploring visibility + vulnerability…     
                
 #### Event Details        
-Date: Saturday 4 August 2018, starting from 12noon + 1.45pm + 3.30pm                
-Location: Manchester City Centre — from St Ann's Square to Exchange Square via New Cathedral Street          
-Tickets: FREE/unticketed — aimed for you to encounter by chance             
+Date: Saturday 4 August 2018, starting at 12noon / 1.45pm / 3.30pm                
+Location: Manchester City Centre, from St Ann's Square to Exchange Square          
+Tickets: FREE/unticketed (aimed for you to encounter by chance in the city)             
 Telephone: call or text 07488 308 111 on the day           
           
 #### Access Information            
-Age advisory: suitable for ALL ages. Hazard 2018 takes place outside. For specific age + access information please email <mailto:info@habmcr.org>, or call 0161 232 6086 before the event / 07488 308 111 on the day of the event.     
+Age advisory: suitable for ALL ages, Hazard 2018 takes place outside. For specific age + access information please email <mailto:info@habmcr.org>, or call 0161 232 6086 before the event / 07488 308 111 on the day of the event.     
         
 ![Shadow Girl — the city streets](shadowgirlcartoon.jpg)        
         
