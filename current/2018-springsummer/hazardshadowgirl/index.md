@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: 2018-hsg
+layout: 2018-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
