@@ -23,8 +23,8 @@ season: "Hazard 2018: Shadow Girl — the city streets 4|8|2018"
 Shadowy figures move silently through the city streets of Manchester, playing, questioning, exploring visibility + vulnerability…     
                
 #### Event Details        
-Date: Saturday 4 August 2018, starting from 12noon; 1.45pm; 3.30pm                
-Location: Manchester City Centre — from St Ann's Square to Exchange Square via New Cathedral St
+Date: Saturday 4 August 2018, starting from 12noon + 1.45pm + 3.30pm                
+Location: Manchester City Centre — from St Ann's Square to Exchange Square via New Cathedral Street          
 Tickets: FREE/unticketed — aimed for you to encounter by chance             
 Telephone: call or text 07488 308 111 on the day           
           
@@ -47,7 +47,7 @@ Chrissy Jones is a Manchester-based artist living with a Learning Disability Lab
              
 #### Credits         
 Creator: Chrissy Jones | Director: Tom Hogan | Movement: Susan Swanson | Concept Design: Nerissa Cargill Thompson | Graphic Design: John Ossoway | Illustrations: Lizzie Finlay         
-*Shadow Girl — the city streets* commissioned by hÅb for [Hazard](/) 2018; produced by Proud & Loud Arts; supported using public funding by the National Lottery through Arts Council England. Thanks to Cross Street Chapel.            
+*Shadow Girl — the city streets* commissioned by [hÅb](/hab) for [Hazard](/hab/hazard) 2018; produced by <a href="http://proudandloudarts.com" target="_blank">Proud & Loud Arts</a>; supported using public funding by the National Lottery through Arts Council England. Thanks to Cross Street Chapel.            
           
 #### Websites            
-<a href="http://proudandloudarts.com" target="_blank">proudandloudarts.com</a> | <a href="http://twitter.com/proudandloudart" target="_blank">@proudandloudart</a> | <a href="http://facebook.com/proudandloudarts" target="_blank">Proud & Loud Arts on facebook</a><br><a href="http://hazardmcr.org" target="_blank">hazardmcr.org</a> | <a href="http://twitter.com/hashtag/hazardmcr" target="_blank">#HazardMcr</a> <a href="http://twitter.com/hashtag/shadowgirl" target="_blank">#ShadowGirl</a>
+<a href="http://proudandloudarts.com" target="_blank">proudandloudarts.com</a> | <a href="http://twitter.com/proudandloudart" target="_blank">@proudandloudart</a> | <a href="http://facebook.com/proudandloudarts" target="_blank">Proud & Loud Arts on facebook</a><br><a href="http://hazardmcr.org" target="_blank">hazardmcr.org</a> | <a href="http://twitter.com/hashtag/hazardmcr" target="_blank">#HazardMcr</a> | <a href="http://twitter.com/hashtag/shadowgirl" target="_blank">#ShadowGirl</a>
