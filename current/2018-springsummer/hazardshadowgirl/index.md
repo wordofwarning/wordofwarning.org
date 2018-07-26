@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Chrissy Jones" # the name of the artist or company
-show: "<span style='font-style: normal'>Hazard 2018: </span><br>Shadow Girl <br>— the city streets" # the name of the show
+show: "<span style='font-style: normal'>Hazard 2018:</span><br> Shadow Girl —<br> the city streets" # the name of the show
 artist_size: 2
 show_size: 3
 header_image: "header_shadowgirl.jpg"    
@@ -19,11 +19,11 @@ season: "Hazard 2018: Shadow Girl — the city streets 4|8|2018"
 ---
 *Presented by* Word of Warning *+* Proud & Loud Arts            
          
-### Saturday 4 August 2018, 12noon-4.15pm. Free      
+### Saturday 4 August 2018, 12noon-4.15pm      
 Shadowy figures move silently through the city streets of Manchester, playing, questioning, exploring visibility + vulnerability…     
                
 #### Event Details        
-Date: Saturday 4 August 2018, starting at 12noon / 1.45pm / 3.30pm                
+Date: Saturday 4 August 2018, starting at 12noon; 1.45pm; 3.30pm                
 Location: Manchester City Centre, from St Ann's Square to Exchange Square.          
 Tickets: FREE/unticketed (aimed for you to encounter by chance in the city).             
 Telephone: call or text 07488 308 111 on the day.           
