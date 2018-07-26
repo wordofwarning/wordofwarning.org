@@ -31,7 +31,7 @@ Telephone: call or text 07488 308 111 on the day.
 ![Shadow Girl — the city streets](shadowgirlcartoon.jpg)        
           
 #### Access Information            
-Age advisory: suitable for ALL ages, Hazard 2018 takes place outside. For specific age + access information please email <mailto:info@habmcr.org>, or call 0161 232 6086 before the event / 07488 308 111 on the day of the event.     
+Age advisory: suitable for ALL ages, Hazard 2018 takes place outside. For specific age + access information please email <mailto:info@habmcr.org>, or call 0161 232 6086 before the event; 07488 308 111 on the day of the event.     
         
 #### More         
 In 2015 Greater Manchester Police recorded the UK's 2nd highest rate of hate crime — with the number of disablity motivated crimes more than doubling since 2014. *Shadow Girl — the city streets* is a creative response to this, aiming to make people living with disability labels more visible on our streets…         
