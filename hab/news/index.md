@@ -20,17 +20,5 @@ Upcoming artist opportunities from hÅb are published below when we have them; y
              
 ## Upcoming Events + Opportunities        
         
-#### Emergency 2018 — Call for Artists
-hÅb's annual platform for live art + contemporary performance, is now open for proposals… Our nineteenth [Emergency](/hab/emergency) takes place on Saturday 6 October 2018, 12noon-10pm, in Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> (incl. <a href="http://stunlive.com" target="_blank">STUN Studio</a>), with the callout for proposals open until **Wednesday 15 August, 5pm** — see full details <a href="http://emergencymcr.posthaven.com" target="_blank">here</a>.             
-              
-#### *KIDNAP@20: The Art of Incarceration Symposium*<br>Friday 20 July, 12.30-7pm at Martin Harris Centre. Free          
-Widely covered in the press and media, *KIDNAP* caught the public imagination as an edgy example of what the internet was now making possible. A pivotal event in Blast Theory's evolution as a company, the piece also anticipated all kinds of subsequent developments in the wider culture — from the round-the-clock surveillance of reality TV shows like Big Brother, to the 21st century vogue for audience participation in live art, and the contemporary ubiquity of 'escape rooms' (getting yourself locked up for kicks).        
-        
-*<a href="http://www.eventbrite.co.uk/e/kidnap20-the-art-of-incarceration-tickets-45734469028" target="_blank">KIDNAP@20</a>* is a one-day symposium marking the piece's 20th anniversary, which will look back at where we were then, and ask where we are now. What has changed in the realms of digital art and technology, participatory performance, and the politics of consent? When, how and why do surveillance, imprisonment, and power games become art or entertainment?          
-        
-<a href="http://www.eventbrite.co.uk/e/kidnap20-the-art-of-incarceration-tickets-45734469028" target="_blank">The event</a> includes a screening of the film document of *KIDNAP* (30 mins) and reflections on other relevant work, including Rideout's *Cell Project* (2016) + Ali Matthews' *What the Money Meant* (2014). Full schedule tba.        
-        
-Participants include:        
-Matt Adams, Ju Row Farr + Nick Tandavanitj (Blast Theory core artists) | John McGrath (Artistic Director, Manchester International Festival; author of Loving Big Brother) | Saul Hewish (Artistic Director, Rideout: Creative Arts for Rehabilitation) | Ali Matthews (independent artist; University of Salford) | Tamsin Drury (hÅb) + Dave Carter (University of Manchester) | Matt Fenton (Artistic Director, Contact) | Petra Tauscher (Dramaturg + Producer, HOME Manchester) | Professor Stephen Coleman (University of Leeds) | Russell Ward (1998 *Kidnap* victim)         
-         
-To sign up for this FREE event, please visit the <a href="http://www.eventbrite.co.uk/e/kidnap20-the-art-of-incarceration-tickets-45734469028" target="_blank">Eventbrite</a> page. If you have questions or suggestions, contact Stephen Scott-Bottoms: <mailto:stephen.bottoms@manchester.ac.uk>
+#### Emergency 2018 — Call for Artists            
+hÅb's annual platform for live art + contemporary performance, is now open for proposals… Our nineteenth [Emergency](/hab/emergency) takes place on Saturday 6 October 2018, 12noon-10pm, in Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> (incl. <a href="http://stunlive.com" target="_blank">STUN Studio</a>), with the callout for proposals open until **Wednesday 15 August, 5pm** — see full details <a href="http://emergencymcr.posthaven.com" target="_blank">here</a>.
