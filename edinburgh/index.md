@@ -18,3 +18,8 @@ Please be aware that this is very much my pick, largely from paper — so don't 
 <object data="Edinburgh18new.pdf" type="application/pdf" width="100%" height="4000">
     <embed src="Edinburgh18new.pdf" type="application/pdf" />
 </object>
+
+And below is the Weekly Warning for  Fri 27 Jul!       
+<object data="warnmcrshade.pdf" type="application/pdf" width="100%" height="4000">
+    <embed src="warnmcrshade.pdf" type="application/pdf" />
+</object>
