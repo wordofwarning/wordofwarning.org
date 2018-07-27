@@ -15,7 +15,8 @@ season: "Weekly Warning — Edinburgh Festivals 2018 Edit"
 
 ---
 Please be aware that this is very much my pick, largely from paper – so don't hold it against me! Please forgive things I've missed and note I don't focus on internationals as they're beyond Word of Warning' programming paygrade! Final tips – please check dates carefully as you don't want to fall prey to random days off – and my main tip is to log-in to EdFringe, and use the favourites facility (you can then export them as a handy spreadsheet and sort it as you please – it's the only thing that keeps me halfway sane!) All that said I've not fully planned my strategy – it could well be an exhausting there and back for Live Art Bistro's overnight odyssey!        
-        
-<object data="Edinburgh18new.pdf" type="application/pdf">
+           
+*This PDF can be downloaded/saved to your own device*        
+<object data="Edinburgh18new.pdf" type="application/pdf" width="100%" height="100%">
     <embed src="Edinburgh18new.pdf" type="application/pdf" />
 </object>
