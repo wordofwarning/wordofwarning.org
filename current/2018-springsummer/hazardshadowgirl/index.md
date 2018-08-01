@@ -47,7 +47,7 @@ Chrissy Jones is a Manchester-based artist living with a Learning Disability Lab
              
 #### Credits         
 Creator: Chrissy Jones | Director: Tom Hogan | Movement: Susan Swanson | Concept Design: Nerissa Cargill Thompson | Graphic Design: John Ossoway | Illustrations: Lizzie Finlay         
-*Shadow Girl — the city streets* commissioned by [hÅb](/hab) for [Hazard](/hab/hazard) 2018; produced by <a href="http://proudandloudarts.com" target="_blank">Proud & Loud Arts</a>; supported using public funding by the National Lottery through Arts Council England. Thanks to The University of Bolton, DIY Theatre Company, The Octagon Theatre, Gorse Hill Studioa, Cross Street Chapel and Z-arts.            
+*Shadow Girl — the city streets* commissioned by [hÅb](/hab) for [Hazard](/hab/hazard) 2018; produced by <a href="http://proudandloudarts.com" target="_blank">Proud & Loud Arts</a>; supported using public funding by the National Lottery through Arts Council England. Thanks to The University of Bolton, DIY Theatre Company, The Octagon Theatre, Gorse Hill Studios, Cross Street Chapel and Z-arts.            
           
 #### Websites            
 <a href="http://proudandloudarts.com" target="_blank">proudandloudarts.com</a> | <a href="http://twitter.com/proudandloudart" target="_blank">@proudandloudart</a> | <a href="http://facebook.com/proudandloudarts" target="_blank">Proud & Loud Arts on facebook</a><br><a href="http://hazardmcr.org" target="_blank">hazardmcr.org</a> | <a href="http://twitter.com/hashtag/hazardmcr" target="_blank">#HazardMcr</a> | <a href="http://twitter.com/hashtag/shadowgirl" target="_blank">#ShadowGirl</a>
