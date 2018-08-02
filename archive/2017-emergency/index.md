@@ -19,7 +19,7 @@ season: "Emergency 30|9|2017"
 *Presented by* Word of Warning, STUN *+* Z-arts           
          
 ### Saturday 30 September. Pay What You Decide             
-Manchester's micro-marathon of the bizarre + the beautiful comes of age as our eighteenth day-long performance takeover fills Z-arts to bursting point…        
+Manchester's micro-marathon of the bizarre + the beautiful comes of age as our 18th day-long performance takeover fills Z-arts to bursting point with some 27 live works…        
              
 [From noon](/archive/2017-emergency/afternoon) dip in and out of ongoing performances, installations + limited capacity experiences, and [from 5pm](/archive/2017-emergency/evening) join us for a series of short sit-down shows in this non-stop performance takeover; see our [gallery of 2017 artists](/galleries/2017-emergencypre).<br>**Your chance to sample the different — then pay what you decide!**        
         
