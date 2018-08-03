@@ -20,18 +20,18 @@ season: "Hazard 2018: Shadow Girl — the city streets 4|8|2018"
 *Presented by* Word of Warning *+* Proud & Loud Arts            
          
 ### Saturday 4 August 2018, 12noon-4.15pm      
-Shadowy figures move silently through the city streets of Manchester, playing, questioning, exploring visibility + vulnerability…     
+Shadowy figures move silently through the city streets of central Manchester, playing, questioning, exploring visibility + vulnerability…     
                
 #### Event Details        
-Date: Saturday 4 August 2018, starting at 12noon; 1.45pm; 3.30pm                
-Location: Manchester City Centre, from St Ann's Square to Exchange Square.          
-Tickets: FREE/unticketed (aimed for you to encounter by chance in the city).             
-Telephone: call or text 07488 308 111 on the day.           
+Date: Saturday 4 August 2018, starting at 12noon / 1.45pm / 3.30pm                
+Location: within Manchester City Centre, a 45 minute journey from St Ann's Square to Exchange Square and back.          
+Tickets: FREE / unticketed, and aimed for you to encounter by chance.             
+Telephone: call / text 07488 308 111 on the day to find the shadows.           
           
 ![Shadow Girl — the city streets](shadowgirlcartoon.jpg)        
           
 #### Access Information            
-Age advisory: suitable for ALL ages, Hazard 2018 takes place outside. For specific age + access information please email <mailto:info@habmcr.org>, or call 0161 232 6086 before the event; 07488 308 111 on the day of the event.     
+Age advisory: suitable for ALL ages, Hazard 2018 takes place outside. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086 before the event; call 07488 308 111 on the day of the event.     
         
 #### More         
 In 2015 Greater Manchester Police recorded the UK's 2nd highest rate of hate crime — with the number of disablity motivated crimes more than doubling since 2014. *Shadow Girl — the city streets* is a creative response to this, aiming to make people living with disability labels more visible on our streets…         
