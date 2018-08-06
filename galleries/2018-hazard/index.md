@@ -8,8 +8,8 @@ header: Haz<br>ard
 stylesheet: gallery.css
 
 header_url: "../../galleries"
-more_link: Click for info.
-more_url: "../../current/2018-hazard"
+more_link: More info.
+more_url: "../../current/2018-springsummer/hazardshadowgirl"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small><i>Shadow Girl — the city streets</i> by Chrissy Jones, presented with Proud & Loud Arts, August 2018.</small>", show: "<small>All images copyright &copy;2018 Word of Warning</small>"}
