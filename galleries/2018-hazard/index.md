@@ -18,7 +18,6 @@ gallery:
     -   {file: "sg3.jpg", artist: "Chrissy Jones", show: "Shadow Girl - the city streets"}
     -   {file: "sg4.jpg", artist: "Chrissy Jones", show: "Shadow Girl - the city streets"}
     -   {file: "sg5.jpg", artist: "Chrissy Jones", show: "Shadow Girl - the city streets"}
-    -   {file: "sg1.jpg", artist: "Chrissy Jones", show: "Shadow Girl - the city streets"}
     -   {file: "sg6.jpg", artist: "Chrissy Jones", show: "Shadow Girl - the city streets"}
     -   {file: "sg7.jpg", artist: "Chrissy Jones", show: "Shadow Girl - the city streets"}
     -   {file: "sg8.jpg", artist: "Chrissy Jones", show: "Shadow Girl - the city streets"}
