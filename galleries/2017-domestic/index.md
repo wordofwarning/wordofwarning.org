@@ -1,10 +1,10 @@
 ---
-
 layout: fullscreengallery
 assetpath: "../../../"
 galleryimagespath: ""
 
 title: "Word of Warning presents Rent Party: Domestic Edition 10+11|11|2017"
+header:
 stylesheet: gallery.css
 
 header_url: "../../galleries"
@@ -25,5 +25,4 @@ gallery:
     -   {file: "rp10.jpg", artist: "<small><i>Rent Party: Domestic Edition</i> by Darren Pritchard Dance, presented with the Guinness Partnership, November 2017.</small>"}
     -   {file: "rp11.jpg", artist: "<small><i>Rent Party: Domestic Edition</i> by Darren Pritchard Dance, presented with the Guinness Partnership, November 2017.</small>"}
     -   {file: "rp12.jpg", artist: "<small><i>Rent Party: Domestic Edition</i> by Darren Pritchard Dance, presented with the Guinness Partnership, November 2017.</small>"}
-
 ---
