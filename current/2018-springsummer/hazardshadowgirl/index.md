@@ -20,7 +20,7 @@ season: "Hazard 2018: Shadow Girl — the city streets 4|8|2018"
 *Presented by* Word of Warning *+* Proud & Loud Arts            
          
 ### Saturday 4 August 2018, 12noon-4.15pm      
-Shadowy figures move silently through the city streets of central Manchester, playing, questioning, exploring visibility + vulnerability…     
+Shadowy figures move silently through the city streets of central Manchester: playing, questioning, exploring visibility + vulnerability… Now that it's over, see [images](/galleries/2018-hazard) from the event.    
                
 #### Event Details        
 Date: Saturday 4 August 2018, starting at 12noon / 1.45pm / 3.30pm                
