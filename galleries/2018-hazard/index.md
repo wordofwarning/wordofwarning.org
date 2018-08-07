@@ -4,7 +4,7 @@ assetpath: "../../../"
 galleryimagespath: ""
 
 title: "Word of Warning presents Hazard 4|8|2018"
-header: Haz<br>ard
+header: Hazard<br>2018
 stylesheet: gallery.css
 
 header_url: "../../galleries"
