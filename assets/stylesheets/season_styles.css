@@ -659,7 +659,7 @@
 	.woah .splash
 		{background:url(../images/header_woah_photo.jpg) center center}
 
-/* Hazard 2018 yellow with white diagonals + black/yellow stripy Warnin
+/* Hazard 2018 yellow with white diagonals + SG cartoon strip
 ------------------------------------------------------*/
 
 	.h2018,
@@ -690,7 +690,7 @@
 	.h2018 footer a:hover
 		{background: #000; color: #fff;}
 	.h2018 .splash
-		{background:url(../images/header_ss2016wrnhaz.jpg) -150px center}
+		{background:url(../images/header_HSG2018cartoon.jpg) -150px center}
 
 /* Autumn/Winter 2018 Programme frozen leaves (placeholder)
 ------------------------------------------------------*/
