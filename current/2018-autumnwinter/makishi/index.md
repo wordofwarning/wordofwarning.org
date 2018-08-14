@@ -8,7 +8,7 @@ artist: "Deborah Pearson" # the name of the artist or company
 show: "History History History" # the name of the show
 artist_size: 2
 show_size: 3
-header_image: "header_makishi.jpg"    
+header_image: "header_makishiflip.jpg"    
 season: "Deborah Pearson 13|6|2018"
 
 # ABOUT THE SHOW - LAYOUT
