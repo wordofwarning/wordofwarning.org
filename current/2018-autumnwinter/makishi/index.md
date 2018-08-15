@@ -7,7 +7,7 @@ rootpath: "../../../"
 artist: "Stacy Makishi" # the name of the artist or company
 show: "The Comforter" # the name of the show
 artist_size: 1
-show_size: 2
+show_size: 1
 header_image: "header_makishiflip.jpg"    
 season: "Stacy Makishi 21|11|2018"
 
@@ -25,23 +25,23 @@ Join Stacy Makishi to explore — through meditation, ritual, and disco — what
 Read her interview in <a href="http://www.thestage.co.uk/features/interviews/2018/performance-artist-stacy-makishi-i-was-visited-by-the-ghost-of-george-michael" target="_blank">The Stage</a>.       
         
 #### Venue + Booking Details           
-Date: Wednesday 21 November 2018, 7pm (*NB* see other show at The Lowry starting 8pm?)          
+Date: Wednesday 21 November 2018, 7pm (***NB see 8pm show at The Lowry?***)          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
 <a href="http://www.thelowry.com/events/stacy-makishi" target="_blank">Tickets: available to reserve from ***Friday 26 October***</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
-Age advisory: ***TBC 16+*** (parental/guardian discretion). With no interval, the show lasts approximately 1 hour. Features a combination of ***spoken text, film + music***. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: ***TBC 16+*** (parental/guardian discretion). With no interval, the show lasts approximately 1 hour. Features a combination of ***TBC spoken text, film + music***. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
-Part ritual; part prayer; part rowdy revivalist rally — *The Comforter* sees Stacy Makishi return with a follow-up to 2015's [*Vesper Time*](/archive/2015-autumnwinter/makishi), in a rite of passage that reclaims spirituality and proposes a new perspective on church.        
+Part ritual; part prayer; part rowdy revivalist rally — *The Comforter* sees Stacy Makishi return with a follow-up to [2015's *Vesper Time*](/archive/2015-autumnwinter/makishi), in a rite of passage that reclaims spirituality and proposes a new perspective on church.        
           
-Exchanging psalms and sacrament for 80s/90s pop culture, drawing inspiration from *Twin Peaks* and Ingmar Bergman, Stacy throws a kiss to George Michael…            
+Exchanging psalms and sacrament for 80s/90s pop culture, and drawing inspiration from *Twin Peaks* and Ingmar Bergman, Stacy throws a kiss to George Michael…            
           
-Following [*Vesper Time*](/archive/2015-autumnwinter/makishi)), *The Comforter* is part two of her three-show series about the Holy Trinity — and, as the Holy Ghost of the trio, asks the question: ‘What am I unwilling to feel?’               
+Following [*Vesper Time*](/archive/2015-autumnwinter/makishi), *The Comforter* is show two in her trilogy about the Holy Trinity — and, as the Holy Ghost of the trio, asks the question: ‘What am I unwilling to feel?’               
            
 #### Who is she?        
-A multi-award winning artist who has been making work for 30 years, Stacy Makishi is a transplant from Hawaii who found paradise in Dalston, East London in 1994.            
+A multi-award winning artist who has been making work for over 30 years, Stacy Makishi is a transplant from Hawaii who found paradise in Dalston, East London in 1994.            
        
 After graduating from the University of Hawaii she worked as a stand-up comic at the Comedy Store: but when her punchlines punched back, Stacy found herself happiest when making what New Yorkers called 'Performance'.            
        
