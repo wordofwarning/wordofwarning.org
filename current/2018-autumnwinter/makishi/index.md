@@ -1,15 +1,15 @@
 ---
 # CONFIGURATION
-layout: 2018-springsummer
+layout: 2018-autumnwinter
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Deborah Pearson" # the name of the artist or company
-show: "History History History" # the name of the show
-artist_size: 2
-show_size: 3
+artist: "Stacy Makishi" # the name of the artist or company
+show: "The Comforter" # the name of the show
+artist_size: 1
+show_size: 2
 header_image: "header_makishiflip.jpg"    
-season: "Deborah Pearson 13|6|2018"
+season: "Stacy Makishi 21|11|2018"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -27,9 +27,9 @@ Now that it's over, read a ★★★★ review by <a href="http://www.thereviews
 <iframe src="http://player.vimeo.com/video/166492282" width="640" height="360" frameborder="0" allowfullscreen></iframe>         
         
 #### Venue + Booking Details           
-Date: Wednesday 13 June 2018, 8pm          
+Date: Wednesday 21 November 2018, 7pm (*NB* other show at The Lowry starts 8pm?*)          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-<a href="http://www.thelowry.com/events/wtf-wed-history-history-history" target="_blank">Tickets: available to reserve from Wednesday 16 May</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
+<a href="http://www.thelowry.com/events/wtf-" target="_blank">Tickets: available to reserve from Wednesday 31 October?</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
