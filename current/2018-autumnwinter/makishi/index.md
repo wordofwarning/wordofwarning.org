@@ -20,41 +20,45 @@ season: "Stacy Makishi 21|11|2018"
 *Presented by* The Lowry + Word of Warning *as part of* <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF</a>           
          
 #### In Brief      
-How a 1950s Soviet-sponsored sports comedy became tied to a political uprising that made a mark on world history. 
+Join Stacy Makishi to explore — through meditation, ritual, and disco — what it means to be fully alive and fully human.        
          
-Now that it's over, read a ★★★★ review by <a href="http://www.thereviewshub.com/history-history-history-the-lowry-salford" target="_blank">The Reviews Hub</a>.         
-         
-<iframe src="http://player.vimeo.com/video/166492282" width="640" height="360" frameborder="0" allowfullscreen></iframe>         
+Read her interview in <a href="http://www.thestage.co.uk/features/interviews/2018/performance-artist-stacy-makishi-i-was-visited-by-the-ghost-of-george-michael" target="_blank">The Stage</a>.       
         
 #### Venue + Booking Details           
-Date: Wednesday 21 November 2018, 7pm (*NB* other show at The Lowry starts 8pm?*)          
+Date: Wednesday 21 November 2018, 7pm (*NB* see other show at The Lowry starting 8pm?)          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-<a href="http://www.thelowry.com/events/wtf-" target="_blank">Tickets: available to reserve from Wednesday 31 October?</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
+<a href="http://www.thelowry.com/events/stacy-makishi" target="_blank">Tickets: available to reserve from ***Friday 26 October***</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
-Age advisory: ***TBC*** (parental/guardian discretion). With no interval, the show lasts approximately ***1 hour***. Features a combination of ***spoken text, music + film***. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: ***TBC 16+*** (parental/guardian discretion). With no interval, the show lasts approximately 1 hour. Features a combination of ***spoken text, film + music***. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
-Part ritual; part prayer; part rowdy revivalist rally, *The Comforter* is a rite of passage that reclaims spirituality and proposes a new perspective on church. Exchanging psalms and sacrament for 80s/90s pop culture, it draws inspiration from *Twin Peaks* and Ingmar Bergman, and throws a kiss to George Michael.            
-                   
-*The Comforter* follows the powerfully moving and absurdly humorous *Vesper Time* ("a gorgeous hymn… for fearlessness, truth and love" — Exeunt): together they make up the first two of a three-show series about the Holy Trinity — *The Comforter* is the Holy Ghost of the trio, and asks the question: ‘What am I unwilling to feel?’                
-           
-Join Stacy to explore — through meditation, ritual, and disco — what it means to be fully alive and fully human.           
-            
-#### Who is she        
-A multi-award winning artist who has been making work for 30 years.        
-       
-#### What people have said about *HHH*         
->*The show’s poignant humanity, its bittersweet reflections on the relentlessness of time and its potent blend of uplifting possibility and heartrending pathos make for an enchanting 90 minutes.*<br><a href="http://www.thefixmagazine.com/index/history-history-history" target="_blank">★★★★★ The Fix Magazine</a><br>*A roving and inventive presentation.*<br><a href="http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/flatpack-festival-birmingham-2017-nature-aquatic" target="_blank">Sight and Sound Magazine</a>            
+Part ritual; part prayer; part rowdy revivalist rally — *The Comforter* sees Stacy Makishi return with a follow-up to 2015's [*Vesper Time*](/archive/2015-autumnwinter/makishi), in a rite of passage that reclaims spirituality and proposes a new perspective on church.        
           
-*History History History* in Salford is previewed by <a href="http://confidentials.com/manchester/history-history-history-lowry-salford?id=5b1a635b0be6e" target="_blank">Manchester Confidential</a>.        
+Exchanging psalms and sacrament for 80s/90s pop culture, drawing inspiration from *Twin Peaks* and Ingmar Bergman, Stacy throws a kiss to George Michael…            
+          
+Following [*Vesper Time*](/archive/2015-autumnwinter/makishi)), *The Comforter* is part two of her three-show series about the Holy Trinity — and, as the Holy Ghost of the trio, asks the question: ‘What am I unwilling to feel?’               
+           
+#### Who is she?        
+A multi-award winning artist who has been making work for 30 years, Stacy Makishi is a transplant from Hawaii who found paradise in Dalston, East London in 1994.            
+       
+After graduating from the University of Hawaii she worked as a stand-up comic at the Comedy Store: but when her punchlines punched back, Stacy found herself happiest when making what New Yorkers called 'Performance'.            
+       
+Her present body of work is interdisciplinary in scope and includes live art, film, installation and visual art. Her work is as complex as it is accessible; humorous as it is challenging; visual as it is literate.          
+       
+A workshop leader and mentor of international renown, Makishi opens her making processes to the public through workshops, open rehearsals and talks, alongside performances.             
+       
+She has been awarded an ICA Attached Artist Award, a Millennium Fellowship Award, a Live Art Development Agency One to One Bursary, an Artsadmin Bursary, and the Franklin Furnace Award. She is an Associate Artist with Artsadmin, ***Chelsea Theatre? New Unity???***.           
+       
+#### What people have said about her         
+>*…a gorgeous hymn …for fearlessness, truth and love.*<br><a href="http://exeuntmagazine.com/reviews/review-vesper-time-ibt17" target="_blank">Exeunt, on *Vesper Time*</a><br>*…charismatically witty yet painful and honest…*<br><a href="http://totaltheatre.org.uk/vespertime" target="_blank">Total Theatre, on *Vesper Time*</a>         
         
 #### Credits          
-Produced by Artsadmin. Co-commissioned by The Yard Theatre, Marlborough Theatre, Norwich Arts Centre + Colchester Arts Centre. Supported using public funding by the National Lottery through Arts Council England.           
+Co-commissioned by The Yard Theatre, Marlborough Theatre, Norwich Arts Centre + Colchester Arts Centre. Supported using public funding by the National Lottery through Arts Council England. Produced by Artsadmin.         
            
 #### Websites          
-<a href="http://deborahpearson123.wordpress.com/2016/02/24/history-history-history" target="_blank">deborahpearson.com</a> | <a href="http://twitter.com/shysecretagent" target="_blank">@shysecretagent</a> | <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF Wednesday</a>         
+<a href="http://stacymakishi.com" target="_blank">stacymakishi.com</a> | <a href="http://twitter.com/?" target="_blank">@?</a> | <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF Wednesday</a>         
         
 #### WTF Wednesday ticketing policy at The Lowry         
 As this is a Pay What You Decide event, we know some people who book tickets won't turn up on the night so we send out more tickets than there are places. We do our best to get the numbers right but we advise you arrive early to ensure you get a seat! We don't often have to disappoint people but if we can't fit you in we will try to offer you tickets to another show in The Lowry that night.
