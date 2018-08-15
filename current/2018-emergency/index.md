@@ -8,7 +8,7 @@ is_index: true
 artist: "Emergency 2018" # the name of the artist or company
 show: "A day out for the curious." # the name of the show
 artist_size: 1
-show_size: 3
+show_size: 2
 season: "Emergency 6|10|2018"
 
 # ABOUT THE SHOW - LAYOUT
@@ -18,10 +18,10 @@ season: "Emergency 6|10|2018"
 ---
 *Presented by* Word of Warning, STUN *+* Z-arts           
          
-### Saturday 6 October, 12-10. Pay What You Decide             
-Join us for Manchester's nineteenth annual micro-marathon of the bizarre + the beautiful: a day-long performance takeover, filling Z-arts to bursting point…        
-             
-From noon dip in and out of ongoing performances, installations + limited capacity experiences, and in the evening join us for a series of short sit-down shows in this non-stop performance takeover.<br>**Your chance to sample the different — then pay what you decide!**         
+### Saturday 6 October, 12-10pm. Pay What You Decide             
+Manchester's nineteenth annual manic micro-marathon of the bizarre + the beautiful: from gallery to theatre, store-cupboard to stairwell, 20+ live works in a non-stop performance takeover — filling the Z-arts building to bursting point…         
+            
+**From noon**, dip in and out of ongoing performances, installations + limited capacity experiences; **in the evening**, join us for a series of short sit-down shows.<br>Your chance to sample the different — then pay what you decide!         
         
 Participating artists to be announced here mid-September. To get a feel for it, have a look at the 2017 [programme](/archive/2017-emergency) + [gallery](/galleries/2017-emergency).         
          
