@@ -8,7 +8,7 @@ artist: "Stacy Makishi" # the name of the artist or company
 show: "The Comforter" # the name of the show
 artist_size: 1
 show_size: 2
-header_image: "header_makishi.jpg"    
+header_image: "header_makishiflip.jpg"    
 season: "Stacy Makishi 21|11|2018"
 
 # ABOUT THE SHOW - LAYOUT
@@ -33,17 +33,17 @@ Date: Wednesday 21 November 2018, 7pm (*NB* other show at The Lowry starts 8pm?*
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
-Age advisory: *TBC* (parental/guardian discretion). With no interval, the show lasts approximately 90 minutes. Features a combination of spoken text, composed sound + film. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: ***TBC*** (parental/guardian discretion). With no interval, the show lasts approximately ***1 hour***. Features a combination of ***spoken text, music + film***. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
-In 1956, there was a popular uprising against the USSR in Hungary. The battle was fought primarily from the Corvin Cinema, and the uprising lead to one of the largest refugee crises of the twentieth century. In a live commentary screening of a 1956 comedy about football, scheduled to premiere at the Corvin Cinema the week of the uprising, Deborah Pearson unlocks a surprisingly personal story.        
-
-Using the film as material, Pearson creates a live documentary onstage. Her words form a counterpoint to the movie, fusing the political, the historical and the achingly personal. Riveting, haunting and ultimately inspiring, this is a show for lovers of cinema, and for anyone who has stared at pictures of their ancestors a little too long.         
-        
-#### Who is she        
-A live artist and playwright, Deborah Pearson's work has toured to four continents and fifteen countries, and has been translated into five languages; she recently published *The Future Show* with Oberon books. A founding co-director of UK artist collective Forest Fringe, Deborah has won awards for both her solo practice and her work with Forest Fringe — including three Herald angels, a Scotsman Fringe First, a Peter Brooke Empty Space Award, and the Total Theatre Award for Significant Contribution.           
+Part ritual; part prayer; part rowdy revivalist rally, *The Comforter* is a rite of passage that reclaims spirituality and proposes a new perspective on church. Exchanging psalms and sacrament for 80s/90s pop culture, it draws inspiration from *Twin Peaks* and Ingmar Bergman, and throws a kiss to George Michael.            
+                   
+*The Comforter* follows the powerfully moving and absurdly humorous *Vesper Time* ("a gorgeous hymn… for fearlessness, truth and love" — Exeunt): together they make up the first two of a three-show series about the Holy Trinity — *The Comforter* is the Holy Ghost of the trio, and asks the question: ‘What am I unwilling to feel?’                
            
-An associate artist with Volcano in Canada, she was a resident artist for two years at Somerset House Studios with Caroline Williams and is now an associate artist at Somerset House Studios with Forest Fringe.        
+Join Stacy to explore — through meditation, ritual, and disco — what it means to be fully alive and fully human.           
+            
+#### Who is she        
+A multi-award winning artist who has been making work for 30 years.        
        
 #### What people have said about *HHH*         
 >*The show’s poignant humanity, its bittersweet reflections on the relentlessness of time and its potent blend of uplifting possibility and heartrending pathos make for an enchanting 90 minutes.*<br><a href="http://www.thefixmagazine.com/index/history-history-history" target="_blank">★★★★★ The Fix Magazine</a><br>*A roving and inventive presentation.*<br><a href="http://www.bfi.org.uk/news-opinion/sight-sound-magazine/comment/festivals/flatpack-festival-birmingham-2017-nature-aquatic" target="_blank">Sight and Sound Magazine</a>            
@@ -51,7 +51,7 @@ An associate artist with Volcano in Canada, she was a resident artist for two ye
 *History History History* in Salford is previewed by <a href="http://confidentials.com/manchester/history-history-history-lowry-salford?id=5b1a635b0be6e" target="_blank">Manchester Confidential</a>.        
         
 #### Credits          
-Dramaturgy by Daniel Kitson.<br>Outside eye work by Tania El Khoury + Laura Dannequin.<br>A House on Fire commission with Culture Europe, co-produced by Theatre Garonne (Toulouse, France) + bit teatergarasjen (Bergen, Norway).<br>Developed in part at the National Theatre Studio.          
+Produced by Artsadmin. Co-commissioned by The Yard Theatre, Marlborough Theatre, Norwich Arts Centre + Colchester Arts Centre. Supported using public funding by the National Lottery through Arts Council England.           
            
 #### Websites          
 <a href="http://deborahpearson123.wordpress.com/2016/02/24/history-history-history" target="_blank">deborahpearson.com</a> | <a href="http://twitter.com/shysecretagent" target="_blank">@shysecretagent</a> | <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF Wednesday</a>         
