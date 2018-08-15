@@ -8,7 +8,7 @@ artist: "Stacy Makishi" # the name of the artist or company
 show: "The Comforter" # the name of the show
 artist_size: 1
 show_size: 2
-header_image: "header_makishiflip.jpg"    
+header_image: "header_makishi.jpg"    
 season: "Stacy Makishi 21|11|2018"
 
 # ABOUT THE SHOW - LAYOUT
