@@ -4,7 +4,7 @@ layout: home
 season: homepage
 
 ---
-#### <a href="http://wordofwarning.posthaven.com" target="_blank">Discover</a> new performance across the north in our Weekly Warning blog, or sign-up [here](http://eepurl.com/i_Odb). Please note that [Emergency 2018](/hab/emergency) is now CLOSED to artist proposals.            
+#### <a href="http://wordofwarning.posthaven.com" target="_blank">Discover</a> new performance across the north in our Weekly Warning blog, or sign-up [here](http://eepurl.com/i_Odb). Please note: the call for [Emergency 2018](/hab/emergency) artist proposals is now CLOSED.            
 <hr>               
 #### Thanks to Chrissy & her shadows, Proud & Loud Arts, and everyone else involved with [Hazard 2018: *Shadow Girl*](/current/2018-springsummer/hazardshadowgirl)… See images from the city streets [here](/galleries/2018-hazard), or read an article in Mancunian Matters <a href="http://www.mancunianmatters.co.uk/content/100877589-its-bird-its-plane-its-shadow-girl-manchesters-very-own-superhero-makes-presence" target="_blank">here</a>.          
 <hr>               
