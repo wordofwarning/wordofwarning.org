@@ -15,7 +15,7 @@ season: "hÅb — Emergency"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Emergency, hÅb's annual platform for live art + contemporary performance, is now CLOSED for proposals.**            
+**Emergency, hÅb's annual platform for live art + contemporary performance, is now CLOSED for proposals.  Due to a 3rd party technical glitsch we may not have received some Emergency proposals. IF you submitted and have not received an email today, 17 Aug subject: *Emergency 2018 - FINAL acknowledgement of receipt* please contact us at <mailto:emergency@habmcr.org> immediately.**                     
            
 Our **nineteenth Emergency** takes place on **Saturday 6 October 2018**, 12noon-10pm, in Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> (incl. <a href="http://stunlive.com" target="_blank">STUN Studio</a>), with the callout for proposals open until **Wednesday 15 August, 5pm** — see full details <a href="http://emergencymcr.posthaven.com" target="_blank">here</a>.             
          
