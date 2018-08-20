@@ -27,22 +27,22 @@ Read an interview with Rita about *One Last Dance* in <a href="http://performing
 #### Venue + Booking Details           
 Date: Wednesday 10 October 2018, 8pm          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-<a href="http://www.thelowry.com" target="_blank">Tickets: available to reserve ***from Friday 14 September***</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
+<a href="https://www.thelowry.com/events/rita-marcalo-one-last-dance" target="_blank">Tickets: available to reserve ***from Friday 14 September***</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
 Age advisory: ***TBC age+*** (parental/guardian discretion). With no interval, the show lasts approximately ***TBC minutes***. Features a combination of ***TBC spoken text, composed sound + film***. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
->"As I dance my way through the UK I will meet and stay with other EU citizens, who will walk/dance part of the way with me. Each EU citizen will choreograph a section of *One Last Dance*, and choreographic sections will then be linked to one another via linear accumulation. I will encounter dance/arts organisations, festivals and venues which have been part of my work in the UK over the past 24 years. At each of these encounters I will perform *One Last Dance* to the accumulative stage that it will be at. As I enter the island of Ireland, the work shifts into its next stage: *An Chéad Damhsa*, which in English means *My First Dance*. Eventually I will reach my final destination (Cloughjordan), where I will finally perform the entire accumulated choreography and audio testimonies.         
+"As I dance my way through the UK I will meet and stay with other EU citizens, who will walk/dance part of the way with me. Each EU citizen will choreograph a section of *One Last Dance*, and choreographic sections will then be linked to one another via linear accumulation. I will encounter dance/arts organisations, festivals and venues which have been part of my work in the UK over the past 24 years. At each of these encounters I will perform *One Last Dance* to the accumulative stage that it will be at. As I enter the island of Ireland, the work shifts into its next stage: *An Chéad Damhsa*, which in English means *My First Dance*. Eventually I will reach my final destination (Cloughjordan), where I will finally perform the entire accumulated choreography and audio testimonies.         
+         
+*I expect…*<br>That the walk will be physically exhausting.<br>That engaging with the testimony and fears of those EU citizens who, by choice or need, are staying in the UK will be emotionally exhausting.<br>That saying goodbye to the country which was my home for so many years will be an emotional journey.        
           
->*I expect…*<br>That the walk will be physically exhausting.<br>That engaging with the testimony and fears of those EU citizens who, by choice or need, are staying in the UK will be emotionally exhausting.<br>That saying goodbye to the country which was my home for so many years will be an emotional journey.        
-          
->*I fear…*<br>That I might encounter some antagonism towards me throughout the walk.<br>That I won’t physically be able to do it.       
+*I fear…*<br>That I might encounter some antagonism towards me throughout the walk.<br>That I won’t physically be able to do it.       
         
->*I doubt…*<br>That I won’t physically be able to do it.        
+*I doubt…*<br>That I won’t physically be able to do it.        
           
->*I wish…*<br>That the work will have contributed to an increased awareness around the Home Office’s hostile environment policy towards immigration in general, and more specifically to those EU citizens who will acquire settled status in the UK.<br>That my sadness around Brexit will have transformed into gratitude for the many beautiful years I have had in the country.<br>That by the end, the work will feel like my final love letter to the UK."        
+*I wish…*<br>That the work will have contributed to an increased awareness around the Home Office’s hostile environment policy towards immigration in general, and more specifically to those EU citizens who will acquire settled status in the UK.<br>That my sadness around Brexit will have transformed into gratitude for the many beautiful years I have had in the country.<br>That by the end, the work will feel like my final love letter to the UK."        
          
 #### Who are they        
 A UK/Ireland-based company directed by Rita Marcalo, Instant Dissidence is her way of bringing different artists together, in different combinations, to realise different ideas — through Instant Dissidence she invents ways of offering other people art experiences.        
