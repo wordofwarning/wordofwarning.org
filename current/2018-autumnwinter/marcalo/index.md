@@ -6,8 +6,8 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Rita Marcalo (Instant Dissidence)" # the name of the artist or company
 show: "One Last Dance — An Chéad Damhsa" # the name of the show
-artist_size: 3
-show_size: 4
+artist_size: 2
+show_size: 3
 header_image: "header_marcalo.jpg"    
 season: "Rita Marcalo (Instant Dissidence) 10|10|2018"
 
@@ -31,27 +31,31 @@ Date: Wednesday 10 October 2018, 8pm
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
-Age advisory: **TBC+*** (parental/guardian discretion). With no interval, the show lasts approximately ***? hour***. Features a combination of ***spoken text, composed sound + film***. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: ***TBC age+*** (parental/guardian discretion). With no interval, the show lasts approximately ***TBC minutes***. Features a combination of ***TBC spoken text, composed sound + film***. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
->"As I dance my way through the UK I will meet and stay with other EU citizens, who will walk/dance part of the way with me. Each EU citizen will choreograph a section of One Last Dance, and choreographic sections will then be linked to one another via linear accumulation. I will encounter dance/arts organisations, festivals and venues which have been part of my work in the UK over the past 24 years. At each of these encounters I will perform One Last Dance to the accumulative stage that it will be at. As I enter the island of Ireland, the work shifts into its next stage: An Chéad Damhsa, which in English means My First Dance. Eventually I will reach my final destination (Cloughjordan), where I will finally perform the entire accumulated choreography and audio testimonies.        
+>"As I dance my way through the UK I will meet and stay with other EU citizens, who will walk/dance part of the way with me. Each EU citizen will choreograph a section of *One Last Dance*, and choreographic sections will then be linked to one another via linear accumulation. I will encounter dance/arts organisations, festivals and venues which have been part of my work in the UK over the past 24 years. At each of these encounters I will perform *One Last Dance* to the accumulative stage that it will be at. As I enter the island of Ireland, the work shifts into its next stage: *An Chéad Damhsa*, which in English means *My First Dance*. Eventually I will reach my final destination (Cloughjordan), where I will finally perform the entire accumulated choreography and audio testimonies.         
+          
 >*I expect…*<br>That the walk will be physically exhausting.<br>That engaging with the testimony and fears of those EU citizens who, by choice or need, are staying in the UK will be emotionally exhausting.<br>That saying goodbye to the country which was my home for so many years will be an emotional journey.        
->*I fear…*<br>That I might encounter some antagonism towards me throughout the walk.<br>That I won’t physically be able to do it.        
+          
+>*I fear…*<br>That I might encounter some antagonism towards me throughout the walk.<br>That I won’t physically be able to do it.       
+        
 >*I doubt…*<br>That I won’t physically be able to do it.        
+          
 >*I wish…*<br>That the work will have contributed to an increased awareness around the Home Office’s hostile environment policy towards immigration in general, and more specifically to those EU citizens who will acquire settled status in the UK.<br>That my sadness around Brexit will have transformed into gratitude for the many beautiful years I have had in the country.<br>That by the end, the work will feel like my final love letter to the UK."        
          
-#### Who is she/they        
+#### Who are they        
 A UK/Ireland-based company directed by Rita Marcalo, Instant Dissidence is her way of bringing different artists together, in different combinations, to realise different ideas — through Instant Dissidence she invents ways of offering other people art experiences.        
         
-Rita’s practice began in dance/choreography but she eventually became more interested in communicating concepts than in sticking to a particular art form. She began collaborating with others to create work in different media, and today brings in people from different areas to solve creative problems.        
+Rita's practice began in dance/choreography but she eventually became more interested in communicating concepts than in sticking to a particular art form. She began collaborating with others to create work in different media, and today brings in people from different areas to solve creative problems.        
          
 Instant Dissidence's is also a socially-engaged practice where the company foregrounds the role that dance/choreography can play as a social engine: they are ‘artivists’ who believe in the power of connecting art and social consciousness.        
           
-#### What people have said about her/them         
->*…need a quote here.*<br><a href="http://www." target="_blank">by an author, from a publication on *a show*</a>.            
+#### What people have said about them         
+>*…we need a quote here.*<br><a href="http://www." target="_blank">by an author, from a publication on *a show*</a>.            
           
 #### Credits          
-***who are the creatives***<br>Supported using public funding by the National Lottery through Arts Council England.          
+***TBC creative team***<br>Supported using public funding by the National Lottery through Arts Council England.          
            
 #### Websites          
 <a href="http://www.instantdissidence.co.uk/post/166282214541/one-last-dance-an-ch%C3%A9ad-damhsa" target="_blank">instantdissidence.co.uk</a> | <a href="http://twitter.com/RitaMarcalo" target="_blank">@RitaMarcalo</a> | <a href="http://facebook.com/InstantDissidence" target="_blank">Instant Dissidence on Facebook</a> | <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF Wednesdays</a>         
