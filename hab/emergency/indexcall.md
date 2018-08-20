@@ -1,5 +1,4 @@
 ---
-
 # CONFIGURATION
 layout: hab # the season or event-specific template in /_layouts
 rootpath: "../../../"
@@ -17,7 +16,7 @@ season: "hÅb — Emergency"
 ---
 **Emergency, hÅb's annual platform for live art + contemporary performance, is now CLOSED for proposals.**            
            
-Our **nineteenth Emergency** takes place on **Saturday 6 October 2018**, 12noon-10pm, in Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> (incl. <a href="http://stunlive.com" target="_blank">STUN Studio</a>), with the callout for proposals open until **Wednesday 15 August, 5pm** — see full details <a href="http://emergencymcr.posthaven.com" target="_blank">here</a>.             
+Our **nineteenth Emergency** takes place on **Saturday 6 October 2018**, 12noon-10pm, in Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> (incl. <a href="http://stunlive.com" target="_blank">STUN Studio</a>), with the call for proposals open until **Wednesday 15 August, 5pm** — see full details <a href="http://emergencymcr.posthaven.com" target="_blank">here</a>.             
          
 With a whole range of spaces to fill — what we now need is a lots of great work! Artists working in live art and contemporary performance are invited to submit proposals of short pieces of work, works-in-progress, or extracts of longer works for inclusion in this event. Proposals are also encouraged for durational, one-to-one and limited capacity work, as well as performance installation and intervention-based works in-and-around the spaces available.       
                
