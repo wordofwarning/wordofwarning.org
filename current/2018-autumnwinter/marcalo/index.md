@@ -6,8 +6,8 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Rita Marcalo (Instant Dissidence)" # the name of the artist or company
 show: "One Last Dance — An Chéad Damhsa" # the name of the show
-artist_size: 2
-show_size: 3
+artist_size: 3
+show_size: 4
 header_image: "header_marcalo.jpg"    
 season: "Rita Marcalo (Instant Dissidence) 10|10|2018"
 
