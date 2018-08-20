@@ -44,6 +44,8 @@ Age advisory: ***TBC age+*** (parental/guardian discretion). With no interval, t
           
 *I wish…*<br>That the work will have contributed to an increased awareness around the Home Office’s hostile environment policy towards immigration in general, and more specifically to those EU citizens who will acquire settled status in the UK.<br>That my sadness around Brexit will have transformed into gratitude for the many beautiful years I have had in the country.<br>That by the end, the work will feel like my final love letter to the UK."        
          
+For this encounter at The Lowry, Leentje van de Cruys will be the EU citizen-choreographer; Leentje will also perform/present *XXX* before/after *One Last Dance*.        
+         
 #### Who are they        
 A UK/Ireland-based company directed by Rita Marcalo, Instant Dissidence is her way of bringing different artists together, in different combinations, to realise different ideas — through Instant Dissidence she invents ways of offering other people art experiences.        
         
