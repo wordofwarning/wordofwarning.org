@@ -27,7 +27,7 @@ Read an interview with Rita about *One Last Dance* in <a href="http://performing
 #### Venue + Booking Details           
 Date: Wednesday 10 October 2018, 8pm          
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-<a href="https://www.thelowry.com/events/rita-marcalo-one-last-dance" target="_blank">Tickets: available to reserve ***from Friday 14 September***</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
+<a href="https://www.thelowry.com/events/rita-marcalo-one-last-dance" target="_blank">Tickets: available to reserve from Friday 7 September</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
@@ -44,7 +44,7 @@ Age advisory: ***TBC age+*** (parental/guardian discretion). With no interval, t
           
 *I wish…*<br>That the work will have contributed to an increased awareness around the Home Office’s hostile environment policy towards immigration in general, and more specifically to those EU citizens who will acquire settled status in the UK.<br>That my sadness around Brexit will have transformed into gratitude for the many beautiful years I have had in the country.<br>That by the end, the work will feel like my final love letter to the UK."        
          
-For this encounter at The Lowry, Leentje van de Cruys will be the EU citizen-choreographer; Leentje will also perform/present *XXX* before/after *One Last Dance*.        
+For this encounter at The Lowry, Leentje van de Cruys will be the EU citizen-choreographer; Leentje will also perform/present ***title*** before/after *One Last Dance*, ***add copy here***.        
          
 #### Who are they        
 A UK/Ireland-based company directed by Rita Marcalo, Instant Dissidence is her way of bringing different artists together, in different combinations, to realise different ideas — through Instant Dissidence she invents ways of offering other people art experiences.        
@@ -53,11 +53,13 @@ Rita's practice began in dance/choreography but she eventually became more inter
          
 Instant Dissidence's is also a socially-engaged practice where the company foregrounds the role that dance/choreography can play as a social engine: they are ‘artivists’ who believe in the power of connecting art and social consciousness.        
           
+Leentje van de Cruys is ***biog here***.          
+          
 #### What people have said about them         
 >*…we need a quote here.*<br><a href="http://www." target="_blank">by an author, from a publication on *a show*</a>.            
           
 #### Credits          
-***TBC creative team***<br>Supported using public funding by the National Lottery through Arts Council England.          
+***TBC Rita & Leentje's creative team***<br>Supported using public funding by the National Lottery through Arts Council England.          
            
 #### Websites          
 <a href="http://www.instantdissidence.co.uk/post/166282214541/one-last-dance-an-ch%C3%A9ad-damhsa" target="_blank">instantdissidence.co.uk</a> | <a href="http://twitter.com/RitaMarcalo" target="_blank">@RitaMarcalo</a> | <a href="http://facebook.com/InstantDissidence" target="_blank">Instant Dissidence on Facebook</a> | <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF Wednesdays</a>         
