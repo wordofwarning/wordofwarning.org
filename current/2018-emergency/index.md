@@ -37,7 +37,7 @@ Tel: 0161 232 6089 (Z-arts)
 #### What people have said about Emergency         
 >• *Fresh, exciting, unpredictable, mixed and provocative. Rewarding, too!*<br>• *I am amazed they manage so many shows in a day…*<br>• *The diversity is outstanding and so inclusive of all.*<br>• *Really important event for NW artists — safe space to experiment.*<br>• *Performances are both rewarding in their own right, and also offer a glimpse into where theatre might go in our more interactive and interconnected world.*<br>• *Thought provoking & frankly unique. It sets Manchester apart.*<br>Audience Feedback from [Emergency 2017](/archive/2017-emergency), [2016](/archive/2016-emergency), [2015](/archive/2015-emergency)          
          
-Emergency 2017 was reviewed by <a href="http://circlesandstalls.wordpress.com/2017/10/01/emergency-2017" target="_blank">Circles&Stalls</a> + <a href="http://quietmandave.co.uk/2017/10/emergency-2017" target="_blank">QuietManDave</a>.        
+Emergency 2017 was reviewed by <a href="http://circlesandstalls.wordpress.com/2017/10/01/emergency-2017" target="_blank">Circles&Stalls</a> and <a href="http://quietmandave.co.uk/2017/10/emergency-2017" target="_blank">QuietManDave</a>.        
           
 #### Credits         
 [Emergency](/hab/emergency) 2018 is produced by [hÅb](/hab); supported using public funding by Arts Council England.        
