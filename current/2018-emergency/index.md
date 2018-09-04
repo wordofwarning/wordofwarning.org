@@ -19,9 +19,9 @@ season: "Emergency 6|10|2018"
 *Presented by* Word of Warning, STUN *+* Z-arts           
          
 ### Saturday 6 October, 12-10pm. Pay What You Decide             
-Manchester's nineteenth annual manic micro-marathon of the bizarre + the beautiful: from gallery to theatre, store-cupboard to stairwell, 30+ live works in a non-stop performance takeover — filling the Z-arts building to bursting point…         
+Manchester's nineteenth annual manic micro-marathon of the bizarre + the beautiful: from gallery to theatre, store-cupboard to stairwell, some 30+ live works in a non-stop performance takeover — filling the Z-arts building to bursting point…         
             
-**From noon** — dip in and out of ongoing performances, installations + limited capacity experiences; **from 3pm** we *advise* that all work is not suitable for under 18s…<br>**From 5.30pm** — join us for a series of short sit-down shows.<br>Your chance to sample the different — then pay what you decide!         
+**From noon** — dip in and out of ongoing performances, installations + limited capacity experiences; **from 3pm** we *advise* that all work is not suitable for under 18s…<br>**And from 5.30pm** — join us for a series of short sit-down shows.<br>Your chance to sample the different — then pay what you decide!         
         
 Participating artists will be announced here mid-September; to get a feel for it, have a look at [2017's programme](/archive/2017-emergency) + [gallery of images](/galleries/2017-emergency) from 2017's event.         
          
@@ -35,8 +35,8 @@ Tel: 0161 232 6089 (Z-arts)
 **Age advisory: mainly aimed at adults**, from 12noon to 3pm we *advise* that some work (clearly signposted) is not suitable for under 18s; from 3pm onwards we *advise* that all work is not suitable for under 18s.<br>The works in Emeregncy 2018 take place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity (marked †), some participatory. We apologise but some work may not be wheelchair accessible due to the nature of the Z-arts building. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.        
             
 #### What people have said about Emergency         
->• *Great to have such exciting off beat talent.*<br>• *I am amazed they manage so many shows in a day…*<br>• *…loved diversity of work on show.*<br>• *Really important event for NW artists — safe space to experiment.*<br>• *Performances are both rewarding in their own right, and also offer a glimpse into where theatre might go in our more interactive and interconnected world.*<br>Audience Feedback from [Emergency 2017](/archive/2017-emergency)/[2016](/archive/2016-emergency)/[2015](/archive/2015-emergency)             
-           
+>• *Fresh, exciting, unpredictable, mixed and provocative. Rewarding, too!*<br>• *I am amazed they manage so many shows in a day…*<br>• *The diversity is outstanding and so inclusive of all.*<br>• *Really important event for NW artists — safe space to experiment.*<br>• *Performances are both rewarding in their own right, and also offer a glimpse into where theatre might go in our more interactive and interconnected world.*<br>• *Thought provoking & frankly unique. It sets Manchester apart.*<br>Audience Feedback from [Emergency 2017](/archive/2017-emergency), [2016](/archive/2016-emergency), [2015](/archive/2015-emergency)          
+         
 Emergency 2017 was reviewed by <a href="http://circlesandstalls.wordpress.com/2017/10/01/emergency-2017" target="_blank">Circles&Stalls</a> + <a href="http://quietmandave.co.uk/2017/10/emergency-2017" target="_blank">QuietManDave</a>.        
           
 #### Credits         
