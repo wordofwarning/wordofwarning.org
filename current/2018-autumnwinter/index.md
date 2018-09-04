@@ -13,7 +13,7 @@ Brought to you by hÅb — with Sustained Theatre Up North, Z-arts, The Lowry �
 #### What is Word of Warning + where did it come from?         
 >*Consistently refreshing and surprising, no season is ever the same…*          
          
-Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of new live performance — an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work in Manchester + beyond…           
+Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of new live performance — an attempt to keep alive the best of the 25 year greenroom legacy, and to introduce new people to the possibilities of seeing live work in Manchester + beyond…           
          
 >*…a strand of alternative and fledgling work that has only recently got a new lease of life via Word of Warning and Emergency.*<br><a href="http://www.creativetourist.com/articles/theatre/manchester/manchester-theatre-lyn-gardner-on-a-city-reaching-beyond-the-theatrical-peaks" target="_blank">Creative Tourist on Manchester theatre (November 2014)</a>
          
@@ -28,7 +28,7 @@ We don't want to put you off by talking labels — yes there'll be theatre, live
 >• *Astonishing. Like nothing else. Transformative, immersive, moving.*<br>• *Brave, dark, humerous, intimate, intense.*<br>• *Heartwarming, funny + engaging.*<br>• *Strangely mesmeric. A unique experience.*<br>• *Very enjoyable — felt accessible and thus enjoyable to all.*<br>• *You programme wonderful, daring performances that I have never been disappointed by.*          
          
 #### Who is Word of Warning?         
-My name's Tamsin Drury and I run an organisation called **[hÅb](/hab)**, which was greenroom's partner for over a decade. You might not know hÅb but you might know some of our events — like **[Emergency](http://emergencymcr.org)** (Manchester's free marathon of live work, now in its nineteenth year) and **[Hazard](http://hazardmcr.org)** (biennial random sprees of eccentricity in Manchester's City Centre).
+My name's Tamsin Drury and I run an organisation called [hÅb](/hab), which was greenroom's partner for over a decade. You might not know hÅb but you might know some of our events — like [Emergency](http://emergencymcr.org) (Manchester's free marathon of live work, now in its nineteenth year) and [Hazard](http://hazardmcr.org) (biennial random sprees of eccentricity in Manchester's City Centre).
          
 I've been around a while, a really long while… and in that time, I've been responsible for making the Arndale Tower flash, wrapping Cathedral Gardens in 7km of hazard tape, and encouraging a mass audience conga and a glitter-cannon *Hallelujah chorus*! On the less eccentric side, over the years hÅb has also worked with literally hundreds of young NW artists to help them create new pieces of theatre + dance.           
           
@@ -37,4 +37,4 @@ Please send programming enquiries to me at <mailto:info@habmcr.org>
 I'm joined in this lunacy by John Franklin, greenroom's long time programme co-ordinator, the friendly face greeting you and eliciting your feedback at many of our events; we’re grateful for the support of Catherine (Cat) Shaw, and our occasional band of hÅbettes.           
         
 #### What our audiences have said about us           
->• *Always special, bringing the unexpected and intriguing, thank you.*<br>• *Bringing some of the most interesting performance work in the world to our city.*<br>• *Fabulous for seeing things different from the mainstream machine.*<br>• *Great organisation — a reason to move to Manchester.*<br>• *I don't know what I would do with my spare time without you.*
+>• *Always special, bringing the unexpected and intriguing, thank you.*<br>• *Bringing some of the most interesting performance work in the world to our city.*<br>• *Fabulous for seeing things different from the mainstream machine.*<br>• *Great organisation — a reason to move to Manchester.*<br>• *I don't know what I would do with my spare time without you.*<br>• *Refreshing company that brings diverse shows to our door steps.*
