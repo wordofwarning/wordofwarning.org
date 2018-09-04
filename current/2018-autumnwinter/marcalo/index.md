@@ -4,12 +4,12 @@ layout: 2018-autumnwinter
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Rita Marcalo (Instant Dissidence)" # the name of the artist or company
+artist: "Rita Marcalo (Instant Dissidence)<br>with guest Leentje Van de Cruys" # the name of the artist or company
 show: "One Last Dance — An Chéad Damhsa" # the name of the show
 artist_size: 3
 show_size: 4
 header_image: "header_marcalo.jpg"    
-season: "Rita Marcalo (Instant Dissidence) 10|10|2018"
+season: "Rita Marcalo (Instant Dissidence) + Leentje Van de Cruys 10|10|2018"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
