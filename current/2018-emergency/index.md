@@ -26,7 +26,7 @@ Manchester's nineteenth annual manic micro-marathon of the bizarre + the beautif
 Participating artists will be announced here mid-September; to get a feel for it, have a look at [2017's programme](/archive/2017-emergency) + [gallery of images](/galleries/2017-emergency) from 2017's event.         
          
 #### Venue + Booking Details         
-Date: Saturday 6 October 2018, 12noon-10pm (last show ends about 10.30pm)           
+Date: Saturday 6 October 2018, 12noon-10pm (*last show ends about 10.30pm*)           
 [Venue: Z-arts (incl. STUN Studio)](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: no booking required, Pay What You Decide in person on the day, come and go as you please. *NB: some works have a limited capacity (marked* †*), with either sign-up sheets on the day or operating on a first-come, first-served basis. From 5.30pm, individual shows will typically have a no latecomer policy.*       
 Tel: 0161 232 6089 (Z-arts)          
