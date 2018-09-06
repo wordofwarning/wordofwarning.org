@@ -4,6 +4,8 @@ layout: archive
 season: "Archive"
 
 archived:
+    - {folder: "2018-springsummer", name: "Spring/Summer 2018", class: "ss2018"}    
+    - {folder: "2018-worksahead", name: "Works Ahead 2018", class: "woah"}    
     - {folder: "2017-autumnwinter", name: "Autumn/Winter 2017", class: "aw2017"}
     - {folder: "2017-emergency", name: "Emergency 2017", class: "e2017"}
     - {folder: "2017-springsummer", name: "Spring/Summer 2017", class: "ss2017"}    
