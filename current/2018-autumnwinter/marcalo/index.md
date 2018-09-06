@@ -4,12 +4,12 @@ layout: 2018-autumnwinter
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Rita Marcalo (Instant Dissidence)<br> <i>with guest</i> Leentje Van de Cruys" # the name of the artist or company
+artist: "Instant Dissidence<br><i>with guest</i> Leentje Van de Cruys" # the name of the artist or company
 show: "One Last Dance — An Chéad Damhsa" # the name of the show
-artist_size: 3
+artist_size: 2
 show_size: 4
 header_image: "header_marcalo.jpg"    
-season: "Rita Marcalo (Instant Dissidence) with Leentje Van de Cruys 10|10|2018"
+season: "Instant Dissidence with Leentje Van de Cruys 10|10|2018"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -22,7 +22,7 @@ season: "Rita Marcalo (Instant Dissidence) with Leentje Van de Cruys 10|10|2018"
 #### In Brief      
 A perambulating, itinerant dance work stops off in Salford on its way from Guildford (the place Rita lived in when she arrived in the UK as an Erasmus student in 1994) to Cloughjordan (the rural Irish village that she is moving to post-Brexit).       
         
-Read an interview with Rita about *One Last Dance* in <a href="http://performingborders.live/2018/05/14/rita-marcalo-may-2018" target="_blank">performingborders</a>.         
+Read an interview with Rita Marcalo about *One Last Dance* in <a href="http://performingborders.live/2018/05/14/rita-marcalo-may-2018" target="_blank">performingborders</a>.         
         
 #### Venue + Booking Details           
 Date: Wednesday 10 October 2018, 8pm          
@@ -31,7 +31,7 @@ Date: Wednesday 10 October 2018, 8pm
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
-Age advisory: ***TBC age+*** (parental/guardian discretion). With no interval, the show lasts approximately ***TBC minutes***. Features a combination of ***TBC spoken text, composed sound + film***. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: parental/guardian discretion. With an interval, the evening lasts approximately ***2 hours***. Features a combination of spoken text, movement, composed sound + film For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
 "As I dance my way through the UK I will meet and stay with other EU citizens, who will walk/dance part of the way with me. Each EU citizen will choreograph a section of *One Last Dance*, and choreographic sections will then be linked to one another via linear accumulation. I will encounter dance/arts organisations, festivals and venues which have been part of my work in the UK over the past 24 years. At each of these encounters I will perform *One Last Dance* to the accumulative stage that it will be at. As I enter the island of Ireland, the work shifts into its next stage: *An Chéad Damhsa*, which in English means *My First Dance*. Eventually I will reach my final destination (Cloughjordan), where I will finally perform the entire accumulated choreography and audio testimonies.         
@@ -56,13 +56,13 @@ Instant Dissidence's is also a socially-engaged practice where the company foreg
 Leentje van de Cruys is ***biog here***.          
           
 #### What people have said about them         
->*…we need a quote here.*<br><a href="http://www." target="_blank">by an author, from a publication on *a show*</a>.            
+>*…With tears in my eyes I end this dance. With tears in her eyes Rita thanks me for dancing with a stranger.*<br><a href="http://incidentmag.com/2016/07/23/talking-about-identity-tempting-failure" target="_blank">Lisa Stertz, Incident Magazine on *Dancing with Strangers: from Calais to England*</a>.<br>*…an artist doing what artists are supposed to do: creating work that is surprising, challenging, transgressive and exciting.*<br><a href="https://www.theguardian.com/stage/theatreblog/2009/nov/20/epilepsy-live-art-rita-marcalo" target="_blank">Allan Sutherland, The Guardian on *Involuntary Dances*</a>.          
           
 #### Credits          
-***TBC Rita & Leentje's creative team***<br>Supported using public funding by the National Lottery through Arts Council England.          
+An Instant Dissidence production. Supported using public funding by the National Lottery through Arts Council England. Additional project funders + presenting organisations can be found on the tumblr below.          
            
 #### Websites          
-<a href="http://www.instantdissidence.co.uk/post/166282214541/one-last-dance-an-ch%C3%A9ad-damhsa" target="_blank">instantdissidence.co.uk</a> | <a href="http://twitter.com/RitaMarcalo" target="_blank">@RitaMarcalo</a> | <a href="http://facebook.com/InstantDissidence" target="_blank">Instant Dissidence on Facebook</a> | <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF Wednesdays</a>         
+<a href="http://onelastdance-ancheaddamhsa.tumblr.com" target="_blank">onelastdance-ancheaddamhsa.tumblr.com</a> | <a href="http://twitter.com/RitaMarcalo" target="_blank">@RitaMarcalo</a> | <a href="http://facebook.com/InstantDissidence" target="_blank">Instant Dissidence on Facebook</a> | <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF Wednesdays</a>         
         
 #### WTF Wednesday ticketing policy at The Lowry         
 As this is a Pay What You Decide event, we know some people who book tickets won't turn up on the night so we send out more tickets than there are places. We do our best to get the numbers right but we advise you arrive early to ensure you get a seat! We don't often have to disappoint people but if we can't fit you in we will try to offer you tickets to another show in The Lowry that night.
