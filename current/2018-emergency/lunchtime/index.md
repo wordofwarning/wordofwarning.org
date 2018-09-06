@@ -17,7 +17,7 @@ season: "Emergency 6|10|2018, Lunchtime"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-*A lunchtime of new live art presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2018](/current/2018-emergency).<br>*Mainly aimed at adults, we **advise** that some work (clearly signposted) may not suitable for under 18s.*              
+*A lunchtime of new live art presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2018](/current/2018-emergency). *Mainly aimed at adults, we **advise** that some work (clearly signposted) may not suitable for under 18s.*              
          
 ### Artists in Alphabetical Order (*subject to change*)      
 x | y | z† ( † *limited capacity*)       
