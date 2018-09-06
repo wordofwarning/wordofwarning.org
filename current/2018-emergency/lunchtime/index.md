@@ -35,7 +35,7 @@ Tickets: no booking required, Pay What You Decide in person on the day, come and
 Tel: 0161 232 6089 (Z-arts)          
          
 #### Access Information       
-**Age advisory: mainly aimed at adults**, from 12noon to 2.30pm we *advise* that some work (clearly signposted) may not suitable for under 18s; from 2.30pm onwards we *advise* that all work is not suitable for under 18s.<br>The works in Emergency 2018 take place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity (marked †), some participatory. We apologise but some work may not be wheelchair accessible due to the nature of the Z-arts building. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.        
+**Age advisory: mainly aimed at adults**, from 12noon to 2.30pm we *advise* that some work (clearly signposted) may not suitable for under 18s; from 2.30pm to 10pm we *advise* that no work is suitable for under 18s.<br>The works in Emergency 2018 take place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity (marked †), some participatory. We apologise but some work may not be wheelchair accessible due to the nature of the Z-arts building. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.        
           
 #### Credits         
 [Emergency](/hab/emergency) 2018 is produced by [hÅb](/hab); supported using public funding by Arts Council England.        
