@@ -17,7 +17,7 @@ season: "Works Ahead — Emma Geraghty 17+18|5|2018"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, Contact + STUN<br>*Part of* [Works Ahead 2018](/current/2018-worksahead) *in a double bill with* [Vijay Patel](/current/2018-worksahead/patel)       
+*Presented by* Word of Warning, Contact + STUN<br>*Part of* [Works Ahead 2018](/archive/2018-worksahead) *in a double bill with* [Vijay Patel](/archive/2018-worksahead/patel)       
          
 #### In Brief                      
 A girl, a guitar, and a message of hope… *Fat Girl Singing* is an anthem of self-acceptance and a call to arms for those who simply don't fit the model.         
