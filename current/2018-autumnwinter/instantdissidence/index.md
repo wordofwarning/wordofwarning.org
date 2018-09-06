@@ -4,9 +4,9 @@ layout: 2018-autumnwinter
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Instant Dissidence<br><i>with guest</i> Leentje Van de Cruys" # the name of the artist or company
+artist: "Instant Dissidence<br><i><small>with guest</i> Leentje Van de Cruys</small>" # the name of the artist or company
 show: "One Last Dance — An Chéad Damhsa" # the name of the show
-artist_size: 2
+artist_size: 1
 show_size: 4
 header_image: "header_marcalo.jpg"    
 season: "Instant Dissidence with Leentje Van de Cruys 10|10|2018"
@@ -31,7 +31,7 @@ Date: Wednesday 10 October 2018, 8pm
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
-Age advisory: parental/guardian discretion. With an interval, the evening lasts approximately ***2 hours***. Features a combination of spoken text, movement, composed sound + film For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: parental/guardian discretion. With an interval, the evening lasts *up to* 2½ hours. Features a combination of spoken text, movement, composed sound + film For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
 "As I dance my way through the UK I will meet and stay with other EU citizens, who will walk/dance part of the way with me. Each EU citizen will choreograph a section of *One Last Dance*, and choreographic sections will then be linked to one another via linear accumulation. I will encounter dance/arts organisations, festivals and venues which have been part of my work in the UK over the past 24 years. At each of these encounters I will perform *One Last Dance* to the accumulative stage that it will be at. As I enter the island of Ireland, the work shifts into its next stage: *An Chéad Damhsa*, which in English means *My First Dance*. Eventually I will reach my final destination (Cloughjordan), where I will finally perform the entire accumulated choreography and audio testimonies.         
@@ -44,7 +44,7 @@ Age advisory: parental/guardian discretion. With an interval, the evening lasts 
           
 *I wish…*<br>That the work will have contributed to an increased awareness around the Home Office’s hostile environment policy towards immigration in general, and more specifically to those EU citizens who will acquire settled status in the UK.<br>That my sadness around Brexit will have transformed into gratitude for the many beautiful years I have had in the country.<br>That by the end, the work will feel like my final love letter to the UK."        
          
-For this encounter at The Lowry, Leentje van de Cruys will be the EU citizen-choreographer; Leentje will also perform/present ***title*** before/after *One Last Dance*, ***add copy here***.        
+For this encounter at The Lowry, Leentje van de Cruys will be the EU citizen-choreographer; Leentje presents a response following an interval after *One Last Dance*…        
          
 #### Who are they        
 A UK/Ireland-based company directed by Rita Marcalo, Instant Dissidence is her way of bringing different artists together, in different combinations, to realise different ideas — through Instant Dissidence she invents ways of offering other people art experiences.        
@@ -53,7 +53,7 @@ Rita's practice began in dance/choreography but she eventually became more inter
          
 Instant Dissidence's is also a socially-engaged practice where the company foregrounds the role that dance/choreography can play as a social engine: they are ‘artivists’ who believe in the power of connecting art and social consciousness.        
           
-Leentje van de Cruys is ***biog here***.          
+Leentje van de Cruys biography to follow…          
           
 #### What people have said about them         
 >*…With tears in my eyes I end this dance. With tears in her eyes Rita thanks me for dancing with a stranger.*<br><a href="http://incidentmag.com/2016/07/23/talking-about-identity-tempting-failure" target="_blank">Lisa Stertz, Incident Magazine on *Dancing with Strangers: from Calais to England*</a>.<br>*…an artist doing what artists are supposed to do: creating work that is surprising, challenging, transgressive and exciting.*<br><a href="https://www.theguardian.com/stage/theatreblog/2009/nov/20/epilepsy-live-art-rita-marcalo" target="_blank">Allan Sutherland, The Guardian on *Involuntary Dances*</a>.          
