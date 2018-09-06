@@ -32,12 +32,12 @@ Box Office Tel: 0843 208 6000 (The Lowry)
 TICKET OFFER: immediately after *The Comforter*, see <a href="http://www.thelowry.com/events/not-i" target="_blank">*Not I* by Touretteshero for £10 at 8pm</a> in The Lowry's Quays Theatre.            
           
 #### Access Information        
-Age advisory: 16+. With no interval, the show lasts approximately 1 hour, and will be BSL interpreted. Features a combination of spoken text, film + music (*TBC*). This performance will be For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: 16+. With no interval, the show lasts approximately 1 hour and is BSL interpreted. Features a combination of spoken text, film + music (*TBC*). For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
 Part ritual; part prayer; part rowdy revivalist rally — *The Comforter* sees Stacy Makishi return with a follow-up to [2015's *Vesper Time*](/archive/2015-autumnwinter/makishi), in a rite of passage that reclaims spirituality and proposes a new perspective on church.        
           
->*The Comforter wishes to comfort and to confound… to make a sacred space for disco, divine, party and paradox.*             
+>*The Comforter* wishes to comfort and to confound… to make a sacred space for disco, divine, party and paradox. — <a href="http://gcn.ie/interview-wonderful-queer-live-collision-headliner-stacy-makish/" target="_blank">Stacy Makishi</a>            
              
 Exchanging psalms and sacrament for 80s/90s pop culture, and drawing inspiration from *Twin Peaks* and Ingmar Bergman, Stacy throws a kiss to George Michael…            
           
