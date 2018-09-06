@@ -29,7 +29,7 @@ Biog **artist name**.
 <a href="http://" target="_blank">url</a> | <a href="http://twitter.com/" target="_blank">@</a>        
          
 #### Venue + Booking Details, for Afternoon           
-Date: Saturday 6 October 2018, 2.30-5.30pm; Emergency 2018 runs 12noon-10pm (*last show ends about 10.30pm*)           
+Date: Saturday 6 October 2018, 2.30pm-5.30pm; Emergency 2018 runs 12noon-10pm (*last show ends about 10.30pm*)           
 Venue: <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts (incl. STUN Studio)</a>, 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: no booking required, Pay What You Decide in person on the day, come and go as you please. *NB some works have a limited capacity (marked* †*) with either sign-up sheets on the day or operating on a first-come, first-served basis. Individual shows from 5.30pm typically have a no-latecomer policy.*       
 Tel: 0161 232 6089 (Z-arts)          
