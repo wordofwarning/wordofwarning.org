@@ -9,7 +9,7 @@ stylesheet: gallery.css
 
 header_url: "../../galleries"
 more_link: "Works Ahead 2018"
-more_url: "../../current/2018-worksahead"
+more_url: "../../archive/2018-worksahead"
 
 gallery:
     -   {file: "titlepage.jpg", 
