@@ -22,7 +22,7 @@ season: "Stacy Makishi 21|11|2018"
 #### In Brief      
 Join Stacy Makishi to explore — through meditation, ritual, and disco — what it means to be fully alive and fully human.        
          
-Read an interview with Stacy about *The Comforter* in <a href="http://www.thestage.co.uk/features/interviews/2018/performance-artist-stacy-makishi-i-was-visited-by-the-ghost-of-george-michael" target="_blank">The Stage</a>.       
+Read interviews with Stacy about *The Comforter* in <a href="http://gcn.ie/interview-wonderful-queer-live-collision-headliner-stacy-makish/" target="_blank">Gay Community News</a> + <a href="http://www.thestage.co.uk/features/interviews/2018/performance-artist-stacy-makishi-i-was-visited-by-the-ghost-of-george-michael" target="_blank">The Stage</a>        
         
 #### Venue + Booking Details           
 Date: Wednesday 21 November 2018, 7pm        
@@ -32,9 +32,11 @@ TICKET OFFER: immediately after *The Comforter*, see <a href="http://www.thelowr
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
-Age advisory: ***TBC 16+*** (parental/guardian discretion). With no interval, the show lasts approximately 1 hour. Features a combination of ***TBC spoken text, film + music***. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: 16+. With no interval, the show lasts approximately 1 hour, and will be BSL interpreted. Features a combination of spoken text, film + music (***TBC***). This performance will be For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
+>*The Comforter wishes to comfort and to confound… to make a sacred space for disco, divine, party and paradox.*             
+             
 Part ritual; part prayer; part rowdy revivalist rally — *The Comforter* sees Stacy Makishi return with a follow-up to [2015's *Vesper Time*](/archive/2015-autumnwinter/makishi), in a rite of passage that reclaims spirituality and proposes a new perspective on church.        
           
 Exchanging psalms and sacrament for 80s/90s pop culture, and drawing inspiration from *Twin Peaks* and Ingmar Bergman, Stacy throws a kiss to George Michael…            
@@ -50,7 +52,7 @@ Her present body of work is interdisciplinary in scope and includes live art, fi
        
 A workshop leader and mentor of international renown, Stacy Makishi opens her making processes to the public through workshops, open rehearsals and talks, alongside performances; on Tuesday 20 November Divergency hosts her live art workshop <a href="http://www.divergencymcr.org/current/event/nov2018" target="_blank">*Killing Time*</a> in STUN Studio at Z-arts.             
        
-She has been awarded an ICA Attached Artist Award, a Millennium Fellowship Award, a Live Art Development Agency One to One Bursary, an Artsadmin Bursary, and the Franklin Furnace Award; she is an Associate Artist with Artsadmin.           
+She has been awarded an ICA Attached Artist Award, a Millennium Fellowship Award, a Live Art Development Agency One to One Bursary, an Artsadmin Bursary, and the Franklin Furnace Award.          
        
 #### What people have said about her         
 >*…a gorgeous hymn …for fearlessness, truth and love.*<br><a href="http://exeuntmagazine.com/reviews/review-vesper-time-ibt17" target="_blank">Exeunt, on *Vesper Time*</a><br>*…charismatically witty yet painful and honest…*<br><a href="http://totaltheatre.org.uk/vespertime" target="_blank">Total Theatre, on *Vesper Time*</a>         
@@ -60,6 +62,6 @@ Co-commissioned by The Yard Theatre, Marlborough Theatre, Norwich Arts Centre + 
            
 #### Websites          
 <a href="http://stacymakishi.com" target="_blank">stacymakishi.com</a> | <a href="http://twitter.com/" target="_blank">@any?</a> | <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF Wednesday</a>         
-        
+        @stacymakishi. #stacymakishi. Also @artsadm
 #### WTF Wednesday ticketing policy at The Lowry         
 As this is a Pay What You Decide event, we know some people who book tickets won't turn up on the night so we send out more tickets than there are places. We do our best to get the numbers right but we advise you arrive early to ensure you get a seat! We don't often have to disappoint people but if we can't fit you in we will try to offer you tickets to another show in The Lowry that night.
