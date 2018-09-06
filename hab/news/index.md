@@ -18,7 +18,7 @@ Upcoming artist opportunities from hÅb are published below when we have them; y
 • <a href="http://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=LIVEART" target="_blank">LIVEART from JISCmail</a>         
 • <a href="http://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=SCUDD" target="_blank">SCUDD (Standing Conference of University Drama Departments) from JISCmail</a>
              
-## Upcoming Events + Opportunities        
+### Upcoming Events + Opportunities        
         
-#### Emergency 2018 — Call for Artists            
-hÅb's annual platform for live art + contemporary performance, is now open for proposals… Our nineteenth [Emergency](/hab/emergency) takes place on Saturday 6 October 2018, 12noon-10pm, in Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> (incl. <a href="http://stunlive.com" target="_blank">STUN Studio</a>), with the callout for proposals open until **Wednesday 15 August, 5pm** — see full details <a href="http://emergencymcr.posthaven.com" target="_blank">here</a>.
+#### Emergency 2018 — Call for Artists now CLOSED            
+hÅb's annual platform for live art + contemporary performance is now closed for proposals, with participating artists tba mid-September… thanks to all who applied. Our nineteenth [Emergency](/current/2018-emergency) takes place on Saturday 6 October 2018, 12noon-10pm, in Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> (incl. <a href="http://stunlive.com" target="_blank">STUN Studio</a>).
