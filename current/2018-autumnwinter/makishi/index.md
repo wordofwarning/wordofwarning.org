@@ -32,7 +32,7 @@ TICKET OFFER: immediately after *The Comforter*, see <a href="http://www.thelowr
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
-Age advisory: 16+. With no interval, the show lasts approximately 1 hour, and will be BSL interpreted. Features a combination of spoken text, film + music (***TBC***). This performance will be For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: 16+. With no interval, the show lasts approximately 1 hour, and will be BSL interpreted. Features a combination of spoken text, film + music (*TBC*). This performance will be For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
 >*The Comforter wishes to comfort and to confound… to make a sacred space for disco, divine, party and paradox.*             
@@ -61,7 +61,7 @@ She has been awarded an ICA Attached Artist Award, a Millennium Fellowship Award
 Co-commissioned by The Yard Theatre, Marlborough Theatre, Norwich Arts Centre + Colchester Arts Centre. Supported using public funding by the National Lottery through Arts Council England. Produced by Artsadmin.         
            
 #### Websites          
-<a href="http://stacymakishi.com" target="_blank">stacymakishi.com</a> | <a href="http://twitter.com/stacymakishi" target="_blank">@stacymakishi</a> | <a href="http://twitter.com/hashtag/stacymakishi" target="_blank">#stacymakishi</a> |<a href="http://twitter.com/artsadm" target="_blank">@artsadm</a> | <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF Wednesday</a>         
+<a href="http://stacymakishi.com" target="_blank">stacymakishi.com</a> | <a href="http://twitter.com/hashtag/stacymakishi" target="_blank">#stacymakishi</a> | <a href="http://twitter.com/artsadm" target="_blank">@artsadm</a> | <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF Wednesday</a>         
         
 #### WTF Wednesday ticketing policy at The Lowry         
 As this is a Pay What You Decide event, we know some people who book tickets won't turn up on the night so we send out more tickets than there are places. We do our best to get the numbers right but we advise you arrive early to ensure you get a seat! We don't often have to disappoint people but if we can't fit you in we will try to offer you tickets to another show in The Lowry that night.
