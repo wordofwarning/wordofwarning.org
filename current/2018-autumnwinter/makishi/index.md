@@ -28,20 +28,20 @@ Read interviews with Stacy about *The Comforter* in <a href="http://gcn.ie/inter
 Date: Wednesday 21 November 2018, 7pm        
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
 <a href="http://www.thelowry.com/events/stacy-makishi" target="_blank">Tickets: available to reserve from Friday 26 October</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
-TICKET OFFER: immediately after *The Comforter*, see <a href="http://www.thelowry.com/events/not-i" target="_blank">*Not I* by Touretteshero for £10 at 8pm</a> in The Lowry's Quays Theatre.            
 Box Office Tel: 0843 208 6000 (The Lowry)          
+TICKET OFFER: immediately after *The Comforter*, see <a href="http://www.thelowry.com/events/not-i" target="_blank">*Not I* by Touretteshero for £10 at 8pm</a> in The Lowry's Quays Theatre.            
           
 #### Access Information        
 Age advisory: 16+. With no interval, the show lasts approximately 1 hour, and will be BSL interpreted. Features a combination of spoken text, film + music (*TBC*). This performance will be For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
->*The Comforter wishes to comfort and to confound… to make a sacred space for disco, divine, party and paradox.*             
-             
 Part ritual; part prayer; part rowdy revivalist rally — *The Comforter* sees Stacy Makishi return with a follow-up to [2015's *Vesper Time*](/archive/2015-autumnwinter/makishi), in a rite of passage that reclaims spirituality and proposes a new perspective on church.        
           
+>*The Comforter wishes to comfort and to confound… to make a sacred space for disco, divine, party and paradox.*             
+             
 Exchanging psalms and sacrament for 80s/90s pop culture, and drawing inspiration from *Twin Peaks* and Ingmar Bergman, Stacy throws a kiss to George Michael…            
           
-Following [*Vesper Time*](/archive/2015-autumnwinter/makishi), *The Comforter* is show two in her trilogy about the Holy Trinity — and, as the Holy Ghost of the trio, asks the question: ‘What am I unwilling to feel?’               
+Following *Vesper Time*, *The Comforter* is show two in her trilogy about the Holy Trinity — and, as the Holy Ghost of the trio, asks the question: ‘What am I unwilling to feel?’               
            
 #### Who is she?        
 A multi-award winning artist who has been making work for over 30 years, Stacy Makishi is a transplant from Hawaii who found paradise in Dalston, East London in 1994.            
