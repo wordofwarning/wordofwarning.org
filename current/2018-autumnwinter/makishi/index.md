@@ -29,7 +29,7 @@ Date: Wednesday 21 November 2018, 7pm
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
 <a href="http://www.thelowry.com/events/stacy-makishi" target="_blank">Tickets: available to reserve from Friday 26 October</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0843 208 6000 (The Lowry)          
-WTF TICKET OFFER: immediately after *The Comforter*, see <a href="http://www.thelowry.com/events/not-i" target="_blank">*Not I* by Touretteshero for £10 at 8pm</a> in The Lowry's Quays Theatre (book from Friday 26 October and apply discount code on checkout).            
+WTF TICKET OFFER: immediately after *The Comforter*, see <a href="http://www.thelowry.com/events/not-i" target="_blank">*Not I* by Touretteshero</a> at 8pm in The Lowry's Quays Theatre for £10 (available from Friday 26 October).            
           
 #### Access Information        
 Age advisory: 16+. With no interval, the show lasts approximately 1 hour and is BSL interpreted. Features a combination of spoken text, film + music (*TBC*). For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
@@ -50,7 +50,7 @@ After graduating from the University of Hawaii she worked as a stand-up comic at
        
 Her present body of work is interdisciplinary in scope and includes live art, film, installation and visual art. Her work is as complex as it is accessible; humorous as it is challenging; visual as it is literate.          
        
-A workshop leader and mentor of international renown, Stacy Makishi opens her making processes to the public through workshops, open rehearsals and talks, alongside performances; on Tuesday 20 November Divergency hosts her live art workshop <a href="http://www.divergencymcr.org/current/event/nov2018" target="_blank">*Killing Time*</a> in STUN Studio at Z-arts.             
+A workshop leader and mentor of international renown, Stacy Makishi opens her making processes to the public through workshops, open rehearsals and talks, alongside performances; on **Tuesday 20 November** Divergency hosts her live art workshop <a href="http://www.divergencymcr.org/current/event/nov2018" target="_blank">*Killing Time*</a> in STUN Studio at Z-arts (6-9pm).             
        
 She has been awarded an ICA Attached Artist Award, a Millennium Fellowship Award, a Live Art Development Agency One to One Bursary, an Artsadmin Bursary, and the Franklin Furnace Award.          
        
