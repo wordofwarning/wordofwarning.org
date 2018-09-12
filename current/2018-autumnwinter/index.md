@@ -6,7 +6,7 @@ is_index: true
 season: "A/W 2018"
 
 ---
-*Our now regular Pay What You Decide Autumn season takes a [trip on the Brexit train](/current/2018-autumnwinter/instantdissidence), then [curls up under a warm duvet](/current/2018-autumnwinter/makishi). Before all that join us for [Emergency](/current/2018-emergency) — while ongoing austerity says go small, we've gone big with some 30 performances in just the one day… To keep in touch, <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.*               
+*Our now regular Pay What You Decide Autumn season takes a [trip on the Brexit train](/current/2018-autumnwinter/instantdissidence), and then [curls up under a warm duvet](/current/2018-autumnwinter/makishi). Before all that join us for [Emergency](/current/2018-emergency) — while ongoing austerity says go small, we've gone big with some 30 performances in just the one day… To keep in touch, <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.*               
           
 Brought to you by hÅb — with Sustained Theatre Up North, Z-arts, The Lowry — we look forward to seeing you at some or all of Autumn/Winter 2018. If you want to check out what happened last season take a look at our [Spring/Summer 2018 archive](/archive/2018-springsummer), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=152950990710" target="_blank">online survey</a>.                 
              
