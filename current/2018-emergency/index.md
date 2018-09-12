@@ -21,9 +21,12 @@ season: "Emergency 6|10|2018"
 ### Saturday 6 October, 12-10pm. Pay What You Decide             
 Manchester's nineteenth annual manic micro-marathon of the bizarre + the beautiful: from gallery to theatre, store-cupboard to stairwell, some 30 live works in a non-stop performance takeover — filling the Z-arts building to bursting point…         
             
-**From noon** — dip in and out of ongoing performances, installations and limited capacity experiences; **from 2.30pm** — it's adult-only live art;<br>**and from 5.30pm** — join us for a series of short sit-down shows.<br>Sample the different — then pay what you decide!         
+**From noon** dip in and out of ongoing performances, installations and limited capacity experiences; **from 2.30pm** it's adult-only live art; **and from 5.30pm** join us for a series of short sit-down shows.<br>Sample the different — then pay what you decide!          
         
-Participating artists will be announced here mid-September; to get a feel for it, have a look at [2017's programme](/archive/2017-emergency) + [gallery of images](/galleries/2017-emergency) from 2017's event.         
+### Participating artists (*subject to change*)          
+Aidan Strudwick | Alexandrina Hemsley | Alicia Jane Turner | Avital Raz | BOXD Theatre | Camilla Canocchi | Chanje Kunda | Dead Good Theatre | Demelza Toy Toy | Emma Geraghty | Frances Kay | idontloveyouanymore | Katt Perry | Lise Boucon | Luca Federici | Magda Tuka + Opeaen | Mark Croasdale | Megan Rudden | Miss Englatina | Natalie Wardle | Paper People Theatre | Penelope Harrall | Peter Jacobs | Proud & Loud Arts | Rachel Gomme | Rosie Gibbens | Tom Cassani | Tom Halls | Two Blue Ticks | Yani B        
+        
+To get a feel for it, have a look at the 2017 [programme](/archive/2017-emergency) + [image gallery](/galleries/2017-emergency).         
          
 #### Venue + Booking Details         
 Date: Saturday 6 October 2018, 12noon-10pm (*last show ends about 10.30pm*)           
