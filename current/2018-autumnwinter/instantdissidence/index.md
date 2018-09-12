@@ -20,7 +20,9 @@ season: "Instant Dissidence with Leentje Van de Cruys 10|10|2018"
 *Presented by* The Lowry + Word of Warning *as part of* <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF</a>           
          
 #### In Brief      
-A perambulating, itinerant dance work stops off in Salford on its way from Guildford (the place Rita Marcalo lived in when she arrived in the UK as an Erasmus student in 1994) to Cloughjordan (the rural Irish village that she is moving to post-Brexit).       
+Rita Marcalo is saying goodbye to her home-country of 24 years. An emotional journey, she hopes to transform her sadness around Brexit into gratitude for many beautiful times. In a final love letter to the UK, she will dance her way from Guildford (her first UK home) to Cloughjordan in Ireland (her home-to-be).          
+        
+Accompanied along the way by other EU citizen-choreographers, Leentje Van de Cruys will join the Salford leg of this perambulating, itinerant, accumulating dance work.        
         
 Read an interview with Rita about *One Last Dance* in <a href="http://performingborders.live/2018/05/14/rita-marcalo-may-2018" target="_blank">performingborders</a>.         
         
@@ -44,7 +46,7 @@ Age advisory: parental/guardian discretion. Duration to be confirmed. Features a
           
 *I wish…*<br>That the work will have contributed to an increased awareness around the Home Office’s hostile environment policy towards immigration in general, and more specifically to those EU citizens who will acquire settled status in the UK.<br>That my sadness around Brexit will have transformed into gratitude for the many beautiful years I have had in the country.<br>That by the end, the work will feel like my final love letter to the UK."        
          
-For this encounter at The Lowry, Leentje van de Cruys is the guest EU citizen-choreographer.        
+For this encounter at The Lowry, Leentje Van de Cruys is the guest EU citizen-choreographer.        
          
 #### Who are they?        
 A UK/Ireland-based company directed by Rita Marcalo, Instant Dissidence is her way of bringing different artists together, in different combinations, to realise different ideas — through Instant Dissidence she invents ways of offering other people art experiences.        
