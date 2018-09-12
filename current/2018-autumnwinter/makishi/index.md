@@ -50,7 +50,7 @@ After graduating from the University of Hawaii she worked as a stand-up comic at
        
 Her present body of work is interdisciplinary in scope and includes live art, film, installation and visual art. Her work is as complex as it is accessible; humorous as it is challenging; visual as it is literate.          
        
-A workshop leader and mentor of international renown, Stacy Makishi opens her making processes to the public through workshops, open rehearsals and talks, alongside performances; on **Tuesday 20 November** Divergency hosts her live art workshop <a href="http://www.divergencymcr.org/current/event/nov2018" target="_blank">*Killing Time*</a> in STUN Studio at Z-arts (6-9pm).             
+A workshop leader and mentor of international renown, Stacy Makishi opens her making processes to the public through workshops, open rehearsals and talks, alongside performances. (NB. on **Tuesday 20 November** <a href="http://www.divergencymcr.org" target="_blank">Divergency</a> hosts her live art workshop <a href="http://www.divergencymcr.org/current/event/nov2018" target="_blank">*Killing Time*</a> for artists of colour.)             
        
 She has been awarded an ICA Attached Artist Award, a Millennium Fellowship Award, a Live Art Development Agency One to One Bursary, an Artsadmin Bursary, and the Franklin Furnace Award.          
        
