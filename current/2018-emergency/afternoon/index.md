@@ -25,7 +25,7 @@ Chanje Kunda | Emma Geraghty† | Frances Kay | Mark Croasdale† | Lise Boucon 
 **Chanje Kunda | *Plant Fetish***         
 A performance installation and an indoor oasis for this urban space. Elaborate exotic plants display their splendour alongside a solo human performer. A lavish a journey with plants to excite and tantalise...            
    
-**Chanje Kunda**has featured at The Royal Albert Hall, and venues in Amsterdam, Rotterdam, and Eindhoven.  As a solo performance artist she has performed at The Southbank, the National Arts Festival of South Africa, and the HIFA Festival, Zimbabwe and is a recipient of the BBC's Verb New Voices Award.         
+**Chanje Kunda** has featured at The Royal Albert Hall, and venues in Amsterdam, Rotterdam, and Eindhoven.  As a solo performance artist she has performed at The Southbank, the National Arts Festival of South Africa, and the HIFA Festival, Zimbabwe and is a recipient of the BBC's Verb New Voices Award.         
 <a href="http://chanjekunda.com" target="_blank">chanjekunda.com</a> | <a href="http://twitter.com/chanjekunda" target="_blank">@chanjekunda</a>                     
 
 **Emma Geraghty | *Keep The Lights On***         
@@ -33,7 +33,7 @@ What makes a fetish? What counts as "normal"? Is there anything worse than a bag
 **Emma Geraghty** is a director and a writer of prose and performative text based in Manchester. Her work explores notions of queerness, sexuality, and body image.  She received the 2018 Works Ahead commission from hÅb for her solo show Fat Girl Singing. She is one quarter of award-winning Manchester theatre company Powder Keg, who create political theatre centred around care and gut feelings, rather than lofty political brainwork and works with Big Imaginations and Girl Gang MCR.         
 <a href="http://" target="_blank">url</a> | <a href="http://twitter.com/patchworkduck" target="_blank">@patchworkduck</a>          
 
-**Frances Kay | *FK vs KT: The Showdown1***      
+**Frances Kay | *FK vs KT: The Showdown***      
 FK and KT have spent time learning to grow, understand and respect each other. How quickly can they be ripped apart again? Testing a devoted relationship and scrutinising life and addiction, this lively performance explores the artist’s connections to her working class background, gender identity and sweet sweet booooze...                    
 **Frances Kay** is a solo, performance artist exploring the effects of performance on the body and mind, using many disciplines such as endurance, duration, and self-inflicted pain. Her work includes strong visual aesthetics and currently explores issues of social interest, such as; gender politics, feminism, religion and personal suffering. Kay has presented work nationally and internationally at events and platforms in Bulgaria, Berlin, Athens, Edinburgh, Glasgow, Birmingham and Liverpool.           
 <a href="http://franceskayart.wordpress.com" target="_blank">franceskayart.wordpress.com</a> | <a href="http://twitter.com/franceskayart" target="_blank">@franceskayart</a>   
