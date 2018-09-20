@@ -43,7 +43,7 @@ Examining some of the baffling and brutal injustices in the world of service, re
 Anna and David are in a relationship. For four years they have been navigating each others stuff, each others malfunctions; snoring, sleep talking, tech addiction, depression, eczema and all the other stuff that comes with being human. In this performance they examine the thought patterns and unspoken games in play within the corrupted systems of human relationships, looking at how our minds navigate our errors and how best to re-code and reboot.                            
                
 **Anna and David** have been working together for three years. First in Theatre 42, whose debut show, *Nothing is Coming, The Pixels are Huge*, was highly praised and toured to five venues including Emergency 2016. They now work together as **idontloveyouanymore** and have been supported by Lancaster Arts, Theatr Clywd and ARC Stockton.              
-<a href="http://idontloveyouanymore.org" target="_blank">idontloveyouanymore.org</a> | <a href="http://twitter.com/idont.  love.  you" target="_blank">@idont.  love.  you</a>                   
+<a href="http://idontloveyouanymore.org" target="_blank">idontloveyouanymore.org</a> | <a href="http://twitter.com/idont.love.you" target="_blank">@idont.love.you</a>                   
 
 **Katt Perry | *Lo-lee-ta.***         
 *Lo-Lee-Ta: the tip of the tongue taking a trip of three steps down the palate to tap, at three, on the teeth. Lo. Lee. Ta.*           
@@ -51,13 +51,12 @@ A performance focusing on the novel by Vladimir Nabokov addressing the male gaze
 
 **Katt Perry** is a theatre maker, performer and FE lecturer currently based in Northamptonshire. Since graduating she has been collaborating on Michael Pinchbeck’s Concerto.    
 **Ryan O’Shea** (Co-Director) is is a theatre-maker, creative producer and performer based between Manchester and Bristol. He is a member of Reckless Sleepers and also works with Living Pictures, Massive Owl and Michael Pinchbeck.                    
-<a href="http://kattperry73.wixsite.com/kattperrytheatre" target="_blank">kattperry73.wixsite.com</a> | <a href="http://twitter.com/kattperrytheatre " target="_blank">@kattperrytheatre </a>                   
+<a href="http://kattperry73.wixsite.com/kattperrytheatre" target="_blank">kattperry73.wixsite.com</a> | <a href="http://twitter.com/kattperrytheatre " target="_blank">@katperrytheatre </a>                   
 
 **Magda Tuka + Opeaen | *Deus ex running machine (Dex)***         
 Dex - it’s my desperate, full of hope and expectations great run and noise repetition penetrating everything. The inspiration for this run is *Birth of tragedy* by F. Nietzsche.*‘Be as I am! Under the incessantly changing phenomena the eternal primordial mother, always forcing things into existence, always satisfied with the changing nature of appearances!’* F. Nietzsche.                      
 
-**Magda Tuka** (performance) is is the founding artistic director of Ja Ja Ja Ne Ne Ne, an organisation to facilitate the production and teaching of a growing body of hybrid work, performances and workshops have developed over recent years through an extensive series of funded residencies and festivals, mainly in Central and Eastern Europe, UK and the Balkans, with appearances in Netherlands and USA.   
-<a href="http://tuka.link" target="_blank">tuka.link</a> | <a href="http://twitter.com/" target="_blank">@</a>        
+**Magda Tuka** (performance) is is the founding artistic director of Ja Ja Ja Ne Ne Ne, an organisation to facilitate the production and teaching of a growing body of hybrid work, performances and workshops have developed over recent years through an extensive series of funded residencies and festivals, mainly in Central and Eastern Europe, UK and the Balkans, with appearances in Netherlands and USA. <a href="http://tuka.link" target="_blank">tuka.link</a> | <a href="http://twitter.com/" target="_blank">@</a>        
 **Opaean** – sound designer. <a href="http://opaean.uk" target="_blank">opaean.uk</a> | <a href="http://twitter.com/" target="_blank">@</a>                   
 
 **Miss Englatina | *Mi casa, su casa***         
@@ -75,7 +74,7 @@ When something happens, not everyone experiences it first hand. In fact, most pe
 Written and directed by Greg Saxton, *On A Clear Morning In May* is a response to the Manchester Arena attack in May 2017. Told through the voices of a Witness, an Expert and a Revolutionary, it explores how people respond when terror is brought to their doorstep.                         
                      
 **Two Blue Ticks** is Greg Saxton, Cassandra Snowden and Joe Slack.        
-<a href="http://facebook.com/tbttheatre" target="_blank">facebook.com/tbttheatre</a> | <a href="http://twitter.com/" target="_blank">@gregsaxton</a>                   
+<a href="http://facebook.com/tbttheatre" target="_blank">facebook.com/tbttheatre</a> | <a href="http://twitter.com/gregsaxton" target="_blank">@gregsaxton</a>                   
 
 **Tom Cassani | *I Promise You That Tonight***         
 Turning water into wine. Turning waiting into accepting. Is a hard thing to do. Lying is done with words and also silence. Walking on water, spontaneous combustion, lightning and transubstantiation all have something in common.                    
