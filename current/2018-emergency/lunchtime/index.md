@@ -45,7 +45,7 @@ The true story of one man’s relationship with his Grandfather. Stories from 
 **Jake Walton** (Director) is a theatre maker based in Manchester working with companies, Powder Keg and Paper People. His work is primarily focused on contemporary theatre making.         
 <a href="http://" target="_blank">url</a> | <a href="http://twitter.com/" target="_blank">@</a>    
 
-**Camilla Canocchi | *Know your sh*t***         
+**Camilla Canocchi | *Know your sh\*t***         
 A one-to-one performance, compulsory for all who want to remain in the UK after Brexit. As you may have already heard, everyone must obtain an English language certificate before 29 March 2019. You may think you don't need one because it’s YOUR language. Or maybe you think you could really do with a refresher... Either way, come and see me in my booth. I will test your English language knowledge and, if you’re lucky, you’ll get a Brexit-proof certificate for FREE! (cup of tea may be included).          
 
 **Camilla Canocchi** is an Italian performer and writer based in London.  Her first solo show You say change comes from within (2017) is a cabaret-style comedy about self-improvement, presented in London and Newcastle. She often uses humour as a tool to discuss serious and uncomfortable issues. She regularly collaborates with other artists including Anton Mirto (The Army at the Whitechapel Gallery + Yard Theatre); and contemporary performance group PartSuspended, in London, Athens and Prague. She is also a financial journalist.                
@@ -76,9 +76,9 @@ We are killing the ocean and everything in it with our over consumption of plast
 <a href="http://penelope-harrall.com" target="_blank">penelope-harrall.com</a> | <a href="http://twitter.com/" target="_blank">@</a>.      
   
 **Peter Jacobs | *AMASS***         
-AMASS is a gathering: a place of convergence, collaboration, negotiation, solicitude and survival that seeks to playfully interrogate the nexus of mens interdependencies and dissociation.  Constantly evolving within limits, finding and setting its own rhythm through unspoken interaction, through touch, gentle pressure, and contact: looking inwardly, AMASS endlessly seeks to connect and reconnect; to find and maintain elusive equilibrium and cohesion.           
+AMASS is a gathering: a place of convergence, collaboration, negotiation and survival that seeks to playfully interrogate men’s interdependencies and dissociation.  AMASS seeks to connect and reconnect; to find and maintain elusive equilibrium and cohesion.             
       
-**Peter Jacobs** is an experienced performer, model and artist exploring opportunities within performance and installation art and performance making.  Peter has continued to work within a wide range of different types of performance including photographic, situational and gallery installations, and art and theatrical performances in the UK and Europe.                  
+**Peter Jacobs** iis a mature performer and performance-maker based in the north west, with a wide experience of different types of performance including photographic, situational and gallery installations, and art and theatrical performances in the UK and Europe.                  
 <a href="http://peter-jacobs.weebly.com" target="_blank">peter-jacobs.weebly.com</a> | <a href="http://twitter.com/PeterTJacobs" target="_blank">@PeterTJacobs</a>                
           
 **Proud & Loud Arts | *Affirmations***         
