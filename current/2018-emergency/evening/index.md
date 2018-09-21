@@ -39,10 +39,10 @@ Examining some of the baffling and brutal injustices in the world of service, re
 **Dead Good Theatre** is Melissa Wands and Amy Ann Clohessy.        
 <a href="http://facebook.com/pg/DeadGoodTheatre" target="_blank">facebook.com/pg/DeadGoodTheatre</a> | <a href="http://twitter.com/deadgoodtheatre" target="_blank">@deadgoodtheatre</a>                   
 
-**idontloveyouanymore| *This is Where the Magic Happens***         
+**idontloveyouanymore| *Move 37***         
 Anna and David are in a relationship. For years they’ve been navigating each others stuff, each others malfunctions, from snoring to depression. In this performance they examine the thought patterns and the games in play within the corrupted systems of human relationships.                            
                
-**Anna and David** work together as **idontloveyouanymore**, partly to make sense of the absurdities around them, and partly so they don’t really have to leave the house. They also work with Theatre 42, who presented their award winning show *Nothing is Coming, the Pixels are Huge* at Emergency 2016. They're supported by Lancaster Arts and Theatre Clwyd.              
+**Anna and David** work together as **idontloveyouanymore**, partly to make sense of the absurdities around them, and partly so they don’t really have to leave the house. They also work with Theatre 42, who presented their award winning show *Nothing is Coming, the Pixels are Huge* at Emergency 2016. They're supported by Lancaster Arts and Theatr Clwyd.              
 <a href="http://idontloveyouanymore.org" target="_blank">idontloveyouanymore.org</a> | <a href="http://twitter.com/idont.love.you" target="_blank">@idont.love.you</a>                   
 
 **Katt Perry | *Lo-lee-ta.***         
