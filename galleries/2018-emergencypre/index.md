@@ -18,6 +18,7 @@ gallery:
     -   {file: "megan_rudden.jpg", artist: "Megan Rudden"}
     -   {file: "rachel_gomme.jpg", artist: "Rachel Gomme"}
     -   {file: "tom_halls.jpg", artist: "Tom Halls"}
+    -   {file: "luca_federici.jpg", artist: "Luca Federici"}
     -   {file: "rosie_gibbens.jpg", artist: "Rosie Gibbens"}
     -   {file: "frances_kay.jpg", artist: "Frances Kay"}
     -   {file: "chanje_kunda.jpg", artist: "Chanje Kunda"}
