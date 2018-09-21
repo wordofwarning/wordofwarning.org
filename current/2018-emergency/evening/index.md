@@ -40,9 +40,9 @@ Examining some of the baffling and brutal injustices in the world of service, re
 <a href="http://facebook.com/pg/DeadGoodTheatre" target="_blank">facebook.com/pg/DeadGoodTheatre</a> | <a href="http://twitter.com/deadgoodtheatre" target="_blank">@deadgoodtheatre</a>                   
 
 **idontloveyouanymore| *This is Where the Magic Happens***         
-Anna and David are in a relationship. For four years they have been navigating each others stuff, each others malfunctions; snoring, sleep talking, tech addiction, depression, eczema and all the other stuff that comes with being human. In this performance they examine the thought patterns and unspoken games in play within the corrupted systems of human relationships, looking at how our minds navigate our errors and how best to re-code and reboot.                            
+Anna and David are in a relationship. For years they’ve been navigating each others stuff, each others malfunctions, from snoring to depression. In this performance they examine the thought patterns and the games in play within the corrupted systems of human relationships.                            
                
-**Anna and David** have been working together for three years. First in Theatre 42, whose debut show, *Nothing is Coming, The Pixels are Huge*, was highly praised and toured to five venues including Emergency 2016. They now work together as **idontloveyouanymore** and have been supported by Lancaster Arts, Theatr Clywd and ARC Stockton.              
+**Anna and David** work together as **idontloveyouanymore**, partly to make sense of the absurdities around them, and partly so they don’t really have to leave the house. They also work with Theatre 42, who presented their award winning show *Nothing is Coming, the Pixels are Huge* at Emergency 2016. They're supported by Lancaster Arts and Theatre Clwyd.              
 <a href="http://idontloveyouanymore.org" target="_blank">idontloveyouanymore.org</a> | <a href="http://twitter.com/idont.love.you" target="_blank">@idont.love.you</a>                   
 
 **Katt Perry | *Lo-lee-ta.***         
