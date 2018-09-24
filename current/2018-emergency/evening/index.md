@@ -21,7 +21,7 @@ season: "Emergency 6|10|2018, Evening"
        
 ### Artists in Chronological Order (*subject to change*)      
 AIDAN STRUDWICK†<sup>18</sup> | Avital Raz<sup>18</sup> | Dead Good Theatre† | idontloveyouanymore | Katt Perry† | Magda Tuka + Opeaen†<sup>18</sup> | Miss Englatina | Natalie Wardle<sup>18</sup> | Two Blue Ticks†<sup>18</sup> | Tom Cassani†<sup>18</sup>                      
-(<sup>18</sup> *not suitable for under 18s* † *limited capacity (approx 60 in the evening)*)       
+(<sup>18</sup> *not suitable for under 18s*; † *capacity approx 60 for evening performances*)       
            
 **AIDAN STRUDWICK | *A CHRISTMAS SHOW***†<sup>18</sup>         
 A musical about money, exposure, and showmanship in the arts, dressed up as a loose adaptation of *A Christmas Carol*, a text that has been adapted and parodied countless times. AIDAN STRUDWICK is seen as a bizarre, misunderstood cult-figure, desperate for attention and, quite often, money, so wants to capitalise on this story.        
