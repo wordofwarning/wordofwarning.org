@@ -87,6 +87,7 @@ Tel: 0161 232 6089 (Z-arts)
           
 #### Credits         
 [Emergency](/hab/emergency) 2018 is produced by [hÅb](/hab); supported using public funding by Arts Council England.        
+Header image: Lise Boucon by Manuel Vason.              
         
 #### Websites
 <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>
