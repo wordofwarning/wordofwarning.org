@@ -22,7 +22,7 @@ gallery:
     -   {file: "tom_halls.jpg", artist: "Tom Halls"}
     -   {file: "luca_federici.jpg", artist: "Luca Federici"}
     -   {file: "rosie_gibbens.jpg", artist: "Rosie Gibbens"}
-    -   {file: "frances_kay.jpg", artist: "Frances Kay"}
+    -   {file: "frances_kay.jpg", artist: "Frances Kay", show: "Greta Jokūbauskaitė"}
     -   {file: "chanje_kunda.jpg", artist: "Chanje Kunda"}
     -   {file: "idontloveyouanymore.jpg", artist: "idontloveyouanymore"}
     -   {file: "dead_good.jpg", artist: "Dead Good Theatre"}
