@@ -58,7 +58,7 @@ Dex - it’s my desperate, full of hope and expectations, great run and noise re
 *‘Be as I am! Under the incessantly changing phenomena the eternal primordial mother, always forcing things into existence, always satisfied with the changing nature of appearances!’* F. Nietzsche.                      
 
 **Magda Tuka** (performance) is is the founding artistic director of Ja Ja Ja Ne Ne Ne, an organisation to facilitate the production and teaching of a growing body of hybrid work. Performances and workshops have developed over recent years through an extensive series of funded residencies and festivals, mainly in Central and Eastern Europe, UK and the Balkans, with appearances in Netherlands and USA.                 
-<a href="http://tuka.link" target="_blank">tuka.link</a> | <a href="http://twitter.com/" target="_blank">@</a>        
+<a href="http://tuka.link" target="_blank">tuka.link</a>        
 **Opaean** – sound designer. <a href="http://opaean.uk" target="_blank">opaean.uk</a>                   
 
 **Miss Englatina | *Mi casa, su casa***         
