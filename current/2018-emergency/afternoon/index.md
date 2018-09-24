@@ -45,7 +45,8 @@ A shadowy figure sits waiting to meet you, longing for a connection, hoping for 
 <a href="http://markcroasdale.com" target="_blank">markcroasdale.com</a> | <a href="http://twitter.com/markcroasdale" target="_blank">@markcroasdale</a>   
 
 **Lise Boucon | *EAT ME (or the dream of a feast)***         
-Welcome! Welcome to my feast. Please, take a seat. And please be patient, very patient. My feast takes time.  Time for celebration, time for rejoicing, for joy we devour  We are waiting for the guests, but they are late in coming, or come some unexpected, with horns  And slowly, gently, they rise to the assault   The ritual is in progress. The feast begins. EAT ME.       
+Welcome! Welcome to my feast. Please, take a seat / And please be patient, very patient. My feast takes time / Time for celebration, time for rejoicing, for joy we devour / We are waiting for the guests, but they are late in coming, or come some unexpected, with horns / And slowly, gently, they rise to the assault / The ritual is in progress. The feast begins / EAT ME.       
+I want this piece being an allegory of the wish of disappearance, from a non-appropriate body/identity/society. Manipulating symbols and references in all white, this is a long and slow surrealist dream. Like a pagan ritual to maybe reborn to oneself…                    
                
 **Lise Boucon** is a body-based performance artist of the extraordinary and extreme. Introspective and intriguing, she’s following a personal thread questioning mainly the social impact on the body.              
 <a href="http://liseboucon.com" target="_blank">liseboucon.com</a> | <a href="http://twitter.com/" target="_blank">@</a>.                    
@@ -65,8 +66,8 @@ In their new work, Niya is inviting the audience to explore intimacy, gender and
 **Rosie Gibbens | *Auto Erotic Assimilation***         
 Part absurd product demonstration, part lacklustre burlesque show, Auto Erotic Assimilation presents an abstract orgy with everyday objects. The normal functions of the items are rejected and mundane routine is fetishised. The performance appropriates and combines images from advertising, customer service and pornography in an attempt to highlight and subvert presentations of women in these fields.                    
   
-**Rosie Gibbens** is a performance and video artist interested by desire and power in relationship to gender performativity, sexual politics and consumerist identity. She has performed at multiple London venues including Toynbee Studios and the Barbican. In June 2018 she performed at the opening of Revolve Performance Art Festival in Sweden. In September her video Professional Body was exhibited as part of the Visions program at Bow Arts (London).                        
-<a href="http://rosiegibbens.com" target="_blank">rosiegibbens.com</a> | <a href="http://twitter.com/" target="_blank">@</a>   
+**Rosie Gibbens** is a performance and video artist interested by desire and power in relationship to gender performativity, sexual politics and consumerist identity. She has performed at multiple London venues including Toynbee Studios, Bow Arts and the Barbican.                        
+<a href="http://rosiegibbens.com" target="_blank">rosiegibbens.com</a> | <a href="https://www.instagram.com/rosiegibbens" target="_blank">@rosiegibbens</a>   
 
 **Tom Halls | *Play Thing***         
 Ever wanted to be back in that place where you could play with your toys, letting your imagination run wild? This is your chance. Except you're not a child and this isn't a toy. Play Thing puts you in control. The artist and audience relationship is flipped, turning the artist into the passive observer and muse for wherever your imagination may run. Sometimes the rules and politics of society constrict our creativity, with Play Thing the rules are left at the door. Come and connect, make your masterpiece and create a living version of your imagination.                  

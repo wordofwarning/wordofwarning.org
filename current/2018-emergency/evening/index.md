@@ -70,20 +70,20 @@ A performance looking at how women constrict their bodies to fit in with society
 **Natalie Wardle** is a visual artist from Manchester, with a background in Photography, she has been selected to work with Random Acts North (Tyneside Cinema, True North, HOME) to develop Control Pant Symphony, leading to showings on Channel 4’s Random Acts and at the ICA, London.        
 <a href="http://nataliewardle.com" target="_blank">nataliewardle.com</a> | <a href="http://twitter.com/nashywardle" target="_blank">@nashywardle</a>                   
 
-**Two Blue Ticks | *On A Clear Morning in May***         
-When something happens, not everyone experiences it first hand. In fact, most people don't. Some people see the aftermath. Some people speculate on why it happened. And some people react. Violently.        
-Written and directed by Greg Saxton, *On A Clear Morning In May* is a response to the Manchester Arena attack in May 2017. Told through the voices of a Witness, an Expert and a Revolutionary, it explores how people respond when terror is brought to their doorstep.                         
-                     
-**Two Blue Ticks** is Greg Saxton, Cassandra Snowden and Joe Slack.        
-<a href="http://facebook.com/tbttheatre" target="_blank">facebook.com/tbttheatre</a> | <a href="http://twitter.com/gregsaxton" target="_blank">@gregsaxton</a>                   
-
 **Tom Cassani | *I Promise You That Tonight***         
 Turning water into wine. Turning waiting into accepting. Is a hard thing to do. Lying is done with words and also silence. Walking on water, spontaneous combustion, lightning and transubstantiation all have something in common.                    
 See this. None of this is impossible. I promise you that tonight.       
         
 **Tom Cassani** is a Performance Artist and Liar..  Tom's practice of deception has developed and transformed over the past four years, manifesting itself in both text and action based performance. He is interested in how he can use elements of deception, misdirection and lying in his artistic practice. He has trained in sleight of hand, misdirection and prestidigitation and now use these skills of deceit as an artistic framework to explore truth, honesty, manipulation and fabrication.        
-<a href="http://" target="_blank">url</a> | <a href="http://twitter.com/Tomatocassata" target="_blank">@Tomatocassata</a>                              
+<a href="http://" target="_blank">url</a> | <a href="http://twitter.com/Tomatocassata" target="_blank">@Tomatocassata</a>                      
         
+**Two Blue Ticks | *On A Clear Morning in May***         
+When something happens, not everyone experiences it first hand. Some see, some speculate and some react. Violently.               
+A response to the Manchester Arena attack, *On A Clear Morning in May* is told through the voices of a Witness, an Expert and a Revolutionary and explored how people respond when terror is brought to their doorstep..                         
+                     
+**Two Blue Ticks** is Greg Saxton, Cassandra Snowden and Joe Slack.        
+<a href="http://facebook.com/tbttheatre" target="_blank">facebook.com/tbttheatre</a> | <a href="http://twitter.com/@tbttheatre" target="_blank">@@tbttheatre</a>                  
+
 #### Venue + Booking Details, for Evening           
 Date: Saturday 6 October 2018, 5.30pm-10pm; Emergency 2018 runs 12noon-10pm (*last show ends about 10.30pm*)           
 Venue: <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts (incl. STUN Studio)</a>, 335 Stretford Road, Manchester, M15 5ZA        
