@@ -24,9 +24,10 @@ Alexandrina Hemsley | Alicia Jane Turner† | BOXD Theatre† | Camilla Canocchi
 ( † *limited capacity*)       
            
 **Alexandrina Hemsley | *words collect under my soft palate, lips shut, soundless bubbling***         
-A new video work by dance artist and writer Alexandrina Hemsley in which she deals with self-censoring as someone who experiences the silencing inherent in marginalisation and anti-blackness. This work continues the attempts of her artistic practice to retain multiplicity and morph the body’s narratives as a soft resistance to objectification and reductive representations. Alongside this, it is a challenge to herself - as an artist who experiences heightened distress over her appearance - to look in the camera for more than a minute.         
+A new video work by dance artist and writer Alexandrina Hemsley in which she deals with self-censoring as someone who experiences the silencing inherent in marginalisation and anti-blackness. This work continues the attempts of her artistic practice to retain multiplicity and morph the body’s narratives as a soft resistance to objectification and reductive representations. Alongside this, it is a challenge to herself - as an artist who experiences heightened distress over her appearance - to look in the camera for more than a minute.          
+       
 Film and text by Alexandrina Hemsley;        
-Sound: Alexandrina Hemsley using samples from Nina Simones Feelings" (live at Montreux Jazz Festival 1976).         
+Sound: Alexandrina Hemsley using samples from Nina Simone's *Feelings* (live at Montreux Jazz Festival 1976).         
 Originally screened at DECORUM X: The Worst of Censorship, V&A Museum                    
 
 **Alexandrina** believes in dance & the body as a site for expressing felt & embodied politics. It is a life long project. The forms her artistic work takes frequently morph in order to present her concerns within shifting frames and contexts. She make dances, videos, self-produces and writes. She is interested in liminal spaces, connectivity, fracturing, displacement and emotionality. She collaborates with Jamila Johnson-Small as part of Project O (2011 onwards) and with Seke Chimutengwende on new work  Black Holes.                               
