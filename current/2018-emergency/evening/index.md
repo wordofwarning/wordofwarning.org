@@ -79,9 +79,9 @@ See this. None of this is impossible. I promise you that tonight.*
         
 **Two Blue Ticks | *On A Clear Morning in May***†<sup>18</sup>        
 *When something happens, not everyone experiences it first hand. Some see, some speculate and some react. Violently.*               
-A response to the Manchester Arena attack, *On A Clear Morning in May* is told through the voices of a Witness, an Expert and a Revolutionary and explored how people respond when terror is brought to their doorstep..                         
+A response to the Manchester Arena attack, *On A Clear Morning in May* is told through the voices of a Witness, an Expert and a Revolutionary and explores how people respond when terror is brought to their doorstep.                         
                      
-**Two Blue Ticks** is Greg Saxton, Cassandra Snowden and Joe Slack.        
+**Two Blue Ticks** is Greg Saxton, Amelia Payne and Joe Slack.        
 <a href="http://facebook.com/tbttheatre" target="_blank">facebook.com/tbttheatre</a> | <a href="http://twitter.com/tbttheatre" target="_blank">
 @tbttheatre</a>                  
 
