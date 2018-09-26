@@ -53,7 +53,7 @@ A performance focusing on the novel by Vladimir Nabokov addressing the male gaze
 **Ryan O’Shea** (Co-Director) is is a theatre-maker, creative producer and performer based between Manchester and Bristol. He is a member of Reckless Sleepers and also works with Living Pictures, Massive Owl and Michael Pinchbeck.                    
 <a href="http://kattperry73.wixsite.com/kattperrytheatre" target="_blank">kattperry73.wixsite.com</a> | <a href="http://twitter.com/katperrytheatre " target="_blank">@katperrytheatre </a>                   
 
-**Magda Tuka + Opeaen | *Deus ex running machine (Dex)***†<sup>18</sup>         
+**Magda Tuka + Opeaen | *Deus ex running machina (Dex)***†<sup>18</sup>         
 Dex - it’s my desperate, full of hope and expectations, great run and noise repetition, penetrating everything. The inspiration for this run is *Birth of tragedy* by F. Nietzsche.               
 *‘Be as I am! Under the incessantly changing phenomena the eternal primordial mother, always forcing things into existence, always satisfied with the changing nature of appearances!’* F. Nietzsche.                      
 
