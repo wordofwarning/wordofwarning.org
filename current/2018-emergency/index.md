@@ -43,8 +43,7 @@ Tel: 0161 232 6089 (Z-arts)
 Emergency 2017 was reviewed by <a href="http://circlesandstalls.wordpress.com/2017/10/01/emergency-2017" target="_blank">Circles&Stalls</a> and <a href="http://quietmandave.co.uk/2017/10/emergency-2017" target="_blank">QuietManDave</a>.        
           
 #### Credits         
-[Emergency](/hab/emergency) 2018 is produced by [hÅb](/hab); supported using public funding by Arts Council England.          
-Header image: Lise Boucon by Manuel Vason.         
+[Emergency](/hab/emergency) 2018 is produced by [hÅb](/hab); supported using public funding by Arts Council England. | Image: Lise Boucon by Manuel Vason.         
                
 #### Websites
-<a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>
+<a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a> | <a href="http://www.facebook.com/events/271911716774296" target="_blank">Facebook event</a>
