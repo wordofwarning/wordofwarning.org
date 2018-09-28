@@ -20,7 +20,7 @@ season: "Emergency 6|10|2018, Afternoon"
 *An afternoon of new live art presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2018](/current/2018-emergency). *Mainly aimed at adults, we **advise** that Afternoon work is NOT suitable for under 18s.*              
          
 #### Afternoon Artists in Alphabetical Order (*subject to change*)      
-Chanje Kunda | Emma Geraghty† | Frances Kay | Lise Boucon | Luca Federici | Mark Croasdale† | Niya (a.k.a. Yani B)† | Rosie Gibbens | Tom Halls†<br>(† *indicates limited capacity*)          
+Chanje Kunda | Emma Geraghty † | Frances Kay | Lise Boucon | Luca Federici | Mark Croasdale † | Niya (a.k.a. Yani B) † | Rosie Gibbens | Tom Halls †<br>(† *indicates limited capacity*)          
            
 **Chanje Kunda | *Plant Fetish***         
 A performance installation and an indoor oasis for this urban space. Elaborate exotic plants display their splendour alongside a solo human performer. A lavish a journey with plants to excite and tantalise…            
