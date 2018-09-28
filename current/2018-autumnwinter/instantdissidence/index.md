@@ -46,8 +46,9 @@ Age advisory: parental/guardian discretion. Duration to be confirmed. Features a
           
 *I wish…*<br>That the work will have contributed to an increased awareness around the Home Office’s hostile environment policy towards immigration in general, and more specifically to those EU citizens who will acquire settled status in the UK.<br>That my sadness around Brexit will have transformed into gratitude for the many beautiful years I have had in the country.<br>That by the end, the work will feel like my final love letter to the UK."        
          
-For this encounter at The Lowry, Leentje Van de Cruys is the guest EU citizen-choreographer.  Leentje will also present her own response to the work:        
-*Belgian Waffling*      
+For this encounter at The Lowry, Leentje Van de Cruys is the guest EU citizen-choreographer; she will also present her own response to the work:           
+         
+***Belgian Waffling***      
 A Belgian mother and her three bi-national children ponder language, cultural difference and the challenge of Brexit via the medium of waffles.      
          
 #### Who are they?        
@@ -57,7 +58,7 @@ Rita's practice began in dance/choreography but she eventually became more inter
          
 Instant Dissidence's is also a socially-engaged practice where the company foregrounds the role that dance/choreography can play as a social engine: they are ‘artivists’ who believe in the power of connecting art and social consciousness.      
 
-Belgian actress and theatre-maker Leentje Van de Cruys has been making quirky solo performances about domesticity and women’s identity for the last 14 years — past shows include Kitsch’n Sync, HORSE, The Best Party Ever and Knitting to Worry About. She regularly performs and tours with contemporary theatre companies including Quarantine, Reckless Sleepers plus Plane Performance and Proto-type Theater. She has also been a guest lecturer and supervisor at Manchester Metropolitan University, Lancaster University + University of Salford.         
+Belgian actress and theatre-maker Leentje Van de Cruys has been making quirky solo performances about domesticity and women's identity for the last 14 years — past shows include *Kitsch’n Sync*, *HORSE*, *The Best Party Ever* + *Knitting to Worry About*. She regularly performs and tours with contemporary theatre companies including Quarantine + Reckless Sleepers plus Plane Performance + Proto-type Theater. Leentje has also been a guest lecturer and supervisor at Manchester Metropolitan University, Lancaster University + University of Salford.         
   
 #### What people have said about them         
 >*With tears in my eyes I end this dance. With tears in her eyes Rita thanks me for dancing with a stranger.*<br><a href="http://incidentmag.com/2016/07/23/talking-about-identity-tempting-failure" target="_blank">Lisa Stertz, Incident Magazine on *Dancing with Strangers: from Calais to England*</a><br>*…an artist doing what artists are supposed to do: creating work that is surprising, challenging, transgressive and exciting.*<br><a href="https://www.theguardian.com/stage/theatreblog/2009/nov/20/epilepsy-live-art-rita-marcalo" target="_blank">Allan Sutherland, The Guardian on *Involuntary Dances*</a>          
