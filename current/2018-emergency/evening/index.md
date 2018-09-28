@@ -20,11 +20,11 @@ season: "Emergency 6|10|2018, Evening"
 *An evening of short new shows presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2018](/current/2018-emergency). *Mainly aimed at adults, we **advise** that Evening work is not suitable for under 18s.*              
           
 #### Evening Artists in Chronological Order (*subject to change*)            
-idontloveyouanymore | Dead Good Theatre† | Katt Perry† | Miss Englatina | Avital Raz | Two Blue Ticks† | Magda Tuka + Opeaen† | Aidan Strudwick† | Tom Cassani† | Natalie Wardle († *shows have a capacity of about 60 seats on a first-come, first-served basis*)          
+idontloveyouanymore | Dead Good Theatre† | Katt Perry† | Miss Englatina | Avital Raz | Two Blue Ticks† | Magda Tuka + Opeaen† | Aidan Strudwick† | Tom Cassani† | Natalie Wardle | † *indicates limited capacity of about 60 on a first-come, first-served basis.*          
            
 **idontloveyouanymore | *Move 37***         
 Anna and David are in a relationship. For years they've been navigating each others' stuff, each others' malfunctions, from snoring to depression. In this performance they examine the thought patterns and the games in play within the corrupted systems of human relationships.             
-**Anna + David** work together as idontloveyouanymore, partly to make sense of the absurdities around them, and partly so they don’t really have to leave the house. They also work with Theatre 42, who presented their award winning show *Nothing is Coming, the Pixels are Huge* at Emergency 2016. They're supported by Lancaster Arts + Theatr Clwyd.          
+**Anna + David** work together as idontloveyouanymore, partly to make sense of the absurdities around them, and partly so they don’t really have to leave the house. They also work with Theatre 42, who presented their award-winning show *Nothing is Coming, the Pixels are Huge* at [Emergency 2016](/archive/2016-emergency). They're supported by Lancaster Arts + Theatr Clwyd.          
 <a href="http://idontloveyouanymore.org" target="_blank">idontloveyouanymore.org</a> | <a href="http://twitter.com/idont_love_you" target="_blank">@idont_love_you</a>           
            
 **Dead Good Theatre | *Tips for people who don’t work in service*** †         
