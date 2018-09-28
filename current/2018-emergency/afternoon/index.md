@@ -19,17 +19,16 @@ season: "Emergency 6|10|2018, Afternoon"
 ---
 *An afternoon of new live art presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2018](/current/2018-emergency). *Mainly aimed at adults, we **advise** that Afternoon work is NOT suitable for under 18s.*              
          
-### Afternoon Artists in Alphabetical Order (*subject to change*)      
-Chanje Kunda| Emma Geraghty† | Frances Kay | Lise Boucon | Luca Federici | Mark Croasdale† | Niya (a.k.a. Yani B)† | Rosie Gibbens | Tom Halls†              
-(† *limited capacity*)          
+#### Afternoon Artists in Alphabetical Order (*subject to change*)      
+Chanje Kunda | Emma Geraghty† | Frances Kay | Lise Boucon | Luca Federici | Mark Croasdale† | Niya (a.k.a. Yani B)† | Rosie Gibbens | Tom Halls†<br>(† *indicates limited capacity*)          
            
 **Chanje Kunda | *Plant Fetish***         
 A performance installation and an indoor oasis for this urban space. Elaborate exotic plants display their splendour alongside a solo human performer. A lavish a journey with plants to excite and tantalise…            
 **Chanje Kunda** has featured at The Royal Albert Hall, and venues in Amsterdam, Rotterdam + Eindhoven. As a solo performance artist she has performed at The Southbank, the National Arts Festival of South Africa, the HIFA Festival (Zimbabwe), and is a recipient of the BBC's Verb New Voices Award.         
 <a href="http://chanjekunda.com" target="_blank">chanjekunda.com</a> | <a href="http://twitter.com/chanjekunda" target="_blank">@chanjekunda</a>                     
        
-**Emma Geraghty | *Keep The Lights On***†         
-*What makes a fetish? What counts as "normal"? Is there anything worse than a baggy gimp suit?*         
+**Emma Geraghty | *Keep The Lights On*** †         
+*What makes a fetish? What counts as "normal"? Is there anything worse than a baggy gimp suit?*           
 This piece asks why we don't talk about sex and what would happen if we did.             
 **Emma Geraghty** is a director and a writer of prose and performative text based in Manchester. Her work explores notions of queerness, sexuality, and body image. She received the [2018 Works Ahead](/archive/2018-worksahead/geraghty) commission from hÅb for her solo show *Fat Girl Singing*. She is one quarter of award-winning Manchester theatre company Powder Keg, who create political theatre centred around care and gut feelings, rather than lofty political brainwork; and she works with Big Imaginations + Girl Gang MCR.             
 <a href="http://twitter.com/patchworkduck" target="_blank">@patchworkduck</a>          
@@ -51,13 +50,13 @@ An exploration of sexuality and gender-fluidity in relation to the difficulty th
 **Luca Federici** was born in Pesaro (Italy) and trained in Fine Art, specialising in painting, and showed in exhibitions throughout Italy. He currently lives in London where he graduated the MA Fine Arts at Chelsea College of Art and Design and where he experimented with performance and collage, performing at events like *FUCK/LIVE/ART* curated by Franko B at Mori + Stein Gallery, and fetish clubs such as Psycho Ward and Club DVS.            
 <a href="http://lucafederic.wixsite.com/lucafederici" target="_blank">lucafederic.wixsite.com</a>       
            
-**Mark Croasdale | *Staying In — A Date with a Diary***†         
+**Mark Croasdale | *Staying In — A Date with a Diary*** †         
 *A shadowy figure sits waiting to meet you, longing for a connection, hoping for understanding. Can you reveal the person within? Experience an intimate, vulnerable moment with a stranger as you take a dive into their past through their real-life diaries.*           
 Forming part of the wider *Staying In* project, inspired by the research of Stonewall, this work aims to explore identity, loneliness and belonging. Currently in-development with the support of The Lowry, Waterside, Contact + The Proud Trust.         
 **Mark Croasdale** utilises a range of media according the specific needs, demands and context of each project. His work has spanned various art mediums and consists of visual installations and performance pop-ups including *Angels In Ancoats* and the immersive audio installation *Anonymous* (Sydney), and theatre work including *Lightspeed*, *Blink* and the multidisciplinary work *All About and To a Female Artist*. In 2017 he was commissioned by New Trust Art (National Trust), Waterside + Creative Industries Trafford to create the new work *Letters From Egypt*.                   
 <a href="http://markcroasdale.com" target="_blank">markcroasdale.com</a> | <a href="http://twitter.com/markcroasdale" target="_blank">@markcroasdale</a>          
           
-**Niya (a.k.a. Yani B) | *Collective Lover***†         
+**Niya (a.k.a. Yani B) | *Collective Lover*** †         
 In their new work, Niya is inviting the audience to explore intimacy, gender and desire in a post-porn era of environmental destruction, food crisis and species loneliness. Stemming from their previous work *Trans:plant* where the artist lived with a large gender-ambiguous family of Aloe Vera plants, the performance takes the form of a ceremony of tasting, sharing, stimulating and connecting, asking the question: *How does it feel to see the earth as a lover and not as a mother?*            
 **Niya (a.k.a. Yani B)** examines the body, in its presence or absence, as the central stage where the politics of identity are enacted. Experimenting with original creative processes and media they explore the body and its context, as a form of expression and manifestation of culture, ideology, gender, sexuality, social ethics and collective aspirations. Exhibitions include the International Print Biennale in Newcastle, the 5th Moscow Biennale for the group exhibition Biopolitics (2013), the 5th Thessaloniki Biennale for the group exhibition Identalterity, a series exhibited at Queer Art(ists) Now (2017).          
 <a href="http://yanib.org" target="_blank">yanib.org</a>        
@@ -67,7 +66,7 @@ Part absurd product demonstration, part lacklustre burlesque show, *Auto Erotic 
 **Rosie Gibbens** is a performance and video artist interested by desire and power in relationship to gender performativity, sexual politics and consumerist identity. She has performed at multiple London venues including Toynbee Studios, Bow Arts + the Barbican.         
 <a href="http://rosiegibbens.com" target="_blank">rosiegibbens.com</a> | <a href="https://www.instagram.com/rosiegibbens" target="_blank">@rosiegibbens</a>            
 
-**Tom Halls | *Play Thing***†        
+**Tom Halls | *Play Thing*** †        
 *Ever wanted to be back in that place where you could play with your toys, letting your imagination run wild?* This is your chance. Except you're not a child and this isn't a toy. *Play Thing* puts you in control. The artist and audience relationship is flipped, turning the artist into the passive observer and muse for wherever your imagination may run. Sometimes the rules and politics of society constrict our creativity, with *Play Thing* the rules are left at the door. *Come and connect, make your masterpiece and create a living version of your imagination.*                  
 **Tom Halls** is a performance artist, originally from Melbourne, Australia, now based in Manchester. Tom’s arts practice centres on creating works that challenge and test the relationship between audience and performer. Tom is co-founder of Hotel Now, a gloriously entertaining company focused on creating original Australian works, and TomYumSim, a performance duo using unconventional performance spaces for immersive experiences.           
 <a href="http://tomhalls.co.uk" target="_blank">tomhalls.co.uk</a>          
