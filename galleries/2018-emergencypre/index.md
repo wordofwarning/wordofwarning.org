@@ -14,6 +14,7 @@ more_url: "../../current/2018-emergency"
 gallery:
     -   {file: "titlepage.jpg", artist: "A day out for the curious, Sat 6 Oct at Z-arts.", show: "<small>Lise Boucon by Manuel Vason</small>"}
     -   {file: "peter_jacobs.jpg", artist: "Peter Jacobs"}
+    -   {file: "proudloud.jpg", artist: "Proud & Loud Arts"} 
     -   {file: "camilla_canocchi.jpg", artist: "Camilla Canocchi"}
     -   {file: "paperpeopletheatre.jpg", artist: "Paper People Theatre"}
     -   {file: "boxd.jpg", artist: "Boxd Theatre"}
