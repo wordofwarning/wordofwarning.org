@@ -24,7 +24,7 @@ Manchester's nineteenth annual manic micro-marathon of the bizarre + the beautif
 **[From noon](/current/2018-emergency/lunchtime)** dip in and out of ongoing performances, installations and limited capacity experiences; **[from 2.30pm](/current/2018-emergency/afternoon)** it's adult-only live art; and **[from 5.30pm](/current/2018-emergency/evening)** join us for a series of short sit-down shows. **Sample the different — then pay what you decide!**          
         
 ### Participating artists (*subject to change*)          
-Aidan Strudwick | Alexandrina Hemsley | Alicia Jane Turner | Avital Raz | BOXD Theatre | Camilla Canocchi | Chanje Kunda | Dead Good Theatre | Demelza Toy Toy | Emma Geraghty | Frances Kay | idontloveyouanymore | Katt Perry | Lise Boucon | Luca Federici | Magda Tuka and Opeaen | Mark Croasdale | Megan Rudden | Miss Englatina | Natalie Wardle | Niya (a.k.a. Yani B) | Paper People Theatre | Penelope Harrall | Peter Jacobs | Proud and Loud Arts | Rachel Gomme | Rosie Gibbens | Tom Cassani | Tom Halls | Two Blue Ticks         
+AIDAN STRUDWICK | Alexandrina Hemsley | Alicia Jane Turner | Avital Raz | BOXD Theatre | Camilla Canocchi | Chanje Kunda | Dead Good Theatre | Demelza Toy Toy | Emma Geraghty | Frances Kay | idontloveyouanymore | Katt Perry | Lise Boucon | Luca Federici | Magda Tuka and Opeaen | Mark Croasdale | Megan Rudden | Miss Englatina | Natalie Wardle | Niya (a.k.a. Yani B) | Paper People Theatre | Penelope Harrall | Peter Jacobs | Proud and Loud Arts | Rachel Gomme | Rosie Gibbens | Tom Cassani | Tom Halls | Two Blue Ticks         
         
 To get a feel for it, have a look at the 2017 [programme](/archive/2017-emergency) + [image gallery](/galleries/2017-emergency).         
          

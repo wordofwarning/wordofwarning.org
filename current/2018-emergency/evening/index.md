@@ -20,7 +20,7 @@ season: "Emergency 6|10|2018, Evening"
 *An evening of short new shows presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2018](/current/2018-emergency). *Mainly aimed at adults, we **advise** that Evening work is not suitable for under 18s.*              
           
 #### Evening Artists in Chronological Order (*subject to change*)            
-idontloveyouanymore | Dead Good Theatre † | Katt Perry † | Miss Englatina | Avital Raz | Two Blue Ticks † | Magda Tuka + Opeaen † | Aidan Strudwick † | Tom Cassani † | Natalie Wardle<br>(† *these shows have a limited capacity of about 60 on a first-come, first-served basis*)          
+idontloveyouanymore | Dead Good Theatre † | Katt Perry † | Miss Englatina | Avital Raz | Two Blue Ticks † | Magda Tuka + Opeaen † | AIDAN STRUDWICK † | Tom Cassani † | Natalie Wardle<br>(† *these shows have a limited capacity of about 60 on a first-come, first-served basis*)          
            
 **idontloveyouanymore | *Move 37***         
 Anna and David are in a relationship. For years they've been navigating each others' stuff, each others' malfunctions, from snoring to depression. In this performance they examine the thought patterns and the games in play within the corrupted systems of human relationships.             
@@ -58,9 +58,9 @@ Dex — it's my desperate, full of hope and expectations, great run and noise re
 **Magda Tuka** (performance) is the founding artistic director of Ja Ja Ja Ne Ne Ne, an organisation to facilitate the production and teaching of a growing body of hybrid work. Performances and workshops have developed over recent years through an extensive series of funded residencies and festivals, mainly in Central + Eastern Europe, UK + the Balkans, with appearances in the Netherlands + USA.                 
 <a href="http://tuka.link" target="_blank">tuka.link</a> | **Opaean** (sound designer): <a href="http://opaean.uk" target="_blank">opaean.uk</a>            
            
-**Aidan Strudwick | *A CHRISTMAS SHOW*** †         
+**AIDAN STRUDWICK | *A CHRISTMAS SHOW*** †         
 A musical about money, exposure, and showmanship in the arts, dressed up as a loose adaptation of *A Christmas Carol*, a text that has been adapted and parodied countless times. Aidan Strudwick is seen as a bizarre, misunderstood cult-figure, desperate for attention and, quite often, money, so wants to capitalise on this story.          
-Inspired by social media-induced millennial narcissism, **Aidan Strudwick** has performed at Tate Modern, Royal Academy of Art, [Hazard 2016](/archive/2016-hazard), Camden People's Theatre, Artsadmin, The Palace (Nysa, Poland) + Pudderaum (Berlin).           
+Inspired by social media-induced millennial narcissism, **AIDAN STRUDWICK** has performed at Tate Modern, Royal Academy of Art, [Hazard 2016](/archive/2016-hazard), Camden People's Theatre, Artsadmin, The Palace (Nysa, Poland) + Pudderaum (Berlin).           
 <a href="http://aidanstrudwick.com" target="_blank">aidanstrudwick.com</a>          
           
 **Tom Cassani | *I Promise You That Tonight*** †         
