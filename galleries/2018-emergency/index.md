@@ -14,8 +14,8 @@ more_url: "../../current/2018-emergency"
 gallery:
     -   {file: "titlepage.jpg", artist: "A day out for the curious, Sat 6 Oct at Z-arts.", show: "<small>Lise Boucon by Manuel Vason</small>"}
     -   {file: "peter_jacobs.jpg", artist: "Peter Jacobs"}
-    -   {file: "proud+loud.jpg", artist: "Proud & Loud Arts"} 
-    -   {file: "proud+loud2.jpg", artist: "Proud & Loud Arts"} 
+    -   {file: "proudloud.jpg", artist: "Proud & Loud Arts"} 
+    -   {file: "proudloud2.jpg", artist: "Proud & Loud Arts"} 
     -   {file: "penelope_harrall.jpg", artist: "Penelope Harrall"} 
     -   {file: "camilla_canocchi.jpg", artist: "Camilla Canocchi"}
     -   {file: "megan_rudden.jpg", artist: "Megan Rudden"}
