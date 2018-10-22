@@ -31,10 +31,10 @@ gallery:
     -   {file: "dead_good_theatre.jpg", artist: "Dead Good Theatre"}
     -   {file: "miss_englatina.jpg", artist: "Miss Englatina"}
     -   {file: "avital_raz.jpg", artist: "Avital Raz"}
-    -   {file: "two_blue_ticks.jpg", artist: "Two Blue Tickes"}
+    -   {file: "two_blue_ticks.jpg", artist: "Two Blue Ticks"}
     -   {file: "katt_perry.jpg", artist: "Katt Perry"}
     -   {file: "magda_tuka.jpg", artist: "Magda Tuka"}
-    -   {file: "aidan_strudwick.jpg", artist: "Aidan Strudwick"
+    -   {file: "aidan_strudwick.jpg", artist: "Aidan Strudwick"}
     -   {file: "tom_cassani.jpg", artist: "Tom Cassani"}
     -   {file: "natalie_wardle.jpg", artist: "Natalie Wardle"}
     -   {file: "natalie_wardle2.jpg", artist: "Natalie Wardle"}
