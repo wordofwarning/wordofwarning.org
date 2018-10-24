@@ -1,5 +1,4 @@
 ---
-
 layout: fullscreengallery
 assetpath: "../../../"
 galleryimagespath: ""
@@ -12,7 +11,7 @@ more_link: Emergency 2018
 more_url: "../../current/2018-emergency"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "A day out for the curious, Sat 6 Oct at Z-arts.", show: "<small>Lise Boucon by Manuel Vason</small>"}
+    -   {file: "titlepage.jpg", artist: "A day out for the curious, Sat 6 Oct 2018 at Z-arts.", show: "<small>Lise Boucon by Manuel Vason; all other images copyright &copy;2018 Word of Warning</small>"}
     -   {file: "peter_jacobs.jpg", artist: "Peter Jacobs"}
     -   {file: "proudloud.jpg", artist: "Proud & Loud Arts"} 
     -   {file: "proudloud2.jpg", artist: "Proud & Loud Arts"} 
