@@ -17,7 +17,7 @@ season: "Stacy Makishi 21|11|2018"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* The Lowry + Word of Warning *as part of* <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF</a>           
+*Presented by* The Lowry + Word of Warning *as part of* WTF    
          
 #### In Brief      
 Join Stacy Makishi to explore — through meditation, ritual, and disco — what it means to be fully alive and fully human.        
@@ -61,7 +61,7 @@ She has been awarded an ICA Attached Artist Award, a Millennium Fellowship Award
 Co-commissioned by The Yard Theatre, Marlborough Theatre, Norwich Arts Centre + Colchester Arts Centre. Supported using public funding by the National Lottery through Arts Council England. Produced by Artsadmin.         
            
 #### Websites          
-<a href="http://stacymakishi.com" target="_blank">stacymakishi.com</a> | <a href="http://twitter.com/hashtag/stacymakishi" target="_blank">#stacymakishi</a> | <a href="http://facebook.com/Stacy-Makishi-133291243903400" target="_blank">Stacy Makishi on Facebook</a> | <a href="http://twitter.com/artsadm" target="_blank">@artsadm</a> | <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF Wednesday</a>         
+<a href="http://stacymakishi.com" target="_blank">stacymakishi.com</a> | <a href="http://twitter.com/hashtag/stacymakishi" target="_blank">#stacymakishi</a> | <a href="http://facebook.com/Stacy-Makishi-133291243903400" target="_blank">Stacy Makishi on Facebook</a> | <a href="http://twitter.com/artsadm" target="_blank">@artsadm</a>         
         
 #### WTF Wednesday ticketing policy at The Lowry         
 As this is a Pay What You Decide event, we know some people who book tickets won't turn up on the night so we send out more tickets than there are places. We do our best to get the numbers right but we advise you arrive early to ensure you get a seat! We don't often have to disappoint people but if we can't fit you in we will try to offer you tickets to another show in The Lowry that night.
