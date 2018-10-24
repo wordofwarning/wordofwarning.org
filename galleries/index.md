@@ -5,6 +5,7 @@ layout: archive
 season: "Galleries"
 
 archived:
+    - {folder: "2018-emergency", name: "Emergency 2018", class: "e2018"}
     - {folder: "2018-hazard", name: "Hazard 2018: Shadow Girl", class: "h2018"}
     - {folder: "2018-woah", name: "Works Ahead 2018", class: "woah"}
     - {folder: "2017-domestic", name: "Rent Party: Domestic Edition", class: "d2015"}
