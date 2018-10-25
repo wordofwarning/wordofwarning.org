@@ -29,7 +29,7 @@ Date: Wednesday 21 November 2018, 7pm
 <a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
 <a href="http://www.thelowry.com/events/stacy-makishi" target="_blank">Tickets: available to reserve from Friday 26 October</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0843 208 6000 (The Lowry)          
-WTF TICKET OFFER: immediately after *The Comforter*, see <a href="http://www.thelowry.com/events/not-i" target="_blank">*Not I* by Touretteshero</a> at 8pm in The Lowry's Quays Theatre for £10 (please enter discount/promo code "WTFWednesday").            
+WTF TICKET OFFER: immediately after *The Comforter*, see <a href="http://www.thelowry.com/events/not-i" target="_blank">*Not I* by Touretteshero</a> at 8pm in The Lowry's Quays Theatre for £10 using promo code "wtfWednesday".            
           
 #### Access Information        
 Age advisory: 16+. With no interval, the show lasts approximately 1 hour and will be BSL interpreted. Features a combination of spoken text, film + music. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
