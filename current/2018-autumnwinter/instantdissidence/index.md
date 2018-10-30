@@ -67,7 +67,7 @@ Belgian actress and theatre-maker Leentje Van de Cruys has been making quirky so
 *OLD—ACD* supported using public funding by the National Lottery through Arts Council England; produced by Instant Dissidence; additional project funders + presenting organisations can be found on the tumblr below.          
            
 #### Websites          
-<a href="http://onelastdance-ancheaddamhsa.tumblr.com" target="_blank">onelastdance-ancheaddamhsa.tumblr.com</a> | <a href="http://twitter.com/RitaMarcalo" target="_blank">@RitaMarcalo</a> | <a href="http://facebook.com/InstantDissidence" target="_blank">Instant Dissidence on Facebook</a>         
+<a href="http://onelastdance-ancheaddamhsa.tumblr.com" target="_blank">onelastdance-ancheaddamhsa.tumblr.com</a> | <a href="http://facebook.com/InstantDissidence" target="_blank">Instant Dissidence on Facebook</a> | <a href="http://twitter.com/RitaMarcalo" target="_blank">@RitaMarcalo</a>         
         
 #### <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a> ticketing policy at The Lowry         
 As this is a Pay What You Decide event, we know some people who book tickets won't turn up on the night so we send out more tickets than there are places. We do our best to get the numbers right but we advise you arrive early to ensure you get a seat! We don't often have to disappoint people but if we can't fit you in we will try to offer you tickets to another show in The Lowry that night.
