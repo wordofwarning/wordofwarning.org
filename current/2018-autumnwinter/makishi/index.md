@@ -26,10 +26,10 @@ Read interviews with Stacy about *The Comforter* in <a href="http://gcn.ie/inter
         
 #### Venue + Booking Details           
 Date: Wednesday 21 November 2018, 7pm        
-<a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
+<a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
 <a href="http://www.thelowry.com/events/stacy-makishi" target="_blank">Tickets: available to reserve from Friday 26 October</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0843 208 6000 (The Lowry)          
-WTF TICKET OFFER: immediately after *The Comforter*, see <a href="http://www.thelowry.com/events/not-i" target="_blank">*Not I* by Touretteshero</a> at 8pm in The Lowry's Quays Theatre for just £10 using promo code "wtfwednesday".            
+WTF ticket offer: immediately after *The Comforter* at 8pm, see <a href="http://www.thelowry.com/events/not-i" target="_blank">*Not I* by Touretteshero</a> in The Lowry's Quays Theatre for just £10 using promo code "wtfwednesday".            
           
 #### Access Information        
 Age advisory: 16+. With no interval, the show lasts approximately 1 hour and will be BSL interpreted. Features a combination of spoken text, film + music. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
@@ -61,7 +61,7 @@ She has been awarded an ICA Attached Artist Award, a Millennium Fellowship Award
 Co-commissioned by The Yard Theatre, Marlborough Theatre, Norwich Arts Centre + Colchester Arts Centre. Supported using public funding by the National Lottery through Arts Council England. Produced by Artsadmin.         
            
 #### Websites          
-<a href="http://stacymakishi.com" target="_blank">stacymakishi.com</a> | <a href="http://twitter.com/hashtag/stacymakishi" target="_blank">#stacymakishi</a> | <a href="http://facebook.com/Stacy-Makishi-133291243903400" target="_blank">Stacy Makishi on Facebook</a> | <a href="http://twitter.com/artsadm" target="_blank">@artsadm</a>        
+<a href="http://stacymakishi.com" target="_blank">stacymakishi.com</a> | <a href="http://twitter.com/stacymakishi" target="_blank">@stacymakishi</a> | <a href="http://facebook.com/Stacy-Makishi-133291243903400" target="_blank">Stacy Makishi on Facebook</a> | <a href="http://twitter.com/artsadm" target="_blank">@artsadm</a>        
         
 #### <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a> ticketing policy at The Lowry         
 As this is a Pay What You Decide event, we know some people who book tickets won't turn up on the night so we send out more tickets than there are places. We do our best to get the numbers right but we advise you arrive early to ensure you get a seat! We don't often have to disappoint people but if we can't fit you in we will try to offer you tickets to another show in The Lowry that night.
