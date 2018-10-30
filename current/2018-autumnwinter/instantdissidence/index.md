@@ -17,7 +17,7 @@ season: "Instant Dissidence with Leentje Van de Cruys 10|10|2018"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* The Lowry + Word of Warning *as part of* <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF</a>           
+*Presented by* The Lowry + Word of Warning *as a* <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a>           
          
 #### In Brief      
 Rita Marcalo is saying goodbye to her home-country of 24 years. An emotional journey, she hopes to transform her sadness around Brexit into gratitude for many beautiful times. In a final love letter to the UK, she will dance her way from Guildford (her first UK home) to Cloughjordan in Ireland (her home-to-be).          
@@ -28,8 +28,8 @@ Read an interview with Rita about *One Last Dance* in <a href="http://performing
         
 #### Venue + Booking Details           
 Date: Wednesday 10 October 2018, 8pm          
-<a href="http://www.thelowry.com/plan-your-visit/getting-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-<a href="https://www.thelowry.com/events/rita-marcalo-one-last-dance" target="_blank">Tickets: available to reserve from Friday 7 September</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
+<a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
+Tickets: available to reserve from Friday 7 September, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0843 208 6000 (The Lowry)          
           
 #### Access Information        
@@ -64,10 +64,10 @@ Belgian actress and theatre-maker Leentje Van de Cruys has been making quirky so
 >*With tears in my eyes I end this dance. With tears in her eyes Rita thanks me for dancing with a stranger.*<br><a href="http://incidentmag.com/2016/07/23/talking-about-identity-tempting-failure" target="_blank">Lisa Stertz, Incident Magazine on *Dancing with Strangers: from Calais to England*</a><br>*…an artist doing what artists are supposed to do: creating work that is surprising, challenging, transgressive and exciting.*<br><a href="https://www.theguardian.com/stage/theatreblog/2009/nov/20/epilepsy-live-art-rita-marcalo" target="_blank">Allan Sutherland, The Guardian on *Involuntary Dances*</a>          
           
 #### Credits          
-Supported using public funding by the National Lottery through Arts Council England. Produced by Instant Dissidence. Additional project funders + presenting organisations can be found on the tumblr below.          
+*OLD—ACD* supported using public funding by the National Lottery through Arts Council England; produced by Instant Dissidence; additional project funders + presenting organisations can be found on the tumblr below.          
            
 #### Websites          
-<a href="http://onelastdance-ancheaddamhsa.tumblr.com" target="_blank">onelastdance-ancheaddamhsa.tumblr.com</a> | <a href="http://twitter.com/RitaMarcalo" target="_blank">@RitaMarcalo</a> | <a href="http://facebook.com/InstantDissidence" target="_blank">Instant Dissidence on Facebook</a> | <a href="http://www.thelowry.com/takearisk/take-a-risk-wtf-wednesday" target="_blank">WTF Wednesdays</a>         
+<a href="http://onelastdance-ancheaddamhsa.tumblr.com" target="_blank">onelastdance-ancheaddamhsa.tumblr.com</a> | <a href="http://twitter.com/RitaMarcalo" target="_blank">@RitaMarcalo</a> | <a href="http://facebook.com/InstantDissidence" target="_blank">Instant Dissidence on Facebook</a>         
         
-#### WTF Wednesday ticketing policy at The Lowry         
+#### <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a> ticketing policy at The Lowry         
 As this is a Pay What You Decide event, we know some people who book tickets won't turn up on the night so we send out more tickets than there are places. We do our best to get the numbers right but we advise you arrive early to ensure you get a seat! We don't often have to disappoint people but if we can't fit you in we will try to offer you tickets to another show in The Lowry that night.
