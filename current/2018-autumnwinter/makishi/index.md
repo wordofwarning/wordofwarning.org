@@ -28,7 +28,7 @@ Read interviews with Stacy about *The Comforter* in <a href="http://gcn.ie/inter
 Date: Wednesday 21 November 2018, 7pm        
 <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
 <a href="http://www.thelowry.com/events/stacy-makishi" target="_blank">Tickets: available to reserve from Friday 26 October</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
-Box Office Tel: 0843 208 6000 (The Lowry)          
+Box Office Tel: 0161 876 2000 (The Lowry)          
 WTF ticket offer: immediately after *The Comforter* at 8pm, see <a href="http://www.thelowry.com/events/not-i" target="_blank">*Not I* by Touretteshero</a> in The Lowry's Quays Theatre for just £10 using promo code "wtfwednesday".            
           
 #### Access Information        
