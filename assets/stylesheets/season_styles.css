@@ -698,7 +698,7 @@
 	.aw2018 .splash
 		{background:url(../images/header_aw18wrn.jpg) -150px center}
 
-/* Emergency 2018 bright red running man (placeholder)
+/* Emergency 2018 bright red with Lise Boucon + snail
 ------------------------------------------------------*/
 
 	.e2018,
@@ -721,3 +721,9 @@
 		
 	.e2018 .splash
 		{background:url(../images/header_emergency18.jpg) center center}
+
+/* Spring/Summer 2019 Programme green pine (placeholder)
+------------------------------------------------------*/
+
+	.ss2019 .splash
+		{background:url(../images/header_2017SprWrn_pine.jpg) -150px center}
