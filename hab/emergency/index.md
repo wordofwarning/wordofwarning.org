@@ -16,9 +16,9 @@ season: "hÅb — Emergency"
 ---
 **Emergency** is our annual platform for live art + contemporary performance, featuring at least 20 short pieces of work throughout a day/evening in Manchester…           
          
-Our [**nineteenth Emergency**](/current/2018-emergency) took place on **Saturday 6 October 2018** from 12noon to 10pm, with some 30 live works in Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> (incl. <a href="http://stunlive.com" target="_blank">STUN Studio</a>).               
+Our [**nineteenth Emergency**](/current/2018-emergency) took place on **Saturday 6 October 2018** (12noon-10pm), with some 30 live works taking over Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, including the <a href="http://stunlive.com" target="_blank">STUN Studio</a>.            
             
-Now that it's over, see our [gallery of images](/galleries/2018-emergency) from the event, or delve further back with a look at 2017's [image gallery](/galleries/2017-emergency) + [programme](/archive/2017-emergency), 2016's [gallery](/galleries/2016-emergency) + [programme](/archive/2016-emergency), 2015's [gallery](/galleries/2015-emergency) + [programme](/archive/2015-emergency), 2014's [gallery](/galleries/2014-emergency) + [programme](/archive/2014-emergency).           
+Now that it's over, see our [gallery of images](/galleries/2018-emergency) from 2018's event, or delve further back with a look at 2017's [image gallery](/galleries/2017-emergency) + [programme](/archive/2017-emergency), 2016's [gallery](/galleries/2016-emergency) + [programme](/archive/2016-emergency), 2015's [gallery](/galleries/2015-emergency) + [programme](/archive/2015-emergency), 2014's [gallery](/galleries/2014-emergency) + [programme](/archive/2014-emergency).           
 		
 **Emergency is:**      
 • a pay-what-you-decide, public micro-festival + open submission platform;        
