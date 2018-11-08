@@ -48,7 +48,7 @@ Amy Bell
 Lighting Design: Michaella Fee Rossi | Sound Design: Zac Scott | Producer: Jack Stancliffe | Marketing Images: Daniel Hughes | Dramaturgy/Choreography assistance: Craig Manson<br>Kindly supported by the Tom Hunter Foundation (as part of Scotland's *100 Disruptors* initiative), Battersea Arts Centre, Platform Theatre Glasgow, and a successful crowd funding project.         
            
 #### Websites          
-<a href="http://www.katy-dye.com/baby-face/" target="_blank">www.katy-dye.com</a> | <a href="http://twitter.com/katydye1" target="_blank">@katydye1</a>        
+<a href="http://amy-bell.com/currentworks/the-forecast" target="_blank">amy-bell.com</a>        
         
 #### <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a> ticketing policy at The Lowry         
 As this is a Pay What You Decide event, we know some people who book tickets won't turn up on the night so we send out more tickets than there are places. We do our best to get the numbers right but we advise you arrive early to ensure you get a seat! We don't often have to disappoint people but if we can't fit you in we will try to offer you tickets to another show in The Lowry that night.
