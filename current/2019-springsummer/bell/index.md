@@ -4,12 +4,12 @@ layout: 2019-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Katy Dye" # the name of the artist or company
-show: "Baby Face" # the name of the show
+artist: "Amy Bell" # the name of the artist or company
+show: "The Forecast" # the name of the show
 artist_size: 1
-show_size: 1
-header_image: "header_dye.jpg"    
-season: "Katy Dye 20|3|2019"
+show_size: 2
+header_image: "header_bellJF.jpg"    
+season: "Amy Bell 29|5|2019"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -39,13 +39,9 @@ Age advisory: ***16+***. With no interval, the show lasts approximately ***50 mi
 Winner of The Autopsy Award 2018 + Lustrum Award 2018.        
          
 #### Who is she?        
-Katy Dye is an award-winning artist from the UK. She creates artworks that include performance/theatre/visual art and photographic collaborations. She is interested in iconography, materiality and entertainment. Whether it is creating performance or visual artwork, Katy seeks to connect to physical sensation when making work. She often approaches her live performances as though they were paintings or drawings. She is inspired by many forms including dance, photography and sound. Katy is interested in the joy and subversion of creating art and bringing this to audiences. She has been involved in a broad range of projects, from public processions to pub quiz events.             
-         
-Her performances have been supported by organisations such as National Theatre of Scotland, In Between Time, The BAC, Camden People's Theatre, Rich Mix, hÅb/Word of Warning + The Tom Hunter Foundation.            
-          
-Katy loves collaborating with people who inspire her, and frequent collaborators include Daniel Hughes (Glasgow-based photographer + film-maker), Aby Watson (Glasgow-based choreographer/performance artist), Nima Sene (Berlin/Glasgow-based performance artist), Queer Theory Glasgow, Gabriel Spector (New York-based choreographer/dance artist), Jack Stancliffe (Glasgow-based producer), Craig Manson (Glasgow-based performance artist) + Merlin Hayward (London-based sound artist).        
+Amy Bell        
            
-#### What people have said about *Baby Face*         
+#### What people have said about Amy Bell/*The Forecast*         
 >*…*<br><a href="http://" target="_blank">tbc</a><br>5st A YOUNGER THEATRE<br>4st THE SKINNY<br>4st THE STAGE<br>4st BROADWAY BABY<br>A pointed examination of the way women are infantilised… big on impact - The Independent<br>"A hugely accomplished physical performance" - Sick of The Fringe<br>"This is theatre at its most powerful, urgent, disruptive…" - Ed Fringe Review        
          
 #### Credits          
