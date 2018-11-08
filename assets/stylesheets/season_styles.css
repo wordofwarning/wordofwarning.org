@@ -727,3 +727,24 @@
 
 	.ss2019 .splash
 		{background:url(../images/header_2017SprWrn_pine.jpg) -150px center}
+
+/* Haphazard 2019 yellow with bucketheads (placeholder)
+------------------------------------------------------*/
+
+	.hh2019,
+	.hh2019 .artist, 
+	.hh2019 .show,
+	.hh2019 .season
+		{background:#ffcd05; color:#000;}
+
+	.hh2019 a,
+	.hh2019 a:visited,
+	.hh2019 a:hover
+		{color:#000;}
+	.hh2019 nav a:hover,
+	.hh2019 article a:hover,
+	.hh2019 footer a:hover
+		{background:#000; color:#ffcd05;}
+
+	.hh2019 .splash
+		{background:url(../images/header_haphazard2.jpg) center center}
