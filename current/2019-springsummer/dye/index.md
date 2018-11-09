@@ -27,7 +27,7 @@ Read an interview with Katy about *Baby Face* in <a href="http://www.theatrebubb
 #### Venue + Booking Details           
 Date: Wednesday 20 March 2019, 8?pm        
 <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-<a href="http://www.thelowry.com/events/" target="_blank">Tickets: available to reserve from Friday ?? February</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
+<a href="http://www.thelowry.com/events/" target="_blank">Tickets: available to reserve from Friday 22? February</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
