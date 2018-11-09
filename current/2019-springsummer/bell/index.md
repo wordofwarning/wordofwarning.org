@@ -22,30 +22,28 @@ season: "Amy Bell 29|5|2019"
 #### In Brief      
 ADD SHORT COPY.        
          
-Read an interview with Katy about *The Comforter* in <a href="http://www.theatrebubble.com/2018/07/edinburgh-fringe-2018-interview-with-katy-dye" target="_blank">Theatre Bubble</a>.         
+Read an interview with Amy about *The Forecast* in <a href="http://" target="_blank">tbc</a>.         
         
 #### Venue + Booking Details           
-Date: Wednesday 20 March 2019, 8?pm        
+Date: Wednesday 29 May 2019, 8?pm        
 <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">Venue: The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-<a href="http://www.thelowry.com/events/" target="_blank">Tickets: available to reserve from Friday ?? February</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
+<a href="http://www.thelowry.com/events/" target="_blank">Tickets: available to reserve from Friday ?? May</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
-Age advisory: ***16+***. With no interval, the show lasts approximately ***50 minutes***. Features a combination of spoken text and ***tbc***; NB contains haze + talcum powder. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: ***?***. With no interval, the show lasts approximately ***? minutes***. Features a combination of spoken text and ***tbc***; NB contains haze + talcum powder. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
-*"Hey Baby! Welcome to a world of knee socks, bunches, lollypops, bubble gum, and models adopting the childlike expressions of six-year-old girls. A daring exploration into the paradox of living in a society that continues to infantilise women. Paedophilia is not ok yet fetishised images of women as pre-pubescent girls are. In this brave and outlandish performance a grown woman attempts to be your baby to discover if innocence really is as sexy as we’re told it is."*           
-          
-Winner of The Autopsy Award 2018 + Lustrum Award 2018.        
+COPY        
          
 #### Who is she?        
-Amy Bell        
+BIOG        
            
-#### What people have said about Amy Bell/*The Forecast*         
->*…*<br><a href="http://" target="_blank">tbc</a><br>5st A YOUNGER THEATRE<br>4st THE SKINNY<br>4st THE STAGE<br>4st BROADWAY BABY<br>A pointed examination of the way women are infantilised… big on impact - The Independent<br>"A hugely accomplished physical performance" - Sick of The Fringe<br>"This is theatre at its most powerful, urgent, disruptive…" - Ed Fringe Review        
+#### What people have said about her/*The Forecast*         
+>*…*<br><a href="http://" target="_blank">tbc</a><br>        
          
 #### Credits          
-Lighting Design: Michaella Fee Rossi | Sound Design: Zac Scott | Producer: Jack Stancliffe | Marketing Images: Daniel Hughes | Dramaturgy/Choreography assistance: Craig Manson<br>Kindly supported by the Tom Hunter Foundation (as part of Scotland's *100 Disruptors* initiative), Battersea Arts Centre, Platform Theatre Glasgow, and a successful crowd funding project.         
+TBC           
            
 #### Websites          
 <a href="http://amy-bell.com/currentworks/the-forecast" target="_blank">amy-bell.com</a>        
