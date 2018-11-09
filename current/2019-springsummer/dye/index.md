@@ -22,7 +22,7 @@ season: "Katy Dye 20|3|2019"
 #### In Brief      
 ADD SHORT COPY.        
          
-Read an interview with Katy about *The Comforter* in <a href="http://www.theatrebubble.com/2018/07/edinburgh-fringe-2018-interview-with-katy-dye" target="_blank">Theatre Bubble</a>.         
+Read an interview with Katy about *Baby Face* in <a href="http://www.theatrebubble.com/2018/07/edinburgh-fringe-2018-interview-with-katy-dye" target="_blank">Theatre Bubble</a>.         
         
 #### Venue + Booking Details           
 Date: Wednesday 20 March 2019, 8?pm        
@@ -34,7 +34,7 @@ Box Office Tel: 0161 876 2000 (The Lowry)
 Age advisory: ***16+***. With no interval, the show lasts approximately ***50 minutes***. Features a combination of spoken text and ***tbc***; NB contains haze + talcum powder. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
-*"Hey Baby! Welcome to a world of knee socks, bunches, lollypops, bubble gum, and models adopting the childlike expressions of six-year-old girls. A daring exploration into the paradox of living in a society that continues to infantilise women. Paedophilia is not ok yet fetishised images of women as pre-pubescent girls are. In this brave and outlandish performance a grown woman attempts to be your baby to discover if innocence really is as sexy as we’re told it is."*           
+*"Hey Baby! Welcome to a world of knee socks, bunches, lollypops, bubble gum, and models adopting the childlike expressions of six-year-old girls. A daring exploration into the paradox of living in a society that continues to infantilise women. Paedophilia is not ok yet fetishised images of women as pre-pubescent girls are. In this brave and outlandish performance a grown woman attempts to be your baby to discover if innocence really is as sexy as we're told it is."*           
           
 Winner of The Autopsy Award 2018 + Lustrum Award 2018.        
          
@@ -46,13 +46,13 @@ Her performances have been supported by organisations such as National Theatre o
 Katy loves collaborating with people who inspire her, and frequent collaborators include Daniel Hughes (Glasgow-based photographer + film-maker), Aby Watson (Glasgow-based choreographer/performance artist), Nima Sene (Berlin/Glasgow-based performance artist), Queer Theory Glasgow, Gabriel Spector (New York-based choreographer/dance artist), Jack Stancliffe (Glasgow-based producer), Craig Manson (Glasgow-based performance artist) + Merlin Hayward (London-based sound artist).        
            
 #### What people have said about *Baby Face*         
->*…*<br><a href="http://" target="_blank">tbc</a><br>5st A YOUNGER THEATRE<br>4st THE SKINNY<br>4st THE STAGE<br>4st BROADWAY BABY<br>A pointed examination of the way women are infantilised… big on impact - The Independent<br>"A hugely accomplished physical performance" - Sick of The Fringe<br>"This is theatre at its most powerful, urgent, disruptive…" - Ed Fringe Review        
+>*A pointed examination of the way women are infantilised… big on impact.*<br><a href="http://" target="_blank">The Independent</a><br>*A hugely accomplished physical performance…*<br><a href="http://" target="_blank">Sick of The Fringe</a><br>*…theatre at its most powerful, urgent, disruptive……*<br><a href="http://" target="_blank">Ed Fringe Review</a><br><a href="http://" target="_blank">tbc</a><br>5st A YOUNGER THEATRE<br>4st THE SKINNY<br>4st THE STAGE<br>4st BROADWAY BABY        
          
 #### Credits          
 Lighting Design: Michaella Fee Rossi | Sound Design: Zac Scott | Producer: Jack Stancliffe | Marketing Images: Daniel Hughes | Dramaturgy/Choreography assistance: Craig Manson<br>Kindly supported by the Tom Hunter Foundation (as part of Scotland's *100 Disruptors* initiative), Battersea Arts Centre, Platform Theatre Glasgow, and a successful crowd funding project.         
            
 #### Websites          
-<a href="http://www.katy-dye.com/baby-face/" target="_blank">www.katy-dye.com</a> | <a href="http://twitter.com/katydye1" target="_blank">@katydye1</a>        
+<a href="http://www.katy-dye.com/baby-face" target="_blank">www.katy-dye.com</a> | <a href="http://twitter.com/katydye1" target="_blank">@katydye1</a>        
         
 #### <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a> ticketing policy at The Lowry         
 As this is a Pay What You Decide event, we know some people who book tickets won't turn up on the night so we send out more tickets than there are places. We do our best to get the numbers right but we advise you arrive early to ensure you get a seat! We don't often have to disappoint people but if we can't fit you in we will try to offer you tickets to another show in The Lowry that night.
