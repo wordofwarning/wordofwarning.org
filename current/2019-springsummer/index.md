@@ -6,7 +6,7 @@ is_index: true
 season: "S/S 2019"
 
 ---
-*Opening with our [hundredth event](/current/2019-springsummer/100), we continue with a [fresh face](/current/2019-springsummer/dye), a [free day of curiosities](/current/2019-springsummer/dye), and a [forecast](/current/2019-springsummer/bell) … To keep in touch, <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.*               
+*Opening with our [hundredth event](/current/2019-springsummer/100), we continue with a [fresh face](/current/2019-springsummer/dye), a [free day of curiosities](/current/2019-haphazard), and a [forecast](/current/2019-springsummer/bell) … To keep in touch, <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.*               
           
 Brought to you by hÅb — with The Lowry + Z-arts — we look forward to seeing you at some or all of Spring/Summer 2019. If you want to check out what happened last season take a look at our [Autumn/Winter 2018 archive](/archive/2018-autumnwinter), and if you came to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=152950990710" target="_blank">online survey</a>.                 
              
