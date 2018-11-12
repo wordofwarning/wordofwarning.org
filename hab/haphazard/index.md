@@ -16,12 +16,12 @@ season: "hÅb — Haphazard"
 ---         
 **Haphazard** is our occasional foray into 'all ages' live art, with intriguing images and offbeat oddities dotted in and around the historic <a href="http://www.z-arts.org" target="_blank">Z-arts</a> building in Manchester's Hulme. Playful, quirky, engaging, and sometimes plain daft: this is a free day out for kids + their adults, adults + *their* adults — in short, anyone looking for a different day out!        
           
-### Save the date and get your thinking caps on!         
+### Artists: save the date and get your thinking caps on!         
 **Haphazard 2019 — *a free day out for the curious of all ages.*<br>Sat 27 Apr, 12noon-3pm at Z-arts. FREE**         
          
-[hÅb](/hab)/[Word of Warning](/) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a> are getting together again for the **fifth Haphazard**, taking place on Saturday 27 April 2019 in Manchester. There'll be a call for proposals in the New Year, but we know ‘all ages’ can be a challenge — so we want to give you a heads-up and some thinking time!          
+[hÅb](/hab)/[Word of Warning](/) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a> are getting together again for the **fifth Haphazard**, taking place on Saturday 27 April 2019 in Manchester. There'll be a call for artist proposals in the New Year, but we know ‘all ages’ can be a challenge — so we want to give you a heads-up and some thinking time!          
 
-This is not live art for children but live art for all ages — and we mean from tot to timeworn, 8 months to 80 years — so work should have appeal for adults and children alike, even if the kids need to explain it to the adults!        
+This is not live art for children but live art for all ages — and we mean from tot to timeworn, 8 months to 80 years — so work should have appeal for adults *and* children alike, even if the kids need to explain it to the adults!        
             
 To date, Haphazard has seen ping pong balls and squeaky toys; a singing fish and a sax-playing bear; paintball golf and human quoits; a giant periscope, a golden toilet, and a tiny bee-shaped world… Get a feel for it with our [gallery of images](/galleries/2018-emergency) + [programme](/archive/2017-haphazard) from 2017, or delve further with a look at 2016's [images](/galleries/2016-haphazard) + [programme](/archive/2016-haphazard), 2015's [images](/galleries/2015-haphazard) + [programme](/archive/2015-haphazard), 2013's [images](/galleries//2013-haphazard) + [programme](/archive/2013-spring/haphazard).         
         
