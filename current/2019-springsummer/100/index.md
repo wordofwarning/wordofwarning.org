@@ -4,10 +4,10 @@ layout: 2019-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "It's our 100th event" # the name of the artist or company
-show: "And we're having a party" # the name of the show
+artist: "We are One Hundred" # the name of the artist or company
+show: "So we're having a party!" # the name of the show
 artist_size: 2
-show_size: 2
+show_size: 3
 header_image: "headerfornow.jpg"    
 season: "100th event 2|2019"
 
@@ -25,11 +25,11 @@ season: "100th event 2|2019"
 #### Venue + Booking Details           
 Date: ?? ?? February 2019, ??pm        
 Venue: <a href="http://" target="_blank">is tbc</a>, address, postcode         
-Tickets: <a href="http://" target="_blank">tbc how</a>, Free / Pay What You Decide in person on the evening.           
+Tickets: <a href="http://" target="_blank">do you need to book or not</a> as it's Free or Pay What You Decide in person on the evening.           
 Box Office Tel: 0161 xxx xxxx (tbc venue)          
           
 #### Access Information        
-Age advisory: ***X***+. With no interval, the show lasts approximately ***xx*** minutes. Features a combination of ***tbc ***. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: ***X+***. With no interval, the show lasts approximately ***xx*** minutes. Features a combination of ***tbc***. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
 ???        
