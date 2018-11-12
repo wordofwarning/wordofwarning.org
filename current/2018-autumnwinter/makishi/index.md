@@ -25,7 +25,7 @@ Join Stacy Makishi to explore — through meditation, ritual, and disco — what
 Read interviews with Stacy about *The Comforter* in <a href="http://gcn.ie/interview-wonderful-queer-live-collision-headliner-stacy-makish/" target="_blank">Gay Community News</a> + <a href="http://www.thestage.co.uk/features/interviews/2018/performance-artist-stacy-makishi-i-was-visited-by-the-ghost-of-george-michael" target="_blank">The Stage</a>        
         
 #### Venue + Booking Details           
-**<span style='font-color: red'>Please note that *The Comforter* and *Not I* are sold-out<small> as of 10:15 12/11/18</small></span>       
+**<span style='font-color: #ff0000'>Please note that *The Comforter* and *Not I* are sold-out<small> as of 10:15 12/11/18</small></span>**       
 Date: Wednesday 21 November 2018, 7pm        
 Venue: <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
 Tickets: <a href="http://www.thelowry.com/events/stacy-makishi" target="_blank">available to reserve from Friday 26 October</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
