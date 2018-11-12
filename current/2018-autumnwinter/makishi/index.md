@@ -25,7 +25,7 @@ Join Stacy Makishi to explore — through meditation, ritual, and disco — what
 Read interviews with Stacy about *The Comforter* in <a href="http://gcn.ie/interview-wonderful-queer-live-collision-headliner-stacy-makish/" target="_blank">Gay Community News</a> + <a href="http://www.thestage.co.uk/features/interviews/2018/performance-artist-stacy-makishi-i-was-visited-by-the-ghost-of-george-michael" target="_blank">The Stage</a>        
         
 #### Venue + Booking Details           
-**Please note (as of Mon 12 Nov) there are no tickets available for *The Comforter* — please <a href="http://tickets.thelowry.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=FB81B93E-63FF-4139-9CBD-4F1CB81E4D16#_ga=2.240790852.61899901.1542017752-813283591.1481294328" target="_blank">check back</a>from 10am Fri 16 Nov for returns.**         
+**Please note there are currently (as of Mon 12 Nov) no tickets available for *The Comforter* — please <a href="http://tickets.thelowry.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=FB81B93E-63FF-4139-9CBD-4F1CB81E4D16#_ga=2.240790852.61899901.1542017752-813283591.1481294328" target="_blank">check back with The Lowry</a> for returns on Fri 16 Nov at 10am.**         
 Date: Wednesday 21 November 2018, 7pm        
 Venue: <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
 Tickets: <a href="http://www.thelowry.com/events/stacy-makishi" target="_blank">available to reserve from Friday 26 October</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
