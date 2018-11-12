@@ -25,9 +25,9 @@ season: "Amy Bell 29|5|2019"
 Read an interview with Amy about *The Forecast* in <a href="http://everything-theatre.co.uk/2018/03/amy-bell-dance-forecast-splayed-festival-the-place.html" target="_blank">Everything Theatre</a>.         
         
 #### Venue + Booking Details           
-Date: Wednesday 29 May 2019, 8?pm        
+Date: Wednesday 29 May 2019, 8pm        
 Venue: <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-Tickets: <a href="http://www.thelowry.com/events/" target="_blank">available to reserve from Friday 3 May</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
+Tickets: <a href="http://www.thelowry.com/whats-on/wtf-wednesday" target="_blank">available to reserve from Friday 3 May</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
@@ -43,7 +43,7 @@ Immersed in a live digital soundscape by composer Jamie McCarthy, with dramaturg
 #### Who is she?        
 A Brighton-based dance artist whose work embraces performing, making, writing, teaching, and curation, Amy Bell's recent works use the interplay and slippage between words and body to interrogate processes of change in felt gender and sexual identities.            
        
-Amy's performance work has included theatrical, installation, and site-sensitive works for Tino Sehgal, Hussein Chalayan & Damien Jalet, Alessandro Sciarroni, Lea Anderson, Charlotte Spencer, Chiara Frigo, Marco D’Agostin, and Maresa von Stockert’s Tilted Productions, amongst others. Chiara Frigo created her tap dance solo *West End* for Amy in 2015, and she currently tours with Alessandro Sciarroni. Previously, together with Valentina Golfieri, she made a series of darkly absurd short duets, and has also created collaborations with live artist Lucy Hutson and with actress Jane Horrocks (*Cotton Panic*).           
+Amy's performance work has included theatrical, installation, and site-sensitive works for Tino Sehgal, Hussein Chalayan & Damien Jalet, Alessandro Sciarroni, Lea Anderson, Charlotte Spencer, Chiara Frigo, Marco D’Agostin, and Maresa von Stockert’s Tilted Productions, amongst others. Chiara Frigo created her tap dance solo *West End* for Amy in 2015, and she currently tours with Alessandro Sciarroni. Previously, together with Valentina Golfieri, she made a series of darkly absurd short duets, and has also created collaborations with live artist Lucy Hutson, and *Cotton Panic* with actress Jane Horrocks.           
           
 Amy curated *Splayed*: a festival of disruptive femininities at The Place in June 2018, and *Bend It* in 2016+17: a queer performance night at Yorkshire Dance; she also led *Next Choreography*: a course for young makers at Siobhan Davies Dance 2016-2018. She teaches and lectures widely, facilitating choreographic workshops, discussions, and technical training for dancers and non-dancers across the world. Amy read English at Cambridge University, trained at London Contemporary Dance School, and is currently Artist Development Manager at The Place.       
            
@@ -51,7 +51,7 @@ Amy curated *Splayed*: a festival of disruptive femininities at The Place in Jun
 >*…nuanced with wit and sincerity …a triumphant imagining of what fluidity of gender really means.*<br><a href="http://dancetabs.com/2018/03/amy-bell-the-forecast-london" target="_blank">★★★★ Dance Tabs</a><br>*…proposes a re-examination of expectations and assumptions about what it means to dance in a female body …a strident call to arms conveyed with the lightest of touches.*<br><a href="http://everything-theatre.co.uk/2018/03/the-forecast-the-place-review.html" target="_blank">★★★★ Everything Theatre</a>        
         
 #### Credits          
-Creater + performer: Amy Bell | animation + dramaturgy: Hetain Patel | sound + music: Jamie McCarthy | light design + production management: Lucy Hansom | creative consultant: Peggy Olislaegers | Thanks to: Frances Morris + Selm Wenselaers<br>Commissioned + produced by The Place. Supported using public funding by the National Lottery through Arts Council England, and by Yorkshire Dance + Tanzhaus Zürich.        
+Creater + performer: Amy Bell | animation + dramaturgy: Hetain Patel | sound + music: Jamie McCarthy | light design + production management: Lucy Hansom | creative consultant: Peggy Olislaegers | Thanks to: Frances Morris + Selm Wenselaers.<br>Commissioned + produced by The Place. Supported using public funding by the National Lottery through Arts Council England, and by Yorkshire Dance + Tanzhaus Zürich.        
            
 #### Websites          
 <a href="http://amy-bell.com/currentworks/the-forecast" target="_blank">amy-bell.com</a> | <a href="http://www.facebook.com/amybelldance" target="_blank">Amy Bell on Facebook</a>       
