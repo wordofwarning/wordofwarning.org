@@ -8,7 +8,7 @@ artist: "Katy Dye" # the name of the artist or company
 show: "Baby Face" # the name of the show
 artist_size: 1
 show_size: 1
-header_image: "header_dyecrop.jpg"    
+header_image: "header_dye.jpg"    
 season: "Katy Dye 20|3|2019"
 
 # ABOUT THE SHOW - LAYOUT

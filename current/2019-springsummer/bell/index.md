@@ -8,7 +8,7 @@ artist: "Amy Bell" # the name of the artist or company
 show: "The Forecast" # the name of the show
 artist_size: 1
 show_size: 2
-header_image: "header_bellJF.jpg"    
+header_image: "header_bell.jpg"    
 season: "Amy Bell 29|5|2019"
 
 # ABOUT THE SHOW - LAYOUT
