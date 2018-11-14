@@ -46,7 +46,7 @@ See our [gallery of images](/galleries/2018-emergency) + [programme](/archive/20
 Haphazard 2017 was reviewed by <a href="http://rainycitykids.com/2017/04/03/review-word-warning-present-haphazard-z-arts" target="_blank">Rainy City Kids</a>.       
           
 #### Credits         
-[Haphazard](/hab/haphazard) 2019 is produced by [hÅb](/hab) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England.         
+[Haphazard](/hab/haphazard) 2019 is produced by [hÅb](/hab) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England. | Header image: Chris Sav (2017)        
          
 #### Websites        
 <a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | <a href="http://twitter.com/hashtag/Haphazard" target="_blank">#Haphazard</a>
