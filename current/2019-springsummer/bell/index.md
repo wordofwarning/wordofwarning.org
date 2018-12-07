@@ -27,7 +27,7 @@ Read an interview with Amy about *The Forecast* in <a href="http://everything-th
 #### Venue + Booking Details           
 Date: Wednesday 29 May 2019, 8pm        
 Venue: <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-Tickets: <a href="http://www.thelowry.com/whats-on/wtf-wednesday" target="_blank">available to reserve from Friday 3 May</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
+Tickets: <a href="http://www.thelowry.com/whats-on/wtf-wednesday" target="_blank">available to reserve from Friday 26 April</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
@@ -51,7 +51,7 @@ Amy curated *Splayed*: a festival of disruptive femininities at The Place in Jun
 >*…nuanced with wit and sincerity …a triumphant imagining of what fluidity of gender really means.*<br><a href="http://dancetabs.com/2018/03/amy-bell-the-forecast-london" target="_blank">★★★★ Dance Tabs</a><br>*…proposes a re-examination of expectations and assumptions about what it means to dance in a female body …a strident call to arms conveyed with the lightest of touches.*<br><a href="http://everything-theatre.co.uk/2018/03/the-forecast-the-place-review.html" target="_blank">★★★★ Everything Theatre</a>        
         
 #### Credits          
-Creater + performer: Amy Bell | animation + dramaturgy: Hetain Patel | sound + music: Jamie McCarthy | light design + production management: Lucy Hansom | creative consultant: Peggy Olislaegers | Thanks to: Frances Morris + Selm Wenselaers.<br>Commissioned + produced by The Place. Supported using public funding by the National Lottery through Arts Council England, and by Yorkshire Dance + Tanzhaus Zürich.        
+creater + performer: Amy Bell | animation + dramaturgy: Hetain Patel | sound + music: Jamie McCarthy | light design + production management: Lucy Hansom | creative consultant: Peggy Olislaegers | Thanks to: Frances Morris + Selm Wenselaers.<br>Commissioned + produced by The Place. Supported using public funding by the National Lottery through Arts Council England, and by Yorkshire Dance + Tanzhaus Zürich.        
            
 #### Websites          
 <a href="http://amy-bell.com/currentworks/the-forecast" target="_blank">amy-bell.com</a> | <a href="http://www.facebook.com/amybelldance" target="_blank">Amy Bell on Facebook</a>       
