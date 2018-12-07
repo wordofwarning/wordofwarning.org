@@ -24,7 +24,7 @@ Rita Marcalo is saying goodbye to her home-country of 24 years. An emotional jou
         
 Accompanied along the way by other EU citizen-choreographers, Leentje Van de Cruys will join the Salford leg of this perambulating, itinerant, accumulating dance work.        
         
-Read an interview with Rita about *One Last Dance* in <a href="http://performingborders.live/2018/05/14/rita-marcalo-may-2018" target="_blank">performingborders</a>.         
+Read <a href="http://performingborders.live/2018/05/14/rita-marcalo-may-2018" target="_blank">Rita's interview</a> and <a href="http://performingborders.live/2018/05/14/rita-marcalo-may-2018" target="_blank">rehearsal post</a> about *One Last Dance* in performingborders; now that it's over, read <a href="http://performingborders.live/2018/11/14/guest-post-instant-dissidence-brexit-means-antagonism" target="_blank">her follow-up article</a>.         
         
 #### Venue + Booking Details           
 Date: Wednesday 10 October 2018, 8pm          
