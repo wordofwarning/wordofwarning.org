@@ -20,9 +20,9 @@ season: "Katy Dye 20|3|2019"
 *Presented by* The Lowry + Word of Warning *as a* <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a>
          
 #### In Brief      
-***ADD SHORT COPY***.        
-         
-Read an interview with Katy about *Baby Face* in <a href="http://www.theatrebubble.com/2018/07/edinburgh-fringe-2018-interview-with-katy-dye" target="_blank">Theatre Bubble</a>.         
+Is innocence sexy? Can infantilism get women what they want? In a talcum powder explosion, Katy Dye explores the fetishisation of the female form, and the morality of desire.
+        
+Read interviews with Katy about *Baby Face* in <a href="http://www.miromagazine.com/theatre/edinburgh-2018-spotlight-baby-face" target="_blank">Miro Magazine</a> + <a href="http://www.theatrebubble.com/2018/07/edinburgh-fringe-2018-interview-with-katy-dye" target="_blank">Theatre Bubble</a>.         
         
 #### Venue + Booking Details           
 Date: Wednesday 20 March 2019, 8pm        
@@ -35,19 +35,19 @@ Age advisory: 16+. With no interval, the show lasts approximately 50 minutes. Fe
              
 #### More         
 *"Hey Baby! Welcome to a world of knee socks, bunches, lollypops, bubble gum, and models adopting the childlike expressions of six-year-old girls. A daring exploration into the paradox of living in a society that continues to infantilise women. Paedophilia is not ok yet fetishised images of women as pre-pubescent girls are. In this brave and outlandish performance a grown woman attempts to be your baby to discover if innocence really is as sexy as we're told it is."*           
-          
-Winner of The Autopsy Award 2018 + Lustrum Award 2018.        
+              
+Winner of Summerhall's Autopsy Award 2018 + Lustrum Award 2018.        
          
 #### Who is she?        
 An award-winning artist from the UK, Katy Dye creates artworks that include performance/theatre/visual art/photographic collaborations, and is interested in iconography, materiality, and entertainment. Whether it is creating performance or visual artwork, she seeks to connect to physical sensation when making work, and often approaches her live performances as though they were paintings or drawings. Inspired by many forms including dance, photography, and sound, she is is interested in the joy and subversion of creating art and bringing this to audiences. She has been involved in a broad range of projects, from public processions to pub quiz events.           
          
-Katy's performances have been supported by organisations such as National Theatre of Scotland, In Between Time, BAC, Camden People's Theatre, Rich Mix, hÅb/Word of Warning + The Tom Hunter Foundation. She loves collaborating with people who inspire her, and frequent collaborators include Daniel Hughes (Glasgow-based photographer + film-maker), Aby Watson (Glasgow-based choreographer/performance artist), Nima Sene (Berlin/Glasgow-based performance artist), Queer Theory Glasgow, Gabriel Spector (New York-based choreographer/dance artist), Jack Stancliffe (Glasgow-based producer), Craig Manson (Glasgow-based performance artist) + Merlin Hayward (London-based sound artist).        
+Katy's performances have been supported by organisations such as National Theatre of Scotland, In Between Time, BAC, Camden People's Theatre, Rich Mix, The Tom Hunter Foundation, and hÅb/Word of Warning at [Haphazard 2016](/archive/2016-haphazard/programme) + [Emergency 2017](/archive/2017-emergency/evening). She loves collaborating with people who inspire her, and frequent collaborators include Daniel Hughes (Glasgow-based photographer + film-maker), Aby Watson (Glasgow-based choreographer/performance artist), Nima Sene (Berlin/Glasgow-based performance artist), Queer Theory Glasgow, Gabriel Spector (New York-based choreographer/dance artist), Jack Stancliffe (Glasgow-based producer), Craig Manson (Glasgow-based performance artist) + Merlin Hayward (London-based sound artist).        
            
 #### What people have said about *Baby Face*         
 >*(A) pointed examination of the way that women are infantilised …big on impact.*<br><a href="http://www.independent.co.uk/arts-entertainment/comedy/reviews/edinburgh-festival-2018-fringe-shows-review-lyn-gardner-everything-not-saved-lights-over-tesco-a8500736.html" target="_blank">Lyn Gardner, The Independent</a><br>*…a ruthless mix of dance, song and audience participation.*<br><a href="http://www.ayoungertheatre.com/review-edinburgh-fringe-festival-baby-face-summerhall" target="_blank">★★★★★ A Younger Theatre</a><br>*…a confronting and acutely necessary exploration of the infantilisation of women.*<br><a href="http://www.theskinny.co.uk/festivals/edinburgh-fringe/theatre/baby-face-summerhall" target="_blank">★★★★ The Skinny</a><br>*…a powerfully thought-provoking indictment of capitalist culture’s pervy underpinnings.*<br><a href="http://www.thestage.co.uk/reviews/2018/baby-face-review-summerhall-edinburgh-effectively-disturbing-performance-piece" target="_blank">★★★★ The Stage</a>        
         
 #### Credits          
-lighting design: Michaella Fee Rossi | sound design: Zac Scott | producer: Jack Stancliffe | marketing images: Daniel Hughes | dramaturgy/choreography assistance: Craig Manson<br>Kindly supported by the Tom Hunter Foundation (as part of Scotland's *100 Disruptors* initiative), Battersea Arts Centre, Platform Theatre Glasgow, and a successful crowd-funding project.         
+lighting design: Michaella Fee Rossi | sound design: Zac Scott | producer: Jack Stancliffe | marketing images/film: Daniel Hughes | dramaturgy/choreography assistance: Craig Manson<br>Kindly supported by the Tom Hunter Foundation (as part of Scotland's *100 Disruptors* initiative), Battersea Arts Centre, Platform Theatre Glasgow, and a successful crowd-funding project.         
            
 #### Websites          
 <a href="http://www.katy-dye.com/baby-face" target="_blank">www.katy-dye.com</a> | <a href="http://twitter.com/katydye1" target="_blank">@katydye1</a>        
