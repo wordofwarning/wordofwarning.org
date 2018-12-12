@@ -20,7 +20,7 @@ season: "Katy Dye 20|3|2019"
 *Presented by* The Lowry + Word of Warning *as a* <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a>
          
 #### In Brief      
-Is innocence sexy? Can infantilism get women what they want? In a talcum powder explosion, Katy Dye explores the fetishisation of the female form, and the morality of desire.
+Is innocence sexy? Can infantilism get women what they want? Katy Dye's talcum powder explosion explores the fetishisation of the female form and morality of desire.       
         
 Read interviews with Katy about *Baby Face* in <a href="http://www.miromagazine.com/theatre/edinburgh-2018-spotlight-baby-face" target="_blank">Miro Magazine</a> + <a href="http://www.theatrebubble.com/2018/07/edinburgh-fringe-2018-interview-with-katy-dye" target="_blank">Theatre Bubble</a>.         
         
