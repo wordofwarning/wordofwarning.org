@@ -32,7 +32,7 @@ My name's Tamsin Drury and I run an organisation called [hÅb](/hab), which was 
          
 I've been around a while, a really long while… and in that time, I've been responsible for making the Arndale Tower flash, wrapping Cathedral Gardens in 7km of hazard tape, and encouraging a mass audience conga and a glitter-cannon *Hallelujah chorus*! On the less eccentric side, over the years hÅb has also worked with literally hundreds of young NW artists to help them create new pieces of theatre + dance.           
           
->*…evenings like Works Ahead are vital …an annual scratch theatre night which allows artists to present the prepubescent stages of their work to an audience who are expecting something weird, personal and entirely half-done.*<br><a href="http://www.thestateofthearts.co.uk/features/works-ahead-expect-something-weird-personal-entirely-half-done" target="_blank">The State of The Arts, on Works Ahead (May 2018)</a>                     
+>*Nights such as Works Ahead dismantle the idea of the arts being a wholly elitist industry, and create an environment of collaboration and conversation. Long may they continue.*<br><a href="http://www.thestateofthearts.co.uk/features/works-ahead-expect-something-weird-personal-entirely-half-done" target="_blank">The State of The Arts, on Works Ahead (May 2018)</a>                     
           
 Please send programming enquiries to me at <mailto:info@habmcr.org>             
          
