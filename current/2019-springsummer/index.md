@@ -32,9 +32,11 @@ My name's Tamsin Drury and I run an organisation called [hÅb](/hab), which was 
          
 I've been around a while, a really long while… and in that time, I've been responsible for making the Arndale Tower flash, wrapping Cathedral Gardens in 7km of hazard tape, and encouraging a mass audience conga and a glitter-cannon *Hallelujah chorus*! On the less eccentric side, over the years hÅb has also worked with literally hundreds of young NW artists to help them create new pieces of theatre + dance.           
           
+>*…evenings like Works Ahead are vital. The event at Z-arts is an annual scratch theatre night which allows artists to present the prepubescent stages of their work to an audience who are expecting something weird, personal and entirely half-done.*<br><a href="http://www.thestateofthearts.co.uk/features/works-ahead-expect-something-weird-personal-entirely-half-done" target="_blank">The State of The Arts (2018 review)</a>                     
+          
 Please send programming enquiries to me at <mailto:info@habmcr.org>             
          
-I'm joined in this lunacy by John Franklin, greenroom's long time programme co-ordinator, and Catherine (Cat) Shaw — the friendly faces greeting you and eliciting your feedback at many of our events; we’re grateful for the support of our occasional band of hÅbettes.          
+I'm joined in this lunacy by John Franklin, greenroom's long time programme co-ordinator, and Catherine (Cat) Shaw — the friendly faces greeting you and eliciting your feedback at many of our events; we're grateful for the ongoing support of our occasional band of hÅbettes.          
         
 #### What our audiences have said about us           
 >• *Always special, bringing the unexpected and intriguing, thank you.*<br>• *Bringing some of the most interesting performance work in the world to our city.*<br>• *Fabulous for seeing things different from the mainstream machine.*<br>• *Great organisation — a reason to move to Manchester.*<br>• *I don't know what I would do with my spare time without you.*<br>• *Refreshing company that brings diverse shows to our door steps.*<br>• *WoW are great, supporting emerging work and bringing it to new audiences.*
