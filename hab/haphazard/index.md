@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Haphazard" # the name of the artist or company
-show: "Live Art for the curious all ages" # the name of the artist or company
+show: "Live Art for the curious of all ages" # the name of the artist or company
 show_size: 4
 header_image: "header_haphazard.jpg"   
 season: "hÅb — Haphazard" 
