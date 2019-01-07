@@ -19,7 +19,7 @@ season: "hÅb — Haphazard"
 ### Artists: save the date and get your thinking caps on!         
 **Haphazard 2019 — *a free day out for the curious of all ages.*<br>Sat 27 Apr, 12noon-3pm at Z-arts. FREE**         
          
-[hÅb](/hab)/[Word of Warning](/) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a> are getting together again for the **fifth Haphazard**, taking place on Saturday 27 April 2019 in Manchester. There'll be a call for artist proposals in the New Year, but we know ‘all ages’ can be a challenge — so we want to give you a heads-up and some thinking time!          
+[hÅb](/hab)/[Word of Warning](/) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a> are getting together again for the **fifth Haphazard**, taking place on Saturday 27 April 2019 in Manchester. There'll be a call for artist proposals later in January, but we know ‘all ages’ can be a challenge — so we want to give you a heads-up and some thinking time!          
 
 This is not live art for children but live art for all ages — and we mean from tot to timeworn, 8 months to 80 years — so work should have appeal for adults *and* children alike, even if the kids need to explain it to the adults!        
             
