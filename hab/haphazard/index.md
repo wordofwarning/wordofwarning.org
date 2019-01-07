@@ -30,6 +30,6 @@ From experience, what works best are big surreal images, interesting repetitive 
 So we can get all the info in one place, we'd be grateful if you could fill out the online <a href="http://habarts.wufoo.com/forms/haphazard-2019-proposal-form" target="_blank">Haphazard proposal form</a> **by Wednesday 27 February 2019, 5pm**, after which we'll let you know if you're on the list of possible projects and get in touch to take it from there — we aim to have made programming decisions by 15 March.        
         
 If you'd like to talk to us about your ideas first, please email <mailto:haphazard@habmcr.org>, or call 0161 232 6086 and talk to Tamsin. We have a small budget and can offer an honorarium of up to £300 per piece. If you'd like to discuss a bigger proposal please get in touch first.         
-Enquiries: <a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> (*artists only: <a href="http://haphazard.posthaven.com" target="_blank">haphazard.posthaven.com</a>*) | <a href="http://twitter.com/hashtag/Haphazard" target="_blank">#Haphazard</a>
+<a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | *info for artists: <a href="http://haphazard.posthaven.com" target="_blank">haphazard.posthaven.com</a>* | <a href="http://twitter.com/hashtag/Haphazard" target="_blank">#Haphazard</a>          
         
 Haphazard 2019 is presented by [Word of Warning](/) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>; produced by [hÅb](/hab) + Z-arts; supported using public funding by Arts Council England.
