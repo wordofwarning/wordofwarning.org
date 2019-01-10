@@ -20,5 +20,5 @@ Upcoming artist opportunities from hÅb are published below when we have them; y
              
 ### Upcoming Events + Opportunities        
         
-#### Emergency 2018 — Call for Artists now CLOSED            
-hÅb's annual platform for live art + contemporary performance is now closed for proposals, with participating artists tba mid-September… thanks to all who applied. Our nineteenth [Emergency](/current/2018-emergency) takes place on Saturday 6 October 2018, 12noon-10pm, in Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> (incl. <a href="http://stunlive.com" target="_blank">STUN Studio</a>).
+#### Haphazard 2019 — Call for Artists            
+We're now calling for proposals for our **fifth Haphazard**: a FREE ‘all ages’ live art day taking place on **Saturday 27 April 2019, 12noon-3pm** in and around Manchester's Z-arts; see [(/hab/haphazard)] for more info.
