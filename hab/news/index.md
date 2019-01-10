@@ -21,4 +21,4 @@ Upcoming artist opportunities from hÅb are published below when we have them; y
 ### Upcoming Events + Opportunities        
         
 #### Haphazard 2019 — Call for Artists            
-We're now calling for proposals for our **fifth Haphazard**: a FREE ‘all ages’ live art day taking place on **Saturday 27 April 2019, 12noon-3pm** in and around Manchester's Z-arts; see [(/hab/haphazard)] for more info.
+We're now calling for proposals for our **fifth Haphazard**: a FREE ‘all ages’ live art day taking place on **Saturday 27 April 2019, 12noon-3pm** in and around Manchester's Z-arts; see [here](/hab/haphazard) for more info.
