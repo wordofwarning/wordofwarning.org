@@ -8,7 +8,7 @@ is_index: true
 artist: "Haphazard 2019" # the name of the artist or company
 show: "A free day out for the<br>curious of all ages." # the name of the show
 artist_size: 1
-show_size: 4
+show_size: 2
 season: "Haphazard 27|4|2019"
 
 # ABOUT THE SHOW - LAYOUT
