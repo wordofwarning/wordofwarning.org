@@ -8,7 +8,7 @@ is_index: true
 artist: "Haphazard 2019" # the name of the artist or company
 show: "A free day out for the<br>curious of all ages." # the name of the show
 artist_size: 1
-show_size: 4
+show_size: 3
 season: "Haphazard 27|4|2019"
 
 # ABOUT THE SHOW - LAYOUT
@@ -23,7 +23,7 @@ Intriguing images and offbeat oddities dotted around the historic Z-arts buildin
         
 **Turn up at any time; come and go as you please; expect the unexpected…**         
          
-*NB until 27 February we're looking for [artist proposals](/hab/haphazard).*          
+*NB we're welcoming [proposals from artists](/hab/haphazard) until Wednesday 27 February, 5pm.*          
          
 #### Venue + Booking Details
 Date: Saturday 27 April 2019, 12noon-3pm      
