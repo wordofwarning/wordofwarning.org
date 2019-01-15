@@ -4,12 +4,12 @@ layout: 2019-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "We are One Hundred" # the name of the artist or company
-show: "So we're having a party!" # the name of the show
-artist_size: 2
-show_size: 3
+artist: "Will Dickie" # the name of the artist or company
+show: "The Rave Space" # the name of the show
+artist_size: 1
+show_size: 2
 header_image: "header_dickie.jpg"    
-season: "100th event 2|2019"
+season: "Will Dickie 28|2|2019"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -23,21 +23,21 @@ season: "100th event 2|2019"
 ***ADD SHORT COPY***.        
          
 #### Venue + Booking Details           
-Date: ?? ?? February 2019, ??pm        
-Venue: <a href="http://" target="_blank">is tbc</a>, address, postcode         
-Tickets: <a href="http://" target="_blank">do you need to book or not</a> as it's Free or Pay What You Decide in person on the evening.           
+Date: Thursday 28 February 2019, 8pm        
+Venue: <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, corner of Chichester Rd/Warwick St, Hulme, Manchester M15 5EU          
+Tickets: Pay What You Decide in person on the evening.           
 Box Office Tel: 0161 xxx xxxx (tbc venue)          
           
 #### Access Information        
-Age advisory: ***X+***. With no interval, the show lasts approximately ***xx*** minutes. Features a combination of ***tbc***. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: 18+. With no interval, the show lasts approximately 90 minutes; this will be followed by an optional DJ set. Features a combination of ***spoken word, amplified music, flashing lights,tbc***. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
 ???        
          
-#### Who are we?        
+#### Who is he?        
 ???       
            
-#### What people have said about ???         
+#### What people have said about *TRS*         
 >*…*<br><a href="http://" target="_blank">???</a>        
         
 #### Credits          
