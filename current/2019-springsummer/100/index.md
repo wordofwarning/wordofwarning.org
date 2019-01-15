@@ -8,7 +8,7 @@ artist: "We are One Hundred" # the name of the artist or company
 show: "So we're having a party!" # the name of the show
 artist_size: 2
 show_size: 3
-header_image: "headerfornow.jpg"    
+header_image: "header_dickie.jpg"    
 season: "100th event 2|2019"
 
 # ABOUT THE SHOW - LAYOUT
