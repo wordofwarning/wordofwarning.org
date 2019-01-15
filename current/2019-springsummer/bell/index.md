@@ -27,7 +27,7 @@ Read an interview with Amy about *The Forecast* in <a href="http://everything-th
 #### Venue + Booking Details           
 Date: Wednesday 29 May 2019, 8pm        
 Venue: <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-Tickets: <a href="http://www.thelowry.com/whats-on/wtf-wednesday" target="_blank">available to reserve from Friday 26 April</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
+Tickets: <a href="http://www.thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">available to reserve from Friday 26 April</a>, Pay What You Decide in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
