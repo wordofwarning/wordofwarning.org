@@ -51,7 +51,7 @@ Amy curated *Splayed*: a festival of disruptive femininities at The Place in Jun
 >*…nuanced with wit and sincerity …a triumphant imagining of what fluidity of gender really means.*<br><a href="http://dancetabs.com/2018/03/amy-bell-the-forecast-london" target="_blank">★★★★ Dance Tabs</a><br>*…proposes a re-examination of expectations and assumptions about what it means to dance in a female body …a strident call to arms conveyed with the lightest of touches.*<br><a href="http://everything-theatre.co.uk/2018/03/the-forecast-the-place-review.html" target="_blank">★★★★ Everything Theatre</a>        
         
 #### Credits          
-creater + performer: Amy Bell | animation + dramaturgy: Hetain Patel | sound + music: Jamie McCarthy | light design + production management: Lucy Hansom | creative consultant: Peggy Olislaegers | Thanks to: Frances Morris + Selm Wenselaers.<br>Commissioned + produced by The Place. Supported using public funding by the National Lottery through Arts Council England, and by Yorkshire Dance + Tanzhaus Zürich.        
+creater + performer: Amy Bell | animation + dramaturgy: Hetain Patel | sound + music: Jamie McCarthy | light design + production management: Lucy Hansom | creative consultant: Peggy Olislaegers<br>Commissioned + produced by The Place. Supported using public funding by the National Lottery through Arts Council England, and by Yorkshire Dance + Tanzhaus Zürich. Thanks to Frances Morris + Selm Wenselaers.        
            
 #### Websites          
 <a href="http://amy-bell.com/currentworks/the-forecast" target="_blank">amy-bell.com</a> | <a href="http://www.facebook.com/amybelldance" target="_blank">Amy Bell on Facebook</a>       
