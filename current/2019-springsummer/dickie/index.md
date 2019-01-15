@@ -27,8 +27,8 @@ A live documentary played out in the dance. A personal story on E's and Euphoria
 #### Venue + Booking Details           
 Date: Thursday 28 February 2019, 8pm        
 Venue: <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, corner of Chichester Rd/Warwick St, Hulme, Manchester M15 5EU          
-Tickets: available to reserve from Friday 1 February, Pay What You Decide in person on the evening.
-Enquiries: 0161 232 6086 (Word of Warning office)
+Tickets: available to reserve from Friday 1 February, Pay What You Decide in person on the evening.             
+Enquiries: 0161 232 6086 (Word of Warning office)           
           
 #### Access Information        
 Age advisory: 18+. A standing event, some seats will be available for access. With no interval, the show lasts approximately 90 minutes and is followed by a DJ set; stay as long as you like, end time *tbc*. Features a combination of spoken word, amplified music, flashing lights, with more *tbc*. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
@@ -38,12 +38,12 @@ A 90-minute mix of jungle music, immersive theatre, spoken word, and ritual with
     
          
 #### Who is he?        
-Will is an artist and performance maker whose solo works have toured the UK + Ireland, including *Memories of Suburbia* (Glasgow's Buzzcut; Battersea Arts Centre), Team of the Decades (Latitude Festival; Bristol's In Between Time; Southbank Centre), and *The Rave Space* (Camden People's Theatre; Cork's Quarter Block Party).         
+Will is an artist and performance maker whose solo works have toured the UK + Ireland, including *Memories of Suburbia* (Glasgow's Buzzcut; Battersea Arts Centre), *Team of the Decades* (Latitude Festival; Bristol's In Between Time; Southbank Centre), and *The Rave Space* (Camden People's Theatre; Cork's Quarter Block Party).         
           
 He also works as an actor, dancer, DJ + director across art forms (recent collaborations include Abigail Conway, Rosana Cade + ZUUK), and works extensively with artists who are learning disabled.        
          
-#### What people have said about *TRS*         
->*…there is more to this than meets the eye and it deserves respect.*<br><a href="http://www.remotegoat.com/uk/review/14140/drumnbass-mash-up-with-personal-overtones" target="_blank">★★★★ remotegoat</a><br>*…a brutal encounter with the self. It’s a brave performance, and is an act which jolts you awake.*<br><a href="http://www.ayoungertheatre.com/review-the-rave-space-camden-peoples-theatre" target="_blank">A Younger Theatre</a>       
+#### What people have said about *The Rave Space*         
+>*…there is more to this than meets the eye and it deserves respect.*<br><a href="http://www.remotegoat.com/uk/review/14140/drumnbass-mash-up-with-personal-overtones/#reviews" target="_blank">★★★★ remotegoat</a><br>*…a brutal encounter with the self. It’s a brave performance, and is an act which jolts you awake.*<br><a href="http://www.ayoungertheatre.com/review-the-rave-space-camden-peoples-theatre" target="_blank">A Younger Theatre</a>       
         
 #### Credits          
 Collaborators: Chris Collins, Dan Canham, Hayley Hill, Mary Langthorne, Peader Kirk, Fabiola Santana | Header image: Suzi Corker Photography<br>Supported using public funding by the National Lottery through Arts Council England.         
