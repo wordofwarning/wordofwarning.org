@@ -6,9 +6,9 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Haphazard 2019" # the name of the artist or company
-show: "A free day out for the<br>curious of all ages." # the name of the show
+show: "A free day out<br> for the curious<br> of all ages." # the name of the show
 artist_size: 1
-show_size: 2
+show_size: 1
 season: "Haphazard 27|4|2019"
 
 # ABOUT THE SHOW - LAYOUT
