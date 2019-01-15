@@ -8,7 +8,7 @@ is_index: true
 artist: "Haphazard 2019" # the name of the artist or company
 show: "A free day out for the<br>curious of all ages." # the name of the show
 artist_size: 1
-show_size: 2
+show_size: 4
 season: "Haphazard 27|4|2019"
 
 # ABOUT THE SHOW - LAYOUT
@@ -21,12 +21,14 @@ season: "Haphazard 27|4|2019"
 ### Saturday 27 April 2019, 12noon-3pm. FREE             
 Intriguing images and offbeat oddities dotted around the historic Z-arts building. Playful, quirky, engaging and sometimes plain daft: this is for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out. To get a feel for it, have a look at 2017's [programme](/archive/2017-haphazard) + [images](/galleries/2017-haphazard).         
         
-*Turn up at any time; come and go as you please; expect the unexpected…*        
+**Turn up at any time; come and go as you please; expect the unexpected…**         
+         
+*NB until 27 February we're looking for [artist proposals](/hab/haphazard).*          
          
 #### Venue + Booking Details
 Date: Saturday 27 April 2019, 12noon-3pm      
 Venue: <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA        
-Tickets: no booking required, turn up at any time, come and go as you please.<br>*NB some works have a limited capacity (marked* †*) with either sign-up sheets on the day or operating on a first-come, first-served basis.*       
+Tickets: no booking required, turn up at any time, come and go as you please.<br>*NB some works have a limited capacity (marked* †*) with either sign-up sheets on the day or operating on a first-come, first-served basis. Participating artists to be announced.*       
 Tel: 0161 232 6089 (Z-arts)          
         
 #### Access Information            
@@ -34,7 +36,7 @@ Age advisory: suitable for ALL. The works in Haphazard 2019 take place in a numb
         
 #### More        
 To date, Haphazard has seen ping pong balls and squeaky toys; a singing fish and a sax-playing bear; paintball golf and human quoits; a giant periscope, a golden toilet, and a tiny bee-shaped world — why not join us to see what 2019 will conjure?           
-             
+           
 See our [gallery of images](/galleries/2018-emergency) + [programme](/archive/2017-haphazard) from 2017, or delve further with a look at 2016's [images](/galleries/2016-haphazard) + [programme](/archive/2016-haphazard), 2015's [images](/galleries/2015-haphazard) + [programme](/archive/2015-haphazard), 2013's [images](/galleries//2013-haphazard) + [programme](/archive/2013-spring/haphazard).         
              
 #### What people have said about Haphazard        
@@ -46,7 +48,7 @@ See our [gallery of images](/galleries/2018-emergency) + [programme](/archive/20
 Haphazard 2017 was reviewed by <a href="http://rainycitykids.com/2017/04/03/review-word-warning-present-haphazard-z-arts" target="_blank">Rainy City Kids</a>.       
           
 #### Credits         
-[Haphazard](/hab/haphazard) 2019 is produced by [hÅb](/hab) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England. | Header image: Chris Sav (2017)        
+[Haphazard](/hab/haphazard) 2019 is produced by [hÅb](/hab) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England. | Header image: Chris Sav (from Haphazard 2017)        
          
 #### Websites        
-<a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | <a href="http://twitter.com/hashtag/Haphazard" target="_blank">#Haphazard</a>
+<a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | <a href="http://twitter.com/hashtag/HaphazardMcr" target="_blank">#HaphazardMcr</a>
