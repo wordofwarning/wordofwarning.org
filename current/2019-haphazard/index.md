@@ -19,10 +19,9 @@ season: "Haphazard 27|4|2019"
 *Presented by* Word of Warning *+* Z-arts           
          
 ### Saturday 27 April 2019, 12noon-3pm. FREE             
-Intriguing images and offbeat oddities dotted around the historic Z-arts building. Playful, quirky, engaging and sometimes plain daft: this is for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out. To get a feel for it, have a look at 2017's [programme](/archive/2017-haphazard) + [images](/galleries/2017-haphazard).         
+**Turn up at any time, come and go as you please, and expect the unexpected…**<br>Intriguing images and offbeat oddities dotted around the historic Z-arts building. Playful, quirky, engaging and sometimes plain daft: this is for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out.<br>To get a feel for it, have a look at 2017's [programme](/archive/2017-haphazard) + [images](/galleries/2017-haphazard).         
         
-**Turn up at any time; come and go as you please; expect the unexpected…**         
-         
+
 *NB we're welcoming [proposals from artists](/hab/haphazard) until Wednesday 27 February, 5pm.*          
          
 #### Venue + Booking Details
