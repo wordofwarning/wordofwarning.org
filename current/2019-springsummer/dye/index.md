@@ -31,12 +31,12 @@ Tickets: <a href="http://www.thelowry.com/whats-on/wtf-wednesday-katy-dye-babyfa
 Box Office Tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
-Age advisory: 16+. With no interval, the show lasts approximately 50 minutes. Features a combination of audience participation, spoken text, and ***tbc more***; **NB** contains haze + talcum powder. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: 16+. With no interval, the show lasts approximately 50 minutes. Features a combination of audience participation, spoken text, with more *tbc*; NB contains haze + talcum powder. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
 *"Hey Baby! Welcome to a world of knee socks, bunches, lollypops, bubble gum, and models adopting the childlike expressions of six-year-old girls. A daring exploration into the paradox of living in a society that continues to infantilise women. Paedophilia is not ok yet fetishised images of women as pre-pubescent girls are. In this brave and outlandish performance a grown woman attempts to be your baby to discover if innocence really is as sexy as we're told it is."*           
               
-Winner of Summerhall's Autopsy Award 2018 + Lustrum Award 2018.        
+Winner of Summerhall's 2018 Autopsy + Lustrum Awards.        
          
 #### Who is she?        
 An award-winning artist from the UK, Katy Dye creates artworks that include performance/theatre/visual art/photographic collaborations, and is interested in iconography, materiality, and entertainment. Whether it is creating performance or visual artwork, she seeks to connect to physical sensation when making work, and often approaches her live performances as though they were paintings or drawings. Inspired by many forms including dance, photography, and sound, she is is interested in the joy and subversion of creating art and bringing this to audiences. She has been involved in a broad range of projects, from public processions to pub quiz events.           
@@ -47,7 +47,7 @@ Katy's performances have been supported by organisations such as National Theatr
 >*(A) pointed examination of the way that women are infantilised …big on impact.*<br><a href="http://www.independent.co.uk/arts-entertainment/comedy/reviews/edinburgh-festival-2018-fringe-shows-review-lyn-gardner-everything-not-saved-lights-over-tesco-a8500736.html" target="_blank">Lyn Gardner, The Independent</a><br>*…a ruthless mix of dance, song and audience participation.*<br><a href="http://www.ayoungertheatre.com/review-edinburgh-fringe-festival-baby-face-summerhall" target="_blank">★★★★★ A Younger Theatre</a><br>*…a confronting and acutely necessary exploration of the infantilisation of women.*<br><a href="http://www.theskinny.co.uk/festivals/edinburgh-fringe/theatre/baby-face-summerhall" target="_blank">★★★★ The Skinny</a><br>*…a powerfully thought-provoking indictment of capitalist culture’s pervy underpinnings.*<br><a href="http://www.thestage.co.uk/reviews/2018/baby-face-review-summerhall-edinburgh-effectively-disturbing-performance-piece" target="_blank">★★★★ The Stage</a>        
         
 #### Credits          
-lighting design: Michaella Fee Rossi | sound design: Zac Scott | producer: Jack Stancliffe | marketing images/film: Daniel Hughes | dramaturgy/choreography assistance: Craig Manson<br>Kindly supported by the Tom Hunter Foundation (as part of Scotland's *100 Disruptors* initiative), Battersea Arts Centre, Platform Theatre Glasgow, and a successful crowd-funding project.         
+Lighting design: Michaella Fee Rossi | sound design: Zac Scott | producer: Jack Stancliffe | marketing images/film: Daniel Hughes | dramaturgy/choreography assistance: Craig Manson<br>Kindly supported by the Tom Hunter Foundation (as part of Scotland's *100 Disruptors* initiative), Battersea Arts Centre, Platform Theatre Glasgow, and a successful crowd-funding project.         
            
 #### Websites          
 <a href="http://www.katy-dye.com/baby-face" target="_blank">www.katy-dye.com</a> | <a href="http://twitter.com/katydye1" target="_blank">@katydye1</a>        
