@@ -19,17 +19,17 @@ season: "Works Ahead 16+17|5|2019"
 ---
 *Presented by* Word of Warning, Contact + STUN         
          
-### Thursday 16 + Friday 17 May 2019, Evening        
+### Thursday 16 + Friday 17 May 2019, 7.30pm        
 Sample new performance in our annual evening of works in development… With artists + shows to be announced in February, get a feel for it with a look at [Works Ahead 2018](/archive/2018-worksahead).        
         
 #### Venue + Booking Details        
-Dates: Thursday 16 + Friday 17 May 2019, Evening (time TBC)         
+Dates: Thursday 16 + Friday 17 May 2019, 7.30pm         
 Venue: <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
-Tickets: will go on sale during March, with prices TBC         
+Tickets: will go on sale during April, with prices *tbc*.         
 Enquiries: 0161 232 6086 (Word of Warning office)           
         
 #### Access Information        
-Age advisory: TBC (parental/guardian discretion). Duration: TBC. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.           
+Age advisory: *tbc*. Duration: *tbc*. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.           
 
 #### What people have said about Works Ahead        
 >*…evenings like Works Ahead are vital …both [pieces] harness techniques and raise ideas which are truly compelling.*<br><a href="http://www.thestateofthearts.co.uk/features/works-ahead-expect-something-weird-personal-entirely-half-done" target="_blank">The State of The Arts (2018 review)</a>           
