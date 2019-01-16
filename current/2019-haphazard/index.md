@@ -27,7 +27,7 @@ season: "Haphazard 27|4|2019"
 #### Venue + Booking Details
 Date: Saturday 27 April 2019, 12noon-3pm      
 Venue: <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA        
-Tickets: no booking required, turn up at any time, come and go as you please.<br>*NB some works have a limited capacity (marked* †*) with either sign-up sheets on the day or operating on a first-come, first-served basis. Participating artists to be announced.*       
+Tickets: no booking required, turn up at any time, come and go as you please.<br>*NB some works might have a limited capacity, with either sign-up sheets on the day or operating on a first-come, first-served basis; participating artists to be announced.*       
 Tel: 0161 232 6089 (Z-arts)          
         
 #### Access Information            
@@ -47,7 +47,7 @@ See our [gallery of images](/galleries/2018-emergency) + [programme](/archive/20
 Haphazard 2017 was reviewed by <a href="http://rainycitykids.com/2017/04/03/review-word-warning-present-haphazard-z-arts" target="_blank">Rainy City Kids</a>.       
           
 #### Credits         
-[Haphazard](/hab/haphazard) 2019 is produced by [hÅb](/hab) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England. | Header image: Chris Sav (from Haphazard 2017)        
+[Haphazard](/hab/haphazard) 2019 is produced by [hÅb](/hab) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>. | Header image: Chris Sav (from Haphazard 2017)        
          
 #### Websites        
 <a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | <a href="http://twitter.com/hashtag/HaphazardMcr" target="_blank">#HaphazardMcr</a>
