@@ -14,7 +14,7 @@ season: "hÅb — Emergency"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Emergency** is our annual platform for live art + contemporary performance, featuring at least 20 short pieces of work throughout a day/evening in Manchester…           
+**Emergency** is our annual platform for live art + contemporary performance, featuring at least 20 short pieces of work shown throughout a day/evening each autumn in Manchester…           
          
 Our [**nineteenth Emergency**](/current/2018-emergency) took place on **Saturday 6 October 2018** (12noon-10pm), with some 30 live works taking over Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, including the <a href="http://stunlive.com" target="_blank">STUN Studio</a>.            
             
@@ -26,4 +26,4 @@ Now that it's over, see our [gallery of images](/galleries/2018-emergency) from 
 • a selection event for a number of small [Works Ahead](/hab/worksahead) commissions to be developed + supported by [hÅb](/hab).      
 • Enquiries: <mailto:emergency@habmcr.org> | <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>            
          
-[Emergency 2018](/current/2018-emergency) was presented by [Word of Warning](/), <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a> + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.
+[Emergency 2018](/current/2018-emergency) was presented by [Word of Warning](/), <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a> + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>; produced by [hÅb](/hab).
