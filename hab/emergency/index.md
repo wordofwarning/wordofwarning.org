@@ -14,7 +14,7 @@ season: "hÅb — Emergency"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Emergency** is our annual platform for live art + contemporary performance, each autumn showing at least 20 short pieces of work on a day/evening in Manchester…           
+**Emergency** is our annual platform for live art + contemporary performance, each autumn showing at least 20 short pieces of work over a day/evening in Manchester…           
          
 Our [**nineteenth Emergency**](/current/2018-emergency) took place on **Saturday 6 October 2018** (12noon-10pm), with some 30 live works taking over Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, including the <a href="http://stunlive.com" target="_blank">STUN Studio</a>.            
             
