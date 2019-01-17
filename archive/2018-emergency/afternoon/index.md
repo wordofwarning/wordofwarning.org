@@ -17,7 +17,7 @@ season: "Emergency 6|10|2018, Afternoon"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-*An afternoon of new live art presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2018](/current/2018-emergency). *Mainly aimed at adults, we **advise** that Afternoon work is NOT suitable for under 18s.*              
+*An afternoon of new live art presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2018](/archive/2018-emergency). *Mainly aimed at adults, we **advise** that Afternoon work is NOT suitable for under 18s.*              
          
 #### Afternoon Artists in Alphabetical Order (*subject to change*)      
 Chanje Kunda | Emma Geraghty † | Frances Kay | Lise Boucon | Luca Federici | Mark Croasdale † | Niya (a.k.a. Yani B) † | Rosie Gibbens | Tom Halls †<br>(† *indicates limited capacity*)          
