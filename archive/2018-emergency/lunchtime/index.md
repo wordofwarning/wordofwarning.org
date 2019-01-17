@@ -17,7 +17,7 @@ season: "Emergency 6|10|2018, Lunchtime"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-*A lunchtime of new live art presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2018](/current/2018-emergency). *Mainly aimed at adults, we **advise** that some Lunchtime work may not suitable for under 18s.*              
+*A lunchtime of new live art presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2018](/archive/2018-emergency). *Mainly aimed at adults, we **advise** that some Lunchtime work may not suitable for under 18s.*              
          
 #### Lunchtime Artists in Alphabetical Order (*subject to change*)      
 Alexandrina Hemsley | Alicia Jane Turner † | BOXD Theatre † | Camilla Canocchi † | Demelza Toy Toy † | Megan Rudden | Paper People Theatre † | Penelope Harrall | Rachel Gomme † | Peter Jacobs | Proud & Loud Arts         
