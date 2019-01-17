@@ -17,7 +17,7 @@ season: "Emergency 6|10|2018, Evening"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-*An evening of short new shows presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2018](/current/2018-emergency). *Mainly aimed at adults, we **advise** that Evening work is not suitable for under 18s.*              
+*An evening of short new shows presented by* Word of Warning, STUN *+* Z-arts *during* [Emergency 2018](/archive/2018-emergency). *Mainly aimed at adults, we **advise** that Evening work is not suitable for under 18s.*              
           
 #### Evening Artists in Chronological Order (*subject to change*)            
 idontloveyouanymore | Dead Good Theatre † | Katt Perry † | Miss Englatina | Avital Raz | Two Blue Ticks † | Magda Tuka + Opeaen † | AIDAN STRUDWICK † | Tom Cassani † | Natalie Wardle<br>(† *these shows have a limited capacity of about 60 on a first-come, first-served basis*)          
