@@ -21,7 +21,7 @@ season: "Emergency 6|10|2018"
 ### Saturday 6 October, 12-10pm. Pay What You Decide             
 Manchester's nineteenth annual manic micro-marathon of the bizarre + the beautiful: from gallery to theatre, store-cupboard to stairwell, some 30 live works in a non-stop performance takeover — filling the Z-arts building to bursting point…         
             
-**[From noon](/current/2018-emergency/lunchtime)** dip in and out of ongoing performances, installations and limited capacity experiences; **[from 2.30pm](/current/2018-emergency/afternoon)** it's adult-only live art; and **[from 5.30pm](/current/2018-emergency/evening)** join us for a series of short sit-down shows. **Sample the different — then pay what you decide!**          
+**[From noon](/archive/2018-emergency/lunchtime)** dip in and out of ongoing performances, installations and limited capacity experiences; **[from 2.30pm](/archive/2018-emergency/afternoon)** it's adult-only live art; and **[from 5.30pm](/archive/2018-emergency/evening)** join us for a series of short sit-down shows. **Sample the different — then pay what you decide!**          
         
 Now that it's over, see our [gallery of images](/galleries/2018-emergency) from the event.        
         
