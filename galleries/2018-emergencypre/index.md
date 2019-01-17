@@ -9,7 +9,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: Emergency 2018
-more_url: "../../current/2018-emergency"
+more_url: "../../archive/2018-emergency"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "A day out for the curious, Sat 6 Oct at Z-arts.", show: "<small>Lise Boucon by Manuel Vason</small>"}
