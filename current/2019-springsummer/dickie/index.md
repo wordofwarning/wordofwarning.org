@@ -25,7 +25,7 @@ A live documentary played out in the dance. A personal story on E's and Euphoria
 <iframe src="http://player.vimeo.com/video/286189918" width="640" height="360" frameborder="0" allowfullscreen></iframe>            
          
 #### Venue + Booking Details           
-Date: Thursday 28 February 2019, 8pm        
+Date: Thursday 28 February 2019, 8pm (doors open 7.30pm)        
 Venue: <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, corner of Chichester Rd/Warwick St, Hulme, Manchester M15 5EU          
 Tickets: available to <a href="http://wegottickets.com/wordofwarning" target="_blank">reserve online from Friday 1 February</a>, Pay What You Decide (cash only) in person on the evening.             
 Enquiries: 0161 232 6086 (Word of Warning office)           
