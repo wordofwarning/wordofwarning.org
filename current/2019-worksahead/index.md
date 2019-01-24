@@ -24,7 +24,7 @@ Sample new performance in our annual evening of works in development… With art
         
 #### Venue + Booking Details        
 Dates: Thursday 16 + Friday 17 May 2019, 7.30pm         
-Venue: <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">STUN Studio at Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
+Venue: STUN Studio at <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
 Tickets: available to reserve during April, Pay What You Decide (cash only) in person on the evening.            
 Enquiries: 0161 232 6086 (Word of Warning office)           
         
