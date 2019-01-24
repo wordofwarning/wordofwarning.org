@@ -4,12 +4,12 @@ layout: 2019-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Will Dickie" # the name of the artist or company
+artist: "Jamal Gerald" # the name of the artist or company
 show: "The Rave Space" # the name of the show
 artist_size: 1
 show_size: 2
 header_image: "header_dickie.jpg"    
-season: "Will Dickie 28|2|2019"
+season: "Jamal Gerald 7|6|2019"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,15 +17,13 @@ season: "Will Dickie 28|2|2019"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning       
+*Presented by* Word of Warning*,* Divergency *+* STUN       
          
 #### In Brief      
-A live documentary played out in the dance. A personal story on E's and Euphoria.<br>It's not what you think — this is something you never raved to before.         
-           
-<iframe src="http://player.vimeo.com/video/286189918" width="640" height="360" frameborder="0" allowfullscreen></iframe>            
+Explores the historic experiences of the house and the field slaves; and draws a parallel with contemporary pop culture and attitudes to race.           
          
 #### Venue + Booking Details           
-Date: Thursday 28 February 2019, 8pm (doors open 7.30pm)        
+Date: Friday 7 June 2019, 7.30pm        
 Venue: <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, corner of Chichester Rd/Warwick St, Hulme, Manchester M15 5EU          
 Tickets: available to <a href="http://wegottickets.com/wordofwarning" target="_blank">reserve online from Friday 1 February</a>, Pay What You Decide (cash only) in person on the evening.             
 Enquiries: 0161 232 6086 (Word of Warning office)           
@@ -42,11 +40,11 @@ Will is an artist and performance maker whose solo works have toured the UK + Ir
           
 He also works as an actor, dancer, DJ + director across art forms (recent collaborations include Abigail Conway, Rosana Cade + ZUUK), and works extensively with artists who are learning disabled.        
          
-#### What people have said about *The Rave Space*         
+#### What people have said about him         
 >*…there is more to this than meets the eye and it deserves respect.*<br><a href="http://www.remotegoat.com/uk/review/14140/drumnbass-mash-up-with-personal-overtones/#reviews" target="_blank">★★★★ remotegoat</a><br>*…a brutal encounter with the self. It’s a brave performance, and is an act which jolts you awake.*<br><a href="http://www.ayoungertheatre.com/review-the-rave-space-camden-peoples-theatre" target="_blank">A Younger Theatre</a>       
         
-#### Credits          
-Collaborators: Chris Collins, Dan Canham, Hayley Hill, Mary Langthorne, Peader Kirk, Fabiola Santana | Header image: Suzi Corker Photography<br>Supported using public funding by the National Lottery through Arts Council England.         
+#### Credits ???          
+Commissioned by Transform and Theatre in the Mill; a Works Ahead 2018 seed-commission.<br>Supported using public funding by the National Lottery through Arts Council England.         
          
 #### Websites          
-<a href="http://willdickie.co.uk/TheRaveSpace" target="_blank">willdickie.co.uk</a> | <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a> | <a href="http://www.mixcloud.com/AlwaysWill/rave-space-textures" target="_blank">Rave Space Textures on Mixcloud</a>
+<a href="http://www.jamalgerald.com" target="_blank">www.jamalgerald.com</a> | <a href="http://twitter.com/JamiBoii" target="_blank">@JamiBoii</a>
