@@ -4,12 +4,12 @@ layout: 2019-woah
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "name"
-show: "title"
+artist: "Mark Croasdale"
+show: "Staying In"
 artist_size: 1
-show_size: 2
+show_size: 1
 header_image: ""
-season: "Works Ahead — artist 16+17|5|2019"
+season: "Works Ahead — Mark Croasdale 16+17|5|2019"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,7 +17,7 @@ season: "Works Ahead — artist 16+17|5|2019"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, Contact + STUN<br>*Part of* [Works Ahead 2019](/current/2019-worksahead) *in a double bill with* [artist](/current/2019-worksahead/)               
+*Presented by* Word of Warning, Contact + STUN<br>*Part of* [Works Ahead 2019](/current/2019-worksahead) *in a double bill with* [Avital Raz](/current/2019-worksahead/raz)               
 #### In Brief        
 ***Tagline short copy***          
         
@@ -33,14 +33,14 @@ Age advisory: *tbc*. Duration: the double bill will last up to *how long*, inclu
 #### More              
 ***Further copy.***
           
-#### Who is s/he?             
+#### Who is he?             
 ***Your biog.***        
         
-#### What people have said about her/him/*the show*        
+#### What people have said about him/*the show*        
 >*quote…*<br><a href="http://" target="_blank">by a publication</a>           
           
 #### Credits         
 ***show specific?***<br>[Works Ahead](/hab/worksahead) 2019 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>. Project Mentor: Peader Kirk        
         
 #### Websites         
-<a href="http://" target="_blank">url</a> | <a href="http://twitter.com/" target="_blank">@</a><br><a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
+<a href="http://markcroasdale.com" target="_blank">markcroasdale.com</a> | <a href="http://twitter.com/markcroasdale" target="_blank">@markcroasdale</a><br><a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
