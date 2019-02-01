@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: 2019-woah
+layout: 2019-w
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -8,7 +8,7 @@ artist: "Mark Croasdale"
 show: "Staying In"
 artist_size: 2
 show_size: 1
-header_image: ""
+header_image:
 season: "Works Ahead — Mark Croasdale 16+17|5|2019"
 
 # ABOUT THE SHOW - LAYOUT
