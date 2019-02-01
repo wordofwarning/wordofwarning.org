@@ -756,7 +756,7 @@
 	.woah19 .artist, 
 	.woah19 .show,
 	.woah19 .season
-		{background:#ff7f50; color:#000;}
+		{background:#f88379; color:#000;}
 
 	.woah19 a,
 	.woah19 a:visited,
@@ -765,7 +765,7 @@
 	.woah19 nav a:hover,
 	.woah19 article a:hover,
 	.woah19 footer a:hover
-		{background: #000; color: #ff7f50;}
+		{background: #000; color: #f88379;}
 
 	.woah19 .splash
 		{background:url(../images/header_woah_photo.jpg) center center}
