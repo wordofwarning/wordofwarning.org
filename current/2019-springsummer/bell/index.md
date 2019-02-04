@@ -33,7 +33,7 @@ Tickets: <a href="http://www.thelowry.com/about-us/festivals-projects/take-a-ris
 Box Office Tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
-Age advisory: parental/guardian discretion — contains nudity + swearing. With no interval, the show lasts approximately 1 hour. Features a combination of animation/video, dance/movement, live + pre-recorded amplified sound, and spoken text. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.        
+Age advisory: parental/guardian discretion (contains nudity + swearing). With no interval, the show lasts approximately 1 hour. Features a combination of animation/ video, dance/ movement, live + pre-recorded amplified sound, and spoken text. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.        
              
 #### More         
 What happens when opposing fronts sweep across the shifting landscape of the gendered body? Can we intervene in newly forming identities, or must we surrender to their unpredictability?         
