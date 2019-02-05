@@ -46,7 +46,7 @@ He also works as an actor, dancer, DJ + director across art forms (recent collab
 >*…there is more to this than meets the eye and it deserves respect.*<br><a href="http://www.remotegoat.com/uk/review/14140/drumnbass-mash-up-with-personal-overtones/#reviews" target="_blank">★★★★ remotegoat</a><br>*…a brutal encounter with the self. It’s a brave performance, and is an act which jolts you awake.*<br><a href="http://www.ayoungertheatre.com/review-the-rave-space-camden-peoples-theatre" target="_blank">A Younger Theatre</a>       
         
 #### Credits          
-Collaborators: Chris Collins, Dan Canham, Hayley Hill, Mary Langthorne, Peader Kirk, Fabiola Santana | Header image: Suzi Corker Photography<br>Supported using public funding by the National Lottery through Arts Council England.         
+Collaborators: Chris Collins, Dan Canham, Hayley Hill, Mary Langthorne, Peader Kirk, Fabiola Santana | Header image: Suzi Corker Photography<br>Supported using public funding by the National Lottery through Arts Council England, and by Battersea Arts Centre, Camden People's Theatre, Heart N Soul, Shoreditch Town Hall, South St, ZUUK.         
          
 #### Websites          
 <a href="http://willdickie.co.uk/TheRaveSpace" target="_blank">willdickie.co.uk</a> | <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a> | <a href="http://www.mixcloud.com/AlwaysWill/rave-space-textures" target="_blank">Rave Space Textures on Mixcloud</a>
