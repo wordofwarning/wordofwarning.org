@@ -31,7 +31,7 @@ Tickets: available to <a href="http://wegottickets.com/wordofwarning" target="_b
 Enquiries: 0161 232 6086 (Word of Warning office)           
           
 #### Access Information        
-Age advisory: 18+. A standing event, some seats will be available for access. With no interval, *The Rave Space* lasts approximately 90 minutes and is followed by a DJ set until 11pm (staying/dancing optional!). Features a combination of spoken word, amplified music, flashing lights, with more *tbc*. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: 18+. A standing event, some seats will be available for access. With no interval, *The Rave Space* lasts approximately 90 minutes and is followed by a DJ set until 11pm (staying/dancing optional!). Features a combination of spoken word, amplified music, flashing lights. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
 A 90-minute mix of jungle music, immersive theatre, spoken word, and ritual within a DJ set — *The Rave Space* deconstructs the DJ's role as a status symbol, creating an authentic nightclub experience that is at once intimate and transcendent.
