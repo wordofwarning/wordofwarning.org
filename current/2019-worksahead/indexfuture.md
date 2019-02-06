@@ -20,7 +20,7 @@ season: "Works Ahead 16+17|5|2019"
 *Presented by* Word of Warning, Contact + STUN         
          
 ### Thursday 16 + Friday 17 May 2019, 7.30pm        
-Sample new performance in this double bill of works in development from artists Mark Croasdale + Avital Raz… Get a feel for it with a look at [Works Ahead 2018](/archive/2018-worksahead).        
+Sample new performance from artists Mark Croasdale + Avital Raz in this double bill of works in development… Get a feel for it with a look at [Works Ahead 2018](/archive/2018-worksahead).        
         
 #### Venue + Booking Details        
 Dates: Thursday 16 + Friday 17 May 2019, 7.30pm         
@@ -29,7 +29,7 @@ Tickets: available to reserve during April, Pay What You Decide (cash only) in p
 Enquiries: 0161 232 6086 (Word of Warning office)           
         
 #### Access Information        
-Age advisory: *tbc*. A double bill with an interval; duration + running order *tbc*. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.           
+Age advisory: *tbc*. Shown as double bill with an interval, duration + running order *tbc*. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.           
 
 #### What people have said about Works Ahead        
 >*…evenings like Works Ahead are vital …both [pieces] harness techniques and raise ideas which are truly compelling.*<br><a href="http://www.thestateofthearts.co.uk/features/works-ahead-expect-something-weird-personal-entirely-half-done" target="_blank">The State of The Arts (2018 review)</a>           
@@ -38,7 +38,7 @@ Age advisory: *tbc*. A double bill with an interval; duration + running order *t
 >*• Great to see new work by younger artists.<br>• Brilliant works in progress, varied and interesting.<br>• I enjoyed both shows even though they were very different. I look forward to seeing how they develop.*<br>Audience Feedback         
           
 #### Credits         
-[Works Ahead](/hab/worksahead) 2019 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>. Project Mentor: Peader Kirk        
+[Works Ahead](/hab/worksahead) 2019 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North). Project Mentor: Peader Kirk        
         
 #### Websites         
-<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
+<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a><br><a href="http://markcroasdale.com/staying-in" target="_blank">markcroasdale.com</a> | <a href="http://twitter.com/markcroasdale" target="_blank">@markcroasdale</a><br><a href="http://avitalraz.com" target="_blank">avitalraz.com</a> | <a href="http://twitter.com/avitalraz" target="_blank">@avitalraz</a>
