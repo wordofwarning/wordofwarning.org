@@ -33,5 +33,5 @@ Our **[seventh Works Ahead](/archive/2018-worksahead)** took place in May 2018 a
               
 Our **[eighth Works Ahead](/current/2019-worksahead)** takes place in May 2019 at STUN Studio at Z-arts, with an evening of work to be announced in February.        
         
-[Works Ahead 2019](/current/2019-worksahead) is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>. Project Mentor: Peader Kirk          
+[Works Ahead 2019](/current/2019-worksahead) is co-commissioned/co-produced by [hÅb](/hab), <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North) + <a href="http://contactmcr.com" target="_blank">Contact</a>. Project Mentor: Peader Kirk          
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
