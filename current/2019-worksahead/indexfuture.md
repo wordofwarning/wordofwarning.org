@@ -29,7 +29,7 @@ Tickets: available to reserve during April, Pay What You Decide (cash only) in p
 Enquiries: 0161 232 6086 (Word of Warning office)           
         
 #### Access Information        
-Age advisory: *tbc*. Shown as double bill with an interval, duration + running order *tbc*. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.           
+Age advisory: *tbc*. With an interval, duration + running order are *tbc*. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.           
 
 #### What people have said about Works Ahead        
 >*…evenings like Works Ahead are vital …both [pieces] harness techniques and raise ideas which are truly compelling.*<br><a href="http://www.thestateofthearts.co.uk/features/works-ahead-expect-something-weird-personal-entirely-half-done" target="_blank">The State of The Arts (2018 review)</a>           
