@@ -20,7 +20,7 @@ season: "Works Ahead 16+17|5|2019"
 *Presented by* Word of Warning, Contact + STUN         
          
 ### Thursday 16 + Friday 17 May 2019, 7.30pm        
-Sample new performance from artists Mark Croasdale + Avital Raz in this double bill of works in development… Get a feel for it with a look at [Works Ahead 2018](/archive/2018-worksahead).        
+Our annual sampler of new performance is a double bill of new works in development from Mark Croasdale + Avital Raz… To get a feel for it, have a look at [Works Ahead 2018](/archive/2018-worksahead).        
         
 #### Venue + Booking Details        
 Dates: Thursday 16 + Friday 17 May 2019, 7.30pm         
