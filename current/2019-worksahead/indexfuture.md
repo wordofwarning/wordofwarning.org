@@ -38,7 +38,7 @@ Age advisory: *tbc*. With an interval, the duration + running order are *tbc*. F
 >*• Great to see new work by younger artists.<br>• Brilliant works in progress, varied and interesting.<br>• I enjoyed both shows even though they were very different. I look forward to seeing how they develop.*<br>Audience Feedback         
           
 #### Credits         
-[Works Ahead](/hab/worksahead) 2019 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North). Project Mentor: Peader Kirk        
+[Works Ahead](/hab/worksahead) 2019 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North) + <a href="http://contactmcr.com" target="_blank">Contact</a>. Project Mentor: Peader Kirk        
         
 #### Websites         
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a><br><a href="http://markcroasdale.com/staying-in" target="_blank">markcroasdale.com</a> | <a href="http://twitter.com/markcroasdale" target="_blank">@markcroasdale</a><br><a href="http://avitalraz.com" target="_blank">avitalraz.com</a> | <a href="http://twitter.com/avitalraz" target="_blank">@avitalraz</a>
