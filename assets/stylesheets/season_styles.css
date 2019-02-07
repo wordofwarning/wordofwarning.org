@@ -752,20 +752,20 @@
 /* Works Ahead (2019) trial new coral/orange
 ------------------------------------------------------*/
 		
-	.w19,
-	.w19 .artist, 
-	.w19 .show,
-	.w19 .season
+	.w2019,
+	.w2019 .artist, 
+	.w2019 .show,
+	.w2019 .season
 		{background:#f87068; color:#000;}
 
-	.w19 a,
-	.w19 a:visited,
-	.w19 a:hover
+	.w2019 a,
+	.w2019 a:visited,
+	.w2019 a:hover
 		{color:#000;}
-	.w19 nav a:hover,
-	.w19 article a:hover,
-	.w19 footer a:hover
+	.w2019 nav a:hover,
+	.w2019 article a:hover,
+	.w2019 footer a:hover
 		{background: #000; color: #f87068;}
 
-	.w19 .splash
+	.w2019 .splash
 		{background:url(../images/header_woah_photo.jpg) center center}
