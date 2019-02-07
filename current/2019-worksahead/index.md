@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: 2019-w
+layout: 2019-woah
 rootpath: "../../"
 is_index: true
 
