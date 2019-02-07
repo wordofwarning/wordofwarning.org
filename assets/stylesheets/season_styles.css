@@ -728,7 +728,7 @@
 	.hh2019 .splash
 		{background:url(../images/header_haphazard17.jpg) center center}
 
-/* Works Ahead (2013/14/15/16/17/18) dark red-maroon
+/* Works Ahead (2013/14/15/16/17/18/19) dark red-maroon
 ------------------------------------------------------*/
 		
 	.woah,
@@ -749,23 +749,23 @@
 	.woah .splash
 		{background:url(../images/header_woah_photo.jpg) center center}
 
-/* Works Ahead (2019) trial new colours
+/* Works Ahead (2019) trial new coral/orange
 ------------------------------------------------------*/
 		
-	.woah19,
-	.woah19 .artist, 
-	.woah19 .show,
-	.woah19 .season
-		{background:#ee7766; color:#000;}
+	.w19,
+	.w19 .artist, 
+	.w19 .show,
+	.w19 .season
+		{background:#f87068; color:#000;}
 
-	.woah19 a,
-	.woah19 a:visited,
-	.woah19 a:hover
+	.w19 a,
+	.w19 a:visited,
+	.w19 a:hover
 		{color:#000;}
-	.woah19 nav a:hover,
-	.woah19 article a:hover,
-	.woah19 footer a:hover
-		{background: #000; color: #ee7766;}
+	.w19 nav a:hover,
+	.w19 article a:hover,
+	.w19 footer a:hover
+		{background: #000; color: #f87068;}
 
-	.woah19 .splash
+	.w19 .splash
 		{background:url(../images/header_woah_photo.jpg) center center}
