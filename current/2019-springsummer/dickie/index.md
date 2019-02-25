@@ -33,7 +33,7 @@ Enquiries: 0161 232 6086 (Word of Warning office)
 #### Access Information (*updated Mon 25 Feb*)        
 Age advisory: 18+. A standing event, some seats will be available for access. With no interval, *The Rave Space* lasts approximately 90 minutes and is followed by a DJ set until 11pm (staying/dancing optional!). Features a combination of spoken word, amplified music, flashing lights. Please contact us for specific age + access information: you can get in touch with us by emailing <mailto:info@habmcr.org> or calling 0161 232 6086.           
          
-**Please note**: part of the charm of this event is the surroundings – the faded grandeur of Hulme's NIAMOS – a gently decaying old theatre having life breathed back into it. All that atmosphere comes at a cost – it's a big old unheated building – so please WRAP UP WARM, WEAR LAYERS, and be prepared to get moving.<br>**And**: if you have any access requirements, please do talk to us first and we can try and meet the building's challenges together.           
+**Please note**: part of the charm of this event is the surroundings – the faded grandeur of Hulme's NIAMOS – a gently decaying old theatre having life breathed back into it. All that atmosphere comes at a cost – it's a big old unheated building – so please WRAP UP WARM, WEAR LAYERS, and be prepared to get moving.<br>**Also**: if you have any access requirements, please do talk to us first and we can try and meet the building's challenges together.           
           
 #### More         
 A 90-minute mix of jungle music, immersive theatre, spoken word, and ritual within a DJ set — *The Rave Space* deconstructs the DJ's role as a status symbol, creating an authentic nightclub experience that is at once intimate and transcendent.
