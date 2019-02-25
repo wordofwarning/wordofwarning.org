@@ -27,12 +27,14 @@ A live documentary played out in the dance. A personal story on E's and Euphoria
 #### Venue + Booking Details           
 Date: Thursday 28 February 2019, 8pm (doors open 7.30pm)        
 Venue: <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, corner of Chichester Rd/Warwick St, Hulme, Manchester M15 5EU          
-Tickets: available to <a href="http://wegottickets.com/wordofwarning" target="_blank">book online from Friday 1 February</a>, Pay What You Decide (cash only) in person on the evening.             
+Tickets: available to <a href="http://wegottickets.com/event/462219" target="_blank">book online from Friday 1 February</a>, Pay What You Decide (cash only) in person on the evening.             
 Enquiries: 0161 232 6086 (Word of Warning office)           
           
 #### Access Information        
-Age advisory: 18+. A standing event, some seats will be available for access. With no interval, *The Rave Space* lasts approximately 90 minutes and is followed by a DJ set until 11pm (staying/dancing optional!). Features a combination of spoken word, amplified music, flashing lights. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
-             
+Age advisory: 18+. A standing event, some seats will be available for access. With no interval, *The Rave Space* lasts approximately 90 minutes and is followed by a DJ set until 11pm (staying/dancing optional!). Features a combination of spoken word, amplified music, flashing lights. Please contact us for specific age + access information.      
+
+**Please note**: part of the charm of this event is the surroundings – the faded grandeur of Hulme’s NIAMOS – a gently decaying old theatre having life breathed back into it. All that atmosphere comes at a cost – it’s a big old unheated building – so please WRAP UP WARM, WEAR LAYERS, and be prepared to get moving.<br>**Also** – if you have any access requirements, please do talk to us first and we can try and meet the building’s challenges together.<br>**Finally** – if you find you can't make it, please let us know so someone else can use the ticket.<br>You can get in touch with us by emailing <mailto:info@habmcr.org> or calling 0161 232 6086.                  
+          
 #### More         
 A 90-minute mix of jungle music, immersive theatre, spoken word, and ritual within a DJ set — *The Rave Space* deconstructs the DJ's role as a status symbol, creating an authentic nightclub experience that is at once intimate and transcendent.
     
@@ -46,7 +48,7 @@ He also works as an actor, dancer, DJ + director across art forms (recent collab
 >*…there is more to this than meets the eye and it deserves respect.*<br><a href="http://www.remotegoat.com/uk/review/14140/drumnbass-mash-up-with-personal-overtones/#reviews" target="_blank">★★★★ remotegoat</a><br>*…a brutal encounter with the self. It’s a brave performance, and is an act which jolts you awake.*<br><a href="http://www.ayoungertheatre.com/review-the-rave-space-camden-peoples-theatre" target="_blank">A Younger Theatre</a>       
         
 #### Credits          
-Collaborators: Chris Collins, Dan Canham, Hayley Hill, Mary Langthorne, Peader Kirk, Fabiola Santana | Header image: Suzi Corker Photography<br>Supported using public funding by the National Lottery through Arts Council England, and by Battersea Arts Centre, Camden People's Theatre, Heart N Soul, Shoreditch Town Hall, South St, ZUUK.         
+Collaborators: Chris Collins, Dan Canham, Hayley Hill, Mary Langthorne, Peader Kirk, Fabiola Santana | Header image: Suzi Corker Photography<br>Supported using public funding by the National Lottery through Arts Council England, and by Battersea Arts Centre, Camden People's Theatre, Heart n Soul, Shoreditch Town Hall, South St, ZU-UK.         
          
 #### Websites          
 <a href="http://willdickie.co.uk/TheRaveSpace" target="_blank">willdickie.co.uk</a> | <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a> | <a href="http://www.mixcloud.com/AlwaysWill/rave-space-textures" target="_blank">Rave Space Textures on Mixcloud</a>
