@@ -18,8 +18,11 @@ season: "Works Ahead — Mark Croasdale 16+17|5|2019"
 
 ---
 *Presented by* Word of Warning, Contact + STUN<br>*Part of* [Works Ahead 2019](/current/2019-worksahead) *in a double bill with* [Avital Raz](/current/2019-worksahead/raz)               
+         
 #### In Brief        
-***Tagline short copy***          
+*"Young, gay, fabulous – it's all about being out and going out… isn't it?"*         
+        
+Beset by social anxiety, Mark agonises over how to be a 'good gay' and how to connect with others while being himself – when all he wants is to invite you out… for a good night in.         
         
 #### Venue + Booking Details        
 Dates: Thursday 16 + Friday 17 May 2019, 7.30pm         
@@ -31,10 +34,12 @@ Enquiries: 0161 232 6086 (Word of Warning office)
 Age advisory: *tbc*. Duration: the double bill will last up to *how long*, including an interval (*running order tbc*). For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.           
            
 #### More              
-***Further copy.***
+An exploration of the social pressures impacting young gay men. How to connect when words fail us – can performance be the answer?          
+***Further copy.***         
           
 #### Who is he?             
-***Your biog.***        
+Mark utilises a range of media according to the specific needs, demands and context of each project. His work has spanned various art mediums and consists of visual installations + performance pop-ups including: *Angels In Ancoats*, the immersive audio installation *Anonymous, Sydney*, theatre work including *Lightspeed* + *Blink*, and multidisciplinary works *All About* + *To a Female Artist*. In 2017 he was commissioned by New Trust Art (National Trust), Waterside and Creative Industries Trafford to create the new work Letters From Egypt.         
+***Extra biog.***        
         
 #### What people have said about him/*the show*        
 >*quote…*<br><a href="http://" target="_blank">by a publication</a>           
