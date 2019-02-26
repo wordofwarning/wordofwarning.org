@@ -30,7 +30,7 @@ Venue: <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, corner of C
 Tickets: available to <a href="http://wegottickets.com/event/462219" target="_blank">book online from Friday 1 February</a>, Pay What You Decide (cash only) in person on the evening.<br>**NB**: if you find you can't make it, please let us know so someone else can use the ticket.             
 Enquiries: 0161 232 6086 (Word of Warning office) / 07488 308 111 (on the night)           
           
-#### Access Information (*updated Mon 25 Feb*)        
+#### Access Information (*updated Tue 26 Feb*)        
 Age advisory: 18+. A standing event, some seats will be available for access.<br>With no interval, *The Rave Space* lasts approximately 90 minutes and is followed by a DJ set until 11pm (staying/dancing optional!).<br>Features a combination of spoken word, amplified music, flashing lights.<br>Please contact us for specific age + access information: you can get in touch with us by emailing <mailto:info@habmcr.org> or calling 0161 232 6086 (07488 308 111 on the night).           
          
 **Please note**: part of the charm of this event is the surroundings – the faded grandeur of Hulme's NIAMOS – a gently decaying old theatre having life breathed back into it. All that atmosphere comes at a cost – it's a big old unheated building – so please WRAP UP WARM, WEAR LAYERS, and be prepared to get moving.<br>**Also**: if you have any access requirements, please do talk to us first and we can try and meet the building's challenges together.           
