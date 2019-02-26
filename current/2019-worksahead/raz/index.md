@@ -18,8 +18,11 @@ season: "Works Ahead — Avital Raz 16+17|5|2019"
 
 ---
 *Presented by* Word of Warning, Contact + STUN<br>*Part of* [Works Ahead 2019](/current/2019-worksahead) *in a double bill with* [Mark Croasdale](/current/2019-worksahead/croasdale)               
+         
 #### In Brief        
-***Tagline short copy***          
+A solo performance developed from a song describing a drunken sexual encounter between an Israeli woman and a Palestinian man, broken up and infused with stories of growing up in the turmoil of 80s Israel. Slides, video, and 'news' radio accompany song and storytelling.        
+        
+A nuanced exploration of the politics of division, from internal checkpoints and separation walls to gender norms. Can we go beyond the blame game to really see each other? Surmount divisions imposed by occupation?        
         
 #### Venue + Booking Details        
 Dates: Thursday 16 + Friday 17 May 2019, 7.30pm         
@@ -31,16 +34,17 @@ Enquiries: 0161 232 6086 (Word of Warning office)
 Age advisory: *tbc*. Duration: the double bill will last up to *how long*, including an interval (*running order tbc*). For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.           
            
 #### More              
-***Further copy.***
+Jerusalem-born singer-songwriter Avital Raz has made a name for herself, singing politically engaging, strikingly original and fearless songs. In her first theatre piece, she intertwines songs with stories from her childhood in Israel. Emerging as a distinctive and truly individual voice that speaks with a very real and potent self-expression.         
           
 #### Who is she?             
-***Your biog.***        
+"Funny at times, always feisty and possibly even a bit bonkers" – The Scotland Herald has said of her music – "It is likely to be one of the most compelling things you hear all year."          
+***Extra biog.***        
         
 #### What people have said about her/*the show*        
 >*quote…*<br><a href="http://" target="_blank">by a publication</a>           
           
 #### Credits         
-***show specific?***<br>[Works Ahead](/hab/worksahead) 2019 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>. Project Mentor: Peader Kirk        
+***show specific***<br>[Works Ahead](/hab/worksahead) 2019 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>. Project Mentor: Peader Kirk        
         
 #### Websites         
 <a href="http://avitalraz.com" target="_blank">avitalraz.com</a> | <a href="http://twitter.com/avitalraz" target="_blank">@avitalraz</a><br><a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
