@@ -5,6 +5,8 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency" # the name of the artist or company
+show: "A day out for the curious." # the name of the artist or company
+show_size: 4
 header_image: "header_emergency_photo.jpg"   
 season: "hÅb — Emergency" 
 
@@ -24,6 +26,6 @@ Now that it's over, see our [gallery of images](/galleries/2018-emergency) from 
 • a pay-what-you-decide, public micro-festival + open submission platform;        
 • an opportunity for artists to meet, show, and peer-review work;      
 • a selection event for a number of small [Works Ahead](/hab/worksahead) commissions to be developed + supported by [hÅb](/hab).      
-• Enquiries: <mailto:emergency@habmcr.org> | <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>            
+Enquiries: <mailto:emergency@habmcr.org> | <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>            
          
 [Emergency 2018](/archive/2018-emergency) was presented by [Word of Warning](/), <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a> + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>; produced by [hÅb](/hab).
