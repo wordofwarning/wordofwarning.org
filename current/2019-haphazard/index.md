@@ -21,8 +21,7 @@ season: "Haphazard 27|4|2019"
 ### Saturday 27 April 2019, 12noon-3pm. FREE             
 **Turn up at any time, come and go as you please, and expect the unexpected…**<br>Intriguing images and offbeat oddities dotted around the historic Z-arts building. Playful, quirky, engaging and sometimes plain daft: this is for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out.<br>To get a feel for it, have a look at 2017's [programme](/archive/2017-haphazard) + [images](/galleries/2017-haphazard).         
         
-
-*NB we're welcoming [proposals from artists](/hab/haphazard) until Wednesday 27 February, 5pm.*          
+*NB our deadline (Wed 27 Feb, 5pm) for [artist's proposals](/hab/haphazard) has now passed.*          
          
 #### Venue + Booking Details
 Date: Saturday 27 April 2019, 12noon-3pm      
