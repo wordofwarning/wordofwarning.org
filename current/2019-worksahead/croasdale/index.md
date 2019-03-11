@@ -23,6 +23,7 @@ season: "Works Ahead — Mark Croasdale 16+17|5|2019"
 *"Young, gay, fabulous – it's all about being out and going out… isn't it?"*         
         
 Beset by social anxiety, Mark agonises over how to be a 'good gay' and how to connect with others while being himself – when all he wants is to invite you out… for a good night in.         
+***Is this too much here?***  
         
 #### Venue + Booking Details        
 Dates: Thursday 16 + Friday 17 May 2019, 7.30pm         
@@ -31,21 +32,21 @@ Tickets: available to reserve during April, Pay What You Decide (cash only) in p
 Enquiries: 0161 232 6086 (Word of Warning office)           
         
 #### Access Information        
-Age advisory: *tbc*. Duration: the double bill will last up to *how long*, including an interval (*running order tbc*). For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.           
+Age advisory: ***tbc***. Duration: the double bill will last up to ***how long overall?***, including an interval (*running order tbc*). For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.           
            
 #### More              
 An exploration of the social pressures impacting young gay men. How to connect when words fail us – can performance be the answer?          
-***Further copy.***         
+***Further copy required?***         
           
 #### Who is he?             
 Mark utilises a range of media according to the specific needs, demands and context of each project. His work has spanned various art mediums and consists of visual installations + performance pop-ups including: *Angels In Ancoats*, the immersive audio installation *Anonymous, Sydney*, theatre work including *Lightspeed* + *Blink*, and multidisciplinary works *All About* + *To a Female Artist*. In 2017 he was commissioned by New Trust Art (National Trust), Waterside and Creative Industries Trafford to create the new work Letters From Egypt.         
-***Extra biog.***        
+***Extra biog, or is this enough?***        
         
 #### What people have said about him/*the show*        
->*quote…*<br><a href="http://" target="_blank">by a publication</a>           
+>*do we put any quotes in here…*<br><a href="http://" target="_blank">by a publication</a>           
           
 #### Credits         
-***show specific?***<br>[Works Ahead](/hab/worksahead) 2019 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>. Project Mentor: Peader Kirk        
+***What are the show-specific credits?***<br>[Works Ahead](/hab/worksahead) 2019 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>. Project Mentor: Peader Kirk        
         
 #### Websites         
 <a href="http://markcroasdale.com/staying-in" target="_blank">markcroasdale.com</a> | <a href="http://twitter.com/markcroasdale" target="_blank">@markcroasdale</a><br><a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
