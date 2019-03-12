@@ -34,16 +34,18 @@ Enquiries: 0161 232 6086 (Word of Warning office)
 Age advisory: 18+. Duration: the double bill (with Avital Raz) will last up to a maximum of 2 hours, including an interval (*running order tbc*). For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.           
            
 #### More              
-Exploring the social pressures impacting young gay men, *Staying In* examines identity, anxiety and internalised homophobia through psychology, physical theatre and a good dose of absurdity.<br>How can we connect when words fail us? Can performance be the answer?       
+Exploring the social pressures impacting young gay men, *Staying In* examines identity, anxiety and internalised homophobia through psychology, physical theatre and a good dose of absurdity.        
+        
+How can we connect when words fail us? Can performance be the answer?       
           
 #### Who is he?             
 Made in Manchester, Mark Croasdale is a theatre maker and performance artist interested in human psychology, human history and the humour of being human.         
         
 Mark's practice seeks to fuse different art forms — making unique experiences which surprise, delight and perhaps unnerve audiences. His work includes immersive audio installations (*Anonymous*, Sydney, 2014), theatre (*Blink*, Salford, 2015), and site-specific pop-ups (*Letters From Egypt*, The National Trust, 2017).        
         
-#### What people have said about him        
+#### What people have said about his work        
+>• *Captivating, emotional, I was left wanting more.*<br>• *…no ordinary piece. Not for everyone, but important.*<br>• *…relevant to anyone who's ever felt nervous*<br>Audience Feedback on *Staying In (work-in-progress)*          
 >*…a lively and charming production.*<br><a href="http://www.manchestertheatreawards.com/reviews/813-blink-the-salford-arts-theatre-sal" target="_blank">Manchester Theatre Awards on *Blink*</a>           
->• *Captivating, emotional, I was left wanting more.*<br>• *…no ordinary piece. Not for everyone, but important.*<br>Audience Feedback on work-in-progress of *Staying In*          
           
 #### Credits         
 [Works Ahead](/hab/worksahead) 2019 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>. Project Mentor: Peader Kirk        
