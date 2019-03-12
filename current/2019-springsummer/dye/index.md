@@ -24,7 +24,7 @@ Is innocence sexy? Can infantilism get women what they want? A talcum powder exp
         
 <iframe src="http://player.vimeo.com/video/319703157" width="640" height="360" frameborder="0" allowfullscreen></iframe>        
         
-Read interviews with Katy about *Baby Face* in <a href="http://www.ayoungertheatre.com/wailing-kicking-crying-drooling-is-this-sexy-is-this-really-what-you-want" target="_blank">A Younger Theatre</a>, <a href="http://www.miromagazine.com/theatre/edinburgh-2018-spotlight-baby-face" target="_blank">Miro Magazine</a> + <a href="http://www.theatrebubble.com/2018/07/edinburgh-fringe-2018-interview-with-katy-dye" target="_blank">Theatre Bubble</a>. Read a new ★★★★ review in <a href="http://www.theguardian.com/stage/2019/mar/01/baby-face-review-terrifying-take-on-the-infantilisation-of-women-theatre-deli-sheffield" target="_blank">The Guardian</a> — "*a performance of utter, terrifying commitment.*"                  
+Read interviews with Katy about *Baby Face* in <a href="http://www.ayoungertheatre.com/wailing-kicking-crying-drooling-is-this-sexy-is-this-really-what-you-want" target="_blank">A Younger Theatre</a>, <a href="http://www.miromagazine.com/theatre/edinburgh-2018-spotlight-baby-face" target="_blank">Miro Magazine</a> + <a href="http://www.theatrebubble.com/2018/07/edinburgh-fringe-2018-interview-with-katy-dye" target="_blank">Theatre Bubble</a>. Also read her new ★★★★ review in <a href="http://www.theguardian.com/stage/2019/mar/01/baby-face-review-terrifying-take-on-the-infantilisation-of-women-theatre-deli-sheffield" target="_blank">The Guardian</a> — "*a performance of utter, terrifying commitment.*"                  
         
 #### Venue + Booking Details           
 Date: Wednesday 20 March 2019, 8pm        
