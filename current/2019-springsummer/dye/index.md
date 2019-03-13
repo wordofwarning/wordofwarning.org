@@ -23,7 +23,6 @@ season: "Katy Dye 20|3|2019"
 Is innocence sexy? Can infantilism get women what they want? A talcum powder explosion exploring the fetishisation of the female form and the morality of desire.       
         
 <iframe src="http://player.vimeo.com/video/319703157" width="640" height="360" frameborder="0" allowfullscreen></iframe>        
-        
 <br>        
 Read Katy's new article about *Baby Face* in <a href="http://www.ayoungertheatre.com/wailing-kicking-crying-drooling-is-this-sexy-is-this-really-what-you-want" target="_blank">A Younger Theatre</a>, and her new ★★★★ review in <a href="http://www.theguardian.com/stage/2019/mar/01/baby-face-review-terrifying-take-on-the-infantilisation-of-women-theatre-deli-sheffield" target="_blank">The Guardian</a> — "*a performance of utter, terrifying commitment.*"          
         
