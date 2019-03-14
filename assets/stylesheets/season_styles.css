@@ -756,16 +756,16 @@
 	.w2019 .artist, 
 	.w2019 .show,
 	.w2019 .season
-		{background:#842430; color:#ddd;}
+		{background:#882233; color:#fff;}
 
 	.w2019 a,
 	.w2019 a:visited,
 	.w2019 a:hover
-		{color:#ddd;}
+		{color:#fff;}
 	.w2019 nav a:hover,
 	.w2019 article a:hover,
 	.w2019 footer a:hover
-		{background: #ddd; color: #842430;}
+		{background: #fff; color: #882233;}
 
 	.w2019 .splash
 		{background:url(../images/header_woah_photo.jpg) center center}
