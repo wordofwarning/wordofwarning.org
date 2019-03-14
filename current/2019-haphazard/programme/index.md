@@ -16,12 +16,12 @@ season: "Haphazard programme notes 27|4|2019"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*A free event for the curious of all ages, presented by* Word of Warning *+* Z-arts.       
+*A free day out for the curious of all ages, presented by* Word of Warning *+* Z-arts.       
            
 #### Venue + Booking Details
 Date: Saturday 27 April 2019, 12noon-3pm      
 Venue: <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA        
-Tickets: FREE — no booking required, turn up at any time, come and go as you please…<br>*NB some works might have a limited capacity, with either sign-up sheets on the day or operating on a first-come, first-served basis.*       
+Tickets: FREE — no booking required, turn up at any time, come and go as you please.<br>*NB some works might have a limited capacity, with either sign-up sheets on the day or operating on a first-come, first-served basis.*       
 Tel: 0161 232 6089 (Z-arts)          
         
 #### Activity All Afternoon (*artists subject to change*)        
