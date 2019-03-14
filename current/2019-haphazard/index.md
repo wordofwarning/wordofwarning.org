@@ -20,13 +20,11 @@ season: "Haphazard 27|4|2019"
          
 ### Saturday 27 April 2019, 12noon-3pm. FREE             
 **Turn up at any time, come and go as you please, and expect the unexpected…**<br>Intriguing images and offbeat oddities dotted around the historic Z-arts building. Playful, quirky, engaging and sometimes plain daft: this is for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out.<br>To get a feel for it, have a look at 2017's [programme](/archive/2017-haphazard) + [images](/galleries/2017-haphazard).         
-        
-*NB our deadline (Wed 27 Feb, 5pm) for [artist's proposals](/hab/haphazard) has now passed.*          
          
 #### Venue + Booking Details
 Date: Saturday 27 April 2019, 12noon-3pm      
 Venue: <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA        
-Tickets: no booking required, turn up at any time, come and go as you please.<br>*NB some works might have a limited capacity, with either sign-up sheets on the day or operating on a first-come, first-served basis; participating artists to be announced.*       
+Tickets: FREE — no booking required, turn up at any time, come and go as you please.<br>*NB some works might have a limited capacity, with either sign-up sheets on the day or operating on a first-come, first-served basis; participating artists to be announced.*       
 Tel: 0161 232 6089 (Z-arts)          
         
 #### Access Information            
