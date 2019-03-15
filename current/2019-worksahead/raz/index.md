@@ -20,9 +20,9 @@ season: "Works Ahead — Avital Raz 16+17|5|2019"
 *Presented by* Word of Warning, Contact + STUN *in* [Works Ahead 2019](/current/2019-worksahead) *as a double bill with* [Mark Croasdale](/current/2019-worksahead/croasdale)               
          
 #### In Brief        
-A solo performance from a song describing a drunken sexual encounter between an Israeli woman + a Palestinian man, infused with stories of growing up in the turmoil of 80s Israel.         
-          
-A nuanced exploration of the politics of division, from internal checkpoints and separation walls to gender norms. Can we go beyond the blame game to really see each other?          
+A solo performance derived from a song. The tale of a drunken sexual encounter between an Israeli woman and a Palestinian man, infused with stories of growing up in the turmoil of 80s Israel. A nuanced exploration of the politics of division, from internal checkpoints and separation walls to gender norms.           
+         
+Can we go beyond the blame game to really see each other?          
         
 #### Venue + Booking Details        
 Dates: Thursday 16 + Friday 17 May 2019, 7.30pm         
@@ -43,12 +43,10 @@ A work about Raz's ethnicity + gender, racism, and the underlying fear that perp
 #### Who is she?             
 Jerusalem-born singer-songwriter Avital Raz has made a name for herself, singing politically engaging, strikingly original and fearless songs, to emerge as a distinctive and truly individual voice that speaks with a very real and potent self-expression.       
             
-Avital studied at The School of Visual Theatre in Jerusalem, before embarking on a 20yr career as a singer/songwriter and musician. She studied Indian Classical Music for six years in Varanasi and has taught Indian Classical Singing across the North of England.       
-         
-She has released seven albums of her own music; was commissioned by Brighter Sounds + Manchester Craft and Design Centre to create a work in response to the Verity Howard ceramics exhibition; and, with O'Hooley + Tiddow, by Shrewsbury Folk Festival for *The Passerine* refugee project. She has been performing with Rafiki Jazz for 3 years.        
+Avital studied at The School of Visual Theatre in Jerusalem, before embarking on a 20yr career as a singer/songwriter and musician. She has released seven albums of her own music; and has been performing with Rafiki Jazz for 3 years.        
         
 #### What people have said about her        
->*Funny at times, always feisty and possibly even a bit bonkers. It is likely to be one of the most compelling things you hear all year.…* — The Herald Scotland          
+>*Funny at times, always feisty and possibly even a bit bonkers. It is likely to be one of the most compelling things you hear all year.* — The Herald Scotland          
           
 #### Credits         
 [Works Ahead](/hab/worksahead) 2019 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>. Project Mentor: Peader Kirk        
