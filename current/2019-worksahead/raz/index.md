@@ -34,7 +34,7 @@ Enquiries: 0161 232 6086 (Word of Warning office)
 Age advisory: 18+. Duration: the double bill (with Mark Croasdale) will last up to a maximum of 2 hours, including an interval (*running order tbc*). For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.           
            
 #### More          
->*"Even though I have lived in Israel nearly my entire life, I am constantly questioning my place in the world. Maybe this searching comes from being an artist, maybe it comes from being a Jew. I'm not really sure."* — Chava Alberstein, songwriter.
+>*Even though I have lived in Israel nearly my entire life, I am constantly questioning my place in the world. Maybe this searching comes from being an artist, maybe it comes from being a Jew. I'm not really sure.* — Chava Alberstein, songwriter.
         
 With the escalation in violence after Trump declared Jerusalem to be the Jewish capital; questions of antisemitism in the Labour Party; rising levels of awareness of the Palestinian cause and the negative feelings towards Israel + Israelis that often accompany it — this performance feels very timely.         
          
@@ -43,7 +43,7 @@ A work about Raz's ethnicity + gender, racism, and the underlying fear that perp
 #### Who is she?             
 Jerusalem-born singer-songwriter Avital Raz has made a name for herself, singing politically engaging, strikingly original and fearless songs, to emerge as a distinctive and truly individual voice that speaks with a very real and potent self-expression.       
             
-Avital studied at The School of Visual Theatre in Jerusalem, before embarking on a 20yr career as a singer/songwriter and musician. She has released seven albums of her own music; and has been performing with Rafiki Jazz for 3 years.        
+Avital studied at The School of Visual Theatre in Jerusalem, before embarking on a 20 year career as a singer/songwriter and musician. She has released seven albums of her own music; and has been performing with Rafiki Jazz for three years.        
         
 #### What people have said about her        
 >*Funny at times, always feisty and possibly even a bit bonkers. It is likely to be one of the most compelling things you hear all year.* — The Herald Scotland          
