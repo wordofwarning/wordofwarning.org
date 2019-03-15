@@ -44,8 +44,8 @@ Made in Manchester, Mark Croasdale is a theatre maker and performance artist int
 Mark's practice seeks to fuse different art forms — making unique experiences which surprise, delight and perhaps unnerve audiences. His work includes immersive audio installations (*Anonymous*, Sydney, 2014), theatre (*Blink*, Salford, 2015), and site-specific pop-ups (*Letters From Egypt*, The National Trust, 2017).        
         
 #### What people have said about his work        
->• *Captivating, emotional, I was left wanting more.*<br>• *No ordinary piece. Not for everyone, but important.*<br>• *Relevant to anyone who's ever felt nervous.*<br>— Audience Feedback on *Staying In (work-in-progress)*          
->*…a lively and charming production.*<br>— <a href="http://www.manchestertheatreawards.com/reviews/813-blink-the-salford-arts-theatre-sal" target="_blank">Manchester Theatre Awards on *Blink*</a>           
+>• *Captivating, emotional, I was left wanting more.*<br>• *No ordinary piece. Not for everyone, but important.*<br>• *Relevant to anyone who's ever felt nervous.*<br>Audience Feedback on *Staying In (work-in-progress)*          
+>*A lively and charming production.* — <a href="http://www.manchestertheatreawards.com/reviews/813-blink-the-salford-arts-theatre-sal" target="_blank">Manchester Theatre Awards on *Blink*</a>           
           
 #### Credits         
 [Works Ahead](/hab/worksahead) 2019 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>. Project Mentor: Peader Kirk        
