@@ -20,7 +20,7 @@ season: "Works Ahead — Avital Raz 16+17|5|2019"
 *Presented by* Word of Warning, Contact + STUN *in* [Works Ahead 2019](/current/2019-worksahead) *as a double bill with* [Mark Croasdale](/current/2019-worksahead/croasdale)               
          
 #### In Brief        
-A solo performance derived from a song. The tale of a drunken sexual encounter between an Israeli woman and a Palestinian man, infused with stories of growing up in the turmoil of 80s Israel. A nuanced exploration of the politics of division, from internal checkpoints and separation walls to gender norms.           
+A solo performance derived from a song. A politically charged tale of a drunken one night stand, infused with stories of growing up in the turmoil of 80s Israel. A nuanced exploration of the politics of division, from internal checkpoints and separation walls to gender norms.           
          
 Can we go beyond the blame game to really see each other?          
         
