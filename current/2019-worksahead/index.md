@@ -20,7 +20,7 @@ season: "Works Ahead 16+17|5|2019"
 *Presented by* Word of Warning, Contact + STUN         
          
 ### Thursday 16 + Friday 17 May 2019, 7.30pm        
-Our annual sampler of new performance is a double bill of new works in development from [Mark Croasdale](current/2019-worksahead/croasdale) + [Avital Raz](current/2019-worksahead/raz). Get a feel for Works Ahead with a look at [2018](/archive/2018-worksahead).            
+Our annual sampler of new performance is a double bill of new works in development from [Mark Croasdale](/croasdale) + [Avital Raz](/raz). Get a feel for Works Ahead with a look at [2018](/archive/2018-worksahead).            
                 
 #### Venue + Booking Details        
 Dates: Thursday 16 + Friday 17 May 2019, 7.30pm         
