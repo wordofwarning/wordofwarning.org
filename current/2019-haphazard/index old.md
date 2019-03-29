@@ -20,12 +20,7 @@ season: "Haphazard 27|4|2019"
          
 ### Saturday 27 April 2019, 12noon-3pm. FREE             
 **Turn up at any time, come and go as you please, and expect the unexpected…**<br>Intriguing images and offbeat oddities dotted around the historic Z-arts building. Playful, quirky, engaging and sometimes plain daft: this is for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out.<br>To get a feel for it, have a look at 2017's [programme](/archive/2017-haphazard) + [images](/galleries/2017-haphazard).         
-
-### Artists + Activity, *subject to change*                
-Chrissy Jones | Emily Demetriou + Hector Dyer | Fun Science | Joe Stevens | Julie Burrow | Lady Helena Vortex + Mx Lucille Power | Monsur Mansoor | Natalie Wardle  | Nicola Smith | Powder Keg | YEAP Association                      
-
-*A bubbling symphony of a day - clouds of foam and a balloon-dance in reverse. Pop away your hang-ups, create a magical tree of fantasy creatures or play a game of high-flying paper stakes. Playful shadows, scarecrows with a conscience, a signing musical statue and the hardest working moth in Tinseltown.*       
-
+         
 #### Venue + Booking Details
 Date: Saturday 27 April 2019, 12noon-3pm      
 Venue: <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA        
