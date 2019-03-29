@@ -707,14 +707,14 @@
 	.ss2019 .splash
 		{background:url(../images/header_ss2019wrn.jpg) -150px center}
 
-/* Haphazard 2019 yellow with Chris Sav's fish
+/* Haphazard 2019 new yellow with chimp
 ------------------------------------------------------*/
 
 	.hh2019,
 	.hh2019 .artist, 
 	.hh2019 .show,
 	.hh2019 .season
-		{background:#ffcd05; color:#000;}
+		{background:#febf03; color:#000;}
 
 	.hh2019 a,
 	.hh2019 a:visited,
@@ -723,10 +723,10 @@
 	.hh2019 nav a:hover,
 	.hh2019 article a:hover,
 	.hh2019 footer a:hover
-		{background:#000; color:#ffcd05;}
+		{background:#000; color:#febf03;}
 
 	.hh2019 .splash
-		{background:url(../images/header_haphazard17.jpg) center center}
+		{background:url(../images/header_haphazard19.jpg) center center}
 
 /* Works Ahead (2013/14/15/16/17/18/19) dark red-maroon
 ------------------------------------------------------*/
