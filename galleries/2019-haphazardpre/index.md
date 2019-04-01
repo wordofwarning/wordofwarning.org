@@ -19,7 +19,7 @@ gallery:
     -   {file: "creaturistic.jpg", artist: "YEAP Association", show: "<small>Image: Catherine Jack  </small>"}
     -   {file: "monsur.jpg", artist: "Monsur Mansoor", show: "<small>Image: Katarzyna Perlak  </small>"}
     -   {file: "scarecrows.jpg", artist: "Emily Demetriou + Hector Dyer"}
-    -   {file: "shadowgirl.jpg", artist: "Chrissy Jones", show: "<small>Image: Lizzie Finlay  </small>"}
+    -   {file: "shadowgirl.jpg", artist: "Chrissy Jones", show: "<small>Image: Lizzie Findlay  </small>"}
     -   {file: "balloonarama.jpg", artist: "Lady Helena Vortex + Mx Lucille Power"}
     -   {file: "natalie.jpg", artist: "Natalie Wardle"}
      
