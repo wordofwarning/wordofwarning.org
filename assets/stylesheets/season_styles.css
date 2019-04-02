@@ -735,16 +735,16 @@
 	.hh2019 .artist, 
 	.hh2019 .show,
 	.hh2019 .season
-		{background:#fb1; color:#54b;}
+		{background:#fb3; color:#51a;}
 
 	.hh2019 a,
 	.hh2019 a:visited,
 	.hh2019 a:hover
-		{color:#000;}
+		{color:#51a;}
 	.hh2019 nav a:hover,
 	.hh2019 article a:hover,
 	.hh2019 footer a:hover
-		{background:#54b; color:#fb1;}
+		{background:#51a; color:#fb3;}
 
 	.hh2019 .splash
 		{background:url(../images/header_haphazard19.png) center center}
