@@ -22,9 +22,9 @@ season: "Katy Dye 20|3|2019"
 #### In Brief      
 Is innocence sexy? Can infantilism get women what they want? A talcum powder explosion exploring the fetishisation of the female form and the morality of desire.       
         
-<iframe src="http://player.vimeo.com/video/319703157" width="640" height="360" frameborder="0" allowfullscreen></iframe>        
+Now that it's over, read a ★★★★ review by <a href="http://www.thereviewshub.com/katy-dye-baby-face-the-lowry-salford" target="_blank">The Reviews Hub</a>.        
         
-<br>Read Katy's new article about *Baby Face* in <a href="http://www.ayoungertheatre.com/wailing-kicking-crying-drooling-is-this-sexy-is-this-really-what-you-want" target="_blank">A Younger Theatre</a>, and her new ★★★★ review in <a href="http://www.theguardian.com/stage/2019/mar/01/baby-face-review-terrifying-take-on-the-infantilisation-of-women-theatre-deli-sheffield" target="_blank">The Guardian</a> — "*a performance of utter, terrifying commitment.*"          
+<iframe src="http://player.vimeo.com/video/319703157" width="640" height="360" frameborder="0" allowfullscreen></iframe><br>Read Katy's latest article about *Baby Face* in <a href="http://www.ayoungertheatre.com/wailing-kicking-crying-drooling-is-this-sexy-is-this-really-what-you-want" target="_blank">A Younger Theatre</a>, and her recent ★★★★ review in <a href="http://www.theguardian.com/stage/2019/mar/01/baby-face-review-terrifying-take-on-the-infantilisation-of-women-theatre-deli-sheffield" target="_blank">The Guardian</a> — "*a performance of utter, terrifying commitment.*"          
         
 #### Venue + Booking Details           
 Date: Wednesday 20 March 2019, 8pm        
