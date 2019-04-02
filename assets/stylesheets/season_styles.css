@@ -554,7 +554,7 @@
 	.s2017 .splash
 		{background:url(../images/header_2017SprWrn_leaf.jpg) -150px center}
 
-/* Haphazard 2017 yellow
+/* Haphazard 2017 yellow fish
 ------------------------------------------------------*/
 
 	.hh2017,
@@ -707,14 +707,14 @@
 	.ss2019 .splash
 		{background:url(../images/header_ss2019wrn.jpg) -150px center}
 
-/* Haphazard 2019 new yellow with chimp
+/* Haphazard 2019 yellow + purple chimp
 ------------------------------------------------------*/
 
 	.hh2019,
 	.hh2019 .artist, 
 	.hh2019 .show,
 	.hh2019 .season
-		{background:#febf03; color:#000;}
+		{background:#fc1; color:#65c;}
 
 	.hh2019 a,
 	.hh2019 a:visited,
@@ -723,12 +723,12 @@
 	.hh2019 nav a:hover,
 	.hh2019 article a:hover,
 	.hh2019 footer a:hover
-		{background:#000; color:#febf03;}
+		{background:#65c; color:#fc1;}
 
 	.hh2019 .splash
 		{background:url(../images/header_haphazard19.png) center center}
 
-/* Works Ahead (2013/14/15/16/17/18/19) dark red-maroon
+/* Works Ahead 2013/14/15/16/17/18 maroon
 ------------------------------------------------------*/
 		
 	.woah,
@@ -749,14 +749,14 @@
 	.woah .splash
 		{background:url(../images/header_woah_photo.jpg) center center}
 
-/* Works Ahead (2019) purpleish
+/* Works Ahead 2019 berry
 ------------------------------------------------------*/
 		
 	.w2019,
 	.w2019 .artist, 
 	.w2019 .show,
 	.w2019 .season
-		{background:#772233; color:#fff;}
+		{background:#723; color:#fff;}
 
 	.w2019 a,
 	.w2019 a:visited,
@@ -765,7 +765,7 @@
 	.w2019 nav a:hover,
 	.w2019 article a:hover,
 	.w2019 footer a:hover
-		{background: #fff; color: #772233;}
+		{background: #fff; color: #723;}
 
 	.w2019 .splash
 		{background:url(../images/header_woah_photo.jpg) center center}
