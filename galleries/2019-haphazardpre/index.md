@@ -14,7 +14,7 @@ gallery:
     -   {file: "titlepage.jpg", artist: "A free day out for the curious of all ages, Sat 27 Apr at Z-arts.", show: "<small>Image: Catherine Jack for YEAP Association</small>"}
     -   {file: "funscience.jpg", artist: "Fun Science"}
     -   {file: "burrow.jpg", artist: "Julie Burrow"}
-    -   {file: "flight_club.jpg", artist: "Flight Club"} 
+    -   {file: "flight_club.jpg", artist: "Flight Club", show: "<small>Image: Exit Productions  </small>"} 
     -   {file: "nicola_smith.jpg", artist: "Nicola Smith", show: "<small>Image: Dave Barton  </small>"}
     -   {file: "creaturistic.jpg", artist: "YEAP Association", show: "<small>Image: Catherine Jack  </small>"}
     -   {file: "monsur.jpg", artist: "Monsur Mansoor", show: "<small>Image: Katarzyna Perlak  </small>"}
