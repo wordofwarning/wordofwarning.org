@@ -638,6 +638,27 @@
 	.ss2018 .splash
 		{background:url(../images/header_ss2016wrnhaz.jpg) -150px center}
 
+/* Works Ahead 2013-2018 maroon
+------------------------------------------------------*/
+		
+	.woah,
+	.woah .artist, 
+	.woah .show,
+	.woah .season
+		{background:#400; color:#fff;}
+
+	.woah a,
+	.woah a:visited,
+	.woah a:hover
+		{color:#fff;}
+	.woah nav a:hover,
+	.woah article a:hover,
+	.woah footer a:hover
+		{background: #fff; color: #400;}
+
+	.woah .splash
+		{background:url(../images/header_woah_photo.jpg) center center}
+
 /* Hazard 2018 yellow with white diagonals + SG cartoon strip
 ------------------------------------------------------*/
 
@@ -714,7 +735,7 @@
 	.hh2019 .artist, 
 	.hh2019 .show,
 	.hh2019 .season
-		{background:#fc1; color:#65c;}
+		{background:#fb1; color:#54b;}
 
 	.hh2019 a,
 	.hh2019 a:visited,
@@ -723,31 +744,10 @@
 	.hh2019 nav a:hover,
 	.hh2019 article a:hover,
 	.hh2019 footer a:hover
-		{background:#65c; color:#fc1;}
+		{background:#54b; color:#fb1;}
 
 	.hh2019 .splash
 		{background:url(../images/header_haphazard19.png) center center}
-
-/* Works Ahead 2013/14/15/16/17/18 maroon
-------------------------------------------------------*/
-		
-	.woah,
-	.woah .artist, 
-	.woah .show,
-	.woah .season
-		{background:#400; color:#fff;}
-
-	.woah a,
-	.woah a:visited,
-	.woah a:hover
-		{color:#fff;}
-	.woah nav a:hover,
-	.woah article a:hover,
-	.woah footer a:hover
-		{background: #fff; color: #400;}
-
-	.woah .splash
-		{background:url(../images/header_woah_photo.jpg) center center}
 
 /* Works Ahead 2019 berry
 ------------------------------------------------------*/
