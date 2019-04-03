@@ -26,8 +26,6 @@ Chrissy Jones | Emily Demetriou + Hector Dyer | Fun Science | Joe Stevens | Juli
            
 *A bubbling symphony of a day — clouds of foam and a balloon-dance in reverse. Pop away your hang-ups, create a magical tree of fantasy creatures or play a game of high-flying paper stakes. Playful shadows, scarecrows with a conscience, a signing musical statue, and the hardest working moth in Tinseltown.*       
            
-See our [gallery of images](/galleries/2018-emergency) + [programme](/archive/2017-haphazard) from 2017, or delve further with a look at 2016's [images](/galleries/2016-haphazard) + [programme](/archive/2016-haphazard), 2015's [images](/galleries/2015-haphazard) + [programme](/archive/2015-haphazard), 2013's [images](/galleries//2013-haphazard) + [programme](/archive/2013-spring/haphazard).         
-          
 #### Venue + Booking Details
 Date: Saturday 27 April 2019, 12noon-3pm      
 Venue: <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA        
