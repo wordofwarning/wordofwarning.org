@@ -74,4 +74,4 @@ Be creaturistic, explore your imagination and be an artist for the day. Let your
 [Haphazard](/hab/haphazard) 2019 is produced by [hÅb](/hab) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>. | Image: Catherine Jack for YEAP Association        
          
 #### Websites        
-<a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | <a href="http://twitter.com/hashtag/HaphazardMcr" target="_blank">#HaphazardMcr</a> | <a href="http://facebook.com/events/647987405657373" target="_blank">haphazardmcr.org</a>         
+<a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | <a href="http://twitter.com/hashtag/HaphazardMcr" target="_blank">#HaphazardMcr</a> | <a href="http://facebook.com/events/647987405657373" target="_blank">Facebook event<a>  
