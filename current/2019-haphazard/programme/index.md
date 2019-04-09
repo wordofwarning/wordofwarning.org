@@ -27,7 +27,7 @@ Tel: 0161 232 6089 (Z-arts)
 ### Artists + Activity (subject to change)                
 **Chrissy Jones | *Shadow Girl***         
 There once was a girl who was afraid of people. Every hurtful word they said chipped away a little bit more of her light… until *Shadow Girl* was born! An impish super hero, righting wrongs and making the world a little bit safer for everyone to be visible. A playful exploration of visibility and vulnerability and a stand against disability hate crime. Chrissy is a member of Proud & Loud Arts.<br>Performers: Chrissy Carol Jones + Darryl Duncan. Produced by Proud & Loud Arts.         
-<a href="http://www.proudandloudarts.com" target="_blank">www.proudandloudarts.com</a> | <a href="http://facebook.com/proudandloudarts" target="_blank">Proud & Loud Arts on Facebook</a> | <a href="http://twitter.com/proudandloudart" target="_blank">@proudandloudart</a> | <a href="http://twitter.com/xxchrissy4evaxx " target="_blank">@xxchrissy4evaxx </a>         
+<a href="http://www.proudandloudarts.com" target="_blank">www.proudandloudarts.com</a> | <a href="http://facebook.com/proudandloudarts" target="_blank">Proud & Loud Arts on Facebook</a> | <a href="http://twitter.com/proudandloudart" target="_blank">@proudandloudart</a>         
         
 **Emily Demetriou + Hector Dyer | *The Heat Beneath My Straw Feet***         
 They’ve been standing in the fields for longer than anyone can remember, so what have scarecrows seen and what do they know is coming? The air tastes of chemicals, the trees are sick and there are no birds to scare away. If the scarecrows came to life, what message would they leave?           
@@ -58,11 +58,11 @@ Popping away body insecurities one pop at a time… a playful deflation of false
 <a href="http://www.nataliewardle.com" target="_blank">www.nataliewardle.com</a> | <a href="http://facebook.com/nataliewardlephotography" target="_blank">Natalie Wardle on Facebook</a> | <a href="http://twitter.com/nashywardle" target="_blank">@nashywardle</a>          
            
 **Nicola Smith | *Unknown Statue (workshop & performance)***             
-*Unknown Statue* needs you to play a game of musical statues. Come along, move, and sign along to the beat. This workshop & performance is Makaton-signed, all welcome.<br>Nicola was awarded the a-n Artist Bursary to support integrating Makaton language into her performance work. Photography: Dave Barton              
+*Unknown Statue* needs you to play a game of musical statues. Come along, move, and sign along to the beat. This workshop & performance is Makaton-signed, all welcome.<br>Nicola was awarded the a-n Artist Bursary to support integrating Makaton language into her performance work. Photography by Dave Barton.              
 <a href="http://nsartist.myportfolio.com" target="_blank">nsartist.myportfolio.com</a> | <a href="http://twitter.com/nsartist34" target="_blank">@nsartist34</a>          
            
 **Powder Keg | *Today we truant, today we strike***           
-On Friday 15 February 2019, students from schools across England took part in a school strike to protest the government's lack of action on climate change. This proactive demand for government accountability was dismissed as 'truanting'. *Today we truant, today we strike* is a response to that reaction: a celebration of what we stand for, and a dress rehearsal protest for future generations.<br>Pop into to make a sign/placard and then join us at 2.45pm as we march through Z-arts. Demand the future.<br>Facilitators: Jake Walton, Josh Coates + Ross McCaffrey           
+On Friday 15 February 2019, students from schools across England took part in a school strike to protest the government's lack of action on climate change. This proactive demand for government accountability was dismissed as 'truanting'. *Today we truant, today we strike* is a response to that reaction: a celebration of what we stand for, and a dress rehearsal protest for future generations. Pop into to make a sign/placard and then join us at 2.45pm as we march through Z-arts. Demand the future.<br>Facilitators: Jake Walton, Josh Coates + Ross McCaffrey           
 <a href="http://www.proudandloudarts.com" target="_blank">www.proudandloudarts.com</a> | <a href="http://facebook.com/PowderKegMCR" target="_blank">Powder Keg on Facebook</a> | <a href="http://twitter.com/PowderKeg_" target="_blank">@PowderKeg_</a>            
            
 **YEAP Association | *CREATURISTIC!***           
