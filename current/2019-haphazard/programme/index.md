@@ -39,7 +39,7 @@ Makeshift cloud-building machines cobbled together from water bottles, bungee ro
         
 **Joe Stevens | *FLIGHT CLUB***         
 A high-flying, high-scoring game of paper planes. Three hundred planes and two teams – do you know the first rule of *Flight Club*?         
-<a href="http://wineworld82.wordpress.com" target="_blank">wineworld82.wordpress.com</a> | <a href="http://twitter.com/proudandloudart" target="_blank">@winegames82</a>        
+<a href="http://wineworld82.wordpress.com" target="_blank">wineworld82.wordpress.com</a> | <a href="http://twitter.com/winegames82" target="_blank">@winegames82</a>        
          
 **Julie Burrow | *An Evening With Rosy Maple***           
 Rosy Maple, the hardest working moth in Tinseltown, spills the beans on her glittering showbiz career. This sassy, bug-eyed starlet of yesteryear regales lucky audiences with half-remembered tales and semi-settled grudges. There’ll be a half-eaten costume, a six-legged dance, and rapturous applause (by any means necessary).             
