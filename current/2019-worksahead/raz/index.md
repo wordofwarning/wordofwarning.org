@@ -27,7 +27,8 @@ Can we go beyond the blame game to really see each other?
 #### Venue + Booking Details        
 Dates: Thursday 16 + Friday 17 May 2019, 7.30pm         
 Venue: STUN Studio at <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
-Tickets: available to reserve from Tuesday 16 April, Pay What You Decide (cash only) in person on the evening.            
+Tickets: <a href="http://contactmcr.com/shows/works-ahead-2019" target="_blank">available to reserve via Contact</a>, Pay What You Decide (cash only) in person on the evening.            
+Box Office tel: 0161 274 0600 (Contact, weekdays 10am–6pm)             
 Enquiries: 0161 232 6086 (Word of Warning office)           
         
 #### Access Information        
