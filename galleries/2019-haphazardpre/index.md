@@ -21,7 +21,6 @@ gallery:
     -   {file: "scarecrows.jpg", artist: "Emily Demetriou + Hector Dyer"}
     -   {file: "shadowgirl.jpg", artist: "Chrissy Jones", show: "<small>Image: Lizzie Findlay  </small>"}
     -   {file: "balloonarama.jpg", artist: "Lady Helena Vortex + Mx Lucille Power"}
-    -   {file: "powderkeg.jpg", artist: "Powder Keg"}
     -   {file: "natalie.jpg", artist: "Natalie Wardle"}
      
 ---
