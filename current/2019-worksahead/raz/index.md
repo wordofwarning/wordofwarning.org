@@ -8,7 +8,7 @@ artist: "Avital Raz"
 show: "My Jerusalem"
 artist_size: 1
 show_size: 2
-header_image:
+header_image: "header_raz.jpg"
 season: "Works Ahead — Avital Raz 16+17|5|2019"
 
 # ABOUT THE SHOW - LAYOUT

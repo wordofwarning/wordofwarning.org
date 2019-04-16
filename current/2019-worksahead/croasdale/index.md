@@ -8,7 +8,7 @@ artist: "Mark Croasdale"
 show: "Staying In"
 artist_size: 2
 show_size: 1
-header_image:
+header_image: "header_croasdale.jpg"
 season: "Works Ahead — Mark Croasdale 16+17|5|2019"
 
 # ABOUT THE SHOW - LAYOUT
