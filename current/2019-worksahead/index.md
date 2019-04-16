@@ -25,9 +25,9 @@ Our annual sampler of new performance is a double bill of new works in developme
 #### Venue + Booking Details        
 Dates: Thursday 16 + Friday 17 May 2019, 7.30pm         
 Venue: STUN Studio at <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
-Tickets: <a href="http://contactmcr.com/shows/works-ahead-2019" target="_blank">available to reserve from Tuesday 16 April via Contact</a>, Pay What You Decide (cash only) in person on the evening at STUN Studio.            
-Box Office enquiries: 0161 274 0600 (Contact, weekdays 10am–6pm)
-Other enquiries: 0161 232 6086 (Word of Warning office)           
+Tickets: <a href="http://contactmcr.com/shows/works-ahead-2019" target="_blank">available to reserve via Contact</a>, Pay What You Decide (cash only) in person on the evening.            
+Box Office tel: 0161 274 0600 (Contact, weekdays 10am–6pm)             
+Enquiries: 0161 232 6086 (Word of Warning office)           
         
 #### Access Information        
 Age advisory: 18+. Duration: the double bill will last up to a maximum of 2 hours, including an interval (*running order tbc*). For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.           
