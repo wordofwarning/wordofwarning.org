@@ -63,7 +63,7 @@ Popping away body insecurities one pop at a time… a playful deflation of false
            
 **Powder Keg | *Today we truant, today we strike***           
 On Friday 15 February 2019, students from schools across England took part in a school strike to protest the government's lack of action on climate change. This proactive demand for government accountability was dismissed as 'truanting'. *Today we truant, today we strike* is a response to that reaction: a celebration of what we stand for, and a dress rehearsal protest for future generations. Pop into to make a sign/placard and then join us at 2.45pm as we march through Z-arts. Demand the future.<br>Facilitators: Jake Walton, Josh Coates + Ross McCaffrey           
-<a href="http://www.proudandloudarts.com" target="_blank">www.proudandloudarts.com</a> | <a href="http://facebook.com/PowderKegMCR" target="_blank">Powder Keg on Facebook</a> | <a href="http://twitter.com/PowderKeg_" target="_blank">@PowderKeg_</a>            
+<a href="http://facebook.com/PowderKegMCR" target="_blank">Powder Keg on Facebook</a> | <a href="http://twitter.com/PowderKeg_" target="_blank">@PowderKeg_</a>            
            
 **YEAP Association | *CREATURISTIC!***           
 What's your fantasy animal? A flying chimp with butterfly wings? Or a cow with the head of a peacock? Satyr, faun, or chimera? 
