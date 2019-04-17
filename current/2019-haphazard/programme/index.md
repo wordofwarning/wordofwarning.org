@@ -16,7 +16,7 @@ season: "Haphazard programme notes 27|4|2019"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*A free day out for the curious of all ages, presented by* Word of Warning *+* Z-arts.       
+*[A free day out for the curious of all ages](/current/2019-haphazard), presented by* Word of Warning *+* Z-arts.       
            
 ### Venue + Booking Details
 Date: Saturday 27 April 2019, 12noon-3pm      
@@ -74,4 +74,4 @@ Be creaturistic, explore your imagination and be an artist for the day. Let your
 [Haphazard](/hab/haphazard) 2019 is produced by [hÅb](/hab) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>. | Image: Catherine Jack for YEAP Association        
          
 #### Websites        
-<a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | <a href="http://twitter.com/hashtag/HaphazardMcr" target="_blank">#HaphazardMcr</a> | <a href="http://facebook.com/events/647987405657373" target="_blank">Facebook event<a>  
+<a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> | <a href="http://twitter.com/hashtag/HaphazardMcr" target="_blank">#HaphazardMcr</a> | <a href="http://facebook.com/events/647987405657373" target="_blank">Facebook event<a>
