@@ -40,7 +40,9 @@ Age advisory: suitable for ALL. The works in Haphazard 2019 take place in a numb
 >• *Bizarre surreal fun. Creative. Very interactive. Unpredicatable.*<br>• *Quirky performances, lots going on. First-timer here, would come back.*<br>• *Better than Shrek the Musical… freedom to explore & children to play. Brilliant!*<br>[Audience Feedback from 2016](/archive/2016-haphazard)        
 >• *Absolutely brilliant, for kids and grown ups.*<br>• *We liked the drop-in, continuous feel, like you weren't missing stuff.*<br>• *Loved the way the event uses the whole space. Wacky and creative fun!*<br>[Audience Feedback from 2015](/archive/2015-haphazard)         
 >• *Great! Everyone was energetic & friendly — very easy to interact with!*<br>• *Suitably crazy & surreal for children and their grown-ups*.<br>• *Really enjoyed the event and it's particularly nice to experience something a bit different, especially as adults, it is quite eye-popping…*<br>[Audience Feedback from 2013](/archive/2013-spring/haphazard)         
-            
+           
+Haphazard 2019 is recommended by <a href="https://www.creativetourist.com/event/haphazard" target="_blank">Creative Tourist</a>.           
+         
 #### Credits         
 [Haphazard](/hab/haphazard) 2019 is produced by [hÅb](/hab) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>. | Image: Catherine Jack for YEAP Association     
          
