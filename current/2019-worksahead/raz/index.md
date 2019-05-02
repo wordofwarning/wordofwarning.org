@@ -24,8 +24,8 @@ A solo performance derived from a song. A politically charged tale of a drunken 
          
 Can we go beyond the blame game to really see each other?          
         
-<iframe src="http://youtu.be/RLatgqYzc-o" width="640" height="360" frameborder="0" allowfullscreen></iframe>         
-           
+<iframe width="640" height="360" src="http://www.youtube.com/embed/RLatgqYzc-o" frameborder="0" allowfullscreen></iframe>
+          
 #### Venue + Booking Details        
 Dates: Thursday 16 + Friday 17 May 2019, 7.30pm         
 Venue: STUN Studio at <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
