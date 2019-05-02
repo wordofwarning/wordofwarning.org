@@ -24,6 +24,8 @@ A solo performance derived from a song. A politically charged tale of a drunken 
          
 Can we go beyond the blame game to really see each other?          
         
+<iframe src="http://youtu.be/RLatgqYzc-o" width="640" height="360" frameborder="0" allowfullscreen></iframe>         
+           
 #### Venue + Booking Details        
 Dates: Thursday 16 + Friday 17 May 2019, 7.30pm         
 Venue: STUN Studio at <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
@@ -48,6 +50,8 @@ Avital studied at The School of Visual Theatre in Jerusalem, before embarking on
         
 #### What people have said about her        
 >*Funny at times, always feisty and possibly even a bit bonkers. It is likely to be one of the most compelling things you hear all year.* — The Herald Scotland          
+          
+*My Jerusalem* is previewed by <a href="http://www.jewishrenaissance.org.uk/blog/my-jerusalem" target="_blank">Jewish Renaissance</a>.          
           
 #### Credits         
 [Works Ahead](/hab/worksahead) 2019 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>. Project Mentor: Peader Kirk        
