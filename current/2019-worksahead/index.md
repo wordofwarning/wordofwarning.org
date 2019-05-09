@@ -28,7 +28,7 @@ Our annual sampler of new performance is a double bill of new works in developme
 Dates: Thursday 16 + Friday 17 May 2019, 7.30pm         
 Venue: STUN Studio at <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
 Tickets: <a href="http://contactmcr.com/shows/works-ahead-2019" target="_blank">available to reserve via Contact</a>, Pay What You Decide (cash only) in person on the evening.            
-Box Office tel: 0161 274 0600 (Contact, weekdays 10am–6pm)             
+Box Office tel: 0161 274 0600 (Contact, weekdays 10am–6pm)<br>*NB online booking closes at 5pm before each night, with in-person booking available from 6.30pm at STUN*              
 Enquiries: 0161 232 6086 (Word of Warning office)           
         
 #### Access Information        
