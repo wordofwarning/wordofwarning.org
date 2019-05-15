@@ -32,7 +32,7 @@ Box Office tel: 0161 274 0600 (Contact, weekdays 10am–6pm) *NB on 16+17 May, o
 Enquiries: 0161 232 6086 (Word of Warning office)           
         
 #### Access Information        
-Age advisory: 18+. Duration: the double bill will last up to a maximum of 2 hours, including an interval (*running order tbc*). For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.           
+Age advisory: 18+  Duration: the double bill will last up to a maximum of 2 hours, including an interval. Both works are largely spoken English and deal with adults themes, the content of which some may find disturbing. There is some use of flashing light and glycerine vapour. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.           
 
 #### What people have said about previous Works Ahead        
 >*…evenings like Works Ahead are vital …both [pieces] harness techniques and raise ideas which are truly compelling.*<br><a href="http://www.thestateofthearts.co.uk/features/works-ahead-expect-something-weird-personal-entirely-half-done" target="_blank">The State of The Arts (2018 review)</a>           
