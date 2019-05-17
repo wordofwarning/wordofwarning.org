@@ -28,12 +28,12 @@ Fuelled by internalised homophobia and beset by social anxiety, Mark agonises ov
 Dates: Thursday 16 + Friday 17 May 2019, 7.30pm         
 Venue: STUN Studio at <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
 Tickets: <a href="http://contactmcr.com/shows/works-ahead-2019" target="_blank">available to reserve via Contact</a>, Pay What You Decide (cash only) in person on the evening.            
-Box Office tel: 0161 274 0600 (Contact, weekdays 10am–6pm) *NB on 16+17 May, online booking closes at 5pm, with in-person booking available from 6.30pm at STUN Studio.*              
+Box Office tel: 0161 274 0600 (Contact, weekdays 10am–6pm) *NB: on 16+17 May, online booking closes at 5pm, with in-person booking available from 6.30pm at STUN Studio.*              
 Enquiries: 0161 232 6086 (Word of Warning office)           
         
 #### Access Information        
-Age advisory: 18+ Duration: the double bill will last up to a maximum of 2 hours, including an interval. Both works are largely spoken English and deal with adults themes, the content of which some may find disturbing. There is some use of flashing light and glycerine vapour. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.           
-           
+**PLEASE NOTE: both works contain adult themes, the content of which may cause distress — please speak to a member of Word of Warning or Contact front of house staff before the event if you have any concerns.**<br>Age advisory: 18+  Duration: the double bill will last up to a maximum of 2 hours, including an interval. Both works are largely spoken English; there is some use of flashing light and glycerine vapour. For specific age and access information before the event please email <mailto:info@habmcr.org> or call 0161 232 6086.          
+            
 #### More              
 Exploring the social pressures impacting young gay men, *Staying In* examines identity, anxiety and internalised homophobia through psychology, physical theatre and a good dose of absurdity.        
         
@@ -49,7 +49,7 @@ Mark's practice seeks to fuse different art forms — making unique experiences 
 >*A lively and charming production.* — <a href="http://www.manchestertheatreawards.com/reviews/813-blink-the-salford-arts-theatre-sal" target="_blank">Manchester Theatre Awards on *Blink*</a>           
           
 #### Credits         
-[Works Ahead](/hab/worksahead) 2019 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>. Project Mentor: Peader Kirk        
+*Staying In* is supported using public funding by the National Lottery through Arts Council England. Thanks to Anthony Gray + Tom Hogan.<br>[Works Ahead](/hab/worksahead) 2019 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>. Project Mentor: Peader Kirk        
         
 #### Websites         
 <a href="http://markcroasdale.com/staying-in" target="_blank">markcroasdale.com</a> | <a href="http://twitter.com/markcroasdale" target="_blank">@markcroasdale</a><br><a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
