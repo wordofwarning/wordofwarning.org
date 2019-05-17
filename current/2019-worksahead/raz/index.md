@@ -30,11 +30,11 @@ Can we go beyond the blame game to really see each other?
 Dates: Thursday 16 + Friday 17 May 2019, 7.30pm         
 Venue: STUN Studio at <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
 Tickets: <a href="http://contactmcr.com/shows/works-ahead-2019" target="_blank">available to reserve via Contact</a>, Pay What You Decide (cash only) in person on the evening.            
-Box Office tel: 0161 274 0600 (Contact, weekdays 10am–6pm) *NB on 16+17 May, online booking closes at 5pm, with in-person booking available from 6.30pm at STUN Studio.*              
+Box Office tel: 0161 274 0600 (Contact, weekdays 10am–6pm) *NB: on 16+17 May, online booking closes at 5pm, with in-person booking available from 6.30pm at STUN Studio.*              
 Enquiries: 0161 232 6086 (Word of Warning office)           
         
 #### Access Information        
-Age advisory: 18+ Duration: the double bill will last up to a maximum of 2 hours, including an interval. Both works are largely spoken English and deal with adults themes, the content of which some may find disturbing. There is some use of flashing light and glycerine vapour. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.           
+**PLEASE NOTE: both works contain adult themes, the content of which some may find disturbing or cause distress — please speak to a member of Word of Warning or Contact front of house staff before the event if you have any concerns.**<br>Age advisory: 18+  Duration: the double bill will last up to a maximum of 2 hours, including an interval. Both works are largely spoken English; there is some use of flashing light and glycerine vapour. For specific age and access information before the event please email <mailto:info@habmcr.org> or call 0161 232 6086.             
            
 #### More          
 >*Even though I have lived in Israel nearly my entire life, I am constantly questioning my place in the world. Maybe this searching comes from being an artist, maybe it comes from being a Jew. I'm not really sure.* — Chava Alberstein, songwriter.
@@ -54,7 +54,7 @@ Avital studied at The School of Visual Theatre in Jerusalem, before embarking on
 *My Jerusalem* is previewed by <a href="http://www.jewishrenaissance.org.uk/blog/my-jerusalem" target="_blank">Jewish Renaissance</a>.          
           
 #### Credits         
-[Works Ahead](/hab/worksahead) 2019 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>. Project Mentor: Peader Kirk        
+Video: Chris Davis | Photography: Jimmy McBroom<br>*My Jerusalem* is supported using public funding by the National Lottery through Arts Council England. Thanks to Dani Abulhawa.<br>[Works Ahead](/hab/worksahead) 2019 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://contactmcr.com" target="_blank">Contact</a> + <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>. Project Mentor: Peader Kirk        
         
 #### Websites         
 <a href="http://avitalraz.com" target="_blank">avitalraz.com</a> | <a href="http://twitter.com/avitalraz" target="_blank">@avitalraz</a><br><a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
