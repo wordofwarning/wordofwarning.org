@@ -28,11 +28,11 @@ Our annual sampler of new performance is a double bill of new works in developme
 Dates: Thursday 16 + Friday 17 May 2019, 7.30pm         
 Venue: STUN Studio at <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
 Tickets: <a href="http://contactmcr.com/shows/works-ahead-2019" target="_blank">available to reserve via Contact</a>, Pay What You Decide (cash only) in person on the evening.            
-Box Office tel: 0161 274 0600 (Contact, weekdays 10am–6pm) *NB on 16+17 May, online booking closes at 5pm, with in-person booking available from 6.30pm at STUN Studio.*              
+Box Office tel: 0161 274 0600 (Contact, weekdays 10am–6pm) *NB: on 16+17 May, online booking closes at 5pm, with in-person booking available from 6.30pm at STUN Studio.*              
 Enquiries: 0161 232 6086 (Word of Warning office)           
         
 #### Access Information        
-PLEASE NOTE: both works contain adult themes, the content of which some may find disturbing or cause distress — please speak to a member of Word of Warning or Contact front of house staff before the event if you have any concerns.<br>Age advisory: 18+  Duration: the double bill will last up to a maximum of 2 hours, including an interval. Both works are largely spoken English, and there is some use of flashing light and glycerine vapour. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.           
+**PLEASE NOTE: both works contain adult themes, the content of which some may find disturbing or cause distress — please speak to a member of Word of Warning or Contact front of house staff before the event if you have any concerns.**<br>Age advisory: 18+  Duration: the double bill will last up to a maximum of 2 hours, including an interval. Both works are largely spoken English; there is some use of flashing light and glycerine vapour. For specific age and access information before the event please email <mailto:info@habmcr.org> or call 0161 232 6086.           
 
 #### What people have said about previous Works Ahead        
 >*…evenings like Works Ahead are vital …both [pieces] harness techniques and raise ideas which are truly compelling.*<br><a href="http://www.thestateofthearts.co.uk/features/works-ahead-expect-something-weird-personal-entirely-half-done" target="_blank">The State of The Arts (2018 review)</a>           
