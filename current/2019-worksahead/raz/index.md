@@ -34,7 +34,7 @@ Box Office tel: 0161 274 0600 (Contact, weekdays 10am–6pm) *NB: on 16+17 May, 
 Enquiries: 0161 232 6086 (Word of Warning office)           
         
 #### Access Information        
-**PLEASE NOTE: both works contain adult themes, the content of which some may find disturbing or cause distress — please speak to a member of Word of Warning or Contact front of house staff before the event if you have any concerns.**<br>Age advisory: 18+  Duration: the double bill will last up to a maximum of 2 hours, including an interval. Both works are largely spoken English; there is some use of flashing light and glycerine vapour. For specific age and access information before the event please email <mailto:info@habmcr.org> or call 0161 232 6086.             
+**PLEASE NOTE: both works contain adult themes, the content of which may cause distress — please speak to a member of Word of Warning or Contact front of house staff before the event if you have any concerns.**<br>Age advisory: 18+  Duration: the double bill will last up to a maximum of 2 hours, including an interval. Both works are largely spoken English; there is some use of flashing light and glycerine vapour. For specific age and access information before the event please email <mailto:info@habmcr.org> or call 0161 232 6086.             
            
 #### More          
 >*Even though I have lived in Israel nearly my entire life, I am constantly questioning my place in the world. Maybe this searching comes from being an artist, maybe it comes from being a Jew. I'm not really sure.* — Chava Alberstein, songwriter.
