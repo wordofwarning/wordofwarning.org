@@ -22,7 +22,7 @@ season: "Amy Bell 29|5|2019"
 #### In Brief      
 Amy dances and talks her way through this witty and dream-like solo performance, riding the blustery winds of aspiration and becoming, all the while hoping her umbrella doesn't get turned inside out.        
          
-Read an interview with Amy about *The Forecast* in <a href="http://everything-theatre.co.uk/2018/03/amy-bell-dance-forecast-splayed-festival-the-place.html" target="_blank">Everything Theatre</a>.         
+Read an interview with Amy about *The Forecast* in <a href="http://everything-theatre.co.uk/2018/03/amy-bell-dance-forecast-splayed-festival-the-place.html" target="_blank">Everything Theatre</a>, and a preview in <a href="http://manchesterwire.co.uk/#!/theatre-wtf-wednesday-the-lowry-amy-bell" target="_blank">Manchester Wire</a>.           
            
 <iframe src="http://player.vimeo.com/video/253926772" width="640" height="360" frameborder="0" allowfullscreen></iframe>         
            
