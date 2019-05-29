@@ -1,15 +1,15 @@
 ---
 # CONFIGURATION
-layout: 2019-springsummer
+layout: 2019-autumnwinter
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Amy Bell" # the name of the artist or company
-show: "The Forecast" # the name of the show
+artist: "Tom Cassani" # the name of the artist or company
+show: "TBC" # the name of the show
 artist_size: 1
-show_size: 2
-header_image: "header_bell.jpg"    
-season: "Amy Bell 29|5|2019"
+show_size: 1
+header_image:    
+season: "Tom Cassani 6|11|2019"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -20,16 +20,16 @@ season: "Amy Bell 29|5|2019"
 *Presented by* The Lowry + Word of Warning *as a* <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a>
          
 #### In Brief      
-Amy dances and talks her way through this witty and dream-like solo performance, riding the blustery winds of aspiration and becoming, all the while hoping her umbrella doesn't get turned inside out.        
+COPY        
          
-Read an interview with Amy about *The Forecast* in <a href="http://everything-theatre.co.uk/2018/03/amy-bell-dance-forecast-splayed-festival-the-place.html" target="_blank">Everything Theatre</a>, and a preview in <a href="http://manchesterwire.co.uk/#!/theatre-wtf-wednesday-the-lowry-amy-bell" target="_blank">Manchester Wire</a>.           
+Read an interview with Tom in <a href="http://" target="_blank">what</a>.           
            
-<iframe src="http://player.vimeo.com/video/253926772" width="640" height="360" frameborder="0" allowfullscreen></iframe>         
+<iframe src="http://player.vimeo.com/video/" width="640" height="360" frameborder="0" allowfullscreen></iframe>         
            
 #### Venue + Booking Details           
-Date: Wednesday 29 May 2019, 8pm        
+Date: Wednesday 6 November 2019, 8pm        
 Venue: <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-Tickets: <a href="http://thelowry.com/whats-on/wtf-wednesday-amy-bell-the-forecast/" target="_blank">available to reserve from Friday 26 April</a>, Pay What You Decide (cash only) in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
+Tickets: <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">available to reserve from Friday ???</a>, Pay What You Decide (cash or card) in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
