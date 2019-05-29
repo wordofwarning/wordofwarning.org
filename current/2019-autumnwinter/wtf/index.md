@@ -4,12 +4,12 @@ layout: 2019-autumnwinter
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Tom Cassani" # the name of the artist or company
+artist: "TBC" # the name of the artist or company
 show: "TBC" # the name of the show
 artist_size: 1
 show_size: 1
 header_image:    
-season: "Tom Cassani 6|11|2019"
+season: "TBC 2|10|2019"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -22,12 +22,12 @@ season: "Tom Cassani 6|11|2019"
 #### In Brief      
 COPY        
          
-Read an interview with Tom in <a href="http://" target="_blank">what</a>.           
+Read an interview with TBC in <a href="http://" target="_blank">what</a>.           
            
 <iframe src="http://player.vimeo.com/video/" width="640" height="360" frameborder="0" allowfullscreen></iframe>         
            
 #### Venue + Booking Details           
-Date: Wednesday 6 November 2019, 8pm        
+Date: Wednesday 2 October 2019, 8pm        
 Venue: <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
 Tickets: <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">available to reserve from Friday ???</a>, Pay What You Decide (cash or card) in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0161 876 2000 (The Lowry)          
@@ -36,15 +36,15 @@ Box Office Tel: 0161 876 2000 (The Lowry)
 Age advisory: ??? parental/guardian discretion (contains ???). With no interval, the show lasts approximately ???. Features a combination of , and spoken text. [For specific content warnings please click here](/contentwarnings). For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.        
              
 #### More         
-Returning after woah 2017
+TBC             
          
-#### Who is he?        
+#### Who is s/he?        
            
-#### What people have said about *The Forecast*         
+#### What people have said about *tbc*         
 >*…*<br><a href="http://" target="_blank">who</a>        
         
 #### Credits          
-TBC. Peader Kirk. Commissioned by hÅb.         
+TBC.            
          
 #### Websites          
 <a href="http://" target="_blank">url</a> | <a href="http://www.facebook.com/" target="_blank"> on Facebook</a>       
