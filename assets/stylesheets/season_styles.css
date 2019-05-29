@@ -769,3 +769,33 @@
 
 	.w2019 .splash
 		{background:url(../images/header_woah_photo.jpg) center center}
+
+/* Autumn/Winter 2019 Programme w feather placeholder
+------------------------------------------------------*/
+
+	.aw2019 .splash
+		{background:url(../images/header_aw16wrn_fth.jpg) -150px center}
+
+/* Emergency 2019 bright red w running man placeholder
+------------------------------------------------------*/
+
+	.e2019,
+	.e2019 .artist, 
+	.e2019 .show,
+	.e2019 .season
+		{background:#ed1c24; color:#fff;}
+
+	.e2019 blockquote
+		{border-left-color:#fff;}
+	
+	.e2019 a,
+	.e2019 a:visited,
+	.e2019 a:hover
+		{color:#fff;}
+	.e2019 nav a:hover,
+	.e2019 article a:hover,
+	.e2019 footer a:hover
+		{background: #fff; color: #ed1c24;}
+		
+	.e2019 .splash
+		{background:url(../images/header_emergency_reversed.jpg) center center}
