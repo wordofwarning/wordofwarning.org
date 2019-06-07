@@ -4,12 +4,12 @@ layout: 2019-autumnwinter
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "TBC" # the name of the artist or company
-show: "TBC" # the name of the show
-artist_size: 1
-show_size: 1
+artist: "Lauren Hendry<br>directed by Jenna Watt" # the name of the artist or company
+show: "Tetra-Decathlon" # the name of the show
+artist_size: 3
+show_size: 2
 header_image:    
-season: "TBC 2|10|2019"
+season: "Lauren Hendry, dir Jenna Watt 2|10|2019"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -38,13 +38,13 @@ Age advisory: ??? parental/guardian discretion (contains ???). With no interval,
 #### More         
 TBC             
          
-#### Who is s/he?        
+#### Who are they?        
            
-#### What people have said about *tbc*         
+#### What people have said about *Tetra-Decathlon*         
 >*…*<br><a href="http://" target="_blank">who</a>        
         
 #### Credits          
-TBC.            
+*Tetra-Decathlon* is tbc.            
          
 #### Websites          
 <a href="http://" target="_blank">url</a> | <a href="http://www.facebook.com/" target="_blank"> on Facebook</a>       
