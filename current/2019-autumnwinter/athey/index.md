@@ -1,15 +1,15 @@
 ---
 # CONFIGURATION
-layout: 2019-springsummer
+layout: 2019-atumnwinter
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Will Dickie" # the name of the artist or company
-show: "The Rave Space" # the name of the show
+artist: "Ron Athey" # the name of the artist or company
+show: "TBC" # the name of the show
 artist_size: 1
 show_size: 2
 header_image: "header_dickie.jpg"    
-season: "Will Dickie 28|2|2019"
+season: "artist ?|10|2019"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
