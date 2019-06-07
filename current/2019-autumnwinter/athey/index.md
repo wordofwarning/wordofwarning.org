@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: 2019-atumnwinter
+layout: 2019-autumnwinter
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
