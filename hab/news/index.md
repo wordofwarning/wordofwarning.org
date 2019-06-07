@@ -20,4 +20,4 @@ Upcoming artist opportunities from hÅb are published below when we have them; y
              
 ### Upcoming Events + Opportunities        
         
-Our proposal deadline for [Haphazard](/hab/haphazard) 2019 has now passed.
+We will be seeking proposals for our twentieth [Emergency](/hab/emergency) later this summer with the event taking place mid-September 2019.
