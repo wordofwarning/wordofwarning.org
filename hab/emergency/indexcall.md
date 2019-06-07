@@ -14,13 +14,13 @@ season: "hÅb — Emergency"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Emergency, hÅb's annual platform for live art + contemporary performance, is now CLOSED for proposals.**            
+**Emergency, hÅb's annual platform for live art + contemporary performance, is now calling for proposals.**            
            
-Our **nineteenth Emergency** takes place on **Saturday 6 October 2018**, 12noon-10pm, in Manchester's <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> (incl. <a href="http://stunlive.com" target="_blank">STUN Studio</a>), with the call for proposals open until **Wednesday 15 August, 5pm** — see full details <a href="http://emergencymcr.posthaven.com" target="_blank">here</a>.             
+Our **twentieth Emergency** takes place on **Saturday 21 September 2019** at two sites in Manchester's Hulme: NIAMOS during the afternoon, and <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> (incl. <a href="http://stunlive.com" target="_blank">STUN Studio</a>) during the evening, with the call for proposals open until **Friday 9 or 16 August, 5pm** — see full details <a href="http://emergencymcr.posthaven.com" target="_blank">here</a>.             
          
 With a whole range of spaces to fill — what we now need is a lots of great work! Artists working in live art and contemporary performance are invited to submit proposals of short pieces of work, works-in-progress, or extracts of longer works for inclusion in this event. Proposals are also encouraged for durational, one-to-one and limited capacity work, as well as performance installation and intervention-based works in-and-around the spaces available.       
                
-To get a feel for it, have a look at the 2017 [programme](/archive/2017-emergency) + [gallery of images](/galleries/2017-emergency).           
+To get a feel for it, have a look at the 2018 [programme](/archive/2018-emergency) + [gallery of images](/galleries/2018-emergency).           
          
 **Emergency is:**    
 • a pay-what-you-decide, public micro-festival + open submission platform;        
@@ -34,7 +34,7 @@ As this seems to be a recurrent question: whilst we don't encourage it, you are 
 **Please note:**          
 • Emergency typically features at least 20 short pieces of work throughout the day/evening;        
 • our technology resources are limited, please bear this in mind when making a proposal;         
-• Emergency 2018 will offer an honorarium of up to £100 per piece selected, to cover fees/expenses.        
+• Emergency 2019 will offer an honorarium of up to £100 per piece selected, to cover fees/expenses.        
        
 **To apply:**       
 • download the Emergency Open Call Guidance Notes <a href="http://emergencymcr.posthaven.com" target="_blank">here</a>;         
@@ -42,11 +42,11 @@ As this seems to be a recurrent question: whilst we don't encourage it, you are 
 • complete the <a href="http://habarts.wufoo.com/forms/r19tdg9m0h21yu0" target="_blank">Online Monitoring form</a> (*please do, it really helps us!*).         
 • Enquiries: <mailto:emergency@habmcr.org> | <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>            
           
-**DEADLINE: Wednesday 15 August 2018, 5pm.**      
+**DEADLINE: Friday 9 or 16 August, 5pm.**      
           
 Actual links, to cut + paste into a web browser:         
 http://emergencymcr.posthaven.com          
 http://habarts.wufoo.com/forms/z1i31f0m03ovwoe            
 http://habarts.wufoo.com/forms/r19tdg9m0h21yu0         
              
-Emergency 2018 is presented by [Word of Warning](/), <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a> + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.
+Emergency 2019 is presented by [Word of Warning](/), NIAMOS, <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a> + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>; produced by [hÅb](/hab); supported by ???
