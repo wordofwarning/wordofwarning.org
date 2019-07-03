@@ -16,7 +16,7 @@ season: "hÅb — Emergency"
 ---
 **Emergency, hÅb's annual platform for live art + contemporary performance, is now calling for proposals.**            
            
-Our **twentieth Emergency** takes place on **Saturday 21 September 2019** at two sites in Manchester's Hulme: NIAMOS during the afternoon, and <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> (incl. <a href="http://stunlive.com" target="_blank">STUN Studio</a>) during the evening, with the call for proposals open until **Friday 9 August, 5pm** — see full details <a href="http://emergencymcr.posthaven.com" target="_blank">here</a>.             
+Our **twentieth Emergency** takes place on **Saturday 21 September 2019** at two sites in Manchester's Hulme: <a href="https://www.niamos.space" target="_blank">NIAMOS</a> during the afternoon, and <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> (incl. <a href="http://stunlive.com" target="_blank">STUN Studio</a>) during the evening, with the call for proposals open until **Friday 9 August, 5pm** — see full details <a href="http://emergencymcr.posthaven.com" target="_blank">here</a>.             
          
 With a whole range of spaces to fill — what we now need is a lots of great work! Artists working in live art and contemporary performance are invited to submit proposals of short pieces of work, works-in-progress, or extracts of longer works for inclusion in this event.       
 For daytime work at NIAMOS we are looking for durational, performance installation, intervention and limited capacity and 1-2-1 work.           
