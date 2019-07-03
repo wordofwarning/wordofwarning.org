@@ -40,7 +40,7 @@ As this seems to be a recurrent question: whilst we don't encourage it, you are 
 • There may be more resources available for a larger durational piece for the NIAMOS auditorium/stage area. Please get in touch to discuss.        
        
 **To apply:**       
-• download the Emergency Open Call Guidance Notes <a href="http://emergencymcr.posthaven.com" target="_blank">here</a>;         
+• download the Emergency Open Call Guidance Notes <a href="http://emergencymcr.posthaven.com/emergency-2019-call-for-proposals" target="_blank">here</a>;         
 • complete the <a href="http://habarts.wufoo.com/forms/z1i31f0m03ovwoe" target="_blank">Online Proposal form</a>;            
 • complete the <a href="http://habarts.wufoo.com/forms/r19tdg9m0h21yu0" target="_blank">Online Monitoring form</a> (*please do, it really helps us!*).         
 • Enquiries: <mailto:emergency@habmcr.org> | <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>            
