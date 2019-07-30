@@ -25,11 +25,11 @@ Ron Athey turns to the Acéphale — the figure of the headless man; a powerful 
 #### Venue + Booking Details       
 Date: Wednesday 23 October 2019, 8pm (doors open 7.30pm)        
 Venue: <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, corner of Chichester Rd/Warwick St, Hulme, Manchester M15 5EU          
-Tickets: available to <a href="http://wegottickets.com/event/462219" target="_blank">book online from Friday ???</a>, Pay What You Decide (cash only) in person on the evening.<br>**NB**: if you find you can't make it, please let us know so someone else can use the ticket.             
+Tickets: pick your price (£5/£10/£15) and pay <a href="http://wegottickets.com/event/" target="_blank">online in advance</a>; a limited number of tickets will be available for purchase on the door.<br>NB: if you find you can't make it, please let us know so someone else can use the ticket.             
 Enquiries: 0161 232 6086 (Word of Warning office) / 07488 308 111 (on the night)           
           
 #### Access Information         
-**Warning: This performance includes nudity, blood letting, and (on film) graphic sexual content.**<br>Age advisory: 18+. Duration: 1 hour (no interval).<br>Features a combination of ???<br>Please contact us for specific age + access information: you can get in touch with us by emailing <mailto:info@habmcr.org> or calling 0161 232 6086 (07488 308 111 on the night).           
+**Warning: includes nudity, and (on projected film) blood letting + graphic sexual content. Strictly 18+.**<br>Duration: 1 hour (no interval). Features a combination of ???<br>Please contact us for specific age + access information: you can get in touch with us by emailing <mailto:info@habmcr.org> or calling 0161 232 6086 (07488 308 111 on the night).           
          
 **Please note**: part of the charm of NIAMOS is the faded grandeur and gently decaying old theatre having life breathed back into it. All that atmosphere comes at a cost – it's a big old unheated building – so please WRAP UP WARM + WEAR LAYERS.       
           
