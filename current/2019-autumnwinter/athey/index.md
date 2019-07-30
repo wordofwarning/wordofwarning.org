@@ -8,7 +8,7 @@ artist: "Ron Athey" # the name of the artist or company
 show: "Acephalous Monster" # the name of the show
 artist_size: 1
 show_size: 3
-header_image: "header.jpg"    
+header_image: "header_ron.jpg"    
 season: "Ron Athey 23|10|2019"
 
 # ABOUT THE SHOW - LAYOUT
@@ -20,7 +20,7 @@ season: "Ron Athey 23|10|2019"
 *Presented by* Word of Warning *in association with* NIAMOS *+* STUN       
          
 #### In Brief      
-Athey turns to the Acéphale, the figure of the headless man, a powerful symbol of radical transformation.        
+Ron Athey turns to the Acéphale — the figure of the headless man; a powerful symbol of radical transformation — in a radically transformative ritual for resistance.         
          
 #### Venue + Booking Details       
 Date: Wednesday 23 October 2019, 8pm (doors open 7.30pm)        
@@ -34,8 +34,9 @@ Enquiries: 0161 232 6086 (Word of Warning office) / 07488 308 111 (on the night)
 **Please note**: part of the charm of NIAMOS is the faded grandeur and gently decaying old theatre having life breathed back into it. All that atmosphere comes at a cost – it's a big old unheated building – so please WRAP UP WARM + WEAR LAYERS.       
           
 #### More         
-Inspired in part by the secret society of <a href="https://en.wikipedia.org/wiki/Ac%C3%A9phale" target="_blank">Acéphale</a> — the 1930s anti-fascist review and magazine published by philosopher Georges Bataille — Ron Athey's new work uses projections, readings, lectures, appropriated text and sound.
-By re-imagining cut-up technique pioneer Brion Gysin's brutalist *Pistol Poem* as a vocal/percussive choreography, Athey turns to the Acéphale, the eponymous figure of the headless man, a powerful symbol of radical transformation, and attempts to make sense of a current reality where neo-fascism is mutating, creeping, and marching.
+Inspired in part by the secret society of <a href="https://en.wikipedia.org/wiki/Ac%C3%A9phale" target="_blank">Acéphale</a> — the 1930s anti-fascist review and magazine published by philosopher Georges Bataille — Ron Athey's new work uses projections, readings, lectures, appropriated text and sound.         
+           
+By re-imagining cut-up technique pioneer Brion Gysin's brutalist *Pistol Poem* as a vocal/percussive choreography, Athey turns to the Acéphale — the eponymous figure of the headless man; a powerful symbol of radical transformation — and attempts to make sense of a current reality where neo-fascism is mutating, creeping, and marching.
          
 #### Who is he?        
 American performance artist Ron Athey rose to international prominence in the 90s, making performance that explored challenging subjects like the relationships between desire, sexuality and traumatic experience, and confronted conservative narratives around AIDS, S&M and body autonomy.
@@ -47,5 +48,4 @@ American performance artist Ron Athey rose to international prominence in the 90
 Supported using public funding by the National Lottery through Arts Council England. | Image credit: Rachel Papo          
          
 #### Websites          
-<a href="http://twitter.com/Ron_Athey_2" target="_blank">@Ron_Athey_2</a> | <a href="http://www.facebook.com/Ron-Athey-203769179788311" target="_blank">Ron Athey on facebook</a>
-| <a href="http://en.wikipedia.org/wiki/Ron_Athey" target="_blank">Ron Athey on wikipedia</a>
+<a href="http://twitter.com/Ron_Athey_2" target="_blank">@Ron_Athey_2</a> | <a href="http://www.facebook.com/Ron-Athey-203769179788311" target="_blank">Ron Athey on facebook</a> | <a href="http://en.wikipedia.org/wiki/Ron_Athey" target="_blank">Ron Athey on wikipedia</a>
