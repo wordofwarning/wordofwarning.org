@@ -14,7 +14,7 @@ season: "hÅb — Emergency"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Emergency, hÅb's annual platform for live art + contemporary performance, is now calling for proposals.**            
+**Emergency, hÅb's annual platform for live art + contemporary performance, is now CLOSED for proposals.**            
            
 Our **twentieth Emergency** takes place on **Saturday 21 September 2019** at two sites in Manchester's Hulme: <a href="https://www.niamos.space" target="_blank">NIAMOS</a> during the afternoon, and <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> (incl. <a href="http://stunlive.com" target="_blank">STUN Studio</a>) during the evening, with the call for proposals open until **Friday 9 August, 5pm** — see full details <a href="http://emergencymcr.posthaven.com" target="_blank">here</a>.             
          
