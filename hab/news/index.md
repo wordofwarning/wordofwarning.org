@@ -7,9 +7,9 @@ artist: "News + Opportunities"
 season: "hÅb — News + Opportunities"
 
 ---
-[hÅb](/hab) is a producer, developer + strategic advocate of contemporary performance, live art + sited work in the North of England. greenroom's key partner for over a decade, hÅb aims to maintain its legacy — working in collaboration with a range of [venues + other partners](/hab/partners) to produce showing [opportunities](/hab/news), platforms + artist development projects like [Divergency](/hab/divergencymcr), [Emergency](/hab/emergency), [Foot In The Door](/hab/footinthedoor), [Haphazard](/hab/haphazard), [Hazard](/hab/hazard) + [Works Ahead](/hab/worksahead).           
+[hÅb](/hab) is a producer, developer, and strategic advocate of contemporary performance, live art, and sited work in the North of England. greenroom's key partner for over a decade, hÅb aims to maintain its legacy — working in collaboration with a range of [venues + other partners](/hab/partners) to produce showing [opportunities](/hab/news), platforms, and artist development projects like [Divergency](/hab/divergencymcr), [Emergency](/hab/emergency), [Haphazard](/hab/haphazard), [Hazard](/hab/hazard) + [Works Ahead](/hab/worksahead).           
           
-Essentially industry-facing, hÅb works with [artists, colleagues and venues](/hab/partners) to create the best possible opportunities for new work to flourish, and is a  member of <a href="http://www.liveartuk.org" target="_blank">Live Art UK</a> — a national network supporting + developing the UK's Live Art infrastructure for the benefit of artists, presenters + audiences.         
+Essentially industry-facing, hÅb works with [artists, colleagues, venues + others](/hab/partners) to create the best possible opportunities for new work to flourish, and is a  member of <a href="http://www.liveartuk.org" target="_blank">Live Art UK</a> — a national network supporting and developing the UK's Live Art infrastructure for the benefit of artists, presenters, and audiences.         
           
 Upcoming artist opportunities from hÅb are published below when we have them; you may also find it useful to join these mailing lists:         
 • [EmergencyNW e-group: our own artist mailing list](/hab/emergencynw)        
@@ -19,5 +19,4 @@ Upcoming artist opportunities from hÅb are published below when we have them; y
 • <a href="http://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=SCUDD" target="_blank">SCUDD (Standing Conference of University Drama Departments) from JISCmail</a>
              
 ### Upcoming Events + Opportunities        
-        
-We will be seeking proposals for our twentieth [Emergency](/hab/emergency) later this summer with the event taking place mid-September 2019.
+We are no longer seeking proposals for our twentieth [Emergency](/hab/emergency) (*the deadline was 5pm, Friday 9 August*).
