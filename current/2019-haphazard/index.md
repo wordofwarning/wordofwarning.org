@@ -19,7 +19,7 @@ season: "Haphazard 27|4|2019"
 *Presented by* Word of Warning *+* Z-arts           
          
 ### Saturday 27 April 2019, 12noon-3pm. FREE             
-**Turn up at any time, come and go as you please, and expect the unexpected…** Intriguing images and offbeat oddities dotted around Hulme's historic Z-arts building. Playful, quirky, engaging and sometimes plain daft: this is for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out.<br>To get a feel for it, have a look at some [artist images](/galleries/2019-haphazardpre) + read the [programme notes](/current/2019-haphazard/programme).         
+**Turn up at any time, come and go as you please, and expect the unexpected…** Intriguing images and offbeat oddities dotted around Hulme's historic Z-arts building. Playful, quirky, engaging and sometimes plain daft: this is for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out.<br>To get a feel for it, have a look at some [artist images](/galleries/2019-haphazardpre) + read the [programme notes](/current/2019-haphazard/programme); now that it's over, see our [gallery of images](/galleries/2019-haphazard) from the day.                 
 
 ### Artists + Activity (subject to change)                
 Chrissy Jones | Emily Demetriou + Hector Dyer | Fun Science | Joe Stevens | Julie Burrow | Lady Helena Vortex + Mx Lucille Power | Monsur Mansoor | Natalie Wardle  | Nicola Smith | Powder Keg | YEAP Association        
