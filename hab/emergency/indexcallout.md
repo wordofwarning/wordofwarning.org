@@ -5,8 +5,10 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency" # the name of the artist or company
+show: "A day out for the curious." # the name of the artist or company
+show_size: 4
 header_image: "header_emergency_photo.jpg"   
-season: "hÅb — Emergency"
+season: "hÅb's Emergency"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -43,7 +45,7 @@ As this seems to be a recurrent question: whilst we don't encourage it, you are 
 • download the Emergency Open Call Guidance Notes <a href="http://emergencymcr.posthaven.com/emergency-2019-call-for-proposals" target="_blank">here</a>;         
 • complete the <a href="http://habarts.wufoo.com/forms/z1i31f0m03ovwoe" target="_blank">Online Proposal form</a>;            
 • complete the <a href="http://habarts.wufoo.com/forms/r19tdg9m0h21yu0" target="_blank">Online Monitoring form</a> (*please do, it really helps us!*).         
-• Enquiries: <mailto:emergency@habmcr.org> | <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>            
+Enquiries: <mailto:emergency@habmcr.org> | <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>            
           
 **DEADLINE: Friday 9 August, 5pm.**      
           
@@ -52,5 +54,4 @@ http://emergencymcr.posthaven.com
 http://habarts.wufoo.com/forms/z1i31f0m03ovwoe            
 http://habarts.wufoo.com/forms/r19tdg9m0h21yu0         
              
-Emergency 2019 is presented by [Word of Warning](/); produced by [hÅb](/hab); supported by <a href="https://www.niamos.space" target="_blank">NIAMOS , <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a> + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>.         
-
+Emergency 2019 is presented by [Word of Warning](/); produced by [hÅb](/hab); supported by <a href="https://www.niamos.space" target="_blank">NIAMOS, <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a> + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>.
