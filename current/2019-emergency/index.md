@@ -29,8 +29,8 @@ To get a feel for it, have a look at 2018's [programme](/archive/2018-emergency)
          
 #### Venues + Booking Details         
 Date: Saturday 21 September 2019, 12noon-10pm (*last show ends about 10.30pm*)           
-Daytime Venue: <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, corner of Chichester Rd/Warwick St, Hulme, M15 5EU        
-Evening Venues: <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> including <a href="http://stunlive.com" target="_blank">STUN Studio</a>, 335 Stretford Rd, Hulme, M15 5ZA        
+Daytime (12noon-5pm) Venue: <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, Chichester Rd, Hulme, M15 5EU        
+Evening (5-10pm) Venue: <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> incl. <a href="http://stunlive.com" target="_blank">STUN Studio</a>, 335 Stretford Rd, Hulme, M15 5ZA        
 Tickets: no booking required, Pay What You Decide in person on the day; come and go as you please during the daytime; individual shows in the evening usually have a no-latecomer policy. *NB some works have a limited capacity (marked* †*) with either sign-up sheets on the day or operating on a first-come, first-served basis.*       
 Tel: 07488 308 111 (during the event) / 0161 232 6086 (during weekday office hours)          
          
