@@ -21,7 +21,7 @@ season: "Emergency 21|9|2019"
 #### Saturday 21 September, 12noon-10pm. Pay What You Decide             
 Manchester's twentieth annual manic micro-marathon of the bizarre + the beautiful: *copy??? from gallery to theatre, store-cupboard to stairwell*, some 30 live works in a travelling takeover of three Hulme venues…         
             
-**During the day** dip in and out of ongoing performances, installations and limited capacity experiences at NIAMOS; **in the evening** join us for a series of short sit-down shows at STUN Studio + Z-arts. **Sample the different — then pay what you decide!**          
+**During the daytime**, dip in and out of ongoing performances, installations + limited capacity experiences at NIAMOS; **in the evening**, join us for a series of short sit-down shows at STUN Studio + Z-arts. **Sample the different — then pay what you decide!**          
         
 *Participating artists subject to change.*         
         
@@ -31,7 +31,7 @@ To get a feel for it, have a look at 2018's [programme](/archive/2018-emergency)
 Date: Saturday 21 September 2019, 12noon-10pm (*last show ends about 10.30pm*)           
 Daytime Venue: 12noon-5pm at <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, Chichester Rd, Hulme, M15 5EU        
 Evening Venues: 5-10pm at <a href="http://stunlive.com" target="_blank">STUN Studio</a> + <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Rd, Hulme, M15 5ZA        
-Tickets: NO booking required, Pay What You Decide in person on the day; come and go as you please during the daytime; individual shows in the evening usually have a no-latecomer policy. Some works have a limited capacity (*marked* †) with either sign-up sheets on the day or operating on a first-come, first-served basis.       
+Tickets: NO booking required, Pay What You Decide in person on the day; during the Daytime come and go as you please; individual shows in the Evening usually have a no-latecomer policy. Some works have a limited capacity (*marked* †) with either sign-up sheets on the day or operating on a first-come, first-served basis.       
 Enquiries: 07488 308 111 (*on the day*) / 0161 232 6086 (*during weekday office hours*)          
          
 #### Access Information       
