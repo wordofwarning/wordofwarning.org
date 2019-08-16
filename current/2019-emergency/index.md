@@ -16,7 +16,7 @@ season: "Emergency 21|9|2019"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-*Presented by* Word of Warning *with* NIAMOS, STUN *+* Z-arts           
+*Presented by* Word of Warning *in association with* NIAMOS, STUN *+* Z-arts           
          
 #### Saturday 21 September, 12noon-10pm. Pay What You Decide             
 Manchester's twentieth annual manic micro-marathon of the bizarre + the beautiful: *copy??? from gallery to theatre, store-cupboard to stairwell*, some 30 live works in a travelling takeover of three Hulme venues…         
@@ -29,13 +29,13 @@ To get a feel for it, have a look at 2018's [programme](/archive/2018-emergency)
          
 #### Venues + Booking Details         
 Date: Saturday 21 September 2019, 12noon-10pm (*last show ends about 10.30pm*)           
-Daytime Venue: 12noon-5pm at <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, Chichester Rd, Hulme, M15 5EU        
-Evening Venue: 5pm-10pm at <a href="http://stunlive.com" target="_blank">STUN Studio</a> + <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Rd, Hulme, M15 5ZA        
-Tickets: no booking required, Pay What You Decide in person on the day; come and go as you please during the daytime; individual shows in the evening usually have a no-latecomer policy. Some works have a limited capacity (marked †) with either sign-up sheets on the day or operating on a first-come, first-served basis.       
-Tel: 07488 308 111 (during the event) / 0161 232 6086 (during weekday office hours)          
+Daytime Venue: 12noon-5pm, <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, Chichester Rd, Hulme, M15 5EU        
+Evening Venues: 5-10pm, <a href="http://stunlive.com" target="_blank">STUN Studio</a> + <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Rd, Hulme, M15 5ZA        
+Tickets: NO booking required, Pay What You Decide in person on the day; come and go as you please during the daytime; individual shows in the evening usually have a no-latecomer policy. Some works have a limited capacity (marked †) with either sign-up sheets on the day or operating on a first-come, first-served basis.       
+Enquiries: 07488 308 111 (during the event) / 0161 232 6086 (during weekday office hours)          
          
 #### Access Information       
-**Age Advisory: mainly aimed at adults, some works (clearly signposted) will not suitable for under 18s.**<br>**Warnings: some works contain content that some may find sensitive, please see [here](/warnings).**<br>Access: uses a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity (marked †), some participatory. We apologise but some daytime works will not be wheelchair accessible due to the nature of the NIAMOS building. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.        
+**Age Advisory: mainly aimed at adults, some works (clearly signposted) will not suitable for under 18s. Warnings: some works may disturb or cause upset, please [click here](/warnings) if you'd like to know more.**<br>Access: uses a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity (marked †), some participatory. We apologise but some daytime works will not be wheelchair accessible due to the nature of the NIAMOS building. For specific age and access information please email <mailto:info@habmcr.org> or use enquiries details above.        
             
 #### What people have said about Emergency         
 >• *Fresh, exciting, unpredictable, mixed and provocative. Rewarding, too!*<br>• *I am amazed they manage so many shows in a day…*<br>• *The diversity is outstanding and so inclusive of all.*<br>• *Really important event for NW artists — safe space to experiment.*<br>• *Performances are both rewarding in their own right, and also offer a glimpse into where theatre might go in our more interactive and interconnected world.*<br>• *Thought provoking & frankly unique. It sets Manchester apart.*<br>Audience Feedback from Emergency [2018](/archive/2018-emergency)/[2017](/archive/2017-emergency)/[2016](/archive/2016-emergency)/[2015](/archive/2015-emergency)          
