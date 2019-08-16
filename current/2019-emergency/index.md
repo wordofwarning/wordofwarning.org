@@ -16,23 +16,23 @@ season: "Emergency 21|9|2019"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-*Presented by* Word of Warning, NIAMOS, STUN *+* Z-arts           
+*Presented by* Word of Warning *with* NIAMOS, STUN *+* Z-arts           
          
-### Saturday 21 September, times tbc. Pay What You Decide             
-Manchester's twentieth annual manic micro-marathon of the bizarre + the beautiful: from gallery to theatre, store-cupboard to stairwell, some 30 live works in a non-stop performance takeover — filling the Z-arts building to bursting point…         
+### Saturday 21 September, 12noon-10pm. Pay What You Decide             
+Manchester's twentieth annual manic micro-marathon of the bizarre + the beautiful: from gallery to theatre, store-cupboard to stairwell, some 30 live works in a travlling takeover of three Hulme venues…         
             
-**From when to when** dip in and out of ongoing performances, installations and limited capacity experiences (adult-only live art?); and **from when to when** join us for a series of short sit-down shows. **Sample the different — then pay what you decide!**          
+**During the daytime** dip in and out of ongoing performances, installations and limited capacity experiences in NIAMOS (adult-only live art?); and **in the evening** join us for a series of short sit-down shows at STUN Studio + Z-arts. **Sample the different — then pay what you decide!**          
         
-*NB Participating artists to be announced at the beginning of September*         
+*Participating artists subject to change.*         
         
 To get a feel for it, have a look at 2018's [programme](/archive/2018-emergency) + [image gallery](/galleries/2018-emergency).         
          
 #### Venues + Booking Details         
-Date: Saturday 6 October 2018, 12noon-10pm (*last show ends about 10.30pm*)           
-AFTERNOON Venue: <a href="http://www" target="_blank">NIAMOS</a>, , Manchester, M15 5        
-EVENING Venue: <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts (incl. STUN Studio)</a>, 335 Stretford Road, Manchester, M15 5ZA        
+Date: Saturday 21 September 2019, 12noon-10pm (*last show ends about 10.30pm*)           
+Daytime Venue: <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, corner of Chichester Rd/Warwick St, Hulme, Manchester M15 5EU        
+Evening Venues: <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> including <a href="http://stunlive.com" target="_blank">STUN Studio</a>, 335 Stretford Road, Manchester, M15 5ZA        
 
-Tickets: no booking required, Pay What You Decide in person on the day, come and go as you please. *NB some works have a limited capacity (marked* †*) with either sign-up sheets on the day or operating on a first-come, first-served basis. Individual shows from 5.30pm typically have a no-latecomer policy.*       
+Tickets: no booking required, Pay What You Decide in person on the day, come and go as you please. *NB some works have a limited capacity (marked* †*) with either sign-up sheets on the day or operating on a first-come, first-served basis. Individual shows in the Evening from 5pm typically have a no-latecomer policy.*       
 Tel: 0161 232 6086 (Word of Warning office) / 0161 232 6089 (Z-arts reception)          
          
 #### Access Information       
@@ -44,7 +44,9 @@ Tel: 0161 232 6086 (Word of Warning office) / 0161 232 6089 (Z-arts reception)
 Emergency 2018 was reviewed by ???<br>Emergency 2017 was reviewed by <a href="http://circlesandstalls.wordpress.com/2017/10/01/emergency-2017" target="_blank">Circles&Stalls</a> and <a href="http://quietmandave.co.uk/2017/10/emergency-2017" target="_blank">QuietManDave</a>.        
           
 #### Credits         
-[Emergency](/hab/emergency) 2019 is produced by [hÅb](/hab). | Image: *tbc by tbc*         
+[Emergency](/hab/emergency) 2019 is produced by [hÅb](/hab); supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a> + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>.
+
+| Image: *tbc by tbc*         
                
 #### Websites
 <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>
