@@ -28,14 +28,14 @@ Manchester's twentieth annual manic micro-marathon of the bizarre + the beautifu
 To get a feel for it, have a look at 2018's [programme](/archive/2018-emergency) + [image gallery](/galleries/2018-emergency).         
          
 #### Venues + Booking Details         
-DATE: Saturday 21 September 2019, 12noon-10pm (*last show ends about 10.30pm*)           
-DAYTIME VENUE: <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, corner of Chichester Rd/Warwick St, M'cr, M15 5EU        
-EVENING VENUES: <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> incl. <a href="http://stunlive.com" target="_blank">STUN Studio</a>, 335 Stretford Rd, M'cr, M15 5ZA        
-TICKETS: no booking required, Pay What You Decide in person on the day, come and go as you please. *NB some works have a limited capacity (marked* †*) with either sign-up sheets on the day or operating on a first-come, first-served basis. Individual shows in the Evening from 5pm typically have a no-latecomer policy.*       
-TEL: 07488 308 111 (Word of Warning mobile on the day) / 0161 232 6086 (Word of Warning office) / 0161 232 6089 (Z-arts reception)          
+Date: Saturday 21 September 2019, 12noon-10pm (*last show ends about 10.30pm*)           
+Daytime Venue: <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, corner of Chichester Rd/Warwick St, Hulme, M15 5EU        
+Evening Venues: <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> including <a href="http://stunlive.com" target="_blank">STUN Studio</a>, 335 Stretford Rd, Hulme, M15 5ZA        
+Tickets: no booking required, Pay What You Decide in person on the day, come and go as you please. *NB some works have a limited capacity (marked* †*) with either sign-up sheets on the day or operating on a first-come, first-served basis. Individual shows in the Evening from 5pm typically have a no-latecomer policy.*       
+Tel: 07488 308 111 (mobile on the day) / 0161 232 6086 (office in advance)          
          
 #### Access Information       
-**AGE ADVISORY: mainly aimed at adults**, some works (clearly signposted) will not suitable for under 18s.<br>The works in Emergency 2019 take place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity (marked †), some participatory. We apologise but some work will not be wheelchair accessible due to the nature of the NIAMOS building. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.        
+**Age Advisory: mainly aimed at adults, some works (clearly signposted) will not suitable for under 18s.** The works in Emergency 2019 take place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity (marked †), some participatory. We apologise but some work will not be wheelchair accessible due to the nature of the NIAMOS building. For specific age and access information please email <mailto:info@habmcr.org> or call 0161 232 6086.        
             
 #### What people have said about Emergency         
 >• *Fresh, exciting, unpredictable, mixed and provocative. Rewarding, too!*<br>• *I am amazed they manage so many shows in a day…*<br>• *The diversity is outstanding and so inclusive of all.*<br>• *Really important event for NW artists — safe space to experiment.*<br>• *Performances are both rewarding in their own right, and also offer a glimpse into where theatre might go in our more interactive and interconnected world.*<br>• *Thought provoking & frankly unique. It sets Manchester apart.*<br>[Audience Feedback from Emergency 2018](/archive/2018-emergency)/[2017](/archive/2017-emergency)/[2016](/archive/2016-emergency)/[2015](/archive/2015-emergency)          
