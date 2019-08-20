@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: 2019-springsummer
+layout: 2020-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -8,8 +8,8 @@ artist: "Jamal Gerald" # the name of the artist or company
 show: "IDOL" # the name of the show
 artist_size: 2
 show_size: 1
-header_image: "header_dickie.jpg"    
-season: "Jamal Gerald 7|6|2019"
+header_image: "header_jamal.jpg"    
+season: "Jamal Gerald ?|?|2020"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -24,7 +24,7 @@ season: "Jamal Gerald 7|6|2019"
 Explores the historic experiences of the house and the field slaves; and draws a parallel with contemporary pop culture and attitudes to race.           
          
 #### Venue + Booking Details           
-Date: Friday 7 June 2019, ***7.30pm***        
+Date: 2020, ***7.30pm***        
 Venue: STUN Studio at <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
 Tickets: available to reserve during May, Pay What You Decide (cash only) in person on the evening.            
 Enquiries: 0161 232 6086 (Word of Warning office)           
