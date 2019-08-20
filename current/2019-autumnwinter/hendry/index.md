@@ -4,10 +4,10 @@ layout: 2019-autumnwinter
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Lauren Hendry<br>Dir. Jenna Watt" # the name of the artist or company
+artist: "Lauren Hendry<br>dir. Jenna Watt" # the name of the artist or company
 show: "Tetra-Decathlon" # the name of the show
 artist_size: 1
-show_size: 2
+show_size: 1
 header_image: "header_lauren.jpg"   
 season: "Lauren Hendry, dir Jenna Watt 2|10|2019"
 
