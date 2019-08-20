@@ -8,7 +8,7 @@ artist: "Tom Cassani" # the name of the artist or company
 show: "I Promise You That Tonight" # the name of the show
 artist_size: 1
 show_size: 4
-header_image: "header_tom1.jpg"   
+header_image: "header_tom.jpg"   
 season: "Tom Cassani 6|11|2019"
 
 # ABOUT THE SHOW - LAYOUT
