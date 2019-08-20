@@ -7,7 +7,7 @@ rootpath: "../../../"
 artist: "Ron Athey" # the name of the artist or company
 show: "Acephalous Monster" # the name of the show
 artist_size: 1
-show_size: 3
+show_size: 2
 header_image: "header_ron.jpg"    
 season: "Ron Athey 23|10|2019"
 
@@ -20,7 +20,7 @@ season: "Ron Athey 23|10|2019"
 *Presented by* Word of Warning *in association with* NIAMOS *+* STUN       
          
 #### In Brief      
-Trying to make explain where we are now, Ron Athey turns to the Acéphale — the eponymous figure of the headless man and powerful symbol of transformation — to present a radical ritual for resistance.        
+Trying to explain where we are now, Ron Athey turns to the Acéphale — the eponymous headless man and powerful symbol of transformation — to present a radical ritual for resistance.        
          
 #### Venue + Booking Details       
 Date: Wednesday 23 October 2019, 7.30pm (doors open 7pm)        
