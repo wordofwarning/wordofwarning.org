@@ -20,34 +20,28 @@ season: "Tom Cassani 6|11|2019"
 *Presented by* The Lowry + Word of Warning *as a* <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a>
          
 #### In Brief      
-COPY        
-         
-Read an interview with Tom in <a href="http://" target="_blank">what</a>.           
-           
-<iframe src="http://player.vimeo.com/video/" width="640" height="360" frameborder="0" allowfullscreen></iframe>         
+A collision of showmanship, deception, almost miracles, and live art.        
            
 #### Venue + Booking Details           
 Date: Wednesday 6 November 2019, 8pm        
 Venue: <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-Tickets: <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">available to reserve from Friday ???</a>, Pay What You Decide (cash or card) in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
+Tickets: <a href="http://thelowry.com/whats-on/tom-cassani" target="_blank">reserve online</a>, then Pay What You Decide by cash or card after the show (suggested donation £5). **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
-Age advisory: ??? parental/guardian discretion (contains ???). With no interval, the show lasts approximately ???. Features a combination of , and spoken text. [For specific content warnings please click here](/contentwarnings). For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.        
+Age Advisory: 14+ (parental/guardian discretion).<br>**Warnings: *tbc*.[For specific content warnings please click here](/contentwarnings)**<br>Duration: *tbc* (no interval).<br>Features: a combination of *tbc*.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call using Enquiries details above.          
              
 #### More         
-Returning after woah 2017
+*I Promise You That Tonight* collides showmanship, deception, almost miracles and live art.<br>*I Promise You That Tonight* has something to do with switching this box for that box, a spontaneous burst of flames, drowning in broken glass, and things not being quite as they seem.<br>None of this is impossible but it's ok to admit that it is hard.<br>I Promise You That Tonight no one will get burnt, that no one will come to any harm.<br>I Promise You That Tonight I love you, I Promise I will not spoil your heart.<br>I Promise You That Tonight.
          
 #### Who is he?        
-           
-#### What people have said about *The Forecast*         
+Tom Cassani returns to parts-Mancunian after his [deceptive exposé of deception itself](/archive/2017-worksahead/cassani) in Works Ahead 2017. A Performance Artist and Liar, he is interested in how he can use elements of deception, misdirection and lying in his artistic practice. He has trained in sleight of hand, misdirection and stage magic, and now uses these skills to explore truth, honesty, and the importance of remaining wary of those who make extraordinary claims.                  
+        
+#### What people have said about *IPYTT*         
 >*…*<br><a href="http://" target="_blank">who</a>        
         
 #### Credits          
-TBC. Peader Kirk. Commissioned by hÅb.         
+Writer + performer: Tom Cassani | Dramaturg + direction: Peader Kirk | Lighting Designer: Nigel Edwards | Stage Manager: Jen Smethurst | Image: Hugo Glendinning<br>Commissioned by hÅb. | Supported using public funding by the National Lottery through Arts Council England, and by BE Festival + Metal Peterborough.         
          
 #### Websites          
-<a href="http://" target="_blank">url</a> | <a href="http://www.facebook.com/" target="_blank"> on Facebook</a>       
-        
-#### <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a> ticketing policy at The Lowry         
-As this is a Pay What You Decide event, we know some people who book tickets won't turn up on the night so we send out more tickets than there are places. We do our best to get the numbers right but we advise you arrive early to ensure you get a seat! We don't often have to disappoint people but if we can't fit you in we will try to offer you tickets to another show in The Lowry that night.
+<a href="http://twitter.com/Tomatocassata" target="_blank">@Tomatocassata</a>
