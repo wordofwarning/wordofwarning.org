@@ -4,11 +4,11 @@ layout: 2019-autumnwinter
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Lauren Hendry<br>directed by Jenna Watt" # the name of the artist or company
+artist: "Lauren Hendry<br>dir. Jenna Watt" # the name of the artist or company
 show: "Tetra-Decathlon" # the name of the show
-artist_size: 3
+artist_size: 2
 show_size: 2
-header_image:    
+header_image: "header_lauren.jpg"   
 season: "Lauren Hendry, dir Jenna Watt 2|10|2019"
 
 # ABOUT THE SHOW - LAYOUT
@@ -20,26 +20,29 @@ season: "Lauren Hendry, dir Jenna Watt 2|10|2019"
 *Presented by* The Lowry + Word of Warning *as a* <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a>
          
 #### In Brief      
-COPY        
-         
-Read an interview with TBC in <a href="http://" target="_blank">what</a>.           
-           
-<iframe src="http://player.vimeo.com/video/" width="640" height="360" frameborder="0" allowfullscreen></iframe>         
+A joyous exploration of coming last, and then coming back for more.    
            
 #### Venue + Booking Details           
 Date: Wednesday 2 October 2019, 8pm        
 Venue: <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-Tickets: <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">available to reserve from Friday ???</a>, Pay What You Decide (cash or card) in person on the evening. **Please note the WTF Wednesday ticketing policy below**.          
+Tickets: <a href="http://thelowry.com/whats-on/lauren-hendry-tetra-decathlon" target="_blank">reserve online</a>, then Pay What You Decide by cash or card after the show (suggested donation £5). **Please note the WTF Wednesday ticketing policy below**.          
 Box Office Tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
-Age advisory: ??? parental/guardian discretion (contains ???). With no interval, the show lasts approximately ???. Features a combination of , and spoken text. [For specific content warnings please click here](/contentwarnings). For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.        
+Age Advisory: *tbc* (parental/guardian discretion).<br>**Warnings: *tbc*.[For specific content warnings please click here](/contentwarnings)**<br>Duration: *tbc* (no interval).<br>Features: a combination of *tbc*.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call using Enquiries details above.        
              
 #### More         
-TBC             
+Having never even been for a jog around the park, Lauren signed up to compete in the Tetra-Decathlon World Championships; committing to learn 14 different athletic events and then compete on the World stage, all in just 600 days.          
+        
+A funny and inspiring show exploring the hurdles on the way to the starting line, *Tetra-Decathlon* mixes humorous storytelling with athletic physicality as Lauren runs, jumps, and throws herself into a world of serious amateurs and comedic coaches — where winning is not simply about crossing the line first.       
          
-#### Who are they?        
+***Following the show, audience members are invited to ask questions about the show and Lauren's experiences of training and competing in the Tetra-Decathlon.***          
            
+#### Who are they?        
+Lauren Hendry (creator) is         
+           
+Jenna Watt (director) is          
+         
 #### What people have said about *Tetra-Decathlon*         
 >*…*<br><a href="http://" target="_blank">who</a>        
         
@@ -47,7 +50,4 @@ TBC
 *Tetra-Decathlon* is tbc.            
          
 #### Websites          
-<a href="http://" target="_blank">url</a> | <a href="http://www.facebook.com/" target="_blank"> on Facebook</a>       
-        
-#### <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a> ticketing policy at The Lowry         
-As this is a Pay What You Decide event, we know some people who book tickets won't turn up on the night so we send out more tickets than there are places. We do our best to get the numbers right but we advise you arrive early to ensure you get a seat! We don't often have to disappoint people but if we can't fit you in we will try to offer you tickets to another show in The Lowry that night.
+<a href="http://" target="_blank">url</a> | <a href="http://www.facebook.com/" target="_blank"> on Facebook</a>
