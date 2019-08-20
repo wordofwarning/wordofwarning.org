@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: 2019-autumnwinter
+layout:
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -23,15 +23,14 @@ season: "Ron Athey 23|10|2019"
 Ron Athey turns to the Acéphale — the figure of the headless man; a powerful symbol of radical transformation — in a radically transformative ritual for resistance.         
          
 #### Venue + Booking Details       
-Date: Wednesday 23 October 2019, 8pm (doors open 7.30pm)        
+Date: Wednesday 23 October 2019, 7.30pm (doors open 7pm)        
 Venue: <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, corner of Chichester Rd/Warwick St, Hulme, Manchester M15 5EU          
-Tickets: pick your price (£5/£10/£15) and pay <a href="http://wegottickets.com/event/" target="_blank">online in advance</a>; a limited number of tickets will be available for purchase on the door.<br>NB: if you find you can't make it, please let us know so someone else can use the ticket.             
-Enquiries: 0161 232 6086 (Word of Warning office) / 07488 308 111 (on the night)           
+Tickets: pick your price (£5/£10/£15) and pay <a href="http://wegottickets.com/event/" target="_blank">online in advance</a>; a limited number of tickets will be available for purchase on the door from 7pm.             
+Enquiries: 07488 308 111 (*on the night*) / 0161 232 6086 (*during weekday office hours*)          
           
 #### Access Information         
-**Warning: includes nudity, and (on projected film) blood letting + graphic sexual content. Strictly 18+.**<br>Duration: 1 hour (no interval). Features a combination of ???<br>Please contact us for specific age + access information: you can get in touch with us by emailing <mailto:info@habmcr.org> or calling 0161 232 6086 (07488 308 111 on the night).           
+**Age: strictly 18+. Warnings: includes nudity, and (*on projected film*) blood letting + graphic sexual content.**<br>Duration: 1 hour (no interval).<br>Please note: part of NIAMOS' charm is breathing life back into the faded grandeur of a gently decaying old theatre, but all that atmosphere comes at a cost (it's a big old unheated building) so please WRAP UP WARM + WEAR LAYERS.<br>Please contact us for specific age + access information: you can get in touch with us by emailing <mailto:info@habmcr.org> or calling 0161 232 6086 (07488 308 111 on the night).           
          
-**Please note**: part of the charm of NIAMOS is the faded grandeur and gently decaying old theatre having life breathed back into it. All that atmosphere comes at a cost – it's a big old unheated building – so please WRAP UP WARM + WEAR LAYERS.       
           
 #### More         
 Inspired in part by the secret society of <a href="https://en.wikipedia.org/wiki/Ac%C3%A9phale" target="_blank">Acéphale</a> — the 1930s anti-fascist review and magazine published by philosopher Georges Bataille — Ron Athey's new work uses projections, readings, lectures, appropriated text and sound.         
