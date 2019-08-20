@@ -5,10 +5,10 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Tom Cassani" # the name of the artist or company
-show: "TBC" # the name of the show
+show: "I Promise You That Tonight" # the name of the show
 artist_size: 1
-show_size: 1
-header_image:    
+show_size: 3
+header_image: "header_tom.jpg"   
 season: "Tom Cassani 6|11|2019"
 
 # ABOUT THE SHOW - LAYOUT
