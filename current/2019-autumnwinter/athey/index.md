@@ -23,7 +23,7 @@ season: "Ron Athey 23|10|2019"
 Trying to explain where we are now, Ron Athey turns to the Acéphale — the eponymous headless man and powerful symbol of transformation — to present a radical ritual for resistance.        
          
 #### Venue + Booking Details       
-Date: Wednesday 23 October 2019, 7.30pm (doors open 7pm)        
+Date: Wednesday 23 October 2019, 7.30pm (*doors open at 7pm*)        
 Venue: <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, corner of Chichester Rd/Warwick St, Hulme, Manchester M15 5EU          
 Tickets: pick† your price (£5/£10/£15) and pay <a href="http://www.wegottickets.com/sct/GY2C7eQvN8" target="_blank">online in advance</a>, a limited number of tickets will be available for purchase on the door from 7pm.<br>† *We'd be grateful for as much as you can afford.*             
 Enquiries: 07488 308 111 (*on the night*) / 0161 232 6086 (*during weekday office hours*)          
