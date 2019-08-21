@@ -29,7 +29,7 @@ Tickets: <a href="http://thelowry.com/whats-on/tom-cassani" target="_blank">rese
 Box Office Tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
-Age Advisory: 14+ (parental/guardian discretion).<br>**Warnings: *tbc*.** For specific content warnings please click [here](/contentwarnings).<br>Duration: *tbc* (no interval).<br>Features: a combination of *tbc*.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call using Enquiries details above.          
+Age Advisory: 14+ (parental/guardian discretion).<br>**Warnings: includes mentions of death and description of drowning.** For specific content warnings please click [here](/warnings).<br>Duration: 1 hour (no interval).<br>Features: live spoken English, sound (at times loud), lighting.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call using Enquiries details above.          
              
 #### More         
 *I Promise You That Tonight* collides showmanship, deception, almost miracles and live art.<br>*I Promise You That Tonight* has something to do with switching this box for that box, a spontaneous burst of flames, drowning in broken glass, and things not being quite as they seem.<br>None of this is impossible but it's ok to admit that it is hard.<br>I Promise You That Tonight no one will get burnt, that no one will come to any harm.<br>I Promise You That Tonight I love you, I Promise I will not spoil your heart.<br>I Promise You That Tonight.
