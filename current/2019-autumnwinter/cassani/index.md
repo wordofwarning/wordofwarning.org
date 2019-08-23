@@ -35,13 +35,13 @@ Age Advisory: 14+ (parental/guardian discretion).<br>Warning: includes mentions 
 *I Promise You That Tonight* collides showmanship, deception, almost miracles, and live art.<br>*I Promise You That Tonight* has something to do with switching this box for that box, a spontaneous burst of flames, drowning in broken glass, and things not being quite as they seem.<br>None of this is impossible but it's ok to admit that it is hard.<br>I Promise You That Tonight no one will get burnt, that no one will come to any harm.<br>I Promise You That Tonight I love you, I Promise I will not spoil your heart.<br>I Promise You That Tonight.
          
 #### Who is he?        
-Tom Cassani returns to parts-Mancunian after 2017's [deceptive exposé of deception itself](/archive/2017-worksahead/cassani).<br>A Performance Artist and Liar, Tom is interested in how he can use elements of deception, misdirection and lying in his artistic practice.<br>Trained in sleight of hand, misdirection, and stage magic, Tom now uses those skills to explore truth, honesty, and the importance of remaining wary of those who make extraordinary claims.                  
+Tom Cassani returns to parts-Mancunian after 2017's [deceptive exposé of deception itself](/archive/2017-worksahead/cassani). A Performance Artist and Liar, Tom is interested in how he can use elements of deception, misdirection and lying in his artistic practice. Trained in sleight of hand, misdirection, and stage magic, Tom now uses those skills to explore truth, honesty, and the importance of remaining wary of those who make extraordinary claims.                  
         
 #### What people have said about *IPYTT*         
 >*Often the eerie silence, combined with Cassani’s deliberately perfunctory performance, made the show uncomfortable viewing, and yet it was impossible to look away…*<br><a href="http://www.whatsonlive.co.uk/birmingham/news/our-be-festival-review-round-up/44721" target="_blank">★★★★ Ellie Hutchings, What's on Birmingham</a><br>*• Very accomplished performance. A powerful presence throughout.*<br>*• Beautiful, loved the eye contact. Exciting, vulnerable.*<br>Audience Feedback        
         
 #### Credits          
-Writer + performer: Tom Cassani | Dramaturg + direction: Peader Kirk | Lighting Designer: Nigel Edwards | Stage Manager: Jen Smethurst<br>Commissioned by hÅb. | Supported using public funding by the National Lottery through Arts Council England, and by BE Festival + Metal Peterborough.<br>Image: Hugo Glendinning         
+Writer + performer: Tom Cassani | Dramaturg + direction: Peader Kirk | Lighting Designer: Nigel Edwards | Stage Manager: Jen Smethurst<br>Commissioned by [hÅb](/hab). | Supported using public funding by the National Lottery through Arts Council England, and by BE Festival + Metal Peterborough.<br>Image: Hugo Glendinning         
          
 #### Websites          
 <a href="http://twitter.com/Tomatocassata" target="_blank">@Tomatocassata</a>
