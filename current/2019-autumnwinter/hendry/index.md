@@ -20,7 +20,7 @@ season: "Lauren Hendry, dir Jenna Watt 2|10|2019"
 *Presented by* The Lowry + Word of Warning *as a* <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a>
          
 #### In Brief      
-A funny and inspiring look at what it takes to be a serious amateur.<br>A joyous exploration of coming last, and then coming back for more.        
+A funny and inspiring look at what it takes to be a serious amateur.<br>A joyous exploration of coming last, and then coming back for more…        
          
 <iframe src="http://player.vimeo.com/video/273654021" width="640" height="360" frameborder="0" allowfullscreen></iframe>           
            
@@ -34,7 +34,7 @@ Box Office Tel: 0161 876 2000 (The Lowry)
 Age Advisory: 12+ (parental/guardian discretion).<br>Warning: includes mild swearing; if you would like to know specific content warnings please click [here](/warnings).<br>Duration: approximately 1 hour (no interval).<br>Features: a combination of spoken Emglish *and more tbc*.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.        
              
 #### More         
-Featuring running, hurdling, jumping + throwing, a tetra-decathlon is 14 kinds of daft…<br>Having never been for a jog around the park or even set foot on an athletics track, Lauren signed up to compete in the World Ultra Multievent Championships — committing to learn fourteen different track + field disciplines from scratch and then compete in just 600 days. As she runs, jumps, and throws herself into a world of serious amateurs and comedic coaches, Lauren discovers that winning is not simply about crossing the line first.<br><br>Charting her journey from couch to competition, *Tetra-Decathlon* questions the psychology of sport and what drives us to compete; an amusingly audacious solo show for all those who got picked last, but know there's more to give.         
+Featuring running, hurdling, jumping, and throwing, a tetra-decathlon is fourteen kinds of daft… Having never been for a jog around the park or even set foot on an athletics track, Lauren signed up to compete in the World Ultra Multievent Championships — committing to learn 14 different athletic track + field disciplines from scratch and compete in just 600 days. As she runs, jumps, and throws herself into a world of serious amateurs and comedic coaches, Lauren discovers that winning is not simply about crossing the line first.<br><br>Charting her journey from couch to competition, *Tetra-Decathlon* questions the psychology of sport and what drives us to compete; an amusing and inspiring solo show for all those who got picked last, but know there's more to give.         
         
 #### Q&A
 Following a short break after the show, audience members are invited to ask questions about the work and Lauren's experiences of training + competing in the tetra-decathlon.        
