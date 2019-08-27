@@ -49,6 +49,7 @@ Lauren signed up to compete in the World UltraMulti-Event Championships, having 
 Directed by multi-award winner, Jenna Watt (Faslane, Flâneurs) and performed by Lauren Hendry, Tetra-Decathlon is a show for those who got picked last, but know there’s more to give.
  
 
+https://www.theskinny.co.uk/theatre/interviews/tetra-decathlon-lauren-hendry-competing-it-feels-like-performing
 
 *Following the show and a short break, audience members are invited to ask questions about the work and Lauren's experiences of training + peting in the Tetra-Decathlon.*        
            
@@ -58,7 +59,7 @@ Lauren Hendry (creator) is
 Jenna Watt (director) is          
          
 #### What people have said about *Tetra-Decathlon*         
->*…*<br><a href="http://" target="_blank">who</a>        
+>*…a lovely, affecting piece on what it means to take on a seemingly outlandish task, to try, to fail, to try again.*<br><a href="http://www.fest-mag.com/edinburgh/theatre/review-tetra-decathlon-by-showroom" target="_blank">Fest Mag</a><br>*…Hendry’s simply structured but impressively sweaty 60 minutes asks some piercing questions about failure and success, amateur and professionals, being a hero and being a fool and why we keep going against all the odds. It may not leave you as breathless as its protagonist, but it does keep you gripped.*<br><a href="http://www.independent.co.uk/arts-entertainment/comedy/reviews/edinburgh-festival-2018-fringe-shows-review-lyn-gardner-everything-not-saved-lights-over-tesco-a8500736.html" target="_blank">Lyn Gardner, The Independent</a>        
         
 #### Credits          
 Writer + performer: Lauren Hendry | Director: Jenna Watt | Designer: Claire Halleran | Composer: Scott Twynholm | Movement Director: Ema Jayne Park<br>Co-produced by Showroom in association with Macrobert Arts Centre. | Supported by Festival 2018, the cultural programme of the Glasgow 2018 European Championships; and by Creative Scotland, Tron Theatre, The Work Room + Tom McGrath Trust.<br>Image: Mihaela Bodlovic        
