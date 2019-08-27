@@ -25,7 +25,7 @@ A collision of showmanship, deception, almost miracles, and live art.
 #### Venue + Booking Details           
 Date: Wednesday 6 November 2019, 8pm        
 Venue: <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-Tickets: <a href="http://thelowry.com/whats-on/tom-cassani" target="_blank">reserve online</a>, then Pay What You Decide† by cash or card after the show.<br>† *Suggested donation £5.*       
+Tickets: <a href="http://thelowry.com/whats-on/tom-cassani" target="_blank">reserve online</a>, then Pay What You Decide (*suggested donation £5*) by cash or card after the show.         
 Box Office Tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
