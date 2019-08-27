@@ -9,7 +9,7 @@ show: "Tetra-Decathlon" # the name of the show
 artist_size: 1
 show_size: 1
 header_image: "header_lauren.jpg"   
-season: "Lauren Hendry, dir Jenna Watt 2|10|2019"
+season: "Lauren Hendry, dir. Jenna Watt 2|10|2019"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -31,16 +31,16 @@ Tickets: <a href="http://thelowry.com/whats-on/lauren-hendry-tetra-decathlon" ta
 Box Office Tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
-Age Advisory: 12+ (parental/guardian discretion).<br>Warning: includes mild swearing; if you would like to know specific content warnings please click [here](/warnings).<br>Duration: approximately 1 hour (no interval).<br>Features: a combination of spoken Emglish *and more tbc*.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.        
+Age Advisory: 12+ (parental/guardian discretion).<br>Warning: includes mild swearing; if you would like to know specific content warnings please click [here](/warnings).<br>Duration: approximately 1 hour (no interval).<br>Features: spoken English, *more tbc*.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.        
              
 #### More         
-Featuring running, hurdling, jumping, and throwing, a tetra-decathlon is fourteen kinds of daft… Having never been for a jog around the park or even set foot on an athletics track, Lauren signed up to compete in the World Ultra Multievent Championships — committing to learn 14 different athletic track + field disciplines from scratch and compete in just 600 days. As she runs, jumps, and throws herself into a world of serious amateurs and comedic coaches, Lauren discovers that winning is not simply about crossing the line first.<br><br>Charting her journey from couch to competition, *Tetra-Decathlon* questions the psychology of sport and what drives us to compete; an amusing and inspiring solo show for all those who got picked last, but know there's more to give.         
+Featuring running, hurdling, jumping, throwing… a tetra-decathlon is 14 kinds of daft.<br>Having never been for a jog around the park or even set foot on an athletics track, Lauren signed up to compete in the World Ultra Multievent Championships — committing to learn fourteen different track + field disciplines from scratch and then compete in just 600 days. As she runs, jumps, and throws herself into a world of serious amateurs and comedic coaches, Lauren discovers that winning is not simply about crossing the line first.<br><br>Charting her journey from couch to competition, *Tetra-Decathlon* questions the psychology of sport and what drives us to compete in an amusing and inspiring solo for all those who got picked last, but know there's more to give.         
         
 #### Q&A
 Following a short break after the show, audience members are invited to ask questions about the work and Lauren's experiences of training + competing in the tetra-decathlon.        
            
 #### Who are they?        
-Lauren Hendry set up The Production Shed in 2013, to grow contemporary circus across the UK by working with companies making great work on a small scale. Previously she trained at the National Centre For Circus Arts and set up So & So Circus Theatre, with whom she created and toured shows for 6 years.         
+Lauren Hendry set up The Production Shed in 2013, to grow contemporary circus across the UK by working with companies making great work on a small scale. Previously she trained at the National Centre For Circus Arts and set up So & So Circus Theatre, with whom she created and toured shows for six years.         
            
 Director Jenna Watt returns to WoW following [2013's *Flâneurs*](/archive/2013-springsummer/watt).
          
