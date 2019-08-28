@@ -19,11 +19,12 @@ season: "Emergency 21|9|2019"
 *Presented by* Word of Warning *in association with* NIAMOS, STUN *+* Z-arts           
          
 #### Saturday 21 September, 12noon-10pm. Pay What You Decide             
-Manchester's twentieth annual manic micro-marathon of the bizarre + the beautiful: *copy??? from gallery to theatre, store-cupboard to stairwell*, some 30 live works in a travelling takeover of three Hulme venues…         
+Manchester's twentieth annual manic micro-marathon of the bizarre + the beautiful: this year spreading its wings across two Hulme buildings — the decaying splendour of NIAMOS and the familiar turf of STUN + Z-arts. From stage to stairwell, dress circle to box office, some 30 plus live works in a travelling takeover…            
             
-**During the daytime**, dip in and out of ongoing performances, installations + limited capacity experiences at NIAMOS; **in the evening**, join us for a series of short sit-down shows at STUN Studio + Z-arts. **Sample the different — then pay what you decide!**          
-        
-*Participating artists subject to change.*         
+**During the daytime**, dip in and out of ongoing performances, installations + limited capacity experiences at NIAMOS; **in the evening**, join us for a series of short sit-down shows at STUN Studio + Z-arts. **Sample the different — then pay what you decide!**   
+             
+### Participating artists *subject to change*         
+**Daytime: 12noon-4.30pm | NIAMOS**<br>Alex Bradley | Bill Duffy | Charlotte McShane | Emergency Chorus | Gillian Knox | Holly Spillar | Jade Williams | Janet Charlesworth | Kellie Colbert | Kelvin Atmadibrata | Kris Canavan | Maya Chowdhry | Peter Jacobs | Pierce Starre | rahtattoo | Ross Graham | Shkiesha | Tamar + Jo | Thomas Mayer | TomYumSim | Will Dickie<br>**Evening: 5pm-10pm | STUN Studio + Z-arts**<br>Adam John Roberts | Anna West + Louise Cross | Callum Berridge | Helen Sulis Bowie | Jazmine Webb | Katy Dye + Craig Manson | Lara Buffard + Gur Arie Piepskovitz | Rebekka Platt | Ross McCaffrey | Shahireh Sharif | Tania Camara | The Strange Names Collective | Vendetta Vain           
         
 To get a feel for it, have a look at 2018's [programme](/archive/2018-emergency) + [image gallery](/galleries/2018-emergency).         
          
@@ -35,15 +36,13 @@ Tickets: NO booking required, Pay What You Decide in person on the day; during t
 Enquiries: 07488 308 111 (*on the day*) / 0161 232 6086 (*during weekday office hours*)          
          
 #### Access Information       
-**Age Advisory: mainly aimed at adults, some works (*clearly signposted*) will not be suitable for under 18s. Warnings: some works may disturb or cause upset, please [click here](/warnings) if you'd like to know more.**<br>Access: uses a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity (*marked* †), some participatory. We apologise but some daytime works will not be wheelchair accessible due to the nature of the NIAMOS building. For specific age and access information please email <mailto:info@habmcr.org> or use enquiries details above.        
+**Age Advisory: mainly aimed at adults, some works (clearly signposted) will not be suitable for under 18s.**<br>Warning: some works may disturb or cause upset, for specific content warnings please click [here](/warnings).<br>Access: uses a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity (*marked* †), some participatory. We apologise but some Daytime works will not be accessible to wheelchair users and those with limited mobility due to the nature of the NIAMOS building.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.        
             
 #### What people have said about Emergency         
 >• *Fresh, exciting, unpredictable, mixed and provocative. Rewarding, too!*<br>• *I am amazed they manage so many shows in a day…*<br>• *The diversity is outstanding and so inclusive of all.*<br>• *Really important event for NW artists — safe space to experiment.*<br>• *Performances are both rewarding in their own right, and also offer a glimpse into where theatre might go in our more interactive and interconnected world.*<br>• *Thought provoking & frankly unique. It sets Manchester apart.*<br>Audience Feedback from Emergency [2018](/archive/2018-emergency)/[2017](/archive/2017-emergency)/[2016](/archive/2016-emergency)/[2015](/archive/2015-emergency)          
          
-Emergency 2017 was reviewed by <a href="http://circlesandstalls.wordpress.com/2017/10/01/emergency-2017" target="_blank">Circles&Stalls</a> and <a href="http://quietmandave.co.uk/2017/10/emergency-2017" target="_blank">QuietManDave</a>.        
-          
 #### Credits         
-[Emergency](/hab/emergency) 2019 is produced by [hÅb](/hab); supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>. | Image: *tbc by tbc*         
+[Emergency](/hab/emergency) 2019 is produced by [hÅb](/hab); supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>.         
                
 #### Websites
 <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>
