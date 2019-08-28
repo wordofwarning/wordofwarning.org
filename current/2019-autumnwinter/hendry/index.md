@@ -33,13 +33,13 @@ Box Office Tel: 0161 876 2000 (The Lowry)
 Age Advisory: 12+ (parental/guardian discretion).<br>Warning: includes mild swearing; if you would like to know specific content warnings please click [here](/warnings).<br>Duration: approximately 1 hour (no interval).<br>Features: spoken English, *with more tbc*.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.        
              
 #### More         
-Featuring running, hurdling, jumping, throwing… a tetra-decathlon is 14 kinds of daft.<br><br>Having never been for a jog around the park or even set foot on an athletics track, Lauren signed up to compete in the World Ultra Multievent Championships — committing to learn 14 track and field disciplines from scratch and then compete in just 600 days. As she runs, jumps, and throws herself into a world of serious amateurs and comedic coaches, Lauren discovers that winning is not simply about crossing the line first.<br><br>Charting her journey from couch to competition, *Tetra-Decathlon* questions the psychology of sport and what drives us to compete in an amusing and inspiring solo for all those who got picked last, but know there's more to give.         
+Featuring running, hurdling, jumping, throwing… a tetra-decathlon is 14 kinds of daft.<br><br>Having never been for a jog around the park or even set foot on an athletics track, Lauren signed up to compete in the World Ultra Multievent Championships — committing to learn 14 track and field disciplines from scratch and then compete in just 600 days. As she runs, jumps, and throws herself into a world of serious amateurs and comedic coaches, Lauren discovers that winning is not simply about crossing the line first.<br><br>Charting her journey from couch to competition, *Tetra-Decathlon* questions the psychology of sport and what drives us to compete. An amusing and inspiring solo for all those who got picked last, but know there's more to give.                 
         
 #### Q&A
 Following a short break after the show, audience members are invited to ask questions about the work and Lauren's experiences of training + competing in the tetra-decathlon.        
            
 #### Who are they?        
-Lauren Hendry set up The Production Shed in 2013, to grow contemporary circus across the UK by working with companies making great work on a small scale. Previously she trained at the National Centre For Circus Arts and set up So & So Circus Theatre, with whom she created and toured shows for six years.         
+Lauren Hendry set up The Production Shed in 2013 to grow contemporary circus across the UK by working with companies making great work on a small scale. Previously she trained at the National Centre For Circus Arts and set up So & So Circus Theatre, with whom she created and toured shows for six years.         
            
 Director Jenna Watt returns to WoW following [2013's *Flâneurs*](/archive/2013-springsummer/watt).
          
@@ -50,4 +50,4 @@ Director Jenna Watt returns to WoW following [2013's *Flâneurs*](/archive/2013-
 Writer + performer: Lauren Hendry | Director: Jenna Watt | Designer: Claire Halleran | Composer: Scott Twynholm | Movement Director: Ema Jayne Park<br>Co-produced by Showroom in association with Macrobert Arts Centre. | Supported by Festival 2018 (the cultural programme of the Glasgow 2018 European Championships) and by Creative Scotland, Tron Theatre, The Work Room + Tom McGrath Trust.<br>Image: Mihaela Bodlovic        
          
 #### Websites          
-<a href="http://tetradecathlon.com" target="_blank">tetradecathlon.com</a> | <a href="http://twitter.com/tetradecathlon" target="_blank">@tetradecathlon</a> | <a href="http://twitter.com/thejennawatt" target="_blank">@thejennawatt</a>
+<a href="http://tetradecathlon.com" target="_blank">tetradecathlon.com</a> | <a href="http://theproductionshed.com" target="_blank">theproductionshed.com</a> | <a href="http://twitter.com/tetradecathlon" target="_blank">@tetradecathlon</a> | <a href="http://twitter.com/thejennawatt" target="_blank">@thejennawatt</a>
