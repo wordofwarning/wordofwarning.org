@@ -19,12 +19,12 @@ season: "Emergency 21|9|2019"
 *Presented by* Word of Warning *in association with* NIAMOS, STUN *+* Z-arts           
          
 #### Saturday 21 September, 12noon-10pm. Pay What You Decide             
-Manchester's 20th annual manic micro-marathon of the bizarre + the beautiful spreads its wings across two Hulme buildings — the decaying splendour of NIAMOS and the familiar turf of STUN + Z-arts. From stage to stairwell, dress circle to box office, some 34 live works in a travelling takeover…            
+Manchester's twentieth annual manic micro-marathon of the bizarre + the beautiful spreads its wings across two Hulme buildings — the decaying splendour of NIAMOS and the familiar turf of STUN + Z-arts. From stage to stairwell, dress circle to box office, some 34 live works in a travelling takeover…            
             
-**During the daytime**, dip in and out of ongoing performances, installations + limited capacity experiences at NIAMOS; **in the evening**, join us for a series of short sit-down shows at STUN Studio + Z-arts. **Sample the different — then pay what you decide!**   
+**From noon** dip in and out of ongoing performances, installations + limited capacity experiences at NIAMOS; **from 5pm** join us for a series of short sit-down shows at STUN Studio + Z-arts. **Sample the different — then pay what you decide!**   
              
 #### Participating artists (*subject to change*)         
-**Daytime: 12noon-4.30pm | NIAMOS**<br>Alex Bradley | Bill Duffy | Charlotte McShane | Emergency Chorus | Gillian Knox | Holly Spillar | Jade Williams | Janet Charlesworth | Kellie Colbert | Kelvin Atmadibrata | Kris Canavan | Maya Chowdhry | Peter Jacobs | Pierce Starre | rahtattoo | Ross Graham | Shkiesha | Tamar + Jo | Thomas Mayer | TomYumSim | Will Dickie<br>**Evening: 5pm-10pm | STUN Studio + Z-arts**<br>Adam John Roberts | Anna West + Louise Cross | Callum Berridge | Helen Sulis Bowie | Jazmine Webb | Katy Dye + Craig Manson | Lara Buffard + Gur Arie Piepskovitz | Rebekka Platt | Ross McCaffrey | Shahireh Sharif | The Strange Names Collective | Tania Camara | Vendetta Vain           
+**DAYTIME: 12noon-4.30pm | NIAMOS**<br>Alex Bradley | Bill Duffy | Charlotte McShane | Emergency Chorus | Gillian Knox | Holly Spillar | Jade Williams | Janet Charlesworth | Kellie Colbert | Kelvin Atmadibrata | Kris Canavan | Maya Chowdhry | Peter Jacobs | Pierce Starre | rahtattoo | Ross Graham | Shkiesha | Tamar + Jo | Thomas Mayer | TomYumSim | Will Dickie<br>**EVENING: 5pm-10pm | STUN Studio + Z-arts**<br>Adam John Roberts | Anna West + Louise Cross | Callum Berridge | Helen Sulis Bowie | Jazmine Webb | Katy Dye + Craig Manson | Lara Buffard + Gur Arie Piepskovitz | Rebekka Platt | Ross McCaffrey | Shahireh Sharif | The Strange Names Collective | Tania Camara | Vendetta Vain           
         
 To get a feel for it, have a look at 2018's [programme](/archive/2018-emergency) + [image gallery](/galleries/2018-emergency).         
          
