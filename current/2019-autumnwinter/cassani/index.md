@@ -20,7 +20,7 @@ season: "Tom Cassani 6|11|2019"
 *Presented by* The Lowry + Word of Warning *as a* <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a>
          
 #### In Brief      
-A collision of showmanship, deception, almost miracles + live art.        
+A collision of showmanship, deception + almost miracles.        
            
 #### Venue + Booking Details           
 Date: Wednesday 6 November 2019, 8pm        
