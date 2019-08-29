@@ -4,18 +4,18 @@ layout: home # the season or event-specific template in /_layouts
 rootpath: "../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Performance Programme Content Warnings" # the name of the artist or company
-artist_size: 2
+artist: "Content Warnings" # the name of the artist or company
+artist_size: 1
 season: "Performance Programme Content Warnings"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-This page is for [Word of Warning](/) audience members who would like to know more about the content of the work presented in our Performance Programme [(currently AW19)](/current/2019-autumnwinter) and particularly highlights elements that may distress, cause upset, or trigger. If you would like to get in touch please email <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours. NB — this page reflects the most recent information we have received from the artists we present *as of Thu 29 28 Aug 2019, 2.17pm*         
+This page is for [Word of Warning](/) audience members who would like to know more about the content of the work presented in our Performance Programme [(currently AW19)](/current/2019-autumnwinter) and particularly highlights elements that may distress, cause upset, or trigger. If you would like to get in touch please email <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours. Please note this page reflects the most recent information we have received from the artists we present (*as of Thu 29 Aug 2019, 2.24pm*).         
 <hr>          
 ##### [*Sat 21 Sep*: Emergency 2019 | NIAMOS, STUN Studio + Z-arts](/current/2019-emergency)        
-Age Advisory: mainly aimed at adults, parental/guardian discretion is advised; some works (clearly signposted) are not be suitable for under 18s.<br>Specific Content Warnings: to be confirmed here in early September.        
+Age Advisory: mainly aimed at adults, parental/guardian discretion is advised; some works (to be clearly signposted in the programme) are not be suitable for under 18s.<br>Specific Content Warnings: to be confirmed here in early September.        
 <hr>          
 ##### [*Wed 2 Oct: Tetra-Decathlon* by Lauren Hendry, dir. Jenna Watt | The Lowry](/current/2019-autumnwinter/hendry)        
 Age Advisory: 12+ (parental/guardian discretion).<br>Specific Content Warnings: includes mild swearing.        
