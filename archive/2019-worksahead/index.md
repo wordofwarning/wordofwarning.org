@@ -22,7 +22,7 @@ season: "Works Ahead 16+17|5|2019"
 ### Thursday 16 + Friday 17 May 2019, 7.30pm        
 A risky night out or a good night in? Two explorations of inner conflict, outer division, and the politics of oppression from [Mark Croasdale](/archive/2019-worksahead/croasdale) + [Avital Raz](/archive/2019-worksahead/raz).             
             
-Our annual sampler of new performance is a double bill of new works in development from artists at the start of their journeys. Get a feel for Works Ahead with a look at [2018](/archive/2018-worksahead).            
+Our annual sampler of new performance is a double bill of new works in development from artists at the start of their journeys; now that it's over, see images from their [shows](/galleries/2019-woah). Get a feel for Works Ahead with a look at [2018](/archive/2018-worksahead).            
                 
 #### Venue + Booking Details        
 Dates: Thursday 16 + Friday 17 May 2019, 7.30pm         
