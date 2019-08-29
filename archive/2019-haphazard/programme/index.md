@@ -16,7 +16,7 @@ season: "Haphazard programme notes 27|4|2019"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*[A free day out for the curious of all ages](/current/2019-haphazard), presented by* Word of Warning *+* Z-arts.       
+*[A free day out for the curious of all ages](/archive/2019-haphazard), presented by* Word of Warning *+* Z-arts.       
            
 ### Venue + Booking Details
 Date: Saturday 27 April 2019, 12noon-3pm      
