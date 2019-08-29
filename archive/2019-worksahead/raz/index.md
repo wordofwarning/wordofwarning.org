@@ -17,7 +17,7 @@ season: "Works Ahead — Avital Raz 16+17|5|2019"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, Contact + STUN *in* [Works Ahead 2019](/current/2019-worksahead) *as a double bill with* [Mark Croasdale](/current/2019-worksahead/croasdale)               
+*Presented by* Word of Warning, Contact + STUN *in* [Works Ahead 2019](/archive/2019-worksahead) *as a double bill with* [Mark Croasdale](/archive/2019-worksahead/croasdale)               
          
 #### In Brief        
 A solo performance derived from a song. A politically charged tale of a drunken one night stand, infused with stories of growing up in the turmoil of 80s Israel. A nuanced exploration of the politics of division, from internal checkpoints and separation walls to gender norms.           
