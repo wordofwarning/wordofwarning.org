@@ -33,7 +33,7 @@ Our **[sixth Works Ahead](/archive/2017-worksahead)** took place in May 2017 wit
                  
 Our **[seventh Works Ahead](/archive/2018-worksahead)** took place in May 2018 at STUN Studio at Z-arts, with a double bill from Emma Geraghty + Vijay Patel: a girl and a guitar, a boy and a box of questions; two artists at the start of their journeys… See their [image gallery](/galleries/2018-woah). In 2018 we also seed-commissioned Jamal Gerald's new work *Idol* for development in partnership with Transform in Leeds.            
               
-Our **[eighth Works Ahead](/current/2019-worksahead)** took place in May 2019 at STUN Studio at Z-arts, with a double bill from Mark Croasdale + Avital Raz: two explorations of inner conflict, outer division, and the politics of oppression… Image gallery coming soon.          
+Our **[eighth Works Ahead](/archive/2019-worksahead)** took place in May 2019 at STUN Studio at Z-arts, with a double bill from Mark Croasdale + Avital Raz: two explorations of inner conflict, outer division, and the politics of oppression… See their [image gallery](/galleries/2019-woah).          
             
-[Works Ahead 2019](/current/2019-worksahead) was co-commissioned/co-produced by [hÅb](/hab), <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North) + <a href="http://contactmcr.com" target="_blank">Contact</a>. Project Mentor: Peader Kirk          
+[Works Ahead 2019](/archive/2019-worksahead) was co-commissioned/co-produced by [hÅb](/hab), <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North) + <a href="http://contactmcr.com" target="_blank">Contact</a>. Project Mentor: Peader Kirk          
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
