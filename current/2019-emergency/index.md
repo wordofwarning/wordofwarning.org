@@ -19,7 +19,7 @@ season: "Emergency 21|9|2019"
 *Presented by* Word of Warning *in association with* NIAMOS, STUN *+* Z-arts           
          
 #### Saturday 21 September, 12noon-10pm. Pay What You Decide             
-Manchester's twentieth annual manic micro-marathon of the bizarre and the beautiful: this year spreading its wings across two Hulme buildings — the decaying splendour of NIAMOS and the familiar turf of STUN + Z-arts. From stage to stairwell, dress circle to box office, some 34 live works in a travelling takeover…            
+Manchester's 20th annual manic micro-marathon of the bizarre + the beautiful spreads its wings across two Hulme buildings — the decaying splendour of NIAMOS and the familiar turf of STUN + Z-arts. From stage to stairwell, dress circle to box office, some 34 live works in a travelling takeover…            
             
 **During the daytime**, dip in and out of ongoing performances, installations + limited capacity experiences at NIAMOS; **in the evening**, join us for a series of short sit-down shows at STUN Studio + Z-arts. **Sample the different — then pay what you decide!**   
              
