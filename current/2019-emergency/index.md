@@ -19,20 +19,20 @@ season: "Emergency 21|9|2019"
 *Presented by* Word of Warning *in association with* NIAMOS, STUN *+* Z-arts           
          
 #### Saturday 21 September, 12noon-10pm. Pay What You Decide             
-Manchester's twentieth annual manic micro-marathon of the bizarre + the beautiful: this year spreading its wings across two Hulme buildings — the decaying splendour of NIAMOS and the familiar turf of STUN + Z-arts. From stage to stairwell, dress circle to box office, some 30 plus live works in a travelling takeover…            
+Manchester's twentieth annual manic micro-marathon of the bizarre and the beautiful: this year spreading its wings across two Hulme buildings — the decaying splendour of NIAMOS and the familiar turf of STUN + Z-arts. From stage to stairwell, dress circle to box office, some 34 live works in a travelling takeover…            
             
 **During the daytime**, dip in and out of ongoing performances, installations + limited capacity experiences at NIAMOS; **in the evening**, join us for a series of short sit-down shows at STUN Studio + Z-arts. **Sample the different — then pay what you decide!**   
              
-### Participating artists *subject to change*         
+#### Participating artists (*subject to change*)         
 **Daytime: 12noon-4.30pm | NIAMOS**<br>Alex Bradley | Bill Duffy | Charlotte McShane | Emergency Chorus | Gillian Knox | Holly Spillar | Jade Williams | Janet Charlesworth | Kellie Colbert | Kelvin Atmadibrata | Kris Canavan | Maya Chowdhry | Peter Jacobs | Pierce Starre | rahtattoo | Ross Graham | Shkiesha | Tamar + Jo | Thomas Mayer | TomYumSim | Will Dickie<br>**Evening: 5pm-10pm | STUN Studio + Z-arts**<br>Adam John Roberts | Anna West + Louise Cross | Callum Berridge | Helen Sulis Bowie | Jazmine Webb | Katy Dye + Craig Manson | Lara Buffard + Gur Arie Piepskovitz | Rebekka Platt | Ross McCaffrey | Shahireh Sharif | Tania Camara | The Strange Names Collective | Vendetta Vain           
         
 To get a feel for it, have a look at 2018's [programme](/archive/2018-emergency) + [image gallery](/galleries/2018-emergency).         
          
 #### Venues + Booking Details         
 Date: Saturday 21 September 2019, 12noon-10pm (*last show ends about 10.30pm*)           
-Daytime Venue: 12noon-5pm at <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, Chichester Rd, Hulme, M15 5EU        
+Daytime Venue: 12noon-4.30pm at <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, Chichester Rd, Hulme, M15 5EU        
 Evening Venues: 5-10pm at <a href="http://stunlive.com" target="_blank">STUN Studio</a> + <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Rd, Hulme, M15 5ZA        
-Tickets: NO booking required, Pay What You Decide in person on the day; during the Daytime come and go as you please; individual shows in the Evening usually have a no-latecomer policy. Some works have a limited capacity (*marked* †) with either sign-up sheets on the day or operating on a first-come, first-served basis.       
+Tickets: NO booking required, Pay What You Decide in person on the day.<br>Entry: during the Daytime come and go as you please; individual shows in the Evening usually have a no-latecomer policy. Some works have a limited capacity (*marked* †) with either sign-up sheets on the day or operating first-come, first-served.       
 Enquiries: 07488 308 111 (*on the day*) / 0161 232 6086 (*during weekday office hours*)          
          
 #### Access Information       
