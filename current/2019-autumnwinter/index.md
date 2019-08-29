@@ -36,7 +36,7 @@ I've been around a while, a really long while… and in that time, I've been res
           
 Please send programming enquiries to me at <mailto:info@habmcr.org>             
          
-I'm joined in this lunacy by John Franklin, greenroom's long time programme co-ordinator; we're grateful for the ongoing support of our occasional band of hÅbettes — the friendly faces greeting you and eliciting your feedback at many of our events.          
+I'm joined in this lunacy by John Franklin-Johnston, greenroom's long time programme co-ordinator; we're grateful for the ongoing support of our occasional band of hÅbettes — the friendly faces greeting you and eliciting your feedback at many of our events.          
         
 #### What our audiences have said about us           
 >• *Always special, bringing the unexpected and intriguing, thank you.*<br>• *Bringing some of the most interesting performance work in the world to our city.*<br>• *Fabulous for seeing things different from the mainstream machine.*<br>• *Great organisation — a reason to move to Manchester.*<br>• *I don't know what I would do with my spare time without you.*<br>• *Refreshing company that brings diverse shows to our door steps.*<br>• *WoW are great, supporting emerging work and bringing it to new audiences.*             
