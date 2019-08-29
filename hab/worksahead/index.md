@@ -9,7 +9,7 @@ artist: "Works Ahead" # the name of the artist or company
 show: "Annual sample of new performance." # the name of the artist or company
 show_size: 4
 header_image: "header_woah_photo.jpg"   
-season: "hÅb — Works Ahead"
+season: "hÅb's Works Ahead"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
