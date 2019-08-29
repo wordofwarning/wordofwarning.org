@@ -13,7 +13,7 @@ Brought to you by [hÅb](/hab) — with NIAMOS, STUN (Sustained Theatre Up North
 #### What is Word of Warning + where did it come from?         
 >*Consistently refreshing and surprising, no season is ever the same…*          
          
-Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of new live performance — an attempt to keep alive the best of the 25 year greenroom legacy, and to introduce new people to the possibilities of seeing live work in Manchester + beyond…           
+Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful, and the bizarre of new live performance — an attempt to keep alive the best of greenroom's 25-year legacy, and to introduce new people to the possibilities of seeing live work in Manchester + beyond…           
          
 >*…a strand of alternative and fledgling work that has only recently got a new lease of life via Word of Warning and Emergency.*<br><a href="http://www.creativetourist.com/articles/theatre/manchester/manchester-theatre-lyn-gardner-on-a-city-reaching-beyond-the-theatrical-peaks" target="_blank">Creative Tourist on Manchester theatre (November 2014)</a>
          
