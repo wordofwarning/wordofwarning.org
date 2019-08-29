@@ -17,7 +17,7 @@ season: "Works Ahead — Mark Croasdale 16+17|5|2019"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, Contact + STUN *in* [Works Ahead 2019](/current/2019-worksahead) *as a double bill with* [Avital Raz](/current/2019-worksahead/raz)               
+*Presented by* Word of Warning, Contact + STUN *in* [Works Ahead 2019](/archive/2019-worksahead) *as a double bill with* [Avital Raz](/archive/2019-worksahead/raz)               
          
 #### In Brief        
 *"Young, gay, fabulous — it's all about being out and going out… isn't it?"*         
