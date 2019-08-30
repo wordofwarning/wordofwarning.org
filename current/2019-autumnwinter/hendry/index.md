@@ -4,12 +4,12 @@ layout: 2019-autumnwinter
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Lauren Hendry<br>dir. Jenna Watt" # the name of the artist or company
+artist: "Lauren Hendry<br>(dir. Jenna Watt)" # the name of the artist or company
 show: "Tetra-Decathlon" # the name of the show
 artist_size: 1
 show_size: 1
 header_image: "header_lauren.jpg"   
-season: "Lauren Hendry, dir. Jenna Watt 2|10|2019"
+season: "Lauren Hendry (dir. Jenna Watt) 2|10|2019"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -33,7 +33,7 @@ Box Office Tel: 0161 876 2000 (The Lowry)
 Age Advisory: 12+ (parental/guardian discretion).<br>Warning: includes mild swearing; for specific content warnings please click [here](/warnings).<br>Duration: approximately 1 hour (no interval).<br>Features: spoken English, *with more tbc*.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.        
              
 #### More         
-Featuring running, hurdling, jumping, throwing… a tetra-decathlon is 14 kinds of daft.<br><br>Having never been for a jog around the park or even set foot on an athletics track, Lauren signed up to the World Ultra Multievent Championships — committing to learn fourteen track and field disciplines from scratch, and then compete in just 600 days. As she runs, jumps, and throws herself into a world of serious amateurs and comedic coaches, Lauren discovers that winning is not simply about crossing the line first.<br><br>Charting her journey from couch to competition, *Tetra-Decathlon* questions the psychology of sport and what drives us to compete in a joyous exploration of coming last, and then coming back for more.        
+Featuring running, hurdling, jumping, throwing… a tetra-decathlon is 14 kinds of daft.<br><br>Having never been for a jog around the park or even set foot on an athletics track, Lauren signed up to the World Ultra Multievent Championships — committing to learn fourteen track and field disciplines from scratch, and then compete in just 600 days.<br>As she runs, jumps, and throws herself into a world of serious amateurs and comedic coaches, Lauren discovers that winning is not simply about crossing the line first.<br><br>Charting her journey from couch to competition, *Tetra-Decathlon* questions the psychology of sport and what drives us to compete… A joyous exploration of coming last, and then coming back for more.        
         
 #### Q&A
 Following a short break after the show, audience members are invited to ask questions about the work and Lauren's experiences of training + competing in the tetra-decathlon.        
