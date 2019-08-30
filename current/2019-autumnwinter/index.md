@@ -3,12 +3,12 @@
 layout: 2019-autumnwinter
 rootpath: "../../"
 is_index: true
-season: "A/W 2019"
+season: "AW19"
 
 ---
 *From a [twentieth marathon event](/current/2019-emergency) to a [fourteen event marathon](/current/2019-autumnwinter/hendry); a feat of [prestidigitation](/current/2019-autumnwinter/cassani) to a [radical ritual for resistance](/current/2019-autumnwinter/athey)… Autumn/Winter 2019 is a season of contrasts, controversy, and celebration. To keep in touch, <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.*               
           
-Brought to you by [hÅb](/hab) — with NIAMOS, STUN (Sustained Theatre Up North), Z-arts, The Lowry — we look forward to seeing you at some or all of A/W 2019. If you want to check out what happened last season take a look at our [S/S 2019 archive](/archive/2019-springsummer).                 
+Brought to you by [hÅb](/hab) — with NIAMOS, STUN (Sustained Theatre Up North), Z-arts, The Lowry — we look forward to seeing you at some or all of AW19. If you want to check out what happened last season take a look at our [SS19 archive](/archive/2019-springsummer).                 
              
 #### What is Word of Warning + where did it come from?         
 >*Consistently refreshing and surprising, no season is ever the same…*          
