@@ -42,7 +42,8 @@ Enquiries: 07488 308 111 (*on the day*) / 0161 232 6086 (*during weekday office 
 >• *Fresh, exciting, unpredictable, mixed and provocative. Rewarding, too!*<br>• *I am amazed they manage so many shows in a day…*<br>• *The diversity is outstanding and so inclusive of all.*<br>• *Inspiring new talent…*<br>• *Really important event for NW artists — safe space to experiment.*<br>• *Performances are both rewarding in their own right, and also offer a glimpse into where theatre might go in our more interactive and interconnected world.*<br>• *Thought provoking & frankly unique. It sets Manchester apart.*<br>[Audience Feedback from Emergency 2018 + earlier years…](/archive/2018-emergency)          
          
 #### Credits         
-[Emergency](/hab/emergency) 2019 is produced by [hÅb](/hab); supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>.         
-               
+[Emergency](/hab/emergency) 2019 is produced by [hÅb](/hab); supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>.        
+Image: Kelvin Atmadibrata by Luana Logina.       
+                
 #### Websites
 <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>
