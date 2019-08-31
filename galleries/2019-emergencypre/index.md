@@ -1,0 +1,36 @@
+---
+
+layout: fullscreengallery
+assetpath: "../../../"
+galleryimagespath: ""
+
+title: "Word of Warning, NIAMOS, STUN + Z-arts present Emergency 21|9|2019"
+header: <img src="logo.png">
+stylesheet: gallery.css
+
+more_link: Emergency 2019
+more_url: "../../current/2019-emergency"
+
+gallery:
+    -   {file: "titlepage.jpg", artist: "A day out for the curious, Sat 21 Sep at NIAMOS, STUN + Z-arts.", show: "<small>Kelvin Atmadibrata by Luana Logina</small>"}
+    -   {file: "peter_jacobs.jpg", artist: "Peter Jacobs"}
+    -   {file: "thomas_mayer.jpg", artist: "Thomas Mayer"} 
+    -   {file: "tamar_jo.jpg", artist: "Tamar + Jo"} 
+    -   {file: "jade_williams.jpg", artist: "Jade Williams"}
+    -   {file: "bill_duffy.jpg", artist: "Bill Duffy"}
+    -   {file: "tomyumsim.jpg", artist: "TomYumSim"}
+    -   {file: "rahtattoo.jpg", artist: "rahtattoo"}
+    -   {file: "kris_canavan.jpg", artist: "Kris Canavan"}
+    -   {file: "kellie_colbert.jpg", artist: "Kellie Colbert"}
+    -   {file: "callum_berridge.jpg", artist: "Callum Berridge"}
+    -   {file: "ross_graham", artist: "Ross Graham"}
+    -   {file: "adam_john_roberts.jpg", artist: "Adam John Roberts"}
+    -   {file: "rosie_gibbens.jpg", artist: "Rosie Gibbens"}
+    -   {file: "katy_craig.jpg", artist: "Katy Dye + Craig Manson"}
+    -   {file: "strange_names.jpg", artist: "The Strange Names Collective"}
+    -   {file: "lara_gur.jpg", artist: "Lara Buffard + Gur Arie Piepskovitz"}
+    -   {file: "jazmine_webb.jpg", artist: "Jazmine Webb"}
+    -   {file: "helen_sulis_bowie.jpg", artist: "Helen Sulis Bowie"}
+    -   {file: "ross_mcaffrey.jpg", artist: "Ross McAffrey"}
+     
+---
