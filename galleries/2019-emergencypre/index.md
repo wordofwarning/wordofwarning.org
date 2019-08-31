@@ -25,7 +25,6 @@ gallery:
     -   {file: "callum_berridge.jpg", artist: "Callum Berridge"}
     -   {file: "ross_graham", artist: "Ross Graham"}
     -   {file: "adam_john_roberts.jpg", artist: "Adam John Roberts"}
-    -   {file: "rosie_gibbens.jpg", artist: "Rosie Gibbens"}
     -   {file: "katy_craig.jpg", artist: "Katy Dye + Craig Manson"}
     -   {file: "strange_names.jpg", artist: "The Strange Names Collective"}
     -   {file: "lara_gur.jpg", artist: "Lara Buffard + Gur Arie Piepskovitz"}
