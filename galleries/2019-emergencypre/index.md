@@ -23,7 +23,6 @@ gallery:
     -   {file: "kris_canavan.jpg", artist: "Kris Canavan"}
     -   {file: "kellie_colbert.jpg", artist: "Kellie Colbert"}
     -   {file: "callum_berridge.jpg", artist: "Callum Berridge"}
-    -   {file: "ross_graham", artist: "Ross Graham"}
     -   {file: "adam_john_roberts.jpg", artist: "Adam John Roberts"}
     -   {file: "katy_craig.jpg", artist: "Katy Dye + Craig Manson"}
     -   {file: "strange_names.jpg", artist: "The Strange Names Collective"}
