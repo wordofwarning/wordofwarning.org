@@ -12,7 +12,7 @@ more_link: Emergency 2019
 more_url: "../../current/2019-emergency"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "A day out for the curious, Sat 21 Sep at NIAMOS, STUN + Z-arts.", show: "<small>Kelvin Atmadibrata by Luana Logina</small>"}
+    -   {file: "titlepage.jpg", artist: "A day out for the curious at NIAMOS, STUN + Z-arts, Sat 21 Sep 2019", show: "<small>Kelvin Atmadibrata by Luana Logina</small>"}
     -   {file: "peter_jacobs.jpg", artist: "Peter Jacobs"}
     -   {file: "thomas_mayer.jpg", artist: "Thomas Mayer"} 
     -   {file: "tamar_jo.jpg", artist: "Tamar + Jo"} 
@@ -30,6 +30,6 @@ gallery:
     -   {file: "lara_gur.jpg", artist: "Lara Buffard + Gur Arie Piepskovitz"}
     -   {file: "jazmine_webb.jpg", artist: "Jazmine Webb"}
     -   {file: "helen_sulis_bowie.jpg", artist: "Helen Sulis Bowie"}
-    -   {file: "ross_mcaffrey.jpg", artist: "Ross McAffrey"}
+    -   {file: "ross_mcaffrey.jpg", artist: "Ross McCaffrey"}
      
 ---
