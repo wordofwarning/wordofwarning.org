@@ -19,14 +19,12 @@ season: "Emergency 21|9|2019"
 *Presented by* Word of Warning *in association with* NIAMOS, STUN *+* Z-arts           
          
 #### Saturday 21 September, 12noon-10pm. Pay What You Decide             
-Manchester's twentieth annual manic micro-marathon of the bizarre, the bold + the beautiful spreads its wings across two Hulme buildings — the decaying splendour of NIAMOS and the familiar turf of STUN + Z-arts. From stage to stairwell, dress circle to box office, thirty plus live works in a non-stop performance takeover…            
-            
-**From noon** dip in and out of ongoing performances, installations, and limited capacity experiences at NIAMOS; **from 5pm** join us for a series of short sit-down shows at STUN Studio + Z-arts. **Sample the different — then pay what you decide!**   
+Manchester's twentieth annual manic micro-marathon of the bizarre, the bold + the beautiful spreads its wings across two Hulme buildings — the decaying splendour of NIAMOS and the familiar turf of STUN + Z-arts. From stage to stairwell, dress circle to box office, thirty plus live works in a non-stop performance takeover… **Sample the different — then pay what you decide!**            
              
 #### Participating artists (*subject to change*)         
-**DAYTIME: 12noon-4.30pm at NIAMOS**<br>Alex Bradley | Bill Duffy | Charlotte McShane | Emergency Chorus | Gillian Knox | Holly Spillar | Jade Williams | Janet Charlesworth | Kellie Colbert | Kelvin Atmadibrata | Kris Canavan | Maya Chowdhry | Peter Jacobs | Pierce Starre | rahtattoo | Ross Graham | Shkiesha | Tamar + Jo | Thomas Mayer | TomYumSim | Will Dickie<br><br>**EVENING: 5pm-10pm at STUN Studio + Z-arts**<br>Adam John Roberts | Anna West + Louise Cross | Callum Berridge | Helen Sulis Bowie | Jazmine Webb | Katy Dye + Craig Manson | Lara Buffard + Gur Arie Piepskovitz | Rebekka Platt | Ross McCaffrey | Shahireh Sharif | The Strange Names Collective | Tania Camara | Vendetta Vain           
+**DAYTIME: 12noon-4.30pm at NIAMOS**<br>From noon dip in and out of ongoing performances, installations, and limited capacity experiences featuring:<br>Alex Bradley | Bill Duffy | Charlotte McShane | Emergency Chorus | Gillian Knox | Holly Spillar | Jade Williams | Janet Charlesworth | Kellie Colbert | Kelvin Atmadibrata | Kris Canavan | Maya Chowdhry | Peter Jacobs | Pierce Starre | rahtattoo | Ross Graham | Shkiesha | Tamar + Jo | Thomas Mayer | TomYumSim | Will Dickie<br><br>**EVENING: 5pm-10pm at STUN Studio + Z-arts**<br>From 5pm join us for a series of short sit-down shows with<br>:Adam John Roberts | Anna West + Louise Cross | Callum Berridge | Helen Sulis Bowie | Jazmine Webb | Katy Dye + Craig Manson | Lara Buffard + Gur Arie Piepskovitz | Rebekka Platt | Ross McCaffrey | Shahireh Sharif | The Strange Names Collective | Tania Camara | Vendetta Vain           
         
-To get a feel for it [see artist' images](/current/2019-emergency), or have a look at 2018's [programme](/archive/2018-emergency) + [image gallery](/galleries/2018-emergency).         
+To get a feel for it see [artist images](/galleries/2019-emergencypre), or have a look at 2018's [programme](/archive/2018-emergency) + [image gallery](/galleries/2018-emergency).         
          
 #### Venues + Booking Details         
 Date: Saturday 21 September 2019, 12noon-10pm (*last show ends about 10.30pm*)           
@@ -42,8 +40,7 @@ Enquiries: 07488 308 111 (*on the day*) / 0161 232 6086 (*during weekday office 
 >• *Fresh, exciting, unpredictable, mixed and provocative. Rewarding, too!*<br>• *I am amazed they manage so many shows in a day…*<br>• *The diversity is outstanding and so inclusive of all.*<br>• *Inspiring new talent…*<br>• *Really important event for NW artists — safe space to experiment.*<br>• *Performances are both rewarding in their own right, and also offer a glimpse into where theatre might go in our more interactive and interconnected world.*<br>• *Thought provoking & frankly unique. It sets Manchester apart.*<br>[Audience Feedback from Emergency 2018 + earlier years…](/archive/2018-emergency)          
          
 #### Credits         
-[Emergency](/hab/emergency) 2019 is produced by [hÅb](/hab); supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>.        
-Image: Kelvin Atmadibrata by Luana Logina.       
+[Emergency](/hab/emergency) 2019 is produced by [hÅb](/hab); supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a> | Image: Kelvin Atmadibrata by Luana Logina        
                 
 #### Websites
 <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>
