@@ -20,7 +20,7 @@ season: "Lauren Hendry (dir. Jenna Watt) 2|10|2019"
 *Presented by* The Lowry + Word of Warning *as a* <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a>
          
 #### In Brief      
-A funny + inspiring solo for all those who got picked last, but know there's more to give.         
+An inspiring solo for all those who got picked last, but know there's more to give.         
 <iframe src="http://player.vimeo.com/video/273654021" width="640" height="360" frameborder="0" allowfullscreen></iframe>           
            
 #### Venue + Booking Details           
