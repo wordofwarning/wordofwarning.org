@@ -20,7 +20,7 @@ season: "Ron Athey 23|10|2019"
 *Presented by* Word of Warning *in association with* NIAMOS *+* STUN       
          
 #### In Brief      
-A radical ritual for resistance.<br>A provocation for where we are now.<br><br>Read a recent long-form interview about Athey's practice in <a href="http://www.documentjournal.com/2019/05/blood-christ-and-shock-value-the-gospel-according-to-ron-athey" target="_blank">Document Journal</a>.                     
+A radical ritual for resistance. A provocation for where we are now.<br><br>Read a recent long-form interview about Athey's practice in <a href="http://www.documentjournal.com/2019/05/blood-christ-and-shock-value-the-gospel-according-to-ron-athey" target="_blank">Document Journal</a>.                     
          
 #### Venue + Booking Details       
 Date: Wednesday 23 October 2019, 7.30pm (*doors open at 7pm*)        
