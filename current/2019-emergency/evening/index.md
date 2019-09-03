@@ -20,11 +20,11 @@ season: "Emergency 21|9|2019, EVENING"
 *Presented by* Word of Warning *in association with* STUN *+* Z-arts         
        
 #### Participating Artists (*subject to change*)
-***EVENING: 5pm-10pm at STUN Studio + Z-arts***<br>*From 5pm join us for a series of short sit-down shows with:*<br>Adam John Roberts | Anna West + Louise Cross | Callum Berridge | Helen Sulis Bowie | Jazmine Webb | Katy Dye + Craig Manson | Lara Buffard + Gur Arie Piepskovitz | Rebekka Platt | Ross McCaffrey | Shahireh Sharif | Tania Camara | The Strange Names Collective | Vendetta Vain<br>*Preceded by [DAYTIME](/current/2019-emergency/daytime): 12noon-4.30pm at NIAMOS           
+***EVENING: 5pm-10pm at STUN Studio + Z-arts***<br>*Join us for a series of short sit-down shows with:*<br>Adam John Roberts | Anna West + Louise Cross | Callum Berridge | Helen Sulis Bowie | Jazmine Webb | Katy Dye + Craig Manson | Lara Buffard + Gur Arie Piepskovitz | Rebekka Platt | Ross McCaffrey | Shahireh Sharif | Tania Camara | The Strange Names Collective | Vendetta Vain<br>*Preceded by [DAYTIME](/current/2019-emergency/daytime): 12noon-4.30pm at NIAMOS*           
            
 #### Venues + Booking Details, for EVENING
 Date: Saturday 21 September 2019, 5pm-10pm (*last show ends about 10.30pm*)           
-Evening Venues: 5-10pm at <a href="http://stunlive.com" target="_blank">STUN Studio</a> + <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Rd, Hulme, M15 5ZA        
+Venues: <a href="http://stunlive.com" target="_blank">STUN Studio</a> + <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Rd, Hulme, M15 5ZA        
 Tickets: NO booking required, Pay What You Decide in person on the day.<br>Entry: individual shows in the EVENING usually have a no-latecomer policy. Some works have a limited capacity (marked †) with either sign-up sheets on the day or operating first-come, first-served.       
 Enquiries: 07488 308 111 (*on the day*) / 0161 232 6086 (*during weekday office hours*)          
          
