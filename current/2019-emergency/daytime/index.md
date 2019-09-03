@@ -6,9 +6,9 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency 2019" # the name of the artist or company
-show: "DAYTIME: 12noon-4.30pm | NIAMOS" # the name of the show
+show: "DAYTIME: 12noon-4.30pm" # the name of the show
 artist_size: 1
-show_size: 4
+show_size: 3
 header_image:
 season: "Emergency 21|9|2019, DAYTIME"
 
@@ -19,26 +19,26 @@ season: "Emergency 21|9|2019, DAYTIME"
 ---
 *Presented by* Word of Warning *in association with* NIAMOS           
          
-#### Participating Artists (*subject to change*)      
+#### Participating Artists (*subject to change*)
 ***DAYTIME: 12noon-4.30pm at NIAMOS***<br>*From noon dip in + out of ongoing performances, installations + ltd capacity experiences:*<br>Alex Bradley | Bill Duffy | Charlotte McShane | Emergency Chorus | Gillian Knox | Holly Spillar | Jade Williams | Janet Charlesworth | Kellie Colbert | Kelvin Atmadibrata | Kris Canavan | Maya Chowdhry | Peter Jacobs | Pierce Starre | rahtattoo | Ross Graham | Shkiesha | Tamar + Jo | Thomas Mayer | TomYumSim | Will Dickie          
-           
-**Chanje Kunda | *Plant Fetish***         
-A performance installation and an indoor oasis for this urban space. Elaborate exotic plants display their splendour alongside a solo human performer. A lavish a journey with plants to excite and tantalise…            
-**Chanje Kunda** has featured at The Royal Albert Hall, and venues in Amsterdam, Rotterdam + Eindhoven. As a solo performance artist she has performed at The Southbank, the National Arts Festival of South Africa, the HIFA Festival (Zimbabwe), and is a recipient of the BBC's Verb New Voices Award.         
-<a href="http://chanjekunda.com" target="_blank">chanjekunda.com</a> | <a href="http://twitter.com/chanjekunda" target="_blank">@chanjekunda</a>                     
-       
-
-#### Venue + Booking Details, for DAYTIME         
+        
+#### Venue + Booking Details, for DAYTIME
 Date: Saturday 21 September 2019, 12noon-10pm (*last show ends about 10.30pm*)           
 Daytime Venue: 12noon-4.30pm at <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, Chichester Rd, Hulme, M15 5EU        
 Tickets: NO booking required, Pay What You Decide in person on the day.<br>Entry: during the DAYTIME come and go as you please. Some works have a limited capacity (marked †) with either sign-up sheets on the day or operating first-come, first-served.       
 Enquiries: 07488 308 111 (*on the day*) / 0161 232 6086 (*during weekday office hours*)          
          
-#### Access Information, for DAYTIME       
-**Age Advisory: mainly aimed at adults, parental/guardian discretion is advised; some works (clearly signposted) are not be suitable for under 18s.**<br>Warning: some works may disturb; for specific content warnings please click [here](/warnings).<br>Access: uses a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity (marked †), some participatory. We apologise but some DAYTIME works will not be accessible to wheelchair users or those with limited mobility due to the nature of the NIAMOS building.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.        
-            
+#### Access Information, for DAYTIME
+**Age Advisory: mainly aimed at adults, parental/guardian discretion is advised; some works (clearly signposted) are not be suitable for under 18s.**<br>Warning: some works may disturb; for specific content warnings please click [here](/warnings).<br>Access: uses a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity (marked †), some participatory. We apologise but some DAYTIME works will not be accessible to wheelchair users or those with limited mobility due to the nature of the NIAMOS building.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
+         
+#### Programme Notes, for DAYTIME
+**artist | *title***         
+copy copy copy…            
+**the artist** is biography.           
+<a href="http://" target="_blank">URL</a> | <a href="http://twitter.com/" target="_blank">@</a>            
+        
 #### Credits         
 [Emergency](/hab/emergency) 2019 is produced by [hÅb](/hab); supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a> | Image: Kelvin Atmadibrata by Luana Logina        
-                
+          
 #### Websites
 <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a> | <a href="http://www.facebook.com/events/271911716774296" target="_blank">Facebook event</a>
