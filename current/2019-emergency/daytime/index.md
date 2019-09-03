@@ -17,13 +17,13 @@ season: "Emergency 21|9|2019, DAYTIME"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-*Presented by* Word of Warning *in association with* NIAMOS           
+*Presented by* Word of Warning *in association with* NIAMOS        
          
 #### Participating Artists (*subject to change*)
-***DAYTIME: 12noon-4.30pm at NIAMOS***<br>*From noon dip in + out of ongoing performances, installations + ltd capacity experiences:*<br>Alex Bradley | Bill Duffy | Charlotte McShane | Emergency Chorus | Gillian Knox | Holly Spillar | Jade Williams | Janet Charlesworth | Kellie Colbert | Kelvin Atmadibrata | Kris Canavan | Maya Chowdhry | Peter Jacobs | Pierce Starre | rahtattoo | Ross Graham | Shkiesha | Tamar + Jo | Thomas Mayer | TomYumSim | Will Dickie          
+***DAYTIME: 12noon-4.30pm at NIAMOS***<br>*From noon dip in + out of ongoing performances, installations + ltd capacity experiences:*<br>Alex Bradley | Bill Duffy | Charlotte McShane | Emergency Chorus | Gillian Knox | Holly Spillar | Jade Williams | Janet Charlesworth | Kellie Colbert | Kelvin Atmadibrata | Kris Canavan | Maya Chowdhry | Peter Jacobs | Pierce Starre | rahtattoo | Ross Graham | Shkiesha | Tamar + Jo | Thomas Mayer | TomYumSim | Will Dickie<br>*Followed by [EVENING](/current/2019-emergency/evening): 5pm-10pm at STUN + Z-arts*          
         
 #### Venue + Booking Details, for DAYTIME
-Date: Saturday 21 September 2019, 12noon-10pm (*last show ends about 10.30pm*)           
+Date: Saturday 21 September 2019, 12noon-4.30pm (*last show ends about 4.35pm*)         
 Daytime Venue: 12noon-4.30pm at <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, Chichester Rd, Hulme, M15 5EU        
 Tickets: NO booking required, Pay What You Decide in person on the day.<br>Entry: during the DAYTIME come and go as you please. Some works have a limited capacity (marked †) with either sign-up sheets on the day or operating first-come, first-served.       
 Enquiries: 07488 308 111 (*on the day*) / 0161 232 6086 (*during weekday office hours*)          
