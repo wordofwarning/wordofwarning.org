@@ -16,12 +16,14 @@ gallery:
     -   {file: "peter_jacobs.jpg", artist: "Peter Jacobs"}
     -   {file: "thomas_mayer.jpg", artist: "Thomas Mayer"} 
     -   {file: "tamar_jo.jpg", artist: "Tamar + Jo"} 
+    -   {file: "maya_chowdhry.jpg", artist: "Maya Chowdhry"}
     -   {file: "jade_williams.jpg", artist: "Jade Williams"}
     -   {file: "bill_duffy.jpg", artist: "Bill Duffy"}
     -   {file: "tomyumsim.jpg", artist: "TomYumSim"}
     -   {file: "rahtattoo.jpg", artist: "rahtattoo"}
     -   {file: "kris_canavan.jpg", artist: "Kris Canavan"}
     -   {file: "kellie_colbert.jpg", artist: "Kellie Colbert"}
+    -   {file: "will_dickie.jpg", artist: "Will Dickie"}
     -   {file: "callum_berridge.jpg", artist: "Callum Berridge"}
     -   {file: "ross_graham.jpg", artist: "Ross Graham"}
     -   {file: "adam_john_roberts.jpg", artist: "Adam John Roberts"}
