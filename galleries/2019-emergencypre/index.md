@@ -25,7 +25,7 @@ gallery:
     -   {file: "callum_berridge.jpg", artist: "Callum Berridge"}
     -   {file: "ross_graham.jpg", artist: "Ross Graham"}
     -   {file: "adam_john_roberts.jpg", artist: "Adam John Roberts"}
-    -   {file: "katy_craig.jpg", artist: "Katy Dye + Craig Manson"}
+    -   {file: "katy_craig.jpg", artist: "Katy Dye + Craig Manson",show: "<small>image: Daniel Hughes</small>"}
     -   {file: "strange_names.jpg", artist: "The Strange Names Collective"}
     -   {file: "lara_gur.jpg", artist: "Lara Buffard + Gur Arie Piepskovitz"}
     -   {file: "jazmine_webb.jpg", artist: "Jazmine Webb"}
