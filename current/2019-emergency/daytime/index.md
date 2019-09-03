@@ -20,7 +20,7 @@ season: "Emergency 21|9|2019, DAYTIME"
 *Presented by* Word of Warning *in association with* NIAMOS        
          
 #### Participating Artists (*subject to change*)
-***DAYTIME: 12noon-4.30pm at NIAMOS***<br>*Dip in + out of ongoing performances, installations + limited capacity experiences:*<br>Alex Bradley | Bill Duffy | Charlotte McShane | Emergency Chorus | Gillian Knox | Holly Spillar | Jade Williams | Janet Charlesworth | Kellie Colbert | Kelvin Atmadibrata | Kris Canavan | Maya Chowdhry | Peter Jacobs | Pierce Starre | rahtattoo | Ross Graham | Shkiesha | Tamar + Jo | Thomas Mayer | TomYumSim | Will Dickie<br>*Followed by [EVENING](/current/2019-emergency/evening): 5pm-10pm at STUN + Z-arts*          
+***DAYTIME: 12noon-4.30pm at NIAMOS***<br>*Dip in + out of ongoing performances, installations + limited capacity experiences with:*<br>Alex Bradley | Bill Duffy | Charlotte McShane | Emergency Chorus | Gillian Knox | Holly Spillar | Jade Williams | Janet Charlesworth | Kellie Colbert | Kelvin Atmadibrata | Kris Canavan | Maya Chowdhry | Peter Jacobs | Pierce Starre | rahtattoo | Ross Graham | Shkiesha | Tamar + Jo | Thomas Mayer | TomYumSim | Will Dickie<br>*Followed by [EVENING](/current/2019-emergency/evening): 5pm-10pm at STUN + Z-arts*          
         
 #### Venue + Booking Details, for DAYTIME
 Date: Saturday 21 September 2019, 12noon-4.30pm (*last show ends about 4.35pm*)         
