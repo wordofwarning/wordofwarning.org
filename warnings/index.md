@@ -12,10 +12,17 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-This page is for [Word of Warning](/) audience members who would like to know more about the content of the work presented in our Performance Programme [(currently AW19)](/current/2019-autumnwinter) and particularly highlights elements that may distress, cause upset, or trigger. If you would like to get in touch please email <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours. Please note this page reflects the most recent information we have received from the artists we present (*as of Thu 29 Aug 2019, 2.24pm*).         
+This page is for [Word of Warning](/) audience members who would like to know more about the content of the work presented in our Performance Programme [(currently AW19)](/current/2019-autumnwinter) and particularly highlights elements that may distress, cause upset, or trigger. If you would like to get in touch please email <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours. Please note this page reflects the most recent information we have received from the artists we present (*as of Thu 12 Sep 2019, 4.45pm*).         
 <hr>          
 ##### [*Sat 21 Sep*: Emergency 2019 | NIAMOS, STUN Studio + Z-arts](/current/2019-emergency)        
-Age Advisory: mainly aimed at adults, parental/guardian discretion is advised; some works (to be clearly signposted in the programme) are not be suitable for under 18s.<br>Specific Content Warnings: to be confirmed here in early September.        
+Age Advisory: mainly aimed at adults, parental/guardian discretion is advised; some works (see below) are not be suitable for under 18s.          
+***EVENING: 5pm-10pm* | STUN Studio + Z-arts**         
+**Helen Sulis Bowie | *Smashing It!***<br>Age Advisory: parental/guardian discretion.<br>Content Warning: contains swearing + references to personal + political violence.              
+**Lara Buffard + Gur A Piepskovitz | *Confessional on The Dance Floor (Madonna's true vassals)***<br>Age Advisory: 18+<br>Content Warning: mature content + drinking of tequila.              
+**Rebekka Platt | *Do you want fries with that?***<br>Age Advisory: parental/guardian discretion<br>Content Warning: features nudity.             
+**Ross McCaffrey | *Sometimes History Needs a Push***<br>Age Advisory: parental/guardian discretion.<br>Content Warning: political violence, references to genocide.               
+**Shahireh Sharif | *I am an orange dot***<br>Age Advisory: parental/guardian discretion.<br>Content Warning: a work about refugees + includes mentions of death + drowning that some people might find upsetting. References to hanging, the taste of blood + dead bodies.             
+**Vendetta Vain | *Taking the Piss***<br>Age Advisory: 16+ (parental/guardian discretion).<br>Content Warning: features nudity + bodily functions.           
 <hr>          
 ##### [*Wed 2 Oct: Tetra-Decathlon* by Lauren Hendry, dir. Jenna Watt | The Lowry](/current/2019-autumnwinter/hendry)        
 Age Advisory: 12+ (parental/guardian discretion).<br>Specific Content Warnings: includes mild swearing.        
