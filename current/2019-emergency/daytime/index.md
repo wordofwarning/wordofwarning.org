@@ -17,7 +17,7 @@ season: "Emergency 21|9|2019, DAYTIME"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-*Presented by* Word of Warning *in association with* NIAMOS        
+*[Emergency 2019](/current/2019-emergency) is presented by* Word of Warning *in association with* NIAMOS        
          
 #### Participating Artists (*subject to change*)
 ***DAYTIME: 12noon-4.30pm at NIAMOS***<br>*Dip in + out of ongoing performances, installations + limited capacity experiences with:*<br>Alex Bradley | Bill Duffy | Charlotte McShane | Emergency Chorus | Gillian Knox | Holly Spillar | Jade Williams | Janet Charlesworth | Kellie Colbert | Kelvin Atmadibrata | Kris Canavan | Maya Chowdhry | Peter Jacobs | Pierce Starre | rahtattoo | Ross Graham | Shkiesha | Tamar + Jo | Thomas Mayer | TomYumSim | Will Dickie<br>*Followed by [EVENING](/current/2019-emergency/evening): 5pm-10pm at STUN + Z-arts*          
