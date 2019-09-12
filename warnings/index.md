@@ -21,7 +21,7 @@ Age Advisory: mainly aimed at adults, parental/guardian discretion is advised; s
 ##### [*Sat 21 Sep, EVENING*: Emergency 2019 | STUN Studio + Z-arts](/current/2019-emergency)        
 Age Advisory: mainly aimed at adults, parental/guardian discretion is advised; some works (see below) are not be suitable for under 18s.          
 **Helen Sulis Bowie | *Smashing It!***<br>Age Advisory: parental/guardian discretion.<br>Content Warning: contains swearing + references to personal + political violence.              
-**Lara Buffard + Gur A Piepskovitz | *Confessional on The Dance Floor (Madonna's true vassals)***<br>Age Advisory: 18+<br>Content Warning: mature content + drinking of tequila.              
+**Lara Buffard + Gur A Piepskovitz | *Confessional on The Dance Floor (Madonna's true vassals)***<br>Age Advisory: 18+ for one to one participation.<br>Content Warning: mature content + drinking of tequila.              
 **Rebekka Platt | *Do you want fries with that?***<br>Age Advisory: parental/guardian discretion<br>Content Warning: features nudity.             
 **Ross McCaffrey | *Sometimes History Needs a Push***<br>Age Advisory: parental/guardian discretion.<br>Content Warning: political violence, references to genocide.               
 **Shahireh Sharif | *I am an orange dot***<br>Age Advisory: parental/guardian discretion.<br>Content Warning: a work about refugees + includes mentions of death + drowning that some people might find upsetting. references to hanging, dead bodies floating + the taste of blood.             
