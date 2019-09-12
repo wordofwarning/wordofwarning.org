@@ -24,7 +24,7 @@ Age Advisory: mainly aimed at adults, parental/guardian discretion is advised; s
 **Lara Buffard + Gur A Piepskovitz | *Confessional on The Dance Floor (Madonna's true vassals)***<br>Age Advisory: 18+<br>Content Warning: mature content + drinking of tequila.              
 **Rebekka Platt | *Do you want fries with that?***<br>Age Advisory: parental/guardian discretion<br>Content Warning: features nudity.             
 **Ross McCaffrey | *Sometimes History Needs a Push***<br>Age Advisory: parental/guardian discretion.<br>Content Warning: political violence, references to genocide.               
-**Shahireh Sharif | *I am an orange dot***<br>Age Advisory: parental/guardian discretion.<br>Content Warning: a work about refugees + includes mentions of death + drowning that some people might find upsetting. References to hanging, the taste of blood + dead bodies.             
+**Shahireh Sharif | *I am an orange dot***<br>Age Advisory: parental/guardian discretion.<br>Content Warning: a work about refugees + includes mentions of death + drowning that some people might find upsetting. references to hanging, dead bodies floating + the taste of blood.             
 **Vendetta Vain | *Taking the Piss***<br>Age Advisory: 16+ (parental/guardian discretion).<br>Content Warning: features nudity + bodily functions.           
 <hr>          
 ##### [*Wed 2 Oct: Tetra-Decathlon* by Lauren Hendry, dir. Jenna Watt | The Lowry](/current/2019-autumnwinter/hendry)        
