@@ -29,13 +29,10 @@ Tickets: NO booking required, Pay What You Decide in person on the day.<br>Entry
 Enquiries: 07488 308 111 (*on the day*) / 0161 232 6086 (*during weekday office hours*)          
          
 #### Access Information, for DAYTIME
-**Age Advisory: mainly aimed at adults, parental/guardian discretion is advised; some works (clearly signposted) are not be suitable for under 18s.**<br>Warning: some works may disturb; for specific content warnings please click [here](/warnings).<br>Access: uses a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity (marked †), some participatory. We apologise but some DAYTIME works will not be accessible to wheelchair users or those with limited mobility due to the nature of the NIAMOS building.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
+**Age Advisory: mainly aimed at adults, parental/guardian discretion is advised; some works (see [here](/warnings)) are not be suitable for under 18s.**<br>Warning: some works may disturb; for specific content warnings please click [here](/warnings).<br>Access: uses a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity (marked †), some participatory. We apologise but some DAYTIME works will not be accessible to wheelchair users or those with limited mobility due to the nature of the NIAMOS building.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
          
 #### Programme Notes, for DAYTIME
-**artist | *title***         
-copy copy copy…            
-**the artist** is biography.           
-<a href="http://" target="_blank">URL</a> | <a href="http://twitter.com/" target="_blank">@</a>            
+      
         
 #### Credits         
 [Emergency](/hab/emergency) 2019 is produced by [hÅb](/hab); supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a> | Image: Kelvin Atmadibrata by Luana Logina        
