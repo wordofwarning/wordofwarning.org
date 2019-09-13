@@ -17,7 +17,7 @@ season: "Emergency 21|9|2019, EVENING"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-*[Emergency 2019](/current/2019-emergency) is presented by* Word of Warning *in association with* STUN *+* Z-arts         
+*The second half of* [Emergency 2019](/current/2019-emergency) *is presented by* Word of Warning *with* STUN *+* Z-arts         
        
 #### Participating Artists (*subject to change*)
 ***EVENING: 5pm-10pm at STUN Studio + Z-arts***<br>*Join us for a series of short sit-down shows with:*<br>Adam John Roberts | Anna West + Louise Cross | Callum Berridge | Helen Sulis Bowie | Jazmine Webb | Katy Dye + Craig Manson | Lara Buffard + Gur Arie Piepskovitz | Rebekka Platt | Ross McCaffrey | Shahireh Sharif | Tania Camara | The Strange Names Collective | Vendetta Vain<br>*Preceded by [DAYTIME](/current/2019-emergency/daytime): 12noon-4.30pm at NIAMOS*           
@@ -29,7 +29,7 @@ Tickets: NO booking required, Pay What You Decide in person on the day.<br>Entry
 Enquiries: 07488 308 111 (*on the day*) / 0161 232 6086 (*during weekday office hours*)          
          
 #### Access Information, for EVENING
-**Age Advisory: mainly aimed at adults, parental/guardian discretion is advised; some works (see [here](/warnings)) are not suitable for under 18s.**<br>Warning: some works may disturb; for specific content warnings please click [here](/warnings).<br>Access: uses a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.        
+**Age Advisory: mainly aimed at adults, parental/guardian discretion is advised; some works (see [here](/warnings)) are not suitable for under 18s.**<br>Warning: some works may disturb; for specific content warnings please click [here](/warnings).<br>Access: uses a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. The EVENING programme has full step-free access.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.        
          
 #### Programme Notes, for EVENING
 **Adam John Roberts | *Outcast***          
