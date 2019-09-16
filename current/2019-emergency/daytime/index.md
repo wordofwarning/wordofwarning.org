@@ -54,8 +54,9 @@ A performance that discusses parenthood, created from recorded conversations bet
 Gift yourself with the time to confess.<br>A Divergency micro-commission.<br>**Jade** is an emerging creative, dancer + performer. When she dances, the music + moves stir her soul. She's on a search for greater human connection + understanding which begins with the creation of this, her first one to one piece.           
            
 **Janet Charlesworth | *Article 19***          
-Supported using public funding by the National Lottery through Arts Council England.<br>**Janet** is a member of Proud & Loud Arts.
-            
+**Janet** is a Manchester based artist and regularly works with Proud and Loud Arts. She has performed previous work at Manchester Art Gallery, University of Manchester, Edge Hill University, and Tate Liverpool as part of DaDaFest International. Janet enjoys creating work that provokes a conversation and flirts playfully with feelings of discomfort and shame.     
+Supported using public funding by the National Lottery through Arts Council England.    
+          
 **Kellie Colbert | *Bad Feminist***           
 *I have something to say… to confess. I am going to tell you a story… a confessional story.<br>Three people are going to share this space + they are going to share the same body.<br>It's time to confess + let me speak.*<br>**Kellie** is a Leigh-born performance maker, who has recently worked alongside Jake Bowen in his piece *Plea Bargain*. She has collaborated with Eggs Collective on the-award winning *Are You Still Watching* + featured in their BBC Arts web series.<br>See age advisory + content warning [here](/warnings).<br><a href="http://twitter.com/imKellieColbert" target="_blank">@imKellieColbert</a>         
            
