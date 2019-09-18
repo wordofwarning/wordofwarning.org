@@ -54,8 +54,6 @@ A performance that discusses parenthood, created from recorded conversations bet
 Gift yourself with the time to confess.<br>A Divergency micro-commission.<br>**Jade** is an emerging creative, dancer + performer. When she dances, the music + moves stir her soul. She's on a search for greater human connection + understanding which begins with the creation of this, her first one to one piece.           
            
 **Janet Charlesworth | *Article 19***          
-This work-in-development explores attitudes towards disability through the Victorian era to the present day. In response to proposals made by Barnet Council which places ‘customers’ economic viability over their Human Rights – in-particular Article 19, we ask the question: Do people living with disabilities have a right to remain in the community? Supported using public funding by the National Lottery through Arts Council England.        
-
 **Janet** is a Manchester based artist and regularly works with Proud and Loud Arts. She has performed previous work at Manchester Art Gallery, University of Manchester, Edge Hill University, and Tate Liverpool as part of DaDaFest International. Janet enjoys creating work that provokes a conversation and flirts playfully with feelings of discomfort and shame.     
 Supported using public funding by the National Lottery through Arts Council England.    
           
