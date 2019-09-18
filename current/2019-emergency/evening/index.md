@@ -31,7 +31,9 @@ Enquiries: 07488 308 111 (*on the day*) / 0161 232 6086 (*during weekday office 
 #### Access Information, for EVENING
 **Age Advisory: mainly aimed at adults, parental/guardian discretion is advised; some works (see [here](/warnings)) are not suitable for under 18s.**<br>Warning: some works may disturb; for specific content warnings please click [here](/warnings).<br>Access: uses a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. The EVENING programme has full step-free access.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.        
          
-#### Programme Notes, for EVENING
+#### Programme Notes, for EVENING             
+Download a schedule <a href="http://emergencymcr.posthaven.com/emergency-schedules" target="_blank">here</a>.            
+             
 **Adam John Roberts | *Outcast***          
 A gender-fluid LGBTQIA+ solo dance work taken from Adam's life as a gay man with autism. One feels that homosexuals who also identify as autistic feel socially unaccepted within the LGBTQIA+ community — not because of their sexual orientation, but their invisible disability. Developed with support from Ludus Dance through the 'Occupied' Associate Artist Scheme.<br>**Adam** is a Halton-based independent dance artist + has studied dance at both BA + MA level. He has participated in projects with 12 Degrees North Dance Company + English National Ballet whilst choreographing/performing autobiographical solo dance works for regional platforms like [Turn](/hab/turn).<br><a href="http://ajrbama.wixsite.com/adamjohnroberts" target="_blank">ajrbama.wixsite.com/adamjohnroberts</a>           
                
