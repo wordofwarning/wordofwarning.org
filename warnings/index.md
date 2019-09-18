@@ -19,14 +19,15 @@ Age Advisory: overall event is mainly aimed at adults, parental/guardian discret
 **Alex Bradley | *Almost Everything is Black + White***<br>Age Advisory: parental/guardian discretion.<br>Content Warning: features nudity.        
 **Bill Duffy | *Scar Tissue / Symmetry***<br>Age Advisory: 18+ (parental/guardian discretion).<br>Content Warnings: features blood-letting, disturbing content + themes of abuse.         
 **Charlotte McShane | *Tell Me Lies***<br>Age Advisory: 18+ (parental/guardian discretion).<br>Content Warnings: includes swearing, shouting, mild sexual content; requires active audience participation in a one-to-one setting; audience members need to feel comfortable by themselves + aware of the possibility of oversharing.            
-**Gillian Knox | *Everybody Always Tells the Truth***<br>Age Advisory: parental/guardian discretion.<br>Content Warning: discusses aspects of giving birth which some may find upsetting.           
+**Gillian Knox | *Everybody Always Tells the Truth***<br>Content Warning: discusses aspects of giving birth which some may find upsetting.           
 **Holly Spillar | *Hole***<br>Age Advisory: parental/guardian discretion.<br>Content Warnings: the work is about sex, sexual problems + Vaginismus, which may be distressing to some.        
+**Jade Williams | *An Intimate Confession Cup***<br>Age Advisory: 18+ (parental/guardian discretion).<br>Content Warning: requires active audience participation in a one-to-one setting; audience members need to feel comfortable by themselves.         
 **Kellie Colbert | *Bad Feminist***<br>Age Advisory: parental/guardian discretion.<br>Content Warning: includes photographic nudity.         
 **Kris Canavan | *Back To Basics***<br>Age Advisory: 18+ (parental/guardian discretion).<br>Content Warnings: includes blood-letting, nudity + other content that some may find disturbing.          
-**Pierce Starre | *Labels***<br>Age Advisory: parental/guardian discretion.<br>Content Warning: as an interactive piece the artist has no control over what is written on the labels.           
+**Pierce Starre | *Labels***<br>Content Warning: as an interactive piece the artist has no control over what is written on the labels.           
 **rahtattoo | *Solvet et Coagula 22***<br>Age Advisory: 18+ (parental/guardian discretion).<br>Content Warnings: features blood, needles + live tattooing.         
 **Ross Graham | *Making Histry***<br>Age Advisory: parental/guardian discretion.<br>Content Warnings: contains food + drink; optional audience discussion + participation; discussion of death.          
-**Tamar + Jo | *Unseen Beings***<br>Age Advisory: parental/guardian discretion.<br>Content Warnings: contains partial nudity + some sexual movement.          
+**Tamar + Jo | *Unseen Beings***<br>Age Advisory: parental/guardian discretion.<br>Content Warnings: includes partial nudity + some sexual movement.          
 **Thomas Mayer | *Countless Lives***<br>Age Advisory: parental/guardian discretion.<br>Content Warning: features nudity.             
 <hr>            
 ##### [*Sat 21 Sep: Emergency 2019 — EVENING* | STUN Studio + Z-arts](/current/2019-emergency/evening)        
