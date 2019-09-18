@@ -15,7 +15,8 @@ season: "Performance Programme Content Warnings"
 This page is for [Word of Warning](/) audience members who would like to know more about the content of the work presented in our Performance Programme [(currently AW19)](/current/2019-autumnwinter) and particularly highlights elements that may distress, cause upset, or trigger. If you would like to get in touch please email <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours. Please note this page reflects the most recent information we have received from the artists we present (*as of 18 Sep 2019, 16:22*).         
 <hr>          
 ##### [*Sat 21 Sep: Emergency 2019 — DAYTIME* | NIAMOS](/current/2019-emergency/daytime)        
-Age Advisory: overall event is mainly aimed at adults, parental/guardian discretion is advised; some works (see below) are not suitable for under 18s.          
+**Age Advisory: the overall event is mainly aimed at adults, parental/guardian discretion is advised; some works are not suitable for under 18s.**          
+              
 **Alex Bradley | *Almost Everything is Black + White***<br>Age Advisory: parental/guardian discretion.<br>Content Warning: features nudity.        
 **Bill Duffy | *Scar Tissue / Symmetry***<br>Age Advisory: 18+ (parental/guardian discretion).<br>Content Warnings: features blood-letting, disturbing content + themes of abuse.         
 **Charlotte McShane | *Tell Me Lies***<br>Age Advisory: 18+ (parental/guardian discretion).<br>Content Warnings: includes swearing, shouting, mild sexual content; requires active audience participation in a one-to-one setting; audience members need to feel comfortable by themselves + aware of the possibility of oversharing.            
@@ -31,7 +32,8 @@ Age Advisory: overall event is mainly aimed at adults, parental/guardian discret
 **Thomas Mayer | *Countless Lives***<br>Age Advisory: parental/guardian discretion.<br>Content Warning: features nudity.             
 <hr>            
 ##### [*Sat 21 Sep: Emergency 2019 — EVENING* | STUN Studio + Z-arts](/current/2019-emergency/evening)        
-Age Advisory: overall event is mainly aimed at adults, parental/guardian discretion is advised; some works (see below) are not suitable for under 18s.          
+**Age Advisory: the overall event is mainly aimed at adults, parental/guardian discretion is advised; some works are not suitable for under 18s.**          
+               
 **Helen Sulis Bowie | *Smashing It!***<br>Age Advisory: parental/guardian discretion.<br>Content Warnings: contains swearing + references to personal + political violence.              
 **Lara Buffard + Gur Arie Piepskovitz | *Confessional on The Dance Floor (Madonna's true vassals)***<br>Age Limit: 18+ for one to one participation.<br>Content Warnings: mature content + drinking of tequila.              
 **Rebekka Platt | *Do you want fries with that?***<br>Age Advisory: parental/guardian discretion<br>Content Warning: features nudity.             
