@@ -24,7 +24,7 @@ This page is for [Word of Warning](/) audience members who would like to know mo
 **Holly Spillar | *Hole***<br>Age Advisory: parental/guardian discretion.<br>Content Warnings: the work is about sex, sexual problems + Vaginismus, which may be distressing to some.        
 **Jade Williams | *An Intimate Confession Cup***<br>Age Advisory: 18+ (parental/guardian discretion).<br>Content Warning: requires active audience participation in a one-to-one setting; audience members need to feel comfortable by themselves.         
 **Kellie Colbert | *Bad Feminist***<br>Age Advisory: parental/guardian discretion.<br>Content Warning: includes photographic nudity.         
-**Kris Canavan | *Back To Basics***<br>Age Advisory: 18+ (parental/guardian discretion).<br>Content Warnings: includes blood-letting, nudity + other content that some may find disturbing.          
+**Kris Canavan | *Back To Basics***<br>Age Advisory: 18+ (parental/guardian discretion).<br>Content Warnings: includes blood-letting, nudity, strobe lighting; insertion of dental retractor into mouth; insertion of fishing hook through tongue; stapling onto forehead; symbolic act of castration by using surgical staples in scrotum.                          
 **Pierce Starre | *Labels***<br>Content Warning: as an interactive piece the artist has no control over what is written on the labels.           
 **rahtattoo | *Solvet et Coagula 22***<br>Age Advisory: 18+ (parental/guardian discretion).<br>Content Warnings: features blood, needles + live tattooing.         
 **Ross Graham | *Making Histry***<br>Age Advisory: parental/guardian discretion.<br>Content Warnings: contains food + drink; optional audience discussion + participation; discussion of death.          
