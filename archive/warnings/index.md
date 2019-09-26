@@ -12,10 +12,11 @@ season: "Archived Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-Listed in reverse chronology, below are content warnings for past [Word of Warning](/) events (*as of 26 Sep 2019, 13:20*) — the information was for audience members who wanted to know more about the content of the work presented in our Performance Programme and particularly highlights elements that may have caused distress, caused upset, or triggered. *NB: specific content warnings for upcoming events are [here](/warnings).*           
+Listed in reverse chronology, below are content warnings + age advisories for past [Word of Warning](/) events (*as of 26 Sep 2019, 16:20*) — the information was for audience members who wanted to know more about the content of the work presented in our Performance Programme and particularly highlights elements that may have caused distress, caused upset, or triggered. *NB: warnings for upcoming events are [here](/warnings).*           
 <hr>            
-##### Sat 21 Sep 2019         
-[***Emergency 2019 — EVENING* | STUN Studio + Z-arts**](/current/2019-emergency/evening)        
+### 2019        
+#### Sat 21 Sep | Hulme        
+##### [*Emergency 2019 — EVENING* at STUN Studio + Z-arts](/current/2019-emergency/evening)        
 Age Advisory: the overall event is mainly aimed at adults, parental/guardian discretion is advised; some works are not suitable for under 18s.          
 **Helen Sulis Bowie | *Smashing It!***<br>Age Advisory: parental/guardian discretion.<br>Content Warnings: contains swearing + references to personal + political violence.              
 **Lara Buffard + Gur Arie Piepskovitz | *Confessional on The Dance Floor (Madonna's true vassals)***<br>Age Limit: 18+ for one to one participation.<br>Content Warnings: mature content + drinking of tequila.              
@@ -24,7 +25,7 @@ Age Advisory: the overall event is mainly aimed at adults, parental/guardian dis
 **Shahireh Sharif | *I am an orange dot***<br>Age Advisory: parental/guardian discretion.<br>Content Warnings: a work about refugees, includes mentions of death, drowning, hanging, dead bodies floating + the taste of blood that some may find upsetting.             
 **Vendetta Vain | *Taking the Piss***<br>Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: features nudity + bodily functions.         
           
-[***Emergency 2019 — DAYTIME* | NIAMOS**](/current/2019-emergency/daytime)        
+##### [*Emergency 2019 — DAYTIME* at NIAMOS](/current/2019-emergency/daytime)        
 Age Advisory: the overall event is mainly aimed at adults, parental/guardian discretion is advised; some works are not suitable for under 18s.          
 **Alex Bradley | *Almost Everything is Black + White***<br>Age Advisory: parental/guardian discretion.<br>Content Warning: features nudity.        
 **Bill Duffy | *Scar Tissue / Symmetry***<br>Age Advisory: 18+ (parental/guardian discretion).<br>Content Warnings: features blood-letting, disturbing content + themes of abuse.         
