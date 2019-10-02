@@ -20,12 +20,12 @@ season: "Ron Athey 23|10|2019"
 *Presented by* Word of Warning *in association with* NIAMOS *+* STUN       
          
 #### In Brief      
-A radical ritual for resistance. A provocation for where we are now.<br><br>Read recent interviews with Athey's practice in <a href="http://www.documentjournal.com/2019/05/blood-christ-and-shock-value-the-gospel-according-to-ron-athey" target="_blank">Document Journal</a> + <a href="http://www.velvetblogoffice.com/velvetboxoffice/2019/9/29/interview-with-ron-athey" target="_blank">Velvet Blog Office</a>.                     
+A radical ritual for resistance. A provocation for where we are now.<br><br>Read recent interviews on Athey's practice in <a href="http://www.documentjournal.com/2019/05/blood-christ-and-shock-value-the-gospel-according-to-ron-athey" target="_blank">Document Journal</a> + <a href="http://www.velvetblogoffice.com/velvetboxoffice/2019/9/29/interview-with-ron-athey" target="_blank">Velvet Blog Office</a>.                     
          
 #### Venue + Booking Details       
 Date: Wednesday 23 October 2019, 7.30pm (*doors open at 7pm*)        
 Venue: <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, corner of Chichester Rd/Warwick St, Hulme, Manchester M15 5EU          
-Tickets: pick† your price (£5/£10/£15) and pay <a href="http://www.wegottickets.com/event/479482" target="_blank">online in advance</a>, a limited number of tickets will be available for purchase on the door from 7pm.<br>† *We'd be grateful for as much as you can afford; all seats are unreserved + ticket price doesn't reflect viewing location.*             
+Tickets: pick† your price (£5/£10/£15) and pay <a href="http://www.wegottickets.com/event/479482" target="_blank">online in advance</a>, a limited number of tickets will be available for purchase on the door from 7pm.<br>† *We'd be grateful for as much as you can afford (NB all seats are unreserved, so ticket prices do not reflect viewing positions).*             
 Enquiries: 07488 308 111 (*on the night*) / 0161 232 6086 (*during weekday office hours*)          
           
 #### Access Information         
