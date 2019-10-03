@@ -12,7 +12,11 @@ season: "Archived Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-Listed in reverse chronology, below are content warnings + age advisories for past [Word of Warning](/) events (*as of 26 Sep 2019, 16:20*) — the information was for audience members who wanted to know more about the content of the work presented in our Performance Programme and particularly highlights elements that may have caused distress, caused upset, or triggered. *NB: warnings for upcoming events are [here](/warnings).*           
+Listed in reverse chronology, below are content warnings + age advisories for past [Word of Warning](/) events (*as of 3 Oct 2019, 13:22*) — the information was for audience members who wanted to know more about the content of the work presented in our Performance Programme and particularly highlights elements that may have caused distress, caused upset, or triggered. *NB: warnings for upcoming events are [here](/warnings).*           
+<hr>          
+#### Wed 2 Oct | The Lowry         
+##### [*Tetra-Decathlon* by Lauren Hendry, dir. Jenna Watt](/current/2019-autumnwinter/hendry)         
+Age Advisory: 12+ (parental/guardian discretion).<br>Content Warning: includes mild swearing.        
 <hr>            
 #### Sat 21 Sep | Hulme        
 ##### [*Emergency 2019 — EVENING* at STUN Studio + Z-arts](/current/2019-emergency/evening)        
