@@ -29,7 +29,7 @@ gallery:
     -   {file: "kellie_colbert.jpg", artist: "Kellie Colbert"}
     -   {file: "holly_spillar.jpg", artist: "Holly Spillar"}
     -   {file: "kelvin_atmadibrata.jpg", artist: "Kelvin Atmadibrata"}
-    -   {file: "ross_graham.jpg", artist: "Ross Graham"<small>by Jake Lewis</small>"}
+    -   {file: "ross_graham.jpg", artist: "Ross Graham", show: "<small>by Jake Lewis</small>"}
     -   {file: "shkiesha.jpg", artist: "Shkiesha"}
     -   {file: "lara_gur.jpg", artist: "Lara Buffard + Gur Arie Piepskovitz"}
     -   {file: "adam_john_roberts.jpg", artist: "Adam John Roberts"}
@@ -44,5 +44,5 @@ gallery:
     -   {file: "vendetta_vain.jpg", artist: "Vendetta Vain"}
     -   {file: "katy_craig.jpg", artist: "Katy Dye + Craig Manson"}
     -   {file: "rebekka_platt.jpg", artist: "Rebekka Platt"}
-     
+
 ---
