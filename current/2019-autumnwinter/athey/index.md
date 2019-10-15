@@ -20,7 +20,7 @@ season: "Ron Athey 23|10|2019"
 *Presented by* Word of Warning *in association with* NIAMOS *+* STUN       
          
 #### In Brief      
-A radical ritual for resistance. A provocation for where we are now.<br><br>Read recent interviews on Athey's practice in <a href="http://www.documentjournal.com/2019/05/blood-christ-and-shock-value-the-gospel-according-to-ron-athey" target="_blank">Document Journal</a> + <a href="http://www.velvetblogoffice.com/velvetboxoffice/2019/9/29/interview-with-ron-athey" target="_blank">Velvet Blog Office</a>.                     
+A radical ritual for resistance. A provocation for where we are now.<br><br>Read recent interviews on Athey's practice in <a href="http://www.documentjournal.com/2019/05/blood-christ-and-shock-value-the-gospel-according-to-ron-athey" target="_blank">Document Journal</a> + <a href="http://www.velvetblogoffice.com/velvetboxoffice/2019/9/29/interview-with-ron-athey" target="_blank">Velvet Blog Office</a>, and a new ★★★★★ review from Glasgow by <a href="http://www.list.co.uk/article/112027-ron-athey-acephalous-monster" target="_blank">The List</a>.                
          
 #### Venue + Booking Details       
 Date: Wednesday 23 October 2019, 7.30pm (*doors open at 7pm*)        
