@@ -1,15 +1,15 @@
 ---
 # CONFIGURATION
-layout: 2019-woah
+layout: 2020-woah
 rootpath: "../../"
 is_index: true
 
 # ABOUT THE SHOW - GENERIC
-artist: "Works Ahead 2019" # the name of the artist or company
+artist: "Works Ahead 2020" # the name of the artist or company
 show: "A sample of new performance." # the name of the show
 artist_size: 2
 show_size: 4
-season: "Works Ahead 16+17|5|2019"
+season: "Works Ahead 14+15|5|2020"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,23 +17,23 @@ season: "Works Ahead 16+17|5|2019"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, Contact + STUN         
+*Presented by* Word of Warning, Contact + STUN?         
          
-### Thursday 16 + Friday 17 May 2019, 7.30pm        
+### Thursday 14 + Friday 15 May 2020, 7.30pm        
 A risky night out or a good night in? Two explorations of inner conflict, outer division, and the politics of oppression from [Mark Croasdale](/archive/2019-worksahead/croasdale) + [Avital Raz](/archive/2019-worksahead/raz).             
             
 Our annual sampler of new performance is a double bill of new works in development from artists at the start of their journeys; now that it's over, see images from their [shows](/galleries/2019-woah). Get a feel for Works Ahead with a look at [2018](/archive/2018-worksahead).            
                 
 #### Venue + Booking Details        
-Dates: Thursday 16 + Friday 17 May 2019, 7.30pm         
+Dates: Thursday 14 + Friday 15 May 2020, 7.30pm         
 Venue: STUN Studio at <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
 Tickets: <a href="http://contactmcr.com/shows/works-ahead-2019" target="_blank">available to reserve via Contact</a>, Pay What You Decide (cash only) in person on the evening.            
 Box Office tel: 0161 274 0600 (Contact, weekdays 10am–6pm) *NB: on 16+17 May, online booking closes at 5pm, with in-person booking available from 6.30pm at STUN Studio.*              
 Enquiries: 0161 232 6086 (Word of Warning office)           
         
 #### Access Information        
-**PLEASE NOTE: both works contain adult themes, the content of which may cause distress — please speak to a member of Word of Warning or Contact front of house staff before the event if you have any concerns.**<br>Age advisory: 18+  Duration: the double bill will last up to a maximum of 2 hours, including an interval. Both works are largely spoken English; there is some use of flashing light and glycerine vapour. For specific age and access information before the event please email <mailto:info@habmcr.org> or call 0161 232 6086.           
-
+*re-do from a normal page*         
+          
 #### What people have said about previous Works Ahead        
 >*…evenings like Works Ahead are vital …both [pieces] harness techniques and raise ideas which are truly compelling.*<br><a href="http://www.thestateofthearts.co.uk/features/works-ahead-expect-something-weird-personal-entirely-half-done" target="_blank">The State of The Arts (2018 review)</a>           
 >*A cathartic, funny and brutally honest show about bodies, particles and the universe.*<br><a href="http://afronalysis.com/2017/05/14/review-superposition-stun" target="_blank">Afronalysis (2017 review)</a>           
@@ -41,7 +41,7 @@ Enquiries: 0161 232 6086 (Word of Warning office)
 >*• Great to see new work by younger artists.<br>• Brilliant works in progress, varied and interesting.<br>• I enjoyed both shows even though they were very different. I look forward to seeing how they develop.*<br>Audience Feedback from 2016/17/18         
           
 #### Credits         
-[Works Ahead](/hab/worksahead) 2019 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North) + <a href="http://contactmcr.com" target="_blank">Contact</a>. Project Mentor: Peader Kirk        
+[Works Ahead](/hab/worksahead) 2020 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North)? + <a href="http://contactmcr.com" target="_blank">Contact</a>. Project Mentor: Peader Kirk        
         
 #### Websites         
-<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a><br><a href="http://markcroasdale.com/staying-in" target="_blank">markcroasdale.com</a> | <a href="http://twitter.com/markcroasdale" target="_blank">@markcroasdale</a><br><a href="http://avitalraz.com" target="_blank">avitalraz.com</a> | <a href="http://twitter.com/avitalraz" target="_blank">@avitalraz</a>
+<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a><br>
