@@ -1,14 +1,14 @@
 ---
 # CONFIGURATION
-layout: 2020-springsummer
+layout: 2020-ss
 rootpath: "../../"
 is_index: true
 season: "SS20"
 
 ---
-*From a [](/current/2020-springsummer/nandhra) to a [](/current/2020-springsummer/gerald), a [](/current/2020-springsummer/bannon) to a [](/current/2020-worksahead)… Spring/Summer 2020 is a season of xxx. To keep in touch, <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.*               
+*From a [demi](/current/2020-springsummer/nandhra) to a [jamal](/current/2020-springsummer/gerald), a [jo](/current/2020-springsummer/bannon) to a [woah](/current/2020-worksahead)… Spring/Summer 2020 is a season of xxx. To keep in touch, <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.*               
           
-Brought to you by [hÅb](/hab) — with The Lowry, Royal Exchange Theatre, Contact, STUN (Sustained Theatre Up North)? — we look forward to seeing you at some or all of SS20. If you want to check out what happened last season take a look at our [AW19 archive](/archive/2019-autumnwinter).                 
+Brought to you by [hÅb](/hab) — with The Lowry, Contact, Royal Exchange Theatre, STUN (Sustained Theatre Up North)? — we look forward to seeing you at some or all of SS20. If you want to check out what happened last season take a look at our [AW19 archive](/archive/2019-autumnwinter).                 
              
 #### What is Word of Warning + where did it come from?         
 >*Consistently refreshing and surprising, no season is ever the same…*          
