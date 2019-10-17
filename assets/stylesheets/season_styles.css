@@ -799,3 +799,30 @@
 		
 	.e2019 .splash
 		{background:url(../images/header_emergency19.jpg) center center}
+
+/* Spring/Summer 2020 Programme sunset placeholder
+------------------------------------------------------*/
+
+	.ss2020 .splash
+		{background:url(../images/header_aw18wrn.jpg) -150px center}
+
+/* Works Ahead 2020 berry
+------------------------------------------------------*/
+		
+	.w2020,
+	.w2020 .artist, 
+	.w2020 .show,
+	.w2020 .season
+		{background:#723; color:#fff;}
+
+	.w2020 a,
+	.w2020 a:visited,
+	.w2020 a:hover
+		{color:#fff;}
+	.w2020 nav a:hover,
+	.w2020 article a:hover,
+	.w2020 footer a:hover
+		{background: #fff; color: #723;}
+
+	.w2020 .splash
+		{background:url(../images/header_woah_photo.jpg) center center}
