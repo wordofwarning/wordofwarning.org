@@ -6,7 +6,7 @@ is_index: true
 season: "SS20"
 
 ---
-*From a [TBC](/current/2020-springsummer/nandhra) to a [Jamal](/current/2020-springsummer/gerald), a [Jo](/current/2020-springsummer/bannon) to a [WoAh](/current/2020-worksahead)… Spring/Summer 2020 is a season of xxx. To keep in touch, <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.*               
+*From a [Harry](/current/2020-springsummer/nandhra) to a [Jamal](/current/2020-springsummer/gerald), a [Jo](/current/2020-springsummer/bannon) to a [WoAh](/current/2020-worksahead)… Spring/Summer 2020 is a season of xxx. To keep in touch, <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.*               
           
 Brought to you by [hÅb](/hab) — with The Lowry, Contact, Royal Exchange Theatre, STUN (Sustained Theatre Up North) — we look forward to seeing you at some or all of SS20. If you want to check out what happened last season take a look at our [AW19 archive](/archive/2019-autumnwinter).                 
              
