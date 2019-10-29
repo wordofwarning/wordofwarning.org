@@ -12,7 +12,7 @@ season: "Archived Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-Below are content warnings + age advisories for past [Word of Warning](/) events (*as of 29 Oct 2019, 6.25pm*) — this information was for audience members who wanted to know more about the content of the work presented in our Performance Programme and particularly highlights elements that may distress, cause upset, or trigger. *NB: warnings for forthcoming events are [here](/warnings).*           
+Below are content warnings + age advisories for past [Word of Warning](/) events (*as of 29 Oct 2019, 6.25pm*) — this information was for audience members who wanted to know more about the content of the work presented in our Performance Programme and particularly highlights elements that may distress, cause upset, or trigger.<br>*NB: warnings for forthcoming events are [here](/warnings).*           
 <hr>          
 #### Wed 23 Oct | NIAMOS          
 ##### [*Acephalous Monster* by Ron Athey](/current/2019-autumnwinter/athey)        
