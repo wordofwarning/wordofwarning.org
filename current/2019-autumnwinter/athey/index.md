@@ -20,7 +20,7 @@ season: "Ron Athey 23|10|2019"
 *Presented by* Word of Warning *in association with* NIAMOS *+* STUN       
           
 #### In Brief      
-A radical ritual for resistance. A provocation for where we are now.<br><br>Read interviews on Athey's practice in <a href="http://www.documentjournal.com/2019/05/blood-christ-and-shock-value-the-gospel-according-to-ron-athey" target="_blank">Document Journal</a>, <a href="http://thisweeklondon.com/article/ron-athey-acephalous-monster" target="_blank">ThisWeek London</a> + <a href="http://www.velvetblogoffice.com/velvetboxoffice/2019/9/29/interview-with-ron-athey" target="_blank">Velvet Blog Office</a>; now that it's over, read a review in <a href="http://www.thecommonzine.com/ron-athey" target="_blank">The COMMON</a>.       
+A radical ritual for resistance. A provocation for where we are now.<br><br>Read interviews on Athey's practice in <a href="http://www.documentjournal.com/2019/05/blood-christ-and-shock-value-the-gospel-according-to-ron-athey" target="_blank">Document Journal</a>, <a href="http://thisweeklondon.com/article/ron-athey-acephalous-monster" target="_blank">ThisWeek London</a> + <a href="http://www.velvetblogoffice.com/velvetboxoffice/2019/9/29/interview-with-ron-athey" target="_blank">Velvet Blog Office</a>. And now that it's over, read reviews by <a href="http://liveartalive.com/2019/10/29/acephalous-monster" target="_blank">Live Art Alive</a> + <a href="http://www.thecommonzine.com/ron-athey" target="_blank">The COMMON</a>.        
          
 #### Venue + Booking Details       
 Date: Wednesday 23 October 2019, 7.30pm (*doors open at 7pm*)        
