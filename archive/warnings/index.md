@@ -12,9 +12,9 @@ season: "Archived Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-Below are age advisories/limits and content warnings for past [Word of Warning](/) events (*as of 30 Oct 2019, 2.45pm*) — this information was for audience members who wanted to know more about the content of work presented in our Performance Programme, **particularly highlighting elements that may have distressed, caused upset, or triggered**.<br>*NB — forthcoming event warnings are [here](/warnings).*           
+Below are age advisories/limits and content warnings for past [Word of Warning](/) events *as of 30/10/19, 14:55* — this information was for audience members who wanted to know more about the content of work presented in our Performance Programme, **particularly highlighting elements that may have distressed, caused upset, or triggered**.<br>*NB — forthcoming event warnings are [here](/warnings).*           
 <hr>          
-##### Wed 23 Oct 2019 | NIAMOS | [*Acephalous Monster* by Ron Athey](/current/2019-autumnwinter/athey)        
+##### [Wed 23 Oct 2019 at NIAMOS | *Acephalous Monster* by Ron Athey](/current/2019-autumnwinter/athey)        
 **Age Limit: strictly for those aged 18+<br>Content Warnings: an intense viewing experience for some, if you are sensitive to any of the following or of a more general sensitive disposition we recommend using discretion before buying tickets.**<br>Includes:<br>• live nudity;<br>• live <a href="http://en.wikipedia.org/wiki/Bloodletting" target="_blank">blood-letting</a>;<br>and on projected film:<br>• <a href="http://en.wikipedia.org/wiki/BDSM" target="_blank">BDSM</a> (*<a href="http://en.wikipedia.org/wiki/Not_safe_for_work" target="_blank">not safe to open at work</a>*);<br>• depictions of graphic consensual sexual activity;<br>• depictions and descriptions of violence (including symbolic beheading).<br>For context read a <a href="http://www.dance-enthusiast.com/features/impressionsreviews/view/Ron-Atheys-Acphalous-Monster-Performance-Space-New-York" target="_blank">review by The Dance Enthusiast</a> (contains spoilers).            
 <hr>          
 ##### Wed 2 Oct 2019 | The Lowry | [*Tetra-Decathlon* by Lauren Hendry, dir. Jenna Watt](/current/2019-autumnwinter/hendry)         
@@ -24,7 +24,7 @@ Age Advisory: 12+ (parental/guardian discretion).<br>Content Warning: includes m
 Age Advisory: the overall event is mainly aimed at adults, parental/guardian discretion is advised; some works are not suitable for under 18s.          
 
 ***EVENING* at STUN Studio + Z-arts**        
-**Helen Sulis Bowie | *Smashing It!***<br>Age Advisory: parental/guardian discretion.<br>Content Warnings: contains swearing + references to personal + political violence.              
+Helen Sulis Bowie | *Smashing It!*<br>— Age Advisory: parental/guardian discretion.<br>— Content Warnings: contains swearing + references to personal + political violence.              
 **Lara Buffard + Gur Arie Piepskovitz | *Confessional on The Dance Floor (Madonna's true vassals)***<br>Age Limit: 18+ for one to one participation.<br>Content Warnings: mature content + drinking of tequila.              
 **Rebekka Platt | *Do you want fries with that?***<br>Age Advisory: parental/guardian discretion<br>Content Warning: features nudity.             
 **Ross McCaffrey | *Sometimes History Needs a Push***<br>Age Advisory: parental/guardian discretion.<br>Content Warnings: mentions political violence + references to genocide.               
