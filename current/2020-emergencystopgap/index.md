@@ -1,24 +1,24 @@
 ---
 # CONFIGURATION
-layout: 2019-emergency
+layout: 2020-stopgap
 rootpath: "../../"
 is_index: true
 
 # ABOUT THE SHOW - GENERIC
-artist: "Emergency 2019" # the name of the artist or company
-show: "A day out for the curious." # the name of the show
-artist_size: 1
+artist: "Emergency Stop-Gap" # the name of the artist or company
+show: "A Thursday Late for the curious." # the name of the show
+artist_size: 2
 show_size: 3
-season: "Emergency 21|9|2019"
+season: "Emergency Stop-Gap 27|2|2020"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-*Presented by* Word of Warning *in association with* NIAMOS, STUN *+* Z-arts           
+*Presented by* Word of Warning *in association with* NIAMOS           
          
-#### Saturday 21 September, 12noon-10pm. Pay What You Decide             
+#### A Thursday Late: 27 Februray, 6-9pm. Pay What You Decide             
 Manchester's twentieth micro-marathon of the bizarre, the bold + the beautiful spreads its wings across two Hulme buildings — the decaying splendour of NIAMOS and the familiar turf of STUN + Z-arts. From stage to stairwell, dress circle to box office, thirty plus live works in a non-stop performance takeover… See [images](/galleries/2019-emergencypre) of the artists or download a schedule <a href="http://emergencymcr.posthaven.com/emergency-schedules" target="_blank">here</a>. *Sample the different — then pay what you decide!*<br>And now that it's over, see our [gallery of images](/galleries/2019-emergency) from the event.            
              
 #### Participating Artists (*subject to change*)         
