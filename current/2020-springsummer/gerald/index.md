@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: 2020-springsummer
+layout: 2020-ss
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -20,32 +20,37 @@ season: "Jamal Gerald 19—21|3|2020"
 *Presented by* Royal Exchange Theatre*,* Contact *+* Word of Warning       
          
 #### In Brief      
-***TBC***
-Explores the historic experiences of the house and the field slaves; and draws a parallel with contemporary pop culture and attitudes to race.           
-         
+A daring + unapologetic examination of religion, pop culture + Black representation.<br>Who would you rather pray to? Beyoncé or white Jesus?        
+          
 #### Venue + Booking Details           
 Dates: Thursday 19, Friday 20 + Saturday 21 March 2020, ***7.XXpm***        
-Venue: The Studio at <a href="https://www.royalexchange.co.uk/where-how-to-find-us" target="_blank">Royal Exchange Theatre</a>, St Ann’s Square, Manchester, M2 7DH         
+Venue: The Studio at <a href="https://www.royalexchange.co.uk/where-how-to-find-us" target="_blank">Royal Exchange Theatre</a>, St Ann's Square, Manchester, M2 7DH         
 Tickets: £***tbc***            
 Enquiries: 0161 833 9833 (Royal Exchange Theatre)           
           
 #### Access Information        
-Age advisory: ***tbc***. Duration: ***tbc***. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
+Age advisory: 16+ ***tbc***. Duration: ***tbc***. For specific age + access information please email <mailto:info@habmcr.org> or call 0161 232 6086.     
              
 #### More         
-***ADD***        
+Jamal grew up Catholic in a Caribbean household, but would rather light a candle and worship celebrities than white saints.        
+        
+Combining African diasporic ritual, music + storytelling, *Idol* is a spiritual journey that asks what happens when you don't see yourself represented. Featuring a host of celebrity appearances.         
+          
 *Idol* premiered at Transform 19 in Leeds.        
          
 #### Who is he?        
-Jamal is a Leeds-based artist whose work is conversational, socially conscious, a celebration of individuality, and focuses on identity and lived experiences — mostly making the type of work that he wants to see; trying to make sure that each piece he creates is a different form to the one he made before. He has made work for poetry slams, films, parties, cafes + theatres. Jamal started off his career with Leeds Young Authors, a creative writing and performance group for the ages of 13-19; with them, he has competed in poetry slam competitions nationally and in the USA, one of the competitions being *Brave New Voices*.         
-           
-He has made work in many different forms — such as a solo show where he shares autobiographical stories about being black and gay; to having one-to-one conversations about privilege; to stripping down to his underwear in the city centre of Leeds in a short film; to an interactive performance where he puts words in people's mouths. His first solo show *FADoubleGOT* toured nationally in 2016; he also co-devised + performed in the critically-acclaimed *Putting Words in Your Mouth*, devised + directed by Scottee. Jamal's work has also been shown at SPILL, Leeds Playhouse, Battersea Arts Centre + the Barbican.        
+Jamal Gerald is a Leeds-based artist whose work is conversational, socially conscious, a celebration of individuality, and focuses on identity + lived experiences — mostly making the type of work that he wants to see, with the aim of taking up space as a Black queer person; trying to make sure that each piece he creates is a different form to the one he made before.
+
+Jamal has made work for poetry slams, films, parties, cafes + theatres in many different forms — such as a solo show where he shares autobiographical stories about being Black + gay; to having one-to-one conversations about privilege; to stripping down to his underwear in the city centre of Leeds in a short film; to an interactive performance where he puts words in people's mouths…
+
+Starting his career with the creative writing + performance group Leeds Young Authors, in 2016 Jamal's first solo show *FADoubleGOT* toured nationally; he also co-devised + performed in the critically-acclaimed *Putting Words in Your Mouth*, devised + directed by Scottee, and his work has been shown at SPILL, Leeds Playhouse, Battersea Arts Centre + the Barbican.        
          
-#### What people have said about him/*Idol*        
->*…QUOTE.*<br><a href="http://" target="_blank">PUBLICATION on *WHAT*</a><br>*…QUOTE.*<br><a href="http://" target="_blank">PUBLICATION on *WHAT*</a>       
+#### What people have said about him*        
+>*There’s a fresh, honest quality to Gerald's performance… [he] is, intensely, fiercely himself on stage*<br><a href="http://exeuntmagazine.com/reviews/review-fadoublegot-at-contact-manchester" target="_blank">Exeunt on *FADoubleGOT*</a>       
         
 #### Credits          
-***creatives tbc***<br>Commissioned by Transform + Theatre in the Mill; a Works Ahead 2018 seed-commission by [hÅb](/hab), Contact + Sustained Theatre Up North.<br>Supported using public funding by the National Lottery through Arts Council England.         
-         
+Lead Artist: Jamal Gerald | Musician/Performer: Pariss Elektra | Musician/Performer: Azizi Cole | Dramaturge: Maddy Costa | Outside Eye: Rachael Young | Movement Director: Akeim Toussaint Buck | Stage + Lighting Design: Ben Pacey | Costume: Hannah Wilson | Ritual Consultant: Christella Litras | Stage Manager: Charlotte Woods | Production Manager: Helen Mugridge | Producer: Transform<br><br>
+A Jamal Gerald, Transform + Theatre in the Mill co-production. Seed-commissioned by [hÅb](/hab), STUN + Contact for Works Ahead 2018. Supported by Leeds Inspired (part of Leeds City Council) and using public funding from the National Lottery through Arts Council England.           
+        
 #### Websites          
 <a href="http://www.jamalgerald.com" target="_blank">www.jamalgerald.com</a> | <a href="http://twitter.com/JamiBoii" target="_blank">@JamiBoii</a>
