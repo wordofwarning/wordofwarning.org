@@ -20,7 +20,7 @@ season: "Tom Cassani 6|11|2019"
 *Presented by* The Lowry + Word of Warning *as a* <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a>
          
 #### In Brief      
-A collision of showmanship, deception + almost miracles.<br><br>Now that it's over, read a review by <a href="http://northwestend.co.uk/index.php/professional-reviews/salford/4774-tom-cassani-i-promise-you-that-tonight-the-lowry" target="_blank">North West End</a>.        
+A collision of showmanship, deception + almost miracles.<br><br>Now that it's over, read reviews by <a href="http://northwestend.co.uk/index.php/professional-reviews/salford/4774-tom-cassani-i-promise-you-that-tonight-the-lowry" target="_blank">North West End</a> + <a href="https://number9reviews.blogspot.com/2019/11/theatre-review-tom-cassani-i-promise.html" target="_blank">NUMBER 9</a>.        
            
 #### Venue + Booking Details           
 Date: Wednesday 6 November 2019, 8pm        
