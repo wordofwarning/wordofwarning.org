@@ -23,7 +23,7 @@ season: "Jamal Gerald 19—21|3|2020"
 A daring + unapologetic examination of religion, pop culture + Black representation.<br><br>Who would you rather pray to? Beyoncé or white Jesus?        
           
 #### Venue + Booking Details           
-Dates: Thursday 19, Friday 20 + Saturday 21 March 2020, ***7.XXpm***        
+Dates: Thursday 19, Friday 20 + Saturday 21 March 2020, 7.***XX***pm        
 Venue: The Studio at <a href="https://www.royalexchange.co.uk/where-how-to-find-us" target="_blank">Royal Exchange Theatre</a>, St Ann's Square, Manchester, M2 7DH         
 Tickets: £***tbc***            
 Enquiries: 0161 833 9833 (Royal Exchange Theatre)           
@@ -50,7 +50,7 @@ Starting his career with the creative writing + performance group Leeds Young Au
         
 #### Credits          
 Lead Artist: Jamal Gerald | Musician/Performer: Pariss Elektra | Musician/Performer: Azizi Cole | Dramaturge: Maddy Costa | Outside Eye: Rachael Young | Movement Director: Akeim Toussaint Buck | Stage + Lighting Design: Ben Pacey | Costume: Hannah Wilson | Ritual Consultant: Christella Litras | Stage Manager: Charlotte Woods | Production Manager: Helen Mugridge | Producer: Transform<br><br>
-A Jamal Gerald, Transform + Theatre in the Mill co-production.<br>Seed-commissioned by [hÅb](/hab), STUN + Contact for [Works Ahead 2018](/archive/2018-worksahead).<br> Supported by Leeds Inspired (part of Leeds City Council) and using public funding from the National Lottery through Arts Council England.           
+A Jamal Gerald, Transform + Theatre in the Mill co-production.<br>Seed-commissioned by [hÅb](/hab), STUN + Contact for [Works Ahead 2018](/hab/worksahead).<br>Supported by Leeds Inspired (part of Leeds City Council) and using public funding from the National Lottery through Arts Council England.           
         
 #### Websites          
 <a href="http://www.jamalgerald.com" target="_blank">www.jamalgerald.com</a> | <a href="http://twitter.com/JamiBoii" target="_blank">@JamiBoii</a>
