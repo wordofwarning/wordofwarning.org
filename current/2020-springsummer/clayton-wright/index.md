@@ -1,15 +1,15 @@
 ---
 # CONFIGURATION
-layout: 2019-autumnwinter
+layout: 2020-ss
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Tom Cassani" # the name of the artist or company
-show: "I Promise You That Tonight" # the name of the show
-artist_size: 1
-show_size: 4
-header_image: "header_tom.jpg"   
-season: "Tom Cassani 6|11|2019"
+artist: "Harry Clayton-Wright" # the name of the artist or company
+show: "Sex Education" # the name of the show
+artist_size: 3
+show_size: 3
+header_image: "header_harrycw1.jpg"   
+season: "Harry Clayton-Wright 12|2|2020"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -20,10 +20,10 @@ season: "Tom Cassani 6|11|2019"
 *Presented by* The Lowry + Word of Warning *as a* <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a>
          
 #### In Brief      
-A collision of showmanship, deception + almost miracles.        
+COPY.        
            
 #### Venue + Booking Details           
-Date: Wednesday 6 November 2019, 8pm        
+Date: Wednesday 12 February 2020, 8pm        
 Venue: <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
 Tickets: <a href="http://thelowry.com/whats-on/tom-cassani" target="_blank">reserve online</a>, then Pay What You Decide (*suggested donation £5*) by cash or card after the show.         
 Box Office Tel: 0161 876 2000 (The Lowry)          
