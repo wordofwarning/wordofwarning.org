@@ -7,8 +7,8 @@ rootpath: "../../../"
 artist: "Harry Clayton-Wright" # the name of the artist or company
 show: "Sex Education" # the name of the show
 artist_size: 3
-show_size: 3
-header_image: "header_harrycw1.jpg"   
+show_size: 2
+header_image: "header_harrycw2.jpg"   
 season: "Harry Clayton-Wright 12|2|2020"
 
 # ABOUT THE SHOW - LAYOUT
