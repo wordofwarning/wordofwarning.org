@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Tania Camara" # the name of the artist or company
-show: "&nbspOreo" # the name of the show
+show: "<br>&nbspOreo" # the name of the show
 artist_size: 2
 show_size: 1
 header_image: "header_tania.jpg"    
