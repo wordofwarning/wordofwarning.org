@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Harry Clayton-Wright" # the name of the artist or company
-show: "<br><&nbsp>Sex Education" # the name of the show
+show: "<br>&nbspSex Education" # the name of the show
 artist_size: 2
 show_size: 1
 header_image: "header_harrycw.jpg"   
