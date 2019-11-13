@@ -4,9 +4,9 @@ layout: 2020-ss
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Jamal<br>Gerald" # the name of the artist or company
-show: "Idol" # the name of the show
-artist_size: 2
+artist: "Jamal Gerald" # the name of the artist or company
+show: "<br>Idol" # the name of the show
+artist_size: 3
 show_size: 1
 header_image: "header_jamal.jpg"    
 season: "Jamal Gerald 19—21|3|2020"
