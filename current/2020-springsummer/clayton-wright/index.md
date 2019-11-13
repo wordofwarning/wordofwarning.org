@@ -8,7 +8,7 @@ artist: "Harry Clayton-Wright" # the name of the artist or company
 show: "<br>Sex Education" # the name of the show
 artist_size: 2
 show_size: 1
-header_image: "header_harrycw1.jpg"   
+header_image: "header_harrycw2.jpg"   
 season: "Harry Clayton-Wright 12|2|2020"
 
 # ABOUT THE SHOW - LAYOUT
