@@ -20,13 +20,13 @@ season: "Jamal Gerald 19—21|3|2020"
 *Presented by* Royal Exchange Theatre*,* Contact *+* Word of Warning       
          
 #### In Brief      
-*Who would you rather pray to? Beyoncé or white Jesus?*<br><br>A daring + unapologetic examination of religion, pop culture + Black representation.        
+"*Who would you rather pray to? Beyoncé or white Jesus?*"<br><br>A daring + unapologetic examination of religion, pop culture + Black representation.        
           
 #### Venue + Booking Details           
 Dates: Thursday 19, Friday 20 + Saturday 21 March 2020, 7.30pm        
 Venue: The Studio at <a href="https://www.royalexchange.co.uk/where-how-to-find-us" target="_blank">Royal Exchange Theatre</a>, St Ann's Square, Manchester, M2 7DH         
 Tickets: £13/11 (on sale from ***tbc***)            
-Enquiries: 0161 833 9833 (Royal Exchange Theatre)           
+Box Office tel: 0161 833 9833 (Royal Exchange Theatre)           
           
 #### Access Information        
 Age Advisory: 16+ ***tbc*** (parental/guardian discretion).<br>Warning: includes ***tbc***; for specific content warnings please click [here](/warnings).<br>Duration: approximately ***tbc*** (no interval).<br>Features: live spoken English + more ***tbc***<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.         
