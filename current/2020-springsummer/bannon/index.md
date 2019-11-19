@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Jo Bannon" # the name of the artist or company
-show: "&nbspWe Are All Fucked" # the name of the show
+show: "<br>&nbspWe Are All Fucked" # the name of the show
 artist_size: 2
 show_size: 3
 header_image: "header_jo.jpg"   
