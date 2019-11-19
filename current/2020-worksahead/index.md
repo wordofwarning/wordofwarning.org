@@ -6,7 +6,7 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Works Ahead 2020" # the name of the artist or company
-show: "A sample of new performance." # the name of the show
+show: "<br>&nbspA sample of new performance." # the name of the show
 artist_size: 2
 show_size: 4
 season: "Works Ahead 14+15|5|2020"
