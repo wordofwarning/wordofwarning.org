@@ -17,22 +17,19 @@ season: "Works Ahead 14+15|5|2020"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, Contact + STUN?         
+*Presented by* Word of Warning *+* Contact         
          
 ### Thursday 14 + Friday 15 May 2020, 7.30pm        
-A risky night out or a good night in? Two explorations of inner conflict, outer division, and the politics of oppression from [Mark Croasdale](/archive/2019-worksahead/croasdale) + [Avital Raz](/archive/2019-worksahead/raz).             
-            
-Our annual sampler of new performance is a double bill of new works in development from artists at the start of their journeys; now that it's over, see images from their [shows](/galleries/2019-woah). Get a feel for Works Ahead with a look at [2018](/archive/2018-worksahead).            
+Our annual sampler of new performance is a double bill of new works in development from artists at the start of their journeys… Get a feel for Works Ahead with a look at [2019](/archive/2019-worksahead).            
                 
 #### Venue + Booking Details        
 Dates: Thursday 14 + Friday 15 May 2020, 7.30pm         
-Venue: STUN Studio at <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA         
-Tickets: <a href="http://contactmcr.com/shows/works-ahead-2019" target="_blank">available to reserve via Contact</a>, Pay What You Decide (cash only) in person on the evening.            
-Box Office tel: 0161 274 0600 (Contact, weekdays 10am–6pm) *NB: on 16+17 May, online booking closes at 5pm, with in-person booking available from 6.30pm at STUN Studio.*              
-Enquiries: 0161 232 6086 (Word of Warning office)           
+Venue: <a href="http://contactmcr.com/your-visit/getting-to-contact" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA         
+Tickets: £7/4 (on sale from ***tbc***)            
+Box Office tel: 0161 274 0600 (Contact)              
         
 #### Access Information        
-*re-do from a normal page*         
+Age Advisory: 16+ ***tbc*** (parental/guardian discretion).<br>Warning: includes ***tbc***; for specific content warnings please click [here](/warnings).<br>Duration: the double bill lasts approximately ***tbc*** including an interval.<br>Features: live spoken English + more ***tbc***<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.                  
           
 #### What people have said about previous Works Ahead        
 >*…evenings like Works Ahead are vital …both [pieces] harness techniques and raise ideas which are truly compelling.*<br><a href="http://www.thestateofthearts.co.uk/features/works-ahead-expect-something-weird-personal-entirely-half-done" target="_blank">The State of The Arts (2018 review)</a>           
@@ -41,7 +38,7 @@ Enquiries: 0161 232 6086 (Word of Warning office)
 >*• Great to see new work by younger artists.<br>• Brilliant works in progress, varied and interesting.<br>• I enjoyed both shows even though they were very different. I look forward to seeing how they develop.*<br>Audience Feedback from 2016/17/18         
           
 #### Credits         
-[Works Ahead](/hab/worksahead) 2020 is co-commissioned/co-produced by [hÅb](/hab), <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North)? + <a href="http://contactmcr.com" target="_blank">Contact</a>. Project Mentor: Peader Kirk        
+[Works Ahead](/hab/worksahead) 2020 is co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>. Project Mentor: Peader Kirk        
         
 #### Websites         
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a><br>
