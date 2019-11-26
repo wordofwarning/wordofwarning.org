@@ -5,11 +5,11 @@ rootpath: "../../"
 is_index: true
 
 # ABOUT THE SHOW - GENERIC
-artist: "Emergency Stop-Gap" # the name of the artist or company
+artist: "Emergency StopGap" # the name of the artist or company
 show: "<br>&nbspA night out for the curious." # the name of the show
 artist_size: 2
 show_size: 3
-season: "Emergency Stop-Gap 27|2|2020"
+season: "Emergency StopGap 27|2|2020"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -24,7 +24,7 @@ Manchester's micro-marathon of the bizarre, the bold + the beautiful pops-up in 
 *Participating Artists to be announced.* To get a feel for it, have a look at Emergency 2019's [programme](/archive/2019-emergency) + [event images](/galleries/2019-emergency).         
          
 #### Venues + Booking Details         
-Date: Thursdayy 27 Februray 2020, 6pm-9pm (*last entry at 8.45?pm*)           
+Date: Thursday 27 Februray 2020, 6pm-9pm (*last entry at 8.45?pm*)           
 Venue: <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, Chichester Rd, Hulme, M15 5EU        
 Tickets: NO booking required, Pay What You Decide in person on the day.<br>Entry: come and go as you please; some works may have a limited capacity with either sign-up sheets on the night or operating first-come, first-served.       
 Enquiries: 07488 308 111 (*on the night*) / 0161 232 6086 (*during weekday office hours*)          
@@ -36,7 +36,7 @@ Enquiries: 07488 308 111 (*on the night*) / 0161 232 6086 (*during weekday offic
 >• *Fresh, exciting, unpredictable, mixed and provocative. Rewarding, too!*<br>• *I am amazed they manage so many shows in a day…*<br>• *The diversity is outstanding and so inclusive of all.*<br>• *Inspiring new talent…*<br>• *Really important event for NW artists — safe space to experiment.*<br>• *Performances are both rewarding in their own right, and also offer a glimpse into where theatre might go in our more interactive and interconnected world.*<br>• *Thought provoking & frankly unique. It sets Manchester apart.*<br>[Audience Feedback from Emergency 2018 + earlier years…](/archive/2018-emergency)          
          
 #### Credits         
-[Emergency Stop-Gap](/hab/emergency) is produced by [hÅb](/hab); supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a> | Image: WHO by WHOM        
+[Emergency StopGap](/hab/emergency) is produced by [hÅb](/hab); supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a> | Image: WHO by WHOM        
                 
 #### Websites
 <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyStopGap" target="_blank">#EmergencyStopGap</a>
