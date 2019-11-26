@@ -29,13 +29,11 @@ Tickets: £13/11 (***needs URL***)
 Box Office tel: 0161 833 9833 (Royal Exchange Theatre)           
           
 #### Access Information        
-Age Advisory: 16+ (parental/guardian discretion).<br>Warning: includes strong language, sexual references + full nudity; uses haze + flashing lights (not strobe); for specific content warnings please click [here](/warnings).<br>Duration: approximately 70 minutes (no interval).<br>Features: live spoken English, live music + more ***tbc***<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.         
+Age Advisory: 16+ (parental/guardian discretion).<br>Warning: includes strong language, sexual references + full nudity; uses haze + flashing lights (not strobe); for specific content warnings please click [here](/warnings).<br>Duration: approximately 70 minutes (no interval).<br>Features: live spoken English, live music + ***more tbc***<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.         
              
 #### More         
 Jamal grew up Catholic in a Caribbean household, but would rather light a candle and worship celebrities than white saints. Combining African diasporic ritual, live music + storytelling, *Idol* is a spiritual journey that asks what happens when you don't see yourself represented. Featuring a host of celebrity appearances.         
           
-*Idol* premiered at Transform19 in Leeds.        
-         
 #### Who is he?        
 Jamal Gerald is a Leeds-based artist whose work is conversational, socially conscious, a celebration of individuality, and focuses on identity + lived experiences — mostly making the type of work that he wants to see, with the aim of taking up space as a Black queer person; trying to make sure that each piece he creates is a different form to the one he made before.
 
@@ -44,7 +42,7 @@ Jamal has made work for poetry slams, films, parties, cafes + theatres in many d
 Starting his career with the creative writing + performance group Leeds Young Authors, Jamal's first solo show *FADoubleGOT* toured nationally in 2016 (including to Contact); he co-devised + performed in the critically-acclaimed *Putting Words in Your Mouth* (devised + directed by Scottee) and his work has been shown at SPILL, Leeds Playhouse, Battersea Arts Centre + the Barbican.        
          
 #### What people have said about him        
->*This is performance at its greatest. We want more and then we want to know what more we can all do.* — <a href="http://theculturevulture.co.uk/cultures/jamal-geralds-idol-transform19" target="_blank">Culture Vulture on *Idol* at Transform19</a><br>*Idol is pain and joy so beautifully delivered. Speaks so clearly of the importance of representation.* — Audience Feedback on *Idol*<br>*There's a fresh, honest quality to Gerald's performance. Jamal Gerald is, intensely, fiercely himself on stage.* — <a href="http://exeuntmagazine.com/reviews/review-fadoublegot-at-contact-manchester" target="_blank">Exeunt on *FADoubleGOT* at Contact</a>       
+>*This is performance at its greatest. We want more and then we want to know what more we can all do.* — <a href="http://theculturevulture.co.uk/cultures/jamal-geralds-idol-transform19" target="_blank">Culture Vulture on *Idol* at Transform19</a><br>*Idol is pain and joy so beautifully delivered. Speaks so clearly of the importance of representation.* — <a href="http://transformfestival.org/event/idol" target="_blank">Audience Response to *Idol* at Transform19</a><br>*There's a fresh, honest quality to Gerald's performance. Jamal Gerald is, intensely, fiercely himself on stage.* — <a href="http://exeuntmagazine.com/reviews/review-fadoublegot-at-contact-manchester" target="_blank">Exeunt on *FADoubleGOT* at Contact</a>       
         
 #### Credits          
 Lead Artist: Jamal Gerald | Musicians/Performers: Pariss Elektra + Azizi Cole | Dramaturge: Maddy Costa | Outside Eye: Rachael Young | Movement Director: Akeim Toussaint Buck | Stage + Lighting Design: Ben Pacey | Costume: Hannah Wilson | Ritual Consultant: Christella Litras | Stage Manager: Charlotte Woods | Production Manager: Helen Mugridge | Producer: Transform<br><br>
