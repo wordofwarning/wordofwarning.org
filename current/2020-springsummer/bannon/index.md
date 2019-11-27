@@ -20,7 +20,7 @@ season: "Jo Bannon 1|4|2020"
 *Presented by* The Lowry + Word of Warning *as a* <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a>
          
 #### In Brief      
-Soft flesh contends with hard metal as vibrating bodies and hysterical voices attempt to unseat the hidden interior of anxiety, desire, daily exertion, sexuality, and relentless penetration.          
+Soft flesh contends with hard metal as vibrating bodies + hysterical voices attempt to unseat the hidden interior of anxiety, desire, daily exertion, sexuality + relentless penetration.          
            
 #### Venue + Booking Details           
 Date: Wednesday 1 April 2020, 8pm        
@@ -34,7 +34,7 @@ Age Advisory: 16+ (parental/guardian discretion).<br>Warning: includes ***?***; 
 #### More         
 These bodies are working hard. They are using domestic objects and a choreography of subtle shaking to produce moments of operatic melodrama and brooding states of dissent, quaking + eruption.        
         
-What is the role or necessity of pain in personal and social change? And who pays the price?        
+What is the role or necessity of pain in personal and social change?<br>And who pays the price?        
          
 *We Are Fucked* uncovers the hard work it sometimes takes to live in a world which is not designed for you. A dance piece, both subtle + ecstatic, euphoric + unforgiving, and a bit sexy…        
          
