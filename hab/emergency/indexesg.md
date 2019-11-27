@@ -16,13 +16,13 @@ season: "hÅb's Emergency"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Emergency** is our annual platform for live art + contemporary performance, since 2000 showing around 30 short pieces of work over a day/evening in Manchester each autumn… A new iteration for 2020 is **Emergency StopGap** — a small informal platform to bridge the gap between gallery + theatre, and to fill the empty months of winter.            
+**Emergency** is our annual platform for live art + contemporary performance, since 2000 showing around 30 short pieces of work over a day/evening in Manchester each autumn. A new iteration for 2020 is **Emergency StopGap** — a small informal platform to bridge the gap between gallery + theatre, and to fill the empty months of winter…            
 <hr>         
-Our **first Emergency StopGap** takes place on **Thursday 27 February 2020** (6pm-10pm) in the decaying splendour of Manchester' <a href="https://www.niamos.space" target="_blank">NIAMOS</a> — with the call for artist proposals now open until **Friday 17 January 2020, 5pm** — see full details <a href="http://emergencymcr.posthaven.com" target="_blank">here</a>.          
+Our inaugural **Emergency StopGap** takes place on **Thursday 27 February 2020 (6-10pm)** in the decaying splendour of Manchester's <a href="https://www.niamos.space" target="_blank">NIAMOS</a> — with the call for artist proposals now open until **Friday 17 January 2020, 5pm** — see full details <a href="http://emergencymcr.posthaven.com" target="_blank">here</a>.          
 
 Artists working in live art, contemporary performance, time-based media, and interdisciplinary arts are invited to submit proposals for:<br>• durational, one to one, and limited capacity work;<br>• performance installation and intervention-based works in and around the spaces.<br>To get a feel for it, have a look at Emergency 2019's [programme](/current/2019-emergency) + [gallery of images](/galleries/2019-emergency).          
          
-**Emergency StopGap is:**<br>• an informal Pay What You Decide public event + open submission platform;<br>• an opportunity for artists to meet, show, and peer-review work.       
+**Emergency StopGap is:**<br>• an informal Pay What You Decide public event and open submission platform;<br>• an opportunity for artists to meet, show, and peer-review work.       
          
 **Please note:**<br>• Emergency StopGap will feature around 10 pieces of work throughout the evening;<br>• work can be in any relevant artform/medium, though some live presence is desirable;<br>• Emergency StopGap will offer an honorarium of up to £100 per piece selected, to cover fees/expenses;<br>• access to power + technology is limited in this site — work that can use domestic or battery powered technology is strongly encouraged;<br>• we apologise but physical access to the building is challenging — please ask for specifics if you have physical access needs and are considering making a proposal;<br>• whilst we don't encourage it, you are permitted to submit more than one proposal but it is unlikely that more than one would be successful from a single artist/group.          
        
