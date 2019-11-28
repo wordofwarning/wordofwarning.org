@@ -20,7 +20,7 @@ season: "hÅb's Emergency"
 <hr>         
 Our inaugural **Emergency StopGap** takes place on **Thursday 27 February 2020 (6-10pm)** in the decaying splendour of Manchester's <a href="https://www.niamos.space" target="_blank">NIAMOS</a> — with the call for artist proposals now open until **Friday 17 January 2020, 5pm** — see full details <a href="http://emergencymcr.posthaven.com" target="_blank">here</a>.          
 
-Artists working in live art, contemporary performance, time-based media, and interdisciplinary arts are invited to submit proposals for:<br>• durational, one to one, and limited capacity work;<br>• performance installation and intervention-based works in and around the spaces.<br>To get a feel for it, have a look at Emergency 2019's [programme](/current/2019-emergency) + [gallery of images](/galleries/2019-emergency).          
+Artists working in live art, contemporary performance, time-based media, and interdisciplinary arts are invited to submit proposals for:<br>• durational, one to one, and limited capacity work;<br>• performance installation and intervention-based works in and around the spaces.<br>NB — StopGap is *not* looking for blackbox-type shows*.<br>To get a feel for it, have a look at 2019's [daytime at NIAMOS](/current/2019-emergency/daytime).           
          
 **Emergency StopGap is:**<br>• an informal Pay What You Decide public event and open submission platform;<br>• an opportunity for artists to meet, show, and peer-review work.       
          
