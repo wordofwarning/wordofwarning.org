@@ -18,8 +18,8 @@ season: "hÅb's Emergency"
 ---
 **Emergency** is our annual platform for live art + contemporary performance, since 2000 showing around 30 short pieces of work over a day/evening in Manchester each autumn. A new iteration for 2020 is **Emergency StopGap** — a small informal platform to bridge the gap between gallery + theatre, and to fill the empty months of winter…             
 <hr>         
-Our inaugural **Emergency StopGap** takes place on **Thursday 27 February 2020**, from 6pm to late, in the decaying splendour of Manchester's <a href="https://www.niamos.space" target="_blank">NIAMOS</a> — an evening of durational, small capacity + intervention-based work. The callout for proposals is open until **Friday 17 January 2020, 5pm** — see full details <a href="https://emergencymcr.posthaven.com/emergency-stopgap-call-for-proposals" target="_blank">here</a>.          
-
+Our inaugural **Emergency StopGap** takes place on **Thursday 27 February 2020** in the decaying splendour of Manchester's <a href="https://www.niamos.space" target="_blank">NIAMOS</a> — an evening of durational, small capacity + intervention-based work. The callout for proposals is open until **Friday 17 January 2020, 5pm** — see details <a href="https://emergencymcr.posthaven.com/emergency-stopgap-call-for-proposals" target="_blank">here</a>.          
+          
 Artists working in live art, contemporary performance, time-based media, and interdisciplinary arts are invited to submit proposals for:<br>&nbsp;• durational, one to one, and limited capacity work;<br>&nbsp;• performance installation and intervention-based works in + around the spaces.<br>&nbsp;NB: Emergency StopGap is *not* looking for "black-box" show-type work.<br>To get a feel for it, have a look at 2019's [daytime programme at NIAMOS](/current/2019-emergency/daytime).           
          
 **Emergency StopGap is:**<br>&nbsp;• an informal Pay What You Decide public event and open submission platform;<br>&nbsp;• an opportunity for artists to meet, show, and peer-review work.       
