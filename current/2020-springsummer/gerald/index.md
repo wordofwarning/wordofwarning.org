@@ -17,15 +17,15 @@ season: "Jamal Gerald 19—21|3|2020"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Royal Exchange Theatre*,* Contact *+* Word of Warning       
+*Presented by* Contact*,* Word of Warning *+* Royal Exchange Theatre      
          
 #### In Brief      
-*Who would you rather pray to? Beyoncé or white Jesus?*<br><br>A daring + unapologetic examination of religion, pop culture + Black representation.        
+Who would you rather pray to? Beyoncé or white Jesus?<br><br>A daring + unapologetic examination of religion, pop culture + Black representation.        
           
 #### Venue + Booking Details           
 Dates: Thursday 19, Friday 20 + Saturday 21 March 2020, 7.30pm        
 Venue: The Studio at <a href="http://www.royalexchange.co.uk/where-how-to-find-us" target="_blank">Royal Exchange Theatre</a>, St Ann's Square, Manchester, M2 7DH         
-Tickets: £13/11 (***needs URL***)            
+Tickets: <a href="http://www.royalexchange.co.uk/whats-on-and-tickets/idol" target="_blank">£13/11/7</a>
 Box Office tel: 0161 833 9833 (Royal Exchange Theatre)           
           
 #### Access Information        
@@ -46,7 +46,7 @@ Starting his career with the creative writing + performance group Leeds Young Au
         
 #### Credits          
 Lead Artist: Jamal Gerald | Musicians/Performers: Pariss Elektra + Azizi Cole | Dramaturge: Maddy Costa | Outside Eye: Rachael Young | Movement Director: Akeim Toussaint Buck | Stage + Lighting Design: Ben Pacey | Costume: Hannah Wilson | Ritual Consultant: Christella Litras | Stage Manager: Charlotte Woods | Production Manager: Helen Mugridge | Producer: Transform<br><br>
-A Jamal Gerald, Transform + Theatre in the Mill co-production.<br>Seed commissioned by [hÅb](/hab), STUN + Contact for [Works Ahead](/hab/worksahead).<br>Supported by Leeds Inspired (part of Leeds City Council) and using public funding from the National Lottery through Arts Council England.           
+**A Jamal Gerald, Transform + Theatre in the Mill co-production.**<br>Seed commissioned by [hÅb](/hab), STUN + Contact for [Works Ahead](/hab/worksahead).<br>Supported by Leeds Inspired (part of Leeds City Council) and using public funding from the National Lottery through Arts Council England.           
         
 #### Websites          
 <a href="http://www.jamalgerald.com/idol" target="_blank">www.jamalgerald.com</a> | <a href="http://twitter.com/JamiBoii" target="_blank">@JamiBoii</a>
