@@ -7,8 +7,8 @@ is_index: true
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency StopGap" # the name of the artist or company
 show: "<br>&nbspA night out for the curious." # the name of the show
-artist_size: 2
-show_size: 3
+artist_size: 1
+show_size: 2
 season: "Emergency StopGap 27|2|2020"
 
 # ABOUT THE SHOW - LAYOUT
