@@ -20,33 +20,31 @@ season: "Harry Clayton-Wright 12|2|2020"
 *Presented by* The Lowry + Word of Warning *as a* <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a>
          
 #### In Brief      
-One parent refuses to talk about sex. The other buys their child gay porn DVDs.         
+One parent refuses to talk about sex. The other buys their child gay porn DVDs.<br>An exploration of how we learn about sex and how it shapes our lives…        
           
 #### Venue + Booking Details           
 Date: Wednesday 12 February 2020, 8pm        
 Venue: <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-Tickets: <a href="http://thelowry.com/whats-on/tom-cassani" target="_blank">book online from Friday 10 January</a>, Pay What You Decide (*suggested donation £5*) by cash or card after the show (*you can also donate in advance when you book*).         
+Tickets: <a href="http://thelowry.com/whats-on/wtf-wednesday-harry-clayton-wright-sex-education" target="_blank">book online from Friday 10 January</a>, Pay What You Decide (*suggested donation £5*) by cash or card after the show (*you can choose to donate £5 when you book*).         
 Box Office Tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
-**Age Limit: 18+**.<br>Warning: includes themes that some people may find distressing, nudity + explicit sexual content; for specific content warnings please click [here](/warnings).<br>Duration: approximately 1 hour (no interval).<br>Features: live spoken English, amplified/mechanical sound (loud at times), lighting.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
+**Age Limit: 18+**.<br>Warning: includes themes that some people may find distressing, nudity + explicit sexual content; for specific content warnings please click [here](/warnings).<br>Duration: approximately 1 hour (no interval).<br>Features: live spoken English, with more ***tbc***.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
              
 #### More         
-Harry Clayton-Wright explores how we learn about sex and how it shapes our lives, blending a no-holds-barred interview with his mum, startling performance, moving storytelling, and some good old-fashioned gay porn that his dad bought for him when he was 14.           
+Harry Clayton-Wright explores how we learn about sex and how it shapes our lives — blending a no-holds-barred interview with his mum, startling performance, moving storytelling, and some good old-fashioned gay porn that his dad bought for him when he was 14.           
         
-Delivered with the candour, positivity, and charm that have made him an acclaimed international touring success (*Briefs: Close Encounters*), join Harry as he delves into his sexual past, live on stage: the good, the bad and everything in between. This is a show for anyone who's wondered why they want what they want.        
+Delivered with the candour, positivity, and charm that have made him an acclaimed international touring success (*Briefs: Close Encounters*), Harry delves into his sexual past live on stage — the good, the bad, and everything in between. *Sex Education* is a show for anyone who's wondered why they want what they want.        
          
 #### Who is he?        
 Harry  is? Brighton Fringe Award winner (2017). Total Theatre Award nominee (2019).         
         
-#### What people have said about him         
->★★★★ *Clayton-Wright has complete control over the room's mood. Achingly funny, filthy and tender.* The Guardian<br>★★★★ *Extraordinary. An exuberant, propulsive and often hilarious hour.* The Scotsman 
-
->*Often the eerie silence, combined with Cassani’s deliberately perfunctory performance, made the show uncomfortable viewing, and yet it was impossible to look away…*<br><a href="http://www.whatsonlive.co.uk/birmingham/news/our-be-festival-review-round-up/44721" target="_blank">★★★★ Ellie Hutchings, What's on Birmingham</a><br>*• Very accomplished performance. A powerful presence throughout.*<br>*• Beautiful, loved the eye contact. Exciting, vulnerable.*<br>Audience Feedback        
+#### What people have said about *Sex Education*        
+>★★★★ *Clayton-Wright has complete control over the room's mood … achingly funny, filthy and tender.*<br><a href="http://www.theguardian.com/stage/2019/aug/16/sex-education-oh-yes-oh-no-your-sexts-edinburgh-festival-2019" target="_blank">— The Guardian</a><br>★★★★ *Extraordinary … an exuberant, propulsive and often hilarious hour.*
+<br><a href="http://www.scotsman.com/arts-and-culture/edinburgh-festivals/theatre-review-sex-education-summerhall-edinburgh-1-4986003" target="_blank">— The Scotsman</a>          
         
 #### Credits          
 ***tbc***<br>Image: Greg Bailey         
          
 #### Websites          
-http://hcw.horse/project/sexeducation
-<a href="http://twitter.com/Tomatocassata" target="_blank">@Tomatocassata</a>
+<a href="http://hcw.horse/project/sexeducation" target="_blank">hcw.horse</a> | <a href="http://twitter.com/HClaytonWright" target="_blank">@HClaytonWright</a>
