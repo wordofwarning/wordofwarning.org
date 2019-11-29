@@ -4,11 +4,11 @@ layout: hab # the season or event-specific template in /_layouts
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Emergency" # the name of the artist or company
-show: "<br>&nbsp;A day out for the curious." # the name of the artist or company
-show_size: 4
+artist: "Emergency StopGap" # the name of the artist or company
+show: "<br>&nbsp;A night out for the curious." # the name of the artist or company
+show_size: 3
 header_image: "header_emergency_photo.jpg"   
-season: "hÅb's Emergency"
+season: "hÅb's Emergency StopGap"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -16,7 +16,9 @@ season: "hÅb's Emergency"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Emergency** is our annual platform for live art + contemporary performance, since 2000 showing around 30 short pieces of work over a day/evening in Manchester each autumn. A new iteration for 2020 is **Emergency StopGap** — a small informal platform to bridge the gap between gallery + theatre, and to fill the empty months of winter…             
+**Emergency** is our annual platform for live art + contemporary performance, since 2000 showing around 30 short pieces of work over a day/evening in Manchester each autumn.         
+        
+A new iteration for 2020 is **Emergency StopGap** — a small informal platform to bridge the gap between gallery + theatre, and to fill the empty months of winter…             
 <hr>         
 Our inaugural **Emergency StopGap** takes place on **Thursday 27 February 2020** from 6pm to late in the decaying splendour of Manchester's <a href="http://www.niamos.space" target="_blank">NIAMOS</a> — an informal evening of durational, small capacity, and intervention-based work, we are now seeking artist's proposals. The callout is open until **Friday 17 January 2020, 5pm** — see details <a href="http://emergencymcr.posthaven.com/emergency-stopgap-call-for-proposals" target="_blank">here</a>.          
           
