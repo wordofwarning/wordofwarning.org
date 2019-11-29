@@ -17,7 +17,7 @@ season: "Jamal Gerald 19—21|3|2020"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented in Manchester by* Contact*,* Word of Warning *+* Royal Exchange Theatre      
+*Presented by* Contact*,* Word of Warning *+* Royal Exchange Theatre      
          
 #### In Brief      
 Who would you rather pray to? Beyoncé or white Jesus?<br>A daring + unapologetic examination of religion, pop culture + Black representation.        
@@ -25,7 +25,7 @@ Who would you rather pray to? Beyoncé or white Jesus?<br>A daring + unapologeti
 #### Venue + Booking Details           
 Dates: Thursday 19, Friday 20 + Saturday 21 March 2020, 7.30pm        
 Venue: The Studio at <a href="http://www.royalexchange.co.uk/where-how-to-find-us" target="_blank">Royal Exchange Theatre</a>, St Ann's Square, Manchester, M2 7DH         
-Tickets: <a href="http://www.royalexchange.co.uk/whats-on-and-tickets/idol" target="_blank">£13/11/7/6</a> (now on sale)         
+Tickets: <a href="http://www.royalexchange.co.uk/whats-on-and-tickets/idol" target="_blank">£13/11/7</a> (now on sale)         
 Box Office tel: 0161 833 9833 (Royal Exchange Theatre)           
           
 #### Access Information        
