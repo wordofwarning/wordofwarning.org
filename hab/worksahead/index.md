@@ -35,7 +35,7 @@ Our **[seventh Works Ahead](/archive/2018-worksahead)** took place in May 2018 a
               
 Our **[eighth Works Ahead](/archive/2019-worksahead)** took place in May 2019 at STUN Studio, with a double bill from Mark Croasdale + Avital Raz: two explorations of inner conflict, outer division, and the politics of oppression… See their [image gallery](/galleries/2019-woah).          
 
-Our **next / ninth Works Ahead** is due to take place in May 2020 at Contact following its <a href="http://contactmcr.com/support-us/makingcontact" target="_blank">capital redevelopment</a>…          
+Our **next / ninth Works Ahead** is due to take place in May 2020 with Contact…          
             
 [Works Ahead 2019](/archive/2019-worksahead) was co-commissioned/co-produced by [hÅb](/hab), <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North) + <a href="http://contactmcr.com" target="_blank">Contact</a>. Project Mentor: Peader Kirk          
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>
