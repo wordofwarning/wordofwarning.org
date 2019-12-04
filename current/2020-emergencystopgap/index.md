@@ -8,7 +8,7 @@ is_index: true
 artist: "Emergency StopGap" # the name of the artist or company
 show: "<br>&nbsp;A night out for the curious." # the name of the show
 artist_size: 1
-show_size: 2
+show_size: 3
 season: "Emergency StopGap 27|2|2020"
 
 # ABOUT THE SHOW - LAYOUT
@@ -36,7 +36,7 @@ Age Advisory: mainly aimed at adults, parental/guardian discretion is advised; *
 >*Absolutely brilliant to see such varied and sometimes challenging work.*<br>*Genuinely unique … not seen anything quite like it elsewhere.*<br>*I liked the intimacy of some of the pieces + the variety.*<br>*I'm so glad I happened upon it, really well organised, amazing acts.*<br>*One of the most interesting events in Manchester's Cultural Calendar.*<br>*Really important event for NW artists — safe space to experiment.*<br>*The diversity is outstanding and so inclusive of all.*<br>*Thought provoking & frankly unique. It sets Manchester apart.*<br>&nbsp;— Audience Feedback           
          
 #### Credits         
-[Emergency StopGap](/hab/emergency) is produced by [hÅb](/hab) + supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a>        
+[Emergency StopGap](/hab/emergency) is produced by [hÅb](/hab) + supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a>.        
                 
 #### Websites
 <a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyStopGap" target="_blank">#EmergencyStopGap</a>
