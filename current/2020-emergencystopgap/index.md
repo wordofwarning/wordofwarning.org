@@ -18,7 +18,7 @@ season: "Emergency StopGap 27|2|2020"
 ---
 *Presented by* Word of Warning *in association with* NIAMOS           
          
-#### A Thursday Late on 27 February, 6pm-10pm             
+#### A Thursday Late — 27 February, 6pm-10pm             
 Manchester's micro-marathon of the bizarre, the bold + the beautiful pops-up with a night of curiosities amidst the decaying splendour of Hulme's NIAMOS — a 'stopgap' to bridge the void between gallery + theatre, and to fill the empty months of winter…<br>*Come and go as you please, sample the different — then pay what you decide!*            
              
 Participating artists *TBA* here in early February; until 17 January we are [seeking artist proposals](/hab/emergency). To get a feel for it, have a look at 2019's [daytime programme at NIAMOS](/archive/2019-emergency/daytime).         
