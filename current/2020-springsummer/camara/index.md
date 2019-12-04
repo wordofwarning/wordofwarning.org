@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Tania Camara" # the name of the artist or company
-show: "<br>&nbspOreo" # the name of the show
+show: "<br>&nbsp;Oreo" # the name of the show
 artist_size: 2
 show_size: 1
 header_image: "header_tania.jpg"    
@@ -23,9 +23,9 @@ season: "Tania Camara 23|4|2020"
 'Oreo, coconut, Bounty Bar' — micro-aggressions used to disempower a black person deemed to be 'acting white'. Donning a camouflage of Oreo-filling, Tania explores the masks we wear to put our heads above the parapet in a climate of systemic racism.          
         
 #### Venue + Booking Details           
-Dates: Thursday 23 April 2020, 7.30pm        
-Venue: STUN Studio at <a href="https://www.royalexchange.co.uk/where-how-to-find-us" target="_blank">Z-arts</a>, 335 Stretford Rd, Hulme, Manchester, M15 5ZA         
-Tickets: £?/? (on sale from ***tbc***)            
+Dates: Thursday 23 + Friday 24 April 2020, 7.30pm        
+Venue: STUN Studio at <a href="http://www.z-arts.org/home/your-visit-to-z-arts/getting-here" target="_blank">Z-arts</a>, 335 Stretford Rd, Hulme, Manchester, M15 5ZA         
+Tickets: £7/5 (on sale from ***tbc***)            
 Box Office tel: 0161 833 9833 (Z-arts)           
           
 #### Access Information        
@@ -38,7 +38,7 @@ A semi-autobiographical solo about being a successfully educated black woman wit
 A Manchester-based solo performance artist, Tania Camara works across devised theatre, dance, site-specific, live art, installation, video + photography. A graduate of the University of Amsterdam with an MA, she uses her cultural heritage, past experiences, research + the interdisciplinary structure of Batuku (incl. singing, dancing, drums + spoken word). Tania's current practice focuses on personal accounts of memory, collective and ancestral, to uncover her racial and cultural identity; the concept of self and other; belonging and the black performing body.           
          
 #### What people have said about her        
->*?*<br><a href="http://exeuntmagazine.com/reviews/review-fadoublegot-at-contact-manchester" target="_blank">? on ? at ?</a>       
+>*?*<br><a href="" target="_blank">? on ? at ?</a>       
         
 #### Credits          
 Tania Camara: ***?*** | Molly Scarborough: ***?*** | Pape Ibrahima N'diaye (aka Kaolack): ***?***<br>Image by Guido Mencari of *Me, myself and my Oreos* from SPILL Festival of Performance 2016<br><br>Commissioned by STUN, PUSH Festival + [Divergency](/hab/divergency).<br>Supported using public funding from the National Lottery through Arts Council England.           
