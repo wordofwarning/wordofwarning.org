@@ -806,14 +806,14 @@
 	.ss2020 .splash
 		{background:url(../images/header_aw18wrn.jpg) -150px center}
 
-/* Emergency Stop-Gap 2020 green w running man
+/* Emergency Stop-Gap 2020 bright green w running man
 ------------------------------------------------------*/
 		
 	.esg2020,
 	.esg2020 .artist, 
 	.esg2020 .show,
 	.esg2020 .season
-		{background:#3c3; color:#000;}
+		{background:#16fe00; color:#000;}
 
 	.esg2020 a,
 	.esg2020 a:visited,
@@ -822,7 +822,7 @@
 	.esg2020 nav a:hover,
 	.esg2020 article a:hover,
 	.esg2020 footer a:hover
-		{background: #000; color: #3c3;}
+		{background: #000; color: #16fe00;}
 
 	.esg2020 .splash
 		{background:url(../images/header_esg.jpg) center center}
