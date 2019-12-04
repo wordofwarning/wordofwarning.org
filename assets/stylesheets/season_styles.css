@@ -806,14 +806,14 @@
 	.ss2020 .splash
 		{background:url(../images/header_aw18wrn.jpg) -150px center}
 
-/* Emergency Stop-Gap 2020 red-brown placeholder
+/* Emergency Stop-Gap 2020 green w running man
 ------------------------------------------------------*/
 		
 	.esg2020,
 	.esg2020 .artist, 
 	.esg2020 .show,
 	.esg2020 .season
-		{background:#930; color:#fff;}
+		{background:#3c3; color:#000;}
 
 	.esg2020 a,
 	.esg2020 a:visited,
@@ -822,12 +822,12 @@
 	.esg2020 nav a:hover,
 	.esg2020 article a:hover,
 	.esg2020 footer a:hover
-		{background: #fff; color: #930;}
+		{background: #000; color: #3c3;}
 
 	.esg2020 .splash
-		{background:url(../images/header_pe_photo.jpg) center center}
+		{background:url(../images/header_esg.jpg) center center}
 
-/* Works Ahead 2020 berry gasworks
+/* Works Ahead 2020 berry w gasworks
 ------------------------------------------------------*/
 		
 	.w2020,
