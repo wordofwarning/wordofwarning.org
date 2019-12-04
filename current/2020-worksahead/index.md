@@ -19,7 +19,7 @@ season: "Works Ahead 14+15|5|2020"
 ---
 *Presented by* Word of Warning *+* Contact         
          
-#### Thursday 14 + Friday 15 May 2020, 7.30pm | *venue TBC*        
+#### Thursday 14 + Friday 15 May 2020, 7.30pm        
 Our annual sampler of new performance is a double bill of new works in development from artists at the start of their journeys… To get a feel for it, have a look at [2019](/archive/2019-worksahead).            
                 
 #### Venue + Booking Details        
