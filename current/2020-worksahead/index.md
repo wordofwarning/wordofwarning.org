@@ -19,13 +19,13 @@ season: "Works Ahead 14+15|5|2020"
 ---
 *Presented by* Word of Warning *+* Contact         
          
-#### Thursday 14 + Friday 15 May 2020, 7.30pm | Pay What You Decide*?*        
+#### Thursday 14 + Friday 15 May 2020, 7.30pm | *venue TBC*        
 Our annual sampler of new performance is a double bill of new works in development from artists at the start of their journeys… To get a feel for it, have a look at [2019](/archive/2019-worksahead).            
                 
 #### Venue + Booking Details        
 Dates: Thursday 14 + Friday 15 May 2020, 7.30pm         
 Venue: ***tbc***         
-Tickets: £***7/4 or PWYD*** (on sale from early April)            
+Tickets: £7/4 (on sale from ***early April***)            
 Box Office tel: ***tbc*** / 0161 274 0600 (Contact)              
         
 #### Access Information        
