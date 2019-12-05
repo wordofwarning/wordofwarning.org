@@ -8,7 +8,7 @@ season: "SS20"
 ---
 *From filling the gap to taking the biscuit, soft flesh to hard lessons, by way of celebrity iconography…*           
           
-Featuring artists [Jo Bannon](/current/2020-springsummer/bannon), [Tania Camara](/current/2020-springsummer/camara), [Harry Clayton-Wright](/current/2020-springsummer/clayton-wright), [Jamal Gerald](/current/2020-springsummer/gerald), a [pair of new performances](/current/2020-worksahead) + a [Thursday Late for the curious](/current/2020-emergencystopgap) — SS20 is brought to you by [hÅb](/hab) with Contact, NIAMOS, Royal Exchange Theatre, Sustained Theatre Up North, The Lowry — we look forward to seeing you at some or all of it!         
+Featuring artists [Jo Bannon](/current/2020-springsummer/bannon), [Tania Camara](/current/2020-springsummer/camara), [Harry Clayton-Wright](/current/2020-springsummer/clayton-wright), [Jamal Gerald](/current/2020-springsummer/gerald), plus a [pair of new performances](/current/2020-worksahead) + a [Thursday Late for the curious](/current/2020-emergencystopgap) — and brought to you by [hÅb](/hab) with Contact, NIAMOS, Royal Exchange Theatre, Sustained Theatre Up North + The Lowry — we look forward to seeing you at some or all of SS20!         
          
 Check out what happened last season with a look at our [AW19 archive](/archive/2019-autumnwinter), and keep in touch by <a href="{{ site.mailer_signup_url }}" target="_blank">signing-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.                 
              
@@ -23,10 +23,10 @@ We take live work very seriously — but we don't take ourselves seriously at al
          
 >*Curated by the ever-impressive Word Of Warning…*<br>— <a href="http://www.theguardian.com/stage/2013/nov/02/this-weeks-theatre" target="_blank">Lyn Gardner, on Domestic (November 2013)</a>         
          
-#### Who's it for? Anyone looking for a different night (or day) out.            
+#### Who's it for? Anyone looking for a different night (or day) out            
 We don't want to put you off by talking labels — yes, there'll be theatre, live art, dance, performance etc. — our aim is to be anything but elitist or po-faced. So if you like comedy, music, gaming, or just a friendly, stimulating evening — there'll be something you might want to take a chance on.         
          
-#### What our audiences have said about the work  
+#### What our audiences have said about the work we present  
 >*Astonishing. Like nothing else. Transformative, immersive, moving.*<br>*Brave, dark, humerous, intimate, intense.*<br>*Heartwarming, funny + engaging.*<br>*Strangely mesmeric. A unique experience.*<br>*Very enjoyable — felt accessible and thus enjoyable to all.*<br>*You programme wonderful, daring performances that I have never been disappointed by.*          
          
 #### Who is Word of Warning?         
@@ -43,5 +43,5 @@ I'm joined in this lunacy by John Franklin-Johnston, greenroom's long time progr
 #### What our audiences have said about us           
 >*Always special, bringing the unexpected and intriguing, thank you.*<br>*Bringing some of the most interesting performance work in the world to our city.*<br>*Fabulous for seeing things different from the mainstream machine.*<br>*Great organisation — a reason to move to Manchester.*<br>*I don't know what I would do with my spare time without you.*<br>*Refreshing company that brings diverse shows to our door steps.*<br>*WoW are great, supporting emerging work and bringing it to new audiences.*             
              
-#### Warnings          
-If would like to know specific content warnings for our Performance Programme, please click [here](/warnings).
+#### Content Warnings          
+Please click [here](/warnings) to read specific content warnings for our Performance Programme.
