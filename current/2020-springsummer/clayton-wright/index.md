@@ -32,11 +32,11 @@ Box Office Tel: 0161 876 2000 (The Lowry)
 **Age Limit: 18+**<br>Warning: includes themes that some people may find distressing, nudity + explicit sexual content; for specific content warnings please click [here](/warnings).<br>Duration: approximately 1 hour (no interval).<br>Features: live spoken English, with more ***tbc***.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
              
 #### More         
-Harry Clayton-Wright explores how we learn about sex and how it shapes our lives — blending a no-holds-barred interview with his mum, startling performance, moving storytelling, and some good old-fashioned gay porn that his dad bought for him when he was 14.           
+Harry Clayton-Wright blends a no-holds-barred interview with his mum, startling performance, moving storytelling, and some good old-fashioned gay porn that his dad bought for him when he was 14.           
          
-Delivered with the candour, positivity, and charm that have made him an acclaimed international touring success, Harry delves into his sexual past live on stage — the good, the bad + everything in between… *Sex Education* is a show for anyone who's wondered why they want what they want.          
+Delivered with the candour, positivity, and charm that have made him an acclaimed international touring success, Harry delves into his sexual past live on stage — the good, the bad, and everything in between…<br>*Sex Education* is a show for anyone who's wondered why they want what they want.          
           
-Harry's first solo theatre work, *Sex Education* won the LGBTQ Award at 2017's Brighton Fringe, and was nominated for a Total Theatre Award at 2019's Edinburgh Fringe.        
+Harry's first solo theatre work, *Sex Education* won the LGBTQ Award at 2017's Brighton Fringe + was nominated for a Total Theatre Award at 2019's Edinburgh Fringe Festival.        
         
 #### Who is he?        
 Harry Clayton-Wright is an entertainer, performance artist, international mischief-maker + internet provocateur from Blackpool. Growing up in a town ubiquitous with traditional show business (and trashy gay bars) has left stains that simply won't wash out.        
