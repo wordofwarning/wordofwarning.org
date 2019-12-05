@@ -32,10 +32,10 @@ Box Office Tel: 0161 876 2000 (The Lowry)
 **Age Limit: 18+**<br>Warning: includes themes that some people may find distressing, nudity + explicit sexual content; for specific content warnings please click [here](/warnings).<br>Duration: approximately 1 hour (no interval).<br>Features: live spoken English, with more ***tbc***.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
              
 #### More         
-Blending a no-holds-barred interview with his mum, startling performance, moving storytelling, and some good old-fashioned gay porn that his dad bought for him when he was 14 years old — *Sex Education* is a show for anyone who's wondered why they want what they want.          
-         
-Delivered with the candour, positivity, and charm that have made him an acclaimed international touring success, Harry Clayton-Wright delves into his sexual past live on stage — the good, the bad, and everything in between…           
+Delivered with the candour, positivity, and charm that have made him an acclaimed international touring success, Harry Clayton-Wright delves into his sexual past live on stage — the good, the bad, and everything in between…        
           
+Blending a no-holds-barred interview with his mum, startling performance, moving storytelling, and some good old-fashioned gay porn that his dad bought for him when he was 14 years old — *Sex Education* is a show for anyone who's wondered why they want what they want.         
+         
 Harry's first solo theatre work, *Sex Education* won the LGBTQ Award at 2017's Brighton Fringe + was nominated for a Total Theatre Award at 2019's Edinburgh Fringe Festival.         
         
 #### Who is he?        
@@ -50,7 +50,7 @@ Harry has been called a 'Genius' by Cosmopolitan, 'Extraordinary' by The Guardia
 <br>&nbsp;— <a href="http://www.scotsman.com/arts-and-culture/edinburgh-festivals/theatre-review-sex-education-summerhall-edinburgh-1-4986003" target="_blank">The Scotsman</a><br>★★★★ *Clayton-Wright nails a serious, prescient point … underlines that LGBT+ education could be considered another form of suicide prevention.*<br>&nbsp;— <a href="http://www.thestage.co.uk/reviews/2019/sex-education-review-at-summerhall-edinburgh-nails-a-serious-point-about-lgbt-education" target="_blank">The Stage</a>           
         
 #### Credits          
-Creator + Performer ***?***: Harry Clayton-Wright | Director: Brian Lobel | Producer: David Sheppeard | Production Design + Choreography: Leah Shelton | Technical Management: Simon Booth | Audio Editing: Duncan Jarvies | Video Editing: Cribble | Additional Audio Contributions: Kuchenga + Ophelia Bitz | Filming: Rosie Powell Freelance | Poster Design: Sarah Ferrari | Image: Greg Bailey<br><br>Commissioned by the Marlborough Pub + Theatre. Supported by Shoreditch Town Hall and using public funding from the National Lottery through Arts Council England.         
+***? Creator + Performer***: Harry Clayton-Wright | Director: Brian Lobel | Producer: David Sheppeard | Production Design + Choreography: Leah Shelton | Technical Management: Simon Booth | Audio Editing: Duncan Jarvies | Video Editing: Cribble | Additional Audio Contributions: Kuchenga + Ophelia Bitz | Filming: Rosie Powell Freelance | Poster Design: Sarah Ferrari | Image: Greg Bailey<br><br>Commissioned by the Marlborough Pub + Theatre. Supported by Shoreditch Town Hall and using public funding from the National Lottery through Arts Council England.         
          
 #### Websites          
 <a href="http://hcw.horse/project/sexeducation" target="_blank">hcw.horse</a> | <a href="http://twitter.com/HClaytonWright" target="_blank">@HClaytonWright</a>
