@@ -20,16 +20,16 @@ season: "Harry Clayton-Wright 12|2|2020"
 *Presented by* The Lowry + Word of Warning *as a* <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a>
          
 #### In Brief      
-One parent refuses to talk about sex; the other buys gay porn for their child…<br>An exploration of how we learn about sex and how it shapes our lives.        
+One parent refuses to talk about sex, the other buys gay porn for their child…<br>An exploration of how we learn about sex and how it shapes our lives.        
           
 #### Venue + Booking Details           
 Date: Wednesday 12 February 2020, 8pm        
 Venue: <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-Tickets: <a href="http://thelowry.com/whats-on/wtf-wednesday-harry-clayton-wright-sex-education" target="_blank">book online from Friday 10 January</a>, Pay What You Decide (*suggested donation £5*) by cash or card after the show (*you can choose to donate £5 when you book*).         
+Tickets: <a href="http://thelowry.com/whats-on/wtf-wednesday-harry-clayton-wright-sex-education" target="_blank">book online from Friday 10 January</a> and Pay What You Decide by cash or card after the show (*suggested donation £5; you can choose to donate £5 when you book*).         
 Box Office Tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
-**Age Limit: 18+**<br>Warning: includes themes that some people may find distressing, nudity + explicit sexual content; for specific content warnings please click [here](/warnings).<br>Duration: approximately 1 hour (no interval).<br>Features: live spoken English, with more ***tbc***.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
+**Age Limit: 18+**<br>Warning: includes themes that some people may find distressing, nudity + explicit sexual content; for specific content warnings please click [here](/warnings).<br>Duration: approximately 1 hour (no interval).<br>Features: live spoken English, with ***more tbc***.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
              
 #### More         
 Delivered with the candour, positivity, and charm that have made him an acclaimed international touring success, Harry Clayton-Wright delves into his sexual past live on stage — the good, the bad, and everything in between…        
