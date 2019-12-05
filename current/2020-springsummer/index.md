@@ -6,7 +6,7 @@ is_index: true
 season: "SS20"
 
 ---
-*From filling the gap to taking the biscuit, soft flesh to hard lessons, by way of celebrity iconography…*           
+*From filling the gap to taking the biscuit, soft flesh to hard lessons, by way of a spiritual journey…*           
           
 Featuring artists [Jo Bannon](/current/2020-springsummer/bannon), [Tania Camara](/current/2020-springsummer/camara), [Harry Clayton-Wright](/current/2020-springsummer/clayton-wright), [Jamal Gerald](/current/2020-springsummer/gerald), plus a [pair of new performances](/current/2020-worksahead) + a [Thursday Late for the curious](/current/2020-emergencystopgap) — and brought to you by [hÅb](/hab) with Contact, NIAMOS, Royal Exchange Theatre, Sustained Theatre Up North + The Lowry — we look forward to seeing you at some or all of SS20!         
          
