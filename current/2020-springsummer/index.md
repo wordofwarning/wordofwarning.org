@@ -6,9 +6,11 @@ is_index: true
 season: "SS20"
 
 ---
-*From a [Harry](/current/2020-springsummer/clayton-wright) to a [Jamal](/current/2020-springsummer/gerald), a [Tania](/current/2020-springsummer/camara) to a [Jo](/current/2020-springsummer/bannon), with a [StopGap](/current/2020-emergencystopgap) and a [WoAh](/current/2020-worksahead)… Spring/Summer 2020 is a bumper crop of a season. To keep in touch, <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.*               
+*blah blah…*           
           
-Brought to you by [hÅb](/hab) — with The Lowry, NIAMOS, Contact, Royal Exchange Theatre, STUN (Sustained Theatre Up North) — we look forward to seeing you at some or all of SS20. If you want to check out what happened last season take a look at our [AW19 archive](/archive/2019-autumnwinter).                 
+Featuring [Harry Clayton-Wright](/current/2020-springsummer/clayton-wright), a [Thursday Late for the curious](/current/2020-emergencystopgap), [Jamal Gerald](/current/2020-springsummer/gerald), [Jo Bannon](/current/2020-springsummer/bannon), [Tania Camara](/current/2020-springsummer/camara) + a [pair of new performances](/current/2020-worksahead) — SS20 is brought to you by [hÅb](/hab) with Contact, NIAMOS, Royal Exchange Theatre, STUN (Sustained Theatre Up North) + The Lowry — we look forward to seeing you at some or all of it!           
+           
+Check out what happened last season with a look at our [AW19 archive](/archive/2019-autumnwinter), and keep in touch by <a href="{{ site.mailer_signup_url }}" target="_blank">signing-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.                 
              
 #### What is Word of Warning + where did it come from?         
 >*Consistently refreshing and surprising, no season is ever the same…*          
