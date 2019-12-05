@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency StopGap" # the name of the artist or company
-show: "<br>&nbsp;A night out for the curious." # the name of the artist or company
+show: "<br>&nbsp;&nbsp;A night out for the curious." # the name of the artist or company
 show_size: 3 
 header_image: "header_emergencybw.jpg"   
 season: "hÅb's Emergency StopGap"
