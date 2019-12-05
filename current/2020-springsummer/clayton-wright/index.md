@@ -29,7 +29,7 @@ Tickets: <a href="http://thelowry.com/whats-on/wtf-wednesday-harry-clayton-wrigh
 Box Office Tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
-**Age Limit: 18+**.<br>Warning: includes themes that some people may find distressing, nudity + explicit sexual content; for specific content warnings please click [here](/warnings).<br>Duration: approximately 1 hour (no interval).<br>Features: live spoken English, with more ***tbc***.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
+**Age Limit: 18+**<br>Warning: includes themes that some people may find distressing, nudity + explicit sexual content; for specific content warnings please click [here](/warnings).<br>Duration: approximately 1 hour (no interval).<br>Features: live spoken English, with more ***tbc***.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
              
 #### More         
 Harry Clayton-Wright explores how we learn about sex and how it shapes our lives — blending a no-holds-barred interview with his mum, startling performance, moving storytelling, and some good old-fashioned gay porn that his dad bought for him when he was 14.           
@@ -41,7 +41,7 @@ Harry's first solo theatre work, *Sex Education* won the LGBTQ Award at 2017's B
 #### Who is he?        
 Harry Clayton-Wright is an entertainer, performance artist, international mischief-maker + internet provocateur from Blackpool. Growing up in a town ubiquitous with traditional show business (and trashy gay bars) has left stains that simply won't wash out.        
           
-Harry's work spans genre and taste levels — dipping his toes into the worlds of entertainment, theatre, film, live art + exhibitionism… His smash hit *Briefs: Close Encounters* sold-out spiegeltents all over the world, culminating in a West End run; his 107-hour immersive installation *The Slumber Party* has been in situ at Glastonbury + the Adelaide Fringe Festival; he starred in Brendan Maclean's <a href="http://vimeo.com/200672866" target="_blank">video for *House Of Air*</a>, racking up over six million views + screening at numerous film festivals including SXSW.        
+Harry's work spans genre and taste levels — dipping his toes into the worlds of entertainment, theatre, film, live art + exhibitionism… His smash hit *Briefs: Close Encounters* sold-out spiegeltents all over the world, culminating in a West End run; his 107-hour immersive installation *The Slumber Party* has been in situ at Glastonbury + the Adelaide Fringe Festival; he starred in Brendan Maclean's <a href="http://vimeo.com/200672866" target="_blank">video for *House Of Air*</a>, racking up over six million views + screening at numerous festivals including SXSW.        
          
 Harry has been called a 'Genius' by Cosmopolitan, 'Extraordinary' by The Guardian, 'Absolutely incredible' by BuzzFeed, and a 'Deranged, manic gay bloke' by The Mirror.         
         
@@ -50,7 +50,7 @@ Harry has been called a 'Genius' by Cosmopolitan, 'Extraordinary' by The Guardia
 <br>&nbsp;— <a href="http://www.scotsman.com/arts-and-culture/edinburgh-festivals/theatre-review-sex-education-summerhall-edinburgh-1-4986003" target="_blank">The Scotsman</a><br>★★★★ *Clayton-Wright nails a serious, prescient point … underlines that LGBT+ education could be considered another form of suicide prevention.*<br>&nbsp;— <a href="http://www.thestage.co.uk/reviews/2019/sex-education-review-at-summerhall-edinburgh-nails-a-serious-point-about-lgbt-education" target="_blank">The Stage</a>           
         
 #### Credits          
-Creator + Performer: Harry Clayton-Wright | Director: Brian Lobel | Producer: David Sheppeard | Production Design + Choreography: Leah Shelton | Technical Management: Simon Booth | Audio Editing: Duncan Jarvies | Video Editing: Cribble | Additional Audio Contributions: Kuchenga + Ophelia Bitz | Filming: Rosie Powell Freelance | Poster Design: Sarah Ferrari | Image: Greg Bailey<br><br>Commissioned by the Marlborough Pub + Theatre. Supported by Shoreditch Town Hall and using public funding from the National Lottery through Arts Council England.         
+Creator + Performer ***?***: Harry Clayton-Wright | Director: Brian Lobel | Producer: David Sheppeard | Production Design + Choreography: Leah Shelton | Technical Management: Simon Booth | Audio Editing: Duncan Jarvies | Video Editing: Cribble | Additional Audio Contributions: Kuchenga + Ophelia Bitz | Filming: Rosie Powell Freelance | Poster Design: Sarah Ferrari | Image: Greg Bailey<br><br>Commissioned by the Marlborough Pub + Theatre. Supported by Shoreditch Town Hall and using public funding from the National Lottery through Arts Council England.         
          
 #### Websites          
 <a href="http://hcw.horse/project/sexeducation" target="_blank">hcw.horse</a> | <a href="http://twitter.com/HClaytonWright" target="_blank">@HClaytonWright</a>
