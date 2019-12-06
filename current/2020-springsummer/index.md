@@ -6,9 +6,9 @@ is_index: true
 season: "SS20"
 
 ---
-*From filling the gap to taking the biscuit, via reverence and representation, to soft flesh and hard lessons… Featuring artists [Jo Bannon](/current/2020-springsummer/bannon), [Tania Camara](/current/2020-springsummer/camara), [Harry Clayton-Wright](/current/2020-springsummer/clayton-wright), [Jamal Gerald](/current/2020-springsummer/gerald), a [pair of new performances](/current/2020-worksahead) + a [Thursday Late for the curious](/current/2020-emergencystopgap).*        
+*From filling the gap to taking the biscuit, via reverence + representation, to soft flesh + hard lessons… SS20 features artists [Jo Bannon](/current/2020-springsummer/bannon), [Tania Camara](/current/2020-springsummer/camara), [Harry Clayton-Wright](/current/2020-springsummer/clayton-wright), [Jamal Gerald](/current/2020-springsummer/gerald), plus a [sample of new performance](/current/2020-worksahead) + a [Thursday Late for the curious](/current/2020-emergencystopgap).*        
         
-Brought to you by [hÅb](/hab) with Contact, NIAMOS, Royal Exchange Theatre, Sustained Theatre Up North + The Lowry — we look forward to seeing you at some or all of SS20!         
+Brought to you by [hÅb](/hab) with Contact, NIAMOS, Royal Exchange Theatre, Sustained Theatre Up North + The Lowry — we look forward to seeing you at some or all of SS20.         
          
 Check out what happened last season with a look at our [AW19 archive](/archive/2019-autumnwinter), and keep in touch by <a href="{{ site.mailer_signup_url }}" target="_blank">signing-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.                 
              
