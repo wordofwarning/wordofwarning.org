@@ -17,7 +17,7 @@ season: "Jamal Gerald 19—21|3|2020"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Contact*,* Word of Warning *+* Royal Exchange Theatre      
+*Presented by* Royal Exchange Theatre*,* Contact *+* Word of Warning       
          
 #### In Brief      
 Who would you rather pray to? Beyoncé or white Jesus?<br>A daring + unapologetic examination of religion, pop culture + Black representation.        
@@ -32,14 +32,14 @@ Box Office tel: 0161 833 9833 (Royal Exchange Theatre)
 Age Advisory: 16+ (parental/guardian discretion).<br>Warning: includes strong language, sexual references + full nudity; uses haze + flashing lights (not strobe); for specific content warnings please click [here](/warnings).<br>Duration: approximately 70 minutes (no interval).<br>Features: live spoken English + live music; candles + joss sticks are lit throughout the show.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.         
              
 #### More         
-Jamal grew up Catholic in a Caribbean household, but would rather light a candle and worship celebrities than white saints. Combining African diasporic ritual, live music + storytelling, *Idol* is a spiritual journey that asks what happens when you don't see yourself represented. Featuring a host of celebrity appearances.         
+Jamal grew up Catholic in a Caribbean household — but would rather light a candle and worship celebrities than white saints.<br><br>Combining African diasporic ritual, live music + storytelling, *Idol* is a spiritual journey that asks what happens when you don't see yourself represented.<br><br>Featuring a host of celebrity appearances.         
           
 #### Who is he?        
 Jamal Gerald is a Leeds-based artist whose work is conversational, socially conscious, a celebration of individuality, and focuses on identity + lived experiences — mostly making the type of work that he wants to see, with the aim of taking up space as a Black queer person; trying to make sure that each piece he creates is a different form to the one he made before.
 
 Jamal has made work for poetry slams, films, parties, cafes + theatres in many different forms — such as a solo show where he shares autobiographical stories about being Black + gay; to having one-to-one conversations about privilege; to stripping down to his underwear in the city centre of Leeds in a short film; to an interactive performance where he puts words in people's mouths…
 
-Starting his career with the creative writing + performance group Leeds Young Authors, Jamal's first solo show *FADoubleGOT* toured nationally in 2016 (including to Contact); he co-devised + performed in the critically-acclaimed *Putting Words in Your Mouth* (devised + directed by Scottee) and his work has been shown at SPILL, Leeds Playhouse, Battersea Arts Centre + the Barbican.        
+Starting his career with the creative writing + performance group Leeds Young Authors, Jamal's first solo show *FADoubleGOT* toured nationally in 2016 (including to Contact); he co-devised + performed in the critically-acclaimed *Putting Words in Your Mouth* (devised + directed by Scottee); and his work has been shown at SPILL, Leeds Playhouse, Battersea Arts Centre + the Barbican.        
          
 #### What people have said about him        
 >*This is performance at its greatest. We want more and then we want to know what more we can all do.*<br>&nbsp;— <a href="http://theculturevulture.co.uk/cultures/jamal-geralds-idol-transform19" target="_blank">Culture Vulture on *Idol* at Transform19</a><br>*Idol is pain and joy so beautifully delivered. Speaks so clearly of the importance of representation.*<br>&nbsp;— <a href="http://transformfestival.org/event/idol" target="_blank">Audience Response to *Idol* at Transform19</a><br>*There's a fresh, honest quality to Gerald's performance. Jamal Gerald is, intensely, fiercely himself on stage.*<br>&nbsp;— <a href="http://exeuntmagazine.com/reviews/review-fadoublegot-at-contact-manchester" target="_blank">Exeunt on *FADoubleGOT* at Contact</a>       
