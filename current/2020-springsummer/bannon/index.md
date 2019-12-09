@@ -34,13 +34,13 @@ Age Advisory: 16+ (parental/guardian discretion).<br>Warning: includes ***?***; 
 #### More         
 Three bodies are working hard — they're using domestic objects and a choreography of subtle shaking to produce moments of operatic melodrama and brooding states of dissent, quaking + eruption.        
         
-A dance piece, *We Are Fucked* uncovers the hard work it sometimes takes to live in a world which is not designed for you. It is both subtle + ecstatic, euphoric + unforgiving… And a bit sexy.        
+A dance piece, *We Are Fucked* uncovers the hard work it sometimes takes to live in a world which is not designed for you. It is both subtle and ecstatic; euphoric and unforgiving… And a bit sexy.        
          
 What is the role or necessity of pain in personal and social change?<br>And who pays the price?        
          
-
-         
 #### Who is she?        
+Jo Bannon is a UK artist making live art and performance. She has presented work in the UK, Europe, South America and Australia including The Barbican, Art Gallery of Western Australia, Arnolfini, Itau Cultural Brazil, Battersea Arts Centre, PAD Mainz and the National Theatre. She is a founder member of artist collective Residence.
+              
 Jo Bannon returns after 2017's [story of paleness, blending in, and standing out](/archive/2017-autumnwinter/bannon). A Bristol-based artist working in performance, choreography + live art, Jo also works as a dramaturg, educator + writer, and is a founder member of artist collective Residence. She has presented work in the UK, Europe, South America, USA, China, South Korea + Australia — Word of Warning presented her intimate [*Exposure*](/archive/2013-domestic/bannon) during 2013's Domestic.
 
 Her work is concerned with human exchange and encounter, and explores how our physical bodies experience the world around us and how this sensory experience can or cannot be conveyed. She attempts to unpick the ways we look, hear and sense our immediate environment in order to rethink or make unfamiliar these intrinsic human behaviors. Her performances often manifest as intimate encounters designed for single or small audiences (e.g. *Exposure*), alongside staged theatre work and installations.
@@ -48,9 +48,11 @@ Her work is concerned with human exchange and encounter, and explores how our ph
 My work is concerned with identity, sensory perception, and human encounter and explores how our physical bodies experience the world around us and how this sensory experience can or cannot be conveyed.  My work is informed by my identity as a disabled woman with albinism and attempts to unpick the ways we look, hear and sense our immediate environment in order to rethink or make unfamiliar these intrinsic human behaviours. My performances often manifests as intimate encounters designed for single or small audiences alongside staged theatre work and installations.
 
 Her work is supported by a number of organisations including Arts Council England, British Council, Unlimited + MAYK.         
-        
+            
+For this show, Jo Bannon is joined by Rosada Case + Louise Ahl.
+         
 #### What people have said about *her*         
->*Often the eerie silence, combined with Cassani’s deliberately perfunctory performance, made the show uncomfortable viewing, and yet it was impossible to look away…*<br><a href="http://www.whatsonlive.co.uk/birmingham/news/our-be-festival-review-round-up/44721" target="_blank">★★★★ Ellie Hutchings, What's on Birmingham</a><br>*• Very accomplished performance. A powerful presence throughout.*<br>*• Beautiful, loved the eye contact. Exciting, vulnerable.*<br>Audience Feedback        
+>*Doubt and disturbance come to a climax in Jo Bannon’s powerfully penetrating performance.*<br>&nbsp;— <a href="http://" target="_blank">Springback Magazine on *We Are Fucked*</a><br>*In its own unassuming way, this show is a little miracle.*<br>&nbsp;— <a href="http://" target="_blank">The Guardian on *Alba*</a><br>*???*<br>&nbsp;— Audience Response to *We Are Fucked*       
         
 #### Credits          
 Jo Bannon with Rosana Cade + Louise Ahl<br>Commissioned by Unlimited | Produced by MAYK<br>Image: Paul Samuel White         
