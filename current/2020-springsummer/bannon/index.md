@@ -25,18 +25,20 @@ Soft flesh contends with hard metal as vibrating bodies + hysterical voices atte
 #### Venue + Booking Details           
 Date: Wednesday 1 April 2020, 8pm        
 Venue: <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-Tickets: reserve online from Friday 28 February, then Pay What You Decide (*suggested donation £5*) by cash or card after the show.         
+Tickets: <a href="http://thelowry.com/whats-on/wtf-wednesday-jo-bannon-we-are-fucked" target="_blank">book online from Fri 28 Feb</a>, and Pay What You Decide by cash or card after the show (*suggested donation £5; you can choose to donate £5 when you book*).         
 Box Office tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
-Age Advisory: 16+ (parental/guardian discretion).<br>Warning: includes ***?***; for specific content warnings please click [here](/warnings).<br>Duration: approximately ***?*** (no interval).<br>Features: live spoken English + ***?***.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
+Age Advisory: 16+ (parental/guardian discretion).<br>Warning: includes ***?***; for specific content warnings please click [here](/warnings).<br>Duration: approximately 1 hour (no interval).<br>Features: live spoken English + ***?***.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
              
 #### More         
-These bodies are working hard. They are using domestic objects and a choreography of subtle shaking to produce moments of operatic melodrama and brooding states of dissent, quaking + eruption.        
+Three bodies are working hard — they're using domestic objects and a choreography of subtle shaking to produce moments of operatic melodrama and brooding states of dissent, quaking + eruption.        
         
+A dance piece, *We Are Fucked* uncovers the hard work it sometimes takes to live in a world which is not designed for you. It is both subtle + ecstatic, euphoric + unforgiving… And a bit sexy.        
+         
 What is the role or necessity of pain in personal and social change?<br>And who pays the price?        
          
-*We Are Fucked* uncovers the hard work it sometimes takes to live in a world which is not designed for you. A dance piece, both subtle + ecstatic, euphoric + unforgiving, and a bit sexy…        
+
          
 #### Who is she?        
 Jo Bannon returns after 2017's [story of paleness, blending in, and standing out](/archive/2017-autumnwinter/bannon). A Bristol-based artist working in performance, choreography + live art, Jo also works as a dramaturg, educator + writer, and is a founder member of artist collective Residence. She has presented work in the UK, Europe, South America, USA, China, South Korea + Australia — Word of Warning presented her intimate [*Exposure*](/archive/2013-domestic/bannon) during 2013's Domestic.
