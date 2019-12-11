@@ -29,7 +29,7 @@ Tickets: <a href="http://thelowry.com/whats-on/wtf-wednesday-jo-bannon-we-are-fu
 Box Office tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
-Age Advisory: 16+ (parental/guardian discretion).<br>Warning: includes ***?***; for specific content warnings please click [here](/warnings).<br>Duration: approximately 1 hour (no interval).<br>Features: live spoken English + ***?***.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
+Age Advisory: 16+ (parental/guardian discretion).<br>Warning: includes ***?***; for specific content warnings please click [here](/warnings).<br>Duration: approximately 1 hour (no interval).<br>Features: choreographed movement + minimal live spoken English + ***?***.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
              
 #### More         
 Three bodies are working hard — using domestic objects and a choreography of subtle shaking to produce moments of operatic melodrama and brooding states of dissent, quaking + eruption.        
@@ -38,8 +38,10 @@ A dance piece, *We Are Fucked* uncovers the hard work it sometimes takes to live
          
 What is the role or necessity of pain in personal and social change?<br>And who pays the price?        
          
+*WAF* premiered in August 2018 at Arnolfini, prior to performances in September 2018 at Southbank Centre's Unlimited Festival.         
+         
 #### Who is she?        
-Jo Bannon is a UK artist making live art and performance. She has presented work in the UK, Europe, South America and Australia including The Barbican, Art Gallery of Western Australia, Arnolfini, Itau Cultural Brazil, Battersea Arts Centre, PAD Mainz and the National Theatre. She is a founder member of artist collective Residence.
+Jo Bannon is a UK artist making live art and performance. She has presented work in the UK, Europe, South America and Australia including The Barbican, Art Gallery of Western Australia, Arnolfini, Itau Cultural Brazil, Battersea Arts Centre, PAD Mainz and the National Theatre. She is a founder member of artist collective Residence. For *We Are Fucked*, she is joined by Louise Ahl + Rosana Cade.
               
 Jo Bannon returns after 2017's [story of paleness, blending in, and standing out](/archive/2017-autumnwinter/bannon). A Bristol-based artist working in performance, choreography + live art, Jo also works as a dramaturg, educator + writer, and is a founder member of artist collective Residence. She has presented work in the UK, Europe, South America, USA, China, South Korea + Australia — Word of Warning presented her intimate [*Exposure*](/archive/2013-domestic/bannon) during 2013's Domestic.
 
@@ -48,14 +50,13 @@ Her work is concerned with human exchange and encounter, and explores how our ph
 My work is concerned with identity, sensory perception, and human encounter and explores how our physical bodies experience the world around us and how this sensory experience can or cannot be conveyed.  My work is informed by my identity as a disabled woman with albinism and attempts to unpick the ways we look, hear and sense our immediate environment in order to rethink or make unfamiliar these intrinsic human behaviours. My performances often manifests as intimate encounters designed for single or small audiences alongside staged theatre work and installations.
 
 Her work is supported by a number of organisations including Arts Council England, British Council, Unlimited + MAYK.         
-            
-For this show, Jo Bannon is joined by Rosada Case + Louise Ahl.
          
 #### What people have said about *her*         
->*Doubt and disturbance come to a climax in Jo Bannon’s powerfully penetrating performance.*<br>&nbsp;— <a href="http://" target="_blank">Springback Magazine on *We Are Fucked*</a><br>*In its own unassuming way, this show is a little miracle.*<br>&nbsp;— <a href="http://" target="_blank">The Guardian on *Alba*</a><br>*???*<br>&nbsp;— Audience Response to *We Are Fucked*       
+>*Penetrate the earth in the wrong way it will react. Penetrate the human body with enough daily violence and what…?*<br>&nbsp;— <a href="http://exeuntmagazine.com/reviews/review-fucked-royal-festival-hall" target="_blank">Exeunt on *We Are Fucked*</a><br>*Doubt and disturbance come to a climax in Jo Bannon’s powerfully penetrating performance*<br>&nbsp;— <a href="http://springbackmagazine.com/read/jo-bannon-we-are-fcked" target="_blank">Springback Magazine on *We Are Fucked*</a><br>*In its own unassuming way, this show is a little miracle*<br>&nbsp;— <a href="http://www.theguardian.com/stage/2015/feb/16/in-between-time-festival-review-bristol" target="_blank">The Guardian on *Alba*</a>       
         
 #### Credits          
-Jo Bannon with Rosana Cade + Louise Ahl<br>Commissioned by Unlimited | Produced by MAYK<br>Image: Paul Samuel White         
+Concept: Jo Bannon | Devised + Performed by: Louise Ahl, Jo Bannon, Rosana Cade | Dramaturg: Sue Palmer | Sound Designer: Yas Clarke | Lighting Designer: Jo Palmer | Production Manager: Mark Munday | Mentor: Claire Cunningham | Producer: MAYK | Audio Description: Rationale Method | Captioning: The Difference Engine | Film + Photography: Paul Samuel White
+<br><br>Commissioned + supported by Unlimited, celebrating the work of disabled artists, with funding from Arts Council England. Additional support from Residence, Access2Arts + Arnolfini.
          
-#### Website          
+#### Websites          
 <a href="http://jobannon.co.uk/we-are-fucked" target="_blank">jobannon.co.uk</a> | <a href="http://twitter.com/missjobannon" target="_blank">@missjobannon</a>
