@@ -24,8 +24,8 @@ Our annual sampler of new performance features Will Dickie + Ross McCaffrey — 
           
 #### Venue + Booking Details        
 Dates: Thursday 21 + Friday 22 May 2020, 7.30pm         
-Venue: <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, corner of Chichester Rd/Warwick St, Hulme, Manchester M15 5EU                 
-Tickets: book online from Friday 17 April and Pay What You Decide by cash or card after the show at NIAMOS.           
+Venue: <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, corner of Chichester Rd/Warwick St, Manchester M15 5EU                 
+Tickets: book online from Friday 17 April and Pay What You Decide by cash or card after the double bill at NIAMOS.           
 Box Office tel: 0161 274 0600 (Contact) / 07488 308 111 (*on the night*)           
         
 #### Access Information        
