@@ -25,7 +25,7 @@ Participating artists *TBA* here in early February; until 17 January we are [see
          
 #### Venue + Booking Details         
 Date: Thursday 27 Februray 2020, 6pm-10pm (*last entry at 9pm*)           
-Venue: <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, corner of Chichester Rd/Warwick St, Manchester M15 5EU        
+Venue: <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, corner of Chichester Rd/Warwick St, Hulme, Manchester M15 5EU        
 Tickets: NO booking required, Pay What You Decide in person on the night.<br>Entry: come and go as you please; some works may have a limited capacity with either sign-up sheets on the night or operating first-come, first-served.       
 Enquiries: 07488 308 111 (*on the night*) / 0161 232 6086 (*during weekday office hours*)          
          
