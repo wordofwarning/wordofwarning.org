@@ -34,7 +34,7 @@ Age Advisory: 16+ (parental/guardian discretion).<br>Warnings: to be confirmed b
 #### More         
 Three bodies are working hard — using an assortment of domestic objects with a choreography of subtle shaking and relentless labour to produce moments of operatic melodrama and brooding states of dissent, quaking + eruption.        
         
-'What is the role or necessity of pain in personal and social change? And who pays the price?'        
+>'What is the role or necessity of pain in personal and social change? And who pays the price?'        
         
 A striking, subtle dance piece, *We Are Fucked* uncovers the hard work it sometimes takes to live in a world which is not designed for you. Ecstatic and excruciating, euphoric and unforgiving — it's also quite sexy.  
           
@@ -45,7 +45,7 @@ Jo Bannon returns after 2017's [story of paleness, blending in, and standing out
         
 A Bristol-based artist working in performance, choreography + live art, Jo also works as a dramaturg, educator + writer, and is a founder member of artist collective Residence. She has presented work in the UK, Europe, South America, USA, China, South Korea + Australia — Word of Warning presented her intimate [*Exposure*](/archive/2013-domestic/bannon) during 2013's Domestic. 
          
-Jo's work is concerned with sensory perception, and human encounter — exploring how our physical bodies experience the world around us, and how this sensory experience can or cannot be conveyed. Informed by her identity as a disabled woman with albinism, her work attempts to unpick the ways we look, hear, and sense our immediate environment — in order to rethink or make unfamiliar these intrinsic human behaviours. Her performances often manifest as intimate encounters designed for single or small audiences (e.g. *Exposure*), alongside staged theatre work and installations.         
+Jo's work is concerned with sensory perception and human encounter — exploring how our physical bodies experience the world around us, and how this sensory experience can or cannot be conveyed. Informed by her identity as a disabled woman with albinism, her work attempts to unpick the ways we look, hear, and sense our immediate environment — in order to rethink or make unfamiliar these intrinsic human behaviours. Her performances often manifest as intimate encounters designed for single or small audiences (e.g. *Exposure*), alongside staged theatre work and installations.         
          
 #### What people have said about *her*         
 >*Penetrate the earth in the wrong way it will react. Penetrate the human body with enough daily violence and what…?*<br>&nbsp;— <a href="http://exeuntmagazine.com/reviews/review-fucked-royal-festival-hall" target="_blank">Exeunt on *We Are Fucked*</a><br>*Doubt and disturbance come to a climax in Jo Bannon’s powerfully penetrating performance*<br>&nbsp;— <a href="http://springbackmagazine.com/read/jo-bannon-we-are-fcked" target="_blank">Springback Magazine on *We Are Fucked*</a><br>*In its own unassuming way, this show is a little miracle*<br>&nbsp;— <a href="http://www.theguardian.com/stage/2015/feb/16/in-between-time-festival-review-bristol" target="_blank">The Guardian on *Alba*</a>       
