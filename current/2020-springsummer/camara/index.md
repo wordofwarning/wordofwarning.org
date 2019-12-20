@@ -29,19 +29,16 @@ Tickets: £7/5 (on sale from February)
 Box Office tel: 0161 833 9833 (Z-arts)           
           
 #### Access Information        
-Age Advisory: ***tbc*** (parental/guardian discretion).<br>Warning: includes ***tbc***; for specific content warnings please click [here](/warnings).<br>Duration: approximately ***tbc*** (no interval).<br>Features: live spoken English + more ***tbc***<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.         
+Age Advisory: ***16+*** (parental/guardian discretion).<br>Warning: includes ***tbc***; for specific content warnings please click [here](/warnings).<br>Duration: approximately ***tbc*** (no interval).<br>Features: live spoken English + Portuguese <br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.         
              
 #### More         
 A semi-autobiographical solo about being a successfully educated black woman within western society, *Oreo* interrogates racial micro-aggressions and their effect on mental health within private and public personas — focusing on public figures like <a href="http://en.wikipedia.org/wiki/Diane_Abbott" target="_blank">Diane Abbott</a> + <a href="http://en.wikipedia.org/wiki/Joacine_Katar_Moreira" target="_blank">Joacine Katar Moreira</a>.<br><br>Exploring the racial term 'Oreo' in relation to experiences of episodic racism within higher education and employment, Tania challenges the notion of whitening her physical and phenomenal self to achieve success in society, asking you to open-up and join-in to celebrate a moment of freedom, a moment of clarity.       
          
 #### Who is she?        
 A Manchester-based solo performance artist, Tania Camara works across devised theatre, dance, site-specific, live art, installation, video + photography. A graduate of the University of Amsterdam with an MA, she uses her cultural heritage, past experiences, research + the interdisciplinary structure of Batuku (incl. singing, dancing, drums + spoken word). Tania's current practice focuses on personal accounts of memory, collective and ancestral, to uncover her racial and cultural identity; the concept of self and other; belonging and the black performing body.           
-         
-#### What people have said about her        
->*?*<br><a href="" target="_blank">&nbsp;—who? on *what?* at where?</a>       
-        
+
 #### Credits          
-***Creator + Performer?***: Tania Camara | ***Producer?***: Molly Scarborough | ***Role?***: Pape Ibrahima N'diaye (aka Kaolack) | Image of *Me, myself and my Oreos* from SPILL Festival of Performance 2016: Guido Mencari<br><br>Commissioned by STUN (Sustained Theatre Up North), HOME's PUSH Festival + [Divergency](/hab/divergency). Supported using public funding from the National Lottery through Arts Council England.           
+***Creator + Performer***: Tania Camara | ***Creative Producer***: Molly Scarborough | ***Mentor/Dramaturg***: D'bi Young Anitafrika | ***Dance Mentor***: Pape Ibrahima N'diaye (aka Kaolack) | Image of *Me, myself and my Oreos* from SPILL Festival of Performance 2016: Guido Mencari<br><br>Commissioned by STUN (Sustained Theatre Up North), developed with the support of HOME + [Divergency](/hab/divergency). Supported using public funding from the National Lottery through Arts Council England.           
         
 #### Websites          
-<a href="http://taniacamara.com" target="_blank">taniacamara.com</a> | <a href="http://twitter.com/TaniaCamara2" target="_blank">@TaniaCamara2</a>
+<a href="http://taniacamara.com" target="_blank">taniacamara.com</a> | <a href="http://twitter.com/TaniaCamara2" target="_blank">@TaniaCamara2</a> | <a href="https://www.facebook.com/TaniaCamara.Performance.Artist/" target="_blank">Tania Camara on facebook</a> 
