@@ -29,15 +29,15 @@ Tickets: <a href="http://thelowry.com/whats-on/wtf-wednesday-jo-bannon-we-are-fu
 Box Office tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
-Age Advisory: 16+ (parental/guardian discretion).<br>Warning: includes ***?***; for specific content warnings please click [here](/warnings).<br>Duration: approximately 1 hour (no interval).<br>Features: choreographed movement + minimal live spoken English + ***?***.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
-             
+Age Advisory: 16+ (parental/guardian discretion).<br>Warnings: to be confirmed by 28 Feb; for specific content warnings please click [here](/warnings).<br>Duration: approximately 1 hour (no interval).<br>Features: choreographed movement + minimal live spoken English, with more content to be confirmed by 28 Feb.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
+       
 #### More         
-Three bodies are working hard — using domestic objects and a choreography of subtle shaking to produce moments of operatic melodrama and brooding states of dissent, quaking + eruption.        
+Three bodies are working hard — using an assortment of domestic objects with a choreography of subtle shaking + relentless labour to produce moments of operatic melodrama and brooding states of dissent, quaking + eruption.        
         
-A dance piece, *We Are Fucked* uncovers the hard work it sometimes takes to live in a world which is not designed for you. It is both subtle and ecstatic; euphoric and unforgiving… And a bit sexy.        
-         
-What is the role or necessity of pain in personal and social change?<br>And who pays the price?        
-         
+>*'What is the role or necessity of pain in personal and social change?<br>And who pays the price?'*        
+        
+A striking, subtle dance piece, *We Are Fucked* uncovers the hard work it sometimes takes to live in a world which is not designed for you. It is both ecstatic and excruciating, euphoric and unforgiving… It's also quite sexy.  
+          
 *WAF* premiered in August 2018 at Arnolfini, prior to performances in September 2018 at Southbank Centre's Unlimited Festival.         
          
 #### Who is she?        
