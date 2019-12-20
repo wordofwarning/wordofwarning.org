@@ -38,10 +38,10 @@ A semi-autobiographical solo about being a successfully educated black woman wit
 A Manchester-based solo performance artist, Tania Camara works across devised theatre, dance, site-specific, live art, installation, video + photography. A graduate of the University of Amsterdam with an MA, she uses her cultural heritage, past experiences, research + the interdisciplinary structure of Batuku (incl. singing, dancing, drums + spoken word). Tania's current practice focuses on personal accounts of memory, collective and ancestral, to uncover her racial and cultural identity; the concept of self and other; belonging and the black performing body.           
          
 #### What people have said about her        
->*?*<br><a href="" target="_blank">&nbsp—who? on *what?* at where?</a>       
+>*?*<br><a href="" target="_blank">&nbsp;—who? on *what?* at where?</a>       
         
 #### Credits          
-Tania Camara: ***?*** | Molly Scarborough: ***?*** | Pape Ibrahima N'diaye (aka Kaolack): ***?***<br>Image by Guido Mencari of *Me, myself and my Oreos* from SPILL Festival of Performance 2016<br><br>Commissioned by STUN, PUSH Festival + [Divergency](/hab/divergency).<br>Supported using public funding from the National Lottery through Arts Council England.           
+***Creator + Performer?***: Tania Camara | ***Producer?***: Molly Scarborough | ***Role?***: Pape Ibrahima N'diaye (aka Kaolack) | Image of *Me, myself and my Oreos* from SPILL Festival of Performance 2016: Guido Mencari<br><br>Commissioned by STUN (Sustained Theatre Up North), HOME's PUSH Festival + [Divergency](/hab/divergency). Supported using public funding from the National Lottery through Arts Council England.           
         
 #### Websites          
 <a href="http://taniacamara.com" target="_blank">taniacamara.com</a> | <a href="http://twitter.com/TaniaCamara2" target="_blank">@TaniaCamara2</a>
