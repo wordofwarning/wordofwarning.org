@@ -25,7 +25,7 @@ season: "Tania Camara 23|4|2020"
 #### Venue + Booking Details           
 Dates: Thursday 23 + Friday 24 April 2020, 7.30pm        
 Venue: STUN Studio at <a href="http://www.z-arts.org/home/your-visit-to-z-arts/getting-here" target="_blank">Z-arts</a>, 335 Stretford Rd, Hulme, Manchester, M15 5ZA         
-Tickets: £7/5 (on sale from February)            
+Tickets: £7/4 (on sale from February)            
 Box Office tel: 0161 833 9833 (Z-arts)           
           
 #### Access Information        
