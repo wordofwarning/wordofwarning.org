@@ -13,15 +13,15 @@ more_url: "../../current/2019-autumnwinter/athey"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "Ron Athey", show: "Acephalous Monster"}
-    -   {file: "ron1.jpg", artist: "Ron Athey"}
-    -   {file: "ron2.jpg", artist: "Ron Athey"} 
-    -   {file: "ron3.jpg", artist: "Ron Athey"} 
-    -   {file: "ron4.jpg", artist: "Ron Athey"}
-    -   {file: "ron6.jpg", artist: "Ron Athey"} 
-    -   {file: "ron7.jpg", artist: "Ron Athey"}
-    -   {file: "ron8", artist: "Ron Athey"}
-    -   {file: "ron9.jpg", artist: "Ron Athey"}
-    -   {file: "ron10.jpg", artist: "Ron Athey"}
-    -   {file: "ron11.jpg", artist: "Ron Athey"}
+    -   {file: "Ron1.jpg", artist: "Ron Athey"}
+    -   {file: "Ron2.jpg", artist: "Ron Athey"} 
+    -   {file: "Ron3.jpg", artist: "Ron Athey"} 
+    -   {file: "Ron4.jpg", artist: "Ron Athey"}
+    -   {file: "Ron6.jpg", artist: "Ron Athey"} 
+    -   {file: "Ron7.jpg", artist: "Ron Athey"}
+    -   {file: "Ron8", artist: "Ron Athey"}
+    -   {file: "Ron9.jpg", artist: "Ron Athey"}
+    -   {file: "Ron10.jpg", artist: "Ron Athey"}
+    -   {file: "Ron11.jpg", artist: "Ron Athey"}
 
 ---
