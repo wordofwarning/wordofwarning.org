@@ -19,7 +19,7 @@ gallery:
     -   {file: "Ron4.jpg", artist: "Ron Athey"}
     -   {file: "Ron6.jpg", artist: "Ron Athey"} 
     -   {file: "Ron7.jpg", artist: "Ron Athey"}
-    -   {file: "Ron8", artist: "Ron Athey"}
+    -   {file: "Ron8.jpgß", artist: "Ron Athey"}
     -   {file: "Ron9.jpg", artist: "Ron Athey"}
     -   {file: "Ron10.jpg", artist: "Ron Athey"}
     -   {file: "Ron11.jpg", artist: "Ron Athey"}
