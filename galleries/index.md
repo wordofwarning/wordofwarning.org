@@ -5,14 +5,14 @@ layout: archive
 season: "Galleries"
 
 archived:
-    - {folder: "2019-athey", name: "Ron Athey, Oct 2019", class: "aw2019"}
+    - {folder: "2019-athey", name: "Ron Athey (2019)", class: "aw2019"}
     - {folder: "2019-emergency", name: "Emergency 2019", class: "e2019"}
     - {folder: "2019-woah", name: "Works Ahead 2019", class: "w2019"}
     - {folder: "2019-haphazard", name: "Haphazard 2019", class: "hh2019"}
     - {folder: "2018-emergency", name: "Emergency 2018", class: "e2018"}
     - {folder: "2018-hazard", name: "Hazard 2018: Shadow Girl", class: "h2018"}
     - {folder: "2018-woah", name: "Works Ahead 2018", class: "woah"}
-    - {folder: "2017-domestic", name: "Rent Party: Domestic Edition", class: "d2015"}
+    - {folder: "2017-domestic", name: "Rent Party: Domestic Edition (2017)", class: "d2015"}
     - {folder: "2017-emergency", name: "Emergency 2017", class: "e2017"}
     - {folder: "2017-woah", name: "Works Ahead 2017", class: "woah"}
     - {folder: "2017-turn", name: "Turn 2017", class: "t2017"}
@@ -23,7 +23,7 @@ archived:
     - {folder: "2016-turn", name: "Turn 2016", class: "t2016"}
     - {folder: "2016-haphazard", name: "Haphazard 2016", class: "hh2016"}
     - {folder: "2015-emergency", name: "Emergency 2015", class: "e2015"}
-    - {folder: "2015-domestic", name: "Domestic II", class: "d2015"}
+    - {folder: "2015-domestic", name: "Domestic II (2015)", class: "d2015"}
     - {folder: "2015-woah", name: "Works Ahead 2015", class: "woah"}
     - {folder: "2015-turn", name: "Turn 2015", class: "t2015"}
     - {folder: "2015-haphazard", name: "Haphazard 2015", class: "h2015"}
@@ -41,7 +41,7 @@ archived:
     - {folder: "2012-hazard", name: "Hazard 2012", class: "h2012"}
     - {folder: "2012-woah", name: "Works Ahead 2012", class: "woah"}
     - {folder: "2012-turn", name: "Turn 2012", class: "ss2012"}
-    - {folder: "hab-archive", name: "hÅb (archive)", class: "hab"}
+    - {folder: "hab-archive", name: "hÅb (pre-2011 archive)", class: "hab"}
     
 ---
 
