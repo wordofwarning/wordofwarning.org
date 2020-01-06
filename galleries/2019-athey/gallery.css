@@ -1,5 +1,5 @@
 body
-	{background:#ed1c24; color: #fff;}
+	{background:#000; color: #fff;}
 body, #slidecaption
 	{font-family: "minion-pro", Georgia, Times;}
 h1
@@ -7,7 +7,7 @@ h1
 p
 	{margin:20px;}
 #controls-wrapper
-	{background:#ed1c24;}
+	{background:#000;}
 #slidecaption
 	{font-size:18px; margin-left:20px; color: #fff; text-shadow: none;}
 #header
