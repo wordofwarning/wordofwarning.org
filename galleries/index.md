@@ -5,6 +5,7 @@ layout: archive
 season: "Galleries"
 
 archived:
+    - {folder: "2019-athey", name: "Ron Athey, Oct 2019", class: "aw2019"}
     - {folder: "2019-emergency", name: "Emergency 2019", class: "e2019"}
     - {folder: "2019-woah", name: "Works Ahead 2019", class: "w2019"}
     - {folder: "2019-haphazard", name: "Haphazard 2019", class: "hh2019"}
