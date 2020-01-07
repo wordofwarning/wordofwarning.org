@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-Below are age advisories/limits + content warnings for forthcoming [Word of Warning](/) events *as of 07/01/2020, 20:20* — this information is for audience members who would like to know more about the content of work presented in our Performance Programme: **particularly highlighting elements that may distress, cause upset, or trigger**. If you would like to get in touch please email <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.<br>*NB — reflects the most recent information received from the artists we present; past event warnings are archived [here](/archive/warnings).*         
+Below are Age Advisories/Limits + Content Warnings for forthcoming [Word of Warning](/) events *as of 07/01/2020, 20:20* — this information is for audience members who would like to know more about the content of work presented in our Performance Programme, **particularly highlighting elements that may distress, cause upset, or trigger**.<br>If you would like to get in touch please email <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.<br>*NB — reflects the most recent information received from the artists we present; past event warnings are archived [here](/archive/warnings).*         
 <hr>          
 ### Spring 2020        
 Our upcoming Performance Programme will be announced here in early January.
