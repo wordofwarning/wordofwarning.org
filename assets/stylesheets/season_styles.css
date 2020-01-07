@@ -800,11 +800,11 @@
 	.e2019 .splash
 		{background:url(../images/header_emergency19.jpg) center center}
 
-/* Spring/Summer 2020 Programme red velvet
+/* Spring 2020 Programme red velvet
 ------------------------------------------------------*/
 
-	.ss2020 .splash
-		{background:url(../images/header_SS20warnin.jpg) -150px center}
+	.s2020 .splash
+		{background:url(../images/header_Spring20warnin.jpg) -150px center}
 
 /* Emergency Stop-Gap 2020 bright green w running man
 ------------------------------------------------------*/
@@ -826,6 +826,12 @@
 
 	.esg2020 .splash
 		{background:url(../images/header_esg.jpg) center center}
+
+/* Spring/Summer 2020 Programme TBC after Easter (hazard placeholder)
+------------------------------------------------------*/
+
+	.ss2020 .splash
+		{background:url(../images/header_ss2016wrnhaz.jpg) -150px center}
 
 /* Works Ahead 2020 berry w gasworks
 ------------------------------------------------------*/
