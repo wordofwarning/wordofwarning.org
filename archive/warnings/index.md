@@ -12,7 +12,7 @@ season: "Archived Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-Below are Age Advisories/Limits and Content Warnings for past [Word of Warning](/) events *as of 22/11/19, 16:00* — this information was for audience members who wanted to know more about the content of work presented in our Performance Programme, **particularly highlighting elements that may have distressed, caused upset, or triggered**.<br>*NB — forthcoming event warnings are [here](/warnings).*           
+Below are Age Advisories/Limits + Content Warnings for past [Word of Warning](/) events *as of 22/11/19, 16:00* — this information was for audience members who wanted to know more about the content of work presented in our Performance Programme, **particularly highlighting elements that may have distressed, caused upset, or triggered**.<br>*NB — forthcoming event warnings are [here](/warnings).*           
 <hr>          
 ### 2019
 ##### [Wed 6 Nov at The Lowry | *I Promise You That Tonight* by Tom Cassani](/current/2019-autumnwinter/cassani)          
