@@ -20,7 +20,7 @@ season: "Works Ahead 21+22|5|2020"
 *Presented by* Word of Warning *+* Contact *at* NIAMOS         
          
 #### Thursday 21 + Friday 22 May 2020, 7.30pm. Pay What You Decide        
-A double bill of new works at the start of their journeys from **Will Dickie** + **Ross McCaffrey**. Get a feel for it with a look at [2019's programme](/archive/2019-worksahead).            
+A double bill of new works at the start of their journeys from artists Will Dickie + Ross McCaffrey. Get a feel for it with a look at [2019's programme](/archive/2019-worksahead).            
           
 #### Venue + Booking Details        
 Dates: Thursday 21 + Friday 22 May 2020, 7.30pm         
