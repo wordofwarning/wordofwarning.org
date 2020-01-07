@@ -6,11 +6,11 @@ is_index: true
 season: "Spr20"
 
 ---
-*From filling the gap to taking the biscuit, soft flesh to hard lessons, via a canon of reverence + representation… Spring 2020 features artists [Jo Bannon](/current/2020-springsummer/bannon), [Tania Camara](/current/2020-springsummer/camara), [Harry Clayton-Wright](/current/2020-springsummer/clayton-wright), [Jamal Gerald](/current/2020-springsummer/gerald), plus a [sample of new performance](/current/2020-worksahead) + a [Thursday Late for the curious](/current/2020-emergencystopgap).*        
+*From filling the gap to taking the biscuit, soft flesh to hard lessons, via a canon of reverence + representation… Spring 2020 features artists [Jo Bannon](/current/2020-springsummer/bannon), [Tania Camara](/current/2020-springsummer/camara), [Harry Clayton-Wright](/current/2020-springsummer/clayton-wright), [Will Dickie](/current/2020-worksahead), [Jamal Gerald](/current/2020-springsummer/gerald), [Ross McCaffrey](/current/2020-worksahead), plus a [Thursday Late for the curious](/current/2020-emergencystopgap).*        
         
 Brought to you by [hÅb](/hab) with Contact, NIAMOS, Royal Exchange Theatre, STUN + The Lowry — we look forward to seeing you at some or all of Spring 2020.         
          
-Check out what happened last season with a look at our [AW19 archive](/archive/2019-autumnwinter), and keep in touch by <a href="{{ site.mailer_signup_url }}" target="_blank">signing-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.                 
+Check out what happened last season with a look at our [Autumn/Winter 2019 archive](/archive/2019-autumnwinter), and keep in touch by <a href="{{ site.mailer_signup_url }}" target="_blank">signing-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.                 
              
 #### What is Word of Warning + where did it come from?         
 >*Quote…*<br>&nbsp;— <a href="http://" target="_blank">? (20)</a>          
