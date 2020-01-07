@@ -13,7 +13,7 @@ Brought to you by [hÅb](/hab) with Contact, NIAMOS, Royal Exchange Theatre, STU
 Check out what happened last season with a look at our [Autumn/Winter 2019 archive](/archive/2019-autumnwinter), and keep in touch by <a href="{{ site.mailer_signup_url }}" target="_blank">signing-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.                 
              
 #### What is Word of Warning + where did it come from?         
->*Quote…*<br>&nbsp;— <a href="http://" target="_blank">? (20)</a>          
+>*…offers the chance to see new artists and unconventional contemporary performances in the making. If you haven’t attended one of these performance evenings yet, WTF are you doing? Go and see the stimulating new work that’s out there!*<br>&nbsp;— <a href=" http://number9reviews.blogspot.com/2019/11/theatre-review-tom-cassani-i-promise.html" target="_blank">No 9 Reviews on WTF Wednesdays (November 2019)</a>          
          
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful, and the bizarre of new live performance — an attempt to keep alive the best of greenroom's 25-year legacy, and to introduce new people to the possibilities of seeing live work in Manchester + beyond…           
          
