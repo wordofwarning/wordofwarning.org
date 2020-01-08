@@ -1,6 +1,6 @@
 /* THEMED PER-EVENT STYLES ---------------------------*/
 
-/* default word of warning styling, also homepage header
+/* default word of warning styling, also homepage header - currently red velvet
 ------------------------------------------------------*/
 
 	body,
@@ -27,7 +27,7 @@
 		{background:#000; color:#fff;}
 
 	.splash
-		{background:url(../images/header_AW19warnin.jpg) -150px center}
+		{background:url(../images/header_Spring20warnin.jpg) -150px center}
 
 /* hAb black
 ------------------------------------------------------*/
