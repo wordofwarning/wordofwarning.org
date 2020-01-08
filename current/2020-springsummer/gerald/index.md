@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: 2020-ss
+layout: 2020-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -29,7 +29,7 @@ Tickets: <a href="http://www.royalexchange.co.uk/whats-on-and-tickets/idol" targ
 Box Office tel: 0161 833 9833 (Royal Exchange Theatre)           
           
 #### Access Information        
-Age Advisory: 16+ (parental/guardian discretion).<br>Warning: includes strong language, sexual references + full nudity; uses haze + flashing lights (not strobe); for specific content warnings please click [here](/warnings).<br>Duration: approximately 70 minutes (no interval).<br>Features: live spoken English + live music; candles + joss sticks are lit throughout the show.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.         
+Age Advisory: 16+ (parental/guardian discretion).<br>Warnings: includes strong language, sexual references + full nudity; uses haze + flashing lights (*not strobe*); for specific content warnings please click [here](/warnings).<br>Duration: approximately 70 minutes (no interval).<br>Features: live spoken English + live music; candles + joss sticks are lit throughout the show.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.         
              
 #### More         
 Jamal grew up Catholic in a Caribbean household — but would rather light a candle and worship celebrities than white saints.          
