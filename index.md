@@ -4,4 +4,4 @@ layout: home
 season: homepage
 
 ---
-#### Announced in full later this week, our Spring 2020 season starts mid-February with our next <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF</a> and continues with our inaugural [Emergency StopGap](/hab/emergency) — which is now seeking artist's proposals.<br><br>To discover new performance in Manchester + beyond please see our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> (or sign-up <a href="http://eepurl.com/i_Odb" target="_blank">here</a>).
+#### Our new Spring 2020 season starts with the gasp-inducing [Harry Clayton-Wright](/current/2020-springsummer/clayton-wright), *12 Feb at The Lowry*, and continues with a [Thursday Late for the curious](/current/2020-emergencystopgap), *27 Feb* at NIAMOS (Emergency StopGap is also [seeking artist's proposals](/hab/emergency). There's more to see in March, April + May…<br><br>To discover new performance in Manchester + beyond please see our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> (or sign-up <a href="http://eepurl.com/i_Odb" target="_blank">here</a>).
