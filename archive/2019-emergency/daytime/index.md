@@ -17,10 +17,10 @@ season: "Emergency 21|9|2019, DAYTIME"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-*The first half of* [Emergency 2019](/current/2019-emergency) *is presented by* Word of Warning *with* NIAMOS        
+*The first half of* [Emergency 2019](/archive/2019-emergency) *is presented by* Word of Warning *with* NIAMOS        
          
 #### Participating Artists (*subject to change*)
-***DAYTIME: 12noon-4.30pm at NIAMOS***<br>*Dip in + out of ongoing performances, installations + limited capacity experiences with:*<br>Alex Bradley | Bill Duffy | Charlotte McShane | Emergency Chorus | Gillian Knox | Holly Spillar | Jade Williams | Janet Charlesworth | Kellie Colbert | Kelvin Atmadibrata | Kris Canavan | Maya Chowdhry | Peter Jacobs | Pierce Starre | rahtattoo | Ross Graham | Shkiesha | Tamar + Jo | Thomas Mayer | TomYumSim | Will Dickie<br>*Followed by [EVENING](/current/2019-emergency/evening): 5pm-10pm at STUN + Z-arts*          
+***DAYTIME: 12noon-4.30pm at NIAMOS***<br>*Dip in + out of ongoing performances, installations + limited capacity experiences with:*<br>Alex Bradley | Bill Duffy | Charlotte McShane | Emergency Chorus | Gillian Knox | Holly Spillar | Jade Williams | Janet Charlesworth | Kellie Colbert | Kelvin Atmadibrata | Kris Canavan | Maya Chowdhry | Peter Jacobs | Pierce Starre | rahtattoo | Ross Graham | Shkiesha | Tamar + Jo | Thomas Mayer | TomYumSim | Will Dickie<br>*Followed by [EVENING](/archive/2019-emergency/evening): 5pm-10pm at STUN + Z-arts*          
         
 #### Venue + Booking Details, for DAYTIME
 Date: Saturday 21 September 2019, 12noon-4.30pm (*last show ends about 4.35pm*)         
@@ -29,7 +29,7 @@ Tickets: NO booking required, Pay What You Decide in person on the day.<br>Entry
 Enquiries: 07488 308 111 (*on the day*) / 0161 232 6086 (*during weekday office hours*)          
          
 #### Access Information, for DAYTIME
-**Age Advisory: mainly aimed at adults, parental/guardian discretion is advised; some works are not suitable for under 18s.**<br>Warning: some works may disturb; for specific content warnings please click [here](/warnings).<br>Access: uses a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory.<br>**We apologise but due to the nature of the NIAMOS building, only the following DAYTIME artists' works have step-free access: Janet Charlesworth, Kelvin Atmadibrata, Maya Chowdhry, Peter Jacobs, Pierce Starre, Shkiesha, Tamar + Jo, Thomas Mayer, TomYumSim.** The [EVENING](/current/2019-emergency/evening) programme has full step-free access.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
+**Age Advisory: mainly aimed at adults, parental/guardian discretion is advised; some works are not suitable for under 18s.**<br>Warning: some works may disturb; for specific content warnings please click [here](/warnings).<br>Access: uses a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory.<br>**We apologise but due to the nature of the NIAMOS building, only the following DAYTIME artists' works have step-free access: Janet Charlesworth, Kelvin Atmadibrata, Maya Chowdhry, Peter Jacobs, Pierce Starre, Shkiesha, Tamar + Jo, Thomas Mayer, TomYumSim.** The [EVENING](/archive/2019-emergency/evening) programme has full step-free access.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
          
 #### Programme Notes, for DAYTIME             
 Download a schedule <a href="http://emergencymcr.posthaven.com/emergency-schedules" target="_blank">here</a>.            
