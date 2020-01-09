@@ -6,7 +6,7 @@ is_index: true
 season: "AW19"
 
 ---
-*From a [twentieth marathon event](/current/2019-emergency) to a [fourteen event marathon](/current/2019-autumnwinter/hendry); a feat of [prestidigitation](/current/2019-autumnwinter/cassani) to a [radical ritual for resistance](/current/2019-autumnwinter/athey)… Autumn/Winter 2019 is a season of contrasts, controversy, and celebration. To keep in touch, <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.*               
+*From a [twentieth marathon event](/archive/2019-emergency) to a [fourteen event marathon](/archive/2019-autumnwinter/hendry); a feat of [prestidigitation](/archive/2019-autumnwinter/cassani) to a [radical ritual for resistance](/archive/2019-autumnwinter/athey)… Autumn/Winter 2019 is a season of contrasts, controversy, and celebration. To keep in touch, <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.*               
           
 Brought to you by [hÅb](/hab) — with NIAMOS, STUN (Sustained Theatre Up North), Z-arts, The Lowry — we look forward to seeing you at some or all of AW19. If you want to check out what happened last season take a look at our [SS19 archive](/archive/2019-springsummer).                 
              
