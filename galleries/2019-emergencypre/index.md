@@ -9,7 +9,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: Emergency 2019
-more_url: "../../current/2019-emergency"
+more_url: "../../archive/2019-emergency"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "A day out for the curious at NIAMOS, STUN + Z-arts, Sat 21 Sep 2019", show: "<small>Kelvin Atmadibrata by Luana Logina</small>"}
