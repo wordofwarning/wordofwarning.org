@@ -17,10 +17,10 @@ season: "Emergency 21|9|2019, EVENING"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-*The second half of* [Emergency 2019](/current/2019-emergency) *is presented by* Word of Warning *with* STUN *+* Z-arts         
+*The second half of* [Emergency 2019](/archive/2019-emergency) *is presented by* Word of Warning *with* STUN *+* Z-arts         
        
 #### Participating Artists (*subject to change*)
-***EVENING: 5pm-10pm at STUN Studio + Z-arts***<br>*Join us for a series of short sit-down shows with:*<br>Adam John Roberts | Anna West + Louise Cross | Callum Berridge | Helen Sulis Bowie | Jazmine Webb | Katy Dye + Craig Manson | Lara Buffard + Gur Arie Piepskovitz | Rebekka Platt | Ross McCaffrey | Shahireh Sharif | Tania Camara | The Strange Names Collective | Vendetta Vain<br>*Preceded by [DAYTIME](/current/2019-emergency/daytime): 12noon-4.30pm at NIAMOS*           
+***EVENING: 5pm-10pm at STUN Studio + Z-arts***<br>*Join us for a series of short sit-down shows with:*<br>Adam John Roberts | Anna West + Louise Cross | Callum Berridge | Helen Sulis Bowie | Jazmine Webb | Katy Dye + Craig Manson | Lara Buffard + Gur Arie Piepskovitz | Rebekka Platt | Ross McCaffrey | Shahireh Sharif | Tania Camara | The Strange Names Collective | Vendetta Vain<br>*Preceded by [DAYTIME](/archive/2019-emergency/daytime): 12noon-4.30pm at NIAMOS*           
            
 #### Venues + Booking Details, for EVENING
 Date: Saturday 21 September 2019, 5pm-10pm (*last show ends about 10.30pm*)           
