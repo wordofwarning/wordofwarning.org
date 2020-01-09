@@ -9,7 +9,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: Show info.
-more_url: "../../current/2019-autumnwinter/athey"
+more_url: "../../archive/2019-autumnwinter/athey"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "Ron Athey's <i>Acephalous Monster</i> at NIAMOS, Wed 23 Oct 2019"}
