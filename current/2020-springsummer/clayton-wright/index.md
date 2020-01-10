@@ -25,7 +25,7 @@ One parent refuses to talk about sex, the other buys gay porn for their child…
 #### Venue + Booking Details           
 Date: Wednesday 12 February 2020, 8pm        
 Venue: <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-Tickets: <a href="http://thelowry.com/whats-on/wtf-wednesday-harry-clayton-wright-sex-education" target="_blank">book online from Friday 10 January</a> and Pay What You Decide by cash or card after the show (*suggested donation £5; you can choose to donate £5 when you book*).         
+Tickets: now on sale, <a href="http://thelowry.com/whats-on/wtf-wednesday-harry-clayton-wright-sex-education" target="_blank">book online</a> and Pay What You Decide by cash or card after the show (*suggested donation £5; you can choose to donate £5 when you book*).         
 Box Office Tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
