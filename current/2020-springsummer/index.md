@@ -10,8 +10,8 @@ season: "Spr20"
         
 Brought to you by [hÅb](/hab) with Contact, NIAMOS, Royal Exchange Theatre, STUN + The Lowry — we look forward to seeing you at some or all of Spring 2020.         
          
-Check out what happened last season with a look at our [Autumn/Winter 2019 archive](/archive/2019-autumnwinter), and keep in touch by <a href="{{ site.mailer_signup_url }}" target="_blank">signing-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.                 
-             
+Check out what happened last season with a look at our [Autumn/Winter 2019 archive](/archive/2019-autumnwinter), and keep in touch by <a href="{{ site.mailer_signup_url }}" target="_blank">signing-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail. If you came to see any of the shows please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=157901649112" target="_blank">online survey</a>.
+          
 #### What is Word of Warning + where did it come from?         
 >*If you haven’t attended one of these performance evenings yet, WTF are you doing? Go and see the stimulating new work that’s out there!*<br>&nbsp;— <a href=" http://number9reviews.blogspot.com/2019/11/theatre-review-tom-cassani-i-promise.html" target="_blank">Number 9 Reviews on WTF Wednesdays (November 2019)</a>          
          
