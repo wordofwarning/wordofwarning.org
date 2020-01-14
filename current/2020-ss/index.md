@@ -6,14 +6,14 @@ is_index: true
 season: "SS20"
 
 ---
-*Taking the biscuit, a sample of new work, and a congregation… Spring/Summer 2020 features artists [Tania Camara](/current/2020-springsummer/camara), [Will Dickie](/current/2020-worksahead), [Ross McCaffrey](/current/2020-worksahead), plus a Hazardous encounter on the streets of Manchester.*        
+*Taking the biscuit, a sample of new work, and a congregation… Spring/Summer 2020 features artists [Tania Camara](/current/2020-springsummer/camara), [Will Dickie](/current/2020-worksahead/dickie), [Ross McCaffrey](/current/2020-worksahead/mccaffrey), plus a Hazardous encounter on the streets of Manchester.*        
         
-Brought to you by [hÅb](/hab) with Contact, NIAMOS + STUN — we look forward to seeing you at some or all of SS20.         
+Brought to you by [hÅb](/hab) with Contact, NIAMOS + STUN — we look forward to seeing you at some or all of SS20, and if you come to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=" target="_blank">audience survey</a>.         
          
-Check out what happened earlier in the season with a look at our [Spring 2020 archive](/archive/2020-spring), and keep in touch by <a href="{{ site.mailer_signup_url }}" target="_blank">signing-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.                 
+Check out what happened earlier in the season/year with a look at our [Spring 2020 archive](/archive/2020-spring), and keep in touch by <a href="{{ site.mailer_signup_url }}" target="_blank">signing-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.                 
              
 #### What is Word of Warning + where did it come from?         
->*Quote…*<br>&nbsp;— <a href="http://" target="_blank">? (20)</a>          
+>*ADD Sam's WTF quote…*<br>&nbsp;— <a href="http://" target="_blank">? (20)</a>          
          
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful, and the bizarre of new live performance — an attempt to keep alive the best of greenroom's 25-year legacy, and to introduce new people to the possibilities of seeing live work in Manchester + beyond…           
          
