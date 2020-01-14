@@ -36,9 +36,11 @@ A semi-autobiographical solo about being a successfully educated black woman wit
          
 #### Who is she?        
 A Manchester-based solo performance artist, Tania Camara works across devised theatre, dance, site-specific, live art, installation, video + photography. A graduate of the University of Amsterdam with an MA, she uses her cultural heritage, past experiences, research + the interdisciplinary structure of Batuku (incl. singing, dancing, drums + spoken word). Tania's current practice focuses on personal accounts of memory, collective and ancestral, to uncover her racial and cultural identity; the concept of self and other; belonging and the black performing body.           
-
+        
+Tania is a member of <a href="http://thelowry.com/about-us/artist-development/class-of-programme" target="_blank">The Lowry's Class of 2020.</a>        
+        
 #### Credits          
 Creator + Performer: Tania Camara | Creative Producer: Molly Scarborough | Mentor/Dramaturg: D'bi Young Anitafrika | Dance Mentor: Pape Ibrahima N'diaye (aka Kaolack) | Image of *Me, myself and my Oreos* from SPILL Festival of Performance 2016 by Guido Mencari.<br><br>Commissioned by STUN (Sustained Theatre Up North), developed with the support of HOME + [Divergency](/hab/divergencymcr). Supported using public funding from the National Lottery through Arts Council England.           
         
-#### Websites          
+#### Social Media + Website          
 <a href="http://taniacamara.com" target="_blank">taniacamara.com</a> | <a href="http://twitter.com/TaniaCamara2" target="_blank">@TaniaCamara2</a> | <a href="http://www.facebook.com/TaniaCamara.Performance.Artist/" target="_blank">Tania Camara on facebook</a>
