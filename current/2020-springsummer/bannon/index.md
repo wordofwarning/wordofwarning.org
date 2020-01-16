@@ -54,5 +54,5 @@ Jo's work is concerned with sensory perception and human encounter — exploring
 Concept: Jo Bannon | Devised + Performed by: Louise Ahl, Jo Bannon, Rosana Cade | Dramaturg: Sue Palmer | Sound Designer: Yas Clarke | Lighting Designer: Jo Palmer | Production Manager: Mark Munday | Mentor: Claire Cunningham | Producer: MAYK | Audio Description: Rationale Method | Captioning: The Difference Engine | Film + Photography: Paul Samuel White
 <br><br>Commissioned + supported by Unlimited, celebrating the work of disabled artists, with funding from Arts Council England. Additional support from Residence, Access2Arts + Arnolfini.
          
-#### Websites          
-<a href="http://jobannon.co.uk/we-are-fucked" target="_blank">jobannon.co.uk</a> | <a href="http://twitter.com/missjobannon" target="_blank">@missjobannon</a>
+#### Website + Social Media          
+<a href="http://jobannon.co.uk/we-are-fucked" target="_blank">jobannon.co.uk</a> | <a href="http://twitter.com/missjobannon" target="_blank">@missjobannon</a> | <a href="http://facebook.com/jobannonartist" target="_blank">Jo Bannon on facebook</a>
