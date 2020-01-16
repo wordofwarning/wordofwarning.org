@@ -38,5 +38,5 @@ Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>War
 #### Credits         
 [Emergency StopGap](/hab/emergency) is produced by [hÅb](/hab) + supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a>.        
                 
-#### Websites
+#### Website + Social Media
 <a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyStopGap" target="_blank">#EmergencyStopGap</a>
