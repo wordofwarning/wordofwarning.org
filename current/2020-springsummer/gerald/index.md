@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Jamal Gerald" # the name of the artist or company
-show: "<br>&nbspIdol" # the name of the show
+show: "<br>&nbsp;Idol" # the name of the show
 artist_size: 2
 show_size: 1
 header_image: "header_jamal.jpg"    
@@ -51,5 +51,5 @@ Starting his career with the creative writing + performance group Leeds Young Au
 #### Credits          
 Lead Artist: Jamal Gerald | Musicians/Performers: Pariss Elektra + Azizi Cole | Dramaturge: Maddy Costa | Outside Eye: Rachael Young | Movement Director: Akeim Toussaint Buck | Stage + Lighting Design: Ben Pacey | Costume: Hannah Wilson | Ritual Consultant: Christella Litras | Stage Manager: Charlotte Woods | Production Manager: Helen Mugridge | Producer: Transform | Image: The Other Richard<br><br><span style='font-variant: small-caps'>A Jamal Gerald, Transform + Theatre in the Mill co-production.</span><br>Seed commissioned by [hÅb](/hab), STUN + Contact for [Works Ahead](/hab/worksahead).<br>Supported by Leeds Inspired (part of Leeds City Council) and using public funding from the National Lottery through Arts Council England.           
         
-#### Websites          
+#### Website + Social Media        
 <a href="http://www.jamalgerald.com/idol" target="_blank">www.jamalgerald.com</a> | <a href="http://twitter.com/JamiBoii" target="_blank">@JamiBoii</a>
