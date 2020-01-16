@@ -42,5 +42,5 @@ Tania is a member of <a href="http://thelowry.com/about-us/artist-development/cl
 #### Credits          
 Creator + Performer: Tania Camara | Creative Producer: Molly Scarborough | Mentor/Dramaturg: D'bi Young Anitafrika | Dance Mentor: Pape Ibrahima N'diaye (aka Kaolack) | Image of *Me, myself and my Oreos* from SPILL Festival of Performance 2016 by Guido Mencari.<br><br>Commissioned by STUN (Sustained Theatre Up North), developed with the support of HOME + [Divergency](/hab/divergencymcr). Supported using public funding from the National Lottery through Arts Council England.           
         
-#### Social Media + Website          
+#### Website + Social Media           
 <a href="http://taniacamara.com" target="_blank">taniacamara.com</a> | <a href="http://twitter.com/TaniaCamara2" target="_blank">@TaniaCamara2</a> | <a href="http://www.facebook.com/TaniaCamara.Performance.Artist/" target="_blank">Tania Camara on facebook</a>
