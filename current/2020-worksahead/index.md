@@ -37,5 +37,5 @@ Age Advisory: 16+ (parental/guardian discretion).<br>Warnings: specific content 
 #### Credits         
 Project Mentor: Peader Kirk<br>[Works Ahead](/hab/worksahead) 2020 is co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.        
         
-#### Websites         
+#### Websites + Social Media         
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a><br><a href="http://willdickie.co.uk" target="_blank">willdickie.co.uk</a> | <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a><br><a href="http://twitter.com/rocaffrey" target="_blank">@rocaffrey</a>
