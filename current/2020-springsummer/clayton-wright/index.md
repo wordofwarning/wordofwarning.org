@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Harry Clayton-Wright" # the name of the artist or company
-show: "<br>&nbspSex Education" # the name of the show
+show: "<br>&nbsp;Sex Education" # the name of the show
 artist_size: 2
 show_size: 1
 header_image: "header_harrycw.jpg"   
@@ -52,5 +52,5 @@ Harry has been called a 'Genius' by Cosmopolitan, 'Extraordinary' by The Guardia
 #### Credits          
 Creator + Performer: Harry Clayton-Wright | Director: Brian Lobel | Producer: David Sheppeard | Production Design + Choreography: Leah Shelton | Technical Management: Simon Booth | Audio Editing: Duncan Jarvies | Video Editing: Cribble | Additional Audio Contributions: Kuchenga + Ophelia Bitz | Filming: Rosie Powell Freelance | Poster Design: Sarah Ferrari | Image: Greg Bailey<br><br>Commissioned by the Marlborough Pub + Theatre. Supported by Shoreditch Town Hall and using public funding from the National Lottery through Arts Council England.         
          
-#### Websites          
-<a href="http://hcw.horse/project/sexeducation" target="_blank">hcw.horse</a> | <a href="http://twitter.com/HClaytonWright" target="_blank">@HClaytonWright</a>
+#### Website + Social Media          
+<a href="http://hcw.horse/project/sexeducation" target="_blank">hcw.horse</a> | <a href="http://twitter.com/HClaytonWright" target="_blank">@HClaytonWright</a> | <a href="https://www.facebook.com/HClaytonWright" target="_blank">Harry Clayton-Wright on facebook</a>
