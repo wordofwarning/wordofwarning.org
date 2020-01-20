@@ -19,4 +19,4 @@ Upcoming artist opportunities from hÅb are published below when we have them; y
 • <a href="http://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=SCUDD" target="_blank">SCUDD (Standing Conference of University Drama Departments) from JISCmail</a>
 <hr>                         
 ### Upcoming Events + Opportunities        
-We are now seeking proposals for our inaugural **[Emergency StopGap](/hab/emergency)**, taking place on **Thursday 27 February 2020** from 6pm to late in the decaying splendour of Manchester's NIAMOS — see details <a href="http://emergencymcr.posthaven.com/emergency-stopgap-call-for-proposals" target="_blank">here</a>. **Proposal deadline: Friday 17 January 2020, 5pm.**
+We are no longer seeking proposals for **[Emergency StopGap](/hab/emergency)**, the deadline was Friday 17 January 2020, 5pm.
