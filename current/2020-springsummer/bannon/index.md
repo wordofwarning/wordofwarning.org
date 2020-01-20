@@ -29,7 +29,7 @@ Tickets: <a href="http://thelowry.com/whats-on/wtf-wednesday-jo-bannon-we-are-fu
 Box Office tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
-Please note — this performance will be audio described + captioned.<br>Age Advisory: 16+ (parental/guardian discretion).<br>Warnings: specific content warnings will be available [here](/warnings) by 28 February.<br>Duration: approximately 1 hour (no interval).<br>Features: choreographed movement + minimal live spoken English, with more content to be confirmed by 28 February.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
+Please note: this performance will be audio described + captioned.<br>Age Advisory: 16+ (parental/guardian discretion).<br>Please note: there are no specific content warnings for the show.<br>Duration: approximately 1 hour (no interval).<br>Features: choreographed movement + minimal live spoken English, with more content to be confirmed by 28 February.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
        
 #### More         
 Three bodies are working hard — using an assortment of domestic objects with a choreography of subtle shaking and relentless labour to produce moments of operatic melodrama and brooding states of dissent, quaking + eruption.        
