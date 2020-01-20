@@ -21,7 +21,7 @@ season: "Emergency StopGap 27|2|2020"
 #### A Thursday Late — 27 February, 6pm-10pm. Pay What You Decide             
 Manchester's micro-marathon of the bizarre, the bold + the beautiful pops-up with a night of curiosities amidst the decaying splendour of Hulme's NIAMOS — bridging the gap between gallery + theatre, and filling the empty months of winter…<br>*Come and go as you please, sample the different — then pay what you decide!*            
              
-Participating artists announced here in early Feb; until 17 Jan we're [seeking artist proposals](/hab/emergency). Get a feel for it with a look at 2019's [daytime programme at NIAMOS](/archive/2019-emergency/daytime).         
+Participating artists announced here in early Feb; please note we're no longer seeking artist proposals. Get a feel for it with a look at 2019's [daytime programme](/archive/2019-emergency/daytime).         
          
 #### Venue + Booking Details         
 Date: Thursday 27 February 2020, 6pm-10pm (*last entry at 9pm*)           
