@@ -17,7 +17,7 @@ season: "hÅb's Works Ahead"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Works Ahead** is a project developed out of the old Method Lab + SeedFund schemes hÅb ran with greenroom until 2011. Since 2012 it has offered very small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events; support includes mentoring and a public showing of the next stage of the work…       
+**Works Ahead** is a project developed out of the old Method Lab + SeedFund schemes hÅb ran with greenroom until 2011. Since 2012 it has offered over thirty small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events; support includes mentoring and a public showing of the next stage of the work…       
         
 The **[first Works Ahead](/archive/2012-woah)** took place in May/June 2012, with a new partnership at Contact (as a Re:Con co-production) featuring a night of performances from Gareth Cutter, Lowri Evans + Krissi Musiol; and an evening of interactions from Angel Club (north), Fallen Wall Arts, Julieann O'Malley + Small Acts… See their [image gallery](/galleries/2012-woah).        
         
