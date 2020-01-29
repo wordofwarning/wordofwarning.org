@@ -39,6 +39,9 @@ A Manchester-based solo performance artist, Tania Camara works across devised th
         
 Tania is a member of <a href="http://thelowry.com/about-us/artist-development/class-of-programme" target="_blank">The Lowry's Class of 2020.</a>        
         
+#### What people have said about *Oreo*        
+>★★★★ *A tour de force of a performance …utterly compelling.*<br>&nbsp;— <a href="http://www.thegrouchycritic.com/oreo-review" target="_blank">The Grouchy Critic</a><br>*Captivating and thought provoking. Food for thought.*<br>&nbsp;— <a href="http://number9reviews.blogspot.com/2020/01/theatre-review-oreo-home-manchester.html" target="_blank">Number 9 Reviews</a>         
+         
 #### Credits          
 Creator + Performer: Tania Camara | Creative Producer: Molly Scarborough | Mentor/Dramaturg: D'bi Young Anitafrika | Dance Mentor: Pape Ibrahima N'diaye (aka Kaolack) | Image of *Me, myself and my Oreos* from SPILL Festival of Performance 2016 by Guido Mencari.<br><br>Commissioned by STUN (Sustained Theatre Up North), developed with the support of HOME + [Divergency](/hab/divergencymcr). Supported using public funding from the National Lottery through Arts Council England.           
         
