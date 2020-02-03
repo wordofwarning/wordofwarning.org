@@ -23,7 +23,7 @@ season: "Harry Clayton-Wright 12|2|2020"
 One parent refuses to talk about sex, the other buys gay porn for their child…<br>An exploration of how we learn about sex and how it shapes our lives.        
           
 #### Venue + Booking Details           
-**Please note: this event is sold-out; however, there may be tickets available on the door. As this is a Pay What You Decide event, we know some people who book tickets won't turn up on the night so we send out more tickets than there are places. We do our best to get the numbers right but we advise you arrive early to ensure you get a seat! We don't often have to disappoint people but if we can't fit you in we will try to offer you tickets to another show in The Lowry that night.**         
+**Please note this event is sold-out; however, tickets may be available on the door.<br>As this is a Pay What You Decide event, we know some people who book tickets won't turn up on the night so we send out more tickets than there are places. We do our best to get the numbers right but we advise you arrive early to ensure you get a seat! We don't often have to disappoint people but if we can't fit you in we will try to offer you tickets to another show in The Lowry that night.**         
 Date: Wednesday 12 February 2020, 8pm        
 Venue: <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
 Tickets: now on sale, <a href="http://thelowry.com/whats-on/wtf-wednesday-harry-clayton-wright-sex-education" target="_blank">book online</a> and Pay What You Decide by cash or card after the show (*suggested donation £5; you can choose to donate £5 when you book*).         
