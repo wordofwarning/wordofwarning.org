@@ -18,7 +18,7 @@ season: "hÅb's Emergency / StopGap"
 ---
 **Emergency** is our annual platform for live art + contemporary performance, since 2000 showing around 30 short pieces of work over a day/evening in Manchester each autumn.<br>A new iteration for 2020 is **Emergency StopGap** — a small informal platform to bridge the gap between gallery + theatre, and to fill the empty months of winter…             
 <hr>         
-Our [**inaugural Emergency StopGap**](/current/2020-emergencystopgap) takes place on **Thursday 27 February 2020** from 6-10pm in Manchester's <a href="http://www.niamos.space" target="_blank">NIAMOS</a> — an informal 'Thursday Late' of durational, small capacity + intervention-based work; participating artists to be announced in early Feb.        
+Our [**inaugural Emergency StopGap**](/current/2020-emergencystopgap) takes place on **Thursday 27 February 2020** from 6-10pm in Manchester's <a href="http://www.niamos.space" target="_blank">NIAMOS</a> — an informal 'Thursday Late' featuring 13 durational live works + interventions in + around the building.        
         
 Our [**twentieth Emergency**](/archive/2019-emergency) took place on **Saturday 21 September 2019** with 34 live works taking over two sites in Manchester's Hulme: <a href="https://www.niamos.space" target="_blank">NIAMOS</a> during the daytime, and <a href="http://stunlive.com" target="_blank">STUN Studio</a> + <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> in the evening — now that it's over, see our [gallery of images](/galleries/2019-emergency).        
 
