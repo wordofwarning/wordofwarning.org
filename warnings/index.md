@@ -18,22 +18,22 @@ Below are Age Advisories/Limits and Content Warnings for forthcoming [Word of Wa
               
 ##### [12 Feb at The Lowry | *Sex Education* by Harry Clayton-Wright](/current/2020-springsummer/clayton-wright)
 **Age Limit: strictly 18+**<br>Content Warnings: includes themes that some people may find distressing, nudity + explicit sexual content.        
-             
-##### [27 Feb at NIAMOS | Emergency StopGap *with artists TBA*](/current/2020-emergencystopgap)        
-Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).                      
-Bethany Mountain | *15.8% Tired*<br>&nbsp;— Content Warnings: includes references to self-harm, depression + suicide.             
-Chris Owen | *We kissed in a dark sea of stars.*<br>&nbsp;— Content Warnings: none.          
-Kris Canavan | *Back to Basics*<br>&nbsp;— Content Warnings: includes blood-letting, nudity + penetration of their body.            
-Krissi Musiol | *A Short Labour*<br>&nbsp;— Content Warnings: references pregnancy, childbirth, motherhood, exhaustion + well-being; includes potential for audience interaction.           
-Martin Hamblen | *The Caller*<br>&nbsp;— Content Warnings: none.               
-Natalie Wardle | *Sleeping Venus - 2050*<br>&nbsp;— Content Warnings: features nudity.          
-Oliver Ford | *How Can I Help You?*<br>&nbsp;— Content Warnings: none.          
-Philip Bedwell | *Division*<br>&nbsp;— Content Warnings: features nudity.          
-Powder Keg | *Line Dancing In Clitheroe*<br>&nbsp;— Content Warnings: potential for loud noise.         
+        
+##### [27 Feb at NIAMOS | Emergency StopGap](/current/2020-emergencystopgap)        
+Event Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).        
+Bethany Mountain | *15.8% Tired*<br>&nbsp;— Content Warnings: includes references to self-harm, depression + suicide.        
+Chris Owen | *We kissed in a dark sea of stars.*<br>&nbsp;— Content Warnings: none.        
+Kris Canavan | *Back to Basics*<br>&nbsp;— Content Warnings: includes blood-letting, nudity + penetration of their body.         
+Krissi Musiol | *A Short Labour*<br>&nbsp;— Content Warnings: includes references to pregnancy, childbirth, motherhood, exhaustion + well-being; potential for audience interaction.         
+Martin Hamblen | *The Caller*<br>&nbsp;— Content Warnings: none.          
+Natalie Wardle | *Sleeping Venus - 2050*<br>&nbsp;— Content Warnings: includes nudity.         
+Oliver Ford | *How Can I Help You?*<br>&nbsp;— Content Warnings: none.         
+Philip Bedwell | *Division*<br>&nbsp;— Content Warnings: includes nudity.         
+Powder Keg | *Line Dancing In Clitheroe*<br>&nbsp;— Content Warnings: includes potential for loud noise.         
 Shkiesha | *Con Verse Cups*<br>&nbsp;— Content Warnings: none.         
-Susanna Amato | *Landfill of Memories*<br>&nbsp;— Content Warnings: features sounds of a shredder which could be loud/harsh/offensive.         
-Tink Flaherty | *Sit With Me*<br>&nbsp;— Content Warnings: requires audience interaction; audience members need to feel comfortable + aware of the possibility of oversharing.                
-TomYumSim | *HOTLINE*<br>&nbsp;— Content Warnings: requires audience interaction; audience members need to feel comfortable + aware of the possibility of oversharing.              
+Susanna Amato | *Landfill of Memories*<br>&nbsp;— Content Warnings: includes sounds of a shredder which could be loud/harsh/offensive.         
+Tink Flaherty | *Sit With Me*<br>&nbsp;— Content Warnings: requires audience interaction; audience members need to feel comfortable + aware of the possibility of oversharing.         
+TomYumSim | *HOTLINE*<br>&nbsp;— Content Warnings: requires audience interaction; audience members need to feel comfortable + aware of the possibility of oversharing.          
          
 ##### [19—21 Mar in Studio at Royal Exchange Theatre | *IDOL* by Jamal Gerald](/current/2020-springsummer/gerald)       
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes strong language, sexual references + full nudity; uses haze + flashing lights (*not strobe*). Please note that candles + joss sticks are lit throughout the show.        
