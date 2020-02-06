@@ -38,7 +38,7 @@ Combining African diasporic ritual, live music + storytelling, *Idol* is a spiri
         
 Featuring a host of celebrity appearances.           
           
-Discover more about *Idol* from the <a href="http://jamalgerald.com/idol-reading-list" target="_blank">reading list</a>; you can also buy the playtext from <a href="http://www.oberonbooks.com/idol.html" target="_blank">Oberon Books</a>.         
+Discover more about *Idol* from the <a href="http://jamalgerald.com/idol-reading-list" target="_blank">reading list</a>; you can also buy the playtext from <a href="http://www.oberonbooks.com/books/modern-plays" target="_blank">Oberon Books</a>.         
           
 #### Who is he?        
 Jamal Gerald is a Leeds-based artist whose work is conversational, socially conscious, a celebration of individuality, and focuses on identity + lived experiences — mostly making the type of work that he wants to see, with the aim of taking up space as a Black queer person; trying to make sure that each piece he creates is a different form to the one he made before.
