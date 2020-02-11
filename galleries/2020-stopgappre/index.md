@@ -8,7 +8,7 @@ title: "Word of Warning + present Emergency StopGap 27|2|2020"
 header: <img src="logo.png">
 stylesheet: gallery.css
 
-more_link: Emergency 2020
+more_link: Emergency StopGap
 more_url: "../../current/2020-emergencystopgap"
 
 gallery:
