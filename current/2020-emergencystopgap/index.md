@@ -19,7 +19,7 @@ season: "Emergency StopGap 27|2|2020"
 *Presented by* Word of Warning *in association with* NIAMOS           
          
 #### A Thursday Late — 27 February, 6pm-10pm. Pay What You Decide             
-Bridging the gap between gallery + theatre, and filling the empty months of winter…<br>Bizarre, bold + beautiful — an evening of durational live works + interventions.<br>See images of the artists [here](/galleries/2020-emergencystopgappre); programme notes coming soon.<br>*Come and go as you please, sample the different — then pay what you decide!*         
+Bridging the gap between gallery + theatre, and filling the empty months of winter…<br>Bizarre, bold + beautiful — an evening of durational live works + interventions.<br>See images of the artists [here](/galleries/2020-emergencystopgapartists); programme notes coming soon.<br>*Come and go as you please, sample the different — then pay what you decide!*         
              
 #### Participating artists (*subject to change*)          
 Bethany Mountain | Chris Owen | Kris Canavan | Krissi Musiol | Martin Hamblen | Natalie Wardle | Oliver Ford | Philip Bedwell | Powder Keg | Shkiesha | Susanna Amato | Tink Flaherty | TomYumSim         
@@ -27,11 +27,11 @@ Bethany Mountain | Chris Owen | Kris Canavan | Krissi Musiol | Martin Hamblen | 
 #### Venue + Booking Details         
 Date: Thursday 27 February 2020, 6pm-10pm (*last entry at 9pm*)           
 Venue: <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, use side door on Chichester Rd, Hulme, Manchester M15 5EU        
-Tickets: NO booking required, Pay What You Decide in person on the night.<br>Entry: come and go as you please; some works may have a limited capacity with either sign-up sheets on the night or operating first-come, first-served.       
+Tickets: NO booking required, Pay What You Decide in person on the night.<br>Entry: come and go as you please; some works have a limited capacity operating first-come, first-served.       
 Enquiries: 07488 308 111 (*on the night*) / 0161 232 6086 (*during weekday office hours*)          
          
 #### Access Information       
-Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Warnings: some works may disturb, specific content warnings will be available [here](/warnings) as soon as possible.<br>Access: uses a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. **We apologise but due to the nature of the NIAMOS building, some works may not have step-free access.**<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.        
+Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Warnings: some works may disturb, for specific content warnings please click [here](/warnings).<br>Access: uses a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. **We apologise but due to the nature of the NIAMOS building, some works may not have step-free access.**<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.        
             
 #### More            
 Manchester's micro-marathon of the bizarre, the bold + the beautiful pops-up with a night of curiosities amidst the decaying splendour of Hulme's NIAMOS…           
