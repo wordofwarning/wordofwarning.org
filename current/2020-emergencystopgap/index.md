@@ -19,7 +19,7 @@ season: "Emergency StopGap 27|2|2020"
 *Presented by* Word of Warning *in association with* NIAMOS           
          
 #### A Thursday Late — 27 February, 6pm-10pm. Pay What You Decide             
-Bridging the gap between gallery + theatre, and filling the empty months of winter…<br>Bizarre, bold + beautiful — an evening of durational live works + interventions.<br>*Come and go as you please, sample the different — then pay what you decide!*         
+Bridging the gap between gallery + theatre, and filling the empty months of winter…<br>Bizarre, bold + beautiful — an evening of durational live works + interventions.<br>See images of the artists [here](/galleries/2020-emergencystopgappre); programme notes coming soon.<br>*Come and go as you please, sample the different — then pay what you decide!*         
              
 #### Participating artists (*subject to change*)          
 Bethany Mountain | Chris Owen | Kris Canavan | Krissi Musiol | Martin Hamblen | Natalie Wardle | Oliver Ford | Philip Bedwell | Powder Keg | Shkiesha | Susanna Amato | Tink Flaherty | TomYumSim         
