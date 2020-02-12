@@ -44,7 +44,7 @@ Get a feel for it with a look at Emergency 2019's [daytime programme](/archive/2
 >*Some great stuff at @WarnMcr's (friendly & incredibly well-organised) #EmergencyMcr yesterday. Saw several pieces I'd be really keen to see more of…*<br>&nbsp;— <a href="http://twitter.com/CirclesStalls/status/1175770007474724871" target="_blank">@CirclesStalls on 2019</a><br>*Absolutely brilliant to see such varied and sometimes challenging work.*<br>*Genuinely unique … not seen anything quite like it elsewhere.*<br>*I liked the intimacy of some of the pieces + the variety.*<br>*I'm so glad I happened upon it, really well organised, amazing acts.*<br>*One of the most interesting events in Manchester's Cultural Calendar.*<br>*Really important event for NW artists — safe space to experiment.*<br>*The diversity is outstanding and so inclusive of all.*<br>*Thought provoking & frankly unique. It sets Manchester apart.*<br>&nbsp;— Audience Feedback from 2019 + before          
          
 #### Credits         
-[Emergency StopGap](/hab/emergency) is produced by [hÅb](/hab) + supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a>.        
+[Emergency StopGap](/hab/emergency) is produced by [hÅb](/hab) + supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a> | Image: Shkiesha       
                 
 #### Website + Social Media
 <a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyStopGap" target="_blank">#EmergencyStopGap</a>
