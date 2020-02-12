@@ -6,7 +6,7 @@ is_index: true
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency StopGap" # the name of the artist or company
-show: "<br>&nbsp;&nbsp;A night out for the curious." # the name of the show
+show: "<br>&nbsp;&nbsp;A Thursday Late for the curious." # the name of the show
 artist_size: 1
 show_size: 3
 season: "Emergency StopGap 27|2|2020"
@@ -18,7 +18,7 @@ season: "Emergency StopGap 27|2|2020"
 ---
 *Presented by* Word of Warning *in association with* NIAMOS           
          
-#### A Thursday Late — 27 February, 6pm-10pm. Pay What You Decide             
+#### Thursday 27 February, 6pm-10pm. Pay What You Decide             
 Bridging the gap between gallery + theatre, and filling the empty months of winter…<br>Bizarre, bold + beautiful — an evening of durational live works + interventions.<br>See images of the artists [here](/galleries/2020-emergencystopgapartists); programme notes coming soon.<br>*Come and go as you please, sample the different — then pay what you decide!*         
              
 #### Participating Artists (*subject to change*)          
