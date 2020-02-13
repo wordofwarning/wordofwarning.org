@@ -12,9 +12,13 @@ season: "Archived Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-Below are Age Advisories/Limits and Content Warnings for past [Word of Warning](/) events; this information was for audience members who wanted to know more about the content of work presented in our Performance Programme — particularly highlighting elements that may have distressed, caused upset, or triggered. *Please note — forthcoming event warnings can be found [here](/warnings); this archive was last updated on **9 Jan 2020 at 9pm**.*           
+Below are Age Advisories/Limits and Content Warnings for past [Word of Warning](/) events; this information was for audience members who wanted to know more about the content of work presented in our Performance Programme — particularly highlighting elements that may have distressed, caused upset, or triggered. *Please note — forthcoming event warnings can be found [here](/warnings); this archive was last updated on **13 Feb 2020 at 2.15pm**.*           
+<hr>         
+### 2020              
+##### [12 Feb at The Lowry | *Sex Education* by Harry Clayton-Wright](/current/2020-springsummer/clayton-wright)
+**Age Limit: strictly 18+**<br>Content Warnings: includes themes that some people may find distressing, nudity + explicit sexual content.        
 <hr>          
-### 2019
+### 2019        
 ##### [6 Nov at The Lowry | *I Promise You That Tonight* by Tom Cassani](/archive/2019-autumnwinter/cassani)          
 Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: includes mentions of death + description of drowning. During the show, the performer:<br>&nbsp;• talks about being close to death and nearly dying;<br>&nbsp;• describes what it might feel like to drown;<br>&nbsp;• describes a mechanism used in water boarding torture;<br>&nbsp;• mentions a person bursting into flames;<br>&nbsp;• walks bare foot on broken glass, places his face on the broken glass, and pushes it into the glass;<br>&nbsp;• does not cut himself, and no wounds are made to his body;<br>&nbsp;• does not intend to harm himself during any of these actions.<br>A loud drone sound is used multiple times during the show.           
          
