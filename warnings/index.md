@@ -12,12 +12,9 @@ season: "Performance Programme Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-Below are Age Advisories/Limits and Content Warnings for forthcoming [Word of Warning](/) events; this information is for audience members who would like to know more about the content of work presented in our current Performance Programme — particularly highlighting elements that may distress, cause upset, or trigger. If you would like to get in touch please email <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours. *Please note — reflects the most recent information received from the artists we present **as of 12 Feb 2020 at 3.35pm**; past event warnings are archived [here](/archive/warnings).*         
+Below are Age Advisories/Limits and Content Warnings for forthcoming [Word of Warning](/) events; this information is for audience members who would like to know more about the content of work presented in our current Performance Programme — particularly highlighting elements that may distress, cause upset, or trigger. If you would like to get in touch please email <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours. *Please note — reflects the most recent information received from the artists we present **as of 13 Feb 2020 at 2.15pm**; past event warnings are archived [here](/archive/warnings).*         
 <hr>          
 ### [Spring 2020](/current/2020-springsummer)         
-              
-##### [12 Feb at The Lowry | *Sex Education* by Harry Clayton-Wright](/current/2020-springsummer/clayton-wright)
-**Age Limit: strictly 18+**<br>Content Warnings: includes themes that some people may find distressing, nudity + explicit sexual content.        
         
 ##### [27 Feb at NIAMOS | Emergency StopGap](/current/2020-emergencystopgap)        
 Event Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).        
