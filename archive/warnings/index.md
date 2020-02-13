@@ -12,7 +12,7 @@ season: "Archived Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-Below are Age Advisories/Limits and Content Warnings for past [Word of Warning](/) events; this information was for audience members who wanted to know more about the content of work presented in our Performance Programme — particularly highlighting elements that may have distressed, caused upset, or triggered. *Please note — forthcoming event warnings can be found [here](/warnings); this archive was last updated on **13 Feb 2020 at 2.15pm**.*           
+Below are Age Advisories/Limits and Content Warnings for past [Word of Warning](/) events; this information was for audience members who wanted to know more about the content of work presented in our Performance Programme — particularly highlighting elements that may have distressed, caused upset, or triggered. *Please note — forthcoming event warnings can be found [here](/warnings); this archive was last updated on **13 Feb 2020 at 2.15pm***.           
 <hr>         
 ### 2020              
 ##### [12 Feb at The Lowry | *Sex Education* by Harry Clayton-Wright](/current/2020-springsummer/clayton-wright)
