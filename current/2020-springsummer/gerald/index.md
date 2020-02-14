@@ -26,7 +26,7 @@ Who would you rather pray to? Beyoncé or white Jesus?<br>A daring + unapologeti
 #### Venue + Booking Details           
 Dates: Thursday 19, Friday 20 + Saturday 21 March 2020, 7.30pm        
 Venue: The Studio at <a href="http://www.royalexchange.co.uk/where-how-to-find-us" target="_blank">Royal Exchange Theatre</a>, St Ann's Square, Manchester, M2 7DH         
-Tickets: <a href="http://www.royalexchange.co.uk/whats-on-and-tickets/idol" target="_blank">£13/11/7</a> (now on sale)         
+Tickets: <a href="http://www.royalexchange.co.uk/whats-on-and-tickets/idol" target="_blank">£13/11/7</a>         
 Box Office tel: 0161 833 9833 (Royal Exchange Theatre)           
           
 #### Access Information        
@@ -48,8 +48,8 @@ Jamal has made work for poetry slams, films, parties, cafes + theatres in many d
 
 Starting his career with the creative writing + performance group Leeds Young Authors, Jamal's first solo show *FADoubleGOT* toured nationally in 2016 (including to Contact); he co-devised + performed in the critically-acclaimed *Putting Words in Your Mouth* (devised + directed by Scottee); and his work has been shown at SPILL, Leeds Playhouse, Battersea Arts Centre + the Barbican.        
          
-#### What people have said about him        
->*This is performance at its greatest. We want more and then we want to know what more we can all do.*<br>&nbsp;— <a href="http://theculturevulture.co.uk/cultures/jamal-geralds-idol-transform19" target="_blank">Culture Vulture on *Idol* at Transform19</a><br>*Idol is pain and joy so beautifully delivered. Speaks so clearly of the importance of representation.*<br>&nbsp;— <a href="http://transformfestival.org/event/idol" target="_blank">Audience Response to *Idol* at Transform19</a><br>*There's a fresh, honest quality to Gerald's performance. Jamal Gerald is, intensely, fiercely himself on stage.*<br>&nbsp;— <a href="http://exeuntmagazine.com/reviews/review-fadoublegot-at-contact-manchester" target="_blank">Exeunt on *FADoubleGOT* at Contact</a>       
+#### What people have said about his work        
+>★★★★ *He is funny, smart and deeply likeable and isn't afraid to leave some questions unanswered.*<br>&nbsp;— <a href="http://lgbtqarts.com/2020/02/13/review-idol" target="_blank">LGBTQ Arts Review on *Idol*</a><br>*This is performance at its greatest. We want more and then we want to know what more we can all do.*<br>&nbsp;— <a href="http://theculturevulture.co.uk/cultures/jamal-geralds-idol-transform19" target="_blank">Culture Vulture on *Idol*</a><br>*Idol is pain and joy so beautifully delivered. Speaks so clearly of the importance of representation.*<br>&nbsp;— Audience Response to *Idol* (<a href="http://transformfestival.org/event/idol" target="_blank">at Transform19</a>)<br>*There's a fresh, honest quality to Gerald's performance. Jamal Gerald is, intensely, fiercely himself on stage.*<br>&nbsp;— <a href="http://exeuntmagazine.com/reviews/review-fadoublegot-at-contact-manchester" target="_blank">Exeunt on *FADoubleGOT* at Contact</a>       
         
 #### Credits          
 Lead Artist: Jamal Gerald | Musicians/Performers: Pariss Elektra + Azizi Cole | Dramaturge: Maddy Costa | Outside Eye: Rachael Young | Movement Director: Akeim Toussaint Buck | Stage + Lighting Design: Ben Pacey | Costume: Hannah Wilson | Ritual Consultant: Christella Litras | Stage Manager: Charlotte Woods | Production Manager: Helen Mugridge | Producer: Transform | Image: The Other Richard<br><br><span style='font-variant: small-caps'>A Jamal Gerald, <a href="http://transformfestival.org" target="_blank">Transform</a> + Theatre in the Mill co-production.</span><br>Seed commissioned by [hÅb](/hab), STUN + Contact for [Works Ahead](/hab/worksahead).<br>Supported by Leeds Inspired (part of Leeds City Council) and using public funding from the National Lottery through Arts Council England.           
