@@ -22,5 +22,7 @@ gallery:
     -   {file: "tomyumsim.jpg", artist: "TomYumSim"}
     -   {file: "flaherty.jpg", artist: "Tink Flaherty"}
     -   {file: "owen.jpg", artist: "Chris Owen"}
+    -   {file: "bedwell.jpg", artist: "Philip Bedwell"}
+    -   {file: "powderkeg.jpg", artist: "Powder Keg"}
      
 ---
