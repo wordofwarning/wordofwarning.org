@@ -30,7 +30,7 @@ Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>War
 #### Programme Notes (*Participating Artists + Schedule subject to change*)        
 **6-7pm | Philip Bedwell | *Division***        
 A meditation on struggle, perseverance + adaptation.<br>How someone can resist against self-perception + the perception of others.<br>How we choose what to take forward in our lives + what we must leave behind.<br>**Philip Bedwell** is a Margate-based live artist. After performing as a professional wrestler for 22 years across Europe, he transitioned into live art, discovering it could lend an authenticity to his work which couldn’t be displayed in the theatricality of wrestling. He has produced work for the last six years, currently focusing on the body: its physicality, frailty + trauma.<br>(Includes nudity.)        
-<a href="http://www.philipbedwell.com" target="_blank">philipbedwell.com</a> | <a href="http://twitter.com/philipbedwell1" target="_blank">@philipbedwell1</a>        
+<a href="http://www.philipbedwell.com" target="_blank">philipbedwell.com</a> | <a href="http://instagram.com/lyingprone" target="_blank">Insta: lyingprone</a> | <a href="http://twitter.com/philipbedwell1" target="_blank">@philipbedwell1</a>        
         
 **6-7pm | Shkiesha | *Con Verse Cups***        
 An exploration of the emotional + complexity dynamics of navigating boundaries + gaining consent. It uses movements inspired by the interaction of matter guided by opposing forces to reflect on the common dynamics we all recognise in a relationship.<br>Created by **Shkiesha** + developed with **Lyudmila**. A Divergency micro-commission.        
