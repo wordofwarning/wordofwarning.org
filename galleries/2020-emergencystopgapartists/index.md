@@ -23,6 +23,7 @@ gallery:
     -   {file: "flaherty.jpg", artist: "Tink Flaherty"}
     -   {file: "owen.jpg", artist: "Chris Owen"}
     -   {file: "bedwell.jpg", artist: "Philip Bedwell"}
+    -   {file: "amato.jpg", artist: "Susanna Amato"}
     -   {file: "powderkeg.jpg", artist: "Powder Keg"}
      
 ---
