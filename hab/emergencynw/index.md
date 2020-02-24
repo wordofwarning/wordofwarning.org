@@ -14,13 +14,11 @@ season: "hÅb — EmergencyNW artist e-group"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-hÅb maintains the **<a href="http://groups.yahoo.com/group/emergencynw" target="_blank">EmergencyNW e-group</a>** for artists working in live art, contemporary performance + dance in North (West) England. Current members include almost everyone who has performed at one of our platform events, with 356 as of April 2018.        
+hÅb maintains the **Emergency e-group** for artists working in live art, contemporary performance + dance in North (West) England. Current members include almost everyone who has performed at one of our platform events, with 356 as of April 2018.        
            
 We forward information and opportunities to this group, both our own projects and information we think may be useful, and members can post messages, call-outs etc.       
-
-EITHER: join the group by emailing <mailto:emergencynw-subscribe@yahoogroups.com> — please tell us a little bit about yourself as all membership requests need to be approved so we can keep the group friendly and relevant;         
-          
-OR: to <a href="http://groups.yahoo.com/group/emergencynw" target="_blank">join directly online</a> — you will need to have a Yahoo ID.        
+         
+To join the group, please email <mailto:emergencymcr@googlegroups.com> — please tell us a little bit about yourself as all membership requests need to be approved so we can keep the group friendly and relevant.                
            
 Other mailing lists that you (as an artist) may find useful to join are:         
 • <a href="http://www.artsjobs.org.uk/subscribe" target="_blank">Arts Jobs & Arts News from Arts Council England</a>        
