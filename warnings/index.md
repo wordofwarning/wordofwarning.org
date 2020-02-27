@@ -12,15 +12,16 @@ season: "Performance Programme Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-Below are Age Advisories/Limits and Content Warnings for forthcoming [Word of Warning](/) events; this information is for audience members who would like to know more about the content of work presented in our current Performance Programme — particularly highlighting elements that may distress, cause upset, or trigger. If you would like to get in touch please email <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours. *Please note — reflects the most recent information received from the artists we present **as of 13 Feb 2020 at 2.35pm**; past event warnings are archived [here](/archive/warnings).*         
+Below are Age Advisories/Limits and Content Warnings for forthcoming [Word of Warning](/) events; this information is for audience members who would like to know more about the content of work presented in our current Performance Programme — particularly highlighting elements that may distress, cause upset, or trigger. If you would like to get in touch please email <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours. *Please note — reflects the most recent information received from the artists we present **as of 27 Feb 2020 at 1.30pm**; past event warnings are archived [here](/archive/warnings).*         
 <hr>          
 ### [Spring 2020](/current/2020-springsummer)         
         
 ##### [27 Feb at NIAMOS | Emergency StopGap](/current/2020-emergencystopgap)        
 Event Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).        
+Strobe lighting will be used from 7pm to 8pm in the main auditorium.          
 Bethany Mountain<br>&nbsp;— Content Warnings: potential audience interaction; includes references to self-harm, depression + suicide.        
 Chris Owen<br>&nbsp;— Content Warning: none.        
-Kris Canavan<br>&nbsp;— Content Warnings: includes blood-letting, nudity + penetration of their body.         
+Kris Canavan<br>&nbsp;— Content Warnings: includes blood-letting, nudity + penetration of their body; uses strobe lighting.         
 Krissi Musiol<br>&nbsp;— Content Warnings: includes references to pregnancy, childbirth, motherhood, exhaustion + well-being; potential for audience interaction.         
 Martin Hamblen<br>&nbsp;— Content Warning: none.          
 Natalie Wardle<br>&nbsp;— Content Warning: includes nudity.         
