@@ -31,7 +31,7 @@ Tickets: NO booking required, Pay What You Decide in person on the night.<br>Ent
 Enquiries: 07488 308 111 (*on the night*) / 0161 232 6086 (*during weekday office hours*)          
          
 #### Access Information       
-Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Warnings: some works may disturb, for specific content warnings please click [here](/warnings).<br>Access: uses a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. **We apologise but due to the nature of the NIAMOS building, some works may not have step-free access.**<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.        
+Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Warnings: some works may disturb, for specific content warnings please click [here](/warnings). Strobe lighting will be used 7pm-8pm in the main auditorium.<br>Access: uses a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. **We apologise but due to the nature of the NIAMOS building, some works may not have step-free access.**<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.        
             
 #### More            
 Manchester's micro-marathon of the bizarre, the bold + the beautiful pops-up with a night of curiosities amidst the decaying splendour of Hulme's NIAMOS…           
