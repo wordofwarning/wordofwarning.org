@@ -26,7 +26,4 @@ All donations, no matter how small, are very welcome. So if you've a lonely five
            
 We're sure we don't need to preach about straitened times and the onus on the arts to prove its worth and attract private giving; however, <a href="http://www.thefundingnetwork.org.uk/wp-content/uploads/2012/12/121126-Peter-Philips-philanthropy-in-the-regions.pdf" target="_blank">with 70% of all philanthropy going to London organisations</a>, and without a building of our own to focus attention, a small peripatetic organisation like hÅb needs all its supporters' help.       
            
-So, to help us demonstrate we're 'doing our bit', please click <a href="http://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LC9G9CWHVDQ8E" target="_blank">here</a> or drop a couple of coins in a collecting tin at one of our free/PWYD events.            
-         
-**All web donors are sent an exclusive personalised laminate to say thanks!**        
-![friend](FoW.jpg)
+So, to help us demonstrate we're 'doing our bit', please click <a href="http://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LC9G9CWHVDQ8E" target="_blank">here</a> or drop a couple of coins in a collecting tin at one of our Pay What You Decide (PWYD) events.
