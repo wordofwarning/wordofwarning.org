@@ -18,7 +18,7 @@ season: "hÅb's Emergency / StopGap"
 ---
 **Emergency** is our annual platform for live art + contemporary performance, since 2000 showing around 30 short pieces of work over a day/evening in Manchester each autumn.<br>A new iteration for 2020 is **Emergency StopGap** — a small informal platform to bridge the gap between gallery + theatre, and to fill the empty months of winter…             
 <hr>         
-Our [**inaugural Emergency StopGap**](/current/2020-emergencystopgap) takes place on **Thursday 27 February 2020** from 6-10pm in Manchester's <a href="http://www.niamos.space" target="_blank">NIAMOS</a> — an informal 'Thursday Late' style evening featuring 13 durational live works + interventions in and around the building.        
+Our [**inaugural Emergency StopGap**](/current/2020-emergencystopgap) took place on **Thursday 27 February 2020** from 6-10pm in Manchester's <a href="http://www.niamos.space" target="_blank">NIAMOS</a> — an informal 'Thursday Late' style evening featuring 13 durational live works + interventions in and around the building.        
         
 Our [**twentieth Emergency**](/archive/2019-emergency) took place on **Saturday 21 September 2019** with 34 live works taking over two sites in Manchester's Hulme: <a href="https://www.niamos.space" target="_blank">NIAMOS</a> during the daytime, and <a href="http://stunlive.com" target="_blank">STUN Studio</a> + <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> in the evening — now that it's over, see our [gallery of images](/galleries/2019-emergency).        
 
@@ -28,8 +28,8 @@ Get a feel for it with a delve into our archive — see [2018's programme](/arch
          
 **Emergency is:**<br>&nbsp;• an informal Pay What You Decide public micro-festival + open submission platform;<br>&nbsp;• an opportunity for artists to meet, show, and peer-review work;<br>&nbsp;• a selection event for a number of small [Works Ahead](/hab/worksahead) commissions to be developed + supported by [hÅb](/hab).         
          
-Enquiries: <mailto:emergency@habmcr.org> (*please note we are no longer seeking artist proposals for Emergency StopGap*)           
+Enquiries: <mailto:emergency@habmcr.org>           
          
-[Emergency StopGap](/current/2020-emergencystopgap) is presented by [Word of Warning](/); produced by [hÅb](/hab); supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a>. <a href="http://twitter.com/hashtag/EmergencyStopGap" target="_blank">#EmergencyStopGap</a>         
+[Emergency StopGap](/current/2020-emergencystopgap) was presented by [Word of Warning](/); produced by [hÅb](/hab); supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a>. <a href="http://twitter.com/hashtag/EmergencyStopGap" target="_blank">#EmergencyStopGap</a>         
 [Emergency 2019](/archive/2019-emergency) was presented by [Word of Warning](/); produced by [hÅb](/hab); supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>. <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>          
 <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a>
