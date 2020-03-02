@@ -25,11 +25,11 @@ Soft flesh contends with hard metal as vibrating bodies + hysterical voices atte
 #### Venue + Booking Details           
 Date: Wednesday 1 April 2020, 8pm        
 Venue: <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-Tickets: <a href="http://thelowry.com/whats-on/wtf-wednesday-jo-bannon-we-are-fucked" target="_blank">book online from Friday 28 February</a>, and Pay What You Decide by cash or card after the show (*suggested donation £5; you can choose to donate £5 when you book*).         
+Tickets: now available, <a href="http://thelowry.com/whats-on/wtf-wednesday-jo-bannon-we-are-fucked" target="_blank">book online</a> + Pay What You Decide by cash or card after the show (*suggested donation £5; you can choose to donate £5 when you book*).         
 Box Office tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
-Please note: this performance will be audio described + captioned.<br>Age Advisory: 16+ (parental/guardian discretion).<br>Please note: there are no specific content [warnings](/warnings) for the show.<br>Duration: approximately 1 hour (no interval).<br>Features: choreographed movement + minimal live spoken English, with more content to be confirmed by 28 February.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
+Please note: this performance will be audio described + captioned.<br>Age Advisory: 16+ (parental/guardian discretion).<br>Please note: there are no specific content warnings for the show.<br>Duration: approximately 1 hour (no interval).<br>Features: choreographed movement + minimal live spoken English.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
        
 #### More         
 Three bodies are working hard — using an assortment of domestic objects with a choreography of subtle shaking and relentless labour to produce moments of operatic melodrama and brooding states of dissent, quaking + eruption.        
