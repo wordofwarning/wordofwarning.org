@@ -12,9 +12,25 @@ season: "Archived Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-Below are Age Advisories/Limits and Content Warnings for past [Word of Warning](/) events; this information was for audience members who wanted to know more about the content of work presented in our Performance Programme — particularly highlighting elements that may have distressed, caused upset, or triggered. *Please note — forthcoming event warnings can be found [here](/warnings); this archive was last updated on **13 Feb 2020 at 2.15pm***.           
+Below are Age Advisories/Limits and Content Warnings for past [Word of Warning](/) events; this information was for audience members who wanted to know more about the content of work presented in our Performance Programme — particularly highlighting elements that may have distressed, caused upset, or triggered. *Please note — forthcoming event warnings can be found [here](/warnings); this archive was **last updated on 2 March 2020 at 5pm***.           
 <hr>         
-### 2020              
+### 2020           
+##### [27 Feb at NIAMOS | Emergency StopGap](/current/2020-emergencystopgap)        
+Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).        
+Bethany Mountain<br>&nbsp;— Content Warnings: potential audience interaction; includes references to self-harm, depression + suicide.        
+Chris Owen<br>&nbsp;— Content Warning: none.        
+Kris Canavan<br>&nbsp;— Content Warnings: includes blood-letting, nudity + penetration of their body (strobe lighting was not used).         
+Krissi Musiol<br>&nbsp;— Content Warnings: includes references to pregnancy, childbirth, motherhood, exhaustion + well-being; potential for audience interaction.         
+Martin Hamblen<br>&nbsp;— Content Warning: none.          
+Natalie Wardle<br>&nbsp;— Content Warning: includes nudity.         
+Oliver Ford<br>&nbsp;— Content Warning: none.         
+Philip Bedwell<br>&nbsp;— Content Warning: includes nudity.         
+Powder Keg<br>&nbsp;— Content Warnings: potential audience interaction; potential loud noise.         
+Shkiesha<br>&nbsp;— Content Warning: none.         
+Susanna Amato<br>&nbsp;— Content Warnings: includes sounds of a shredder which could be loud/harsh/offensive; includes references to hoarding, holding on + letting go.         
+Tink Flaherty<br>&nbsp;— Content Warnings: requires audience interaction; audience members need to feel comfortable + aware of the possibility of oversharing.         
+TomYumSim<br>&nbsp;— Content Warnings: requires audience interaction; audience members need to feel comfortable + aware of the possibility of oversharing.          
+         
 ##### [12 Feb at The Lowry | *Sex Education* by Harry Clayton-Wright](/current/2020-springsummer/clayton-wright)
 **Age Limit: strictly 18+**<br>Content Warnings: includes themes that some people may find distressing, nudity + explicit sexual content.        
 <hr>          
