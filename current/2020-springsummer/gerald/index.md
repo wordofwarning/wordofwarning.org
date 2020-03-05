@@ -22,7 +22,9 @@ season: "Jamal Gerald 19—21|3|2020"
 #### In Brief      
 Who would you rather pray to? Beyoncé or white Jesus?<br>A daring + unapologetic examination of religion, pop culture + Black representation.         
 <iframe src="http://player.vimeo.com/video/391239382" width="640" height="360" frameborder="0" allowfullscreen></iframe>          
-<iframe src="http://open.spotify.com/playlist/4MmXgcEnvgkBZOcuoKVq1k" width="640" height="360" frameborder="0" allowfullscreen></iframe>          
+<hr>         
+<iframe src="https://open.spotify.com/embed/playlist/4MmXgcEnvgkBZOcuoKVq1k" width="640" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>        
+<iframe src="https://open.spotify.com/embed/playlist/4MmXgcEnvgkBZOcuoKVq1k" width="640" height="720" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>        
           
 #### Venue + Booking Details           
 Dates: Thursday 19, Friday 20 + Saturday 21 March 2020, 7.30pm        
