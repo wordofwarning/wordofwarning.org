@@ -25,11 +25,11 @@ season: "Tania Camara 23|4|2020"
 #### Venue + Booking Details           
 Dates: Thursday 23 + Friday 24 April 2020, 7.30pm        
 Venue: STUN Studio at <a href="http://www.z-arts.org/home/your-visit-to-z-arts/getting-here" target="_blank">Z-arts</a>, 335 Stretford Rd, Hulme, Manchester, M15 5ZA         
-Tickets: £7/4 (*on sale in early March*)            
+Tickets: £7/4 (*on sale soon <a href="http://www.z-arts.org/events/oreo" target="_blank">from Z-arts' box office</a>*)         
 Enquiries: 0161 232 6086 (*during weekday office hours*)           
           
 #### Access Information        
-Age Advisory: 16+ (parental/guardian discretion).<br>Warnings: specific content warnings will be available [here](/warnings) in early March.<br>Duration: approximately 1 hour (no interval).<br>Features: spoken Creole, English + Portuguese, choreographed movement, and projected film.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.         
+Age Advisory: 16+ (parental/guardian discretion).<br>Warnings: specific content warnings will be available [here](/warnings) later in March.<br>Duration: approximately 1 hour (no interval).<br>Features: spoken Creole, English + Portuguese, choreographed movement, and projected film.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.         
              
 #### More         
 A semi-autobiographical solo about being a successfully educated black woman within western society, *Oreo* interrogates racial micro-aggressions and their effect on mental health within private and public personas — focusing on public figures such as British MP <a href="http://en.wikipedia.org/wiki/Diane_Abbott" target="_blank">Diane Abbott</a> + Portuguese politician <a href="http://en.wikipedia.org/wiki/Joacine_Katar_Moreira" target="_blank">Joacine Katar Moreira</a>.<br><br>Exploring the racial term 'Oreo' in relation to experiences of episodic racism within higher education and employment, Tania challenges the notion of whitening her physical and phenomenal self to achieve success in society, asking you to open-up and join-in to celebrate a moment of freedom, a moment of clarity.       
