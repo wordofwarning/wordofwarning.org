@@ -20,7 +20,7 @@ season: "Jo Bannon 1|4|2020"
 *Presented by* The Lowry + Word of Warning *as a* <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a>
          
 #### In Brief      
-Soft flesh contends with hard metal as vibrating bodies + hysterical voices attempt to unseat the hidden interior of anxiety, desire, exertion, sexuality + relentless penetration.             
+Soft flesh contends with hard metal as vibrating bodies + hysterical voices attempt to unseat the hidden interior of anxiety, desire, exertion, sexuality + relentless penetration, in a new ensemble piece by Jo Bannon with Louise Ahl + Rosana Cade.            
            
 #### Venue + Booking Details           
 Date: Wednesday 1 April 2020, 8pm        
@@ -41,7 +41,7 @@ A striking, subtle dance piece, *We Are Fucked* uncovers the hard work it someti
 *WAF* premiered in August 2018 at Arnolfini, prior to performances in September 2018 at Southbank Centre's Unlimited Festival.         
          
 #### Who is she?        
-Jo Bannon returns after 2017's [*Alba* — her story of paleness, blending in, and standing out](/archive/2017-autumnwinter/bannon) — and for *We Are Fucked* is joined by Louise Ahl + Rosana Cade.                   
+Jo Bannon returns after 2017's [*Alba* — her story of paleness, blending in + standing out](/archive/2017-autumnwinter/bannon).                   
         
 A Bristol-based artist working in performance, choreography + live art, Jo also works as a dramaturg, educator + writer, and is a founder member of artist collective Residence. She has presented work in the UK, Europe, South America, USA, China, South Korea + Australia — Word of Warning presented her intimate [*Exposure*](/archive/2013-domestic/bannon) during 2013's Domestic. 
          
