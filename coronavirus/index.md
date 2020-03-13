@@ -18,4 +18,4 @@ Below are links to information from our venue partners about how they are handli
 The Royal Exchange Theatre's <a href="http://www.royalexchange.co.uk/coronavirus" target="_blank">Coronavirus information page</a>.          
         
 ##### [1 April | *We Are Fucked* by Jo Bannon](/current/2020-springsummer/bannon)       
-The Lowry's latest <a href="http://s3-eu-west-2.amazonaws.com/the-lowry-site/uploads/2020/03/11222456/The-Lowry-Coronavirus-Action-Plan-11.03.pdf" target="_blank">Coronavirus information (*published Wed 11 Mar*)</a>.
+The Lowry's latest <a href="http://s3-eu-west-2.amazonaws.com/the-lowry-site/uploads/2020/03/11222456/The-Lowry-Coronavirus-Action-Plan-11.03.pdf" target="_blank">Coronavirus information (*published Wed 11 Mar*)</a>; also check their <a href="http://thelowry.com/" target="_blank">home page for updates (*please scroll down*)</a>.
