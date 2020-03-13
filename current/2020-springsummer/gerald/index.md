@@ -19,7 +19,7 @@ season: "Jamal Gerald 19—21|3|2020"
 ---
 *Presented by* Royal Exchange Theatre*,* Contact *+* Word of Warning       
          
-**Please note the Royal Exchange Theatre's <a href="http://www.royalexchange.co.uk/coronavirus" target="_blank">Coronavirus (COVID-19) information page</a>.**           
+**Please note the Royal Exchange Theatre's <a href="http://www.royalexchange.co.uk/coronavirus" target="_blank">Coronavirus information page</a>.**           
          
 #### In Brief      
 Who would you rather pray to? Beyoncé or white Jesus?<br>A daring + unapologetic examination of religion, pop culture + Black representation.         
