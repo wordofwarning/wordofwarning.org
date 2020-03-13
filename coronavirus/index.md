@@ -14,12 +14,8 @@ season: "Coronavirus Information"
 ---
 Below are links to information from our venue partners about how they are handling Coronavirus.<br>*Please note — reflects the most recent information received from the venues + partners we work with + was **last updated on 13 March 2020 at 1.40pm**.*         
 <hr>          
-##### [Royal Exchange Theatre | *IDOL* by Jamal Gerald](/current/2020-springsummer/gerald)       
+##### [19-21 March | *IDOL* by Jamal Gerald](/current/2020-springsummer/gerald)        
+The Royal Exchange Theatre's <a href="http://www.royalexchange.co.uk/coronavirus" target="_blank">Coronavirus information page</a>.          
         
-            
-##### [The Lowry | *We Are Fucked* by Jo Bannon](/current/2020-springsummer/bannon)       
-       
-           
-##### [STUN Studio at Z-arts | *Oreo* by Tania Camara](/current/2020-springsummer/camara)        
-           
-##### [NIAMOS | Works Ahead 2020 with Will Dickie + Ross McCaffrey](/current/2020-worksahead)       
+##### [1 April | *We Are Fucked* by Jo Bannon](/current/2020-springsummer/bannon)       
+The Lowry's latest <a href="http://s3-eu-west-2.amazonaws.com/the-lowry-site/uploads/2020/03/11222456/The-Lowry-Coronavirus-Action-Plan-11.03.pdf" target="_blank">Coronavirus information (*published Wed 11 Mar*)</a>.
