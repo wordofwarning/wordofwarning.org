@@ -17,7 +17,9 @@ season: "Jo Bannon 1|4|2020"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* The Lowry + Word of Warning *as a* <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a>
+*Presented by* The Lowry + Word of Warning *as a* <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a>          
+         
+**Please note The Lowry's latest <a href="http://s3-eu-west-2.amazonaws.com/the-lowry-site/uploads/2020/03/11222456/The-Lowry-Coronavirus-Action-Plan-11.03.pdf" target="_blank">Coronavirus information (*published Wednesday 11 March*)</a>.**        
          
 #### In Brief      
 Soft flesh contends with hard metal as vibrating bodies + hysterical voices attempt to unseat the hidden interior of anxiety, desire, exertion, sexuality + relentless penetration, in a new ensemble piece by Jo Bannon with Louise Ahl + Rosana Cade.            
