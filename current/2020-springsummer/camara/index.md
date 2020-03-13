@@ -25,8 +25,8 @@ season: "Tania Camara 23|4|2020"
 #### Venue + Booking Details           
 Dates: Thursday 23 + Friday 24 April 2020, 7.30pm        
 Venue: STUN Studio at <a href="http://www.z-arts.org/home/your-visit-to-z-arts/getting-here" target="_blank">Z-arts</a>, 335 Stretford Rd, Hulme, Manchester, M15 5ZA         
-Tickets: £7/4, available from <a href="http://www.z-arts.org/events/oreo" target="_blank">Z-arts</a> (*5% commission only applies to online sales*)         
-Enquiries: 0161 232 6086 (*during weekday office hours*)           
+Tickets: £7/4, available from <a href="https://www.z-arts.org/checkout/?instance_id=126002" target="_blank">Z-arts</a> (N.B. 5% commission *only* applies to online sales)         
+Box Office tel: 0161 232 6089 (Z-arts)           
           
 #### Access Information        
 Age Advisory: 16+ (parental/guardian discretion).<br>Warnings: specific content warnings will be available [here](/warnings) later in March.<br>Duration: approximately 1 hour (no interval).<br>Features: spoken Creole, English + Portuguese, choreographed movement, and projected film.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.         
