@@ -12,7 +12,7 @@ season: "Coronavirus Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-Below are links to information from our venue partners about how they are handling Coronavirus.<br>*Please note — reflects the most recent information received from the venues + partners we work with + was **last updated on 13 March 2020 at 1.40pm**.*         
+Below are links to information from our venue partners about how they are handling Coronavirus.<br>*Please note — reflects the most recent information received from the venue partners we work with + was **last updated on 13 March 2020 at 2.15pm**.*         
 <hr>          
 ##### [19-21 March | *IDOL* by Jamal Gerald](/current/2020-springsummer/gerald)        
 The Royal Exchange Theatre's <a href="http://www.royalexchange.co.uk/coronavirus" target="_blank">Coronavirus information page</a>.          
