@@ -19,7 +19,7 @@ season: "Tania Camara 23|4|2020"
 ---
 *Presented by* STUN *+* Word of Warning       
          
-**Please note the Z-arts's <a href="http://www.z-arts.org/coronavirus-action-plan-13-03-2020" target="_blank">Coronavirus action plan (*published 13 March*)</a>.**           
+**Please note Z-arts's <a href="http://www.z-arts.org/coronavirus-action-plan-13-03-2020" target="_blank">Coronavirus action plan (*published 13 March*)</a>.**           
          
 #### In Brief      
 *Oreo, coconut, Bounty Bar* — micro-aggressions used to disempower a black person deemed to be 'acting white'. Donning a camouflage of Oreo-filling, Tania explores the masks we wear to put our heads above the parapet in a climate of systemic racism.          
