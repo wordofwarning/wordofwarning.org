@@ -4,8 +4,8 @@ layout: home # the season or event-specific template in /_layouts
 rootpath: "../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Coronavirus (COVID-19) Outbreak Information" # the name of the artist or company
-artist_size: 3
+artist: "Coronavirus (COVID-19) Outbreak<br>&nbsp;Information for Audiences + Artists" # the name of the artist or company
+artist_size: 2
 season: "Coronavirus (COVID-19) Outbreak Information"
 
 # ABOUT THE SHOW - LAYOUT
