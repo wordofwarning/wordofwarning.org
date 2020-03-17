@@ -9,7 +9,7 @@ show: "<br>&nbsp;Idol" # the name of the show
 artist_size: 2
 show_size: 1
 header_image: "header_jamal.jpg"    
-season: "Jamal Gerald 19—21|3|2020"
+season: "Jamal Gerald 19—21|3|2020 — CANCELLED"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -19,7 +19,7 @@ season: "Jamal Gerald 19—21|3|2020"
 ---
 *Presented by* Royal Exchange Theatre*,* Contact *+* Word of Warning       
          
-**Please note the Royal Exchange Theatre's <a href="http://www.royalexchange.co.uk/coronavirus" target="_blank">Coronavirus information page</a>.**           
+**CANCELLED — please see the Royal Exchange Theatre's <a href="http://www.royalexchange.co.uk/the-royal-exchange-theatre-suspension-of-activity-from-5pm-on-tuesday-17-march" target="_blank">statement regarding suspension of activity (*published 17 March*)</a>.         
          
 #### In Brief      
 Who would you rather pray to? Beyoncé or white Jesus?<br>A daring + unapologetic examination of religion, pop culture + Black representation.         
