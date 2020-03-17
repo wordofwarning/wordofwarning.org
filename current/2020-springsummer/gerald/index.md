@@ -19,7 +19,7 @@ season: "Jamal Gerald 19—21|3|2020 — CANCELLED"
 ---
 *Presented by* Royal Exchange Theatre*,* Contact *+* Word of Warning       
          
-**CANCELLED — please see the Royal Exchange Theatre's <a href="http://www.royalexchange.co.uk/the-royal-exchange-theatre-suspension-of-activity-from-5pm-on-tuesday-17-march" target="_blank">statement regarding suspension of activity (*published 17 March*)</a>.         
+**CANCELLED — please see the Royal Exchange Theatre's <a href="http://www.royalexchange.co.uk/the-royal-exchange-theatre-suspension-of-activity-from-5pm-on-tuesday-17-march" target="_blank">statement regarding suspension of activity (*published 17 March*)</a>.**         
          
 #### In Brief      
 Who would you rather pray to? Beyoncé or white Jesus?<br>A daring + unapologetic examination of religion, pop culture + Black representation.         
