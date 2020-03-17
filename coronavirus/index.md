@@ -12,7 +12,9 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-In light of the <a href="http://www.gov.uk/government/publications/covid-19-guidance-on-social-distancing-and-for-vulnerable-people/guidance-on-social-distancing-for-everyone-in-the-uk-and-protecting-older-people-and-vulnerable-adults" target="_blank">UK Government's advice (*published 16 March*)</a> we are working with our partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer) during the Coronavirus (COVID-19) outbreak.<br>*Please note — last updated on 17 March 2020 at 2.30pm.*         
+##### *Last updated on 17 March 2020 at 2.45pm*        
+        
+In light of the <a href="http://www.gov.uk/government/publications/covid-19-guidance-on-social-distancing-and-for-vulnerable-people/guidance-on-social-distancing-for-everyone-in-the-uk-and-protecting-older-people-and-vulnerable-adults" target="_blank">UK Government's advice (*published 16 March*)</a> we are working with our partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer) during the Coronavirus (COVID-19) outbreak. In light of this advice, <a href="http://officiallondontheatre.com/coronavirus-information" target="_blank">SOLT + UK Theatre venues have closedhere</a>.        
 <hr>          
 ##### [19-21 March | *IDOL* by Jamal Gerald](/current/2020-springsummer/gerald)        
 Royal Exchange Theatre's <a href="http://www.royalexchange.co.uk/coronavirus" target="_blank">Coronavirus information page (*updates automatically*)</a>.          
