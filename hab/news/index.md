@@ -17,11 +17,13 @@ Upcoming artist opportunities from hÅb are published below when we have them; y
 • <a href="http://www.liveartuk.org/pages/sign-up" target="_blank">Live Art UK</a>         
 • <a href="http://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=LIVEART" target="_blank">LIVEART from JISCmail</a>         
 • <a href="http://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=SCUDD" target="_blank">SCUDD (Standing Conference of University Drama Departments) from JISCmail</a>
-<hr>                         
-### Upcoming Events + Opportunities        
-##### Last updated on 17 March 2020 at 7.25pm        
-In light of the rapidly changing national situation — please see our [Coronavirus page](/coronavirus) for updates.         
         
+### News + Upcoming Opportunities        
+         
+##### *Last updated on 17 March 2020 at 7.30pm*        
+**Please see our [Coronavirus page](/coronavirus) for updates.**         
+        
+<hr>                
         
 **Live Art in the public realm** — working with Compass Live Art, we are partners for one of Live Art Development Agency's <a href="http://www.thisisliveart.co.uk/opportunities/diy-2020-call-for-proposals" target="_blank">DIY 2020</a> opportunities.         
          
