@@ -20,8 +20,8 @@ Upcoming artist opportunities from hÅb are published below when we have them; y
         
 ### News + Upcoming Opportunities        
          
-##### *Last updated on 17 March 2020 at 7.30pm*        
-**Please see our [Coronavirus page](/coronavirus) for updates.**         
+##### *Last updated on 18 March 2020 at 10.30am*        
+At present we remain "open for business" for advising + supporting artists; please see our [Coronavirus page](/coronavirus).         
         
 <hr>                
         
