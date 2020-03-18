@@ -27,7 +27,7 @@ Soft flesh contends with hard metal as vibrating bodies + hysterical voices atte
 #### Venue + Booking Details           
 Date: Wednesday 1 April 2020, 8pm        
 Venue: <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-Tickets: now available, <a href="http://thelowry.com/whats-on/wtf-wednesday-jo-bannon-we-are-fucked" target="_blank">book online</a> + Pay What You Decide by cash or card after the show (*suggested donation £5; you can choose to donate £5 when you book*).         
+Tickets: are no longer available. Pay What You Decide by cash or card after the show (*suggested donation £5; you can choose to donate £5 when you book*).         
 Box Office tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
