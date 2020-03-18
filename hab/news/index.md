@@ -19,9 +19,7 @@ Upcoming artist opportunities from hÅb are published below when we have them; y
 • <a href="http://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=SCUDD" target="_blank">SCUDD (Standing Conference of University Drama Departments) from JISCmail</a>
         
 ### News + Upcoming Opportunities        
-         
-##### *Last updated on 18 March 2020 at 10.30am*        
-At present we remain "open for business" for advising + supporting artists; please see our [Coronavirus page](/coronavirus).         
+As of 18 March, hÅb remains "open for business" and we will continue to advise + support artists where we can; please also see our [Coronavirus Information page](/coronavirus) for further guidance + information for artists + our community.         
         
 <hr>                
         
