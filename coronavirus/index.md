@@ -33,9 +33,7 @@ Further information to follow.
 
 <hr>          
           
-##### Information for Artists + our community         
-[hÅb](/) remains "open for business" and we will continue to advise + support artists where we can…        
-         
-Please see Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Coronavirus guidance page</a> — includes information for ACE grant recipients.           
-         
-Please see Exeunt Magazine's <a href="http://exeuntmagazine.com/features/covid-19-resources-uk-theatre-freelancers" target="_blank">Covid-19 Resources for UK Theatre page</a> — an evolving collection of advice, resources + opportunities for people who work in theatre + are affected by coronavirus.
+#### Information for Artists + our community         
+[hÅb](/hab) remains "open for business" and we will continue to advise + support artists where we can…        
+• Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Coronavirus guidance page</a> — includes information for ACE grant recipients.           
+• Exeunt Magazine's <a href="http://exeuntmagazine.com/features/covid-19-resources-uk-theatre-freelancers" target="_blank">Covid-19 Resources for UK Theatre page</a> — an evolving collection of advice, resources + opportunities for our community.
