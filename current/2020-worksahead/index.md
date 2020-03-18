@@ -17,6 +17,8 @@ season: "Works Ahead 21+22|5|2020"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
+**Further information to follow…**        
+        
 *Presented by* Word of Warning *+* Contact *at* NIAMOS         
          
 #### Thursday 21 + Friday 22 May 2020, 7.30pm. Pay What You Decide        
