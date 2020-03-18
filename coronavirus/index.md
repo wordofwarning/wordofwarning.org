@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 18 March 2020 at 11.20am*        
+##### *Last updated on 18 March 2020 at 11.37am*        
           
 <hr>          
            
@@ -36,4 +36,5 @@ Further information to follow.
 #### Information for Artists + our community         
 [hÅb](/hab) remains "open for business" and we will continue to advise + support artists where we can…        
 • Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Coronavirus guidance page</a> — includes information for ACE grant recipients.           
-• Exeunt Magazine's <a href="http://exeuntmagazine.com/features/covid-19-resources-uk-theatre-freelancers" target="_blank">Covid-19 Resources for UK Theatre page</a> — an evolving collection of advice, resources + opportunities for our community.
+• Exeunt Magazine's <a href="http://exeuntmagazine.com/features/covid-19-resources-uk-theatre-freelancers" target="_blank">Covid-19 Resources for UK Theatre page</a> — an evolving collection of advice, resources + opportunities for our community.        
+• Join Jason Crouch's <a href="http://www.facebook.com/groups/livestreamingarts" target="_blank">Live Streaming Arts Facebook group</a>  — to bring together expertise, information + practical advice on how to share live performance with audiences online; also to share ideas, aspirations + new approaches to connecting with audiences.
