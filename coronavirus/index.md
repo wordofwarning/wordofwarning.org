@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 18 March 2020 at 10.20am*        
+##### *Last updated on 18 March 2020 at 10.25am*        
         
 In light of the <a href="http://www.gov.uk/government/publications/covid-19-guidance-on-social-distancing-and-for-vulnerable-people/guidance-on-social-distancing-for-everyone-in-the-uk-and-protecting-older-people-and-vulnerable-adults" target="_blank">UK Government's guidance on social distancing (*published 16 March*)</a> and <a href="http://officiallondontheatre.com/coronavirus-information" target="_blank">SOLT + UK Theatre venues closing</a>, we at [hÅb](/hab)/[Word of Warning](/) are working with our partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer) during the Coronavirus (COVID-19) outbreak.                 
 <hr>          
@@ -29,4 +29,7 @@ Awaiting further information — please see Z-arts' <a href="https://www.z-arts.
 Information to follow.       
          
 ##### Information for artists + our community         
-Please see Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Coronavirus guidance page</a>, including information for grant recipients.
+Please see Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Coronavirus guidance page</a> — includes information for ACE grant recipients.           
+         
+Please see Exeunt Magazine's <a href="http://exeuntmagazine.com/features/covid-19-resources-uk-theatre-freelancers" target="_blank">Covid-19 Resources for UK Theatre page</a> — an evolving collection of advice, resources + opportunities for people who work in theatre + are affected by coronavirus.    
+         
