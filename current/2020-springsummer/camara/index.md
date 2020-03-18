@@ -17,9 +17,9 @@ season: "Tania Camara 23|4|2020"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
+**Awaiting further information — please see Z-arts' <a href="http://www.z-arts.org" target="_blank">home page for news</a>.**           
+        
 *Presented by* STUN *+* Word of Warning       
-         
-**Please note Z-arts's <a href="http://www.z-arts.org/coronavirus-action-plan-13-03-2020" target="_blank">Coronavirus action plan (*published 13 March*)</a>.**           
          
 #### In Brief      
 *Oreo, coconut, Bounty Bar* — micro-aggressions used to disempower a black person deemed to be 'acting white'. Donning a camouflage of Oreo-filling, Tania explores the masks we wear to put our heads above the parapet in a climate of systemic racism.          
@@ -45,7 +45,7 @@ Tania is a member of <a href="http://thelowry.com/about-us/artist-development/cl
 >★★★★ *A tour de force of a performance …utterly compelling.*<br>&nbsp;— <a href="http://www.thegrouchycritic.com/oreo-review" target="_blank">The Grouchy Critic</a><br>*Captivating and thought provoking. Food for thought.*<br>&nbsp;— <a href="http://number9reviews.blogspot.com/2020/01/theatre-review-oreo-home-manchester.html" target="_blank">Number 9 Reviews</a>         
          
 #### Credits          
-Creator + Performer: Tania Camara | Creative Producer: Molly Scarborough | Dance Mentor: Pape Ibrahima N'diaye (aka Kaolack) | Image of *Me, myself and my Oreos* from SPILL Festival of Performance 2016 by Guido Mencari.<br><br>Commissioned by STUN (Sustained Theatre Up North), developed with the support of HOME + [Divergency](/hab/divergencymcr). Supported using public funding from the National Lottery through Arts Council England.           
+Creator + Performer: Tania Camara | Creative Producer: Molly Scarborough | Dance Mentor: Pape Ibrahima N'diaye (aka Kaolack) | Lighting Designer: Kamini Patel | Image of *Me, myself and my Oreos* from SPILL Festival of Performance 2016 by Guido Mencari.<br><br>Commissioned by STUN (Sustained Theatre Up North), developed with the support of HOME + [Divergency](/hab/divergencymcr). Supported using public funding from the National Lottery through Arts Council England.           
         
 #### Website + Social Media           
 <a href="http://taniacamara.com" target="_blank">taniacamara.com</a> | <a href="http://twitter.com/TaniaCamara2" target="_blank">@TaniaCamara2</a> | <a href="http://www.facebook.com/TaniaCamara.Performance.Artist/" target="_blank">Tania Camara on facebook</a>
