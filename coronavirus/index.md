@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 18 March 2020 at 11.37am*        
+##### *Last updated on 18 March 2020 at 1pm*        
           
 <hr>          
            
@@ -26,7 +26,7 @@ CANCELLED — please see the Royal Exchange Theatre's <a href="http://www.royale
 Awaiting further information later today — please see The Lowry's <a href="https://thelowry.com/coronavirus/" target="_blank">Coronavirus information page</a>.
 
 ##### [23+24 April | *Oreo* by Tania Camara](/current/2020-springsummer/camara)       
-Awaiting further information — please see Z-arts' <a href="https://www.z-arts.org/category/news-blog" target="_blank">news page</a>.            
+Awaiting further information — please see Z-arts' <a href="https://www.z-arts.org" target="_blank">home page for news</a>.            
           
 ##### [21+22 May | Works Ahead from Will Dickie + Ross McCaffrey](/current/2020-worksahead)       
 Further information to follow.       
