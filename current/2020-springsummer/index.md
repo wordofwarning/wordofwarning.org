@@ -6,7 +6,7 @@ is_index: true
 season: "Spr20"
 
 ---
-**Please see our [Coronavirus Information page](/coronavirus) for updates.            
+**Please see our [Coronavirus Information page](/coronavirus) for updates.**            
         
 <hr>        
         
