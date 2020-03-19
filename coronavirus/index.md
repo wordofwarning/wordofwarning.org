@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 19 March 2020 at 12:38*        
+##### *Last updated on 19 March 2020 at 14:20*        
           
 <hr>          
            
@@ -32,8 +32,11 @@ Further information to follow.
 #### Information for artists + our community         
 [hÅb](/hab) remains "open for business" and we will continue to advise + support artists where we can…        
 • Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Coronavirus guidance page</a> — includes information for ACE grant recipients.           
+• Arts Professional will provide <a href="http://www.artsprofessional.co.uk/magazine/article/stay-well-supported-and-creative-our-new-microsite-covid-19-updates" target="_blank">regular updates on projects + resources to support wellbeing, careers + creativity in the arts</a>.          
+• Arts Professional's <a href="http://www.artsprofessional.co.uk/news/covid-19-connecting-online-during-social-distancing" target="_blank">guide to running online-only event</a>.           
 • Exeunt Magazine's <a href="http://exeuntmagazine.com/features/covid-19-resources-uk-theatre-freelancers" target="_blank">Covid-19 Resources for UK Theatre page</a> — an evolving collection of advice, resources + opportunities for our community.        
-• Join Jason Crouch's <a href="http://www.facebook.com/groups/livestreamingarts" target="_blank">Live Streaming Arts Facebook group</a> — expertise, information + advice on how to share live performance with, and connect to, audiences online.         
-• Jason Crouch + Joe Boylan have setup <a href="livestreamarchive.tumblr.com" target="_blank">Live Stream Archive</a> — a temporary archive to share recorded performances, live streams + digital performance.          
 • Greater Manchester Combined Authority's Culture, Creative + Night Time Economy team want to know how they can help organisations, artists + freelancers that *aren't* in their portfolio — please tweet <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>.        
-• Live Art Development Agency (LADA)'s <a href="http://www.thisisliveart.co.uk/resources/covid-19-support-resources" target="_blank">Covid-19 support + resources page</a> — aims to gather information to support affected artists + arts workers.
+• Join Jason Crouch's <a href="http://www.facebook.com/groups/livestreamingarts" target="_blank">Live Streaming Arts Facebook group</a> — expertise, information + advice on how to share live performance with, and connect to, audiences online.         
+• Jason Crouch + Joe Boylan have setup <a href="http://livestreamarchive.tumblr.com" target="_blank">Live Stream Archive</a> — a temporary archive to share recorded performances, live streams + digital performance.          
+• Live Art Development Agency (LADA)'s <a href="http://www.thisisliveart.co.uk/resources/covid-19-support-resources" target="_blank">Covid-19 support + resources page</a> — aims to gather information to support affected artists + arts workers.         
+• Manchester International Festival's <a href="http://mif.co.uk/mif-drop-in-artists-freelance-creatives" target="_blank">drop in for artists + frelance creatives</a> — join John McGrath + Mark Ball at 2pm each weekday on Zoom.
