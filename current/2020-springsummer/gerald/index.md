@@ -31,7 +31,7 @@ Who would you rather pray to? Beyoncé or white Jesus?<br>A daring + unapologeti
 #### Venue + Booking Details           
 Dates: Thursday 19, Friday 20 + Saturday 21 March 2020, 7.30pm        
 Venue: The Studio at <a href="http://www.royalexchange.co.uk/where-how-to-find-us" target="_blank">Royal Exchange Theatre</a>, St Ann's Square, Manchester, M2 7DH         
-Tickets: £13/11/7 — <a href="http://www.royalexchange.co.uk/whats-on-and-tickets/idol" target="_blank">will be refunded by the RET as soon as possible</a>        
+Tickets: <a href="http://www.royalexchange.co.uk/whats-on-and-tickets/idol" target="_blank">were £13/11/7</a> — they'll be refunded by the RET as soon as possible.          
 Box Office tel: 0161 833 9833 (Royal Exchange Theatre)           
           
 #### Access Information        
