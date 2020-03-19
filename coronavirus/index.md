@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 19 March 2020 at 11.20am*        
+##### *Last updated on 19 March 2020 at 12:18*        
           
 <hr>          
            
@@ -22,7 +22,7 @@ In light of the <a href="http://www.gov.uk/government/publications/covid-19-guid
 ##### [19-21 March | *IDOL* by Jamal Gerald](/current/2020-springsummer/gerald)        
 CANCELLED — please see the Royal Exchange Theatre's <a href="http://www.royalexchange.co.uk/news" target="_blank">news page</a>; they will be in touch with ticket holders as soon as possible, please don't call their box office.          
 ##### [1 April | *We Are Fucked* by Jo Bannon](/current/2020-springsummer/bannon)       
-CANCELLED — we're awaiting information for ticket holders who donated when they booked; please see The Lowry's <a href="http://thelowry.com/coronavirus/" target="_blank">Coronavirus (*awaiting update*)</a>.
+CANCELLED — we're awaiting information for ticket holders who donated when they booked; please see The Lowry's <a href="http://thelowry.com/coronavirus/" target="_blank">Coronavirus page (*awaiting update*)</a>.
 ##### [23+24 April | *Oreo* by Tania Camara](/current/2020-springsummer/camara)       
 Awaiting further information — please see Z-arts' <a href="https://www.z-arts.org" target="_blank">home page for news</a>.            
 ##### [21+22 May | Works Ahead from Will Dickie + Ross McCaffrey](/current/2020-worksahead)       
