@@ -17,7 +17,7 @@ season: "Jamal Gerald 19—21|3|2020 — CANCELLED"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**CANCELLED — please see the Royal Exchange Theatre's <a href="http://www.royalexchange.co.uk/the-royal-exchange-theatre-suspension-of-activity-from-5pm-on-tuesday-17-march" target="_blank">statement regarding suspension of activity (*published 17 March*)</a>; if you've bought tickets please don't try + call the RET, they will be in touch with you as soon as possible.**         
+**CANCELLED — please see the Royal Exchange Theatre's <a href="http://www.royalexchange.co.uk/news" target="_blank">news page</a>; they will be in touch with ticket holders as soon as possible, please don't call their box office.**         
         
 *Presented by* Royal Exchange Theatre*,* Contact *+* Word of Warning       
          
@@ -31,7 +31,7 @@ Who would you rather pray to? Beyoncé or white Jesus?<br>A daring + unapologeti
 #### Venue + Booking Details           
 Dates: Thursday 19, Friday 20 + Saturday 21 March 2020, 7.30pm        
 Venue: The Studio at <a href="http://www.royalexchange.co.uk/where-how-to-find-us" target="_blank">Royal Exchange Theatre</a>, St Ann's Square, Manchester, M2 7DH         
-Tickets: £13/11/7 — <a href="http://www.royalexchange.co.uk/whats-on-and-tickets/idol" target="_blank">they will be refunded by the RET as soon as possible</a>        
+Tickets: £13/11/7 — <a href="http://www.royalexchange.co.uk/whats-on-and-tickets/idol" target="_blank">will be refunded by the RET as soon as possible</a>        
 Box Office tel: 0161 833 9833 (Royal Exchange Theatre)           
           
 #### Access Information        
