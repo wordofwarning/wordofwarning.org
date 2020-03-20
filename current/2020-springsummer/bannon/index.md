@@ -19,14 +19,16 @@ season: "Jo Bannon 1|4|2020"
 ---
 **CANCELLED — we're awaiting information for ticket holders who donated when they booked; please see The Lowry's <a href="https://thelowry.com/coronavirus" target="_blank">Coronavirus page (*awaiting update*)</a>.**        
         
+<hr>        
+        
 *Presented by* The Lowry + Word of Warning *as a* <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a>          
          
 #### In Brief      
 Soft flesh contends with hard metal as vibrating bodies + hysterical voices attempt to unseat the hidden interior of anxiety, desire, exertion, sexuality + relentless penetration, in a new ensemble piece by Jo Bannon with Louise Ahl + Rosana Cade.            
            
 #### Venue + Booking Details           
-Date: Wednesday 1 April 2020, 8pm        
-Venue: <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
+Date: was Wednesday 1 April 2020, 8pm        
+Venue: was <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
 Tickets: were Pay What You Decide — we're awaiting information for ticket holders who donated £5 when they booked.        
 Box Office tel: 0161 876 2000 (The Lowry)          
           
