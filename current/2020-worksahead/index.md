@@ -19,15 +19,18 @@ season: "Works Ahead 21+22|5|2020"
 ---
 **Further information to follow…**        
         
+<hr>        
+        
 *Presented by* Word of Warning *+* Contact *at* NIAMOS         
          
 #### Thursday 21 + Friday 22 May 2020, 7.30pm. Pay What You Decide        
 A double bill of new works at the start of their journeys from artists Will Dickie + Ross McCaffrey. Get a feel for it with a look at [2019's programme](/archive/2019-worksahead).            
           
 #### Venue + Booking Details        
+**Details are TBC**        
 Dates: Thursday 21 + Friday 22 May 2020, 7.30pm         
 Venue: <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, corner of Chichester Rd/Warwick St, Hulme, Manchester M15 5EU                 
-Tickets: book from Friday 17 April, then Pay What You Decide by cash or card after the double bill at NIAMOS.           
+Tickets: not available whilst we await further information.           
 Enquiries: 0161 232 6086 (*during weekday office hours*)
         
 #### Access Information        
