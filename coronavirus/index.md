@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 20 March 2020 at 13:26*        
+##### *Last updated on 20 March 2020 at 16:16*        
           
 <hr>          
            
@@ -43,7 +43,7 @@ Further information to follow.
 • Greater Manchester Combined Authority's Culture, Creative + Night Time Economy team want to know how they can help organisations, artists + freelancers that *aren't* in their portfolio — please tweet <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>.        
 • IPSE (Association of Independent Professionals + the Self Employed)'s <a href="http://www.ipse.co.uk/ipse-news/news-listing/coronavirus-ipse-activity-and-advice-freelancers.html" target="_blank">Coronavirus page</a> — what they're doing + advice for freelancers + the self-employed.        
 • Join Jason Crouch's <a href="http://www.facebook.com/groups/livestreamingarts" target="_blank">Live Streaming Arts Facebook group</a> — expertise, information + advice on how to share live performance with, and connect to, audiences online.         
-• Jason Crouch + Joe Boylan have setup <a href="http://livestreamarchive.tumblr.com" target="_blank">Live Stream Archive</a> — a temporary archive to share recorded performances, live streams + digital performance.          
 • Live Art Development Agency (LADA)'s <a href="http://www.thisisliveart.co.uk/resources/covid-19-support-resources" target="_blank">Covid-19 support + resources page</a> — aims to gather information to support affected artists + arts workers.         
+• <a href="http://livestreamarchive.co.uk" target="_blank">Live Stream Archive</a> — a temporary archive to share recorded performances, live streams + digital performance, setup by Jason Crouch + Joe Boylan.           
 • Manchester International Festival's <a href="http://mif.co.uk/mif-drop-in-artists-freelance-creatives" target="_blank">drop in for artists + frelance creatives</a> — join John McGrath + Mark Ball at 2pm each weekday on Zoom.        
 • Supercool's <a href="http://supercooldesign.co.uk/blog/keeping-it-live" target="_blank">blog</a> — links, resources + ideas on quick routes to live-streaming.
