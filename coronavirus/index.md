@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 20 March 2020 at 16:16*        
+##### *Last updated on 23 March 2020 at 16:17*        
           
 <hr>          
            
@@ -37,13 +37,15 @@ Further information to follow.
 • Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Coronavirus guidance page</a> — includes information for ACE grant recipients + guidance on digital tech support.         
 • Arts Marketing Association (AMA)'s <a href="http://www.a-m-a.co.uk/coronavirus-covid-19-resources" target="_blank">resources page</a> — to support arts, culture + heritage professionals, organisations + freelancers.        
 • Join AMA's <a href="http://facebook.com/groups/AMACommunitySupport" target="_blank">Coronavirus Support Facebook Group</a> — for all arts, culture + heritage professionals who work to engage audiences.        
-• Arts Professional will provide <a href="http://www.artsprofessional.co.uk/magazine/article/stay-well-supported-and-creative-our-new-microsite-covid-19-updates" target="_blank">regular updates on projects + resources to support wellbeing, careers + creativity in the arts</a>.          
-• Arts Professional's <a href="http://www.artsprofessional.co.uk/news/covid-19-connecting-online-during-social-distancing" target="_blank">guide to running online-only events</a>.           
+• Arts Professional have a <a href="http://www.artsprofessional.co.uk/magazine/covidculture" target="_blank">CovidCulture microsite</a>  — news + info plus resources, ideas + virtual events that could help you through the days ahead.          
+• Arts Professional's <a href="http://www.artsprofessional.co.uk/news/covid-19-connecting-online-during-social-distancing" target="_blank">guide to running online-only events</a>.          
+• Disability arts online have <a href="http://disabilityarts.online/magazine/news/disability-arts-online-announces-new-commissions-for-disabled-artists" target="_blank">some commissions available </a>.         
 • Exeunt Magazine's <a href="http://exeuntmagazine.com/features/covid-19-resources-uk-theatre-freelancers" target="_blank">Covid-19 Resources for UK Theatre page</a> — an evolving collection of advice, resources + opportunities for our community.        
-• Greater Manchester Combined Authority's Culture, Creative + Night Time Economy team want to know how they can help organisations, artists + freelancers that *aren't* in their portfolio — please tweet <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>.        
+• Greater Manchester Combined Authority's Culture, Creative + Night Time Economy team are announcing how they can help organisations, artists + freelancers that *aren't* in their portfolio on twitter at <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>.        
 • IPSE (Association of Independent Professionals + the Self Employed)'s <a href="http://www.ipse.co.uk/ipse-news/news-listing/coronavirus-ipse-activity-and-advice-freelancers.html" target="_blank">Coronavirus page</a> — what they're doing + advice for freelancers + the self-employed.        
 • Join Jason Crouch's <a href="http://www.facebook.com/groups/livestreamingarts" target="_blank">Live Streaming Arts Facebook group</a> — expertise, information + advice on how to share live performance with, and connect to, audiences online.         
 • Live Art Development Agency (LADA)'s <a href="http://www.thisisliveart.co.uk/resources/covid-19-support-resources" target="_blank">Covid-19 support + resources page</a> — aims to gather information to support affected artists + arts workers.         
 • <a href="http://livestreamarchive.co.uk" target="_blank">Live Stream Archive</a> — a temporary archive to share recorded performances, live streams + digital performance, setup by Jason Crouch + Joe Boylan.           
 • Manchester International Festival's <a href="http://mif.co.uk/mif-drop-in-artists-freelance-creatives" target="_blank">drop in for artists + frelance creatives</a> — join John McGrath + Mark Ball at 2pm each weekday on Zoom.        
+• Scottee has <a href="http://www.scottee.co.uk/single-post/2020/03/20/Room-to-Respond-2020" target="_blank">some paid opportunities available</a>.            
 • Supercool's <a href="http://supercooldesign.co.uk/blog/keeping-it-live" target="_blank">blog</a> — links, resources + ideas on quick routes to live-streaming.
