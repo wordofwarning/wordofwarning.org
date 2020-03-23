@@ -46,6 +46,7 @@ Further information to follow.
 • Join Jason Crouch's <a href="http://www.facebook.com/groups/livestreamingarts" target="_blank">Live Streaming Arts Facebook group</a> — expertise, information + advice on how to share live performance with, and connect to, audiences online.         
 • Live Art Development Agency (LADA)'s <a href="http://www.thisisliveart.co.uk/resources/covid-19-support-resources" target="_blank">Covid-19 support + resources page</a> — aims to gather information to support affected artists + arts workers.         
 • <a href="http://livestreamarchive.co.uk" target="_blank">Live Stream Archive</a> — a temporary archive to share recorded performances, live streams + digital performance, setup by Jason Crouch + Joe Boylan.           
-• Manchester International Festival's <a href="http://mif.co.uk/mif-drop-in-artists-freelance-creatives" target="_blank">drop in for artists + frelance creatives</a> — join John McGrath + Mark Ball at 2pm each weekday on Zoom.        
+• Manchester International Festival have a <a href="http://mif.co.uk/resources-for-freelance-creatives/" target="_blank">Resources For Artists And Freelancers page</a>.        
+• MIF also have a <a href="http://mif.co.uk/mif-drop-in-artists-freelance-creatives" target="_blank">daily 2pm drop in for artists + freelance creatives</a> — join John McGrath + Mark Ball each weekday on Zoom.        
 • Scottee has <a href="http://www.scottee.co.uk/single-post/2020/03/20/Room-to-Respond-2020" target="_blank">some paid opportunities available</a>.            
 • Supercool's <a href="http://supercooldesign.co.uk/blog/keeping-it-live" target="_blank">blog</a> — links, resources + ideas on quick routes to live-streaming.
