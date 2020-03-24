@@ -17,7 +17,7 @@ season: "Tania Camara 23|4|2020"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Awaiting further information — please see Z-arts' <a href="http://www.z-arts.org" target="_blank">home page for news</a>.**           
+**Further information to follow. Please see Z-arts' <a href="http://www.z-arts.org" target="_blank">home page for news</a>.**           
         
 <hr>        
         
