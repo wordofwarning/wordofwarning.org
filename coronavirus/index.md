@@ -12,12 +12,12 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 23 March 2020 at 16:17*        
+##### *Last updated on 24 March 2020 at 16:12*        
           
 <hr>          
            
 #### Information for Word of Warning audiences          
-In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a> — [Word of Warning](/) is working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer) during the Coronavirus (COVID-19) outbreak.                 
+In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, [Word of Warning](/) is working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer) during the Coronavirus (COVID-19) outbreak.                 
          
 **[19-21 March | *IDOL* by Jamal Gerald](/current/2020-springsummer/gerald)**         
 CANCELLED — please see the Royal Exchange Theatre's <a href="http://www.royalexchange.co.uk/news" target="_blank">news page</a>; they will be in touch with ticket holders as soon as possible, please don't call their box office.          
@@ -26,7 +26,7 @@ CANCELLED — please see the Royal Exchange Theatre's <a href="http://www.royale
 CANCELLED — we're awaiting information for ticket holders who donated when they booked; please see The Lowry's <a href="http://thelowry.com/coronavirus/" target="_blank">Coronavirus page (*awaiting update*)</a>.        
         
 **[23+24 April | *Oreo* by Tania Camara](/current/2020-springsummer/camara)**         
-Awaiting further information — please see Z-arts' <a href="http://www.z-arts.org" target="_blank">home page for news</a>.           
+Further information to follow. Please see Z-arts' <a href="http://www.z-arts.org" target="_blank">home page for news</a>.           
          
 **[21+22 May | Works Ahead from Will Dickie + Ross McCaffrey](/current/2020-worksahead)**            
 Further information to follow.        
