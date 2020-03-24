@@ -19,7 +19,7 @@ Upcoming artist opportunities from hÅb are published below when we have them; y
 • <a href="http://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=SCUDD" target="_blank">SCUDD (Standing Conference of University Drama Departments) from JISCmail</a>
         
 ### News + Upcoming Opportunities        
-As of 18 March, hÅb remains "open for business" and we will continue to advise + support artists where we can; please also see our [Coronavirus Information page](/coronavirus) for further guidance + information for artists + our community.         
+hÅb remains "open for business" and we will continue to advise + support artists + freelancers in our sector where we can… Please see our [Coronavirus Information page](/coronavirus) for further guidance + information.         
         
 <hr>                
         
@@ -27,4 +27,4 @@ As of 18 March, hÅb remains "open for business" and we will continue to advise 
          
 <a href="http://compassliveart.org.uk/" target="_blank">Compass Live Art</a> + [hÅb](/hab) would like to support a DIY concerned with artists working in the public realm + socially engaged practice. Compass has been commissioning artists to make live interactive projects with communities + groups since 2011, and hosting them in public spaces around Leeds. Among the many initiatives created by hÅb is [Hazard](/hab/hazard) which has been intervening in Manchester City Centre since 2007. While this DIY would not have to take place in the public realm, we'd like to see proposals that are issue-led, socially engaged + exploring a response to their environment. We expect it will be hosted in Leeds.        
         
-Please read the <a href=" https://www.thisisliveart.co.uk/opportunities/frequently-asked-diy-questions" target="_blank">DIY FAQs</a>. Application deadline: 12noon, Thu 26 Mar 2020.<br>Please contact Annie Lloyd at CLA on <mailto:alloyd50@gmail.com> if you'd like to know more.
+Please read the <a href=" http://www.thisisliveart.co.uk/opportunities/frequently-asked-diy-questions" target="_blank">DIY FAQs</a> before applying + contact Annie Lloyd at CLA on <mailto:alloyd50@gmail.com> if you'd like to know more.<br>EXTENDED application deadline: 12noon, Thu 9 April (was Thu 26 March).
