@@ -17,7 +17,7 @@ season: "Coronavirus (COVID-19) Information"
 <hr>          
            
 #### Information for Word of Warning audiences          
-In light of the <a href="http://www.gov.uk/government/publications/covid-19-guidance-on-social-distancing-and-for-vulnerable-people/guidance-on-social-distancing-for-everyone-in-the-uk-and-protecting-older-people-and-vulnerable-adults" target="_blank">UK Government's guidance on social distancing (*published 16 March*)</a> and <a href="http://officiallondontheatre.com/coronavirus-information" target="_blank">SOLT + UK Theatre venues closing</a> — [Word of Warning](/) is working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer) during the Coronavirus (COVID-19) outbreak.                 
+In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a> — [Word of Warning](/) is working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer) during the Coronavirus (COVID-19) outbreak.                 
          
 **[19-21 March | *IDOL* by Jamal Gerald](/current/2020-springsummer/gerald)**         
 CANCELLED — please see the Royal Exchange Theatre's <a href="http://www.royalexchange.co.uk/news" target="_blank">news page</a>; they will be in touch with ticket holders as soon as possible, please don't call their box office.          
@@ -49,4 +49,5 @@ Further information to follow.
 • Manchester International Festival have a <a href="http://mif.co.uk/resources-for-freelance-creatives/" target="_blank">Resources For Artists And Freelancers page</a>.        
 • MIF also have a <a href="http://mif.co.uk/mif-drop-in-artists-freelance-creatives" target="_blank">daily 2pm drop in for artists + freelance creatives</a> — join John McGrath + Mark Ball each weekday on Zoom.        
 • Scottee has <a href="http://www.scottee.co.uk/single-post/2020/03/20/Room-to-Respond-2020" target="_blank">some paid opportunities available</a>.            
-• Supercool's <a href="http://supercooldesign.co.uk/blog/keeping-it-live" target="_blank">blog</a> — links, resources + ideas on quick routes to live-streaming.
+• Supercool's <a href="http://supercooldesign.co.uk/blog/keeping-it-live" target="_blank">blog</a> — links, resources + ideas on quick routes to live-streaming.        
+• The Space's <a href="http://www.thespace.org/resource/live-streaming-arts-lo-fi-and-low-cost-options" target="_blank">guide to live streaming for the arts by Jason Crouch</a> — lo-fi and low cost options.
