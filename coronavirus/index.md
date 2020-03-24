@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 24 March 2020 at 16:12*        
+##### *Last updated on 24 March 2020 at 16:30*        
           
 <hr>          
            
@@ -33,8 +33,8 @@ Further information to follow.
          
 <hr>          
 #### Information for artists + our community         
-[hÅb](/hab) remains "open for business" and we will continue to advise + support artists + freelancers in our sector where we can…        
-• Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Coronavirus guidance page</a> — includes information for ACE grant recipients + guidance on digital tech support.         
+[hÅb](/hab) remains "open for business" and we will continue to advise + support artists + freelancers in our sector where we can…       
+• Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Covid-19 support page</a> — the latest advice, guidance + emergency funding measures they've put in place.         
 • Arts Marketing Association (AMA)'s <a href="http://www.a-m-a.co.uk/coronavirus-covid-19-resources" target="_blank">resources page</a> — to support arts, culture + heritage professionals, organisations + freelancers.        
 • Join AMA's <a href="http://facebook.com/groups/AMACommunitySupport" target="_blank">Coronavirus Support Facebook Group</a> — for all arts, culture + heritage professionals who work to engage audiences.        
 • Arts Professional have a <a href="http://www.artsprofessional.co.uk/magazine/covidculture" target="_blank">CovidCulture microsite</a>  — news + info plus resources, ideas + virtual events that could help you through the days ahead.          
