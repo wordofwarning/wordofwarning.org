@@ -26,4 +26,18 @@ Upcoming artist opportunities from hÅb are published below when we have them; y
          
 <a href="http://compassliveart.org.uk/" target="_blank">Compass Live Art</a> + [hÅb](/hab) would like to support a DIY concerned with artists working in the public realm + socially engaged practice. Compass has been commissioning artists to make live interactive projects with communities + groups since 2011, and hosting them in public spaces around Leeds. Among the many initiatives created by hÅb is [Hazard](/hab/hazard) which has been intervening in Manchester City Centre since 2007. While this DIY would not have to take place in the public realm, we'd like to see proposals that are issue-led, socially engaged + exploring a response to their environment. We expect it will be hosted in Leeds.        
         
-Please read the <a href=" http://www.thisisliveart.co.uk/opportunities/frequently-asked-diy-questions" target="_blank">DIY FAQs</a> before applying + contact Annie Lloyd at CLA on <mailto:alloyd50@gmail.com> if you'd like to know more.<br>EXTENDED application deadline: 12noon, Thu 9 April (was Thu 26 March).
+Please read the <a href=" http://www.thisisliveart.co.uk/opportunities/frequently-asked-diy-questions" target="_blank">DIY FAQs</a> before applying + contact Annie Lloyd at CLA on <mailto:alloyd50@gmail.com> if you'd like to know more.<br>EXTENDED application deadline: 12noon, Thu 9 April (was Thu 26 March).        
+        
+<iframe id="forum_embed"
+  src="javascript:void(0)"
+  scrolling="no"
+  frameborder="0"
+  width="900"
+  height="700">
+</iframe>
+<script type="text/javascript">
+  document.getElementById('forum_embed').src =
+     'https://groups.google.com/forum/embed/?place=forum/emergencymcr'
+     + '&showsearch=true&showpopout=true&showtabs=false'
+     + '&parenturl=' + encodeURIComponent(window.location.href);
+</script>        
