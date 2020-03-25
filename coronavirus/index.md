@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 24 March 2020 at 16:30*        
+##### *Last updated on 2 March 2020 at 12:52*        
           
 <hr>          
            
@@ -26,7 +26,7 @@ CANCELLED — please see the Royal Exchange Theatre's <a href="http://www.royale
 CANCELLED — we're awaiting information for ticket holders who donated when they booked; please see The Lowry's <a href="http://thelowry.com/coronavirus/" target="_blank">Coronavirus page (*awaiting update*)</a>.        
         
 **[23+24 April | *Oreo* by Tania Camara](/current/2020-springsummer/camara)**         
-Further information to follow. Please see Z-arts' <a href="http://www.z-arts.org" target="_blank">home page for news</a>.           
+Further information to follow — tickets are no longer available.           
          
 **[21+22 May | Works Ahead from Will Dickie + Ross McCaffrey](/current/2020-worksahead)**            
 Further information to follow.        
@@ -51,3 +51,4 @@ Further information to follow.
 • Scottee has <a href="http://www.scottee.co.uk/single-post/2020/03/20/Room-to-Respond-2020" target="_blank">some paid opportunities available</a>.            
 • Supercool's <a href="http://supercooldesign.co.uk/blog/keeping-it-live" target="_blank">blog</a> — links, resources + ideas on quick routes to live-streaming.        
 • The Space's <a href="http://www.thespace.org/resource/live-streaming-arts-lo-fi-and-low-cost-options" target="_blank">guide to live streaming for the arts by Jason Crouch</a> — lo-fi and low cost options.
+• Theatre Support Information from UK Theatre and SOLT — a <a href="http://theatresupport.info" target="_blank">centralised support + advice page</a> for anyone in the theatre industry with info about how + where you can access support from leading theatrical charities.
