@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 25 March 2020 at 14:14*        
+##### *Last updated on 25 March 2020 at 16:45*        
           
 <hr>          
            
@@ -23,7 +23,7 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 CANCELLED — please see the Royal Exchange Theatre's <a href="http://www.royalexchange.co.uk/news" target="_blank">news page</a>; they will be in touch with ticket holders as soon as possible, please don't call their box office.          
         
 **[1 April | *We Are Fucked* by Jo Bannon](/current/2020-springsummer/bannon)**        
-CANCELLED — we're awaiting information for ticket holders who donated when they booked; please see The Lowry's <a href="http://thelowry.com/coronavirus/" target="_blank">Coronavirus page (*awaiting update*)</a>.        
+CANCELLED — <a href="http://twitter.com/The_Lowry/status/1242849183171739651" target="_blank">The Lowry is now closed until at least Sun 26 April</a>; if you donated when you booked a ticket they will be in touch in due course, please bear with them. (*<a href="http://thelowry.com/coronavirus/" target="_blank">Their Coronavirus page is due an update</a>*.)        
         
 **[23+24 April | *Oreo* by Tania Camara](/current/2020-springsummer/camara)**         
 Further information to follow — tickets are no longer available.           
