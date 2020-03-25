@@ -17,7 +17,7 @@ season: "Jo Bannon 1|4|2020"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**CANCELLED — we're awaiting information for ticket holders who donated when they booked; please see The Lowry's <a href="https://thelowry.com/coronavirus" target="_blank">Coronavirus page (*awaiting update*)</a>.**        
+**CANCELLED — <a href="http://twitter.com/The_Lowry/status/1242849183171739651" target="_blank">The Lowry is now closed until at least Sun 26 April</a>; if you donated when you booked a ticket they will be in touch in due course, please bear with them. (*<a href="http://thelowry.com/coronavirus/" target="_blank">Their Coronavirus page is due an update</a>*.)**        
         
 <hr>        
         
@@ -29,7 +29,7 @@ Soft flesh contends with hard metal as vibrating bodies + hysterical voices atte
 #### Venue + Booking Details           
 Date: was Wednesday 1 April 2020, 8pm        
 Venue: was <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-Tickets: were Pay What You Decide — we're awaiting information for ticket holders who donated £5 when they booked.        
+Tickets: were Pay What You Decide — if you donated £5 when you booked a ticket The Lowry will be in touch in due course.         
 Box Office tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
