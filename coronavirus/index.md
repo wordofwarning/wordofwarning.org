@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 25 March 2020 at 13:00*        
+##### *Last updated on 25 March 2020 at 14:14*        
           
 <hr>          
            
@@ -41,8 +41,7 @@ Further information to follow…
 • Arts Professional's <a href="http://www.artsprofessional.co.uk/news/covid-19-connecting-online-during-social-distancing" target="_blank">guide to running online-only events</a>.          
 • Disability arts online have <a href="http://disabilityarts.online/magazine/news/disability-arts-online-announces-new-commissions-for-disabled-artists" target="_blank">some commissions available </a>.         
 • Exeunt Magazine's <a href="http://exeuntmagazine.com/features/covid-19-resources-uk-theatre-freelancers" target="_blank">Covid-19 Resources for UK Theatre page</a> — an evolving collection of advice, resources + opportunities for our community.        
-• Greater Manchester Combined Authority's Culture, Creative + Night Time Economy team are announcing how they can help orgs, artists + freelancers that *aren't* in their portfolio on twitter at <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>.        
-• And GMCA's <a href="http://twitter.com/GM_Culture/status/1242747895876661248" target="_blank">COVID-19 Creative Commissions</a> — applications are now available, deadline Wed 1 Apr, 5pm. Email cultureteam@greatermanchester-ca.gov.uk to request more info + an application form.   
+• Greater Manchester Combined Authority's Culture, Creative + Night Time Economy team are announcing how they can help orgs, artists + freelancers that *aren't* in their portfolio on twitter at <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>. So far: GMCA's <a href="http://twitter.com/GM_Culture/status/1242747895876661248" target="_blank">COVID-19 Creative Commissions</a> applications are now available, deadline Wed 1 Apr, 5pm. Email cultureteam@greatermanchester-ca.gov.uk to request more info + an application form.        
 • IPSE (Association of Independent Professionals + the Self Employed)'s <a href="http://www.ipse.co.uk/ipse-news/news-listing/coronavirus-ipse-activity-and-advice-freelancers.html" target="_blank">Coronavirus page</a> — what they're doing + advice for freelancers + the self-employed.        
 • Live Art Development Agency (LADA)'s <a href="http://www.thisisliveart.co.uk/resources/covid-19-support-resources" target="_blank">Covid-19 support + resources page</a> — aims to gather information to support affected artists + arts workers.         
 • <a href="http://livestreamarchive.co.uk" target="_blank">Live Stream Archive</a> — a temporary archive to share recorded performances, live streams + digital performance, setup by Jason Crouch + Joe Boylan.           
