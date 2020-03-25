@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 25 March 2020 at 16:45*        
+##### *Last updated on 25 March 2020 at 17:57*        
           
 <hr>          
            
@@ -51,5 +51,5 @@ Further information to follow…
 • Scottee has <a href="http://www.scottee.co.uk/single-post/2020/03/20/Room-to-Respond-2020" target="_blank">some paid opportunities available</a>.            
 • Supercool's <a href="http://supercooldesign.co.uk/blog/keeping-it-live" target="_blank">blog</a> — links, resources + ideas on quick routes to live-streaming.        
 • The Space's <a href="http://www.thespace.org/resource/live-streaming-arts-lo-fi-and-low-cost-options" target="_blank">guide to live streaming for the arts by Jason Crouch</a> — lo-fi and low cost options.        
-• The Space, ACE + BBC Arts' <a href="http://www.thespace.org/resource/culture-quarantine" target="_blank">new £250,000 Culture in Quarantine fund</a> — to help 25 artists create video, audio + interactive works from self-isolation. 
+• The Space, ACE + BBC Arts' <a href="http://www.thespace.org/resource/culture-quarantine" target="_blank">new £250,000 Culture in Quarantine fund</a> — to help 25 artists create video, audio + interactive works from self-isolation.          
 • Theatre Support Information from UK Theatre and SOLT — a <a href="http://theatresupport.info" target="_blank">centralised support + advice page</a> for anyone in the theatre industry with info about how + where you can access support from leading theatrical charities.
