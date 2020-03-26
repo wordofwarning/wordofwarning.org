@@ -12,9 +12,17 @@ season: "Archived Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-Below are Age Advisories/Limits and Content Warnings for past [Word of Warning](/) events; this information was for audience members who wanted to know more about the content of work presented in our Performance Programme — particularly highlighting elements that may have distressed, caused upset, or triggered. *Please note — forthcoming event warnings can be found [here](/warnings); this archive was **last updated on 2 March 2020 at 5pm***.           
+##### *Last updated on 26 March 2020 at 16:00*          
+<hr>          
+Below are Age Advisories/Limits + Content Warnings for past [Word of Warning](/) events; this information was for audience members who wanted to know more about the content of work presented in our Performance Programme — particularly highlighting elements that may have distressed, caused upset, or triggered. *Please note — upcoming event warnings can be found [here](/warnings).*         
 <hr>         
 ### 2020           
+##### [1 Apr at The Lowry | CANCELLED — *We Are Fucked* by Jo Bannon](/current/2020-springsummer/bannon)       
+Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: none.       
+         
+##### [19—21 Mar in Studio at Royal Exchange Theatre | CANCELLED — *IDOL* by Jamal Gerald](/current/2020-springsummer/gerald)       
+Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes strong language, sexual references + full nudity; uses haze + flashing lights (*not strobe*). Please note that candles + joss sticks are lit throughout the show.        
+          
 ##### [27 Feb at NIAMOS | Emergency StopGap](/current/2020-emergencystopgap)        
 Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).        
 Bethany Mountain<br>&nbsp;— Content Warnings: potential audience interaction; includes references to self-harm, depression + suicide.        
