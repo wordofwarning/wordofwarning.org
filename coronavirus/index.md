@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 25 March 2020 at 18:05*        
+##### *Last updated on 26 March 2020 at 14:35*        
           
 <hr>          
            
@@ -46,8 +46,9 @@ Further information to follow…
 • Live Art Development Agency (LADA)'s <a href="http://www.thisisliveart.co.uk/resources/covid-19-support-resources" target="_blank">Covid-19 support + resources page</a> — aims to gather information to support affected artists + arts workers.         
 • <a href="http://livestreamarchive.co.uk" target="_blank">Live Stream Archive</a> — a temporary archive to share recorded performances, live streams + digital performance, setup by Jason Crouch + Joe Boylan.           
 • <a href="http://www.facebook.com/groups/livestreamingarts" target="_blank">Live Streaming Arts Facebook group</a> — join for expertise, information + advice on how to share live performance with, and connect to, audiences online.         
-• Manchester International Festival have a <a href="http://mif.co.uk/resources-for-freelance-creatives/" target="_blank">Resources For Artists And Freelancers page</a>.        
+• Manchester International Festival have a <a href="http://mif.co.uk/resources-for-freelance-creatives/" target="_blank">Resources For Artists + Freelancers page</a>.        
 • MIF also have a <a href="http://mif.co.uk/mif-drop-in-artists-freelance-creatives" target="_blank">daily 2pm drop in for artists + freelance creatives</a> — join John McGrath + Mark Ball each weekday on Zoom.        
+• MIF are also repurposing some of their artist development funds to <a href="http://mif.co.uk/creatives_call_out" target="_blank">offer opportunities to GM-based artists + creatives</a>.      
 • Scottee has <a href="http://www.scottee.co.uk/single-post/2020/03/20/Room-to-Respond-2020" target="_blank">some paid opportunities available</a>.            
 • Supercool's <a href="http://supercooldesign.co.uk/blog/keeping-it-live" target="_blank">blog</a> — links, resources + ideas on quick routes to live-streaming.        
 • The Space's <a href="http://www.thespace.org/resource/live-streaming-arts-lo-fi-and-low-cost-options" target="_blank">guide to live streaming for the arts by Jason Crouch</a> — lo-fi and low cost options.        
