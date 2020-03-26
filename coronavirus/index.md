@@ -12,10 +12,8 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 26 March 2020 at 14:42*        
-          
+##### *Last updated on 26 March 2020 at 16:02*        
 <hr>          
-           
 #### Information for Word of Warning audiences          
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, [Word of Warning](/) is working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer) during the Coronavirus (COVID-19) outbreak.                 
          
