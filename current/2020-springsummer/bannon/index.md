@@ -17,7 +17,7 @@ season: "Jo Bannon 1|4|2020"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**CANCELLED — <a href="http://thelowry.com/coronavirus" target="_blank">The Lowry is now closed until at least Sun 26 April</a>; if you donated when you booked a ticket they will be in touch in due course, please bear with them.**        
+**CANCELLED — <a href="http://thelowry.com/coronavirus" target="_blank">The Lowry will be in touch asap if you donated when you booked a ticket</a>, please bear with them**        
         
 <hr>        
         
