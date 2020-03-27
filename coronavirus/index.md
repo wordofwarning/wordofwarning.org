@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 27 March 2020 at 13:06*        
+##### *Last updated on 27 March 2020 at 13:27*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring20 Performance Programme](/current/2020-springsummer)…                
@@ -22,13 +22,13 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 **21+22 May | [Works Ahead from Will Dickie + Ross McCaffrey](/current/2020-worksahead)** — further information to follow.        
 <hr>          
 #### Other things to see         
-We'll let you know what events/shows other organisations + artists are doing online here…             
 **ONGOING | <a href="http://livestreamarchive.co.uk" target="_blank">Live Stream Archive</a>** — shared recorded performances, live streams + digital performance.        
 **6-10 April | <a href="http://facebook.com/events/3546308572110271" target="_blank">*Article 19* by Janet Charlesworth</a>** 
-— her multimedia performance explores the UN Convention on Rights for Persons living with Disability (UNCRPD) and is showing on YouTube at various times… <a href="https://youtu.be/lJ0qvREVAsw" target="_blank">Mon 6, 12noon-12.45pm</a> | <a href="https://youtu.be/8GyDaO4_0pU" target="_blank">Tue 7, 7-7.45pm</a> | <a href="https://youtu.be/rMyOeayO_G0" target="_blank">Wed 8, 1-1.45pm</a> | <a href="https://youtu.be/xd7SMC7yc68" target="_blank">Thu 9, 3-3.45pm</a> | <a href="https://youtu.be/SoRl4fJ8x7g" target="_blank">Fri 10, 8-8.45pm</a>           
+— her multimedia performance explores the UN Convention on Rights for Persons living with Disability (UNCRPD), screening on YouTube at various times… <a href="https://youtu.be/lJ0qvREVAsw" target="_blank">Mon 6 Apr, 12noon-12.45pm</a> | <a href="https://youtu.be/8GyDaO4_0pU" target="_blank">Tue 7 Apr, 7-7.45pm</a> | <a href="https://youtu.be/rMyOeayO_G0" target="_blank">Wed 8 Apr, 1-1.45pm</a> | <a href="https://youtu.be/xd7SMC7yc68" target="_blank">Thu 9 Apr, 3-3.45pm</a> | <a href="https://youtu.be/SoRl4fJ8x7g" target="_blank">Fri 10 Apr, 8-8.45pm</a>           
 <hr>          
 #### Things to help our artists + our community         
 [hÅb](/hab) remains "open for business" and we will continue to advise + support artists + freelancers in our sector where we can…       
+##### Resources/advice/guidance/info pages         
 • Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Covid-19 support page</a> — the latest advice, guidance + emergency funding measures they've put in place.         
 • Arts Fundraising & Philanthropy announce a <a href="http://artsfundraising.org.uk/networks-funding" target="_blank">programme of funding for virtual networks</a> to support the sector + bring arts fundraisers together.        
 • Arts Marketing Association (AMA)'s <a href="http://www.a-m-a.co.uk/coronavirus-covid-19-resources" target="_blank">resources page</a> — to support arts, culture + heritage professionals, organisations + freelancers.        
