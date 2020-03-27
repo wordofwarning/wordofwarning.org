@@ -12,12 +12,12 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 27 March 2020 at 13:00*        
+##### *Last updated on 27 March 2020 at 13:06*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring20 Performance Programme](/current/2020-springsummer)…                
 **19-21 March | [*IDOL* by Jamal Gerald](/current/2020-springsummer/gerald) was CANCELLED** — <a href="http://www.royalexchange.co.uk/the-royal-exchange-theatre-suspension-of-activity-from-5pm-on-tuesday-17-march" target="_blank">Royal Exchange Theatre will be in touch with ticket holders asap</a>, please don't call their box office.          
-**1 April | [*We Are Fucked* by Jo Bannon](/current/2020-springsummer/bannon) is CANCELLED** — <a href="http://thelowry.com/coronavirus" target="_blank">The Lowry</a> will be in touch asap if you donated when you booked a ticket, please bear with them.         
+**1 April | [*We Are Fucked* by Jo Bannon](/current/2020-springsummer/bannon) is CANCELLED** — <a href="http://thelowry.com/coronavirus" target="_blank">The Lowry will be in touch asap if you donated when you booked a ticket</a>, please bear with them.         
 **23+24 April | [*Oreo* by Tania Camara](/current/2020-springsummer/camara)** — further information to follow; tickets are no longer available.       
 **21+22 May | [Works Ahead from Will Dickie + Ross McCaffrey](/current/2020-worksahead)** — further information to follow.        
 <hr>          
@@ -25,7 +25,7 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 We'll let you know what events/shows other organisations + artists are doing online here…             
 **ONGOING | <a href="http://livestreamarchive.co.uk" target="_blank">Live Stream Archive</a>** — shared recorded performances, live streams + digital performance.        
 **6-10 April | <a href="http://facebook.com/events/3546308572110271" target="_blank">*Article 19* by Janet Charlesworth</a>** 
-— multimedia performance explores the UN Convention on Rights for Persons living with Disability (UNCRPD)… Mon 6, 12noon: <a href="https://youtu.be/lJ0qvREVAsw" target="_blank">youtu.be/lJ0qvREVAsw</a> | Tue 7, 7pm: <a href="https://youtu.be/8GyDaO4_0pU" target="_blank">youtu.be/8GyDaO4_0pU</a> | Wed 8, 1pm: <a href="https://youtu.be/rMyOeayO_G0" target="_blank">youtu.be/rMyOeayO_G0</a> | Thu 9, 3pm: <a href="https://youtu.be/xd7SMC7yc68" target="_blank">youtu.be/xd7SMC7yc68</a> | Fri 10, 8pm: <a href="https://youtu.be/SoRl4fJ8x7g" target="_blank">youtu.be/SoRl4fJ8x7g</a>           
+— her multimedia performance explores the UN Convention on Rights for Persons living with Disability (UNCRPD) and is showing on YouTube at various times… <a href="https://youtu.be/lJ0qvREVAsw" target="_blank">Mon 6, 12noon-12.45pm</a> | <a href="https://youtu.be/8GyDaO4_0pU" target="_blank">Tue 7, 7-7.45pm</a> | <a href="https://youtu.be/rMyOeayO_G0" target="_blank">Wed 8, 1-1.45pm</a> | <a href="https://youtu.be/xd7SMC7yc68" target="_blank">Thu 9, 3-3.45pm</a> | <a href="https://youtu.be/SoRl4fJ8x7g" target="_blank">Fri 10, 8-8.45pm</a>           
 <hr>          
 #### Things to help our artists + our community         
 [hÅb](/hab) remains "open for business" and we will continue to advise + support artists + freelancers in our sector where we can…       
