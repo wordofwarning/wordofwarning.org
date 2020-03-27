@@ -12,25 +12,25 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 26 March 2020 at 16:02*        
+##### *Last updated on 27 March 2020 at 12:17*        
 <hr>          
-#### Information for Word of Warning audiences          
+#### Things to see from Word of Warning          
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, [Word of Warning](/) is working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer) during the Coronavirus (COVID-19) outbreak.                 
-         
 **[19-21 March | *IDOL* by Jamal Gerald](/current/2020-springsummer/gerald)**         
 CANCELLED — please see the Royal Exchange Theatre's <a href="http://www.royalexchange.co.uk/news" target="_blank">news page</a>; they will be in touch with ticket holders as soon as possible, please don't call their box office.          
-        
 **[1 April | *We Are Fucked* by Jo Bannon](/current/2020-springsummer/bannon)**        
 CANCELLED — <a href="http://thelowry.com/coronavirus" target="_blank">The Lowry is now closed until at least Sun 26 April</a>; if you donated when you booked a ticket they will be in touch in due course, please bear with them.         
-        
 **[23+24 April | *Oreo* by Tania Camara](/current/2020-springsummer/camara)**         
 Further information to follow — tickets are no longer available.           
-         
 **[21+22 May | Works Ahead from Will Dickie + Ross McCaffrey](/current/2020-worksahead)**            
 Further information to follow…        
-         
 <hr>          
-#### Information for artists + our community         
+#### Other things to see         
+We'll let you know what events/shows other organisations + artists are doing online here…             
+**6/7/8/9/10 April | <a href="http://facebook.com/events/3546308572110271" target="_blank">*Article 19* by Janet Charlesworth</a>**       
+Janet's multimedia performance explores the United Nations Convention on Rights for Persons living with Disability (UNCRPD) and is on YouTube at different times on five days…<br>Mon 6, 12noon https://youtu.be/lJ0qvREVAsw<br>Tue 7, 7pm https://youtu.be/8GyDaO4_0pU<br>Wed 8, 1pm https://youtu.be/rMyOeayO_G0<br>Thu 9, 3pm https://youtu.be/xd7SMC7yc68<br>Fri 10, 8pm https://youtu.be/SoRl4fJ8x7g           
+<hr>          
+#### Things to help our artists + our community         
 [hÅb](/hab) remains "open for business" and we will continue to advise + support artists + freelancers in our sector where we can…       
 • Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Covid-19 support page</a> — the latest advice, guidance + emergency funding measures they've put in place.         
 • Arts Fundraising & Philanthropy announce a <a href="http://artsfundraising.org.uk/networks-funding" target="_blank">programme of funding for virtual networks</a> to support the sector + bring arts fundraisers together.        
