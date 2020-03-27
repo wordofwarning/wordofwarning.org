@@ -17,7 +17,7 @@ season: "Jamal Gerald 19—21|3|2020 — CANCELLED"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**CANCELLED — please see the Royal Exchange Theatre's <a href="http://www.royalexchange.co.uk/news" target="_blank">news page</a>; they will be in touch with ticket holders as soon as possible, please don't call their box office.**         
+**CANCELLED — <a href="http://www.royalexchange.co.uk/the-royal-exchange-theatre-suspension-of-activity-from-5pm-on-tuesday-17-march" target="_blank">Royal Exchange Theatre will be in touch with ticket holders asap</a>, please don't call their box office.**         
         
 <hr>        
         
