@@ -12,25 +12,20 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 27 March 2020 at 12:40*        
+##### *Last updated on 27 March 2020 at 12:50*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring20 Performance Programme](/current/2020-springsummer)…                
-**19-21 March | [*IDOL* by Jamal Gerald](/current/2020-springsummer/gerald)**         
-CANCELLED — please see the Royal Exchange Theatre's <a href="http://www.royalexchange.co.uk/news" target="_blank">news page</a>; they will be in touch with ticket holders as soon as possible, please don't call their box office.          
-**1 April | [*We Are Fucked* by Jo Bannon](/current/2020-springsummer/bannon)**        
-CANCELLED — <a href="http://thelowry.com/coronavirus" target="_blank">The Lowry is now closed until at least Sun 26 April</a>; if you donated when you booked a ticket they will be in touch in due course, please bear with them.         
-**23+24 April | [*Oreo* by Tania Camara](/current/2020-springsummer/camara)**         
-Further information to follow — tickets are no longer available.           
-**21+22 May | [Works Ahead from Will Dickie + Ross McCaffrey](/current/2020-worksahead)**            
-Further information to follow…        
+**19-21 March | [*IDOL* by Jamal Gerald](/current/2020-springsummer/gerald) was CANCELLED** — <a href="http://www.royalexchange.co.uk/the-royal-exchange-theatre-suspension-of-activity-from-5pm-on-tuesday-17-march" target="_blank">Royal Exchange Theatre will be in touch with ticket holders asap</a>, please don't call their box office.          
+**1 April | [*We Are Fucked* by Jo Bannon](/current/2020-springsummer/bannon) is CANCELLED** — <a href="http://thelowry.com/coronavirus" target="_blank">The Lowry is now closed until at least Sun 26 April</a>; if you donated when you booked a ticket they will be in touch in due course, please bear with them.         
+**23+24 April | [*Oreo* by Tania Camara](/current/2020-springsummer/camara)** — further information to follow; tickets are no longer available.       
+**21+22 May | [Works Ahead from Will Dickie + Ross McCaffrey](/current/2020-worksahead)** — Further information to follow.        
 <hr>          
 #### Other things to see         
 We'll let you know what events/shows other organisations + artists are doing online here…             
-**ONGOING | <a href="http://livestreamarchive.co.uk" target="_blank">Live Stream Archive</a>**        
-A temporary archive of shared recorded performances, live streams + digital performance.        
-**6/7/8/9/10 April | <a href="http://facebook.com/events/3546308572110271" target="_blank">*Article 19* by Janet Charlesworth</a>**       
-A multimedia performance exploring the UN Convention on Rights for Persons living with Disability (UNCRPD) is on YouTube at different times…<br>MON 6, 12noon: <a href="https://youtu.be/lJ0qvREVAsw" target="_blank">https://youtu.be/lJ0qvREVAsw</a> / TUE 7, 7pm: <a href="https://youtu.be/8GyDaO4_0pU" target="_blank">https://youtu.be/8GyDaO4_0pU</a> / WED 8, 1pm: <a href="https://youtu.be/rMyOeayO_G0" target="_blank">https://youtu.be/rMyOeayO_G0</a> / THU 9, 3pm: <a href="https://youtu.be/xd7SMC7yc68" target="_blank">https://youtu.be/xd7SMC7yc68</a> / FRI 10, 8pm: <a href="https://youtu.be/SoRl4fJ8x7g" target="_blank">https://youtu.be/SoRl4fJ8x7g</a>           
+**ONGOING | <a href="http://livestreamarchive.co.uk" target="_blank">Live Stream Archive</a>** — shared recorded performances, live streams + digital performance.        
+**6/7/8/9/10 April | <a href="http://facebook.com/events/3546308572110271" target="_blank">*Article 19* by Janet Charlesworth</a>** 
+— multimedia performance exploring the UN Convention on Rights for Persons living with Disability (UNCRPD) at different times…<br>Mon 6, 12noon: <a href="https://youtu.be/lJ0qvREVAsw" target="_blank">youtu.be/lJ0qvREVAsw</a> | Tue 7, 7pm: <a href="https://youtu.be/8GyDaO4_0pU" target="_blank">youtu.be/8GyDaO4_0pU</a> | Wed 8, 1pm: <a href="https://youtu.be/rMyOeayO_G0" target="_blank">youtu.be/rMyOeayO_G0</a> | Thu 9, 3pm: <a href="https://youtu.be/xd7SMC7yc68" target="_blank">youtu.be/xd7SMC7yc68</a> | Fri 10, 8pm: <a href="https://youtu.be/SoRl4fJ8x7g" target="_blank">youtu.be/SoRl4fJ8x7g</a>           
 <hr>          
 #### Things to help our artists + our community         
 [hÅb](/hab) remains "open for business" and we will continue to advise + support artists + freelancers in our sector where we can…       
