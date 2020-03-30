@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 30 March 2020 at 18:46*        
+##### *Last updated on 30 March 2020 at 18:59*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring20 Performance Programme](/current/2020-springsummer)…                
@@ -22,7 +22,7 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 **21+22 May | [Works Ahead from Will Dickie + Ross McCaffrey](/current/2020-worksahead)** — further information to follow.        
 <hr>          
 #### Other things to see         
-**1 April, 7.45pm | <a href="http://www.facebook.com/events/3170120296332074" target="_blank">*We've Got Each Other — The Livin' Room Edition (Facebook Live Stream)* by Paul O'Donnell</a>** — attempting a full scale Bon Jovi musical on Facebook Live at <a href="http://www.facebook.com/podonnell6" target="_blank">/podonnell6</a>.        
+**1 April, 7.45pm | <a href="http://www.facebook.com/events/3170120296332074" target="_blank">*We've Got Each Other — The Livin' Room Edition* by Paul O'Donnell</a>** — on Facebook Live at <a href="http://www.facebook.com/podonnell6" target="_blank">/podonnell6</a>.        
 **6-10 April | <a href="http://facebook.com/events/3546308572110271" target="_blank">*Article 19* by Janet Charlesworth</a>** 
 — multimedia performance exploring the UN Convention on Rights for Persons living with Disability (UNCRPD), screening on YouTube at various times: <a href="http://youtu.be/lJ0qvREVAsw" target="_blank">Mon 6 Apr, 12noon-12.45pm</a> | <a href="http://youtu.be/8GyDaO4_0pU" target="_blank">Tue 7 Apr, 7-7.45pm</a> | <a href="http://youtu.be/rMyOeayO_G0" target="_blank">Wed 8 Apr, 1-1.45pm</a> | <a href="http://youtu.be/xd7SMC7yc68" target="_blank">Thu 9 Apr, 3-3.45pm</a> | <a href="http://youtu.be/SoRl4fJ8x7g" target="_blank">Fri 10 Apr, 8-8.45pm</a>        
 **Daily, 7pm | <a href="http://unitedwestream.co.uk" target="_blank">United We Stream</a>** — live music + performances from Greater Mcr artists every night (<a href="http://www.greatermanchester-ca.gov.uk/news/united-we-stream-to-broadcast-greater-manchester-culture-to-homes-around-the-world" target="_blank">announced here</a> | <a href="http://twitter.com/StreamGm" target="_blank">@StreamGM</a>).        
