@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 30 March 2020 at 16:17*        
+##### *Last updated on 30 March 2020 at 16:26*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring20 Performance Programme](/current/2020-springsummer)…                
@@ -28,7 +28,7 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 **6-10 April | <a href="http://facebook.com/events/3546308572110271" target="_blank">*Article 19* by Janet Charlesworth</a>** 
 — multimedia performance exploring the UN Convention on Rights for Persons living with Disability (UNCRPD), screening on YouTube at various times: <a href="http://youtu.be/lJ0qvREVAsw" target="_blank">Mon 6 Apr, 12noon-12.45pm</a> | <a href="http://youtu.be/8GyDaO4_0pU" target="_blank">Tue 7 Apr, 7-7.45pm</a> | <a href="http://youtu.be/rMyOeayO_G0" target="_blank">Wed 8 Apr, 1-1.45pm</a> | <a href="http://youtu.be/xd7SMC7yc68" target="_blank">Thu 9 Apr, 3-3.45pm</a> | <a href="http://youtu.be/SoRl4fJ8x7g" target="_blank">Fri 10 Apr, 8-8.45pm</a>           
 <hr>          
-#### Things to help our artists + our community         
+#### Help for artists + our community         
 [hÅb](/hab) remains "open for business" and we will continue to advise + support artists + freelancers in our sector where we can…       
 ##### Advice/guidance/support         
 • Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Covid-19 support page</a> — the latest advice, guidance + emergency funding measures they've put in place.         
@@ -40,18 +40,17 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 • IPSE (Association of Independent Professionals + the Self Employed)'s <a href="http://www.ipse.co.uk/ipse-news/news-listing/coronavirus-ipse-activity-and-advice-freelancers.html" target="_blank">Coronavirus page</a> — what they're doing + advice for freelancers + the self-employed.        
 • Live Art Development Agency (LADA)'s <a href="http://www.thisisliveart.co.uk/resources/covid-19-support-resources" target="_blank">Covid-19 support + resources page</a> — aims to gather information to support affected artists + arts workers.         
 • <a href="http://livestreamarchive.co.uk/resources" target="_blank">Live Stream Archive</a> + <a href="http://www.facebook.com/groups/livestreamingarts" target="_blank">Live Streaming Arts Facebook group</a> — expertise, information + advice on how to share live performance with, and connect to, audiences online.         
-• Manchester International Festival have a <a href="http://mif.co.uk/resources-for-freelance-creatives/" target="_blank">Resources For Artists + Freelancers page</a>.        
-• MIF have a <a href="http://mif.co.uk/mif-drop-in-artists-freelance-creatives" target="_blank">Zoom drop in for artists + freelance creatives</a> — join John McGrath + Mark Ball on Tuesdays + Thursdays at 2pm (*was daily*).        
+• Manchester International Festival's <a href="http://mif.co.uk/resources-for-freelance-creatives/" target="_blank">Resources For Artists + Freelancers page</a>.        
+• MIF's <a href="http://mif.co.uk/mif-drop-in-artists-freelance-creatives" target="_blank">Zoom drop in for artists + freelance creatives</a> — join John McGrath + Mark Ball on Tuesdays + Thursdays at 2pm (*was daily*).        
 • Supercool's <a href="http://supercooldesign.co.uk/blog/keeping-it-live" target="_blank">blog</a> — links, resources + ideas on quick routes to live-streaming.        
 • The Space's <a href="http://www.thespace.org/resource/live-streaming-arts-lo-fi-and-low-cost-options" target="_blank">guide to live streaming for the arts by Jason Crouch</a> — lo-fi and low cost options.        
-• Theatre Support Information from UK Theatre and SOLT — a <a href="http://theatresupport.info" target="_blank">centralised support + advice page</a> for anyone in the theatre industry with info about how + where you can access support from leading theatrical charities.
-        
+• <a href="http://theatresupport.info" target="_blank">Theatre Support Information</a> from UK Theatre and SOLT — advice for anyone in the theatre industry with info about how + where you can access support from leading theatrical charities.        
 ##### Opportunities         
-• Arts Fundraising & Philanthropy announce a <a href="http://artsfundraising.org.uk/networks-funding" target="_blank">programme of funding for virtual networks</a> to support the sector + bring arts fundraisers together.        
-• Disability arts online have <a href="http://disabilityarts.online/magazine/news/disability-arts-online-announces-new-commissions-for-disabled-artists" target="_blank">some commissions available </a>.         
+• Arts Fundraising & Philanthropy's <a href="http://artsfundraising.org.uk/networks-funding" target="_blank">programme of funding for virtual networks</a> to support the sector + bring arts fundraisers together.        
+• Disability arts online's <a href="http://disabilityarts.online/magazine/news/disability-arts-online-announces-new-commissions-for-disabled-artists" target="_blank">new commissions (*deadline 6 April*)</a>.         
 • Greater Manchester Combined Authority's Culture, Creative + Night Time Economy team are announcing how they can help orgs, artists + freelancers that *aren't* in their portfolio on twitter at <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>.        
-• GMCA's <a href="http://twitter.com/GM_Culture/status/1242747895876661248" target="_blank">COVID-19 Creative Commissions</a> applications are now available — deadline Wed 1 Apr, 5pm. Email cultureteam@greatermanchester-ca.gov.uk to request more info + an application form.        
+• GMCA's <a href="http://twitter.com/GM_Culture/status/1242747895876661248" target="_blank">COVID-19 Creative Commissions</a> applications are now available (*deadline Wed 1 Apr, 5pm*). Email cultureteam@greatermanchester-ca.gov.uk to request more info + an application form.        
 • <a href="http://livestreamarchive.co.uk/contact" target="_blank">Live Stream Archive</a> — share a recording of a performance to add to their temporary digital archive.        
 • MIF are repurposing some of their artist development funds to <a href="http://mif.co.uk/creatives_call_out" target="_blank">offer opportunities to GM-based artists + creatives</a>.      
-• Scottee has <a href="http://www.scottee.co.uk/single-post/2020/03/20/Room-to-Respond-2020" target="_blank">some paid opportunities available</a>.            
-• The Space, ACE + BBC Arts' <a href="http://www.thespace.org/resource/culture-quarantine" target="_blank">new £250,000 Culture in Quarantine fund</a> — to help 25 artists create video, audio + interactive works from self-isolation.          
+• Scottee & Friends have <a href="http://www.scottee.co.uk/single-post/2020/03/20/Room-to-Respond-2020" target="_blank">various paid opportunities</a>.            
+• The Space, ACE + BBC Arts' <a href="http://www.thespace.org/resource/culture-quarantine" target="_blank">new £250,000 Culture in Quarantine fund</a> — to help 25 artists create video, audio + interactive works from self-isolation.  
