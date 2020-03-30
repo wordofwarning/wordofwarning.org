@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 30 March 2020 at 12:25*        
+##### *Last updated on 30 March 2020 at 12:28*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring20 Performance Programme](/current/2020-springsummer)…                
@@ -23,7 +23,7 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 <hr>          
 #### Other things to see         
 **ONGOING | <a href="http://livestreamarchive.co.uk" target="_blank">Live Stream Archive</a>** — digital, live-streamed + recorded performances, regularly updated (<a href="http://twitter.com/archive_stream" target="_blank">@archive_stream</a>).        
-**ONGOING | <a href="http://unitedwestream.co.uk" target="_blank">United We Stream</a>** — live music + performances from Greater Mcr artists every night (<a href="http://www.greatermanchester-ca.gov.uk/news/united-we-stream-to-broadcast-greater-manchester-culture-to-homes-around-the-world" target="_blank">announced here</a> | <a href="http://twitter.com/StreamGm" target="_blank">@StreamGM</a>).        
+**ONGOING | <a href="http://nrla30.com" target="_blank">NRLA30</a>** — performances + recollections of the 30th National Review of Live Art.        
 **DAILY, 7pm | <a href="http://unitedwestream.co.uk" target="_blank">United We Stream</a>** — live music + performances from Greater Mcr artists every night (<a href="http://www.greatermanchester-ca.gov.uk/news/united-we-stream-to-broadcast-greater-manchester-culture-to-homes-around-the-world" target="_blank">announced here</a> | <a href="http://twitter.com/StreamGm" target="_blank">@StreamGM</a>).        
 **6-10 Apr, various | <a href="http://facebook.com/events/3546308572110271" target="_blank">*Article 19* by Janet Charlesworth</a>** 
 — her multimedia performance explores the UN Convention on Rights for Persons living with Disability (UNCRPD), screening on YouTube at various times… <a href="http://youtu.be/lJ0qvREVAsw" target="_blank">Mon 6 Apr, 12noon-12.45pm</a> | <a href="http://youtu.be/8GyDaO4_0pU" target="_blank">Tue 7 Apr, 7-7.45pm</a> | <a href="http://youtu.be/rMyOeayO_G0" target="_blank">Wed 8 Apr, 1-1.45pm</a> | <a href="http://youtu.be/xd7SMC7yc68" target="_blank">Thu 9 Apr, 3-3.45pm</a> | <a href="http://youtu.be/SoRl4fJ8x7g" target="_blank">Fri 10 Apr, 8-8.45pm</a>           
