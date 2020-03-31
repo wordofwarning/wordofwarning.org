@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 31 March 2020 at 12:21*        
+##### *Last updated on 31 March 2020 at 14:43*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring20 Performance Programme](/current/2020-springsummer)…                
@@ -21,10 +21,13 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 **23+24 April | [*Oreo* by Tania Camara](/current/2020-springsummer/camara)** — further information to follow; tickets are no longer available.       
 **21+22 May | [Works Ahead from Will Dickie + Ross McCaffrey](/current/2020-worksahead)** — further information to follow.        
 <hr>          
-#### Other things to see         
+#### Other things to see/do         
 **1 April, 7.45pm | <a href="http://www.facebook.com/events/3170120296332074" target="_blank">*We've Got Each Other — The Livin' Room Edition* by Paul O'Donnell</a>** — on Facebook Live at <a href="http://www.facebook.com/podonnell6" target="_blank">/podonnell6</a>.        
-**6-10 April | <a href="http://facebook.com/events/3546308572110271" target="_blank">*Article 19* by Janet Charlesworth</a> (with Proud & Loud Arts)** — multimedia performance exploring the UN Convention on Rights for Persons living with Disability (UNCRPD), screening on YouTube: <a href="http://youtu.be/lJ0qvREVAsw" target="_blank">Mon 6 Apr, 12noon-12.45pm</a> | <a href="http://youtu.be/8GyDaO4_0pU" target="_blank">Tue 7 Apr, 7-7.45pm</a> | <a href="http://youtu.be/rMyOeayO_G0" target="_blank">Wed 8 Apr, 1-1.45pm</a> | <a href="http://youtu.be/xd7SMC7yc68" target="_blank">Thu 9 Apr, 3-3.45pm</a> | <a href="http://youtu.be/SoRl4fJ8x7g" target="_blank">Fri 10 Apr, 8-8.45pm</a>        
-**Daily, 7pm | <a href="http://unitedwestream.co.uk" target="_blank">United We Stream</a>** — live music + performances from Greater Mcr artists every night (<a href="http://www.greatermanchester-ca.gov.uk/news/united-we-stream-to-broadcast-greater-manchester-culture-to-homes-around-the-world" target="_blank">announced here</a> | <a href="http://twitter.com/StreamGm" target="_blank">@StreamGM</a>).        
+**6-10 April | <a href="http://facebook.com/events/3546308572110271" target="_blank">*Article 19 - UNCRPD* by Janet Charlesworth / Proud & Loud Arts</a>** — multimedia performance exploring the UN Convention on Rights for Persons living with Disability, screening on YouTube: <a href="http://youtu.be/lJ0qvREVAsw" target="_blank">Mon 6 Apr, 12noon-12.45pm</a> | <a href="http://youtu.be/8GyDaO4_0pU" target="_blank">Tue 7 Apr, 7-7.45pm</a> | <a href="http://youtu.be/rMyOeayO_G0" target="_blank">Wed 8 Apr, 1-1.45pm</a> | <a href="http://youtu.be/xd7SMC7yc68" target="_blank">Thu 9 Apr, 3-3.45pm</a> | <a href="http://youtu.be/SoRl4fJ8x7g" target="_blank">Fri 10 Apr, 8-8.45pm</a>        
+**Daily | <a href="http://facebook.com/pg/companychameleon/videos" target="_blank">*#IsolationImprovs* by Company Chameleon</a>** — an invite to get moving, think creatively + reimagine your living room through dance (<a href="http://www.companychameleon.com/2020/03/reimagine-your-living-room-through-dance" target="_blank">info</a> | <a href="https://twitter.com/chameleon_info" target="_blank">@chameleon_info</a>).     
+**Daily | <a href="http://instagram.com/maternal_matters_40_6" target="_blank">*Maternal Matters Lent 40 (+6)* by Krissi Musiol</a>** — 46 daily domestic interventions on Instagram.         
+**Daily, 7pm | <a href="http://unitedwestream.co.uk" target="_blank">United We Stream</a>** — live music + performances from Greater Mcr artists every night (<a href="http://www.greatermanchester-ca.gov.uk/news/united-we-stream-to-broadcast-greater-manchester-culture-to-homes-around-the-world" target="_blank">info</a> | <a href="http://twitter.com/StreamGm" target="_blank">@StreamGM</a>).        
+**To 1 July | <a href="http://fueltheatre.com/projects/everyday-moments" target="_blank">*Everyday Moments* by Hofesh Schecter / Fuel</a>** — a podcast designed to be listened to alone in a dark space; an invitation to move without inhibition.        
 **Ongoing | <a href="http://livestreamarchive.co.uk/archive" target="_blank">Live Stream Archive</a>** — a temporary digital archive of small-scale theatre + performance works; daily updates/additions (<a href="http://twitter.com/archive_stream" target="_blank">@archive_stream</a>).        
 **Ongoing | <a href="http://nrla30.com" target="_blank">NRLA30</a>** — performances + recollections from the 30th National Review of Live Art.        
 <hr>          
