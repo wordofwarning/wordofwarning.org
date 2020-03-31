@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 31 March 2020 at 15:06*        
+##### *Last updated on 31 March 2020 at 15:26*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring20 Performance Programme](/current/2020-springsummer)…                
@@ -26,12 +26,14 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 **2-5 April | <a href="http://strp.nl/events/festival-2020" target="_blank">STRP Festival 2020</a>** — a festival from Eindhoven (NL) now online.         
 **6-10 April | <a href="http://facebook.com/events/3546308572110271" target="_blank">*Article 19 - UNCRPD* by Janet Charlesworth / Proud & Loud Arts</a>** — multimedia performance exploring the UN Convention on Rights for Persons living with Disability, screening on YouTube: <a href="http://youtu.be/lJ0qvREVAsw" target="_blank">Mon 6 Apr, 12noon-12.45pm</a> | <a href="http://youtu.be/8GyDaO4_0pU" target="_blank">Tue 7 Apr, 7-7.45pm</a> | <a href="http://youtu.be/rMyOeayO_G0" target="_blank">Wed 8 Apr, 1-1.45pm</a> | <a href="http://youtu.be/xd7SMC7yc68" target="_blank">Thu 9 Apr, 3-3.45pm</a> | <a href="http://youtu.be/SoRl4fJ8x7g" target="_blank">Fri 10 Apr, 8-8.45pm</a>        
 **Until 1 July | <a href="http://fueltheatre.com/projects/everyday-moments" target="_blank">*Everyday Moments* by Hofesh Schecter / Fuel</a>** — a podcast designed to be listened to alone in a dark space; an invitation to move without inhibition.        
-**Daily | <a href="http://facebook.com/pg/companychameleon/videos" target="_blank">*#IsolationImprovs*</a> by <a href="http://www.companychameleon.com/2020/03/reimagine-your-living-room-through-dance" target="_blank">Company Chameleon</a>** — an invite to get moving, think creatively + reimagine your living room through dance (<a href="https://twitter.com/chameleon_info" target="_blank">@chameleon_info</a>).     
+**Daily | <a href="http://facebook.com/pg/companychameleon/videos" target="_blank">*#IsolationImprovs*</a> by <a href="http://www.companychameleon.com/2020/03/reimagine-your-living-room-through-dance" target="_blank">Company Chameleon</a>** — daily invites to get moving, think creatively + reimagine your living room through dance (<a href="https://twitter.com/chameleon_info" target="_blank">@chameleon_info</a>).     
 **Daily | <a href="http://instagram.com/maternal_matters_40_6" target="_blank">*Maternal Matters Lent 40 (+6)*</a> by <a href="http://www.krissimusiol.com/lent-40-plus-6" target="_blank">Krissi Musiol</a>** — 46 daily domestic interventions on Instagram.         
+**Daily | <a href="http://cosmicshambles.com/stayathome/upcoming-schedule" target="_blank">Stay At Home Festival from The Cosmic Shambles Network</a>** — live streamed podcasts, mixed-bill comedy nights + conversations.         
 **Daily at 7pm | <a href="http://unitedwestream.co.uk" target="_blank">United We Stream</a>** — live music + performances from Greater Mcr artists every night (<a href="http://www.greatermanchester-ca.gov.uk/news/united-we-stream-to-broadcast-greater-manchester-culture-to-homes-around-the-world" target="_blank">info</a> | <a href="http://twitter.com/StreamGm" target="_blank">@StreamGM</a>).        
-
 **Ongoing | <a href="http://livestreamarchive.co.uk/archive" target="_blank">Live Stream Archive</a>** — a temporary digital archive of small-scale theatre + performance works; daily updates/additions (<a href="http://twitter.com/archive_stream" target="_blank">@archive_stream</a>).        
-**Ongoing | <a href="http://nrla30.com" target="_blank">NRLA30</a>** — performances + recollections from the 30th National Review of Live Art.        
+**Ongoing | <a href="http://nrla30.com" target="_blank">NRLA30</a>** — performances + recollections from the 30th National Review of Live Art.         
+**Ongoing | <a href="http://www.instagram.com/performistanbul" target="_blank">Stay Live At Home from Perform Istanbul</a>** — live performances on Instagram.         
+**Ongoing | <a href="http://www.socialdistancingfestival.com" target="_blank">The Social Distancing Festival</a>** — live streamed global performance.         
 <hr>          
 #### Help for artists + our community         
 [hÅb](/hab) remains "open for business" and we will continue to advise + support artists + freelancers in our sector where we can…       
