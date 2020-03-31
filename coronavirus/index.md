@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 31 March 2020 at 11:47*        
+##### *Last updated on 31 March 2020 at 12:21*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring20 Performance Programme](/current/2020-springsummer)…                
@@ -45,6 +45,7 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 • Supercool's <a href="http://supercooldesign.co.uk/blog/keeping-it-live" target="_blank">blog</a> — links, resources + ideas on quick routes to live-streaming.        
 • The Space's <a href="http://www.thespace.org/resource/live-streaming-arts-lo-fi-and-low-cost-options" target="_blank">guide to live streaming for the arts by Jason Crouch</a> — lo-fi and low cost options.        
 • <a href="http://theatresupport.info" target="_blank">Theatre Support Information</a> from UK Theatre and SOLT — advice for anyone in the theatre industry with info about how + where you can access support from leading theatrical charities.        
+• Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">resources for disabled artists + freelancers page</a>.        
 ##### Opportunities         
 • Arts Fundraising & Philanthropy's <a href="http://artsfundraising.org.uk/networks-funding" target="_blank">programme of funding for virtual networks</a> to support the sector + bring arts fundraisers together.        
 • Disability arts online's <a href="http://disabilityarts.online/magazine/news/disability-arts-online-announces-new-commissions-for-disabled-artists" target="_blank">new commissions (*deadline 6 April*)</a>.         
@@ -52,5 +53,6 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 • GMCA's <a href="http://twitter.com/GM_Culture/status/1242747895876661248" target="_blank">COVID-19 Creative Commissions</a> applications are now available (*deadline Wed 1 Apr, 5pm*). Email cultureteam@greatermanchester-ca.gov.uk to request more info + an application form.        
 • <a href="http://livestreamarchive.co.uk/contact" target="_blank">Live Stream Archive</a> — share a recording of a performance to add to their temporary digital archive.        
 • MIF are repurposing some of their artist development funds to <a href="http://mif.co.uk/creatives_call_out" target="_blank">offer opportunities to GM-based artists + creatives</a>.      
-• Scottee & Friends have <a href="http://www.scottee.co.uk/single-post/2020/03/20/Room-to-Respond-2020" target="_blank">various paid opportunities</a>.            
-• The Space, ACE + BBC Arts' <a href="http://www.thespace.org/resource/culture-quarantine" target="_blank">new £250,000 Culture in Quarantine fund</a> — to help 25 artists create video, audio + interactive works from self-isolation.  
+• Scottee & Friends' Room to Respond — <a href="http://www.scottee.co.uk/single-post/2020/03/20/Room-to-Respond-2020" target="_blank">various paid opportunities</a>: Producer Mentoring Sessions | Artist Mentoring Sessions | Home Video/Creative Response.            
+• The Space, ACE + BBC Arts' <a href="http://www.thespace.org/resource/culture-quarantine" target="_blank">new £250,000 Culture in Quarantine fund</a> — to help 25 artists create video, audio + interactive works from self-isolation.          
+• Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">resources for disabled artists + freelancers page</a> includes an opportunities section.        
