@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 31 March 2020 at 15:42*        
+##### *Last updated on 31 March 2020 at 15:47*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring20 Performance Programme](/current/2020-springsummer)…                
@@ -30,7 +30,7 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 **Daily | <a href="http://instagram.com/maternal_matters_40_6" target="_blank">*Maternal Matters Lent 40 (+6)*</a> by <a href="http://www.krissimusiol.com/lent-40-plus-6" target="_blank">Krissi Musiol</a>** — 46 daily domestic interventions on Instagram.         
 **Daily | <a href="http://cosmicshambles.com/stayathome/upcoming-schedule" target="_blank">Stay At Home Festival from The Cosmic Shambles Network</a>** — live streamed podcasts, mixed-bill comedy nights + conversations.         
 **Daily at 7pm | <a href="http://unitedwestream.co.uk" target="_blank">United We Stream</a>** — live music + performances from Greater Mcr artists every night (<a href="http://www.greatermanchester-ca.gov.uk/news/united-we-stream-to-broadcast-greater-manchester-culture-to-homes-around-the-world" target="_blank">info</a> | <a href="http://twitter.com/StreamGm" target="_blank">@StreamGM</a>).        
-**Ongoing | <a href="http://exeuntmagazine.com/features/covid-19-resources-uk-theatre-freelancers" target="_blank">Exeunt Magazine's resources page includes "Where to watch theatre for free online"</a>.        
+**Ongoing | <a href="http://exeuntmagazine.com/features/covid-19-resources-uk-theatre-freelancers" target="_blank">Exeunt Magazine's resources page</a>** — includes "Where to watch theatre for free online".        
 **Ongoing | <a href="http://livestreamarchive.co.uk/archive" target="_blank">Live Stream Archive</a>** — a temporary digital archive of small-scale theatre + performance works; daily updates/additions (<a href="http://twitter.com/archive_stream" target="_blank">@archive_stream</a>).**        
 **Ongoing | <a href="http://nrla30.com" target="_blank">NRLA30</a>** — performances + recollections from the 30th National Review of Live Art.         
 **Ongoing | <a href="http://www.instagram.com/performistanbul" target="_blank">Stay Live At Home from Perform Istanbul</a>** — live performances on Instagram.         
@@ -64,4 +64,4 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 • MIF are repurposing some of their artist development funds to <a href="http://mif.co.uk/creatives_call_out" target="_blank">offer opportunities to GM-based artists + creatives</a>.      
 • Scottee & Friends' Room to Respond — <a href="http://www.scottee.co.uk/single-post/2020/03/20/Room-to-Respond-2020" target="_blank">various paid opportunities</a>: Producer Mentoring Sessions | Artist Mentoring Sessions | Home Video/Creative Response.            
 • The Space, ACE + BBC Arts' <a href="http://www.thespace.org/resource/culture-quarantine" target="_blank">new £250,000 Culture in Quarantine fund</a> — to help 25 artists create video, audio + interactive works from self-isolation.          
-• Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">resources for disabled artists + freelancers page</a> includes an opportunities section.        
+• Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">resources for disabled artists + freelancers page</a> includes an opportunities section.    
