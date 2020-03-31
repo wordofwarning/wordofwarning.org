@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 31 March 2020 at 15:05*        
+##### *Last updated on 31 March 2020 at 15:06*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring20 Performance Programme](/current/2020-springsummer)…                
@@ -24,9 +24,6 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 #### Other things to see/do         
 **1 April at 7.45pm | <a href="http://www.facebook.com/events/3170120296332074" target="_blank">*We've Got Each Other — The Livin' Room Edition* by Paul O'Donnell</a>** — on Facebook Live at <a href="http://www.facebook.com/podonnell6" target="_blank">/podonnell6</a>.     
 **2-5 April | <a href="http://strp.nl/events/festival-2020" target="_blank">STRP Festival 2020</a>** — a festival from Eindhoven (NL) now online.         
-
-
-
 **6-10 April | <a href="http://facebook.com/events/3546308572110271" target="_blank">*Article 19 - UNCRPD* by Janet Charlesworth / Proud & Loud Arts</a>** — multimedia performance exploring the UN Convention on Rights for Persons living with Disability, screening on YouTube: <a href="http://youtu.be/lJ0qvREVAsw" target="_blank">Mon 6 Apr, 12noon-12.45pm</a> | <a href="http://youtu.be/8GyDaO4_0pU" target="_blank">Tue 7 Apr, 7-7.45pm</a> | <a href="http://youtu.be/rMyOeayO_G0" target="_blank">Wed 8 Apr, 1-1.45pm</a> | <a href="http://youtu.be/xd7SMC7yc68" target="_blank">Thu 9 Apr, 3-3.45pm</a> | <a href="http://youtu.be/SoRl4fJ8x7g" target="_blank">Fri 10 Apr, 8-8.45pm</a>        
 **Until 1 July | <a href="http://fueltheatre.com/projects/everyday-moments" target="_blank">*Everyday Moments* by Hofesh Schecter / Fuel</a>** — a podcast designed to be listened to alone in a dark space; an invitation to move without inhibition.        
 **Daily | <a href="http://facebook.com/pg/companychameleon/videos" target="_blank">*#IsolationImprovs*</a> by <a href="http://www.companychameleon.com/2020/03/reimagine-your-living-room-through-dance" target="_blank">Company Chameleon</a>** — an invite to get moving, think creatively + reimagine your living room through dance (<a href="https://twitter.com/chameleon_info" target="_blank">@chameleon_info</a>).     
