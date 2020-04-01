@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 1 April 2020 at 12:20*        
+##### *Last updated on 1 April 2020 at 15:30*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring20 Performance Programme](/current/2020-springsummer)…                
@@ -62,6 +62,7 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 • Disability arts online's <a href="http://disabilityarts.online/magazine/news/disability-arts-online-announces-new-commissions-for-disabled-artists" target="_blank">new commissions (*deadline 6 April*)</a>.         
 • Greater Manchester Combined Authority's Culture, Creative + Night Time Economy team are announcing how they can help orgs, artists + freelancers that *aren't* in their portfolio on twitter at <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>.        
 • GMCA's <a href="http://twitter.com/GM_Culture/status/1242747895876661248" target="_blank">COVID-19 Creative Commissions</a> applications are now available (*deadline Wed 1 Apr, 5pm*). Email cultureteam@greatermanchester-ca.gov.uk to request more info + an application form.        
+• Homotopia are <a href="http://homotopia.net/about/commissions" target="_blank">offering £250-£1,000 seed commissions to LGBTQIA artists</a> — to make imaginative new work, suitable for the current climate. 50% reserved for NW.           
 • <a href="http://livestreamarchive.co.uk/contact" target="_blank">Live Stream Archive</a> — share a recording of a performance to add to their temporary digital archive.        
 • MIF are repurposing some of their artist development funds to <a href="http://mif.co.uk/creatives_call_out" target="_blank">offer opportunities to GM-based artists + creatives</a>.      
 • Scottee & Friends' Room to Respond — <a href="http://www.scottee.co.uk/single-post/2020/03/20/Room-to-Respond-2020" target="_blank">various paid opportunities</a>: Producer Mentoring Sessions | Artist Mentoring Sessions | Home Video/Creative Response.            
