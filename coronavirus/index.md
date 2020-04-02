@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 2 April 2020 at 12:22*        
+##### *Last updated on 2 April 2020 at 13:13*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer)…                
@@ -41,7 +41,7 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 [hÅb](/hab) remains "open for business" and we will continue to advise + support artists + freelancers in our sector where we can…       
 ##### Advice/guidance/support         
 • Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Covid-19 support page</a> — the latest advice, guidance + emergency funding measures they've put in place.         
-• Arts Council England's <a href="http://artscouncil.org.uk/welcome-grantium#section-2" target="_blank">Grantium guide</a> — **please read before applying to their emergency funds** (*1. create your user account / 2. create your applicant profile / 3. wait to be validated (takes up to TEN days) 4. take the eligibility questionnaire / 5 start your application*).         
+• Arts Council England's <a href="http://artscouncil.org.uk/welcome-grantium" target="_blank">Grantium guide</a> — **please read before applying to their emergency funds** (*1. create your user account / 2. create your applicant profile / 3. wait to be validated (takes up to TEN days) 4. take the eligibility questionnaire / 5 start your application*).         
 • Arts Marketing Association (AMA)'s <a href="http://www.a-m-a.co.uk/coronavirus-covid-19-resources" target="_blank">resources page</a> — to support arts, culture + heritage professionals, organisations + freelancers.        
 • AMA also have a <a href="http://facebook.com/groups/AMACommunitySupport" target="_blank">Coronavirus Support Facebook Group</a> — for all arts, culture + heritage professionals who work to engage audiences.        
 • Arts Professional have a <a href="http://www.artsprofessional.co.uk/magazine/covidculture" target="_blank">CovidCulture microsite</a>  — news + info plus resources, ideas + virtual events that could help you through the days ahead.          
