@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 3 April 2020 at 12:30*        
+##### *Last updated on 3 April 2020 at 12:45*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer)…                
@@ -32,12 +32,13 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 **<a href="http://cosmicshambles.com/stayathome/upcoming-schedule" target="_blank">Stay At Home Festival from The Cosmic Shambles Network</a>** — live streamed podcasts, mixed-bill comedy nights + conversations.         
 **<a href="http://unitedwestream.co.uk" target="_blank">United We Stream GM at 7pm</a>** — live music + performances by Greater Mcr artists every night (<a href="http://www.greatermanchester-ca.gov.uk/news/united-we-stream-to-broadcast-greater-manchester-culture-to-homes-around-the-world" target="_blank">info</a>).        
 ##### Ongoing         
-**<a href="http://exeuntmagazine.com/features/covid-19-resources-uk-theatre-freelancers" target="_blank">Exeunt Magazine's resources page</a>** — includes "Where to watch theatre for free online".        
+**<a href="http://exeuntmagazine.com/features/covid-19-resources-uk-theatre-freelancers" target="_blank">Exeunt Magazine's resources</a>** — includes "Where to watch theatre for free online" (regular updates).        
 **<a href="http://vimeo.com/395350772" target="_blank">Fierce Festival 2019 The Movie</a>** — highlights from the 2019 edition; Fierce also have some <a href="http://wearefierce.org/fierces-lockdown-viewing" target="_blank">Lockdown Viewing Tips</a>.        
-**<a href="http://livestreamarchive.co.uk/archive" target="_blank">Live Stream Archive</a>** — a temporary digital archive of small-scale theatre + performance works with regualr additions.        
+**<a href="http://homemcr.org/article/great-theatre-you-can-watch-at-home" target="_blank">HOME's Great theatre you can watch at home</a>** — things to watch online for free (regular updates).  
+**<a href="http://livestreamarchive.co.uk/archive" target="_blank">Live Stream Archive</a>** — a temporary digital archive of small-scale theatre + performance works (regular updates).        
 **<a href="http://nrla30.com" target="_blank">NRLA30</a>** — performances + recollections from the 30th National Review of Live Art.         
-**<a href="http://www.instagram.com/performistanbul" target="_blank">Stay Live At Home from Perform Istanbul</a>** — live performances on Instagram.         
-**<a href="http://www.socialdistancingfestival.com" target="_blank">The Social Distancing Festival</a>** — live streamed global performance.         
+**<a href="http://www.instagram.com/performistanbul" target="_blank">Stay Live At Home from Perform Istanbul</a>** — live performances on Instagram (regular updates).         
+**<a href="http://www.socialdistancingfestival.com" target="_blank">The Social Distancing Festival</a>** — live streamed global performance (regular updates).         
 <hr>          
 #### Help for artists + our community         
 [hÅb](/hab) remains "open for business" and we will continue to advise + support artists + freelancers in our sector where we can…       
