@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 3 April 2020 at 12:20*        
+##### *Last updated on 3 April 2020 at 12:30*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer)…                
@@ -24,6 +24,7 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 #### Other things to see or do online         
 **2-5 April | <a href="http://strp.nl/events/festival-2020" target="_blank">STRP Festival 2020</a>** — a festival from Eindhoven (NL) now online.         
 **6-10 April | <a href="http://facebook.com/events/3546308572110271" target="_blank">*Article 19 - UNCRPD* by Janet Charlesworth / Proud & Loud Arts</a>** — multimedia performance exploring the UN Convention on Rights for Persons living with Disability, screening on YouTube: <a href="http://youtu.be/lJ0qvREVAsw" target="_blank">Mon 6 Apr, 12noon-12.45pm</a> | <a href="http://youtu.be/8GyDaO4_0pU" target="_blank">Tue 7 Apr, 7-7.45pm</a> | <a href="http://youtu.be/rMyOeayO_G0" target="_blank">Wed 8 Apr, 1-1.45pm</a> | <a href="http://youtu.be/xd7SMC7yc68" target="_blank">Thu 9 Apr, 3-3.45pm</a> | <a href="http://youtu.be/SoRl4fJ8x7g" target="_blank">Fri 10 Apr, 8-8.45pm</a>        
+**1-3 May | <a href="http://www.giftfestival.co.uk" target="_blank">Gateshead International Festival of Theatre (GIFT)</a>** — a digital programme of performance art + interactive events (tickets available from 10 April).       
 **Until 1 July | <a href="http://fueltheatre.com/projects/everyday-moments" target="_blank">*Everyday Moments* by Hofesh Schecter / Fuel</a>** — a podcast designed to be listened to alone in a dark space; an invitation to move without inhibition.        
 ##### Daily          
 **<a href="http://facebook.com/pg/companychameleon/videos" target="_blank">*#IsolationImprovs*</a> by <a href="http://www.companychameleon.com/2020/03/reimagine-your-living-room-through-dance" target="_blank">Company Chameleon</a>** — daily invites to get moving, think creatively + reimagine your living room through dance.     
@@ -42,7 +43,7 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 [hÅb](/hab) remains "open for business" and we will continue to advise + support artists + freelancers in our sector where we can…       
 ##### Advice/guidance/support         
 • Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Covid-19 support page</a> — the latest advice, guidance + emergency funding measures they've put in place.         
-• Arts Council England's <a href="http://artscouncil.org.uk/welcome-grantium" target="_blank">Grantium guide</a> — **please read before applying to their emergency funds** (*1. create your user account / 2. create your applicant profile / 3. wait to be validated (takes up to TEN days) 4. take the eligibility questionnaire / 5 start your application*).         
+• Arts Council England's <a href="http://artscouncil.org.uk/welcome-grantium" target="_blank">Grantium guide</a> — **please read before applying to their emergency funds; you need to:** 1. create a user account 2. create an applicant profile 3. wait to be validated (takes up to TEN days) 4. take the eligibility questionnaire 5. start your application (round one 9-16 April / round two 16-30 April).         
 • Arts Marketing Association (AMA)'s <a href="http://www.a-m-a.co.uk/coronavirus-covid-19-resources" target="_blank">resources page</a> — to support arts, culture + heritage professionals, organisations + freelancers.        
 • AMA also have a <a href="http://facebook.com/groups/AMACommunitySupport" target="_blank">Coronavirus Support Facebook Group</a> — for all arts, culture + heritage professionals who work to engage audiences.        
 • Arts Professional have a <a href="http://www.artsprofessional.co.uk/magazine/covidculture" target="_blank">CovidCulture microsite</a>  — news + info plus resources, ideas + virtual events that could help you through the days ahead.          
