@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 2 April 2020 at 17:55*        
+##### *Last updated on 3 April 2020 at 12:13*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer)…                
@@ -30,8 +30,9 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 **<a href="http://instagram.com/maternal_matters_40_6" target="_blank">*Maternal Matters Lent 40 (+6)*</a> by <a href="http://www.krissimusiol.com/lent-40-plus-6" target="_blank">Krissi Musiol</a>** — 46 daily domestic interventions on Instagram.         
 **<a href="http://cosmicshambles.com/stayathome/upcoming-schedule" target="_blank">Stay At Home Festival from The Cosmic Shambles Network</a>** — live streamed podcasts, mixed-bill comedy nights + conversations.         
 **<a href="http://unitedwestream.co.uk" target="_blank">United We Stream GM at 7pm</a>** — live music + performances by Greater Mcr artists every night (from 3 April | <a href="http://www.greatermanchester-ca.gov.uk/news/united-we-stream-to-broadcast-greater-manchester-culture-to-homes-around-the-world" target="_blank">info</a> | <a href="http://twitter.com/StreamGm" target="_blank">@StreamGM</a>).        
-##### Ongoing         
+##### Ongoing / Permanent        
 **<a href="http://exeuntmagazine.com/features/covid-19-resources-uk-theatre-freelancers" target="_blank">Exeunt Magazine's resources page</a>** — includes "Where to watch theatre for free online".        
+**<a href="http://vimeo.com/395350772" target="_blank">Fierce Festival 2019 The Movie</a>** — highlights from the 2019 edition. Fierce also have <a href="http://wearefierce.org/fierces-lockdown-viewing" target="_blank">Lockdown Viewing top tips</a>).        
 **<a href="http://livestreamarchive.co.uk/archive" target="_blank">Live Stream Archive</a>** — a temporary digital archive of small-scale theatre + performance works; daily updates/additions (<a href="http://twitter.com/archive_stream" target="_blank">@archive_stream</a>).        
 **<a href="http://nrla30.com" target="_blank">NRLA30</a>** — performances + recollections from the 30th National Review of Live Art.         
 **<a href="http://www.instagram.com/performistanbul" target="_blank">Stay Live At Home from Perform Istanbul</a>** — live performances on Instagram.         
