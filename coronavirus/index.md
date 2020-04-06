@@ -12,10 +12,10 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 6 April 2020 at 16:07*        
+##### *Last updated on 6 April 2020 at 16:17*        
 <hr>          
 #### Word of Warning things to see         
-In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer):                
+In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer).            
 **19-21 March | [*IDOL* by Jamal Gerald](/current/2020-springsummer/gerald) was CANCELLED** — <a href="http://www.royalexchange.co.uk/the-royal-exchange-theatre-suspension-of-activity-from-5pm-on-tuesday-17-march" target="_blank">Royal Exchange Theatre will be in touch with ticket holders asap</a>, please don't call their box office.          
 **1 April | [*We Are Fucked* by Jo Bannon](/current/2020-springsummer/bannon) was CANCELLED** — <a href="http://thelowry.com/coronavirus" target="_blank">The Lowry will be in touch asap if you donated when you booked a ticket</a>, please bear with them.         
 **23+24 April | [*Oreo* by Tania Camara](/current/2020-springsummer/camara)** — further information to follow; tickets are no longer available.       
@@ -23,14 +23,14 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 <hr>          
 #### Other things to see or do         
 As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to perfomance</a> becomes more sporadic in these unprecedented times, we're collating things to see online here:        
-**Until 10 April | <a href="http://facebook.com/events/3546308572110271" target="_blank">*Article 19 - UNCRPD* by Janet Charlesworth / Proud & Loud Arts</a>** — multimedia performance exploring the UN Convention on Rights for Persons living with Disability, screening on YouTube: <a href="http://youtu.be/8GyDaO4_0pU" target="_blank">Tue 7 Apr, 7-7.45pm</a> | <a href="http://youtu.be/rMyOeayO_G0" target="_blank">Wed 8 Apr, 1-1.45pm</a> | <a href="http://youtu.be/xd7SMC7yc68" target="_blank">Thu 9 Apr, 3-3.45pm</a> | <a href="http://youtu.be/SoRl4fJ8x7g" target="_blank">Fri 10 Apr, 8-8.45pm</a>        
+**Until 10 April | <a href="http://facebook.com/events/3546308572110271" target="_blank">*Article 19 - UNCRPD* by Janet Charlesworth with Proud & Loud Arts</a>** — multimedia performance exploring the UN Convention on Rights for Persons living with Disability, screening on YouTube: <a href="http://youtu.be/8GyDaO4_0pU" target="_blank">Tue 7 Apr, 7-7.45pm</a> | <a href="http://youtu.be/rMyOeayO_G0" target="_blank">Wed 8 Apr, 1-1.45pm</a> | <a href="http://youtu.be/xd7SMC7yc68" target="_blank">Thu 9 Apr, 3-3.45pm</a> | <a href="http://youtu.be/SoRl4fJ8x7g" target="_blank">Fri 10 Apr, 8-8.45pm</a>        
 **1-3 May | <a href="http://www.giftfestival.co.uk" target="_blank">Gateshead International Festival of Theatre (GIFT)</a>** — a digital programme of performance art + interactive events (tickets available from 10 April).       
 **Until 1 July | <a href="http://fueltheatre.com/projects/everyday-moments" target="_blank">*Everyday Moments* by Hofesh Schecter / Fuel</a>** — a podcast designed to be listened to alone in a dark space; an invitation to move without inhibition.        
 ##### Daily          
 **<a href="http://facebook.com/pg/companychameleon/videos" target="_blank">*#IsolationImprovs*</a> by <a href="http://www.companychameleon.com/2020/03/reimagine-your-living-room-through-dance" target="_blank">Company Chameleon</a>** — daily invites to get moving, think creatively + reimagine your living room through dance.         
 **<a href="http://instagram.com/maternal_matters_40_6" target="_blank">*Maternal Matters Lent 40 (+6)*</a> by <a href="http://www.krissimusiol.com/lent-40-plus-6" target="_blank">Krissi Musiol</a>** — 46 daily domestic interventions on Instagram.         
 **<a href="http://cosmicshambles.com/stayathome/upcoming-schedule" target="_blank">Stay At Home Festival from The Cosmic Shambles Network</a>** — live streamed podcasts, mixed-bill comedy nights + conversations.         
-**<a href="http://unitedwestream.co.uk" target="_blank">United We Stream GM at 7pm</a>** — live music + performances by Greater Mcr artists every night (<a href="http://www.greatermanchester-ca.gov.uk/news/united-we-stream-to-broadcast-greater-manchester-culture-to-homes-around-the-world" target="_blank">info</a>).        
+**<a href="http://unitedwestream.co.uk" target="_blank">United We Stream GM at 7pm</a>** — live music + performances by Greater Manchester artists every night (<a href="http://www.greatermanchester-ca.gov.uk/news/united-we-stream-to-broadcast-greater-manchester-culture-to-homes-around-the-world" target="_blank">info</a>).        
 ##### Ongoing         
 **<a href="http://smallertemples.wordpress.com/2020/04/04/quarantine-performance" target="_blank">Ben Kulvichit's Quarantine performance blog post</a>** — an evolving diary of streams + recordings of shows to see online.        
 **<a href="http://www.companychameleon.com/whats-on/theatre-thursdays" target="_blank">Company Chameleon's Theatre Thursdays</a>** — weekly opportunities to see one of their dance theatre productions.         
@@ -44,7 +44,7 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 **<a href="http://www.socialdistancingfestival.com" target="_blank">The Social Distancing Festival</a>** — live streamed global performance (regular updates).         
 <hr>          
 #### Help for artists + our community         
-[hÅb](/hab) remains "open for business" — we continue to advise + support artists + freelancers in our sector where we can:       
+[hÅb](/hab) remains "open for business" and we'll continue to advise/support artists + freelancers in our sector where we can:       
 ##### Advice/guidance/support         
 • Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Covid-19 support page</a> — the latest advice, guidance + emergency funding measures they've put in place.         
 • Arts Council England's <a href="http://artscouncil.org.uk/welcome-grantium" target="_blank">Grantium guide</a> — **please read before applying to their emergency funds; you need to:** 1. create a user account 2. create an applicant profile 3. wait to be validated (takes up to TEN days) 4. take the eligibility questionnaire 5. start your application (round one 9-16 April / round two 16-30 April).         
