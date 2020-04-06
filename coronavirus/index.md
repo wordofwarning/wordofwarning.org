@@ -12,7 +12,7 @@ season: "Coronavirus (COVID-19) Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 6 April 2020 at 15:52*        
+##### *Last updated on 6 April 2020 at 16:07*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer):                
@@ -33,7 +33,7 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 **<a href="http://unitedwestream.co.uk" target="_blank">United We Stream GM at 7pm</a>** — live music + performances by Greater Mcr artists every night (<a href="http://www.greatermanchester-ca.gov.uk/news/united-we-stream-to-broadcast-greater-manchester-culture-to-homes-around-the-world" target="_blank">info</a>).        
 ##### Ongoing         
 **<a href="http://smallertemples.wordpress.com/2020/04/04/quarantine-performance" target="_blank">Ben Kulvichit's Quarantine performance blog post</a>** — an evolving diary of streams + recordings of shows to see online.        
-**<a href="http://www.companychameleon.com/whats-on/theatre-thursdays" target="_blank">*Theatre Thursdays* by Company Chameleon</a>** — weekly opportunities to see one of their dance theatre productions.         
+**<a href="http://www.companychameleon.com/whats-on/theatre-thursdays" target="_blank">Company Chameleon's Theatre Thursdays</a>** — weekly opportunities to see one of their dance theatre productions.         
 **<a href="http://exeuntmagazine.com/features/covid-19-resources-uk-theatre-freelancers" target="_blank">Exeunt Magazine's resources</a>** — includes "Where to watch theatre for free online" (regular updates).        
 **<a href="http://vimeo.com/395350772" target="_blank">Fierce Festival 2019 The Movie</a>** — highlights from the 2019 edition; Fierce also have some <a href="http://wearefierce.org/fierces-lockdown-viewing" target="_blank">Lockdown Viewing Tips</a>.        
 **<a href="http://homemcr.org/article/great-theatre-you-can-watch-at-home" target="_blank">HOME's Great theatre you can watch at home</a>** — things to watch online for free (regular updates).  
@@ -53,7 +53,7 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 • Arts Professional have a <a href="http://www.artsprofessional.co.uk/magazine/covidculture" target="_blank">CovidCulture microsite</a>  — news + info plus resources, ideas + virtual events that could help you through the days ahead.          
 • Arts Professional's <a href="http://www.artsprofessional.co.uk/news/covid-19-connecting-online-during-social-distancing" target="_blank">guide to running online-only events</a>.          
 • Exeunt Magazine's <a href="http://exeuntmagazine.com/features/covid-19-resources-uk-theatre-freelancers" target="_blank">Covid-19 Resources for UK Theatre page</a> — an evolving collection of advice, resources + opportunities for our community.        
-• Greater Manchester Combined Authority's <a href="http://www.greatermanchester-ca.gov.uk/news/new-mental-health-services-for-people-affected-by-social-restrictions" target="_blank">Covid-19 Resources for UK Theatre page</a> new mental health services for people affected by social restrictions.         
+• Greater Manchester Combined Authority's <a href="http://www.greatermanchester-ca.gov.uk/news/new-mental-health-services-for-people-affected-by-social-restrictions" target="_blank">new mental health services for people affected by social restrictions</a>.         
 • IPSE (Association of Independent Professionals + the Self Employed)'s <a href="http://www.ipse.co.uk/ipse-news/news-listing/coronavirus-ipse-activity-and-advice-freelancers.html" target="_blank">Coronavirus page</a> — what they're doing + advice for freelancers + the self-employed.        
 • Live Art Development Agency (LADA)'s <a href="http://www.thisisliveart.co.uk/resources/covid-19-support-resources" target="_blank">Covid-19 support + resources page</a> — aims to gather information to support affected artists + arts workers.         
 • <a href="http://livestreamarchive.co.uk/resources" target="_blank">Live Stream Archive</a> + <a href="http://www.facebook.com/groups/livestreamingarts" target="_blank">Live Streaming Arts Facebook group</a> — expertise, information + advice on how to share live performance with, and connect to, audiences online.         
