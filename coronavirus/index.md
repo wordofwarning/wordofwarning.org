@@ -4,15 +4,15 @@ layout: home # the season or event-specific template in /_layouts
 rootpath: "../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Coronavirus (COVID-19) Information" # the name of the artist or company
+artist: "Coronavirus News + Information" # the name of the artist or company
 artist_size: 2
-season: "Coronavirus (COVID-19) Information"
+season: "News + Information during Coronavirus"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 6 April 2020 at 16:17*        
+##### *Last updated on 7 April 2020 at 14:52*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer).            
@@ -46,8 +46,8 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 #### Help for artists + our community         
 [hÅb](/hab) remains "open for business" and we'll continue to advise/support artists + freelancers in our sector where we can:       
 ##### Advice/guidance/support         
-• Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Covid-19 support page</a> — the latest advice, guidance + emergency funding measures they've put in place.         
-• Arts Council England's <a href="http://artscouncil.org.uk/welcome-grantium" target="_blank">Grantium guide</a> — **please read before applying to their emergency funds; you need to:** 1. create a user account 2. create an applicant profile 3. wait to be validated (takes up to TEN days) 4. take the eligibility questionnaire 5. start your application (round one 9-16 April / round two 16-30 April).         
+• Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Covid-19 support page</a> — advice, guidance + emergency funding for <a href="http://www.artscouncil.org.uk/funding/financial-support-artists-creative-practitioners-and-freelancers" target="_blank">individuals</a> + <a href="http://www.artscouncil.org.uk/funding/financial-support-organisations-outside-national-portfolio" target="_blank">organisations (non-NPOs)</a>: *round one 9-16 April / round two 16-30 April*.         
+• Arts Council England's <a href="http://artscouncil.org.uk/welcome-grantium" target="_blank">Grantium guide</a> — **please read before applying to their emergency funds as you'll need to** 1. create a user account / 2. create an applicant profile / 3. wait to be validated (takes up to TEN days) / 4. take the eligibility questionnaire / 5. start your application.         
 • Arts Marketing Association (AMA)'s <a href="http://www.a-m-a.co.uk/coronavirus-covid-19-resources" target="_blank">resources page</a> — to support arts, culture + heritage professionals, organisations + freelancers.        
 • AMA also have a <a href="http://facebook.com/groups/AMACommunitySupport" target="_blank">Coronavirus Support Facebook Group</a> — for all arts, culture + heritage professionals who work to engage audiences.        
 • Arts Professional have a <a href="http://www.artsprofessional.co.uk/magazine/covidculture" target="_blank">CovidCulture microsite</a>  — news + info plus resources, ideas + virtual events that could help you through the days ahead.          
@@ -69,7 +69,6 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 ##### Opportunities         
 • Arts Fundraising & Philanthropy's <a href="http://artsfundraising.org.uk/networks-funding" target="_blank">programme of funding for virtual networks</a> to support the sector + bring arts fundraisers together.        
 • <a href="http://www.thespace.org/resource/culture-quarantine" target="_blank">Culture in Quarantine Fund</a> from The Space on behalf of ACE + BBC Arts — commissions to produce new works in creative media (*deadline 8 April, 5pm*).          
-• Disability arts online's <a href="http://disabilityarts.online/magazine/news/disability-arts-online-announces-new-commissions-for-disabled-artists" target="_blank">new commissions (*deadline 6 April*)</a>.         
 • Greater Manchester Combined Authority's Culture, Creative + Night Time Economy team are announcing how they can help orgs, artists + freelancers that *aren't* in their portfolio on twitter at <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>.        
 • Homotopia are <a href="http://homotopia.net/about/commissions" target="_blank">offering £250-£1,000 seed commissions to LGBTQIA artists</a> — to make imaginative new work, suitable for the current climate. 50% reserved for NW.           
 • Live Art Development Agency's <a href="http://www.thisisliveart.co.uk/opportunities/diy-2020-call-for-proposals" target="_blank">DIY 2020 opportunities</a> — professional development projects BY artists FOR artists (*deadline 9 April, 12noon*).        
