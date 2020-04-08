@@ -12,7 +12,7 @@ season: "Coronavirus News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 7 April 2020 at 15:00*        
+##### *Last updated on 8 April 2020 at 13:42*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer).            
@@ -23,7 +23,7 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 <hr>          
 #### Other things to see or do         
 As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to perfomance</a> becomes more sporadic in these unprecedented times, we're collating things to see online here:        
-**Until 10 April | <a href="http://facebook.com/events/3546308572110271" target="_blank">*Article 19 - UNCRPD* by Janet Charlesworth with Proud & Loud Arts</a>** — multimedia performance exploring the UN Convention on Rights for Persons living with Disability, screening on YouTube: <a href="http://youtu.be/8GyDaO4_0pU" target="_blank">Tue 7 Apr, 7-7.45pm</a> | <a href="http://youtu.be/rMyOeayO_G0" target="_blank">Wed 8 Apr, 1-1.45pm</a> | <a href="http://youtu.be/xd7SMC7yc68" target="_blank">Thu 9 Apr, 3-3.45pm</a> | <a href="http://youtu.be/SoRl4fJ8x7g" target="_blank">Fri 10 Apr, 8-8.45pm</a>        
+**Until 10 April | <a href="http://facebook.com/events/3546308572110271" target="_blank">*Article 19 - UNCRPD* by Janet Charlesworth with Proud & Loud Arts</a>** — multimedia performance exploring the UN Convention on Rights for Persons living with Disability, screening on YouTube: <a href="http://youtu.be/rMyOeayO_G0" target="_blank">Wed 8 Apr, 1-1.45pm</a> | <a href="http://youtu.be/xd7SMC7yc68" target="_blank">Thu 9 Apr, 3-3.45pm</a> | <a href="http://youtu.be/SoRl4fJ8x7g" target="_blank">Fri 10 Apr, 8-8.45pm</a>        
 **1-3 May | <a href="http://www.giftfestival.co.uk" target="_blank">Gateshead International Festival of Theatre (GIFT)</a>** — a digital programme of performance art + interactive events (tickets available from 10 April).       
 **Until 1 July | <a href="http://fueltheatre.com/projects/everyday-moments" target="_blank">*Everyday Moments* by Hofesh Schecter / Fuel</a>** — a podcast designed to be listened to alone in a dark space; an invitation to move without inhibition.        
 ##### Daily          
@@ -44,9 +44,11 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 **<a href="http://www.socialdistancingfestival.com" target="_blank">The Social Distancing Festival</a>** — live streamed global performance (regular updates).         
 <hr>          
 #### Help for artists + our community         
-[hÅb](/hab) remains "open for business" and we'll continue to advise/support artists + freelancers in our sector where we can:       
+[hÅb](/hab) remains "open for business" and we'll continue to advise/support artists + freelancers in our sector where we can. With partners† across the city region we're supporting independent artists + freelance creatives through the new <a href="http://www.gm-artisthub.co.uk" target="_blank">Greater Manchester Artist Hub</a>.           
+† *GMAH is a joint artist development project by: Community Arts Northwest, Contact, [hÅb](/hab)/[Word of Warning](/), HOME, Manchester International Festival, Octagon Theatre Bolton, Oldham Coliseum Theatre, Royal Exchange Theatre, SICK! Festival, Sustained Theatre Up North, The Lowry, Waterside Arts & Creative Industries Trafford, Z-arts.*        
 ##### Advice/guidance/support         
 • Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Covid-19 support page</a> — advice, guidance + emergency funding for <a href="http://www.artscouncil.org.uk/funding/financial-support-artists-creative-practitioners-and-freelancers" target="_blank">individuals</a> + <a href="http://www.artscouncil.org.uk/funding/financial-support-organisations-outside-national-portfolio" target="_blank">organisations</a> (*round one 9-16 April / round two 16-30 April*).         
+• [hÅb](/hab) is <a href="http://www.gm-artisthub.co.uk/advisory-sessions" target="_blank">hosting two sessions on zoom with GMAH</a> to talk about about the funds</a>:<br>Thu 9 Apr, 4pm-6pm | ACE Emergency Fund: first looks + Grantium 101<br>Tue 14 Apr, 12noon-2pm | ACE Emergency Fund: what do we know?<br>Register on the <a href="http://www.gm-artisthub.co.uk/advisory-sessions" target="_blank">GMAH Advisory Sessions page</a>.           
 • Arts Council England's <a href="http://artscouncil.org.uk/welcome-grantium" target="_blank">Grantium guide</a> — **please read before applying to their emergency funds as you'll need to:** 1. create a user account / 2. create an applicant profile / 3. wait to be validated (takes up to TEN days) / 4. take the eligibility questionnaire / 5. start your application.         
 • Arts Marketing Association (AMA)'s <a href="http://www.a-m-a.co.uk/coronavirus-covid-19-resources" target="_blank">resources page</a> — to support arts, culture + heritage professionals, organisations + freelancers.        
 • AMA also have a <a href="http://facebook.com/groups/AMACommunitySupport" target="_blank">Coronavirus Support Facebook Group</a> — for all arts, culture + heritage professionals who work to engage audiences.        
@@ -70,6 +72,7 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 • Arts Fundraising & Philanthropy's <a href="http://artsfundraising.org.uk/networks-funding" target="_blank">programme of funding for virtual networks</a> to support the sector + bring arts fundraisers together.        
 • <a href="http://www.thespace.org/resource/culture-quarantine" target="_blank">Culture in Quarantine Fund</a> from The Space on behalf of ACE + BBC Arts — commissions to produce new works in creative media (*deadline 8 April, 5pm*).          
 • Greater Manchester Combined Authority's Culture, Creative + Night Time Economy team are announcing how they can help orgs, artists + freelancers that *aren't* in their portfolio on twitter at <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>.        
+• HOME's Homemakers Open Call <a href="http://homemcr.org/opportunity/homemakers-open-call" target="_blank">offers three £1,000 commissions</a> — for NW-based theatre or live art-makers to create work at home, for an audience who are also at home.       
 • Homotopia are <a href="http://homotopia.net/about/commissions" target="_blank">offering £250-£1,000 seed commissions to LGBTQIA artists</a> — to make imaginative new work, suitable for the current climate. 50% reserved for NW.           
 • Live Art Development Agency's <a href="http://www.thisisliveart.co.uk/opportunities/diy-2020-call-for-proposals" target="_blank">DIY 2020 opportunities</a> — professional development projects BY artists FOR artists (*deadline 9 April, 12noon*).        
 • <a href="http://livestreamarchive.co.uk/contact" target="_blank">Live Stream Archive</a> — share a recording of a performance to add to their temporary digital archive.        
