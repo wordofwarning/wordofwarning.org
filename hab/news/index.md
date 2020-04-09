@@ -21,9 +21,5 @@ Upcoming artist opportunities from hÅb are published below when we have them; y
 <hr>        
          
 ### News + Upcoming Opportunities        
-         
-**Live Art in the public realm** — working with Compass Live Art, we are partners for one of Live Art Development Agency's <a href="http://www.thisisliveart.co.uk/opportunities/diy-2020-call-for-proposals" target="_blank">DIY 2020</a> opportunities.         
-         
-<a href="http://compassliveart.org.uk/" target="_blank">Compass Live Art</a> + [hÅb](/hab) would like to support a DIY concerned with artists working in the public realm + socially engaged practice. Compass has been commissioning artists to make live interactive projects with communities + groups since 2011, and hosting them in public spaces around Leeds. Among the many initiatives created by hÅb is [Hazard](/hab/hazard) which has been intervening in Manchester City Centre since 2007. While this DIY would not have to take place in the public realm, we'd like to see proposals that are issue-led, socially engaged + exploring a response to their environment. We expect it will be hosted in Leeds.        
-        
-Please read the <a href=" http://www.thisisliveart.co.uk/opportunities/frequently-asked-diy-questions" target="_blank">DIY FAQs</a> before applying + contact Annie Lloyd at CLA on <mailto:alloyd50@gmail.com> if you'd like to know more.<br>EXTENDED application deadline: 12noon, Thu 9 April (was Thu 26 March).
+Please visit our [regularly updating Coronavirus Information page](/coronavirus) includes advice/guidance/support/opportunities.        
+Please note that the deadline has now passed for <a href="http://www.thisisliveart.co.uk/opportunities/diy-2020-call-for-proposals" target="_blank">DIY 2020</a>.
