@@ -12,7 +12,7 @@ season: "Coronavirus News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 9 April 2020 at 11:52*        
+##### *Last updated on 9 April 2020 at 16:37*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer).            
@@ -23,7 +23,7 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 <hr>          
 #### Other things to see or do         
 As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to perfomance</a> becomes more sporadic in these unprecedented times, we're collating things to see online here:        
-**Until 10 April | <a href="http://facebook.com/events/3546308572110271" target="_blank">*Article 19 - UNCRPD* by Janet Charlesworth with Proud & Loud Arts</a>** — multimedia performance exploring the UN Convention on Rights for Persons living with Disability, screening on YouTube: <a href="http://youtu.be/xd7SMC7yc68" target="_blank">Thu 9 Apr, 3-3.45pm</a> | <a href="http://youtu.be/SoRl4fJ8x7g" target="_blank">Fri 10 Apr, 8-8.45pm</a>        
+**Until 10 April | <a href="http://facebook.com/events/3546308572110271" target="_blank">*Article 19 - UNCRPD* by Janet Charlesworth with Proud & Loud Arts</a>** — multimedia performance exploring the UN Convention on Rights for Persons living with Disability, this week's final screening on YouTube is <a href="http://youtu.be/SoRl4fJ8x7g" target="_blank">Fri 10 Apr, 8-8.45pm</a>        
 **1-3 May | <a href="http://www.giftfestival.co.uk" target="_blank">Gateshead International Festival of Theatre (GIFT)</a>** — a digital programme of performance art + interactive events (tickets available from 10 April).       
 **Until 1 July | <a href="http://fueltheatre.com/projects/everyday-moments" target="_blank">*Everyday Moments* by Hofesh Schecter / Fuel</a>** — a podcast designed to be listened to alone in a dark space; an invitation to move without inhibition.        
 ##### Daily          
@@ -62,7 +62,7 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 • <a href="http://www.moneysavingexpert.com/news" target="_blank">Money Saving Expert (aka Martin Lewis)</a> has lots of useful information (regular updates).           
 • Paul Lewis Money's <a href="http://paullewismoney.blogspot.com/2020/03/self-employed-coronavirus-scheme.html" target="_blank">blog on the coronavirus Self-employment Income Scheme (regular updates)</a>.        
 • Supercool's blog on <a href="http://supercooldesign.co.uk/blog/keeping-it-live" target="_blank">quick routes to live-streaming</a> .        
-• The Centre for the Study of Media + Culture in Small Nations blog on <a href="http://culture.research.southwales.ac.uk/news-and-events/news/online-theatre-covid-19/" target="_blank">making social-distancing live theatre + performance during the COVID-19 lockdown</a>.         
+• The Centre for the Study of Media + Culture in Small Nations blog on <a href="http://culture.research.southwales.ac.uk/news-and-events/news/online-theatre-covid-19" target="_blank">making social-distancing live theatre + performance during the COVID-19 lockdown</a>.         
 • The Space's <a href="http://www.thespace.org/resource/live-streaming-arts-lo-fi-and-low-cost-options" target="_blank">guide to live streaming for the arts by Jason Crouch</a> — lo-fi and low cost options.        
 • <a href="http://theatresupport.info" target="_blank">Theatre Support Information</a> from UK Theatre + SOLT — advice/info about how + where you can access support from leading theatrical charities.        
 • Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">resources for disabled artists + freelancers page</a>.        
@@ -73,4 +73,4 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 • Homotopia <a href="http://homotopia.net/about/commissions" target="_blank">offering £250-£1,000 seed commissions to LGBTQIA artists</a> — to make imaginative new work suitable for the current climate; 50% reserved for NW (*d/l 22 April*).           
 • <a href="http://livestreamarchive.co.uk/contact" target="_blank">Live Stream Archive</a> — share a recording of a performance to add to their temporary digital archive.        
 • MIF are repurposing some of their artist development funds to <a href="http://mif.co.uk/creatives_call_out" target="_blank">offer opportunities to GM-based artists + creatives</a> (*d/l end of April*).      
-• Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">resources for disabled artists + freelancers page</a> includes an opportunities section.    
+• Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">resources for disabled artists + freelancers page</a> includes an opportunities section.
