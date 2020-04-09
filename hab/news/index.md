@@ -21,5 +21,6 @@ Upcoming artist opportunities from hÅb are published below when we have them; y
 <hr>        
          
 ### News + Upcoming Opportunities        
-Please visit our [regularly updating Coronavirus Information page](/coronavirus) includes advice/guidance/support/opportunities.        
+In these unprecedented times, our regularly updating [Coronavirus News + Information page](/coronavirus) includes help for artists + our community: advice / guidance / support / opportunities.         
+         
 Please note that the deadline has now passed for <a href="http://www.thisisliveart.co.uk/opportunities/diy-2020-call-for-proposals" target="_blank">DIY 2020</a>.
