@@ -12,7 +12,7 @@ season: "Coronavirus News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 8 April 2020 at 14:28*        
+##### *Last updated on 9 April 2020 at 11:52*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer).            
@@ -67,13 +67,10 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 • <a href="http://theatresupport.info" target="_blank">Theatre Support Information</a> from UK Theatre + SOLT — advice/info about how + where you can access support from leading theatrical charities.        
 • Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">resources for disabled artists + freelancers page</a>.        
 ##### Opportunities         
-• Arts Fundraising & Philanthropy's <a href="http://artsfundraising.org.uk/networks-funding" target="_blank">programme of funding for virtual networks</a> to support the sector + bring arts fundraisers together.        
-• <a href="http://www.thespace.org/resource/culture-quarantine" target="_blank">Culture in Quarantine Fund</a> from The Space on behalf of ACE + BBC Arts — commissions to produce new works in creative media (*deadline 8 April, 5pm*).          
-• Greater Manchester Combined Authority's Culture, Creative + Night Time Economy team are announcing how they can help orgs, artists + freelancers that *aren't* in their portfolio on twitter at <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>.        
-• HOME's Homemakers Open Call <a href="http://homemcr.org/opportunity/homemakers-open-call" target="_blank">offers three £1,000 commissions</a> — for NW-based theatre or live art-makers to create work at home, for an audience who are also at home.       
-• Homotopia are <a href="http://homotopia.net/about/commissions" target="_blank">offering £250-£1,000 seed commissions to LGBTQIA artists</a> — to make imaginative new work, suitable for the current climate. 50% reserved for NW.           
-• Live Art Development Agency's <a href="http://www.thisisliveart.co.uk/opportunities/diy-2020-call-for-proposals" target="_blank">DIY 2020 opportunities</a> — professional development projects BY artists FOR artists (*deadline 9 April, 12noon*).        
+• Arts Fundraising & Philanthropy's <a href="http://artsfundraising.org.uk/networks-funding" target="_blank">programme of funding for virtual networks</a> to support the sector + bring arts fundraisers together (*d/l 14 April*).        
+• Greater Mcr Combined Authority's Culture team announce opportunities to help artists, freelancers + organisations that *aren't* in their portfolio at <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>.        
+• HOME's Homemakers Open Call <a href="http://homemcr.org/opportunity/homemakers-open-call" target="_blank">offers three £1,000 commissions</a> — for NW-based theatre or live art-makers to create work at home, for an audience who are also at home (*d/l 20 April*).       
+• Homotopia <a href="http://homotopia.net/about/commissions" target="_blank">offering £250-£1,000 seed commissions to LGBTQIA artists</a> — to make imaginative new work suitable for the current climate; 50% reserved for NW (*d/l 22 April*).           
 • <a href="http://livestreamarchive.co.uk/contact" target="_blank">Live Stream Archive</a> — share a recording of a performance to add to their temporary digital archive.        
-• MIF are repurposing some of their artist development funds to <a href="http://mif.co.uk/creatives_call_out" target="_blank">offer opportunities to GM-based artists + creatives</a>.      
-• Scottee & Friends' Room to Respond — <a href="http://www.scottee.co.uk/single-post/2020/03/20/Room-to-Respond-2020" target="_blank">various paid opportunities</a>: Producer Mentoring Sessions | Artist Mentoring Sessions | Home Video/Creative Response.            
+• MIF are repurposing some of their artist development funds to <a href="http://mif.co.uk/creatives_call_out" target="_blank">offer opportunities to GM-based artists + creatives</a> (*d/l end of April*).      
 • Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">resources for disabled artists + freelancers page</a> includes an opportunities section.    
