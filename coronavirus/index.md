@@ -12,7 +12,7 @@ season: "Coronavirus News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 14 April 2020 at 15:26*        
+##### *Last updated on 14 April 2020 at 15:33*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer).            
@@ -71,6 +71,7 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 • Greater Mcr Combined Authority's Culture team announce opportunities to help artists, freelancers + organisations that *aren't* in their portfolio at <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>.        
 • HOME's Homemakers Open Call <a href="http://homemcr.org/opportunity/homemakers-open-call" target="_blank">offers three £1,000 commissions</a> — for NW-based theatre or live art-makers to create work at home, for an audience who are also at home (*d/l 20 April*).       
 • Homotopia <a href="http://homotopia.net/about/commissions" target="_blank">offering £250-£1,000 seed commissions to LGBTQIA artists</a> — to make imaginative new work suitable for the current climate; 50% reserved for NW (*d/l 22 April*).           
+• Live Art Development Agency <a href="http://homotopia.net/about/commissions" target="_blank">offering two online, home-based collaborative residencies (£1,000 each)</a> — the first of a series of commissions they'll be offering over the coming weeks (*d/l 27 April*).           
 • <a href="http://livestreamarchive.co.uk/contact" target="_blank">Live Stream Archive</a> — share a recording of a performance to add to their temporary digital archive.        
 • MIF are repurposing some of their artist development funds to <a href="http://mif.co.uk/creatives_call_out" target="_blank">offer opportunities to GM-based artists + creatives</a> (*d/l end of April*).      
 • Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">resources for disabled artists + freelancers page</a> includes an opportunities section.
