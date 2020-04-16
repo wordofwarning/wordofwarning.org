@@ -6,7 +6,7 @@ is_index: true
 season: "Spr20"
 
 ---
-**Please see our [Coronavirus Information page](/coronavirus) for updates.**            
+**In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's measures</a>, we're working with partners + host venues to make appropriate changes to our Spring 2020 Performance Programme — please see our [Coronavirus News + Information page](/coronavirus) for updates.**         
         
 <hr>        
         
