@@ -9,7 +9,7 @@ show: "<br>&nbsp;Oreo" # the name of the show
 artist_size: 2
 show_size: 1
 header_image: "header_tania.jpg"    
-season: "Tania Camara 23|4|2020"
+season: "Tania Camara 1|5|2020"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,7 +17,7 @@ season: "Tania Camara 23|4|2020"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Further information to follow; tickets are no longer available.**           
+**RESCHEDULED to take place ONLINE — details to follow (*Oreo* was due to take place 23+24 April at STUN Studio).**           
         
 <hr>        
         
