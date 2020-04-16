@@ -12,13 +12,13 @@ season: "Coronavirus News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 16 April 2020 at 15:26*        
+##### *Last updated on 16 April 2020 at 15:50*        
 <hr>          
 #### Word of Warning things to see         
-In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer).            
-**19-21 March | [*IDOL* by Jamal Gerald](/current/2020-springsummer/gerald) was CANCELLED** — <a href="http://www.royalexchange.co.uk/the-royal-exchange-theatre-suspension-of-activity-from-5pm-on-tuesday-17-march" target="_blank">Royal Exchange Theatre will be in touch with ticket holders asap</a>, please don't call their box office.          
-**1 April | [*We Are Fucked* by Jo Bannon](/current/2020-springsummer/bannon) was CANCELLED** — <a href="http://thelowry.com/coronavirus" target="_blank">The Lowry will be in touch asap if you donated when you booked a ticket</a>, please bear with them.         
-**1 May | [*Oreo* by Tania Camara](/current/2020-springsummer/camara) is RESCHEDULED to take place ONLINE** — details to follow (*Oreo* was due to take place 23+24 April in STUN Studio at Z-arts).       
+In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer):            
+**19-21 March | [*IDOL* by Jamal Gerald](/current/2020-springsummer/gerald) was CANCELLED** — <a href="http://www.royalexchange.co.uk/the-royal-exchange-theatre-suspension-of-activity-from-5pm-on-tuesday-17-march" target="_blank">Royal Exchange Theatre will be in touch with ticket holders asap</a>, please don't call their box office;          
+**1 April | [*We Are Fucked* by Jo Bannon](/current/2020-springsummer/bannon) was CANCELLED** — <a href="http://thelowry.com/coronavirus" target="_blank">The Lowry will be in touch asap if you donated when you booked a ticket</a>, please bear with them;         
+**1 May | [*Oreo* by Tania Camara](/current/2020-springsummer/camara) is RESCHEDULED to take place ONLINE** — details to follow (*Oreo* was due to take place 23+24 April in STUN Studio at Z-arts);       
 **21+22 May | [Works Ahead from Will Dickie + Ross McCaffrey](/current/2020-worksahead)** — further information to follow.        
 <hr>          
 #### Other things to see or do         
@@ -36,6 +36,7 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 **<a href="http://exeuntmagazine.com/features/covid-19-resources-uk-theatre-freelancers" target="_blank">Exeunt Magazine's resources</a>** — includes "Where to watch theatre for free online" (regular updates).        
 **<a href="http://vimeo.com/395350772" target="_blank">Fierce Festival 2019 The Movie</a>** — highlights from the 2019 edition; Fierce also have some <a href="http://wearefierce.org/fierces-lockdown-viewing" target="_blank">Lockdown Viewing Tips</a>.        
 **<a href="http://homemcr.org/article/great-theatre-you-can-watch-at-home" target="_blank">HOME's Great theatre you can watch at home</a>** — things to watch online for free (regular updates).  
+**<a href="http://www.imitatingthedog.co.uk/watch" target="_blank">imitating the dog's watch page</a>** — fortnightly opportunities to see some of their previous show recordings online.         
 **<a href="http://livestreamarchive.co.uk/archive" target="_blank">Live Stream Archive</a>** — a temporary digital archive of small-scale theatre + performance works (regular updates).        
 **<a href="http://mif.co.uk/mif-launches-mif-live" target="_blank">MIF Live</a>** — free livestreams, discussions + archive broadcasts from Manchester International Festival (weekly updates).        
 **<a href="http://nrla30.com" target="_blank">NRLA30</a>** — performances + recollections from the 30th National Review of Live Art.         
