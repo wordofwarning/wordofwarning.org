@@ -12,13 +12,13 @@ season: "Coronavirus News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 16 April 2020 at 12:07*        
+##### *Last updated on 16 April 2020 at 14:27*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's latest measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer).            
 **19-21 March | [*IDOL* by Jamal Gerald](/current/2020-springsummer/gerald) was CANCELLED** — <a href="http://www.royalexchange.co.uk/the-royal-exchange-theatre-suspension-of-activity-from-5pm-on-tuesday-17-march" target="_blank">Royal Exchange Theatre will be in touch with ticket holders asap</a>, please don't call their box office.          
 **1 April | [*We Are Fucked* by Jo Bannon](/current/2020-springsummer/bannon) was CANCELLED** — <a href="http://thelowry.com/coronavirus" target="_blank">The Lowry will be in touch asap if you donated when you booked a ticket</a>, please bear with them.         
-**23+24 April | [*Oreo* by Tania Camara](/current/2020-springsummer/camara)** — further information to follow; tickets are no longer available.       
+**1 May | [*Oreo* by Tania Camara](/current/2020-springsummer/camara) is RE-SCHEDULED + will happen ONLINE** — further information to follow; *Oreo* was due to take place 23+24 April at STUN.       
 **21+22 May | [Works Ahead from Will Dickie + Ross McCaffrey](/current/2020-worksahead)** — further information to follow.        
 <hr>          
 #### Other things to see or do         
