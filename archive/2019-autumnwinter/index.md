@@ -3,7 +3,7 @@
 layout: 2019-autumnwinter
 rootpath: "../../"
 is_index: true
-season: "AW19"
+season: "A/W 2019"
 
 ---
 *From a [twentieth marathon event](/archive/2019-emergency) to a [fourteen event marathon](/archive/2019-autumnwinter/hendry); a feat of [prestidigitation](/archive/2019-autumnwinter/cassani) to a [radical ritual for resistance](/archive/2019-autumnwinter/athey)… Autumn/Winter 2019 is a season of contrasts, controversy, and celebration. To keep in touch, <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.*               
