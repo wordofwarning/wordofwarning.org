@@ -17,7 +17,7 @@ season: "Tania Camara 1|5|2020"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**RESCHEDULED to take place ONLINE — details to follow (*Oreo* was due to take place 23+24 April at STUN Studio).**           
+**RESCHEDULED to take place ONLINE — details to follow.<br>(Was due to take place 23+24 April in STUN Studio at Z-arts.)**           
         
 <hr>        
         
@@ -27,14 +27,11 @@ season: "Tania Camara 1|5|2020"
 *Oreo, coconut, Bounty Bar* — micro-aggressions used to disempower a black person deemed to be 'acting white'. Donning a camouflage of Oreo-filling, Tania explores the masks we wear to put our heads above the parapet in a climate of systemic racism.          
         
 #### Venue + Booking Details           
-**Details are TBC**        
-Dates: Thursday 23 + Friday 24 April 2020, 7.30pm        
-Venue: STUN Studio at <a href="http://www.z-arts.org/home/your-visit-to-z-arts/getting-here" target="_blank">Z-arts</a>, 335 Stretford Rd, Hulme, Manchester, M15 5ZA         
-Tickets: <a href="http://www.z-arts.org/events/oreo/" target="_blank">£7/4 from Z-arts</a> — no longer available whilst we await further information.         
-Box Office tel: 0161 232 6089 (Z-arts)           
+Date: Friday 1 May 2020, Evening (*time tbc*)        
+Venue: taking place online (*details tbc*)         
           
 #### Access Information        
-Age Advisory: 16+ (parental/guardian discretion).<br>Warnings: for specific content warnings please click [here](/warnings).<br>Duration: approximately 1 hour (no interval).<br>Features: spoken Creole, English + Portuguese, choreographed movement, and projected film.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org>.         
+Age Advisory: 16+ (parental/guardian discretion).<br>Warnings: for specific content warnings please click [here](/warnings).<br>Duration: *to be confirmed*.<br>Features: spoken Creole, English + Portuguese, choreographed movement, and projected film.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org>.         
              
 #### More         
 A semi-autobiographical solo about being a successfully educated black woman within western society, *Oreo* interrogates racial micro-aggressions and their effect on mental health within private and public personas — focusing on public figures such as British MP <a href="http://en.wikipedia.org/wiki/Diane_Abbott" target="_blank">Diane Abbott</a> + Portuguese politician <a href="http://en.wikipedia.org/wiki/Joacine_Katar_Moreira" target="_blank">Joacine Katar Moreira</a>.<br><br>Exploring the racial term 'Oreo' in relation to experiences of episodic racism within higher education and employment, Tania challenges the notion of whitening her physical and phenomenal self to achieve success in society, asking you to open-up and join-in to celebrate a moment of freedom, a moment of clarity.       
