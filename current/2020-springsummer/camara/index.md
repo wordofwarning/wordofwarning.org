@@ -23,8 +23,8 @@ season: "Tania Camara 1|5|2020"
 *Oreo, coconut, Bounty Bar* — micro-aggressions used to disempower a black person deemed to be 'acting white'. Donning a camouflage of Oreo-filling, Tania explores the masks we wear to put our heads above the parapet in a climate of systemic racism.          
         
 #### Venue + Booking Details           
-Date: Friday 1 May 2020, Evening (*start time tbc*).<br>&nbsp;NB *Oreo* was due to take place 23+24 April in STUN Studio at Z-arts.        
-Venue: taking place online — details to follow.         
+Date: Friday 1 May 2020, Evening — *start time tbc*.<br>&nbsp;(N.B. *Oreo* was due to take place 23+24 April in STUN Studio at Z-arts.)        
+Venue: taking place online — *details tbc*.         
           
 #### Access Information        
 Age Advisory: 16+ (parental/guardian discretion).<br>Warnings: for specific content warnings please click [here](/warnings).<br>Duration: *to be confirmed*.<br>Features: spoken Creole, English + Portuguese, choreographed movement, and projected film.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org>.         
