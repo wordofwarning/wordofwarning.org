@@ -17,18 +17,14 @@ season: "Tania Camara 1|5|2020"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**RESCHEDULED to take place ONLINE — details to follow (*Oreo* was due to take place 23+24 April in STUN Studio at Z-arts).**           
-        
-<hr>        
-        
 *Presented by* STUN *+* Word of Warning       
          
 #### In Brief      
 *Oreo, coconut, Bounty Bar* — micro-aggressions used to disempower a black person deemed to be 'acting white'. Donning a camouflage of Oreo-filling, Tania explores the masks we wear to put our heads above the parapet in a climate of systemic racism.          
         
 #### Venue + Booking Details           
-Date: Friday 1 May 2020, Evening (*start time tbc*).        
-Venue: taking place online (*details tbc*).         
+Date: Friday 1 May 2020, Evening (*start time tbc*).<br>&nbsp;NB *Oreo* was due to take place 23+24 April in STUN Studio at Z-arts.        
+Venue: taking place online — details to follow.         
           
 #### Access Information        
 Age Advisory: 16+ (parental/guardian discretion).<br>Warnings: for specific content warnings please click [here](/warnings).<br>Duration: *to be confirmed*.<br>Features: spoken Creole, English + Portuguese, choreographed movement, and projected film.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org>.         
@@ -45,7 +41,7 @@ Tania is a member of <a href="http://thelowry.com/about-us/artist-development/cl
 >★★★★ *A tour de force of a performance …utterly compelling.*<br>&nbsp;— <a href="http://www.thegrouchycritic.com/oreo-review" target="_blank">The Grouchy Critic</a><br>*Captivating and thought provoking. Food for thought.*<br>&nbsp;— <a href="http://number9reviews.blogspot.com/2020/01/theatre-review-oreo-home-manchester.html" target="_blank">Number 9 Reviews</a>         
          
 #### Credits          
-Creator + Performer: Tania Camara | Creative Producer: Molly Scarborough | Dance Mentor: Pape Ibrahima N'diaye (aka Kaolack) | Lighting Designer: Kamini Patel | Image of *Me, myself and my Oreos* from SPILL Festival of Performance 2016 by Guido Mencari.<br><br>Commissioned by STUN (Sustained Theatre Up North), developed with the support of HOME + [Divergency](/hab/divergencymcr). Supported using public funding from the National Lottery through Arts Council England.           
+Creator, Performer, Producer: Tania Camara | Dance Mentor: Pape Ibrahima N'diaye (aka Kaolack) | Original Lighting Designer: Kamini Patel | Image of *Me, myself and my Oreos* from SPILL Festival of Performance 2016 by Guido Mencari.<br><br>Commissioned by STUN (Sustained Theatre Up North), developed with the support of HOME + [Divergency](/hab/divergencymcr). Supported using public funding from the National Lottery through Arts Council England.           
         
 #### Website + Social Media           
-<a href="http://taniacamara.com" target="_blank">taniacamara.com</a> | <a href="http://twitter.com/TaniaCamara2" target="_blank">@TaniaCamara2</a> | <a href="http://www.facebook.com/TaniaCamara.Performance.Artist/" target="_blank">Tania Camara on facebook</a>
+<a href="http://taniacamara.com" target="_blank">taniacamara.com</a> | <a href="http://twitter.com/TaniaCamara2" target="_blank">@TaniaCamara2</a> | <a href="http://www.facebook.com/TaniaCamara.Performance.Artist" target="_blank">Tania Camara on facebook</a>
