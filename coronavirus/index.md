@@ -12,7 +12,7 @@ season: "Coronavirus News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 17 April 2020 at 14:12*        
+##### *Last updated on 20 April 2020 at 12:50*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer):            
@@ -23,8 +23,9 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 <hr>          
 #### Other things to see or do         
 As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to perfomance</a> becomes more sporadic in these unprecedented times, we're collating things to see online here:        
-**1-3 May | <a href="http://www.giftfestival.co.uk" target="_blank">Gateshead International Festival of Theatre (GIFT)</a>** — a digital programme of performance art + interactive events (tickets available from 10 April).       
-**Until 1 July | <a href="http://fueltheatre.com/projects/everyday-moments" target="_blank">*Everyday Moments* by Hofesh Schecter / Fuel</a>** — a podcast designed to be listened to alone in a dark space; an invitation to move without inhibition.        
+**23 Apr, 2pm | <a href="http://www.eventbrite.co.uk/e/susan-darren-screening-live-discussion-tickets-102971977958" target="_blank">Susan & Darren by Quarantine</a>** — screening of the 2006 performance with live discussion between creative team + performers.        
+**1-3 May | <a href="http://www.giftfestival.co.uk" target="_blank">Gateshead International Festival of Theatre (GIFT)</a>** — digital programme of performance art + interactive events (ticketed).       
+**Until 1 July | <a href="http://fueltheatre.com/projects/everyday-moments" target="_blank">*Everyday Moments* by Hofesh Schecter / Fuel</a>** — podcast designed to be listened to alone in a dark space; an invitation to move without inhibition.        
 ##### Daily          
 **<a href="http://facebook.com/pg/companychameleon/videos" target="_blank">*#IsolationImprovs*</a> by <a href="http://www.companychameleon.com/2020/03/reimagine-your-living-room-through-dance" target="_blank">Company Chameleon</a>** — daily invites to get moving, think creatively + reimagine your living room through dance.         
 **<a href="http://instagram.com/maternal_matters_40_6" target="_blank">*Maternal Matters Lent 40 (+6)*</a> by <a href="http://www.krissimusiol.com/lent-40-plus-6" target="_blank">Krissi Musiol</a>** — 46 daily domestic interventions on Instagram.         
@@ -71,7 +72,7 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 • Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">resources for disabled artists + freelancers page</a>.        
 ##### Opportunities         
 • Greater Mcr Combined Authority's Culture team announce opportunities to help artists, freelancers + organisations that *aren't* in their portfolio at <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>.        
-• HOME's Homemakers Open Call <a href="http://homemcr.org/opportunity/homemakers-open-call" target="_blank">offers three £1,000 commissions</a> — for NW-based theatre or live art-makers to create work at home, for an audience who are also at home (*d/l 20 April*).       
+• HOME's Homemakers Open Call <a href="http://homemcr.org/opportunity/homemakers-open-call" target="_blank">offers three £1,000 commissions</a> — for NW-based theatre or live art-makers to create work at home, for an audience who are also at home (*d/l 20 April at 5pm*).       
 • Homotopia <a href="http://homotopia.net/about/commissions" target="_blank">offer £250-£1,000 seed commissions to LGBTQIA artists</a> — to make imaginative new work suitable for the current climate; 50% reserved for NW (*d/l 22 April*).           
 • Live Art Development Agency <a href="http://www.thisisliveart.co.uk/opportunities/two-online-home-based-collaborative-residencies-call-for-proposals" target="_blank">offer two online, home-based collaborative residencies (£1,000 each)</a> — the first of a series of commissions they'll be offering over the coming weeks (*d/l 27 April*).           
 • <a href="http://livestreamarchive.co.uk/contact" target="_blank">Live Stream Archive</a> — share a recording of a performance to add to their temporary digital archive.        
