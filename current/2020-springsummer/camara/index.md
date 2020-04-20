@@ -9,7 +9,7 @@ show: "<br>&nbsp;Oreo: variations" # the name of the show
 artist_size: 2
 show_size: 2
 header_image: "header_tania.jpg"    
-season: "Tania Camara 1|5|2020"
+season: "Tania Camara 1|5|2020, 7pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -18,17 +18,18 @@ season: "Tania Camara 1|5|2020"
 
 ---
 *Presented by* STUN *+* Word of Warning       
-Jump to: [Summary](/current/2020-springsummer/camara/#summary) | [Location](/current/2020-springsummer/camara/#location) | [Access](/current/2020-springsummer/camara/#access) | [More](/current/2020-springsummer/camara/#more) | [Biography](/current/2020-springsummer/camara/#biography) | [Quotes](/current/2020-springsummer/camara/#quotes) | [Credits](/current/2020-springsummer/camara/#credits) | [Websites](/current/2020-springsummer/camara/#websites)        
+         
+<span style='font-variant: small-caps'>Jump to: [Summary](/current/2020-springsummer/camara/#summary), [Location](/current/2020-springsummer/camara/#location), [Access](/current/2020-springsummer/camara/#access), [More](/current/2020-springsummer/camara/#more), [Biography](/current/2020-springsummer/camara/#biography), [Quotes](/current/2020-springsummer/camara/#quotes), [Credits](/current/2020-springsummer/camara/#credits), [Websites](/current/2020-springsummer/camara/#websites)</span>       
         
 #### Summary       
 A choreographic development for streaming. Donning a camouflage of Oreo-filling, Tania explores the masks we wear to put our heads above the parapet in a climate of systemic racism.          
         
 #### Location           
 When: Friday 1 May 2020, 7pm.<br>&nbsp;(N.B. *Oreo* was due to take place 23+24 April in STUN Studio at Z-arts.)        
-Where: online via our Facebook <a href="http://facebook.com/warnmcr" target="_blank">(/warnmcr)</a>, Twitter <a href="http://twitter.com/warnmcr" target="_blank">(@WarnMcr)</a> and YouTube (*details tbc*) channels.         
+Where: online via our <a href="http://facebook.com/warnmcr" target="_blank">Facebook</a>, <a href="http://twitter.com/warnmcr" target="_blank">Twitter</a>, YouTube (*tbc*) channels.         
           
 #### Access         
-Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: please click [here](/warnings).<br>Duration: *approximately* 30 minutes.<br>Features: spoken Creole, English + Portuguese, choreographed movement, and projected film.<br>For specific age + access information please get in touch by email: <mailto:info@habmcr.org>.         
+Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: please click [here](/warnings).<br>Duration: *approximately* 30 minutes.<br>Features: spoken Creole, English + Portuguese, and choreographed movement.<br>For specific age + access information please get in touch by emailing <mailto:info@habmcr.org>.         
              
 #### More         
 *Oreo, coconut, Bounty Bar* — micro-aggressions used to disempower a black person deemed to be 'acting white'.<br><br>A semi-autobiographical solo about being a successfully educated black woman within western society, *Oreo: variations* interrogates racial micro-aggressions and their effect on mental health within private and public personas — focusing on public figures such as British MP <a href="http://en.wikipedia.org/wiki/Diane_Abbott" target="_blank">Diane Abbott</a> + Portuguese politician <a href="http://en.wikipedia.org/wiki/Joacine_Katar_Moreira" target="_blank">Joacine Katar Moreira</a>.<br><br>Exploring the racial term 'Oreo' in relation to experiences of episodic racism within higher education and employment, Tania challenges the notion of whitening her physical and phenomenal self to achieve success in society, asking you to open-up and join-in to celebrate a moment of freedom, a moment of clarity.       
