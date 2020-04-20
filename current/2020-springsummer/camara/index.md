@@ -17,12 +17,12 @@ season: "Tania Camara 1|5|2020, 7pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* STUN *+* Word of Warning       
-         
 <span style='font-variant: small-caps'>jump to: [summary](/current/2020-springsummer/camara/#summary) [location](/current/2020-springsummer/camara/#location) [access](/current/2020-springsummer/camara/#access) [more](/current/2020-springsummer/camara/#more) [biography](/current/2020-springsummer/camara/#biography) [quotes](/current/2020-springsummer/camara/#quotes) [credits](/current/2020-springsummer/camara/#credits) [websites](/current/2020-springsummer/camara/#websites)</span>       
         
+*Presented by* STUN *+* Word of Warning        
+         
 #### Summary       
-A choreographic development for streaming.<br>Donning a camouflage of Oreo-filling, Tania explores the masks we wear to put our heads above the parapet in a climate of systemic racism.          
+A choreographic development for streaming. Donning a camouflage of Oreo-filling, Tania explores the masks we wear to put our heads above the parapet in a climate of systemic racism.          
         
 #### Location           
 When: Friday 1 May 2020, 7pm.<br>&nbsp;(N.B. Rescheduled from 23+24 April in STUN Studio at Z-arts.)        
