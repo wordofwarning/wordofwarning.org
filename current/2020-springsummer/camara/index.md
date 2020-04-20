@@ -43,5 +43,7 @@ A Manchester-based solo performance artist, Tania Camara works across devised th
 #### Credits          
 Creator, Performer, Producer: Tania Camara | Dance Mentor: Pape Ibrahima N'diaye (a.k.a. Kaolack) | Live Stream Producer: Ricardo Vilela at <a href="http://www.sagittamedia.co.uk/site2" target="_blank">Sagitta Media</a><br><br>Original Lighting Designer: Kamini Patel | Image of *Me, myself and my Oreos* from SPILL Festival of Performance 2016 by Guido Mencari.<br><br>Commissioned by STUN (Sustained Theatre Up North), developed with the support of <a href="http://homemcr.org/article/push-2020-commissions" target="_blank">HOME</a>, [Divergency](/hab/divergencymcr) + [hÅb](/hab). Supported using public funding from the National Lottery through Arts Council England. Thanks to Peader Kirk.       
         
-#### Websites [↑](/current/2020-springsummer/camara)        
-<a href="http://taniacamara.com" target="_blank">taniacamara.com</a> | <a href="http://twitter.com/TaniaCamara2" target="_blank">@TaniaCamara2</a> | <a href="http://www.facebook.com/TaniaCamara.Performance.Artist" target="_blank">Tania Camara on Facebook</a>
+#### Websites         
+<a href="http://taniacamara.com" target="_blank">taniacamara.com</a> | <a href="http://twitter.com/TaniaCamara2" target="_blank">@TaniaCamara2</a> | <a href="http://www.facebook.com/TaniaCamara.Performance.Artist" target="_blank">Tania Camara on Facebook</a>        
+
+#### [↑](/current/2020-springsummer/camara)
