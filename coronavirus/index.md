@@ -12,7 +12,7 @@ season: "Coronavirus News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 20 April 2020 at 17:40*        
+##### *Last updated on 21 April 2020 at 14:20*        
 <hr>          
 #### Word of Warning things to see         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer):            
@@ -28,7 +28,6 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 **Until 1 July | <a href="http://fueltheatre.com/projects/everyday-moments" target="_blank">*Everyday Moments* by Hofesh Schecter / Fuel</a>** — podcast designed to be listened to alone in a dark space; an invitation to move without inhibition.        
 ##### Daily          
 **<a href="http://facebook.com/pg/companychameleon/videos" target="_blank">*#IsolationImprovs*</a> by <a href="http://www.companychameleon.com/2020/03/reimagine-your-living-room-through-dance" target="_blank">Company Chameleon</a>** — daily invites to get moving, think creatively + reimagine your living room through dance.         
-**<a href="http://instagram.com/maternal_matters_40_6" target="_blank">*Maternal Matters Lent 40 (+6)*</a> by <a href="http://www.krissimusiol.com/lent-40-plus-6" target="_blank">Krissi Musiol</a>** — 46 daily domestic interventions on Instagram.         
 **<a href="http://cosmicshambles.com/stayathome/upcoming-schedule" target="_blank">Stay At Home Festival from The Cosmic Shambles Network</a>** — live streamed podcasts, mixed-bill comedy nights + conversations.         
 **<a href="http://unitedwestream.co.uk" target="_blank">United We Stream GM at 7pm</a>** — live music + performances by Greater Manchester artists every night (<a href="http://www.greatermanchester-ca.gov.uk/news/united-we-stream-to-broadcast-greater-manchester-culture-to-homes-around-the-world" target="_blank">info</a>).        
 ##### Ongoing         
