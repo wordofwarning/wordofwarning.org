@@ -12,9 +12,9 @@ season: "Coronavirus News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 21 April 2020 at 15:32*        
+##### *Last updated on 21 April 2020 at 18:45*        
 
-<span style='font-variant: small-caps'>jump to: [things to see or do online](/coronavirus/#audiences) or [help for artists + our community](/coronavirus/#artists)</span>       
+<span style='font-variant: small-caps'>jump to: [1. things to see or do online](/coronavirus/#audiences) [2. help for artists + our community](/coronavirus/#artists)</span>       
 <hr>          
 #### Audiences         
 ##### Word of Warning Spring 2020
