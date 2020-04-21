@@ -12,16 +12,16 @@ season: "Coronavirus News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 21 April 2020 at 15:15*        
+##### *Last updated on 21 April 2020 at 15:23*        
 
 <span style='font-variant: small-caps'>jump to: [things for audiences to watch](/coronavirus/#audiences) or [help for artists + our community](/coronavirus/#help)</span>       
 <hr>          
 #### Audiences         
 ##### Word of Warning Spring 2020
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's measures</a>, we're working with partners + host venues to make appropriate changes to our [current Performance Programme](/current/2020-springsummer):            
-**19-21 March | [*IDOL* by Jamal Gerald](/current/2020-springsummer/gerald) was CANCELLED** — <a href="http://www.royalexchange.co.uk/the-royal-exchange-theatre-suspension-of-activity-from-5pm-on-tuesday-17-march" target="_blank">Royal Exchange Theatre will be in touch with ticket holders asap</a>, please don't call their box office;          
-**1 April | [*We Are Fucked* by Jo Bannon](/current/2020-springsummer/bannon) was CANCELLED** — <a href="http://thelowry.com/coronavirus" target="_blank">The Lowry will be in touch asap if you donated when you booked a ticket</a>, please bear with them;         
-**1 May, 7pm | [*Oreo: variations* by Tania Camara](/current/2020-springsummer/camara)** — now taking place on Facebook, Twitter, YouTube (RESCHEDULED from 23+24 April in STUN Studio at Z-arts);       
+**19-21 March | [*IDOL* by Jamal Gerald](/current/2020-springsummer/gerald)** — cancelled, the <a href="http://www.royalexchange.co.uk/the-royal-exchange-theatre-suspension-of-activity-from-5pm-on-tuesday-17-march" target="_blank">Royal Exchange Theatre will be in touch with ticket holders</a>, please don't call their box office;          
+**1 April | [*We Are Fucked* by Jo Bannon](/current/2020-springsummer/bannon)** — cancelled, <a href="http://thelowry.com/coronavirus" target="_blank">The Lowry will be in touch if you donated when you booked a ticket</a>;         
+**1 May, 7pm | [*Oreo: variations* by Tania Camara](/current/2020-springsummer/camara)** — rescheduled and now taking place on Facebook, Twitter, YouTube (originally on 23+24 April in STUN Studio at Z-arts);       
 **21+22 May | [Works Ahead from Will Dickie + Ross McCaffrey](/current/2020-worksahead)** — further information to follow.        
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>       
           
@@ -53,6 +53,7 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 ##### Emergency Response Funds         
 • <a href="http://artscouncil.org.uk/covid-19" target="_blank">Arts Council England's Covid-19 support</a> for <a href="http://www.artscouncil.org.uk/funding/financial-support-artists-creative-practitioners-and-freelancers" target="_blank">individuals</a> and <a href="http://www.artscouncil.org.uk/funding/financial-support-organisations-outside-national-portfolio" target="_blank">organisations outside their National Portfolio</a>:<br>&nbsp;→ we're running a Zoom session to talk about the funds on Thu 23 April at 3pm with GM Artist Hub, please register on the <a href="http://www.gm-artisthub.co.uk/advisory-sessions" target="_blank">Advisory Sessions page</a>;<br>&nbsp;→ read their <a href="http://artscouncil.org.uk/news-and-announcements/our-emergency-funding-your-top-queries" target="_blank">Emergency Response Funding Top Queries</a>;<br>&nbsp;→ watch their <a href="http://www.youtube.com/playlist?list=PLzzBvi5D8s7MiapQVSBW21PgAvF6Dd7D3" target="_blank">Introduction to Emergency Response Funds on YouTube (signed + subtitled)</a>;<br>&nbsp;→ round one opened 9 April / closed 16 April / they'll send notifications to applicants from 27 April;<br>&nbsp;→ round two opened 16 April / you need to register on Grantium by 27 April / closes 30 April at noon;<br>&nbsp;→ **before applying please read <a href="http://artscouncil.org.uk/welcome-grantium" target="_blank">ACE's guide to Grantium</a>** as you'll need to: 1. create a user account / 2. create an applicant profile / 3. wait to be validated (takes up to TEN days) / 4. take the eligibility questionnaire / 5. start your application.         
 • <a href="http://www.a-n.co.uk/news/a-n-bursaries-time-space-money-open-for-applications" target="_blank">a-n Bursaries: Time Space Money</a> is an emergency response fund with bursaries of £500-£1,500 to help support artists + arts organisers to continue their professional practice (*d/l 7 May at noon*).        
+<span style='font-variant: small-caps'>[back to top](/coronavirus)</span>       
 ##### Advice/guidance/support         
 • Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Covid-19 support page</a> includes advice + guidance on funds that government + other organisations have put in place.          
 • Arts Marketing Association (AMA)'s <a href="http://www.a-m-a.co.uk/coronavirus-covid-19-resources" target="_blank">resources page</a> — to support arts, culture + heritage professionals, organisations + freelancers.        
@@ -73,6 +74,7 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 • The Space's <a href="http://www.thespace.org/resource/live-streaming-arts-lo-fi-and-low-cost-options" target="_blank">guide to live streaming for the arts by Jason Crouch</a> — lo-fi and low cost options.        
 • <a href="http://theatresupport.info" target="_blank">Theatre Support Information</a> from UK Theatre + SOLT — advice/info about how + where you can access support from leading theatrical charities.        
 • Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">resources for disabled artists + freelancers page</a>.        
+<span style='font-variant: small-caps'>[back to top](/coronavirus)</span>       
 ##### Opportunities         
 • Greater Mcr Combined Authority's Culture team announce opportunities to help artists, freelancers + organisations that *aren't* in their portfolio at <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>.        
 • Homotopia <a href="http://homotopia.net/about/commissions" target="_blank">offer £250-£1,000 seed commissions to LGBTQIA artists</a> — to make imaginative new work suitable for the current climate; 50% reserved for NW (*d/l 22 April*).           
