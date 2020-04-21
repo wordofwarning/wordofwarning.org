@@ -12,29 +12,26 @@ season: "Coronavirus News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 21 April 2020 at 14:20*        
+##### *Last updated on 21 April 2020 at 15:15*        
 
-<span style='font-variant: small-caps'>jump to: [Word of Warning things to watch](/coronavirus/#spring2020) [other things to watch](/coronavirus/#other) [help for artists + our community](/coronavirus/#help)</span>       
+<span style='font-variant: small-caps'>jump to: [things for audiences to watch](/coronavirus/#audiences) or [help for artists + our community](/coronavirus/#help)</span>       
 <hr>          
-#### Spring2020         
-In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer):            
+#### Audiences         
+##### Word of Warning Spring 2020
+In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's measures</a>, we're working with partners + host venues to make appropriate changes to our [current Performance Programme](/current/2020-springsummer):            
 **19-21 March | [*IDOL* by Jamal Gerald](/current/2020-springsummer/gerald) was CANCELLED** — <a href="http://www.royalexchange.co.uk/the-royal-exchange-theatre-suspension-of-activity-from-5pm-on-tuesday-17-march" target="_blank">Royal Exchange Theatre will be in touch with ticket holders asap</a>, please don't call their box office;          
 **1 April | [*We Are Fucked* by Jo Bannon](/current/2020-springsummer/bannon) was CANCELLED** — <a href="http://thelowry.com/coronavirus" target="_blank">The Lowry will be in touch asap if you donated when you booked a ticket</a>, please bear with them;         
 **1 May, 7pm | [*Oreo: variations* by Tania Camara](/current/2020-springsummer/camara)** — now taking place on Facebook, Twitter, YouTube (RESCHEDULED from 23+24 April in STUN Studio at Z-arts);       
 **21+22 May | [Works Ahead from Will Dickie + Ross McCaffrey](/current/2020-worksahead)** — further information to follow.        
-<small><span style='font-variant: small-caps'>[back to top](/coronavirus)</span></small>         
-<hr>          
-#### Other         
-As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to perfomance</a> becomes more sporadic in these unprecedented times, we're collating things to see online here:        
+<span style='font-variant: small-caps'>[back to top](/coronavirus)</span>       
+          
+##### Other artists + organisations         
+As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to perfomance</a> becomes more sporadic in these unprecedented times, we're collating other things to see or do online here:        
 **23 Apr, 2pm | <a href="http://www.eventbrite.co.uk/e/susan-darren-screening-live-discussion-tickets-102971977958" target="_blank">Susan & Darren by Quarantine</a>** — screening of the 2006 performance with live discussion between creative team + performers.        
 **1-3 May | <a href="http://www.giftfestival.co.uk" target="_blank">Gateshead International Festival of Theatre (GIFT)</a>** — digital programme of performance art + interactive events (ticketed).       
 **Until 1 July | <a href="http://fueltheatre.com/projects/everyday-moments" target="_blank">*Everyday Moments* by Hofesh Schecter / Fuel</a>** — podcast designed to be listened to alone in a dark space; an invitation to move without inhibition.        
-##### Daily          
-**<a href="http://facebook.com/pg/companychameleon/videos" target="_blank">*#IsolationImprovs*</a> by <a href="http://www.companychameleon.com/2020/03/reimagine-your-living-room-through-dance" target="_blank">Company Chameleon</a>** — daily invites to get moving, think creatively + reimagine your living room through dance.         
-**<a href="http://cosmicshambles.com/stayathome/upcoming-schedule" target="_blank">Stay At Home Festival from The Cosmic Shambles Network</a>** — live streamed podcasts, mixed-bill comedy nights + conversations.         
-**<a href="http://unitedwestream.co.uk" target="_blank">United We Stream GM at 7pm</a>** — live music + performances by Greater Manchester artists every night (<a href="http://www.greatermanchester-ca.gov.uk/news/united-we-stream-to-broadcast-greater-manchester-culture-to-homes-around-the-world" target="_blank">info</a>).        
-##### Ongoing         
 **<a href="http://smallertemples.wordpress.com/2020/04/04/quarantine-performance" target="_blank">Ben Kulvichit's Quarantine performance blog post</a>** — an evolving diary of streams + recordings of shows to see online.        
+**<a href="http://www.companychameleon.com/2020/03/reimagine-your-living-room-through-dance" target="_blank">Company Chameleon</a>'s <a href="http://facebook.com/pg/companychameleon/videos" target="_blank">*#IsolationImprovs*</a>** — daily invites to get moving, think creatively + reimagine your living room through dance.         
 **<a href="http://www.companychameleon.com/whats-on/theatre-thursdays" target="_blank">Company Chameleon's Theatre Thursdays</a>** — weekly opportunities to see one of their dance theatre productions.         
 **<a href="http://exeuntmagazine.com/features/covid-19-resources-uk-theatre-freelancers" target="_blank">Exeunt Magazine's resources</a>** — includes "Where to watch theatre for free online" (regular updates).        
 **<a href="http://vimeo.com/395350772" target="_blank">Fierce Festival 2019 The Movie</a>** — highlights from the 2019 edition; Fierce also have some <a href="http://wearefierce.org/fierces-lockdown-viewing" target="_blank">Lockdown Viewing Tips</a>.        
@@ -44,12 +41,14 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 **<a href="http://mif.co.uk/mif-launches-mif-live" target="_blank">MIF Live</a>** — free livestreams, discussions + archive broadcasts from Manchester International Festival (weekly updates).        
 **<a href="http://nrla30.com" target="_blank">NRLA30</a>** — performances + recollections from the 30th National Review of Live Art.         
 **<a href="http://www.onlinefringefestival.com/watch-our-shows" target="_blank">Online Fringe Festival</a>** — free live streams: a range of professionally-filmed productions, from one-woman musicals to operas, dramas, stand-up comedy (daily updates).        
+**<a href="http://cosmicshambles.com/stayathome/upcoming-schedule" target="_blank">Stay At Home Festival from The Cosmic Shambles Network</a>** — live streamed podcasts, mixed-bill comedy nights + conversations (daily updates).         
 **<a href="http://www.instagram.com/performistanbul" target="_blank">Stay Live At Home from Perform Istanbul</a>** — live performances on Instagram (regular updates).         
 **<a href="http://www.socialdistancingfestival.com" target="_blank">The Social Distancing Festival</a>** — live streamed global performance (regular updates).         
-<small><span style='font-variant: small-caps'>[back to top](/coronavirus)</span></small>         
+**<a href="http://unitedwestream.co.uk" target="_blank">United We Stream GM at 7pm</a>** — live music + performances by Greater Manchester artists every night (<a href="http://www.greatermanchester-ca.gov.uk/news/united-we-stream-to-broadcast-greater-manchester-culture-to-homes-around-the-world" target="_blank">info</a>).        
+<span style='font-variant: small-caps'>[back to top](/coronavirus)</span>        
 <hr>          
 #### Help         
-[hÅb](/hab) remains "open for business" and we'll continue to advise/support artists + freelancers in our sector where we can.         
+[hÅb](/hab) remains "open for business" and we'll continue to advise/support artists + freelancers in our sector where we can, signposting below.         
 <a href="http://www.gm-artisthub.co.uk" target="_blank">Greater Manchester Artist Hub</a> is a joint artist development project supporting independent artists + freelance creatives across the city region:<br>&nbsp;→ GMAH are hosting <a href="http://www.gm-artisthub.co.uk/advisory-sessions" target="_blank">Advisory Sessions on Zoom</a>, please sign up online for a 30 minute chat to talk through creative ideas, get advice on issues that are causing you concern, or simply to develop your network + stay connected during isolation;<br>&nbsp;→ GMAH partners: Community Arts Northwest, Contact, hÅb/Word of Warning, HOME, Manchester International Festival, Octagon Theatre Bolton, Oldham Coliseum Theatre, Royal Exchange Theatre, SICK! Festival, Sustained Theatre Up North, The Lowry, Waterside Arts & Creative Industries Trafford, Z-arts.     
 ##### Emergency Response Funds         
 • <a href="http://artscouncil.org.uk/covid-19" target="_blank">Arts Council England's Covid-19 support</a> for <a href="http://www.artscouncil.org.uk/funding/financial-support-artists-creative-practitioners-and-freelancers" target="_blank">individuals</a> and <a href="http://www.artscouncil.org.uk/funding/financial-support-organisations-outside-national-portfolio" target="_blank">organisations outside their National Portfolio</a>:<br>&nbsp;→ we're running a Zoom session to talk about the funds on Thu 23 April at 3pm with GM Artist Hub, please register on the <a href="http://www.gm-artisthub.co.uk/advisory-sessions" target="_blank">Advisory Sessions page</a>;<br>&nbsp;→ read their <a href="http://artscouncil.org.uk/news-and-announcements/our-emergency-funding-your-top-queries" target="_blank">Emergency Response Funding Top Queries</a>;<br>&nbsp;→ watch their <a href="http://www.youtube.com/playlist?list=PLzzBvi5D8s7MiapQVSBW21PgAvF6Dd7D3" target="_blank">Introduction to Emergency Response Funds on YouTube (signed + subtitled)</a>;<br>&nbsp;→ round one opened 9 April / closed 16 April / they'll send notifications to applicants from 27 April;<br>&nbsp;→ round two opened 16 April / you need to register on Grantium by 27 April / closes 30 April at noon;<br>&nbsp;→ **before applying please read <a href="http://artscouncil.org.uk/welcome-grantium" target="_blank">ACE's guide to Grantium</a>** as you'll need to: 1. create a user account / 2. create an applicant profile / 3. wait to be validated (takes up to TEN days) / 4. take the eligibility questionnaire / 5. start your application.         
@@ -76,11 +75,10 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 • Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">resources for disabled artists + freelancers page</a>.        
 ##### Opportunities         
 • Greater Mcr Combined Authority's Culture team announce opportunities to help artists, freelancers + organisations that *aren't* in their portfolio at <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>.        
-• HOME's Homemakers Open Call <a href="http://homemcr.org/opportunity/homemakers-open-call" target="_blank">offers three £1,000 commissions</a> — for NW-based theatre or live art-makers to create work at home, for an audience who are also at home (*d/l 20 April at 5pm*).       
 • Homotopia <a href="http://homotopia.net/about/commissions" target="_blank">offer £250-£1,000 seed commissions to LGBTQIA artists</a> — to make imaginative new work suitable for the current climate; 50% reserved for NW (*d/l 22 April*).           
 • Live Art Development Agency <a href="http://www.thisisliveart.co.uk/opportunities/two-online-home-based-collaborative-residencies-call-for-proposals" target="_blank">offer two online, home-based collaborative residencies (£1,000 each)</a> — the first of a series of commissions they'll be offering over the coming weeks (*d/l 27 April*).           
 • <a href="http://livestreamarchive.co.uk/contact" target="_blank">Live Stream Archive</a> — share a recording of a performance to add to their temporary digital archive.        
 • MIF are repurposing some of their artist development funds to <a href="http://mif.co.uk/creatives_call_out" target="_blank">offer opportunities to GM-based artists + creatives</a> (*d/l end of April*).      
 • The Space (funded by Arts Council England) <a href="http://www.thespace.org/resource/low-cost-rd-commissioning-round" target="_blank">are looking for projects that fall into the ‘Low-Cost R&D’ strand</a> — aims to increase the digital reach of arts and cultural organisations by increasing the impact of existing work or collections and allows you to test approaches to extending your work digitally, acquiring new skills and gaining practical, sustainable experience in creating digital content and engaging online audiences (*d/l 7 May*).           
 • Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">resources for disabled artists + freelancers page</a> includes an opportunities section.        
-<small><span style='font-variant: small-caps'>[back to top](/coronavirus)</span></small>
+<span style='font-variant: small-caps'>[back to top](/coronavirus)</span>
