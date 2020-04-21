@@ -12,7 +12,7 @@ season: "Coronavirus News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 21 April 2020 at 15:23*        
+##### *Last updated on 21 April 2020 at 15:32*        
 
 <span style='font-variant: small-caps'>jump to: [things to see or do online](/coronavirus/#audiences) or [help for artists + our community](/coronavirus/#artists)</span>       
 <hr>          
@@ -23,9 +23,8 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 **1 April | [*We Are Fucked* by Jo Bannon](/current/2020-springsummer/bannon)** — cancelled, <a href="http://thelowry.com/coronavirus" target="_blank">The Lowry will be in touch if you donated when you booked a ticket</a>;         
 **1 May, 7pm | [*Oreo: variations* by Tania Camara](/current/2020-springsummer/camara)** — rescheduled and now taking place on Facebook, Twitter, YouTube (originally on 23+24 April in STUN Studio at Z-arts);       
 **21+22 May | [Works Ahead from Will Dickie + Ross McCaffrey](/current/2020-worksahead)** — further information to follow.        
-<span style='font-variant: small-caps'>[back to top](/coronavirus)</span>       
-          
-##### Other artists + organisations         
+<span style='font-variant: small-caps'>[back to top](/coronavirus)</span>           
+##### Other things to watch         
 As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to perfomance</a> becomes more sporadic in these unprecedented times, we're collating other things to see or do online here:        
 **23 Apr, 2pm | <a href="http://www.eventbrite.co.uk/e/susan-darren-screening-live-discussion-tickets-102971977958" target="_blank">Susan & Darren by Quarantine</a>** — screening of the 2006 performance with live discussion between creative team + performers.        
 **1-3 May | <a href="http://www.giftfestival.co.uk" target="_blank">Gateshead International Festival of Theatre (GIFT)</a>** — digital programme of performance art + interactive events (ticketed).       
@@ -49,7 +48,8 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 <hr>          
 #### Artists         
 [hÅb](/hab) remains "open for business" and we continue to advise/support artists + freelancers in our sector where we can, signposting help below.         
-<a href="http://www.gm-artisthub.co.uk" target="_blank">Greater Manchester Artist Hub</a> is a new, joint artist development project supporting independent artists + freelance creatives across the city region:<br>&nbsp;→ GMAH are hosting <a href="http://www.gm-artisthub.co.uk/advisory-sessions" target="_blank">Advisory Sessions on Zoom</a>, please sign up online for a 30 minute chat to talk through creative ideas, get advice on issues that are causing you concern, or simply to develop your network + stay connected during isolation;<br>&nbsp;→ GMAH partners: Community Arts Northwest, Contact, hÅb/Word of Warning, HOME, Manchester International Festival, Octagon Theatre Bolton, Oldham Coliseum Theatre, Royal Exchange Theatre, SICK! Festival, Sustained Theatre Up North, The Lowry, Waterside Arts & Creative Industries Trafford, Z-arts.     
+<a href="http://www.gm-artisthub.co.uk" target="_blank">Greater Manchester Artist Hub</a> is a new, joint artist development project supporting independent artists + freelance creatives across the city region:<br>&nbsp;→ GMAH are hosting <a href="http://www.gm-artisthub.co.uk/advisory-sessions" target="_blank">Advisory Sessions on Zoom</a>, please sign up online for a 30 minute chat to talk through creative ideas, get advice on issues that are causing you concern, or simply to develop your network + stay connected during isolation;<br>&nbsp;→ GMAH partners: Community Arts Northwest, Contact, [hÅb](/hab)/[Word of Warning](/), HOME, Manchester International Festival, Octagon Theatre Bolton, Oldham Coliseum Theatre, Royal Exchange Theatre, SICK! Festival, Sustained Theatre Up North, The Lowry, Waterside Arts & Creative Industries Trafford, Z-arts.        
+<span style='font-variant: small-caps'>[back to top](/coronavirus)</span>       
 ##### Emergency Response Funds         
 • <a href="http://artscouncil.org.uk/covid-19" target="_blank">Arts Council England's Covid-19 support</a> for <a href="http://www.artscouncil.org.uk/funding/financial-support-artists-creative-practitioners-and-freelancers" target="_blank">individuals</a> and <a href="http://www.artscouncil.org.uk/funding/financial-support-organisations-outside-national-portfolio" target="_blank">organisations outside their National Portfolio</a>:<br>&nbsp;→ we're running a Zoom session to talk about the funds on Thu 23 April at 3pm with GM Artist Hub, please register on the <a href="http://www.gm-artisthub.co.uk/advisory-sessions" target="_blank">Advisory Sessions page</a>;<br>&nbsp;→ read their <a href="http://artscouncil.org.uk/news-and-announcements/our-emergency-funding-your-top-queries" target="_blank">Emergency Response Funding Top Queries</a>;<br>&nbsp;→ watch their <a href="http://www.youtube.com/playlist?list=PLzzBvi5D8s7MiapQVSBW21PgAvF6Dd7D3" target="_blank">Introduction to Emergency Response Funds on YouTube (signed + subtitled)</a>;<br>&nbsp;→ round one opened 9 April / closed 16 April / they'll send notifications to applicants from 27 April;<br>&nbsp;→ round two opened 16 April / you need to register on Grantium by 27 April / closes 30 April at noon;<br>&nbsp;→ **before applying please read <a href="http://artscouncil.org.uk/welcome-grantium" target="_blank">ACE's guide to Grantium</a>** as you'll need to: 1. create a user account / 2. create an applicant profile / 3. wait to be validated (takes up to TEN days) / 4. take the eligibility questionnaire / 5. start your application.         
 • <a href="http://www.a-n.co.uk/news/a-n-bursaries-time-space-money-open-for-applications" target="_blank">a-n Bursaries: Time Space Money</a> is an emergency response fund with bursaries of £500-£1,500 to help support artists + arts organisers to continue their professional practice (*d/l 7 May at noon*).        
