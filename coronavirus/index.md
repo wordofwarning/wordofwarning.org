@@ -14,7 +14,7 @@ season: "Coronavirus News + Information"
 ---
 ##### *Last updated on 21 April 2020 at 18:45*        
 
-<span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences) [help for artists + our community](/coronavirus/#artists)</span>       
+<span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences) [help for artists](/coronavirus/#artists)</span>       
 <hr>          
 #### Audiences         
 ##### Word of Warning Spring 2020
