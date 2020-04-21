@@ -13,15 +13,18 @@ season: "Coronavirus News + Information"
 
 ---
 ##### *Last updated on 21 April 2020 at 14:20*        
+
+<span style='font-variant: small-caps'>jump to: [Word of Warning things to watch](/coronavirus/#spring2020) [other things to watch](/coronavirus/#other) [help for artists + our community](/coronavirus/#help)</span>       
 <hr>          
-#### Word of Warning things to see         
+#### Spring2020         
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's measures</a>, we're working with partners + host venues to make appropriate changes to our [Spring 2020 Performance Programme](/current/2020-springsummer):            
 **19-21 March | [*IDOL* by Jamal Gerald](/current/2020-springsummer/gerald) was CANCELLED** — <a href="http://www.royalexchange.co.uk/the-royal-exchange-theatre-suspension-of-activity-from-5pm-on-tuesday-17-march" target="_blank">Royal Exchange Theatre will be in touch with ticket holders asap</a>, please don't call their box office;          
 **1 April | [*We Are Fucked* by Jo Bannon](/current/2020-springsummer/bannon) was CANCELLED** — <a href="http://thelowry.com/coronavirus" target="_blank">The Lowry will be in touch asap if you donated when you booked a ticket</a>, please bear with them;         
 **1 May, 7pm | [*Oreo: variations* by Tania Camara](/current/2020-springsummer/camara)** — now taking place on Facebook, Twitter, YouTube (RESCHEDULED from 23+24 April in STUN Studio at Z-arts);       
 **21+22 May | [Works Ahead from Will Dickie + Ross McCaffrey](/current/2020-worksahead)** — further information to follow.        
+<small><span style='font-variant: small-caps'>[back to top](/coronavirus)</span></small>         
 <hr>          
-#### Other things to see or do         
+#### Other         
 As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to perfomance</a> becomes more sporadic in these unprecedented times, we're collating things to see online here:        
 **23 Apr, 2pm | <a href="http://www.eventbrite.co.uk/e/susan-darren-screening-live-discussion-tickets-102971977958" target="_blank">Susan & Darren by Quarantine</a>** — screening of the 2006 performance with live discussion between creative team + performers.        
 **1-3 May | <a href="http://www.giftfestival.co.uk" target="_blank">Gateshead International Festival of Theatre (GIFT)</a>** — digital programme of performance art + interactive events (ticketed).       
@@ -43,8 +46,9 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 **<a href="http://www.onlinefringefestival.com/watch-our-shows" target="_blank">Online Fringe Festival</a>** — free live streams: a range of professionally-filmed productions, from one-woman musicals to operas, dramas, stand-up comedy (daily updates).        
 **<a href="http://www.instagram.com/performistanbul" target="_blank">Stay Live At Home from Perform Istanbul</a>** — live performances on Instagram (regular updates).         
 **<a href="http://www.socialdistancingfestival.com" target="_blank">The Social Distancing Festival</a>** — live streamed global performance (regular updates).         
+<small><span style='font-variant: small-caps'>[back to top](/coronavirus)</span></small>         
 <hr>          
-#### Help for artists + our community         
+#### Help         
 [hÅb](/hab) remains "open for business" and we'll continue to advise/support artists + freelancers in our sector where we can.         
 <a href="http://www.gm-artisthub.co.uk" target="_blank">Greater Manchester Artist Hub</a> is a joint artist development project supporting independent artists + freelance creatives across the city region:<br>&nbsp;→ GMAH are hosting <a href="http://www.gm-artisthub.co.uk/advisory-sessions" target="_blank">Advisory Sessions on Zoom</a>, please sign up online for a 30 minute chat to talk through creative ideas, get advice on issues that are causing you concern, or simply to develop your network + stay connected during isolation;<br>&nbsp;→ GMAH partners: Community Arts Northwest, Contact, hÅb/Word of Warning, HOME, Manchester International Festival, Octagon Theatre Bolton, Oldham Coliseum Theatre, Royal Exchange Theatre, SICK! Festival, Sustained Theatre Up North, The Lowry, Waterside Arts & Creative Industries Trafford, Z-arts.     
 ##### Emergency Response Funds         
@@ -78,4 +82,5 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 • <a href="http://livestreamarchive.co.uk/contact" target="_blank">Live Stream Archive</a> — share a recording of a performance to add to their temporary digital archive.        
 • MIF are repurposing some of their artist development funds to <a href="http://mif.co.uk/creatives_call_out" target="_blank">offer opportunities to GM-based artists + creatives</a> (*d/l end of April*).      
 • The Space (funded by Arts Council England) <a href="http://www.thespace.org/resource/low-cost-rd-commissioning-round" target="_blank">are looking for projects that fall into the ‘Low-Cost R&D’ strand</a> — aims to increase the digital reach of arts and cultural organisations by increasing the impact of existing work or collections and allows you to test approaches to extending your work digitally, acquiring new skills and gaining practical, sustainable experience in creating digital content and engaging online audiences (*d/l 7 May*).           
-• Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">resources for disabled artists + freelancers page</a> includes an opportunities section.
+• Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">resources for disabled artists + freelancers page</a> includes an opportunities section.        
+<small><span style='font-variant: small-caps'>[back to top](/coronavirus)</span></small>
