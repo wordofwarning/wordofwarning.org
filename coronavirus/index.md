@@ -12,14 +12,14 @@ season: "Coronavirus News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 23 April 2020 at 17:48*        
+##### *Last updated on 23 April 2020 at 17:55*        
 
 <span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences) [help for artists](/coronavirus/#artists)</span>       
 <hr>          
 #### Audiences         
 ##### Word of Warning Spring 2020
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's measures</a>, we're working with partners + host venues to make appropriate changes to our [current Performance Programme](/current/2020-springsummer):            
-**1 May, 7pm | [*OREO: variations* by Tania Camara](/current/2020-springsummer/camara)** — rescheduled and live streamed on our <a href="http://facebook.com/warnmcr" target="_blank">Facebook</a>, <a href="http://twitter.com/warnmcr" target="_blank">Twitter</a>, <a href="http://www.youtube.com/channel/UCcAnSRD_qFdRdJ39gVEyFcg" target="_blank">YouTube</a> channels (originally on 23+24 April in STUN Studio at Z-arts);       
+**1 May, 7pm | [*OREO: variations* by Tania Camara](/current/2020-springsummer/camara)** — rescheduled + live streamed on our <a href="http://facebook.com/warnmcr" target="_blank">Facebook</a>, <a href="http://twitter.com/warnmcr" target="_blank">Twitter</a>, <a href="http://www.youtube.com/channel/UCcAnSRD_qFdRdJ39gVEyFcg" target="_blank">YouTube</a> channels (originally 23+24 Apr in STUN Studio at Z-arts);       
 **21+22 May | [Works Ahead from Will Dickie + Ross McCaffrey](/current/2020-worksahead)** — further information to follow.        
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>           
 ##### Other things to watch         
@@ -40,7 +40,7 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 **<a href="http://cosmicshambles.com/stayathome/upcoming-schedule" target="_blank">Stay At Home Festival from The Cosmic Shambles Network</a>** — live streamed podcasts, mixed-bill comedy nights + conversations (daily updates).         
 **<a href="http://www.instagram.com/performistanbul" target="_blank">Stay Live At Home from Perform Istanbul</a>** — live performances on Instagram (regular updates).         
 **<a href="http://www.socialdistancingfestival.com" target="_blank">The Social Distancing Festival</a>** — live streamed global performance (regular updates).         
-**<a href="http://unitedwestream.co.uk" target="_blank">United We Stream GM at 7pm</a>** — live music + performances by Greater Manchester artists every night (<a href="http://www.greatermanchester-ca.gov.uk/news/united-we-stream-to-broadcast-greater-manchester-culture-to-homes-around-the-world" target="_blank">info</a>).        
+**<a href="http://unitedwestream.co.uk" target="_blank">United We Stream GM</a>** — live music + performances by Greater Manchester artists most nights (<a href="http://www.greatermanchester-ca.gov.uk/news/united-we-stream-to-broadcast-greater-manchester-culture-to-homes-around-the-world" target="_blank">info</a>).        
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>        
 <hr>          
 #### Artists         
