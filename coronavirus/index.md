@@ -12,21 +12,18 @@ season: "Coronavirus News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 21 April 2020 at 18:45*        
+##### *Last updated on 23 April 2020 at 17:42*        
 
 <span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences) [help for artists](/coronavirus/#artists)</span>       
 <hr>          
 #### Audiences         
 ##### Word of Warning Spring 2020
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's measures</a>, we're working with partners + host venues to make appropriate changes to our [current Performance Programme](/current/2020-springsummer):            
-**19-21 March | [*IDOL* by Jamal Gerald](/current/2020-springsummer/gerald)** — cancelled, the <a href="http://www.royalexchange.co.uk/the-royal-exchange-theatre-suspension-of-activity-from-5pm-on-tuesday-17-march" target="_blank">Royal Exchange Theatre will be in touch with ticket holders</a>, please don't call their box office;          
-**1 April | [*We Are Fucked* by Jo Bannon](/current/2020-springsummer/bannon)** — cancelled, <a href="http://thelowry.com/coronavirus" target="_blank">The Lowry will be in touch if you donated when you booked a ticket</a>;         
 **1 May, 7pm | [*Oreo: variations* by Tania Camara](/current/2020-springsummer/camara)** — rescheduled and now taking place on Facebook, Twitter, YouTube (originally on 23+24 April in STUN Studio at Z-arts);       
 **21+22 May | [Works Ahead from Will Dickie + Ross McCaffrey](/current/2020-worksahead)** — further information to follow.        
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>           
 ##### Other things to watch         
 As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to perfomance</a> becomes more sporadic in these unprecedented times, we're collating other things to see or do online here:        
-**23 Apr, 2pm | <a href="http://www.eventbrite.co.uk/e/susan-darren-screening-live-discussion-tickets-102971977958" target="_blank">Susan & Darren by Quarantine</a>** — screening of the 2006 performance with live discussion between creative team + performers.        
 **1-3 May | <a href="http://www.giftfestival.co.uk" target="_blank">Gateshead International Festival of Theatre (GIFT)</a>** — digital programme of performance art + interactive events (ticketed).       
 **Until 1 July | <a href="http://fueltheatre.com/projects/everyday-moments" target="_blank">*Everyday Moments* by Hofesh Schecter / Fuel</a>** — podcast designed to be listened to alone in a dark space; an invitation to move without inhibition.        
 **<a href="http://smallertemples.wordpress.com/2020/04/04/quarantine-performance" target="_blank">Ben Kulvichit's Quarantine performance blog post</a>** — an evolving diary of streams + recordings of shows to see online.        
@@ -77,7 +74,6 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>       
 ##### Opportunities/commissions         
 • Greater Mcr Combined Authority's Culture team announce opportunities to help artists, freelancers + organisations that *aren't* in their portfolio at <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>.        
-• Homotopia <a href="http://homotopia.net/about/commissions" target="_blank">offer £250-£1,000 seed commissions to LGBTQIA artists</a> — to make imaginative new work suitable for the current climate; 50% reserved for NW (*d/l 22 April*).           
 • Live Art Development Agency <a href="http://www.thisisliveart.co.uk/opportunities/two-online-home-based-collaborative-residencies-call-for-proposals" target="_blank">offer two online, home-based collaborative residencies (£1,000 each)</a> — the first of a series of commissions they'll be offering over the coming weeks (*d/l 27 April*).           
 • <a href="http://livestreamarchive.co.uk/contact" target="_blank">Live Stream Archive</a> — share a recording of a performance to add to their temporary digital archive.        
 • MIF are repurposing some of their artist development funds to <a href="http://mif.co.uk/creatives_call_out" target="_blank">offer opportunities to GM-based artists + creatives</a> (*d/l end of April*).      
