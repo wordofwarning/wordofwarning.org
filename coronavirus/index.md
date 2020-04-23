@@ -4,15 +4,15 @@ layout: home # the season or event-specific template in /_layouts
 rootpath: "../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Coronavirus News + Information" # the name of the artist or company
+artist: "News + Information" # the name of the artist or company
 artist_size: 2
-season: "Coronavirus News + Information"
+season: "News + Information"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 23 April 2020 at 18:13*        
+##### *Last updated on 23 April 2020 at 18:15*        
 
 <span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences) [help for artists](/coronavirus/#artists)</span>       
 <hr>          
