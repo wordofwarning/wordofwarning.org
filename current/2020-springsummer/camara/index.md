@@ -26,7 +26,7 @@ A choreographic development for streaming. Donning a camouflage of Oreo-filling,
         
 #### Location           
 When: Friday 1 May 2020, 7pm.<br>&nbsp;(N.B. Rescheduled from 23+24 April in STUN Studio at Z-arts.)        
-Where: online at Word of Warning's <a href="http://facebook.com/warnmcr" target="_blank">Facebook</a>, <a href="http://twitter.com/warnmcr" target="_blank">Twitter</a>, <a href="http://www.youtube.com/channel/UCcAnSRD_qFdRdJ39gVEyFcg" target="_blank">YouTube</a> channels.         
+Where: live streamed on Word of Warning's <a href="http://facebook.com/warnmcr" target="_blank">Facebook</a>, <a href="http://twitter.com/warnmcr" target="_blank">Twitter</a>, <a href="http://www.youtube.com/channel/UCcAnSRD_qFdRdJ39gVEyFcg" target="_blank">YouTube</a>.         
           
 #### Access         
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: please click [here](/warnings).<br>Duration: *approximately* 30 minutes.<br>Features: spoken Creole, English + Portuguese, and choreographed movement.<br>For specific age + access information please get in touch by emailing <mailto:info@habmcr.org>.         
@@ -44,6 +44,6 @@ A Manchester-based solo performance artist, Tania Camara works across devised th
 Creator, Performer, Producer: Tania Camara | Dance Mentor: Pape Ibrahima N'diaye (a.k.a. Kaolack) | Live Stream Producer: Ricardo Vilela at <a href="http://www.sagittamedia.co.uk/site2" target="_blank">Sagitta Media</a><br><br>Original Lighting Designer: Kamini Patel | Image of *Me, myself and my Oreos* from SPILL Festival of Performance 2016 by Guido Mencari.<br><br>Commissioned by STUN (Sustained Theatre Up North), developed with the support of <a href="http://homemcr.org/article/push-2020-commissions" target="_blank">HOME</a>, [Divergency](/hab/divergencymcr) + [hÅb](/hab). Supported using public funding from the National Lottery through Arts Council England. Thanks to Peader Kirk.       
         
 #### Websites         
-<a href="http://taniacamara.com" target="_blank">taniacamara.com</a> | <a href="http://twitter.com/TaniaCamara2" target="_blank">@TaniaCamara2</a> | <a href="http://www.facebook.com/TaniaCamara.Performance.Artist" target="_blank">Tania Camara on Facebook</a>      
+<a href="http://taniacamara.com" target="_blank">taniacamara.com</a> | <a href="http://www.facebook.com/events/247575136359260" target="_blank">Facebook event</a> | <a href="http://www.facebook.com/TaniaCamara.Performance.Artist" target="_blank">Tania Camara on Facebook</a> | <a href="http://twitter.com/TaniaCamara2" target="_blank">@TaniaCamara2</a>        
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2020-springsummer/camara)</span></small>
