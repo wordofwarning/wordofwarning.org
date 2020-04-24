@@ -12,7 +12,7 @@ season: "News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 24 April 2020 at 16:50*        
+##### *Last updated on 24 April 2020 at 16:57*        
 
 <span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences) [help for artists](/coronavirus/#artists)</span>       
 <hr>          
@@ -25,7 +25,7 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 ##### Other things to watch         
 As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to perfomance</a> becomes more sporadic in these unprecedented times, we're collating other things to see or do online here:        
 **1-3 May | <a href="http://www.giftfestival.co.uk" target="_blank">Gateshead International Festival of Theatre (GIFT)</a>** — digital programme of performance art + interactive events (ticketed).       
-**16 May | <a href="http://dedomenici.com/coronavision" target="_blank">*Coronavision Song Contest!* from Richard DeDomenici</a>** — 30 selected finalists broadcast on Facebook live when the cancelled Eurovision 2020 final would have taken place.       
+**16 May | <a href="http://dedomenici.com/coronavision" target="_blank">Richard DeDomenici's *Coronavision Song Contest!*</a>** — see 30 finalists on Facebook live when the cancelled Eurovision 2020 final would have taken place.       
 **<a href="http://smallertemples.wordpress.com/2020/04/04/quarantine-performance" target="_blank">Ben Kulvichit's Quarantine performance blog post</a>** — an evolving diary of streams + recordings of shows to see online.        
 **<a href="http://www.companychameleon.com/whats-on/theatre-thursdays" target="_blank">Company Chameleon's Theatre Thursdays</a>** — weekly opportunities to see one of their dance theatre productions.         
 **<a href="http://fueltheatre.com/projects/everyday-moments" target="_blank">*Everyday Moments* by Hofesh Schecter / Fuel</a>** — podcast designed to be listened to alone in a dark space; an invitation to move without inhibition (until 1 July).        
@@ -34,7 +34,7 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 **<a href="http://homemcr.org/article/great-theatre-you-can-watch-at-home" target="_blank">HOME's Great theatre you can watch at home</a>** — things to watch online for free (regular updates).  
 **<a href="http://www.imitatingthedog.co.uk/watch" target="_blank">imitating the dog's watch page</a>** — fortnightly opportunities to see some of their previous show recordings online.         
 **<a href="http://livestreamarchive.co.uk/archive" target="_blank">Live Stream Archive</a>** — a temporary digital archive of small-scale theatre + performance works (regular updates).        
-**<a href="http://mif.co.uk/mif-launches-mif-live" target="_blank">MIF Live</a>** — free livestreams (e.g. Festival In My House commissions on Wednesdays), discussions + archive broadcasts from Manchester International Festival (regular updates).        
+**<a href="http://mif.co.uk/mif-launches-mif-live" target="_blank">MIF Live</a>** — free livestreams incl. new Festival In My House commissions on Wednesdays, discussions + archive broadcasts from Manchester International Festival (regular updates).        
 **<a href="http://nrla30.com" target="_blank">NRLA30</a>** — performances + recollections from the 30th National Review of Live Art.         
 **<a href="http://www.onlinefringefestival.com/watch-our-shows" target="_blank">Online Fringe Festival</a>** — free live streams: a range of professionally-filmed productions, from one-woman musicals to operas, dramas, stand-up comedy (daily updates).        
 **<a href="http://cosmicshambles.com/stayathome/upcoming-schedule" target="_blank">Stay At Home Festival from The Cosmic Shambles Network</a>** — live streamed podcasts, mixed-bill comedy nights + conversations (daily updates).         
