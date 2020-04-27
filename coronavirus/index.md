@@ -12,7 +12,7 @@ season: "News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 27 April 2020 at 11:37*        
+##### *Last updated on 27 April 2020 at 17:33*        
 
 <span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences) [help for artists](/coronavirus/#artists)</span>       
 <hr>          
@@ -75,11 +75,14 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 • <a href="http://theatresupport.info" target="_blank">Theatre Support Information</a> from UK Theatre + SOLT — advice/info about how + where you can access support from leading theatrical charities.        
 • Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">resources for disabled artists + freelancers page</a>.        
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>       
+
 ##### Opportunities/commissions         
 • Greater Mcr Combined Authority's Culture team announce opportunities to help artists, freelancers + organisations that *aren't* in their portfolio at <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>.        
 • Live Art Development Agency <a href="http://www.thisisliveart.co.uk/opportunities/two-online-home-based-collaborative-residencies-call-for-proposals" target="_blank">offer two online, home-based collaborative residencies (£1,000 each)</a> — the first of a series of commissions they'll be offering over the coming weeks (*d/l 27 April*).           
 • <a href="http://livestreamarchive.co.uk/contact" target="_blank">Live Stream Archive</a> — share a recording of a performance to add to their temporary digital archive.        
 • MIF are repurposing some of their artist development funds to <a href="http://mif.co.uk/creatives_call_out" target="_blank">offer opportunities to GM-based artists + creatives</a> (*d/l end of April*).      
+• <a href="http://www.thisisliveart.co.uk/opportunities/performingborderslive-open-call-for-digital-commissions" target="_blank">performingbordersLIVE20 + LADA Open Call</a> — invite proposals for two digital conversations by curators, artists, researchers, activists, thinkers and/or other professionals working in Live Art (*d/l 7 May*).           
 • The Space (funded by Arts Council England) <a href="http://www.thespace.org/resource/low-cost-rd-commissioning-round" target="_blank">are looking for projects that fall into the ‘Low-Cost R&D’ strand</a> — aims to increase the digital reach of arts and cultural organisations by increasing the impact of existing work or collections and allows you to test approaches to extending your work digitally, acquiring new skills and gaining practical, sustainable experience in creating digital content and engaging online audiences (*d/l 7 May*).           
 • Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">resources for disabled artists + freelancers page</a> includes an opportunities section.        
+• UnShut Festival of Performance <a href="http://unshutfestival.wordpress.com" target="_blank">offer seven paid commissions</a> — ideas that test the boundaries, that investigate and challenge (*d/l 19 May*).           
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>
