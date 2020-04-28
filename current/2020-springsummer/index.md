@@ -6,14 +6,10 @@ is_index: true
 season: "Spring 2020"
 
 ---
-**In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's measures</a>, we're working with partners + host venues to make appropriate changes to our Spring 2020 Performance Programme — please see our [Coronavirus News + Information page](/coronavirus) for updates.**         
-        
-<hr>        
-        
 *From filling the gap to taking the biscuit, soft flesh to hard lessons, via a canon of reverence + representation… Spring 2020 features artists [Jo Bannon](/current/2020-springsummer/bannon), [Tania Camara](/current/2020-springsummer/camara), [Harry Clayton-Wright](/current/2020-springsummer/clayton-wright), [Will Dickie](/current/2020-worksahead), [Jamal Gerald](/current/2020-springsummer/gerald), [Ross McCaffrey](/current/2020-worksahead), plus a [Thursday Late for the curious](/current/2020-emergencystopgap).*        
         
-Brought to you by [hÅb](/hab) with Contact, NIAMOS, Royal Exchange Theatre, STUN + The Lowry — we look forward to seeing you at some or all of Spring 2020, and if you come to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=157901649112" target="_blank">audience survey</a>.         
-         
+Brought to you by [hÅb](/hab) with Contact, NIAMOS, Royal Exchange Theatre, STUN + The Lowry — we look forward to seeing you at some or all of Spring 2020, and if you come to an event please help us by taking a few minutes to fill out our <a href="http://research.audiencesurveys.org/s.asp?k=157901649112" target="_blank">audience survey</a>. Please note: in light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's measures</a>, we're working with partners + host venues to make appropriate changes — please see our [News + Information page](/coronavirus) for updates.         
+        
 Check out what happened last season with a look at our [Autumn/Winter 2019 archive](/archive/2019-autumnwinter), and keep in touch by <a href="{{ site.mailer_signup_url }}" target="_blank">signing-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.        
           
 #### What is Word of Warning + where did it come from?         
