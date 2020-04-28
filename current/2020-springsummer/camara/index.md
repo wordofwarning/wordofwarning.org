@@ -23,7 +23,8 @@ season: "Tania Camara 1|5|2020, 7pm"
          
 #### Summary       
 A choreographic development for streaming. Donning a camouflage of Oreo-filling, Tania explores the masks we wear to put our heads above the parapet in a climate of systemic racism.          
-        
+<iframe src="http://www.youtube.com/embed/oXtiixsZGYM" width="640" height="360" frameborder="0" allowfullscreen></iframe>        
+       
 #### Location           
 When: Friday 1 May 2020, 7pm.<br>&nbsp;(N.B. Rescheduled from 23+24 April in STUN Studio at Z-arts.)        
 Where: live streamed on Word of Warning's <a href="http://facebook.com/warnmcr" target="_blank">Facebook</a>, <a href="http://twitter.com/warnmcr" target="_blank">Twitter</a>, <a href="http://www.youtube.com/channel/UCcAnSRD_qFdRdJ39gVEyFcg" target="_blank">YouTube</a> channels.         
