@@ -17,7 +17,7 @@ season: "Tania Camara 1|5|2020, 7pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to: [summary](/current/2020-springsummer/camara/#summary) [location](/current/2020-springsummer/camara/#location) [access](/current/2020-springsummer/camara/#access) [more](/current/2020-springsummer/camara/#more) [biography](/current/2020-springsummer/camara/#biography) [quotes](/current/2020-springsummer/camara/#quotes) [credits](/current/2020-springsummer/camara/#credits) [websites](/current/2020-springsummer/camara/#websites)</span>       
+<span style='font-variant: small-caps'>jump to: [summary](/current/2020-springsummer/camara/#summary) [location](/current/2020-springsummer/camara/#location) [access](/current/2020-springsummer/camara/#access) [more](/current/2020-springsummer/camara/#more) [biography](/current/2020-springsummer/camara/#biography) [reviews](/current/2020-springsummer/camara/#reviews) [credits](/current/2020-springsummer/camara/#credits) [websites](/current/2020-springsummer/camara/#websites)</span>       
         
 *Presented by* STUN *+* Word of Warning        
          
@@ -27,7 +27,7 @@ A choreographic development for streaming. Donning a camouflage of Oreo-filling,
        
 #### Location           
 When: Friday 1 May 2020, 7pm.<br>&nbsp;(N.B. Rescheduled from 23+24 April in STUN Studio at Z-arts.)        
-Where: live streamed on Word of Warning's <a href="http://facebook.com/warnmcr" target="_blank">Facebook</a>, <a href="http://twitter.com/warnmcr" target="_blank">Twitter</a>, <a href="http://www.youtube.com/channel/UCcAnSRD_qFdRdJ39gVEyFcg" target="_blank">YouTube</a> channels.<br>&nbsp;(N.B. Streamed in accordance with <a href="http://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/880098/300320_Revised_Guidance.pdf" target="_blank">UK Government Guidance + Exceptions</a>.)         
+Where: live streamed simultaneously on Word of Warning's <a href="http://facebook.com/warnmcr" target="_blank">Facebook</a>, <a href="http://twitter.com/warnmcr" target="_blank">Twitter</a>, <a href="http://www.youtube.com/channel/UCcAnSRD_qFdRdJ39gVEyFcg" target="_blank">YouTube</a> channels (in accordance with <a href="http://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/880098/300320_Revised_Guidance.pdf" target="_blank">UK Government Guidance + Exceptions</a>).         
         
 #### Access         
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: please click [here](/warnings).<br>Duration: *approximately* 30 minutes.<br>Features: spoken Creole, English + Portuguese, and choreographed movement.<br>For specific age + access information please get in touch by emailing <mailto:info@habmcr.org>.         
@@ -38,7 +38,7 @@ Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: please cl
 #### Biography        
 A Manchester-based solo performance artist, Tania Camara works across devised theatre, dance, site-specific, live art, installation, video + photography. A graduate of the University of Amsterdam with an MA, she uses her cultural heritage, past experiences, research + the interdisciplinary structure of Batuku (incl. singing, dancing, drums + spoken word). Tania's current practice focuses on personal accounts of memory, collective and ancestral, to uncover her racial and cultural identity; the concept of self and other; belonging and the black performing body.<br><br>Tania is a member of <a href="http://thelowry.com/about-us/artist-development/class-of-programme" target="_blank">The Lowry's Class of 2020</a>.        
         
-#### Quotes        
+#### Reviews        
 >★★★★ *A tour de force of a performance …utterly compelling.*<br>&nbsp;— <a href="http://www.thegrouchycritic.com/oreo-review" target="_blank">The Grouchy Critic on *Oreo* at HOME</a><br>*Captivating and thought provoking. Food for thought.*<br>&nbsp;— <a href="http://number9reviews.blogspot.com/2020/01/theatre-review-oreo-home-manchester.html" target="_blank">Number 9 Reviews on *Oreo* at HOME</a>         
          
 #### Credits          
