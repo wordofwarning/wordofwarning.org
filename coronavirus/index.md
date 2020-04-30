@@ -12,14 +12,14 @@ season: "News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 30 April 2020 at 11:16*        
+##### *Last updated on 30 April 2020 at 11:18*        
 
 <span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences) [help for artists](/coronavirus/#artists)</span>       
 <hr>          
 #### Audiences         
 ##### Word of Warning Spring 2020
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's measures</a>, we're working with partners + host venues to make appropriate changes to our [current Performance Programme](/current/2020-springsummer):            
-**1 May, 7pm | [*OREO: variations* by Tania Camara](/current/2020-springsummer/camara)** — live streamed simultaneously on our <a href="http://facebook.com/warnmcr" target="_blank">Facebook</a>, <a href="http://twitter.com/warnmcr" target="_blank">Twitter</a>, <a href="http://www.youtube.com/channel/UCcAnSRD_qFdRdJ39gVEyFcg" target="_blank">YouTube</a> channels (rescheduled from 23+24 Apr at STUN/Z-arts);       
+**1 May, 7pm | [*OREO: variations* by Tania Camara](/current/2020-springsummer/camara)** — live streamed simultaneously on our <a href="http://facebook.com/warnmcr" target="_blank">Facebook</a>, <a href="http://twitter.com/warnmcr" target="_blank">Twitter</a>, <a href="http://www.youtube.com/channel/UCcAnSRD_qFdRdJ39gVEyFcg" target="_blank">YouTube</a> channels (rescheduled from 23+24 Apr at STUN);       
 **21+22 May | [Works Ahead from Will Dickie + Ross McCaffrey](/current/2020-worksahead)** — further information to follow.        
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>           
 ##### Other things to watch         
