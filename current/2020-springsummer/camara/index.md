@@ -22,7 +22,7 @@ season: "Tania Camara 1|5|2020, 7pm"
 *Presented by* STUN *+* Word of Warning        
          
 #### Summary       
-A choreographic development for streaming. Donning a camouflage of Oreo-filling, Tania explores the masks we wear to put our heads above the parapet in a climate of systemic racism.          
+A choreographic development, work-in-progress, for live streaming.<br>Donning a camouflage of Oreo-filling, Tania explores the masks we wear to put our heads above the parapet in a climate of systemic racism.          
 <iframe src="http://www.youtube.com/embed/oXtiixsZGYM" width="640" height="360" frameborder="0" allowfullscreen></iframe>        
        
 #### Location           
