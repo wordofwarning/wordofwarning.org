@@ -12,7 +12,7 @@ season: "News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 1 May 2020 at 13:50*        
+##### *Last updated on 1 May 2020 at 13:57*        
 
 <span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences) [help for artists](/coronavirus/#artists)</span>       
 <hr>          
@@ -49,7 +49,7 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 <hr>          
 #### Artists         
 [hÅb](/hab) remains "open for business" and we continue to advise/support artists + freelancers in our sector where we can, signposting help below.         
-• <a href="http://www.gm-artisthub.co.uk" target="_blank">Greater Manchester Artist Hub</a> is a new, joint artist development project supporting independent artists + freelance creatives across the city region:<br>&nbsp;→ GMAH are hosting <a href="http://www.gm-artisthub.co.uk/advisory-sessions" target="_blank">Advisory Sessions on Zoom</a>, please sign up online for a 30 minute chat to talk through creative ideas, get advice on issues that are causing you concern, or simply to develop your network + stay connected during isolation (partners: Community Arts Northwest, Contact, [hÅb](/hab)/[Word of Warning](/), HOME, Manchester International Festival, Octagon Theatre Bolton, Oldham Coliseum Theatre, Royal Exchange Theatre, SICK! Festival, Sustained Theatre Up North, The Lowry, Waterside Arts & Creative Industries Trafford, Z-arts).        
+<a href="http://www.gm-artisthub.co.uk" target="_blank">Greater Manchester Artist Hub</a> is a new, joint artist development project to support independent artists + freelance creatives across our city region, by Community Arts Northwest, Contact, [hÅb](/hab)/[Word of Warning](/), HOME, Manchester International Festival, Octagon Theatre Bolton, Oldham Coliseum Theatre, Royal Exchange Theatre, SICK! Festival, Sustained Theatre Up North, The Lowry, Waterside Arts & Creative Industries Trafford, Z-arts.<br>&nbsp;→ GMAH are hosting <a href="http://www.gm-artisthub.co.uk/advisory-sessions" target="_blank">free, private, 30 minute advisory sessions on Zoom</a>, please sign up online if you wnat to talk through creative ideas, get advice on issues that are causing you concern, or simply to develop your network + stay connected during isolation. GMAH will also deliver online group sessions later in May.        
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>       
 ##### Emergency Response Funds         
 • <a href="http://artscouncil.org.uk/covid-19" target="_blank">Arts Council England's Covid-19 support</a> for <a href="http://www.artscouncil.org.uk/funding/financial-support-artists-creative-practitioners-and-freelancers" target="_blank">individuals</a> and <a href="http://www.artscouncil.org.uk/funding/financial-support-organisations-outside-national-portfolio" target="_blank">organisations outside their National Portfolio</a>:<br>&nbsp;→ round one opened 9 April + closed 16 April / round two opened 16 April + closed 30 April at 2pm (d/l extended from noon);<br>&nbsp;→ they're sending notifications to applicants from 27 April;<br>&nbsp;→ after applying please read <a href="http://www.artscouncil.org.uk/covid-19/emergency-response-fund-information-submitted-applicants" target="_blank">ACE's information for submitted applicants</a>.         
