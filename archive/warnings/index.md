@@ -12,15 +12,18 @@ season: "Archived Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 26 March 2020 at 16:00*          
+##### *Last updated on 4 May at 15:10*          
 <hr>          
 Below are Age Advisories/Limits + Content Warnings for past [Word of Warning](/) events; this information was for audience members who wanted to know more about the content of work presented in our Performance Programme — particularly highlighting elements that may have distressed, caused upset, or triggered. *Please note — upcoming event warnings can be found [here](/warnings).*         
 <hr>         
 ### 2020           
-##### [1 Apr at The Lowry | CANCELLED — *We Are Fucked* by Jo Bannon](/current/2020-springsummer/bannon)       
+##### [1 May, 7pm on Facebook, Twitter, YouTube | *OREO: variations* by Tania Camara](/current/2020-springsummer/camara)        
+Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes simulated gagging/retching.<br>&nbsp;(N.B. Rescheduled from 23+24 April in STUN Studio at Z-arts.)        
+        
+##### [1 Apr at The Lowry | *We Are Fucked* by Jo Bannon (CANCELLED)](/current/2020-springsummer/bannon)       
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: none.       
          
-##### [19—21 Mar in Studio at Royal Exchange Theatre | CANCELLED — *IDOL* by Jamal Gerald](/current/2020-springsummer/gerald)       
+##### [19—21 Mar in Studio at Royal Exchange Theatre | *IDOL* by Jamal Gerald (CANCELLED)](/current/2020-springsummer/gerald)       
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes strong language, sexual references + full nudity; uses haze + flashing lights (*not strobe*). Please note that candles + joss sticks are lit throughout the show.        
           
 ##### [27 Feb at NIAMOS | Emergency StopGap](/current/2020-emergencystopgap)        
