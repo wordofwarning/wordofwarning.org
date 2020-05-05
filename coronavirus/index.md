@@ -12,7 +12,7 @@ season: "News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 4 May 2020 at 15:05*        
+##### *Last updated on 5 May 2020 at 18:18*        
 
 <span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences) [help for artists](/coronavirus/#artists)</span>       
 <hr>          
@@ -67,7 +67,7 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 • Live Art Development Agency (LADA)'s <a href="http://www.thisisliveart.co.uk/resources/covid-19-support-resources" target="_blank">Covid-19 support + resources page</a> — aims to gather information to support affected artists + arts workers.         
 • <a href="http://livestreamarchive.co.uk/resources" target="_blank">Live Stream Archive</a> + <a href="http://www.facebook.com/groups/livestreamingarts" target="_blank">Live Streaming Arts Facebook group</a> — expertise, information + advice on how to share live performance with, and connect to, audiences online.         
 • Manchester International Festival's <a href="http://mif.co.uk/resources-for-freelance-creatives/" target="_blank">Resources For Artists + Freelancers page</a>.        
-• MIF's <a href="http://mif.co.uk/mif-drop-in-artists-freelance-creatives" target="_blank">Zoom drop in for artists + freelance creatives</a> — join John McGrath + Mark Ball on Tuesdays + Thursdays at 2pm (<a href="http://www.facebook.com/groups/mifartistfreelancedropin" target="_blank">also join the facebook group</a>).        
+• MIF's <a href="http://mif.co.uk/mif-drop-in-artists-freelance-creatives" target="_blank">Zoom drop in for artists + freelance creatives on Thursdays at 2pm </a> — no longer on Tuesdays, you can <a href="http://www.facebook.com/groups/mifartistfreelancedropin" target="_blank">also join their facebook group</a>.        
 • <a href="http://www.moneysavingexpert.com/news" target="_blank">Money Saving Expert (aka Martin Lewis)</a> has lots of useful information (regular updates).           
 • Paul Lewis Money's <a href="http://paullewismoney.blogspot.com/2020/03/self-employed-coronavirus-scheme.html" target="_blank">blog on the coronavirus Self-employment Income Scheme (regular updates)</a>.        
 • Supercool's blog on <a href="http://supercooldesign.co.uk/blog/keeping-it-live" target="_blank">quick routes to live-streaming</a>.        
