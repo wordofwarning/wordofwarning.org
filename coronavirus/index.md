@@ -12,7 +12,7 @@ season: "News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 7 May 2020 at 14:08*        
+##### *Last updated on 7 May 2020 at 14:15*        
 
 <span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences) [help for artists](/coronavirus/#artists)</span>       
 <hr>          
@@ -54,7 +54,7 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 ##### Emergency Response Funds         
 • <a href="http://artscouncil.org.uk/covid-19" target="_blank">Arts Council England's Covid-19 support</a> for <a href="http://www.artscouncil.org.uk/funding/financial-support-artists-creative-practitioners-and-freelancers" target="_blank">individuals</a> and <a href="http://www.artscouncil.org.uk/funding/financial-support-organisations-outside-national-portfolio" target="_blank">organisations outside their National Portfolio</a> has now closed:<br>&nbsp;→ they're sending notifications to applicants from 27 April; after applying please read <a href="http://www.artscouncil.org.uk/covid-19/emergency-response-fund-information-submitted-applicants" target="_blank">ACE's information for submitted applicants</a>.         
 • <a href="http://www.a-n.co.uk/news/a-n-bursaries-time-space-money-open-for-applications" target="_blank">a-n Bursaries: Time Space Money</a> was an emergency response fund that closed *7 May at noon*.        
-• <a href="http://www.greatermanchester-ca.gov.uk/what-we-do/culture" target="_blank">United We Stream's Solidarity Fund</a>: set up by Greater Manchester's Culture team + Night Time Economy Adviser to help our cultural + night time industries; to apply you must:<br>&nbsp;→ EITHER be a Greater Manchester-based individual or freelancer working in the cultural or night time economy sector;<br>&nbsp;→ OR applying on behalf of a Greater Manchester-based venue, bar, restaurant or cultural organisation;<br>&nbsp;→ download the form at <a href="http://greatermanchester-ca.gov.uk/media/2851/uws-funding-application-v2.xlsx" target="_blank">United We Stream Solidarity Fund</a> and send to uwsfunding@greatermanchester-ca.gov.uk (*no deadline given*).         
+• <a href="http://www.greatermanchester-ca.gov.uk/what-we-do/culture" target="_blank">United We Stream's Solidarity Fund</a> from Greater Manchester's Culture team + Night Time Economy Adviser to help our cultural + night time industries; to apply you must:<br>&nbsp;EITHER be a Greater Manchester-based individual or freelancer working in the cultural or night time economy sectors;<br>&nbsp;OR represent a Greater Manchester-based venue, bar, restaurant or cultural organisation in your application;<br>&nbsp;→ download the form at <a href="http://greatermanchester-ca.gov.uk/media/2851/uws-funding-application-v2.xlsx" target="_blank">United We Stream Solidarity Fund</a> and send to uwsfunding@greatermanchester-ca.gov.uk (*no deadline given*).         
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>       
 ##### Advice/guidance/support         
 • Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Covid-19 support page</a> includes advice + guidance on funds that government + other organisations have put in place.          
@@ -79,7 +79,7 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>       
 
 ##### Opportunities/commissions         
-• Greater Mcr Combined Authority's Culture team announce opportunities to help artists, freelancers + organisations that *aren't* in their portfolio at <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>; also see http://www.greatermanchester-ca.gov.uk/what-we-do/culture/.        
+• <a href="http://greatermanchester-ca.gov.uk/what-we-do/culture" target="_blank">Greater Mcr Combined Authority's Culture team</a> tend to announce opportunities to help artists, freelancers + organisations that *aren't* in their portfolio at <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>;        
 • <a href="http://livestreamarchive.co.uk/contact" target="_blank">Live Stream Archive</a> — share a recording of a performance to add to their temporary digital archive.        
 • Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">resources for disabled artists + freelancers page</a> includes an opportunities section.        
 • UnShut Festival of Performance <a href="http://unshutfestival.wordpress.com" target="_blank">offer seven paid commissions</a> — ideas that test the boundaries, that investigate and challenge (*d/l 19 May*).           
