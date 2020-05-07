@@ -12,7 +12,7 @@ season: "News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 7 May 2020 at 14:15*        
+##### *Last updated on 7 May 2020 at 14:24*        
 
 <span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences) [help for artists](/coronavirus/#artists)</span>       
 <hr>          
@@ -24,7 +24,7 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 ##### Other things to watch         
 As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to perfomance</a> becomes more sporadic in these unprecedented times, we're collating other things to see or do online here:        
 **8 May | <a href="http://eventbrite.co.uk/e/white-trash-screening-live-discussion-tickets-104064232922" target="_blank">Quarantine's *White Trash*</a>** — screening of their 2004 performance with live discussion between creative team + performers (*appears* to be fully booked).        
-**12 May | <a href="http://www.forcedentertainment.com/projects/end-meeting-for-all" target="_blank">Forced Entertainment's *End Meeting For All*</a>** — a fragmentary online work in three short episodes (first 28 Apr / second 5 May), each taking the form of a Zoom meeting.        
+**12 May | <a href="http://www.forcedentertainment.com/projects/end-meeting-for-all" target="_blank">Forced Entertainment's *End Meeting For All*</a>** — last episode of a fragmentary online work, taking the form of a Zoom meeting (ep.1 28 Apr / ep.2 5 May).        
 **16 May | <a href="http://dedomenici.com/coronavision" target="_blank">Richard DeDomenici's *Coronavision Song Contest!*</a>** — see 30 finalists on Facebook live when the cancelled Eurovision 2020 final would have taken place.       
 **<a href="http://smallertemples.wordpress.com/2020/04/04/quarantine-performance" target="_blank">Ben Kulvichit's Quarantine performance blog post</a>** — an evolving diary of streams + recordings of shows to see online.        
 **<a href="http://www.companychameleon.com/whats-on/theatre-thursdays" target="_blank">Company Chameleon's Theatre Thursdays</a>** — weekly opportunities to see one of their dance theatre productions.         
@@ -54,7 +54,7 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 ##### Emergency Response Funds         
 • <a href="http://artscouncil.org.uk/covid-19" target="_blank">Arts Council England's Covid-19 support</a> for <a href="http://www.artscouncil.org.uk/funding/financial-support-artists-creative-practitioners-and-freelancers" target="_blank">individuals</a> and <a href="http://www.artscouncil.org.uk/funding/financial-support-organisations-outside-national-portfolio" target="_blank">organisations outside their National Portfolio</a> has now closed:<br>&nbsp;→ they're sending notifications to applicants from 27 April; after applying please read <a href="http://www.artscouncil.org.uk/covid-19/emergency-response-fund-information-submitted-applicants" target="_blank">ACE's information for submitted applicants</a>.         
 • <a href="http://www.a-n.co.uk/news/a-n-bursaries-time-space-money-open-for-applications" target="_blank">a-n Bursaries: Time Space Money</a> was an emergency response fund that closed *7 May at noon*.        
-• <a href="http://www.greatermanchester-ca.gov.uk/what-we-do/culture" target="_blank">United We Stream's Solidarity Fund</a> from Greater Manchester's Culture team + Night Time Economy Adviser to help our cultural + night time industries; to apply you must:<br>&nbsp;EITHER be a Greater Manchester-based individual or freelancer working in the cultural or night time economy sectors;<br>&nbsp;OR represent a Greater Manchester-based venue, bar, restaurant or cultural organisation in your application;<br>&nbsp;→ download the form at <a href="http://greatermanchester-ca.gov.uk/media/2851/uws-funding-application-v2.xlsx" target="_blank">United We Stream Solidarity Fund</a> and send to uwsfunding@greatermanchester-ca.gov.uk (*no deadline given*).         
+• <a href="http://www.greatermanchester-ca.gov.uk/what-we-do/culture" target="_blank">United We Stream's Solidarity Fund</a> from GMCA's Culture team + Night Time Economy Adviser to help Greater Manchester's cultural + night time industries. You must be:<br>&nbsp;EITHER a Greater Manchester-based individual or freelancer working in the cultural or night time economy sectors;<br>&nbsp;OR applying on behalf of a Greater Manchester-based venue, bar, restaurant or cultural organisation;<br>&nbsp;→ download the application form (excel spreadsheet) at <a href="http://greatermanchester-ca.gov.uk/media/2851/uws-funding-application-v2.xlsx" target="_blank">United We Stream Solidarity Fund</a> and email to: uwsfunding@greatermanchester-ca.gov.uk (*no deadline given*).         
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>       
 ##### Advice/guidance/support         
 • Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Covid-19 support page</a> includes advice + guidance on funds that government + other organisations have put in place.          
