@@ -12,7 +12,7 @@ season: "News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 7 May 2020 at 14:24*        
+##### *Last updated on 7 May 2020 at 14:37*        
 
 <span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences) [help for artists](/coronavirus/#artists)</span>       
 <hr>          
@@ -54,7 +54,7 @@ As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warni
 ##### Emergency Response Funds         
 • <a href="http://artscouncil.org.uk/covid-19" target="_blank">Arts Council England's Covid-19 support</a> for <a href="http://www.artscouncil.org.uk/funding/financial-support-artists-creative-practitioners-and-freelancers" target="_blank">individuals</a> and <a href="http://www.artscouncil.org.uk/funding/financial-support-organisations-outside-national-portfolio" target="_blank">organisations outside their National Portfolio</a> has now closed:<br>&nbsp;→ they're sending notifications to applicants from 27 April; after applying please read <a href="http://www.artscouncil.org.uk/covid-19/emergency-response-fund-information-submitted-applicants" target="_blank">ACE's information for submitted applicants</a>.         
 • <a href="http://www.a-n.co.uk/news/a-n-bursaries-time-space-money-open-for-applications" target="_blank">a-n Bursaries: Time Space Money</a> was an emergency response fund that closed *7 May at noon*.        
-• <a href="http://www.greatermanchester-ca.gov.uk/what-we-do/culture" target="_blank">United We Stream's Solidarity Fund</a> from GMCA's Culture team + Night Time Economy Adviser to help Greater Manchester's cultural + night time industries. You must be:<br>&nbsp;EITHER a Greater Manchester-based individual or freelancer working in the cultural or night time economy sectors;<br>&nbsp;OR applying on behalf of a Greater Manchester-based venue, bar, restaurant or cultural organisation;<br>&nbsp;→ download the application form (excel spreadsheet) at <a href="http://greatermanchester-ca.gov.uk/media/2851/uws-funding-application-v2.xlsx" target="_blank">United We Stream Solidarity Fund</a> and email to: uwsfunding@greatermanchester-ca.gov.uk (*no deadline given*).         
+• <a href="http://www.greatermanchester-ca.gov.uk/what-we-do/culture" target="_blank">United We Stream's Solidarity Fund</a> from GMCA's Culture team + Night Time Economy Adviser to help Greater Manchester's cultural + night time industries. You must be:<br>&nbsp;EITHER a Greater Manchester-based individual or freelancer working in the cultural or night time economy sectors;<br>&nbsp;OR applying on behalf of a Greater Manchester-based venue, bar, restaurant or cultural organisation;<br>&nbsp;→ download the application form (excel spreadsheet) at <a href="http://greatermanchester-ca.gov.uk/media/2851/uws-funding-application-v2.xlsx" target="_blank">http://greatermanchester-ca.gov.uk/media/2851/uws-funding-application-v2.xlsx</a> and email to: uwsfunding@greatermanchester-ca.gov.uk (*no deadline*).         
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>       
 ##### Advice/guidance/support         
 • Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Covid-19 support page</a> includes advice + guidance on funds that government + other organisations have put in place.          
