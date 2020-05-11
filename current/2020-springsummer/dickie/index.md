@@ -4,12 +4,12 @@ layout: 2020-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Tania Camara" # the name of the artist or company
-show: "<br>&nbsp;OREO: variations" # the name of the show
-artist_size: 2
-show_size: 2
-header_image: "header_tania.jpg"    
-season: "Tania Camara 1|5|2020, 7pm"
+artist: "Works Ahead 2020 — Will Dickie" # the name of the artist or company
+show: "<br>&nbsp;White Sun" # the name of the show
+artist_size: 3
+show_size: 1
+header_image: "original6308.jpg"    
+season: "Works Ahead — Will Dickie 22|5|2020, 9pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -19,21 +19,26 @@ season: "Tania Camara 1|5|2020, 7pm"
 ---
 <span style='font-variant: small-caps'>jump to: [summary](/current/2020-springsummer/camara/#summary) [location](/current/2020-springsummer/camara/#location) [access](/current/2020-springsummer/camara/#access) [more](/current/2020-springsummer/camara/#more) [biography](/current/2020-springsummer/camara/#biography) [reviews](/current/2020-springsummer/camara/#reviews) [credits](/current/2020-springsummer/camara/#credits) [websites](/current/2020-springsummer/camara/#websites)</span>       
         
-*Presented by* STUN *+* Word of Warning        
+*Presented by* Word of Warning *+* Contact *as Works Ahead 2020*         
          
 #### Summary       
-A choreographic development, work-in-progress, for live streaming.<br><br>Donning a camouflage of Oreo-filling, Tania explores the masks we wear to put our heads above the parapet in a climate of systemic racism.          
-<iframe src="http://www.youtube.com/embed/oXtiixsZGYM" width="640" height="360" frameborder="0" allowfullscreen></iframe>        
+A performance work-in-progress, adapted for live streaming as darkness falls.<br><br>A lo-fi solo symphony of relentless movement + words about being a white son.<br>A sun of power + privilege, a son of divorce + addiction.
        
 #### Location           
-When: Friday 1 May 2020, 7pm.<br>&nbsp;(N.B. Rescheduled from 23+24 April in STUN Studio at Z-arts.)        
-Where: live streamed simultaneously on Word of Warning's <a href="http://facebook.com/warnmcr" target="_blank">Facebook</a>, <a href="http://twitter.com/warnmcr" target="_blank">Twitter</a>, <a href="http://youtube.com/watch?v=m7dDCgaffoI" target="_blank">YouTube</a> channels (in accordance with <a href="http://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/880098/300320_Revised_Guidance.pdf" target="_blank">UK Government Guidance + Exceptions on p5</a>).         
-        
+When: Friday 22 May 2020, 9pm.<br>&nbsp;(N.B. Rescheduled from 21+22 May at NIAMOS.)        
+Where: live streamed online.         
+How to watch: book your free space on <a href="http://URL" target="_blank">Eventbrite</a>, donations welcome to our <a href="http://URL" target="_blank">PayPal</a>.        
+*Please note: originally to be shown in a double bill with Ross McCaffrey as Works Ahead 2020, Ross has decided to postpone sharing his work until we can all be together in the same space.*        
+           
 #### Access         
-Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: please click [here](/warnings).<br>Duration: *approximately* 30 minutes.<br>Features: live + recorded audio, and choreographed movement.<br>For specific age + access information please get in touch by emailing <mailto:info@habmcr.org>.         
+Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>Duration: *approximately* 30 minutes.<br>Features: live spoken English + movement.<br>For specific age + access information please get in touch by emailing <mailto:info@habmcr.org>.         
              
 #### More         
-*Oreo, coconut, Bounty Bar* — micro-aggressions used to disempower a black person deemed to be 'acting white'.<br><br>A semi-autobiographical solo about being a successfully educated black woman within western society, *OREO: variations* interrogates racial micro-aggressions and their effect on mental health within private and public personas — focusing on public figures such as British MP <a href="http://en.wikipedia.org/wiki/Diane_Abbott" target="_blank">Diane Abbott</a> + Portuguese politician <a href="http://en.wikipedia.org/wiki/Joacine_Katar_Moreira" target="_blank">Joacine Katar Moreira</a>.<br><br>Exploring the racial term 'Oreo' in relation to experiences of episodic racism within higher education and employment, Tania challenges the notion of whitening her physical and phenomenal self to achieve success in society, asking you to open-up and join-in to celebrate a moment of freedom, a moment of clarity.<br><br>Please note this isn't the developed show we planned to present at STUN in April — rather than attempt to show something not designed for live streaming, *OREO: variations* is an exploration of one action-based section (developed over four days following Tania's residency in Senegal with Kaolack, a Czech-based choreographer specialising in Traditional + Afro-Contemporary dance practices).        
+*No lights. No music. No props. Moving. And speaking. And moving and speaking. And Skanking and moving and speaking. Some Nodding. Pulsing. Also bopping. And shaking. And shaking shaking. Scrambling. And speaking. And pointing.<br><br>Pointing at the space when others see my face.<br>Pointing at addiction and how that makes us who we are.<br>Pointing at divorce and how that makes us who we are.<br>Pointing at Britain and old actors and privilege and how that makes me who I am.<br>Pointing at the Sun and speaking about white golden things.*        
+        
+Children of divorced parents are 50% more likely to develop mental health problems. Addiction is a primary cause of preventable death; ruining lives, and consuming vast amounts of medical resources.<br>Today, Britain continues to benefit from its colonial past. A nation passionately caught up with being right, being the exception to the rule, and making profit at any cost. 
+
+Will is white, British, straight, and privately educated. He grew up in a wealthy suburb inside the M25 and now lives in a Victorian house in Liverpool. Divorced parents. Addictions to food, exercise, and attention. Is there a way of coming to terms with this identity, this past, and his privilege? Any hope? Any space for a voice and moving body beyond a maelstrom of inequality?           
         
 #### Biography        
 A Manchester-based solo performance artist, Tania Camara works across devised theatre, dance, site-specific, live art, installation, video + photography. A graduate of the University of Amsterdam with an MA, she uses her cultural heritage, past experiences, research + the interdisciplinary structure of Batuku (incl. singing, dancing, drums + spoken word). Tania's current practice focuses on personal accounts of memory, collective and ancestral, to uncover her racial and cultural identity; the concept of self and other; belonging and the black performing body.<br><br>Tania is a member of <a href="http://thelowry.com/about-us/artist-development/class-of-programme" target="_blank">The Lowry's Class of 2020</a>.        
