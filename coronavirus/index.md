@@ -12,7 +12,7 @@ season: "News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 11 May 2020 at 13:56*        
+##### *Last updated on 11 May 2020 at 14:02*        
 
 <span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences) [help for artists](/coronavirus/#artists)</span>       
 <hr>          
@@ -24,11 +24,11 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 ##### Other things to watch         
 As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to perfomance</a> becomes more sporadic in these unprecedented times, we're collating other things to see or do online here:        
 **12 May, 8pm | <a href="http://www.forcedentertainment.com/projects/end-meeting-for-all" target="_blank">Forced Entertainment's *End Meeting For All*</a>** — last episode of a fragmentary online work, taking the form of a Zoom meeting (free, donations welcome).        
-**14 May, 7.30pm | <a href="http://forestfringe.co.uk/portfolio/forest-fringe-tv" target="_blank">Forest Fringe TV: Little Bulb Theatre's *Farewell*</a>** — each Thursday night, FFTV presents something to watch or participate in (free, donations welcome).         
-**16 May, 10pm | <a href="http://dedomenici.com/coronavision" target="_blank">Richard DeDomenici's *Coronavision Song Contest 2020 Grand Final*</a>** — on Facebook live when the cancelled Eurovision 2020 final would have taken place (free).        
-**17 May, 12noon-11pm** | <a href="http://theyardtheatre.co.uk/theatre/events/yard-online" target="_blank">Yard Online</a>** — feat. shows from Stacy Makishi, Christopher Green, Marikiscrycrycry, and other activities (free).       
-**21 May, 7.30pm | <a href="http://forestfringe.co.uk/portfolio/forest-fringe-tv" target="_blank">Forest Fringe TV: Rachel Mars + Greg Wohead's *Story #1 Returns (A Zoom Of One's Own)*</a>** — each Thursday night, FFTV presents something to watch or participate in (ticketed, free, donations welcome).         
-**28 May, 7.30pm | <a href="http://forestfringe.co.uk/portfolio/forest-fringe-tv" target="_blank">Forest Fringe TV: *The Museum of Hope in the Dark*</a>** — each Thursday night, FFTV presents something to watch or participate in (free, donations welcome).         
+**14 May, 7.30pm | <a href="http://forestfringe.co.uk/portfolio/forest-fringe-tv" target="_blank">Forest Fringe TV: Little Bulb Theatre's *Farewell*</a>** — each Thursday FFTV presents something to watch or participate in (free, donations welcome).         
+**16 May, 10pm | <a href="http://dedomenici.com/coronavision" target="_blank">Richard DeDomenici's *Coronavision Song Contest 2020 Grand Final*</a>** — live online when the cancelled Eurovision 2020 final would have been (free).        
+**17 May, 12noon-11pm | <a href="http://theyardtheatre.co.uk/theatre/events/yard-online" target="_blank">Yard Online</a>** — feat. shows from Stacy Makishi, Christopher Green, Marikiscrycrycry, and other activities (free).       
+**21 May, 7.30pm | <a href="http://forestfringe.co.uk/portfolio/forest-fringe-tv" target="_blank">Forest Fringe TV: Rachel Mars + Greg Wohead's *Story #1 Returns (A Zoom Of One's Own)*</a>** — each Thursday FFTV presents something to watch or participate in (ticketed, free, donations welcome).         
+**28 May, 7.30pm | <a href="http://forestfringe.co.uk/portfolio/forest-fringe-tv" target="_blank">Forest Fringe TV: *The Museum of Hope in the Dark*</a>** — each Thursday FFTV presents something to watch or participate in (free, donations welcome).         
 **<a href="http://smallertemples.wordpress.com/2020/04/04/quarantine-performance" target="_blank">Ben Kulvichit's Quarantine performance blog post</a>** — an evolving diary of streams + recordings of shows to see online.        
 **<a href="http://www.companychameleon.com/whats-on/theatre-thursdays" target="_blank">Company Chameleon's Theatre Thursdays</a>** — weekly opportunities to see one of their dance theatre productions.         
 **<a href="http://fueltheatre.com/projects/everyday-moments" target="_blank">*Everyday Moments* by Hofesh Schecter / Fuel</a>** — podcast designed to be listened to alone in a dark space; an invitation to move without inhibition (until 1 July).        
