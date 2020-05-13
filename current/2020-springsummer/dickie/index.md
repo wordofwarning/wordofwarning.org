@@ -22,8 +22,11 @@ season: "Works Ahead — Will Dickie 22|5|2020, 9pm"
 *Presented by* Word of Warning *+* Contact *as Works Ahead 2020*         
          
 #### Summary       
-A performance work-in-progress, adapted for live streaming as darkness falls.<br><br>A lo-fi solo symphony of relentless movement + words about being a white son.<br>A sun of power + privilege, a son of divorce + addiction.
-       
+A work in progress for performance, adapted for live streaming. As darkness falls…<br><br>
+A low fi solo symphony of relentless movement and words about being a white son.
+A sun of of power and privilege, a son of divorce and addiction.	
+
+      
 #### Location           
 When: Friday 22 May 2020, 9pm.<br>&nbsp;(N.B. Rescheduled from 21+22 May at NIAMOS.)        
 Where: live streamed online.         
@@ -47,7 +50,8 @@ A Manchester-based solo performance artist, Tania Camara works across devised th
 >★★★★ *A tour de force of a performance …utterly compelling.*<br>&nbsp;— <a href="http://www.thegrouchycritic.com/oreo-review" target="_blank">The Grouchy Critic on *Oreo* at HOME</a><br>*Captivating and thought provoking. Food for thought.*<br>&nbsp;— <a href="http://number9reviews.blogspot.com/2020/01/theatre-review-oreo-home-manchester.html" target="_blank">Number 9 Reviews on *Oreo* at HOME</a>         
          
 #### Credits          
-Creator, Performer, Producer: Tania Camara<br>Dance Mentor: Pape Ibrahima N'diaye (a.k.a. Kaolack)<br>Live Stream Producer: Ricardo Vilela at <a href="http://www.sagittamedia.co.uk/site2" target="_blank">Sagitta Media</a><br>Original Lighting Designer: Kamini Patel<br>Image of *Me, myself and my Oreos* from SPILL Festival of Performance 2016 by Guido Mencari.<br><br>Commissioned by STUN (Sustained Theatre Up North), developed with the support of <a href="http://homemcr.org/article/push-2020-commissions" target="_blank">HOME</a>, [Divergency](/hab/divergencymcr) + [hÅb](/hab).<br>Supported using public funding from the National Lottery through Arts Council England.<br>Thanks to Peader Kirk.       
+Conceived + performer: Tania Camara, in collaboration with Fabiola Santana<br><br>Technical advice: Jason Crouch | Project Mentor: Peader Kirk
+<br><br>Commissioned [hÅb](/hab) + Contact.<br>Supported using public funding from the National Lottery through Arts Council England.<br>Thanks to .       
         
 #### Websites         
 <a href="http://taniacamara.com" target="_blank">taniacamara.com</a> | <a href="http://www.facebook.com/events/247575136359260" target="_blank">Facebook event</a> | <a href="http://www.facebook.com/TaniaCamara.Performance.Artist" target="_blank">Tania Camara on Facebook</a> | <a href="http://twitter.com/TaniaCamara2" target="_blank">@TaniaCamara2</a>        
