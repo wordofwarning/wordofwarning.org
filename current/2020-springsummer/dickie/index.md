@@ -38,7 +38,7 @@ Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>Durati
         
 Today, Britain continues to benefit from its colonial past. A nation passionately caught up with being right, being the exception to the rule, and making profit at any cost. Children of divorced parents are 50% more likely to develop mental health problems. Addiction is a primary cause of preventable death; ruining lives, and consuming vast amounts of medical resources.           
          
-Will is white, British, straight, and privately educated. He grew up in a wealthy suburb inside the M25 and now lives in a Victorian house in Liverpool. Divorced parents; addictions to food, exercise, and attention.<br>*Is there a way of coming to terms with this identity, this past, and his privilege? Any hope? Any space for a voice and moving body beyond a maelstrom of inequality?*           
+Will is white, British, straight, and privately educated. He grew up in a wealthy suburb inside the M25 and now lives in a Victorian house in Liverpool. Divorced parents; addictions to food, exercise, and attention.<br>Is there a way of coming to terms with this identity, this past, and his privilege?<br>Any hope? Any space for a voice and moving body beyond a maelstrom of inequality?           
         
 #### Biography        
 A Manchester-based solo performance artist, Tania Camara works across devised theatre, dance, site-specific, live art, installation, video + photography. A graduate of the University of Amsterdam with an MA, she uses her cultural heritage, past experiences, research + the interdisciplinary structure of Batuku (incl. singing, dancing, drums + spoken word). Tania's current practice focuses on personal accounts of memory, collective and ancestral, to uncover her racial and cultural identity; the concept of self and other; belonging and the black performing body.<br><br>Tania is a member of <a href="http://thelowry.com/about-us/artist-development/class-of-programme" target="_blank">The Lowry's Class of 2020</a>.        
@@ -47,8 +47,7 @@ A Manchester-based solo performance artist, Tania Camara works across devised th
 >★★★★ *A tour de force of a performance …utterly compelling.*<br>&nbsp;— <a href="http://www.thegrouchycritic.com/oreo-review" target="_blank">The Grouchy Critic on *Oreo* at HOME</a><br>*Captivating and thought provoking. Food for thought.*<br>&nbsp;— <a href="http://number9reviews.blogspot.com/2020/01/theatre-review-oreo-home-manchester.html" target="_blank">Number 9 Reviews on *Oreo* at HOME</a>         
          
 #### Credits          
-Conceived + performer: Tania Camara, in collaboration with Fabiola Santana<br><br>Technical advice: Jason Crouch | Project Mentor: Peader Kirk
-<br><br>Commissioned [hÅb](/hab) + Contact.<br>Supported using public funding from the National Lottery through Arts Council England.<br>Thanks to .       
+Conceived + performed by Will Dickie, in collaboration with Fabiola Santana<br>Technical advice: Jason Crouch | Project Mentor: Peader Kirk<br>Commissioned by [hÅb](/hab) + Contact for Works Ahead 2020.       
 *Please note: originally to be shown in a double bill with Ross McCaffrey as Works Ahead 2020, Ross has decided to postpone sharing his work until it can be presented to a physical audience.*        
 
 #### Websites         
