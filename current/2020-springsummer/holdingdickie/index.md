@@ -17,14 +17,13 @@ season: "Works Ahead — Will Dickie 22|5|2020, 9pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to: [summary](/current/2020-springsummer/camara/#summary) [location](/current/2020-springsummer/camara/#location) [access](/current/2020-springsummer/camara/#access) [more](/current/2020-springsummer/camara/#more) [biography](/current/2020-springsummer/camara/#biography) [reviews](/current/2020-springsummer/camara/#reviews) [credits](/current/2020-springsummer/camara/#credits) [websites](/current/2020-springsummer/camara/#websites)</span>       
+<span style='font-variant: small-caps'>jump to: [summary](/current/2020-worksahead/#summary) [location](/current/2020-springsummer/camara/#location) [access](/current/2020-springsummer/camara/#access) [more](/current/2020-springsummer/camara/#more) [biography](/current/2020-springsummer/camara/#biography) [reviews](/current/2020-springsummer/camara/#reviews) [credits](/current/2020-springsummer/camara/#credits) [websites](/current/2020-springsummer/camara/#websites)</span>       
         
 *Presented by* Word of Warning *+* Contact *as Works Ahead 2020*         
          
 #### Summary       
-A work-in-progress for performance, adapted for live streaming.<br>As darkness falls…<br>A lo-fi solo symphony of relentless movement and words about being a white son.<br>A sun of power and privilege, a son of divorce and addiction.	
-
-      
+A work-in-progress for performance, adapted for live streaming.<br>As darkness falls…<br>A lo-fi solo symphony of relentless movement and words about being a white son.<br>A sun of power and privilege, a son of divorce and addiction.        
+        
 #### Location           
 When: Friday 22 May 2020, 9pm.<br>&nbsp;(N.B. Rescheduled from 21+22 May at NIAMOS.)        
 Where: live streamed online.         
@@ -41,16 +40,35 @@ Today, Britain continues to benefit from its colonial past. A nation passionatel
 Will is white, British, straight, and privately educated. He grew up in a wealthy suburb inside the M25 and now lives in a Victorian house in Liverpool. Divorced parents; addictions to food, exercise, and attention.<br>Is there a way of coming to terms with this identity, this past, and his privilege?<br>Any hope? Any space for a voice and moving body beyond a maelstrom of inequality?           
         
 #### Biography        
-A Manchester-based solo performance artist, Tania Camara works across devised theatre, dance, site-specific, live art, installation, video + photography. A graduate of the University of Amsterdam with an MA, she uses her cultural heritage, past experiences, research + the interdisciplinary structure of Batuku (incl. singing, dancing, drums + spoken word). Tania's current practice focuses on personal accounts of memory, collective and ancestral, to uncover her racial and cultural identity; the concept of self and other; belonging and the black performing body.<br><br>Tania is a member of <a href="http://thelowry.com/about-us/artist-development/class-of-programme" target="_blank">The Lowry's Class of 2020</a>.        
+Last seen to http://www.wordofwarning.org/archive/2019-springsummer/dickie/
+
+Will is an artist and performance maker whose solo works have toured the UK + Ireland, including Memories of Suburbia (Glasgow’s Buzzcut; Battersea Arts Centre), Team of the Decades (Latitude Festival; Bristol’s In Between Time; Southbank Centre), and The Rave Space (Camden People’s Theatre; Cork’s Quarter Block Party).
+
+He also works as an actor, dancer, DJ + director across art forms (recent collaborations include Abigail Conway, Rosana Cade + ZUUK), and works extensively with artists who are learning disabled.
         
 #### Reviews        
->★★★★ *A tour de force of a performance …utterly compelling.*<br>&nbsp;— <a href="http://www.thegrouchycritic.com/oreo-review" target="_blank">The Grouchy Critic on *Oreo* at HOME</a><br>*Captivating and thought provoking. Food for thought.*<br>&nbsp;— <a href="http://number9reviews.blogspot.com/2020/01/theatre-review-oreo-home-manchester.html" target="_blank">Number 9 Reviews on *Oreo* at HOME</a>         
+>★★★★*…there is more to this than meets the eye and it deserves respect.*<br>&nbsp;— <a href="http://www.remotegoat.com/uk/review/14140/drumnbass-mash-up-with-personal-overtones/#reviews" target="_blank">remotegoat on *Rave Space*</a><br>*…a brutal encounter with the self. It’s a brave performance, and is an act which jolts you awake.*<br><a href="http://www.ayoungertheatre.com/review-the-rave-space-camden-peoples-theatre" target="_blank">A Younger Theatre on *Rave Space*</a>       
+        
          
 #### Credits          
 Conceived + performed by Will Dickie, in collaboration with Fabiola Santana<br>Technical advice: Jason Crouch | Project Mentor: Peader Kirk<br>Commissioned by [hÅb](/hab) + Contact for Works Ahead 2020.       
 *Please note: originally to be shown in a double bill with Ross McCaffrey as Works Ahead 2020, Ross has decided to postpone sharing his work until it can be presented to a physical audience.*        
+A double bill of new works at the start of their journeys from artists Will Dickie + Ross McCaffrey. Get a feel for it with a look at [2019's programme](/archive/2019-worksahead).     
+
+#### What people have said about Works Ahead        
+>*A strong double bill tonight from @WarnMcr's ever-reliable #WorksAhead.*<br>&nbsp;— <a href="http://twitter.com/CirclesStalls/status/1129503777566937088" target="_blank">@CirclesStalls on 2019</a><br>*Vital …allows artists to present the prepubescent stages of their work to an audience who are expecting something weird, personal and entirely half-done.*<br>&nbsp;— <a href="http://www.thestateofthearts.co.uk/features/works-ahead-expect-something-weird-personal-entirely-half-done" target="_blank">The State of The Arts on 2018</a><br>*A cathartic, funny and brutally honest show.*<br>&nbsp;— <a href="http://afronalysis.com/2017/05/14/review-superposition-stun" target="_blank">Afronalysis on 2017</a><br>*Maybe not what you'd regard as traditional 'theatre', but compelling nonetheless. They make you think that anything could happen in the performance space.*<br>&nbsp;— <a href="http://quietmandave.co.uk/2016/06/works-ahead" target="_blank">QuietManDave on 2016</a><br>*Always an informal way to experience something a bit different.*<br>*Brilliant works in progress, varied and interesting.*<br>*Great to see new work by younger artists.*<br>*Higher standard than I was expecting of a work in progress … offered perspectives that I hadn't heard before.*<br>&nbsp;— Audience Feedback from 2019 + earlier years…          
+
+#### Credits         
+sample of new performance
+
+Project Mentor: Peader Kirk<br>[Works Ahead](/hab/worksahead) 2020 is co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.        
+        
+#### Websites + Social Media         
+<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a><br><a href="http://willdickie.co.uk" target="_blank">willdickie.co.uk</a> | <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a><br><a href="http://twitter.com/rocaffrey" target="_blank">@rocaffrey</a>
+
 
 #### Websites         
+<a href="http://willdickie.co.uk/TheRaveSpace" target="_blank">willdickie.co.uk</a> | <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a> | <a href="http://www.mixcloud.com/AlwaysWill/rave-space-textures" target="_blank">Rave Space Textures on Mixcloud</a>
 <a href="http://taniacamara.com" target="_blank">taniacamara.com</a> | <a href="http://www.facebook.com/events/247575136359260" target="_blank">Facebook event</a> | <a href="http://www.facebook.com/TaniaCamara.Performance.Artist" target="_blank">Tania Camara on Facebook</a> | <a href="http://twitter.com/TaniaCamara2" target="_blank">@TaniaCamara2</a>        
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2020-springsummer/camara)</span></small>
