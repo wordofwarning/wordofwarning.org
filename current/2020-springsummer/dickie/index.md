@@ -8,7 +8,7 @@ artist: "Works Ahead 2020 — Will Dickie" # the name of the artist or company
 show: "<br>&nbsp;White Sun" # the name of the show
 artist_size: 3
 show_size: 1
-header_image: "original6308.jpg"    
+header_image: "header_dickie1.jpg"    
 season: "Works Ahead — Will Dickie 22|5|2020, 9pm"
 
 # ABOUT THE SHOW - LAYOUT
