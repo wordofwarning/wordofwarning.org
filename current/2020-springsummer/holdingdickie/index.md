@@ -39,7 +39,7 @@ Today, Britain continues to benefit from its colonial past. A nation passionatel
          
 Will is white, British, straight, and privately educated. He grew up in a wealthy suburb inside the M25 and now lives in a Victorian house in Liverpool. Divorced parents; addictions to food, exercise, and attention.<br>Is there a way of coming to terms with this identity, this past, and his privilege?<br>Any hope? Any space for a voice and moving body beyond a maelstrom of inequality?         
 <hr>
-[Works Ahead](/hab/worksahead) is our annual sample of new performance.<br>2020's edition was planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS — Will has adapted his work for live streaming; Ross has postponed sharing his work until it can be shown to a physical audience.         
+[Works Ahead](/hab/worksahead) is our annual sample of new performance.<br>2020's edition was planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS on 21+22 May — Will has adapted his work for live streaming; Ross has postponed sharing his work until it can be shown to a physical audience.         
         
 #### Biography        
 Liverpool-based artist Will Dickie is a self-produced independent performance maker, working across dance, theatre + live art. Using body, autobiography, and place, he creates soulful performances for site and stage.            
