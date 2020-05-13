@@ -22,13 +22,13 @@ season: "Works Ahead — Will Dickie 22|5|2020, 9pm"
 *Presented by* Word of Warning *+* Contact *as Works Ahead 2020*         
          
 #### Summary       
-A work-in-progress for performance, adapted for live streaming.<br>As darkness falls…<br>A lo-fi solo symphony of relentless movement and words about being a white son.<br>A sun of of power and privilege, a son of divorce and addiction.	
+A work-in-progress for performance, adapted for live streaming.<br>As darkness falls…<br>A lo-fi solo symphony of relentless movement and words about being a white son.<br>A sun of power and privilege, a son of divorce and addiction.	
 
       
 #### Location           
 When: Friday 22 May 2020, 9pm.<br>&nbsp;(N.B. Rescheduled from 21+22 May at NIAMOS.)        
 Where: live streamed online.         
-How to watch: book your free space on <a href="http://URL" target="_blank">Eventbrite</a>, donations welcome to our <a href="http://URL" target="_blank">PayPal</a>.        
+How to watch: book your free space on <a href="http://URL" target="_blank">Eventbrite</a>, donations welcome via <a href="http://URL" target="_blank">PayPal</a>.        
            
 #### Access         
 Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>Duration: *approximately* 30 minutes.<br>Features: live spoken English + movement.<br>For specific age + access information please get in touch by emailing <mailto:info@habmcr.org>.         
@@ -36,9 +36,9 @@ Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>Durati
 #### More         
 *No lights. No music. No props. Moving. And speaking. And moving and speaking. And Skanking and moving and speaking. Some Nodding. Pulsing. Also bopping. And shaking. And shaking shaking. Scrambling. And speaking. And pointing.<br><br>Pointing at the space when others see my face.<br>Pointing at addiction and how that makes us who we are.<br>Pointing at divorce and how that makes us who we are.<br>Pointing at Britain and old actors and privilege and how that makes me who I am.<br>Pointing at the Sun and speaking about white golden things.*        
         
-Children of divorced parents are 50% more likely to develop mental health problems. Addiction is a primary cause of preventable death; ruining lives, and consuming vast amounts of medical resources.<br>Today, Britain continues to benefit from its colonial past. A nation passionately caught up with being right, being the exception to the rule, and making profit at any cost. 
-
-Will is white, British, straight, and privately educated. He grew up in a wealthy suburb inside the M25 and now lives in a Victorian house in Liverpool. Divorced parents. Addictions to food, exercise, and attention. Is there a way of coming to terms with this identity, this past, and his privilege? Any hope? Any space for a voice and moving body beyond a maelstrom of inequality?           
+Today, Britain continues to benefit from its colonial past. A nation passionately caught up with being right, being the exception to the rule, and making profit at any cost. Children of divorced parents are 50% more likely to develop mental health problems. Addiction is a primary cause of preventable death; ruining lives, and consuming vast amounts of medical resources.           
+         
+Will is white, British, straight, and privately educated. He grew up in a wealthy suburb inside the M25 and now lives in a Victorian house in Liverpool. Divorced parents; addictions to food, exercise, and attention.<br>*Is there a way of coming to terms with this identity, this past, and his privilege? Any hope? Any space for a voice and moving body beyond a maelstrom of inequality?*           
         
 #### Biography        
 A Manchester-based solo performance artist, Tania Camara works across devised theatre, dance, site-specific, live art, installation, video + photography. A graduate of the University of Amsterdam with an MA, she uses her cultural heritage, past experiences, research + the interdisciplinary structure of Batuku (incl. singing, dancing, drums + spoken word). Tania's current practice focuses on personal accounts of memory, collective and ancestral, to uncover her racial and cultural identity; the concept of self and other; belonging and the black performing body.<br><br>Tania is a member of <a href="http://thelowry.com/about-us/artist-development/class-of-programme" target="_blank">The Lowry's Class of 2020</a>.        
