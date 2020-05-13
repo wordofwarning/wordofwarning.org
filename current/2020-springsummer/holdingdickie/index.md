@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: 2020-spring
+layout: 2020-ss
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -33,23 +33,22 @@ How to watch: book your free space on <a href="http://URL" target="_blank">Event
 Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>Duration: *approximately* 30 minutes.<br>Features: live spoken English + movement.<br>For specific age + access information please get in touch by emailing <mailto:info@habmcr.org>.         
           
 #### More         
-*No lights. No music. No props. Moving. And speaking. And moving and speaking. And Skanking and moving and speaking. Some Nodding. Pulsing. Also bopping. And shaking. And shaking shaking. Scrambling. And speaking. And pointing.<br><br>Pointing at the space when others see my face.<br>Pointing at addiction and how that makes us who we are.<br>Pointing at divorce and how that makes us who we are.<br>Pointing at Britain and old actors and privilege and how that makes me who I am.<br>Pointing at the Sun and speaking about white golden things.*        
+*No lights. No music. No props. Moving. And speaking. And moving and speaking. And Skanking and moving and speaking. Some nodding. Pulsing. Also bopping. And shaking. And shaking shaking. Scrambling. And speaking. And pointing.<br><br>Pointing at the space when others see my face.<br>Pointing at addiction and how that makes us who we are.<br>Pointing at divorce and how that makes us who we are.<br>Pointing at Britain and old actors and privilege and how that makes me who I am.<br>Pointing at the Sun and speaking about white golden things.*        
         
 Today, Britain continues to benefit from its colonial past. A nation passionately caught up with being right, being the exception to the rule, and making profit at any cost. Children of divorced parents are 50% more likely to develop mental health problems. Addiction is a primary cause of preventable death; ruining lives, and consuming vast amounts of medical resources.           
          
 Will is white, British, straight, and privately educated. He grew up in a wealthy suburb inside the M25 and now lives in a Victorian house in Liverpool. Divorced parents; addictions to food, exercise, and attention.<br>Is there a way of coming to terms with this identity, this past, and his privilege?<br>Any hope? Any space for a voice and moving body beyond a maelstrom of inequality?           
         
 #### Biography        
-Last seen to http://www.wordofwarning.org/archive/2019-springsummer/dickie/
+Will Dickie returns after 2019's [*The Rave Space* — ](/archive/2019-springsummer/dickie)
 
-Will is an artist and performance maker whose solo works have toured the UK + Ireland, including Memories of Suburbia (Glasgow’s Buzzcut; Battersea Arts Centre), Team of the Decades (Latitude Festival; Bristol’s In Between Time; Southbank Centre), and The Rave Space (Camden People’s Theatre; Cork’s Quarter Block Party).
+Will is an artist and performance maker whose solo works have toured the UK + Ireland, including *Memories of Suburbia* (Glasgow’s Buzzcut; Battersea Arts Centre), *Team of the Decades* (Latitude Festival; Bristol's In Between Time; Southbank Centre), and *The Rave Space* (Camden People’s Theatre; Cork's Quarter Block Party).
 
 He also works as an actor, dancer, DJ + director across art forms (recent collaborations include Abigail Conway, Rosana Cade + ZUUK), and works extensively with artists who are learning disabled.
         
 #### Reviews        
->★★★★*…there is more to this than meets the eye and it deserves respect.*<br>&nbsp;— <a href="http://www.remotegoat.com/uk/review/14140/drumnbass-mash-up-with-personal-overtones/#reviews" target="_blank">remotegoat on *Rave Space*</a><br>*…a brutal encounter with the self. It’s a brave performance, and is an act which jolts you awake.*<br><a href="http://www.ayoungertheatre.com/review-the-rave-space-camden-peoples-theatre" target="_blank">A Younger Theatre on *Rave Space*</a>       
+>*A brutal encounter with the self … an act which jolts you awake*<br>&nbsp;— <a href="http://www.ayoungertheatre.com/review-the-rave-space-camden-peoples-theatre" target="_blank">A Younger Theatre on *The Rave Space*</a><br>*Highs, lows, energy and intimacy … a moving exploration of masculinity*<br>&nbsp;— <a href="http://" target="_blank">The Stage on *Team of the Decades*</a><br>*Fiercely imaginative and stunningly original*<br>&nbsp;— <a href="http://" target="_blank">Adrian Howells on *Memories of Suburbia*</a>         
         
-         
 #### Credits          
 Conceived + performed by Will Dickie, in collaboration with Fabiola Santana<br>Technical advice: Jason Crouch | Project Mentor: Peader Kirk<br>Commissioned by [hÅb](/hab) + Contact for Works Ahead 2020.       
 *Please note: originally to be shown in a double bill with Ross McCaffrey as Works Ahead 2020, Ross has decided to postpone sharing his work until it can be presented to a physical audience.*        
