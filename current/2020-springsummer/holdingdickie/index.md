@@ -17,7 +17,7 @@ season: "Works Ahead — Will Dickie 22|5|2020, 9pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to:&nbsp;&nbsp;[summary](/current/2020-worksahead/#summary)&nbsp;&nbsp;[location](/current/2020-worksahead/#location)&nbsp;&nbsp;[access](/current/2020-worksahead/#access)&nbsp;&nbsp;[about](/current/2020-worksahead/#about)&nbsp;&nbsp;[biography](/current/2020-worksahead/#biography)&nbsp;&nbsp;[reviews](/current/2020-worksahead/#reviews)&nbsp;&nbsp;[credits](/current/2020-worksahead/#credits)&nbsp;&nbsp;[websites](/current/2020-worksahead/#websites)&nbsp;&nbsp;</span>        
+<span style='font-variant: small-caps'>jump to:&nbsp;&nbsp;[summary](/current/2020-worksahead/#summary)&nbsp;&nbsp;[location](/current/2020-worksahead/#location)&nbsp;&nbsp;[access](/current/2020-worksahead/#access)&nbsp;&nbsp;[about](/current/2020-worksahead/#about)&nbsp;&nbsp;[biography](/current/2020-worksahead/#biography)&nbsp;&nbsp;[reviews](/current/2020-worksahead/#reviews)&nbsp;&nbsp;[credits](/current/2020-worksahead/#credits)&nbsp;&nbsp;[websites](/current/2020-worksahead/#websites)</span>        
         
 *Presented by* Word of Warning *+* Contact *as Works Ahead 2020*        
          
@@ -55,6 +55,4 @@ Conceived + performed by Will Dickie, in collaboration with Fabiola Santana<br>T
 #### Websites         
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a><br><a href="http://willdickie.co.uk" target="_blank">willdickie.co.uk</a> | <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a><br><a href="http://twitter.com/rocaffrey" target="_blank">@rocaffrey</a>
        
-<small><span style='font-variant: small-caps'>[back to top](/current/2020-worksahead)</span></small>        
-        
-#### Test
+<small><span style='font-variant: small-caps'>[back to top](/current/2020-worksahead)</span></small>
