@@ -17,7 +17,7 @@ season: "Works Ahead — Will Dickie 22|5|2020, 9pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to:&nbsp;&nbsp;[summary](/current/2020-worksahead/#summary)&nbsp;&nbsp;[location](/current/2020-springsummer/camara/#location)&nbsp;&nbsp;[access](/current/2020-springsummer/camara/#access)&nbsp;&nbsp;[about](/current/2020-springsummer/camara/#about)&nbsp;&nbsp;[biography](/current/2020-springsummer/camara/#biography)&nbsp;&nbsp;[reviews](/current/2020-springsummer/camara/#reviews)&nbsp;&nbsp;[credits](/current/2020-springsummer/camara/#credits)&nbsp;&nbsp;[websites](/current/2020-springsummer/camara/#websites)&nbsp;&nbsp;<a href="{{ page.github.url }}/#test">test</a></span>       
+<span style='font-variant: small-caps'>jump to:&nbsp;&nbsp;[summary](/current/2020-worksahead/#summary)&nbsp;&nbsp;[location](/current/2020-springsummer/camara/#location)&nbsp;&nbsp;[access](/current/2020-springsummer/camara/#access)&nbsp;&nbsp;[about](/current/2020-springsummer/camara/#about)&nbsp;&nbsp;[biography](/current/2020-springsummer/camara/#biography)&nbsp;&nbsp;[reviews](/current/2020-springsummer/camara/#reviews)&nbsp;&nbsp;[credits](/current/2020-springsummer/camara/#credits)&nbsp;&nbsp;[websites](/current/2020-springsummer/camara/#websites)&nbsp;&nbsp;<a href="{{ page }}/#test">test</a></span>       
         
 *Presented by* Word of Warning *+* Contact *as Works Ahead 2020*         
          
@@ -33,7 +33,7 @@ How to watch: book your free space on <a href="http://URL" target="_blank">Event
 Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>Duration: *approximately* 30 minutes.<br>Features: live spoken English + movement.<br>For specific age + access information please get in touch by emailing <mailto:info@habmcr.org>.         
           
 #### About         
-Our annual sample of new performance, Works Ahead 2020 was due to show a double bill from Will Dickie + Ross McCaffrey at NIAMOS: Will's work has been adapted for live streaming, and Ross has decided to postpone sharing his work until it can be shown it to a physical audience. Get a feel for Works Ahead with a look at [2019's programme](/archive/2019-worksahead).        
+Works Ahead is our annual sample of new performance, with 2020's edition planned as a double bill from Will Dickie + Ross McCaffrey at NIAMOS. Will's work has been adapted for live streaming, and Ross has decided to postpone sharing his work until it can be shown it to a physical audience. Get a feel for Works Ahead with a look at [2019's programme](/archive/2019-worksahead).        
         
 >*No lights. No music. No props. Moving. And speaking. And moving and speaking. And Skanking and moving and speaking. Some nodding. Pulsing. Also bopping. And shaking. And shaking shaking. Scrambling. And speaking. And pointing.<br><br>Pointing at the space when others see my face.<br>Pointing at addiction and how that makes us who we are.<br>Pointing at divorce and how that makes us who we are.<br>Pointing at Britain and old actors and privilege and how that makes me who I am.<br>Pointing at the Sun and speaking about white golden things.*        
         
@@ -42,11 +42,9 @@ Today, Britain continues to benefit from its colonial past. A nation passionatel
 Will is white, British, straight, and privately educated. He grew up in a wealthy suburb inside the M25 and now lives in a Victorian house in Liverpool. Divorced parents; addictions to food, exercise, and attention.<br>Is there a way of coming to terms with this identity, this past, and his privilege?<br>Any hope? Any space for a voice and moving body beyond a maelstrom of inequality?           
         
 #### Biography        
-Liverpool-based artist Will Dickie returns after 2019's [*The Rave Space*](/archive/2019-springsummer/dickie); a self-produced independent performance maker, he works across dance/theatre/live art; using body, autobiography + place, he creates soulful performances for site + stage.            
+Liverpool-based artist Will Dickie is a self-produced independent performance maker, working across dance/theatre/live art; using body, autobiography + place, he creates soulful performances for site + stage.            
         
-Will's solo works have extensively toured the UK + Ireland (*Memories of Suburbia*, *Team of the Decades*, *The Rave Space*), and in 2020 made his international debut in Perth, Australia.           
-        
-Will collaborates internationally, as an actor, dancer, DJ + director across art forms; he also facilitates young + professional artists, working extensively with artists who are learning disabled.
+Will's solo works have extensively toured the UK + Ireland (including [*The Rave Space*](/archive/2019-springsummer/dickie)), and in 2020 made his international debut in Perth, Australia. Collaborating internationally as an actor, dancer, DJ + director across art forms, he also facilitates young + professional artists, working extensively with artists who are learning disabled.           
         
 #### Reviews        
 >*A brutal encounter with the self … an act which jolts you awake*<br>&nbsp;— <a href="http://www.ayoungertheatre.com/review-the-rave-space-camden-peoples-theatre" target="_blank">A Younger Theatre on *The Rave Space*</a><br>*Highs, lows, energy and intimacy … a moving exploration of masculinity*<br>&nbsp;— <a href="http://www.thestage.co.uk/reviews/latitude-festival-2014" target="_blank">The Stage on *Team of the Decades*</a><br>*Fiercely imaginative and stunningly original*<br>&nbsp;— Adrian Howells on *Memories of Suburbia*         
