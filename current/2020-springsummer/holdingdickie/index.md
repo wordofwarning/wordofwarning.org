@@ -17,7 +17,7 @@ season: "Works Ahead — Will Dickie 22|5|2020, 9pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to: [summary](/current/2020-worksahead/#summary) [location](/current/2020-springsummer/camara/#location) [access](/current/2020-springsummer/camara/#access) [more](/current/2020-springsummer/camara/#more) [biography](/current/2020-springsummer/camara/#biography) [quotes](/current/2020-springsummer/camara/#quotes) [credits](/current/2020-springsummer/camara/#credits) [websites](/current/2020-springsummer/camara/#websites)</span>       
+<span style='font-variant: small-caps'>jump to: [summary](/current/2020-worksahead/#summary) [location](/current/2020-springsummer/camara/#location) [access](/current/2020-springsummer/camara/#access) [more](/current/2020-springsummer/camara/#more) [biography](/current/2020-springsummer/camara/#biography) [quotes](/current/2020-springsummer/camara/#quotes) [about](/current/2020-springsummer/camara/#about) [credits](/current/2020-springsummer/camara/#credits) [websites](/current/2020-springsummer/camara/#websites)</span>       
         
 *Presented by* Word of Warning *+* Contact *as Works Ahead 2020*         
          
