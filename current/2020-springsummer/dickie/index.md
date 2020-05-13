@@ -4,9 +4,9 @@ layout: 2020-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Works Ahead 2020 — Will Dickie" # the name of the artist or company
+artist: "Will Dickie" # the name of the artist or company
 show: "<br>&nbsp;White Sun" # the name of the show
-artist_size: 3
+artist_size: 1
 show_size: 1
 header_image: "header_dickie1.jpg"    
 season: "Works Ahead — Will Dickie 22|5|2020, 9pm"
@@ -22,20 +22,17 @@ season: "Works Ahead — Will Dickie 22|5|2020, 9pm"
 *Presented by* Word of Warning *+* Contact *as Works Ahead 2020*         
          
 #### Summary       
-A work in progress for performance, adapted for live streaming. As darkness falls…<br><br>
-A low fi solo symphony of relentless movement and words about being a white son.
-A sun of of power and privilege, a son of divorce and addiction.	
+A work-in-progress for performance, adapted for live streaming.<br>As darkness falls…<br>A lo-fi solo symphony of relentless movement and words about being a white son.<br>A sun of of power and privilege, a son of divorce and addiction.	
 
       
 #### Location           
 When: Friday 22 May 2020, 9pm.<br>&nbsp;(N.B. Rescheduled from 21+22 May at NIAMOS.)        
 Where: live streamed online.         
 How to watch: book your free space on <a href="http://URL" target="_blank">Eventbrite</a>, donations welcome to our <a href="http://URL" target="_blank">PayPal</a>.        
-*Please note: originally to be shown in a double bill with Ross McCaffrey as Works Ahead 2020, Ross has decided to postpone sharing his work until we can all be together in the same space.*        
            
 #### Access         
 Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>Duration: *approximately* 30 minutes.<br>Features: live spoken English + movement.<br>For specific age + access information please get in touch by emailing <mailto:info@habmcr.org>.         
-             
+          
 #### More         
 *No lights. No music. No props. Moving. And speaking. And moving and speaking. And Skanking and moving and speaking. Some Nodding. Pulsing. Also bopping. And shaking. And shaking shaking. Scrambling. And speaking. And pointing.<br><br>Pointing at the space when others see my face.<br>Pointing at addiction and how that makes us who we are.<br>Pointing at divorce and how that makes us who we are.<br>Pointing at Britain and old actors and privilege and how that makes me who I am.<br>Pointing at the Sun and speaking about white golden things.*        
         
@@ -52,7 +49,8 @@ A Manchester-based solo performance artist, Tania Camara works across devised th
 #### Credits          
 Conceived + performer: Tania Camara, in collaboration with Fabiola Santana<br><br>Technical advice: Jason Crouch | Project Mentor: Peader Kirk
 <br><br>Commissioned [hÅb](/hab) + Contact.<br>Supported using public funding from the National Lottery through Arts Council England.<br>Thanks to .       
-        
+*Please note: originally to be shown in a double bill with Ross McCaffrey as Works Ahead 2020, Ross has decided to postpone sharing his work until it can be presented to a physical audience.*        
+
 #### Websites         
 <a href="http://taniacamara.com" target="_blank">taniacamara.com</a> | <a href="http://www.facebook.com/events/247575136359260" target="_blank">Facebook event</a> | <a href="http://www.facebook.com/TaniaCamara.Performance.Artist" target="_blank">Tania Camara on Facebook</a> | <a href="http://twitter.com/TaniaCamara2" target="_blank">@TaniaCamara2</a>        
         
