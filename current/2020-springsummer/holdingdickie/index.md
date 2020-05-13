@@ -42,9 +42,13 @@ Today, Britain continues to benefit from its colonial past. A nation passionatel
 Will is white, British, straight, and privately educated. He grew up in a wealthy suburb inside the M25 and now lives in a Victorian house in Liverpool. Divorced parents; addictions to food, exercise, and attention.<br>Is there a way of coming to terms with this identity, this past, and his privilege?<br>Any hope? Any space for a voice and moving body beyond a maelstrom of inequality?           
         
 #### Biography        
-Liverpool-based artist + performance maker Will Dickie returns after 2019's [*The Rave Space*](/archive/2019-springsummer/dickie). His solo works have toured the UK + Ireland, including *Memories of Suburbia* (Glasgow's Buzzcut; Battersea Arts Centre), *Team of the Decades* (Latitude; Bristol's In Between Time; Southbank Centre), *The Rave Space* (Camden People's Theatre; Cork's Quarter Block Party). Will also works as an actor, dancer, DJ + director across art forms (recent collaborations include Abigail Conway, Rosana Cade + ZUUK), and works extensively with artists who are learning disabled.
+Liverpool-based artist Will Dickie returns after 2019's [*The Rave Space*](/archive/2019-springsummer/dickie); a self-produced independent performance maker, he works across dance/theatre/live art; using body, autobiography + place, he creates soulful performances for site + stage.            
         
-#### Quotes        
+Will's solo works have extensively toured the UK + Ireland (*Memories of Suburbia*, *Team of the Decades*, *The Rave Space*), and in 2020 made his international debut in Perth, Australia.           
+        
+Will collaborates internationally, as an actor, dancer, DJ + director across art forms; he also facilitates young + professional artists, working extensively with artists who are learning disabled.
+        
+#### Reviews        
 >*A brutal encounter with the self … an act which jolts you awake*<br>&nbsp;— <a href="http://www.ayoungertheatre.com/review-the-rave-space-camden-peoples-theatre" target="_blank">A Younger Theatre on *The Rave Space*</a><br>*Highs, lows, energy and intimacy … a moving exploration of masculinity*<br>&nbsp;— <a href="http://www.thestage.co.uk/reviews/latitude-festival-2014" target="_blank">The Stage on *Team of the Decades*</a><br>*Fiercely imaginative and stunningly original*<br>&nbsp;— Adrian Howells on *Memories of Suburbia*         
         
 #### Credits          
