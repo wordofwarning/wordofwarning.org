@@ -27,19 +27,19 @@ A work-in-progress for performance, adapted for live streaming.<br>As darkness f
 #### Location           
 When: Friday 22 May 2020, 9pm.        
 Where: live streamed online.         
-How to watch: book your free space on <a href="http://URL" target="_blank">Eventbrite</a>, donations welcome via <a href="http://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LC9G9CWHVDQ8E" target="_blank">PayPal</a>.        
+How to watch: book your free space on <a href="http://URL" target="_blank">Eventbrite (URL TBD)</a>, donations welcome via <a href="http://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LC9G9CWHVDQ8E" target="_blank">PayPal</a>.        
            
 #### Access         
 Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>Duration: *approximately* 30 minutes.<br>Features: live spoken English + movement.<br>For specific age + access information please get in touch by emailing <mailto:info@habmcr.org>.         
           
 #### About         
-Works Ahead is our annual sample of new performance: 2020's edition was planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS — Will adapted his work for live streaming; Ross postponed sharing his work until it can be shown to a physical audience. Get a feel for Works Ahead with a look at [2019's programme](/archive/2019-worksahead).        
-        
 >*No lights. No music. No props. Moving. And speaking. And moving and speaking. And Skanking and moving and speaking. Some nodding. Pulsing. Also bopping. And shaking. And shaking shaking. Scrambling. And speaking. And pointing.<br><br>Pointing at the space when others see my face.<br>Pointing at addiction and how that makes us who we are.<br>Pointing at divorce and how that makes us who we are.<br>Pointing at Britain and old actors and privilege and how that makes me who I am.<br>Pointing at the Sun and speaking about white golden things.*        
         
 Today, Britain continues to benefit from its colonial past. A nation passionately caught up with being right, being the exception to the rule, and making profit at any cost. Children of divorced parents are 50% more likely to develop mental health problems. Addiction is a primary cause of preventable death; ruining lives, and consuming vast amounts of medical resources.           
          
-Will is white, British, straight, and privately educated. He grew up in a wealthy suburb inside the M25 and now lives in a Victorian house in Liverpool. Divorced parents; addictions to food, exercise, and attention.<br>Is there a way of coming to terms with this identity, this past, and his privilege?<br>Any hope? Any space for a voice and moving body beyond a maelstrom of inequality?           
+Will is white, British, straight, and privately educated. He grew up in a wealthy suburb inside the M25 and now lives in a Victorian house in Liverpool. Divorced parents; addictions to food, exercise, and attention.<br>Is there a way of coming to terms with this identity, this past, and his privilege?<br>Any hope? Any space for a voice and moving body beyond a maelstrom of inequality?         
+<hr>
+Works Ahead is our annual sample of new performance: 2020's edition was planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS — Will has adapted his work for live streaming; Ross has postponed sharing his work until it can be shown to a physical audience.         
         
 #### Biography        
 Liverpool-based artist Will Dickie is a self-produced independent performance maker, working across dance, theatre + live art. Using body, autobiography, and place, he creates soulful performances for site and stage.            
