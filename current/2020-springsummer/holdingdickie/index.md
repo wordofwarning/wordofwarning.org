@@ -17,7 +17,7 @@ season: "Works Ahead — Will Dickie 22|5|2020, 9pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to: [summary](/current/2020-worksahead/#summary) [location](/current/2020-springsummer/camara/#location) [access](/current/2020-springsummer/camara/#access) [more](/current/2020-springsummer/camara/#more) [biography](/current/2020-springsummer/camara/#biography) [reviews](/current/2020-springsummer/camara/#reviews) [credits](/current/2020-springsummer/camara/#credits) [websites](/current/2020-springsummer/camara/#websites)</span>       
+<span style='font-variant: small-caps'>jump to: [summary](/current/2020-worksahead/#summary) [location](/current/2020-springsummer/camara/#location) [access](/current/2020-springsummer/camara/#access) [more](/current/2020-springsummer/camara/#more) [biography](/current/2020-springsummer/camara/#biography) [quotes](/current/2020-springsummer/camara/#quotes) [credits](/current/2020-springsummer/camara/#credits) [websites](/current/2020-springsummer/camara/#websites)</span>       
         
 *Presented by* Word of Warning *+* Contact *as Works Ahead 2020*         
          
@@ -25,9 +25,9 @@ season: "Works Ahead — Will Dickie 22|5|2020, 9pm"
 A work-in-progress for performance, adapted for live streaming.<br>As darkness falls…<br>A lo-fi solo symphony of relentless movement and words about being a white son.<br>A sun of power and privilege, a son of divorce and addiction.        
         
 #### Location           
-When: Friday 22 May 2020, 9pm.<br>&nbsp;(N.B. Rescheduled from 21+22 May at NIAMOS.)        
+When: Friday 22 May 2020, 9pm.        
 Where: live streamed online.         
-How to watch: book your free space on <a href="http://URL" target="_blank">Eventbrite</a>, donations welcome via <a href="http://URL" target="_blank">PayPal</a>.        
+How to watch: book your free space on <a href="http://URL" target="_blank">Eventbrite</a>, donations welcome via <a href="http://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LC9G9CWHVDQ8E" target="_blank">PayPal</a>.        
            
 #### Access         
 Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>Duration: *approximately* 30 minutes.<br>Features: live spoken English + movement.<br>For specific age + access information please get in touch by emailing <mailto:info@habmcr.org>.         
@@ -40,34 +40,22 @@ Today, Britain continues to benefit from its colonial past. A nation passionatel
 Will is white, British, straight, and privately educated. He grew up in a wealthy suburb inside the M25 and now lives in a Victorian house in Liverpool. Divorced parents; addictions to food, exercise, and attention.<br>Is there a way of coming to terms with this identity, this past, and his privilege?<br>Any hope? Any space for a voice and moving body beyond a maelstrom of inequality?           
         
 #### Biography        
-Will Dickie returns after 2019's [*The Rave Space* — ](/archive/2019-springsummer/dickie)
+Will Dickie returns after 2019's [*The Rave Space* — a live documentary played out in the dance](/archive/2019-springsummer/dickie).
 
-Will is an artist and performance maker whose solo works have toured the UK + Ireland, including *Memories of Suburbia* (Glasgow’s Buzzcut; Battersea Arts Centre), *Team of the Decades* (Latitude Festival; Bristol's In Between Time; Southbank Centre), and *The Rave Space* (Camden People’s Theatre; Cork's Quarter Block Party).
+A Liverpool-based artist and performance maker, Will's solo works have toured the UK + Ireland, including *Memories of Suburbia* (Glasgow's Buzzcut; Battersea Arts Centre), *Team of the Decades* (Latitude; Bristol's In Between Time; Southbank Centre), *The Rave Space* (Camden People's Theatre; Cork's Quarter Block Party).
 
-He also works as an actor, dancer, DJ + director across art forms (recent collaborations include Abigail Conway, Rosana Cade + ZUUK), and works extensively with artists who are learning disabled.
+Will also works as an actor, dancer, DJ + director across art forms (recent collaborations include Abigail Conway, Rosana Cade + ZUUK), and works extensively with artists who are learning disabled.
         
-#### Reviews        
->*A brutal encounter with the self … an act which jolts you awake*<br>&nbsp;— <a href="http://www.ayoungertheatre.com/review-the-rave-space-camden-peoples-theatre" target="_blank">A Younger Theatre on *The Rave Space*</a><br>*Highs, lows, energy and intimacy … a moving exploration of masculinity*<br>&nbsp;— <a href="http://" target="_blank">The Stage on *Team of the Decades*</a><br>*Fiercely imaginative and stunningly original*<br>&nbsp;— <a href="http://" target="_blank">Adrian Howells on *Memories of Suburbia*</a>         
+#### Quotes        
+>*A brutal encounter with the self … an act which jolts you awake*<br>&nbsp;— <a href="http://www.ayoungertheatre.com/review-the-rave-space-camden-peoples-theatre" target="_blank">A Younger Theatre on *The Rave Space*</a><br>*Highs, lows, energy and intimacy … a moving exploration of masculinity*<br>&nbsp;— <a href="http://www.thestage.co.uk/reviews/latitude-festival-2014" target="_blank">The Stage on *Team of the Decades*</a><br>*Fiercely imaginative and stunningly original*<br>&nbsp;— Adrian Howells on *Memories of Suburbia*         
+        
+#### About          
+Our annual sample of new performancce, Works Ahead 2020 was due to show a double bill from Will Dickie + Ross McCaffrey at NIAMOS; Will's work has been adpated for live streaming and Ross has decided to postpone sharing his work until it can be presented to a physical audience. Get a feel for it with a look at [2019's programme](/archive/2019-worksahead).        
         
 #### Credits          
-Conceived + performed by Will Dickie, in collaboration with Fabiola Santana<br>Technical advice: Jason Crouch | Project Mentor: Peader Kirk<br>Commissioned by [hÅb](/hab) + Contact for Works Ahead 2020.       
-*Please note: originally to be shown in a double bill with Ross McCaffrey as Works Ahead 2020, Ross has decided to postpone sharing his work until it can be presented to a physical audience.*        
-A double bill of new works at the start of their journeys from artists Will Dickie + Ross McCaffrey. Get a feel for it with a look at [2019's programme](/archive/2019-worksahead).     
-
-#### What people have said about Works Ahead        
->*A strong double bill tonight from @WarnMcr's ever-reliable #WorksAhead.*<br>&nbsp;— <a href="http://twitter.com/CirclesStalls/status/1129503777566937088" target="_blank">@CirclesStalls on 2019</a><br>*Vital …allows artists to present the prepubescent stages of their work to an audience who are expecting something weird, personal and entirely half-done.*<br>&nbsp;— <a href="http://www.thestateofthearts.co.uk/features/works-ahead-expect-something-weird-personal-entirely-half-done" target="_blank">The State of The Arts on 2018</a><br>*A cathartic, funny and brutally honest show.*<br>&nbsp;— <a href="http://afronalysis.com/2017/05/14/review-superposition-stun" target="_blank">Afronalysis on 2017</a><br>*Maybe not what you'd regard as traditional 'theatre', but compelling nonetheless. They make you think that anything could happen in the performance space.*<br>&nbsp;— <a href="http://quietmandave.co.uk/2016/06/works-ahead" target="_blank">QuietManDave on 2016</a><br>*Always an informal way to experience something a bit different.*<br>*Brilliant works in progress, varied and interesting.*<br>*Great to see new work by younger artists.*<br>*Higher standard than I was expecting of a work in progress … offered perspectives that I hadn't heard before.*<br>&nbsp;— Audience Feedback from 2019 + earlier years…          
-
-#### Credits         
-sample of new performance
-
-Project Mentor: Peader Kirk<br>[Works Ahead](/hab/worksahead) 2020 is co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.        
+Conceived + performed by Will Dickie, in collaboration with Fabiola Santana<br>Technical advice: Jason Crouch | Project Mentor: Peader Kirk<br>[Works Ahead](/hab/worksahead) 2020 is co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a> | Project Mentor: Peader Kirk        
         
-#### Websites + Social Media         
-<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a><br><a href="http://willdickie.co.uk" target="_blank">willdickie.co.uk</a> | <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a><br><a href="http://twitter.com/rocaffrey" target="_blank">@rocaffrey</a>
-
-
 #### Websites         
-<a href="http://willdickie.co.uk/TheRaveSpace" target="_blank">willdickie.co.uk</a> | <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a> | <a href="http://www.mixcloud.com/AlwaysWill/rave-space-textures" target="_blank">Rave Space Textures on Mixcloud</a>
-<a href="http://taniacamara.com" target="_blank">taniacamara.com</a> | <a href="http://www.facebook.com/events/247575136359260" target="_blank">Facebook event</a> | <a href="http://www.facebook.com/TaniaCamara.Performance.Artist" target="_blank">Tania Camara on Facebook</a> | <a href="http://twitter.com/TaniaCamara2" target="_blank">@TaniaCamara2</a>        
-        
+<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a><br><a href="http://willdickie.co.uk" target="_blank">willdickie.co.uk</a> | <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a><br><a href="http://twitter.com/rocaffrey" target="_blank">@rocaffrey</a>
+       
 <small><span style='font-variant: small-caps'>[back to top](/current/2020-springsummer/camara)</span></small>
