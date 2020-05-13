@@ -19,7 +19,7 @@ season: "Works Ahead — Will Dickie 22|5|2020, 9pm"
 ---
 <span style='font-variant: small-caps'>jump to:&nbsp;&nbsp;[summary](/current/2020-worksahead/#summary)&nbsp;&nbsp;[location](/current/2020-worksahead/#location)&nbsp;&nbsp;[access](/current/2020-worksahead/#access)&nbsp;&nbsp;[about](/current/2020-worksahead/#about)&nbsp;&nbsp;[biography](/current/2020-worksahead/#biography)&nbsp;&nbsp;[reviews](/current/2020-worksahead/#reviews)&nbsp;&nbsp;[credits](/current/2020-worksahead/#credits)&nbsp;&nbsp;[websites](/current/2020-worksahead/#websites)</span>        
         
-*Presented by* Word of Warning *+* Contact *as Works Ahead 2020*        
+*Presented by* Word of Warning *+* Contact *as* Works Ahead 2020        
          
 #### Summary       
 A work-in-progress for performance, adapted for live streaming.<br>As darkness falls…<br>A lo-fi solo symphony of relentless movement and words about being a white son.<br>A sun of power and privilege, a son of divorce and addiction.        
@@ -39,12 +39,12 @@ Today, Britain continues to benefit from its colonial past. A nation passionatel
          
 Will is white, British, straight, and privately educated. He grew up in a wealthy suburb inside the M25 and now lives in a Victorian house in Liverpool. Divorced parents; addictions to food, exercise, and attention.<br>Is there a way of coming to terms with this identity, this past, and his privilege?<br>Any hope? Any space for a voice and moving body beyond a maelstrom of inequality?         
 <hr>
-Works Ahead is our annual sample of new performance: 2020's edition was planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS — Will has adapted his work for live streaming; Ross has postponed sharing his work until it can be shown to a physical audience.         
+[Works Ahead](/hab/worksahead) is our annual sample of new performance.<br>2020's edition was planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS — Will has adapted his work for live streaming; Ross has postponed sharing his work until it can be shown to a physical audience.         
         
 #### Biography        
 Liverpool-based artist Will Dickie is a self-produced independent performance maker, working across dance, theatre + live art. Using body, autobiography, and place, he creates soulful performances for site and stage.            
         
-Will's solo works have extensively toured the UK + Ireland (including [*The Rave Space*](/archive/2019-springsummer/dickie)), and in 2020 made his international debut in Perth, Australia. Collaborating globally as an actor, dancer, DJ + director across art forms, he also facilitates young + professional artists, and works extensively with artists who are learning disabled.           
+Will's work has extensively toured the UK + Ireland (including [*The Rave Space*](/archive/2019-springsummer/dickie)), and in 2020 made his international debut in Perth, Australia. Collaborating globally as an actor, dancer, DJ + director across art forms, he also facilitates young + professional artists, and works extensively with artists who are learning disabled.           
         
 #### Reviews        
 >*A brutal encounter with the self … an act which jolts you awake*<br>&nbsp;— <a href="http://www.ayoungertheatre.com/review-the-rave-space-camden-peoples-theatre" target="_blank">A Younger Theatre on *The Rave Space*</a><br>*Highs, lows, energy and intimacy … a moving exploration of masculinity*<br>&nbsp;— <a href="http://www.thestage.co.uk/reviews/latitude-festival-2014" target="_blank">The Stage on *Team of the Decades*</a><br>*Fiercely imaginative and stunningly original*<br>&nbsp;— Adrian Howells on *Memories of Suburbia*         
