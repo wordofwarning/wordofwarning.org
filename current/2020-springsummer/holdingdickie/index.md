@@ -17,9 +17,9 @@ season: "Works Ahead — Will Dickie 22|5|2020, 9pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to:&nbsp;&nbsp;[summary](/current/2020-worksahead/#summary)&nbsp;&nbsp;[location](/current/2020-springsummer/camara/#location)&nbsp;&nbsp;[access](/current/2020-springsummer/camara/#access)&nbsp;&nbsp;[about](/current/2020-springsummer/camara/#about)&nbsp;&nbsp;[biography](/current/2020-springsummer/camara/#biography)&nbsp;&nbsp;[reviews](/current/2020-springsummer/camara/#reviews)&nbsp;&nbsp;[credits](/current/2020-springsummer/camara/#credits)&nbsp;&nbsp;[websites](/current/2020-springsummer/camara/#websites)&nbsp;&nbsp;<a href="{{ page }}/#test">test</a></span>       
+<span style='font-variant: small-caps'>jump to:&nbsp;&nbsp;[summary](/current/2020-worksahead/#summary)&nbsp;&nbsp;[location](/current/2020-worksahead/#location)&nbsp;&nbsp;[access](/current/2020-worksahead/#access)&nbsp;&nbsp;[about](/current/2020-worksahead/#about)&nbsp;&nbsp;[biography](/current/2020-worksahead/#biography)&nbsp;&nbsp;[reviews](/current/2020-worksahead/#reviews)&nbsp;&nbsp;[credits](/current/2020-worksahead/#credits)&nbsp;&nbsp;[websites](/current/2020-worksahead/#websites)&nbsp;&nbsp;</span>        
         
-*Presented by* Word of Warning *+* Contact *as Works Ahead 2020*         
+*Presented by* Word of Warning *+* Contact *as Works Ahead 2020*        
          
 #### Summary       
 A work-in-progress for performance, adapted for live streaming.<br>As darkness falls…<br>A lo-fi solo symphony of relentless movement + words about being a white son.<br>A sun of power + privilege, a son of divorce + addiction.        
