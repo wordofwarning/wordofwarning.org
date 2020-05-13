@@ -17,7 +17,7 @@ season: "Works Ahead — Will Dickie 22|5|2020, 9pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to:&nbsp&nbsp[summary](/current/2020-worksahead/#summary)&nbsp&nbsp[location](/current/2020-springsummer/camara/#location)&nbsp&nbsp[access](/current/2020-springsummer/camara/#access)&nbsp&nbsp[about](/current/2020-springsummer/camara/#about)&nbsp&nbsp[biography](/current/2020-springsummer/camara/#biography)&nbsp&nbsp[reviews](/current/2020-springsummer/camara/#reviews)&nbsp&nbsp[credits](/current/2020-springsummer/camara/#credits)&nbsp&nbsp[websites](/current/2020-springsummer/camara/#websites)&nbsp&nbsp<a href="{{ page.github.url }}/#test">test</a></span>       
+<span style='font-variant: small-caps'>jump to:&nbsp;&nbsp;[summary](/current/2020-worksahead/#summary)&nbsp;&nbsp;[location](/current/2020-springsummer/camara/#location)&nbsp;&nbsp;[access](/current/2020-springsummer/camara/#access)&nbsp;&nbsp;[about](/current/2020-springsummer/camara/#about)&nbsp;&nbsp;[biography](/current/2020-springsummer/camara/#biography)&nbsp;&nbsp;[reviews](/current/2020-springsummer/camara/#reviews)&nbsp;&nbsp;[credits](/current/2020-springsummer/camara/#credits)&nbsp;&nbsp;[websites](/current/2020-springsummer/camara/#websites)&nbsp;&nbsp;<a href="{{ page.github.url }}/#test">test</a></span>       
         
 *Presented by* Word of Warning *+* Contact *as Works Ahead 2020*         
          
