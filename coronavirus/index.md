@@ -12,14 +12,14 @@ season: "News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 14 May 2020 at 13:38*        
+##### *Last updated on 14 May 2020 at 13:42*        
 
 <span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences) [help for artists](/coronavirus/#artists)</span>       
 <hr>          
 #### Audiences         
 ##### Word of Warning Spring 2020
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's measures</a>, we're working with partners + host venues to make appropriate changes to our [current Performance Programme](/current/2020-springsummer):            
-**22 May, 9pm | [Works Ahead 2020 — Will Dickie's *White Sun*](/current/2020-worksahead)** — planned as a sited double bill from artists Will Dickie + Ross McCaffrey at NIAMOS in partnership with Contact: Will has adapted his work for live streaming; Ross has postponed sharing his work until it can be shown to a physical audience.        
+**22 May, 9pm | [Works Ahead 2020 — Will Dickie's *White Sun*](/current/2020-worksahead)** | Works Ahead is our annual sample of new performance — 2020’s edition was planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS on 21/22 May in partnership with Contact: Will has adapted his work for live streaming; Ross has postponed sharing his work until it can be shown to a physical audience.        
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>           
 ##### Other things to watch         
 As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to perfomance</a> becomes more sporadic in these unprecedented times, we're collating other things to see or do online here:        
