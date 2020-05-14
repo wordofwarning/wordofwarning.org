@@ -22,12 +22,12 @@ season: "Works Ahead — Will Dickie 22|5|2020, 9pm"
 *Presented by* Word of Warning *+* Contact *as* Works Ahead 2020        
          
 #### Summary       
-A work-in-progress for performance, adapted for live streaming.<br>As darkness falls…<br>A lo-fi solo symphony of relentless movement and words about being a white son.<br>A sun of power and privilege, a son of divorce and addiction.        
+A work-in-progress performance, adapted for live streaming.<br>As darkness falls…<br>A lo-fi solo symphony of relentless movement and words about being a white son.<br>A sun of power and privilege, a son of divorce and addiction.        
         
 #### Location           
 When: Friday 22 May 2020, 9pm.        
 Where: live streamed online.         
-How to watch: book your free space on <a href="http://URL" target="_blank">Eventbrite (URL TBD)</a>, donations welcome via <a href="http://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LC9G9CWHVDQ8E" target="_blank">PayPal</a>.        
+How to watch: book your free space on <a href="http://" target="_blank">Eventbrite</a>, donations welcome via <a href="http://www.paypal.me/warnmcr" target="_blank">PayPal</a>.        
            
 #### Access         
 Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>Duration: *approximately* 30 minutes.<br>Features: live spoken English + movement.<br>For specific age + access information please get in touch by emailing <mailto:info@habmcr.org>.         
