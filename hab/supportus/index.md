@@ -14,4 +14,4 @@ season: "supporting hÅb + Word of Warning"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-If you like what [hÅb](/hab) + Word of Warning](/) do, you can support us in a number of ways:<br><br>**<a href="http://eepurl.com/i_Odb" target="_blank">sign-up to receive our Weekly Warning emails</a>**;<br>or<br>**[come along to a Word of Warning event (online for now!)](/)**;<br>or<br>**<a href="http://www.paypal.me/warnmcr" target="_blank">make a donation via PayPal</a>**.<br><br>All donations, no matter how small, are very welcome.
+If you like what [hÅb](/hab) + [Word of Warning](/) do, you can support us in a number of ways:<br><br>**<a href="http://eepurl.com/i_Odb" target="_blank">sign-up to receive our Weekly Warning emails</a>**<br>or<br>**[come along to a Word of Warning event (online for now!)](/)**<br>or<br>**<a href="http://www.paypal.me/warnmcr" target="_blank">make a donation via PayPal</a>**<br><br>All donations, no matter how small, are very welcome.
