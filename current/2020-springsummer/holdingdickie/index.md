@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: 2020-ss
+layout: 2020-spring
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
