@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: 2020-woah
+layout: 2020-spring
 rootpath: "../../"
 is_index: true
 
