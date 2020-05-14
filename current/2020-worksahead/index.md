@@ -1,7 +1,7 @@
 ---
 # CONFIGURATION
 layout: 2020-spring
-rootpath: "../../../"
+rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Will Dickie" # the name of the artist or company
