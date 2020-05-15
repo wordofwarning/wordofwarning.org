@@ -17,7 +17,7 @@ season: "Works Ahead — Will Dickie 22|5|2020, 9pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to:&nbsp;&nbsp;[summary](/current/2020-worksahead/#summary)&nbsp;&nbsp;[location](/current/2020-worksahead/#location)&nbsp;&nbsp;[access](/current/2020-worksahead/#access)&nbsp;&nbsp;[about](/current/2020-worksahead/#about)&nbsp;&nbsp;[biography](/current/2020-worksahead/#biography)&nbsp;&nbsp;[reviews](/current/2020-worksahead/#reviews)&nbsp;&nbsp;[credits](/current/2020-worksahead/#credits)&nbsp;&nbsp;[websites](/current/2020-worksahead/#websites)</span>        
+<span style='font-variant: small-caps'>jump to: [summary](/current/2020-worksahead/#summary) [location](/current/2020-worksahead/#location) [access](/current/2020-worksahead/#access) [about](/current/2020-worksahead/#about) [biography](/current/2020-worksahead/#biography) [reviews](/current/2020-worksahead/#reviews) [credits](/current/2020-worksahead/#credits) [websites](/current/2020-worksahead/#websites)</span>        
         
 *Presented by* Word of Warning *+* Contact *as* Works Ahead 2020        
          
