@@ -12,18 +12,17 @@ season: "News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 14 May 2020 at 14:05*        
+##### *Last updated on 15 May 2020 at 12:02*        
 
-<span style='font-variant: small-caps'>jump to:&nbsp;&nbsp;[things to watch](/coronavirus/#audiences)&nbsp;&nbsp;[help for artists](/coronavirus/#artists)</span>       
+<span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences)  [help for artists](/coronavirus/#artists)</span>       
 <hr>          
 #### Audiences         
 ##### Word of Warning Spring 2020
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's measures</a>, we're working with partners + host venues to make appropriate changes to our [current Performance Programme](/current/2020-springsummer):            
-**22 May, 9pm | [Works Ahead 2020 — Will Dickie's *White Sun*](/current/2020-worksahead)** — planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS on 21/22 May in partnership with Contact: Will has adapted his work for live streaming; Ross has postponed sharing his work until it can be shown to a physical audience.        
+**22 May, 9pm | [Works Ahead 2020 — *White Sun* by Will Dickie](/current/2020-worksahead)** — planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS on 21/22 May in partnership with Contact: Will has adapted his work for live streaming; Ross has postponed sharing his work until it can be shown to a physical audience.        
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>           
 ##### Other things to watch         
 As our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to perfomance</a> becomes more sporadic in these unprecedented times, we're collating other things to see or do online here:        
-**14 May, 7.30pm | <a href="http://forestfringe.co.uk/portfolio/forest-fringe-tv" target="_blank">Forest Fringe TV: Little Bulb Theatre's *Farewell*</a>** — each Thursday FFTV presents something to watch or participate in (free, donations welcome).         
 **16 May, 10pm | <a href="http://dedomenici.com/coronavision" target="_blank">Richard DeDomenici's *Coronavision Song Contest 2020 Grand Final*</a>** — live online when the cancelled Eurovision 2020 final would have been (free).        
 **17 May, 12noon-11pm | <a href="http://theyardtheatre.co.uk/theatre/events/yard-online" target="_blank">Yard Online</a>** — feat. shows from Stacy Makishi, Christopher Green, Marikiscrycrycry, and other activities (free).       
 **21 May, 7.30pm | <a href="http://forestfringe.co.uk/portfolio/forest-fringe-tv" target="_blank">Forest Fringe TV: Rachel Mars + Greg Wohead's *Story #1 Returns (A Zoom Of One's Own)*</a>** — each Thursday FFTV presents something to watch or participate in (ticketed, free, donations welcome).         
