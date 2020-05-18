@@ -22,7 +22,8 @@ In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Gover
 **22 May, 9pm | [Works Ahead 2020 — *White Sun* by Will Dickie](/current/2020-worksahead)** — planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS on 21/22 May in partnership with Contact: Will has adapted his work for live streaming; Ross has postponed sharing his work until it can be shown to a physical audience.        
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>           
 ##### Other things to watch        
-To complement our **<a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>**, we regularly add things to see or do online here…        
+To complement our **<a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>**, we regularly add things to see or do online here…         
+DIARY         
 **21 May, 7.30pm | <a href="http://forestfringe.co.uk/portfolio/forest-fringe-tv" target="_blank">Forest Fringe TV: Rachel Mars + Greg Wohead's *Story #1 Returns (A Zoom Of One's Own)*</a>** — each Thursday FFTV presents something to watch or participate in (ticketed, free, donations welcome).         
 **27 May, 7pm | <a href="http://contactmcr.com/news/love-letters-straight-from-your-heart" target="_blank">Contact + Fuel present Uninvited Guests' *Love Letters*</a>** — an adaptation of *Love Letters Straight From Your Heart* for Zoom (ticketed, donations welcome).        
 **28 May, 7.30pm | <a href="http://forestfringe.co.uk/portfolio/forest-fringe-tv" target="_blank">Forest Fringe TV: *The Museum of Hope in the Dark*</a>** — each Thursday FFTV presents something to watch or participate in (free, donations welcome).         
