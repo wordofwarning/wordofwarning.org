@@ -49,7 +49,7 @@ Will's work has extensively toured the UK + Ireland (including [*The Rave Space*
 #### Reviews        
 >*A brutal encounter with the self … an act which jolts you awake*<br>&nbsp;— <a href="http://www.ayoungertheatre.com/review-the-rave-space-camden-peoples-theatre" target="_blank">A Younger Theatre on *The Rave Space*</a><br>*Highs, lows, energy and intimacy … a moving exploration of masculinity*<br>&nbsp;— <a href="http://www.thestage.co.uk/reviews/latitude-festival-2014" target="_blank">The Stage on *Team of the Decades*</a><br>*Fiercely imaginative and stunningly original*<br>&nbsp;— Adrian Howells on *Memories of Suburbia*         
         
-*White Sun* is one of Mancester Wire's <a href="http://manchesterwire.co.uk/guide/free-things-to-do-at-home-this-week-karate-for-beginners" target="_blank">Free things to do at home this week</a>.       
+*White Sun* is one of Manchester Wire's <a href="http://manchesterwire.co.uk/guide/free-things-to-do-at-home-this-week-karate-for-beginners" target="_blank">Free things to do at home this week</a>.       
         
 #### Credits          
 Conceived + performed by Will Dickie, in collaboration with Fabiola Santana<br>Technical advice: Jason Crouch | Works Ahead Project Mentor: Peader Kirk<br>[Works Ahead](/hab/worksahead) 2020 is co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>        
