@@ -12,14 +12,14 @@ season: "News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 18 May 2020 at 13:37*        
+##### *Last updated on 20 May 2020 at 13:02*        
 
 <span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences)  [help for artists](/coronavirus/#artists)</span>       
 <hr>          
 #### Audiences         
 ##### Word of Warning Spring 2020
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's measures</a>, we're working with partners + host venues to make appropriate changes to our [current Performance Programme](/current/2020-springsummer):            
-**22 May, 9pm | [Works Ahead 2020 — *White Sun* by Will Dickie](/current/2020-worksahead)** — planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS on 21/22 May in partnership with Contact: Will has adapted his work for live streaming; Ross has postponed sharing his work until it can be shown to a physical audience.        
+**22 May, 9pm | [Works Ahead 2020 — *White Sun* by Will Dickie](/current/2020-worksahead)** — as darkness falls on Friday night, watch a work-in-progress performance, adapted for live streaming. Book your free space on <a href="http://eventbrite.com/e/105420686110" target="_blank">Eventbrite</a>, donations welcome via <a href="http://www.paypal.me/warnmcr" target="_blank">PayPal</a>.        
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>           
 ##### Other things to watch        
 To complement our **<a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>**, we regularly add things to see or do online here…         
@@ -70,7 +70,7 @@ ONGOING
 • Live Art Development Agency (LADA)'s <a href="http://www.thisisliveart.co.uk/resources/covid-19-support-resources" target="_blank">Covid-19 support + resources page</a> — aims to gather information to support affected artists + arts workers.         
 • <a href="http://livestreamarchive.co.uk/resources" target="_blank">Live Stream Archive</a> + <a href="http://www.facebook.com/groups/livestreamingarts" target="_blank">Live Streaming Arts Facebook group</a> — expertise, information + advice on how to share live performance with, and connect to, audiences online.         
 • Manchester International Festival's <a href="http://mif.co.uk/resources-for-freelance-creatives/" target="_blank">Resources For Artists + Freelancers page</a>.        
-• MIF's <a href="http://mif.co.uk/mif-drop-in-artists-freelance-creatives" target="_blank">Zoom drop in for artists + freelance creatives on Thursdays at 2pm </a> — no longer on Tuesdays, you can <a href="http://www.facebook.com/groups/mifartistfreelancedropin" target="_blank">also join their facebook group</a>.        
+• MIF's <a href="http://mif.co.uk/mif-drop-in-artists-freelance-creatives" target="_blank">Zoom drop in for artists + freelance creatives on Thursdays at 2pm </a> — you can also <a href="http://www.facebook.com/groups/mifartistfreelancedropin" target="_blank">join their facebook group</a>.        
 • <a href="http://www.moneysavingexpert.com/news" target="_blank">Money Saving Expert (aka Martin Lewis)</a> has lots of useful information (regular updates).           
 • Paul Lewis Money's <a href="http://paullewismoney.blogspot.com/2020/03/self-employed-coronavirus-scheme.html" target="_blank">blog on the coronavirus Self-employment Income Scheme (regular updates)</a>.        
 • Supercool's blog on <a href="http://supercooldesign.co.uk/blog/keeping-it-live" target="_blank">quick routes to live-streaming</a>.        
@@ -81,8 +81,7 @@ ONGOING
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>       
 
 ##### Opportunities/commissions         
-• <a href="http://greatermanchester-ca.gov.uk/what-we-do/culture" target="_blank">Greater Mcr Combined Authority's Culture team</a> announce opportunities to help artists, freelancers + organisations that *aren't* in their portfolio at <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>;        
+• <a href="http://greatermanchester-ca.gov.uk/what-we-do/culture" target="_blank">Greater Mcr Combined Authority's Culture team</a> announce opportunities to help artists, freelancers + organisations at <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>;        
 • <a href="http://livestreamarchive.co.uk/contact" target="_blank">Live Stream Archive</a> — share a recording of a performance to add to their temporary digital archive.        
 • Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">resources for disabled artists + freelancers page</a> includes an opportunities section.        
-• UnShut Festival of Performance <a href="http://unshutfestival.wordpress.com" target="_blank">offer seven paid commissions</a> — ideas that test the boundaries, that investigate and challenge (*d/l 19 May*).           
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>
