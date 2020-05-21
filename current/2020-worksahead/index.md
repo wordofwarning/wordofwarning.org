@@ -30,7 +30,7 @@ Where: live streamed online.
 How to watch: book your free space on <a href="http://eventbrite.com/e/105420686110" target="_blank">Eventbrite</a>, donations welcome via <a href="http://www.paypal.me/warnmcr" target="_blank">PayPal</a>.        
            
 #### Access         
-Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>Duration: *approximately* 30 minutes.<br>Features: live spoken English + movement.<br>For specific age + access information please get in touch by emailing <mailto:info@habmcr.org>.         
+Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>Duration: *approximately* 40 minutes.<br>Features: live spoken English + movement; to improve your listening experience we suggest using headphones or external speakers.<br>For specific age + access information please get in touch by emailing <mailto:info@habmcr.org>.         
           
 #### About         
 >*No lights. No music. No props. Moving. And speaking. And moving and speaking. And Skanking and moving and speaking. Some nodding. Pulsing. Also bopping. And shaking. And shaking shaking. Scrambling. And speaking. And pointing.<br><br>Pointing at the space when others see my face.<br>Pointing at addiction and how that makes us who we are.<br>Pointing at divorce and how that makes us who we are.<br>Pointing at Britain and old actors and privilege and how that makes me who I am.<br>Pointing at the Sun and speaking about white golden things.*        
