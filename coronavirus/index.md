@@ -12,19 +12,18 @@ season: "News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 20 May 2020 at 13:02*        
+##### *Last updated on 22 May 2020 at 19:05*        
 
 <span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences)  [help for artists](/coronavirus/#artists)</span>       
 <hr>          
 #### Audiences         
 ##### Word of Warning Spring 2020
 In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's measures</a>, we're working with partners + host venues to make appropriate changes to our [current Performance Programme](/current/2020-springsummer):            
-**22 May, 9pm | [Works Ahead 2020 — *White Sun* by Will Dickie](/current/2020-worksahead)** — as darkness falls on Friday night, watch a work-in-progress performance, adapted for live streaming. Book your free space on <a href="http://eventbrite.com/e/105420686110" target="_blank">Eventbrite</a>, donations welcome via <a href="http://www.paypal.me/warnmcr" target="_blank">PayPal</a>.        
+**22 May, 9pm | [Works Ahead 2020 — *White Sun* by Will Dickie](/current/2020-worksahead)** — as darkness falls on Friday night, watch a work-in-progress performance, adapted for live streaming. TO WATCH: please book a free space on <a href="http://eventbrite.com/e/105420686110" target="_blank">Eventbrite</a> to receive live stream details. To improve your listening experience we suggest using headphones/external speakers. Donations welcome via <a href="http://www.paypal.me/warnmcr" target="_blank">PayPal</a>.        
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>           
 ##### Other things to watch        
 To complement our **<a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>**, we regularly add things to see or do online here…         
 DIARY         
-**21 May, 7.30pm | <a href="http://forestfringe.co.uk/portfolio/forest-fringe-tv" target="_blank">Forest Fringe TV: Rachel Mars + Greg Wohead's *Story #1 Returns (A Zoom Of One's Own)*</a>** — each Thursday FFTV presents something to watch or participate in (ticketed, free, donations welcome).         
 **27 May, 7pm | <a href="http://contactmcr.com/news/love-letters-straight-from-your-heart" target="_blank">Contact + Fuel present Uninvited Guests' *Love Letters*</a>** — an adaptation of *Love Letters Straight From Your Heart* for Zoom (ticketed, donations welcome).        
 **28 May, 7.30pm | <a href="http://forestfringe.co.uk/portfolio/forest-fringe-tv" target="_blank">Forest Fringe TV: *The Museum of Hope in the Dark*</a>** — each Thursday FFTV presents something to watch or participate in (free, donations welcome).         
 ONGOING        
