@@ -12,16 +12,15 @@ season: "News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 24 May 2020 at 14:35*        
+##### *Last updated on 24 May 2020 at 14:45*        
 
 <span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences) · [help for artists](/coronavirus/#artists)</span>       
 <hr>          
 #### Audiences         
-Our own [Spring 2020 Performance Programme](/current/2020-springsummer) came to a close with [Works Ahead 2020 — *White Sun* by Will Dickie](/current/2020-worksahead) on 22 May — we'll announce new events for Summer 2020 here in June.<br>To complement our **<a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>**, here's a list of things to see or do online…         
-DIARY         
+Our [Spring 2020 Performance Programme](/current/2020-springsummer) came to a close with [Works Ahead 2020 — *White Sun* by Will Dickie](/current/2020-worksahead) on 22 May — we'll announce new events for Summer soon.<br>To complement our **<a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>**, we list things to see or do online here…            
 **27 May, 7pm · <a href="http://contactmcr.com/news/love-letters-straight-from-your-heart" target="_blank">Contact + Fuel present Uninvited Guests' *Love Letters*</a>** — an adaptation of *Love Letters Straight From Your Heart* for Zoom (ticketed, donations welcome).        
 **28 May, 7.30pm · <a href="http://forestfringe.co.uk/portfolio/forest-fringe-tv" target="_blank">Forest Fringe TV: *The Museum of Hope in the Dark*</a>** — each Thursday FFTV presents something to watch or participate in (free, donations welcome).         
-ONGOING/OTHER        
+OTHER        
 **<a href="http://smallertemples.wordpress.com/2020/04/04/quarantine-performance" target="_blank">Ben Kulvichit's Quarantine performance blog post</a>** — an evolving diary of streams + recordings of shows to see online.        
 **<a href="http://www.companychameleon.com/whats-on/theatre-thursdays" target="_blank">Company Chameleon's Theatre Thursdays</a>** — weekly opportunities to see one of their dance theatre productions.         
 **<a href="http://fueltheatre.com/projects/everyday-moments" target="_blank">*Everyday Moments* by Hofesh Schecter / Fuel</a>** — podcast designed to be listened to alone in a dark space; an invitation to move without inhibition (until 1 July).        
@@ -48,7 +47,7 @@ ONGOING/OTHER
 • <a href="http://www.gm-artisthub.co.uk" target="_blank">Greater Manchester Artist Hub</a> are hosting free, private, 30 minute advisory sessions for artists + creative freelancers on Mondays + Wednesdays on Zoom: please <a href="http://www.gm-artisthub.co.uk/advisory-sessions" target="_blank">sign-up</a> if you want to chat through your creative ideas, get some advice, or stay connected during isolation. In June they'll begin a programme of group sessions.<br>*(<a href="http://www.gm-artisthub.co.uk" target="_blank">GM Artist Hub</a> is a new, joint artist development project to support independent artists + freelance creatives across our city region — brought to you by: Community Arts Northwest, Contact, [hÅb](/hab)/[Word of Warning](/), HOME, Manchester International Festival, Octagon Theatre Bolton, Oldham Coliseum Theatre, Royal Exchange Theatre, SICK! Festival, Sustained Theatre Up North, The Lowry, Waterside Arts & Creative Industries Trafford, Z-arts.*)        
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>       
 ##### Emergency Response Funds         
-• <a href="http://artscouncil.org.uk/covid-19" target="_blank">Arts Council England's Covid-19 support</a> for <a href="http://www.artscouncil.org.uk/funding/financial-support-artists-creative-practitioners-and-freelancers" target="_blank">individuals</a> and <a href="http://www.artscouncil.org.uk/funding/financial-support-organisations-outside-national-portfolio" target="_blank">organisations outside their National Portfolio</a> has now closed:<br>&nbsp;→ they're sending notifications to applicants from 27 April; after applying please read <a href="http://www.artscouncil.org.uk/covid-19/emergency-response-fund-information-submitted-applicants" target="_blank">ACE's information for submitted applicants</a>.         
+• <a href="http://artscouncil.org.uk/covid-19" target="_blank">Arts Council England's Covid-19 support fund</a> for <a href="http://www.artscouncil.org.uk/funding/financial-support-artists-creative-practitioners-and-freelancers" target="_blank">individuals</a> + <a href="http://www.artscouncil.org.uk/funding/financial-support-organisations-outside-national-portfolio" target="_blank">organisations outside their National Portfolio</a> has closed; if you applied, please read <a href="http://www.artscouncil.org.uk/covid-19/emergency-response-fund-information-submitted-applicants" target="_blank">this information</a>.         
 • <a href="http://www.a-n.co.uk/about/freelands-foundation-emergency-fund" target="_blank">a-n Freelands Foundation Emergency Fund</a> for freelance creative practitioners based in England + N.I. who work in all visual arts disciplines (*d/l 18 Jun*).        
 • <a href="http://www.greatermanchester-ca.gov.uk/what-we-do/culture" target="_blank">United We Stream's Solidarity Fund</a> to help Greater Manchester's cultural + night time industries. You must be:<br>&nbsp;EITHER a Greater Manchester-based individual or freelancer working in the cultural or night time economy sectors;<br>&nbsp;OR applying on behalf of a Greater Manchester-based venue, bar, restaurant or cultural organisation;<br>&nbsp;→ download their <a href="http://greatermanchester-ca.gov.uk/media/2851/uws-funding-application-v2.xlsx" target="_blank">application form (excel spreadsheet)</a> and email to: uwsfunding@greatermanchester-ca.gov.uk (*no deadline*).         
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>       
@@ -75,7 +74,7 @@ ONGOING/OTHER
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>       
 
 ##### Opportunities/commissions         
-• <a href="http://greatermanchester-ca.gov.uk/what-we-do/culture" target="_blank">Greater Mcr Combined Authority's Culture team</a> announce opportunities to help artists, freelancers + organisations at <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>;        
+• <a href="http://greatermanchester-ca.gov.uk/what-we-do/culture" target="_blank">Greater Mcr Combined Authority's Culture team</a> announce opportunities to help artists, freelancers + organisations at <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>.        
 • <a href="http://livestreamarchive.co.uk/contact" target="_blank">Live Stream Archive</a> — share a recording of a performance to add to their temporary digital archive.        
 • Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">resources for disabled artists + freelancers page</a> includes an opportunities section.        
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>
