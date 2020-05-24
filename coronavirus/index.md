@@ -12,21 +12,16 @@ season: "News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 22 May 2020 at 19:05*        
+##### *Last updated on 24 May 2020 at 14:35*        
 
-<span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences)  [help for artists](/coronavirus/#artists)</span>       
+<span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences) · [help for artists](/coronavirus/#artists)</span>       
 <hr>          
 #### Audiences         
-##### Word of Warning Spring 2020
-In light of the <a href="http://www.gov.uk/coronavirus" target="_blank">UK Government's measures</a>, we're working with partners + host venues to make appropriate changes to our [current Performance Programme](/current/2020-springsummer):            
-**22 May, 9pm | [Works Ahead 2020 — *White Sun* by Will Dickie](/current/2020-worksahead)** — as darkness falls on Friday night, watch a work-in-progress performance, adapted for live streaming. TO WATCH: please book a free space on <a href="http://eventbrite.com/e/105420686110" target="_blank">Eventbrite</a> to receive live stream details. To improve your listening experience we suggest using headphones/external speakers. Donations welcome via <a href="http://www.paypal.me/warnmcr" target="_blank">PayPal</a>.        
-<span style='font-variant: small-caps'>[back to top](/coronavirus)</span>           
-##### Other things to watch        
-To complement our **<a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>**, we regularly add things to see or do online here…         
+Our own [Spring 2020 Performance Programme](/current/2020-springsummer) came to a close with [Works Ahead 2020 — *White Sun* by Will Dickie](/current/2020-worksahead) on 22 May — we'll announce new events for Summer 2020 here in June.<br>To complement our **<a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>**, here's a list of things to see or do online…         
 DIARY         
-**27 May, 7pm | <a href="http://contactmcr.com/news/love-letters-straight-from-your-heart" target="_blank">Contact + Fuel present Uninvited Guests' *Love Letters*</a>** — an adaptation of *Love Letters Straight From Your Heart* for Zoom (ticketed, donations welcome).        
-**28 May, 7.30pm | <a href="http://forestfringe.co.uk/portfolio/forest-fringe-tv" target="_blank">Forest Fringe TV: *The Museum of Hope in the Dark*</a>** — each Thursday FFTV presents something to watch or participate in (free, donations welcome).         
-ONGOING        
+**27 May, 7pm · <a href="http://contactmcr.com/news/love-letters-straight-from-your-heart" target="_blank">Contact + Fuel present Uninvited Guests' *Love Letters*</a>** — an adaptation of *Love Letters Straight From Your Heart* for Zoom (ticketed, donations welcome).        
+**28 May, 7.30pm · <a href="http://forestfringe.co.uk/portfolio/forest-fringe-tv" target="_blank">Forest Fringe TV: *The Museum of Hope in the Dark*</a>** — each Thursday FFTV presents something to watch or participate in (free, donations welcome).         
+ONGOING/OTHER        
 **<a href="http://smallertemples.wordpress.com/2020/04/04/quarantine-performance" target="_blank">Ben Kulvichit's Quarantine performance blog post</a>** — an evolving diary of streams + recordings of shows to see online.        
 **<a href="http://www.companychameleon.com/whats-on/theatre-thursdays" target="_blank">Company Chameleon's Theatre Thursdays</a>** — weekly opportunities to see one of their dance theatre productions.         
 **<a href="http://fueltheatre.com/projects/everyday-moments" target="_blank">*Everyday Moments* by Hofesh Schecter / Fuel</a>** — podcast designed to be listened to alone in a dark space; an invitation to move without inhibition (until 1 July).        
