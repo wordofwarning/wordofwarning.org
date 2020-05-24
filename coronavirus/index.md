@@ -12,9 +12,9 @@ season: "News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 24 May 2020 at 14:45*        
+##### *Last updated on 24 May 2020 at 15:05*        
 
-<span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences) · [artist support](/coronavirus/#artists)</span>       
+<span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences) · [help for artists](/coronavirus/#artists)</span>       
 <hr>          
 #### Audiences         
 Our [Spring 2020 Performance Programme](/current/2020-springsummer) came to a close with [Works Ahead 2020 — *White Sun* by Will Dickie](/current/2020-worksahead) on 22 May — we'll announce new events for Summer soon.<br>To complement our **<a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>**, we list things to see or do online here…            
@@ -45,7 +45,7 @@ OTHER
 #### Artists         
 [hÅb](/hab) remains "open for business" and we continue to advise/support artists + freelancers in our sector where we can, signposting help below.         
 ##### Greater Manchester Artist Hub            
-<a href="http://www.gm-artisthub.co.uk" target="_blank">GM Artist Hub</a> host free, private, 30 minute advisory sessions for artists + creative freelancers via Zoom or phone call on Mondays + Wednesdays: please <a href="http://www.gm-artisthub.co.uk/advisory-sessions" target="_blank">sign-up</a> if you want to chat through your creative ideas, get some advice, or stay connected during isolation. In June they'll begin a programme of group sessions.<br>*(<a href="http://www.gm-artisthub.co.uk" target="_blank">GM Artist Hub</a> is a new, joint artist development project to support independent artists + freelance creatives across our city region — brought to you by: Community Arts Northwest, Contact, [hÅb](/hab)/[Word of Warning](/), HOME, Manchester International Festival, Octagon Theatre Bolton, Oldham Coliseum Theatre, Royal Exchange Theatre, SICK! Festival, Sustained Theatre Up North, The Lowry, Waterside Arts & Creative Industries Trafford, Z-arts.*)        
+<a href="http://www.gm-artisthub.co.uk" target="_blank">GM Artist Hub</a> host free, private, 30 minute advisory sessions for artists + creative freelancers via Zoom or phone call on Mondays 10am-4pm, and Wednesdays 2pm-8pm → please <a href="http://www.gm-artisthub.co.uk/advisory-sessions" target="_blank">sign-up</a> if you want to chat through your creative ideas, or get some advice, or stay connected during isolation. In June they'll begin a programme of group sessions.<br>*(<a href="http://www.gm-artisthub.co.uk" target="_blank">GM Artist Hub</a> is a joint artist development project to support independent artists + freelance creatives across our city region — [hÅb](/hab)/[Word of Warning](/) are partners alongside Community Arts Northwest, Contact,HOME, Manchester International Festival, Octagon Theatre Bolton, Oldham Coliseum Theatre, Royal Exchange Theatre, SICK! Festival, Sustained Theatre Up North, The Lowry, Waterside Arts & Creative Industries Trafford, Z-arts.*)        
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>       
 ##### Emergency Response Funds         
 • <a href="http://artscouncil.org.uk/covid-19" target="_blank">Arts Council England's Covid-19 support fund</a> for <a href="http://www.artscouncil.org.uk/funding/financial-support-artists-creative-practitioners-and-freelancers" target="_blank">individuals</a> + <a href="http://www.artscouncil.org.uk/funding/financial-support-organisations-outside-national-portfolio" target="_blank">organisations outside their National Portfolio</a> has closed; if you applied, please read <a href="http://www.artscouncil.org.uk/covid-19/emergency-response-fund-information-submitted-applicants" target="_blank">this information</a>.         
