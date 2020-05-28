@@ -12,13 +12,12 @@ season: "News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 24 May 2020 at 15:10*        
+##### *Last updated on 28 May 2020 at 15:00*        
 
 <span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences) · [help for artists](/coronavirus/#artists)</span>       
 <hr>          
 #### Audiences         
 Our [Spring 2020 Performance Programme](/current/2020-springsummer) came to a close with [Works Ahead 2020 — *White Sun* by Will Dickie](/current/2020-worksahead) on 22 May — we'll announce new events for Summer soon.<br>To complement our **<a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>**, we list things to see or do online here…            
-**27 May, 7pm · <a href="http://contactmcr.com/news/love-letters-straight-from-your-heart" target="_blank">Contact + Fuel present Uninvited Guests' *Love Letters*</a>** — an adaptation of *Love Letters Straight From Your Heart* for Zoom (ticketed, donations welcome).        
 **28 May, 7.30pm · <a href="http://forestfringe.co.uk/portfolio/forest-fringe-tv" target="_blank">Forest Fringe TV: *The Museum of Hope in the Dark*</a>** — each Thursday FFTV presents something to watch or participate in (free, donations welcome).         
 OTHER        
 **<a href="http://smallertemples.wordpress.com/2020/04/04/quarantine-performance" target="_blank">Ben Kulvichit's Quarantine performance blog post</a>** — an evolving diary of streams + recordings of shows to see online.        
