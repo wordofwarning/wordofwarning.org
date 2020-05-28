@@ -34,10 +34,10 @@ Time: Friday 22 May 2020, 9pm.<br>Location: live streamed online.<br>Tickets: bo
 Today, Britain continues to benefit from its colonial past. A nation passionately caught up with being right, being the exception to the rule, and making profit at any cost. Children of divorced parents are 50% more likely to develop mental health problems. Addiction is a primary cause of preventable death; ruining lives, and consuming vast amounts of medical resources.           
          
 Will is white, British, straight, and privately educated. He grew up in a wealthy suburb inside the M25 and now lives in a Victorian house in Liverpool. Divorced parents; addictions to food, exercise, and attention.<br>Is there a way of coming to terms with this identity, this past, and his privilege?<br>Any hope? Any space for a voice and moving body beyond a maelstrom of inequality?         
-<hr>
-[Works Ahead](/hab/worksahead) is our annual sample of new performance — 2020's edition was planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS on 21/22 May in partnership with Contact: Will has adapted his work for live streaming; Ross has postponed sharing his work until it can be shown to a physical audience.         
+              
+**[Works Ahead](/hab/worksahead) is our annual sample of new performance** — 2020's edition was planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS on 21/22 May in partnership with Contact: Will has adapted his work for live streaming; Ross has postponed sharing his work until it can be shown to a physical audience.         
         
-#### Biography        
+#### Artist        
 Liverpool-based artist Will Dickie is a self-produced independent performance maker, working across dance, theatre + live art. Using body, autobiography, and place, he creates soulful performances for site and stage.            
         
 Will's work has extensively toured the UK + Ireland (including [*The Rave Space*](/archive/2019-springsummer/dickie)), and in 2020 made his international debut in Perth, Australia. Collaborating globally as an actor, dancer, DJ + director across art forms, he also facilitates young + professional artists, and works extensively with artists who are learning disabled.           
