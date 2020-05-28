@@ -17,21 +17,19 @@ season: "Works Ahead — Will Dickie 22|5|2020, 9pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to: [summary](/current/2020-worksahead/#summary) [location](/current/2020-worksahead/#location) [access](/current/2020-worksahead/#access) [about](/current/2020-worksahead/#about) [biography](/current/2020-worksahead/#biography) [reviews](/current/2020-worksahead/#reviews) [credits](/current/2020-worksahead/#credits) [websites](/current/2020-worksahead/#websites)</span>        
+<span style='font-variant: small-caps'>jump to: [access](/current/2020-worksahead/#access) · [about](/current/2020-worksahead/#about) · [artist](/current/2020-worksahead/#artist) · [reviews](/current/2020-worksahead/#reviews) · [credits](/current/2020-worksahead/#credits) · [websites](/current/2020-worksahead/#websites)</span>        
         
 *Presented by* Word of Warning *+* Contact *as* Works Ahead 2020        
          
 #### Summary       
 A work-in-progress performance, adapted for live streaming.<br>As darkness falls…<br>A lo-fi solo symphony of relentless movement and words about being a white son.<br>A sun of power and privilege, a son of divorce and addiction.        
-        
-#### Location           
-When: Friday 22 May 2020, 9pm.<br>Where: live streamed online.<br>How: book a free space on <a href="http://eventbrite.com/e/105420686110" target="_blank">Eventbrite</a> to receive live stream details.<br>Donations welcome via <a href="http://www.paypal.me/warnmcr" target="_blank">PayPal</a>.        
-           
-#### Access         
-Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>Duration: *approximately* 40 minutes.<br>Features: live spoken English + movement.<br>To improve your listening experience we suggest using headphones or external speakers.<br>For specific age + access information please get in touch by emailing <mailto:info@habmcr.org>.         
+<iframe src="http://www.youtube.com/embed/yrZFSzURaS4" width="640" height="360" frameborder="0" allowfullscreen></iframe>          
+         
+#### Access            
+Time: Friday 22 May 2020, 9pm.<br>Location: live streamed online.<br>Tickets: book a free space on <a href="http://eventbrite.com/e/105420686110" target="_blank">Eventbrite</a> to receive live stream details.<br>Donations welcome via <a href="http://www.paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>Duration: approximately 40 minutes.<br>Features: live spoken English + movement.<br>To improve your listening experience we suggest using headphones or external speakers.<br>For specific age + access information please get in touch by emailing <mailto:info@habmcr.org>.         
           
 #### About         
->*No lights. No music. No props. Moving. And speaking. And moving and speaking. And Skanking and moving and speaking. Some nodding. Pulsing. Also bopping. And shaking. And shaking shaking. Scrambling. And speaking. And pointing.<br><br>Pointing at the space when others see my face.<br>Pointing at addiction and how that makes us who we are.<br>Pointing at divorce and how that makes us who we are.<br>Pointing at Britain and old actors and privilege and how that makes me who I am.<br>Pointing at the Sun and speaking about white golden things.*        
+>*No lights. No music. No props. Moving. And speaking. And moving and speaking. And skanking and moving and speaking. Some nodding. Pulsing. Also bopping. And shaking. And shaking shaking. Scrambling. And speaking. And pointing.<br><br>Pointing at the space when others see my face.<br>Pointing at addiction and how that makes us who we are.<br>Pointing at divorce and how that makes us who we are.<br>Pointing at Britain and old actors and privilege and how that makes me who I am.<br>Pointing at the Sun and speaking about white golden things.*        
         
 Today, Britain continues to benefit from its colonial past. A nation passionately caught up with being right, being the exception to the rule, and making profit at any cost. Children of divorced parents are 50% more likely to develop mental health problems. Addiction is a primary cause of preventable death; ruining lives, and consuming vast amounts of medical resources.           
          
