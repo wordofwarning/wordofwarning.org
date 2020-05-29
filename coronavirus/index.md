@@ -12,7 +12,7 @@ season: "News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 29 May 2020 at 12:50*        
+##### *Last updated on 29 May 2020 at 12:55*        
 
 <span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences) · [help for artists](/coronavirus/#artists)</span>       
 <hr>          
@@ -26,7 +26,7 @@ Our [Spring 2020 Performance Programme](/current/2020-springsummer) came to a cl
 **<a href="http://forestfringe.co.uk/paper-stages-2020" target="_blank">Forest Fringe's *Paper Stages 2020*</a>** — a series of performances initiated by FF artists for you to complete in the comfort of your own home (free to download).         
 **<a href="http://forestfringe.co.uk/portfolio/forest-fringe-tv" target="_blank">Forest Fringe TV</a>** — each Thursday FFTV presents something to watch or participate in (free, donations welcome).         
 **<a href="http://homemcr.org/article/great-theatre-you-can-watch-at-home" target="_blank">HOME's Great theatre you can watch at home</a>** — things to watch online for free (regular updates).         
-**<a href="http://homemcr.org/digital-channel" target="_blank">HOME's digital channel</a>** — will include their <a href="http://homemcr.org/event/homemakers/" target="_blank">Homemaker commissions</a> to watch online (regular updates).         
+**<a href="http://homemcr.org/digital-channel" target="_blank">HOME's digital channel</a>** — includes their <a href="http://homemcr.org/event/homemakers/" target="_blank">Homemaker commissions</a> to watch online (regular updates).         
 **<a href="http://www.imitatingthedog.co.uk/watch" target="_blank">imitating the dog's watch page</a>** — fortnightly opportunities to see some of their previous show recordings online.         
 **<a href="http://livestreamarchive.co.uk/archive" target="_blank">Live Stream Archive</a>** — a temporary digital archive of small-scale theatre + performance works (regular updates).        
 **<a href="http://mif.co.uk/mif-launches-mif-live" target="_blank">MIF Live</a>** — free livestreams incl. new Festival In My House commissions on Wednesdays, discussions + archive broadcasts from Mcr International Festival (regular updates).        
@@ -59,18 +59,19 @@ Our [Spring 2020 Performance Programme](/current/2020-springsummer) came to a cl
 • Arts Professional's <a href="http://www.artsprofessional.co.uk/news/covid-19-connecting-online-during-social-distancing" target="_blank">guide to running online-only events</a>.          
 • Exeunt Magazine's <a href="http://exeuntmagazine.com/features/covid-19-resources-uk-theatre-freelancers" target="_blank">Covid-19 Resources for UK Theatre page</a> — an evolving collection of advice, resources + opportunities for our community.        
 • Greater Manchester Combined Authority's <a href="http://www.greatermanchester-ca.gov.uk/news/new-mental-health-services-for-people-affected-by-social-restrictions" target="_blank">new mental health services for people affected by social restrictions</a>.         
-• <a href="http://greatermanchester-ca.gov.uk/what-we-do/culture" target="_blank">Greater Mcr Combined Authority's Culture team</a> announce opportunities to help artists, freelancers + organisations at <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>.        
+• Greater Mcr Combined Authority's <a href="http://greatermanchester-ca.gov.uk/what-we-do/culture" target="_blank">Culture team</a> announce opportunities to help artists, freelancers + organisations at <a href="http://twitter.com/GM_Culture" target="_blank">@GM_Culture</a>.        
 • IPSE (Association of Independent Professionals + the Self Employed)'s <a href="http://www.ipse.co.uk/ipse-news/news-listing/coronavirus-ipse-activity-and-advice-freelancers.html" target="_blank">Coronavirus page</a> — what they're doing + advice for freelancers + the self-employed.        
 • Live Art Development Agency (LADA)'s <a href="http://www.thisisliveart.co.uk/resources/covid-19-support-resources" target="_blank">Covid-19 support + resources page</a> — aims to gather information to support affected artists + arts workers.         
+• Live Art Development Agency's <a href="http://www.thisisliveart.co.uk/opportunities" target="_blank">Opportunities page</a> — includes their new online open calls for Summer 2020.         
 • <a href="http://livestreamarchive.co.uk/resources" target="_blank">Live Stream Archive</a> + <a href="http://www.facebook.com/groups/livestreamingarts" target="_blank">Live Streaming Arts Facebook group</a> — expertise, information + advice on how to share live performance with, and connect to, audiences online.         
 • <a href="http://livestreamarchive.co.uk/contact" target="_blank">Live Stream Archive</a> — you can also share a recording of a performance to add to their temporary digital archive.        
 • Manchester International Festival's <a href="http://mif.co.uk/resources-for-freelance-creatives/" target="_blank">Resources For Artists + Freelancers page</a>.        
 • MIF's <a href="http://mif.co.uk/mif-drop-in-artists-freelance-creatives" target="_blank">Zoom drop in for artists + freelance creatives on Thursdays at 2pm </a> — you can also <a href="http://www.facebook.com/groups/mifartistfreelancedropin" target="_blank">join their facebook group</a>.        
-• <a href="http://www.moneysavingexpert.com/news" target="_blank">Money Saving Expert (aka Martin Lewis)</a> has lots of useful information (regular updates).           
+• Money Saving Expert — <a href="http://www.moneysavingexpert.com/news" target="_blank">Martin Lewis & his team</a> have lots of useful information (regular updates).           
 • Paul Lewis Money's <a href="http://paullewismoney.blogspot.com/2020/03/self-employed-coronavirus-scheme.html" target="_blank">blog on the coronavirus Self-employment Income Scheme (regular updates)</a>.        
 • Supercool's blog on <a href="http://supercooldesign.co.uk/blog/keeping-it-live" target="_blank">quick routes to live-streaming</a>.        
 • The Centre for the Study of Media + Culture in Small Nations blog on <a href="http://culture.research.southwales.ac.uk/news-and-events/news/online-theatre-covid-19" target="_blank">making social-distancing live theatre + performance during the COVID-19 lockdown</a>.         
 • The Space's <a href="http://www.thespace.org/resource/live-streaming-arts-lo-fi-and-low-cost-options" target="_blank">guide to live streaming for the arts by Jason Crouch</a> — lo-fi and low cost options.        
-• <a href="http://theatresupport.info" target="_blank">Theatre Support Information</a> from UK Theatre + SOLT — advice/info about how + where you can access support from leading theatrical charities.        
+• UK Theatre + SOLT's <a href="http://theatresupport.info" target="_blank">Theatre Support Information</a> — advice/info about how + where you can access support from leading theatrical charities.        
 • Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">resources for disabled artists + freelancers page</a> (also includes an opportunities section).        
 <span style='font-variant: small-caps'>[back to top](/coronavirus)</span>       
