@@ -12,19 +12,19 @@ season: "News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 28 May 2020 at 15:00*        
+##### *Last updated on 29 May 2020 at 12:40*        
 
 <span style='font-variant: small-caps'>jump to: [things to watch](/coronavirus/#audiences) · [help for artists](/coronavirus/#artists)</span>       
 <hr>          
 #### Audiences         
-Our [Spring 2020 Performance Programme](/current/2020-springsummer) came to a close with [Works Ahead 2020 — *White Sun* by Will Dickie](/current/2020-worksahead) on 22 May — we'll announce new events for Summer soon.<br>To complement our **<a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>**, we list things to see or do online here…            
-**28 May, 7.30pm · <a href="http://forestfringe.co.uk/portfolio/forest-fringe-tv" target="_blank">Forest Fringe TV: *The Museum of Hope in the Dark*</a>** — each Thursday FFTV presents something to watch or participate in (free, donations welcome).         
-OTHER        
+Our [Spring 2020 Performance Programme](/current/2020-springsummer) came to a close with [Works Ahead 2020 — *White Sun* by Will Dickie](/current/2020-worksahead) on 22 May — we'll announce new events for Summer soon.<br>To complement our **<a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>**, you can find things to see or do online here…            
 **<a href="http://smallertemples.wordpress.com/2020/04/04/quarantine-performance" target="_blank">Ben Kulvichit's Quarantine performance blog post</a>** — an evolving diary of streams + recordings of shows to see online.        
 **<a href="http://www.companychameleon.com/whats-on/theatre-thursdays" target="_blank">Company Chameleon's Theatre Thursdays</a>** — weekly opportunities to see one of their dance theatre productions.         
 **<a href="http://fueltheatre.com/projects/everyday-moments" target="_blank">*Everyday Moments* by Hofesh Schecter / Fuel</a>** — podcast designed to be listened to alone in a dark space; an invitation to move without inhibition (until 1 July).        
 **<a href="http://exeuntmagazine.com/features/covid-19-resources-uk-theatre-freelancers" target="_blank">Exeunt Magazine's resources</a>** — includes "Where to watch theatre for free online" (regular updates).        
 **<a href="http://vimeo.com/395350772" target="_blank">Fierce Festival 2019 The Movie</a>** — highlights from the 2019 edition; Fierce also have some <a href="http://wearefierce.org/fierces-lockdown-viewing" target="_blank">Lockdown Viewing Tips</a>.        
+**<a href="http://forestfringe.co.uk/paper-stages-2020" target="_blank">Forest Fringe's *Paper Stages 2020*</a>** — a series of performances initiated by FF artists for you to complete in the comfort of your own home (free to download).         
+**<a href="http://forestfringe.co.uk/portfolio/forest-fringe-tv" target="_blank">Forest Fringe TV</a>** — each Thursday FFTV presents something to watch or participate in (free, donations welcome).         
 **<a href="http://homemcr.org/article/great-theatre-you-can-watch-at-home" target="_blank">HOME's Great theatre you can watch at home</a>** — things to watch online for free (regular updates).         
 **<a href="http://homemcr.org/digital-channel" target="_blank">HOME's digital channel</a>** — will include their <a href="http://homemcr.org/event/homemakers/" target="_blank">Homemaker commissions</a> to watch online (regular updates).         
 **<a href="http://www.imitatingthedog.co.uk/watch" target="_blank">imitating the dog's watch page</a>** — fortnightly opportunities to see some of their previous show recordings online.         
