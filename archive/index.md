@@ -57,7 +57,7 @@ archived:
     - {folder: "2012-hazard", name: "Hazard 2012", class: "h2012"}
     - {folder: "2012-woah", name: "Works Ahead 2012", class: "woah"}
     - {folder: "2012-springsummer", name: "Spring/Summer 2012", class: "ss2012"}
-    - name: "<a href='/current/2020-worksahead'>test please ignore</a>", class: "p2013"
+    - {class: "w2020", name: "<a href='/2020/worksahead'>test please ignore</a>"} 
 
 ---
 # Archive
