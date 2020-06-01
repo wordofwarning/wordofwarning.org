@@ -12,12 +12,12 @@ season: "News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 1 June 2020 at 15:00*        
+##### *Last updated on 1 June 2020 at 15:10*        
 
 <span style='font-variant: small-caps'>jump to [things to watch](/coronavirus/#audiences) or [help for artists](/coronavirus/#artists): [gm artist hub](/coronavirus/#gmartisthub) · [funds](/coronavirus/#funds) · [support](/coronavirus/#support)</span>       
 <hr>          
 #### Audiences         
-Watch live streams of our last two events on YouTube: <a href="http://youtu.be/yrZFSzURaS4" target="_blank">Works Ahead 2020 — *White Sun* by Will Dickie</a> (from 22 May) and <a href="http://youtube.com/watch?v=m7dDCgaffoI&t=3600s" target="_blank">*OREO: variations* by Tania Camara</a> (from 1 May).<br>Our [Spring season](/current/2020-springsummer/) has come to a close and we'll soon be announcing new events for Summer…<br><br>**To complement our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>, below are other routes to find things to watch…**            
+Watch live streams of our last two events on YouTube: <a href="http://youtu.be/yrZFSzURaS4" target="_blank">Works Ahead 2020 — *White Sun* by Will Dickie</a> (from 22 May) and <a href="http://youtube.com/watch?v=m7dDCgaffoI&t=3600s" target="_blank">*OREO: variations* by Tania Camara</a> (from 1 May).<br>Our [Spring season](/current/2020-springsummer/) has come to a close and we'll soon be announcing new events for Summer.<br><br>**Find other things to see or do online in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>, complemented by the following list:**            
 <a href="http://smallertemples.wordpress.com/2020/04/04/quarantine-performance" target="_blank">Ben Kulvichit's Quarantine performance blog post</a> — an evolving diary of streams + recordings of shows to see online.        
 <a href="http://www.companychameleon.com/whats-on/theatre-thursdays" target="_blank">Company Chameleon's Theatre Thursdays</a> — weekly opportunities to see one of their dance theatre productions.         
 <a href="http://fueltheatre.com/projects/everyday-moments" target="_blank">*Everyday Moments* by Hofesh Schecter / Fuel</a> — podcast designed to be listened to alone in a dark space; an invitation to move without inhibition (until 1 July).        
