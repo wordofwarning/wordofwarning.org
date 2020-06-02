@@ -1,0 +1,28 @@
+---
+
+rootpath: "../"
+
+---
+
+{% include shared-head.html %}
+<body class="archive">
+	<div id="page">
+		{% include shared-nav.html %}
+		<article>
+		<div class="row">
+		<div class="twelve columns bodycopy">
+		    {{ content }}
+	    </div>
+    </div>
+		{% for item in page.archived %}
+			<div class="{{ item.class }}">
+				<a class="splash" href="{{ item.folder }}">
+					<span class="titles row">
+						<h1 class="artist">{{ item.name }}</h1>
+					</span>
+				</a>
+			</div>
+		{% endfor %}
+
+			<article>
+{% include shared-close.html %}
