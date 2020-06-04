@@ -4,7 +4,7 @@ layout: archivecopy
 season: "Archive Test Page"
 
 archived:
-    - {class: "w2020", name: "<a href='/2020/worksahead'>Works Ahead 2020</a>"}
+    - {class: "w2020", artist: "blob", name: "<a href='/2020/worksahead'>Works Ahead 2020</a>"}
     - {folder: "2019-autumnwinter", name: "Autumn/Winter 2019", class: "aw2019"}
     - {folder: "2019-emergency", name: "Emergency 2019", class: "e2019"}
     - {folder: "2019-springsummer", name: "Spring/Summer 2019", class: "ss2019"}    
