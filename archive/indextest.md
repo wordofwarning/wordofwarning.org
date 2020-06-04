@@ -1,9 +1,10 @@
 ---
 # CONFIGURATION
-layout: archive
-season: "Archive"
+layout: archivecopy
+season: "Archive Test Page"
 
 archived:
+    - {class: "w2020", name: "<a href='/2020/worksahead'>Works Ahead 2020</a>"}
     - {folder: "2019-autumnwinter", name: "Autumn/Winter 2019", class: "aw2019"}
     - {folder: "2019-emergency", name: "Emergency 2019", class: "e2019"}
     - {folder: "2019-springsummer", name: "Spring/Summer 2019", class: "ss2019"}    
@@ -57,8 +58,7 @@ archived:
     - {folder: "2012-hazard", name: "Hazard 2012", class: "h2012"}
     - {folder: "2012-woah", name: "Works Ahead 2012", class: "woah"}
     - {folder: "2012-springsummer", name: "Spring/Summer 2012", class: "ss2012"}
-    - {class: "w2020", name: "<a href='/2020/worksahead'>test please ignore</a>"} 
-
+    
 ---
-# Archive
+# Archive Test
 Word of Warning's previous events, ordered chronologically by festival or season (*recent first*)…
