@@ -1,15 +1,15 @@
 ---
 # CONFIGURATION
-layout: 2020-spring
+layout: 2020-summer
 rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Will Dickie" # the name of the artist or company
-show: "<br>&nbsp;White Sun" # the name of the show
+artist: "Domestic" # the name of the artist or company
+show: "<br>&nbsp;artists" # the name of the show
 artist_size: 1
-show_size: 1
-header_image: "header_dickie1.jpg"    
-season: "Works Ahead — Will Dickie 22|5|2020, 9pm"
+show_size: 3
+header_image:   
+season: "Domestic 1|7|2020, 8.30pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,9 +17,9 @@ season: "Works Ahead — Will Dickie 22|5|2020, 9pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to: [access](/current/2020-worksahead/#access) · [about](/current/2020-worksahead/#about) · [artist](/current/2020-worksahead/#artist) · [reviews](/current/2020-worksahead/#reviews) · [credits](/current/2020-worksahead/#credits) · [websites](/current/2020-worksahead/#websites)</span>        
+<span style='font-variant: small-caps'>jump to: [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [artists](/current/2020-domestic/#artists) · [credits](/current/2020-domestic/#credits) · [websites](/current/2020-domestic/#websites)</span>        
         
-*Presented by* Word of Warning *+* Contact *as* Works Ahead 2020        
+*Presented by* Word of Warning        
          
 A work-in-progress performance, adapted for live streaming.<br>As darkness falls…<br>A lo-fi solo symphony of relentless movement and words about being a white son.<br>A sun of power and privilege, a son of divorce and addiction.        
 <iframe src="http://www.youtube.com/embed/yrZFSzURaS4" width="640" height="360" frameborder="0" allowfullscreen></iframe>          
@@ -41,15 +41,10 @@ Liverpool-based artist Will Dickie is a self-produced independent performance ma
         
 Will's work has extensively toured the UK + Ireland (including [*The Rave Space*](/archive/2019-springsummer/dickie)), and in 2020 made his international debut in Perth, Australia. Collaborating globally as an actor, dancer, DJ + director across art forms, he also facilitates young + professional artists, and works extensively with artists who are learning disabled.           
         
-#### Reviews        
->*A brutal encounter with the self … an act which jolts you awake*<br>&nbsp;— <a href="http://www.ayoungertheatre.com/review-the-rave-space-camden-peoples-theatre" target="_blank">A Younger Theatre on *The Rave Space*</a><br>*Highs, lows, energy and intimacy … a moving exploration of masculinity*<br>&nbsp;— <a href="http://www.thestage.co.uk/reviews/latitude-festival-2014" target="_blank">The Stage on *Team of the Decades*</a><br>*Fiercely imaginative and stunningly original*<br>&nbsp;— Adrian Howells on *Memories of Suburbia*         
-        
-*White Sun* is one of Manchester Wire's <a href="http://manchesterwire.co.uk/guide/free-things-to-do-at-home-this-week-karate-for-beginners" target="_blank">Free things to do at home this week</a>.       
-        
 #### Credits          
-Conceived + performed by Will Dickie, in collaboration with Fabiola Santana<br>Technical advice: Jason Crouch | Works Ahead Project Mentor: Peader Kirk<br>[Works Ahead](/hab/worksahead) 2020 is co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>        
+Domestic is produced by [hÅb](/hab).
         
 #### Websites         
-<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a><br><a href="http://willdickie.co.uk" target="_blank">willdickie.co.uk</a> | <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a>        
+<a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a><br><a href="http://twitter.com/ARTISTS" target="_blank">@ARTISTS</a>        
        
 <small><span style='font-variant: small-caps'>[back to top](/current/2020-worksahead)</span></small>
