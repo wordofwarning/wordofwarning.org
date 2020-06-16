@@ -8,7 +8,7 @@ artist: "Domestic" # the name of the artist or company
 show: "<br>&nbsp;Performance stripped bare.
 " # the name of the show
 artist_size: 1
-show_size: 1
+show_size: 3
 header_image: "header_domestic.jpg"  
 season: "Domestic 1|7|2020, 8.30pm"
 
@@ -22,7 +22,9 @@ season: "Domestic 1|7|2020, 8.30pm"
         
 *Presented by* Word of Warning        
          
-What can you make when your kitchen table is the stage and your camera lens is the visible audience? Six artists with six new commentaries on where we find ourselves, in a beta-test platform for new work.<br>Real lives, real stories, real homes.         
+What can you make when your kitchen table is the stage and your camera lens is the visible audience?        
+          
+Six artists with six new commentaries on where we find ourselves, in a beta-test platform for new work. Real lives, real stories, real homes.         
          
 #### Artists        
 Afreena Islam | Alex Bradley | Cheryl Martin | Emma Geraghty | Levantes Dance Theatre | Nathan Birkinshaw | hosted by Peader Kirk<br>&nbsp;&nbsp;(Participating artists subject to change.)        
