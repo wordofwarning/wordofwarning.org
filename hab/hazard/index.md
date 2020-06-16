@@ -5,6 +5,8 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Hazard" # the name of the artist or company
+show: "<br>&nbsp;&nbsp;Biennial interventions in Manchester City Centre." # the name of the artist or company
+show_size: 4
 header_image: "header_2012_hazard.jpg"   
 season: "hÅb — Hazard"
 
@@ -14,9 +16,9 @@ season: "hÅb — Hazard"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---         
-**Hazard** is our biennial micro-festival of incidental intervention and sited performance, blurring the boundaries between art and activism…                    
+**Hazard** is our biennial micro-festival of incidental intervention + sited performance, blurring the boundaries between art and activism…                    
               
-Our **[seventh Hazard](/archive/2018-springsummer/hazardshadowgirl)** popped up in central Manchester on 4 August 2018, with shadowy figures moving silently through the city streets, playing, questioning, exploring visibility + vulnerability… See [images](/galleries/2016-hazard) from the day.         
+Our **[seventh Hazard](/archive/2018-springsummer/hazardshadowgirl)** popped up in central Manchester on 4 August 2018, with shadowy figures moving silently through the city streets, playing, questioning, exploring visibility + vulnerability… See [images](/galleries/2018-hazard) from the day.         
         
 Since 2007 over 100 artists have taken to the streets of Manchester including: Action Hero, Alex Bradley, Instant Dissidence, Jordan Mackenzie, Juliann O'Malley, Katherina Radeva, Kris Canavan, Michael Pinchbeck, Nicola Hunter, Richard DeDomenici, Sexcentenary, Shahram Entekhabi, the vacuum cleaner — so far we've wrapped Cathedral Gardens in fluttering hazard tape, hosted the world's slowest fairground ride, moved the goalposts (literally) and witnessed breastfeeding in a shop window — oh, and conducted a hoola-hoopathon; The Larks have had the public riddling, racing and chasing as urban archaeologists and private investigators, injecting mass gaming into St Ann's Square and beyond.             
               

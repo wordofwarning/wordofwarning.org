@@ -25,7 +25,7 @@ Tickets: NO booking required, Pay What You Decide in person on the night.<br>Ent
 Enquiries: 07488 308 111 (*on the night*) / 0161 232 6086 (*during weekday office hours*)          
          
 #### Access Information       
-Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Warning: some works may disturb, for specific content warnings please click [here](/warnings).<br>Access: uses a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. **We apologise but due to the nature of the NIAMOS building, some works may not have step-free access.**<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.        
+Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Warning: some works may disturb, for specific content warnings please click [here](/warnings). Strobe lighting will be used 7pm-8pm in the main auditorium.<br>Access: uses a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some limited capacity, some participatory. **We apologise but due to the nature of the NIAMOS building, some works may not have step-free access.**<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.        
         
 #### Programme Notes (*Participating Artists + Schedule subject to change*)        
 **6-7pm | Philip Bedwell | *Division***        
@@ -70,7 +70,7 @@ The mundane routine of a 9–5 life. A durational performance about the humdrum 
 <a href="http://susannaamato.squarespace.com" target="_blank">susannaamato.squarespace.com</a>        
         
 **7-8pm | Kris Canavan | *All Roads Lead To Shit***         
-When those who hold the balance of power refuse to show remorse for the hate-filled words they spew + cannot be held accountable for their actions, then all roads truly do lead to shit.<br>Since 2001 **Kris Canavan** has used their body as a site to be manipulated, contorted, sculpted, pierced + mined for the creation of artworks. They see their methods used in the creation of artworks (by utilising their body + its resources) as a political ownership of their body; a rejection of the status quo + subservience that is expected of us by the state — essentially their works can be viewed as gestures of defiance + dissent.<br>(Includes nudity; see content warnings [here](/warnings).)         
+When those who hold the balance of power refuse to show remorse for the hate-filled words they spew + cannot be held accountable for their actions, then all roads truly do lead to shit.<br>Since 2001 **Kris Canavan** has used their body as a site to be manipulated, contorted, sculpted, pierced + mined for the creation of artworks. They see their methods used in the creation of artworks (by utilising their body + its resources) as a political ownership of their body; a rejection of the status quo + subservience that is expected of us by the state — essentially their works can be viewed as gestures of defiance + dissent.<br>(Includes nudity + uses strobe lighting; see content warnings [here](/warnings).)         
 <a href="http://www.kriscanavan.com" target="_blank">kriscanavan.com</a> | <a href="http://twitter.com/kriscanavan" target="_blank">@kriscanavan</a>        
         
 **8-10pm | Powder Keg | *Line Dancing In Clitheroe***          

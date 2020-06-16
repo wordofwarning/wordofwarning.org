@@ -803,7 +803,7 @@
 /* Spring 2020 Programme red velvet
 ------------------------------------------------------*/
 
-	.s2020 .splash
+	.spr2020 .splash
 		{background:url(../images/header_Spring20warnin.jpg) -150px center}
 
 /* Emergency Stop-Gap 2020 Shkeisha+bowl (was bright green w running man)
@@ -827,13 +827,7 @@
 	.esg2020 .splash
 		{background:url(../images/header_esg_shkiesha.jpg) center center}
 
-/* Spring/Summer 2020 Programme TBC after Easter (hazard placeholder)
-------------------------------------------------------*/
-
-	.ss2020 .splash
-		{background:url(../images/header_ss2016wrnhaz.jpg) -150px center}
-
-/* Works Ahead 2020 berry w gasworks
+/* Works Ahead 2020 berry w gasworks (NOT USED)
 ------------------------------------------------------*/
 		
 	.w2020,
@@ -853,3 +847,9 @@
 
 	.w2020 .splash
 		{background:url(../images/header_woah_photo.jpg) center center}
+
+/* Summer 2020 Programme green grass
+------------------------------------------------------*/
+
+	.sum2020 .splash
+		{background:url(../images/header_2020SummerWarnin.jpg) -150px center}

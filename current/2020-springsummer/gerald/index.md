@@ -9,7 +9,7 @@ show: "<br>&nbsp;Idol" # the name of the show
 artist_size: 2
 show_size: 1
 header_image: "header_jamal.jpg"    
-season: "Jamal Gerald 19—21|3|2020"
+season: "Jamal Gerald 19—21|3|2020 — CANCELLED"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,16 +17,23 @@ season: "Jamal Gerald 19—21|3|2020"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
+**CANCELLED — <a href="http://www.royalexchange.co.uk/the-royal-exchange-theatre-suspension-of-activity-from-5pm-on-tuesday-17-march" target="_blank">Royal Exchange Theatre will be in touch with ticket holders asap</a>, please don't call their box office.**         
+        
+<hr>        
+        
 *Presented by* Royal Exchange Theatre*,* Contact *+* Word of Warning       
          
 #### In Brief      
 Who would you rather pray to? Beyoncé or white Jesus?<br>A daring + unapologetic examination of religion, pop culture + Black representation.         
 <iframe src="http://player.vimeo.com/video/391239382" width="640" height="360" frameborder="0" allowfullscreen></iframe>          
+        
+<iframe src="https://open.spotify.com/embed/playlist/4MmXgcEnvgkBZOcuoKVq1k" width="640" height="240" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>        
+      
           
 #### Venue + Booking Details           
-Dates: Thursday 19, Friday 20 + Saturday 21 March 2020, 7.30pm        
-Venue: The Studio at <a href="http://www.royalexchange.co.uk/where-how-to-find-us" target="_blank">Royal Exchange Theatre</a>, St Ann's Square, Manchester, M2 7DH         
-Tickets: <a href="http://www.royalexchange.co.uk/whats-on-and-tickets/idol" target="_blank">£13/11/7</a>         
+Dates: were Thursday 19, Friday 20 + Saturday 21 March 2020, 7.30pm        
+Venue: was The Studio at <a href="http://www.royalexchange.co.uk/where-how-to-find-us" target="_blank">Royal Exchange Theatre</a>, St Ann's Square, Manchester, M2 7DH         
+Tickets: <a href="http://www.royalexchange.co.uk/whats-on-and-tickets/idol" target="_blank">were £13/11/7</a> — they'll be refunded by the RET as soon as possible, please don't call their box office.          
 Box Office tel: 0161 833 9833 (Royal Exchange Theatre)           
           
 #### Access Information        

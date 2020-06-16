@@ -35,7 +35,7 @@ Our **[seventh Works Ahead](/archive/2018-worksahead)** took place in May 2018 a
               
 Our **[eighth Works Ahead](/archive/2019-worksahead)** took place in May 2019 at STUN Studio, with a double bill from Mark Croasdale + Avital Raz: two explorations of inner conflict, outer division, and the politics of oppression… See their [image gallery](/galleries/2019-woah).          
 
-Our **[ninth Works Ahead](/current/2020-worksahead)** takes place on 21+22 May 2020 in sited form at NIAMOS in partnership with Contact, with a double bill of new works at the start of their journeys from artists Will Dickie + Ross McCaffrey.         
+Our **[ninth Works Ahead](/current/2020-worksahead)** was planned as a sited double bill from artists Will Dickie + Ross McCaffrey at NIAMOS in partnership with Contact: Will adapted his work for live streaming, broadcast on 22 May 2020; Ross postponed sharing his work until it can be shown to a physical audience.         
             
 [Works Ahead 2020](/current/2020-worksahead) is co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>. Project Mentor: Peader Kirk          
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>

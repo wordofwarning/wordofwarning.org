@@ -17,19 +17,23 @@ season: "Jo Bannon 1|4|2020"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* The Lowry + Word of Warning *as a* <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a>
+**CANCELLED — <a href="http://thelowry.com/coronavirus" target="_blank">The Lowry will be in touch asap if you donated when you booked a ticket</a>, please bear with them**        
+        
+<hr>        
+        
+*Presented by* The Lowry + Word of Warning *as a* <a href="http://thelowry.com/about-us/festivals-projects/take-a-risk/wtf-wednesday" target="_blank">WTF Wednesday</a>          
          
 #### In Brief      
-Soft flesh contends with hard metal as vibrating bodies + hysterical voices attempt to unseat the hidden interior of anxiety, desire, exertion, sexuality + relentless penetration.             
+Soft flesh contends with hard metal as vibrating bodies + hysterical voices attempt to unseat the hidden interior of anxiety, desire, exertion, sexuality + relentless penetration, in a new ensemble piece by Jo Bannon with Louise Ahl + Rosana Cade.            
            
 #### Venue + Booking Details           
-Date: Wednesday 1 April 2020, 8pm        
-Venue: <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
-Tickets: <a href="http://thelowry.com/whats-on/wtf-wednesday-jo-bannon-we-are-fucked" target="_blank">book online from Friday 28 February</a>, and Pay What You Decide by cash or card after the show (*suggested donation £5; you can choose to donate £5 when you book*).         
+Date: was Wednesday 1 April 2020, 8pm        
+Venue: was <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ         
+Tickets: were Pay What You Decide — if you donated £5 when you booked a ticket The Lowry will be in touch in due course.         
 Box Office tel: 0161 876 2000 (The Lowry)          
           
 #### Access Information        
-Please note: this performance will be audio described + captioned.<br>Age Advisory: 16+ (parental/guardian discretion).<br>Please note: there are no specific content [warnings](/warnings) for the show.<br>Duration: approximately 1 hour (no interval).<br>Features: choreographed movement + minimal live spoken English, with more content to be confirmed by 28 February.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
+Please note: this performance will be audio described + captioned.<br>Age Advisory: 16+ (parental/guardian discretion).<br>Please note: there are no specific content warnings for the show.<br>Duration: approximately 1 hour (no interval).<br>Features: choreographed movement + minimal live spoken English.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
        
 #### More         
 Three bodies are working hard — using an assortment of domestic objects with a choreography of subtle shaking and relentless labour to produce moments of operatic melodrama and brooding states of dissent, quaking + eruption.        
@@ -41,7 +45,7 @@ A striking, subtle dance piece, *We Are Fucked* uncovers the hard work it someti
 *WAF* premiered in August 2018 at Arnolfini, prior to performances in September 2018 at Southbank Centre's Unlimited Festival.         
          
 #### Who is she?        
-Jo Bannon returns after 2017's [*Alba* — her story of paleness, blending in, and standing out](/archive/2017-autumnwinter/bannon) — and for *We Are Fucked* is joined by Louise Ahl + Rosana Cade.                   
+Jo Bannon returns after 2017's [*Alba* — her story of paleness, blending in + standing out](/archive/2017-autumnwinter/bannon).                   
         
 A Bristol-based artist working in performance, choreography + live art, Jo also works as a dramaturg, educator + writer, and is a founder member of artist collective Residence. She has presented work in the UK, Europe, South America, USA, China, South Korea + Australia — Word of Warning presented her intimate [*Exposure*](/archive/2013-domestic/bannon) during 2013's Domestic. 
          
