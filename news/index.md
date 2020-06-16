@@ -12,12 +12,12 @@ season: "News + Information"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 16 June 2020 at 15:22*        
+##### *Last updated on 16 June 2020 at 15:30*        
 
 <span style='font-variant: small-caps'>jump to [things to watch](/news/#audiences) or [help for artists](/news/#artists) → [gm artist hub](/news/#gmartisthub) · [funds](/news/#funds) · [support](/news/#support)</span>       
 <hr>          
 #### Audiences         
-Our [Summer season](/current/2020-summer) begins with [Domestic](/current/2020-summer) on *Wed 1 July at 8.30pm* — six artists with six new commentaries on where we find ourselves in a beta-test platform for new work.<br>Watch live streams of our last two events on YouTube: <a href="http://youtu.be/yrZFSzURaS4" target="_blank">Works Ahead 2020 — *White Sun* by Will Dickie</a> (from *22 May*) and <a href="http://youtube.com/watch?v=m7dDCgaffoI&t=3600s" target="_blank">*OREO: variations* by Tania Camara</a> (from *1 May*).<br><br>**Find other things to see or do online in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>, complemented by the following list:**            
+Our [Summer season](/current/2020-summer) begins with [Domestic](/current/2020-domestic) on *Wed 1 July at 8.30pm* — six artists, six new commentaries on where we find ourselves, in a beta-test platform for new work.<br>Watch live streams of our last two events on YouTube: <a href="http://youtu.be/yrZFSzURaS4" target="_blank">Works Ahead 2020 — *White Sun* by Will Dickie</a> (from *22 May*) and <a href="http://youtube.com/watch?v=m7dDCgaffoI&t=3600s" target="_blank">*OREO: variations* by Tania Camara</a> (from *1 May*).<br><br>**Find other things to see or do online in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>, complemented by the following list:**            
 <a href="http://smallertemples.wordpress.com/2020/04/04/quarantine-performance" target="_blank">Ben Kulvichit's Quarantine performance blog post</a> — an evolving diary of streams + recordings of shows to see online.        
 <a href="http://www.companychameleon.com/whats-on/theatre-thursdays" target="_blank">Company Chameleon's Theatre Thursdays</a> — weekly opportunities to see one of their dance theatre productions.         
 <a href="http://fueltheatre.com/projects/everyday-moments" target="_blank">*Everyday Moments* by Hofesh Schecter / Fuel</a> — podcast designed to be listened to alone in a dark space; an invitation to move without inhibition (until 1 July).        
@@ -43,6 +43,7 @@ Our [Summer season](/current/2020-summer) begins with [Domestic](/current/2020-s
 <hr>          
 #### Artists         
 [hÅb](/hab) remains "open for business" and we continue to advise/support artists + freelancers in our sector where we can, signposting help below.         
+<span style='font-variant: small-caps'>[back to top](/news)</span>        
 ##### GMArtistHub        
 <a href="http://gm-artisthub.co.uk" target="_blank">Greater Manchester Artist Hub</a> is a joint† artist development project to support independent artists + freelance creatives across our city region…<br>• Sign-up for one of their <a href="http://gm-artisthub.co.uk/advisory-sessions" target="_blank">free 30 minute Advisory Sessions</a>: an opportunity for artists + creative freelancers to chat through creative ideas, get advice, and stay connected during isolation (currently available Mondays + Wednesdays until the end of June; soon to be extended into July).<br>*† [hÅb](/hab) + [Word of Warning](/) are GM Artist Hub partners alongside Community Arts Northwest, Contact, HOME, Manchester International Festival, Octagon Theatre Bolton, Oldham Coliseum Theatre, Royal Exchange Theatre, SICK! Festival, Sustained Theatre Up North, The Lowry, Waterside Arts & Creative Industries Trafford, Z-arts.*        
 <span style='font-variant: small-caps'>[back to top](/news)</span>        
