@@ -5,9 +5,10 @@ rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Domestic" # the name of the artist or company
-show: "<br>&nbsp;artists" # the name of the show
+show: "<br>&nbsp;Afreena Islam · Alex Bradley · Cheryl Martin · Emma Geraghty · Levantes Dance Theatre · Nathan Birkinshaw · hosted by Peader Kirk
+" # the name of the show
 artist_size: 1
-show_size: 3
+show_size: 4
 header_image:   
 season: "Domestic 1|7|2020, 8.30pm"
 
@@ -21,29 +22,23 @@ season: "Domestic 1|7|2020, 8.30pm"
         
 *Presented by* Word of Warning        
          
-A work-in-progress performance, adapted for live streaming.<br>As darkness falls…<br>A lo-fi solo symphony of relentless movement and words about being a white son.<br>A sun of power and privilege, a son of divorce and addiction.        
-<iframe src="http://www.youtube.com/embed/yrZFSzURaS4" width="640" height="360" frameborder="0" allowfullscreen></iframe>          
+What can you produce when your kitchen table is the stage and your camera the visible audience?<br>6 artists, 6 new commentaries on where we find ourselves, in a beta-test platform for new work.         
          
+#### Artists        
+
 #### Access            
 Time: Friday 22 May 2020, 9pm.<br>Location: live streamed online.<br>Tickets: book a free space on <a href="http://eventbrite.com/e/105420686110" target="_blank">Eventbrite</a> to receive live stream details.<br>&nbsp;Donations are welcome via <a href="http://www.paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>Duration: approximately 40 minutes.<br>Features: live spoken English + movement.<br>&nbsp;To improve your listening experience we suggest using headphones/external speakers.<br>For specific access information please get in touch by emailing <mailto:info@habmcr.org>         
           
 #### About         
->*No lights. No music. No props. Moving. And speaking. And moving and speaking. And skanking and moving and speaking. Some nodding. Pulsing. Also bopping. And shaking. And shaking shaking. Scrambling. And speaking. And pointing.<br><br>Pointing at the space when others see my face.<br>Pointing at addiction and how that makes us who we are.<br>Pointing at divorce and how that makes us who we are.<br>Pointing at Britain and old actors and privilege and how that makes me who I am.<br>Pointing at the Sun and speaking about white golden things.*        
+In [2013](/archive/2013-domestic), [2015](/archive/2015-domestic) + [2017](/archive/2017-autumnwinter/pritchard) we presented Domestic works in tower blocks in transition… Little did we know then that in 2020 our homes would become our stages and our only auditoria…        
         
-Today, Britain continues to benefit from its colonial past. A nation passionately caught up with being right, being the exception to the rule, and making profit at any cost. Children of divorced parents are 50% more likely to develop mental health problems. Addiction is a primary cause of preventable death; ruining lives, and consuming vast amounts of medical resources.           
-         
-Will is white, British, straight, and privately educated. He grew up in a wealthy suburb inside the M25 and now lives in a Victorian house in Liverpool. Divorced parents; addictions to food, exercise, and attention.<br>Is there a way of coming to terms with this identity, this past, and his privilege?<br>Any hope? Any space for a voice and moving body beyond a maelstrom of inequality?         
-              
-**[Works Ahead](/hab/worksahead)**<br>Our annual sample of new performance — 2020's edition was planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS on 21/22 May in partnership with Contact: Will has adapted his work for live streaming; Ross has postponed sharing his work until it can be shown to a physical audience.         
+For this new series of Domestic "at homes" we've invited six artists to try out new works about what's on their minds — using whatever resources they have at hand.         
         
-#### Artist        
-Liverpool-based artist Will Dickie is a self-produced independent performance maker, working across dance, theatre + live art. Using body, autobiography, and place, he creates soulful performances for site and stage.            
-        
-Will's work has extensively toured the UK + Ireland (including [*The Rave Space*](/archive/2019-springsummer/dickie)), and in 2020 made his international debut in Perth, Australia. Collaborating globally as an actor, dancer, DJ + director across art forms, he also facilitates young + professional artists, and works extensively with artists who are learning disabled.           
+Real lives, real stories, real homes:<br>*A chat on a hill above the city;<br>The highs and lows of romance in lockdown;<br>A DNA test, a dead bird and a misjudged identity;<br>Wash your hands and business as usual;<br>When I Think Of Home;The space between us will not be televised.*           
         
 #### Credits          
-Domestic is produced by [hÅb](/hab).
-        
+Domestic is produced by [hÅb](/hab).         
+         
 #### Websites         
 <a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a><br><a href="http://twitter.com/ARTISTS" target="_blank">@ARTISTS</a>        
        
