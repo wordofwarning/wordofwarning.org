@@ -5,7 +5,7 @@ rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Domestic" # the name of the artist or company
-show: "&nbsp;Performance stripped bare.
+show: "Performance stripped bare.
 " # the name of the show
 artist_size: 1
 show_size: 5
