@@ -5,7 +5,7 @@ rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Domestic" # the name of the artist or company
-show: "<br>&nbsp;Performance stripped bare.
+show: "&nbsp;Performance stripped bare.
 " # the name of the show
 artist_size: 1
 show_size: 5
@@ -27,7 +27,7 @@ What can you make when your kitchen table is the stage and your camera lens is t
 6 artists, 6 commentaries on where we find ourselves, in a beta-test platform for new work. Real lives, real stories, real homes.         
          
 #### Artists        
-Afreena Islam | Alex Bradley | Cheryl Martin | Emma Geraghty | Levantes Dance Theatre | Nathan Birkinshaw | hosted by Peader Kirk&nbsp;&nbsp;&nbsp;<small>(participating artists subject to change)</small>        
+Afreena Islam | Alex Bradley | Cheryl Martin | Emma Geraghty | Levantes Dance Theatre | Nathan Birkinshaw | hosted by Peader Kirk&nbsp;&nbsp;<small>(participating artists subject to change)</small>        
       
 #### Access            
 Time: Wednesday 1 July 2020, 8.30pm.<br>Location: live streamed online (via Zoom webinar).<br>Tickets: *from 24 June* book a free space on <a href="http://warnmcr.eventbrite.com" target="_blank">Eventbrite</a> to receive live stream details.<br>&nbsp;&nbsp;Donations are welcome via <a href="http://www.paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Duration: *approximately* 1 hour.<br>Features: works include live spoken + live sung English, and movement.<br>&nbsp;&nbsp;Please note that we aim to test automated live captioning at this event.<br>&nbsp;&nbsp;To improve your listening experience we suggest using headphones/external speakers.<br>For specific access information please get in touch by emailing <mailto:info@habmcr.org>         
