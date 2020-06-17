@@ -5,7 +5,7 @@ rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Domestic" # the name of the artist or company
-show: "Performance stripped bare.
+show: "<br>Performance stripped bare.
 " # the name of the show
 artist_size: 1
 show_size: 5
@@ -24,7 +24,7 @@ season: "Domestic 1|7|2020, 8.30pm"
          
 What can you make when your kitchen table is the stage and your camera lens is the visible audience?        
           
-6 artists, 6 commentaries on where we find ourselves, in a beta-test platform for new work. Real lives, real stories, real homes.         
+6 artists, 6 commentaries on where we find ourselves: a beta-test platform for new work. Real lives, real stories, real homes.         
          
 #### Artists        
 Afreena Islam | Alex Bradley | Cheryl Martin | Emma Geraghty | Levantes Dance Theatre | Nathan Birkinshaw | hosted by Peader Kirk&nbsp;&nbsp;<small>(participating artists subject to change)</small>        
