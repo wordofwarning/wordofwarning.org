@@ -5,8 +5,7 @@ rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Domestic" # the name of the artist or company
-show: "<br>Performance stripped bare.
-" # the name of the show
+show: "&nbsp;Performance stripped bare." # the name of the show
 artist_size: 1
 show_size: 5
 header_image: "header_domestic.jpg"  
@@ -22,9 +21,7 @@ season: "Domestic 1|7|2020, 8.30pm"
         
 *Presented by* Word of Warning        
          
-What can you make when your kitchen table is the stage and your camera lens is the visible audience?        
-          
-6 artists, 6 commentaries on where we find ourselves: a beta-test platform for new work. Real lives, real stories, real homes.         
+What can you make when your kitchen table is the stage and your camera lens is the visible audience?&nbsp;&nbsp;Real lives, real stories, real homes.<br><br>6 artists, 6 commentaries on where we find ourselves: a beta-test platform for new work.        
          
 #### Artists        
 Afreena Islam | Alex Bradley | Cheryl Martin | Emma Geraghty | Levantes Dance Theatre | Nathan Birkinshaw | hosted by Peader Kirk&nbsp;&nbsp;<small>(participating artists subject to change)</small>        
@@ -38,6 +35,8 @@ In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/201
 For this new series of Domestic "at homes", we invited six artists to try out new works about what's on their minds — using whatever resources they have to hand…         
         
 >*A chat on a hill above the city;<br>The highs and lows of romance in lockdown;<br>A DNA test, a dead bird, and a misjudged identity;<br>Wash your hands and business as usual;<br>When I think of home;<br>The space between us will not be televised.*           
+          
+Real lives, real stories, real homes.          
           
 #### Programme         
 Afreena Islam · *Letterbox Bumboy*       
