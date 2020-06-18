@@ -7,7 +7,7 @@ rootpath: "../../"
 artist: "Domestic" # the name of the artist or company
 show: "<br>&nbsp;&nbsp;A beta-test platform from home." # the name of the show
 artist_size: 1
-show_size: 4
+show_size: 
 header_image: "header_domestic.jpg"  
 season: "Domestic 1|7|2020, 8.30pm"
 
