@@ -5,9 +5,9 @@ rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Domestic" # the name of the artist or company
-show: "<br>&nbsp;A beta-test platform from home." # the name of the show
+show: "<br>&nbsp;&nbsp;A beta-test platform from home." # the name of the show
 artist_size: 1
-show_size: 5
+show_size: 4
 header_image: "header_domestic.jpg"  
 season: "Domestic 1|7|2020, 8.30pm"
 
@@ -43,5 +43,4 @@ Domestic is produced by [hÅb](/hab).
          
 #### Websites         
 <a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a><br><a href="http://twitter.com/afreenaazaria" target="_blank">@afreenaazaria</a> | <a href="http://twitter.com/atasterisk" target="_blank">@atasterisk</a> | <a href="http://twitter.com/cherylalaska" target="_blank">@cherylalaska</a> | <a href="http://twitter.com/patchworkduck" target="_blank">@patchworkduck</a> | <a href="http://twitter.com/LevantesDance" target="_blank">@LevantesDance</a> | <a href="http://twitter.com/NathBirkinshaw" target="_blank">@NathBirkinshaw</a> | <a href="http://twitter.com/peaderkirk" target="_blank">@peaderkirk</a>        
-        
 <small><span style='font-variant: small-caps'>[back to top](/current/2020-domestic)</span></small>
