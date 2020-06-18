@@ -29,7 +29,6 @@ Venue: <a href="http://thelowry.com/visit-lowry/how-to-get-here" target="_blank"
 Tickets: now on sale, <a href="http://thelowry.com/whats-on/wtf-wednesday-harry-clayton-wright-sex-education" target="_blank">book online</a> and Pay What You Decide by cash or card after the show (*suggested donation £5; you can choose to donate £5 when you book*).         
 Box Office Tel: 0161 876 2000 (The Lowry)          
         
-        
 #### Access Information        
 Age Limit: **strictly 18+**<br>Warning: includes themes that some people may find distressing, nudity + explicit sexual content; for specific content warnings please click [here](/warnings).<br>Duration: approximately 1 hour (no interval).<br>Features: live spoken English, with more content to be confirmed.<br>Specific age + access info: please get in touch with us by emailing <mailto:info@habmcr.org> or call 0161 232 6086 during weekday office hours.          
              
