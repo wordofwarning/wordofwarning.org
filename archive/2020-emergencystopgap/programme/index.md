@@ -16,7 +16,7 @@ season: "Emergency StopGap 27|2|2020, Programme Notes"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-[A Thursday Late for the curious](/current/2020-emergencystopgap), *presented by* Word of Warning *with* NIAMOS        
+[A Thursday Late for the curious](/archive/2020-emergencystopgap), *presented by* Word of Warning *with* NIAMOS        
         
 #### Venue + Booking Details         
 Date: Thursday 27 February 2020, 6pm-10pm (*last entry at 9pm*)           
