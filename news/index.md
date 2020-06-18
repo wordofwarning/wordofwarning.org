@@ -4,15 +4,15 @@ layout: home # the season or event-specific template in /_layouts
 rootpath: "../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "News + Information" # the name of the artist or company
-artist_size: 2
-season: "News + Information"
+artist: "News" # the name of the artist or company
+artist_size: 1
+season: "News"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 18 June 2020 at 16:45*        
+##### *Last updated on 18 June 2020 at 16:50*        
 
 <span style='font-variant: small-caps'>jump to [things to watch](/news/#audiences) or [help for artists](/news/#artists) → [gm artist hub](/news/#gmartisthub) · [funds](/news/#funds) · [support](/news/#support)</span>       
 <hr>          
@@ -45,7 +45,7 @@ Our [Summer season](/current/2020-summer) begins with [Domestic](/current/2020-d
 [hÅb](/hab) remains "open for business" and we continue to advise/support artists + freelancers in our sector where we can, signposting help below.         
 <span style='font-variant: small-caps'>[back to top](/news)</span>        
 ##### GMArtistHub        
-<a href="http://gm-artisthub.co.uk" target="_blank">Greater Manchester Artist Hub</a> is a joint† artist development project to support independent artists + freelance creatives across our city region…<br>• Sign-up for one of their <a href="http://gm-artisthub.co.uk/advisory-sessions" target="_blank">free 30 minute Advisory Sessions</a>: an opportunity for artists + creative freelancers to chat through creative ideas, get advice, and stay connected during isolation (currently available Mondays + Wednesdays until the end of June; soon to be extended into July).<br>*† [hÅb](/hab) + [Word of Warning](/) are GM Artist Hub partners alongside Community Arts Northwest, Contact, HOME, Manchester International Festival, Octagon Theatre Bolton, Oldham Coliseum Theatre, Royal Exchange Theatre, SICK! Festival, Sustained Theatre Up North, The Lowry, Waterside Arts & Creative Industries Trafford, Z-arts.*        
+<a href="http://gm-artisthub.co.uk" target="_blank">Greater Manchester Artist Hub</a> is a joint† artist development project to support independent artists + freelance creatives across our city region…<br>• Sign-up for one of their <a href="http://gm-artisthub.co.uk/advisory-sessions" target="_blank">free 30 minute Advisory Sessions</a>: an opportunity for artists + creative freelancers to chat through creative ideas, get advice, and stay connected during isolation (currently available Mondays + Wednesdays until the end of July).<br>*† [hÅb](/hab) + [Word of Warning](/) are GM Artist Hub partners alongside Community Arts Northwest, Contact, HOME, Manchester International Festival, Octagon Theatre Bolton, Oldham Coliseum Theatre, Royal Exchange Theatre, SICK! Festival, Sustained Theatre Up North, The Lowry, Waterside Arts & Creative Industries Trafford, Z-arts.*        
 <span style='font-variant: small-caps'>[back to top](/news)</span>        
 ##### Funds         
 • Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Covid-19 support fund</a> for <a href="http://www.artscouncil.org.uk/funding/financial-support-artists-creative-practitioners-and-freelancers" target="_blank">individuals</a> + <a href="http://www.artscouncil.org.uk/funding/financial-support-organisations-outside-national-portfolio" target="_blank">organisations outside their National Portfolio</a> has closed; if you applied, please read <a href="http://www.artscouncil.org.uk/covid-19/emergency-response-fund-information-submitted-applicants" target="_blank">this information</a>.         
