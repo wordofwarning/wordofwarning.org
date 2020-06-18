@@ -1,7 +1,7 @@
 ---
 # CONFIGURATION
 layout: 2020-spring
-rootpath: "../../"
+rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Will Dickie" # the name of the artist or company
@@ -17,7 +17,7 @@ season: "Works Ahead — Will Dickie 22|5|2020, 9pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to: [access](/current/2020-worksahead/#access) · [about](/current/2020-worksahead/#about) · [artist](/current/2020-worksahead/#artist) · [reviews](/current/2020-worksahead/#reviews) · [credits](/current/2020-worksahead/#credits) · [websites](/current/2020-worksahead/#websites)</span>        
+<span style='font-variant: small-caps'>jump to → [access](/archive/2020-spring/dickie/#access) · [about](/archive/2020-spring/dickie/#about) · [artist](/archive/2020-spring/dickie/#artist) · [reviews](/archive/2020-spring/dickie/#reviews) · [credits](/archive/2020-spring/dickie/#credits) · [websites](/archive/2020-spring/dickie/#websites)</span>        
         
 *Presented by* Word of Warning *+* Contact *as* Works Ahead 2020        
          
@@ -52,4 +52,4 @@ Conceived + performed by Will Dickie, in collaboration with Fabiola Santana<br>T
 #### Websites         
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a> | <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a><br><a href="http://willdickie.co.uk" target="_blank">willdickie.co.uk</a> | <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a>        
        
-<small><span style='font-variant: small-caps'>[back to top](/current/2020-worksahead)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2020-spring/dickie)</span></small>
