@@ -7,8 +7,8 @@ season: "Summer 2020"
 
 ---
 <span style='font-variant: small-caps'>jump to → [about](/current/2020-summer/#about) · [audiences](/current/2020-summer/#audiences) · [who](/current/2020-summer/#who) · [warnings](/current/2020-summer/#warnings)</span>        
-        
-Summer 2020 is an ad-hoc series of online [Domestics](/current/2020-domestic) — brought to you by [hÅb](/hab).<br><br>Discover more to watch alongside information for artists on our [News](/2020/news) page.<br>Keep in touch with us by <a href="{{ site.mailer_signup_url }}" target="_blank">signing-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.<br>Check out what happened last season in our [Spring 2020 archive](/2020/spring), also on <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube</a>.<br>And please <a href="http://bit.ly/warnmcrfeedback" target="_blank">share your thoughts</a> with us if you come to one of our events.         
+         
+In these strangest of times, Summer 2020 is a bit of moveable feast; currently we're thinking of an ad-hoc series of online [Domestics](/current/2020-domestic) — we'll update as it develops. Brought to you by [hÅb](/hab).<br><br>Discover more to watch alongside information for artists on our [News](/2020/news) page.<br>Keep in touch with us by <a href="{{ site.mailer_signup_url }}" target="_blank">signing-up</a> for our <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mail.<br>Check out what happened last season in our [Spring 2020 archive](/2020/spring), also on <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube</a>.<br>And please <a href="http://bit.ly/warnmcrfeedback" target="_blank">share your thoughts</a> with us if you come to one of our events.         
           
 #### About         
 >*If you haven’t attended one of these performance evenings yet, WTF are you doing? Go and see the stimulating new work that’s out there!*<br>&nbsp;— <a href=" http://number9reviews.blogspot.com/2019/11/theatre-review-tom-cassani-i-promise.html" target="_blank">Number 9 Reviews on WTF Wednesdays (November 2019)</a>        
