@@ -5,6 +5,7 @@ layout: archive
 season: "Galleries"
 
 archived:
+    - {folder: "2020-emergencystopgap", name: "Emergency StopGap (2020)", class: "esg2020"}
     - {folder: "2019-athey", name: "Ron Athey (2019)", class: "aw2019"}
     - {folder: "2019-emergency", name: "Emergency 2019", class: "e2019"}
     - {folder: "2019-woah", name: "Works Ahead 2019", class: "w2019"}
