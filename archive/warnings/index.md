@@ -12,16 +12,16 @@ season: "Archived Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 18 June at 16:05*          
+##### *Last updated on 18 June at 17:36*          
 <hr>          
 Below are Age Advisories/Limits + Content Warnings for past [Word of Warning](/) events; this information was for audience members who wanted to know more about the content of work presented in our Performance Programme — particularly highlighting elements that may have distressed, caused upset, or triggered. *Please note — upcoming event warnings can be found [here](/warnings).*         
 <hr>         
 ### 2020           
         
-##### [22 May, 9pm | Works Ahead 2020 — Will Dickie's *White Sun*](/archive/2020-spring/dickie)       
+##### [22 May. Online | Works Ahead 2020 — Will Dickie's *White Sun*](/archive/2020-spring/dickie)       
 Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>&nbsp;(N.B. planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS on 21/22 May in partnership with Contact: Will has adapted his work for live streaming; Ross has postponed sharing his work until it can be shown to a physical audience.)
 
-##### [1 May, 7pm on Facebook, Twitter, YouTube | *OREO: variations* by Tania Camara](/archive/2020-spring/camara)        
+##### [1 May. Facebook, Twitter, YouTube | *OREO: variations* by Tania Camara](/archive/2020-spring/camara)        
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes simulated gagging/retching.<br>&nbsp;(N.B. Rescheduled from 23+24 April in STUN Studio at Z-arts.)        
         
 ##### [1 Apr at The Lowry | *We Are Fucked* by Jo Bannon (CANCELLED)](/archive/2020-spring/bannon)       
