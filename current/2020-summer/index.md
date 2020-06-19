@@ -4,6 +4,8 @@ layout: 2020-summer
 rootpath: "../../"
 is_index: true
 season: "Summer 2020"
+artist: "Summer 2020" # the name of the artist or company
+artist_size: 1
 
 ---
 <span style='font-variant: small-caps'>jump to → [about](/current/2020-summer/#about) · [audiences](/current/2020-summer/#audiences) · [who](/current/2020-summer/#who) · [warnings](/current/2020-summer/#warnings)</span>        
