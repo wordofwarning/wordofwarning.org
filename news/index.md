@@ -12,7 +12,7 @@ season: "News"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 18 June 2020 at 19:15*        
+##### *Last updated on 22 June 2020 at 16:26*        
 
 <span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) or [info for artists](/news/#artists) · [gm artist hub](/news/#gmartisthub) · [funds](/news/#funds) · [support](/news/#support)</span>       
 <hr>          
@@ -39,19 +39,18 @@ Our [Summer season](/current/2020-summer) starts with our first online [Domestic
 <a href="http://theatreinthemill.com/live-portal" target="_blank">Theatre in the Mill's Live Portal</a> — a collation of creative events + opportunities (regular updates).        
 <a href="http://unitedwestream.co.uk" target="_blank">United We Stream GM</a> — live music + performances by Greater Manchester artists most nights (<a href="http://www.greatermanchester-ca.gov.uk/news/united-we-stream-to-broadcast-greater-manchester-culture-to-homes-around-the-world" target="_blank">info</a>).        
 <a href="http://www.unitytheatreliverpool.co.uk/whats-on-line" target="_blank">Unity Theatre's What's On(line) This Week</a> — discover innovative performance by artists that feature in their programme (regularly updates).        
-<span style='font-variant: small-caps'>[back to top](/news)</span>        
+<span style='font-variant: small-caps'>[back to top ^](/news)</span>        
 <hr>          
 #### Artists         
 [hÅb](/hab) remains "open for business" and we continue to advise/support artists + freelancers in our sector where we can, signposting help below.         
-<span style='font-variant: small-caps'>[back to top](/news)</span>        
+<span style='font-variant: small-caps'>[back to top ^](/news)</span>        
 ##### GMArtistHub        
 <a href="http://gm-artisthub.co.uk" target="_blank">Greater Manchester Artist Hub</a> is a joint† artist development project to support independent artists + freelance creatives across our city region…<br>• Sign-up for one of their <a href="http://gm-artisthub.co.uk/advisory-sessions" target="_blank">free 30 minute Advisory Sessions</a>: an opportunity for artists + creative freelancers to chat through creative ideas, get advice, and stay connected during isolation (currently available Mondays + Wednesdays until the end of July).<br>*† [hÅb](/hab) + [Word of Warning](/) are GM Artist Hub partners alongside Community Arts Northwest, Contact, HOME, Manchester International Festival, Octagon Theatre Bolton, Oldham Coliseum Theatre, Royal Exchange Theatre, SICK! Festival, Sustained Theatre Up North, The Lowry, Waterside Arts & Creative Industries Trafford, Z-arts.*        
-<span style='font-variant: small-caps'>[back to top](/news)</span>        
+<span style='font-variant: small-caps'>[back to top ^](/news)</span>        
 ##### Funds         
 • Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Covid-19 support fund</a> for <a href="http://www.artscouncil.org.uk/funding/financial-support-artists-creative-practitioners-and-freelancers" target="_blank">individuals</a> + <a href="http://www.artscouncil.org.uk/funding/financial-support-organisations-outside-national-portfolio" target="_blank">organisations outside their National Portfolio</a> has closed; if you applied, please read <a href="http://www.artscouncil.org.uk/covid-19/emergency-response-fund-information-submitted-applicants" target="_blank">this information</a>.         
-• a-n Freelands Foundation <a href="http://www.a-n.co.uk/about/freelands-foundation-emergency-fund" target="_blank">Emergency Fund</a> for freelance creative practitioners based in England + N.I. who work in all visual arts disciplines (*d/l 18 Jun*).        
-• United We Stream's <a href="http://www.greatermanchester-ca.gov.uk/what-we-do/culture" target="_blank">Solidarity Fund</a> to help Greater Manchester's cultural + night time industries: to apply you must be:<br>&nbsp;&nbsp;*either* a Greater Manchester-based individual or freelancer working in the cultural or night time economy sectors,<br>&nbsp;&nbsp;*or* applying on behalf of a Greater Manchester-based venue, bar, restaurant or cultural organisation.<br>&nbsp;&nbsp;→ Download their <a href="http://greatermanchester-ca.gov.uk/media/2851/uws-funding-application-v2.xlsx" target="_blank">application form (excel spreadsheet)</a> and email to: uwsfunding@greatermanchester-ca.gov.uk (*no deadline*).         
-<span style='font-variant: small-caps'>[back to top](/news)</span>        
+• United We Stream's <a href="http://www.greatermanchester-ca.gov.uk/what-we-do/culture" target="_blank">Solidarity Fund</a> to help Greater Manchester's cultural + night time industries: to apply you must be:<br>&nbsp;&nbsp;*either* a Greater Manchester-based individual or freelancer working in the cultural or night time economy sectors,<br>&nbsp;&nbsp;*or* applying on behalf of a Greater Manchester-based venue, bar, restaurant or cultural organisation.<br>&nbsp;&nbsp;→ Download their <a href="http://greatermanchester-ca.gov.uk/media/2851/uws-funding-application-v2.xlsx" target="_blank">application form (excel spreadsheet)</a> and email to: uwsfunding@greatermanchester-ca.gov.uk (*SCHEME CURRENTLY PAUSED*).         
+<span style='font-variant: small-caps'>[back to top ^](/news)</span>        
 ##### Support        
 • Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Covid-19 support page</a> includes advice/guidance on funds that government + other organisations have put in place, and other support.          
 • Arts Marketing Association (AMA)'s <a href="http://www.a-m-a.co.uk/coronavirus-covid-19-resources" target="_blank">resources page</a> — to support arts, culture + heritage professionals, organisations + freelancers.        
@@ -77,5 +76,5 @@ Our [Summer season](/current/2020-summer) starts with our first online [Domestic
 • UK Theatre + SOLT's <a href="http://theatresupport.info" target="_blank">Theatre Support Information</a> — advice/info about how + where you can access support from leading theatrical charities.        
 • Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">list of resources + information for disabled freelancers + artists</a> also includes an opportunities section).        
 • Unlimited's <a href="http://weareunlimited.org.uk/contingencies-for-coronavirus" target="_blank">contingencies for COVID-19 page</a> — info for supporting disabled artists + freelancers.        
-• Working Class Artist Group's <a href="http://twitter.com/WCArtistGroup" target="_blank">Opportunities Thread at @WCArtistGroup</a> — funds + bursaries accepting applications (started 30 April, some deadlines may have passed).
-<span style='font-variant: small-caps'>[back to top](/news)</span>        
+• Working Class Artist Group's <a href="http://twitter.com/WCArtistGroup" target="_blank">Opportunities Thread at @WCArtistGroup</a> — funds + bursaries accepting applications (started 30 April, some deadlines may have passed).        
+<span style='font-variant: small-caps'>[back to top ^](/news)</span>        
