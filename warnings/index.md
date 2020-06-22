@@ -12,9 +12,9 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-##### *Last updated on 18 June at 16:38*          
+##### *Last updated on 22 June at 16:28*          
 <hr>          
 Below are Age Advisories/Limits + Content Warnings for upcoming [Word of Warning](/) events; this information is for audience members who would like to know more about the content of work presented in our current Performance Programme — particularly highlighting elements that may distress, cause upset, or trigger. If you would like to get in touch please email <mailto:info@habmcr.org>. *Please note — reflects most recent information received from the artists we present; past event warnings are archived [here](/archive/warnings).*         
 <hr>         
 ##### [1 July, 8.30pm. Online | Domestic](/current/2020-domestic)        
-Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, some works may include audience interaction; specific warnings we know of so far:<br>&nbsp;Nathan Birkinshaw — 'There will be nudity, taxidermy and a video of my poo.'    
+Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, some works may include audience interaction; specific warnings we know of so far:<br>&nbsp;Emma Geraghty — 'I might swear.'<br>&nbsp;Nathan Birkinshaw — 'There will be nudity, taxidermy and a video of my poo.'    
