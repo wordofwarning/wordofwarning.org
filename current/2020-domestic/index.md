@@ -27,7 +27,7 @@ What can you make when your kitchen table is the stage + your camera is the audi
 Afreena Islam | Alex Bradley | Cheryl Martin | Emma Geraghty | Levantes Dance Theatre | Nathan Birkinshaw | hosted by Peader Kirk&nbsp;&nbsp;<small>(participating artists subject to change)</small>        
       
 #### Access            
-Time: Wednesday 1 July 2020, 8.30pm.<br>Location: live streamed online.<br>Tickets: book a free space on <a href="http://warnmcr.eventbrite.com" target="_blank">Eventbrite</a> to receive live stream details.<br>&nbsp;&nbsp;Donations are welcome via <a href="http://www.paypal.me/warnmcr" target="_blank">PayPal</a>.<br>&nbsp;&nbsp;Please book 1 space per device being used.<br>Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Duration: *approximately* 1 hour.<br>Features: works include live spoken + live sung English, and movement.<br>&nbsp;&nbsp;Please note that we aim to test automated live captioning at this event.<br>&nbsp;&nbsp;To improve your listening experience we suggest using headphones/external speakers.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
+Time: Wednesday 1 July 2020, 8.30pm.<br>Location: live streamed online.<br>Tickets: book a free space on <a href="http://warnmcr.eventbrite.com" target="_blank">Eventbrite</a> to receive live stream details.<br>&nbsp;&nbsp;Donations are welcome via <a href="http://www.paypal.me/warnmcr" target="_blank">PayPal</a>.<br>&nbsp;&nbsp;Please book 1 space per device being used / household.<br>Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Duration: *approximately* 1 hour.<br>Features: works include live spoken + live sung English, and movement.<br>&nbsp;&nbsp;Please note that we aim to test automated live captioning at this event.<br>&nbsp;&nbsp;To improve your listening experience we suggest using headphones/external speakers.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
           
 #### About         
 In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/2017-autumnwinter/pritchard) we presented Domestic works in tower blocks in transition — little did we know then, that in 2020 our homes would become our only stages and only auditoria…        
@@ -43,15 +43,4 @@ Domestic is produced by [hÅb](/hab).
          
 #### Websites         
 <a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a><br><a href="http://twitter.com/afreenaazaria" target="_blank">@afreenaazaria</a> | <a href="http://twitter.com/atasterisk" target="_blank">@atasterisk</a> | <a href="http://twitter.com/cherylalaska" target="_blank">@cherylalaska</a> | <a href="http://twitter.com/patchworkduck" target="_blank">@patchworkduck</a> | <a href="http://twitter.com/LevantesDance" target="_blank">@LevantesDance</a> | <a href="http://twitter.com/NathBirkinshaw" target="_blank">@NathBirkinshaw</a> | <a href="http://twitter.com/peaderkirk" target="_blank">@peaderkirk</a>        
-<small><span style='font-variant: small-caps'>[back to top](/current/2020-domestic)</span></small>         
-        
-<div id="eventbrite-widget-container-110965300200"></div>
-
-<script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-</script>        
+<small><span style='font-variant: small-caps'>[back to top ^](/current/2020-domestic)</span></small>
