@@ -49,7 +49,7 @@ Cheryl Martin · *When I Think Of Home*<br>&nbsp;&nbsp;"I will sing and talk. As
         
 Alex Bradley · *The space between us will not be televised*<br>&nbsp;&nbsp;An action in support of those fighting for their lives in whatever context.        
         
-Levantes Dance Theatre · *Canapé Domestic*<br>&nbsp;&nbsp;A quirky act about the highs + lows of romance during lockdown…        
+Levantes Dance Theatre · *Lockdown Canapé*<br>&nbsp;&nbsp;A quirky act about the highs + lows of romance during lockdown…        
          
 #### Credits          
 Domestic is produced by [hÅb](/hab).         
