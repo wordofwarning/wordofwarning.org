@@ -43,7 +43,7 @@ Afreena Islam · *Letterbox Bumboy*<br>&nbsp;&nbsp;Wash your hands and business 
         
 Nathan Birkinshaw · *A Kestrel for a Nath*<br>&nbsp;&nbsp;"I think I've made a documentary about the history of who we are, where we fit — you think it's any good?"<br>&nbsp;&nbsp;A history of who we might be, and where we might fit.        
         
-Emma Geraghty · *A view from the temple*<br>&nbsp;&nbsp;"There's a pretty big hill near my house with a good view of the city."<br>&nbsp;&nbsp;"Come and sit on a bench with me, and let's have a chat."        
+Emma Geraghty · *A view from the temple*<br>&nbsp;&nbsp;"There's a pretty big hill near my house with a good view of the city.<br>&nbsp;&nbsp;Come and sit on a bench with me, and let's have a chat."        
         
 Cheryl Martin · *When I Think Of Home*<br>&nbsp;&nbsp;"I will sing and talk. As ever. But I'll probably ask you all a question and try to get you to answer in the chat — if you're brave enough."        
         
