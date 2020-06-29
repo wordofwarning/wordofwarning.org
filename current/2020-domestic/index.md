@@ -41,6 +41,8 @@ Real lives, real stories, real homes.
 Domestic is a <a href="http://manchesterwire.co.uk/guide/free-things-to-do-at-home-and-in-manchester-this-week-ft-xs-malarkey-comedy" target="_blank">Manchester Wire 'free thing to do at home this week'</a>.        
           
 #### Programme         
+Hosted by Peader Kirk          
+        
 Afreena Islam · *A Word From Your Prime Minister*<br>&nbsp;&nbsp;Wash your hands and business as usual.        
         
 Nathan Birkinshaw · *A Kestrel for a Nath*<br>&nbsp;&nbsp;"I think I've made a documentary about the history of who we are, where we fit — you think it's any good?"<br>&nbsp;&nbsp;A history of who we might be, and where we might fit.        
@@ -58,4 +60,5 @@ Domestic is produced by [hÅb](/hab).
          
 #### Websites         
 <a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a><br><a href="http://twitter.com/afreenaazaria" target="_blank">@afreenaazaria</a> | <a href="http://twitter.com/atasterisk" target="_blank">@atasterisk</a> | <a href="http://twitter.com/cherylalaska" target="_blank">@cherylalaska</a> | <a href="http://twitter.com/patchworkduck" target="_blank">@patchworkduck</a> | <a href="http://twitter.com/LevantesDance" target="_blank">@LevantesDance</a> | <a href="http://twitter.com/NathBirkinshaw" target="_blank">@NathBirkinshaw</a> | <a href="http://twitter.com/peaderkirk" target="_blank">@peaderkirk</a>        
-<small><span style='font-variant: small-caps'>[back to top](/current/2020-domestic)</span> · *Last updated on 29 June 2020 at 13:05*</small>
+         
+<small><span style='font-variant: small-caps'>[back to top](/current/2020-domestic)</span> · *Last updated on 29 June 2020 at 13:06*</small>
