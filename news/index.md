@@ -12,7 +12,7 @@ season: "News"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Last updated 1 July, 3.38pm*<br><span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) · [gm artist hub](/news/#gmartisthub) · [artist support](/news/#support)</span>          
+*Last updated 1 July, 5.38pm*<br><span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) · [gm artist hub](/news/#gmartisthub) · [artist support](/news/#support)</span>          
 <hr>          
 #### Audiences         
 Our [Summer season](/current/2020-summer) starts with our first online [Domestic](/current/2020-domestic): 6 artists, 6 commentaries on where we find ourselves, in a beta-test platform for new work on *Wed 1 July, 8.30pm*.<br>Watch live streams of our last two events on YouTube: <a href="http://youtu.be/yrZFSzURaS4" target="_blank">Works Ahead 2020 — *White Sun* by Will Dickie</a> (from *22 May*) and <a href="http://youtube.com/watch?v=m7dDCgaffoI&t=3600s" target="_blank">*OREO: variations* by Tania Camara</a> (from *1 May*).<br><br>**Find other things to see or do online in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>, complemented by the following list:**            
@@ -40,12 +40,13 @@ Our [Summer season](/current/2020-summer) starts with our first online [Domestic
 <hr>          
 #### Artists         
 [hÅb](/hab) remains "open for business" and we continue to advise/support artists + freelancers in our sector where we can, signposting help below.         
-<span style='font-variant: small-caps'>[top ^](/news)</span>        
+        
 ##### GMArtistHub        
 <a href="http://gm-artisthub.co.uk" target="_blank">Greater Manchester Artist Hub</a> is a joint† artist development project to support independent artists + freelance creatives across our city region…<br>• Sign-up for one of their <a href="http://gm-artisthub.co.uk/advisory-sessions" target="_blank">free 30 minute Advisory Sessions</a>: an opportunity for artists + creative freelancers to chat through creative ideas, get advice, and stay connected during isolation (currently available Mondays + Wednesdays until the end of July).<br>*† [hÅb](/hab) + [Word of Warning](/) are GM Artist Hub partners alongside Community Arts Northwest, Contact, HOME, Manchester International Festival, Octagon Theatre Bolton, Oldham Coliseum Theatre, Royal Exchange Theatre, SICK! Festival, Sustained Theatre Up North, The Lowry, Waterside Arts & Creative Industries Trafford, Z-arts.*        
 <span style='font-variant: small-caps'>[top ^](/news)</span>        
 ##### Support         
 • Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Covid-19 support page</a> includes advice/guidance on funds that government + other organisations have put in place, and other support.          
+• Arts Council England's <a href="http://artscouncil.org.uk/projectgrants" target="_blank">National Lottery Project Grants</a> will be back later in July, with updated guidance available by mid-July.          
 • Arts Marketing Association (AMA)'s <a href="http://www.a-m-a.co.uk/coronavirus-covid-19-resources" target="_blank">resources page</a> — to support arts, culture + heritage professionals, organisations + freelancers.        
 • AMA also have a <a href="http://facebook.com/groups/AMACommunitySupport" target="_blank">Coronavirus Support Facebook Group</a> — for all arts, culture + heritage professionals who work to engage audiences.        
 • Arts Professional have a <a href="http://www.artsprofessional.co.uk/magazine/covidculture" target="_blank">CovidCulture microsite</a>  — news + info plus resources, ideas + virtual events that could help you through the days ahead.          
