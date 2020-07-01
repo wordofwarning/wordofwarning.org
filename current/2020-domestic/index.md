@@ -17,7 +17,7 @@ season: "Domestic 1|7|2020, 8.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [credits](/current/2020-domestic/#credits) · [websites](/current/2020-domestic/#websites)</span> · <small>*Updated 1 July, 13:30*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [credits](/current/2020-domestic/#credits) · [websites](/current/2020-domestic/#websites)</span> · <small>(updated 1 July, 2pm)</small>     
         
 *Presented by* Word of Warning        
          
