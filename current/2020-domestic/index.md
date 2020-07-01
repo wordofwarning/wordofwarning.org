@@ -17,7 +17,7 @@ season: "Domestic 1|7|2020, 8.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [credits](/current/2020-domestic/#credits) · [websites](/current/2020-domestic/#websites)</span>        
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [credits](/current/2020-domestic/#credits) · [websites](/current/2020-domestic/#websites)</span> · <small>*Updated 1 July, 13:30*</small>     
         
 *Presented by* Word of Warning        
          
@@ -61,4 +61,4 @@ Domestic is produced by [hÅb](/hab).
 #### Websites         
 <a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a><br><a href="http://twitter.com/afreenaazaria" target="_blank">@afreenaazaria</a> | <a href="http://twitter.com/atasterisk" target="_blank">@atasterisk</a> | <a href="http://twitter.com/cherylalaska" target="_blank">@cherylalaska</a> | <a href="http://twitter.com/patchworkduck" target="_blank">@patchworkduck</a> | <a href="http://twitter.com/LevantesDance" target="_blank">@LevantesDance</a> | <a href="http://twitter.com/NathBirkinshaw" target="_blank">@NathBirkinshaw</a> | <a href="http://twitter.com/peaderkirk" target="_blank">@peaderkirk</a>        
          
-<small>[TOP ^](/current/2020-domestic)<br>*Last updated on 30 June 2020 at 14:29*</small>
+<small>[TOP ^](/current/2020-domestic)</small>
