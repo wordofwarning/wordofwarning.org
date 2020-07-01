@@ -12,7 +12,7 @@ season: "News"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) · [gm artist hub](/news/#gmartisthub) · [support for artists](/news/#support)</span> · *Last updated 1 July, 3.17pm*         
+<span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) · [gm artist hub](/news/#gmartisthub) · [support for artists](/news/#support)</span> · <small>*Last updated 1 July, 3.27pm*</small>         
 <hr>          
 #### Audiences         
 Our [Summer season](/current/2020-summer) starts with our first online [Domestic](/current/2020-domestic): 6 artists, 6 commentaries on where we find ourselves, in a beta-test platform for new work on *Wed 1 July, 8.30pm*.<br>Watch live streams of our last two events on YouTube: <a href="http://youtu.be/yrZFSzURaS4" target="_blank">Works Ahead 2020 — *White Sun* by Will Dickie</a> (from *22 May*) and <a href="http://youtube.com/watch?v=m7dDCgaffoI&t=3600s" target="_blank">*OREO: variations* by Tania Camara</a> (from *1 May*).<br><br>**Find other things to see or do online in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>, complemented by the following list:**            
