@@ -12,7 +12,7 @@ season: "Archived Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Last updated 2 July, 4.22pm*<br><br>Below are Age Advisories/Limits + Content Warnings for past [Word of Warning](/) events (Please note — upcoming event warnings can be found [here](/warnings)).<br>This information is for audience members who want to know more about the content of work previously presented in our Performance Programme — particularly highlighting elements that may distress, cause upset, or trigger.        
+*Last updated 2 July, 4.28pm*<br><br>Below are Age Advisories/Limits and Content Warnings for past [Word of Warning](/) events — upcoming event warnings can be found [here](/warnings).<br>This information is for audience members who want to know more about the content of work previously presented — particularly highlighting elements that may distress, cause upset, or trigger.        
 <hr>         
 #### 2020           
 
