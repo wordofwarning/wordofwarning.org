@@ -17,7 +17,7 @@ season: "Domestic 1|7|2020, 8.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/july/#artists) · [access](/current/2020-domestic/july/#access) · [about](/current/2020-domestic/july/#about) · [programme](/current/2020-domestic/july/#programme) · [credits](/current/2020-domestic/july/#credits) · [websites](/current/2020-domestic/july/#websites)</span> · <small>*Last updated 7 July, 3.07pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/july/#artists) · [access](/current/2020-domestic/july/#access) · [about](/current/2020-domestic/july/#about) · [programme](/current/2020-domestic/july/#programme) · [credits](/current/2020-domestic/july/#credits) · [websites](/current/2020-domestic/july/#websites)</span> · <small>*Last updated 7 July, 3.12pm*</small>     
         
 *Presented by* Word of Warning        
          
@@ -33,7 +33,7 @@ Time: Wednesday 1 July 2020, 8.30pm.<br>Location: live streamed online.<br>Ticke
 #### About         
 In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/2017-autumnwinter/pritchard) we presented Domestic works in tower blocks in transition — little did we know then, that in 2020 our homes would become our only stages and only auditoria…        
         
-For this new series of Domestic "at homes", we invited six artists to try out new works about what's on their minds — using whatever resources they have to hand…         
+For the first in this new series of Domestic "at homes", we invited six artists to try out new works about what's on their minds — using whatever resources they have to hand…         
         
 >*A chat on a hill above the city;<br>The highs and lows of romance in lockdown;<br>A DNA test, a dead bird, and a misjudged identity;<br>Wash your hands and business as usual;<br>When I think of home;<br>The space between us will not be televised.*           
           
