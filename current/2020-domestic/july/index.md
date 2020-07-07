@@ -1,13 +1,13 @@
 ---
 # CONFIGURATION
 layout: 2020-summer
-rootpath: "../../"
+rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Domestic" # the name of the artist or company
+artist: "Domestic (July 2020)" # the name of the artist or company
 show: "&nbsp;A beta-test platform for new work from home." # the name of the show
 artist_size: 1
-show_size: 5
+show_size: 4
 header_image: "header_domestic.jpg"  
 season: "Domestic 1|7|2020, 8.30pm"
 
@@ -17,7 +17,7 @@ season: "Domestic 1|7|2020, 8.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [credits](/current/2020-domestic/#credits) · [websites](/current/2020-domestic/#websites)</span> · <small>*Last updated 1 July, 5.57pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/july/#artists) · [access](/current/2020-domestic/july/#access) · [about](/current/2020-domestic/july/#about) · [programme](/current/2020-domestic/july/#programme) · [credits](/current/2020-domestic/july/#credits) · [websites](/current/2020-domestic/july/#websites)</span> · <small>*Last updated 7 July, 1pm*</small>     
         
 *Presented by* Word of Warning        
          
@@ -61,4 +61,4 @@ Domestic is produced by [hÅb](/hab).
 #### Websites         
 <a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a><br><a href="http://twitter.com/afreenaazaria" target="_blank">@afreenaazaria</a> | <a href="http://twitter.com/atasterisk" target="_blank">@atasterisk</a> | <a href="http://twitter.com/cherylalaska" target="_blank">@cherylalaska</a> | <a href="http://twitter.com/patchworkduck" target="_blank">@patchworkduck</a> | <a href="http://twitter.com/LevantesDance" target="_blank">@LevantesDance</a> | <a href="http://twitter.com/NathBirkinshaw" target="_blank">@NathBirkinshaw</a> | <a href="http://twitter.com/peaderkirk" target="_blank">@peaderkirk</a>        
          
-<small>[TOP ^](/current/2020-domestic)</small>
+<small>[TOP ^](/current/2020-domestic/july)</small>
