@@ -12,10 +12,10 @@ season: "News"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Last updated 7 July, 2.12pm*<br><span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) · [gm artist hub](/news/#gmartisthub) · [artist support](/news/#support)</span>          
+*Last updated 7 July, 2.25pm*<br><span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) · [gm artist hub](/news/#gmartisthub) · [artist support](/news/#support)</span>          
 <hr>          
 #### Audiences         
-We'll announce new events for [Summer](/current/2020-summer) soon — visit our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a> to watch live streams of recent events.<br><br>**Find other things to see or do online in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>, complemented by the following list:**            
+We'll announce new events for [Summer](/current/2020-summer) soon — visit our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a> to watch live streams of recent events, including <a href="http://youtu.be/IUNv7CARKLU" target="_blank">Domestic</a> from *1 July*.<br><br>**Find other things to see or do online in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>, complemented by the following list:**            
 <a href="http://smallertemples.wordpress.com/2020/04/04/quarantine-performance" target="_blank">Ben Kulvichit's Quarantine performance blog post</a> — an evolving diary of streams + recordings of shows to see online.        
 <a href="http://www.companychameleon.com/whats-on/theatre-thursdays" target="_blank">Company Chameleon's Theatre Thursdays</a> — weekly opportunities to see one of their dance theatre productions.         
 <a href="http://exeuntmagazine.com/features/covid-19-resources-uk-theatre-freelancers" target="_blank">Exeunt Magazine's resources</a> — includes "Where to watch theatre for free online" (regular updates).        
@@ -45,6 +45,7 @@ We'll announce new events for [Summer](/current/2020-summer) soon — visit our 
 <a href="http://gm-artisthub.co.uk" target="_blank">GM Artist Hub</a> is a joint artist development project to support independent artists + freelance creatives across our city region… <a href="http://app.squarespacescheduling.com/schedule.php?owner=19370486&appointmentType=13786606" target="_blank">Sign-up</a> for one of their free, 30 minute <a href="http://gm-artisthub.co.uk/advisory-sessions" target="_blank">Advisory Sessions</a>: an opportunity for you to chat through creative ideas, get advice, and stay connected during isolation (available Mondays/Wednesdays).<br>*[hÅb](/hab)/[Word of Warning](/) are GM Artist Hub partners alongside Community Arts Northwest, Contact, HOME, Manchester International Festival, Octagon Theatre Bolton, Oldham Coliseum Theatre, Royal Exchange Theatre, SICK! Festival, Sustained Theatre Up North, The Lowry, Waterside Arts & Creative Industries Trafford, Z-arts.*        
 <span style='font-variant: small-caps'>[top ^](/news)</span>        
 ##### Support         
+• NEW: the <a href="http://theatreartists.fund/who-is-the-theatre-artists-fund-for" target="_blank">Theatre Artists Fund</a> is for theatre professionals who are in need of urgent + critical financial support (opened 6 July).
 • Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Covid-19 support page</a> includes advice/guidance on funds that government + other organisations have put in place, and other support.          
 • Arts Council England's <a href="http://artscouncil.org.uk/projectgrants" target="_blank">National Lottery Project Grants</a> will be back later in July, with updated guidance available by mid-July.          
 • Arts Marketing Association (AMA)'s <a href="http://www.a-m-a.co.uk/coronavirus-covid-19-resources" target="_blank">resources page</a> — to support arts, culture + heritage professionals, organisations + freelancers.        
