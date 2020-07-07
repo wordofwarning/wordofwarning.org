@@ -17,17 +17,17 @@ season: "Domestic"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [credits](/current/2020-domestic/#credits) · [websites](/current/2020-domestic/#websites)</span> · <small>*Last updated 7 July, 3.10pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [credits](/current/2020-domestic/#credits) · [websites](/current/2020-domestic/#websites)</span> · <small>*Last updated 7 July, 3.15pm*</small>     
         
 *Presented by* Word of Warning        
          
 What can you make when your kitchen table is the stage + your camera is the audience?        
          
 #### Artists        
-Participating artists at our next Domestic event to be confirmed.       
+Participating artists at our next Domestic event *to be confirmed*.       
       
 #### Access            
-Time: to be announced.<br>Location: live streamed online.<br>Ticketing: to receive live stream details you'll need to book a free space (*link to be confirmed*).<br>&nbsp;&nbsp;Donations are welcome via <a href="http://www.paypal.me/warnmcr" target="_blank">PayPal</a>.<br>&nbsp;&nbsp;Please book 1 space per device being used.<br>Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Duration: *approximately* 1 hour.<br>&nbsp;&nbsp;Please note that we aim to test automated live captioning at our next event.<br>&nbsp;&nbsp;To improve your listening experience we suggest using headphones/external speakers.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
+Time: August 2020, *exact date + time tbc*.<br>Location: live streamed online.<br>Ticketing: book a free space to receive live stream details (*link tbc*).<br>&nbsp;&nbsp;Donations are welcome via <a href="http://www.paypal.me/warnmcr" target="_blank">PayPal</a>.<br>&nbsp;&nbsp;Please book 1 space per device being used.<br>Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Duration: *approximately* 1 hour.<br>&nbsp;&nbsp;Please note that we aim to test automated live captioning at our next event.<br>&nbsp;&nbsp;To improve your listening experience we suggest using headphones/external speakers.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
           
 #### About         
 In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/2017-autumnwinter/pritchard) we presented Domestic works in tower blocks in transition — little did we know then, that in 2020 our homes would become our only stages and only auditoria…        
