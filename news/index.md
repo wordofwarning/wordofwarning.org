@@ -12,10 +12,10 @@ season: "News"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Last updated 2 July, 4.45pm*<br><span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) · [gm artist hub](/news/#gmartisthub) · [artist support](/news/#support)</span>          
+*Last updated 7 July, 2.12pm*<br><span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) · [gm artist hub](/news/#gmartisthub) · [artist support](/news/#support)</span>          
 <hr>          
 #### Audiences         
-Our [Summer season](/current/2020-summer) started with our 1<sup>st</sup> online [Domestic](/current/2020-domestic) on *1 July* — we'll announce more Summer events, including further Domestics, soon. In the meantime, watch live streams of past events on YouTube: <a href="http://youtu.be/yrZFSzURaS4" target="_blank">Works Ahead 2020 — *White Sun* by Will Dickie</a> (from *22 May*) and <a href="http://youtube.com/watch?v=m7dDCgaffoI&t=3600s" target="_blank">*OREO: variations* by Tania Camara</a> (from *1 May*).<br><br>**Find other things to see or do online in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>, complemented by the following list:**            
+We'll announce new events for [Summer](/current/2020-summer) soon — visit our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a> to watch live streams of recent events.<br><br>**Find other things to see or do online in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>, complemented by the following list:**            
 <a href="http://smallertemples.wordpress.com/2020/04/04/quarantine-performance" target="_blank">Ben Kulvichit's Quarantine performance blog post</a> — an evolving diary of streams + recordings of shows to see online.        
 <a href="http://www.companychameleon.com/whats-on/theatre-thursdays" target="_blank">Company Chameleon's Theatre Thursdays</a> — weekly opportunities to see one of their dance theatre productions.         
 <a href="http://exeuntmagazine.com/features/covid-19-resources-uk-theatre-freelancers" target="_blank">Exeunt Magazine's resources</a> — includes "Where to watch theatre for free online" (regular updates).        
