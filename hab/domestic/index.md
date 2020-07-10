@@ -16,13 +16,12 @@ season: "hÅb's Domestic"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/2017-autumnwinter/pritchard) we presented **Domestic** works in tower blocks in transition — little did we know then, that in 2020 our homes would become our only stages and only auditoria…        
-              
 **Summer 2020's series of Domestic "at homes"** invites artists to try out new works about what's on their minds — using whatever resources they have to hand…           
         
-What can you make when your kitchen table is the stage + your camera is the audience? See our <a href="http://domesticmcr.posthaven.com" target="_blank">open call for artists</a>.         
+What can you make when your kitchen table is the stage + your camera is the audience? If you’d like to get involved, see our <a href="http://domesticmcr.posthaven.com" target="_blank">open call for artists</a>.         
          
 #### *Domestic origins…*         
+In 2013/15/17 we presented Domestic works in tower blocks in transition — little did we know then, that in 2020 our homes would become our only stages and only auditoria…         
          
 **November 2013** saw a series of intimate interactions, homely conversations + domestic dramas played out in a block of flats, still inhabited but in the midst of major refurbishment — [**Domestic**](/archive/2013-domestic) hosted 7 pieces over 10 days by artists including the vacuum cleaner, Jo Bannon and Fergus J Evans, with work ranging from an immersive environment in a garage, to a solo naked shower piece and a woman's story of domestic despair atop a ¼ton of potatoes… See the [image gallery](/galleries/2013-domestic).         
          
@@ -33,4 +32,4 @@ What can you make when your kitchen table is the stage + your camera is the audi
 Domestic (Summer 2020) is presented by [Word of Warning](/) + produced by [hÅb](/hab).        
 <a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a>         
          
- <small>*Last updated 10 July, 6pm*</small>         
+ <small>*Last updated 10 July, 6.05pm*</small>         
