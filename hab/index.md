@@ -18,4 +18,6 @@ From [Emergency](/hab/emergency), an annual micro-festival for new live work pre
                
 hÅb works as a curator of sited performance + intervention presenting [Hazard](/hab/hazard), a biennial micro-festival of intervention that takes performance out of the black box environment and into Manchester city centre (*last in Aug 2018, its seventh year*), as well as [Haphazard](/hab/haphazard), our frequent foray into all ages live art with Z-arts (*last in Apr 2019, its fifth year*). We also co-produce [Turn](/hab/turn) with Contact, a regular micro-festival for new northern dance + dance-makers (*last in Apr 2017, its ninth year*).           
          
-In any given year, hÅb might work with 150 artists, present two-three platforms, a sited festival, and show over 60 pieces of work as [Word of Warning](/).
+In any given year, hÅb might work with 150 artists, present two-three platforms, a sited festival, and show over 60 pieces of work as [Word of Warning](/).       
+        
+<small>*Last updated 10 July, 5.15pm*</small>
