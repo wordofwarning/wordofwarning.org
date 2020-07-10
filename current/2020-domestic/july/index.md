@@ -8,7 +8,7 @@ artist: "Domestic" # the name of the artist or company
 show: "&nbsp;New work from home." # the name of the show
 artist_size: 1
 show_size: 4
-header_image: "Levantes.jpg"  
+header_image: "Levantes.JPG"  
 season: "Domestic 1|7|2020, 8.30pm"
 
 # ABOUT THE SHOW - LAYOUT
@@ -17,7 +17,7 @@ season: "Domestic 1|7|2020, 8.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/july/#artists) · [access](/current/2020-domestic/july/#access) · [about](/current/2020-domestic/july/#about) · [programme](/current/2020-domestic/july/#programme) · [credits](/current/2020-domestic/july/#credits) · [websites](/current/2020-domestic/july/#websites)</span> · <small>*Last updated 10 July, 5.43pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/july/#artists) · [access](/current/2020-domestic/july/#access) · [about](/current/2020-domestic/july/#about) · [programme](/current/2020-domestic/july/#programme) · [credits](/current/2020-domestic/july/#credits) · [websites](/current/2020-domestic/july/#websites)</span> · <small>*Last updated 10 July, 5.52pm*</small>     
         
 *Presented by* Word of Warning        
          
