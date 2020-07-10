@@ -4,11 +4,11 @@ layout: 2020-summer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Domestic (July 2020)" # the name of the artist or company
-show: "&nbsp;A beta-test platform for new work from home." # the name of the show
-artist_size: 2
-show_size: 5
-header_image: "header_domestic.jpg"  
+artist: "Domestic" # the name of the artist or company
+show: "&nbsp;New work from home." # the name of the show
+artist_size: 1
+show_size: 4
+header_image: "header_levantes.jpg"  
 season: "Domestic 1|7|2020, 8.30pm"
 
 # ABOUT THE SHOW - LAYOUT
@@ -57,7 +57,7 @@ Levantes Dance Theatre · *Lockdown Canapé*<br>&nbsp;&nbsp;A quirky act about t
 Hosted by Peader Kirk · includes *Dawn Chorus*        
                  
 #### Credits          
-Domestic (July 2020) is produced by [hÅb](/hab).         
+Domestic (July 2020) is produced by [hÅb](/hab).<br>Image: Levantes Dance Theatre by Roswitha Chesher.         
          
 #### Websites         
 <a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a><br><a href="http://twitter.com/afreenaazaria" target="_blank">@afreenaazaria</a> | <a href="http://twitter.com/atasterisk" target="_blank">@atasterisk</a> | <a href="http://twitter.com/cherylalaska" target="_blank">@cherylalaska</a> | <a href="http://twitter.com/patchworkduck" target="_blank">@patchworkduck</a> | <a href="http://twitter.com/LevantesDance" target="_blank">@LevantesDance</a> | <a href="http://twitter.com/NathBirkinshaw" target="_blank">@NathBirkinshaw</a> | <a href="http://twitter.com/peaderkirk" target="_blank">@peaderkirk</a>        
