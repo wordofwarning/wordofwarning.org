@@ -18,7 +18,9 @@ season: "hÅb's Domestic"
 ---
 In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/2017-autumnwinter/pritchard) we presented **Domestic** works in tower blocks in transition — little did we know then, that in 2020 our homes would become our only stages and only auditoria…        
               
-**Summer 2020's new series of Domestic "at homes"** invites artists to try out new works about what's on their minds — using whatever resources they have to hand… What can you make when your kitchen table is the stage + your camera is the audience? To apply to this beta-test platform for new work from home, see our <a href="http://domesticmcr.posthaven.com" target="_blank">open call for artists</a>.         
+**Summer 2020's series of Domestic "at homes"** invites artists to try out new works about what's on their minds — using whatever resources they have to hand…           
+        
+What can you make when your kitchen table is the stage + your camera is the audience? See our <a href="http://domesticmcr.posthaven.com" target="_blank">open call for artists</a>.         
          
 #### *Domestic origins…*         
          
@@ -29,4 +31,6 @@ In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/201
 **In November 2017, [*Rent Party: Domestic Edition*](/archive/2017-autumnwinter/pritchard)** popped up next door in Salford's Adelphi Court during its refurb… Part show, part party, Darren Pritchard Dance's joyously defiant stand against growing up poor is a 21st century, austerity Britain, black, gay, immersive musical — for those just about managing. See the [image gallery](/galleries/2017-domestic). Thanks to our generous audiences we donated £574.65 & four crates of food to Salford Foodbank.        
         
 Domestic (Summer 2020) is presented by [Word of Warning](/) + produced by [hÅb](/hab).        
-<a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a>
+<a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a>         
+         
+ <small>*Last updated 10 July, 6pm*</small>         
