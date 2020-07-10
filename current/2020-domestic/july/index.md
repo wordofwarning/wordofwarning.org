@@ -8,7 +8,7 @@ artist: "Domestic" # the name of the artist or company
 show: "&nbsp;New work from home." # the name of the show
 artist_size: 1
 show_size: 4
-header_image: "header_levantes.jpg"  
+header_image: "header_Levantes.JPG"  
 season: "Domestic 1|7|2020, 8.30pm"
 
 # ABOUT THE SHOW - LAYOUT
@@ -17,11 +17,11 @@ season: "Domestic 1|7|2020, 8.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/july/#artists) · [access](/current/2020-domestic/july/#access) · [about](/current/2020-domestic/july/#about) · [programme](/current/2020-domestic/july/#programme) · [credits](/current/2020-domestic/july/#credits) · [websites](/current/2020-domestic/july/#websites)</span> · <small>*Last updated 7 July, 3.12pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/july/#artists) · [access](/current/2020-domestic/july/#access) · [about](/current/2020-domestic/july/#about) · [programme](/current/2020-domestic/july/#programme) · [credits](/current/2020-domestic/july/#credits) · [websites](/current/2020-domestic/july/#websites)</span> · <small>*Last updated 10 July, 5.38pm*</small>     
         
 *Presented by* Word of Warning        
          
-What can you make when your kitchen table is the stage + your camera is the audience?<br>6 artists, 6 commentaries on where we find ourselves: a beta-test platform for new work.        
+What can you make when your kitchen table is the stage + your camera is the audience?<br>7 artists, 7 commentaries on where we find ourselves: a beta-test platform for new work.        
 <iframe src="http://youtube.com/embed/IUNv7CARKLU" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 #### Artists        
@@ -57,7 +57,7 @@ Levantes Dance Theatre · *Lockdown Canapé*<br>&nbsp;&nbsp;A quirky act about t
 Hosted by Peader Kirk · includes *Dawn Chorus*        
                  
 #### Credits          
-Domestic (July 2020) is produced by [hÅb](/hab).<br>Image: Levantes Dance Theatre by Roswitha Chesher.         
+Domestic (July 2020) produced by [hÅb](/hab).<br>Image: Levantes Dance Theatre by Roswitha Chesher.         
          
 #### Websites         
 <a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a><br><a href="http://twitter.com/afreenaazaria" target="_blank">@afreenaazaria</a> | <a href="http://twitter.com/atasterisk" target="_blank">@atasterisk</a> | <a href="http://twitter.com/cherylalaska" target="_blank">@cherylalaska</a> | <a href="http://twitter.com/patchworkduck" target="_blank">@patchworkduck</a> | <a href="http://twitter.com/LevantesDance" target="_blank">@LevantesDance</a> | <a href="http://twitter.com/NathBirkinshaw" target="_blank">@NathBirkinshaw</a> | <a href="http://twitter.com/peaderkirk" target="_blank">@peaderkirk</a>        
