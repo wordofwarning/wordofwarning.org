@@ -7,9 +7,9 @@ artist: "Opportunities"
 season: "hÅb — Opportunities"
 
 ---
-Please see our [News page](/news/#artists) for latest advice + support information for artists + freelancers. <small>*Last updated 10 July, 4.45pm*</small>                 
+<small>*Last updated 10 July, 4.52pm*</small><br>Please see our [News page](/news/#artists) for latest advice + support information for artists + freelancers.         
          
-Essentially industry-facing, [hÅb](/hab) works with [artists, colleagues, venues + others](/hab/partners) to create the best possible opportunities for new work to flourish and is a core partner in <a href="http://www.divergencymcr.org" target="_blank">Divergency</a> — encouraging diversity in live art. We are supported using public funding by <a href="http://artscouncil.org.uk/our-investment/national-portfolio-2018-22" target="_blank">Arts Council England</a>, a <a href="http://gm-artisthub.co.uk" target="_blank">Greater Manchester Artist Hub</a> partner, and a <a href="http://liveartuk.org" target="_blank">Live Art UK</a> member — a national network supporting + developing the UK's Live Art infrastructure for the benefit of artists, presenters + audiences.         
+Essentially industry-facing, [hÅb](/hab) works with [artists, colleagues, venues + others](/hab/partners) to create the best possible opportunities for new work to flourish and is a core partner in <a href="http://www.divergencymcr.org" target="_blank">Divergency</a> — encouraging diversity in live art.<br>We're supported using public funding by <a href="http://artscouncil.org.uk/our-investment/national-portfolio-2018-22" target="_blank">Arts Council England</a>; a <a href="http://gm-artisthub.co.uk" target="_blank">GM Artist Hub</a> partner — a joint artist development project from thirteen arts organisations across Greater Manchester; and a <a href="http://liveartuk.org" target="_blank">Live Art UK</a> member — a national network supporting + developing the UK's Live Art infrastructure for the benefit of artists, presenters + audiences.         
           
 Upcoming artist opportunities from hÅb are published below when we have them; you may also find it useful to join these mailing lists:         
 • [emergencymcr googlegroup: our own artist mailing list](/hab/emergencymcr)         
@@ -20,4 +20,4 @@ Upcoming artist opportunities from hÅb are published below when we have them; y
          
          
 #### Upcoming Opportunities        
-<a href="http://domesticmcr.posthaven.com" target="_blank">Apply for Domestic</a>, a beta-test platform for new work from home.
+See our <a href="http://domesticmcr.posthaven.com" target="_blank">open call for Domestic</a>: our beta-test platform for new work from home.
