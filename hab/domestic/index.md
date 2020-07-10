@@ -18,7 +18,9 @@ season: "hÅb's Domestic"
 ---
 In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/2017-autumnwinter/pritchard) we presented **Domestic** works in tower blocks in transition — little did we know then, that in 2020 our homes would become our only stages and only auditoria…        
               
-Summer 2020's new series of Domestic "at homes" invites artists to try out new works about what's on their minds — using whatever resources they have to hand…      
+**Summer 2020's new series of Domestic "at homes"** invites artists to try out new works about what's on their minds — using whatever resources they have to hand… What can you make when your kitchen table is the stage + your camera is the audience? To apply to this beta-test platform for new work from home, see our <a href="http://domesticmcr.posthaven.com" target="_blank">open call for artists</a>.         
+         
+#### *Domestic origins…*         
          
 **November 2013** saw a series of intimate interactions, homely conversations + domestic dramas played out in a block of flats, still inhabited but in the midst of major refurbishment — [**Domestic**](/archive/2013-domestic) hosted 7 pieces over 10 days by artists including the vacuum cleaner, Jo Bannon and Fergus J Evans, with work ranging from an immersive environment in a garage, to a solo naked shower piece and a woman's story of domestic despair atop a ¼ton of potatoes… See the [image gallery](/galleries/2013-domestic).         
          
