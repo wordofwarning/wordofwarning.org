@@ -3,11 +3,11 @@
 layout: hab
 rootpath: "../../../"
 is_index: true
-artist: "News + Opportunities"
-season: "hÅb — News + Opportunities"
+artist: "Opportunities"
+season: "hÅb — Opportunities"
 
 ---
-[hÅb](/hab) remains "open for business" and we will continue to advise + support artists + freelancers in our sector where we can… Please see our [Coronavirus Information page](/coronavirus) for further guidance + information.         
+[hÅb](/hab) remains "open for business" and we continue to advise/support artists + freelancers in our sector where we can — please see our [News page](/news/#artists) for further information. <small>*Last updated 10 July, 4.30pm*</small>                 
          
 Essentially industry-facing, [hÅb](/hab) works with [artists, colleagues, venues + others](/hab/partners) to create the best possible opportunities for new work to flourish, and is a  member of <a href="http://www.liveartuk.org" target="_blank">Live Art UK</a> — a national network supporting + developing the UK's Live Art infrastructure for the benefit of artists, presenters + audiences.         
           
@@ -18,9 +18,5 @@ Upcoming artist opportunities from hÅb are published below when we have them; y
 • <a href="http://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=LIVEART" target="_blank">LIVEART from JISCmail</a>         
 • <a href="http://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=SCUDD" target="_blank">SCUDD (Standing Conference of University Drama Departments) from JISCmail</a>
          
-<hr>        
-         
-### News + Upcoming Opportunities        
-In these unprecedented times, our regularly updating [Coronavirus News + Information page](/coronavirus) includes help for artists + our community: advice / guidance / support / opportunities.         
-         
-Please note that the deadline has now passed for <a href="http://www.thisisliveart.co.uk/opportunities/diy-2020-call-for-proposals" target="_blank">DIY 2020</a>.
+#### Upcoming Opportunities        
+Domestic — we have an <a href="http://domesticmcr.posthaven.com" target="_blank">open call for artists to apply</a> to this beta-test platform for new work from home.
