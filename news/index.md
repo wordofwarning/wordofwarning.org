@@ -12,10 +12,10 @@ season: "News"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Last updated 13 July, 5.13pm*<br><span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) · [gm artist hub](/news/#gmartisthub) · [artist support](/news/#support)</span>          
+*Last updated 13 July, 5.18pm*<br><span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) · [gm artist hub](/news/#gmartisthub) · [artist support](/news/#support)</span>          
 <hr>          
 #### Audiences         
-Our [Summer season](/current/2020-summer) continues on 12 August with a second online [Domestic](/current/2020-domestic) — 6 new commentaries on where we find ourselves, in a beta-test platform for new work.<br>Visit our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a> to watch live streams of our recent events, including <a href="http://youtu.be/IUNv7CARKLU" target="_blank">Domestic</a> (from 1 July).<br>**Find other things to see or do online in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>, complemented by the following list of websites:**            
+Our [Summer season](/current/2020-summer) continues on 12 August with a second online [Domestic](/current/2020-domestic) — 6 new commentaries on where we find ourselves, in a beta-test platform for new work.<br>Visit our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a> to watch live streams of our recent events, including our pilot <a href="http://youtu.be/IUNv7CARKLU" target="_blank">Domestic</a> from 1 July.<br>**Find other things to see or do online in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>, complemented by the following list of websites:**            
 <a href="http://smallertemples.wordpress.com/2020/04/04/quarantine-performance" target="_blank">Ben Kulvichit's Quarantine performance blog post</a> — an evolving diary of streams + recordings of shows to see online.        
 <a href="http://www.companychameleon.com/whats-on/theatre-thursdays" target="_blank">Company Chameleon's Theatre Thursdays</a> — weekly opportunities to see one of their dance theatre productions.         
 <a href="http://exeuntmagazine.com/features/covid-19-resources-uk-theatre-freelancers" target="_blank">Exeunt Magazine's resources</a> — includes "Where to watch theatre for free online" (regular updates).        
@@ -39,7 +39,7 @@ Our [Summer season](/current/2020-summer) continues on 12 August with a second o
 <span style='font-variant: small-caps'>[top ^](/news)</span>        
 <hr>          
 #### Artists         
-[hÅb](/hab) remains "open for business" and we continue to advise/support artists + freelancers in our sector where we can, signposting help below.<br>If you'd like to get involved in [Domestic](/current/2020-domestic), see our <a href="http://domesticmcr.posthaven.com" target="_blank">open call for proposals</a>.          
+[hÅb](/hab) remains "open for business" and we continue to advise/support artists + freelancers in our sector where we can, signposting help below.<br>If you'd like to get involved in [Domestic](/current/2020-domestic), please see our <a href="http://domesticmcr.posthaven.com" target="_blank">open call for proposals</a>.          
         
 ##### GMArtistHub        
 <a href="http://gm-artisthub.co.uk" target="_blank">GM Artist Hub</a> is a joint artist development project to support independent artists + freelance creatives across our city region… <a href="http://app.squarespacescheduling.com/schedule.php?owner=19370486&appointmentType=13786606" target="_blank">Sign-up</a> for one of their free, 30 minute advisory sessions: an opportunity for you to chat through creative ideas, get advice, and stay connected during isolation (available Mondays/Wednesdays).<br>&nbsp;*[hÅb](/hab)/[Word of Warning](/) are GM Artist Hub partners alongside Community Arts Northwest, Contact, HOME, Manchester International Festival, Octagon Theatre Bolton, Oldham Coliseum Theatre, Royal Exchange Theatre, SICK! Festival, Sustained Theatre Up North, The Lowry, Waterside Arts & Creative Industries Trafford, Z-arts.*        
