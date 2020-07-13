@@ -12,10 +12,10 @@ season: "News"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Last updated 13 July, 1.22pm*<br><span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) · [gm artist hub](/news/#gmartisthub) · [artist support](/news/#support)</span>          
+*Last updated 13 July, 5.13pm*<br><span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) · [gm artist hub](/news/#gmartisthub) · [artist support](/news/#support)</span>          
 <hr>          
 #### Audiences         
-Our [Summer season](/current/2020-summer) continues with [Domestic](/current/2020-domestic) on *Wed 12 Aug* — 6 new commentaries on where we find ourselves, in a beta-test platform for new work.<br>Visit our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a> to watch live streams of recent events, including <a href="http://youtu.be/IUNv7CARKLU" target="_blank">Domestic</a> (from 1 July).<br><br>**Find other things to see or do online in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>, complemented by the following list of websites:**            
+Our [Summer season](/current/2020-summer) continues on 12 August with a second online [Domestic](/current/2020-domestic) — 6 new commentaries on where we find ourselves, in a beta-test platform for new work.<br>Visit our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a> to watch live streams of our recent events, including <a href="http://youtu.be/IUNv7CARKLU" target="_blank">Domestic</a> (from 1 July).<br>**Find other things to see or do online in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>, complemented by the following list of websites:**            
 <a href="http://smallertemples.wordpress.com/2020/04/04/quarantine-performance" target="_blank">Ben Kulvichit's Quarantine performance blog post</a> — an evolving diary of streams + recordings of shows to see online.        
 <a href="http://www.companychameleon.com/whats-on/theatre-thursdays" target="_blank">Company Chameleon's Theatre Thursdays</a> — weekly opportunities to see one of their dance theatre productions.         
 <a href="http://exeuntmagazine.com/features/covid-19-resources-uk-theatre-freelancers" target="_blank">Exeunt Magazine's resources</a> — includes "Where to watch theatre for free online" (regular updates).        
