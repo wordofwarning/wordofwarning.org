@@ -12,7 +12,7 @@ season: "News"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Last updated 16 July, 9.50am*<br><span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) ~ [artists](/news/#artists) · [gm artist hub](/news/#gmartisthub) · [support](/news/#support)</span>        
+*Last updated 16 July, 1.55pm*<br><span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) ~ [artists](/news/#artists) · [gm artist hub](/news/#gmartisthub) · [support](/news/#support)</span>        
 <hr>          
 #### Audiences         
 Our [Summer season](/current/2020-summer) continues on Wed 12 Aug with our [second online Domestic](/current/2020-domestic) — an informal platform for artists to try out new live work from their homes.<br>Visit our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a> to watch live streams of recent events, including our <a href="http://youtu.be/IUNv7CARKLU" target="_blank">pilot Domestic from 1 July</a>.<br>**Find other things to see or do online in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>, complemented by the following list of websites:**            
@@ -47,7 +47,8 @@ Our [Summer season](/current/2020-summer) continues on Wed 12 Aug with our [seco
 &nbsp;<span style='font-variant: small-caps'>[back to top](/news)</span>        
 ##### Support         
 • Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Covid-19 support page</a> includes advice/guidance on funds that government + other organisations have put in place, and other support.          
-• Arts Council England's <a href="http://artscouncil.org.uk/projectgrants" target="_blank">National Lottery Project Grants</a> will be available again from 22 July, with updated guidance available soon.          
+• Arts Council England's <a href="http://artscouncil.org.uk/projectgrants" target="_blank">National Lottery Project Grants</a> will be available again from 22 July, with updated guidance available from 17 July.        
+• NEW: <a href="http://www.freelancersmaketheatrework.com/financial-support" target="_blank">Freelancers Make Theatre Work</a> has comprehensive guides to financial support, advice + resources.        
 • Arts Marketing Association (AMA)'s <a href="http://www.a-m-a.co.uk/coronavirus-covid-19-resources" target="_blank">resources page</a> — to support arts, culture + heritage professionals, organisations + freelancers.        
 • AMA also have a <a href="http://facebook.com/groups/AMACommunitySupport" target="_blank">Coronavirus Support Facebook Group</a> — for all arts, culture + heritage professionals who work to engage audiences.        
 • Arts Professional have a <a href="http://www.artsprofessional.co.uk/magazine/covidculture" target="_blank">CovidCulture microsite</a>  — news + info plus resources, ideas + virtual events that could help you through the days ahead.          
