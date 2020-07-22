@@ -12,7 +12,7 @@ season: "News"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Last updated 22 July, 4pm*<br><span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) ~ [artists](/news/#artists) · [gm artist hub](/news/#gmartisthub) · [support](/news/#support)</span>        
+*Last updated 22 July, 4.25pm*<br><span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) ~ [artists](/news/#artists) · [gm artist hub](/news/#gmartisthub) · [support](/news/#support)</span>        
 <hr>          
 #### Audiences         
 Our [Summer season](/current/2020-summer) continues on Wed 12 Aug with our [second online Domestic](/current/2020-domestic) — an informal platform for artists to try out new live work from their homes.<br>Visit our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a> to watch live streams of recent events, including our <a href="http://youtu.be/IUNv7CARKLU" target="_blank">pilot Domestic from 1 July</a>.<br>**Find other things to see or do online in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>, complemented by the following list of websites:**            
