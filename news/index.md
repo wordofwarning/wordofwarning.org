@@ -12,7 +12,7 @@ season: "News"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Last updated 22 July, 3.05pm*<br><span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) ~ [artists](/news/#artists) · [gm artist hub](/news/#gmartisthub) · [support](/news/#support)</span>        
+*Last updated 22 July, 3.15pm*<br><span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) ~ [artists](/news/#artists) · [gm artist hub](/news/#gmartisthub) · [support](/news/#support)</span>        
 <hr>          
 #### Audiences         
 Our [Summer season](/current/2020-summer) continues on Wed 12 Aug with our [second online Domestic](/current/2020-domestic) — an informal platform for artists to try out new live work from their homes.<br>Visit our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a> to watch live streams of recent events, including our <a href="http://youtu.be/IUNv7CARKLU" target="_blank">pilot Domestic from 1 July</a>.<br>**Find other things to see or do online in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>, complemented by the following list of websites:**            
@@ -36,15 +36,14 @@ Our [Summer season](/current/2020-summer) continues on Wed 12 Aug with our [seco
 <a href="http://theatreinthemill.com/live-portal" target="_blank">Theatre in the Mill's Live Portal</a> — a collation of creative events + opportunities (regular updates).        
 <a href="http://unitedwestream.co.uk" target="_blank">United We Stream GM</a> — live music + performances by Greater Manchester artists most nights (<a href="http://www.greatermanchester-ca.gov.uk/news/united-we-stream-to-broadcast-greater-manchester-culture-to-homes-around-the-world" target="_blank">info</a>).        
 <a href="http://www.unitytheatreliverpool.co.uk/whats-on-line" target="_blank">Unity Theatre's What's On(line) This Week</a> — discover innovative performance by artists that feature in their programme (regularly updates).        
-&nbsp;<span style='font-variant: small-caps'>[back to top](/news)</span>        
+<span style='font-variant: small-caps'>[back to top](/news)</span>        
 <hr>          
 #### Artists         
 [hÅb](/hab) remains "open for business" and we continue to advise/support artists + freelancers in our sector where we can, signposting help below.<br>If you'd like to get involved in [Domestic](/current/2020-domestic), please see our <a href="http://domesticmcr.posthaven.com" target="_blank">open call for proposals</a>.          
-&nbsp;<span style='font-variant: small-caps'>[back to top](/news)</span>        
-        
+<span style='font-variant: small-caps'>[back to top](/news)</span>        
 ##### GMArtistHub        
 <a href="http://gm-artisthub.co.uk" target="_blank">GM Artist Hub</a> is a joint artist development project to support independent artists + freelance creatives across our city region, currently offering…<br>&nbsp;→ <a href="http://gm-artisthub.co.uk/advisory-sessions" target="_blank">Advisory Sessions</a>: chat through creative ideas, get advice & stay connected in a free 30 minute Zoom call, available Mondays/Wednesdays (<a href="http://app.squarespacescheduling.com/schedule.php?owner=19370486&appointmentType=13786606" target="_blank">sign-up</a>).<br>&nbsp;→ <a href="http://gm-artisthub.co.uk/group-sessions" target="_blank">Group Sessions</a>: on Fri 31 July, 11am-1pm, [hÅb](/hab) lead a refresher on ACE National Lottery Project Grants in collaboration with Relationship Manager Nikki Harrison-Davis (Combined Arts).<br>*[hÅb](/hab)/[Word of Warning](/) are GM Artist Hub partners alongside Community Arts Northwest, Contact, HOME, Manchester International Festival, Octagon Theatre Bolton, Oldham Coliseum Theatre, Royal Exchange Theatre, SICK! Festival, Sustained Theatre Up North, The Lowry, Waterside Arts & Creative Industries Trafford, Z-arts.*        
-&nbsp;<span style='font-variant: small-caps'>[back to top](/news)</span>        
+<span style='font-variant: small-caps'>[back to top](/news)</span>        
 ##### Support         
 • Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Covid-19 support page</a> includes advice/guidance on funds that government + other organisations have put in place, and other support.          
 • Arts Council England's <a href="http://artscouncil.org.uk/projectgrants" target="_blank">National Lottery Project Grants</a> will be available again from 22 July, with updated guidance available from 17 July.        
@@ -75,4 +74,4 @@ Our [Summer season](/current/2020-summer) continues on Wed 12 Aug with our [seco
 • Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">list of resources + information for disabled freelancers + artists</a> also includes an opportunities section).        
 • Unlimited's <a href="http://weareunlimited.org.uk/contingencies-for-coronavirus" target="_blank">contingencies for COVID-19 page</a> — info for supporting disabled artists + freelancers.        
 • Working Class Artist Group's <a href="http://twitter.com/WCArtistGroup" target="_blank">Opportunities Thread at @WCArtistGroup</a> — funds + bursaries accepting applications (started 30 April, some deadlines may have passed).        
-&nbsp;<span style='font-variant: small-caps'>[back to top](/news)</span>
+<span style='font-variant: small-caps'>[back to top](/news)</span>
