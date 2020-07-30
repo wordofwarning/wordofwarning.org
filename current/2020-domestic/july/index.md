@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Domestic" # the name of the artist or company
-show: "New live work from home." # the name of the show
+show: "New work, live from home." # the name of the show
 artist_size: 1
 show_size: 5
 header_image: "LDT.jpg"  
@@ -17,11 +17,11 @@ season: "Domestic 1|7|2020, 8.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/july/#artists) · [access](/current/2020-domestic/july/#access) · [about](/current/2020-domestic/july/#about) · [programme](/current/2020-domestic/july/#programme) · [websites](/current/2020-domestic/july/#websites)</span> · <small>*Last updated 16 July, 10.22am*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/july/#artists) · [access](/current/2020-domestic/july/#access) · [about](/current/2020-domestic/july/#about) · [programme](/current/2020-domestic/july/#programme) · [websites](/current/2020-domestic/july/#websites)</span> · <small>*Last updated 30 July, 2pm*</small>     
         
 *Presented by* Word of Warning        
          
-What can you make when your kitchen table is the stage + your camera is the audience?<br>6 artists, 6 commentaries on where we find ourselves: a beta-test platform for new work.        
+What can you make when your kitchen table is the stage + your camera is the audience?<br>6 artists, 6 commentaries on where we find ourselves: a beta-test platform for new work.<br>Re-watch the live stream on YouTube ↓        
 <iframe src="http://youtube.com/embed/IUNv7CARKLU" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 #### Artists        
