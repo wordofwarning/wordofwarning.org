@@ -17,17 +17,17 @@ season: "Domestic 12|8|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [websites](/current/2020-domestic/#websites)</span> · <small>*Last updated 16 July, 11.22am*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [websites](/current/2020-domestic/#websites)</span> · <small>*Last updated 30 July, 10.10am*</small>     
         
 *Presented by* Word of Warning        
          
 What can you make when your kitchen table is the stage + your camera is the audience?<br>An informal online platform for artists to try out new live work from their homes…          
          
 #### Artists        
-A beta-test platform for live artists to present online, see our <a href="http://domesticmcr.posthaven.com" target="_blank">open call for proposals</a> — participating artists announced early August. To get a feel for it, see [July](/current/2020-domestic/july)'s <a href="http://youtu.be/IUNv7CARKLU" target="_blank">live stream</a>.       
+A beta-test platform for artists to present work live online — participating artists announced on 4 August. To get a feel for it, see [July](/current/2020-domestic/july)'s <a href="http://youtu.be/IUNv7CARKLU" target="_blank">live stream</a>. To be part of a future Domestic, see our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for proposals</a>.      
       
 #### Access            
-Time: Wednesday 12 August 2020, 8pm.<br>Duration: *approximately* 1 hour.<br>Location: live streamed online (platform to be confirmed).<br>Ticketing: *from Friday 31 July*, book a free space to receive live stream details.<br>&nbsp;&nbsp;Donations are welcome via <a href="http://www.paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Please note:<br>&nbsp;&nbsp;we aim to test automated live captioning at this event;<br>&nbsp;&nbsp;to improve your listening experience we suggest using headphones/external speakers;<br>&nbsp;&nbsp;for specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
+Time: Wednesday 12 August 2020, 8pm.<br>Duration: *approximately* 1 hour.<br>Location: live streamed online via Zoom Webinar.<br>Ticketing: *from Friday 31 July*, book a free space to receive live stream details.<br>Donations are welcome via <a href="http://www.paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Please note:<br>&nbsp;&nbsp;we aim to test automated live captioning at this event;<br>&nbsp;&nbsp;to improve your listening experience we suggest using headphones/external speakers;<br>&nbsp;&nbsp;for specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
           
 #### About         
 In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/2017-autumnwinter/pritchard) we presented Domestic works in tower blocks in transition — little did we know then, that in 2020 our homes would become our only stages and only auditoria…        
@@ -38,5 +38,4 @@ Domestic (August 2020) produced by [hÅb](/hab).
          
 #### Websites         
 <a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a>        
-         
-&nbsp;<small>[BACK TO TOP](/current/2020-domestic)</small>
+<small><span style='font-variant: small-caps'>[back to top](/current/2020-domestic)</span></small>         
