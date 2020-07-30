@@ -17,7 +17,7 @@ season: "Domestic 12|8|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [websites](/current/2020-domestic/#websites)</span> · <small>*Last updated 30 July, 2.10pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [websites](/current/2020-domestic/#websites)</span> · <small>*Last updated 30 July, 2.20pm*</small>     
         
 *Presented by* Word of Warning        
          
@@ -33,7 +33,9 @@ Time: Wednesday 12 August 2020, 8pm.<br>Duration: *approximately* 1 hour.<br>Loc
 In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/2017-autumnwinter/pritchard) we presented Domestic works in tower blocks in transition — little did we know then, that in 2020 our homes would become our only stages and only auditoria…        
         
 For our [pilot "Domestic at home"](/current/2020-domestic/july), we invited six artists to try out new works about what was on their minds — using whatever resources they had to hand. Join us on the 12<sup><small>th</small></sup> for a second set of "artists at home", this time selected from our <a href="http://domesticmcr.posthaven.com" target="_blank">open call for proposals</a>.         
-          
+         
+Real lives, real stories, real homes.                   
+         
 Domestic (August 2020) produced by [hÅb](/hab).         
          
 #### Websites         
