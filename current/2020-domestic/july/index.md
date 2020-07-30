@@ -60,5 +60,4 @@ Domestic (July 2020) produced by [hÅb](/hab).<br>Image: Levantes Dance Theatre 
          
 #### Websites         
 <a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a><br><a href="http://twitter.com/afreenaazaria" target="_blank">@afreenaazaria</a> | <a href="http://twitter.com/atasterisk" target="_blank">@atasterisk</a> | <a href="http://twitter.com/cherylalaska" target="_blank">@cherylalaska</a> | <a href="http://twitter.com/patchworkduck" target="_blank">@patchworkduck</a> | <a href="http://twitter.com/LevantesDance" target="_blank">@LevantesDance</a> | <a href="http://twitter.com/NathBirkinshaw" target="_blank">@NathBirkinshaw</a> | <a href="http://twitter.com/peaderkirk" target="_blank">@peaderkirk</a>        
-         
-&nbsp;<small>[BACK TO TOP](/current/2020-domestic/july)</small>
+<small><span style='font-variant: small-caps'>[back to top](/current/2020-domestic)</span></small>
