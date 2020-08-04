@@ -17,14 +17,14 @@ season: "Domestic 12|8|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [websites](/current/2020-domestic/#websites)</span> · <small>*Last updated 4 August, 8pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [websites](/current/2020-domestic/#websites)</span> · <small>*Last updated 4 August, 8.35pm*</small>     
         
 *Presented by* Word of Warning        
          
 What can you make when your kitchen table, bathroom, or garden tent is the stage + your camera is the audience? 7 artists, 7 commentaries on where we find ourselves…        
          
 #### Artists       
-Andrew Neil Hayes · Daniel & Clara · Dominique Savitri Baron-Bonarjee · Kellie Colbert · melissandre varin · Niya B · Sebastian H-W · hosted by Peader Kirk · <small>(*artists subject to change*)</small>        
+Andrew Neil Hayes · Daniel & Clara · Dominique Savitri Baron-Bonarjee · Kellie Colbert · melissandre varin · Niya B · Sebastian H-W · hosted by Peader Kirk · <small>*Artists subject to change.*</small>        
            
 An informal online platform for artists to beta test new work, live from their homes — to get a feel for it, see [July](/current/2020-domestic/july)'s <a href="http://youtu.be/IUNv7CARKLU" target="_blank">live stream</a>. To participate in a *future* Domestic, see <a href="http://domesticmcr.posthaven.com" target="_blank">here</a>.      
       
