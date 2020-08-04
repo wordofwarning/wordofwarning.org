@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Domestic" # the name of the artist or company
-show: "Live new work from home." # the name of the show
+show: "New work, live from home." # the name of the show
 artist_size: 1
 show_size: 5
 header_image: "LDT.jpg"  
@@ -17,16 +17,16 @@ season: "Domestic 1|7|2020, 8.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/july/#artists) · [access](/current/2020-domestic/july/#access) · [about](/current/2020-domestic/july/#about) · [programme](/current/2020-domestic/july/#programme) · [websites](/current/2020-domestic/july/#websites)</span> · <small>*Last updated 30 July, 2.15pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/july/#artists) · [access](/current/2020-domestic/july/#access) · [about](/current/2020-domestic/july/#about) · [programme](/current/2020-domestic/july/#programme) · [websites](/current/2020-domestic/july/#websites)</span> · <small>*Last updated 4 August, 7.10pm*</small>     
         
 *Presented by* Word of Warning        
          
-What can you make when your kitchen table is the stage + your camera is the audience?<br>6 artists, 6 commentaries on where we find ourselves: a beta test platform for new work.<br>Re-watch the live stream on YouTube ↓        
+What can you make when your kitchen table is the stage + your camera is the audience?<br>6 artists, 6 commentaries on where we find ourselves: a beta test platform for new work.<br>Now that it's over, re-watch the live stream on YouTube ↓        
 <iframe src="http://youtube.com/embed/IUNv7CARKLU" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 #### Artists        
-Afreena Islam | Alex Bradley | Cheryl Martin | Emma Geraghty | Levantes Dance Theatre | Nathan Birkinshaw | hosted by Peader Kirk        
-      
+Afreena Islam · Alex Bradley · Cheryl Martin · Emma Geraghty · Levantes Dance Theatre · Nathan Birkinshaw · hosted by Peader Kirk      
+     
 #### Access            
 Time: Wednesday 1 July 2020, 8.30pm.<br>Location: live streamed online.<br>Tickets: book a free space on <a href="http://eventbrite.co.uk/e/domestic-registration-110965300200" target="_blank">Eventbrite</a> to receive live stream details.<br>&nbsp;&nbsp;Donations are welcome via <a href="http://paypal.me/warnmcr" target="_blank">PayPal</a>.<br>&nbsp;&nbsp;Please book 1 space per device being used.<br>Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Duration: *approximately* 1 hour.<br>Includes: live spoken + sung English, movement, recorded audio + video.<br>&nbsp;&nbsp;Please note that we aim to test automated live captioning at this event.<br>&nbsp;&nbsp;To improve your listening experience we suggest using headphones/external speakers.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
           
@@ -59,5 +59,5 @@ Hosted by Peader Kirk · includes *Dawn Chorus*
 Domestic (July 2020) produced by [hÅb](/hab).<br>Image: Levantes Dance Theatre by Roswitha Chesher.         
          
 #### Websites         
-<a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a><br><a href="http://twitter.com/afreenaazaria" target="_blank">@afreenaazaria</a> | <a href="http://twitter.com/atasterisk" target="_blank">@atasterisk</a> | <a href="http://twitter.com/cherylalaska" target="_blank">@cherylalaska</a> | <a href="http://twitter.com/patchworkduck" target="_blank">@patchworkduck</a> | <a href="http://twitter.com/LevantesDance" target="_blank">@LevantesDance</a> | <a href="http://twitter.com/NathBirkinshaw" target="_blank">@NathBirkinshaw</a> | <a href="http://twitter.com/peaderkirk" target="_blank">@peaderkirk</a>        
+<a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a><br><a href="http://twitter.com/afreenaazaria" target="_blank">@AfreenaAzaria</a><br><a href="http://twitter.com/atasterisk" target="_blank">@atasterisk (Alex Bradley)</a><br><a href="http://twitter.com/cherylalaska" target="_blank">@CherylAlaska</a><br><a href="http://twitter.com/patchworkduck" target="_blank">@patchworkduck (Emma Geraghty)</a><br><a href="http://twitter.com/LevantesDance" target="_blank">@LevantesDance</a><br><a href="http://twitter.com/NathBirkinshaw" target="_blank">@NathBirkinshaw</a><br><a href="http://twitter.com/peaderkirk" target="_blank">@PeaderKirk</a>        
 <small><span style='font-variant: small-caps'>[back to top](/current/2020-domestic)</span></small>
