@@ -17,14 +17,14 @@ season: "Domestic 12|8|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [websites](/current/2020-domestic/#websites)</span> · <small>*Last updated 4 August, 6.30pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [websites](/current/2020-domestic/#websites)</span> · <small>*Last updated 4 August, 6.35pm*</small>     
         
 *Presented by* Word of Warning        
          
 What can you make when your kitchen table is the stage + your camera is the audience?<br>7 artists, 7 commentaries on where we find ourselves…        
          
 #### Artists       
-An informal online platform for artists to beta test their ideas from home, featuring:<br>Andrew Neil Hayes · Daniel & Clara · Dominique Savitri Baron-Bonarjee · Kellie Colbert · melissandre varin · Niya B · Sebastian H-W · hosted by Peader Kirk · <small>(participating artists subject to change)</small><br>To get a feel for it, see [July](/current/2020-domestic/july)'s <a href="http://youtu.be/IUNv7CARKLU" target="_blank">live stream</a>.<br>To be part of a *future* Domestic, see our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for artist's proposals</a>.      
+An informal online platform for artists to beta test their new ideas from home, featuring:<br>Andrew Neil Hayes · Daniel & Clara · Dominique Savitri Baron-Bonarjee · Kellie Colbert · melissandre varin · Niya B · Sebastian H-W · host: Peader Kirk · <small>Participating artists subject to change.</small><br>To get a feel for it, see [July](/current/2020-domestic/july)'s <a href="http://youtu.be/IUNv7CARKLU" target="_blank">live stream</a>. To be part of a *future* Domestic, see our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling call for proposals</a>.      
       
 #### Access            
 Time: Wednesday 12 August 2020, 8pm.<br>Duration: *approximately* 1 hour.<br>Location: live streamed online via Zoom webinar.<br>Ticketing: <a href="http://eventbrite.co.uk/e/domestic-registration-115351357014" target="_blank">book a free space</a> to receive live stream details.<br>Donations are welcome via <a href="http://www.paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Please note:<br>&nbsp;&nbsp;we *aim* to test automated live captioning at this event;<br>&nbsp;&nbsp;to improve your listening experience we suggest using headphones/external speakers;<br>&nbsp;&nbsp;for specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
