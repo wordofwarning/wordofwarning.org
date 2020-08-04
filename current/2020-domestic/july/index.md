@@ -17,7 +17,7 @@ season: "Domestic 1|7|2020, 8.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/july/#artists) · [access](/current/2020-domestic/july/#access) · [about](/current/2020-domestic/july/#about) · [programme](/current/2020-domestic/july/#programme) · [websites](/current/2020-domestic/july/#websites)</span> · <small>*Last updated 4 August, 7.10pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/july/#artists) · [access](/current/2020-domestic/july/#access) · [about](/current/2020-domestic/july/#about) · [programme](/current/2020-domestic/july/#programme) · [websites](/current/2020-domestic/july/#websites)</span> · <small>*Last updated 4 August, 7.15pm*</small>     
         
 *Presented by* Word of Warning        
          
@@ -59,5 +59,5 @@ Hosted by Peader Kirk · includes *Dawn Chorus*
 Domestic (July 2020) produced by [hÅb](/hab).<br>Image: Levantes Dance Theatre by Roswitha Chesher.         
          
 #### Websites         
-<a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a><br><a href="http://twitter.com/afreenaazaria" target="_blank">@AfreenaAzaria</a><br><a href="http://twitter.com/atasterisk" target="_blank">@atasterisk (Alex Bradley)</a><br><a href="http://twitter.com/cherylalaska" target="_blank">@CherylAlaska</a><br><a href="http://twitter.com/patchworkduck" target="_blank">@patchworkduck (Emma Geraghty)</a><br><a href="http://twitter.com/LevantesDance" target="_blank">@LevantesDance</a><br><a href="http://twitter.com/NathBirkinshaw" target="_blank">@NathBirkinshaw</a><br><a href="http://twitter.com/peaderkirk" target="_blank">@PeaderKirk</a>        
-<small><span style='font-variant: small-caps'>[back to top](/current/2020-domestic)</span></small>
+<a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a><br><a href="http://twitter.com/afreenaazaria" target="_blank">@AfreenaAzaria</a><br><a href="http://twitter.com/atasterisk" target="_blank">@atasterisk</a> (Alex Bradley)<br><a href="http://twitter.com/cherylalaska" target="_blank">@CherylAlaska</a><br><a href="http://twitter.com/patchworkduck" target="_blank">@patchworkduck</a> (Emma Geraghty)<br><a href="http://twitter.com/LevantesDance" target="_blank">@LevantesDance</a><br><a href="http://twitter.com/NathBirkinshaw" target="_blank">@NathBirkinshaw</a><br><a href="http://twitter.com/peaderkirk" target="_blank">@PeaderKirk</a>        
+<small><span style='font-variant: small-caps'>[back to top](/current/2020-domestic/july)</span></small>
