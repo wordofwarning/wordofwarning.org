@@ -17,7 +17,7 @@ season: "Domestic 12|8|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Last updated 5 August, 2.55pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Last updated 5 August, 3.05pm*</small>     
         
 *Presented by* Word of Warning        
          
@@ -41,17 +41,17 @@ Join us on 12 August for our second set of "artists at home" — seven works sel
 #### Programme         
 Andrew Neil Hayes · *English Psycho*<br>&nbsp;An intimate portrait of one man's absurd morning routine, which tries to encapsulate all the horror of being English.        
         
-Daniel & Clara · *We Had Planned To Go Camping…*<br>&nbsp;From a tent in their back garden, Daniel & Clara take an imagined journey to Cornwall, a trip that was planned but never took place due to the pandemic.        
+Daniel & Clara · *We Had Planned To Go Camping…*<br>&nbsp;From a tent in their back garden, Daniel & Clara take an imagined journey to Cornwall — a trip that was planned but never took place due to the pandemic.        
         
-Dominique Savitri Baron-Bonarjee · *Hula dancing at the sink*<br>&nbsp;"Plants are watching every move I make with their sensuous eyes: why don't I move for them, with them? Why not make every movement a way to hula dance my way through the day, to make my chores ASMR for nonhumans."        
+Dominique Savitri Baron-Bonarjee · *Hula dancing at the sink*<br>"Plants are watching every move I make with their sensuous eyes — why don't I move for them, with them? Why not make every movement a way to hula dance my way through the day, to make my chores ASMR for nonhumans."        
         
 Kellie Colbert · *Social Butterfly*<br>&nbsp;An exploration of the increase of social anxiety one may feel as life returns to some normality. Follow Kellie through the life created inside her mind that will support her journey back to society.<br>&nbsp;Filmed by Billy Morris.        
         
-melissandre varin · *Eating the (m)other*<br>&nbsp;An invitation to think through queer use of (dis)placed / (dis)posable food and Black kinky hair as healing materials.        
+melissandre varin · *Eating the (m)other*<br>&nbsp;An invitation to think, through queer use of (dis)placed / (dis)posable food and Black kinky hair as healing materials.        
         
-Niya B · *Hollow Spaces*<br>&nbsp;"Through a ritual of light and breath I turn inwards.<br>&nbsp;"I reassess the process of a changing body within an expanded temporal context.<br>&nbsp;"Surrounded by mineral formations and magnetic attractions I discover fleeting moments of rest.<br>&nbsp;"Healing is allowed. Existence is hollow."<br>&nbsp;Sound by Body Fool.        
+Niya B · *Hollow Spaces*<br>"Through a ritual of light and breath I turn inwards."<br>"I reassess the process of a changing body within an expanded temporal context."<br>"Surrounded by mineral formations and magnetic attractions I discover fleeting moments of rest."<br>"Healing is allowed. Existence is hollow."<br>&nbsp;Sound by Body Fool.        
         
-Sebastian H-W · *SIRENX (bath-time with a mer-thing)*<br>&nbsp;An intimate audience with SIRENX — a 'mer-thing'; a genderqueer man-made-merman-maid — set entirely inside a domestic bathtub… Learn a little decolonial history about gender, queerness, mythical monsters, self-care, limitations + transformations.        
+Sebastian H-W · *SIRENX (bath-time with a mer-thing)*<br>&nbsp;An intimate audience from a domestic bathtub with SIRENX — a 'mer-thing'; a genderqueer man-made-merman-maid — learn a little decolonial history about gender, queerness, mythical monsters, self-care, limitations + transformations.        
         
 Domestic (August 2020) hosted by Peader Kirk + produced by [hÅb](/hab).         
          
