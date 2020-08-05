@@ -17,7 +17,7 @@ season: "Domestic 12|8|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [websites](/current/2020-domestic/#websites)</span> · <small>*Last updated 4 August, 8.35pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme)</span> · [websites](/current/2020-domestic/#websites)</span> · <small>*Last updated 5 August, 2.05pm*</small>     
         
 *Presented by* Word of Warning        
          
@@ -36,8 +36,12 @@ In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/201
         
 For our [pilot "Domestic at home"](/current/2020-domestic/july), we invited six artists to try out new works about what was on their minds — using whatever resources they had to hand.        
         
-Join us on 12 August for a second set of "artists at home", this time selected from our <a href="http://domesticmcr.posthaven.com" target="_blank">open call for proposals</a>. Real lives, real stories, real homes.                   
+Join us on 12 August for our second set of "artists at home" — seven artists selected from our <a href="http://domesticmcr.posthaven.com" target="_blank">open call for proposals</a>. Real lives, real stories, real homes.        
          
+#### Programme         
+
+Hosted by Peader Kirk        
+        
 Domestic (August 2020) produced by [hÅb](/hab).         
          
 #### Websites         
