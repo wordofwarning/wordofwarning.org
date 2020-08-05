@@ -17,7 +17,7 @@ season: "Domestic 12|8|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Last updated 5 August, 2.45pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Last updated 5 August, 2.55pm*</small>     
         
 *Presented by* Word of Warning        
          
@@ -36,10 +36,10 @@ In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/201
         
 For our [pilot "Domestic at home"](/current/2020-domestic/july), we invited six artists to try out new works about what was on their minds — using whatever resources they had to hand.        
         
-Join us on 12 August for our second set of "artists at home" — seven artists selected from our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for proposals</a>. Real lives, real stories, real homes.        
+Join us on 12 August for our second set of "artists at home" — seven works selected from our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for proposals</a>. Real lives, real stories, real homes.        
          
 #### Programme         
-Andrew Neil Hayes · *English Psycho*<br>&nbsp;An intimate portrait of one man's absurd morning routine, which tries to encapsulate all the horror of being English.<br>&nbsp;Image by Simon Holiday.        
+Andrew Neil Hayes · *English Psycho*<br>&nbsp;An intimate portrait of one man's absurd morning routine, which tries to encapsulate all the horror of being English.        
         
 Daniel & Clara · *We Had Planned To Go Camping…*<br>&nbsp;From a tent in their back garden, Daniel & Clara take an imagined journey to Cornwall, a trip that was planned but never took place due to the pandemic.        
         
@@ -49,9 +49,9 @@ Kellie Colbert · *Social Butterfly*<br>&nbsp;An exploration of the increase of 
         
 melissandre varin · *Eating the (m)other*<br>&nbsp;An invitation to think through queer use of (dis)placed / (dis)posable food and Black kinky hair as healing materials.        
         
-Niya B · *Hollow Spaces*<br>&nbsp;"Through a ritual of light and breath I turn inwards.<br>"I reassess the process of a changing body within an expanded temporal context.<br>"Surrounded by mineral formations and magnetic attractions I discover fleeting moments of rest.<br>"Healing is allowed. Existence is hollow."<br>&nbsp;Sound by Body Fool. Image by Giulia Casalini.        
+Niya B · *Hollow Spaces*<br>&nbsp;"Through a ritual of light and breath I turn inwards.<br>&nbsp;"I reassess the process of a changing body within an expanded temporal context.<br>&nbsp;"Surrounded by mineral formations and magnetic attractions I discover fleeting moments of rest.<br>&nbsp;"Healing is allowed. Existence is hollow."<br>&nbsp;Sound by Body Fool.        
         
-Sebastian H-W · *SIRENX (bath-time with a mer-thing)*<br>&nbsp;An intimate, private audience with SIRENX — a 'mer-thing'; a genderqueer man-made-merman-maid — set entirely inside a domestic bathtub… Learn a little decolonial history about gender, queerness, mythical monsters, self-care, limitations + transformations.<br>&nbsp; Image by Emma Jones.        
+Sebastian H-W · *SIRENX (bath-time with a mer-thing)*<br>&nbsp;An intimate audience with SIRENX — a 'mer-thing'; a genderqueer man-made-merman-maid — set entirely inside a domestic bathtub… Learn a little decolonial history about gender, queerness, mythical monsters, self-care, limitations + transformations.        
         
 Domestic (August 2020) hosted by Peader Kirk + produced by [hÅb](/hab).         
          
