@@ -39,8 +39,21 @@ For our [pilot "Domestic at home"](/current/2020-domestic/july), we invited six 
 Join us on 12 August for our second set of "artists at home" — seven artists selected from our <a href="http://domesticmcr.posthaven.com" target="_blank">open call for proposals</a>. Real lives, real stories, real homes.        
          
 #### Programme         
-
-Hosted by Peader Kirk        
+Andrew Neil Hayes · *English Psycho*<br>&nbsp;An intimate portrait of one man's absurd morning routine, which tries to encapsulate all the horror of being English.<br>&nbsp;Image by Simon Holiday.        
+        
+Daniel & Clara · *We Had Planned To Go Camping…*<br>&nbsp;From a tent in their back garden, Daniel & Clara take an imagined journey to Cornwall, a trip that was planned but never took place due to the pandemic.        
+        
+Dominique Savitri Baron-Bonarjee · *Hula dancing at the sink*<br>&nbsp;"Plants are watching every move I make with their sensuous eyes: why don't I move for them, with them? Why not make every movement a way to hula dance my way through the day, to make my chores ASMR for nonhumans."        
+        
+Kellie Colbert · *Social Butterfly*<br>&nbsp;An exploration of the increase of social anxiety one may feel as life returns to some normality. Follow Kellie through the life created inside her mind that will support her journey back to society.<br>&nbsp;Filmed by Billy Morris.        
+        
+melissandre varin · *Eating the (m)other*<br>&nbsp;An invitation to think through queer use of (dis)placed/(dis)posable food and Black kinky hair as healing materials.        
+        
+Niya B · *Hollow Spaces*<br>&nbsp;"Through a ritual of light and breath I turn inwards.<br>I reassess the process of a changing body within an expanded temporal context.<br>Surrounded by mineral formations and magnetic attractions I discover fleeting moments of rest.<br>Healing is allowed. Existence is hollow."<br>&nbsp;Sound by Body Fool. Image by Giulia Casalini.        
+        
+Sebastian H-W · *SIRENX (bath-time with a mer-thing)*<br>&nbsp;An intimate and private audience with SIRENX — a 'mer-thing'; a genderqueer man-made-merman-maid — set entirely inside a domestic bathtub… Learn a little decolonial history about gender, queerness, mythical monsters, self-care, limitations, and transformations.<br>&nbsp; Image by Emma Jones.        
+        
+hosted by Peader Kirk        
         
 Domestic (August 2020) produced by [hÅb](/hab).         
          
