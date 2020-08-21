@@ -17,7 +17,7 @@ season: "Domestic 12|8|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Last updated 5 August, 3.05pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Last updated 21 August, 11.40am*</small>     
         
 *Presented by* Word of Warning        
          
@@ -25,7 +25,7 @@ What can you make when your kitchen table, bathroom, or garden tent is the stage
 <iframe src="http://youtube.com/embed/AOT29ZTtZAA" width="640" height="360" frameborder="0" allowfullscreen></iframe>        
          
 #### Artists       
-Andrew Neil Hayes · Daniel & Clara · Dominique Savitri Baron-Bonarjee · Kellie Colbert · melissandre varin · Niya B · Sebastian H-W · hosted by Peader Kirk · <small>*Artists subject to change.*</small>        
+Andrew Neil Hayes · Daniel & Clara · Dominique Savitri Baron-Bonarjee · Kellie Colbert · melissandre varin · Niya B · Sebastian H-W · hosted by Peader Kirk        
            
 An informal online platform for artists to beta test new work, live from their homes — to get a feel for it, see [July](/current/2020-domestic/july)'s <a href="http://youtu.be/IUNv7CARKLU" target="_blank">live stream</a>. To participate in a *future* Domestic, see <a href="http://domesticmcr.posthaven.com" target="_blank">here</a>.      
       
@@ -50,7 +50,7 @@ Kellie Colbert · *Social Butterfly*<br>&nbsp;An exploration of the increase of 
         
 melissandre varin · *Eating the (m)other*<br>&nbsp;An invitation to think, through queer use of (dis)placed / (dis)posable food and Black kinky hair as healing materials.        
         
-Niya B · *Hollow Spaces*<br>"Through a ritual of light and breath I turn inwards."<br>"I reassess the process of a changing body within an expanded temporal context."<br>"Surrounded by mineral formations and magnetic attractions I discover fleeting moments of rest."<br>"Healing is allowed. Existence is hollow."<br>&nbsp;Sound by Body Fool.        
+Niya B · *Hollow Spaces* (not shown in YouTube documentation at the artist's request)<br>"Through a ritual of light and breath I turn inwards."<br>"I reassess the process of a changing body within an expanded temporal context."<br>"Surrounded by mineral formations and magnetic attractions I discover fleeting moments of rest."<br>"Healing is allowed. Existence is hollow."<br>&nbsp;Sound by Body Fool.        
         
 Sebastian H-W · *SIRENX (bath-time with a mer-thing)*<br>&nbsp;An intimate audience from a domestic bathtub with SIRENX — a 'mer-thing'; a genderqueer man-made-merman-maid — learn a little decolonial history about gender, queerness, mythical monsters, self-care, limitations, and transformations.        
         
