@@ -21,7 +21,8 @@ season: "Domestic 12|8|2020, 8pm"
         
 *Presented by* Word of Warning        
          
-What can you make when your kitchen table, bathroom, or garden tent is the stage + your camera is the audience? 7 artists, 7 commentaries on where we find ourselves…        
+What can you make when your kitchen table, bathroom, or garden tent is the stage + your camera is the audience? 7 artists, 7 commentaries on where we find ourselves…<br>Now that it's over, re-watch the (edited) live stream on YouTube ↓        
+<iframe src="http://youtube.com/embed/AOT29ZTtZAA" width="640" height="360" frameborder="0" allowfullscreen></iframe>        
          
 #### Artists       
 Andrew Neil Hayes · Daniel & Clara · Dominique Savitri Baron-Bonarjee · Kellie Colbert · melissandre varin · Niya B · Sebastian H-W · hosted by Peader Kirk · <small>*Artists subject to change.*</small>        
