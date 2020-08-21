@@ -17,7 +17,7 @@ season: "Domestic 12|8|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Last updated 21 August, 11.40am*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Last updated 21 August, 11.45am*</small>     
         
 *Presented by* Word of Warning        
          
@@ -50,7 +50,7 @@ Kellie Colbert · *Social Butterfly*<br>&nbsp;An exploration of the increase of 
         
 melissandre varin · *Eating the (m)other*<br>&nbsp;An invitation to think, through queer use of (dis)placed / (dis)posable food and Black kinky hair as healing materials.        
         
-Niya B · *Hollow Spaces* (not shown in YouTube documentation at the artist's request)<br>"Through a ritual of light and breath I turn inwards."<br>"I reassess the process of a changing body within an expanded temporal context."<br>"Surrounded by mineral formations and magnetic attractions I discover fleeting moments of rest."<br>"Healing is allowed. Existence is hollow."<br>&nbsp;Sound by Body Fool.        
+Niya B · *Hollow Spaces (not shown in YouTube documentation at the artist's request)*<br>"Through a ritual of light and breath I turn inwards."<br>"I reassess the process of a changing body within an expanded temporal context."<br>"Surrounded by mineral formations and magnetic attractions I discover fleeting moments of rest."<br>"Healing is allowed. Existence is hollow."<br>&nbsp;Sound by Body Fool.        
         
 Sebastian H-W · *SIRENX (bath-time with a mer-thing)*<br>&nbsp;An intimate audience from a domestic bathtub with SIRENX — a 'mer-thing'; a genderqueer man-made-merman-maid — learn a little decolonial history about gender, queerness, mythical monsters, self-care, limitations, and transformations.        
         
