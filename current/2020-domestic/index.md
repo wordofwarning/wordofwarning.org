@@ -39,6 +39,8 @@ For our [pilot "Domestic at home"](/current/2020-domestic/july), we invited six 
         
 Join us on 12 August for our second set of "artists at home" — seven works selected from our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for proposals</a>. Real lives, real stories, real homes.        
          
+Previewed by <a href="http://manchesterwire.co.uk/guide/free-things-to-do-in-manchester-this-week-vinyasa-yoga" target="_blank">Manchester Wire</a>.         
+         
 #### Programme         
 Dominique Savitri Baron-Bonarjee · *Hula dancing at the sink*<br>"Plants are watching every move I make with their sensuous eyes — why don't I move for them, with them? Why not make every movement a way to hula dance my way through the day, to make my chores ASMR for nonhumans."        
         
