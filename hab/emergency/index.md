@@ -5,10 +5,10 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency / StopGap" # the name of the artist or company
-show: "<br>&nbsp;&nbsp;Days + nights out for the curious." # the name of the artist or company
-show_size: 3
+show: "Days + nights out for the curious." # the name of the artist or company
+show_size: 5
 header_image: "header_emergencybw.jpg"   
-season: "hÅb's Emergency / StopGap" 
+season: "Emergency by hÅb" 
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -16,20 +16,25 @@ season: "hÅb's Emergency / StopGap"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Emergency** is our annual platform for live art + contemporary performance, since 2000 showing around 30 short pieces of work over a day/evening in Manchester each autumn.<br>A new iteration for 2020 is **Emergency StopGap** — a small informal platform to bridge the gap between gallery + theatre, and to fill the empty months of winter…             
-<hr>         
-Our [**inaugural Emergency StopGap**](/archive/2020-emergencystopgap) took place on **Thursday 27 February 2020** from 6-10pm in Manchester's <a href="http://www.niamos.space" target="_blank">NIAMOS</a> — an informal 'Thursday Late' style evening featuring 13 durational live works + interventions in and around the building — now that it's over, see our [gallery of images](/galleries/2020-emergencystopgap).        
+**Emergency** is our annual platform for live art + contemporary performance — showing around 30 short pieces of work over a day/evening in Manchester each autumn since 2000.<br>A new iteration for 2020 was **Emergency StopGap** — a small informal platform to bridge the gap between gallery + theatre, and to fill the empty months of winter…             
+Necessarily, Emergency 2020 will be somewhat different: a live, socially-distanced walk-through event for durational and/or looping live art + contemporary performance, our **twenty-first Emergency** takes place on  in its seventh home — the brand new <a href="http://contactmcr.com" target="_blank">Contact</a> — so new that this will be the first sneak preview audiences get. Small booked audiences will be guided through the building in gallery fashion, pausing en route to watch the work.        
         
-Our [**twentieth Emergency**](/archive/2019-emergency) took place on **Saturday 21 September 2019** with 34 live works taking over two sites in Manchester's Hulme: <a href="https://www.niamos.space" target="_blank">NIAMOS</a> during the daytime, and <a href="http://stunlive.com" target="_blank">STUN Studio</a> + <a href="http://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a> in the evening — now that it's over, see our [gallery of images](/galleries/2019-emergency).        
+Artists working in live art + contemporary performance — our <a href="http://emergencymcr.posthaven.com" target="_blank">open call for proposals</a> seeks durational, performance installation, looping + intervention-based live works that can run over a minimum period of four hours on **Saturday 21 November, 12noon-6pm**
+          
+NB: we realise this won't be for everyone as the ask is constrained by the current circumstances and we have to put the caveat on that it might just not happen — but we really think we should give it a damn good go! Please also bear in mind that this event will be subject to lifting of local lockdown in Manchester.         
+        
+Have a look at 2019's [programme](/archive/2019-emergency)/[gallery of images](/galleries/2019-emergency), 2018's [programme](/archive/2018-emergency)/[gallery](/galleries/2018-emergency), 2017's [programme](/archive/2017-emergency)/[gallery](/galleries/2017-emergency) + 2016's [programme](/archive/2016-emergency)/[gallery](/galleries/2016-emergency).        
+       
+**Emergency is:**<br>&nbsp;• an informal free (donations welcome) public micro-festival + open submission platform;<br>&nbsp;• an opportunity for artists to meet, show, and peer-review work in socially distanced conditions;<br>&nbsp;• a selection event for a number of small [Works Ahead](/hab/worksahead) commissions to be developed + supported by [hÅb](/hab) with + <a href="http://contactmcr.com" target="_blank">Contact</a>.         
+      
+Emergency 2020 is presented by [Word of Warning](/) + <a href="http://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.
+Enquiries: <mailto:emergency@habmcr.org> | <a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>
 
-Get a feel for it with a delve into our archive — see [2018's programme](/archive/2018-emergency) + [gallery of images](/galleries/2018-emergency), 2017's [programme](/archive/2017-emergency)/[gallery](/galleries/2017-emergency) + 2016's [programme](/archive/2016-emergency)/[gallery](/galleries/2016-emergency).         
+<hr>         
+Our [**inaugural Emergency StopGap**](/archive/2020-emergencystopgap) took place on **27 February 2020** from 6-10pm in Manchester's <a href="http://www.niamos.space" target="_blank">NIAMOS</a> — an informal 'Thursday Late' style evening featuring 13 durational live works + interventions in and around the building — now that it's over, see our [gallery of images](/galleries/2020-emergencystopgap).        
+       
+**Emergency StopGap was:**<br>&nbsp;• an informal Pay What You Decide public event + open submission platform;<br>&nbsp;• an opportunity for artists to meet, show, and peer-review work.         
         
-**Emergency StopGap is:**<br>&nbsp;• an informal Pay What You Decide public event + open submission platform;<br>&nbsp;• an opportunity for artists to meet, show, and peer-review work.         
-         
-**Emergency is:**<br>&nbsp;• an informal Pay What You Decide public micro-festival + open submission platform;<br>&nbsp;• an opportunity for artists to meet, show, and peer-review work;<br>&nbsp;• a selection event for a number of small [Works Ahead](/hab/worksahead) commissions to be developed + supported by [hÅb](/hab).         
-         
-Enquiries: <mailto:emergency@habmcr.org>           
-         
 [Emergency StopGap](/archive/2020-emergencystopgap) was presented by [Word of Warning](/); produced by [hÅb](/hab); supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a>. <a href="http://twitter.com/hashtag/EmergencyStopGap" target="_blank">#EmergencyStopGap</a>         
-[Emergency 2019](/archive/2019-emergency) was presented by [Word of Warning](/); produced by [hÅb](/hab); supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>. <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>          
-<a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a>
+        
+<small>*Updated 3 August, 7.45pm*</small>
