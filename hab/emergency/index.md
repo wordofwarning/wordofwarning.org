@@ -16,10 +16,11 @@ season: "Emergency by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Emergency** is our annual platform for live art + contemporary performance — showing around 30 short pieces of work over a day/evening in Manchester each autumn since 2000.<br>A new iteration for 2020 was **Emergency StopGap** — a small informal platform to bridge the gap between gallery + theatre, and to fill the empty months of winter…             
-Necessarily, Emergency 2020 will be somewhat different: a live, socially-distanced walk-through event for durational and/or looping live art + contemporary performance, our **twenty-first Emergency** takes place on  in its seventh home — the brand new <a href="http://contactmcr.com" target="_blank">Contact</a> — so new that this will be the first sneak preview audiences get. Small booked audiences will be guided through the building in gallery fashion, pausing en route to watch the work.        
+**Emergency** is our annual platform for live art + contemporary performance — often showing around 30 short pieces of work over a day/evening in Manchester each autumn — necessarily, 2020 will be somewhat different…<br>**Emergency StopGap** was a new iteration for 2020 — a small informal platform to bridge the gap between gallery + theatre, and to fill the empty months of winter…         
+<hr>         
+A live, socially-distanced walk-through event for durational and/or looping live art + contemporary performance, our **twenty-first Emergency** takes place in its seventh home — the brand new <a href="http://contactmcr.com" target="_blank">Contact</a> — so new that this will be the first sneak preview audiences get. Small booked audiences will be guided through the building in gallery fashion, pausing en route to watch the work.        
         
-Artists working in live art + contemporary performance — our <a href="http://emergencymcr.posthaven.com" target="_blank">open call for proposals</a> seeks durational, performance installation, looping + intervention-based live works that can run over a minimum period of four hours on **Saturday 21 November, 12noon-6pm**
+We're now looking for artistse — our <a href="http://emergencymcr.posthaven.com" target="_blank">**open call for proposals**</a> seeks durational, performance installation, looping + intervention-based live works that can run over a minimum period of four hours on **Saturday 21 November, 12noon-6pm**
           
 NB: we realise this won't be for everyone as the ask is constrained by the current circumstances and we have to put the caveat on that it might just not happen — but we really think we should give it a damn good go! Please also bear in mind that this event will be subject to lifting of local lockdown in Manchester.         
         
@@ -37,4 +38,4 @@ Our [**inaugural Emergency StopGap**](/archive/2020-emergencystopgap) took place
         
 [Emergency StopGap](/archive/2020-emergencystopgap) was presented by [Word of Warning](/); produced by [hÅb](/hab); supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a>. <a href="http://twitter.com/hashtag/EmergencyStopGap" target="_blank">#EmergencyStopGap</a>         
         
-<small>*Updated 3 August, 7.45pm*</small>
+<small>*Updated 3 August, 8.20pm*</small>
