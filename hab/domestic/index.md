@@ -38,4 +38,4 @@ In 2013/15/17 we presented Domestic works in tower blocks in transition — litt
         
 **In November 2017, [*Rent Party: Domestic Edition*](/archive/2017-autumnwinter/pritchard)** popped up next door in Salford's Adelphi Court during its refurb… Part show, part party, Darren Pritchard Dance's joyously defiant stand against growing up poor is a 21st century, austerity Britain, black, gay, immersive musical — for those just about managing. See the [image gallery](/galleries/2017-domestic). Thanks to our generous audiences we donated £574.65 & four crates of food to Salford Foodbank.        
         
-<small>*Updated 3 August, 7.05pm*</small>
+<small>*Updated 3 August, 7.15pm*</small>
