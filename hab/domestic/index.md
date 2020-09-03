@@ -24,8 +24,8 @@ NB: in the interests of full disclosure, we're aware that appetite for making wo
          
 Watch live streams on YouTube of <a href="http://youtu.be/IUNv7CARKLU" target="_blank">**July's pilot event**</a> featuring six invited artists, and of <a href="http://youtu.be/AOT29ZTtZAA" target="_blank">**August's event**</a> with seven works selected from our first open call.        
          
-2020's Domestics are presented by [Word of Warning](/) + produced by [hÅb](/hab).        
-<a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a>                  
+Domestic 2020 series presented by [Word of Warning](/) + produced by [hÅb](/hab).        
+Enquiries: <mailto:domestic@habmcr.org> | <a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a>         
          
 <hr>         
           
@@ -38,4 +38,4 @@ In 2013/15/17 we presented Domestic works in tower blocks in transition — litt
         
 **In November 2017, [*Rent Party: Domestic Edition*](/archive/2017-autumnwinter/pritchard)** popped up next door in Salford's Adelphi Court during its refurb… Part show, part party, Darren Pritchard Dance's joyously defiant stand against growing up poor is a 21st century, austerity Britain, black, gay, immersive musical — for those just about managing. See the [image gallery](/galleries/2017-domestic). Thanks to our generous audiences we donated £574.65 & four crates of food to Salford Foodbank.        
         
-<small>*Updated 3 August, 6.50pm*</small>
+<small>*Updated 3 August, 7.05pm*</small>
