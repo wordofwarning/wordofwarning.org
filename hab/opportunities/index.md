@@ -4,7 +4,7 @@ layout: hab
 rootpath: "../../../"
 is_index: true
 artist: "Opportunities"
-season: "hÅb — Opportunities"
+season: "Opportunities from hÅb"
 
 ---
 Please see our [News page](/news/#artists) for latest advice + support information for artists + freelancers.         
@@ -20,6 +20,6 @@ Upcoming artist opportunities from hÅb are published below when we have them; y
          
          
 #### Upcoming Opportunities        
-See our <a href="http://domesticmcr.posthaven.com" target="_blank">open call for Domestic</a>: our beta-test platform for new work from home.        
+To participate in an [online Domestic](/hab/domestic), please see our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for artist's proposals</a> (next event 7 October | deadline 21 September, 10am).<br>To participate in [Emergency 2020](/hab/emergency), please see our <a href="http://emergencymcr.posthaven.com" target="_blank">open call for artist's proposals</a> (event 21 November at Contact | deadline 9 October, 5pm).        
         
-<small>*Last updated 10 July, 5.15pm*</small>
+<small>*Updated 3 September, 6pm*</small>
