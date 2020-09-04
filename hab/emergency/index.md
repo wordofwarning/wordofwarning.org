@@ -30,11 +30,11 @@ Emergency 2020 presented by [Word of Warning](/) + <a href="http://contactmcr.co
 Enquiries: <mailto:emergency@habmcr.org> | <a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>
 
 <hr>         
-**Emergency StopGap** was a new iteration for February 2020 — a small informal platform to bridge the gap between gallery + theatre, and to fill the empty months of winter…         
+**Emergency StopGap** was a new iteration for 2020 — a small informal platform to bridge the gap between gallery + theatre, and to fill the empty months of winter…         
          
 Our [**inaugural StopGap**](/archive/2020-emergencystopgap) took place on **27 February 2020** in Manchester's <a href="http://www.niamos.space" target="_blank">NIAMOS</a> — an informal 'Thursday Late' style evening featuring 13 durational live works + interventions in and around the building — see our [gallery of images](/galleries/2020-emergencystopgap).        
        
 [Emergency StopGap](/archive/2020-emergencystopgap) presented by [Word of Warning](/); produced by [hÅb](/hab); supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a>.        
 <a href="http://twitter.com/hashtag/EmergencyStopGap" target="_blank">#EmergencyStopGap</a>         
         
-<small>*Updated 4 September, 5.20pm*</small>
+<small>*Updated 4 September, 5.30pm*</small>
