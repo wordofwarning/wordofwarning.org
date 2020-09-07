@@ -12,8 +12,12 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Last updated 11 August, 5.45pm*<br><br>Below are Age Advisories/Limits and Content Warnings for upcoming [Word of Warning](/) events — past event warnings can be found [here](/archive/warnings).<br>This information is for audience members who would like to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger. Please email <mailto:info@habmcr.org> if you'd like to get in touch. *NB — reflects most recent information received from the artists we present.*         
+*Updated 7 September, 6.20pm*<br><br>Below are Age Advisories/Limits + Content Warnings for upcoming [Word of Warning](/) events — warnings for past events are [here](/archive/warnings).<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.<br>Please email <mailto:info@habmcr.org> if you'd like to get in touch. *NB — reflects most recent information received from the artists we present.*         
 <hr>         
-##### [Wed 12 Aug. Online | Domestic](/current/2020-domestic)        
+##### [Wed 7 Oct. Online | Domestic](/current/2020-domestic)        
 Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).        
-Content Warnings: please note that some works may disturb, specific warnings follow.<br>&nbsp;Andrew Neil Hayes — includes partial nudity.<br>&nbsp;Daniel & Clara — includes flashing imagery.<br>&nbsp;Dominique Savitri Baron-Bonarjee — none.<br>&nbsp;Kellie Colbert — deals with issues of social anxiety + panic attacks; includes popping of balloons.<br>&nbsp;melissandre varin — includes ingestion + references to eating disorders.<br>&nbsp;Niya B — none.<br>&nbsp;Sebastian H-W — includes partial nudity.
+Content Warnings: please note that some works may disturb, specific warnings to follow once participating artists have been selected.        
+        
+##### [Sat 21 Nov. Online | Domestic](/current/2020-emergency)        
+Age Advisory: 14+ to be confirmed (mainly aimed at adults; parental/guardian discretion).        
+Content Warnings: please note that some works may disturb, specific warnings to follow once participating artists have been selected.
