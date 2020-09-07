@@ -12,19 +12,18 @@ season: "Archived Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Updated 7 September, 6.15pm*<br><br>Below are Age Advisories/Limits + Content Warnings for past [Word of Warning](/) events — warnings for upcoming events are [here](/warnings).<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.        
+*Updated 7 September, 6.30pm*<br><br>Below are Age Advisories/Limits + Content Warnings for past [Word of Warning](/) events — warnings for upcoming events are [here](/warnings).<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.        
 <hr>         
 #### 2020       
        
 ##### [12 Aug. Online | Domestic](/current/2020-domestic/august)        
-Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).        
-Content Warnings: please note that some works may disturb, specific warnings follow.<br>&nbsp;Andrew Neil Hayes — includes partial nudity.<br>&nbsp;Daniel & Clara — includes flashing imagery.<br>&nbsp;Dominique Savitri Baron-Bonarjee — none.<br>&nbsp;Kellie Colbert — deals with issues of social anxiety + panic attacks; includes popping of balloons.<br>&nbsp;melissandre varin — includes ingestion + references to eating disorders.<br>&nbsp;Niya B — none.<br>&nbsp;Sebastian H-W — includes partial nudity.
+Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: please note that some works may disturb, specific warnings follow.<br>&nbsp;Andrew Neil Hayes — includes partial nudity.<br>&nbsp;Daniel & Clara — includes flashing imagery.<br>&nbsp;Dominique Savitri Baron-Bonarjee — none.<br>&nbsp;Kellie Colbert — deals with issues of social anxiety + panic attacks; includes popping of balloons.<br>&nbsp;melissandre varin — includes ingestion + references to eating disorders.<br>&nbsp;Niya B — none.<br>&nbsp;Sebastian H-W — includes partial nudity.
         
 ##### [1 July. Online | Domestic](/current/2020-domestic/july)        
-Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, some works may include audience interaction.<br>&nbsp;Afreena Islam — includes satirical content, swearing.<br>&nbsp;Alex Bradley — none.<br>&nbsp;Cheryl Martin — includes mention of abuse, alcohlism, illness, suicide.<br>&nbsp;Emma Geraghty — none.<br>&nbsp;Levantes Dance Theatre — none.<br>&nbsp;Nathan Birkinshaw — includes nudity, a recording of defecation, taxidermy.        
+Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: please note that some works may disturb & some works include audience interaction, specific warnings follow.<br>&nbsp;Afreena Islam — includes satirical content, swearing.<br>&nbsp;Alex Bradley — none.<br>&nbsp;Cheryl Martin — includes mention of abuse, alcohlism, illness, suicide.<br>&nbsp;Emma Geraghty — none.<br>&nbsp;Levantes Dance Theatre — none.<br>&nbsp;Nathan Birkinshaw — includes nudity, a recording of defecation, taxidermy.        
         
 ##### [22 May. Online | Works Ahead 2020 — Will Dickie's *White Sun*](/archive/2020-spring/dickie)       
-Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>&nbsp;(N.B. planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS on 21/22 May in partnership with Contact: Will adapted his work for live streaming; Ross postponed sharing his work until it can be shown to a physical audience.)        
+Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>&nbsp;*N.B. planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS on 21/22 May in partnership with Contact:<br>&nbsp;Will adapted his work for live streaming; Ross postponed sharing his work until it can be shown to a physical audience.*        
         
 ##### [1 May. Facebook, Twitter, YouTube | *OREO: variations* by Tania Camara](/archive/2020-spring/camara)        
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes simulated gagging/retching.<br>&nbsp;(N.B. Rescheduled from 23+24 April in STUN Studio at Z-arts.)        
@@ -36,20 +35,7 @@ Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: none.
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes strong language, sexual references + full nudity; uses haze + flashing lights (*not strobe*). Please note that candles + joss sticks are lit throughout the show.        
           
 ##### [27 Feb. NIAMOS | Emergency StopGap](/archive/2020-emergencystopgap)        
-Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).        
-Bethany Mountain<br>&nbsp;— Content Warnings: potential audience interaction; includes references to self-harm, depression + suicide.        
-Chris Owen<br>&nbsp;— Content Warning: none.        
-Kris Canavan<br>&nbsp;— Content Warnings: includes blood-letting, nudity + penetration of their body (strobe lighting was not used).         
-Krissi Musiol<br>&nbsp;— Content Warnings: includes references to pregnancy, childbirth, motherhood, exhaustion + well-being; potential for audience interaction.         
-Martin Hamblen<br>&nbsp;— Content Warning: none.          
-Natalie Wardle<br>&nbsp;— Content Warning: includes nudity.         
-Oliver Ford<br>&nbsp;— Content Warning: none.         
-Philip Bedwell<br>&nbsp;— Content Warning: includes nudity.         
-Powder Keg<br>&nbsp;— Content Warnings: potential audience interaction; potential loud noise.         
-Shkiesha<br>&nbsp;— Content Warning: none.         
-Susanna Amato<br>&nbsp;— Content Warnings: includes sounds of a shredder which could be loud/harsh/offensive; includes references to hoarding, holding on + letting go.         
-Tink Flaherty<br>&nbsp;— Content Warnings: requires audience interaction; audience members need to feel comfortable + aware of the possibility of oversharing.         
-TomYumSim<br>&nbsp;— Content Warnings: requires audience interaction; audience members need to feel comfortable + aware of the possibility of oversharing.          
+Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: please note that some works may disturb, specific warnings follow.<br>&nbsp;Bethany Mountain — potential audience interaction; includes references to self-harm, depression + suicide.<br>&nbsp;Chris Owen — none.<br>&nbsp;Kris Canavan — includes blood-letting, nudity + penetration of their body (strobe lighting was not used).<br>&nbsp;Krissi Musiol — includes references to pregnancy, childbirth, motherhood, exhaustion + well-being; potential for audience interaction.<br>&nbsp;Martin Hamblen — none.<br>&nbsp;Natalie Wardle — includes nudity.<br>&nbsp;Oliver Ford — none.<br>&nbsp;Philip Bedwell — includes nudity.<br>&nbsp;Powder Keg — potential audience interaction; potential loud noise.<br>&nbsp;Shkiesha — none.<br>&nbsp;Susanna Amato — includes sounds of a shredder which could be loud/harsh/offensive; includes references to hoarding, holding on + letting go.<br>&nbsp;Tink Flaherty — requires audience interaction; audience members need to feel comfortable + aware of the possibility of oversharing.<br>&nbsp;TomYumSim — requires audience interaction; audience members need to feel comfortable + aware of the possibility of oversharing.
          
 ##### [12 Feb. The Lowry | *Sex Education* by Harry Clayton-Wright](/archive/2020-spring/clayton-wright)
 **Age Limit: strictly 18+**<br>Content Warnings: includes themes that some people may find distressing, nudity + explicit sexual content.        
