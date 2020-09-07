@@ -1,7 +1,7 @@
 ---
 # CONFIGURATION
 layout: 2020-summer
-rootpath: "../../"
+rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Domestic" # the name of the artist or company
@@ -17,7 +17,7 @@ season: "Domestic 12|8|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Last updated 21 August, 1.10pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/august/#artists) · [access](/current/2020-domestic/august/#access) · [about](/current/2020-domestic/august/#about) · [programme](/current/2020-domestic/august/#programme) · [websites](/current/2020-domestic/august/#websites)</span> · <small>*Updated 7 September, 6pm*</small>     
         
 *Presented by* Word of Warning        
          
@@ -62,4 +62,4 @@ Domestic (August 2020) produced by [hÅb](/hab).
          
 #### Websites         
 <a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a><br><a href="http://andrewneilhayes.com" target="_blank">Andrew Neil Hayes</a><br><a href="http://daniel-clara.co.uk" target="_blank">Daniel & Clara</a> | <a href="http://twitter.com/DanielAndClara" target="_blank">@DanielAndClara</a><br><a href="http://dominiquebb.com" target="_blank">Dominique Savitri Baron-Bonarjee</a> | <a href="http://twitter.com/DominiqueBBee" target="_blank">@DominiqueBBee</a><br><a href="http://instagram.com/kellie.colbert.theatre" target="_blank">Kellie Colbert (insta)</a> | <a href="http://twitter.com/imKellieColbert" target="_blank">@imKellieColbert</a><br><a href="http://intersticies.com" target="_blank">melissandre varin</a><br><a href="http://www.niyab.com" target="_blank">Niya B</a> | <a href="http://twitter.com/Niya___B" target="_blank">@Niya___B</a><br><a href="http://instagram.com/sebastnhw" target="_blank">Sebastian H-W (insta)</a> | <a href="http://twitter.com/SebastnHW" target="_blank">@SebastnHW</a><br><a href="http://twitter.com/PeaderKirk" target="_blank">@PeaderKirk</a>               
-<small><span style='font-variant: small-caps'>[back to top](/current/2020-domestic)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/current/2020-domestic/august)</span></small>
