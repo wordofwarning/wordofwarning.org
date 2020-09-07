@@ -806,7 +806,7 @@
 	.spr2020 .splash
 		{background:url(../images/header_Spring20warnin.jpg) -150px center}
 
-/* Emergency Stop-Gap 2020 Shkeisha+bowl (was bright green w running man)
+/* Emergency Stop-Gap 2020 bright green w/ Shkeisha+bowl (was w/ running man)
 ------------------------------------------------------*/
 		
 	.esg2020,
@@ -853,3 +853,33 @@
 
 	.sum2020 .splash
 		{background:url(../images/header_2020SummerWarnin.jpg) -150px center}
+
+/* Autumn/Winter 2020 Programme orange-purple leaves
+------------------------------------------------------*/
+
+	.aw2020 .splash
+		{background:url(../images/header_warninAW20.jpg) -150px center}
+
+/* Emergency 2020 bright red w/ running man (for now)
+------------------------------------------------------*/
+
+	.e2020,
+	.e2020 .artist, 
+	.e2020 .show,
+	.e2020 .season
+		{background:#ed1c24; color:#fff;}
+
+	.e2020 blockquote
+		{border-left-color:#fff;}
+	
+	.e2020 a,
+	.e2020 a:visited,
+	.e2020 a:hover
+		{color:#fff;}
+	.e2020 nav a:hover,
+	.e2020 article a:hover,
+	.e2020 footer a:hover
+		{background: #fff; color: #ed1c24;}
+		
+	.e2020 .splash
+		{background:url(../images/header_emergency.jpg) center center}
