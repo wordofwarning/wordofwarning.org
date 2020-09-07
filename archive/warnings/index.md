@@ -12,16 +12,20 @@ season: "Archived Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Last updated 2 July, 4.28pm*<br><br>Below are Age Advisories/Limits and Content Warnings for past [Word of Warning](/) events — upcoming event warnings can be found [here](/warnings).<br>This information is for audience members who want to know more about the content of work previously presented — particularly highlighting elements that may distress, cause upset, or trigger.        
+*Updated 7 September, 6.15pm*<br><br>Below are Age Advisories/Limits + Content Warnings for past [Word of Warning](/) events — warnings for upcoming events are [here](/warnings).<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.        
 <hr>         
-#### 2020           
-
-##### [1 July. Online | Domestic](/current/2020-domestic)        
-Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, some works may include audience interaction.<br>&nbsp;Afreena Islam — includes satirical content, swearing.<br>&nbsp;Alex Bradley — none.<br>&nbsp;Cheryl Martin — includes mention of abuse, alcohlism, illness, suicide.<br>&nbsp;Emma Geraghty — none.<br>&nbsp;Levantes Dance Theatre — none.<br>&nbsp;Nathan Birkinshaw — includes nudity, a recording of defecation, taxidermy.
-
+#### 2020       
+       
+##### [12 Aug. Online | Domestic](/current/2020-domestic/august)        
+Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).        
+Content Warnings: please note that some works may disturb, specific warnings follow.<br>&nbsp;Andrew Neil Hayes — includes partial nudity.<br>&nbsp;Daniel & Clara — includes flashing imagery.<br>&nbsp;Dominique Savitri Baron-Bonarjee — none.<br>&nbsp;Kellie Colbert — deals with issues of social anxiety + panic attacks; includes popping of balloons.<br>&nbsp;melissandre varin — includes ingestion + references to eating disorders.<br>&nbsp;Niya B — none.<br>&nbsp;Sebastian H-W — includes partial nudity.
+        
+##### [1 July. Online | Domestic](/current/2020-domestic/july)        
+Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, some works may include audience interaction.<br>&nbsp;Afreena Islam — includes satirical content, swearing.<br>&nbsp;Alex Bradley — none.<br>&nbsp;Cheryl Martin — includes mention of abuse, alcohlism, illness, suicide.<br>&nbsp;Emma Geraghty — none.<br>&nbsp;Levantes Dance Theatre — none.<br>&nbsp;Nathan Birkinshaw — includes nudity, a recording of defecation, taxidermy.        
+        
 ##### [22 May. Online | Works Ahead 2020 — Will Dickie's *White Sun*](/archive/2020-spring/dickie)       
-Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>&nbsp;(N.B. planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS on 21/22 May in partnership with Contact: Will has adapted his work for live streaming; Ross has postponed sharing his work until it can be shown to a physical audience.)
-
+Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>&nbsp;(N.B. planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS on 21/22 May in partnership with Contact: Will adapted his work for live streaming; Ross postponed sharing his work until it can be shown to a physical audience.)        
+        
 ##### [1 May. Facebook, Twitter, YouTube | *OREO: variations* by Tania Camara](/archive/2020-spring/camara)        
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes simulated gagging/retching.<br>&nbsp;(N.B. Rescheduled from 23+24 April in STUN Studio at Z-arts.)        
         
