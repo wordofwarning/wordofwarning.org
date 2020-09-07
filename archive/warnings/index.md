@@ -12,7 +12,7 @@ season: "Archived Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Updated 7 September, 6.30pm*<br><br>Below are Age Advisories/Limits + Content Warnings for past [Word of Warning](/) events — warnings for upcoming events are [here](/warnings).<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.        
+*Updated 7 September, 7pm*<br><br>Below are Age Advisories/Limits + Content Warnings for past [Word of Warning](/) events — warnings for upcoming events are [here](/warnings).<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.        
 <hr>         
 #### 2020       
        
@@ -25,8 +25,8 @@ Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Con
 ##### [22 May. Online | Works Ahead 2020 — Will Dickie's *White Sun*](/archive/2020-spring/dickie)       
 Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>&nbsp;*N.B. planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS on 21/22 May in partnership with Contact:<br>&nbsp;Will adapted his work for live streaming; Ross postponed sharing his work until it can be shown to a physical audience.*        
         
-##### [1 May. Facebook, Twitter, YouTube | *OREO: variations* by Tania Camara](/archive/2020-spring/camara)        
-Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes simulated gagging/retching.<br>&nbsp;(N.B. Rescheduled from 23+24 April in STUN Studio at Z-arts.)        
+##### [1 May. Online | *OREO: variations* by Tania Camara](/archive/2020-spring/camara)        
+Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes simulated gagging/retching.<br>&nbsp;*N.B. Rescheduled from 23+24 April in STUN Studio at Z-arts.*        
         
 ##### [1 April. The Lowry | *We Are Fucked* by Jo Bannon (CANCELLED)](/archive/2020-spring/bannon)       
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: none.       
