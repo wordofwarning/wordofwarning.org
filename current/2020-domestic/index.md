@@ -24,7 +24,7 @@ season: "Domestic 7|10|2020, 8pm"
 What can you make when your kitchen table is the stage + your camera is the audience?<br>An assembly of artists; a collage of commentary on where we find ourselves now…         
          
 #### Artists       
-An informal online platform for artists to beta test new work, live from their homes — to get a feel for it, see [August](/current/2020-domestic/august)'s <a href="http://youtu.be/AOT29ZTtZAA" target="_blank">live stream</a> and [July](/current/2020-domestic/july)'s <a href="http://youtu.be/IUNv7CARKLU" target="_blank">live stream</a>. Participating artists announced 1 October — see our <a href="http://domesticmcr.posthaven.com" target="_blank">open call</a> for proposals.        
+An informal online platform for artists to beta test new work, live from their homes — to get a feel for it, watch [August](/current/2020-domestic/august)'s <a href="http://youtu.be/AOT29ZTtZAA" target="_blank">live stream</a> and [July](/current/2020-domestic/july)'s <a href="http://youtu.be/IUNv7CARKLU" target="_blank">live stream</a>.<br>*Participating artists announced 1 October — see our <a href="http://domesticmcr.posthaven.com" target="_blank">open call</a> for proposals.*        
          
 #### Access            
 Time: Wednesday 7 October 2020, 8pm to *approximately* 9pm.<br>Location: live streamed online via Zoom webinar.<br>Ticketing: book a free space from 1 October to receive live stream details.<br>Donations are welcome via <a href="http://www.paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Please note:<br>&nbsp;&nbsp;we *aim* to use automated live captioning at this event;<br>&nbsp;&nbsp;to improve your listening experience we suggest using headphones/external speakers;<br>&nbsp;&nbsp;for specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
@@ -32,10 +32,10 @@ Time: Wednesday 7 October 2020, 8pm to *approximately* 9pm.<br>Location: live st
 #### About         
 In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/2017-autumnwinter/pritchard) we presented Domestic works in tower blocks in transition — little did we know then, that in 2020 our homes would become our only stages and only auditoria…        
         
-And so [July](/current/2020-domestic/july) + [August](/current/2020-domestic/august) began a series of "Domestic at homes" — with artists trying out new works about what was on their minds — using whatever resources they had to hand.        
+And so [July](/current/2020-domestic/july) + [August](/current/2020-domestic/august) began a series of "Domestic at homes", with artists trying out new works about what was on their minds — using whatever resources they had to hand.        
         
-Join us on 7 October for our third set of "artists at home" — selected from our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for proposals</a>. Real lives, real stories, real homes.        
-         
+Join us on 7 October for our third set of "artists at home" — selected from our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for proposals</a>. Real lives, real stories, real homes.         
+        
 [Domestic](/hab/domestic) (October 2020) hosted by Peader Kirk + produced by [hÅb](/hab).         
          
 #### Websites         
