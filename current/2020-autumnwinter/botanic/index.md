@@ -4,12 +4,12 @@ layout: 2020-summer
 rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Domestic" # the name of the artist or company
-show: "New work, live from home." # the name of the show
+artist: "Botanic" # the name of the artist or company
+show: "A walk in the garden." # the name of the show
 artist_size: 1
 show_size: 5
-header_image: "header_domestic.jpg"  
-season: "Domestic 12|8|2020, 8pm"
+header_image: "header_botanic.jpg"  
+season: "Botanic 27|9|2020, 12-4pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,12 +17,11 @@ season: "Domestic 12|8|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Last updated 21 August, 1.10pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-autumnwinter/botanic/#artists) · [access](/current/2020-autumnwinter/botanic/#access) · [about](/current/2020-autumnwinter/botanic/#about) · [programme](/current/2020-autumnwinter/botanic/#programme) · [websites](/current/2020-autumnwinter/botanic/#websites)</span> · <small>*Updated 8 September, 2.40pm*</small>     
         
-*Presented by* Word of Warning        
+*A* divergency *project presented by* Word of Warning        
          
-What can you make when your kitchen table, bathroom, or garden tent is the stage + your camera is the audience? 7 artists, 7 commentaries on where we find ourselves…<br>Now that it's over, re-watch the (edited) live stream on YouTube ↓        
-<iframe src="http://youtube.com/embed/AOT29ZTtZAA" width="640" height="360" frameborder="0" allowfullscreen></iframe>        
+What can you make when your kitchen table, bathroom, or garden tent is the stage + your camera is the audience? 7 artists, 7 commentaries on where we find ourselves…        
          
 #### Artists       
 Andrew Neil Hayes · Daniel & Clara · Dominique Savitri Baron-Bonarjee · Kellie Colbert · melissandre varin · Niya B · Sebastian H-W · hosted by Peader Kirk        
