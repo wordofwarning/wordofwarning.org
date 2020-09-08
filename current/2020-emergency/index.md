@@ -1,15 +1,15 @@
 ---
 # CONFIGURATION
-layout: 2020-autumnwinter
+layout: 2020-emergency
 rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Botanic" # the name of the artist or company
-show: "A walk in the garden." # the name of the show
+artist: "Emergency 2020" # the name of the artist or company
+show: "A day out for the curious." # the name of the show
 artist_size: 1
 show_size: 5
-header_image: "header_Botanic.jpg"  
-season: "Botanic 27|9|2020, 12-4pm"
+header_image:  
+season: "Emergency 21|11|2020, 12-6pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,21 +17,30 @@ season: "Botanic 27|9|2020, 12-4pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-autumnwinter/botanic/#artists) · [access](/current/2020-autumnwinter/botanic/#access) · [about](/current/2020-autumnwinter/botanic/#about) · [websites](/current/2020-autumnwinter/botanic/#websites)</span> · <small>*Updated 8 September, 7pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-emergency/#artists) · [access](/current/2020-emergency/#access) · [about](/current/2020-emergency/#about) · [websites](/current/2020-emergency/#websites)</span> · <small>*Updated 8 September, 7.40pm*</small>     
         
-*A* Divergency *project, presented by* Word of Warning        
+*Presented by* Word of Warning *+* Contact        
         
-After months inside staring at a screen, the shoots and tendrils of new life are breaking through our concrete walls… Take a stroll through the garden for a series of performance encounters inspired by the healing power of nature.         
-         
+Manchester's twenty-first micro-marathon of the bizarre, the bold + the beautiful takes over the brand new Contact, offering a socially-distanced journey of live performance…       
+        
 #### Artists       
-Christian Asare · Chanje Kunda · Jade Dominique Williams · Jamil Keating · Maya Chowdhry · Shkeisha · <small>*Participating artists subject to change.*</small>        
+Our annual platform for live art + contemporary performance, 2020 will necessarily be somewhat different — get a feel for it with [Emergency StopGap](/archive/2020-emergencystopgap) or [2019's daytime programme](/archive/2019-emergency/daytime).       
+*Participating artists announced by 1 November — see our <a href="http://emergencymcr.posthaven.com" target="_blank">open call</a> for proposals.*        
         
 #### Access            
-Time: Sunday 27 September 2020, 12noon-4pm.<br>Location: <a href="http://hulmegardencentre.org.uk" target="_blank">Hulme Community Garden Centre</a>, 28 Old Birley St, Manchester, M15 5RG<br>Ticketing: a free event with NO booking required — please follow the one-way route around the centre, adhering to the latest UK Government <a href="http://www.gov.uk/coronavirus" target="_blank">coronavirus regulations</a>.<br>Age Advisory: parental/guardian discretion.<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Please note:<br>&nbsp;&nbsp;this event takes place outside, please wear suitable clothing + footwear;<br>&nbsp;&nbsp;for specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
+Time: Saturday 21 October 2020, timed entry every 20 minutes from 12noon to 6pm.<br>Duration: *estimated* journey time of 75 minutes.<br>Location: <a href="http://contactmcr.com" target="_blank">Contact</a>, , Manchester, M15 <br>Ticketing: book a free space from 13 November — please follow the one-way route around the building, adhering to the latest UK Government <a href="http://www.gov.uk/coronavirus" target="_blank">coronavirus regulations</a>.<br>Age Advisory: 14+ to be confirmed (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Please note:<br>&nbsp;&nbsp;this event takes place indoors;<br>&nbsp;&nbsp;for specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
           
 #### About         
-Part of **Welcome to Health** — a call to arms to reconnect with your local healthcare, inspired by the doctors of <a href="http://manchestermedical.org.uk" target="_blank">Moss Side Health Centre</a>.<br><br>A <a href="http://divergencymcr.org" target="_blank">Divergency</a> project — an ongoing artist development programme encouraging diversity in live art, supported by [hÅb](/hab) + STUN.<br><br>Botanic produced by hÅb with Jamil Keating + Dee Dixon.<br>Supported by The National Lottery Community Fund, hÅb, Hulme Community Garden Centre, Gaskell Garden Project, Moss Side Health Centre + NHS Properties.         
+Emergency is our annual platform for live art + contemporary performance — showing around 30 short works over a day/evening in Manchester each autumn. The upcoming 21st event 
+
+Takes place in its 7th home, the brand new Contact and will necessarily be somewhat different… so new that this will be the first sneak preview audiences get! 
+
+Small, booked audiences will be guided on a one-way journey through the building in timed slots, pausing en route in gallery fashion. We’re looking for approximately 10 works to fit these conditions, with an estimated audience journey time of 75 minutes.
+
+*NB: this event is subject to local restrictions in Manchester.*         
+        
+<br><br>[Emergency] 2020 produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.         
          
 #### Websites         
-<a href="http://divergencymcr.org" target="_blank">divergencymcr.org</a> | <a href="http://twitter.com/hashtag/BotanicMcr" target="_blank">#BotanicMcr</a><br><a href="http://twitter.com/ChanjeKunda" target="_blank">@ChanjeKunda</a><br><a href="http://twitter.com/jamilkeating" target="_blank">@jamilkeating</a><br><a href="http://twitter.com/MayaChowdhry" target="_blank">@MayaChowdhry</a>                       
+<a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>         
 <small><span style='font-variant: small-caps'>[back to top](/current/2020-autumnwinter/botanic)</span></small>
