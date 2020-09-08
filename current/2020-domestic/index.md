@@ -17,16 +17,14 @@ season: "Domestic 7|10|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Updated 8 September, 3pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Updated 8 September, 4.30pm*</small>     
         
 *Presented by* Word of Warning        
          
-What can you make when your kitchen table, bathroom, or garden tent is the stage + your camera is the audience? 7 artists, 7 commentaries on where we find ourselves…        
+What can you make when your kitchen table is the stage + your camera is the audience?<br>An assembly of artists; a collage of commentary on where we find ourselves now…         
          
 #### Artists       
-Andrew Neil Hayes · Daniel & Clara · Dominique Savitri Baron-Bonarjee · Kellie Colbert · melissandre varin · Niya B · Sebastian H-W · hosted by Peader Kirk        
-           
-An informal online platform for artists to beta test new work, live from their homes — to get a feel for it, see [July](/current/2020-domestic/july)'s <a href="http://youtu.be/IUNv7CARKLU" target="_blank">live stream</a>. To participate in a *future* Domestic, see <a href="http://domesticmcr.posthaven.com" target="_blank">here</a>.      
+An informal online platform for artists to beta test new work, live from their homes.<br>Participating artists announced on 1 October — to get a feel for it, see [August](/current/2020-domestic/august)'s <a href="http://youtu.be/IUNv7CARKLU" target="_blank">live stream</a>. To participate, see <a href="http://domesticmcr.posthaven.com" target="_blank">here</a>.      
       
 #### Access            
 Time: Wednesday 7 October 2020, 8pm.<br>Duration: *approximately* 1 hour.<br>Location: live streamed online via Zoom webinar.<br>Ticketing: from 1 October book a free space</a> to receive live stream details.<br>Donations are welcome via <a href="http://www.paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Please note:<br>&nbsp;&nbsp;we *aim* to test automated live captioning at this event;<br>&nbsp;&nbsp;to improve your listening experience we suggest using headphones/external speakers;<br>&nbsp;&nbsp;for specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
@@ -38,10 +36,7 @@ For our [pilot "Domestic at home"](/current/2020-domestic/july), we invited six 
         
 Join us on 7 October for our third set of "artists at home" — selected from our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for proposals</a>. Real lives, real stories, real homes.        
          
-#### Programme         
-Hosted by Peader Kirk.        
-        
-[Domestic](/hab/domestic) (October 2020) produced by [hÅb](/hab).         
+[Domestic](/hab/domestic) (October 2020) hosted by Peader Kirk + produced by [hÅb](/hab).         
          
 #### Websites         
 <a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a><br><a href="http://twitter.com/PeaderKirk" target="_blank">@PeaderKirk</a>               
