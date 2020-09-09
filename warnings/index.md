@@ -12,15 +12,15 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Updated 8 September, 2pm*<br><br>Below are Age Advisories/Limits + Content Warnings for upcoming [Word of Warning](/) events — warnings for past events are [here](/archive/warnings).<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.<br>Please email <mailto:info@habmcr.org> if you'd like to get in touch. *NB — reflects most recent information received from the artists we present.*         
+*Updated 9 September, 11.35am*<br><br>Below are Age Advisories/Limits + Content Warnings for upcoming [Word of Warning](/) events — warnings for past events are [here](/archive/warnings).<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.<br>Please email <mailto:info@habmcr.org> if you'd like to get in touch. *NB — reflects most recent information received from the artists we present.*         
 <hr>         
 #### Please note: the pages linked to below are being updated.        
          
 ##### [Sun 27 Sep. Hulme Community Garden Centre | Botanic](/current/2020-autumnwinter/botanic)        
-Age Advisory: parental/guardian discretion.<br>Content Warnings: please note that some works may disturb & some may include audience interaction, specific warnings to follow.        
+Age Advisory: parental/guardian discretion.<br>Content Warnings: none.        
          
 ##### [Wed 7 Oct. Online | Domestic](/current/2020-domestic)        
 Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: please note that some works may disturb & some may include audience interaction, specific warnings to follow once participating artists have been selected.        
         
 ##### [Sat 21 Nov. Contact | Emergency](/current/2020-emergency)        
-Age Advisory: 14+ to be confirmed (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: please note that some works may disturb & some may include audience interaction, specific warnings to follow once participating artists have been selected.
+Age Advisory: to be confirmed.<br>Content Warnings: please note that some works may disturb & some may include audience interaction, specific warnings to follow once participating artists have been selected.
