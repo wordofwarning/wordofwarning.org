@@ -5,9 +5,9 @@ rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Domestic" # the name of the artist or company
-show: "<br>New work, live from home." # the name of the show
+show: "New work, live from home." # the name of the show
 artist_size: 1
-show_size: 5
+show_size: 4
 header_image: "header_domestic.jpg"  
 season: "Domestic 7|10|2020, 8pm"
 
@@ -17,7 +17,7 @@ season: "Domestic 7|10|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [websites](/current/2020-domestic/#websites)</span> · <small>*Updated 9 September, 4.10pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [websites](/current/2020-domestic/#websites)</span> · <small>*Updated 9 September, 4.15pm*</small>     
         
 *Presented by* Word of Warning        
          
