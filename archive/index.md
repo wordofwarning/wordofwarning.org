@@ -4,6 +4,7 @@ layout: archive
 season: "Archive"
 
 archived:
+    - {folder: "2020-summer", name: "Summer 2020", class: "sum2020"}
     - {folder: "2020-spring", name: "Spring 2020", class: "spr2020"}
     - {folder: "2020-emergencystopgap", name: "Emergency StopGap (2020)", class: "esg2020"}
     - {folder: "2019-autumnwinter", name: "Autumn/Winter 2019", class: "aw2019"}
