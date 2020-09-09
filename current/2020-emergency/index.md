@@ -17,30 +17,22 @@ season: "Emergency 21|11|2020, 12-6pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-emergency/#artists) · [access](/current/2020-emergency/#access) · [about](/current/2020-emergency/#about) · [websites](/current/2020-emergency/#websites)</span> · <small>*Updated 8 September, 7.40pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-emergency/#artists) · [access](/current/2020-emergency/#access) · [about](/current/2020-emergency/#about) · [websites](/current/2020-emergency/#websites)</span> · <small>*Updated 9 September, 10.45am*</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
 Manchester's twenty-first micro-marathon of the bizarre, the bold + the beautiful takes over the brand new Contact, offering a socially-distanced journey of live performance…       
         
 #### Artists       
-Our annual platform for live art + contemporary performance, 2020 will necessarily be somewhat different — get a feel for it with [Emergency StopGap](/archive/2020-emergencystopgap) or [2019's daytime programme](/archive/2019-emergency/daytime).       
+Our annual platform for live art + contemporary performance, 2020 will necessarily be somewhat different — get a feel for it with [StopGap](/archive/2020-emergencystopgap) or [2019's daytime programme](/archive/2019-emergency/daytime).         
 *Participating artists announced by 1 November — see our <a href="http://emergencymcr.posthaven.com" target="_blank">open call</a> for proposals.*        
         
 #### Access            
-Time: Saturday 21 October 2020, timed entry every 20 minutes from 12noon to 6pm.<br>Duration: *estimated* journey time of 75 minutes.<br>Location: <a href="http://contactmcr.com" target="_blank">Contact</a>, , Manchester, M15 <br>Ticketing: book a free space from 13 November — please follow the one-way route around the building, adhering to the latest UK Government <a href="http://www.gov.uk/coronavirus" target="_blank">coronavirus regulations</a>.<br>Age Advisory: 14+ to be confirmed (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Please note:<br>&nbsp;&nbsp;this event takes place indoors;<br>&nbsp;&nbsp;for specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
+Time: Saturday 21 October 2020, timed entry every 20 minutes from 12noon to 6pm.<br>Duration: *estimated* journey time of 75 minutes.<br>Location: <a href="http://contactmcr.com" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>Ticketing: book a free space from 13 November — please follow the one-way route around the building, adhering to the latest UK Government <a href="http://www.gov.uk/coronavirus" target="_blank">coronavirus regulations</a>.<br>Age Advisory: 14+ to be confirmed (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Please note:<br>&nbsp;&nbsp;this event takes place indoors;<br>&nbsp;&nbsp;for specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
           
 #### About         
-Emergency is our annual platform for live art + contemporary performance — showing around 30 short works over a day/evening in Manchester each autumn. The upcoming 21st event 
-
-Takes place in its 7th home, the brand new Contact and will necessarily be somewhat different… so new that this will be the first sneak preview audiences get! 
-
-Small, booked audiences will be guided on a one-way journey through the building in timed slots, pausing en route in gallery fashion. We’re looking for approximately 10 works to fit these conditions, with an estimated audience journey time of 75 minutes.
-
-*NB: this event is subject to local restrictions in Manchester.*         
-        
-<br><br>[Emergency] 2020 produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.         
+Emergency takes place in its seventh home, the brand new Contact — so new that this will be the first sneak preview you can get!<br><br>With *approximately* ten live works dotted through the building, we'll be guiding you on a one-way journey in timed slots, allowing for you to pause en route in gallery fashion for up to 10 minutes per work, with an estimated audience journey time of 75 minutes.<br><br>*NB: this event is subject to changes to local restrictions in Manchester.*<br><br>[Emergency] 2020 produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.         
          
 #### Websites         
 <a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>         
-<small><span style='font-variant: small-caps'>[back to top](/current/2020-autumnwinter/botanic)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/current/2020-emergency)</span></small>
