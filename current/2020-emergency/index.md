@@ -7,7 +7,7 @@ rootpath: "../../"
 artist: "Emergency 2020" # the name of the artist or company
 show: "A day out for the curious." # the name of the show
 artist_size: 1
-show_size: 5
+show_size: 
 header_image:  
 season: "Emergency 21|11|2020, 12-6pm"
 
@@ -17,7 +17,7 @@ season: "Emergency 21|11|2020, 12-6pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-emergency/#artists) · [access](/current/2020-emergency/#access) · [about](/current/2020-emergency/#about) · [websites](/current/2020-emergency/#websites)</span> · <small>*Updated 9 September, 2.15pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-emergency/#artists) · [access](/current/2020-emergency/#access) · [about](/current/2020-emergency/#about) · [websites](/current/2020-emergency/#websites)</span> · <small>*Updated 9 September, 4.15pm*</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
@@ -30,7 +30,7 @@ Manchester's twenty-first micro-marathon of the bizarre, the bold + the beautifu
 Time: Saturday 21 November 2020, 12noon-6pm (entry every 20 minutes).<br>Duration: *estimated* 75 minutes per overall journey.<br>Location: <a href="http://contactmcr.com" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>Ticketing: you must book a free space from 13 November to gain entry in a timed slot.<br>On arrival: please provide details for <a href="http://nhs.uk/conditions/coronavirus-covid-19/testing-and-tracing" target="_blank">NHS Test and Trace</a> and then follow the one-way route, adhering to the latest UK Government <a href="http://www.gov.uk/coronavirus" target="_blank">coronavirus regulations</a>.<br>Age Advisory: to be confirmed.<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Please note:<br>&nbsp;&nbsp;*this event is subject to potential lockdown restrictions in Manchester;*<br>&nbsp;&nbsp;this event takes place indoors and is accessible for people using wheelchairs;<br>&nbsp;&nbsp;for specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
           
 #### About         
-Working within current constraints, Emergency takes place at its seventh site — offering a sneak preview of new live work in a brand new home.<br><br>With *approximately ten* live art works dotted through the building, you'll be guided on a socially-distanced one-way walkthrough — allowing you to pause en route in gallery fashion for up to 10 minutes per work, for an *estimated* 75 minutes total journey time.<br><br>[Emergency](/hab/emergency) 2020 produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.         
+Working within current constraints, Emergency takes place at its seventh site — offering a sneak preview of new live work in a brand new home.<br><br>With *approximately 10* live art works dotted through the building, you'll be guided on a socially-distanced one-way walkthrough that allows you to pause en route — total journey time *estimated* 75 minutes.<br><br>[Emergency](/hab/emergency) 2020 produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.         
          
 #### Websites         
 <a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>         
