@@ -5,9 +5,9 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Botanic" # the name of the artist or company
-show: "<br>A walk in the garden." # the name of the show
+show: "A walk in the garden." # the name of the show
 artist_size: 1
-show_size: 5
+show_size: 4
 header_image: "header_Botanic.jpg"  
 season: "Botanic 27|9|2020, 12-4pm"
 
@@ -17,7 +17,7 @@ season: "Botanic 27|9|2020, 12-4pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-autumnwinter/botanic/#artists) · [access](/current/2020-autumnwinter/botanic/#access) · [about](/current/2020-autumnwinter/botanic/#about) · [websites](/current/2020-autumnwinter/botanic/#websites)</span> · <small>*Updated 9 September, 4.10pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-autumnwinter/botanic/#artists) · [access](/current/2020-autumnwinter/botanic/#access) · [about](/current/2020-autumnwinter/botanic/#about) · [websites](/current/2020-autumnwinter/botanic/#websites)</span> · <small>*Updated 9 September, 4.15pm*</small>     
         
 *A* Divergency *project, presented by* Word of Warning        
         
