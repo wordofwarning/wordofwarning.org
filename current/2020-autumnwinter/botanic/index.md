@@ -17,7 +17,7 @@ season: "Botanic 27|9|2020, 12-4pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-autumnwinter/botanic/#artists) · [access](/current/2020-autumnwinter/botanic/#access) · [programme](/current/2020-autumnwinter/botanic/#programme) · [websites](/current/2020-autumnwinter/botanic/#websites)</span> · <small>*Updated 22 September, 12.45pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-autumnwinter/botanic/#artists) · [access](/current/2020-autumnwinter/botanic/#access) · [programme](/current/2020-autumnwinter/botanic/#programme) · [websites](/current/2020-autumnwinter/botanic/#websites)</span> · <small>*Updated 22 September, 1.45pm*</small>     
         
 *A* Divergency *project, presented by* Word of Warning        
         
@@ -38,7 +38,7 @@ Jade Williams · *Pablo Fanque's Fantastic Fair*<br>&nbsp;For the benefit of our
         
 Jamil Keating · *The Crown*<br>&nbsp;Corona — a crown; the gaseous glow around the sun; a virus.<br>&nbsp;A conversation of witches and wizards, peace and love, Hypatia, Joan of Arc, of people, pain + democracy. A casting of the runes for our chaotic times by Jamil E.R Keating, Maisha Nyawira Kungu + others.        
         
-Maya Chowdrhry · *Seeds on Earth*<br>&nbsp;Maya poetically asks you to plant seeds — to counter climate change; bioremediate<small><sup>†</sup></small> for soil pollution; and to consider what seeds we need to feed ourselves.<br>&nbsp;A live artist and poet, Maya creates immersive and democratic experiences for audiences that explore seed sovereignty and food justice.<br>&nbsp;*<a href="https://en.wikipedia.org/wiki/Bioremediation" target="_blank">Bioremediation</a> is the use of either naturally occurring or deliberately introduced microorganisms to consume and break down environmental pollutants, in order to clean a polluted site.*        
+Maya Chowdrhry · *Seeds on Earth*<br>&nbsp;Maya poetically asks you to plant seeds — to counter climate change; bioremediate<small><sup>(*see below*)</sup></small> for soil pollution; and to consider what seeds we need to feed ourselves.<br>&nbsp;A live artist and poet, Maya creates immersive and democratic experiences for audiences that explore seed sovereignty and food justice.<br>&nbsp;*<a href="https://en.wikipedia.org/wiki/Bioremediation" target="_blank">Bioremediation</a> is the use of either naturally occurring or deliberately introduced microorganisms to consume and break down environmental pollutants, in order to clean a polluted site.*        
         
 Shkiesha · *Mindful*<br>&nbsp;Is Mindful a mind full? Is empathy empty? What is the tempo of your temper?<br>&nbsp;Observe the rhythm of your heart beat. Fall into synchronicity with the river.<br>&nbsp;A movement piece by physical performer and conceptual artist Shkiesha Asantewa.        
          
