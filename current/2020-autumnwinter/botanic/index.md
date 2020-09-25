@@ -17,7 +17,7 @@ season: "Botanic 27|9|2020, 12-4pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-autumnwinter/botanic/#artists) · [access](/current/2020-autumnwinter/botanic/#access) · [programme](/current/2020-autumnwinter/botanic/#programme) · [websites](/current/2020-autumnwinter/botanic/#websites)</span> · <small>*Updated 25 September, 4.20pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-autumnwinter/botanic/#artists) · [access](/current/2020-autumnwinter/botanic/#access) · [programme](/current/2020-autumnwinter/botanic/#programme) · [websites](/current/2020-autumnwinter/botanic/#websites)</span> · <small>*Updated 25 September, 4.30pm*</small>     
         
 *A* Divergency *project, presented by* Word of Warning        
         
@@ -44,9 +44,9 @@ Shkiesha · *Mindful*<br>&nbsp;Is Mindful a mind full? Is empathy empty? What is
          
 Botanic is a <a href="http://divergencymcr.org" target="_blank">Divergency</a> project — an ongoing artist development programme encouraging diversity in live art, supported by [hÅb](/hab) + STUN.        
          
-Botanic is previewed <a href="http://www.creativetourist.com/event/botanic-at-hulme-community-garden-centre" target="_blank">creativetourist.com</a>.        
-         
 Botanic produced by hÅb with Jamil Keating + Dee Dixon.<br>Supported by The National Lottery Community Fund, hÅb, Hulme Community Garden Centre, Gaskell Garden Project, Ku'umba + local healthcare professionals.         
+         
+Botanic previewed by <a href="http://www.creativetourist.com/event/botanic-at-hulme-community-garden-centre" target="_blank">creativetourist.com</a>        
          
 #### Websites         
 <a href="http://divergencymcr.org" target="_blank">divergencymcr.org</a> | <a href="http://twitter.com/hashtag/BotanicMcr" target="_blank">#BotanicMcr</a><br><a href="http://chanjekunda.com" target="_blank">chanjekunda.com</a> | <a href="http://twitter.com/ChanjeKunda" target="_blank">@ChanjeKunda</a><br><a href="http://twitter.com/XtianAsare" target="_blank">@XtianAsare</a><br><a href="http://twitter.com/JamilKeating" target="_blank">@JamilKeating</a><br><a href="http://interactiveartist.org" target="_blank">Maya: interactiveartist.org</a> | <a href="http://twitter.com/MayaChowdhry" target="_blank">@MayaChowdhry</a><br><a href="http://shkieshaasantewa.wordpress.com" target="_blank">shkieshaasantewa.wordpress.com</a><br><small><span style='font-variant: small-caps'>[back to top](/current/2020-autumnwinter/botanic)</span></small>
