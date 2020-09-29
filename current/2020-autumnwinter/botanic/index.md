@@ -17,14 +17,14 @@ season: "Botanic 27|9|2020, 12-4pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-autumnwinter/botanic/#artists) · [access](/current/2020-autumnwinter/botanic/#access) · [programme](/current/2020-autumnwinter/botanic/#programme) · [websites](/current/2020-autumnwinter/botanic/#websites)</span> · <small>*Updated 25 September, 4.30pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-autumnwinter/botanic/#artists) · [access](/current/2020-autumnwinter/botanic/#access) · [programme](/current/2020-autumnwinter/botanic/#programme) · [websites](/current/2020-autumnwinter/botanic/#websites)</span> · <small>*Updated 29 September, 4.30pm*</small>     
         
 *A* Divergency *project, presented by* Word of Warning        
         
 After months inside staring at a screen, the shoots and tendrils of new life are breaking through our concrete walls… Take a stroll through the garden for a series of performance encounters inspired by the healing power of nature.         
          
 #### Artists       
-Chanje Kunda · Christian Asare · Jade Williams · Jamil Keating · Maya Chowdhry · Shkiesha · <small>*Participating artists subject to change.*</small>        
+Chanje Kunda · Christian Asare · Jade Williams · Jamil Keating · Maya Chowdhry · Shkiesha        
         
 #### Access            
 Time: Sunday 27 September 2020, 12noon-4pm.<br>Location: <a href="http://hulmegardencentre.org.uk" target="_blank">Hulme Community Garden Centre</a>, 28 Old Birley St, Manchester, M15 5RG<br>Ticketing: a free event with NO booking required.<br>On arrival: please follow the one-way route around the garden centre, adhering to the latest UK Government <a href="http://www.gov.uk/coronavirus" target="_blank">coronavirus regulations</a>.<br>Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>Please note:<br>&nbsp;&nbsp;this event takes place outside, please wear suitable clothing + footwear;<br>&nbsp;&nbsp;for specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
@@ -36,9 +36,9 @@ Christian Asare · *Seen/Heard/Scene/Herd*<br>&nbsp;Visual Art and spoken word�
         
 Jade Williams · *Pablo Fanque's Fantastic Fair*<br>&nbsp;For the benefit of our forgotten Black Britons, come and rejoice in the might of the fair.<br>&nbsp;Jade is a mover, writer + performer.        
         
-Jamil Keating · *The Crown*<br>&nbsp;Corona — a crown; the gaseous glow around the sun; a virus.<br>&nbsp;A conversation of witches and wizards, peace and love, Hypatia, Joan of Arc, of people, pain + democracy. A casting of the runes for our chaotic times by Jamil E.R Keating, Maisha Nyawira Kungu + others.        
+Jamil Keating · *The Crown*<br>&nbsp;Corona — a crown; the gaseous glow around the sun; a virus.<br>&nbsp;A conversation of witches and wizards, peace and love, Hypatia, Joan of Arc, of people, pain + democracy. A casting of the runes for our chaotic times by Jamil E.R Keating + others.        
         
-Maya Chowdrhry · *Seeds on Earth*<br>&nbsp;Maya poetically asks you to plant seeds — to counter climate change; bioremediate for soil pollution; and to consider what seeds we need to feed ourselves.<br>&nbsp;A live artist and poet, Maya creates immersive and democratic experiences for audiences that explore seed sovereignty and food justice.<br>&nbsp;*<a href="https://en.wikipedia.org/wiki/Bioremediation" target="_blank">Bioremediation</a> is the use of either naturally occurring or deliberately introduced microorganisms to consume and break down environmental pollutants, in order to clean a polluted site.*        
+Maya Chowdrhry · *Seeds on Earth*<br>&nbsp;Maya poetically asks you to plant seeds — to counter climate change; <a href="https://en.wikipedia.org/wiki/Bioremediation" target="_blank">bioremediate</a> for soil pollution; and to consider what seeds we need to feed ourselves.<br>&nbsp;A live artist and poet, Maya creates immersive and democratic experiences for audiences that explore seed sovereignty and food justice.        
         
 Shkiesha · *Mindful*<br>&nbsp;Is Mindful a mind full? Is empathy empty? What is the tempo of your temper?<br>&nbsp;Observe the rhythm of your heart beat. Fall into synchronicity with the river.<br>&nbsp;A movement piece by physical performer and conceptual artist Shkiesha Asantewa.        
          
