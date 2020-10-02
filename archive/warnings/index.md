@@ -12,10 +12,13 @@ season: "Archived Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Updated 7 September, 7pm*<br><br>Below are Age Advisories/Limits + Content Warnings for past [Word of Warning](/) events — warnings for upcoming events are [here](/warnings).<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.        
+*Updated 2 October, 5.35pm*<br><br>Below are Age Advisories/Limits + Content Warnings for past [Word of Warning](/) events — warnings for upcoming events are [here](/warnings).<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.        
 <hr>         
-#### 2020       
-       
+#### 2020        
+        
+##### [Sun 27 Sep. Hulme Community Garden Centre | Botanic](/current/2020-autumnwinter/botanic)        
+Age Advisory: parental/guardian discretion.<br>Content Warnings: none.        
+         
 ##### [12 Aug. Online | Domestic](/current/2020-domestic/august)        
 Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: please note that some works may disturb, specific warnings follow.<br>&nbsp;Andrew Neil Hayes — includes partial nudity.<br>&nbsp;Daniel & Clara — includes flashing imagery.<br>&nbsp;Dominique Savitri Baron-Bonarjee — none.<br>&nbsp;Kellie Colbert — deals with issues of social anxiety + panic attacks; includes popping of balloons.<br>&nbsp;melissandre varin — includes ingestion + references to eating disorders.<br>&nbsp;Niya B — none.<br>&nbsp;Sebastian H-W — includes partial nudity.
         
