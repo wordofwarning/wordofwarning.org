@@ -17,7 +17,7 @@ season: "Domestic 7|10|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Updated 2 October, 5.10pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Updated 2 October, 5.30pm*</small>     
         
 *Presented by* Word of Warning        
          
@@ -41,7 +41,7 @@ Join us on 7 October for our third set of "artists at home" — selected from ou
 #### Programme         
 Ali Wilson · *SEXY SUZY*<br>&nbsp;Suzy is trying to remember how her husband died — there are clues all over the place, but she can't quite piece them together. Missy the cat has all the answers, but won't tell.<br>&nbsp;Suzy records her findings in a video at the end of every day, for her future self to recap.<br>&nbsp;She'll lose herself if she doesn't.         
         
-Elly Rutherford & Fanis Sakellariou · *Excuse me, you've dropped your spring onions*<br>&nbsp;Two isolated individuals burst into kitchenware warfare whilst dancing a polka.<br>&nbsp;Music by *tbc*        
+Elly Rutherford & Fanis Sakellariou · *Excuse me, you've dropped your spring onions*<br>&nbsp;Two isolated individuals burst into kitchenware warfare whilst dancing a polka.        
          
 Helena Ascough · *Appearance Disappearance*<br>&nbsp;A new spoken word piece that questions materialism, appearance, and disability — spoken from the comfort of a wardrobe.        
         
