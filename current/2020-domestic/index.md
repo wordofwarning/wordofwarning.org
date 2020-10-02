@@ -17,7 +17,7 @@ season: "Domestic 7|10|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Updated 2 October, 3pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Updated 2 October, 3.30pm*</small>     
         
 *Presented by* Word of Warning        
          
@@ -41,21 +41,23 @@ Join us on 7 October for our third set of "artists at home" — selected from ou
 #### Programme         
 Ali Wilson · *SEXY SUZY*<br>&nbsp;Suzy is trying to remember how her husband died — there are clues all over the place, but she can't quite piece them together. Missy the cat has all the answers, but won't tell.<br>&nbsp;Suzy records her findings in a video at the end of every day, for her future self to recap.<br>&nbsp;She'll lose herself if she doesn't.         
         
-Elly Rutherford & Fanis Sakellariou · *Excuse me, you've dropped your spring onions*<br>&nbsp;Two isolated individuals burst into kitchenware warfare whilst dancing a polka.<br>&nbsp;Music tbc.        
+Elly Rutherford & Fanis Sakellariou · *Excuse me, you've dropped your spring onions*<br>&nbsp;Two isolated individuals burst into kitchenware warfare whilst dancing a polka.<br>&nbsp;Music by *tbc*        
          
-Helena Ascough · *Appearance Disappearance*<br>&nbsp;To follow…        
+Helena Ascough · *Appearance Disappearance*<br>&nbsp;Notes to follow…        
         
 Jane Munro · *Four Feet and Kitchen*<br>&nbsp;A fragment of a single parent family kitchen (their feet) in Covid times.<br>&nbsp;Performed by Ella & Jane · Supported by Colleen Bartley        
         
-Madame Zucchini · *Lockdown Legume Experience*<br>&nbsp;To follow…        
+Madame Zucchini · *Lockdown Legume Experience*<br>&nbsp;Notes to follow…        
         
-Maryam Hashemi · *A summoning*<br>&nbsp;To follow…        
+Maryam Hashemi · *A summoning*<br>&nbsp;Notes to follow…        
         
 Pinchbeck & Smith · *At the edge of the world*<br>&nbsp;Two artists. 24 miles apart. 24 days. 24 photos. 24 texts.<br>&nbsp;A eulogy to lost lives, lost time, and lost contact.<br>&nbsp;Inspired by *<a href="http://books.google.co.uk/books?id=2FfNFBj3_w4C " target="_blank">At the Edge of the World</a>* by Jean Mohr & John Berger.<br>&nbsp;Music by Chris Cousin · Visuals by Adam York Gregory         
         
-Victoria Firth · *Performance Meditations for the Touch Starved — Part 1*<br>&nbsp;An opportunity to join Victoria in a ritual act of holding one's own hand. A literal and metaphorical response to our need for contact and intimacy during times of social separation and vulnerability.        
+Victoria Firth · *Performance Meditations for the Touch Starved — Part 1*<br>&nbsp;An opportunity to join Victoria in a ritual act of holding one's own hand.<br>&nbsp;A literal and metaphorical response to our need for contact and intimacy during times of social separation and vulnerability.        
         
-Hosted by Peader Kirk.<br><br>[Domestic](/hab/domestic) (October 2020) produced by [hÅb](/hab).         
+Hosted by Peader Kirk       
+         
+[Domestic](/hab/domestic) (October 2020) produced by [hÅb](/hab).         
          
 #### Websites         
 <a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a><br><a href="http://twitter.com/PeaderKirk" target="_blank">@PeaderKirk</a>               
