@@ -17,7 +17,7 @@ season: "Domestic 7|10|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Updated 2 October, 3.30pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Updated 2 October, 5.10pm*</small>     
         
 *Presented by* Word of Warning        
          
@@ -43,7 +43,7 @@ Ali Wilson · *SEXY SUZY*<br>&nbsp;Suzy is trying to remember how her husband di
         
 Elly Rutherford & Fanis Sakellariou · *Excuse me, you've dropped your spring onions*<br>&nbsp;Two isolated individuals burst into kitchenware warfare whilst dancing a polka.<br>&nbsp;Music by *tbc*        
          
-Helena Ascough · *Appearance Disappearance*<br>&nbsp;Notes to follow…        
+Helena Ascough · *Appearance Disappearance*<br>&nbsp;A new spoken word piece that questions materialism, appearance, and disability — spoken from the comfort of a wardrobe.        
         
 Jane Munro · *Four Feet and Kitchen*<br>&nbsp;A fragment of a single parent family kitchen (their feet) in Covid times.<br>&nbsp;Performed by Ella & Jane · Supported by Colleen Bartley        
         
