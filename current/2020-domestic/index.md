@@ -49,7 +49,7 @@ Jane Munro · *Four Feet and Kitchen*<br>&nbsp;A fragment of a single parent fam
         
 Madame Zucchini · *Lockdown Legume Experience*<br>&nbsp;Notes to follow…        
         
-Maryam Hashemi · *A summoning*<br>&nbsp;Layer by layer in her den, she unwinds and clears — summoning what lurks beneath the peel.        
+Maryam Hashemi · *A summoning*<br>&nbsp;Layer by layer in her den she unwinds and clears, summoning what lurks beneath the peel.        
         
 Pinchbeck & Smith · *At the edge of the world*<br>&nbsp;Two artists. 24 miles apart. 24 days. 24 photos. 24 texts.<br>&nbsp;A eulogy to lost lives, lost time, and lost contact.<br>&nbsp;Inspired by *<a href="http://books.google.co.uk/books?id=2FfNFBj3_w4C " target="_blank">At the Edge of the World</a>* by Jean Mohr & John Berger.<br>&nbsp;Music by Chris Cousin · Visuals by Adam York Gregory         
         
