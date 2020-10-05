@@ -41,7 +41,7 @@ Join us on 7 October for our third set of "artists at home" — selected from ou
 #### Programme         
 Ali Wilson · *SEXY SUZY*<br>&nbsp;Suzy is trying to remember how her husband died — there are clues all over the place, but she can't quite piece them together. Missy the cat has all the answers, but won't tell.<br>&nbsp;Suzy records her findings in a video at the end of every day, for her future self to recap.<br>&nbsp;She'll lose herself if she doesn't.         
         
-Elly Rutherford & Fanis Sakellariou · *Excuse me, you've dropped your spring onions*<br>&nbsp;Two isolated individuals burst into kitchenware warfare whilst dancing a polka.        
+Elly Rutherford & Fanis Sakellariou · *Excuse me, you've dropped your spring onions*<br>&nbsp;Two isolated individuals burst into kitchenware warfare whilst dancing a polka.<br>&nbspMusic: *Do Your Thing* by Basement Jaxx · *I Will Survive* by Gloria Gaynor · *Ievan Polkka* by Loituma from *Bleach* (anime TV series)        
          
 Helena Ascough · *Appearance Disappearance*<br>&nbsp;A new spoken word piece that questions materialism, appearance, and disability — spoken from the comfort of a wardrobe.        
         
