@@ -17,7 +17,7 @@ season: "Domestic 7|10|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Updated 5 October, 2.30pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Updated 5 October, 9.45pm*</small>     
         
 *Presented by* Word of Warning        
          
@@ -49,8 +49,8 @@ Helena Ascough · *Appearance Disappearance*<br>&nbsp;A new spoken word piece th
         
 Jane Munro · *Four Feet and Kitchen*<br>&nbsp;A fragment of a single parent family kitchen (their feet) in Covid times.<br>&nbsp;Performed by Ella & Jane · Supported by Colleen Bartley        
         
-Madame Zucchini · *Lockdown Legume Experience*<br>&nbsp;Programme notes to follow…        
-        
+Madame Zucchini · *Lockdown Legume Experience*<br>&nbsp;Mme Zucchini entertains & engages with vegetables — she'll be introducing you to some of her veg characters inspired by topical events/politics, and exploring the potential for the use of vegetables in the democratic process.<br>&nbsp;Feel free to bring a vegetable or two, perhaps a knife and some cocktail sticks, to make your own effigy should you so wish.         
+         
 Maryam Hashemi · *A summoning*<br>&nbsp;Layer by layer in her den she unwinds and clears, summoning what lurks beneath…        
         
 Pinchbeck & Smith · *At the edge of the world*<br>&nbsp;Two artists. 24 miles apart. 24 days. 24 photos. 24 texts.<br>&nbsp;A eulogy to lost lives, lost time, and lost contact.<br>&nbsp;Inspired by *<a href="http://books.google.co.uk/books?id=2FfNFBj3_w4C " target="_blank">At the Edge of the World</a>* by Jean Mohr & John Berger.<br>&nbsp;Music by Chris Cousin · Visuals by Adam York Gregory         
