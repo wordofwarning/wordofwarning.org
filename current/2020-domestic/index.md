@@ -17,7 +17,7 @@ season: "Domestic 7|10|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Updated 5 October, 12.45pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Updated 5 October, 2.30pm*</small>     
         
 *Presented by* Word of Warning        
          
@@ -62,5 +62,6 @@ Hosted by Peader Kirk
 [Domestic](/hab/domestic) (October 2020) produced by [hÅb](/hab).         
          
 #### Websites         
-<a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a><br><a href="http://twitter.com/PeaderKirk" target="_blank">@PeaderKirk</a>               
+<a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> · <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a><br><a href="http://awilson945.wixsite.com/aliwilson" target="_blank">awilson945.wixsite.com/aliwilson</a> · <a href="http://twitter.com/aliwil267" target="_blank">@AliWil267</a><br><a href="http://www.ellyrutherford.com" target="_blank">www.ellyrutherford.com</a> · <a href="http://www.fanissakellariou.com" target="_blank">www.fanissakellariou.com</a><br><a href="http://facebook.com/HelenaLouiseAscough" target="_blank">Facebook: Helena Ascough</a> · <a href="http://twitter.com/Helena_Ascough" target="_blank">@Helena_Ascough</a><br><a href="http://www.janemunro.co.uk" target="_blank">www.janemunro.co.uk</a> · <a href="http://twitter.com/janemunroDANCE" target="_blank">@JaneMunroDANCE</a><br><a href="http://www.madamezucchini.co.uk" target="_blank">www.madamezucchini.co.uk</a> · <a href="http://facebook.com/TheMadameZucchini" target="_blank">Facebook: Madame Zucchini</a> · <a href="http://twitter.com/MadameZucchini" target="_blank">@MadameZucchini</a><br><a href="http://www.maryamhashemi.com" target="_blank">www.maryamhashemi.com</a> · <a href="http://facebook.com/marhashem" target="_blank">Facebook: Maryam Hashemi's art</a><br><a href="http://www.michaelpinchbeck.co.uk" target="_blank">www.michaelpinchbeck.co.uk</a> · <a href="http://facebook.com/mdpinchbeck" target="_blank">Facebook: Michael Pinchbeck</a> · <a href="http://twitter.com/PinchbeckSmith" target="_blank">@PinchbeckSmith</a><br><a href="http://www.victoriafirth.co.uk" target="_blank">www.victoriafirth.co.uk</a> · <a href="http://facebook.com/msvictoriafirth" target="_blank">Facebook: Victoria Firth</a> · <a href="http://twitter.com/msvhf" target="_blank">@msvhf</a><br><a href="http://twitter.com/PeaderKirk" target="_blank">@PeaderKirk</a>
+         
 <small><span style='font-variant: small-caps'>[back to top](/current/2020-domestic)</span></small>
