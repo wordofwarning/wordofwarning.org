@@ -17,7 +17,7 @@ season: "Domestic 12|8|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/august/#artists) · [access](/current/2020-domestic/august/#access) · [about](/current/2020-domestic/august/#about) · [programme](/current/2020-domestic/august/#programme) · [websites](/current/2020-domestic/august/#websites)</span> · <small>*Updated 7 September, 6pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/august/#artists) · [access](/current/2020-domestic/august/#access) · [about](/current/2020-domestic/august/#about) · [programme](/current/2020-domestic/august/#programme) · [websites](/current/2020-domestic/august/#websites)</span> · <small>*Updated 6 October, 11.50am*</small>     
         
 *Presented by* Word of Warning        
          
@@ -39,7 +39,7 @@ For our [pilot "Domestic at home"](/current/2020-domestic/july), we invited six 
         
 Join us on 12 August for our second set of "artists at home" — seven works selected from our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for proposals</a>. Real lives, real stories, real homes.        
          
-Previewed by <a href="http://manchesterwire.co.uk/guide/free-things-to-do-in-manchester-this-week-vinyasa-yoga" target="_blank">Manchester Wire</a>.         
+Domestic is one of Manchester Wire's <a href="http://manchesterwire.co.uk/guide/free-things-to-do-in-manchester-this-week-vinyasa-yoga" target="_blank">Free things to do this week</a>.         
          
 #### Programme         
 Dominique Savitri Baron-Bonarjee · *Hula dancing at the sink*<br>"Plants are watching every move I make with their sensuous eyes — why don't I move for them, with them? Why not make every movement a way to hula dance my way through the day, to make my chores ASMR for nonhumans."        
@@ -56,7 +56,7 @@ Daniel & Clara · *We Had Planned To Go Camping…*<br>&nbsp;From a tent in thei
         
 Sebastian H-W · *SIRENX (bath-time with a mer-thing)*<br>&nbsp;An intimate audience from a domestic bathtub with SIRENX — a 'mer-thing'; a genderqueer man-made-merman-maid — learn a little decolonial history about gender, queerness, mythical monsters, self-care, limitations, and transformations.        
         
-Hosted by Peader Kirk.        
+Hosted by Peader Kirk        
         
 Domestic (August 2020) produced by [hÅb](/hab).         
          
