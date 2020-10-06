@@ -17,7 +17,7 @@ season: "Domestic 7|10|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Updated 5 October, 9.45pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Updated 6 October, 11.40am*</small>     
         
 *Presented by* Word of Warning        
          
@@ -47,7 +47,7 @@ Elly Rutherford & Fanis Sakellariou · *Excuse me, you've dropped your spring on
          
 Helena Ascough · *Appearance Disappearance*<br>&nbsp;A new spoken word piece that questions materialism, appearance, and disability — spoken from the comfort of a wardrobe.        
         
-Jane Munro · *Four Feet and Kitchen*<br>&nbsp;A fragment of a single parent family kitchen (their feet) in Covid times.<br>&nbsp;Performed by Ella & Jane · Supported by Colleen Bartley        
+Jane Munro · *Four Feet and Kitchen*<br>&nbsp;A fragment of a single parent family kitchen (their feet) in Covid times.<br>&nbsp;Performed by Jane Munro & Ella · Camera & Artist Assistant: Colleen Bartley
         
 Madame Zucchini · *Lockdown Legume Experience*<br>&nbsp;Mme Zucchini entertains & engages with vegetables — she'll be introducing you to some of her veg characters inspired by topical events/politics, and exploring the potential for the use of vegetables in the democratic process.<br>&nbsp;Feel free to bring a vegetable or two, perhaps a knife and some cocktail sticks, to make your own effigy should you so wish.         
          
