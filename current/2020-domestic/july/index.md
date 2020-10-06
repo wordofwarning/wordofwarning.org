@@ -17,7 +17,7 @@ season: "Domestic 1|7|2020, 8.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/july/#artists) · [access](/current/2020-domestic/july/#access) · [about](/current/2020-domestic/july/#about) · [programme](/current/2020-domestic/july/#programme) · [websites](/current/2020-domestic/july/#websites)</span> · <small>*Last updated 4 August, 7.15pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/july/#artists) · [access](/current/2020-domestic/july/#access) · [about](/current/2020-domestic/july/#about) · [programme](/current/2020-domestic/july/#programme) · [websites](/current/2020-domestic/july/#websites)</span> · <small>*Last updated 6 October, 12noon*</small>     
         
 *Presented by* Word of Warning        
          
@@ -39,7 +39,7 @@ For the first in this new series of Domestic "at homes", we invited six artists 
           
 Real lives, real stories, real homes.          
         
-July's Domestic was previewed by <a href="http://creativetourist.com/event/domestic" target="_blank">creativetourist.com</a> and a <a href="http://manchesterwire.co.uk/guide/free-things-to-do-at-home-and-in-manchester-this-week-ft-xs-malarkey-comedy" target="_blank">Manchester Wire 'free thing to do at home this week'</a>.        
+Domestic was previewed by <a href="http://creativetourist.com/event/domestic" target="_blank">creativetourist.com</a> and one of Manchester Wire's <a href="http://manchesterwire.co.uk/guide/free-things-to-do-at-home-and-in-manchester-this-week-ft-xs-malarkey-comedy" target="_blank">Free things to do this week</a>.        
           
 #### Programme         
 Afreena Islam · *A Word From Your Prime Minister*<br>&nbsp;&nbsp;Wash your hands and business as usual.        
