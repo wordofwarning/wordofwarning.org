@@ -17,7 +17,7 @@ season: "Domestic 7|10|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Updated 6 October, 11.40am*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Updated 6 October, 11.45am*</small>     
         
 *Presented by* Word of Warning        
          
@@ -38,7 +38,7 @@ And so [July](/current/2020-domestic/july) + [August](/current/2020-domestic/aug
         
 Join us on 7 October for our third set of "artists at home" — selected from our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for proposals</a>. Real lives, real stories, real homes.         
           
-Previewed by <a href="http://manchesterwire.co.uk/guide/free-things-to-do-in-manchester-this-week-fletcher-moss-park-walk" target="_blank">Manchester Wire</a>.         
+Domestic is one of Manchester Wire's <a href="http://manchesterwire.co.uk/guide/free-things-to-do-in-manchester-this-week-fletcher-moss-park-walk" target="_blank">Free things to do this week</a>.         
          
 #### Programme         
 Ali Wilson · *SEXY SUZY*<br>&nbsp;Suzy is trying to remember how her husband died — there are clues all over the place, but she can't quite piece them together. Missy the cat has all the answers, but won't tell.<br>&nbsp;Suzy records her findings in a video at the end of every day, for her future self to recap.<br>&nbsp;She'll lose herself if she doesn't.         
