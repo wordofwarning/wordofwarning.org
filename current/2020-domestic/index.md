@@ -17,14 +17,14 @@ season: "Domestic 7|10|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Updated 6 October, 11.45am*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-domestic/#artists) · [access](/current/2020-domestic/#access) · [about](/current/2020-domestic/#about) · [programme](/current/2020-domestic/#programme) · [websites](/current/2020-domestic/#websites)</span> · <small>*Updated 8 October, 12.45pm*</small>     
         
 *Presented by* Word of Warning        
          
 What can you make when your kitchen table is the stage + your camera is the audience?<br>An assembly of artists; a collage of commentary on where we find ourselves now…         
          
 #### Artists       
-Ali Wilson · Elly Rutherford & Fanis Sakellariou · Helena Ascough · Jane Munro · Madame Zucchini · Maryam Hashemi · Pinchbeck & Smith · Victoria Firth<br>Hosted by Peader Kirk · *Participating artists subject to change.*        
+Ali Wilson · Elly Rutherford & Fanis Sakellariou · Helena Ascough · Jane Munro · Madame Zucchini · Maryam Hashemi · Pinchbeck & Smith · Victoria Firth<br>Hosted by Peader Kirk        
         
 Domestic is an informal online platform for artists to beta test new work, live from their homes — get a feel for it by watching [August](/current/2020-domestic/august)'s <a href="http://youtu.be/AOT29ZTtZAA" target="_blank">live stream</a> and/or [July](/current/2020-domestic/july)'s <a href="http://youtu.be/IUNv7CARKLU" target="_blank">live stream</a>.        
          
