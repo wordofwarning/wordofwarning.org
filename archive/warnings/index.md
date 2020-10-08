@@ -12,9 +12,12 @@ season: "Archived Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Updated 2 October, 5.40pm*<br><br>Below are Age Advisories/Limits + Content Warnings for past [Word of Warning](/) events — warnings for upcoming events are [here](/warnings).<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.        
+*Updated 8 October, 12.50pm*<br><br>Below are Age Advisories/Limits + Content Warnings for past [Word of Warning](/) events — warnings for upcoming events are [here](/warnings).<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.        
 <hr>         
 #### 2020        
+        
+##### [7 Oct. Online | Domestic](/current/2020-domestic)        
+Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, some included audience interaction, any specific warnings follow.<br>&nbsp;Ali Wilson — includes swearing and themes of grief & loss.         
         
 ##### [27 Sep. Hulme Community Garden Centre | Botanic](/current/2020-autumnwinter/botanic)        
 Age Advisory: parental/guardian discretion.<br>Content Warnings: none.        
