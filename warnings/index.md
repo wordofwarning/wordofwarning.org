@@ -12,10 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Updated 2 October, 5.40pm*<br><br>Below are Age Advisories/Limits + Content Warnings for upcoming [Word of Warning](/) events — warnings for past events are [here](/archive/warnings).<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.<br>Please email <mailto:info@habmcr.org> if you'd like to get in touch. *NB — reflects most recent information received from the artists we present.*         
+*Updated 8 October, 12.50pm*<br><br>Below are Age Advisories/Limits + Content Warnings for upcoming [Word of Warning](/) events — warnings for past events are [here](/archive/warnings).<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.<br>Please email <mailto:info@habmcr.org> if you'd like to get in touch. *NB — reflects most recent information received from the artists we present.*         
 <hr>         
-##### [Wed 7 Oct. Online | Domestic](/current/2020-domestic)        
-Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, some may include audience interaction, any specific warnings follow.<br>&nbsp;Ali Wilson — includes swearing and themes of grief & loss.         
-        
 ##### [Sat 21 Nov. Contact | Emergency](/current/2020-emergency)        
-Age Advisory: to be confirmed.<br>Content Warnings: some works may disturb, some may include audience interaction, specific warnings to follow in early November once participating artists have been selected.
+Age Advisory: to be confirmed.<br>Content Warnings: some works may disturb, some may include audience interaction — specific warnings to follow in early November once participating artists have been selected, before tickets are available.
