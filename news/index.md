@@ -12,7 +12,7 @@ season: "News"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Updated 8 October, 12.30pm*<br><span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) ~ [artists](/news/#artists) · [gm artist hub](/news/#gmartisthub) · [support](/news/#support)</span>        
+*Updated 12 October, 2.30pm*<br><span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) ~ [artists](/news/#artists) · [gm artist hub](/news/#gmartisthub) · [support](/news/#support)</span>        
 <hr>          
 #### Audiences         
 Our [AW20 season](/current/2020-autumnwinter) continues with [Emergency 2020](/current/2020-emergency) on *Sat 21 Nov, afternoon*.<br>Visit our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a> to watch live streams of recent events, including our <a href="http://youtu.be/IUNv7CARKLU" target="_blank">first</a> and <a href="http://youtu.be/AOT29ZTtZAA" target="_blank">second</a> online Domestics.<br>**Find other things to see or do online in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>, complemented by the following list of websites:**            
@@ -39,7 +39,7 @@ Our [AW20 season](/current/2020-autumnwinter) continues with [Emergency 2020](/c
 <span style='font-variant: small-caps'>[back to top](/news)</span>        
 <hr>          
 #### Artists         
-[hÅb](/hab) remains "open for business" and we continue to advise/support artists + freelancers in our sector where we can, signposting help and opportunities below.<br>&nbsp;To participate in [Emergency 2020](/current/2020-emergency), please see our <a href="http://emergencymcr.posthaven.com" target="_blank">open call for artist's proposals</a> | event 21 November at Contact | deadline 9 October, 5pm.          
+[hÅb](/hab) remains "open for business" and we continue to advise/support artists + freelancers in our sector where we can, signposting help and opportunities below.<br>&nbsp;To participate in a *future* [Domestic](/hab/domestic), please see our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for artist's proposals</a>.        
 <span style='font-variant: small-caps'>[back to top](/news)</span>        
 ##### GMArtistHub        
 <a href="http://gm-artisthub.co.uk" target="_blank">Greater Manchester Artist Hub</a> is a joint artist development project to support independent artists + freelance creatives across our city region, and is currently offering free, 30 minute <a href="http://gm-artisthub.co.uk/advisory-sessions" target="_blank">Advisory Sessions</a>: talk through creative ideas, get some advice, or simply develop your network… <a href="http://app.squarespacescheduling.com/schedule.php?owner=19370486&appointmentType=13786606" target="_blank">Sign-up</a> for a Monday or Wednesday Zoom chat.<br>*[hÅb](/hab)/[Word of Warning](/) are GM Artist Hub partners alongside Community Arts Northwest, Contact, HOME, Manchester International Festival, Octagon Theatre Bolton, Oldham Coliseum Theatre, Royal Exchange Theatre, SICK! Festival, Sustained Theatre Up North, The Lowry, Waterside Arts & Creative Industries Trafford, Z-arts.*        
