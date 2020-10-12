@@ -18,11 +18,9 @@ season: "Emergency by hÅb"
 ---
 **Emergency** is our annual platform for live art + contemporary performance — showing around 30 short works over a day/evening in Manchester each autumn. The upcoming 21st event takes place in its 7th home and will necessarily be somewhat different…        
         
-**[Emergency 2020](/current/2020-emergency)** will be a socially-distanced walk-through live event at the brand new <a href="http://contactmcr.com" target="_blank">Contact</a> — so new that this will be the first sneak preview audiences get! Our <a href="http://emergencymcr.posthaven.com" target="_blank">**open call for proposals**</a> seeks durational, performance installation, looping + intervention-based live works that can run over a minimum period of 4 hours on **21 November, 12-6pm**.        
+**[Emergency 2020](/current/2020-emergency)** will be a socially-distanced walk-through live event on **21 November, 12noon-6pm**, at the brand new <a href="http://contactmcr.com" target="_blank">Contact</a> — so new that this will be the first sneak preview audiences get! Small, booked audiences will be guided on a one-way journey through the building in timed slots with an *estimated* audience journey time of 75 minutes, pausing en route in gallery fashion.<br>Our <a href="http://emergencymcr.posthaven.com" target="_blank">**open call for proposals**</a> has now closed — we were looking for approximately 10 works to fit these conditions: durational, performance installation, looping + intervention-based live works that can run over a minimum period of 4 hours.      
         
-Small, booked audiences will be guided on a one-way journey through the building in timed slots, pausing en route in gallery fashion. We're looking for approximately 10 works to fit these conditions, with an *estimated* audience journey time of 75 minutes.        
-        
-NB: we realise this won't be for everyone as the ask is constrained by the current circumstances, and we have to put the caveat on that it might just not happen — but we really think we should give it a damn good go! Please also bear in mind that this event will be subject to lifting of local lockdown in Manchester.         
+NB: we realised this wouldn't be for everyone as the ask was constrained by the current circumstances and we have to put the caveat on that it might just not happen — but we really think we should give it a damn good go! Please also bear in mind that this event will be subject to new government restrictions being imposed in Manchester.         
         
 Have a look at 2019's [programme](/archive/2019-emergency)/[gallery of images](/galleries/2019-emergency) and 2018's [programme](/archive/2018-emergency)/[gallery](/galleries/2018-emergency).         
       
