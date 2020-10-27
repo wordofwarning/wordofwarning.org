@@ -16,13 +16,13 @@ season: "Emergency by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Emergency** is our annual platform for live art + contemporary performance — showing around 30 short works over a day/evening in Manchester each autumn. The upcoming 21st event takes place in its 7th home and will necessarily be somewhat different…        
+**Emergency** is our annual platform for live art + contemporary performance, showing around 30 short works over a day/evening in Manchester each autumn — the upcoming 21st edition takes place in its 7th home and is necessarily somewhat different…        
         
-**[Emergency 2020](/current/2020-emergency)** will be a socially-distanced walk-through live event on **21 November, 12noon-6pm**, at the brand new <a href="http://contactmcr.com" target="_blank">Contact</a> — so new that this will be the first sneak preview audiences get! Small, booked audiences will be guided on a one-way journey through the building in timed slots with an *estimated* audience journey time of 75 minutes, pausing en route in gallery fashion.        
+**[Emergency 2020](/current/2020-emergency)** will be a socially-distanced live walkthrough event on **21 November, 12noon-5pm**, at the brand new <a href="http://contactmcr.com" target="_blank">Contact</a> — so new that this will be the first sneak preview audiences get! Small, booked audiences will be guided on a one-way journey through the building in timed slots with an *estimated* audience journey time of 75 minutes, pausing en route in gallery fashion.        
          
 Our <a href="http://emergencymcr.posthaven.com" target="_blank">**open call for proposals**</a> has now closed — we were looking for approximately 10 works to fit these conditions: durational, performance installation, looping + intervention-based live works that can run over a minimum period of 4 hours.      
         
-*N.B. we realised this wouldn't be for everyone as the ask was constrained by the current circumstances and we have to put the caveat on that it might just not happen — but we really think we should give it a damn good go! Please bear in mind that this event is now subject to new government restrictions being imposed on Manchester.*         
+*N.B. we realised this wouldn't be for everyone as the ask was constrained by the current circumstances and we have to put the caveat on that it might just not happen — but we really think we should give it a damn good go! Please bear in mind that this event is <a href="http://gov.uk/guidance/local-covid-alert-level-very-high-greater-manchester" target="_blank">subject to additional Tier 3 restrictions being imposed on Greater Manchester</a>.*         
         
 Have a look at 2019's [programme](/archive/2019-emergency)/[gallery of images](/galleries/2019-emergency) and 2018's [programme](/archive/2018-emergency)/[gallery](/galleries/2018-emergency).         
       
@@ -37,4 +37,4 @@ Our [**inaugural StopGap**](/archive/2020-emergencystopgap) took place on **27 F
 [Emergency StopGap](/archive/2020-emergencystopgap) presented by [Word of Warning](/); produced by [hÅb](/hab); supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a>.        
 <a href="http://twitter.com/hashtag/EmergencyStopGap" target="_blank">#EmergencyStopGap</a>         
         
-<small>*Updated 12 October, 2.50pm*</small>
+<small>*Updated 27 October, 2.50pm*</small>
