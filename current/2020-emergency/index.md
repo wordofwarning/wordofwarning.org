@@ -17,7 +17,7 @@ season: "Emergency 21|11|2020, 12-5pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-emergency/#artists) · [access](/current/2020-emergency/#access) · [about](/current/2020-emergency/#about) · [websites](/current/2020-emergency/#websites)</span> · <small>*Updated 27 October, 5pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-emergency/#artists) · [access](/current/2020-emergency/#access) · [about](/current/2020-emergency/#about) · [websites](/current/2020-emergency/#websites)</span> · <small>*Updated 28 October, 12.10pm*</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
@@ -33,5 +33,5 @@ Time: Saturday 21 November 2020, 12noon-5pm (last entry at 3.45pm).<br>Duration:
 Working within current constraints, Emergency 2020 offers a sneak preview of new live work in a brand new home. With over a dozen performance works dotted throughout <a href="http://contactmcr.com" target="_blank">Contact</a>'s building, you'll be guided on a socially-distanced one-way walkthrough. Able to pause en route, we *estimate* a 75-minute total journey time for each audience member.<br><br>[Emergency](/hab/emergency) 2020 produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.         
          
 #### Websites         
-<a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>         
+<a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> · <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>         
 <small><span style='font-variant: small-caps'>[back to top](/current/2020-emergency)</span></small>
