@@ -17,11 +17,13 @@ season: "Emergency 21|11|2020, 12-5pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
+**Due to <a href="http://gov.uk/guidance/new-national-restrictions-from-5-november" target="_blank">new restrictions</a>, this event no longer takes place on *Sat 21 Nov* and is now to be confirmed — further information to follow…**        
+        
 <span style='font-variant: small-caps'>jump to → [artists](/current/2020-emergency/#artists) · [access](/current/2020-emergency/#access) · [about](/current/2020-emergency/#about) · [websites](/current/2020-emergency/#websites)</span> · <small>*Updated 1 November, 12.20pm*</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
-Manchester's twenty-first micro-marathon of the bizarre, the bold + the beautiful takes over the brand new Contact with a socially-distanced journey of live performances…**UPDATE: due to <a href="http://gov.uk/guidance/new-national-restrictions-from-5-november" target="_blank">new restrictions</a>, this event no longer takes place on *Sat 21 Nov* and is to be confirmed — further information to follow…**         
+Manchester's twenty-first micro-marathon of the bizarre, the bold + the beautiful takes over the brand new Contact with a socially-distanced journey of live performances…         
         
 #### Artists       
 Ayzmar · Dan Sanders · Ghost and John · Kellie Colbert & Deborah Newton · Kelvin Atmadibrata · Lydia Cottrell · Maryam Hashemi · Miray Sidhom · Mitzee (DEAD PIG) · Rowena Gander · Sebastian H-W · Simon Carroll-Jones & Wayne Steven Jackson · Tom Ryalls · *Participating artists subject to change.*<br><br>Our annual platform for live art + contemporary performance, 2020's [Emergency](/hab/emergency) is necessarily a bit different — get a feel for it with [StopGap](/archive/2020-emergencystopgap) or [2019 daytime programme](/archive/2019-emergency/daytime).         
