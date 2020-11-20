@@ -16,13 +16,13 @@ season: "Domestic by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**2020's series of Domestic "at homes"** is an informal online platform for artists to beta test new work, live from their homes… What can you make when your kitchen table, bathroom, or garden tent is the stage — and your camera is the audience?        
+**2020–21's series of Domestic "at homes"** are an informal online platform for artists to beta test new work, live from their homes… What can you make when your kitchen table, bathroom, or garden tent is the stage — and your camera is the audience?        
 <hr>         
-We're interested in what artists want to say right now — our <a href="http://domesticmcr.posthaven.com" target="_blank">**rolling open call for proposals**</a> seeks short (max 10 mins) live art and/or contemporary performance works that can be presented online, within an artist's available resources.<br>NB: although we've selected work for [October's event](/current/2020-domestic), this <a href="http://domesticmcr.posthaven.com" target="_blank">call out</a> remains open on a rolling basis for potential *future* events.        
+We're interested in what artists want to say right now — our <a href="http://domesticmcr.posthaven.com" target="_blank">**rolling open call for proposals**</a> seeks short (max 10 mins) live art and/or contemporary performance works that can be presented online, within an artist's available resources — *we've pencilled in Wed 13 Jan 2021 for our next event*.         
          
-[July](/current/2020-domestic/july)'s pilot featured six invited artists (<a href="http://youtu.be/IUNv7CARKLU" target="_blank">watch live stream</a>); [August](/current/2020-domestic/august) featured seven works selected from our open call (<a href="http://youtu.be/AOT29ZTtZAA" target="_blank">watch live stream</a>); and our third event featured eight selected works on [7 October](/current/2020-domestic) — all hosted by Peader Kirk.        
+[July](/current/2020-domestic/july)'s pilot featured six invited artists (<a href="http://youtu.be/IUNv7CARKLU" target="_blank">watch live stream</a>); [August](/current/2020-domestic/august) featured seven works selected from our open call (<a href="http://youtu.be/AOT29ZTtZAA" target="_blank">watch live stream</a>); [October](/current/2020-domestic)'s event featured eight selected works (live stream archive available soon); and our fourth event is *pencilled in for 13 January 2021* — all hosted by Peader Kirk.        
          
-[Domestic 2020](/current/2020-domestic) series presented by [Word of Warning](/) + produced by [hÅb](/hab).        
+[Domestic 2020–21](/current/2020-domestic) series presented by [Word of Warning](/) + produced by [hÅb](/hab).        
 Enquiries: <mailto:domestic@habmcr.org> | <a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a>         
 <hr>         
 #### *Domestic origins…*         
@@ -34,4 +34,4 @@ In 2013/15/17 we presented Domestic works in tower blocks in transition — litt
         
 **In November 2017, [*Rent Party: Domestic Edition*](/archive/2017-autumnwinter/pritchard)** popped up next door in Salford's Adelphi Court during its refurb… Part show, part party, Darren Pritchard Dance's joyously defiant stand against growing up poor is a 21st century, austerity Britain, black, gay, immersive musical — for those just about managing. See the [image gallery](/galleries/2017-domestic). Thanks to our generous audiences we donated £574.65 & four crates of food to Salford Foodbank.        
         
-<small>*Updated 12 October, 2.35pm*</small>
+<small>*Updated 20 November, 12noon*</small>
