@@ -20,6 +20,6 @@ Upcoming artist opportunities from hÅb are published below when we have them; y
          
          
 #### Upcoming Opportunities        
-To participate in a *future* [online Domestic](/hab/domestic), please see our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for artist's proposals</a>.<br>*N.B. [Emergency 2020](/hab/emergency)'s <a href="http://emergencymcr.posthaven.com" target="_blank">call for proposals</a> has now closed.*        
+To participate in a future [online Domestic](/hab/domestic), please see our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for artist's proposals</a>.        
         
-<small>*Updated 12 October, 2.35pm*</small>
+<small>*Updated 20 November, 12.05pm*</small>
