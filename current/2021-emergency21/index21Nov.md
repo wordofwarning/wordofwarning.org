@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: 2020-emergency
+layout: 2021-e21
 rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
