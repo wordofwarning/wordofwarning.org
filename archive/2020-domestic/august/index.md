@@ -4,8 +4,8 @@ layout: 2020-summer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Domestic&nbsp;<br>&nbsp;Aug 2020" # the name of the artist or company
-show: "New work, live from home." # the name of the show
+artist: "Domestic" # the name of the artist or company
+show: "August 2020&nbsp;<br>&nbsp;New work, live from home." # the name of the show
 artist_size: 1
 show_size: 5
 header_image: "header_domestic.jpg"  
@@ -17,7 +17,7 @@ season: "Domestic 12|8|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/archive/2020-domestic/august/#artists) · [access](/archive/2020-domestic/august/#access) · [about](/archive/2020-domestic/august/#about) · [programme](/archive/2020-domestic/august/#programme) · [websites](/archive/2020-domestic/august/#websites)</span> · <small>*Updated 1 December 2020, 11.15am*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/archive/2020-domestic/august/#artists) · [access](/archive/2020-domestic/august/#access) · [about](/archive/2020-domestic/august/#about) · [programme](/archive/2020-domestic/august/#programme) · [websites](/archive/2020-domestic/august/#websites)</span> · <small>*Updated 1 December 2020, 11.20am*</small>     
         
 *Presented by* Word of Warning        
          
