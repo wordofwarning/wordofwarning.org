@@ -4,7 +4,7 @@ layout: 2020-summer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Domestic&nbsp;<br>&nbsp;(Aug 2020)" # the name of the artist or company
+artist: "Domestic&nbsp;<br>&nbsp;<small>(Aug 2020)</small>" # the name of the artist or company
 show: "New work, live from home." # the name of the show
 artist_size: 1
 show_size: 5
