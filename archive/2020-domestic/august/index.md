@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Domestic" # the name of the artist or company
-show: "August 2020&nbsp;<br>&nbsp;New work, live from home." # the name of the show
+show: "New work, live from home." # the name of the show
 artist_size: 1
 show_size: 5
 header_image: "header_domestic.jpg"  
@@ -21,7 +21,7 @@ season: "Domestic 12|8|2020, 8pm"
         
 *Presented by* Word of Warning        
          
-What can you make when your kitchen table, bathroom, or garden tent is the stage + your camera is the audience? 7 artists, 7 commentaries on where we find ourselves…<br>Now that it's over, re-watch the (edited) live stream on YouTube ↓        
+What can you make when your kitchen table, bathroom, or garden tent is the stage + your camera is the audience? 7 artists, 7 commentaries on where we find ourselves…<br>Now that it's over, re-watch the (edited) live stream on YouTube below.        
 <iframe src="http://youtube.com/embed/AOT29ZTtZAA" width="640" height="360" frameborder="0" allowfullscreen></iframe>        
          
 #### Artists       
