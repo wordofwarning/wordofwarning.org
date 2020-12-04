@@ -17,9 +17,9 @@ season: "Emergency 21|11|2020, 12-5pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Planned to take place *Sat 21 Nov* at Contact, [Emergency 2020](/current/2020-emergency) is indefinitely postponed due to November's lockdown & subsequent <a href="http://gov.uk/guidance/tier-3-very-high-alert#businesses-and-venues" target="_blank">Tier 3 restrictions</a> in <a href="http://gov.uk/guidance/full-list-of-local-restriction-tiers-by-area#tier-3-very-high-alert" target="_blank">Greater Manchester</a>.**        
-        
-<span style='font-variant: small-caps'>jump to → [artists](/current/2020-emergency/#artists) · [access](/current/2020-emergency/#access) · [about](/current/2020-emergency/#about) · [websites](/current/2020-emergency/#websites)</span> · <small>*Updated 1 November, 12.20pm*</small>     
+Planned to take place *Sat 21 Nov* at Contact, Emergency 2020 is indefinitely postponed due to November's lockdown & subsequent <a href="http://gov.uk/guidance/tier-3-very-high-alert#businesses-and-venues" target="_blank">Tier 3 restrictions</a> in <a href="http://gov.uk/guidance/full-list-of-local-restriction-tiers-by-area#tier-3-very-high-alert" target="_blank">Greater Manchester</a>.        
+<hr>        
+<span style='font-variant: small-caps'>jump to → [artists](/current/2020-emergency/#artists) · [access](/current/2020-emergency/#access) · [about](/current/2020-emergency/#about) · [websites](/current/2020-emergency/#websites)</span> · <small>*Updated 4 December, 3.35pm*</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
