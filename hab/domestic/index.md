@@ -22,7 +22,7 @@ We're interested in what artists want to say right now — our <a href="http://d
          
 [July](/current/2020-domestic/july)'s pilot featured six invited artists (<a href="http://youtu.be/IUNv7CARKLU" target="_blank">watch live stream</a>); [August](/current/2020-domestic/august) featured seven works selected from our open call (<a href="http://youtu.be/AOT29ZTtZAA" target="_blank">watch live stream</a>); [October](/current/2020-domestic)'s event featured eight selected works (live stream archive available soon); and our fourth event is *pencilled in for 13 January 2021* — all hosted by Peader Kirk.        
          
-Alongside live works, artists have been proposing pre-recorded pieces that don't fit the live bill — so in December we introduced **<a href="http://domesticatedonline.org" target="_blank">Domesticated</a>**, our new home for those works. The first houseguests are Beth Clayton, Freddie Watkins, Heather Bandenburg, Kellie Colbert & Deborah Newton, Mahboobeh Rajabi, Nicholas Tee, Oliver Ford, Sandra Bouguerch.        
+Alongside live works, artists propose pre-recorded pieces that don't fit the live bill — so in December we introduced a new home for those works, **<a href="http://domesticatedonline.org" target="_blank">Domesticated</a>**, and the first houseguests are Beth Clayton, Freddie Watkins, Heather Bandenburg, Kellie Colbert & Deborah Newton, Mahboobeh Rajabi, Nicholas Tee, Oliver Ford, Sandra Bouguerch.        
          
 [Domestic 2020–21](/current/2020-domestic) series presented by [Word of Warning](/) + produced by [hÅb](/hab).         
 <a href="http://domesticatedonline.org" target="_blank">Domesticated</a> produced by [hÅb](/hab); website development + illustration by Ghost and John.       
@@ -37,4 +37,4 @@ In 2013/15/17 we presented Domestic works in tower blocks in transition — litt
         
 **In November 2017, [*Rent Party: Domestic Edition*](/archive/2017-autumnwinter/pritchard)** popped up next door in Salford's Adelphi Court during its refurb… Part show, part party, Darren Pritchard Dance's joyously defiant stand against growing up poor is a 21st century, austerity Britain, black, gay, immersive musical — for those just about managing. See the [image gallery](/galleries/2017-domestic). Thanks to our generous audiences we donated £574.65 & four crates of food to Salford Foodbank.        
         
-<small>*Updated 11 December, 11.50am*</small>
+<small>*Updated 11 December, 11.55am*</small>
