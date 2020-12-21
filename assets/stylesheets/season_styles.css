@@ -1,6 +1,6 @@
 /* THEMED PER-EVENT STYLES ---------------------------*/
 
-/* default word of warning styling + homepage header currently orange-purple leaves
+/* default word of warning styling + homepage header currently bluebells
 ------------------------------------------------------*/
 
 	body,
@@ -27,7 +27,7 @@
 		{background:#000; color:#fff;}
 
 	.splash
-		{background:url(../images/header_warninAW20.jpg) -150px center}
+		{background:url(../images/header_2021SprWarni.jpg) -150px center}
 
 /* hAb black
 ------------------------------------------------------*/
@@ -860,7 +860,7 @@
 	.aw2020 .splash
 		{background:url(../images/header_warninAW20.jpg) -150px center}
 
-/* Emergency 2020 bright red w/ running man (for now)
+/* Emergency 2020 bright red w/ running man
 ------------------------------------------------------*/
 
 	.e2020,
@@ -889,3 +889,27 @@
 
 	.spr2021 .splash
 		{background:url(../images/header_2021SprWarni.jpg) -150px center}
+
+/* Emergency 21st bright red w/ running man (for now)
+------------------------------------------------------*/
+
+	.e21st,
+	.e21st .artist, 
+	.e21st .show,
+	.e21st .season
+		{background:#ed1c24; color:#fff;}
+
+	.e21st blockquote
+		{border-left-color:#fff;}
+	
+	.e21st a,
+	.e21st a:visited,
+	.e21st a:hover
+		{color:#fff;}
+	.e21st nav a:hover,
+	.e21st article a:hover,
+	.e21st footer a:hover
+		{background: #fff; color: #ed1c24;}
+		
+	.e21st .splash
+		{background:url(../images/header_emergency.jpg) center center}
