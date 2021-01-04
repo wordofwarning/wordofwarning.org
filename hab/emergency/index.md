@@ -18,7 +18,7 @@ season: "Emergency by hÅb"
 ---
 **Emergency** is our annual platform for live art + contemporary performance, showing around 30 short works over a day/evening in Manchester each autumn — the upcoming 21st edition takes place in its 7th home and is necessarily somewhat different…        
         
-Originally [planned for November 2020](/archive/2020-emergency), our **[21st Emergency](/current/2021-emergency)** will be a socially-distanced live walkthrough event at the brand new <a href="http://contactmcr.com" target="_blank">Contact</a> on a date to be confirmed — small, booked audiences will be guided on a one-way journey through the building in timed slots with an *estimated* audience journey time of 75 minutes, pausing en route in gallery fashion.        
+Originally [planned for November 2020](/archive/2020-emergency), our **[21st Emergency](/current/2021-emergency)** will be a socially-distanced live walkthrough event at the brand new <a href="http://contactmcr.com" target="_blank">Contact</a> on a date to be confirmed — small, booked audiences will be guided on a one-way journey through the building in timed slots, pausing en route in gallery fashion.        
          
 Our <a href="http://emergencymcr.posthaven.com" target="_blank">**open call for proposals**</a> has now closed — we were looking for approximately 10 works to fit these conditions: durational, performance installation, looping + intervention-based live works that can run over a minimum period of 4 hours.      
         
