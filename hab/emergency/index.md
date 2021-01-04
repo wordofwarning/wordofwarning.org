@@ -18,15 +18,15 @@ season: "Emergency by hÅb"
 ---
 **Emergency** is our annual platform for live art + contemporary performance, showing around 30 short works over a day/evening in Manchester each autumn — the upcoming 21st edition takes place in its 7th home and is necessarily somewhat different…        
         
-**[Emergency 2020](/current/2020-emergency)** will be a socially-distanced live walkthrough event on a date to be confirmed at the brand new <a href="http://contactmcr.com" target="_blank">Contact</a> — so new that this will be the first sneak preview audiences get! Small, booked audiences will be guided on a one-way journey through the building in timed slots with an *estimated* audience journey time of 75 minutes, pausing en route in gallery fashion.        
+Originally [planned for November 2020](/archive/2020-emergency), our **[21st Emergency](/current/2021-emergency)** will be a socially-distanced live walkthrough event at the brand new <a href="http://contactmcr.com" target="_blank">Contact</a> on a date to be confirmed — small, booked audiences will be guided on a one-way journey through the building in timed slots with an *estimated* audience journey time of 75 minutes, pausing en route in gallery fashion.        
          
 Our <a href="http://emergencymcr.posthaven.com" target="_blank">**open call for proposals**</a> has now closed — we were looking for approximately 10 works to fit these conditions: durational, performance installation, looping + intervention-based live works that can run over a minimum period of 4 hours.      
         
-*N.B. we realised this wouldn't be for everyone as the ask was constrained by the current circumstances — but we really think we should give it a damn good go! This event is now **to be confirmed** due to <a href="http://gov.uk/guidance/new-national-restrictions-from-5-november" target="_blank">new November restrictions</a> — further information to follow.*         
+*N.B. we realised this wouldn't be for everyone as the ask was constrained by the current circumstances — but we really thought we should give it a damn good go! Shifting regulations mean a date for Spring 2021 is **to be confirmed***.         
         
 Have a look at 2019's [programme](/archive/2019-emergency)/[gallery of images](/galleries/2019-emergency) and 2018's [programme](/archive/2018-emergency)/[gallery](/galleries/2018-emergency).         
       
-[Emergency 2020](/current/2020-emergency) presented by [Word of Warning](/) + <a href="http://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.         
+[21st Emergency](/current/2021-emergency) presented by [Word of Warning](/) + <a href="http://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.         
 Enquiries: <mailto:emergency@habmcr.org> | <a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>
 
 <hr>         
@@ -37,4 +37,4 @@ Our [**inaugural StopGap**](/archive/2020-emergencystopgap) took place on **27 F
 [Emergency StopGap](/archive/2020-emergencystopgap) presented by [Word of Warning](/); produced by [hÅb](/hab); supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a>.        
 <a href="http://twitter.com/hashtag/EmergencyStopGap" target="_blank">#EmergencyStopGap</a>         
         
-<small>*Updated 1 November, 12noon*</small>
+<small>*Updated 4 January 2021, 8.15pm*</small>
