@@ -12,21 +12,21 @@ season: "Archived Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Updated 4 January, 4pm*<br><br>Below are Age Advisories/Limits + Content Warnings for past [Word of Warning](/) events — warnings for upcoming events are [here](/warnings).<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.        
+*Updated 4 January 2021, 4.55pm*<br><br>Below are Age Advisories/Limits + Content Warnings for past [Word of Warning](/) events — warnings for upcoming events are [here](/warnings).<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.        
 <hr>         
 #### 2020        
         
 ##### [7 Oct. Online | Domestic](/archive/2020-domestic/october)        
-Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, some included audience interaction, any specific warnings follow.<br>&nbsp;Ali Wilson — includes swearing and themes of grief & loss.         
+Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, some included audience interaction, specific warnings follow.<br>&nbsp;Ali Wilson — includes swearing and themes of grief & loss.         
         
 ##### [27 Sep. Hulme Community Garden Centre | Botanic](/archive/2020-autumnwinter/botanic)        
-Age Advisory: parental/guardian discretion.<br>Content Warnings: none.        
+Age Advisory: parental/guardian discretion.<br>No Content Warnings.        
          
 ##### [12 Aug. Online | Domestic](/archive/2020-domestic/august)        
-Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: please note that some works may disturb, specific warnings follow.<br>&nbsp;Andrew Neil Hayes — includes partial nudity.<br>&nbsp;Daniel & Clara — includes flashing imagery.<br>&nbsp;Dominique Savitri Baron-Bonarjee — none.<br>&nbsp;Kellie Colbert — deals with issues of social anxiety + panic attacks; includes popping of balloons.<br>&nbsp;melissandre varin — includes ingestion + references to eating disorders.<br>&nbsp;Niya B — none.<br>&nbsp;Sebastian H-W — includes partial nudity.
+Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, specific warnings follow.<br>&nbsp;Andrew Neil Hayes — includes partial nudity.<br>&nbsp;Daniel & Clara — includes flashing imagery.<br>&nbsp;Kellie Colbert — deals with issues of social anxiety + panic attacks; includes popping of balloons.<br>&nbsp;melissandre varin — includes ingestion + references to eating disorders.<br>&nbsp;Sebastian H-W — includes partial nudity.
         
 ##### [1 July. Online | Domestic](/archive/2020-domestic/july)        
-Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: please note that some works may disturb & some works include audience interaction, specific warnings follow.<br>&nbsp;Afreena Islam — includes satirical content, swearing.<br>&nbsp;Alex Bradley — none.<br>&nbsp;Cheryl Martin — includes mention of abuse, alcohlism, illness, suicide.<br>&nbsp;Emma Geraghty — none.<br>&nbsp;Levantes Dance Theatre — none.<br>&nbsp;Nathan Birkinshaw — includes nudity, a recording of defecation, taxidermy.        
+Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, some included audience interaction, specific warnings follow.<br>&nbsp;Afreena Islam — includes satirical content, swearing.<br>&nbsp;Cheryl Martin — includes mention of abuse, alcohlism, illness, suicide.<br>&nbsp;Nathan Birkinshaw — includes nudity, a recording of defecation, taxidermy.        
         
 ##### [22 May. Online | Works Ahead 2020 — Will Dickie's *White Sun*](/archive/2020-spring/dickie)       
 Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>&nbsp;*N.B. planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS on 21/22 May in partnership with Contact:<br>&nbsp;Will adapted his work for live streaming; Ross postponed sharing his work until it can be shown to a physical audience.*        
@@ -35,7 +35,7 @@ Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>&nbsp;
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes simulated gagging/retching.<br>&nbsp;*N.B. Rescheduled from 23+24 April in STUN Studio at Z-arts.*        
         
 ##### [1 April. The Lowry | *We Are Fucked* by Jo Bannon (CANCELLED)](/archive/2020-spring/bannon)       
-Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: none.       
+Age Advisory: 16+ (parental/guardian discretion).<br>No Content Warnings.       
          
 ##### [19—21 March. Royal Exchange Theatre | *IDOL* by Jamal Gerald (CANCELLED)](/archive/2020-spring/gerald)       
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes strong language, sexual references + full nudity; uses haze + flashing lights (*not strobe*). Please note that candles + joss sticks are lit throughout the show.        
