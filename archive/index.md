@@ -4,9 +4,11 @@ layout: archive
 season: "Archive"
 
 archived:
+    - {folder: "2020-autumnwinter", name: "Autumn/Winter 2020", class: "aw2020"}
+    - {folder: "2020-domestic", name: "Domestic 2020", class: "dom"}
     - {folder: "2020-summer", name: "Summer 2020", class: "sum2020"}
     - {folder: "2020-spring", name: "Spring 2020", class: "spr2020"}
-    - {folder: "2020-emergencystopgap", name: "Emergency StopGap (2020)", class: "esg2020"}
+    - {folder: "2020-emergencystopgap", name: "Emergency StopGap 2020", class: "esg2020"}
     - {folder: "2019-autumnwinter", name: "Autumn/Winter 2019", class: "aw2019"}
     - {folder: "2019-emergency", name: "Emergency 2019", class: "e2019"}
     - {folder: "2019-springsummer", name: "Spring/Summer 2019", class: "ss2019"}    
@@ -24,7 +26,7 @@ archived:
     - {folder: "2017-spring", name: "Spring 2017", class: "s2017"}
     - {folder: "2017-haphazard", name: "Haphazard 2017", class: "hh2017"}
     - {folder: "2016-autumnwinter", name: "Autumn/Winter 2016", class: "aw2016"}    
-    - {folder: "2016-divergency", name: "Divergency (2016)", class: "div"}    
+    - {folder: "2016-divergency", name: "Divergency 2016", class: "div"}    
     - {folder: "2016-emergency", name: "Emergency 2016", class: "e2016"}    
     - {folder: "2016-springsummer", name: "Spring/Summer 2016", class: "ss2016"}    
     - {folder: "2016-hazard", name: "Hazard 2016", class: "h2016"}    
@@ -34,7 +36,7 @@ archived:
     - {folder: "2016-haphazard", name: "Haphazard 2016", class: "hh2016"}
     - {folder: "2015-autumnwinter", name: "Autumn/Winter 2015", class: "aw2015"}
     - {folder: "2015-emergency", name: "Emergency 2015", class: "e2015"}
-    - {folder: "2015-domestic", name: "Domestic II (2015)", class: "d2015"}
+    - {folder: "2015-domestic", name: "Domestic 2015", class: "d2015"}
     - {folder: "2015-springsummer", name: "Spring/Summer 2015", class: "ss2015"}    
     - {folder: "2015-worksahead", name: "Works Ahead 2015", class: "woah"}    
     - {folder: "2015-spring", name: "Spring 2015", class: "s2015"}    
@@ -48,7 +50,7 @@ archived:
     - {folder: "2014-spring", name: "Spring 2014", class: "s2014"}
     - {folder: "2014-turn", name: "Turn 2014", class: "t2014"}    
     - {folder: "2013-autumnwinter", name: "Autumn/Winter 2013", class: "aw2013"}
-    - {folder: "2013-domestic", name: "Domestic (2013)", class: "dom"}
+    - {folder: "2013-domestic", name: "Domestic 2013", class: "dom"}
     - {folder: "2013-emergency", name: "Emergency 2013", class: "e2013"}
     - {folder: "2013-springsummer", name: "Spring/Summer 2013", class: "ss2013"}
     - {folder: "2013-worksahead", name: "Works Ahead 2013", class: "woah"}
