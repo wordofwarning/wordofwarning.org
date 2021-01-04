@@ -17,7 +17,7 @@ season: "Domestic 12|8|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/archive/2020-domestic/august/#artists) · [access](/archive/2020-domestic/august/#access) · [about](/archive/2020-domestic/august/#about) · [programme](/archive/2020-domestic/august/#programme) · [websites](/archive/2020-domestic/august/#websites)</span> · <small>*Updated 1 December 2020, 11.20am*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/archive/2020-domestic/august/#artists) · [access](/archive/2020-domestic/august/#access) · [about](/archive/2020-domestic/august/#about) · [programme](/archive/2020-domestic/august/#programme) · [websites](/archive/2020-domestic/august/#websites)</span> · <small>*Updated 4 January 2021, 4.45pm*</small>     
         
 *Presented by* Word of Warning        
          
@@ -58,7 +58,7 @@ Sebastian H-W · *SIRENX (bath-time with a mer-thing)*<br>&nbsp;An intimate audi
         
 Hosted by Peader Kirk.        
         
-Domestic (August 2020) produced by [hÅb](/hab).         
+[Domestic](/hab/domestic) (August 2020) produced by [hÅb](/hab).         
          
 #### Websites         
 <a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a><br><a href="http://andrewneilhayes.com" target="_blank">Andrew Neil Hayes</a><br><a href="http://daniel-clara.co.uk" target="_blank">Daniel & Clara</a> | <a href="http://twitter.com/DanielAndClara" target="_blank">@DanielAndClara</a><br><a href="http://dominiquebb.com" target="_blank">Dominique Savitri Baron-Bonarjee</a> | <a href="http://twitter.com/DominiqueBBee" target="_blank">@DominiqueBBee</a><br><a href="http://instagram.com/kellie.colbert.theatre" target="_blank">Kellie Colbert (insta)</a> | <a href="http://twitter.com/imKellieColbert" target="_blank">@imKellieColbert</a><br><a href="http://intersticies.com" target="_blank">melissandre varin</a><br><a href="http://www.niyab.com" target="_blank">Niya B</a> | <a href="http://twitter.com/Niya___B" target="_blank">@Niya___B</a><br><a href="http://instagram.com/sebastnhw" target="_blank">Sebastian H-W (insta)</a> | <a href="http://twitter.com/SebastnHW" target="_blank">@SebastnHW</a><br><a href="http://twitter.com/PeaderKirk" target="_blank">@PeaderKirk</a>               
