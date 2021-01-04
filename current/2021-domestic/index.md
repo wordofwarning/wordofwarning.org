@@ -17,7 +17,7 @@ season: "Domestic 13|1|2021, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 4 January 2021, 5.45pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 4 January 2021, 6.05pm*</small>     
         
 *Presented by* Word of Warning        
          
@@ -43,6 +43,6 @@ Hosted by Peader Kirk.
 [Domestic](/hab/domestic) (Jan 2021) produced by [hÅb](/hab).         
          
 #### Websites         
-<a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> · <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a><br><a href="http://twitter.com/PeaderKirk" target="_blank">@PeaderKirk</a>
-         
+<a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> · <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a>
+<br><a href="http://lydia-cottrell.com" target="_blank">Lydia Cottrell</a> · <a href="http://instagram.com/borkkvlt" target="_blank">Insta: borkkvlt</a> · <a href="http://twitter.com/LydiaBorkkvlt" target="_blank">@LydiaBorkkvlt</a><br><a href="http://contactmcr.com/news/adam-ali-and-miray-sidhom-new-seed-commissions" target="_blank">Miray Sidhom</a><br><a href="http://deadpig.org.uk/mitzee" target="_blank">Mitzee</a> · <a href="http://facebook.com/mitzeemorninwood" target="_blank">Facebook: mitzeemorninwood</a> · <a href="http://twitter.com/mitzeemw" target="_blank">@mitzeemw</a><br><a href="http://twitter.com/PeaderKirk" target="_blank">@PeaderKirk</a>             
 <small><span style='font-variant: small-caps'>[back to top](/current/2021-domestic)</span></small>
