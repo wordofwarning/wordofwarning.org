@@ -20,9 +20,9 @@ season: "Domestic by hÅb"
 <hr>         
 We're interested in what artists want to say right now — our <a href="http://domesticmcr.posthaven.com" target="_blank">**rolling open call for proposals**</a> seeks short (max 10 mins) live art and/or contemporary performance works that can be presented online, within an artist's available resources — *our next opportunity is likely an event in March 2021.*         
          
-[July 2020](/archive/2020-domestic/july)'s pilot featured six invited artists (<a href="http://youtu.be/IUNv7CARKLU" target="_blank">watch live stream</a>); [August](/archive/2020-domestic/august) featured seven works selected from our open call (<a href="http://youtu.be/AOT29ZTtZAA" target="_blank">watch live stream</a>); [October](/archive/2020-domestic)'s event featured eight selected works (live stream archive available soon); and [January 2021](/current/2021-domestic)'s upcoming event features seven selected works — all hosted by Peader Kirk.        
+[July 2020](/archive/2020-domestic/july)'s pilot featured six invited artists (<a href="http://youtu.be/IUNv7CARKLU" target="_blank">watch live stream</a>); [August](/archive/2020-domestic/august) featured seven works selected from our open call (<a href="http://youtu.be/AOT29ZTtZAA" target="_blank">watch live stream</a>); [October](/archive/2020-domestic/october)'s event featured eight selected works (live stream archive available soon); and [January 2021](/current/2021-domestic)'s upcoming event features seven selected works — all hosted by Peader Kirk.        
          
-Alongside live works, artists propose pre-recorded pieces that don't fit this format — so in December 2020 we introduced a new home for those works, **<a href="http://domesticatedonline.org" target="_blank">Domesticated</a>**, and our first houseguests are Beth Clayton, Freddie Watkins, Heather Bandenburg, Kellie Colbert & Deborah Newton, Mahboobeh Rajabi, Nicholas Tee, Oliver Ford, Sandra Bouguerch.        
+Alongside live works, artists propose pre-recorded pieces that don't fit this format — so in December 2020 we introduced **<a href="http://domesticatedonline.org" target="_blank">Domesticated</a>**, a new home for video performance whose first guests are Beth Clayton, Freddie Watkins, Heather Bandenburg, Kellie Colbert & Deborah Newton, Mahboobeh Rajabi, Nicholas Tee, Oliver Ford, Sandra Bouguerch.        
          
 [Domestic 2020](/archive/2020-domestic)/[21](/current/2021-domestic) series presented by [Word of Warning](/) + produced by [hÅb](/hab).         
 <a href="http://domesticatedonline.org" target="_blank">Domesticated</a> produced by [hÅb](/hab); website development + illustration by Ghost and John.       
@@ -37,4 +37,4 @@ In 2013/15/17 we presented Domestic works in tower blocks in transition — litt
         
 **In November 2017, [*Rent Party: Domestic Edition*](/archive/2017-autumnwinter/pritchard)** popped up next door in Salford's Adelphi Court during its refurb… Part show, part party, Darren Pritchard Dance's joyously defiant stand against growing up poor is a 21st century, austerity Britain, black, gay, immersive musical — for those just about managing. See the [image gallery](/galleries/2017-domestic). Thanks to our generous audiences we donated £574.65 & four crates of food to Salford Foodbank.        
         
-<small>*Updated 4 January 2021, 8.25pm*</small>
+<small>*Updated 4 January 2021, 8.35pm*</small>
