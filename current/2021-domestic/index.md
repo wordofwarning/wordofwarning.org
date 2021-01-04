@@ -7,7 +7,7 @@ rootpath: "../../"
 artist: "Domestic" # the name of the artist or company
 show: "New work, live from home." # the name of the show
 artist_size: 1
-show_size: 4
+show_size: 5
 header_image: "header_domestic.jpg"  
 season: "Domestic 13|1|2021, 8pm"
 
@@ -17,19 +17,19 @@ season: "Domestic 13|1|2021, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [programme](/current/2021-domestic/#programme) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 4 January 2021, 5.35pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 4 January 2021, 5.45pm*</small>     
         
 *Presented by* Word of Warning        
          
 What can you make when your kitchen table is the stage + your camera is the audience?<br>An assembly of artists; a collage of commentary on where we find ourselves now…         
          
 #### Artists       
-Alice Connolly · Avital Raz · Loïs Soleil · Lydia Cottrell · Miray Sidhom · Mitzee (performed by Mark Powell) · Voidance Company · hosted by Peader Kirk · <small>*Participating artists subject to change.*</small>       
+Alice Connolly · Avital Raz · Loïs Soleil · Lydia Cottrell · Miray Sidhom · Mitzee · Voidance Company · hosted by Peader Kirk · <small>*Participating artists subject to change.*</small>       
         
 Domestic is an informal online platform for artists to beta test new work, live from their homes — get a feel for it by watching [August](/archive/2020-domestic/august)'s <a href="http://youtu.be/AOT29ZTtZAA" target="_blank">live stream</a> and/or [July](/archive/2020-domestic/july)'s <a href="http://youtu.be/IUNv7CARKLU" target="_blank">live stream</a>.        
          
 #### Access            
-Time: Wednesday 13 January 2021, 8pm to *approximately* 9pm.<br>Location: live streamed online via Zoom webinar.<br>Ticketing: <a href="http://warnmcr.eventbrite.com" target="_blank">book a free space on eventbrite</a> to receive live stream details.<br>Donations are welcome via <a href="http://paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: **18+** (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Please note: to read live captions, we suggest you download <a href="http://otter.ai" target="_blank">Otter</a>;<br>&nbsp;&nbsp;to improve your listening experience we suggest using headphones/external speakers;<br>&nbsp;&nbsp;for specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
+Time: Wednesday 13 January 2021, 8pm to *approximately* 9pm.<br>Location: live streamed online via Zoom webinar.<br>Ticketing: <a href="http://warnmcr.eventbrite.com" target="_blank">book a free space on eventbrite</a> to receive live stream details.<br>Donations are welcome via <a href="http://paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: **18+** (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Please note: if you require live captioning, we suggest you download/use <a href="http://otter.ai/starter-guide?article=generateNotes" target="_blank">Otter</a>;<br>&nbsp;&nbsp;to improve your listening experience we suggest using headphones/external speakers;<br>&nbsp;&nbsp;for specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
           
 #### About         
 In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/2017-autumnwinter/pritchard) we presented Domestic works in tower blocks in transition — little did we know then, that in 2020 our homes would become our only stages and only auditoria…        
