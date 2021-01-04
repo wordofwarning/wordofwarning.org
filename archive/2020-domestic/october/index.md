@@ -17,7 +17,7 @@ season: "Domestic 7|10|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/archive/2020-domestic/october/#artists) · [access](/archive/2020-domestic/october/#access) · [about](/archive/2020-domestic/october/#about) · [programme](/archive/2020-domestic/october/#programme) · [websites](/archive/2020-domestic/october/#websites)</span> · <small>*Updated 30 November 2020, 3.20pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/archive/2020-domestic/october/#artists) · [access](/archive/2020-domestic/october/#access) · [about](/archive/2020-domestic/october/#about) · [programme](/archive/2020-domestic/october/#programme) · [websites](/archive/2020-domestic/october/#websites)</span> · <small>*Updated 4 January 2021, 4.50pm*</small>     
         
 *Presented by* Word of Warning        
          
