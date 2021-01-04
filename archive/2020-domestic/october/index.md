@@ -4,10 +4,10 @@ layout: 2020-autumnwinter
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Domestic<br>(Oct 2020)" # the name of the artist or company
+artist: "Domestic" # the name of the artist or company
 show: "New work, live from home." # the name of the show
 artist_size: 1
-show_size: 4
+show_size: 5
 header_image: "header_domestic.jpg"  
 season: "Domestic 7|10|2020, 8pm"
 
