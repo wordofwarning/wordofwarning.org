@@ -17,7 +17,7 @@ season: "Domestic 13|1|2021, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [programme](/current/2021-domestic/#programme) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 6 January 2021, 3.15pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [programme](/current/2021-domestic/#programme) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 6 January 2021, 3.25pm*</small>     
         
 *Presented by* Word of Warning        
          
@@ -47,9 +47,9 @@ Loïs Soleil · *In between the lines you are a poem*<br>&nbsp;A choir of selves
         
 Lydia Cottrell · *DOOMSDAY BOOKS*<br>&nbsp;Our future hangs in the balance sheets, it's accrual world and we can depreciate it together. Standing at the ledger the earth, let's get fiscal as we liquidate our assets. Account me out and calc-u-later. A performance that accounts for the end of the world, based on the Rapture Index and Religious Eschatology.           
         
-Miray Sidhom · *THE BREAD WE BREAK*<br>&nbsp;A journey through a landscape of sourdough hills and flour rain.<br>&nbsp;A hand leads the way from the forests of Oxfordshire to the streets of Cairo…<br>&nbsp;Weaving memories of a childhood in Egypt and frank conversations with her mother, Miray questions bread's cultural symbolism in religion and revolution.<br>&nbsp;Supported by <a href="http://contactmcr.com/news/adam-ali-and-miray-sidhom-new-seed-commissions" target="_blank">Contact</a> · Music: *Inshad* by Soliman Gamil          
+Miray Sidhom · *THE BREAD WE BREAK*<br>&nbsp;A journey through a landscape of sourdough hills and flour rain.<br>&nbsp;A hand leads the way from the forests of Oxfordshire to the streets of Cairo… Weaving memories of a childhood in Egypt and frank conversations with her mother, Miray questions bread's cultural symbolism in religion and revolution.<br>&nbsp;Supported by <a href="http://contactmcr.com/news/adam-ali-and-miray-sidhom-new-seed-commissions" target="_blank">Contact</a> · Music: *Inshad* by Soliman Gamil          
         
-Mitzee · *The ARTIST*<br>&nbsp;A comment on Transformation, posing questions around the Queer body and ideas around beauty.<br>&nbsp;"*I see myself as an Artist. My body as the canvas and my life experiences as the paint.*"<br>&nbsp;Witness, for the first time, the transformation of a Male to Mitzee — getting ready for a performance that is never going to happen.<br>&nbsp;Performed by Mark Powell · Sound by Murray Jamieson        
+Mitzee · *The ARTIST*<br>&nbsp;A comment on Transformation, posing questions around the Queer body and ideas around beauty.<br>&nbsp;“*I see myself as an Artist. My body as the canvas and my life experiences as the paint.*”<br>&nbsp;Witness, for the first time, the transformation of a Male to Mitzee — getting ready for a performance that is never going to happen.<br>&nbsp;Performed by Mark Powell · Sound by Murray Jamieson        
         
 Voidance Company · *Underneath the frying pan…*<br>&nbsp;Slowly but surely the rage builds up, coconut rum or baileys, knife or fork, saucepan or plate… Confused, demented, wandering round and round finding any answers by not sitting down or waiting for Ken to arrive.<br>&nbsp;Performed by Julia Griffin · Music: *In C - Extension (Jack Dangers Remix)* by Bill Ryan & Grand Valley State University New Music Ensemble        
 
