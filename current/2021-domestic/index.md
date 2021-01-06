@@ -17,14 +17,14 @@ season: "Domestic 13|1|2021, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 6 January 2021, 1.15pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 6 January 2021, 2.10pm*</small>     
         
 *Presented by* Word of Warning        
          
 What can you make when your kitchen table is the stage + your camera is the audience?<br>An assembly of artists; a collage of commentary on where we find ourselves now…         
          
 #### Artists       
-Alice Connolly · Avital Raz · Loïs Soleil · Lydia Cottrell · Miray Sidhom · Mitzee (performed by Mark Powell) · Voidance Company · hosted by Peader Kirk · *Participating artists subject to change.*       
+Alice Connolly · Avital Raz · Loïs Soleil · Lydia Cottrell · Miray Sidhom · Mitzee · Voidance Company · hosted by Peader Kirk · <small>*Participating artists subject to change.*</small>       
         
 Domestic is an informal online platform for artists to beta test new work, live from their homes — get a feel for it by watching [August](/archive/2020-domestic/august)'s <a href="http://youtu.be/AOT29ZTtZAA" target="_blank">live stream</a> and/or [July](/archive/2020-domestic/july)'s <a href="http://youtu.be/IUNv7CARKLU" target="_blank">live stream</a>.        
          
