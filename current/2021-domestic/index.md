@@ -17,7 +17,7 @@ season: "Domestic 13|1|2021, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [programme](/current/2021-domestic/#programme) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 6 January 2021, 3.10pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [programme](/current/2021-domestic/#programme) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 6 January 2021, 3.15pm*</small>     
         
 *Presented by* Word of Warning        
          
@@ -40,12 +40,18 @@ Join us on 13 January for our fourth set of "artists at home" — selected from 
          
 #### Programme                  
 Alice Connolly · *Hugs in My Pockets*<br>&nbsp;Locked-down in her house, where hugs no longer exist in the way they used to, Alice creates a new kind of hug for herself and the loved ones of all those watching.          
+         
 Avital Raz · *A Woman's Voice Is Her Nakedness*<br>&nbsp;'A Woman's Voice is her Nakedness', some Rabbi said in the 10th century — and that caused millions of women to shut up. Avital explores the effect of male teachings about women on women, and endeavours through distortion to find a woman's voice.        
-Loïs Soleil · *In between the lines you are a poem*<br>&nbsp;A choir of selves recites a love poem in this interactive self-portrait by artist and poet Loïs Soleil.<br>&nbsp;Here, language is not just a tool to express ourselves with, but a medium in and of itself.       
-Lydia Cottrell · *DOOMSDAY BOOKS*<br>&nbsp;Our future hangs in the balance sheets, it's accrual world and we can depreciate it together. Standing at the ledger the earth, let's get fiscal as we liquidate our assets. Account me out and calc-u-later.<br>&nbsp;A performance that accounts for the end of the world, based on the Rapture Index and Religious Eschatology.           
-Miray Sidhom · *THE BREAD WE BREAK*<br>&nbsp;A journey through a landscape of sourdough hills and flour rain. A hand leads the way from the forests of Oxfordshire to the streets of Cairo.<br>&nbsp;Weaving memories of a childhood in Egypt and frank conversations with her mother, Miray questions bread's cultural symbolism in religion and revolution.<br>&nbsp;Supported by <a href="http://contactmcr.com/news/adam-ali-and-miray-sidhom-new-seed-commissions" target="_blank">Contact</a> · Music: *Inshad* by Soliman Gamil          
-Mitzee · *The ARTIST*<br>&nbsp;A comment on Transformation, posing questions around the Queer body and ideas around beauty.<br>&nbsp;“I see myself as an Artist. My body as the canvas and my life experiences as the paint.”<br>&nbsp;Witness, for the first time, the transformation of a Male to Mitzee — getting ready for a performance that is never going to happen.<br>&nbsp;Performed by Mark Powell · Sound by Murray Jamieson        
-Voidance Company · *Underneath the frying pan…*<br>&nbsp;Slowly but surely the rage builds up, coconut rum or baileys, knife or fork, saucepan or plate…<br>&nbsp;Confused, demented, wandering round and round finding any answers by not sitting down or waiting for Ken to arrive.<br>&nbsp;Performed by Julia Griffin · Music: In C - Extension (Jack Dangers Remix) by Bill Ryan & Grand Valley State University New Music Ensemble        
+        
+Loïs Soleil · *In between the lines you are a poem*<br>&nbsp;A choir of selves recites a love poem in this interactive self-portrait by artist and poet Loïs Soleil. Here, language is not just a tool to express ourselves with, but a medium in and of itself.       
+        
+Lydia Cottrell · *DOOMSDAY BOOKS*<br>&nbsp;Our future hangs in the balance sheets, it's accrual world and we can depreciate it together. Standing at the ledger the earth, let's get fiscal as we liquidate our assets. Account me out and calc-u-later. A performance that accounts for the end of the world, based on the Rapture Index and Religious Eschatology.           
+        
+Miray Sidhom · *THE BREAD WE BREAK*<br>&nbsp;A journey through a landscape of sourdough hills and flour rain.<br>&nbsp;A hand leads the way from the forests of Oxfordshire to the streets of Cairo…<br>&nbsp;Weaving memories of a childhood in Egypt and frank conversations with her mother, Miray questions bread's cultural symbolism in religion and revolution.<br>&nbsp;Supported by <a href="http://contactmcr.com/news/adam-ali-and-miray-sidhom-new-seed-commissions" target="_blank">Contact</a> · Music: *Inshad* by Soliman Gamil          
+        
+Mitzee · *The ARTIST*<br>&nbsp;A comment on Transformation, posing questions around the Queer body and ideas around beauty.<br>&nbsp;"*I see myself as an Artist. My body as the canvas and my life experiences as the paint.*"<br>&nbsp;Witness, for the first time, the transformation of a Male to Mitzee — getting ready for a performance that is never going to happen.<br>&nbsp;Performed by Mark Powell · Sound by Murray Jamieson        
+        
+Voidance Company · *Underneath the frying pan…*<br>&nbsp;Slowly but surely the rage builds up, coconut rum or baileys, knife or fork, saucepan or plate… Confused, demented, wandering round and round finding any answers by not sitting down or waiting for Ken to arrive.<br>&nbsp;Performed by Julia Griffin · Music: *In C - Extension (Jack Dangers Remix)* by Bill Ryan & Grand Valley State University New Music Ensemble        
 
 [Domestic](/hab/domestic) (Jan 2021) produced by [hÅb](/hab) and hosted by Peader Kirk.        
         
