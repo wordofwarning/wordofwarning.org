@@ -18,8 +18,7 @@ Upcoming artist opportunities from hÅb are published below when we have them; y
 • <a href="http://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=LIVEART" target="_blank">LIVEART from JISCmail</a>         
 • <a href="http://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=SCUDD" target="_blank">SCUDD (Standing Conference of University Drama Departments) from JISCmail</a>
          
-         
 #### Upcoming Opportunities        
-To participate in a future [online Domestic](/hab/domestic), please see our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for artist's proposals</a>.        
-        
-<small>*Updated 20 November, 12.05pm*</small>
+To participate in a future [online Domestic](/hab/domestic), please see our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for artist's proposals</a> — *our next opportunity is likely to be an event in March 2021*.        
+We support Greater Manchester's Independent Artist Initiative 21, <a href="http://habmcr.posthaven.com/independent-artist-initiative-2021-call-for-artist-advisors-paid-role" target="_blank">seeking four paid Artist Advisors</a> to help support the GM creative community develop & showcase new work later this year (deadline Friday 15 January).        
+<small>*Updated 11 January 2021, 10.25am*</small>
