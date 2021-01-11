@@ -36,7 +36,9 @@ In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/201
         
 And so we began a series of ["Domestic at homes"](/archive/2020-domestic), with artists trying out new works about what was on their minds — using whatever resources they had to hand.       
         
-Join us on 13 January for our fourth set of "artists at home" — selected from our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for proposals</a>. Real lives, real stories, real homes.         
+Join us on 13 January for our fourth set of "artists at home" — selected from our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for proposals</a>. Real lives, real stories, real homes.          
+        
+Domestic (Jan 2021) is one of Manchester Wire's <a href="http://manchesterwire.co.uk/guide/https-manchesterwire-co-uk-guide-free-things-to-do-at-home-this-week-manchester-camerata-home/" target="_blank">Free things to do this week</a>.         
          
 #### Programme                  
 Alice Connolly · *Hugs in My Pockets*<br>&nbsp;Locked-down in her house, where hugs no longer exist in the way they used to, Alice creates a new kind of hug for herself and the loved ones of all those watching.          
