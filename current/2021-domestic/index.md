@@ -17,7 +17,7 @@ season: "Domestic 13|1|2021, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [programme](/current/2021-domestic/#programme) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 12 January 2021, 10pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [programme](/current/2021-domestic/#programme) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 12 January 2021, 10.05pm*</small>     
         
 *Presented by* Word of Warning        
          
@@ -51,7 +51,7 @@ Lydia Cottrell · *DOOMSDAY BOOKS*<br>&nbsp;Our future hangs in the balance shee
         
 Miray Sidhom · *THE BREAD WE BREAK*<br>&nbsp;A journey through a landscape of sourdough hills and flour rain.<br>&nbsp;A hand leads the way from the forests of Oxfordshire to the streets of Cairo… Weaving memories of a childhood in Egypt and frank conversations with her mother, Miray questions bread's cultural symbolism in religion and revolution.<br>&nbsp;<a href="http://contactmcr.com/news/adam-ali-and-miray-sidhom-new-seed-commissions" target="_blank">Commissioned by Contact</a> · Music: *Inshad* by Soliman Gamil          
         
-Mitzee · *The ARTIST*<br>&nbsp;A comment on Transformation, posing questions around the Queer body and ideas around beauty.<br>&nbsp;“*I see myself as an Artist. My body as the canvas and my life experiences as the paint.*”<br>&nbsp;Witness, for the first time, the transformation of a Male to Mitzee — getting ready for a performance that is never going to happen.<br>&nbsp;Performed by Mark Powell · Sound scape by Murray Jamieson, featuring vocal samples from Lady Gaga (Paparazzi, Fame) & David Bowie (Fame)         
+Mitzee · *The ARTIST*<br>&nbsp;A comment on Transformation, posing questions around the Queer body and ideas around beauty.<br>&nbsp;“*I see myself as an Artist. My body as the canvas and my life experiences as the paint.*”<br>&nbsp;Witness, for the first time, the transformation of a Male to Mitzee — getting ready for a performance that is never going to happen.<br>&nbsp;Performed by Mark Powell · Sound scape by Murray Jamieson, featuring vocal samples from Lady Gaga (*Paparazzi, Fame*) & David Bowie (*Fame*)         
         
 Voidance Company · *Underneath the frying pan…*<br>&nbsp;Slowly but surely the rage builds up, coconut rum or baileys, knife or fork, saucepan or plate… Confused, demented, wandering round and round, finding NO answers by NOT sitting down OR STANDING UP……waiting for Ken.<br>&nbsp;Performed by Julia Griffin · Music: *In C - Extension (Simple Mix David Lang Remix)* by Bill Ryan & Grand Valley State University New Music Ensemble        
 
