@@ -17,11 +17,12 @@ season: "Domestic 13|1|2021, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [programme](/current/2021-domestic/#programme) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 12 January 2021, 10.05pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [programme](/current/2021-domestic/#programme) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 26 January 2021, 12.15pm*</small>     
         
 *Presented by* Word of Warning        
          
-What can you make when your kitchen table is the stage + your camera is the audience?<br>An assembly of artists; a collage of commentary on where we find ourselves now…         
+What can you make when your kitchen table is the stage + your camera is the audience?<br>An assembly of artists; a collage of commentary on where we find ourselves now…<br>Now that it's over, re-watch the (edited) live stream on YouTube below.        
+<iframe src="http://youtube.com/embed/VsDRVALM2Ao" width="640" height="360" frameborder="0" allowfullscreen></iframe>                          
          
 #### Artists       
 Alice Connolly · Avital Raz · Loïs Soleil · Lydia Cottrell · Miray Sidhom · Mitzee · Voidance Company · hosted by Peader Kirk · <small>*Participating artists subject to change.*</small>       
@@ -54,8 +55,10 @@ Miray Sidhom · *THE BREAD WE BREAK*<br>&nbsp;A journey through a landscape of s
 Mitzee · *The ARTIST*<br>&nbsp;A comment on Transformation, posing questions around the Queer body and ideas around beauty.<br>&nbsp;“*I see myself as an Artist. My body as the canvas and my life experiences as the paint.*”<br>&nbsp;Witness, for the first time, the transformation of a Male to Mitzee — getting ready for a performance that is never going to happen.<br>&nbsp;Performed by Mark Powell · Sound scape by Murray Jamieson, featuring vocal samples from Lady Gaga (*Paparazzi, Fame*) & David Bowie (*Fame*)         
         
 Voidance Company · *Underneath the frying pan…*<br>&nbsp;Slowly but surely the rage builds up, coconut rum or baileys, knife or fork, saucepan or plate… Confused, demented, wandering round and round, finding NO answers by NOT sitting down OR STANDING UP……waiting for Ken.<br>&nbsp;Performed by Julia Griffin · Music: *In C - Extension (Simple Mix David Lang Remix)* by Bill Ryan & Grand Valley State University New Music Ensemble        
-
-[Domestic](/hab/domestic) (Jan 2021) produced by [hÅb](/hab) and hosted by Peader Kirk.        
+        
+Hosted by Peader Kirk.        
+        
+[Domestic](/hab/domestic) (Jan 2021) produced by [hÅb](/hab).        
         
 #### Websites         
 <a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> · <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a><br><a href="http://instagram.com/alice_connolly1" target="_blank">Insta: alice_connolly1</a> · <a href="http://twitter.com/alice_connolly1" target="_blank">@alice_connolly1</a><br><a href="http://avitalraz.com" target="_blank">Avital Raz</a> · <a href="http://facebook.com/avitalrazmusic" target="_blank">Facebook: avitalrazmusic</a> · <a href="http://twitter.com/avitalraz" target="_blank">@avitalraz</a><br><a href="http://lolososo.hotglue.me" target="_blank">Loïs Soleil</a> · <a href="http://instagram.com/loissoleil" target="_blank">Insta: loissoleil</a><br><a href="http://lydia-cottrell.com" target="_blank">Lydia Cottrell</a> · <a href="http://instagram.com/borkkvlt" target="_blank">Insta: borkkvlt</a> · <a href="http://twitter.com/LydiaBorkkvlt" target="_blank">@LydiaBorkkvlt</a><br><a href="http://contactmcr.com/news/adam-ali-and-miray-sidhom-new-seed-commissions" target="_blank">Miray Sidhom</a><br><a href="http://deadpig.org.uk/mitzee" target="_blank">Mitzee</a> · <a href="http://facebook.com/mitzeemorninwood" target="_blank">Facebook: mitzeemorninwood</a> · <a href="http://twitter.com/mitzeemw" target="_blank">@mitzeemw</a><br><a href="http://griffindance.wixsite.com/grebo" target="_blank">Voidance Company</a> · <a href="http://twitter.com/griffindance" target="_blank">@griffindance</a><br><a href="http://twitter.com/PeaderKirk" target="_blank">@PeaderKirk</a>             
