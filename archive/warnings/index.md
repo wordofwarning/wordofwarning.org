@@ -12,8 +12,14 @@ season: "Archived Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Updated 4 January 2021, 4.55pm*<br><br>Below are Age Advisories/Limits + Content Warnings for past [Word of Warning](/) events — warnings for upcoming events are [here](/warnings).<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.        
+*Updated 26 January 2021, 1.10pm*<br><br>Below are Age Advisories/Limits + Content Warnings for past [Word of Warning](/) events, including live stream archives on our YouTube channel — warnings for upcoming events are [here](/warnings).<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.        
 <hr>         
+#### 2021        
+        
+##### [13 Jan. Online | Domestic](/current/2021-domestic)        
+Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, some included audience interaction, specific warnings follow.<br>&nbsp;Avital Raz — mentions of rape and miscarriage.<br>&nbsp;Lydia Cottrell — discussion of potentially sensitive and complex topics.<br>&nbsp;Mitzee — includes flashing imagery.        
+        
+<hr>          
 #### 2020        
         
 ##### [7 Oct. Online | Domestic](/archive/2020-domestic/october)        
@@ -25,7 +31,7 @@ Age Advisory: parental/guardian discretion.<br>No Content Warnings.
 ##### [12 Aug. Online | Domestic](/archive/2020-domestic/august)        
 Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, specific warnings follow.<br>&nbsp;Andrew Neil Hayes — includes partial nudity.<br>&nbsp;Daniel & Clara — includes flashing imagery.<br>&nbsp;Kellie Colbert — deals with issues of social anxiety + panic attacks; includes popping of balloons.<br>&nbsp;melissandre varin — includes ingestion + references to eating disorders.<br>&nbsp;Sebastian H-W — includes partial nudity.
         
-##### [1 July. Online | Domestic](/archive/2020-domestic/july)        
+##### [1 Jul. Online | Domestic](/archive/2020-domestic/july)        
 Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, some included audience interaction, specific warnings follow.<br>&nbsp;Afreena Islam — includes satirical content, swearing.<br>&nbsp;Cheryl Martin — includes mention of abuse, alcohlism, illness, suicide.<br>&nbsp;Nathan Birkinshaw — includes nudity, a recording of defecation, taxidermy.        
         
 ##### [22 May. Online | Works Ahead 2020 — Will Dickie's *White Sun*](/archive/2020-spring/dickie)       
@@ -34,10 +40,10 @@ Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>&nbsp;
 ##### [1 May. Online | *OREO: variations* by Tania Camara](/archive/2020-spring/camara)        
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes simulated gagging/retching.<br>&nbsp;*N.B. Rescheduled from 23+24 April in STUN Studio at Z-arts.*        
         
-##### [1 April. The Lowry | *We Are Fucked* by Jo Bannon (CANCELLED)](/archive/2020-spring/bannon)       
+##### [1 Apr. The Lowry | *We Are Fucked* by Jo Bannon (CANCELLED)](/archive/2020-spring/bannon)       
 Age Advisory: 16+ (parental/guardian discretion).<br>No Content Warnings.       
          
-##### [19—21 March. Royal Exchange Theatre | *IDOL* by Jamal Gerald (CANCELLED)](/archive/2020-spring/gerald)       
+##### [19—21 Mar. Royal Exchange Theatre | *IDOL* by Jamal Gerald (CANCELLED)](/archive/2020-spring/gerald)       
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes strong language, sexual references + full nudity; uses haze + flashing lights (*not strobe*). Please note that candles + joss sticks are lit throughout the show.        
           
 ##### [27 Feb. NIAMOS | Emergency StopGap](/archive/2020-emergencystopgap)        
@@ -46,7 +52,9 @@ Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Con
 ##### [12 Feb. The Lowry | *Sex Education* by Harry Clayton-Wright](/archive/2020-spring/clayton-wright)
 **Age Limit: strictly 18+**<br>Content Warnings: includes themes that some people may find distressing, nudity + explicit sexual content.        
 <hr>          
+          
 #### 2019        
+        
 ##### [6 Nov. The Lowry | *I Promise You That Tonight* by Tom Cassani](/archive/2019-autumnwinter/cassani)          
 Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: includes mentions of death + description of drowning. During the show, the performer:<br>&nbsp;• talks about being close to death and nearly dying;<br>&nbsp;• describes what it might feel like to drown;<br>&nbsp;• describes a mechanism used in water boarding torture;<br>&nbsp;• mentions a person bursting into flames;<br>&nbsp;• walks bare foot on broken glass, places his face on the broken glass, and pushes it into the glass;<br>&nbsp;• does not cut himself, and no wounds are made to his body;<br>&nbsp;• does not intend to harm himself during any of these actions.<br>A loud drone sound is used multiple times during the show.           
          
