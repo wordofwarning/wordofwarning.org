@@ -17,11 +17,12 @@ season: "Domestic 7|10|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/archive/2020-domestic/october/#artists) · [access](/archive/2020-domestic/october/#access) · [about](/archive/2020-domestic/october/#about) · [programme](/archive/2020-domestic/october/#programme) · [websites](/archive/2020-domestic/october/#websites)</span> · <small>*Updated 4 January 2021, 4.50pm*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/archive/2020-domestic/october/#artists) · [access](/archive/2020-domestic/october/#access) · [about](/archive/2020-domestic/october/#about) · [programme](/archive/2020-domestic/october/#programme) · [websites](/archive/2020-domestic/october/#websites)</span> · <small>*Updated 26 January 2021, 12.10pm*</small>     
         
 *Presented by* Word of Warning        
          
-What can you make when your kitchen table is the stage + your camera is the audience?<br>An assembly of artists; a collage of commentary on where we find ourselves now…         
+What can you make when your kitchen table is the stage + your camera is the audience?<br>An assembly of artists; a collage of commentary on where we find ourselves now…<br>Now that it's over, re-watch the (edited) live stream on YouTube below.        
+<iframe src="http://youtube.com/embed/seg57Z8-mfk" width="640" height="360" frameborder="0" allowfullscreen></iframe>                 
          
 #### Artists       
 Ali Wilson · Elly Rutherford & Fanis Sakellariou · Helena Ascough · Jane Munro · Madame Zucchini · Maryam Hashemi · Pinchbeck & Smith · Victoria Firth<br>Hosted by Peader Kirk.        
@@ -55,9 +56,11 @@ Maryam Hashemi · *A summoning*<br>&nbsp;Layer by layer in her den she unwinds a
         
 Pinchbeck & Smith · *At the edge of the world*<br>&nbsp;Two artists. 24 miles apart. 24 days. 24 photos. 24 texts.<br>&nbsp;A eulogy to lost lives, lost time, and lost contact.<br>&nbsp;Inspired by *<a href="http://books.google.co.uk/books?id=2FfNFBj3_w4C " target="_blank">At the Edge of the World</a>* by Jean Mohr & John Berger.<br>&nbsp;Music by Chris Cousin · Visuals by Adam York Gregory         
         
-Victoria Firth · *Performance Meditations for the Touch Starved — Part 1*<br>&nbsp;An opportunity to join Victoria in a ritual act of holding one's own hand.<br>&nbsp;A literal and metaphorical response to our need for contact and intimacy during times of social separation and vulnerability.<br>&nbsp;Music from <a href="http://www.bensound.com/royalty-free-music/track/love" target="_blank">www.bensound.com</a>       
+Victoria Firth · *Performance Meditations for the Touch Starved — Part 1*<br>&nbsp;An opportunity to join Victoria in a ritual act of holding one's own hand.<br>&nbsp;A literal and metaphorical response to our need for contact and intimacy during times of social separation and vulnerability.<br>&nbsp;Music from <a href="http://www.bensound.com/royalty-free-music/track/love" target="_blank">www.bensound.com</a>          
         
-[Domestic](/hab/domestic) (Oct 2020) produced by [hÅb](/hab) and hosted by Peader Kirk.         
+Hosted by Peader Kirk.        
+        
+[Domestic](/hab/domestic) (Oct 2020) produced by [hÅb](/hab).         
          
 #### Websites         
 <a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> · <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a><br><a href="http://awilson945.wixsite.com/aliwilson" target="_blank">awilson945.wixsite.com/aliwilson</a> · <a href="http://twitter.com/aliwil267" target="_blank">@AliWil267</a><br><a href="http://www.ellyrutherford.com" target="_blank">www.ellyrutherford.com</a> · <a href="http://www.fanissakellariou.com" target="_blank">www.fanissakellariou.com</a><br><a href="http://facebook.com/HelenaLouiseAscough" target="_blank">Facebook: Helena Ascough</a> · <a href="http://twitter.com/Helena_Ascough" target="_blank">@Helena_Ascough</a><br><a href="http://www.janemunro.co.uk" target="_blank">www.janemunro.co.uk</a> · <a href="http://twitter.com/janemunroDANCE" target="_blank">@JaneMunroDANCE</a><br><a href="http://www.madamezucchini.co.uk" target="_blank">www.madamezucchini.co.uk</a> · <a href="http://facebook.com/TheMadameZucchini" target="_blank">Facebook: Madame Zucchini</a> · <a href="http://twitter.com/MadameZucchini" target="_blank">@MadameZucchini</a><br><a href="http://www.maryamhashemi.com" target="_blank">www.maryamhashemi.com</a> · <a href="http://facebook.com/marhashem" target="_blank">Facebook: Maryam Hashemi's art</a><br><a href="http://www.michaelpinchbeck.co.uk" target="_blank">www.michaelpinchbeck.co.uk</a> · <a href="http://facebook.com/mdpinchbeck" target="_blank">Facebook: Michael Pinchbeck</a> · <a href="http://twitter.com/PinchbeckSmith" target="_blank">@PinchbeckSmith</a><br><a href="http://www.victoriafirth.co.uk" target="_blank">www.victoriafirth.co.uk</a> · <a href="http://facebook.com/msvictoriafirth" target="_blank">Facebook: Victoria Firth</a> · <a href="http://twitter.com/msvhf" target="_blank">@msvhf</a><br><a href="http://twitter.com/PeaderKirk" target="_blank">@PeaderKirk</a>
