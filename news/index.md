@@ -12,7 +12,7 @@ season: "News"
 # show_size: 1 # optional - size 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Updated 26 January 2021, 1.25pm*<br><span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) ~ [artists](/news/#artists) · [gm artist hub](/news/#gmartisthub) · [support](/news/#support)</span>        
+*Updated 3 February 2021, 10.30am*<br><span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) ~ [artists](/news/#artists) · [gm artist hub](/news/#gmartisthub) · [support](/news/#support)</span>        
 <hr>          
 #### Audiences         
 Visit <a href="http://domesticatedonline.org" target="_blank">Domesticated</a> to discover eight works in our new home for video performance, and re-watch recent live streamed events on <a href="http://bit.ly/YTwarnmcr" target="_blank">our YouTube channel</a>, including <a href="http://youtu.be/VsDRVALM2Ao" target="_blank">January's Domestic live stream</a>. We hope to present our fifth online [Domestic](/hab/domestic) during March, and our [21st Emergency](/current/2021-emergency) will take place at Contact when regulations allow.<br><br>**Find other things to see or do online in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>, complemented by the following list of websites:**            
@@ -61,8 +61,9 @@ Visit <a href="http://domesticatedonline.org" target="_blank">Domesticated</a> t
 • Live Art Development Agency's <a href="http://www.thisisliveart.co.uk/opportunities" target="_blank">Opportunities page</a>.         
 • <a href="http://livestreamarchive.co.uk/resources" target="_blank">Live Stream Archive</a> + <a href="http://www.facebook.com/groups/livestreamingarts" target="_blank">Live Streaming Arts Facebook group</a> — expertise, information + advice on how to share live performance with, and connect to, audiences online.         
 • <a href="http://livestreamarchive.co.uk/contact" target="_blank">Live Stream Archive</a> — you can also share a recording of a performance to add to their temporary digital archive.        
-• Manchester International Festival's <a href="http://mif.co.uk/resources-for-freelance-creatives/" target="_blank">Resources For Artists + Freelancers page</a>.        
-• MIF's <a href="http://mif.co.uk/mif-drop-in-artists-freelance-creatives" target="_blank">Zoom drop in for artists + freelance creatives on Thursdays at 2pm </a> — you can also <a href="http://www.facebook.com/groups/mifartistfreelancedropin" target="_blank">join their facebook group</a>.        
+• Manchester's <a href="https://secure.manchester.gov.uk/info/500362/covid-19/8121/cultural_hardship_fund_for_freelancers" target="_blank">Cultural Hardship Fund for Freelancers</a> from the Savannah Wisdom Foundation working with HOME + Mcr City Council.          
+• Manchester International Festival's <a href="http://mif.co.uk/resources-for-freelance-creatives" target="_blank">Resources For Artists + Freelancers page</a>.        
+• MIF's <a href="http://mif.co.uk/mif-drop-in-artists-freelance-creatives" target="_blank">Zoom drop-in for artists + freelance creatives</a> — you can also <a href="http://www.facebook.com/groups/mifartistfreelancedropin" target="_blank">join their facebook group</a>.        
 • Money Saving Expert — <a href="http://www.moneysavingexpert.com/news" target="_blank">Martin Lewis & his team</a> have lots of useful information (regular updates).           
 • Paul Lewis Money's <a href="http://paullewismoney.blogspot.com/2020/03/self-employed-coronavirus-scheme.html" target="_blank">blog on the coronavirus Self-employment Income Scheme (regular updates)</a>.        
 • Shape Arts' <a href="http://twitter.com/ShapeArts/status/1239591227005251590" target="_blank"> twitter thread with resources for people working in the arts</a>.          
