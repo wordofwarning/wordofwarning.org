@@ -12,7 +12,7 @@ season: "News"
 # show_size: 1 # optional - size 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Updated 3 February 2021, 10.30am*<br><span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) ~ [artists](/news/#artists) · [gm artist hub](/news/#gmartisthub) · [support](/news/#support)</span>        
+*Updated 9 February 2021, 12.20pm*<br><span style='font-variant: small-caps'>jump to → [things to watch](/news/#audiences) ~ [artists](/news/#artists) · [gm artist hub](/news/#gmartisthub) · [support](/news/#support)</span>        
 <hr>          
 #### Audiences         
 Visit <a href="http://domesticatedonline.org" target="_blank">Domesticated</a> to discover eight works in our new home for video performance, and re-watch recent live streamed events on <a href="http://bit.ly/YTwarnmcr" target="_blank">our YouTube channel</a>, including <a href="http://youtu.be/VsDRVALM2Ao" target="_blank">January's Domestic live stream</a>. We hope to present our fifth online [Domestic](/hab/domestic) during March, and our [21st Emergency](/current/2021-emergency) will take place at Contact when regulations allow.<br><br>**Find other things to see or do online in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>, complemented by the following list of websites:**            
@@ -38,14 +38,14 @@ Visit <a href="http://domesticatedonline.org" target="_blank">Domesticated</a> t
 <span style='font-variant: small-caps'>[back to top](/news)</span>        
 <hr>          
 #### Artists         
-[hÅb](/hab) remains "open for business" and we continue to advise/support artists + freelancers in our sector where we can, signposting help and opportunities below.<br>• To participate in a future [Domestic](/hab/domestic), please see our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for artist's proposals</a> — *our next event is in March 2021 (date tbc)*.          
+[hÅb](/hab) remains "open for business" and we continue to advise/support artists + freelancers in our sector where we can, signposting help and opportunities below.<br>• To participate in a future [Domestic](/hab/domestic), please see our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for artist's proposals</a> — *our next event is planned for Wed 10 March 2021, with probably another in April*.          
 <span style='font-variant: small-caps'>[back to top](/news)</span>         
 ##### GMArtistHub        
 <a href="http://gm-artisthub.co.uk" target="_blank">Greater Manchester Artist Hub</a> is a joint artist development project to support independent artists + freelance creatives across our city region.<br>• GMAH offers free, 30 minute <a href="http://gm-artisthub.co.uk/advisory-sessions" target="_blank">Advisory Sessions</a> for you to talk through creative ideas, get some advice, or simply develop your network… <a href="http://app.squarespacescheduling.com/schedule.php?owner=19370486&appointmentType=13786606" target="_blank">Sign-up here</a> for a Zoom chat.<br>*[hÅb](/hab)/[Word of Warning](/) are GMAH partners alongside Community Arts Northwest, Contact, HOME, Manchester International Festival, Octagon Theatre Bolton, Oldham Coliseum Theatre, Royal Exchange Theatre, SICK! Festival, Sustained Theatre Up North, The Lowry, Waterside Arts & Creative Industries Trafford, Z-arts.*        
 <span style='font-variant: small-caps'>[back to top](/news)</span>        
 ##### Support         
 • Arts Council England's <a href="http://artscouncil.org.uk/covid-19" target="_blank">Covid-19 support page</a> includes advice/guidance on funds that government + other organisations have put in place, and other support.          
-• Arts Council England's <a href="http://artscouncil.org.uk/DYCP" target="_blank">Developing Your Creative Practice</a> Round 9 opens on 11 Jan 2021, with updated guidance.        
+• Arts Council England's <a href="http://artscouncil.org.uk/DYCP" target="_blank">Developing Your Creative Practice</a> Round 9 is open until 18 Feb at noon, with updated guidance.        
 • Arts Council England's <a href="http://artscouncil.org.uk/projectgrants" target="_blank">National Lottery Project Grants</a> are available again, with updated guidance.        
 • Arts Marketing Association (AMA)'s <a href="http://www.a-m-a.co.uk/coronavirus-covid-19-resources" target="_blank">resources page</a> — to support arts, culture + heritage professionals, organisations + freelancers.        
 • AMA also have a <a href="http://facebook.com/groups/AMACommunitySupport" target="_blank">Coronavirus Support Facebook Group</a> — for all arts, culture + heritage professionals who work to engage audiences.        
@@ -70,7 +70,7 @@ Visit <a href="http://domesticatedonline.org" target="_blank">Domesticated</a> t
 • Supercool's blog on <a href="http://supercooldesign.co.uk/blog/keeping-it-live" target="_blank">quick routes to live-streaming</a>.        
 • The Centre for the Study of Media + Culture in Small Nations blog on <a href="http://culture.research.southwales.ac.uk/news-and-events/news/online-theatre-covid-19" target="_blank">making social-distancing live theatre + performance during the COVID-19 lockdown</a>.         
 • The Space's <a href="http://www.thespace.org/resource/live-streaming-arts-lo-fi-and-low-cost-options" target="_blank">guide to live streaming for the arts by Jason Crouch</a> — lo-fi and low cost options.        
-• The <a href="http://theatreartists.fund/who-is-the-theatre-artists-fund-for" target="_blank">Theatre Artists Fund</a> is for theatre professionals who are in need of urgent + critical financial support (latest round closes 13 Jan).        
+• The <a href="http://theatreartists.fund/who-is-the-theatre-artists-fund-for" target="_blank">Theatre Artists Fund</a> is for theatre professionals who are in need of urgent + critical financial support (latest round closed 13 Jan).        
 • UK Theatre + SOLT's <a href="http://theatresupport.info" target="_blank">Theatre Support Information</a> — advice/info about how + where you can access support from leading theatrical charities.        
 • Unlimited's <a href="http://weareunlimited.org.uk/links-and-resources-for-disabled-artists-and-freelancers-in-response-to-covid-19-includes-medical-guidance" target="_blank">list of resources + information for disabled freelancers + artists</a> also includes an opportunities section).        
 • Unlimited's <a href="http://weareunlimited.org.uk/contingencies-for-coronavirus" target="_blank">contingencies for COVID-19 page</a> — info for supporting disabled artists + freelancers.        
