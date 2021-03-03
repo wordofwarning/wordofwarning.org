@@ -24,7 +24,7 @@ season: "Domestic 13|1|2021, 8pm"
 What can you make when your kitchen table is the stage + your camera is the audience?<br>An assembly of artists; a collage of commentary on where we find ourselves now…     
          
 #### Artists       
-Eleanor May Blackburn · Pelican Theatre · Tom Cassani · TomYumSim · Vân Bùi · hosted by Peader Kirk · *Participating artists subject to change.*         
+Eleanor May Blackburn · Pelican Theatre · Tom Cassani · TomYumSim · Vân Bùi · hosted by Peader Kirk · <small>*Participating artists subject to change.*</small>         
         
 Domestic is an informal online platform for artists to beta test new work, live from their homes — get a feel for it by watching live streams of earlier events on <a href="http://www.youtube.com/playlist?list=PLHmxKLx8cM6BDQVxWcVUAIZapNVroOJWj" target="_blank">YouTube</a>.        
          
