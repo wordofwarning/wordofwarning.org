@@ -9,7 +9,7 @@ show: "New work, live from home." # the name of the show
 artist_size: 1
 show_size: 5
 header_image: "header_domestic.jpg"  
-season: "Domestic 13|1|2021, 8pm"
+season: "Domestic 10|3|2021, 8pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,14 +17,14 @@ season: "Domestic 13|1|2021, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 3 March 2021, 11.30am*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 3 March 2021, 4.40pm*</small>     
         
 *Presented by* Word of Warning        
          
 What can you make when your kitchen table is the stage + your camera is the audience?<br>An assembly of artists; a collage of commentary on where we find ourselves now…     
          
 #### Artists       
-Eleanor May Blackburn · Pelican Theatre · Tom Cassani · TomYumSim · Vân Bùi · hosted by Peader Kirk · <small>*Participating artists subject to change.*</small>         
+Eleanor May Blackburn · Pelican Theatre · Tom Cassani · TomYumSim · Vân Bùi · hosted by Peader Kirk · *Participating artists subject to change.*         
         
 Domestic is an informal online platform for artists to beta test new work, live from their homes — get a feel for it by watching live streams of earlier events on <a href="http://www.youtube.com/playlist?list=PLHmxKLx8cM6BDQVxWcVUAIZapNVroOJWj" target="_blank">YouTube</a>.        
          
