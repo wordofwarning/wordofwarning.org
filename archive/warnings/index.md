@@ -12,11 +12,11 @@ season: "Archived Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Updated 26 January 2021, 1.10pm*<br><br>Below are Age Advisories/Limits + Content Warnings for past [Word of Warning](/) events, including live stream archives on our YouTube channel — warnings for upcoming events are [here](/warnings).<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.        
+*Updated 3 March 2021, 1.05pm*<br><br>Below are Age Advisories/Limits + Content Warnings for past [Word of Warning](/) events, including live stream archives on our YouTube channel — warnings for upcoming events are [here](/warnings).<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.        
 <hr>         
 #### 2021        
         
-##### [13 Jan. Online | Domestic](/current/2021-domestic)        
+##### [13 Jan. Online | Domestic](/current/2021-domestic/january)        
 Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, some included audience interaction, specific warnings follow.<br>&nbsp;Avital Raz — mentions of rape and miscarriage.<br>&nbsp;Lydia Cottrell — discussion of potentially sensitive and complex topics.<br>&nbsp;Mitzee — includes flashing imagery.        
         
 <hr>          
