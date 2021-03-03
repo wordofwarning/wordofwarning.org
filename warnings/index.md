@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Updated 3 March, 1.25pm*<br><br>Age Advisories/Limits and Content Warnings for upcoming events are below; click [here](/archive/warnings) for past events and archived live streams on our YouTube channel.<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.<br>Please email <mailto:info@habmcr.org> if you'd like to get in touch.<br>*NB — reflects most recent information received from the artists we present.*         
+*Updated 3 March 2021, 1.25pm*<br><br>Age Advisories/Limits and Content Warnings for upcoming events are below; click [here](/archive/warnings) for past events and archived live streams on our YouTube channel.<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.<br>Please email <mailto:info@habmcr.org> if you'd like to get in touch.<br>*NB — reflects most recent information received from the artists we present.*         
 <hr>         
 ##### [10 March. Online | Domestic](/current/2021-domestic)        
 Age Advisory: **18+** (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, some will include audience interaction, specific warnings to follow later this week.        
