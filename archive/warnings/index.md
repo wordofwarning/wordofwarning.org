@@ -12,7 +12,7 @@ season: "Archived Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Updated 3 March 2021, 1.05pm*<br><br>Below are Age Advisories/Limits + Content Warnings for past [Word of Warning](/) events, including live stream archives on our YouTube channel — warnings for upcoming events are [here](/warnings).<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.        
+*Updated 3 March 2021, 1.15pm*<br><br>Age Advisories/Limits + Content Warnings for past [WoW](/) events including live stream archives on our YouTube channel are below; click [here](/warnings) for upcoming events.<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.        
 <hr>         
 #### 2021        
         
