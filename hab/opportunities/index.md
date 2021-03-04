@@ -3,21 +3,17 @@
 layout: hab
 rootpath: "../../../"
 is_index: true
-artist: "Opportunities"
+artist: "Opportunities from hÅb"
 season: "Opportunities from hÅb"
 
 ---
-Please see our [News page](/news/#artists) for latest advice + support information for artists + freelancers.         
-         
-Essentially industry-facing, [hÅb](/hab) works with [artists, colleagues, venues + others](/hab/partners) to create the best possible opportunities for new work to flourish and is a core partner in <a href="http://www.divergencymcr.org" target="_blank">Divergency</a> — encouraging diversity in live art. We're supported using public funding by <a href="http://artscouncil.org.uk/our-investment/national-portfolio-2018-22" target="_blank">Arts Council England</a>; a <a href="http://gm-artisthub.co.uk" target="_blank">GM Artist Hub</a> partner — a joint artist development project from thirteen arts organisations across Greater Manchester; and a <a href="http://liveartuk.org" target="_blank">Live Art UK</a> member — a national network supporting + developing the UK's Live Art infrastructure for the benefit of artists, presenters + audiences.         
-          
-Upcoming artist opportunities from hÅb are published below when we have them; you may also find it useful to join these mailing lists:         
+Please see our [News page](/news/#artists) for latest advice + support information for artists + freelancers.<br>Essentially industry-facing, we work with [artists, colleagues, venues + others](/hab/partners) to create the best possible opportunities for new work to flourish.<br>Upcoming artist opportunities from [hÅb](/hab) are published below when we have them; you may also find it useful to join these mailing lists:         
 • [emergencymcr googlegroup: our own artist mailing list](/hab/emergencymcr)         
-• <a href="http://www.artsjobs.org.uk/subscribe" target="_blank">Arts Jobs & Arts News from Arts Council England</a>        
-• <a href="http://www.liveartuk.org/pages/sign-up" target="_blank">Live Art UK</a>         
-• <a href="http://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=LIVEART" target="_blank">LIVEART from JISCmail</a>         
-• <a href="http://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=SCUDD" target="_blank">SCUDD (Standing Conference of University Drama Departments) from JISCmail</a>
+• <a href="http://artsjobs.org.uk/subscribe" target="_blank">Arts Jobs & Arts News from Arts Council England</a>        
+• <a href="http://liveartuk.org/pages/sign-up" target="_blank">Live Art UK</a>         
+• <a href="http://jiscmail.ac.uk/cgi-bin/webadmin?A0=LIVEART" target="_blank">LIVEART from JISCmail</a>         
+• <a href="http://jiscmail.ac.uk/cgi-bin/webadmin?A0=SCUDD" target="_blank">SCUDD (Standing Conference of University Drama Departments) from JISCmail</a>
          
 #### Upcoming Opportunities        
-To participate in a future [online Domestic](/hab/domestic), please see our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for artist's proposals</a> — *our next event is planned for Wed 10 March 2021, with probably another in April*.        
-<small>*Updated 9 February 2021, 1.10pm*</small>
+To participate in a future [online Domestic](/hab/domestic), please see our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for artist's proposals</a> — *the next event we're accepting proposals for is probably in April 2021.*.        
+<small>*Updated 4 March 2021, 12:17*</small>
