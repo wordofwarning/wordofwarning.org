@@ -17,7 +17,7 @@ season: "Domestic 10|3|2021, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [programme](/current/2021-domestic/#programme) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 5 March 2021, 18:00*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [programme](/current/2021-domestic/#programme) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 5 March 2021, 18:05*</small>     
         
 *Presented by* Word of Warning        
          
@@ -39,15 +39,16 @@ And so we began a series of "Domestic at homes" [in 2020](/archive/2020-domestic
 Join us on 10 March for our fifth set of "artists at home" — selected from our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for proposals</a>. Real lives, real stories, real homes.          
         
 #### Programme         
-Eleanor May Blackburn · *Wired*<br>"*Wow, I'm having the best time. I'm having the best time. I AM having the best time.*"<br>&nbsp;Eleanor explores the ins and outs of a night out, and how mental health is often an unwanted passenger along for the ride.          
+Eleanor May Blackburn · *Wired*<br>&nbsp;"*Wow, I'm having the best time. I'm having the best time. I AM having the best time.*"<br>&nbsp;Eleanor explores the ins and outs of a night out, and how mental health is often an unwanted passenger along for the ride.          
         
-Pelican Theatre · *A/Liveness*<br>&nbsp;A glimpse into the private frustrations and fantasies of performers who have lost their audiences. What happens to us when nobody is watching? Are we still Live? Are we still Alive?<br>&nbsp;Created + performed by Pagan Hunt + Ellie Trow        
+Pelican Theatre · *A/Liveness*<br>&nbsp;A glimpse into the private frustrations & fantasies of performers who've lost their audiences…<br>&nbsp;What happens to us when nobody's watching? Are we still Live? Are we still Alive?<br>&nbsp;Created + performed by Pagan Hunt + Ellie Trow        
        
 Tom Cassani · *With My Hands*<br>&nbsp;Tom is interested in thinking with his hands.<br>&nbsp;Tom has spent fifteen years with a deck of cards in his palms (or at least nearby).<br>&nbsp;His performance explores this long-standing relationship through both procedural and contemplative text and action.         
         
 TomYumSim · *Hotline LIVE*<br>&nbsp;Created + performed by Tom Halls + Simone French        
        
 Vân Bùi · *Favourite Colours*<br>&nbsp;Equipment + technical support from Resource Productions<br>&nbsp;Music: *Sac Mau* performed by Tran Thu Ha + composed by Tran Tien        
+        
 Hosted by Peader Kirk.         
          
 [Domestic](/hab/domestic) (March 2021) produced by [hÅb](/hab).        
