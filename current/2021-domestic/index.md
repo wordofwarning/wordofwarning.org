@@ -17,7 +17,7 @@ season: "Domestic 10|3|2021, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [programme](/current/2021-domestic/#programme) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 8 March 2021, 14:47*</small>     
+<span style='font-variant: small-caps'>jump to → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [programme](/current/2021-domestic/#programme) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 8 March 2021, 16:23*</small>     
         
 *Presented by* Word of Warning        
          
@@ -45,7 +45,7 @@ Pelican Theatre · *A/Liveness*<br>&nbsp;A glimpse into the private frustrations
        
 Tom Cassani · *With My Hands*<br>&nbsp;Tom is interested in thinking with his hands.<br>&nbsp;Tom has spent fifteen years with a deck of cards in his palms (or at least nearby).<br>&nbsp;His performance explores this long-standing relationship through both procedural and contemplative text and action.         
         
-TomYumSim · *Hotline LIVE*<br>&nbsp;Created + performed by Tom Halls + Simone French        
+TomYumSim · *Hotline LIVE*<br>&nbsp;Has lockdown got you down? Are you finding your domestic decisions difficult and drole?<br>&nbsp;Call *Hotline LIVE* AND speak to Tommy or Simmy about your domestic dilemmas — put some magic into your mundane and wash away your household woes. OR watch the calls unfold as *Hotline* pops up on the Domestic live stream.<br>&nbsp;*Hotline* is proudly queer, DIY in aesthetic and improvised in nature.<br>&nbsp;Created + performed by Tom Halls + Simone French        
        
 Vân Bùi · *Favourite Colours*<br>&nbsp;Equipment + technical support from Resource Productions<br>&nbsp;Music: *Sac Mau* performed by Tran Thu Ha + composed by Tran Tien        
         
