@@ -12,7 +12,7 @@ season: "News"
 # show_size: 1 # optional - size 1-5. Default is 1. Set longer names to lower values
 
 ---
-<span style='font-variant: small-caps'>jump → [things to watch](/news/#audiences) · [info for artists](/news/#artists), [gm artist hub](/news/#gmartisthub), [support](/news/#support) · *Updated 11 March 2021, 12:07*</span>         
+<span style='font-variant: small-caps'>jump → [things to watch](/news/#audiences) · [info for artists](/news/#artists), [gm artist hub](/news/#gmartisthub), [other support](/news/#support)</span> · <small>*Updated 11 March 2021, 12:25*<small>        
 <hr>          
 #### Audiences         
 Visit <a href="http://domesticatedonline.org" target="_blank">Domesticated</a> to discover eight works in our new home for video performance, and re-watch recent live streamed events on <a href="http://bit.ly/YTwarnmcr" target="_blank">our YouTube channel</a>, including <a href="http://youtu.be/VsDRVALM2Ao" target="_blank">January's Domestic live stream</a>. We'll present our sixth online Domestic in April/May, and our [21st Emergency](/current/2021-emergency) will take place at Contact when regulations allow this autumn.<br><br>**Find other things to see or do online in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>, complemented by the following list of websites:**            
