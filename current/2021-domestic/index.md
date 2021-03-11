@@ -17,14 +17,14 @@ season: "Domestic 10|3|2021, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [programme](/current/2021-domestic/#programme) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 9 March 2021, 12:13*</small>     
+<span style='font-variant: small-caps'>jump → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [programme](/current/2021-domestic/#programme) · [websites](/current/2021-domestic/#websites)</span> · *Updated 11 March 2021, 11:16*     
         
 *Presented by* Word of Warning        
          
 What can you make when your kitchen table is the stage + your camera is the audience?<br>An assembly of artists; a collage of commentary on where we find ourselves now…     
          
 #### Artists       
-Eleanor May Blackburn · Pelican Theatre · Tom Cassani · TomYumSim · Vân Bùi · hosted by Peader Kirk · *Participating artists subject to change.*         
+Eleanor May Blackburn · Pelican Theatre · Tom Cassani · TomYumSim · Vân Bùi · hosted by Peader Kirk        
         
 Domestic is an informal online platform for artists to beta test new work, live from their homes — get a feel for it by watching live streams of earlier events on <a href="http://www.youtube.com/playlist?list=PLHmxKLx8cM6BDQVxWcVUAIZapNVroOJWj" target="_blank">YouTube</a>.        
          
