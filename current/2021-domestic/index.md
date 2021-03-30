@@ -17,7 +17,7 @@ season: "Domestic May 2021"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 30 March 2021, 13:03*</small>     
+<span style='font-variant: small-caps'>jump → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 30 March 2021, 13:18*</small>     
         
 *Presented by* Word of Warning        
          
@@ -34,7 +34,7 @@ Time: taking place in early May 2021, *date to be confirmed*.<br>Location: lives
 #### About         
 In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/2017-autumnwinter/pritchard) we presented Domestic works in tower blocks in transition — little did we know then, that in 2020 our homes would become our only stages and only auditoria…        
         
-And so we began a series of "Domestic at homes" [in 2020](/archive/2020-domestic), with artists trying out new works about what was on their minds — using whatever resources they had to hand.         
+And so [in 2020](/archive/2020-domestic) we began a series of "Domestic at homes", continuing [this](/current/2021-domestic/january) [spring](/current/2021-domestic/march), with artists trying out new works about what was on their minds — using whatever resources they had to hand.         
         
 Join us in early May for our sixth set of "artists at home" — selected from our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for proposals</a>. Real lives, real stories, real homes.          
         
