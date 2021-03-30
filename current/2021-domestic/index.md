@@ -17,14 +17,14 @@ season: "Domestic May 2021"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [programme](/current/2021-domestic/#programme) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 30 March 2021, 12:10*</small>     
+<span style='font-variant: small-caps'>jump → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [programme](/current/2021-domestic/#programme) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 30 March 2021, 12:18*</small>     
         
 *Presented by* Word of Warning        
          
 What can you make when your kitchen table is the stage + your camera is the audience?<br>An assembly of artists; a collage of commentary on where we find ourselves now…     
          
 #### Artists       
-*To be confirmed — we welcome <a href="http://domesticmcr.posthaven.com" target="_blank">proposals from artists</a> before 9 April.*        
+*To be confirmed; we <a href="http://domesticmcr.posthaven.com" target="_blank">welcome proposals from artists</a> by 9 April for this event.*        
         
 Domestic is an informal online platform for artists to beta test new work, live from their homes — get a feel for it by watching previous event livestreams on <a href="http://youtube.com/playlist?list=PLHmxKLx8cM6BDQVxWcVUAIZapNVroOJWj" target="_blank">YouTube</a>.        
          
