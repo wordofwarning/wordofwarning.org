@@ -17,19 +17,19 @@ season: "Domestic May 2021"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [programme](/current/2021-domestic/#programme) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 30 March 2021, 12:00*</small>     
+<span style='font-variant: small-caps'>jump → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [programme](/current/2021-domestic/#programme) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 30 March 2021, 12:10*</small>     
         
 *Presented by* Word of Warning        
          
 What can you make when your kitchen table is the stage + your camera is the audience?<br>An assembly of artists; a collage of commentary on where we find ourselves now…     
          
 #### Artists       
-*Hosted by Peader Kirk, artists to be confirmed — to participate, please apply to our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call</a> by 9 April*        
+*To be confirmed — we welcome <a href="http://domesticmcr.posthaven.com" target="_blank">proposals from artists</a> before 9 April.*        
         
 Domestic is an informal online platform for artists to beta test new work, live from their homes — get a feel for it by watching previous event livestreams on <a href="http://youtube.com/playlist?list=PLHmxKLx8cM6BDQVxWcVUAIZapNVroOJWj" target="_blank">YouTube</a>.        
          
 #### Access            
-Time: date *to be confirmed* in early May 2021.<br>Location: livestreamed online via Zoom webinar.<br>Ticketing: book a free space on eventbrite from Friday 30 April to receive livestream details.<br>Donations are welcome via <a href="http://paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: **18+** (*mainly aimed at adults; parental/guardian discretion*).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Please note: if you require live captioning we suggest you try using <a href="http://otter.ai/starter-guide?article=generateNotes" target="_blank">Otter</a> on a second device (*<a href="http://itunes.apple.com/us/app/otter-voice-notes/id1276437113" target="_blank">download on the App Store</a> or <a href="http://play.google.com/store/apps/details?id=com.aisense.otter" target="_blank">get it on Google Play</a>*);<br>&nbsp;&nbsp;to improve your listening experience we suggest using headphones/external speakers;<br>&nbsp;&nbsp;for specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
+Time: taking place in early May 2021, *date to be confirmed*.<br>Location: livestreamed online via Zoom webinar.<br>Ticketing: book a free space on eventbrite *from 30 April* to receive livestream details.<br>Donations are welcome via <a href="http://paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: **18+** (*mainly aimed at adults; parental/guardian discretion*).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Please note: if you require live captioning we suggest you try using <a href="http://otter.ai/starter-guide?article=generateNotes" target="_blank">Otter</a> on a second device (*<a href="http://itunes.apple.com/us/app/otter-voice-notes/id1276437113" target="_blank">download on the App Store</a> or <a href="http://play.google.com/store/apps/details?id=com.aisense.otter" target="_blank">get it on Google Play</a>*);<br>&nbsp;&nbsp;to improve your listening experience we suggest using headphones/external speakers;<br>&nbsp;&nbsp;for specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
           
 #### About         
 In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/2017-autumnwinter/pritchard) we presented Domestic works in tower blocks in transition — little did we know then, that in 2020 our homes would become our only stages and only auditoria…        
