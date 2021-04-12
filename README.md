@@ -5,7 +5,8 @@ Word of Warning's [website](https://wordofwarning.org) is built in Jekyll.
 To run the site locally:
 
 ```
-git clone https://github.com/wordofwarning/wordofwarning.github.com.git
+git clone https://github.com/wordofwarning/wordofwarning.org
+cd wordofwarning.org
 bundle install
 bundle exec jekyll serve --livereload
 ```
