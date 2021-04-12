@@ -17,14 +17,14 @@ season: "Domestic May 2021"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 12 April 2021, 12:42*</small>     
+<span style='font-variant: small-caps'>jump → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [websites](/current/2021-domestic/#websites)</span> · <small>*Updated 12 April 2021, 12:47*</small>     
         
 *Presented by* Word of Warning        
          
 What can you make when your kitchen table is the stage + your camera is the audience?<br>An assembly of artists; a collage of commentary on where we find ourselves now…     
          
 #### Artists       
-*To be confirmed — we’re no longer accepting proposals for May's event, but <a href="http://domesticmcr.posthaven.com" target="_blank">we are for later dates</a>.*        
+*Hosted by Peader Kirk, artists to be confirmed — we're no longer accepting proposals for this event in early May, but <a href="http://domesticmcr.posthaven.com" target="_blank">we are for later dates</a>.*        
         
 Domestic is an informal online platform for artists to beta test new work, live from their homes — get a feel for it by watching previous event livestreams on <a href="http://youtube.com/playlist?list=PLHmxKLx8cM6BDQVxWcVUAIZapNVroOJWj" target="_blank">YouTube</a>.        
          
@@ -38,8 +38,6 @@ And so in [2020](/archive/2020-domestic) we began a series of "Domestic at homes
         
 Join us in early May for our sixth set of "artists at home" — selected from our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for proposals</a>. Real lives, real stories, real homes.          
         
-Hosted by Peader Kirk.         
-         
 [Domestic](/hab/domestic) (May 2021) produced by [hÅb](/hab).        
          
 #### Websites         
