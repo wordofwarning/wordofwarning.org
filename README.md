@@ -13,5 +13,5 @@ bundle exec jekyll serve --livereload
 There is a small test suite to test outgoing links, well formed HTML etc. To run it:
 
 ```
-rake test
+bundle exec rake test
 ```
