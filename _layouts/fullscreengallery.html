@@ -7,7 +7,7 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width" />
 	<title>{{ page.title }}</title>
-	
+
 	<link rel="stylesheet" href="{{page.assetpath}}assets/vendor/supersized/stylesheets/supersized.css" type="text/css" media="screen" />
 	<link rel="stylesheet" href="{{page.assetpath}}assets/vendor/supersized/stylesheets/supersized.shutter.css" type="text/css" media="screen" />
 	<link rel="stylesheet" href="{{page.stylesheet}}">
@@ -17,8 +17,11 @@
 	<script type="text/javascript" src="{{page.assetpath}}assets/vendor/supersized/javascripts/supersized.3.2.7.min.js"></script>
 	<script type="text/javascript" src="{{page.assetpath}}assets/vendor/supersized/javascripts/supersized.shutter.min.js"></script>
 
+	{% include favicons.html %}
+
 	<script type="text/javascript" src="{{ site.typekit_url }}"></script>
 	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
 </head>
 <body>
 	<div id="header">
@@ -60,8 +63,8 @@
 			keyboard_nav            :   1,			// Keyboard navigation on/off
 			performance				:	1,			// 0-Normal, 1-Hybrid speed/quality, 2-Optimizes image quality, 3-Optimizes transition speed // (Only works for Firefox/IE, not Webkit)
 			image_protect			:	1,			// Disables image dragging and right click with Javascript
-															   
-			// Size & Position						   
+
+			// Size & Position
 			min_width		        :   0,			// Min width allowed (in pixels)
 			min_height		        :   0,			// Min height allowed (in pixels)
 			vertical_center         :   1,			// Vertically center background
@@ -69,27 +72,27 @@
 			fit_always				:	0,			// Image will never exceed browser width or height (Ignores min. dimensions)
 			fit_portrait         	:   1,			// Portrait images will not exceed browser height
 			fit_landscape			:   0,			// Landscape images will not exceed browser width
-															   
-			// Components							
+
+			// Components
 			slide_links				:	'false',	// Individual links for each slide (Options: false, 'num', 'name', 'blank')
 			thumb_links				:	0,			// Individual thumb links for each slide
 			thumbnail_navigation    :   0,			// Thumbnail navigation
 			slides 					:  	[			// Slideshow Images
-				{% for picture in page.gallery %}	
+				{% for picture in page.gallery %}
 				{
-					image : 	"{{ page.galleryimagespath }}{{ picture.file }}", 
+					image : 	"{{ page.galleryimagespath }}{{ picture.file }}",
 					title : 	"{% if picture.artist %}<b>{{ picture.artist }}</b> {% endif %}{% if picture.show %}<i>{{ picture.show }}</i> {% endif %}{{ picture.comment }}"
 				} {% unless forloop.last %},{% endunless %}
-				{% endfor %}									
+				{% endfor %}
 			],
-												
-			// Theme Options			   
-			progress_bar			:	0,			// Timer for each slide							
+
+			// Theme Options
+			progress_bar			:	0,			// Timer for each slide
 			mouse_scrub				:	0
-					
+
 		});
 		});
-	
+
 	</script>
 </body>
 </html>
