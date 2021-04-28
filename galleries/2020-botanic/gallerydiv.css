@@ -1,5 +1,5 @@
 body
-	{background:#000; color: #fff;}
+	{background:#000; color: #f93;}
 body, #slidecaption
 	{font-family: "minion-pro", Georgia, Times;}
 h1
@@ -7,14 +7,18 @@ h1
 p
 	{margin:20px;}
 #controls-wrapper
-	{background:#000;}
+	{background:#f93;}
 #slidecaption
-	{font-size:18px; margin-left:20px; color: #fff; text-shadow: none;}
+	{font-size:18px; margin-left:20px; color: #000; text-shadow: none;}
 #header
-	{width:130px;padding:20px;}
+	{width:175px;padding:20px;}	
 #header
 	{font-size:18px;}
 #header #info
+	{display: none;}
+#header:hover 
+	{background: #f93; cursor:pointer;}
+#header:hover #info
 	{display: block;}
 		
 a, a:visited, a:hover
