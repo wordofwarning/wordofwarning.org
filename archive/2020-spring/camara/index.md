@@ -17,11 +17,11 @@ season: "Tania Camara 1|5|2020, 7pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/archive/2020-spring/camara/#access) · [about](/archive/2020-spring/camara/#about) · [artist](/archive/2020-spring/camara/#artist) · [reviews](/archive/2020-spring/camara/#reviews) · [credits](/archive/2020-spring/camara/#credits) · [websites](/archive/2020-spring/camara/#websites)</span> · <small>Updated 29 April 2021, 19:08</small>       
+<span style='font-variant: small-caps'>jump → [access](/archive/2020-spring/camara/#access) · [about](/archive/2020-spring/camara/#about) · [artist](/archive/2020-spring/camara/#artist) · [reviews](/archive/2020-spring/camara/#reviews) · [credits](/archive/2020-spring/camara/#credits) · [websites](/archive/2020-spring/camara/#websites)</span> · <small>Updated 29 April 2021</small>       
         
 *Presented by* STUN *+* Word of Warning        
          
-A choreographic development, work-in-progress, for livestreaming.<br><br>Donning a camouflage of Oreo-filling, Tania explores the masks we wear to put our heads above the parapet in a climate of systemic racism.         
+A choreographic development, work-in-progress, for livestreaming.<br>Donning a camouflage of Oreo-filling, Tania explores the masks we wear to put our heads above the parapet in a climate of systemic racism.<br>Now that it’s over, re-watch the livestream on YouTube below.         
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3hAigduBYTA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>        
        
 #### Access         
