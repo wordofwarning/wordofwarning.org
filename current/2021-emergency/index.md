@@ -1,15 +1,15 @@
 ---
 # CONFIGURATION
-layout: 2021-e21
+layout: 2021-emergency
 rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "21<sup>st</sup> Emergency" # the name of the artist or company
+artist: "21st Emergency" # the name of the artist or company
 show: "A journey for the curious." # the name of the show
 artist_size: 1
 show_size: 3
 header_image:  
-season: "21st Emergency (date tbc)"
+season: "Emergency 2021"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,17 +17,17 @@ season: "21st Emergency (date tbc)"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/current/2021-emergency/#artists) · [access](/current/2021-emergency/#access) · [about](/current/2021-emergency/#about) · [websites](/current/2021-emergency/#websites)</span> · <small>*Updated 6 January 2021, 2.10pm*</small>     
+<span style='font-variant: small-caps'>jump → [artists](/current/2021-emergency/#artists) · [access](/current/2021-emergency/#access) · [about](/current/2021-emergency/#about) · [websites](/current/2021-emergency/#websites)</span> · <small>Updated 30 April 2021</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
-Originally [planned for November 2020](/archive/2020-emergency), Manchester's twenty-first micro-marathon of the bizarre, the bold + the beautiful will *hopefully* take over the brand new Contact this [spring](/current/2021-springsummer) with a socially-distanced journey of live performances… 
+Originally [planned for November 2020](/archive/2020-emergency), Manchester's twenty-first micro-marathon of the bizarre, the bold + the beautiful will *hopefully* take over the brand new Contact later this year with a socially-distanced journey of live performances… 
         
 #### Artists       
 Ayzmar · Dan Sanders · Ghost and John · Kellie Colbert & Deborah Newton · Kelvin Atmadibrata · Lydia Cottrell · Maryam Hashemi · Miray Sidhom · Mitzee · Rowena Gander · Sebastian H-W · Simon Carroll-Jones & Wayne Steven Jackson · Tom Ryalls · <small>*Participating artists subject to change.*</small><br><br>Our annual platform for live art + contemporary performance, this 21st [Emergency](/hab/emergency) is necessarily a bit different — get a feel for it with [StopGap](/archive/2020-emergencystopgap) or [2019 daytime programme](/archive/2019-emergency/daytime).         
         
 #### Access            
-**Time and date to be confirmed once regulations allow.**<br>Duration: *estimated* 75 minutes total journey time.<br>Location: <a href="http://contactmcr.com" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>Ticketing: once available, book a FREE ticket to gain entry in a timed slot.<br>&nbsp;&nbsp;Donations to support Word of Warning are welcome via <a href="http://paypal.me/warnmcr" target="_blank">PayPal</a>.<br>On arrival: please provide details for <a href="http://nhs.uk/conditions/coronavirus-covid-19/testing-and-tracing" target="_blank">NHS Test and Trace</a>, then follow the one-way route — please adhere to the latest UK Government <a href="http://gov.uk/coronavirus" target="_blank">coronavirus regulations</a>, including maintaining your own and any accompanying child/ren's social distance.<br>Age Advisory: 15+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Please note: this event takes place inside over three floors and is accessible to people with mobility issues, including those using wheelchairs.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
+When: taking place later in 2021, *date + time to be confirmed.*<br>Duration: *estimated* 75 minutes total journey time.<br>Location: <a href="http://contactmcr.com" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>Ticketing: once available, book a FREE ticket to gain entry in a timed slot.<br>&nbsp;&nbsp;Donations to support Word of Warning are welcome via <a href="http://paypal.me/warnmcr" target="_blank">PayPal</a>.<br>On arrival: please provide details for <a href="http://nhs.uk/conditions/coronavirus-covid-19/testing-and-tracing" target="_blank">NHS Test and Trace</a>, then follow the one-way route — please adhere to the latest UK Government <a href="http://gov.uk/coronavirus" target="_blank">coronavirus regulations</a>, including maintaining your own and any accompanying child/ren's social distance.<br>Age Advisory: 15+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Please note: this event takes place inside over three floors and is accessible to people with mobility issues, including those using wheelchairs.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
          
 #### About         
 Working within current constraints, our 21st Emergency offers a sneak preview of new live work in a brand new home. With about a dozen performance works dotted throughout <a href="http://contactmcr.com" target="_blank">Contact</a>'s building, you'll be guided on a socially-distanced one-way walkthrough. Able to pause en route, we *estimate* a 75-minute total journey time for each audience member.<br><br>21st [Emergency](/hab/emergency) produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.         
