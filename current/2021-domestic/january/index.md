@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: 2021-spring
+layout: 2021-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -17,11 +17,11 @@ season: "Domestic 13|1|2021, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [artists](/current/2021-domestic/january/#artists) · [access](/current/2021-domestic/january/#access) · [about](/current/2021-domestic/january/#about) · [programme](/current/2021-domestic/january/#programme) · [websites](/current/2021-domestic/january/#websites)</span> · <small>*Updated 29 April 2021, 18:42*</small>     
+<span style='font-variant: small-caps'>jump → [artists](/current/2021-domestic/january/#artists) · [access](/current/2021-domestic/january/#access) · [about](/current/2021-domestic/january/#about) · [programme](/current/2021-domestic/january/#programme) · [websites](/current/2021-domestic/january/#websites)</span> · <small>Updated 30 April 2021</small>     
         
 *Presented by* Word of Warning        
          
-What can you make when your kitchen table is the stage + your camera is the audience?<br>An assembly of artists; a collage of commentary on where we find ourselves now…<br>Now that it's over, re-watch the (edited) livestream on YouTube below.        
+What can you make when your kitchen table is the stage + your camera is the audience? An assembly of artists; a collage of commentary on where we find ourselves now…<br>Now that it's over, re-watch the (edited) livestream on YouTube below.        
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VsDRVALM2Ao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>        
          
 #### Artists       
