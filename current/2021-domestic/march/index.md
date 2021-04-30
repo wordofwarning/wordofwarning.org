@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: 2021-spring
+layout: 2021-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -17,11 +17,11 @@ season: "Domestic 10|3|2021, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [artists](/current/2021-domestic/march/#artists) · [access](/current/2021-domestic/march/#access) · [about](/current/2021-domestic/march/#about) · [programme](/current/2021-domestic/march/#programme) · [websites](/current/2021-domestic/march/#websites)</span> · <small>*Updated 30 March 2021, 12:00*</small>     
+<span style='font-variant: small-caps'>jump → [artists](/current/2021-domestic/march/#artists) · [access](/current/2021-domestic/march/#access) · [about](/current/2021-domestic/march/#about) · [programme](/current/2021-domestic/march/#programme) · [websites](/current/2021-domestic/march/#websites)</span> · <small>Updated 30 April 2021</small>     
         
 *Presented by* Word of Warning        
          
-What can you make when your kitchen table is the stage + your camera is the audience?<br>An assembly of artists; a collage of commentary on where we find ourselves now…     
+What can you make when your kitchen table is the stage + your camera is the audience? An assembly of artists; a collage of commentary on where we find ourselves now…<br>Now that it's over, we hope to post livestream archive on our YouTube channel soon.     
          
 #### Artists       
 Eleanor May Blackburn · Pelican Theatre · Tom Cassani · TomYumSim · Vân Bùi · hosted by Peader Kirk        
