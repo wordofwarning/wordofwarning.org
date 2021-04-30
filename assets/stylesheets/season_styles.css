@@ -884,32 +884,32 @@
 	.e2020 .splash
 		{background:url(../images/header_emergency.jpg) center center}
 
-/* Spring 2021 Programme bluebells
+/* Spring/Summer 2021 Programme bluebells
 ------------------------------------------------------*/
 
-	.spr2021 .splash
+	.ss2021 .splash
 		{background:url(../images/header_2021SprWarni.jpg) -150px center}
 
-/* 21st Emergency bright red w/ running man (for now)
+/* Emergency 2021 bright red w/ running man (for now)
 ------------------------------------------------------*/
 
-	.e21st,
-	.e21st .artist, 
-	.e21st .show,
-	.e21st .season
+	.e2021,
+	.e2021 .artist, 
+	.e2021 .show,
+	.e2021 .season
 		{background:#ed1c24; color:#fff;}
 
-	.e21st blockquote
+	.e2021 blockquote
 		{border-left-color:#fff;}
 	
-	.e21st a,
-	.e21st a:visited,
-	.e21st a:hover
+	.e2021 a,
+	.e2021 a:visited,
+	.e2021 a:hover
 		{color:#fff;}
-	.e21st nav a:hover,
-	.e21st article a:hover,
-	.e21st footer a:hover
+	.e2021 nav a:hover,
+	.e2021 article a:hover,
+	.e2021 footer a:hover
 		{background: #fff; color: #ed1c24;}
 		
-	.e21st .splash
+	.e2021 .splash
 		{background:url(../images/header_emergency.jpg) center center}
