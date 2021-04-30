@@ -21,7 +21,7 @@ season: "Domestic 10|3|2021, 8pm"
         
 *Presented by* Word of Warning        
          
-What can you make when your kitchen table is the stage + your camera is the audience? An assembly of artists; a collage of commentary on where we find ourselves now…<br>Now that it's over, we hope to post livestream archive on our YouTube channel soon.     
+What can you make when your kitchen table is the stage + your camera is the audience? An assembly of artists; a collage of commentary on where we find ourselves now…        
          
 #### Artists       
 Eleanor May Blackburn · Pelican Theatre · Tom Cassani · TomYumSim · Vân Bùi · hosted by Peader Kirk        
