@@ -17,23 +17,23 @@ season: "Domestic 7|10|2020, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/archive/2020-domestic/october/#artists) · [access](/archive/2020-domestic/october/#access) · [about](/archive/2020-domestic/october/#about) · [programme](/archive/2020-domestic/october/#programme) · [websites](/archive/2020-domestic/october/#websites)</span> · <small>*Updated 26 January 2021, 12.10pm*</small>     
+<span style='font-variant: small-caps'>jump → [artists](/archive/2020-domestic/october/#artists) · [access](/archive/2020-domestic/october/#access) · [about](/archive/2020-domestic/october/#about) · [programme](/archive/2020-domestic/october/#programme) · [websites](/archive/2020-domestic/october/#websites)</span> · <small>Updated 4 May 2021</small>     
         
 *Presented by* Word of Warning        
          
-What can you make when your kitchen table is the stage + your camera is the audience?<br>An assembly of artists; a collage of commentary on where we find ourselves now…<br>Now that it's over, re-watch the (edited) live stream on YouTube below.        
-<iframe src="http://youtube.com/embed/seg57Z8-mfk" width="640" height="360" frameborder="0" allowfullscreen></iframe>                 
+What can you make when your kitchen table is the stage + your camera is the audience? An assembly of artists; a collage of commentary on where we find ourselves now…<br>Now that it's over, re-watch the (edited) livestream on YouTube below.        
+<iframe width="560" height="315" src="https://www.youtube.com/embed/seg57Z8-mfk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>        
          
 #### Artists       
 Ali Wilson · Elly Rutherford & Fanis Sakellariou · Helena Ascough · Jane Munro · Madame Zucchini · Maryam Hashemi · Pinchbeck & Smith · Victoria Firth<br>Hosted by Peader Kirk.        
         
-Domestic is an informal online platform for artists to beta test new work, live from their homes — get a feel for it by watching [August](/archive/2020-domestic/august)'s <a href="http://youtu.be/AOT29ZTtZAA" target="_blank">live stream</a> and/or [July](/archive/2020-domestic/july)'s <a href="http://youtu.be/IUNv7CARKLU" target="_blank">live stream</a>.        
+Domestic is an informal online platform for artists to beta test new work, live from their homes — get a feel for it by watching [August](/archive/2020-domestic/august)'s <a href="http://youtu.be/AOT29ZTtZAA" target="_blank">livestream</a> and/or [July](/archive/2020-domestic/july)'s <a href="http://youtu.be/IUNv7CARKLU" target="_blank">livestream</a>.        
          
 #### Access            
-Time: Wednesday 7 October 2020, 8pm to *approximately* 9.15pm.<br>Location: live streamed online via Zoom webinar.<br>Ticketing: <a href="http://eventbrite.co.uk/e/domestic-registration-123445736521" target="_blank">book a free space on eventbrite</a> to receive live stream details.<br>Donations are welcome via <a href="http://www.paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Please note: we *aim* to use automated live captioning at this event;<br>&nbsp;&nbsp;to improve your listening experience we suggest using headphones/external speakers;<br>&nbsp;&nbsp;for specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
+Time: Wednesday 7 October 2020, 8pm to *approximately* 9.15pm.<br>Location: livestreamed online via Zoom webinar.<br>Ticketing: <a href="http://eventbrite.co.uk/e/domestic-registration-123445736521" target="_blank">book a free space on eventbrite</a> to receive livestream details.<br>Donations are welcome via <a href="http://www.paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Please note: we *aim* to use automated live captioning at this event;<br>&nbsp;&nbsp;to improve your listening experience we suggest using headphones/external speakers;<br>&nbsp;&nbsp;for specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
           
 #### About         
-In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/2017-autumnwinter/pritchard) we presented Domestic works in tower blocks in transition — little did we know then, that in 2020 our homes would become our only stages and only auditoria…        
+In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/2017-autumnwinter/pritchard) we presented Domestic works in tower blocks in transition — little did we know then, that in [2020](/archive/2020-domestic) our homes would become our only stages and only auditoria…        
         
 And so [July](/archive/2020-domestic/july) + [August](/archive/2020-domestic/august) began a series of "Domestic at homes", with artists trying out new works about what was on their minds — using whatever resources they had to hand.        
         
