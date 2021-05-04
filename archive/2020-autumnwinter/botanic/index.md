@@ -17,7 +17,7 @@ season: "Botanic 27|9|2020, 12-4pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/archive/2020-autumnwinter/botanic/#artists) · [access](/archive/2020-autumnwinter/botanic/#access) · [programme](/archive/2020-autumnwinter/botanic/#programme) · [websites](/archive/2020-autumnwinter/botanic/#websites)</span> · <small>*Updated 4 January 2021, 4.35pm*</small>     
+<span style='font-variant: small-caps'>jump → [artists](/archive/2020-autumnwinter/botanic/#artists) · [access](/archive/2020-autumnwinter/botanic/#access) · [programme](/archive/2020-autumnwinter/botanic/#programme) · [websites](/archive/2020-autumnwinter/botanic/#websites)</span> · <small>Updated 4 January 2021</small>     
         
 *A* Divergency *project, presented by* Word of Warning        
         
