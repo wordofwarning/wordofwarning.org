@@ -34,7 +34,7 @@ Time: Wednesday 10 March 2021, 8pm to *approximately* 9.15pm.<br>Location: lives
 #### About         
 In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/2017-autumnwinter/pritchard) we presented Domestic works in tower blocks in transition — little did we know then, that in 2020 our homes would become our only stages and only auditoria…        
         
-And so we began a series of "Domestic at homes" [in 2020](/archive/2020-domestic), with artists trying out new works about what was on their minds — using whatever resources they had to hand.         
+And so we began a series of "Domestic at homes" in [2020](/archive/2020-domestic), with artists trying out new works about what was on their minds — using whatever resources they had to hand.         
         
 Join us on 10 March for our fifth set of "artists at home" — selected from our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for proposals</a>. Real lives, real stories, real homes.          
         
