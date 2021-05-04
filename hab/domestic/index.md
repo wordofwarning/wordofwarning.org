@@ -16,12 +16,14 @@ season: "Domestic by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 30 April 2021</small>        
+<small>Updated 4 May 2021</small>        
         
 **[2020](/archive/2020-domestic)/[21](/current/2021-domestic)'s series of Domestic "at homes"** are an informal online platform for artists to beta test new work, live from their homes… What can you make when your kitchen table, bathroom, or garden tent is the stage — and your camera is the audience?        
-<hr>         
-We're interested in what artists want to say right now — our <a href="http://domesticmcr.posthaven.com" target="_blank">**rolling open call for proposals**</a> seeks short (max 10 mins) live art and/or contemporary performance works that can be presented online, within an artist's available resources. Whilst we sense that artist's appetite for showing their work online from home is *currently* waning, please feel free to suggest something as we'll put together our sixth online event later this year when we've got the right content.        
          
+We're interested in what artists want to say right now — our <a href="http://domesticmcr.posthaven.com" target="_blank">**rolling open call for proposals**</a> seeks short (max 10 mins) live art and/or contemporary performance works that can be presented online, within an artist's available resources.        
+        
+Whilst we sense that artist's appetite for showing their work online from home is *currently* waning, please feel free to suggest something as we'll put together our sixth online event later this year when we've got the right content.        
+<hr>         
 **[July 2020](/archive/2020-domestic/july)**'s pilot featured 6 invited artists (<a href="http://youtu.be/IUNv7CARKLU" target="_blank">watch livestream archive</a>); **[August](/archive/2020-domestic/august)** featured 7 works selected from our open call (<a href="http://youtu.be/AOT29ZTtZAA" target="_blank">livestream</a>); **[October](/archive/2020-domestic/october)** featured 8 works (<a href="http://youtu.be/seg57Z8-mfk" target="_blank">livestream</a>); **[January 2021](/current/2021-domestic/january)** featured 7 works (<a href="http://youtu.be/VsDRVALM2Ao" target="_blank">livestream</a>); and **[March](/current/2021-domestic/march)**'s event featured 5 works (livestream available soon) — all hosted by Peader Kirk.        
          
 Alongside live works, artists propose pre-recorded pieces that don't fit this format — so in December 2020 we introduced **<a href="http://domesticatedonline.org" target="_blank">Domesticated</a>**, a new home for video performance whose first guests are Beth Clayton, Freddie Watkins, Heather Bandenburg, Kellie Colbert & Deborah Newton, Mahboobeh Rajabi, Nicholas Tee, Oliver Ford, Sandra Bouguerch.        
