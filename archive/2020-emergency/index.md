@@ -17,7 +17,7 @@ season: "Emergency 2020"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/archive/2020-emergency/#artists) · [access](/archive/2020-emergency/#access) · [about](/archive/2020-emergency/#about) · [websites](/archive/2020-emergency/#websites)</span> · <small>*Updated 4 January 2021, 5.20pm*</small>     
+<span style='font-variant: small-caps'>jump → [artists](/archive/2020-emergency/#artists) · [access](/archive/2020-emergency/#access) · [about](/archive/2020-emergency/#about) · [websites](/archive/2020-emergency/#websites)</span> · <small>Updated 4 January 2021</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
