@@ -21,7 +21,7 @@ season: "Works Ahead — Will Dickie 22|5|2020, 9pm"
         
 *Presented by* Word of Warning *+* Contact *as* Works Ahead 2020        
          
-A work-in-progress performance, adapted for livestreaming.<br>As darkness falls… A lo-fi solo symphony of relentless movement and words about being a white son. A sun of power and privilege, a son of divorce and addiction.<br>Now that it’s over, re-watch the (edited) livestream on YouTube below.        
+A work-in-progress performance, adapted for livestreaming.<br>As darkness falls…<br>A lo-fi solo symphony of relentless movement and words about being a white son. A sun of power and privilege, a son of divorce and addiction.<br>Now that it’s over, re-watch the (edited) livestream on YouTube below.        
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yrZFSzURaS4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>        
          
 #### Access            
@@ -34,7 +34,7 @@ Today, Britain continues to benefit from its colonial past. A nation passionatel
          
 Will is white, British, straight, and privately educated. He grew up in a wealthy suburb inside the M25 and now lives in a Victorian house in Liverpool. Divorced parents; addictions to food, exercise, and attention. Is there a way of coming to terms with this identity, this past, and his privilege? Any hope? Any space for a voice and moving body beyond a maelstrom of inequality?         
               
-**[Works Ahead](/hab/worksahead)** is our annual sample of new performance — 2020's edition was planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS on 21/22 May in partnership with Contact: Will adapted his work for livestreaming; Ross postponed sharing his work until it can be shown to a physical audience.         
+**[Works Ahead](/hab/worksahead)** is our annual sample of new performance — 2020's edition was planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS in partnership with Contact on 21/22 May: Will adapted his work for livestreaming; Ross postponed sharing his work until it can be shown to a physical audience.         
         
 #### Artist        
 Liverpool-based artist Will Dickie is a self-produced independent performance maker, working across dance, theatre + live art. Using body, autobiography, and place, he creates soulful performances for site and stage.            
