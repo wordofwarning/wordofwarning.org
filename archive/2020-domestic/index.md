@@ -30,7 +30,7 @@ And so we began a series of "Domestic at homes" in **[July](/archive/2020-domest
         
 Real lives, real stories, real homes.         
         
-[Domestic](/hab/domestic) 2020 series hosted by Peader Kirk + produced by [hÅb](/hab).         
+[Domestic](/hab/domestic) 2020 series was an informal online platform for artists to beta test new work, live from their homes; hosted by Peader Kirk; produced by [hÅb](/hab).         
         
 #### Websites         
 <a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> | <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a>        
