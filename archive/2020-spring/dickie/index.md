@@ -17,24 +17,24 @@ season: "Works Ahead — Will Dickie 22|5|2020, 9pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [access](/archive/2020-spring/dickie/#access) · [about](/archive/2020-spring/dickie/#about) · [artist](/archive/2020-spring/dickie/#artist) · [reviews](/archive/2020-spring/dickie/#reviews) · [credits](/archive/2020-spring/dickie/#credits) · [websites](/archive/2020-spring/dickie/#websites)</span>        
+<span style='font-variant: small-caps'>jump → [access](/archive/2020-spring/dickie/#access) · [about](/archive/2020-spring/dickie/#about) · [artist](/archive/2020-spring/dickie/#artist) · [reviews](/archive/2020-spring/dickie/#reviews) · [credits](/archive/2020-spring/dickie/#credits) · [websites](/archive/2020-spring/dickie/#websites)</span> · <small>Updated 4 May 2021<small>         
         
 *Presented by* Word of Warning *+* Contact *as* Works Ahead 2020        
          
-A work-in-progress performance, adapted for live streaming.<br>As darkness falls…<br>A lo-fi solo symphony of relentless movement and words about being a white son.<br>A sun of power and privilege, a son of divorce and addiction.        
-<iframe src="http://www.youtube.com/embed/yrZFSzURaS4" width="640" height="360" frameborder="0" allowfullscreen></iframe>          
+A work-in-progress performance, adapted for livestreaming.<br>As darkness falls… A lo-fi solo symphony of relentless movement and words about being a white son. A sun of power and privilege, a son of divorce and addiction.<br>Now that it’s over, re-watch the (edited) livestream on YouTube below.        
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yrZFSzURaS4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>        
          
 #### Access            
-Time: Friday 22 May 2020, 9pm.<br>Location: live streamed online.<br>Tickets: book a free space on <a href="http://eventbrite.com/e/105420686110" target="_blank">Eventbrite</a> to receive live stream details.<br>&nbsp;Donations are welcome via <a href="http://www.paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>Duration: approximately 40 minutes.<br>Features: live spoken English + movement.<br>&nbsp;To improve your listening experience we suggest using headphones/external speakers.<br>For specific access information please get in touch by emailing <mailto:info@habmcr.org>         
+Time: Friday 22 May 2020, 9pm.<br>Location: livestreamed online.<br>Tickets: book a free space on <a href="http://eventbrite.com/e/105420686110" target="_blank">Eventbrite</a> to receive livestream details.<br>&nbsp;Donations are welcome via <a href="http://www.paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>Duration: approximately 40 minutes.<br>Features: live spoken English + movement.<br>&nbsp;To improve your listening experience we suggest using headphones/external speakers.<br>For specific access information please get in touch by emailing <mailto:info@habmcr.org>         
           
 #### About         
 >*No lights. No music. No props. Moving. And speaking. And moving and speaking. And skanking and moving and speaking. Some nodding. Pulsing. Also bopping. And shaking. And shaking shaking. Scrambling. And speaking. And pointing.<br><br>Pointing at the space when others see my face.<br>Pointing at addiction and how that makes us who we are.<br>Pointing at divorce and how that makes us who we are.<br>Pointing at Britain and old actors and privilege and how that makes me who I am.<br>Pointing at the Sun and speaking about white golden things.*        
         
 Today, Britain continues to benefit from its colonial past. A nation passionately caught up with being right, being the exception to the rule, and making profit at any cost. Children of divorced parents are 50% more likely to develop mental health problems. Addiction is a primary cause of preventable death; ruining lives, and consuming vast amounts of medical resources.           
          
-Will is white, British, straight, and privately educated. He grew up in a wealthy suburb inside the M25 and now lives in a Victorian house in Liverpool. Divorced parents; addictions to food, exercise, and attention.<br>Is there a way of coming to terms with this identity, this past, and his privilege?<br>Any hope? Any space for a voice and moving body beyond a maelstrom of inequality?         
+Will is white, British, straight, and privately educated. He grew up in a wealthy suburb inside the M25 and now lives in a Victorian house in Liverpool. Divorced parents; addictions to food, exercise, and attention. Is there a way of coming to terms with this identity, this past, and his privilege? Any hope? Any space for a voice and moving body beyond a maelstrom of inequality?         
               
-**[Works Ahead](/hab/worksahead)**<br>Our annual sample of new performance — 2020's edition was planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS on 21/22 May in partnership with Contact: Will has adapted his work for live streaming; Ross has postponed sharing his work until it can be shown to a physical audience.         
+**[Works Ahead](/hab/worksahead)** is our annual sample of new performance — 2020's edition was planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS on 21/22 May in partnership with Contact: Will adapted his work for livestreaming; Ross postponed sharing his work until it can be shown to a physical audience.         
         
 #### Artist        
 Liverpool-based artist Will Dickie is a self-produced independent performance maker, working across dance, theatre + live art. Using body, autobiography, and place, he creates soulful performances for site and stage.            
