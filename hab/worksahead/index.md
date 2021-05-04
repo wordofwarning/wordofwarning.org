@@ -19,7 +19,7 @@ season: "Works Ahead by hÅb"
 ---
 <small>Updated 4 May 2021</small>                
         
-**Works Ahead** is a project developed out of the old Method Lab + SeedFund schemes hÅb ran with greenroom until 2011. Since 2012 it has offered thirty-five small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events; support includes mentoring and a public showing of the next stage of the work, often in partnership with <a href="http://contactmcr.com" target="_blank">Contact</a>…       
+**Works Ahead** is a project developed out of the old Method Lab + SeedFund schemes hÅb ran with greenroom until 2011. Since 2012 it has offered thirty-five small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events; support includes mentoring and a public showing of the next stage of the work, in partnership with <a href="http://contactmcr.com" target="_blank">Contact</a>…       
          
 <span style='font-variant: small-caps'>jump → [2012](/hab/worksahead/#2012) · [2013](/hab/worksahead/#2013) · [2014](/hab/worksahead/#2014) · [2015](/hab/worksahead/#2015) · [2016](/hab/worksahead/#2016) · [2017](/hab/worksahead/#2017) · [2018](/hab/worksahead/#2018) · [2019](/hab/worksahead/#2019) · [2020](/hab/worksahead/#2020) · [2021](/hab/worksahead/#2021)</span>        
 <hr>        
@@ -42,13 +42,13 @@ Our [fifth Works Ahead](/archive/2016-worksahead) took place at Contact in June,
 Our [sixth Works Ahead](/archive/2017-worksahead) took place in May, with two nights at two venues featuring three artists: Tom Cassani + Toni-Dee Paul's double bill at Contact, and Chanje Kunda in STUN Studio at Z-arts… See [images](/galleries/2017-woah).                 
                  
 #### 2018         
-Our [seventh Works Ahead](/archive/2018-worksahead) took place in partnership with Contact at STUN Studio in May, with a double bill from two artists at the start of their journeys; a girl and a guitar, a boy and a box of questions: Emma Geraghty + Vijay Patel… See [images](/galleries/2018-woah). We also seed-commissioned Jamal Gerald's new work for development in partnership with Transform in Leeds; [*Idol*](/archive/2020-spring/gerald) was planned to show at Royal Exchange in March 2020 but cancelled due to Covid-19.            
+Our [seventh Works Ahead](/archive/2018-worksahead) took place at STUN Studio in May, with a double bill from two artists at the start of their journeys; a girl and a guitar, a boy and a box of questions: Emma Geraghty + Vijay Patel… See [images](/galleries/2018-woah).<br>We also seed-commissioned Jamal Gerald's new work for development in partnership with Transform in Leeds; [*Idol*](/archive/2020-spring/gerald) was planned to show at Royal Exchange in March 2020 but cancelled due to Covid-19.            
               
 #### 2019         
 Our [eighth Works Ahead](/archive/2019-worksahead) took place at STUN Studio in May, with a double bill featuring two explorations of inner conflict, outer division, and the politics of oppression from Mark Croasdale + Avital Raz… See [images](/galleries/2019-woah).          
 
 #### 2020         
-Our ninth Works Ahead was planned as a sited double bill at NIAMOS in partnership with Contact from artists Will Dickie + Ross McCaffrey: [Will](/archive/2020-spring/dickie) adapted his work for livestreaming, <a href="http://youtu.be/yrZFSzURaS4" target="_blank">broadcast in May</a>; Ross postponed sharing his work until it can be shown to a physical audience.         
+Our ninth Works Ahead was planned as a sited double bill at NIAMOS from artists Will Dickie + Ross McCaffrey: [Will](/archive/2020-spring/dickie) adapted his work for livestreaming, <a href="http://youtu.be/yrZFSzURaS4" target="_blank">broadcast in May</a>; Ross postponed sharing his work until it could be shown to a physical audience.         
             
 #### 2021         
 This year, commissions have been awarded in partnership with Contact to artists Helena Ascough + Jade Dominique Williams; both artists will develop their ideas during the summer and we hope to present their works to a physical audience in 2022.           
