@@ -17,21 +17,21 @@ season: "Domestic 1|7|2020, 8.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump to → [artists](/archive/2020-domestic/july/#artists) · [access](/archive/2020-domestic/july/#access) · [about](/archive/2020-domestic/july/#about) · [programme](/archive/2020-domestic/july/#programme) · [websites](/archive/2020-domestic/july/#websites)</span> · <small>*Updated 4 January 2021, 4.45pm*</small>     
+<span style='font-variant: small-caps'>jump → [artists](/archive/2020-domestic/july/#artists) · [access](/archive/2020-domestic/july/#access) · [about](/archive/2020-domestic/july/#about) · [programme](/archive/2020-domestic/july/#programme) · [websites](/archive/2020-domestic/july/#websites)</span> · <small>Updated 4 May 2021</small>     
         
 *Presented by* Word of Warning        
          
-What can you make when your kitchen table is the stage + your camera is the audience?<br>6 artists, 6 commentaries on where we find ourselves: a beta test platform for new work.<br>Now that it's over, re-watch the live stream on YouTube ↓        
-<iframe src="http://youtube.com/embed/IUNv7CARKLU" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
+What can you make when your kitchen table is the stage + your camera is the audience? Six artists, six commentaries on where we find ourselves: a beta test platform for new work.<br>Now that it's over, re-watch the (edited) livestream on YouTube below.        
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IUNv7CARKLU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>         
+         
 #### Artists        
 Afreena Islam · Alex Bradley · Cheryl Martin · Emma Geraghty · Levantes Dance Theatre · Nathan Birkinshaw · hosted by Peader Kirk      
      
 #### Access            
-Time: Wednesday 1 July 2020, 8.30pm.<br>Location: live streamed online.<br>Tickets: book a free space on <a href="http://eventbrite.co.uk/e/domestic-registration-110965300200" target="_blank">Eventbrite</a> to receive live stream details.<br>&nbsp;&nbsp;Donations are welcome via <a href="http://paypal.me/warnmcr" target="_blank">PayPal</a>.<br>&nbsp;&nbsp;Please book 1 space per device being used.<br>Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Duration: *approximately* 1 hour.<br>Includes: live spoken + sung English, movement, recorded audio + video.<br>&nbsp;&nbsp;Please note that we aim to test automated live captioning at this event.<br>&nbsp;&nbsp;To improve your listening experience we suggest using headphones/external speakers.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
+Time: Wednesday 1 July 2020, 8.30pm.<br>Location: livestreamed online.<br>Tickets: book a free space on <a href="http://eventbrite.co.uk/e/domestic-registration-110965300200" target="_blank">Eventbrite</a> to receive livestream details.<br>&nbsp;&nbsp;Donations are welcome via <a href="http://paypal.me/warnmcr" target="_blank">PayPal</a>.<br>&nbsp;&nbsp;Please book 1 space per device being used.<br>Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Duration: *approximately* 1 hour.<br>Includes: live spoken + sung English, movement, recorded audio + video.<br>&nbsp;&nbsp;Please note that we aim to test automated live captioning at this event.<br>&nbsp;&nbsp;To improve your listening experience we suggest using headphones/external speakers.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
           
 #### About         
-In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/2017-autumnwinter/pritchard) we presented Domestic works in tower blocks in transition — little did we know then, that in 2020 our homes would become our only stages and only auditoria…        
+In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/2017-autumnwinter/pritchard) we presented Domestic works in tower blocks in transition — little did we know then, that in [2020](/archive/2020-domestic) our homes would become our only stages and only auditoria…        
         
 For the first in this new series of Domestic "at homes", we invited six artists to try out new works about what's on their minds — using whatever resources they have to hand…         
         
@@ -39,7 +39,7 @@ For the first in this new series of Domestic "at homes", we invited six artists 
           
 Real lives, real stories, real homes.          
         
-Domestic was previewed by <a href="http://creativetourist.com/event/domestic" target="_blank">creativetourist.com</a> and one of Manchester Wire's <a href="http://manchesterwire.co.uk/guide/free-things-to-do-at-home-and-in-manchester-this-week-ft-xs-malarkey-comedy" target="_blank">Free things to do this week</a>.        
+Domestic (July 20) is previewed by <a href="http://creativetourist.com/event/domestic" target="_blank">creativetourist.com</a> and one of Manchester Wire's <a href="http://manchesterwire.co.uk/guide/free-things-to-do-at-home-and-in-manchester-this-week-ft-xs-malarkey-comedy" target="_blank">Free things to do this week</a>.        
           
 #### Programme         
 Afreena Islam · *A Word From Your Prime Minister*<br>&nbsp;&nbsp;Wash your hands and business as usual.        
