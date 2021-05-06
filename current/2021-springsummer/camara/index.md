@@ -21,7 +21,7 @@ season: "Tania Camara 26|5|2021, 7pm"
          
 *Presented by* In Between Time, STUN *+* Word of Warning        
          
-In 2020 we presented [*Oreo Variations*](/archive/2020-spring/camara): a choreographic development, work-in-progress for livestreaming of one section of Tania's work. Rejoin us for *Oreo Prelude*, a new livestream of unseen material.            
+In 2020 we presented [*Oreo Variations*](/archive/2020-spring/camara) a choreographic development, work-in-progress for livestreaming of one section of Tania's work. Rejoin us for *Oreo Prelude*, a new livestream of unseen material.            
             
 *Oreo, coconut, Bounty Bar* — micro-aggressions used to disempower a black person deemed to be 'acting white'.       
        
@@ -31,7 +31,7 @@ In 2020 we presented [*Oreo Variations*](/archive/2020-spring/camara): a choreog
 #### About         
 A semi-autobiographical solo about being a successfully educated black woman within western society. *Oreo Prelude* goes back to the beginning of the story, taking the words of British MP <a href="http://en.wikipedia.org/wiki/Diane_Abbott" target="_blank">Diane Abbott</a> to interrogate systemic racism and its effect on mental health within private and public personas.        
          
-Please note: *Prelude* + *Variations* will come together in *The Oreo Suite*, a digital collection of livestreamed material, to be followed by *Oreo* — the full work for a live audience.        
+Please note: *Prelude* + *Variations* will come together in *The Oreo Suite*, a digital compilation of livestreamed material showing in June during IBT?, to be followed by *Oreo* — the full work for a live audience.        
         
 #### Artist          
 A Manchester-based solo performance artist, Tania Camara works across devised theatre, dance, site-specific, live art, installation, video + photography. A graduate of the University of Amsterdam with an MA, she uses her cultural heritage, past experiences, research + the interdisciplinary structure of Batuku (incl. singing, dancing, drums + spoken word).        
@@ -44,9 +44,9 @@ Tania is a member of <a href="http://thelowry.com/about-us/artist-development/cl
 >★★★★ *A tour de force of a performance …utterly compelling.*<br>&nbsp;— <a href="http://www.thegrouchycritic.com/oreo-review" target="_blank">The Grouchy Critic on *Oreo* at HOME</a><br>*Captivating and thought provoking. Food for thought.*<br>&nbsp;— <a href="http://number9reviews.blogspot.com/2020/01/theatre-review-oreo-home-manchester.html" target="_blank">Number 9 Reviews on *Oreo* at HOME</a><br>*Brave thoughtful piece… Gutsy, moving… Unsettling and joyful.*<br>&nbsp;— [Audience Response to *Oreo Variations*](/archive/2020-spring/camara)         
          
 #### Credits          
-Creator, Performer, Producer: Tania Camara<br>?Dance Mentor: Pape Ibrahima N'diaye (a.k.a. Kaolack)<br>? Director: Peader Kirk<br>Livestream Producer: Ricardo Vilela at <a href="http://sagittamedia.co.uk/site2" target="_blank">Sagitta Media</a><br>Original *Oreo* Lighting Designer: Kamini Patel<br>? Image of *Me, myself and my Oreos* from SPILL Festival of Performance 2016 by Guido Mencari.        
+Creator, Performer, Producer: Tania Camara<br>? Dance Mentor: Pape Ibrahima N'diaye (a.k.a. Kaolack)<br>? Director: Peader Kirk<br>Livestream Producer: Ricardo Vilela at <a href="http://sagittamedia.co.uk/site2" target="_blank">Sagitta Media</a><br>Original *Oreo* Lighting Designer: Kamini Patel<br>? Image of *Me, myself and my Oreos* from SPILL Festival of Performance 2016 by Guido Mencari.        
          
-? We present this in conjunction with <a href="http://inbetweentime.co.uk" target="_blank">In Between Time</a> ipsum lorem        
+? We present this in conjunction with <a href="http://inbetweentime.co.uk" target="_blank">In Between Time</a> ipsum lorem ?        
          
 *Oreo* commissioned by <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North), developed with the support of <a href="http://homemcr.org/article/push-2020-commissions" target="_blank">HOME</a>, <a href="http://divergencymcr.org" target="_blank">Divergency</a> + [hÅb](/hab). Supported using public funding from the National Lottery through Arts Council England.        
        
