@@ -44,7 +44,7 @@ Tania is a member of <a href="http://thelowry.com/about-us/artist-development/cl
 >★★★★ *A tour de force of a performance …utterly compelling.*<br>&nbsp;— <a href="http://www.thegrouchycritic.com/oreo-review" target="_blank">The Grouchy Critic on *Oreo* at HOME</a><br>*Captivating and thought provoking. Food for thought.*<br>&nbsp;— <a href="http://number9reviews.blogspot.com/2020/01/theatre-review-oreo-home-manchester.html" target="_blank">Number 9 Reviews on *Oreo* at HOME</a><br>*Brave thoughtful piece… Gutsy, moving… Unsettling and joyful.*<br>&nbsp;— [Audience Response to *Oreo Variations*](/archive/2020-spring/camara)         
          
 #### Credits          
-Creator, Performer, Producer: Tania Camara<br>? Dance Mentor: Pape Ibrahima N'diaye (a.k.a. Kaolack)<br>? Director: Peader Kirk<br>Livestream Producer: Ricardo Vilela at <a href="http://sagittamedia.co.uk/site2" target="_blank">Sagitta Media</a><br>Original *Oreo* Lighting Designer: Kamini Patel<br>? Image of *Me, myself and my Oreos* from SPILL Festival of Performance 2016 by Guido Mencari.        
+Creator, Performer, Producer: Tania Camara<br>? Dance Mentor: Pape Ibrahima N'diaye (a.k.a. Kaolack)<br>? Director: Peader Kirk<br>Livestream Producer: Ricardo Vilela at <a href="http://sagittamedia.co.uk/site2" target="_blank">Sagitta Media</a><br>Original *Oreo* Lighting Designer: Kamini Patel<br>? Image of *Me, myself and my Oreos* from SPILL Festival of Performance 2016 by Guido Mencari. OR? of *Oreo* from PUSH 2020 at HOME by Chris Payne.       
          
 ? We present this in conjunction with <a href="http://inbetweentime.co.uk" target="_blank">In Between Time</a> ipsum lorem ?        
          
