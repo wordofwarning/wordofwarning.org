@@ -31,7 +31,7 @@ In 2020 we presented [*Oreo Variations*](/archive/2020-spring/camara), a choreog
 #### About         
 A semi-autobiographical solo about being a successfully educated black woman within western society. *Oreo Prelude* goes back to the beginning of the story, taking the words of British MP <a href="http://en.wikipedia.org/wiki/Diane_Abbott" target="_blank">Diane Abbott</a> to interrogate systemic racism and its effect on mental health within private and public personas.        
          
-ADD FROM IBT HERE.Please note: *Prelude* + *Variations* will come together as *The Oreo Suite*, a digital compilation of livestreamed material showing in June during ? IBT21, to be followed by *Oreo* — the full work for a live audience.        
+ADD IBT CREDITS + NB both bookings        
         
 #### Artist          
 A Manchester-based solo performance artist, Tania Camara works across devised theatre, dance, site-specific, live art, installation, video + photography. A graduate of the University of Amsterdam with an MA, she uses her cultural heritage, past experiences, research + the interdisciplinary structure of Batuku (incl. singing, dancing, drums + spoken word).        
@@ -46,11 +46,9 @@ Tania is a member of <a href="http://thelowry.com/about-us/artist-development/cl
 #### Credits          
 Creator, Performer, Producer: Tania Camara<br>? Dance Mentor: Pape Ibrahima N'diaye (a.k.a. Kaolack)<br>? Director: Peader Kirk<br>Livestream Producer: Ricardo Vilela at <a href="http://sagittamedia.co.uk/site2" target="_blank">Sagitta Media</a><br>Original *Oreo* Lighting Designer: Kamini Patel<br>? Image of *Me, myself and my Oreos* from SPILL Festival of Performance 2016 by Guido Mencari. OR? of *Oreo* from PUSH 2020 at HOME by Chris Payne.       
          
-? We present this in conjunction with <a href="http://inbetweentime.co.uk" target="_blank">In Between Time</a> ipsum lorem ?        
-         
 *Oreo* commissioned by <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North), developed with the support of <a href="http://homemcr.org/article/push-2020-commissions" target="_blank">HOME</a>, <a href="http://divergencymcr.org" target="_blank">Divergency</a> + [hÅb](/hab). Supported using public funding from the National Lottery through Arts Council England.        
        
 #### Websites         
-<a href="http://taniacamara.com" target="_blank">taniacamara.com</a> · <a href="http://www.facebook.com/TaniaCamara.Performance.Artist" target="_blank">Tania Camara on Facebook</a> · <a href="http://twitter.com/TaniaCamara2" target="_blank">@TaniaCamara2</a>        
+<a href="http://taniacamara.com" target="_blank">taniacamara.com</a> · <a href="http://www.facebook.com/TaniaCamara.Performance.Artist" target="_blank">Tania Camara on Facebook</a> · <a href="http://twitter.com/TaniaCamara2" target="_blank">@TaniaCamara2</a> · <a href="http://instagram.com/taniacamara20" target="_blank">Tania Camara on Instagram</a>             
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2021-springsummer/camara)</span></small>
