@@ -21,7 +21,7 @@ season: "Tania Camara 26|5|2021, 7pm"
          
 *Presented by* In Between Time, STUN *+* Word of Warning        
          
-In 2020 we presented [*Oreo Variations*](/archive/2020-spring/camara), a choreographic development of one section of Tania's work for livestreaming . Rejoin us for *Oreo Prelude*, a new livestream of unseen material.            
+In 2020 we presented [*Oreo Variations*](/archive/2020-spring/camara), a choreographic development of one section of Tania's work for livestreaming. Rejoin us for *Oreo Prelude*, a new livestream of unseen material.            
             
 *Oreo, coconut, Bounty Bar* — micro-aggressions used to disempower a black person deemed to be 'acting white'.       
        
