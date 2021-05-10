@@ -31,7 +31,7 @@ In 2020 we presented [*Oreo Variations*](/archive/2020-spring/camara), a choreog
 #### About         
 A semi-autobiographical solo about being a successfully educated black woman within western society. *Oreo Prelude* goes back to the beginning of the story, taking the words of British MP <a href="http://en.wikipedia.org/wiki/Diane_Abbott" target="_blank">Diane Abbott</a> to interrogate systemic racism and its effect on mental health within private and public personas.        
          
-Please note: *Prelude* + *Variations* will come together as *The Oreo Suite*, a digital compilation of livestreamed material showing in June during ? IBT21, to be followed by *Oreo* — the full work for a live audience.        
+ADD FROM IBT HERE.Please note: *Prelude* + *Variations* will come together as *The Oreo Suite*, a digital compilation of livestreamed material showing in June during ? IBT21, to be followed by *Oreo* — the full work for a live audience.        
         
 #### Artist          
 A Manchester-based solo performance artist, Tania Camara works across devised theatre, dance, site-specific, live art, installation, video + photography. A graduate of the University of Amsterdam with an MA, she uses her cultural heritage, past experiences, research + the interdisciplinary structure of Batuku (incl. singing, dancing, drums + spoken word).        
