@@ -38,17 +38,17 @@ A Manchester-based solo performance artist, Tania Camara works across devised th
         
 Tania's current practice focuses on personal accounts of memory, collective and ancestral, to uncover her racial and cultural identity; the concept of self and other; belonging and the black performing body.        
        
-Tania is a member of <a href="http://thelowry.com/about-us/artist-development/class-of-programme" target="_blank">The Lowry's Class of 2020</a>.         
+Tania is a member of ? IBT CREATIVE EXCHANGE LAB <a href="http://thelowry.com/about-us/artist-development/class-of-programme" target="_blank">The Lowry's Class of 2020</a>.         
         
 #### Reviews        
 >★★★★ *A tour de force of a performance …utterly compelling.*<br>&nbsp;— <a href="http://www.thegrouchycritic.com/oreo-review" target="_blank">The Grouchy Critic on *Oreo* at HOME</a><br>*Captivating and thought provoking. Food for thought.*<br>&nbsp;— <a href="http://number9reviews.blogspot.com/2020/01/theatre-review-oreo-home-manchester.html" target="_blank">Number 9 Reviews on *Oreo* at HOME</a><br>*Brave thoughtful piece… Gutsy, moving… Unsettling and joyful.*<br>&nbsp;— [Audience Response to *Oreo Variations*](/archive/2020-spring/camara)         
          
 #### Credits          
-Creator, Performer, Producer: Tania Camara<br>? Dance Mentor: Pape Ibrahima N'diaye (a.k.a. Kaolack)<br>? Director: Peader Kirk<br>Livestream Producer: Ricardo Vilela at <a href="http://sagittamedia.co.uk/site2" target="_blank">Sagitta Media</a><br>Original *Oreo* Lighting Designer: Kamini Patel<br>? Image of *Me, myself and my Oreos* from SPILL Festival of Performance 2016 by Guido Mencari. OR? of *Oreo* from PUSH 2020 at HOME by Chris Payne.       
+Creator, Performer, Producer: Tania Camara<br>? Dance Mentor: Pape Ibrahima N'diaye (a.k.a. Kaolack)<br>? Director: Peader Kirk<br>Livestream Producer: Ricardo Vilela at <a href="http://sagittamedia.co.uk/site2" target="_blank">Sagitta Media</a><br>Original *Oreo* Lighting Designer: Kamini Patel<br>? Image of *Me, myself and my Oreos* from SPILL Festival of Performance 2016 by Guido Mencari. OR? of *Oreo* from <a href="http://homemcr.org/article/push-2020-commissions" target="_blank">PUSH 2020 HOME</a> by Chris Payne.       
          
 *Oreo* commissioned by <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North), developed with the support of <a href="http://homemcr.org/article/push-2020-commissions" target="_blank">HOME</a>, <a href="http://divergencymcr.org" target="_blank">Divergency</a> + [hÅb](/hab). Supported using public funding from the National Lottery through Arts Council England.        
        
 #### Websites         
-<a href="http://taniacamara.com" target="_blank">taniacamara.com</a> · <a href="http://www.facebook.com/TaniaCamara.Performance.Artist" target="_blank">Tania Camara on Facebook</a> · <a href="http://twitter.com/TaniaCamara2" target="_blank">@TaniaCamara2</a> · <a href="http://instagram.com/taniacamara20" target="_blank">Tania Camara on Instagram</a>             
+<a href="http://taniacamara.com" target="_blank">taniacamara.com</a> · <a href="http://www.facebook.com/TaniaCamara.Performance.Artist" target="_blank">Tania on Facebook</a> · <a href="http://instagram.com/taniacamara20" target="_blank">Tania on Insta</a> · <a href="http://twitter.com/TaniaCamara2" target="_blank">@TaniaCamara2</a>             
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2021-springsummer/camara)</span></small>
