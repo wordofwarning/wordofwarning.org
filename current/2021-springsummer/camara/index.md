@@ -17,11 +17,11 @@ season: "Tania Camara 26|5|2021, 7pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/current/2021-springsummer/camara/#access) · [about](/current/2021-springsummer/camara/#about) · [artist](/current/2021-springsummer/camara/#artist) · [reviews](/current/2021-springsummer/camara/#reviews) · [credits](/current/2021-springsummer/camara/#credits) · [websites](/current/2021-springsummer/camara/#websites)</span> · <small>Updated 7 May 2021</small>         
+<span style='font-variant: small-caps'>jump → [access](/current/2021-springsummer/camara/#access) · [about](/current/2021-springsummer/camara/#about) · [artist](/current/2021-springsummer/camara/#artist) · [reviews](/current/2021-springsummer/camara/#reviews) · [credits](/current/2021-springsummer/camara/#credits) · [websites](/current/2021-springsummer/camara/#websites)</span> · <small>Updated 10 May 2021</small>         
          
 *Presented by* In Between Time, STUN *+* Word of Warning        
          
-In 2020 we presented [*Oreo Variations*](/archive/2020-spring/camara), a choreographic development work-in-progress for livestreaming of one section of Tania's work. Rejoin us for *Oreo Prelude*, a new livestream of unseen material.            
+In 2020 we presented [*Oreo Variations*](/archive/2020-spring/camara), a choreographic development of one section of Tania's work for livestreaming . Rejoin us for *Oreo Prelude*, a new livestream of unseen material.            
             
 *Oreo, coconut, Bounty Bar* — micro-aggressions used to disempower a black person deemed to be 'acting white'.       
        
