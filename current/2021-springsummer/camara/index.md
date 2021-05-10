@@ -38,7 +38,7 @@ A Manchester-based solo performance artist, Tania Camara works across devised th
         
 Tania's current practice focuses on personal accounts of memory, collective and ancestral, to uncover her racial and cultural identity; the concept of self and other; belonging and the black performing body.        
        
-Tania is a member of ? IBT CREATIVE EXCHANGE LAB <a href="http://thelowry.com/about-us/artist-development/class-of-programme" target="_blank">The Lowry's Class of 2020</a>.         
+Tania is a member of IBT's CREATIVE EXCHANGE LAB? and <a href="http://thelowry.com/about-us/artist-development/class-of-programme" target="_blank">The Lowry's Class of 2020</a>.         
         
 #### Reviews        
 >★★★★ *A tour de force of a performance …utterly compelling.*<br>&nbsp;— <a href="http://www.thegrouchycritic.com/oreo-review" target="_blank">The Grouchy Critic on *Oreo* at HOME</a><br>*Captivating and thought provoking. Food for thought.*<br>&nbsp;— <a href="http://number9reviews.blogspot.com/2020/01/theatre-review-oreo-home-manchester.html" target="_blank">Number 9 Reviews on *Oreo* at HOME</a><br>*Brave thoughtful piece… Gutsy, moving… Unsettling and joyful.*<br>&nbsp;— [Audience Response to *Oreo Variations*](/archive/2020-spring/camara)         
