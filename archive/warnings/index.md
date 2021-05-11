@@ -4,15 +4,20 @@ layout: home # the season or event-specific template in /_layouts
 rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Archived Warnings" # the name of the artist or company
+artist: "Archived Content Warnings" # the name of the artist or company
 artist_size: 1
-season: "Archived Warnings"
+season: "Archived Content Warnings"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-*Updated 30 March 2021, 14:02*<br><br>Age Advisories/Limits and Content Warnings for past events and archived livestreams on our YouTube channel are below; click [here](/warnings) for upcoming event warnings.<br>This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger.<br>If issues raised affect you, these organisations may be of support:&nbsp;&nbsp;<a href="http://thecalmzone.net" target="_blank">CALM</a>&nbsp;&nbsp;0800 585858&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://harmless.org.uk" target="_blank">Harmless</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://mind.org.uk" target="_blank">Mind</a>&nbsp;&nbsp;0300 123 3393&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://nopanic.org.uk" target="_blank">No Panic</a>&nbsp;&nbsp;0300 772 9844&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://samaritans.org" target="_blank">Samaritans</a>&nbsp;&nbsp;call 116 123 or email jo@samaritans.org&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://supportline.org.uk" target="_blank">SupportLine</a>&nbsp;&nbsp;01708 765 200&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://thesurvivorstrust.org" target="_blank">The Survivors Trust</a>&nbsp;&nbsp;08088 010 818          
+Age Advisories/Limits and Content Warnings for *past* events and *archived* livestreams on our YouTube channel are below — for *upcoming* events click [here](/archive/warnings).        
+        
+This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger — if issues raised affect you, these organisations may be of support:&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://thecalmzone.net" target="_blank">CALM</a> 0800 585858&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://harmless.org.uk" target="_blank">Harmless</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://mind.org.uk" target="_blank">Mind</a> 0300 123 3393&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://nopanic.org.uk" target="_blank">No Panic</a> 0300 772 9844&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://samaritans.org" target="_blank">Samaritans</a> 116 123&nbsp;&nbsp;jo@samaritans.org&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://supportline.org.uk" target="_blank">SupportLine</a> 01708 765 200&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://thesurvivorstrust.org" target="_blank">The Survivors Trust</a> 08088 010 818        
+        
+Updated 11 May 2021 · <span style='font-variant: small-caps'>jump → [2021](/archive/warnings/#2021) · [2020](/archive/warnings/#2020) · [2019](/archive/warnings/#2019)</span>        
+         
 <hr>         
 #### 2021        
 ##### [10 Mar. Online | Domestic](/current/2021-domestic/march)        
@@ -37,10 +42,10 @@ Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Con
 Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, some included audience interaction, specific warnings follow.<br>&nbsp;Afreena Islam — includes satirical content, swearing.<br>&nbsp;Cheryl Martin — includes mention of abuse, alcohlism, illness, suicide.<br>&nbsp;Nathan Birkinshaw — includes nudity, a recording of defecation, taxidermy.        
         
 ##### [22 May. Online | Works Ahead 2020 — Will Dickie's *White Sun*](/archive/2020-spring/dickie)       
-Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>&nbsp;*N.B. planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS on 21/22 May in partnership with Contact:<br>&nbsp;Will adapted his work for live streaming; Ross postponed sharing his work until it can be shown to a physical audience.*        
+Age Advisory: parental/guardian discretion.<br>Content Warnings: none.<br>&nbsp;*N.B. planned as a sited double bill from Will Dickie + Ross McCaffrey at NIAMOS on 21/22 May in partnership with Contact:<br>&nbsp;Will adapted his work for livestreaming; Ross postponed sharing his work until it can be shown to a physical audience.*        
         
-##### [1 May. Online | *OREO: variations* by Tania Camara](/archive/2020-spring/camara)        
-Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes simulated gagging/retching.<br>&nbsp;*N.B. Rescheduled from 23+24 April in STUN Studio at Z-arts.*        
+##### [1 May. Online | *Oreo Variations* by Tania Camara](/archive/2020-spring/camara)        
+Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: included simulated gagging/retching.<br>&nbsp;*N.B. Rescheduled from 23+24 April in STUN Studio at Z-arts to a livestream.*        
         
 ##### [1 Apr. The Lowry | *We Are Fucked* by Jo Bannon (CANCELLED)](/archive/2020-spring/bannon)       
 Age Advisory: 16+ (parental/guardian discretion).<br>No Content Warnings.       
@@ -68,14 +73,14 @@ Age Advisory: 12+ (parental/guardian discretion).<br>Content Warning: includes m
             
 ##### [21 Sep. Hulme | *Emergency 2019*](/archive/2019-emergency)               
 Age Advisory: the overall event is mainly aimed at adults, parental/guardian discretion is advised; some works are not suitable for under 18s.          
-***EVENING* at STUN Studio + Z-arts**        
+*EVENING* at STUN Studio + Z-arts        
 Helen Sulis Bowie | *Smashing It!*<br>&nbsp;— Age Advisory: parental/guardian discretion.<br>&nbsp;— Content Warnings: contains swearing + references to personal + political violence.              
 Lara Buffard + Gur Arie Piepskovitz | *Confessional on The Dance Floor (Madonna's true vassals)*<br>&nbsp;— Age Limit: 18+ for one to one participation.<br>&nbsp;— Content Warnings: mature content + drinking of tequila.              
 Rebekka Platt | *Do you want fries with that?*<br>&nbsp;— Age Advisory: parental/guardian discretion<br>&nbsp;— Content Warning: features nudity.             
 Ross McCaffrey | *Sometimes History Needs a Push*<br>&nbsp;— Age Advisory: parental/guardian discretion.<br>&nbsp;— Content Warnings: mentions political violence + references to genocide.               
 Shahireh Sharif | *I am an orange dot*<br>&nbsp;— Age Advisory: parental/guardian discretion.<br>&nbsp;— Content Warnings: a work about refugees, includes mentions of death, drowning, hanging, dead bodies floating + the taste of blood that some may find upsetting.             
 Vendetta Vain | *Taking the Piss*<br>&nbsp;— Age Advisory: 16+ (parental/guardian discretion).<br>&nbsp;— Content Warnings: features nudity + bodily functions.         
-***DAYTIME* at NIAMOS**           
+*DAYTIME* at NIAMOS           
 Alex Bradley | *Almost Everything is Black + White*<br>&nbsp;— Age Advisory: parental/guardian discretion.<br>&nbsp;— Content Warning: features nudity.        
 Bill Duffy | *Scar Tissue / Symmetry*<br>&nbsp;— Age Advisory: 18+ (parental/guardian discretion).<br>&nbsp;— Content Warnings: features blood-letting, disturbing content + themes of abuse.         
 Charlotte McShane | *Tell Me Lies*<br>&nbsp;— Age Advisory: 18+ (parental/guardian discretion).<br>&nbsp;— Content Warnings: includes swearing, shouting, mild sexual content; requires active audience participation in a one-to-one setting; audience members need to feel comfortable by themselves + aware of the possibility of oversharing.            
