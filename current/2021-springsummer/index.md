@@ -21,7 +21,7 @@ We take live work very seriously — but we don't take ourselves seriously at al
 <small><span style='font-variant: small-caps'>[back to top](/current/2021-springsummer)</span></small>         
          
 #### Audiences         
-We don't want to put you off by talking art form labels — yes, there'll be theatre, live art, performance, dance, etc. — as our aim is to be anything but elitist or po-faced. So, if you like comedy, music, gaming, or want a friendly, stimulating evening — there'll be something you might want to take a chance on… Here's what other people say:       
+We don't want to put you off by talking art form labels — yes, there'll be theatre, live art, performance, dance, etc. — as our aim is to be anything but elitist or po-faced. So, if you like comedy, music, gaming, or want a friendly, stimulating evening — there'll be something you might want to take a chance on…         
 >*Astonishing. Like nothing else. Transformative, immersive, moving.*<br>*Always special, bringing the unexpected and intriguing, thank you.*<br>*Fabulous for seeing things different from the mainstream machine.<br>Really important and interesting work, different to everything else.*<br>&nbsp;— Audience feedback          
          
 <small><span style='font-variant: small-caps'>[back to top](/current/2021-springsummer)</span></small>        
