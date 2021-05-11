@@ -31,7 +31,7 @@ Time: Wednesday 26 May 2021, 7pm to *approximately* 7.30pm.<br>Location: livestr
 #### About         
 A semi-autobiographical solo about being a successfully educated black woman within western society. *Oreo Prelude* goes back to the beginning of the story, taking the words of British MP <a href="http://en.wikipedia.org/wiki/Diane_Abbott" target="_blank">Diane Abbott</a> to interrogate systemic racism and its effect on mental health within private and public personas.        
          
-**ADD IBT COLLABORATION PARA**         
+**TBC** *Oreo Prelude* + *Suite* are being developed through a commission from <a href="http://inbetweentime.co.uk" target="_blank">In Between Time</a> in collaboration with [hÅb](/hab)/Word of Warning. **TBC** Tania will perform a live development of *Oreo* in June at <a href="http://inbetweentime.co.uk" target="_blank">IBT21 The Rupture</a> in Bristol's Arnolfini.         
         
 #### Artist          
 A Manchester-based solo performance artist, Tania Camara works across devised theatre, dance, site-specific, live art, installation, video + photography. A graduate of the University of Amsterdam with an MA, she uses her cultural heritage, past experiences, research, and the interdisciplinary structure of Batuku (including singing, dancing, drums + spoken word).        
