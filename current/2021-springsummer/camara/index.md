@@ -17,7 +17,7 @@ season: "Tania Camara 26|5|2021, 7pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/current/2021-springsummer/camara/#access) · [about](/current/2021-springsummer/camara/#about) · [artist](/current/2021-springsummer/camara/#artist) · [reviews](/current/2021-springsummer/camara/#reviews) · [credits](/current/2021-springsummer/camara/#credits) · [websites](/current/2021-springsummer/camara/#websites)</span> · <small>Updated 10 May 2021</small>         
+<span style='font-variant: small-caps'>jump → [access](/current/2021-springsummer/camara/#access) · [about](/current/2021-springsummer/camara/#about) · [artist](/current/2021-springsummer/camara/#artist) · [reviews](/current/2021-springsummer/camara/#reviews) · [credits](/current/2021-springsummer/camara/#credits) · [websites](/current/2021-springsummer/camara/#websites)</span> · <small>Updated 11 May 2021</small>         
          
 *Presented by* In Between Time, STUN *+* Word of Warning        
          
@@ -26,12 +26,12 @@ season: "Tania Camara 26|5|2021, 7pm"
 In 2020 we presented [*Oreo Variations*](/archive/2020-spring/camara), a choreographic development of one section of Tania's work for livestreaming. Rejoin us for *Oreo Prelude*, a new livestream of unseen material.         
          
 #### Access         
-Time: Wednesday 26 May 2021, 7pm to *approximately* 7.35pm.<br>Location: livestreamed online via YouTube.<br>Ticketing: book a free space on eventbrite to receive livestream details.<br>Donations are welcome via <a href="http://paypal.me/warnmcr" target="_blank">PayPal</a><br>Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: **includes use of a racial slur**, for specific warnings please click [here](/warnings).<br>Features: live + recorded audio, spoken word, and choreographed movement.<br>Please note: if you require live captioning we suggest you try using <a href="http://otter.ai/starter-guide?article=generateNotes" target="_blank">Otter</a> on a 2nd device (*<a href="http://itunes.apple.com/us/app/otter-voice-notes/id1276437113" target="_blank">download on the App Store</a> or <a href="http://play.google.com/store/apps/details?id=com.aisense.otter" target="_blank">get it on Google Play</a>*); to improve your listening experience we suggest using headphones/external speakers.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
+Time: Wednesday 26 May 2021, 7pm to *approximately* 7.30pm.<br>Location: livestreamed online via YouTube.<br>Ticketing: book a free space on eventbrite to receive livestream details.<br>Donations are welcome via <a href="http://paypal.me/warnmcr" target="_blank">PayPal</a><br>Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes use of a racial slur that may offend, for specific warnings please click [here](/warnings).<br>Features: live + recorded audio, spoken word, and choreographed movement.<br>Please note: if you require live captioning we suggest you try using <a href="http://otter.ai/starter-guide?article=generateNotes" target="_blank">Otter</a> on a 2nd device (*<a href="http://itunes.apple.com/us/app/otter-voice-notes/id1276437113" target="_blank">download on the App Store</a> or <a href="http://play.google.com/store/apps/details?id=com.aisense.otter" target="_blank">get it on Google Play</a>*); to improve your listening experience we suggest using headphones/external speakers.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
          
 #### About         
 A semi-autobiographical solo about being a successfully educated black woman within western society. *Oreo Prelude* goes back to the beginning of the story, taking the words of British MP <a href="http://en.wikipedia.org/wiki/Diane_Abbott" target="_blank">Diane Abbott</a> to interrogate systemic racism and its effect on mental health within private and public personas.        
          
-ADD IBT COLLABORATION PARA         
+**ADD IBT COLLABORATION PARA**         
         
 #### Artist          
 A Manchester-based solo performance artist, Tania Camara works across devised theatre, dance, site-specific, live art, installation, video + photography. A graduate of the University of Amsterdam with an MA, she uses her cultural heritage, past experiences, research, and the interdisciplinary structure of Batuku (including singing, dancing, drums + spoken word).        
