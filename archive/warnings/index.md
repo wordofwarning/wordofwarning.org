@@ -12,11 +12,11 @@ season: "Archived Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-Age Advisories/Limits and Content Warnings for *past* events and *archived* livestreams on our YouTube channel are below — for *upcoming* events click [here](/archive/warnings).        
+Age Advisories/Limits and Content Warnings for *past* events and *archived* livestreams on our YouTube channel are below — for *upcoming* events click [here](/warnings).        
         
 This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger — if issues raised affect you, these organisations may be of support:&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://thecalmzone.net" target="_blank">CALM</a> 0800 585858&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://harmless.org.uk" target="_blank">Harmless</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://mind.org.uk" target="_blank">Mind</a> 0300 123 3393&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://nopanic.org.uk" target="_blank">No Panic</a> 0300 772 9844&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://samaritans.org" target="_blank">Samaritans</a> 116 123&nbsp;&nbsp;jo@samaritans.org&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://supportline.org.uk" target="_blank">SupportLine</a> 01708 765 200&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://thesurvivorstrust.org" target="_blank">The Survivors Trust</a> 08088 010 818        
         
-Updated 11 May 2021 · <span style='font-variant: small-caps'>jump → [2021](/archive/warnings/#2021) · [2020](/archive/warnings/#2020) · [2019](/archive/warnings/#2019)</span>        
+<span style='font-variant: small-caps'>jump → [2021](/archive/warnings/#2021) · [2020](/archive/warnings/#2020) · [2019](/archive/warnings/#2019)</span> · <small>Updated 11 May 2021</small>        
          
 <hr>         
 #### 2021        
