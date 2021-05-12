@@ -14,9 +14,9 @@ season: "Performance Programme Content Warnings"
 ---
 Age Advisories/Limits and Content Warnings for *upcoming* events are below — for *past* events and *archived* livestreams on our YouTube channel click [here](/archive/warnings).        
         
-This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger — if issues raised affect you, these organisations may be of support:&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://thecalmzone.net" target="_blank">CALM</a> 0800 585858&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://harmless.org.uk" target="_blank">Harmless</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://mind.org.uk" target="_blank">Mind</a> 0300 123 3393&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://nopanic.org.uk" target="_blank">No Panic</a> 0300 772 9844&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://samaritans.org" target="_blank">Samaritans</a> 116 123&nbsp;&nbsp;jo@samaritans.org&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://supportline.org.uk" target="_blank">SupportLine</a> 01708 765 200&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://thesurvivorstrust.org" target="_blank">The Survivors Trust</a> 08088 010 818        
+This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger — if issues raised affect you, these organisations may be of support:&nbsp;&nbsp;<a href="https://thecalmzone.net" target="_blank">CALM</a> 0800 585858 · <a href="https://harmless.org.uk" target="_blank">Harmless</a> · <a href="https://mind.org.uk" target="_blank">Mind</a> 0300 123 3393 · <a href="https://nopanic.org.uk" target="_blank">No Panic</a> 0300 772 9844 · <a href="https://samaritans.org" target="_blank">Samaritans</a> 116 123 jo@samaritans.org · <a href="https://supportline.org.uk" target="_blank">SupportLine</a> 01708 765 200 · <a href="https://thesurvivorstrust.org" target="_blank">The Survivors Trust</a> 08088 010 818        
         
-Updated 11 May 2021 — reflects most recent information received from the artists/companies we present.
+Updated 12 May 2021 — reflects most recent information received from the artists/companies we present.
 <hr>         
 ##### [26 May. Online | *TBA*](/current/2021-springsummer)         
          
