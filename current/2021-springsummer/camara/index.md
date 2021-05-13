@@ -17,7 +17,7 @@ season: "Tania Camara 26|5|2021, 7pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/current/2021-springsummer/camara/#access) · [about](/current/2021-springsummer/camara/#about) · [artist](/current/2021-springsummer/camara/#artist) · [reviews](/current/2021-springsummer/camara/#reviews) · [credits](/current/2021-springsummer/camara/#credits) · [websites](/current/2021-springsummer/camara/#websites)</span> · <small>Updated 12 May 2021</small>         
+<span style='font-variant: small-caps'>jump → [access](/current/2021-springsummer/camara/#access) · [about](/current/2021-springsummer/camara/#about) · [artist](/current/2021-springsummer/camara/#artist) · [reviews](/current/2021-springsummer/camara/#reviews) · [credits](/current/2021-springsummer/camara/#credits) · [websites](/current/2021-springsummer/camara/#websites)</span> · <small>Updated 13 May 2021</small>         
          
 *Presented by* In Between Time, STUN *+* Word of Warning        
          
@@ -31,7 +31,7 @@ Time: Wednesday 26 May 2021, 7pm to *approximately* 7.30pm.<br>Location: livestr
 #### About         
 A semi-autobiographical solo about being a successfully educated black woman within western society. *Oreo Prelude* goes back to the beginning of the story, taking the words of British MP <a href="http://en.wikipedia.org/wiki/Diane_Abbott" target="_blank">Diane Abbott</a> to interrogate systemic racism and its effect on mental health within private and public personas.        
          
-*Oreo Prelude* is being developed through a commission from <a href="http://inbetweentime.co.uk" target="_blank">In Between Time</a> in collaboration with [hÅb](/hab)/Word of Warning.         
+*Oreo Prelude* is being developed through a commission from <a href="http://inbetweentime.co.uk" target="_blank">In Between Time</a> in collaboration with [hÅb](/hab)/[Word of Warning](/).         
         
 #### Artist          
 A Manchester-based solo performance artist, Tania Camara works across devised theatre, dance, site-specific, live art, installation, video + photography. A graduate of the University of Amsterdam with an MA, she uses her cultural heritage, past experiences, research, and the interdisciplinary structure of Batuku (including singing, dancing, drums + spoken word).        
