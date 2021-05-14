@@ -17,9 +17,9 @@ season: "Tania Camara 26|5|2021, 7pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/current/2021-springsummer/camara/#access) · [about](/current/2021-springsummer/camara/#about) · [artist](/current/2021-springsummer/camara/#artist) · [reviews](/current/2021-springsummer/camara/#reviews) · [credits](/current/2021-springsummer/camara/#credits) · [websites](/current/2021-springsummer/camara/#websites)</span> · <small>Updated 13 May 2021</small>         
+<span style='font-variant: small-caps'>jump → [access](/current/2021-springsummer/camara/#access) · [about](/current/2021-springsummer/camara/#about) · [artist](/current/2021-springsummer/camara/#artist) · [reviews](/current/2021-springsummer/camara/#reviews) · [credits](/current/2021-springsummer/camara/#credits) · [websites](/current/2021-springsummer/camara/#websites)</span> · <small>Updated 14 May 2021</small>         
          
-*Presented by* In Between Time, STUN *+* Word of Warning        
+*Presented by* STUN *+* Word of Warning        
          
 *Oreo, coconut, Bounty Bar* — micro-aggressions used to disempower a black person deemed to be 'acting white'.       
        
