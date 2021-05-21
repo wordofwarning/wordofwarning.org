@@ -22,7 +22,7 @@ hÅb can only function in partnership with a host of other organisations and net
         
 • a <a href="http://gm-artisthub.co.uk" target="_blank">Greater Manchester Artist Hub</a> partner — a joint artist development project supporting independent artists and freelance creatives across the city region with Community Arts Northwest, Contact, HOME, Manchester International Festival, Octagon Theatre Bolton, Oldham Coliseum Theatre, Royal Exchange Theatre, SICK! Festival, STUN, The Lowry, Waterside Arts & Creative Industries Trafford, Z-arts;         
         
-• a Greater Manchester LGBTQ+ Arts & Culture Network member — an LGBT Foundation Project, supported using public funding by the National Lottery through Arts Council England;        
+• a Greater Manchester LGBTQ+ Arts & Culture Network member — an LGBT Foundation Project, supported using public funding by the National Lottery through Arts Council England, supporting cultural partners to become more inclusive and transform how they engage with LGBTQ+ audiences, participants, artists + staff;        
          
 • a <a href="http://gm-iai.org" target="_blank">Greater Manchester Independent Artist Initiative</a> supporting partner — alongside other GM arts & culture organisations, exploring ways to support independent artists and companies in our city region to develop and share their work in 2021 as we emerge from COVID-19 restrictions;         
           
@@ -32,4 +32,4 @@ We are pleased to count among our other friends and regular partners:<br><a href
           
 In 2012 we were pleased to partner with Live at LICA (now Lancaster Arts) to produce the *<a href="http://www.liveatlica.org/whats-on/symposium-getting-it-out-there" target="_blank">Getting It Out There</a>* symposium on touring; a **free** publication produced with the Live Art Development Agency following the event can be <a href="http://habmcr.posthaven.com/getting-it-out-there-publication-free-to-down" target="_blank">downloaded here</a>.        
           
-<small>N.B. from April 2012 to March 2016 hÅb was funded by Manchester City Council through the Manchester Cultural Partnership.<br>*Updated 22 March 2021, 12:03*</small>
+<small>N.B. from April 2012 to March 2016 hÅb was funded by Manchester City Council through the Manchester Cultural Partnership.<br>Updated 21 May 2021</small>
