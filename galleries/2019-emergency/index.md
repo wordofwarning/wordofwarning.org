@@ -38,7 +38,7 @@ gallery:
     -   {file: "shahireh_sharif.jpg", artist: "Shahireh Sharif"}
     -   {file: "strange_names.jpg", artist: "The Strange Names Collective"}
     -   {file: "anna_louise.jpg", artist: "Anna West + Louise Cross"}
-    -   {file: "jazmine_webb.jpg", artist: "Jazmine Krokbäck"}
+    -   {file: "jazmine_krokbäck.jpg", artist: "Jazmine Krokbäck"}
     -   {file: "helen_sulis_bowie.jpg", artist: "Helen Sulis Bowie"}
     -   {file: "ross_mccaffrey.jpg", artist: "Ross McCaffrey"}
     -   {file: "vendetta_vain.jpg", artist: "Vendetta Vain"}
