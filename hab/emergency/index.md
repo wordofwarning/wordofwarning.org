@@ -18,21 +18,17 @@ season: "Emergency by hÅb"
 ---
 <small>Updated 27 July 2021</small>        
         
-**Emergency** is our annual platform for live art + contemporary performance, typically showing around 30 short works over a day/evening in Manchester each Autumn — the upcoming **[21st edition](/current/2021-emergency)** takes place in its 7th home and is necessarily a bit different…        
-        
-Originally planned for November 2020, **[Emergency 21](/current/2021-emergency)** is a socially-distanced live walkthrough event at the brand new <a href="http://contactmcr.com" target="_blank">Contact</a> this Autumn — audiences will be guided on a one-way journey through the refurbished building in timed slots, pausing en route in gallery fashion.        
-        
-*N.B. our <a href="http://emergencymcr.posthaven.com" target="_blank">**open call for proposals**</a> is closed — we were looking for approximately 10 works to fit these conditions: durational, performance installation, looping + intervention-based live works that can run over a minimum period of 4 hours. We realised it wouldn't be for everyone as the ask was constrained by circumstances — but we really thought we should give it a damn good go! Shifting regulations mean we've postponed from [November 2020](/archive/2020-emergency) to Autumn 2021*.       
+**Emergency** is our annual platform for live art + contemporary performance, typically showing around 30 short works over a day/evening in Manchester each Autumn — the upcoming 21st edition takes place in its 7th home and is necessarily a bit different… Originally planned for November 2020, **[Emergency 21](/current/2021-emergency)** is a socially-distanced live walkthrough event at the brand new <a href="http://contactmcr.com" target="_blank">Contact</a> this Autumn — audiences will be guided on a one-way journey through the refurbished building in timed slots, pausing en route in gallery fashion.        
         
 Have a look at 2019's [programme](/archive/2019-emergency)/[gallery of images](/galleries/2019-emergency) and 2018's [programme](/archive/2018-emergency)/[gallery](/galleries/2018-emergency).         
-      
+        
+*N.B. we were <a href="http://emergencymcr.posthaven.com" target="_blank">seeking</a> approximately 10 works to fit these conditions: durational, performance installation, looping + intervention-based live works that can run over a minimum period of 4 hours. We realised it wouldn't be for everyone as the ask was constrained by circumstances — but we really thought we should give it a damn good go! Shifting regulations meant we postponed from [November 2020](/archive/2020-emergency) to Autumn 2021*.       
+        
 [Emergency 21](/current/2021-emergency) presented by [Word of Warning](/) + <a href="http://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.         
 Enquiries: <mailto:emergency@habmcr.org> | <a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>
 
 <hr>         
-**Emergency StopGap** was a new iteration for 2020 — a small informal platform to bridge the gap between gallery + theatre, and to fill the empty months of winter…         
-         
-Our [inaugural StopGap](/archive/2020-emergencystopgap) took place on **27 February 2020** in Manchester's <a href="http://www.niamos.space" target="_blank">NIAMOS</a> — an informal 'Thursday Late' style evening featuring 13 durational live works + interventions in and around the building — see our [gallery of images](/galleries/2020-emergencystopgap).        
+**Emergency StopGap** was a new iteration for 2020 — a small informal platform to bridge the gap between gallery + theatre, and to fill the empty months of winter… Our [inaugural StopGap](/archive/2020-emergencystopgap) took place on **27 February 2020** in Manchester's <a href="http://www.niamos.space" target="_blank">NIAMOS</a> — an informal 'Thursday Late' style evening featuring 13 durational live works + interventions in and around the building — see our [gallery of images](/galleries/2020-emergencystopgap).        
        
 [Emergency StopGap (2020)](/archive/2020-emergencystopgap) presented by [Word of Warning](/); produced by [hÅb](/hab); supported by <a href="http://www.niamos.space" target="_blank">NIAMOS</a>.        
 <a href="http://twitter.com/hashtag/EmergencyStopGap" target="_blank">#EmergencyStopGap</a>
