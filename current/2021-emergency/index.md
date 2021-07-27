@@ -7,7 +7,7 @@ rootpath: "../../"
 artist: "Emergency 21" # the name of the artist or company
 show: "A journey for the curious." # the name of the show
 artist_size: 1
-show_size: 3
+show_size: 4
 header_image:  
 season: "Emergency 21"
 
@@ -30,7 +30,7 @@ Ayzmar · Ghost and John · Kellie Colbert & Deborah Newton · Kelvin Atmadibrat
 When: taking place during autumn 2021, *date + time to be confirmed.*<br>Duration: *estimated* 60-75 minutes total journey time.<br>Location: <a href="http://contactmcr.com" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>Ticketing: once available, book a FREE ticket to gain entry in a timed slot.<br>&nbsp;&nbsp;Donations to support Word of Warning are welcome via <a href="http://paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: 15+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Please note: this event takes place inside over three floors and is accessible to people with mobility issues, including those using wheelchairs.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
          
 #### About         
-Responding to circumstances, our 21st Emergency offers a sneak preview of new live work in a brand new home. With about a dozen performance works dotted throughout <a href="http://contactmcr.com" target="_blank">Contact</a>'s building, you'll be guided on a socially-distanced one-way walkthrough. Able to pause en route, we *estimate* a 60 to 75-minute total journey time for each audience member.<br><br>Originally [planned for November 2020](/archive/2020-emergency), [Emergency](/hab/emergency) 21 produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.     
+Responding to circumstances, our 21st Emergency offers a sneak preview of new live work in a brand new home. With about a dozen performance works dotted throughout <a href="http://contactmcr.com" target="_blank">Contact</a>'s building, you'll be guided on a socially-distanced one-way walkthrough. Able to pause en route, we *estimate* a 60 to 75-minute total journey time for each audience member.<br><br>Originally planned for November 2020, [Emergency](/hab/emergency) 21 is produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.     
         
 #### Websites         
 <a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> · <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a><br>
