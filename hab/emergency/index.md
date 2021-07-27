@@ -18,7 +18,7 @@ season: "Emergency by hÅb"
 ---
 <small>Updated 27 July 2021</small>        
         
-**Emergency** is our annual platform for live art + contemporary performance, usually showing about 30 short works over a day/night in Manchester each Autumn — the upcoming 21st edition takes place in its 7th home and is necessarily a bit different…        
+**Emergency** is our annual platform for live art and contemporary performance, usually showing about 30 short works over a day/night in Manchester each Autumn — the upcoming 21st edition takes place in its 7th home and is necessarily a bit different…        
         
 **[Emergency 21](/current/2021-emergency)** is a socially-distanced live walkthrough event at the brand new <a href="http://contactmcr.com" target="_blank">Contact</a> this Autumn — audiences will be guided on a one-way journey through the refurbished building in timed slots, pausing en route in gallery fashion.        
         
