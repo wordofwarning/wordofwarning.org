@@ -23,7 +23,7 @@ season: "Tania Camara 26|5|2021, 7pm"
          
 *Oreo, coconut, Bounty Bar* — micro-aggressions used to disempower a black person deemed to be 'acting white'.       
        
-In 2020 we presented [*Oreo Variations*](/archive/2020-spring/camara), a choreographic development of one section of Tania's work for livestreaming — rejoin us for *Oreo Prelude*, a new livestream of her unseen material. Now that it's over, re-watch on YouTube below.       
+In 2020 we presented [*Oreo Variations*](/archive/2020-spring/camara), a choreographic development of one section of Tania's work for livestreaming — rejoin us for *Oreo Prelude*, a new livestream of her unseen material. Now that it's over, re-watch on YouTube:       
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PKaG9wBpNHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>        
          
 #### Access         
