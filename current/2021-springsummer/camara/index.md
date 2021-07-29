@@ -17,13 +17,13 @@ season: "Tania Camara 26|5|2021, 7pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/current/2021-springsummer/camara/#access) · [about](/current/2021-springsummer/camara/#about) · [artist](/current/2021-springsummer/camara/#artist) · [reviews](/current/2021-springsummer/camara/#reviews) · [credits](/current/2021-springsummer/camara/#credits) · [websites](/current/2021-springsummer/camara/#websites)</span> · <small>Updated 14 May 2021</small>         
+<span style='font-variant: small-caps'>jump → [access](/current/2021-springsummer/camara/#access) · [about](/current/2021-springsummer/camara/#about) · [artist](/current/2021-springsummer/camara/#artist) · [reviews](/current/2021-springsummer/camara/#reviews) · [credits](/current/2021-springsummer/camara/#credits) · [websites](/current/2021-springsummer/camara/#websites)</span> · <small>Updated 29 July 2021</small>         
          
 *Presented by* STUN *+* Word of Warning        
          
 *Oreo, coconut, Bounty Bar* — micro-aggressions used to disempower a black person deemed to be 'acting white'.       
        
-In 2020 we presented [*Oreo Variations*](/archive/2020-spring/camara), a choreographic development of one section of Tania's work for livestreaming — rejoin us for *Oreo Prelude*, a new livestream of unseen material. Now that it's over, watch her livestream on YouTube below.          
+In 2020 we presented [*Oreo Variations*](/archive/2020-spring/camara), a choreographic development of one section of Tania's work for livestreaming — *Oreo Prelude* is a new livestream of her unseen material. Now that it's over, watch her livestream on YouTube.          
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PKaG9wBpNHw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>        
          
 #### Access         
