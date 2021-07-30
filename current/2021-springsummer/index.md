@@ -8,7 +8,7 @@ artist_size: 1
 season: "Spring/Summer 2021"
 
 ---
-<span style='font-variant: small-caps'>jump → [about](/current/2021-springsummer/#about) · [audiences](/current/2021-springsummer/#audiences) · [who](/current/2021-springsummer/#who) · [warnings](/current/2021-springsummer/#warnings)</span> · <small>Updated 27 July 2021</small>        
+<span style='font-variant: small-caps'>jump → [about](/current/2021-springsummer/#about) · [audiences](/current/2021-springsummer/#audiences) · [who](/current/2021-springsummer/#who)· [people](/current/2021-springsummer/#people) · [warnings](/current/2021-springsummer/#warnings)</span> · <small>Updated 30 July 2021</small>        
          
 *The year began with a [pair](/current/2021-domestic/january) [of](/current/2021-domestic/march) [Domestics](/current/2021-domestic) — and in May we broadcast a new development from [Tania Camara](/current/2021-springsummer/camara). Over the Summer we're focusing on developing new work with 
 <a href="http://manchesterindependents.co.uk" target="_blank">Manchester Independents</a>. Responding to the uncertainty of the year, Autumn remains fluid — coming up is [Emergency 21](/current/2021-emergency) and further events as they emerge…*<br><br>Visit <a href="http://domesticatedonline.org" target="_blank">Domesticated</a> to discover eight works in our home for video performance, and see our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a> to re-watch livestreams of past events.<br><br>Keep abreast of interesting things to watch and find information for artists on our [News](/news) page — keep in touch by <a href="{{ site.mailer_signup_url }}" target="_blank">signing-up</a> for <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> e-mails.<br><br>Discover what happened last year in our [AW20 archive](/archive/2020-autumnwinter), and please <a href="http://bit.ly/warnmcrfeedback" target="_blank">share your thoughts</a> with us if you've been to any events or watched a livestream.         
@@ -33,7 +33,8 @@ Word of Warning is a project by Manchester-based [hÅb](/hab) — you may not ha
          
 SS21 is brought to you by hÅb, with <a href="http://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a>.        
 <small><span style='font-variant: small-caps'>[back to top](/current/2021-springsummer)</span></small>        
-      
+         
+#### People        
 Tamsin Drury, hÅb's Director, has been around a while — a really long while — she's been responsible for making the Arndale Tower flash, wrapping Cathedral Gardens in 7km of hazard tape, and firing a glitter-cannon to the *Hallelujah* chorus! On the less eccentric side, over the years hÅb has worked with hundreds of NW artists to help them create new work. Please send programming enquiries to her via <mailto:info@habmcr.org><br><br>John Franklin-Johnston, hÅb's Programme Manager, is a freelance producer and events manager, and was <a href="http://greenroomarts.org" target="_blank">greenroom</a>'s long time programme co-ordinator.<br><br>Peader Kirk, artist + mentor, supports Domestic, Works Ahead, and other hÅb projects.<br><br>Tricia Coleman, freelance producer, supports hÅb's artist development and production.<br><br>We're grateful for the ongoing support of a team of freelancers and volunteers that includes: Andrew Crofts, Catherine Shaw, Jake Lewis, Kamini Patel, Megan McPhee, Sam Stockdale, Stacey Potter, Steve Bryan.<br><br>Thanks also to our Advisory Board: Helen Palmer, Charles Rowley, Cathy Butterworth, Joseph Lau, plus Garfield Allen + Maya Chowdhry for [Divergency](/hab/divergencymcr).        
 <small><span style='font-variant: small-caps'>[back to top](/current/2021-springsummer)</span></small>        
          
