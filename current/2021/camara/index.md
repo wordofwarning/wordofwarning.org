@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: 2021-springsummer
+layout: 2021-autumnwinter
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -17,7 +17,7 @@ season: "Tania Camara 26|5|2021, 7pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/current/2021-springsummer/camara/#access) · [about](/current/2021-springsummer/camara/#about) · [artist](/current/2021-springsummer/camara/#artist) · [reviews](/current/2021-springsummer/camara/#reviews) · [credits](/current/2021-springsummer/camara/#credits) · [websites](/current/2021-springsummer/camara/#websites)</span> · <small>Updated 29 July 2021</small>         
+<span style='font-variant: small-caps'>jump → [access](/current/2021/camara/#access) · [about](/current/2021/camara/#about) · [artist](/current/2021/camara/#artist) · [reviews](/current/2021/camara/#reviews) · [credits](/current/2021/camara/#credits) · [websites](/current/2021/camara/#websites)</span> · <small>Updated 9 August 2021</small>         
          
 *Presented by* STUN *+* Word of Warning        
          
@@ -52,4 +52,4 @@ Creator, Performer, Producer: Tania Camara<br>Dance Mentor: Pape Ibrahima N'diay
 #### Websites         
 <a href="http://taniacamara.com" target="_blank">taniacamara.com</a> · <a href="http://www.facebook.com/TaniaCamara.Performance.Artist" target="_blank">Tania on Facebook</a> · <a href="http://instagram.com/taniacamara20" target="_blank">Tania on Insta</a> · <a href="http://twitter.com/TaniaCamara2" target="_blank">@TaniaCamara2</a>             
         
-<small><span style='font-variant: small-caps'>[back to top](/current/2021-springsummer/camara)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/current/2021/camara)</span></small>
