@@ -3,7 +3,7 @@
 layout: 2021-autumnwinter
 rootpath: "../../"
 
-artist: "2021" # the name of the artist or company
+artist: "Performance Programme 2021" # the name of the artist or company
 artist_size: 1
 season: "2021"
 
@@ -35,7 +35,7 @@ Word of Warning is a project by Manchester-based [hÅb](/hab) — you might not 
 <small><span style='font-variant: small-caps'>[back to top](/current/2021)</span></small>        
          
 #### People        
-Tamsin Drury, hÅb's Director, has been around a while — a really long while — she's been responsible for making the Arndale Tower flash, wrapping Cathedral Gardens in 7km of hazard tape, and firing a glitter-cannon to the *Hallelujah* chorus! On the less eccentric side, over the years hÅb has worked with hundreds of NW artists to help them create new work. Please send programming enquiries to her via <mailto:info@habmcr.org><br><br>John Franklin-Johnston, hÅb's Programme Manager, is a freelance producer and events manager, and was <a href="http://greenroomarts.org" target="_blank">greenroom</a>'s long time programme co-ordinator.<br><br>Peader Kirk, artist + mentor, supports Domestic, Works Ahead, and other hÅb projects.<br><br>Tricia Coleman, freelance producer, supports hÅb's artist development and production.<br><br>We're grateful for the ongoing support of a team of freelancers and volunteers that includes: Andrew Crofts, Catherine Shaw, Jake Lewis, Kamini Patel, Megan McPhee, Sam Stockdale, Stacey Potter, Steve Bryan, and Theatre and Performance students from The Arden.<br><br>Thanks also to our Advisory Board: Helen Palmer, Charles Rowley, Cathy Butterworth, Joseph Lau, plus Garfield Allen + Maya Chowdhry for [Divergency](/hab/divergencymcr).        
+Tamsin Drury, hÅb's Director, has been around a while — a really long while — she's been responsible for making the Arndale Tower flash, wrapping Cathedral Gardens in 7km of hazard tape, and firing a glitter-cannon to the *Hallelujah* chorus! On the less eccentric side, over the years hÅb has worked with hundreds of NW artists to help them create new work. Please send programming enquiries to her via <mailto:info@habmcr.org><br><br>John Franklin-Johnston, hÅb's Programme Manager, is a freelance producer and events manager, and was <a href="http://greenroomarts.org" target="_blank">greenroom</a>'s long time programme co-ordinator.<br><br>Peader Kirk, artist + mentor, supports Domestic, Works Ahead, and other hÅb projects.<br><br>Tricia Coleman, freelance producer, supports hÅb's artist development and production.<br><br>We're grateful for the ongoing support of a team of freelancers and volunteers, including Andrew Crofts, Catherine Shaw, Jake Lewis, Kamini Patel, Megan McPhee, Sam Stockdale, Stacey Potter, Steve Bryan, and students from The Arden.<br><br>Thanks also to our Advisory Board: Helen Palmer, Charles Rowley, Cathy Butterworth, Joseph Lau, plus Garfield Allen + Maya Chowdhry for [Divergency](/hab/divergencymcr).        
 <small><span style='font-variant: small-caps'>[back to top](/current/2021)</span></small>        
          
 #### Warnings          
