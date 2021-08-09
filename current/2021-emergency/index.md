@@ -17,14 +17,14 @@ season: "Emergency 21"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [artists](/current/2021-emergency/#artists) · [access](/current/2021-emergency/#access) · [about](/current/2021-emergency/#about) · [websites](/current/2021-emergency/#websites)</span> · <small>Updated 29 July 2021</small>     
+<span style='font-variant: small-caps'>jump → [artists](/current/2021-emergency/#artists) · [access](/current/2021-emergency/#access) · [about](/current/2021-emergency/#about) · [websites](/current/2021-emergency/#websites)</span> · <small>Updated 9 August 2021</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
-Manchester's twenty-first micro-marathon of the bizarre, the bold + the beautiful will take over the brand new Contact this Autumn with a socially-distanced journey of live performances…         
+Manchester's twenty-first micro-marathon of the bizarre, the bold + the beautiful will take over the brand new Contact this September with a journey of live performances…         
         
 #### Artists       
-Ayzmar · Kellie Colbert & Deborah Newton · Kelvin Atmadibrata · Lydia Cottrell · Maryam Hashemi · Miray Sidhom · Mitzee · Rowena Gander · Sebastian H-W · Simon Carroll-Jones & Wayne Steven Jackson · <small>*Participating artists subject to change.*</small><br><br>Our annual platform for live art + contemporary performance, this 21st [Emergency](/hab/emergency) is necessarily a bit different — get a feel for it with [StopGap](/archive/2020-emergencystopgap) or [2019 daytime programme](/archive/2019-emergency/daytime).         
+Ayzmar · Helena Ascough · Kellie Colbert & Deborah Newton · Kelvin Atmadibrata · Lydia Cottrell · Maryam Hashemi · Miray Sidhom · Mitzee · Rowena Gander · Sebastian H-W · Simon Carroll-Jones & Wayne Steven Jackson · <small>*Participating artists subject to change.*</small><br><br>Our annual platform for live art + contemporary performance, this 21st [Emergency](/hab/emergency) is necessarily a bit different — get a feel for it with [StopGap](/archive/2020-emergencystopgap) or [2019 daytime programme](/archive/2019-emergency/daytime).         
         
 #### Access            
 When: taking place during Autumn 2021, *date + time to be confirmed.*<br>Duration: *estimated* 60-75 minutes total journey time.<br>Location: <a href="http://contactmcr.com" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>Ticketing: once available, book a FREE ticket to gain entry in a timed slot.<br>&nbsp;&nbsp;Donations to support Word of Warning are welcome via <a href="http://paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: 15+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Please note: this event takes place inside over three floors and is accessible to people with mobility issues, including those using wheelchairs.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
