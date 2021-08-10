@@ -1,6 +1,6 @@
 /* THEMED PER-EVENT STYLES ---------------------------*/
 
-/* default word of warning styling + homepage header currently bluebells
+/* default word of warning styling + homepage header currently pink wool
 ------------------------------------------------------*/
 
 	body,
@@ -27,7 +27,7 @@
 		{background:#000; color:#fff;}
 
 	.splash
-		{background:url(../images/header_2021SprWarni.jpg) -150px center}
+		{background:url(../images/header_AW21Warnin.jpg) -150px center}
 
 /* hAb black
 ------------------------------------------------------*/
@@ -890,14 +890,14 @@
 	.ss2021 .splash
 		{background:url(../images/header_2021SprWarni.jpg) -150px center}
 
-/* Autumn/Winter 2021 Programme pink wool Maryam Hashemi
+/* Autumn/Winter 2021 Programme pink wool by Maryam Hashemi
 ------------------------------------------------------*/
 
 	.aw2021 .splash
 		{background:url(../images/header_AW21Warnin.jpg) -150px center}
 
 
-/* Emergency 2021 bright red w/ running man (for now)
+/* Emergency 21 bright red with running man
 ------------------------------------------------------*/
 
 	.e2021,
