@@ -16,10 +16,10 @@ Age Advisories/Limits and Content Warnings for *past* events and *archived* live
         
 This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger — if issues raised affect you, these organisations may be of support:&nbsp;&nbsp;<a href="https://thecalmzone.net" target="_blank">CALM</a> 0800 585858 · <a href="https://harmless.org.uk" target="_blank">Harmless</a> · <a href="https://mind.org.uk" target="_blank">Mind</a> 0300 123 3393 · <a href="https://nopanic.org.uk" target="_blank">No Panic</a> 0300 772 9844 · <a href="https://samaritans.org" target="_blank">Samaritans</a> call 116 123 or email jo@samaritans.org · <a href="https://supportline.org.uk" target="_blank">SupportLine</a> 01708 765 200 · <a href="https://thesurvivorstrust.org" target="_blank">The Survivors Trust</a> 08088 010 818       
         
-<span style='font-variant: small-caps'>jump → [2021](/archive/warnings/#2021) · [2020](/archive/warnings/#2020) · [2019](/archive/warnings/#2019)</span> · <small>Updated 27 May 2021</small>        
+<span style='font-variant: small-caps'>jump → [2021](/archive/warnings/#2021) · [2020](/archive/warnings/#2020) · [2019](/archive/warnings/#2019)</span> · <small>Updated 12 August 2021</small>        
 <hr>         
 #### 2021        
-##### [26 May. Online | *Oreo Prelude* by Tania Camara](/current/2021-springsummer/camara)
+##### [26 May. Online | *Oreo Prelude* by Tania Camara](/current/2021/camara)
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warning: includes an archive recording of a speech by <a href="http://en.wikipedia.org/wiki/Diane_Abbott" target="_blank">Diane Abbott</a> where she uses a term that may offend (the N-word).       
          
 ##### [10 Mar. Online | Domestic](/current/2021-domestic/march)        
