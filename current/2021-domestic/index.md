@@ -6,7 +6,7 @@ rootpath: "../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Domestic 2021" # the name of the artist or company
 show: "New work, live from home." # the name of the show
-artist_size: 2
+artist_size: 1
 show_size: 4
 header_image: "header_domestic.jpg"  
 season: "Domestic 2021"
