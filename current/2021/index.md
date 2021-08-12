@@ -38,5 +38,5 @@ Tamsin Drury, hÅb's Director, has been around a while — a really long while �
 <small><span style='font-variant: small-caps'>[back to top](/current/2021)</span></small>        
          
 #### Warnings          
-Please click [here](/warnings) to read specific content (trigger) warnings for 2021.        
+Please click [here](/warnings) to read specific content (trigger) warnings for our events.        
 <small><span style='font-variant: small-caps'>[back to top](/current/2021)</span></small>
