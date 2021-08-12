@@ -1,13 +1,13 @@
 ---
 # CONFIGURATION
-layout: 2021-springsummer
+layout: 2021-autumnwinter
 rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Domestic" # the name of the artist or company
+artist: "Domestic 2021" # the name of the artist or company
 show: "New work, live from home." # the name of the show
-artist_size: 1
-show_size: 5
+artist_size: 2
+show_size: 4
 header_image: "header_domestic.jpg"  
 season: "Domestic 2021"
 
@@ -17,7 +17,7 @@ season: "Domestic 2021"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [websites](/current/2021-domestic/#websites)</span> · <small>Updated 30 April 2021</small>     
+<span style='font-variant: small-caps'>jump → [artists](/current/2021-domestic/#artists) · [access](/current/2021-domestic/#access) · [about](/current/2021-domestic/#about) · [websites](/current/2021-domestic/#websites)</span> · <small>Updated 12 August 2021</small>     
         
 *Presented by* Word of Warning        
          
@@ -26,10 +26,10 @@ What can you make when your kitchen table is the stage + your camera is the audi
 #### Artists       
 Domestic is an informal online platform for artists to beta test new work, live from their homes — get a feel for it by watching previous events on <a href="http://youtube.com/playlist?list=PLHmxKLx8cM6BDQVxWcVUAIZapNVroOJWj" target="_blank">YouTube</a>.         
         
-We've decided not to host our next event in May — based on the proposals received, we sense that artist's appetite for showing their work online from home is *currently* waning. Our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling call for proposals remains open</a> so please feel free to suggest something as we'll put together our sixth online event later this year when we've got the right content.        
+Although we sense that artist's appetite for showing their work online from home is *currently* waning, our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling call for proposals remains open</a> — please feel free to suggest something as we'll put together our sixth online event when we've got the right content, potentially later in 2021.        
          
 #### Access            
-When: taking place later in 2021, *date + time to be confirmed*.<br>Location: livestreamed online via Zoom webinar.<br>Ticketing: book a free space on eventbrite to receive livestream details.<br>Donations are welcome via <a href="http://paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: **18+** (*mainly aimed at adults; parental/guardian discretion*).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Please note: if you require live captioning we suggest you try using <a href="http://otter.ai/starter-guide?article=generateNotes" target="_blank">Otter</a> on a second device (*<a href="http://itunes.apple.com/us/app/otter-voice-notes/id1276437113" target="_blank">download on the App Store</a> or <a href="http://play.google.com/store/apps/details?id=com.aisense.otter" target="_blank">get it on Google Play</a>*);<br>&nbsp;&nbsp;to improve your listening experience we suggest using headphones/external speakers;<br>&nbsp;&nbsp;for specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
+When: *hopefully taking place later in 2021, date + time to be confirmed*.<br>Location: livestreamed online via Zoom webinar.<br>Ticketing: book a free space on eventbrite to receive livestream details.<br>Donations are welcome via <a href="http://paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: **18+** (*mainly aimed at adults; parental/guardian discretion*).<br>Content Warnings: some works may disturb, for specific warnings please click [here](/warnings).<br>Please note: if you require live captioning we suggest you try using <a href="http://otter.ai/starter-guide?article=generateNotes" target="_blank">Otter</a> on a second device (*<a href="http://itunes.apple.com/us/app/otter-voice-notes/id1276437113" target="_blank">download on the App Store</a> or <a href="http://play.google.com/store/apps/details?id=com.aisense.otter" target="_blank">get it on Google Play</a>*);<br>&nbsp;&nbsp;to improve your listening experience we suggest using headphones/external speakers;<br>&nbsp;&nbsp;for specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
           
 #### About         
 In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/2017-autumnwinter/pritchard) we presented Domestic works in tower blocks in transition — little did we know then, that in 2020 our homes would become our only stages and only auditoria…        
