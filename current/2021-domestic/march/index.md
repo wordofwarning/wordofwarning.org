@@ -1,13 +1,13 @@
 ---
 # CONFIGURATION
-layout: 2021-springsummer
+layout: 2021-autumnwinter
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Domestic" # the name of the artist or company
+artist: "Domestic (Mar 2021)" # the name of the artist or company
 show: "New work, live from home." # the name of the show
-artist_size: 1
-show_size: 5
+artist_size: 2
+show_size: 4
 header_image: "header_domestic.jpg"  
 season: "Domestic 10|3|2021, 8pm"
 
