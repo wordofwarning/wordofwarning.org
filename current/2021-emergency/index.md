@@ -9,7 +9,7 @@ show: "A journey for the curious." # the name of the show
 artist_size: 1
 show_size: 4
 header_image:  
-season: "Emergency 21"
+season: "Emergency 25|9|2021, 12noon-4pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,7 +17,7 @@ season: "Emergency 21"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [artists](/current/2021-emergency/#artists) · [access](/current/2021-emergency/#access) · [about](/current/2021-emergency/#about) · [websites](/current/2021-emergency/#websites)</span> · <small>Updated 16 August 2021</small>     
+<span style='font-variant: small-caps'>jump → [artists](/current/2021-emergency/#artists) · [access](/current/2021-emergency/#access) · [about](/current/2021-emergency/#about) · [websites](/current/2021-emergency/#websites)</span> · <small>Updated 1 September 2021</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
