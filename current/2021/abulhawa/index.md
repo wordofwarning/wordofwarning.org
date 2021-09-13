@@ -8,7 +8,7 @@ artist: "Dani Abulhawa" # the name of the artist or company
 show: "Concord" # the name of the show
 artist_size: 2
 show_size: 1
-header_image: "header_concordtest.jpg"    
+header_image: "header_concord.jpg"    
 season: "Dani Abulhawa 22|10|2021, ??pm"
 
 # ABOUT THE SHOW - LAYOUT
@@ -24,7 +24,7 @@ season: "Dani Abulhawa 22|10|2021, ??pm"
 Opening sentence.        
         
 #### Access         
-Time: Friday 22 October 2021, 7.30pm to *approximately* 8.15pm.<br>Location: the <a href="https://www.holdengallery.mmu.ac.uk/visiting" target="_blank">Holden Gallery</a>, Manchester, M15 xxx<br>Entry: a FREE event, with no booking or tickets required.<br>Age Advisory: TBC (*mainly aimed at adults; parental/guardian discretion*).<br>Content Warnings: TBC, for specific warnings please click [here](/warnings).<br>Features: live + recorded spoken word, and choreographed movement.<br>Please note: a 45-minute performance in a ground floor gallery setting — we advise you to watch *Concord* from start to finish. Some chairs will be available, alongside room to stand or sit on the floor.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
+Time: Friday 22 October 2021, 7.30pm to *latest* 8.30pm.<br>Location: the <a href="https://www.holdengallery.mmu.ac.uk/visiting" target="_blank">Holden Gallery</a>, Manchester, M15 xxx<br>Entry: a FREE event, with no booking or tickets required.<br>Age Advisory: TBC (*mainly aimed at adults; parental/guardian discretion*).<br>Content Warnings: TBC, for specific warnings please click [here](/warnings).<br>Features: live + recorded spoken word, and choreographed movement.<br>Please note: a performance lasting 45-minutes to 1-hour in a ground floor gallery setting — we advise you to watch *Concord* from start to finish. Some chairs will be available, alongside room to stand or sit on the floor.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
          
 #### About         
 Copy ???        
