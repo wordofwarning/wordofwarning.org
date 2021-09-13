@@ -24,13 +24,8 @@ season: "Dani Abulhawa 22|10|2021, ??pm"
 Opening sentence.        
         
 #### Access         
-Time: Friday 22 October 2021, 7.30pm to *approximately* 8.15pm.<br>Location: 
-
-https://www.holdengallery.mmu.ac.uk/visiting
-
-livestreamed online via YouTube.<br>Ticketing: book a free space on <a href="https://www.eventbrite.com/e/oreo-prelude-by-tania-camara-registration-154714552391" target="_blank">Eventbrite</a> to receive livestream details by email. Donations are welcome via <a href="http://paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes an archive recording of a speech by <a href="http://en.wikipedia.org/wiki/Diane_Abbott" target="_blank">Diane Abbott</a> where she uses a term that may offend, for specific warnings please click [here](/warnings).<br>Features: live + recorded audio, spoken word, and choreographed movement.<br>Please note: if you require live captioning we suggest you try using <a href="http://otter.ai/starter-guide?article=generateNotes" target="_blank">Otter</a> on a 2nd device (*<a href="http://itunes.apple.com/us/app/otter-voice-notes/id1276437113" target="_blank">download on the App Store</a> or <a href="http://play.google.com/store/apps/details?id=com.aisense.otter" target="_blank">get it on Google Play</a>*); to improve your listening experience we suggest using headphones/external speakers.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
-      *Concord* is a 45-minute performance in a gallery setting — we advise people to watch it from start to finish. Some chairs will be available, alongside standing room + space to sit on the floor.
-   
+Time: Friday 22 October 2021, 7.30pm to *approximately* 8.15pm.<br>Location: the <a href="https://www.holdengallery.mmu.ac.uk/visiting" target="_blank">Holden Gallery</a>, Manchester, M15 xxx<br>Entry: a FREE event, with no booking or tickets required.<br>Age Advisory: TBC (*mainly aimed at adults; parental/guardian discretion*).<br>Content Warnings: TBC, for specific warnings please click [here](/warnings).<br>Features: live + recorded spoken word, and choreographed movement.<br>Please note: a 45-minute performance in a ground floor gallery setting — we advise you to watch *Concord* from start to finish. Some chairs will be available, alongside room to stand or sit on the floor.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
+         
 #### About         
 Copy ???        
 <a href="https://" target="_blank">link</a>        
