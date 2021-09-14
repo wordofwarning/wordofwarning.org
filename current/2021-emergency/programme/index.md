@@ -16,14 +16,14 @@ season: "Emergency 25|9|2021, 12noon-4pm — Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 1 September 2021</small>        
+<small>Updated 14 September 2021</small>        
         
 [Emergency 21](/current/2021-emergency) *is presented by* Word of Warning *+* Contact *on Sat 25 Sep, 12noon-4pm entry*       
          
-#### Order        
+#### Viewing Order        
 Rowena Gander · Maryam Hashemi · Ayzmar · Helena Ascough · Lydia Cottrell · Sebastian H-W · Simon Carroll-Jones & Wayne Steven Jackson · Kellie Colbert & Deborah Newton (12noon-2pm entry only) · Mitzee (2pm-4pm entry only) · Kelvin Atmadibrata · Miray Sidhom · *Participating artists subject to change.<br>Some works may disturb, for specific Content Warnings please click [here](/warnings).*        
         
-#### Journey        
+#### Programme Notes       
         
 **Ground floor foyer · Rowena Gander · *Is this what it takes?***        
 *"Is there an activity that makes you feel free? How many times did you repeat that activity before you felt a sense of freedom? What activities do you do on autopilot, and how many times did you have to do that thing before it became part of you? Watch me as I assemble, create with, and take down, a 70kg pole… 12 times in a row."*        
@@ -40,7 +40,7 @@ Maryam weaves the dream of a beautiful future with the ripped pieces of the old 
 A personal exploration into the colonisation of body mind and culture. Shot + directed by Ramzia Jawara.        
 **Ramzia** is an interdisciplinary artist, specialising in photography. Her artistic production is an intuitive and emotional response to her surroundings and worldly affairs. With a background in performance she sees the studio as a ground to play and connect with the subject — by bringing out qualities in a way that tells the story, emphasising visual dynamics. A lot of the work she creates is composed of personal experiences around identity, and observations surrounding current affairs concerning race, gender, and sexuality.        
 Content Warning: please click [here](/warnings).        
-<a href="http://ayzmar.com" target="_blank">Ayzmar</a> · <a href="http://instagram.com/ramziajawara" target="_blank">Insta: ramziajawara</a> · <a href="http://twitter.com/ayzmar_" target="_blank">@ayzmar_</a>        
+<a href="http://ayzmar.com" target="_blank">Ayzmar</a> · <a href="http://instagram.com/ayzmar_" target="_blank">Insta: ayzmar_</a> · <a href="http://twitter.com/ayzmar_" target="_blank">@ayzmar_</a>        
         
 **Meeting room · Helena Ascough · *WHAT A CLOWN!***        
 She's watching you, you're watching her. WHAT A CLOWN!<br>Fed up of feeling as though the world is always judging disabled people, *WHAT A CLOWN!* watches a day in the life of a clown — watch her eat, sleep, and crack a few jokes via Zoom. Supported by hÅb + Contact for [Works Ahead](/hab/worksahead/#2021).       
