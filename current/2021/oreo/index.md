@@ -21,17 +21,21 @@ season: "Tania Camara 15|10|2021, 7.30pm"
          
 *Presented by* STUN *+* Word of Warning        
          
-*Oreo, coconut, Bounty Bar* — micro-aggressions used to disempower a black person deemed to be 'acting white'. Donning a camouflage of Oreo-filling, Tania explores the masks we wear to put our heads above the parapet in a climate of systemic racism.       
+*Oreo, coconut, Bounty Bar* — micro-aggressions used to disempower a black person deemed to be 'acting white'.        
+        
+Donning a camouflage of Oreo-filling, Tania explores the masks we wear to put our heads above the parapet in a climate of systemic racism.       
          
 #### Access         
-Time: Friday 15 October 2021, 7.30pm to *latest* 8.30pm.<br>Location: STUN Studio at <a href="https://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA<br>Ticketing: book a space on Eventbrite *from 1 October* and Pay What You Decide via <a href="http://paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes an archive recording of a speech by <a href="http://en.wikipedia.org/wiki/Diane_Abbott" target="_blank">Diane Abbott</a> where she uses a term that may offend, for specific warnings please click [here](/warnings).<br>Features: live + recorded audio, spoken word, and choreographed movement.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
+Time: Friday 15 October 2021, 7.30pm to *latest* 8.30pm.<br>Location: STUN Studio at <a href="https://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA<br>Ticketing: book a space from 1 October and Pay What You Decide via <a href="http://paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes an archive recording of a speech by <a href="http://en.wikipedia.org/wiki/Diane_Abbott" target="_blank">Diane Abbott</a> where she uses a term that may offend, for specific warnings please click [here](/warnings).<br>Features: live + recorded audio, spoken word, and choreographed movement.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
          
 #### About         
 A semi-autobiographical solo about being a successfully educated black woman within western society, *Oreo* interrogates racial micro-aggressions and their effect on mental health within private and public personas — focusing on public figures such as British MP <a href="http://en.wikipedia.org/wiki/Diane_Abbott" target="_blank">Diane Abbott</a> + Portuguese politician <a href="http://en.wikipedia.org/wiki/Joacine_Katar_Moreira" target="_blank">Joacine Katar Moreira</a>.        
         
-Exploring the racial term 'Oreo' in relation to experiences of episodic racism within higher education and employment, Tania challenges the notion of whitening her physical and phenomenal self to achieve success in society, asking you to open-up and join-in to celebrate a moment of freedom, a moment of clarity.        
+Exploring the racial term 'Oreo' in relation to experiences of episodic racism within higher education and employment, Tania challenges the notion of whitening her physical and phenomenal self to achieve success in society.        
          
-**Please note** you can also watch *Oreo* live in person at Oldham Library on Wednesday 20 October.       
+Developed from, and inspired by, difficult conversations and the complexities of what it means to black in Great Britain. As a black EU national living in the UK, Tania uses *Oreo* to investigate the mechanisms of survival black women use to protect themselves and endure the current hostile times.         
+         
+**Please note** you can also watch <a href="https://eventbrite.co.uk/e/oreo-tickets-168434685679" target="_blank">*Oreo* at Oldham Library</a> on Wednesday 20 October.       
          
 #### Artist          
 A Manchester-based solo performance artist, Tania Camara works across devised theatre, dance, site-specific, live art, installation, video + photography. A graduate of the University of Amsterdam with an MA, she uses her cultural heritage, past experiences, research, and the interdisciplinary structure of Batuku (including singing, dancing, drums + spoken word).        
