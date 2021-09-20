@@ -19,21 +19,21 @@ season: "Dani Abulhawa 22|10|2021, 7pm"
 ---
 <span style='font-variant: small-caps'>jump → [access](/current/2021/abulhawa/#access) · [about](/current/2021/abulhawa/#about) · [artist](/current/2021/abulhawa/#artist) · [credits](/current/2021/abulhawa/#credits) · [websites](/current/2021/abulhawa/#websites)</span> · <small>Updated 20 September 2021</small>         
          
-*Presented by* Word of Warning *+ the* Holden Gallery *as part of* <a href="https://holdengallery.mmu.ac.uk/interruptions" target="_blank">holdengallery.mmu.ac.uk/interruptions</a>.        
+*Presented by* Word of Warning *+ the* Holden Gallery *as part of* <a href="https://holdengallery.mmu.ac.uk/interruptions" target="_blank">Interruptions</a>.        
          
 How are walls felt through bodies and generations? How might political walls be brought down? A performance exploring the experience of restricted movement across borders — real and imaginary, current and historical.        
         
 Developed from interviews and research about the ways that people find to circumvent or overcome restrictions, *Concord* invites you to consider how walls are made, how they're embodied, and how they might be dismantled.        
         
 #### Access         
-Time: Friday 22 October 2021, 7pm to *latest* 8pm.<br>Location: <a href="https://www.holdengallery.mmu.ac.uk/visiting" target="_blank">Holden Gallery</a>, MMU, Grosvenor Building, Cavendish St, M15 6BR<br>Free Entry: please register for track & trace online or on the door?.<br>Age Advisory: parental/guardian discretion.<br>Content Warnings: may cause upset, for specific warnings please click [here](/warnings).<br>Features: live + recorded spoken word, and choreographed movement.<br>Please note: *Concord* is a performance lasting *approximately* 45-60 minutes in a gallery setting — we advise you to watch from start to finish. Some chairs will be available, alongside room to stand or sit on the floor.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
+Time: Friday 22 October 2021, 7pm to *latest* 8pm.<br>Location: <a href="https://www.holdengallery.mmu.ac.uk/visiting" target="_blank">Holden Gallery</a>, MMU, Grosvenor Building, Cavendish St, M15 6BR<br>Free Entry: please register for track & trace online in advance, or on the door?.<br>Age Advisory: parental/guardian discretion.<br>Content Warnings: may cause upset, for specific warnings please click [here](/warnings).<br>Features: live + recorded spoken word, and choreographed movement.<br>Please note: *Concord* is a performance lasting *approximately* 45-60 minutes in a gallery setting — we advise you to watch from start to finish. Some chairs will be available, alongside room to stand or sit on the floor.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
          
 #### About         
 *Concord* developed from Dani's research into political walls and borders, and from her own and her family's lived experience of the separation wall in Israel/Palestine. She conducted research and interviews with a range of people who have experience of political separation from different contexts across the world — including the Berlin Wall, Korea, Cyprus, China, the US, and others.        
         
-Exploring their audio testimonies through movement, Dani developed a series of short choreographies that she performs alongside her father, Jamal — born in Occupied Palestine in 1955, he is an untrained performer.         
+Exploring their audio testimonies through movement, Dani developed a series of short choreographies that she performs alongside her father — born in Occupied Palestine in 1955, Jamal is an untrained performer.         
          
-With audio material presented alongside movement, *Concord* is shown within a set structure designed to look, feel, and behave as complex and cumbersome as the politics that underpin it.         
+With audio material presented alongside movement, *Concord* is shown within a structure designed to look, feel, and behave as complex and cumbersome as the politics that underpin it.         
          
 #### Artist          
 A British-Palestinian interdisciplinary artist based in Manchester, Dani has been making work since 2005. Her background and training are in performance, movement, and skateboarding; her work often explores the lived experience and politics of specific spaces and places.        
