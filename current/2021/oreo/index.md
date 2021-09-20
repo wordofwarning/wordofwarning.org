@@ -26,19 +26,19 @@ season: "Tania Camara 15|10|2021, 7.30pm"
 Donning a camouflage of Oreo-filling, Tania explores the masks we wear to put our heads above the parapet in a climate of systemic racism.       
          
 #### Access         
-Time: Friday 15 October 2021, 7.30pm to *latest* 8.30pm.<br>Location: STUN Studio at <a href="https://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA<br>Ticketing: book a space from 1 October and Pay What You Decide via <a href="http://paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes an archive recording of a speech by <a href="http://en.wikipedia.org/wiki/Diane_Abbott" target="_blank">Diane Abbott</a> where she uses a term that may offend, for specific warnings please click [here](/warnings).<br>Features: live + recorded audio, spoken word, and choreographed movement.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
+Time: Friday 15 October 2021, 7.30pm to *approximately* 8.30pm.<br>Location: STUN Studio at <a href="https://www.z-arts.org/about-us/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA<br>Ticketing: book a space from 1 October and Pay What You Decide via <a href="http://paypal.me/warnmcr" target="_blank">PayPal</a>.<br>Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes an archive recording of a speech by <a href="http://en.wikipedia.org/wiki/Diane_Abbott" target="_blank">Diane Abbott</a> where she uses a term that may offend, for specific warnings please click [here](/warnings).<br>Features: live + recorded audio, spoken word, and choreographed movement.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>         
          
 #### About         
 A semi-autobiographical solo about being a successfully educated black woman within western society, *Oreo* interrogates racial micro-aggressions and their effect on mental health within private and public personas — focusing on public figures such as British MP <a href="http://en.wikipedia.org/wiki/Diane_Abbott" target="_blank">Diane Abbott</a> + Portuguese politician <a href="http://en.wikipedia.org/wiki/Joacine_Katar_Moreira" target="_blank">Joacine Katar Moreira</a>.        
         
 Exploring the racial term 'Oreo' in relation to experiences of episodic racism within higher education and employment, Tania challenges the notion of whitening her physical and phenomenal self to achieve success in society.        
          
-Developed from, and inspired by, difficult conversations and the complexities of what it means to black in Great Britain. As a black EU national living in the UK, Tania uses *Oreo* to investigate the mechanisms of survival black women use to protect themselves and endure the current hostile times.         
+*Oreo* developed from, and is inspired by, difficult conversations and the complexities of what it means to black in Great Britain. As a black EU national living in the UK, Tania uses *Oreo* to investigate the mechanisms of survival black women use to protect themselves and endure the current hostile times.         
          
-**Please note** you can also watch <a href="https://eventbrite.co.uk/e/oreo-tickets-168434685679" target="_blank">*Oreo* at Oldham Library</a> on Wednesday 20 October.       
+*You can also watch <a href="https://eventbrite.co.uk/e/oreo-tickets-168434685679" target="_blank">*Oreo* at Oldham Library</a> on Wednesday 20 October.*       
          
 #### Artist          
-A Manchester-based solo performance artist, Tania Camara works across devised theatre, dance, site-specific, live art, installation, video + photography. A graduate of the University of Amsterdam with an MA, she uses her cultural heritage, past experiences, research, and the interdisciplinary structure of Batuku (including singing, dancing, drums + spoken word).        
+A Manchester-based solo performance artist, Tania works across devised theatre, dance, site-specific, live art, installation, video + photography. A graduate of the University of Amsterdam with an MA, she uses her cultural heritage, past experiences, research, and the interdisciplinary structure of Batuku (including singing, dancing, drums + spoken word).        
         
 Tania's current practice focuses on personal accounts of memory, collective and ancestral, to uncover her racial and cultural identity; the concept of self and other; belonging and the black performing body.        
        
@@ -50,7 +50,7 @@ Tania is a member of <a href="http://inbetweentime.co.uk/creative-exchange-lab" 
 #### Credits          
 Creator, Performer, Producer: Tania Camara<br>Dance Mentor: Pape Ibrahima N'diaye (a.k.a. Kaolack)<br>Director: Peader Kirk<br>Original *Oreo* Lighting Designer: Kamini Patel<br>Image by Ricardo Vilela at <a href="http://sagittamedia.co.uk/site2" target="_blank">Sagitta Media</a>.       
          
-*Oreo* commissioned by <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North), developed with the support of <a href="http://homemcr.org/article/push-2020-commissions" target="_blank">HOME</a>, <a href="http://divergencymcr.org" target="_blank">Divergency</a> + [hÅb](/hab). Supported using public funding from the National Lottery through Arts Council England.<br>A digital version, the *Oreo Suite*, supported by<a href="http://inbetweentime.co.uk" target="_blank">In Between Time's Seed Fund for artists</a>.         
+*Oreo* commissioned by <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North), developed with the support of <a href="http://homemcr.org/article/push-2020-commissions" target="_blank">HOME</a>, <a href="http://divergencymcr.org" target="_blank">Divergency</a> + [hÅb](/hab). Supported using public funding from the National Lottery through Arts Council England. The *Oreo Suite*, A digital version, supported by <a href="http://inbetweentime.co.uk" target="_blank">In Between Time's Seed Fund for artists</a>.         
        
 #### Websites         
 <a href="http://taniacamara.com" target="_blank">taniacamara.com</a> · <a href="http://www.facebook.com/TaniaCamara.Performance.Artist" target="_blank">Tania on Facebook</a> · <a href="http://instagram.com/taniacamara20" target="_blank">Tania on Insta</a> · <a href="http://twitter.com/TaniaCamara2" target="_blank">@TaniaCamara2</a>             
