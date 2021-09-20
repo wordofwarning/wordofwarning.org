@@ -5,11 +5,11 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Tania Camara" # the name of the artist or company
-show: "Oreo Prelude" # the name of the show
+show: "Oreo" # the name of the show
 artist_size: 2
-show_size: 2
+show_size: 1
 header_image: "header_prelude.jpg"    
-season: "Tania Camara 26|5|2021, 7pm"
+season: "Tania Camara 15|10|2021, 7.30pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,7 +17,7 @@ season: "Tania Camara 26|5|2021, 7pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/current/2021/camara/#access) · [about](/current/2021/camara/#about) · [artist](/current/2021/camara/#artist) · [reviews](/current/2021/camara/#reviews) · [credits](/current/2021/camara/#credits) · [websites](/current/2021/camara/#websites)</span> · <small>Updated 9 August 2021</small>         
+<span style='font-variant: small-caps'>jump → [access](/current/2021/oreo/#access) · [about](/current/2021/oreo/#about) · [artist](/current/2021/oreo/#artist) · [reviews](/current/2021/oreo/#reviews) · [credits](/current/2021/oreo/#credits) · [websites](/current/2021/oreo/#websites)</span> · <small>Updated 20 September 2021</small>         
          
 *Presented by* STUN *+* Word of Warning        
          
@@ -45,11 +45,11 @@ Tania is a member of <a href="http://inbetweentime.co.uk/creative-exchange-lab" 
 >★★★★ *A tour de force of a performance …utterly compelling.*<br>&nbsp;— <a href="http://www.thegrouchycritic.com/oreo-review" target="_blank">The Grouchy Critic on *Oreo* at HOME</a><br>*Captivating and thought provoking. Food for thought.*<br>&nbsp;— <a href="http://number9reviews.blogspot.com/2020/01/theatre-review-oreo-home-manchester.html" target="_blank">Number 9 Reviews on *Oreo* at HOME</a><br>*Brave thoughtful piece… Gutsy, moving… Unsettling and joyful.*<br>&nbsp;— [Audience Response to *Oreo Variations*](/archive/2020-spring/camara)         
          
 #### Credits          
-Creator, Performer, Producer: Tania Camara<br>Dance Mentor: Pape Ibrahima N'diaye (a.k.a. Kaolack)<br>Director: Peader Kirk<br>Livestream Producer: Ricardo Vilela at <a href="http://sagittamedia.co.uk/site2" target="_blank">Sagitta Media</a><br>Original *Oreo* Lighting Designer: Kamini Patel<br>Image of <a href="http://homemcr.org/production/oreo" target="_blank">*Oreo* at HOME's PUSH Festival 2020</a> by Chris Payne.       
+Creator, Performer, Producer: Tania Camara<br>Dance Mentor: Pape Ibrahima N'diaye (a.k.a. Kaolack)<br>Director: Peader Kirk<br>Livestream Producer: <br>Original *Oreo* Lighting Designer: Kamini Patel<br>Image by Ricardo Vilela at <a href="http://sagittamedia.co.uk/site2" target="_blank">Sagitta Media</a>.       
          
 *Oreo* commissioned by <a href="http://stunlive.com" target="_blank">STUN</a> (Sustained Theatre Up North), developed with the support of <a href="http://homemcr.org/article/push-2020-commissions" target="_blank">HOME</a>, <a href="http://divergencymcr.org" target="_blank">Divergency</a> + [hÅb](/hab). Supported using public funding from the National Lottery through Arts Council England.        
        
 #### Websites         
 <a href="http://taniacamara.com" target="_blank">taniacamara.com</a> · <a href="http://www.facebook.com/TaniaCamara.Performance.Artist" target="_blank">Tania on Facebook</a> · <a href="http://instagram.com/taniacamara20" target="_blank">Tania on Insta</a> · <a href="http://twitter.com/TaniaCamara2" target="_blank">@TaniaCamara2</a>             
         
-<small><span style='font-variant: small-caps'>[back to top](/current/2021/camara)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/current/2021/oreo)</span></small>
