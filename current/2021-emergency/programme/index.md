@@ -64,8 +64,6 @@ Supported by hÅb + Contact for [Works Ahead](/hab/worksahead/#2021).
           
 Recent-graduate **Helena** has built up an extensive performance, acting, and teaching CV. She's performed her solo spoken shows at Lancashire Fringe Festival + Frontline Festival and has been commissioned by The Harris Museum, Lancaster Arts, Brewtime Collective.        
          
-Content Warning: please click [here](/warnings).        
-         
 <a href="http://facebook.com/HelenaLouiseAscough" target="_blank">Facebook: Helena Ascough</a> · <a href="http://twitter.com/Helena_Ascough" target="_blank">@Helena_Ascough</a>        
 <hr>        
 Space 1 lobby · 10 min loop<br>**Ayzmar · *What Is Mine?***        
