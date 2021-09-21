@@ -18,16 +18,17 @@ season: "Emergency 25|9|2021, 12noon-4pm — Programme"
 ---
 <small>Updated 21 September 2021</small>        
         
-[Emergency 21](/current/2021-emergency) *is presented by* Word of Warning *+* Contact *on Sat 25 Sep, 12noon-4pm entry*       
+[Emergency 21](/current/2021-emergency) *presented by* Word of Warning *+* Contact *Sat 25 Sep, 12-4pm*       
          
 #### Viewing Order        
-Rowena Gander · Maryam Hashemi · Lydia Cottrell · Helena Ascough · Ayzmar · Sebastian H-W · Simon Carroll-Jones & Wayne Steven Jackson · Kellie Colbert & Deborah Newton (12noon-2pm entry, runs until 2.45pm) · Mitzee (2pm-4pm entry, runs from 2.45pm) · Kelvin Atmadibrata · Miray Sidhom · *Participating artists subject to change.<br>Some works may disturb, for specific Content Warnings please click [here](/warnings).*        
+Rowena Gander · Maryam Hashemi · Lydia Cottrell · Helena Ascough · Ayzmar · Sebastian H-W · Simon Carroll-Jones & Wayne Steven Jackson · Kellie Colbert & Deborah Newton (until 2.45pm) **or** Mitzee (from 2.45pm) · Kelvin Atmadibrata · Miray Sidhom<br>*Participating artists subject to change.*<br>*Age Advisory: 15+ (mainly aimed at adults; parental/guardian discretion).*<br>*Some works may disturb, for specific Content Warnings please click [here](/warnings).*        
         
 #### Programme Notes       
-        
 Ground floor foyer · 20 min loop<br>**Rowena Gander · *Is this what it takes?***        
 *"Is there an activity that makes you feel free? How many times did you repeat that activity before you felt a sense of freedom? What activities do you do on autopilot, and how many times did you have to do that thing before it became part of you? Watch me as I assemble, create with, and take down, a 70kg pole… 12 times in a row."*        
+        
 A durational + looping physical solo performance that asks audiences to consider the physical demands and/or mental bandwidth that 'empowering' activities require. It encourages audiences to think about the time and effort they put into looking or acting in a certain way to give the impression that they are in control. The performer exposes her own complex journey to empowerment as she repetitively assembles, creates with, and takes down a pole.        
+        
 As a dance theatre artist, **Rowena** creates thought-provoking solo performance works that question and negotiate themes of sexuality, power, and objectification in women. Since 2015 she's worked with stigmatised objects, the vertical pole and high heels, to tease out how they can add to or dissolve female subordination. She's performed internationally and nationally at festivals including Resolutions, Physical Fest, Innovations Platform, Secret Circus, Threshold Festival, Cirqadia, Leap Festival.        
 <a href="http://rowenagander.com" target="_blank">Rowena Gander</a> · <a href="http://facebook.com/rowenagander" target="_blank">Facebook: rowenagander</a> · <a href="http://twitter.com/rowenagander" target="_blank">@rowenagander</a>        
 <hr>        
@@ -54,7 +55,6 @@ A personal exploration into the colonisation of body mind and culture.<br>Shot +
 Content Warning: please click [here](/warnings).        
 <a href="http://ayzmar.com" target="_blank">Ayzmar</a> · <a href="http://instagram.com/ayzmar_" target="_blank">Insta: ayzmar_</a> · <a href="http://twitter.com/ayzmar_" target="_blank">@ayzmar_</a>        
 <hr>        
-
 Space 2 dressing room · durational<br>**Sebastian H-W · *SIIRENX***        
 Through the medium of visual storytelling, performance art actions, and evocative soundscape, viewers are granted a brief intimate audience with SIIRENX — a gender-fluid ‘mer-thing’; a man-made-merman-maid — to learn a little history about gender, queerness, mythical ‘monsters’, self-care, limitations, and transformations.        
 **Sebastian** is a West Midlands-based live artist (MX:UK) exploring identity, memory, technology, participation, and bodies. He uses cutting-edge approaches to creating live performances, action-based interventions, immersive tours, games, and installations. He’s performed nationally + internationally, is an associate artist at performance s p a c e, an ACME studio artist, studio technician for Alice Anderson, and a performer for Geraldine Pilgrim Company and ZU-UK, among others.        
@@ -67,13 +67,13 @@ Space 2 · durational<br>**Simon Carroll-Jones & Wayne Steven Jackson<br>*Re:Mem
 Content Warning: please click [here](/warnings).        
 <a href="http://simonjonestheatremaker.com" target="_blank">Simon Carroll-Jones</a> · <a href="http://instagram.com/sijethrojones" target="_blank">Insta: sijethrojones</a> · <a href="http://twitter.com/sicarrolljones" target="_blank">@sicarrolljones</a><br><a href=" http://waynestevenjackson.co.uk" target="_blank">Wayne Steven Jackson</a> · <a href="http://twitter.com/waynesjackson" target="_blank">@waynesjackson</a>        
 <hr>        
-Space 3 · durational, until 2.45pm*<br>**Kellie Colbert & Deborah Newton · *Hidden Trauma***        
+Space 3 · durational, until 2.45pm<br>**Kellie Colbert & Deborah Newton · *Hidden Trauma***        
 A durational performance exploring two women's attempts to keep up appearances while supporting each other through the process of loss — dealing with trauma, trying to support one another and find the next steps to move forward. They will keep going, they will keep smiling, they will keep dancing, and they will not let you down as they try their best to remain positive.        
 **Deborah** is a lecturer at The Arden School of Theatre, a performance practitioner, and facilitator. She specialises in contemporary performance and is passionate about making the arts accessible for all. Often autobiographical in nature, her work explores issues around relationships, identity, and mental health. She's performed in national + international festivals, is a mentor for Arts Emergency, and an educational board member for Tmesis.<br>**Kellie** is a Greater Manchester performance maker; an autobiographical artist who creates work that is honest, relatable, and at times self-critical. She uses spoken word and symbolism to explore memories, often focusing on themes of mental health and feminism. She's collaborated with Eggs Collective and has been commissioned for Starvin Artists by NIAMOS + (in)sane Mcr.       
 Content Warning: please click [here](/warnings).        
 <a href="http://instagram.com/kellie.colbert.theatre" target="_blank">Insta: kellie.colbert.theatre</a> · <a href="http://twitter.com/imKellieColbert" target="_blank">@imKellieColbert</a><br><a href="http://instagram.com/debbienewtonuttley" target="_blank">Insta: debbienewtonuttley</a> · <a href="http://twitter.com/NewtonDebs" target="_blank">@NewtonDebs</a>        
 <hr>        
-Space 3 · 10 min loop, from 2.45pm*<br><br>**Mitzee · *The Artist***        
+Space 3 · 10 min loop, from 2.45pm<br>**Mitzee · *The Artist***        
 A solo artwork, taking a candid look into the life of the iconic Mitzee.<br>A statuesque like figure, a living breathing artwork covered in white paint, sits on a draped piece of furniture. Still, very still. The audience applaud…<br>Mitzee, a Queer Artist, asks questions of originality, while the technology moulds her clay-like body into a recreation of a creation. But the question is — is Mitzee The Artist?        
 Mitzee is an anti-drag alter-ego created by **Mark Powell**. He developed the character using inspiration from the queer scene in Liverpool — playing with gender normativity, switching the role from ‘male’ to ‘female’, and then to something that can only be described as ‘other’. Mitzee/Mark is unapologetically queer, parading in ten-inch platform heels, a glittered face, and an exposed hairy chest — provoking the audience and posing questions around gender, celebrity, and popular culture. Mark is studying for an MA in Contemporary Performance at MMU.        
 Content Warning: please click [here](/warnings).        
