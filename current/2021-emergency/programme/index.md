@@ -21,7 +21,7 @@ season: "Emergency 25|9|2021, 12noon-4pm — Programme"
 [Emergency 21](/current/2021-emergency) *presented by* Word of Warning *+* Contact *on Sat 25 Sep*       
          
 ### Viewing Order        
-Rowena Gander · Maryam Hashemi · Lydia Cottrell · Helena Ascough · Ayzmar · Sebastian H-W · Simon Carroll-Jones & Wayne Steven Jackson · Kellie Colbert & Deborah Newton <small>(12noon-2pm entry, runs until 2.45pm)</small> · Mitzee <small>(2pm-4pm entry, runs from 2.45pm)</small> · Kelvin Atmadibrata · Miray Sidhom · *Participating artists subject to change.<br>Some works may disturb, for specific Content Warnings please click [here](/warnings).*        
+Rowena Gander · Maryam Hashemi · Lydia Cottrell · Helena Ascough · Ayzmar · Sebastian H-W · Simon Carroll-Jones & Wayne Steven Jackson · Kellie Colbert & Deborah Newton <small>(12noon-2pm entry, runs until 2.45pm)</small> · Mitzee <small>(2pm-4pm entry, runs from 2.45pm)</small> · Kelvin Atmadibrata · Miray Sidhom · *Participating artists subject to change.<br>Some works may disturb, for specific Content Warnings please click [here](/warnings).<br>Age Advisory: 15+ (mainly aimed at adults; parental/guardian discretion). If in doubt please ask a steward.*        
         
 ### Programme Notes       
         
