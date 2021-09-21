@@ -21,9 +21,10 @@ season: "Emergency 25|9|2021, 12noon-4pm — Programme"
 [Emergency 21](/current/2021-emergency) *presented by* Word of Warning *+* Contact *on Sat 25 Sep*       
          
 ### Viewing Order        
-Rowena Gander · Maryam Hashemi · Lydia Cottrell · Helena Ascough · Ayzmar · Sebastian H-W · Simon Carroll-Jones & Wayne Steven Jackson · Kellie Colbert & Deborah Newton <small>12noon-2pm entry, runs until 2.45pm</small> · Mitzee <small>2pm-4pm entry, runs from 2.45pm</small> · Kelvin Atmadibrata · Miray Sidhom<br>*Participating artists subject to change.*<br>*Age Advisory: 15+ (mainly aimed at adults; parental/guardian discretion). If in doubt please ask a steward.*<br>*Some works may disturb, for specific Content Warnings please click [here](/warnings).*        
+Rowena Gander · Maryam Hashemi · Lydia Cottrell · Helena Ascough · Ayzmar · Sebastian H-W · Simon Carroll-Jones & Wayne Steven Jackson · Kellie Colbert & Deborah Newton <small>(12noon-2pm entry, runs until 2.45pm)</small> · Mitzee <small>(2pm-4pm entry, runs from 2.45pm)</small> · Kelvin Atmadibrata · Miray Sidhom · *Participating artists subject to change.<br>Some works may disturb, for specific Content Warnings please click [here](/warnings).<br>Age Advisory: 15+ (mainly aimed at adults; parental/guardian discretion). If in doubt please ask a steward.*        
         
-### Programme Notes              
+### Programme Notes       
+        
 Ground floor foyer · 20 min loop<br>**Rowena Gander · *Is this what it takes?***        
 *"Is there an activity that makes you feel free? How many times did you repeat that activity before you felt a sense of freedom? What activities do you do on autopilot, and how many times did you have to do that thing before it became part of you? Watch me as I assemble, create with, and take down, a 70kg pole… 12 times in a row."*        
 A durational + looping physical solo performance that asks audiences to consider the physical demands and/or mental bandwidth that 'empowering' activities require. It encourages audiences to think about the time and effort they put into looking or acting in a certain way to give the impression that they are in control. The performer exposes her own complex journey to empowerment as she repetitively assembles, creates with, and takes down a pole.        
@@ -53,13 +54,14 @@ A personal exploration into the colonisation of body mind and culture.<br>Shot +
 Content Warning: please click [here](/warnings).        
 <a href="http://ayzmar.com" target="_blank">Ayzmar</a> · <a href="http://instagram.com/ayzmar_" target="_blank">Insta: ayzmar_</a> · <a href="http://twitter.com/ayzmar_" target="_blank">@ayzmar_</a>        
 <hr>        
+
 Space 2 dressing room · durational<br>**Sebastian H-W · *SIIRENX***        
 Through the medium of visual storytelling, performance art actions, and evocative soundscape, viewers are granted a brief intimate audience with SIIRENX — a gender-fluid ‘mer-thing’; a man-made-merman-maid — to learn a little history about gender, queerness, mythical ‘monsters’, self-care, limitations, and transformations.        
 **Sebastian** is a West Midlands-based live artist (MX:UK) exploring identity, memory, technology, participation, and bodies. He uses cutting-edge approaches to creating live performances, action-based interventions, immersive tours, games, and installations. He’s performed nationally + internationally, is an associate artist at performance s p a c e, an ACME studio artist, studio technician for Alice Anderson, and a performer for Geraldine Pilgrim Company and ZU-UK, among others.        
 Content Warning: please click [here](/warnings).        
 <a href="http://sebastnhw.wixsite.com/home" target="_blank">Sebastian H-W</a> · <a href="http://facebook.com/sebastnhw" target="_blank">Facebook: sebastnhw</a> · <a href="http://twitter.com/SebastnHW" target="_blank">@SebastnHW</a>        
 <hr>        
-Space 2 · durational<br>**Simon Carroll-Jones & Wayne Steven Jackson**<br>***Re:Membering Manchester***        
+Space 2 · durational<br>**Simon Carroll-Jones & Wayne Steven Jackson<br>*Re:Membering Manchester***        
 *"In March 2020, the city of Manchester took a giant intake of breath, and since then it's been struggling to exhale. Locked down and paused, pieces of place were lost as music faded, activity stopped, and work ground to a halt. This multidisciplinary performance documents our collective attempts to pick up the pieces, to glue the city back together, to fix what has been broken. We want to re-member the city, and, in doing so, we want to remember why we're here."*<br>Original idea commissioned + supported by Tangled Feet Theatre.        
 **Simon** is an award-winning theatre maker, movement director, and performer/collaborator who has worked extensively across the UK. He's associate artist with Tangled Feet Theatre, Angel Exit Theatre, and Upstart Theatre. His most recent piece, *Marco*, toured nationally, and he's currently working on a new large scale outdoor show.<br>**Wayne** began making theatre as co-founder of Escape in 2004; he's a solo artist, lecturer, workshop facilitator, writer, and collaborator. His work explores autobiographical experiences and the vulnerability of memory to map, challenge, and document social change, using technology to represent voices that are not present.        
 Content Warning: please click [here](/warnings).        
