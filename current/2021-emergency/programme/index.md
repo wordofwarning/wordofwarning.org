@@ -21,7 +21,7 @@ season: "Emergency 25|9|2021, 12noon-4pm — Programme"
 [Emergency 21](/current/2021-emergency) *presented by* Word of Warning *+* Contact on *Sat 25 Sep*       
          
 ### Viewing Order        
-Rowena Gander · Maryam Hashemi · Lydia Cottrell · Helena Ascough · Ayzmar · Sebastian H-W · Simon Carroll-Jones & Wayne Steven Jackson · Kellie Colbert & Deborah Newton *until 2.45pm* · Mitzee *from 2.45pm* · Kelvin Atmadibrata · Miray Sidhom<br>*Participating artists subject to change.*<br>Age Advisory: 15+ (*mainly aimed at adults; parental/guardian discretion*).<br>Some works *may* disturb, for specific Content Warnings please click [here](/warnings).        
+Rowena Gander → Maryam Hashemi → Lydia Cottrell → Helena Ascough → Ayzmar → Sebastian H-W → Simon Carroll-Jones & Wayne Steven Jackson → Kellie Colbert & Deborah Newton *until 2.45pm* · Mitzee *from 2.45pm* → Kelvin Atmadibrata → Miray Sidhom · *Participating artists subject to change.*<br>Age Advisory: 15+ (*mainly aimed at adults; parental/guardian discretion*).<br>Some works *may* disturb, for specific Content Warnings please click [here](/warnings).        
         
 ### Programme Notes       
 Ground floor foyer · 20 min loop<br>**Rowena Gander · *Is this what it takes?***        
@@ -118,7 +118,9 @@ Content Warning: please click [here](/warnings).
 <hr>        
 Space 3 · 10 min loop, *from 2.45pm*<br>**Mitzee · *The Artist***        
         
-A solo artwork, taking a candid look into the life of the iconic Mitzee.<br>A statuesque like figure, a living breathing artwork covered in white paint, sits on a draped piece of furniture. Still, very still. The audience applaud…         
+A solo artwork, taking a candid look into the life of the iconic Mitzee.        
+        
+A statuesque like figure, a living breathing artwork covered in white paint, sits on a draped piece of furniture. Still, very still. The audience applaud…         
         
 Mitzee, a Queer Artist, asks questions of originality, while the technology moulds her clay-like body into a recreation of a creation. But the question is — is Mitzee The Artist?        
         
@@ -130,7 +132,9 @@ Content Warning: please click [here](/warnings).
 <hr>        
 Space 4 · durational<br>**Kelvin Atmadibrata · *I Believe You!!***        
          
-"I believe you!!" said we who stood by and did nothing as an execution took place.<br>Inspired by a memorable fake-execution scene from Squaresoft's 1997 JRPG Final Fantasy Tactics, *I Believe You!!* is staged as if it were child's play, with installation constructed from paper crafts and a boot-leg fashion doll. Within a general societal context, the work responds to the inability and hopelessness of a (caring) person with masculine privilege towards the unfairly pronounced guilty.         
+"I believe you!!" said we who stood by and did nothing as an execution took place.         
+         
+Inspired by a memorable fake-execution scene from Squaresoft's 1997 JRPG Final Fantasy Tactics, *I Believe You!!* is staged as if it were child's play, with installation constructed from paper crafts and a boot-leg fashion doll. Within a general societal context, the work responds to the inability and hopelessness of a (caring) person with masculine privilege towards the unfairly pronounced guilty.         
          
 **Kelvin** (b.1988, Jakarta, Indonesia) graduated with an MA in Contemporary Art Practice (Performance) from the Royal College of Art, now living and working between Jakarta + London. His works have been collected and presented at festivals and exhibitions in Indonesia, Singapore, Malaysia, the Philippines, Japan, Taiwan, Bangladesh, India, Australia, Europe & the U.S.A. He's the first recipient of Ivan Ladislav Galeta Prize (Croatia) for *Forcing Hyacinth*, seen at [Emergency 2019](/archive/2019-emergency/daytime).        
          
