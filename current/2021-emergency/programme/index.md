@@ -16,23 +16,15 @@ season: "Emergency 25|9|2021, 12noon-4pm — Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 21 September 2021</small>        
+<small>Updated 25 September 2021</small>        
         
 [Emergency 21](/current/2021-emergency) *presented by* Word of Warning *+* Contact on *Sat 25 Sep*       
          
 ### Viewing Order        
-Rowena Gander → Maryam Hashemi → Lydia Cottrell → Helena Ascough → Ayzmar → Sebastian H-W → Simon Carroll-Jones & Wayne Steven Jackson → Kellie Colbert & Deborah Newton *until 2.45pm* · Mitzee *from 2.45pm* → Kelvin Atmadibrata → Miray Sidhom · *Participating artists subject to change.*<br>Age Advisory: 15+ (*mainly aimed at adults; parental/guardian discretion*).<br>Some works *may* disturb, for specific Content Warnings please click [here](/warnings).        
+Maryam Hashemi → Lydia Cottrell → Helena Ascough → Ayzmar → Sebastian H-W → Simon Carroll-Jones & Wayne Steven Jackson → Kellie Colbert & Deborah Newton *until 2.45pm* · Mitzee *from 2.45pm* → Kelvin Atmadibrata → Miray Sidhom<br>*Participating artists subject to change; Rowena Gander is unable to appear.*<br>Age Advisory: 15+ (*mainly aimed at adults; parental/guardian discretion*).<br>Some works *may* disturb, for specific Content Warnings please click [here](/warnings).        
         
 ### Programme Notes       
-Ground floor foyer · 20 min loop<br>**Rowena Gander · *Is this what it takes?***        
-        
-*"Is there an activity that makes you feel free? How many times did you repeat that activity before you felt a sense of freedom? What activities do you do on autopilot, and how many times did you have to do that thing before it became part of you? Watch me as I assemble, create with, and take down, a 70kg pole… 12 times in a row."*        
-        
-A durational + looping physical solo performance that asks audiences to consider the physical demands and/or mental bandwidth that 'empowering' activities require. It encourages audiences to think about the time and effort they put into looking or acting in a certain way to give the impression that they are in control. The performer exposes her own complex journey to empowerment as she repetitively assembles, creates with, and takes down a pole.        
-        
-As a dance theatre artist, **Rowena** creates thought-provoking solo performance works that question and negotiate themes of sexuality, power, and objectification in women. Since 2015 she's worked with stigmatised objects, the vertical pole and high heels, to tease out how they can add to or dissolve female subordination. She's performed internationally and nationally at festivals including Resolutions, Physical Fest, Innovations Platform, Secret Circus, Threshold Festival, Cirqadia, Leap Festival.        
-        
-<a href="http://rowenagander.com" target="_blank">Rowena Gander</a> · <a href="http://facebook.com/rowenagander" target="_blank">Facebook: rowenagander</a> · <a href="http://twitter.com/rowenagander" target="_blank">@rowenagander</a>        
+**Rowena Gander is unable to appear.**
 <hr>        
 First floor landing · durational<br>**Maryam Hashemi · *The weaver***        
         
