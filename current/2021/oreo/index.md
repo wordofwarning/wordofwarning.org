@@ -17,7 +17,7 @@ season: "Tania Camara 15|10|2021, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/current/2021/oreo/#access) · [about](/current/2021/oreo/#about) · [artist](/current/2021/oreo/#artist) · [reviews](/current/2021/oreo/#reviews) · [credits](/current/2021/oreo/#credits) · [websites](/current/2021/oreo/#websites)</span> · <small>Updated 1 Oct 2021</small>         
+<span style='font-variant: small-caps'>jump → [access](/current/2021/oreo/#access) · [about](/current/2021/oreo/#about) · [artist](/current/2021/oreo/#artist) · [reviews](/current/2021/oreo/#reviews) · [credits](/current/2021/oreo/#credits) · [websites](/current/2021/oreo/#websites)</span> · <small>Updated 5 Oct 2021</small>         
          
 *Presented by* STUN *+* Word of Warning        
          
@@ -33,7 +33,7 @@ A semi-autobiographical solo about being a successfully educated black woman wit
         
 Exploring the racial term 'Oreo' in relation to experiences of episodic racism within higher education and employment, Tania challenges the notion of whitening her physical and phenomenal self to achieve success in society.        
          
-*Oreo* developed from, and is inspired by, difficult conversations and the complexities of what it means to black in Great Britain. As a black EU national living in the UK, Tania uses *Oreo* to investigate the mechanisms of survival black women use to protect themselves and endure the current hostile times.         
+*Oreo* developed from, and is inspired by, difficult conversations and the complexities of what it means to be black in Great Britain. As a black EU national living in the UK, Tania uses *Oreo* to investigate the mechanisms of survival black women use to protect themselves and endure the current hostile times.         
          
 #### Artist          
 A Manchester-based solo performance artist, Tania works across devised theatre, dance, site-specific, live art, installation, video + photography. A graduate of the University of Amsterdam with an MA, she uses her cultural heritage, past experiences, research, and the interdisciplinary structure of Batuku (including singing, dancing, drums + spoken word).        
