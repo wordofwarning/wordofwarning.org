@@ -17,9 +17,9 @@ season: "Dani Abulhawa 22|10|2021, 7pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/current/2021/abulhawa/#access) · [about](/current/2021/abulhawa/#about) · [artist](/current/2021/abulhawa/#artist) · [credits](/current/2021/abulhawa/#credits) · [websites](/current/2021/abulhawa/#websites)</span> · <small>Updated 4 Oct 2021</small>         
+<span style='font-variant: small-caps'>jump → [access](/current/2021/abulhawa/#access) · [about](/current/2021/abulhawa/#about) · [artist](/current/2021/abulhawa/#artist) · [credits](/current/2021/abulhawa/#credits) · [websites](/current/2021/abulhawa/#websites)</span> · <small>Updated 6 Oct 2021</small>         
          
-*Presented by* Word of Warning *+ the* Holden Gallery *as part of* <a href="https://holdengallery.mmu.ac.uk/interruptions" target="_blank">Interruptions</a>.        
+*Presented by* Word of Warning *+* the Holden Gallery *as part of* <a href="https://holdengallery.mmu.ac.uk/interruptions" target="_blank">Interruptions</a>        
          
 How are walls felt through bodies and generations? How might political walls be brought down? A performance exploring the experience of restricted movement across borders — real and imaginary, current and historical.        
         
