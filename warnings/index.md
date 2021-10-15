@@ -19,7 +19,7 @@ This information is for audience members who want to know more about the content
 <small>Reflects most recent information received · Updated 15 Oct 2021</small>        
 <hr>         
 ##### [Fri 15 Oct. STUN Studio at Z-arts | *Oreo* by Tania Camara](/current/2021/oreo)        
-Age Advisory: 16+ (parental/guardian discretion).<br>Content Warning: includes an archive recording of a speech by Diane Abbott where she uses a term that may offend (the N-word).         
+Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes an archive recording of a speech by Diane Abbott MP where she uses a term that may offend (the N-word).         
          
 ##### [Fri 22 Oct. Holden Gallery | *Concord* by Dani Abulhawa](/current/2021/abulhawa)        
 Age Advisory: parental/guardian discretion.<br>Content Warnings: references to periods of conflict in Israel/Palestine and the current situation that may evoke upsetting memories in some audience members.
