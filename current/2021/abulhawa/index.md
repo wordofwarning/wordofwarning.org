@@ -17,7 +17,7 @@ season: "Dani Abulhawa 22|10|2021, 7pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/current/2021/abulhawa/#access) · [about](/current/2021/abulhawa/#about) · [artist](/current/2021/abulhawa/#artist) · [credits](/current/2021/abulhawa/#credits) · [websites](/current/2021/abulhawa/#websites)</span> · <small>Updated 6 Oct 2021</small>         
+<span style='font-variant: small-caps'>jump → [access](/current/2021/abulhawa/#access) · [about](/current/2021/abulhawa/#about) · [artist](/current/2021/abulhawa/#artist) · [credits](/current/2021/abulhawa/#credits) · [websites](/current/2021/abulhawa/#websites)</span> · <small>Updated 18 Oct 2021</small>         
          
 *Presented by* Word of Warning *+* the Holden Gallery *as part of* <a href="https://holdengallery.mmu.ac.uk/interruptions" target="_blank">Interruptions</a>        
          
@@ -36,14 +36,16 @@ Exploring their audio testimonies through movement, Dani developed a series of s
 With audio material presented alongside movement, *Concord* is shown within a structure designed to look, feel, and behave as complex and cumbersome as the politics that underpin it.         
          
 #### Artist          
-A British-Palestinian interdisciplinary artist based in Manchester, Dani has been making work since 2005. Her background and training are in performance, movement, and skateboarding; her work often explores the lived experience and politics of specific spaces and places.        
+A British-Palestinian interdisciplinary artist based in Manchester, Dani Abulhawa has been making work since 2005. Her background and training are in performance, movement, and skateboarding; her work often explores the lived experience and politics of specific spaces and places.        
         
 A Lecturer in Contemporary Applied Performance at the University of Leeds, she's also co-founder of <a href="https://accumulationsproject.com" target="_blank">Accumulations</a> — a Manchester-based collective and supportive network for the development of experimental movement, dance, and performance.
 
-Recent work includes:<br>*Bring Yourself to the Table* (2020) — a durational movement score created and performed with artists Sara Spies + Christian Berger; a meditation on who has the ability to participate in diplomatic solutions to conflict, presented as part of the 2020 Festival of Belonging, Manchester Central Library.<br>*The Slide* (2018) — a short performance for camera about the politics of water in the West Bank; commissioned as part of an event celebrating the 70th Anniversary of the Declaration of Human Rights by the Helena Kennedy Centre for International Justice.<br>*Feint Lines* (2018) — a skateboard choreography made in a car park; commissioned for the Not Quite Light Festival in Salford as part of a strand of work examining women's experiences of being alone in public spaces at night.        
+Dani's recent work includes:<br>*Bring Yourself to the Table* (2020) — a durational movement score created and performed with artists Sara Spies + Christian Berger; a meditation on who has the ability to participate in diplomatic solutions to conflict, presented as part of the 2020 Festival of Belonging, Manchester Central Library.<br>*The Slide* (2018) — a short performance for camera about the politics of water in the West Bank; commissioned as part of an event celebrating the 70th Anniversary of the Declaration of Human Rights by the Helena Kennedy Centre for International Justice.<br>*Feint Lines* (2018) — a skateboard choreography made in a car park; commissioned for the Not Quite Light Festival in Salford as part of a strand of work examining women's experiences of being alone in public spaces at night.        
         
 #### Credits          
-Creator, Performer: Dani Abulhawa<br>Performer: Jamal Abulhawa<br>Image by Christian Berger + Dani Abulhawa.<br>With thanks to:<br>Bob Whalley — Dramaturg<br>Amy Voris + Sara Spies — Choreographic development<br>Tamsin Drury + John Franklin — Production and creative development, promotion, project management<br>Christian Berger — Set and production development<br>Veronika Abulhawa — Costume and props<br>Guillaume Dujat — Sound<br>Lee Miller, Shelley Owen & Josh Slater, Latitude participants — Early-stage creative development feedback<br>Jodie Ratcliffe — Promotion         
+Creator, Performer: Dani Abulhawa<br>Performer: Jamal Abulhawa<br>Image by Christian Berger + Dani Abulhawa.        
+        
+With thanks to:<br>Bob Whalley — dramaturg<br>Amy Voris + Sara Spies — choreographic development<br>Tamsin Drury + John Franklin — production & creative development, promotion, project management<br>Christian Berger — set & production development, sound technician<br>Veronika Abulhawa — vocal performer, costume & props<br>Guillaume Dujat — audio mastering<br>Lee Miller, Shelley Owen + Josh Slater, Latitude participants — early-stage creative development feedback<br>Jodie Ratcliffe — promotion         
          
 Commissioned by <a href="https://manchesterindependents.co.uk" target="_blank">Manchester Independents</a> + [hÅb](/hab).         
         
