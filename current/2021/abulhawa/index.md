@@ -17,7 +17,7 @@ season: "Dani Abulhawa 22|10|2021, 7pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/current/2021/abulhawa/#access) · [about](/current/2021/abulhawa/#about) · [artist](/current/2021/abulhawa/#artist) · [credits](/current/2021/abulhawa/#credits) · [websites](/current/2021/abulhawa/#websites)</span> · <small>Updated 18 Oct 2021</small>         
+<span style='font-variant: small-caps'>jump → [access](/current/2021/abulhawa/#access) · [about](/current/2021/abulhawa/#about) · [artist](/current/2021/abulhawa/#artist) · [credits](/current/2021/abulhawa/#credits) · [websites](/current/2021/abulhawa/#websites)</span> · <small>Updated 21 Oct 2021</small>         
          
 *Presented by* Word of Warning *+* the Holden Gallery *as part of* <a href="https://holdengallery.mmu.ac.uk/interruptions" target="_blank">Interruptions</a>        
          
@@ -45,7 +45,7 @@ Dani's recent work includes:<br>*Bring Yourself to the Table* (2020) — a durat
 #### Credits          
 Creator, Performer: Dani Abulhawa<br>Performer: Jamal Abulhawa<br>Image by Christian Berger + Dani Abulhawa.        
         
-With thanks to:<br>Bob Whalley — dramaturg<br>Amy Voris + Sara Spies — choreographic development<br>Tamsin Drury + John Franklin — production & creative development, promotion, project management<br>Christian Berger — set & production development, sound technician<br>Veronika Abulhawa — vocal performer, costume & props<br>Guillaume Dujat — audio mastering<br>Lee Miller, Shelley Owen + Josh Slater, Latitude participants — early-stage creative development feedback<br>Jodie Ratcliffe — promotion         
+With thanks to:<br>Bob Whalley — dramaturg<br>Amy Voris + Sara Spies — choreographic development<br>Tamsin Drury + John Franklin — production & creative development, promotion, project management<br>Christian Berger — set & production development, sound technician<br>Veronika Abulhawa — vocal performer, costume & props<br>Guillaume Dujat — audio mastering<br>Lee Miller, Shelley Owen + Josh Slater, Latitude participants — early-stage creative development feedback<br>Jodie Ratcliffe — promotion<br>Zoe Watson + team — Holden Gallery space & technical support          
          
 Commissioned by <a href="https://manchesterindependents.co.uk" target="_blank">Manchester Independents</a> + [hÅb](/hab).         
         
