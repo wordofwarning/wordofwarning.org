@@ -1,6 +1,6 @@
 /* THEMED PER-EVENT STYLES ---------------------------*/
 
-/* default word of warning styling + homepage header currently pink wool
+/* default word of warning styling + homepage header currently SS22 silver foil
 ------------------------------------------------------*/
 
 	body,
@@ -27,7 +27,7 @@
 		{background:#000; color:#fff;}
 
 	.splash
-		{background:url(../images/header_AW21Warnin.jpg) -150px center}
+		{background:url(../images/header_warni_ss22.jpg) -150px center}
 
 /* hAb black
 ------------------------------------------------------*/
@@ -896,7 +896,6 @@
 	.aw2021 .splash
 		{background:url(../images/header_AW21Warnin.jpg) -150px center}
 
-
 /* Emergency 21 bright red with running man
 ------------------------------------------------------*/
 
@@ -920,3 +919,9 @@
 		
 	.e2021 .splash
 		{background:url(../images/header_emergency.jpg) center center}
+
+/* Spring/Summer 2022 Programme silver foil
+------------------------------------------------------*/
+
+	.ss2022 .splash
+		{background:url(../images/header_warni_ss22.jpg) -150px center}
