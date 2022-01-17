@@ -17,7 +17,7 @@ season: "Dani Abulhawa 22|10|2021, 7pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/current/2021/abulhawa/#access) · [about](/current/2021/abulhawa/#about) · [artist](/current/2021/abulhawa/#artist) · [credits](/current/2021/abulhawa/#credits) · [websites](/current/2021/abulhawa/#websites)</span> · <small>Updated 21 Oct 2021</small>         
+<span style='font-variant: small-caps'>jump → [access](/archive/2021-autumnwinter/abulhawa/#access) · [about](/archive/2021-autumnwinter/abulhawa/#about) · [artist](/archive/2021-autumnwinter/abulhawa/#artist) · [credits](/archive/2021-autumnwinter/abulhawa/#credits) · [websites](/archive/2021-autumnwinter/abulhawa/#websites)</span> · <small>Updated 17 Jan 2022</small>         
          
 *Presented by* Word of Warning *+* the Holden Gallery *as part of* <a href="https://holdengallery.mmu.ac.uk/interruptions" target="_blank">Interruptions</a>        
          
@@ -52,4 +52,4 @@ Commissioned by <a href="https://manchesterindependents.co.uk" target="_blank">M
 #### Websites         
 <a href="https://daniabulhawa.com" target="_blank">daniabulhawa.com</a> · <a href="https://twitter.com/skeeterdani" target="_blank">@skeeterdani</a><br><a href="https://holdengallery.mmu.ac.uk/interruptions" target="_blank">holdengallery.mmu.ac.uk/interruptions</a> · <a href="https://twitter.com/HoldenGallery" target="_blank">@HoldenGallery</a><br><a href="https://twitter.com/hashtag/ManchesterIndependents?f=live" target="_blank">#ManchesterIndependents</a>         
         
-<small><span style='font-variant: small-caps'>[back to top](/current/2021/abulhawa)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2021-autumnwinter/abulhawa)</span></small>
