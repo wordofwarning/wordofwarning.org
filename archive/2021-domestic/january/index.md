@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: 2021-autumnwinter
+layout: 2021-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
