@@ -16,20 +16,22 @@ Age Advisories/Limits and Content Warnings for *past* events and *archived* live
         
 This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger — if issues raised affect you, these organisations may be of support:&nbsp;&nbsp;<a href="https://thecalmzone.net" target="_blank">CALM</a> 0800 585858 · <a href="https://harmless.org.uk" target="_blank">Harmless</a> · <a href="https://mind.org.uk" target="_blank">Mind</a> 0300 123 3393 · <a href="https://nopanic.org.uk" target="_blank">No Panic</a> 0300 772 9844 · <a href="https://samaritans.org" target="_blank">Samaritans</a> call 116 123 or email jo@samaritans.org · <a href="https://supportline.org.uk" target="_blank">SupportLine</a> 01708 765 200 · <a href="https://thesurvivorstrust.org" target="_blank">The Survivors Trust</a> 08088 010 818       
         
-<span style='font-variant: small-caps'>jump → [2021](/archive/warnings/#2021) · [2020](/archive/warnings/#2020) · [2019](/archive/warnings/#2019)</span> · <small>Updated 25 Oct 2021</small>        
+<span style='font-variant: small-caps'>jump → [2022](/archive/warnings/#2022) · [2021](/archive/warnings/#2021) · [2020](/archive/warnings/#2020) · [2019](/archive/warnings/#2019)</span> · <small>Updated 17 Jan 2022</small>        
+<hr>         
+#### 2022        
 <hr>         
 #### 2021        
         
-##### [Fri 22 Oct. Holden Gallery | *Concord* by Dani Abulhawa](/current/2021/abulhawa)        
+##### [Fri 22 Oct. Holden Gallery | *Concord* by Dani Abulhawa](/archive/2021-autumnwinter/abulhawa)        
 Age Advisory: parental/guardian discretion.<br>Content Warnings: references to periods of conflict in Israel/Palestine and the current situation that may evoke upsetting memories in some audience members.        
         
-##### [Fri 15 Oct. STUN Studio at Z-arts | *Oreo* by Tania Camara](/current/2021/oreo)        
+##### [Fri 15 Oct. STUN Studio at Z-arts | *Oreo* by Tania Camara](/archive/2021-autumnwinter/oreo)        
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: included an archive recording of a speech by Diane Abbott MP where she uses a term that may offend (the N-word).         
          
-##### [Sat 25 Sep. Contact | Emergency 21](/current/2021-emergency)        
+##### [Sat 25 Sep. Contact | Emergency 21](/archive/2021-emergency)        
 Age Advisory: 15+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, some included audience interaction, specific warnings follow.<br>&nbsp;Ayzmar — includes Blackface references and mentions of police brutality, rape, and slavery.<br>&nbsp;Kellie Colbert & Deborah Newton — exploration of loss, death, and trauma.<br>&nbsp;Lydia Cottrell — a one-to-one interactive experience; discussion of sensitive and complex topics.<br>&nbsp;Miray Sidhom — includes footage of protest that may be considered violent.<br>&nbsp;Mitzee — set within a darkened space, includes flashing imagery.<br>&nbsp;Sebastian H-W — includes partial nudity, sharp noises, and possible flashing light.<br>&nbsp;Simon Carroll-Jones & Wayne Steven Jackson — set within immersive projected imagery and soundscape; short and flashing screen movement *may* affect those with photosensitive epilepsy.           
          
-##### [26 May. Online | *Oreo Prelude* by Tania Camara](/current/2021/camara)
+##### [26 May. Online | *Oreo Prelude* by Tania Camara](/archive/2021-springsummer/camara)
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warning: includes an archive recording of a speech by <a href="http://en.wikipedia.org/wiki/Diane_Abbott" target="_blank">Diane Abbott</a> where she uses a term that may offend (the N-word).       
          
 ##### [10 Mar. Online | Domestic](/current/2021-domestic/march)        
@@ -37,8 +39,7 @@ Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Con
          
 ##### [13 Jan. Online | Domestic](/current/2021-domestic/january)        
 Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Content Warnings: some works may disturb, some included audience interaction, specific warnings follow.<br>&nbsp;Avital Raz — mentions of rape and miscarriage.<br>&nbsp;Lydia Cottrell — discussion of potentially sensitive and complex topics.<br>&nbsp;Mitzee — includes flashing imagery.        
-        
-<hr>          
+<hr>         
 #### 2020        
         
 ##### [7 Oct. Online | Domestic](/archive/2020-domestic/october)        
@@ -71,7 +72,6 @@ Age Advisory: 18+ (mainly aimed at adults; parental/guardian discretion).<br>Con
 ##### [12 Feb. The Lowry | *Sex Education* by Harry Clayton-Wright](/archive/2020-spring/clayton-wright)
 **Age Limit: strictly 18+**<br>Content Warnings: includes themes that some people may find distressing, nudity + explicit sexual content.        
 <hr>          
-          
 #### 2019        
         
 ##### [6 Nov. The Lowry | *I Promise You That Tonight* by Tom Cassani](/archive/2019-autumnwinter/cassani)          
