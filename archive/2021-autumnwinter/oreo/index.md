@@ -17,7 +17,7 @@ season: "Tania Camara 15|10|2021, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/current/2021/oreo/#access) · [about](/current/2021/oreo/#about) · [artist](/current/2021/oreo/#artist) · [reviews](/current/2021/oreo/#reviews) · [credits](/current/2021/oreo/#credits) · [websites](/current/2021/oreo/#websites)</span> · <small>Updated 5 Oct 2021</small>         
+<span style='font-variant: small-caps'>jump → [access](/archive/2021-autumnwinter/oreo/#access) · [about](/archive/2021-autumnwinter/oreo/#about) · [artist](/archive/2021-autumnwinter/oreo/#artist) · [reviews](/archive/2021-autumnwinter/oreo/#reviews) · [credits](/archive/2021-autumnwinter/oreo/#credits) · [websites](/archive/2021-autumnwinter/oreo/#websites)</span> · <small>Updated 17 Jan 2022</small>         
          
 *Presented by* STUN *+* Word of Warning        
          
@@ -53,4 +53,4 @@ Creator, Performer, Producer: Tania Camara<br>Dance Mentor: Pape Ibrahima N'diay
 #### Websites         
 <a href="http://taniacamara.com" target="_blank">taniacamara.com</a> · <a href="http://www.facebook.com/TaniaCamara.Performance.Artist" target="_blank">Tania on Facebook</a> · <a href="http://instagram.com/taniacamara20" target="_blank">Tania on Insta</a> · <a href="http://twitter.com/TaniaCamara2" target="_blank">@TaniaCamara2</a>             
         
-<small><span style='font-variant: small-caps'>[back to top](/current/2021/oreo)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2021-autumnwinter/oreo)</span></small>
