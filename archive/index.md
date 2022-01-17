@@ -4,6 +4,10 @@ layout: archive
 season: "Archive"
 
 archived:
+    - {folder: "2021-autumnwinter", name: "Autumn/Winter 2021", class: "aw2021"}
+    - {folder: "2021-emergency", name: "Emergency 2021", class: "e2021"}
+    - {folder: "2021-springsummer", name: "Spring/Summer 2021", class: "ss2021"}
+    - {folder: "2021-domestic", name: "Domestic 2021", class: "dom"}
     - {folder: "2020-autumnwinter", name: "Autumn/Winter 2020", class: "aw2020"}
     - {folder: "2020-domestic", name: "Domestic 2020", class: "dom"}
     - {folder: "2020-summer", name: "Summer 2020", class: "sum2020"}
