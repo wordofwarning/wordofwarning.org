@@ -16,9 +16,9 @@ season: "Emergency 25|9|2021, 12noon-4pm — Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 25 September 2021</small>        
+<small>Updated 17 Jan 2022</small>        
         
-[Emergency 21](/current/2021-emergency) *presented by* Word of Warning *+* Contact on *Sat 25 Sep*       
+[Emergency 21](/archive/2021-emergency) *presented by* Word of Warning *+* Contact on *Sat 25 Sep*       
          
 ### Viewing Order        
 Maryam Hashemi → Lydia Cottrell → Helena Ascough → Ayzmar → Sebastian H-W → Simon Carroll-Jones & Wayne Steven Jackson → Kellie Colbert & Deborah Newton *or* Mitzee → Kelvin Atmadibrata → Miray Sidhom<br>*Participating artists subject to change; Rowena Gander is unable to appear.*<br>Age Advisory: 15+ (*mainly aimed at adults; parental/guardian discretion*).<br>Some works may disturb, for specific Content Warnings please click [here](/warnings).        
@@ -143,4 +143,4 @@ Drawing on her Egyptian heritage, Miray presents a live art installation explori
 Content Warning: please click [here](/warnings).        
 <hr>        
 <a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> · <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>                 
-<small><span style='font-variant: small-caps'>[back to top](/current/2021-emergency/programme)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2021-emergency/programme)</span></small>
