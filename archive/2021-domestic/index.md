@@ -26,7 +26,7 @@ What can you make when your kitchen table is the stage + your camera is the audi
 #### About         
 In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/2017-autumnwinter/pritchard) we presented Domestic works in tower blocks in transition — little did we know then, that in [2020](/archive/2020-domestic) our homes would become our only stages and only auditoria…        
         
-And so in [2020](/archive/2020-domestic) we began a series of "Domestic at homes" that continued in **[January](/archive/2021-domestic/january)** (<a href="http://youtu.be/VsDRVALM2Ao" target="_blank">watch livestream</a>) and **[March](/archive/2021-domestic/march)**, with artists trying out new works about what was on their minds — using whatever resources they had to hand.        
+And so in 2021 our series of "Domestic at homes" continued in **[January](/archive/2021-domestic/january)** (<a href="http://youtu.be/VsDRVALM2Ao" target="_blank">watch livestream</a>) and **[March](/archive/2021-domestic/march)**, with artists trying out new works about what was on their minds — using whatever resources they had to hand.        
         
 Real lives, real stories, real homes.        
         
