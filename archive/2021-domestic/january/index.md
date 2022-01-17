@@ -6,8 +6,8 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Domestic (Jan 2021)" # the name of the artist or company
 show: "New work, live from home." # the name of the show
-artist_size: 2
-show_size: 3
+artist_size: 3
+show_size: 4
 header_image: "header_domestic.jpg"  
 season: "Domestic 13|1|2021, 8pm"
 
@@ -17,7 +17,7 @@ season: "Domestic 13|1|2021, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [artists](/current/2021-domestic/january/#artists) · [access](/current/2021-domestic/january/#access) · [about](/current/2021-domestic/january/#about) · [programme](/current/2021-domestic/january/#programme) · [websites](/current/2021-domestic/january/#websites)</span> · <small>Updated 30 April 2021</small>     
+<span style='font-variant: small-caps'>jump → [artists](/archive/2021-domestic/january/#artists) · [access](/archive/2021-domestic/january/#access) · [about](/archive/2021-domestic/january/#about) · [programme](/archive/2021-domestic/january/#programme) · [websites](/archive/2021-domestic/january/#websites)</span> · <small>Updated 17 Jan 2022</small>     
         
 *Presented by* Word of Warning        
          
@@ -35,7 +35,7 @@ Time: Wednesday 13 January 2021, 8pm to *approximately* 9.15pm.<br>Location: liv
 #### About         
 In [2013](/archive/2013-domestic)/[15](/archive/2015-domestic)/[17](/archive/2017-autumnwinter/pritchard) we presented Domestic works in tower blocks in transition — little did we know then, that in [2020](/archive/2020-domestic) our homes would become our only stages and only auditoria…        
         
-And so we began a series of ["Domestic at homes"](/archive/2020-domestic), with artists trying out new works about what was on their minds — using whatever resources they had to hand.       
+And so we began a series of ["Domestic at homes"](/archive/2021-domestic), with artists trying out new works about what was on their minds — using whatever resources they had to hand.       
         
 Join us on 13 January for our fourth set of "artists at home" — selected from our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for proposals</a>. Real lives, real stories, real homes.          
         
@@ -62,4 +62,4 @@ Hosted by Peader Kirk.
         
 #### Websites         
 <a href="http://domesticmcr.org" target="_blank">DomesticMcr.org</a> · <a href="http://twitter.com/hashtag/DomesticMcr" target="_blank">#DomesticMcr</a><br><a href="http://instagram.com/alice_connolly1" target="_blank">Insta: alice_connolly1</a> · <a href="http://twitter.com/alice_connolly1" target="_blank">@alice_connolly1</a><br><a href="http://avitalraz.com" target="_blank">Avital Raz</a> · <a href="http://facebook.com/avitalrazmusic" target="_blank">Facebook: avitalrazmusic</a> · <a href="http://twitter.com/avitalraz" target="_blank">@avitalraz</a><br><a href="http://lolososo.hotglue.me" target="_blank">Loïs Soleil</a> · <a href="http://instagram.com/loissoleil" target="_blank">Insta: loissoleil</a><br><a href="http://lydia-cottrell.com" target="_blank">Lydia Cottrell</a> · <a href="http://instagram.com/borkkvlt" target="_blank">Insta: borkkvlt</a> · <a href="http://twitter.com/LydiaBorkkvlt" target="_blank">@LydiaBorkkvlt</a><br><a href="http://contactmcr.com/news/adam-ali-and-miray-sidhom-new-seed-commissions" target="_blank">Miray Sidhom</a><br><a href="http://deadpig.org.uk/mitzee" target="_blank">Mitzee</a> · <a href="http://facebook.com/mitzeemorninwood" target="_blank">Facebook: mitzeemorninwood</a> · <a href="http://twitter.com/mitzeemw" target="_blank">@mitzeemw</a><br><a href="http://griffindance.wixsite.com/grebo" target="_blank">Voidance Company</a> · <a href="http://twitter.com/griffindance" target="_blank">@griffindance</a><br><a href="http://twitter.com/PeaderKirk" target="_blank">@PeaderKirk</a>             
-<small><span style='font-variant: small-caps'>[back to top](/current/2021-domestic/january)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2021-domestic/january)</span></small>
