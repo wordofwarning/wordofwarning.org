@@ -5,8 +5,10 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Turn" # the name of the artist or company
+show: "New northern dance." # the name of the artist or company
+show_size: 5
 header_image: "header_turn_photo.jpg"   
-season: "hÅb — Turn"
+season: "Turn by hÅb"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -14,12 +16,14 @@ season: "hÅb — Turn"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-**Turn** is our annual platform for North West† dancers + dance-makers, currently on hiatus. Formerly held in Manchester each spring, the last edition in 2017 had a new format with a dozen short pieces of new work shown to the public on a Friday night, followed by a Saturday of professional development…        
+<small>Updated 24 Jan 2022</small>         
+        
+***Currently on hiatus*, Turn** is our annual platform for North West† dancers + dance-makers. Formerly held in Manchester each spring, the last edition in 2017 had a new format with a dozen short pieces of new work shown to the public on a Friday night, followed by a Saturday of professional development…        
          
 Our [**ninth Turn**](/archive/2017-turn) took place at Contact on **Friday 28 April 2017**, with a dozen new northern dance-works — to get a feel for it see the [image gallery](/galleries/2017-turn), or delve further with 2016's [gallery](/galleries/2016-turn) + [programme](/archive/2015-turn) and 2015's [gallery](/galleries/2015-turn) + [programme](/archive/2015-turn).       
          
 **Turn is:**        
-• currently on hiatus; we hope to return in 2021;        
+• currently on hiatus; we *hope* to return in 2023;        
 • a public micro-festival + open submission platform;        
 • an opportunity for artists to meet, show + peer-review work;        
 • an artist networking event;      
@@ -29,4 +33,4 @@ Our [**ninth Turn**](/archive/2017-turn) took place at Contact on **Friday 28 Ap
         
 † *<a href="http://en.wikipedia.org/wiki/North_West_England" target="_blank">North West England</a> consists of Cheshire, Cumbria, Greater Manchester, Lancashire + Merseyside; it does **not** include Yorkshire or Derbyshire*.        
          
-[Turn 2017](/archive/2017-turn) was presented/co-produced by Word of Warning/hÅb, <a href="http://contactmcr.com" target="_blank">Contact</a>, <a href="http://www.digm.org" target="_blank">Dance Manchester</a> + <a href="http://bit.ly/McrDanceConsortium" target="_blank">Manchester Dance Consortium</a>.
+[Turn 2017](/archive/2017-turn) presented/co-produced by Word of Warning/hÅb, <a href="http://contactmcr.com" target="_blank">Contact</a>, <a href="http://www.digm.org" target="_blank">Dance Manchester</a> + <a href="http://bit.ly/McrDanceConsortium" target="_blank">Manchester Dance Consortium</a>.
