@@ -8,7 +8,7 @@ season: "hÅb homepage"
 ---
 ### Stimulating… extraordinary… performance…   
         
-<small>Updated 12 August 2021</small>        
+<small>Updated 24 Jan 2022</small>        
         
 hÅb is a Manchester-based producer, developer, and strategic advocate of contemporary performance, live art, and sited work in the North of England.        
         
@@ -20,10 +20,10 @@ Supported using public funding by <a href="http://artscouncil.org.uk/our-investm
        
 Since Jan 2012, hÅb has been 'public' in the guise of [Word of Warning](/) — a peripatetic programme of, and online signpost to, contemporary live work in Manchester + beyond… *N.B. this part of our site aims to offer information to **artists** wishing to know more about hÅb's work and how to get involved; for information about our public-facing programme please see [Word of Warning](/).*       
         
-From [Emergency](/hab/emergency), our annual micro-festival for new live work presenting up to 30 short works in a day each Autumn, and it's recent iteration [StopGap](/hab/emergency); through to [Works Ahead](/hab/worksahead), a series of small commissions with <a href="https://contactmcr.com" target="_blank">Contact</a> for new work — we aim to provide a joined-up series of opportunities for emerging new work, and artists in contemporary performance and live art.           
+From [Emergency](/hab/emergency), our annual micro-festival for new live work presenting up to 30 short works in a day each Autumn, and it's recent iteration [StopGap](/hab/emergency); through to [Works Ahead](/hab/worksahead), a series of small commissions with <a href="https://contactmcr.com" target="_blank">Contact</a> for new work — we aim to provide a joined-up series of opportunities for emerging new work and artists in contemporary performance and live art.           
          
-In 2020 we began an online [Domestic](/hab/domestic) series, offering artists an opportunity to informally try out new ideas live from their homes — our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call seeks proposals</a> for performance works that can be presented online, within an artist's available resources. Alongside live works, artists proposed pre-recorded pieces — so in December we introduced <a href="http://domesticatedonline.org" target="_blank">Domesticated</a>, a home for video performance, currently featuring eight works.          
+In 2020 we began an online [Domestic](/hab/domestic) series, offering artists an opportunity to informally try out new ideas live from their homes — our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call seeks proposals</a> for performance works that can be presented online, within an artist's available resources. Alongside live works, artists proposed pre-recorded pieces — so in December 2020 we introduced <a href="http://domesticatedonline.org" target="_blank">Domesticated</a>, a home for video performance, featuring eight works.          
           
 hÅb curates sited performance and interventions — presenting [Hazard](/hab/hazard), a biennial micro-festival of intervention that takes performance out of the black box environment and into Manchester city centre; as well as [Haphazard](/hab/haphazard), our frequent foray into all ages live art with <a href="https://z-arts.org" target="_blank">Z-arts</a>. We also co-produce [Turn](/hab/turn) with <a href="https://contactmcr.com" target="_blank">Contact</a>, a regular micro-festival for new northern dance + dance-makers (*currently on hiatus*).           
          
-In any given year, hÅb might work with 150 artists, and present a couple of platforms, a sited festival, and over 60 pieces of work as [Word of Warning](/).
+In any given year, hÅb might work with 150 artists — and present a couple of platforms, a sited festival, and over 60 pieces of work as [Word of Warning](/).
