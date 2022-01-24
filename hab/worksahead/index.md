@@ -17,7 +17,7 @@ season: "Works Ahead by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 4 May 2021</small>                
+<small>Updated 24 Jan 2022</small>                
         
 **Works Ahead** is a project developed out of the old Method Lab + SeedFund schemes hÅb ran with greenroom until 2011. Since 2012 it has offered thirty-five small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events; support includes mentoring and a public showing of the next stage of the work, in partnership with <a href="http://contactmcr.com" target="_blank">Contact</a>…       
          
@@ -51,8 +51,8 @@ Our [eighth Works Ahead](/archive/2019-worksahead) took place at STUN Studio in 
 Our ninth Works Ahead was planned as a sited double bill at NIAMOS from artists Will Dickie + Ross McCaffrey: [Will](/archive/2020-spring/dickie) adapted his work for livestreaming, <a href="http://youtu.be/yrZFSzURaS4" target="_blank">broadcast in May</a>; Ross postponed sharing his work until it can be shown to a physical audience.         
             
 #### 2021         
-Commissions have been awarded in partnership with Contact to artists Helena Ascough + Jade Dominique Williams: they'll develop their ideas over the summer and we hope to present their works to a physical audience in 2022.           
-            
-Works Ahead 2021 is co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.<br>Project Mentor: Peader Kirk          
+Commissions have been awarded in partnership with Contact to artists Helena Ascough + Jade Dominique Williams: they'll develop their ideas and we hope to present their works to a physical audience in 2022.        
+         
+Works Ahead 2021 co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.<br>Project Mentor: Peader Kirk          
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>         
 <small><span style='font-variant: small-caps'>[back to top](/hab/worksahead)</span></small>
