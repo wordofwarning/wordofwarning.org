@@ -16,17 +16,17 @@ season: "Emergency by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 16 August 2021</small>        
+<small>Updated 24 Jan 2022</small>        
         
-**Emergency** is our annual platform for live art and contemporary performance, *usually* showing about 30 short works over a day/night in Manchester each Autumn — the upcoming 21st edition takes place in its seventh home, <a href="http://contactmcr.com" target="_blank">Contact</a>, and is necessarily a bit different…        
+**Emergency** is our annual platform for live art and contemporary performance, *usually* showing about 30 short works over a day/night in Manchester each Autumn — last year's 21st edition took place in its seventh home, <a href="http://contactmcr.com" target="_blank">Contact</a>, and was necessarily a bit different…        
         
-**[Emergency 21](/current/2021-emergency)** is a socially-distanced live walkthrough event at the brand new <a href="http://contactmcr.com" target="_blank">Contact</a> on **Saturday 25 September** — audiences will be guided on a one-way journey through the refurbished building, pausing en route in gallery fashion.        
+**[Emergency 21](/archive/2021-emergency)** was a socially-distanced live walkthrough event at the brand new <a href="http://contactmcr.com" target="_blank">Contact</a> on **Saturday 25 September** — audiences were guided on a one-way journey through the refurbished building, pausing en route in gallery fashion.        
         
-Have a look at 2019's [programme](/archive/2019-emergency)/[gallery of images](/galleries/2019-emergency) and 2018's [programme](/archive/2018-emergency)/[gallery](/galleries/2018-emergency).         
+To Have a look at 2019's [programme](/archive/2019-emergency)/[gallery of images](/galleries/2019-emergency) and 2018's [programme](/archive/2018-emergency)/[gallery](/galleries/2018-emergency).         
         
 *N.B. we <a href="http://emergencymcr.posthaven.com" target="_blank">sought</a> approximately 10 works to fit these conditions: durational, performance installation, looping + intervention-based live works that can run over a minimum period of 4 hours. We realised it wouldn't be for everyone as the ask was constrained by circumstances — but we really thought we should give it a damn good go! Shifting regulations meant we postponed from [Nov 2020](/archive/2020-emergency) to Sep 2021*.       
         
-[Emergency 21](/current/2021-emergency) presented by [Word of Warning](/) + <a href="http://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.         
+[Emergency 21](/archive/2021-emergency) presented by [Word of Warning](/) + <a href="http://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.         
 Enquiries: <mailto:emergency@habmcr.org> | <a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> | <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>
 
 <hr>         
