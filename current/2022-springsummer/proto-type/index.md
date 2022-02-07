@@ -49,7 +49,9 @@ Since 1997 they've made work and supported young artists in Armenia, China, Fran
 Written + directed by Andrew Westerside | Devised + performed by Rachel Baynton + Gillian Lees | Digital design + artwork by Adam York Gregory | Original sound design by Paul J. Rogers | Produced by Gillian Lees<br>Commissioned by Lincoln Performing Arts Centre, ARC (Stockton), Oxford Playhouse, Lancaster Arts at Lancaster University, hÅb + artsdepot (London).<br>Supported by Tramway (Glasgow), Curve (Leicester), and using public funding by the National Lottery through Arts Council England.           
            
 #### Websites          
-<a href="http://proto-type.org/current/the-audit" target="_blank">proto-type.org</a> | <a href="http://twitter.com/Proto_type" target="_blank">@Proto_type</a> | <a href="http://facebook.com/prototypetheater" target="_blank">Proto-type on Facebook</a>         
+<a href="http://proto-type.org" target="_blank">proto-type.org</a> · <a href="http://facebook.com/prototypetheater" target="_blank">Proto-type on Facebook</a> · <a href="http://twitter.com/Proto_type" target="_blank">@Proto_type</a>        
         
-#### WTF Wednesday ticketing policy at The Lowry         
+#### WTFWednesday         
 As this is a Pay What You Decide event, we know some people who book tickets won't turn up on the night so we send out more tickets than there are places. We do our best to get the numbers right but we advise you arrive early to ensure you get a seat! We don't often have to disappoint people but if we can't fit you in we will try to offer you tickets to another show in The Lowry that night.
+        
+<small><span style='font-variant: small-caps'>[back to top](/current/2022-springsummer/proto-type)</span></small>
