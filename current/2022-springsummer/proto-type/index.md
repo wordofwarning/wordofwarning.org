@@ -21,7 +21,7 @@ season: "Proto-type Theater 4|5|2022, 8pm"
          
 *Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF Wednesday</a>           
          
-xxx         
+In rooms like this room, people lie. Not little lies. The kinds of lies that kill people, or worse…         
          
 See their <a href="https://vimeo.com/prototypetheater" target="_blank">trailer</a>.         
         
@@ -29,11 +29,13 @@ See their <a href="https://vimeo.com/prototypetheater" target="_blank">trailer</
 Time: Wednesday 4 May 2022, 8pm to *approximately* 9.10pm<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ<br>&nbsp;*We kindly suggest audience members socially distance and wear masks.*<br>Ticketing: <a href="https://thelowry.com/whats-on/?dates=04-05-2022" target="_blank">book online</a> or call The Lowry Box Office on 0343 208 6000. Pay What You Decide by cash or card after the show; *suggested* donation £5, you can choose to donate £5 when you book.<br>Age Advisory: **tbc**+ (parental/guardian discretion).<br>Content Warnings: **tbc**, for specific warnings please click [here](/warnings).<br>Features: **tbc** live + recorded audio, spoken text, composed sound, film, and choreographed movement.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>        
          
 #### About         
->*There's a shadow coming, across the sea. Long and terrifying. The vultures are circling, the wolves are howling… how can we weather this storm?*        
+In this room, or in rooms like this room, they use phrases like "collateral damage", like "extraordinary rendition", like "perception management". They cover up their dirty words with clean ones, in rooms like this room. In rooms like this room, they redact the names.        
+          
+In rooms like this room, language is laundered. The name of the game is spin.        
 
-The global economy is a mess. The crash has landed, the tide's swept out, and it's taken our hope with it. There's less in our pockets and more to be spent. The rich have got richer, the middle's squeezed tight, and the poor are being dragged ever downwards. With the true value of money and the human cost of greed firmly in their sights, Proto-type Theater tell the story of how a nation raised their voices in protest.                   
-           
-Using original text, performance, film, music and animation, *The Audit* is about finding strength, overcoming a world designed to keep us docile, and how collective power can move a mountain — even if only a little.           
+*Dead Cats* blends new writing, performance, film-making, and an obvious plant, to show — not tell — the truths behind the fictions.
+
+Following https://wordofwarning.org/archive/2018-springsummer/proto-type + https://wordofwarning.org/archive/2017-spring/proto-type   *Dead Cats* is the third work in Proto-type's critically acclaimed Truth to Power Project — a socially-engaged exploration of power, democracy, truth-telling, protest, privacy, conspiracy, and control.         
          
 #### Artists        
 A company of multi-disciplinary artists led by Rachel Baynton, Gillian Lees + Andrew Westerside, Proto-type create original performance work that is diverse in scale, subject and medium. Alongside lifting the veil on the Secret State in their first theatrical examination of contemporary politics (*A Machine they're Secretly Building* — at Word of Warning in [Spring 2017](/archive/2017-spring/proto-type)), this has included a two-week long theatrical experience using pervasive technologies (*Fortnight*), a multimedia concert-performance featuring animation and live laptop orchestra (*The Good, the God and the Guillotine* — at Word of Warning in [Spring 2014](/archive/2014-spring/prototype)), and a radio drama with the BBC.        
@@ -41,6 +43,11 @@ A company of multi-disciplinary artists led by Rachel Baynton, Gillian Lees + An
 Since 1997 they've made work and supported young artists in Armenia, China, France, the Netherlands, Russia, the UK, the US + Zimbabwe: founded in New York City by Peter S. Petralia (1997-2006), relocating to Lancaster's Storey Institute (2006-10), then Manchester's Northern Quarter (2010-14), and now Lincoln's Cathedral Quarter, they make and support work across the region.            
           
 #### Reviews         
+Praise for Proto-type's Truth to Power Project, including A Machine they’re Secretly Building &amp; The Audit (or Iceland, a modern myth):
+“This is coolly reasoned theatre, produced by Proto-type Theater with stylish aplomb.” — Lyn Gardner, The Guardian
+“Proto-type’s team have such imagination and clarity of vision… a great antidote to [a] tangled political landscape” — Exeunt
+“It made me want to headbutt a bank.” — Audience Response        
+
 >*Cracking intelligent, funny, new political theatre.<br>Terrifying,  overwhelming – a total highlight.*<br>Audience Feedback on work-in-progress of *The Audit*          
 >*…this smartly intelligent hour-long whizz through the world of surveillance, and the way governments legitimise spying on their citizens, makes you question what we mean by a terrorist and where the real threat lies.*<br><a href="http://www.theguardian.com/stage/2017/aug/27/a-machine-theyre-secretly-building-review-surveillance" target="_blank">★★★★ Lyn Gardner, The Guardian on *A Machine…*</a>.            
           
