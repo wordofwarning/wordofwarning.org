@@ -6,7 +6,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Proto-type Theater" # the name of the artist or company
 show: "Dead Cats" # the name of the show
-artist_size: 2
+artist_size: 3
 show_size: 1
 header_image: ""    
 season: "Proto-type Theater 4|5|2022, 8pm"
@@ -26,7 +26,7 @@ xxx
 See their <a href="https://vimeo.com/prototypetheater" target="_blank">trailer</a>.         
         
 #### Access         
-Time: Wednesday 4 May 2022, 8pm to *approximately* 9.10pm<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ<br>&nbsp;*We kindly suggest audience members socially distance and wear masks.*<br>Ticketing: <a href="https://thelowry.com/whats-on/?dates=04-05-2022" target="_blank">book a ticket online</a> and Pay What You Decide by cash or card after the show (*suggested* donation £5; you can choose to donate £5 when you book); please also note the WTF Wednesday ticketing policy below.<br>Telephone: alternatively call The Lowry on 0843 208 6000<br>Age Advisory: **tbc**+ (parental/guardian discretion).<br>Content Warnings: **tbc**, for specific warnings please click [here](/warnings).<br>Features: **tbc** live + recorded audio, spoken text, composed sound, film, and choreographed movement.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>        
+Time: Wednesday 4 May 2022, 8pm to *approximately* 9.10pm<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ<br>&nbsp;*We kindly suggest audience members socially distance and wear masks.*<br>Ticketing: <a href="https://thelowry.com/whats-on/?dates=04-05-2022" target="_blank">book online</a> or call The Lowry Box Office on 0343 208 6000. Pay What You Decide by cash or card after the show; *suggested* donation £5, you can choose to donate £5 when you book.<br>Age Advisory: **tbc**+ (parental/guardian discretion).<br>Content Warnings: **tbc**, for specific warnings please click [here](/warnings).<br>Features: **tbc** live + recorded audio, spoken text, composed sound, film, and choreographed movement.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>        
          
 #### About         
 >*There's a shadow coming, across the sea. Long and terrifying. The vultures are circling, the wolves are howling… how can we weather this storm?*        
@@ -50,8 +50,5 @@ Written + directed by Andrew Westerside | Devised + performed by Rachel Baynton 
            
 #### Websites          
 <a href="http://proto-type.org" target="_blank">proto-type.org</a> · <a href="http://facebook.com/prototypetheater" target="_blank">Proto-type on Facebook</a> · <a href="http://twitter.com/Proto_type" target="_blank">@Proto_type</a>        
-        
-#### WTFWednesday         
-As this is a Pay What You Decide event, we know some people who book tickets won't turn up on the night so we send out more tickets than there are places. We do our best to get the numbers right but we advise you arrive early to ensure you get a seat! We don't often have to disappoint people but if we can't fit you in we will try to offer you tickets to another show in The Lowry that night.
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2022-springsummer/proto-type)</span></small>
