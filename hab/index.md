@@ -8,7 +8,7 @@ season: "hÅb homepage"
 ---
 ### Stimulating… extraordinary… performance…   
         
-<small>Updated 24 Jan 2022</small>        
+<small>Updated 15 Feb 2022</small>        
         
 hÅb is a Manchester-based producer, developer, and strategic advocate of Live Art, contemporary performance, and sited work in the North of England.        
         
@@ -26,4 +26,4 @@ In 2020 we began an online [Domestic](/hab/domestic) series, offering artists an
           
 hÅb curates sited performance and interventions — presenting [Hazard](/hab/hazard), a biennial micro-festival of intervention that takes performance out of the black box environment and into Manchester city centre; as well as [Haphazard](/hab/haphazard), our frequent foray into all ages live art with <a href="https://z-arts.org" target="_blank">Z-arts</a>. We also co-produce [Turn](/hab/turn) with <a href="https://contactmcr.com" target="_blank">Contact</a>, a regular micro-festival for new northern dance + dance-makers (*currently on hiatus*).           
          
-In any given year, hÅb might work with 150 artists — and present a couple of platforms, a sited festival, and over 60 pieces of work as [Word of Warning](/).
+In any given year, hÅb might work with 100 artists — and present a couple of platforms, a sited festival, and over 50 pieces of work as [Word of Warning](/).
