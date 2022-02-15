@@ -10,7 +10,7 @@ season: "hÅb homepage"
         
 <small>Updated 24 Jan 2022</small>        
         
-hÅb is a Manchester-based producer, developer, and strategic advocate of contemporary performance, live art, and sited work in the North of England.        
+hÅb is a Manchester-based producer, developer, and strategic advocate of Live Art, contemporary performance, and sited work in the North of England.        
         
 <a href="http://greenroomarts.org" target="_blank">greenroom</a>'s key partner for over a decade, hÅb aims to maintain its legacy — working in collaboration with a range of [partners](/hab/partners) to produce showing [opportunities](/hab/opportunities), platforms, and artist development projects including: [Divergency](/hab/divergencymcr), [Domestic](/hab/domestic), [Emergency](/hab/emergency), [Haphazard](/hab/haphazard), and [Works Ahead](/hab/worksahead).         
           
