@@ -12,10 +12,10 @@ season: "News"
 # show_size: 1 # optional - size 1-5. Default is 1. Set longer names to lower values
 
 ---
-<span style='font-variant: small-caps'>jump → [things to watch](/news/#audiences) · [helping artists](/news/#artists), [gm artist hub](/news/#gmartisthub), [artist support](/news/#support)</span> · <small>Updated 28 Jan 2022<small>        
+<span style='font-variant: small-caps'>jump → [things to watch](/news/#audiences) · [helping artists](/news/#artists), [gm artist hub](/news/#gmartisthub), [artist support](/news/#support)</span> · <small>Updated 21 Feb 2022<small>        
 <hr>          
 #### Audiences         
-Responding to these uncertain times, we're yet to announce our upcoming Performance Programme.<br>• Watch *A Dangerous Thing* — Proto Type Theater's new, digitally-animated response to a world full of uncertainty, <a href="https://thelowry.com/a-dangerous-thing/" target="_blank">hosted online by The Lowry *until 18 Feb*</a>.<br>• Visit our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a> to re-watch previous livestreamed events.<br>• Find other shows to see in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>.<br>• Also have a look at <a href="https://screen.homemcr.org" target="_blank">HOME's Homescreen</a>, the <a href="http://livestreamarchive.co.uk/archive" target="_blank">Live Stream Archive</a>, <a href="https://mif.co.uk/live" target="_blank">MIF Live + On Demand</a>, and <a href="https://www.unitytheatreliverpool.co.uk/join-in/unity-online" target="_blank">Unity Online</a>.         
+Responding to these uncertain times, we're yet to announce our upcoming Performance Programme.<br>• Visit our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a> to re-watch previous livestreamed events.<br>• Find other shows to see in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to performance</a>.<br>• Also have a look at <a href="https://screen.homemcr.org" target="_blank">HOME's Homescreen</a>, the <a href="http://livestreamarchive.co.uk/archive" target="_blank">Live Stream Archive</a>, <a href="https://mif.co.uk/live" target="_blank">MIF Live + On Demand</a>, and <a href="https://www.unitytheatreliverpool.co.uk/join-in/unity-online" target="_blank">Unity Online</a>.         
 <span style='font-variant: small-caps'>[back to top](/news)</span>        
 <hr>          
 #### Artists         
