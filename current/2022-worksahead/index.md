@@ -5,7 +5,7 @@ rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Works Ahead 2022" # the name of the artist or company
-show: "A sample of new performance" # the name of the show
+show: "A sample of new performance." # the name of the show
 artist_size: 2
 show_size: 4
 header_image:    
@@ -21,7 +21,7 @@ season: "Works Ahead 26+27|5|2022"
         
 *Presented by* Word of Warning + Contact        
         
-2022's sample of new work-in-development picks up where we were so rudely interrupted in 2020 — showing the now-finished live version of **Will Dickie**'s *White Sun* alongside a re-imagined development of **Ross McCaffrey**'s *Sometimes History Needs A Push*.        
+2022's sample of new work-in-development picks up where we were so rudely interrupted in [2020](/hab/worksahead/#2020) — showing the now-finished live version of **Will Dickie**'s *White Sun* alongside a re-imagined development of **Ross McCaffrey**'s *Sometimes History Needs A Push*.        
         
 In [2021](/hab/worksahead/#2021) we also commissioned Helena Ascough + Jade Williams — we now present the digital outcome of **Helena Ascough**'s *What A Clown!*, with Jade's work coming to fruition in 2023.        
         
