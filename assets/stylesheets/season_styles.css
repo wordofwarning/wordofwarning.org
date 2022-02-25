@@ -827,27 +827,6 @@
 	.esg2020 .splash
 		{background:url(../images/header_esg_shkiesha.jpg) center center}
 
-/* Works Ahead 2020 berry w gasworks (NOT USED)
-------------------------------------------------------*/
-		
-	.w2020,
-	.w2020 .artist, 
-	.w2020 .show,
-	.w2020 .season
-		{background:#723; color:#fff;}
-
-	.w2020 a,
-	.w2020 a:visited,
-	.w2020 a:hover
-		{color:#fff;}
-	.w2020 nav a:hover,
-	.w2020 article a:hover,
-	.w2020 footer a:hover
-		{background: #fff; color: #723;}
-
-	.w2020 .splash
-		{background:url(../images/header_woah_photo.jpg) center center}
-
 /* Summer 2020 Programme green grass
 ------------------------------------------------------*/
 
@@ -925,3 +904,24 @@
 
 	.ss2022 .splash
 		{background:url(../images/header_warni_ss22.jpg) -150px center}
+
+/* Works Ahead 2022 berry w gasworks
+------------------------------------------------------*/
+		
+	.w2022,
+	.w2022 .artist, 
+	.w2022 .show,
+	.w2022 .season
+		{background:#723; color:#fff;}
+
+	.w2022 a,
+	.w2022 a:visited,
+	.w2022 a:hover
+		{color:#fff;}
+	.w2022 nav a:hover,
+	.w2022 article a:hover,
+	.w2022 footer a:hover
+		{background: #fff; color: #723;}
+
+	.w2022 .splash
+		{background:url(../images/header_woah_photo.jpg) center center}
