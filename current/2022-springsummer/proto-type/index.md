@@ -17,7 +17,7 @@ season: "Proto-type 4|5|2022, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/current/2022-springsummer/proto-type/#access) · [about](/current/2022-springsummer/proto-type/#about) · [artists](/current/2022-springsummer/proto-type/#artists) · [reviews](/2022-springsummer/proto-type/#reviews) · [credits](/current/2022-springsummer/proto-type/#credits) · [websites](/current/2022-springsummer/proto-type/#websites)</span> · <small>Updated 25 Feb 2022</small>        
+<span style='font-variant: small-caps'>jump → [access](/current/2022-springsummer/proto-type/#access) · [about](/current/2022-springsummer/proto-type/#about) · [artists](/current/2022-springsummer/proto-type/#artists) · [reviews](/current/2022-springsummer/proto-type/#reviews) · [credits](/current/2022-springsummer/proto-type/#credits) · [websites](/current/2022-springsummer/proto-type/#websites)</span> · <small>Updated 25 Feb 2022</small>        
          
 *Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF Wednesday</a>           
          
@@ -35,17 +35,17 @@ Part three of Proto-type's critically-acclaimed *Truth to Power Project*: a soci
             
 *A Dangerous Thing* is their new, digitally animated work — created in response to a world full of uncertainty.<br>It wants to punch its way out of the screen and into our homes.<br>It wants to shake us up, to wake us up, and to hunt down all those insidious lies, hiding in plain sight, that run ahead of us with their boots on.<br>It's coming, and it cannot be stopped…        
          
-EMBED         
+EMBED VIMEO         
          
 #### Artists        
 A company of multi-disciplinary artists led by Rachel Baynton, Gillian Lees + Andrew Westerside, Proto-type create original performance work that is diverse in scale, subject, and medium. Since 1997 they've made work + supported young artists in Armenia, China, France, the Netherlands, Russia, the UK, the US, and Zimbabwe.         
         
-Their *Truth to Power Project* has lifted the veil on The Secret State (*A Machine they're Secretly Building* — in [Spring17](/archive/2017-spring/proto-type)) and shown how collective power can move a mountain (*The Audit* — in [Spring18](/archive/2018-springsummer/proto-type)), it also includes a radio drama with the BBC (*The Forgotten Suffragette*).       
+Their *Truth to Power Project* has lifted the veil on The Secret State (*A Machine they're Secretly Building* — in [Spring17](/archive/2017-spring/proto-type)) and shown how collective power can move a mountain (*The Audit (or Iceland, a modern myth)* — in [Spring18](/archive/2018-springsummer/proto-type)), it also includes a radio drama with the BBC (*The Forgotten Suffragette*).       
          
 They've also made a multimedia opera featuring a live laptop orchestra (*The Good, the God and the Guillotine* — in [Spring14](/archive/2014-spring/prototype)) and a two-week theatre and pervasive technology experience (*Fortnight*).         
         
 #### Reviews         
->★★★★ *Smartly intelligent hour-long whizz through the world of surveillance… Coolly reasoned theatre*<br>— <a href="https://theguardian.com/stage/2017/aug/27/a-machine-theyre-secretly-building-review-surveillance" target="_blank">Lyn Gardner, The Guardian on *A Machine…*</a><br>★★★★ *The kind of theatre that seeps into the sub-conscious… Chilling, intelligent and witty*<br>— <a href="https://list.co.uk/article/90478-a-machine-theyre-secretly-building-the-kind-of-theatre-that-seeps-into-the-sub-conscious/" target="_blank">The List on *A Machine…*</a><br>*Such imagination and clarity of vision… a great antidote to (a) tangled political landscape…*<br>— <a href="https://exeuntmagazine.com" target="_blank">Exeunt on the *Truth to Power Project*</a><br>*It made me want to headbutt a bank.*<br>— Audience Response to *The Audit*        
+>★★★★ *Smartly intelligent hour-long whizz through the world of surveillance… Coolly reasoned theatre*<br>— <a href="https://theguardian.com/stage/2017/aug/27/a-machine-theyre-secretly-building-review-surveillance" target="_blank">Lyn Gardner, The Guardian on *A Machine…*</a><br>★★★★ *The kind of theatre that seeps into the sub-conscious… Chilling, intelligent and witty*<br>— <a href="https://list.co.uk/article/90478-a-machine-theyre-secretly-building-the-kind-of-theatre-that-seeps-into-the-sub-conscious/" target="_blank">The List on *A Machine…*</a><br>*Such imagination and clarity of vision… a great antidote to (a) tangled political landscape…*<br>— <a href="http://exeuntmagazine.com" target="_blank">Exeunt on the *Truth to Power Project*</a><br>*It made me want to headbutt a bank.*<br>— Audience Response to *The Audit*        
        
 #### Credits          
 Written + directed by Andrew Westerside<br>Devised + performed by Rachel Baynton + Gillian Lees<br>Film, design, promotional images by Adam York Gregory<br>Original sound by Paul J. Rogers        
