@@ -1,15 +1,15 @@
 ---
 # CONFIGURATION
-layout: 2019-woah
+layout: 2022-woah
 rootpath: "../../"
 is_index: true
 
 # ABOUT THE SHOW - GENERIC
-artist: "Works Ahead 2019" # the name of the artist or company
+artist: "Works Ahead 22" # the name of the artist or company
 show: "A sample of new performance." # the name of the show
 artist_size: 2
 show_size: 4
-season: "Works Ahead 16+17|5|2019"
+season: "Works Ahead 26+27|5|2022"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,9 +17,9 @@ season: "Works Ahead 16+17|5|2019"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-*Presented by* Word of Warning, Contact + STUN         
+*Presented by* Word of Warning + Contact      
          
-### Thursday 16 + Friday 17 May 2019, 7.30pm        
+### Thursday 16 + Friday 17 May 2022        
 A risky night out or a good night in? Two explorations of inner conflict, outer division, and the politics of oppression from [Mark Croasdale](/archive/2019-worksahead/croasdale) + [Avital Raz](/archive/2019-worksahead/raz).             
             
 Our annual sampler of new performance is a double bill of new works in development from artists at the start of their journeys; now that it's over, see images from their [shows](/galleries/2019-woah). Get a feel for Works Ahead with a look at [2018](/archive/2018-worksahead).            
