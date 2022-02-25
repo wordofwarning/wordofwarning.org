@@ -24,7 +24,7 @@ season: "Proto-type 4|5|2022, 8pm"
 In rooms like this room, people lie.<br>Not little lies, but the kinds of lies that kill people, or worse…         
          
 #### Access         
-Time: Wednesday 4 May 2022, 8pm to *about* 9.15pm (no interval)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ<br>&nbsp;*We kindly suggest audience members wear masks; there is also the option to socially distance as capacity in the studio is reduced.*<br>Ticketing: <a href="https://thelowry.com/whats-on/?dates=04-05-2022" target="_blank">book online</a> or call The Lowry Box Office on 0343 208 6000<br>Pay What You Decide by cash or card afterwards (*suggested* donation £5; you can choose to donate £5 when you book)<br>Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: includes strong swearing and complex themes, for specific warnings please click [here](/warnings).<br>Features: spoken text, projected text, composed sound, pre-recorded film + audio.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>        
+Time: Wednesday 4 May 2022, 8pm to *about* 9.15pm (no interval)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ<br>&nbsp;*We kindly suggest audience members wear masks; there is also the option to socially distance as capacity in the studio is reduced.*<br>Ticketing: <a href="https://thelowry.com/whats-on/?dates=04-05-2022" target="_blank">book online</a> or call The Lowry Box Office on 0343 208 6000<br>Pay What You Decide by cash or card afterwards (*suggested* donation £5; you can choose to donate £5 when you book)<br>Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: includes strong swearing and complex themes, for specific warnings please click [here](/warnings).<br>Features: spoken + projected text, composed sound, pre-recorded film + audio.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>        
          
 #### About         
 In this room, or in rooms like this room, they use phrases like "collateral damage", like "extraordinary rendition", like "perception management".<br>They cover up their dirty words with clean ones, in rooms like this room.<br>In rooms like this room, they redact the names.<br>In rooms like this room, language is laundered.<br>The name of the game is spin.        
@@ -36,9 +36,9 @@ Part three of Proto-type's critically-acclaimed *Truth to Power Project*: a soci
 #### Artists        
 A company of multi-disciplinary artists led by Rachel Baynton, Gillian Lees + Andrew Westerside, Proto-type create original performance work that is diverse in scale, subject, and medium. Since 1997 they've made work + supported young artists in Armenia, China, France, the Netherlands, Russia, the UK, the US, and Zimbabwe.         
         
-Their *Truth to Power Project* lifted the veil on The Secret State (*A Machine they're Secretly Building*) and showed how collective power can move a mountain (*The Audit (or Iceland, a modern myth)*) — presented by us in [Spring17](/archive/2017-spring/proto-type)) + [Spring18](/archive/2018-springsummer/proto-type).        
+Their *Truth to Power Project* includes a radio drama with the BBC (*The Forgotten Suffragette*), lifted the veil on The Secret State (*A Machine they're Secretly Building* — in [Spring17](/archive/2017-spring/proto-type)), and showed how collective power can move a mountain (*The Audit* — in [Spring18](/archive/2018-springsummer/proto-type)).       
          
-They've also made a two-week theatre + pervasive technology experience (*Fortnight*); a multimedia opera featuring a live laptop orchestra (*The Good, the God and the Guillotine* — in [Spring14](/archive/2014-spring/prototype)); and a radio drama with the BBC (*The Forgotten Suffragette*).         
+They've also made a two-week theatre + pervasive technology experience (*Fortnight*) and a multimedia opera featuring a live laptop orchestra (*The Good, the God and the Guillotine* — in [Spring14](/archive/2014-spring/prototype)).         
         
 #### Reviews         
 Praise for Proto-type's *Truth to Power* project:        
@@ -50,7 +50,9 @@ label either A Machine they’re Secretly Building OR The Audit
           
           
 #### Credits          
-Written + directed by Andrew Westerside<br>Devised + performed by Rachel Baynton + Gillian Lees<br>Film, design, promotional images by Adam York Gregory<br>Original sound design by Paul J. Rogers<br>Produced by Gillian Lees<br>Marketing + comms by Rachel Baynton<br>Production Assistants: Curtis Clapham + Elisha Pearce<br>Technical Manager: Myk Hoyle<br>Stage Manager: Dan Firth<br>Set by Alex Kent + Lincoln Performing Arts Centre        
+Written + directed by Andrew Westerside<br>Devised + performed by Rachel Baynton + Gillian Lees<br>Film, design, promotional images by Adam York Gregory<br>Original sound by Paul J. Rogers        
+        
+Produced by Gillian Lees<br>Marketing + comms by Rachel Baynton<br>Production Assistants: Curtis Clapham + Elisha Pearce<br>Technical Manager: Myk Hoyle<br>Stage Manager: Dan Firth<br>Set by Alex Kent + Lincoln Performing Arts Centre        
        
 Supported using public funding by the National Lottery through Arts Council England. Made possible through the continued support of ARC (Stockton), [hÅb](/hab), Lincoln Performing Arts Centre, The Lowry, Theatre-in-the-Mill (Bradford).        
          
