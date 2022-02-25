@@ -31,24 +31,22 @@ In this room, or in rooms like this room, they use phrases like "collateral dama
 
 *Dead Cats* blends new writing, performance, film-making, and an obvious plant, to show — not tell — the truths behind the fictions.        
           
-Part three of Proto-type's critically-acclaimed *Truth to Power Project*: a socially-engaged exploration of power, democracy, truth-telling, protest, privacy, conspiracy, and control.<br>Beginning in 2015 as a response to the UK political climate, it has since manifested as a wealth of creative, cultural, and participatory activity that seeks to shed light on the complex, hidden systems that govern how we live our lives.        
+Part three of Proto-type's critically-acclaimed *Truth to Power Project*: a socially-engaged exploration of power, democracy, truth-telling, protest, privacy, conspiracy, and control that began as a response to the UK political climate in 2015 — it has since manifested as a wealth of creative, cultural, and participatory activity that seeks to shed light on the complex, hidden systems that govern how we live our lives.        
+            
+*A Dangerous Thing* is their new, digitally animated work — created in response to a world full of uncertainty.<br>It wants to punch its way out of the screen and into our homes.<br>It wants to shake us up, to wake us up, and to hunt down all those insidious lies, hiding in plain sight, that run ahead of us with their boots on.<br>It's coming, and it cannot be stopped…        
+         
+EMBED         
          
 #### Artists        
 A company of multi-disciplinary artists led by Rachel Baynton, Gillian Lees + Andrew Westerside, Proto-type create original performance work that is diverse in scale, subject, and medium. Since 1997 they've made work + supported young artists in Armenia, China, France, the Netherlands, Russia, the UK, the US, and Zimbabwe.         
         
-Their *Truth to Power Project* includes a radio drama with the BBC (*The Forgotten Suffragette*), lifted the veil on The Secret State (*A Machine they're Secretly Building* — in [Spring17](/archive/2017-spring/proto-type)), and showed how collective power can move a mountain (*The Audit* — in [Spring18](/archive/2018-springsummer/proto-type)).       
+Their *Truth to Power Project* has lifted the veil on The Secret State (*A Machine they're Secretly Building* — in [Spring17](/archive/2017-spring/proto-type)) and shown how collective power can move a mountain (*The Audit* — in [Spring18](/archive/2018-springsummer/proto-type)), it also includes a radio drama with the BBC (*The Forgotten Suffragette*).       
          
-They've also made a two-week theatre + pervasive technology experience (*Fortnight*) and a multimedia opera featuring a live laptop orchestra (*The Good, the God and the Guillotine* — in [Spring14](/archive/2014-spring/prototype)).         
+They've also made a multimedia opera featuring a live laptop orchestra (*The Good, the God and the Guillotine* — in [Spring14](/archive/2014-spring/prototype)) and a two-week theatre and pervasive technology experience (*Fortnight*).         
         
 #### Reviews         
-Praise for Proto-type's *Truth to Power* project:        
-label either A Machine they’re Secretly Building OR The Audit        
-*This is coolly reasoned theatre, produced by Proto-type Theater with stylish aplomb.* — Lyn Gardner, The Guardian<br>*Proto-type’s team have such imagination and clarity of vision… a great antidote to [a] tangled political landscape* — Exeunt<br>*It made me want to headbutt a bank.* — Audience Response to *The Audit*        
-          
->*Cracking intelligent, funny, new political theatre.<br>Terrifying, overwhelming — a total highlight.*<br>Audience Feedback on work-in-progress of *The Audit*          
->*…this smartly intelligent hour-long whizz through the world of surveillance, and the way governments legitimise spying on their citizens, makes you question what we mean by a terrorist and where the real threat lies.*<br><a href="http://www.theguardian.com/stage/2017/aug/27/a-machine-theyre-secretly-building-review-surveillance" target="_blank">★★★★ Lyn Gardner, The Guardian on *A Machine…*</a>.            
-          
-          
+>★★★★ *Smartly intelligent hour-long whizz through the world of surveillance… Coolly reasoned theatre*<br>— <a href="https://theguardian.com/stage/2017/aug/27/a-machine-theyre-secretly-building-review-surveillance" target="_blank">Lyn Gardner, The Guardian on *A Machine…*</a><br>★★★★ *The kind of theatre that seeps into the sub-conscious… Chilling, intelligent and witty*<br>— <a href="https://list.co.uk/article/90478-a-machine-theyre-secretly-building-the-kind-of-theatre-that-seeps-into-the-sub-conscious/" target="_blank">The List on *A Machine…*</a><br>*Such imagination and clarity of vision… a great antidote to (a) tangled political landscape…*<br>— <a href="https://exeuntmagazine.com" target="_blank">Exeunt on the *Truth to Power Project*</a><br>*It made me want to headbutt a bank.*<br>— Audience Response to *The Audit*        
+       
 #### Credits          
 Written + directed by Andrew Westerside<br>Devised + performed by Rachel Baynton + Gillian Lees<br>Film, design, promotional images by Adam York Gregory<br>Original sound by Paul J. Rogers        
         
