@@ -22,11 +22,12 @@ season: "Proto-type 4|5|2022, 8pm"
 *Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF Wednesday</a>           
          
 In rooms like this room, people lie.<br>Not little lies, but the kinds of lies that kill people, or worse…         
-         
 EMBED TRAILER HERE         
          
 #### Access         
-Time: Wednesday 4 May 2022, 8pm to *about* 9.15pm (no interval)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ<br>&nbsp;*SUGGESTION TBC: We kindly suggest audience members wear masks; there is also the option to socially distance as capacity in the studio is reduced.*<br>Ticketing: <a href="https://thelowry.com/whats-on/?dates=04-05-2022" target="_blank">book online</a> or call The Lowry Box Office on 0343 208 6000<br>Pay What You Decide by cash or card afterwards (*suggested* donation £5; you can choose to donate £5 when you book)<br>Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: includes strong swearing and complex themes, for specific warnings please click [here](/warnings).<br>Features: spoken + projected text, composed sound, pre-recorded film + audio.<br>For specific access queries please get in touch with <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a> by calling their access line on 0161 876 2183 or emailing <mailto:access@thelowry.com>       
+Time: Wednesday 4 May 2022, 8pm to *about* 9.15pm (no interval)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ<br>&nbsp;*SUGGESTION TBC: We kindly suggest audience members wear masks; there is also the option to socially distance as capacity in the studio is reduced.*<br>Ticketing: <a href="https://thelowry.com/whats-on/?dates=04-05-2022" target="_blank">book online</a> or call The Lowry Box Office on 0343 208 6000<br>Pay What You Decide by cash or card afterwards (*suggested* donation £5; you can choose to donate £5 when you book)         
+          
+Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: includes strong swearing and complex themes, for specific warnings please click [here](/warnings).<br>Features: spoken + projected text, composed sound, pre-recorded film + audio.<br>For specific access queries please get in touch with <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a> by calling their access line on 0161 876 2183 or emailing <mailto:access@thelowry.com>       
          
 #### About         
 >In this room, or in rooms like this room, they use phrases like "collateral damage", like "extraordinary rendition", like "perception management".<br>They cover up their dirty words with clean ones, in rooms like this room.<br>In rooms like this room, they redact the names.<br>In rooms like this room, language is laundered.<br>The name of the game is spin.        
@@ -50,9 +51,9 @@ They've also made a multimedia opera featuring a live laptop orchestra (*The Goo
 >★★★★ *Smartly intelligent hour-long whizz through the world of surveillance… Coolly reasoned theatre*<br>&nbsp;— <a href="https://theguardian.com/stage/2017/aug/27/a-machine-theyre-secretly-building-review-surveillance" target="_blank">Lyn Gardner, The Guardian on *A Machine…*</a><br>★★★★ *Seeps into the sub-conscious… Chilling, intelligent and witty*<br>&nbsp;— <a href="https://list.co.uk/article/90478-a-machine-theyre-secretly-building-the-kind-of-theatre-that-seeps-into-the-sub-conscious/" target="_blank">The List on *A Machine…*</a><br>*Such imagination and clarity of vision… great antidote to (a) tangled political landscape*<br>&nbsp;— <a href="http://exeuntmagazine.com" target="_blank">Exeunt on the *Truth to Power Project*</a><br>*Made me want to headbutt a bank*<br>&nbsp;— Audience Response to *The Audit*        
        
 #### Credits          
-Written + directed by Andrew Westerside<br>Devised + performed by Rachel Baynton + Gillian Lees<br>Film, design, promotional images by Adam York Gregory<br>Original sound by Paul J. Rogers        
+Written + directed by Andrew Westerside<br>Devised + performed by Rachel Baynton + Gillian Lees<br>Film, design, promotional images by Adam York Gregory<br>Original sound by Paul J. Rogers<br>Set by Alex Kent + Lincoln Performing Arts Centre         
         
-Produced by Gillian Lees<br>Marketing + comms by Rachel Baynton<br>Production Assistants: Curtis Clapham + Elisha Pearce<br>Technical Manager: Myk Hoyle<br>Stage Manager: Dan Firth<br>Set by Alex Kent + Lincoln Performing Arts Centre        
+Produced by Gillian Lees<br>Marketing + comms by Rachel Baynton<br>Production Assistants: Curtis Clapham + Elisha Pearce<br>Technical Manager: Myk Hoyle<br>Stage Manager: Dan Firth        
        
 Supported using public funding by the National Lottery through Arts Council England. Made possible through the continued support of ARC (Stockton), [hÅb](/hab), Lincoln Performing Arts Centre, The Lowry, Theatre-in-the-Mill (Bradford).        
          
