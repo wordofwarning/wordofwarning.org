@@ -17,7 +17,7 @@ season: "Proto-type 4|5|2022, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/current/2022-springsummer/proto-type/#access) · [about](/current/2022-springsummer/proto-type/#about) · [artists](/current/2022-springsummer/proto-type/#artists) · [reviews](/current/2022-springsummer/proto-type/#reviews) · [credits](/current/2022-springsummer/proto-type/#credits) · [websites](/current/2022-springsummer/proto-type/#websites)</span> · <small>Updated 25 Feb 2022</small>        
+<span style='font-variant: small-caps'>jump → [access](/current/2022-springsummer/proto-type/#access) · [about](/current/2022-springsummer/proto-type/#about) · [artists](/current/2022-springsummer/proto-type/#artists) · [reviews](/current/2022-springsummer/proto-type/#reviews) · [credits](/current/2022-springsummer/proto-type/#credits) · [websites](/current/2022-springsummer/proto-type/#websites)</span> · <small>Updated 28 Feb 2022</small>        
          
 *Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF Wednesday</a>           
          
