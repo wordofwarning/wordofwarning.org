@@ -17,11 +17,11 @@ season: "Works Ahead by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 24 Jan 2022</small>                
+<small>Updated 28 Feb 2022</small>                
         
 **Works Ahead** is a project developed out of the old Method Lab + SeedFund schemes hÅb ran with greenroom until 2011. Since 2012 it has offered thirty-five small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events; support includes mentoring and a public showing of the next stage of the work, in partnership with <a href="http://contactmcr.com" target="_blank">Contact</a>…       
          
-<span style='font-variant: small-caps'>jump → [2012](/hab/worksahead/#2012) · [2013](/hab/worksahead/#2013) · [2014](/hab/worksahead/#2014) · [2015](/hab/worksahead/#2015) · [2016](/hab/worksahead/#2016) · [2017](/hab/worksahead/#2017) · [2018](/hab/worksahead/#2018) · [2019](/hab/worksahead/#2019) · [2020](/hab/worksahead/#2020) · [2021](/hab/worksahead/#2021)</span>        
+<span style='font-variant: small-caps'>jump → [2012](/hab/worksahead/#2012) · [2013](/hab/worksahead/#2013) · [2014](/hab/worksahead/#2014) · [2015](/hab/worksahead/#2015) · [2016](/hab/worksahead/#2016) · [2017](/hab/worksahead/#2017) · [2018](/hab/worksahead/#2018) · [2019](/hab/worksahead/#2019) · [2020](/hab/worksahead/#2020) · [2021](/hab/worksahead/#2021) · [2022](/hab/worksahead/#2022)</span>        
 <hr>        
 #### 2012         
 The [first Works Ahead](/archive/2012-woah) was a new partnership at Contact (as a Re:Con co-production), featuring a night of performances in May from Gareth Cutter, Lowri Evans + Krissi Musiol, and an evening of interactions in June from Angel Club (north), Fallen Wall Arts, Julieann O'Malley + Small Acts… See [images](/galleries/2012-woah).        
@@ -45,14 +45,17 @@ Our [sixth Works Ahead](/archive/2017-worksahead) took place in May, with two ni
 Our [seventh Works Ahead](/archive/2018-worksahead) took place at STUN Studio in May, with a double bill from two artists at the start of their journeys; a girl and a guitar, a boy and a box of questions: Emma Geraghty + Vijay Patel… See [images](/galleries/2018-woah).<br>We also seed-commissioned Jamal Gerald's new work for development in partnership with Transform in Leeds; [*Idol*](/archive/2020-spring/gerald) was planned to show at Royal Exchange Theatre in March 2020 but cancelled due to Covid-19.            
               
 #### 2019         
-Our [eighth Works Ahead](/archive/2019-worksahead) took place at STUN Studio in May, with a double bill featuring two explorations of inner conflict, outer division, and the politics of oppression from artists Mark Croasdale + Avital Raz… See [images](/galleries/2019-woah).          
+Our [eighth Works Ahead](/archive/2019-worksahead) took place at STUN Studio in May, with a double bill featuring two explorations of inner conflict, outer division, and the politics of oppression from artists Mark Croasdale and Avital Raz… See [images](/galleries/2019-woah).          
 
 #### 2020         
-Our ninth Works Ahead was planned as a sited double bill at NIAMOS from artists Will Dickie + Ross McCaffrey: [Will](/archive/2020-spring/dickie) adapted his work for livestreaming, <a href="http://youtu.be/yrZFSzURaS4" target="_blank">broadcast in May</a>; Ross postponed sharing his work until it can be shown to a physical audience.         
+Our ninth Works Ahead was planned as a sited double bill at NIAMOS in May from artists Will Dickie and Ross McCaffrey — [Will](/archive/2020-spring/dickie) adapted his work for livestreaming and <a href="http://youtu.be/yrZFSzURaS4" target="_blank">broadcast in May</a>; Ross postponed sharing his work until it could be shown to a physical audience, now happening in [2022](/hab/worksahead/#2022).         
             
 #### 2021         
-Commissions have been awarded in partnership with Contact to artists Helena Ascough + Jade Dominique Williams: they'll develop their ideas and we hope to present their works to a physical audience in 2022.        
+In partnership with Contact, commissions were awarded to artists Helena Ascough and Jade Williams for them to develop ideas for presentation in the future…       
          
-Works Ahead 2021 co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.<br>Project Mentor: Peader Kirk          
+#### 2022         
+Our tenth Works Ahead takes place at the brand new <a href="http://contactmcr.com" target="_blank">Contact</a> in May — picking up where we were interrupted in [2020](/hab/worksahead/#2020) to show Will Dickie's finished live work alongside Ross McCaffrey's re-imagined development and Helena Ascough's digital outcome from [2021]. Jade William's work will come to fruition in 2023.        
+        
+Works Ahead 2022 co-commissioned/co-produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.<br>Project Mentor: Peader Kirk          
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>         
 <small><span style='font-variant: small-caps'>[back to top](/hab/worksahead)</span></small>
