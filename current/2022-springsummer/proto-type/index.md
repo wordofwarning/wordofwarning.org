@@ -8,7 +8,7 @@ artist: "Proto-type Theater &&nbsp;<br>&nbsp;Adam York Gregory" # the name of th
 show: "Dead Cats" # the name of the show
 artist_size: 3
 show_size: 1
-header_image: "header_deadcats4.jpg"    
+header_image: "header_proto-type-feet.jpg"    
 season: "Proto-type 4|5|2022, 8pm"
 
 # ABOUT THE SHOW - LAYOUT
@@ -26,7 +26,7 @@ In rooms like this room, people lie.<br>Not little lies, but the kinds of lies t
 EMBED TRAILER HERE         
          
 #### Access         
-Time: Wednesday 4 May 2022, 8pm to *about* 9.15pm (no interval)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ<br>&nbsp;*We kindly suggest audience members wear masks; there is also the option to socially distance as capacity in the studio is reduced.*<br>Ticketing: <a href="https://thelowry.com/whats-on/?dates=04-05-2022" target="_blank">book online</a> or call The Lowry Box Office on 0343 208 6000<br>Pay What You Decide by cash or card afterwards (*suggested* donation £5; you can choose to donate £5 when you book)<br>Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: includes strong swearing and complex themes, for specific warnings please click [here](/warnings).<br>Features: spoken + projected text, composed sound, pre-recorded film + audio.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>        
+Time: Wednesday 4 May 2022, 8pm to *about* 9.15pm (no interval)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ<br>&nbsp;*SUGGESTED WORDING: We kindly suggest audience members wear masks; there is also the option to socially distance as capacity in the studio is reduced.*<br>Ticketing: <a href="https://thelowry.com/whats-on/?dates=04-05-2022" target="_blank">book online</a> or call The Lowry Box Office on 0343 208 6000<br>Pay What You Decide by cash or card afterwards (*suggested* donation £5; you can choose to donate £5 when you book)<br>Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: includes strong swearing and complex themes, for specific warnings please click [here](/warnings).<br>Features: spoken + projected text, composed sound, pre-recorded film + audio.<br>For specific access queries please get in touch with <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a> by calling their access line on 0161 876 2183 or emailing <mailto:access@thelowry.com>       
          
 #### About         
 >In this room, or in rooms like this room, they use phrases like "collateral damage", like "extraordinary rendition", like "perception management".<br>They cover up their dirty words with clean ones, in rooms like this room.<br>In rooms like this room, they redact the names.<br>In rooms like this room, language is laundered.<br>The name of the game is spin.        
@@ -35,7 +35,7 @@ Time: Wednesday 4 May 2022, 8pm to *about* 9.15pm (no interval)<br>Location: <a 
           
 Part three of Proto-type's critically-acclaimed *Truth to Power Project*: a socially-engaged exploration of power, democracy, truth-telling, protest, privacy, conspiracy, and control that began as a response to the UK political climate in 2015 — it has since manifested as a wealth of creative, cultural, and participatory activity that seeks to shed light on the complex, hidden systems that govern how we live our lives.        
             
-*A Dangerous Thing* is their new, digitally animated work — created in response to a world full of uncertainty.<br>It wants to punch its way out of the screen and into our homes.<br>It wants to shake us up, to wake us up, and to hunt down all those insidious lies, hiding in plain sight, that run ahead of us with their boots on.<br>It's coming, and it cannot be stopped…        
+You can also watch *A Dangerous Thing* BELOW — their new, digitally animated work created in response to a world full of uncertainty.<br>It wants to punch its way out of the screen and into our homes.<br>It wants to shake us up, to wake us up, and to hunt down all those insidious lies, hiding in plain sight, that run ahead of us with their boots on.<br>It's coming, and it cannot be stopped…        
          
 EMBED VIMEO HERE         
          
@@ -47,7 +47,7 @@ Their *Truth to Power Project* has lifted the veil on The Secret State (*A Machi
 They've also made a multimedia opera featuring a live laptop orchestra (*The Good, the God and the Guillotine* — in [Spring14](/archive/2014-spring/prototype)) and a two-week theatre and pervasive technology experience (*Fortnight*).         
         
 #### Reviews         
->★★★★ *Smartly intelligent hour-long whizz through the world of surveillance… Coolly reasoned theatre*<br>— <a href="https://theguardian.com/stage/2017/aug/27/a-machine-theyre-secretly-building-review-surveillance" target="_blank">Lyn Gardner, The Guardian on *A Machine…*</a><br>★★★★ *Seeps into the sub-conscious… Chilling, intelligent and witty*<br>— <a href="https://list.co.uk/article/90478-a-machine-theyre-secretly-building-the-kind-of-theatre-that-seeps-into-the-sub-conscious/" target="_blank">The List on *A Machine…*</a><br>*Such imagination and clarity of vision… a great antidote to (a) tangled political landscape*<br>— <a href="http://exeuntmagazine.com" target="_blank">Exeunt on the *Truth to Power Project*</a><br>*Made me want to headbutt a bank*<br>— Audience Response to *The Audit*        
+>★★★★ *Smartly intelligent hour-long whizz through the world of surveillance… Coolly reasoned theatre*<br>&nbsp;— <a href="https://theguardian.com/stage/2017/aug/27/a-machine-theyre-secretly-building-review-surveillance" target="_blank">Lyn Gardner, The Guardian on *A Machine…*</a><br>★★★★ *Seeps into the sub-conscious… Chilling, intelligent and witty*<br>&nbsp;— <a href="https://list.co.uk/article/90478-a-machine-theyre-secretly-building-the-kind-of-theatre-that-seeps-into-the-sub-conscious/" target="_blank">The List on *A Machine…*</a><br>*Such imagination and clarity of vision… great antidote to (a) tangled political landscape*<br>&nbsp;— <a href="http://exeuntmagazine.com" target="_blank">Exeunt on the *Truth to Power Project*</a><br>*Made me want to headbutt a bank*<br>&nbsp;— Audience Response to *The Audit*        
        
 #### Credits          
 Written + directed by Andrew Westerside<br>Devised + performed by Rachel Baynton + Gillian Lees<br>Film, design, promotional images by Adam York Gregory<br>Original sound by Paul J. Rogers        
