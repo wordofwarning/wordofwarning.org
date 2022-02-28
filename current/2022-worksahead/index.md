@@ -32,15 +32,11 @@ Times: Thursday 26 + Friday 27 May 2022, evening, start time ***tbc***<br>Locati
         
 Age Advisory: ***14 tbc***+ (parental/guardian discretion).<br>Content Warnings: includes complex themes, for specific warnings please click [here](/warnings).<br>Features: spoken text and more ***tbc***.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>        
          
-#### About         
-        
 #### Credits         
 [Works Ahead 2022](/hab/worksahead/#2022) co-commissioned/co-produced by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Project Mentor: Peader Kirk        
         
 #### Websites          
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a><br>
-<a href="http://facebook.com/HelenaLouiseAscough" target="_blank">Facebook: Helena Ascough</a> · <a href="http://twitter.com/Helena_Ascough" target="_blank">@Helena_Ascough</a><br><a href="http://twitter.com/rocaffrey" target="_blank">Ross @rocaffrey</a><br><a href="http://willdickie.co.uk" target="_blank">willdickie.co.uk</a> · <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a> 
-
-add artists        
+<a href="http://facebook.com/HelenaLouiseAscough" target="_blank">Facebook: Helena Ascough</a> · <a href="http://twitter.com/Helena_Ascough" target="_blank">@Helena_Ascough</a><br><a href="http://twitter.com/rocaffrey" target="_blank">Ross @rocaffrey</a><br><a href="http://willdickie.co.uk" target="_blank">willdickie.co.uk</a> · <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a>       
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2022-worksahead)</span></small>
