@@ -23,7 +23,7 @@ season: "Works Ahead 26+27|5|2022"
         
 This year's sample of new work-in-development picks up where we were interrupted in [2020](/hab/worksahead/#2020) — showing the now-finished live version of **Will Dickie**'s *White Sun* alongside a re-imagined development of **Ross McCaffrey**'s *Sometimes History Needs A Push*.        
         
-We also commissioned Helena Ascough and Jade Williams in [2021](/hab/worksahead/#2021) — and now present the digital outcome of **Helena Ascough**'s *What A Clown!*, with Jade's work coming to fruition in 2023.        
+We also commissioned Helena Ascough and Jade Williams in [2021](/hab/worksahead/#2021) — and now present the digital outcome of **Helena Ascough**'s *What A Clown!*, with Jade Williams' work coming to fruition in 2023.        
         
 Get a feel for Works Ahead with a look at our last full edition in [2019](/archive/2019-worksahead).        
 
@@ -38,6 +38,9 @@ Age Advisory: ***14 tbc***+ (parental/guardian discretion).<br>Content Warnings:
 [Works Ahead 2022](/hab/worksahead/#2022) co-commissioned/co-produced by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Project Mentor: Peader Kirk        
         
 #### Websites          
-<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a><br>add artists        
+<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a><br>
+<a href="http://facebook.com/HelenaLouiseAscough" target="_blank">Facebook: Helena Ascough</a> · <a href="http://twitter.com/Helena_Ascough" target="_blank">@Helena_Ascough</a><br><a href="http://twitter.com/rocaffrey" target="_blank">Ross @rocaffrey</a><br><a href="http://willdickie.co.uk" target="_blank">willdickie.co.uk</a> · <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a> 
+
+add artists        
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2022-worksahead)</span></small>
