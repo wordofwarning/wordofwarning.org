@@ -17,7 +17,7 @@ season: "Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/current/2022-worksahead/#access) · [previously](/current/2022-worksahead/#previously) · [credits](/current/2022-worksahead/#credits) · [websites](/current/2022-worksahead/#websites)</span> · <small>Updated 25 Feb 2022</small>        
+<span style='font-variant: small-caps'>jump → [access](/current/2022-worksahead/#access) · [previously](/current/2022-worksahead/#previously) · [credits](/current/2022-worksahead/#credits) · [websites](/current/2022-worksahead/#websites)</span> · <small>Updated 28 Feb 2022</small>        
         
 *Presented by* Word of Warning + Contact        
         
@@ -28,7 +28,7 @@ We also commissioned Helena Ascough and Jade Williams in [2021](/hab/worksahead/
 Get a feel for Works Ahead with a look at our last full edition in [2019](/archive/2019-worksahead).        
 
 #### Access                 
-Times: Thursday 26 + Friday 27 May 2022, evening, start time ***tbc***<br>Location: <a href="https://" target="_blank">Contact (various spaces)</a>, <br>&nbsp;*SUGGESTION TBC We kindly suggest audience members wear masks; there is also the option to socially distance as capacity is reduced.*<br>Ticketing: available via Contact from mid-April, prices ***tbc***        
+Times: Thursday 26 + Friday 27 May 2022, 7.30pm ***tbc***<br>Location: <a href="https://" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>&nbsp;*SUGGESTION TBC We kindly suggest audience members wear masks; there is also the option to socially distance as capacity is reduced.*<br>Ticketing: available via Contact from mid-April, prices ***tbc***        
         
 Age Advisory: ***14 tbc***+ (parental/guardian discretion).<br>Content Warnings: includes complex themes, for specific warnings please click [here](/warnings).<br>Features: spoken text and more ***tbc***.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>        
          
