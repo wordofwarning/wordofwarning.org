@@ -17,7 +17,7 @@ season: "Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/current/2022-worksahead/#access) · [previously](/current/2022-worksahead/#previously) · [credits](/current/2022-worksahead/#credits) · [websites](/current/2022-worksahead/#websites)</span> · <small>Updated 28 Feb 2022</small>        
+<span style='font-variant: small-caps'>jump → [access](/current/2022-worksahead/#access) · [credits](/current/2022-worksahead/#credits) · [websites](/current/2022-worksahead/#websites)</span> · <small>Updated 1 Mar 2022</small>        
         
 *Presented by* Word of Warning + Contact        
         
