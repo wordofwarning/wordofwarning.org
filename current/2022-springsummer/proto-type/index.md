@@ -24,7 +24,7 @@ season: "Proto-type 4|5|2022, 8pm"
 **In rooms like this room, people lie.<br>Not little lies, but the kinds of lies that kill people, or worse…**         
          
 #### Access         
-Time: Wednesday 4 May 2022, 8pm to *about* 9.15pm (no interval)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ<br><a href="https://thelowry.com/coronavirus" target="_blank">COVID-19 measures</a>: we *strongly recommend* audience members wear masks within The Lowry unless exempt; please get in touch if you have any queries.         
+Time: Wednesday 4 May 2022, 8pm to *about* 9.15pm (no interval)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ<br>COVID-19 measures: <a href="https://thelowry.com/coronavirus" target="_blank">we *strongly recommend*</a> audience members wear masks within The Lowry unless exempt; please get in touch if you have any queries.         
         
 Ticketing: <a href="https://thelowry.com/whats-on/?dates=04-05-2022" target="_blank">book online</a> or call The Lowry on 0343 208 6000<br>Pay What You Decide by cash or card afterwards.<br>&nbsp;*Suggested donation £5; you can choose to donate £5 when you book.*         
           
