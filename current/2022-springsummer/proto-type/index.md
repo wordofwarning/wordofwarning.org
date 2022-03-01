@@ -17,14 +17,14 @@ season: "Proto-type 4|5|2022, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/current/2022-springsummer/proto-type/#access) · [about](/current/2022-springsummer/proto-type/#about) · [artists](/current/2022-springsummer/proto-type/#artists) · [reviews](/current/2022-springsummer/proto-type/#reviews) · [credits](/current/2022-springsummer/proto-type/#credits) · [websites](/current/2022-springsummer/proto-type/#websites)</span> · <small>Updated 1 Mar 2022</small>        
+<span style='font-variant: small-caps'>jump → [access](/current/2022-springsummer/proto-type/#access) · [about](/current/2022-springsummer/proto-type/#about) · [artists](/current/2022-springsummer/proto-type/#artists) · [reviews](/current/2022-springsummer/proto-type/#reviews) · [credits](/current/2022-springsummer/proto-type/#credits) · [websites](/current/2022-springsummer/proto-type/#websites-etc)</span> · <small>Updated 1 Mar 2022</small>        
          
 *Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF Wednesday</a>           
          
 **In rooms like this room, people lie.<br>Not little lies, but the kinds of lies that kill people, or worse…**         
          
 #### Access         
-Time: Wednesday 4 May 2022, 8pm to *about* 9.15pm (no interval)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry</a> (Aldridge Studio), Pier 8, Salford Quays, M50 3AZ<br>COVID-19 measures: we <a href="https://thelowry.com/coronavirus" target="_blank">strongly recommend</a> audience members wear masks within The Lowry unless exempt; please get in touch if you have any queries.         
+Time: Wednesday 4 May 2022, 8pm to *about* 9.15pm (no interval)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry</a> (Aldridge Studio), Pier 8, Salford Quays, M50 3AZ<br>COVID-19 measures: we <a href="https://thelowry.com/coronavirus#our-covid-19-measures" target="_blank">strongly recommend</a> audience members wear masks within The Lowry unless exempt; please get in touch if you have any queries.         
         
 Ticketing: <a href="https://thelowry.com/whats-on/?dates=04-05-2022" target="_blank">book online</a> or call The Lowry on 0343 208 6000<br>Pay What You Decide by cash or card afterwards.<br>&nbsp;*Suggested donation £5; you can choose to donate £5 when you book.*         
           
@@ -58,7 +58,7 @@ Produced by Gillian Lees<br>Marketing + comms by Rachel Baynton<br>Production As
        
 Supported using public funding by the National Lottery through Arts Council England. Made possible through the continued support of ARC (Stockton), [hÅb](/hab), Lincoln Performing Arts Centre, The Lowry, Theatre-in-the-Mill (Bradford).        
          
-#### Websites          
+#### Websites etc          
 <a href="http://proto-type.org/projects/current/dead-cats" target="_blank">proto-type.org</a> · <a href="https://facebook.com/prototypetheater" target="_blank">Proto-type on Facebook</a> · <a href="https://twitter.com/Proto_type" target="_blank">@Proto_type</a> · <a href="https://twitter.com/hashtag/DeadCats" target="_blank">#DeadCats</a>         
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2022-springsummer/proto-type)</span></small>
