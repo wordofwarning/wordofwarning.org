@@ -21,12 +21,12 @@ season: "Proto-type 4|5|2022, 8pm"
          
 *Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF Wednesday</a>           
          
-**In rooms like this room, people lie.<br><br>Not little lies, but the kinds of lies that kill people, or worse…**         
+**In rooms like this room, people lie.<br>Not little lies, but the kinds of lies that kill people, or worse…**         
          
 #### Access         
-Time: Wednesday 4 May 2022, 8pm to *about* 9.15pm (no interval)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ<br>&nbsp;*We kindly suggest audience members wear masks within The Lowry building; if you have any queries about covid-19 measures please get in touch.*<br>Ticketing: <a href="https://thelowry.com/whats-on/?dates=04-05-2022" target="_blank">book online</a> or call The Lowry Box Office on 0343 208 6000<br>Pay What You Decide by cash or card afterwards<br>&nbsp;*Suggested donation £5; you can choose to donate £5 when you book.*         
+Time: Wednesday 4 May 2022, 8pm to *about* 9.15pm (no interval)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry (Aldridge Studio)</a>, Pier 8, Salford Quays, M50 3AZ<br>&nbsp;*We kindly suggest audience members wear masks within The Lowry building; if you have any queries about covid-19 measures please get in touch.*<br>Ticketing: <a href="https://thelowry.com/whats-on/?dates=04-05-2022" target="_blank">book online</a> or call The Lowry on 0343 208 6000<br>Pay What You Decide by cash or card afterwards<br>&nbsp;*Suggested donation £5; you can choose to donate £5 when you book.*         
           
-Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: includes strong swearing and complex themes, for specific warnings please click [here](/warnings).<br>Features: spoken + projected text, composed sound, pre-recorded film + audio.<br>Access queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a> by calling 0161 876 2183 or emailing <mailto:access@thelowry.com>       
+Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: includes strong swearing and complex themes, for specific warnings please click [here](/warnings).<br>Features: spoken + projected text, composed sound, pre-recorded film + audio.<br>Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a> on 0161 876 2183 or email <mailto:access@thelowry.com>       
          
 #### About         
 >In this room, or in rooms like this room, they use phrases like "collateral damage", like "extraordinary rendition", like "perception management".<br>They cover up their dirty words with clean ones, in rooms like this room.<br>In rooms like this room, they redact the names.<br>In rooms like this room, language is laundered.<br>The name of the game is spin.        
