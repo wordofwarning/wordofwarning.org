@@ -17,7 +17,7 @@ season: "Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/current/2022-worksahead/#access) · [credits](/current/2022-worksahead/#credits) · [websites](/current/2022-worksahead/#websites)</span> · <small>Updated 1 Mar 2022</small>        
+<span style='font-variant: small-caps'>jump → [access](/current/2022-worksahead/#access) · [credits](/current/2022-worksahead/#credits) · [websites](/current/2022-worksahead/#websites)</span> · <small>Updated 2 Mar 2022</small>        
         
 *Presented by* Word of Warning + Contact        
         
@@ -28,9 +28,11 @@ We also commissioned Helena Ascough and Jade Williams in [2021](/hab/worksahead/
 Get a feel for Works Ahead with a look at our last full edition in [2019](/archive/2019-worksahead).        
 
 #### Access                 
-Times: Thursday 26 + Friday 27 May 2022, 7.30pm ***tbc***<br>Location: <a href="https://" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>&nbsp;*SUGGESTION TBC We kindly suggest audience members wear masks; there is also the option to socially distance as capacity is reduced.*<br>Ticketing: available via Contact from mid-April, prices ***tbc***        
+Dates: Thursday 26 + Friday 27 May 2022, evening (*time tbc*)<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>COVID-19 measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.        
         
-Age Advisory: ***14 tbc***+ (parental/guardian discretion).<br>Content Warnings: includes complex themes, for specific warnings please click [here](/warnings).<br>Features: spoken text and more ***tbc***.<br>For specific access queries please get in touch by emailing <mailto:info@habmcr.org>        
+<br>Ticketing: available to book via Contact from mid-April, *prices tbc*        
+        
+Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: includes complex themes, for specific warnings please click [here](/warnings).<br>Features: spoken text and more content *tbc*.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
          
 #### Credits         
 [Works Ahead 2022](/hab/worksahead/#2022) co-commissioned/co-produced by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Project Mentor: Peader Kirk        
