@@ -32,10 +32,10 @@ Dates: Thursday 26 + Friday 27 May 2022, evening (*start time tbc*)<br>Location:
         
 Ticketing: available to book via Contact from mid-April (*ticket prices tbc*)        
         
-Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: includes complex themes, for specific warnings please click [here](/warnings).<br>Features: spoken text *and more content tbc*.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
+Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: includes complex themes, for specific warnings please click [here](/warnings).<br>Features: live spoken + recorded text, projected visuals, choreographed movement.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
          
 #### Credits         
-[Works Ahead 2022](/hab/worksahead/#2022) co-commissioned/co-produced by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Project Mentor: Peader Kirk        
+[Works Ahead](/hab/worksahead) 2022 co-commissioned/co-produced by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Project Mentor: Peader Kirk        
         
 #### Websites          
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a><br>
