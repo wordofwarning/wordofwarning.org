@@ -30,7 +30,7 @@ Get a feel for Works Ahead with a look at our last full edition in [2019](/archi
 #### Access                 
 Dates: Thursday 26 + Friday 27 May 2022, evening (*start time tbc*)<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>COVID-19 measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.        
         
-Ticketing: available to book via Contact from mid-April, (*ticket prices tbc*)        
+Ticketing: available to book via Contact from mid-April (*ticket prices tbc*)        
         
 Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: includes complex themes, for specific warnings please click [here](/warnings).<br>Features: spoken text *and more content tbc*.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
          
