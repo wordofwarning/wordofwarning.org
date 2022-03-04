@@ -17,7 +17,7 @@ season: "Proto-type 4|5|2022, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/current/2022-springsummer/proto-type/#access) · [about](/current/2022-springsummer/proto-type/#about) · [artists](/current/2022-springsummer/proto-type/#artists) · [reviews](/current/2022-springsummer/proto-type/#reviews) · [credits](/current/2022-springsummer/proto-type/#credits) · [websites](/current/2022-springsummer/proto-type/#websites)</span> · <small>Updated 2 Mar 2022</small>        
+<span style='font-variant: small-caps'>jump → [access](/current/2022-springsummer/proto-type/#access) · [about](/current/2022-springsummer/proto-type/#about) · [artists](/current/2022-springsummer/proto-type/#artists) · [reviews](/current/2022-springsummer/proto-type/#reviews) · [credits](/current/2022-springsummer/proto-type/#credits) · [websites](/current/2022-springsummer/proto-type/#websites)</span> · <small>Updated 4 Mar 2022</small>        
          
 *Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF Wednesday</a>           
          
@@ -26,7 +26,7 @@ season: "Proto-type 4|5|2022, 8pm"
 #### Access         
 Time: Wednesday 4 May 2022, 8pm to *about* 9.15pm (no interval)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry</a> (Aldridge Studio), Pier 8, Salford Quays, M50 3AZ<br>COVID-19 measures: we <a href="https://thelowry.com/coronavirus#our-covid-19-measures" target="_blank">strongly recommend</a> audience members wear masks within The Lowry unless exempt; please get in touch if you have any queries.         
         
-Ticketing: <a href="https://thelowry.com/whats-on/?dates=04-05-2022" target="_blank">book online</a> or call The Lowry on 0343 208 6000<br>Pay What You Decide: *suggested amount £5; you can choose to donate £5 when you book.*         
+Ticketing: book online from Monday 7 March or call The Lowry on 0343 208 6000<br>Pay What You Decide: *suggested amount £5; you can choose to donate £5 when you book.*         
           
 Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: includes strong swearing and complex themes, for specific warnings please click [here](/warnings).<br>Features: spoken + projected text, composed sound, pre-recorded film + audio.<br>Queries: please call <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a> on 0161 876 2183 or email <mailto:access@thelowry.com>       
          
