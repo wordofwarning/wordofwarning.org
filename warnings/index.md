@@ -16,5 +16,10 @@ Age Advisories/Limits and Content Warnings for *upcoming* events are below — f
         
 This information is for audience members who want to know more about the content of work — particularly highlighting elements that may distress, cause upset, or trigger — if issues raised affect you, these organisations may be of support:&nbsp;&nbsp;<a href="https://thecalmzone.net" target="_blank">CALM</a> 0800 585858 · <a href="https://harmless.org.uk" target="_blank">Harmless</a> · <a href="https://mind.org.uk" target="_blank">Mind</a> 0300 123 3393 · <a href="https://nopanic.org.uk" target="_blank">No Panic</a> 0300 772 9844 · <a href="https://samaritans.org" target="_blank">Samaritans</a> call 116 123 or email jo@samaritans.org · <a href="https://supportline.org.uk" target="_blank">SupportLine</a> 01708 765 200 · <a href="https://www.thesurvivorstrust.org" target="_blank">The Survivors Trust</a> 08088 010 818        
         
-<small>Reflects most recent information received · Updated 25 Oct 2021</small>        
+<small>Reflects most recent information received · Updated 4 Mar 2022</small>        
 <hr>         
+##### [Wed 4 May. The Lowry | *Dead Cats* by Proto-type Theater & Adam York Gregory](/current/2022-springsummer/proto-type)        
+Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: includes strong swearing and complex themes.        
+        
+##### [26+27 May. Contact | Works Ahead 2022 from artists Helena Ascough, Ross McCaffrey, Will Dickie](/current/2022-worksahead)        
+Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: includes complex themes.
