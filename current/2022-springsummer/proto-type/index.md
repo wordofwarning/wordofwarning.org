@@ -26,7 +26,7 @@ season: "Proto-type 4|5|2022, 8pm"
 #### Access         
 Time: Wednesday 4 May 2022, 8pm to *about* 9.15pm (no interval)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry</a> (Aldridge Studio), Pier 8, Salford Quays, M50 3AZ<br>COVID-19 measures: we <a href="https://thelowry.com/coronavirus#our-covid-19-measures" target="_blank">strongly recommend</a> audience members wear masks within The Lowry unless exempt; please get in touch if you have any queries.         
         
-Ticketing: book online from Monday 7 March or call The Lowry on 0343 208 6000<br>Pay What You Decide: *suggested amount £5; you can choose to donate £5 when you book.*         
+Ticketing: <a href="https://tickets.thelowry.com/events/wtf%20wednesday-%20proto-type%20theater%20and%20adam%20york%20gregory%20-%20dead%20cats/2022-5-4_20.00/lowry%20studio?back=2&area=6711d356-240a-ea11-a9ce-815ca3ec47bd&type=ga#_ga=2.200770158.1964221739.1646391693-1481859948.1644317178" target="_blank">book online</a> or call The Lowry on 0343 208 6000<br>Pay What You Decide: *suggested amount £5; you can choose to donate £5 when you book.*         
           
 Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: includes strong swearing and complex themes, for specific warnings please click [here](/warnings).<br>Features: spoken + projected text, composed sound, pre-recorded film + audio.<br>Queries: please call <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a> on 0161 876 2183 or email <mailto:access@thelowry.com>       
          
