@@ -28,13 +28,13 @@ This is a story about the power of the state. A story about the power of ordinar
         
 In a country not unlike this one, society feels like it's breaking down. After what seems like a series of unprecedented, catastrophic events, three people take matters into their own hands — and make plans for revolution.        
         
-An interactive work-in-progress about how we make sense of the world — with remote-controlled cars, house parties, and a chaotic courtroom — that asks "if people seized political power for themselves, what would they do with it?"        
+If people seized political power for themselves, what would they do with it? An interactive work-in-progress about how we make sense of the world — with remote-controlled cars, house parties, and a chaotic courtroom.        
         
 #### Artist        
 A Manchester-based theatre-maker + musician, Ross makes work that centres around people, power, and what makes us tick. A founding member of theatre company Powder Keg (winners of the Hodgkiss Award 2016), he has toured nationally + internationally with The Javaad Alipoor Company, and is a CYC alumnus. Past collaborations include Gob Squad, Daniel Bye, Stacy Makishi.         
          
 #### Access                 
-Times: Thursday 26 + Friday 27 May 2022, 7pm to *about* 9.15pm<br>Show duration: *about* 45 mins · [Works Ahead 2022](/current/2022-worksahead) duration: *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>COVID-19 measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.        
+Times: Thursday 26 + Friday 27 May 2022, 7pm<br>Show duration: *about* 45 mins · [Works Ahead 2022](/current/2022-worksahead) duration: *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>COVID-19 measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.        
         
 Ticketing: available to book via Contact *by the end of April*.        
         
