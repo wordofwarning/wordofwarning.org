@@ -6,7 +6,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Ross McCaffrey" # the name of the artist or company
 show: "Sometimes history needs a push" # the name of the show
-artist_size: 2
+artist_size: 1
 show_size: 4
 header_image:    
 season: "Works Ahead: Ross McCaffrey 26+27|5|2022"
