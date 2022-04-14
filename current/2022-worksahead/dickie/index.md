@@ -17,27 +17,37 @@ season: "Will Dickie in Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/current/2022-worksahead/mccaffrey/#access) · [about](/current/2022-worksahead/mccaffrey/#about) · [artist](/current/2022-worksahead/mccaffrey/#artist) · [credits](/current/2022-worksahead/mccaffrey/#credits) · [websites](/current/2022-worksahead/mccaffrey/#websites)</span> · <small>Updated 14 Apr 2022</small>        
+<span style='font-variant: small-caps'>jump → [artist](/current/2022-worksahead/mccaffrey/#artist) · [access](/current/2022-worksahead/mccaffrey/#access) · [credits](/current/2022-worksahead/mccaffrey/#credits) · [websites](/current/2022-worksahead/mccaffrey/#websites)</span> · <small>Updated 14 Apr 2022</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2022](/current/2022-worksahead)        
         
-COPY         
-         
-#### Access                 
-Dates: Thursday 26 + Friday 27 May 2022, 7pm<br>Timings: shown as part of a triple bill of work; event duration approx 2hr 15min<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>COVID-19 measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.        
+A lo-fi solo symphony of words and movement.         
+           
+Conjuring the ghosts of the men who have dominated the stage before him, Will takes us on a journey — navigating the tensions of inheritance, privilege, and addiction.        
         
+Personal and political. Unsettling and humorous.<br>What do you see when you look at Will?<br>A white son.<br>A boy who can’t stop moving.<br>Can't stop speaking.<br>And pointing.<br>Pointing at old actors and being successful.<br>Pointing at sugar and the milky bar kid.<br>Pointing at the sun.        
+        
+Set against a backdrop of a nation that continues to bask in the light of its colonial legacy, hooked on profits despite the costs. *White Sun* collides with the past in the here and now of a human nervous system.         
+         
+#### Artist        
+A Liverpool-based performance maker, Will works across several artforms which support liveness including theatre, dance, live art, sound, and film. He makes material by listening and responding to spaces — spaces in the environment, spaces within the body, and spaces from his past. He creates experiences for audiences from these spaces using choreography, spoken text, audience participation, and sound design/DJing.        
+          
+His previous live touring works include *[The Rave Space](/archive/2019-springsummer/dickie)*, *Team of the Decades*, and *Memories of Suburbia*. His recent dance film *Canning Town*, created with Fabiola Santana, has been screened internationally — winning best film awards in Bucharest, Lisbon, and Glasgow. Listen to his DJ mix series *The Wayz* at https://www.mixcloud.com/AlwaysWill        
+        
+#### Access                 
+Times: Thursday 26 + Friday 27 May 2022, 7pm<br>Show duration: *about* 1 hr · [Works Ahead 2022](/current/2022-worksahead) duration: *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>COVID-19 measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.        
+       
 Ticketing: available to book via Contact *by the end of April*.        
         
-Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes complex themes, for specific warnings please click [here](/warnings).<br>Features: live + recorded speech, projected visuals, choreographed movement.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
-         
-#### About
+Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings).<br>Features: live + recorded speech, projected visuals, choreographed movement.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
 
-#### Artist
 
 #### Reviews         
->★★★★ *Smartly intelligent hour-long whizz through the world of surveillance… Coolly reasoned theatre*<br>&nbsp;— <a href="https://theguardian.com/stage/2017/aug/27/a-machine-theyre-secretly-building-review-surveillance" target="_blank">Lyn Gardner, The Guardian on *A Machine…*</a><br>★★★★ *Seeps into the sub-conscious… Chilling, intelligent and witty*<br>&nbsp;— <a href="https://list.co.uk/article/90478-a-machine-theyre-secretly-building-the-kind-of-theatre-that-seeps-into-the-sub-conscious/" target="_blank">The List on *A Machine…*</a><br>*Such imagination and clarity of vision… great antidote to (a) tangled political landscape*<br>&nbsp;— <a href="http://exeuntmagazine.com" target="_blank">Exeunt on the *Truth to Power Project*</a><br>*Made me want to headbutt a bank*<br>&nbsp;— Audience Response to *The Audit*        
+>*Hugely engaged, moved and actually (and lingeringly) harrowed by it… Bit by bit, the strands come together in a meaningful confrontation with how the past still haunts and shapes our present existence, our moral compass and our sense of who we are.*<br>&nbsp;— Audience Feedback        
 
 #### Credits         
+Photography Diego Ferrari / Design Neils Dielen
+
 [Works Ahead](/hab/worksahead) 2022 co-commissioned/co-produced by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Project Mentor: Peader Kirk        
 Written + directed by Andrew Westerside<br>Devised + performed by Rachel Baynton + Gillian Lees<br>Film, design, promotional images by Adam York Gregory<br>Original sound by Paul J. Rogers<br>Set by Alex Kent + Lincoln Performing Arts Centre         
         
