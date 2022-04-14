@@ -25,7 +25,9 @@ This is a story about the power of the state. A story about the power of ordinar
         
 In a country not unlike this one, society feels like it's breaking down. After what seems like a series of unprecedented, catastrophic events, three people take matters into their own hands — and make plans for revolution.        
         
-If people seized political power for themselves, what would they do with it?<br>An interactive work-in-progress about how we make sense of the world — with remote-controlled cars, house parties, and a chaotic courtroom.        
+If people seized political power for themselves, what would they do with it?        
+        
+An interactive work-in-progress about how we make sense of the world — with remote-controlled cars, house parties, and a chaotic courtroom.        
         
 #### Artist        
 A Manchester-based theatre-maker + musician, Ross makes work that centres around people, power, and what makes us tick. A founding member of theatre company Powder Keg (winners of the Hodgkiss Award 2016), he has toured nationally + internationally with The Javaad Alipoor Company, and is a CYC alumnus. Past collaborations include Gob Squad, Daniel Bye, Stacy Makishi.         
