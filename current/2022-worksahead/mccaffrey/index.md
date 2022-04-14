@@ -21,14 +21,14 @@ season: "Ross McCaffrey in Works Ahead 26+27|5|2022"
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2022](/current/2022-worksahead)        
         
-A one-man work-in-progress about revolution, hope, and our capacity for change.        
+**A one-man work-in-progress about revolution, hope, and our capacity for change.**        
          
 #### Access                 
 Times: Thursday 26 + Friday 27 May 2022, 7pm to *about* 9.15pm<br>Show duration: *about* 45 mins · [Works Ahead 2022](/current/2022-worksahead) duration: *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>COVID-19 measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.        
         
 Ticketing: available to book via Contact *by the end of April*.        
         
-Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes complex themes, for specific warnings please click [here](/warnings).<br>Features: live + recorded speech, projected visuals, choreographed movement.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
+Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: with complex themes, please click [here](/warnings) for specific warnings.<br>Features: live + recorded speech, projected visuals, choreographed movement.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
          
 #### About        
 This is a story about the power of the state. A story about the power of ordinary people. A story about hope. And it's all made up.         
