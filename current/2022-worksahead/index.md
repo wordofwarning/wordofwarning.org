@@ -27,12 +27,10 @@ We also commissioned Helena Ascough and Jade Williams in [2021](/hab/worksahead/
         
 Our triple bill evening sees a one-man work-in-progress about revolution, hope, and our capacity for change; a macabre film about how we see others; and a lo-fi solo symphony of words and movement.         
         
-Get a feel for Works Ahead with a look at our last full edition in [2019](/archive/2019-worksahead).        
-
 #### Access                 
 Times: Thursday 26 + Friday 27 May 2022, evening (*start time tbc*)<br>Duration: *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>COVID-19 measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.        
         
-Ticketing: available to book via Contact from mid-April (*ticket prices tbc*)        
+Ticketing: available to book via Contact by the end of April (*ticket prices tbc*)        
         
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: live + recorded speech, projected visuals, choreographed movement.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
          
