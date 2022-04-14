@@ -8,7 +8,7 @@ artist: "Helena Ascough" # the name of the artist or company
 show: "What A Clown!" # the name of the show
 artist_size: 1
 show_size: 2
-header_image:    
+header_image: header_helena  
 season: "Helena Ascough in Works Ahead 26+27|5|2022"
 
 # ABOUT THE SHOW - LAYOUT
