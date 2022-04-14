@@ -17,15 +17,13 @@ season: "Helena Ascough in Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/current/2022-worksahead/ascough/#access) · [about](/current/2022-worksahead/ascough
-/#about) · [artist](/current/2022-worksahead/ascough/#artist) · [credits](/current/2022-worksahead/ascough/#credits) · [websites](/current/2022-worksahead/ascough/#websites)</span> · <small>Updated 14 Apr 2022</small>        
+<span style='font-variant: small-caps'>jump → [artist](/current/2022-worksahead/ascough/#artist) · [access](/current/2022-worksahead/ascough/#access) · [credits](/current/2022-worksahead/ascough/#credits) · [websites](/current/2022-worksahead/ascough/#websites)</span> · <small>Updated 14 Apr 2022</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2022](/current/2022-worksahead)        
         
 What a clown? Sad. Mad… Disabled.         
-         
-#### About        
-Helena, through Macabre the goth clown, talks of her own experiences of being a visually impaired woman. She cries, laughs, and reminisces. Her microphone isn't even plugged in…         
+        
+Through Macabre the goth clown, Helena talks of her own experiences of being a visually impaired woman. She cries, laughs, and reminisces. Her microphone isn't even plugged in…         
          
 A short film that examines how being disabled makes you feel like you are the clown in the room.        
         
@@ -39,8 +37,9 @@ Times: Thursday 26 + Friday 27 May 2022, 7pm<br>Film duration: *about* 15 mins �
 Ticketing: available to book via Contact *by the end of April*.        
         
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: live + recorded speech, projected visuals, choreographed movement.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
+        
 #### Reviews         
->*Uber talented<br>Beautiful poetry*        
+>*Uber talented. Beautiful poetry*<br>&nbsp;— Audience Feedback       
          
 #### Credits         
 Written + performed by Helena Ascough<br>Filmed + edited by Jeff Ascough<br>Co-commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.        
