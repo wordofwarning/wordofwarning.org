@@ -46,28 +46,11 @@ Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: may distu
 >*Hugely engaged, moved and actually (and lingeringly) harrowed by it… Bit by bit, the strands come together in a meaningful confrontation with how the past still haunts and shapes our present existence, our moral compass and our sense of who we are.*<br>&nbsp;— Audience Feedback        
 
 #### Credits         
-
-
-Created & Performed by Will Dickie
-
-Direction – Peader Kirk
-
-Dramaturgy – Kaite O’Reilly
-
-Movement Direction – Fabiola Santana
-
-Sound & LX Design - Ethan Hudson
-
-With consultation by Amy Lawrence & Laila Diallo 
-
-Co-commissioned by hÅb + Contact for Works Ahead. Supported by CPT, Tramway and Public Funding from Arts Council England.
-
-Photography Diego Ferrari / Design Neils Dielen
-
+Created + performed by Will Dickie<br>Direction: Peader Kirk<br>Dramaturgy: Kaite O'Reilly<br>Movement direction: Fabiola Santana<br>Sound + LX design: Ethan Hudson<br>With consultation by Amy Lawrence + Laila Diallo<br>Photography: Diego Ferrari<br>Image design: Neils Dielen<br>Co-commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Supported by CPT + Tramway. Supported using public funding by the National Lottery through Arts Council England.        
+         
 [Works Ahead](/hab/worksahead) 2022 co-commissioned/co-produced by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Project Mentor: Peader Kirk        
-  
          
 #### Websites          
-<a href="http://willdickie.co.uk" target="_blank">willdickie.co.uk</a> · <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a><br><a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a><br>
+<a href="http://willdickie.co.uk" target="_blank">willdickie.co.uk</a> · <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a><br><a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>         
           
 <small><span style='font-variant: small-caps'>[back to top](/current/2022-worksahead/dickie)</span></small>
