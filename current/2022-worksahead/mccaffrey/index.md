@@ -28,7 +28,7 @@ Times: Thursday 26 + Friday 27 May 2022, 7pm to *about* 9.15pm<br>Show duration:
         
 Ticketing: available to book via Contact *by the end of April*.        
         
-Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: with complex themes, please click [here](/warnings) for specific warnings.<br>Features: live + recorded speech, projected visuals, choreographed movement.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
+Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: live + recorded speech, projected visuals, choreographed movement.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
          
 #### About        
 This is a story about the power of the state. A story about the power of ordinary people. A story about hope. And it's all made up.         
