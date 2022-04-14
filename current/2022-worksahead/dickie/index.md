@@ -8,7 +8,7 @@ artist: "Will Dickie" # the name of the artist or company
 show: "White Sun" # the name of the show
 artist_size: 1
 show_size: 2
-header_image: header_will   
+header_image: "header_will.jpg"
 season: "Will Dickie in Works Ahead 26+27|5|2022"
 
 # ABOUT THE SHOW - LAYOUT
