@@ -31,21 +31,21 @@ Ticketing: available to book via Contact *by the end of April*.
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes complex themes, for specific warnings please click [here](/warnings).<br>Features: live + recorded speech, projected visuals, choreographed movement.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
          
 #### About        
-This is a story about the power of the state. A story about the power of ordinary people. A story about hope.<br>And it's all made up.         
+This is a story about the power of the state. A story about the power of ordinary people. A story about hope. And it's all made up.         
         
-In a country not unlike this one, society feels like it's breaking down. After what seems like a series of unprecedented, catastrophic events, three people take matters into their own hands and make plans for revolution.        
+In a country not unlike this one, society feels like it's breaking down. After what seems like a series of unprecedented, catastrophic events, three people take matters into their own hands — and make plans for revolution.        
         
-A work-in-progress, interactive theatre piece with remote controlled cars, house parties, and a chaotic courtroom. *Sometimes history needs a push* is a show about how we make sense of the world, and asks if people seized political power for themselves, what would we do with it?        
+An interactive work-in-progress with remote-controlled cars, house parties, and a chaotic courtroom, *Sometimes history needs a push* considers how we make sense of the world, and asks "if people seized political power for themselves, what would they do with it?"        
         
 #### Artist        
 Ross is a Manchester-based theatre-maker and musician. He makes work that centres around people, power, and what makes us tick. He was a founding member of theatre company Powder Keg, winners of the Hodgkiss Award 2016, and has toured nationally + internationally with The Javaad Alipoor Company. He is a CYC alumnus. Past collaborations include Gob Squad, Daniel Bye, and Stacy Makishi.         
          
 #### Credits         
-Written + performed by Ross McCaffrey<br>Dramaturgy + mentoring by Peader Kirk<br>With special thanks to Emma Geraghty + Josh Coates.        
+Written + performed by Ross McCaffrey<br>Dramaturgy + mentoring by Peader Kirk<br>With special thanks to Emma Geraghty + Josh Coates.<br>      
         
 Co-commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Supported by the overwhelming generosity of crowdfunder backers.        
           
-[Works Ahead](/hab/worksahead) 2022 co-commissioned/co-produced by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Project Mentor: Peader Kirk        
+[Works Ahead](/hab/worksahead) 2022 co-commissioned/co-produced by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.        
         
 #### Websites          
 <a href="https://instagram.com/rocaffrey" target="_blank">insta rocaffrey</a> · <a href="https://twitter.com/rocaffrey" target="_blank">@rocaffrey</a><br><a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="https://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>        
