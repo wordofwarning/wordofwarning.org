@@ -27,26 +27,26 @@ Conjuring the ghosts of the men who have dominated the stage before him, Will ta
         
 *Personal and political. Unsettling and humorous.<br>What do you see when you look at Will?<br>A white son.<br>A boy who can’t stop moving.<br>Can't stop speaking.<br>And pointing.<br>Pointing at old actors and being successful.<br>Pointing at sugar and the milky bar kid.<br>Pointing at the sun.*        
         
-Set against a backdrop of a nation that continues to bask in the light of its colonial legacy, hooked on profits despite the costs. *White Sun* collides with the past in the here and now of a human nervous system.         
+Set against a backdrop of a nation that continues to bask in the light of its colonial legacy, hooked on profits despite the costs, *White Sun* collides with the past in the here and now of a human nervous system.         
          
 #### Artist        
-A Liverpool-based performance maker, Will works across several artforms which support liveness including theatre, dance, live art, sound, and film. He makes material by listening and responding to spaces — spaces in the environment, spaces within the body, and spaces from his past. He creates experiences for audiences from these spaces using choreography, spoken text, audience participation, and sound design/DJing.        
+A Liverpool-based performance maker, Will works across several artforms which support liveness including theatre, dance, live art, sound, and film.<br>He makes material by listening and responding to spaces — in the environment, within the body, and from his past. He then creates experiences for audiences from these spaces using choreography, spoken text, audience participation, and sound design/DJing.        
           
-His previous live touring works include *[The Rave Space](/archive/2019-springsummer/dickie)*, *Team of the Decades*, and *Memories of Suburbia*. His recent dance film *Canning Town*, created with Fabiola Santana, has been screened internationally — winning best film awards in Bucharest, Lisbon, and Glasgow. Listen to his DJ mix series *The Wayz* at his <a href="https://www.mixcloud.com/AlwaysWill" target="_blank"> mixcloud</a>.         
+His previous live touring works include *The Rave Space* ([shown in SS19](/archive/2019-springsummer/dickie)), *Team of the Decades*, and *Memories of Suburbia*. His recent dance film *Canning Town*, created with Fabiola Santana, has screened internationally — winning best film awards in Bucharest, Lisbon, and Glasgow. Listen to his DJ mix series *The Wayz* at his <a href="https://www.mixcloud.com/AlwaysWill" target="_blank">mixcloud</a>.         
         
 #### Access                 
 Times: Thursday 26 + Friday 27 May 2022, 7pm<br>Show duration: *about* 1 hr · [Works Ahead 2022](/current/2022-worksahead) duration: *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>COVID-19 measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.        
        
 Ticketing: available to book via Contact *by the end of April*.        
         
-Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings).<br>Features: live + recorded speech, projected visuals, choreographed movement.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
+Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: live + recorded speech, projected visuals, choreographed movement.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
 
 
 #### Reviews         
 >*Hugely engaged, moved and actually (and lingeringly) harrowed by it… Bit by bit, the strands come together in a meaningful confrontation with how the past still haunts and shapes our present existence, our moral compass and our sense of who we are.*<br>&nbsp;— Audience Feedback        
 
 #### Credits         
-Created + performed by Will Dickie<br>Direction: Peader Kirk<br>Dramaturgy: Kaite O'Reilly<br>Movement direction: Fabiola Santana<br>Sound + LX design: Ethan Hudson<br>With consultation by Amy Lawrence + Laila Diallo<br>Photography: Diego Ferrari<br>Image design: Neils Dielen<br>Co-commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Supported by CPT + Tramway. Supported using public funding by the National Lottery through Arts Council England.        
+Created + performed by Will Dickie<br>Direction: Peader Kirk<br>Dramaturgy: Kaite O'Reilly<br>Movement direction: Fabiola Santana<br>Sound + LX design: Ethan Hudson<br>With consultation by Amy Lawrence + Laila Diallo<br>Photography: Diego Ferrari<br>Image design: Neils Dielen<br>Co-commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Supported by CPT + Tramway.<br>Supported using public funding by the National Lottery through Arts Council England.        
          
 [Works Ahead](/hab/worksahead) 2022 co-commissioned/co-produced by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Project Mentor: Peader Kirk        
          
