@@ -41,8 +41,8 @@ Helena works as a freelance actor, poet, arts facilitator, and teacher. She has 
 commissioned by The Harris Museum, Lancaster Arts, and Brewtime Collective.        
         
 #### Reviews         
->★★★★ *Smartly intelligent hour-long whizz through the world of surveillance… Coolly reasoned theatre*<br>&nbsp;— <a href="https://theguardian.com/stage/2017/aug/27/a-machine-theyre-secretly-building-review-surveillance" target="_blank">Lyn Gardner, The Guardian on *A Machine…*</a><br>★★★★ *Seeps into the sub-conscious… Chilling, intelligent and witty*<br>&nbsp;— <a href="https://list.co.uk/article/90478-a-machine-theyre-secretly-building-the-kind-of-theatre-that-seeps-into-the-sub-conscious/" target="_blank">The List on *A Machine…*</a><br>*Such imagination and clarity of vision… great antidote to (a) tangled political landscape*<br>&nbsp;— <a href="http://exeuntmagazine.com" target="_blank">Exeunt on the *Truth to Power Project*</a><br>*Made me want to headbutt a bank*<br>&nbsp;— Audience Response to *The Audit*        
-
+>*Uber talented<br>Beautiful poetry*        
+         
 #### Credits         
 Written + performed by Helena Ascough<br>Filmed + edited by Jeff Ascough<br>Co-commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.        
         
