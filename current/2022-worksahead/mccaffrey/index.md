@@ -24,7 +24,7 @@ season: "Works Ahead: Ross McCaffrey 26+27|5|2022"
 A one-man work-in-progress about revolution, hope, and our capacity for change.        
          
 #### Access                 
-Dates: Thursday 26 + Friday 27 May 2022, 7pm<br>Timings: shown alongside two other new works; show duration approx 45mins; event duration approx 2hr 15min<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>COVID-19 measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.        
+Dates: Thursday 26 + Friday 27 May 2022, 7pm<br>Duration: shown alongside two other new works; show approx 45mins; overall event approx 2hr 15min<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>COVID-19 measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.        
         
 Ticketing: available to book via Contact *by the end of April*.        
         
@@ -38,12 +38,10 @@ In a country not unlike this one, society feels like it's breaking down. After w
 An interactive work-in-progress with remote-controlled cars, house parties, and a chaotic courtroom, *Sometimes history needs a push* considers how we make sense of the world, and asks "if people seized political power for themselves, what would they do with it?"        
         
 #### Artist        
-A Manchester-based theatre-maker + musician, Ross makes work that centres around people, power, and what makes us tick. A founding member of theatre company Powder Keg (winners of the Hodgkiss Award 2016), he has toured nationally + internationally with The Javaad Alipoor Company, and is a CYC alumnus. Past collaborations include Gob Squad, Daniel Bye, and Stacy Makishi.         
+A Manchester-based theatre-maker + musician, Ross makes work that centres around people, power, and what makes us tick. A founding member of theatre company Powder Keg (winners of the Hodgkiss Award 2016), he has toured nationally + internationally with The Javaad Alipoor Company, and is a CYC alumnus. Past collaborations include Gob Squad, Daniel Bye, Stacy Makishi.         
          
 #### Credits         
-Written + performed by Ross McCaffrey<br>Dramaturgy + mentoring by Peader Kirk<br>With special thanks to Emma Geraghty + Josh Coates.<br>      
-        
-Co-commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Supported by the overwhelming generosity of crowdfunder backers.        
+Written + performed by Ross McCaffrey<br>Dramaturgy + mentoring by Peader Kirk<br>With special thanks to Emma Geraghty + Josh Coates.<br>Co-commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Supported by the overwhelming generosity of crowdfunder backers.        
           
 [Works Ahead](/hab/worksahead) 2022 co-commissioned/co-produced by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.        
         
