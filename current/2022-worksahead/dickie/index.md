@@ -4,12 +4,12 @@ layout: 2022-woah
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Ross McCaffrey" # the name of the artist or company
-show: "Sometimes history needs a push" # the name of the show
+artist: "Will Dickie" # the name of the artist or company
+show: "White Sun" # the name of the show
 artist_size: 1
-show_size: 4
-header_image:    
-season: "Works Ahead: Ross McCaffrey 26+27|5|2022"
+show_size: 2
+header_image: header_will   
+season: "Will Dickie in Works Ahead 26+27|5|2022"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
