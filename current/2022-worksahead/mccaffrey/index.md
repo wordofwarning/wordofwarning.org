@@ -17,18 +17,15 @@ season: "Ross McCaffrey in Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [about](/current/2022-worksahead/mccaffrey/#about) · [artist](/current/2022-worksahead/mccaffrey/#artist) · [access](/current/2022-worksahead/mccaffrey/#access) · [credits](/current/2022-worksahead/mccaffrey/#credits) · [websites](/current/2022-worksahead/mccaffrey/#websites)</span> · <small>Updated 14 Apr 2022</small>        
+<span style='font-variant: small-caps'>jump → [artist](/current/2022-worksahead/mccaffrey/#artist) · [access](/current/2022-worksahead/mccaffrey/#access) · [credits](/current/2022-worksahead/mccaffrey/#credits) · [websites](/current/2022-worksahead/mccaffrey/#websites)</span> · <small>Updated 14 Apr 2022</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2022](/current/2022-worksahead)        
         
-A one-man work-in-progress about revolution, hope, and our capacity for change.        
-        
-#### About        
 This is a story about the power of the state. A story about the power of ordinary people. A story about hope. And it's all made up.         
         
 In a country not unlike this one, society feels like it's breaking down. After what seems like a series of unprecedented, catastrophic events, three people take matters into their own hands — and make plans for revolution.        
         
-If people seized political power for themselves, what would they do with it? An interactive work-in-progress about how we make sense of the world — with remote-controlled cars, house parties, and a chaotic courtroom.        
+If people seized political power for themselves, what would they do with it?<br>An interactive work-in-progress about how we make sense of the world — with remote-controlled cars, house parties, and a chaotic courtroom.        
         
 #### Artist        
 A Manchester-based theatre-maker + musician, Ross makes work that centres around people, power, and what makes us tick. A founding member of theatre company Powder Keg (winners of the Hodgkiss Award 2016), he has toured nationally + internationally with The Javaad Alipoor Company, and is a CYC alumnus. Past collaborations include Gob Squad, Daniel Bye, Stacy Makishi.         
