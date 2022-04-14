@@ -24,7 +24,7 @@ season: "Ross McCaffrey in Works Ahead 26+27|5|2022"
 A one-man work-in-progress about revolution, hope, and our capacity for change.        
          
 #### Access                 
-Showing alongside two other new works *in* [Works Ahead 2022](/current/2022-worksahead)<br>Times: Thursday 26 + Friday 27 May 2022, 7pm to *about* 9.15pm<br>Duration: show approx 45mins; event approx 2hr15m<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>COVID-19 measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.        
+Times: Thursday 26 + Friday 27 May 2022, 7pm to *about* 9.15pm<br>Show duration: *about* 45 mins · [Works Ahead 2022](/current/2022-worksahead) duration: *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>COVID-19 measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.        
         
 Ticketing: available to book via Contact *by the end of April*.        
         
