@@ -21,7 +21,7 @@ season: "Ross McCaffrey in Works Ahead 26+27|5|2022"
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2022](/current/2022-worksahead)        
         
-**A one-man work-in-progress about revolution, hope, and our capacity for change.**        
+A one-man work-in-progress about revolution, hope, and our capacity for change.        
         
 #### About        
 This is a story about the power of the state. A story about the power of ordinary people. A story about hope. And it's all made up.         
