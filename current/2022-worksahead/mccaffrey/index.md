@@ -19,36 +19,35 @@ season: "Works Ahead: Ross McCaffrey 26+27|5|2022"
 ---
 <span style='font-variant: small-caps'>jump → [access](/current/2022-worksahead/mccaffrey/#access) · [about](/current/2022-worksahead/mccaffrey/#about) · [artist](/current/2022-worksahead/mccaffrey/#artist) · [credits](/current/2022-worksahead/mccaffrey/#credits) · [websites](/current/2022-worksahead/mccaffrey/#websites)</span> · <small>Updated 14 Apr 2022</small>        
         
-*Presented by* Word of Warning + Contact *in* [Works Ahead 2022](/current/2022-worksahead)        
+*Presented by* Word of Warning + Contact *as part of* [Works Ahead 2022](/current/2022-worksahead)        
         
-COPY         
+A one-man work-in-progress about revolution, hope, and our capacity for change.        
          
 #### Access                 
-Dates: Thursday 26 + Friday 27 May 2022, 7pm<br>Timings: shown as part of a triple bill of work; event duration approx 2hr 15min<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>COVID-19 measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.        
+Dates: Thursday 26 + Friday 27 May 2022, 7pm<br>Timings: shown alongside two other new works; show duration approx 45mins; event duration approx 2hr 15min<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>COVID-19 measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.        
         
 Ticketing: available to book via Contact *by the end of April*.        
         
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: includes complex themes, for specific warnings please click [here](/warnings).<br>Features: live + recorded speech, projected visuals, choreographed movement.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
          
-#### About
-
-#### Artist
-
-#### Reviews         
->★★★★ *Smartly intelligent hour-long whizz through the world of surveillance… Coolly reasoned theatre*<br>&nbsp;— <a href="https://theguardian.com/stage/2017/aug/27/a-machine-theyre-secretly-building-review-surveillance" target="_blank">Lyn Gardner, The Guardian on *A Machine…*</a><br>★★★★ *Seeps into the sub-conscious… Chilling, intelligent and witty*<br>&nbsp;— <a href="https://list.co.uk/article/90478-a-machine-theyre-secretly-building-the-kind-of-theatre-that-seeps-into-the-sub-conscious/" target="_blank">The List on *A Machine…*</a><br>*Such imagination and clarity of vision… great antidote to (a) tangled political landscape*<br>&nbsp;— <a href="http://exeuntmagazine.com" target="_blank">Exeunt on the *Truth to Power Project*</a><br>*Made me want to headbutt a bank*<br>&nbsp;— Audience Response to *The Audit*        
-
-#### Credits         
-[Works Ahead](/hab/worksahead) 2022 co-commissioned/co-produced by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Project Mentor: Peader Kirk        
-Written + directed by Andrew Westerside<br>Devised + performed by Rachel Baynton + Gillian Lees<br>Film, design, promotional images by Adam York Gregory<br>Original sound by Paul J. Rogers<br>Set by Alex Kent + Lincoln Performing Arts Centre         
+#### About        
+This is a story about the power of the state. A story about the power of ordinary people. A story about hope.<br>And it's all made up.         
         
-Produced by Gillian Lees<br>Marketing + comms by Rachel Baynton<br>Production Assistants: Curtis Clapham + Elisha Pearce<br>Technical Manager: Myk Hoyle<br>Stage Manager: Dan Firth        
-       
-Supported using public funding by the National Lottery through Arts Council England. Made possible through the continued support of ARC (Stockton), [hÅb](/hab), Lincoln Performing Arts Centre, The Lowry, Theatre-in-the-Mill (Bradford).        
+In a country not unlike this one, society feels like it's breaking down. After what seems like a series of unprecedented, catastrophic events, three people take matters into their own hands and make plans for revolution.        
+        
+A work-in-progress, interactive theatre piece with remote controlled cars, house parties, and a chaotic courtroom. *Sometimes history needs a push* is a show about how we make sense of the world, and asks if people seized political power for themselves, what would we do with it?        
+        
+#### Artist        
+Ross is a Manchester-based theatre-maker and musician. He makes work that centres around people, power, and what makes us tick. He was a founding member of theatre company Powder Keg, winners of the Hodgkiss Award 2016, and has toured nationally + internationally with The Javaad Alipoor Company. He is a CYC alumnus. Past collaborations include Gob Squad, Daniel Bye, and Stacy Makishi.         
          
-#### Websites          
-<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a><br>
-<a href="http://facebook.com/HelenaLouiseAscough" target="_blank">Facebook: Helena Ascough</a> · <a href="http://twitter.com/Helena_Ascough" target="_blank">@Helena_Ascough</a><br><a href="http://twitter.com/rocaffrey" target="_blank">Ross @rocaffrey</a><br><a href="http://willdickie.co.uk" target="_blank">willdickie.co.uk</a> · <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a>       
+#### Credits         
+Written + performed by Ross McCaffrey<br>Dramaturgy + mentoring by Peader Kirk<br>With special thanks to Emma Geraghty + Josh Coates.        
         
-<a href="http://proto-type.org/projects/current/dead-cats" target="_blank">proto-type.org</a> · <a href="https://facebook.com/prototypetheater" target="_blank">Proto-type on Facebook</a> · <a href="https://twitter.com/Proto_type" target="_blank">@Proto_type</a> · <a href="https://twitter.com/hashtag/DeadCats" target="_blank">#DeadCats</a>         
+Co-commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Supported by the overwhelming generosity of crowdfunder backers.        
+          
+[Works Ahead](/hab/worksahead) 2022 co-commissioned/co-produced by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Project Mentor: Peader Kirk        
+        
+#### Websites          
+<a href="https://instagram.com/rocaffrey" target="_blank">insta rocaffrey</a> · <a href="https://twitter.com/rocaffrey" target="_blank">@rocaffrey</a><br><a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="https://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>        
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2022-worksahead/mccaffrey)</span></small>
