@@ -19,12 +19,12 @@ season: "Works Ahead: Ross McCaffrey 26+27|5|2022"
 ---
 <span style='font-variant: small-caps'>jump → [access](/current/2022-worksahead/mccaffrey/#access) · [about](/current/2022-worksahead/mccaffrey/#about) · [artist](/current/2022-worksahead/mccaffrey/#artist) · [credits](/current/2022-worksahead/mccaffrey/#credits) · [websites](/current/2022-worksahead/mccaffrey/#websites)</span> · <small>Updated 14 Apr 2022</small>        
         
-*Presented by* Word of Warning + Contact *as part of* [Works Ahead 2022](/current/2022-worksahead)        
+*Presented by* Word of Warning + Contact *in* [Works Ahead 2022](/current/2022-worksahead)        
         
 A one-man work-in-progress about revolution, hope, and our capacity for change.        
          
 #### Access                 
-Dates: Thursday 26 + Friday 27 May 2022, 7pm<br>Duration: shown alongside two other new works; show approx 45mins; overall event approx 2hr 15min<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>COVID-19 measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.        
+Dates: Thursday 26 + Friday 27 May 2022, 7pm<br>Duration: approx 45mins; shown alongside two other new worksoverall event approx 2hr 15min<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>COVID-19 measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.        
         
 Ticketing: available to book via Contact *by the end of April*.        
         
@@ -35,7 +35,7 @@ This is a story about the power of the state. A story about the power of ordinar
         
 In a country not unlike this one, society feels like it's breaking down. After what seems like a series of unprecedented, catastrophic events, three people take matters into their own hands — and make plans for revolution.        
         
-An interactive work-in-progress with remote-controlled cars, house parties, and a chaotic courtroom, *Sometimes history needs a push* considers how we make sense of the world, and asks "if people seized political power for themselves, what would they do with it?"        
+An interactive work-in-progress with remote-controlled cars, house parties, and a chaotic courtroom. *Sometimes history needs a push* considers how we make sense of the world — and asks "if people seized political power for themselves, what would they do with it?"        
         
 #### Artist        
 A Manchester-based theatre-maker + musician, Ross makes work that centres around people, power, and what makes us tick. A founding member of theatre company Powder Keg (winners of the Hodgkiss Award 2016), he has toured nationally + internationally with The Javaad Alipoor Company, and is a CYC alumnus. Past collaborations include Gob Squad, Daniel Bye, Stacy Makishi.         
