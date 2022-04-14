@@ -17,7 +17,7 @@ season: "Will Dickie in Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [artist](/current/2022-worksahead/mccaffrey/#artist) · [access](/current/2022-worksahead/mccaffrey/#access) · [credits](/current/2022-worksahead/mccaffrey/#credits) · [websites](/current/2022-worksahead/mccaffrey/#websites)</span> · <small>Updated 14 Apr 2022</small>        
+<span style='font-variant: small-caps'>jump → [artist](/current/2022-worksahead/dickie/#artist) · [access](/current/2022-worksahead/dickie/#access) · [credits](/current/2022-worksahead/mccaffrey/#credits) · [websites](/current/2022-worksahead/dickie/#websites)</span> · <small>Updated 14 Apr 2022</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2022](/current/2022-worksahead)        
         
@@ -25,7 +25,7 @@ A lo-fi solo symphony of words and movement.
            
 Conjuring the ghosts of the men who have dominated the stage before him, Will takes us on a journey — navigating the tensions of inheritance, privilege, and addiction.        
         
-Personal and political. Unsettling and humorous.<br>What do you see when you look at Will?<br>A white son.<br>A boy who can’t stop moving.<br>Can't stop speaking.<br>And pointing.<br>Pointing at old actors and being successful.<br>Pointing at sugar and the milky bar kid.<br>Pointing at the sun.        
+*Personal and political. Unsettling and humorous.<br>What do you see when you look at Will?<br>A white son.<br>A boy who can’t stop moving.<br>Can't stop speaking.<br>And pointing.<br>Pointing at old actors and being successful.<br>Pointing at sugar and the milky bar kid.<br>Pointing at the sun.*        
         
 Set against a backdrop of a nation that continues to bask in the light of its colonial legacy, hooked on profits despite the costs. *White Sun* collides with the past in the here and now of a human nervous system.         
          
@@ -46,19 +46,28 @@ Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: may distu
 >*Hugely engaged, moved and actually (and lingeringly) harrowed by it… Bit by bit, the strands come together in a meaningful confrontation with how the past still haunts and shapes our present existence, our moral compass and our sense of who we are.*<br>&nbsp;— Audience Feedback        
 
 #### Credits         
+
+
+Created & Performed by Will Dickie
+
+Direction – Peader Kirk
+
+Dramaturgy – Kaite O’Reilly
+
+Movement Direction – Fabiola Santana
+
+Sound & LX Design - Ethan Hudson
+
+With consultation by Amy Lawrence & Laila Diallo 
+
+Co-commissioned by hÅb + Contact for Works Ahead. Supported by CPT, Tramway and Public Funding from Arts Council England.
+
 Photography Diego Ferrari / Design Neils Dielen
 
 [Works Ahead](/hab/worksahead) 2022 co-commissioned/co-produced by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Project Mentor: Peader Kirk        
-Written + directed by Andrew Westerside<br>Devised + performed by Rachel Baynton + Gillian Lees<br>Film, design, promotional images by Adam York Gregory<br>Original sound by Paul J. Rogers<br>Set by Alex Kent + Lincoln Performing Arts Centre         
-        
-Produced by Gillian Lees<br>Marketing + comms by Rachel Baynton<br>Production Assistants: Curtis Clapham + Elisha Pearce<br>Technical Manager: Myk Hoyle<br>Stage Manager: Dan Firth        
-       
-Supported using public funding by the National Lottery through Arts Council England. Made possible through the continued support of ARC (Stockton), [hÅb](/hab), Lincoln Performing Arts Centre, The Lowry, Theatre-in-the-Mill (Bradford).        
+  
          
 #### Websites          
-<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a><br>
-<a href="http://facebook.com/HelenaLouiseAscough" target="_blank">Facebook: Helena Ascough</a> · <a href="http://twitter.com/Helena_Ascough" target="_blank">@Helena_Ascough</a><br><a href="http://twitter.com/rocaffrey" target="_blank">Ross @rocaffrey</a><br><a href="http://willdickie.co.uk" target="_blank">willdickie.co.uk</a> · <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a>       
-        
-<a href="http://proto-type.org/projects/current/dead-cats" target="_blank">proto-type.org</a> · <a href="https://facebook.com/prototypetheater" target="_blank">Proto-type on Facebook</a> · <a href="https://twitter.com/Proto_type" target="_blank">@Proto_type</a> · <a href="https://twitter.com/hashtag/DeadCats" target="_blank">#DeadCats</a>         
-        
-<small><span style='font-variant: small-caps'>[back to top](/current/2022-worksahead/mccaffrey)</span></small>
+<a href="http://willdickie.co.uk" target="_blank">willdickie.co.uk</a> · <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a><br><a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a><br>
+          
+<small><span style='font-variant: small-caps'>[back to top](/current/2022-worksahead/dickie)</span></small>
