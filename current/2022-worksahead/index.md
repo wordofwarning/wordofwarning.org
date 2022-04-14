@@ -23,12 +23,12 @@ season: "Works Ahead 26+27|5|2022"
         
 This year's sample of new work-in-development picks up where we were interrupted in [2020](/hab/worksahead/#2020) — showing the now finished live version of **Will Dickie**'s *White Sun* alongside a re-imagined development of **Ross McCaffrey**'s *Sometimes history needs a push*.        
 
-We also commissioned Helena Ascough and Jade Williams in [2021](/hab/worksahead/#2021) — and now present the digital outcome of **Helena Ascough**'s *What A Clown!*, with Jade Williams' work coming to fruition in 2023.        
+We also commissioned two artists in [2021](/hab/worksahead/#2021) — and now present the digital outcome of **Helena Ascough**'s *What A Clown!*, with Jade Williams' work coming to fruition in 2023.        
         
 Our triple bill evening sees a one-man work-in-progress about revolution, hope, and our capacity for change; a macabre film about how we see others; and a lo-fi solo symphony of words and movement.         
         
 #### Access                 
-Times: Thursday 26 + Friday 27 May 2022, evening (*start time tbc*)<br>Duration: *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>COVID-19 measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.        
+Times: Thursday 26 + Friday 27 May 2022, evening (*start time tbc*)<br>Duration: a triple bill with intervals, lasting *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>COVID-19 measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.        
         
 Ticketing: available to book via Contact by the end of April (*ticket prices tbc*)        
         
@@ -39,6 +39,6 @@ Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: may distu
         
 #### Websites          
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a><br>
-Helena: <a href="http://facebook.com/HelenaLouiseAscough" target="_blank">Facebook</a> · <a href="https://instagram.com/helenaascough" target="_blank">insta helenaascough</a> · <a href="http://twitter.com/Helena_Ascough" target="_blank">@Helena_Ascough</a><br>Ross: <a href="https://instagram.com/rocaffrey" target="_blank">insta rocaffrey</a> · <a href="https://twitter.com/rocaffrey" target="_blank">@rocaffrey</a><br>Will: <a href="http://willdickie.co.uk" target="_blank">willdickie.co.uk</a> · <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a>       
+&nbsp;Helena — <a href="http://facebook.com/HelenaLouiseAscough" target="_blank">Facebook</a> · <a href="https://instagram.com/helenaascough" target="_blank">insta helenaascough</a> · <a href="http://twitter.com/Helena_Ascough" target="_blank">@Helena_Ascough</a><br>&nbsp;Ross — <a href="https://instagram.com/rocaffrey" target="_blank">insta rocaffrey</a> · <a href="https://twitter.com/rocaffrey" target="_blank">@rocaffrey</a><br>&nbsp;Will — <a href="http://willdickie.co.uk" target="_blank">willdickie.co.uk</a> · <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a>       
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2022-worksahead)</span></small>
