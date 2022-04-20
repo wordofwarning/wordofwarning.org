@@ -17,14 +17,14 @@ season: "Proto-type 4|5|2022, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 20 Apr 2022</small><br><span style='font-variant: small-caps'>jump → [ticketing](/current/2022-springsummer/proto-type/#ticketing) · [access](/current/2022-springsummer/proto-type/#access) · [about](/current/2022-springsummer/proto-type/#about) · [artists](/current/2022-springsummer/proto-type/#artists) · [reviews](/current/2022-springsummer/proto-type/#reviews) · [credits](/current/2022-springsummer/proto-type/#credits) · [websites](/current/2022-springsummer/proto-type/#websites)</span>         
+<span style='font-variant: small-caps'>jump → [ticketing](/current/2022-springsummer/proto-type/#ticketing) · [access](/current/2022-springsummer/proto-type/#access) · [about](/current/2022-springsummer/proto-type/#about) · [artists](/current/2022-springsummer/proto-type/#artists) · [reviews](/current/2022-springsummer/proto-type/#reviews) · [credits](/current/2022-springsummer/proto-type/#credits) · [websites](/current/2022-springsummer/proto-type/#websites)</span>         
          
-*Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF Wednesday</a>           
+*Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a> · <small>Updated 20 Apr 2022</small>           
          
 In rooms like this room, people lie.<br>Not little lies, but the kinds of lies that kill people, or worse…         
          
 #### Ticketing         
-Pay What You Decide: <a href="https://tickets.thelowry.com/events/wtf%20wednesday-%20proto-type%20theater%20and%20adam%20york%20gregory%20-%20dead%20cats/2022-5-4_20.00/lowry%20studio?back=2&area=6711d356-240a-ea11-a9ce-815ca3ec47bd&type=ga#_ga=2.200770158.1964221739.1646391693-1481859948.1644317178" target="_blank">book online</a> or call The Lowry on 0343 208 6000<br>*Suggested amount £5.*        
+Pay What You Decide: *suggested* amount £5, <a href="https://tickets.thelowry.com/events/wtf%20wednesday-%20proto-type%20theater%20and%20adam%20york%20gregory%20-%20dead%20cats/2022-5-4_20.00/lowry%20studio?back=2&area=6711d356-240a-ea11-a9ce-815ca3ec47bd&type=ga#_ga=2.200770158.1964221739.1646391693-1481859948.1644317178" target="_blank">book online</a> or call The Lowry on 0343 208 6000        
                 
 Time: Wednesday 4 May 2022, 8pm to *about* 9.15pm (no interval)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry</a> (Aldridge Studio), Pier 8, Salford Quays, M50 3AZ         
          
