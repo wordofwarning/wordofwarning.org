@@ -17,7 +17,7 @@ season: "Will Dickie in Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [artist](/current/2022-worksahead/dickie/#artist) · [access](/current/2022-worksahead/dickie/#access) · [credits](/current/2022-worksahead/mccaffrey/#credits) · [websites](/current/2022-worksahead/dickie/#websites)</span> · <small>Updated 14 Apr 2022</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2022-worksahead/dickie/#artist) · [ticketing](/current/2022-worksahead/dickie/#ticketing) · [access](/current/2022-worksahead/dickie/#access) · [credits](/current/2022-worksahead/mccaffrey/#credits) · [websites](/current/2022-worksahead/dickie/#websites)</span> · <small>Updated 20 Apr 2022</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2022](/current/2022-worksahead)        
         
@@ -34,14 +34,14 @@ A Liverpool-based performance maker, Will works across several artforms which su
           
 His previous live touring works include *The Rave Space* ([shown in SS19](/archive/2019-springsummer/dickie)), *Team of the Decades*, and *Memories of Suburbia*. His recent dance film *Canning Town*, created with Fabiola Santana, has screened internationally — winning best film awards in Bucharest, Lisbon, and Glasgow. Listen to his DJ mix series *The Wayz* at his <a href="https://www.mixcloud.com/AlwaysWill" target="_blank">mixcloud</a>.         
         
-#### Access                 
-Times: Thursday 26 + Friday 27 May 2022, 7pm<br>Show duration: *about* 1 hr · [Works Ahead 2022](/current/2022-worksahead) duration: *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>COVID-19 measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.        
-       
-Ticketing: available to book via Contact *by the end of April*.        
+#### Ticketing        
+Pay What You Decide: available to book via Contact *by the end of April*.        
         
-Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: live + recorded speech, projected visuals, choreographed movement.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
-
-
+Times: Thursday 26 + Friday 27 May 2022, 7pm<br>Show duration: *about* 1 hr · [Works Ahead 2022](/current/2022-worksahead) duration: *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
+        
+#### Access         
+Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: live + recorded speech, projected visuals, choreographed movement.<br>Covid measures: taking place in Space 1, we anticipate there will be plenty of room, so please feel free to sit where you feel most comfortable. We <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
+        
 #### Reviews         
 >*Hugely engaged, moved and actually (and lingeringly) harrowed by it… Bit by bit, the strands come together in a meaningful confrontation with how the past still haunts and shapes our present existence, our moral compass and our sense of who we are.*<br>&nbsp;— Audience Feedback        
 
