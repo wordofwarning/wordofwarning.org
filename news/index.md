@@ -12,7 +12,7 @@ season: "News"
 # show_size: 1 # optional - size 1-5. Default is 1. Set longer names to lower values
 
 ---
-<span style='font-variant: small-caps'>jump → [things to watch](/news/#audiences) · [helping artists](/news/#artists), [gm artist hub](/news/#gmartisthub), [artist support](/news/#support)</span> · <small>Updated 20 Apr 2022<small>        
+<span style='font-variant: small-caps'>→ [things to watch](/news/#audiences) · [helping artists](/news/#artists), [gm artist hub](/news/#gmartisthub), [artist support](/news/#support)</span> · <small>Updated 20 Apr 2022<small>        
 <hr>          
 #### Audiences         
 Spring's [Performance Programme](/current/2022-springsummer) includes *[Dead Cats](/current/2022-springsummer/proto-type)* and [three new Works Ahead](/current/2022-worksahead) in May. In the meantime…<br>• Visit our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a> to re-watch previous livestreamed events;<br>• Find other shows to see in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to live performance near Manchester + online</a>;<br>• Have a look at <a href="https://screen.homemcr.org" target="_blank">HOME SCREEN</a>, <a href="https://thelowry.com/lowry-digital" target="_blank">Lowry Digital</a>, <a href="https://mif.co.uk/live" target="_blank">MIF Live + On Demand</a>, <a href="https://sadlerswells.com/digital-stage" target="_blank">Sadler's Wells Digital Stage</a>.        
