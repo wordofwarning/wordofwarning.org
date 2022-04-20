@@ -17,7 +17,7 @@ season: "Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/current/2022-worksahead/#access) · [credits](/current/2022-worksahead/#credits) · [websites](/current/2022-worksahead/#websites)</span> · <small>Updated 14 Apr 2022</small>        
+<span style='font-variant: small-caps'>jump → [access](/current/2022-worksahead/#access) · [credits](/current/2022-worksahead/#credits) · [websites](/current/2022-worksahead/#websites)</span> · <small>Updated 20 Apr 2022</small>        
         
 *Presented by* Word of Warning + Contact        
         
@@ -28,15 +28,15 @@ We also commissioned two artists in [2021](/hab/worksahead/#2021) — and now pr
 Our triple bill evening sees a one-man work-in-progress about revolution, hope, and our capacity for change; a macabre film about how we see others; and a lo-fi solo symphony of words and movement.         
         
 #### Access                 
-Times: Thursday 26 + Friday 27 May 2022, evening (*start time tbc*)<br>Duration: a triple bill with intervals, lasting *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>COVID-19 measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.        
+Times: Thursday 26 + Friday 27 May 2022, 7pm<br>Duration: a triple bill with intervals, lasting *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>COVID-19 measures: taking place within Space 1, we anticipate there will be plenty of room, so please feel free to sit where you feel most comfortable. We <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.        
         
-Ticketing: available to book via Contact by the end of April (*ticket prices tbc*)        
+**Ticketing: available to book via Contact *by the end of April* — Pay What You Decide.**         
         
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: live + recorded speech, projected visuals, choreographed movement.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
          
 #### Credits         
 [Works Ahead](/hab/worksahead) 2022 co-commissioned/co-produced by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Project Mentor: Peader Kirk        
-        
+         
 #### Websites          
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a><br>
 &nbsp;Helena — <a href="http://facebook.com/HelenaLouiseAscough" target="_blank">Facebook</a> · <a href="https://instagram.com/helenaascough" target="_blank">insta helenaascough</a> · <a href="http://twitter.com/Helena_Ascough" target="_blank">@Helena_Ascough</a><br>&nbsp;Ross — <a href="https://instagram.com/rocaffrey" target="_blank">insta rocaffrey</a> · <a href="https://twitter.com/rocaffrey" target="_blank">@rocaffrey</a><br>&nbsp;Will — <a href="http://willdickie.co.uk" target="_blank">willdickie.co.uk</a> · <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a>       
