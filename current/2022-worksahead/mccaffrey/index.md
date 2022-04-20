@@ -17,7 +17,7 @@ season: "Ross McCaffrey in Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [artist](/current/2022-worksahead/mccaffrey/#artist) · [access](/current/2022-worksahead/mccaffrey/#access) · [credits](/current/2022-worksahead/mccaffrey/#credits) · [websites](/current/2022-worksahead/mccaffrey/#websites)</span> · <small>Updated 14 Apr 2022</small>        
+<span style='font-variant: small-caps'>→ [ticketing](/current/2022-worksahead/mccaffrey/#ticketing) · [artist](/current/2022-worksahead/mccaffrey/#artist) · [access](/current/2022-worksahead/mccaffrey/#access) · [credits](/current/2022-worksahead/mccaffrey/#credits) · [websites](/current/2022-worksahead/mccaffrey/#websites)</span> · <small>Updated 20 Apr 2022</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2022](/current/2022-worksahead)        
         
@@ -32,12 +32,13 @@ An interactive work-in-progress about how we make sense of the world — with re
 #### Artist        
 A Manchester-based theatre-maker + musician, Ross makes work that centres around people, power, and what makes us tick. A founding member of theatre company Powder Keg (winners of the Hodgkiss Award 2016), he has toured nationally + internationally with The Javaad Alipoor Company, and is a CYC alumnus. Past collaborations include Gob Squad, Daniel Bye, Stacy Makishi.         
          
-#### Access                 
-Times: Thursday 26 + Friday 27 May 2022, 7pm<br>Show duration: *about* 45 mins · [Works Ahead 2022](/current/2022-worksahead) duration: *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>COVID-19 measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.        
+#### Ticketing          
+Pay What You Decide: available to book via Contact *by the end of April*.        
         
-Ticketing: available to book via Contact *by the end of April*.        
+Times: Thursday 26 + Friday 27 May 2022, 7pm<br>Show duration: *about* 45 mins · [Works Ahead 2022](/current/2022-worksahead) duration: *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
         
-Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: live + recorded speech, projected visuals, choreographed movement.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>                 
+#### Access         
+Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: live + recorded speech, projected visuals, choreographed movement.<br>Covid measures: taking place in Space 1, we anticipate there will be plenty of room, so please feel free to sit where you feel most comfortable. We <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>                        
          
 #### Credits         
 Written + performed by Ross McCaffrey<br>Dramaturgy + mentoring by Peader Kirk<br>With special thanks to Emma Geraghty + Josh Coates.<br>Co-commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Supported by the overwhelming generosity of <a href="https://crowdfunder.co.uk/p/help-me-fund-my-show" target="_blank">crowdfunder</a> backers.        
