@@ -12,7 +12,7 @@ season: "News"
 # show_size: 1 # optional - size 1-5. Default is 1. Set longer names to lower values
 
 ---
-<span style='font-variant: small-caps'>→ [things to watch](/news/#audiences) · [helping artists](/news/#artists), [gm artist hub](/news/#gmartisthub), [artist support](/news/#support)</span> · <small>Updated 20 Apr 2022<small>        
+<span style='font-variant: small-caps'>→ [things to watch](/news/#audiences) · [helping artists](/news/#artists), [gm artist hub](/news/#gmah), [artist support](/news/#support)</span> · <small>Updated 20 Apr 2022<small>        
 <hr>          
 #### Audiences         
 Spring's [Performance Programme](/current/2022-springsummer) includes *[Dead Cats](/current/2022-springsummer/proto-type)* and [three new Works Ahead](/current/2022-worksahead) in May. In the meantime…<br>• Visit our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a> to re-watch previous livestreamed events;<br>• Find other shows to see in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to live performance near Manchester + online</a>;<br>• Have a look at <a href="https://screen.homemcr.org" target="_blank">HOME SCREEN</a>, <a href="https://thelowry.com/lowry-digital" target="_blank">Lowry Digital</a>, <a href="https://mif.co.uk/live" target="_blank">MIF Live + On Demand</a>, <a href="https://sadlerswells.com/digital-stage" target="_blank">Sadler's Wells Digital Stage</a>.        
@@ -21,7 +21,7 @@ Spring's [Performance Programme](/current/2022-springsummer) includes *[Dead Cat
 #### Artists         
 Where we can, [hÅb](/hab) continues to advise and support artists + freelancers in our sector, signposting help and opportunities below.<br>• To participate in a future online [Domestic](/hab/domestic), please see our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call for proposals</a> — whilst we sense that artist's appetite for showing their work online from home is *currently* waning, please feel free to suggest something as we'll put together our sixth online event when we've got the right content.         
 <span style='font-variant: small-caps'>[back to top](/news)</span>         
-##### GMArtistHub        
+##### GMAH        
 <a href="http://gm-artisthub.co.uk" target="_blank">GM Artist Hub</a> is a joint artist development project to support independent artists and freelance creatives across our city region…<br>• If you'd like to talk through your creative ideas, get some advice, or chat about anything else — <a href="http://gm-artisthub.co.uk/advisory-sessions" target="_blank">Advisory Sessions</a> are available on Mondays/Wednesdays;<br>→ Please sign-up <a href="http://app.squarespacescheduling.com/schedule.php?owner=19370486&appointmentType=13786606" target="_blank">here</a> to book a free 30-minute Zoom chat with one of GMAH's producers.<br>*[hÅb](/hab)/[Word of Warning](/) are GMAH partners alongside: Community Arts Northwest, Contact, HOME, Manchester International Festival, Octagon Theatre Bolton, Oldham Coliseum Theatre, Royal Exchange Theatre, SICK! Festival, STUN, The Lowry, Waterside Arts & Creative Industries Trafford, Z-arts.*        
 <span style='font-variant: small-caps'>[back to top](/news)</span>        
 ##### Support         
