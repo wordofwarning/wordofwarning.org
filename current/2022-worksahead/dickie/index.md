@@ -17,7 +17,7 @@ season: "Will Dickie in Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2022-worksahead/dickie/#artist) · [ticketing](/current/2022-worksahead/dickie/#ticketing) · [access](/current/2022-worksahead/dickie/#access) · [credits](/current/2022-worksahead/mccaffrey/#credits) · [websites](/current/2022-worksahead/dickie/#websites)</span> · <small>Updated 20 Apr 2022</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2022-worksahead/dickie/#artist) · [ticketing](/current/2022-worksahead/dickie/#ticketing) · [access](/current/2022-worksahead/dickie/#access) · [reviews](/current/2022-worksahead/dickie/#reviews) · [credits](/current/2022-worksahead/dickie/#credits) · [websites](/current/2022-worksahead/dickie/#websites)</span> · <small>Updated 20 Apr 2022</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2022](/current/2022-worksahead)        
         
