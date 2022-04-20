@@ -17,7 +17,7 @@ season: "Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [access](/current/2022-worksahead/#access) · [credits](/current/2022-worksahead/#credits) · [websites](/current/2022-worksahead/#websites)</span> · <small>Updated 20 Apr 2022</small>        
+<span style='font-variant: small-caps'>jump → [ticketing](/current/2022-worksahead/#ticketing) · [access](/current/2022-worksahead/#access) · [credits](/current/2022-worksahead/#credits) · [websites](/current/2022-worksahead/#websites)</span> · <small>Updated 20 Apr 2022</small>        
         
 *Presented by* Word of Warning + Contact        
         
@@ -27,12 +27,13 @@ We also commissioned two artists in [2021](/hab/worksahead/#2021) — and now pr
         
 Our triple bill evening sees a one-man work-in-progress about revolution, hope, and our capacity for change; a macabre film about how we see others; and a lo-fi solo symphony of words and movement.         
         
-#### Access                 
-Times: Thursday 26 + Friday 27 May 2022, 7pm<br>Duration: a triple bill with intervals, lasting *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>Covid measures: taking place in Space 1, we anticipate there will be plenty of room, so please feel free to sit where you feel most comfortable. We <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.        
+#### Ticketing          
+Times: Thursday 26 + Friday 27 May 2022, 7pm<br>Duration: a triple bill with intervals, lasting *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
         
-**Ticketing: available to book via Contact *by the end of April* — Pay What You Decide.**         
-        
-Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: live + recorded speech, projected visuals, choreographed movement.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
+Pay What You Decide: available to book via Contact *by the end of April*.         
+         
+#### Access         
+Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: live + recorded speech, projected visuals, choreographed movement.<br>Covid measures: taking place in Space 1, we anticipate there will be plenty of room, so please feel free to sit where you feel most comfortable. We <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
          
 #### Credits         
 [Works Ahead](/hab/worksahead) 2022 co-commissioned/co-produced by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Project Mentor: Peader Kirk        
