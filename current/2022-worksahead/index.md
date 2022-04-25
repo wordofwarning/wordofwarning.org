@@ -17,11 +17,11 @@ season: "Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [ticketing](/current/2022-worksahead/#ticketing) · [access](/current/2022-worksahead/#access) · [credits](/current/2022-worksahead/#credits) · [websites](/current/2022-worksahead/#websites)</span> · <small>Updated 20 Apr 2022</small>        
+<span style='font-variant: small-caps'>→ [ticketing](/current/2022-worksahead/#ticketing) · [access](/current/2022-worksahead/#access) · [credits](/current/2022-worksahead/#credits) · [websites](/current/2022-worksahead/#websites)</span> · <small>Updated 25 Apr 2022</small>        
         
 *Presented by* Word of Warning + Contact        
         
-This year's sample of new work-in-development picks up where we were interrupted in [2020](/hab/worksahead/#2020) — showing the now finished live version of **Will Dickie**'s *White Sun* alongside a re-imagined development of **Ross McCaffrey**'s *Sometimes history needs a push*.        
+This year's sample of new work-in-development picks up where we were interrupted in [2020](/hab/worksahead/#2020) — showing the now finished live version of **Will Dickie**'s *White Sun* (see <a href="https://vimeo.com/688124335" target="_blank">trailer</a>) alongside a re-imagined development of **Ross McCaffrey**'s *Sometimes history needs a push*.        
 
 We also commissioned two artists in [2021](/hab/worksahead/#2021) — and now present the digital outcome of **Helena Ascough**'s *What A Clown!*, with Jade Williams' work coming to fruition in 2023.        
         
