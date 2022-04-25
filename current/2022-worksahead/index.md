@@ -21,7 +21,7 @@ season: "Works Ahead 26+27|5|2022"
         
 *Presented by* Word of Warning + Contact        
         
-This year's sample of new work-in-development picks up where we were interrupted in [2020](/hab/worksahead/#2020) — showing the now finished live version of **Will Dickie**'s *White Sun* (see <a href="https://vimeo.com/688124335" target="_blank">trailer</a>) alongside a re-imagined development of **Ross McCaffrey**'s *Sometimes history needs a push*.        
+This year's sample of new work-in-development picks up where we were interrupted in [2020](/hab/worksahead/#2020) — showing the now finished live version of **Will Dickie**'s *White Sun* (<a href="https://vimeo.com/688124335" target="_blank">watch trailer</a>) alongside a re-imagined development of **Ross McCaffrey**'s *Sometimes history needs a push*.        
 
 We also commissioned two artists in [2021](/hab/worksahead/#2021) — and now present the digital outcome of **Helena Ascough**'s *What A Clown!*, with Jade Williams' work coming to fruition in 2023.        
         
