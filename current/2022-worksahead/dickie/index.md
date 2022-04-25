@@ -17,17 +17,19 @@ season: "Will Dickie in Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2022-worksahead/dickie/#artist) · [ticketing](/current/2022-worksahead/dickie/#ticketing) · [access](/current/2022-worksahead/dickie/#access) · [reviews](/current/2022-worksahead/dickie/#reviews) · [credits](/current/2022-worksahead/dickie/#credits) · [websites](/current/2022-worksahead/dickie/#websites)</span> · <small>Updated 20 Apr 2022</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2022-worksahead/dickie/#artist) · [ticketing](/current/2022-worksahead/dickie/#ticketing) · [access](/current/2022-worksahead/dickie/#access) · [reviews](/current/2022-worksahead/dickie/#reviews) · [credits](/current/2022-worksahead/dickie/#credits) · [websites](/current/2022-worksahead/dickie/#websites)</span> · <small>Updated 25 Apr 2022</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2022](/current/2022-worksahead)        
         
-A lo-fi solo symphony of words and movement.         
+A lo-fi solo symphony of words and movement. See Will's trailer below.         
            
 Conjuring the ghosts of the men who have dominated the stage before him, Will takes us on a journey — navigating the tensions of inheritance, privilege, and addiction.        
         
 *Personal and political. Unsettling and humorous.<br>What do you see when you look at Will?<br>A white son.<br>A boy who can’t stop moving.<br>Can't stop speaking.<br>And pointing.<br>Pointing at old actors and being successful.<br>Pointing at sugar and the milky bar kid.<br>Pointing at the sun.*        
         
 Set against a backdrop of a nation that continues to bask in the light of its colonial legacy, hooked on profits despite the costs, *White Sun* collides with the past in the here and now of a human nervous system.         
+         
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/688124335?h=6d29d7e9f2" width="640" height="360" frameborder="0" allowfullscreen></iframe>        
          
 #### Artist        
 A Liverpool-based performance maker, Will works across several artforms which support liveness including theatre, dance, live art, sound, and film.<br>He makes material by listening and responding to spaces — in the environment, within the body, and from his past. He then creates experiences for audiences from these spaces using choreography, spoken text, audience participation, and sound design/DJing.        
