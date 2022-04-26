@@ -17,7 +17,7 @@ season: "Ross McCaffrey in Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2022-worksahead/mccaffrey/#artist) · [ticketing](/current/2022-worksahead/mccaffrey/#ticketing) · [access](/current/2022-worksahead/mccaffrey/#access) · [credits](/current/2022-worksahead/mccaffrey/#credits) · [websites](/current/2022-worksahead/mccaffrey/#websites)</span> · <small>Updated 20 Apr 2022</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2022-worksahead/mccaffrey/#artist) · [ticketing](/current/2022-worksahead/mccaffrey/#ticketing) · [access](/current/2022-worksahead/mccaffrey/#access) · [credits](/current/2022-worksahead/mccaffrey/#credits) · [websites](/current/2022-worksahead/mccaffrey/#websites)</span> · <small>Updated 26 Apr 2022</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2022](/current/2022-worksahead)        
         
@@ -33,7 +33,7 @@ An interactive work-in-progress about how we make sense of the world — with re
 A Manchester-based theatre-maker + musician, Ross makes work that centres around people, power, and what makes us tick. A founding member of theatre company Powder Keg (winners of the Hodgkiss Award 2016), he has toured nationally + internationally with The Javaad Alipoor Company, and is a CYC alumnus. Past collaborations include Gob Squad, Daniel Bye, Stacy Makishi.         
          
 #### Ticketing          
-Pay What You Decide: available to book via Contact *by the end of April*.        
+Pay What You Decide: £10/£5/£0 | Book for <a href="https://contactmcr.com/book-online/254758" target="_blank">Thursday</a> or <a href="https://contactmcr.com/book-online/254759" target="_blank">Friday</a> via Contact        
         
 Times: Thursday 26 + Friday 27 May 2022, 7pm<br>Show duration: *about* 45 mins · [Works Ahead 2022](/current/2022-worksahead) duration: *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
         
