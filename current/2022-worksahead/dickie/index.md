@@ -17,7 +17,7 @@ season: "Will Dickie in Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2022-worksahead/dickie/#artist) · [ticketing](/current/2022-worksahead/dickie/#ticketing) · [access](/current/2022-worksahead/dickie/#access) · [reviews](/current/2022-worksahead/dickie/#reviews) · [credits](/current/2022-worksahead/dickie/#credits) · [websites](/current/2022-worksahead/dickie/#websites)</span> · <small>Updated 25 Apr 2022</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2022-worksahead/dickie/#artist) · [ticketing](/current/2022-worksahead/dickie/#ticketing) · [access](/current/2022-worksahead/dickie/#access) · [reviews](/current/2022-worksahead/dickie/#reviews) · [credits](/current/2022-worksahead/dickie/#credits) · [websites](/current/2022-worksahead/dickie/#websites)</span> · <small>Updated 26 Apr 2022</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2022](/current/2022-worksahead)        
         
@@ -37,7 +37,7 @@ A Liverpool-based performance maker, Will works across several artforms which su
 His previous live touring works include *The Rave Space* ([shown in SS19](/archive/2019-springsummer/dickie)), *Team of the Decades*, and *Memories of Suburbia*. His recent dance film *Canning Town*, created with Fabiola Santana, has screened internationally — winning best film awards in Bucharest, Lisbon, and Glasgow. Listen to his DJ mix series *The Wayz* at his <a href="https://www.mixcloud.com/AlwaysWill" target="_blank">mixcloud</a>.         
         
 #### Ticketing        
-Pay What You Decide: available to book via Contact *by the end of April*.        
+Pay What You Decide: £10/£5/£0 | Book for <a href="https://contactmcr.com/book-online/254758" target="_blank">Thursday</a> or <a href="https://contactmcr.com/book-online/254759" target="_blank">Friday</a> via Contact        
         
 Times: Thursday 26 + Friday 27 May 2022, 7pm<br>Show duration: *about* 1 hr · [Works Ahead 2022](/current/2022-worksahead) duration: *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
         
