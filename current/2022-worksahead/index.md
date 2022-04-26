@@ -17,18 +17,20 @@ season: "Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [ticketing](/current/2022-worksahead/#ticketing) · [access](/current/2022-worksahead/#access) · [credits](/current/2022-worksahead/#credits) · [websites](/current/2022-worksahead/#websites)</span> · <small>Updated 25 Apr 2022</small>        
+<span style='font-variant: small-caps'>→ [ticketing](/current/2022-worksahead/#ticketing) · [access](/current/2022-worksahead/#access) · [credits](/current/2022-worksahead/#credits) · [websites](/current/2022-worksahead/#websites)</span> · <small>Updated 26 Apr 2022</small>        
         
 *Presented by* Word of Warning + Contact        
         
-This year's sample of new work-in-development picks up where we were interrupted in [2020](/hab/worksahead/#2020) — showing the now finished live version of **Will Dickie**'s *White Sun* (<a href="https://vimeo.com/688124335" target="_blank">watch trailer</a>) alongside a re-imagined development of **Ross McCaffrey**'s *Sometimes history needs a push*.        
-
-We also commissioned two artists in [2021](/hab/worksahead/#2021) — and now present the digital outcome of **Helena Ascough**'s *What A Clown!*, with Jade Williams' work coming to fruition in 2023.        
+Our triple bill evening sees a [one-man work-in-progress](/current/2022-worksahead/mccaffrey) about revolution, hope, and our capacity for change; a [macabre film](/current/2022-worksahead/ascough) about how we see others; and a [lo-fi solo symphony](/current/2022-worksahead/ of words and movement.         
         
-Our triple bill evening sees a one-man work-in-progress about revolution, hope, and our capacity for change; a macabre film about how we see others; and a lo-fi solo symphony of words and movement.         
+This year's sample of new work-in-development picks up where we were interrupted in [2020](/hab/worksahead/#2020) — showing the now finished live version of **[Will Dickie**](/current/2022-worksahead/dickie)'s *White Sun* (<a href="https://vimeo.com/688124335" target="_blank">watch trailer</a>) alongside a re-imagined development of **[Ross McCaffrey**](/current/2022-worksahead/mccaffrey)'s *Sometimes history needs a push*.        
+
+We also commissioned two artists in [2021](/hab/worksahead/#2021) — and now present the digital outcome of **[Helena Ascough**](/current/2022-worksahead/ascough)'s *What A Clown!*, with **Jade Williams**' work coming to fruition in 2023.        
+        
+
         
 #### Ticketing          
-Pay What You Decide: available to book via Contact *by the end of April*.         
+Pay What You Decide increments: £10 / £5 / £0 (free). Book for <a href="https://contactmcr.com/book-online/254758" target="_blank">Thursday</a> or <a href="https://contactmcr.com/book-online/254759" target="_blank">Friday</a> via Contact       
          
 Times: Thursday 26 + Friday 27 May 2022, 7pm<br>Duration: a triple bill with intervals, lasting *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
         
