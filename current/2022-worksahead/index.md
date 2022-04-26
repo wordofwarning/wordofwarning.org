@@ -21,11 +21,11 @@ season: "Works Ahead 26+27|5|2022"
         
 *Presented by* Word of Warning + Contact        
         
-Our triple bill evening sees a [one-man work-in-progress](/current/2022-worksahead/mccaffrey) about revolution, hope, and our capacity for change; a [macabre film](/current/2022-worksahead/ascough) about how we see others; and a [lo-fi solo symphony](/current/2022-worksahead/ of words and movement.         
+Our triple bill evening sees a [one-man work-in-progress](/current/2022-worksahead/mccaffrey) about revolution, hope, and our capacity for change; a [macabre film](/current/2022-worksahead/ascough) about how we see others; and a [lo-fi solo symphony](/current/2022-worksahead/dickie) of words and movement.         
         
-This year's sample of new work-in-development picks up where we were interrupted in [2020](/hab/worksahead/#2020) — showing the now finished live version of **[Will Dickie**](/current/2022-worksahead/dickie)'s *White Sun* (<a href="https://vimeo.com/688124335" target="_blank">watch trailer</a>) alongside a re-imagined development of **[Ross McCaffrey**](/current/2022-worksahead/mccaffrey)'s *Sometimes history needs a push*.        
+This year's sample of new work-in-development picks up where we were interrupted in [2020](/hab/worksahead/#2020) — showing the now finished live version of **[Will Dickie](/current/2022-worksahead/dickie)**'s *White Sun* (<a href="https://vimeo.com/688124335" target="_blank">watch trailer</a>) alongside a re-imagined development of **[Ross McCaffrey](/current/2022-worksahead/mccaffrey)**'s *Sometimes history needs a push*.        
 
-We also commissioned two artists in [2021](/hab/worksahead/#2021) — and now present the digital outcome of **[Helena Ascough**](/current/2022-worksahead/ascough)'s *What A Clown!*, with **Jade Williams**' work coming to fruition in 2023.        
+We also commissioned two artists in [2021](/hab/worksahead/#2021) — and now present the digital outcome of **[Helena Ascough](/current/2022-worksahead/ascough)**'s *What A Clown!*, with **Jade Williams**' work coming to fruition in 2023.        
         
 
         
