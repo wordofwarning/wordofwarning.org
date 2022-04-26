@@ -17,7 +17,7 @@ season: "Helena Ascough in Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2022-worksahead/ascough/#artist) · [ticketing](/current/2022-worksahead/ascough/#ticketing) · [access](/current/2022-worksahead/ascough/#access) · [credits](/current/2022-worksahead/ascough/#credits) · [websites](/current/2022-worksahead/ascough/#websites)</span> · <small>Updated 20 Apr 2022</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2022-worksahead/ascough/#artist) · [ticketing](/current/2022-worksahead/ascough/#ticketing) · [access](/current/2022-worksahead/ascough/#access) · [credits](/current/2022-worksahead/ascough/#credits) · [websites](/current/2022-worksahead/ascough/#websites)</span> · <small>Updated 26 Apr 2022</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2022](/current/2022-worksahead)        
         
@@ -32,7 +32,7 @@ Helena works as a freelance actor, poet, arts facilitator, and teacher.<br>She h
 commissioned by The Harris Museum, Lancaster Arts, and Brewtime Collective.        
         
 #### Ticketing          
-Pay What You Decide: available to book via Contact *by the end of April*.        
+Pay What You Decide: £10/£5/£0 | Book for <a href="https://contactmcr.com/book-online/254758" target="_blank">Thursday</a> or <a href="https://contactmcr.com/book-online/254759" target="_blank">Friday</a> via Contact        
         
 Times: Thursday 26 + Friday 27 May 2022, 7pm<br>Film duration: *about* 15 mins · [Works Ahead 2022](/current/2022-worksahead) duration: *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
         
