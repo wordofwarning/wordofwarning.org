@@ -30,7 +30,7 @@ We also commissioned two artists in [2021](/hab/worksahead/#2021) — and now pr
 
         
 #### Ticketing          
-Pay What You Decide increments: £10 / £5 / £0 (free). Book for <a href="https://contactmcr.com/book-online/254758" target="_blank">Thursday</a> or <a href="https://contactmcr.com/book-online/254759" target="_blank">Friday</a> via Contact       
+Book for <a href="https://contactmcr.com/book-online/254758" target="_blank">Thursday</a> or <a href="https://contactmcr.com/book-online/254759" target="_blank">Friday</a> via Contact and Pay What You Decide: £10, £5, or £0 (free)        
          
 Times: Thursday 26 + Friday 27 May 2022, 7pm<br>Duration: a triple bill with intervals, lasting *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
         
