@@ -8,7 +8,7 @@ artist: "Helena Ascough" # the name of the artist or company
 show: "What A Clown!" # the name of the show
 artist_size: 1
 show_size: 2
-header_image: "header_helena.jpg"
+header_image: "header_helena2.jpg"
 season: "Helena Ascough in Works Ahead 26+27|5|2022"
 
 # ABOUT THE SHOW - LAYOUT
@@ -17,7 +17,7 @@ season: "Helena Ascough in Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2022-worksahead/ascough/#artist) · [ticketing](/current/2022-worksahead/ascough/#ticketing) · [access](/current/2022-worksahead/ascough/#access) · [credits](/current/2022-worksahead/ascough/#credits) · [websites](/current/2022-worksahead/ascough/#websites)</span> · <small>Updated 26 Apr 2022</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2022-worksahead/ascough/#artist) · [ticketing](/current/2022-worksahead/ascough/#ticketing) · [access](/current/2022-worksahead/ascough/#access) · [credits](/current/2022-worksahead/ascough/#credits) · [websites](/current/2022-worksahead/ascough/#websites)</span> · <small>Updated 28 Apr 2022</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2022](/current/2022-worksahead)        
         
