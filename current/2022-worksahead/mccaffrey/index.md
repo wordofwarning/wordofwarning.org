@@ -8,7 +8,7 @@ artist: "Ross McCaffrey" # the name of the artist or company
 show: "Sometimes history needs a push" # the name of the show
 artist_size: 1
 show_size: 4
-header_image: "header_ross.jpg"
+header_image: "header_ross2.jpg"
 season: "Ross McCaffrey in Works Ahead 26+27|5|2022"
 
 # ABOUT THE SHOW - LAYOUT
