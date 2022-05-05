@@ -12,10 +12,10 @@ season: "News"
 # show_size: 1 # optional - size 1-5. Default is 1. Set longer names to lower values
 
 ---
-<span style='font-variant: small-caps'>→ [things to watch](/news/#audiences) · [helping artists](/news/#artists), [gm artist hub](/news/#gmah), [artist support](/news/#support)</span> · <small>Updated 20 Apr 2022<small>        
+<span style='font-variant: small-caps'>→ [things to watch](/news/#audiences) · [helping artists](/news/#artists), [gm artist hub](/news/#gmah), [artist support](/news/#support)</span> · <small>Updated 5 May 2022<small>        
 <hr>          
 #### Audiences         
-Spring's [Performance Programme](/current/2022-springsummer) includes *[Dead Cats](/current/2022-springsummer/proto-type)* and [three new Works Ahead](/current/2022-worksahead) in May. In the meantime…<br>• Visit our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a> to re-watch previous livestreamed events;<br>• Find other shows to see in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to live performance near Manchester + online</a>;<br>• Have a look at <a href="https://screen.homemcr.org" target="_blank">HOME SCREEN</a>, <a href="https://thelowry.com/lowry-digital" target="_blank">Lowry Digital</a>, <a href="https://mif.co.uk/live" target="_blank">MIF Live + On Demand</a>, <a href="https://sadlerswells.com/digital-stage" target="_blank">Sadler's Wells Digital Stage</a>.        
+Coming next in our [Performance Programme](/current/2022-springsummer) are [three new Works Ahead](/current/2022-worksahead) at Contact on 26+27 May; in the meantime…<br>• Visit our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a> to re-watch previous livestreamed events;<br>• Find other shows to see in our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning signpost to live performance near Manchester + online</a>;<br>• Have a look at <a href="https://screen.homemcr.org" target="_blank">HOME SCREEN</a>, <a href="https://thelowry.com/lowry-digital" target="_blank">Lowry Digital</a>, <a href="https://mif.co.uk/live" target="_blank">MIF Live + On Demand</a>, <a href="https://sadlerswells.com/digital-stage" target="_blank">Sadler's Wells Digital Stage</a>.        
 <span style='font-variant: small-caps'>[back to top](/news)</span>        
 <hr>          
 #### Artists         
