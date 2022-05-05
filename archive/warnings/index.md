@@ -12,7 +12,7 @@ season: "Archived Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-Age Advisories/Limits and Content Warnings for *past* events and *archived* livestreams on our YouTube channel are below (updated 5 May 2022).<br>This is for audience members who'd like to know more about the content of the work we present — highlighting elements that may distress, cause upset, or trigger.<br>Please click [here](/warnings) for *upcoming* events.        
+Age Advisories/Limits and Content Warnings for *past* events and *archived* livestreams on our YouTube channel are below (updated 5 May 2022).<br>If you'd like to know more about the content of the work we present, we particularly highlight elements that may distress, cause upset, or trigger.<br>Please click [here](/warnings) for *upcoming* events.        
         
 If issues raised affect you, these organisations may be of support:&nbsp;&nbsp;<a href="https://thecalmzone.net" target="_blank">CALM</a> 0800 585858 · <a href="https://harmless.org.uk" target="_blank">Harmless</a> · <a href="https://mind.org.uk" target="_blank">Mind</a> 0300 123 3393 · <a href="https://nopanic.org.uk" target="_blank">No Panic</a> 0300 772 9844 · <a href="https://samaritans.org" target="_blank">Samaritans</a> call 116 123 or email jo@samaritans.org · <a href="https://supportline.org.uk" target="_blank">SupportLine</a> 01708 765 200 · <a href="https://thesurvivorstrust.org" target="_blank">The Survivors Trust</a> 08088 010 818       
         
