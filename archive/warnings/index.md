@@ -12,11 +12,12 @@ season: "Archived Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-If you'd like to know more about the content of the work we present, Age Advisories/Limits & Content Warnings for *past* events and *archived* livestreams on our YouTube channel are below (updated 5 May 2022); we particularly highlight elements that may distress, cause upset, or trigger.<br>Please click [here](/warnings) for *upcoming* events.        
+Updated 5 May 2022        
+        
+Age Advisories/Limits & Content Warnings for the work we present is available, including elements that may distress, cause upset, or trigger.<br>&nbsp;<span style='font-variant: small-caps'>See below for *past* events & *archived* livestreams on our YouTube channel → [2022](/archive/warnings/#2022) · [2021](/archive/warnings/#2021) · [2020](/archive/warnings/#2020) · [2019](/archive/warnings/#2019)</span><br>&nbsp;Please click [here](/warnings) for *upcoming* events.        
         
 If issues raised affect you, these organisations may be of support:&nbsp;&nbsp;<a href="https://thecalmzone.net" target="_blank">CALM</a> 0800 585858 · <a href="https://harmless.org.uk" target="_blank">Harmless</a> · <a href="https://mind.org.uk" target="_blank">Mind</a> 0300 123 3393 · <a href="https://nopanic.org.uk" target="_blank">No Panic</a> 0300 772 9844 · <a href="https://samaritans.org" target="_blank">Samaritans</a> call 116 123 or email jo@samaritans.org · <a href="https://supportline.org.uk" target="_blank">SupportLine</a> 01708 765 200 · <a href="https://thesurvivorstrust.org" target="_blank">The Survivors Trust</a> 08088 010 818       
         
-<span style='font-variant: small-caps'>→ [2022](/archive/warnings/#2022) · [2021](/archive/warnings/#2021) · [2020](/archive/warnings/#2020) · [2019](/archive/warnings/#2019)</span>        
 <hr>         
 #### 2022        
         
