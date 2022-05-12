@@ -37,9 +37,9 @@ A Liverpool-based performance maker, Will works across several artforms which su
 His previous live touring works include *The Rave Space* ([shown in SS19](/archive/2019-springsummer/dickie)), *Team of the Decades*, and *Memories of Suburbia*. His recent dance film *Canning Town*, created with Fabiola Santana, has screened internationally — winning best film awards in Bucharest, Lisbon, and Glasgow. Listen to his DJ mix series *The Wayz* at his <a href="https://www.mixcloud.com/AlwaysWill" target="_blank">mixcloud</a>.         
         
 #### Ticketing        
-Pay What You Decide: £10/£5/£0 | Book for <a href="https://contactmcr.com/book-online/254758" target="_blank">Thursday</a> or <a href="https://contactmcr.com/book-online/254759" target="_blank">Friday</a> via Contact        
+Pay What You Decide: £10/£5/£0 · Book for <a href="https://contactmcr.com/book-online/254758" target="_blank">Thursday</a> or <a href="https://contactmcr.com/book-online/254759" target="_blank">Friday</a> via Contact        
         
-Times: Thursday 26 + Friday 27 May 2022, 7pm<br>Show duration: *about* 1 hr | [Works Ahead 2022](/current/2022-worksahead) duration: *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
+Times: Thursday 26 + Friday 27 May 2022, 7pm<br>Show duration: *about* 1 hr · [Works Ahead 2022](/current/2022-worksahead) duration: *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
         
 #### Access         
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: live + recorded speech, projected visuals, choreographed movement.<br>Covid measures: taking place in Space 1, we anticipate there will be plenty of room, so please feel free to sit where you feel most comfortable. We <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
