@@ -17,7 +17,7 @@ season: "Will Dickie in Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2022-worksahead/dickie/#artist) · [ticketing](/current/2022-worksahead/dickie/#ticketing) · [access](/current/2022-worksahead/dickie/#access) · [reviews](/current/2022-worksahead/dickie/#reviews) · [credits](/current/2022-worksahead/dickie/#credits) · [websites](/current/2022-worksahead/dickie/#websites)</span> · <small>Updated 26 Apr 2022</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2022-worksahead/dickie/#artist) · [ticketing](/current/2022-worksahead/dickie/#ticketing) · [access](/current/2022-worksahead/dickie/#access) · [reviews](/current/2022-worksahead/dickie/#reviews) · [credits](/current/2022-worksahead/dickie/#credits) · [websites](/current/2022-worksahead/dickie/#websites)</span> · <small>Updated 12 May 2022</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2022](/current/2022-worksahead)        
         
@@ -39,13 +39,13 @@ His previous live touring works include *The Rave Space* ([shown in SS19](/archi
 #### Ticketing        
 Pay What You Decide: £10/£5/£0 | Book for <a href="https://contactmcr.com/book-online/254758" target="_blank">Thursday</a> or <a href="https://contactmcr.com/book-online/254759" target="_blank">Friday</a> via Contact        
         
-Times: Thursday 26 + Friday 27 May 2022, 7pm<br>Show duration: *about* 1 hr · [Works Ahead 2022](/current/2022-worksahead) duration: *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
+Times: Thursday 26 + Friday 27 May 2022, 7pm<br>Show duration: *about* 1 hr | [Works Ahead 2022](/current/2022-worksahead) duration: *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
         
 #### Access         
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: live + recorded speech, projected visuals, choreographed movement.<br>Covid measures: taking place in Space 1, we anticipate there will be plenty of room, so please feel free to sit where you feel most comfortable. We <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
         
 #### Reviews         
->*Hugely engaged, moved and actually (and lingeringly) harrowed by it… Bit by bit, the strands come together in a meaningful confrontation with how the past still haunts and shapes our present existence, our moral compass and our sense of who we are.*<br>&nbsp;— Audience Feedback        
+>★★★★ *A self-conscious rejection of perfectionism, a critique of overconsumption and the all-consuming expectations of middle-class life, an anti-theatrical experience.*<br>&nbsp;— <a href="https://buzzmag.co.uk/white-sun-play-chapter-cardiff" target="_blank">Buzz Magazine</a><br>*Hugely engaged, moved and actually (and lingeringly) harrowed by it… Bit by bit, the strands come together in a meaningful confrontation with how the past still haunts and shapes our present existence, our moral compass and our sense of who we are.*<br>&nbsp;— Audience Feedback        
 
 #### Credits         
 Created + performed by Will Dickie<br>Direction: Peader Kirk<br>Dramaturgy: Kaite O'Reilly<br>Movement direction: Fabiola Santana<br>Sound + LX design: Ethan Hudson<br>With consultation by Amy Lawrence + Laila Diallo<br>Photography: Diego Ferrari<br>Image design: Neils Dielen<br>Co-commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Supported by CPT + Tramway.<br>Supported using public funding by the National Lottery through Arts Council England.        
