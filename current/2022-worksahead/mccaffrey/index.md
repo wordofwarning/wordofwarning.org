@@ -17,7 +17,7 @@ season: "Ross McCaffrey in Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2022-worksahead/mccaffrey/#artist) · [ticketing](/current/2022-worksahead/mccaffrey/#ticketing) · [access](/current/2022-worksahead/mccaffrey/#access) · [credits](/current/2022-worksahead/mccaffrey/#credits) · [websites](/current/2022-worksahead/mccaffrey/#websites)</span> · <small>Updated 28 Apr 2022</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2022-worksahead/mccaffrey/#artist) · [ticketing](/current/2022-worksahead/mccaffrey/#ticketing) · [access](/current/2022-worksahead/mccaffrey/#access) · [credits](/current/2022-worksahead/mccaffrey/#credits) · [websites](/current/2022-worksahead/mccaffrey/#websites)</span> · <small>Updated 23 May 2022</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2022](/current/2022-worksahead)        
         
@@ -41,7 +41,7 @@ Times: Thursday 26 + Friday 27 May 2022, 7pm<br>Show duration: *about* 45 mins �
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: live + recorded speech, projected visuals, choreographed movement.<br>Covid measures: taking place in Space 1, we anticipate there will be plenty of room, so please feel free to sit where you feel most comfortable. We <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>                        
          
 #### Credits         
-Written + performed by Ross McCaffrey<br>Dramaturgy + mentoring by Peader Kirk<br>With special thanks to Emma Geraghty, James Varney, Josh Coates.<br>Co-commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Supported by the overwhelming generosity of <a href="https://crowdfunder.co.uk/p/help-me-fund-my-show" target="_blank">crowdfunder</a> backers.        
+Written + performed by Ross McCaffrey<br>Dramaturgy + mentoring by Peader Kirk<br>Additional dramaturgical support from Emmy Lahouel, Josh Coates, James Varney<br>Special thanks to Emma Geraghty, Caitlin Gleeson, Luke McDonnell, Ali Wilson<br>Co-commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Supported by the overwhelming generosity of <a href="https://crowdfunder.co.uk/p/help-me-fund-my-show" target="_blank">crowdfunder</a> backers.        
           
 [Works Ahead](/hab/worksahead) 2022 co-commissioned/co-produced by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Project Mentor: Peader Kirk        
         
