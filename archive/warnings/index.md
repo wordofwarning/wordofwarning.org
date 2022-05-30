@@ -12,7 +12,7 @@ season: "Archived Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 5 May 2022<small>        
+<small>Updated 30 May 2022<small>        
         
 Age Advisories/Limits and Content Warnings for the work we present is available, including elements that may distress, cause upset, or trigger.<br>&nbsp;See below for *past* events including *archived* livestreams on our YouTube channel → [2022](/archive/warnings/#2022) · [2021](/archive/warnings/#2021) · [2020](/archive/warnings/#2020) · [2019](/archive/warnings/#2019)<br>&nbsp;Please click [here](/warnings) for *upcoming* events.        
         
@@ -20,6 +20,9 @@ If issues raised affect you, these organisations may be of support:&nbsp;&nbsp;<
         
 <hr>         
 #### 2022        
+        
+##### [26+27 May. Contact | Works Ahead 2022](/current/2022-worksahead)        
+Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: included complex themes that may disturb, specific warnings follow.<br>&nbsp;Helena Ascough — clown imagery may disturb; discusses violence and discrimination.<br>&nbsp;Ross McCaffrey — includes audience interaction, flashing lights, haze, loud noises, swearing, and vocal references to police/state brutality + death.<br>&nbsp;Will Dickie — addresses themes of addiction and the social construct of race; makes direct references to the transatlantic slave trade, and gives detailed descriptions of addictive behaviours.        
         
 ##### [4 May. The Lowry | *Dead Cats* by Proto-type Theater & Adam York Gregory](/current/2022-springsummer/proto-type)        
 Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: included strong swearing & complex themes.        
