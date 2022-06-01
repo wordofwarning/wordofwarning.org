@@ -23,9 +23,9 @@ season: "Works Ahead 26+27|5|2022"
         
 Our sampler evening sees a [macabre film](/current/2022-worksahead/ascough) about how we see others; a [one-man work-in-progress](/current/2022-worksahead/mccaffrey) about revolution, hope, and our capacity for change; and a [lo-fi solo symphony](/current/2022-worksahead/dickie) of words and movement.         
         
-This year's selection of work-in-development picks up where we were interrupted in [2020](/hab/worksahead/#2020) — showing the now finished live version of **[Will Dickie](/current/2022-worksahead/dickie)**'s *White Sun* (watch trailer <a href="https://vimeo.com/688124335" target="_blank">here</a>) alongside a re-imagined development of **[Ross McCaffrey](/current/2022-worksahead/mccaffrey)**'s *Sometimes history needs a push*.        
+This year's selection of work-in-development picks up where we were interrupted in [2020](/hab/worksahead/#2020) — showing the now finished live version of **[Will Dickie](/current/2022-worksahead/dickie)**'s *White Sun* (watch his trailer <a href="https://vimeo.com/688124335" target="_blank">here</a>) alongside a re-imagined development of **[Ross McCaffrey](/current/2022-worksahead/mccaffrey)**'s *Sometimes history needs a push*.        
 
-We also commissioned two artists in [2021](/hab/worksahead/#2021) — and now present the digital outcome of **[Helena Ascough](/current/2022-worksahead/ascough)**'s *What A Clown!* (watch short film <a href="https://youtu.be/OXnLmCojOwI" target="_blank">here</a>), with **Jade Williams**' work coming to fruition in 2023.         
+We also commissioned two artists in [2021](/hab/worksahead/#2021) — and now present the digital outcome of **[Helena Ascough](/current/2022-worksahead/ascough)**'s *What A Clown!* (watch her short film <a href="https://youtu.be/OXnLmCojOwI" target="_blank">here</a>), with **Jade Williams**' work coming to fruition in 2023.         
         
 #### Ticketing          
 Pay What You Decide: £10/£5/£0 | Book for <a href="https://contactmcr.com/book-online/254758" target="_blank">Thursday</a> or <a href="https://contactmcr.com/book-online/254759" target="_blank">Friday</a> via Contact         
