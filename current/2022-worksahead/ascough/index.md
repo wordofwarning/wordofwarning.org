@@ -17,7 +17,7 @@ season: "Helena Ascough in Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2022-worksahead/ascough/#artist) · [ticketing](/current/2022-worksahead/ascough/#ticketing) · [access](/current/2022-worksahead/ascough/#access) · [credits](/current/2022-worksahead/ascough/#credits) · [websites](/current/2022-worksahead/ascough/#websites)</span> · <small>Updated 6 May 2022</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2022-worksahead/ascough/#artist) · [ticketing](/current/2022-worksahead/ascough/#ticketing) · [access](/current/2022-worksahead/ascough/#access) · [credits](/current/2022-worksahead/ascough/#credits) · [websites](/current/2022-worksahead/ascough/#websites)</span> · <small>Updated 1 June 2022</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2022](/current/2022-worksahead)        
         
@@ -25,7 +25,9 @@ What a clown? Sad. Mad… Disabled.
         
 Through Macabre, the goth clown, Helena talks of her own experiences of being a visually impaired woman. She cries, laughs, and reminisces. Her microphone isn't even plugged in…         
          
-A short film that examines how being disabled makes you feel like you are the clown in the room.        
+A short film that examines how being disabled makes you feel like you are the clown in the room — now available to watch on our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a>.        
+        
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OXnLmCojOwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>        
         
 #### Artist         
 Helena works as a freelance actor, poet, arts facilitator, and teacher.<br>She has built up an extensive performance + acting CV, working for companies including Merlin Entertainments, The Electric Sunshine Project, The Touring Consortium Theatre Company, Events Live, and Initiate Theatre.<br>She has performed her solo spoken shows at The Lancashire Fringe Festival + Frontline Festival, and her spoken word performances have been
