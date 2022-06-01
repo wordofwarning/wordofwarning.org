@@ -10,7 +10,7 @@ season: "Performance Programme Spring/Summer 2022"
 ---
 <span style='font-variant: small-caps'>→ [about](/current/2022-springsummer/#about) · [audiences](/current/2022-springsummer/#audiences) · [by](/current/2022-springsummer/#by) · [people](/current/2022-springsummer/#people) · [warnings](/current/2022-springsummer/#warnings)</span> · <small>Updated 1 June 2022</small>        
          
-*Spring began with [Dead Cats](/current/2022-springsummer/proto-type) at The Lowry and continued with [three Works Ahead](/current/2022-worksahead) at Contact — including Helena Ascough's short film, available <a href="https://youtu.be/OXnLmCojOwI" target="_blank">here</a>.<br>We're on hiatus till August — in the meantime read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to performance in Manchester + beyond, and <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.*        
+*Spring began with [Dead Cats](/current/2022-springsummer/proto-type) at The Lowry and continued with [three Works Ahead](/current/2022-worksahead) at Contact — including Helena Ascough's short film, available <a href="https://youtu.be/OXnLmCojOwI" target="_blank">here</a>.<br>We're on hiatus till August — read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to find performance in Manchester + beyond, and <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.*        
         
 You can also watch previous livestreamed events on our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a> — and find further information for audiences and artists on our [News](/news) page.         
         
