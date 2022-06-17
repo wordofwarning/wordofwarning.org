@@ -23,15 +23,15 @@ season: "Emergency 1|10|2022"
         
 Manchester’s twenty-second micro-marathon of the bizarre, the bold + the beautiful takes over <a href="http://contactmcr.com" target="_blank">Contact</a> on Saturday 1 October — with a daytime of performance installations, one-to-ones, and interventions, followed by an evening full of short shows.        
         
-The call for artist's proposals is now open — so if you would like to take part in what is *probably* England's longest running Live Art event, read on…       
+The call for artist's proposals is now open — so if you would like to take part in what is *probably* England's longest running Live Art event, please read on…       
         
 #### Call-out                
-Artists working in Live Art, contemporary performance, time-based media, and interdisciplinary arts are now invited to submit proposals; work can be in any relevant artform/medium, though some live presence is desirable.<br>For full details and to apply please go to <a href="https://bit.ly/Emerg22" target="_blank">bit.ly/Emerg22</a>.        
+Artists working in Live Art, contemporary performance, time-based media, and interdisciplinary arts are now invited to submit proposals; work can be in any relevant artform/medium, though some live presence is desirable.        
         
-Proposal Deadline: Friday 5 August, 5pm.        
+For full details and to apply please go to <a href="https://bit.ly/Emerg22" target="_blank">bit.ly/Emerg22</a>.<br>Proposal Deadline: Friday 5 August, 5pm.        
         
 #### About         
-Responding to circumstances, our 21st Emergency offers a sneak preview of new live work in a brand new home. With about ten performance works dotted throughout <a href="http://contactmcr.com" target="_blank">Contact</a>'s building, you'll be guided on a socially-distanced one-way walkthrough. Able to pause en route, we *estimate* a 60 to 75-minute total journey time for each audience member. Full programme notes are [here](/archive/2021-emergency/programme).<br><br>[Emergency](/hab/emergency) 22 produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.     
+Our annual platform for Live Art and contemporary performance, Emergency offers a sneak preview of new live work over a single day every Autumn — we expect to present about 20 short works throughout the <a href="http://contactmcr.com" target="_blank">Contact</a> building at this 22nd edition.<br><br>[Emergency](/hab/emergency) 22 produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.     
         
 #### Websites         
 <a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> · <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>                
