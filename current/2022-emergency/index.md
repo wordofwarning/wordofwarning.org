@@ -1,15 +1,15 @@
 ---
 # CONFIGURATION
-layout: 2021-emergency
+layout: 2022-emergency
 rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Emergency 21" # the name of the artist or company
-show: "A journey for the curious." # the name of the show
+artist: "Emergency 22" # the name of the artist or company
+show: "A day out for the curious." # the name of the show
 artist_size: 1
 show_size: 4
 header_image:  
-season: "Emergency 25|9|2021, 12noon-4pm"
+season: "Emergency 1|10|2022"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -21,7 +21,7 @@ season: "Emergency 25|9|2021, 12noon-4pm"
         
 *Presented by* Word of Warning *+* Contact        
         
-Manchester's twenty-first micro-marathon of the bizarre, the bold + the beautiful takes over the brand new Contact in a journey of live performance…         
+Manchester's twenty-second micro-marathon of the bizarre, the bold + the beautiful takes over the brand new Contact in a journey of live performance…         
         
 #### Artists       
 Ayzmar · Helena Ascough · †Kellie Colbert & Deborah Newton · Kelvin Atmadibrata · Lydia Cottrell · Maryam Hashemi · Miray Sidhom · ‡Mitzee · Sebastian H-W · Simon Carroll-Jones & Wayne Steven Jackson<br>*Participating artists subject to change; Rowena Gander is unable to appear.<br>†For 12noon-2pm entry only. ‡For 2pm-4pm entry only.*         
