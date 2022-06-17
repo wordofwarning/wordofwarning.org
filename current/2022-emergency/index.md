@@ -21,12 +21,12 @@ season: "Emergency 1|10|2022"
         
 *Presented by* Word of Warning *+* Contact        
         
-Manchester’s twenty-second micro-marathon of the bizarre, the bold + the beautiful takes over <a href="http://contactmcr.com" target="_blank">Contact</a> on Saturday 1 October with a daytime of performance installations, one-to-ones, and interventions — followed by an evening full of short shows.        
+Manchester’s twenty-second micro-marathon of the bizarre, the bold + the beautiful takes over <a href="http://contactmcr.com" target="_blank">Contact</a> on Saturday 1 October — with a daytime of performance installations, one-to-ones, and interventions, followed by an evening full of short shows.        
         
-#### Call-out        
 The call for artist's proposals is now open — so if you would like to take part in what is *probably* England's longest running Live Art event, read on…       
         
-Artists working in Live Art, contemporary performance, time-based media. and interdisciplinary arts are now invited to submit proposals; work can be in any relevant artform/medium, though some live presence is desirable. For full details and to apply please go to <a href="https://emergencymcr.posthaven.com/emergency-22-call-for-proposals" target="_blank">emergencymcr.posthaven.com/emergency-22-call-for-proposals</a>.        
+#### Call-out                
+Artists working in Live Art, contemporary performance, time-based media, and interdisciplinary arts are now invited to submit proposals; work can be in any relevant artform/medium, though some live presence is desirable.<br>For full details and to apply please go to <a href="https://bit.ly/Emerg22" target="_blank">bit.ly/Emerg22</a>.        
         
 Proposal Deadline: Friday 5 August, 5pm.        
         
