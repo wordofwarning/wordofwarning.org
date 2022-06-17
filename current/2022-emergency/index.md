@@ -31,7 +31,9 @@ Artists working in Live Art, contemporary performance, time-based media, and int
 For full details and to apply please go to <a href="https://bit.ly/Emerg22" target="_blank">bit.ly/Emerg22</a>.<br>Proposal Deadline: Friday 5 August, 5pm.        
         
 #### About         
-Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day every Autumn — we expect to present about 20 short works throughout <a href="http://contactmcr.com" target="_blank">Contact</a> at this 22nd edition on Saturday 1 October (timings tbc).<br><br>[Emergency](/hab/emergency) 22 produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.     
+Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day every Autumn — we expect to present about 20 short works throughout <a href="http://contactmcr.com" target="_blank">Contact</a> at this 22nd edition on Saturday 1 October (timings tbc).        
+        
+[Emergency](/hab/emergency) 22 produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.     
         
 #### Websites         
 <a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> · <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>                
