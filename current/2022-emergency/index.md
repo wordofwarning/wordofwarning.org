@@ -17,7 +17,7 @@ season: "Emergency 1|10|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [call-out](/current/2022-emergency/#call-out) · [about](/current/2022-emergency/#about) · [websites](/current/2022-emergency/#websites) · <small>Updated 17 Jun 2022</small>     
+<span style='font-variant: small-caps'>jump → [call-out](/current/2022-emergency/#call-out) · [about](/current/2022-emergency/#about) · [websites](/current/2022-emergency/#websites)</span> · <small>Updated 17 Jun 2022 11:38</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
