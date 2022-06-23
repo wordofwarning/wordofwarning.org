@@ -22,7 +22,7 @@ season: "Emergency by hÅb"
          
 Manchester's [twenty-second micro-marathon](/current/2022-emergency) of the bizarre, the bold + the beautiful takes over Contact on **Saturday 1 October 2022** — with a daytime of performance installations, one-to-ones, and interventions, followed by an evening full of short shows…        
         
-The <a href="call for artist's proposals" target="_blank">bit.ly/Emerg22</a> is now open — we expect to present *about 20* short works throughout the Contact building — so if you would like to take part in what is *probably* England's longest running Live Art event, please read on…        
+The <a href="bit.ly/Emerg22" target="_blank">call for artist's proposals</a> is now open (and we expect to present *about 20* short works throughout the building) — so if you would like to take part in what is *probably* England's longest running Live Art event, please read on…        
         
 #### Emergency 22 Call-out       
 Artists working in Live Art, contemporary performance, time-based media, and interdisciplinary arts are now invited to submit proposals; work can be in any relevant artform/medium, though some live presence is desirable.        
@@ -34,8 +34,8 @@ For full details and to apply please go to <a href="https://bit.ly/Emerg22" targ
 Enquiries: <mailto:emergency@habmcr.org> · <a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> · <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>
         
 #### Past Editions        
-Get a feel for Emergency by having a look at [last year's 21st edition](/archive/2021-emergency), 2019's [programme](/archive/2019-emergency) + [gallery of images](/galleries/2019-emergency), and 2018's [programme](/archive/2018-emergency) + [gallery](/galleries/2018-emergency).         
+Get a feel for Emergency with last year's [21st edition](/archive/2021-emergency), 2019's [programme](/archive/2019-emergency) + [gallery of images](/galleries/2019-emergency), and 2018's [programme](/archive/2018-emergency) + [gallery](/galleries/2018-emergency).         
         
 **[Emergency 21](/archive/2021-emergency)** was a socially-distanced live walkthrough event at the newly re-opened <a href="http://contactmcr.com" target="_blank">Contact</a> on **25 September 2021** — with audiences guided on a one-way journey through the refurbished building, pausing en route in gallery fashion.        
         
-[**Emergency StopGap**](/archive/2020-emergencystopgap) was a new iteration for 2020 — a small informal platform to bridge the gap between gallery + theatre, and to fill the empty months of winter… Taking place on **27 February 2020** in Manchester's <a href="http://www.niamos.space" target="_blank">NIAMOS</a>, it was an informal 'Thursday Late' style evening featuring 13 durational live works + interventions in and around the building — to get a feel for it, please see our [gallery of images](/galleries/2020-emergencystopgap).
+[**Emergency StopGap**](/archive/2020-emergencystopgap) was a new iteration in Manchester's <a href="https://www.niamos.co.uk" target="_blank">NIAMOS</a> on **27 February 2020** — a small informal platform to bridge the gap between gallery + theatre, and to fill the empty months of winter… An informal 'Thursday Late' style evening with 13 durational live works + interventions throughout the building — get a feel for it with our [gallery of images](/galleries/2020-emergencystopgap).
