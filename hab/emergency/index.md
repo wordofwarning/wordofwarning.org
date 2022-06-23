@@ -22,7 +22,7 @@ season: "Emergency by hÅb"
          
 Manchester's [twenty-second micro-marathon](/current/2022-emergency) of the bizarre, the bold + the beautiful takes over Contact on **Saturday 1 October 2022** — with a daytime of performance installations, one-to-ones, and interventions, followed by an evening full of short shows.        
         
-The <a href="bit.ly/Emerg22" target="_blank">call for artist's proposals</a> is now open (and we expect to present about 20 short works throughout the building) — so if you would like to take part in what is *probably* England's longest running Live Art event, please read on…        
+The <a href="https://bit.ly/Emerg22" target="_blank">call for artist's proposals</a> is now open (and we expect to present about 20 short works throughout the building) — so if you would like to take part in what is *probably* England's longest running Live Art event, please read on…        
         
 #### Emergency 22 Call-out       
 Artists working in Live Art, contemporary performance, time-based media, and interdisciplinary arts are now invited to submit proposals; work can be in any relevant artform/medium, though some live presence is desirable.        
