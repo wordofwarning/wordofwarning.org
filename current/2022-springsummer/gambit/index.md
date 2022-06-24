@@ -4,12 +4,12 @@ layout: 2022-springsummer
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Proto-type Theater &&nbsp;<br>&nbsp;Adam York Gregory" # the name of the artist or company
-show: "Dead Cats" # the name of the show
+artist: "Proud & Loud Arts" # the name of the artist or company
+show: "Gambit" # the name of the show
 artist_size: 3
 show_size: 1
-header_image: "header_proto-type-feet.jpg"    
-season: "Proto-type 4|5|2022, 8pm"
+header_image: "header_gambit2.jpg"    
+season: "Gambit 20|8|2022"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,19 +17,23 @@ season: "Proto-type 4|5|2022, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [ticketing](/current/2022-springsummer/proto-type/#ticketing) · [access](/current/2022-springsummer/proto-type/#access) · [about](/current/2022-springsummer/proto-type/#about) · [artists](/current/2022-springsummer/proto-type/#artists) · [reviews](/current/2022-springsummer/proto-type/#reviews) · [credits](/current/2022-springsummer/proto-type/#credits) · [websites](/current/2022-springsummer/proto-type/#websites)</span>         
+<span style='font-variant: small-caps'>→ [details](/current/2022-springsummer/gambit/#) · [access](/current/2022-springsummer/gambit/#access) · [about](/current/2022-springsummer/gambit/#about) · [artists](/current/2022-springsummer/gambit/#artists) · [credits](/current/2022-springsummer/gambit/#credits) · [websites](/current/2022-springsummer/gambit/#websites)</span>         
          
-*Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a> · <small>Updated 26 Apr 2022</small>           
+*Presented by* Word of Warning · <small>Updated 24 Jun 2022</small>           
          
-**In rooms like this room, people lie.<br>Not little lies, but the kinds of lies that kill people, or worse…**         
+**Gambit — a powerplay.**        
+        
+**A game of strategy comes to life, as human chess pieces invade Manchester City Centre in a new kind of powerplay: turning the tables on the traditional order.**        
+        
+**Gambit — the act of tripping someone to make them fall…?**        
+        
+#### Details         
+FREE: aimed for you to encounter by chance in the city centre.<br>Time: Saturday 20 August 2022, between 12noon and 3pm (timings tbc).<br>Location: <a href="https://www.manchester.gov.uk/info/511/conservation_areas/144/st_anns_square_conservation_area" target="_blank">St Ann's Square</a> + environs, Manchester City Centre, M2 7HQ        
          
-#### Ticketing         
-Pay What You Decide: *suggested amount* £5 | Book <a href="https://tickets.thelowry.com/events/wtf%20wednesday-%20proto-type%20theater%20and%20adam%20york%20gregory%20-%20dead%20cats/2022-5-4_20.00/lowry%20studio?back=2&area=6711d356-240a-ea11-a9ce-815ca3ec47bd&type=ga#_ga=2.200770158.1964221739.1646391693-1481859948.1644317178" target="_blank">online</a> or call The Lowry on 0343 208 6000        
-                
-Time: Wednesday 4 May 2022, 8pm (no interval, ends *about* 9.15pm)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry</a> (Aldridge Studio), Pier 8, Salford Quays, M50 3AZ         
+*NB: you might also just catch a glimpse if you happen to be around MMU Birley Campus in Hulme on Tuesday 16 August, or in Media City at Salford Quays on Thursday 18 August!*        
          
 #### Access         
-Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: spoken + projected text, composed sound, pre-recorded film + audio.<br>Covid measures: we <a href="https://thelowry.com/coronavirus#our-covid-19-measures" target="_blank">strongly recommend</a> audience members wear masks within The Lowry unless exempt; please get in touch if you have any queries.<br>Queries: please call <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a> on 0161 876 2183 or email <mailto:access@thelowry.com>       
+Age Advisory: parental/guardian discretion.<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: choreographed movement + playful intervention; no spoken language.<br>Queries: please email <mailto:info@habmcr.org>       
          
 #### About         
 >In this room, or in rooms like this room, they use phrases like "collateral damage", like "extraordinary rendition", like "perception management".<br>They cover up their dirty words with clean ones, in rooms like this room.<br>In rooms like this room, they redact the names.<br>In rooms like this room, language is laundered.<br>The name of the game is spin.        
