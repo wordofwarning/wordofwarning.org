@@ -21,11 +21,11 @@ season: "Gambit 20|8|2022"
          
 *Presented by* Word of Warning         
          
-**Gambit — a powerplay.**        
+Gambit — a powerplay.        
         
-**A game of strategy comes to life, as human chess pieces invade Manchester City Centre in a new kind of powerplay: turning the tables on the traditional order.**        
+A game of strategy comes to life, as human chess pieces invade Manchester City Centre in a new kind of powerplay: turning the tables on the traditional order.        
         
-**Gambit — the act of tripping someone to make them fall…?**        
+Gambit — the act of tripping someone to make them fall…?        
         
 #### Details         
 FREE: aimed for you to encounter by chance in the city streets.<br>Time: Saturday 20 August 2022, between 12noon and 3pm (timings tbc).<br>Location: <a href="https://www.manchester.gov.uk/info/511/conservation_areas/144/st_anns_square_conservation_area" target="_blank">St Ann's Square</a> + environs, Manchester City Centre, M2 7HQ        
@@ -51,6 +51,6 @@ TBC
 A [Hazard](/hab/hazard) commission by [hÅb](/hab).        
          
 #### Websites          
-<a href="https://proudandloudarts.com" target="_blank">proudandloudarts.com</a> · <a href="https://www.facebook.com/proudandloudarts" target="_blank">P&LA on Facebook</a> · <a href="https://www.instagram.com/proudandloudart)" target="_blank">P&LA on Insta</a> · <a href="https://twitter.com/proudandloudart" target="_blank">@proudandloudart</a>        
+<a href="https://proudandloudarts.com" target="_blank">proudandloudarts.com</a> · <a href="https://www.facebook.com/proudandloudarts" target="_blank">P&LA on Facebook</a> · <a href="https://www.instagram.com/proudandloudart" target="_blank">P&LA on Insta</a> · <a href="https://twitter.com/proudandloudart" target="_blank">@proudandloudart</a>        
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2022-springsummer/gambit)</span></small>
