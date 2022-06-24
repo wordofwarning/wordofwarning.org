@@ -36,7 +36,7 @@ FREE: aimed for you to encounter by chance in the city streets.<br>Time: Saturda
 Age Advisory: parental/guardian discretion.<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: choreographed movement + playful intervention; no spoken language.<br>Queries: please email <mailto:info@habmcr.org>       
          
 #### About         
->A gambit (from ancient Italian gambetto, the act of tripping someone with the leg to make them fall) is a chess opening in which a player maker sacrifices to achieve a subsequent positional advantage.<br>The word "gambit" is also sometimes used to describe similar tactics used by people in a struggle with rivals for example "The early election was a risky gambit by Theresa May".        
+>A gambit (from ancient Italian *gambetto*, the act of tripping someone with the leg to make them fall) is a chess opening in which a player makes sacrifices to achieve a subsequent positional advantage.<br>The word "gambit" is also sometimes used to describe similar tactics used by people in a struggle with rivals, for example "The early election was a risky gambit by Theresa May".        
 
 Following 2018's [*Shadow Girl — the city streets*](/archive/2018-springsummer/hazardshadowgirl), *Gambit* reunites Word of Warning with Proud & Loud Arts in a city centre takeover — this time questioning the nature of power, and who is playing who…       
          
