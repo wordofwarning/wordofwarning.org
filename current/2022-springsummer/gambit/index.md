@@ -17,7 +17,7 @@ season: "Gambit 20|8|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [details](/current/2022-springsummer/gambit/#details) · [access](/current/2022-springsummer/gambit/#access) · [about](/current/2022-springsummer/gambit/#about) · [artists](/current/2022-springsummer/gambit/#artists) · [credits](/current/2022-springsummer/gambit/#credits) · [websites](/current/2022-springsummer/gambit/#websites)</span> · <small>Updated 24 Jun 2022</small>         
+<span style='font-variant: small-caps'>→ [details](/current/2022-springsummer/gambit/#details) · [access](/current/2022-springsummer/gambit/#access) · [about](/current/2022-springsummer/gambit/#about) · [artists](/current/2022-springsummer/gambit/#artists) · [credits](/current/2022-springsummer/gambit/#credits) · [websites](/current/2022-springsummer/gambit/#websites)</span> · <small>Updated 29 Jun 2022</small>         
          
 *Presented by* Word of Warning         
          
@@ -28,12 +28,12 @@ A game of strategy comes to life, as human chess pieces invade Manchester City C
 Gambit — the act of tripping someone to make them fall…?        
         
 #### Details         
-FREE: aimed for you to encounter by chance in the city streets.<br>Time: Saturday 20 August 2022, between 12noon and 5pm (timings tbc).<br>Location: <a href="https://www.manchester.gov.uk/info/511/conservation_areas/144/st_anns_square_conservation_area" target="_blank">St Ann's Square</a> + environs, Manchester City Centre, M2 7HQ        
+FREE: aimed for you to encounter by chance in the city streets.<br>Time: Saturday 20 August 2022, between 12noon and 4pm (timings tbc).<br>Location: <a href="https://www.manchester.gov.uk/info/511/conservation_areas/144/st_anns_square_conservation_area" target="_blank">St Ann's Square</a> + environs, Manchester City Centre, M2 7HQ        
          
 *You might also just catch a glimpse if you happen to be around MMU Birley Campus in Hulme on Tuesday 16 August, or in Media City at Salford Quays on Thursday 18 August!*        
          
 #### Access         
-Age Advisory: parental/guardian discretion.<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: choreographed movement + playful intervention; no spoken language.<br>Queries: please email <mailto:info@habmcr.org>       
+Age Advisory: parental/guardian discretion.<br>Features: choreographed movement + playful intervention; no spoken language.<br>Queries: please email <mailto:info@habmcr.org>       
          
 #### About         
 >A gambit (from ancient Italian *gambetto*, the act of tripping someone with the leg to make them fall) is a chess opening in which a player makes sacrifices to achieve a subsequent positional advantage.<br>The word "gambit" is also sometimes used to describe similar tactics used by people in a struggle with rivals, for example "The early election was a risky gambit by Theresa May".        
@@ -45,9 +45,7 @@ An extraordinary company of artists living with disability labels, <a href="http
         
 >*Proud & Loud Arts are leaders in the creation of disability-led theatre.*<br>&nbsp;— <a href="https://proudandloudarts.com/tag/the-lowry" target="_blank">Matthew Eames, The Lowry</a><br>*Empowers individuals and communicates a strong and inclusive message to society at large.*<br>&nbsp;— <a href="https://manchesterartgallery.org/?s=proud+loud+arts" target="_blank">Ronan Brindley, Manchester Art Gallery</a>        
        
-#### Credits          
-TBC        
-        
+#### Credits        
 A [Hazard](/hab/hazard) commission by [hÅb](/hab).        
          
 #### Websites          
