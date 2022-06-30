@@ -14,7 +14,7 @@ season: "Performance Programme Spring/Summer 2022"
          
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to find other upcoming performance both live and online in Manchester + beyond, and <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
-Watch previous livestreamed events on our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a> — and find further information for audiences and artists on our [News](/news) page.         
+Watch previous livestreamed events on our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a> — and find further information for both audiences and artists on our [News](/news) page.         
         
 Discover what happened last year in our [AW21 archive](/archive/2021-autumnwinter) — and please <a href="http://bit.ly/warnmcrfeedback" target="_blank">share your thoughts</a> with us if you've been to any of our events or watched a livestream.        
 <small><span style='font-variant: small-caps'>[back to top](/current/2022-springsummer)</span></small>        
