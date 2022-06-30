@@ -10,9 +10,9 @@ season: "Performance Programme Spring/Summer 2022"
 ---
 <span style='font-variant: small-caps'>→ [about](/current/2022-springsummer/#about) · [audiences](/current/2022-springsummer/#audiences) · [by](/current/2022-springsummer/#by) · [people](/current/2022-springsummer/#people) · [warnings](/current/2022-springsummer/#warnings)</span> · <small>Updated 30 Jun 2022</small>        
          
-*Spring began with [Dead Cats](/current/2022-springsummer/proto-type) at The Lowry, followed by [three Works Ahead](/current/2022-worksahead) at Contact — Summer continues with [August's Gambit](/current/2022-springsummer/gambit) in St Ann's Square — and Autumn includes [Emergency 22](/current/2022-emergency) at Contact in October…*         
+*Spring began with [Dead Cats](/current/2022-springsummer/proto-type) at The Lowry, followed by [three Works Ahead](/current/2022-worksahead) at Contact — Summer continues with [August's Gambit](/current/2022-springsummer/gambit) in Manchester's City Centre — and Autumn includes [Emergency 22](/current/2022-emergency) at Contact in October…*         
          
-Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to find other upcoming performance both live and online in Manchester + beyond, and <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
+Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to find other upcoming performance live and online in Manchester + beyond, and <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
 Watch previous livestreamed events on our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a> — and find further information for both audiences and artists on our [News](/news) page.         
         
