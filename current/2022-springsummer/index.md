@@ -8,13 +8,13 @@ artist_size: 1
 season: "Performance Programme Spring/Summer 2022"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2022-springsummer/#about) · [audiences](/current/2022-springsummer/#audiences) · [by](/current/2022-springsummer/#by) · [people](/current/2022-springsummer/#people) · [warnings](/current/2022-springsummer/#warnings)</span> · <small>Updated 23 Jun 2022</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2022-springsummer/#about) · [audiences](/current/2022-springsummer/#audiences) · [by](/current/2022-springsummer/#by) · [people](/current/2022-springsummer/#people) · [warnings](/current/2022-springsummer/#warnings)</span> · <small>Updated 30 Jun 2022</small>        
          
-*Spring began with [Dead Cats](/current/2022-springsummer/proto-type) at The Lowry and continued with [three Works Ahead](/current/2022-worksahead) at Contact — including Helena Ascough's short film, available <a href="https://youtu.be/OXnLmCojOwI" target="_blank">here</a>.*         
+*Spring began with [Dead Cats](/current/2022-springsummer/proto-type) at The Lowry followed by with [three Works Ahead](/current/2022-worksahead) at Contact — Summer continues with August's [Gambit](/current/2022-springsummer/gambit) in St Ann's Square — and Autumn will start with [Emergency 22](/current/2022-emergency) at Contact in October…*         
          
-*With our programme on hiatus till August (and [Emergency 22](/current/2022-emergency) at Contact in October) — read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to find upcoming performance in Manchester + beyond, and <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.*        
+*Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to find other upcoming performance live and online in Manchester + beyond, and <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.*        
         
-*You can also watch previous livestreamed events on our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a> — and find further information for audiences and artists on our [News](/news) page.*         
+*Watch previous livestreamed events on our <a href="http://bit.ly/YTwarnmcr" target="_blank">YouTube channel</a> — and find further information for audiences and artists on our [News](/news) page.*         
         
 Discover what happened last year in our [AW21 archive](/archive/2021-autumnwinter) — and please <a href="http://bit.ly/warnmcrfeedback" target="_blank">share your thoughts</a> with us if you've been to any of our events or watched a livestream.        
 <small><span style='font-variant: small-caps'>[back to top](/current/2022-springsummer)</span></small>        
