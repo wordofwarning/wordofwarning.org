@@ -14,7 +14,7 @@ season: "hÅb's Partners"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 12 August 2021</small>        
+<small>Updated 22 Jul 2022</small>        
         
 We can only function in partnership with a host of other organisations and networks, some of whom are linked to below. hÅb is:        
         
@@ -22,7 +22,7 @@ We can only function in partnership with a host of other organisations and netwo
          
 • a core <a href="http://divergencymcr.org" target="_blank">Divergency</a> partner alongside <a href="https://stunlive.com" target="_blank">STUN (Sustained Theatre Up North)</a> — an ongoing artist development programme encouraging diversity in live art;        
         
-• a <a href="https://gm-artisthub.co.uk" target="_blank">Greater Manchester Artist Hub</a> partner — a joint artist development project supporting independent artists and freelance creatives across the city region with: <a href="https://can.uk.com" target="_blank">Community Arts Northwest</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://homemcr.org" target="_blank">HOME</a>, <a href="https://mif.co.uk" target="_blank">Manchester International Festival</a>, <a href="https://octagonbolton.co.uk" target="_blank">Octagon Theatre Bolton</a>, <a href="https://coliseum.org.uk" target="_blank">Oldham Coliseum Theatre</a>, <a href="http://royalexchange.co.uk" target="_blank">Royal Exchange Theatre</a>, <a href="https://sickfestival.com" target="_blank">SICK! Festival</a>, <a href="https://stunlive.com" target="_blank">STUN</a>, <a href="https://thelowry.com" target="_blank">The Lowry</a>, <a href="https://watersidearts.org" target="_blank">Waterside Arts & Creative Industries Trafford</a>, and <a href="https://z-arts.org" target="_blank">Z-arts</a>;         
+• a <a href="https://gm-artisthub.co.uk" target="_blank">Greater Manchester Artist Hub</a> partner — a joint artist development project supporting independent artists and freelance creatives across the city region with: <a href="https://can.uk.com" target="_blank">Community Arts Northwest</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://futureeverything.org" target="_blank">FutureEverything</a>, <a href="https://homemcr.org" target="_blank">HOME</a>, <a href="https://mif.co.uk" target="_blank">Manchester International Festival</a>, <a href="https://octagonbolton.co.uk" target="_blank">Octagon Theatre Bolton</a>, <a href="https://coliseum.org.uk" target="_blank">Oldham Coliseum Theatre</a>, <a href="http://royalexchange.co.uk" target="_blank">Royal Exchange Theatre</a>, <a href="https://sickfestival.com" target="_blank">SICK! Festival</a>, <a href="https://stunlive.com" target="_blank">STUN</a>, <a href="https://thelowry.com" target="_blank">The Lowry</a>, <a href="https://watersidearts.org" target="_blank">Waterside Arts & Creative Industries Trafford</a>, and <a href="https://z-arts.org" target="_blank">Z-arts</a>;         
         
 • a Greater Manchester LGBTQ+ Arts and Culture Network member — an <a href="https://lgbt.foundation" target="_blank">LGBT Foundation</a> Project, supported using public funding by the National Lottery through Arts Council England, supporting cultural partners to become more inclusive and transform how they engage with LGBTQ+ audiences, participants, artists, and staff;        
          
