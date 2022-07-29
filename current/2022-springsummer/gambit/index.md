@@ -51,7 +51,7 @@ Performers: Alex Sadiki, Ben Moore, Chloe Kerr, Chrissy Jones, Daniel Ramscar, D
 Access Coordinator: Jenny Battle<br>Engagement & Social Media: Imogen Barton-Wells<br>Support Workers: Dan Nolan, Martin Sleight<br>Stewarding Team: Alison Whitehead, Amelia Ellis, Catherine Shaw, Jake Lewis, Nadia Bennett, Sam Dixon, Sam Stockdale        
         
 
-A [Hazard](/hab/hazard) commission and produced by [hÅb](/hab).<br>Special thanks to: Cross Street Chapel, HOME, Manchester Metropolitan University, MediaCity, Royal Exchange Theatre, Salford City Council, The Arden School of Theatre, University of Salford.         
+A [hÅb](/hab) [Hazard](/hab/hazard) commission; co-produced with Proud & Loud Arts.<br>Special thanks to: Cross Street Chapel, HOME, Manchester Metropolitan University, MediaCity, Royal Exchange Theatre, Salford City Council, The Arden School of Theatre, University of Salford.         
          
 #### Websites          
 <a href="https://proudandloudarts.com" target="_blank">proudandloudarts.com</a> · <a href="https://www.facebook.com/proudandloudarts" target="_blank">P&LA on Facebook</a> · <a href="https://www.instagram.com/proudandloudart" target="_blank">P&LA on Insta</a> · <a href="https://twitter.com/proudandloudart" target="_blank">@proudandloudart</a>        
