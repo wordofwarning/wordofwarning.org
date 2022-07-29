@@ -17,7 +17,7 @@ season: "Gambit 20|8|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [details](/current/2022-springsummer/gambit/#details) · [access](/current/2022-springsummer/gambit/#access) · [about](/current/2022-springsummer/gambit/#about) · [artists](/current/2022-springsummer/gambit/#artists) · [credits](/current/2022-springsummer/gambit/#credits) · [websites](/current/2022-springsummer/gambit/#websites)</span> · <small>Updated 28 July 2022</small>         
+<span style='font-variant: small-caps'>→ [details](/current/2022-springsummer/gambit/#details) · [access](/current/2022-springsummer/gambit/#access) · [about](/current/2022-springsummer/gambit/#about) · [artists](/current/2022-springsummer/gambit/#artists) · [credits](/current/2022-springsummer/gambit/#credits) · [websites](/current/2022-springsummer/gambit/#websites)</span> · <small>Updated 29 July 2022</small>         
          
 *Presented by* Word of Warning         
          
@@ -46,7 +46,12 @@ An extraordinary company of artists living with disability labels, <a href="http
 >*Proud & Loud Arts are leaders in the creation of disability-led theatre.*<br>&nbsp;— <a href="https://proudandloudarts.com/tag/the-lowry" target="_blank">Matthew Eames, The Lowry</a><br>*Empowers individuals and communicates a strong and inclusive message to society at large.*<br>&nbsp;— <a href="https://manchesterartgallery.org/?s=proud+loud+arts" target="_blank">Ronan Brindley, Manchester Art Gallery</a>        
        
 #### Credits        
-A [Hazard](/hab/hazard) commission by [hÅb](/hab).<br>Special thanks to Cross Street Chapel, HOME, Manchester Metropolitan University, Royal Exchange Theatre, Salford University, The Arden School of Theatre.         
+Performers: Alex Sadiki, Ben Moore, Chloe Kerr, Chrissy Jones, Daniel Ramscar, Danielle Maycox, Daryll Duncan, Janet Charlesworth, Kelly Hoye, Laura May Brunk, Michael Gleave, Nick Prince, Phillip Breadney, Poppy Maguire, Rhea Holmes, Sean Christie, Toby Taylor, Valeraia Lukianets<br>Director: Tom Hogan<br>Lead Artist: Susan Swanson        
+        
+Access Coordinator: Jenny Battle<br>Engagement & Social Media: Imogen Barton-Wells<br>Support Workers: Dan Nolan, Martin Sleight<br>Stewarding Team: Alison Whitehead, Amelia Ellis, Catherine Shaw, Jake Lewis, Nadia Bennett, Sam Dixon, Sam Stockdale        
+        
+
+A [Hazard](/hab/hazard) commission and produced by [hÅb](/hab).<br>Special thanks to: Cross Street Chapel, HOME, Manchester Metropolitan University, MediaCity, Royal Exchange Theatre, Salford City Council, The Arden School of Theatre, University of Salford.         
          
 #### Websites          
 <a href="https://proudandloudarts.com" target="_blank">proudandloudarts.com</a> · <a href="https://www.facebook.com/proudandloudarts" target="_blank">P&LA on Facebook</a> · <a href="https://www.instagram.com/proudandloudart" target="_blank">P&LA on Insta</a> · <a href="https://twitter.com/proudandloudart" target="_blank">@proudandloudart</a>        
