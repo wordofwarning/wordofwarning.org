@@ -28,9 +28,9 @@ A game of strategy comes to life, as human chess pieces invade Manchester City C
 Gambit — the act of tripping someone to make them fall…?        
         
 #### Details         
-FREE: aimed for you to encounter by chance in the city streets.<br>Times: Saturday 20 August 2022, *approximately* 12noon-12.45pm, 1.45pm-2.30pm, 3.30pm-4.15pm.<br>Location: <a href="https://www.creativetourist.com/venue/st-anns-square" target="_blank">St Ann's Square</a> + environs, Manchester City Centre, M2 7LF        
+FREE: aimed for you to encounter by chance in the city streets.<br>Times: Saturday 20 August 2022, *approx* 12-12.45pm, 1-2.30pm, 3.30-4.15pm.<br>Location: <a href="https://www.creativetourist.com/venue/st-anns-square" target="_blank">St Ann's Square</a> + environs, Manchester City Centre, M2 7LF        
          
-*You might also just catch a glimpse of a rehearsal if you happen to be around MMU Birley Campus in Hulme on Tuesday 16 August, or in MediaCity at Salford Quays on Thursday 18 August! (Previewing 2pm at the Piazza)*        
+*You might also catch a glimpse of a rehearsal if you happen to be around MMU Birley Campus in Hulme on Tuesday 16 August, or in MediaCity at Salford Quays on Thursday 18 August! See a Preview at 2pm in the Piazza.*        
          
 #### Access         
 Age Advisory: parental/guardian discretion.<br>Features: choreographed movement + playful intervention; no spoken language.<br>Queries: please email <mailto:info@habmcr.org>       
