@@ -38,7 +38,7 @@ Age Advisory: parental/guardian discretion.<br>Features: choreographed movement 
 #### About         
 >A gambit (from ancient Italian *gambetto*, the act of tripping someone with the leg to make them fall) is a chess opening in which a player makes sacrifices to achieve a subsequent positional advantage.<br>The word "gambit" is also sometimes used to describe similar tactics used by people in a struggle with rivals, for example "The early election was a risky gambit by Theresa May".        
 
-Following 2018's [*Shadow Girl — the city streets*](/archive/2018-springsummer/hazardshadowgirl), *Gambit* reunites Word of Warning with Proud & Loud Arts in a city centre takeover — this time questioning the nature of power, and who is playing who…       
+Following 2018's [*Shadow Girl — the city streets*](/archive/2018-springsummer/hazardshadowgirl), *Gambit* reunites Word of Warning with Proud & Loud Arts in a city centre takeover — this time questioning the nature of power, and who is playing who… It makes a bold positive statement about the post-pandemic visibility of disabled people.       
          
 #### Artists        
 An extraordinary company of artists living with disability labels, <a href="https://proudandloudarts.com" target="_blank">Proud & Loud Arts</a> believes excellence comes from diversity, complexity, and equality — with their work focused on challenging audiences, pushing artistic boundaries, and raising expectations. They've worked with major institutions including The Lowry, Manchester Art Gallery, Contact, and Tate — becoming Tate Liverpool Exchange Associates in 2018.       
