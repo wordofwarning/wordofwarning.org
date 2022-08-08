@@ -17,21 +17,18 @@ season: "Emergency 1|10|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [call-out](/current/2022-emergency/#call-out) · [about](/current/2022-emergency/#about) · [websites](/current/2022-emergency/#websites)</span> · <small>Updated 17 Jun 2022</small>     
+<span style='font-variant: small-caps'>→ [about](/current/2022-emergency/#about) · [websites](/current/2022-emergency/#websites)</span> · <small>Updated 8 Aug 2022</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
 Manchester’s twenty-second micro-marathon of the bizarre, the bold + the beautiful takes over <a href="http://contactmcr.com" target="_blank">Contact</a> on **Saturday 1 October** — with a daytime of performance installations, one-to-ones, and interventions, followed by an evening full of short shows.        
         
-The call for artist's proposals is now open — so if you would like to take part in what is *probably* England's longest running Live Art event, please read on…       
-        
-#### Call-out                
-Artists working in Live Art, contemporary performance, time-based media, and interdisciplinary arts are now invited to submit proposals; work can be in any relevant artform/medium, though some live presence is desirable.        
-        
-For full details and to apply please go to <a href="https://bit.ly/Emerg22" target="_blank">bit.ly/Emerg22</a>.<br>Proposal Deadline: Friday 5 August, 5pm.        
+The call for artist's proposals is now closed and we'll be in touch with all those who submitted shortly……       
         
 #### About         
-Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day every Autumn — we expect to present about 20 short works throughout <a href="http://contactmcr.com" target="_blank">Contact</a> at this 22nd edition on Saturday 1 October (timings tbc).        
+Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day every Autumn — we expect to present *about* 20 short works throughout <a href="http://contactmcr.com" target="_blank">Contact</a> at this 22nd edition on Saturday 1 October: a Pay What You Decide event with timings to be confirmed.        
+        
+*Probably* England’s longest running Live Art event, [Emergency](/hab/emergency) aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Emergency](/hab/worksahead) commissions to be produced by hÅb & Contact.        
         
 [Emergency](/hab/emergency) 22 produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.     
         
