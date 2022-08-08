@@ -16,18 +16,15 @@ season: "Emergency by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 23 Jun 2022</small>        
+<small>Updated 8 Aug 2022</small>        
         
 **Emergency** is our annual platform for Live Art and contemporary performance — offering a sneak preview of new live work over a single day in Manchester every Autumn and now resident at <a href="https://contactmcr.com" target="_blank">Contact</a>, its seventh home.        
          
 Manchester's [twenty-second micro-marathon](/current/2022-emergency) of the bizarre, the bold + the beautiful takes over Contact on **Saturday 1 October 2022** — with a daytime of performance installations, one-to-ones, and interventions, followed by an evening full of short shows.        
         
-The <a href="https://bit.ly/Emerg22" target="_blank">call for artist's proposals</a> is now open (and we expect to present about 20 short works throughout the building) — so if you would like to take part in what is *probably* England's longest running Live Art event, please read on…        
+We expect to present *about* 20 short works throughout the building — the <a href="https://bit.ly/Emerg22" target="_blank">call for artist's proposals</a> is now closed and we'll be in touch with all those who submitted shortly…        
         
-#### Emergency 22 Call-out       
-Artists working in Live Art, contemporary performance, time-based media, and interdisciplinary arts are now invited to submit proposals; work can be in any relevant artform/medium, though some live presence is desirable.        
-        
-For full details and to apply please go to <a href="https://bit.ly/Emerg22" target="_blank">bit.ly/Emerg22</a>.<br>**Proposal Deadline: Friday 5 August, 5pm.**        
+*Probably* England's longest running Live Art event, Emergency aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions to be produced by hÅb & Contact.        
         
 [Emergency 22](/current/2022-emergency) presented by [Word of Warning](/) + <a href="http://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.         
         
