@@ -21,13 +21,13 @@ season: "Emergency 1|10|2022"
         
 *Presented by* Word of Warning *+* Contact        
         
-Manchester’s twenty-second micro-marathon of the bizarre, the bold + the beautiful takes over <a href="http://contactmcr.com" target="_blank">Contact</a> on **Saturday 1 October** — with a daytime of performance installations, one-to-ones, and interventions, followed by an evening full of short shows.        
+Manchester’s twenty-second micro-marathon of the bizarre, the bold + the beautiful takes over <a href="http://contactmcr.com" target="_blank">Contact</a> on **Saturday 1 October** — with a daytime of performance installations, one-to-ones, and interventions — followed by an evening full of short shows.        
         
 #### Details         
-Free to access: just turn up (no need to book) and Pay What You Decide by cash or card<br>Time: Saturday 1 October 2022, 12noon-10pm (**tbc**).<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA         
+Just turn up: no need to book and Pay What You Decide by cash or card.<br>Time: Saturday 1 October 2022, 12noon-10pm **tbc**.<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA.         
         
 #### Access         
-Age Advisory: **tbc** (parental/guardian discretion)<br>Content Warnings: **tbc** (may disturb, see [here](/warnings) for specific warnings)<br>Features: Live Art + contemporary performance works with content **tbc**<br>Covid measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
+Age Advisory: **tbc** (parental/guardian discretion).<br>Content Warnings: **tbc** (may disturb, see [here](/warnings) for specific warnings).<br>Features: Live Art + contemporary performance works with content **tbc**.<br>Covid measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
          
 #### About         
 Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day every Autumn — we expect to present *about* 20 short works throughout <a href="http://contactmcr.com" target="_blank">Contact</a> at this 22nd edition; the call for artist's proposals is now closed and we'll be in touch with all those who submitted shortly…         
