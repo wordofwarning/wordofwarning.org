@@ -17,7 +17,7 @@ season: "Gambit 20|8|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [details](/current/2022-springsummer/gambit/#details) · [access](/current/2022-springsummer/gambit/#access) · [about](/current/2022-springsummer/gambit/#about) · [artists](/current/2022-springsummer/gambit/#artists) · [credits](/current/2022-springsummer/gambit/#credits) · [websites](/current/2022-springsummer/gambit/#websites)</span> · <small>Updated 15 Aug 2022</small>         
+<span style='font-variant: small-caps'>→ [details](/current/2022-springsummer/gambit/#details) · [access](/current/2022-springsummer/gambit/#access) · [about](/current/2022-springsummer/gambit/#about) · [artists](/current/2022-springsummer/gambit/#artists) · [credits](/current/2022-springsummer/gambit/#credits) · [websites](/current/2022-springsummer/gambit/#websites)</span> · <small>Updated 16 Aug 2022</small>         
          
 *Presented by* Word of Warning         
          
@@ -28,7 +28,7 @@ A game of strategy comes to life, as human chess pieces invade Manchester City C
 Gambit — the act of tripping someone to make them fall…?        
         
 #### Details         
-FREE: aimed for you to encounter by chance in the city streets.<br>Date: Saturday 20 August 2022<br>Times: *approximately* 12noon-12.45pm, 1.45pm-2.30pm, 3.30pm-4.15pm<br>Location: <a href="https://creativetourist.com/venue/st-anns-square" target="_blank">St Ann's Square</a> + environs, Manchester City Centre, M2 7LF        
+FREE: a playful intervention for you to encounter by chance in the city streets.<br>Date: Saturday 20 August 2022<br>Times: *approximately* Noon-12.45pm / 1.45-2.30pm / 3.30-4.15pm<br>Location: <a href="https://creativetourist.com/venue/st-anns-square" target="_blank">St Ann's Square</a> + environs, Manchester City Centre, M2 7LF        
          
 *You might also catch a glimpse of Gambit earlier in the week…<br>On Tuesday 16 August, around <a href="https://mmu.ac.uk/travel" target="_blank">MMU</a> Birley Campus in Hulme;<br>On Thursday 18 August, roaming around Salford Quays, with a 2pm Preview in the <a href="https://mediacityuk.co.uk/visit-us" target="_blank">MediaCity</a> Piazza.*         
          
@@ -48,7 +48,7 @@ An extraordinary company of artists living with disability labels, <a href="http
 #### Credits        
 Performers: Alex Saddiqi, Ben Moore, Chloe Kerr, Chrissy Jones, Daniel Ramscar, Danielle Maycox, Daryll Duncan, Janet Charlesworth, Kelly Hoye, Laura May Brunk, Michael Gleave, Nick Prince, Phillip Breadney, Poppy Maguire, Rhea Holmes, Sean Christie, Toby Taylor, Valeraia Lukianets<br>Director: Tom Hogan<br>Lead Artist: Susan Swanson        
         
-Access Coordinator: Jenny Battle<br>Engagement & Social Media: Imogen Barton-Wells<br>Support Workers: Dan Nolan, Martin Sleight<br>Stewarding Team: Alison Whitehead, Amelia Ellis, Catherine Shaw, Jake Lewis, Nadia Bennett, Sam Dixon, Sam Stockdale        
+Access Coordinator: Jenny Battle<br>Engagement & Social Media: Imogen Barton-Wells<br>Support Worker: Martin Sleight<br>Stewarding Team: Alison Whitehead, Amelia Ellis, Catherine Shaw, Jake Lewis, Nadia Bennett, Sam Dixon, Sam Stockdale, Stacey Potter        
         
 
 A [hÅb](/hab) [Hazard](/hab/hazard) commission; co-produced with Proud & Loud Arts.<br>Special thanks to: Cross Street Chapel, HOME, Manchester Metropolitan University, MediaCity, Royal Exchange Theatre, Salford City Council, The Arden School of Theatre, University of Salford.         
