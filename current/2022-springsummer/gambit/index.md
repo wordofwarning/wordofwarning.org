@@ -17,7 +17,7 @@ season: "Gambit 20|8|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [details](/current/2022-springsummer/gambit/#details) · [access](/current/2022-springsummer/gambit/#access) · [about](/current/2022-springsummer/gambit/#about) · [artists](/current/2022-springsummer/gambit/#artists) · [credits](/current/2022-springsummer/gambit/#credits) · [websites](/current/2022-springsummer/gambit/#websites)</span> · <small>Updated 16 Aug 2022</small>         
+<span style='font-variant: small-caps'>→ [details](/current/2022-springsummer/gambit/#details) · [access](/current/2022-springsummer/gambit/#access) · [about](/current/2022-springsummer/gambit/#about) · [artists](/current/2022-springsummer/gambit/#artists) · [credits](/current/2022-springsummer/gambit/#credits) · [websites](/current/2022-springsummer/gambit/#websites)</span> · <small>Updated 17 Aug 2022</small>         
          
 *Presented by* Word of Warning         
          
@@ -48,7 +48,7 @@ An extraordinary company of artists living with disability labels, <a href="http
 #### Credits        
 Performers: Alex Saddiqi, Ben Moore, Chloe Kerr, Chrissy Jones, Daniel Ramscar, Danielle Maycox, Daryll Duncan, Janet Charlesworth, Kelly Hoye, Laura May Brunk, Michael Gleave, Nick Prince, Phillip Breadney, Poppy Maguire, Rhea Holmes, Sean Christie, Toby Taylor, Valeraia Lukianets<br>Director: Tom Hogan<br>Lead Artist: Susan Swanson        
         
-Access Coordinator: Jenny Battle<br>Engagement & Social Media: Imogen Barton-Wells<br>Support Worker: Martin Sleight<br>Stewarding Team: Alison Whitehead, Amelia Ellis, Catherine Shaw, Jake Lewis, Nadia Bennett, Sam Dixon, Sam Stockdale, Stacey Potter        
+Access Coordinator: Jenny Battle<br>Engagement & Social Media: Imogen Barton-Wells<br>Support Workers: Jemma Rayner, Martin Sleight<br>Stewarding Team: Alison Whitehead, Amelia Ellis, Catherine Shaw, Jake Lewis, Nadia Bennett, Sam Dixon, Sam Stockdale, Stacey Potter        
         
 
 A [hÅb](/hab) [Hazard](/hab/hazard) commission; co-produced with Proud & Loud Arts.<br>Special thanks to: Cross Street Chapel, HOME, Manchester Metropolitan University, MediaCity, Royal Exchange Theatre, Salford City Council, The Arden School of Theatre, University of Salford.         
