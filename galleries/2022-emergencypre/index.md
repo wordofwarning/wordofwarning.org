@@ -13,11 +13,10 @@ more_url: "../../current/2022-emergency/"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "A day out for the curious at Contact, Sat 1 Oct 2022", show: "<small>Tania Camara</small>"}
-    -   {file: "Bitterroots.jpg", artist: "Bitterroot"}
+    -   {file: "Bitterroot.jpg", artist: "Bitterroot"}
     -   {file: "Bold_Mellon.jpg", artist: "Bold Mellon"} 
     -   {file: "Charlotte_McShane.jpg", artist: "Charlotte McShane"} 
     -   {file: "Clodagh_James.jpg", artist: "Clodagh Chapman + James Varney"} 
-    -   {file: "janet_charlesworth.jpg", artist: "Janet Charlesworth"}
     -   {file: "DNA_studio.jpg", artist: "DNA Studio"}
     -   {file: "Jian_Yi.jpg", artist: "Jian Yi"}
     -   {file: "Julie_Burrow.jpg", artist: "Julie Burrow"}
