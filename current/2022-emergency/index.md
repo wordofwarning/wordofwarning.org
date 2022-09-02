@@ -17,20 +17,20 @@ season: "Emergency 1|10|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2022-emergency/#artists) · [details](/current/2022-emergency/#details) · [access](/current/2022-emergency/#access) · [about](/current/2022-emergency/#about) · [websites](/current/2022-emergency/#websites)</span> · <small>Updated 2 Sep 2022, 11am</small>     
+<span style='font-variant: small-caps'>→ [artists](/current/2022-emergency/#artists) · [details](/current/2022-emergency/#details) · [access](/current/2022-emergency/#access) · [about](/current/2022-emergency/#about) · [websites](/current/2022-emergency/#websites)</span> · <small>Updated 2 Sep 2022, 11.05am</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
 Manchester’s twenty-second micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="http://contactmcr.com" target="_blank">Contact</a> on **Saturday 1 October** — with a daytime of performance installations, one-to-ones, and interventions from Noon — followed by an evening full of short shows from 5pm.        
         
 #### Artists         
-Bitterroot · Bold Mellon Collective · Charlotte McShane · Christian Asare · Clodagh Chapman & James Varney · DNA Studio · Emergency Chorus · Hazel Lam · Jian Yi · Josh Coates & Alicia Jane Turner · Julie Burrow · kane stonestreet · Kellie Colbert · Kerensa Diball · leon clowes · Malandra Jacks Creative · Maya Chowdhry · Nathan Walker · Nicky Murmann · Ran · Sweætshops<sup>®</sup> · Tania Camara · Ursula Troche<br>*Participating artists subject to change.*         
+Bitterroot · Bold Mellon Collective · Charlotte McShane · Christian Asare · Clodagh Chapman & James Varney · DNA Studio · Emergency Chorus · Hazel Lam · Jian Yi · Josh Coates & Alicia Jane Turner · Julie Burrow · kane stonestreet · Kellie Colbert · Kerensa Diball · leon clowes · Malandra Jacks Creative · Maya Chowdhry · Nathan Walker · Nicky Murmann · Ran · Sweætshops<sup><small>®</small></sup> · Tania Camara · Ursula Troche<br><small>*Participating artists subject to change.*</small>         
           
 #### Details         
-Just turn up: no need to book and Pay What You Decide by cash or card.<br>Times: Saturday 1 October 2022, daytime Noon-5pm + evening 5pm-10pm.<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA.         
+Just turn up: no need to book and Pay What You Decide by cash or card.<br>Times: Saturday 1 October 2022, daytime Noon-5pm + evening 5-10pm.<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA.         
         
 #### Access         
-Age Advisory: **16+** (parental/guardian discretion).<br>Content Warnings: **tbc** (may disturb, see [here](/warnings) for specific warnings).<br>Features: Live Art + contemporary performance works with content **tbc**.<br>Covid measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
+Age Advisory: **16+** (parental/guardian discretion).<br>Content Warnings: **tbc** (may disturb, see [here](/warnings) for specific warnings).<br>Features: Live Art + contemporary performance works with varied content.<br>Covid measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
          
 #### About         
 Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day every Autumn — this 22nd edition presents 23 short works throughout <a href="http://contactmcr.com" target="_blank">Contact</a>, with the schedule to be announced in mid-September…       
