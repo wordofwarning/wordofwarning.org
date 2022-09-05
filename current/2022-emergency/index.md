@@ -17,11 +17,11 @@ season: "Emergency 1|10|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2022-emergency/#artists) · [details](/current/2022-emergency/#details) · [access](/current/2022-emergency/#access) · [about](/current/2022-emergency/#about) · [websites](/current/2022-emergency/#websites)</span> · <small>Updated 2 Sep 2022, 11.05am</small>     
+<span style='font-variant: small-caps'>→ [artists](/current/2022-emergency/#artists) · [details](/current/2022-emergency/#details) · [access](/current/2022-emergency/#access) · [about](/current/2022-emergency/#about) · [websites](/current/2022-emergency/#websites)</span> · <small>Updated 5 Sep 2022</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
-Manchester’s twenty-second micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="http://contactmcr.com" target="_blank">Contact</a> on **Saturday 1 October** — with a daytime of performance installations, one-to-ones, and interventions from Noon — followed by an evening full of short shows from 5pm.        
+Manchester’s twenty-second micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="http://contactmcr.com" target="_blank">Contact</a> on **Saturday 1 October** — with a daytime of performance installations, one-to-ones, and interventions from Noon — followed by an evening full of short shows from 5pm. See artist's images [here](/galleries/2022-emergencypre).       
         
 #### Artists         
 Bitterroot · Bold Mellon Collective · Charlotte McShane · Christian Asare · Clodagh Chapman & James Varney · DNA Studio · Emergency Chorus · Hazel Lam · Jian Yi · Josh Coates & Alicia Jane Turner · Julie Burrow · kane stonestreet · Kellie Colbert · Kerensa Diball · leon clowes · Malandra Jacks Creative · Maya Chowdhry · Nathan Walker · Nicky Murmann · Ran · Sweætshops<sup><small>®</small></sup> · Tania Camara · Ursula Troche<br><small>*Participating artists subject to change.*</small>         
