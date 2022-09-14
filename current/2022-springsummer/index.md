@@ -3,24 +3,24 @@
 layout: 2022-springsummer
 rootpath: "../../"
 
-artist: "Spring/Summer 2022" # the name of the artist or company
+artist: "2022" # the name of the artist or company
 artist_size: 1
-season: "Performance Programme Spring/Summer 2022"
+season: "Performance Programme 2022"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2022-springsummer/#about) · [audiences](/current/2022-springsummer/#audiences) · [by](/current/2022-springsummer/#by) · [people](/current/2022-springsummer/#people) · [warnings](/current/2022-springsummer/#warnings)</span> · <small>Updated 2 Sep 2022</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2022-springsummer/#about) · [audiences](/current/2022-springsummer/#audiences) · [by](/current/2022-springsummer/#by) · [people](/current/2022-springsummer/#people) · [warnings](/current/2022-springsummer/#warnings)</span> · <small>Updated 14 Sep 2022</small>        
          
-*Spring began with [Dead Cats](/current/2022-springsummer/proto-type) at The Lowry, followed by [three Works Ahead](/current/2022-worksahead) at Contact — Summer continued with a [Gambit](/current/2022-springsummer/gambit) in Manchester's City Centre — and Autumn sees [Emergency 22](/current/2022-emergency) take over Contact on Saturday 1 October…*         
+*Spring began with [Dead Cats](/current/2022-springsummer/proto-type) at The Lowry, followed by [three Works Ahead](/current/2022-worksahead) at Contact — Summer continued with a [Gambit](/current/2022-springsummer/gambit) in Manchester's City Centre — and Autumn sees [Emergency 22](/current/2022-emergency) take over Contact on Saturday 1 October*         
          
-Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more performance live and online in Manchester + beyond — and <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
+Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more performance live and online in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
-Visit our <a href="https://youtube.com/c/WordofWarning" target="_blank">YouTube channel</a> to watch archived livestreamsd and more — and find further information for both audiences and artists on our [News](/news) page.         
+Visit our <a href="https://youtube.com/c/WordofWarning" target="_blank">YouTube channel</a> to watch archived livestreams and more.<br>Find further information for both audiences and artists on our [News](/news) page.         
         
 Discover what happened last year in our [AW21 archive](/archive/2021-autumnwinter) — and please <a href="http://bit.ly/warnmcrfeedback" target="_blank">share your thoughts</a> with us if you've been to any of our events or watched a livestream.        
 <small><span style='font-variant: small-caps'>[back to top](/current/2022-springsummer)</span></small>        
         
 #### About         
-Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful, and the bizarre of new live performance — an attempt to keep alive the best of greenroom's 25-year legacy, and to also introduce new people to the possibilities of seeing live work in Manchester and beyond, including livestreams & other online work…          
+Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful, and the bizarre of new live performance — an attempt to keep alive the best of greenroom's 25-year legacy, and to also introduce new people to the possibilities of seeing live work in Manchester + beyond, including livestreams + more online…          
 >*If you haven’t attended one of these performance evenings yet, WTF are you doing? Go and see the stimulating new work that's out there!*<br>&nbsp;— <a href="http://number9reviews.blogspot.com/2019/11/theatre-review-tom-cassani-i-promise.html" target="_blank">Number 9 Reviews on WTF Wednesdays (November 2019)</a>        
       
 We take live work very seriously — but we don't take ourselves seriously at all. Over the past decade we've shown funny, thought-provoking, and beautiful work by the likes of Ron Athey, Harry Clayton-Wright, Chanje Kunda, Stacy Makishi, Pinchbeck & Smith, Darren Pritchard, Proto-type Theater, and Proud & Loud Arts (amongst others).         
@@ -33,12 +33,12 @@ We don't want to put you off by talking art form labels — yes, there'll be the
 <small><span style='font-variant: small-caps'>[back to top](/current/2022-springsummer)</span></small>        
         
 #### By         
-Word of Warning is a project by Manchester-based [hÅb](/hab) — you might not have heard of us though you may know some of our events, like [Emergency](http://emergencymcr.org), [Haphazard](http://haphazardmcr.org), or [Hazard](http://hazardmcr.org). Read our recent interview with <a href="https://circlesandstalls.com/2021/09/17/an-interview-with-word-of-warnings-tamsin-drury" target="_blank">Circles & Stalls</a>.         
+Word of Warning is a project by Manchester-based [hÅb](/hab) — you might not have heard of us though you may know some of our events, like [Emergency](http://emergencymcr.org), [Haphazard](http://haphazardmcr.org), or [Hazard](http://hazardmcr.org). Read last year's interview with <a href="https://circlesandstalls.com/2021/09/17/an-interview-with-word-of-warnings-tamsin-drury" target="_blank">Circles & Stalls</a>.         
           
-hÅb produces, develops, and advocates for Live Art, contemporary performance, and sited work in the North of England. We're supported using public funding by <a href="http://artscouncil.org.uk/our-investment/national-portfolio-2018-22" target="_blank">Arts Council England</a>; a core <a href="http://divergencymcr.org" target="_blank">Divergency</a> partner alongside STUN — encouraging diversity in live art; a <a href="http://gm-artisthub.co.uk" target="_blank">Greater Manchester Artist Hub</a> partner; a GM LGBTQ+ Arts and Culture Network member; a <a href="http://liveartuk.org" target="_blank">Live Art UK</a> member; a <a href="http://manchesterindependents.co.uk" target="_blank">Manchester Independents</a> partner — supporting and spotlighting GM artists.         
+hÅb produces, develops, and advocates for Live Art, contemporary performance, and sited work in the North of England. We're supported using public funding by <a href="http://artscouncil.org.uk/our-investment/national-portfolio-2018-22" target="_blank">Arts Council England</a>; a core <a href="http://divergencymcr.org" target="_blank">Divergency</a> partner alongside STUN — encouraging diversity in live art; a <a href="http://gm-artisthub.co.uk" target="_blank">Greater Manchester Artist Hub</a> partner; a GM LGBTQ+ Arts and Culture Network member; a <a href="http://liveartuk.org" target="_blank">Live Art UK</a> member; a <a href="https://manchesterindependents.org" target="_blank">Manchester Independents</a> partner — supporting and spotlighting GM artists.         
 >*Refreshing company that brings diverse shows to our door steps.*<br>*WoW are great, supporting emerging work and bringing it to new audiences.*<br>*Wonderful, daring performances that I have never been disappointed by.<br>A needed company in Manchester, feels like they really support artists.*<br>&nbsp;— Audience feedback         
          
-SS22 is brought to you by hÅb, with Contact + The Lowry.        
+SS/AW22 is brought to you by hÅb, with Contact + The Lowry.        
 <small><span style='font-variant: small-caps'>[back to top](/current/2022-springsummer)</span></small>        
          
 #### People        
