@@ -10,9 +10,9 @@ season: "Performance Programme 2022"
 ---
 <span style='font-variant: small-caps'>→ [about](/current/2022-springsummer/#about) · [audiences](/current/2022-springsummer/#audiences) · [by](/current/2022-springsummer/#by) · [people](/current/2022-springsummer/#people) · [warnings](/current/2022-springsummer/#warnings)</span> · <small>Updated 14 Sep 2022</small>        
          
-*Spring began with [Dead Cats](/current/2022-springsummer/proto-type) at The Lowry, followed by [three Works Ahead](/current/2022-worksahead) at Contact — Summer continued with a [Gambit](/current/2022-springsummer/gambit) in Manchester's City Centre — and Autumn sees [Emergency 22](/current/2022-emergency) take over Contact on Saturday 1 October*         
+*Spring began with [Dead Cats](/current/2022-springsummer/proto-type) at The Lowry, followed by [three Works Ahead](/current/2022-worksahead) at Contact — Summer continued with a [Gambit](/current/2022-springsummer/gambit) in Manchester's City Centre — and Autumn sees [Emergency 22](/current/2022-emergency) take over Contact on Saturday 1 October.*         
          
-Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more performance live and online in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
+Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
 Visit our <a href="https://youtube.com/c/WordofWarning" target="_blank">YouTube channel</a> to watch archived livestreams and more.<br>Find further information for both audiences and artists on our [News](/news) page.         
         
@@ -20,7 +20,7 @@ Discover what happened last year in our [AW21 archive](/archive/2021-autumnwinte
 <small><span style='font-variant: small-caps'>[back to top](/current/2022-springsummer)</span></small>        
         
 #### About         
-Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful, and the bizarre of new live performance — an attempt to keep alive the best of greenroom's 25-year legacy, and to also introduce new people to the possibilities of seeing live work in Manchester + beyond, including livestreams + more online…          
+Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful, and the bizarre of new live performance — an attempt to keep alive the best of greenroom's 25-year legacy, and to also introduce new people to the possibilities of seeing live work in Manchester + beyond, including livestreams and more online…          
 >*If you haven’t attended one of these performance evenings yet, WTF are you doing? Go and see the stimulating new work that's out there!*<br>&nbsp;— <a href="http://number9reviews.blogspot.com/2019/11/theatre-review-tom-cassani-i-promise.html" target="_blank">Number 9 Reviews on WTF Wednesdays (November 2019)</a>        
       
 We take live work very seriously — but we don't take ourselves seriously at all. Over the past decade we've shown funny, thought-provoking, and beautiful work by the likes of Ron Athey, Harry Clayton-Wright, Chanje Kunda, Stacy Makishi, Pinchbeck & Smith, Darren Pritchard, Proto-type Theater, and Proud & Loud Arts (amongst others).         
