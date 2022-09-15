@@ -19,6 +19,7 @@ gallery:
     -   {file: "Clodagh_James.jpg", artist: "Clodagh Chapman & James Varney"} 
     -   {file: "DNA_studio.jpg", artist: "DNA Studio"}
     -   {file: "Jian_Yi.jpg", artist: "Jian Yi"}
+    -   {file: "Josh_Coates_Alicia_Turner.jpg", artist: "Josh Coates + Alicia Turner"}
     -   {file: "Julie_Burrow.jpg", artist: "Julie Burrow"}
     -   {file: "kane_stonestreet.jpg", artist: "kane stonestreet"}
     -   {file: "Kerensa_Diball.jpg", artist: "Kerensa Diball"}
