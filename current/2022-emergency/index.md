@@ -17,20 +17,20 @@ season: "Emergency 1|10|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2022-emergency/#artists) · [details](/current/2022-emergency/#details) · [access](/current/2022-emergency/#access) · [about](/current/2022-emergency/#about) · [websites](/current/2022-emergency/#websites)</span> · <small>Updated 14 Sep 2022</small>     
+<span style='font-variant: small-caps'>→ [artists](/current/2022-emergency/#artists) · [details](/current/2022-emergency/#details) · [access](/current/2022-emergency/#access) · [about](/current/2022-emergency/#about) · [websites](/current/2022-emergency/#websites)</span> · <small>Updated 21 Sep 2022</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
 Manchester’s twenty-second micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="http://contactmcr.com" target="_blank">Contact</a> on **Saturday 1 October** — with a Daytime of performance installations, one-to-ones, and interventions from Noon — followed by an Evening full of short shows from 5pm. See artist's images [here](/galleries/2022-emergencypre).       
         
 #### Artists         
-**Daytime, Noon-5pm** · Charlotte McShane · Clodagh Chapman & James Varney · Hazel Lam · Julie Burrow · kane stonestreet · leon clowes · Malandra Jacks Creative · Maya Chowdhry · Nathan Walker · Nicky Murmann · Ran · Sweætshops<sup><small>®</small></sup> · Tania Camara · Ursula Troche<br>**Evening, 5-10pm** · Bitterroot · Bold Mellon Collective · Christian Asare · DNA Studio · Emergency Chorus · Jian Yi · Josh Coates & Alicia Jane Turner · Kellie Colbert · Kerensa Diball<br><small>*Participating artists subject to change.*</small>         
+**Daytime, Noon-5pm** · Charlotte McShane · Clodagh Chapman & James Varney · Hazel Lam · Julie Burrow · kane stonestreet · leon clowes · Malandra Jacks Creative · Maya Chowdhry · Nathan Walker · Nicky Murmann · Ran · Sweætshops® · Tania Camara · Ursula Troche<br>**Evening, 5pm-10pm** · Bitterroot · Bold Mellon Collective · Christian Asare · DNA Studio · Emergency Chorus · Jian Yi · Josh Coates & Alicia Jane Turner · Kellie Colbert · Kerensa Diball<br><small>*Participating artists subject to change.*</small>         
           
 #### Details         
-Entry: no need to book, just turn up and Pay What You Decide by cash or card.<br>*NB* some works have limited capacity on a first-come first-served basis.<br>Times: Saturday 1 October 2022 · Daytime, Noon-5pm · Evening, 5-10pm<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA         
+Entry: no need to book, just turn up and Pay What You Decide by cash or card.<br>*NB* some works have limited capacity on a first-come first-served basis.<br>Times: Saturday 1 October 2022 · Daytime, Noon-5pm · Evening, 5pm-10pm<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA         
         
 #### Access         
-Age Advisory: **16+** (parental/guardian discretion).<br>Content Warnings: **tbc** (may disturb, see [here](/warnings) for specific warnings).<br>Features: Live Art + contemporary performance works with varied content.<br>Covid measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
+Age Advisory: **16+** (parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: Live Art + contemporary performance works with varied content.<br>Covid measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
          
 #### About         
 Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day every Autumn — this 22nd edition presents 23 short works throughout <a href="http://contactmcr.com" target="_blank">Contact</a>'s spaces.       
@@ -40,5 +40,5 @@ Our annual platform for Live Art and contemporary performance, [Emergency](/hab/
 [Emergency](/hab/emergency) 22 produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.     
         
 #### Websites         
-<a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> · <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>                
+<a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> · <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a><br> ·               
 <small><span style='font-variant: small-caps'>[back to top](/current/2022-emergency)</span></small>
