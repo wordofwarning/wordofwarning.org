@@ -5,11 +5,11 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency 22" # the name of the artist or company
-show: "Daytime Programme, Noon-5pm" # the name of the show
+show: "Evening Programme, 5pm-10pm" # the name of the show
 artist_size: 1
 show_size: 4
 header_image:  
-season: "Emergency Daytime 1|10|2022, Noon-5pm"
+season: "Emergency Evening 1|10|2022, 5pm-10pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -19,11 +19,11 @@ season: "Emergency Daytime 1|10|2022, Noon-5pm"
 ---
 <small>Updated 21 Sep 2022</small>     
         
-*Presented by* Word of Warning *+* Contact *in the first half of [Emergency 22](/current/2022-emergency) — a Daytime of performance installations, one-to-ones, and interventions from Noon to 5pm on Saturday 1 October.*        
+*Presented by* Word of Warning *+* Contact *in the second half of [Emergency 22](/current/2022-emergency) — an Evening full of short shows from 5pm to 10pm on Saturday 1 October.*        
          
-#### Daytime Schedule         
-**Noon-1.30pm** Julie Burrow · **Noon-1.40pm** Ursula Troche · **Noon-2pm** Hazel Lam · **Noon-2pm** Tania Camara · **Noon-3pm** kane stonestreet · **Noon-5pm** Clodagh Chapman & James Varney · **Noon-5pm** Malandra Jacks Creative · **Noon-5pm**  Maya Chowdhry · **Noon-5pm** Nicky Murmann · **Noon-5pm** Sweætshops® · **2.30pm** Charlotte McShane · **3pm** Ran · **3pm-5pm** leon clowes · **3pm-5pm** Nathan Walker<br><small>*Timings & Participating artists subject to change.*</small>         
+#### Evening Schedule         
+**5pm** DNA Studio · **5.30pm** Jian Yi · **6pm** Kerensa Diball · **6.30pm** Christian Asare · **7pm** Bold Mellon Collective · **7.30pm** *Interval* · **8pm** Emergency Chorus · **8.30pm** Josh Coates & Alicia Jane Turner · **9pm** Kellie Colbert · **9.30pm** Bitterroot<br><small>*Timings & Participating artists subject to change.*</small>         
          
-#### Daytime Programme Notes        
+#### Evening Programme Notes        
 *To follow…*              
-<small><span style='font-variant: small-caps'>[back to top](/current/2022-emergency)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/current/2022-emergency/evening)</span></small>
