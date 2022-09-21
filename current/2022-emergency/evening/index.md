@@ -22,7 +22,7 @@ season: "Emergency Evening 1|10|2022, 5pm-10pm"
 *Presented by* Word of Warning *+* Contact *in the second half of [Emergency 22](/current/2022-emergency) — an Evening full of short shows from 5pm to 10pm on Saturday 1 October.*        
          
 #### Evening Schedule         
-**5pm** DNA Studio · **5.30pm** Jian Yi · **6pm** Kerensa Diball · **6.30pm** Christian Asare · **7pm** Bold Mellon Collective · **7.30pm** *Interval* · **8pm** Emergency Chorus · **8.30pm** Josh Coates & Alicia Jane Turner · **9pm** Kellie Colbert · **9.30pm** Bitterroot<br><small>*Timings & Participating artists subject to change.*</small>         
+**5pm** DNA Studio · **5.30pm** Jian Yi · **6pm** Kerensa Diball · **6.30pm** Christian Asare · **7pm** Bold Mellon Collective · **7.30pm** *Interval* · **8pm** Emergency Chorus · **8.30pm** Josh Coates & Alicia Jane Turner · **9pm** Kellie Colbert · **9.30pm** Bitterroot<br><small>*Timings and participating artists subject to change.*</small>         
          
 #### Evening Programme Notes        
 *To follow…*              
