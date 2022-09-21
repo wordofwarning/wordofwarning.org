@@ -17,13 +17,13 @@ season: "Emergency Daytime 1|10|2022, Noon-5pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [schedule](/current/2022-emergency/daytime/#schedule) · [programme](/current/2022-emergency/daytime/#programme) <small>Updated 21 Sep 2022</small>     
+<small>Updated 21 Sep 2022</small>     
         
-*Presented by* Word of Warning *+* Contact in [Emergency 22](/current/2022-emergency) as a Daytime of performance installations, one-to-ones, and interventions from Noon to 5pm.        
+*Presented by* Word of Warning *+* Contact *in the first half of [Emergency 22](/current/2022-emergency) — a Daytime of performance installations, one-to-ones, and interventions from Noon to 5pm.*        
          
-#### Schedule         
+#### Daytime Schedule         
 **Noon-1.30pm** Julie Burrow · **Noon-1.40pm** Ursula Troche · **Noon-2pm** Hazel Lam · **Noon-2pm** Tania Camara · **Noon-3pm** kane stonestreet · **Noon-5pm** Clodagh Chapman & James Varney · **Noon-5pm** Malandra Jacks Creative · **Noon-5pm**  Maya Chowdhry · **Noon-5pm** Nicky Murmann · **Noon-5pm** Sweætshops® · **2.30pm** Charlotte McShane · **3pm** Ran · **3pm-5pm** leon clowes · **3pm-5pm** Nathan Walker<br><small>*Timings & Participating artists subject to change.*</small>         
          
-#### Programme         
-              
+#### Daytime Programme Notes        
+**Noon-1.30pm** Julie Burrow · **Noon-1.40pm** Ursula Troche · **Noon-2pm** Hazel Lam · **Noon-2pm** Tania Camara · **Noon-3pm** kane stonestreet · **Noon-5pm** Clodagh Chapman & James Varney · **Noon-5pm** Malandra Jacks Creative · **Noon-5pm**  Maya Chowdhry · **Noon-5pm** Nicky Murmann · **Noon-5pm** Sweætshops® · **2.30pm** Charlotte McShane · **3pm** Ran · **3pm-5pm** leon clowes · **3pm-5pm** Nathan Walker              
 <small><span style='font-variant: small-caps'>[back to top](/current/2022-emergency)</span></small>
