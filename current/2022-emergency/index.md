@@ -17,14 +17,14 @@ season: "Emergency 1|10|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2022-emergency/#artists) · [details](/current/2022-emergency/#details) · [access](/current/2022-emergency/#access) · [about](/current/2022-emergency/#about) · [websites](/current/2022-emergency/#websites)</span> · <small>Updated 21 Sep 2022</small>     
+<span style='font-variant: small-caps'>→ [artists](/current/2022-emergency/#artists) · [details](/current/2022-emergency/#details) · [access](/current/2022-emergency/#access) · [about](/current/2022-emergency/#about) · [websites](/current/2022-emergency/#websites)</span> · <small>Updated 22 Sep 2022</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
-Manchester’s twenty-second micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="http://contactmcr.com" target="_blank">Contact</a> on **Saturday 1 October** — with a Daytime of performance installations, one-to-ones, and interventions from Noon — followed by an Evening full of short shows from 5pm. See artist's images [here](/galleries/2022-emergencypre).       
+Manchester’s twenty-second micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="http://contactmcr.com" target="_blank">Contact</a> on **Saturday 1 October** — with a [Daytime](/current/2022-emergency/daytime) of performance installations, one-to-ones, and interventions from Noon — followed by an [Evening](/current/2022-emergency/evening) full of short shows from 5pm. See artist's images [here](/galleries/2022-emergencypre).       
         
 #### Artists         
-**Daytime, Noon-5pm** · Charlotte McShane · Clodagh Chapman & James Varney · Hazel Lam · Julie Burrow · kane stonestreet · leon clowes · Malandra Jacks Creative · Maya Chowdhry · Nathan Walker · Nicky Murmann · Ran · Sweætshops® · Tania Camara · Ursula Troche<br>**Evening, 5pm-10pm** · Bitterroot · Bold Mellon Collective · Christian Asare · DNA Studio · Emergency Chorus · Jian Yi · Josh Coates & Alicia Jane Turner · Kellie Colbert · Kerensa Diball<br><small>*Participating artists subject to change.*</small>         
+[**Daytime Programme, Noon-5pm**](/current/2022-emergency/daytime) · Charlotte McShane · Clodagh Chapman & James Varney · Hazel Lam · Julie Burrow · kane stonestreet · leon clowes · Malandra Jacks Creative · Maya Chowdhry · Nathan Walker · Nicky Murmann · Ran · Sweætshops® · Tania Camara · Ursula Troche<br>[**Evening Programme, 5pm-10pm**](/current/2022-emergency/evening) · Bitterroot · Bold Mellon Collective · Christian Asare · DNA Studio · Emergency Chorus · Jian Yi · Josh Coates & Alicia Jane Turner · Kellie Colbert · Kerensa Diball<br><small>*Participating artists subject to change.*</small>         
           
 #### Details         
 Entry: no need to book, just turn up and Pay What You Decide by cash or card.<br>*NB* some works have limited capacity on a first-come first-served basis.<br>Times: Saturday 1 October 2022 · Daytime, Noon-5pm · Evening, 5pm-10pm<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA         
