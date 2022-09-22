@@ -17,7 +17,7 @@ season: "Emergency Daytime 1|10|2022, Noon-5pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 21 Sep 2022</small>     
+<small>Updated 22 Sep 2022</small>     
         
 *Presented by* Word of Warning *+* Contact *in the first half of [Emergency 22](/current/2022-emergency) — a Daytime of performance installations, one-to-ones, and interventions from Noon to 5pm on Saturday 1 October.*        
          
@@ -25,5 +25,7 @@ season: "Emergency Daytime 1|10|2022, Noon-5pm"
 **Noon-1.30pm** Julie Burrow · **Noon-1.40pm** Ursula Troche · **Noon-2pm** Hazel Lam · **Noon-2pm** Tania Camara · **Noon-3pm** kane stonestreet · **Noon-5pm** Clodagh Chapman & James Varney · **Noon-5pm** Malandra Jacks Creative · **Noon-5pm**  Maya Chowdhry · **Noon-5pm** Nicky Murmann · **Noon-5pm** Sweætshops® · **2.30pm-3pm** Charlotte McShane · **3pm** Ran · **3pm-5pm** leon clowes · **3pm-5pm** Nathan Walker<br><small>*Timings and participating artists subject to change.*</small>         
          
 #### Daytime Programme Notes        
-*To follow…*              
+Age Advisory: **16+** (parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).        
+<hr>          
+
 <small><span style='font-variant: small-caps'>[back to top](/current/2022-emergency/daytime)</span></small>
