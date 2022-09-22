@@ -76,7 +76,9 @@ kane stonestreet is known as a cryer, a lover, and a pure spiral. Through their 
          
 There are more ghosts among us than you might expect. We have assembled a small collection and invite you to meet and trade your own. Bring your interesting and unwanted objects, and we will adopt them and help you discover the ghosts within.          
         
-Clodagh Chapman is a Manchester-based theatre maker and filmmaker. Her work for stage includes *Butterfly* (VAULT Festival), plus projects with Camden People's Theatre and Barrel Organ. Her work explores queerness, history, and authorship.<br>James Varney is a Manchester-based writer and theatre maker, making work about cities with, and for, the people who live in them. He has delivered work for Royal Exchange Theatre, Manchester International Festival, Manchester Literature Festival, and currently for Contact’s Future Fires.        
+Clodagh Chapman is a Manchester-based theatre maker and filmmaker. Her work for stage includes *Butterfly* (VAULT Festival), plus projects with Camden People's Theatre and Barrel Organ. Her work explores queerness, history, and authorship.         
+        
+James Varney is a Manchester-based writer and theatre maker, making work about cities with, and for, the people who live in them. He has delivered work for Royal Exchange Theatre, Manchester International Festival, Manchester Literature Festival, and currently for Contact’s Future Fires.        
          
 <a href="https://clodaghchapman.co.uk" target="_blank">clodaghchapman.co.uk</a> · <a href="https://instagram.com/clochpmn" target="_blank">Instagram</a> · <a href="https://twitter.com/CloChpmn" target="_blank">Twitter</a> <br><a href="http://jamesvarney.squadsite.uk" target="_blank">jamesvarney.squadsite.uk</a> · <a href="https://instagram.com/mrjvarney" target="_blank">Instagram</a> · <a href="https://twitter.com/mrjvarney" target="_blank">Twitter</a>         
 <hr>         
@@ -102,7 +104,7 @@ Maya Chowdhry is a multidisciplinary artist creating with Live Art and installat
         
 In a coloured children's playhouse you are invited to share with me — and I with you — about our childhood, through memories, through one or a few chosen subjects, printed on cards.<br>To thank you to share your stories or to listen to mine, you will receive a party bag when you leave.        
         
-Nicky Murmann is a Leeds-based artist working individually and collaboratively on projects (DISrupt and Queerology collectives). They create safe environments in private, public, or art spaces in order to facilitate conversations and storytelling. Their working process combines a variety of media — including text, sound, and visual material — to produce performances, sound pieces, or videos.         
+Nicky Murmann is a Leeds-based artist working individually and collaboratively on projects (DISrupt; Queerology collectives). They create safe environments in private, public, or art spaces in order to facilitate conversations and storytelling. Their working process combines a variety of media (including text, sound, visual material) to produce performances, sound pieces, or videos.         
          
 <a href="https://nickymurmann.com" target="_blank">nickymurmann.com</a> · <a href="https://instagram.com/nicky_murmann" target="_blank">Instagram</a>          
 <hr>          
