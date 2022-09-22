@@ -31,7 +31,7 @@ Age Advisory: **16+** (parental/guardian discretion).<br>Content Warnings: some 
          
 *Nine Five Five Less Than or Equal To Nine Nine Six* is an interactive audiovisual-physical performance that provides a unique view of an employee in the race for success. A dialogue between two performers, human and audiovisual; live video loops of the performer are manipulated in real time using computer vision algorithms to question, challenge, and see the person behind the job title, in a bid for workplace well-being.         
          
-DNA Studio is a collaboration between Dor Frenkel — a physical theatre director, choreographer, and filmmaker, and Amit Segall — a new media artist and musician. They specialise in creating immersive experiences that question human behaviours and cultural changes through performance art and interactive new media.         
+DNA Studio is a collaboration between Dor Frenkel — a physical theatre director, choreographer, and filmmaker — and Amit Segall — a new media artist and musician. They specialise in creating immersive experiences that question human behaviours and cultural changes through performance art and interactive new media.         
          
 <a href="http://amitsegall.com" target="_blank">amitsegall.com</a> · <a href="https://dorfrenkel.com" target="_blank">dorfrenkel.com</a> · <a href="https://instagram.com/dnastudio.live" target="_blank">Instagram</a>         
 <hr>          
@@ -41,7 +41,7 @@ A new multimedia Live Art work/series expressing a deeply personal evocation of 
          
 Supported in development by Creative Scotland and Anatomy Arts.         
         
-Jian Yi (they/them) is a multidisciplinary artist working in performance art, contemporary dance, and new genres. Their practice is rooted in an ongoing enquiry into the ambiguities of emotional experience. Their work has been performed at Dance Base Edinburgh, Tramway, and CCA Glasgow among other locations.        
+Jian Yi (they/them) is a multidisciplinary artist working in performance art, contemporary dance, and new genres. Their practice is rooted in an ongoing enquiry into the ambiguities of emotional experience. Their work has been performed at Dance Base Edinburgh, Tramway, and CCA Glasgow, among other locations.        
         
 <a href="https://jianxyi.com" target="_blank">jianxyi.com</a> · <a href="https://instagram.com/jianx_yi" target="_blank">Instagram</a>         
 <hr>          
