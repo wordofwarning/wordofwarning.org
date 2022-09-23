@@ -17,12 +17,12 @@ season: "Emergency Daytime 1|10|2022, Noon-5pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 22 Sep 2022</small>     
+<small>Updated 23 Sep 2022</small>     
         
 *Presented by* Word of Warning *+* Contact *in the first half of [Emergency 22](/current/2022-emergency) — a Daytime of performance installations, one-to-ones, and interventions from Noon to 5pm on Saturday 1 October.*        
          
 #### Daytime Schedule         
-**Noon-1.30pm** Julie Burrow · **Noon-1.40pm** Ursula Troche · **Noon-2pm** Hazel Lam · **Noon-2pm** Tania Camara · **Noon-3pm** kane stonestreet · **Noon-5pm** Clodagh Chapman & James Varney · **Noon-5pm** Malandra Jacks Creative · **Noon-5pm**  Maya Chowdhry · **Noon-5pm** Nicky Murmann · **Noon-5pm** Sweætshops® · **2.30pm-3pm** Charlotte McShane · **3pm** Ran · **3pm-5pm** leon clowes · **3pm-5pm** Nathan Walker<br><small>*Timings and participating artists subject to change.*</small>         
+**Noon-1.30pm** Julie Burrow · **Noon-1.40pm** Ursula Troche · **Noon-2pm** Hazel Lam · **Noon-2pm** Tania Camara · **Noon-3pm** kane stonestreet · **Noon-5pm** Clodagh Chapman & James Varney · **Noon-5pm** Malandra Jacks Creative · **Noon-5pm**  Maya Chowdhry · **Noon-5pm** Nicky Murmann · **Noon-5pm** Sweætshops® · **2.30pm-3pm** Charlotte McShane · **3pm-3.20pm** Ran · **3pm-5pm** leon clowes · **3pm-5pm** Nathan Walker<br><small>*Timings and participating artists subject to change.*</small>         
          
 #### Daytime Programme Notes        
 Age Advisory: **16+** (parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).        
@@ -58,7 +58,7 @@ Follow the map of my hair… take a seat… listen… arrive at the famous marke
          
 A Divergency seed commission.        
         
-Tania Camara is Manchester-based interdisciplinary artist working in devised theatre, dance, Live Art, installation, and video. Current practice focuses on personal accounts of memory, collective memories & ancestral memories, uncovering  cultural identity, belonging, and the black performing body. Her most recent work, [*Oreo*](/archive/2021-autumnwinter/oreo), has toured widely as well as streaming online in lockdown.         
+Tania Camara is Manchester-based interdisciplinary artist working in devised theatre, dance, Live Art, installation, and video. Current practice focuses on personal accounts of memory, collective memories & ancestral memories, uncovering  cultural identity, belonging, and the black performing body. Her most recent work, [*Oreo*](/archive/2021-autumnwinter/oreo), has toured widely as well as <a href="https://youtube.com/playlist?list=PLHmxKLx8cM6CycH08BSy_Rs1JeE5t7aGv" target="_blank">streaming online</a> in lockdown.         
         
 <a href="https://taniacamara.com" target="_blank">taniacamara.com</a> · <a href="https://facebook.com/TaniaCamara.Performance.Artist" target="_blank">Facebook</a> · <a href="https://instagram.com/taniacamara20" target="_blank">Instagram</a> · <a href="https://twitter.com/TaniaCamara2" target="_blank">Twitter</a>         
 <hr>                  
@@ -130,7 +130,7 @@ Charlotte McShane is a performance artist working across theatre, cabaret, Live 
          
 <a href="https://facebook.com/charlottekmcshane" target="_blank">Facebook</a> · <a href="https://instagram.com/charlottekmcshane" target="_blank">Instagram</a>          
 <hr>          
-**3pm** Ran · *Orders of magnitude*        
+**3pm-3.20pm** Ran · *Orders of magnitude*        
         
 Making use of a DIY metal plate speaker, Ran performs improvised breathing routines that traverse the intimate and the public. The work is only ever performed live and never practised, making each iteration unique.         
         
