@@ -17,7 +17,7 @@ season: "Emergency Evening 1|10|2022, 5pm-10pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 23 Sep 2022, Noon</small>     
+<small>Updated 28 Sep 2022, 1.40pm</small>     
         
 *Presented by* Word of Warning *+* Contact *in the second half of [Emergency 22](/current/2022-emergency) — an Evening full of short shows from 5pm to 10pm on Saturday 1 October.*        
          
@@ -109,6 +109,6 @@ Your soft clay is put in an oven to cook and harden. It either splits, cracks, b
          
 Bitterroot is a newly-formed theatre collective comprising Jake Rayner Blair & Chris Richards. Their debut was at Bath Fringe Festival in Summer 22 and they are looking to develop *If it's to Break* for touring.        
         
-<a href="https://instagram.com/jake.rb.art" target="_blank">Instagram</a> · <a href="https://twitter.com/" target="_blank">Twitter</a>         
+<a href="https://instagram.com/jake.rb.art" target="_blank">Instagram</a>         
 <hr>         
 <small><span style='font-variant: small-caps'>[back to top](/current/2022-emergency/evening)</span></small>
