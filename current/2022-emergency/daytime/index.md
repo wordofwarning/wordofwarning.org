@@ -17,7 +17,7 @@ season: "Emergency Daytime 1|10|2022, Noon-5pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 23 Sep 2022, Noon</small>     
+<small>Updated 28 Sep 2022, 1.35pm</small>     
         
 *Presented by* Word of Warning *+* Contact *in the first half of [Emergency 22](/current/2022-emergency) — a Daytime of performance installations, one-to-ones, and interventions from Noon to 5pm on Saturday 1 October.*        
          
@@ -102,7 +102,7 @@ Maya Chowdhry is a multidisciplinary artist creating with Live Art and installat
 <hr>          
 **Noon-5pm** Nicky Murmann · *INNER CHILD*         
         
-In a coloured children's playhouse you are invited to share with me — and I with you — about our childhood, through memories, through one or a few chosen subjects, printed on cards.<br>To thank you to share your stories or to listen to mine, you will receive a party bag when you leave.        
+In a coloured children's playhouse you are invited to share with me — and I with you — about our childhood, through memories, through one or a few chosen subjects, printed on cards.<br>To thank you to share your stories or to listen to mine, you will receive a party bag when you leave. (You may stay for up to 20 minutes.)        
         
 Nicky Murmann is a Leeds-based artist working individually and collaboratively on projects (DISrupt; Queerology collectives). They create safe environments in private, public, or art spaces in order to facilitate conversations and storytelling. Their working process combines a variety of media (including text, sound, visual material) to produce performances, sound pieces, or videos.         
          
@@ -154,6 +154,6 @@ Thinking of the room as a landscape, this performance places the artist's body a
         
 Nathan Walker is an artist and writer from West Cumbria; they work across and between performance art and poetry, exploring both the body and the page as sites for vocal exploration, and the manipulation of sound and speech. Performances often take place over extended durations, during which they construct spaces of intense listening and attention. They have performed at international festivals and galleries including Finland, Germany, Italy, UK, USA.         
           
-<a href="https://nathan-walker.co.uk" target="_blank">nathan-walker.co.uk</a> · <a href="https://instagram.com/nthn.wlkr" target="_blank">Instagram</a> · <a href="https://twitter.com/nthnwlkr" target="_blank">Twitter</a>         
+<a href="https://nathan-walker.co.uk" target="_blank">nathan-walker.co.uk</a> · <a href="https://instagram.com/nthn.wlkr" target="_blank">Instagram</a>         
 <hr>         
 <small><span style='font-variant: small-caps'>[back to top](/current/2022-emergency/daytime)</span></small>
