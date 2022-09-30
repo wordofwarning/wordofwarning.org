@@ -17,7 +17,7 @@ season: "Emergency Daytime 1|10|2022, Noon-5pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 28 Sep 2022, 2pm</small>     
+<small>Updated 30 Sep 2022, 8.45pm</small>     
         
 *Presented by* Word of Warning *+* Contact *in the first half of [Emergency 22](/current/2022-emergency) — a Daytime of performance installations, one-to-ones, and interventions from Noon to 5pm on Saturday 1 October.*        
          
@@ -148,9 +148,11 @@ leon clowes is a London-based older queer working-class transdisciplinary artist
           
 <a href="https://leonclowes.com" target="_blank">leonclowes.com</a> · <a href="https://instagram.com/leonclowes" target="_blank">Instagram</a> · <a href="https://twitter.com/ClowesLeon" target="_blank">Twitter</a>         
 <hr>          
-**3pm-5pm** Nathan Walker · *Gulp*         
+**3pm-5pm** Nathan Walker · *Clench*         
          
-Thinking of the room as a landscape, this performance places the artist's body as an installed element and form of expanded sculpture. Nathan will use their body and voice to create gentle bursas, clearings, and swellings within and between the terrain of the space.        
+Due to illness Nathan Walker is unable to perform *Gulp*.<br>In place we are showing *Clench (2020)* — Single Channel performance for camera where the artist attempts to speak around/through/with a hand inside their mouth. The hand creates a block or stopper that reshapes the voice, forming and transforming within the task of keeping the hand inside.        
+        
+Commissioned by Slant.        
         
 Nathan Walker is an artist and writer from West Cumbria; they work across and between performance art and poetry, exploring both the body and the page as sites for vocal exploration, and the manipulation of sound and speech. Performances often take place over extended durations, during which they construct spaces of intense listening and attention. They have performed at international festivals and galleries including Finland, Germany, Italy, UK, USA.         
           
