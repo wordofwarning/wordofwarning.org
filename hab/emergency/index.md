@@ -16,11 +16,11 @@ season: "Emergency by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 6 Oct 2022</small>        
+<small>Updated 2 Sep 2022</small>        
         
 **Emergency** is our annual platform for Live Art and contemporary performance — offering a sneak preview of new live work over a single day in Manchester every Autumn and now resident at <a href="https://contactmcr.com" target="_blank">Contact</a>, its seventh home.        
          
-Manchester's [twenty-second micro-marathon](/current/2022-emergency) of the bizarre, the bold, and the beautiful took over Contact on **Saturday 1 October 2022** — with a daytime of performance installations, one-to-ones, and interventions from Noon — followed by an evening full of short shows from 5pm.<br>Overall, [Emergency 22](/current/2022-emergency) presented 23 new works throughout the building.         
+Manchester's [twenty-second micro-marathon](/current/2022-emergency) of the bizarre, the bold, and the beautiful takes over Contact on **Saturday 1 October 2022** — with a daytime of performance installations, one-to-ones, and interventions from Noon — followed by an evening full of short shows from 5pm.<br>Overall, [Emergency 22](/current/2022-emergency) presents 23 short works throughout the building.         
          
 *Probably* England's longest running Live Art event, Emergency aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions to be produced by hÅb + Contact.        
         
