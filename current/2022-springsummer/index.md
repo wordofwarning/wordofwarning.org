@@ -8,9 +8,9 @@ artist_size: 1
 season: "Performance Programme 2022"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2022-springsummer/#about) · [audiences](/current/2022-springsummer/#audiences) · [by](/current/2022-springsummer/#by) · [people](/current/2022-springsummer/#people) · [warnings](/current/2022-springsummer/#warnings)</span> · <small>Updated 6 Oct 2022</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2022-springsummer/#about) · [audiences](/current/2022-springsummer/#audiences) · [by](/current/2022-springsummer/#by) · [people](/current/2022-springsummer/#people) · [warnings](/current/2022-springsummer/#warnings)</span> · <small>Updated 6 Oct 2022, Noon</small>        
          
-*Spring began with [Dead Cats](/current/2022-springsummer/proto-type) at The Lowry, followed by [three Works Ahead](/current/2022-worksahead) at Contact — Summer continued with a [Gambit](/current/2022-springsummer/gambit) in Manchester City Centre — and Autumn saw [Emergency 22](/current/2022-emergency) take over Contact; we are now on hiatus…*         
+*Spring began with [Dead Cats](/current/2022-springsummer/proto-type) at The Lowry, followed by [three Works Ahead](/current/2022-worksahead) at Contact — Summer continued with a [Gambit](/current/2022-springsummer/gambit) in Manchester City Centre — and Autumn saw [Emergency 22](/current/2022-emergency) take over Contact; we're now taking a short pause…*         
          
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
