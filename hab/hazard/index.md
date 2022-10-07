@@ -26,7 +26,7 @@ Our **eighth Hazard was a [*Gambit*](/current/2022-springsummer/gambit)** in Man
         
 Enquiries: <mailto:hazard@habmcr.org> · <a href="https://hazardmcr.org" target="_blank">hazardmcr.org</a> · <a href="https://twitter.com/hashtag/HazardMcr" target="_blank">#HazardMcr</a>        
         
-#### Earlier Editions        
+#### Past Editions        
 Our **[seventh Hazard](/archive/2018-springsummer/hazardshadowgirl)** popped up in central Manchester on **4 August 2018**, with shadowy figures moving silently through the city streets, playing, questioning, exploring visibility + vulnerability… See [images](/galleries/2018-hazard) from the day.       
         
 [Hazard 2018: *Shadow Girl* — the city streets](/archive/2018-springsummer/hazardshadowgirl) by Chrissy Jones presented by [Word of Warning](/) + <a href="https://proudandloudarts.com" target="_blank">Proud & Loud Arts</a>; supported using public funding by Arts Council England + by the National Lottery through Arts Council England.         
