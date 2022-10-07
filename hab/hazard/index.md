@@ -24,7 +24,7 @@ Our eighth Hazard was a ***[Gambit](/current/2022-springsummer/gambit)*** in St 
        
 [*Gambit* by Proud & Loud Arts](/current/2022-springsummer/gambit) presented by [Word of Warning](/); a [hÅb](/hab) (Hazard 2022) commission; co-produced with <a href="https://proudandloudarts.com" target="_blank">Proud & Loud Arts</a>.       
         
-Enquiries: <mailto:hazard@habmcr.org> · <a href="https://hazardmcr.org" target="_blank">hazardmcr.org</a> · <a href="https://twitter.com/hashtag/HazardMcr" target="_blank">#HazardMcr</a>        
+Enquiries: <mailto:hazard@habmcr.org> · <a href="http://hazardmcr.org" target="_blank">hazardmcr.org</a> · <a href="https://twitter.com/hashtag/HazardMcr" target="_blank">#HazardMcr</a>        
         
 #### Past Editions        
 Our **[seventh Hazard](/archive/2018-springsummer/hazardshadowgirl)** popped up in central Manchester on **4 August 2018**, with shadowy figures moving silently through the city streets, playing, questioning, exploring visibility + vulnerability… See [images](/galleries/2018-hazard) from the day.       
