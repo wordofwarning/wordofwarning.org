@@ -18,7 +18,6 @@ gallery:
     -   {file: "gambit3.jpg", artist: "Proud & Loud Arts", show: "Gambit"}
     -   {file: "gambit4.jpg", artist: "Proud & Loud Arts", show: "Gambit"}
     -   {file: "gambit5.jpg", artist: "Proud & Loud Arts", show: "Gambit"}
-    -   {file: "gambit6.jpg", artist: "Proud & Loud Arts", show: "Gambit"}
     -   {file: "gambit7.jpg", artist: "Proud & Loud Arts", show: "Gambit"}
     -   {file: "gambit8.jpg", artist: "Proud & Loud Arts", show: "Gambit"}
     
