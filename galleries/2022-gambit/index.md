@@ -5,9 +5,10 @@ assetpath: "../../../"
 galleryimagespath: ""
 
 title: "Word of Warning presents Gambit 20|8|2022"
-header: *Gambit*
+header: <i>Gambit</i>
 stylesheet: gallery.css
 
+header_url: "../../galleries"
 more_link: More info.
 more_url: "../../current/2022-springsummer/gambit"
 
