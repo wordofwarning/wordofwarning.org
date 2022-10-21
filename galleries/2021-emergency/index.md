@@ -4,7 +4,7 @@ layout: fullscreengallery
 assetpath: "../../../"
 galleryimagespath: ""
 
-title: "Word of Warning + Contact present Emergency 25|9|2021"
+title: "Word of Warning + Contact present Emergency 25|9|21"
 header: <img src="logo.png">
 stylesheet: gallery.css
 
@@ -12,7 +12,7 @@ more_link: Emergency 21
 more_url: "../../archive/2021-emergency"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "A journey for the curious at Contact, Sat 25 Sep 2021", show: "<small>Maryam Hashemi by Pierce Starre</small>"}
+    -   {file: "titlepage.jpg", artist: "A journey for the curious at Contact, Sat 25 Sep 2021 · Maryam Hashemi", show: "<small>by Pierce Starre</small>"}
     -   {file: "maryam1.jpg", artist: "Maryam Hashemi", show: "<small>by Pierce Starre</small>"}
     -   {file: "lydia.jpg", artist: "Lydia Cottrell", show: "<small>by Pierce Starre</small>"}
     -   {file: "lydia1.jpg", artist: "Lydia Cottrell", show: "<small>by Pierce Starre</small>"}
