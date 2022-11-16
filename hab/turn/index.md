@@ -18,7 +18,9 @@ season: "Turn by hÅb"
 ---
 <small>Updated 16 Nov 2022</small>        
         
-**Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Manchester each spring, after a 6-year hiatus it returns to <a href="https://contactmcr.com" target="_blank">Contact</a> in **March 2023**. Get a feel for Turn with 2017's [programme](/archive/2017-turn/programme) + [image gallery](/galleries/2017-turn).                
+**Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Manchester each spring.<br>After a 6-year hiatus Turn returns to <a href="https://contactmcr.com" target="_blank">Contact</a> in **March 2023** — to get a feel for it, have a look at 2017's [programme](/archive/2017-turn/programme) + [image gallery](/galleries/2017-turn).         
+        
+Manchester's open call dance platform, Turn aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— and is open to North West England† dancers and dance-makers, aged 18+        
         
 #### Turn 2023 Open Call        
 North West† dancers and dance-makers (aged 18+) are invited to submit proposals of short pieces of work, works-in-progress, or extracts of longer works for inclusion in this annual event.        
@@ -26,8 +28,6 @@ North West† dancers and dance-makers (aged 18+) are invited to submit proposal
 We're experimenting with the form of Turn in 2023, to include a **single evening of public performances on Fri 10 March** — followed by an **artist day incorporating a workshop or masterclasses and feedback sessions on Sat 11 March**.<br>Participating artists will be expected to attend **both** days.
         
 For full details and to apply please go to <a href="https://turnmcr.posthaven.com" target="_blank">turnmcr.posthaven.com</a><br>**Proposal Deadline: Friday 13 January 2023, 5pm**        
-         
-Manchester's open call dance platform, Turn aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— and is open to North West England† dancers and dance-makers, aged 18+
          
 † *<a href="http://en.wikipedia.org/wiki/North_West_England" target="_blank">North West England</a> consists of Cheshire, Cumbria, Greater Manchester, Lancashire + Merseyside; it does **NOT** include Yorkshire or Derbyshire*.        
          
