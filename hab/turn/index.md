@@ -18,7 +18,7 @@ season: "Turn by hÅb"
 ---
 <small>Updated 16 Nov 2022</small>        
         
-**Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Manchester each spring, returning to <a href="https://contactmcr.com" target="_blank">Contact</a> in **March 2023** after a 6-year hiatus.        
+**Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Manchester each spring, after a 6-year hiatus it returns to <a href="https://contactmcr.com" target="_blank">Contact</a> in **March 2023**. Get a feel for Turn with 2017's [programme](/archive/2017-turn/programme) + [image gallery](/galleries/2017-turn).                
         
 #### Turn 2023 Open Call        
 North West† dancers and dance-makers (aged 18+) are invited to submit proposals of short pieces of work, works-in-progress, or extracts of longer works for inclusion in this annual event.        
@@ -37,7 +37,5 @@ Enquiries: <mailto:turn@habmcr.org> · <a href="http://turnmcr.org" target="_bla
         
 #### Past Editions        
 First held at greenroom in spring 2009, Turn moved to <a href="https://contactmcr.com" target="_blank">Contact</a> in 2012 — the last (ninth) edition trialled a new format, with a dozen short dance-works shown on [**28 April 2017**](/archive/2017-turn), followed by a day of professional development…        
-         
-Get a feel for Turn with 2017's [programme](/archive/2017-turn/programme) + [gallery of images](/galleries/2017-turn), and 2016's [programme](/archive/2016-turn) + [gallery](/galleries/2016-turn).         
          
 [Turn 2017](/archive/2017-turn) presented/co-produced by [Word of Warning](/)/[hÅb](/hab), <a href="https://contactmcr.com" target="_blank">Contact</a>, Dance Manchester + Manchester Dance Consortium.
