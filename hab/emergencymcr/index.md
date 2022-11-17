@@ -4,9 +4,9 @@ layout: hab # the season or event-specific template in /_layouts
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "hÅb's artist mailing list — the emergencymcr googlegroup" # the name of the artist or company
+artist: "hÅb's artist mailing list<br>&nbsp;emergencymcr googlegroup" # the name of the artist or company
 header_image: "header_emergencynw.jpg"
-season: "hÅb's artist mailing list — the emergencymcr googlegroup"
+season: "hÅb's artist mailing list — emergencymcr googlegroup"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
