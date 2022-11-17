@@ -17,7 +17,7 @@ season: "Gambit 20|8|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [details](/current/2022-springsummer/gambit/#details) · [access](/current/2022-springsummer/gambit/#access) · [about](/current/2022-springsummer/gambit/#about) · [artists](/current/2022-springsummer/gambit/#artists) · [credits](/current/2022-springsummer/gambit/#credits) · [websites](/current/2022-springsummer/gambit/#websites)</span> · <small>Updated 17 Aug 2022</small>         
+<span style='font-variant: small-caps'>→ [details](/current/2022-springsummer/gambit/#details) · [access](/current/2022-springsummer/gambit/#access) · [about](/current/2022-springsummer/gambit/#about) · [artists](/current/2022-springsummer/gambit/#artists) · [credits](/current/2022-springsummer/gambit/#credits) · [websites](/current/2022-springsummer/gambit/#websites)</span> · <small>Updated 17 Nov 2022</small>         
          
 *Presented by* Word of Warning         
          
@@ -25,7 +25,9 @@ Gambit — a powerplay.
         
 A game of strategy comes to life, as human chess pieces invade Manchester City Centre in a new kind of powerplay: turning the tables on the traditional order.        
         
-Gambit — the act of tripping someone to make them fall…?        
+Gambit — the act of tripping someone to make them fall…?         
+        
+Now that it's over — see a [gallery of images](/galleries/2022-gambit) from the day.         
         
 #### Details         
 Free: a playful intervention for you to encounter by chance in the city streets.<br>Date: Saturday 20 August 2022<br>Times: *approximately* Noon-12.45pm / 1.45pm-2.30pm / 3.30pm-4.15pm<br>Location: <a href="https://creativetourist.com/venue/st-anns-square" target="_blank">St Ann's Square</a> + environs, Manchester City Centre, M2 7LF        
