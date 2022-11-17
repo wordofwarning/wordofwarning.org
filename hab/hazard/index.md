@@ -6,7 +6,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Hazard" # the name of the artist or company
 show: "Interventions in Manchester City Centre." # the name of the artist or company
-show_size: 5
+show_size: 4
 header_image: "header_2012_hazard.jpg"   
 season: "Hazard by hÅb"
 
@@ -16,11 +16,11 @@ season: "Hazard by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---         
-<small>Updated 7 Oct 2022</small>        
+<small>Updated 17 Nov 2022</small>        
          
-**Hazard** is our biennial micro-festival of incidental intervention and sited performance, blurring the boundaries between art and activism…         
+**Hazard** is our biennial micro-festival of incidental intervention and sited performance — blurring the boundaries between art and activism…         
          
-Our eighth Hazard was a ***[Gambit](/current/2022-springsummer/gambit)*** in St Ann's Square on **20 August 2022** — a game of strategy came to life, as human chess pieces invaded Manchester City Centre in a new kind of powerplay: turning the tables on the traditional order.
+Our **[eighth Hazard was a *Gambit*](/current/2022-springsummer/gambit)** in St Ann's Square on **20 August 2022** — a game of strategy came to life, as human chess pieces invaded Manchester City Centre in a new kind of powerplay: turning the tables on the traditional order. A playful intervention, see our [gallery of images](/galleries/2022-gambit) from the day.        
        
 [*Gambit* by Proud & Loud Arts](/current/2022-springsummer/gambit) presented by [Word of Warning](/); a [hÅb](/hab) (Hazard 2022) commission; co-produced with <a href="https://proudandloudarts.com" target="_blank">Proud & Loud Arts</a>.       
         
