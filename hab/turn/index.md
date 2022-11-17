@@ -27,7 +27,8 @@ North West† dancers and dance-makers (aged 18+) are <a href="https://turnmcr.p
 
 We're experimenting with the form of Turn in 2023, to include a single **evening of public performances on Fri 10 March** — followed by an **artist day on Sat 11 March** incorporating a workshop or masterclasses and feedback sessions. Participating artists will be expected to attend **both** days.
         
-#### For details & to apply please go to <a href="https://turnmcr.posthaven.com" target="_blank">turnmcr.posthaven.com</a><br>Deadline: Friday 13 January 2023, 5pm        
+#### For details & to apply please go to <a href="https://turnmcr.posthaven.com" target="_blank">turnmcr.posthaven.com</a>         
+#### Proposal Deadline: Friday 13 January 2023, 5pm        
          
 † *<a href="http://en.wikipedia.org/wiki/North_West_England" target="_blank">North West England</a> consists of Cheshire, Cumbria, Greater Manchester, Lancashire + Merseyside; it does **NOT** include Yorkshire or Derbyshire*.        
          
