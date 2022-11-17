@@ -17,11 +17,11 @@ season: "Emergency 25|9|2021, 12noon-4pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>jump → [artists](/archive/2021-emergency/#artists) · [access](/archive/2021-emergency/#access) · [about](/archive/2021-emergency/#about) · [websites](/archive/2021-emergency/#websites) · [programme](/archive/2021-emergency/programme)</span> · <small>Updated 17 Jan 2022</small>     
+<span style='font-variant: small-caps'>jump → [artists](/archive/2021-emergency/#artists) · [access](/archive/2021-emergency/#access) · [about](/archive/2021-emergency/#about) · [websites](/archive/2021-emergency/#websites) · [programme](/archive/2021-emergency/programme)</span> · <small>Updated 17 Nov 2022</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
-Manchester's twenty-first micro-marathon of the bizarre, the bold + the beautiful takes over the brand new Contact in a journey of live performance…         
+Manchester's twenty-first micro-marathon of the bizarre, the bold + the beautiful takes over the brand new Contact in a journey of live performance…<br>Now that it's over — see a [gallery of images](/galleries/2021-emergency) from the day.         
         
 #### Artists       
 Ayzmar · Helena Ascough · †Kellie Colbert & Deborah Newton · Kelvin Atmadibrata · Lydia Cottrell · Maryam Hashemi · Miray Sidhom · ‡Mitzee · Sebastian H-W · Simon Carroll-Jones & Wayne Steven Jackson<br>*Participating artists subject to change; Rowena Gander is unable to appear.<br>†For 12noon-2pm entry only. ‡For 2pm-4pm entry only.*         
