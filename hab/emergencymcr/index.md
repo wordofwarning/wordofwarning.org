@@ -4,9 +4,9 @@ layout: hab # the season or event-specific template in /_layouts
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "hÅb's artist mailing list<br>&nbsp;emergencymcr googlegroup" # the name of the artist or company
+artist: "hÅb's artist mailing list<br>&nbsp;(Emergencymcr Google Group)" # the name of the artist or company
 header_image: "header_emergencynw.jpg"
-season: "hÅb's artist mailing list — emergencymcr googlegroup"
+season: "hÅb's artist mailing list (Emergencymcr Google Group)"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -14,11 +14,11 @@ season: "hÅb's artist mailing list — emergencymcr googlegroup"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 16 Nov 2022</small>        
+<small>Updated 17 Nov 2022</small>        
         
-[hÅb](/hab) maintains the **emergencymcr googlegroup** for artists working in Live Art, contemporary performance, and dance across Greater Manchester + Northern England.         
+[hÅb](/hab) maintains the **Emergencymcr Google Group** for artists working in Live Art, contemporary performance, and dance across Greater Manchester + Northern England.         
          
-Formerly known as the EmergencyNW e-group (hosted at yahoo), current members include almost everyone who has performed at one of our platform events, with ~360 members as of February 2020.        
+Formerly known as the EmergencyNW e-group (hosted at yahoo), current members include almost everyone who has performed at one of our platform events, with ~380 members as of November 2022.        
            
 We forward information and artist opportunities to this group, both our own projects + information we think may be useful, and members can post messages, call-outs, etc.       
          
