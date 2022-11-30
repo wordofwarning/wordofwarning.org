@@ -17,7 +17,7 @@ season: "Will Dickie in Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2022-worksahead/dickie/#artist) · [ticketing](/current/2022-worksahead/dickie/#ticketing) · [access](/current/2022-worksahead/dickie/#access) · [reviews](/current/2022-worksahead/dickie/#reviews) · [credits](/current/2022-worksahead/dickie/#credits) · [websites](/current/2022-worksahead/dickie/#websites)</span> · <small>Updated 23 May 2022</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2022-worksahead/dickie/#artist) · [ticketing](/current/2022-worksahead/dickie/#ticketing) · [access](/current/2022-worksahead/dickie/#access) · [reviews](/current/2022-worksahead/dickie/#reviews) · [credits](/current/2022-worksahead/dickie/#credits) · [websites](/current/2022-worksahead/dickie/#websites)</span> · <small>Updated 30 Nov 2022</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2022](/current/2022-worksahead)        
         
@@ -31,10 +31,14 @@ Set against a backdrop of a nation that continues to bask in the light of its co
          
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/688124335?h=6d29d7e9f2" width="640" height="360" frameborder="0" allowfullscreen></iframe>        
          
+Now that it's over, listen to <a href="https://mixcloud.com/AlwaysWill/white-sun-a-conversation-with-judy-ryde" target="_blank">his podcast conversation with author & psychotherapist Judy Ryde</a>.         
+         
+<iframe width="100%" height="60" src="https://mixcloud.com/widget/iframe/?hide_cover=1&mini=1&light=1&feed=%2FAlwaysWill%2Fwhite-sun-a-conversation-with-judy-ryde%2F" frameborder="0" ></iframe>          
+         
 #### Artist        
 A Liverpool-based performance maker, Will works across several artforms which support liveness including theatre, dance, live art, sound, and film.<br>He makes material by listening and responding to spaces — in the environment, within the body, and from his past. He then creates experiences for audiences from these spaces using choreography, spoken text, audience participation, and sound design/DJing.        
           
-His previous live touring works include *The Rave Space* ([shown in SS19](/archive/2019-springsummer/dickie)), *Team of the Decades*, and *Memories of Suburbia*. His recent dance film *Canning Town*, created with Fabiola Santana, has screened internationally — winning best film awards in Bucharest, Lisbon, and Glasgow. Listen to his DJ mix series *The Wayz* at his <a href="https://www.mixcloud.com/AlwaysWill" target="_blank">mixcloud</a>.         
+His previous live touring works include *The Rave Space* ([shown in SS19](/archive/2019-springsummer/dickie)), *Team of the Decades*, and *Memories of Suburbia*. His recent dance film *Canning Town*, created with Fabiola Santana, has screened internationally — winning best film awards in Bucharest, Lisbon, and Glasgow. Listen to his DJ mix series *The Wayz* at his <a href="https://mixcloud.com/AlwaysWill" target="_blank">mixcloud</a>.         
         
 #### Ticketing        
 Pay What You Decide: £10/£5/£0 · Book for <a href="https://contactmcr.com/book-online/254758" target="_blank">Thursday</a> or <a href="https://contactmcr.com/book-online/254759" target="_blank">Friday</a> via Contact        
