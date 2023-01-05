@@ -6,7 +6,7 @@ season: "Galleries"
 
 archived:
     - {folder: "2022-emergency", name: "Emergency 22", class: "e2021"}
-    - {folder: "2022-gambit", name: "Gambit (2022)", class: "ss2022"}
+    - {folder: "2022-gambit", name: "Gambit (2022)", class: "p2022"}
     - {folder: "2021-emergency", name: "Emergency 21", class: "e2021"}
     - {folder: "2020-botanic", name: "Botanic (2020)", class: "aw2020"}
     - {folder: "2020-emergencystopgap", name: "Emergency StopGap (2020)", class: "esg2020"}
