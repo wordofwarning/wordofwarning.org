@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: 2022-springsummer
+layout: 2022-programme
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -17,15 +17,15 @@ season: "Gambit 20|8|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [details](/current/2022-springsummer/gambit/#details) · [access](/current/2022-springsummer/gambit/#access) · [about](/current/2022-springsummer/gambit/#about) · [artists](/current/2022-springsummer/gambit/#artists) · [credits](/current/2022-springsummer/gambit/#credits) · [websites](/current/2022-springsummer/gambit/#websites)</span> · <small>Updated 17 Nov 2022</small>         
+<span style='font-variant: small-caps'>→ [details](/archive/2022/gambit/#details) · [access](/archive/2022/gambit/#access) · [about](/archive/2022/gambit/#about) · [artists](/archive/2022/gambit/#artists) · [credits](/archive/2022/gambit/#credits) · [websites](/archive/2022/gambit/#websites)</span> · <small>Updated 5 Jan 2023</small>         
          
 *Presented by* Word of Warning         
          
-Gambit — a powerplay.        
+>Gambit — a powerplay.        
         
 A game of strategy comes to life, as human chess pieces invade Manchester City Centre in a new kind of powerplay: turning the tables on the traditional order.        
         
-Gambit — the act of tripping someone to make them fall…?         
+>Gambit — the act of tripping someone to make them fall…?         
         
 Now that it's over — see a [gallery of images](/galleries/2022-gambit) from the day.         
         
@@ -58,4 +58,4 @@ A [hÅb](/hab) [Hazard](/hab/hazard) commission; co-produced with Proud & Loud A
 #### Websites          
 <a href="https://proudandloudarts.com" target="_blank">proudandloudarts.com</a> · <a href="https://www.facebook.com/proudandloudarts" target="_blank">P&LA on Facebook</a> · <a href="https://www.instagram.com/proudandloudart" target="_blank">P&LA on Insta</a> · <a href="https://twitter.com/proudandloudart" target="_blank">@proudandloudart</a>        
         
-<small><span style='font-variant: small-caps'>[back to top](/current/2022-springsummer/gambit)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2022/gambit)</span></small>
