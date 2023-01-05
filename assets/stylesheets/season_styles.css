@@ -875,7 +875,7 @@
 	.aw2021 .splash
 		{background:url(../images/header_AW21Warnin.jpg) -150px center}
 
-/* Emergency 21 bright red with running man
+/* Emergency 21+22 bright red with running man
 ------------------------------------------------------*/
 
 	.e2021,
@@ -905,6 +905,27 @@
 	.ss2022 .splash
 		{background:url(../images/header_warni_ss22.jpg) -150px center}
 
+/* Turn 2023 cyan & Levantes from t15 (for now)
+------------------------------------------------------*/
+
+	.t2023,
+	.t2023 .artist, 
+	.t2023 .show,
+	.t2023 .season
+		{background:#6cc; color:#000;}
+
+	.t2023 a,
+	.t2023 a:visited,
+	.t2023 a:hover
+		{color:#000;}
+	.t2023 nav a:hover,
+	.t2023 article a:hover,
+	.t2023 footer a:hover
+		{background:#000; color:#6cc;}
+
+	.t2023 .splash
+		{background:url(../images/header_turn15.jpg) center center}
+
 /* Works Ahead 2022+2023 berry w gasworks
 ------------------------------------------------------*/
 		
@@ -929,5 +950,5 @@
 /* 2023 Programme silver foil (use SS22 for now)
 ------------------------------------------------------*/
 
-	.pp2023 .splash
+	.p2023 .splash
 		{background:url(../images/header_warni_ss22.jpg) -150px center}
