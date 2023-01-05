@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: 2022-springsummer
+layout: 2022-programme
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -17,9 +17,9 @@ season: "Proto-type 4|5|2022, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [ticketing](/current/2022-springsummer/proto-type/#ticketing) · [access](/current/2022-springsummer/proto-type/#access) · [about](/current/2022-springsummer/proto-type/#about) · [artists](/current/2022-springsummer/proto-type/#artists) · [reviews](/current/2022-springsummer/proto-type/#reviews) · [credits](/current/2022-springsummer/proto-type/#credits) · [websites](/current/2022-springsummer/proto-type/#websites)</span>         
+<span style='font-variant: small-caps'>→ [ticketing](/archive/2022/proto-type/#ticketing) · [access](/archive/2022/proto-type/#access) · [about](/archive/2022/proto-type/#about) · [artists](/archive/2022/proto-type/#artists) · [reviews](/archive/2022/proto-type/#reviews) · [credits](/archive/2022/proto-type/#credits) · [websites](/archive/2022/proto-type/#websites)</span>         
          
-*Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a> · <small>Updated 26 Apr 2022</small>           
+*Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a> · <small>Updated 5 Jan 2023</small>           
          
 **In rooms like this room, people lie.<br>Not little lies, but the kinds of lies that kill people, or worse…**         
          
@@ -62,4 +62,4 @@ Supported using public funding by the National Lottery through Arts Council Engl
 #### Websites          
 <a href="http://proto-type.org/projects/current/dead-cats" target="_blank">proto-type.org</a> · <a href="https://facebook.com/prototypetheater" target="_blank">Proto-type on Facebook</a> · <a href="https://twitter.com/Proto_type" target="_blank">@Proto_type</a> · <a href="https://twitter.com/hashtag/DeadCats" target="_blank">#DeadCats</a>         
         
-<small><span style='font-variant: small-caps'>[back to top](/current/2022-springsummer/proto-type)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2022/proto-type)</span></small>
