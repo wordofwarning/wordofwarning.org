@@ -12,7 +12,7 @@ season: "Archived Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 21 Sep 2022<small>        
+<small>Updated 5 Jan 2023<small>        
         
 Age Advisories/Limits & Content Warnings for *past* events (including *archived* livestreams on our YouTube channel) is available below, including elements that may distress, cause upset, or trigger. → [2022](/archive/warnings/#2022) · [2021](/archive/warnings/#2021) · [2020](/archive/warnings/#2020) · [2019](/archive/warnings/#2019)<br>&nbsp;Please click [here](/warnings) for *upcoming* events.        
         
@@ -21,10 +21,15 @@ If issues raised affect you, these organisations may be of support:&nbsp;&nbsp;<
 <hr>         
 #### 2022        
         
-##### [26+27 May. Contact | Works Ahead 2022](/current/2022-worksahead)        
+##### [1 Oct | Emergency 22 at Contact](/archive/2022-emergency)        
+Age Advisory: **16+** (parental/guardian discretion).<br>Content Warnings: some works may disturb, specifics follow.        
+[**Daytime, Noon-5pm**](/archive/2022-emergency/daytime)<br>&nbsp;**Noon-1.30pm** Julie Burrow — body horror.<br>&nbsp;**Noon-1.40pm** Ursula Troche — none.<br>&nbsp;**Noon-2pm** Hazel Lam — none.<br>&nbsp;**Noon-2pm** Tania Camara — a conversation about race.<br>&nbsp;**Noon-3pm** kane stonestreet — imagery may evoke feelings of drowning.<br>&nbsp;**Noon-5pm** Clodagh Chapman & James Varney — likely allusions to death; when contributing please be sensitive with label and include warning if needed.<br>&nbsp;**Noon-5pm** Malandra Jacks Creative — personal conversations about relationships and dementia; partial nudity.<br>&nbsp;**Noon-5pm** Maya Chowdhry — participatory one-to-one with optional alcohol offered, challenge 25 in operation.<br>&nbsp;**Noon-5pm** Nicky Murmann — participatory one-to-one with optional food offered which may contain allergens, please check ingredient list before accepting.<br>&nbsp;**Noon-5pm** Sweætshops® — participatory one-to-one including filming and photography of audience members. In the light of recent national events, certain imagery may be upsetting/disturbing.<br>&nbsp;**2.30pm-3pm** Charlotte McShane — mild violence, sexual aggression.<br>&nbsp;**3pm-3.20pm** Ran — none.<br>&nbsp;**3pm-5pm** leon clowes — references to rape, incest, paedophilia.<br>&nbsp;**3pm-5pm** Nathan Walker — none.       
+[**Evening, 5pm-10pm**](/archive/2022-emergency/evening)<br>&nbsp;**5pm** DNA Studio — none.<br>&nbsp;**5.30pm** Jian Yi — none.<br>&nbsp;**6pm** Kerensa Diball — adult themes, mentions of reproduction, politics, Roe v. Wade.<br>&nbsp;**6.30pm** Christian Asare — none.<br>&nbsp;**7pm** Bold Mellon Collective — sudden loud noises.<br>&nbsp;**8pm** Emergency Chorus — none.<br>&nbsp;**8.30pm** Josh Coates & Alicia Jane Turner — loud sounds, earplugs available.<br>&nbsp;**9pm** Kellie Colbert — self-harm, emotional abuse, eating disorders.<br>&nbsp;**9.30pm** Bitterroot — violence and flashing/**strobing** lights.         
+        
+##### [26+27 May. Contact | Works Ahead 2022](/archive/2022-worksahead)        
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: included complex themes that may disturb, specific warnings follow.<br>&nbsp;Helena Ascough — clown imagery may disturb; discusses violence and discrimination.<br>&nbsp;Ross McCaffrey — includes audience interaction, flashing lights, haze, loud noises, swearing, and vocal references to police/state brutality + death.<br>&nbsp;Will Dickie — addresses themes of addiction and the social construct of race; makes direct references to the transatlantic slave trade, and gives detailed descriptions of addictive behaviours.        
         
-##### [4 May. The Lowry | *Dead Cats* by Proto-type Theater & Adam York Gregory](/current/2022-springsummer/proto-type)        
+##### [4 May. The Lowry | *Dead Cats* by Proto-type Theater & Adam York Gregory](/archive/2022-springsummer/proto-type)        
 Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: included strong swearing & complex themes.        
         
 <hr>         
