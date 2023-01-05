@@ -17,17 +17,17 @@ season: "Emergency 1|10|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2022-emergency/#artists) · [details](/current/2022-emergency/#details) · [access](/current/2022-emergency/#access) · [about](/current/2022-emergency/#about) · [websites](/current/2022-emergency/#websites)</span> · <small>Updated 17 Nov 2022</small>     
+<span style='font-variant: small-caps'>→ [artists](/archive/2022-emergency/#artists) · [details](/archive/2022-emergency/#details) · [access](/archive/2022-emergency/#access) · [about](/archive/2022-emergency/#about) · [websites](/archive/2022-emergency/#websites)</span> · <small>Updated 5 Jan 2023</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
-Manchester’s twenty-second micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 1 October** — with a [Daytime](/current/2022-emergency/daytime) of performance installations, one-to-ones, and interventions from Noon — followed by an [Evening](/current/2022-emergency/evening) full of short shows from 5pm.<br>See [artist's images](/galleries/2022-emergencypre) — and now that it's over, see [images from the event](/galleries/2022-emergency).      
+Manchester’s twenty-second micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 1 October** — with a [Daytime](/archive/2022-emergency/daytime) of performance installations, one-to-ones, and interventions from Noon — followed by an [Evening](/archive/2022-emergency/evening) full of short shows from 5pm.<br>See [artist's images](/galleries/2022-emergencypre) — and now that it's over, see [images from the event](/galleries/2022-emergency).      
         
 #### Artists         
-[**Daytime, Noon-5pm**](/current/2022-emergency/daytime) · Charlotte McShane · Clodagh Chapman & James Varney · Hazel Lam · Julie Burrow · kane stonestreet · leon clowes · Malandra Jacks Creative · Maya Chowdhry · Nathan Walker · Nicky Murmann · Ran · Sweætshops® · Tania Camara · Ursula Troche<br>[**Evening, 5pm-10pm**](/current/2022-emergency/evening) · Bitterroot · Bold Mellon Collective · Christian Asare · DNA Studio · Emergency Chorus · Jian Yi · Josh Coates & Alicia Jane Turner · Kellie Colbert · Kerensa Diball<br><small>*Participating artists subject to change.*</small>         
+[**Daytime, Noon-5pm**](/archive/2022-emergency/daytime) · Charlotte McShane · Clodagh Chapman & James Varney · Hazel Lam · Julie Burrow · kane stonestreet · leon clowes · Malandra Jacks Creative · Maya Chowdhry · Nathan Walker · Nicky Murmann · Ran · Sweætshops® · Tania Camara · Ursula Troche<br>[**Evening, 5pm-10pm**](/archive/2022-emergency/evening) · Bitterroot · Bold Mellon Collective · Christian Asare · DNA Studio · Emergency Chorus · Jian Yi · Josh Coates & Alicia Jane Turner · Kellie Colbert · Kerensa Diball<br><small>*Participating artists subject to change.*</small>         
           
 #### Details         
-Entry: no need to book, just turn up and Pay What You Decide by cash or card.<br>*NB* some works have limited capacity on a first-come first-served basis.<br>Times: Saturday 1 October 2022 · [Daytime, Noon-5pm](/current/2022-emergency/daytime) · [Evening, 5pm-10pm](/current/2022-emergency/evening)<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA         
+Entry: no need to book, just turn up and Pay What You Decide by cash or card.<br>*NB* some works have limited capacity on a first-come first-served basis.<br>Times: Saturday 1 October 2022 · [Daytime, Noon-5pm](/archive/2022-emergency/daytime) · [Evening, 5pm-10pm](/archive/2022-emergency/evening)<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA         
         
 #### Access         
 Age Advisory: **16+** (mainly aimed at adults, parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: Live Art + contemporary performance works with varied content.<br>Covid measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
@@ -41,4 +41,4 @@ Our annual platform for Live Art and contemporary performance, [Emergency](/hab/
         
 #### Websites         
 <a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> · <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>               
-<small><span style='font-variant: small-caps'>[back to top](/current/2022-emergency)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2022-emergency)</span></small>
