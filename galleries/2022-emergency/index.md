@@ -9,7 +9,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: Emergency 22
-more_url: "../../current/2022-emergency"
+more_url: "../../archive/2022-emergency"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "A day out for the curious at Contact, Sat 1 Oct 2022 · Tania Camara"}
