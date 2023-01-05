@@ -16,13 +16,13 @@ season: "Hazard by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---         
-<small>Updated 17 Nov 2022</small>        
+<small>Updated 5 Jan 2023</small>        
          
 **Hazard** is our biennial micro-festival of incidental intervention and sited performance — blurring the boundaries between art and activism…         
          
-Our **[eighth Hazard was a *Gambit*](/current/2022-springsummer/gambit)** in St Ann's Square on **20 August 2022** — a game of strategy came to life, as human chess pieces invaded Manchester City Centre in a new kind of powerplay: turning the tables on the traditional order. A playful intervention — see a [gallery of images](/galleries/2022-gambit) from the day.        
+Our **[eighth Hazard was a *Gambit*](/archive/2022/gambit)** in St Ann's Square on **20 August 2022** — a game of strategy came to life, as human chess pieces invaded Manchester City Centre in a new kind of powerplay: turning the tables on the traditional order. A playful intervention — see a [gallery of images](/galleries/2022-gambit) from the day.        
        
-[*Gambit* by Proud & Loud Arts](/current/2022-springsummer/gambit) presented by [Word of Warning](/); a [hÅb](/hab) (Hazard 2022) commission; co-produced with <a href="https://proudandloudarts.com" target="_blank">Proud & Loud Arts</a>.       
+[*Gambit* by Proud & Loud Arts](/archive/2022/gambit) presented by [Word of Warning](/); a [hÅb](/hab) (Hazard 2022) commission; co-produced with <a href="https://proudandloudarts.com" target="_blank">Proud & Loud Arts</a>.       
         
 Enquiries: <mailto:hazard@habmcr.org> · <a href="http://hazardmcr.org" target="_blank">hazardmcr.org</a> · <a href="https://twitter.com/hashtag/HazardMcr" target="_blank">#HazardMcr</a>        
         
