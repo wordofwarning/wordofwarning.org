@@ -8,7 +8,7 @@ season: "hÅb homepage"
 ---
 ### Stimulating… extraordinary… performance…   
         
-<small>Updated 5 Jan 2023</small>        
+<small>Updated 16 Nov 2022</small>        
         
 hÅb is a Manchester-based producer, developer, and strategic advocate of Live Art, contemporary performance, and sited work in the North of England.        
         
@@ -16,7 +16,7 @@ hÅb is a Manchester-based producer, developer, and strategic advocate of Live A
           
 Essentially industry-facing, we work with [artists, colleagues, venues, and others](/hab/partners) to create the best possible opportunities for new work to flourish.        
         
-Supported using public funding by <a href="http://artscouncil.org.uk/our-investment/national-portfolio-2018-22" target="_blank">Arts Council England</a>, hÅb is also:<br>**a** core <a href="http://divergencymcr.org" target="_blank">Divergency</a> partner alongside <a href="https://stunlive.com" target="_blank">STUN</a> — encouraging diversity in Live Art;<br>**a** <a href="http://gm-artisthub.co.uk" target="_blank">GM Artist Hub</a> partner — a joint artist development project;<br>**a** GM LGBTQ+ Arts & Culture Network member;<br>**a** <a href="http://liveartuk.org" target="_blank">Live Art UK</a> member — supporting & developing Live Art infrastructure;<br>**a** lead <a href="http://manchesterindependents.org" target="_blank">Manchester Independents</a> partner — supporting & spotlighting GM artists.        
+Supported using public funding by <a href="http://artscouncil.org.uk/our-investment/national-portfolio-2018-22" target="_blank">Arts Council England</a>, hÅb is also a:<br>• core <a href="http://divergencymcr.org" target="_blank">Divergency</a> partner alongside <a href="https://stunlive.com" target="_blank">STUN</a> — encouraging diversity in live art;<br>• <a href="http://gm-artisthub.co.uk" target="_blank">Greater Manchester Artist Hub</a> partner — a joint artist development project;<br>• Greater Manchester LGBTQ+ Arts and Culture Network member;<br>• <a href="http://liveartuk.org" target="_blank">Live Art UK</a> member — supporting and developing Live Art infrastructure;<br>• <a href="http://manchesterindependents.org" target="_blank">Manchester Independents</a> partner — supporting and spotlighting GM artists.        
        
 Since Jan 2012, hÅb has been 'public' in the guise of [Word of Warning](/) — a peripatetic programme of, and online signpost to, contemporary live work in Manchester + beyond… ***NB** this part of our site aims to offer information to **artists** wishing to know more about hÅb's work and how to get involved; for information about our public-facing programme please see [Word of Warning](/).*       
         
