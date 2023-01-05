@@ -54,7 +54,7 @@ Our ninth Works Ahead was planned as a sited double bill at NIAMOS in May from a
 Commissions were awarded with Contact to artists Helena Ascough and Jade Williams for them to develop their ideas for future presentation…       
          
 #### 2022         
-Our [tenth Works Ahead](/current/2022-worksahead) took place at <a href="http://contactmcr.com" target="_blank">Contact</a> in May — picking up where we were interrupted in [2020](/hab/worksahead/#2020) to show Will Dickie's finished live work alongside Ross McCaffrey's re-imagined development, plus Helena Ascough's digital outcome from [2021](/hab/worksahead/#2021) (watch her short film <a href="https://youtu.be/OXnLmCojOwI" target="_blank">here</a>).        
+Our [tenth Works Ahead](/archive/2022-worksahead) took place at <a href="http://contactmcr.com" target="_blank">Contact</a> in May — picking up where we were interrupted in [2020](/hab/worksahead/#2020) to show Will Dickie's finished live work alongside Ross McCaffrey's re-imagined development, plus Helena Ascough's digital outcome from [2021](/hab/worksahead/#2021) (watch her short film <a href="https://youtu.be/OXnLmCojOwI" target="_blank">here</a>).        
          
 #### 2023         
 Jade Williams' work will come to fruition in our eleventh Works Ahead, alongside other artists (to be announced) at Contact in May…        
