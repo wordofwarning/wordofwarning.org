@@ -17,9 +17,9 @@ season: "Emergency Daytime 1|10|2022, Noon-5pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 30 Sep 2022, 8.45pm</small>     
+<small>Updated 5 Jan 2023</small>     
         
-*Presented by* Word of Warning *+* Contact *in the first half of [Emergency 22](/current/2022-emergency) — a Daytime of performance installations, one-to-ones, and interventions from Noon to 5pm on Saturday 1 October.*        
+*Presented by* Word of Warning *+* Contact *in the first half of [Emergency 22](/archive/2022-emergency) — a Daytime of performance installations, one-to-ones, and interventions from Noon to 5pm on Saturday 1 October.*        
          
 #### Daytime Schedule         
 **Noon-1.30pm** Julie Burrow · **Noon-1.40pm** Ursula Troche · **Noon-2pm** Hazel Lam · **Noon-2pm** Tania Camara · **Noon-3pm** kane stonestreet · **Noon-5pm** Clodagh Chapman & James Varney · **Noon-5pm** Malandra Jacks Creative · **Noon-5pm**  Maya Chowdhry · **Noon-5pm** Nicky Murmann · **Noon-5pm** Sweætshops® · **2.30pm-3pm** Charlotte McShane · **3pm-3.20pm** Ran · **3pm-5pm** leon clowes · **3pm-5pm** Nathan Walker<br><small>*Timings and participating artists subject to change.*</small>         
@@ -158,4 +158,4 @@ Nathan Walker is an artist and writer from West Cumbria; they work across and be
           
 <a href="https://nathan-walker.co.uk" target="_blank">nathan-walker.co.uk</a> · <a href="https://instagram.com/nthn.wlkr" target="_blank">Instagram</a> · <a href="https://twitter.com/nthnwlkr" target="_blank">Twitter</a>         
 <hr>         
-<small><span style='font-variant: small-caps'>[back to top](/current/2022-emergency/daytime)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2022-emergency/daytime)</span></small>
