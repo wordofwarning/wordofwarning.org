@@ -19,5 +19,5 @@ Age Advisories/Limits & Content Warnings for *upcoming* events are available bel
 If issues raised affect you, these organisations may be of support:&nbsp;&nbsp;<a href="https://thecalmzone.net" target="_blank">CALM</a> 0800 585858 · <a href="https://harmless.org.uk" target="_blank">Harmless</a> · <a href="https://mind.org.uk" target="_blank">Mind</a> 0300 123 3393 · <a href="https://nopanic.org.uk" target="_blank">No Panic</a> 0300 772 9844 · <a href="https://samaritans.org" target="_blank">Samaritans</a> call 116 123 or email jo@samaritans.org · <a href="https://supportline.org.uk" target="_blank">SupportLine</a> 01708 765 200 · <a href="https://www.thesurvivorstrust.org" target="_blank">The Survivors Trust</a> 08088 010 818        
 <hr>         
 
-##### 10 March | Turn 2023 at Contact        
-Age Advisory: **16+** (parental/guardian discretion).<br>Content Warnings: some works may disturb, specific warnings tba in February.        
+##### 10 March. Contact | Turn 2023        
+Age Advisory: **16+** (parental/guardian discretion).<br>Content Warnings: some works may disturb, specific warnings TBA in February.        
