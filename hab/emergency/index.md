@@ -16,17 +16,17 @@ season: "Emergency by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 16 Nov 2022</small>        
+<small>Updated 5 Jan 2023</small>        
         
 **Emergency** is our annual platform for Live Art and contemporary performance — offering a sneak preview of new live work over a single day in Manchester every Autumn and now resident at <a href="https://contactmcr.com" target="_blank">Contact</a>, its seventh home.        
          
-Manchester's [twenty-second micro-marathon](/current/2022-emergency) of the bizarre, the bold, and the beautiful took over Contact on **Saturday 1 October 2022** — with a daytime of performance installations, one-to-ones, and interventions from Noon — followed by an evening full of short shows from 5pm.        
+Manchester's [twenty-second micro-marathon](/archive/2022-emergency) of the bizarre, the bold, and the beautiful took over Contact on **Saturday 1 October 2022** — with a daytime of performance installations, one-to-ones, and interventions from Noon — followed by an evening full of short shows from 5pm.        
         
-Overall, [Emergency 22](/current/2022-emergency) presented 23 new works throughout the building — see a [gallery of images](/galleries/2022-emergency) from the day.         
+Overall, [Emergency 22](/archive/2022-emergency) presented 23 new works throughout the building — see a [gallery of images](/galleries/2022-emergency) from the day.         
          
 *Probably* England's longest running Live Art event, Emergency aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions to be produced by hÅb + Contact.        
         
-[Emergency 22](/current/2022-emergency) presented by [Word of Warning](/) + <a href="http://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.         
+[Emergency 22](/archive/2022-emergency) presented by [Word of Warning](/) + <a href="http://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>.         
         
 Enquiries: <mailto:emergency@habmcr.org> · <a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> · <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>
         
