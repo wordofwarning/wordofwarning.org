@@ -10,7 +10,7 @@ stylesheet: gallery.css
 
 header_url: "../../galleries"
 more_link: More info.
-more_url: "../../current/2022-springsummer/gambit"
+more_url: "../../archive/2022/gambit"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small><i>Gambit</i> presented with Proud & Loud Arts, Aug 2022.</small>", show: "<small>All images copyright &copy;2022 Word of Warning</small>"}
