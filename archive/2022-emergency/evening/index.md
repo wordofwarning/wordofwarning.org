@@ -17,7 +17,7 @@ season: "Emergency Evening 1|10|2022, 5pm-10pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 28 Sep 2022, 2pm</small>     
+<small>Updated 5 Jan 2023</small>     
         
 *Presented by* Word of Warning *+* Contact *in the second half of [Emergency 22](/archive/2022-emergency) — an Evening full of short shows from 5pm to 10pm on Saturday 1 October.*        
          
