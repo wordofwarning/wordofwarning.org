@@ -4,8 +4,11 @@ layout: archive
 season: "Archive"
 
 archived:
+    - {folder: "2022", name: "Autumn/Winter 2021", class: "p2022"}
+    - {folder: "2022-emergency", name: "Emergency 22", class: "e2021"}
+    - {folder: "2022-worksahead", name: "Works Ahead 2022", class: "w2022"}
     - {folder: "2021-autumnwinter", name: "Autumn/Winter 2021", class: "aw2021"}
-    - {folder: "2021-emergency", name: "Emergency 2021", class: "e2021"}
+    - {folder: "2021-emergency", name: "Emergency 21", class: "e2021"}
     - {folder: "2021-springsummer", name: "Spring/Summer 2021", class: "ss2021"}
     - {folder: "2021-domestic", name: "Domestic 2021", class: "dom"}
     - {folder: "2020-autumnwinter", name: "Autumn/Winter 2020", class: "aw2020"}
