@@ -17,9 +17,9 @@ season: "Ross McCaffrey in Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2022-worksahead/mccaffrey/#artist) · [ticketing](/current/2022-worksahead/mccaffrey/#ticketing) · [access](/current/2022-worksahead/mccaffrey/#access) · [credits](/current/2022-worksahead/mccaffrey/#credits) · [websites](/current/2022-worksahead/mccaffrey/#websites)</span> · <small>Updated 23 May 2022</small>        
+<span style='font-variant: small-caps'>→ [artist](/archive/2022-worksahead/mccaffrey/#artist) · [ticketing](/archive/2022-worksahead/mccaffrey/#ticketing) · [access](/archive/2022-worksahead/mccaffrey/#access) · [credits](/archive/2022-worksahead/mccaffrey/#credits) · [websites](/archive/2022-worksahead/mccaffrey/#websites)</span> · <small>Updated 5 Jan 2023</small>        
         
-*Presented by* Word of Warning + Contact *in* [Works Ahead 2022](/current/2022-worksahead)        
+*Presented by* Word of Warning + Contact *in* [Works Ahead 2022](/archive/2022-worksahead)        
         
 This is a story about the power of the state. A story about the power of ordinary people. A story about hope. And it's all made up.         
         
@@ -35,7 +35,7 @@ A Manchester-based theatre-maker + musician, Ross makes work that centres around
 #### Ticketing          
 Pay What You Decide: £10/£5/£0 | Book for <a href="https://contactmcr.com/book-online/254758" target="_blank">Thursday</a> or <a href="https://contactmcr.com/book-online/254759" target="_blank">Friday</a> via Contact        
         
-Times: Thursday 26 + Friday 27 May 2022, 7pm<br>Show duration: *about* 45 mins · [Works Ahead 2022](/current/2022-worksahead) duration: *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
+Times: Thursday 26 + Friday 27 May 2022, 7pm<br>Show duration: *about* 45 mins · [Works Ahead 2022](/archive/2022-worksahead) duration: *about* 2¼ hrs<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
         
 #### Access         
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: live + recorded speech, projected visuals, choreographed movement.<br>Covid measures: taking place in Space 1, we anticipate there will be plenty of room, so please feel free to sit where you feel most comfortable. We <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>                        
@@ -48,4 +48,4 @@ Written + performed by Ross McCaffrey<br>Dramaturgy + mentoring by Peader Kirk<b
 #### Websites          
 <a href="https://instagram.com/rocaffrey" target="_blank">insta rocaffrey</a> · <a href="https://twitter.com/rocaffrey" target="_blank">@rocaffrey</a><br><a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="https://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>        
         
-<small><span style='font-variant: small-caps'>[back to top](/current/2022-worksahead/mccaffrey)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2022-worksahead/mccaffrey)</span></small>
