@@ -899,13 +899,13 @@
 	.e2021 .splash
 		{background:url(../images/header_emergency.jpg) center center}
 
-/* Spring/Summer 2022 Programme silver foil
+/* 2022 Programme silver foil (initially just for SS22)
 ------------------------------------------------------*/
 
 	.ss2022 .splash
 		{background:url(../images/header_warni_ss22.jpg) -150px center}
 
-/* Works Ahead 2022 berry w gasworks
+/* Works Ahead 2022+2023 berry w gasworks
 ------------------------------------------------------*/
 		
 	.w2022,
@@ -925,3 +925,9 @@
 
 	.w2022 .splash
 		{background:url(../images/header_woah_photo.jpg) center center}
+
+/* 2023 Programme silver foil (use SS22 for now)
+------------------------------------------------------*/
+
+	.pp2023 .splash
+		{background:url(../images/header_warni_ss22.jpg) -150px center}
