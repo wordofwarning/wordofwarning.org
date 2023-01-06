@@ -17,7 +17,7 @@ season: "Turn 10|3|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2023-turn/#artists) · [details](/current/2023-turn/#details) · [access](/current/2023-turn/#access) · [about](/current/2023-turn/#about) · [websites](/current/2023-turn/#websites)</span> · <small>Updated 6 Jan 2023</small>     
+<span style='font-variant: small-caps'>→ [artists](/current/2023-turn/#artists) · [ticketing](/current/2023-turn/#ticketing) · [access](/current/2023-turn/#access) · [about](/current/2023-turn/#about) · [credits](/current/2023-turn/#credits) · [websites](/current/2023-turn/#websites)</span> · <small>Updated 6 Jan 2023</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
@@ -26,7 +26,7 @@ Manchester’s twenty-second micro-marathon of the bizarre, the bold, and the be
 #### Artists         
 *Participating artists to be announced in February.*         
           
-#### Details         
+#### Ticketing         
 Entry: no need to book, just turn up and Pay What You Decide by cash or card.<br>*NB* some works have limited capacity on a first-come first-served basis.<br>Times: Saturday 1 October 2022 · [Daytime, Noon-5pm](/current/2022-emergency/daytime) · [Evening, 5pm-10pm](/current/2022-emergency/evening)<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA         
         
 #### Access         
@@ -37,7 +37,9 @@ Our annual platform for Live Art and contemporary performance, [Emergency](/hab/
          
 *Probably* England’s longest running Live Art event, [Emergency](/hab/emergency) aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions to be produced by hÅb + Contact.        
         
-[Turn](/hab/turn) 2023 produced by [hÅb](/hab); <a href="http://contactmcr.com" target="_blank">Contact</a>.     
+#### Credits                 
+[Turn](/hab/turn) 2023 produced by [hÅb](/hab); supported by <a href="http://contactmcr.com" target="_blank">Contact</a>, Company Chameleon, Project Auske, and using public funding by Arts Council England.<br>Header image: Levantes Dance Theatre at [Turn 2014](/archive/2014-turn)         
+<small><span style='font-variant: small-caps'>[back to top](/current/2023-turn)</span></small>         
         
 #### Websites         
 <a href="http://turnmcr.org" target="_blank">TurnMcr.org</a> · <a href="http://twitter.com/hashtag/TurnMcr" target="_blank">#TurnMcr</a>               
