@@ -4,7 +4,7 @@ layout: 2023-woah
 rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Works Ahead 2022" # the name of the artist or company
+artist: "Works Ahead 2023" # the name of the artist or company
 show: "A sample of new performance." # the name of the show
 artist_size: 2
 show_size: 4
