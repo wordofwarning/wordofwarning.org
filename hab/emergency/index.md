@@ -16,7 +16,7 @@ season: "Emergency by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 5 Jan 2023</small>        
+<small>Updated 6 Jan 2023</small>        
         
 **Emergency** is our annual platform for Live Art and contemporary performance — offering a sneak preview of new live work over a single day in Manchester every Autumn and now resident at <a href="https://contactmcr.com" target="_blank">Contact</a>, its seventh home.        
          
@@ -31,7 +31,7 @@ Overall, [Emergency 22](/archive/2022-emergency) presented 23 new works througho
 Enquiries: <mailto:emergency@habmcr.org> · <a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> · <a href="http://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>
         
 #### Past Editions        
-Get a feel for Emergency with last year's [21st edition](/archive/2021-emergency) + [gallery of images](/galleries/2021-emergency), 2019's [programme](/archive/2019-emergency) + [gallery](/galleries/2019-emergency), and 2018's [programme](/archive/2018-emergency) + [gallery](/galleries/2018-emergency).         
+Get a feel for Emergency with 2021's [programme](/archive/2021-emergency) + [gallery of images](/galleries/2021-emergency), 2019's [programme](/archive/2019-emergency) + [gallery](/galleries/2019-emergency), and 2018's [programme](/archive/2018-emergency) + [gallery](/galleries/2018-emergency).         
         
 **[Emergency 21](/archive/2021-emergency)** was a socially-distanced live walkthrough event at a re-opened <a href="https://contactmcr.com" target="_blank">Contact</a> on **25 September 2021** — with audiences guided on a one-way journey through the refurbished building, pausing en route in gallery fashion.        
         
