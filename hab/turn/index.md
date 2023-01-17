@@ -16,19 +16,16 @@ season: "Turn by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 18 Nov 2022</small>        
+<small>Updated 17 Jan 2023</small>        
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Manchester each spring. After a 6-year hiatus it's back at <a href="https://contactmcr.com" target="_blank">Contact</a> in **March 2023** for a tenth edition — get a feel for it with 2017's [programme](/archive/2017-turn/programme) + [gallery of images](/galleries/2017-turn).         
         
 Manchester's open call dance platform, Turn aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event.         
         
-#### Turn 2023 Call for Proposals        
-North West† dancers and dance-makers (*aged 18+*) are <a href="https://turnmcr.posthaven.com" target="_blank">now invited to submit proposals</a> of short pieces of work, works-in-progress, or extracts of longer works for inclusion in this annual event.        
+#### Turn 2023 Call for Proposals has now closed       
+North West† dancers and dance-makers (*aged 18+*) <a href="https://turnmcr.posthaven.com" target="_blank">were invited to submit proposals</a> for inclusion in this annual event by 13 January; we'll be in touch with applicants shortly and announce selected artists & programme in due course.        
         
-#### For details & to apply please go to <a href="https://turnmcr.posthaven.com" target="_blank">turnmcr.posthaven.com</a>         
-#### Proposal Deadline: Friday 13 January 2023, 5pm        
-        
-We're experimenting with the form of Turn in 2023, to include a single **evening of public performances on Fri 10 March** — followed by an **artist day on Sat 11 March** incorporating a workshop or masterclasses and feedback sessions. Participating artists will be expected to attend **both** days.        
+We've experimented with the form of Turn this year, to include a single **evening of public performances on Fri 10 March** — followed by an **artist day on Sat 11 March** incorporating a workshop or masterclasses and feedback sessions. Participating artists will be expected to attend **both** days.        
          
 † *<a href="http://en.wikipedia.org/wiki/North_West_England" target="_blank">North West England</a> consists of Cheshire, Cumbria, Greater Manchester, Lancashire + Merseyside; it does **NOT** include Yorkshire or Derbyshire*.        
          
