@@ -10,7 +10,7 @@ season: "Performance Programme 2023"
 ---
 <span style='font-variant: small-caps'>→ [about](/current/2023/#about) · [audiences](/current/2023/#audiences) · [by](/current/2023/#by) · [people](/current/2023/#people) · [warnings](/current/2023/#warnings)</span> · <small>Updated 2 Feb 2023</small>        
          
-*Spring begins with [Turn's night of new dance](/current/2023-turn) at Contact on Friday 10 March, to be followed by more in May…*         
+*Spring begins with [Turn's night of new dance](/current/2023-turn) at Contact on Friday 10 March, and there's more new work to come in May…*         
          
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
@@ -35,7 +35,7 @@ We don't want to put you off by talking art form labels — yes, there'll be the
 #### By         
 Word of Warning is a project by Manchester-based [hÅb](/hab) — you might not have heard of us though you may know some of our events, like [Emergency](http://emergencymcr.org), [Haphazard](http://haphazardmcr.org), or [Hazard](http://hazardmcr.org). Read 2021's interview with <a href="https://circlesandstalls.com/2021/09/17/an-interview-with-word-of-warnings-tamsin-drury" target="_blank">Circles & Stalls</a>.         
           
-hÅb produces, develops, and advocates for Live Art, contemporary performance, and sited work in the North of England. We're supported using public funding by <a href="http://artscouncil.org.uk/our-investment/national-portfolio-2018-22" target="_blank">Arts Council England</a>; a core <a href="http://divergencymcr.org" target="_blank">Divergency</a> partner alongside STUN — encouraging diversity in Live Art; a <a href="http://gm-artisthub.co.uk" target="_blank">GM Artist Hub</a> partner; a GM LGBTQ+ Arts & Culture Network member; a <a href="http://liveartuk.org" target="_blank">Live Art UK</a> member; a <a href="https://manchesterindependents.org" target="_blank">Manchester Independents</a> partner — supporting and spotlighting GM artists.         
+hÅb produces, develops, and advocates for Live Art, contemporary performance, and sited work in the North of England. We're supported using public funding by <a href="http://artscouncil.org.uk/our-investment/national-portfolio-2018-22" target="_blank">Arts Council England</a>; a core <a href="http://divergencymcr.org" target="_blank">Divergency</a> partner alongside STUN — encouraging diversity in Live Art; a <a href="http://gm-artisthub.co.uk" target="_blank">GM Artist Hub</a> partner; a GM LGBTQ+ Arts & Culture Network member; a <a href="http://liveartuk.org" target="_blank">Live Art UK</a> member; a lead <a href="https://manchesterindependents.org" target="_blank">Manchester Independents</a> partner — supporting and spotlighting GM artists.         
 >*Refreshing company that brings diverse shows to our door steps.*<br>*WoW are great, supporting emerging work and bringing it to new audiences.*<br>*Wonderful, daring performances that I have never been disappointed by.<br>A needed company in Manchester, feels like they really support artists.*<br>&nbsp;— Audience feedback         
          
 Performance Programme 2023 is brought to you by hÅb, with Contact + The Lowry, supported by Company Chameleon + Project Auske.        
