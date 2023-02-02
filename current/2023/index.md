@@ -10,7 +10,7 @@ season: "Performance Programme 2023"
 ---
 <span style='font-variant: small-caps'>→ [about](/current/2023/#about) · [audiences](/current/2023/#audiences) · [by](/current/2023/#by) · [people](/current/2023/#people) · [warnings](/current/2023/#warnings)</span> · <small>Updated 2 Feb 2023</small>        
          
-*Spring begins with [Turn's night of new dance](/current/2023-turn) at Contact, with more to come in May…*         
+*Spring begins with [Turn's night of new dance](/current/2023-turn) at Contact on Friday 10 March, to be followed by more in May…*         
          
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
