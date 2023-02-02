@@ -17,20 +17,20 @@ season: "Turn 10|3|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2023-turn/#artists) · [ticketing](/current/2023-turn/#ticketing) · [access](/current/2023-turn/#access) · [about](/current/2023-turn/#about) · [credits](/current/2023-turn/#credits) · [websites](/current/2023-turn/#websites)</span> · <small>Updated 6 Jan 2023</small>     
+<span style='font-variant: small-caps'>→ [artists](/current/2023-turn/#artists) · [ticketing](/current/2023-turn/#ticketing) · [access](/current/2023-turn/#access) · [about](/current/2023-turn/#about) · [credits](/current/2023-turn/#credits) · [websites](/current/2023-turn/#websites)</span> · <small>Updated 2 Feb 2023</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
-Manchester’s twenty-second micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 1 October** — with a [Daytime](/current/2022-emergency/daytime) of performance installations, one-to-ones, and interventions from Noon — followed by an [Evening](/current/2022-emergency/evening) full of short shows from 5pm.<br>See [artist's images](/galleries/2022-emergencypre) — and now that it's over, see [images from the event](/galleries/2022-emergency).      
+Manchester's tenth micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Friday 10 March** — with a .      
         
 #### Artists         
-*Participating artists to be announced in February.*         
+Christian Asare · Jack Evans · James Hewison and Company · Lizzy Owen · Maisha Kungu Dance · Matrafisc Dance Company · Matter of Fact · Orla Collier · taciturn · Zara Jane<br><small>*Participating artists subject to change.*</small>         
           
 #### Ticketing         
-Entry: no need to book, just turn up and Pay What You Decide by cash or card.<br>*NB* some works have limited capacity on a first-come first-served basis.<br>Times: Saturday 1 October 2022 · [Daytime, Noon-5pm](/current/2022-emergency/daytime) · [Evening, 5pm-10pm](/current/2022-emergency/evening)<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA         
+Entry: no need to book, just turn up and Pay What You Decide by cash or card.<br>Times: Saturday 1 October 2022 · [Daytime, Noon-5pm](/current/2022-emergency/daytime) · [Evening, 5pm-10pm](/current/2022-emergency/evening)<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA         
         
 #### Access         
-Age Advisory: **16+** (mainly aimed at adults, parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: Live Art + contemporary performance works with varied content.<br>Covid measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
+Age Advisory: **16+** (mainly aimed at adults, parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: contemporary dance and performance works with varied content.<br>Covid measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
          
 #### About         
 Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day every Autumn — this 22nd edition presents 23 short works throughout <a href="http://contactmcr.com" target="_blank">Contact</a>'s spaces.       
