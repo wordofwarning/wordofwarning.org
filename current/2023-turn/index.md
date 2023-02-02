@@ -21,7 +21,11 @@ season: "Turn 10|3|2023"
         
 *Presented by* Word of Warning *+* Contact        
         
-After a 6-year hiatus, our annual whirlwind of new North West dance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> for one extraordinary night on **Friday 10 March**. Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn 2023 transport you into a frenzy of dance with ten new works — get a feel for it with 2017's [programme](/archive/2017-turn/programme) + [gallery of images](/galleries/2017-turn).         
+Turn, the annual whirlwind of new dance returns. Ten new works by North West dancemakers take over Contact for one extraordinary night.
+
+From industrial heritage to village life, clothing to clubbing, Manchester to Ghana, inner worlds and outer expressions - an evening of physical exploration of identity featuring:
+
+Turn, our annual whirlwind of new North West dance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> for one extraordinary night on **Friday 10 March**. Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn 2023 transport you into a frenzy of dance with ten new works — get a feel for it with 2017's [programme](/archive/2017-turn/programme) + [gallery of images](/galleries/2017-turn).         
         
 #### Artists         
 Christian Asare · Jack Evans · James Hewison and Company · Lizzy Owen · Maisha Kungu Dance · Matrafisc Dance Company · Matter of Fact · Orla Collier · taciturn · Zara Jane<br><small>*Participating artists subject to change.*</small>         
