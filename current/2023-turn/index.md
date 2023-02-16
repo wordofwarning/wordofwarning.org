@@ -17,7 +17,7 @@ season: "Turn 10|3|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2023-turn/#artists) · [ticketing](/current/2023-turn/#ticketing) · [access](/current/2023-turn/#access) · [about](/current/2023-turn/#about) · [credits](/current/2023-turn/#credits) · [websites](/current/2023-turn/#websites)</span> · <small>Updated 9 Feb 2023</small>     
+<span style='font-variant: small-caps'>→ [artists](/current/2023-turn/#artists) · [ticketing](/current/2023-turn/#ticketing) · [access](/current/2023-turn/#access) · [about](/current/2023-turn/#about) · [credits](/current/2023-turn/#credits) · [websites](/current/2023-turn/#websites)</span> · <small>Updated 16 Feb 2023</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
@@ -42,7 +42,7 @@ Manchester's open call dance platform, [Turn](/hab/turn) aims to be:<br>— a pu
 Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn 2023 transport you into a frenzy of dance…        
         
 #### Credits                 
-[Turn](/hab/turn) 2023 produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England.<br>Header image: Levantes Dance Theatre at [Turn 2014](/archive/2014-turn)         
+[Turn](/hab/turn) 2023 produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England.<br>Header image: Zara Jane          
         
 #### Websites         
 <a href="https://turnmcr.org" target="_blank">TurnMcr.org</a> · <a href="https://twitter.com/hashtag/TurnMcr" target="_blank">#TurnMcr</a>               
