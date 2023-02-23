@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 2 Feb 2023<small>        
+<small>Updated 23 Feb 2023<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>&nbsp;Please click [here](/archive/warnings) for *past* events including *archived* livestreams on our YouTube channel.         
          
@@ -20,4 +20,4 @@ If issues raised affect you, these organisations may be of support:&nbsp;&nbsp;<
 <hr>         
 
 ##### [10 March. Contact | Turn 2023](/current/2023-turn)         
-Age Advisory: 15+ (parental/guardian discretion).<br>Content Warnings: specific warnings TBA mid-February.        
+Age Advisory: 15+ (parental/guardian discretion).<br>Content Warnings: some works may disturb, specifics follow:<br>&nbsp;James Hewison and Company — language that might cause upset or offence.<br>&nbsp;Lizzy Owen — sudden loud noises.<br>&nbsp;Matter of Fact — concept covers violence against women, but not depicted in the piece.<br>&nbsp;Orla Collier — strong emotions which some may find distressing.
