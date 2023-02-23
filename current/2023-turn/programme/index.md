@@ -92,4 +92,4 @@ A scene is made from a hundred still images, each telling a different story.<BR>
          
 Zara Jane is a dance artist at the beginning of their career; their practice is centred around dance for all and creating dance on themes that challenge the audience.<br>Thanks to Zac Robertson for music collaboration; Deb Hewitt, Gavin Baker, Nigel Ford, Wendy Ford for voicing the work.        
 <hr>         
-<small><span style='font-variant: small-caps'>[back to top](/current/2023-turn)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/current/2023-turn/programme)</span></small>
