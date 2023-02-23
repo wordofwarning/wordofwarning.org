@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Turn 2023" # the name of the artist or company
-show: "Programme" # the name of the show
+show: "Programme Notes" # the name of the show
 artist_size: 1
 show_size: 3
 header_image:  
@@ -17,16 +17,17 @@ season: "Turn 10|3|2023, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 23 Feb 2023, 13:45</small>     
+<small>Updated 23 Feb 2023, 15:20</small>     
         
-*[A night of new dance](/current/2023-turn) presented by* Word of Warning *+* Contact *on 10 March*        
+*[A night of new dance](/current/2023-turn) presented by* Word of Warning *+* Contact *on Fri 10 Mar.*        
          
 #### Artists         
-Christian Asare · Jack Evans · James Hewison and Company · Lizzy Owen · Maisha Kungu Dance · Matrafisc Dance Company · Matter of Fact · Orla Collier · taciturn · Zara Jane<br><small>**Timings and participating artists subject to change.*</small>         
+Christian Asare · Jack Evans · James Hewison and Company · Lizzy Owen · Maisha Kungu Dance · Matrafisc Dance Company · Matter of Fact · Orla Collier · taciturn · Zara Jane<br><small>*Timings and participating artists subject to change.*</small>         
         
-#### Programme Notes       
+#### Access         
 Age Advisory: 15+ (parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: contemporary dance and performance works with varied content.<br>*NB* please remain seated between pieces in space 1; pieces in spaces 0 and 2 repeat due to capacity limits, so your experience of the programme may vary from others.         
-<hr>         
+
+#### Programme Notes                
 Christian Asare · *Diasporic Identity — an Exploration*         
          
 *What & where exactly is "the line"? What makes me so "other" to others of my Kin, and yet again "othered" in British Culture, as African Diaspora? Where do I stop being British & start being Ghanaian, and vice versa? Is it in physical manifestation of gait or posture — subtleties in elocution, grammar, or pronunciation across dialects? Is it defined in nuances of gesture or tone?*<br>A uniquely interdisciplinary exposition of the conflicting duality of diasporic identity.        
@@ -69,7 +70,22 @@ Matter of Fact · *Cocktails*
          
 Matter of Fact is a collaboration between performer/choreographer/facilitators Erin Pollitt & Daisy Howell to make their own work focusing on feminism & popular culture.        
 <hr>         
+Orla Collier · *Endormore*        
+         
+A solo physical theatre performance piece which takes the audience on a raw & intimate journey through memories, sensations, and emotions from Orla's time growing up in a small village in the Lake District.<br>Commissioned by Great Place: Lakes & Dales; The Dukes Theatre. Supported by Brewery Arts; Theatre by The Lake.         
 
+Choreographed & performed by Orla Collier · Music composed by Mologan<br>Orla Collier is a freelance dance artist based in Cumbria who has worked with Displace Yourself Theatre, VERVE, New Adventures. Orla is inspired by the capacity that dance & theatre has for emotional expression, and how simply sharing honest feelings & experiences can have huge impacts.<br>Molagon is an independent musician from Cumbria who is now based in Manchester.        
 <hr>         
+taciturn · *Behind Closed Doors*         
+        
+In a window to our private worlds this duet explores human relationships & connections, translating private actions into public performance. Drawing on human desire to look into others' lives, the audience become voyeurs into the performers' private worlds as they grapple with their inner feelings.        
+        
+Choreographer: Jenny Rees · Performers: Jennie Hale & Jenna Jungluth<br>taciturn is an all female, Liverpool-based, dance theatre company that has been creating & performing works since 2006.        
+<hr>         
+Zara Jane · *‘Experience’*        
+        
+A scene is made from a hundred still images, each telling a different story.<BR>Our initial beliefs about the world, prior to receiving any outside influence or education, are naïve theories, merely an approximation of the truth based on our particular life experiences. To understand the whole picture, you must unlock a closed door. See the details, see the trace, see it all. The details show you the truth behind the story.        
+         
+Zara Jane is a dance artist at the beginning of their career; their practice is centred around dance for all and creating dance on themes that challenge the audience.<br>Thanks to Zac Robertson for music collaboration; Deb Hewitt, Gavin Baker, Nigel Ford, Wendy Ford for voicing the work.        
 <hr>         
 <small><span style='font-variant: small-caps'>[back to top](/current/2023-turn)</span></small>
