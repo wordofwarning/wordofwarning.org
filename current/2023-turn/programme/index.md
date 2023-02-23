@@ -19,7 +19,7 @@ season: "Turn 10|3|2023, Programme"
 ---
 <small>Updated 23 Feb 2023</small>     
         
-*[A night of new dance](/current/2023-turn) on 10 March, presented by* Word of Warning *+* Contact        
+*[A night of new dance on 10 March](/current/2023-turn), presented by* Word of Warning *+* Contact.        
          
 #### Artists         
 Christian Asare · Jack Evans · James Hewison and Company · Lizzy Owen · Maisha Kungu Dance · Matrafisc Dance Company · Matter of Fact · Orla Collier · taciturn · Zara Jane<br><small>*Timings and participating artists subject to change.*</small>         
@@ -90,6 +90,6 @@ Zara Jane · *‘Experience’*
         
 A scene is made from a hundred still images, each telling a different story.<BR>Our initial beliefs about the world, prior to receiving any outside influence or education, are naïve theories, merely an approximation of the truth based on our particular life experiences. To understand the whole picture, you must unlock a closed door. See the details, see the trace, see it all. The details show you the truth behind the story.        
          
-Zara Jane is a dance artist at the beginning of their career; their practice is centred around dance for all and creating dance on themes that challenge the audience.<br>Thanks to Zac Robertson for music collaboration; Deb Hewitt, Gavin Baker, Nigel Ford, Wendy Ford for voicing the work.        
+Zara Jane is a dance artist at the beginning of their career; their practice is centred around dance for all and creating dance on themes that challenge the audience.<br>Thanks to Zac Robertson for music collaboration; Deb Hewitt, Gavin Baker, Nigel Ford, Wendy Ford for voicing the work.<br>Header image: Zara Jane        
 <hr>         
 <small><span style='font-variant: small-caps'>[back to top](/current/2023-turn/programme)</span></small>
