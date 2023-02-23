@@ -17,11 +17,11 @@ season: "Turn 10|3|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2023-turn/#artists) · [ticketing](/current/2023-turn/#ticketing) · [access](/current/2023-turn/#access) · [about](/current/2023-turn/#about) · [credits](/current/2023-turn/#credits) · [websites](/current/2023-turn/#websites)</span> · <small>Updated 16 Feb 2023</small>     
+<span style='font-variant: small-caps'>→ [artists](/current/2023-turn/#artists) · [ticketing](/current/2023-turn/#ticketing) · [access](/current/2023-turn/#access) · [about](/current/2023-turn/#about) · [credits](/current/2023-turn/#credits) · [websites](/current/2023-turn/#websites)</span> · <small>Updated 23 Feb 2023</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
-Our annual whirlwind of new dance returns: ten works by North West dance-makers take over <a href="https://contactmcr.com" target="_blank">Contact</a> for one extraordinary night on **Friday 10 March**.          
+Our annual whirlwind of new dance returns: ten works by North West dance-makers take over <a href="https://contactmcr.com" target="_blank">Contact</a> for one extraordinary night on **Friday 10 March**.<br>See [artist's images](/galleries/2023-turnpre) — and read their [programme notes](/current/2023-turn/programme).        
         
 #### Artists         
 From industrial heritage to village life, clothing to clubbing, Manchester to Ghana, inner worlds and outer expressions — an evening of physical exploration of identity featuring: Christian Asare · Jack Evans · James Hewison and Company · Lizzy Owen · Maisha Kungu Dance · Matrafisc Dance Company · Matter of Fact · Orla Collier · taciturn · Zara Jane<br><small>*Participating artists subject to change.*</small>         
