@@ -12,7 +12,7 @@ more_link: Turn 2023
 more_url: "../../current/2023-turn"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "<i>A night of new dance at Contact, 10 March 2023</i> · Zara Jane", show: "<small>All images copyright &copy; 2023 Word of Warning</small>"}
+    -   {file: "titlepage.jpg", artist: "Zara Jane", show: "<small>All images copyright &copy; 2023 Word of Warning</small>"}
     -   {file: "james_hewison.jpg", artist: "James Hewison and Company"}
     -   {file: "matrafisc.jpg", artist: "Matrafisc Dance Company"}
     -   {file: "jack_evans.jpg", artist: "Jack Evans"}
