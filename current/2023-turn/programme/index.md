@@ -19,13 +19,13 @@ season: "Turn 10|3|2023, Programme"
 ---
 <small>Updated 23 Feb 2023</small>     
         
-*[A night of new dance on 10 March](/current/2023-turn), presented by* Word of Warning *+* Contact.        
+*[A night of new dance on 10 March](/current/2023-turn), presented by* Word of Warning *+* Contact        
          
 #### Artists         
 Christian Asare · Jack Evans · James Hewison and Company · Lizzy Owen · Maisha Kungu Dance · Matrafisc Dance Company · Matter of Fact · Orla Collier · taciturn · Zara Jane<br><small>*Timings and participating artists subject to change.*</small>         
         
 #### Access         
-Age Advisory: 15+ (parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: contemporary dance and performance works with varied content.<br>*NB* please remain seated between pieces in space 1; pieces in spaces 0 and 2 repeat due to capacity limits, so your experience of the programme may vary from others.         
+Age Advisory: 15+ (parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: contemporary dance and performance works with varied content.<br>*NB* please remain seated between pieces in space 1; pieces in spaces 0 and 2 repeat due to capacity limits, so your experience may differ from others.         
 
 #### Programme Notes                
 Christian Asare · *Diasporic Identity — an Exploration*         
