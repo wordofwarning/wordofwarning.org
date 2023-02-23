@@ -1,6 +1,6 @@
 /* THEMED PER-EVENT STYLES ---------------------------*/
 
-/* default word of warning styling + homepage header currently SS22 silver foil
+/* default word of warning styling + homepage header currently 2023 green palm
 ------------------------------------------------------*/
 
 	body,
@@ -27,7 +27,7 @@
 		{background:#000; color:#fff;}
 
 	.splash
-		{background:url(../images/header_warni_ss22.jpg) -150px center}
+		{background:url(../images/header_warni_2023.jpg) -150px center}
 
 /* hAb black
 ------------------------------------------------------*/
