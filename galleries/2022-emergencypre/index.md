@@ -12,7 +12,7 @@ more_link: Emergency 2022
 more_url: "../../archive/2022-emergency"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "<i>A day out for the curious at Contact, Sat 1 Oct 2022</i> · Tania Camara"}
+    -   {file: "titlepage.jpg", artist: "<i>A day out for the curious at Contact, Sat 1 Oct 2022</i> · Tania Camara", show: "<small>All images copyright &copy; 2022 Word of Warning</small>"}
     -   {file: "Bitterroot.jpg", artist: "Bitterroot"}
     -   {file: "Bold_Mellon.jpg", artist: "Bold Mellon Collective"} 
     -   {file: "Charlotte_McShane.jpg", artist: "Charlotte McShane"} 
