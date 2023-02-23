@@ -17,7 +17,7 @@ season: "Turn 10|3|2023, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 23 Feb 2023, 15:20</small>     
+<small>Updated 23 Feb 2023</small>     
         
 *[A night of new dance](/current/2023-turn) presented by* Word of Warning *+* Contact *on Fri 10 Mar.*        
          
@@ -54,25 +54,29 @@ Lizzy Owen is a Trinity Laban Conservatoire graduate, studying for a Masters in 
 <hr>         
 Maisha Kungu Dance · *HEARTH*        
          
-*A love letter to Manchester. Devised & diverse, together we move through the terrain of the body within the landscape of the city. This is an introduction to my world, via my community whose beginnings may be elsewhere, but now call Manchester home.*<br>Five dancers take you on a journey, celebrating differences, creating new cultures while connecting Manchester to its industrial, global, and colonial past to protest, and re-humanise migration as an innate form of human movement.         
+*A love letter to Manchester. Devised & diverse, together we move through the terrain of the body within the landscape of the city. This is an introduction to my world, via my community whose beginnings may be elsewhere, but now call Manchester home.*<br>Five dancers take you on a journey, celebrating differences and creating new cultures while connecting Manchester to its industrial, global, and colonial past to protest, and re-humanise migration as an innate form of human movement.         
          
 Made with & peformed by Nigel Beard, Tan Ire, Jesus Blancos-Santos, Yosha Gilkes, Jova Bagioli Reyes<br>Maisha Kungu is a multidisciplinary dance artist & researcher in ethnography & cultural theory. She has performed in stadiums, stages, walk-abouts, and go-go podiums while diversifying into choreography for music videos & film.        
 <hr>         
 Matrafisc Dance Company · *One Plus One Equals One*         
          
-*Are you the clothes you wearing?*         
+*Are you the clothes you are wearing?*         
          
 Choreographer & dancers: Anthony Apicella & Ina Colizza · Music by Trentemoller<br>Matrafisc Dance was established in 2015 by Manchester-based Italian choreographers Antonello Apicella & Ina Colizza, to research & express their artistic & training differences in a new choreographic language, creating exciting & unique repertoire.         
 <hr>         
 Matter of Fact · *Cocktails*         
         
-*How safe can women feel walking home anymore? Is it better to stay as a group & grip your keys, or wear baggy clothes, cut your hair short, and not make eye contact? When does violence against women stop being a feminist issue and start being a human rights emergency?*<br>Through the use of nostalgic music & storytelling through movement, *Cocktails* follows the journey of two young women making their way home after a night out to explore how we make the night less threatening.<br>Supported by Company Chameleon & Culture Warrington.         
+*How safe can women feel walking home anymore? Is it better to stay as a group & grip your keys, or wear baggy clothes, cut your hair short, and not make eye contact? When does violence against women stop being a feminist issue and start being a human rights emergency?*<br>Through the use of nostalgic music & storytelling through movement, *Cocktails* follows the journey of two young women making their way home after a night out to explore how we make the night less threatening.        
+        
+Supported by Company Chameleon & Culture Warrington.         
          
 Matter of Fact is a collaboration between performer/choreographer/facilitators Erin Pollitt & Daisy Howell to make their own work focusing on feminism & popular culture.        
 <hr>         
 Orla Collier · *Endormore*        
          
-A solo physical theatre performance piece which takes the audience on a raw & intimate journey through memories, sensations, and emotions from Orla's time growing up in a small village in the Lake District.<br>Commissioned by Great Place: Lakes & Dales; The Dukes Theatre. Supported by Brewery Arts; Theatre by The Lake.         
+A solo physical theatre performance piece which takes the audience on a raw & intimate journey through memories, sensations, and emotions from Orla's time growing up in a small village in the Lake District.        
+        
+Commissioned by Great Place: Lakes & Dales; The Dukes Theatre. Supported by Brewery Arts; Theatre by The Lake.         
 
 Choreographed & performed by Orla Collier · Music composed by Mologan<br>Orla Collier is a freelance dance artist based in Cumbria who has worked with Displace Yourself Theatre, VERVE, New Adventures. Orla is inspired by the capacity that dance & theatre has for emotional expression, and how simply sharing honest feelings & experiences can have huge impacts.<br>Molagon is an independent musician from Cumbria who is now based in Manchester.        
 <hr>         
