@@ -17,7 +17,7 @@ season: "Turn 10|3|2023, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 23 Feb 2023</small>     
+<small>Updated 27 Feb 2023</small>     
         
 *[A night of new dance on 10 March](/current/2023-turn), presented by* Word of Warning *+* Contact        
          
@@ -70,7 +70,7 @@ Matter of Fact · *Cocktails*
         
 Supported by Company Chameleon & Culture Warrington.         
          
-Matter of Fact is a collaboration between performer/choreographer/facilitators Erin Pollitt & Daisy Howell to make their own work focusing on feminism & popular culture.        
+Matter of Fact is directed by Erin Pollitt, whose work focuses on feminism & popular culture.<br>Choreographed & performed by Erin Pollitt & Daisy Howell — performers, choreographers, and facilitators across NW England.
 <hr>         
 Orla Collier · *Endormore*        
          
