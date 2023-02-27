@@ -70,7 +70,7 @@ Matter of Fact · *Cocktails*
         
 Supported by Company Chameleon & Culture Warrington.         
          
-Matter of Fact is directed by Erin Pollitt, whose work focuses on feminism & popular culture.<br>Choreographed & performed by Erin Pollitt & Daisy Howell — performers, choreographers, and facilitators across NW England.
+Choreographed & performed by Erin Pollitt & Daisy Howell — performers, choreographers & facilitators across NW England.<br>Matter of Fact is directed by Erin Pollitt, whose work focuses on feminism & popular culture.
 <hr>         
 Orla Collier · *Endormore*        
          
