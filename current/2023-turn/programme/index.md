@@ -17,7 +17,7 @@ season: "Turn 10|3|2023, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 27 Feb 2023</small>     
+<small>Updated 28 Feb 2023</small>     
         
 *[A night of new dance on 10 March](/current/2023-turn), presented by* Word of Warning *+* Contact        
          
@@ -50,7 +50,7 @@ Lizzy Owen · *The Unheard*
          
 Taking Samuel Beckett's *Not, I* as a stimulus to create sound & movement, this piece aims to amplify the desperation of needing to be heard while only being seen. The female voice is present but not acknowledged or understood. Looking at the relationships between performer & watcher, performer & auditor, the aim of the work is to bridge the gap between the unseen hierarchy of performer & audience, as well as creating a feeling of the uncomfortable.         
          
-Lizzy Owen is a Trinity Laban Conservatoire graduate, studying for a Masters in Choreography at the University of Salford.         
+Lizzy Owen is a Trinity Laban Conservatoire graduate, studying for a Masters in Choreography at the University of Salford.<br>Musicians: Ashley McAulay & Dave Crawley         
 <hr>         
 Maisha Kungu Dance · *HEARTH*        
          
