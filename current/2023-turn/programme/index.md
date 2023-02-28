@@ -34,7 +34,7 @@ Christian Asare · *Diasporic Identity — an Exploration*
         
 Christian Asare is a practising fine artist with a focus on afro-futurism & installation. He is also a dancer & choreographer working across theatre, Live Art, modern dance. His work is reflective of an eclectic transatlantic education, pulling influence & inspiration from variations in language & cross-cultural heritage.
 <hr>              
-Jack Evans · *Symbolic Communcation*        
+Jack Evans · *Symbolic Communication*        
         
 *I want to showcase how my movement represents the words I want to speak, using BSL to inform the different emotions I will re-enact as part of my movement in response to the conscious body. The aim is to create a barrier to over-thinking, which prevents me from communicating through fear of judgement, backlash, and rejection. By re-enacting these fears I gain courage to retaliate and become free. I want to show & raise awareness of the reality I face as someone with Asperger's syndrome.*         
          
