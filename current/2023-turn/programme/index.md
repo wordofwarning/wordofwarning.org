@@ -17,7 +17,7 @@ season: "Turn 10|3|2023, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 28 Feb 2023</small>     
+<small>Updated 2 March 2023</small>     
         
 *[A night of new dance on 10 March](/current/2023-turn), presented by* Word of Warning *+* Contact        
          
@@ -25,7 +25,7 @@ season: "Turn 10|3|2023, Programme"
 Christian Asare · Jack Evans · James Hewison and Company · Lizzy Owen · Maisha Kungu Dance · Matrafisc Dance Company · Matter of Fact · Orla Collier · taciturn · Zara Jane<br><small>*Timings and participating artists subject to change.*</small>         
         
 #### Access         
-Age Advisory: 15+ (parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: contemporary dance and performance works with varied content.<br>*NB* please remain seated between pieces in space 1; pieces in spaces 0 and 2 repeat due to capacity limits, so your experience may differ from others.         
+Age Advisory: 15+ (parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: contemporary dance and performance works with varied content.<br>*NB* please remain seated between pieces in space 1; pieces in spaces 0 and 2 repeat due to capacity limits, so your experience may differ from others; for Orla Collier's piece in space 0 you may be seated or standing, please indicate if you need a seat.         
 
 #### Programme Notes                
 Christian Asare · *Diasporic Identity — an Exploration*         
@@ -76,9 +76,9 @@ Orla Collier · *Endormore*
          
 A solo physical theatre performance piece which takes the audience on a raw & intimate journey through memories, sensations, and emotions from Orla's time growing up in a small village in the Lake District.        
         
-Commissioned by Great Place: Lakes & Dales; The Dukes Theatre. Supported by Brewery Arts; Theatre by The Lake.         
-
-Choreographed & performed by Orla Collier · Music composed by Mologan<br>Orla Collier is a freelance dance artist based in Cumbria who has worked with Displace Yourself Theatre, VERVE, New Adventures. Orla is inspired by the capacity that dance & theatre has for emotional expression, and how simply sharing honest feelings & experiences can have huge impacts.<br>Molagon is an independent musician from Cumbria who is now based in Manchester.        
+Commissioned by Great Place: Lakes & Dales; The Dukes Theatre. Supported by Brewery Arts; Theatre by The Lake. *Endormore* has also been developed into a full-length work, premiering at The Dukes Theatre on 20 April as part of Blast Fest.         
+         
+Choreographed & performed by Orla Collier · Music composed by Molagon<br>Orla Collier is a freelance dance artist based in Cumbria, working as a performer, choreographer and teacher. She is inspired by the capacity that dance & theatre has for emotional expression, and how sharing honest feelings & experiences can have huge impacts.<br>Rory Lee aka Molagon is an independent music producer & artist based in Manchester. He uses a mixture of guitar, synth, and samples to create unique instrumentation full of interesting texture & ambience.        
 <hr>         
 taciturn · *Behind Closed Doors*         
         
