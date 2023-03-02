@@ -76,9 +76,9 @@ Orla Collier · *Endormore*
          
 A solo physical theatre performance piece which takes the audience on a raw & intimate journey through memories, sensations, and emotions from Orla's time growing up in a small village in the Lake District.        
         
-Commissioned by Great Place: Lakes & Dales; The Dukes Theatre. Supported by Brewery Arts; Theatre by The Lake. *Endormore* has also been developed into a full-length work, premiering at The Dukes Theatre on 20 April as part of Blast Fest.         
+Commissioned by Great Place: Lakes & Dales; The Dukes. Supported by Brewery Arts; Theatre by The Lake.<br>The full length version will premiere at Blast Fest at The Dukes on 20 April.         
          
-Choreographed & performed by Orla Collier · Music composed by Molagon<br>Orla Collier is a freelance dance artist based in Cumbria, working as a performer, choreographer and teacher. She is inspired by the capacity that dance & theatre has for emotional expression, and how sharing honest feelings & experiences can have huge impacts.<br>Rory Lee aka Molagon is an independent music producer & artist based in Manchester. He uses a mixture of guitar, synth, and samples to create unique instrumentation full of interesting texture & ambience.        
+Choreographed & performed by Orla Collier · Music composed by Molagon<br>Orla Collier is a freelance dance artist based in Cumbria. A performer, choreographer, and teacher, she is inspired by the capacity that dance & theatre has for emotional expression, and how sharing honest feelings & experiences can have huge impacts.<br>Rory Lee aka Molagon is an independent music producer & artist based in Manchester. He uses a mixture of guitar, synth, and samples to create unique instrumentation full of interesting texture & ambience.        
 <hr>         
 taciturn · *Behind Closed Doors*         
         
