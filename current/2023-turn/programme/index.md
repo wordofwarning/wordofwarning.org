@@ -17,7 +17,7 @@ season: "Turn 10|3|2023, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 2 March 2023</small>     
+<small>Updated 7 March 2023</small>     
         
 *[A night of new dance on 10 March](/current/2023-turn), presented by* Word of Warning *+* Contact        
          
@@ -56,7 +56,7 @@ Maisha Kungu Dance · *HEARTH*
          
 *A love letter to Manchester. Devised & diverse, together we move through the terrain of the body within the landscape of the city. This is an introduction to my world, via my community whose beginnings may be elsewhere, but now call Manchester home.*<br>Five dancers take you on a journey, celebrating differences and creating new cultures while connecting Manchester to its industrial, global, and colonial past to protest, and re-humanise migration as an innate form of human movement.         
          
-Made with & peformed by Nigel Beard, Tan Ire, Jesus Blancos-Santos, Yosha Gilkes, Jova Bagioli Reyes<br>Maisha Kungu is a multidisciplinary dance artist & researcher in ethnography & cultural theory. She has performed in stadiums, stages, walk-abouts, and go-go podiums while diversifying into choreography for music videos & film.        
+Made with & performed by Nigel Beard, Tan Ire, Jesus Blancos-Santos, Yosha Gilkes, Jova Bagioli Reyes<br>Maisha Kungu is a multidisciplinary dance artist & researcher in ethnography & cultural theory. She has performed in stadiums, stages, walk-abouts, and go-go podiums while diversifying into choreography for music videos & film.        
 <hr>         
 Matrafisc Dance Company · *One Plus One Equals One*         
          
