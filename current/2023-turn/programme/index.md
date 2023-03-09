@@ -17,15 +17,15 @@ season: "Turn 10|3|2023, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 7 March 2023</small>     
+<small>Updated 9 March 2023</small>     
         
 *[A night of new dance on 10 March](/current/2023-turn), presented by* Word of Warning *+* Contact        
          
 #### Artists         
-Christian Asare · Jack Evans · James Hewison and Company · Lizzy Owen · Maisha Kungu Dance · Matrafisc Dance Company · Matter of Fact · Orla Collier · taciturn · Zara Jane<br><small>*Timings and participating artists subject to change.*</small>         
+Christian Asare · Jack Evans · Lizzy Owen · Maisha Kungu Dance · Matrafisc Dance Company · Matter of Fact · Orla Collier · taciturn · Zara Jane<br>† <small>*Participating artists subject to change; unfortunately James Hewison and Company are unable to perform due to illness.*</small>         
         
 #### Access         
-Age Advisory: 15+ (parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: contemporary dance and performance works with varied content.<br>*NB* please remain seated between pieces in space 1; pieces in spaces 0 and 2 repeat due to capacity limits, so your experience may differ from others; for Orla Collier's piece in space 0 you may be seated or standing, please indicate if you need a seat.         
+Age Advisory: 15+ (parental/guardian discretion)<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: contemporary dance and performance works with varied content.<br>Covid measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com><br>*NB* please remain seated between pieces in space 1; pieces in spaces 0 and 2 repeat due to capacity limits, so your experience may differ from others; for Orla Collier's piece in space 0 you may be seated or standing, please indicate if you need a seat.         
 
 #### Programme Notes                
 Christian Asare · *Diasporic Identity — an Exploration*         
@@ -40,11 +40,9 @@ Jack Evans · *Symbolic Communication*
          
 Jack Evans is a dance artist with Asperger's syndrome whose interest is in choreographing screendance projects as well as solo performances in his own or others' choreographies. He specialises in combining body popping & with more conceptual movement of contemporary dance.        
 <hr>         
-James Hewison and Company · *Hard Wired*        
-         
-*Hard Wired for what? Men & dance, balls & ballrooms!*<br>Referencing Warrington's industrial heritage of wire production and the nickname of its Rugby League team, this choreographic project is made by the performers, all of whom live in or were born & raised in the town. It draws on personal narrative & memories to explore the impact of birthplace & culture on their artistic journeys, while also playing with stereotypical views on working-class masculinity.         
-         
-Made & performed by Ryan Atherton, Sam Brown, Robbie Garland, James Hewison<br>James Hewison has worked nationally & internationally since 1991. Co-founder & Associate Artistic Director of Vtol Dance Co, with extensive choreographic credits for Volcano Theatre Company & Senior Lecturer in Dance at Edge Hill University.         
+James Hewison and Company        
+        
+*Unfortunately they are unable to perform due to illness.*         
 <hr>         
 Lizzy Owen · *The Unheard*        
          
