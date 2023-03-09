@@ -60,7 +60,7 @@ Matrafisc Dance Company · *One Plus One Equals One*
          
 *Are you the clothes you are wearing?*         
          
-Choreography: Antonello Apicella & Ina Colizza · Dancers: Antonello Apicella, Ina Colizza, Paula De la Puente, David Layne, Andres Martinez · Music: *Sol* by Alex, *To die for* by 1954, *Married Life* by Michael Giacchino, *All human beings* by Max Richter<br>Matrafisc Dance was established in 2015 by Manchester-based Italian choreographers Antonello Apicella & Ina Colizza, to research & express their artistic & training differences in a new choreographic language, creating exciting & unique repertoire.         
+Choreography: Antonello Apicella & Ina Colizza<br>Dancers: A Apicella, I Colizza, Paula De la Puente, David Layne, Andres Martinez · Music: *Sol*: Alex, *To die for*: 1954, *Married Life*: Michael Giacchino, *All human beings*: Max Richter<br>Matrafisc Dance was established in 2015 by Manchester-based Italian choreographers Antonello Apicella & Ina Colizza, to research & express their artistic & training differences in a new choreographic language, creating exciting & unique repertoire.         
 <hr>         
 Matter of Fact · *Cocktails* ·          
         
