@@ -24,7 +24,7 @@ season: "Turn 10|3|2023"
 Our annual whirlwind of new dance returns: nine† works by North West dance-makers take over <a href="https://contactmcr.com" target="_blank">Contact</a> for one extraordinary night on **Friday 10 March**.<br>Look at our gallery of [artist's images](/galleries/2023-turnpre) and read their [programme notes](/current/2023-turn/programme).        
         
 #### Artists         
-From industrial heritage to village life, clothing to clubbing, Manchester to Ghana, inner worlds and outer expressions — an evening of physical exploration of identity featuring: Christian Asare · Jack Evans · Lizzy Owen · Maisha Kungu Dance · Matrafisc Dance Company · Matter of Fact · Orla Collier · taciturn · Zara Jane<br><small>† *Participating artists subject to change; unfortunately James Hewison and Company are unable to perform due to illness.*</small>         
+From industrial heritage to village life, clothing to clubbing, Manchester to Ghana, inner worlds and outer expressions — an evening of physical exploration of identity featuring:<br>Christian Asare · Jack Evans · Lizzy Owen · Maisha Kungu Dance · Matrafisc Dance Company · Matter of Fact · Orla Collier · taciturn · Zara Jane<br><small>† *Participating artists subject to change; unfortunately James Hewison and Company are unable to perform due to illness.*</small>         
          
 #### Ticketing         
 Pay What You Decide: £15/£10/£5/£0 | Book <a href="https://contactmcr.com/book-online/308158" target="_blank">online via Contact</a>         
