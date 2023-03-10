@@ -17,7 +17,7 @@ season: "Turn 10|3|2023, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 9 March 2023</small>     
+<small>Updated 10 March 2023</small>     
         
 *[A night of new dance on 10 March](/current/2023-turn), presented by* Word of Warning *+* Contact        
          
@@ -47,6 +47,8 @@ James Hewison and Company
 Lizzy Owen · *The Unheard*        
          
 Taking Samuel Beckett's *Not, I* as a stimulus to create sound & movement, this piece aims to amplify the desperation of needing to be heard while only being seen. The female voice is present but not acknowledged or understood. Looking at the relationships between performer & watcher, performer & auditor, the aim of the work is to bridge the gap between the unseen hierarchy of performer & audience, as well as creating a feeling of the uncomfortable.         
+        
+Content Warning: please click [here](/warnings).        
          
 Lizzy Owen is a Trinity Laban Conservatoire graduate, studying for a Masters in Choreography at the University of Salford.<br>Musicians: Ashley McAulay & Dave Crawley         
 <hr>         
@@ -66,6 +68,8 @@ Matter of Fact · *Cocktails* ·
         
 *How safe can women feel walking home anymore? Is it better to stay as a group & grip your keys, or wear baggy clothes, cut your hair short, and not make eye contact? When does violence against women stop being a feminist issue and start being a human rights emergency?*<br>Through the use of nostalgic music & storytelling through movement, *Cocktails* follows the journey of two young women making their way home after a night out to explore how we make the night less threatening.        
         
+Content Warning: please click [here](/warnings).         
+        
 Supported by Company Chameleon & Culture Warrington.         
          
 Choreographed & performed by Erin Pollitt & Daisy Howell — performers, choreographers & facilitators across NW England.<br>Matter of Fact is directed by Erin Pollitt, whose work focuses on feminism & popular culture.
@@ -73,6 +77,8 @@ Choreographed & performed by Erin Pollitt & Daisy Howell — performers, choreog
 Orla Collier · *Endormore*        
          
 A solo physical theatre performance piece which takes the audience on a raw & intimate journey through memories, sensations, and emotions from Orla's time growing up in a small village in the Lake District.        
+        
+Content Warning: please click [here](/warnings).          
         
 Commissioned by Great Place: Lakes & Dales; The Dukes. Supported by Brewery Arts; Theatre by The Lake.<br>The full length version will premiere at Blast Fest at The Dukes on 20 April.         
          
