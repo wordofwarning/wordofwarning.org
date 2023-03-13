@@ -16,16 +16,16 @@ season: "Turn by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 9 Mar 2023</small>        
+<small>Updated 13 March 2023</small>        
         
-**Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Manchester. After a 6-year hiatus it's back at <a href="https://contactmcr.com" target="_blank">Contact</a> on [**10 March 2023**](/current/2023-turn) for a tenth edition with nine short works — get a feel for it with 2017's [programme](/archive/2017-turn/programme) + [gallery of images](/galleries/2017-turn).         
+**Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Manchester. After a 6-year hiatus it returned to <a href="https://contactmcr.com" target="_blank">Contact</a> on [**10 March 2023**](/current/2023-turn) for a tenth edition with nine short works — get a feel for it with our gallery of [artist's images](/galleries/2023-turnpre) and read their [programme notes](/current/2023-turn/programme).         
         
 Manchester's open call dance platform, Turn aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event.         
         
-#### Turn 2023 Call for Proposals has now closed       
+#### Turn 2023 Call for Proposals has closed       
 North West† dancers and dance-makers (*aged 18+*) <a href="https://turnmcr.posthaven.com" target="_blank">were invited to submit proposals</a> for inclusion in this event by 13 January; see selected artists [here](/current/2023-turn/#artists).        
         
-We've experimented with the form of Turn this year, to include a single **evening of public performances on Fri 10 March** — followed by an **artist day on Sat 11 March** incorporating a workshop or masterclasses and feedback sessions. Participating artists will be expected to attend **both** days.        
+We experimented with the form of Turn this year, to include a single **evening of public performances on Fri 10 March** — followed by an **artist day on Sat 11 March** incorporating a workshop or masterclasses and feedback sessions. Participating artists are expected to attend **both** days.        
          
 † *<a href="http://en.wikipedia.org/wiki/North_West_England" target="_blank">North West England</a> consists of Cheshire, Cumbria, Greater Manchester, Lancashire + Merseyside; it does **NOT** include Yorkshire or Derbyshire*.        
          
@@ -34,6 +34,6 @@ We've experimented with the form of Turn this year, to include a single **evenin
 Enquiries: <mailto:turn@habmcr.org> · <a href="http://turnmcr.org" target="_blank">TurnMcr.org</a> · <a href="http://twitter.com/hashtag/TurnMcr" target="_blank">#TurnMcr</a>         
         
 #### Past Editions        
-First held at greenroom in spring 2009, Turn moved to <a href="https://contactmcr.com" target="_blank">Contact</a> in 2012 — the last (ninth) edition trialled a new format, with a dozen short dance-works shown on [**28 April 2017**](/archive/2017-turn), followed by a day of professional development…        
+First held at greenroom in spring 2009, Turn moved to <a href="https://contactmcr.com" target="_blank">Contact</a> in 2012; the previous (ninth) edition trialled a new format, with a dozen short dance-works shown on [**28 April 2017**](/archive/2017-turn), followed by a day of professional development — get a feel for it with 2017's [programme](/archive/2017-turn/programme) + [gallery of images](/galleries/2017-turn).         
          
 [Turn 2017](/archive/2017-turn) presented/co-produced by [Word of Warning](/)/[hÅb](/hab), <a href="https://contactmcr.com" target="_blank">Contact</a>, Dance Manchester + Manchester Dance Consortium.
