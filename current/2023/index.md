@@ -8,9 +8,9 @@ artist_size: 1
 season: "Performance Programme 2023"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2023/#about) · [audiences](/current/2023/#audiences) · [by](/current/2023/#by) · [people](/current/2023/#people) · [warnings](/current/2023/#warnings)</span> · <small>Updated 2 Feb 2023</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2023/#about) · [audiences](/current/2023/#audiences) · [by](/current/2023/#by) · [people](/current/2023/#people) · [warnings](/current/2023/#warnings)</span> · <small>Updated 13 March 2023</small>        
          
-*Spring begins with [Turn's whirlwind night of new dance](/current/2023-turn) at <a href="https://contactmcr.com" target="_blank">Contact</a> on Friday 10 March, and there's more new work to come in May…*         
+*Spring began with [Turn's whirlwind night of new dance](/current/2023-turn) at <a href="https://contactmcr.com" target="_blank">Contact</a>, and there's more new work to come in May…*         
          
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
