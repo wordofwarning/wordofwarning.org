@@ -18,7 +18,9 @@ season: "Turn by hÅb"
 ---
 <small>Updated 13 March 2023</small>        
         
-**Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Manchester. After a 6-year hiatus it returned to <a href="https://contactmcr.com" target="_blank">Contact</a> on [**10 March 2023**](/current/2023-turn) for a tenth edition with nine short works — get a feel for it with our gallery of [artist's images](/galleries/2023-turnpre) and read their [programme notes](/current/2023-turn/programme).         
+**Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Manchester.         
+         
+After a 6-year hiatus it returned to <a href="https://contactmcr.com" target="_blank">Contact</a> on [**10 March 2023**](/current/2023-turn) for a tenth edition with nine short dance-works — get a feel for it with our gallery of [artist's images](/galleries/2023-turnpre) and read their [programme notes](/current/2023-turn/programme).         
         
 Manchester's open call dance platform, Turn aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event.         
         
@@ -34,6 +36,6 @@ We experimented with the form of Turn this year, to include a single **evening o
 Enquiries: <mailto:turn@habmcr.org> · <a href="http://turnmcr.org" target="_blank">TurnMcr.org</a> · <a href="http://twitter.com/hashtag/TurnMcr" target="_blank">#TurnMcr</a>         
         
 #### Past Editions        
-First held at greenroom in spring 2009, Turn moved to <a href="https://contactmcr.com" target="_blank">Contact</a> in 2012; the previous (ninth) edition trialled a new format, with a dozen short dance-works shown on [**28 April 2017**](/archive/2017-turn), followed by a day of professional development — get a feel for it with 2017's [programme](/archive/2017-turn/programme) + [gallery of images](/galleries/2017-turn).         
+First held at greenroom in spring 2009, Turn moved to <a href="https://contactmcr.com" target="_blank">Contact</a> in 2012.<br>The ninth edition trialled a new format, with a dozen short dance-works shown on [**28 April 2017**](/archive/2017-turn), followed by a day of professional development — get a feel for it with 2017's [programme](/archive/2017-turn/programme) + [gallery of images](/galleries/2017-turn).         
          
 [Turn 2017](/archive/2017-turn) presented/co-produced by [Word of Warning](/)/[hÅb](/hab), <a href="https://contactmcr.com" target="_blank">Contact</a>, Dance Manchester + Manchester Dance Consortium.
