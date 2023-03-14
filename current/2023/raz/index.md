@@ -1,15 +1,15 @@
 ---
 # CONFIGURATION
-layout: 2022-springsummer
+layout: 2023-programme
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Proto-type Theater &&nbsp;<br>&nbsp;Adam York Gregory" # the name of the artist or company
-show: "Dead Cats" # the name of the show
-artist_size: 3
+artist: "Avital Raz" # the name of the artist or company
+show: "Unnatural Cycles&nbsp;<br>&nbsp;— A Ghost Story" # the name of the show
+artist_size: 4
 show_size: 1
-header_image: "header_proto-type-feet.jpg"    
-season: "Proto-type 4|5|2022, 8pm"
+header_image: "header_avital1.jpg"    
+season: "Proto-type 4|5|2023, 8pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,19 +17,19 @@ season: "Proto-type 4|5|2022, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [ticketing](/current/2022-springsummer/proto-type/#ticketing) · [access](/current/2022-springsummer/proto-type/#access) · [about](/current/2022-springsummer/proto-type/#about) · [artists](/current/2022-springsummer/proto-type/#artists) · [reviews](/current/2022-springsummer/proto-type/#reviews) · [credits](/current/2022-springsummer/proto-type/#credits) · [websites](/current/2022-springsummer/proto-type/#websites)</span>         
+<span style='font-variant: small-caps'>→ [ticketing](/current/2023/raz/#ticketing) · [access](/current/2023/raz/#access) · [about](/current/2023/raz/#about) · [artist](/current/2023/raz/#artist) · [reviews](/current/2023/raz/#reviews) · [credits](/current/2023/raz/#credits) · [websites](/current/2023/raz/#websites)</span>         
          
-*Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a> · <small>Updated 26 Apr 2022</small>           
+*Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a> · <small>Updated 14 March 2023</small>           
          
-**In rooms like this room, people lie.<br>Not little lies, but the kinds of lies that kill people, or worse…**         
+**There’s a growing dark cloud above the Rosenberg house.<br>Two women — one dead, one alive — need to reconcile their differences to remove it and let in new life…**         
          
 #### Ticketing         
-Pay What You Decide: *suggested amount* £5 | Book <a href="https://tickets.thelowry.com/events/wtf%20wednesday-%20proto-type%20theater%20and%20adam%20york%20gregory%20-%20dead%20cats/2022-5-4_20.00/lowry%20studio?back=2&area=6711d356-240a-ea11-a9ce-815ca3ec47bd&type=ga#_ga=2.200770158.1964221739.1646391693-1481859948.1644317178" target="_blank">online</a> or call The Lowry on 0343 208 6000        
+Pay What You Decide: £15/£10/£5/£0 | Book <a href="https://tickets.thelowry.com/events" target="_blank">online</a> or call The Lowry on 0343 208 6000        
                 
-Time: Wednesday 4 May 2022, 8pm (no interval, ends *about* 9.15pm)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry</a> (Aldridge Studio), Pier 8, Salford Quays, M50 3AZ         
+Time: Wednesday 3 May 2023, 8pm (no interval, ends *about* 9pm)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry</a> (Aldridge Studio), Pier 8, Salford Quays, M50 3AZ         
          
 #### Access         
-Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: spoken + projected text, composed sound, pre-recorded film + audio.<br>Covid measures: we <a href="https://thelowry.com/coronavirus#our-covid-19-measures" target="_blank">strongly recommend</a> audience members wear masks within The Lowry unless exempt; please get in touch if you have any queries.<br>Queries: please call <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a> on 0161 876 2183 or email <mailto:access@thelowry.com>       
+Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: ***tbc*** spoken + sung text, composed music, pre-recorded film + audio.<br>Covid measures: we <a href="https://thelowry.com/coronavirus#our-covid-19-measures" target="_blank">strongly recommend</a> audience members wear masks within The Lowry unless exempt; please get in touch if you have any queries.<br>Queries: please call <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a> on 0161 876 2183 or email <mailto:access@thelowry.com>       
          
 #### About         
 >In this room, or in rooms like this room, they use phrases like "collateral damage", like "extraordinary rendition", like "perception management".<br>They cover up their dirty words with clean ones, in rooms like this room.<br>In rooms like this room, they redact the names.<br>In rooms like this room, language is laundered.<br>The name of the game is spin.        
@@ -42,7 +42,7 @@ Part three of Proto-type's critically-acclaimed *Truth to Power Project*: a soci
          
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/668174681?h=d3dad76517" width="640" height="272" frameborder="0" allowfullscreen></iframe>         
          
-#### Artists        
+#### Artist        
 A company of multi-disciplinary artists led by Rachel Baynton, Gillian Lees + Andrew Westerside, Proto-type create original performance work that is diverse in scale, subject, and medium. Since 1997 they've made work and supported young artists in Armenia, China, France, the Netherlands, Russia, the UK, the US, and Zimbabwe.         
         
 Their *Truth to Power Project* has lifted the veil on The Secret State (*A Machine they're Secretly Building* — in [Spring17](/archive/2017-spring/proto-type)), shown how collective power can move a mountain (*The Audit (or Iceland, a modern myth)* — in [Spring18](/archive/2018-springsummer/proto-type)), and includes a radio drama with the BBC (*The Forgotten Suffragette*).       
@@ -60,6 +60,6 @@ Produced by Gillian Lees<br>Marketing + comms by Rachel Baynton<br>Production As
 Supported using public funding by the National Lottery through Arts Council England. Made possible through the continued support of ARC (Stockton), [hÅb](/hab), Lincoln Performing Arts Centre, The Lowry, Theatre-in-the-Mill (Bradford).        
          
 #### Websites          
-<a href="http://proto-type.org/projects/current/dead-cats" target="_blank">proto-type.org</a> · <a href="https://facebook.com/prototypetheater" target="_blank">Proto-type on Facebook</a> · <a href="https://twitter.com/Proto_type" target="_blank">@Proto_type</a> · <a href="https://twitter.com/hashtag/DeadCats" target="_blank">#DeadCats</a>         
+<a href="http://avitalraz.com/unnatural-cycles--a-ghost-story" target="_blank">proto-type.org</a> · <a href="https://facebook.com/prototypetheater" target="_blank">Proto-type on Facebook</a> · <a href="https://twitter.com/Proto_type" target="_blank">@Proto_type</a> · <a href="https://twitter.com/hashtag/UnnaturalCycles" target="_blank">#UnnaturalCycles</a>         
         
-<small><span style='font-variant: small-caps'>[back to top](/current/2022-springsummer/proto-type)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/current/2023/raz)</span></small>
