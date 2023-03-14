@@ -21,10 +21,11 @@ season: "Avital Raz 3|5|2023, 8pm"
          
 *Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a> · <small>Updated 14 March 2023</small>           
          
-There's a growing dark cloud above the Rosenberg house.<br>Two women — one dead, one alive — need to reconcile their differences to remove it and let in new life…         
+There's a growing dark cloud above the Rosenberg house.        
          
-<iframe width="560" height="315" src="https://www.youtube.com/embed/by6RFFVenDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Two women — one dead, one alive — need to reconcile their differences to remove it, and let in new life…         
          
+<iframe width="560" height="315" src="https://www.youtube.com/embed/by6RFFVenDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                
          
 #### Ticketing         
 Pay What You Decide: £15/£10/£5/£0 | Book <a href="https://thelowry.com/whats-on/?dates=03-05-2023" target="_blank">online</a> or call The Lowry on 0343 208 6000        
