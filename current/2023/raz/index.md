@@ -21,7 +21,7 @@ season: "Avital Raz 3|5|2023, 8pm"
          
 *Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a> · <small>Updated 14 March 2023</small>           
          
-There's a growing dark cloud above the Rosenberg house. Two women (one dead, one alive) need to reconcile their differences to remove it and let in new life…          
+There's a growing dark cloud above the Rosenberg house.<br>Two women — one dead, one alive — need to reconcile their differences to remove it, and let in new life…          
          
 A nuanced exploration of infertility, faith, and what it means to bear the weight of inherited generational trauma.          
          
@@ -33,7 +33,7 @@ Pay What You Decide: £15/£10/£5/£0 | Book <a href="https://thelowry.com/what
 Time: Wednesday 3 May 2023, 8pm (no interval, ends *about* 9pm)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry</a> (Aldridge Studio), Pier 8, Salford Quays, M50 3AZ         
          
 #### Access         
-Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: ***tbc*** spoken + sung text, composed music + live soundscape, pre-recorded film + videography.<br>Queries: please call <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a> on 0161 876 2183 or email <mailto:access@thelowry.com>       
+Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: ***tbc*** spoken + sung text, live composed music + soundscape, pre-recorded film + videography.<br>Queries: please call <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a> on 0161 876 2183 or email <mailto:access@thelowry.com>       
          
 #### About         
 Drawing on personal experiences, original new writing, and film-making underpinned by a live-looped soundscape, *Unnatural Cycles — A Ghost Story* is a nuanced exploration of infertility, faith, and what it means to bear the weight of inherited generational trauma.        
@@ -51,9 +51,9 @@ Her first solo theatre show *My Jerusalem* — a politically charged tale derive
 >*Extraordinary piece of storytelling… Relentlessly bleak, yet totally compelling… A dreamlike, other-wordly space*<br>&nbsp;— <a href="https://www.rotherhamadvertiser.co.uk/leisure/view,theatre-review-unnatural-cycles-a-ghost-story-at-sheffield-playhouse_43783" target="_blank">Rotherham Advertiser on *Unnatural Cycles*</a><br>*Nothing short of astonishing*<br>&nbsp;— <a href="https://www.exposedmagazine.co.uk" target="_blank">Mark Perkins, Exposed Magazine on *My Jerusalem*</a><br>*As perceptive of the personal as she is the political*<br>&nbsp;— <a href="https://nowthenmagazine.com" target="_blank">Now Then Magazine on *My Jerusalem*</a><br>*Revels in its power to challenge perceptions + prejudice… Nags at how the wider world may view Jewish women, and pulls back this woman's reality*<br>&nbsp;— <a href="https://loureviews.blog/2021/07/20/review-my-jerusalem-applecart-arts-online" target="_blank">LouReviews on *My Jerusalem*</a>        
        
 #### Credits          
-Written, performed, original music by Avital Raz<br>Directed by Gillian Lees<br>Dramaturgy by Peader Kirk + Gillian Lees<br>Videography by Chris Davis<br>Header Image by Darren Andrews
+Written, performed, original music by Avital Raz<br>Directed by Gillian Lees<br>Dramaturgy by Peader Kirk + Gillian Lees<br>Videography by Chris Davis<br>Header Image by Darren Andrews        
        
-***tbc***<br>Commissioned by Sheffield Theatres, Contact, Lancaster Arts.<br>Supported using public funding by the National Lottery through Arts Council England.        
+Commissioned by Sheffield Theatres, Contact, Lancaster Arts.<br>Supported using public funding by the National Lottery through Arts Council England.        
          
 #### Websites          
 <a href="http://avitalraz.com/unnatural-cycles--a-ghost-story" target="_blank">avitalraz.com</a> · <a href="https://facebook.com/avitalrazmusic" target="_blank">Avital Raz on Facebook</a> · <a href="https://instagram.com/avital.raz" target="_blank">Insta: avital.raz</a> · <a href="https://twitter.com/avitalraz" target="_blank">@avitalraz</a> · <a href="https://twitter.com/hashtag/UnnaturalCycles" target="_blank">#UnnaturalCycles</a>         
