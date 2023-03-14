@@ -32,11 +32,9 @@ Pay What You Decide: £15/£10/£5/£0 | Book <a href="https://thelowry.com/what
 Time: Wednesday 3 May 2023, 8pm (no interval, ends *about* 9pm)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry</a> (Aldridge Studio), Pier 8, Salford Quays, M50 3AZ         
          
 #### Access         
-Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: ***tbc*** spoken + sung text, composed music, pre-recorded film + audio.<br>Queries: please call <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a> on 0161 876 2183 or email <mailto:access@thelowry.com>       
+Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: ***tbc*** spoken + sung text, composed music, pre-recorded film + videography.<br>Queries: please call <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a> on 0161 876 2183 or email <mailto:access@thelowry.com>       
          
 #### About         
->???.        
-
 ***tbd*** *Dead Cats* blends new writing, performance, film-making, and an obvious plant, to show — not tell — the truths behind the fictions.        
           
 #### Artist        
@@ -50,7 +48,7 @@ Their *Truth to Power Project* has lifted the veil on The Secret State (*A Machi
 #### Credits          
 Written, performed, original music by Avital Raz<br>Directed by Gillian Lees<br>Dramaturgy by Peader Kirk + Gillian Lees<br>Videography by Chris Davis<br>Header Image by Darren Andrews
        
-Supported ***tbc*** using public funding by the National Lottery through Arts Council England, and by ***tbc*** The Lowry, [hÅb](/hab).        
+***tbc***<br>Commissioned by Sheffield Theatres, Contact, Lancaster Arts.<br>Supported using public funding by the National Lottery through Arts Council England.        
          
 #### Websites          
 <a href="http://avitalraz.com/unnatural-cycles--a-ghost-story" target="_blank">avitalraz.com</a> · <a href="https://facebook.com/avitalrazmusic" target="_blank">Avital Raz on Facebook</a> · <a href="https://instagram.com/avital.raz" target="_blank">Insta: avital.raz</a> · <a href="https://twitter.com/avitalraz" target="_blank">@avitalraz</a> · <a href="https://twitter.com/hashtag/UnnaturalCycles" target="_blank">#UnnaturalCycles</a>         
