@@ -19,7 +19,7 @@ season: "Avital Raz 3|5|2023, 8pm"
 ---
 <span style='font-variant: small-caps'>→ [ticketing](/current/2023/raz/#ticketing) · [access](/current/2023/raz/#access) · [about](/current/2023/raz/#about) · [artist](/current/2023/raz/#artist) · [reviews](/current/2023/raz/#reviews) · [credits](/current/2023/raz/#credits) · [websites](/current/2023/raz/#websites)</span>         
          
-*Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a> · <small>Updated 14 March 2023</small>           
+*Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a> · <small>Updated 14 Mar 2023, 3pm</small>           
          
 There's a growing dark cloud above the Rosenberg house.<br>Two women — one dead, one alive — need to reconcile their differences to remove it, and let in new life…          
          
@@ -33,7 +33,7 @@ Pay What You Decide: £15/£10/£5/£0 | Book <a href="https://thelowry.com/what
 Time: Wednesday 3 May 2023, 8pm (no interval, ends *about* 9pm)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry</a> (Aldridge Studio), Pier 8, Salford Quays, M50 3AZ         
          
 #### Access         
-Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: ***tbc*** spoken + sung text, live composed music + soundscape, pre-recorded film + videography.<br>Queries: please call <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a> on 0161 876 2183 or email <mailto:access@thelowry.com>       
+Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: spoken + sung text, live composed music + soundscape, pre-recorded film + videography.<br>Queries: please call <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a> on 0161 876 2183 or email <mailto:access@thelowry.com>       
          
 #### About         
 Drawing on personal experiences, original new writing, and film-making underpinned by a live-looped soundscape, *Unnatural Cycles — A Ghost Story* is a nuanced exploration of infertility, faith, and what it means to bear the weight of inherited generational trauma.        
@@ -45,7 +45,7 @@ Jerusalem-born singer-songwriter Avital Raz has made a name for herself singing 
           
 Avital studied at Jerusalem's School of Visual Theatre, before embarking on a 20-year career as a singer-songwriter and musician. After completing degrees in Western Classical singing + composition in Jerusalem, she relocated to Varanasi (India) to study the sacred art of Dhrupad singing for six years under Professor Ritwik Sanyal. She's released seven albums of her own music, and performed with acclaimed world music band Rafiki Jazz for three years.         
          
-Her first solo theatre show *My Jerusalem* — a politically charged tale derived from a song — was commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a> for [Works Ahead 2019](/archive/2019-worksahead/raz); an accompanying feature-length documentary *Your Jerusalem* was commissioned by Journeys Festival International + created with Chris Davis in 2020.          
+Her first solo theatre show [*My Jerusalem*](/archive/2019-worksahead/raz) — a politically charged tale derived from a song — was commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a> for [Works Ahead 2019](/archive/2019-worksahead); an accompanying feature-length documentary *Your Jerusalem* was commissioned by Journeys Festival International + created with Chris Davis in 2020.          
          
 #### Reviews         
 >*Extraordinary piece of storytelling… Relentlessly bleak, yet totally compelling… A dreamlike, other-wordly space*<br>&nbsp;— <a href="https://www.rotherhamadvertiser.co.uk/leisure/view,theatre-review-unnatural-cycles-a-ghost-story-at-sheffield-playhouse_43783" target="_blank">Rotherham Advertiser on *Unnatural Cycles*</a><br>*Nothing short of astonishing*<br>&nbsp;— <a href="https://www.exposedmagazine.co.uk" target="_blank">Mark Perkins, Exposed Magazine on *My Jerusalem*</a><br>*As perceptive of the personal as she is the political*<br>&nbsp;— <a href="https://nowthenmagazine.com" target="_blank">Now Then Magazine on *My Jerusalem*</a><br>*Revels in its power to challenge perceptions + prejudice… Nags at how the wider world may view Jewish women, and pulls back this woman's reality*<br>&nbsp;— <a href="https://loureviews.blog/2021/07/20/review-my-jerusalem-applecart-arts-online" target="_blank">LouReviews on *My Jerusalem*</a>        
