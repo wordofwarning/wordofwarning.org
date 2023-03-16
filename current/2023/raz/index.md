@@ -19,7 +19,7 @@ season: "Avital Raz 3|5|2023, 8pm"
 ---
 <span style='font-variant: small-caps'>→ [ticketing](/current/2023/raz/#ticketing) · [access](/current/2023/raz/#access) · [about](/current/2023/raz/#about) · [artist](/current/2023/raz/#artist) · [reviews](/current/2023/raz/#reviews) · [credits](/current/2023/raz/#credits) · [websites](/current/2023/raz/#websites)</span>         
          
-*Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a> · <small>Updated 16 Mar 2023, 3pm</small>           
+*Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a> · <small>Updated 16 Mar 2023</small>           
          
 There's a growing dark cloud above the Rosenberg house.<br>Two women — one dead, one alive — need to reconcile their differences to remove it, and let in new life…          
          
@@ -38,7 +38,7 @@ Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: may distu
 #### About         
 *Unnatural Cycles — A Ghost Story* emerged from a dream in which Avital met her Grandmother, followed by a year of listening to old cassettes in which she was interviewed about her experiences surviving the Jewish Holocaust.         
           
-Drawing on personal experiences — told in song, live-looped audio, and film — *Unnatural Cycles* holds the weight of present and generational trauma in the body of a woman reckoning with inherited pain and the desire to bear a child.        
+Drawing on personal experiences to be told in song, live-looped audio, and film, *Unnatural Cycles* holds the weight of present and generational trauma in the body of a woman reckoning with inherited pain and the desire to bear a child.        
           
 #### Artist        
 Jerusalem-born singer-songwriter Avital Raz has made a name for herself singing politically engaging, strikingly original, and fearless songs — to emerge as a distinctive and truly individual voice that speaks with a very real and potent self-expression.         
