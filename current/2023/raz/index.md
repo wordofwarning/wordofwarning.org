@@ -28,7 +28,7 @@ A nuanced exploration of infertility, faith, and what it means to bear the weigh
 <iframe width="560" height="315" src="https://www.youtube.com/embed/by6RFFVenDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                
          
 #### Ticketing         
-Pay What You Decide: £15 / £10 / £5 / £0<br>Book: <a href="https://tickets.thelowry.com/events/wtf%20wednesday-%20unnatural%20cycles%20-%20a%20ghost%20story/2023-5-3_20.00/lowry%20studio" target="_blank">online</a> or call The Lowry on 0343 208 6000        
+Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://tickets.thelowry.com/events/wtf%20wednesday-%20unnatural%20cycles%20-%20a%20ghost%20story/2023-5-3_20.00/lowry%20studio" target="_blank">online</a> or call The Lowry on 0343 208 6000        
                 
 Time: Wednesday 3 May 2023, 8pm (no interval, ends *about* 9pm)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry</a> (Aldridge Studio), Pier 8, Salford Quays, M50 3AZ         
          
