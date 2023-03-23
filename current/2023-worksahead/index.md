@@ -17,28 +17,27 @@ season: "Works Ahead 18+19|5|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2023-worksahead/#artists) · [ticketing](/current/2023-worksahead/#ticketing) · [access](/current/2023-worksahead/#access) · [about](/current/2023-worksahead/#about) · [credits](/current/2023-worksahead/#credits) · [websites](/current/2023-worksahead/#websites)</span> · <small>Updated 23 Mar 2023</small>        
+<span style='font-variant: small-caps'>→ · [ticketing](/current/2023-worksahead/#ticketing) · [access](/current/2023-worksahead/#access) · [about](/current/2023-worksahead/#about) · [artists](/current/2023-worksahead/#artists) · [credits](/current/2023-worksahead/#credits) · [websites](/current/2023-worksahead/#websites)</span> · <small>Updated 23 Mar 2023</small>        
         
 *Presented by* Word of Warning + Contact        
          
 Our annual sampler evening of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a>…        
           
-#### Artists
-A trio of new works-in-development, searching for identity on the tightrope of our histories, amidst the isolation of our immediate pasts, and within the armour of our presents.<br>Christian Asare · Jade Williams · Kellie Colbert          
+A trio of new works-in-development, searching for identity on the tightrope of our histories, amidst the isolation of our immediate pasts, and within the armour of our presents. Christian Asare · Jade Williams · Kellie Colbert          
         
 #### Ticketing          
-Pay What You Decide: £15/10/£5/£0<br>*Tickets available via <a href="https://contactmcr.com" target="_blank">Contact</a> from Mon 3 April.*         
+Pay What You Decide: £15/£10/£5/£0<br>Book: *tickets available via <a href="https://contactmcr.com" target="_blank">Contact</a> from Monday 3 April*         
          
 Times: Thursday 18 + Friday 19 May 2023, 7.30pm<br>Duration: *to be confirmed*<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
         
 #### Access         
-Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: three contemporary performance works with varied content.<br>*NB* all three works will be shown in the same order on both nights.           
-<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
+Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: three contemporary performance works with varied content.<br>*NB* all three works will be shown in the same order on both nights.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
          
 #### About           
 [Works Ahead](/hab/worksahead) is a project developed out of the old Method Lab and SeedFund schemes [hÅb](/hab) ran with greenroom until 2011.
 Since 2012 it has offered over thirty-five small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events. Support includes mentoring and a public showing of the next stage of the work, in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>…        
-<hr>         
+         
+#### Artists        
 Christian Asare · *The Line (working title)*         
          
 *What and where exactly is "The Line"? Where do I stop being British and start being Ghanaian? Is it in my posture, my gait, my tone, my grammar?*<br>An exploration of the conflicting dualities of disaporic identity.       
@@ -46,9 +45,10 @@ Christian Asare · *The Line (working title)*
 Christian is a practising fine artist with a focus on afro-futurism & installation. He's also a dancer & choreographer working across theatre, Live Art, modern dance. His work is reflective of an eclectic transatlantic education, pulling influence & inspiration from variations in language & cross-cultural heritage.        
 <hr>        
 Jade Williams · *In Search of Pablo*         
-*"Brilliant, Black, and Manc" — born in 1810, Pablo Fanque was the first Black circus owner in Britain.<br>Come and delight in tales of Pablo's Fantastic Fair as I channel his story to explore my own journey to being brilliant, Black, and Manc.*         
         
-Jade Williams is a Black, Queer, multi-disciplinary artist from Manchester working in dance, poetry, writing, performance, and creative facilitation.          
+*"Brilliant, Black, and Manc" — born in 1810, Pablo Fanque was the first Black circus owner in Britain. Come and delight in tales of Pablo's Fantastic Fair as I channel his story to explore my own journey to being brilliant, Black, and Manc.*         
+        
+Jade is a Black, Queer, multi-disciplinary artist from Manchester working in dance, poetry, writing, performance, and creative facilitation.          
 <hr>         
 Kellie Colbert · *This Is Dedicated To The One I Love*         
          
