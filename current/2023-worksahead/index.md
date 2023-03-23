@@ -21,6 +21,8 @@ season: "Works Ahead 18+19|5|2023"
         
 *Presented by* Word of Warning + Contact        
          
+A trio of new works-in-development — searching for identity on the tightrope of our histories, amidst the isolation of our immediate pasts & within the armour of our presents. Our annual sampler evening of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> with artists Christian Asare, Jade Williams, Kellie Colbert.
+
 Our annual sampler evening of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> with a trio of new works-in-development from artists Christian Asare, Jade Williams, Kellie Colbert — searching for identity on the tightrope of our histories, amidst the isolation of our immediate pasts, and within the armour of our presents.           
         
 #### Ticketing          
@@ -44,7 +46,7 @@ Christian is a practising fine artist with a focus on afro-futurism & installati
 <hr>        
 Jade Williams · *In Search of Pablo*         
         
-*"Brilliant, Black and Manc" — born in 1810, Pablo Fanque was the first Black circus owner in Britain. Come & delight in tales of Pablo's Fantastic Fair as I channel his story to explore my own journey to being brilliant, Black and Manc.*         
+*"Brilliant, Black, and Manc" — born in 1810, Pablo Fanque was the first Black circus owner in Britain. Come & delight in tales of Pablo's Fantastic Fair as I channel his story to explore my own journey to being brilliant, Black & Manc.*         
         
 Jade is a Black, Queer, multi-disciplinary artist from Manchester working in dance, poetry, writing, performance, and creative facilitation.          
 <hr>         
