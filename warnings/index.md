@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 23 MAr 2023<small>        
+<small>Updated 23 March 2023<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>&nbsp;Please click [here](/archive/warnings) for *past* events including *archived* livestreams on our YouTube channel.         
          
