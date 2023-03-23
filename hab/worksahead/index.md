@@ -19,7 +19,7 @@ season: "Works Ahead by hÅb"
 ---
 <small>Updated 23 Mar 2023</small>                
         
-**Works Ahead** is a project developed out of the old Method Lab and SeedFund schemes [hÅb](/hab) ran with greenroom until 2011. Since 2012 it has offered over thirty-five small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events. Support includes mentoring and a public showing of the next stage of the work, in partnership with <a href="http://contactmcr.com" target="_blank">Contact</a>…       
+**Works Ahead** is a project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011. Since 2012 it has offered over thirty-five small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events. Support includes mentoring and a public showing of the next stage of the work, in partnership with <a href="http://contactmcr.com" target="_blank">Contact</a>…       
          
 <span style='font-variant: small-caps'>jump → [2012](/hab/worksahead/#2012) · [13](/hab/worksahead/#2013) · [14](/hab/worksahead/#2014) · [15](/hab/worksahead/#2015) · [16](/hab/worksahead/#2016) · [17](/hab/worksahead/#2017) · [18](/hab/worksahead/#2018) · [19](/hab/worksahead/#2019) · [20](/hab/worksahead/#2020) · [21](/hab/worksahead/#2021) · [22](/hab/worksahead/#2022) · [23](/hab/worksahead/#2023)</span>        
 <hr>        
