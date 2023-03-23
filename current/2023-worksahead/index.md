@@ -48,7 +48,7 @@ Jade Williams · *In Search of Pablo*
         
 Jade is a Black, Queer, multi-disciplinary artist from Manchester working in dance, poetry, writing, performance, and creative facilitation.          
 <hr>         
-Kellie Colbert · *This Is Dedicated To The One I Love*         
+Kellie Colbert · *Dedicated To The One I Love*         
          
 *And tell all the stars above. This is dedicated to the one I love.<br>(Love can never be exactly like we want it to be.)*         
         
