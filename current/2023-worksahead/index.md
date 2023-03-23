@@ -52,7 +52,7 @@ Kellie Colbert · *Dedicated To The One I Love*
          
 *And tell all the stars above. This is dedicated to the one I love.<br>(Love can never be exactly like we want it to be.)*         
         
-Kellie is a Greater Manchester-based performance maker. She would describe herself as an autobiographical artist, who creates work that is honest, relatable, and at times self-critical. She uses spoken word & symbolism to explore memories, often focusing on themes of mental health & feminism. She has collaborated with Eggs Collective, and been commissioned by NIAMOS & (in)sane Mcr as part of the Starvin Artists project and Breakdown Bolton.         
+Kellie is a Greater Manchester-based performance maker. She would describe herself as an autobiographical artist, who creates work that is honest, relatable, and at times self-critical. She uses spoken word & symbolism to explore memories, often focusing on themes of mental health & feminism.          
         
 #### Credits         
 [Works Ahead](/hab/worksahead) 2023 commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab).<br>Project Mentor: Peader Kirk        
