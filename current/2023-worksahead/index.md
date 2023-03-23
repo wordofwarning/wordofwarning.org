@@ -21,9 +21,7 @@ season: "Works Ahead 18+19|5|2023"
         
 *Presented by* Word of Warning + Contact        
          
-Our annual sampler evening of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a>…        
-          
-A trio of new works-in-development, searching for identity on the tightrope of our histories, amidst the isolation of our immediate pasts, and within the armour of our presents. Christian Asare · Jade Williams · Kellie Colbert          
+Our annual sampler evening of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> with a trio of new works-in-development from artists Christian Asare, Jade Williams, Kellie Colbert — searching for identity on the tightrope of our histories, amidst the isolation of our immediate pasts, and within the armour of our presents.           
         
 #### Ticketing          
 Pay What You Decide: £15/£10/£5/£0<br>Book: *tickets available via <a href="https://contactmcr.com" target="_blank">Contact</a> from Monday 3 April*         
@@ -46,7 +44,7 @@ Christian is a practising fine artist with a focus on afro-futurism & installati
 <hr>        
 Jade Williams · *In Search of Pablo*         
         
-*"Brilliant, Black, and Manc" — born in 1810, Pablo Fanque was the first Black circus owner in Britain. Come and delight in tales of Pablo's Fantastic Fair as I channel his story to explore my own journey to being brilliant, Black, and Manc.*         
+*"Brilliant, Black and Manc" — born in 1810, Pablo Fanque was the first Black circus owner in Britain. Come & delight in tales of Pablo's Fantastic Fair as I channel his story to explore my own journey to being brilliant, Black and Manc.*         
         
 Jade is a Black, Queer, multi-disciplinary artist from Manchester working in dance, poetry, writing, performance, and creative facilitation.          
 <hr>         
@@ -60,9 +58,6 @@ Kellie is a Greater Manchester-based performance maker. She would describe herse
 [Works Ahead](/hab/worksahead) 2023 commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab).<br>Project Mentor: Peader Kirk        
          
 #### Websites          
-<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a><br>
- @danceordiejade
- Fb/danceordiewithjade
- Insta/dance_or_die_with_jade
-
+<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>         
+        
 <small><span style='font-variant: small-caps'>[back to top](/current/2023-worksahead)</span></small>
