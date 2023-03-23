@@ -17,13 +17,13 @@ season: "Works Ahead 18+19|5|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ · [ticketing](/current/2023-worksahead/#ticketing) · [access](/current/2023-worksahead/#access) · [about](/current/2023-worksahead/#about) · [artists](/current/2023-worksahead/#artists) · [credits](/current/2023-worksahead/#credits) · [websites](/current/2023-worksahead/#websites)</span> · <small>Updated 23 Mar 2023</small>        
+<span style='font-variant: small-caps'>→ · [ticketing](/current/2023-worksahead/#ticketing) · [access](/current/2023-worksahead/#access) · [about](/current/2023-worksahead/#about) · [artists](/current/2023-worksahead/#artists) · [credits](/current/2023-worksahead/#credits) · [websites](/current/2023-worksahead/#websites)</span> · <small>Updated 23 Mar 2023 1221</small>        
         
 *Presented by* Word of Warning + Contact        
          
-A trio of new works-in-development — searching for identity on the tightrope of our histories, amidst the isolation of our immediate pasts & within the armour of our presents. Our annual sampler evening of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> with artists Christian Asare, Jade Williams, Kellie Colbert.
-
-Our annual sampler evening of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> with a trio of new works-in-development from artists Christian Asare, Jade Williams, Kellie Colbert — searching for identity on the tightrope of our histories, amidst the isolation of our immediate pasts, and within the armour of our presents.           
+Our annual sampler evening of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> with a trio of new works-in-development from [artists](/current/2023-worksahead/#artists) Christian Asare, Jade Williams, Kellie Colbert — searching for identity on the tightrope of our histories, amidst the isolation of our immediate pasts and within the armour of our presents.           
+        
+A trio of new works-in-development — searching for identity on the tightrope of our histories, amidst the isolation of our immediate pasts and within the armour of our presents. Our annual sampler evening of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> with [artists](/current/2023-worksahead/#artists) Christian Asare, Jade Williams, Kellie Colbert.        
         
 #### Ticketing          
 Pay What You Decide: £15/£10/£5/£0<br>Book: *tickets available via <a href="https://contactmcr.com" target="_blank">Contact</a> from Monday 3 April*         
