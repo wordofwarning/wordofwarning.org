@@ -17,14 +17,14 @@ season: "Works Ahead 18+19|5|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [ticketing](/current/2023-worksahead/#ticketing) · [access](/current/2023-worksahead/#access) · [about](/current/2023-worksahead/#about) · [artists](/current/2023-worksahead/#artists) · [credits](/current/2023-worksahead/#credits) · [websites](/current/2023-worksahead/#websites)</span> · <small>Updated 23 Mar 2023</small>        
+<span style='font-variant: small-caps'>→ [ticketing](/current/2023-worksahead/#ticketing) · [access](/current/2023-worksahead/#access) · [about](/current/2023-worksahead/#about) · [artists](/current/2023-worksahead/#artists) · [credits](/current/2023-worksahead/#credits) · [websites](/current/2023-worksahead/#websites)</span> · <small>Updated  Apr 2023</small>        
         
 *Presented by* Word of Warning + Contact        
          
 Our annual sampler evening of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> with a trio of new works-in-development from [artists](/current/2023-worksahead/#artists) Christian Asare, Jade Williams, Kellie Colbert — searching for identity on the tightrope of our histories, amidst the isolation of our immediate pasts and within the armour of our presents.           
        
 #### Ticketing          
-Pay What You Decide: £15/£10/£5/£0<br>Book: *tickets available via <a href="https://contactmcr.com" target="_blank">Contact</a> from Monday 3 April*         
+Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://contactmcr.com/book-online/310558" target="_blank">Thursday</a> OR <a href="https://contactmcr.com/book-online/310559" target="_blank">Friday</a> via <a href="https://contactmcr.com/shows/works-ahead-2023" target="_blank">Contact</a>         
          
 Times: Thursday 18 + Friday 19 May 2023, 7.30pm<br>Duration: *to be confirmed*<br>*NB* all three works will be shown in the same order on both nights.<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
         
