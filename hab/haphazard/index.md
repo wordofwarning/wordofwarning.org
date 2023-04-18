@@ -32,7 +32,6 @@ We have access to a number of spaces within Z-arts: a café, an atrium, some sma
 Durational, intervention, and ‘come and go’ work seems to work the best — we're not really looking for sit-down theatre shows.        
        
 #### For details & to apply please go to <a href="https://haphazard.posthaven.com" target="_blank">haphazard.posthaven.com</a>         
-#### Proposal form <a href="https://forms.gle/Wz3q9txpiMiWRP6J8" target="_blank">forms.gle/Wz3q9txpiMiWRP6J8</a>         
 #### Proposal Deadline: 5pm, Friday 2 June 2023.        
 
 Haphazard 2023 presented by [Word of Warning](/) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Header image: Nicola Smith at [Haphazard 2019](/archive/2019-haphazard)        
