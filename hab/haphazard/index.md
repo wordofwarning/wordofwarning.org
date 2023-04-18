@@ -7,7 +7,7 @@ rootpath: "../../../"
 artist: "Haphazard" # the name of the artist or company
 show: "Live Art for the curious of all ages." # the name of the artist or company
 show_size: 4
-header_image: "header_haphazard17bw.jpg"   
+header_image: "header_haphazard_black2.jpg"   
 season: "Haphazard by hÅb"
 
 # ABOUT THE SHOW - LAYOUT
