@@ -17,7 +17,7 @@ season: "Kellie Colbert in Works Ahead 18+19|5|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2023-worksahead/colbert/#artist) · [quotes](/current/2023-worksahead/colbert/#quotes) · [ticketing](/current/2023-worksahead/colbert/#ticketing) · [access](/current/2023-worksahead/colbert/#access) · [about](/current/2023-worksahead/colbert/#about) · [credits](/current/2023-worksahead/colbert/#credits) · [websites](/current/2023-worksahead/colbert/#websites)</span><br><small>Updated 20 Apr 2023, 15:29</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2023-worksahead/colbert/#artist) · [quotes](/current/2023-worksahead/colbert/#quotes) · [ticketing](/current/2023-worksahead/colbert/#ticketing) · [access](/current/2023-worksahead/colbert/#access) · [about](/current/2023-worksahead/colbert/#about) · [credits](/current/2023-worksahead/colbert/#credits) · [websites](/current/2023-worksahead/colbert/#websites)</span><br><small>Updated 20 Apr 2023</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2023](/current/2023-worksahead)        
         
@@ -30,7 +30,7 @@ Kellie is a Greater Manchester-based performance maker. She would describe herse
         
 She has collaborated with Eggs Collective, and has been commissioned by NIAMOS and (in)sane Mcr as part of the Starvin Artists project and Breakdown Bolton.         
         
-**Overall 100-150 wds - pick out what is interesting to an audience about you and your career to date. Eg<br>A. brief artist statement about approach/interest area/methodolgy<br>B. Past work<br>C. it's fine to mention previous commissions and collaborations outside education, but maybe 1 or 2 most impressive**                 
+**Above is what we had before. Overall 100-150 wds - pick out what is interesting to an audience about you and your career to date. Eg<br>A. brief artist statement about approach/interest area/methodolgy<br>B. Past work<br>C. it's fine to mention previous commissions and collaborations outside education, but maybe 1 or 2 most impressive**                 
         
 #### Quotes          
 >*(for example) Riveting, extraordinary, shocking…*<br>&nbsp;— Audience Feedback on *title of whatever piece of work it refers to*         
@@ -48,23 +48,11 @@ Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: some work
 #### About           
 [Works Ahead](/hab/worksahead) is a project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011.
 Since 2012 it has offered over thirty-five small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events. Support includes mentoring and a public showing of the next stage of the work, in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>… Kellie is [presented alongside two other artists](/current/2023-worksahead).        
-         
-Christian Asare · *The Line (working title)*         
-         
-*What and where exactly is "The Line"? Where do I stop being British and start being Ghanaian? Is it in my posture, my gait, my tone, my grammar?*<br>An exploration of the conflicting dualities of disaporic identity.       
-        
-Christian is a practising fine artist with a focus on afro-futurism & installation. He's also a dancer & choreographer working across theatre, Live Art, modern dance. His work is reflective of an eclectic transatlantic education, pulling influence & inspiration from variations in language & cross-cultural heritage.        
-<hr>        
-Jade Williams · *In Search of Pablo*         
-        
-*"Brilliant, Black, and Manc" — born in 1810, Pablo Fanque was the first Black circus owner in Britain. Come & delight in tales of Pablo's Fantastic Fair as I channel his story to explore my own journey to being brilliant, Black & Manc.*         
-        
-Jade is a Black, Queer, multi-disciplinary artist from Manchester working in dance, poetry, writing, performance, and creative facilitation.          
         
 #### Credits         
 **your work-specific credist - eg collaborators, funders, thanks etc<br>[Works Ahead](/hab/worksahead) [2023](/current/2023-worksahead) commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab).<br>Project Mentor: Peader Kirk        
          
 #### Websites          
-**John needs to add your social media & website here eg <a href="http://willdickie.co.uk" target="_blank">willdickie.co.uk</a>**<br><a href="https://instagram.com/kellie.colbert.theatre" target="_blank">Insta kellie.colbert.theatre</a> · <a href="https://twitter.com/imKellieColbert" target="_blank">@imKellieColbert</a><br><a href="https://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="https://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>         
+<a href="https://instagram.com/kellie.colbert.theatre" target="_blank">Insta kellie.colbert.theatre</a> · <a href="https://twitter.com/imKellieColbert" target="_blank">@imKellieColbert</a><br><a href="https://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="https://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>         
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2023-worksahead/colbert)</span></small>
