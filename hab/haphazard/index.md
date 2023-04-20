@@ -25,11 +25,7 @@ We're now calling for proposals for our sixth free 'all ages' Live Art day, taki
         
 This is not Live Art for children, but Live Art for ALL AGES — and we mean from tot to timeworn, 8 months to 80 years — so work should have appeal for adults and children alike (even if the kids need to explain it to the adults!)        
         
-From experience, what works best are big surreal images, interesting repetitive movement, and nothing too text heavy.        
-           
-We have access to a number of spaces within Z-arts: a café, an atrium, some small spaces, some stairwells, and a big black box theatre that we may well use as a 'dark gallery'. Work immediately outside the building may also be possible.         
-         
-Durational, intervention, and ‘come and go’ work seems to work the best — we're not really looking for sit-down theatre shows.        
+From experience, what works best are big surreal images, interesting repetitive movement, and nothing too text heavy. We have access to a number of spaces within Z-arts, and work immediately outside the building may also be possible. Durational, intervention, and 'come and go' work seems to work the best — we're not really looking for sit-down theatre shows.        
        
 #### For details & to apply please go to <a href="https://haphazard.posthaven.com" target="_blank">haphazard.posthaven.com</a>         
 #### Proposal Deadline: 5pm, Friday 2 June 2023.        
