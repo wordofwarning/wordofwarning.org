@@ -17,7 +17,7 @@ season: "Kellie Colbert in Works Ahead 18+19|5|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2023-worksahead/colbert/#artist) · [quotes](/current/2023-worksahead/colbert/#quotes) · [ticketing](/current/2023-worksahead/colbert/#ticketing) · [access](/current/2023-worksahead/colbert/#access) · [about](/current/2023-worksahead/colbert/#about) · [credits](/current/2023-worksahead/colbert/#credits) · [websites](/current/2023-worksahead/colbert/#websites)</span><br><small>Updated 20 Apr 2023, 15:05</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2023-worksahead/colbert/#artist) · [quotes](/current/2023-worksahead/colbert/#quotes) · [ticketing](/current/2023-worksahead/colbert/#ticketing) · [access](/current/2023-worksahead/colbert/#access) · [about](/current/2023-worksahead/colbert/#about) · [credits](/current/2023-worksahead/colbert/#credits) · [websites](/current/2023-worksahead/colbert/#websites)</span><br><small>Updated 20 Apr 2023, 15:29</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2023](/current/2023-worksahead)        
         
