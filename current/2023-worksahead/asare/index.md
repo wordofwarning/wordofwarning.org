@@ -8,7 +8,7 @@ artist: "Christian Asare" # the name of the artist or company
 show: "The Line (working title)" # the name of the show
 artist_size: 2
 show_size: 4
-header_image: ""
+header_image: "header_christian1.jpg"
 season: "Christian Asare in Works Ahead 18+19|5|2023"
 
 # ABOUT THE SHOW - LAYOUT
