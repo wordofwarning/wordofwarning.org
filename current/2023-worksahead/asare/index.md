@@ -21,7 +21,9 @@ season: "Christian Asare in Works Ahead 18+19|5|2023"
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2023](/current/2023-worksahead)        
         
-*What and where exactly is "The Line"? Where do I stop being British and start being Ghanaian? Is it in my posture, my gait, my tone, my grammar?*<br>An exploration of the conflicting dualities of disaporic identity.       
+*What and where exactly is "The Line"? Where do I stop being British and start being Ghanaian? Is it in my posture, my gait, my tone, my grammar?*         
+         
+An exploration of the conflicting dualities of disaporic identity.       
          
 **PLUS longer audience friendly description of the work<br>Overall 100-150 wds**         
          
@@ -51,6 +53,6 @@ Since 2012 it has offered over thirty-five small, supported, work-in-development
 **your work-specific credits - eg collaborators, funders, thanks etc**<br>[Works Ahead](/hab/worksahead) [2023](/current/2023-worksahead) commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab).<br>Project Mentor: Peader Kirk        
          
 #### Websites          
-Fb <a href="https://facebook.com/ChristianAsare2016" target="_blank">ChristianAsare2016</a> · Insta <a href="https://instagram.com/xtianasare" target="_blank">Insta xtianasare</a> · <a href="https://twitter.com/XtianAsare" target="_blank">@XtianAsare</a><br><a href="https://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="https://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>         
+Facebook <a href="https://facebook.com/ChristianAsare2016" target="_blank">ChristianAsare2016</a> · Insta <a href="https://instagram.com/xtianasare" target="_blank">xtianasare</a> · <a href="https://twitter.com/XtianAsare" target="_blank">@XtianAsare</a><br><a href="https://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="https://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>         
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2023-worksahead/asare)</span></small>
