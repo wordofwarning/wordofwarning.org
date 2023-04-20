@@ -23,12 +23,18 @@ season: "Kellie Colbert in Works Ahead 18+19|5|2023"
         
 *And tell all the stars above. This is dedicated to the one I love.<br>(Love can never be exactly like we want it to be.)*          
          
+(PLUS longer audience friendly description of the work, 100-150 wds)         
+         
 #### Artist        
 Kellie is a Greater Manchester-based performance maker. She would describe herself as an autobiographical artist, who creates work that is honest, relatable, and at times self-critical. She uses spoken word & symbolism to explore memories, often focusing on themes of mental health & feminism.         
 She has collaborated with Eggs Collective, and has been commissioned by NIAMOS and (in)sane Mcr as part of the Starvin Artists project and Breakdown Bolton.         
         
+(YOUR BIOG, 100-150 wds - pick out what is interesting to an audience about you and your career to date. Eg:)<br>(A. brief artist statement about approach/interest area/methodolgy)<br>(B. Past work)<br>(C. it's fine to mention previous commissions and collaborations outside education, but maybe 1 or 2 most impressive)                 
+        
 #### Quotes          
->*TBC…*<br>&nbsp;— Audience Feedback        
+>*(for example) Riveting, extraordinary, shocking…*<br>&nbsp;— Audience Feedback on *title of this piece or another piece of work*         
+        
+(Reviews or audience quotes are always really helpful)         
         
 #### Ticketing          
 Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://contactmcr.com/book-online/310558" target="_blank">Thursday</a>/<a href="https://contactmcr.com/book-online/310559" target="_blank">Friday</a> via <a href="https://contactmcr.com/shows/works-ahead-2023" target="_blank">Contact</a> or call 0161 274 0600        
@@ -55,9 +61,9 @@ Jade Williams · *In Search of Pablo*
 Jade is a Black, Queer, multi-disciplinary artist from Manchester working in dance, poetry, writing, performance, and creative facilitation.          
         
 #### Credits         
-[Works Ahead](/hab/worksahead) 2023 commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab).<br>Project Mentor: Peader Kirk        
+(YOUR WORK-SPECIFIC CREDITS - collaborators, funders, thanks etc)<br>[Works Ahead](/hab/worksahead) 2023 commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab).<br>Project Mentor: Peader Kirk        
          
 #### Websites          
-<a href="http://willdickie.co.uk" target="_blank">willdickie.co.uk</a> · <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a><br><a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>         
+(YOUR WEBSITE * SOCIAL MEDIA ACCOUNTS - John needs to update this)<br><a href="http://willdickie.co.uk" target="_blank">willdickie.co.uk</a> · <a href="http://twitter.com/Will_Dickie" target="_blank">@Will_Dickie</a><br><a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>         
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2023-worksahead/colbert)</span></small>          
