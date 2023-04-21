@@ -5,9 +5,9 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Christian Asare" # the name of the artist or company
-show: "Waxing Existential: Dual" # the name of the show
+show: "DUAL" # the name of the show
 artist_size: 2
-show_size: 4
+show_size: 2
 header_image: "header_christian2.jpg"
 season: "Christian Asare in Works Ahead 18+19|5|2023"
 
@@ -26,6 +26,8 @@ season: "Christian Asare in Works Ahead 18+19|5|2023"
 A moving exploration of identity and the human experience through visual art & dance. Rooted in the philosophical concepts of existentialism, we are invited to journey through the raw and complex emotions that define us as individuals.         
          
 Bringing together the past & the present, the cultural & the new, in a search for belonging and to maintain cultural tradition while adapting to new contexts.          
+         
+>*Creative people, as I see them, are distinguished by the fact that they can live with anxiety, even though a high price may be paid in terms of insecurity, sensitivity, and defenselessness for the gift of the "divine madness".*<br>&nbsp;— <a href="https://en.wikipedia.org/wiki/Rollo_May" target="_blank">Rollo May</a>, *The Courage to Create* (1975)          
          
 A thought-provoking and evocative celebration of the richness of our identities, offering renewed appreciation for the complexity of what it means to be human.         
         
