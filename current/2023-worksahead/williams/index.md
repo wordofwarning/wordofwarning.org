@@ -7,7 +7,7 @@ rootpath: "../../../"
 artist: "Jade Williams" # the name of the artist or company
 show: "In Search of Pablo" # the name of the show
 artist_size: 2
-show_size: 4
+show_size: 3
 header_image: "header_jade_flip.jpg"
 season: "Jade Williams in Works Ahead 18+19|5|2023"
 
