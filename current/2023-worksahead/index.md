@@ -40,11 +40,11 @@ Christian Asare · *DUAL*
          
 *What and where exactly is "The Line"? Where do I stop being British and start being Ghanaian? Is it in my posture, my gait, my tone, my grammar?*<br>An exploration of the conflicting dualities of disaporic identity.       
         
-Christian is a practising fine artist with a focus on afro-futurism & installation. He's also a dancer & choreographer working across theatre, Live Art, modern dance. His work is reflective of an eclectic transatlantic education, pulling influence & inspiration from variations in language & cross-cultural heritage.        
+Christian is a Black British interdisciplinary artist with Ghanaian roots. With a background in choreography and contemporary dance, his specialisation in Afro-contemporary performance adds a unique flair to his work. Moreover, he is an independent fine artist who creates oil paintings with a particular emphasis on elevating Afrocentric imagery, portraiture, abstraction, and Afrofuturism.          
 <hr>        
 Jade Williams · *In Search of Pablo*         
         
-*"Brilliant, Black, and Manc" — born in 1810, Pablo Fanque was the first Black circus owner in Britain. Come & delight in tales of Pablo's Fantastic Fair as I channel his story to explore my own journey to being brilliant, Black & Manc.*         
+*"Brilliant, Black, and Manc" — born in 1810, <a href="https://en.wikipedia.org/wiki/Pablo_Fanque" target="_blank">Pablo Fanque</a> was the first Black circus owner in Britain. Come & delight in tales of Pablo's Fantastic Fair as I channel his story to explore my own journey to being brilliant, Black & Manc.*         
         
 Jade is a Black, Queer, multi-disciplinary artist from Manchester working in dance, poetry, writing, performance, and creative facilitation.          
 <hr>         
@@ -52,8 +52,8 @@ Kellie Colbert · *Dedicated To The One I Love*
          
 *And tell all the stars above. This is dedicated to the one I love.<br>(Love can never be exactly like we want it to be.)*         
         
-Kellie is a Greater Manchester-based performance maker. She would describe herself as an autobiographical artist, who creates work that is honest, relatable, and at times self-critical. She uses spoken word & symbolism to explore memories, often focusing on themes of mental health & feminism.          
-        
+Kellie is a Greater Manchester-based performance maker. She would describe herself as an autobiographical artist, who creates work that is honest, relatable, and at times self-critical. Kellie uses spoken word and symbolism to explore memories, often focusing on themes of mental health and feminism. She aims to create performance that is both self-exposing and empathetic.        
+         
 #### Credits         
 [Works Ahead](/hab/worksahead) 2023 commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab).<br>Project Mentor: Peader Kirk        
          
