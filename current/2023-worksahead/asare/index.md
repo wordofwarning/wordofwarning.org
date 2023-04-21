@@ -41,7 +41,7 @@ He has collaborated with various organisations, including Black Gold Arts, Conta
 #### Ticketing          
 Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://contactmcr.com/book-online/310558" target="_blank">Thursday</a>/<a href="https://contactmcr.com/book-online/310559" target="_blank">Friday</a> via <a href="https://contactmcr.com/shows/works-ahead-2023" target="_blank">Contact</a> or call 0161 274 0600        
          
-Times: Thursday 18 + Friday 19 May 2023, 7.30pm<br>Duration: *to be confirmed*<br>*NB* Christian presented alongside Jade Williams & Kellie Colbert in [Works Ahead 2023](/current/2023-worksahead), with all three works shown in the same order each night.<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
+Times: Thursday 18 + Friday 19 May 2023, 7.30pm<br>Duration: *to be confirmed*<br>*NB* Christian presents alongside Jade Williams & Kellie Colbert in [Works Ahead 2023](/current/2023-worksahead), with all three works shown in the same order each night.<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
         
 #### Access         
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: three contemporary performance works with varied content.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
