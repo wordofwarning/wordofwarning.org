@@ -8,7 +8,7 @@ artist: "Kellie Colbert" # the name of the artist or company
 show: "Dedicated To The One I Love" # the name of the show
 artist_size: 2
 show_size: 4
-header_image: "header_kellie.jpg"
+header_image: "header_kellie_desat.jpg"
 season: "Kellie Colbert in Works Ahead 18+19|5|2023"
 
 # ABOUT THE SHOW - LAYOUT
@@ -40,7 +40,7 @@ Her biggest accomplishment to date is publicly debuting *Root*, an intimate perf
 #### Ticketing          
 Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://contactmcr.com/book-online/310558" target="_blank">Thursday</a>/<a href="https://contactmcr.com/book-online/310559" target="_blank">Friday</a> via <a href="https://contactmcr.com/shows/works-ahead-2023" target="_blank">Contact</a> or call 0161 274 0600        
          
-Times: Thursday 18 + Friday 19 May 2023, 7.30pm<br>Duration: *to be confirmed*<br>*NB* Kellie presented alongside Christian Asare & Jade Williams in [Works Ahead 2023](/current/2023-worksahead), with all three works shown in the same order each night.<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
+Times: Thursday 18 + Friday 19 May 2023, 7.30pm<br>Duration: *to be confirmed*<br>*NB* Kellie presents alongside Christian Asare & Jade Williams in [Works Ahead 2023](/current/2023-worksahead), with all three works shown in the same order each night.<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
         
 #### Access         
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: three contemporary performance works with varied content.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
