@@ -23,7 +23,7 @@ season: "Christian Asare in Works Ahead 18+19|5|2023"
         
 *What and where exactly is "The Line"? Where do I stop being British and start being Ghanaian? Is it in my posture, my gait, my tone, my grammar?*         
         
-A moving exploration of identity and the human experience through visual art & dance. Rooted in the philosophical concepts of existentialism, we are invited to journey through the raw & complex emotions that define us as individuals.         
+A moving exploration of identity and the human experience through visual art & dance. Rooted in the philosophical concepts of existentialism, we are invited to journey through the raw and complex emotions that define us as individuals.         
          
 Bringing together the past & the present, the cultural & the new, in a search for belonging and to maintain cultural tradition while adapting to new contexts.          
          
@@ -32,11 +32,11 @@ A thought-provoking and evocative celebration of the richness of our identities,
 #### Artist        
 Christian, a Black British interdisciplinary artist with Ghanaian roots, resides in the vibrant city of Manchester. With a background in choreography and contemporary dance, his specialisation in Afro-contemporary performance adds a unique flair to his work.        
          
-Moreover, Christian is an independent fine artist who creates oil paintings with a particular emphasis on elevating Afrocentric imagery, portraiture, abstraction, and Afrofuturism. His work aims to evoke emotion and showcase the beauty of black culture through his use of vibrant colours & rich textures.          
+Moreover, Christian is an independent fine artist who creates oil paintings with a particular emphasis on elevating Afrocentric imagery, portraiture, abstraction, and Afrofuturism. His work aims to evoke emotion and showcase the beauty of Black culture through his use of vibrant colours and rich textures.          
        
 Christian's multifaceted artistic expressions allow him to captivate audiences through various mediums, and offer an immersive experience that stimulates the senses.         
          
-He has collaborated with various organisations including: Black Gold Arts, Contact, Factory International (MIF), and HOME.        
+He has collaborated with various organisations, including Black Gold Arts, Contact, Factory International (MIF), and HOME.        
         
 #### Ticketing          
 Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://contactmcr.com/book-online/310558" target="_blank">Thursday</a>/<a href="https://contactmcr.com/book-online/310559" target="_blank">Friday</a> via <a href="https://contactmcr.com/shows/works-ahead-2023" target="_blank">Contact</a> or call 0161 274 0600        
