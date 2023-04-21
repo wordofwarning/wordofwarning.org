@@ -23,21 +23,25 @@ season: "Christian Asare in Works Ahead 18+19|5|2023"
         
 *What and where exactly is "The Line"? Where do I stop being British and start being Ghanaian? Is it in my posture, my gait, my tone, my grammar?*         
         
-A moving exploration of identity and the human experience through visual art and dance. Rooted in the philosophical concepts of existentialism, we are invited to journey through the raw and complex emotions that define us as individuals.         
+A moving exploration of identity and the human experience through visual art & dance. Rooted in the philosophical concepts of existentialism, we are invited to journey through the raw & complex emotions that define us as individuals.         
          
-Bringing together the past and the present, the cultural and the new, in a search for belonging and to maintain cultural tradition while adapting to new contexts.          
+Bringing together the past & the present, the cultural & the new, in a search for belonging and to maintain cultural tradition while adapting to new contexts.          
          
 A thought-provoking and evocative celebration of the richness of our identities, offering renewed appreciation for the complexity of what it means to be human.         
         
 #### Artist        
-Christian, a Black British interdisciplinary artist with Ghanaian roots, resides in the vibrant city of Manchester. With a background in choreography and contemporary dance, his specialisation in Afro-contemporary performance adds a unique flair to his work. Moreover, Christian is an independent fine artist who creates oil paintings with a particular emphasis on elevating Afrocentric imagery, portraiture, abstraction, and Afrofuturism. His work aims to evoke emotion and showcase the beauty of black culture through his use of vibrant colours and rich textures. Christian's multifaceted artistic expressions allow him to captivate audiences through various mediums, and offer an immersive experience that stimulates the senses.         
+Christian, a Black British interdisciplinary artist with Ghanaian roots, resides in the vibrant city of Manchester. With a background in choreography and contemporary dance, his specialisation in Afro-contemporary performance adds a unique flair to his work.        
          
-Christian has collaborated with various organisations including: Black Gold Arts, Contact, Factory International (Manchester International Festival), HOME.        
+Moreover, Christian is an independent fine artist who creates oil paintings with a particular emphasis on elevating Afrocentric imagery, portraiture, abstraction, and Afrofuturism. His work aims to evoke emotion and showcase the beauty of black culture through his use of vibrant colours & rich textures.          
+       
+Christian's multifaceted artistic expressions allow him to captivate audiences through various mediums, and offer an immersive experience that stimulates the senses.         
+         
+He has collaborated with various organisations including: Black Gold Arts, Contact, Factory International (MIF), and HOME.        
         
 #### Ticketing          
 Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://contactmcr.com/book-online/310558" target="_blank">Thursday</a>/<a href="https://contactmcr.com/book-online/310559" target="_blank">Friday</a> via <a href="https://contactmcr.com/shows/works-ahead-2023" target="_blank">Contact</a> or call 0161 274 0600        
          
-Times: Thursday 18 + Friday 19 May 2023, 7.30pm<br>Duration: *to be confirmed*<br>*NB* Christian presented alongside Jade Williams + Kellie Colbert in [Works Ahead 2023](/current/2023-worksahead), with all three works shown in the same order each night.<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
+Times: Thursday 18 + Friday 19 May 2023, 7.30pm<br>Duration: *to be confirmed*<br>*NB* Christian presented alongside Jade Williams & Kellie Colbert in [Works Ahead 2023](/current/2023-worksahead), with all three works shown in the same order each night.<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
         
 #### Access         
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: three contemporary performance works with varied content.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
