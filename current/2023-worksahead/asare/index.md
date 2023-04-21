@@ -17,17 +17,15 @@ season: "Christian Asare in Works Ahead 18+19|5|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2023-worksahead/asare/#artist) · [ticketing](/current/2023-worksahead/asare/#ticketing) · [access](/current/2023-worksahead/asare/#access) · [about](/current/2023-worksahead/asare/#about) · [credits](/current/2023-worksahead/asare/#credits) · [websites](/current/2023-worksahead/asare/#websites)</span><br><small>Updated 21 Apr 2023</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2023-worksahead/asare/#artist) · [ticketing](/current/2023-worksahead/asare/#ticketing) · [access](/current/2023-worksahead/asare/#access) · [about](/current/2023-worksahead/asare/#about) · [credits](/current/2023-worksahead/asare/#credits) · [websites](/current/2023-worksahead/asare/#websites)</span><br><small>Updated 21 Apr 2023, 17:15</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2023](/current/2023-worksahead)        
         
-*What and where exactly is "The Line"? Where do I stop being British and start being Ghanaian? Is it in my posture, my gait, my tone, my grammar?*         
-        
+*Embrace the divine madness of creativity — it takes courage to live with anxiety and vulnerability, but it's what sets creative souls apart.*         
+         
 A moving exploration of identity and the human experience through visual art & dance. Rooted in the philosophical concepts of existentialism, we are invited to journey through the raw and complex emotions that define us as individuals.         
          
 Bringing together the past & the present, the cultural & the new, in a search for belonging and to maintain cultural tradition while adapting to new contexts.          
-         
->*Creative people, as I see them, are distinguished by the fact that they can live with anxiety, even though a high price may be paid in terms of insecurity, sensitivity, and defenselessness for the gift of the "divine madness"*— <a href="https://en.wikipedia.org/wiki/Rollo_May" target="_blank">Rollo May, *The Courage to Create* (1975)</a>          
          
 A thought-provoking and evocative celebration of the richness of our identities, offering renewed appreciation for the complexity of what it means to be human.         
         
