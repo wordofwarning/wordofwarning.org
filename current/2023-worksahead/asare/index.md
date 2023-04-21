@@ -27,7 +27,7 @@ A moving exploration of identity and the human experience through visual art & d
          
 Bringing together the past & the present, the cultural & the new, in a search for belonging and to maintain cultural tradition while adapting to new contexts.          
          
->*Creative people, as I see them, are distinguished by the fact that they can live with anxiety, even though a high price may be paid in terms of insecurity, sensitivity, and defenselessness for the gift of the "divine madness".*<br>&nbsp;— <a href="https://en.wikipedia.org/wiki/Rollo_May" target="_blank">Rollo May</a>, *The Courage to Create* (1975)          
+>*Creative people, as I see them, are distinguished by the fact that they can live with anxiety, even though a high price may be paid in terms of insecurity, sensitivity, and defenselessness for the gift of the "divine madness" — <a href="https://en.wikipedia.org/wiki/Rollo_May" target="_blank">Rollo May, *The Courage to Create* (1975)</a>          
          
 A thought-provoking and evocative celebration of the richness of our identities, offering renewed appreciation for the complexity of what it means to be human.         
         
