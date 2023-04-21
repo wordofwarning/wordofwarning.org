@@ -8,7 +8,7 @@ artist: "Jade Williams" # the name of the artist or company
 show: "In Search of Pablo" # the name of the show
 artist_size: 2
 show_size: 4
-header_image: "header_jade.jpg"
+header_image: "header_jade_flip.jpg"
 season: "Jade Williams in Works Ahead 18+19|5|2023"
 
 # ABOUT THE SHOW - LAYOUT
@@ -17,7 +17,7 @@ season: "Jade Williams in Works Ahead 18+19|5|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2023-worksahead/williams/#artist) · [quotes](/current/2023-worksahead/williams/#quotes) · [ticketing](/current/2023-worksahead/williams/#ticketing) · [access](/current/2023-worksahead/williams/#access) · [about](/current/2023-worksahead/williams/#about) · [credits](/current/2023-worksahead/williams/#credits) · [websites](/current/2023-worksahead/williams/#websites)</span><br><small>Updated 20 Apr 2023</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2023-worksahead/williams/#artist) · [quotes](/current/2023-worksahead/williams/#quotes) · [ticketing](/current/2023-worksahead/williams/#ticketing) · [access](/current/2023-worksahead/williams/#access) · [about](/current/2023-worksahead/williams/#about) · [credits](/current/2023-worksahead/williams/#credits) · [websites](/current/2023-worksahead/williams/#websites)</span><br><small>Updated 21 Apr 2023</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2023](/current/2023-worksahead)        
         
@@ -38,7 +38,7 @@ Jade is a Black, Queer, multi-disciplinary artist from Manchester working in dan
 #### Ticketing          
 Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://contactmcr.com/book-online/310558" target="_blank">Thursday</a>/<a href="https://contactmcr.com/book-online/310559" target="_blank">Friday</a> via <a href="https://contactmcr.com/shows/works-ahead-2023" target="_blank">Contact</a> or call 0161 274 0600        
          
-Times: Thursday 18 + Friday 19 May 2023, 7.30pm<br>Duration: *to be confirmed*<br>*NB* Jade presented alongside Christian Asare + Kellie Colbert in [Works Ahead 2023](/current/2023-worksahead), with all three works shown in the same order each night.<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
+Times: Thursday 18 + Friday 19 May 2023, 7.30pm<br>Duration: *to be confirmed*<br>*NB* Jade presents alongside Christian Asare & Kellie Colbert in [Works Ahead 2023](/current/2023-worksahead), with all three works shown in the same order each night.<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
         
 #### Access         
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: three contemporary performance works with varied content.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
