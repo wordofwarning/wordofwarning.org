@@ -8,7 +8,7 @@ artist: "Kellie Colbert" # the name of the artist or company
 show: "Dedicated To The One I Love" # the name of the show
 artist_size: 2
 show_size: 4
-header_image: "header_kellie_treated.jpg"
+header_image: "header_kellie.jpg"
 season: "Kellie Colbert in Works Ahead 18+19|5|2023"
 
 # ABOUT THE SHOW - LAYOUT
