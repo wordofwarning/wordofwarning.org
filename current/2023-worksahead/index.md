@@ -17,7 +17,7 @@ season: "Works Ahead 18+19|5|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [ticketing](/current/2023-worksahead/#ticketing) · [access](/current/2023-worksahead/#access) · [about](/current/2023-worksahead/#about) · [artists](/current/2023-worksahead/#artists) · [credits](/current/2023-worksahead/#credits) · [websites](/current/2023-worksahead/#websites)</span> · <small>Updated 4 Apr 2023</small>        
+<span style='font-variant: small-caps'>→ [ticketing](/current/2023-worksahead/#ticketing) · [access](/current/2023-worksahead/#access) · [about](/current/2023-worksahead/#about) · [artists](/current/2023-worksahead/#artists) · [credits](/current/2023-worksahead/#credits) · [websites](/current/2023-worksahead/#websites)</span> · <small>Updated 21 Apr 2023</small>        
         
 *Presented by* Word of Warning + Contact        
          
@@ -36,7 +36,7 @@ Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: some work
 Since 2012 it has offered over thirty-five small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events. Support includes mentoring and a public showing of the next stage of the work, in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>…        
          
 #### Artists        
-Christian Asare · *The Line (working title)*         
+Christian Asare · *Waxing Existential: Dual*         
          
 *What and where exactly is "The Line"? Where do I stop being British and start being Ghanaian? Is it in my posture, my gait, my tone, my grammar?*<br>An exploration of the conflicting dualities of disaporic identity.       
         
