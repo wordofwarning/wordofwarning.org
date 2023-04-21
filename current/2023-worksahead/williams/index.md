@@ -21,7 +21,7 @@ season: "Jade Williams in Works Ahead 18+19|5|2023"
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2023](/current/2023-worksahead)        
         
-*"Brilliant, Black, and Manc" — born in 1810, Pablo Fanque was the first Black circus owner in Britain. Come & delight in tales of Pablo's Fantastic Fair as I channel his story to explore my own journey to being brilliant, Black & Manc.*                   
+*"Brilliant, Black, and Manc" — born in 1810, <a href="https://en.wikipedia.org/wiki/Pablo_Fanque" target="_blank">Pablo Fanque</a> was the first Black circus owner in Britain. Come & delight in tales of Pablo's Fantastic Fair as I channel his story to explore my own journey to being brilliant, Black & Manc.*                   
          
 **PLUS longer audience friendly description of the work<br>Overall 100-150 wds**         
          
