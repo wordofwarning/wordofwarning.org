@@ -36,7 +36,7 @@ Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: some work
 Since 2012 it has offered over thirty-five small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events. Support includes mentoring and a public showing of the next stage of the work, in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>…        
          
 #### Artists        
-Christian Asare · *Waxing Existential: Dual*         
+Christian Asare · *DUAL*         
          
 *What and where exactly is "The Line"? Where do I stop being British and start being Ghanaian? Is it in my posture, my gait, my tone, my grammar?*<br>An exploration of the conflicting dualities of disaporic identity.       
         
