@@ -23,7 +23,7 @@ season: "Jade Williams in Works Ahead 18+19|5|2023"
         
 *"Brilliant, Black, and Manc" — born in 1810, <a href="https://en.wikipedia.org/wiki/Pablo_Fanque" target="_blank">Pablo Fanque</a> was the first Black circus owner in Britain. Come & delight in tales of Pablo's Fantastic Fair as I channel his story to explore my own journey to being brilliant, Black & Manc.*          
          
-An exploration of belonging and Black identity in the diaspora. Jade responds to the question "No, where are you really from?" and unapologetically provides you with the answer. So, roll up to the fair and enjoy the show.        
+An exploration of belonging and Black identity in the diaspora. Jade responds to the question "No, where are you really from?" and unapologetically provides you with the answer. So, roll up to the fair and enjoy the show…        
          
 #### Artist        
 Jade is a Black, Queer, multi-disciplinary artist and experienced teacher from Manchester working in dance, poetry, writing, performance, and creative facilitation. She has worked closely with Community Arts North West, Curious Minds, and DIY Theatre on projects for young people in Greater Manchester.         
@@ -45,7 +45,7 @@ Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: some work
 Since 2012 it has offered over thirty-five small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events. Support includes mentoring and a public showing of the next stage of the work, in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>… Jade is [presented alongside two other artists](/current/2023-worksahead).         
         
 #### Credits         
-Seedfunded by <a href="http://divergencymcr.org" target="_blank">Divergency</a>.<br>[Works Ahead](/hab/worksahead) [2023](/current/2023-worksahead) commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab).<br>Project Mentor: Peader Kirk        
+[Works Ahead](/hab/worksahead) [2023](/current/2023-worksahead) commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab).<br>Project Mentor: Peader Kirk        
          
 #### Websites          
 Insta <a href="https://instagram.com/dance_or_die_with_jade" target="_blank">dance_or_die_with_jade</a> · <a href="https://twitter.com/Danceordiejade" target="_blank">@Danceordiejade</a><br><a href="https://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="https://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>         
