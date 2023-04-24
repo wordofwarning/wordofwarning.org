@@ -17,24 +17,21 @@ season: "Jade Williams in Works Ahead 18+19|5|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2023-worksahead/williams/#artist) · [quotes](/current/2023-worksahead/williams/#quotes) · [ticketing](/current/2023-worksahead/williams/#ticketing) · [access](/current/2023-worksahead/williams/#access) · [about](/current/2023-worksahead/williams/#about) · [credits](/current/2023-worksahead/williams/#credits) · [websites](/current/2023-worksahead/williams/#websites)</span><br><small>Updated 21 Apr 2023</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2023-worksahead/williams/#artist) · [ticketing](/current/2023-worksahead/williams/#ticketing) · [access](/current/2023-worksahead/williams/#access) · [about](/current/2023-worksahead/williams/#about) · [credits](/current/2023-worksahead/williams/#credits) · [websites](/current/2023-worksahead/williams/#websites)</span><br><small>Updated 24 Apr 2023</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2023](/current/2023-worksahead)        
         
-*"Brilliant, Black, and Manc" — born in 1810, <a href="https://en.wikipedia.org/wiki/Pablo_Fanque" target="_blank">Pablo Fanque</a> was the first Black circus owner in Britain. Come & delight in tales of Pablo's Fantastic Fair as I channel his story to explore my own journey to being brilliant, Black & Manc.*                   
+*"Brilliant, Black, and Manc" — born in 1810, <a href="https://en.wikipedia.org/wiki/Pablo_Fanque" target="_blank">Pablo Fanque</a> was the first Black circus owner in Britain. Come & delight in tales of Pablo's Fantastic Fair as I channel his story to explore my own journey to being brilliant, Black & Manc.*          
          
-**PLUS longer audience friendly description of the work<br>Overall 100-150 wds**         
+An exploration of belonging and Black identity in the diaspora. Jade responds to the question "No, where are you really from?" and unapologetically provides you with the answer. So, roll up to the fair and enjoy the show.        
          
 #### Artist        
-Jade is a Black, Queer, multi-disciplinary artist from Manchester working in dance, poetry, writing, performance, and creative facilitation.         
-        
-**Overall 100-150 wds - pick out what is interesting to an audience about you and your career to date. Eg<br>A. brief artist statement about approach/interest area/methodolgy<br>B. Past work<br>C. it's fine to mention previous commissions and collaborations outside education, but maybe 1 or 2 most impressive**                 
-        
-#### Quotes          
->*(for example) Riveting, extraordinary, shocking…*<br>&nbsp;— Audience Feedback on *title of whatever piece of work it refers to*         
-        
-**Reviews or audience quotes are always really helpful**         
-        
+Jade is a Black, Queer, multi-disciplinary artist and experienced teacher from Manchester working in dance, poetry, writing, performance, and creative facilitation. She has worked closely with Community Arts North West, Curious Minds, and DIY Theatre on projects for young people in Greater Manchester.         
+         
+You are most likely to find her dancing in the streets of Manchester with her headphones on, connecting with her mind, body, and soul. Jade created *Dance or Die* to challenge herself and others to respond to music instinctively and connect with their inner creative spirit.         
+         
+Jade has previously been commissioned by Blaze Arts and Oldham Coliseum to explore forgotten Black British figures and honour their memory. She particularly celebrated Pablo Fanque and reignited his famous circus through the forms of movement, poetry, and spoken word performance.         
+         
 #### Ticketing          
 Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://contactmcr.com/book-online/310558" target="_blank">Thursday</a>/<a href="https://contactmcr.com/book-online/310559" target="_blank">Friday</a> via <a href="https://contactmcr.com/shows/works-ahead-2023" target="_blank">Contact</a> or call 0161 274 0600        
          
@@ -48,7 +45,7 @@ Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: some work
 Since 2012 it has offered over thirty-five small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events. Support includes mentoring and a public showing of the next stage of the work, in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>… Jade is [presented alongside two other artists](/current/2023-worksahead).         
         
 #### Credits         
-**your work-specific credits - eg collaborators, funders, thanks etc**<br>[Works Ahead](/hab/worksahead) [2023](/current/2023-worksahead) commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab).<br>Project Mentor: Peader Kirk        
+Seedfunded by <a href="http://divergencymcr.org" target="_blank">Divergency</a>.<br>[Works Ahead](/hab/worksahead) [2023](/current/2023-worksahead) commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab).<br>Project Mentor: Peader Kirk        
          
 #### Websites          
 Insta <a href="https://instagram.com/dance_or_die_with_jade" target="_blank">dance_or_die_with_jade</a> · <a href="https://twitter.com/Danceordiejade" target="_blank">@Danceordiejade</a><br><a href="https://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="https://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>         
