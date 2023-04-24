@@ -38,7 +38,7 @@ Since 2012 it has offered over thirty-five small, supported, work-in-development
 #### Artists        
 [Christian Asare · *DUAL*](/current/2023-worksahead/asare)         
          
-*Embrace the divine madness of creativity — it takes courage to live with anxiety and vulnerability, but it's what sets creative souls apart.*<br>An exploration of identity and the human experience through visual art & dance.        
+*Embrace the divine madness of creativity — it takes courage to live with anxiety and vulnerability, but it's what sets creative souls apart.*<br>An exploration of identity & the human experience through visual art & dance.        
         
 Christian is a Black British interdisciplinary artist with Ghanaian roots. With a background in choreography and contemporary dance, his specialisation in Afro-contemporary performance adds a unique flair to his work. Moreover, he is an independent fine artist who creates oil paintings with a particular emphasis on elevating Afrocentric imagery, portraiture, abstraction, and Afrofuturism.          
 <hr>        
