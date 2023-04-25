@@ -7,7 +7,7 @@ rootpath: "../../../"
 artist: "Christian Asare" # the name of the artist or company
 show: "DUAL" # the name of the show
 artist_size: 2
-show_size: 2
+show_size: 1
 header_image: "header_christian2.jpg"
 season: "Christian Asare in Works Ahead 18+19|5|2023"
 
@@ -17,7 +17,7 @@ season: "Christian Asare in Works Ahead 18+19|5|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2023-worksahead/asare/#artist) · [ticketing](/current/2023-worksahead/asare/#ticketing) · [access](/current/2023-worksahead/asare/#access) · [about](/current/2023-worksahead/asare/#about) · [credits](/current/2023-worksahead/asare/#credits) · [websites](/current/2023-worksahead/asare/#websites)</span><br><small>Updated 21 Apr 2023, 17:15</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2023-worksahead/asare/#artist) · [ticketing](/current/2023-worksahead/asare/#ticketing) · [access](/current/2023-worksahead/asare/#access) · [about](/current/2023-worksahead/asare/#about) · [credits](/current/2023-worksahead/asare/#credits) · [websites](/current/2023-worksahead/asare/#websites)</span><br><small>Updated 25 Apr 2023</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2023](/current/2023-worksahead)        
         
