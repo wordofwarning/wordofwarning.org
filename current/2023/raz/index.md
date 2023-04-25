@@ -8,7 +8,7 @@ artist: "Avital Raz" # the name of the artist or company
 show: "Unnatural Cycles&nbsp;<br>&nbsp;— A Ghost Story" # the name of the show
 artist_size: 1
 show_size: 3
-header_image: "header_avital1.jpg"    
+header_image: "header_avital2.jpeg"    
 season: "Avital Raz 3|5|2023, 8pm"
 
 # ABOUT THE SHOW - LAYOUT
@@ -19,7 +19,7 @@ season: "Avital Raz 3|5|2023, 8pm"
 ---
 <span style='font-variant: small-caps'>→ [ticketing](/current/2023/raz/#ticketing) · [access](/current/2023/raz/#access) · [about](/current/2023/raz/#about) · [artist](/current/2023/raz/#artist) · [reviews](/current/2023/raz/#reviews) · [credits](/current/2023/raz/#credits) · [websites](/current/2023/raz/#websites)</span>         
          
-*Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a> · <small>Updated 17 Mar 2023</small>           
+*Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a> · <small>Updated 25 Apr 2023</small>           
          
 There's a growing dark cloud above the Rosenberg house.<br>Two women — one dead, one alive — need to reconcile their differences to remove it, and let in new life…          
          
