@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 27 Apr 2023<small>        
+<small>Updated 23 March 2023<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>&nbsp;Please click [here](/archive/warnings) for *past* events including *archived* livestreams on our YouTube channel.         
          
@@ -22,4 +22,4 @@ If issues raised affect you, these organisations may be of support:&nbsp;&nbsp;<
 Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: contains some strong language; mentions of rape, war, miscarriage.         
         
 ##### [18+19 May. Contact | Works Ahead 2023](/current/2023-worksahead)          
-Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: some works may disturb, specifics follow.<br>&nbsp;[Christian Asare](/current/2023-worksahead/asare) — to be confirmed.<br>&nbsp;[Jade Williams](/current/2023-worksahead/williams) — to be confirmed.<br>&nbsp;[Kellie Colbert](/current/2023-worksahead/colbert) — to be confirmed.
+Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: some works may disturb, specifics follow.<br>&nbsp;Christian Asare — to be confirmed.<br>&nbsp;Jade Williams — to be confirmed.<br>&nbsp;Kellie Colbert — to be confirmed.
