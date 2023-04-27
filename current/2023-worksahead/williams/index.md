@@ -17,11 +17,11 @@ season: "Jade Williams in Works Ahead 18+19|5|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2023-worksahead/williams/#artist) · [ticketing](/current/2023-worksahead/williams/#ticketing) · [access](/current/2023-worksahead/williams/#access) · [about](/current/2023-worksahead/williams/#about) · [credits](/current/2023-worksahead/williams/#credits) · [websites](/current/2023-worksahead/williams/#websites)</span><br><small>Updated 27 Apr 2023</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2023-worksahead/williams/#artist) · [ticketing](/current/2023-worksahead/williams/#ticketing) · [access](/current/2023-worksahead/williams/#access) · [about](/current/2023-worksahead/williams/#about) · [credits](/current/2023-worksahead/williams/#credits) · [websites](/current/2023-worksahead/williams/#websites)</span><br><small>Updated 24 Apr 2023</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2023](/current/2023-worksahead)        
         
-*"Black, brilliant, and Manc" — born in 1810, <a href="https://en.wikipedia.org/wiki/Pablo_Fanque" target="_blank">Pablo Fanque</a> was the first Black circus owner in Britain. Come & delight in tales of Pablo's Fantastic Fair as I channel his story to explore my own journey to being Black, brilliant, & Manc.*          
+*"Brilliant, Black, and Manc" — born in 1810, <a href="https://en.wikipedia.org/wiki/Pablo_Fanque" target="_blank">Pablo Fanque</a> was the first Black circus owner in Britain. Come & delight in tales of Pablo's Fantastic Fair as I channel his story to explore my own journey to being brilliant, Black & Manc.*          
          
 An exploration of belonging and Black identity in the diaspora. Jade responds to the question "No, where are you really from?" and unapologetically provides you with the answer. So, roll up to the fair and enjoy the show…        
          
@@ -30,7 +30,7 @@ Jade is a Black, Queer, multi-disciplinary artist and experienced teacher from M
          
 You are most likely to find her dancing in the streets of Manchester with her headphones on, connecting with her mind, body, and soul. Jade created *Dance or Die* to challenge herself and others to respond to music instinctively and connect with their inner creative spirit.         
          
-Jade has previously been commissioned by Blaze Arts and Oldham Coliseum to explore forgotten Black British figures and honour their memory.<br>She particularly celebrated Pablo Fanque and reignited his famous circus through the forms of movement, poetry, and spoken word performance.         
+Jade has previously been commissioned by Blaze Arts and Oldham Coliseum to explore forgotten Black British figures and honour their memory. She particularly celebrated Pablo Fanque and reignited his famous circus through the forms of movement, poetry, and spoken word performance.         
          
 #### Ticketing          
 Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://contactmcr.com/book-online/310558" target="_blank">Thursday</a>/<a href="https://contactmcr.com/book-online/310559" target="_blank">Friday</a> via <a href="https://contactmcr.com/shows/works-ahead-2023" target="_blank">Contact</a> or call 0161 274 0600        
