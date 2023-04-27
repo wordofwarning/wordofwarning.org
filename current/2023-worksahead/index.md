@@ -17,7 +17,7 @@ season: "Works Ahead 18+19|5|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [ticketing](/current/2023-worksahead/#ticketing) · [access](/current/2023-worksahead/#access) · [about](/current/2023-worksahead/#about) · [artists](/current/2023-worksahead/#artists) · [credits](/current/2023-worksahead/#credits) · [websites](/current/2023-worksahead/#websites)</span><br><small>Updated 27 Apr 2023</small>        
+<span style='font-variant: small-caps'>→ [ticketing](/current/2023-worksahead/#ticketing) · [access](/current/2023-worksahead/#access) · [about](/current/2023-worksahead/#about) · [artists](/current/2023-worksahead/#artists) · [credits](/current/2023-worksahead/#credits) · [websites](/current/2023-worksahead/#websites)</span><br><small>Updated 24 Apr 2023</small>        
         
 *Presented by* Word of Warning + Contact        
          
@@ -44,7 +44,7 @@ Christian is a Black British interdisciplinary artist with Ghanaian roots. With 
 <hr>        
 [Jade Williams · *In Search of Pablo*](/current/2023-worksahead/williams)         
         
-*"Black, brilliant, and Manc" — born in 1810, <a href="https://en.wikipedia.org/wiki/Pablo_Fanque" target="_blank">Pablo Fanque</a> was the first Black circus owner in Britain. Come & delight in tales of Pablo's Fantastic Fair as I channel his story to explore my own journey to being Black, brilliant, & Manc.*<br>An exploration of belonging and Black identity in the diaspora.         
+*"Brilliant, Black, and Manc" — born in 1810, <a href="https://en.wikipedia.org/wiki/Pablo_Fanque" target="_blank">Pablo Fanque</a> was the first Black circus owner in Britain. Come & delight in tales of Pablo's Fantastic Fair as I channel his story to explore my own journey to being brilliant, Black & Manc.*<br>An exploration of belonging and Black identity in the diaspora.         
         
 Jade is a Black, Queer, multi-disciplinary artist and experienced teacher from Manchester working in dance, poetry, writing, performance, and creative facilitation. She has worked closely with Community Arts North West, Curious Minds, and DIY Theatre on projects for young people in Greater Manchester.          
 <hr>         
