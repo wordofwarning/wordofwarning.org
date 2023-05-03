@@ -15,7 +15,7 @@ season: "Privacy Policy"
 
 ---
 <small>Updated 3 May 2023</small>          
-**Please note this privacy policy is for: [Word of Warning](/) audiences; [Word of Warning](/) website visitors; [Weekly Warning](http://wordofwarning.posthaven.com) subscribers; Manchester Independents website visitors.<br>Please note [hÅb](/hab) is the data processor for Manchester Independents.<br>If you have a different relationship with [hÅb](/hab), please see [hÅb's Privacy Policy](/hab/privacy).**           
+**Please note this privacy policy is for: [Word of Warning](/) audiences; [Word of Warning](/) website visitors; [Weekly Warning](http://wordofwarning.posthaven.com) subscribers; Manchester Independents website visitors.<br>Please note [hÅb](/hab) is the data processor for Manchester Independents.<br>Please see [hÅb's Privacy Policy](/hab/privacy) if you have a different relationship with [hÅb](/hab).**           
             
 ##### Who we are          
 Habarts Limited, trading as [hÅb](/hab), is a Manchester-based producer, developer and strategic advocate of contemporary performance, live art and sited work in the North. Under the guise of [Word of Warning](/) (a brand name of Habarts Limited), it presents a roaming programme of different new performance AND provides an online [Weekly Warning](http://wordofwarning.posthaven.com) guide of what's on, in Manchester + beyond. Supported using public funding by Arts Council England, as well as by individual donors and supporters, it is registered as a company in England and Wales under registration number 671 1937.         
