@@ -12,7 +12,7 @@ season: "Archived Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 13 March 2023<small>        
+<small>Updated 5 May 2023<small>        
         
 Age Advisories/Limits & Content Warnings for *past* events (including *archived* livestreams on our YouTube channel) is available below, including elements that may distress, cause upset, or trigger. → [2023](/archive/warnings/#2023) · [2022](/archive/warnings/#2022) · [2021](/archive/warnings/#2021) · [2020](/archive/warnings/#2020) · [2019](/archive/warnings/#2019)<br>&nbsp;Please click [here](/warnings) for *upcoming* events.        
         
@@ -20,6 +20,9 @@ If issues raised affect you, these organisations may be of support:&nbsp;&nbsp;<
         
 <hr>         
 #### 2023        
+        
+##### [3 May. The Lowry | *Unnatural Cycles — A Ghost Story* by Avital Raz](/current/2023/raz)          
+Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: contained some strong language; mentions of rape, war, miscarriage.         
         
 ##### [10 Mar. Contact | Turn 2023](/current/2023-turn)         
 Age Advisory: 15+ (parental/guardian discretion).<br>Content Warnings: some works may disturb, specifics follow.         
