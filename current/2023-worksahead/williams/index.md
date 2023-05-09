@@ -17,7 +17,7 @@ season: "Jade Williams in Works Ahead 18+19|5|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2023-worksahead/williams/#artist) · [ticketing](/current/2023-worksahead/williams/#ticketing) · [access](/current/2023-worksahead/williams/#access) · [about](/current/2023-worksahead/williams/#about) · [credits](/current/2023-worksahead/williams/#credits) · [websites](/current/2023-worksahead/williams/#websites)</span><br><small>Updated 9 May 2023</small>, 15:45        
+<span style='font-variant: small-caps'>→ [artist](/current/2023-worksahead/williams/#artist) · [ticketing](/current/2023-worksahead/williams/#ticketing) · [access](/current/2023-worksahead/williams/#access) · [about](/current/2023-worksahead/williams/#about) · [credits](/current/2023-worksahead/williams/#credits) · [websites](/current/2023-worksahead/williams/#websites)</span><br><small>Updated 9 May 2023, 15:50</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2023](/current/2023-worksahead)        
         
