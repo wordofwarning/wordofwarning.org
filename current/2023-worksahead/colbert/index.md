@@ -17,7 +17,7 @@ season: "Kellie Colbert in Works Ahead 18+19|5|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2023-worksahead/colbert/#artist) · [quotes](/current/2023-worksahead/colbert/#quotes) · [ticketing](/current/2023-worksahead/colbert/#ticketing) · [access](/current/2023-worksahead/colbert/#access) · [about](/current/2023-worksahead/colbert/#about) · [credits](/current/2023-worksahead/colbert/#credits) · [websites](/current/2023-worksahead/colbert/#websites)</span><br><small>Updated 21 Apr 2023</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2023-worksahead/colbert/#artist) · [quotes](/current/2023-worksahead/colbert/#quotes) · [ticketing](/current/2023-worksahead/colbert/#ticketing) · [access](/current/2023-worksahead/colbert/#access) · [about](/current/2023-worksahead/colbert/#about) · [credits](/current/2023-worksahead/colbert/#credits) · [websites](/current/2023-worksahead/colbert/#websites)</span><br><small>Updated 9 May 2023, 15:55</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2023](/current/2023-worksahead)        
         
@@ -38,12 +38,12 @@ Her biggest accomplishment to date is publicly debuting *Root*, an intimate perf
 >*Left with a lasting impression of how difference can be embraced.*<br>&nbsp;— Buxton Fringe Review on *Root*<br>*Succeeds in helping the viewer appreciate the difficulty of living with compulsion and deserves a wider audience.*<br>&nbsp;— British Theatre Guide on *Root*<br>*One word — Powerful!*<br>&nbsp;— Audience Feedback on *Root*<br>*Heart touching, powerful, and sensitive.*<br>&nbsp;— Audience Feedback on *Root*<br>*A beautiful exploration of isolation and anxiety.*<br>&nbsp;— Audience Feedback on *Social Butterfly*         
         
 #### Ticketing          
-Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://contactmcr.com/book-online/310558" target="_blank">Thursday</a>/<a href="https://contactmcr.com/book-online/310559" target="_blank">Friday</a> via <a href="https://contactmcr.com/shows/works-ahead-2023" target="_blank">Contact</a> or call 0161 274 0600        
+Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://contactmcr.com/book/instance/310558" target="_blank">Thursday</a>/<a href="https://contactmcr.com/book/instance/310559" target="_blank">Friday</a> via <a href="https://contactmcr.com/events/works-ahead-2023" target="_blank">Contact</a> or call 0161 274 0600        
          
-Times: Thursday 18 + Friday 19 May 2023, 7.30pm<br>Duration: *to be confirmed*<br>*NB* Kellie presents alongside Christian Asare & Jade Williams in [Works Ahead 2023](/current/2023-worksahead), with all three works shown in the same order each night.<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
+Times: Thursday 18 + Friday 19 May 2023, 7.30pm<br>Duration: *to be confirmed*<br>*NB* Kellie presents alongside Christian Asare & Jade Williams in [Works Ahead 2023](/current/2023-worksahead), with all three works shown in the same order each night.<br>Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
         
 #### Access         
-Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: three contemporary performance works with varied content.<br>Queries: please call <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
+Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: three contemporary performance works with varied content.<br>Queries: please call <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
          
 #### About           
 [Works Ahead](/hab/worksahead) is a project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011.
@@ -54,5 +54,7 @@ Since 2012 it has offered over thirty-five small, supported, work-in-development
          
 #### Websites          
 Insta <a href="https://instagram.com/kellie.colbert.theatre" target="_blank">kellie.colbert.theatre</a> · <a href="https://twitter.com/imKellieColbert" target="_blank">@imKellieColbert</a><br><a href="https://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="https://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>         
+        
+*NB* <a href="https://contactmcr.com" target="_blank">Contact's website</a> changed on 9 May & links to their site have been updated.          
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2023-worksahead/colbert)</span></small>
