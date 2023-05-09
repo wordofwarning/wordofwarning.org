@@ -17,7 +17,7 @@ season: "Works Ahead 18+19|5|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [ticketing](/current/2023-worksahead/#ticketing) · [access](/current/2023-worksahead/#access) · [about](/current/2023-worksahead/#about) · [artists](/current/2023-worksahead/#artists) · [credits](/current/2023-worksahead/#credits) · [websites](/current/2023-worksahead/#websites)</span><br><small>Updated 9 May 2023, 14:40</small>        
+<span style='font-variant: small-caps'>→ [ticketing](/current/2023-worksahead/#ticketing) · [access](/current/2023-worksahead/#access) · [about](/current/2023-worksahead/#about) · [artists](/current/2023-worksahead/#artists) · [credits](/current/2023-worksahead/#credits) · [websites](/current/2023-worksahead/#websites)</span><br><small>Updated 9 May 2023, 15:35</small>        
         
 *Presented by* Word of Warning + Contact        
          
@@ -60,6 +60,6 @@ Kellie is a Greater Manchester-based performance maker. She would describe herse
 #### Websites          
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>         
         
-*NB* <a href="https://contactmcr.com" target="_blank">Contact</a>'s website changed on 9 May and we have updated links to pages on their site.        
+*NB* <a href="https://contactmcr.com" target="_blank">Contact's website</a> changed on 9 May & links to their site have been updated.        
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2023-worksahead)</span></small>
