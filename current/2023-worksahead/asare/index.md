@@ -17,7 +17,7 @@ season: "Christian Asare in Works Ahead 18+19|5|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2023-worksahead/asare/#artist) · [ticketing](/current/2023-worksahead/asare/#ticketing) · [access](/current/2023-worksahead/asare/#access) · [about](/current/2023-worksahead/asare/#about) · [credits](/current/2023-worksahead/asare/#credits) · [websites](/current/2023-worksahead/asare/#websites)</span><br><small>Updated 11 May 2023, 12:50</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2023-worksahead/asare/#artist) · [ticketing](/current/2023-worksahead/asare/#ticketing) · [access](/current/2023-worksahead/asare/#access) · [about](/current/2023-worksahead/asare/#about) · [credits](/current/2023-worksahead/asare/#credits) · [websites](/current/2023-worksahead/asare/#websites)</span><br><small>Updated 12 May 2023</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2023](/current/2023-worksahead)        
         
@@ -51,7 +51,7 @@ Times: Thursday 18 + Friday 19 May 2023, 7.30pm<br>Duration: event lasts *up to*
 Since 2012 it has offered over thirty-five small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events. Support includes mentoring and a public showing of the next stage of the work, in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>… Christian is [presented alongside two other artists](/current/2023-worksahead).         
          
 #### Credits         
-Seedfunded by <a href="http://divergencymcr.org" target="_blank">Divergency</a>. Special thanks to hÅb + Contact.<br>[Works Ahead](/hab/worksahead) [2023](/current/2023-worksahead) commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab).<br>Project Mentor: Peader Kirk        
+Seedfunded by <a href="http://divergencymcr.org" target="_blank">Divergency</a>. Special thanks to hÅb + Contact.<br>[Works Ahead](/hab/worksahead) [2023](/current/2023-worksahead) commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab).<br>Project Mentor: Peader Kirk · Thanks to Keisha Thompson & Tania Camara.       
          
 #### Websites          
 Facebook <a href="https://facebook.com/ChristianAsare2016" target="_blank">ChristianAsare2016</a> · Insta <a href="https://instagram.com/xtianasare" target="_blank">xtianasare</a> · <a href="https://twitter.com/XtianAsare" target="_blank">@XtianAsare</a><br><a href="https://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="https://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>         
