@@ -45,7 +45,7 @@ Times: Thursday 18 + Friday 19 May 2023, 7.30pm<br>Duration: event lasts *up to*
 Since 2012 it has offered over thirty-five small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events. Support includes mentoring and a public showing of the next stage of the work, in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>… Jade is [presented alongside two other artists](/current/2023-worksahead).         
         
 #### Credits         
-Music: *Save my Life* by Tiwa Savage.<br>[Works Ahead](/hab/worksahead) [2023](/current/2023-worksahead) commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab).<br>Project Mentor: Peader Kirk        
+Music: *Save my Life* by Tiwa Savage.<br>[Works Ahead](/hab/worksahead) [2023](/current/2023-worksahead) commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab).<br>Project Mentor: Peader Kirk · Thanks to Keisha Thompson & Tania Camara.        
          
 #### Websites          
 Insta <a href="https://instagram.com/dance_or_die_with_jade" target="_blank">dance_or_die_with_jade</a> · <a href="https://twitter.com/Danceordiejade" target="_blank">@Danceordiejade</a><br><a href="https://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="https://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>         
