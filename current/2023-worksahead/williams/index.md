@@ -17,7 +17,7 @@ season: "Jade Williams in Works Ahead 18+19|5|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2023-worksahead/williams/#artist) · [ticketing](/current/2023-worksahead/williams/#ticketing) · [access](/current/2023-worksahead/williams/#access) · [about](/current/2023-worksahead/williams/#about) · [credits](/current/2023-worksahead/williams/#credits) · [websites](/current/2023-worksahead/williams/#websites)</span><br><small>Updated 11 May 2023, 13:00</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2023-worksahead/williams/#artist) · [ticketing](/current/2023-worksahead/williams/#ticketing) · [access](/current/2023-worksahead/williams/#access) · [about](/current/2023-worksahead/williams/#about) · [credits](/current/2023-worksahead/williams/#credits) · [websites](/current/2023-worksahead/williams/#websites)</span><br><small>Updated 12 May 2023</small>        
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2023](/current/2023-worksahead)        
         
@@ -45,7 +45,7 @@ Times: Thursday 18 + Friday 19 May 2023, 7.30pm<br>Duration: event lasts *up to*
 Since 2012 it has offered over thirty-five small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events. Support includes mentoring and a public showing of the next stage of the work, in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>… Jade is [presented alongside two other artists](/current/2023-worksahead).         
         
 #### Credits         
-[Works Ahead](/hab/worksahead) [2023](/current/2023-worksahead) commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab).<br>Project Mentor: Peader Kirk        
+Music: *Save my Life* by Tiwa Savage.<br>[Works Ahead](/hab/worksahead) [2023](/current/2023-worksahead) commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab).<br>Project Mentor: Peader Kirk        
          
 #### Websites          
 Insta <a href="https://instagram.com/dance_or_die_with_jade" target="_blank">dance_or_die_with_jade</a> · <a href="https://twitter.com/Danceordiejade" target="_blank">@Danceordiejade</a><br><a href="https://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="https://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>         
