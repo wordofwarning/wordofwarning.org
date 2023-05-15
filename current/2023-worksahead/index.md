@@ -17,7 +17,7 @@ season: "Works Ahead 18+19|5|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [ticketing](/current/2023-worksahead/#ticketing) · [access](/current/2023-worksahead/#access) · [about](/current/2023-worksahead/#about) · [artists](/current/2023-worksahead/#artists) · [credits](/current/2023-worksahead/#credits) · [websites](/current/2023-worksahead/#websites)</span><br><small>Updated 12 May 2023</small>        
+<span style='font-variant: small-caps'>→ [ticketing](/current/2023-worksahead/#ticketing) · [access](/current/2023-worksahead/#access) · [about](/current/2023-worksahead/#about) · [artists](/current/2023-worksahead/#artists) · [credits](/current/2023-worksahead/#credits) · [websites](/current/2023-worksahead/#websites)</span><br><small>Updated 15 May 2023</small>        
         
 *Presented by* Word of Warning + Contact        
          
@@ -38,9 +38,9 @@ Since 2012 it has offered over thirty-five small, supported, work-in-development
 #### Artists        
 [Christian Asare · *DUAL*](/current/2023-worksahead/asare)         
          
-*Embrace the divine madness of creativity — it takes courage to live with anxiety and vulnerability, but it's what sets creative souls apart.*<br>An exploration of identity & the human experience through visual art & dance.        
+*Colour is much like music — every hue a note on scale, every tone a pitch that carries… Complimentary and juxtaposed — they yet prevail…*<brCombining visual art, poetry and Afro-contemporary choreography, *DUAL* explores the fluid multiplicity of Black identity through an interdisciplinary diasporic lens.        
         
-Christian is a Black British interdisciplinary artist with Ghanaian roots. With a background in choreography and contemporary dance, his specialisation in Afro-contemporary performance adds a unique flair to his work. Moreover, he is an independent fine artist who creates oil paintings with a particular emphasis on elevating Afrocentric imagery, portraiture, abstraction, and Afrofuturism.          
+Christian is a Black British interdisciplinary artist with Ghanaian ancestry & heritage. With a background in choreography & contemporary dance, his specialisation in Afro-contemporary performance adds a unique flair to his work. Moreover, he is an independent fine artist who creates oil paintings with a particular emphasis on elevating Afrocentric imagery, portraiture, abstraction, and Afrofuturism.          
 <hr>        
 [Jade Williams · *In Search of Pablo*](/current/2023-worksahead/williams)         
         
