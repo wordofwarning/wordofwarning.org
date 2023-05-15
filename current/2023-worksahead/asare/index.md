@@ -22,7 +22,7 @@ season: "Christian Asare in Works Ahead 18+19|5|2023"
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2023](/current/2023-worksahead)        
         
 >*Colour is much like music — every hue a note on scale, every tone a pitch that carries… Complimentary and juxtaposed — they yet prevail…*         
-— Pitch, Hue, Tone by Christian Asare         
+— *Pitch, Hue, Tone* by Christian Asare         
          
 Combining visual art, poetry and Afro-contemporary choreography, *DUAL* explores the fluid multiplicity of Black identity through an interdisciplinary diasporic lens. Rooted in the philosophical concepts of existentialism, we are invited to journey through the raw and complex emotions that define us as individuals.         
          
@@ -52,7 +52,7 @@ Times: Thursday 18 + Friday 19 May 2023, 7.30pm<br>Duration: event lasts *up to*
 Since 2012 it has offered over thirty-five small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events. Support includes mentoring and a public showing of the next stage of the work, in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>… Christian is [presented alongside two other artists](/current/2023-worksahead).         
          
 #### Credits         
-"Global Gaze", Audio/Video Editor, Videographer: Jonathan Mayorga Montilla<br>Music: *Colouour* by Moses Sumney, *African Gold* by Jamilah Barry (incl. excerpt of Martin Luther King Jr. 1967), *The Rhythm Part One* by Trüby Trio, *Conceptions* by 4hero<br>Painting by Christian Asare · Poetry by Christian Asare<br>Special thanks to Peader Kirk, Keisha Thompson, Tania Camara, Tamsin Drury for development support.<br>Seedfunded by <a href="http://divergencymcr.org" target="_blank">Divergency</a>        
+"Global Gaze", Audio/Video Editor, Videographer: Jonathan Mayorga Montilla<br>Music: *Colouour* by Moses Sumney, *African Gold* by Jamilah Barry (includes excerpt of Martin Luther King Jr. 1967), *The Rhythm Part One* by Trüby Trio, *Conceptions* by 4hero<br>Painting by Christian Asare · Poetry by Christian Asare<br>Special thanks to Peader Kirk, Keisha Thompson, Tania Camara, Tamsin Drury for development support. *DUAL* seedfunded by <a href="http://divergencymcr.org" target="_blank">Divergency</a>.        
         
 [Works Ahead](/hab/worksahead) [2023](/current/2023-worksahead) commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab).<br>Project Mentor: Peader Kirk · Thanks to Keisha Thompson & Tania Camara.       
          
