@@ -21,16 +21,17 @@ season: "Christian Asare in Works Ahead 18+19|5|2023"
         
 *Presented by* Word of Warning + Contact *in* [Works Ahead 2023](/current/2023-worksahead)        
         
-*Embrace the divine madness of creativity — it takes courage to live with anxiety and vulnerability, but it's what sets creative souls apart.*         
+>*Colour is much like music — every hue a note on scale, every tone a pitch that carries… Complimentary and Juxtaposed — they yet prevail…*         
+— *Pitch, Hue, Tone* by Christian Asare        
          
-A moving exploration of identity and the human experience through visual art & dance. Rooted in the philosophical concepts of existentialism, we are invited to journey through the raw and complex emotions that define us as individuals.         
+Combining visual art, poetry and Afro-contemporary choreography, *DUAL* explores the fluid multiplicity of Black identity through an interdisciplinary diasporic lens. Rooted in the philosophical concepts of existentialism, we are invited to journey through the raw and complex emotions that define us as individuals.         
          
 Bringing together the past & the present, the cultural & the new, in a search for belonging and to maintain cultural tradition while adapting to new contexts.          
          
 A thought-provoking and evocative celebration of the richness of our identities, offering renewed appreciation for the complexity of what it means to be human.         
         
 #### Artist        
-Christian, a Black British interdisciplinary artist with Ghanaian roots, resides in the vibrant city of Manchester. With a background in choreography and contemporary dance, his specialisation in Afro-contemporary performance adds a unique flair to his work.        
+Christian, a Black British interdisciplinary artist with Ghanaian Ancestry & Heritage, resides in the vibrant city of Manchester. With a background in choreography and contemporary dance, his specialisation in Afro-contemporary performance adds a unique flair to his work.        
          
 Moreover, Christian is an independent fine artist who creates oil paintings with a particular emphasis on elevating Afrocentric imagery, portraiture, abstraction, and Afrofuturism. His work aims to evoke emotion and showcase the beauty of Black culture through his use of vibrant colours and rich textures.          
        
