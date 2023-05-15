@@ -38,7 +38,7 @@ Since 2012 it has offered over thirty-five small, supported, work-in-development
 #### Artists        
 [Christian Asare · *DUAL*](/current/2023-worksahead/asare)         
          
-*Colour is much like music — every hue a note on scale, every tone a pitch that carries… Complimentary and juxtaposed — they yet prevail…*<brCombining visual art, poetry and Afro-contemporary choreography, *DUAL* explores the fluid multiplicity of Black identity through an interdisciplinary diasporic lens.        
+*Colour is much like music — every hue a note on scale, every tone a pitch that carries… Complimentary and juxtaposed — they yet prevail…*<br>Explores the fluid multiplicity of Black identity through an interdisciplinary diasporic lens — combining visual art, poetry and Afro-contemporary choreography.         
         
 Christian is a Black British interdisciplinary artist with Ghanaian ancestry & heritage. With a background in choreography & contemporary dance, his specialisation in Afro-contemporary performance adds a unique flair to his work. Moreover, he is an independent fine artist who creates oil paintings with a particular emphasis on elevating Afrocentric imagery, portraiture, abstraction, and Afrofuturism.          
 <hr>        
