@@ -24,7 +24,7 @@ season: "Christian Asare in Works Ahead 18+19|5|2023"
 >*Colour is much like music — every hue a note on scale, every tone a pitch that carries… Complimentary and juxtaposed — they yet prevail…*         
 — *Pitch, Hue, Tone* by Christian Asare         
          
-Combining visual art, poetry and Afro-contemporary choreography, *DUAL* explores the fluid multiplicity of Black identity through an interdisciplinary diasporic lens. Rooted in the philosophical concepts of existentialism, we are invited to journey through the raw and complex emotions that define us as individuals.         
+Combining visual art, poetry, and Afro-contemporary choreography — *DUAL* explores the fluid multiplicity of Black identity through an interdisciplinary diasporic lens. Rooted in the philosophical concepts of existentialism, we are invited to journey through the raw and complex emotions that define us as individuals.         
          
 Bringing together the past & the present, the cultural & the new, in a search for belonging and to maintain cultural tradition while adapting to new contexts.          
          
