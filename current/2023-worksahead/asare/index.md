@@ -31,7 +31,7 @@ Bringing together the past & the present, the cultural & the new, in a search fo
 A thought-provoking and evocative celebration of the richness of our identities, offering renewed appreciation for the complexity of what it means to be human.         
         
 #### Artist        
-Christian, a Black British interdisciplinary artist with Ghanaian Ancestry & Heritage, resides in the vibrant city of Manchester. With a background in choreography and contemporary dance, his specialisation in Afro-contemporary performance adds a unique flair to his work.        
+Christian, a Black British interdisciplinary artist with Ghanaian ancestry & heritage, resides in the vibrant city of Manchester. With a background in choreography and contemporary dance, his specialisation in Afro-contemporary performance adds a unique flair to his work.        
          
 Moreover, Christian is an independent fine artist who creates oil paintings with a particular emphasis on elevating Afrocentric imagery, portraiture, abstraction, and Afrofuturism. His work aims to evoke emotion and showcase the beauty of Black culture through his use of vibrant colours and rich textures.          
        
