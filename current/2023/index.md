@@ -10,7 +10,7 @@ season: "Performance Programme 2023"
 ---
 <span style='font-variant: small-caps'>→ [about](/current/2023/#about) · [audiences](/current/2023/#audiences) · [by](/current/2023/#by) · [people](/current/2023/#people) · [warnings](/current/2023/#warnings)</span><br><small>Updated 22 May 2023</small>        
          
-*Spring saw [Turn](/current/2023-turn)'s whirlwind night of new dance and three new [Works Ahead](/current/2023-worksahead) at <a href="https://contactmcr.com" target="_blank">Contact</a>, plus [Avital Raz](/current/2023/raz)'s Ghost Story at <a href="https://thelowry.com" target="_blank">The Lowry</a><br>— Summer brings a free afternoon of [haphazard](/hab/haphazard) antics to <a href="https://z-arts.org" target="_blank">Z-arts</a> in late July…*         
+*Spring saw [Turn](/current/2023-turn)'s whirlwind night of new dance and [Works Ahead](/current/2023-worksahead) from [Christian](/current/2023-worksahead/asare), [Jade](/current/2023-worksahead/williams) & [Kellie](/current/2023-worksahead/colbert) at <a href="https://contactmcr.com" target="_blank">Contact</a>, plus [Avital Raz](/current/2023/raz)'s Ghost Story at <a href="https://thelowry.com" target="_blank">The Lowry</a> — Summer sees a free afternoon of [Haphazard](/hab/haphazard) antics at <a href="https://z-arts.org" target="_blank">Z-arts</a>…*         
          
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
