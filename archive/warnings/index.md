@@ -12,7 +12,7 @@ season: "Archived Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 5 May 2023<small>        
+<small>Updated 22 May 2023<small>        
         
 Age Advisories/Limits & Content Warnings for *past* events (including *archived* livestreams on our YouTube channel) is available below, including elements that may distress, cause upset, or trigger. → [2023](/archive/warnings/#2023) · [2022](/archive/warnings/#2022) · [2021](/archive/warnings/#2021) · [2020](/archive/warnings/#2020) · [2019](/archive/warnings/#2019)<br>&nbsp;Please click [here](/warnings) for *upcoming* events.        
         
@@ -21,6 +21,9 @@ If issues raised affect you, these organisations may be of support:&nbsp;&nbsp;<
 <hr>         
 #### 2023        
         
+##### [18+19 May. Contact | Works Ahead 2023](/current/2023-worksahead)          
+Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: works included complex themes that may disturb, specifics follow.<br>&nbsp;[Jade Williams](/current/2023-worksahead/williams) — included optional audience interaction; references slavery.<br>&nbsp;[Kellie Colbert](/current/2023-worksahead/colbert) — references anxiety, depression, online trolling, <a href="https://www.nhs.uk/mental-health/conditions/trichotillomania" target="_blank">trichotillomania</a>.<br>*NB* as of 17 May, there was no longer a latex allergy warning.         
+         
 ##### [3 May. The Lowry | *Unnatural Cycles — A Ghost Story* by Avital Raz](/current/2023/raz)          
 Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: contained some strong language; mentions of rape, war, miscarriage.         
         
