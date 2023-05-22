@@ -8,9 +8,9 @@ artist_size: 1
 season: "Performance Programme 2023"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2023/#about) · [audiences](/current/2023/#audiences) · [by](/current/2023/#by) · [people](/current/2023/#people) · [warnings](/current/2023/#warnings)</span><br><small>Updated 5 May 2023</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2023/#about) · [audiences](/current/2023/#audiences) · [by](/current/2023/#by) · [people](/current/2023/#people) · [warnings](/current/2023/#warnings)</span><br><small>Updated 22 May 2023</small>        
          
-*Spring began with [Turn's whirlwind of new dance](/current/2023-turn) at Contact, continuing with [Avital Raz's Ghost Story](/current/2023/raz) at <a href="https://thelowry.com" target="_blank">The Lowry</a> and [three new Works Ahead](/current/2023-worksahead) at <a href="https://contactmcr.com" target="_blank">Contact</a> in May — Summer brings [haphazard](/hab/haphazard) curiosities to <a href="https://z-arts.org" target="_blank">Z-arts</a>…*         
+*Spring began with [Turn's whirlwind of new dance](/current/2023-turn) at <a href="https://contactmcr.com" target="_blank">Contact</a>, continuing with [Avital Raz's Ghost Story](/current/2023/raz) at <a href="https://thelowry.com" target="_blank">The Lowry</a> and [three new Works Ahead](/current/2023-worksahead) at Contact — Summer brings a free afternon of [haphazard](/hab/haphazard) antics to <a href="https://z-arts.org" target="_blank">Z-arts</a> in July…*         
          
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
