@@ -18,6 +18,6 @@ Essentially industry-facing, [hÅb](/hab) works with [artists, colleagues, venue
 • <a href="http://jiscmail.ac.uk/cgi-bin/webadmin?A0=LIVEART" target="_blank">LIVEART from JISCmail</a>         
 • <a href="http://jiscmail.ac.uk/cgi-bin/webadmin?A0=SCUDD" target="_blank">SCUDD (Standing Conference of University Drama Departments) from JISCmail</a>
 <hr>         
-*We're testing a new feature: embedding the GM Artist Hub Advisory Sessions booking form below.*        
+*Test feature: embedding GMAH Advisory Sessions booking form:*        
 <iframe src="https://app.squarespacescheduling.com/schedule.php?owner=19370486" title="Schedule Appointment" width="100%" frameBorder="0"></iframe><script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>         
 *End of test.*          
