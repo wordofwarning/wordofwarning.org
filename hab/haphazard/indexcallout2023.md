@@ -16,12 +16,12 @@ season: "Haphazard by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---         
-<small>Updated 2 June 2023, 6pm</small>        
+<small>Updated 20 April 2023</small>        
         
 **Haphazard** is our occasional foray into 'all ages' Live Art, with intriguing images and offbeat oddities dotted around and about the historic <a href="https://z-arts.org" target="_blank">Z-arts</a> building in Manchester's Hulme. Playful, quirky, engaging, and sometimes plain daft: a free afternoon of Live Art for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out!            
 
-#### Haphazard 2023 Call for Proposals is now Closed        
-We were calling for proposals for our sixth free 'all ages' Live Art day, taking place on **Saturday 22 July, Noon-3pm** in and around <a href="https://z-arts.org" target="_blank">Z-arts</a>.          
+#### Haphazard 2023 Call for Proposals        
+We're now calling for proposals for our sixth free 'all ages' Live Art day, taking place on **Saturday 22 July, Noon-3pm** in and around <a href="https://z-arts.org" target="_blank">Z-arts</a>.          
         
 This is not Live Art for children, but Live Art for ALL AGES — and we mean from tot to timeworn, 8 months to 80 years — so work should have appeal for adults and children alike (even if the kids need to explain it to the adults!)        
         
