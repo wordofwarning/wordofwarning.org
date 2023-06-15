@@ -19,7 +19,7 @@ season: "Haphazard 22|7|2023"
         
 *Presented by* Word of Warning *+* Z-arts           
          
-Playful, quirky, engaging, and sometimes plain daft: Live Art takes over <a href="https://z-arts.org/events/haphazard-2" target="_blank">Z-arts</a> on **Saturday 22 July from Noon to 3pm** in a free afternoon for kids and their adults, for adults and *their* adults — for anyone looking for a different day out! Turn up at any time, come and go as you please… and expect the unexpected!         
+Playful, quirky, engaging, and sometimes plain daft: a free afternoon for kids & their adults, adults & *their* adults — anyone looking for a different day out!<br>Live Art takes over <a href="https://z-arts.org/events/haphazard-2" target="_blank">Z-arts</a> on **Saturday 22 July from Noon to 3pm** — turn up at any time, come and go as you please… and expect the unexpected!         
          
 *Lasers firing, slinkies dancing, book-learned mime, and a shower of confetti.<br>A flock of birds — scoundrels of the sky, laying woollen eggs, making dreams come true.<br>A bold pink giant spinning jellyfish.<br>One small nibble for mouse, one giant bite for micekind.<br>Magical bananas and a micro(wave) puppet show.<br>A nice big tower held together with cream.<br>Touch, mess, and play with everything — things are popping…*        
        
@@ -27,7 +27,7 @@ Playful, quirky, engaging, and sometimes plain daft: Live Art takes over <a href
 Gemma Lees · Jana Aizupe & Gi Vasey · Joe Beedles · Julie Burrow · Kitunda Argyle · Krissi Musiol & Amy Vreeke · Luna Ælflæd · Maddie Wakeling & Rowan Szulek · Nicola Smith · Orla Collier & Magdalena Górnikiewicz · Plaster Cast · Puppetfingers · Thomas Daniel Byrne<br><small>*Participating artists subject to change.*</small>         
          
 #### Details         
-Entry: free, no booking required (come and go as you please).<br>Times: Saturday 22 July 2023, Noon-3pm (turn up at any time).<br>Location: <a href="https://z-arts.org/home/your-visit-to-z-arts/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA<br>*NB* with artists located in multiple spaces and some works having a short duration and/or repeating, you may not get chance to see everything.          
+Entry: free, no booking required (come and go as you please).<br>Times: Saturday 22 July 2023, Noon-3pm (turn up at any time).<br>Location: <a href="https://z-arts.org/home/your-visit-to-z-arts/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA<br>*NB* with artists located in multiple spaces, and some works having a short duration and/or repeating, you may not get a chance to see everything.          
          
 #### Access         
 Age Advisory: suitable for all ages (parental/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings) for more info.<br>Features: Live Art, performance, and participatory works with varied content.<br>*NB* takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some participatory.<br>Queries: please contact <a href="https://z-arts.org/home/your-visit-to-z-arts/access" target="_blank">Z-arts</a> on 0161 226 1912 or <mailto:boxoffice@z-arts.org>        
