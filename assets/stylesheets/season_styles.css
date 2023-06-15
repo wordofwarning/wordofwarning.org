@@ -947,6 +947,27 @@
 	.w2022 .splash
 		{background:url(../images/header_woah_photo.jpg) center center}
 
+/* Haphazard 2023 Nicola Smith conehead w yellow background
+------------------------------------------------------*/
+
+	.h2023,
+	.h2023 .artist, 
+	.h2023 .show,
+	.h2023 .season
+		{background:#ffcd05; color:#000;}
+
+	.h2023 a,
+	.h2023 a:visited,
+	.h2023 a:hover
+		{color:#000;}
+	.h2023 nav a:hover,
+	.h2023 article a:hover,
+	.h2023 footer a:hover
+		{background:#000; color:#ffcd05;}
+
+	.h2023 .splash
+		{background:url(../images/header_haphazard23ylw.jpg) center center}
+
 /* 2023 Programme green palm
 ------------------------------------------------------*/
 
