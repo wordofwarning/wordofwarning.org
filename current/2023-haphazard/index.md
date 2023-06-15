@@ -7,7 +7,7 @@ rootpath: "../../"
 artist: "Haphazard 2023" # the name of the artist or company
 show: "A free day out for the<br>&nbsp;curious of all ages." # the name of the show
 artist_size: 2
-show_size: 4
+show_size: 3
 season: "Haphazard 22|7|2023"
 
 # ABOUT THE SHOW - LAYOUT
@@ -19,7 +19,7 @@ season: "Haphazard 22|7|2023"
         
 *Presented by* Word of Warning *+* Z-arts           
          
-Playful, quirky, engaging, and sometimes plain daft: a free afternoon for kids & their adults, adults & *their* adults — anyone looking for a different day out!<br>Live Art takes over <a href="https://z-arts.org/events/haphazard-2" target="_blank">Z-arts</a> on **Saturday 22 July from Noon to 3pm** — turn up at any time, come and go as you please… and expect the unexpected!         
+Playful, quirky, engaging, and sometimes plain daft: this is for kids and their adults, adults and *their* adults — for anyone looking for a different day out!<br>A Live Art takeover of <a href="https://z-arts.org/events/haphazard-2" target="_blank">Z-arts</a> on **Saturday 22 July from Noon to 3pm** — turn up at any time, come and go as you please… and expect the unexpected!         
          
 *Lasers firing, slinkies dancing, book-learned mime, and a shower of confetti.<br>A flock of birds — scoundrels of the sky, laying woollen eggs, making dreams come true.<br>A bold pink giant spinning jellyfish.<br>One small nibble for mouse, one giant bite for micekind.<br>Magical bananas and a micro(wave) puppet show.<br>A nice big tower held together with cream.<br>Touch, mess, and play with everything — things are popping…*        
        
