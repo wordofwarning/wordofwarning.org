@@ -6,7 +6,7 @@ rootpath: "../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Haphazard 2023" # the name of the artist or company
 show: "A free day out for the curious of all ages." # the name of the show
-artist_size: 2
+artist_size: 1
 show_size: 5
 season: "Haphazard 22|7|2023"
 
