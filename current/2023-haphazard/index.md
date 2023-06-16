@@ -15,13 +15,13 @@ season: "Haphazard 22|7|2023"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2023-haphazard/#artists) · [details](/current/2023-haphazard/#details) · [access](/current/2023-haphazard/#access) · [about](/current/2023-haphazard/#about) · [credits](/current/2023-haphazard/#credits) · [websites](/current/2023-haphazard/#websites)</span><br><small>Updated 15 Jun 2023</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2023-haphazard/#artists) · [details](/current/2023-haphazard/#details) · [access](/current/2023-haphazard/#access) · [about](/current/2023-haphazard/#about) · [credits](/current/2023-haphazard/#credits) · [websites](/current/2023-haphazard/#websites)</span><br><small>Updated 16 Jun 2023</small>        
         
 *Presented by* Word of Warning *+* Z-arts           
          
-Playful, quirky, engaging, and sometimes plain daft: this is for kids and their adults, adults and *their* adults — anyone looking for a different day out!         
+Playful, quirky, engaging, and sometimes plain daft: Haphazard is for kids and their adults, adults and *their* adults — anyone looking for a different day out!         
           
-Live Art takes over <a href="https://z-arts.org/events/haphazard-2" target="_blank">Z-arts</a> on **Saturday 22 July from Noon to 3pm** — turn up at any time, come and go as you please, and expect the unexpected…         
+A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2" target="_blank">Z-arts</a> **on Saturday 22 July from Noon to 3pm**. Turn up at any time, come and go as you please… and expect the unexpected!         
          
 *Lasers firing, slinkies dancing, book-learned mime, and a shower of confetti.<br>A flock of birds — scoundrels of the sky, laying woollen eggs, making dreams come true.<br>A bold pink giant spinning jellyfish.<br>One small nibble for mouse, one giant bite for micekind.<br>Magical bananas and a micro(wave) puppet show.<br>A nice big tower held together with cream.<br>Touch, mess, and play with everything — things are popping…*        
        
