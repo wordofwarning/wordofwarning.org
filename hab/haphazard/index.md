@@ -20,16 +20,8 @@ season: "Haphazard by hÅb"
         
 **Haphazard** is our frequent foray into 'all ages' Live Art, with intriguing images and offbeat oddities dotted around and about the historic <a href="https://z-arts.org" target="_blank">Z-arts</a> building in Manchester's Hulme. Playful, quirky, engaging, and sometimes plain daft: a free afternoon of Live Art for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out!            
 
-#### Haphazard 2023 Call for Proposals now closed        
-We were calling for proposals for our sixth free 'all ages' Live Art day, taking place on **Saturday 22 July, Noon-3pm** in and around <a href="https://z-arts.org" target="_blank">Z-arts</a>.          
-        
-This is not Live Art for children, but Live Art for ALL AGES — and we mean from tot to timeworn, 8 months to 80 years — so work should have appeal for adults and children alike (even if the kids need to explain it to the adults!)        
-        
-From experience, what works best are big surreal images, interesting repetitive movement, and nothing too text heavy. We have access to a number of spaces within Z-arts, and work immediately outside the building may also be possible. Durational, intervention, and 'come and go' work seems to work the best — we're not really looking for sit-down theatre shows.        
+After a 4-year hiatus, [Haphazard 2023](/current/2023-haphazard) takes over <a href="https://z-arts.org" target="_blank">Z-arts</a> for our sixth edition with fourteen works on **Saturday 22 July 2023, Noon-3pm** — turn up at any time, come and go as you please… and expect the unexpected!          
        
-#### For details & to apply please go to <a href="https://haphazard.posthaven.com" target="_blank">haphazard.posthaven.com</a>         
-#### Proposal Deadline: 5pm, Friday 2 June 2023.        
-
 [Haphazard 2023](/current/2023-haphazard) presented by [Word of Warning](/) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>; produced by [hÅb](/hab) with <a href="http://www.z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England.<br>Header image: Nicola Smith at [Haphazard 2019](/archive/2019-haphazard)        
 
 Enquiries: <mailto:haphazard@habmcr.org> · <a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> · <a href="http://twitter.com/hashtag/HaphazardMcr" target="_blank">#HaphazardMcr</a>              
