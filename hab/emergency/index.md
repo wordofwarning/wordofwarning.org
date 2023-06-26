@@ -29,7 +29,7 @@ Artists working in Live Art, contemporary performance, time-based media, and int
         
 Emergency 23 combines daytime durational, installation, intervention, and limited capacity work; followed by an evening of short (*max 20 min*) show-type pieces of work, works-in-progress, or extracts of longer works.       
         
-Manchester's annual Live Art & performance platform, Emergency aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions.        
+Manchester's annual Live Art + performance platform, Emergency aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions.        
         
 #### For details & to apply go to <a href="https://emergencymcr.posthaven.com" target="_blank">emergencymcr.posthaven.com</a>         
 #### Proposal Deadline: 5pm, Friday 4 August 2023.        
