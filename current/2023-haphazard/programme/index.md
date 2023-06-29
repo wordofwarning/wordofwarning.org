@@ -18,7 +18,7 @@ season: "Haphazard 22|7|2023, Programme Notes"
 ---
 <small>Updated 29 June 2023</small>         
          
-*[A free day out for the curious of all ages](/current/2023-haphazard) on Saturday 22 July from Noon to 3pm, presented by* Word of Warning *+* Z-arts       
+*[A free day out for the curious of all ages](/current/2023-haphazard) presented by* Word of Warning *+* Z-arts *on Saturday 22 July from Noon to 3pm*      
          
 #### Artists         
 Gemma Lees · Jana Aizupe & Gi Vasey · Joe Beedles · Julie Burrow · Kitunda Argyle · Krissi Musiol & Amy Vreeke · Luna Ælflæd · Maddie Wakeling & Rowan Szulek · Nicola Smith · Orla Collier & Magdalena Górnikiewicz · Plaster Cast · Puppetfingers · Thomas Daniel Byrne<br><small>*Participating artists subject to change.*</small>            
@@ -40,7 +40,7 @@ Jana Aizupe & Gi Vasey · *dreaming of you*
         
 Two silver birds glide through our daily world — ethereal, other-worldly, they collect and carry the dreams that humans wish for and might just come true.         
        
-Gi is a theatre designer and improv theatre make.<br>Jana is a street dancer, performer, and facilitator whose work has been shown by China Plate, Omnibus, Camden People's Theatre.<br>Design Assistant: Dara Hughes          
+Gi is a theatre designer and improv theatre maker.<br>Jana is a street dancer, performer, and facilitator whose work has been shown by China Plate, Omnibus, Camden People's Theatre.<br>Design Assistant: Dara Hughes          
          
 <a href="https://instagram.com/1001create" target="_blank">Insta 1001create</a>        
 <hr>         
@@ -58,11 +58,11 @@ Performed by Joe Beedles, with audio descriptive poetry by Sally Hirst.<br>Joe i
 <hr>         
 Julie Burrow · *The Mime may be Simplified by Leaving Out the Vision Scenes*        
         
-Julie hopes to wow you with the complicated mimes she's learning. She found them in a book from 1934 and there are A LOT of instructions. Some of them are for A LOT of people – there’s just one of her but she's going to try really hard to bring them to life for you.  Be honest and tell her what you think of her mimes. Come and throw roses or rotten tomatoes. She appreciates your feedback!
-&nbsp;Content Warning: please click [here](/warnings).
-Julie Burrow is a writer-performer based in Manchester. She makes lo-fi, colourful, stupid performances, in which she has variously played an Aperol Spritz, a big showbiz moth, and the entire city of Bruges.	
+Julie hopes to wow you with the complicated mimes she's learning.<br>She found them in a book from 1934 and there are A LOT of instructions.<br>Some of them are for A LOT of people — there's just one of her but she's going to try really hard to bring them to life for you.<br>Be honest and tell her what you think of her mimes. Come and throw roses or rotten tomatoes. She appreciates your feedback!        
+         
+Julie is a writer-performer based in Manchester. She makes lo-fi, colourful, stupid performances, in which she has variously played an Aperol Spritz, a big showbiz moth, and the entire city of Bruges.	
 &nbsp;artist — www · Facebook name · Insta name · @name
-<a href="https://" target="_blank"></a> · <a href="" target="_blank">Facebook</a> · <a href="" target="_blank">Insta</a> · <a href="" target="_blank">@</a>
+<a href="https://instagram.com/juliesusieb" target="_blank">Insta juliesusieb</a> · <a href="https://twitter.com/juliesusieb" target="_blank">@juliesusieb</a>
 <hr>         
 Kitunda Argyle · *Brickin It*
 
