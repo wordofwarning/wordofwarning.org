@@ -9,7 +9,7 @@ show: "Programme Notes" # the name of the show
 artist_size: 1
 show_size: 3
 header_image:  
-season: "Turn 10|3|2023, Programme"
+season: "Turn 10|3|2023, Programme Notes"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,16 +17,13 @@ season: "Turn 10|3|2023, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 10 March 2023</small>     
+<small>Updated 29 June 2023</small>     
         
 *[A night of new dance on 10 March](/current/2023-turn), presented by* Word of Warning *+* Contact        
          
 #### Artists         
-Christian Asare · Jack Evans · Lizzy Owen · Maisha Kungu Dance · Matrafisc Dance Company · Matter of Fact · Orla Collier · taciturn · Zara Jane<br><small>*Participating artists subject to change; unfortunately James Hewison and Company are unable to perform due to illness.*</small>         
+Christian Asare · Jack Evans · Lizzy Owen · Maisha Kungu Dance · Matrafisc Dance Company · Matter of Fact · Orla Collier · taciturn · Zara Jane<br><small>*Participating artists subject to change; unfortunately James Hewison and Company unable to perform due to illness.*</small>         
         
-#### Access         
-Age Advisory: 15+ (parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: contemporary dance and performance works with varied content.<br>Covid measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.<br>Queries: please contact <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a> 0161 274 0600 or <mailto:BoxOffice@contactmcr.com><br>*NB* please remain seated between pieces in space 1; pieces in spaces 0 and 2 repeat due to capacity limits, so your experience may differ from others; for Orla Collier's piece in space 0 you may be seated or standing, please indicate if you need a seat.         
-
 #### Programme Notes                
 Christian Asare · *Diasporic Identity — an Exploration*         
          
