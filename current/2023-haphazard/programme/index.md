@@ -26,13 +26,19 @@ Gemma Lees · Jana Aizupe & Gi Vasey · Joe Beedles · Julie Burrow · Kitunda A
 #### Programme Notes       
 Gemma Lees · *Making Sense*        
         
-An immersive sensory experience where you have permission to touch, mess, and play with everything. Initially conceived for neurodiverse folks, this is an inclusive space for all.<br>Dig up dinosaurs in the sand with tiny shovels, sit in a dark tent and play with lights & projections, jazz-up slime to take home, play with scented play dough, spin one of fifty fidget spinners on the board, or take a moment to mindfully draw and colour — there’s something for everyone!        
+An immersive sensory experience where you have permission to touch, mess, and play with everything.<br>Initially conceived for neurodiverse folks, this is an inclusive space for all.<br>Dig up dinosaurs in the sand with tiny shovels, sit in a dark tent and play with lights & projections, jazz-up slime to take home, play with scented play dough, spin one of fifty fidget spinners on the board, or take a moment to mindfully draw and colour — there’s something for everyone!        
         
 &nbsp;Content Warning: please click [here](/warnings).        
         
 Gemma is a Romany Gypsy, disabled, and neurodiverse artist, poet, actor, facilitator, and theatre-maker from Bury. Her work often deals with her lived experiences of mental illness, homelessness, physical disability, neurodivergence, and the contemporary Romany experience.<br>A core team member of Girl Gang Manchester, she has worked with Graeae, Triple C, British Art Show, BBC Radio Manchester, amongst others.         
          
 <a href="https://facebook.com/gemmathepoet" target="_blank">Facebook gemmathepoet</a> · <a href="https://instagram.com/gemisace" target="_blank">Insta gemisace</a>        
+<hr>        
+Jana Aizupe & Gi Vasey · *dreaming of you*        
+        
+Two silver birds glide through our daily world — ethereal, other-worldly, they collect and carry the dreams that humans wish for and might just come true.        
+        
+Design Assistant: Dara Hughes<br>Gi is a theatre designer and improv theatre maker; Jana is a street dancer, performer, and facilitator whose work has been shown by China Plate, Omnibus, Camden People's Theatre.          
 <hr>
 
 
