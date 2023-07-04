@@ -11,20 +11,12 @@ season: "Advice Sessions from hÅb"
         
 Please see our [News page](/news/#artists) for latest advice and support information for artists, creatives, and freelancers.         
 
-If you’re an artist, theatre-maker, freelancer, creative, company, or producer based in Greater Manchester — we’d like to talk to you.
+Following on from the GM Artist Hub advisory sessions (2020-23), [hÅb](/hab) is now offering FREE 30-minute advice sessions with Tamsin Drury via Zoom on Mondays (excluding Bank Holidays).
 
-Maybe you want to discuss your creative ideas,  or get some advice on issues that are causing you concern,  or simply develop your network & stay connected…
+[hÅb](/hab)'s specialism is Live Art and contemporary performance, though all-comers welcome. If you're an artist wanting to discuss creative ideas, funding, opportunities, or just need a chat, please book a session below.
 
-We currently offer FREE 30-minute advisory sessions via Zoom (or phone call) on Mondays (excluding Bank Holidays).
-
-You’re welcome to book more than one session, though please leave space for others by spreading your bookings out over several weeks.
-
-Please book in with us below for a chat — bring your own brew!
-
-For specific queries about sessions, please email 
+For specific queries, please email 
          
-Who you’ll meet & when.
-Our producers bring together a wide range of expertise — meet someone with a particular specialism or book in for a general advice session to talk about anything you like; find more about us here.
 
 Make a booking.
 • Please note: if you book at the last minute we may not be able to accommodate you;
