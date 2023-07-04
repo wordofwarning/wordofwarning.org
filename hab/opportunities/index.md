@@ -7,7 +7,7 @@ artist: "Opportunities from hÅb"
 season: "Opportunities from hÅb"
 
 ---
-<small>Updated 26 May 2023</small>        
+<small>Updated 4 July 2023</small>        
         
 Please see our [News page](/news/#artists) for latest advice and support information for artists, creatives, and freelancers.         
          
@@ -17,7 +17,3 @@ Essentially industry-facing, [hÅb](/hab) works with [artists, colleagues, venue
 • <a href="http://liveartuk.org/pages/sign-up" target="_blank">Live Art UK</a>         
 • <a href="http://jiscmail.ac.uk/cgi-bin/webadmin?A0=LIVEART" target="_blank">LIVEART from JISCmail</a>         
 • <a href="http://jiscmail.ac.uk/cgi-bin/webadmin?A0=SCUDD" target="_blank">SCUDD (Standing Conference of University Drama Departments) from JISCmail</a>
-<hr>         
-*Test feature: embedding GMAH Advisory Sessions booking form:*        
-<iframe src="https://app.squarespacescheduling.com/schedule.php?owner=19370486" title="Schedule Appointment" width="100%" frameBorder="0"></iframe><script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>         
-*End of test.*          
