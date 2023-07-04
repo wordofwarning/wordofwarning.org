@@ -13,7 +13,7 @@ Please see our [News page](/news/#artists) for latest opportunities and support 
         
 Following on from the <a href="https://gm-artisthub.co.uk" target="_blank">GM Artist Hub</a> advisory sessions (2020-23), [hÅb](/hab) is now offering FREE 30-minute advice sessions with Tamsin Drury via Zoom on Monday mornings (excluding Bank Holidays).         
            
-[hÅb](/hab)'s specialism is Live Art and contemporary performance, though all-comers are welcome. If you're an artist wanting to discuss creative ideas, funding, opportunities, or just need a chat, please book a session below.          
+[hÅb](/hab)'s specialism is Live Art and contemporary performance, though all-comers are welcome. If you're an artist wanting to discuss creative ideas, funding, opportunities, or just need a chat, please book an advice session below.          
         
 *NB*<br>• Queries: please email <a href="mailto:info@habmcr.org">info@habmcr.org</a><br>• If you book at the last minute we may not be able to accommodate you;<br>• Sessions take place privately in Zoom;<br>• You can choose to attend a Zoom meeting without signing up for a Zoom account, meaning you won't need to provide your personal data;<br>• You can opt to “stop video” or enable a “virtual backdrop” before your session starts if you prefer as a safeguarding option.          
             
