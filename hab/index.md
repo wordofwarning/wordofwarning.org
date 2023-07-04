@@ -8,15 +8,17 @@ season: "hÅb homepage"
 ---
 ### Stimulating… extraordinary… performance…   
         
-<small>Updated 22 June 2023</small>        
+<small>Updated 4 July 2023</small>        
         
 hÅb is a Manchester-based producer, developer, and strategic advocate of Live Art, contemporary performance, and sited work in the North of England.        
         
 <a href="http://greenroomarts.org" target="_blank">greenroom</a>'s key partner for over a decade, hÅb aims to maintain its legacy — working in collaboration with a range of [partners](/hab/partners) to produce showing [opportunities](/hab/opportunities), platforms, and artist development projects including: [Divergency](/hab/divergencymcr), [Domestic](/hab/domestic), [Emergency](/hab/emergency), [Haphazard](/hab/haphazard), [Turn](/hab/turn), and [Works Ahead](/hab/worksahead).         
           
 Essentially industry-facing, we work with [artists, colleagues, venues, and others](/hab/partners) to create the best possible opportunities for new work to flourish.        
+
+Following on from the <a href="https://gm-artisthub.co.uk" target="_blank">GM Artist Hub</a> advisory sessions (2020-23), we're now offering FREE 30-minute [advice sessions](/hab/advice) with Tamsin Drury via Zoom on Monday mornings (excluding Bank Holidays).          
         
-Supported using public funding by <a href="https://www.artscouncil.org.uk/how-we-invest-public-money/2023-26-Investment-Programme" target="_blank">Arts Council England</a>, hÅb is also:<br>**a** core <a href="http://divergencymcr.org" target="_blank">Divergency</a> partner — encouraging diversity in Live Art;<br>**a** <a href="http://gm-artisthub.co.uk" target="_blank">GM Artist Hub</a> partner — a joint artist development project from 15 arts orgs;<br>**a** Greater Manchester LGBTQ+ Arts & Culture Network member;<br>**a** <a href="http://liveartuk.org" target="_blank">Live Art UK</a> member — supporting & developing Live Art infrastructure;<br>**a** <a href="http://manchesterindependents.org" target="_blank">Manchester Independents</a> lead partner — supporting & spotlighting GM artists.        
+Supported using public funding by <a href="https://www.artscouncil.org.uk/how-we-invest-public-money/2023-26-Investment-Programme" target="_blank">Arts Council England</a>, hÅb is also:<br>**a** core <a href="http://divergencymcr.org" target="_blank">Divergency</a> partner — encouraging diversity in Live Art;<br>**a** lead <a href="http://manchesterindependents.org" target="_blank">Manchester Independents</a> partner — celebrating GM artists;<br>**a** <a href="http://gm-artisthub.co.uk" target="_blank">GM Artist Hub</a> partner;<br>**a** Greater Manchester LGBTQ+ Arts & Culture Network member;<br>**a** <a href="http://liveartuk.org" target="_blank">Live Art UK</a> member — supporting & developing Live Art infrastructure.        
        
 Since January 2012, hÅb has been 'public' in the guise of [Word of Warning](/) — a peripatetic programme of, and online signpost to, contemporary live work in Manchester + beyond… *NB* this part of our site aims to offer information to **artists** wishing to know more about hÅb's work and how to get involved; for information about our public-facing programme please see [Word of Warning](/).       
         
