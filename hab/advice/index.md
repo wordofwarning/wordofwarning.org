@@ -9,9 +9,9 @@ season: "Advice Sessions from hÅb"
 ---
 <small>Updated 4 July 2023</small>        
         
-Please see our [News page](/news/#artists) for latest opportunities and support information for artists, creatives, and freelancers.         
+*Please see our [News page](/news/#artists) for latest opportunities and support information for artists, creatives, and freelancers.*         
         
-Following on from the <a href="https://gm-artisthub.co.uk" target="_blank">GM Artist Hub</a> advisory sessions (2020-23)… [hÅb](/hab) now offers free 30-minute Advice Sessions on Monday mornings (excluding Bank Holidays) with Tamsin Drury (our Director) via Zoom.         
+Following on from the <a href="https://gm-artisthub.co.uk" target="_blank">GM Artist Hub</a> Advisory Sessions (2020-23)…<br>[hÅb](/hab) now offers free 30-minute Advice Sessions on Monday mornings (excluding Bank Holidays) with Tamsin Drury (our Director) via Zoom.         
            
 [hÅb](/hab)'s specialism is Live Art and contemporary performance, though all-comers are welcome. If you're an artist wanting to discuss creative ideas, funding, opportunities, or just need a chat, please book an Advice Session below.          
         
