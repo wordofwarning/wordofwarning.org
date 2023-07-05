@@ -84,11 +84,11 @@ Krissi is a solo contemporary performance maker, writer, performer, and Senior L
         
 <a href="https://krissimusiol.com" target="_blank">krissimusiol.com</a> · <a href="https://facebook.com/KrissiMusiolPerformance" target="_blank">Fb KrissiMusiolPerformance</a> · <a href="https://instagram.com/krissi_musiol_performance" target="_blank">Insta krissi_musiol_performance</a> · <a href="https://twitter.com/KrissiMusiol" target="_blank">@KrissiMusiol</a><br><a href="https://amyvreeke.com" target="_blank">amyvreeke.com</a> · <a href="https://facebook.com/Amyvreekecomedian" target="_blank">Fb Amyvreekecomedian</a> · <a href="https://instagram.com/amyvreeke" target="_blank">Insta amyvreeke</a> · <a href="https://twitter.com/amyvreeke" target="_blank">@amyvreeke</a>        
 <hr>         
-Luna Ælflæd · *Centrifuge in Pink* · (times tbc)         
+Luna Ælflæd · *Centrifuge in Pink*         
          
 Bold, pink, giant, spinning jellyfish!	
         
-Luna Ælflæd · *Enfold (womb fruits)* · (times tbc)       
+Luna Ælflæd · *Enfold (womb fruits)*       
         
 Crocheting their body inside a woollen egg…	       
          
@@ -142,7 +142,7 @@ Puppetfingers is Amy Hegarty, an Irish artist based in Manchester. She is equall
 <hr>         
 Thomas Daniel Byrne · *Burger*         
        
-A burger comes to life inside a microwave and tells a tale of dreaming to become an opera singer, unfulfilled… until now!<br>A 6-minute micro-puppet show for an audience of three — an intimate, lovely, silly experience that can be enjoyed by children and adults of all ages.         
+A burger comes to life inside a microwave and tells a tale of dreaming to become an opera singer, unfulfilled… Until now!<br>A 6-minute micro-puppet show for an audience of three — an intimate, lovely, silly experience that can be enjoyed by children and adults of all ages.         
          
 Thomas is a performer, musician, and puppeteer based in Manchester who has worked with Horse + Bamboo, Dizzy O'Dare, Whalley Range All Stars, Handmade Theatre. His style is rooted in play and reconnecting with our sense of childhood fun and adventure.         
 <hr>         
