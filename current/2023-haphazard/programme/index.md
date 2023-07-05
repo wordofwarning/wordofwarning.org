@@ -70,7 +70,7 @@ Kitunda Argyle are Brickin It… Building a nice big tower held together with cr
         
 &nbsp;**Allergy Warning: milk (whipped cream).**<br>&nbsp;Content Warning: please click [here](/warnings).        
         
-Kitunda Argle is a collaboration between Daniel Hunt and Alex Willmott. Together they have performed at Whitstable Biennale, Nottingham Contemporary, The Bracknell Gallery at South Hill Park, Watch This Space at the National Theatre, LIFT Molten Festival, Stockton International Riverside Festival.         
+Kitunda Argle is a collaboration between Daniel Hunt and Alex Willmott.<br>Together they've performed at Whitstable Biennale, Nottingham Contemporary, The Bracknell Gallery at South Hill Park, Watch This Space at the National Theatre, LIFT Molten Festival, Stockton International Riverside Festival.         
          
 <a href="https://danielhunt.live" target="_blank">danielhunt.live</a>         
 <hr>         
@@ -98,7 +98,9 @@ Luna is a fine art student at the University of Lincoln, currently using social 
 <hr>         
 Maddie Wakeling & Rowan Szulek · *Flights of Fancy*       
         
-*You see us now, scoundrels of the street, rats of the sky. But once we were cupids, messengers of love, better than the telephone!<br>Join two entrepreneurial pigeons as we reclaim our stake in this industrial heartland.<br>Become our first customers, entrust us with your messages of love, hook them onto our wings, and we'll trade you a treasure (a chip or three if you're lucky).*<br>Inspired by our shared obsession with pigeons and our fear of dating apps. A love mission in a world of commerce and an attempt to find something beautiful in the city.         
+*You see us now, scoundrels of the street, rats of the sky.<br>But once we were cupids, messengers of love, better than the telephone!<br>Join two entrepreneurial pigeons as we reclaim our stake in this industrial heartland.<br>Become our first customers, entrust us with your messages of love, hook them onto our wings, and we'll trade you a treasure (a chip or three if you're lucky).*         
+         
+Inspired by our shared obsession with pigeons and our fear of dating apps.<br>A love mission in a world of commerce and an attempt to find something beautiful in the city.         
          
 Maddie has worked extensively as an actor and maker, recently as a performer/deviser with SOAPBOX and DeadWeight Theatre. She is a Starting Blocks 2023 Artist at Camden People's Theatre.<br>Rowan is an artist, designer, and maker who has created sets and props, delivered workshops, and performed pieces in spaces and places throughout Manchester and beyond.        
         
@@ -112,40 +114,36 @@ Nicola is a Neurodivergent Artist based at Rogue Studios, Manchester. She makes 
          
 <a href="https://nsartist.myportfolio.com" target="_blank">nsartist.myportfolio.com</a> · <a href="https://instagram.com/access_friendly_performer" target="_blank">Insta access_friendly_performer</a>         
 <hr>         
-Orla Collier & Magdalena Górnikiewicz · *You're Here (Hooray!)*
-Exploring the need for touch and attachment two performers wriggle around each other, intertwined and knotting themselves up, both motivated by their own need for touch – perhaps at the expense of the other.
-&nbsp;Content Warning: please click [here](/warnings).
-Concept by Orla Collier, co-created with Magdalena Górnikiewicz				
-Orla is a freelance dance artist based in Cumbria. A performer, choreographer, and teacher, she is inspired by the capacity that dance & theatre has for emotional expression, and how sharing honest feelings & experiences can have huge impacts.
-
-Orla is a freelance dance artist based in Cumbria, working as a performer, choreographer, and teacher. She is inspired by the capacity that dance and theatre has for emotional expression, and how sharing honest feelings and experiences can have huge impacts. Magdalena is a dance artist from Poland based in Leeds, currently in her final year at Northern School of Contemporary Dance. In her performance and dance making practices she is exploring the automatism and invisible chaos inside and outside the moving body. 
-&nbsp;artist — www · Facebook name · Insta name · @name
-<a href="https://" target="_blank"></a> · <a href="" target="_blank">Facebook</a> · <a href="" target="_blank">Insta</a> · <a href="" target="_blank">@</a>
-&nbsp;artist — www · Facebook name · Insta name · @name
-<a href="https://" target="_blank"></a> · <a href="" target="_blank">Facebook</a> · <a href="" target="_blank">Insta</a> · <a href="" target="_blank">@</a>
+Orla Collier & Magdalena Górnikiewicz · *You're Here (Hooray!)*         
+        
+Exploring the need for touch and attachment, two performers wriggle around each other, intertwined and knotting themselves up, both motivated by their own need for touch — perhaps at the expense of the other.         
+         
+Concept by Orla Collier, co-created with Magdalena Górnikiewicz.<br>Orla is a freelance dance artist based in Cumbria. A performer, choreographer, and teacher, she is inspired by the capacity that dance and theatre has for emotional expression, and how sharing honest feelings & experiences can have huge impacts.<br>Magdalena is a dance artist from Poland based in Leeds, currently in her final year at Northern School of Contemporary Dance. In her performance- and dance-making practices she is exploring the automatism and invisible chaos inside and outside the moving body.         
+         
+<a href="https://instagram.com/orla.collier" target="_blank">Insta orla.collier</a> · <a href="https://instagram.com/gornik.iewicz" target="_blank">Insta gornik.iewicz</a>         
 <hr>         
 Plaster Cast · *Intergalactic Friend Circle Of The Wise Fruity Men*
-
-Ayden and Lizard have discovered “the truth”: that bananas hold the secret to the perfect life, and they must convince their followers to consume “as many bananas as your lifestyle will allow”. The Intergalactic Friend Circle of the Wise Fruity Men needs more members, and Lizard and Ayden will do anything to convince you to join: including competitive banana-eating, choreographed sing-a-longs and a special surprise! 
-&nbsp;Content Warning: please click [here](/warnings).
-Offie Award winner 2021, Plaster Cast present this surreal, anarchic clown show to bring more yellow to your day. 				
-&nbsp;artist — www · Facebook name · Insta name · @name
-<a href="https://" target="_blank"></a> · <a href="" target="_blank">Facebook</a> · <a href="" target="_blank">Insta</a> · <a href="" target="_blank">@</a>
+        
+Ayden and Lizard have discovered "the truth": that bananas hold the secret to the perfect life, and they must convince their followers to consume "as many bananas as your lifestyle will allow".<br>The Intergalactic Friend Circle Of The Wise Fruity Men needs more members, and Ayden and Lizard will do anything to convince you to join: including competitive banana-eating, choreographed sing-a-longs, and a special surprise!         
+        
+&nbsp;**Allergy Warning: banana.**<br>&nbsp;Content Warning: please click [here](/warnings).         
+          
+Offie Award Winners 2021, Plaster Cast present this surreal, anarchic, clown show to bring more yellow to your day.         
+         
+<a href="https://instagram.com/plastercasttheatre" target="_blank">Insta plastercasttheatre</a> · <a href="https://twitter.com/PlasterCastThtr" target="_blank">@PlasterCastThtr</a>         
 <hr>         
-Puppetfingers · *Cheesy Moon*
-
-Meet the Moon. She’s silly, sassy, and made of cheese. She’s the headline act of the sky, dazzling 7.8 billion people every night, but she’s about to be rudely interrupted by an unwelcome visitor. One small nibble for mouse..one giant bite for micekind.
-Expect cheesy puns, object puppetry, clowning and all round silliness in this show about fun and friendship.
-&nbsp;Content Warning: please click [here](/warnings).
-Puppetfingers is Amy Hegarty, an Irish artist based in Manchester. She is equally at home in front of a sewing machine, up a ladder with a glue gun or dancing in a silly costume on the street. She has been a maker and performer for Manchester Day, the Lanterns at Chester Zoo and the Queen’s Jubilee parade. Above all she is passionate about creating accessible art for communities and with communities. 	
-&nbsp;artist — www · Facebook name · Insta name · @name
-<a href="https://" target="_blank"></a> · <a href="" target="_blank">Facebook</a> · <a href="" target="_blank">Insta</a> · <a href="" target="_blank">@</a>
-www.puppetfingers.com
+Puppetfingers · *Cheesy Moon*         
+        
+Meet the Moon. She's silly, sassy, and made of cheese. She's the headline act of the sky, dazzling 7.8 billion people every night, but she's about to be rudely interrupted by an unwelcome visitor.<br>"One small nibble for mouse, one giant bite for micekind."<br>Expect cheesy puns, object puppetry, clowning, and all round silliness in this show about fun and friendship.          
+         
+Puppetfingers is Amy Hegarty, an Irish artist based in Manchester. She is equally at home in front of a sewing machine, up a ladder with a glue gun, or dancing in a silly costume on the street. She has been a maker and performer for Manchester Day, The Lanterns at Chester Zoo, The Queen's Jubilee Parade. Above all she is passionate about creating accessible art for communities, and with communities.         
+         
+<a href="https://puppetfingers.com" target="_blank">puppetfingers.com</a> · <a href="https://instagram.com/puppetfingers" target="_blank">Insta puppetfingers</a>        
 <hr>         
-Thomas Daniel Byrne · *Burger*
-
-A burger comes to life inside a microwave and tells a tale of dreams of becoming an opera singer, unfulfilled... until now! A 6 minute micro-puppet show for an audience of 3 - an intimate lovely, silly experience that can be enjoyed by children and adults of all ages.			
-&nbsp;Content Warning: please click [here](/warnings).
-Thomas Daniel Byrne is a performer, musician, and puppeteer based in Manchester, he has worked with Horse and Bamboo, Dizzy O’ Dare, Whalley Range All Stars, and Handmade Theatre. His style is rooted in play and reconnecting with our sense of childhood fun and adventure.
+Thomas Daniel Byrne · *Burger*         
+       
+A burger comes to life inside a microwave and tells a tale of dreams of becoming an opera singer, unfulfilled… until now!<br>A 6-minute micro-puppet show for an audience of three — an intimate, lovely, silly experience that can be enjoyed by children and adults of all ages.         
+         
+Thomas is a performer, musician, and puppeteer based in Manchester who has worked with Horse + Bamboo, Dizzy O'Dare, Whalley Range All Stars, Handmade Theatre. His style is rooted in play and reconnecting with our sense of childhood fun and adventure.         
 <hr>         
 <small><span style='font-variant: small-caps'>[back to top](/current/2023-haphazard/programme)</span></small>
