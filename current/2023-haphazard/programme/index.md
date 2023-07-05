@@ -70,13 +70,13 @@ Kitunda Argyle are Brickin It… Building a nice big tower held together with cr
         
 &nbsp;**Allergy Warning: milk (whipped cream).**<br>&nbsp;Content Warning: please click [here](/warnings).        
         
-Kitunda Argle is a collaboration between Daniel Hunt and Alex Willmott. Together they have performed at the Whitstable Biennale, Nottingham Contemporary, The Bracknell Gallery, Watch this Space at the National Theatre, LIFT Molten Festival, and the International Riverside Festival, Stockton.          
+Kitunda Argle is a collaboration between Daniel Hunt and Alex Willmott. Together they have performed at Whitstable Biennale, Nottingham Contemporary, The Bracknell Gallery at South Hill Park, Watch This Space at the National Theatre, LIFT Molten Festival, Stockton International Riverside Festival.         
          
 <a href="https://danielhunt.live" target="_blank">danielhunt.live</a>         
 <hr>         
 Krissi Musiol & Amy Vreeke · *Ready To Pop*          
          
-Inspired by the baby that's just about ready to P-O-P… Join Krissi & Amy in some balloon popping, party popping, fizz popping, bubble popping, popcorn popping — and explore this messy and sensorial celebration of birth and motherhood.        
+Inspired by the baby that's just about ready to P-O-P…<br>Join Krissi & Amy in some balloon popping, party popping, fizz popping, bubble popping, popcorn popping — and explore this messy and sensorial celebration of birth and motherhood.        
         
 &nbsp;**Allergy Warning: latex (balloons).**<br>&nbsp;Content Warning: please click [here](/warnings).         
         
@@ -84,43 +84,40 @@ Krissi is a solo contemporary performance maker, writer, performer, and Senior L
         
 <a href="https://krissimusiol.com" target="_blank">krissimusiol.com</a> · <a href="https://facebook.com/KrissiMusiolPerformance" target="_blank">Fb KrissiMusiolPerformance</a> · <a href="https://instagram.com/krissi_musiol_performance" target="_blank">Insta krissi_musiol_performance</a> · <a href="https://twitter.com/KrissiMusiol" target="_blank">@KrissiMusiol</a><br><a href="https://amyvreeke.com" target="_blank">amyvreeke.com</a> · <a href="https://facebook.com/Amyvreekecomedian" target="_blank">Fb Amyvreekecomedian</a> · <a href="https://instagram.com/amyvreeke" target="_blank">Insta amyvreeke</a> · <a href="https://twitter.com/amyvreeke" target="_blank">@amyvreeke</a>        
 <hr>         
-Luna Ælflæd · *Centrifuge in Pink*
-
-Bold, pink giant spinning jellyfish!	
-
-&nbsp;Content Warning: please click [here](/warnings).
-
-Luna Ælflæd · *Enfold (womb fruits)*
-
-Crocheting their body inside a woollen egg	
-
-&nbsp;Content Warning: please click [here](/warnings).
-
-Luna is a fine art student at the University of Lincoln, currently using social engagement, performance and installation combined with textiles, moving image and humour in their practice to see what it means to be a body in the world we live in today.
-&nbsp;artist — www · Facebook name · Insta name · @name
-<a href="https://" target="_blank"></a> · <a href="" target="_blank">Facebook</a> · <a href="" target="_blank">Insta</a> · <a href="" target="_blank">@</a>
+Luna Ælflæd · *Centrifuge in Pink* · (times tbc)         
+         
+Bold, pink, giant, spinning jellyfish!	
+        
+Luna Ælflæd · *Enfold (womb fruits)* · (times tbc)       
+        
+Crocheting their body inside a woollen egg…	       
+         
+Luna is a fine art student at the University of Lincoln, currently using social engagement, performance, and installation combined with textiles, moving image, and humour in their practice to see what it means to be a body in the world we live in today.        
+        
+<a href="https://instagram.com/snot.grrrl" target="_blank">Insta snot.grrrl</a>         
 <hr>         
-Maddie Wakeling & Rowan Szulek · *Flights of Fancy*
-You see us now, scoundrels of the street, rats of the sky. But once we were cupids, messengers of love, better than the telephone!Join two entrepreneurial pigeons as we reclaim our stake in this industrial heartland. Become our first customers, entrust us with your messages of love, hook them onto our wings, and we'll trade you a treasure (a chip or three if you're lucky).
-Inspired by our shared obsession with pigeons and our fear of dating apps. Flights of Fancy is a love mission in a world of commerce and an attempt to find something beautiful in the city.
-&nbsp;Content Warning: please click [here](/warnings).
-Maddie Wakeling has worked extensively as an actor and maker, recently as a performer/deviser with SOAPBOX and DeadWeight Theatre. She is a Starting Blocks 2023 Artist at Camden People's Theatre. 
-Rowan Szulek is an artist, designer and maker who has created sets and props, delivered workshops and performed pieces in spaces and places through Manchester and beyond.
-&nbsp;artist — www · Facebook name · Insta name · @name
-<a href="https://" target="_blank"></a> · <a href="" target="_blank">Facebook</a> · <a href="" target="_blank">Insta</a> · <a href="" target="_blank">@</a>
+Maddie Wakeling & Rowan Szulek · *Flights of Fancy*       
+        
+*You see us now, scoundrels of the street, rats of the sky. But once we were cupids, messengers of love, better than the telephone!<br>Join two entrepreneurial pigeons as we reclaim our stake in this industrial heartland.<br>Become our first customers, entrust us with your messages of love, hook them onto our wings, and we'll trade you a treasure (a chip or three if you're lucky).*<br>Inspired by our shared obsession with pigeons and our fear of dating apps. A love mission in a world of commerce and an attempt to find something beautiful in the city.         
+         
+Maddie has worked extensively as an actor and maker, recently as a performer/deviser with SOAPBOX and DeadWeight Theatre. She is a Starting Blocks 2023 Artist at Camden People's Theatre.<br>Rowan is an artist, designer, and maker who has created sets and props, delivered workshops, and performed pieces in spaces and places throughout Manchester and beyond.        
+        
+<a href="https://roszu.weebly.com" target="_blank">roszu.weebly.com</a>         
 <hr>         
-Nicola Smith · *Slinky POP* · (Duration: 15 minutes)
-Get your ‘Slinky POP’ on in this fun dance workshop where you will participate in a toy slinky movement routine all set to music.	
-&nbsp;Content Warning: please click [here](/warnings).
-Nicola is a Neurodivergent Artist based at Rogue Studios, Manchester. She makes solo and participatory performances that involve movement, music, film, dress-up, sensory materials, special effects, gesture, speech, words and pictograms influenced by everyday life experiences of being a person with ADHD and autism, a carer and a home educator. 
-&nbsp;artist — www · Facebook name · Insta name · @name
-<a href="https://" target="_blank"></a> · <a href="" target="_blank">Facebook</a> · <a href="" target="_blank">Insta</a> · <a href="" target="_blank">@</a>
-nsartist.myportfolio.com   IG: @access_friendly_performer
+Nicola Smith · *Slinky POP* · (15 minute duration, repeated)        
+        
+Get your "Slinky POP" on in this fun dance workshop, where you'll participate in a toy slinky movement-routine set to music.        
+        
+Nicola is a Neurodivergent Artist based at Rogue Studios, Manchester. She makes solo and participatory performances that involve movement, music, film, dress-up, sensory materials, special effects, gesture, speech, words, and pictograms — influenced by everyday life experiences of being a person with ADHD and autism, a carer, and a home educator.         
+         
+<a href="https://nsartist.myportfolio.com" target="_blank">nsartist.myportfolio.com</a> · <a href="https://instagram.com/access_friendly_performer" target="_blank">Insta access_friendly_performer</a>         
 <hr>         
 Orla Collier & Magdalena Górnikiewicz · *You're Here (Hooray!)*
 Exploring the need for touch and attachment two performers wriggle around each other, intertwined and knotting themselves up, both motivated by their own need for touch – perhaps at the expense of the other.
 &nbsp;Content Warning: please click [here](/warnings).
 Concept by Orla Collier, co-created with Magdalena Górnikiewicz				
+Orla is a freelance dance artist based in Cumbria. A performer, choreographer, and teacher, she is inspired by the capacity that dance & theatre has for emotional expression, and how sharing honest feelings & experiences can have huge impacts.
+
 Orla is a freelance dance artist based in Cumbria, working as a performer, choreographer, and teacher. She is inspired by the capacity that dance and theatre has for emotional expression, and how sharing honest feelings and experiences can have huge impacts. Magdalena is a dance artist from Poland based in Leeds, currently in her final year at Northern School of Contemporary Dance. In her performance and dance making practices she is exploring the automatism and invisible chaos inside and outside the moving body. 
 &nbsp;artist — www · Facebook name · Insta name · @name
 <a href="https://" target="_blank"></a> · <a href="" target="_blank">Facebook</a> · <a href="" target="_blank">Insta</a> · <a href="" target="_blank">@</a>
