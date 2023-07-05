@@ -16,7 +16,7 @@ season: "Haphazard 22|7|2023, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 29 June 2023</small>         
+<small>Updated 5 July 2023</small>         
          
 *[A free day out for the curious of all ages](/current/2023-haphazard) presented by* Word of Warning *+* Z-arts *on Saturday 22 July from Noon to 3pm*      
          
@@ -60,29 +60,29 @@ Julie Burrow · *The Mime may be Simplified by Leaving Out the Vision Scenes*
         
 Julie hopes to wow you with the complicated mimes she's learning.<br>She found them in a book from 1934 and there are A LOT of instructions.<br>Some of them are for A LOT of people — there's just one of her but she's going to try really hard to bring them to life for you.<br>Be honest and tell her what you think of her mimes. Come and throw roses or rotten tomatoes. She appreciates your feedback!        
          
-Julie is a writer-performer based in Manchester. She makes lo-fi, colourful, stupid performances, in which she has variously played an Aperol Spritz, a big showbiz moth, and the entire city of Bruges.	
-&nbsp;artist — www · Facebook name · Insta name · @name
+Julie is a writer-performer based in Manchester. She makes lo-fi, colourful, stupid performances, in which she has variously played an Aperol Spritz, a big showbiz moth, and the entire city of Bruges.	        
+        
 <a href="https://instagram.com/juliesusieb" target="_blank">Insta juliesusieb</a> · <a href="https://twitter.com/juliesusieb" target="_blank">@juliesusieb</a>
 <hr>         
-Kitunda Argyle · *Brickin It*
-
-Kitunda Argyle are Brickin It... Building a nice big tower held together with cream.... But no matter how hard they work, tempers rise but the tower doesn't. An absurdist performance of perpetual motion and futile endeavour. 
-&nbsp;Content Warning: please click [here](/warnings).
-Kitunda Argle is a collaboration between Daniel Hunt and Alex Willmott. Together they have performed at the Whitstable Biennale, Nottingham Contemporary, The Bracknell Gallery, Watch this Space at the National Theatre, LIFT Molten Festival, and the International Riverside Festival, Stockton
-&nbsp;artist — www · Facebook name · Insta name · @name
-<a href="https://" target="_blank"></a> · <a href="" target="_blank">Facebook</a> · <a href="" target="_blank">Insta</a> · <a href="" target="_blank">@</a>
-www.danielhunt.live					
+Kitunda Argyle · *Brickin It*        
+        
+Kitunda Argyle are Brickin It… Building a nice big tower held together with cream… But no matter how hard they work, tempers rise but the tower doesn't.<br>An absurdist performance of perpetual motion and futile endeavour.        
+        
+&nbsp;**Allergy Warning: milk (whipped cream).**<br>&nbsp;Content Warning: please click [here](/warnings).        
+        
+Kitunda Argle is a collaboration between Daniel Hunt and Alex Willmott. Together they have performed at the Whitstable Biennale, Nottingham Contemporary, The Bracknell Gallery, Watch this Space at the National Theatre, LIFT Molten Festival, and the International Riverside Festival, Stockton.          
+         
+<a href="https://danielhunt.live" target="_blank">danielhunt.live</a>         
 <hr>         
-Krissi Musiol & Amy Vreeke · *Ready To Pop*
-
-Inspired by the baby that's just about ready to P-O-P, join Krissi & Amy in some balloon popping, party popping, fizz popping, bubble popping, popcorn popping...and explore this messy and sensorial celebration of birth and motherhood.  					
-&nbsp;Content Warning: please click [here](/warnings).
-Krissi Musiol is a solo contemporary performance maker, writer and performer, and Senior Lecturer at the University of Central Lancashire. Her current project, Maternal Matters, is a collection of performance works exploring motherhood, the maternal body, labour (birth) and labour (work). 
-Amy Vreeke is a comedian, actor, theatre maker, writer and women’s health advocate based in Greater Manchester.	
-&nbsp;artist — www · Facebook name · Insta name · @name
-<a href="https://" target="_blank"></a> · <a href="" target="_blank">Facebook</a> · <a href="" target="_blank">Insta</a> · <a href="" target="_blank">@</a>
-&nbsp;artist — www · Facebook name · Insta name · @name
-<a href="https://" target="_blank"></a> · <a href="" target="_blank">Facebook</a> · <a href="" target="_blank">Insta</a> · <a href="" target="_blank">@</a>
+Krissi Musiol & Amy Vreeke · *Ready To Pop*          
+         
+Inspired by the baby that's just about ready to P-O-P… Join Krissi & Amy in some balloon popping, party popping, fizz popping, bubble popping, popcorn popping — and explore this messy and sensorial celebration of birth and motherhood.        
+        
+&nbsp;**Allergy Warning: latex (balloons).**<br>&nbsp;Content Warning: please click [here](/warnings).         
+        
+Krissi is a solo contemporary performance maker, writer, performer, and Senior Lecturer at the University of Central Lancashire. Her current project *Maternal Matters* is a collection of performance works exploring motherhood, the maternal body, labour (birth), and labour (work).<br>Amy is a comedian, actor, theatre maker, writer, and women's health advocate based in Greater Manchester.        
+        
+<a href="https://krissimusiol.com" target="_blank">krissimusiol.com</a> · <a href="https://facebook.com/KrissiMusiolPerformance" target="_blank">Fb KrissiMusiolPerformance</a> · <a href="https://instagram.com/krissi_musiol_performance" target="_blank">Insta krissi_musiol_performance</a> · <a href="https://twitter.com/KrissiMusiol" target="_blank">@KrissiMusiol</a><br><a href="https://amyvreeke.com" target="_blank">amyvreeke.com</a> · <a href="https://facebook.com/Amyvreekecomedian" target="_blank">Fb Amyvreekecomedian</a> · <a href="https://instagram.com/amyvreeke" target="_blank">Insta amyvreeke</a> · <a href="https://twitter.com/amyvreeke" target="_blank">@amyvreeke</a>        
 <hr>         
 Luna Ælflæd · *Centrifuge in Pink*
 
