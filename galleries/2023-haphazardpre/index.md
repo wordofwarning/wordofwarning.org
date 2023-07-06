@@ -21,6 +21,7 @@ gallery:
     -   {file: "gemmalees.jpg", artist: "Gemma Lees"}
     -   {file: "kitunda.jpg", artist: "Kitunda Argyle"}
     -   {file: "luna.jpg", artist: "Luna Ælflæd"}
+    -   {file: "flightsoffancy.jpg", artist: "Maddie Wakeling & Rowan Szulek"}
     -   {file: "yourehere.jpg", artist: "Orla Collier & Magdalena Górnikiewicz"}
     -   {file: "plastercast.jpg", artist: "Plaster Cast"}
      
