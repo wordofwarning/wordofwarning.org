@@ -16,7 +16,7 @@ gallery:
     -   {file: "burrow.jpg", artist: "Julie Burrow"}
     -   {file: "burger.jpg", artist: "Thomas Daniel Byrne", show: "<small>Image: Poppy Phelps</small>"} 
     -   {file: "nicolasmith.jpg", artist: "Nicola Smith"}
-    -   {file: "joebeedles", artist: "Joe Beedles"}
+    -   {file: "joebeedles.jpg", artist: "Joe Beedles"}
     -   {file: "dreamingofyou.jpg", artist: "Jana Aizupe & Gi Vasey"}
     -   {file: "gemmalees.jpg", artist: "Gemma Lees"}
     -   {file: "kitunda.jpg", artist: "Kitunda Argyle"}
