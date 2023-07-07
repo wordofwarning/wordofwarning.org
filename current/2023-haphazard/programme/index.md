@@ -21,7 +21,7 @@ season: "Haphazard 22|7|2023, Programme Notes"
 *[A free day out for the curious of all ages](/current/2023-haphazard) presented by* Word of Warning *+* Z-arts *on Saturday 22 July from Noon to 3pm.*         
          
 #### Artists         
-Gemma Lees · Jana Aizupe & Gi Vasey · Joe Beedles · Julie Burrow · Kitunda Argyle · Krissi Musiol & Amy Vreeke · Luna Ælflæd · Maddie Wakeling & Rowan Szulek · Nicola Smith · Orla Collier & Magdalena Górnikiewicz · Plaster Cast · Puppetfingers · Thomas Daniel Byrne (Look at some of their [images](/galleries/2023-haphazardpre).)<br><small>*Participating artists subject to change.*</small>            
+Gemma Lees · Jana Aizupe & Gi Vasey · Joe Beedles · Julie Burrow · Kitunda Argyle · Krissi Musiol & Amy Vreeke · Luna Ælflæd · Maddie Wakeling & Rowan Szulek · Nicola Smith · Orla Collier & Magdalena Górnikiewicz · Plaster Cast · Puppetfingers · Thomas Daniel Byrne · *Look at some of their [images](/galleries/2023-haphazardpre)*.<br><small>*Participating artists subject to change.*</small>            
            
 #### Programme Notes       
 *NB* with artists located in multiple spaces, and some works having a short duration and/or repeating, you may not get a chance to see everything.<br>*NB* takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some participatory.           
