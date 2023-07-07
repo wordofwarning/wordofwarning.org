@@ -16,7 +16,7 @@ season: "Haphazard 22|7|2023, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 6 July 2023</small>         
+<small>Updated 7 July 2023</small>         
          
 *[A free day out for the curious of all ages](/current/2023-haphazard) presented by* Word of Warning *+* Z-arts *on Saturday 22 July from Noon to 3pm*      
          
@@ -67,9 +67,7 @@ Julie is a writer-performer based in Manchester. She makes lo-fi, colourful, stu
 **Kitunda Argyle · *Brickin It***        
         
 Kitunda Argyle are Brickin It… Building a nice big tower held together with cream… But no matter how hard they work, tempers rise but the tower doesn't.<br>An absurdist performance of perpetual motion and futile endeavour.        
-        
-&nbsp;**Allergy Warning: milk (whipped cream).**<br>&nbsp;Content Warning: please click [here](/warnings).        
-        
+         
 Kitunda Argle is a collaboration between Daniel Hunt and Alex Willmott.<br>Together they've performed at Whitstable Biennale, Nottingham Contemporary, The Bracknell Gallery at South Hill Park, Watch This Space at the National Theatre, LIFT Molten Festival, Stockton International Riverside Festival.         
          
 <a href="https://danielhunt.live" target="_blank">danielhunt.live</a>         
@@ -124,7 +122,7 @@ Concept by Orla Collier, co-created with Magdalena Górnikiewicz.<br>Orla is a f
         
 Ayden and Lizard have discovered "the truth" — that bananas hold the secret to the perfect life — and they must convince their followers to consume "as many bananas as your lifestyle will allow".<br>The Intergalactic Friend Circle Of The Wise Fruity Men needs more members, and Ayden and Lizard will do anything to convince you to join: including competitive banana-eating, choreographed sing-a-longs, and a special surprise!         
         
-&nbsp;**Allergy Warning: banana.**<br>&nbsp;Content Warning: please click [here](/warnings).         
+&nbsp;**Allergy Warning: banana.**         
           
 Offie Award Winners 2021, Plaster Cast present this surreal, anarchic, clown show to bring more yellow to your day.         
          
