@@ -21,7 +21,7 @@ season: "Haphazard 22|7|2023"
          
 Playful, quirky, engaging, and sometimes plain daft: Haphazard is for kids and their adults, adults and *their* adults — anyone looking for a different day out!         
           
-A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2" target="_blank">Z-arts</a> **on Saturday 22 July from Noon to 3pm**. Have a look at some [artist images](/galleries/2023-haphazardpre) & read their [programme notes](/current/2023-haphazard/programme). Turn up at any time, come and go as you please… and expect the unexpected!         
+A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2" target="_blank">Z-arts</a> **on Saturday 22 July from Noon to 3pm**.<br>Look at some of our [artist's images](/galleries/2023-haphazardpre) and read their [programme notes](/current/2023-haphazard/programme).<br>Turn up at any time, come and go as you please… and expect the unexpected!         
          
 *Lasers firing, slinkies dancing, book-learned mime, and a shower of confetti.<br>A flock of birds — scoundrels of the sky, laying woollen eggs, making dreams come true.<br>A bold pink giant spinning jellyfish.<br>One small nibble for mouse, one giant bite for micekind.<br>Magical bananas and a micro(wave) puppet show.<br>A nice big tower held together with cream.<br>Touch, mess, and play with everything — things are popping…*        
        
