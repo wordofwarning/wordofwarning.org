@@ -15,7 +15,7 @@ season: "Haphazard 22|7|2023"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2023-haphazard/#artists) · [details](/current/2023-haphazard/#details) · [access](/current/2023-haphazard/#access) · [about](/current/2023-haphazard/#about) · [credits](/current/2023-haphazard/#credits) · [websites](/current/2023-haphazard/#websites)</span><br><small>Updated 5 July 2023</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2023-haphazard/#artists) · [details](/current/2023-haphazard/#details) · [access](/current/2023-haphazard/#access) · [about](/current/2023-haphazard/#about) · [credits](/current/2023-haphazard/#credits) · [websites](/current/2023-haphazard/#websites)</span><br><small>Updated 7 July 2023</small>        
         
 *Presented by* Word of Warning *+* Z-arts           
          
@@ -32,7 +32,7 @@ Gemma Lees · Jana Aizupe & Gi Vasey · Joe Beedles · Julie Burrow · Kitunda A
 Entry: free, no booking required (come and go as you please).<br>Times: Saturday 22 July 2023, Noon-3pm (turn up at any time).<br>Location: <a href="https://z-arts.org/home/your-visit-to-z-arts/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA<br>*NB* with artists located in multiple spaces, and some works having a short duration and/or repeating, you may not get a chance to see everything.          
          
 #### Access         
-Age Advisory: suitable for all ages (parental/guardian/carer discretion).<br>**Allergy Warnings: latex (balloons), banana, milk (whipped cream).**<br>Content Warnings: use of lasers; some works may disturb; please click [here](/warnings).<br>Features: Live Art, performance, and participatory works with varied content.<br>*NB* takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some participatory.<br>Queries: please contact <a href="https://z-arts.org/home/your-visit-to-z-arts/access" target="_blank">Z-arts</a> on 0161 226 1912 or <mailto:boxoffice@z-arts.org>        
+Age Advisory: suitable for all ages (parental/guardian/carer discretion).<br>**Allergy Warnings: banana, latex (balloons).**<br>Content Warnings: use of flashing lights, lasers & haze; loud or sudden noise; some works may disturb; please click [here for more](/warnings).<br>Features: Live Art, performance, and participatory works with varied content.<br>*NB* takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some participatory.<br>Queries: please contact <a href="https://z-arts.org/home/your-visit-to-z-arts/access" target="_blank">Z-arts</a> on 0161 226 1912 or <mailto:boxoffice@z-arts.org>        
          
 #### About         
 [Haphazard](/hab/haphazard) is our frequent foray into 'all ages' Live Art, with intriguing images and offbeat oddities dotted around and about Hulme's historic <a href="https://www.z-arts.org/about-us" target="_blank">Z-arts</a> building.         
