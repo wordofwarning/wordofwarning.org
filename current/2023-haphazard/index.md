@@ -21,7 +21,7 @@ season: "Haphazard 22|7|2023"
          
 Playful, quirky, engaging, and sometimes plain daft: Haphazard is for kids and their adults, adults and *their* adults — anyone looking for a different day out!         
           
-A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2" target="_blank">Z-arts</a> **on Saturday 22 July from Noon to 3pm**. Turn up at any time, come and go as you please… and expect the unexpected!         
+A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2" target="_blank">Z-arts</a> **on Saturday 22 July from Noon to 3pm**. Have a look at some [artist images](/galleries/2023-haphazardpre) & read their [programme notes](/current/2023-haphazard/programme). Turn up at any time, come and go as you please… and expect the unexpected!         
          
 *Lasers firing, slinkies dancing, book-learned mime, and a shower of confetti.<br>A flock of birds — scoundrels of the sky, laying woollen eggs, making dreams come true.<br>A bold pink giant spinning jellyfish.<br>One small nibble for mouse, one giant bite for micekind.<br>Magical bananas and a micro(wave) puppet show.<br>A nice big tower held together with cream.<br>Touch, mess, and play with everything — things are popping…*        
        
@@ -32,7 +32,7 @@ Gemma Lees · Jana Aizupe & Gi Vasey · Joe Beedles · Julie Burrow · Kitunda A
 Entry: free, no booking required (come and go as you please).<br>Times: Saturday 22 July 2023, Noon-3pm (turn up at any time).<br>Location: <a href="https://z-arts.org/home/your-visit-to-z-arts/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA<br>*NB* with artists located in multiple spaces, and some works having a short duration and/or repeating, you may not get a chance to see everything.          
          
 #### Access         
-Age Advisory: suitable for all ages (parental/guardian/carer discretion).<br>**Allergy Warnings: banana, latex (balloons).**<br>Content Warnings: use of flashing lights, lasers & haze; loud or sudden noise; some works may disturb; please click [here for more](/warnings).<br>Features: Live Art, performance, and participatory works with varied content.<br>*NB* takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some participatory.<br>Queries: please contact <a href="https://z-arts.org/home/your-visit-to-z-arts/access" target="_blank">Z-arts</a> on 0161 226 1912 or <mailto:boxoffice@z-arts.org>        
+Age Advisory: suitable for all ages (parental/guardian/carer discretion).<br>**Allergy Warnings: banana, latex (balloons).**<br>Content Warnings: use of flashing lights, lasers & haze, loud or sudden noises; some works may disturb; please click [here](/warnings) for specific warnings.<br>Features: Live Art, performance, and participatory works with varied content.<br>*NB* takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some participatory.<br>Queries: please contact <a href="https://z-arts.org/home/your-visit-to-z-arts/access" target="_blank">Z-arts</a> on 0161 226 1912 or <mailto:boxoffice@z-arts.org>        
          
 #### About         
 [Haphazard](/hab/haphazard) is our frequent foray into 'all ages' Live Art, with intriguing images and offbeat oddities dotted around and about Hulme's historic <a href="https://www.z-arts.org/about-us" target="_blank">Z-arts</a> building.         
