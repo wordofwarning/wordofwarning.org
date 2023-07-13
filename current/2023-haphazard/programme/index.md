@@ -16,12 +16,12 @@ season: "Haphazard 22|7|2023, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 7 July 2023</small>         
+<small>Updated 13 July 2023</small>         
          
 *[A free day out for the curious of all ages](/current/2023-haphazard) presented by* Word of Warning *+* Z-arts *on Saturday 22 July from Noon to 3pm.*         
          
 #### Artists         
-Gemma Lees · Jana Aizupe & Gi Vasey · Joe Beedles · Julie Burrow · Kitunda Argyle · Krissi Musiol & Amy Vreeke · Luna Ælflæd · Maddie Wakeling & Rowan Szulek · Nicola Smith · Orla Collier & Magdalena Górnikiewicz · Plaster Cast · Puppetfingers · Thomas Daniel Byrne · *Look at some of their [images](/galleries/2023-haphazardpre)*.<br><small>*Participating artists subject to change.*</small>            
+Gemma Lees · Jana Aizupe & Gi Vasey · Joe Beedles · Julie Burrow · Kitunda Argyle · Krissi Musiol & Amy Vreeke · Luna Ælflæd · Maddie Wakeling & Rowan Szulek · Nicola Smith · Orla Collier & Magdalena Górnikiewicz · Puppetfingers · Thomas Daniel Byrne · *Look at some of their [images](/galleries/2023-haphazardpre)*.<br><small>*Participating artists subject to change; Plaster Cast unable to perform due to change of circumstances.*</small>            
            
 #### Programme Notes       
 *NB* with artists located in multiple spaces, and some works having a short duration and/or repeating, you may not get a chance to see everything.<br>*NB* takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some participatory.           
@@ -118,13 +118,9 @@ Concept by Orla Collier, co-created with Magdalena Górnikiewicz.<br>Orla is a f
          
 <a href="https://instagram.com/orla.collier" target="_blank">Insta orla.collier</a> · <a href="https://instagram.com/gornik.iewicz" target="_blank">Insta gornik.iewicz</a>         
 <hr>         
-**Plaster Cast · *Intergalactic Friend Circle Of The Wise Fruity Men***
+**Plaster Cast**        
         
-Ayden and Lizard have discovered "the truth" — that bananas hold the secret to the perfect life — and they must convince their followers to consume "as many bananas as your lifestyle will allow".<br>The Intergalactic Friend Circle Of The Wise Fruity Men needs more members, and Ayden and Lizard will do anything to convince you to join: including competitive banana-eating, choreographed sing-a-longs, and a special surprise!         
-        
-&nbsp;**Allergy Warning: banana.**         
-          
-Offie Award Winners 2021, Plaster Cast present this surreal, anarchic, clown show to bring more yellow to your day.         
+*Unfortunately they are unable to perform due to change of circumstances.*         
          
 <a href="https://instagram.com/plastercasttheatre" target="_blank">Insta plastercasttheatre</a> · <a href="https://twitter.com/PlasterCastThtr" target="_blank">@PlasterCastThtr</a>         
 <hr>         
