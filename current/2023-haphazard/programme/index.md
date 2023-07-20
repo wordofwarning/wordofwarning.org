@@ -16,7 +16,7 @@ season: "Haphazard 22|7|2023, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 13 July 2023</small>         
+<small>Updated 20 July 2023</small>         
          
 *[A free day out for the curious of all ages](/current/2023-haphazard) presented by* Word of Warning *+* Z-arts *on Saturday 22 July from Noon to 3pm.*         
          
@@ -68,7 +68,7 @@ Julie is a writer-performer based in Manchester. She makes lo-fi, colourful, stu
         
 Kitunda Argyle are Brickin It… Building a nice big tower held together with cream… But no matter how hard they work, tempers rise but the tower doesn't.<br>An absurdist performance of perpetual motion and futile endeavour.        
          
-Kitunda Argle is a collaboration between Daniel Hunt and Alex Willmott.<br>Together they've performed at Whitstable Biennale, Nottingham Contemporary, The Bracknell Gallery at South Hill Park, Watch This Space at the National Theatre, LIFT Molten Festival, Stockton International Riverside Festival.         
+Kitunda Argle is a collaboration between Daniel Hunt & Alex Willmott.<br>Together they've performed at Whitstable Biennale, Nottingham Contemporary, The Bracknell Gallery at South Hill Park, Watch This Space at the National Theatre, LIFT Molten Festival, Stockton International Riverside Festival.         
          
 <a href="https://danielhunt.live" target="_blank">danielhunt.live</a>         
 <hr>         
@@ -76,7 +76,7 @@ Kitunda Argle is a collaboration between Daniel Hunt and Alex Willmott.<br>Toget
          
 Inspired by the baby that's just about ready to P-O-P…<br>Join Krissi & Amy in some balloon popping, party popping, fizz popping, bubble popping, popcorn popping — and explore this messy and sensorial celebration of birth and motherhood.        
         
-&nbsp;**Allergy Warning: latex (balloons).**<br>&nbsp;Content Warning: please click [here](/warnings).         
+&nbsp;**Allergy Warnings: latex (balloons) / popcorn.**<br>&nbsp;Content Warning: please click [here](/warnings).         
         
 Krissi is a solo contemporary performance maker, writer, performer, and Senior Lecturer at the University of Central Lancashire. Her current project *Maternal Matters* is a collection of performance works exploring motherhood, the maternal body, labour (birth), and labour (work).<br>Amy is a comedian, actor, theatre maker, writer, and women's health advocate based in Greater Manchester.        
         
