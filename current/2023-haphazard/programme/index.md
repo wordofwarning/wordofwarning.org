@@ -74,11 +74,11 @@ Kitunda Argle is a collaboration between Daniel Hunt & Alex Willmott.<br>Togethe
 <hr>         
 **Krissi Musiol & Amy Vreeke · *Ready To Pop***          
          
-Inspired by the baby that's just about ready to P-O-P…<br>Join Krissi & Amy in some balloon popping, party popping, fizz popping, bubble popping, popcorn popping — and explore this messy and sensorial celebration of birth and motherhood.        
+Inspired by the baby that's just about ready to P-O-P…<br>Join them in some balloon popping, party popping, fizz popping, bubble popping, popcorn popping — and explore this messy and sensorial celebration of birth and motherhood.        
         
 &nbsp;**Allergy Warnings: latex (balloons) / popcorn.**<br>&nbsp;Content Warning: please click [here](/warnings).         
         
-Krissi is a solo contemporary performance maker, writer, performer, and Senior Lecturer at the University of Central Lancashire. Her current project *Maternal Matters* is a collection of performance works exploring motherhood, the maternal body, labour (birth), and labour (work).<br>Amy is a comedian, actor, theatre maker, writer, and women's health advocate based in Greater Manchester.        
+Krissi is a solo contemporary performance maker, writer, performer, and Senior Lecturer at the University of Central Lancashire. Her current project *Maternal Matters* is a collection of performance works exploring motherhood, the maternal body, labour (birth), and labour (work).<br>Amy is a comedian, actor, theatre maker, writer, and women's health advocate based in Greater Manchester.<br>Assistant: Jemima Woods        
         
 <a href="https://krissimusiol.com" target="_blank">krissimusiol.com</a> · <a href="https://facebook.com/KrissiMusiolPerformance" target="_blank">Fb KrissiMusiolPerformance</a> · <a href="https://instagram.com/krissi_musiol_performance" target="_blank">Insta krissi_musiol_performance</a> · <a href="https://twitter.com/KrissiMusiol" target="_blank">@KrissiMusiol</a><br><a href="https://amyvreeke.com" target="_blank">amyvreeke.com</a> · <a href="https://facebook.com/Amyvreekecomedian" target="_blank">Fb Amyvreekecomedian</a> · <a href="https://instagram.com/amyvreeke" target="_blank">Insta amyvreeke</a> · <a href="https://twitter.com/amyvreeke" target="_blank">@amyvreeke</a>        
 <hr>         
