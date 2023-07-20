@@ -24,7 +24,7 @@ season: "Haphazard 22|7|2023, Programme Notes"
 Gemma Lees · Jana Aizupe & Gi Vasey · Joe Beedles · Julie Burrow · Kitunda Argyle · Krissi Musiol & Amy Vreeke · Luna Ælflæd · Maddie Wakeling & Rowan Szulek · Nicola Smith · Orla Collier & Magdalena Górnikiewicz · Puppetfingers · Thomas Daniel Byrne · Look at some of our [artist's images](/galleries/2023-haphazardpre).<br><small>*Participating artists subject to change; Plaster Cast unable to perform due to change of circumstances.*</small>            
            
 #### Programme Notes       
-*NB* features Live Art, performance, and participatory works with varied content in different spaces and formats i.e. seated, standing, spoken word, visual. With multiple spaces, and some works having a short duration and/or repeating, you may not get a chance to see everything.           
+*NB* features Live Art, performance, and participatory works with varied content in different spaces and formats i.e. seated, standing, spoken word, visual.<br>With multiple spaces, and some works having a short duration and/or repeating, you may not get a chance to see everything. See Content Warnings [here](/warnings).           
 <hr>         
 **Gemma Lees · *Making Sense***        
         
