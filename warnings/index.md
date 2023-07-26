@@ -12,11 +12,11 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 20 July 2023<small>        
+<small>Updated 26 July 2023<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>&nbsp;Please click [here](/archive/warnings) for *past* events including *archived* livestreams on our YouTube channel.         
          
 If issues raised affect you, these organisations may be of support:&nbsp;&nbsp;<a href="https://thecalmzone.net" target="_blank">CALM</a> 0800 585858 · <a href="https://harmless.org.uk" target="_blank">Harmless</a> · <a href="https://mind.org.uk" target="_blank">Mind</a> 0300 123 3393 · <a href="https://nopanic.org.uk" target="_blank">No Panic</a> 0300 772 9844 · <a href="https://samaritans.org" target="_blank">Samaritans</a> call 116 123 or email jo@samaritans.org · <a href="https://supportline.org.uk" target="_blank">SupportLine</a> 01708 765 200 · <a href="https://www.thesurvivorstrust.org" target="_blank">The Survivors Trust</a> 08088 010 818        
 <hr>         
-##### [22 July. Z-arts | Haphazard 2023](/current/2023-haphazard)          
-Age Advisory: suitable for all ages (parental/guardian/carer discretion).<br>**Allergy Warnings: latex / popcorn**.<br>Content Warnings: some works involve interaction or participation, some may disturb; specific warnings follow:<br>&nbsp;Gemma Lees — use of, and potential interaction with, neon & flashing light.<br>&nbsp;Joe Beedles — use of laser & haze.<br>&nbsp;Krissi Musiol & Amy Vreeke — loud/sudden bangs or noise, e.g. popping balloons, **Allergy Warnings: latex / popcorn**.<br>&nbsp;(*NB* Plaster Cast unable to perform due to change of circumstances; their Allergy Warning no longer applies.)
+##### [30 Sep. Contact | Emergency 23](/hab/emergency)          
+Age Advisory: 16+ (parental/guardian/carer discretion).<br>Content Warnings: some works may disturb; specific warnings will follow after artists have been selected.
