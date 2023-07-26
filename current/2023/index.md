@@ -8,9 +8,9 @@ artist_size: 1
 season: "Performance Programme 2023"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2023/#about) · [audiences](/current/2023/#audiences) · [by](/current/2023/#by) · [people](/current/2023/#people) · [warnings](/current/2023/#warnings)</span><br><small>Updated 22 June 2023</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2023/#about) · [audiences](/current/2023/#audiences) · [by](/current/2023/#by) · [people](/current/2023/#people) · [warnings](/current/2023/#warnings)</span><br><small>Updated 26 July 2023</small>        
          
-*— Spring saw [Turn](/current/2023-turn)'s whirlwind night of new dance and [Works Ahead](/current/2023-worksahead) from [Christian](/current/2023-worksahead/asare), [Jade](/current/2023-worksahead/williams) & [Kellie](/current/2023-worksahead/colbert) at <a href="https://contactmcr.com" target="_blank">Contact</a>, plus [Avital Raz](/current/2023/raz)'s Ghost Story at <a href="https://thelowry.com" target="_blank">The Lowry</a><br>— Summer has [Haphazard](/current/2023-haphazard)'s free afternoon of Live Art antics at <a href="https://z-arts.org" target="_blank">Z-arts</a><br> — Autumn sees [Emergency](/hab/emergency)'s 23rd annual day out for the curious at <a href="https://contactmcr.com" target="_blank">Contact</a>*         
+*— Spring saw [Turn](/current/2023-turn)'s whirlwind night of new dance and [Works Ahead](/current/2023-worksahead) from [Christian](/current/2023-worksahead/asare), [Jade](/current/2023-worksahead/williams) & [Kellie](/current/2023-worksahead/colbert) at <a href="https://contactmcr.com" target="_blank">Contact</a>, plus [Avital Raz](/current/2023/raz)'s Ghost Story at <a href="https://thelowry.com" target="_blank">The Lowry</a><br>— Summer saw [Haphazard](/current/2023-haphazard)'s free afternoon of Live Art antics at <a href="https://z-arts.org" target="_blank">Z-arts</a><br> — Autumn sees [Emergency](/hab/emergency)'s 23rd annual day out for the curious at <a href="https://contactmcr.com" target="_blank">Contact</a>*         
          
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
@@ -48,7 +48,7 @@ John Franklin-Johnston, hÅb's Programme Manager, is a freelance producer, event
          
 Peader Kirk, artist + mentor, supports [Works Ahead](/hab/worksahead) and other hÅb projects.         
          
-We're grateful for the ongoing support of a team of freelancers and volunteers that includes: Afreena Islam, Andrew Crofts, Angie Lee, Catherine Shaw, Jake Lewis, Jodie Ratcliffe, Kamini Patel, Louise Anderson, Megan McPhee, Sam Stockdale, Stacey Potter, Steve Bryan, Tania Camara, Tricia Coleman, plus Theatre and Performance students from The Arden.         
+We're grateful for the ongoing support of a team of freelancers and volunteers that includes: Afreena Islam, Andrew Crofts, Angie Lee, Catherine Shaw, Jake Lewis, Jodie Ratcliffe, Kamini Patel, Louise Anderson, Megan McPhee, Sam Stockdale, Stacey Potter, Steve Bryan, Tania Camara, Tricia Coleman, plus Theatre and Performance students & graduates from The Arden.         
          
 Thanks also to our Advisory Board: Helen Palmer, Charles Rowley, Cathy Butterworth, Joseph Lau, plus Garfield Allen + Maya Chowdhry for [Divergency](/hab/divergencymcr).        
 <small><span style='font-variant: small-caps'>[back to top](/current/2023)</span></small>        
