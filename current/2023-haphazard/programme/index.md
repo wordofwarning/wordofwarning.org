@@ -100,7 +100,7 @@ Inspired by our shared obsession with pigeons and our fear of dating apps.<br>A 
          
 Maddie has worked extensively as an actor and maker, recently as a performer/deviser with SOAPBOX and DeadWeight Theatre. She is a Starting Blocks 2023 Artist at Camden People's Theatre.<br>Rowan is an artist, designer, and maker who has created sets and props, delivered workshops, and performed pieces in spaces and places throughout Manchester and beyond.        
         
-<a href="https://roszu.weebly.com" target="_blank">roszu.weebly.com</a>         
+<a href="https://instagram.com/maddie.wakeling" target="_blank">Insta maddie.wakeling</a> · <a href="https://roszu.weebly.com" target="_blank">roszu.weebly.com</a>         
 <hr>         
 **Nicola Smith · *Slinky POP***        
         
@@ -130,7 +130,8 @@ Meet the Moon. She's silly, sassy, and made of cheese.<br>She's the headline act
          
 Puppetfingers is Amy Hegarty, an Irish artist based in Manchester. She is equally at home in front of a sewing machine, up a ladder with a glue gun, or dancing in a silly costume on the street. She has been a maker and performer for Manchester Day, The Lanterns at Chester Zoo, The Queen's Jubilee Parade. Above all she is passionate about creating accessible art for communities, and with communities.<br>Performer: Alison Whitehead         
          
-<a href="https://puppetfingers.com" target="_blank">puppetfingers.com</a> · <a href="https://instagram.com/puppetfingers" target="_blank">Insta puppetfingers</a>        
+<a href="https://puppetfingers.com" target="_blank">puppetfingers.com</a> · <a href="https://instagram.com/puppetfingers" target="_blank">Insta puppetfingers</a> · <a href="https://instagram.com/a.whthd" target="_blank">Insta a.whthd</a>         
+         
 <hr>         
 **Thomas Daniel Byrne · *Burger***         
        
