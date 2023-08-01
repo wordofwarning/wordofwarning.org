@@ -24,6 +24,5 @@ gallery:
     -   {file: "jade4.jpg", artist: "Jade Williams"}
     -   {file: "kellie1.jpg", artist: "Kellie Colbert"}
     -   {file: "kellie2.jpg", artist: "Kellie Colbert"}
-    -   {file: "kellie3.jpg", artist: "Kellie Colbert"}
     -   {file: "kellie4.jpg", artist: "Kellie Colbert"}
 ---
