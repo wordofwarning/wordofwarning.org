@@ -5,7 +5,7 @@ layout: archive
 season: "Galleries"
 
 archived:
-    - {folder: "2023-haphazard", name: "Haphazard 2023", class: "hh2023"}
+    - {folder: "2023-haphazard", name: "Haphazard 2023", class: "hh2019"}
     - {folder: "2022-emergency", name: "Emergency 22", class: "e2021"}
     - {folder: "2022-gambit", name: "Gambit (2022)", class: "p2022"}
     - {folder: "2021-emergency", name: "Emergency 21", class: "e2021"}
