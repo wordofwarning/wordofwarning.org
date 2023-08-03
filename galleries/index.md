@@ -5,11 +5,11 @@ layout: archive
 season: "Galleries"
 
 archived:
-    - {folder: "2023-haphazard", name: "Haphazard 2023", class: "hh2019"}
-    - {folder: "2023-woah", name: "Works Ahead 2023", class: "w2019"}
+    - {folder: "2023-haphazard", name: "Haphazard 2023", class: "h2023"}
+    - {folder: "2023-woah", name: "Works Ahead 2023", class: "w2022"}
     - {folder: "2022-emergency", name: "Emergency 22", class: "e2021"}
     - {folder: "2022-gambit", name: "Gambit (2022)", class: "p2022"}
-    - {folder: "2022-woah", name: "Works Ahead 2022", class: "w2019"}
+    - {folder: "2022-woah", name: "Works Ahead 2022", class: "w2022"}
     - {folder: "2021-emergency", name: "Emergency 21", class: "e2021"}
     - {folder: "2020-botanic", name: "Botanic (2020)", class: "aw2020"}
     - {folder: "2020-emergencystopgap", name: "Emergency StopGap (2020)", class: "esg2020"}
