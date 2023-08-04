@@ -16,25 +16,25 @@ season: "Emergency by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 26 June 2023</small>        
+<small>Updated 4 August 2023, 6.15pm</small>        
         
 **Emergency** is our annual platform for Live Art and contemporary performance — offering a sneak preview of new live work over a single day in Manchester every autumn and now resident at <a href="https://contactmcr.com" target="_blank">Contact</a>, its seventh home.        
          
 Manchester's 23rd micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 30 September, Noon-10pm** (*times tbc*).        
          
-The <a href="https://emergencymcr.posthaven.com/emergency-23-call-for-proposals" target="_blank">call for artist's proposals</a> is now open (and we expect to present about 20 short works throughout the building) — so if you would like to take part in what is *probably* England's longest running Live Art event, please read on…        
+The <a href="https://emergencymcr.posthaven.com/emergency-23-call-for-proposals" target="_blank">call for artist's proposals</a> is now closed (and we expect to present about 20 short works throughout the building) — so if you would like to take part in what is *probably* England's longest running Live Art event, please read on…        
          
-#### Emergency 23 Call for Proposals        
+#### Emergency 23 Call for Proposals is Closed       
 Artists working in Live Art, contemporary performance, time-based media, and interdisciplinary arts are now invited to submit proposals; work can be in any relevant artform/medium, though some live presence is desirable.        
         
 Emergency 23 combines daytime durational, installation, intervention, and limited capacity work; followed by an evening of short (*max 20 min*) show-type pieces of work, works-in-progress, or extracts of longer works.       
         
-Manchester's annual Live Art + performance platform, Emergency aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions.        
+Manchester's annual Live Art / performance platform, Emergency aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions.        
         
 #### For details & to apply go to <a href="https://emergencymcr.posthaven.com" target="_blank">emergencymcr.posthaven.com</a>         
 #### Proposal Deadline: 5pm, Friday 4 August 2023.        
         
-Emergency 23 presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> + using public funding by Arts Council England.         
+Emergency 23 presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
         
 Enquiries: <mailto:emergency@habmcr.org> · <a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> · <a href="https://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>
         
