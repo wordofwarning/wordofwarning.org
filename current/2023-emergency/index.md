@@ -27,7 +27,7 @@ Manchester's 23rd micro-marathon of the bizarre, the bold, and the beautiful tak
 *Our open call has closed, with participating artists announced in late August.*         
           
 #### Details         
-Entry: no need to book, just turn up and Pay What You Decide by cash or card.<br>Times: Saturday 30 September 2023, Noon-10pm (*exact times tbc*)<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>*NB* with artists located in multiple spaces, and some works having a short duration, limited capacity (on a first-come first-served basis), and/or repeating, you may not get a chance to see everything.          
+Entry: no need to book, just turn up and Pay What You Decide by cash or card.<br>Times: Saturday 30 September 2023, Noon-10pm (*exact times tbc*)<br>Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>*NB* with artists located in multiple spaces, and some works having a short duration, limited capacity (on a first-come first-served basis), and/or repeating, you may not get a chance to see everything.          
         
 #### Access         
 Age Advisory: **16+** (mainly aimed at adults, parental/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: Live Art + contemporary performance works with varied content.<br>Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> 0161 274 0600 or <mailto:BoxOffice@contactmcr.com>        
