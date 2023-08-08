@@ -21,7 +21,7 @@ season: "Emergency 30|9|2023"
         
 *Presented by* Word of Warning *+* Contact        
         
-Manchester's 23rd micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 30 September, Noon to 10pm** (*times tbc*)<br>— with an Afternoon of installations, interventions, and limited capacity works<br>— followed by an Evening full of short shows…        
+Manchester's 23rd micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 30 September, Noon-10pm** (*times tbc*)<br>— with an Afternoon of installations, interventions, and limited capacity works<br>— followed by an Evening full of short shows…        
         
 #### Artists         
 *Our Call for Proposals has closed; participating artists tba on 1 September.*         
