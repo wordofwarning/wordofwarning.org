@@ -17,7 +17,7 @@ season: "Emergency 30|9|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2023-emergency/#artists) · [details](/current/2023-emergency/#details) · [access](/current/2023-emergency/#access) · [about](/current/2023-emergency/#about) · [credits](/current/2023-emergency/#credits) · [websites](/current/2023-emergency/#websites)</span> · <small>Updated 7 August 2023</small>     
+<span style='font-variant: small-caps'>→ [artists](/current/2023-emergency/#artists) · [details](/current/2023-emergency/#details) · [access](/current/2023-emergency/#access) · [about](/current/2023-emergency/#about) · [credits](/current/2023-emergency/#credits) · [websites](/current/2023-emergency/#websites)</span> · <small>Updated 8 August 2023</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
@@ -35,7 +35,11 @@ Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Conten
 #### About         
 Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day in Manchester every autumn — this 23rd edition will present *about* 20-30 short works from lunchtime till late throughout <a href="https://contactmcr.com" target="_blank">Contact</a>'s spaces.       
          
-*Probably* England’s longest-running Live Art event, [Emergency](/hab/emergency) aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions.        
+*Probably* England's longest-running Live Art event, [Emergency](/hab/emergency) aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions.        
+         
+First held at greenroom in 2000, [Emergency](/hab/emergency) also took place at International Anthony Burgess Foundation, BLANKSPACE, Castlefield Gallery, Z-arts & STUN Studio, before finding a new home at <a href="https://contactmcr.com" target="_blank">Contact</a> from [2020](/archive/2020-emergency)…         
+         
+Get a feel for it with last year's [22nd edition](/archive/2022-emergency) + [gallery of images](/galleries/2022-emergency), 2021's [programme](/archive/2021-emergency) + [gallery](/galleries/2021-emergency), 2019's [programme](/archive/2019-emergency) + [gallery](/galleries/2019-emergency), and 2018's [programme](/archive/2018-emergency) + [gallery](/galleries/2018-emergency).         
         
 #### Credits         
 [Emergency](/hab/emergency) 23 produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.     
