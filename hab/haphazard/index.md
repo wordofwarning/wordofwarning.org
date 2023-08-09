@@ -16,15 +16,15 @@ season: "Haphazard by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---         
-<small>Updated 26 July 2023</small>        
+<small>Updated 9 August 2023</small>        
         
 **Haphazard** is our frequent foray into 'all ages' Live Art, with intriguing images and offbeat oddities dotted around and about the historic <a href="https://z-arts.org" target="_blank">Z-arts</a> building in Manchester's Hulme. Playful, quirky, engaging, and sometimes plain daft: a free afternoon of Live Art for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out!            
 
-After a 4-year hiatus, [Haphazard 2023](/current/2023-haphazard) was our sixth Live Art takeover of <a href="https://z-arts.org" target="_blank">Z-arts</a>, with thirteen works on **Saturday 22 July 2023 from Noon to 3pm** — turn up at any time, come and go as you please… and expect the unexpected!          
-       
+After a 4-year hiatus, [Haphazard 2023](/current/2023-haphazard) was our sixth Live Art takeover of <a href="https://z-arts.org" target="_blank">Z-arts</a>, with thirteen works on **Saturday 22 July 2023 from Noon to 3pm** — turn up at any time, come and go as you please… and expect the unexpected!<br>And now it's over, see [images from the event](/galleries/2023-haphazard).        
+          
 [Haphazard 2023](/current/2023-haphazard) presented by [Word of Warning](/) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>; produced by [hÅb](/hab) with <a href="http://www.z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England.<br>Header image: Nicola Smith at [Haphazard 2019](/archive/2019-haphazard)        
 
 Enquiries: <mailto:haphazard@habmcr.org> · <a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> · <a href="http://twitter.com/hashtag/HaphazardMcr" target="_blank">#HaphazardMcr</a>              
         
 #### Past Editions        
-Haphazard has previously seen ping pong balls and squeaky toys; a singing fish and a sax-playing bear; paintball golf and human quoits; a giant periscope, a golden toilet, and a tiny bee-shaped world…<br>Get a feel for it by having a look at the [2013](/galleries//2013-haphazard), [2015](/galleries/2015-haphazard), [2016](/galleries/2016-haphazard), [2017](/galleries/2017-haphazard), [2019](/galleries/2019-haphazard) image galleries — and the [2013](/archive/2013-spring/haphazard), [2015](/archive/2015-haphazard), [2016](/archive/2016-haphazard), [2017](/archive/2017-haphazard), [2019](/archive/2019-haphazard) archives.
+Haphazard has previously seen ping pong balls and squeaky toys; a singing fish and a sax-playing bear; paintball golf and human quoits; a giant periscope, a golden toilet, and a tiny bee-shaped world…<br>Get a feel for it by looking at image galleries from [2019](/galleries/2019-haphazard), [2017](/galleries/2017-haphazard), [2016](/galleries/2016-haphazard), [2015](/galleries/2015-haphazard), [2013](/galleries//2013-haphazard) — and programmes from [2019](/archive/2019-haphazard/programme), [2017](/archive/2017-haphazard/programme), [2016](/archive/2016-haphazard/programme), [2015](/archive/2015-haphazard), [2013](/archive/2013-spring/haphazard).
