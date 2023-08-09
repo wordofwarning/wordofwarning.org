@@ -20,7 +20,7 @@ season: "Turn by hÅb"
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Manchester.         
          
-After a 6-year hiatus it returned to <a href="https://contactmcr.com" target="_blank">Contact</a> on [**10 March 2023**](/current/2023-turn) for a tenth edition with nine short dance-works. Get a feel for it with some of our [artist's images](/galleries/2023-turnpre), read their [programme notes](/current/2023-turn/programme) — and now it's over, see [images from the event](/galleries/2023-turn).         
+After a 6-year hiatus it returned to <a href="https://contactmcr.com" target="_blank">Contact</a> on [**10 March 2023**](/current/2023-turn) for a tenth edition with nine short dance-works. Get a feel for it with some of our [artist's images](/galleries/2023-turnpre), read their [programme notes](/current/2023-turn/programme), and see [images from the event](/galleries/2023-turn).         
         
 Manchester's open call dance platform, Turn aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event.         
         
