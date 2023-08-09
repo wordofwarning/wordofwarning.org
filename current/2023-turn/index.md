@@ -17,7 +17,7 @@ season: "Turn 10|3|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2023-turn/#artists) · [ticketing](/current/2023-turn/#ticketing) · [access](/current/2023-turn/#access) · [about](/current/2023-turn/#about) · [credits](/current/2023-turn/#credits) · [websites](/current/2023-turn/#websites)</span> · <small>Updated 9 August 2023</small>     
+<span style='font-variant: small-caps'>→ [artists](/current/2023-turn/#artists) · [ticketing](/current/2023-turn/#ticketing) · [access](/current/2023-turn/#access) · [about](/current/2023-turn/#about) · [credits](/current/2023-turn/#credits) · [websites](/current/2023-turn/#websites)</span><br><small>Updated 9 August 2023</small>        
         
 *Presented by* Word of Warning *+* Contact        
         
@@ -32,7 +32,7 @@ Pay What You Decide: £15/£10/£5/£0 | Book <a href="https://contactmcr.com/bo
 Time: Friday 10 March 2023, 7pm<br>Duration: lasts *about* 3¼ hrs including interval & pauses<br>Location: <a href="https://contactmcr.com/about-us/your-visit" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA       
         
 #### Access         
-Age Advisory: 15+ (parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: contemporary dance and performance works with varied content.<br>Covid measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.<br>Queries: please contact <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a>, 0161 274 0600 or <mailto:BoxOffice@contactmcr.com><br>*NB* please remain seated between pieces in space 1; pieces in spaces 0 and 2 repeat due to capacity limits, so your experience may differ from others; for Orla Collier's piece in space 0 you may be seated or standing, please indicate if you need a seat.        
+Age Advisory: 15+ (parent/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: contemporary dance and performance works with varied content.<br>Covid measures: we <a href="https://contactmcr.com/covid-19-faq" target="_blank">encourage</a> audience members to wear masks within Contact unless exempt; please get in touch if you have any queries.<br>Queries: please contact <a href="https://contactmcr.com/accessibility" target="_blank">Contact</a>, 0161 274 0600 or <mailto:BoxOffice@contactmcr.com><br>*NB* please remain seated between pieces in space 1; pieces in spaces 0 and 2 repeat due to capacity limits, so your experience may differ from others; for Orla Collier's piece in space 0 you may be seated or standing, please indicate if you need a seat.        
          
 #### About         
 [Turn](/hab/turn) is our annual platform for North West dancers and dance-makers — an opportunity to engage with new dance in Manchester.<br>After a 6-year hiatus, this tenth edition presents nine† short works in three spaces at <a href="https://contactmcr.com" target="_blank">Contact</a> — look at [artist's images](/galleries/2023-turnpre) and read their [programme notes](/current/2023-turn/programme); also get a feel for it with 2017's [programme](/archive/2017-turn/programme) + [gallery of images](/galleries/2017-turn).<br>*NB Friday's public platform is followed by an artist day for participants only.*        
