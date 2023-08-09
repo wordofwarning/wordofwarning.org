@@ -33,7 +33,7 @@ Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://tickets.thelowr
 Time: Wednesday 3 May 2023, 8pm (no interval, ends *about* 9pm)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry</a> (Aldridge Studio), Pier 8, Salford Quays, M50 3AZ         
          
 #### Access         
-Age Advisory: 14+ (parent/guardian/carer discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: spoken + sung text, live composed music + soundscape, pre-recorded film + videography.<br>Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a>, 0161 876 2183 or <mailto:access@thelowry.com>       
+Age Advisory: 14+ (parent/guardian/carer discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: spoken & sung text, live composed music and soundscape, pre-recorded film and videography.<br>Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a>, 0161 876 2183 or <mailto:access@thelowry.com>       
          
 #### About         
 *Unnatural Cycles — A Ghost Story* emerged from a dream in which Avital met her Grandmother, followed by a year of listening to old cassettes in which she was interviewed about her experiences surviving the Jewish Holocaust.         
@@ -43,15 +43,15 @@ Drawing on personal experiences to be told in song, live-looped audio, and film,
 #### Artist        
 Jerusalem-born singer-songwriter Avital Raz has made a name for herself singing politically engaging, strikingly original, and fearless songs — to emerge as a distinctive and truly individual voice that speaks with a very real and potent self-expression.         
           
-Avital studied at Jerusalem's School of Visual Theatre, before embarking on a 20-year career as a singer-songwriter and musician. After completing degrees in Western Classical singing + composition in Jerusalem, she relocated to Varanasi (India) to study the sacred art of Dhrupad singing for six years under Professor Ritwik Sanyal. She's released seven albums of her own music, and performed with acclaimed world music band Rafiki Jazz for three years.         
+Avital studied at Jerusalem's School of Visual Theatre, before embarking on a 20-year career as a singer-songwriter and musician. After completing degrees in Western Classical singing and composition in Jerusalem, she relocated to Varanasi (India) to study the sacred art of Dhrupad singing for six years under Professor Ritwik Sanyal. She's released seven albums of her own music, and performed with acclaimed world music band Rafiki Jazz for three years.         
          
-Her first solo theatre show [*My Jerusalem*](/archive/2019-worksahead/raz) — a politically charged tale derived from a song — was commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a> for [Works Ahead 2019](/archive/2019-worksahead); an accompanying feature-length documentary *Your Jerusalem* was commissioned by Journeys Festival International + created with Chris Davis in 2020.          
+Her first solo theatre show [*My Jerusalem*](/archive/2019-worksahead/raz) — a politically charged tale derived from a song — was commissioned by [hÅb](/hab) & <a href="https://contactmcr.com" target="_blank">Contact</a> for [Works Ahead 2019](/archive/2019-worksahead); an accompanying feature-length documentary *Your Jerusalem* was commissioned by Journeys Festival International and created with Chris Davis in 2020.          
          
 #### Reviews         
 >★★★★ *Distinctive, compulsive, and truly individual… remarkable, life-affirming work.*<br>&nbsp;— <a href="https://www.thereviewshub.com/unnatural-cycles-a-ghost-story-camden-peoples-theatre-london" target="_blank">The Reviews Hub on *Unnatural Cycles*</a><br>*Extraordinary piece of storytelling… Relentlessly bleak, yet totally compelling… A dreamlike, other-wordly space*<br>&nbsp;— <a href="https://www.rotherhamadvertiser.co.uk/leisure/view,theatre-review-unnatural-cycles-a-ghost-story-at-sheffield-playhouse_43783" target="_blank">Rotherham Advertiser on *Unnatural Cycles*</a><br>*Nothing short of astonishing*<br>&nbsp;— <a href="https://www.exposedmagazine.co.uk" target="_blank">Mark Perkins, Exposed Magazine on *My Jerusalem*</a><br>*As perceptive of the personal as she is the political*<br>&nbsp;— <a href="https://nowthenmagazine.com" target="_blank">Now Then Magazine on *My Jerusalem*</a><br>*Revels in its power to challenge perceptions + prejudice… Nags at how the wider world may view Jewish women, and pulls back this woman's reality*<br>&nbsp;— <a href="https://loureviews.blog/2021/07/20/review-my-jerusalem-applecart-arts-online" target="_blank">LouReviews on *My Jerusalem*</a>        
        
 #### Credits          
-Written, performed, original music by Avital Raz<br>Directed by Gillian Lees<br>Dramaturgy by Peader Kirk + Gillian Lees<br>Videography by Chris Davis<br>Header Image by Darren Andrews        
+Written, performed, original music by Avital Raz<br>Directed by Gillian Lees<br>Dramaturgy by Peader Kirk & Gillian Lees<br>Videography by Chris Davis<br>Header Image by Darren Andrews        
        
 Commissioned by Sheffield Theatres, Contact, Lancaster Arts.<br>Supported using public funding by the National Lottery through Arts Council England.        
          
