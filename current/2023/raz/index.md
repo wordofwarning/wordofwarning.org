@@ -17,7 +17,7 @@ season: "Avital Raz 3|5|2023, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [ticketing](/current/2023/raz/#ticketing) · [access](/current/2023/raz/#access) · [about](/current/2023/raz/#about) · [artist](/current/2023/raz/#artist) · [reviews](/current/2023/raz/#reviews) · [credits](/current/2023/raz/#credits) · [websites](/current/2023/raz/#websites)</span><br><small>Updated 3 May 2023</small>          
+<span style='font-variant: small-caps'>→ [ticketing](/current/2023/raz/#ticketing) · [access](/current/2023/raz/#access) · [about](/current/2023/raz/#about) · [artist](/current/2023/raz/#artist) · [reviews](/current/2023/raz/#reviews) · [credits](/current/2023/raz/#credits) · [websites](/current/2023/raz/#websites)</span><br><small>Updated 9 August 2023</small>          
          
 *Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a>         
          
@@ -33,7 +33,7 @@ Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://tickets.thelowr
 Time: Wednesday 3 May 2023, 8pm (no interval, ends *about* 9pm)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry</a> (Aldridge Studio), Pier 8, Salford Quays, M50 3AZ         
          
 #### Access         
-Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: spoken + sung text, live composed music + soundscape, pre-recorded film + videography.<br>Queries: please call <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a> on 0161 876 2183 or email <mailto:access@thelowry.com>       
+Age Advisory: 14+ (parent/guardian/carer discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: spoken + sung text, live composed music + soundscape, pre-recorded film + videography.<br>Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a>, 0161 876 2183 or <mailto:access@thelowry.com>       
          
 #### About         
 *Unnatural Cycles — A Ghost Story* emerged from a dream in which Avital met her Grandmother, followed by a year of listening to old cassettes in which she was interviewed about her experiences surviving the Jewish Holocaust.         
@@ -56,6 +56,6 @@ Written, performed, original music by Avital Raz<br>Directed by Gillian Lees<br>
 Commissioned by Sheffield Theatres, Contact, Lancaster Arts.<br>Supported using public funding by the National Lottery through Arts Council England.        
          
 #### Websites          
-<a href="http://avitalraz.com/unnatural-cycles--a-ghost-story" target="_blank">avitalraz.com</a> · <a href="https://facebook.com/avitalrazmusic" target="_blank">Avital Raz on Facebook</a> · <a href="https://instagram.com/avital.raz" target="_blank">Insta: avital.raz</a> · <a href="https://twitter.com/avitalraz" target="_blank">@avitalraz</a> · <a href="https://twitter.com/hashtag/UnnaturalCycles" target="_blank">#UnnaturalCycles</a>         
+<a href="http://avitalraz.com/unnatural-cycles--a-ghost-story" target="_blank">avitalraz.com</a> · <a href="https://facebook.com/avitalrazmusic" target="_blank">Fb avitalrazmusic</a> · <a href="https://instagram.com/avital.raz" target="_blank">Insta avital.raz</a> · <a href="https://twitter.com/avitalraz" target="_blank">@avitalraz</a> · <a href="https://twitter.com/hashtag/UnnaturalCycles" target="_blank">#UnnaturalCycles</a>         
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2023/raz)</span></small>
