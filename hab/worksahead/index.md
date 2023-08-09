@@ -17,7 +17,7 @@ season: "Works Ahead by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 23 Mar 2023</small>                
+<small>Updated 9 August 2023</small>                
         
 **Works Ahead** is a project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011. Since 2012 it has offered over thirty-five small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events. Support includes mentoring and a public showing of the next stage of the work, in partnership with <a href="http://contactmcr.com" target="_blank">Contact</a>…       
          
@@ -54,10 +54,10 @@ Our ninth Works Ahead was planned as a sited double bill at NIAMOS in May from a
 Commissions were awarded with Contact to artists Helena Ascough and Jade Williams for them to develop their ideas for future presentation…       
          
 #### 2022         
-Our [tenth Works Ahead](/archive/2022-worksahead) took place at <a href="http://contactmcr.com" target="_blank">Contact</a> in May — picking up where we were interrupted in [2020](/hab/worksahead/#2020) to show Will Dickie's finished live work alongside Ross McCaffrey's re-imagined development, plus Helena Ascough's digital outcome from [2021](/hab/worksahead/#2021) (watch her short film <a href="https://youtu.be/OXnLmCojOwI" target="_blank">here</a>).        
+Our [tenth Works Ahead](/archive/2022-worksahead) took place at <a href="https://contactmcr.com" target="_blank">Contact</a> in May — picking up where we were interrupted in [2020](/hab/worksahead/#2020) to show Will Dickie's finished live work alongside Ross McCaffrey's re-imagined development, plus Helena Ascough's digital outcome from [2021](/hab/worksahead/#2021) (watch her short film <a href="https://youtu.be/OXnLmCojOwI" target="_blank">here</a>). See [images](/galleries/2022-woah).                  
          
 #### 2023         
-Our [eleventh Works Ahead](/current/2023-worksahead) takes place at <a href="http://contactmcr.com" target="_blank">Contact</a> in May — with a triple bill including Jade Williams' outcome from [2021](/hab/worksahead/#2021), alongside newly-commissioned artists Christian Asare & Kellie Cobert…        
+Our [eleventh Works Ahead](/current/2023-worksahead) took place at <a href="https://contactmcr.com" target="_blank">Contact</a> in May — with a triple bill including Jade Williams' outcome from [2021](/hab/worksahead/#2021), alongside newly-commissioned artists Christian Asare & Kellie Colbert… See [images](/galleries/2023-woah).                 
          
 [Works Ahead 2023](/current/2023-worksahead) commissioned by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab).<br>Project Mentor: Peader Kirk          
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>         
