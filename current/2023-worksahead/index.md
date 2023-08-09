@@ -21,12 +21,10 @@ season: "Works Ahead 18+19|5|2023"
         
 *Presented by* Word of Warning + Contact        
          
-Our annual sampler evening of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2023" target="_blank">Contact</a> with a trio of new works-in-development from [artists](/current/2023-worksahead/#artists) [Christian Asare](/current/2023-worksahead/asare), [Jade Williams](/current/2023-worksahead/williams), [Kellie Colbert](/current/2023-worksahead/colbert) — searching for identity on the tightrope of our histories, amidst the isolation of our immediate pasts and within the armour of our presents.<br>And now it's over, see [images from the event](/galleries/2023-woah).           
+Our annual sampler evening of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2023" target="_blank">Contact</a> with a trio of new works-in-development from [artists](/current/2023-worksahead/#artists) [Christian Asare](/current/2023-worksahead/asare), [Jade Williams](/current/2023-worksahead/williams), [Kellie Colbert](/current/2023-worksahead/colbert) — searching for identity on the tightrope of our histories, amidst the isolation of our immediate pasts, and within the armour of our presents.<br>And now it's over, see [images from the event](/galleries/2023-woah).           
        
 #### Ticketing          
-Pay What You Decide: £15/£10/£5/£0         
-         
-Book: <a href="https://contactmcr.com/book/instance/310558" target="_blank">Thursday</a>/<a href="https://contactmcr.com/book/instance/310559" target="_blank">Friday</a> via <a href="https://contactmcr.com/events/works-ahead-2023" target="_blank">Contact</a> or call 0161 274 0600        
+Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://contactmcr.com/book/instance/310558" target="_blank">Thursday</a>/<a href="https://contactmcr.com/book/instance/310559" target="_blank">Friday</a> via <a href="https://contactmcr.com/events/works-ahead-2023" target="_blank">Contact</a> or call 0161 274 0600        
          
 Times: Thursday 18 + Friday 19 May 2023, 7.30pm<br>Duration: event lasts *up to* 2 hours including interval/s.<br>*NB* all three works will be shown in the same order each night.<br>Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
         
