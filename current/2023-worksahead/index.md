@@ -17,11 +17,11 @@ season: "Works Ahead 18+19|5|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [ticketing](/current/2023-worksahead/#ticketing) · [access](/current/2023-worksahead/#access) · [about](/current/2023-worksahead/#about) · [artists](/current/2023-worksahead/#artists) · [credits](/current/2023-worksahead/#credits) · [websites](/current/2023-worksahead/#websites)</span><br><small>Updated 17 May 2023</small>        
+<span style='font-variant: small-caps'>→ [ticketing](/current/2023-worksahead/#ticketing) · [access](/current/2023-worksahead/#access) · [about](/current/2023-worksahead/#about) · [artists](/current/2023-worksahead/#artists) · [credits](/current/2023-worksahead/#credits) · [websites](/current/2023-worksahead/#websites)</span><br><small>Updated 9 August 2023</small>        
         
 *Presented by* Word of Warning + Contact        
          
-Our annual sampler evening of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2023" target="_blank">Contact</a> with a trio of new works-in-development from [artists](/current/2023-worksahead/#artists) [Christian Asare](/current/2023-worksahead/asare), [Jade Williams](/current/2023-worksahead/williams), [Kellie Colbert](/current/2023-worksahead/colbert) — searching for identity on the tightrope of our histories, amidst the isolation of our immediate pasts and within the armour of our presents.           
+Our annual sampler evening of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2023" target="_blank">Contact</a> with a trio of new works-in-development from [artists](/current/2023-worksahead/#artists) [Christian Asare](/current/2023-worksahead/asare), [Jade Williams](/current/2023-worksahead/williams), [Kellie Colbert](/current/2023-worksahead/colbert) — searching for identity on the tightrope of our histories, amidst the isolation of our immediate pasts and within the armour of our presents.<br>Now it's over, see [images from the event](/galleries/2023-woah).           
        
 #### Ticketing          
 Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://contactmcr.com/book/instance/310558" target="_blank">Thursday</a>/<a href="https://contactmcr.com/book/instance/310559" target="_blank">Friday</a> via <a href="https://contactmcr.com/events/works-ahead-2023" target="_blank">Contact</a> or call 0161 274 0600        
