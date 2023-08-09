@@ -29,7 +29,7 @@ Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://contactmcr.com/
 Times: Thursday 18 + Friday 19 May 2023, 7.30pm<br>Duration: event lasts *up to* 2 hours including interval/s.<br>*NB* all three works will be shown in the same order each night.<br>Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
         
 #### Access         
-Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: three contemporary performance works with varied content.<br>Queries: contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>, 0161 274 0600 or <mailto:BoxOffice@contactmcr.com>        
+Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: three contemporary performance works with varied content.<br>Queries: contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>, 0161 274 0600 or <mailto:BoxOffice@contactmcr.com>        
          
 #### About           
 [Works Ahead](/hab/worksahead) is a project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011.
