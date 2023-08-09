@@ -29,7 +29,9 @@ A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2" targ
 Gemma Lees · Jana Aizupe & Gi Vasey · Joe Beedles · Julie Burrow · Kitunda Argyle · Krissi Musiol & Amy Vreeke · Luna Ælflæd · Maddie Wakeling & Rowan Szulek · Nicola Smith · Orla Collier & Magdalena Górnikiewicz · Puppetfingers · Thomas Daniel Byrne<br><small>*Participating artists subject to change; Plaster Cast unable to perform due to change of circumstances.*</small>         
          
 #### Details         
-Entry: free, no booking required (come and go as you please).<br>Times: Saturday 22 July 2023, Noon-3pm (turn up at any time).<br>Location: <a href="https://z-arts.org/home/your-visit-to-z-arts/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA<br>*NB* with artists located in multiple spaces, and some works having a short duration and/or repeating, you may not get a chance to see everything.          
+Entry: free, no booking required (come and go as you please).         
+         
+Times: Saturday 22 July 2023, Noon-3pm (turn up at any time).<br>Location: <a href="https://z-arts.org/home/your-visit-to-z-arts/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA<br>*NB* with artists located in multiple spaces, and some works having a short duration and/or repeating, you may not get a chance to see everything.          
          
 #### Access         
 Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>**Allergy Warnings: latex (balloons) / popcorn.**<br>Content Warnings: flashing light, laser & haze, loud/sudden noise; some works involve interaction, some may disturb; please click [here](/warnings) for specific warnings.<br>Features: Live Art, performance, and participatory works with varied content.<br>*NB* takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some participatory.<br>Queries: please contact <a href="https://z-arts.org/home/your-visit-to-z-arts/access" target="_blank">Z-arts</a>, 0161 226 1912 or <mailto:boxoffice@z-arts.org>        
