@@ -17,15 +17,15 @@ season: "Works Ahead 26+27|5|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [ticketing](/archive/2022-worksahead/#ticketing) · [access](/archive/2022-worksahead/#access) · [credits](/archive/2022-worksahead/#credits) · [websites](/archive/2022-worksahead/#websites)</span> · <small>Updated 5 Jan 2023</small>        
+<span style='font-variant: small-caps'>→ [ticketing](/archive/2022-worksahead/#ticketing) · [access](/archive/2022-worksahead/#access) · [credits](/archive/2022-worksahead/#credits) · [websites](/archive/2022-worksahead/#websites)</span> · <small>Updated 9 August 2023</small>        
         
 *Presented by* Word of Warning + Contact        
         
-Our sampler evening sees a [macabre film](/archive/2022-worksahead/ascough) about how we see others; a [one-man work-in-progress](/archive/2022-worksahead/mccaffrey) about revolution, hope, and our capacity for change; and a [lo-fi solo symphony](/archive/2022-worksahead/dickie) of words and movement.         
+Our sampler evening sees a [macabre film](/archive/2022-worksahead/ascough) about how we see others; a [one-man work-in-progress](/archive/2022-worksahead/mccaffrey) about revolution, hope, and our capacity for change; and a [lo-fi solo symphony](/archive/2022-worksahead/dickie) of words & movement. Now that it's over, see [images from the event](/galleries/2022-woah).         
         
 This year's selection of work-in-development picks up where we were interrupted in [2020](/hab/worksahead/#2020) — showing the now finished live version of **[Will Dickie](/archive/2022-worksahead/dickie)**'s *White Sun* (watch his trailer <a href="https://vimeo.com/688124335" target="_blank">here</a>) alongside a re-imagined development of **[Ross McCaffrey](/archive/2022-worksahead/mccaffrey)**'s *Sometimes history needs a push*.        
 
-We also commissioned two artists in [2021](/hab/worksahead/#2021) — and now present the digital outcome of **[Helena Ascough](/archive/2022-worksahead/ascough)**'s *What A Clown!* (watch her short film <a href="https://youtu.be/OXnLmCojOwI" target="_blank">here</a>), with **Jade Williams**' work coming to fruition in 2023.         
+We also commissioned two artists in [2021](/hab/worksahead/#2021) — and now present the digital outcome of **[Helena Ascough](/archive/2022-worksahead/ascough)**'s *What A Clown!* (watch her short film <a href="https://youtu.be/OXnLmCojOwI" target="_blank">here</a>), with **Jade Williams**' work coming to fruition in [2023](/current/2023-worksahead/williams).         
         
 #### Ticketing          
 Pay What You Decide: £10/£5/£0 | Book for <a href="https://contactmcr.com/book-online/254758" target="_blank">Thursday</a> or <a href="https://contactmcr.com/book-online/254759" target="_blank">Friday</a> via Contact         
