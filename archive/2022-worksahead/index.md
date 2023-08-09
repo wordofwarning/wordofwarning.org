@@ -21,7 +21,7 @@ season: "Works Ahead 26+27|5|2022"
         
 *Presented by* Word of Warning + Contact        
         
-Our sampler evening sees a [macabre film](/archive/2022-worksahead/ascough) about how we see others; a [one-man work-in-progress](/archive/2022-worksahead/mccaffrey) about revolution, hope, and our capacity for change; and a [lo-fi solo symphony](/archive/2022-worksahead/dickie) of words & movement. Now that it's over, see [images from the event](/galleries/2022-woah).         
+Our sampler evening shows a [macabre film](/archive/2022-worksahead/ascough) about how we see others; a [one-man work-in-progress](/archive/2022-worksahead/mccaffrey) about revolution, hope, and our capacity for change; a [lo-fi solo symphony](/archive/2022-worksahead/dickie) of words & movement. Now it's over, see [images from the event](/galleries/2022-woah).         
         
 This year's selection of work-in-development picks up where we were interrupted in [2020](/hab/worksahead/#2020) — showing the now finished live version of **[Will Dickie](/archive/2022-worksahead/dickie)**'s *White Sun* (watch his trailer <a href="https://vimeo.com/688124335" target="_blank">here</a>) alongside a re-imagined development of **[Ross McCaffrey](/archive/2022-worksahead/mccaffrey)**'s *Sometimes history needs a push*.        
 
