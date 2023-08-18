@@ -17,7 +17,7 @@ season: "Emergency 30|9|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2023-emergency/#artists) · [details](/current/2023-emergency/#details) · [access](/current/2023-emergency/#access) · [about](/current/2023-emergency/#about) · [credits](/current/2023-emergency/#credits) · [websites](/current/2023-emergency/#websites)</span><br><small>Updated 9 August 2023</small>     
+<span style='font-variant: small-caps'>→ [artists](/current/2023-emergency/#artists) · [details](/current/2023-emergency/#details) · [access](/current/2023-emergency/#access) · [about](/current/2023-emergency/#about) · [credits](/current/2023-emergency/#credits) · [websites](/current/2023-emergency/#websites)</span><br><small>Updated 18 August 2023</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
@@ -39,7 +39,7 @@ Our annual platform for Live Art and contemporary performance, [Emergency](/hab/
          
 *Probably* England's longest-running Live Art event, [Emergency](/hab/emergency) aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions.        
          
-First held at greenroom in 2000, [Emergency](/hab/emergency) also took place at International Anthony Burgess Foundation, BLANKSPACE, Castlefield Gallery, Z-arts & STUN Studio, before finding a new home at <a href="https://contactmcr.com" target="_blank">Contact</a> from [2020](/archive/2020-emergency)…         
+First held at greenroom in 2000, [Emergency](/hab/emergency) also took place at International Anthony Burgess Foundation, BLANKSPACE, Castlefield Gallery, Z-arts & STUN Studio, NIAMOS, before finding a new home at <a href="https://contactmcr.com" target="_blank">Contact</a> from [2020](/archive/2020-emergency)…         
          
 Get a feel for it with [2022's programme](/archive/2022-emergency) & [gallery of images](/galleries/2022-emergency), [2021's programme](/archive/2021-emergency)/[gallery](/galleries/2021-emergency), [2019's programme](/archive/2019-emergency)/[gallery](/galleries/2019-emergency), [2018's programme](/archive/2018-emergency)/[gallery](/galleries/2018-emergency).         
         
