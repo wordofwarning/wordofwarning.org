@@ -16,7 +16,7 @@ season: "Emergency by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 8 August 2023</small>        
+<small>Updated 18 August 2023</small>        
         
 **Emergency** is our annual platform for Live Art and contemporary performance — offering a sneak preview of new live work over a single day in Manchester every autumn and now resident at <a href="https://contactmcr.com" target="_blank">Contact</a>, its seventh home.        
          
@@ -39,10 +39,10 @@ Manchester's annual Live Art / performance platform, Emergency aims to be:<br>�
 Enquiries: <mailto:emergency@habmcr.org> · <a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> · <a href="https://twitter.com/hashtag/EmergencyMcr" target="_blank">#EmergencyMcr</a>
         
 #### Past Editions        
-First held at greenroom in 2000, Emergency also took place at International Anthony Burgess Foundation, BLANKSPACE, Castlefield Gallery, Z-arts, and STUN Studio, before finding a new home at Contact from [2020](/archive/2020-emergency)…         
+First held at greenroom in 2000, Emergency also took place at International Anthony Burgess Foundation, BLANKSPACE, Castlefield Gallery, Z-arts & STUN Studio, NIAMOS, before finding a new home at <a href="https://contactmcr.com" target="_blank">Contact</a> from [2020](/archive/2020-emergency)…         
          
-Get a feel for it with last year's [22nd edition](/archive/2022-emergency) + [gallery of images](/galleries/2022-emergency), 2021's [programme](/archive/2021-emergency) + [gallery](/galleries/2021-emergency), 2019's [programme](/archive/2019-emergency) + [gallery](/galleries/2019-emergency), and 2018's [programme](/archive/2018-emergency) + [gallery](/galleries/2018-emergency).         
-
+Get a feel for it with [2022's programme](/archive/2022-emergency) & [gallery of images](/galleries/2022-emergency), [2021's programme](/archive/2021-emergency)/[gallery](/galleries/2021-emergency), [2019's programme](/archive/2019-emergency)/[gallery](/galleries/2019-emergency), [2018's programme](/archive/2018-emergency)/[gallery](/galleries/2018-emergency).         
+         
 **[Emergency 22](/archive/2022-emergency)** presented 23 new works throughout the <a href="https://contactmcr.com" target="_blank">Contact</a> building on **1 October 2022** — with a daytime of performance installations, one-to-ones, and interventions from Noon — followed by an evening full of short shows from 5pm — see a [gallery of images](/galleries/2022-emergency) from the day.        
 
 **[Emergency 21](/archive/2021-emergency)** was a socially-distanced live walkthrough event at a newly re-opened <a href="https://contactmcr.com" target="_blank">Contact</a> on **25 September 2021** — with audiences guided on a one-way journey through the refurbished building, pausing en route in gallery fashion.        
