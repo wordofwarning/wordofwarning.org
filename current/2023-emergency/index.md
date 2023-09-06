@@ -24,13 +24,13 @@ season: "Emergency 30|9|2023"
 Manchester's 23rd micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 30 September, from Noon to 10pm**<br>— with an Afternoon of installations, interventions, and limited capacity works<br>— followed by an Evening full of short shows from 4pm…        
         
 #### Artists         
-**Afternoon, Noon-4pm** · Chris Brown · E.M. Parry · GOWD · Hot Storm Productions · ITZATNA · Kelvin Atmadibrata · Lauren Greer · Louise Ward Morris · Porcelain Delaney · Sweætshops® · Theresa Bradbury · Victoria Bone<br>**Evening, 4pm-10pm** · Alex Billingham · Egan & Pinchbeck · Gillian Dyson · Gisou Golshani · Heather Alice · Jana Aizupe & Company · Kellie Colbert · Laurie Bayley-Higgins · new func · Orla Collier · Raz & Khan        
+**Afternoon, Noon-4pm.**<br>Chris Brown · E.M. Parry · GOWD · Hot Storm Productions · ITZATNA · Kelvin Atmadibrata · Lauren Greer · Louise Ward Morris · Porcelain Delaney · Sweætshops® · Theresa Bradbury · Victoria Bone<br>**Evening, 4pm-10pm.**<br>Alex Billingham · Egan & Pinchbeck · Gillian Dyson · Gisou Golshani · Heather Alice · Jana Aizupe & Company · Kellie Colbert · Laurie Bayley-Higgins · new func · Orla Collier · Raz & Khan        
 <small>*Participating artists subject to change.*</small>        
           
 #### Details         
 Entry: no need to book, just turn up and Pay What You Decide by cash or card.         
           
-Times: Saturday 30 September 2023, Noon-10pm (*last show starts ~9.30pm*)<br>Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>*NB* with artists located in multiple spaces, and some works having a short duration and/or limited capacity on a first-come first-served basis, you may not get a chance to see everything.          
+Times: Saturday 30 September 2023, Noon-10pm (*last show starts ~9.30pm*).<br>Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>*NB* with artists located in multiple spaces, and some works having a short duration and/or limited capacity on a first-come first-served basis, you may not get a chance to see everything.          
         
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: Live Art and contemporary performance works with varied content.<br>Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>, 0161 274 0600 or <mailto:BoxOffice@contactmcr.com>        
