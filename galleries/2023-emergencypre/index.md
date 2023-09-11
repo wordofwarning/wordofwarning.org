@@ -17,6 +17,7 @@ gallery:
     -   {file: "avital_sohail.jpg", artist: "Raz & Khan"} 
     -   {file: "chrisbrown.jpg", artist: "Chris Brown", show: "<small>by Sophie Broadgate</small>"} 
     -   {file: "egan_pinchbeck.jpg", artist: "Egan & Pinchbeck", show: "<small>by Ai Narapol</small>"} 
+    -   {file: "gillian.jpg", artist: "Gillian Dyson"}
     -   {file: "gisou.jpg", artist: "Gisou Golshani"} 
     -   {file: "gowd.jpg", artist: "GOWD"}
     -   {file: "heatheralice.jpg", artist: "Heather Alice"}
