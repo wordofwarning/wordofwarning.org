@@ -12,9 +12,8 @@ more_link: Emergency 23
 more_url: "../../current/2023-emergency"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "<i>A day out for the curious at Contact, Sat 30 Sep 2023</i> · EM Parry"}
+    -   {file: "titlepage.jpg", artist: "<i>A day out for the curious at Contact, Sat 30 Sep 2023</i> · E.M. Parry"}
     -   {file: "alex.jpg", artist: "Alex Billingham"}
-    -   {file: "avital_sohail.jpg", artist: "Raz & Khan"} 
     -   {file: "chrisbrown.jpg", artist: "Chris Brown", show: "<small>by Sophie Broadgate</small>"} 
     -   {file: "egan_pinchbeck.jpg", artist: "Egan & Pinchbeck", show: "<small>by Ai Narapol</small>"} 
     -   {file: "gillian.jpg", artist: "Gillian Dyson"}
@@ -31,8 +30,8 @@ gallery:
     -   {file: "new_func.jpg", artist: "new func"}
     -   {file: "orla.jpg", artist: "Orla Collier"}
     -   {file: "porcelain.jpg", artist: "Porcelain Delaney"}
+    -   {file: "avital_sohail.jpg", artist: "Raz & Khan"} 
     -   {file: "sweaxtshops.jpg", artist: "Sweætshops®"}
     -   {file: "theresa.jpg", artist: "Theresa Bradbury"}
     -   {file: "victoria.jpg", artist: "Victoria Bone"}
-
 ---
