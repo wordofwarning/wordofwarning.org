@@ -17,11 +17,11 @@ season: "Emergency 30|9|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2023-emergency/#artists) · [details](/current/2023-emergency/#details) · [access](/current/2023-emergency/#access) · [about](/current/2023-emergency/#about) · [credits](/current/2023-emergency/#credits) · [websites](/current/2023-emergency/#websites)</span><br><small>Updated 6 September 2023</small>     
+<span style='font-variant: small-caps'>→ [artists](/current/2023-emergency/#artists) · [details](/current/2023-emergency/#details) · [access](/current/2023-emergency/#access) · [about](/current/2023-emergency/#about) · [credits](/current/2023-emergency/#credits) · [websites](/current/2023-emergency/#websites)</span><br><small>Updated 12 September 2023</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
-Manchester's 23rd micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 30 September, from Noon to 10pm**<br>— with an Afternoon of installations, interventions, and limited capacity works<br>— followed by an Evening full of short shows from 4pm…        
+Manchester's 23rd micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 30 September, from Noon to 10pm**<br>— with an Afternoon of installations, interventions, and limited capacity works<br>— followed by an Evening full of short shows from 4pm…<br>Take a look at some of our [artist's images](/galleries/2023-emergencypre).         
         
 #### Artists         
 **Afternoon, Noon-4pm.**<br>Chris Brown · E.M. Parry · GOWD · Hot Storm Productions · ITZATNA · Kelvin Atmadibrata · Lauren Greer · Louise Ward Morris · Porcelain Delaney · Sweætshops® · Theresa Bradbury · Victoria Bone<br>**Evening, 4pm-10pm.**<br>Alex Billingham · Egan & Pinchbeck · Gillian Dyson · Gisou Golshani · Heather Alice · Jana Aizupe & Company · Kellie Colbert · Laurie Bayley-Higgins · new func · Orla Collier · Raz & Khan        
