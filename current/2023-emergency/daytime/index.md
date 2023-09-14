@@ -1,15 +1,15 @@
 ---
 # CONFIGURATION
-layout: 2022-emergency
+layout: 2023-emergency
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Emergency 22" # the name of the artist or company
-show: "Daytime Programme, Noon-5pm" # the name of the show
+artist: "Emergency 23" # the name of the artist or company
+show: "Afternoon Programme, Noon-4pm" # the name of the show
 artist_size: 1
 show_size: 4
 header_image:  
-season: "Emergency Daytime 1|10|2022, Noon-5pm"
+season: "Emergency Afternoon 30|9|2023, Noon-4pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,15 +17,15 @@ season: "Emergency Daytime 1|10|2022, Noon-5pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 5 Jan 2023</small>     
+<small>Updated 14 Sep 2023</small>     
         
-*Presented by* Word of Warning *+* Contact *in the first half of [Emergency 22](/archive/2022-emergency) — a Daytime of performance installations, one-to-ones, and interventions from Noon to 5pm on Saturday 1 October.*        
+*Presented by* Word of Warning *+* Contact *in the first half of [Emergency 23](/current/2023-emergency) — an Afternoon of installations, interventions, and limited capacity works, from Noon to 4pm on Saturday 30 September.*        
          
-#### Daytime Schedule         
+#### Afternoon Schedule         
 **Noon-1.30pm** Julie Burrow · **Noon-1.40pm** Ursula Troche · **Noon-2pm** Hazel Lam · **Noon-2pm** Tania Camara · **Noon-3pm** kane stonestreet · **Noon-5pm** Clodagh Chapman & James Varney · **Noon-5pm** Malandra Jacks Creative · **Noon-5pm**  Maya Chowdhry · **Noon-5pm** Nicky Murmann · **Noon-5pm** Sweætshops® · **2.30pm-3pm** Charlotte McShane · **3pm-3.20pm** Ran · **3pm-5pm** leon clowes · **3pm-5pm** Nathan Walker<br><small>*Timings and participating artists subject to change.*</small>         
          
-#### Daytime Programme Notes        
-Age Advisory: **16+** (mainly aimed at adults, parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>*NB* some works have limited capacity on a first-come first-served basis.        
+#### Afternoon Programme Notes        
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>*NB* with artists located in multiple spaces, and some works having a short duration and/or limited capacity on a first-come first-served basis, you may not get a chance to see everything.          
 <hr>          
 **Noon-1.30pm** Julie Burrow · *Tumbola*         
           
@@ -158,4 +158,4 @@ Nathan Walker is an artist and writer from West Cumbria; they work across and be
           
 <a href="https://nathan-walker.co.uk" target="_blank">nathan-walker.co.uk</a> · <a href="https://instagram.com/nthn.wlkr" target="_blank">Instagram</a> · <a href="https://twitter.com/nthnwlkr" target="_blank">Twitter</a>         
 <hr>         
-<small><span style='font-variant: small-caps'>[back to top](/archive/2022-emergency/daytime)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/current/2023-emergency/afternoon)</span></small>
