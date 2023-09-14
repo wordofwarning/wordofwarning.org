@@ -1,15 +1,15 @@
 ---
 # CONFIGURATION
-layout: 2022-emergency
+layout: 2023-emergency
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Emergency 22" # the name of the artist or company
-show: "Evening Programme, 5pm-10pm" # the name of the show
+artist: "Emergency 23" # the name of the artist or company
+show: "Evening Programme, 4pm-10pm" # the name of the show
 artist_size: 1
-show_size: 4
+show_size: 5
 header_image:  
-season: "Emergency Evening 1|10|2022, 5pm-10pm"
+season: "Emergency Evening 30|9|2023, 4pm-10pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,15 +17,15 @@ season: "Emergency Evening 1|10|2022, 5pm-10pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 5 Jan 2023</small>     
+<small>Updated 14 Sep 2023</small>     
         
-*Presented by* Word of Warning *+* Contact *in the second half of [Emergency 22](/archive/2022-emergency) — an Evening full of short shows from 5pm to 10pm on Saturday 1 October.*        
+*Presented by* Word of Warning *+* Contact *in the second half of [Emergency 23](/current/2023-emergency) — an Evening full of short shows from 5pm to 10pm on Saturday 30 September.*        
          
 #### Evening Schedule         
-**5pm** DNA Studio · **5.30pm** Jian Yi · **6pm** Kerensa Diball · **6.30pm** Christian Asare · **7pm** Bold Mellon Collective · **7.30pm** *Interval* · **8pm** Emergency Chorus · **8.30pm** Josh Coates & Alicia Jane Turner · **9pm** Kellie Colbert · **9.30pm** Bitterroot<br><small>*Timings and participating artists subject to change.*</small>         
+**4pm**  · **4.30pm** · **5pm**  · **5.30pm** · **6pm** · **6.30pm** · **7pm** · **7.30pm** *Interval* · **8pm** · **8.30pm** · **9pm** · **9.30pm** <br><small>*Timings and participating artists subject to change.*</small>         
          
 #### Evening Programme Notes        
-Age Advisory: **16+** (mainly aimed at adults, parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>*NB* some works have limited capacity on a first-come first-served basis.        
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>*NB* with artists located in multiple spaces, and some works having a limited capacity on a first-come first-served basis, you may not get a chance to see everything.        
 <hr>         
 **5pm** DNA Studio · *955 ≤ 996*         
          
