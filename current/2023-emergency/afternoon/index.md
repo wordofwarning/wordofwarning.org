@@ -52,5 +52,15 @@ Performers: Riley Hamshaw-Mills & Benji Paget. Special Thanks to Jane.
 GOWD is an art collective of theatre-makers that strive to create new and experimental/post-dramatic works of visual art spanning from performance art to contemporary theatre. Formed by three recent alumni of Kingston University, it is freely open for anyone to get involved. Its goal is to be a warm and supportive environment for any experimental artist to grow and evolve in, regardless of qualification or background.          
           
 <a href="https://instagram.com/rambunccc" target="_blank">Insta rambunccc</a> · <a href="https://instagram.com/beboptheatre" target="_blank">Insta beboptheatre</a>         
-<hr>
+<hr>         
+**Noon-4pm** Hot Storm Productions · *Cold reading booth*         
+        
+What are the implications of attaching meaning to seemingly insignificant events?<br>Are we naturally inclined to accept interpretations without concrete evidence?<br>And if we do so here, where else might we be doing the same?<br>An immersive introduction to the world of cold readings, delving into the realms of chance, mystery, and human perception.         
+         
+Created & developed with help from the Liam Byrne Award; additional ideas and material contributed by Dr Ian Angus Wilkie & Dr Jo Scott at the University of Salford.         
+         
+Tom Short (Hot Storm Productions) is a trained clown and improviser who creates work that challenges the boundaries of genre and is inquisitive about human perception and authenticity. Chortle Student Comedian of the Year in 2019, and runner up at Edinburgh Fringe, his latest work *The Stand-up Horror Show* debuted at the Fringe in 2023 to 4★ reviews.         
+         
+<a href="" target="_blank"></a> · <a href="https://facebook.com/HotStormProductions" target="_blank">Fb HotStormProductions</a> · <a href="https://instagram.com/hotstormproductions" target="_blank">In hotstormproductions</a> · <a href="https://twitter.com/HotStormEnt" target="_blank">X @HotStormEnt</a>         
+<hr>         
 <small><span style='font-variant: small-caps'>[back to top](/current/2023-emergency/afternoon)</span></small>
