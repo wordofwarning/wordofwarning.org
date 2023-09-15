@@ -22,7 +22,7 @@ season: "Emergency Afternoon 30|9|2023, Noon-4pm"
 *Presented by* Word of Warning *+* Contact *in the first half of [Emergency 23](/current/2023-emergency)<br>— an Afternoon of installations, interventions, and limited capacity works*        
          
 #### Afternoon Schedule         
-Saturday 30 September 2023<br>**Noon-3pm** Lauren Greer · **Noon-4pm** E.M. Parry · **Noon-4pm** GOWD · **Noon-4pm** Hot Storm Productions · **Noon-4pm** ITZATNA · **Noon-4pm** Louise Ward Morris · **12.30pm** Kelvin Atmadibrata · **12.30pm-2.30pm** Sweætshops® · **1pm / 2pm / 3pm** Porcelain Delaney · **1pm-4pm** Theresa Bradbury · **1.30pm** Chris Brown · **2.30pm** Victoria Bone<br><small>*Timings are approximate and participating artists subject to change.*</small>         
+Saturday 30 September 2023<br>**Noon-3pm** Lauren Greer · **Noon-4pm** E.M. Parry · **Noon-4pm** GOWD · **Noon-4pm** Hot Storm Productions · **Noon-4pm** ITZATNA · **Noon-4pm** Louise Ward Morris · **12.30pm** Kelvin Atmadibrata · **12.30pm-2.30pm** Sweætshops® · **1pm**/**2pm**/**3pm** Porcelain Delaney · **1pm-4pm** Theresa Bradbury · **1.30pm** Chris Brown · **2.30pm** Victoria Bone<br><small>*Timings are approximate and participating artists subject to change.*</small>         
          
 #### Afternoon Programme Notes        
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some Afternoon works may disturb, please click [here](/warnings).<br>*NB* with Afternoon artists located in multiple spaces, and some Afternoon works having a short duration and/or limited capacity on a first-come first-served basis, you may not get a chance to see everything.          
