@@ -17,15 +17,15 @@ season: "Emergency Afternoon 30|9|2023, Noon-4pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 14 Sep 2023</small>     
+<small>Updated 15 Sep 2023</small>     
         
-*Presented by* Word of Warning *+* Contact *in the first half of [Emergency 23](/current/2023-emergency) — an Afternoon of installations, interventions, and limited capacity works, from Noon to 4pm on Saturday 30 September.*        
+*Presented by* Word of Warning *+* Contact *in the first half of [Emergency 23](/current/2023-emergency)<br>— an Afternoon of installations, interventions, and limited capacity works*        
          
 #### Afternoon Schedule         
-**Noon-1.30pm** Julie Burrow · **Noon-1.40pm** Ursula Troche · **Noon-2pm** Hazel Lam · **Noon-2pm** Tania Camara · **Noon-3pm** kane stonestreet · **Noon-5pm** Clodagh Chapman & James Varney · **Noon-5pm** Malandra Jacks Creative · **Noon-5pm**  Maya Chowdhry · **Noon-5pm** Nicky Murmann · **Noon-5pm** Sweætshops® · **2.30pm-3pm** Charlotte McShane · **3pm-3.20pm** Ran · **3pm-5pm** leon clowes · **3pm-5pm** Nathan Walker<br><small>*Timings and participating artists subject to change.*</small>         
+Saturday 30 September 2023, Noon-4pm<br>**Noon-1.30pm** Julie Burrow · **Noon-1.40pm** Ursula Troche · **Noon-2pm** Hazel Lam · **Noon-2pm** Tania Camara · **Noon-3pm** kane stonestreet · **Noon-5pm** Clodagh Chapman & James Varney · **Noon-5pm** Malandra Jacks Creative · **Noon-5pm**  Maya Chowdhry · **Noon-5pm** Nicky Murmann · **Noon-5pm** Sweætshops® · **2.30pm-3pm** Charlotte McShane · **3pm-3.20pm** Ran · **3pm-5pm** leon clowes · **3pm-5pm** Nathan Walker<br><small>*Timings and participating artists subject to change.*</small>         
          
 #### Afternoon Programme Notes        
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>*NB* with artists located in multiple spaces, and some works having a short duration and/or limited capacity on a first-come first-served basis, you may not get a chance to see everything.          
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>*NB* with Afternoon artists located in multiple spaces, and some Afternoon works having a short duration and/or limited capacity on a first-come first-served basis, you may not get a chance to see everything.          
 <hr>          
 **Noon-1.30pm** Julie Burrow · *Tumbola*         
           
