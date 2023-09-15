@@ -79,6 +79,14 @@ Generously funded by CuratorSpace & ClassRoom Gallery.
          
 Louise Ward Morris is an award-winning sculptor working with new media and videos. Her work questions the ever-intensifying connection between people, technology, and the environment.          
           
-<a href="https://wardmorris.com" target="_blank">https://wardmorris.com</a> · <a href="https://instagram.com/l.ward.morris" target="_blank">Insta l.ward.morris</a>         
+<a href="https://wardmorris.com" target="_blank">wardmorris.com</a> · <a href="https://instagram.com/l.ward.morris" target="_blank">Insta l.ward.morris</a>         
 <hr>          
+**12.30pm** Kelvin Atmadibrata · *His Fishies Friends Are Sticking Around*         
+         
+*Easy to see why he received the anglers' apotheosis.*        
+          
+Kelvin Atmadibrata recruits superpowers awakened by puberty and adolescent fantasy, personifying power and strength into fanfiction antiheroes to contest the masculine meta and erotica. He works primarily with performances, often accompanied by and translated into drawings, mixed media collages, and objects compiled as installations. Approached as bricolages, Kelvin translates narratives and recreates personifications based on role-playing video game theories and pop mythologies.         
+         
+<a href="https://kelvinatmadibrata.com" target="_blank">kelvinatmadibrata.com</a> · <a href="https://facebook.com/kelvin.atmadibrata" target="_blank">Fb kelvin.atmadibrata</a> · <a href="https://instagram.com/kelvinatmadibrata" target="_blank">Insta kelvinatmadibrata</a>         
+<hr>         
 <small><span style='font-variant: small-caps'>[back to top](/current/2023-emergency/afternoon)</span></small>
