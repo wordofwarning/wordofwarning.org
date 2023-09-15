@@ -33,7 +33,7 @@ Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Conten
         
 Lauren Greer is a Northern Irish, working-class artist currently residing in Manchester. She is a theatre-maker, writer, collaborator, and creative learning practitioner; with a deep belief in the transformative power of the arts in being an educational tool, promoting wellbeing, connecting humans, and  upskilling young people. Whilst her performance work often evolves from a P/political stimulus, she is currently exploring the convergence of her identity with ritual and taboo.        
         
-<a href="https://msha.ke/laurengreerperformanceartist" target="_blank">msha.ke/laurengreerperformanceartist</a> · <a href="https://instagram.com/_i_am_lauren_g_" target="_blank">Insta \_i\_am\_lauren\_g\_</a> · <a href="https://twitter.com/_i_am_lauren_g_" target="_blank">X @\_i\_am\_lauren\_g\_</a>          
+<a href="https://msha.ke/laurengreerperformanceartist" target="_blank">msha.ke/laurengreerperformanceartist</a> · <a href="https://instagram.com/_i_am_lauren_g_" target="_blank">Insta \_i\_am\_lauren\_g\_</a> · <a href="https://twitter.com/_i_am_lauren_g_" target="_blank">@\_i\_am\_lauren\_g\_</a>          
 <hr>         
 **Noon-4pm** E.M. Parry · *Pricklings*          
          
@@ -41,7 +41,7 @@ Lauren Greer is a Northern Irish, working-class artist currently residing in Man
          
 E.M. Parry is a trans\*-disciplinary artist, designer, and performance-maker, working across scenography, drag, live & visual art, specialising in work which centres queer bodies and narratives. Flitting between genres and platforms, their work has been staged in the West End, international opera stages, pubs, clubs, cabarets, ships, lecture halls, and leaky basements. They work with, through, and for the queer body, squinting at history, flirting with ghosts and the things that go bump in the margins.           
             
-<a href="https://emparry.com" target="_blank">emparry.com</a> · <a href="https://instagram.com/e_m_parry" target="_blank">Insta e\_m\_parry</a> · <a href="https://twitter.com/e_m_parry" target="_blank">X @e\_m\_parry</a>         
+<a href="https://emparry.com" target="_blank">emparry.com</a> · <a href="https://instagram.com/e_m_parry" target="_blank">Insta e\_m\_parry</a> · <a href="https://twitter.com/e_m_parry" target="_blank">@e\_m\_parry</a>         
 <hr>         
 **Noon-4pm** GOWD · *fleaBalls*         
          
@@ -55,12 +55,30 @@ GOWD is an art collective of theatre-makers that strive to create new and experi
 <hr>         
 **Noon-4pm** Hot Storm Productions · *Cold reading booth*         
         
-What are the implications of attaching meaning to seemingly insignificant events?<br>Are we naturally inclined to accept interpretations without concrete evidence?<br>And if we do so here, where else might we be doing the same?<br>An immersive introduction to the world of cold readings, delving into the realms of chance, mystery, and human perception.         
+*What are the implications of attaching meaning to seemingly insignificant events?<br>Are we naturally inclined to accept interpretations without concrete evidence?<br>And if we do so here, where else might we be doing the same?*<br>An immersive introduction to the world of cold readings, delving into the realms of chance, mystery, and human perception.         
          
-Created & developed with help from the Liam Byrne Award; additional ideas and material contributed by Dr Ian Angus Wilkie & Dr Jo Scott at the University of Salford.         
+Created & developed with help from the Liam Byrne Award; additional ideas & material contributed by Dr Ian Angus Wilkie & Dr Jo Scott at the University of Salford.         
          
 Tom Short (Hot Storm Productions) is a trained clown and improviser who creates work that challenges the boundaries of genre and is inquisitive about human perception and authenticity. Chortle Student Comedian of the Year in 2019, and runner up at Edinburgh Fringe, his latest work *The Stand-up Horror Show* debuted at the Fringe in 2023 to 4★ reviews.         
          
-<a href="" target="_blank"></a> · <a href="https://facebook.com/HotStormProductions" target="_blank">Fb HotStormProductions</a> · <a href="https://instagram.com/hotstormproductions" target="_blank">In hotstormproductions</a> · <a href="https://twitter.com/HotStormEnt" target="_blank">X @HotStormEnt</a>         
+<a href="https://facebook.com/HotStormProductions" target="_blank">Fb HotStormProductions</a> · <a href="https://instagram.com/hotstormproductions" target="_blank">Insta hotstormproductions</a> · <a href="https://twitter.com/HotStormEnt" target="_blank">@HotStormEnt</a>         
 <hr>         
+**Noon-4pm** ITZATNA · *RIO BRAVO (Wet/Ones)*         
+         
+A Live Art ritual inspired by post-colonial journeys of Latin American migrants swimming across the US-Mexico border of the Rio Grande.          
+         
+ITZATNA Arts is an emerging artist collective based in the Midlands that creates cross-cultural collaborations between artists and diaspora communities between Mexico, Latin America, and the UK. Founded by the father-son artist duo Alfredo Hau (visual artist, writer, professional chef) & Sebas Hau (live artist & creative producer), ITZATNA cultivates radical, decolonial, and cross-disciplinary approaches to creating cutting-edge projects that combine visual, community, culinary, and live art to create unique experiences for all ages.          
+         
+<a href="https://itzatna.org" target="_blank">itzatna.org</a> · <a href="https://facebook.com/itzatna.arts" target="_blank">Fb itzatna.arts</a> · <a href="https://instagram.com/itzatna.arts" target="_blank">Insta itzatna.arts</a> · <a href="https://twitter.com/itzatna_arts" target="_blank">@itzatna\_arts</a>         
+<hr>         
+**Noon-4pm** Louise Ward Morris · *You and I*         
+         
+Technology is our established method for perceiving the world. In turn, our technology becomes ourselves and our world. *You and I* investigates the alternative forms of perception and embodiment that can evolve from a modification of this relationship using VR & YouTube. This Live Art piece creates the experience of real life through the glitchy nuances of the internet.         
+       
+Generously funded by CuratorSpace & ClassRoom Gallery.         
+         
+Louise Ward Morris is an award-winning sculptor working with new media and videos. Her work questions the ever-intensifying connection between people, technology, and the environment.          
+          
+<a href="https://wardmorris.com" target="_blank">https://wardmorris.com</a> · <a href="https://instagram.com/l.ward.morris" target="_blank">Insta l.ward.morris</a>         
+<hr>          
 <small><span style='font-variant: small-caps'>[back to top](/current/2023-emergency/afternoon)</span></small>
