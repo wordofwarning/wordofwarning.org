@@ -33,7 +33,7 @@ Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Conten
         
 Lauren Greer is a Northern Irish, working-class artist currently residing in Manchester. She is a theatre-maker, writer, collaborator, and creative learning practitioner; with a deep belief in the transformative power of the arts in being an educational tool, promoting wellbeing, connecting humans, and  upskilling young people. Whilst her performance work often evolves from a P/political stimulus, she is currently exploring the convergence of her identity with ritual and taboo.        
         
-<a href="https://msha.ke/laurengreerperformanceartist" target="_blank">msha.ke/laurengreerperformanceartist</a> · <a href="https://instagram.com/_i_am_lauren_g_" target="_blank">Insta _i_am_lauren_g_</a> · <a href="https://twitter.com/_i_am_lauren_g_" target="_blank">X @_i_am_lauren_g_</a>          
+<a href="https://msha.ke/laurengreerperformanceartist" target="_blank">msha.ke/laurengreerperformanceartist</a> · <a href="https://instagram.com/_i_am_lauren_g_" target="_blank">Insta \_i\_am\_lauren\_g\_</a> · <a href="https://twitter.com/_i_am_lauren_g_" target="_blank">X @\_i\_am\_lauren\_g\_</a>          
 <hr>         
 **Noon-4pm** E.M. Parry · *Pricklings*          
          
@@ -41,7 +41,7 @@ Lauren Greer is a Northern Irish, working-class artist currently residing in Man
          
 E.M. Parry is a trans\*-disciplinary artist, designer, and performance-maker, working across scenography, drag, live & visual art, specialising in work which centres queer bodies and narratives. Flitting between genres and platforms, their work has been staged in the West End, international opera stages, pubs, clubs, cabarets, ships, lecture halls, and leaky basements. They work with, through, and for the queer body, squinting at history, flirting with ghosts and the things that go bump in the margins.           
             
-<a href="https://emparry.com" target="_blank">emparry.com</a> · <a href="https://instagram.com/e_m_parry" target="_blank">Insta e_m_parry</a> · <a href="https://twitter.com/e_m_parry" target="_blank">X @e_m_parry</a>         
+<a href="https://emparry.com" target="_blank">emparry.com</a> · <a href="https://instagram.com/e_m_parry" target="_blank">Insta e\_m\_parry</a> · <a href="https://twitter.com/e_m_parry" target="_blank">X @e\_m\_parry</a>         
 <hr>         
 **Noon-4pm** GOWD · *fleaBalls*         
          
