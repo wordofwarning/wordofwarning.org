@@ -22,10 +22,10 @@ season: "Emergency Afternoon 30|9|2023, Noon-4pm"
 *Presented by* Word of Warning *+* Contact *in the first half of [Emergency 23](/current/2023-emergency)<br>— an Afternoon of installations, interventions, and limited capacity works*        
          
 #### Afternoon Schedule         
-Saturday 30 September 2023, Noon-4pm<br>**Noon-1.30pm** Julie Burrow · **Noon-1.40pm** Ursula Troche · **Noon-2pm** Hazel Lam · **Noon-2pm** Tania Camara · **Noon-3pm** kane stonestreet · **Noon-5pm** Clodagh Chapman & James Varney · **Noon-5pm** Malandra Jacks Creative · **Noon-5pm**  Maya Chowdhry · **Noon-5pm** Nicky Murmann · **Noon-5pm** Sweætshops® · **2.30pm-3pm** Charlotte McShane · **3pm-3.20pm** Ran · **3pm-5pm** leon clowes · **3pm-5pm** Nathan Walker<br><small>*Timings and participating artists subject to change.*</small>         
+Saturday 30 September 2023<br>**Noon-3pm** Lauren Greer · **Noon-4pm** E.M. Parry · **Noon-4pm** GOWD · **Noon-4pm** Hot Storm Productions · **Noon-4pm** ITZATNA · **Noon-4pm** Louise Ward Morris · **12.30pm** Kelvin Atmadibrata · **12.30pm-2.30pm** Sweætshops® · **1pm / 2pm / 3pm** Porcelain Delaney · **1pm-4pm** Theresa Bradbury · **1.30pm** Chris Brown · **2.30pm** Victoria Bone<br><small>*Timings are approximate and participating artists subject to change.*</small>         
          
 #### Afternoon Programme Notes        
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>*NB* with Afternoon artists located in multiple spaces, and some Afternoon works having a short duration and/or limited capacity on a first-come first-served basis, you may not get a chance to see everything.          
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some Afternoon works may disturb, please click [here](/warnings).<br>*NB* with Afternoon artists located in multiple spaces, and some Afternoon works having a short duration and/or limited capacity on a first-come first-served basis, you may not get a chance to see everything.          
 <hr>          
 **Noon-1.30pm** Julie Burrow · *Tumbola*         
           
