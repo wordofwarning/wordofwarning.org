@@ -17,7 +17,7 @@ season: "Emergency Afternoon 30|9|2023, Noon-4pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 19 Sep 2023</small>     
+<small>Updated 19 September 2023</small>     
         
 *Presented by* Word of Warning *+* Contact *in the first half of [Emergency 23](/current/2023-emergency)<br>— an Afternoon of installations, interventions, and limited capacity works*        
          
