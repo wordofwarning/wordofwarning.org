@@ -17,17 +17,18 @@ season: "Emergency 30|9|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2023-emergency/#artists) · [details](/current/2023-emergency/#details) · [access](/current/2023-emergency/#access) · [about](/current/2023-emergency/#about) · [credits](/current/2023-emergency/#credits) · [websites](/current/2023-emergency/#websites)</span><br><small>Updated 13 September 2023</small>     
+<span style='font-variant: small-caps'>→ [artists](/current/2023-emergency/#artists) · [details](/current/2023-emergency/#details) · [access](/current/2023-emergency/#access) · [about](/current/2023-emergency/#about) · [credits](/current/2023-emergency/#credits) · [websites](/current/2023-emergency/#websites)</span><br><small>Updated 19 September 2023</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
 Manchester's 23rd micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 30 September, from Noon to 10pm**:<br>— with an Afternoon of installations, interventions, and limited capacity works<br>— followed by an Evening full of short shows from 4pm…<br>Take a look at some of our [artist's images](/galleries/2023-emergencypre).          
          
-*REJOICE! REPENT! IMBIBE! INDULGE!<br>My body is a temple, my body is a latrine.<br>Body meeting material, a pincushion archive, raw with SALT: will we ever heal?<br>Boxed in and neglected, immersed in a small world.<br>She's hysterical, she's insane.<br>A space to pause. A place to reflect. A place you shouldn't neglect.<br>Slowness and tension with a siren's call.<br>Swimming across the border of the Rio Grande…<br>That was the kind of wind it was: the anglers' apotheosis.<br>Real life with the glitchy nuances of the internet, electronic soundscaping traditional Persian song.<br>Chance, mystery, and human perception, two crisp packets racing for the line.<br>A movement to narrate and connect.<br>Painting becomes music, music becomes theatre, people become performers.<br>A real no-hander!*        
+*My body is a temple, my body is a latrine.<br>Body meeting material, a pincushion archive, raw with SALT: will we ever heal?<br>Boxed in and neglected, immersed in a small world.<br>She's hysterical, she's insane.<br>A space to pause. A place to reflect. A place you shouldn't neglect.<br>Slowness and tension with a siren's call.<br>Swimming across the border of the Rio Grande…<br>That was the kind of wind it was: the anglers' apotheosis.<br>Real life with the glitchy nuances of the internet, electronic soundscaping traditional Persian song.<br>Chance, mystery, and human perception, two crisp packets racing for the line.<br>A movement to narrate and connect.<br>Painting becomes music, music becomes theatre, people become performers.<br>A real no-hander!*        
         
 #### Artists         
-**Afternoon, Noon-4pm.**<br>Chris Brown · E.M. Parry · GOWD · Hot Storm Productions · ITZATNA · Kelvin Atmadibrata · Lauren Greer · Louise Ward Morris · Porcelain Delaney · Sweætshops® · Theresa Bradbury · Victoria Bone<br>**Evening, 4pm-10pm.**<br>Alex Billingham · Egan & Pinchbeck · Gillian Dyson · Gisou Golshani · Heather Alice · Jana Aizupe & Company · Kellie Colbert · Laurie Bayley-Higgins · new func · Orla Collier · Raz & Khan        
-<small>*Participating artists subject to change.*</small>        
+**Afternoon, Noon-4pm.**<br>Chris Brown · E.M. Parry · GOWD · Hot Storm Productions · ITZATNA · Kelvin Atmadibrata · Lauren Greer · Louise Ward Morris · Luisa Amorim · Porcelain Delaney · Theresa Bradbury · Victoria Bone         
+**Evening, 4pm-10pm.**<br>Alex Billingham · Chris Brown · Egan & Pinchbeck · Gillian Dyson · Gisou Golshani · Heather Alice · Jana Aizupe & Company · Kellie Colbert · Laurie Bayley-Higgins · new func · Orla Collier · Raz & Khan        
+<small>*Participating artists subject to change; Sweætshops® unable to perform.*</small>        
           
 #### Details         
 Entry: no need to book, just turn up and Pay What You Decide by cash or card.         
