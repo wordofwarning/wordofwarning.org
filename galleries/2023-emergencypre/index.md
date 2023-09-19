@@ -31,7 +31,6 @@ gallery:
     -   {file: "orla.jpg", artist: "Orla Collier"}
     -   {file: "porcelain.jpg", artist: "Porcelain Delaney"}
     -   {file: "avital_sohail.jpg", artist: "Raz & Khan"} 
-    -   {file: "sweaxtshops.jpg", artist: "Sweætshops®"}
     -   {file: "theresa.jpg", artist: "Theresa Bradbury"}
     -   {file: "victoria.jpg", artist: "Victoria Bone"}
 ---
