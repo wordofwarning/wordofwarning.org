@@ -93,13 +93,13 @@ Kelvin Atmadibrata recruits superpowers awakened by puberty and adolescent fanta
         
 *Traditional gender roles are still prevalent in our society, especially in a domestic environment. Women are still expected to put their careers on hold to raise children and spend more extra hours on household or childcare than men. Women keep doing the majority of the invisible work and Idleness is about that. It is also about the quest for alternative forms of communication, such as body movement, and sounds other than the articulated word.*<br>A sensorial show in a loop. A game of movement and sound that invites you to go on a trip through a woman's baby blues and her everyday life.        
         
-Luisa Amorim is a performance maker based in London and the curator of Discotheque. She spent a long time experimenting on dramatising the quotidian through participatory work.<br>Jadelin Gangbo is a novelist, published in Italy and Poland and about to have his first novel written in English published.<br>Simon Engerer is a handyman and expert in a bit of everything; back in Berlin, he was working as a music engineer.        
+Luisa Amorim is a performance-maker based in London and the curator of Discotheque. She spent a long time experimenting on dramatising the quotidian through participatory work.<br>Jadelin Gangbo is a novelist, published in Italy and Poland and about to have his first novel written in English published.<br>Simon Engerer is a handyman and expert in a bit of everything; back in Berlin, he was working as a music engineer.        
         
 <a href="https://instagram.com/lousapage" target="_blank">Insta lousapage</a>        
 <hr>         
 **1pm**/**2pm**/**3pm** Porcelain Delaney · *Parade of The Disregarded*         
          
-An urgent and timely story in three acts; a contemporary movement-performance inspired by ballet *The parade* as a personal response to how disabled people were treated during the pandemic. In the first act the character is happy, joyful, and free, dancing outside of the box; in the second she is trapped in the box and battles confusion, rage, and hopelessness; act three is celebratory and eerie as she is finally free to leave.         
+An urgent and timely story in three acts; a contemporary movement-performance inspired by ballet *The parade* as a personal response to how disabled people were treated during the pandemic.<br>In the first act the character is happy, joyful, and free, dancing outside of the box; in the second she is trapped in the box and battles confusion, rage, and hopelessness; act three is celebratory and eerie as she is finally free to leave.         
          
 Originally created for the anniversary of the DaDa Movement as part of WAIWAV with Dash Arts, Tate Plus Gallery, The Golden Thread Gallery Belfast.         
        
@@ -107,4 +107,12 @@ Porcelain Delaney is a disabled multi-disciplinary artist & theatre-maker, passi
          
 <a href="https://facebook.com/PorcelainDancer" target="_blank">Fb PorcelainDancer</a> · <a href="https://instagram.com/porcelaindelaneyy" target="_blank">Insta porcelaindelaneyy</a> · <a href="https://twitter.com/PorcelainDel" target="_blank">@PorcelainDel</a>         
 <hr>         
+**1pm-4pm** Theresa Bradbury · *A Mirror Folded Back on Itself*         
+         
+Unfired porcelain vulvas depict the female body as fragmented; the performance explores ideas regarding expectations and boundaries. A denial of patriarchal femininity, the work is to be crushed and destroyed upon her body. The disruption of femininity as prescribed through a patriarchal lens. The work explores dematerialisation, the destruction and indeterminacy of the objects, the transformation as performative. The performance represents the destruction of the artificial construction of gender within a patriarchal society. The work invites the audience to engage with and reflect upon an evolving disruption. The destructive element of the work relates to the unstable nature of femininity, as performative, rather than given or fixed. The eradication of the vulvas as enacting a transformation.  The act of elimination is an investigation into becoming unrestricted by the politics of acts. To investigate the idea of obliteration as a liberating and potentially progressive act, and to utilise destruction to interrogate and question social, political, and cultural codes.         
+          
+Theresa Bradbury graduated from Nottingham Trent University with a Distinction in MFA Fine Art and was selected as a recipient of the School of Art & Design Scholarship Award. She has exhibited and performed widely, most recently at New Art Gallery, Wolverhampton Art Gallery, Nottingham Contemporary, G39, NN Contemporary, Ovalhouse, The Yard Theatre, Anise Gallery, Primary. Her practice encompasses Live Art, photography, film, sculpture, and has a specialist focus on feminist theory.          
+       
+<a href="https://axisweb.org/p/theresabradbury" target="_blank">axisweb.org/p/theresabradbury</a> · <a href="https://instagram.com/theresabradbury_" target="_blank">Insta @theresabradbury_</a>         
+<hr>          
 <small><span style='font-variant: small-caps'>[back to top](/current/2023-emergency/afternoon)</span></small>
