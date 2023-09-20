@@ -83,10 +83,28 @@ Louise Ward Morris is an award-winning sculptor working with new media and video
 <hr>          
 **12.30pm** Kelvin Atmadibrata · *His Fishies Friends Are Sticking Around*         
          
-*Easy to see why he received the anglers' apotheosis.*        
+Easy to see why he received the anglers' apotheosis.        
           
 Kelvin Atmadibrata recruits superpowers awakened by puberty and adolescent fantasy, personifying power and strength into fanfiction antiheroes to contest the masculine meta and erotica. He works primarily with performances, often accompanied by and translated into drawings, mixed media collages, and objects compiled as installations. Approached as bricolages, Kelvin translates narratives and recreates personifications based on role-playing video game theories and pop mythologies.         
          
 <a href="https://kelvinatmadibrata.com" target="_blank">kelvinatmadibrata.com</a> · <a href="https://facebook.com/kelvin.atmadibrata" target="_blank">Fb kelvin.atmadibrata</a> · <a href="https://instagram.com/kelvinatmadibrata" target="_blank">Insta kelvinatmadibrata</a>         
+<hr>        
+**12.30pm-2.30pm** Luisa Amorim · *Idleness*        
+        
+*Traditional gender roles are still prevalent in our society, especially in a domestic environment. Women are still expected to put their careers on hold to raise children and spend more extra hours on household or childcare than men. Women keep doing the majority of the invisible work and Idleness is about that. It is also about the quest for alternative forms of communication, such as body movement, and sounds other than the articulated word.*<br>A sensorial show in a loop. A game of movement and sound that invites you to go on a trip through a woman's baby blues and her everyday life.        
+        
+Luisa Amorim is a performance maker based in London and the curator of Discotheque. She spent a long time experimenting on dramatising the quotidian through participatory work.<br>Jadelin Gangbo is a novelist, published in Italy and Poland and about to have his first novel written in English published.<br>Simon Engerer is a handyman and expert in a bit of everything; back in Berlin, he was working as a music engineer.        
+        
+<a href="https://instagram.com/lousapage" target="_blank">Insta lousapage</a>        
+<hr>         
+**1pm**/**2pm**/**3pm** Porcelain Delaney · *Parade of The Disregarded*         
+         
+An urgent and timely story in three acts; a contemporary movement-performance inspired by ballet *The parade* as a personal response to how disabled people were treated during the pandemic. In the first act the character is happy, joyful, and free, dancing outside of the box; in the second she is trapped in the box and battles confusion, rage, and hopelessness; act three is celebratory and eerie as she is finally free to leave.         
+         
+Originally created for the anniversary of the DaDa Movement as part of WAIWAV with Dash Arts, Tate Plus Gallery, The Golden Thread Gallery Belfast.         
+       
+Porcelain Delaney is a disabled multi-disciplinary artist & theatre-maker, passionate about sharing representative stories. A DaDa Fest Fellow, Graeae & Soho Writer Lab Alumna, and DANC Ambassador, she works across genres including: theatre, literature, circus, cabaret, dance. Her cabaret acts have headlined internationally from Paris to Dubai.         
+         
+<a href="https://facebook.com/PorcelainDancer" target="_blank">Fb PorcelainDancer</a> · <a href="https://instagram.com/porcelaindelaneyy" target="_blank">Insta porcelaindelaneyy</a> · <a href="https://twitter.com/PorcelainDel" target="_blank">@PorcelainDel</a>         
 <hr>         
 <small><span style='font-variant: small-caps'>[back to top](/current/2023-emergency/afternoon)</span></small>
