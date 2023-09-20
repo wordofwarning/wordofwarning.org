@@ -27,6 +27,7 @@ gallery:
     -   {file: "lauren.jpg", artist: "Lauren Greer"}
     -   {file: "laurie.jpg", artist: "Laurie Bayley-Higgins"}
     -   {file: "louise.jpg", artist: "Louise Ward Morris"}
+    -   {file: "luisa.jpg", artist: "Luisa Amorim"}
     -   {file: "new_func.jpg", artist: "new func"}
     -   {file: "orla.jpg", artist: "Orla Collier"}
     -   {file: "porcelain.jpg", artist: "Porcelain Delaney"}
