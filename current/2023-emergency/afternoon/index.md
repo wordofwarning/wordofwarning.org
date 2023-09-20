@@ -89,10 +89,12 @@ Kelvin Atmadibrata recruits superpowers awakened by puberty and adolescent fanta
          
 <a href="https://kelvinatmadibrata.com" target="_blank">kelvinatmadibrata.com</a> · <a href="https://facebook.com/kelvin.atmadibrata" target="_blank">Fb kelvin.atmadibrata</a> · <a href="https://instagram.com/kelvinatmadibrata" target="_blank">Insta kelvinatmadibrata</a>         
 <hr>        
-**12.30pm-2.30pm** Luisa Amorim · *Idleness*        
+**12.30pm-2.30pm** Luisa Amorim · *Idleness (durational)*        
         
-*Traditional gender roles are still prevalent in our society, especially in a domestic environment. Women are still expected to put their careers on hold to raise children and spend more extra hours on household or childcare than men. Women keep doing the majority of the invisible work and Idleness is about that. It is also about the quest for alternative forms of communication, such as body movement, and sounds other than the articulated word.*<br>A sensorial show in a loop. A game of movement and sound that invites you to go on a trip through a woman's baby blues and her everyday life.        
+Although gender roles are constantly being challenged, some old traditions still persist in our society.<br>In the domestic environment, women are still expected to put their careers on hold to raise children. Working women often put more extra hours on household or childcare than working men. Women keep doing the majority of the invisible work and *Idleness* is about that. It is also about the difficulty in expressing that. It is a quest for alternative forms of communication, such as body movement and sounds other than the articulated word.<br>A sensorial journey through a woman's baby blues and her everyday life.             
         
+A show by Luisa Amorim, with Jadelin Gangbo, Simon Engerer, Zoe Tsaff.         
+         
 Luisa Amorim is a performance-maker based in London and the curator of Discotheque. She spent a long time experimenting on dramatising the quotidian through participatory work.<br>Jadelin Gangbo is a novelist, published in Italy and Poland and about to have his first novel written in English published.<br>Simon Engerer is a handyman and expert in a bit of everything; back in Berlin, he was working as a music engineer.        
         
 <a href="https://instagram.com/lousapage" target="_blank">Insta lousapage</a>        
