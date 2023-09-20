@@ -22,7 +22,7 @@ season: "Emergency Afternoon 30|9|2023, Noon-4pm"
 *Presented by* Word of Warning *+* Contact *in the first half of [Emergency 23](/current/2023-emergency)<br>— an Afternoon of installations, interventions, and limited capacity works*        
          
 #### Afternoon Schedule         
-Saturday 30 September 2023<br>**Noon-3pm** Lauren Greer · **Noon-4pm** E.M. Parry · **Noon-4pm** GOWD · **Noon-4pm** Hot Storm Productions · **Noon-4pm** ITZATNA · **Noon-4pm** Louise Ward Morris · **12.30pm** Kelvin Atmadibrata · **12.30pm-2.30pm** Luisa Amorim · **1pm**/**2pm**/**3pm** Porcelain Delaney · **1pm-4pm** Theresa Bradbury · **1.30pm** Chris Brown · **2.30pm** Victoria Bone<br><small>*Timings approximate & subject to change; participating artists subject to change; Sweætshops® unable to perform.*</small>         
+Saturday 30 September 2023<br>**Noon-3pm** Lauren Greer · **Noon-4pm** E.M. Parry · **Noon-4pm** GOWD · **Noon-4pm** Hot Storm Productions · **Noon-4pm** ITZATNA · **Noon-4pm** Louise Ward Morris · **12.30pm** Kelvin Atmadibrata · **12.30pm-2.30pm** Luisa Amorim · **1pm**/**2pm**/**3pm** Porcelain Delaney · **1pm-4pm** Theresa Bradbury · **1.30pm-2.30pm** Chris Brown · **2.30pm** Victoria Bone<br><small>*Timings approximate & subject to change; participating artists subject to change; Sweætshops® unable to perform.*</small>         
          
 #### Afternoon Programme Notes        
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some Afternoon works may disturb, please click [here](/warnings).<br>*NB* with Afternoon artists located in multiple spaces, and some Afternoon works having a short duration and/or limited capacity on a first-come first-served basis, you may not get a chance to see everything.          
@@ -114,5 +114,25 @@ Unfired porcelain vulvas depict the female body as fragmented; the performance e
 Theresa Bradbury graduated from Nottingham Trent University with a Distinction in MFA Fine Art and was selected as a recipient of the School of Art & Design Scholarship Award. She has exhibited and performed widely, most recently at New Art Gallery, Wolverhampton Art Gallery, Nottingham Contemporary, G39, NN Contemporary, Ovalhouse, The Yard Theatre, Anise Gallery, Primary. Her practice encompasses Live Art, photography, film, sculpture, and has a specialist focus on feminist theory.          
        
 <a href="https://axisweb.org/p/theresabradbury" target="_blank">axisweb.org/p/theresabradbury</a> · <a href="https://instagram.com/theresabradbury_" target="_blank">Insta @theresabradbury_</a>         
+<hr>          
+**1.30pm-2.30pm** Chris Brown · *you cannot choose the things that bind you*         
+         
+A durational performance that explores the relationship between care and masculinity, inspired by Butoh dance. Uses audience participation.           
+         
+Chris Brown & Jordan Skelly have collaborated for many years. Their collaborations have explored how dance and poetry intertwine. At the centre of their work has always been a discussion of masculinity. This most recent work explores the theme with a new context of care, inspired by changes in their lives.         
+         
+<a href="https://chrisbtheatre.com" target="_blank">chrisbtheatre.com</a> · <a href="https://instagram.com/crispybrownpi" target="_blank">Insta crispybrownpi</a> · <a href="https://twitter.com/ChristopherActB" target="_blank">@ChristopherActB</a>         
+<hr>         
+**2.30pm** Victoria Bone · *Attempts in Self Healing*         
+         
+Is it possible to heal ourselves? *Attempts in Self Healing* is in pursuit!         
+         
+Victoria Bone is an interdisciplinary artist with Live Art at the centre of her practice. Playing with paradoxical themes of strength and vulnerability, risk and trust. Her work is created from physically exploring and responding to materials that embody these themes. Sometimes creating items to move in, often on the edge of wearability. The items are influenced by ceremonial costume and ritual, and the movement comes from simple domestic and historical actions like washing, walking, feeding, dragging.          
+          
+<a href="https://victoriabone.com" target="_blank">victoriabone.com</a> · <a href="https://instagram.com/victoria_bone_artist" target="_blank">Insta victoria_bone_artist</a>          
+<hr>         
+Sweætshops® unable to perform *taking care of business* due to train strikes.          
+         
+<a href="https://swextshops.io" target="_blank">swextshops.io</a> · <a href="https://instagram.com/swextshops" target="_blank">Insta swextshops</a>
 <hr>          
 <small><span style='font-variant: small-caps'>[back to top](/current/2023-emergency/afternoon)</span></small>
