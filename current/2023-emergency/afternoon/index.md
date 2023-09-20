@@ -91,7 +91,7 @@ Kelvin Atmadibrata recruits superpowers awakened by puberty and adolescent fanta
 <hr>        
 **12.30pm-2.30pm** Luisa Amorim · *Idleness (durational)*        
         
-Although gender roles are constantly being challenged, some old traditions still persist in our society. In the domestic environment, women are still expected to put their careers on hold to raise children. Working women often put more extra hours on household or childcare than working men. Women keep doing the majority of the invisible work and *Idleness* is about that. It is also about the difficulty in expressing that. It is a quest for alternative forms of communication, such as body movement and sounds other than the articulated word.<br>A sensorial journey through a woman's baby blues and her everyday life.             
+Although gender roles are constantly being challenged, some old traditions still persist in our society. In the domestic environment, women are still expected to put their careers on hold to raise children. Working women often put more extra hours on household or childcare than working men. Women keep doing the majority of the invisible work and *Idleness* is about that. It is also about the difficulty to express it. It is a quest for alternative forms of communication, such as body movement and sounds other than the articulated word.<br>A sensorial journey through a woman's baby blues and her everyday life.             
         
 A show by Luisa Amorim, with Jadelin Gangbo, Simon Engerer, Zoe Tsaff.         
          
