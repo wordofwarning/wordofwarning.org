@@ -17,7 +17,7 @@ season: "Emergency Afternoon 30|9|2023, Noon-4pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 19 September 2023</small>     
+<small>Updated 20 September 2023</small>     
         
 *Presented by* Word of Warning *+* Contact *in the first half of [Emergency 23](/current/2023-emergency)<br>— an Afternoon of installations, interventions, and limited capacity works*        
          
@@ -93,7 +93,7 @@ Kelvin Atmadibrata recruits superpowers awakened by puberty and adolescent fanta
         
 Although gender roles are constantly being challenged, some old traditions still persist in our society. In the domestic environment, women are still expected to put their careers on hold to raise children. Working women often put more extra hours on household or childcare than working men. Women keep doing the majority of the invisible work and *Idleness* is about that. It is also about the difficulty to express it. It is a quest for alternative forms of communication, such as body movement and sounds other than the articulated word.<br>A sensorial journey through a woman's baby blues and her everyday life.             
         
-A show by Luisa Amorim, with Jadelin Gangbo, Simon Engerer, Zoe Tsaff.         
+A show by Luisa Amorim, with Jadelin Gangbo, Simon Engerer, Zoe Czavda Redo.         
          
 Luisa Amorim is a performance-maker based in London and the curator of Discotheque. She spent a long time experimenting on dramatising the quotidian through participatory work.<br>Jadelin Gangbo is a novelist, published in Italy and Poland and about to have his first novel written in English published.<br>Simon Engerer is a handyman and expert in a bit of everything; back in Berlin, he was working as a music engineer.        
         
