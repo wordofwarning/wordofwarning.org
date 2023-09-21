@@ -29,11 +29,11 @@ Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Conten
 <hr>         
 **4pm** Gillian Dyson · *Nerve in the Bone*         
          
-A meditative and uncanny performance where object and body communicate the real felt tensions of feminine aging. Working on a floor of broken crockery, Dyson's performance brings together slow Butoh dance movement with body-based performance art.         
+A meditative and uncanny performance where object and body communicate the real felt tensions of feminine aging.<br>Working on a floor of broken crockery, Dyson's performance brings together slow Butoh dance movement with body-based performance art.         
          
 Costume development: Phillipa Jackson. Sound composition: Eilon Morris.<br>Development of this work has been enabled with support from Arts Council England and Leeds Beckett University.         
          
-Gillian Dyson is an artist, academic, and researcher based in Leeds. She makes live performance, video, and visual art works that explore identity, site, memory. Her work has been exhibited and performed in national & international festivals, galleries, theatres, most recently: Konsthallen (Gothenberg, Sweden), Baltic (Gateshead), Tetley (Leeds), the Whitworth.          
+Gillian Dyson is an artist, academic, and researcher based in Leeds. She makes live performance, video, and visual art works that explore identity, site, memory. Her work has been exhibited and performed in national & international festivals, galleries, and theatres, most recently: Konsthallen (Gothenberg, Sweden), Baltic (Gateshead), Tetley (Leeds), the Whitworth.          
          
 <a href="https://gilliandyson.co.uk" target="_blank">gilliandyson.co.uk</a>        
 <hr>          
