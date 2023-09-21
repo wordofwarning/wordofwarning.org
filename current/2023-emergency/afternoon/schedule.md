@@ -95,7 +95,7 @@ Although gender roles are constantly being challenged, some old traditions still
         
 A show by Luisa Amorim, with Jadelin Gangbo, Simon Engerer, Zoe Czavda Redo.         
          
-Luisa Amorim is a performance-maker based in London and the curator of Discotheque. She spent a long time experimenting on dramatising the quotidian through participatory work.<br>Jadelin Gangbo is a novelist, published in Italy and Poland and about to have his first novel written in English published.<br>Simon Engerer is a handyman and expert in a bit of everything; back in Berlin, he was working as a music engineer.        
+Luisa Amorim is a Portuguese performance-maker based in London. She is interested in experimenting how to dramatise the quotidian, bringing her everyday life and her own dirty linen onstage.<br>Jadelin Gangbo is a novelist, published in Italy and Poland and about to have his first novel written in English published.<br>Simon Engerer is a handyman and expert in a bit of everything; back in Berlin, he was working as a music engineer.<br>Zoe Czavda Redo is a Greek performer and participant observer based in London.         
         
 <a href="https://instagram.com/lousapage" target="_blank">Insta lousapage</a>        
 <hr>         
