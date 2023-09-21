@@ -27,7 +27,7 @@ The <a href="https://emergencymcr.posthaven.com/emergency-23-call-for-proposals"
 #### Emergency 23 Call for Proposals — Has Now Closed       
 Artists working in Live Art, contemporary performance, time-based media, and interdisciplinary arts are now invited to submit proposals; work can be in any relevant artform/medium, though some live presence is desirable.        
         
-[Emergency 23](/current/2023-emergency) combines daytime durational, installation, intervention, and limited capacity work; followed by an evening of short (*max 20 min*) show-type pieces of work, works-in-progress, or extracts of longer works.       
+[Emergency 23](/current/2023-emergency) combines an [Afternoon](/current/2023-emergency/afternoon) of (*mostly durational*) installation, intervention, and limited capacity work; followed by an [Evening](/current/2023-emergency/evening) of short (*max 20 mins*) show-type pieces of work, work-in-progress, or extracts of longer work.       
         
 Manchester's annual Live Art / performance platform, Emergency aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions.        
         
