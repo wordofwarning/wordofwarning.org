@@ -21,21 +21,21 @@ season: "Emergency Afternoon 30|9|2023, Noon-4pm"
         
 *Presented by* Word of Warning *+* Contact *in the first half of [Emergency 23](/current/2023-emergency)<br>— an Afternoon of installations, interventions, and limited capacity works*        
          
-#### Afternoon Schedule         
-Saturday 30 September 2023<br>**Noon-3pm** Lauren Greer · **Noon-4pm** E.M. Parry · **Noon-4pm** GOWD · **Noon-4pm** Hot Storm Productions · **Noon-4pm** ITZATNA · **Noon-4pm** Louise Ward Morris · **12.30pm** Kelvin Atmadibrata · **12.30pm-2.30pm** Luisa Amorim · **1pm**/**2pm**/**3pm** Porcelain Delaney · **1pm-4pm** Theresa Bradbury · **1.30pm-2.30pm** Chris Brown · **2.30pm** Victoria Bone<br><small>*Timings approximate & subject to change; participating artists subject to change; Sweætshops® unable to perform.*</small>         
+#### Afternoon Artists         
+**Saturday 30 September 2023, Noon-4pm.**<br>Chris Brown · E.M. Parry · GOWD · Hot Storm Productions · ITZATNA · Kelvin Atmadibrata · Lauren Greer · Louise Ward Morris · Luisa Amorim · Porcelain Delaney · Theresa Bradbury · Victoria Bone<br><small>*Participating artists subject to change; Sweætshops® unable to perform.*</small>         
          
 #### Afternoon Programme Notes        
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some Afternoon works may disturb, please click [here](/warnings).<br>*NB* with Afternoon artists located in multiple spaces, and some Afternoon works having a short duration and/or limited capacity on a first-come first-served basis, you may not get a chance to see everything.          
 <hr>          
-**Noon-3pm** Lauren Greer · *PART I: Don't Take It To The Grave*        
-        
-*This place is alive. It's here, it's part of us, and we are part of it.<br>Our healing begins now, we just have to let go.*<br>A durational performance where the audience is integral to the creation of a communal, digital tapestry displaying our deepest, darkest secrets.<br>By embracing anonymity and vulnerability the audience are liberated as their secrets are unfiltered and unbound by judgement.<br>Stay for a moment. Stay for an hour. Stay for as long as you need.         
-        
-Lauren Greer is a Northern Irish, working-class artist currently residing in Manchester. She is a theatre-maker, writer, collaborator, and creative learning practitioner; with a deep belief in the transformative power of the arts in being an educational tool, promoting wellbeing, connecting humans, and  upskilling young people. Whilst her performance work often evolves from a P/political stimulus, she is currently exploring the convergence of her identity with ritual and taboo.        
-        
-<a href="https://msha.ke/laurengreerperformanceartist" target="_blank">msha.ke/laurengreerperformanceartist</a> · <a href="https://instagram.com/_i_am_lauren_g_" target="_blank">Insta \_i\_am\_lauren\_g\_</a> · <a href="https://twitter.com/_i_am_lauren_g_" target="_blank">@\_i\_am\_lauren\_g\_</a>          
+**Chris Brown** · *you cannot choose the things that bind you*         
+         
+A durational performance that explores the relationship between care and masculinity, inspired by Butoh dance. Uses audience participation.           
+         
+Chris Brown & Jordan Skelly have collaborated for many years. Their collaborations have explored how dance and poetry intertwine. At the centre of their work has always been a discussion of masculinity. This most recent work explores the theme with a new context of care, inspired by changes in their lives.         
+         
+<a href="https://chrisbtheatre.com" target="_blank">chrisbtheatre.com</a> · <a href="https://instagram.com/crispybrownpi" target="_blank">Insta crispybrownpi</a> · <a href="https://twitter.com/ChristopherActB" target="_blank">@ChristopherActB</a>         
 <hr>         
-**Noon-4pm** E.M. Parry · *Pricklings*          
+**E.M. Parry** · *Pricklings*          
          
 *Pricklings* stages the artist's body as trans saint, queer icon, fetish object, witch's poppet, a luck charm, a ritual, a process, a test, a game.<br>It investigates trans embodiment and bodily autonomy, and pokes at the edges between self/other, flesh/costume, performer/spectator, artefact/event: remixing and repurposing religious, historical, artistic, medical, and magical iconography to create intimate spectacles and new rituals of becoming.          
          
@@ -43,7 +43,7 @@ E.M. Parry is a trans\*-disciplinary artist, designer, and performance-maker, wo
             
 <a href="https://emparry.com" target="_blank">emparry.com</a> · <a href="https://instagram.com/e_m_parry" target="_blank">Insta e\_m\_parry</a> · <a href="https://twitter.com/e_m_parry" target="_blank">@e\_m\_parry</a>         
 <hr>         
-**Noon-4pm** GOWD · *fleaBalls*         
+**GOWD** · *fleaBalls*         
          
 A real no-hander!         
          
@@ -53,7 +53,7 @@ GOWD is an art collective of theatre-makers that strive to create new and experi
           
 <a href="https://instagram.com/rambunccc" target="_blank">Insta rambunccc</a> · <a href="https://instagram.com/beboptheatre" target="_blank">Insta beboptheatre</a>         
 <hr>         
-**Noon-4pm** Hot Storm Productions · *Cold reading booth*         
+**Hot Storm Productions** · *Cold reading booth*         
         
 *What are the implications of attaching meaning to seemingly insignificant events?<br>Are we naturally inclined to accept interpretations without concrete evidence?<br>And if we do so here, where else might we be doing the same?*<br>An immersive introduction to the world of cold readings, delving into the realms of chance, mystery, and human perception.         
          
@@ -63,7 +63,7 @@ Tom Short (Hot Storm Productions) is a trained clown and improviser who creates 
          
 <a href="https://facebook.com/HotStormProductions" target="_blank">Fb HotStormProductions</a> · <a href="https://instagram.com/hotstormproductions" target="_blank">Insta hotstormproductions</a> · <a href="https://twitter.com/HotStormEnt" target="_blank">@HotStormEnt</a>         
 <hr>         
-**Noon-4pm** ITZATNA · *RIO BRAVO (Wet/Ones)*         
+**ITZATNA** · *RIO BRAVO (Wet/Ones)*         
          
 A Live Art ritual inspired by post-colonial journeys of Latin American migrants swimming across the US-Mexico border of the Rio Grande.          
          
@@ -71,7 +71,23 @@ ITZATNA Arts is an emerging artist collective based in the Midlands that creates
          
 <a href="https://itzatna.org" target="_blank">itzatna.org</a> · <a href="https://facebook.com/itzatna.arts" target="_blank">Fb itzatna.arts</a> · <a href="https://instagram.com/itzatna.arts" target="_blank">Insta itzatna.arts</a> · <a href="https://twitter.com/itzatna_arts" target="_blank">@itzatna\_arts</a>         
 <hr>         
-**Noon-4pm** Louise Ward Morris · *You and I*         
+**Kelvin Atmadibrata** · *His Fishies Friends Are Sticking Around*         
+         
+Easy to see why he received the anglers' apotheosis.        
+          
+Kelvin Atmadibrata recruits superpowers awakened by puberty and adolescent fantasy, personifying power and strength into fanfiction antiheroes to contest the masculine meta and erotica. He works primarily with performances, often accompanied by and translated into drawings, mixed media collages, and objects compiled as installations. Approached as bricolages, Kelvin translates narratives and recreates personifications based on role-playing video game theories and pop mythologies.         
+         
+<a href="https://kelvinatmadibrata.com" target="_blank">kelvinatmadibrata.com</a> · <a href="https://facebook.com/kelvin.atmadibrata" target="_blank">Fb kelvin.atmadibrata</a> · <a href="https://instagram.com/kelvinatmadibrata" target="_blank">Insta kelvinatmadibrata</a>         
+<hr>        
+**Lauren Greer** · *PART I: Don't Take It To The Grave*        
+        
+*This place is alive. It's here, it's part of us, and we are part of it.<br>Our healing begins now, we just have to let go.*<br>A durational performance where the audience is integral to the creation of a communal, digital tapestry displaying our deepest, darkest secrets.<br>By embracing anonymity and vulnerability the audience are liberated as their secrets are unfiltered and unbound by judgement.<br>Stay for a moment. Stay for an hour. Stay for as long as you need.         
+        
+Lauren Greer is a Northern Irish, working-class artist currently residing in Manchester. She is a theatre-maker, writer, collaborator, and creative learning practitioner; with a deep belief in the transformative power of the arts in being an educational tool, promoting wellbeing, connecting humans, and  upskilling young people. Whilst her performance work often evolves from a P/political stimulus, she is currently exploring the convergence of her identity with ritual and taboo.        
+        
+<a href="https://msha.ke/laurengreerperformanceartist" target="_blank">msha.ke/laurengreerperformanceartist</a> · <a href="https://instagram.com/_i_am_lauren_g_" target="_blank">Insta \_i\_am\_lauren\_g\_</a> · <a href="https://twitter.com/_i_am_lauren_g_" target="_blank">@\_i\_am\_lauren\_g\_</a>          
+<hr>         
+**Louise Ward Morris** · *You and I*         
          
 Technology is our established method for perceiving the world. In turn, our technology becomes ourselves and our world. *You and I* investigates the alternative forms of perception and embodiment that can evolve from a modification of this relationship using VR & YouTube. This Live Art piece creates the experience of real life through the glitchy nuances of the internet.         
        
@@ -81,15 +97,7 @@ Louise Ward Morris is an award-winning sculptor working with new media and video
           
 <a href="https://wardmorris.com" target="_blank">wardmorris.com</a> · <a href="https://instagram.com/l.ward.morris" target="_blank">Insta l.ward.morris</a>         
 <hr>          
-**12.30pm** Kelvin Atmadibrata · *His Fishies Friends Are Sticking Around*         
-         
-Easy to see why he received the anglers' apotheosis.        
-          
-Kelvin Atmadibrata recruits superpowers awakened by puberty and adolescent fantasy, personifying power and strength into fanfiction antiheroes to contest the masculine meta and erotica. He works primarily with performances, often accompanied by and translated into drawings, mixed media collages, and objects compiled as installations. Approached as bricolages, Kelvin translates narratives and recreates personifications based on role-playing video game theories and pop mythologies.         
-         
-<a href="https://kelvinatmadibrata.com" target="_blank">kelvinatmadibrata.com</a> · <a href="https://facebook.com/kelvin.atmadibrata" target="_blank">Fb kelvin.atmadibrata</a> · <a href="https://instagram.com/kelvinatmadibrata" target="_blank">Insta kelvinatmadibrata</a>         
-<hr>        
-**12.30pm-2.30pm** Luisa Amorim · *Idleness (durational)*        
+**Luisa Amorim** · *Idleness (durational)*        
         
 Although gender roles are constantly being challenged, some old traditions still persist in our society. In the domestic environment, women are still expected to put their careers on hold to raise children. Working women often put more extra hours on household or childcare than working men. Women keep doing the majority of the invisible work and *Idleness* is about that. It is also about the difficulty to express it. It is a quest for alternative forms of communication, such as body movement and sounds other than the articulated word.<br>A sensorial journey through a woman's baby blues and her everyday life.             
         
@@ -99,7 +107,7 @@ Luisa Amorim is a performance-maker based in London and the curator of Discotheq
         
 <a href="https://instagram.com/lousapage" target="_blank">Insta lousapage</a>        
 <hr>         
-**1pm**/**2pm**/**3pm** Porcelain Delaney · *Parade of The Disregarded*         
+**Porcelain Delaney** · *Parade of The Disregarded*         
          
 An urgent and timely story in three acts; a contemporary movement-performance inspired by ballet *The parade* as a personal response to how disabled people were treated during the pandemic.<br>In the first act the character is happy, joyful, and free, dancing outside of the box; in the second she is trapped in the box and battles confusion, rage, and hopelessness; act three is celebratory and eerie as she is finally free to leave.         
          
@@ -109,7 +117,7 @@ Porcelain Delaney is a disabled multi-disciplinary artist & theatre-maker, passi
          
 <a href="https://facebook.com/PorcelainDancer" target="_blank">Fb PorcelainDancer</a> · <a href="https://instagram.com/porcelaindelaneyy" target="_blank">Insta porcelaindelaneyy</a> · <a href="https://twitter.com/PorcelainDel" target="_blank">@PorcelainDel</a>         
 <hr>         
-**1pm-4pm** Theresa Bradbury · *A Mirror Folded Back on Itself*         
+**Theresa Bradbury** · *A Mirror Folded Back on Itself*         
          
 Unfired porcelain vulvas depict the female body as fragmented; the performance explores ideas regarding expectations and boundaries. A denial of patriarchal femininity, the work is to be crushed and destroyed upon her body. The disruption of femininity as prescribed through a patriarchal lens. The work explores dematerialisation, the destruction and indeterminacy of the objects, the transformation as performative. The performance represents the destruction of the artificial construction of gender within a patriarchal society. The work invites the audience to engage with and reflect upon an evolving disruption. The destructive element of the work relates to the unstable nature of femininity, as performative, rather than given or fixed. The eradication of the vulvas as enacting a transformation.  The act of elimination is an investigation into becoming unrestricted by the politics of acts. To investigate the idea of obliteration as a liberating and potentially progressive act, and to utilise destruction to interrogate and question social, political, and cultural codes.         
           
@@ -117,15 +125,7 @@ Theresa Bradbury graduated from Nottingham Trent University with a Distinction i
        
 <a href="https://axisweb.org/p/theresabradbury" target="_blank">axisweb.org/p/theresabradbury</a> · <a href="https://instagram.com/theresabradbury_" target="_blank">Insta @theresabradbury_</a>         
 <hr>          
-**1.30pm-2.30pm** Chris Brown · *you cannot choose the things that bind you*         
-         
-A durational performance that explores the relationship between care and masculinity, inspired by Butoh dance. Uses audience participation.           
-         
-Chris Brown & Jordan Skelly have collaborated for many years. Their collaborations have explored how dance and poetry intertwine. At the centre of their work has always been a discussion of masculinity. This most recent work explores the theme with a new context of care, inspired by changes in their lives.         
-         
-<a href="https://chrisbtheatre.com" target="_blank">chrisbtheatre.com</a> · <a href="https://instagram.com/crispybrownpi" target="_blank">Insta crispybrownpi</a> · <a href="https://twitter.com/ChristopherActB" target="_blank">@ChristopherActB</a>         
-<hr>         
-**2.30pm** Victoria Bone · *Attempts in Self Healing*         
+**Victoria Bone** · *Attempts in Self Healing*         
          
 Is it possible to heal ourselves? *Attempts in Self Healing* is in pursuit!         
          
