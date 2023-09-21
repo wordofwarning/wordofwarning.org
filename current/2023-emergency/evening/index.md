@@ -55,7 +55,8 @@ new func is a series of events exploring new ways of being.<br>*Through particip
 <hr>         
 **5.30pm** Laurie Bayley-Higgins · *The Santa Ana*         
          
-*"On nights like that," Raymond Chandler once wrote about the Santa Ana, "every booze party ends in a fight. Meek little wives feel the edge of the carving knife and study their husbands' necks. Anything can happen." That was the kind of wind it was.* — Joan Didion, 'Slouching towards Bethlehem'         
+*"On nights like that," Raymond Chandler once wrote about the Santa Ana, "every booze party ends in a fight. Meek little wives feel the edge of the carving knife and study their husbands' necks. Anything can happen." That was the kind of wind it was.* — Joan Didion, 'Slouching towards Bethlehem'          
+         
 A live multimedia exploration of Didion's 1968 essay on the Santa Ana winds, the piece offers snapshots of scenes exploring the lives thrown into turmoil during these winds, as suicide rates increase and neighbours roam their front gardens with machetes. The piece interrogates the relationship between the environment and our mental health. It questions whether a strong wind is all it takes to tip people over the edge, whether all this chaos is perhaps constantly gurgling under the surface. It explores the things we blame which allow us to shirk personal responsibilities to our individual and collective problems.         
          
 Performers: Dan Regan & Stella Cohen · Musicians: Flynn McHardy & Rory Greig · Director/Writer: Laurie Bayley-Higgins · Assistant Director: Laura May Brunk · Producer: PJ Cunningham · Stage Designer: Amy Townsend-Lowcock         
@@ -66,30 +67,29 @@ Laurie Bayley-Higgins is a theatre-maker, director, and writer based in Manchest
 <hr>         
 **6pm** Raz & Khan · *The Addiction Cabaret: My body is a temple, My body is a latrine.*	 
          
-*What is Addiction? What are we addicted to and why?<br>What are our and your stories of Addiction?*<br>A show that explores the reasons for personal and cultural addiction to all things: around and about what we feel, and what we need just to get us through the day (and night), and the stories we tell ourselves about it to make it alright.         
+*What is Addiction? What are we addicted to and why?<br>What are our and your stories of Addiction?*<br>A show that explores the reasons for personal and cultural addiction to all things: around and about what we feel, what we need just to get us through the day (and night), and the stories we tell ourselves about it to make it alright.         
          
-Avital Raz & Sohail Khan are two diverse artists working in the spheres of music, theatre, Live Art, and community settings, who met during lockdown through a creative writing peer-support group.<br>Huddersfield-based Sohail Khan makes work around heritage, the impacts of British colonialism on the contemporary landscape. He's made work for SPILL Festival and The National Review of Live Art, and is currently touring *Men's Talk* —a devised show exploring men's mental ill health.<br>Sheffield-based Avital Raz studied at Jerusalem’s School of Visual Theatre, before embarking on a 20-year career as a singer-songwriter and musician. She created her first solo theatre show in 2018 (*[My Jerusalem](/archive/2019-worksahead/raz)*), followed in 2021 by (*[Unnatural Cycles — A Ghost Story](/current/2023/raz)*).         
+Avital Raz & Sohail Khan are two diverse artists working in the spheres of music, theatre, Live Art, and community settings, who met during lockdown through a creative writing peer-support group.<br>Huddersfield-based Sohail Khan makes work around heritage, the impacts of British colonialism on the contemporary landscape. He's made work for SPILL Festival and The National Review of Live Art, and is currently touring *Men's Talk*: a devised show exploring men's mental ill health.<br>Sheffield-based Avital Raz studied at Jerusalem’s School of Visual Theatre, before embarking on a 20-year career as a singer-songwriter and musician. She created her first solo theatre show *[My Jerusalem](/archive/2019-worksahead/raz)* in 2018, followed in 2021 by *[Unnatural Cycles — A Ghost Story](/current/2023/raz)*.         
          
-<a href="http://avitalraz.com" target="_blank">avitalraz.com</a> · <a href="https://facebook.com/avitalrazmusic" target="_blank">Fb avitalrazmusic</a> · <a href="https://instagram.com/avital.raz" target="_blank">Insta avital.raz
-</a><br><a href="https://twitter.com/avitalraz" target="_blank">@avitalraz</a> · <a href="https://www.youtube.com/@trilobitefulness" target="_blank">YouTube trilobitefulness (Sohail Khan Live Art)</a>         
+<a href="http://avitalraz.com" target="_blank">avitalraz.com</a> · <a href="https://facebook.com/avitalrazmusic" target="_blank">Fb avitalrazmusic</a> · <a href="https://instagram.com/avital.raz" target="_blank">Insta avital.raz</a> · <a href="https://twitter.com/avitalraz" target="_blank">@avitalraz</a><br><a href="https://youtube.com/@trilobitefulness" target="_blank">YouTube trilobitefulness (Sohail Khan Live Art)</a>         
 <hr>         
 **6.30pm** Alex Billingham · *Salting the Wound*         
          
-A show about how Crip and Trans identities collide and intermingle. Skittering between Live Art, Disabled dance, and experimental theatre, this work allows space for the audience to consider their own access needs.<br>*Our bodies are fluid and ever-changing, this is natural, this is part of the world we live in. You are enough.*         
+A show about how Crip and Trans identities collide and intermingle.<br>Skittering between Live Art, Disabled dance, and experimental theatre, this work allows space for the audience to consider their own access needs.<br>*Our bodies are fluid and ever-changing, this is natural, this is part of the world we live in. You are enough.*         
          
-Alex Billingham's work explores what survival might mean going into an uncertain future. Pulling from their lived experience of being Disabled, Trans, and Neurodiverse. They have performed nationally for Tate St Ives, Curious Arts Festival, Fierce Festival, ]performance s p a c e [, Camden People's Theatre. Currently developing new work for The New Art Gallery Walsall in 2024.         
+Alex Billingham's work explores what survival might mean going into an uncertain future, pulling from their lived experience of being Disabled, Trans, and Neurodiverse. They have performed nationally for Tate St Ives, Curious Arts Festival, Fierce Festival, ]performance s p a c e [, Camden People's Theatre. Currently developing new work for The New Art Gallery Walsall in 2024.         
          
 <a href="https://alexbillingham.co.uk" target="_blank">alexbillingham.co.uk</a> · <a href="https://facebook.com/alex.billingham.7" target="_blank">Fb alex.billingham.7</a> · <a href="https://instagram.com/billingham_alex" target="_blank">Insta billingham_alex</a> · <a href="https://twitter.com/AlexCBillingham" target="_blank">@AlexCBillingham</a>         
 <hr>         
 **7pm** Heather Alice · *I, The Girl.*         
          
-A personal reclamation of the 'hysterical' woman, and a reflection on the paradoxes created by a society that has historically gendered madness. A fragmented and distorted journey through lived experience and complex representation — contemporary movement practices and transmedia storytelling offer a shattering and intimate insight into the mind of a woman on the edge. It explores and considers why Hollywood actresses so often win awards for portrayals of disorder, how medical misogyny shapes our archetypes, and how these depictions in pop culture influence neurodiverse young women.         
+A personal reclamation of the 'hysterical' woman, and a reflection on the paradoxes created by a society that has historically gendered madness.<br>A fragmented and distorted journey through lived experience and complex representation: contemporary movement practices and transmedia storytelling offer a shattering and intimate insight into the mind of a woman on the edge. It explores and considers why Hollywood actresses so often win awards for portrayals of disorder, how medical misogyny shapes our archetypes, and how these depictions in pop culture influence neurodiverse young women.         
          
-Writer/Performer: Heather Alice · Special thanks to: Director, Joshua Allen; Videography by Daniel Povey, Chloe Holford, Steven Gallagher; Emily Eastwood; Vocals by Lara Rose Hancox.         
+Writer/Performer: Heather Alice · Special thanks to Director: Joshua Allen · Videography: Daniel Povey, Chloe Holford, Steven Gallagher · Emily Eastwood · Vocals: Lara Rose Hancox         
          
 Heather Alice is a multidisciplinary artist, currently creating immersive transmedia theatre. Her practice is rooted in feminism and she has a background in acting for screen, devising contemporary movement, poetry, and film-making. More recently she has become an aerialist and trained Epic Stages with National Youth Theatre.         
          
-<a href="https://instagram.com/heatheraliceartist" target="_blank">Insta heatheraliceartist</a>         
+<a href="https://instagram.com/heatheraliceartist" target="_blank">Insta heatheraliceartist</a> · <a href="https://youtube.com/@heatheraliceartist" target="_blank">YT heatheraliceartist</a>        
 <hr>         
 **7.30pm** Chris Brown · *you cannot choose the things that bind you*         
          
