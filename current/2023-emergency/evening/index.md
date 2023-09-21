@@ -21,13 +21,13 @@ season: "Emergency Evening 30|9|2023, 4pm-10pm"
         
 *Presented by* Word of Warning *+* Contact *in the second half of [Emergency 23](/current/2023-emergency)<br>— an Evening full of short shows from 4pm*        
          
-#### Evening Schedule         
-Saturday 30 September 2023<br>**4pm** Gillian Dyson · **4.30pm** Gisou Golshani · **5pm** new func · **5.30pm** Laurie Bayley-Higgins · **6pm** Raz & Khan · **6.30pm** Alex Billingham · **7pm** Heather Alice · **7.30pm** Chris Brown · **8pm** Egan & Pinchbeck · **8.30pm** Kellie Colbert · **9pm** Orla Collier · **9.30pm** Jana Aizupe & Company<br><small>*Timings approximate & subject to change; participating artists subject to change.*</small>         
+#### Evening Artists         
+**Saturday 30 September 2023, 4pm-10pm.**<br>Alex Billingham · Chris Brown · Egan & Pinchbeck · Gillian Dyson · Gisou Golshani · Heather Alice · Jana Aizupe & Company · Kellie Colbert · Laurie Bayley-Higgins · new func · Orla Collier · Raz & Khan<br><small>*Participating artists subject to change.*</small>         
          
 #### Evening Programme Notes        
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>*NB* with some Evening works having a limited capacity on a first-come first-served basis, you may not get a chance to see everything.        
 <hr>         
-**4pm** Gillian Dyson · *Nerve in the Bone*         
+**Gillian Dyson** · *Nerve in the Bone*         
          
 A meditative and uncanny performance where object and body communicate the real felt tensions of feminine aging.<br>Working on a floor of broken crockery, Dyson's performance brings together slow Butoh dance movement with body-based performance art.         
          
@@ -37,7 +37,7 @@ Gillian Dyson is an artist, academic, and researcher based in Leeds. She makes l
          
 <a href="https://gilliandyson.co.uk" target="_blank">gilliandyson.co.uk</a>        
 <hr>          
-**4.30pm** Gisou Golshani · *che mishod*         
+**Gisou Golshani** · *che mishod*         
          
 Through movement and chants, Gisou interprets a Persian song's wish for the universe to resolve current entanglements. Guttural and ethereal live vocals are layered onto industrial doom and drone elements. The Persian lyrics call for freedom, and a release from the trap of doomed fate.<br>This work is an exploration of renowned Iranian singer Marzieh's song from the 50s, through the lens of the present. Its poetic and allegorical lyrics demand change, both on a universal and personal level. The projection of the voice becomes a manifestation of the wishes, reifying them through repetition.         
           
@@ -45,7 +45,7 @@ Gisou Golshani is a London-based, multidisciplinary Iranian artist whose rituali
          
 <a href="https://instagram.com/gisougolshani" target="_blank">Insta gisougolshani</a>         
 <hr>          
-**5pm** new func · *A THE Thing is moving*         
+**new func** · *A THE Thing is moving*         
          
 A movement to narrate and connect to all that is (all that is, in this moment, this space, in your perception).<br>A participatory performance in which disparate narration of what exists to you, explodes into communal song of everything that interweaves through us, and brings us closer to our selves, others, and environment.         
          
@@ -53,7 +53,7 @@ new func is a series of events exploring new ways of being.<br>*Through particip
          
 <a href="https://newfunc.wixsite.com/past" target="_blank">newfunc.wixsite.com/past</a> · <a href="https://instagram.com/newfunc" target="_blank">Insta newfunc</a>         
 <hr>         
-**5.30pm** Laurie Bayley-Higgins · *The Santa Ana*         
+**Laurie Bayley-Higgins** · *The Santa Ana*         
          
 *"On nights like that," Raymond Chandler once wrote about the Santa Ana, "every booze party ends in a fight. Meek little wives feel the edge of the carving knife and study their husbands' necks. Anything can happen." That was the kind of wind it was.* — Joan Didion, 'Slouching towards Bethlehem', 1968          
          
@@ -65,7 +65,7 @@ Laurie Bayley-Higgins is a theatre-maker, director, and writer based in Manchest
          
 <a href="https://instagram.com/@the.santa.ana" target="_blank">Insta the.santa.ana</a>         
 <hr>         
-**6pm** Raz & Khan · *The Addiction Cabaret: My body is a temple, My body is a latrine.*	 
+**Raz & Khan** · *The Addiction Cabaret: My body is a temple, My body is a latrine.*	 
          
 *What is Addiction? What are we addicted to and why?<br>What are our and your stories of Addiction?*<br>A show that explores the reasons for personal and cultural addiction to all things: around and about what we feel, what we need just to get us through the day (and night), and the stories we tell ourselves about it to make it alright.         
          
@@ -73,7 +73,7 @@ Avital Raz & Sohail Khan are two diverse artists working in the spheres of music
          
 <a href="http://avitalraz.com" target="_blank">avitalraz.com</a> · <a href="https://facebook.com/avitalrazmusic" target="_blank">Fb avitalrazmusic</a> · <a href="https://instagram.com/avital.raz" target="_blank">Insta avital.raz</a> · <a href="https://twitter.com/avitalraz" target="_blank">@avitalraz</a><br><a href="https://youtube.com/@trilobitefulness" target="_blank">YouTube trilobitefulness (Sohail Khan Live Art)</a>         
 <hr>         
-**6.30pm** Alex Billingham · *Salting the Wound*         
+**Alex Billingham** · *Salting the Wound*         
          
 A show about how Crip and Trans identities collide and intermingle.<br>Skittering between Live Art, Disabled dance, and experimental theatre, this work allows space for the audience to consider their own access needs.<br>*Our bodies are fluid and ever-changing, this is natural, this is part of the world we live in. You are enough.*         
          
@@ -81,7 +81,7 @@ Alex Billingham's work explores what survival might mean going into an uncertain
          
 <a href="https://alexbillingham.co.uk" target="_blank">alexbillingham.co.uk</a> · <a href="https://facebook.com/alex.billingham.7" target="_blank">Fb alex.billingham.7</a> · <a href="https://instagram.com/billingham_alex" target="_blank">Insta billingham_alex</a> · <a href="https://twitter.com/AlexCBillingham" target="_blank">@AlexCBillingham</a>         
 <hr>         
-**7pm** Heather Alice · *I, The Girl.*         
+**Heather Alice** · *I, The Girl.*         
          
 A personal reclamation of the 'hysterical' woman, and a reflection on the paradoxes created by a society that has historically gendered madness.<br>A fragmented and distorted journey through lived experience and complex representation: contemporary movement practices and transmedia storytelling offer a shattering and intimate insight into the mind of a woman on the edge.<br>It explores and considers why Hollywood actresses so often win awards for portrayals of disorder, how medical misogyny shapes our archetypes, and how these depictions in pop culture influence neurodiverse young women.         
          
@@ -91,7 +91,7 @@ Heather Alice is a multidisciplinary artist, currently creating immersive transm
          
 <a href="https://instagram.com/heatheraliceartist" target="_blank">Insta heatheraliceartist</a> · <a href="https://youtube.com/@heatheraliceartist" target="_blank">YT heatheraliceartist</a>        
 <hr>         
-**7.30pm** Chris Brown · *you cannot choose the things that bind you*         
+**Chris Brown** · *you cannot choose the things that bind you*         
          
 A durational performance that explores the relationship between care and masculinity, inspired by Butoh dance.          
          
@@ -99,7 +99,7 @@ Chris Brown & Jordan Skelly have collaborated for many years. Their collaboratio
          
 <a href="https://chrisbtheatre.com" target="_blank">chrisbtheatre.com</a> · <a href="https://instagram.com/crispybrownpi" target="_blank">Insta crispybrownpi</a> · <a href="https://twitter.com/ChristopherActB" target="_blank">@ChristopherActB</a>         
 <hr>         
-**8pm** Egan & Pinchbeck · *Matchstalks Remastered*         
+**Egan & Pinchbeck** · *Matchstalks Remastered*         
           
 Egan & Pinchbeck apply their original approach of devising contemporary performance from musical stimuli to the 1978 hit, *Matchstalk Men and Matchstalk Cats and Dogs (Lowry's Song)*.<br>They translate the track, inspired by the paintings of L. S. Lowry, into a series of theatrical motifs. Following the song's structure, the piece is broken down into scenes exploring the visual language of Lowry's paintings and the song's lyrical poetry. Egan & Pinchbeck question how painting becomes music, music becomes theatre, people become performers.<br>The project draws on the history of Lowry, with access to Special Collections, Manchester School of Art, where he studied painting.          
           
@@ -107,7 +107,7 @@ Kevin Egan is a Senior Lecturer in Contemporary Performance at Manchester Metrop
           
 <a href="https://instagram.com/k.s.egan" target="_blank">Insta k.s.egan</a> · <a href="https://twitter.com/kevinsegan" target="_blank">@kevinsegan</a><br><a href="http://michaelpinchbeck.co.uk" target="_blank">michaelpinchbeck.co.uk</a> · <a href="https://facebook.com/mdpinchbeck" target="_blank">Fb mdpinchbeck</a> · <a href="https://instagram.com/mdpinchbeck" target="_blank">Insta mdpinchbeck</a> · <a href="https://twitter.com/mdpinchbeck" target="_blank">@mdpinchbeck</a>         
 <hr>         
-**8.30pm** Kellie Colbert · *Daydream Believer*         
+**Kellie Colbert** · *Daydream Believer*         
          
 People and plants come in lots of shapes and sizes, and grow in lots of different places. If we want them to grow well they need some of the same things: air, water, guidance, light, love, the right temperature, air. Without enough of these things, people and plants may not thrive, they may wilt and consider death.<br>*Daydream Believer* is about nurturing and nappies and my dad.         
          
@@ -117,7 +117,7 @@ Kellie Colbert is a Greater Manchester-based performance maker. She would descri
          
 <a href="https://instagram.com/kellie.colbert.theatre" target="_blank">Insta kellie.colbert.theatre</a> · <a href="https://twitter.com/imKellieColbert" target="_blank">@imKellieColbert</a>         
 <hr>         
-**9pm** Orla Collier · *Endormore Pt2*         
+**Orla Collier** · *Endormore Pt2*         
          
 A solo physical theatre performance piece which explores Orla's experience of growing up in a small village in Cumbria. In this second half of the work, the audience will be taken on a raw and intimate journey through parts of growing up which are messy, emotional, and might not make sense.         
          
@@ -127,7 +127,7 @@ Orla Collier is a freelance dance artist based in Cumbria. A performer, choreogr
          
 <a href="https://instagram.com/orla.collier" target="_blank">Insta orla.collier</a>         
 <hr>          
-**9.30pm** Jana Aizupe & Company · *get me out of here*         
+**Jana Aizupe & Company** · *get me out of here*         
          
 Two crisp packet beings trying to get past the line to complete the task and escape the space. There is a time pressure and they are not allowed to make any noise. This proves to be seemingly impossible, as crisps churn with every move they make. Will they do it in time?<br>There is optional audience participation, allowing you to give advice and help the beings achieve the success they crave.         
          
