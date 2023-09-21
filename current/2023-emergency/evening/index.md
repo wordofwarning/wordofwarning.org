@@ -83,9 +83,9 @@ Alex Billingham's work explores what survival might mean going into an uncertain
 <hr>         
 **7pm** Heather Alice · *I, The Girl.*         
          
-A personal reclamation of the 'hysterical' woman, and a reflection on the paradoxes created by a society that has historically gendered madness.<br>A fragmented and distorted journey through lived experience and complex representation: contemporary movement practices and transmedia storytelling offer a shattering and intimate insight into the mind of a woman on the edge. It explores and considers why Hollywood actresses so often win awards for portrayals of disorder, how medical misogyny shapes our archetypes, and how these depictions in pop culture influence neurodiverse young women.         
+A personal reclamation of the 'hysterical' woman, and a reflection on the paradoxes created by a society that has historically gendered madness.<br>A fragmented and distorted journey through lived experience and complex representation: contemporary movement practices and transmedia storytelling offer a shattering and intimate insight into the mind of a woman on the edge.<br>It explores and considers why Hollywood actresses so often win awards for portrayals of disorder, how medical misogyny shapes our archetypes, and how these depictions in pop culture influence neurodiverse young women.         
          
-Writer/Performer: Heather Alice · Special thanks to Director: Joshua Allen · Videography: Daniel Povey, Chloe Holford, Steven Gallagher · Emily Eastwood · Vocals: Lara Rose Hancox         
+Writer & performer: Heather Alice · Special thanks to Director: Joshua Allen · Videography by Daniel Povey, Chloe Holford, Steven Gallagher · Emily Eastwood · Vocals by Lara Rose Hancox         
          
 Heather Alice is a multidisciplinary artist, currently creating immersive transmedia theatre. Her practice is rooted in feminism and she has a background in acting for screen, devising contemporary movement, poetry, and film-making. More recently she has become an aerialist and trained Epic Stages with National Youth Theatre.         
          
@@ -98,5 +98,43 @@ A durational performance that explores the relationship between care and masculi
 Chris Brown & Jordan Skelly have collaborated for many years. Their collaborations have explored how dance and poetry intertwine. At the centre of their work has always been a discussion of masculinity. This most recent work explores the theme with a new context of care, inspired by changes in their lives.         
          
 <a href="https://chrisbtheatre.com" target="_blank">chrisbtheatre.com</a> · <a href="https://instagram.com/crispybrownpi" target="_blank">Insta crispybrownpi</a> · <a href="https://twitter.com/ChristopherActB" target="_blank">@ChristopherActB</a>         
+<hr>         
+**8pm** Egan & Pinchbeck · *Matchstalks Remastered*         
+          
+Egan & Pinchbeck apply their original approach of devising contemporary performance from musical stimuli to the 1978 hit, *Matchstalk Men and Matchstalk Cats and Dogs (Lowry's Song)*. They translate the track, inspired by the paintings of L. S. Lowry, into a series of theatrical motifs. Following the song's structure, the piece is broken down into scenes exploring the visual language of Lowry's paintings and the song's lyrical poetry. Egan & Pinchbeck question how painting becomes music, music becomes theatre, people become performers.<br>The project draws on the history of Lowry, with access to Special Collections, Manchester School of Art, where he studied painting.          
+          
+Kevin Egan is a Senior Lecturer in Contemporary Performance at Manchester Metropolitan University and member of the internationally-renowned theatre company Reckless Sleepers.<br>Michael Pinchbeck is a writer, director, theatre-maker, and Reader in Theatre at Manchester Metropolitan University. He has created work for parked cars, park benches, sheds, Roman walls, recital halls — and theatres — having been commissioned for a trio of plays by Nottingham Playhouse.         
+          
+<a href="https://instagram.com/k.s.egan" target="_blank">Insta k.s.egan</a> · <a href="https://twitter.com/kevinsegan" target="_blank">@kevinsegan</a><br><a href="http://michaelpinchbeck.co.uk" target="_blank">michaelpinchbeck.co.uk</a> · <a href="https://facebook.com/mdpinchbeck" target="_blank">Fb mdpinchbeck</a> · <a href="https://instagram.com/mdpinchbeck" target="_blank">Insta mdpinchbeck</a> · <a href="https://twitter.com/mdpinchbeck" target="_blank">@mdpinchbeck</a>         
+<hr>         
+**8.30pm** Kellie Colbert · *Daydream Believer*         
+         
+People and plants come in lots of shapes and sizes, and grow in lots of different places. If we want them to grow well they need some of the same things: air, water, guidance, light, love, the right temperature, air. Without enough of these things, people and plants may not thrive, they may wilt and consider death.<br>*Daydream Believer* is about nurturing and nappies and my dad.         
+         
+Project Mentor: Peader Kirk · Supported by 53two.         
+         
+Kellie Colbert is a Greater Manchester-based performance maker. She would describe herself as an autobiographical artist, who creates work that is honest, relatable, and at times self-critical. Kellie uses spoken word and symbolism to explore memories, often focusing on themes of mental health and feminism. She aims to create performance that is both self-exposing and empathetic. She has worked closely with Eggs Collective, (in)sane Mcr, Breakdown Bolton, and [hÅb](/current/2023-worksahead/colbert).         
+         
+<a href="https://instagram.com/kellie.colbert.theatre" target="_blank">Insta kellie.colbert.theatre</a> · <a href="https://twitter.com/imKellieColbert" target="_blank">@imKellieColbert</a>         
+<hr>         
+**9pm** Orla Collier · *Endormore Pt2*         
+         
+A solo physical theatre performance piece which explores Orla's experience of growing up in a small village in Cumbria. In this second half of the work, the audience will be taken on a raw and intimate journey through parts of growing up which are messy, emotional, and might not make sense.         
+         
+Choreographed & performed by Orla Collier · Music composed by Mologan<br>Commissioned by Great Place: Lakes & Dales; The Dukes. Supported by Brewery Arts; Theatre by The Lake.         
+         
+Orla Collier is a freelance dance artist based in Cumbria. A performer, choreographer, and teacher, she is inspired by the capacity that dance and theatre has for emotional expression, and how sharing honest feelings & experiences can have huge impacts.<br>Rory Lee aka Molagon is an independent music producer and artist based in Manchester. He uses a mixture of guitar, synth, and samples to create unique instrumentation full of interesting texture and ambience.         
+         
+<a href="https://instagram.com/orla.collier" target="_blank">Insta orla.collier</a>         
+<hr>          
+**9.30pm** Jana Aizupe & Company · *get me out of here*         
+         
+Two crisp packet beings trying to get past the line to complete the task and escape the space. There is a time pressure and they are not allowed to make any noise. This proves to be seemingly impossible, as crisps churn with every move they make. Will they do it in time?<br>There is optional audience participation, allowing you to give advice and help the beings achieve the success they crave.         
+         
+Created in collaboration with Gi Vasey, Caroline O'Mahoney, Dara Hughes.         
+         
+Jana Aizupe is a working-class theatre artist based in the West Midlands, primarily working through devising, movement, and film. She is a trained street dancer, therefore values non-verbal connections through shared movements in space. She is also very passionate about applied theatre, putting emphasis on the process of co-creation. Her devised work *1001* won the Warwick University Research Prize 2021, and was performed at Omnibus Theatre and Camden People's Theatre SPRINT Festival in 2022.         
+         
+<a href="https://instagram.com/1001create" target="_blank">Insta 1001create</a>         
 <hr>         
 <small><span style='font-variant: small-caps'>[back to top](/current/2023-emergency/evening)</span></small>
