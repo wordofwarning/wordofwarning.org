@@ -55,7 +55,7 @@ new func is a series of events exploring new ways of being.<br>*Through particip
 <hr>         
 **5.30pm** Laurie Bayley-Higgins · *The Santa Ana*         
          
-*"On nights like that," Raymond Chandler once wrote about the Santa Ana, "every booze party ends in a fight. Meek little wives feel the edge of the carving knife and study their husbands' necks. Anything can happen." That was the kind of wind it was.* — Joan Didion, 'Slouching towards Bethlehem'          
+*"On nights like that," Raymond Chandler once wrote about the Santa Ana, "every booze party ends in a fight. Meek little wives feel the edge of the carving knife and study their husbands' necks. Anything can happen." That was the kind of wind it was.* — Joan Didion, 'Slouching towards Bethlehem', 1968          
          
 A live multimedia exploration of Didion's 1968 essay on the Santa Ana winds, the piece offers snapshots of scenes exploring the lives thrown into turmoil during these winds, as suicide rates increase and neighbours roam their front gardens with machetes. The piece interrogates the relationship between the environment and our mental health. It questions whether a strong wind is all it takes to tip people over the edge, whether all this chaos is perhaps constantly gurgling under the surface. It explores the things we blame which allow us to shirk personal responsibilities to our individual and collective problems.         
          
@@ -85,7 +85,7 @@ Alex Billingham's work explores what survival might mean going into an uncertain
          
 A personal reclamation of the 'hysterical' woman, and a reflection on the paradoxes created by a society that has historically gendered madness.<br>A fragmented and distorted journey through lived experience and complex representation: contemporary movement practices and transmedia storytelling offer a shattering and intimate insight into the mind of a woman on the edge.<br>It explores and considers why Hollywood actresses so often win awards for portrayals of disorder, how medical misogyny shapes our archetypes, and how these depictions in pop culture influence neurodiverse young women.         
          
-Writer & performer: Heather Alice · Special thanks to Director: Joshua Allen · Videography by Daniel Povey, Chloe Holford, Steven Gallagher · Emily Eastwood · Vocals by Lara Rose Hancox         
+Writer & performer: Heather Alice · Special thanks to:<br>Director: Joshua Allen · Videography by Daniel Povey, Chloe Holford, Steven Gallagher · Emily Eastwood · Vocals by Lara Rose Hancox         
          
 Heather Alice is a multidisciplinary artist, currently creating immersive transmedia theatre. Her practice is rooted in feminism and she has a background in acting for screen, devising contemporary movement, poetry, and film-making. More recently she has become an aerialist and trained Epic Stages with National Youth Theatre.         
          
@@ -101,7 +101,7 @@ Chris Brown & Jordan Skelly have collaborated for many years. Their collaboratio
 <hr>         
 **8pm** Egan & Pinchbeck · *Matchstalks Remastered*         
           
-Egan & Pinchbeck apply their original approach of devising contemporary performance from musical stimuli to the 1978 hit, *Matchstalk Men and Matchstalk Cats and Dogs (Lowry's Song)*. They translate the track, inspired by the paintings of L. S. Lowry, into a series of theatrical motifs. Following the song's structure, the piece is broken down into scenes exploring the visual language of Lowry's paintings and the song's lyrical poetry. Egan & Pinchbeck question how painting becomes music, music becomes theatre, people become performers.<br>The project draws on the history of Lowry, with access to Special Collections, Manchester School of Art, where he studied painting.          
+Egan & Pinchbeck apply their original approach of devising contemporary performance from musical stimuli to the 1978 hit, *Matchstalk Men and Matchstalk Cats and Dogs (Lowry's Song)*.<br>They translate the track, inspired by the paintings of L. S. Lowry, into a series of theatrical motifs. Following the song's structure, the piece is broken down into scenes exploring the visual language of Lowry's paintings and the song's lyrical poetry. Egan & Pinchbeck question how painting becomes music, music becomes theatre, people become performers.<br>The project draws on the history of Lowry, with access to Special Collections, Manchester School of Art, where he studied painting.          
           
 Kevin Egan is a Senior Lecturer in Contemporary Performance at Manchester Metropolitan University and member of the internationally-renowned theatre company Reckless Sleepers.<br>Michael Pinchbeck is a writer, director, theatre-maker, and Reader in Theatre at Manchester Metropolitan University. He has created work for parked cars, park benches, sheds, Roman walls, recital halls — and theatres — having been commissioned for a trio of plays by Nottingham Playhouse.         
           
@@ -113,7 +113,7 @@ People and plants come in lots of shapes and sizes, and grow in lots of differen
          
 Project Mentor: Peader Kirk · Supported by 53two.         
          
-Kellie Colbert is a Greater Manchester-based performance maker. She would describe herself as an autobiographical artist, who creates work that is honest, relatable, and at times self-critical. Kellie uses spoken word and symbolism to explore memories, often focusing on themes of mental health and feminism. She aims to create performance that is both self-exposing and empathetic. She has worked closely with Eggs Collective, (in)sane Mcr, Breakdown Bolton, and [hÅb](/current/2023-worksahead/colbert).         
+Kellie Colbert is a Greater Manchester-based performance maker. She would describe herself as an autobiographical artist, who creates work that is honest, relatable, and at times self-critical. Kellie uses spoken word and symbolism to explore memories, often focusing on themes of mental health and feminism. She aims to create performance that is both self-exposing and empathetic. She has worked closely with Eggs Collective, (in)sane Mcr, Breakdown Bolton, [hÅb](/current/2023-worksahead/colbert).         
          
 <a href="https://instagram.com/kellie.colbert.theatre" target="_blank">Insta kellie.colbert.theatre</a> · <a href="https://twitter.com/imKellieColbert" target="_blank">@imKellieColbert</a>         
 <hr>         
