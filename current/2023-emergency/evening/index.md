@@ -38,5 +38,11 @@ Gillian Dyson is an artist, academic, and researcher based in Leeds. She makes l
 <a href="https://gilliandyson.co.uk" target="_blank">gilliandyson.co.uk</a>        
 <hr>          
 **4.30pm** Gisou Golshani · *che mishod*         
+         
+Through movement and chants, Gisou interprets a Persian song's wish for the universe to resolve current entanglements. Guttural and ethereal live vocals are layered onto industrial doom and drone elements. The Persian lyrics call for freedom, and a release from the trap of doomed fate. This work is an exploration of renowned Iranian singer Marzieh's song from the 50s, through the lens of the present. Its poetic and allegorical lyrics demand change, both on a universal and personal level. The projection of the voice becomes a manifestation of the wishes, reifying them through repetition.         
+          
+Gisou Golshani is a London-based, multidisciplinary Iranian artist whose ritualistic performances use sound as a medium for multilayered storytelling, and weave together themes around ecology, Persian mythology, sexuality, and mental health. She blends fictional tales with real events to reflect on socio-political issues, and seeks to offer spaces for introspection and collective emancipation.         
+         
+<a href="https://instagram.com/gisougolshani" target="_blank">Insta gisougolshani</a>         
 <hr>          
 <small><span style='font-variant: small-caps'>[back to top](/current/2023-emergency/evening)</span></small>
