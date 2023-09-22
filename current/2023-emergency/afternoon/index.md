@@ -37,7 +37,7 @@ Chris Brown & Jordan Skelly have collaborated for many years. Their collaboratio
 <hr>         
 **E.M. Parry** · *Pricklings*          
          
-*Pricklings* stages the artist's body as trans saint, queer icon, fetish object, witch's poppet, a luck charm, a ritual, a process, a test, a game.<br>It investigates trans embodiment and bodily autonomy, and pokes at the edges between self/other, flesh/costume, performer/spectator, artefact/event: remixing and repurposing religious, historical, artistic, medical, and magical iconography to create intimate spectacles and new rituals of becoming.          
+*Pricklings* stages the artist's body as trans saint, queer icon, fetish object, witch's poppet, a luck charm, a ritual, a process, a test, a game.<br>The piece investigates trans embodiment and bodily autonomy, and pokes at the edges between self/other, flesh/costume, performer/spectator, artefact/event: remixing and repurposing religious, historical, artistic, medical, and magical iconography to create intimate spectacles and new rituals of becoming.          
          
 E.M. Parry is a trans\*-disciplinary artist, designer, and performance-maker, working across scenography, drag, live & visual art, specialising in work which centres queer bodies and narratives. Flitting between genres and platforms, their work has been staged in the West End, international opera stages, pubs, clubs, cabarets, ships, lecture halls, and leaky basements. They work with, through, and for the queer body, squinting at history, flirting with ghosts and the things that go bump in the margins.           
             
@@ -45,11 +45,11 @@ E.M. Parry is a trans\*-disciplinary artist, designer, and performance-maker, wo
 <hr>         
 **GOWD** · *fleaBalls*         
          
-A real no-hander!         
+*A real no-hander!*         
          
-Performers: Riley Hamshaw-Mills & Benji Paget. Special Thanks to Jane.         
+Performers: Riley Hamshaw-Mills & Benji Paget. Special thanks to Jane.         
          
-GOWD is an art collective of theatre-makers that strive to create new and experimental/post-dramatic works of visual art spanning from performance art to contemporary theatre. Formed by three recent alumni of Kingston University, it is freely open for anyone to get involved. Its goal is to be a warm and supportive environment for any experimental artist to grow and evolve in, regardless of qualification or background.          
+GOWD is an art collective of theatre-makers that strive to create new and experimental/post-dramatic works of visual art spanning from performance art to contemporary theatre. Formed by three recent alumni of Kingston University, it is freely open for anyone to get involved. Its goal is to be a warm and supportive environment for any experimental artist to grow and evolve.          
           
 <a href="https://instagram.com/rambunccc" target="_blank">Insta rambunccc</a> · <a href="https://instagram.com/beboptheatre" target="_blank">Insta beboptheatre</a>         
 <hr>         
@@ -57,7 +57,7 @@ GOWD is an art collective of theatre-makers that strive to create new and experi
         
 *What are the implications of attaching meaning to seemingly insignificant events?<br>Are we naturally inclined to accept interpretations without concrete evidence?<br>And if we do so here, where else might we be doing the same?*<br>An immersive introduction to the world of cold readings, delving into the realms of chance, mystery, and human perception.         
          
-Created & developed with help from the Liam Byrne Award; additional ideas & material contributed by Dr Ian Angus Wilkie & Dr Jo Scott at the University of Salford.         
+Created & developed with help from the Liam Byrne Award; additional contributions by Dr Ian Angus Wilkie & Dr Jo Scott at the University of Salford.         
          
 Tom Short (Hot Storm Productions) is a trained clown and improviser who creates work that challenges the boundaries of genre and is inquisitive about human perception and authenticity. Chortle Student Comedian of the Year in 2019, and runner up at Edinburgh Fringe, his latest work *The Stand-up Horror Show* debuted at the Fringe in 2023 to 4★ reviews.         
          
@@ -67,7 +67,7 @@ Tom Short (Hot Storm Productions) is a trained clown and improviser who creates 
          
 A Live Art ritual inspired by post-colonial journeys of Latin American migrants swimming across the US-Mexico border of the Rio Grande.          
          
-ITZATNA Arts is an emerging artist collective based in the Midlands that creates cross-cultural collaborations between artists and diaspora communities between Mexico, Latin America, and the UK. Founded by the father-son artist duo Alfredo Hau (visual artist, writer, professional chef) & Sebas Hau (live artist & creative producer), ITZATNA cultivates radical, decolonial, and cross-disciplinary approaches to creating cutting-edge projects that combine visual, community, culinary, and live art to create unique experiences for all ages.          
+ITZATNA Arts is a Midlands-based emerging artist collective, creating cross-cultural collaborations between artists and diaspora communities in Mexico, Latin America, UK. Founded by father-son artist duo Alfredo Hau (visual artist, writer, professional chef) & Sebas Hau (live artist & creative producer), ITZATNA cultivates radical, decolonial, cross-disciplinary approaches to creating cutting-edge projects that combine visual, community, culinary, and Live Art to create unique experiences for all ages.          
          
 <a href="https://itzatna.org" target="_blank">itzatna.org</a> · <a href="https://facebook.com/itzatna.arts" target="_blank">Fb itzatna.arts</a> · <a href="https://instagram.com/itzatna.arts" target="_blank">Insta itzatna.arts</a> · <a href="https://twitter.com/itzatna_arts" target="_blank">@itzatna\_arts</a>         
 <hr>         
@@ -81,7 +81,7 @@ Kelvin Atmadibrata recruits superpowers awakened by puberty and adolescent fanta
 <hr>        
 **Lauren Greer** · *PART I: Don't Take It To The Grave*        
         
-*This place is alive. It's here, it's part of us, and we are part of it.<br>Our healing begins now, we just have to let go.*<br>A durational performance where the audience is integral to the creation of a communal, digital tapestry displaying our deepest, darkest secrets.<br>By embracing anonymity and vulnerability the audience are liberated as their secrets are unfiltered and unbound by judgement.<br>Stay for a moment. Stay for an hour. Stay for as long as you need.         
+*This place is alive. It's here, it's part of us, and we are part of it.<br>Our healing begins now, we just have to let go.*<br>A durational performance where the audience is integral to the creation of a communal, digital tapestry displaying our deepest, darkest secrets.<br>By embracing anonymity and vulnerability the audience are liberated as their secrets are unfiltered and unbound by judgement.<br>*Stay for a moment. Stay for an hour. Stay for as long as you need.*         
         
 Lauren Greer is a Northern Irish, working-class artist currently residing in Manchester. She is a theatre-maker, writer, collaborator, and creative learning practitioner; with a deep belief in the transformative power of the arts in being an educational tool, promoting wellbeing, connecting humans, and  upskilling young people. Whilst her performance work often evolves from a P/political stimulus, she is currently exploring the convergence of her identity with ritual and taboo.        
         
