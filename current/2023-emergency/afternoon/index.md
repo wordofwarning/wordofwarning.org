@@ -37,7 +37,7 @@ Chris Brown & Jordan Skelly have collaborated for many years. Their collaboratio
 <hr>         
 **E.M. Parry** · *Pricklings*          
          
-*Pricklings* stages the artist's body as trans saint, queer icon, fetish object, witch's poppet, a luck charm, a ritual, a process, a test, a game.<br>The piece investigates trans embodiment and bodily autonomy, and pokes at the edges between self/other, flesh/costume, performer/spectator, artefact/event: remixing and repurposing religious, historical, artistic, medical, and magical iconography to create intimate spectacles and new rituals of becoming.          
+*Pricklings* stages the artist's body as trans saint, queer icon, fetish object, witch's poppet, a luck charm, a ritual, a process, a test, a game. The piece investigates trans embodiment and bodily autonomy, and pokes at the edges between self/other, flesh/costume, performer/spectator, artefact/event: remixing and repurposing religious, historical, artistic, medical, and magical iconography to create intimate spectacles and new rituals of becoming.          
          
 E.M. Parry is a trans\*-disciplinary artist, designer, and performance-maker, working across scenography, drag, live & visual art, specialising in work which centres queer bodies and narratives. Flitting between genres and platforms, their work has been staged in the West End, international opera stages, pubs, clubs, cabarets, ships, lecture halls, and leaky basements. They work with, through, and for the queer body, squinting at history, flirting with ghosts and the things that go bump in the margins.           
             
@@ -127,7 +127,7 @@ Theresa Bradbury has exhibited and performed widely, most recently at New Art Ga
 <hr>          
 **Victoria Bone** · *Attempts in Self Healing*         
          
-*Is it possible to heal ourselves? Attempts in Self Healing* is in pursuit!*         
+*Is it possible to heal ourselves? Attempts in Self Healing is in pursuit!*         
          
 Victoria Bone is an interdisciplinary artist with Live Art at the centre of her practice. Playing with paradoxical themes of strength and vulnerability, risk and trust. Her work is created from physically exploring and responding to materials that embody these themes. Sometimes creating items to move in, often on the edge of wearability. The items are influenced by ceremonial costume and ritual, and the movement comes from simple domestic and historical actions like washing, walking, feeding, dragging.          
           
