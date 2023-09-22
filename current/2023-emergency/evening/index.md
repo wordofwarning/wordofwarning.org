@@ -33,7 +33,7 @@ A meditative and uncanny performance where object and body communicate the real 
          
 Costume development: Phillipa Jackson · Sound composition: Eilon Morris<br>Development of this work has been enabled with support from Arts Council England and Leeds Beckett University.         
          
-Gillian Dyson is an artist, academic, and researcher based in Leeds. She makes live performance, video, and visual art works that explore identity, site, memory. Her work has been exhibited and performed in national & international festivals, galleries, and theatres, most recently: Konsthallen (Gothenberg, Sweden), Baltic (Gateshead), Tetley (Leeds), the Whitworth.          
+Gillian Dyson is an artist, academic, and researcher based in Leeds. She makes live performance, video, and visual art works that explore identity, site, memory. Her work has been exhibited and performed in national & international festivals, galleries, and theatres, most recently: Konsthallen (Gothenberg, Sweden), Baltic (Gateshead), The Tetley (Leeds), the Whitworth.          
          
 <a href="https://gilliandyson.co.uk" target="_blank">gilliandyson.co.uk</a>        
 <hr>          
@@ -49,7 +49,7 @@ Gisou Golshani is a London-based, multidisciplinary Iranian artist whose rituali
          
 A movement to narrate and connect to all that is (all that is, in this moment, this space, in your perception).<br>A participatory performance in which disparate narration of what exists to you, explodes into communal song of everything that interweaves through us, and brings us closer to our selves, others, and environment.         
          
-new func is a series of events exploring new ways of being.<br>*Through participatory performances we experiment with the actions necessary to life; questioning how we live and how to feel alive. We breathe, drink, eat, greet, walk, think, clean, sleep, and trade… in greater connection with self, other, and environment.*         
+new func is a series of events exploring new ways of being:<br>*Through participatory performances we experiment with the actions necessary to life; questioning how we live and how to feel alive. We breathe, drink, eat, greet, walk, think, clean, sleep, and trade… in greater connection with self, other, and environment.*         
          
 <a href="https://newfunc.wixsite.com/past" target="_blank">newfunc.wixsite.com/past</a> · <a href="https://instagram.com/newfunc" target="_blank">Insta newfunc</a>         
 <hr>         
@@ -61,7 +61,7 @@ A live multimedia exploration of Didion's 1968 essay on the Santa Ana winds, the
          
 Performers: Dan Regan & Stella Cohen · Musicians: Flynn McHardy & Rory Greig · Director/Writer: Laurie Bayley-Higgins · Assistant Director: Laura May Brunk · Producer: PJ Cunningham · Stage Designer: Amy Townsend-Lowcock         
          
-Laurie Bayley-Higgins is a theatre-maker, director, and writer based in Manchester. Recent work includes *Handle with Care*, a devised piece made in collaboration with Contact in July 2022. He is a graduate of the University of Manchester's Drama & English Literature degree, and a member of the National Youth Theatre.         
+Laurie Bayley-Higgins is a Manchester-based theatre-maker, director, and writer. Recent work *Handle with Care* was shown at Contact in 2022. He is a member of the National Youth Theatre.         
          
 <a href="https://instagram.com/@the.santa.ana" target="_blank">Insta the.santa.ana</a>         
 <hr>         
@@ -69,7 +69,7 @@ Laurie Bayley-Higgins is a theatre-maker, director, and writer based in Manchest
          
 *What is Addiction? What are we addicted to and why?<br>What are our and your stories of Addiction?*<br>A show that explores the reasons for personal and cultural addiction to all things: around and about what we feel, what we need just to get us through the day (and night), and the stories we tell ourselves about it to make it alright.         
          
-Avital Raz & Sohail Khan are two diverse artists working in the spheres of music, theatre, Live Art, and community settings, who met during lockdown through a creative writing peer-support group.<br>Huddersfield-based Sohail Khan makes work around heritage, the impacts of British colonialism on the contemporary landscape. He's made work for SPILL Festival and The National Review of Live Art, and is currently touring *Men's Talk*: a devised show exploring men's mental ill health.<br>Sheffield-based Avital Raz studied at Jerusalem’s School of Visual Theatre, before embarking on a 20-year career as a singer-songwriter and musician. She created her first solo theatre show *[My Jerusalem](/archive/2019-worksahead/raz)* in 2018, followed in 2021 by *[Unnatural Cycles — A Ghost Story](/current/2023/raz)*.         
+Avital Raz & Sohail Khan are two diverse artists working in the spheres of music, theatre, Live Art, and community settings, who met during lockdown through a creative writing peer-support group.<br>Huddersfield-based Sohail Khan makes work around heritage, the impacts of British colonialism on the contemporary landscape. He's made work for SPILL and National Review of Live Art, and is currently touring *Men's Talk*: a devised show exploring men's mental ill health.<br>Sheffield-based Avital Raz studied visual theatre in Jerusalem, before embarking on a 20-year career as a singer-songwriter and musician. She created her first solo theatre show *[My Jerusalem](/archive/2019-worksahead/raz)* in 2018, followed by *[Unnatural Cycles — A Ghost Story](/current/2023/raz)* in 2021.         
          
 <a href="http://avitalraz.com" target="_blank">avitalraz.com</a> · <a href="https://facebook.com/avitalrazmusic" target="_blank">Fb avitalrazmusic</a> · <a href="https://instagram.com/avital.raz" target="_blank">Insta avital.raz</a> · <a href="https://twitter.com/avitalraz" target="_blank">@avitalraz</a><br><a href="https://youtube.com/@trilobitefulness" target="_blank">YouTube trilobitefulness (Sohail Khan Live Art)</a>         
 <hr>         
