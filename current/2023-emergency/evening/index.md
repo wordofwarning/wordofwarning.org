@@ -17,7 +17,7 @@ season: "Emergency Evening 30|9|2023, 4pm-10pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 20 September 2023</small>     
+<small>Updated 22 September 2023</small>     
         
 *Presented by* Word of Warning *+* Contact *in the second half of [Emergency 23](/current/2023-emergency)<br>— an Evening full of short shows from 4pm*        
          
@@ -83,9 +83,9 @@ Alex Billingham's work explores what survival might mean going into an uncertain
 <hr>         
 **Heather Alice** · *I, The Girl.*         
          
-A personal reclamation of the 'hysterical' woman, and a reflection on the paradoxes created by a society that has historically gendered madness.<br>A fragmented and distorted journey through lived experience and complex representation: contemporary movement practices and transmedia storytelling offer a shattering and intimate insight into the mind of a woman on the edge.<br>It explores and considers why Hollywood actresses so often win awards for portrayals of disorder, how medical misogyny shapes our archetypes, and how these depictions in pop culture influence neurodiverse young women.         
+A personal reclamation of the 'hysterical' woman, and a reflection on the paradoxes created when society has gendered madness.<br>A fragmented journey through lived experience and complex representation: contemporary movement practices and transmedia storytelling offer an insight into how medical misogyny shapes our archetypes, and how these depictions in pop culture influence neurodiverse young women.         
          
-Writer & performer: Heather Alice · Special thanks to:<br>Director: Joshua Allen · Videography by Daniel Povey, Chloe Holford, Steven Gallagher · Emily Eastwood · Vocals by Lara Rose Hancox         
+Thanks to director Joshua Allen. · Videography by Chloe Holford & Joshua Allen.         
          
 Heather Alice is a multidisciplinary artist, currently creating immersive transmedia theatre. Her practice is rooted in feminism and she has a background in acting for screen, devising contemporary movement, poetry, and film-making. More recently she has become an aerialist and trained Epic Stages with National Youth Theatre.         
          
