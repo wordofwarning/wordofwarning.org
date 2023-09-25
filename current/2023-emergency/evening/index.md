@@ -55,7 +55,7 @@ new func is a series of events exploring new ways of being:<br>*Through particip
 <hr>         
 **Laurie Bayley-Higgins** · *The Santa Ana*         
          
-&ensp*"On nights like that,"* Raymond Chandler once wrote about the Santa Ana, *"every booze party ends in a fight. Meek little wives feel the edge of the carving knife and study their husbands' necks. Anything can happen."* That was the kind of wind it was. — Joan Didion, *Slouching towards Bethlehem*          
+&ensp;*"On nights like that,"* Raymond Chandler once wrote about the Santa Ana, *"every booze party ends in a fight. Meek little wives feel the edge of the carving knife and study their husbands' necks. Anything can happen."* That was the kind of wind it was. — Joan Didion, *Slouching towards Bethlehem*          
          
 A live multimedia exploration of Didion's 1968 essay on the Santa Ana, the piece offers snapshots of scenes exploring the lives thrown into turmoil during these winds, as suicide rates increase and neighbours roam their front gardens with machetes. The piece interrogates the simultaneous decay of the environment and our mental health, questioning whether a strong wind is all it takes to tip people over the edge.          
          
