@@ -17,7 +17,7 @@ season: "Emergency Evening 30|9|2023, 4pm-10pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 22 September 2023</small>     
+<small>Updated 25 September 2023</small>     
         
 *Presented by* Word of Warning *+* Contact *in the second half of [Emergency 23](/current/2023-emergency)<br>— an Evening full of short shows from 4pm*        
          
@@ -55,13 +55,13 @@ new func is a series of events exploring new ways of being:<br>*Through particip
 <hr>         
 **Laurie Bayley-Higgins** · *The Santa Ana*         
          
-*"On nights like that," Raymond Chandler once wrote about the Santa Ana, "every booze party ends in a fight. Meek little wives feel the edge of the carving knife and study their husbands' necks. Anything can happen." That was the kind of wind it was.* — Joan Didion, 'Slouching towards Bethlehem', 1968          
+*"On nights like that," Raymond Chandler once wrote about the Santa Ana, "every booze party ends in a fight. Meek little wives feel the edge of the carving knife and study their husbands' necks. Anything can happen." That was the kind of wind it was.* — Joan Didion, *Slouching towards Bethlehem*          
          
-A live multimedia exploration of Didion's 1968 essay on the Santa Ana winds, the piece offers snapshots of scenes exploring the lives thrown into turmoil during these winds, as suicide rates increase and neighbours roam their front gardens with machetes. The piece interrogates the relationship between the environment and our mental health. It questions whether a strong wind is all it takes to tip people over the edge, whether all this chaos is perhaps constantly gurgling under the surface. It explores the things we blame which allow us to shirk personal responsibilities to our individual and collective problems.         
+A live multimedia exploration of Didion's 1968 essay on the Santa Ana, the piece offers snapshots of scenes exploring the lives thrown into turmoil during these winds, as suicide rates increase and neighbours roam their front gardens with machetes. The piece interrogates the simultaneous decay of the environment and our mental health, questioning whether a strong wind is all it takes to tip people over the edge.          
          
 Performers: Dan Regan & Stella Cohen · Musicians: Flynn McHardy & Rory Greig · Director/Writer: Laurie Bayley-Higgins · Assistant Director: Laura May Brunk · Producer: PJ Cunningham · Stage Designer: Amy Townsend-Lowcock         
          
-Laurie Bayley-Higgins is a Manchester-based theatre-maker, director, and writer. Recent work *Handle with Care* was shown at Contact in 2022. He is a member of the National Youth Theatre.         
+Laurie Bayley-Higgins is a Manchester-based theatre-maker, director, and writer; he engages a multidisciplinary approach, weaving sound and image alongside dramatic action to create work committed to an openness of interpretation, whilst simultaneously holding a visceral emotional weight. Recent work *Handle with Care* was shown at Contact in 2022.
          
 <a href="https://instagram.com/@the.santa.ana" target="_blank">Insta the.santa.ana</a>         
 <hr>         
