@@ -14,10 +14,9 @@ season: "Archived Content Warnings"
 ---
 <small>Updated 3 October 2023<small>        
         
-Age Advisories/Limits & Content Warnings for *past* events (including *archived* livestreams on our YouTube channel) is available below, including elements that may distress, cause upset, or trigger.<br>&nbsp;Go to → [*upcoming* events](/warnings) · [2023](/archive/warnings/#2023) · [2022](/archive/warnings/#2022) · [2021](/archive/warnings/#2021) · [2020](/archive/warnings/#2020) · [2019](/archive/warnings/#2019)        
+Age Advisories/Limits & Content Warnings for *past* events (including *archived* livestreams on our YouTube channel) is available below, including elements that may distress, cause upset, or trigger. (For *upcoming* events click [here](/warnings).)&ensp;Go to → [2023](/archive/warnings/#2023) · [2022](/archive/warnings/#2022) · [2021](/archive/warnings/#2021) · [2020](/archive/warnings/#2020) · [2019](/archive/warnings/#2019)        
         
 If issues raised affect you, these organisations may be of support:&nbsp;&nbsp;<a href="https://thecalmzone.net" target="_blank">CALM</a> 0800 585858 · <a href="https://harmless.org.uk" target="_blank">Harmless</a> · <a href="https://mind.org.uk" target="_blank">Mind</a> 0300 123 3393 · <a href="https://nopanic.org.uk" target="_blank">No Panic</a> 0300 772 9844 · <a href="https://samaritans.org" target="_blank">Samaritans</a> call 116 123 or email jo@samaritans.org · <a href="https://supportline.org.uk" target="_blank">SupportLine</a> 01708 765 200 · <a href="https://thesurvivorstrust.org" target="_blank">The Survivors Trust</a> 08088 010 818       
-        
 <hr>         
 #### 2023        
 ##### [30 Sep. Contact | Emergency 23](/current/2023-emergency)          
@@ -35,7 +34,7 @@ Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: contained
 ##### [10 Mar. Contact | Turn 2023](/current/2023-turn)         
 Age Advisory: 15+ (parental/guardian discretion).<br>Content Warnings: some works may disturb, specifics follow.         
 &nbsp;Lizzy Owen — sudden loud noises.<br>&nbsp;Matter of Fact — concept covers violence against women, but not depicted in the piece.<br>&nbsp;Orla Collier — strong emotions which some may find distressing.        
-        
+<hr>                 
 #### 2022        
         
 ##### [1 Oct. Contact | Emergency 22](/archive/2022-emergency)        
@@ -48,7 +47,6 @@ Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: included 
         
 ##### [4 May. The Lowry | *Dead Cats* by Proto-type Theater & Adam York Gregory](/archive/2022/proto-type)        
 Age Advisory: 14+ (parental/guardian discretion).<br>Content Warnings: included strong swearing & complex themes.        
-        
 <hr>         
 #### 2021        
         
