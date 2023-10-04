@@ -16,11 +16,11 @@ season: "Emergency by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 20 September 2023</small>        
+<small>Updated 4 October 2023</small>        
         
 **Emergency** is our annual platform for Live Art and contemporary performance — offering a sneak preview of new live work over a single day in Manchester every autumn and now resident at <a href="https://contactmcr.com" target="_blank">Contact</a>, its seventh home.        
          
-[Manchester's 23rd](/current/2023-emergency) micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 30 September, Noon-10pm**.        
+[Manchester's 23rd](/current/2023-emergency) micro-marathon of the bizarre, the bold, and the beautiful took over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 30 September, Noon-10pm**.        
          
 The <a href="https://emergencymcr.posthaven.com/emergency-23-call-for-proposals" target="_blank">call for artist's proposals</a> **has now closed** (and we expect to present *about* 20-30 short works throughout the building) — so if you would like to take part in what is *probably* England's longest-running Live Art event, please read on…        
          
