@@ -17,10 +17,10 @@ gallery:
     -   {file: "alex2.jpg", artist: "Alex Billingham"}
     -   {file: "chrisbrown.jpg", artist: "Chris Brown"} 
     -   {file: "chrisbrown2.jpg", artist: "Chris Brown"} 
-    -   {file: "egan_pinchbeck.jpg", artist: "Egan & Pinchbeck"} 
-    -   {file: "egan_pinchbeck2.jpg", artist: "Egan & Pinchbeck"}
     -   {file: "emparry.jpg", artist: "E.M.Parry"}
     -   {file: "emparry2.jpg", artist: "E.M.Parry"}
+    -   {file: "egan_pinchbeck.jpg", artist: "Egan & Pinchbeck"} 
+    -   {file: "egan_pinchbeck2.jpg", artist: "Egan & Pinchbeck"}
     -   {file: "gillian.jpg", artist: "Gillian Dyson"}
     -   {file: "gillian2.jpg", artist: "Gillian Dyson"}
     -   {file: "gisou.jpg", artist: "Gisou Golshani"} 
@@ -29,8 +29,8 @@ gallery:
     -   {file: "gowd2.jpg", artist: "GOWD"}
     -   {file: "heatheralice.jpg", artist: "Heather Alice"}
     -   {file: "heatheralice2.jpg", artist: "Heather Alice"}
-    -   {file: "hotstorm.jpg", artist: "Hot Storm"}
-    -   {file: "hotstorm2.jpg", artist: "Hot Storm"}
+    -   {file: "hotstorm.jpg", artist: "Hot Storm Productions"}
+    -   {file: "hotstorm2.jpg", artist: "Hot Storm Productions"}
     -   {file: "itzatna.jpg", artist: "ITZATNA"}
     -   {file: "itzatna2.jpg", artist: "ITZATNA"}
     -   {file: "jana.jpg", artist: "Jana Aizupe & Company"}
