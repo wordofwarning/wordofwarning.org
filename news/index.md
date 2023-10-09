@@ -12,10 +12,10 @@ season: "News"
 # show_size: 1 # optional - size 1-5. Default is 1. Set longer names to lower values
 
 ---
-<span style='font-variant: small-caps'>→ [things to watch](/news/#audiences) · [artist opportunities](/news/#artists), [advice](/news/#advice), [support](/news/#support)</span><br><small>Updated 3 October 2023<small>        
+<span style='font-variant: small-caps'>→ [things to watch](/news/#audiences) · [artist opportunities](/news/#artists), [advice](/news/#advice), [support](/news/#support)</span><br><small>Updated 9 October 2023<small>        
 <hr>          
 #### Audiences         
-• Our [Performance Programme](/current/2023) is now on hiatus…<br>• Find work to watch by reading the latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> (our signpost to performance live and online in Manchester + beyond);<br>• Visit our <a href="https://youtube.com/c/WordofWarning" target="_blank">YouTube channel</a> to watch archived livestreams and more (includes [Helena Ascough](/archive/2022-worksahead/ascough)'s short film from Works Ahead 2022);<br>• Have a look at <a href="https://screen.homemcr.org" target="_blank">HOME SCREEN</a>, <a href="https://thelowry.com/lowry-digital" target="_blank">Lowry Digital</a>, <a href="https://sadlerswells.com/digital-stage" target="_blank">Sadler's Wells Digital Stage</a>, <a href="https://unitytheatreliverpool.co.uk/unity-online" target="_blank">Unity Online</a>.        
+• Our [Performance Programme](/current/2023) is on hiatus, and we'll announce future events when they're confirmed…<br>• Take a look at what's happened so far this year in our image [galleries](/galleries) for September's [Emergency](/galleries/2023-emergency), July's [Haphazard](/galleries/2023-haphazard), May's [Works Ahead](/galleries/2023-worksahead), and March's [Turn](/galleries/2023-turn).<br>• Find work to watch by reading the latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> (our signpost to performance live and online in Manchester + beyond);<br>• Visit our <a href="https://youtube.com/c/WordofWarning" target="_blank">YouTube channel</a> to watch archived livestreams and more (includes [Helena Ascough](/archive/2022-worksahead/ascough)'s short film from Works Ahead 2022);<br>• Have a look at <a href="https://screen.homemcr.org" target="_blank">HOME SCREEN</a>, <a href="https://thelowry.com/lowry-digital" target="_blank">Lowry Digital</a>, <a href="https://sadlerswells.com/digital-stage" target="_blank">Sadler's Wells Digital Stage</a>, <a href="https://unitytheatreliverpool.co.uk/unity-online" target="_blank">Unity Online</a>.        
 <span style='font-variant: small-caps'>[back to top](/news)</span>        
 <hr>          
 #### Artists         
@@ -27,8 +27,8 @@ Essentially industry-facing, [hÅb](/hab) advises and supports artists and freel
 <span style='font-variant: small-caps'>[back to top](/news)</span>         
          
 ##### Support         
-• Arts Council England's <a href="https://artscouncil.org.uk/DYCP" target="_blank">Developing Your Creative Practice</a> Round 18 closed 10 August; Round 19 **opens 16 November at Noon**.         
-• Arts Council England's <a href="https://artscouncil.org.uk/projectgrants" target="_blank">National Lottery Project Grants</a> are available (with updated guidance since November 2021, and new guidance to be issued soon).        
+• Arts Council England's <a href="https://artscouncil.org.uk/DYCP" target="_blank">Developing Your Creative Practice</a> Round 18 closed 10 August; **Round 19 opens 16 November at Noon**.         
+• Arts Council England's <a href="https://artscouncil.org.uk/projectgrants" target="_blank">National Lottery Project Grants</a> are available (guidance updated November 2021); new forms for under-£30k applicants from November 2023.        
 • Arts Council England host information webinars for <a href="https://artscouncil.org.uk/DYCP" target="_blank">DYCP</a> & <a href="https://artscouncil.org.uk/projectgrants" target="_blank">NLPG</a> applicants — find dates & book on the <a href="https://www.eventbrite.co.uk/o/arts-council-england-events-north-28185338891" target="_blank">ACE North eventbrite page</a>.        
 • Arts Marketing Association's <a href="http://facebook.com/groups/AMACommunitySupport" target="_blank">Coronavirus Support Facebook Group</a> — for all arts, culture + heritage professionals who work to engage audiences.        
 • Arts Professional's <a href="http://www.artsprofessional.co.uk/magazine/covidculture" target="_blank">CovidCulture microsite</a> — news + info plus resources, ideas + virtual events that could help you through the days ahead.          
