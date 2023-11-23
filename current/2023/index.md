@@ -8,7 +8,7 @@ artist_size: 1
 season: "Performance Programme 2023"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2023/#about) · [audiences](/current/2023/#audiences) · [by](/current/2023/#by) · [people](/current/2023/#people) · [warnings](/current/2023/#warnings)</span><br><small>Updated 3 October 2023</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2023/#about) · [audiences](/current/2023/#audiences) · [by](/current/2023/#by) · [people](/current/2023/#people) · [warnings](/current/2023/#warnings)</span><br><small>Updated 23 November 2023</small>        
          
 *— Spring saw [Turn](/current/2023-turn)'s whirlwind night of new dance and [Works Ahead](/current/2023-worksahead) from [Christian](/current/2023-worksahead/asare), [Jade](/current/2023-worksahead/williams) & [Kellie](/current/2023-worksahead/colbert) at <a href="https://contactmcr.com" target="_blank">Contact</a>, plus [Avital Raz](/current/2023/raz)'s Ghost Story at <a href="https://thelowry.com" target="_blank">The Lowry</a><br>— Summer saw [Haphazard](/current/2023-haphazard)'s free afternoon of Live Art antics at <a href="https://z-arts.org" target="_blank">Z-arts</a><br> — Autumn saw [Emergency](/current/2023-emergency)'s 23rd annual day out for the curious at <a href="https://contactmcr.com" target="_blank">Contact</a>*         
          
@@ -16,7 +16,7 @@ Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Wee
         
 Visit our <a href="https://youtube.com/@warnmcr" target="_blank">YouTube channel</a> to watch archived livestreams and more.<br>Find further information for both audiences and artists on our [News](/news) page.         
         
-Discover what happened last year in our [2022 archive](/archive/2022) — and please <a href="http://bit.ly/warnmcrfeedback" target="_blank">share your thoughts</a> with us if you've been to any of our events or watched a livestream.        
+Discover what happened last year in our [2022 archive](/archive/2022) — and please <a href="https://www.illuminate-data.org.uk/survey/mlklqx" target="_blank">tell us your thoughts</a> if you've been to any of our events (or watched a livestream).        
 <small><span style='font-variant: small-caps'>[back to top](/current/2023)</span></small>        
         
 #### About         
@@ -33,7 +33,7 @@ We don't want to put you off by talking art form labels — yes, there'll be the
 <small><span style='font-variant: small-caps'>[back to top](/current/2023)</span></small>        
         
 #### By         
-Word of Warning is a project by Manchester-based [hÅb](/hab) — you might not have heard of us though you may know some of our events, like [Emergency](http://emergencymcr.org), [Haphazard](http://haphazardmcr.org), [Hazard](http://hazardmcr.org), or [Turn](http://turnmcr.org) . Read 2021's interview with <a href="https://circlesandstalls.com/2021/09/17/an-interview-with-word-of-warnings-tamsin-drury" target="_blank">Circles & Stalls</a>.         
+Word of Warning is a project by Manchester-based [hÅb](/hab) — you might not have heard of us though you may know some of our events, like [Emergency](http://emergencymcr.org), [Haphazard](http://haphazardmcr.org), [Hazard](http://hazardmcr.org), or [Turn](http://turnmcr.org). Read 2021's interview with <a href="https://circlesandstalls.com/2021/09/17/an-interview-with-word-of-warnings-tamsin-drury" target="_blank">Circles & Stalls</a>.         
           
 hÅb produces, develops, and advocates for Live Art, contemporary performance, and sited work in the North of England.<br>We're supported using public funding by <a href="http://artscouncil.org.uk/our-investment/national-portfolio-2018-22" target="_blank">Arts Council England</a>; a <a href="http://divergencymcr.org" target="_blank">Divergency</a> core partner — encouraging diversity in Live Art; a <a href="https://manchesterindependents.org" target="_blank">Manchester Independents</a> lead partner — celebrating GM artists; a member of <a href="http://liveartuk.org" target="_blank">Live Art UK</a>, <a href="http://gm-artisthub.co.uk" target="_blank">GM Artist Hub</a>, and the GM LGBTQ+ Arts & Culture Network.         
 >*Refreshing company that brings diverse shows to our door steps.*<br>*WoW are great, supporting emerging work and bringing it to new audiences.*<br>*Wonderful, daring performances that I have never been disappointed by.<br>A needed company in Manchester, feels like they really support artists.*<br>&nbsp;— Audience feedback         
