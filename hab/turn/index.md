@@ -27,7 +27,7 @@ Get a feel for it with 2023's [programme notes](/current/2023-turn/programme) an
 Greater Manchester's open call dance platform, Turn aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event.         
         
 #### Turn 2024 Call for Proposals is now Open         
-North West† dancers and dance-makers (*aged 18+*) <a href="http://turnmcr.posthaven.com" target="_blank">are now invited to submit proposals</a> of short finished pieces of work, extracts or excerpts of longer works, or works-in-progress for inclusion in this annual event.        
+North West† dancers and dance-makers (*aged 18+*) are now <a href="http://turnmcr.posthaven.com" target="_blank">invited to submit proposals</a> of: short finished pieces of work, extracts or excerpts of longer works, or works-in-progress, for inclusion in this annual event.        
          
 We're experimenting with the form of Turn in 2024, to include:<br>— one or two evenings of **public performances on Friday 22 March**,<br>&nbsp;&nbsp;&nbsp;&nbsp;***and Friday 15 March** if demand permits*;<br>— followed by an **artist day on Saturday 23 March** from 2pm,<br>&nbsp;&nbsp;&nbsp;&nbsp;incorporating a workshop or masterclasses, and feedback sessions.         
          
