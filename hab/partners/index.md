@@ -34,4 +34,4 @@ We are pleased to count among our friends and regular partners:<br><a href="http
           
 In 2012 we were pleased to partner with Live at LICA (now <a href="https://lancasterarts.org" target="_blank">Lancaster Arts</a>) to produce the *<a href="https://lancasterarts.org/whats-on/event/symposium-getting-it-out-there" target="_blank">Getting It Out There</a>* symposium on touring; a FREE publication produced with the <a href="https://thisisliveart.co.uk" target="_blank">Live Art Development Agency</a> following the event can be <a href="http://habmcr.posthaven.com/getting-it-out-there-publication-free-to-down" target="_blank">downloaded here</a>.        
           
-<small>*NB*<br>From April 2012 to March 2016 hÅb was funded by Manchester City Council through the Manchester Cultural Partnership.<br>STUN (Sustained Theatre Up North) was formerly a [Divergency](/hab/divergencymcr) partner.</small>
+<small>*NB*&nbsp;&nbsp;from April 2012 to March 2016 hÅb was funded by Manchester City Council through the Manchester Cultural Partnership; until 2023 Sustained Theatre Up North (STUN) was a [Divergency](/hab/divergencymcr) partner.</small>
