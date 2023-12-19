@@ -16,9 +16,9 @@ season: "Turn by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 6 December 2023</small>        
+<small>Updated 19 December 2023</small>        
         
-**Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Manchester each spring.    
+**Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester each spring.    
              
 The eleventh edition takes place in **March 2024** at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, and this time things will be a little different as we plan to use just the one studio on Friday 22 March… and *possibly* Friday 15 March.        
          
