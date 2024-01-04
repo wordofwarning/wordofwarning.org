@@ -27,7 +27,7 @@ Essentially industry-facing, [hÅb](/hab) advises and supports artists and freel
 <span style='font-variant: small-caps'>[back to top](/news)</span>         
          
 ##### Support         
-• Arts Council England's <a href="https://artscouncil.org.uk/DYCP" target="_blank">Developing Your Creative Practice</a> Round 19 closed 14 December 2023** and **Round 20 opens 14 March 2024, Noon**.         
+• Arts Council England's <a href="https://artscouncil.org.uk/DYCP" target="_blank">Developing Your Creative Practice</a> Round 19 closed 14 December 2023 and **Round 20 opens 14 March 2024, Noon**.         
 • Arts Council England's <a href="https://artscouncil.org.uk/projectgrants" target="_blank">National Lottery Project Grants</a> are available, with new guidance AND new forms **since 1 November 2023**.        
 • Arts Council England host information webinars for <a href="https://artscouncil.org.uk/DYCP" target="_blank">DYCP</a> & <a href="https://artscouncil.org.uk/projectgrants" target="_blank">NLPG</a> applicants — find dates and book on the <a href="https://www.eventbrite.co.uk/o/arts-council-england-events-north-28185338891" target="_blank">ACE North eventbrite page</a>.        
 • Arts Marketing Association's <a href="http://facebook.com/groups/AMACommunitySupport" target="_blank">Community Support Facebook Group</a> — for arts, culture, and heritage professionals with marketing and communication responsibilities to engage audiences with cultural organisations.          
