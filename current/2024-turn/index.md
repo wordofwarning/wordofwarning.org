@@ -1,15 +1,15 @@
 ---
 # CONFIGURATION
-layout: 2023-turn
+layout: 2024-turn
 rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Turn 2023" # the name of the artist or company
+artist: "Turn 2024" # the name of the artist or company
 show: "A night of new dance." # the name of the show
 artist_size: 1
 show_size: 3
 header_image:  
-season: "Turn 10|3|2023"
+season: "Turn 15+22|3|2024"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,9 +17,9 @@ season: "Turn 10|3|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2023-turn/#artists) · [ticketing](/current/2023-turn/#ticketing) · [access](/current/2023-turn/#access) · [about](/current/2023-turn/#about) · [credits](/current/2023-turn/#credits) · [websites](/current/2023-turn/#websites)</span><br><small>Updated 9 August 2023</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2023-turn/#artists) · [ticketing](/current/2023-turn/#ticketing) · [access](/current/2023-turn/#access) · [about](/current/2023-turn/#about) · [credits](/current/2023-turn/#credits) · [websites](/current/2023-turn/#websites)</span><br><small>Updated 9 January 2024</small>        
         
-*Presented by* Word of Warning *+* Contact        
+*Presented by* Word of Warning *+* Company Chameleon        
         
 Our annual whirlwind of new dance returns: nine† works by North West dance-makers take over <a href="https://contactmcr.com" target="_blank">Contact</a> for one extraordinary night on **Friday 10 March**.<br>Look at some of our [artist's images](/galleries/2023-turnpre) & read their [programme notes](/current/2023-turn/programme) — and now it's over, see [images from the event](/galleries/2023-turn).         
         
