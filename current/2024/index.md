@@ -1,11 +1,11 @@
 ---
 # CONFIGURATION
-layout: 2023-programme
+layout: 2024-programme
 rootpath: "../../"
 
-artist: "2023" # the name of the artist or company
+artist: "2024" # the name of the artist or company
 artist_size: 1
-season: "Performance Programme 2023"
+season: "Performance Programme 2024"
 
 ---
 <span style='font-variant: small-caps'>→ [about](/current/2023/#about) · [audiences](/current/2023/#audiences) · [by](/current/2023/#by) · [people](/current/2023/#people) · [warnings](/current/2023/#warnings)</span><br><small>Updated 6 December 2023</small>        
