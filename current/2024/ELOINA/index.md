@@ -8,12 +8,12 @@ artist: "ELOINA" # the name of the artist or company
 show: "HIGH STEAKS" # the name of the show
 artist_size: 1
 show_size: 2
-header_image: "header_ELOINA.jpg"    
+header_image: "header_eloinab.jpg"    
 season: "ELOINA 27|4|2024, 8pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
-# show_size: 2 # optional - size of show name 2-5. Default is 2. Set longer names to lower values
+# show_size: 3 # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
@@ -38,14 +38,14 @@ Age Advisory: **18+** (parent/guardian/carer discretion).<br>[Content Warnings](
 #### About         
 Seamlessly melding performance art and comedy clowning, *HIGH STEAKS* discusses rising demands in young people for labiaplasty — plastic surgery to make the labia smaller/more symmetrical.         
          
-Through live conversations with her mum and recorded interviews with labia-owners, *HIGH STEAKS* is a call for increased visibility of varied vulvas and a celebration of our vulvas in all their shapes & sizes; see ELOINA's <a href="https://www.eloina.art/high-steaks-free-sheet" target="_blank">free sheet</a>.         
+Through live conversations with her mum and recorded interviews with labia-owners, *HIGH STEAKS* is a call for increased visibility of varied vulvas and a celebration of our vulvas in all their shapes & sizes. See the <a href="https://www.eloina.art/high-steaks-free-sheet" target="_blank">free sheet</a>.         
           
-A riotous rebellion against labia-shaming and cosmetic labia surgery, *HIGH STEAKS* is an <a href="https://offies.london/2024-finalists-winners" target="_blank">Offies 2024 Awards Finalist</a>, won a <a href="https://www.summerhall.co.uk/2023/08/2023-lustrum-award-winners-announced" target="_blank">Summerhall 2023 Award</a>, and is in <a href="https://theguardian.com/stage/2023/dec/21/the-best-theatre-comedy-and-dance-of-2023#theatre" target="_blank">The Guardian's Top 5 Theatre Shows of 2023</a>.         
+A riotous rebellion against labia-shaming and cosmetic labia surgery, *HIGH STEAKS* is an <a href="https://offies.london/2024-finalists-winners" target="_blank">Offies 2024 Awards Finalist</a>, won a <a href="https://www.summerhall.co.uk/2023/08/2023-lustrum-award-winners-announced" target="_blank">Summerhall 2023 Award</a>, and in <a href="https://theguardian.com/stage/2023/dec/21/the-best-theatre-comedy-and-dance-of-2023#theatre" target="_blank">The Guardian's Top 5 Theatre Shows of 2023</a>.         
           
 #### Artist        
 ELOINA makes work that dismantles taboos around the female body. She mixes epic, body-based performance art and quick, comedy clowning. This makes her work accessibly impactful at both extremes & the in-betweens of the art world.         
          
-Since graduating from the innovative Drama degree at Queen Mary University of London in 2018, her solo practice has spread across London, opening conversations about menstruation, body hair, labiaplasty, vaginoplasty, female masturbation & ejaculation, motherhood, and breastfeeding.         
+Since graduating from the innovative Drama degree at Queen Mary University of London in 2018, her solo practice has spread across London — opening conversations about menstruation, body hair, labiaplasty, vaginoplasty, female masturbation & ejaculation, motherhood, and breastfeeding.         
          
 Read her <a href="https://www.theguardian.com/stage/2023/nov/13/performance-artist-eloina-high-steaks-labia" target="_blank">interview with Arifa Akbar in The Guardian</a>.         
          
