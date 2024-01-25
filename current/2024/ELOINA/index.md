@@ -42,14 +42,33 @@ ELOINA makes work that dismantles taboos around the female body. She mixes epic,
 Since graduating from the innovative Drama degree at Queen Mary University of London in 2018, her solo practice has spread across London, opening conversations about menstruation, body hair, labiaplasty, vaginoplasty, female masturbation & ejaculation, motherhood, and breastfeeding.         
          
 #### Reviews         
->★★★★ *Distinctive, compulsive, and truly individual… remarkable, life-affirming work.*<br>&nbsp;— <a href="https://www.thereviewshub.com/unnatural-cycles-a-ghost-story-camden-peoples-theatre-london" target="_blank">The Reviews Hub on *Unnatural Cycles*</a><br>*Extraordinary piece of storytelling… Relentlessly bleak, yet totally compelling… A dreamlike, other-wordly space*<br>&nbsp;— <a href="https://www.rotherhamadvertiser.co.uk/leisure/view,theatre-review-unnatural-cycles-a-ghost-story-at-sheffield-playhouse_43783" target="_blank">Rotherham Advertiser on *Unnatural Cycles*</a><br>*Nothing short of astonishing*<br>&nbsp;— <a href="https://www.exposedmagazine.co.uk" target="_blank">Mark Perkins, Exposed Magazine on *My Jerusalem*</a><br>*As perceptive of the personal as she is the political*<br>&nbsp;— <a href="https://nowthenmagazine.com" target="_blank">Now Then Magazine on *My Jerusalem*</a><br>*Revels in its power to challenge perceptions + prejudice… Nags at how the wider world may view Jewish women, and pulls back this woman's reality*<br>&nbsp;— <a href="https://loureviews.blog/2021/07/20/review-my-jerusalem-applecart-arts-online" target="_blank">LouReviews on *My Jerusalem*</a>        
-       
-#### Credits          
-Written, performed, original music by Avital Raz<br>Directed by Gillian Lees<br>Dramaturgy by Peader Kirk & Gillian Lees<br>Videography by Chris Davis<br>Header Image by Darren Andrews        
-       
-Commissioned by Sheffield Theatres, Contact, Lancaster Arts.<br>Supported using public funding by the National Lottery through Arts Council England.        
+>★★★★★
+><a href="https://www.fringebiscuit.com/twittiques/2023/1/30/high-steaks" target="_blank"></a>
+>Fringe Biscuit,
+><a href="https://www.scotsman.com/arts-and-culture/edinburgh-festivals/edinburgh-fringe-theatre-reviews-high-steaks-glass-ceiling-beneath-the-stars-bullring-techno-makeout-jamz-help-yourself-the-fruity-prince-4251814" target="_blank"></a> 
+>
+>The Scotsman,
+><a href="https://theatreweekly.com/edinburgh-review-high-steaks-at-summerhall" target="_blank"></a>
+>
+>Theatre Weekly
+>*Bold. Brave. Captivating. / Liberating. Eye-opening. Important.*<br>&nbsp;— Audience Response
+>
+<a href="https://loureviews.blog/2023/03/20/vault-review-high-steaks" target="_blank"></a>
+>Lou Reviews
+>
+><a href="https://todolist.london/high-steaks-by-eloina" target="_blank"></a>
+> to do list
+>
+> *Distinctive, compulsive, and truly individual… remarkable, life-affirming work.*<br>&nbsp;— <a href="https://www.thereviewshub.com/unnatural-cycles-a-ghost-story-camden-peoples-theatre-london" target="_blank">The Reviews Hub on *Unnatural Cycles*</a><br>*Extraordinary piece of storytelling… Relentlessly bleak, yet totally compelling… A dreamlike, other-wordly space*<br>&nbsp;— <a href="https://www.rotherhamadvertiser.co.uk/leisure/view,theatre-review-unnatural-cycles-a-ghost-story-at-sheffield-playhouse_43783" target="_blank">Rotherham Advertiser on *Unnatural Cycles*</a><br>*Nothing short of astonishing*<br>&nbsp;— <a href="https://www.exposedmagazine.co.uk" target="_blank">Mark Perkins, Exposed Magazine on *My Jerusalem*</a><br>*As perceptive of the personal as she is the political*<br>&nbsp;— <a href="https://nowthenmagazine.com" target="_blank">Now Then Magazine on *My Jerusalem*</a><br>*Revels in its power to challenge perceptions + prejudice… Nags at how the wider world may view Jewish women, and pulls back this woman's reality*<br>&nbsp;— <a href="https://loureviews.blog/2021/07/20/review-my-jerusalem-applecart-arts-online" target="_blank">LouReviews on *My Jerusalem*</a>        
+
+Also read ELOINA's <a href="https://www.theguardian.com/stage/2023/nov/13/performance-artist-eloina-high-steaks-labia" target="_blank">interview with Arifa Akbar in The Guardian</a>.          
          
+#### Credits          
+Birthed, Created, Performed, Produced by ELOINA<br>Directed by Louise Orwin<br>Star of the show: Mama (Annie Haines)<br>Developed with PARL (Performance Art Research, Ljubljana), Queen Mary University of London, Jackson's Lane, Camden People’s Theatre<br>Outside Eye: Frankie Thompson<br>Sound Design by Sammy Metcalfe, Louise Orwin, Tom Foskett-Barnes<br>Sound Design Consultancy by Liv Lynch<br>​Technical Stage Management by Roshan Conn<br>Safeguarding Management by Joe Iredale<br>Set Design by ELOINA & Joe Iredale<br>Lighting Design by Lily Woodford-Lewis<br>Producers: ELOINA, Beth Sitek, Millie Wood-Downie<br>Header Image by PARL/Matjaž Rušt         
+         
+With loving thanks to: MAMA, Joe Iredale, The Sisterhood, Andy's Dad’s Accordion, Queen Mary University of London.<br>With super special thanks to: Paula, Posey, Rosa, Porscha, Alice, Casey, Justine, Alex, Dani, and those who will remain anonymous for sharing your beautiful stories with this show.         
+          
 #### Websites          
-<a href="http://avitalraz.com/unnatural-cycles--a-ghost-story" target="_blank">avitalraz.com</a> · <a href="https://facebook.com/avitalrazmusic" target="_blank">Fb avitalrazmusic</a> · <a href="https://instagram.com/avital.raz" target="_blank">Insta avital.raz</a> · <a href="https://twitter.com/avitalraz" target="_blank">@avitalraz</a> · <a href="https://twitter.com/hashtag/UnnaturalCycles" target="_blank">#UnnaturalCycles</a>         
+<a href="https://www.eloina.art/high-steaks" target="_blank">eloina.art/high-steaks</a> · <a href="https://instagram.com/eloinaaart" target="_blank">Insta eloinaaart</a> · <a href="https://twitter.com/eloinaaart" target="_blank">@eloinaaart</a>         
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2024/ELOINA)</span></small>
