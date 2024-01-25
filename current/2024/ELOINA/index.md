@@ -21,9 +21,11 @@ season: "ELOINA 27|4|2024, 8pm"
          
 *Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a>         
          
-Award-winning, queer performer, ELOINA, hangs two beef steaks from her labia, butchers them up, and sizzles them on a grill. And her mum is in the show.        
-         
-A show about labia, labia-shaming, cosmetic surgery, and fundamentally, body lovin'.          
+*HIGH STEAKS* is a show about labia, labia-shaming, cosmetic surgery, and fundamentally, body lovin'.          
+          
+Award-winning, queer performer, ELOINA, hangs two beef steaks from her labia, butchers them up, and sizzles them on a grill.           
+          
+And…her mum is in the show.        
          
 #### Ticketing         
 Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://www.quaytickets.com/en-GB/shows/wtf%20(not)%20wednesday-%20high%20steaks%20by%20eloina/events" target="_blank">online</a> or call The Lowry on 0343 208 6000        
@@ -45,10 +47,10 @@ ELOINA makes work that dismantles taboos around the female body. She mixes epic,
          
 Since graduating from the innovative Drama degree at Queen Mary University of London in 2018, her solo practice has spread across London, opening conversations about menstruation, body hair, labiaplasty, vaginoplasty, female masturbation & ejaculation, motherhood, and breastfeeding.         
          
-#### Reviews         
->★★★★★ <a href="https://www.fringebiscuit.com/twittiques/2023/1/30/high-steaks" target="_blank">Fringe Biscuit</a>, <a href="https://www.scotsman.com/arts-and-culture/edinburgh-festivals/edinburgh-fringe-theatre-reviews-high-steaks-glass-ceiling-beneath-the-stars-bullring-techno-makeout-jamz-help-yourself-the-fruity-prince-4251814" target="_blank">The Scotsman</a>, <a href="https://theatreweekly.com/edinburgh-review-high-steaks-at-summerhall" target="_blank">Theatre Weekly</a><br>*Bold. Brave. Captivating. / Liberating. Eye-opening. Important.*<br>&nbsp;— Audience Responses<br>*If you like your body positivity served up with herbs on a hot plate and your natural bits to be discussed without any reticence, this is the show for you.* ★★★★★ <br>&nbsp;— <a href="https://loureviews.blog/2023/03/20/vault-review-high-steaks" target="_blank">LouReviews</a><br>*If performance art freaks you out this is a crossover hit, which should delight and challenge in equal measure.* ★★★★★<br>&nbsp;— <a href="https://todolist.london/high-steaks-by-eloina" target="_blank">to do list</a>        
+Read her <a href="https://www.theguardian.com/stage/2023/nov/13/performance-artist-eloina-high-steaks-labia" target="_blank">interview with Arifa Akbar in The Guardian</a>.         
          
-Also read ELOINA's <a href="https://www.theguardian.com/stage/2023/nov/13/performance-artist-eloina-high-steaks-labia" target="_blank">interview with Arifa Akbar in The Guardian</a>.          
+#### Reviews         
+>★★★★★ — <a href="https://www.fringebiscuit.com/twittiques/2023/1/30/high-steaks" target="_blank">Fringe Biscuit</a>, <a href="https://www.scotsman.com/arts-and-culture/edinburgh-festivals/edinburgh-fringe-theatre-reviews-high-steaks-glass-ceiling-beneath-the-stars-bullring-techno-makeout-jamz-help-yourself-the-fruity-prince-4251814" target="_blank">The Scotsman</a>, <a href="https://theatreweekly.com/edinburgh-review-high-steaks-at-summerhall" target="_blank">Theatre Weekly</a><br>★★★★★ *If you like your body positivity served up with herbs on a hot plate and your natural bits to be discussed without any reticence, this is the show for you.*<br>&nbsp;— <a href="https://loureviews.blog/2023/03/20/vault-review-high-steaks" target="_blank">LouReviews</a><br>★★★★★ *If performance art freaks you out this is a crossover hit, which should delight and challenge in equal measure.*<br>&nbsp;— <a href="https://todolist.london/high-steaks-by-eloina" target="_blank">To Do List</a><br>*Bold. Brave. Captivating. Liberating. Eye-opening. Important.*<br>&nbsp;— Audience Responses        
          
 #### Credits          
 Birthed, Created, Performed, Produced by ELOINA<br>Directed by Louise Orwin<br>Star of the show: Mama (Annie Haines)<br>Developed with PARL (Performance Art Research, Ljubljana), Queen Mary University of London, Jackson's Lane, Camden People’s Theatre<br>Outside Eye: Frankie Thompson<br>Sound Design by Sammy Metcalfe, Louise Orwin, Tom Foskett-Barnes<br>Sound Design Consultancy by Liv Lynch<br>​Technical Stage Management by Roshan Conn<br>Safeguarding Management by Joe Iredale<br>Set Design by ELOINA & Joe Iredale<br>Lighting Design by Lily Woodford-Lewis<br>Producers: ELOINA, Beth Sitek, Millie Wood-Downie<br>Header Image by PARL/Matjaž Rušt         
@@ -56,6 +58,6 @@ Birthed, Created, Performed, Produced by ELOINA<br>Directed by Louise Orwin<br>S
 With loving thanks to: MAMA, Joe Iredale, The Sisterhood, Andy's Dad's Accordion, Queen Mary University of London.<br>With super special thanks to: Paula, Posey, Rosa, Porscha, Alice, Casey, Justine, Alex, Dani, and those who will remain anonymous for sharing your beautiful stories with this show.         
           
 #### Websites          
-<a href="https://www.eloina.art/high-steaks" target="_blank">eloina.art/high-steaks</a> · <a href="https://instagram.com/eloinaaart" target="_blank">Insta eloinaaart</a> · <a href="https://twitter.com/eloinaaart" target="_blank">@eloinaaart</a>         
+<a href="https://www.eloina.art/high-steaks" target="_blank">eloina.art/high-steaks</a> · <a href="https://instagram.com/eloinaaart" target="_blank">Insta eloinaaart</a> · <a href="https://twitter.com/eloinaaart" target="_blank">X @eloinaaart</a>         
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2024/ELOINA)</span></small>
