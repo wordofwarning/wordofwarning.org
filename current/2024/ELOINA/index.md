@@ -23,10 +23,10 @@ season: "ELOINA 27|4|2024, 8pm"
          
 Award-winning, queer performer, ELOINA, hangs two beef steaks from her labia, butchers them up, and sizzles them on a grill. And her mum is in the show.        
          
-A show about labia, labia-shaming, cosmetic surgery, and fundamentally: body lovin'.          
+A show about labia, labia-shaming, cosmetic surgery, and fundamentally, body lovin'.          
          
 #### Ticketing         
-Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://tickets.thelowry.com/events" target="_blank">online</a> or call The Lowry on 0343 208 6000        
+Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://www.quaytickets.com/en-GB/shows/wtf%20(not)%20wednesday-%20high%20steaks%20by%20eloina/events" target="_blank">online</a> or call The Lowry on 0343 208 6000        
                 
 Time: Saturday 27 April 2024, 8pm (no interval, ends *about* 9pm)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry</a> (Aldridge Studio), Pier 8, Salford Quays, M50 3AZ         
          
@@ -38,7 +38,7 @@ Seamlessly melding performance art and comedy clowning, *HIGH STEAKS* discusses 
          
 Through live conversations with her mum and recorded interviews with labia-owners, *HIGH STEAKS* is a call for increased visibility of varied vulvas and a celebration of our vulvas in all their shapes & sizes; see ELOINA's <a href="https://www.eloina.art/high-steaks-free-sheet" target="_blank">free sheet</a>.         
           
-A riotous rebellion against labia-shaming and cosmetic labia surgery, *HIGH STEAKS* is an <a href="https://offies.london/2024-finalists-winners" target="_blank">Offies 2024 Awards Finalist</a>, won a <a href="https://www.summerhall.co.uk/2023/08/2023-lustrum-award-winners-announced" target="_blank">Summerhall 2023 Lustrum Award</a>, and a <a href="https://theguardian.com/stage/2023/dec/21/the-best-theatre-comedy-and-dance-of-2023#theatre" target="_blank">The Guardian Top 5 Theatre Show of 2023</a>.         
+A riotous rebellion against labia-shaming and cosmetic labia surgery, *HIGH STEAKS* is an <a href="https://offies.london/2024-finalists-winners" target="_blank">Offies 2024 Awards Finalist</a>, won a <a href="https://www.summerhall.co.uk/2023/08/2023-lustrum-award-winners-announced" target="_blank">Summerhall 2023 Award</a>, and a <a href="https://theguardian.com/stage/2023/dec/21/the-best-theatre-comedy-and-dance-of-2023#theatre" target="_blank">The Guardian Top 5 Theatre Show of 2023</a>.         
           
 #### Artist        
 ELOINA makes work that dismantles taboos around the female body. She mixes epic, body-based performance art and quick, comedy clowning. This makes her work accessibly impactful at both extremes & the in-betweens of the art world.         
@@ -53,7 +53,7 @@ Also read ELOINA's <a href="https://www.theguardian.com/stage/2023/nov/13/perfor
 #### Credits          
 Birthed, Created, Performed, Produced by ELOINA<br>Directed by Louise Orwin<br>Star of the show: Mama (Annie Haines)<br>Developed with PARL (Performance Art Research, Ljubljana), Queen Mary University of London, Jackson's Lane, Camden People’s Theatre<br>Outside Eye: Frankie Thompson<br>Sound Design by Sammy Metcalfe, Louise Orwin, Tom Foskett-Barnes<br>Sound Design Consultancy by Liv Lynch<br>​Technical Stage Management by Roshan Conn<br>Safeguarding Management by Joe Iredale<br>Set Design by ELOINA & Joe Iredale<br>Lighting Design by Lily Woodford-Lewis<br>Producers: ELOINA, Beth Sitek, Millie Wood-Downie<br>Header Image by PARL/Matjaž Rušt         
          
-With loving thanks to: MAMA, Joe Iredale, The Sisterhood, Andy's Dad’s Accordion, Queen Mary University of London.<br>With super special thanks to: Paula, Posey, Rosa, Porscha, Alice, Casey, Justine, Alex, Dani, and those who will remain anonymous for sharing your beautiful stories with this show.         
+With loving thanks to: MAMA, Joe Iredale, The Sisterhood, Andy's Dad's Accordion, Queen Mary University of London.<br>With super special thanks to: Paula, Posey, Rosa, Porscha, Alice, Casey, Justine, Alex, Dani, and those who will remain anonymous for sharing your beautiful stories with this show.         
           
 #### Websites          
 <a href="https://www.eloina.art/high-steaks" target="_blank">eloina.art/high-steaks</a> · <a href="https://instagram.com/eloinaaart" target="_blank">Insta eloinaaart</a> · <a href="https://twitter.com/eloinaaart" target="_blank">@eloinaaart</a>         
