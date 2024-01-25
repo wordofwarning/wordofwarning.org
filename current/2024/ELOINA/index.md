@@ -4,12 +4,12 @@ layout: 2023-programme
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Avital Raz" # the name of the artist or company
-show: "Unnatural Cycles&nbsp;<br>&nbsp;— A Ghost Story" # the name of the show
+artist: "ELOINA" # the name of the artist or company
+show: "HIGH STEAKS" # the name of the show
 artist_size: 1
-show_size: 3
-header_image: "header_avital1.jpg"    
-season: "Avital Raz 3|5|2023, 8pm"
+show_size: 2
+header_image: "header_ELOINA.jpg"    
+season: "ELOINA 27|4|2024, 8pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,35 +17,29 @@ season: "Avital Raz 3|5|2023, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [ticketing](/current/2023/raz/#ticketing) · [access](/current/2023/raz/#access) · [about](/current/2023/raz/#about) · [artist](/current/2023/raz/#artist) · [reviews](/current/2023/raz/#reviews) · [credits](/current/2023/raz/#credits) · [websites](/current/2023/raz/#websites)</span><br><small>Updated 9 August 2023</small>          
+<span style='font-variant: small-caps'>→ [ticketing](/current/2024/ELOINA/#ticketing) · [access](/current/2024/ELOINA/#access) · [about](/current/2024/ELOINA/#about) · [artist](/current/2024/ELOINA/#artist) · [reviews](/current/2024/ELOINA/#reviews) · [credits](/current/2024/ELOINA/#credits) · [websites](/current/2024/ELOINA/#websites)</span><br><small>Updated 25 January 2024</small>          
          
 *Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a>         
          
-There's a growing dark cloud above the Rosenberg house.<br>Two women — one dead, one alive — need to reconcile their differences to remove it, and let in new life…          
-         
-A nuanced exploration of infertility, faith, and what it means to bear the weight of inherited generational trauma.          
-         
-<iframe width="560" height="315" src="https://www.youtube.com/embed/by6RFFVenDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                
+A show about labia, labia-shaming, cosmetic surgery, and fundamentally, body lovin'.<br>Award-winning, queer performer, ELOINA, hangs two beef steaks from her labia, butchers them up, and sizzles them on a grill.<br>And… her mum is in the show.         
          
 #### Ticketing         
-Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://tickets.thelowry.com/events/wtf%20wednesday-%20unnatural%20cycles%20-%20a%20ghost%20story/2023-5-3_20.00/lowry%20studio" target="_blank">online</a> or call The Lowry on 0343 208 6000        
+Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://tickets.thelowry.com/events" target="_blank">online</a> or call The Lowry on 0343 208 6000        
                 
-Time: Wednesday 3 May 2023, 8pm (no interval, ends *about* 9pm)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry</a> (Aldridge Studio), Pier 8, Salford Quays, M50 3AZ         
+Time: Saturday 26Wednesday 3 May 2023, 8pm (no interval, ends *about* 9pm)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry</a> (Aldridge Studio), Pier 8, Salford Quays, M50 3AZ         
          
 #### Access         
-Age Advisory: 14+ (parent/guardian/carer discretion).<br>Content Warnings: may disturb, please click [here](/warnings) for specific warnings.<br>Features: spoken & sung text, live composed music and soundscape, pre-recorded film and videography.<br>Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a>, 0161 876 2183 or <mailto:access@thelowry.com>       
+Age Advisory: **18+** (parent/guardian/carer discretion).<br>[Content Warnings](/warnings): full frontal nudity, strong language, handling and cooking of raw meat, discussion of genital surgery, discussion of self-harm, depictions of real mother-daughter relationships.<br>Features: spoken text/dialogue, recorded audio, physical movement.<br>Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a>, 0161 876 2183 or <mailto:access@thelowry.com>       
          
 #### About         
-*Unnatural Cycles — A Ghost Story* emerged from a dream in which Avital met her Grandmother, followed by a year of listening to old cassettes in which she was interviewed about her experiences surviving the Jewish Holocaust.         
+Seamlessly melding performance art and comedy clowning, *HIGH STEAKS* discusses rising demands in young people for labiaplasty — plastic surgery to make the labia smaller/more symmetrical. Through live conversations between ELOINA & her mum and recorded interviews with labia-owners, *HIGH STEAKS* is a call for increased visibility of varied vulvas and a celebration of our vulvas in all their shapes & sizes. Read the <a href="https://www.eloina.art/high-steaks-free-sheet" target="_blank">free sheet</a>.         
           
-Drawing on personal experiences to be told in song, live-looped audio, and film, *Unnatural Cycles* holds the weight of present and generational trauma in the body of a woman reckoning with inherited pain and the desire to bear a child.        
+A riotous rebellion against labia-shaming and cosmetic labia surgery, *HIGH STEAKS* has been nominated for three <a href="https://offies.london/2024-finalists-winners" target="_blank">OFFIE 2024 awards</a>, won a <a href="https://www.summerhall.co.uk/2023/08/2023-lustrum-award-winners-announced" target="_blank">Summerhall 2023 Lustrum Award</a>, and is in <a href="https://theguardian.com/stage/2023/dec/21/the-best-theatre-comedy-and-dance-of-2023#theatre" target="_blank">The Guardian's Top 5 Theatre Shows of 2023</a>.         
           
 #### Artist        
-Jerusalem-born singer-songwriter Avital Raz has made a name for herself singing politically engaging, strikingly original, and fearless songs — to emerge as a distinctive and truly individual voice that speaks with a very real and potent self-expression.         
-          
-Avital studied at Jerusalem's School of Visual Theatre, before embarking on a 20-year career as a singer-songwriter and musician. After completing degrees in Western Classical singing and composition in Jerusalem, she relocated to Varanasi (India) to study the sacred art of Dhrupad singing for six years under Professor Ritwik Sanyal. She's released seven albums of her own music, and performed with acclaimed world music band Rafiki Jazz for three years.         
+ELOINA makes work that dismantles taboos around the female body. She mixes epic, body-based performance art and quick, comedy clowning. This makes her work accessibly impactful at both extremes and the in-betweens of the art world.         
          
-Her first solo theatre show [*My Jerusalem*](/archive/2019-worksahead/raz) — a politically charged tale derived from a song — was commissioned by [hÅb](/hab) & <a href="https://contactmcr.com" target="_blank">Contact</a> for [Works Ahead 2019](/archive/2019-worksahead); an accompanying feature-length documentary *Your Jerusalem* was commissioned by Journeys Festival International and created with Chris Davis in 2020.          
+Since graduating from the innovative Drama degree at Queen Mary University of London in 2018, her solo practice has spread across London, opening conversations about menstruation, body hair, labiaplasty, vaginoplasty, female masturbation & ejaculation, motherhood, and breastfeeding.         
          
 #### Reviews         
 >★★★★ *Distinctive, compulsive, and truly individual… remarkable, life-affirming work.*<br>&nbsp;— <a href="https://www.thereviewshub.com/unnatural-cycles-a-ghost-story-camden-peoples-theatre-london" target="_blank">The Reviews Hub on *Unnatural Cycles*</a><br>*Extraordinary piece of storytelling… Relentlessly bleak, yet totally compelling… A dreamlike, other-wordly space*<br>&nbsp;— <a href="https://www.rotherhamadvertiser.co.uk/leisure/view,theatre-review-unnatural-cycles-a-ghost-story-at-sheffield-playhouse_43783" target="_blank">Rotherham Advertiser on *Unnatural Cycles*</a><br>*Nothing short of astonishing*<br>&nbsp;— <a href="https://www.exposedmagazine.co.uk" target="_blank">Mark Perkins, Exposed Magazine on *My Jerusalem*</a><br>*As perceptive of the personal as she is the political*<br>&nbsp;— <a href="https://nowthenmagazine.com" target="_blank">Now Then Magazine on *My Jerusalem*</a><br>*Revels in its power to challenge perceptions + prejudice… Nags at how the wider world may view Jewish women, and pulls back this woman's reality*<br>&nbsp;— <a href="https://loureviews.blog/2021/07/20/review-my-jerusalem-applecart-arts-online" target="_blank">LouReviews on *My Jerusalem*</a>        
@@ -58,4 +52,4 @@ Commissioned by Sheffield Theatres, Contact, Lancaster Arts.<br>Supported using 
 #### Websites          
 <a href="http://avitalraz.com/unnatural-cycles--a-ghost-story" target="_blank">avitalraz.com</a> · <a href="https://facebook.com/avitalrazmusic" target="_blank">Fb avitalrazmusic</a> · <a href="https://instagram.com/avital.raz" target="_blank">Insta avital.raz</a> · <a href="https://twitter.com/avitalraz" target="_blank">@avitalraz</a> · <a href="https://twitter.com/hashtag/UnnaturalCycles" target="_blank">#UnnaturalCycles</a>         
         
-<small><span style='font-variant: small-caps'>[back to top](/current/2023/raz)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/current/2024/ELOINA)</span></small>
