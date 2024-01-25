@@ -21,46 +21,33 @@ season: "ELOINA 27|4|2024, 8pm"
          
 *Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a>         
          
-A show about labia, labia-shaming, cosmetic surgery, and fundamentally, body lovin'.<br>Award-winning, queer performer, ELOINA, hangs two beef steaks from her labia, butchers them up, and sizzles them on a grill.<br>And… her mum is in the show.         
+Award-winning, queer performer, ELOINA, hangs two beef steaks from her labia, butchers them up, and sizzles them on a grill. And her mum is in the show.        
+         
+A show about labia, labia-shaming, cosmetic surgery, and fundamentally: body lovin'.          
          
 #### Ticketing         
 Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://tickets.thelowry.com/events" target="_blank">online</a> or call The Lowry on 0343 208 6000        
                 
-Time: Saturday 26Wednesday 3 May 2023, 8pm (no interval, ends *about* 9pm)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry</a> (Aldridge Studio), Pier 8, Salford Quays, M50 3AZ         
+Time: Saturday 27 April 2024, 8pm (no interval, ends *about* 9pm)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry</a> (Aldridge Studio), Pier 8, Salford Quays, M50 3AZ         
          
 #### Access         
 Age Advisory: **18+** (parent/guardian/carer discretion).<br>[Content Warnings](/warnings): full frontal nudity, strong language, handling and cooking of raw meat, discussion of genital surgery, discussion of self-harm, depictions of real mother-daughter relationships.<br>Features: spoken text/dialogue, recorded audio, physical movement.<br>Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a>, 0161 876 2183 or <mailto:access@thelowry.com>       
          
 #### About         
-Seamlessly melding performance art and comedy clowning, *HIGH STEAKS* discusses rising demands in young people for labiaplasty — plastic surgery to make the labia smaller/more symmetrical. Through live conversations between ELOINA & her mum and recorded interviews with labia-owners, *HIGH STEAKS* is a call for increased visibility of varied vulvas and a celebration of our vulvas in all their shapes & sizes. Read the <a href="https://www.eloina.art/high-steaks-free-sheet" target="_blank">free sheet</a>.         
+Seamlessly melding performance art and comedy clowning, *HIGH STEAKS* discusses rising demands in young people for labiaplasty — plastic surgery to make the labia smaller/more symmetrical.         
+         
+Through live conversations with her mum and recorded interviews with labia-owners, *HIGH STEAKS* is a call for increased visibility of varied vulvas and a celebration of our vulvas in all their shapes & sizes; see ELOINA's <a href="https://www.eloina.art/high-steaks-free-sheet" target="_blank">free sheet</a>.         
           
-A riotous rebellion against labia-shaming and cosmetic labia surgery, *HIGH STEAKS* has been nominated for three <a href="https://offies.london/2024-finalists-winners" target="_blank">OFFIE 2024 awards</a>, won a <a href="https://www.summerhall.co.uk/2023/08/2023-lustrum-award-winners-announced" target="_blank">Summerhall 2023 Lustrum Award</a>, and is in <a href="https://theguardian.com/stage/2023/dec/21/the-best-theatre-comedy-and-dance-of-2023#theatre" target="_blank">The Guardian's Top 5 Theatre Shows of 2023</a>.         
+A riotous rebellion against labia-shaming and cosmetic labia surgery, *HIGH STEAKS* is an <a href="https://offies.london/2024-finalists-winners" target="_blank">Offies 2024 Awards Finalist</a>, won a <a href="https://www.summerhall.co.uk/2023/08/2023-lustrum-award-winners-announced" target="_blank">Summerhall 2023 Lustrum Award</a>, and a <a href="https://theguardian.com/stage/2023/dec/21/the-best-theatre-comedy-and-dance-of-2023#theatre" target="_blank">The Guardian Top 5 Theatre Show of 2023</a>.         
           
 #### Artist        
-ELOINA makes work that dismantles taboos around the female body. She mixes epic, body-based performance art and quick, comedy clowning. This makes her work accessibly impactful at both extremes and the in-betweens of the art world.         
+ELOINA makes work that dismantles taboos around the female body. She mixes epic, body-based performance art and quick, comedy clowning. This makes her work accessibly impactful at both extremes & the in-betweens of the art world.         
          
 Since graduating from the innovative Drama degree at Queen Mary University of London in 2018, her solo practice has spread across London, opening conversations about menstruation, body hair, labiaplasty, vaginoplasty, female masturbation & ejaculation, motherhood, and breastfeeding.         
          
 #### Reviews         
->★★★★★
-><a href="https://www.fringebiscuit.com/twittiques/2023/1/30/high-steaks" target="_blank"></a>
->Fringe Biscuit,
-><a href="https://www.scotsman.com/arts-and-culture/edinburgh-festivals/edinburgh-fringe-theatre-reviews-high-steaks-glass-ceiling-beneath-the-stars-bullring-techno-makeout-jamz-help-yourself-the-fruity-prince-4251814" target="_blank"></a> 
->
->The Scotsman,
-><a href="https://theatreweekly.com/edinburgh-review-high-steaks-at-summerhall" target="_blank"></a>
->
->Theatre Weekly
->*Bold. Brave. Captivating. / Liberating. Eye-opening. Important.*<br>&nbsp;— Audience Response
->
-<a href="https://loureviews.blog/2023/03/20/vault-review-high-steaks" target="_blank"></a>
->Lou Reviews
->
-><a href="https://todolist.london/high-steaks-by-eloina" target="_blank"></a>
-> to do list
->
-> *Distinctive, compulsive, and truly individual… remarkable, life-affirming work.*<br>&nbsp;— <a href="https://www.thereviewshub.com/unnatural-cycles-a-ghost-story-camden-peoples-theatre-london" target="_blank">The Reviews Hub on *Unnatural Cycles*</a><br>*Extraordinary piece of storytelling… Relentlessly bleak, yet totally compelling… A dreamlike, other-wordly space*<br>&nbsp;— <a href="https://www.rotherhamadvertiser.co.uk/leisure/view,theatre-review-unnatural-cycles-a-ghost-story-at-sheffield-playhouse_43783" target="_blank">Rotherham Advertiser on *Unnatural Cycles*</a><br>*Nothing short of astonishing*<br>&nbsp;— <a href="https://www.exposedmagazine.co.uk" target="_blank">Mark Perkins, Exposed Magazine on *My Jerusalem*</a><br>*As perceptive of the personal as she is the political*<br>&nbsp;— <a href="https://nowthenmagazine.com" target="_blank">Now Then Magazine on *My Jerusalem*</a><br>*Revels in its power to challenge perceptions + prejudice… Nags at how the wider world may view Jewish women, and pulls back this woman's reality*<br>&nbsp;— <a href="https://loureviews.blog/2021/07/20/review-my-jerusalem-applecart-arts-online" target="_blank">LouReviews on *My Jerusalem*</a>        
-
+>★★★★★ <a href="https://www.fringebiscuit.com/twittiques/2023/1/30/high-steaks" target="_blank">Fringe Biscuit</a>, <a href="https://www.scotsman.com/arts-and-culture/edinburgh-festivals/edinburgh-fringe-theatre-reviews-high-steaks-glass-ceiling-beneath-the-stars-bullring-techno-makeout-jamz-help-yourself-the-fruity-prince-4251814" target="_blank">The Scotsman</a>, <a href="https://theatreweekly.com/edinburgh-review-high-steaks-at-summerhall" target="_blank">Theatre Weekly</a><br>*Bold. Brave. Captivating. / Liberating. Eye-opening. Important.*<br>&nbsp;— Audience Responses<br>*If you like your body positivity served up with herbs on a hot plate and your natural bits to be discussed without any reticence, this is the show for you.* ★★★★★ <br>&nbsp;— <a href="https://loureviews.blog/2023/03/20/vault-review-high-steaks" target="_blank">LouReviews</a><br>*If performance art freaks you out this is a crossover hit, which should delight and challenge in equal measure.* ★★★★★<br>&nbsp;— <a href="https://todolist.london/high-steaks-by-eloina" target="_blank">to do list</a>        
+         
 Also read ELOINA's <a href="https://www.theguardian.com/stage/2023/nov/13/performance-artist-eloina-high-steaks-labia" target="_blank">interview with Arifa Akbar in The Guardian</a>.          
          
 #### Credits          
