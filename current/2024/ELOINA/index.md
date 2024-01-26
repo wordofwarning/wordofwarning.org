@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: 2023-programme
+layout: 2024-programme
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -28,7 +28,7 @@ Award-winning, queer performer, ELOINA, hangs two beef steaks from her labia, bu
 And…her mum is in the show.        
          
 #### Ticketing         
-Pay What You Decide: £20/15/£10/£5/£0<br>Book: <a href="https://tickets.thelowry.com/events/wtf%20(not)%20wednesday-%20high%20steaks%20by%20eloina/2024-4-27_20.00/lowry%20studio?back=2&area=6711d356-240a-ea11-a9ce-815ca3ec47bd&type=ga#_ga=2.112718468.1650382160.1706191027-385683989.1701776919" target="_blank">online</a> or call The Lowry on 0343 208 6000          
+Pay What You Decide: £20/£15/£10/£5/£0<br>Book: <a href="https://tickets.thelowry.com/events/wtf%20(not)%20wednesday-%20high%20steaks%20by%20eloina/2024-4-27_20.00/lowry%20studio?back=2&area=6711d356-240a-ea11-a9ce-815ca3ec47bd&type=ga#_ga=2.112718468.1650382160.1706191027-385683989.1701776919" target="_blank">online</a> or call The Lowry on 0343 208 6000          
          
 Time: Saturday 27 April 2024, 8pm (no interval, ends *about* 9pm)<br>Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry</a> (Aldridge Studio), Pier 8, Salford Quays, M50 3AZ         
          
