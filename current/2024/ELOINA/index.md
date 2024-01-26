@@ -7,7 +7,7 @@ rootpath: "../../../"
 artist: "ELOINA" # the name of the artist or company
 show: "HIGH STEAKS" # the name of the show
 artist_size: 1
-show_size: 2
+show_size: 3
 header_image: "header_eloinab.jpg"    
 season: "ELOINA 27|4|2024, 8pm"
 
