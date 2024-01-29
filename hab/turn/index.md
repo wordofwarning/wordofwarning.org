@@ -42,11 +42,9 @@ Turn 2024 presented by [Word of Warning](/) + <a href="https://companychameleon.
 Enquiries: <mailto:turn@habmcr.org> · <a href="http://turnmcr.org" target="_blank">TurnMcr.org</a> · <a href="http://twitter.com/hashtag/TurnMcr" target="_blank">#TurnMcr</a>         
          
 #### Turn Prize Returns in 2024         
-We are delighted to announce (*29 January 2024*) that a commission of £4,000 will be available to one artist/company, selected from Turn 2024 by a panel representing hÅb, Company Chameleon, Project Auske, and Dance Consortia NW.         
-          
-The **Turn Prize** will be for new work, or development of work currently at R&D stage, by North West-based dance-maker(s) where the panel recognises clear potential for onward development and distribution.         
+We are delighted to announce (*29 January 2024*) that a commission of £4,000 will be available to one artist/company, selected from Turn 2024 by a panel representing hÅb, Company Chameleon, Project Auske, Dance Consortia NW.<br>The **Turn Prize** will be for new work, or development of work currently at R&D stage, by North West-based dance-maker(s) where the panel recognises clear potential for onward development and distribution.         
          
-Turn Prize supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> using public funding from Arts Council England, and supported by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> and [hÅb](/hab).          
+2024's Turn Prize supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> using public funding from Arts Council England, and by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> and [hÅb](/hab).          
         
 #### Past Editions        
 First held at greenroom in spring 2009, Turn moved to <a href="https://contactmcr.com" target="_blank">Contact</a> in 2012.<br>The ninth edition trialled a new format, with a dozen short dance-works shown on [**28 April 2017**](/archive/2017-turn), followed by a day of professional development.<br>After a 6-year hiatus it returned to <a href="https://contactmcr.com" target="_blank">Contact</a> on [**10 March 2023**](/current/2023-turn) for a tenth edition with nine short dance-works, followed by an artist day.
