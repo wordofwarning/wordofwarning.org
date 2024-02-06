@@ -7,7 +7,7 @@ rootpath: "../../"
 artist: "Turn 2024" # the name of the artist or company
 show: "New North West Dance." # the name of the show
 artist_size: 1
-show_size: 3
+show_size: 4
 header_image:  
 season: "Turn 22|3|2024"
 
@@ -24,7 +24,7 @@ season: "Turn 22|3|2024"
 Our annual whirlwind of new North West dance returns, this year at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios on **Friday 22 March**… *and possibly Friday 15 March*. Get a feel for [Turn](/hab/turn) with [2023's programme](/archive/2023-turn/programme) and [gallery of images](/galleries/2023-turn).        
         
 #### Artists         
-Participating artists to be announced and dates confirmed mid-February.
+Participating artists to be announced and dates confirmed in mid-February.
          
 #### Ticketing         
 Pay What You Decide: £15/£10/£5/£0 | Tickets available online mid-February.         
