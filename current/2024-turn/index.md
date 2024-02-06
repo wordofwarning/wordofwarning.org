@@ -5,7 +5,7 @@ rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Turn 2024" # the name of the artist or company
-show: "A night of new dance." # the name of the show
+show: "New North West Dance." # the name of the show
 artist_size: 1
 show_size: 3
 header_image:  
@@ -17,26 +17,26 @@ season: "Turn 22|3|2024"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2024-turn/#artists) · [ticketing](/current/2024-turn/#ticketing) · [access](/current/2024-turn/#access) · [about](/current/2024-turn/#about) · [credits](/current/2024-turn/#credits) · [websites](/current/2024-turn/#websites)</span><br><small>Updated 1 February 2024</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2024-turn/#artists) · [ticketing](/current/2024-turn/#ticketing) · [access](/current/2024-turn/#access) · [about](/current/2024-turn/#about) · [credits](/current/2024-turn/#credits) · [websites](/current/2024-turn/#websites)</span><br><small>Updated 6 February 2024</small>        
         
 *Presented by* Word of Warning *+* Company Chameleon        
         
-Our annual whirlwind of new dance returns with works by North West dance-makers , this year at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios for one extraordinary night on **Friday 22 March**.<br>Look at some of our [artist's images](/galleries/2023-turnpre).         
+Our annual whirlwind of new North West dance returns, this year at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios on **Friday 22 March**… *and possibly Friday 15 March*.<br>Get a feel for it with [2023's programme](/archive/2023-turn/programme) and [gallery of images](/galleries/2013-turn).        
         
 #### Artists         
-<small> *Participating artists to be announced and subject to change*</small>         
+<small> *Participating artists to be announced and dates confirmed mid-February.*</small>         
          
 #### Ticketing         
-Pay What You Decide: £15/£10/£5/£0 | Book <a href="https://contactmcr.com/book-online/308158" target="_blank">online </a>         
+Pay What You Decide: £15/£10/£5/£0 | Tickets available online mid-February.         
          
-Time: Friday 22 March 2024, 7.30pm<br>Duration: lasts *up to* 3 hrs including intervals/pauses<br>Location: <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, Oxford Rd, Manchester, M15 6JA       
+Time: Friday 22 March 2024, 7.30pm (*and possibly Friday 15 March, 7.30pm*)<br>Location: <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, Oxford Rd, Manchester, M15 6JA       
         
 #### Access         
-Age Advisory: **?15+** (parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: contemporary dance and performance works with varied content.<br>Queries: please contact WHO <mailto:?@?>.        
+Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: contemporary dance and performance works with varied content.<br>Queries: please contact [Word of Warning](/), <mailto:info@habmcr.org>        
          
 #### About         
 [Turn](/hab/turn) is our annual platform for North West dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester.<br>
-This eleventh edition takes place at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, and this time things will be a little different as we plan to use just the one studio; get a feel for it with [2023's programme](/archive/2023-turn/programme) & [gallery of images](/galleries/2013-turn).<br>*NB Friday's public platform is followed by an artist day for participants only.*        
+This eleventh edition takes place at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, and this time things will be a little different as we plan to use just the one studio on Friday 22 March… and *possibly* Friday 15 March; get a feel for it with [2023's programme](/archive/2023-turn/programme) and [gallery of images](/galleries/2013-turn).<br>*NB the public platform is followed by an artist day for participants only.*        
         
 Greater Manchester's open call dance platform, [Turn](/hab/turn) aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— a selection event for the Turn Prize commission (returning in 2024).         
         
