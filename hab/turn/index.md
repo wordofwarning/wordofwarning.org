@@ -16,13 +16,13 @@ season: "Turn by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 2 February 2024, 7.45pm</small>        
+<small>Updated 8 February 2024</small>        
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester each spring.    
              
-The eleventh edition takes place in **March 2024** at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, and this time things will be a little different as we plan to use just the one studio on Friday 22 March… and *possibly* Friday 15 March.        
+The eleventh edition takes place in **March 2024** at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, and this time things will be a little different as we plan to use just the one studio on Friday 22 March… *and possibly Friday 15 March*.        
          
-Get a feel for it with 2023's [programme notes](/current/2023-turn/programme) and [gallery of images](/galleries/2023-turn).         
+Get a feel for it with 2023's [programme notes](/archive/2023-turn/programme) and [gallery of images](/galleries/2023-turn).         
         
 Greater Manchester's open call dance platform, Turn aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— a selection event for the Turn Prize commission (*see below*).         
         
@@ -45,6 +45,6 @@ We are delighted to announce (*29 January 2024*) that a commission of £4,000 wi
 2024's Turn Prize supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> using public funding from Arts Council England, and by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> and [hÅb](/hab).          
         
 #### Past Editions        
-First held at greenroom in spring 2009, Turn moved to <a href="https://contactmcr.com" target="_blank">Contact</a> in 2012.<br>The ninth edition trialled a new format, with a dozen short dance-works shown on [**28 April 2017**](/archive/2017-turn), followed by a day of professional development.<br>After a 6-year hiatus it returned to <a href="https://contactmcr.com" target="_blank">Contact</a> on [**10 March 2023**](/current/2023-turn) for a tenth edition with nine short dance-works, followed by an artist day.         
+First held at greenroom in spring 2009, Turn moved to <a href="https://contactmcr.com" target="_blank">Contact</a> in 2012.<br>The ninth edition trialled a new format, with a dozen short dance-works shown on [**28 April 2017**](/archive/2017-turn), followed by a day of professional development.<br>After a 6-year hiatus it returned to <a href="https://contactmcr.com" target="_blank">Contact</a> on [**10 March 2023**](/archive/2023-turn) for a tenth edition with nine short dance-works, followed by an artist day.         
          
-Image: Lizzy Owen at [Turn 2023](/current/2023-turn) by Tamsin Drury.
+Image: Lizzy Owen at [Turn 2023](/archive/2023-turn) by Tamsin Drury.
