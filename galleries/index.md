@@ -56,4 +56,4 @@ archived:
 ---
 
 # Galleries     
-Images from hÅb + Word of Warning's previous events, most recent first…
+See images from our previous events, listed chronologically below…&ensp;<small>Updated 8 February 2024<small>
