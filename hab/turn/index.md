@@ -20,9 +20,9 @@ season: "Turn by hÅb"
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester each spring.    
              
-The eleventh edition takes place in **March 2024** at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, and this time things will be a little different as we plan to use just the one studio on Friday 22 March… *and possibly Friday 15 March*.        
+The eleventh edition, [Turn 2024](/current/2024-turn) takes place at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, and this time things will be a little different as we plan to use just the one studio on **Friday 22 March**… *and **possibly Friday 15 March***.        
          
-Get a feel for it with 2023's [programme notes](/archive/2023-turn/programme) and [gallery of images](/galleries/2023-turn).         
+Get a feel for it with [2023's programme](/archive/2023-turn/programme) and [gallery of images](/galleries/2023-turn).         
         
 Greater Manchester's open call dance platform, Turn aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— a selection event for the Turn Prize commission (*see below*).         
         
@@ -35,7 +35,7 @@ We're experimenting with the form of Turn in 2024, to include:<br>— one or two
          
 † *<a href="http://en.wikipedia.org/wiki/North_West_England" target="_blank">North West England</a> consists of Cheshire, Cumbria, Greater Manchester, Lancashire, Merseyside; it does NOT include Yorkshire or Derbyshire*.        
         
-Turn 2024 presented by [Word of Warning](/) + <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>; produced by [hÅb](/hab); supported by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England.        
+[Turn 2024](/current/2024-turn) presented by [Word of Warning](/) + <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>; produced by [hÅb](/hab); supported by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England.        
          
 Enquiries: <mailto:turn@habmcr.org> · <a href="http://turnmcr.org" target="_blank">TurnMcr.org</a> · <a href="http://twitter.com/hashtag/TurnMcr" target="_blank">#TurnMcr</a>         
          
