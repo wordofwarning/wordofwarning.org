@@ -8,7 +8,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: "Works Ahead 2023"
-more_url: "../../current/2023-worksahead"
+more_url: "../../archive/2023-worksahead"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small>Works Ahead 2023, 18+19 May at Contact.</small>", show: "<small>All images copyright &copy2023 Word of Warning</small>"}
