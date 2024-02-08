@@ -14,10 +14,10 @@ season: "Avital Raz 3|5|2023, 8pm"
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 # show_size: 2 # optional - size of show name 2-5. Default is 2. Set longer names to lower values
-# header_image: "header.jpg" # optional custom background image, relative to current page
+# header_image: "header.jpg" # optional custom background image, relative to archive page
 
 ---
-<span style='font-variant: small-caps'>→ [ticketing](/current/2023/raz/#ticketing) · [access](/current/2023/raz/#access) · [about](/current/2023/raz/#about) · [artist](/current/2023/raz/#artist) · [reviews](/current/2023/raz/#reviews) · [credits](/current/2023/raz/#credits) · [websites](/current/2023/raz/#websites)</span><br><small>Updated 9 August 2023</small>          
+<span style='font-variant: small-caps'>→ [ticketing](/archive/2023/raz/#ticketing) · [access](/archive/2023/raz/#access) · [about](/archive/2023/raz/#about) · [artist](/archive/2023/raz/#artist) · [reviews](/archive/2023/raz/#reviews) · [credits](/archive/2023/raz/#credits) · [websites](/archive/2023/raz/#websites)</span><br><small>Updated 8 February 2024</small>          
          
 *Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a>         
          
@@ -58,4 +58,4 @@ Commissioned by Sheffield Theatres, Contact, Lancaster Arts.<br>Supported using 
 #### Websites          
 <a href="http://avitalraz.com/unnatural-cycles--a-ghost-story" target="_blank">avitalraz.com</a> · <a href="https://facebook.com/avitalrazmusic" target="_blank">Fb avitalrazmusic</a> · <a href="https://instagram.com/avital.raz" target="_blank">Insta avital.raz</a> · <a href="https://twitter.com/avitalraz" target="_blank">@avitalraz</a> · <a href="https://twitter.com/hashtag/UnnaturalCycles" target="_blank">#UnnaturalCycles</a>         
         
-<small><span style='font-variant: small-caps'>[back to top](/current/2023/raz)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2023/raz)</span></small>
