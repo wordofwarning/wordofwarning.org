@@ -17,9 +17,9 @@ season: "Emergency Evening 30|9|2023, 4pm-10pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 25 September 2023</small>     
+<small>Updated 8 February 2024</small>     
         
-*Presented by* Word of Warning *+* Contact *in the second half of [Emergency 23](/current/2023-emergency)<br>— an Evening full of short shows from 4pm*        
+*Presented by* Word of Warning *+* Contact *in the second half of [Emergency 23](/archive/2023-emergency)<br>— an Evening full of short shows from 4pm*        
          
 #### Evening Artists         
 **Saturday 30 September 2023, 4pm-10pm.**<br>Alex Billingham · Chris Brown · Egan & Pinchbeck · Gillian Dyson · Gisou Golshani · Heather Alice · Jana Aizupe & Company · Kellie Colbert · Laurie Bayley-Higgins · new func · Orla Collier · Raz & Khan<br><small>*Participating artists subject to change.*</small>         
@@ -69,7 +69,7 @@ Laurie Bayley-Higgins is a Manchester-based theatre-maker, director, and writer;
          
 *What is Addiction? What are we addicted to and why?<br>What are our and your stories of Addiction?*<br>A show that explores the reasons for personal and cultural addiction to all things: around and about what we feel, what we need just to get us through the day (and night), and the stories we tell ourselves about it to make it alright.         
          
-Avital Raz & Sohail Khan are two diverse artists working in the spheres of music, theatre, Live Art, and community settings, who met during lockdown through a creative writing peer-support group.<br>Huddersfield-based Sohail Khan makes work around heritage, the impacts of British colonialism on the contemporary landscape. He's made work for SPILL and National Review of Live Art, and is currently touring *Men's Talk*: a devised show exploring men's mental ill health.<br>Sheffield-based Avital Raz studied visual theatre in Jerusalem, before embarking on a 20-year career as a singer-songwriter and musician. She created her first solo theatre show *[My Jerusalem](/archive/2019-worksahead/raz)* in 2018, followed by *[Unnatural Cycles — A Ghost Story](/current/2023/raz)* in 2021.         
+Avital Raz & Sohail Khan are two diverse artists working in the spheres of music, theatre, Live Art, and community settings, who met during lockdown through a creative writing peer-support group.<br>Huddersfield-based Sohail Khan makes work around heritage, the impacts of British colonialism on the contemporary landscape. He's made work for SPILL and National Review of Live Art, and is currently touring *Men's Talk*: a devised show exploring men's mental ill health.<br>Sheffield-based Avital Raz studied visual theatre in Jerusalem, before embarking on a 20-year career as a singer-songwriter and musician. She created her first solo theatre show *[My Jerusalem](/archive/2019-worksahead/raz)* in 2018, followed by *[Unnatural Cycles — A Ghost Story](/archive/2023/raz)* in 2021.         
          
 <a href="http://avitalraz.com" target="_blank">avitalraz.com</a> · <a href="https://facebook.com/avitalrazmusic" target="_blank">Fb avitalrazmusic</a> · <a href="https://instagram.com/avital.raz" target="_blank">Insta avital.raz</a> · <a href="https://twitter.com/avitalraz" target="_blank">@avitalraz</a><br><a href="https://youtube.com/@trilobitefulness" target="_blank">YouTube trilobitefulness (Sohail Khan Live Art)</a>         
 <hr>         
@@ -113,7 +113,7 @@ People and plants come in lots of shapes and sizes, and grow in lots of differen
          
 Project Mentor: Peader Kirk · Supported by 53two.         
          
-Kellie Colbert is a Greater Manchester-based performance maker. She would describe herself as an autobiographical artist, who creates work that is honest, relatable, and at times self-critical. Kellie uses spoken word and symbolism to explore memories, often focusing on themes of mental health and feminism. She aims to create performance that is both self-exposing and empathetic. She has worked closely with Eggs Collective, (in)sane Mcr, Breakdown Bolton, [hÅb](/current/2023-worksahead/colbert).         
+Kellie Colbert is a Greater Manchester-based performance maker. She would describe herself as an autobiographical artist, who creates work that is honest, relatable, and at times self-critical. Kellie uses spoken word and symbolism to explore memories, often focusing on themes of mental health and feminism. She aims to create performance that is both self-exposing and empathetic. She has worked closely with Eggs Collective, (in)sane Mcr, Breakdown Bolton, [hÅb](/archive/2023-worksahead/colbert).         
          
 <a href="https://instagram.com/kellie.colbert.theatre" target="_blank">Insta kellie.colbert.theatre</a> · <a href="https://twitter.com/imKellieColbert" target="_blank">@imKellieColbert</a>         
 <hr>         
@@ -137,4 +137,4 @@ Jana Aizupe is a working-class theatre artist based in the West Midlands, primar
          
 <a href="https://instagram.com/1001create" target="_blank">Insta 1001create</a>         
 <hr>         
-<small><span style='font-variant: small-caps'>[back to top](/current/2023-emergency/evening)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2023-emergency/evening)</span></small>
