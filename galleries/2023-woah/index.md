@@ -11,7 +11,7 @@ more_link: "Works Ahead 2023"
 more_url: "../../archive/2023-worksahead"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "<small>Works Ahead 2023, 18+19 May at Contact.</small>", show: "<small>All images copyright &copy2023 Word of Warning</small>"}
+    -   {file: "titlepage.jpg", artist: "<small><i>Works Ahead at Contact, 18+19 May 2023.</i> · Kellie Colbert</small>", show: "<small>All images &copy; 2023 Word of Warning</small>"}
     -   {file: "christian1.jpg", artist: "Christian Asare"}
     -   {file: "christian2.jpg", artist: "Christian Asare"}
     -   {file: "christian3.jpg", artist: "Christian Asare"}
