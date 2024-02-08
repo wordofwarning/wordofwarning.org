@@ -20,11 +20,13 @@ season: "Emergency by hÅb"
         
 **Emergency** is our annual platform for Live Art and contemporary performance — offering a sneak preview of new live work over a single day in Manchester every autumn and now resident at <a href="https://contactmcr.com" target="_blank">Contact</a>, its seventh home.        
          
-[Manchester's 23rd](/archive/2023-emergency) micro-marathon of the bizarre, the bold, and the beautiful took over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 30 September, Noon-10pm** (see [images](/galleries/2023-emergency)).        
+[Manchester's 23rd](/archive/2023-emergency) micro-marathon of the bizarre, the bold, and the beautiful took over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 30 September 2023** with 23 works.          
+         
+Get a feel for it with 2023's [programme](/archive/2023-emergency/#artists) and [gallery of images](/galleries/2023-emergency).        
          
 Manchester's annual Live Art / performance platform, Emergency aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions.        
         
-We usually expect to present *about* 20-30 short works throughout the building — so if you would like to take part in what is *probably* England's longest-running Live Art event, please check here in summer 2024…        
+We usually expect to present *about* 20-30 short works throughout the building — so if you would like to take part in what is *probably* England's longest-running Live Art event, please check back in June 2024…        
          
 #### Emergency 23 Call for Proposals has Closed       
 Artists working in Live Art, contemporary performance, time-based media, and interdisciplinary arts were <a href="https://emergencymcr.posthaven.com" target="_blank">invited to submit proposals</a>; work can be in any relevant artform/medium, though some live presence is desirable.        
