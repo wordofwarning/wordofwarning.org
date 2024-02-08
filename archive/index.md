@@ -77,4 +77,4 @@ archived:
     
 ---
 # Archive
-Word of Warning's previous events ordered chronologically, *recent first*…
+Look back at our previous events, listed chronologically below…&ensp;<small>Updated 8 February 2024<small>
