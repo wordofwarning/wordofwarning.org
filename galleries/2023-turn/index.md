@@ -12,7 +12,7 @@ more_link: Turn 2023
 more_url: "../../archive/2023-turn"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "Zara Jane", show: "<small>All images copyright &copy; 2023 Word of Warning</small>"}
+    -   {file: "titlepage.jpg", artist: "<i>A night of new dance at Contact, Fri 10 Mar 2023</i> · Zara Jane", show: "<small>All images &copy; 2023 Word of Warning</small>"}
     -   {file: "matrafisc.jpg", artist: "Matrafisc Dance Company"}
     -   {file: "jack_evans.jpg", artist: "Jack Evans"}
     -   {file: "christian_asare.jpg", artist: "Christian Asare"}
