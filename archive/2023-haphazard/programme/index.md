@@ -16,9 +16,9 @@ season: "Haphazard 22|7|2023, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 20 July 2023</small>         
+<small>Updated 8 February 2024</small>         
          
-*[A free day out for the curious of all ages](/current/2023-haphazard) presented by* Word of Warning *+* Z-arts *on Saturday 22 July from Noon to 3pm.*         
+*[A free day out for the curious of all ages](/archive/2023-haphazard) presented by* Word of Warning *+* Z-arts *on Saturday 22 July from Noon to 3pm.*         
          
 #### Artists         
 Gemma Lees · Jana Aizupe & Gi Vasey · Joe Beedles · Julie Burrow · Kitunda Argyle · Krissi Musiol & Amy Vreeke · Luna Ælflæd · Maddie Wakeling & Rowan Szulek · Nicola Smith · Orla Collier & Magdalena Górnikiewicz · Puppetfingers · Thomas Daniel Byrne · Look at some of our [artist's images](/galleries/2023-haphazardpre).<br><small>*Participating artists subject to change; Plaster Cast unable to perform due to change of circumstances.*</small>            
@@ -139,4 +139,4 @@ A burger comes to life inside a microwave and tells a tale of dreaming to become
          
 Thomas is a performer, musician, and puppeteer based in Manchester who has worked with Horse + Bamboo, Dizzy O'Dare, Whalley Range All Stars, Handmade Theatre. His style is rooted in play and reconnecting with our sense of childhood fun and adventure.         
 <hr>         
-<small><span style='font-variant: small-caps'>[back to top](/current/2023-haphazard/programme)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2023-haphazard/programme)</span></small>
