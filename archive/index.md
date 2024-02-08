@@ -77,4 +77,4 @@ archived:
     
 ---
 # Archive
-Look back at our previous events, listed chronologically below…&ensp;<small>Updated 8 February 2024<small>
+Discover our previous events below…&ensp;<small>Updated 8 February 2024<small>
