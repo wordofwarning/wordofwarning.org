@@ -17,9 +17,9 @@ season: "Emergency Afternoon 30|9|2023, Noon-4pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 22 September 2023</small>     
+<small>Updated 8 February 2024</small>     
         
-*Presented by* Word of Warning *+* Contact *in the first half of [Emergency 23](/current/2023-emergency)<br>— an Afternoon of installations, interventions, and limited capacity works*        
+*Presented by* Word of Warning *+* Contact *in the first half of [Emergency 23](/archive/2023-emergency)<br>— an Afternoon of installations, interventions, and limited capacity works*        
          
 #### Afternoon Artists         
 **Saturday 30 September 2023, Noon-4pm.**<br>Chris Brown · E.M. Parry · GOWD · Hot Storm Productions · ITZATNA · Kelvin Atmadibrata · Lauren Greer · Louise Ward Morris · Luisa Amorim · Porcelain Delaney · Theresa Bradbury · Victoria Bone<br><small>*Participating artists subject to change; Sweætshops® unable to perform.*</small>         
@@ -137,4 +137,4 @@ Sweætshops® unable to perform *taking care of business* due to train strikes.
          
 <a href="https://swextshops.io" target="_blank">swextshops.io</a> · <a href="https://instagram.com/swextshops" target="_blank">Insta swextshops</a>
 <hr>          
-<small><span style='font-variant: small-caps'>[back to top](/current/2023-emergency/afternoon)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2023-emergency/afternoon)</span></small>
