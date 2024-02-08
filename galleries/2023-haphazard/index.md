@@ -11,7 +11,7 @@ more_link: Haphazard 2023
 more_url: "../../archive/2023-haphazard"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "<small><i>A free day out for the curious of all ages at Z-arts, Sat 22 Jul 2023.</i> · Nicola Smith at Haphazard 2019</small>", show: "Other images &copy; 2023 Word of Warning</small>"}
+    -   {file: "titlepage.jpg", artist: "<small><i>A free day out for the curious of all ages at Z-arts, Sat 22 Jul 2023</i> · Nicola Smith at Haphazard 2019</small>", show: "<small>Other images &copy; 2023 Word of Warning</small>"}
     -   {file: "puppetfingers.jpg", artist: "Puppetfingers"}
     -   {file: "burrow.jpg", artist: "Julie Burrow"}
     -   {file: "burger.jpg", artist: "Thomas Daniel Byrne"} 
