@@ -4,6 +4,11 @@ layout: archive
 season: "Archive"
 
 archived:
+    - {folder: "2023", name: "2023", class: "p2023"}
+    - {folder: "2023-emergency", name: "Emergency 23", class: "e2021"}
+    - {folder: "2023-haphazard", name: "Haphazard 2023", class: "h2023"}
+    - {folder: "2023-worksahead", name: "Works Ahead 2023", class: "w2022"}
+    - {folder: "2023-turn", name: "Turn 2023", class: "t2023"}
     - {folder: "2022", name: "2022", class: "p2022"}
     - {folder: "2022-emergency", name: "Emergency 22", class: "e2021"}
     - {folder: "2022-worksahead", name: "Works Ahead 2022", class: "w2022"}
@@ -72,4 +77,4 @@ archived:
     
 ---
 # Archive
-Word of Warning's previous events, ordered chronologically by festival or season (*recent first*)…
+Word of Warning's previous events ordered chronologically, *recent first*…
