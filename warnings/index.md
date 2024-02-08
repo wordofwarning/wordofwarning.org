@@ -19,4 +19,9 @@ Age Advisories/Limits & Content Warnings for *upcoming* events are available bel
 If issues raised affect you, these organisations may be of support:&nbsp;&nbsp;<a href="https://thecalmzone.net" target="_blank">CALM</a> 0800 585858 · <a href="https://harmless.org.uk" target="_blank">Harmless</a> · <a href="https://mind.org.uk" target="_blank">Mind</a> 0300 123 3393 · <a href="https://nopanic.org.uk" target="_blank">No Panic</a> 0300 772 9844 · <a href="https://samaritans.org" target="_blank">Samaritans</a> call 116 123 or email jo@samaritans.org · <a href="https://supportline.org.uk" target="_blank">SupportLine</a> 01708 765 200 · <a href="https://www.thesurvivorstrust.org" target="_blank">The Survivors Trust</a> 08088 010 818        
 <hr>         
 #### 2024         
-*To be added for upcoming events.*
+
+##### [March. Company Chameleon Studios | Turn 2024](/current/2024-turn)         
+Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, specifics to follow after participating artists have been announced and dates confirmed in mid-February.         
+         
+##### [27 Apr. The Lowry | *HIGH STEAKS* by ELOINA](/current/2024/ELOINA)          
+Age Advisory: **18+** (parent/guardian/carer discretion).<br>Content Warnings: full frontal nudity, strong language, handling and cooking of raw meat, discussion of genital surgery, discussion of self-harm, depictions of real mother-daughter relationships.
