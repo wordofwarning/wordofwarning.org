@@ -8,7 +8,7 @@ header:
 stylesheet: gallery.css
 
 more_link: Haphazard 2023
-more_url: "../../current/2023-haphazard"
+more_url: "../../archive/2023-haphazard"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small>A free day out for the curious of all ages, Sat 22 July at Z-arts.</small>", show: "<small>Image: Nicola Smith at Haphazard 2019 | Other images copyright &copy2023 Word of Warning</small>"}
