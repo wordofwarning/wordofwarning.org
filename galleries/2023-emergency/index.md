@@ -12,7 +12,7 @@ more_link: Emergency 23
 more_url: "../../archive/2023-emergency"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "<i>A day out for the curious at Contact, Sat 30 Sep 2023</i> · E.M. Parry"}
+    -   {file: "titlepage.jpg", artist: "<i>A day out for the curious at Contact, Sat 30 Sep 2023</i> · E.M. Parry", show: "<small>All images &copy; 2023 Word of Warning</small>"}
     -   {file: "alex.jpg", artist: "Alex Billingham"}
     -   {file: "alex2.jpg", artist: "Alex Billingham"}
     -   {file: "chrisbrown.jpg", artist: "Chris Brown"} 
