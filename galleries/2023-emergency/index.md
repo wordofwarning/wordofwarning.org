@@ -9,7 +9,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: Emergency 23
-more_url: "../../current/2023-emergency"
+more_url: "../../archive/2023-emergency"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<i>A day out for the curious at Contact, Sat 30 Sep 2023</i> · E.M. Parry"}
