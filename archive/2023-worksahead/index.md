@@ -17,11 +17,11 @@ season: "Works Ahead 18+19|5|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [ticketing](/current/2023-worksahead/#ticketing) · [access](/current/2023-worksahead/#access) · [about](/current/2023-worksahead/#about) · [artists](/current/2023-worksahead/#artists) · [credits](/current/2023-worksahead/#credits) · [websites](/current/2023-worksahead/#websites)</span><br><small>Updated 9 August 2023</small>        
+<span style='font-variant: small-caps'>→ [ticketing](/archive/2023-worksahead/#ticketing) · [access](/archive/2023-worksahead/#access) · [about](/archive/2023-worksahead/#about) · [artists](/archive/2023-worksahead/#artists) · [credits](/archive/2023-worksahead/#credits) · [websites](/archive/2023-worksahead/#websites)</span><br><small>Updated 8 February 2024</small>        
         
 *Presented by* Word of Warning + Contact        
          
-Our annual sampler evening of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2023" target="_blank">Contact</a> with a trio of new works-in-development from [artists](/current/2023-worksahead/#artists) [Christian Asare](/current/2023-worksahead/asare), [Jade Williams](/current/2023-worksahead/williams), [Kellie Colbert](/current/2023-worksahead/colbert) — searching for identity on the tightrope of our histories, amidst the isolation of our immediate pasts, and within the armour of our presents.<br>And now it's over, see [images from the event](/galleries/2023-woah).           
+Our annual sampler evening of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2023" target="_blank">Contact</a> with a trio of new works-in-development from [artists](/archive/2023-worksahead/#artists) [Christian Asare](/archive/2023-worksahead/asare), [Jade Williams](/archive/2023-worksahead/williams), [Kellie Colbert](/archive/2023-worksahead/colbert) — searching for identity on the tightrope of our histories, amidst the isolation of our immediate pasts, and within the armour of our presents.<br>And now it's over, see [images from the event](/galleries/2023-woah).           
        
 #### Ticketing          
 Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://contactmcr.com/book/instance/310558" target="_blank">Thursday</a>/<a href="https://contactmcr.com/book/instance/310559" target="_blank">Friday</a> via <a href="https://contactmcr.com/events/works-ahead-2023" target="_blank">Contact</a> or call 0161 274 0600        
@@ -36,19 +36,19 @@ Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some 
 Since 2012 it has offered over thirty-five small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events. Support includes mentoring and a public showing of the next stage of the work, in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>…        
          
 #### Artists        
-[Christian Asare · *DUAL*](/current/2023-worksahead/asare)         
+[Christian Asare · *DUAL*](/archive/2023-worksahead/asare)         
          
 *Colour is much like music — every hue a note on scale, every tone a pitch that carries… Complimentary and juxtaposed — they yet prevail…*<br>Explores the fluid multiplicity of Black identity through an interdisciplinary diasporic lens — with visual art, poetry, and Afro-contemporary choreography.         
         
 Christian is a Black British interdisciplinary artist with Ghanaian ancestry and heritage. With a background in choreography and contemporary dance, his specialisation in Afro-contemporary performance adds a unique flair to his work. Moreover, he is an independent fine artist who creates oil paintings with a particular emphasis on elevating Afrocentric imagery, portraiture, abstraction, and Afrofuturism.          
 <hr>        
-[Jade Williams · *In Search of Pablo*](/current/2023-worksahead/williams)         
+[Jade Williams · *In Search of Pablo*](/archive/2023-worksahead/williams)         
         
 *"Black, brilliant, and Manc" — born in 1810, <a href="https://en.wikipedia.org/wiki/Pablo_Fanque" target="_blank">Pablo Fanque</a> was the first Black circus owner in Britain. Come & delight in tales of Pablo's Fantastic Fair as I channel his story to explore my own journey to being Black, brilliant, & Manc.*<br>An exploration of belonging and Black identity in the diaspora.         
         
 Jade is a Black, Queer, multi-disciplinary artist and experienced teacher from Manchester working in dance, poetry, writing, performance, and creative facilitation. She has worked closely with Community Arts North West, Curious Minds, and DIY Theatre on projects for young people in Greater Manchester.          
 <hr>         
-[Kellie Colbert · *Dedicated To The One I Love* ](/current/2023-worksahead/colbert)         
+[Kellie Colbert · *Dedicated To The One I Love* ](/archive/2023-worksahead/colbert)         
          
 *And tell all the stars above. This is dedicated to the one I love.<br>(Love can never be exactly like we want it to be.)*<br>An exploration of love, betrayal, and care.        
         
@@ -62,4 +62,4 @@ Kellie is a Greater Manchester-based performance maker. She would describe herse
         
 *NB* <a href="https://contactmcr.com" target="_blank">Contact's website</a> changed on 9 May & links to their site have been updated.        
         
-<small><span style='font-variant: small-caps'>[back to top](/current/2023-worksahead)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2023-worksahead)</span></small>
