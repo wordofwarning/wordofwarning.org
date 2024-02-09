@@ -16,20 +16,20 @@ season: "Hazard by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---         
-<small>Updated 5 Jan 2023</small>        
+<small>Updated 8 February 2024</small>        
          
 **Hazard** is our biennial micro-festival of incidental intervention and sited performance — blurring the boundaries between art and activism…         
          
-Our **[eighth Hazard was a *Gambit*](/archive/2022/gambit)** in St Ann's Square on **20 August 2022** — a game of strategy came to life, as human chess pieces invaded Manchester City Centre in a new kind of powerplay: turning the tables on the traditional order. A playful intervention — see a [gallery of images](/galleries/2022-gambit) from the day.        
+Our [eighth Hazard was a *Gambit*](/archive/2022/gambit) in St Ann's Square on **20 August 2022** — a game of strategy came to life, as human chess pieces invaded Manchester City Centre in a new kind of powerplay: turning the tables on the traditional order. A playful intervention — see a [gallery of images](/galleries/2022-gambit) from the day.        
        
 [*Gambit* by Proud & Loud Arts](/archive/2022/gambit) presented by [Word of Warning](/); a [hÅb](/hab) (Hazard 2022) commission; co-produced with <a href="https://proudandloudarts.com" target="_blank">Proud & Loud Arts</a>.       
         
 Enquiries: <mailto:hazard@habmcr.org> · <a href="http://hazardmcr.org" target="_blank">hazardmcr.org</a> · <a href="https://twitter.com/hashtag/HazardMcr" target="_blank">#HazardMcr</a>        
         
 #### Past Editions        
-Our **[seventh Hazard](/archive/2018-springsummer/hazardshadowgirl)** popped up in central Manchester on **4 August 2018**, with shadowy figures moving silently through the city streets, playing, questioning, exploring visibility + vulnerability… See [images](/galleries/2018-hazard) from the day.       
+Our [seventh Hazard](/archive/2018-springsummer/hazardshadowgirl) popped up in central Manchester on **4 August 2018**, with shadowy figures moving silently through the city streets, playing, questioning, exploring visibility and vulnerability… See [images](/galleries/2018-hazard) from the day.       
         
-[Hazard 2018: *Shadow Girl* — the city streets](/archive/2018-springsummer/hazardshadowgirl) by Chrissy Jones presented by [Word of Warning](/) + <a href="https://proudandloudarts.com" target="_blank">Proud & Loud Arts</a>; supported using public funding by Arts Council England and by the National Lottery through Arts Council England.         
+[Hazard 2018](/archive/2018-springsummer/hazardshadowgirl): *Shadow Girl* — the city streets by Chrissy Jones presented by [Word of Warning](/) + <a href="https://proudandloudarts.com" target="_blank">Proud & Loud Arts</a>; supported using public funding by Arts Council England and by the National Lottery through Arts Council England.         
         
 Since 2007 over 125 artists have taken to the streets of Manchester, including Action Hero, Alex Bradley, Ali Wilson, Chinasa Vivian Ezugha, Instant Dissidence, Jordan Mackenzie, Juliann O'Malley, Katherina Radeva, Kris Canavan, Michael Pinchbeck, Nicola Hunter, Proud & Loud Arts, Richard DeDomenici, Sexcentenary, Shahram Entekhabi, and the vacuum cleaner.        
         
