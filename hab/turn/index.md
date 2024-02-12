@@ -16,11 +16,11 @@ season: "Turn by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 8 February 2024</small>        
+<small>Updated 12 February 2024</small>        
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester each spring.    
              
-The eleventh edition, [Turn 2024](/current/2024-turn) takes place at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, and this time things will be a little different as we plan to use just the one studio on **Friday 22 March**… *and **possibly Friday 15 March***.        
+The eleventh edition, [Turn 2024](/current/2024-turn) takes place at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, and this time things will be a little different as we plan to use just the one studio on **Friday 22 March from 7.30pm**…        
          
 Get a feel for it with [2023's programme](/archive/2023-turn/programme) and [gallery of images](/galleries/2023-turn).         
         
@@ -31,7 +31,7 @@ North West† dancers and dance-makers (*aged 18+*) were <a href="http://turnmcr
           
 **Proposal Deadline: Friday 2 February 2024, 5pm**         
          
-We're experimenting with the form of Turn in 2024, to include:<br>— one or two evenings of **public performances on Friday 22 March**,<br>&nbsp;&nbsp;&nbsp;&nbsp;***and Friday 15 March*** *if demand permits*;<br>— followed by an **artist day on Saturday 23 March** from 2pm,<br>&nbsp;&nbsp;&nbsp;&nbsp;incorporating a workshop or masterclasses, and feedback sessions.         
+We're experimenting with the form of Turn in 2024, to include:<br>— one evening of **public performances on Friday 22 March**,<br>&nbsp;&nbsp;&nbsp;&nbsp;(*we also considered a second evening on Friday 15 March*);<br>— followed by an **artist day on Saturday 23 March** from 2pm,<br>&nbsp;&nbsp;&nbsp;&nbsp;incorporating a workshop or masterclasses, and feedback sessions.         
          
 † *<a href="http://en.wikipedia.org/wiki/North_West_England" target="_blank">North West England</a> consists of Cheshire, Cumbria, Greater Manchester, Lancashire, Merseyside; it does NOT include Yorkshire or Derbyshire*.        
         
