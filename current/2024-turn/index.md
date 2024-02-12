@@ -29,14 +29,14 @@ Participating artists to be announced in mid-February.
 #### Ticketing         
 Pay What You Decide: £15/£10/£5/£0 | Tickets available online mid-February.         
          
-Time: Friday 22 March 2024, 7.30pm<br>Duration: *to be confirmed*, will include interval/pauses<br>Location: <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, 6 Barrass St, Manchester, M11 1PU         
+Time: Friday 22 March 2024, 7.30pm<br>Duration: *to be confirmed*, will include interval/s<br>Location: <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, 6 Barrass St, Manchester, M11 1PU         
         
 #### Access         
 Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: contemporary dance and performance works with varied content.<br>Queries: please contact [Word of Warning](/) via <mailto:info@habmcr.org>        
          
 #### About         
 [Turn](/hab/turn) is our annual platform for North West dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester.<br>
-This eleventh edition takes place at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, and this time things will be a little different as we plan to use just the one studio on Friday 22 March… (we initially considered a *potential* second evening on Friday 15 March).<br>Get a feel for it with [2023's programme](/archive/2023-turn/programme) and [gallery of images](/galleries/2023-turn).<br>*NB the public platform is followed by an artist day for participants only.*        
+This eleventh edition takes place at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, and this time things are a little different as we plan to use just the one studio…<br>*NB we considered a potential second evening on Friday 15 March.*<br>*NB the public platform is followed by an artist day for participants only.*        
         
 Greater Manchester's open call dance platform, [Turn](/hab/turn) aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— a selection event for the Turn Prize commission (returning in 2024).         
         
