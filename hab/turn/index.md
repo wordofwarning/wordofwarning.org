@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Turn" # the name of the artist or company
-show: "New North West Dance." # the name of the artist or company
+show: "New North West dance." # the name of the artist or company
 show_size: 4
 header_image: "header_turn_photo_lizzy.jpg"   
 season: "Turn by hÅb"
@@ -31,7 +31,7 @@ North West† dancers and dance-makers (*aged 18+*) were <a href="http://turnmcr
           
 **Proposal Deadline: Friday 2 February 2024, 5pm**         
          
-We're experimenting with the form of Turn in 2024, to include:<br>— one evening of **public performances on Friday 22 March**,<br>&nbsp;&nbsp;&nbsp;&nbsp;(*we also considered a second evening on Friday 15 March*);<br>— followed by an **artist day on Saturday 23 March** from 2pm,<br>&nbsp;&nbsp;&nbsp;&nbsp;incorporating a workshop or masterclasses, and feedback sessions.         
+We're experimenting with the form of Turn in 2024, to include:<br>— one evening of **public performances on Friday 22 March**<br>&nbsp;&nbsp;&nbsp;&nbsp;(we considered a *potential* second evening on Friday 15 March);<br>— followed by an **artist day on Saturday 23 March** from 2pm,<br>&nbsp;&nbsp;&nbsp;&nbsp;incorporating a workshop or masterclasses, and feedback sessions.         
          
 † *<a href="http://en.wikipedia.org/wiki/North_West_England" target="_blank">North West England</a> consists of Cheshire, Cumbria, Greater Manchester, Lancashire, Merseyside; it does NOT include Yorkshire or Derbyshire*.        
         
