@@ -29,7 +29,7 @@ Participating artists to be announced in mid-February.
 #### Ticketing         
 Pay What You Decide: £15/£10/£5/£0 | Tickets available online mid-February.         
          
-Time: Friday 22 March 2024, 7.30pm<br>Duration: *to be confirmed*, will include an interval/pauses.<br>Location: <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, 6 Barrass St, Manchester, M11 1PU         
+Time: Friday 22 March 2024, 7.30pm<br>Duration: lasts *about* 2½ hrs including an interval/pauses.<br>Location: <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, 6 Barrass St, Manchester, M11 1PU         
         
 #### Access         
 Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: contemporary dance and performance works with varied content.<br>Queries: please contact [Word of Warning](/) via <mailto:info@habmcr.org>        
