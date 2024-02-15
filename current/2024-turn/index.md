@@ -29,7 +29,7 @@ Participating artists to be announced in mid-February.
 #### Ticketing         
 Pay What You Decide: £15/£10/£5/£0 | <a href="https://eventbrite.com/e/turn-2024-tickets-837457657397" target="_blank">Tickets now available online</a>.         
          
-Time: Friday 22 March 2024, 7.30pm<br>Duration: *about* 2½ hours, includes a 20-minute interval and short pauses.<br>Location: <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, 6 Barrass St, Manchester, M11 1PU         
+Time: Friday 22 March 2024, 7.30pm (doors and bar open at 7pm).<br>Duration: *about* 2½ hours, includes a 20-minute interval and short pauses.<br>Location: <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, 6 Barrass St, Manchester, M11 1PU         
         
 #### Access         
 Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: contemporary dance and performance works with varied content.<br>Queries: please contact [Word of Warning](/) via <mailto:info@habmcr.org>        
