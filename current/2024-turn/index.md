@@ -17,14 +17,14 @@ season: "Turn 22|3|2024"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2024-turn/#artists) · [ticketing](/current/2024-turn/#ticketing) · [access](/current/2024-turn/#access) · [about](/current/2024-turn/#about) · [credits](/current/2024-turn/#credits) · [websites](/current/2024-turn/#websites)</span><br><small>Updated 16 February 2024</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2024-turn/#artists) · [ticketing](/current/2024-turn/#ticketing) · [access](/current/2024-turn/#access) · [about](/current/2024-turn/#about) · [credits](/current/2024-turn/#credits) · [websites](/current/2024-turn/#websites)</span><br><small>Updated 22 February 2024</small>        
         
 *Presented by* Word of Warning *+* Company Chameleon        
         
-Our annual whirlwind of new North West dance returns, this year at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios on **Friday 22 March from 7.30pm**…<br>Get a feel for [Turn](/hab/turn) with [2023's programme](/archive/2023-turn/programme) and [gallery of images](/galleries/2023-turn).        
+Our annual whirlwind of new North West dance returns, this year at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios on **Friday 22 March** with eight short works.<br>Get a feel for [Turn](/hab/turn) with [2023's programme](/archive/2023-turn/programme) and [gallery of images](/galleries/2023-turn).        
         
 #### Artists         
-Chris Brown · Fabiola Santana · Isaac Glenister · Jake Evans · Just_Ina · Lily Antonia · Lisa Chearles<br><small>*Participating artists subject to change.*</small>         
+Chris Brown · Fabiola Santana · Isaac Glenister · Jake Evans · Just_Ina · Lily Antonia · Lisa Chearles · Louiseanne Wong<br><small>*Participating artists subject to change.*</small>         
          
 #### Ticketing         
 Pay What You Decide: £15/£10/£5/£0 | <a href="https://eventbrite.com/e/turn-2024-tickets-837457657397" target="_blank">Tickets now available online</a>.         
@@ -37,7 +37,7 @@ Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some 
 #### About         
 [Turn](/hab/turn) is our annual platform for North West dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester. This eleventh edition takes place at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, and this time things are a little different as we use just the one studio for just one night…<br>*NB we initially announced a potential second evening on Friday 15 March.*         
         
-Greater Manchester's open call dance platform, [Turn](/hab/turn) aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— a selection event for the Turn Prize commission (returning in 2024).         
+Greater Manchester's open call dance platform, [Turn](/hab/turn) aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— a selection event for the Turn Prize commission, returning in 2024.         
         
 Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn 2024 transport you into a frenzy of dance…        
         
