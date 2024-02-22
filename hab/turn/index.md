@@ -16,22 +16,22 @@ season: "Turn by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 12 February 2024</small>        
+<small>Updated 22 February 2024</small>        
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester each spring.    
              
-The eleventh edition, [Turn 2024](/current/2024-turn) takes place at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, and this time things will be a little different as we plan to use just the one studio on **Friday 22 March from 7.30pm**…        
+The eleventh edition, [Turn 2024](/current/2024-turn) takes place at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, and this time things will be a little different as we use just the one studio to show eight short dance-works on **Friday 22 March, 7.30pm**.        
          
 Get a feel for it with [2023's programme](/archive/2023-turn/programme) and [gallery of images](/galleries/2023-turn).         
         
 Greater Manchester's open call dance platform, Turn aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— a selection event for the Turn Prize commission (*see below*).         
         
 #### Turn 2024 Call for Proposals has Closed         
-North West† dancers and dance-makers (*aged 18+*) were <a href="http://turnmcr.posthaven.com" target="_blank">invited to submit proposals</a> of: short finished pieces of work, extracts or excerpts of longer works, or works-in-progress, for inclusion in this annual event.        
+North West† dancers and dance-makers (*aged 18+*) <a href="http://turnmcr.posthaven.com" target="_blank">were invited to submit proposals</a> of: short finished pieces of work, extracts or excerpts of longer works, or works-in-progress, for inclusion in this annual event.        
           
 **Proposal Deadline: Friday 2 February 2024, 5pm**         
          
-We're experimenting with the form of Turn in 2024, to include:<br>— one evening of **public performances on Friday 22 March**<br>&nbsp;&nbsp;&nbsp;&nbsp;(we considered a *potential* second evening on Friday 15 March);<br>— followed by an **artist day on Saturday 23 March** from 2pm,<br>&nbsp;&nbsp;&nbsp;&nbsp;incorporating a workshop or masterclasses, and feedback sessions.         
+We're experimenting with the form of Turn in 2024, to include:<br>— one evening of **public performances on Friday 22 March**<br>&nbsp;&nbsp;&nbsp;&nbsp;(and we considered a *potential* second evening on Friday 15 March);<br>— followed by an **artist day on Saturday 23 March** from 2pm,<br>&nbsp;&nbsp;&nbsp;&nbsp;incorporating a workshop or masterclasses, and feedback sessions.         
          
 † *<a href="http://en.wikipedia.org/wiki/North_West_England" target="_blank">North West England</a> consists of Cheshire, Cumbria, Greater Manchester, Lancashire, Merseyside; it does NOT include Yorkshire or Derbyshire*.        
         
