@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 12 February 2024<small>        
+<small>Updated 22 February 2024<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>(Please click [here](/archive/warnings) for *past* events and *archived* livestreams on our YouTube channel.)         
          
@@ -21,7 +21,7 @@ If issues raised affect you, these organisations may be of support:&nbsp;&nbsp;<
 #### 2024         
 
 ##### [Fri 22 Mar. Company Chameleon Studios | Turn 2024](/current/2024-turn)         
-Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works may disturb; specifics to follow after participating artists have been announced in mid-February.         
+Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works may disturb; specifics to follow in early-March.         
          
 ##### [Sat 27 Apr. The Lowry | *HIGH STEAKS* by ELOINA](/current/2024/ELOINA)          
 Age Advisory: **18+** (parent/guardian/carer discretion).<br>Content Warnings: full frontal nudity, strong language, handling and cooking of raw meat, discussion of genital surgery, discussion of self-harm, depictions of real mother-daughter relationships.
