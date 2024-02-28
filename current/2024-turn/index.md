@@ -17,7 +17,7 @@ season: "Turn 22|3|2024"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2024-turn/#artists) · [ticketing](/current/2024-turn/#ticketing) · [access](/current/2024-turn/#access) · [about](/current/2024-turn/#about) · [credits](/current/2024-turn/#credits) · [websites](/current/2024-turn/#websites)</span><br><small>Updated 26 February 2024</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2024-turn/#artists) · [ticketing](/current/2024-turn/#ticketing) · [access](/current/2024-turn/#access) · [about](/current/2024-turn/#about) · [credits](/current/2024-turn/#credits) · [websites](/current/2024-turn/#websites)</span><br><small>Updated 28 February 2024</small>        
         
 *Presented by* Word of Warning *+* Company Chameleon        
         
@@ -45,5 +45,5 @@ Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn
 [Turn](/hab/turn) 2024 produced by [hÅb](/hab); supported by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England.<br>Image: Lisa Chearles by Burke Raby        
         
 #### Websites         
-<a href="https://turnmcr.org" target="_blank">TurnMcr.org</a> · <a href="https://twitter.com/hashtag/TurnMcr" target="_blank">#TurnMcr</a>               
+<a href="https://turnmcr.org" target="_blank">TurnMcr.org</a> · <a href="https://twitter.com/hashtag/TurnMcr" target="_blank">#TurnMcr</a><br>&nbsp;Chris Brown — to follow<br>&nbsp;Fabiola Santana — to follow<br>&nbsp;Isaac Glenister — to follow<br>&nbsp;Jake Evans — to follow<br>&nbsp;Just_Ina — to follow<br>&nbsp;Lily Antonia — to follow<br>&nbsp;Lisa Chearles — to follow<br>&nbsp;Louiseanne Wong — to follow         
 <small><span style='font-variant: small-caps'>[back to top](/current/2024-turn)</span></small>
