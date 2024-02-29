@@ -17,11 +17,11 @@ season: "Turn 22|3|2024"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2024-turn/#artists) · [ticketing](/current/2024-turn/#ticketing) · [access](/current/2024-turn/#access) · [about](/current/2024-turn/#about) · [credits](/current/2024-turn/#credits) · [websites](/current/2024-turn/#websites)</span><br><small>Updated 28 February 2024</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2024-turn/#artists) · [ticketing](/current/2024-turn/#ticketing) · [access](/current/2024-turn/#access) · [about](/current/2024-turn/#about) · [credits](/current/2024-turn/#credits) · [websites](/current/2024-turn/#websites)</span><br><small>Updated 29 February 2024</small>        
         
 *Presented by* Word of Warning *+* Company Chameleon        
         
-Our annual whirlwind of new North West dance returns, this year at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, with eight short works on **Friday 22 March**.<br>Look at some of our [artist's images](/galleries/2024-turnpre) and get a feel for [Turn](/hab/turn) with [2023's images](/galleries/2023-turn).        
+Our annual whirlwind of new North West dance returns, this year at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, with eight short works on **Friday 22 March**.<br>Look at some of our [artists' images](/galleries/2024-turnpre) and get a feel for [Turn](/hab/turn) with [2023's images](/galleries/2023-turn).        
         
 #### Artists         
 Chris Brown · Fabiola Santana · Isaac Glenister · Jake Evans · Just_Ina · Lily Antonia · Lisa Chearles · Louiseanne Wong<br><small>*Participating artists subject to change.*</small>         
