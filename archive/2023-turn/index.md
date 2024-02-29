@@ -17,11 +17,11 @@ season: "Turn 10|3|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/archive/2023-turn/#artists) · [ticketing](/archive/2023-turn/#ticketing) · [access](/archive/2023-turn/#access) · [about](/archive/2023-turn/#about) · [credits](/archive/2023-turn/#credits) · [websites](/archive/2023-turn/#websites)</span><br><small>Updated 8 February 2024</small>        
+<span style='font-variant: small-caps'>→ [artists](/archive/2023-turn/#artists) · [ticketing](/archive/2023-turn/#ticketing) · [access](/archive/2023-turn/#access) · [about](/archive/2023-turn/#about) · [credits](/archive/2023-turn/#credits) · [websites](/archive/2023-turn/#websites)</span><br><small>Updated 29 February 2024</small>        
         
 *Presented by* Word of Warning *+* Contact        
         
-Our annual whirlwind of new dance returns: nine† works by North West dance-makers take over <a href="https://contactmcr.com" target="_blank">Contact</a> for one extraordinary night on **Friday 10 March**.<br>Look at some of our [artist's images](/galleries/2023-turnpre) & read their [programme notes](/archive/2023-turn/programme) — and now it's over, see [images from the event](/galleries/2023-turn).         
+Our annual whirlwind of new dance returns: nine† works by North West dance-makers take over <a href="https://contactmcr.com" target="_blank">Contact</a> for one extraordinary night on **Friday 10 March**.<br>Look at some of our [artists' images](/galleries/2023-turnpre) & read their [programme notes](/archive/2023-turn/programme) — and now it's over, see [images from the event](/galleries/2023-turn).         
         
 #### Artists         
 From industrial heritage to village life, clothing to clubbing, Manchester to Ghana, inner worlds and outer expressions — an evening of physical exploration of identity featuring:<br>Christian Asare · Jack Evans · Lizzy Owen · Maisha Kungu Dance · Matrafisc Dance Company · Matter of Fact · Orla Collier · taciturn · Zara Jane<br><small>† *Participating artists subject to change; unfortunately James Hewison and Company are unable to perform due to illness.*</small>         
