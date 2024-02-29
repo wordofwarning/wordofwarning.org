@@ -15,11 +15,11 @@ season: "Haphazard 22|7|2023"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-<span style='font-variant: small-caps'>→ [artists](/archive/2023-haphazard/#artists) · [details](/archive/2023-haphazard/#details) · [access](/archive/2023-haphazard/#access) · [about](/archive/2023-haphazard/#about) · [credits](/archive/2023-haphazard/#credits) · [websites](/archive/2023-haphazard/#websites)</span><br><small>Updated 8 February 2024</small>        
+<span style='font-variant: small-caps'>→ [artists](/archive/2023-haphazard/#artists) · [details](/archive/2023-haphazard/#details) · [access](/archive/2023-haphazard/#access) · [about](/archive/2023-haphazard/#about) · [credits](/archive/2023-haphazard/#credits) · [websites](/archive/2023-haphazard/#websites)</span><br><small>Updated 29 February 2024</small>        
         
 *Presented by* Word of Warning *+* Z-arts           
          
-Playful, quirky, engaging, and sometimes plain daft: Haphazard is for kids and their adults, adults and *their* adults — anyone looking for a different day out!<br>Look at some of our [artist's images](/galleries/2023-haphazardpre) & read their [programme notes](/archive/2023-haphazard/programme) — and now it's over, see [images from the event](/galleries/2023-haphazard).         
+Playful, quirky, engaging, and sometimes plain daft: Haphazard is for kids and their adults, adults and *their* adults — anyone looking for a different day out!<br>Look at some of our [artists' images](/galleries/2023-haphazardpre) & read their [programme notes](/archive/2023-haphazard/programme) — and now it's over, see [images from the event](/galleries/2023-haphazard).         
           
 A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2" target="_blank">Z-arts</a> **on Saturday 22 July from Noon to 3pm**. Turn up at any time, come and go as you please… and expect the unexpected!         
          
