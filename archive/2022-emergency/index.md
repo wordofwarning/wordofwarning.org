@@ -17,11 +17,11 @@ season: "Emergency 1|10|2022"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/archive/2022-emergency/#artists) · [details](/archive/2022-emergency/#details) · [access](/archive/2022-emergency/#access) · [about](/archive/2022-emergency/#about) · [websites](/archive/2022-emergency/#websites)</span> · <small>Updated 5 Jan 2023</small>     
+<span style='font-variant: small-caps'>→ [artists](/archive/2022-emergency/#artists) · [details](/archive/2022-emergency/#details) · [access](/archive/2022-emergency/#access) · [about](/archive/2022-emergency/#about) · [websites](/archive/2022-emergency/#websites)</span> · <small>Updated 29 February 2024</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
-Manchester’s twenty-second micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 1 October** — with a [Daytime](/archive/2022-emergency/daytime) of performance installations, one-to-ones, and interventions from Noon — followed by an [Evening](/archive/2022-emergency/evening) full of short shows from 5pm.<br>See [artist's images](/galleries/2022-emergencypre) — and now that it's over, see [images from the event](/galleries/2022-emergency).      
+Manchester’s twenty-second micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 1 October** — with a [Daytime](/archive/2022-emergency/daytime) of performance installations, one-to-ones, and interventions from Noon — followed by an [Evening](/archive/2022-emergency/evening) full of short shows from 5pm.<br>See [artists' images](/galleries/2022-emergencypre) — and now that it's over, see [images from the event](/galleries/2022-emergency).      
         
 #### Artists         
 [**Daytime, Noon-5pm**](/archive/2022-emergency/daytime) · Charlotte McShane · Clodagh Chapman & James Varney · Hazel Lam · Julie Burrow · kane stonestreet · leon clowes · Malandra Jacks Creative · Maya Chowdhry · Nathan Walker · Nicky Murmann · Ran · Sweætshops® · Tania Camara · Ursula Troche<br>[**Evening, 5pm-10pm**](/archive/2022-emergency/evening) · Bitterroot · Bold Mellon Collective · Christian Asare · DNA Studio · Emergency Chorus · Jian Yi · Josh Coates & Alicia Jane Turner · Kellie Colbert · Kerensa Diball<br><small>*Participating artists subject to change.*</small>         
