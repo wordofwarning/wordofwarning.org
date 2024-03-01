@@ -29,7 +29,7 @@ Chris&nbsp;Brown ·&nbsp;Fabiola&nbsp;Santana ·&nbsp;Isaac&nbsp;Glenister ·&nb
 #### Ticketing         
 Pay What You Decide: £15/£10/£5/£0 | <a href="https://eventbrite.com/e/turn-2024-tickets-837457657397" target="_blank">Tickets now available online</a>.         
          
-Time: Friday 22 March 2024, 7.30pm (doors and bar open at 7pm).<br>Duration: *about* 2½ hours, includes a 20-minute interval and short pauses.<br>Location: <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, 6 Barrass St, Manchester, M11 1PU<br>*NB <a href="https://nationalrail.co.uk/stations/gorton" target="_blank">Gorton railway station</a> is a 3-minute walk: we suggest arriving on the 18:57 northern train departing Piccadilly at 18:50; alternatively use the 219 bus.*         
+Time: Friday 22 March 2024, 7.30pm (doors and bar open at 7pm).<br>Duration: *about* 2½ hours, includes a 20-minute interval and short pauses.<br>Location: <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, 6 Barrass St, Manchester, M11 1PU<br>*NB <a href="https://nationalrail.co.uk/stations/gorton" target="_blank">Gorton station</a> is a 3-minute walk and you could take the 18:57 northern train departing Piccadilly at 18:50; alternatively take the <a href="https://tfgm.com/public-transport/bus/routes/219-manchester-city-centre" target="_blank">219 bus</a>.*         
         
 #### Access         
 Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: contemporary dance and performance works with varied content.<br>Queries: please contact [Word of Warning](/) via <mailto:info@habmcr.org>        
