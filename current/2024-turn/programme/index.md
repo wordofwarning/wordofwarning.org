@@ -55,7 +55,7 @@ Content Warning: please click [here](/warnings).
          
 <a href="https://instagram.com/im_just_ina" target="_blank">Insta @im_just_ina</a>         
 <hr>         
-Lily Antonia · *Un|Seen*          
+Lily Antonia · *Un/Seen*          
          
 Content Warning: please click [here](/warnings).        
          
