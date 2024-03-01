@@ -17,19 +17,19 @@ season: "Turn 22|3|2024"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2024-turn/#artists) · [ticketing](/current/2024-turn/#ticketing) · [access](/current/2024-turn/#access) · [about](/current/2024-turn/#about) · [credits](/current/2024-turn/#credits) · [websites](/current/2024-turn/#websites)</span><br><small>Updated 29 February 2024</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2024-turn/#artists) · [ticketing](/current/2024-turn/#ticketing) · [access](/current/2024-turn/#access) · [about](/current/2024-turn/#about) · [credits](/current/2024-turn/#credits) · [websites](/current/2024-turn/#websites)</span><br><small>Updated 1 March 2024</small>        
         
 *Presented by* Word of Warning *+* Company Chameleon        
         
 Our annual whirlwind of new North West dance returns, this year at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, with eight short works on **Friday 22 March**.<br>Look at some of our [artists' images](/galleries/2024-turnpre) and get a feel for [Turn](/hab/turn) with [2023's images](/galleries/2023-turn).        
         
 #### Artists         
-Chris Brown · Fabiola Santana · Isaac Glenister · Jake Evans · Just_Ina · Lily Antonia · Lisa Chearles · Louiseanne Wong<br><small>*Participating artists subject to change.*</small>         
+Chris&nbsp;Brown ·&nbsp;Fabiola&nbsp;Santana ·&nbsp;Isaac&nbsp;Glenister ·&nbsp;Jake&nbsp;Evans ·&nbsp;Just_Ina ·&nbsp;Lily&nbsp;Antonia ·&nbsp;Lisa&nbsp;Chearles ·&nbsp;Louiseanne&nbsp;Wong<br><small>*Participating artists subject to change.*</small>         
          
 #### Ticketing         
 Pay What You Decide: £15/£10/£5/£0 | <a href="https://eventbrite.com/e/turn-2024-tickets-837457657397" target="_blank">Tickets now available online</a>.         
          
-Time: Friday 22 March 2024, 7.30pm (doors and bar open at 7pm).<br>Duration: *about* 2½ hours, includes a 20-minute interval and short pauses.<br>Location: <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, 6 Barrass St, Manchester, M11 1PU         
+Time: Friday 22 March 2024, 7.30pm (doors and bar open at 7pm).<br>Duration: *about* 2½ hours, includes a 20-minute interval and short pauses.<br>Location: <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, 6 Barrass St, Manchester, M11 1PU<br>*NB <a href="https://nationalrail.co.uk/stations/gorton" target="_blank">Gorton railway station</a> is a 3-minute walk: we suggest arriving on the 18:57 northern train departing Piccadilly at 18:50; alternatively use the 219 bus.*         
         
 #### Access         
 Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: contemporary dance and performance works with varied content.<br>Queries: please contact [Word of Warning](/) via <mailto:info@habmcr.org>        
