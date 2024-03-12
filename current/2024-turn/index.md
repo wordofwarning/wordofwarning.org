@@ -24,7 +24,7 @@ season: "Turn 22|3|2024"
 Our annual whirlwind of new North West dance returns, this year at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, with eight short works on **Friday 22 March**.<br>Look at some of our [artists' images](/galleries/2024-turnpre) and get a feel for [Turn](/hab/turn) with [2023's images](/galleries/2023-turn).        
         
 #### Artists         
-chris&nbsp;brown ·&nbsp;Fabiola&nbsp;Santana ·&nbsp;Isaac&nbsp;Glenister ·&nbsp;Jake&nbsp;Evans ·&nbsp;Just_Ina ·&nbsp;Lily&nbsp;Antonia ·&nbsp;Lisa&nbsp;Chearles ·&nbsp;Louiseanne&nbsp;Wong<br><small>*Participating artists subject to change.*</small>         
+chris&nbsp;brown&nbsp;· Fabiola&nbsp;Santana&nbsp;· Isaac&nbsp;Glenister&nbsp;· Jake&nbsp;Evans&nbsp;· Just_Ina&nbsp;· Lily&nbsp;Antonia&nbsp;· Lisa&nbsp;Chearles&nbsp;· Louiseanne&nbsp;Wong<br><small>*Participating artists subject to change.*</small>         
          
 #### Ticketing         
 Pay What You Decide: £15/£10/£5/£0 | <a href="https://eventbrite.com/e/turn-2024-tickets-837457657397" target="_blank">Tickets now available online</a>.         
