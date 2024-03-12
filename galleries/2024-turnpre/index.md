@@ -13,7 +13,7 @@ more_url: "../../current/2024-turn"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<i>A night of new dance, Fri 22 Mar 2024</i> · Lisa Chearles by Burke Raby"}
-    -   {file: "chris_brown.jpg", artist: "Chris Brown"}
+    -   {file: "chris_brown.jpg", artist: "chris brown"}
     -   {file: "fabiola_santana.jpg", artist: "Fabiola Santana by Will Dickie"}
     -   {file: "just_ina.jpg", artist: "Just_Ina"}
     -   {file: "Isaac_glenister.jpg", artist: "Isaac Glenister"}
