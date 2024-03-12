@@ -17,17 +17,17 @@ season: "Turn 22|3|2024, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 1 March 2024</small>         
+<small>Updated 12 March 2024</small>         
         
 *[A night of new NW dance on 22 March](/current/2024-turn), presented by* Word of Warning *+* Company Chameleon         
          
 #### Artists         
-Chris&nbsp;Brown ·&nbsp;Fabiola&nbsp;Santana ·&nbsp;Isaac&nbsp;Glenister ·&nbsp;Jake&nbsp;Evans ·&nbsp;Just_Ina ·&nbsp;Lily&nbsp;Antonia ·&nbsp;Lisa&nbsp;Chearles ·&nbsp;Louiseanne&nbsp;Wong<br><small>*Participating artists subject to change.*</small>         
+chris&nbsp;brown ·&nbsp;Fabiola&nbsp;Santana ·&nbsp;Isaac&nbsp;Glenister ·&nbsp;Jake&nbsp;Evans ·&nbsp;Just_Ina ·&nbsp;Lily&nbsp;Antonia ·&nbsp;Lisa&nbsp;Chearles ·&nbsp;Louiseanne&nbsp;Wong<br><small>*Participating artists subject to change.*</small>         
         
 #### Programme Notes         
 Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: contemporary dance and performance works with varied content.<br>Queries: please contact [Word of Warning](/) via <mailto:info@habmcr.org>         
 <hr>         
-Chris Brown · *bodi/less*         
+chris brown · *bodi/less*         
          
 Content Warning: please click [here](/warnings).        
          
