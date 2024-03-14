@@ -17,60 +17,113 @@ season: "Turn 22|3|2024, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 12 March 2024</small>         
+<small>Updated 14 March 2024</small>         
         
 *[A night of new NW dance on 22 March](/current/2024-turn), presented by* Word of Warning *+* Company Chameleon         
          
 #### Artists         
-chris&nbsp;brown&nbsp;· Fabiola&nbsp;Santana&nbsp;· Isaac&nbsp;Glenister&nbsp;· Jake&nbsp;Evans&nbsp;· Just_Ina&nbsp;· Lily&nbsp;Antonia&nbsp;· Lisa&nbsp;Chearles&nbsp;· Louiseanne&nbsp;Wong<br><small>*Participating artists subject to change.*</small>         
+chris&nbsp;brown&nbsp;· Fabíola&nbsp;Santana&nbsp;· Isaac&nbsp;Glenister&nbsp;· Jake&nbsp;Evans&nbsp;· Just_Ina&nbsp;· Lily&nbsp;Antonia&nbsp;· Lisa&nbsp;Chearles&nbsp;· Louiseanne&nbsp;Wong<br><small>*Participating artists subject to change.*</small>         
         
 #### Programme Notes         
 Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: contemporary dance and performance works with varied content.<br>Queries: please contact [Word of Warning](/) via <mailto:info@habmcr.org>         
 <hr>         
-chris brown · *bodi/less*         
+**chris brown** · *bodi/less*        
          
+Examining, texture, adaptation, and inner working systems, *bodi/less* tries to exist inside the body's inner working systems without the outside world. Backdropped against a video of a visually expansive world it combines explorations of Butoh, endurance performance, and somatic-based movement. chris asks you to consider yourself as the entire universe, prompting the question: what is loneliness when the whole universe is inside you?         
+          
+Featuring *the things that bind you*, a short improvisational movement film exploring immersion and adaptability, this piece threads a collaboration between different worlds.         
+         
+Directed/performed by chris brown · D.O.P.: Sophie Broadgate · 1st AD: Bill Sutton         
+       
 Content Warning: please click [here](/warnings).        
+         
+chris is a multidisciplinary artist who works in live performance, film, video, and participatory settings. His work has been described as “Joyful, Communal and Tender” — ilovemanchester.com on *LOB*         
          
 <a href="https://chrisbtheatre.com" target="_blank">chrisbtheatre.com</a> · <a href="https://instagram.com/christopher.p.brown" target="_blank">Insta @christopher.p.brown</a> · <a href="https://twitter.com/ChristopherActB" target="_blank">X @ChristopherActB</a>         
 <hr>         
-Fabiola Santana · *Mothers, Grandmothers, and their Post Colonial Children*         
+**Fabíola Santana** · *Mothers, Grandmothers, and their Post Colonial Children*         
          
+How has colonialism impacted the care we have received from our elders? How did we experience their resilience? What nurturing strategies can we share with each other to help us thrive, in a mainstream society that seeks to racialise and dehumanise us? Can we create rituals and spaces to care for ourselves?         
+         
+Three women from the Global Ethnic Majority whose families have been impacted by Colonisation — sharing their own histories of care, resilience, and legacy through the body. Going beyond everyday storytelling, transforming those energies into a live experience.         
+         
+Lead Artist: Fabíola Santana · Performed by Fabíola Santana, Jessica Morgado, Fae Wolfe · Outside Eye: WilL Dickie · Supported by a Divergency micro-commission (2020) & LADA DIY (2021).         
+        
 Content Warning: please click [here](/warnings).        
          
+Fabíola is a dance artist exploring performance as a medium for connection, transformation, and exchange. Her practice combines classical and contemporary dance training, immersive theatre, audience participation, actor training, live art.<br>Jessica is an emerging dance artist based in Cambridge. She works internationally as a dancer, teacher, and collaborator.<br>Fae is a registered Movement Facilitator & coach with ISMETA. Her current research focuses on how embodied writing can support decolonial movement practices for women of colour in academia.<br>        
 <a href="https://fabiolasantana.co.uk" target="_blank">fabiolasantana.co.uk</a> · <a href="https://instagram.com/fbs.santana" target="_blank">Insta @fbs.santana</a> · <a href="https://twitter.com/fbs_santana" target="_blank">X @fbs_santana</a>         
 <hr>         
-Isaac Glenister · *Lower Broughton*         
+**Isaac Glenister** · *Lower Broughton*         
          
-<a href="https://instagram.com/isaacglenister" target="_blank">Insta @isaacglenister</a>         
+A performance highlighting the changes that went through Broughton and the surrounding area of Salford between 2000-2007, in which investment helped improve the infrastructure; however, it sent impulses of fear through the neighbourhood. This piece extracts inspiration from both the Salford regeneration map and Dan Glenister's artwork made at the time.         
+         
+Isaac is a dance artist from Manchester, recently graduated from Rambert School. Over the last year he has been freelancing in London and Manchester, often in fashion and music videos. He is currently developing and showcasing his own work.         
+         
+<a href="https://instagram.com/isaacglenister" target="_blank">Insta @isaacglenister</a>        
 <hr>         
-Jake Evans · *Queer New World*         
+**Jake Evans** · *Queer New World*         
+         
+A work-in-progress that combines dance, drag, and poetry to explore what parts of ourselves we hide from the world, and what parts we feel we can show. What we have to destroy in order to survive, and what we desperately reconstruct. What we perform for others, and what's left after the show's over.         
+         
+Inspired by the moments shared on disco dance floors and on the makeshift stages of D-I-Y cabarets. For this piece Jake collaborated with the poet/performers Brendan Curtis and Day Mattar, of Liverpool-based poetry collective Queer Bodies. This solo is intended for development into a full-length work.         
+         
+Writing & Choreography: Jake Evans · Movement & Rehearsal Direction: Stefania Pinato · Poetry Mentors: Brendan Curtis & Day Mattar · Dramaturgy: Harry May-Bedell · Lighting Design: Mark Baker · Costume: Jake Evans · Wig: Miss Blair · *The Plea (Be Tender)* recorded by Rory Ballantyne at Bidston Observatory, Wirral · Supported using public funding by the National Lottery through Arts Council England; developed at Northern Connections '22.         
          
 Content Warning: please click [here](/warnings).        
          
+Jake is a dance artist based in Manchester. He has worked with Gary Clarke Company, Vincent Dance Theatre, The Royal Shakespeare Company, Shaper/Caper, Opera North. His poetry appears in *Queer Icons: A Queer Bodies Anthology* and he is also a drag performer working throughout Manchester and beyond.         
+        
 <a href="https://jakeevans.co.uk" target="_blank">jakeevans.co.uk</a> · <a href="https://instagram.com/jakedanielevanss" target="_blank">Insta @jakedanielevanss</a>         
 <hr>         
-Just_Ina · *l'Enfant Malade*         
+**Just_Ina** · *l'Enfant Malade*         
+         
+When you have been escaping all your life, are you truly willing to escape?<br>*L'Enfant Malade* explores the bittersweet reality of being stuck in the familiarity of suffering and the repetitive cycle of trying to break out, yet not being willing to leave at the same time. You can hate it, but its addictive comfort will inexorably have you love it, too.<br>So, are you still willing to escape?         
          
 Content Warning: please click [here](/warnings).        
+         
+Justyna is an independent dance artist trained in Manchester and Brussels, while also broadening her horizons in the Netherlands, Hungary, and Italy. She explores her creative side by combining dance with theatre. Having choreographed for an internationally acclaimed British independent film, *Hilda*, a few years ago, she has since been chasing the creative thrill and is now challenging herself in a vulnerable solo performance. In her movement practice, she puts a strong focus on biomechanics and psychology. Being a qualified L4 Sports Massage Therapist allows her to further indulge in movement geekiness and develop in multiple directions.         
          
 <a href="https://instagram.com/im_just_ina" target="_blank">Insta @im_just_ina</a>         
 <hr>         
-Lily Antonia · *Un\Seen*          
+**Lily Antonia** · *Un/Seen*          
+          
+*What are the parts of ourselves that we are able to express freely in the safety of our own space… Behind closed doors, without outside eyes.*      
+   
+This piece gives a vulnerable and authentic insight to a person alone in their bedroom experiencing the highs and lows that come with solitude. Witness the interchangeability of joy, boredom, frustration, curiosity, conflict, silliness, and sorrow as we journey through states of being. Leaving space to ask ourselves the question: *what parts of me are unseen?*         
          
+Choreographed & performed by Lily Antonia · Music: *Straw Dogs* by Loscil, *Deceiver* by Loscil, *Voila* by Barbra Pravi, *Astral Distance* by Muni Yogi, *Arnofio* by Laurent Wilks · With special thanks to Company Chameleon and Maisha Kungu.         
+        
 Content Warning: please click [here](/warnings).        
+         
+Lily is a contemporary dancer, choreographer, and teacher. Since graduating Trinity Laban they have worked as a freelance artist in the UK and abroad, sharing movement and telling stories through performance and workshops. They are especially interested in creating work that is relatable, accessible, and human; harnessing dance to connect to the world around us and those we share it with.         
          
 <a href="https://instagram.com/lily.antonia" target="_blank">Insta @lily.antonia</a>         
 <hr>         
-Lisa Chearles · *Where Sleeping Dogs Lie*         
+**Lisa Chearles** · *Where Sleeping Dogs Lie*         
          
+Two performers are illuminated and enveloped in shadow in a dance with the light and each other, scrambling from and toward the light, evading and then craving it in an ever-evolving relationship with exposure and erasure, scrutiny, and sanctuary.         
+         
+Choreographer & Director: Lisa Chearles · Performers: Lisa Chearles & Jordan Sheard · Collaborator (R&D): Sammantha Yue · Music: Devon Bonelli · D.O.P: Brannon Yau · Special thanks to Sigma Contemporary Dance (Singapore) and Company of Others for the space and funding.         
+          
 Content Warning: please click [here](/warnings).        
+         
+Lisa (she/her) is a Singaporean dancer and choreographer, moving and making in Manchester. She has performed with Kapow Dance Circus Theatre, Coalesce Dance Theatre, SAY, Excessive Human Collective, Si Rawlinson, amongst others. She makes dance films and dance with film capturing the visceral and surreal.<br>Jordan (she/her) is a Manchester-based dancer, choreographer, and producer. Fuelled by the joy of moving, discovered through youth dance programs, she has worked with Casson & Friends, Coalesce Dance Theatre, Wired Aerial Theatre, and more, to bring projects to life.         
          
 <a href="https://instagram.com/mestakes" target="_blank">Insta @mestakes</a>         
 <hr>         
-Louiseanne Wong · *I Am. Am I (work in progress)*         
+**Louiseanne Wong** · *I Am. Am I (work in progress)*         
+         
+A human story told through movement, dance, and circus. Louiseanne explores their struggle with social norms, displacement, and unlearning how they were 'conditioned' in Hong Kong.         
+        
+They question labelling theory — some given, some self-identifying (e.g. from-from, foreigner) — and raise awareness of social inequalities using a fridge, sloganised T-shirts, sound design, and urban anti-establishment forms like parkour, art du deplacement, and krump.         
+         
+Sound Designer: Sharon Tsang · Outside Eye / Movement Director: Aline David · Lighting Designer: Jen Roxburgh · Counselling Psychologist: Kasturi Torchia · Dramaturg: Daniel York Loh · Krump mentor: Amanda Pefkou · Crying Out Loud mentor: Rachel Clare · Production images: Shawn J Stephen · Shared at The Lowry's Scratch Nights x Circus April 2023 and Resolution 2024, The Place.         
          
 Content Warning: please click [here](/warnings).        
+         
+Louiseanne (she/they) is a non-binary East Asian artist and coach, born and bred in Hong Kong. They explore stigmatisation towards BAME artists and how this impacts their practice. They fuse dance, circus, parkour, and art du deplacement to map themself in space, playing with non-horizontal dimensions, object manipulation, and overcoming obstacles. Recent credits include *Free Your Mind*, and D2C Lab 2021 artist mentored by Anthony Missen.         
           
 <a href="https://facebook.com/wonglouiseanne" target="_blank">Fb /wonglouiseanne</a> · <a href="https://instagram.com/louiseannewong" target="_blank">Insta @louiseannewong</a> · <a href="https://twitter.com/louiseannewong" target="_blank">X @louiseannewong</a>        
-<hr>         
+<hr>          
 <small><span style='font-variant: small-caps'>[back to top](/current/2024-turn/programme)</span></small>
