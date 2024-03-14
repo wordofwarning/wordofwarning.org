@@ -66,19 +66,19 @@ Isaac is a dance artist from Manchester, recently graduated from Rambert School.
          
 A work-in-progress that combines dance, drag, and poetry to explore what parts of ourselves we hide from the world, and what parts we feel we can show. What we have to destroy in order to survive, and what we desperately reconstruct. What we perform for others, and what's left after the show's over.         
          
-Inspired by the moments shared on disco dance floors and the makeshift stages of D-I-Y cabarets. For this piece Jake collaborated with the poets / performers Brendan Curtis & Day Mattar of Liverpool-based poetry collective Queer Bodies. This solo is intended for development into a full-length work.         
+Inspired by the moments shared on disco dance floors and the makeshift stages of D-I-Y cabarets. For this piece Jake collaborated with the poet/performers Brendan Curtis & Day Mattar of Liverpool-based poetry collective Queer Bodies. This solo is intended for development into a full-length work.         
          
 Content Warning: please click [here](/warnings).        
          
 Writing & Choreography: Jake Evans · Movement & Rehearsal Direction: Stefania Pinato · Poetry Mentors: Brendan Curtis & Day Mattar · Dramaturgy: Harry May-Bedell · Lighting Design: Mark Baker · Costume: Jake Evans · Wig: Miss Blair · *The Plea (Be Tender)* recorded by Rory Ballantyne at Bidston Observatory, Wirral · Supported using public funding by the National Lottery through Arts Council England; developed at Northern Connections '22.         
          
-Jake is a dance artist based in Manchester. He has worked with Gary Clarke Company, Vincent Dance Theatre, The Royal Shakespeare Company, Opera North, Shaper/Caper. His poetry appears in *Queer Icons: A Queer Bodies Anthology* and he is also a drag performer working throughout Manchester and beyond.         
+Jake is a dance artist based in Manchester. He has worked with Gary Clarke Company, Vincent Dance Theatre, The Royal Shakespeare Company, Shaper/Caper, Opera North. His poetry appears in *Queer Icons: A Queer Bodies Anthology* and he is also a drag performer working throughout Manchester and beyond.         
         
 <a href="https://jakeevans.co.uk" target="_blank">jakeevans.co.uk</a> · <a href="https://instagram.com/jakedanielevanss" target="_blank">Insta @jakedanielevanss</a>         
 <hr>         
 **Just_Ina** · *l'Enfant Malade*         
          
-*When you have been escaping all your life, are you truly willing to escape?<br>*L'Enfant Malade* explores the bittersweet reality of being stuck in the familiarity of suffering and the repetitive cycle of trying to break out, yet not being willing to leave at the same time.<br>You can hate it, but its addictive comfort will inexorably have you love it, too.<br>*So, are you still willing to escape?*         
+*When you have been escaping all your life, are you truly willing to escape?*<br>*L'Enfant Malade* explores the bittersweet reality of being stuck in the familiarity of suffering and the repetitive cycle of trying to break out, yet not being willing to leave at the same time.<br>You can hate it, but its addictive comfort will inexorably have you love it, too.<br>*So, are you still willing to escape?*         
          
 Content Warning: please click [here](/warnings).        
          
