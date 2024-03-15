@@ -56,7 +56,7 @@ Fabíola is a dance artist exploring performance as a medium for connection, tra
 <hr>         
 **Isaac Glenister** · *Lower Broughton*         
          
-A performance highlighting the changes that went through Broughton and the surrounding area of Salford from 2000 to 2007, in which investment helped improve the infrastructure; however, it sent impulses of fear through the neighbourhood. This piece extracts inspiration from both the Salford regeneration map and Dan Glenister's artwork made at the time.         
+A performance highlighting the changes that went through Broughton and the surrounding area of Salford from 2000 to 2007 in which investment helped improve the infrastructure; however, it sent impulses of fear through the neighbourhood. This piece extracts inspiration from both the Salford regeneration map and Dan Glenister's artwork made at the time.         
          
 Isaac is a dance artist from Manchester, recently graduated from Rambert School. Over the last year he has been freelancing in London and Manchester, often in fashion and music videos. He is currently developing and showcasing his own work.         
          
@@ -94,7 +94,7 @@ This piece gives a vulnerable and authentic insight to a person alone in their b
          
 Content Warning: please click [here](/warnings).        
          
-Choreographed & performed by Lily Antonia · Music: *Straw Dogs* & *Deceiver* by Loscil, *Voila* by Barbra Pravi, *Astral Distance* by Muni Yogi, *Arnofio* by Laurent Wilks · With special thanks to Company Chameleon and Maisha Kungu.         
+Choreographed & performed by Lily Antonia · Music: *Straw Dogs* and *Deceiver* by Loscil, *Voila* by Barbra Pravi, *Astral Distance* by Muni Yogi, *Arnofio* by Laurent Wilks · With special thanks to Company Chameleon and Maisha Kungu.         
         
 Lily Antonia is a contemporary dancer, choreographer, and teacher. Since graduating Trinity Laban they have worked as a freelance artist in the UK and abroad, sharing movement and telling stories through performance and workshops. They are especially interested in creating work that is relatable, accessible, and human; harnessing dance to connect to the world around us and those we share it with.         
          
