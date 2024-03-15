@@ -17,7 +17,7 @@ season: "Turn 22|3|2024, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 14 March 2024</small>         
+<small>Updated 15 March 2024</small>         
         
 *[A night of new NW dance on 22 March](/current/2024-turn), presented by* Word of Warning *+* Company Chameleon         
          
@@ -41,7 +41,7 @@ chris is a multidisciplinary artist who works in live performance, film, video, 
          
 <a href="https://chrisbtheatre.com" target="_blank">chrisbtheatre.com</a> · <a href="https://instagram.com/christopher.p.brown" target="_blank">Insta @christopher.p.brown</a> · <a href="https://twitter.com/ChristopherActB" target="_blank">X @ChristopherActB</a>         
 <hr>         
-**Fabíola Santana** · *Mothers, Grandmothers, and their Post Colonial Children*         
+**Fabíola Santana** · *Mothers, Grandmothers, and Their (post)colonial Children*         
          
 *How has colonialism impacted the care we have received from our elders? How did we experience their resilience? What nurturing strategies can we share with each other to help us thrive, in a mainstream society that seeks to racialise and dehumanise us? Can we create rituals and spaces to care for ourselves?*         
          
