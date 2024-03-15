@@ -35,7 +35,7 @@ Featuring *the things that bind you*, a short improvisational movement film expl
          
 Content Warning: please click [here](/warnings).        
          
-Directed/performed by chris brown · DOP: Sophie Broadgate · 1st AD: Bill Sutton         
+Film directed/performed by chris brown · DOP: Sophie Broadgate · 1st AD: Bill Sutton         
        
 chris is a multidisciplinary artist who works in live performance, film, video, and participatory settings. His work has been described as "Joyful, Communal and Tender" — ilovemanchester.com on *LOB*.         
          
