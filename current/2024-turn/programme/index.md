@@ -17,7 +17,7 @@ season: "Turn 22|3|2024, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 15 March 2024</small>         
+<small>Updated 18 March 2024</small>         
         
 *[A night of new NW dance on 22 March](/current/2024-turn), presented by* Word of Warning *+* Company Chameleon         
          
@@ -29,15 +29,17 @@ Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some 
 <hr>         
 **chris brown** · *bodi/less*        
          
-Examining, texture, adaptation, and inner working systems, *bodi/less* tries to exist inside the body's inner working systems without the outside world. Backdropped against a video of a visually expansive world it combines explorations of Butoh, endurance performance, and somatic-based movement. chris asks you to consider yourself as the entire universe, prompting the question: what is loneliness when the whole universe is inside you?         
-          
-Featuring *the things that bind you*, a short improvisational movement film exploring immersion and adaptability, this piece threads a collaboration between different worlds.         
+*what is loneliness when the whole universe is inside you?*         
+         
+Examining texture, adaptation, and inner working systems, *bodi/less* combines explorations of Butoh, endurance performance, and somatic-based movement.        
+        
+Featuring *the things that bind you*, a short improvisational movement film that examines immersion and tenderness within ecosystems. *bodi/less* explores improvisational collaboration between different visual worlds.         
          
 Content Warning: please click [here](/warnings).        
          
-Film directed/performed by chris brown · DOP: Sophie Broadgate · 1st AD: Bill Sutton         
+Film directed/performed by chris brown · DOP: Sophie Broadgate · 1st AD: Bill Sutton · Film supported using public funding by the National Lottery through Arts Council England.         
        
-chris is a multidisciplinary artist who works in live performance, film, video, and participatory settings. His work has been described as "Joyful, Communal and Tender" — ilovemanchester.com on *LOB*.         
+chris is a multidisciplinary artist who works in live performance, film, video, and participatory settings. His work has been described as "Joyful, Communal and Tender" on *LOB* — ilovemanchester.com         
          
 <a href="https://chrisbtheatre.com" target="_blank">chrisbtheatre.com</a> · <a href="https://instagram.com/christopher.p.brown" target="_blank">Insta @christopher.p.brown</a> · <a href="https://twitter.com/ChristopherActB" target="_blank">X @ChristopherActB</a>         
 <hr>         
