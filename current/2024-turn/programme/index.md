@@ -39,7 +39,7 @@ Content Warning: please click [here](/warnings).
          
 Film directed/performed by chris brown · DOP: Sophie Broadgate · 1st AD: Bill Sutton · Film supported using public funding by the National Lottery through Arts Council England.         
        
-chris is a multidisciplinary artist who works in live performance, film, video, and participatory settings. His work has been described as "Joyful, Communal and Tender" on *LOB* — ilovemanchester.com         
+chris is a multidisciplinary artist who works in live performance, film, video, and participatory settings. His work has been described as "Joyful, Communal and Tender" — ilovemanchester.com on *LOB*        
          
 <a href="https://chrisbtheatre.com" target="_blank">chrisbtheatre.com</a> · <a href="https://instagram.com/christopher.p.brown" target="_blank">Insta @christopher.p.brown</a> · <a href="https://twitter.com/ChristopherActB" target="_blank">X @ChristopherActB</a>         
 <hr>         
