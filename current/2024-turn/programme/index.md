@@ -17,7 +17,7 @@ season: "Turn 22|3|2024, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 18 March 2024</small>         
+<small>Updated 19 March 2024</small>         
         
 *[A night of new NW dance on 22 March](/current/2024-turn), presented by* Word of Warning *+* Company Chameleon         
          
@@ -89,16 +89,16 @@ Justyna is an independent dance artist trained in Manchester and Brussels, while
 <a href="https://instagram.com/im_just_ina" target="_blank">Insta @im_just_ina</a>         
 <hr>         
 **Lily Antonia** · *Un/Seen*          
-          
+
 *What are the parts of ourselves that we are able to express freely in the safety of our own space… Behind closed doors, without outside eyes.*      
-   
-This piece gives a vulnerable and authentic insight to a person alone in their bedroom experiencing the highs and lows that come with solitude. Witness the interchangeability of joy, boredom, frustration, curiosity, conflict, silliness, and sorrow as we journey through states of being. Leaving space to ask ourselves the question: *what parts of me are unseen?*         
+
+This work (in progress) gives a vulnerable and authentic insight to a person alone in their bedroom experiencing the fluctuations that come with solitude. Witness the interchangeability of joy, boredom, frustration, curiosity, conflict, silliness, and sorrow as we journey through states of being.         
          
-Content Warning: please click [here](/warnings).        
-         
-Choreographed & performed by Lily Antonia · Music: *Straw Dogs* and *Deceiver* by Loscil, *Voila* by Barbra Pravi, *Astral Distance* by Muni Yogi, *Arnofio* by Laurent Wilks · With special thanks to Company Chameleon and Maisha Kungu.         
-        
-Lily Antonia is a contemporary dancer, choreographer, and teacher. Since graduating Trinity Laban they have worked as a freelance artist in the UK and abroad, sharing movement and telling stories through performance and workshops. They are especially interested in creating work that is relatable, accessible, and human; harnessing dance to connect to the world around us and those we share it with.         
+Leaving space to ask ourselves the question: *what of us is unseen?*         
+          
+Choreographed & performed by Lily Antonia · With special thanks to Company Chameleon.         
+              
+Lily Antonia is a dance artist, teacher, and choreographer based in Manchester. Since graduating Trinity Laban they have been creating as a freelancer in the UK and internationally — sharing movement and telling stories through performance and workshops. They are especially interested in creating work that explores human relationships, making art accessible and relatable — using dance to connect to our inner and outer worlds and those we share it with. 
          
 <a href="https://instagram.com/lily.antonia" target="_blank">Insta @lily.antonia</a>         
 <hr>         
