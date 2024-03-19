@@ -93,7 +93,6 @@ Justyna is an independent dance artist trained in Manchester and Brussels, while
 *What are the parts of ourselves that we are able to express freely in the safety of our own space… Behind closed doors, without outside eyes.*      
 
 This work (in progress) gives a vulnerable and authentic insight to a person alone in their bedroom experiencing the fluctuations that come with solitude. Witness the interchangeability of joy, boredom, frustration, curiosity, conflict, silliness, and sorrow as we journey through states of being.         
-         
 Leaving space to ask ourselves the question: *what of us is unseen?*         
           
 Choreographed & performed by Lily Antonia · With special thanks to Company Chameleon.         
