@@ -17,7 +17,7 @@ season: "Turn 22|3|2024, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 19 March 2024</small>         
+<small>Updated 21 March 2024</small>         
         
 *[A night of new NW dance on 22 March](/current/2024-turn), presented by* Word of Warning *+* Company Chameleon         
          
@@ -94,9 +94,11 @@ Justyna is an independent dance artist trained in Manchester and Brussels, while
 
 This work (in progress) gives a vulnerable and authentic insight into a person alone in their bedroom experiencing the fluctuations that come with solitude. Witness the interchangeability of joy, boredom, frustration, curiosity, conflict, silliness, and sorrow as we journey through states of being.         
 Leaving space to ask ourselves the question: *what of us is unseen?*         
-          
+         
+Content Warning: please click [here](/warnings).         
+         
 Choreographed & performed by Lily Antonia · With special thanks to Company Chameleon.         
-              
+         
 Lily Antonia is a dance artist, teacher, and choreographer based in Manchester. Since graduating Trinity Laban they have been creating as a freelancer in the UK and internationally — sharing movement and telling stories through performance and workshops. They are especially interested in creating work that explores human relationships, making art accessible and relatable — using dance to connect to our inner and outer worlds and those we share it with. 
          
 <a href="https://instagram.com/lily.antonia" target="_blank">Insta @lily.antonia</a>         
