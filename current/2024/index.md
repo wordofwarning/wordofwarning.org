@@ -8,9 +8,9 @@ artist_size: 1
 season: "Performance Programme 2024"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2024/#about) · [audiences](/current/2024/#audiences) · [by](/current/2024/#by) · [people](/current/2024/#people) · [warnings](/current/2024/#warnings)</span><br><small>Updated 12 February 2024</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2024/#about) · [audiences](/current/2024/#audiences) · [by](/current/2024/#by) · [people](/current/2024/#people) · [warnings](/current/2024/#warnings)</span><br><small>Updated 26 March 2024</small>        
          
-*Watch a whirlwind night of new dance in [Turn 2024](/current/2024-turn) at <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios on 22 March — and experience [ELOINA](/current/2024/ELOINA)'s riotous rebellion against labia-shaming and cosmetic labia surgery at <a href="https://thelowry.com" target="_blank">The Lowry</a> on 27 April.*         
+*We began with a whirlwind night of new dance in [Turn 2024](/current/2024-turn) at <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios on 22 March — experience [ELOINA](/current/2024/ELOINA)'s riotous rebellion against labia-shaming and cosmetic labia surgery at <a href="https://thelowry.com" target="_blank">The Lowry</a> on 27 April.*         
          
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
