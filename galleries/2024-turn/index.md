@@ -19,7 +19,7 @@ gallery:
     -   {file: "fabiola_santana2.jpg", artist: "Fabiola Santana"}
     -   {file: "just_ina.jpg", artist: "Just_Ina"}
     -   {file: "just_ina2.jpg", artist: "Just_Ina"}
-    -   {file: "isaac_glenister.jpg", artist: "Isaac Glenister"}
+    -   {file: "isaac_glenister1.jpg", artist: "Isaac Glenister"}
     -   {file: "isaac_glenister2.jpg", artist: "Isaac Glenister"}
     -   {file: "jake_evans.jpg", artist: "Jake Evans"}
     -   {file: "jake_evans2.jpg", artist: "Jake Evans"}
