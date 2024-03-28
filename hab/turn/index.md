@@ -20,7 +20,7 @@ season: "Turn by hÅb"
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester each spring.    
              
-The eleventh edition, [Turn 2024](/current/2024-turn) takes place at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, and this time things will be a little different as we use just the one studio to show eight short dance-works on **Friday 22 March, 7.30pm**.        
+The eleventh edition, [Turn 2024](/current/2024-turn) took place at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, and this time things were a little different as we used just the one studio to show eight short dance-works on **Friday 22 March, 7.30pm**.        
          
 Read [2024's programme notes](/current/2024-turn/programme) and look at [images from the event](/galleries/2024-turn) — delve further with [2023's programme](/archive/2023-turn/programme) and [gallery of images](/galleries/2023-turn).         
         
