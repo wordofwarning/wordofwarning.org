@@ -23,10 +23,10 @@ gallery:
     -   {file: "jake_evans2.jpg", artist: "Jake Evans"}
     -   {file: "just_ina.jpg", artist: "Just_Ina"}
     -   {file: "just_ina2.jpg", artist: "Just_Ina"}
+    -   {file: "lily_antonia.jpg", artist: "Lily Antonia"}
+    -   {file: "lily_antonia2.jpg", artist: "Lily Antonia"}
     -   {file: "lisa_chearles.jpg", artist: "Lisa Chearles"}
     -   {file: "lisa_chearles2.jpg", artist: "Lisa Chearles"}
-    -   {file: "just_ina.jpg", artist: "Just_Ina"}
-    -   {file: "just_ina2.jpg", artist: "Just_Ina"}
     -   {file: "louiseanne_wong.jpg", artist: "Louiseanne Wong"}
     -   {file: "louiseanne_wong2.jpg", artist: "Louiseanne Wong"}
 ---
