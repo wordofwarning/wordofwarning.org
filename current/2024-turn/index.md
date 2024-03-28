@@ -17,12 +17,12 @@ season: "Turn 22|3|2024"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2024-turn/#artists) · [ticketing](/current/2024-turn/#ticketing) · [access](/current/2024-turn/#access) · [about](/current/2024-turn/#about) · [credits](/current/2024-turn/#credits) · [websites](/current/2024-turn/#websites)</span><br><small>Updated 15 March 2024</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2024-turn/#artists) · [ticketing](/current/2024-turn/#ticketing) · [access](/current/2024-turn/#access) · [about](/current/2024-turn/#about) · [credits](/current/2024-turn/#credits) · [websites](/current/2024-turn/#websites)</span><br><small>Updated 28 March 2024</small>        
         
 *Presented by* Word of Warning *+* Company Chameleon        
         
-Our annual whirlwind of new North West dance returns, this year at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, with eight short works on **Friday 22 March**.<br>Look at some of our [artists' images](/galleries/2024-turnpre) and read their [programme notes](/current/2024-turn/programme).        
-        
+Our annual whirlwind of new North West dance returns, this year at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, with eight short works on **Friday 22 March**.<br>Look at some of our [artists' images](/galleries/2024-turnpre) & read their [programme notes](/current/2024-turn/programme) — and now it's over, see [images from the event](/galleries/2024-turn).         
+         
 #### Artists         
 chris&nbsp;brown&nbsp;· Fabíola&nbsp;Santana&nbsp;· Isaac&nbsp;Glenister&nbsp;· Jake&nbsp;Evans&nbsp;· Just_Ina&nbsp;· Lily&nbsp;Antonia&nbsp;· Lisa&nbsp;Chearles&nbsp;· Louiseanne&nbsp;Wong<br><small>*Participating artists subject to change.*</small>         
          
