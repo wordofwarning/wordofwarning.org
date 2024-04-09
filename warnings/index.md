@@ -21,4 +21,4 @@ If issues raised affect you, these organisations may be of support:&nbsp;&nbsp;<
 #### 2024         
         
 ##### [27 Apr. The Lowry | *HIGH STEAKS* by ELOINA](/current/2024/ELOINA)          
-Age Advisory: **18+** (parent/guardian/carer discretion).<br>Content Warnings: full frontal nudity, strong language, handling and cooking of raw meat, discussion of genital surgery, discussion of self-harm, depictions of real mother-daughter relationships, and strong language used throughout. *Potential* audience interaction could include coming on stage and drawing ELOINA,this is an invitation and you are encouraged to only do this if you would like.
+Age Advisory: **18+** (parent/guardian/carer discretion).<br>Content Warnings: full frontal nudity, strong language, handling and cooking of raw meat, discussion of genital surgery, discussion of self-harm, depictions of real mother-daughter relationships. *Potential* audience interaction could include coming on stage and drawing ELOINA — this is an invitation and you are encouraged to only do this if you would like.
