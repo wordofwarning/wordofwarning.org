@@ -8,7 +8,7 @@ artist_size: 1
 season: "Performance Programme 2024"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2024/#about) · [audiences](/current/2024/#audiences) · [by](/current/2024/#by) · [people](/current/2024/#people) · [warnings](/current/2024/#warnings)</span><br><small>Updated 26 March 2024</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2024/#about) · [audiences](/current/2024/#audiences) · [by](/current/2024/#by) · [people](/current/2024/#people) · [warnings](/current/2024/#warnings)</span><br><small>Updated 11 April 2024</small>        
          
 *We began with a whirlwind night of new dance in [Turn 2024](/current/2024-turn) at <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios on 22 March — experience [ELOINA](/current/2024/ELOINA)'s riotous rebellion against labia-shaming and cosmetic labia surgery at <a href="https://thelowry.com" target="_blank">The Lowry</a> on 27 April.*         
          
@@ -38,11 +38,11 @@ Word of Warning is a project by Manchester-based [hÅb](/hab) — you might not 
 hÅb produces, develops, and advocates for Live Art, contemporary performance, and sited work in the North of England.<br>We're supported using public funding by <a href="https://www.artscouncil.org.uk/npo" target="_blank">Arts Council England</a>; a <a href="http://divergencymcr.org" target="_blank">Divergency</a> core partner — encouraging diversity in Live Art; a <a href="https://manchesterindependents.org" target="_blank">Manchester Independents</a> lead partner — highlighting GM artists; a member of <a href="http://liveartuk.org" target="_blank">Live Art UK</a>, <a href="http://gm-artisthub.co.uk" target="_blank">GM Artist Hub</a>, <a href="https://g-mast.org" target="_blank">GMAST Network</a>, and the GM LGBTQ+ Arts & Culture Network.         
 >*Refreshing company that brings diverse shows to our door steps.*<br>*WoW are great, supporting emerging work and bringing it to new audiences.*<br>*Wonderful, daring performances that I have never been disappointed by.<br>A needed company in Manchester, feels like they really support artists.*<br>&nbsp;— Audience feedback         
          
-Performance Programme [2024](/current/2024) is brought to you by [hÅb](/hab), with <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> and <a href="https://thelowry.com" target="_blank">The Lowry</a>, supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> and <a href="https://projectauske.com" target="_blank">Project Auske</a>.        
+Performance Programme [2024](/current/2024) is brought to you by [hÅb](/hab), with partners <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, <a href="https://thelowry.com" target="_blank">The Lowry</a>, <a href="https://www.z-arts.org" target="_blank">Z-arts</a>.        
 <small><span style='font-variant: small-caps'>[back to top](/current/2024)</span></small>        
          
 #### People        
-Tamsin Drury, [hÅb](/hab)'s Director, has been around a while — a really long while — she's been responsible for making the Arndale Tower flash, wrapping Cathedral Gardens in 7km of hazard tape, and firing a glitter-cannon to the *Hallelujah* chorus! On the less eccentric side, over the years hÅb has worked with hundreds of NW artists to help them create new work. Please send programming enquiries to her via <mailto:info@habmcr.org>        
+Tamsin Drury, [hÅb](/hab)'s Director, has been around a while — a really long while — she's been responsible for making the Arndale Tower flash, wrapping Cathedral Gardens in 7km of hazard tape, and firing a glitter-cannon to the *Hallelujah* chorus! On the less eccentric side, over the years hÅb has worked with hundreds of GM & NW artists to help them create new work. Please send programming enquiries to her via <mailto:info@habmcr.org>        
         
 John Franklin-Johnston, hÅb's Programme Manager, is a freelance producer, events manager, facilitator, and was <a href="http://greenroomarts.org" target="_blank">greenroom</a>'s programme co-ordinator.         
          
