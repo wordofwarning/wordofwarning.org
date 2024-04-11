@@ -19,7 +19,9 @@ season: "Haphazard 27|7|2024"
         
 *Presented by* Word of Warning *+* Z-arts           
          
-Playful, quirky, engaging, and sometimes plain daft: Haphazard is for kids and their adults, adults and *their* adults — anyone looking for a different day out!<br>Get a feel for [Haphazard](/hab/haphazard) with [images](/galleries/2023-haphazard) and [programme notes](/archive/2023-haphazard/programme) from last year.<br>*In [2023](/archive/2023-haphazard) we saw lasers, slinkies, silver birds, woolly jellyfish, and a shower of confetti… join us to see what 2024 might bring.*         
+Playful, quirky, engaging, and sometimes plain daft: Haphazard is for kids and their adults, adults and *their* adults — anyone looking for a different day out!         
+         
+In [2023 we saw](/galleries/2023-haphazard) lasers, slinkies, silver birds, woolly jellyfish, and a shower of confetti… join us to see what 2024 might bring.         
           
 A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2024" target="_blank">Z-arts</a> **on Saturday 27 July from 1pm to 4pm**. Turn up at any time, come and go as you please… and expect the unexpected!         
          
