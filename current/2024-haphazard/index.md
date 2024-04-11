@@ -41,12 +41,12 @@ Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Conte
 #### About         
 [Haphazard](/hab/haphazard) is our frequent foray into 'all ages' Live Art, with intriguing images and offbeat oddities dotted around and about Hulme's historic <a href="https://www.z-arts.org/about-us" target="_blank">Z-arts</a> building.         
          
-This seventh edition will present *about* a dozen works — we've previously seen ping pong balls & squeaky toys; singing fish & a sax-playing bear; paintball golf & human quoits; a giant periscope, a golden toilet, and a tiny bee-shaped world…        
+This seventh edition will present *about* a dozen works — we've previously seen ping pong balls & squeaky toys; singing fish & a sax-playing bear; paintball golf & human quoits; a giant periscope, a golden toilet, a tiny bee-shaped world…        
         
 Get a feel for it by looking at image galleries from [2023](/galleries/2023-haphazard), [2019](/galleries/2019-haphazard), [2017](/galleries/2017-haphazard), [2016](/galleries/2016-haphazard), [2015](/galleries/2015-haphazard), [2013](/galleries//2013-haphazard) — and programmes from [2023](/archive/2023-haphazard/programme), [2019](/archive/2019-haphazard/programme), [2017](/archive/2017-haphazard/programme), [2016](/archive/2016-haphazard/programme), [2015](/archive/2015-haphazard), [2013](/archive/2013-spring/haphazard).
          
 #### Credits                 
-[Haphazard](/hab/haphazard) 2024 produced by [hÅb](/hab) with <a href="https://z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England, and by Manchester City Council and Greater Manchester Combined Authority.<br>Header image: Puppetfingers (Alison Whitehead) at [Haphazard 2023](/archive/2023-haphazard)          
+[Haphazard](/hab/haphazard) 2024 produced by [hÅb](/hab) with <a href="https://z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England, and by Manchester City Council and Greater Manchester Combined Authority.<br>Header image: Puppetfingers at [Haphazard 2023](/archive/2023-haphazard)          
         
 #### Websites         
 <a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> · <a href="https://twitter.com/hashtag/HaphazardMcr" target="_blank">#HaphazardMcr</a>         
