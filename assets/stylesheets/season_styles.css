@@ -995,6 +995,27 @@
 	.t2024 .splash
 		{background:url(../images/header_turn24_lisa.jpg) center center}
 
+/* Haphazard 2024 yellow & Puppetfingers cheesy moon on purple from Hap23
+------------------------------------------------------*/
+
+	.h2024,
+	.h2024 .artist, 
+	.h2024 .show,
+	.h2024 .season
+		{background:#fb3; color:#000;}
+
+	.h2024 a,
+	.h2024 a:visited,
+	.h2024 a:hover
+		{color:#000;}
+	.h2024 nav a:hover,
+	.h2024 article a:hover,
+	.h2024 footer a:hover
+		{background:#000; color:#fb3;}
+
+	.h2024 .splash
+		{background:url(../images/header_hap24.jpg) center center}
+
 /* 2024 Programme peach frills
 ------------------------------------------------------*/
 
