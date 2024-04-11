@@ -12,7 +12,7 @@ season: "News"
 # show_size: 1 # optional - size 1-5. Default is 1. Set longer names to lower values
 
 ---
-<span style='font-variant: small-caps'>→ [things to watch](/news/#audiences) · [artist opportunities](/news/#artists), [advice](/news/#advice), [support](/news/#support)</span><br><small>Updated 28 March 2024<small>        
+<span style='font-variant: small-caps'>→ [things to watch](/news/#audiences) · [artist opportunities](/news/#artists), [advice](/news/#advice), [support](/news/#support)</span><br><small>Updated 11 April 2024<small>        
 <hr>          
 #### Audiences         
 Our [Performance Programme](/current/2024) continues with [ELOINA](/current/2024/ELOINA)'s riotous rebellion against labia-shaming and cosmetic labia surgery in *HIGH STEAKS*, presented as a <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a> with <a href="https://thelowry.com" target="_blank">The Lowry</a> on **Saturday 27 April, 8pm**; further events to be announced…<br>• Take a look at what happened recently in our [image galleries](/galleries) for March's [Turn](/galleries/2024-turn) and [last year](/archive/2023)'s [Emergency](/galleries/2023-emergency), [Haphazard](/galleries/2023-haphazard), [Works Ahead](/galleries/2023-woah), and [Turn](/galleries/2023-turn).<br>• Find work to watch by reading our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a>, a regular signpost to performance live and online in Manchester + beyond: sign-up <a href="http://eepurl.com/i_Odb" target="_blank">here</a>.<br>• Visit our <a href="https://youtube.com/@warnmcr" target="_blank">YouTube channel</a> to watch archived livestreams and more.<br>• Have a look at <a href="https://screen.homemcr.org" target="_blank">HOME SCREEN</a>, <a href="https://thelowry.com/lowry-digital" target="_blank">Lowry Digital</a>, <a href="https://sadlerswells.com/digital-stage" target="_blank">Sadler's Wells Digital Stage</a>, <a href="https://unitytheatreliverpool.co.uk/unity-online" target="_blank">Unity Online</a>.        
@@ -27,7 +27,7 @@ Essentially industry-facing, [hÅb](/hab) advises and supports artists and freel
 <span style='font-variant: small-caps'>[back to top](/news)</span>         
          
 ##### Support         
-• Arts Council England's <a href="https://artscouncil.org.uk/DYCP" target="_blank">Developing Your Creative Practice</a> **Round 20 is now open; closes 11 April 2024, Noon**.         
+• Arts Council England's <a href="https://artscouncil.org.uk/DYCP" target="_blank">Developing Your Creative Practice</a> **Round 20 is now closed; Round 21 opens 25 July 2024, Noon**.         
 • Arts Council England's <a href="https://artscouncil.org.uk/projectgrants" target="_blank">National Lottery Project Grants</a> are available, with new guidance AND new forms **since 1 November 2023**.        
 • Arts Council England host information webinars for <a href="https://artscouncil.org.uk/DYCP" target="_blank">DYCP</a> & <a href="https://artscouncil.org.uk/projectgrants" target="_blank">NLPG</a> applicants — find dates and book on the <a href="https://www.eventbrite.co.uk/o/arts-council-england-events-north-28185338891" target="_blank">ACE North eventbrite page</a>.        
 • Arts Marketing Association's <a href="http://facebook.com/groups/AMACommunitySupport" target="_blank">Community Support Facebook Group</a> — for arts, culture, and heritage professionals with marketing and communication responsibilities to engage audiences with cultural organisations.          
