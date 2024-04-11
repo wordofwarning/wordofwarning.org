@@ -16,7 +16,7 @@ Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Wee
         
 Visit our <a href="https://youtube.com/@warnmcr" target="_blank">YouTube channel</a> to watch archived livestreams and more.<br>Find further information for both audiences and artists on our [News](/news) page.         
         
-Discover what happened last year in our [2023 archive](/archive/2023) — and please <a href="https://www.illuminate-data.org.uk/survey/mlklqx" target="_blank">tell us your thoughts</a> if you've been to any of our events (or watched a livestream).        
+Discover what happened last year in our [2023 archive](/archive/2023) — and please <a href="https://www.illuminate-data.org.uk/survey/pjxnmc" target="_blank">tell us your thoughts</a> if you come to any of our events or watch a livestream.        
 <small><span style='font-variant: small-caps'>[back to top](/current/2024)</span></small>        
         
 #### About         
@@ -38,7 +38,7 @@ Word of Warning is a project by Manchester-based [hÅb](/hab) — you might not 
 hÅb produces, develops, and advocates for Live Art, contemporary performance, and sited work in the North of England.<br>We're supported using public funding by <a href="https://www.artscouncil.org.uk/npo" target="_blank">Arts Council England</a>; a <a href="http://divergencymcr.org" target="_blank">Divergency</a> core partner — encouraging diversity in Live Art; a <a href="https://manchesterindependents.org" target="_blank">Manchester Independents</a> lead partner — highlighting GM artists; a member of <a href="http://liveartuk.org" target="_blank">Live Art UK</a>, <a href="http://gm-artisthub.co.uk" target="_blank">GM Artist Hub</a>, <a href="https://g-mast.org" target="_blank">GMAST Network</a>, and the GM LGBTQ+ Arts & Culture Network.         
 >*Refreshing company that brings diverse shows to our door steps.*<br>*WoW are great, supporting emerging work and bringing it to new audiences.*<br>*Wonderful, daring performances that I have never been disappointed by.<br>A needed company in Manchester, feels like they really support artists.*<br>&nbsp;— Audience feedback         
          
-Performance Programme 2024 is brought to you by [hÅb](/hab), with partners <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia Nw</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, <a href="https://thelowry.com" target="_blank">The Lowry</a>, <a href="https://www.z-arts.org" target="_blank">Z-arts</a>.        
+Performance Programme 2024 is brought to you by [hÅb](/hab), with partners <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia NW</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, <a href="https://thelowry.com" target="_blank">The Lowry</a>, <a href="https://www.z-arts.org" target="_blank">Z-arts</a>.        
 <small><span style='font-variant: small-caps'>[back to top](/current/2024)</span></small>        
          
 #### People        
@@ -46,7 +46,7 @@ Tamsin Drury, [hÅb](/hab)'s Director, has been around a while — a really long
         
 John Franklin-Johnston, hÅb's Programme Manager, is a freelance producer, events manager, facilitator, and was <a href="http://greenroomarts.org" target="_blank">greenroom</a>'s programme co-ordinator.         
          
-Peader Kirk, artist + mentor, supports [Works Ahead](/hab/worksahead) and other hÅb projects.         
+Peader Kirk, artist & mentor, supports [Works Ahead](/hab/worksahead) and other hÅb projects.         
          
 We're grateful for the ongoing support of hÅb projects from a team of freelancers and volunteers that includes: Alison Darnbrough, Andrew Crofts, Catherine Shaw, Sam Stockdale, Stacey Potter, Tania Camara, Tricia Coleman, plus Theatre and Performance students from The Arden.         
          
