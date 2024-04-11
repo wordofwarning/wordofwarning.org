@@ -1,52 +1,51 @@
 ---
 # CONFIGURATION
-layout: 2023-haphazard
+layout: 2024-haphazard
 rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Haphazard 2023" # the name of the artist or company
+artist: "Haphazard 2024" # the name of the artist or company
 show: "A free day out for the curious of all ages." # the name of the show
 artist_size: 1
 show_size: 4
-season: "Haphazard 22|7|2023"
+season: "Haphazard 27|7|2024"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-<span style='font-variant: small-caps'>→ [artists](/archive/2023-haphazard/#artists) · [details](/archive/2023-haphazard/#details) · [access](/archive/2023-haphazard/#access) · [about](/archive/2023-haphazard/#about) · [credits](/archive/2023-haphazard/#credits) · [websites](/archive/2023-haphazard/#websites)</span><br><small>Updated 29 February 2024</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2024-haphazard/#artists) · [details](/current/2024-haphazard/#details) · [access](/current/2024-haphazard/#access) · [about](/current/2024-haphazard/#about) · [credits](/current/2024-haphazard/#credits) · [websites](/current/2024-haphazard/#websites)</span><br><small>Updated 11 April 2024</small>        
         
 *Presented by* Word of Warning *+* Z-arts           
          
 Playful, quirky, engaging, and sometimes plain daft: Haphazard is for kids and their adults, adults and *their* adults — anyone looking for a different day out!<br>Look at some of our [artists' images](/galleries/2023-haphazardpre) & read their [programme notes](/archive/2023-haphazard/programme) — and now it's over, see [images from the event](/galleries/2023-haphazard).         
           
-A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2" target="_blank">Z-arts</a> **on Saturday 22 July from Noon to 3pm**. Turn up at any time, come and go as you please… and expect the unexpected!         
+A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2024" target="_blank">Z-arts</a> **on Saturday 27 July from 1pm to 4pm**. Turn up at any time, come and go as you please… and expect the unexpected!         
          
 *Lasers firing, slinkies dancing, book-learned mime, and a shower of confetti.<br>A flock of birds — scoundrels of the sky, laying woollen eggs, making dreams come true.<br>A bold pink giant spinning jellyfish.<br>One small nibble for mouse, one giant bite for micekind.<br>Magical bananas and a micro(wave) puppet show.<br>A nice big tower held together with cream.<br>Touch, mess, and play with everything — things are popping…*        
        
 #### Artists         
-Gemma Lees · Jana Aizupe & Gi Vasey · Joe Beedles · Julie Burrow · Kitunda Argyle · Krissi Musiol & Amy Vreeke · Luna Ælflæd · Maddie Wakeling & Rowan Szulek · Nicola Smith · Orla Collier & Magdalena Górnikiewicz · Puppetfingers · Thomas Daniel Byrne<br><small>*Participating artists subject to change; Plaster Cast unable to perform due to change of circumstances.*</small>         
+<small>*Participating artists to be announced — the call is open until xxx.*</small>         
          
 #### Details         
 Entry: free, no booking required (come and go as you please).         
          
-Times: Saturday 22 July 2023, Noon-3pm (turn up at any time).<br>Location: <a href="https://z-arts.org/home/your-visit-to-z-arts/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA<br>*NB* with artists located in multiple spaces, and some works having a short duration and/or repeating, you may not get a chance to see everything.          
+Times: Saturday 27 July 2024, 1pm to 4pm (turn up at any time).<br>Location: <a href="https://z-arts.org/home/your-visit-to-z-arts/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA<br>*NB* with artists located in multiple spaces, and some works having a short duration and/or repeating, you may not get a chance to see everything.          
          
 #### Access         
-Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>**Allergy Warnings: latex (balloons) / popcorn.**<br>Content Warnings: flashing light, laser & haze, loud/sudden noise; some works involve interaction, some may disturb; please click [here](/warnings) for specific warnings.<br>Features: Live Art, performance, and participatory works with varied content.<br>*NB* takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some participatory.<br>Queries: please contact <a href="https://z-arts.org/home/your-visit-to-z-arts/access" target="_blank">Z-arts</a>, 0161 226 1912 or <mailto:boxoffice@z-arts.org>        
+Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Content Warnings: some works may involve interaction, some may disturb; please click [here](/warnings) for specific warnings.<br>Features: Live Art, performance, and participatory works with varied content.<br>*NB* takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some participatory.<br>Queries: please contact <a href="https://z-arts.org/home/your-visit-to-z-arts/access" target="_blank">Z-arts</a>, 0161 226 1912 or <mailto:boxoffice@z-arts.org>        
          
 #### About         
 [Haphazard](/hab/haphazard) is our frequent foray into 'all ages' Live Art, with intriguing images and offbeat oddities dotted around and about Hulme's historic <a href="https://www.z-arts.org/about-us" target="_blank">Z-arts</a> building.         
          
-After a 4-year hiatus, this sixth edition presents thirteen works — previous editions have seen ping pong balls and squeaky toys; a singing fish and a sax-playing bear; paintball golf and human quoits; a giant periscope, a golden toilet, and a tiny bee-shaped world…        
+This seventh edition will present *about* a dozen works — previous editions have seen ping pong balls and squeaky toys; a singing fish and a sax-playing bear; paintball golf and human quoits; a giant periscope, a golden toilet, and a tiny bee-shaped world…        
         
-Get a feel for it by looking at image galleries from [2019](/galleries/2019-haphazard), [2017](/galleries/2017-haphazard), [2016](/galleries/2016-haphazard), [2015](/galleries/2015-haphazard), [2013](/galleries//2013-haphazard) — and programmes from [2019](/archive/2019-haphazard/programme), [2017](/archive/2017-haphazard/programme), [2016](/archive/2016-haphazard/programme), [2015](/archive/2015-haphazard), [2013](/archive/2013-spring/haphazard).
+Get a feel for it by looking at image galleries from [2023](/galleries/2023-haphazard), [2019](/galleries/2019-haphazard), [2017](/galleries/2017-haphazard), [2016](/galleries/2016-haphazard), [2015](/galleries/2015-haphazard), [2013](/galleries//2013-haphazard) — and programmes from [2023](/archive/2023-haphazard/programme), [2019](/archive/2019-haphazard/programme), [2017](/archive/2017-haphazard/programme), [2016](/archive/2016-haphazard/programme), [2015](/archive/2015-haphazard), [2013](/archive/2013-spring/haphazard).
          
 #### Credits                 
-[Haphazard](/hab/haphazard) 2023 produced by [hÅb](/hab) with <a href="https://z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England, and by Manchester City Council and Greater Manchester Combined Authority.<br>Header image: Nicola Smith at [Haphazard 2019](/archive/2019-haphazard)          
+[Haphazard](/hab/haphazard) 2024 produced by [hÅb](/hab) with <a href="https://z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England, and by Manchester City Council and Greater Manchester Combined Authority.<br>Header image: Puppetfingers (Alison Whitehead) at [Haphazard 2023](/archive/2023-haphazard)          
         
 #### Websites         
-<a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> · <a href="https://twitter.com/hashtag/HaphazardMcr" target="_blank">#HaphazardMcr</a><br>&nbsp;Gemma Lees — <a href="https://facebook.com/gemmathepoet" target="_blank">Facebook gemmathepoet</a> · <a href="https://instagram.com/gemisace" target="_blank">Insta gemisace</a><br>&nbsp;Jana Aizupe — <a href="https://instagram.com/1001create" target="_blank">Insta 1001create</a><br>&nbsp;Joe Beedles — <a href="https://www.joebeedles.com/recent/cheshire-cat-quanta" target="_blank">joebeedles.com</a> · <a href="https://instagram.com/joebeedles" target="_blank">Insta joebeedles</a><br>&nbsp;Julie Burrow — <a href="https://instagram.com/juliesusieb" target="_blank">Insta juliesusieb</a> · <a href="https://twitter.com/juliesusieb" target="_blank">@juliesusieb</a><br>&nbsp;Kitunda Argyle — <a href="https://danielhunt.live" target="_blank">danielhunt.live</a><br>&nbsp;Krissi Musiol — <a href="https://krissimusiol.com" target="_blank">krissimusiol.com</a> · <a href="https://facebook.com/KrissiMusiolPerformance" target="_blank">Fb KrissiMusiolPerformance</a> · <a href="https://instagram.com/krissi_musiol_performance" target="_blank">Insta krissi_musiol_performance</a> · <a href="https://twitter.com/KrissiMusiol" target="_blank">@KrissiMusiol</a><br>&nbsp;Amy Vreeke — <a href="https://amyvreeke.com" target="_blank">amyvreeke.com</a> · <a href="https://facebook.com/Amyvreekecomedian" target="_blank">Fb Amyvreekecomedian</a> · <a href="https://instagram.com/amyvreeke" target="_blank">Insta amyvreeke</a> · <a href="https://twitter.com/amyvreeke" target="_blank">@amyvreeke</a><br>&nbsp;Luna Ælflæd — <a href="https://instagram.com/snot.grrrl" target="_blank">Insta snot.grrrl</a><br>&nbsp;Maddie Wakeling — <a href="https://instagram.com/maddie.wakeling" target="_blank">Insta maddie.wakeling</a><br>&nbsp;Rowan Szulek — <a href="https://roszu.weebly.com" target="_blank">roszu.weebly.com</a><br>&nbsp;Nicola Smith — <a href="https://nsartist.myportfolio.com" target="_blank">nsartist.myportfolio.com</a> · <a href="https://instagram.com/access_friendly_performer" target="_blank">Insta access_friendly_performer</a><br>&nbsp;Orla Collier — <a href="https://instagram.com/orla.collier" target="_blank">Insta orla.collier</a><br>&nbsp;Magdalena Górnikiewicz — <a href="https://instagram.com/gornik.iewicz" target="_blank">Insta gornik.iewicz</a><br>&nbsp;Puppetfingers — <a href="https://puppetfingers.com" target="_blank">puppetfingers.com</a> · <a href="https://instagram.com/puppetfingers" target="_blank">Insta puppetfingers</a><br>&nbsp;Alison Whitehead — <a href="https://instagram.com/a.whthd" target="_blank">Insta a.whthd</a>         
-         
-<small><span style='font-variant: small-caps'>[back to top](/archive/2023-haphazard)</span></small>
+<a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> · <a href="https://twitter.com/hashtag/HaphazardMcr" target="_blank">#HaphazardMcr</a>         
+<small><span style='font-variant: small-caps'>[back to top](/current/2024-haphazard)</span></small>
