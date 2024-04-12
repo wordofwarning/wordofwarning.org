@@ -29,7 +29,7 @@ Get a feel for it with [2023's programme](/archive/2023-haphazard/programme) and
 Enquiries: <mailto:haphazard@habmcr.org> · <a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> · <a href="http://twitter.com/hashtag/HaphazardMcr" target="_blank">#HaphazardMcr</a>              
         
 #### Past Editions        
-Taking over <a href="https://z-arts.org" target="_blank">Z-arts</a> irregularly since February 2013, Haphazard has previously seen ping pong balls & squeaky toys; singing fish & a sax-playing bear; paintball golf & human quoits; a giant periscope, a golden toilet, and a tiny bee-shaped world…         
+Taking over <a href="https://z-arts.org" target="_blank">Z-arts</a> irregularly since 2013, Haphazard has previously seen ping pong balls & squeaky toys; singing fish & a sax-playing bear; paintball golf & human quoits; a giant periscope, a golden toilet, and a tiny bee-shaped world…         
          
 Get a feel for it by looking at image galleries from [2023](/galleries/2023-haphazard), [2019](/galleries/2019-haphazard), [2017](/galleries/2017-haphazard), [2016](/galleries/2016-haphazard), [2015](/galleries/2015-haphazard), [2013](/galleries//2013-haphazard) — and programmes from [2023](/archive/2023-haphazard/programme), [2019](/archive/2019-haphazard/programme), [2017](/archive/2017-haphazard/programme), [2016](/archive/2016-haphazard/programme), [2015](/archive/2015-haphazard), [2013](/archive/2013-spring/haphazard).         
          
