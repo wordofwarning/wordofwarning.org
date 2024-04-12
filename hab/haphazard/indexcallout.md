@@ -16,13 +16,13 @@ season: "Haphazard by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---         
-<small>Updated 12 June 2024</small>        
+<small>Updated 12 April 2024</small>        
         
-**Haphazard** is our frequent foray into 'all ages' Live Art, with intriguing images and offbeat oddities dotted around and about the historic <a href="https://z-arts.org/about-us" target="_blank">Z-arts</a> building in Manchester's Hulme. Playful, quirky, engaging, and sometimes plain daft: a free afternoon of Live Art for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out!            
+**Haphazard** is our frequent foray into 'all ages' Live Art, with intriguing images and offbeat oddities dotted around and about Manchester's historic <a href="https://z-arts.org/about-us" target="_blank">Z-arts</a> building.        
          
-[Haphazard 2024](/current/2024-haphazard) is our seventh Live Art takeover of <a href="https://z-arts.org/events/haphazard-2024" target="_blank">Z-arts</a>, on **Saturday 27 July, 1pm-4pm** — turn up at any time, come and go as you please… and expect the unexpected!         
+Playful, quirky, engaging, and sometimes plain daft: this is Live Art for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out!            
          
-Get a feel for it with [2023's programme](/archive/2023-haphazard/programme) and [gallery of images](/galleries/2023-haphazard).        
+[Haphazard 2024](/current/2024-haphazard) is our seventh free 'all ages' Live Art takeover of <a href="https://z-arts.org/events/haphazard-2024" target="_blank">Z-arts</a>, on **Saturday 27 July, 1pm-4pm** — turn up at any time, come and go as you please… and expect the unexpected! Get a feel for it with [2023's programme](/archive/2023-haphazard/programme) and [gallery of images](/galleries/2023-haphazard).        
         
 #### Haphazard 2024 Call for Proposals         
 Artists are now <a href="https://haphazard.posthaven.com" target="_blank">invited to submit proposals</a> for inclusion in this event: this is not Live Art for children, but Live Art for ALL AGES — and we mean from tot to timeworn, 8 months to 80 years — so work should have appeal for adults and children alike (even if the kids need to explain it to the adults!)        
