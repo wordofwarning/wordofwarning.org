@@ -22,7 +22,7 @@ season: "Haphazard by hÅb"
          
 Playful, quirky, engaging, and sometimes plain daft: this is Live Art for kids and their adults, adults and *their* adults — anyone looking for a different day out!          
          
-After a 4-year hiatus, [Haphazard 2023](/archive/2023-haphazard) was our sixth free Live Art takeover of <a href="https://z-arts.org" target="_blank">Z-arts</a>, with thirteen works on **Saturday 22 July 2023, Noon-3pm** — you could turn up at any time, come and go as you please… and expect the unexpected!         
+After a 4-year hiatus, [Haphazard 2023](/archive/2023-haphazard) was our sixth free Live Art takeover of <a href="https://z-arts.org" target="_blank">Z-arts</a>, with thirteen works on **Saturday 22 July 2023** — you could turn up at any time, come and go as you please… and expect the unexpected!         
          
 Get a feel for it with [2023's programme](/archive/2023-haphazard/programme) and [gallery of images](/galleries/2023-haphazard).        
           
