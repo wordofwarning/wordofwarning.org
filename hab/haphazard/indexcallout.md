@@ -22,7 +22,9 @@ season: "Haphazard by hÅb"
          
 Playful, quirky, engaging, and sometimes plain daft: this is Live Art for kids and their adults, adults and *their* adults — anyone looking for a different day out!            
          
-Our seventh free takeover of <a href="https://z-arts.org/events/haphazard-2024" target="_blank">Z-arts</a>, [Haphazard 2024](/current/2024-haphazard) is on **Saturday 27 July, 1pm-4pm** — turn up at any time, come and go as you please… and expect the unexpected! Get a feel for it with [2023's programme](/archive/2023-haphazard/programme) and [gallery of images](/galleries/2023-haphazard).        
+[Haphazard 2024](/current/2024-haphazard) is our seventh free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2024" target="_blank">Z-arts</a>, presenting *about* ten works on **Saturday 27 July, 1pm-4pm** — turn up at any time, come and go as you please… and expect the unexpected!         
+         
+Get a feel for it with [2023's programme](/archive/2023-haphazard/programme) and [gallery of images](/galleries/2023-haphazard).        
         
 #### Haphazard 2024 Call for Proposals         
 Artists are now <a href="https://haphazard.posthaven.com" target="_blank">invited to submit proposals</a> for inclusion in this event:<br>this is not Live Art for children, but Live Art for ALL AGES — and we mean from tot to timeworn, 8 months to 80 years — so work should have appeal for adults and children alike (even if the kids need to explain it to the adults!)        
