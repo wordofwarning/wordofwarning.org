@@ -18,13 +18,13 @@ season: "Haphazard by hÅb"
 ---         
 <small>Updated 12 April 2024</small>        
         
-**Haphazard** is our frequent foray into 'all ages' Live Art, with intriguing images and offbeat oddities dotted around and about the historic <a href="https://z-arts.org" target="_blank">Z-arts</a> building in Manchester's Hulme. Playful, quirky, engaging, and sometimes plain daft: a free afternoon of Live Art for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out!            
-
+**Haphazard** is our frequent foray into 'all ages' Live Art, with intriguing images and offbeat oddities dotted around and about the historic <a href="https://z-arts.org" target="_blank">Z-arts</a> building in Manchester's Hulme. Playful, quirky, engaging, and sometimes plain daft: a free afternoon of Live Art for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out!          
+         
 After a 4-year hiatus, [Haphazard 2023](/archive/2023-haphazard) was our sixth Live Art takeover of <a href="https://z-arts.org" target="_blank">Z-arts</a>, with thirteen works on **Saturday 22 July 2023 from Noon to 3pm** — turn up at any time, come and go as you please… and expect the unexpected!         
          
 Get a feel for it with [2023's programme](/archive/2023-haphazard/programme) and [gallery of images](/galleries/2023-haphazard).        
           
-[Haphazard 2023](/archive/2023-haphazard) presented by [Word of Warning](/) + <a href="http://www.z-arts.org" target="_blank">Z-arts</a>; produced by [hÅb](/hab) with <a href="http://www.z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England, and by Manchester City Council and Greater Manchester Combined Authority.         
+[Haphazard 2023](/archive/2023-haphazard) presented by [Word of Warning](/) + <a href="https://z-arts.org" target="_blank">Z-arts</a>; produced by [hÅb](/hab) with <a href="https://z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England, and by Manchester City Council and Greater Manchester Combined Authority.         
         
 Enquiries: <mailto:haphazard@habmcr.org> · <a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a> · <a href="http://twitter.com/hashtag/HaphazardMcr" target="_blank">#HaphazardMcr</a>              
         
