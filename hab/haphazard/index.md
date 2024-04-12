@@ -18,9 +18,11 @@ season: "Haphazard by hÅb"
 ---         
 <small>Updated 12 April 2024</small>        
         
-**Haphazard** is our frequent foray into 'all ages' Live Art, with intriguing images and offbeat oddities dotted around and about the historic <a href="https://z-arts.org" target="_blank">Z-arts</a> building in Manchester's Hulme. Playful, quirky, engaging, and sometimes plain daft: a free afternoon of Live Art for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out!          
+**Haphazard** is our frequent foray into 'all ages' Live Art, with intriguing images and offbeat oddities dotted around and about Hulme's historic <a href="https://z-arts.org/about-us" target="_blank">Z-arts</a> building.        
          
-After a 4-year hiatus, [Haphazard 2023](/archive/2023-haphazard) was our sixth Live Art takeover of <a href="https://z-arts.org" target="_blank">Z-arts</a>, with thirteen works on **Saturday 22 July 2023 from Noon to 3pm** — turn up at any time, come and go as you please… and expect the unexpected!         
+Playful, quirky, engaging, and sometimes plain daft: this is Live Art for kids and their adults, adults and *their* adults — anyone looking for a different day out!          
+         
+After a 4-year hiatus, [Haphazard 2023](/archive/2023-haphazard) was our sixth free Live Art takeover of <a href="https://z-arts.org" target="_blank">Z-arts</a>, with thirteen works on **Saturday 22 July 2023 from Noon to 3pm** — you could turn up at any time, come and go as you please… and expect the unexpected!         
          
 Get a feel for it with [2023's programme](/archive/2023-haphazard/programme) and [gallery of images](/galleries/2023-haphazard).        
           
