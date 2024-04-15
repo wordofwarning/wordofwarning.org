@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 9 April 2024<small>        
+<small>Updated 15 April 2024<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>(Please click [here](/archive/warnings) for *past* events and *archived* livestreams on our YouTube channel.)         
          
@@ -21,4 +21,7 @@ If issues raised affect you, these organisations may be of support:&nbsp;&nbsp;<
 #### 2024         
         
 ##### [27 Apr. The Lowry | *HIGH STEAKS* by ELOINA](/current/2024/ELOINA)          
-Age Advisory: **18+** (parent/guardian/carer discretion).<br>Content Warnings: full frontal nudity, strong language, handling and cooking of raw meat, discussion of genital surgery, discussion of self-harm, depictions of real mother-daughter relationships. *Potential* audience interaction could include coming on stage and drawing ELOINA — this is an invitation and you are encouraged to only do this if you would like.
+Age Advisory: **18+** (parent/guardian/carer discretion).<br>Content Warnings: full frontal nudity, strong language, handling and cooking of raw meat, discussion of genital surgery, discussion of self-harm, depictions of real mother-daughter relationships. *Potential* audience interaction could include coming on stage and drawing ELOINA — this is an invitation and you are encouraged to only do this if you would like.          
+          
+##### [27 Jul. Z-arts | Haphazard 2024](/current/2024-haphazard)          
+Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Content Warnings: some works may involve interaction, some may disturb; specific warnings will be listed once the works have been selected.
