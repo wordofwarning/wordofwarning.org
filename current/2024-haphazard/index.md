@@ -15,7 +15,7 @@ season: "Haphazard 27|7|2024"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2024-haphazard/#artists) · [details](/current/2024-haphazard/#details) · [access](/current/2024-haphazard/#access) · [about](/current/2024-haphazard/#about) · [credits](/current/2024-haphazard/#credits) · [websites](/current/2024-haphazard/#websites)</span><br><small>Updated 12 April 2024</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2024-haphazard/#artists) · [details](/current/2024-haphazard/#details) · [access](/current/2024-haphazard/#access) · [about](/current/2024-haphazard/#about) · [credits](/current/2024-haphazard/#credits) · [websites](/current/2024-haphazard/#websites)</span><br><small>Updated 15 April 2024</small>        
         
 *Presented by* Word of Warning *+* Z-arts           
          
@@ -26,7 +26,7 @@ In [2023 we saw](/galleries/2023-haphazard) lasers, slinkies, silver birds, wool
 A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2024" target="_blank">Z-arts</a> **on Saturday 27 July from 1pm to 4pm**. Turn up at any time, come and go as you please… and expect the unexpected!         
          
 #### Artists         
-*Participating artists to be announced — please see our <a href="https://haphazard.posthaven.com" target="_blank">call for proposals</a>.*         
+*Participating artists to be announced — please see our <a href="https://haphazard.posthaven.com/haphazard-2024-live-art-for-all-ages-manchester-call-for-artists" target="_blank">call for proposals</a>.*         
          
 #### Details         
 Entry: FREE, there's no need to book… just turn up!         
