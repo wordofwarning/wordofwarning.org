@@ -19,7 +19,7 @@ season: "Works Ahead by hÅb"
 ---
 <small>Updated 19 April 2024</small>                
         
-**Works Ahead** is a project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011.<br>Since 2012 it has offered over thirty-five small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events — with support including mentoring and a public showing of the next stage of the work, often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>In [2024](/hab/worksahead/#2024) we're doing things a little differently — **Works Ahead: Radiator** invites a group of artists to explore their own Live Art practice over an incubator weekend, beginning with an informal sharing…         
+**Works Ahead** is a project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011.<br>Since 2012 it has offered over 35 small work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events — with support including mentoring and a public showing of the next stage of the work, often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>In [2024](/hab/worksahead/#2024) we're doing things a little differently — **Works Ahead: Radiator** invites a group of artists to explore their own Live Art practice over an incubator weekend, starting with an informal sharing on Friday night…         
          
 <span style='font-variant: small-caps'>jump → [2012](/hab/worksahead/#2012) · [13](/hab/worksahead/#2013) · [14](/hab/worksahead/#2014) · [15](/hab/worksahead/#2015) · [16](/hab/worksahead/#2016) · [17](/hab/worksahead/#2017) · [18](/hab/worksahead/#2018) · [19](/hab/worksahead/#2019) · [20](/hab/worksahead/#2020) · [21](/hab/worksahead/#2021) · [22](/hab/worksahead/#2022) · [23](/hab/worksahead/#2023) · [24](/hab/worksahead/#2024)</span>        
 <hr>        
@@ -60,7 +60,7 @@ Our [tenth Works Ahead](/archive/2022-worksahead) took place at <a href="https:/
 Our [eleventh Works Ahead](/archive/2023-worksahead) took place at <a href="https://contactmcr.com" target="_blank">Contact</a> in May — with a triple bill including Jade Williams' outcome from [2021](/hab/worksahead/#2021), alongside newly-commissioned artists Christian Asare & Kellie Colbert… See [images](/galleries/2023-woah).          
          
 #### 2024         
-Our twelfth Works Ahead will take place in May — Works Ahead: Radiator brings eight very different artists together for an incubator weekend, with an informal sharing of Live Art before they embark on a path of shared exploration…        
+Our twelfth Works Ahead will take place in May — Works Ahead: Radiator brings eight very different artists together, with an informal sharing of Live Art before they embark on a path of shared exploration…        
          
 [Works Ahead 2023](/archive/2023-worksahead) commissioned by [hÅb](/hab) + <a href="http://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab).<br>Project Mentor: Peader Kirk          
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>         
