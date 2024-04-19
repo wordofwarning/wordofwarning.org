@@ -17,7 +17,7 @@ season: "Works Ahead: Radiator 24|5|2024"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2024-worksahead/#artists) · [details](/current/2024-worksahead/#details) · [access](/current/2024-worksahead/#access) · [about](/current/2024-worksahead/#about) · [credits](/current/2024-worksahead/#credits) · [websites](/current/2024-worksahead/#websites)</span><br><small>DRAFT Updated 19 April 2024</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2024-worksahead/#artists) · [details](/current/2024-worksahead/#details) · [access](/current/2024-worksahead/#access) · [about](/current/2024-worksahead/#about) · [credits](/current/2024-worksahead/#credits) · [websites](/current/2024-worksahead/#websites)</span><br><small>Updated 19 April 2024</small>        
         
 *Presented by* Word of Warning + Manchester School of Theatre        
          
@@ -32,7 +32,7 @@ Ash&nbsp;Cox&nbsp;· chris&nbsp;brown&nbsp;· E.M.&nbsp;Parry&nbsp;· Heather&nb
 Entry: FREE, there's no need to book… come and go as you please.        
          
 Times: Friday 24 May 2024, 5pm to 7pm (turn up at any time).         
-*NB* with artists located in multiple spaces, and some works having a short duration and/or limited capacity on a first-come first-served basis, you may not get a chance to see everything.          
+*NB* with some works having a short duration and/or limited capacity on a first-come first-served basis, you may not get a chance to see everything.          
             
 Location: <a href="https://mmu.ac.uk/about-us/buildings/grosvenor-east" target="_blank">Grosvenor East Studio Theatre (GF.11)</a>, Manchester Metropolitan University, Cavendish St, Manchester, M15 6BG        
         
@@ -48,6 +48,6 @@ Each year since 2012, [Works Ahead](/hab/worksahead) has invited artists to dig 
 [Works Ahead](/hab/worksahead): Radiator produced by [hÅb](/hab) with <a href="https://theatre.mmu.ac.uk" target="_blank">Manchester School of Theatre at Manchester Metropolitan University</a>.<br>Project Mentor: Peader Kirk        
          
 #### Websites          
-<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAheadRadiator" target="_blank">#WorksAheadRadiator</a>         
+<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAheadRadiator" target="_blank">X #WorksAheadRadiator</a><br>&nbsp;chris brown — <a href="https://chrisbtheatre.com" target="_blank">chrisbtheatre.com</a> · <a href="https://instagram.com/christopher.p.brown" target="_blank">Insta @christopher.p.brown</a> · <a href="https://twitter.com/ChristopherActB" target="_blank">X @ChristopherActB</a><br>&nbsp;         
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2024-worksahead)</span></small>
