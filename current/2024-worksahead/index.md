@@ -19,7 +19,7 @@ season: "Works Ahead: Radiator 24|5|2024"
 ---
 <span style='font-variant: small-caps'>→ [artists](/current/2024-worksahead/#artists) · [details](/current/2024-worksahead/#details) · [access](/current/2024-worksahead/#access) · [about](/current/2024-worksahead/#about) · [credits](/current/2024-worksahead/#credits) · [websites](/current/2024-worksahead/#websites)</span><br><small>Updated 19 April 2024</small>        
         
-*Presented by* Word of Warning + Manchester School of Theatre at MMU       
+*Presented by* Word of Warning + Manchester School of Theatre       
          
 Eight very different artists come together to hothouse ideas over the course of one weekend… confessions, tarot, border crossings, pin-pricking, unmade recipes, endurance, space exploration, and horror films will all be in the mix.         
          
@@ -34,7 +34,7 @@ Entry: FREE, there's no need to book… come and go as you please.
 Times: Friday 24 May 2024, 5pm to 7pm (turn up at any time).         
 *NB* with some works having a short duration and/or limited capacity on a first-come first-served basis, you may not get a chance to see everything.          
             
-Location: <a href="https://mmu.ac.uk/about-us/buildings/grosvenor-east" target="_blank">Grosvenor East Studio Theatre (GF.11)</a>, Manchester Metropolitan University, Cavendish St, Manchester, M15 6BG        
+Location: <a href="https://mmu.ac.uk/about-us/buildings/grosvenor-east" target="_blank">Grosvenor East</a> (Studio Theatre GF.11), Manchester Metropolitan University, Cavendish St, Manchester, M15 6BG        
         
 #### Access         
 Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: eight Live Art & performance works with varied content.<br>Queries: please contact [Word of Warning](/) via <mailto:info@habmcr.org>        
@@ -45,9 +45,9 @@ Each year since 2012, [Works Ahead](/hab/worksahead) has invited artists to dig 
 [Works Ahead](/hab/worksahead) is a project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011; to date it has offered over thirty-five small, supported, work-in-development commissions for artists.         
          
 #### Credits         
-[Works Ahead](/hab/worksahead): Radiator produced by [hÅb](/hab) with <a href="https://theatre.mmu.ac.uk" target="_blank">Manchester School of Theatre at MMU</a>; supported using public funding by Arts Council England..<br>Project Mentor: Peader Kirk        
+[Works Ahead](/hab/worksahead): Radiator produced by [hÅb](/hab); supported by <a href="https://theatre.mmu.ac.uk" target="_blank">Manchester School of Theatre at MMU</a> and using public funding by Arts Council England.<br>Project Mentor: Peader Kirk        
          
 #### Websites          
-<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAheadRadiator" target="_blank">X #WorksAheadRadiator</a><br>&nbsp;chris brown — <a href="https://chrisbtheatre.com" target="_blank">chrisbtheatre.com</a> · <a href="https://instagram.com/christopher.p.brown" target="_blank">Insta @christopher.p.brown</a> · <a href="https://twitter.com/ChristopherActB" target="_blank">X @ChristopherActB</a><br>&nbsp;         
+<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAheadRadiator" target="_blank">X #WorksAheadRadiator</a><br>&nbsp;Ash Cox — <br>&nbsp;chris brown — <a href="https://chrisbtheatre.com" target="_blank">chrisbtheatre.com</a> · <a href="https://instagram.com/christopher.p.brown" target="_blank">Insta @christopher.p.brown</a> · <a href="https://twitter.com/ChristopherActB" target="_blank">X @ChristopherActB</a><br>&nbsp;E.M. Parry — <br>&nbsp;Heather Alice — <br>&nbsp;ITZATNA — <br>&nbsp;Jamil Keating — <br>&nbsp;Kelvin Atmadibrata — <br>&nbsp;Lauren Greer — 
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2024-worksahead)</span></small>
