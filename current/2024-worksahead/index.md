@@ -4,10 +4,10 @@ layout: 2024-woah
 rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Works Ahead: Radiator" # the name of the artist or company
+artist: "Works Ahead:<br>&nbsp;Radiator" # the name of the artist or company
 show: "A sharing of Live Art." # the name of the show
-artist_size: 3
-show_size: 3
+artist_size: 2
+show_size: 4
 header_image:    
 season: "Works Ahead: Radiator 24|5|2024"
 
@@ -17,51 +17,32 @@ season: "Works Ahead: Radiator 24|5|2024"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [ticketing](/archive/2023-worksahead/#ticketing) · [access](/archive/2023-worksahead/#access) · [about](/archive/2023-worksahead/#about) · [artists](/archive/2023-worksahead/#artists) · [credits](/archive/2023-worksahead/#credits) · [websites](/archive/2023-worksahead/#websites)</span><br><small>DRAFT Updated 19 April 2024</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2024-worksahead/#artists) · [details](/current/2024-worksahead/#details) · [access](/current/2024-worksahead/#access) · [about](/current/2024-worksahead/#about) · [credits](/current/2024-worksahead/#credits) · [websites](/current/2024-worksahead/#websites)</span><br><small>DRAFT Updated 19 April 2024</small>        
         
-*Presented by* Word of Warning + MMU        
+*Presented by* Word of Warning + Manchester School of Theatre        
          
-Our annual sampler evening of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2023" target="_blank">Contact</a> with a trio of new works-in-development from [artists](/archive/2023-worksahead/#artists) [Christian Asare](/archive/2023-worksahead/asare), [Jade Williams](/archive/2023-worksahead/williams), [Kellie Colbert](/archive/2023-worksahead/colbert) — searching for identity on the tightrope of our histories, amidst the isolation of our immediate pasts, and within the armour of our presents.<br>And now it's over, see [images from the event](/galleries/2023-woah).           
+Eight very different artists come together to hothouse ideas over the course of one weekend… confessions, tarot, border crossings, pin-pricking, unmade recipes, endurance, space exploration, and horror films will all be in the mix. We invite you to join us on for an informal sharing of this work before the artists embark on a path of shared exploration.        
        
-#### Ticketing          
-Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://contactmcr.com/book/instance/310558" target="_blank">Thursday</a>/<a href="https://contactmcr.com/book/instance/310559" target="_blank">Friday</a> via <a href="https://contactmcr.com/events/works-ahead-2023" target="_blank">Contact</a> or call 0161 274 0600        
+#### Artists        
+Ash&nbsp;Cox&nbsp;· chris&nbsp;brown&nbsp;· E.M.&nbsp;Parry&nbsp;· Heather&nbsp;Alice&nbsp;· ITZATNA&nbsp;· Jamil&nbsp;Keating&nbsp;· Kelvin&nbsp;Atmadibrata&nbsp;· Lauren&nbsp;Greer<br><small><i>Participating artists subject to change.</i></small>
+        
+#### Details          
+Entry: FREE, there's no need to book… turn up at any time, come and go as you please.        
          
-Times: Thursday 18 + Friday 19 May 2023, 7.30pm<br>Duration: event lasts *up to* 2 hours including interval/s.<br>*NB* all three works will be shown in the same order each night.<br>Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA
-(Grosvenor East Studio Theatre (GF.11), Grosvenor East Building, Manchester Metropolitan University, Cavendish Street, Manchester, M15 6BG)
-https://www.mmu.ac.uk/about-us/buildings/grosvenor-east
+Times: Friday 24 May 2024, 5pm-7pm<br>Location: <a href="https://mmu.ac.uk/about-us/buildings/grosvenor-east" target="_blank">Grosvenor East Studio Theatre (GF.11)</a>, Manchester Metropolitan University, Cavendish St, Manchester, M15 6BG        
         
 #### Access         
-Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: three contemporary performance works with varied content.<br>Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>, 0161 274 0600 or <mailto:BoxOffice@contactmcr.com>        
+Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: eight Live Art / performance works with varied content.<br>Queries: please email [hÅb](/hab) <mailto:info@habmcr.org>        
          
 #### About           
-[Works Ahead](/hab/worksahead) is a project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011.
-Since 2012 it has offered over thirty-five small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events. Support includes mentoring and a public showing of the next stage of the work, in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>…        
-         
-#### Artists        
-[Christian Asare · *DUAL*](/archive/2023-worksahead/asare)         
-         
-*Colour is much like music — every hue a note on scale, every tone a pitch that carries… Complimentary and juxtaposed — they yet prevail…*<br>Explores the fluid multiplicity of Black identity through an interdisciplinary diasporic lens — with visual art, poetry, and Afro-contemporary choreography.         
+Each year since 2012, [Works Ahead](/hab/worksahead) has invited artists to dig deeper into work presented at [Emergency](/hab/emergency) — usually presenting a show the following May. This year we're doing things a little differently — Works Ahead: Radiator invites a group of artists to an incubator weekend, exploring their own Live Art practice. What may come of it — nobody knows… but join us here on the first step of the journey.         
         
-Christian is a Black British interdisciplinary artist with Ghanaian ancestry and heritage. With a background in choreography and contemporary dance, his specialisation in Afro-contemporary performance adds a unique flair to his work. Moreover, he is an independent fine artist who creates oil paintings with a particular emphasis on elevating Afrocentric imagery, portraiture, abstraction, and Afrofuturism.          
-<hr>        
-[Jade Williams · *In Search of Pablo*](/archive/2023-worksahead/williams)         
-        
-*"Black, brilliant, and Manc" — born in 1810, <a href="https://en.wikipedia.org/wiki/Pablo_Fanque" target="_blank">Pablo Fanque</a> was the first Black circus owner in Britain. Come & delight in tales of Pablo's Fantastic Fair as I channel his story to explore my own journey to being Black, brilliant, & Manc.*<br>An exploration of belonging and Black identity in the diaspora.         
-        
-Jade is a Black, Queer, multi-disciplinary artist and experienced teacher from Manchester working in dance, poetry, writing, performance, and creative facilitation. She has worked closely with Community Arts North West, Curious Minds, and DIY Theatre on projects for young people in Greater Manchester.          
-<hr>         
-[Kellie Colbert · *Dedicated To The One I Love* ](/archive/2023-worksahead/colbert)         
-         
-*And tell all the stars above. This is dedicated to the one I love.<br>(Love can never be exactly like we want it to be.)*<br>An exploration of love, betrayal, and care.        
-        
-Kellie is a Greater Manchester-based performance maker. She would describe herself as an autobiographical artist, who creates work that is honest, relatable, and at times self-critical. Kellie uses spoken word and symbolism to explore memories, often focusing on themes of mental health and feminism. She aims to create performance that is both self-exposing and empathetic.        
+[Works Ahead](/hab/worksahead) is a project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011; to date it has offered over thirty-five small, supported, work-in-development commissions for artists.         
          
 #### Credits         
-[Works Ahead](/hab/worksahead): Radiator produced by [hÅb](/hab) with <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Project Mentor: Peader Kirk        
+[Works Ahead](/hab/worksahead): Radiator produced by [hÅb](/hab) with <a href="https://theatre.mmu.ac.uk" target="_blank">Manchester School of Theatre at Manchester Metropolitan University</a>.<br>Project Mentor: Peader Kirk        
          
 #### Websites          
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAheadRadiator</a>         
         
-*NB* <a href="https://contactmcr.com" target="_blank">Contact's website</a> changed on 9 May & links to their site have been updated.        
-        
-<small><span style='font-variant: small-caps'>[back to top](/archive/2023-worksahead)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/current/2024-worksahead)</span></small>
