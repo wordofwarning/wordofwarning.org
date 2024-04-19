@@ -21,18 +21,23 @@ season: "Works Ahead: Radiator 24|5|2024"
         
 *Presented by* Word of Warning + Manchester School of Theatre        
          
-Eight very different artists come together to hothouse ideas over the course of one weekend… confessions, tarot, border crossings, pin-pricking, unmade recipes, endurance, space exploration, and horror films will all be in the mix. We invite you to join us on for an informal sharing of this work before the artists embark on a path of shared exploration.        
+Eight very different artists come together to hothouse ideas over the course of one weekend… confessions, tarot, border crossings, pin-pricking, unmade recipes, endurance, space exploration, and horror films will all be in the mix.         
+         
+We invite you to join us on for an informal sharing of this work on **Friday 24 May**, before the artists embark on a path of shared exploration…        
        
 #### Artists        
 Ash&nbsp;Cox&nbsp;· chris&nbsp;brown&nbsp;· E.M.&nbsp;Parry&nbsp;· Heather&nbsp;Alice&nbsp;· ITZATNA&nbsp;· Jamil&nbsp;Keating&nbsp;· Kelvin&nbsp;Atmadibrata&nbsp;· Lauren&nbsp;Greer<br><small><i>Participating artists subject to change.</i></small>
         
 #### Details          
-Entry: FREE, there's no need to book… turn up at any time, come and go as you please.        
+Entry: FREE, there's no need to book… come and go as you please.        
          
-Times: Friday 24 May 2024, 5pm-7pm<br>Location: <a href="https://mmu.ac.uk/about-us/buildings/grosvenor-east" target="_blank">Grosvenor East Studio Theatre (GF.11)</a>, Manchester Metropolitan University, Cavendish St, Manchester, M15 6BG        
+Times: Friday 24 May 2024, 5pm to 7pm (turn up at any time).         
+*NB* with artists located in multiple spaces, and some works having a short duration and/or limited capacity on a first-come first-served basis, you may not get a chance to see everything.          
+            
+Location: <a href="https://mmu.ac.uk/about-us/buildings/grosvenor-east" target="_blank">Grosvenor East Studio Theatre (GF.11)</a>, Manchester Metropolitan University, Cavendish St, Manchester, M15 6BG        
         
 #### Access         
-Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: eight Live Art / performance works with varied content.<br>Queries: please email [hÅb](/hab) <mailto:info@habmcr.org>        
+Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: eight Live Art & performance works with varied content.<br>Queries: please contact [Word of Warning](/) via <mailto:info@habmcr.org>        
          
 #### About           
 Each year since 2012, [Works Ahead](/hab/worksahead) has invited artists to dig deeper into work presented at [Emergency](/hab/emergency) — usually presenting a show the following May. This year we're doing things a little differently — Works Ahead: Radiator invites a group of artists to an incubator weekend, exploring their own Live Art practice. What may come of it — nobody knows… but join us here on the first step of the journey.         
@@ -43,6 +48,6 @@ Each year since 2012, [Works Ahead](/hab/worksahead) has invited artists to dig 
 [Works Ahead](/hab/worksahead): Radiator produced by [hÅb](/hab) with <a href="https://theatre.mmu.ac.uk" target="_blank">Manchester School of Theatre at Manchester Metropolitan University</a>.<br>Project Mentor: Peader Kirk        
          
 #### Websites          
-<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAheadRadiator</a>         
+<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAheadRadiator" target="_blank">#WorksAheadRadiator</a>         
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2024-worksahead)</span></small>
