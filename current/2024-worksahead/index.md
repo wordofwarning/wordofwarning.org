@@ -1,15 +1,15 @@
 ---
 # CONFIGURATION
-layout: 2023-woah
+layout: 2024-woah
 rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Works Ahead 2023" # the name of the artist or company
-show: "A sample of new performance." # the name of the show
-artist_size: 2
-show_size: 4
+artist: "Works Ahead: Radiator" # the name of the artist or company
+show: "A sharing of Live Art." # the name of the show
+artist_size: 3
+show_size: 3
 header_image:    
-season: "Works Ahead 18+19|5|2023"
+season: "Works Ahead: Radiator 24|5|2024"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,16 +17,18 @@ season: "Works Ahead 18+19|5|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [ticketing](/archive/2023-worksahead/#ticketing) · [access](/archive/2023-worksahead/#access) · [about](/archive/2023-worksahead/#about) · [artists](/archive/2023-worksahead/#artists) · [credits](/archive/2023-worksahead/#credits) · [websites](/archive/2023-worksahead/#websites)</span><br><small>Updated 8 February 2024</small>        
+<span style='font-variant: small-caps'>→ [ticketing](/archive/2023-worksahead/#ticketing) · [access](/archive/2023-worksahead/#access) · [about](/archive/2023-worksahead/#about) · [artists](/archive/2023-worksahead/#artists) · [credits](/archive/2023-worksahead/#credits) · [websites](/archive/2023-worksahead/#websites)</span><br><small>DRAFT Updated 19 April 2024</small>        
         
-*Presented by* Word of Warning + Contact        
+*Presented by* Word of Warning + MMU        
          
 Our annual sampler evening of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2023" target="_blank">Contact</a> with a trio of new works-in-development from [artists](/archive/2023-worksahead/#artists) [Christian Asare](/archive/2023-worksahead/asare), [Jade Williams](/archive/2023-worksahead/williams), [Kellie Colbert](/archive/2023-worksahead/colbert) — searching for identity on the tightrope of our histories, amidst the isolation of our immediate pasts, and within the armour of our presents.<br>And now it's over, see [images from the event](/galleries/2023-woah).           
        
 #### Ticketing          
 Pay What You Decide: £15/£10/£5/£0<br>Book: <a href="https://contactmcr.com/book/instance/310558" target="_blank">Thursday</a>/<a href="https://contactmcr.com/book/instance/310559" target="_blank">Friday</a> via <a href="https://contactmcr.com/events/works-ahead-2023" target="_blank">Contact</a> or call 0161 274 0600        
          
-Times: Thursday 18 + Friday 19 May 2023, 7.30pm<br>Duration: event lasts *up to* 2 hours including interval/s.<br>*NB* all three works will be shown in the same order each night.<br>Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA        
+Times: Thursday 18 + Friday 19 May 2023, 7.30pm<br>Duration: event lasts *up to* 2 hours including interval/s.<br>*NB* all three works will be shown in the same order each night.<br>Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA
+(Grosvenor East Studio Theatre (GF.11), Grosvenor East Building, Manchester Metropolitan University, Cavendish Street, Manchester, M15 6BG)
+https://www.mmu.ac.uk/about-us/buildings/grosvenor-east
         
 #### Access         
 Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: three contemporary performance works with varied content.<br>Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>, 0161 274 0600 or <mailto:BoxOffice@contactmcr.com>        
@@ -55,10 +57,10 @@ Jade is a Black, Queer, multi-disciplinary artist and experienced teacher from M
 Kellie is a Greater Manchester-based performance maker. She would describe herself as an autobiographical artist, who creates work that is honest, relatable, and at times self-critical. Kellie uses spoken word and symbolism to explore memories, often focusing on themes of mental health and feminism. She aims to create performance that is both self-exposing and empathetic.        
          
 #### Credits         
-[Works Ahead](/hab/worksahead) 2023 commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab).<br>Project Mentor: Peader Kirk · Thanks to Keisha Thompson & Tania Camara.        
+[Works Ahead](/hab/worksahead): Radiator produced by [hÅb](/hab) with <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Project Mentor: Peader Kirk        
          
 #### Websites          
-<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>         
+<a href="http://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="http://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAheadRadiator</a>         
         
 *NB* <a href="https://contactmcr.com" target="_blank">Contact's website</a> changed on 9 May & links to their site have been updated.        
         
