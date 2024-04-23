@@ -40,7 +40,7 @@ Location: <a href="https://mmu.ac.uk/about-us/buildings/grosvenor-east" target="
 Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: eight Live Art & performance works with varied content.<br>Queries: please contact [Word of Warning](/) via <mailto:info@habmcr.org>        
          
 #### About           
-Each year since 2012, [Works Ahead](/hab/worksahead) has invited artists to dig deeper into work presented at [Emergency](/hab/emergency) — usually presenting a show the following May. This year we're doing things a little differently — Works Ahead: Radiator invites a group of artists to an incubator weekend, exploring their own Live Art practice. What may come of it — nobody knows… but join us here on the first step of the journey.         
+Each year since 2012, [Works Ahead](/hab/worksahead) has invited artists to dig deeper into work presented at [Emergency](/hab/emergency) — usually presenting a show the following May. This year we're doing things a little differently — Works Ahead: Radiator invites a group of artists to an incubator weekend, exploring their own Live Art practice. What may come of it, nobody knows… join us here on the first step of the journey.         
         
 [Works Ahead](/hab/worksahead) is a project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011; since 2012 it has offered over 35 small, supported, work-in-development commissions for artists.         
          
