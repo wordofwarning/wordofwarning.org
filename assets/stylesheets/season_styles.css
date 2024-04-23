@@ -1002,7 +1002,7 @@
 	.w2024 .artist, 
 	.w2024 .show,
 	.w2024 .season
-		{background:#e40; color:#fff;}
+		{background:#d31; color:#fff;}
 
 	.w2024 a,
 	.w2024 a:visited,
@@ -1011,7 +1011,7 @@
 	.w2024 nav a:hover,
 	.w2024 article a:hover,
 	.w2024 footer a:hover
-		{background: #fff; color: #e40;}
+		{background: #fff; color: #d31;}
 
 	.w2024 .splash
 		{background:url(../images/header_war_dark.jpg) center center}
