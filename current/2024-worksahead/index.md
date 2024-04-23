@@ -21,7 +21,7 @@ season: "Works Ahead: Radiator 24|5|2024"
         
 *Presented by* Word of Warning + Manchester School of Theatre       
          
-Eight very different artists come together to hothouse ideas over the course of one weekend… confessions, tarot, border crossings, pin-pricking, unmade recipes, endurance, space exploration, and horror films will all be in the mix.         
+Eight very different artists come together to hothouse ideas over the course of one weekend… confessions, shoeshine, border crossings, pin-pricking, unmade recipes, endurance, space exploration, and horror films will all be in the mix.         
          
 We invite you to join us on **Friday 24 May** for an informal evening sharing of this work before the artists embark on a path of shared exploration…        
        
