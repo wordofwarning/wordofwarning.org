@@ -1002,7 +1002,7 @@
 	.w2024 .artist, 
 	.w2024 .show,
 	.w2024 .season
-		{background:#e30; color:#fff;}
+		{background:#723; color:#fff;}
 
 	.w2024 a,
 	.w2024 a:visited,
@@ -1011,10 +1011,10 @@
 	.w2024 nav a:hover,
 	.w2024 article a:hover,
 	.w2024 footer a:hover
-		{background: #fff; color: #e30;}
+		{background: #fff; color: #723;}
 
 	.w2024 .splash
-		{background:url(../images/header_war_dark.jpg) center center}
+		{background:url(../images/header_war_white.jpg) center center}
 
 /* Haphazard 2024 yellow & Puppetfingers cheesy moon & mouse on purple from Hap23
 ------------------------------------------------------*/
