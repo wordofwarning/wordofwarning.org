@@ -995,14 +995,14 @@
 	.t2024 .splash
 		{background:url(../images/header_turn24_lisa.jpg) center center}
 
-/* Works Ahead Radiator 2024 berry & dark radiator
+/* Works Ahead Radiator 2024 dark orange & dark radiator
 ------------------------------------------------------*/
 		
 	.w2024,
 	.w2024 .artist, 
 	.w2024 .show,
 	.w2024 .season
-		{background:#723; color:#fff;}
+		{background:#e40; color:#fff;}
 
 	.w2024 a,
 	.w2024 a:visited,
@@ -1011,7 +1011,7 @@
 	.w2024 nav a:hover,
 	.w2024 article a:hover,
 	.w2024 footer a:hover
-		{background: #fff; color: #723;}
+		{background: #fff; color: #e40;}
 
 	.w2024 .splash
 		{background:url(../images/header_war_dark.jpg) center center}
