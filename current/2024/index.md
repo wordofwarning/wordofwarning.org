@@ -10,7 +10,7 @@ season: "Performance Programme 2024"
 ---
 <span style='font-variant: small-caps'>→ [about](/current/2024/#about) · [audiences](/current/2024/#audiences) · [by](/current/2024/#by) · [people](/current/2024/#people) · [warnings](/current/2024/#warnings)</span><br><small>Updated 29 April 2024</small>        
          
-*We began with [Turn](/current/2024-turn)'s whirlwind of new dance at <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> and [ELOINA](/current/2024/ELOINA)'s riotous rebellion at <a href="https://thelowry.com" target="_blank">The Lowry</a> — enjoy a free afternoon of Live Art antics in [Haphazard](/current/2024-turn) at <a href="https://z-arts.org" target="_blank">Z-arts</a> on 27 July.*         
+*We began with [Turn](/current/2024-turn)'s whirlwind of new dance at <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> and [ELOINA](/current/2024/ELOINA)'s riotous rebellion at <a href="https://thelowry.com" target="_blank">The Lowry</a> — enjoy a free afternoon of Live Art antics in [Haphazard](/current/2024-haphazard) at <a href="https://z-arts.org" target="_blank">Z-arts</a> on Saturday 27 July.*         
          
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
