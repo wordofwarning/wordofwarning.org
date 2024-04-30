@@ -17,14 +17,16 @@ season: "Works Ahead: Radiator 24|5|2024"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2024-worksahead/#artists) · [details](/current/2024-worksahead/#details) · [access](/current/2024-worksahead/#access) · [about](/current/2024-worksahead/#about) · [credits](/current/2024-worksahead/#credits) · [websites](/current/2024-worksahead/#websites)</span><br><small>Updated 27 April 2024</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2024-worksahead/#artists) · [details](/current/2024-worksahead/#details) · [access](/current/2024-worksahead/#access) · [about](/current/2024-worksahead/#about) · [credits](/current/2024-worksahead/#credits) · [websites](/current/2024-worksahead/#websites)</span><br><small>Updated 30 April 2024</small>        
         
 *Presented by* Word of Warning + Manchester School of Theatre       
          
 Eight very different artists come together to hothouse ideas over the course of one weekend… confessions, shoeshine, border crossings, pin-pricking, unmade recipes, endurance, space exploration, and horror films will all be in the mix.         
          
 We invite you to join us on **Friday 24 May** for an informal evening sharing of this work, before the artists embark on a path of shared exploration…        
-       
+        
+Look at some of our [artists' images](/galleries/2024-woahpre).         
+         
 #### Artists        
 Ash&nbsp;Cox&nbsp;· chris&nbsp;brown&nbsp;· E.M.&nbsp;Parry&nbsp;· Heather&nbsp;Alice&nbsp;· ITZATNA&nbsp;· Jamil&nbsp;Keating&nbsp;· Kelvin&nbsp;Atmadibrata&nbsp;· Lauren&nbsp;Greer<br><small><i>Participating artists subject to change.</i></small>
         
