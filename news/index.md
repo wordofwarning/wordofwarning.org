@@ -12,7 +12,7 @@ season: "News"
 # show_size: 1 # optional - size 1-5. Default is 1. Set longer names to lower values
 
 ---
-<span style='font-variant: small-caps'>→ [things to watch](/news/#audiences) · [artist opportunities](/news/#artists), [advice](/news/#advice), [support](/news/#support)</span><br><small>Updated 29 April 2024<small>        
+<span style='font-variant: small-caps'>→ [things to watch](/news/#audiences) · [artist opportunities](/news/#artists), [advice](/news/#advice), [support](/news/#support), [turn prize 2024](/news/#turn&nbsp;prize)</span><br><small>Updated 30 April 2024<small>        
 <hr>          
 #### Audiences         
 Our [Performance Programme](/current/2024) continues with a free day out for the curious of all ages in [Haphazard 2024](/current/2024-haphazard) at <a href="https://z-arts.org" target="_blank">Z-arts</a> on **Saturday 27 July, 1pm-4pm**.<br>• Take a look at what happened recently in our [image galleries](/galleries) for March's [Turn](/galleries/2024-turn) and [last year](/archive/2023)'s [Emergency](/galleries/2023-emergency), [Haphazard](/galleries/2023-haphazard), and [Works Ahead](/galleries/2023-woah).<br>• Find work to watch by reading our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a>, a regular signpost to performance live and online in Manchester + beyond: sign-up <a href="http://eepurl.com/i_Odb" target="_blank">here</a>.<br>• Visit our <a href="https://youtube.com/@warnmcr" target="_blank">YouTube channel</a> to watch archived livestreams and more.<br>• Have a look at <a href="https://screen.homemcr.org" target="_blank">HOME SCREEN</a>, <a href="https://thelowry.com/lowry-digital" target="_blank">Lowry Digital</a>, <a href="https://sadlerswells.com/digital-stage" target="_blank">Sadler's Wells Digital Stage</a>, <a href="https://unitytheatreliverpool.co.uk/unity-online" target="_blank">Unity Online</a>.        
@@ -38,4 +38,10 @@ Essentially industry-facing, [hÅb](/hab) advises and supports artists and freel
 • The Space's <a href="http://www.thespace.org/resource/live-streaming-arts-lo-fi-and-low-cost-options" target="_blank">guide to live streaming for the arts by Jason Crouch</a> — lo-fi and low cost options.        
 • UK Theatre & SOLT's <a href="http://theatresupport.info" target="_blank">Theatre Support Information</a> — advice/info about how and where you can access support from leading theatrical charities.        
 • Unlimited's blog includes <a href="https://weareunlimited.org.uk/blog/?category=resources" target="_blank">opportunities</a> and <a href="https://weareunlimited.org.uk/blog/?category=resources" target="_blank">resources</a> for disabled artists and freelancers.        
-<span style='font-variant: small-caps'>[back to top](/news)</span>
+<span style='font-variant: small-caps'>[back to top](/news)</span>         
+          
+##### Turn&nbsp;Prize         
+We are delighted to announce (*30 April 2024*) the recipients of the [Turn](/hab/turn) Prize 2024 are **Fabíola Santana** and **Louiseanne Wong**. The Turn Prize is a commission for the development of work by North West-based dance-makers.         
+         
+Turn Prize 2024 supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> using public funding by Arts Council England, and by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>.          
+<span style='font-variant: small-caps'>[back to top](/news)</span>         
