@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 29 April 2024<small>        
+<small>Updated 30 April 2024<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>(Please click [here](/archive/warnings) for *past* events and *archived* livestreams on our YouTube channel.)         
          
@@ -20,8 +20,8 @@ If issues raised affect you, these organisations may be of support:&nbsp;&nbsp;<
 <hr>         
 #### 2024         
         
-##### Works Ahead: Radiator         
-*Details to be announced.*          
-          
+##### [24 May. MMU Grosvenor East | Works Ahead: Radiator](/current/2024-worksahead)         
+Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction, some may disturb; specific warnings to follow…         
+
 ##### [27 Jul. Z-arts | Haphazard 2024](/current/2024-haphazard)          
 Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Content Warnings: some works may involve interaction, some may disturb; specific warnings will be listed once the works have been selected.
