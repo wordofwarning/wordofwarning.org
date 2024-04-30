@@ -1,5 +1,4 @@
 ---
-
 layout: fullscreengallery
 assetpath: "../../../"
 galleryimagespath: ""
@@ -20,5 +19,4 @@ gallery:
     -   {file: "jake_evans.jpg", artist: "Jake Evans"}
     -   {file: "lily_antonia.jpg", artist: "Lily Antonia by Tim Dunk"}
     -   {file: "louiseanne_wong.jpg", artist: "Louiseanne Wong by Shawn J Stephen"}
-
 ---
