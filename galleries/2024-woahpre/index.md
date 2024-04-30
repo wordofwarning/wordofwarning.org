@@ -3,22 +3,21 @@ layout: fullscreengallery
 assetpath: "../../../"
 galleryimagespath: ""
 
-title: "Word of Warning Manchester School of Theatre present Works Ahead:Radiator"
+title: "Word of Warning + Manchester School of Theatre present Works Ahead: Radiator, 24|5|2024"
 header: <img src="logo.png">
 stylesheet: gallery.css
 
-more_link: "Works Ahead:Radiator"
+more_link: "Works Ahead: Radiator"
 more_url: "../../current/2024-worksahead"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "<small><i>Works Ahead:Radiator at Grosvenor East, 24 May 2024</i> All images &copy; 2024 Word of Warning</small>"}
+    -   {file: "titlepage.jpg", artist: "<small><i>A sharing of Live Art at MMU Grosvenor East, Fri 24 May 2024</i></small>"}
     -   {file: "ash.jpg", artist: "Ash Cox"}
-    -   {file: "chris.jpg", artist: "Chris Brown"}
-    -   {file: "emparry.jpg", artist: "E.M.Parry"}
+    -   {file: "chris.jpg", artist: "chris brown"}
+    -   {file: "emparry.jpg", artist: "E.M. Parry"}
     -   {file: "heatheralice.jpg", artist: "Heather Alice"}
     -   {file: "itzatna.jpg", artist: "ITZATNA"}
+    -   {file: "shoes.jpg", artist: "Jamil Keating"}
     -   {file: "kelvin.jpg", artist: "Kelvin Atmadibrata"}
     -   {file: "lauren.jpg", artist: "Lauren Greer"}
-    -   {file: "shoes.jpg", artist: "Jamil Keating"}
-
 ---
