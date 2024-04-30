@@ -40,8 +40,8 @@ Essentially industry-facing, [hÅb](/hab) advises and supports artists and freel
 • Unlimited's blog includes <a href="https://weareunlimited.org.uk/blog/?category=resources" target="_blank">opportunities</a> and <a href="https://weareunlimited.org.uk/blog/?category=resources" target="_blank">resources</a> for disabled artists and freelancers.        
 <span style='font-variant: small-caps'>[back to top](/news)</span>         
           
-##### Turn_Prize         
-We are delighted to announce (*30 April 2024*) the recipients of the [Turn](/hab/turn) Prize 2024 are **Fabíola Santana** and **Louiseanne Wong**. The Turn Prize is a commission for the development of work by North West-based dance-makers.         
+##### Turn_Prize_2024         
+We are delighted to announce (*30 April 2024*) the recipients of the Turn Prize 2024 are **Fabíola Santana** and **Louiseanne Wong**.<br>The Turn Prize is a commission for the development of work shown at [Turn](/hab/turn) by North West-based dance-makers.         
          
 Turn Prize 2024 supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> using public funding by Arts Council England, and by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>.          
 <span style='font-variant: small-caps'>[back to top](/news)</span>         
