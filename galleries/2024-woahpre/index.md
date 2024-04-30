@@ -7,7 +7,7 @@ title: "Word of Warning + Manchester School of Theatre present Works Ahead: Radi
 header: <img src="logo.png">
 stylesheet: gallery.css
 
-more_link: "Works Ahead<br><i>Radiator</i>"
+more_link: "Works<br>Ahead<br><i>Radiator</i>"
 more_url: "../../current/2024-worksahead"
 
 gallery:
