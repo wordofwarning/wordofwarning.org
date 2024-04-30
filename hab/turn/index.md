@@ -27,7 +27,7 @@ Read [2024's programme notes](/current/2024-turn/programme) and look at [images 
 Greater Manchester's open call dance platform, Turn aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— a selection event for the Turn Prize commission (*see below*).         
         
 #### Turn Prize 2024         
-We are delighted to announce (*30 April 2024*) the recipients of the **Turn Prize 2024** are **Fabíola Santana** and **Louiseanne Wong**; the prize is for development of new work by North West-based dance-makers.         
+We are delighted to announce (*30 April 2024*) the recipients of the Turn Prize 2024 are **Fabíola Santana** and **Louiseanne Wong**. The Turn Prize is a commission for the development of work by North West-based dance-makers.         
          
 Turn Prize 2024 supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> using public funding by Arts Council England, and by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>.          
         
