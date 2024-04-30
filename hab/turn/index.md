@@ -16,7 +16,7 @@ season: "Turn by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 28 March 2024</small>        
+<small>Updated 30 April 2024</small>        
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester each spring.    
              
@@ -25,6 +25,11 @@ The eleventh edition, [Turn 2024](/current/2024-turn) took place at new home <a 
 Read [2024's programme notes](/current/2024-turn/programme) and look at [images from the event](/galleries/2024-turn) — delve further with [2023's programme](/archive/2023-turn/programme) and [gallery of images](/galleries/2023-turn).         
         
 Greater Manchester's open call dance platform, Turn aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— a selection event for the Turn Prize commission (*see below*).         
+        
+#### Turn Prize 2024         
+We are delighted to announce (*30 April 2024*) the recipients of the **Turn Prize 2024** are **Fabíola Santana** and **Louiseanne Wong**; the prize is for development of new work by North West-based dance-makers.         
+         
+Turn Prize 2024 supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> using public funding by Arts Council England, and by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>.          
         
 #### Turn 2024 Call for Proposals has Closed         
 North West† dancers and dance-makers (*aged 18+*) <a href="http://turnmcr.posthaven.com" target="_blank">were invited to submit proposals</a> of: short finished pieces of work, extracts or excerpts of longer works, or works-in-progress, for inclusion in this annual event.        
@@ -39,11 +44,6 @@ We're experimenting with the form of Turn in 2024, to include:<br>— one evenin
          
 Enquiries: <mailto:turn@habmcr.org> · <a href="http://turnmcr.org" target="_blank">TurnMcr.org</a> · <a href="http://twitter.com/hashtag/TurnMcr" target="_blank">#TurnMcr</a>         
          
-#### Turn Prize Returns in 2024         
-We are delighted to announce (*29 January 2024*) that a commission of £4,000 will be available to one artist/company, selected from  [Turn 2024](/current/2024-turn) by a panel representing hÅb, Company Chameleon, Project Auske, Dance Consortia NW.<br>The **Turn Prize** will be for new work, or development of work currently at R&D stage, by North West-based dance-maker(s) where the panel recognises clear potential for onward development and distribution.         
-         
-2024's Turn Prize supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> using public funding from Arts Council England, and by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> and [hÅb](/hab).          
-        
 #### Past Editions        
 First held at greenroom in spring 2009, Turn moved to <a href="https://contactmcr.com" target="_blank">Contact</a> in 2012.<br>The ninth edition trialled a new format, with a dozen short dance-works shown on [**28 April 2017**](/archive/2017-turn), followed by a day of professional development.<br>After a 6-year hiatus it returned to <a href="https://contactmcr.com" target="_blank">Contact</a> on [**10 March 2023**](/archive/2023-turn) for a tenth edition with nine short dance-works, followed by an artist day.         
          
