@@ -41,7 +41,5 @@ Essentially industry-facing, [hÅb](/hab) advises and supports artists and freel
 <span style='font-variant: small-caps'>[back to top](/news)</span>         
           
 ##### Turn_Prize_2024         
-We are delighted to announce (*30 April 2024*) the recipients of the Turn Prize 2024 are **Fabíola Santana** and **Louiseanne Wong**.<br>The Turn Prize is a commission for the development of work shown at [Turn](/hab/turn) by North West-based dance-makers.         
-         
-Turn Prize 2024 supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> using public funding by Arts Council England, and by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>.          
+We are delighted to announce (*30 April 2024*) the recipients of the Turn Prize 2024 are **Fabíola Santana** and **Louiseanne Wong**.<br>The Turn Prize is a commission for the development of work shown at [Turn](/hab/turn) by North West-based dance-makers.<br>Turn Prize 2024 supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> using public funding by Arts Council England, and by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>.          
 <span style='font-variant: small-caps'>[back to top](/news)</span>         
