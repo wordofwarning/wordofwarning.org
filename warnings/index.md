@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 30 April 2024<small>        
+<small>Updated 1 May 2024<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>(Please click [here](/archive/warnings) for *past* events and *archived* livestreams on our YouTube channel.)         
          
@@ -21,7 +21,7 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 #### 2024         
         
 ##### [24 May. MMU Grosvenor East | Works Ahead: Radiator](/current/2024-worksahead)         
-Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction or participation, some may disturb, specifics follow…<br>&nbsp;Ash Cox — to be confirmed.<br>&nbsp;chris brown — performers' use of their bodies may be distressing; potential interaction.<br>&nbsp;E.M. Parry — simulates pins penetrating flesh; potential interaction.<br>&nbsp;Heather Alice — imagery of blood, suicide reference & symbolism, themes of mental illness, flashing projections, loud noise.<br>&nbsp;ITZATNA — bodily harm, loud noises, distressing video images of migration; references death, violence, threat. **Allergy Warning: Aloe Vera juice/sap.**<br>&nbsp;Jamil Keating — to be confirmed.<br>&nbsp;Kelvin Atmadibrata — to be confirmed.<br>&nbsp;Lauren Greer — involves digital interaction; may include strong language & topics of a sensitive nature.        
+Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction or participation, some may disturb, specifics follow…<br>&nbsp;Ash Cox — strong language, themes of ableism; potential interaction.<br>&nbsp;chris brown — performers' use of their bodies may be distressing; potential interaction.<br>&nbsp;E.M. Parry — simulates pins penetrating flesh; potential interaction.<br>&nbsp;Heather Alice — imagery of blood, suicide reference & symbolism, themes of mental illness, flashing projections, loud noise.<br>&nbsp;ITZATNA — bodily harm, loud noises, distressing video images of migration; references death, violence, threat. **Allergy Warning: Aloe Vera juice/sap.**<br>&nbsp;Jamil Keating — to be confirmed.<br>&nbsp;Kelvin Atmadibrata — to be confirmed.<br>&nbsp;Lauren Greer — involves digital interaction; may include strong language & topics of a sensitive nature.        
          
 ##### [27 Jul. Z-arts | Haphazard 2024](/current/2024-haphazard)          
 Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Content Warnings: some works may involve interaction or participation, some may disturb, specific warnings will be listed once the works have been selected…
