@@ -17,7 +17,7 @@ season: "Works Ahead: Radiator 24|5|2024"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2024-worksahead/#artists) · [details](/current/2024-worksahead/#details) · [access](/current/2024-worksahead/#access) · [about](/current/2024-worksahead/#about) · [credits](/current/2024-worksahead/#credits) · [websites](/current/2024-worksahead/#websites)</span><br><small>Updated 30 April 2024</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2024-worksahead/#artists) · [details](/current/2024-worksahead/#details) · [access](/current/2024-worksahead/#access) · [about](/current/2024-worksahead/#about) · [credits](/current/2024-worksahead/#credits) · [websites](/current/2024-worksahead/#websites)</span><br><small>Updated 7 May 2024</small>        
         
 *Presented by* Word of Warning + Manchester School of Theatre       
          
@@ -36,7 +36,7 @@ Entry: FREE, there's no need to book… come and go as you please.
 Times: Friday 24 May 2024, 5pm to 7pm (turn up at any time).         
 *NB* with some works having a short duration and/or limited capacity on a first-come first-served basis, you may not get a chance to see everything.          
             
-Location: <a href="https://mmu.ac.uk/about-us/buildings/grosvenor-east" target="_blank">Grosvenor East</a> (<a href="https://venues.mmu.ac.uk/wp-content/uploads/sites/420/2021/05/Arts-and-Humanities-Ground-reduced.pdf" target="_blank">GF.11 Lecture Theatre</a>), Manchester Metropolitan University, Cavendish St, Manchester, M15 6BG        
+Location: <a href="https://mmu.ac.uk/artshumanities/events/events/detail/works-ahead-radiator" target="_blank">MMU Grosvenor East</a> (<a href="https://venues.mmu.ac.uk/wp-content/uploads/sites/420/2021/05/Arts-and-Humanities-Ground-reduced.pdf" target="_blank">GF.11 Lecture Theatre</a>), Cavendish St, Manchester, M15 6BG        
         
 #### Access         
 Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: eight Live Art & performance works with varied content.<br>Queries: please contact [Word of Warning](/) via <mailto:info@habmcr.org>        
