@@ -111,7 +111,7 @@ Luisa Amorim is a Portuguese performance-maker based in London. She is intereste
          
 An urgent and timely story in three acts; a contemporary movement-performance inspired by ballet *The parade* as a personal response to how disabled people were treated during the pandemic.<br>In the first act the character is happy, joyful, and free, dancing outside of the box; in the second she is trapped in the box and battles confusion, rage, and hopelessness; act three is celebratory and eerie as she is finally free to leave.         
          
-Oroginally created for the anniversary of the DaDa Movement as part of WAIWAV with Dash Arts, Tate Plus Gallery, The Golden Thread Gallery Belfast.         
+Originally created for the anniversary of the DaDa Movement as part of WAIWAV with Dash Arts, Tate Plus Gallery, The Golden Thread Gallery Belfast.         
        
 Porcelain Delaney is a disabled multi-disciplinary artist & theatre-maker, passionate about sharing representative stories. A DaDa Fest Fellow, Graeae & Soho Writer Lab Alumna, and DANC Ambassador, she works across genres including: theatre, literature, circus, cabaret, dance. Her cabaret acts have headlined internationally from Paris to Dubai.         
          
