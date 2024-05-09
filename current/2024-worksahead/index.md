@@ -28,7 +28,7 @@ We invite you to join us on **Friday 24 May** for an informal evening sharing of
 Look at some of our [artists' images](/galleries/2024-woahpre).         
          
 #### Artists        
-Ash&nbsp;Cox&nbsp;· chris&nbsp;brown&nbsp;· E.M.&nbsp;Parry&nbsp;· Heather&nbsp;Alice&nbsp;· ITZATNA&nbsp;· Jamil&nbsp;Keating&nbsp;· Kelvin&nbsp;Atmadibrata&nbsp;· Lauren&nbsp;Greer<br><small><i>Participating artists subject to change.</i></small>
+Ash&nbsp;Cox&nbsp;· chris&nbsp;brown&nbsp;· E.M.&nbsp;Parry&nbsp;· Heather&nbsp;Alice&nbsp;· ITZATNA&nbsp;· Jamil&nbsp;Keating&nbsp;· Kelvin&nbsp;Atmadibrata&nbsp;· Lauren&nbsp;Greer<br><small>*Participating artists subject to change.*</small>
         
 #### Details          
 Entry: FREE, there's no need to book… come and go as you please.        
