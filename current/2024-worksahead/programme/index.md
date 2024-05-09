@@ -33,7 +33,7 @@ Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some 
          
 Content Warning: please click [here](/warnings).         
          
-Ash (they/she) aka Commander Ash Tronomy is an artist and access consultant, focusing on work that is reflective of their lived experience being a disabled, queer, working class space geek.          
+Ash (they/she) a.k.a. Commander Ash Tronomy is an artist and access consultant, focusing on work that is reflective of their lived experience being a disabled, queer, working-class, space geek.          
          
 <a href="https://ashtronomy.co.uk" target="_blank">ashtronomy.co.uk</a> · Insta <a href="https://instagram.com/ash_tronomy_" target="_blank">@ash_tronomy_</a> · X <a href="https://twitter.com/ash_tronomy_" target="_blank">@ash_tronomy_</a>         
 <hr>          
@@ -53,7 +53,7 @@ chris is a multidisciplinary artist who works in live performance, film, video, 
          
 Content Warning: please click [here](/warnings).         
          
-E.M. is a trans\*-disciplinary artist, designer, and performance-maker, working across scenography, drag, live & visual art, specialising in work which centres queer bodies and narratives. Flitting between genres and platforms, their work has been staged in the West End, international opera stages, pubs, clubs, cabarets, ships, lecture halls, and leaky basements. They work with, through, and for the queer body, squinting at history, flirting with ghosts and the things that go bump in the margins.          
+E.M. is a trans\*-disciplinary artist, designer, and performance-maker, working across scenography, drag, Live, and visual art, specialising in work which centres queer bodies and narratives. Flitting between genres and platforms, their work has been staged in the West End, international opera stages, pubs, clubs, cabarets, ships, lecture halls, and leaky basements. They work with, through, and for the queer body, squinting at history, flirting with ghosts and the things that go bump in the margins.          
          
 <a href="https://emparry.com" target="_blank">emparry.com</a> · Insta <a href="https://instagram.com/e_m_parry" target="_blank">@e\_m\_parry</a> · X <a href="https://twitter.com/e_m_parry" target="_blank">@e\_m\_parry</a>         
 <hr>         
@@ -71,13 +71,13 @@ Insta <a href="https://instagram.com/heatheraliceartist" target="_blank">@heathe
 <hr>         
 **Jamil Keating** · *untitled*         
          
-Jamil is a theatre-maker, writer, and performer. His first full solo work, [2015's *Affected*](archive/2015-worksahead/keating), was commissioned by hÅb. He's made work for [2020's Botanic](/archive/2020-autumnwinter/botanic), Emergency, and Hazard (as Tracey Lumpkin). He's also been an emerging artist in residence at the Whitworth.         
+Jamil is a theatre-maker, writer, and performer. His first full solo work, [2015's *Affected*](/archive/2015-worksahead/keating), was a Works Ahead commission by hÅb. He's made work for [2020's Botanic](/archive/2020-autumnwinter/botanic), Emergency, and Hazard (as Tracey Lumpkin). He's also been an emerging artist in residence at the Whitworth.         
          
 Insta <a href="https://instagram.com/jamil.k1011" target="_blank">@jamil.k1011</a>         
 <hr>         
 **ITZATNA** · *RIO BRAVO (West Ones)*         
          
-A Live Art ritual reflecting on the post-colonial journeys of Latin American migrants swimming across the US-Mexico border of the Rio Grande river.<br>SIN FRONTERAS : NO HAY EXILIO — *Without borders : there is no exile* // Y, si tus aguas hablaran // Cuánto no podrían decir // De los muertos que aparecen // Flotando encima de ti // *And, if your waters could speak* // *How much they could never say* // *Of the dead that appear* // *Floating on your surface.*          
+A Live Art ritual reflecting on the post-colonial journeys of Latin American migrants swimming across the US-Mexico border of the Rio Grande river.<br>SIN FRONTERAS : NO HAY EXILIO — *Without borders : there is no exile*<br>Y, si tus aguas hablaran // Cuánto no podrían decir // De los muertos que aparecen // Flotando encima de ti<br>*And, if your waters could speak* // *How much they could never say* // *Of the dead that appear* // *Floating on your surface.*          
           
 Content Warning: please click [here](/warnings).         
          
