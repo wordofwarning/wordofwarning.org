@@ -17,7 +17,7 @@ season: "Works Ahead: Radiator 24|5|2024, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 10 May 2024 at 15:15</small>         
+<small>Updated 10 May 2024 at 16:05</small>         
         
 *[A sharing of Live Art on 24 May](/current/2024-worksahead), presented by* Word of Warning *+* Manchester School of Theatre         
          
@@ -81,7 +81,7 @@ ITZATNA Arts is a Midlands-based emerging artist collective, creating cross-cult
          
 <a href="https://itzatna.org" target="_blank">itzatna.org</a> · Fb <a href="https://facebook.com/itzatna.arts" target="_blank">itzatna.arts</a> · Insta <a href="https://instagram.com/itzatna.arts" target="_blank">@itzatna.arts</a> · X <a href="https://twitter.com/itzatna_arts" target="_blank">@itzatna\_arts</a>         
 <hr>         
-**Jamil Keating** · *untitled*         
+**Jamil Keating** · *Shoeshine*         
          
 Jamil is a theatre-maker, writer, and performer. His first full solo work, [2015's *Affected*](/archive/2015-worksahead/keating), was a Works Ahead commission by hÅb. He's made work for [2020's Botanic](/archive/2020-autumnwinter/botanic), Emergency, and Hazard (as Tracey Lumpkin). He's also been an emerging artist in residence at the Whitworth.         
          
