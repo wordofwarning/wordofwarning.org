@@ -17,7 +17,7 @@ season: "Works Ahead: Radiator 24|5|2024, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 10 May 2024 at 11:50</small>         
+<small>Updated 10 May 2024 at 15:15</small>         
         
 *[A sharing of Live Art on 24 May](/current/2024-worksahead), presented by* Word of Warning *+* Manchester School of Theatre         
          
@@ -31,6 +31,8 @@ Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some 
          
 *Am I a failure or am I being failed? It's time to discard the facade.*          
          
+A relaxed multimedia performance, with captions and integrated audio description. *Binsincere* interrogates themes from their main body of work *Space Chronic-ills*, as part of their ongoing R&D, supported by Unlimited and Graeae.          
+          
 Content Warning: please click [here](/warnings).         
          
 Ash (they/she) a.k.a. Commander Ash Tronomy is an artist and access consultant, focusing on work that is reflective of their lived experience being a disabled, queer, working-class, space geek.          
