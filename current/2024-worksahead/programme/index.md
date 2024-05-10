@@ -17,7 +17,7 @@ season: "Works Ahead: Radiator 24|5|2024, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 9 May 2024</small>         
+<small>Updated 10 May 2024 at 11:50</small>         
         
 *[A sharing of Live Art on 24 May](/current/2024-worksahead), presented by* Word of Warning *+* Manchester School of Theatre         
          
@@ -59,7 +59,7 @@ E.M. is a trans\*-disciplinary artist, designer, and performance-maker, working 
 <hr>         
 **Heather Alice** · *I, The Girl.*         
          
-A personal reclamation of the 'hysterical' woman, and a reflection on the paradoxes created when society has gendered madness.<br>A fragmented journey through lived experience and complex representation: contemporary movement practices and transmedia storytelling offer an insight into how medical misogyny shapes our archetypes, and how these depictions in pop culture influence neurodiverse young women.         
+(Video Documentation of performance at [Emergency 23](/archive/2023-emergency/evening).)<br>A personal reclamation of the 'hysterical' woman, and a reflection on the paradoxes created when society has gendered madness.<br>A fragmented journey through lived experience and complex representation: contemporary movement practices and transmedia storytelling offer an insight into how medical misogyny shapes our archetypes, and how these depictions in pop culture influence neurodiverse young women.         
          
 Content Warning: please click [here](/warnings).         
          
@@ -68,12 +68,6 @@ Thanks to director Joshua Allen. · Videography by Chloe Holford & Joshua Allen.
 Heather is a multidisciplinary artist, currently creating immersive transmedia theatre. Her practice is rooted in feminism and she has a background in acting for screen, devising contemporary movement, poetry, and film-making. More recently she has become an aerialist and trained Epic Stages with National Youth Theatre.         
          
 Insta <a href="https://instagram.com/heatheraliceartist" target="_blank">@heatheraliceartist</a> · YT <a href="https://youtube.com/@heatheraliceartist" target="_blank">heatheraliceartist</a>        
-<hr>         
-**Jamil Keating** · *untitled*         
-         
-Jamil is a theatre-maker, writer, and performer. His first full solo work, [2015's *Affected*](/archive/2015-worksahead/keating), was a Works Ahead commission by hÅb. He's made work for [2020's Botanic](/archive/2020-autumnwinter/botanic), Emergency, and Hazard (as Tracey Lumpkin). He's also been an emerging artist in residence at the Whitworth.         
-         
-Insta <a href="https://instagram.com/jamil.k1011" target="_blank">@jamil.k1011</a>         
 <hr>         
 **ITZATNA** · *RIO BRAVO (West Ones)*         
          
@@ -84,6 +78,12 @@ Content Warning: please click [here](/warnings).
 ITZATNA Arts is a Midlands-based emerging artist collective, creating cross-cultural collaborations between artists and diaspora communities in Mexico, Latin America, UK. Founded by father-son artist duo Alfredo Hau (visual artist, writer, professional chef) & Sebas Hau (live artist & creative producer), ITZATNA cultivates radical, decolonial, cross-disciplinary approaches to creating cutting-edge projects that combine visual, community, culinary, and Live Art to create unique experiences for all ages.          
          
 <a href="https://itzatna.org" target="_blank">itzatna.org</a> · Fb <a href="https://facebook.com/itzatna.arts" target="_blank">itzatna.arts</a> · Insta <a href="https://instagram.com/itzatna.arts" target="_blank">@itzatna.arts</a> · X <a href="https://twitter.com/itzatna_arts" target="_blank">@itzatna\_arts</a>         
+<hr>         
+**Jamil Keating** · *untitled*         
+         
+Jamil is a theatre-maker, writer, and performer. His first full solo work, [2015's *Affected*](/archive/2015-worksahead/keating), was a Works Ahead commission by hÅb. He's made work for [2020's Botanic](/archive/2020-autumnwinter/botanic), Emergency, and Hazard (as Tracey Lumpkin). He's also been an emerging artist in residence at the Whitworth.         
+         
+Insta <a href="https://instagram.com/jamil.k1011" target="_blank">@jamil.k1011</a>         
 <hr>         
 **Kelvin Atmadibrata** · *untitled*         
          
