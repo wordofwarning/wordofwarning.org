@@ -24,8 +24,10 @@ season: "Works Ahead: Radiator 24|5|2024, Programme Notes"
 #### Artists         
 Ash&nbsp;Cox&nbsp;· chris&nbsp;brown&nbsp;· E.M.&nbsp;Parry&nbsp;· Heather&nbsp;Alice&nbsp;· ITZATNA&nbsp;· Jamil&nbsp;Keating&nbsp;· Kelvin&nbsp;Atmadibrata&nbsp;· Lauren&nbsp;Greer<br><small>*Participating artists subject to change.*</small>         
         
-#### Programme Notes         
-Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: eight Live Art & performance works with varied content.<br>Queries: please contact [Word of Warning](/) via <mailto:info@habmcr.org>         
+#### Access         
+Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: eight Live Art and contemporary performance works with varied content; six static live works, one video work, one roaming work (chris brown).<br>Space: on <a href="https://mmu.ac.uk/about-us/buildings/grosvenor-east" target="_blank">Grosvenor East</a>'s ground floor with step-free access from <a href="https://maps.app.goo.gl/rbygBfertWJHGypC8" target="_blank">Cavendish St</a>, <a href="https://venues.mmu.ac.uk/wp-content/uploads/sites/420/2021/05/Arts-and-Humanities-Ground-reduced.pdf" target="_blank">GF.11</a> is a rectangular studio with no daylight, white walls, black drapes, black floor; sited within are seven static works and rest point, each with chairs.<br>Viewing: the event requires moving around the space to explore the works; each work requires either standing or sitting on chairs/the floor.<br>Queries: please contact [Word of Warning](/) via <mailto:info@habmcr.org>         
+         
+#### Programme         
 <hr>         
 **Ash Cox** · *Binsincere*          
          
