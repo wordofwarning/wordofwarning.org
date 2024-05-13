@@ -17,7 +17,7 @@ season: "Works Ahead by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 30 April 2024</small>                
+<small>Updated 13 May 2024</small>                
         
 **Works Ahead** is a project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011.<br>Since 2012 it has offered over 35 small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events — with support including mentoring and a public showing of the next stage of the work, often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.         
          
@@ -62,7 +62,7 @@ Our [tenth Works Ahead](/archive/2022-worksahead) took place at <a href="https:/
 Our [eleventh Works Ahead](/archive/2023-worksahead) took place at <a href="https://contactmcr.com" target="_blank">Contact</a> in May — with a triple bill including Jade Williams' outcome from [2021](/hab/worksahead/#2021), alongside newly-commissioned artists Christian Asare and Kellie Colbert… See [images](/galleries/2023-woah).          
          
 #### 2024         
-Our twelfth edition, [Works Ahead: Radiator](/current/2024-worksahead) takes place in May — eight very different artists (Ash Cox, chris brown, E.M. Parry, Heather Alice, ITZATNA, Jamil Keating, Kelvin Atmadibrata, Lauren Greer) come together for an informal evening sharing of Live Art on **Friday 24 May** at <a href="https://mmu.ac.uk/about-us/buildings/grosvenor-east" target="_blank">MMU Grosvenor East</a>, before they embark on a path of shared exploration… See [artists' images](/galleries/2024-woahpre).       
+Our twelfth edition, [Works Ahead: Radiator](/current/2024-worksahead) takes place in May — eight very different artists (Ash Cox, chris brown, E.M. Parry, Heather Alice, ITZATNA, Jamil Keating, Kelvin Atmadibrata, Lauren Greer) come together for an informal evening sharing of Live Art on **Friday 24 May, 5pm-7pm** at <a href="https://mmu.ac.uk/about-us/buildings/grosvenor-east" target="_blank">MMU Grosvenor East</a>, before they embark on a path of shared exploration… See [artists' images](/galleries/2024-woahpre) and read their [programme notes](/current/2024-worksahead/programme).       
          
 [Works Ahead: Radiator (2024)](/current/2024-worksahead) produced by [hÅb](/hab); supported by <a href="https://theatre.mmu.ac.uk" target="_blank">Manchester Metropolitan University</a> and using public funding by Arts Council England.<br>Project Mentor: Peader Kirk         
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a>         
