@@ -17,7 +17,7 @@ season: "Works Ahead: Radiator 24|5|2024, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 10 May 2024 at 16:05</small>         
+<small>Updated 13 May 2024</small>         
         
 *[A sharing of Live Art on 24 May](/current/2024-worksahead), presented by* Word of Warning *+* Manchester School of Theatre         
          
@@ -29,9 +29,7 @@ Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some 
 <hr>         
 **Ash Cox** · *Binsincere*          
          
-*Am I a failure or am I being failed? It's time to discard the facade.*          
-         
-A relaxed multimedia performance, with captions and integrated audio description. *Binsincere* interrogates themes from their main body of work *Space Chronic-ills*, as part of their ongoing R&D, supported by Unlimited and Graeae.          
+*Am I a failure or am I being failed? It's time to discard the facade.*<br>A relaxed multimedia performance, with captions and integrated audio description. *Binsincere* interrogates themes from their main body of work *Space Chronic-ills*, as part of their ongoing R&D, supported by Unlimited and Graeae.          
           
 Content Warning: please click [here](/warnings).         
          
@@ -83,11 +81,15 @@ ITZATNA Arts is a Midlands-based emerging artist collective, creating cross-cult
 <hr>         
 **Jamil Keating** · *Shoeshine*         
          
-Jamil is a theatre-maker, writer, and performer. His first full solo work, [2015's *Affected*](/archive/2015-worksahead/keating), was a Works Ahead commission by hÅb. He's made work for [2020's Botanic](/archive/2020-autumnwinter/botanic), Emergency, and Hazard (as Tracey Lumpkin). He's also been an emerging artist in residence at the Whitworth.         
+Jamil is a theatre-maker, writer, and performer. His first full solo work, [2015's *Affected*](/archive/2015-worksahead/keating), was a Works Ahead commission by hÅb. He's made work for [2020's Botanic](/archive/2020-autumnwinter/botanic), Emergency, and Hazard (as Tracey Lumpkin). He's also been an emerging artist in residence at the Whitworth and is generally found causing mischief in the city.         
          
 Insta <a href="https://instagram.com/jamil.k1011" target="_blank">@jamil.k1011</a>         
 <hr>         
-**Kelvin Atmadibrata** · *untitled*         
+**Kelvin Atmadibrata** · *But nothing happened*         
+          
+*A carp climbing up a waterfall to become a dragon.*<br>A work-in-progress performance involving text, movement, and objects as installations.         
+         
+Content Warning: please click [here](/warnings).         
          
 Kelvin recruits superpowers awakened by puberty and adolescent fantasy, personifying power and strength into fanfiction antiheroes to contest the masculine meta and erotica. He works primarily with performance, often accompanied by and translated into drawings, mixed media collages, and objects compiled as installations. Approached as bricolages, Kelvin translates narratives and recreates personifications based on role-playing video game theories and pop mythologies.         
          
