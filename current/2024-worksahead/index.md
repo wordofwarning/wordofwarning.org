@@ -25,7 +25,7 @@ Eight very different artists come together to hothouse ideas over the course of 
          
 We invite you to join us on **Friday 24 May** for an informal evening sharing of this work, before the artists embark on a path of shared exploration…        
         
-Look at some of our [artists' images](/galleries/2024-woahpre).         
+Look at some of our [artists' images](/galleries/2024-woahpre) and read their [programme notes](/current/2024-worksahead/programme).         
          
 #### Artists        
 Ash&nbsp;Cox&nbsp;· chris&nbsp;brown&nbsp;· E.M.&nbsp;Parry&nbsp;· Heather&nbsp;Alice&nbsp;· ITZATNA&nbsp;· Jamil&nbsp;Keating&nbsp;· Kelvin&nbsp;Atmadibrata&nbsp;· Lauren&nbsp;Greer<br><small>*Participating artists subject to change.*</small>
