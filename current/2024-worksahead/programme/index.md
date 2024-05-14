@@ -17,7 +17,7 @@ season: "Works Ahead: Radiator 24|5|2024, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 13 May 2024</small>         
+<small>Updated 14 May 2024</small>         
         
 *[A sharing of Live Art on 24 May](/current/2024-worksahead), presented by* Word of Warning *+* Manchester School of Theatre         
          
@@ -71,7 +71,7 @@ Heather is a multidisciplinary artist, currently creating immersive transmedia t
          
 Insta <a href="https://instagram.com/heatheraliceartist" target="_blank">@heatheraliceartist</a> · YT <a href="https://youtube.com/@heatheraliceartist" target="_blank">heatheraliceartist</a>        
 <hr>         
-**ITZATNA** · *RIO BRAVO (West Ones)*         
+**ITZATNA** · *RIO BRAVO (Wet/Ones)*         
          
 A Live Art ritual reflecting on the post-colonial journeys of Latin American migrants swimming across the US-Mexico border of the Rio Grande river.<br>SIN FRONTERAS : NO HAY EXILIO — *Without borders : there is no exile*<br>Y, si tus aguas hablaran // Cuánto no podrían decir // De los muertos que aparecen // Flotando encima de ti<br>*And, if your waters could speak* // *How much they could never say* // *Of the dead that appear* // *Floating on your surface.*          
           
