@@ -8,7 +8,7 @@ artist_size: 1
 season: "Performance Programme 2024"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2024/#about) · [audiences](/current/2024/#audiences) · [by](/current/2024/#by) · [people](/current/2024/#people) · [warnings](/current/2024/#warnings)</span><br><small>Updated 7 May 2024</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2024/#about) · [audiences](/current/2024/#audiences) · [by](/current/2024/#by) · [people](/current/2024/#people) · [warnings](/current/2024/#warnings)</span><br><small>Updated 16 May 2024</small>        
          
 *We began with [Turn](/current/2024-turn)'s whirlwind of new dance at <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> and [ELOINA](/current/2024/ELOINA)'s riotous rebellion at <a href="https://thelowry.com" target="_blank">The Lowry</a> — join us for an informal evening sharing of Live Art in [Works Ahead: Radiator](/current/2024-worksahead) at <a href="https://mmu.ac.uk/artshumanities/events/events/detail/works-ahead-radiator" target="_blank">MMU</a> on 24 May — and enjoy a free afternoon of Live Art antics in [Haphazard](/current/2024-haphazard) at <a href="https://z-arts.org" target="_blank">Z-arts</a> on 27 July.*         
          
@@ -16,7 +16,7 @@ Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Wee
         
 Visit our <a href="https://youtube.com/@warnmcr" target="_blank">YouTube channel</a> to watch archived livestreams and more.<br>Find further information for both audiences and artists on our [News](/news) page.         
         
-Discover what happened last year in our [2023 archive](/archive/2023) — and please <a href="https://www.illuminate-data.org.uk/survey/pjxnmc" target="_blank">tell us your thoughts</a> if you come to any of our events or watch a livestream.        
+Discover what happened last year in our [2023 archive](/archive/2023) — and please <a href="https://www.illuminate-data.org.uk/survey/qvprln" target="_blank">tell us your thoughts</a> if you come to any of our events or watch a livestream.        
 <small><span style='font-variant: small-caps'>[back to top](/current/2024)</span></small>        
         
 #### About         
