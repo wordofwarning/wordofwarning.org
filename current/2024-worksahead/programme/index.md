@@ -17,7 +17,7 @@ season: "Works Ahead: Radiator 24|5|2024, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 20 May 2024</small>         
+<small>Updated 23 May 2024, 18:05</small>         
         
 *[A sharing of Live Art on 24 May](/current/2024-worksahead), presented by* Word of Warning *+* Manchester School of Theatre         
          
@@ -25,7 +25,7 @@ season: "Works Ahead: Radiator 24|5|2024, Programme Notes"
 Ash&nbsp;Cox&nbsp;· chris&nbsp;brown&nbsp;· E.M.&nbsp;Parry&nbsp;· Heather&nbsp;Alice&nbsp;· ITZATNA&nbsp;· Jamil&nbsp;Keating&nbsp;· Kelvin&nbsp;Atmadibrata&nbsp;· Lauren&nbsp;Greer<br><small>*Participating artists subject to change.*</small>         
         
 #### Access         
-Age Advisory: 16+ (parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: eight Live Art and contemporary performance works with varied content; six static live works, one video work, one roaming work (chris brown).<br>Space: on <a href="https://mmu.ac.uk/about-us/buildings/grosvenor-east" target="_blank">Grosvenor East</a>'s ground floor with step-free access from <a href="https://maps.app.goo.gl/rbygBfertWJHGypC8" target="_blank">Cavendish St</a>, <a href="https://venues.mmu.ac.uk/wp-content/uploads/sites/420/2021/05/Arts-and-Humanities-Ground-reduced.pdf" target="_blank">GF.11</a> is a rectangular studio with no daylight, white walls, black drapes, black floor; sited within are seven static works and rest point, each with chairs.<br>Viewing: the event requires moving around the space to explore the works; each work requires either standing or sitting on chairs/the floor.<br>Queries: please contact [Word of Warning](/) via <mailto:info@habmcr.org>         
+Age: 18+<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: eight Live Art and contemporary performance works with varied content; six static live works, one video work, one roaming work (chris brown).<br>Space: on <a href="https://mmu.ac.uk/about-us/buildings/grosvenor-east" target="_blank">Grosvenor East</a>'s ground floor with step-free access from <a href="https://maps.app.goo.gl/rbygBfertWJHGypC8" target="_blank">Cavendish St</a>, <a href="https://venues.mmu.ac.uk/wp-content/uploads/sites/420/2021/05/Arts-and-Humanities-Ground-reduced.pdf" target="_blank">GF.11</a> is a rectangular studio with no daylight, white walls, black drapes, black floor; sited within are seven static works and rest point, each with chairs.<br>Viewing: the event requires moving around the space to explore the works; each work requires either standing or sitting on chairs/the floor.<br>Queries: please contact [Word of Warning](/) via <mailto:info@habmcr.org>         
          
 #### Programme         
 <hr>         
@@ -75,7 +75,7 @@ Insta <a href="https://instagram.com/heatheraliceartist" target="_blank">@heathe
          
 A Live Art ritual reflecting on the post-colonial journeys of Latin American migrants swimming across the US-Mexico border of the Rio Grande river.<br>SIN FRONTERAS : NO HAY EXILIO — *Without borders : there is no exile*<br>Y, si tus aguas hablaran // Cuánto no podrían decir // De los muertos que aparecen // Flotando encima de ti<br>*And, if your waters could speak* // *How much they could never say* // *Of the dead that appear* // *Floating on your surface.*          
           
-Content Warning: please click [here](/warnings).         
+Allergy & Content Warnings: please click [here](/warnings).         
          
 ITZATNA Arts is a Midlands-based emerging artist collective, creating cross-cultural collaborations between artists and diaspora communities in Mexico, Latin America, UK. Founded by father-son artist duo Alfredo Hau (visual artist, writer, professional chef) & Sebas Hau (live artist & creative producer), ITZATNA cultivates radical, decolonial, cross-disciplinary approaches to creating cutting-edge projects that combine visual, community, culinary, and Live Art to create unique experiences for all ages.          
          
@@ -85,7 +85,7 @@ ITZATNA Arts is a Midlands-based emerging artist collective, creating cross-cult
          
 A man on his knees offers you a traditional shoeshine… but is it an act of service or something darker as he holds you in his thrall with a story guaranteed to dull the shine of those shoes.         
          
-Content Warning: please click [here](/warnings).         
+Allergy & Content Warnings: please click [here](/warnings).         
          
 Jamil is a theatre-maker, writer, and performer. His first full solo work, [2015's *Affected*](/archive/2015-worksahead/keating), was a Works Ahead commission by hÅb. He's made work for [2020's Botanic](/archive/2020-autumnwinter/botanic), Emergency, and Hazard (as Tracey Lumpkin). He's also been an emerging artist in residence at the Whitworth and is generally found causing mischief in the city.         
          
