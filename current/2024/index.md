@@ -8,9 +8,9 @@ artist_size: 1
 season: "Performance Programme 2024"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2024/#about) · [audiences](/current/2024/#audiences) · [by](/current/2024/#by) · [people](/current/2024/#people) · [warnings](/current/2024/#warnings)</span><br><small>Updated 16 May 2024</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2024/#about) · [audiences](/current/2024/#audiences) · [by](/current/2024/#by) · [people](/current/2024/#people) · [warnings](/current/2024/#warnings)</span><br><small>Updated 28 May 2024</small>        
          
-*We began with [Turn](/current/2024-turn)'s whirlwind of new dance at <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> and [ELOINA](/current/2024/ELOINA)'s riotous rebellion at <a href="https://thelowry.com" target="_blank">The Lowry</a> — join us for an informal evening sharing of Live Art in [Works Ahead: Radiator](/current/2024-worksahead) at <a href="https://mmu.ac.uk/artshumanities/events/events/detail/works-ahead-radiator" target="_blank">MMU</a> on 24 May — and enjoy a free afternoon of Live Art antics in [Haphazard](/current/2024-haphazard) at <a href="https://z-arts.org" target="_blank">Z-arts</a> on 27 July.*         
+*We began with [Turn](/current/2024-turn)'s whirlwind of new dance at <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, followed by [ELOINA](/current/2024/ELOINA)'s riotous rebellion at <a href="https://thelowry.com" target="_blank">The Lowry</a> and [Works Ahead: Radiator](/current/2024-worksahead)'s informal sharing of Live Art at <a href="https://mmu.ac.uk/artshumanities/events/events/detail/works-ahead-radiator" target="_blank">MMU</a> — join us for a free afternoon of Live Art antics in [Haphazard](/current/2024-haphazard) at <a href="https://z-arts.org" target="_blank">Z-arts</a> on 27 July.*         
          
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
