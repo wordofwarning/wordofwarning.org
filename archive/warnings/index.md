@@ -12,13 +12,16 @@ season: "Archived Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 30 April 2024<small>        
+<small>Updated 28 May 2024<small>        
         
 Age Advisories/Limits & Content Warnings for *past* events and *archived* livestreams on our YouTube channel are available below, including elements that may distress, cause upset, or trigger.&ensp;Go to → [2024](/archive/warnings/#2024) · [2023](/archive/warnings/#2023) · [2022](/archive/warnings/#2022) · [2021](/archive/warnings/#2021) · [2020](/archive/warnings/#2020) · [2019](/archive/warnings/#2019)&ensp;(Please click [here](/warnings) for *upcoming* events.)        
         
 If issues raised affect you, these organisations may be of support:&ensp;<a href="https://thecalmzone.net" target="_blank">CALM</a> 0800 585858 · <a href="https://harmless.org.uk" target="_blank">Harmless</a> · <a href="https://mind.org.uk" target="_blank">Mind</a> 0300 123 3393 · <a href="https://nopanic.org.uk" target="_blank">No Panic</a> 0300 772 9844 · <a href="https://samaritans.org" target="_blank">Samaritans</a> call 116 123 or email jo@samaritans.org · <a href="https://supportline.org.uk" target="_blank">SupportLine</a> 01708 765 200 · <a href="https://thesurvivorstrust.org" target="_blank">The Survivors Trust</a> 08088 010 818         
 <hr>         
 #### 2024         
+         
+##### [24 May. MMU Grosvenor East | Works Ahead: Radiator](/current/2024-worksahead)         
+Age: 18+<br>Content Warnings: some works involved interaction or participation, some may disturb, specifics follow…<br>&nbsp;Ash Cox — strong language, themes of ableism; potential interaction.<br>&nbsp;chris brown — performers' use of their bodies may be distressing; potential interaction.<br>&nbsp;E.M. Parry — simulates pins penetrating flesh; potential interaction.<br>&nbsp;Heather Alice — imagery of blood, suicide reference & symbolism, themes of mental illness, flashing projections, loud noise.<br>&nbsp;ITZATNA — bodily harm, loud noises, distressing video images of migration; references death, violence, threat. **Allergy Warning: Aloe Vera juice/sap.**<br>&nbsp;Jamil Keating — involves interaction; potential disturbing content. **Allergy Warning: shoe-cleaning products.**<br>&nbsp;Kelvin Atmadibrata — includes a scene that may suggest choking.<br>&nbsp;Lauren Greer — involves digital interaction; may include strong language & topics of a sensitive nature.        
          
 ##### [27 Apr. The Lowry | *HIGH STEAKS* by ELOINA](/current/2024/ELOINA)          
 Age Advisory: **18+** (parent/guardian/carer discretion).<br>Content Warnings: full frontal nudity, strong language, handling and cooking of raw meat, discussion of genital surgery, discussion of self-harm, depictions of real mother-daughter relationships. *Potential* audience interaction could have included coming on stage and drawing ELOINA — this was an invitation and you were encouraged to only do this if you would like.          
