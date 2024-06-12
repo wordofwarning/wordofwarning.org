@@ -18,7 +18,7 @@ gallery:
     -   {file: "tom.jpg", artist: "Thomas Byrne + Aimee Williamson"}
     -   {file: "chickenshop.jpg", artist: "Chicken Shop Hermits"}
     -   {file: "wizard.jpg", artist: "perfectly serviceable"}
-    -   {file: "failedartists.jpg", artist: "Emma Bourke Theatre + Rose Wilson Arts"}
+    -   {file: "failedartists.jpg", artist: "Failed Artists Society"}
     -   {file: "jana.jpg", artist: "Jana Aizupe + Company"}
     -   {file: "sohail.jpg", artist: "Sohail Khan"}
      
