@@ -20,7 +20,7 @@ season: "Emergency by hÅb"
         
 **Emergency** is our annual platform for Live Art and contemporary performance — offering a sneak preview of new live work over a single day in Manchester every autumn and now resident at <a href="https://contactmcr.com" target="_blank">Contact</a>, its seventh home.        
          
-Manchester's 24th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 28 September 2024, (*Noon-10pm tbc*)**.          
+Manchester's 24th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 28 September 2024 (*tbc* Noon-10pm)**.          
          
 Get a feel for it with [2023's programme](/archive/2023-emergency/#artists) and [gallery of images](/galleries/2023-emergency).        
          
@@ -31,7 +31,7 @@ We usually expect to present *about* 20-30 short works throughout the building �
 #### Emergency 24 Call for Proposals       
 Artists working in Live Art, contemporary performance, time-based media, and interdisciplinary arts are <a href="https://emergencymcr.posthaven.com" target="_blank">invited to submit proposals</a>; work can be in any relevant artform/medium, though some live presence is desirable.        
          
-**Proposal Deadline: Friday 2 August 2024, 5pm**        
+**For details & to apply go to <a href="https://emergencymcr.posthaven.com" target="_blank">emergencymcr.posthaven.com</a><br>Proposal Deadline: Friday 2 August 2024, 5pm**        
          
 Emergency 24 combines an Afternoon of durational installation, intervention, and limited capacity work; followed by an Evening of short (*max 20 mins*) show-type pieces of work, works-in-progress, or extracts of longer work.       
         
