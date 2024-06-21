@@ -15,18 +15,18 @@ season: "Haphazard 27|7|2024"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2024-haphazard/#artists) · [details](/current/2024-haphazard/#details) · [access](/current/2024-haphazard/#access) · [about](/current/2024-haphazard/#about) · [credits](/current/2024-haphazard/#credits) · [websites](/current/2024-haphazard/#websites)</span><br><small>Updated 13 June 2024</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2024-haphazard/#artists) · [details](/current/2024-haphazard/#details) · [access](/current/2024-haphazard/#access) · [about](/current/2024-haphazard/#about) · [credits](/current/2024-haphazard/#credits) · [websites](/current/2024-haphazard/#websites)</span><br><small>Updated 21 June 2024</small>        
         
 *Presented by* Word of Warning *+* Z-arts           
          
 Playful, quirky, engaging, and sometimes plain daft: Haphazard is for kids and their adults, adults and *their* adults — anyone looking for a different day out!         
          
-In [2023 we saw](/galleries/2023-haphazard) lasers, slinkies, silver birds, woolly jellyfish, and a shower of confetti… join us to see what 2024 might bring.         
+In [2023 we saw](/galleries/2023-haphazard) lasers, slinkies, silver birds, woolly jellyfish, and a shower of confetti… join us to see what 2024 might bring and look at some of our [artists’ images](/galleries/2024-haphazardpre).         
           
 A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2024" target="_blank">Z-arts</a> **on Saturday 27 July from 1pm to 4pm**. Turn up at any time, come and go as you please… and expect the unexpected!         
          
 #### Artists         
-*Participating artists to be announced late-June.*         
+Chanje Kunda · Chicken Shop Hermits · Chris Sav · Failed Artists Society · Jana Aizupe & Company · perfectly serviceable · Porcelain Delaney · Sohail Khan · Thomas Byrne & Aimee Williamson<br><small>*Participating artists subject to change.*</small>         
          
 #### Details         
 Entry: FREE, there's no need to book… just turn up!         
@@ -36,7 +36,7 @@ Times: Saturday 27 July 2024, 1pm to 4pm (turn up at any time).<br>*NB* with art
 Location: <a href="https://z-arts.org/home/your-visit-to-z-arts/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
          
 #### Access         
-Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Content Warnings: some works may involve interaction, some may disturb; specific warnings will be listed [here](/warnings) once the works have been selected.<br>Features: Live Art, performance, and participatory works with varied content.<br>*NB* takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some participatory.<br>Queries: please contact <a href="https://z-arts.org/home/your-visit-to-z-arts/access" target="_blank">Z-arts</a>, 0161 226 1912 or <mailto:boxoffice@z-arts.org>        
+Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction and/or participation, some works may disturb; any specific warnings will be listed [here](/warnings).<br>Features: Live Art, performance, and participatory works with varied content.<br>*NB* takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some participatory.<br>Queries: please contact <a href="https://z-arts.org/home/your-visit-to-z-arts/access" target="_blank">Z-arts</a>, 0161 226 1912 or <mailto:boxoffice@z-arts.org>        
          
 #### About         
 [Haphazard](/hab/haphazard) is our frequent foray into 'all ages' Live Art, with intriguing images and offbeat oddities dotted around and about Hulme's historic <a href="https://www.z-arts.org/about-us" target="_blank">Z-arts</a> building.         
