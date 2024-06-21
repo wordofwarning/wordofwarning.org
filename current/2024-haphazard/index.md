@@ -21,12 +21,12 @@ season: "Haphazard 27|7|2024"
          
 Playful, quirky, engaging, and sometimes plain daft: Haphazard is for kids and their adults, adults and *their* adults — anyone looking for a different day out!         
          
-In [2023 we saw](/galleries/2023-haphazard) lasers, slinkies, silver birds, woolly jellyfish, and a shower of confetti… join us to see what 2024 might bring and look at some of our [artists’ images](/galleries/2024-haphazardpre).         
+[2023 saw](/galleries/2023-haphazard) lasers, slinkies, silver birds, woolly jellyfish, a shower of confetti… Join us to see what 2024 might bring and look at some of our [artists’ images](/galleries/2024-haphazardpre).         
           
 A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2024" target="_blank">Z-arts</a> **on Saturday 27 July from 1pm to 4pm**. Turn up at any time, come and go as you please… and expect the unexpected!         
          
 #### Artists         
-Chanje Kunda · Chicken Shop Hermits · Chris Sav · Failed Artists Society · Jana Aizupe & Company · perfectly serviceable · Porcelain Delaney · Sohail Khan · Thomas Byrne & Aimee Williamson<br><small>*Participating artists subject to change.*</small>         
+Chanje&nbsp;Kunda&nbsp;· Chicken&nbsp;Shop&nbsp;Hermits&nbsp;· Chris&nbsp;Sav&nbsp;· Failed&nbsp;Artists&nbsp;Society&nbsp;· Jana&nbsp;Aizupe&nbsp;&&nbsp;Company&nbsp;· perfectly&nbsp;serviceable&nbsp;· Porcelain&nbsp;Delaney&nbsp;· Sohail&nbsp;Khan&nbsp;· Thomas&nbsp;Byrne&nbsp;&&nbsp;Aimee&nbsp;Williamson<br><small>*Participating artists subject to change.*</small>         
          
 #### Details         
 Entry: FREE, there's no need to book… just turn up!         
