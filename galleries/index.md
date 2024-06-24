@@ -5,7 +5,7 @@ layout: archive
 season: "Galleries"
 
 archived:
-    - {folder: "2024-woah", name: "Works Ahead 2024", class: "w2022"} 
+    - {folder: "2024-woah", name: "Works Ahead: Radiator (2024)", class: "w2022"} 
     - {folder: "2024-turn", name: "Turn 2024", class: "t2024"} 
     - {folder: "2023-emergency", name: "Emergency 23", class: "e2021"}
     - {folder: "2023-haphazard", name: "Haphazard 2023", class: "h2023"}
@@ -43,7 +43,7 @@ archived:
     - {folder: "2014-hazard", name: "Hazard 2014", class: "h2014"}
     - {folder: "2014-woah", name: "Works Ahead 2014", class: "woah"}
     - {folder: "2014-turn", name: "Turn 2014", class: "t2014"}
-    - {folder: "2013-domestic", name: "Domestic (2013)", class: "dom"}
+    - {folder: "2013-domestic", name: "Domestic I (2013)", class: "dom"}
     - {folder: "2013-emergency", name: "Emergency 2013", class: "e2013"}
     - {folder: "2013-woah", name: "Works Ahead 2013", class: "woah"}
     - {folder: "2013-turn", name: "Turn 2013", class: "t2013"}
