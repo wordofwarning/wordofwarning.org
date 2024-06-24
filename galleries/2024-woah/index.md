@@ -11,7 +11,7 @@ more_link: "Works<br>Ahead<br><i>Radiator</i>"
 more_url: "../../current/2024-worksahead"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "<small><i>A sharing of Live Art at MMU Grosvenor East, Fri 24 May 2024</i></small>"}
+    -   {file: "titlepage.jpg", artist: "<small><i>A sharing of Live Art at MMU Grosvenor East, 24 May 2024</i></small>"}
     -   {file: "ash1.jpg", artist: "Ash Cox"}
     -   {file: "ash2.jpg", artist: "Ash Cox"}
     -   {file: "ash3.jpg", artist: "Ash Cox"}
