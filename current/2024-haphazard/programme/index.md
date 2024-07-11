@@ -39,11 +39,11 @@ Poet, performance artist, writer, and film-maker Chanje's work explores 21st cen
 <hr>         
 **Chicken Shop Hermits** · *My Haunted Dollhouse*         
           
-*What does it look like when memories fade away? …glitter, maybe?*<br>Exploring the meaning of home and family through dollhouses and the ghosts of the memories inhabiting them.         
+*What does it look like when memories fade away? … Glitter, maybe?*<br>Exploring the meaning of home and family through dollhouses and the ghosts of the memories inhabiting them.         
          
 Created by Hector T.J. Huang & Chiara Scoglio, Chicken Shop Hermits is a puppetry & experimental theatre collective. By tackling themes of identity, belonging, and alienation, they combine interests in visual arts, writing, and puppetry theatre with their international origins.         
          
-<a href="https://hectortjhuang.wixsite.com/home" target="_blank">hectortjhuang.wixsite.com/home</a> · Insta <a href="https://instagram.com/chickenshophermits" target="_blank">@chickenshophermits</a> <a href="https://instagram.com/andramousapolutropon" target="_blank">@andramousapolutropon (Chiara)</a> <a href="https://instagram.com/hector.tj.huang" target="_blank">@hector.tj.huang</a>         
+<a href="https://hectortjhuang.wixsite.com/home" target="_blank">hectortjhuang.wixsite.com/home</a> · Insta <a href="https://instagram.com/chickenshophermits" target="_blank">@chickenshophermits</a> <a href="https://instagram.com/hector.tj.huang" target="_blank">@hector.tj.huang</a> <a href="https://instagram.com/andramousapolutropon" target="_blank">@andramousapolutropon</a> (Chiara)         
 <hr>         
 **Chris Sav** · *Action Prawn*         
           
@@ -59,11 +59,11 @@ Meet Vincent Van Gosh, Luke Warm and Deadgar Allan Poe — three artists who can
 
 Eleanor Webster is a Welsh queer theatre-maker & writer — they love dressing up as their grandad, epic mythology, and writing gay poetry.<br>Emma Bourke is an emerging theatre-human who loves talking about herself and deconstructing stereotypes through autobiographical comedy.<br>Rose Wilson is a performance artist specialising in quirky, queer, and captivating performances that explore the lives of fascinating characters.         
          
-<a href="https://eleanorwebster.co.uk" target="_blank">eleanorwebster.co.uk</a> · <a href="https://emmabourketheatre.com" target="_blank">emmabourketheatre.com</a> · <a href="https://rosewilsonarts.co.uk" target="_blank">rosewilsonarts.co.uk</a><br>Fb <a href="https://facebook.com/emmabourketheatre" target="_blank">emmabourketheatre</a> · <a href="https://facebook.com/profile.php?id=100082773731362" target="_blank">Rose Wilson Arts</a><br>Insta <a href="https://instagram.com/welsh_webster" target="_blank">@welsh_webster</a> · <a href="https://instagram.com/emmabourketheatre" target="_blank">@emmabourketheatre</a> · <a href="https://instagram.com/rosewilsonarts" target="_blank">@rosewilsonarts</a><br>X <a href="https://x.com/welsh_webster" target="_blank">@welsh_webster</a> · <a href="https://x.com/EBourkeTheatre" target="_blank">@EBourkeTheatre</a> · <a href="https://x.com/RoseWilsonArts" target="_blank">@RoseWilsonArts</a>         
+<a href="https://eleanorwebster.co.uk" target="_blank">eleanorwebster.co.uk</a> · <a href="https://emmabourketheatre.com" target="_blank">emmabourketheatre.com</a> · <a href="https://rosewilsonarts.co.uk" target="_blank">rosewilsonarts.co.uk</a><br>Fb <a href="https://facebook.com/emmabourketheatre" target="_blank">emmabourketheatre</a> <a href="https://facebook.com/profile.php?id=100082773731362" target="_blank">Rose Wilson Arts</a><br>Insta <a href="https://instagram.com/welsh_webster" target="_blank">@welsh_webster</a> <a href="https://instagram.com/emmabourketheatre" target="_blank">@emmabourketheatre</a> <a href="https://instagram.com/rosewilsonarts" target="_blank">@rosewilsonarts</a><br>X <a href="https://x.com/welsh_webster" target="_blank">@welsh_webster</a> <a href="https://x.com/EBourkeTheatre" target="_blank">@EBourkeTheatre</a> <a href="https://x.com/RoseWilsonArts" target="_blank">@RoseWilsonArts</a>         
 <hr>        
 **Jana Aizupe & Company** · *enchilada*         
          
-Three Enchiladas are here to invite you to the BEST TECHNO PARTY of your life! Get your wigs ready (or make one with us during the afternoon) and join us at *about* 3.30pm for an unforgettable dance.        
+Three Enchiladas are here to invite you to the BEST TECHNO PARTY of your life! Get your wigs ready (or make one with us during the afternoon) and join us at *about 3.30pm* for an unforgettable dance.        
           
 Jana is a working-class theatre artist based in West Midlands, primarily working through devising, movement, and film.         
          
