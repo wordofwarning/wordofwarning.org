@@ -43,7 +43,7 @@ Poet, performance artist, writer, and film-maker Chanje's work explores 21st cen
          
 Created by Hector T.J. Huang & Chiara Scoglio, Chicken Shop Hermits is a puppetry & experimental theatre collective. By tackling themes of identity, belonging, and alienation, they combine interests in visual arts, writing, and puppetry theatre with their international origins.         
          
-<a href="https://hectortjhuang.wixsite.com/home" target="_blank">hectortjhuang.wixsite.com/home</a> · Insta <a href="https://instagram.com/chickenshophermits" target="_blank">@chickenshophermits</a> · Chiara Insta <a href="https://instagram.com/andramousapolutropon" target="_blank">@andramousapolutropon</a> · Hector Insta <a href="https://instagram.com/hector.tj.huang" target="_blank">@hector.tj.huang</a>         
+<a href="https://hectortjhuang.wixsite.com/home" target="_blank">hectortjhuang.wixsite.com/home</a> · Insta <a href="https://instagram.com/chickenshophermits" target="_blank">@chickenshophermits</a> <a href="https://instagram.com/andramousapolutropon" target="_blank">@andramousapolutropon (Chiara)</a> <a href="https://instagram.com/hector.tj.huang" target="_blank">@hector.tj.huang</a>         
 <hr>         
 **Chris Sav** · *Action Prawn*         
           
@@ -59,7 +59,7 @@ Meet Vincent Van Gosh, Luke Warm and Deadgar Allan Poe — three artists who can
 
 Eleanor Webster is a Welsh queer theatre-maker & writer — they love dressing up as their grandad, epic mythology, and writing gay poetry.<br>Emma Bourke is an emerging theatre-human who loves talking about herself and deconstructing stereotypes through autobiographical comedy.<br>Rose Wilson is a performance artist specialising in quirky, queer, and captivating performances that explore the lives of fascinating characters.         
          
-<a href="https://eleanorwebster.co.uk" target="_blank">eleanorwebster.co.uk</a> · Insta <a href="https://instagram.com/welsh_webster" target="_blank">@welsh_webster</a> · X <a href="https://x.com/welsh_webster" target="_blank">@welsh_webster</a><br><a href="https://emmabourketheatre.com" target="_blank">emmabourketheatre.com</a> · Fb <a href="https://facebook.com/emmabourketheatre" target="_blank">emmabourketheatre</a> · Insta <a href="https://instagram.com/emmabourketheatre" target="_blank">@emmabourketheatre</a> · X <a href="https://x.com/EBourkeTheatre" target="_blank">@EBourkeTheatre</a><br><a href="https://rosewilsonarts.co.uk" target="_blank">rosewilsonarts.co.uk</a> · Fb <a href="https://facebook.com/profile.php?id=100082773731362" target="_blank">Rose Wilson Arts</a> · Insta <a href="https://instagram.com/rosewilsonarts" target="_blank">@rosewilsonarts</a> · X <a href="https://x.com/RoseWilsonArts" target="_blank">@RoseWilsonArts</a>         
+<a href="https://eleanorwebster.co.uk" target="_blank">eleanorwebster.co.uk</a> · <a href="https://emmabourketheatre.com" target="_blank">emmabourketheatre.com</a> · <a href="https://rosewilsonarts.co.uk" target="_blank">rosewilsonarts.co.uk</a><br>Fb <a href="https://facebook.com/emmabourketheatre" target="_blank">emmabourketheatre</a> · <a href="https://facebook.com/profile.php?id=100082773731362" target="_blank">Rose Wilson Arts</a><br>Insta <a href="https://instagram.com/welsh_webster" target="_blank">@welsh_webster</a> · <a href="https://instagram.com/emmabourketheatre" target="_blank">@emmabourketheatre</a> · <a href="https://instagram.com/rosewilsonarts" target="_blank">@rosewilsonarts</a><br>X <a href="https://x.com/welsh_webster" target="_blank">@welsh_webster</a> · <a href="https://x.com/EBourkeTheatre" target="_blank">@EBourkeTheatre</a> · <a href="https://x.com/RoseWilsonArts" target="_blank">@RoseWilsonArts</a>         
 <hr>        
 **Jana Aizupe & Company** · *enchilada*         
          
@@ -89,9 +89,9 @@ Fb <a href="https://facebook.com/PorcelainDancer" target="_blank">PorcelainDance
          
 *Being DaDa is lost… can you help Them find what Home means…*<br>How do Worlds meet? And how do we get to know the Other when they may not speak any language?         
          
-Huddersfield-based Sohail makes work around heritage, the impacts of British colonialism & 'Otherness', and has made work for SPILL and National Review Of Live Art.         
+Huddersfield-based Sohail makes work around heritage, the impacts of British colonialism, and 'Otherness', and has made work for SPILL and National Review Of Live Art.         
          
-YouTube <a href="https://youtube.com/@trilobitefulness" target="_blank">@trilobitefulness</a>         
+sohail khan live art YouTube <a href="https://youtube.com/@trilobitefulness" target="_blank">@trilobitefulness</a>         
 <hr>         
 **Thomas Daniel Byrne, performed by Aimee Williamson** · *Blast Off!*         
          
