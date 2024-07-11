@@ -18,10 +18,10 @@ season: "Haphazard 27|7|2024, Programme Notes"
 ---
 <small>Updated 11 July 2024</small>         
          
-*[A free afternoon for the curious of all ages on 27 July](/current/2024-haphazard), presented by* Word of Warning *+* Z-arts         
+*[A free afternoon for the curious of all ages on 27 July](/current/2024-haphazard), presented by* Word of Warning *+* Z-arts — *look at some of our [artists' images](/galleries/2024-haphazardpre).*        
          
 #### Artists         
-Chanje&nbsp;Kunda&nbsp;· Chicken&nbsp;Shop&nbsp;Hermits&nbsp;· Chris&nbsp;Sav&nbsp;· Failed&nbsp;Artists&nbsp;Society&nbsp;· Jana&nbsp;Aizupe&nbsp;&&nbsp;Company&nbsp;· perfectly&nbsp;serviceable&nbsp;· Porcelain&nbsp;Delaney&nbsp;· Sohail&nbsp;Khan&nbsp;· Thomas&nbsp;Daniel&nbsp;Byrne&nbsp;&&nbsp;Aimee&nbsp;Williamson<br>Look at some of our [artists' images](/galleries/2024-haphazardpre).<br><small>*Participating artists subject to change.*</small>       
+Chanje&nbsp;Kunda&nbsp;· Chicken&nbsp;Shop&nbsp;Hermits&nbsp;· Chris&nbsp;Sav&nbsp;· Failed&nbsp;Artists&nbsp;Society&nbsp;· Jana&nbsp;Aizupe&nbsp;&&nbsp;Company&nbsp;· perfectly&nbsp;serviceable&nbsp;· Porcelain&nbsp;Delaney&nbsp;· Sohail&nbsp;Khan&nbsp;· Thomas&nbsp;Daniel&nbsp;Byrne&nbsp;&&nbsp;Aimee&nbsp;Williamson<br><small>*Participating artists subject to change.*</small>       
          
 #### Access       
 Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction and/or participation, some works may disturb; any specific warnings will be listed [here](/warnings).<br>Features: Live Art, performance, and participatory works with varied content.
@@ -29,22 +29,48 @@ Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Conte
          
 #### Programme
 <hr>         
- 
+**Chanje Kunda** · *Climate for Healing*         
+Join Chanje to repurpose some of the 350 million tonnes of single-use plastic wasted every year. Wearing it, dancing with it, and creating art with it — Chanje brings focus to the need to ban single-use plastics.         
+         
+A poet, performance artist, and film-maker, Chanje's work explores 21st century life and aims to use art as a tool to transform lives, shift consciousness, and bring joy.         
+        
+<a href="https://chanjekunda.com" target="_blank">chanjekunda.com</a> · Insta <a href="https://instagram.com/chanje.kunda" target="_blank">@chanje.kunda</a> · X <a href="https://x.com/ChanjeKunda" target="_blank">@ChanjeKunda</a>         
+<hr>         
+<a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a> · YT <a href="https://youtube.com/@" target="_blank"></a>
+
+<hr>         
+<a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a> · YT <a href="https://youtube.com/@" target="_blank"></a>
+
+<hr>         
+<a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a> · YT <a href="https://youtube.com/@" target="_blank"></a>
+
+<hr>         
+<a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a> · YT <a href="https://youtube.com/@" target="_blank"></a>
+
+<hr>         
+<a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a> · YT <a href="https://youtube.com/@" target="_blank"></a>
+
 <hr>        
-**Jana Aizupe & ** · *dreaming of you*        
+**Jana Aizupe & Company** · *enchilada*        
         
 Two silver birds glide through our daily world — ethereal, other-worldly, they collect and carry the dreams that humans wish for and might just come true.         
        
 Gi is a theatre designer and improv theatre maker.<br>Jana is a street dancer, performer, and facilitator whose work has been shown by China Plate, Omnibus, Camden People's Theatre.<br>Design Assistant: Dara Hughes          
-         
-<a href="https://instagram.com/1001create" target="_blank">Insta 1001create</a>        
 
+<a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a> · YT <a href="https://youtube.com/@" target="_blank"></a>
+
+<a href="https://instagram.com/1001create" target="_blank">Insta 1001create</a>        
+<hr>         
+
+<a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a> · YT <a href="https://youtube.com/@" target="_blank"></a>
 <hr>         
 **Thomas Daniel Byrne, performed by Aimee Williamson** · *Blast Off!*         
        
 A burger comes to life inside a microwave and tells a tale of dreaming to become an opera singer, unfulfilled… Until now!<br>A 6-minute micro-puppet show for an audience of three — an intimate, lovely, silly experience that can be enjoyed by children and adults of all ages.         
          
 Thomas is a performer, musician, and puppeteer based in Manchester who has worked with Horse + Bamboo, Dizzy O'Dare, Whalley Range All Stars, Handmade Theatre. His style is rooted in play and reconnecting with our sense of childhood fun and adventure.         
+<a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a> · YT <a href="https://youtube.com/@" target="_blank"></a>
+
 TDB https://youtube.com/@ThomasDanielByrne    Aimee Williamson  @aimeelilywilliamson
 <hr>         
 <small><span style='font-variant: small-caps'>[back to top](/current/2024-haphazard/programme)</span></small>
