@@ -63,7 +63,7 @@ Eleanor Webster is a Welsh queer theatre-maker & writer — they love dressing u
 <hr>        
 **Jana Aizupe & Company** · *enchilada*         
          
-Three Enchiladas are here to invite you to the BEST TECHNO PARTY of your life! Get your wigs ready (or make one with us during the afternoon) and join us at 3.30pm for an unforgettable dance.        
+Three Enchiladas are here to invite you to the BEST TECHNO PARTY of your life! Get your wigs ready (or make one with us during the afternoon) and join us at *about* 3.30pm for an unforgettable dance.        
           
 Jana is a working-class theatre artist based in West Midlands, primarily working through devising, movement, and film.         
          
@@ -75,7 +75,7 @@ There's a wizard in the building. They're going to be casting spells all day. DA
          
 Lewys Holt is an interdisciplinary dance artist based in Leeds. They work as a dancer, choreographer, and curator, and have worked with New Art Club, Simone Mousset, Tino Sehgal, Rosemary Lee, Christopher Owen, among others.         
          
-<a href="https://lewysholt.com" target="_blank">lewysholt.com</a> · Insta <a href="https://instagram.com/lewysholt" target="_blank">@lewysholt</a> · Insta <a href="https://instagram.com/perfectly.serviceable" target="_blank">@perfectly.serviceable</a> · X <a href="https://x.com/LewysJBHolt" target="_blank">@LewysJBHolt</a>         
+<a href="https://lewysholt.com" target="_blank">lewysholt.com</a> · Insta <a href="https://instagram.com/lewysholt" target="_blank">@lewysholt</a> <a href="https://instagram.com/perfectly.serviceable" target="_blank">@perfectly.serviceable</a> · X <a href="https://x.com/LewysJBHolt" target="_blank">@LewysJBHolt</a>         
 <hr>         
 **Porcelain Delaney** · *Because I can*         
          
@@ -85,8 +85,13 @@ Porcelain is a disabled theatre-maker & performer. Recently selected to perform 
          
 Fb <a href="https://facebook.com/PorcelainDancer" target="_blank">PorcelainDancer</a> · Insta <a href="https://instagram.com/porcelaindelaneyy" target="_blank">@porcelaindelaneyy</a> · X <a href="https://x.com/PorcelainDel" target="_blank">@PorcelainDel</a>        
 <hr>         
-
-<a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a> · YT <a href="https://youtube.com/@" target="_blank"></a>
+**Sohail Khan** · *'Being Da Da'… Show me Home?         
+         
+Being DaDa is lost… can you help them find what Home means… How do Worlds meet? And how do we get to know the Other when they may not speak any language?         
+         
+Huddersfield-based Sohail makes work around heritage, the impacts of British colonialism & 'Otherness', and has made work for SPILL and National Review Of Live Art.         
+         
+YouTube <a href="https://youtube.com/@trilobitefulness" target="_blank">@trilobitefulness</a>         
 <hr>         
 **Thomas Daniel Byrne, performed by Aimee Williamson** · *Blast Off!*         
        
