@@ -33,23 +33,51 @@ Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Conte
          
 Join Chanje to repurpose some of the 350 million tonnes of single-use plastic wasted every year. Wearing it, dancing with it, and creating art with it — Chanje brings focus to the need to ban single-use plastics.         
          
-Poet, performance artist, writer, and film-maker Chanje's work explores 21st century life and aims to use art as a tool to transform lives, shift consciousness, and bring joy.         
+Poet, performance artist, writer, and film-maker Chanje's work explores 21st century life, and aims to use art as a tool to transform lives, shift consciousness, and bring joy.         
         
 <a href="https://chanjekunda.com" target="_blank">chanjekunda.com</a> · Insta <a href="https://instagram.com/chanje.kunda" target="_blank">@chanje.kunda</a> · X <a href="https://x.com/ChanjeKunda" target="_blank">@ChanjeKunda</a>         
 <hr>         
 **Chicken Shop Hermits** · *My Haunted Dollhouse*         
           
-*What does it look like when memories fade away? …glitter, maybe?* Exploring the meaning of home and family through dollhouses and the ghosts of the memories inhabiting them.         
+*What does it look like when memories fade away? …glitter, maybe?*<br>Exploring the meaning of home and family through dollhouses and the ghosts of the memories inhabiting them.         
          
-Chicken Shop Hermits is a puppetry & experimental theatre collective created by Hector T.J. Huang & Chiara Scoglio. By tackling themes of identity, belonging, and alienation, they combine interests in visual arts, writing, and puppetry theatre with their international origins.         
+Created by Hector T.J. Huang & Chiara Scoglio, Chicken Shop Hermits is a puppetry & experimental theatre collective. By tackling themes of identity, belonging, and alienation, they combine interests in visual arts, writing, and puppetry theatre with their international origins.         
          
-<a href="https://hectortjhuang.wixsite.com/home/projects-7-1" target="_blank">hectortjhuang.wixsite.com</a> · Insta <a href="https://instagram.com/chickenshophermits" target="_blank">@chickenshophermits</a> <a href="https://instagram.com/andramousapolutropon" target="_blank">@andramousapolutropon</a> <a href="https://instagram.com/hector.tj.huang" target="_blank">@hector.tj.huang</a>         
+<a href="https://hectortjhuang.wixsite.com/home" target="_blank">hectortjhuang.wixsite.com/home</a> · Insta <a href="https://instagram.com/chickenshophermits" target="_blank">@chickenshophermits</a> · Chiara Insta <a href="https://instagram.com/andramousapolutropon" target="_blank">@andramousapolutropon</a> · Hector Insta <a href="https://instagram.com/hector.tj.huang" target="_blank">@hector.tj.huang</a>         
 <hr>         
-<a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a> · YT <a href="https://youtube.com/@" target="_blank"></a>
-
+**Chris Sav** · *Action Prawn*         
+          
+Discover the world of *Action Prawn*, the mythical shrimp that defied the odds… Exploring the history of this folkloric crustacean (from humble origins to popular culture) through video, animation, and song, the adventures of *Action Prawn* are brought to life like never before.         
+       
+A visual artist working in illustration, writing, and performance, Chris uses drawing as a tool to create imagined worlds and characters that playfully explore the inherent absurdities of everyday life.         
+         
+<a href="https://chrissavartist.wordpress.com" target="_blank">chrissavartist.wordpress.com</a> · Insta <a href="https://instagram.com/disappointman" target="_blank">@disappointman</a> · X <a href="https://x.com/Disappointman" target="_blank">@Disappointman</a>         
 <hr>         
-<a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a> · YT <a href="https://youtube.com/@" target="_blank"></a>
+***Failed Artists Society***         
+         
+Meet Vincent Van Gosh, Luke Warm and Deadgar Allan Poe — three artists who cannot fathom why they are not succeeding. This is their plea to Z-arts and its patrons to recognise their obvious talents.         
 
+Eleanor Webster is a Welsh queer theatre-maker & writer — they love dressing up as their grandad, epic mythology, and writing gay poetry.<br>Emma Bourke is an emerging theatre-human who loves talking about herself and deconstructing stereotypes through autobiographical comedy.<br>Rose Wilson is a performance artist specialising in quirky, queer, and captivating performances that explore the lives of fascinating characters.         
+         
+eleanorwebster.co.uk
+emmabourketheatre.com
+rosewilsonarts.co.uk
+
+/emmabourketheatre (FAS: Emma Bourke Theatre)
+/profile.php?id=100082773731362 (FAS: Rose Wilson Arts)
+
+  Eleanor Webster  @welsh_webster
+  Emma Bourke Theatre  @emmabourketheatre
+  Rose Wilson Arts  @rosewilsonarts
+
+  Eleanor Webster  @welsh_webster
+  Emma Bourke Theatre  @EBourkeTheatre
+  Rose Wilson Arts  @RoseWilsonArts
+<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a>
+
+<a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a>
+
+<a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a>
 <hr>         
 <a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a> · YT <a href="https://youtube.com/@" target="_blank"></a>
 
