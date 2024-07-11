@@ -59,7 +59,7 @@ Meet Vincent Van Gosh, Luke Warm and Deadgar Allan Poe — three artists who can
 
 Eleanor Webster is a Welsh queer theatre-maker & writer — they love dressing up as their grandad, epic mythology, and writing gay poetry.<br>Emma Bourke is an emerging theatre-human who loves talking about herself and deconstructing stereotypes through autobiographical comedy.<br>Rose Wilson is a performance artist specialising in quirky, queer, and captivating performances that explore the lives of fascinating characters.         
          
-<a href="https://eleanorwebster.co.uk" target="_blank">eleanorwebster.co.uk</a> · Insta <a href="https://instagram.com/welsh_webster" target="_blank">@welsh_webster</a> · X <a href="https://x.com/welsh_webster" target="_blank">@welsh_webster</a><br><a href="https://emmabourketheatre.com" target="_blank">emmabourketheatre.com</a> · Fb <a href="https://facebook.com/emmabourketheatre" target="_blank">Emma Bourke Theatre</a> · Insta <a href="https://instagram.com/emmabourketheatre" target="_blank">@emmabourketheatre</a> · X <a href="https://x.com/EBourkeTheatre" target="_blank">@EBourkeTheatre</a><br><a href="https://rosewilsonarts.co.uk" target="_blank">rosewilsonarts.co.uk</a> · Fb <a href="https://facebook.com/profile.php?id=100082773731362" target="_blank">Rose Wilson Arts</a> · Insta <a href="https://instagram.com/rosewilsonarts" target="_blank">@rosewilsonarts</a> · X <a href="https://x.com/RoseWilsonArts" target="_blank">@RoseWilsonArts</a>         
+<a href="https://eleanorwebster.co.uk" target="_blank">eleanorwebster.co.uk</a> · Insta <a href="https://instagram.com/welsh_webster" target="_blank">@welsh_webster</a> · X <a href="https://x.com/welsh_webster" target="_blank">@welsh_webster</a><br><a href="https://emmabourketheatre.com" target="_blank">emmabourketheatre.com</a> · Fb <a href="https://facebook.com/emmabourketheatre" target="_blank">emmabourketheatre</a> · Insta <a href="https://instagram.com/emmabourketheatre" target="_blank">@emmabourketheatre</a> · X <a href="https://x.com/EBourkeTheatre" target="_blank">@EBourkeTheatre</a><br><a href="https://rosewilsonarts.co.uk" target="_blank">rosewilsonarts.co.uk</a> · Fb <a href="https://facebook.com/profile.php?id=100082773731362" target="_blank">Rose Wilson Arts</a> · Insta <a href="https://instagram.com/rosewilsonarts" target="_blank">@rosewilsonarts</a> · X <a href="https://x.com/RoseWilsonArts" target="_blank">@RoseWilsonArts</a>         
 <hr>        
 **Jana Aizupe & Company** · *enchilada*         
          
@@ -77,7 +77,13 @@ Lewys Holt is an interdisciplinary dance artist based in Leeds. They work as a d
          
 <a href="https://lewysholt.com" target="_blank">lewysholt.com</a> · Insta <a href="https://instagram.com/lewysholt" target="_blank">@lewysholt</a> · Insta <a href="https://instagram.com/perfectly.serviceable" target="_blank">@perfectly.serviceable</a> · X <a href="https://x.com/LewysJBHolt" target="_blank">@LewysJBHolt</a>         
 <hr>         
-<a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a> · YT <a href="https://youtube.com/@" target="_blank"></a>
+**Porcelain Delaney** · *Because I can*         
+         
+Instead of listening to other people's ideas of what she can and can't do, Porcelain performs a fun & acrobatic dance with her Zimmer Frame — simply because she can!         
+       
+Porcelain is a disabled theatre-maker & performer. Recently selected to perform in the Liverpool Dance Prize, she loves creating new work and has previously performed in Dubai & Paris, and written for the BBC.        
+         
+Fb <a href="https://facebook.com/PorcelainDancer" target="_blank">PorcelainDancer</a> · Insta <a href="https://instagram.com/porcelaindelaneyy" target="_blank">@porcelaindelaneyy</a> · X <a href="https://x.com/PorcelainDel" target="_blank">@PorcelainDel</a>        
 <hr>         
 
 <a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a> · YT <a href="https://youtube.com/@" target="_blank"></a>
