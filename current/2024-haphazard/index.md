@@ -15,7 +15,7 @@ season: "Haphazard 27|7|2024"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2024-haphazard/#artists) · [details](/current/2024-haphazard/#details) · [access](/current/2024-haphazard/#access) · [about](/current/2024-haphazard/#about) · [credits](/current/2024-haphazard/#credits) · [websites](/current/2024-haphazard/#websites)</span><br><small>Updated 21 June 2024</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2024-haphazard/#artists) · [details](/current/2024-haphazard/#details) · [access](/current/2024-haphazard/#access) · [about](/current/2024-haphazard/#about) · [credits](/current/2024-haphazard/#credits) · [websites](/current/2024-haphazard/#websites)</span><br><small>Updated 11 July 2024</small>        
         
 *Presented by* Word of Warning *+* Z-arts           
          
@@ -26,7 +26,7 @@ Playful, quirky, engaging, and sometimes plain daft: Haphazard is for kids and t
 A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2024" target="_blank">Z-arts</a> **on Saturday 27 July from 1pm to 4pm**. Turn up at any time, come and go as you please… and expect the unexpected!         
          
 #### Artists         
-Chanje&nbsp;Kunda&nbsp;· Chicken&nbsp;Shop&nbsp;Hermits&nbsp;· Chris&nbsp;Sav&nbsp;· Failed&nbsp;Artists&nbsp;Society&nbsp;· Jana&nbsp;Aizupe&nbsp;&&nbsp;Company&nbsp;· perfectly&nbsp;serviceable&nbsp;· Porcelain&nbsp;Delaney&nbsp;· Sohail&nbsp;Khan&nbsp;· Thomas&nbsp;Byrne&nbsp;&&nbsp;Aimee&nbsp;Williamson<br><small>*Participating artists subject to change.*</small>         
+Chanje&nbsp;Kunda&nbsp;· Chicken&nbsp;Shop&nbsp;Hermits&nbsp;· Chris&nbsp;Sav&nbsp;· Failed&nbsp;Artists&nbsp;Society&nbsp;· Jana&nbsp;Aizupe&nbsp;&&nbsp;Company&nbsp;· perfectly&nbsp;serviceable&nbsp;· Porcelain&nbsp;Delaney&nbsp;· Sohail&nbsp;Khan&nbsp;· Thomas&nbsp;Daniel&nbsp;Byrne&nbsp;&&nbsp;Aimee&nbsp;Williamson<br><small>*Participating artists subject to change.*</small>         
          
 #### Details         
 Entry: FREE, there's no need to book… just turn up!         
