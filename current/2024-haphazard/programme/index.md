@@ -1,14 +1,14 @@
 ---
 # CONFIGURATION
-layout: 2023-haphazard
+layout: 2024-haphazard
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Haphazard 2023"
+artist: "Haphazard 2024"
 show: "Programme Notes"
 artist_size: 1
 show_size: 2
-season: "Haphazard 22|7|2023, Programme Notes"
+season: "Haphazard 27|7|2024, Programme Notes"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -16,13 +16,13 @@ season: "Haphazard 22|7|2023, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 8 February 2024</small>         
+<small>Updated 11 July 2024</small>         
          
-*[A free day out for the curious of all ages](/archive/2023-haphazard) presented by* Word of Warning *+* Z-arts *on Saturday 22 July from Noon to 3pm.*         
+*[A free day out for the curious of all ages](/current/2024-haphazard) presented by* Word of Warning *+* Z-arts *on Saturday 27 July from 1pm to 4pm.*         
          
 #### Artists         
-Gemma Lees · Jana Aizupe & Gi Vasey · Joe Beedles · Julie Burrow · Kitunda Argyle · Krissi Musiol & Amy Vreeke · Luna Ælflæd · Maddie Wakeling & Rowan Szulek · Nicola Smith · Orla Collier & Magdalena Górnikiewicz · Puppetfingers · Thomas Daniel Byrne · Look at some of our [artist's images](/galleries/2023-haphazardpre).<br><small>*Participating artists subject to change; Plaster Cast unable to perform due to change of circumstances.*</small>            
-           
+Chanje&nbsp;Kunda&nbsp;· Chicken&nbsp;Shop&nbsp;Hermits&nbsp;· Chris&nbsp;Sav&nbsp;· Failed&nbsp;Artists&nbsp;Society&nbsp;· Jana&nbsp;Aizupe&nbsp;&&nbsp;Company&nbsp;· perfectly&nbsp;serviceable&nbsp;· Porcelain&nbsp;Delaney&nbsp;· Sohail&nbsp;Khan&nbsp;· Thomas&nbsp;Daniel&nbsp;Byrne&nbsp;&&nbsp;Aimee&nbsp;Williamson<br>Look at some of our [artists' images](/galleries/2024-haphazardpre).<br><small>*Participating artists subject to change.*</small>       
+         
 #### Programme Notes       
 *NB* features Live Art, performance, and participatory works with varied content in different spaces and formats i.e. seated, standing, spoken word, visual.<br>With multiple spaces, and some works having a short duration and/or repeating, you may not get a chance to see everything. See [Content Warnings](/warnings).           
 <hr>         
@@ -133,10 +133,11 @@ Puppetfingers is Amy Hegarty, an Irish artist based in Manchester. She is equall
 <a href="https://puppetfingers.com" target="_blank">puppetfingers.com</a> · <a href="https://instagram.com/puppetfingers" target="_blank">Insta puppetfingers</a> · <a href="https://instagram.com/a.whthd" target="_blank">Insta a.whthd</a>         
          
 <hr>         
-**Thomas Daniel Byrne · *Burger***         
+**Thomas Daniel Byrne, performed by Aimee Williamson · *Blast Off!***         
        
 A burger comes to life inside a microwave and tells a tale of dreaming to become an opera singer, unfulfilled… Until now!<br>A 6-minute micro-puppet show for an audience of three — an intimate, lovely, silly experience that can be enjoyed by children and adults of all ages.         
          
 Thomas is a performer, musician, and puppeteer based in Manchester who has worked with Horse + Bamboo, Dizzy O'Dare, Whalley Range All Stars, Handmade Theatre. His style is rooted in play and reconnecting with our sense of childhood fun and adventure.         
+TDB https://youtube.com/@ThomasDanielByrne    Aimee Williamson  @aimeelilywilliamson
 <hr>         
-<small><span style='font-variant: small-caps'>[back to top](/archive/2023-haphazard/programme)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/current/2024-haphazard/programme)</span></small>
