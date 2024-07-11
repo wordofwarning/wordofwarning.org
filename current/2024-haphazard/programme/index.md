@@ -85,21 +85,20 @@ Porcelain is a disabled theatre-maker & performer. Recently selected to perform 
          
 Fb <a href="https://facebook.com/PorcelainDancer" target="_blank">PorcelainDancer</a> · Insta <a href="https://instagram.com/porcelaindelaneyy" target="_blank">@porcelaindelaneyy</a> · X <a href="https://x.com/PorcelainDel" target="_blank">@PorcelainDel</a>        
 <hr>         
-**Sohail Khan** · *'Being Da Da'… Show me Home?         
+**Sohail Khan** · *'Being Da Da'… Show me Home?*         
          
-Being DaDa is lost… can you help them find what Home means… How do Worlds meet? And how do we get to know the Other when they may not speak any language?         
+*Being DaDa is lost… can you help Them find what Home means…*<br>How do Worlds meet? And how do we get to know the Other when they may not speak any language?         
          
 Huddersfield-based Sohail makes work around heritage, the impacts of British colonialism & 'Otherness', and has made work for SPILL and National Review Of Live Art.         
          
 YouTube <a href="https://youtube.com/@trilobitefulness" target="_blank">@trilobitefulness</a>         
 <hr>         
 **Thomas Daniel Byrne, performed by Aimee Williamson** · *Blast Off!*         
-       
-A burger comes to life inside a microwave and tells a tale of dreaming to become an opera singer, unfulfilled… Until now!<br>A 6-minute micro-puppet show for an audience of three — an intimate, lovely, silly experience that can be enjoyed by children and adults of all ages.         
          
-Thomas is a performer, musician, and puppeteer based in Manchester who has worked with Horse + Bamboo, Dizzy O'Dare, Whalley Range All Stars, Handmade Theatre. His style is rooted in play and reconnecting with our sense of childhood fun and adventure.         
-<a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a> · YT <a href="https://youtube.com/@" target="_blank"></a>
-
-TDB https://youtube.com/@ThomasDanielByrne    Aimee Williamson  @aimeelilywilliamson
+A story of space travel, football, and friendship told through a beautifully illustrated ‘crankie’ scroll. A walkabout performance for two at a time — pop on some headphones and be transported…         
+         
+Thomas is a Manchester-based performer, musician, and puppeteer, Aimee is a Lancashire-based dance artist who loves folklore; together they make work for young people that is kind, highly visual, and immersive.        
+         
+Thomas YouTube <a href="https://youtube.com/@ThomasDanielByrne" target="_blank">@ThomasDanielByrne</a> · Aimee Insta <a href="https://instagram.com/aimeelilywilliamson" target="_blank">@aimeelilywilliamson</a>         
 <hr>         
 <small><span style='font-variant: small-caps'>[back to top](/current/2024-haphazard/programme)</span></small>
