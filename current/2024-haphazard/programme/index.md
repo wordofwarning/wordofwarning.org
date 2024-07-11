@@ -30,14 +30,20 @@ Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Conte
 #### Programme
 <hr>         
 **Chanje Kunda** · *Climate for Healing*         
+         
 Join Chanje to repurpose some of the 350 million tonnes of single-use plastic wasted every year. Wearing it, dancing with it, and creating art with it — Chanje brings focus to the need to ban single-use plastics.         
          
-A poet, performance artist, and film-maker, Chanje's work explores 21st century life and aims to use art as a tool to transform lives, shift consciousness, and bring joy.         
+Poet, performance artist, writer, and film-maker Chanje's work explores 21st century life and aims to use art as a tool to transform lives, shift consciousness, and bring joy.         
         
 <a href="https://chanjekunda.com" target="_blank">chanjekunda.com</a> · Insta <a href="https://instagram.com/chanje.kunda" target="_blank">@chanje.kunda</a> · X <a href="https://x.com/ChanjeKunda" target="_blank">@ChanjeKunda</a>         
 <hr>         
-<a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a> · YT <a href="https://youtube.com/@" target="_blank"></a>
-
+**Chicken Shop Hermits** · *My Haunted Dollhouse*         
+          
+*What does it look like when memories fade away? …glitter, maybe?* Exploring the meaning of home and family through dollhouses and the ghosts of the memories inhabiting them.         
+         
+Chicken Shop Hermits is a puppetry & experimental theatre collective created by Hector T.J. Huang & Chiara Scoglio. By tackling themes of identity, belonging, and alienation, they combine interests in visual arts, writing, and puppetry theatre with their international origins.         
+         
+<a href="https://hectortjhuang.wixsite.com/home/projects-7-1" target="_blank">hectortjhuang.wixsite.com</a> · Insta <a href="https://instagram.com/chickenshophermits" target="_blank">@chickenshophermits</a> <a href="https://instagram.com/andramousapolutropon" target="_blank">@andramousapolutropon</a> <a href="https://instagram.com/hector.tj.huang" target="_blank">@hector.tj.huang</a>         
 <hr>         
 <a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a> · YT <a href="https://youtube.com/@" target="_blank"></a>
 
