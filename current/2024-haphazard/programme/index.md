@@ -7,7 +7,7 @@ rootpath: "../../../"
 artist: "Haphazard 2024"
 show: "Programme Notes"
 artist_size: 1
-show_size: 2
+show_size: 4
 season: "Haphazard 27|7|2024, Programme Notes"
 
 # ABOUT THE SHOW - LAYOUT
@@ -18,13 +18,16 @@ season: "Haphazard 27|7|2024, Programme Notes"
 ---
 <small>Updated 11 July 2024</small>         
          
-*[A free day out for the curious of all ages](/current/2024-haphazard) presented by* Word of Warning *+* Z-arts *on Saturday 27 July from 1pm to 4pm.*         
+*[A free afternoon for the curious of all ages on 27 July](/current/2024-haphazard), presented by* Word of Warning *+* Z-arts         
          
 #### Artists         
 Chanje&nbsp;Kunda&nbsp;· Chicken&nbsp;Shop&nbsp;Hermits&nbsp;· Chris&nbsp;Sav&nbsp;· Failed&nbsp;Artists&nbsp;Society&nbsp;· Jana&nbsp;Aizupe&nbsp;&&nbsp;Company&nbsp;· perfectly&nbsp;serviceable&nbsp;· Porcelain&nbsp;Delaney&nbsp;· Sohail&nbsp;Khan&nbsp;· Thomas&nbsp;Daniel&nbsp;Byrne&nbsp;&&nbsp;Aimee&nbsp;Williamson<br>Look at some of our [artists' images](/galleries/2024-haphazardpre).<br><small>*Participating artists subject to change.*</small>       
          
-#### Programme Notes       
-*NB* features Live Art, performance, and participatory works with varied content in different spaces and formats i.e. seated, standing, spoken word, visual.<br>With multiple spaces, and some works having a short duration and/or repeating, you may not get a chance to see everything. See [Content Warnings](/warnings).           
+#### Access       
+Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction and/or participation, some works may disturb; any specific warnings will be listed [here](/warnings).<br>Features: Live Art, performance, and participatory works with varied content.
+<br>*NB* with artists located in multiple spaces, and some works having a short duration and/or repeating, you may not get a chance to see everything.<br>*NB* takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some participatory.<br>Queries: please contact <a href="https://z-arts.org/home/your-visit-to-z-arts/access" target="_blank">Z-arts</a>, 0161 226 1912 or <mailto:boxoffice@z-arts.org>        
+         
+#### Programme
 <hr>         
 **Gemma Lees · *Making Sense***        
         
