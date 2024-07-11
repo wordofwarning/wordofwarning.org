@@ -59,41 +59,25 @@ Meet Vincent Van Gosh, Luke Warm and Deadgar Allan Poe — three artists who can
 
 Eleanor Webster is a Welsh queer theatre-maker & writer — they love dressing up as their grandad, epic mythology, and writing gay poetry.<br>Emma Bourke is an emerging theatre-human who loves talking about herself and deconstructing stereotypes through autobiographical comedy.<br>Rose Wilson is a performance artist specialising in quirky, queer, and captivating performances that explore the lives of fascinating characters.         
          
-eleanorwebster.co.uk
-emmabourketheatre.com
-rosewilsonarts.co.uk
-
-/emmabourketheatre (FAS: Emma Bourke Theatre)
-/profile.php?id=100082773731362 (FAS: Rose Wilson Arts)
-
-  Eleanor Webster  @welsh_webster
-  Emma Bourke Theatre  @emmabourketheatre
-  Rose Wilson Arts  @rosewilsonarts
-
-  Eleanor Webster  @welsh_webster
-  Emma Bourke Theatre  @EBourkeTheatre
-  Rose Wilson Arts  @RoseWilsonArts
-<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a>
-
-<a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a>
-
-<a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a>
-<hr>         
-<a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a> · YT <a href="https://youtube.com/@" target="_blank"></a>
-
-<hr>         
-<a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a> · YT <a href="https://youtube.com/@" target="_blank"></a>
-
+<a href="https://eleanorwebster.co.uk" target="_blank">eleanorwebster.co.uk</a> · Insta <a href="https://instagram.com/welsh_webster" target="_blank">@welsh_webster</a> · X <a href="https://x.com/welsh_webster" target="_blank">@welsh_webster</a><br><a href="https://emmabourketheatre.com" target="_blank">emmabourketheatre.com</a> · Fb <a href="https://facebook.com/emmabourketheatre" target="_blank">Emma Bourke Theatre</a> · Insta <a href="https://instagram.com/emmabourketheatre" target="_blank">@emmabourketheatre</a> · X <a href="https://x.com/EBourkeTheatre" target="_blank">@EBourkeTheatre</a><br><a href="https://rosewilsonarts.co.uk" target="_blank">rosewilsonarts.co.uk</a> · Fb <a href="https://facebook.com/profile.php?id=100082773731362" target="_blank">Rose Wilson Arts</a> · Insta <a href="https://instagram.com/rosewilsonarts" target="_blank">@rosewilsonarts</a> · X <a href="https://x.com/RoseWilsonArts" target="_blank">@RoseWilsonArts</a>         
 <hr>        
-**Jana Aizupe & Company** · *enchilada*        
-        
-Two silver birds glide through our daily world — ethereal, other-worldly, they collect and carry the dreams that humans wish for and might just come true.         
-       
-Gi is a theatre designer and improv theatre maker.<br>Jana is a street dancer, performer, and facilitator whose work has been shown by China Plate, Omnibus, Camden People's Theatre.<br>Design Assistant: Dara Hughes          
-
+**Jana Aizupe & Company** · *enchilada*         
+         
+Three Enchiladas are here to invite you to the BEST TECHNO PARTY of your life! Get your wigs ready (or make one with us during the afternoon) and join us at 3.30pm for an unforgettable dance.        
+          
+Jana is a working-class theatre artist based in West Midlands, primarily working through devising, movement, and film.         
+         
+Insta <a href="https://instagram.com/1001create" target="_blank">@1001create</a>         
+<hr>         
+**perfectly serviceable** · *Dancing Wizard*         
+         
+There's a wizard in the building. They're going to be casting spells all day. DANCE SPELLS!<br>See if you can find them, wiggling around and doing a magical hop. Are they trying to conjure something or someone? Are they turning grown-ups into frogs? Ask them to cast a spell or join in with the moves.         
+         
+Lewys Holt is an interdisciplinary dance artist based in Leeds. They work as a dancer, choreographer, and curator, and have worked with New Art Club, Simone Mousset, Tino Sehgal, Rosemary Lee, Christopher Owen, among others.         
+         
+<a href="https://lewysholt.com" target="_blank">lewysholt.com</a> · Insta <a href="https://instagram.com/lewysholt" target="_blank">@lewysholt</a> · Insta <a href="https://instagram.com/perfectly.serviceable" target="_blank">@perfectly.serviceable</a> · X <a href="https://x.com/LewysJBHolt" target="_blank">@LewysJBHolt</a>         
+<hr>         
 <a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a> · YT <a href="https://youtube.com/@" target="_blank"></a>
-
-<a href="https://instagram.com/1001create" target="_blank">Insta 1001create</a>        
 <hr>         
 
 <a href="https://" target="_blank"></a> · Fb <a href="https://facebook.com/" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> · X <a href="https://x.com/" target="_blank">@</a> · YT <a href="https://youtube.com/@" target="_blank"></a>
