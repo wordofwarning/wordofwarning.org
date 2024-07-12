@@ -31,7 +31,7 @@ Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Conte
 <hr>         
 **Chanje Kunda** · *Climate for Healing*         
          
-Join Chanje to repurpose some of the 350 million tonnes of single-use plastic wasted every year. Wearing it, dancing with it, and creating art with it — Chanje brings focus to the need to ban single-use plastics.         
+Join Chanje to repurpose some of the 350 million tonnes of single-use plastic waste created every year. Wearing it, dancing with it, and creating art with it — Chanje brings focus to the need to ban single-use plastics.         
          
 Poet, performance artist, writer, and film-maker Chanje's work explores 21st century life, and aims to use art as a tool to transform lives, shift consciousness, and bring joy.         
         
