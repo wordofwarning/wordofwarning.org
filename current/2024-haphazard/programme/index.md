@@ -100,5 +100,6 @@ A story of space travel, football, and friendship told through a beautifully ill
 Thomas is a Manchester-based performer, musician, and puppeteer, Aimee is a Lancashire-based dance artist who loves folklore; together they make work for young people that is kind, highly visual, and immersive.        
          
 Thomas YouTube <a href="https://youtube.com/@ThomasDanielByrne" target="_blank">@ThomasDanielByrne</a> · Aimee Insta <a href="https://instagram.com/aimeelilywilliamson" target="_blank">@aimeelilywilliamson</a>         
-<hr>         
+<hr>          
+[Haphazard](/hab/haphazard) [2024](/current/2024-haphazard) produced by [hÅb](/hab) with <a href="https://z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England, and by Manchester City Council and Greater Manchester Combined Authority.<br>Image: Puppetfingers at [Haphazard 2023](/archive/2023-haphazard)         
 <small><span style='font-variant: small-caps'>[back to top](/current/2024-haphazard/programme)</span></small>
