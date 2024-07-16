@@ -16,7 +16,7 @@ season: "Haphazard 27|7|2024, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 11 July 2024</small>         
+<small>Updated 16 July 2024</small>         
          
 *[A free afternoon for the curious of all ages on 27 July](/current/2024-haphazard), presented by* Word of Warning *+* Z-arts — *look at some of our [artists' images](/galleries/2024-haphazardpre).*        
          
@@ -87,7 +87,7 @@ Fb <a href="https://facebook.com/PorcelainDancer" target="_blank">PorcelainDance
 <hr>         
 **Sohail Khan** · *'Being Da Da'… Show me Home?*         
          
-*Being DaDa is lost… can you help Them find what Home means…*<br>How do Worlds meet? And how do we get to know the Other when they may not speak any language?         
+*Being Da Da is lost… can you help Them find what Home means…*<br>How do Worlds meet? And how do we get to know the Other when they may not speak any language?         
          
 Huddersfield-based Sohail makes work around heritage, the impacts of British colonialism, and 'Otherness', and has made work for SPILL and National Review Of Live Art.         
          
