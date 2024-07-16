@@ -16,16 +16,16 @@ season: "Haphazard by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---         
-<small>Updated 21 June 2024</small>        
+<small>Updated 16 July 2024</small>        
         
 **Haphazard** is our frequent foray into 'all ages' Live Art, with intriguing images and offbeat oddities dotted around and about Hulme's historic <a href="https://z-arts.org/about-us" target="_blank">Z-arts</a> building.        
          
 Playful, quirky, engaging, and sometimes plain daft: this is Live Art for kids and their adults, adults and *their* adults — anyone looking for a different day out!            
          
-[Haphazard 2024](/current/2024-haphazard) is our seventh free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2024" target="_blank">Z-arts</a>, presenting nine works on **Saturday 27 July, 1pm-4pm** — turn up at any time, come and go as you please… and expect the unexpected!         
+[Haphazard 2024](/current/2024-haphazard) is our seventh free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2024" target="_blank">Z-arts</a>, presenting nine works on **Saturday 27 July, from 1pm to 4pm** — turn up at any time, come and go as you please… and expect the unexpected!         
          
-Get a feel for it with [2023's programme](/archive/2023-haphazard/programme) and [gallery of images](/galleries/2023-haphazard).        
-        
+Get a feel for it with some of our [artists' images](/galleries/2024-haphazardpre) & read their [programme notes](/current/2024-haphazard/programme).        
+          
 #### Haphazard 2024 Call for Proposals has Closed        
 Artists <a href="https://haphazard.posthaven.com/haphazard-2024-live-art-for-all-ages-manchester-call-for-artists" target="_blank">were invited to submit proposals</a> for inclusion in this event:<br>this is not Live Art for children, but Live Art for ALL AGES — and we mean from tot to timeworn, 8 months to 80 years — so work should have appeal for adults and children alike (even if the kids need to explain it to the adults!)          
           
