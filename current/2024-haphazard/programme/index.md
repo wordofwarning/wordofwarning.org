@@ -53,7 +53,7 @@ A visual artist working in illustration, writing, and performance, Chris uses dr
          
 <a href="https://chrissavartist.wordpress.com" target="_blank">chrissavartist.wordpress.com</a> · Insta <a href="https://instagram.com/disappointman" target="_blank">@disappointman</a> · X <a href="https://x.com/Disappointman" target="_blank">@Disappointman</a>         
 <hr>         
-***Failed Artists Society***         
+**Failed Artists Society**         
          
 Meet Vincent Van Gosh, Luke Warm and Deadgar Allan Poe — three artists who cannot fathom why they are not succeeding. This is their plea to Z-arts and its patrons to recognise their obvious talents.         
 
@@ -63,7 +63,7 @@ Eleanor Webster is a Welsh queer theatre-maker & writer — they love dressing u
 <hr>        
 **Jana Aizupe & Company** · *enchilada*         
          
-Three Enchiladas are here to invite you to the BEST TECHNO PARTY of your life! Get your wigs ready (or make one with us during the afternoon) and join us at *about 3.30pm* for an unforgettable dance.        
+Three Enchiladas are here to invite you to the BEST TECHNO PARTY of your life! Get your wigs ready (or make one with us during the afternoon) and join us *about 3.30pm* for an unforgettable dance in the Theatre.        
           
 Jana is a working-class theatre artist based in West Midlands, primarily working through devising, movement, and film.         
          
