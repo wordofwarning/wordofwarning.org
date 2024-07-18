@@ -15,7 +15,7 @@ season: "Haphazard 27|7|2024"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2024-haphazard/#artists) · [details](/current/2024-haphazard/#details) · [access](/current/2024-haphazard/#access) · [about](/current/2024-haphazard/#about) · [credits](/current/2024-haphazard/#credits) · [websites](/current/2024-haphazard/#websites)</span><br><small>Updated 16 July 2024</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2024-haphazard/#artists) · [details](/current/2024-haphazard/#details) · [access](/current/2024-haphazard/#access) · [about](/current/2024-haphazard/#about) · [credits](/current/2024-haphazard/#credits) · [websites](/current/2024-haphazard/#websites)</span><br><small>Updated 18 July 2024</small>        
         
 *Presented by* Word of Warning *+* Z-arts           
          
@@ -31,12 +31,16 @@ Chanje&nbsp;Kunda&nbsp;· Chicken&nbsp;Shop&nbsp;Hermits&nbsp;· Chris&nbsp;Sav&
 #### Details         
 Entry: FREE, there's no need to book… just turn up!         
          
-Times: Saturday 27 July 2024, from 1pm to 4pm (turn up at any time).<br>*NB* with artists located in multiple spaces, and some works having a short duration and/or repeating, you may not get a chance to see everything.          
+Times: Saturday 27 July 2024, from 1pm to 4pm (turn up at any time).<br>*NB* artists will be taking breaks on an ad hoc basis and some works have a short duration — although some works repeat you may not get a chance to see everything.          
           
 Location: <a href="https://z-arts.org/home/your-visit-to-z-arts/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
          
 #### Access         
-Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction and/or participation, some works may disturb; any specific warnings will be listed [here](/warnings).<br>Features: Live Art, performance, and participatory works with varied content.<br>*NB* takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some participatory.<br>Queries: please contact <a href="https://z-arts.org/home/your-visit-to-z-arts/access" target="_blank">Z-arts</a> via 0161 226 1912 or <mailto:boxoffice@z-arts.org>        
+Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction and/or participation; any specific warnings will be listed [here](/warnings).         
+         
+Features: nine Live Art, contemporary performance, and participatory works with varied content. *NB* multiple spaces are in use and works are varied in format — some roaming, some seated, some standing, some spoken word, some visual, some participatory.         
+         
+Queries: please contact <a href="https://z-arts.org/home/your-visit-to-z-arts/access" target="_blank">Z-arts</a> via 0161 226 1912 or <mailto:boxoffice@z-arts.org>        
          
 #### About         
 [Haphazard](/hab/haphazard) is our frequent foray into 'all ages' Live Art, with intriguing images and offbeat oddities dotted around and about Hulme's historic <a href="https://www.z-arts.org/about-us" target="_blank">Z-arts</a> building.         
