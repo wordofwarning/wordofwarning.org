@@ -16,7 +16,7 @@ season: "Haphazard 27|7|2024, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 16 July 2024</small>         
+<small>Updated 18 July 2024</small>         
          
 *[A free afternoon for the curious of all ages on 27 July](/current/2024-haphazard), presented by* Word of Warning *+* Z-arts — *look at some of our [artists' images](/galleries/2024-haphazardpre).*        
          
@@ -24,8 +24,15 @@ season: "Haphazard 27|7|2024, Programme Notes"
 Chanje&nbsp;Kunda&nbsp;· Chicken&nbsp;Shop&nbsp;Hermits&nbsp;· Chris&nbsp;Sav&nbsp;· Failed&nbsp;Artists&nbsp;Society&nbsp;· Jana&nbsp;Aizupe&nbsp;&&nbsp;Company&nbsp;· perfectly&nbsp;serviceable&nbsp;· Porcelain&nbsp;Delaney&nbsp;· Sohail&nbsp;Khan&nbsp;· Thomas&nbsp;Daniel&nbsp;Byrne&nbsp;&&nbsp;Aimee&nbsp;Williamson<br><small>*Participating artists subject to change.*</small>       
          
 #### Access       
-Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction and/or participation, some works may disturb; any specific warnings will be listed [here](/warnings).<br>Features: Live Art, performance, and participatory works with varied content.
-<br>*NB* with artists located in multiple spaces, and some works having a short duration and/or repeating, you may not get a chance to see everything.<br>*NB* takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual, some participatory.<br>Queries: please contact <a href="https://z-arts.org/home/your-visit-to-z-arts/access" target="_blank">Z-arts</a> via 0161 226 1912 or <mailto:boxoffice@z-arts.org>        
+Age Advisory: suitable for all ages (parent/guardian/carer discretion).         
+         
+Content Warnings: some works involve interaction and/or participation; any specific warnings will be listed [here](/warnings).         
+         
+Features: nine Live Art, contemporary performance, and participatory works with varied content.         
+         
+*NB* artists will take breaks on an ad hoc basis and some works have a short duration — although some works repeat you may not get a chance to see everything. Multiple spaces are in use and works are varied in format — some roaming, some seated, some standing, some spoken word, some visual, some participatory.         
+       
+Queries: please contact <a href="https://z-arts.org/home/your-visit-to-z-arts/access" target="_blank">Z-arts</a> via 0161 226 1912 or <mailto:boxoffice@z-arts.org>        
          
 #### Programme
 <hr>         
@@ -85,9 +92,9 @@ Porcelain is a disabled theatre-maker & performer. Recently selected to perform 
          
 Fb <a href="https://facebook.com/PorcelainDancer" target="_blank">PorcelainDancer</a> · Insta <a href="https://instagram.com/porcelaindelaneyy" target="_blank">@porcelaindelaneyy</a> · X <a href="https://x.com/PorcelainDel" target="_blank">@PorcelainDel</a>        
 <hr>         
-**Sohail Khan** · *'Being Da Da'… Show me Home?*         
+**Sohail Khan** · *'Being DaDa'… Show me Home?*         
          
-*Being Da Da is lost… can you help Them find what Home means…*<br>How do Worlds meet? And how do we get to know the Other when they may not speak any language?         
+*Being DaDa is lost… can you help Them find what Home means…*<br>How do Worlds meet? And how do we get to know the Other when they may not speak any language?         
          
 Huddersfield-based Sohail makes work around heritage, the impacts of British colonialism, and 'Otherness', and has made work for SPILL and National Review Of Live Art.         
          
