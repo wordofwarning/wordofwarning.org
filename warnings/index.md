@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 18 July 2024<small>        
+<small>Updated 29 July 2024<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>(Please click [here](/archive/warnings) for *past* events and *archived* livestreams on our YouTube channel.)         
          
@@ -20,5 +20,5 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 <hr>         
 #### 2024         
         
-##### [27 Jul. Z-arts | Haphazard 2024](/current/2024-haphazard)          
-Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction and/or participation; currently, no specific warnings have been given to us by any of the participating artists.
+##### 28 Sep. Contact | Emergency 24          
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works will involve interaction and/or participation; specific warnings to follow in late-August or early-September once the participating artists have been selected.
