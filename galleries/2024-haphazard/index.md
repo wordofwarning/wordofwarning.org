@@ -26,8 +26,8 @@ gallery:
     -   {file: "tombyrne2.jpg", artist: "Thomas Byrne & Aimee Williamson"}
     -   {file: "perfectlyserviceable1.jpg", artist: "perfectly serviceable"}
     -   {file: "perfectlyserviceable2.jpg", artist: "perfectly serviceable"}
-    -   {file: "sohail1.jpg", artist: "Sohail Khan"}
-    -   {file: "sohail2.jpg", artist: "Sohail Khan"}
+    -   {file: "sohailkhan1.jpg", artist: "Sohail Khan"}
+    -   {file: "sohailkhan2.jpg", artist: "Sohail Khan"}
     -   {file: "jana1.jpg", artist: "Jana Aizupe & Company"}
     -   {file: "jana2.jpg", artist: "Jana Aizupe & Company"}
 ---
