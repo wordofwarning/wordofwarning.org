@@ -5,7 +5,7 @@ layout: archive
 season: "Galleries"
 
 archived:
-    - {folder: "2024-haphazard", name: "Haphazard 2024", class: "h2023"}
+    - {folder: "2024-haphazard", name: "Haphazard 2024", class: "h2024"}
     - {folder: "2024-woah", name: "Works Ahead: Radiator (2024)", class: "w2022"} 
     - {folder: "2024-turn", name: "Turn 2024", class: "t2024"} 
     - {folder: "2023-emergency", name: "Emergency 23", class: "e2021"}
@@ -59,4 +59,4 @@ archived:
 ---
 
 # Galleries     
-Look at images from our previous events…&ensp;<small>Updated 24 June 2024<small>
+Look at images from our previous events…&ensp;<small>Updated 30 July 2024<small>
