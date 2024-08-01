@@ -15,13 +15,13 @@ season: "Haphazard 27|7|2024"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2024-haphazard/#artists) · [details](/current/2024-haphazard/#details) · [access](/current/2024-haphazard/#access) · [about](/current/2024-haphazard/#about) · [credits](/current/2024-haphazard/#credits) · [websites](/current/2024-haphazard/#websites)</span><br><small>Updated 18 July 2024</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2024-haphazard/#artists) · [details](/current/2024-haphazard/#details) · [access](/current/2024-haphazard/#access) · [about](/current/2024-haphazard/#about) · [credits](/current/2024-haphazard/#credits) · [websites](/current/2024-haphazard/#websites)</span><br><small>Updated 1 August 2024</small>        
         
 *Presented by* Word of Warning *+* Z-arts           
          
 Playful, quirky, engaging, and sometimes plain daft: Haphazard is for kids and their adults, adults and *their* adults — anyone looking for a different day out!         
          
-Look at some of our [artists' images](/galleries/2024-haphazardpre) & read their [programme notes](/current/2024-haphazard/programme).          
+Look at some of our [artists' images](/galleries/2024-haphazardpre) & read their [programme notes](/current/2024-haphazard/programme) — and now it's over, see [images from the event](/galleries/2024-haphazard).         
           
 A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2024" target="_blank">Z-arts</a> **on Saturday 27 July from 1pm to 4pm**. Turn up at any time, come and go as you please… and expect the unexpected!         
          
