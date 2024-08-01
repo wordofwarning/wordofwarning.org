@@ -22,8 +22,8 @@ gallery:
     -   {file: "chickenshop2.jpg", artist: "Chicken Shop Hermits"}
     -   {file: "chrissav1.jpg", artist: "Chris Sav"}
     -   {file: "chrissav2.jpg", artist: "Chris Sav"}
-    -   {file: "tombyrne1.jpg", artist: "Thomas Byrne & Aimee Williamson"}
-    -   {file: "tombyrne2.jpg", artist: "Thomas Byrne & Aimee Williamson"}
+    -   {file: "tombyrne1.jpg", artist: "Thomas Daniel Byrne & Aimee Williamson"}
+    -   {file: "tombyrne2.jpg", artist: "Thomas Daniel Byrne & Aimee Williamson"}
     -   {file: "perfectlyserviceable1.jpg", artist: "perfectly serviceable"}
     -   {file: "perfectlyserviceable2.jpg", artist: "perfectly serviceable"}
     -   {file: "sohailkhan1.jpg", artist: "Sohail Khan"}
