@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 29 July 2024<small>        
+<small>Updated 7 August 2024<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>(Please click [here](/archive/warnings) for *past* events and *archived* livestreams on our YouTube channel.)         
          
@@ -20,5 +20,5 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 <hr>         
 #### 2024         
         
-##### 28 Sep. Contact | Emergency 24          
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works will involve interaction and/or participation; specific warnings to follow in late-August or early-September once the participating artists have been selected.
+##### [28 Sep. Contact | Emergency 24](/current/2024-emergency)          
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works will involve interaction and/or participation; specific warnings will be listed here from late-August after the participating artists have been selected.
