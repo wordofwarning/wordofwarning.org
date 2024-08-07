@@ -16,11 +16,11 @@ season: "Emergency by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 3 August 2024</small>        
+<small>Updated 7 August 2024</small>        
         
 **Emergency** is our annual platform for Live Art and contemporary performance — offering a sneak preview of new live work over a single day in Manchester every autumn and now resident at <a href="https://contactmcr.com" target="_blank">Contact</a>, its seventh home.        
          
-Manchester's 24th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 28 September 2024 (*tbc* Noon-10pm)**.          
+[Manchester's 24th micro-marathon of the bizarre, the bold, and the beautiful](/current/2024-emergency) takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 28 September 2024, *tbc* Noon-10pm**.          
          
 Get a feel for it with [2023's programme](/archive/2023-emergency/#artists) and [gallery of images](/galleries/2023-emergency).        
          
@@ -28,7 +28,7 @@ Manchester's annual Live Art & performance platform, Emergency aims to be:<br>�
         
 We usually expect to present *about* 20-25 short works throughout the building — so if you would like to take part in what is *probably* England's longest-running Live Art event, please check back for our next open call in June 2025.        
          
-Emergency 24 presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
+**[Emergency 24](/current/2024-emergency)** presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
         
 Enquiries: <mailto:emergency@habmcr.org> · <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a>         
          
