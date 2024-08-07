@@ -29,7 +29,7 @@ Manchester's 24th micro-marathon of the bizarre, the bold, and the beautiful tak
 #### Details         
 Entry: no need to book, just turn up and Pay What You Decide by cash or card.         
           
-Times: Saturday 28 September 2024, *tbc* Noon-10pm (*last show starts ~9.30pm*)<br>*NB* some artists will take breaks on an ad hoc basis, some works will have a short duration, some will have limited capacity on a first-come first-served basis, and some may repeat — so you may not get a chance to see everything.         
+Times: Saturday 28 September 2024, *tbc* from Noon to 10pm.<br>*NB* some artists will take breaks on an ad hoc basis, some works will have a short duration, some will have limited capacity on a first-come first-served basis, and some may repeat — so you may not get a chance to see everything.         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA         
         
@@ -40,7 +40,7 @@ Content Warnings: some works will involve interaction and/or participation; any 
           
 Features: Live Art and contemporary performance works with varied content.<br>*NB* works will occur in multiple spaces throughout the building and will vary in format — some roaming, some seated, some standing, some spoken word, some visual, some participatory.         
          
-Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>, 0161 274 0600 or <mailto:BoxOffice@contactmcr.com>        
+Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via 0161 274 0600/<mailto:boxoffice@contactmcr.com>        
          
 #### About         
 Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day in Manchester every autumn — this 24th edition will present *about* 20-25 short works from lunchtime till late throughout <a href="https://contactmcr.com" target="_blank">Contact</a>'s building and its multiple spaces.       
