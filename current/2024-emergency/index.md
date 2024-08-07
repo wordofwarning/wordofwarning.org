@@ -17,7 +17,7 @@ season: "Emergency 28|9|2024"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/archive/2023-emergency/#artists) · [details](/archive/2023-emergency/#details) · [access](/archive/2023-emergency/#access) · [about](/archive/2023-emergency/#about) · [credits](/archive/2023-emergency/#credits) · [websites](/archive/2023-emergency/#websites)</span><br><small>Updated 29 February 2024</small>     
+<span style='font-variant: small-caps'>→ [artists](/current/2024-emergency/#artists) · [details](/current/2024-emergency/#details) · [access](/current/2024-emergency/#access) · [about](/current/2024-emergency/#about) · [credits](/current/2024-emergency/#credits) · [websites](/current/2024-emergency/#websites)</span><br><small>Updated 7 August 2024</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
@@ -29,13 +29,13 @@ Manchester's 24th micro-marathon of the bizarre, the bold, and the beautiful tak
 #### Details         
 Entry: no need to book, just turn up and Pay What You Decide by cash or card.         
           
-Times: Saturday 30 September 2023, Noon-10pm (*last show starts ~9.30pm*).<br>Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>*NB* with artists located in multiple spaces, and some works having a short duration and/or limited capacity on a first-come first-served basis, you may not get a chance to see everything.          
+Times: Saturday 28 September 2024, *tbc* from Noon to 10pm (*last show starts ~9.30pm*).<br>Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA<br>*NB* with artists located in multiple spaces, and some works having a short duration and/or limited capacity on a first-come first-served basis, you may not get a chance to see everything.          
         
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: Live Art and contemporary performance works with varied content.<br>Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>, 0161 274 0600 or <mailto:BoxOffice@contactmcr.com>        
          
 #### About         
-Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day in Manchester every autumn — this 23rd edition will present 23 short works from lunchtime till late throughout <a href="https://contactmcr.com" target="_blank">Contact</a>'s spaces.       
+Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day in Manchester every autumn — this 24th edition will present *about* 20-25 short works from lunchtime till late throughout <a href="https://contactmcr.com" target="_blank">Contact</a>'s spaces.       
          
 *Probably* England's longest-running Live Art event, [Emergency](/hab/emergency) aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions.        
          
@@ -48,4 +48,4 @@ Get a feel for it with [2022's programme](/archive/2022-emergency) & [gallery of
         
 #### Websites         
 <a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> · X <a href="https://twitter.com/hashtag/Emergency24" target="_blank">#Emergency24</a>               
-<small><span style='font-variant: small-caps'>[back to top](/archive/2023-emergency)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/current/2024-emergency)</span></small>
