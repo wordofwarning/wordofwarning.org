@@ -12,7 +12,7 @@ season: "News"
 # show_size: 1 # optional - size 1-5. Default is 1. Set longer names to lower values
 
 ---
-<span style='font-variant: small-caps'>→ [things to watch](/news/#audiences) · [artist opportunities](/news/#artists), [advice](/news/#advice), [support](/news/#support), [turn prize 2024](/news/#turn_prize_2024)</span><br><small>Updated 7 August 2024<small>        
+<span style='font-variant: small-caps'>→ [things to watch](/news/#audiences) · [artist opportunities](/news/#artists), [advice](/news/#advice), [support](/news/#support), [turn prize 2024](/news/#turn_prize_2024)</span><br><small>Updated 22 August 2024<small>        
 <hr>          
 #### Audiences         
 Our [Performance Programme](/current/2024) continues with a day out for the curious in [Emergency 24](/current/2024-emergency) at <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 28 September**.<br>• See what happened recently in our [image galleries](/galleries) for July's [Haphazard](/galleries/2024-haphazard), May's [Works Ahead](/galleries/2024-woah), March's [Turn](/galleries/2024-turn), and [last year](/archive/2023)'s [Emergency](/galleries/2023-emergency).<br>• Find work to watch by reading our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a>, a regular signpost to performance live and online in Manchester + beyond: sign-up <a href="http://eepurl.com/i_Odb" target="_blank">here</a>.<br>• Visit our <a href="https://youtube.com/@warnmcr" target="_blank">YouTube channel</a> to watch archived livestreams and more.<br>• Have a look at <a href="https://screen.homemcr.org" target="_blank">HOME SCREEN</a>, <a href="https://thelowry.com/lowry-digital" target="_blank">Lowry Digital</a>, <a href="https://sadlerswells.com/digital-stage" target="_blank">Sadler's Wells Digital Stage</a>, <a href="https://unitytheatreliverpool.co.uk/unity-online" target="_blank">Unity Online</a>.        
@@ -27,8 +27,8 @@ Essentially industry-facing, [hÅb](/hab) advises and supports artists and freel
 <span style='font-variant: small-caps'>[back to top](/news)</span>         
          
 ##### Support         
-• Arts Council England's <a href="https://artscouncil.org.uk/DYCP" target="_blank">Developing Your Creative Practice</a> **Round 21 is now open, and closes 22 August, Noon**.         
-• Arts Council England's <a href="https://artscouncil.org.uk/projectgrants" target="_blank">National Lottery Project Grants</a> are available, with new guidance AND new forms **since 1 November 2023**.        
+• Arts Council England's <a href="https://artscouncil.org.uk/DYCP" target="_blank">Developing Your Creative Practice</a> **Round 21 closed 22 August at Noon; Round 22 opens 14 November at Noon****.         
+• Arts Council England's <a href="https://artscouncil.org.uk/projectgrants" target="_blank">National Lottery Project Grants</a> are available, with **new guidance AND new forms since 1 November 2023**.        
 • Arts Council England host information webinars for <a href="https://artscouncil.org.uk/DYCP" target="_blank">DYCP</a> & <a href="https://artscouncil.org.uk/projectgrants" target="_blank">NLPG</a> applicants — find dates and book on the <a href="https://www.eventbrite.co.uk/o/arts-council-england-events-north-28185338891" target="_blank">ACE North eventbrite page</a>.        
 • Arts Marketing Association's <a href="http://facebook.com/groups/AMACommunitySupport" target="_blank">Community Support Facebook Group</a> — for arts, culture, and heritage professionals with marketing and communication responsibilities to engage audiences with cultural organisations.          
 • Factory International's Artists & Freelance Creatives' facebook group <a href="http://www.facebook.com/groups/mifartistfreelancedropin" target="_blank">facebook group</a>.        
