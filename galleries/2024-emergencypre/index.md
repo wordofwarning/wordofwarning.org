@@ -18,7 +18,7 @@ gallery:
     -   {file: "slabs.jpg", artist: "Annie Finn & Poppy Waxman"}
     -   {file: "diane.jpg", artist: "Diane Dwyer"} 
     -   {file: "drunken_chorus.jpg", artist: "Drunken Chorus"}
-    -   {file: "emergency_chorus.jpg", artist: "Emergency Chorus"} 
+    -   {file: "emergency_chorus2.jpg", artist: "Emergency Chorus"} 
     -   {file: "farida.jpg", artist: "Farida Yesmin", show: "<small>by Giulia Casalini</small>"}
     -   {file: "heatheralice.jpg", artist: "Heather Alice White"}
     -   {file: "jennifer.jpg", artist: "Jennifer Ng"}
