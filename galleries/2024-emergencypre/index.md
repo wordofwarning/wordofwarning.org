@@ -32,6 +32,7 @@ gallery:
     -   {file: "riley.jpg", artist: "Riley Hamshaw-Mills"}
     -   {file: "robyn.jpg", artist: "Robyn Greeves"}
     -   {file: "rowena.jpg", artist: "Rowena Gander"}
+    -   {file: "paula.jpg", artist: "The Paula Davy"}
     -   {file: "will.jpg", artist: "Will Dickie"} 
     -   {file: "yafei.jpg", artist: "Yafei Zheng"}
 ---
