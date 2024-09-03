@@ -21,7 +21,9 @@ season: "Emergency 28|9|2024"
         
 *Presented by* Word of Warning *+* Contact        
         
-Manchester's 24th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 28 September from Noon to 10pm**:<br>— with an **Afternoon** of installations, interventions, limited capacity works<br>— followed by an **Evening** full of short shows from 4pm…<br>Look at some of our [artists' images](/galleries/2024-emergencypre).         
+Manchester's 24th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 28 September from Noon to 10pm**:<br>— with an **Afternoon** of installations, interventions, limited capacity works<br>— followed by an **Evening** full of short shows from 4pm…         
+         
+Look at some of our [artists' images](/galleries/2024-emergencypre).         
           
 #### Artists         
 **Afternoon, Noon-4pm.**<br>Ali&nbsp;Wilson&nbsp;· Billy&nbsp;Gigurtsis&nbsp;· Diane&nbsp;Dwyer&nbsp;· Emergency&nbsp;Chorus&nbsp;· Farida&nbsp;Yesmin&nbsp;· Heather&nbsp;Alice&nbsp;White&nbsp;· Jennifer&nbsp;Ng&nbsp;· Ludo&nbsp;&&nbsp;Jake&nbsp;· Martin&nbsp;Hamblen&nbsp;· Nicola&nbsp;Dale&nbsp;· Riley&nbsp;Hamshaw-Mills&nbsp;· Robyn&nbsp;Greeves&nbsp;· Rowena&nbsp;Gander&nbsp;· The&nbsp;Paula&nbsp;Davy         
@@ -33,7 +35,7 @@ Manchester's 24th micro-marathon of the bizarre, the bold, and the beautiful tak
 #### Details         
 Entry: no need to book, just turn up and Pay What You Decide by cash or card.         
           
-Times: Saturday 28 September 2024, Noon-10pm (*last show starts ~9.30pm*).<br>*NB* some artists will take breaks on an ad hoc basis, some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time — so you will not be able to see all 28 works.         
+Times: Saturday 28 September 2024, Noon-10pm (*last show starts ~9.30pm*).<br>*NB* some artists will take breaks on an ad hoc basis, some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time — so you will not be able to see everything.         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA         
         
