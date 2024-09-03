@@ -33,6 +33,6 @@ gallery:
     -   {file: "robyn.jpg", artist: "Robyn Greeves"}
     -   {file: "rowena.jpg", artist: "Rowena Gander"}
     -   {file: "paula.jpg", artist: "The Paula Davy"}
-    -   {file: "will.jpg", artist: "Will Dickie"} 
+    -   {file: "will.jpg", artist: "WilL Dickie"} 
     -   {file: "yafei.jpg", artist: "Yafei Zheng"}
 ---
