@@ -17,33 +17,39 @@ season: "Emergency 28|9|2024"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2024-emergency/#artists) · [details](/current/2024-emergency/#details) · [access](/current/2024-emergency/#access) · [about](/current/2024-emergency/#about) · [credits](/current/2024-emergency/#credits) · [websites](/current/2024-emergency/#websites)</span><br><small>Updated 7 August 2024</small>     
+<span style='font-variant: small-caps'>→ [artists](/current/2024-emergency/#artists) · [details](/current/2024-emergency/#details) · [access](/current/2024-emergency/#access) · [about](/current/2024-emergency/#about) · [credits](/current/2024-emergency/#credits) · [websites](/current/2024-emergency/#websites)</span><br><small>Updated 3 September 2024</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
-Manchester's 24th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 28 September, *tbc* from Noon to 10pm**:<br>— with an **Afternoon** of installations, interventions, limited capacity works<br>— followed by an **Evening** full of short shows…<br>Get a feel for it with [2023's programme](/archive/2023-emergency/#artists) and [gallery of images](/galleries/2023-emergency).         
+Manchester's 24th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 28 September from Noon to 10pm**:<br>— with an **Afternoon** of installations, interventions, limited capacity works<br>— followed by an **Evening** full of short shows from 4pm…         
+         
+Look at some of our [artists' images](/galleries/2024-emergencypre).         
           
 #### Artists         
-<small>*Participating artists to be announced in late-August.*</small>        
+**Afternoon, Noon-4pm.**<br>Ali&nbsp;Wilson&nbsp;· Billy&nbsp;Gigurtsis&nbsp;· Diane&nbsp;Dwyer&nbsp;· Emergency&nbsp;Chorus&nbsp;· Farida&nbsp;Yesmin&nbsp;· Heather&nbsp;Alice&nbsp;White&nbsp;· Jennifer&nbsp;Ng&nbsp;· Ludo&nbsp;&&nbsp;Jake&nbsp;· Martin&nbsp;Hamblen&nbsp;· Nicola&nbsp;Dale&nbsp;· Riley&nbsp;Hamshaw-Mills&nbsp;· Robyn&nbsp;Greeves&nbsp;· Rowena&nbsp;Gander&nbsp;· The&nbsp;Paula&nbsp;Davy         
+         
+**Evening, 4pm-10pm.**<br>Adèle&nbsp;Le&nbsp;Gallez&nbsp;· Ali&nbsp;Wilson&nbsp;· Annie&nbsp;Finn&nbsp;&&nbsp;Poppy&nbsp;Waxman&nbsp;· Drunken&nbsp;Chorus&nbsp;· Isabella&nbsp;Victorie&nbsp;A.&nbsp;· Jana&nbsp;Aizupe&nbsp;&&nbsp;Company&nbsp;· Kelvin&nbsp;Atmadibrata&nbsp;· Lewys&nbsp;Holt&nbsp;· Ludo&nbsp;&&nbsp;Jake&nbsp;· Luke&nbsp;McDonnell&nbsp;· Maria&nbsp;Garcia&nbsp;· Martha&nbsp;Pailing&nbsp;· Mi&nbsp;Otra&nbsp;Hermana&nbsp;· Shannon&nbsp;Mulvey&nbsp;· WilL&nbsp;Dickie&nbsp;· Yafei&nbsp;Zheng       
+         
+<small>*Participating artists subject to change.*</small>        
           
 #### Details         
 Entry: no need to book, just turn up and Pay What You Decide by cash or card.         
           
-Times: Saturday 28 September 2024, *tbc* from Noon to 10pm.<br>*NB* some artists will take breaks on an ad hoc basis, some works will have a short duration, some will have limited capacity on a first-come first-served basis, and some may repeat — so you may not get a chance to see everything.         
+Times: Saturday 28 September 2024, Noon-10pm (*last show starts ~9.30pm*).<br>*NB* some artists will take breaks on an ad hoc basis, some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time — so you will not be able to see everything.         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA         
         
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
           
-Content Warnings: some works will involve interaction and/or participation; any specific warnings will be listed [here](/warnings) from late-August.         
+Content Warnings: some works will involve interaction and/or participation; any specific warnings will be listed [here](/warnings) during early-September.         
           
-Features: Live Art and contemporary performance works with varied content.<br>*NB* works will occur in multiple spaces throughout the building and will vary in format — some roaming, some seated, some standing, some spoken word, some visual, some participatory.         
+Features: 28 Live Art & contemporary performance works with varied content.<br>*NB* works will occur in multiple spaces throughout the building and will vary in format — some roaming, some seated, some standing, some spoken word, some visual, some participatory.         
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via 0161 274 0600/<mailto:boxoffice@contactmcr.com>        
          
 #### About         
-Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day in Manchester every autumn — this 24th edition will present *about* 20-25 short works from lunchtime till late throughout <a href="https://contactmcr.com" target="_blank">Contact</a>'s building and its multiple spaces.       
+Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day in Manchester every autumn — this 24th edition will present 28 short works from lunchtime till late throughout <a href="https://contactmcr.com" target="_blank">Contact</a>'s building and its multiple spaces.       
          
 *Probably* England's longest-running Live Art event, [Emergency](/hab/emergency) aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions.        
          
