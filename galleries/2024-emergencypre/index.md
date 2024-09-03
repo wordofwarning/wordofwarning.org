@@ -17,13 +17,15 @@ gallery:
     -   {file: "ali.jpg", artist: "Ali Wilson"} 
     -   {file: "slabs.jpg", artist: "Annie Finn & Poppy Waxman"}
     -   {file: "diane.jpg", artist: "Diane Dwyer"} 
-    -   {file: "drunken_chorus.jpg", artist: "Drunken Chorus"}
+    -   {file: "drunken_chorus2.jpg", artist: "Drunken Chorus"}
     -   {file: "emergency_chorus2.jpg", artist: "Emergency Chorus"} 
     -   {file: "farida.jpg", artist: "Farida Yesmin", show: "<small>by Giulia Casalini</small>"}
     -   {file: "heatheralice.jpg", artist: "Heather Alice White"}
+    -   {file: "isabelle_victorie_a.jpg", artist: "Isabelle Victorie A."}
     -   {file: "jennifer.jpg", artist: "Jennifer Ng"}
+    -   {file: "kelvin.jpg", artist: "Kevin Atmadibrata"}
     -   {file: "lewys.jpg", artist: "Lewys Holt"}
-    -   {file: "ludo_jake.jpg", artist: "Ludo & Jake"}
+    -   {file: "ludo_jake2.jpg", artist: "Ludo & Jake"}
     -   {file: "luke.jpg", artist: "Luke McDonnell"}
     -   {file: "maria.jpg", artist: "Maria Garcia"}
     -   {file: "martha.jpg", artist: "Martha Pailing", show: "<small>by Garry Cook</small>"}
