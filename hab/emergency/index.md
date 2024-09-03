@@ -20,9 +20,9 @@ season: "Emergency by hÅb"
         
 **Emergency** is our annual platform for Live Art and contemporary performance — offering a sneak preview of new live work over a single day in Manchester every autumn and now resident at <a href="https://contactmcr.com" target="_blank">Contact</a>, its seventh home.        
          
-[Manchester's 24th micro-marathon of the bizarre, the bold, and the beautiful](/current/2024-emergency) takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 28 September 2024, Noon-10pm**, presenting 28 works throughout Contact's spaces.       
+[Manchester's 24th micro-marathon of the bizarre, the bold, and the beautiful](/current/2024-emergency) takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 28 September 2024 from Noon to 10pm** presenting 28 works throughout the building and its multiple spaces.       
          
-Get a feel for it with with some of our [2024 artists's images](/galleries/2024-emergencypre) or [2023's programme](/archive/2023-emergency/#artists) and [gallery of images](/galleries/2023-emergency).        
+Look at some of our [2024 artists's images](/galleries/2024-emergencypre) — or get a feel for it with [2023's programme](/archive/2023-emergency/#artists) and [gallery of images](/galleries/2023-emergency).        
          
 Manchester's annual Live Art & performance platform, Emergency aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions.        
         
