@@ -11,7 +11,7 @@ more_link: Emergency 24
 more_url: "../../current/2024-emergency"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "<i>A day out for the curious at Contact, Sat 28 Sep 2024</i> · Shannon Mulvey"}
+    -   {file: "titlepage.jpg", artist: "<small><i>A day out for the curious at Contact, Sat 28 Sep 2024</i></small> · Shannon Mulvey"}
     -   {file: "adele.jpg", artist: "Adèle Le Gallez"}
     -   {file: "ali.jpg", artist: "Ali Wilson"} 
     -   {file: "slabs.jpg", artist: "Annie Finn & Poppy Waxman"}
@@ -20,9 +20,9 @@ gallery:
     -   {file: "emergency_chorus2.jpg", artist: "Emergency Chorus"} 
     -   {file: "farida.jpg", artist: "Farida Yesmin", show: "<small>by Giulia Casalini</small>"}
     -   {file: "heatheralice.jpg", artist: "Heather Alice White"}
-    -   {file: "isabelle_victorie_a.jpg", artist: "Isabelle Victorie A."}
+    -   {file: "isabelle_victorie_a.jpg", artist: "Isabella Victorie A."}
     -   {file: "jennifer.jpg", artist: "Jennifer Ng"}
-    -   {file: "kelvin.jpg", artist: "Kevin Atmadibrata"}
+    -   {file: "kelvin.jpg", artist: "Kelvin Atmadibrata"}
     -   {file: "lewys.jpg", artist: "Lewys Holt"}
     -   {file: "ludo_jake2.jpg", artist: "Ludo & Jake"}
     -   {file: "luke.jpg", artist: "Luke McDonnell"}
