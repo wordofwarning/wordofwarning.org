@@ -17,7 +17,7 @@ season: "Emergency 28|9|2024"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2024-emergency/#artists) · [details](/current/2024-emergency/#details) · [access](/current/2024-emergency/#access) · [about](/current/2024-emergency/#about) · [credits](/current/2024-emergency/#credits) · [websites](/current/2024-emergency/#websites)</span><br><small>Updated 3 September 2024</small>     
+<span style='font-variant: small-caps'>→ [artists](/current/2024-emergency/#artists) · [details](/current/2024-emergency/#details) · [access](/current/2024-emergency/#access) · [about](/current/2024-emergency/#about) · [credits](/current/2024-emergency/#credits) · [websites](/current/2024-emergency/#websites)</span><br><small>Updated 6 September 2024</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
@@ -46,7 +46,7 @@ Content Warnings: some works will involve interaction and/or participation; any 
           
 Features: 28 Live Art & contemporary performance works with varied content.<br>*NB* works will occur in multiple spaces throughout the building and will vary in format — some roaming, some seated, some standing, some spoken word, some visual, some participatory.         
          
-Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via 0161 274 0600/<mailto:boxoffice@contactmcr.com>        
+Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### About         
 Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day in Manchester every autumn — this 24th edition will present 28 short works from lunchtime till late throughout <a href="https://contactmcr.com" target="_blank">Contact</a>'s building and its multiple spaces.       
