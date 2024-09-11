@@ -17,13 +17,16 @@ season: "Emergency 28|9|2024"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2024-emergency/#artists) · [details](/current/2024-emergency/#details) · [access](/current/2024-emergency/#access) · [about](/current/2024-emergency/#about) · [credits](/current/2024-emergency/#credits) · [websites](/current/2024-emergency/#websites)</span><br><small>Updated 6 September 2024</small>     
+<span style='font-variant: small-caps'>→ [artists](/current/2024-emergency/#artists) · [details](/current/2024-emergency/#details) · [access](/current/2024-emergency/#access) · [about](/current/2024-emergency/#about) · [credits](/current/2024-emergency/#credits) · [websites](/current/2024-emergency/#websites)</span><br><small>Updated 11 September 2024</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
-Manchester's 24th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 28 September from Noon to 10pm**:<br>— with an **Afternoon** of installations, interventions, limited capacity works<br>— followed by an **Evening** full of short shows from 4pm…         
+Manchester's 24th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com/events/emergency-24" target="_blank">Contact</a> on **Saturday 28 September from Noon to 10pm**:<br>— with an **Afternoon** of installations, interventions, limited capacity works<br>— followed by an **Evening** full of short shows from 4pm…         
          
 Look at some of our [artists' images](/galleries/2024-emergencypre).         
+         
+>*From sleeping princes to burning regrets, memorable ice cream to unforgettable break-ups, a deep dive into the environment and a trio of weddings.<br>
+Welcoming new faces and the return of old friends — what we can say is: we won’t be crying wolf.*         
           
 #### Artists         
 **Afternoon, Noon-4pm.**<br>Ali&nbsp;Wilson&nbsp;· Billy&nbsp;Gigurtsis&nbsp;· Diane&nbsp;Dwyer&nbsp;· Emergency&nbsp;Chorus&nbsp;· Farida&nbsp;Yesmin&nbsp;· Heather&nbsp;Alice&nbsp;White&nbsp;· Jennifer&nbsp;Ng&nbsp;· Ludo&nbsp;&&nbsp;Jake&nbsp;· Martin&nbsp;Hamblen&nbsp;· Nicola&nbsp;Dale&nbsp;· Riley&nbsp;Hamshaw-Mills&nbsp;· Robyn&nbsp;Greeves&nbsp;· Rowena&nbsp;Gander&nbsp;· The&nbsp;Paula&nbsp;Davy         
