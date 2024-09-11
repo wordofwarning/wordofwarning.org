@@ -25,8 +25,7 @@ Manchester's 24th micro-marathon of the bizarre, the bold, and the beautiful tak
          
 Look at some of our [artists' images](/galleries/2024-emergencypre).         
          
->*From sleeping princes to burning regrets, memorable ice cream to unforgettable break-ups, a deep dive into the environment and a trio of weddings.<br>
-Welcoming new faces and the return of old friends — what we can say is: we won’t be crying wolf.*         
+><font color="#FFFFFF">*From sleeping princes to burning regrets, memorable ice cream to unforgettable break-ups, a deep dive into the environment and a trio of weddings.<br>Welcoming new faces and the return of old friends — what we can say is: we won’t be crying wolf.*</font>         
           
 #### Artists         
 **Afternoon, Noon-4pm.**<br>Ali&nbsp;Wilson&nbsp;· Billy&nbsp;Gigurtsis&nbsp;· Diane&nbsp;Dwyer&nbsp;· Emergency&nbsp;Chorus&nbsp;· Farida&nbsp;Yesmin&nbsp;· Heather&nbsp;Alice&nbsp;White&nbsp;· Jennifer&nbsp;Ng&nbsp;· Ludo&nbsp;&&nbsp;Jake&nbsp;· Martin&nbsp;Hamblen&nbsp;· Nicola&nbsp;Dale&nbsp;· Riley&nbsp;Hamshaw-Mills&nbsp;· Robyn&nbsp;Greeves&nbsp;· Rowena&nbsp;Gander&nbsp;· The&nbsp;Paula&nbsp;Davy         
