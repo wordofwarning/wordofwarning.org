@@ -44,7 +44,7 @@ Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Co
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
           
-Content Warnings: some works will involve interaction and/or participation; any specific warnings will be listed [here](/warnings) during early-September.         
+Content Warnings: some works involve interaction and/or participation; specific warnings listed [here](/warnings).         
           
 Features: 28 Live Art & contemporary performance works with varied content.<br>*NB* works will occur in multiple spaces throughout the building and will vary in format — some roaming, some seated, some standing, some spoken word, some visual, some participatory.         
          
