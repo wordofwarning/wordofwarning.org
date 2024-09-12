@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 3 September 2024<small>        
+<small>Updated 12 September 2024<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>(Please click [here](/archive/warnings) for *past* events and *archived* livestreams on our YouTube channel.)         
          
@@ -21,4 +21,4 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 #### 2024         
         
 ##### [28 Sep. Contact | Emergency 24](/current/2024-emergency)          
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works will involve interaction and/or participation; specific warnings will be listed here during early-September.
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction and/or participation; specific warnings follow…<br>Afternoon, Noon-4pm.<br>&nbsp;Diane Dwyer — use of fake blood.<br>&nbsp;Emergency Chorus - strong language.<br>&nbsp;Farida Yesmin — nudity; use of raw meat by performer.<br>&nbsp;Heather Alice White — references addiction.<br>&nbsp;Riley Hamshaw-Mills — references bipolar & depression.<br>&nbsp;Robyn Greeves — partial nudity; religious imagery; references blood; potential binding of performer's body.<br>&nbsp;The Paula Davy — potential to reference death, suicide, swearing.<br>Evening, 4pm-10pm.<br>&nbsp;Annie Finn & Poppy Waxman — loud noises; partial nudity.<br>&nbsp;Drunken Chorus — detailed reference to mental health, anxiety, burnout, grief; strong language.<br>&nbsp;Isabella Victorie A. — Age Advisory: 18+. Partial nudity; references mental health issues & emotional abuse including suicide threats & sexual coercion; strong language.<br>&nbsp;Jana Aizupe & Company — sudden sounds.<br>&nbsp;Kelvin Atmadibrata — images of choking.<br>&nbsp;Luke McDonnell — audience interaction & participation.<br>&nbsp;Maria Garcia — references violence & pain.<br>&nbsp;Martha Pailing — strong language.<br>&nbsp;Mi Otra Hermana — partial nudity; references conflict & death; strong language.<br>&nbsp;Shannon Mulvey — audience interaction; references the social construct of femininity & sexual innuendos.<br>&nbsp;Yafei Zheng — discussion of ablism & racism; repetitive sounds.
