@@ -9,7 +9,7 @@ show: "Evening Programme, 4pm-10pm" # the name of the show
 artist_size: 1
 show_size: 4
 header_image:  
-season: "Emergency 28|9|2024, Evening Programme, 4pm-10pm"
+season: "Emergency 28|9|2024, Evening Programme"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -26,7 +26,7 @@ season: "Emergency 28|9|2024, Evening Programme, 4pm-10pm"
          
 <small>*Participating artists subject to change.*</small>         
          
-*NB* last show starts *~9.30pm*; some artists will take breaks on an ad hoc basis, some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time — so you will not be able to see everything.          
+*NB* last show starts *~9.30pm*; some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time — so you will not be able to see everything.          
          
 #### Evening Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
