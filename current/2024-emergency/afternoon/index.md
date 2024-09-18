@@ -37,29 +37,23 @@ Features: 14 Live Art & contemporary performance works with varied content.<br>*
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>         
          
-#### Afternoon Programme         
+#### Afternoon Programme Notes        
 <hr>         
-**GOWD** · *fleaBalls*         
+**Riley Hamshaw-Mills** · **         
          
-*A real no-hander!*         
-         
-Performers: Riley Hamshaw-Mills & Benji Paget. Special thanks to Jane.         
-         
+Riley
 GOWD is an art collective of theatre-makers that strive to create new and experimental/post-dramatic works of visual art spanning from performance art to contemporary theatre. Formed by three recent alumni of Kingston University, it is freely open for anyone to get involved. Its goal is to be a warm and supportive environment for any experimental artist to grow and evolve.          
           
 <a href="https://instagram.com/rambunccc" target="_blank">Insta rambunccc</a> · <a href="https://instagram.com/beboptheatre" target="_blank">Insta beboptheatre</a>         
 <hr>         
-**Kelvin Atmadibrata** · *His Fishies Friends Are Sticking Around*         
-         
-*Easy to see why he received the anglers' apotheosis.*        
+**Kelvin Atmadibrata** · **         
           
-Kelvin Atmadibrata recruits superpowers awakened by puberty and adolescent fantasy, personifying power and strength into fanfiction antiheroes to contest the masculine meta and erotica. He works primarily with performance, often accompanied by and translated into drawings, mixed media collages, and objects compiled as installations. Approached as bricolages, Kelvin translates narratives and recreates personifications based on role-playing video game theories and pop mythologies.         
+Kelvin recruits superpowers awakened by puberty and adolescent fantasy, personifying power and strength into fanfiction antiheroes to contest the masculine meta and erotica. He works primarily with performance, often accompanied by and translated into drawings, mixed media collages, and objects compiled as installations. Approached as bricolages, Kelvin translates narratives and recreates personifications based on role-playing video game theories and pop mythologies.         
          
 <a href="https://kelvinatmadibrata.com" target="_blank">kelvinatmadibrata.com</a> · <a href="https://facebook.com/kelvin.atmadibrata" target="_blank">Fb kelvin.atmadibrata</a> · <a href="https://instagram.com/kelvinatmadibrata" target="_blank">Insta kelvinatmadibrata</a>         
 <hr>        
-**Lauren Greer** · *PART I: Don't Take It To The Grave*        
+**** · **        
         
-*This place is alive. It's here, it's part of us, and we are part of it.<br>Our healing begins now, we just have to let go.*<br>A durational performance where the audience is integral to the creation of a communal, digital tapestry displaying our deepest, darkest secrets.<br>By embracing anonymity and vulnerability the audience are liberated as their secrets are unfiltered and unbound by judgement.<br>*Stay for a moment. Stay for an hour. Stay for as long as you need.*         
         
 Lauren Greer is a Northern Irish, working-class artist currently residing in Manchester. She is a theatre-maker, writer, collaborator, and creative learning practitioner; with a deep belief in the transformative power of the arts in being an educational tool, promoting wellbeing, connecting humans, and  upskilling young people. Whilst her performance work often evolves from a P/political stimulus, she is currently exploring the convergence of her identity with ritual and taboo.        
         
