@@ -17,7 +17,7 @@ season: "Emergency 28|9|2024"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2024-emergency/#artists) · [details](/current/2024-emergency/#details) · [access](/current/2024-emergency/#access) · [about](/current/2024-emergency/#about) · [credits](/current/2024-emergency/#credits) · [websites](/current/2024-emergency/#websites)</span><br><small>Updated 11 September 2024</small>     
+<span style='font-variant: small-caps'>→ [artists](/current/2024-emergency/#artists) · [details](/current/2024-emergency/#details) · [access](/current/2024-emergency/#access) · [about](/current/2024-emergency/#about) · [credits](/current/2024-emergency/#credits) · [websites](/current/2024-emergency/#websites)</span><br><small>Updated 18 September 2024</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
@@ -37,7 +37,7 @@ Look at some of our [artists' images](/galleries/2024-emergencypre).
 #### Details         
 Entry: no need to book, just turn up and Pay What You Decide by cash or card.         
           
-Times: Saturday 28 September 2024, Noon-10pm (*last show starts ~9.30pm*).<br>*NB* some artists will take breaks on an ad hoc basis, some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time — so you will not be able to see everything.         
+Times: Saturday 28 September 2024, Noon-10pm (last show starts *~9.30pm*).<br>*NB* some artists will take breaks on an ad hoc basis, some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time — so you will not be able to see everything.         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA         
         
