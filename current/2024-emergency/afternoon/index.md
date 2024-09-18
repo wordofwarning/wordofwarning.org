@@ -9,7 +9,7 @@ show: "Afternoon Programme, Noon-4pm" # the name of the show
 artist_size: 1
 show_size: 4
 header_image:  
-season: "Emergency 28|9|2024, Afternoon Programme, Noon-4pm"
+season: "Emergency 28|9|2024, Afternoon Programme"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -50,14 +50,14 @@ GOWD is an art collective of theatre-makers that strive to create new and experi
           
 Kelvin recruits superpowers awakened by puberty and adolescent fantasy, personifying power and strength into fanfiction antiheroes to contest the masculine meta and erotica. He works primarily with performance, often accompanied by and translated into drawings, mixed media collages, and objects compiled as installations. Approached as bricolages, Kelvin translates narratives and recreates personifications based on role-playing video game theories and pop mythologies.         
          
-<a href="https://kelvinatmadibrata.com" target="_blank">kelvinatmadibrata.com</a> · <a href="https://facebook.com/kelvin.atmadibrata" target="_blank">Fb kelvin.atmadibrata</a> · <a href="https://instagram.com/kelvinatmadibrata" target="_blank">Insta kelvinatmadibrata</a>         
+<a href="https://kelvinatmadibrata.com" target="_blank">kelvinatmadibrata.com</a> · FB <a href="https://facebook.com/kelvin.atmadibrata" target="_blank">kelvin.atmadibrata</a> · Insta <a href="https://instagram.com/kelvinatmadibrata" target="_blank">kelvinatmadibrata</a>         
 <hr>        
 **** · **        
         
         
 Lauren Greer is a Northern Irish, working-class artist currently residing in Manchester. She is a theatre-maker, writer, collaborator, and creative learning practitioner; with a deep belief in the transformative power of the arts in being an educational tool, promoting wellbeing, connecting humans, and  upskilling young people. Whilst her performance work often evolves from a P/political stimulus, she is currently exploring the convergence of her identity with ritual and taboo.        
         
-<a href="https://msha.ke/laurengreerperformanceartist" target="_blank">msha.ke/laurengreerperformanceartist</a> · <a href="https://instagram.com/_i_am_lauren_g_" target="_blank">Insta \_i\_am\_lauren\_g\_</a> · <a href="https://twitter.com/_i_am_lauren_g_" target="_blank">@\_i\_am\_lauren\_g\_</a>          
+<a href="https://msha.ke/laurengreerperformanceartist" target="_blank">msha.ke/laurengreerperformanceartist</a> · Insta <a href="https://instagram.com/_i_am_lauren_g_" target="_blank">@\_i\_am\_lauren\_g\_</a> · X <a href="https://x.com/_i_am_lauren_g_" target="_blank">@\_i\_am\_lauren\_g\_</a>          
 <hr>         
 <hr>          
 <small><span style='font-variant: small-caps'>[back to top](/current/2024-emergency/afternoon)</span></small>
