@@ -107,7 +107,7 @@ Nicola Dale is a Stockport-based visual artist. She has undertaken extensive exh
 <hr>         
 **Riley Hamshaw-Mills** · *Flang*         
         
-zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz          
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz          
          
 Riley Hamshaw-Mills is a Lowestoft-based working-class artist involved in producing experimental work from all difference aspects of performance, including Live Art, immersive/site specific, and autobiographical theatre. His work looks to blend the mundane aspects of living with surreal ideas and feelings, with satire and small town working-class attitudes being a through point in a lot of his work.          
          
