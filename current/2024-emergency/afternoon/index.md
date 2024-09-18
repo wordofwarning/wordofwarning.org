@@ -43,11 +43,11 @@ Queries: please contact <a href="https://contactmcr.com/visit/access" target="_b
           
 *Your post is in good hands. Trust Royal Mail to deliver your letters of awe & admiration. A special delivery just in the nick of time.*<br>In an ever-competitive & hostile world, *Special Delivery* invites you to take a minute and admire those around you. Who's caught your eye? Impressed you with their kindness? Left you feeling all warm & fuzzy? Write them a letter, pop it in our postbox, and Postie will ensure it's delivered with love & care.         
          
-Ali Wilson is a Glasgow-based theatre maker & comedian. Much of her work engages with non-professional performers, exploring their lived expertise & the performativity within it. A previously Supported Artist at Royal Exchange Theatre, her two last works premiered there in 2018 & '19. She has collaborated with Quarantine, Amy Lawrence, idontloveyouanymore, & more; and as a comic, appeared regularly around the NW open-mic circuit.         
+Ali Wilson is a Glasgow-based theatre maker & comedian. Much of her work engages with non-professional performers, exploring their lived expertise & the performativity within it. A previously Supported Artist at Royal Exchange Theatre, her two last works premiered there in 2018 & 2019. She has collaborated with Quarantine, Amy Lawrence, idontloveyouanymore & more — and as a comic, appeared regularly around the NW open-mic circuit.         
 <hr>          
 **Billy Gigurtsis** · *Curved Lines*         
           
-A durational, interdisciplinary installation piece utilising stillness & spoken word. *Curved Lines* invites you to examine the architecture of deformity, and the systems that so contain it.        
+A durational, interdisciplinary, installation piece utilising stillness & spoken word. *Curved Lines* invites you to examine the architecture of deformity, and the systems that so contain it.        
          
 Billy Gigurtsis is a London-based interdisciplinary choreographer & performer whose current practice centres dance around poetry, philosophy, and stillness. He has a particular interest in post-war expressive dance styles such as Tanztheater & Butoh. He has performed at Västerås Konserthus, Siobhan Davies Studios, and Riposte.         
 <hr>         
@@ -57,9 +57,10 @@ A recurring persona project: a ridiculous character who thinks she can do anythi
           
 Diane Dwyer is a Brooklyn (USA)-based interdisciplinary artist with a focus on performance. Recent performances include Performance Art Open (Bergen, Norway) and The Ivory Tower & the Open Worlds (Brooklyn, NY, USA).         
 <hr>         
-**Emergency Chorus** · *Reading and Writing*.         
+**Emergency Chorus** · *Reading and Writing*         
          
-Reading too much into a simple phrase, two performers turn a few select words into a strange game of sense & nonsense. Is this a business pitch? A therapy session? An activists’ meeting?<br>*Reading and Writing* is an improvised performance in which text becomes music, and meaning is all in the mind.                   
+Reading too much into a simple phrase, two performers turn a few select words into a strange game of sense & nonsense. Is this a business pitch? A therapy session? An activists’ meeting?<br>*Reading and Writing* is an improvised performance in which text becomes music, and meaning is all in the mind.         
+         
 Emergency Chorus is Ben Kulvichit (he/him) & Clara Potter-Sweet (they/she). Bristol-based, they make performances which straddle experimental theatre, Live Art, and dance, often colliding disparate source materials to create collages of text, choreography, music, and image. Recently they've created a dance piece which predicts the future, a choir of town criers, and a scratch night for 'old' work.         
 <hr>         
 **Farida Yesmin** · *Blissful Sorrow (part II)*         
@@ -70,11 +71,13 @@ In her ever-evolving artistic practice, Farida Yesmin (f.k.a. Kajoli Ilojak) exp
 <hr>         
 **Heather Alice White** · *No Caller ID*         
          
-*Entering a solitary tournament on which her life depends. Deciphering willpower, genetics, and chance. Asking the questions she doesn't want to know the answers to. Where is that call coming from? Is the realisation too late or was it futile from the start? No physical challenge, only mental strength — play the game.*<br>A durational live art performance exploring hereditary addiction & cyclical futility.         
+*Entering a solitary tournament on which her life depends. Deciphering willpower, genetics, and chance. Asking the questions she doesn't want to know the answers to. Where is that call coming from? Is the realisation too late or was it futile from the start? No physical challenge, only mental strength — play the game.*<br>A durational Live Art performance exploring hereditary addiction & cyclical futility.         
          
-Thank you to Peader Kirk for inciting this work at Works Ahead: Radiator (2024).          
+Thank you to Peader Kirk for inciting this work at Works Ahead: Radiator.          
          
 Heather Alice White is a Manchester-based emerging artist whose practice is rooted in contemporary movement, poetry, and film. She enjoys creating trans-media multidisciplinary performance work, and is passionate about neurodivergence & female healthcare. In 2023 she founded Weird Alice Entertainment: a working-class-led immersive theatre company.         
+           
+Insta @heatheraliceartist · YT heatheraliceartist         
 <hr>         
 **Jennifer Ng** · *Same Moon But Different Suns*         
           
@@ -84,35 +87,35 @@ Jennifer Ng is a Singaporean-born interdisciplinary artist who lives & practises
 <hr>         
 **Ludo & Jake** · *I.D.S.T.*         
          
-*A detail that is not poetic. It isn't about pretending. Every word I say is a promise. Why did you come here?*<br>A symbiotic relationship revealed in an extra-ordinary liminal space that behaves as a playground for adults. Two performers co-exist here through games, rules, strategies, and numbers that unlock action & storytelling – coming from the true lives & memories of its inhabitants.<br>*We don't speak about a memory as if it were something that could be changed. If Destroyed Still True.*          
+*A detail that is not poetic. It isn't about pretending. Every word I say is a promise. Why did you come here?*<br>A symbiotic relationship revealed in an extra-ordinary liminal space that behaves as a playground for adults. Two performers co-exist here through games, rules, strategies, and numbers that unlock action & storytelling — coming from the true lives & memories of its inhabitants.<br>*We don't speak about a memory as if it were something that could be changed. If Destroyed Still True.*          
            
 Created & performed by Jake Walton & Ludovica Tagariello.          
          
-Ludovica Tagariello is an Italian multifaceted artist, physical theatre performer & maker who is involved in performative activities both in Italy with her company and in the UK as an individual.<br>Jake Walton is a northern working-class theatre maker, producer, and actor. He has performed internationally across various locations ranging from an alleyway of a street festival to the Olivier stage at The National Theatre, and has had success with previous companies Powder Keg & Paper People Theatre.        
+Ludovica Tagariello is an Italian multifaceted artist, physical theatre performer & maker, who is involved in performative activities both in Italy with her company and in the UK as an individual.<br>Jake Walton is a northern working-class theatre maker, producer, and actor. He has performed internationally across various locations ranging from an alleyway of a street festival to the Olivier stage at The National Theatre, and has had success with previous companies Powder Keg & Paper People Theatre.        
 <hr>         
 **Martin Hamblen** · *iCriedWolves*         
          
-*Wolf! Wolf! Wolf! Can you hear me?*<br>A literal interpretation of a familiar fable: A boy cried wolf.<br>This fable reflects & resonates with our contemporary circumstances. Performing it, post-pandemic, during a cost-of-living crisis, through man-made climate change, while sifting fake news from facts, seems pertinent. Reciting a single word over & over (in multiple languages) aims to politely provoke a passing audience to consider a question:<br>*Do we share the same wolves?*         
+*Wolf! Wolf! Wolf! Can you hear me?*<br>A literal interpretation of a familiar fable: A boy cried wolf.<br>This fable reflects & resonates with our contemporary circumstances. Performing it, post-pandemic, during a cost-of-living crisis, through man-made climate change, while sifting fake news from facts, seems pertinent. Reciting a single word over & over (in multiple languages) aims to politely provoke a passing audience to consider a question: *Do we share the same wolves?*         
          
-Martin Hamblen's practice is an antisyzygy - a union of opposites - that includes collecting multiples (nine) of the same thing and performing phrases, literal interpretations of language. Before studying Fine Art, he studied Psychology. His work has been funded by both Arts Council England & Creative Scotland. He lives in SW Scotland.         
+Martin Hamblen's practice is an antisyzygy — a union of opposites — that includes collecting multiples (nine) of the same thing and performing phrases, literal interpretations of language. Before studying Fine Art, he studied Psychology. His work has been funded by both Arts Council England & Creative Scotland. He lives in SW Scotland.         
 <hr>         
 **Nicola Dale** · *Director*         
           
-Working in the crevice between performance & sculpture, Nicola Dale asks what it is to be an object, or be treated as one. Through this focus on 'objecthood', she thinks about how we occupy space & how often we are merely a vessel for someone else’s story, a guest in someone else's space, beholden to someone else's (unspoken) criteria. Exploring objecthood provides an opportunity to take some power back – and offer it to others. An object that can be held, worn, or entered into is a sign that space can be opened up, rather than dominated.          
+Working in the crevice between performance & sculpture, Nicola Dale asks what it is to be an object, or be treated as one. Through this focus on 'objecthood', she thinks about how we occupy space & how often we are merely a vessel for someone else’s story, a guest in someone else's space, beholden to someone else's (unspoken) criteria. Exploring objecthood provides an opportunity to take some power back — and offer it to others. An object that can be held, worn, or entered into is a sign that space can be opened up, rather than dominated.          
          
-Nicola Dale is a Stockport-based visual artist. She has undertaken extensive exhibitions, commissions, residencies, and performances in the UK & internationally. She has recently shown with: the Aesthetica Art Prize (longlist); Saatchi Gallery & Bobinska Brownlee (London); Pabst Gallery (Florida); The Hepworth Wakefield; The Grundy (Blackpool).         
+Nicola Dale is a Stockport-based visual artist. She has undertaken extensive exhibitions, commissions, residencies, and performances in the UK & internationally. She has recently shown with the Aesthetica Art Prize (longlist), Saatchi Gallery & Bobinska Brownlee (London), Pabst Gallery (Florida), The Hepworth Wakefield, The Grundy (Blackpool).         
 <hr>         
 **Riley Hamshaw-Mills** · *Flang*         
         
-zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz          
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz          
          
-Riley Hamshaw-Mills is a Lowestoft-based working-class artist involved in producing experimental work from all difference aspects of performance, including live art, immersive/site specific, and autobiographical theatre. His work looks to blend the mundane aspects of living with surreal ideas & feelings, with satire and small town working-class attitudes being a through point in a lot of his work.          
+Riley Hamshaw-Mills is a Lowestoft-based working-class artist involved in producing experimental work from all difference aspects of performance, including Live Art, immersive/site specific, and autobiographical theatre. His work looks to blend the mundane aspects of living with surreal ideas and feelings, with satire and small town working-class attitudes being a through point in a lot of his work.          
          
 Insta <a href="https://instagram.com/rambunccc" target="_blank">@rambunccc</a>         
 <hr>         
 **Robyn Greeves** · *the sin of being*         
          
-*It'll always be there, pulling at you. But you should know that it's damned. By the sons & daughters it'll produce.<br>By the lovers who will depend on it. By your doctors & employers. By the creator of the universe.<br>You are woven into the sin itself. If it were anyone else, it'd be called divine madness.<br>But it's not him, it's you. And it's your cross to bear. Smile! Repent & cleanse yourself.<br>Your purity will be your life force, and your condemnation is the most natural thing in the world.<br>You're a woman now. Happy 12th birthday.*<br>Exploring secrecy & shame around fertility & sexuality, how it manifests in the body, and how to reclaim what can't be purified.         
+*It'll always be there, pulling at you. But you should know that it's damned.<br>By the sons & daughters it'll produce. By the lovers who will depend on it. By your doctors & employers. By the creator of the universe.<br>You are woven into the sin itself. If it were anyone else, it'd be called divine madness.<br>But it's not him, it's you. And it's your cross to bear.<br>Smile! Repent & cleanse yourself. Your purity will be your life force, and your condemnation is the most natural thing in the world.<br>You're a woman now. Happy 12th birthday.*<br>Exploring secrecy & shame around fertility & sexuality, how it manifests in the body, and how to reclaim what can't be purified.         
          
 Robyn Greeves is a contemporary performance artist, physical performer, and textile artist with a focus on creating postmodern performance work to explore & deconstruct politics & human behaviour. She has developed an interest in psychology, feminism, disability, social behaviour, communication, and the sensory experience. She makes work through the mediums of movement-based practices & durational performance.         
 <hr>         
@@ -126,6 +129,6 @@ Dr Rowena Gander is an academic / international performance artist who creates t
          
 *On entering the water resist the urge to swim until the cold(shock) has passed.*<br>You are invited to visit Paula The Disappointment at her traditional Ice Cream Cart and exchange your inner most hopes & fears for something more useful.         
          
-Paula Davy is a solo live artist from a background of political activism & protest. Influenced by personal histories, biography, her own feelings of displacement, and strained family relationships, her practice could be described as live art happenings. Most of her works are informed by a biographical trilogy: *Paula The Slut*, *Paula The Disappointment*, *Paula The Depressive*; each celebrating a negative aspect of her history.         
+Paula Davy is a solo live artist from a background of political activism & protest. Influenced by personal histories, biography, her own feelings of displacement, and strained family relationships, her practice could be described as Live Art happenings. Most of her works are informed by a biographical trilogy: *Paula The Slut*, *Paula The Disappointment*, *Paula The Depressive*, each celebrating a negative aspect of her history.         
 <hr>         
 <small><span style='font-variant: small-caps'>[back to top](/current/2024-emergency/afternoon)</span></small>
