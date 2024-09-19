@@ -45,13 +45,27 @@ A man lives & dies for his work on the ninth floor.<br>Exploring two worlds — 
          
 Special thanks to Manchester School of Theatre at MMU.         
          
-Adèle Le Gallez is a Salford-based writer, performer, visual artist, whose work explores themes & ideas such as capitalism, religion, childhood dreams. Their solo work has taken the form of installations, soundscapes, poetry, story-telling. 
+Adèle Le Gallez is a Salford-based writer, performer, visual artist, whose work explores themes & ideas such as capitalism, religion, childhood dreams. Their solo work has taken the form of installations, soundscapes, poetry, story-telling.         
+         
+<a href="https://adelegallez.wixsite.com/portfolio" target="_blank">adelegallez.wixsite.com/portfolio</a> · Insta <a href="https://instagram.com/adele.legallez" target="_blank">@adele.legallez</a>         
 <hr>          
 **Ali Wilson** · *Special Delivery*         
           
 *Your post is in good hands. Trust Royal Mail to deliver your letters of awe & admiration. A special delivery just in the nick of time.*<br>In an ever-competitive & hostile world, *Special Delivery* invites you to take a minute and admire those around you. Who's caught your eye? Impressed you with their kindness? Left you feeling all warm & fuzzy? Write them a letter, pop it in our postbox, and Postie will ensure it's delivered with love & care.        
          
 Ali Wilson is a Glasgow-based theatre maker & comedian. Much of her work engages with non-professional performers, exploring their lived expertise & the performativity within it. A previously Supported Artist at Royal Exchange Theatre, her two last works premiered there in 2018 & 2019. She has collaborated with Quarantine, Amy Lawrence, idontloveyouanymore & more — and as a comic, appeared regularly around the NW open-mic circuit.         
+         
+Insta <a href="https://instagram.com/haha.aliwilson" target="_blank">@haha.aliwilson</a> · X <a href="https://x.com/aliwil267" target="_blank">@aliwil267</a>         
+<hr>          
+**Annie Finn & Poppy Waxman** · *SLABS*         
+         
+Twenty minutes of pushing pulling twisting slamming squeezing breathing packing tapping lifting sweating.<br>*SLABS* is made by women who will be doing these things and telling you to watch them.         
+         
+Created & performed by Annie Finn & Poppy Waxman.         
+         
+Annie Finn is a queer interdisciplinary artist whose work focuses on the power of the human body & how it exists in the world. She is a co-founder & producer at drag company Dribs & Drags.<br>*SLABS* made its international debut in BIFALD festival (Denmark) in October 2023.         
+         
+Insta <a href="https://instagram.com/annniefinnnn" target="_blank">@annniefinnnn </a> & <a href="https://instagram.com/waxmanharrietpoppy" target="_blank">@waxmanharrietpoppy</a>         
 <hr>          
 **Drunken Chorus** · *GREATEST HITS*         
          
@@ -60,12 +74,16 @@ A collection of mis-remembered, botched, and wildly confused moments from an 'il
 Devised & performed by Chris Williams & Sheena Holliday.         
          
 Drunken Chorus was formed in the NW in the late 2000's, to make & tour live performance. Their work has since evolved & developed to include running artist support programmes, live events like *DRUNKEN NIGHTS*, and major arts festivals including the Mayor of London's *Liberty Festival*. Because of this, they haven't made work of their own in a very long time; *GREATEST HITS* will be their first new performance in over seven years.         
+         
+<a href="https://drunkenchorus.co.uk" target="_blank">drunkenchorus.co.uk</a> · Insta <a href="https://instagram.com/drunken.chorus" target="_blank">@drunken.chorus</a>         
 <hr>          
 **Isabella Victorie A.** · *fragments.foyc*         
          
 A performance art piece about emotional abuse that has been created in order to raise awareness. It depicts fragments of the vortex survivors find themselves stuck in, in all its painful reality.<br>The performer is on a mission to raise awareness of emotional abuse, so that prevention can eventually be achieved. Emotional abuse is as harmful as physical abuse. It leads to isolation, a variety of illnesses, and can even lead to death… *It's time we talk about it!*          
          
 Isabella Victorie A. (she/her) is a first-generation migrant performance artist, actor, and theatre maker from Austria, who uses a European, bold performance approach. She has devised ensemble work with artists such as Anemone Poland & Burkhard Schmiester (Berlin), and has performed on stages such as the Vienna State Opera, Komische Oper (Berlin), Underbelly Boulevard (London).         
+         
+Insta <a href="https://instagram.com/is.vi.a_" target="_blank">@is.vi.a_</a>         
 <hr>          
 **Jana Aizupe & Company** · *if I stay here any longer I will stay here forever*         
          
