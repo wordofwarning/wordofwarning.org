@@ -41,11 +41,11 @@ Queries: please contact <a href="https://contactmcr.com/visit/access" target="_b
 <hr>         
 **Adèle Le Gallez** · *Mortar*         
          
-A man lives & dies for his work on the 9th floor.<br>Exploring two worlds: the story of the man upstairs, and the memories of a child on a beach, the performer creates a live soundscape and tells a tale that tries to untangle the grief & pain of letting your childhood dreams die to go & work in concrete buildings.<br>Inspired by John Hartford's 1971 song *In Tall Buildings, *Mortar is a show for everyone* — the everyday worker — you, me, and the man upstairs.         
+A man lives & dies for his work on the ninth floor. Exploring two worlds — the story of the man upstairs and the memories of a child on a beach — the performer creates a live soundscape and tells a tale that tries to untangle the grief & pain of letting your childhood dreams die to go & work in concrete buildings.<br>Inspired by John Hartford's 1971 song *In Tall Buildings*, *Mortar* is a show for everyone — the everyday worker — you, me, and the man upstairs.         
          
 Special thanks to Manchester School of Theatre at MMU.         
          
-Adèle Le Gallez is a Salford-based writer, performer, and visual artist. Their work explores themes & ideas such as capitalism, religion & childhood dreams. Their solo work has taken the form of installations, soundscapes, poetry & story-telling. 
+Adèle Le Gallez is a Salford-based writer, performer, and visual artist. Their work explores themes & ideas such as capitalism, religion, childhood dreams. Their solo work has taken the form of installations, soundscapes, poetry, story-telling. 
 <hr>          
 **Ali Wilson** · *Special Delivery*         
           
@@ -69,11 +69,11 @@ Isabella Victorie A. (she/her) is a first-generation migrant performance artist,
 <hr>          
 **Jana Aizupe & Company** · *if I stay here any longer I will stay here forever*         
          
-That feeling when you keep making coffee thinking "*okay, I will make coffee & then I will start*", "*okay, I will go for a walk & then I will start". The start turns into staring onto a blank page. Getting up. Making another coffee…<br>An experimental performance piece with live music about the inability to begin.         
+That feeling when you keep making coffee thinking "*okay, I will make coffee & then I will start*", "*okay, I will go for a walk & then I will start*". The start turns into staring onto a blank page. Getting up. Making another coffee…<br>An experimental performance piece with live music about the inability to begin.         
          
 Director: Jana Aizupe · Musicians: Dara Hughes & Amelia Dunne         
 
-Jana is a West Midlands-based working-class theatre artist, primarily working through devising, movement, and film. She is a trained street dancer, therefore values non-verbal connections through shared movements in space. She is also very passionate about applied theatre, putting emphasis on the process of co-creation.          
+Jana is a West Midlands-based working-class theatre artist, primarily working through devising, movement, film. She is a trained street dancer, therefore values non-verbal connections through shared movements in space. She is also very passionate about applied theatre, putting emphasis on the process of co-creation.          
          
 Insta <a href="https://instagram.com/1001create" target="_blank">@1001create</a>        
 <hr>          
@@ -83,12 +83,13 @@ Insta <a href="https://instagram.com/1001create" target="_blank">@1001create</a>
           
 Kelvin Atmadibrata recruits superpowers awakened by puberty & adolescent fantasy, personifying power & strength into fanfiction antiheroes to contest the masculine meta & erotica. He works primarily with performance, often accompanied by & translated into drawings, mixed media collages, and objects compiled as installations. Approached as bricolages, Kelvin translates narratives and recreates personifications based on role-playing video game theories & pop mythologies.         
          
-<a href="https://kelvinatmadibrata.com" target="_blank">kelvinatmadibrata.com</a> · FB <a href="https://facebook.com/kelvin.atmadibrata" target="_blank">kelvin.atmadibrata</a> · Insta <a href="https://instagram.com/kelvinatmadibrata" target="_blank">kelvinatmadibrata</a>         
+<a href="https://kelvinatmadibrata.com" target="_blank">kelvinatmadibrata.com</a> · Fb <a href="https://facebook.com/kelvin.atmadibrata" target="_blank">kelvin.atmadibrata</a> · Insta <a href="https://instagram.com/kelvinatmadibrata" target="_blank">@kelvinatmadibrata</a>         
 <hr>          
 **Lewys Holt** · *Twenty Minute Set*         
          
-Fusing dance, stand-up, theatre, and song into twenty minutes of discussions, demonstrations, and dances about such subjects as: the passing of time, guilt, Duracell bunnies, bus timetables, existential philosophy.<br>Often humorous & profound, these heavily practised, yet unplanned & unscripted, performances are thrilling experiences of shared risk between the performer & the audience which are not to be missed.                   
-Lewys Holt is a Leeds-based interdisciplinary dance artist. They work as a dancer, choreographer, and curates Roadhouse with Eleanor Sikorski. Their practice, while focusing on dance, spans comedy & devised theatre. They have worked as a dancer with New Art Club, Simone Mousset, Tino Sehgal, Rosemary Lee, Christopher Owen, among others.         
+Fusing dance, stand-up, theatre, and song into twenty minutes of discussions, demonstrations, and dances about such subjects as: the passing of time, guilt, Duracell bunnies, bus timetables, existential philosophy.<br>Often humorous & profound, these heavily practised, yet unplanned & unscripted, performances are thrilling experiences of shared risk between the performer & the audience which are not to be missed.         
+         
+Lewys Holt is a Leeds-based interdisciplinary dance artist. They work as a dancer, choreographer, and curate Roadhouse (Leeds) with Eleanor Sikorski. Their practice, while focusing on dance, spans comedy & devised theatre. They have worked as a dancer with New Art Club, Simone Mousset, Tino Sehgal, Rosemary Lee, Christopher Owen, among others.         
 <hr>          
 **Ludo & Jake** · *I.D.S.T.*         
          
@@ -104,15 +105,15 @@ Ludovica Tagariello is an Italian multifaceted artist, physical theatre performe
          
 First commissioned by University of Salford.         
          
-Luke McDonnell is a theatre maker & facilitator, living & working in Manchester for the last seven years. His work explores complex ideas in fun & accessible ways. Expect audience participation, conversations, and playing games.         
+Luke McDonnell is a theatre maker & facilitator, living & working in Manchester for the last seven years. His work explores complex ideas in fun & accessible ways. Expect audience participation, conversations, and game playing.         
 <hr>          
 **Maria Garcia** · *Bees and Beasts and the Horrish Fish Tales Draft 1*         
          
-A Live Art psychological tragicomedy, exploring themes of pain, pollination, and captivity.<br>Set to Verdi's *Rigoletto*, this one-woman show follows an endometriosis surgeon who, after surviving a nightmarish shipwreck, finds herself trapped on an island with menacing beekeepers who want to use her womb to bring back an extinct species of bees.<br>The absurd story, which is somewhat biographical, invites audience members to experience & imagine Gilda's dreams & nightmares as she stage manages her own death(s).         
+A Live Art psychological tragicomedy, exploring themes of pain, pollination, and captivity.<br>Set to Verdi's *Rigoletto*, this one-woman show follows an endometriosis surgeon who, after surviving a nightmarish shipwreck, finds herself trapped on an island with menacing beekeepers who want to use her womb to bring back an extinct species of bees. The absurd story, which is somewhat biographical, invites audience members to experience & imagine Gilda's dreams & nightmares as she stage manages her own death(s).         
          
 Designer, director, performer, writer: Maria Garcia · Performer: Ruby Antonowicz-Behnan · Cinematographer: Wesley Cardino<br>Thank you to SPILL Think Tank.         
          
-Maria Garcia is a Live Artist, director, and costume designer working in film, theatre, dance, performance art. Her interdisciplinary investigations are cinematic, haunting, and often centre around death, 'liveness', pain, and migration.         
+Maria Garcia is a Live Artist, director, and costume designer working in film, theatre, dance, performance art. Her interdisciplinary investigations are cinematic, haunting, and often centre around death, 'liveness', pain, migration.         
 <hr>          
 **Martha Pailing** · *Sheep Nit*         
          
@@ -122,10 +123,10 @@ Martha Pailing is a northern-born spoken word & performance artist. Her performa
 <hr>          
 **Mi Otra Hermana** · *My Other Sister*         
          
-One woman from the North & one woman from the South. One table at the centre.<br>This piece is an exploration of cultural identities caught in the crosshairs. Different childhoods, music, and climates are the sparks that fuse them together as they shake the inherited conflict of their countries. This piece is a result of what happens when they meet & navigate their differences in a new city.         
+One woman from the North & one woman from the South. One table at the centre.<br>This piece is an exploration of cultural identities caught in the crosshairs. Different childhoods, music, and climates are the sparks that fuse them together as they shake the inherited conflict of their countries. This piece is a result of what happens when they meet and navigate their differences in a new city.         
          
 Lauren Greer is a Northern Irish, working-class artist currently residing in Manchester. 
-She is a theatre-maker, writer, collaborator, and creative learning practitioner; with a deep belief in the transformative power of the arts as an educational tool, her practice is heavily influenced by Live Art frameworks & autobiographical experience.<br>Silvana Zuluaga is a Colombian theatre maker whose artistic practice is focused on the actor's training and its potential for creation & research, currently exploring how the female body can serve as a vehicle to shine a light on Latin American culture.         
+She is a theatre maker, writer, collaborator, creative learning practitioner; with a deep belief in the transformative power of the arts as an educational tool, her practice is heavily influenced by Live Art frameworks & autobiographical experience.<br>Silvana Zuluaga is a Colombian theatre maker whose artistic practice is focused on the actor's training and its potential for creation & research, currently exploring how the female body can serve as a vehicle to shine a light on Latin American culture.         
         
 <a href="https://msha.ke/laurengreerperformanceartist" target="_blank">msha.ke/laurengreerperformanceartist</a> · Insta <a href="https://instagram.com/_i_am_lauren_g_" target="_blank">@\_i\_am\_lauren\_g\_</a> · X <a href="https://x.com/_i_am_lauren_g_" target="_blank">@\_i\_am\_lauren\_g\_</a>        
 <hr>          
@@ -148,7 +149,7 @@ WilL Dickie is a Liverpool-based self-produced interdisciplinary artist & Felden
 <hr>          
 **Yafei Zheng** · *Is There Work on Mars?*         
          
-Can an Asian with ADHD & a math disability pass Elon Musk's 'Mars Immigration Test'?<br>Immerse yourself into a dystopian testing lab in which a neurodiverse Chinese woman finds herself in endless bleep tests while answering absurd questions on immigration & intelligence. Through a punchy performance she satirises the everyday microaggressions & ridiculous immigration requirements faced by the global majority.         
+*Can an Asian with ADHD & a math disability pass Elon Musk's 'Mars Immigration Test'?*<br>Immerse yourself into a dystopian testing lab in which a neurodiverse Chinese woman finds herself in endless bleep tests while answering absurd questions on immigration & intelligence. Through a punchy performance she satirises the everyday microaggressions & ridiculous immigration requirements faced by the global majority.         
            
 Writer & performer: Yafei Zheng · Sound design: Pannavich Weswibul & Charlie Nelson · Audio description consultant: Lily An         
 
