@@ -17,7 +17,7 @@ season: "Emergency 28|9|2024, Afternoon Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 18 September 2024</small>     
+<small>Updated 19 September 2024</small>     
         
 *First half of [Emergency 24](/current/2024-emergency) — an Afternoon of installations, interventions, limited capacity works — presented by* Word of Warning *+* Contact        
          
@@ -49,19 +49,19 @@ Ali Wilson is a Glasgow-based theatre maker & comedian. Much of her work engages
           
 A durational, interdisciplinary, installation piece utilising stillness & spoken word. *Curved Lines* invites you to examine the architecture of deformity, and the systems that so contain it.        
          
-Billy Gigurtsis is a London-based interdisciplinary choreographer & performer whose current practice centres dance around poetry, philosophy, and stillness. He has a particular interest in post-war expressive dance styles such as Tanztheater & Butoh. He has performed at Västerås Konserthus, Siobhan Davies Studios, and Riposte.         
+Billy Gigurtsis is a London-based interdisciplinary choreographer & performer whose current practice centres dance around poetry, philosophy, stillness. He has a particular interest in post-war expressive dance styles such as Tanztheater & Butoh. He has performed at Västerås Konserthus (Sweden), Siobhan Davies Studios, Riposte (London).         
 <hr>         
 **Diane Dwyer** · *Diane the American Swimmer Says, "Don't Worry!"*         
           
 A recurring persona project: a ridiculous character who thinks she can do anything, cause she's American. Her motto is: *"DON’T WORRY!"*         
           
-Diane Dwyer is a Brooklyn (USA)-based interdisciplinary artist with a focus on performance. Recent performances include Performance Art Open (Bergen, Norway) and The Ivory Tower & the Open Worlds (Brooklyn, NY, USA).         
+Diane Dwyer is a Brooklyn (USA)-based interdisciplinary artist with a focus on performance. Recent performances include Performance Art Open (Bergen, Norway) and The Ivory Tower & the Open Worlds (Brooklyn, USA).         
 <hr>         
 **Emergency Chorus** · *Reading and Writing*         
          
 Reading too much into a simple phrase, two performers turn a few select words into a strange game of sense & nonsense. Is this a business pitch? A therapy session? An activists’ meeting?<br>*Reading and Writing* is an improvised performance in which text becomes music, and meaning is all in the mind.         
          
-Emergency Chorus is Ben Kulvichit (he/him) & Clara Potter-Sweet (they/she). Bristol-based, they make performances which straddle experimental theatre, Live Art, and dance, often colliding disparate source materials to create collages of text, choreography, music, and image. Recently they've created a dance piece which predicts the future, a choir of town criers, and a scratch night for 'old' work.         
+Emergency Chorus is Ben Kulvichit (he/him) & Clara Potter-Sweet (they/she). Bristol-based, they make performances which straddle experimental theatre, Live Art, dance — often colliding disparate source materials to create collages of text, choreography, music, image. Recently they've created a dance piece which predicts the future, a choir of town criers, a scratch night for 'old' work.         
 <hr>         
 **Farida Yesmin** · *Blissful Sorrow (part II)*         
          
@@ -75,7 +75,7 @@ In her ever-evolving artistic practice, Farida Yesmin (f.k.a. Kajoli Ilojak) exp
          
 Thank you to Peader Kirk for inciting this work at Works Ahead: Radiator.          
          
-Heather Alice White is a Manchester-based emerging artist whose practice is rooted in contemporary movement, poetry, and film. She enjoys creating trans-media multidisciplinary performance work, and is passionate about neurodivergence & female healthcare. In 2023 she founded Weird Alice Entertainment: a working-class-led immersive theatre company.         
+Heather Alice White is a Manchester-based emerging artist whose practice is rooted in contemporary movement, poetry, film. She enjoys creating trans-media multidisciplinary performance work, and is passionate about neurodivergence & female healthcare. In 2023 she founded Weird Alice Entertainment: a working-class-led immersive theatre company.         
            
 Insta @heatheraliceartist · YT heatheraliceartist         
 <hr>         
@@ -83,7 +83,7 @@ Insta @heatheraliceartist · YT heatheraliceartist
           
 *Every day, I live my time thrice — now, in the past, and in the future.*<br>Live Art by Jennifer Ng, as a response to a kind of floating existence.         
          
-Jennifer Ng is a Singaporean-born interdisciplinary artist who lives & practises art in the UK. Concepts in her work emerge through material experimentations & spatial immersion. She uses embodiment, aesthetics, and practice trajectories stemming from her eclectic cultural experiences to investigate themes of 'existence', 'absence', 'loss/lost, 'distance', and 'displacement'.          
+Jennifer Ng is a Singaporean-born interdisciplinary artist who lives & practises art in the UK. Concepts in her work emerge through material experimentations & spatial immersion. She uses embodiment, aesthetics, and practice trajectories stemming from her eclectic cultural experiences to investigate themes of 'existence', 'absence', 'loss/lost, 'distance', 'displacement'.          
 <hr>         
 **Ludo & Jake** · *I.D.S.T.*         
          
@@ -91,7 +91,7 @@ Jennifer Ng is a Singaporean-born interdisciplinary artist who lives & practises
            
 Created & performed by Jake Walton & Ludovica Tagariello.          
          
-Ludovica Tagariello is an Italian multifaceted artist, physical theatre performer & maker, who is involved in performative activities both in Italy with her company and in the UK as an individual.<br>Jake Walton is a northern working-class theatre maker, producer, and actor. He has performed internationally across various locations ranging from an alleyway of a street festival to the Olivier stage at The National Theatre, and has had success with previous companies Powder Keg & Paper People Theatre.        
+Ludovica Tagariello is an Italian multifaceted artist, physical theatre performer & maker, who is involved in performative activities both in Italy with her company and in the UK as an individual.<br>Jake Walton is a northern working-class theatre maker, producer, actor. He has performed internationally across various locations ranging from an alleyway of a street festival to the Olivier stage at The National Theatre, and has had success with previous companies Powder Keg & Paper People Theatre.        
 <hr>         
 **Martin Hamblen** · *iCriedWolves*         
          
@@ -101,7 +101,7 @@ Martin Hamblen's practice is an antisyzygy — a union of opposites — that inc
 <hr>         
 **Nicola Dale** · *Director*         
           
-Working in the crevice between performance & sculpture, Nicola Dale asks what it is to be an object, or be treated as one. Through this focus on 'objecthood', she thinks about how we occupy space & how often we are merely a vessel for someone else’s story, a guest in someone else's space, beholden to someone else's (unspoken) criteria. Exploring objecthood provides an opportunity to take some power back — and offer it to others. An object that can be held, worn, or entered into is a sign that space can be opened up, rather than dominated.          
+Working in the crevice between performance & sculpture, Nicola Dale asks what it is to be an object, or be treated as one.<br>Through this focus on 'objecthood', she thinks about how we occupy space & how often we are merely a vessel for someone else’s story, a guest in someone else's space, beholden to someone else's (unspoken) criteria. Exploring objecthood provides an opportunity to take some power back — and offer it to others. An object that can be held, worn, or entered into is a sign that space can be opened up, rather than dominated.          
          
 Nicola Dale is a Stockport-based visual artist. She has undertaken extensive exhibitions, commissions, residencies, and performances in the UK & internationally. She has recently shown with the Aesthetica Art Prize (longlist), Saatchi Gallery & Bobinska Brownlee (London), Pabst Gallery (Florida), The Hepworth Wakefield, The Grundy (Blackpool).         
 <hr>         
@@ -117,7 +117,7 @@ Insta <a href="https://instagram.com/rambunccc" target="_blank">@rambunccc</a>
          
 *It'll always be there, pulling at you. But you should know that it's damned.<br>By the sons & daughters it'll produce. By the lovers who will depend on it. By your doctors & employers. By the creator of the universe.<br>You are woven into the sin itself. If it were anyone else, it'd be called divine madness.<br>But it's not him, it's you. And it's your cross to bear.<br>Smile! Repent & cleanse yourself. Your purity will be your life force, and your condemnation is the most natural thing in the world.<br>You're a woman now. Happy 12th birthday.*<br>Exploring secrecy & shame around fertility & sexuality, how it manifests in the body, and how to reclaim what can't be purified.         
          
-Robyn Greeves is a contemporary performance artist, physical performer, and textile artist with a focus on creating postmodern performance work to explore & deconstruct politics & human behaviour. She has developed an interest in psychology, feminism, disability, social behaviour, communication, and the sensory experience. She makes work through the mediums of movement-based practices & durational performance.         
+Robyn Greeves is a contemporary performance artist, physical performer, and textile artist with a focus on creating postmodern performance work to explore & deconstruct politics & human behaviour. She has developed an interest in psychology, feminism, disability, social behaviour, communication, the sensory experience. She makes work through the mediums of movement-based practices & durational performance.         
 <hr>         
 **Rowena Gander** · *Bed Death*         
          
@@ -129,6 +129,6 @@ Dr Rowena Gander is an academic / international performance artist who creates t
          
 *On entering the water resist the urge to swim until the cold(shock) has passed.*<br>You are invited to visit Paula The Disappointment at her traditional Ice Cream Cart and exchange your inner most hopes & fears for something more useful.         
          
-Paula Davy is a solo live artist from a background of political activism & protest. Influenced by personal histories, biography, her own feelings of displacement, and strained family relationships, her practice could be described as Live Art happenings. Most of her works are informed by a biographical trilogy: *Paula The Slut*, *Paula The Disappointment*, *Paula The Depressive*, each celebrating a negative aspect of her history.         
+Paula Davy is a solo live artist from a background of political activism & protest. Influenced by personal histories, biography, her own feelings of displacement, and strained family relationships, her practice could be described as Live Art happenings. Most of her works are informed by a biographical trilogy: *Paula The Slut*, *Paula The Disappointment*, *Paula The Depressive* — each celebrating a negative aspect of her history.         
 <hr>         
 <small><span style='font-variant: small-caps'>[back to top](/current/2024-emergency/afternoon)</span></small>
