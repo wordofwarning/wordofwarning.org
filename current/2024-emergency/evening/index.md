@@ -59,7 +59,7 @@ Insta <a href="https://instagram.com/haha.aliwilson" target="_blank">@haha.aliwi
 <hr>          
 **Annie Finn & Poppy Waxman** · *SLABS*         
          
-Twenty minutes of pushing pulling twisting slamming squeezing breathing packing tapping lifting sweating —*SLABS* is made by women who will be doing these things and telling you to watch them.         
+Twenty minutes of pushing pulling twisting slamming squeezing breathing packing tapping lifting sweating — *SLABS* is made by women who will be doing these things and telling you to watch them.         
          
 Created & performed by Annie Finn & Poppy Waxman.         
          
@@ -156,7 +156,7 @@ One woman from the North & one woman from the South. One table at the centre.<br
 Lauren Greer is a Northern Irish, working-class artist currently residing in Manchester. 
 She is a theatre maker, writer, collaborator, creative learning practitioner; with a deep belief in the transformative power of the arts as an educational tool, her practice is heavily influenced by Live Art frameworks & autobiographical experience.<br>Silvana Zuluaga is a Colombian theatre maker whose artistic practice is focused on the actor's training and its potential for creation & research, currently exploring how the female body can serve as a vehicle to shine a light on Latin American culture.         
         
-Insta <a href="https://instagram.com/miotrahermana_" target="_blank">@miotrahermana\_</a>, <a href="https://instagram.com/_i_am_lauren_g_" target="_blank">@\_i\_am\_lauren\_g\_</a>, <a href="https://instagram.com/silvana_a_a_a" target="_blank">@silvana\_a\_a\_a</a>        
+Insta <a href="https://instagram.com/miotrahermana_" target="_blank">@miotrahermana\_</a> , <a href="https://instagram.com/_i_am_lauren_g_" target="_blank">@\_i\_am\_lauren\_g\_</a> , <a href="https://instagram.com/silvana_a_a_a" target="_blank">@silvana\_a\_a\_a</a>        
 <hr>          
 **Shannon Mulvey** · *Matrimonial Anarchy*         
          
