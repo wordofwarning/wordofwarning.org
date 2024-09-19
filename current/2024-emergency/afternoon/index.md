@@ -55,7 +55,7 @@ Billy Gigurtsis is a London-based interdisciplinary choreographer & performer wh
           
 A recurring persona project: a ridiculous character who thinks she can do anything, cause she's American. Her motto is: *"DON’T WORRY!"*         
           
-Diane Dwyer is a Brooklyn (USA)-based interdisciplinary artist with a focus on performance. Recent performances include Performance Art Open (Bergen, Norway) and The Ivory Tower & the Open Worlds (Brooklyn, USA).         
+Diane Dwyer is a Brooklyn (USA)-based interdisciplinary artist with a focus on performance. Recent performances include Performance Art Open (Bergen, Norway) and The Ivory Tower & the Open Worlds (Brooklyn, NY, USA).         
 <hr>         
 **Emergency Chorus** · *Reading and Writing*         
          
@@ -83,7 +83,7 @@ Insta @heatheraliceartist · YT heatheraliceartist
           
 *Every day, I live my time thrice — now, in the past, and in the future.*<br>Live Art by Jennifer Ng, as a response to a kind of floating existence.         
          
-Jennifer Ng is a Singaporean-born interdisciplinary artist who lives & practises art in the UK. Concepts in her work emerge through material experimentations & spatial immersion. She uses embodiment, aesthetics, and practice trajectories stemming from her eclectic cultural experiences to investigate themes of 'existence', 'absence', 'loss/lost, 'distance', 'displacement'.          
+Jennifer Ng is a Singaporean-born interdisciplinary artist who lives & practises art in the UK. Concepts in her work emerge through material experimentations & spatial immersion. She uses embodiment, aesthetics, and practice trajectories stemming from her eclectic cultural experiences to investigate themes of 'existence', 'absence', 'loss/lost', 'distance', 'displacement'.          
 <hr>         
 **Ludo & Jake** · *I.D.S.T.*         
          
@@ -101,7 +101,7 @@ Martin Hamblen's practice is an antisyzygy — a union of opposites — that inc
 <hr>         
 **Nicola Dale** · *Director*         
           
-Working in the crevice between performance & sculpture, Nicola Dale asks what it is to be an object, or be treated as one.<br>Through this focus on 'objecthood', she thinks about how we occupy space & how often we are merely a vessel for someone else’s story, a guest in someone else's space, beholden to someone else's (unspoken) criteria. Exploring objecthood provides an opportunity to take some power back — and offer it to others. An object that can be held, worn, or entered into is a sign that space can be opened up, rather than dominated.          
+Working in the crevice between performance & sculpture, Nicola Dale asks what it is to be an object, or be treated as one.<br>Through this focus on 'objecthood', she thinks about how we occupy space & how often we are merely a vessel for someone else’s story, a guest in someone else's space, beholden to someone else's (unspoken) criteria.<br>Exploring objecthood provides an opportunity to take some power back — and offer it to others. An object that can be held, worn, or entered into is a sign that space can be opened up, rather than dominated.          
          
 Nicola Dale is a Stockport-based visual artist. She has undertaken extensive exhibitions, commissions, residencies, and performances in the UK & internationally. She has recently shown with the Aesthetica Art Prize (longlist), Saatchi Gallery & Bobinska Brownlee (London), Pabst Gallery (Florida), The Hepworth Wakefield, The Grundy (Blackpool).         
 <hr>         
@@ -109,7 +109,7 @@ Nicola Dale is a Stockport-based visual artist. She has undertaken extensive exh
         
 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz          
          
-Riley Hamshaw-Mills is a Lowestoft-based working-class artist involved in producing experimental work from all difference aspects of performance, including Live Art, immersive/site specific, and autobiographical theatre. His work looks to blend the mundane aspects of living with surreal ideas and feelings, with satire and small town working-class attitudes being a through point in a lot of his work.          
+Riley Hamshaw-Mills is a Lowestoft-based working-class artist involved in producing experimental work from all difference aspects of performance, including Live Art, immersive/site specific, and autobiographical theatre. His work looks to blend the mundane aspects of living with surreal ideas & feelings, with satire and small town working-class attitudes being a through point in a lot of his work.          
          
 Insta <a href="https://instagram.com/rambunccc" target="_blank">@rambunccc</a>         
 <hr>         
@@ -129,6 +129,6 @@ Dr Rowena Gander is an academic / international performance artist who creates t
          
 *On entering the water resist the urge to swim until the cold(shock) has passed.*<br>You are invited to visit Paula The Disappointment at her traditional Ice Cream Cart and exchange your inner most hopes & fears for something more useful.         
          
-Paula Davy is a solo live artist from a background of political activism & protest. Influenced by personal histories, biography, her own feelings of displacement, and strained family relationships, her practice could be described as Live Art happenings. Most of her works are informed by a biographical trilogy: *Paula The Slut*, *Paula The Disappointment*, *Paula The Depressive* — each celebrating a negative aspect of her history.         
+Paula Davy is a solo live artist from a background of political activism & protest. Influenced by personal histories, biography, her own feelings of displacement, and strained family relationships, her practice could be described as Live Art happenings. Most of her works are informed by a biographical trilogy — *Paula The Slut*, *Paula The Disappointment*, *Paula The Depressive* — each celebrating a negative aspect of her history.         
 <hr>         
 <small><span style='font-variant: small-caps'>[back to top](/current/2024-emergency/afternoon)</span></small>
