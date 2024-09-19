@@ -17,7 +17,7 @@ season: "Emergency 28|9|2024, Afternoon Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 19 September 2024, 14:22</small>     
+<small>Updated 19 September 2024</small>     
         
 *First half of [Emergency 24](/current/2024-emergency) — an Afternoon of installations, interventions, limited capacity works — presented by* Word of Warning *+* Contact        
          
@@ -137,7 +137,7 @@ Riley Hamshaw-Mills is a Lowestoft-based working-class artist involved in produc
          
 Robyn Greeves is a contemporary performance artist, physical performer, and textile artist with a focus on creating postmodern performance work to explore & deconstruct politics & human behaviour. She has developed an interest in psychology, feminism, disability, social behaviour, communication, the sensory experience. She makes work through the mediums of movement-based practices & durational performance.         
          
-Insta <a href="https://instagram.com/robyngreeves" target="_blank">@robyngreeves</a> · X <a href="https://x.com/robyngreeves" target="_blank">@robyngreeves</a>         
+Insta <a href="https://instagram.com/robyngreeves" target="_blank">@robyngreeves</a>        
 <hr>         
 **Rowena Gander** · *Bed Death*         
          
