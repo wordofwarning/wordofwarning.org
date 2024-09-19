@@ -41,11 +41,11 @@ Queries: please contact <a href="https://contactmcr.com/visit/access" target="_b
 <hr>         
 **Adèle Le Gallez** · *Mortar*         
          
-A man lives & dies for his work on the ninth floor. Exploring two worlds — the story of the man upstairs and the memories of a child on a beach — the performer creates a live soundscape and tells a tale that tries to untangle the grief & pain of letting your childhood dreams die to go & work in concrete buildings.<br>Inspired by John Hartford's 1971 song *In Tall Buildings*, *Mortar* is a show for everyone — the everyday worker — you, me, and the man upstairs.         
+A man lives & dies for his work on the ninth floor.<br>Exploring two worlds — the story of the man upstairs and the memories of a child on a beach — the performer creates a live soundscape and tells a tale that tries to untangle the grief & pain of letting your childhood dreams die to go & work in concrete buildings.<br>Inspired by John Hartford's 1971 song *In Tall Buildings*, *Mortar* is a show for everyone — the everyday worker — you, me, and the man upstairs.         
          
 Special thanks to Manchester School of Theatre at MMU.         
          
-Adèle Le Gallez is a Salford-based writer, performer, and visual artist. Their work explores themes & ideas such as capitalism, religion, childhood dreams. Their solo work has taken the form of installations, soundscapes, poetry, story-telling. 
+Adèle Le Gallez is a Salford-based writer, performer, visual artist, whose work explores themes & ideas such as capitalism, religion, childhood dreams. Their solo work has taken the form of installations, soundscapes, poetry, story-telling. 
 <hr>          
 **Ali Wilson** · *Special Delivery*         
           
@@ -55,7 +55,7 @@ Ali Wilson is a Glasgow-based theatre maker & comedian. Much of her work engages
 <hr>          
 **Drunken Chorus** · *GREATEST HITS*         
          
-A collection of mis-remembered, botched, and wildly confused moments from an 'illustrious' performance career.<br>As the hits are introduced, excitement builds. The two performers begin rifling through real & imagined memories. There is a dance — a big musical number. (Or at least there's meant to be). They put on animal masks, switch on the smoke machine, and do a few high kicks. The Hits are coming thick & fast… But this glitzy compilation of 'best bits' soon loses its way. Cracks begin to open up, and the performers struggle to conceal what's lurking in the wings. As the smoke clears, the familiar shadows of anxiety, burnout, failure, and grief set their sights on centre stage.         
+A collection of mis-remembered, botched, and wildly confused moments from an 'illustrious' performance career.<br>*As the hits are introduced, excitement builds. The two performers begin rifling through real & imagined memories. There is a dance — a big musical number. (Or at least there's meant to be). They put on animal masks, switch on the smoke machine, and do a few high kicks. The 'Hits' are coming thick & fast…<br>But this glitzy compilation of 'best bits' soon loses its way. Cracks begin to open up, and the performers struggle to conceal what's lurking in the wings. As the smoke clears, the familiar shadows of anxiety, burnout, failure, and grief set their sights on centre stage.*         
          
 Devised & performed by Chris Williams & Sheena Holliday.         
          
@@ -117,7 +117,7 @@ Maria Garcia is a Live Artist, director, and costume designer working in film, t
 <hr>          
 **Martha Pailing** · *Sheep Nit*         
          
-*Can a sheep laugh? What happens when it's tickled? Is it still a tickle if they can’t fully feel it? Basically: can you tickle a sheep & how much are they really enjoying it?*<br>Every morning Ted gets up and tickles himself relentlessly & unsuccessfully. He can't make himself laugh, so every day he's started doing it to sheep…<br>A work-in-progress performance exploring the sensations & reactions of 'a light touch', involuntary movements, consent & control, a hunger for human contact, and how far we will go to reach 'feeling happy'.         
+Can a sheep laugh? What happens when it's tickled? Is it still a tickle if they can’t fully feel it? Basically: can you tickle a sheep & how much are they really enjoying it?<br>*Every morning Ted gets up and tickles himself relentlessly & unsuccessfully. He can't make himself laugh, so every day he's started doing it to sheep…*<br>A work-in-progress performance exploring the sensations & reactions of 'a light touch', involuntary movements, consent & control, a hunger for human contact, and how far we will go to reach 'feeling happy'.         
          
 Martha Pailing is a northern-born spoken word & performance artist. Her performances blend personal material with fictional characters to create absurd & tender narratives. Her work considers what it is to remain empathetic & soft in a brutal, emotionally temperamental world. Currently writer-in-residence at Blackpool's The Old Electric, she is a former artist-in-residence at the Roundhouse (London).        
 <hr>          
