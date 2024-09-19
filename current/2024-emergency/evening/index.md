@@ -17,9 +17,9 @@ season: "Emergency 28|9|2024, Evening Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 19 September 2024, 12:50</small>     
+<small>Updated 19 September 2024, 12:55</small>     
         
-*Second half of [Emergency 24](/current/2024-emergency) — an Evening full of short shows from 4pm — presented by* Word of Warning *+* Contact         
+*Second half of [Emergency 24](/current/2024-emergency) — an Evening full of short shows — presented by* Word of Warning *+* Contact         
          
 #### Evening Artists         
 **Saturday 28 September 2024, 4pm-10pm.**<br>Adèle&nbsp;Le&nbsp;Gallez&nbsp;· Ali&nbsp;Wilson&nbsp;· Annie&nbsp;Finn&nbsp;&&nbsp;Poppy&nbsp;Waxman&nbsp;· Drunken&nbsp;Chorus&nbsp;· Isabella&nbsp;Victorie&nbsp;A.&nbsp;· Jana&nbsp;Aizupe&nbsp;&&nbsp;Company&nbsp;· Kelvin&nbsp;Atmadibrata&nbsp;· Lewys&nbsp;Holt&nbsp;· Ludo&nbsp;&&nbsp;Jake&nbsp;· Luke&nbsp;McDonnell&nbsp;· Maria&nbsp;Garcia&nbsp;· Martha&nbsp;Pailing&nbsp;· Mi&nbsp;Otra&nbsp;Hermana&nbsp;· Shannon&nbsp;Mulvey&nbsp;· WilL&nbsp;Dickie&nbsp;· Yafei&nbsp;Zheng          
