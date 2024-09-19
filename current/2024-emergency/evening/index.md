@@ -17,7 +17,7 @@ season: "Emergency 28|9|2024, Evening Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 19 September 2024</small>     
+<small>Updated 19 September 2024, 11:40</small>     
         
 *Second half of [Emergency 24](/current/2024-emergency) — an Evening full of short shows from 4pm — presented by* Word of Warning *+* Contact         
          
@@ -26,7 +26,7 @@ season: "Emergency 28|9|2024, Evening Programme"
          
 <small>*Participating artists subject to change.*</small>         
          
-*NB* last show starts *~9.30pm*; some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time — so you will not be able to see everything.          
+*NB* last show starts *~9.30pm*; some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time — so you will not be able to see everything. The Evening is preceded by an Afternoon of installations, interventions, limited capacity works from Noon.          
          
 #### Evening Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
