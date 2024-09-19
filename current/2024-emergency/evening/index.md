@@ -17,7 +17,7 @@ season: "Emergency 28|9|2024, Evening Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 19 September 2024, 1517</small>     
+<small>Updated 19 September 2024</small>     
         
 *Second half of [Emergency 24](/current/2024-emergency) — an Evening full of short shows — presented by* Word of Warning *+* Contact         
          
@@ -59,13 +59,13 @@ Insta <a href="https://instagram.com/haha.aliwilson" target="_blank">@haha.aliwi
 <hr>          
 **Annie Finn & Poppy Waxman** · *SLABS*         
          
-Twenty minutes of pushing pulling twisting slamming squeezing breathing packing tapping lifting sweating.<br>*SLABS* is made by women who will be doing these things and telling you to watch them.         
+Twenty minutes of pushing pulling twisting slamming squeezing breathing packing tapping lifting sweating —*SLABS* is made by women who will be doing these things and telling you to watch them.         
          
 Created & performed by Annie Finn & Poppy Waxman.         
          
-Annie Finn is a queer interdisciplinary artist whose work focuses on the power of the human body & how it exists in the world. She is a co-founder & producer at drag company Dribs & Drags.<br>*SLABS* made its international debut in BIFALD festival (Denmark) in October 2023.         
+Annie Finn is a queer interdisciplinary artist whose work focuses on the power of the human body & how it exists in the world. She is a co-founder & producer at drag company Dribs & Drags.<br>*SLABS* made its international debut in BIFALD festival (Denmark) in 2023.         
          
-Insta <a href="https://instagram.com/annniefinnnn" target="_blank">@annniefinnnn </a> & <a href="https://instagram.com/waxmanharrietpoppy" target="_blank">@waxmanharrietpoppy</a>         
+Insta <a href="https://instagram.com/annnnieef" target="_blank">@annnnieef</a> & <a href="https://instagram.com/waxmanharrietpoppy" target="_blank">@waxmanharrietpoppy</a>         
 <hr>          
 **Drunken Chorus** · *GREATEST HITS*         
          
@@ -156,7 +156,7 @@ One woman from the North & one woman from the South. One table at the centre.<br
 Lauren Greer is a Northern Irish, working-class artist currently residing in Manchester. 
 She is a theatre maker, writer, collaborator, creative learning practitioner; with a deep belief in the transformative power of the arts as an educational tool, her practice is heavily influenced by Live Art frameworks & autobiographical experience.<br>Silvana Zuluaga is a Colombian theatre maker whose artistic practice is focused on the actor's training and its potential for creation & research, currently exploring how the female body can serve as a vehicle to shine a light on Latin American culture.         
         
-Insta <a href="https://instagram.com/miotrahermana_" target="_blank">@miotrahermana_</a>: <a href="https://instagram.com/_i_am_lauren_g_" target="_blank">@_i_am_lauren_g_</a> & <a href="https://instagram.com/silvana_a_a_a" target="_blank">@silvana_a_a_a</a>        
+Insta <a href="https://instagram.com/miotrahermana_" target="_blank">@miotrahermana\_</a>, <a href="https://instagram.com/_i_am_lauren_g_" target="_blank">@\_i\_am\_lauren\_g\_</a>, <a href="https://instagram.com/silvana_a_a_a" target="_blank">@silvana\_a\_a\_a</a>        
 <hr>          
 **Shannon Mulvey** · *Matrimonial Anarchy*         
          
@@ -177,7 +177,7 @@ Created & performed by WilL Dickie, with outside eye support from Fabíola Santa
          
 WilL Dickie is a Liverpool-based self-produced interdisciplinary artist & Feldenkrais practitioner. Recent lead artist works include *White Sun*, *The Rave Space*. Recent collaborations include *A Home for Grief* with Fabíola Santana, Hanna Tuulikki's *Echo in the Dark*.         
          
-<a href="https://willdickie.co.uk" target="_blank">willdickie.co.uk</a> · Insta <a href="https://instagram.com/will_dickie_" target="_blank">@will_dickie_</a>         
+<a href="http://www.willdickie.co.uk" target="_blank">willdickie.co.uk</a> · Insta <a href="https://instagram.com/will_dickie_" target="_blank">@will\_dickie\_</a>         
 <hr>          
 **Yafei Zheng** · *Is There Work on Mars?*         
          
