@@ -97,7 +97,7 @@ Lewys Holt is a Leeds-based interdisciplinary dance artist. They work as a dance
            
 Created & performed by Jake Walton & Ludovica Tagariello.          
          
-Ludovica Tagariello is an Italian multifaceted artist, physical theatre performer & maker, who is involved in performative activities both in Italy with her company and in the UK as an individual.<br>Jake Walton is a northern working-class theatre maker, producer, and actor. He has performed internationally across various locations ranging from an alleyway of a street festival to the Olivier stage at The National Theatre, and has had success with previous companies Powder Keg & Paper People Theatre.         
+Ludovica Tagariello is an Italian multifaceted artist, physical theatre performer & maker, who is involved in performative activities both in Italy with her company and in the UK as an individual.<br>Jake Walton is a northern working-class theatre maker, producer, actor. He has performed internationally across various locations ranging from an alleyway of a street festival to the Olivier stage at The National Theatre, and has had success with previous companies Powder Keg & Paper People Theatre.         
 <hr>          
 **Luke McDonnell** · *Is There Anybody Out There?*         
          
