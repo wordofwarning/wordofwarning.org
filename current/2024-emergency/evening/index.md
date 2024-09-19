@@ -17,7 +17,7 @@ season: "Emergency 28|9|2024, Evening Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 19 September 2024, 12:55</small>     
+<small>Updated 19 September 2024, 1458</small>     
         
 *Second half of [Emergency 24](/current/2024-emergency) — an Evening full of short shows — presented by* Word of Warning *+* Contact         
          
@@ -101,13 +101,15 @@ Insta <a href="https://instagram.com/1001create" target="_blank">@1001create</a>
           
 Kelvin Atmadibrata recruits superpowers awakened by puberty & adolescent fantasy, personifying power & strength into fanfiction antiheroes to contest the masculine meta & erotica. He works primarily with performance, often accompanied by & translated into drawings, mixed media collages, and objects compiled as installations. Approached as bricolages, Kelvin translates narratives and recreates personifications based on role-playing video game theories & pop mythologies.         
          
-<a href="https://kelvinatmadibrata.com" target="_blank">kelvinatmadibrata.com</a> · Fb <a href="https://facebook.com/kelvin.atmadibrata" target="_blank">kelvin.atmadibrata</a> · Insta <a href="https://instagram.com/kelvinatmadibrata" target="_blank">@kelvinatmadibrata</a>         
+<a href="https://kelvinatmadibrata.com" target="_blank">kelvinatmadibrata.com</a> · Insta <a href="https://instagram.com/kelvinatmadibrata" target="_blank">@kelvinatmadibrata</a>         
 <hr>          
 **Lewys Holt** · *Twenty Minute Set*         
          
 Fusing dance, stand-up, theatre, and song into twenty minutes of discussions, demonstrations, and dances about such subjects as: the passing of time, guilt, Duracell bunnies, bus timetables, existential philosophy.<br>Often humorous & profound, these heavily practised, yet unplanned & unscripted, performances are thrilling experiences of shared risk between the performer & the audience which are not to be missed.         
          
 Lewys Holt is a Leeds-based interdisciplinary dance artist. They work as a dancer, choreographer, and curate Roadhouse (Leeds) with Eleanor Sikorski. Their practice, while focusing on dance, spans comedy & devised theatre. They have worked as a dancer with New Art Club, Simone Mousset, Tino Sehgal, Rosemary Lee, Christopher Owen, among others.         
+         
+<a href="https://lewysholt.com" target="_blank">lewysholt.com</a> · Insta <a href="https://instagram.com/lewysholt" target="_blank">@lewysholt</a>         
 <hr>          
 **Ludo & Jake** · *I.D.S.T.*         
          
@@ -116,6 +118,8 @@ Lewys Holt is a Leeds-based interdisciplinary dance artist. They work as a dance
 Created & performed by Jake Walton & Ludovica Tagariello.          
          
 Ludovica Tagariello is an Italian multifaceted artist, physical theatre performer & maker, who is involved in performative activities both in Italy with her company and in the UK as an individual.<br>Jake Walton is a northern working-class theatre maker, producer, actor. He has performed internationally across various locations ranging from an alleyway of a street festival to the Olivier stage at The National Theatre, and has had success with previous companies Powder Keg & Paper People Theatre.         
+         
+Insta <a href="https://instagram.com/occhio_loco" target="_blank">@occhio_loco</a> & <a href="https://instagram.com/jakewalton91" target="_blank">@jakewalton91</a>         
 <hr>          
 **Luke McDonnell** · *Is There Anybody Out There?*         
          
@@ -124,6 +128,8 @@ Ludovica Tagariello is an Italian multifaceted artist, physical theatre performe
 First commissioned by University of Salford.         
          
 Luke McDonnell is a theatre maker & facilitator, living & working in Manchester for the last seven years. His work explores complex ideas in fun & accessible ways. Expect audience participation, conversations, and game playing.         
+         
+<a href="https://lukemcdonnell.co.uk" target="_blank">lukemcdonnell.co.uk</a> · Insta <a href="https://instagram.com/luke__mcdonnell" target="_blank">@luke__mcdonnell</a>         
 <hr>          
 **Maria Garcia** · *Bees and Beasts and the Horrish Fish Tales Draft 1*         
          
