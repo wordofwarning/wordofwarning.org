@@ -17,7 +17,7 @@ season: "Emergency 28|9|2024, Afternoon Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 19 September 2024</small>     
+<small>Updated 19 September 2024, 11:40</small>     
         
 *First half of [Emergency 24](/current/2024-emergency) — an Afternoon of installations, interventions, limited capacity works — presented by* Word of Warning *+* Contact        
          
@@ -26,7 +26,7 @@ season: "Emergency 28|9|2024, Afternoon Programme"
          
 <small>*Participating artists subject to change.*</small>         
 
-*NB* some artists will take breaks on an ad hoc basis, some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time — so you will not be able to see everything.          
+*NB* some artists will take breaks on an ad hoc basis, some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time — so you will not be able to see everything. The Afternoon is followed by an Evening full of short shows to 10pm.         
          
 #### Afternoon Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
