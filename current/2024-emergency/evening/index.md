@@ -17,7 +17,7 @@ season: "Emergency 28|9|2024, Evening Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 19 September 2024, 1458</small>     
+<small>Updated 19 September 2024, 1517</small>     
         
 *Second half of [Emergency 24](/current/2024-emergency) — an Evening full of short shows — presented by* Word of Warning *+* Contact         
          
@@ -138,12 +138,16 @@ A Live Art psychological tragicomedy, exploring themes of pain, pollination, and
 Designer, director, performer, writer: Maria Garcia · Performer: Ruby Antonowicz-Behnan · Cinematographer: Wesley Cardino<br>Thank you to SPILL Think Tank.         
          
 Maria Garcia is a Live Artist, director, and costume designer working in film, theatre, dance, performance art. Her interdisciplinary investigations are cinematic, haunting, and often centre around death, 'liveness', pain, migration.         
+         
+<a href="https://garcialivecostumeart.com/performance-art" target="_blank">garcialivecostumeart.com/performance-art</a> · Insta <a href="https://instagram.com/mgarciajo" target="_blank">@mgarciajo</a>         
 <hr>          
 **Martha Pailing** · *Sheep Nit*         
          
 Can a sheep laugh? What happens when it's tickled? Is it still a tickle if they can’t fully feel it? Basically: can you tickle a sheep & how much are they really enjoying it?<br>*Every morning Ted gets up and tickles himself relentlessly & unsuccessfully. He can't make himself laugh, so every day he's started doing it to sheep…*<br>A work-in-progress performance exploring the sensations & reactions of 'a light touch', involuntary movements, consent & control, a hunger for human contact, and how far we will go to reach 'feeling happy'.         
          
 Martha Pailing is a northern-born spoken word & performance artist. Her performances blend personal material with fictional characters to create absurd & tender narratives. Her work considers what it is to remain empathetic & soft in a brutal, emotionally temperamental world. Currently writer-in-residence at Blackpool's The Old Electric, she is a former artist-in-residence at the Roundhouse (London).        
+         
+<a href="https://marthapailing.com" target="_blank">marthapailing.com</a> · Insta <a href="https://instagram.com/marthapailing" target="_blank">@marthapailing</a>         
 <hr>          
 **Mi Otra Hermana** · *My Other Sister*         
          
@@ -152,7 +156,7 @@ One woman from the North & one woman from the South. One table at the centre.<br
 Lauren Greer is a Northern Irish, working-class artist currently residing in Manchester. 
 She is a theatre maker, writer, collaborator, creative learning practitioner; with a deep belief in the transformative power of the arts as an educational tool, her practice is heavily influenced by Live Art frameworks & autobiographical experience.<br>Silvana Zuluaga is a Colombian theatre maker whose artistic practice is focused on the actor's training and its potential for creation & research, currently exploring how the female body can serve as a vehicle to shine a light on Latin American culture.         
         
-<a href="https://msha.ke/laurengreerperformanceartist" target="_blank">msha.ke/laurengreerperformanceartist</a> · Insta <a href="https://instagram.com/_i_am_lauren_g_" target="_blank">@\_i\_am\_lauren\_g\_</a> · X <a href="https://x.com/_i_am_lauren_g_" target="_blank">@\_i\_am\_lauren\_g\_</a>        
+Insta <a href="https://instagram.com/miotrahermana_" target="_blank">@miotrahermana_</a>: <a href="https://instagram.com/_i_am_lauren_g_" target="_blank">@_i_am_lauren_g_</a> & <a href="https://instagram.com/silvana_a_a_a" target="_blank">@silvana_a_a_a</a>        
 <hr>          
 **Shannon Mulvey** · *Matrimonial Anarchy*         
          
@@ -161,6 +165,8 @@ A feminist performance art piece that challenges traditional notions of feminini
 Created & performed at the Royal Central School of Speech & Drama, with thanks to Hannah Ballou, RCSSD, Lance Johnson.         
          
 Shannon Mulvey is a performance artist & lecturer. The Artistic Director of Sisters of Eden, an intersectional feminist performance collective, she has created performances that boldly challenge patriarchy, earning critical acclaim. Her work delves into autobiographical themes & the politics of identity within contemporary culture.         
+         
+<a href="https://shannonmulvey.com" target="_blank">shannonmulvey.com</a> · Insta <a href="https://instagram.com/smperformanceart" target="_blank">@smperformanceart</a>          
 <hr>          
 **WilL Dickie** · *Feeling words*         
          
@@ -170,6 +176,8 @@ Could we de-throne verbal calculations for a moment, and dance with feelings tha
 Created & performed by WilL Dickie, with outside eye support from Fabíola Santana.         
          
 WilL Dickie is a Liverpool-based self-produced interdisciplinary artist & Feldenkrais practitioner. Recent lead artist works include *White Sun*, *The Rave Space*. Recent collaborations include *A Home for Grief* with Fabíola Santana, Hanna Tuulikki's *Echo in the Dark*.         
+         
+<a href="https://willdickie.co.uk" target="_blank">willdickie.co.uk</a> · Insta <a href="https://instagram.com/will_dickie_" target="_blank">@will_dickie_</a>         
 <hr>          
 **Yafei Zheng** · *Is There Work on Mars?*         
          
@@ -178,5 +186,7 @@ WilL Dickie is a Liverpool-based self-produced interdisciplinary artist & Felden
 Writer & performer: Yafei Zheng · Sound design: Pannavich Weswibul & Charlie Nelson · Audio description consultant: Lily An         
 
 Yafei Zheng is a London-based interdisciplinary performance & video artist from Beijing. Her work engages with societal issues and explores themes such as diaspora, mental health, feminism, neurodiversity. Yafei's solo shows have been performed at Edinburgh Fringe, Camden Fringe, Peckham Fringe.         
+          
+<a href="https://yafeizheng.com" target="_blank">yafeizheng.com</a> · Insta <a href="https://instagram.com/fei_yafeiz" target="_blank">@fei_yafeiz</a> & <a href="https://instagram.com/isthereworkonmars" target="_blank">@isthereworkonmars</a>         
 <hr>         
 <small><span style='font-variant: small-caps'>[back to top](/current/2024-emergency/evening)</span></small>
