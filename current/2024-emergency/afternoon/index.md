@@ -17,7 +17,7 @@ season: "Emergency 28|9|2024, Afternoon Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 19 September 2024</small>     
+<small>Updated 20 September 2024</small>     
         
 *First half of [Emergency 24](/current/2024-emergency) — an Afternoon of installations, interventions, limited capacity works — presented by* Word of Warning *+* Contact        
          
@@ -91,9 +91,11 @@ Heather Alice White is a Manchester-based emerging artist whose practice is root
 <hr>         
 **Jennifer Ng** · *Same Moon But Different Suns*         
           
-*Every day, I live my time thrice — now, in the past, and in the future.*<br>Live Art by Jennifer Ng, as a response to a kind of floating existence.         
+*Every day, I live my time thrice — now, in the past, and in the future.*<br>A durational performance by Jennifer Ng, as a response to a kind of floating existence.         
          
-Jennifer Ng is a Singaporean-born interdisciplinary artist who lives & practises art in the UK. Concepts in her work emerge through material experimentations & spatial immersion. She uses embodiment, aesthetics, and practice trajectories stemming from her eclectic cultural experiences to investigate themes of 'existence', 'absence', 'loss/lost', 'distance', 'displacement'.          
+Dr Jennifer Ng is a Singaporean-born interdisciplinary artist who lives & practises art in the UK. Concepts in her work emerge through material experimentations & spatial immersion. She uses embodiment, aesthetics, and practice trajectories stemming from her eclectic cultural experiences to investigate themes of 'existence/absence', 'loss/lost', 'distance/displacement'.          
+          
+Sound design: Music by Numbers           
          
 <a href="https://jennifernsy.com" target="_blank">jennifernsy.com</a> · Insta <a href="https://instagram.com/jenniferngart" target="_blank">@jenniferngart</a>          
 <hr>         
