@@ -17,7 +17,7 @@ season: "Emergency 28|9|2024, Evening Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 19 September 2024</small>     
+<small>Updated 20 September 2024</small>     
         
 *Second half of [Emergency 24](/current/2024-emergency) — an Evening full of short shows — presented by* Word of Warning *+* Contact         
          
@@ -143,7 +143,8 @@ Maria Garcia is a Live Artist, director, and costume designer working in film, t
 <hr>          
 **Martha Pailing** · *Sheep Nit*         
          
-Can a sheep laugh? What happens when it's tickled? Is it still a tickle if they can’t fully feel it? Basically: can you tickle a sheep & how much are they really enjoying it?<br>*Every morning Ted gets up and tickles himself relentlessly & unsuccessfully. He can't make himself laugh, so every day he's started doing it to sheep…*<br>A work-in-progress performance exploring the sensations & reactions of 'a light touch', involuntary movements, consent & control, a hunger for human contact, and how far we will go to reach 'feeling happy'.         
+Can a sheep laugh? What happens when it's tickled? Is it still a tickle if they can’t fully feel it? Basically: can you tickle a sheep & how much are they really enjoying it?<br>*Every morning Ted gets up and tickles himself relentlessly & unsuccessfully. He can't make himself laugh, 
+so he's started doing it to sheep on the daily…*<br>*Sheep Nit* is a work-in-progress performance exploring the sensations & reactions of 'a light touch', involuntary movements, consent & control, a hunger for human contact, and how far we will go to reach 'feeling happy'.         
          
 Martha Pailing is a northern-born spoken word & performance artist. Her performances blend personal material with fictional characters to create absurd & tender narratives. Her work considers what it is to remain empathetic & soft in a brutal, emotionally temperamental world. Currently writer-in-residence at Blackpool's The Old Electric, she is a former artist-in-residence at the Roundhouse (London).        
          
