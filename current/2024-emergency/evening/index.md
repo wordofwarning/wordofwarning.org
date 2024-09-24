@@ -17,7 +17,7 @@ season: "Emergency 28|9|2024, Evening Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 20 September 2024</small>     
+<small>Updated 24 September 2024</small>     
         
 *Second half of [Emergency 24](/current/2024-emergency) — an Evening full of short shows — presented by* Word of Warning *+* Contact         
          
@@ -41,11 +41,11 @@ Queries: please contact <a href="https://contactmcr.com/visit/access" target="_b
 <hr>         
 **Adèle Le Gallez** · *Mortar*         
          
-A man lives & dies for his work on the ninth floor.<br>Exploring two worlds — the story of the man upstairs and the memories of a child on a beach — the performer creates a live soundscape and tells a tale that tries to untangle the grief & pain of letting your childhood dreams die to go & work in concrete buildings.<br>Inspired by John Hartford's 1971 song *In Tall Buildings*, *Mortar* is a show for everyone — the everyday worker — you, me, and the man upstairs.         
+Live soundscape & storytelling on the 9th floor.<br>A playful dissection about the grief & pain of going to work in concrete buildings.         
          
 Special thanks to Manchester School of Theatre at MMU.         
          
-Adèle Le Gallez is a Salford-based writer, performer, visual artist, whose work explores themes & ideas such as capitalism, religion, childhood dreams. Their solo work has taken the form of installations, soundscapes, poetry, story-telling.         
+Adèle Le Gallez is a Salford-based writer & performer. Their work explores themes & ideas such as capitalism, religion, loss. Having previously performed *Mortar* this year at Camden People's Theatre, Adèle also spent four years as part of Bristol-based dance-duo Skin. They most recently published their work in local Manchester zine *Write To The City*, where poets were free to scribe hopes / list demands for the future.         
          
 <a href="https://adelegallez.wixsite.com/portfolio" target="_blank">adelegallez.wixsite.com/portfolio</a> · Insta <a href="https://instagram.com/adele.legallez" target="_blank">@adele.legallez</a>         
 <hr>          
@@ -131,7 +131,7 @@ Luke McDonnell is a theatre maker & facilitator, living & working in Manchester 
          
 <a href="https://lukemcdonnell.co.uk" target="_blank">lukemcdonnell.co.uk</a> · Insta <a href="https://instagram.com/luke__mcdonnell" target="_blank">@luke__mcdonnell</a>         
 <hr>          
-**Maria Garcia** · *Bees and Beasts and the Horrish Fish Tales Draft 1*         
+**Maria Garcia** · *Bees and Beasts and the Horrish FishTales Draft 1*         
          
 A Live Art psychological tragicomedy, exploring themes of pain, pollination, and captivity.<br>Set to Verdi's *Rigoletto*, this one-woman show follows an endometriosis surgeon who, after surviving a nightmarish shipwreck, finds herself trapped on an island with menacing beekeepers who want to use her womb to bring back an extinct species of bees. The absurd story, which is somewhat biographical, invites audience members to experience & imagine Gilda's dreams & nightmares as she stage manages her own death(s).         
          
