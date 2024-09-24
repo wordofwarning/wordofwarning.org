@@ -41,11 +41,11 @@ Queries: please contact <a href="https://contactmcr.com/visit/access" target="_b
 <hr>         
 **Adèle Le Gallez** · *Mortar*         
          
-Live soundscape & storytelling on the 9th floor.<br>A playful dissection about the grief & pain of going to work in concrete buildings.         
+Live soundscape & storytelling on the 9th floor. A playful dissection about the grief & pain of going to work in concrete buildings.         
          
 Special thanks to Manchester School of Theatre at MMU.         
          
-Adèle Le Gallez is a Salford-based writer & performer. Their work explores themes & ideas such as capitalism, religion, loss. Having previously performed *Mortar* this year at Camden People's Theatre, Adèle also spent four years as part of Bristol-based dance-duo Skin. They most recently published their work in local Manchester zine *Write To The City*, where poets were free to scribe hopes / list demands for the future.         
+Adèle Le Gallez is a Salford-based writer & performer. Their work explores themes & ideas such as capitalism, religion, loss. Having previously performed *Mortar* this year at Camden People's Theatre, Adèle also spent four years as part of Bristol-based dance-duo *Skin*. They most recently published their work in local Manchester zine *Write To The City*, where poets were free to scribe hopes / list demands for the future.         
          
 <a href="https://adelegallez.wixsite.com/portfolio" target="_blank">adelegallez.wixsite.com/portfolio</a> · Insta <a href="https://instagram.com/adele.legallez" target="_blank">@adele.legallez</a>         
 <hr>          
