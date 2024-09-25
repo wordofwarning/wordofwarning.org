@@ -107,7 +107,7 @@ A symbiotic relationship revealed in an extra-ordinary liminal space that behave
            
 Created & performed by Jake Walton & Ludovica Tagariello.          
          
-Ludovica Tagariello is an Italian multifaceted artist, physical theatre performer & maker, who is involved in performative activities both in Italy with her company Alot Teatro and in the UK as an individual.<br>Jake Walton is a northern working-class theatre maker, producer, actor. He has performed internationally across various locations ranging from an alleyway of a street festival to the Olivier stage at The National Theatre.<br>Both are recent graduates from an MA in Theatre Lab from RADA and this is their first work together.         
+Ludovica Tagariello is an Italian multifaceted artist, physical theatre performer & maker, who is involved in performative activities both in Italy with her company Alot Teatro and in the UK as an individual.<br>Jake Walton is a northern working-class theatre maker, producer, and actor. He has performed internationally across various locations ranging from an alleyway of a street festival to the Olivier stage at The National Theatre.<br>Both are recent graduates from an MA in Theatre Lab at RADA and this is their first work together.         
          
 Insta <a href="https://instagram.com/occhio_loco" target="_blank">@occhio_loco</a> & <a href="https://instagram.com/jakewalton91" target="_blank">@jakewalton91</a>         
 <hr>         
