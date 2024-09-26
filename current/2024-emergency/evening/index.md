@@ -87,11 +87,11 @@ Insta <a href="https://instagram.com/is.vi.a_" target="_blank">@is.vi.a_</a>
 <hr>          
 **Jana Aizupe & Company** · *if I stay here any longer I will stay here forever*         
          
-That feeling when you keep making coffee thinking "*okay, I will make coffee & then I will start*", "*okay, I will go for a walk & then I will start*". The start turns into staring onto a blank page. Getting up. Making another coffee…<br>An experimental performance piece with live music about the inability to begin.         
+That feeling when you keep making coffee thinking "*okay, I will make coffee & then I will start*", "*okay, I will go for a walk & then I will start*". The "start" turns into staring at a blank page. Getting up. Making another coffee…<br>An experimental performance piece with live music about the inability to begin.         
          
 Director: Jana Aizupe · Musicians: Dara Hughes & Amelia Dunne         
 
-Jana is a West Midlands-based working-class theatre artist, primarily working through devising, movement, film. She is a trained street dancer, therefore values non-verbal connections through shared movements in space. She is also very passionate about applied theatre, putting emphasis on the process of co-creation.          
+Jana Aizupe is a West Midlands-based working-class theatre artist, primarily working through devising, movement, film. She is a trained street dancer, therefore values non-verbal connections through shared movements in space. She is also very passionate about applied theatre, putting emphasis on the process of co-creation.          
          
 Insta <a href="https://instagram.com/1001create" target="_blank">@1001create</a>        
 <hr>          
