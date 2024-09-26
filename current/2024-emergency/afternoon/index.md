@@ -131,7 +131,7 @@ Nicola Dale is a Stockport-based visual artist. She has undertaken extensive exh
         
 zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz          
          
-Riley Hamshaw-Mills is a Lowestoft-based working-class artist involved in producing experimental work from all difference aspects of performance, including Live Art, immersive/site specific, and autobiographical theatre. His work looks to blend the mundane aspects of living with surreal ideas & feelings, with satire and small town working-class attitudes being a through point in a lot of his work.          
+Riley Hamshaw-Mills is a Lowestoft-based working-class artist involved in producing experimental work from all different aspects of performance, including Live Art, immersive/site specific, and autobiographical theatre. His work looks to blend the mundane aspects of living with surreal ideas & feelings, with satire and small town working-class attitudes being a through point in a lot of his work.          
          
 <a href="https://rileyhamshawmills.com" target="_blank">rileyhamshawmills.com</a> · Insta <a href="https://instagram.com/rambunccc" target="_blank">@rambunccc</a>         
 <hr>         
@@ -153,7 +153,7 @@ Dr Rowena Gander is an academic / international performance artist who creates t
 <hr>         
 **The Paula Davy** · *I Scream*         
          
-*On entering the water resist the urge to swim until the cold(shock) has passed.*<br>You are invited to visit Paula The Disappointment at her traditional Ice Cream Cart and exchange your inner most hopes & fears for something more useful.         
+*On entering the water, resist the urge to swim until the cold(shock) has passed.*<br>You are invited to visit Paula The Disappointment at her traditional Ice Cream Cart and exchange your inner most hopes & fears for something more useful.         
          
 Paula Davy is a solo live artist from a background of political activism & protest. Influenced by personal histories, biography, her own feelings of displacement, and strained family relationships, her practice could be described as Live Art happenings. Most of her works are informed by a biographical trilogy — *Paula The Slut*, *Paula The Disappointment*, *Paula The Depressive* — each celebrating a negative aspect of her history.         
          
