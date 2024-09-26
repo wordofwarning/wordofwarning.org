@@ -91,9 +91,9 @@ Heather Alice White is a Manchester-based emerging artist whose practice is root
 <hr>         
 **Jennifer Ng** · *Same Moon But Different Suns*         
           
-*Every day, I live my time thrice — now, in the past, and in the future.*<br>A durational performance by Jennifer Ng, as a response to a kind of floating existence.         
+*Every day, I live my time thrice — now, in the past, and in the future.*<br>A durational performance by Jennifer Ng, as a response to a dislocated form of floating existence.         
          
-Dr Jennifer Ng is a Singaporean-born interdisciplinary artist who lives & practises art in the UK. Concepts in her work emerge through material experimentations & spatial immersion. She uses embodiment, aesthetics, and practice trajectories stemming from her eclectic cultural experiences to investigate themes of 'existence/absence', 'loss/lost', 'distance/displacement'.          
+Dr Jennifer Ng is a Singaporean-born interdisciplinary artist who lives & practises art in the UK. Concepts in her work emerge through material experimentations & spatial immersion. She uses embodiment aesthetics, and practice trajectories stemming from her eclectic cultural experiences to investigate themes of 'existence/absence', 'loss/lost', 'distance/displacement'.          
           
 Sound design: Music by Numbers           
          
