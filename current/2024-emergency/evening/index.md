@@ -61,9 +61,9 @@ Insta <a href="https://instagram.com/haha.aliwilson" target="_blank">@haha.aliwi
          
 Twenty minutes of pushing pulling twisting slamming squeezing breathing packing tapping lifting sweating — *SLABS* is made by women who will be doing these things and telling you to watch them.         
          
-Created & performed by Annie Finn & Poppy Waxman.         
+Created & performed by Annie Finn & Poppy Waxman.<br>*SLABS* made its international debut in BIFALD festival (Denmark) in 2023.           
          
-Annie Finn is a queer interdisciplinary artist whose work focuses on the power of the human body & how it exists in the world. She is a co-founder & producer at drag company Dribs & Drags.<br>*SLABS* made its international debut in BIFALD festival (Denmark) in 2023.         
+Annie Finn is a queer interdisciplinary artist whose work focuses on the power of the human body & how it exists in the world. She is a co-founder & producer at drag company Dribs & Drags.         
          
 Insta <a href="https://instagram.com/annnnieef" target="_blank">@annnnieef</a> & <a href="https://instagram.com/waxmanharrietpoppy" target="_blank">@waxmanharrietpoppy</a>         
 <hr>          
