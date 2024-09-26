@@ -97,7 +97,7 @@ Insta <a href="https://instagram.com/1001create" target="_blank">@1001create</a>
 <hr>          
 **Kelvin Atmadibrata** · *but nothing happened!*         
          
-*Like a carp climbing up a waterfall to become a dragon…*<br>This ode to growing old, to ageing, to maturity, and perhaps to adulting, starts life clean, new, and pristine — but slowly turns muddy-gold through touring repetition, documenting the journey of the work, and placing importance on the body as a vessel & breathing mannequin.<br>An homage to Nintendo's 1996-ongoing series of video game, Pokemon's infamous *Magikarp*, the work borrows its signature (and caricature) move 'Splash' as its main point of reference.          
+*Like a carp climbing up a waterfall to become a dragon…*<br>This ode to growing old, to ageing, to maturity, and perhaps to adulting, starts life clean, new, and pristine — but slowly turns muddy-gold through touring repetition, documenting the journey of the work, and placing importance on the body as a vessel & breathing mannequin.<br>An homage to Nintendo's 1996-ongoing series of video game, Pokemon's infamous *Magikarp*, the work borrows its signature caricature move 'Splash' as its main point of reference.          
           
 Kelvin Atmadibrata recruits superpowers awakened by puberty & adolescent fantasy, personifying power & strength into fanfiction antiheroes to contest the masculine meta & erotica. He works primarily with performance, often accompanied by & translated into drawings, mixed media collages, and objects compiled as installations. Approached as bricolages, Kelvin translates narratives and recreates personifications based on role-playing video game theories & pop mythologies.         
          
