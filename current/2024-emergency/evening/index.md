@@ -107,7 +107,7 @@ Kelvin Atmadibrata recruits superpowers awakened by puberty & adolescent fantasy
          
 Fusing dance, stand-up, theatre, and song into twenty minutes of discussions, demonstrations, and dances about such subjects as: the passing of time, guilt, Duracell bunnies, bus timetables, existential philosophy.<br>Often humorous & profound, these heavily practised, yet unplanned & unscripted, performances are thrilling experiences of shared risk between the performer & the audience which are not to be missed.         
          
-Lewys Holt is a Leeds-based interdisciplinary dance artist. They work as a dancer, choreographer, and curate Roadhouse (Leeds) with Eleanor Sikorski. Their practice, while focusing on dance, spans comedy & devised theatre. They have worked as a dancer with New Art Club, Simone Mousset, Tino Sehgal, Rosemary Lee, Christopher Owen, among others.         
+Lewys Holt is a Leeds-based interdisciplinary dance artist. They work as a dancer, choreographer, and curates Roadhouse (Leeds) with Eleanor Sikorski. Their practice, while focusing on dance, spans comedy & devised theatre. They have worked as a dancer with New Art Club, Simone Mousset, Tino Sehgal, Rosemary Lee, Christopher Owen, among others.         
          
 <a href="https://lewysholt.com" target="_blank">lewysholt.com</a> · Insta <a href="https://instagram.com/lewysholt" target="_blank">@lewysholt</a>         
 <hr>          
