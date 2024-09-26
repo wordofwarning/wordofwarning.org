@@ -69,11 +69,11 @@ Insta <a href="https://instagram.com/annnnieef" target="_blank">@annnnieef</a> &
 <hr>          
 **Drunken Chorus** · *GREATEST HITS*         
          
-A collection of mis-remembered, botched, and wildly confused moments from an 'illustrious' performance career.<br>*As the hits are introduced, excitement builds. The two performers begin rifling through real & imagined memories. There is a dance — a big musical number. (Or at least there's meant to be). They put on animal masks, switch on the smoke machine, and do a few high kicks. The 'Hits' are coming thick & fast…<br>But this glitzy compilation of 'best bits' soon loses its way. Cracks begin to open up, and the performers struggle to conceal what's lurking in the wings. As the smoke clears, the familiar shadows of anxiety, burnout, failure, and grief set their sights on centre stage.*         
+A collection of mis-remembered, botched, and wildly confused moments from an 'illustrious' performance career.<br>As the hits are introduced, excitement builds. The two performers begin rifling through real & imagined memories. There is a dance — a big musical number. (Or at least there's meant to be). They put on animal masks, switch on the smoke machine, and do a few high kicks. The hits are coming thick & fast…<br>But this glitzy compilation of 'best bits' soon loses its way. Cracks begin to open up, and the performers struggle to conceal what's lurking in the wings. As the smoke clears, the familiar shadows of anxiety, burnout, failure, and grief set their sights on centre stage.         
          
 Devised & performed by Chris Williams & Sheena Holliday.         
          
-Drunken Chorus was formed in the NW in the late 2000's, to make & tour live performance. Their work has since evolved & developed to include running artist support programmes, live events like *DRUNKEN NIGHTS*, and major arts festivals including the Mayor of London's *Liberty Festival*. Because of this, they haven't made work of their own in a very long time; *GREATEST HITS* will be their first new performance in over seven years.         
+Drunken Chorus was formed in the NW in the late 2000s, to make & tour live performance. Their work has evolved & developed since then, to include running artist support programmes, live events like DRUNKEN NIGHTS, and major arts festivals including the Mayor of London's Liberty Festival. Because of this, they haven't made work of their own in a very long time. *GREATEST HITS* will be their first new performance in over seven years.         
          
 <a href="https://drunkenchorus.co.uk" target="_blank">drunkenchorus.co.uk</a> · Insta <a href="https://instagram.com/drunken.chorus" target="_blank">@drunken.chorus</a>         
 <hr>          
