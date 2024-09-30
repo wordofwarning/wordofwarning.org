@@ -16,17 +16,17 @@ season: "Emergency by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 3 September 2024</small>        
+<small>Updated 30 September 2024</small>        
         
 **Emergency** is our annual platform for Live Art and contemporary performance — offering a sneak preview of new live work over a single day in Manchester every autumn and now resident at <a href="https://contactmcr.com" target="_blank">Contact</a>, its seventh home.        
          
-[Manchester's 24th micro-marathon of the bizarre, the bold, and the beautiful](/current/2024-emergency) takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 28 September 2024 from Noon to 10pm** — presenting 28 short works throughout the building and its multiple spaces.       
+[Manchester's 24th micro-marathon of the bizarre, the bold, and the beautiful](/current/2024-emergency) took over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 28 September 2024 from Noon to 10pm** — presenting 28 short works throughout the building and its multiple spaces.       
          
 Look at some of our [2024 artists' images](/galleries/2024-emergencypre) — or get a feel for it with [2023's programme](/archive/2023-emergency/#artists) and [gallery of images](/galleries/2023-emergency).        
          
 Manchester's annual Live Art & performance platform, Emergency aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions.        
         
-We usually expect to present *about* 20-25 short works throughout the building — so if you would like to take part in what is *probably* England's longest-running Live Art event, please check back for our next open call in June 2025.        
+We usually expect to present *about 25* short works throughout the building — so if you would like to take part in what is *probably* England's longest-running Live Art event, please check back for our next open call in June 2025.        
          
 **[Emergency 24](/current/2024-emergency)** presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
         
