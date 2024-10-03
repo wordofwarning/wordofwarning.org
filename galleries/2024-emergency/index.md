@@ -23,7 +23,7 @@ gallery:
     -   {file: "jennifer.jpg", artist: "Jennifer Ng"}
     -   {file: "kelvin.jpg", artist: "Kelvin Atmadibrata"}
     -   {file: "lewys.jpg", artist: "Lewys Holt"}
-    -   {file: "ludo_jake2.jpg", artist: "Ludo & Jake"}
+    -   {file: "ludo_jake.jpg", artist: "Ludo & Jake"}
     -   {file: "luke.jpg", artist: "Luke McDonnell"}
     -   {file: "maria.jpg", artist: "Maria Garcia"}
     -   {file: "martha.jpg", artist: "Martha Pailing"}
