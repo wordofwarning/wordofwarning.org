@@ -13,8 +13,8 @@ more_url: "../../current/2024-emergency"
 gallery:
     -   {file: "titlepage.jpg", artist: "<small><i>A day out for the curious at Contact, Sat 28 Sep 2024</i></small> · Riley Hamshaw-Mills"}
     -   {file: "adele.jpg", artist: "Adèle Le Gallez"}
-    -   {file: "ali_diane.jpg", artist: "Ali Wilson & Diane Dwyer"} 
     -   {file: "slabs.jpg", artist: "Annie Finn & Poppy Waxman"}
+    -   {file: "ali_diane.jpg", artist: "Diane Dwyer & Ali Wilson"} 
     -   {file: "drunken_chorus.jpg", artist: "Drunken Chorus"}
     -   {file: "emergency_chorus.jpg", artist: "Emergency Chorus"} 
     -   {file: "farida.jpg", artist: "Farida Yesmin"}
