@@ -55,9 +55,9 @@ archived:
     - {folder: "2012-hazard", name: "Hazard 2012", class: "h2012"}
     - {folder: "2012-woah", name: "Works Ahead 2012", class: "woah"}
     - {folder: "2012-turn", name: "Turn 2012", class: "ss2012"}
-    - {folder: "hab-archive", name: "hÅb (pre-2011 archive)", class: "hab"}
+    - {folder: "hab-archive", name: "hÅb Archive (pre-2011)", class: "hab"}
     
 ---
 
 # Galleries     
-Look at images from our previous events…&ensp;<small>Updated 30 July 2024<small>
+See images from our previous events below…&ensp;<small>Updated 4 October 2024<small>
