@@ -14,7 +14,7 @@ gallery:
     -   {file: "titlepage.jpg", artist: "<small><i>A day out for the curious at Contact, Sat 28 Sep 2024</i></small> · Riley Hamshaw-Mills"}
     -   {file: "adele.jpg", artist: "Adèle Le Gallez"}
     -   {file: "slabs.jpg", artist: "Annie Finn & Poppy Waxman"}
-    -   {file: "ali_diane.jpg", artist: "Diane Dwyer & Ali Wilson"} 
+    -   {file: "ali_diane.jpg", artist: "Diane Dwyer | Ali Wilson"} 
     -   {file: "drunken_chorus.jpg", artist: "Drunken Chorus"}
     -   {file: "emergency_chorus.jpg", artist: "Emergency Chorus"} 
     -   {file: "farida.jpg", artist: "Farida Yesmin"}
@@ -28,7 +28,7 @@ gallery:
     -   {file: "maria.jpg", artist: "Maria Garcia"}
     -   {file: "martha.jpg", artist: "Martha Pailing"}
     -   {file: "mi_otra_hermana.jpg", artist: "Mi Otra Hermana"}
-    -   {file: "nicola_ali.jpg", artist: "Nicola Dale & Ali Wilson"}
+    -   {file: "nicola_ali.jpg", artist: "Nicola Dale | Ali Wilson"}
     -   {file: "robyn.jpg", artist: "Robyn Greeves"}
     -   {file: "rowena.jpg", artist: "Rowena Gander"}
     -   {file: "paula.jpg", artist: "The Paula Davy"}
