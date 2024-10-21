@@ -8,9 +8,9 @@ artist_size: 1
 season: "Performance Programme 2024"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2024/#about) · [audiences](/current/2024/#audiences) · [by](/current/2024/#by) · [people](/current/2024/#people) · [warnings](/current/2024/#warnings)</span><br><small>Updated 18 October 2024</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2024/#about) · [audiences](/current/2024/#audiences) · [by](/current/2024/#by) · [people](/current/2024/#people) · [warnings](/current/2024/#warnings)</span><br><small>Updated 21 October 2024</small>        
          
-*Our Performance Programme is on hiatus, with future events to be announced… We began with [Turn](/current/2024-turn)'s whirlwind of new dance at <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, followed by [ELOINA](/current/2024/ELOINA)'s riotous rebellion at <a href="https://thelowry.com" target="_blank">LOWRY</a>, [Works Ahead: Radiator](/current/2024-worksahead)'s sharing of Live Art at <a href="https://theatre.mmu.ac.uk/productions" target="_blank">MMU</a>, [Haphazard](/current/2024-haphazard)'s afternoon of antics at <a href="https://z-arts.org" target="_blank">Z-arts</a>, and [Emergency](/current/2024-emergency)'s day out for the curious at <a href="https://contactmcr.com" target="_blank">Contact</a>.*         
+*Our Performance Programme is on hiatus, with future events to be announced… We began the year with [Turn](/current/2024-turn)'s whirlwind of new dance at <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, followed by [ELOINA](/current/2024/ELOINA)'s riotous rebellion at <a href="https://thelowry.com" target="_blank">LOWRY</a>, [Works Ahead: Radiator](/current/2024-worksahead)'s sharing of Live Art at <a href="https://theatre.mmu.ac.uk/productions" target="_blank">MMU</a>, [Haphazard](/current/2024-haphazard)'s afternoon of antics at <a href="https://z-arts.org" target="_blank">Z-arts</a>, and [Emergency](/current/2024-emergency)'s day out for the curious at <a href="https://contactmcr.com" target="_blank">Contact</a>.*         
          
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
@@ -42,7 +42,7 @@ Performance Programme 2024 is brought to you by [hÅb](/hab), with partners <a h
 <small><span style='font-variant: small-caps'>[back to top](/current/2024)</span></small>        
          
 #### People        
-Tamsin Drury, [hÅb](/hab)'s Director, has been around a while — a really long while — she's been responsible for making the Arndale Tower flash, wrapping Cathedral Gardens in 7km of hazard tape, and firing a glitter-cannon to the *Hallelujah* chorus! On the less eccentric side, over the years hÅb has worked with hundreds of GM & NW artists to help them create new work. Please send programming enquiries to her via <mailto:info@habmcr.org>        
+Tamsin Drury, [hÅb](/hab)'s Director, has been around a while — a really long while — she's been responsible for making the Arndale Tower flash, wrapping Cathedral Gardens in 7km of hazard tape, and firing a glitter-cannon to the *Hallelujah* chorus! On the less eccentric side, over the years hÅb has worked with hundreds of GM & NW artists to help them create new work.<br><i>Please send programming enquiries to her via <mailto:info@habmcr.org></i>        
         
 John Franklin-Johnston, hÅb's Programme Manager, is a freelance producer, events manager, facilitator, and was <a href="http://greenroomarts.org" target="_blank">greenroom</a>'s programme co-ordinator.         
          
@@ -54,5 +54,5 @@ Thanks also to [hÅb](/hab)'s Advisory Board: Helen Palmer, Charles Rowley, Cath
 <small><span style='font-variant: small-caps'>[back to top](/current/2024)</span></small>        
          
 #### Warnings          
-Please click [here](/warnings) to read specific content (trigger) warnings for our events.        
+Please click [here](/warnings) to read specific content & trigger warnings for our events.        
 <small><span style='font-variant: small-caps'>[back to top](/current/2024)</span></small>
