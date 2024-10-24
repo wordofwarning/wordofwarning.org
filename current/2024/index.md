@@ -8,7 +8,7 @@ artist_size: 1
 season: "Performance Programme 2024"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2024/#about) · [audiences](/current/2024/#audiences) · [by](/current/2024/#by) · [people](/current/2024/#people) · [warnings](/current/2024/#warnings)</span><br><small>Updated 21 October 2024</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2024/#about) · [audiences](/current/2024/#audiences) · [by](/current/2024/#by) · [people](/current/2024/#people) · [warnings](/current/2024/#warnings)</span><br><small>Updated 24 October 2024</small>        
          
 *Our Performance Programme is on hiatus, with future events to be announced… We began the year with [Turn](/current/2024-turn)'s whirlwind of new dance at <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, followed by [ELOINA](/current/2024/ELOINA)'s riotous rebellion at <a href="https://thelowry.com" target="_blank">LOWRY</a>, [Works Ahead: Radiator](/current/2024-worksahead)'s sharing of Live Art at <a href="https://theatre.mmu.ac.uk/productions" target="_blank">MMU</a>, [Haphazard](/current/2024-haphazard)'s afternoon of antics at <a href="https://z-arts.org" target="_blank">Z-arts</a>, and [Emergency](/current/2024-emergency)'s day out for the curious at <a href="https://contactmcr.com" target="_blank">Contact</a>.*         
          
@@ -48,7 +48,7 @@ John Franklin-Johnston, hÅb's Programme Manager, is a freelance producer, event
          
 Peader Kirk, artist & mentor, supports [Works Ahead](/hab/worksahead) and other hÅb projects.         
          
-We're grateful for the ongoing support of hÅb projects from a team of freelancers and volunteers that includes: Alison Darnbrough, Andrew Crofts, Catherine Shaw, Sam Stockdale, Stacey Potter, Tania Camara, Tricia Coleman, plus Theatre and Performance students from The Arden.         
+We're grateful for the ongoing support of hÅb projects from a team of freelancers and volunteers that includes: Alison Darnbrough, Andrew Crofts, Anneliese Edwards, Catherine Shaw, Martha Barr, Sam Stockdale, Stacey Potter, Tania Camara, Tricia Coleman, plus Theatre and Performance students from The Arden.         
          
 Thanks also to [hÅb](/hab)'s Advisory Board: Helen Palmer, Charles Rowley, Cathy Butterworth, Joseph Lau, plus Maya Chowdhry for [Divergency](/hab/divergencymcr).        
 <small><span style='font-variant: small-caps'>[back to top](/current/2024)</span></small>        
