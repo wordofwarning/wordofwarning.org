@@ -16,7 +16,7 @@ season: "Turn by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 7 May 2024</small>        
+<small>Updated 7 November 2024</small>        
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester each spring.    
              
@@ -27,16 +27,16 @@ Read [2024's programme notes](/current/2024-turn/programme) and look at [images 
 Greater Manchester's open call dance platform, Turn aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— a selection event for the Turn Prize commission (*see below*).         
         
 #### Turn Prize 2024         
-We are delighted to announce (*30 April 2024*) the recipients of the Turn Prize [2024](/current/2024-turn) are **Fabíola Santana** and **Louiseanne Wong**. The Turn Prize is a commission for the development of work by North West-based dance-makers.         
+On 30 April 2024 we were delighted to announce the recipients of the Turn Prize [2024](/current/2024-turn) are **Fabíola Santana** and **Louiseanne Wong**. The Turn Prize is a commission for the development of work by North West-based dance-makers.         
          
 Turn Prize [2024](/current/2024-turn) supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> using public funding by Arts Council England, and by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>.          
         
-#### Turn 2024 Call for Proposals has Closed         
-North West† dancers and dance-makers (*aged 18+*) <a href="http://turnmcr.posthaven.com" target="_blank">were invited to submit proposals</a> of: short finished pieces of work, extracts or excerpts of longer works, or works-in-progress, for inclusion in this annual event.        
+#### Turn 2025 Call for Proposals Opening Soon         
+North West† dancers and dance-makers (*aged 18+*) <a href="http://turnmcr.posthaven.com" target="_blank">will be invited to submit proposals</a> of: short finished pieces of work, extracts or excerpts of longer works, or works-in-progress, for inclusion in this annual event.        
           
-**Proposal Deadline: Friday 2 February 2024, 5pm**         
+**Proposal Deadline: Friday 31 January 2025, 5pm**         
          
-We're experimenting with the form of Turn in 2024, to include:<br>— one evening of **public performances on Friday 22 March**<br>&nbsp;&nbsp;&nbsp;&nbsp;(and we considered a *potential* second evening on Friday 15 March);<br>— followed by an **artist day on Saturday 23 March** from 2pm,<br>&nbsp;&nbsp;&nbsp;&nbsp;incorporating a workshop or masterclasses, and feedback sessions.         
+We experimented with the form of Turn in 2024, to include:<br>— one evening of **public performances on Friday 22 March**<br>&nbsp;&nbsp;&nbsp;&nbsp;(and we considered a *potential* second evening on Friday 15 March);<br>— followed by an **artist day on Saturday 23 March** from 2pm,<br>&nbsp;&nbsp;&nbsp;&nbsp;incorporating a workshop or masterclasses, and feedback sessions.         
          
 † *<a href="http://en.wikipedia.org/wiki/North_West_England" target="_blank">North West England</a> consists of Cheshire, Cumbria, Greater Manchester, Lancashire, Merseyside; it does NOT include Yorkshire or Derbyshire*.        
         
