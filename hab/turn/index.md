@@ -20,7 +20,7 @@ season: "Turn by hÅb"
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester each spring.    
              
-The twelfth edition, Turn 2025 takes place at <a href="https://contactmcr.com" target="_blank">Contact</a> on **Friday 4 April from 7pm** — presenting *about ten* short dance-works throughout the building.        
+The twelfth edition, **Turn 2025** takes place at <a href="https://contactmcr.com" target="_blank">Contact</a> on **Friday 4 April from 7pm** — presenting *up to ten* short dance-works throughout the building.        
          
 Get a feel for it with [2024's programme](/current/2024-turn) & [image gallery](/galleries/2024-turn), [2023's programme](/archive/2023-turn)/[gallery](/galleries/2023-turn), [2017’s programme](/archive/2017-turn)/[gallery](/galleries/2017-turn).         
         
@@ -31,7 +31,7 @@ North West† dancers and dance-makers (*aged 18+*) <a href="http://turnmcr.post
           
 **Call Opens: Tuesday 26 November 2024<br>Proposal Deadline: Friday 31 January 2025, 5pm**         
          
-Turn 2025 will be:<br>— a **single evening of public performances on Friday 4 April**;<br>— followed by an **artist day incorporating a workshop or masterclasses and feedback sessionson Saturday 5 April**,<br>&nbsp;&nbsp;&nbsp;&nbsp;participating artists will be expected to attend **both** days.         
+Turn 2025 will be:<br>— a **single evening of public performances on Friday 4 April**;<br>— followed by an **artist day incorporating a workshop or masterclasses and feedback sessionson Saturday 5 April**,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;participating artists will be expected to attend **both** days.         
          
 † *<a href="http://en.wikipedia.org/wiki/North_West_England" target="_blank">North West England</a> consists of Cheshire, Cumbria, Greater Manchester, Lancashire, Merseyside; it does NOT include Yorkshire or Derbyshire*.        
         
