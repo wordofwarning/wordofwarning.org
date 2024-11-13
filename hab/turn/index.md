@@ -20,16 +20,16 @@ season: "Turn by hÅb"
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester each spring.    
              
-The twelfth edition, Turn 2025 takes place at <a href="https://contactmcr.com" target="_blank">Contact</a> on **Friday 4 April from 7pm** — presenting *about ten* short dance-works throughout the building and its multiple spaces.        
+The twelfth edition, Turn 2025 takes place at <a href="https://contactmcr.com" target="_blank">Contact</a> on **Friday 4 April, 7pm** — presenting *about ten* short dance-works within the building's multiple spaces.        
          
 Get a feel for it with [2024's programme](/current/2024-turn) & [image gallery](/galleries/2024-turn), [2023's programme](/archive/2023-turn)/[gallery](/galleries/2023-turn), [2017’s programme](/archive/2017-turn)/[gallery](/galleries/2017-turn).         
         
 Greater Manchester's open call dance platform, Turn aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— a selection event for the Turn Prize commission (*see below*).         
          
-#### Turn 2025 Call for Proposals Opens 26 November         
+#### Turn 2025 Call for Proposals Opens 26 November 2024        
 North West† dancers and dance-makers (*aged 18+*) <a href="http://turnmcr.posthaven.com" target="_blank">will soon be invited to submit proposals</a> of: short finished pieces of work, extracts or excerpts of longer works, or works-in-progress, for inclusion in this annual event.        
           
-**Proposal Deadline: Friday 31 January 2025, 5pm**         
+**Call for Proposals Opens: Tuesday 26 November 2024<br>Proposal Deadline: Friday 31 January 2025, 5pm**         
          
 Turn 2025 includes:<br>— one evening of **public performances on Friday 4 April**;<br>— followed by an **artist day on Saturday 5 April**,<br>&nbsp;&nbsp;&nbsp;&nbsp;incorporating a workshop or masterclasses, and feedback sessions.         
          
