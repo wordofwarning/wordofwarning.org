@@ -16,7 +16,7 @@ season: "Turn by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 13 November 2024</small>        
+<small>Updated 14 November 2024</small>        
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester each spring.    
              
@@ -24,14 +24,14 @@ The twelfth edition, **Turn 2025** will take place at <a href="https://contactmc
          
 Get a feel for it with [2024's programme](/current/2024-turn) & [image gallery](/galleries/2024-turn), [2023's programme](/archive/2023-turn)/[gallery](/galleries/2023-turn), [2017’s programme](/archive/2017-turn)/[gallery](/galleries/2017-turn).         
         
-Greater Manchester's open call dance platform, Turn aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— a selection event for the Turn Prize commission (*see below*).         
+Greater Manchester's open call dance platform, Turn aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— and is open to North West England† dancers and dance-makers, aged 18+          
          
-#### Turn 2025 Call for Proposals Opening Soon        
+#### Turn 2025 Call for Proposals Opens Soon        
 North West† dancers and dance-makers (*aged 18+*) <a href="http://turnmcr.posthaven.com" target="_blank">will soon be invited to submit proposals</a> of: short finished pieces of work, excerpts or extracts of longer works, or works-in-progress, for inclusion in this annual event.        
           
 **Call Opens: Tuesday 26 November 2024<br>Proposal Deadline: Friday 31 January 2025, 5pm**         
          
-Turn 2025 will be:<br>— a **single evening of public performances on Friday 4 April**;<br>— followed by an **artist day on Saturday 5 April**, incorporating a workshop or masterclasses and feedback sessions;<br>&nbsp;&nbsp;&nbsp;&nbsp;participating artists will be expected to attend **both** days.         
+Turn 2025 will be:<br>— a **single evening of public performances on Friday 4 April**;<br>— followed by an **artist day on Saturday 5 April**, incorporating a workshop or masterclasses and feedback sessions;<br>— and participating artists will be expected to attend **both** days.         
          
 † *<a href="http://en.wikipedia.org/wiki/North_West_England" target="_blank">North West England</a> consists of Cheshire, Cumbria, Greater Manchester, Lancashire, Merseyside; it does NOT include Yorkshire or Derbyshire*.        
         
@@ -49,7 +49,7 @@ First held at greenroom in spring 2009, Turn moved to <a href="https://contactmc
            
 The ninth edition trialled a new format, with a dozen short dance-works shown on [**28 April 2017**](/archive/2017-turn), followed by a day of professional development.         
           
-The tenth edition returned to <a href="https://contactmcr.com" target="_blank">Contact</a> after a hiatus, with nine short dance-works ([see images](/galleries/2023-turn)) on [**10 March 2023**](/archive/2023-turn), followed by an artist day.          
+After a hiatus the tenth edition returned to <a href="https://contactmcr.com" target="_blank">Contact</a>, with nine short dance-works ([see images](/galleries/2023-turn)) on [**10 March 2023**](/archive/2023-turn), followed by an artist day.          
           
 The eleventh edition took place at <a href="https://companychameleon.com" target="_blank">Company Chameleon Studios</a>, with eight short dance-works ([see images](/galleries/2024-turn)) in just the one studio on **[22 March 2024](/current/2024-turn)**, also followed by an artist day.          
          
