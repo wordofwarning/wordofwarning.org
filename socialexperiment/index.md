@@ -1,15 +1,20 @@
 ---
 # CONFIGURATION
-layout: home # the season or event-specific template in /_layouts
-rootpath: "../"
+layout: 2024-programme
+rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-show: "News" # the name of the artist or company
-show_size: 1
-season: "News"
+artist: "Social Experiment" # the name of the artist or company
+show: "a something something" # the name of the show
+artist_size: 1
+show_size: 3
+header_image:  
+season: "Social Experiment"
 
 # ABOUT THE SHOW - LAYOUT
-# show_size: 1 # optional - size 1-5. Default is 1. Set longer names to lower values
+# artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
+# show_size: 3 # optional - size of show name 2-5. Default is 2. Set longer names to lower values
+# header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
 <span style='font-variant: small-caps'>→ [things to watch](/news/#audiences) · [artist opportunities](/news/#artists), [advice](/news/#advice), [support](/news/#support), [turn prize 2024](/news/#turn_prize_2024)</span><br><small>Updated 14 November 2024<small>        
