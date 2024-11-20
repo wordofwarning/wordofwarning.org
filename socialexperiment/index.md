@@ -17,34 +17,51 @@ season: "Social Experiment"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [things to watch](/news/#audiences) · [artist opportunities](/news/#artists), [advice](/news/#advice), [support](/news/#support), [turn prize 2024](/news/#turn_prize_2024)</span><br><small>Updated 14 November 2024<small>        
-<hr>          
-#### Audiences         
-Our [Performance Programme](/current/2024) is on hiatus, with future events to be announced…<br>• See what happened recently in our [image galleries](/galleries) for September's [Emergency](/galleries/2024-emergency), July's [Haphazard](/galleries/2024-haphazard), May's [Works Ahead](/galleries/2024-woah), and March's [Turn](/galleries/2024-turn).<br>• Find work to watch by reading our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a>, a regular signpost to performance live and online in Manchester + beyond: **sign-up <a href="http://eepurl.com/i_Odb" target="_blank">here</a>**.<br>• Visit our <a href="https://youtube.com/@warnmcr" target="_blank">YouTube channel</a> to watch archived livestreams and more.<br>• Have a look at <a href="https://screen.homemcr.org" target="_blank">HOME SCREEN</a>, <a href="https://sadlerswells.com/digital-stage" target="_blank">Sadler's Wells Digital Stage</a>, <a href="https://unitytheatreliverpool.co.uk/unity-online" target="_blank">Unity Online</a>.        
-<span style='font-variant: small-caps'>[back to top](/news)</span>        
-<hr>          
-#### Artists         
-Essentially industry-facing, [hÅb](/hab) advises and supports artists and freelancers in our sector where we can — signposting help and opportunities below.<br>• Our annual platform for new North West dancers and dance-makers, [Turn](/hab/turn) returns to Contact on 4 April 2025 — the call for proposals opens on 26 November 2024.<br>• Join [hÅb](/hab)'s artist mailing list, the [Emergencymcr Google Group](/hab/emergencymcr).<br>• Other mailing lists that you (as an artist) may find useful to join include: <a href="https://www.artsjobs.org.uk/subscribe" target="_blank">Arts Jobs & Arts News from Arts Council England</a> · <a href="http://liveartuk.org/pages/sign-up" target="_blank">Live Art UK</a> · <a href="http://jiscmail.ac.uk/cgi-bin/webadmin?A0=LIVEART" target="_blank">LIVEART from JISCmail</a> · <a href="http://jiscmail.ac.uk/cgi-bin/webadmin?A0=SCUDD" target="_blank">SCUDD (Standing Conference of University Drama Departments) from JISCmail</a>.        
-<span style='font-variant: small-caps'>[back to top](/news)</span>         
+<span style='font-variant: small-caps'>→ [ticketing](/current/2024/ELOINA/#ticketing) · [access](/current/2024/ELOINA/#access) · [about](/current/2024/ELOINA/#about) · [artist](/current/2024/ELOINA/#artist) · [reviews](/current/2024/ELOINA/#reviews) · [credits](/current/2024/ELOINA/#credits) · [websites](/current/2024/ELOINA/#websites)</span><br><small>Updated 22 April 2024</small>          
          
-##### Advice        
-• [hÅb](/hab) offers free 30-minute [Advice Sessions](/hab/advice/) via Zoom on Mondays (excluding Bank Holidays) with Tamsin Drury, our Director:<br>&nbsp;— our specialism is Live Art and contemporary performance, including dance & theatre, though all-comers are welcome;<br>&nbsp;— if you're an artist wanting to discuss creative ideas, funding, opportunities, or just need a chat, please book an Advice Session [here](/hab/advice).<br>• [hÅb](/hab) also offers guidance on two <a href="https://www.artscouncil.org.uk/our-open-funds" target="_blank">Arts Council England funding schemes</a> (DYCP & NLPG) via recordings on our <a href="https://youtube.com/@warnmcr" target="_blank">YouTube channel</a>:<br>&nbsp;— watch August 2022's <a href="https://youtu.be/POWwDg_STRw" target="_blank">in-depth look</a> at <a href="https://artscouncil.org.uk/DYCP" target="_blank">Developing Your Creative Practice</a> with Tamsin & guests; see the GMAH <a href="https://www.gm-artisthub.co.uk/dycp-guidance" target="_blank">DYCP guidance page</a>;<br>&nbsp;— watch November 2023's <a href="https://youtu.be/p0kVnlC0q8Y" target="_blank">initial analysis</a> of updated <a href="https://artscouncil.org.uk/projectgrants" target="_blank">National Lottery Project Grants</a> by Tamsin; see the GMAH <a href="https://www.gm-artisthub.co.uk/nlpg-guidance" target="_blank">NLPG guidance page</a>.          
-<span style='font-variant: small-caps'>[back to top](/news)</span>         
+*Presented by* Word of Warning + Contact *as a semi-regular event*         
          
-##### Support         
-• Arts Council England's <a href="https://artscouncil.org.uk/DYCP" target="_blank">Developing Your Creative Practice</a> **Round 22 is now open and closes 12 December at Noon**.         
-• Arts Council England's <a href="https://artscouncil.org.uk/projectgrants" target="_blank">National Lottery Project Grants</a> are available, with **new guidance and forms since 1 November 2023**.        
-• Arts Council England host information webinars for <a href="https://artscouncil.org.uk/DYCP" target="_blank">DYCP</a> & <a href="https://artscouncil.org.uk/projectgrants" target="_blank">NLPG</a> applicants — find dates and book on the <a href="https://www.eventbrite.co.uk/o/arts-council-england-events-north-28185338891" target="_blank">ACE North eventbrite page</a>.        
-• Arts Marketing Association's <a href="http://facebook.com/groups/AMACommunitySupport" target="_blank">Community Support Facebook Group</a> — for arts, culture, and heritage professionals with marketing and communication responsibilities to engage audiences with cultural organisations.          
-• Factory International's Artists & Freelance Creatives' facebook group <a href="http://www.facebook.com/groups/mifartistfreelancedropin" target="_blank">facebook group</a>.        
-• <a href="http://www.freelancersmaketheatrework.com/financial-support" target="_blank">Freelancers Make Theatre Work</a> has comprehensive guides to financial support, advice, and resources.        
-• Greater Manchester Combined Authority's <a href="http://www.greatermanchester-ca.gov.uk/news/new-mental-health-services-for-people-affected-by-social-restrictions" target="_blank">mental health services for people affected by social restrictions</a>.         
-• Money Saving Expert — <a href="http://www.moneysavingexpert.com/news" target="_blank">Martin Lewis & his team</a>'s information is regularly updated.           
-• The Space's <a href="http://www.thespace.org/resource/live-streaming-arts-lo-fi-and-low-cost-options" target="_blank">guide to live streaming for the arts by Jason Crouch</a> — lo-fi and low cost options.        
-• UK Theatre & SOLT's <a href="http://theatresupport.info" target="_blank">Theatre Support Information</a> — advice/info about how and where you can access support from leading theatrical charities.        
-• Unlimited's blog includes <a href="https://weareunlimited.org.uk/blog/?category=resources" target="_blank">opportunities</a> and <a href="https://weareunlimited.org.uk/blog/?category=resources" target="_blank">resources</a> for disabled artists and freelancers.        
-<span style='font-variant: small-caps'>[back to top](/news)</span>         
+*HIGH STEAKS* is a show about labia, labia-shaming, cosmetic surgery, and fundamentally, body lovin'.          
           
-##### Turn_Prize_2024         
-We are delighted to announce (*30 April 2024*) the recipients of the Turn Prize [2024](/current/2024-turn) are **Fabíola Santana** and **Louiseanne Wong**. The Turn Prize is a commission for the development of work shown at [Turn](/hab/turn) by North West-based dance-makers. Turn Prize [2024](/current/2024-turn) supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> using public funding by Arts Council England, and by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>.          
-<span style='font-variant: small-caps'>[back to top](/news)</span>         
+Award-winning, queer performer, ELOINA, hangs two beef steaks from her labia, butchers them up, and sizzles them on a grill.           
+          
+And…her mum is in the show.        
+         
+#### Ticketing         
+Pay What You Decide: £20/£15/£10/£5/£0<br>Book: <a href="https://tickets.thelowry.com/events/wtf%20(not)%20wednesday-%20high%20steaks%20by%20eloina/2024-4-27_20.00/lowry%20studio?back=2&area=6711d356-240a-ea11-a9ce-815ca3ec47bd&type=ga#_ga=2.112718468.1650382160.1706191027-385683989.1701776919" target="_blank">online</a> or call The Lowry on 0343 208 6000          
+         
+Time: Saturday 27 April 2024, 8pm (no interval, ends *about* 9.10pm)          
+          
+Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry</a> (Aldridge Studio), Pier 8, Salford Quays, M50 3AZ         
+         
+#### Access         
+Age Advisory: **18+** (parent/guardian/carer discretion).<br>[Content Warnings](/warnings): full frontal nudity, strong language, handling and cooking of raw meat, discussion of genital surgery, discussion of self-harm, depictions of real mother-daughter relationships.<br>Features: physical movement, recorded music and voices, spoken text/dialogue, potential audience interaction — please read the <a href="https://docs.google.com/document/d/1uDqUUjNksRdpihtEQGo0MB7DRkfBqqZICG7m15aVIrc" target="_blank">show's access document</a>.<br>Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a>, 0161 876 2183 or <mailto:access@thelowry.com>       
+         
+#### About         
+Seamlessly melding performance art and comedy clowning, *HIGH STEAKS* discusses rising demands in young people for labiaplasty — plastic surgery to make the labia smaller/more symmetrical.         
+         
+Through live conversations with her mum and recorded interviews with labia-owners, *HIGH STEAKS* is a call for increased visibility of varied vulvas and a celebration of our vulvas in all their shapes and sizes.         
+          
+A riotous rebellion against labia-shaming and cosmetic labia surgery, *HIGH STEAKS* won a <a href="https://www.summerhall.co.uk/2023/08/2023-lustrum-award-winners-announced" target="_blank">Summerhall 2023 Award</a>, is an <a href="https://offies.london/2024-finalists-winners" target="_blank">Offies 2024 Finalist</a>, a <a href="https://theguardian.com/stage/2023/dec/21/the-best-theatre-comedy-and-dance-of-2023#theatre" target="_blank">Guardian 2023 top 5 theatre show</a>, and a <a href="https://www.creativetourist.com/event/high-steaks-at-the-lowry" target="_blank">Creative Tourist top theatre pick</a>.         
+         
+Download the <a href="https://the-lowry-site.s3.eu-west-2.amazonaws.com/uploads/2024/04/HS-DIGITAL-PROGRAMME.pdf" target="_blank">digital programme</a> or see the <a href="https://eloina.art/high-steaks-free-sheet" target="_blank">free sheet</a>.         
+          
+#### Artist        
+ELOINA makes work that dismantles taboos around the female body. She mixes epic, body-based performance art and quick, comedy clowning. This makes her work accessibly impactful at both extremes & the in-betweens of the art world.         
+         
+Since graduating from the innovative Drama degree at Queen Mary University of London in 2018, her solo practice has spread across London — opening conversations about menstruation, body hair, labiaplasty, vaginoplasty, female masturbation & ejaculation, motherhood, and breastfeeding.         
+         
+Read her <a href="https://www.theguardian.com/stage/2023/nov/13/performance-artist-eloina-high-steaks-labia" target="_blank">interview with Arifa Akbar in The Guardian</a>.         
+         
+#### Reviews         
+>★★★★★ — <a href="https://www.fringebiscuit.com/twittiques/2023/1/30/high-steaks" target="_blank">Fringe Biscuit</a>, <a href="https://www.scotsman.com/arts-and-culture/edinburgh-festivals/edinburgh-fringe-theatre-reviews-high-steaks-glass-ceiling-beneath-the-stars-bullring-techno-makeout-jamz-help-yourself-the-fruity-prince-4251814" target="_blank">The Scotsman</a>, <a href="https://theatreweekly.com/edinburgh-review-high-steaks-at-summerhall" target="_blank">Theatre Weekly</a><br>*Bold. Brave. Captivating.* — Audience Response<br>*Liberating. Eye-opening. Important.* — Audience Response<br>★★★★★ *If you like your body positivity served up with herbs on a hot plate and your natural bits to be discussed without any reticence, this is the show for you.* — <a href="https://loureviews.blog/2023/03/20/vault-review-high-steaks" target="_blank">LouReviews</a><br>★★★★★ *If performance art freaks you out this is a crossover hit, which should delight and challenge in equal measure.* — <a href="https://todolist.london/high-steaks-by-eloina" target="_blank">To Do List</a>        
+         
+#### Credits          
+Birthed, Created, Performed, Produced by ELOINA<br>Directed by Louise Orwin<br>Star of the show: Mama (Annie Haines)<br>Developed with PARL (Performance Art Research, Ljubljana), Queen Mary University of London, Jackson's Lane, Camden People’s Theatre<br>Outside Eye: Frankie Thompson<br>Sound Design by Sammy Metcalfe, Louise Orwin, Tom Foskett-Barnes<br>Sound Design Consultancy by Liv Lynch<br>​Technical Stage Management by Roshan Conn<br>Safeguarding Management by Joe Iredale<br>Set Design by ELOINA & Joe Iredale<br>Lighting Design by Lily Woodford-Lewis<br>Producers: ELOINA, Beth Sitek, Millie Wood-Downie<br>Image by PARL/Matjaž Rušt         
+         
+With loving thanks to: MAMA, Joe Iredale, The Sisterhood, Andy's Dad's Accordion, Queen Mary University of London.<br>With super special thanks to: Paula, Posey, Rosa, Porscha, Alice, Casey, Justine, Alex, Dani, and those who will remain anonymous for sharing your beautiful stories with this show.         
+          
+#### Websites          
+<a href="https://eloina.art/high-steaks" target="_blank">eloina.art/high-steaks</a> · <a href="https://instagram.com/eloinaaart" target="_blank">Insta @eloinaaart</a> · <a href="https://twitter.com/eloinaaart" target="_blank">X @eloinaaart</a>         
+        
+<small><span style='font-variant: small-caps'>[back to top](/current/2024/ELOINA)</span></small>
