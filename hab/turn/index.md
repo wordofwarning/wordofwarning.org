@@ -31,7 +31,7 @@ Greater Manchester's open call dance platform, Turn aims to be:<br>— a public 
 #### Turn 2025 Call for Proposals is now Open        
 North West† dancers and dance-makers (*aged 18+*) are <a href="http://turnmcr.posthaven.com" target="_blank">invited to submit proposals</a> of: short finished pieces of work, excerpts or extracts of longer works, or works-in-progress, for inclusion in this annual event.        
           
-**For details & to apply go to <a href="http://turnmcr.posthaven.com" target="_blank">turnmcr.posthaven.com</a><br>Proposal Deadline: Friday 31 January 2025, 5pm**         
+**For details and to apply please go to <a href="http://turnmcr.posthaven.com" target="_blank">turnmcr.posthaven.com</a><br>Proposal Deadline: Friday 31 January 2025, 5pm**         
          
 Turn 2025 will be:<br>— a **single evening of public performances on Friday 4 April**;<br>— followed by an **artist day on Saturday 5 April**, incorporating a workshop or masterclasses and feedback sessions;<br>— and participating artists will be expected to attend **both** days.         
          
