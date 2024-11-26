@@ -16,7 +16,7 @@ season: "Turn by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 14 November 2024</small>        
+<small>Updated 26 November 2024</small>        
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester each spring.    
              
@@ -28,10 +28,10 @@ Greater Manchester's open call dance platform, Turn aims to be:<br>— a public 
          
 † *<a href="http://en.wikipedia.org/wiki/North_West_England" target="_blank">North West England</a> consists of Cheshire, Cumbria, Greater Manchester, Lancashire, Merseyside; it does NOT include Yorkshire or Derbyshire*.        
         
-#### Turn 2025 Call for Proposals Opens Soon        
-North West† dancers and dance-makers (*aged 18+*) will soon be invited to submit proposals of: short finished pieces of work, excerpts or extracts of longer works, or works-in-progress, for inclusion in this annual event.        
+#### Turn 2025 Call for Proposals is now Open        
+North West† dancers and dance-makers (*aged 18+*) are <a href="http://turnmcr.posthaven.com" target="_blank">invited to submit proposals</a> of: short finished pieces of work, excerpts or extracts of longer works, or works-in-progress, for inclusion in this annual event.        
           
-**Call Opens: Tuesday 26 November 2024 at <a href="http://turnmcr.posthaven.com" target="_blank">turnmcr.posthaven.com</a><br>Proposal Deadline: Friday 31 January 2025, 5pm**         
+**For details & to apply go to <a href="http://turnmcr.posthaven.com" target="_blank">turnmcr.posthaven.com</a><br>Proposal Deadline: Friday 31 January 2025, 5pm**         
          
 Turn 2025 will be:<br>— a **single evening of public performances on Friday 4 April**;<br>— followed by an **artist day on Saturday 5 April**, incorporating a workshop or masterclasses and feedback sessions;<br>— and participating artists will be expected to attend **both** days.         
          
