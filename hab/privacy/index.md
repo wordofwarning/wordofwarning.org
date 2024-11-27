@@ -14,7 +14,7 @@ season: "hÅb's Privacy Policy"
 # header_image: "" # optional custom background image, relative to current page
 
 ---
-<small>Updated 3 May 2023</small>          
+<small>Updated 27 November 2024</small>          
 **Please note this privacy policy is for [hÅb](/hab) clients (e.g. artists, partners, Manchester Independents 2023 artists).<br>Please note [hÅb](/hab) is the data processor for Manchester Independents.<br>Please see [Word of Warning's Privacy Policy](/privacy) if you are a: [Word of Warning](/) audience member; [Word of Warning](/) website visitor; [Weekly Warning](http://wordofwarning.posthaven.com) subscriber; Manchester Independents website visitor.**           
           
 ##### Who we are          
@@ -52,4 +52,4 @@ You have a right to request a copy of the personal information that we hold abou
               
 ##### Contact details + further information
 Please get in touch with us if you have any questions about any aspect of this privacy policy, and in particular if you would like to object to any processing of your personal information that we carry out for our legitimate organisational interests:           
-Habarts Limited (t/a hÅb), c/o Z-arts, 335 Stretford Road, Manchester, M15 5ZA | <a href="mailto:info@habmcr.org?subject=Data Protection Enquiry">info@habmcr.org</a>
+Habarts Limited (t/a hÅb), Unit 19, 41 Old Birley St. M15 5RF · <a href="mailto:info@habmcr.org?subject=Data Protection Enquiry">info@habmcr.org</a>
