@@ -23,7 +23,7 @@ season: "Social Experiment"
          
 **Social Experiment** is a new gathering at <a href="https://contactmcr.com" target="_blank">Contact</a> for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
           
-A free & informal, semi-regular evening event — the first edition takes place on **Thursday 6 February 2025** and future dates are 22 May; 17 July; 27 November.         
+A free & informal, semi-regular evening event — the first takes place on **Thursday 6 February 2025** and future dates are 22 May; 17 July; 27 November.         
          
 If you're a Greater Manchester artist — this is your chance to test out a short performance, intervention, or durational work, in front of an informal audience.         
          
@@ -32,7 +32,7 @@ If you're an audience member looking for something a little bit different — th
 #### Details         
 Entry: FREE, there's no need to book… just turn up!         
          
-Dates: Thursdays 6 February, 22 May, 17 July, 27 November 2025.<br>Times: taking place in the evening, typically from 6pm *or* 7pm to 8pm *or* 9pm.         
+Dates: Thursdays 6 February, 22 May, 17 July, 27 November 2025.<br>Times: to be confirmed.         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester, M15 6JA         
          
@@ -46,12 +46,9 @@ Features: a small number of Live Art & contemporary performance works with varie
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
                    
 #### Artists        
-Greater Manchester artists (*aged 18+*) are invited to submit proposals of: short performances, interventions, or durational works, for inclusion in a future Social Experiment… For details and to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>         
+Greater Manchester artists (*aged 18+*) are invited to submit proposals of: short performances, interventions, or durational works, for inclusion in a Social Experiment… For details and to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>         
          
 #### Credits          
 [Social Experiment](/hab/socialexperiment) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
-         
-#### Websites          
-Call for Proposals: <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>         
-        
+                 
 <small><span style='font-variant: small-caps'>[back to top](/socialexperiment)</span></small>
