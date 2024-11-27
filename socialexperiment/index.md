@@ -28,15 +28,14 @@ Award-winning, queer performer, ELOINA, hangs two beef steaks from her labia, bu
 And…her mum is in the show.        
          
 #### Details         
-Pay What You Decide: £20/£15/£10/£5/£0<br>Book: <a href="https://tickets.thelowry.com/events/wtf%20(not)%20wednesday-%20high%20steaks%20by%20eloina/2024-4-27_20.00/lowry%20studio?back=2&area=6711d356-240a-ea11-a9ce-815ca3ec47bd&type=ga#_ga=2.112718468.1650382160.1706191027-385683989.1701776919" target="_blank">online</a> or call The Lowry on 0343 208 6000          
+Entry: FREE, there’s no need to book… just turn up!         
          
-Dates:
-Times: Saturday 27 April 2024, 8pm (no interval, ends *about* 9.10pm)          
+Dates: Thursdays 6 February, 22 May, 17 July, 27 November.<br>Times: taking place in the evening, usually from *about* 6pm to 8pm.         
           
-Location: <a href="https://thelowry.com/visit-us" target="_blank">The Lowry</a> (Aldridge Studio), Pier 8, Salford Quays, M50 3AZ         
+Location: <a href="https://thelowry.com/visit-us" target="_blank">Contact</a> (bar & space 0), Pier 8, Salford Quays, M50 3AZ         
          
 #### Access         
-Age Advisory: **18+** (parent/guardian/carer discretion).<br>[Content Warnings](/warnings): full frontal nudity, strong language, handling and cooking of raw meat, discussion of genital surgery, discussion of self-harm, depictions of real mother-daughter relationships.<br>Features: physical movement, recorded music and voices, spoken text/dialogue, potential audience interaction — please read the <a href="https://docs.google.com/document/d/1uDqUUjNksRdpihtEQGo0MB7DRkfBqqZICG7m15aVIrc" target="_blank">show's access document</a>.<br>Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a>, 0161 876 2183 or <mailto:access@thelowry.com>       
+Age Advisory: 16+ (parent/guardian/carer discretion).<br>[Content Warnings](/warnings): full frontal nudity, strong language, handling and cooking of raw meat, discussion of genital surgery, discussion of self-harm, depictions of real mother-daughter relationships.<br>Features: physical movement, recorded music and voices, spoken text/dialogue, potential audience interaction — please read the <a href="https://docs.google.com/document/d/1uDqUUjNksRdpihtEQGo0MB7DRkfBqqZICG7m15aVIrc" target="_blank">show's access document</a>.<br>Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">The Lowry</a>, 0161 876 2183 or <mailto:access@thelowry.com>       
          
 #### About         
 
