@@ -5,9 +5,9 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Social Experiment" # the name of the artist or company
-show: "A new gathering for Live Art&nbsp;<br>&nbsp;and contemporary performance." # the name of the show
+show: "A new gathering for Live Art&nbsp;<br>&nbsp;& contemporary performance." # the name of the show
 artist_size: 1
-show_size: 3
+show_size: 4
 header_image:  
 season: "Social Experiment"
 
@@ -17,13 +17,13 @@ season: "Social Experiment"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [details](/socialexperiment/#details) · [access](/socialexperiment/#access) · [artists](/socialexperiment/#artists) · [credits](/socialexperiment/#credits) · [websites](/socialexperiment/#websites)</span><br><small>Updated 28 November 2024</small>          
+<span style='font-variant: small-caps'>→ [details](/socialexperiment/#details) · [access](/socialexperiment/#access) · [artists](/socialexperiment/#artists) · [credits](/socialexperiment/#credits)</span><br><small>Updated 28 November 2024</small>          
          
 *Presented by* Word of Warning + Contact *as a semi-regular evening event.*         
          
-**Social Experiment** is a new gathering at <a href="https://contactmcr.com" target="_blank">Contact</a> for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
+**Social Experiment** is a new gathering at <a href="https://contactmcr.com" target="_blank">Contact</a> for anyone interested in Live Art & contemporary performance to meet, chat, and try ideas out…         
           
-A free & informal, semi-regular evening event with the first on **Thursday 6 February 2025** — future dates are 22 May, 17 July, 27 November.         
+A free & informal, semi-regular evening event — the first is on **Thursday 6 February 2025** and future dates are 22 May, 17 July, 27 November.         
          
 If you're a Greater Manchester artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
          
@@ -43,7 +43,7 @@ Content Warnings: some works may involve interaction and/or participation; speci
           
 Features: a small number of Live Art & contemporary performance works with varied content — to be confirmed about a week before each event.         
          
-*NB* works will occur on a step-free ground floor in Space 0 and/or the bar, and will vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
+*NB* works will occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in Space 0 and/or the bar, and will vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
                    
