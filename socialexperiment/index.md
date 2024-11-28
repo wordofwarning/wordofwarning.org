@@ -5,9 +5,9 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Social Experiment" # the name of the artist or company
-show: "A new gathering for Live Art and contemporary performance." # the name of the show
+show: "A new gathering for Live Art&nbsp;<br>&nbsp;and contemporary performance." # the name of the show
 artist_size: 1
-show_size: 4
+show_size: 3
 header_image:  
 season: "Social Experiment"
 
@@ -17,13 +17,13 @@ season: "Social Experiment"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [details](/socialexperiment/#details) · [access](/socialexperiment/#access) · [artists](/socialexperiment/#artists) · [credits](/socialexperiment/#credits) · [websites](/socialexperiment/#websites)</span><br><small>Updated 27 November 2024</small>          
+<span style='font-variant: small-caps'>→ [details](/socialexperiment/#details) · [access](/socialexperiment/#access) · [artists](/socialexperiment/#artists) · [credits](/socialexperiment/#credits) · [websites](/socialexperiment/#websites)</span><br><small>Updated 28 November 2024</small>          
          
 *Presented by* Word of Warning + Contact *as a semi-regular evening event.*         
          
-**Social Experiment** is a new gathering at <a href="https://contactmcr.com" target="_blank">Contact</a> for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
+Social Experiment is a new gathering at <a href="https://contactmcr.com" target="_blank">Contact</a> for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
           
-A free & informal, semi-regular evening event — the first takes place on **Thursday 6 February 2025** and future dates are 22 May; 17 July; 27 November.         
+A free & informal, semi-regular evening event — the first takes place on **Thursday 6 February** and future dates are 22 May; 17 July; 27 November.         
          
 If you're a Greater Manchester artist — this is your chance to test out a short performance, intervention, or durational work, in front of an informal audience.         
          
@@ -32,21 +32,23 @@ If you're an audience member looking for something a little bit different — th
 #### Details         
 Entry: FREE, there's no need to book… just turn up!         
          
-Dates: Thursdays 6 February, 22 May, 17 July, 27 November 2025.<br>Times: to be confirmed.         
+Dates: Thursdays 6 February, 22 May, 17 July, 27 November 2025.<br>Times: in the evening (start/finish to be confirmed).         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester, M15 6JA         
          
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
           
-Content Warnings: some works may involve interaction and/or participation; specific warnings will be listed [here](/warnings).         
+Content Warnings: some works may involve interaction and/or participation; specific warnings will be listed [here](/warnings) about a week before each event.         
           
-Features: a small number of Live Art & contemporary performance works with varied content.<br>*NB* works will occur in Space 0 and/or the bar on the ground floor and will vary in format — some roaming, some seated, some standing, some spoken word, some visual, some participatory.         
+Features: a small number of Live Art & contemporary performance works with varied content — to be confirmed about a week before each event.<br>*NB* works will occur in Space 0 &/or the bar on Contact's step-free ground floor, and will vary in format — they could be roaming, seated, standing, spoken word, visual, immersive, &/or participatory.         
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
                    
 #### Artists        
-Greater Manchester artists (*aged 18+*) are invited to submit proposals of: short performances, interventions, or durational works, for inclusion in a Social Experiment… For details and to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>         
+Greater Manchester artists (*aged 18+*) are invited to submit proposals of: short performances, interventions, or durational works, for inclusion in these events.         
+         
+**For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>**         
          
 #### Credits          
 [Social Experiment](/hab/socialexperiment) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
