@@ -8,8 +8,8 @@ artist: "Social Experiment" # the name of the artist or company
 show: "A new gathering for Live Art&nbsp;<br>&nbsp;& contemporary performance." # the name of the show
 artist_size: 1
 show_size: 4
-header_image:  
-season: "Social Experiment"
+header_image: header_socex.jpg  
+season: "Social Experiment 2025"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -43,7 +43,7 @@ Content Warnings: some works may involve interaction and/or participation; speci
           
 Features: a small number of Live Art & contemporary performance works with varied content — to be confirmed about a week before each event.         
          
-*NB* works will occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in Space 0 and/or the bar, and will vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
+*NB* works will occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in Space 0 and/or bar, and will vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
                    
