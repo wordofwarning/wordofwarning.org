@@ -25,9 +25,7 @@ season: "hÅb's Partners"
 **a** <a href="https://manchesterindependents.org" target="_blank">Manchester Independents</a> lead partner — highlighting independent Greater Manchester artists alongside over 30 organisations across our city region;        
         
 **a** <a href="http://liveartuk.org" target="_blank">Live Art UK</a> member — a national network, supporting and developing the Live Art infrastructure for the benefit of artists, presenters, and audiences;         
-        
-**a** <a href="https://gm-artisthub.co.uk" target="_blank">GM Artist Hub</a> member — a joint artist development project supporting independent artists and freelance creatives across our city region;         
-        
+          
 **a** <a href="https://g-mast.org" target="_blank">GMAST</a> Network member — over 60 Greater Manchester cultural organisations brought together to address the climate and ecological crisis;         
         
 **a** GM LGBTQ+ Arts & Culture Network member — an <a href="https://lgbt.foundation" target="_blank">LGBT Foundation</a> Project, supported using public funding by the National Lottery through Arts Council England, supporting cultural partners to become more inclusive and transform how they engage with LGBTQ+ audiences/participants/artists/staff.        
@@ -36,4 +34,4 @@ We are pleased to count among our friends and regular partners:<br><a href="http
           
 In 2012 we were pleased to partner with Live at LICA (now <a href="https://lancasterarts.org" target="_blank">Lancaster Arts</a>) to produce the *<a href="https://lancasterarts.org/whats-on/event/symposium-getting-it-out-there" target="_blank">Getting It Out There</a>* symposium on touring; a FREE publication produced with the <a href="https://thisisliveart.co.uk" target="_blank">Live Art Development Agency</a> following the event can be <a href="http://habmcr.posthaven.com/getting-it-out-there-publication-free-to-down" target="_blank">downloaded here</a>.        
           
-<small>*NB*&nbsp;&nbsp;from April 2012 to March 2016 hÅb was funded by Manchester City Council through the Manchester Cultural Partnership.<br>*NB*&nbsp;&nbsp; Sustained Theatre Up North (STUN) was a [Divergency](/hab/divergencymcr) partner.</small>
+*NB*<br><small>&nbsp;From 2012 to 2016 hÅb was funded by Manchester City Council through the Manchester Cultural Partnership.<br>&nbsp;From 2014 to 2021 Sustained Theatre Up North (STUN) was a [Divergency](/hab/divergencymcr) partner.<br>&nbsp;From 2020 to 2023 hÅb was a <a href="https://gm-artisthub.co.uk" target="_blank">GM Artist Hub</a> leading member — a joint artist development project supporting independent artists and freelance creatives across our city region.</small>
