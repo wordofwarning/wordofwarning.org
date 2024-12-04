@@ -8,7 +8,7 @@ season: "hÅb homepage"
 ---
 ### Stimulating… extraordinary… performance…   
         
-<small>Updated 8 February 2024</small>        
+<small>Updated 4 December 2024</small>        
         
 hÅb is a Manchester-based producer, developer, and strategic advocate of Live Art, contemporary performance, and sited work in the North of England.        
         
@@ -20,10 +20,12 @@ Supported using public funding by <a href="https://www.artscouncil.org.uk/npo" t
        
 Since January 2012, hÅb has been 'public' in the guise of [Word of Warning](/) — a peripatetic programme of, and online signpost to, contemporary live work in Manchester + beyond… ***NB** this part of our site aims to offer **information to artists** wishing to know more about hÅb's work and how to get involved; for information on our public-facing programme please see [Word of Warning](/).*       
         
-From [Emergency](/hab/emergency), our annual micro-festival for new live work presenting 20 to 30 short works in a day each autumn with <a href="https://contactmcr.com" target="_blank">Contact</a>; through to [Works Ahead](/hab/worksahead), a series of small commissions for new work — hÅb aims to provide a joined-up set of opportunities for emerging new work and artists in Live Art, contemporary performance, and sited work. Please see our [News page](/news/#artists) for latest information.          
+From [Emergency](/hab/emergency), our annual micro-festival for new live work presenting *about 25* short works in a day every autumn with <a href="https://contactmcr.com" target="_blank">Contact</a>; through to [Works Ahead](/hab/worksahead), a series of small commissions for new work — hÅb aims to provide a joined-up set of opportunities for emerging new work and artists in Live Art, contemporary performance, and sited work.         
          
-hÅb curates sited performance and interventions — presenting [Hazard](/hab/hazard), a biennial micro-festival of intervention that takes performance out of the black box environment and into Manchester city centre; as well as [Haphazard](/hab/haphazard), our frequent foray into all ages Live Art with <a href="https://z-arts.org" target="_blank">Z-arts</a>. We also present [Turn](/hab/turn), Greater Manchester's annual dance platform for North West dancers and dance-makers.          
+hÅb starts a new [Social Experiment](/hab/socialexperiment) with <a href="https://contactmcr.com" target="_blank">Contact</a> in 2025 — a semi-regular evening gathering for Live Art and contemporary performance with a chance for Greater Manchester artists to try ideas out…         
+         
+hÅb curates sited performance and interventions — presenting [Hazard](/hab/hazard), a biennial micro-festival of intervention that takes performance out of the black box environment and into Manchester city centre; as well as [Haphazard](/hab/haphazard), our frequent foray into all ages Live Art with <a href="https://z-arts.org" target="_blank">Z-arts</a>. We also present [Turn](/hab/turn), Greater Manchester's annual dance platform for new North West dance, every spring.          
          
 In spring 2020 hÅb began an online [Domestic](/hab/domestic) series, offering artists an opportunity to informally try out new ideas live from their homes — our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call sought proposals</a> for performance works to be presented online, within an artist's available resources. Alongside live works, artists proposed pre-recorded pieces — so in December 2020 we introduced <a href="http://domesticatedonline.org" target="_blank">Domesticated</a>, a home for video performance, featuring eight works.          
          
-In any given year, hÅb might work with 100 artists — and present a couple of platforms, a sited festival, and over 50 pieces of work as [Word of Warning](/).
+In any given year, hÅb might work with 100 artists — and present a couple of platforms, a sited festival, and over 50 pieces of work as [Word of Warning](/). Please see our [News page](/news/#artists) for latest information.
