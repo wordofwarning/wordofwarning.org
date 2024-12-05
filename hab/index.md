@@ -8,15 +8,15 @@ season: "hÅb homepage"
 ---
 ### Stimulating… extraordinary… performance…   
         
-<small>Updated 4 December 2024</small>        
+<small>Updated 5 December 2024</small>        
         
 hÅb is a Manchester-based producer, developer, and strategic advocate of Live Art, contemporary performance, and sited work in the North of England.        
         
-<a href="http://greenroomarts.org" target="_blank">greenroom</a>'s key partner for over a decade, hÅb aims to maintain its legacy — working in collaboration with a range of [partners](/hab/partners) to produce showing opportunities, platforms, and artist development projects including: [Divergency](/hab/divergencymcr), [Emergency](/hab/emergency), [Haphazard](/hab/haphazard), [Social Experiment](/hab/socialexperiment), [Turn](/hab/turn), and [Works Ahead](/hab/worksahead).         
+<a href="http://greenroomarts.org" target="_blank">greenroom</a>'s key partner for over a decade, hÅb aims to maintain its legacy — working in collaboration with a range of [partners](/hab/partners) to produce showing opportunities, platforms, and artist development projects including: [Divergency](/hab/divergencymcr), [Emergency](/hab/emergency), [Haphazard](/hab/haphazard), [Social Experiment](/hab/socialexperiment), [Turn](/hab/turn), [Works Ahead](/hab/worksahead).         
           
 Essentially industry-facing, hÅb works with [artists, peers, venues, and others](/hab/partners) to create the best possible opportunities for new work to flourish. We also offer free 30-minute [Advice Sessions](/hab/advice) on Mondays with Tamsin Drury via Zoom.          
         
-Supported using public funding by <a href="https://www.artscouncil.org.uk/npo" target="_blank">Arts Council England</a>, hÅb is also:<br>**a** <a href="http://divergencymcr.org" target="_blank">Divergency</a> core partner — encouraging diversity in Live Art;<br>**a** <a href="http://manchesterindependents.org" target="_blank">Manchester Independents</a> lead partner — highlighting GM artists;<br>**a** <a href="http://liveartuk.org" target="_blank">Live Art UK</a> member — supporting and developing Live Art infrastructure;<br>**a** member of <a href="https://g-mast.org" target="_blank">GMAST</a> and the GM LGBTQ+ Arts & Culture Network.        
+Supported using public funding by <a href="https://www.artscouncil.org.uk/npo" target="_blank">Arts Council England</a>, hÅb is also:<br>**a** <a href="http://divergencymcr.org" target="_blank">Divergency</a> core partner — encouraging diversity in Live Art;<br>**a** <a href="http://manchesterindependents.org" target="_blank">Manchester Independents</a> lead partner — highlighting GM artists;<br>**a** <a href="http://liveartuk.org" target="_blank">Live Art UK</a> member — supporting and developing Live Art infrastructure;<br>**a** member of <a href="https://g-mast.org" target="_blank">GMAST</a>, and the GM LGBTQ+ Arts & Culture Network.        
        
 Since January 2012, hÅb has been 'public' in the guise of [Word of Warning](/) — a peripatetic programme of, and online signpost to, contemporary live work in Manchester + beyond… ***NB** this part of our site aims to offer **information to artists** wishing to know more about hÅb's work and how to get involved; for information on our public-facing programme please see [Word of Warning](/).*       
         
@@ -28,4 +28,6 @@ hÅb curates sited performance and interventions — presenting [Hazard](/hab/ha
          
 In spring 2020 hÅb began an online [Domestic](/hab/domestic) series, offering artists an opportunity to informally try out new ideas live from their homes — our <a href="http://domesticmcr.posthaven.com" target="_blank">rolling open call sought proposals</a> for performance works to be presented online, within an artist's available resources. Alongside live works, artists proposed pre-recorded pieces — so in December 2020 we introduced <a href="http://domesticatedonline.org" target="_blank">Domesticated</a>, a home for video performance, featuring eight works.          
          
-In any given year, hÅb might work with 100 artists — and present a couple of platforms, a sited festival, and over 50 pieces of work as [Word of Warning](/). Please see our [News page](/news/#artists) for latest information.
+In any given year, hÅb might work with 100 artists — and present a couple of platforms, a sited festival, and over 50 pieces of work as [Word of Warning](/).        
+         
+Please see our [News page](/news/#artists) for latest information and opportunities.
