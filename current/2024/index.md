@@ -8,9 +8,9 @@ artist_size: 1
 season: "Performance Programme 2024"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2024/#about) · [audiences](/current/2024/#audiences) · [by](/current/2024/#by) · [people](/current/2024/#people) · [warnings](/current/2024/#warnings)</span><br><small>Updated 5 December 2024</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2024/#about) · [audiences](/current/2024/#audiences) · [by](/current/2024/#by) · [people](/current/2024/#people) · [warnings](/current/2024/#warnings)</span><br><small>Updated 13 December 2024</small>        
          
-*Our Performance Programme is on hiatus, with future events to be announced… We began the year with [Turn](/current/2024-turn)'s whirlwind of new dance at <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, followed by [ELOINA](/current/2024/ELOINA)'s riotous rebellion at <a href="https://thelowry.com" target="_blank">LOWRY</a>, [Works Ahead: Radiator](/current/2024-worksahead)'s sharing of Live Art at <a href="https://theatre.mmu.ac.uk/productions" target="_blank">MMU</a>, [Haphazard](/current/2024-haphazard)'s afternoon of antics at <a href="https://z-arts.org" target="_blank">Z-arts</a>, and [Emergency](/current/2024-emergency)'s day out for the curious at <a href="https://contactmcr.com" target="_blank">Contact</a>.*         
+*— Spring saw [Turn](/current/2024-turn)'s whirlwind of new dance at <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, followed by [ELOINA](/current/2024/ELOINA)'s riotous rebellion at <a href="https://thelowry.com" target="_blank">LOWRY</a>, [Works Ahead: Radiator](/current/2024-worksahead)'s sharing of Live Art at <a href="https://theatre.mmu.ac.uk/productions" target="_blank">MMU</a>— Summer saw [Haphazard](/current/2024-haphazard)'s afternoon of antics at <a href="https://z-arts.org" target="_blank">Z-arts</a>— Autumn saw [Emergency](/current/2024-emergency)'s day out for the curious at <a href="https://contactmcr.com" target="_blank">Contact</a>*         
          
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
@@ -24,7 +24,7 @@ Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful, a
 >*If you haven’t attended one of these performance evenings yet, <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a> are you doing? Go and see the stimulating new work that's out there!*<br>&nbsp;— <a href="http://number9reviews.blogspot.com/2019/11/theatre-review-tom-cassani-i-promise.html" target="_blank">Number 9 Reviews on WTF Wednesdays (November 2019)</a>        
       
 We take live work very seriously — but we don't take ourselves seriously at all. Over the past dozen or so years we've shown funny, thought-provoking, and beautiful work by the likes of Ron Athey, Harry Clayton-Wright, Chanje Kunda, Stacy Makishi, Pinchbeck & Smith, Darren Pritchard, Proto-type Theater, Proud & Loud Arts, and Avital Raz (amongst others).         
-<small><span style='font-variant: small-caps'>[back to top](/current/2023)</span></small>         
+<small><span style='font-variant: small-caps'>[back to top](/current/2024)</span></small>         
          
 #### Audiences         
 We don't want to put you off by talking art form labels — yes, there'll be theatre, Live Art, performance, dance, etc. — as our aim is to be anything but elitist or po-faced. So, if you like comedy, music, gaming, or want a friendly, stimulating evening — there'll be something you might want to take a chance on…         
