@@ -28,21 +28,23 @@ Get a feel for [Turn](/hab/turn) with [2024's programme](/archive/2024-turn) and
 Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn 2025 transport you into a frenzy of dance…         
          
 #### Artists         
-*Participating artists to be announced during February.*<br>*The Call for Proposals is Open until Friday 31 January 2025, 5pm at <a href="http://turnmcr.posthaven.com" target="_blank">turnmcr.posthaven.com</a>*         
+*With participating artists to be announced during February, the call for proposals is open until Friday 31 January, 5pm at <a href="http://turnmcr.posthaven.com" target="_blank">turnmcr.posthaven.com</a>*         
          
 #### Entry         
-Pay What You Decide: £15/£10/£5/£0<br>Ticketing: available online via <a href="https://contactmcr.com" target="_blank">Contact</a> during February.         
+Pay What You Decide: £15/£10/£5/£0         
          
-Time: Friday 4 April 2025, 7pm (with intervals, ends *about* 10pm).         
+Ticketing: available online via <a href="https://contactmcr.com" target="_blank">Contact</a> during February.         
+         
+Time: Friday 4 April 2025, 7pm (with intervals/pauses, ends *about* 10pm).         
              
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA         
         
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
          
-Content Warnings: some works may involve interaction and/or participation; any specific warnings will be listed [here](/warnings) during February.         
+Content Warnings: some works *may* involve interaction and/or participation; any specific warnings will be listed [here](/warnings) during February.         
         
-Features: *up to ten* contemporary dance and performance works with varied content.<br>*NB* works will occur in multiple spaces throughout the building and will vary in format.
+Features: *up to ten* contemporary dance performance works with varied content.<br>*NB* works will occur in multiple spaces throughout the building and will vary in format.
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
