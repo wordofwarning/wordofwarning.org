@@ -31,13 +31,13 @@ Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn
 *Participating artists to be announced during February — the call for proposals is open at <a href="http://turnmcr.posthaven.com" target="_blank">turnmcr.posthaven.com</a> until Friday 31 January, 5pm.*         
          
 #### Entry         
-Pay What You Decide: £15/£10/£5/£0         
+Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
          
-Ticketing: available online via <a href="https://contactmcr.com/whats-on" target="_blank">Contact</a> during February.         
+Tickets: available online via <a href="https://contactmcr.com/whats-on" target="_blank">Contact</a> during February.         
          
 Time: Friday 4 April 2025, 7pm (with intervals/pauses, ends *about* 10pm).         
              
-Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA         
+Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
         
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
