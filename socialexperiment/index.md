@@ -17,7 +17,7 @@ season: "Social Experiment 2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [details](/socialexperiment/#details) · [access](/socialexperiment/#access) · [artists](/socialexperiment/#artists) · [credits](/socialexperiment/#credits)</span><br><small>Updated 28 November 2024</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [credits](/socialexperiment/#credits)</span><br><small>Updated 18 December 2024</small>          
          
 *Presented by* Word of Warning + Contact *as a semi-regular evening event.*         
          
@@ -29,29 +29,29 @@ If you're a Greater Manchester artist — this is your <a href="https://socialex
          
 If you're an audience member looking for something a little bit different — this is your chance to take a few risks & meet some artists in our social experiment.         
          
-#### Details         
-Entry: FREE, there's no need to book… just turn up!         
-         
-Dates: Thursdays 6 February, 22 May, 17 July, 27 November 2025.<br>Times: in the evening with start & finish to be confirmed.         
-          
-Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester, M15 6JA         
-         
-#### Access         
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
-          
-Content Warnings: some works may involve interaction and/or participation; specific warnings will be listed [here](/warnings) about a week before each event.         
-          
-Features: a small number of Live Art & contemporary performance works with varied content — to be confirmed about a week before each event.         
-         
-*NB* works will occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in Space 0 and/or bar, and will vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
-         
-Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
-                   
 #### Artists        
 Greater Manchester artists (*aged 18+*) are invited to submit proposals of: short performances, interventions, or durational works, for inclusion in these events.         
          
 **For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>**         
          
+#### Entry         
+FREE: there's no tickets to book… just turn up!         
+         
+Dates: Thursdays 6 February, 22 May, 17 July, and 27 November 2025.<br>Time: 6pm onwards (each event ends *latest* 9pm).         
+          
+Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester M15 6JA.         
+         
+#### Access         
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
+          
+Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed [here](/warnings) *about* a week before each event.         
+          
+Features: a small number of Live Art & contemporary performance works with varied content — to be confirmed *about* a week before each event.         
+         
+*NB* works will occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in Space 0 and/or bar, and will vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
+         
+Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
+                   
 #### Credits          
 [Social Experiment](/hab/socialexperiment) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
                  
