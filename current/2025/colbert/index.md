@@ -17,7 +17,7 @@ season: "Kellie Colbert 13|3|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/colbert/#entry) · [access](/current/2025/colbert/#access) · [about](current/2025/colbert/#about)· [artist](/current/2025/colbert/#artist) · [credits](/current/2025/colbert/#credits) · [websites](/current/2025/colbert/#websites)</span><br><small>Updated 18 December 2024</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/colbert/#entry) · [access](/current/2025/colbert/#access) · [about](current/2025/colbert/#about) · [artist](/current/2025/colbert/#artist) · [credits](/current/2025/colbert/#credits) · [websites](/current/2025/colbert/#websites)</span><br><small>Updated 18 December 2024</small>        
         
 *Presented by* Word of Warning + Contact        
         
@@ -30,7 +30,7 @@ An exploration of love, betrayal, and care — an autobiographical performance t
 #### Entry          
 Pay What You Decide: £10/£5/£0 (advance booking recommended).        
          
-Tickets: available online via <a href="https://contactmcr.com/whats-on" target="_blank">Contact</a> during February.         
+Tickets: available online via <a href="https://contactmcr.com/whats-on" target="_blank">Contact</a> during January.         
          
 Time: Thursday 13 March 2025, 7.30pm (ends *about* 8.30pm).         
              
@@ -39,7 +39,7 @@ Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Co
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
          
-Content Warnings: some works *may* involve interaction and/or participation; any specific warnings will be listed [here](/warnings) during February.         
+Content Warnings: will be listed [here](/warnings) during January.         
         
 Features: a contemporary performance work with varied content; occurs in a studio space with raked seating.
          
@@ -58,9 +58,9 @@ Kellie has collaborated with Eggs Collective, and has been commissioned by NIAMO
 Her biggest accomplishment to date is publicly debuting *Root*, an intimate performance video that explores & exposes trichotillomania — it went on to be supported by HabitAware, a company who aims to raise awareness for Body-Focused Repetitive Behaviours.        
 
 #### Credits         
-Audio: *Falling in Love* from *Divine Madness* by Alan Watts<br>Music: *Dedicated to the One I Love* by The Mamas & the Papas, *You Don't Own Me* by Lesley Gore, *Sunken City* by Les Baxter, *Golden Square* by Warrington-Runcorn New Town Development Plan        
+Director: Peader Kirk<br>Audio: *Falling in Love* from *Divine Madness* by Alan Watts<br>Music: *Dedicated to the One I Love* by The Mamas & the Papas, *You Don't Own Me* by Lesley Gore, *Sunken City* by Les Baxter, *Golden Square* by Warrington-Runcorn New Town Development Plan        
         
-Originally commissioned for [Works Ahead](/hab/worksahead) by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>; ? produced by [hÅb](/hab).<br>Director: Peader Kirk       
+Produced by [hÅb](/hab); commissioned for [Works Ahead](/hab/worksahead) by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.          
          
 #### Websites          
 <a href="https://instagram.com/kellie.colbert.theatre" target="_blank">Insta @kellie.colbert.theatre</a> · <a href="https://x.com/imKellieColbert" target="_blank">X @imKellieColbert</a>         
