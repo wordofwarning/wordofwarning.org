@@ -926,7 +926,7 @@
 	.t2023 .splash
 		{background:url(../images/header_turn23.jpg) center center}
 
-/* Works Ahead 2022+2023 berry & gasworks
+/* Works Ahead 2022+2023+2025 berry & gasworks
 ------------------------------------------------------*/
 		
 	.w2022,
@@ -974,7 +974,7 @@
 	.p2023 .splash
 		{background:url(../images/header_warni_2023.jpg) -150px center}
 
-/* Turn 2024 cyan & Lisa Chearles by Burke Raby
+/* Turn 2024 cyan & Lisa Chearles by Burke Raby from T24
 ------------------------------------------------------*/
 
 	.t2024,
@@ -1043,7 +1043,28 @@
 	.p2024 .splash
 		{background:url(../images/header_warni_2024.jpg) -150px center}
 
-/* 2025 Programme tbc
+/* Turn 2025 cyan & Lizzy Owew by Tam at T23
+------------------------------------------------------*/
+
+	.t2025,
+	.t2025 .artist, 
+	.t2025 .show,
+	.t2025 .season
+		{background:#6cc; color:#000;}
+
+	.t2025 a,
+	.t2025 a:visited,
+	.t2025 a:hover
+		{color:#000;}
+	.t2025 nav a:hover,
+	.t2025 article a:hover,
+	.t2025 footer a:hover
+		{background:#000; color:#6cc;}
+
+	.t2025 .splash
+		{background:url(../images/header_turn24_lizzyowen.jpg) center center}
+
+/* 2025 Programme placeholder sunset ombré (try purple cystals later)
 ------------------------------------------------------*/
 
 	.p2025 .splash
