@@ -8,9 +8,9 @@ artist_size: 1
 season: "Performance Programme 2025"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span><br><small>Updated 13 December 2024</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span><br><small>Updated 18 December 2024</small>        
          
-*We begin the year with a new [Social Experiment](/socialexperiment) at <a href="https://contactmcr.com" target="_blank">Contact</a>, followed by [Kellie Colbert](/current/2025/colbert)'s dedication of love at <a href="https://contactmcr.com" target="_blank">Contact</a>, and [Turn](/current/2025-turn)'s whirlwind night at <a href="https://contactmcr.com" target="_blank">Contact</a> — there'll be more after Easter…*          
+*We start with a new [Social Experiment](/socialexperiment) at <a href="https://contactmcr.com" target="_blank">Contact</a>, followed by [Kellie Colbert](/current/2025/colbert)'s dedication of love and [Turn](/current/2025-turn)'s whirlwind night, and more to come in May…*          
          
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
