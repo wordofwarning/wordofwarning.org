@@ -17,7 +17,7 @@ season: "Turn 4|4|2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits) · [websites](/current/2025-turn/#websites)</span><br><small>Updated 16 December 2024</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits) · [websites](/current/2025-turn/#websites)</span><br><small>Updated 18 December 2024</small>        
         
 *Presented by* Word of Warning *+* Contact        
         
@@ -33,7 +33,7 @@ Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn
 #### Entry         
 Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
          
-Tickets: available online via <a href="https://contactmcr.com/whats-on" target="_blank">Contact</a> during February.         
+Tickets: available online via <a href="https://contactmcr.com/whats-on" target="_blank">Contact</a> during January.         
          
 Time: Friday 4 April 2025, 7pm (with intervals/pauses, ends *about* 10pm).         
              
@@ -58,7 +58,9 @@ First held at greenroom in spring 2009, [Turn](/hab/turn) moved to <a href="http
 Get a feel for [Turn](/hab/turn) with [2024's programme](/archive/2024-turn) and [gallery of images](/galleries/2024-turn), [2023's programme](/archive/2023-turn) & [gallery](/galleries/2023-turn), [2017's programme](/archive/2017-turn) & [gallery](/galleries/2017-turn).         
         
 #### Credits                 
-[Turn](/hab/turn) 2025 produced by [hÅb](/hab); supported by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England.<br>Image: Lizzy Owen in [Turn 2023](/archive/2023-turn) at Contact by Tamsin Drury         
+[Turn](/hab/turn) 2025 produced by [hÅb](/hab); supported by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England.         
+         
+Image: Lizzy Owen in [Turn 2023](/archive/2023-turn) at Contact by Tamsin Drury         
         
 #### Websites         
 <a href="https://turnmcr.org" target="_blank">TurnMcr.org</a> · Enquiries: <mailto:turn@habmcr.org>         
