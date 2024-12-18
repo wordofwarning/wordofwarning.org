@@ -27,7 +27,6 @@ An exploration of love, betrayal, and care — an autobiographical performance t
 
 *Dedicated To The One I Love* is an exposing and relatable performance that challenges and defies the suffocating truth we sometimes refuse to believe.       
          
-         
 #### Entry          
 Pay What You Decide: £10/£5/£0 (advance booking recommended).        
          
@@ -38,11 +37,18 @@ Time: Thursday 13 March 2025, 7.30pm (ends *about* 8.30pm).
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
         
 #### Access         
-Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: some works may disturb, please click [here](/warnings).<br>Features: three contemporary performance works with varied content.<br>Queries: please call <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> on 0161 274 0600 or email <mailto:BoxOffice@contactmcr.com>        
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
+         
+Content Warnings: some works *may* involve interaction and/or participation; any specific warnings will be listed [here](/warnings) during February.         
+        
+Features: a contemporary performance work with varied content; occurs in a studio space with raked seating.
+         
+Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### About           
-[Works Ahead](/hab/worksahead) is a project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011.
-Since 2012 it has offered over thirty-five small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events. Support includes mentoring and a public showing of the next stage of the work, in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>… Kellie is [presented alongside two other artists](/archive/2023-worksahead).        
+An exploration of love, betrayal, and care — an autobiographical performance that aims to create a safe space as Kellie confronts the fears of being alone, longing for an artificial connection to transfer her to reality.        
+
+*Dedicated To The One I Love* is an exposing and relatable performance that challenges and defies the suffocating truth we sometimes refuse to believe.       
         
 #### Artist        
 Kellie is a Greater Manchester-based performance maker. She would describe herself as an autobiographical artist, who creates work that is honest, relatable, and at times self-critical. Kellie uses spoken word and symbolism to explore memories, often focusing on themes of mental health and feminism. She aims to create performance that is both self-exposing and empathetic.         
@@ -50,7 +56,6 @@ Kellie is a Greater Manchester-based performance maker. She would describe herse
 Kellie has collaborated with Eggs Collective, and has been commissioned by NIAMOS & (in)sane Mcr as part of the Starvin Artists project, and by Breakdown Bolton to create short performance videos to raise mental health awareness.        
          
 Her biggest accomplishment to date is publicly debuting *Root*, an intimate performance video that explores & exposes trichotillomania — it went on to be supported by HabitAware, a company who aims to raise awareness for Body-Focused Repetitive Behaviours.        
-
 
 #### Credits         
 Audio: *Falling in Love* from *Divine Madness* by Alan Watts<br>Music: *Dedicated to the One I Love* by The Mamas & the Papas, *You Don't Own Me* by Lesley Gore, *Sunken City* by Les Baxter, *Golden Square* by Warrington-Runcorn New Town Development Plan        
