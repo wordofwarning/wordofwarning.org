@@ -1,15 +1,15 @@
 ---
 # CONFIGURATION
-layout: 2023-woah
+layout: 2025-programme
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Kellie Colbert" # the name of the artist or company
 show: "Dedicated To The One I Love" # the name of the show
-artist_size: 2
+artist_size: 1
 show_size: 4
-header_image: "header_kellie_desat.jpg"
-season: "Kellie Colbert in Works Ahead 18+19|5|2023"
+header_image: "header_kellie.jpg"
+season: "Kellie Colbert 13|3|2025, 7.30pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,9 +17,9 @@ season: "Kellie Colbert in Works Ahead 18+19|5|2023"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/archive/2023-worksahead/colbert/#artist) · [quotes](/archive/2023-worksahead/colbert/#quotes) · [ticketing](/archive/2023-worksahead/colbert/#ticketing) · [access](/archive/2023-worksahead/colbert/#access) · [about](/archive/2023-worksahead/colbert/#about) · [credits](/archive/2023-worksahead/colbert/#credits) · [websites](/archive/2023-worksahead/colbert/#websites)</span><br><small>Updated 8 February 2024</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2025/colbert/#artist) · [quotes](/archive/2023-worksahead/colbert/#quotes) · [ticketing](/archive/2023-worksahead/colbert/#ticketing) · [access](/archive/2023-worksahead/colbert/#access) · [about](/archive/2023-worksahead/colbert/#about) · [credits](/archive/2023-worksahead/colbert/#credits) · [websites](/archive/2023-worksahead/colbert/#websites)</span><br><small>Updated 8 February 2024</small>        
         
-*Presented by* Word of Warning + Contact *in* [Works Ahead 2023](/archive/2023-worksahead)        
+*Presented by* Word of Warning + Contact        
         
 *And tell all the stars above. This is dedicated to the one I love.<br>(Love can never be exactly like we want it to be.)*          
          
@@ -57,6 +57,4 @@ Audio: *Falling in Love* from *Divine Madness* by Alan Watts<br>Music: *Dedicate
 #### Websites          
 Insta <a href="https://instagram.com/kellie.colbert.theatre" target="_blank">kellie.colbert.theatre</a> · <a href="https://twitter.com/imKellieColbert" target="_blank">@imKellieColbert</a><br><a href="https://worksahead.org" target="_blank">WorksAhead.org</a> · <a href="https://twitter.com/hashtag/WorksAhead" target="_blank">#WorksAhead</a>         
         
-*NB* <a href="https://contactmcr.com" target="_blank">Contact's website</a> changed on 9 May & links to their site have been updated.          
-        
-<small><span style='font-variant: small-caps'>[back to top](/archive/2023-worksahead/colbert)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/current/2025/colbert)</span></small>
