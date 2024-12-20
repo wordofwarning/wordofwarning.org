@@ -17,20 +17,20 @@ season: "Emergency 28|9|2024"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2024-emergency/#artists) · [details](/current/2024-emergency/#details) · [access](/current/2024-emergency/#access) · [about](/current/2024-emergency/#about) · [credits](/current/2024-emergency/#credits) · [websites](/current/2024-emergency/#websites)</span><br><small>Updated 4 October 2024</small>     
+<span style='font-variant: small-caps'>→ [artists](/archive/2024-emergency/#artists) · [details](/archive/2024-emergency/#details) · [access](/archive/2024-emergency/#access) · [about](/archive/2024-emergency/#about) · [credits](/archive/2024-emergency/#credits) · [websites](/archive/2024-emergency/#websites)</span><br><small>Updated 20 December 2024</small>     
         
 *Presented by* Word of Warning *+* Contact        
         
-Manchester's 24th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com/events/emergency-24" target="_blank">Contact</a> on **Saturday 28 September from Noon to 10pm**:<br>— with an **[Afternoon](/current/2024-emergency/afternoon)** of installations, interventions, limited capacity works<br>— followed by an **[Evening](/current/2024-emergency/evening)** full of short shows from 4pm…         
+Manchester's 24th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com/events/emergency-24" target="_blank">Contact</a> on **Saturday 28 September from Noon to 10pm**:<br>— with an **[Afternoon](/archive/2024-emergency/afternoon)** of installations, interventions, limited capacity works<br>— followed by an **[Evening](/archive/2024-emergency/evening)** full of short shows from 4pm…         
          
 Look at some of our [artists' images](/galleries/2024-emergencypre) — now it's over, see [images from the event](/galleries/2024-emergency).         
          
 >*<font color="#FFFFFF">From sleeping princes to burning regrets, memorable ice cream to unforgettable break-ups, a deep dive into the environment and a trio of weddings.<br>Welcoming new faces and the return of old friends — what we can say is: we won’t be crying wolf.</font>*         
           
 #### Artists         
-**[Afternoon](/current/2024-emergency/afternoon), Noon-4pm.**<br>Ali&nbsp;Wilson&nbsp;· Billy&nbsp;Gigurtsis&nbsp;· Diane&nbsp;Dwyer&nbsp;· Emergency&nbsp;Chorus&nbsp;· Farida&nbsp;Yesmin&nbsp;· Heather&nbsp;Alice&nbsp;White&nbsp;· Jennifer&nbsp;Ng&nbsp;· Ludo&nbsp;&&nbsp;Jake&nbsp;· Martin&nbsp;Hamblen&nbsp;· Nicola&nbsp;Dale&nbsp;· Riley&nbsp;Hamshaw-Mills&nbsp;· Robyn&nbsp;Greeves&nbsp;· Rowena&nbsp;Gander&nbsp;· The&nbsp;Paula&nbsp;Davy         
+**[Afternoon](/archive/2024-emergency/afternoon), Noon-4pm.**<br>Ali&nbsp;Wilson&nbsp;· Billy&nbsp;Gigurtsis&nbsp;· Diane&nbsp;Dwyer&nbsp;· Emergency&nbsp;Chorus&nbsp;· Farida&nbsp;Yesmin&nbsp;· Heather&nbsp;Alice&nbsp;White&nbsp;· Jennifer&nbsp;Ng&nbsp;· Ludo&nbsp;&&nbsp;Jake&nbsp;· Martin&nbsp;Hamblen&nbsp;· Nicola&nbsp;Dale&nbsp;· Riley&nbsp;Hamshaw-Mills&nbsp;· Robyn&nbsp;Greeves&nbsp;· Rowena&nbsp;Gander&nbsp;· The&nbsp;Paula&nbsp;Davy         
          
-**[Evening](/current/2024-emergency/evening), 4pm-10pm.**<br>Adèle&nbsp;Le&nbsp;Gallez&nbsp;· Ali&nbsp;Wilson&nbsp;· Annie&nbsp;Finn&nbsp;&&nbsp;Poppy&nbsp;Waxman&nbsp;· Drunken&nbsp;Chorus&nbsp;· Isabella&nbsp;Victorie&nbsp;A.&nbsp;· Jana&nbsp;Aizupe&nbsp;&&nbsp;Company&nbsp;· Kelvin&nbsp;Atmadibrata&nbsp;· Lewys&nbsp;Holt&nbsp;· Ludo&nbsp;&&nbsp;Jake&nbsp;· Luke&nbsp;McDonnell&nbsp;· Maria&nbsp;Garcia&nbsp;· Martha&nbsp;Pailing&nbsp;· Mi&nbsp;Otra&nbsp;Hermana&nbsp;· Shannon&nbsp;Mulvey&nbsp;· WilL&nbsp;Dickie&nbsp;· Yafei&nbsp;Zheng       
+**[Evening](/archive/2024-emergency/evening), 4pm-10pm.**<br>Adèle&nbsp;Le&nbsp;Gallez&nbsp;· Ali&nbsp;Wilson&nbsp;· Annie&nbsp;Finn&nbsp;&&nbsp;Poppy&nbsp;Waxman&nbsp;· Drunken&nbsp;Chorus&nbsp;· Isabella&nbsp;Victorie&nbsp;A.&nbsp;· Jana&nbsp;Aizupe&nbsp;&&nbsp;Company&nbsp;· Kelvin&nbsp;Atmadibrata&nbsp;· Lewys&nbsp;Holt&nbsp;· Ludo&nbsp;&&nbsp;Jake&nbsp;· Luke&nbsp;McDonnell&nbsp;· Maria&nbsp;Garcia&nbsp;· Martha&nbsp;Pailing&nbsp;· Mi&nbsp;Otra&nbsp;Hermana&nbsp;· Shannon&nbsp;Mulvey&nbsp;· WilL&nbsp;Dickie&nbsp;· Yafei&nbsp;Zheng       
          
 <small>*Participating artists subject to change.*</small>        
           
@@ -64,4 +64,4 @@ Get a feel for it with [2023's programme](/archive/2023-emergency) & [image gall
         
 #### Websites         
 <a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a> · <a href="https://twitter.com/hashtag/Emergency24" target="_blank">#Emergency24</a>               
-<small><span style='font-variant: small-caps'>[back to top](/current/2024-emergency)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2024-emergency)</span></small>
