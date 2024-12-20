@@ -17,9 +17,9 @@ season: "Turn 22|3|2024, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 21 March 2024</small>         
+<small>Updated 20 December 2024</small>         
         
-*[A night of new NW dance on 22 March](/current/2024-turn), presented by* Word of Warning *+* Company Chameleon         
+*[A night of new NW dance on 22 March](/archive/2024-turn), presented by* Word of Warning *+* Company Chameleon         
          
 #### Artists         
 chris&nbsp;brown&nbsp;· Fabíola&nbsp;Santana&nbsp;· Isaac&nbsp;Glenister&nbsp;· Jake&nbsp;Evans&nbsp;· Just_Ina&nbsp;· Lily&nbsp;Antonia&nbsp;· Lisa&nbsp;Chearles&nbsp;· Louiseanne&nbsp;Wong<br><small>*Participating artists subject to change.*</small>         
@@ -129,4 +129,4 @@ Louiseanne (she/they) is a non-binary East Asian artist and coach, born and bred
           
 <a href="https://facebook.com/wonglouiseanne" target="_blank">Fb /wonglouiseanne</a> · <a href="https://instagram.com/louiseannewong" target="_blank">Insta @louiseannewong</a> · <a href="https://twitter.com/louiseannewong" target="_blank">X @louiseannewong</a>        
 <hr>          
-<small><span style='font-variant: small-caps'>[back to top](/current/2024-turn/programme)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2024-turn/programme)</span></small>
