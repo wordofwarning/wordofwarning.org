@@ -17,7 +17,7 @@ season: "ELOINA 27|4|2024, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [ticketing](/current/2024/ELOINA/#ticketing) · [access](/current/2024/ELOINA/#access) · [about](/current/2024/ELOINA/#about) · [artist](/current/2024/ELOINA/#artist) · [reviews](/current/2024/ELOINA/#reviews) · [credits](/current/2024/ELOINA/#credits) · [websites](/current/2024/ELOINA/#websites)</span><br><small>Updated 22 April 2024</small>          
+<span style='font-variant: small-caps'>→ [ticketing](/archive/2024/ELOINA/#ticketing) · [access](/archive/2024/ELOINA/#access) · [about](/archive/2024/ELOINA/#about) · [artist](/archive/2024/ELOINA/#artist) · [reviews](/archive/2024/ELOINA/#reviews) · [credits](/archive/2024/ELOINA/#credits) · [websites](/archive/2024/ELOINA/#websites)</span><br><small>Updated 20 December 2024</small>          
          
 *Presented by* The Lowry + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a>         
          
@@ -64,4 +64,4 @@ With loving thanks to: MAMA, Joe Iredale, The Sisterhood, Andy's Dad's Accordion
 #### Websites          
 <a href="https://eloina.art/high-steaks" target="_blank">eloina.art/high-steaks</a> · <a href="https://instagram.com/eloinaaart" target="_blank">Insta @eloinaaart</a> · <a href="https://twitter.com/eloinaaart" target="_blank">X @eloinaaart</a>         
         
-<small><span style='font-variant: small-caps'>[back to top](/current/2024/ELOINA)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2024/ELOINA)</span></small>
