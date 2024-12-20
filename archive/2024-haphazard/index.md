@@ -8,7 +8,7 @@ artist: "Haphazard 2024" # the name of the artist or company
 show: "A free day out for the curious of all ages." # the name of the show
 artist_size: 1
 show_size: 4
-season: "Haphazard 27|7|2024"
+season: "Haphazard 27|7|2024, 1-4pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
