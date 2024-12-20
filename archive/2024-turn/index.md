@@ -17,11 +17,11 @@ season: "Turn 22|3|2024"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2024-turn/#artists) · [ticketing](/current/2024-turn/#ticketing) · [access](/current/2024-turn/#access) · [about](/current/2024-turn/#about) · [credits](/current/2024-turn/#credits) · [websites](/current/2024-turn/#websites)</span><br><small>Updated 28 March 2024</small>        
+<span style='font-variant: small-caps'>→ [artists](/archive/2024-turn/#artists) · [ticketing](/archive/2024-turn/#ticketing) · [access](/archive/2024-turn/#access) · [about](/archive/2024-turn/#about) · [credits](/archive/2024-turn/#credits) · [websites](/archive/2024-turn/#websites)</span><br><small>Updated 20 December 2024</small>        
         
 *Presented by* Word of Warning *+* Company Chameleon        
         
-Our annual whirlwind of new North West dance returns, this year at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, with eight short works on **Friday 22 March**.<br>Look at some of our [artists' images](/galleries/2024-turnpre) & read their [programme notes](/current/2024-turn/programme) — and now it's over, see [images from the event](/galleries/2024-turn).         
+Our annual whirlwind of new North West dance returns, this year at new home <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> Studios, with eight short works on **Friday 22 March**.<br>Look at some of our [artists' images](/galleries/2024-turnpre) & read their [programme notes](/archive/2024-turn/programme) — and now it's over, see [images from the event](/galleries/2024-turn).         
          
 #### Artists         
 chris&nbsp;brown&nbsp;· Fabíola&nbsp;Santana&nbsp;· Isaac&nbsp;Glenister&nbsp;· Jake&nbsp;Evans&nbsp;· Just_Ina&nbsp;· Lily&nbsp;Antonia&nbsp;· Lisa&nbsp;Chearles&nbsp;· Louiseanne&nbsp;Wong<br><small>*Participating artists subject to change.*</small>         
@@ -48,4 +48,4 @@ Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn
         
 #### Websites         
 <a href="https://turnmcr.org" target="_blank">TurnMcr.org</a> · <a href="https://twitter.com/hashtag/TurnMcr" target="_blank">X #TurnMcr</a><br>&nbsp;chris brown — <a href="https://chrisbtheatre.com" target="_blank">chrisbtheatre.com</a> · <a href="https://instagram.com/christopher.p.brown" target="_blank">Insta @christopher.p.brown</a> · <a href="https://twitter.com/ChristopherActB" target="_blank">X @ChristopherActB</a><br>&nbsp;Fabíola Santana — <a href="https://fabiolasantana.co.uk" target="_blank">fabiolasantana.co.uk</a> · <a href="https://instagram.com/fbs.santana" target="_blank">Insta @fbs.santana</a> · <a href="https://twitter.com/fbs_santana" target="_blank">X @fbs_santana</a><br>&nbsp;Isaac Glenister — <a href="https://instagram.com/isaacglenister" target="_blank">Insta @isaacglenister</a><br>&nbsp;Jake Evans — <a href="https://jakeevans.co.uk" target="_blank">jakeevans.co.uk</a> · <a href="https://instagram.com/jakedanielevanss" target="_blank">Insta @jakedanielevanss</a><br>&nbsp;Just_Ina — <a href="https://instagram.com/im_just_ina" target="_blank">Insta @im_just_ina</a><br>&nbsp;Lily Antonia — <a href="https://instagram.com/lily.antonia" target="_blank">Insta @lily.antonia</a><br>&nbsp;Lisa Chearles — <a href="https://instagram.com/mestakes" target="_blank">Insta @mestakes</a><br>&nbsp;Louiseanne Wong — <a href="https://facebook.com/wonglouiseanne" target="_blank">Fb /wonglouiseanne</a> · <a href="https://instagram.com/louiseannewong" target="_blank">Insta @louiseannewong</a> · <a href="https://twitter.com/louiseannewong" target="_blank">X @louiseannewong</a>          
-<small><span style='font-variant: small-caps'>[back to top](/current/2024-turn)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2024-turn)</span></small>
