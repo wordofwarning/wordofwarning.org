@@ -16,9 +16,9 @@ season: "Haphazard 27|7|2024, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 18 July 2024</small>         
+<small>Updated 20 December 2024</small>         
          
-*[A free afternoon for the curious of all ages on 27 July](/current/2024-haphazard), presented by* Word of Warning *+* Z-arts — *look at some of our [artists' images](/galleries/2024-haphazardpre).*        
+*[A free afternoon for the curious of all ages on 27 July](/archive/2024-haphazard), presented by* Word of Warning *+* Z-arts — *look at some of our [artists' images](/galleries/2024-haphazardpre).*        
          
 #### Artists         
 Chanje&nbsp;Kunda&nbsp;· Chicken&nbsp;Shop&nbsp;Hermits&nbsp;· Chris&nbsp;Sav&nbsp;· Failed&nbsp;Artists&nbsp;Society&nbsp;· Jana&nbsp;Aizupe&nbsp;&&nbsp;Company&nbsp;· perfectly&nbsp;serviceable&nbsp;· Porcelain&nbsp;Delaney&nbsp;· Sohail&nbsp;Khan&nbsp;· Thomas&nbsp;Daniel&nbsp;Byrne&nbsp;&&nbsp;Aimee&nbsp;Williamson<br><small>*Participating artists subject to change.*</small>       
@@ -108,5 +108,5 @@ Thomas is a Manchester-based performer, musician, and puppeteer, Aimee is a Lanc
          
 Thomas YouTube <a href="https://youtube.com/@ThomasDanielByrne" target="_blank">@ThomasDanielByrne</a> · Aimee Insta <a href="https://instagram.com/aimeelilywilliamson" target="_blank">@aimeelilywilliamson</a>         
 <hr>          
-[Haphazard](/hab/haphazard) [2024](/current/2024-haphazard) produced by [hÅb](/hab) with <a href="https://z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England, and by Manchester City Council and Greater Manchester Combined Authority.<br>Image: Puppetfingers at [Haphazard 2023](/archive/2023-haphazard)         
-<small><span style='font-variant: small-caps'>[back to top](/current/2024-haphazard/programme)</span></small>
+[Haphazard](/hab/haphazard) [2024](/archive/2024-haphazard) produced by [hÅb](/hab) with <a href="https://z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England, and by Manchester City Council and Greater Manchester Combined Authority.<br>Image: Puppetfingers at [Haphazard 2023](/archive/2023-haphazard)         
+<small><span style='font-variant: small-caps'>[back to top](/archive/2024-haphazard/programme)</span></small>
