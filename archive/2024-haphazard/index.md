@@ -15,13 +15,13 @@ season: "Haphazard 27|7|2024"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2024-haphazard/#artists) · [details](/current/2024-haphazard/#details) · [access](/current/2024-haphazard/#access) · [about](/current/2024-haphazard/#about) · [credits](/current/2024-haphazard/#credits) · [websites](/current/2024-haphazard/#websites)</span><br><small>Updated 1 August 2024</small>        
+<span style='font-variant: small-caps'>→ [artists](/archive/2024-haphazard/#artists) · [details](/archive/2024-haphazard/#details) · [access](/archive/2024-haphazard/#access) · [about](/archive/2024-haphazard/#about) · [credits](/archive/2024-haphazard/#credits) · [websites](/archive/2024-haphazard/#websites)</span><br><small>Updated 20 December 2024</small>        
         
 *Presented by* Word of Warning *+* Z-arts           
          
 Playful, quirky, engaging, and sometimes plain daft: Haphazard is for kids and their adults, adults and *their* adults — anyone looking for a different day out!         
          
-Look at some of our [artists' images](/galleries/2024-haphazardpre) & read their [programme notes](/current/2024-haphazard/programme) — and now it's over, see [images from the event](/galleries/2024-haphazard).         
+Look at some of our [artists' images](/galleries/2024-haphazardpre) & read their [programme notes](/archive/2024-haphazard/programme) — and now it's over, see [images from the event](/galleries/2024-haphazard).         
           
 A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2024" target="_blank">Z-arts</a> **on Saturday 27 July from 1pm to 4pm**. Turn up at any time, come and go as you please… and expect the unexpected!         
          
@@ -56,4 +56,4 @@ Get a feel for it by looking at image galleries from [2023](/galleries/2023-haph
         
 #### Websites         
 <a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a><br>&nbsp;Chanje Kunda — <a href="https://chanjekunda.com" target="_blank">chanjekunda.com</a><br>&nbsp;Chicken Shop Hermits (Chiara Scoglio & Hector T.J. Huang) — Insta <a href="https://instagram.com/chickenshophermits" target="_blank">@chickenshophermits</a><br>&nbsp;Chris Sav — <a href="https://chrissavartist.wordpress.com" target="_blank">chrissavartist.wordpress.com</a><br>&nbsp;Failed Artists Society<br>&nbsp;Eleanor Webster — <a href="https://eleanorwebster.co.uk" target="_blank">eleanorwebster.co.uk</a><br>&nbsp;Emma Bourke Theatre — <a href="https://emmabourketheatre.com" target="_blank">emmabourketheatre.com</a><br>&nbsp;Rose Wilson Arts — <a href="https://rosewilsonarts.co.uk" target="_blank">rosewilsonarts.co.uk</a><br>&nbsp;Jana Aizupe & Company — Insta <a href="https://instagram.com/1001create" target="_blank">@1001create</a><br>&nbsp;perfectly serviceable (Lewys Holt) — <a href="https://lewysholt.com" target="_blank">lewysholt.com</a><br>&nbsp;Porcelain Delaney — Insta <a href="https://instagram.com/porcelaindelaneyy" target="_blank">@porcelaindelaneyy</a><br>&nbsp;Sohail Khan — YouTube <a href="https://youtube.com/@trilobitefulness" target="_blank">@trilobitefulness</a><br>&nbsp;Thomas Daniel Byrne — YouTube <a href="https://youtube.com/@ThomasDanielByrne" target="_blank">@ThomasDanielByrne</a><br>&nbsp;& Aimee Williamson — Insta <a href="https://instagram.com/aimeelilywilliamson" target="_blank">@aimeelilywilliamson</a>         
-<small><span style='font-variant: small-caps'>[back to top](/current/2024-haphazard)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2024-haphazard)</span></small>
