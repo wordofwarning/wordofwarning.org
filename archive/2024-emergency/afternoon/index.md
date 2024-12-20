@@ -17,16 +17,16 @@ season: "Emergency 28|9|2024, Afternoon Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 25 September 2024</small>     
+<small>Updated 20 December 2024</small>     
         
-*First half of [Emergency 24](/current/2024-emergency) — an Afternoon of installations, interventions, limited capacity works — presented by* Word of Warning *+* Contact        
+*First half of [Emergency 24](/archive/2024-emergency) — an Afternoon of installations, interventions, limited capacity works — presented by* Word of Warning *+* Contact        
          
 #### Afternoon Artists         
 **Saturday 28 September 2024, Noon-4pm.**<br>Ali&nbsp;Wilson&nbsp;· Billy&nbsp;Gigurtsis&nbsp;· Diane&nbsp;Dwyer&nbsp;· Emergency&nbsp;Chorus&nbsp;· Farida&nbsp;Yesmin&nbsp;· Heather&nbsp;Alice&nbsp;White&nbsp;· Jennifer&nbsp;Ng&nbsp;· Ludo&nbsp;&&nbsp;Jake&nbsp;· Martin&nbsp;Hamblen&nbsp;· Nicola&nbsp;Dale&nbsp;· Riley&nbsp;Hamshaw-Mills&nbsp;· Robyn&nbsp;Greeves&nbsp;· Rowena&nbsp;Gander&nbsp;· The&nbsp;Paula&nbsp;Davy         
          
 <small>*Participating artists subject to change.*</small>         
 
-*NB* some artists will take breaks on an ad hoc basis, some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time — so you will not be able to see everything. The Afternoon is followed by an [Evening](/current/2024-emergency/evening) full of short shows to 10pm.         
+*NB* some artists will take breaks on an ad hoc basis, some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time — so you will not be able to see everything. The Afternoon is followed by an [Evening](/archive/2024-emergency/evening) full of short shows to 10pm.         
          
 #### Afternoon Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
@@ -159,4 +159,4 @@ Paula Davy is a solo live artist from a background of political activism & prote
          
 <a href="https://pauladavy.wordpress.com" target="_blank">pauladavy.wordpress.com</a>         
 <hr>         
-<small><span style='font-variant: small-caps'>[back to top](/current/2024-emergency/afternoon)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2024-emergency/afternoon)</span></small>
