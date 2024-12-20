@@ -23,7 +23,7 @@ season: "Kellie Colbert 13|3|2025, 7.30pm"
          
 *And tell all the stars above. This is dedicated to the one I love.*         
          
-An exploration of anxiety, love, deception, and survival. (Love can never be exactly like we want it to be.)         
+An exploration of anxiety, love, deception, and survival.<br>(Love can never be exactly like we want it to be.)         
          
 How do we give care and how can we tell if somebody really cares for us?         
          
@@ -38,14 +38,14 @@ Tickets: available online via <a href="https://contactmcr.com/whats-on" target="
          
 Time: Thursday 13 March 2025, 7.30pm (ends *about* 8.30pm).         
              
-Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
+Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 2), Oxford Rd, Manchester M15 6JA.         
         
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
          
 Content Warnings: will be listed [here](/warnings) during January.         
         
-Features: a contemporary performance work with varied content; occurs in a studio space with raked seating.         
+Features: a contemporary performance work with varied content; occurs in a studio space with raked seating, on the 2nd floor.         
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
