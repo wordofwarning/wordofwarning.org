@@ -17,9 +17,9 @@ season: "Works Ahead: Radiator 24|5|2024, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 23 May 2024, 18:05</small>         
+<small>Updated 20 December 2024</small>         
         
-*[A sharing of Live Art on 24 May](/current/2024-worksahead), presented by* Word of Warning *+* Manchester School of Theatre         
+*[A sharing of Live Art on 24 May](/archive/2024-worksahead), presented by* Word of Warning *+* Manchester School of Theatre         
          
 #### Artists         
 Ash&nbsp;Cox&nbsp;· chris&nbsp;brown&nbsp;· E.M.&nbsp;Parry&nbsp;· Heather&nbsp;Alice&nbsp;· ITZATNA&nbsp;· Jamil&nbsp;Keating&nbsp;· Kelvin&nbsp;Atmadibrata&nbsp;· Lauren&nbsp;Greer<br><small>*Participating artists subject to change.*</small>         
@@ -111,4 +111,4 @@ Lauren is a Northern Irish, working-class artist currently residing in Mancheste
         
 <a href="https://msha.ke/laurengreerperformanceartist" target="_blank">msha.ke/laurengreerperformanceartist</a> · Insta <a href="https://instagram.com/_i_am_lauren_g_" target="_blank">@\_i\_am\_lauren\_g\_</a> · X <a href="https://twitter.com/_i_am_lauren_g_" target="_blank">@\_i\_am\_lauren\_g\_</a>          
 <hr>         
-<small><span style='font-variant: small-caps'>[back to top](/current/2024-worksahead/programme)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2024-worksahead/programme)</span></small>
