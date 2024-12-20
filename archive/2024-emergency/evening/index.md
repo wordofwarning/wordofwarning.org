@@ -17,16 +17,16 @@ season: "Emergency 28|9|2024, Evening Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 25 September 2024</small>     
+<small>Updated 20 December 2024</small>     
         
-*Second half of [Emergency 24](/current/2024-emergency) — an Evening full of short shows — presented by* Word of Warning *+* Contact         
+*Second half of [Emergency 24](/archive/2024-emergency) — an Evening full of short shows — presented by* Word of Warning *+* Contact         
          
 #### Evening Artists         
 **Saturday 28 September 2024, 4pm-10pm.**<br>Adèle&nbsp;Le&nbsp;Gallez&nbsp;· Ali&nbsp;Wilson&nbsp;· Annie&nbsp;Finn&nbsp;&&nbsp;Poppy&nbsp;Waxman&nbsp;· Drunken&nbsp;Chorus&nbsp;· Isabella&nbsp;Victorie&nbsp;A.&nbsp;· Jana&nbsp;Aizupe&nbsp;&&nbsp;Company&nbsp;· Kelvin&nbsp;Atmadibrata&nbsp;· Lewys&nbsp;Holt&nbsp;· Ludo&nbsp;&&nbsp;Jake&nbsp;· Luke&nbsp;McDonnell&nbsp;· Maria&nbsp;Garcia&nbsp;· Martha&nbsp;Pailing&nbsp;· Mi&nbsp;Otra&nbsp;Hermana&nbsp;· Shannon&nbsp;Mulvey&nbsp;· WilL&nbsp;Dickie&nbsp;· Yafei&nbsp;Zheng          
          
 <small>*Participating artists subject to change.*</small>         
          
-*NB* last show starts *~9.30pm*; some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time — so you will not be able to see everything. The Evening is preceded by an [Afternoon](/current/2024-emergency/afternoon) of installations, interventions, limited capacity works, from Noon.          
+*NB* last show starts *~9.30pm*; some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time — so you will not be able to see everything. The Evening is preceded by an [Afternoon](/archive/2024-emergency/afternoon) of installations, interventions, limited capacity works, from Noon.          
          
 #### Evening Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
@@ -192,4 +192,4 @@ Yafei Zheng is a London-based interdisciplinary performance & video artist from 
           
 <a href="https://yafeizheng.com" target="_blank">yafeizheng.com</a> · Insta <a href="https://instagram.com/fei_yafeiz" target="_blank">@fei_yafeiz</a> & <a href="https://instagram.com/isthereworkonmars" target="_blank">@isthereworkonmars</a>         
 <hr>         
-<small><span style='font-variant: small-caps'>[back to top](/current/2024-emergency/evening)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2024-emergency/evening)</span></small>
