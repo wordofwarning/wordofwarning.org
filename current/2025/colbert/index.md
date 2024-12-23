@@ -17,7 +17,7 @@ season: "Kellie Colbert 13|3|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/colbert/#entry) · [access](/current/2025/colbert/#access) · [artist](/current/2025/colbert/#artist) · [credits](/current/2025/colbert/#credits) · [websites](/current/2025/colbert/#websites)</span><br><small>Updated 20 December 2024</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/colbert/#entry) · [access](/current/2025/colbert/#access) · [artist](/current/2025/colbert/#artist) · [credits](/current/2025/colbert/#credits) · [websites](/current/2025/colbert/#websites)</span><br><small>Updated 23 December 2024</small>        
            
 *Presented by* Word of Warning + Contact          
          
@@ -27,7 +27,7 @@ An exploration of anxiety, love, deception, and survival.<br>(Love can never be 
          
 How do we give care and how can we tell if somebody really cares for us?         
          
-*Dedicated To The One I Love* draws on Kellie's real experience of being gaslit — a performance that aims to create a safe space as Kellie confronts the fears of being alone, and falls for an artificial connection. All she wants now is a transfer to reality because the truth is you don't own me.         
+*Dedicated To The One I Love* draws on Kellie's real experience of being gaslit — a performance that aims to create a safe space as Kellie confronts the fears of being alone, and falls for an artificial connection. All she wants now is a transfer to reality because the truth is, *you don't own me*.         
          
 An exposing and relatable performance that challenges and defies suffocating truths we sometimes struggle to believe.         
          
@@ -45,7 +45,7 @@ Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).
          
 Content Warnings: will be listed [here](/warnings) during January.         
         
-Features: a contemporary performance work with varied content; occurs in a studio space with raked seating, on the 2nd floor.         
+Features: a contemporary solo performance work, mainly spoken English with varied content; occurs in a studio space with raked seating, on the 2nd floor.         
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
