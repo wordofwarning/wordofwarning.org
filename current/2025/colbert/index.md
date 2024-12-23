@@ -59,7 +59,7 @@ Her biggest accomplishment to date is publicly debuting *Root*, an intimate perf
 #### Credits         
 Director: Peader Kirk<br>Audio: *Falling in Love* from *Divine Madness* by Alan Watts<br>Music: *Dedicated to the One I Love* by The Mamas & the Papas, *You Don't Own Me* by Lesley Gore, *Sunken City* by Les Baxter, *Golden Square* by Warrington-Runcorn New Town Development Plan          
          
-Produced by [hÅb](/hab); commissioned for [Works Ahead](/hab/worksahead) by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.          
+Produced by [hÅb](/hab); commissioned for [Works Ahead](/hab/worksahead) by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.<br>Image: [Works Ahead 2023](/archive/2023-worksahead/colbert) at Contact by Tamsin Drury         
          
 #### Websites          
 <a href="https://instagram.com/kellie.colbert.theatre" target="_blank">Insta @kellie.colbert.theatre</a> · <a href="https://x.com/imKellieColbert" target="_blank">X @imKellieColbert</a>         
