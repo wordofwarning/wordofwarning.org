@@ -17,7 +17,7 @@ season: "Kellie Colbert 13|3|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/colbert/#entry) · [access](/current/2025/colbert/#access) · [artist](/current/2025/colbert/#artist) · [credits](/current/2025/colbert/#credits) · [websites](/current/2025/colbert/#websites)</span><br><small>Updated 23 December 2024</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/colbert/#entry) · [access](/current/2025/colbert/#access) · [artist](/current/2025/colbert/#artist) · [credits](/current/2025/colbert/#credits) · [websites](/current/2025/colbert/#websites)</span><br><small>Updated 7 January 2025</small>        
            
 *Presented by* Word of Warning + Contact          
          
@@ -52,7 +52,7 @@ Queries: please contact <a href="https://contactmcr.com/visit/access" target="_b
 #### Artist        
 Kellie is a Greater Manchester-based performance maker. She would describe herself as an autobiographical artist, who creates work that is honest, relatable, and at times self-critical. Kellie uses spoken word and symbolism to explore memories, often focusing on themes of mental health and feminism. She aims to create performance that is both self-exposing and empathetic.         
         
-Kellie has collaborated with Eggs Collective, and has been commissioned by NIAMOS & (in)sane Mcr as part of the Starvin Artists project, and by Breakdown Bolton to create short performance videos to raise mental health awareness.        
+Kellie has collaborated with Eggs Collective, and has been commissioned by NIAMOS & (in)sane Mcr as part of the *Starvin Artists* project and by Breakdown Bolton to create short performance videos to raise mental health awareness. She is currently part of the co-curation group at Factory International, organising an event for early 2025.        
          
 Her biggest accomplishment to date is publicly debuting *Root*, an intimate performance video that explores & exposes trichotillomania — it went on to be supported by HabitAware, a company who aims to raise awareness for Body-Focused Repetitive Behaviours.         
          
