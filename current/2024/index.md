@@ -10,6 +10,7 @@ season: "Performance Programme 2024"
 ---
 <span style='font-variant: small-caps'>→ [about](/current/2024/#about) · [audiences](/current/2024/#audiences) · [by](/current/2024/#by) · [people](/current/2024/#people) · [warnings](/current/2024/#warnings)</span><br><small>Updated 7 January 2025</small>        
          
+With 2024 complete, we'll announce 2025's Programme later this week…
 2025's Performance Programme will be announced later this week…        
          
 *— Spring saw [Turn](/current/2024-turn)'s whirlwind at <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, [ELOINA](/current/2024/ELOINA)'s riotous rebellion at <a href="https://thelowry.com" target="_blank">LOWRY</a>, and [Works Ahead: Radiator](/current/2024-worksahead)'s informal sharing at <a href="https://theatre.mmu.ac.uk/productions" target="_blank">MMU</a><br>— Summer saw [Haphazard](/current/2024-haphazard)'s free afternoon of antics for all ages at <a href="https://z-arts.org" target="_blank">Z-arts</a><br>— Autumn saw [Emergency](/current/2024-emergency)'s 24th annual day out for the curious at <a href="https://contactmcr.com" target="_blank">Contact</a>*         
