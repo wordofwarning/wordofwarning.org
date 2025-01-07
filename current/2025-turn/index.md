@@ -17,7 +17,7 @@ season: "Turn 4|4|2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits) · [websites](/current/2025-turn/#websites)</span><br><small>Updated 18 December 2024</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits) · [websites](/current/2025-turn/#websites)</span><br><small>Updated 7 January 2025</small>        
         
 *Presented by* Word of Warning *+* Contact        
         
@@ -33,7 +33,7 @@ Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn
 #### Entry         
 Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
          
-Tickets: available online via <a href="https://contactmcr.com/whats-on" target="_blank">Contact</a> during January.         
+Tickets: available online via <a href="https://contactmcr.com/whats-on" target="_blank">Contact</a> from mid-January.         
          
 Time: Friday 4 April 2025, 7pm (with intervals/pauses, ends *about* 10pm).         
              
