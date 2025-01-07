@@ -34,7 +34,7 @@ An exposing and relatable performance that challenges and defies suffocating tru
 #### Entry          
 Pay What You Decide: £10/£5/£0 (advance booking recommended).        
          
-Tickets: available online via <a href="https://contactmcr.com/whats-on" target="_blank">Contact</a> during January.         
+Tickets: available online via <a href="https://contactmcr.com/whats-on" target="_blank">Contact</a> from mid-January.         
          
 Time: Thursday 13 March 2025, 7.30pm (ends *about* 8.30pm).         
              
@@ -43,7 +43,7 @@ Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Co
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
          
-Content Warnings: will be listed [here](/warnings) during January.         
+Content Warnings: please click [here](/warnings).         
         
 Features: a contemporary solo performance work, mainly spoken English with varied content; occurs in a studio space with raked seating, on the 2nd floor.         
          
