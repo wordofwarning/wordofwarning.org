@@ -36,7 +36,7 @@ Pay What You Decide: £10/£5/£0 (advance booking recommended).
          
 Tickets: available online via <a href="https://contactmcr.com/whats-on" target="_blank">Contact</a> from mid-January.         
          
-Time: Thursday 13 March 2025, 7.30pm (ends *about* 8.30pm).         
+Time: Thursday 13 March 2025, 7.30pm (ends *about* 8.30pm, no interval).         
              
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 2), Oxford Rd, Manchester M15 6JA.         
         
