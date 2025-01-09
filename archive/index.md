@@ -4,6 +4,11 @@ layout: archive
 season: "Archive"
 
 archived:
+    - {folder: "2024", name: "2024", class: "p2024"}
+    - {folder: "2024-emergency", name: "Emergency 24", class: "e2021"}
+    - {folder: "2024-haphazard", name: "Haphazard 2024", class: "h2024"}
+    - {folder: "2024-worksahead", name: "Works Ahead: Radiator (2024)", class: "w2024"}
+    - {folder: "2024-turn", name: "Turn 2024", class: "t2024"}
     - {folder: "2023", name: "2023", class: "p2023"}
     - {folder: "2023-emergency", name: "Emergency 23", class: "e2021"}
     - {folder: "2023-haphazard", name: "Haphazard 2023", class: "h2023"}
@@ -77,4 +82,4 @@ archived:
     
 ---
 # Archive
-Discover our previous events below…&ensp;<small>Updated 8 February 2024<small>
+Discover our previous events below…&emsp;<small>Updated 9 January 2025<small>
