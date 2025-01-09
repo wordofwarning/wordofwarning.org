@@ -16,11 +16,11 @@ season: "Turn by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 16 December 2024</small>        
+<small>Updated 9 January 2025</small>        
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester every spring.    
              
-The twelfth edition, **Turn 2025** will take place at <a href="https://contactmcr.com" target="_blank">Contact</a> on **Friday 4 April from 7pm** — presenting *up to ten* short dance-works throughout the building.        
+The twelfth edition, [Turn 2025](/current/2025-turn) takes place at <a href="https://contactmcr.com" target="_blank">Contact</a> on **Friday 4 April from 7pm** — presenting *up to ten* short dance-works throughout the building.        
          
 Get a feel for it with [2024's programme](/current/2024-turn) and [gallery of images](/galleries/2024-turn), [2023's programme](/archive/2023-turn) & [gallery](/galleries/2023-turn), [2017's programme](/archive/2017-turn) & [gallery](/galleries/2017-turn).         
         
@@ -35,7 +35,7 @@ North West† dancers and dance-makers (*aged 18+*) are <a href="http://turnmcr.
          
 Turn 2025 will be:<br>— a **single evening of public performances on Friday 4 April**;<br>— followed by an **artist day on Saturday 5 April**, incorporating a workshop or masterclasses and feedback sessions;<br>— and participating artists will be expected to attend **both** days.         
          
-Turn 2025 presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England.        
+[Turn 2025](/current/2025-turn) presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England.        
          
 Enquiries: <mailto:turn@habmcr.org> · <a href="http://turnmcr.org" target="_blank">TurnMcr.org</a>         
          
