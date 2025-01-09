@@ -8,7 +8,7 @@ header:
 stylesheet: gallery.css
 
 more_link: Haphazard 2024
-more_url: "../../current/2024-haphazard"
+more_url: "../../archive/2024-haphazard"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small><i>A free day out for the curious of all ages at Z-arts, Sat 27 Jul 2024</i> · Puppetfingers at Haphazard 2023</small>"}
