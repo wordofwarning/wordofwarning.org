@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 7 January 2025<small>        
+<small>Updated 9 January 2025<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>(Please click [here](/archive/warnings) for *past* events and *archived* livestreams on our YouTube channel.)         
          
@@ -20,4 +20,11 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 <hr>         
 #### 2025         
         
-*Upcoming events to be announced later this week…*
+##### [6 Feb. Contact | Social Experiment](/socialexperiment)          
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed here *about* a week before each event.         
+         
+##### [13 Mar. Contact | *Dedicated to the One I Love* by Kellie Colbert](/current/2025/colbert)          
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: references anxiety, depression, online trolling, <a href="https://www.nhs.uk/mental-health/conditions/trichotillomania" target="_blank">trichotillomania</a>.         
+         
+##### [4 Apr. Contact | Turn 2025](/current/2025-turn)          
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; aspecific warnings will be listed here during February.
