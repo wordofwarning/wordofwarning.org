@@ -8,7 +8,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: Turn 2024
-more_url: "../../current/2024-turn"
+more_url: "../../archive/2024-turn"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<i>A night of new dance, Fri 22 Mar 2024</i> · Lisa Chearles by Burke Raby"}
