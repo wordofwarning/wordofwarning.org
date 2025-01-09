@@ -33,7 +33,7 @@ Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn
 #### Entry         
 Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
          
-Tickets: available online via <a href="https://contactmcr.com/whats-on" target="_blank">Contact</a> from mid-January.         
+Tickets: now available <a href="https://contactmcr.com/book/instance/358758" target="_blank">online via Contact</a>.         
          
 Time: Friday 4 April 2025, 7pm (with intervals/pauses, ends *about* 10pm).         
              
