@@ -17,7 +17,7 @@ season: "Social Experiment 2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [credits](/socialexperiment/#credits)</span><br><small>Updated 18 December 2024</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [credits](/socialexperiment/#credits)</span><br><small>Updated 9 January 2025</small>          
          
 *Presented by* Word of Warning + Contact *as a semi-regular evening event.*         
          
