@@ -8,9 +8,9 @@ artist_size: 1
 season: "Performance Programme 2025"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span><br><small>Updated 7 January 2025</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span><br><small>Updated 9 January 2025</small>        
          
-*Spring starts with a new [Social Experiment](/socialexperiment) and continues at <a href="https://contactmcr.com" target="_blank">Contact</a> with [Kellie Colbert](/current/2025/colbert)'s dedication of love followed by [Turn](/current/2025-turn)'s whirlwind of dance…*          
+*Spring starts with a new [Social Experiment](/socialexperiment) and continues at <a href="https://contactmcr.com" target="_blank">Contact</a> with [Kellie Colbert](/current/2025/colbert)'s dedication of love, followed by [Turn](/current/2025-turn)'s whirlwind of dance…*          
          
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
@@ -48,7 +48,7 @@ John Franklin-Johnston, hÅb's Programme Manager, is a freelance producer, event
          
 Peader Kirk, artist & mentor, supports [Works Ahead](/hab/worksahead) and other hÅb projects.         
          
-We're grateful for the ongoing support of hÅb projects during 2025 from a team of freelancers and volunteers that includes: Alison Darnbrough, Andrew Crofts, Annelise Edwards, Catherine Shaw, Martha Barr, Sam Stockdale, Tania Camara, Tricia Coleman, and Theatre & Performance students from The Arden.         
+We're grateful for the ongoing support of hÅb projects during 2025 from a team of freelancers and volunteers that includes: Alison Darnbrough, Andrew Crofts, Annelise Edwards, Catherine Shaw, Jamil Keating, Martha Barr, Sam Stockdale, Tania Camara, Tricia Coleman, and Theatre & Performance students from The Arden.         
          
 Thanks also to [hÅb](/hab)'s Advisory Board: Helen Palmer, Charles Rowley, Cathy Butterworth, Joseph Lau, and Maya Chowdhry for [Divergency](/hab/divergencymcr).        
 <small><span style='font-variant: small-caps'>[back to top](/current/2025)</span></small>        
