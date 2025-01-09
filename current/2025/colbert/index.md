@@ -17,7 +17,7 @@ season: "Kellie Colbert 13|3|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/colbert/#entry) · [access](/current/2025/colbert/#access) · [artist](/current/2025/colbert/#artist) · [credits](/current/2025/colbert/#credits) · [websites](/current/2025/colbert/#websites)</span><br><small>Updated 7 January 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/colbert/#entry) · [access](/current/2025/colbert/#access) · [artist](/current/2025/colbert/#artist) · [credits](/current/2025/colbert/#credits) · [websites](/current/2025/colbert/#websites)</span><br><small>Updated 9 January 2025</small>        
            
 *Presented by* Word of Warning + Contact          
          
@@ -34,7 +34,7 @@ An exposing and relatable performance that challenges and defies suffocating tru
 #### Entry          
 Pay What You Decide: £10/£5/£0 (advance booking recommended).        
          
-Tickets: available online via <a href="https://contactmcr.com/whats-on" target="_blank">Contact</a> from mid-January.         
+Tickets: now available <a href="https://contactmcr.com/book/instance/358558" target="_blank">online via Contact</a>.         
          
 Time: Thursday 13 March 2025, 7.30pm (ends *about* 8.30pm, no interval).         
              
