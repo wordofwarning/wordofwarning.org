@@ -22,7 +22,7 @@ season: "Turn by hÅb"
              
 The twelfth edition, [Turn 2025](/current/2025-turn) takes place at <a href="https://contactmcr.com" target="_blank">Contact</a> on **Friday 4 April from 7pm** — presenting *up to ten* short dance-works throughout the building.        
          
-Get a feel for it with [2024's programme](/current/2024-turn) and [gallery of images](/galleries/2024-turn), [2023's programme](/archive/2023-turn) & [gallery](/galleries/2023-turn), [2017's programme](/archive/2017-turn) & [gallery](/galleries/2017-turn).         
+Get a feel for it with [2024's programme](/archive/2024-turn) and [gallery of images](/galleries/2024-turn), [2023's programme](/archive/2023-turn) & [gallery](/galleries/2023-turn), [2017's programme](/archive/2017-turn) & [gallery](/galleries/2017-turn).         
         
 Greater Manchester's open call dance platform, Turn aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— and is open to North West England† dancers and dance-makers, aged 18+          
          
@@ -40,16 +40,16 @@ Turn 2025 will be:<br>— a **single evening of public performances on Friday 4 
 Enquiries: <mailto:turn@habmcr.org> · <a href="http://turnmcr.org" target="_blank">TurnMcr.org</a>         
          
 #### Past Editions        
-First held at greenroom in spring 2009, Turn moved to <a href="https://contactmcr.com" target="_blank">Contact</a> in 2012 (with a 2018-22 hiatus) and also popped-up at <a href="https://companychameleon.com" target="_blank">Company Chameleon Studios</a> in [2024](/current/2024-turn)…          
+First held at greenroom in spring 2009, Turn moved to <a href="https://contactmcr.com" target="_blank">Contact</a> in 2012 (with a 2018-22 hiatus) and also popped-up at <a href="https://companychameleon.com" target="_blank">Company Chameleon Studios</a> in [2024](/archive/2024-turn)…          
            
 The ninth edition trialled a new format, with a dozen short dance-works shown on [**28 April 2017**](/archive/2017-turn), followed by a day of professional development.         
           
 After a hiatus the tenth edition returned to <a href="https://contactmcr.com" target="_blank">Contact</a>, with nine short dance-works ([see images](/galleries/2023-turn)) on [**10 March 2023**](/archive/2023-turn), followed by an artist day.          
           
-The eleventh edition took place at <a href="https://companychameleon.com" target="_blank">Company Chameleon Studios</a>, with eight short dance-works in just the one studio ([see images](/galleries/2024-turn)) on **[22 March 2024](/current/2024-turn)**, also followed by an artist day.          
+The eleventh edition took place at <a href="https://companychameleon.com" target="_blank">Company Chameleon Studios</a>, with eight short dance-works in just the one studio ([see images](/galleries/2024-turn)) on **[22 March 2024](/archive/2024-turn)**, also followed by an artist day.          
          
 #### Turn Prize 2024         
-On 30 April 2024 we were delighted to announce **Fabíola Santana** and **Louiseanne Wong** as the recipients of the Turn Prize [2024](/current/2024-turn). The Turn Prize is a commission for the development of work by North West-based dance-makers.         
+On 30 April 2024 we were delighted to announce **Fabíola Santana** and **Louiseanne Wong** as the recipients of the Turn Prize [2024](/archive/2024-turn). The Turn Prize is a commission for the development of work by North West-based dance-makers.         
          
 Turn Prize 2024 supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> using public funding by Arts Council England, and by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>.          
          
