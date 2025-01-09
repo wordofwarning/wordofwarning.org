@@ -16,7 +16,7 @@ season: "Social Experiment by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 28 November 2024</small>        
+<small>Updated 9 January 2025</small>        
         
 **Social Experiment** is a new gathering at <a href="https://contactmcr.com" target="_blank">Contact</a> for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
           
