@@ -16,17 +16,17 @@ season: "Haphazard by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---         
-<small>Updated 1 August 2024</small>        
+<small>Updated 9 January 2025</small>        
         
 **Haphazard** is our frequent foray into 'all ages' Live Art, with intriguing images and offbeat oddities dotted around and about Hulme's historic <a href="https://z-arts.org/about-us" target="_blank">Z-arts</a> building.        
          
 Playful, quirky, engaging, and sometimes plain daft: this is Live Art for kids and their adults, adults and *their* adults — anyone looking for a different day out!            
          
-[Haphazard 2024](/current/2024-haphazard) was our seventh free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2024" target="_blank">Z-arts</a>, presenting nine works on **Saturday 27 July from 1pm to 4pm** — you could turn up at any time, come and go as you please… and expect the unexpected!         
+[Haphazard 2024](/archive/2024-haphazard) was our seventh free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2024" target="_blank">Z-arts</a>, presenting nine works on **Saturday 27 July from 1pm to 4pm** — you could turn up at any time, come and go as you please… and expect the unexpected!         
          
-Get a feel for it with some of our [artists' images](/galleries/2024-haphazardpre) & read their [programme notes](/current/2024-haphazard/programme) — and now it's over, see [images from the event](/galleries/2024-haphazard).        
+Get a feel for it with some of our [artists' images](/galleries/2024-haphazardpre) & read their [programme notes](/archive/2024-haphazard/programme) — and now it's over, see [images from the event](/galleries/2024-haphazard).        
           
-[Haphazard 2024](/current/2024-haphazard) presented by [Word of Warning](/) + <a href="https://z-arts.org" target="_blank">Z-arts</a>; produced by [hÅb](/hab) with <a href="https://z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England, and by Manchester City Council and Greater Manchester Combined Authority.         
+[Haphazard 2024](/archive/2024-haphazard) presented by [Word of Warning](/) + <a href="https://z-arts.org" target="_blank">Z-arts</a>; produced by [hÅb](/hab) with <a href="https://z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England, and by Manchester City Council and Greater Manchester Combined Authority.         
           
 Enquiries: <mailto:haphazard@habmcr.org> · <a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a>         
          
