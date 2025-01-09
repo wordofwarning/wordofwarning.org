@@ -8,7 +8,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: Emergency 24
-more_url: "../../current/2024-emergency"
+more_url: "../../archive/2024-emergency"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small><i>A day out for the curious at Contact, Sat 28 Sep 2024</i></small> · Shannon Mulvey"}
