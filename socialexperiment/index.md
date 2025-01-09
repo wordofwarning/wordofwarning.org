@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: 2024-programme
+layout: 2025-programme
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
