@@ -27,4 +27,4 @@ Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Conten
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: references anxiety, depression, online trolling, <a href="https://www.nhs.uk/mental-health/conditions/trichotillomania" target="_blank">trichotillomania</a>.         
          
 ##### [4 Apr. Contact | Turn 2025](/current/2025-turn)          
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; aspecific warnings will be listed here during February.
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed here during February.
