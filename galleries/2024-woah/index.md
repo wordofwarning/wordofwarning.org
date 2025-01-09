@@ -8,7 +8,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: "Works<br>Ahead<br><i>Radiator</i>"
-more_url: "../../current/2024-worksahead"
+more_url: "../../archive/2024-worksahead"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small><i>A sharing of Live Art at MMU Grosvenor East, 24 May 2024</i></small>"}
