@@ -19,7 +19,9 @@ season: "Works Ahead by hÅb"
 ---
 <small>Updated 17 January 2025</small>                
         
-**Works Ahead** is a project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011.<br>Since 2012 it has offered over 35 small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events — with support including mentoring and a public showing of the next stage of the work, often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.         
+**Works Ahead** is a project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011.          
+         
+Since 2012 it has offered over 35 small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events — with support including mentoring and a public showing of the next stage of the work, often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.         
          
 In [2024](/hab/worksahead/#2024) we did things a little differently — **Works Ahead: Radiator** invited a group of artists to explore their own Live Art practice over an incubator weekend, starting with [an informal evening sharing](/archive/2024-worksahead) on **Friday 24 May 2024** at MMU Grosvenor East — now it's over, see [images from the event](/galleries/2024-woah).         
          
@@ -65,7 +67,7 @@ Our [eleventh Works Ahead](/archive/2023-worksahead) took place at <a href="http
 Our twelfth edition, [Works Ahead: Radiator](/archive/2024-worksahead) took place in May: eight very different artists (Ash Cox, chris brown, E.M. Parry, Heather Alice, ITZATNA, Jamil Keating, Kelvin Atmadibrata, Lauren Greer) came together for an informal evening sharing of Live Art at <a href="https://mmu.ac.uk/about-us/buildings/grosvenor-east" target="_blank">MMU Grosvenor East</a>, before they embarked on a path of shared exploration… See [images](/galleries/2024-woah).        
          
 #### 2025         
-Our thirteenth Works Ahead returns to <a href="https://contactmcr.com" target="_blank">Contact</a> in May, with a double bill from artists Adèle Le Gallez & Martha Pailing — further details to follow in March…         
+Our thirteenth Works Ahead returns to <a href="https://contactmcr.com" target="_blank">Contact</a> in May, with a double bill from artists Adèle Le Gallez and Martha Pailing… (Further details to follow.)         
          
 Works Ahead 2025 commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Works Ahead Project Mentor: Peader Kirk         
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a>         
