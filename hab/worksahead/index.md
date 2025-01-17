@@ -67,7 +67,7 @@ Our [eleventh Works Ahead](/archive/2023-worksahead) took place at <a href="http
 Our twelfth edition, [Works Ahead: Radiator](/archive/2024-worksahead) took place in May: eight very different artists (Ash Cox, chris brown, E.M. Parry, Heather Alice, ITZATNA, Jamil Keating, Kelvin Atmadibrata, Lauren Greer) came together for an informal evening sharing of Live Art at <a href="https://mmu.ac.uk/about-us/buildings/grosvenor-east" target="_blank">MMU Grosvenor East</a>, before they embarked on a path of shared exploration… See [images](/galleries/2024-woah).        
          
 #### 2025         
-Our thirteenth Works Ahead returns to <a href="https://contactmcr.com" target="_blank">Contact</a> in May, with a double bill from artists Adèle Le Gallez and Martha Pailing… (Further details to follow.)         
+Our thirteenth Works Ahead returns to <a href="https://contactmcr.com" target="_blank">Contact</a> in May, with a double bill from artists Adèle Le Gallez and Martha Pailing… Details to follow in March.         
          
 Works Ahead 2025 commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Works Ahead Project Mentor: Peader Kirk         
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a>         
