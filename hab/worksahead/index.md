@@ -17,11 +17,11 @@ season: "Works Ahead by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 9 January 2025</small>                
+<small>Updated 17 January 2025</small>                
         
 **Works Ahead** is a project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011.<br>Since 2012 it has offered over 35 small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) platform and/or other events — with support including mentoring and a public showing of the next stage of the work, often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.         
          
-In [2024](/hab/worksahead/#2024) we did things a little differently — **Works Ahead: Radiator** invited a group of artists to explore their own Live Art practice over an incubator weekend, starting with [an informal evening sharing](/archive/2024-worksahead) on **Friday 24 May** at MMU Grosvenor East — now it's over, see [images from the event](/galleries/2024-woah).         
+In [2024](/hab/worksahead/#2024) we did things a little differently — **Works Ahead: Radiator** invited a group of artists to explore their own Live Art practice over an incubator weekend, starting with [an informal evening sharing](/archive/2024-worksahead) on **Friday 24 May 2024** at MMU Grosvenor East — now it's over, see [images from the event](/galleries/2024-woah).         
          
 <span style='font-variant: small-caps'>jump → [2012](/hab/worksahead/#2012) · [13](/hab/worksahead/#2013) · [14](/hab/worksahead/#2014) · [15](/hab/worksahead/#2015) · [16](/hab/worksahead/#2016) · [17](/hab/worksahead/#2017) · [18](/hab/worksahead/#2018) · [19](/hab/worksahead/#2019) · [20](/hab/worksahead/#2020) · [21](/hab/worksahead/#2021) · [22](/hab/worksahead/#2022) · [23](/hab/worksahead/#2023) · [24](/hab/worksahead/#2024) · [25](/hab/worksahead/#2025)</span>        
 <hr>        
@@ -50,23 +50,23 @@ Our [seventh Works Ahead](/archive/2018-worksahead) took place at STUN Studio in
 Our [eighth Works Ahead](/archive/2019-worksahead) took place at STUN Studio in May, with a double bill featuring two explorations of inner conflict, outer division, and the politics of oppression from artists Mark Croasdale and Avital Raz… See [images](/galleries/2019-woah).          
 
 #### 2020         
-Our ninth Works Ahead was planned as a sited double bill at NIAMOS in May from artists Will Dickie and Ross McCaffrey — [Will](/archive/2020-spring/dickie) adapted his work for livestreaming, which was <a href="http://youtu.be/yrZFSzURaS4" target="_blank">broadcast in May</a>; Ross postponed sharing his work until it could be shown to a physical audience, which happened in [2022](/hab/worksahead/#2022).         
+Our ninth Works Ahead was planned as a sited double bill at NIAMOS in May from artists Will Dickie and Ross McCaffrey… [Will](/archive/2020-spring/dickie) adapted his work for livestreaming, which was <a href="http://youtu.be/yrZFSzURaS4" target="_blank">broadcast in May</a>; Ross postponed sharing his work until it could be shown to a physical audience, which happened in [2022](/hab/worksahead/#2022).         
             
 #### 2021         
 Commissions were awarded with Contact to artists Helena Ascough and Jade Williams for them to develop their ideas for future presentation…       
          
 #### 2022         
-Our [tenth Works Ahead](/archive/2022-worksahead) took place at <a href="https://contactmcr.com" target="_blank">Contact</a> in May — picking up where we were interrupted in [2020](/hab/worksahead/#2020) to show Will Dickie's finished live work alongside Ross McCaffrey's re-imagined development, plus Helena Ascough's digital outcome from [2021](/hab/worksahead/#2021) (watch her short film <a href="https://youtu.be/OXnLmCojOwI" target="_blank">here</a>). See [images](/galleries/2022-woah).                  
+Our [tenth Works Ahead](/archive/2022-worksahead) took place at <a href="https://contactmcr.com" target="_blank">Contact</a> in May, picking up where we were interrupted in [2020](/hab/worksahead/#2020) to show Will Dickie's finished live work alongside Ross McCaffrey's re-imagined development, plus Helena Ascough's digital outcome from [2021](/hab/worksahead/#2021) (watch her short film <a href="https://youtu.be/OXnLmCojOwI" target="_blank">here</a>). See [images](/galleries/2022-woah).                  
          
 #### 2023         
-Our [eleventh Works Ahead](/archive/2023-worksahead) took place at <a href="https://contactmcr.com" target="_blank">Contact</a> in May — with a triple bill including Jade Williams' outcome from [2021](/hab/worksahead/#2021), alongside newly-commissioned artists Christian Asare and Kellie Colbert… See [images](/galleries/2023-woah).          
+Our [eleventh Works Ahead](/archive/2023-worksahead) took place at <a href="https://contactmcr.com" target="_blank">Contact</a> in May, with a triple bill of Jade Williams' outcome from [2021](/hab/worksahead/#2021) alongside newly-commissioned artists Christian Asare and Kellie Colbert… See [images](/galleries/2023-woah).          
          
 #### 2024         
-Our twelfth edition, [Works Ahead: Radiator](/archive/2024-worksahead) took place in May — eight very different artists (Ash Cox, chris brown, E.M. Parry, Heather Alice, ITZATNA, Jamil Keating, Kelvin Atmadibrata, Lauren Greer) came together for an informal evening sharing of Live Art at <a href="https://mmu.ac.uk/about-us/buildings/grosvenor-east" target="_blank">MMU Grosvenor East</a>, before they embarked on a path of shared exploration… See [images](/galleries/2024-woah).        
+Our twelfth edition, [Works Ahead: Radiator](/archive/2024-worksahead) took place in May: eight very different artists (Ash Cox, chris brown, E.M. Parry, Heather Alice, ITZATNA, Jamil Keating, Kelvin Atmadibrata, Lauren Greer) came together for an informal evening sharing of Live Art at <a href="https://mmu.ac.uk/about-us/buildings/grosvenor-east" target="_blank">MMU Grosvenor East</a>, before they embarked on a path of shared exploration… See [images](/galleries/2024-woah).        
          
 #### 2025         
-Our thirteenth Works Ahead returns to <a href="https://contactmcr.com" target="_blank">Contact</a> in May and we'll announce the commissioned artists later in January…         
+Our thirteenth Works Ahead returns to <a href="https://contactmcr.com" target="_blank">Contact</a> in May, with a double bill from artists Adèle Le Gallez & Martha Pailing — further details to follow in March…         
          
-[Works Ahead: Radiator (2024)](/archive/2024-worksahead) produced by [hÅb](/hab); supported by <a href="https://theatre.mmu.ac.uk" target="_blank">Manchester Metropolitan University</a> and using public funding by Arts Council England.<br>Works Ahead Project Mentor: Peader Kirk         
+Works Ahead 2025 commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Works Ahead Project Mentor: Peader Kirk         
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a>         
 <small><span style='font-variant: small-caps'>[back to top](/hab/worksahead)</span></small>
