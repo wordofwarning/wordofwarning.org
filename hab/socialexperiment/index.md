@@ -20,7 +20,7 @@ season: "Social Experiment by hÅb"
         
 **Social Experiment** is a new gathering at <a href="https://contactmcr.com" target="_blank">Contact</a> for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
           
-A free and informal, semi-regular evening event — the first is on **Thursday 6 February 2025** and future dates are 22 May, 17 July, 27 November.         
+A free and informal, semi-regular evening event — the first is on **Thursday 6 February** and future dates are **22 May**, **17 July**, **27 November 2025**.         
          
 If you're a Greater Manchester artist — this is your chance to test out a short performance, intervention, or durational work, in front of an informal audience.         
          
