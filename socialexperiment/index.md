@@ -34,7 +34,7 @@ Greater Manchester artists (*aged 18+*) are invited to submit proposals of: shor
          
 **For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>**         
          
-**<a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">LINK TO PROPOSAL FORM</a>** (please go here if posthaven is down)         
+**<a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">LINK TO PROPOSAL FORM</a> (please go here if posthaven is down)**         
          
 #### Entry         
 FREE: there's no ticketing… just turn up!         
