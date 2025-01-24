@@ -30,7 +30,7 @@ If you're a Greater Manchester artist — this is your <a href="https://socialex
 If you're an audience member looking for something a little bit different — this is your chance to take a few risks & meet some artists in our social experiment.         
          
 #### Artists        
-*Participating artists for 6 February to be announced about a week before — the call for proposals is open at <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a> on a rolling basis.*         
+*Participating artists for 6 February to be announced about a week before — the call for proposals is open at <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a> for future events on 22 May, 17 July, and 27 November.*         
          
 #### Entry         
 FREE: there's no ticketing… just turn up!         
@@ -53,7 +53,7 @@ Queries: please contact <a href="https://contactmcr.com/visit/access" target="_b
 #### Apply        
 Greater Manchester artists (*aged 18+*) are invited to submit proposals of: short performances, interventions, or durational works, for inclusion in these events.         
          
-**For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>**<br>Proposal Deadline: open on a rolling basis, closing a fortnight before each edition — i.e. the deadline for 22 May is 8 May.<br>(If posthaven is down, the proposal form is <a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">here</a>.)         
+**For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>**<br>Proposal Deadline: open on a rolling basis, closing a fortnight before each event — i.e. deadline for 22 May is 8 May. (If posthaven is down, proposal form is <a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">here</a>.)         
          
 #### Credits          
 [Social Experiment](/hab/socialexperiment) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
