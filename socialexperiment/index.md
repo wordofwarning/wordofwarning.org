@@ -30,7 +30,7 @@ If you're a Greater Manchester artist — this is your <a href="https://socialex
 If you're an audience member looking for something a little bit different — this is your chance to take a few risks & meet some artists in our social experiment.         
          
 #### Artists        
-*Participating artists for 6 February to be announced about a week before — the call for proposals for future events is open at <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>.*         
+*Participating artists for 6 February to be announced about a week before — the call for future event proposals is open at <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>.*         
          
 #### Entry         
 FREE: there's no ticketing… just turn up!         
