@@ -29,7 +29,7 @@ If you're an audience member looking for something a little bit different — th
 #### Social Experiment Call for Proposals        
 Greater Manchester artists (*aged 18+*) are invited to submit proposals of: short performances, interventions, or durational works, for inclusion in these events.        
           
-**For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a><br>Proposal Deadline: open on a rolling basis, closing a fortnight before each edition — i.e. deadline for 22 May is 8 May.**         
+**For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a><br>Proposal Deadline: open on a rolling basis, closing a fortnight before each event — i.e. deadline for 22 May is 8 May, 5pm.**         
          
 (Direct link to proposal form is <a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">here</a> in case of issues with posthaven.)         
          
