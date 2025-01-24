@@ -17,7 +17,7 @@ season: "Social Experiment 2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [credits](/socialexperiment/#credits)</span><br><small>Updated 22 January 2025</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span><br><small>Updated 24 January 2025</small>          
          
 *Presented by* Word of Warning + Contact *as a semi-regular evening event.*         
          
@@ -30,11 +30,7 @@ If you're a Greater Manchester artist — this is your <a href="https://socialex
 If you're an audience member looking for something a little bit different — this is your chance to take a few risks & meet some artists in our social experiment.         
          
 #### Artists        
-Greater Manchester artists (*aged 18+*) are invited to submit proposals of: short performances, interventions, or durational works, for inclusion in these events.         
-         
-**For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>**         
-         
-**<a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">LINK TO PROPOSAL FORM</a> (please go here if posthaven is down)**         
+*Participating artists for 6 February to be announced about a week before — the call for proposals is open at <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a> on a rolling basis.*         
          
 #### Entry         
 FREE: there's no ticketing… just turn up!         
@@ -54,6 +50,11 @@ Features: a small number of Live Art & contemporary performance works with varie
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
                    
+#### Apply        
+Greater Manchester artists (*aged 18+*) are invited to submit proposals of: short performances, interventions, or durational works, for inclusion in these events.         
+         
+**For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>**<br>Proposal Deadline: open on a rolling basis, closing a fortnight before each edition — i.e. the deadline for 22 May is 8 May.<br>(If posthaven is down, the proposal form is <a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">here</a>.)         
+         
 #### Credits          
 [Social Experiment](/hab/socialexperiment) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
                  
