@@ -7,7 +7,7 @@ rootpath: "../../../"
 artist: "Social Experiment" # the name of the artist or company
 show: "6 Feb 2025 Programme" # the name of the show
 artist_size: 1
-show_size: 3
+show_size: 2
 header_image: "header_socex.jpg"  
 season: "Social Experiment 6|2|2025, Programme"
 
@@ -43,8 +43,12 @@ Features: a small number of Live Art & contemporary performance works with varie
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
                    
 #### Programme        
-         
-         
+<hr>         
+<hr>         
+<hr>         
+<hr>         
+<hr>         
+<hr>                  
 #### Credits          
 [Social Experiment](/socialexperiment) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
                  
