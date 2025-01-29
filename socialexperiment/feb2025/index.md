@@ -22,9 +22,7 @@ season: "Social Experiment 6|2|2025, Programme"
 *A [Social Experiment](/socialexperiment) on 6 February, presented by* Word of Warning + Contact         
          
 #### Artists        
-Harley&nbsp;Keasey&nbsp;· J.&nbsp;Edgar&nbsp;Staubsauger&nbsp;· Rachael&nbsp;Gooch&nbsp;· Ray&nbsp;Bubbles&nbsp;· plus&nbsp;special&nbsp;guests&nbsp;Malandra&nbsp;Jacks         
-         
-<small>*Participating artists subject to change.*<small>        
+Harley&nbsp;Keasey&nbsp;· J.&nbsp;Edgar&nbsp;Staubsauger&nbsp;· Rachael&nbsp;Gooch&nbsp;· Ray&nbsp;Bubbles&nbsp;· plus&nbsp;special&nbsp;guests&nbsp;Malandra&nbsp;Jacks<br><small>*Participating artists subject to change.*<small>        
          
 #### Entry         
 FREE: there's no ticketing… just turn up!         
@@ -47,15 +45,25 @@ Queries: please contact <a href="https://contactmcr.com/visit/access" target="_b
 #### Programme        
 <hr>         
 **Harley Keasey** · *Suff(e)rage!*         
+         
+<a href="https://harleykeasey.co.uk" target="_blank">harleykeasey.co.uk</a> · Fb <a href="https://facebook.com/profile.php?id=61560947446354" target="_blank">Harley Keasey</a> · Insta <a href="https://instagram.com/harleykeasey_pa" target="_blank">@harleykeasey_pa</a> · X <a href="https://x.com/" target="_blank">@harley_keasey</a>           
 <hr>         
 **J. Edgar Staubsauger**         
+          
+<a href="https://tamhinton.cargo.site/theatre-1" target="_blank">website</a> · Insta <a href="https://instagram.com/jedgarstaubsauger" target="_blank">@jedgarstaubsauger</a>          
 <hr>         
 **Rachael Gooch** · *An evening with…*         
+         
+Insta <a href="https://instagram.com/rach.elliot" target="_blank">@rach.elliot</a>          
 <hr>         
 **Ray Bubbles** · *Bubble Entertainment*          
+          
+<a href="https://parisbubbles.com" target="_blank">parisbubbles.com</a> · Bsky <a href="https://bsky.app/profile/parisbubbles.bsky.social" target="_blank">@parisbubbles.bsky.social</a> · Fb <a href="https://facebook.com/Parisbubbles" target="_blank">Parisbubbles</a> · Insta <a href="https://instagram.com/parisbubbles" target="_blank">@parisbubbles</a> · X <a href="https://x.com/ParisBubblesFR" target="_blank">@ParisBubblesFR</a>         
 <hr>         
-special guests **Malandra Jacks** · *Working Class Bingo*           
-<hr>                  
+special guests **Malandra Jacks** · *Working Class Bingo*          
+          
+<a href="https://malandrajacks.com" target="_blank">malandrajacks.com</a> · Fb <a href="https://facebook.com/MalandraJacks" target="_blank">MalandraJacks</a> · Insta <a href="https://instagram.com/malandra_jacks" target="_blank">@malandra_jacks</a> · X <a href="https://x.com/MalandraJacks" target="_blank">@MalandraJacks</a>          
+<hr>          
 #### Credits          
 [Social Experiment](/hab/socialexperiment) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
                  
