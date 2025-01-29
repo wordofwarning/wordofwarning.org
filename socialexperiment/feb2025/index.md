@@ -46,15 +46,15 @@ Queries: please contact <a href="https://contactmcr.com/visit/access" target="_b
                    
 #### Programme        
 <hr>         
-**Harley Keasey** · *?*         
+**Harley Keasey** · *Suff(e)rage!*         
 <hr>         
 **J. Edgar Staubsauger**         
 <hr>         
-**Rachael Gooch** · *?*         
+**Rachael Gooch** · *An evening with…*         
 <hr>         
-**Ray Bubbles** · *?*          
+**Ray Bubbles** · *Bubble Entertainment*          
 <hr>         
-special guests **Malandra Jacks** · *Census Bingo*           
+special guests **Malandra Jacks** · *Working Class Bingo*           
 <hr>                  
 #### Credits          
 [Social Experiment](/hab/socialexperiment) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
