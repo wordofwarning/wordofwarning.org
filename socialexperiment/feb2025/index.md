@@ -5,9 +5,9 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Social Experiment" # the name of the artist or company
-show: "6 Feb 2025 Programme" # the name of the show
+show: "6 February 2025 Programme" # the name of the show
 artist_size: 1
-show_size: 2
+show_size: 4
 header_image: "header_socex.jpg"  
 season: "Social Experiment 6|2|2025, Programme"
 
@@ -22,12 +22,14 @@ season: "Social Experiment 6|2|2025, Programme"
 *A [Social Experiment](/socialexperiment) on 6 February, presented by* Word of Warning + Contact         
          
 #### Artists        
-Harley Keasey · J. Edgar Staubsauger · Rachael Gooch · Ray Bubbles · plus special guests: Malandra Jacks<br>*<small>Participating artists subject to change.<small>*         
+Harley&nbsp;Keasey&nbsp;· J.&nbsp;Edgar&nbsp;Staubsauger&nbsp;· Rachael&nbsp;Gooch&nbsp;· Ray&nbsp;Bubbles&nbsp;· plus&nbsp;special&nbsp;guests&nbsp;Malandra&nbsp;Jacks         
+         
+<small>*Participating artists subject to change.*<small>        
          
 #### Entry         
 FREE: there's no ticketing… just turn up!         
          
-Date: Thursdays 6 February 2025.<br>Time: 6pm onwards (ends *about* 9pm).         
+Time: Thursday 6 February 2025, 6pm onwards (ends *about* 9pm).         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester M15 6JA.         
          
@@ -36,20 +38,25 @@ Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).
           
 Content Warnings: some works involve interaction and/or participation; specific warnings listed [here](/warnings).         
           
-Features: a small number of Live Art & contemporary performance works with varied content.         
+Features: five Live Art & contemporary performance works with varied content.         
          
-*NB* works will occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in Space 0 and bar, and will vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
+*NB* works occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in Space 0 and bar, and vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
                    
 #### Programme        
 <hr>         
+**Harley Keasey** · *?*         
 <hr>         
+**J. Edgar Staubsauger**         
 <hr>         
+**Rachael Gooch** · *?*         
 <hr>         
+**Ray Bubbles** · *?*          
 <hr>         
+special guests **Malandra Jacks** · *Census Bingo*           
 <hr>                  
 #### Credits          
-[Social Experiment](/socialexperiment) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
+[Social Experiment](/hab/socialexperiment) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
                  
 <small><span style='font-variant: small-caps'>[back to top](/socialexperiment/feb2025)</span></small>
