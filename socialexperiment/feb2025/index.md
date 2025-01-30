@@ -17,7 +17,7 @@ season: "Social Experiment 6|2|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/feb2025/#artists) · [entry](/socialexperiment/feb2025/#entry) · [access](/socialexperiment/feb2025/#access) · [programme](/socialexperiment/feb2025/#programme) · [credits](/socialexperiment/feb2025/#credits)</span><br><small>Updated 29 January 2025</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/feb2025/#artists) · [entry](/socialexperiment/feb2025/#entry) · [access](/socialexperiment/feb2025/#access) · [programme](/socialexperiment/feb2025/#programme) · [credits](/socialexperiment/feb2025/#credits)</span><br><small>Updated 30 January 2025, Noon</small>          
          
 *A [Social Experiment](/socialexperiment) on 6 February, presented by* Word of Warning + Contact         
          
@@ -38,7 +38,7 @@ Content Warnings: some works involve interaction and/or participation; specific 
           
 Features: five Live Art & contemporary performance works with varied content.         
          
-*NB* works occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in Space 0 and bar, and vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
+*NB* works occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in space 0 & bar, and vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
                    
@@ -56,7 +56,7 @@ Queries: please contact <a href="https://contactmcr.com/visit/access" target="_b
          
 Insta <a href="https://instagram.com/rach.elliot" target="_blank">@rach.elliot</a>          
 <hr>         
-**Ray Bubbles** · *Bubble Entertainment*          
+**Ray Bubbles** · *The Ultimate Bubble Show — teaser*          
           
 <a href="https://parisbubbles.com" target="_blank">parisbubbles.com</a> · Bsky <a href="https://bsky.app/profile/parisbubbles.bsky.social" target="_blank">@parisbubbles.bsky.social</a> · Fb <a href="https://facebook.com/Parisbubbles" target="_blank">Parisbubbles</a> · Insta <a href="https://instagram.com/parisbubbles" target="_blank">@parisbubbles</a> · X <a href="https://x.com/ParisBubblesFR" target="_blank">@ParisBubblesFR</a>         
 <hr>         
