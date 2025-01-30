@@ -23,7 +23,7 @@ season: "Social Experiment 2025"
          
 **Social Experiment** is a new gathering at <a href="https://contactmcr.com" target="_blank">Contact</a> for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
           
-A free and informal, semi-regular evening event with the first on **Thursday 6 February from 6pm** — future dates are 22 May, 17 July, and 27 November.         
+A free and informal, semi-regular evening event with the first on [Thursday 6 February from 6pm](/socialexperiment/feb2025) — future dates are 22 May, 17 July, and 27 November.         
          
 If you're a Greater Manchester artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
          
@@ -31,9 +31,9 @@ If you're an audience member looking for something a little bit different — th
          
 #### Artists        
 **[6 February](/socialexperiment/feb2025)**         
-Harley&nbsp;Keasey&nbsp;· J.&nbsp;Edgar&nbsp;Staubsauger&nbsp;· Rachael&nbsp;Gooch&nbsp;· Ray&nbsp;Bubbles&nbsp;· plus&nbsp;special&nbsp;guests&nbsp;Malandra&nbsp;Jacks&emsp; <small>*Participating artists subject to change.*<small>         
+Harley&nbsp;Keasey&nbsp;· J.&nbsp;Edgar&nbsp;Staubsauger&nbsp;· Rachael&nbsp;Gooch&nbsp;· Ray&nbsp;Bubbles&nbsp;· plus&nbsp;special&nbsp;guests&nbsp;Malandra&nbsp;Jacks&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*<small>         
          
-*NB* participating artists for future events will be announced about a week before each one — the open call for proposals is at <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>         
+*NB* participating artists for future dates will be announced about a week before each event — the call for proposals is open at <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>         
          
 #### Entry         
 FREE: there's no ticketing… just turn up!         
