@@ -46,7 +46,7 @@ Queries: please contact <a href="https://contactmcr.com/visit/access" target="_b
 <hr>         
 **Harley Keasey** · *Suff(e)rage!*         
          
-*If a woman has to suffer, does that make her a sufferagette?*<br>A durational performance art piece exploring the ongoing difficulties and injustices faced by women in society over the past 125 years. This interactive happening is in honour of the women that have endured and fallen victim to the pains that are placed in the 'responsible' hands of the governmental and justice systems — whilst they may suffer, we will stand with them.         
+*If a woman has to suffer, does that make her a sufferagette?*<br>A durational performance art piece exploring the ongoing difficulties and injustices faced by women in society over the past 125 years.<br>This interactive happening is in honour of the women that have endured and fallen victim to the pains that are placed in the 'responsible' hands of the governmental and justice systems — whilst they may suffer, we will stand with them.         
          
 Harley is a feminist performance artist and community practitioner based between the North West and West Midlands. Her work primarily explores the range of challenges faced by women in society through Live Art, multimedia, spoken word, and clowning. Harley is a strong woman who takes inspiration from other strong women and unheard voices to create socially engaged performance.          
          
@@ -54,7 +54,7 @@ Harley is a feminist performance artist and community practitioner based between
 <hr>         
 **J. Edgar Staubsauger** · *The Peculiar case of Dr Jekyll & the Hyde family*         
          
-Henry Jekyll is a respectable man of science, a good neighbour, and a regular churchgoer. But recently he has begun using experimental drugs to become something very different… So begins a seedy double life, with the mild-mannered gentleman unleashing a series of outlandish alter-egos in order to live out his dormant desires.<br>Will these monstrous forces consume him — or will society itself be forced to adapt to this outrageous new being? All will be revealed…         
+Henry Jekyll is a respectable man of science, a good neighbour, and a regular churchgoer. But recently he has begun using experimental drugs to become something very different…<br>So begins a seedy double life, with the mild-mannered gentleman unleashing a series of outlandish alter-egos in order to live out his dormant desires.<br>Will these monstrous forces consume him — or will society itself be forced to adapt to this outrageous new being? All will be revealed…         
          
 Mr Staubsauger has long been an enigma, a sinister force lurking in the shadows of the art world. Now he has emerged into the daylight to reveal himself…          
          
@@ -78,7 +78,7 @@ Ray is an innovative soap bubble artist creating unique, high-energy performance
 <hr>         
 **Malandra Jacks** · *Working-class Bingo*          
           
-With Mancunian charisma and wit, Chloe & Josh host an interactive excerpt from *Census* — their award-winning show that unpicks the complexity of present-day working-class identity and celebrates their North Manchester community of Moston & Harpurhey (Best Performance at Manchester Culture Awards 2024).         
+With Mancunian charisma and wit, Chloe & Josh host an interactive excerpt from their award-winning *Census* — a show that unpicks the complexity of present-day working-class identity and celebrates their North Manchester community of Moston & Harpurhey.<br>(Won Best Performance at Manchester Culture Awards 2024).         
          
 Passionate about people and creativity, Chloe Malandra & Josh Wilkinson founded Malandra Jacks as a creative organisation to share authentic stories through combined arts. Led by their passion for people and creativity, they create dynamic & socially engaged projects, live theatre, film, and installations.         
          
