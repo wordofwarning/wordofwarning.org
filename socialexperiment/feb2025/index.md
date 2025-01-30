@@ -17,17 +17,17 @@ season: "Social Experiment 6|2|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/feb2025/#artists) · [entry](/socialexperiment/feb2025/#entry) · [access](/socialexperiment/feb2025/#access) · [programme](/socialexperiment/feb2025/#programme) · [credits](/socialexperiment/feb2025/#credits)</span><br><small>Updated 30 January 2025, Noon</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/feb2025/#artists) · [entry](/socialexperiment/feb2025/#entry) · [access](/socialexperiment/feb2025/#access) · [programme](/socialexperiment/feb2025/#programme) · [credits](/socialexperiment/feb2025/#credits)</span><br><small>Updated 30 January 2025, 1.15pm</small>          
          
 *A [Social Experiment](/socialexperiment) on 6 February, presented by* Word of Warning + Contact         
          
 #### Artists        
-Harley&nbsp;Keasey&nbsp;· J.&nbsp;Edgar&nbsp;Staubsauger&nbsp;· Rachael&nbsp;Gooch&nbsp;· Ray&nbsp;Bubbles&nbsp;· plus&nbsp;special&nbsp;guests&nbsp;Malandra&nbsp;Jacks<br><small>*Participating artists subject to change.*<small>        
+Harley&nbsp;Keasey&nbsp;· J.&nbsp;Edgar&nbsp;Staubsauger&nbsp;· Rachael&nbsp;Gooch&nbsp;· Ray&nbsp;Bubbles&nbsp;· plus&nbsp;special&nbsp;guests Malandra&nbsp;Jacks&emsp; <small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*<small>        
          
 #### Entry         
 FREE: there's no ticketing… just turn up!         
          
-Time: Thursday 6 February 2025, 6pm onwards (ends *about* 9pm).         
+Time: Thursday 6 February 2025, 6pm onwards (ends *by about* 9pm).         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester M15 6JA.         
          
