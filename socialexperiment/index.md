@@ -30,10 +30,10 @@ If you're a Greater Manchester artist — this is your <a href="https://socialex
 If you're an audience member looking for something a little bit different — this is your chance to take a few risks & meet some artists in our social experiment.         
          
 #### Artists        
-**[6 February](/socialexperiment/feb2025), 6pm-9pm.**         
-Harley&nbsp;Keasey&nbsp;· J.&nbsp;Edgar&nbsp;Staubsauger&nbsp;· Rachael&nbsp;Gooch&nbsp;· Ray&nbsp;Bubbles&nbsp;· plus&nbsp;special&nbsp;guests&nbsp;Malandra&nbsp;Jacks<br><small>*Participating artists subject to change.*<small>         
+**[6 February](/socialexperiment/feb2025)**         
+Harley&nbsp;Keasey&nbsp;· J.&nbsp;Edgar&nbsp;Staubsauger&nbsp;· Rachael&nbsp;Gooch&nbsp;· Ray&nbsp;Bubbles&nbsp;· plus&nbsp;special&nbsp;guests&nbsp;Malandra&nbsp;Jacks&emsp; <small>*Participating artists subject to change.*<small>         
          
-Participating artists for future events to be announced about a week before each one — the call for proposals is open at <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>         
+*NB* participating artists for future events will be announced about a week before each one — the open call for proposals is at <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>         
          
 #### Entry         
 FREE: there's no ticketing… just turn up!         
