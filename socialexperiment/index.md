@@ -31,14 +31,14 @@ If you're an audience member looking for something a little bit different — th
          
 #### Artists        
 **[6 February](/socialexperiment/feb2025)**         
-Harley&nbsp;Keasey&nbsp;· J.&nbsp;Edgar&nbsp;Staubsauger&nbsp;· Rachael&nbsp;Gooch&nbsp;· Ray&nbsp;Bubbles&nbsp;· plus&nbsp;special&nbsp;guests&nbsp;Malandra&nbsp;Jacks&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*<small>         
+Harley&nbsp;Keasey&nbsp;· J.&nbsp;Edgar&nbsp;Staubsauger&nbsp;· Rachael&nbsp;Gooch&nbsp;· Ray&nbsp;Bubbles&nbsp;· plus&nbsp;special&nbsp;guests Malandra&nbsp;Jacks&emsp; <small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*<small>         
          
 *NB* participating artists for future dates will be announced about a week before each event — the call for proposals is open at <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>         
          
 #### Entry         
 FREE: there's no ticketing… just turn up!         
          
-Dates: Thursdays 6 February, 22 May, 17 July, and 27 November 2025.<br>Time: 6pm onwards (each event ends *latest* 9pm).         
+Dates: Thursdays 6 February, 22 May, 17 July, and 27 November 2025.<br>Time: 6pm onwards (each event ends *by about* 9pm).         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester M15 6JA.         
          
