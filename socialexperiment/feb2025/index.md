@@ -60,7 +60,7 @@ Insta <a href="https://instagram.com/rach.elliot" target="_blank">@rach.elliot</
           
 <a href="https://parisbubbles.com" target="_blank">parisbubbles.com</a> · Bsky <a href="https://bsky.app/profile/parisbubbles.bsky.social" target="_blank">@parisbubbles.bsky.social</a> · Fb <a href="https://facebook.com/Parisbubbles" target="_blank">Parisbubbles</a> · Insta <a href="https://instagram.com/parisbubbles" target="_blank">@parisbubbles</a> · X <a href="https://x.com/ParisBubblesFR" target="_blank">@ParisBubblesFR</a>         
 <hr>         
-special guests **Malandra Jacks** · *Working Class Bingo*          
+**Malandra Jacks** · *Working Class Bingo*          
           
 <a href="https://malandrajacks.com" target="_blank">malandrajacks.com</a> · Fb <a href="https://facebook.com/MalandraJacks" target="_blank">MalandraJacks</a> · Insta <a href="https://instagram.com/malandra_jacks" target="_blank">@malandra_jacks</a> · X <a href="https://x.com/MalandraJacks" target="_blank">@MalandraJacks</a>          
 <hr>          
