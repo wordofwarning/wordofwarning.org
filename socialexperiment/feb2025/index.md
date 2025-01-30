@@ -17,7 +17,7 @@ season: "Social Experiment 6|2|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/feb2025/#artists) · [entry](/socialexperiment/feb2025/#entry) · [access](/socialexperiment/feb2025/#access) · [programme](/socialexperiment/feb2025/#programme) · [credits](/socialexperiment/feb2025/#credits)</span><br><small>Updated 30 January 2025, 3pm</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/feb2025/#artists) · [entry](/socialexperiment/feb2025/#entry) · [access](/socialexperiment/feb2025/#access) · [programme](/socialexperiment/feb2025/#programme) · [credits](/socialexperiment/feb2025/#credits)</span><br><small>Updated 30 January 2025, 3.30pm</small>          
          
 *A [Social Experiment](/socialexperiment) on 6 February, presented by* Word of Warning + Contact         
          
@@ -78,7 +78,7 @@ Ray is an innovative soap bubble artist creating unique, high-energy performance
 <hr>         
 **Malandra Jacks** · *Working-class Bingo*          
           
-With Mancunian charisma and wit, Chloe & Josh host an interactive excerpt from their award-winning *Census* — a show that unpicks the complexity of present-day working-class identity and celebrates their North Manchester community of Moston & Harpurhey.<br>(Won Best Performance at Manchester Culture Awards 2024).         
+With Mancunian charisma and wit, Chloe & Josh host an interactive excerpt from their award-winning *Census* — a show that unpicks the complexity of present-day working-class identity and celebrates their North Manchester community of Moston & Harpurhey.<br>(Winner of Best Performance at Manchester Culture Awards 2024).         
          
 Passionate about people and creativity, Chloe Malandra & Josh Wilkinson founded Malandra Jacks as a creative organisation to share authentic stories through combined arts. Led by their passion for people and creativity, they create dynamic & socially engaged projects, live theatre, film, and installations.         
          
