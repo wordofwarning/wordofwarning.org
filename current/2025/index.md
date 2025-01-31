@@ -8,7 +8,7 @@ artist_size: 1
 season: "Performance Programme 2025"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span><br><small>Updated 9 January 2025</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 31 January 2025</small>        
          
 *Spring starts with a new [Social Experiment](/socialexperiment) and continues at <a href="https://contactmcr.com" target="_blank">Contact</a> with [Kellie Colbert](/current/2025/colbert)'s dedication of love, followed by [Turn](/current/2025-turn)'s whirlwind of dance…*          
          
