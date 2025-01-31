@@ -28,7 +28,7 @@ Greater Manchester's open call dance platform, Turn aims to be:<br>— a public 
          
 † *<a href="http://en.wikipedia.org/wiki/North_West_England" target="_blank">North West England</a> consists of Cheshire, Cumbria, Greater Manchester, Lancashire, Merseyside; it does NOT include Yorkshire or Derbyshire*.        
         
-#### Turn 2025 Call for Proposals Closes 31 Jan at 5pm        
+#### Turn 2025 Call for Proposals Closes on Fri 31 Jan at 5pm        
 North West† dancers and dance-makers (*aged 18+*) are <a href="http://turnmcr.posthaven.com" target="_blank">invited to submit proposals</a> of: short finished pieces of work, excerpts or extracts of longer works, or works-in-progress, for inclusion in this annual event.        
           
 **For details and to apply please go to <a href="http://turnmcr.posthaven.com" target="_blank">turnmcr.posthaven.com</a><br>Proposal Deadline: Friday 31 January 2025, 5pm**         
