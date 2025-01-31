@@ -17,7 +17,7 @@ season: "Turn 4|4|2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits) · [websites](/current/2025-turn/#websites)</span>&ensp; <small>Updated 31 January 2025</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits) · [websites](/current/2025-turn/#websites)</span>&ensp; <small>Updated 31 January 2025, 5pm</small>        
         
 *Presented by* Word of Warning *+* Contact        
         
@@ -28,7 +28,7 @@ Get a feel for [Turn](/hab/turn) with [2024's programme](/archive/2024-turn) and
 Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn 2025 transport you into a frenzy of dance…         
          
 #### Artists         
-*NB* participating artists will be announced during February — the call for proposals is open at <a href="http://turnmcr.posthaven.com" target="_blank">turnmcr.posthaven.com</a> until Friday 31 January at 5pm.         
+*NB* participating artists will be announced during February — the call for proposals at <a href="http://turnmcr.posthaven.com" target="_blank">turnmcr.posthaven.com</a> closed on Friday 31 January at 5pm.         
          
 #### Entry         
 Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
