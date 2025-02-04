@@ -17,7 +17,7 @@ season: "Social Experiment 6|2|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/feb2025/#artists) · [entry](/socialexperiment/feb2025/#entry) · [access](/socialexperiment/feb2025/#access) · [programme](/socialexperiment/feb2025/#programme) · [credits](/socialexperiment/feb2025/#credits)</span>&ensp; <small>Updated 4 February 2025</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/feb2025/#artists) · [programme](/socialexperiment/feb2025/#programme) · [entry](/socialexperiment/feb2025/#entry) · [access](/socialexperiment/feb2025/#access) · [credits](/socialexperiment/feb2025/#credits)</span>&ensp; <small>Updated 4 February 2025</small>          
          
 *A [Social Experiment](/socialexperiment) on 6 February, presented by* Word of Warning + Contact         
          
