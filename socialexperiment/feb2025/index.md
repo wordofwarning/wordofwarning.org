@@ -17,32 +17,15 @@ season: "Social Experiment 6|2|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/feb2025/#artists) · [entry](/socialexperiment/feb2025/#entry) · [access](/socialexperiment/feb2025/#access) · [programme](/socialexperiment/feb2025/#programme) · [credits](/socialexperiment/feb2025/#credits)</span>&ensp; <small>Updated 31 January 2025</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/feb2025/#artists) · [entry](/socialexperiment/feb2025/#entry) · [access](/socialexperiment/feb2025/#access) · [programme](/socialexperiment/feb2025/#programme) · [credits](/socialexperiment/feb2025/#credits)</span>&ensp; <small>Updated 4 February 2025</small>          
          
 *A [Social Experiment](/socialexperiment) on 6 February, presented by* Word of Warning + Contact         
          
 #### Artists        
 Harley&nbsp;Keasey&nbsp;· J.&nbsp;Edgar&nbsp;Staubsauger&nbsp;· Rachael&nbsp;Gooch&nbsp;· Ray&nbsp;Bubbles&nbsp;· plus&nbsp;special&nbsp;guests Malandra&nbsp;Jacks&ensp; <small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*<small>        
          
-#### Entry         
-FREE: there's no ticketing… just turn up!         
-         
-Time: Thursday 6 February 2025, 6pm onwards (ends *by about* 9pm).         
-          
-Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester M15 6JA.         
-         
-#### Access         
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
-          
-Content Warnings: some works involve interaction and/or participation; specific warnings listed [here](/warnings).         
-          
-Features: five Live Art & contemporary performance works with varied content.         
-         
-*NB* works occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in space 0 & bar, and vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
-         
-Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
-                   
 #### Programme        
+February's event kicks off at 6pm with durational pieces from Rachael and Harley, followed by short performances from J. Edgar and Ray, and guest appearance by Malandra Jacks.         
 <hr>         
 **Harley Keasey** · *Suff(e)rage!*         
          
@@ -76,7 +59,7 @@ Ray is an innovative soap bubble artist creating unique, high-energy performance
 
 <a href="https://parisbubbles.com" target="_blank">parisbubbles.com</a> · Bsky <a href="https://bsky.app/profile/parisbubbles.bsky.social" target="_blank">@parisbubbles.bsky.social</a> · Fb <a href="https://facebook.com/Parisbubbles" target="_blank">Parisbubbles</a> · Insta <a href="https://instagram.com/parisbubbles" target="_blank">@parisbubbles</a> · X <a href="https://x.com/ParisBubblesFR" target="_blank">@ParisBubblesFR</a>         
 <hr>         
-**Malandra Jacks** · *Working-class Bingo*          
+**Malandra Jacks (special guests)** · *Working-class Bingo*          
           
 With Mancunian charisma and wit, Chloe & Josh host an interactive excerpt from their award-winning *Census* — a show that unpicks the complexity of present-day working-class identity and celebrates their North Manchester community of Moston & Harpurhey.<br>(Winner of Best Performance at Manchester Culture Awards 2024).         
          
@@ -84,7 +67,25 @@ Passionate about people and creativity, Chloe Malandra & Josh Wilkinson founded 
          
 <a href="https://malandrajacks.com" target="_blank">malandrajacks.com</a> · Fb <a href="https://facebook.com/MalandraJacks" target="_blank">MalandraJacks</a> · Insta <a href="https://instagram.com/malandra_jacks" target="_blank">@malandra_jacks</a> · X <a href="https://x.com/MalandraJacks" target="_blank">@MalandraJacks</a>          
 <hr>          
+#### Entry         
+FREE: there's no ticketing… just turn up!         
+         
+Time: Thursday 6 February 2025, 6pm onwards (ends *by about* 9pm).         
+          
+Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester M15 6JA.         
+         
+#### Access         
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
+          
+Content Warnings: some works involve interaction and/or participation; specific warnings listed [here](/warnings).         
+          
+Features: five Live Art & contemporary performance works with varied content.         
+         
+*NB* works occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in space 0 & bar, and vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
+         
+Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
+         
 #### Credits          
-[Social Experiment](/hab/socialexperiment) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
+[Social Experiment](/hab/socialexperiment) (Feb 2025) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
                  
 <small><span style='font-variant: small-caps'>[back to top](/socialexperiment/feb2025)</span></small>
