@@ -17,23 +17,22 @@ season: "Social Experiment 2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 4 February 2025</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 7 February 2025</small>          
          
 *Presented by* Word of Warning + Contact *as a semi-regular evening event.*         
          
 **Social Experiment** is a new gathering at <a href="https://contactmcr.com" target="_blank">Contact</a> for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
           
-A free and informal, semi-regular evening event with **the first on Thursday 6 February from 6pm to 9pm ([read the programme here](/socialexperiment/feb2025))**.<br>Future dates are Thursdays 22 May, 17 July, and 27 November 2025.         
+A free and informal, semi-regular evening event with **the next on Thursday 22 May from 6pm to 9pm**. Subsequent dates are Thursdays 17 July and 27 November; the first event was held on [Thursday 6 February 2025](/socialexperiment/feb2025).         
          
 If you're a Greater Manchester artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
          
 If you're an audience member looking for something a little bit different — this is your chance to take a few risks & meet some artists in our social experiment.         
          
 #### Artists        
-**6 February**         
-Harley&nbsp;Keasey&nbsp;· J.&nbsp;Edgar&nbsp;Staubsauger&nbsp;· Rachael&nbsp;Gooch&nbsp;· Ray&nbsp;Bubbles&nbsp;· plus&nbsp;special&nbsp;guests Malandra&nbsp;Jacks&ensp; <small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*<small>         
+**6 February**: Harley&nbsp;Keasey&nbsp;· J.&nbsp;Edgar&nbsp;Staubsauger&nbsp;· Rachael&nbsp;Gooch&nbsp;· Ray&nbsp;Bubbles&nbsp;· plus&nbsp;special&nbsp;guests Malandra&nbsp;Jacks        
          
-February's event kicks off at 6pm with durational pieces from Rachael and Harley, followed by short performances from J. Edgar and Ray, and guest appearance by Malandra Jacks. [Read their programme notes here.](/socialexperiment/feb2025)        
+Read their [programme notes](/socialexperiment/feb2025) — and now it's over, see [images from the event](/galleries/2025-socex).        
          
 *NB* participating artists for future dates will be announced about a week before each event — the call for proposals is open at <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>         
          
