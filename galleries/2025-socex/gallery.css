@@ -1,13 +1,13 @@
 body
-	{background:#723; color: #fff;}
+	{background:#000; color: #fff;}
 body, #slidecaption
 	{font-family: "minion-pro", Georgia, Times;}
 h1
-	{color: #723; font-size:72px; font-weight:normal; line-height:60px; padding-bottom:20px;}
+	{color: #000; font-size:72px; font-weight:normal; line-height:60px; padding-bottom:20px;}
 p
 	{margin:20px;}
 #controls-wrapper
-	{background:#723;}
+	{background:#000;}
 #slidecaption
 	{font-size:18px; margin-left:20px; color: #fff; text-shadow: none;}
 #header
