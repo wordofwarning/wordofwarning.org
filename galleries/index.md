@@ -5,6 +5,7 @@ layout: archive
 season: "Galleries"
 
 archived:
+    - {folder: "2025-socex", name: "Social Experiment (2025)", class: "se2025"}
     - {folder: "2024-emergency", name: "Emergency 24", class: "e2021"}
     - {folder: "2024-haphazard", name: "Haphazard 2024", class: "h2024"}
     - {folder: "2024-woah", name: "Works Ahead: Radiator (2024)", class: "w2024"}
@@ -56,8 +57,8 @@ archived:
     - {folder: "2012-woah", name: "Works Ahead 2012", class: "woah"}
     - {folder: "2012-turn", name: "Turn 2012", class: "ss2012"}
     - {folder: "hab-archive", name: "hÅb Archive (pre-2011)", class: "hab"}
-    
+
 ---
 
 # Galleries     
-See images from our previous events below…&emsp;<small>Updated 9 January 2025<small>
+See images from our previous events below…&ensp; <small>Updated 7 February 2025<small>
