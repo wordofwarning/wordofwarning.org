@@ -23,7 +23,7 @@ season: "Social Experiment 2025"
          
 **Social Experiment** is a new gathering at <a href="https://contactmcr.com" target="_blank">Contact</a> for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
           
-A free and informal, semi-regular evening event with the **next on Thursday 22 May from 6pm to 9pm**. Subsequent dates are Thursdays 17 July and 27 November 2025. (The first event was held on [Thursday 6 February](/socialexperiment/feb2025)).         
+A free and informal, semi-regular evening event with the **next on Thursday 22 May from 6pm to 9pm**. Subsequent dates are Thursdays 17 July and 27 November; the first event was held on [Thursday 6 February](/socialexperiment/feb2025).         
          
 If you're a Greater Manchester artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
          
