@@ -16,7 +16,7 @@ season: "Turn by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 3 February</small>        
+<small>Updated 11 February</small>        
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester every spring.    
              
@@ -48,9 +48,9 @@ North West† dancers and dance-makers (*aged 18+*) were <a href="http://turnmcr
           
 
 #### Turn Prize 2024         
-On 30 April 2024 we were delighted to announce **Fabíola Santana** and **Louiseanne Wong** as the recipients of the Turn Prize [2024](/archive/2024-turn). The Turn Prize is a commission for the development of work by North West-based dance-makers.         
+On 30 April 2024 we were delighted to announce **Fabíola Santana** and **Louiseanne Wong** as the recipients of the Turn Prize [2024](/archive/2024-turn).<br>The Turn Prize is a commission for the development of work shown at Turn by North West-based dance-makers.         
          
-**Louiseanne Wong** performs *I Am. Am I (work in progress)* in the <a href="https://thelowry.com/pQW3zUL/horizons-collective-showcase" target="_blank">Horizons Collective Showcase</a> at <a href="https://thelowry.com/whats-on/336//horizons-collective-showcase" target="_blank">Lowry</a> on Wednesday 12 February 2025, 7pm.
+**Louiseanne Wong** performs *I Am. Am I (preview)* in the <a href="https://thelowry.com/pQW3zUL/horizons-collective-showcase" target="_blank">Horizons Collective Showcase</a> at <a href="https://thelowry.com/whats-on/336//horizons-collective-showcase" target="_blank">Lowry</a> on Wednesday 12 February 2025, 7pm.
 
 **Fabíola Santana** performs *We're Here Because They Were (work in progress)* at <a href="https://unitytheatreliverpool.co.uk/whats-on/were-here-because-they-were" target="_blank">Unity Theatre Liverpool</a> on Wednesday 23 April 2025, 7.30pm — with a future performance in Manchester to be announced.         
          
