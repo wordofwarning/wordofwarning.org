@@ -25,10 +25,10 @@ Our annual whirlwind of new North West dance returns to <a href="https://contact
          
 Get a feel for [Turn](/hab/turn) with [2024's programme](/archive/2024-turn) and [gallery of images](/galleries/2024-turn); [2023's programme](/archive/2023-turn) and [gallery](/galleries/2023-turn); [2017's programme](/archive/2017-turn) and [gallery](/galleries/2017-turn).         
          
-Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn 2025 transport you into a frenzy of dance…         
+Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn&nbsp;2025 transport you into a frenzy of dance…         
          
 #### Artists         
-Dais&nbsp;Leach&nbsp;· Emmy&nbsp;Lahouel&nbsp;(Meraki&nbsp;Collective)&nbsp;· Io&nbsp;Soy&nbsp;· JP&nbsp;Hon&nbsp;· KUDERA&nbsp;+&nbsp;MPEARSONATER&nbsp;· Maelstrom&nbsp;Theatre&nbsp;· Rachel&nbsp;Yan&nbsp;Ting&nbsp;Li&nbsp;李&zwj;恩&zwj;婷&nbsp;· UMAMI&#8209;i!&#8209;MOVEMENT&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*<small>         
+Dais&nbsp;Leach&nbsp;· Emmy&nbsp;Lahouel (Meraki&nbsp;Collective)&nbsp;· Io&nbsp;Soy&nbsp;· JP&nbsp;Hon&nbsp;· KUDERA&nbsp;+&nbsp;MPEARSONATER&nbsp;· Maelstrom&nbsp;Theatre&nbsp;· Rachel&nbsp;Yan&nbsp;Ting&nbsp;Li&nbsp;李&zwj;恩&zwj;婷&nbsp;· UMAMI&#8209;i!&#8209;MOVEMENT&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*<small>         
         
 #### Entry         
 Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
