@@ -28,14 +28,14 @@ Get a feel for [Turn](/hab/turn) with [2024's programme](/archive/2024-turn) and
 Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn 2025 transport you into a frenzy of dance…         
          
 #### Artists         
-Dais&nbsp;Leach&nbsp;· Emmy&nbsp;Lahouel&nbsp;(Meraki&nbsp;Collective)&nbsp;· Io&nbsp;Soy&nbsp;· JP&nbsp;Hon&nbsp;· KUDERA&nbsp;+&nbsp;MPEARSONATER&nbsp;· Maelstrom&nbsp;Theatre&nbsp;· Rachel&nbsp;Yan&nbsp;Ting&nbsp;Li&nbsp;李&#8202;恩&#8202;婷&nbsp;· UMAMI&#8209;i!&#8209;MOVEMENT&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*<small>         
+Dais&nbsp;Leach&nbsp;· Emmy&nbsp;Lahouel&nbsp;(Meraki&nbsp;Collective)&nbsp;· Io&nbsp;Soy&nbsp;· JP&nbsp;Hon&nbsp;· KUDERA&nbsp;+&nbsp;MPEARSONATER&nbsp;· Maelstrom&nbsp;Theatre&nbsp;· Rachel&nbsp;Yan&nbsp;Ting&nbsp;Li&nbsp;李&zwj;恩&zwj;婷&nbsp;· UMAMI&#8209;i!&#8209;MOVEMENT&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*<small>         
         
 #### Entry         
 Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
          
 Tickets: now available <a href="https://contactmcr.com/book/instance/358758" target="_blank">online via Contact</a>.         
          
-Time: Friday 4 April 2025, 7pm (with intervals/pauses, ends *about* 10pm).         
+Time: Friday 4 April 2025, 7pm (with interval/pauses, ends *about* 10pm).         
              
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
         
