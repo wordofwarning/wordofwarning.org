@@ -22,7 +22,7 @@ season: "Turn by hÅb"
              
 The twelfth edition, [Turn 2025](/current/2025-turn) takes place at <a href="https://contactmcr.com" target="_blank">Contact</a> on **Friday 4 April from 7pm** — presenting eight short dance-works throughout the building.        
          
-Get a feel for it with [2024's programme](/archive/2024-turn) and [gallery of images](/galleries/2024-turn), [2023's programme](/archive/2023-turn) & [gallery](/galleries/2023-turn), [2017's programme](/archive/2017-turn) & [gallery](/galleries/2017-turn).         
+Get a feel for it with [2024's programme](/archive/2024-turn) and [gallery of images](/galleries/2024-turn); [2023's programme](/archive/2023-turn) and [gallery](/galleries/2023-turn); [2017's programme](/archive/2017-turn) and [gallery](/galleries/2017-turn).         
         
 Greater Manchester's open call dance platform, Turn aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— and is open to North West England† dancers and dance-makers, aged 18+          
          
@@ -44,7 +44,7 @@ After a hiatus the tenth edition returned to <a href="https://contactmcr.com" ta
 The eleventh edition took place at <a href="https://companychameleon.com" target="_blank">Company Chameleon Studios</a>, with eight short dance-works in just the one studio ([see images](/galleries/2024-turn)) on **[22 March 2024](/archive/2024-turn)**, also followed by an artist day.          
          
 #### Turn 2025 Call for Proposals Closed on Fri 31 Jan at 5pm        
-North West† dancers and dance-makers (*aged 18+*) <a href="http://turnmcr.posthaven.com" target="_blank">were invited to submit proposals</a> of: short finished pieces of work, excerpts or extracts of longer works, or works-in-progress, for inclusion in this annual event (where we expected to present *up to ten* works).        
+North West England† dancers and dance-makers (*aged 18+*) <a href="http://turnmcr.posthaven.com" target="_blank">were invited to submit proposals</a> of: short finished pieces of work, excerpts or extracts of longer works, or works-in-progress, for inclusion in this annual event — where we typically expect to present *up to ten* dance-works.        
           
 #### Turn Prize 2024         
 On 30 April 2024 we were delighted to announce **Fabíola Santana** and **Louiseanne Wong** as the recipients of the Turn Prize [2024](/archive/2024-turn).<br>The Turn Prize is a commission for the development of work shown at Turn by North West-based dance-makers.         
@@ -55,4 +55,4 @@ On 30 April 2024 we were delighted to announce **Fabíola Santana** and **Louise
          
 Turn Prize 2024 supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> using public funding by Arts Council England, and by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>.          
          
-Image: UMAMI-i!-MOVEMENT, due to perform in [Turn 2025](/current/2025-turn) at Contact on 4 April
+Image: UMAMI-i!-MOVEMENT, due to perform in [Turn 2025](/current/2025-turn) at Contact
