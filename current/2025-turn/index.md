@@ -28,7 +28,7 @@ Get a feel for [Turn](/hab/turn) with [2024's programme](/archive/2024-turn) and
 Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn 2025 transport you into a frenzy of dance…         
          
 #### Artists         
-Dais&nbsp;Leach&nbsp;· Emmy&nbsp;Lahouel&nbsp;(Meraki&nbsp;Collective)&nbsp;· Io&nbsp;Soy&nbsp;· JP&nbsp;Hon&nbsp;· KUDERA&nbsp;+&nbsp;MPEARSONATER&nbsp;· Maelstrom&nbsp;Theatre&nbsp;· Rachel&nbsp;Yan&nbsp;Ting&nbsp;Li&nbsp;李恩婷&nbsp;· UMAMI-i!-MOVEMENT&ensp; <small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*<small>         
+Dais&nbsp;Leach&nbsp;· Emmy&nbsp;Lahouel&nbsp;(Meraki&nbsp;Collective)&nbsp;· Io&nbsp;Soy&nbsp;· JP&nbsp;Hon&nbsp;· KUDERA&nbsp;+&nbsp;MPEARSONATER&nbsp;· Maelstrom&nbsp;Theatre&nbsp;· <span>Rachel&nbsp;Yan&nbsp;Ting&nbsp;Li&nbsp;李恩婷&nbsp;·</span> <span>UMAMI-i!-MOVEMENT</span>&ensp; <small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*<small>         
         
 #### Entry         
 Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
@@ -44,7 +44,7 @@ Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).
          
 Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed [here](/warnings) during February.         
         
-Features: eight* contemporary dance performance works with varied content; works will occur in three spaces and will vary in format.
+Features: eight contemporary dance performance works with varied content; works will occur in three spaces and will vary in format.
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
