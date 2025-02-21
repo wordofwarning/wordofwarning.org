@@ -23,7 +23,7 @@ season: "Turn 4|4|2025"
         
 Our annual whirlwind of new North West dance returns to <a href="https://contactmcr.com" target="_blank">Contact</a>, taking over the building with eight short dance-works on **Friday 4 April from 7pm**.         
          
-Look at some of our [artists' images](/galleries/2025-turnpre/) and get a feel for it with [images from last year](/galleries/2024-turn).         
+Look at some of our [artists' images](/galleries/2025-turnpre/) and also see [images from 2024's edition](/galleries/2024-turn).         
          
 Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn&nbsp;2025 transport you into a frenzy of dance…         
          
