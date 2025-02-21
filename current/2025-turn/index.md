@@ -17,13 +17,13 @@ season: "Turn 4|4|2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits) · [websites](/current/2025-turn/#websites)</span>&ensp; <small>Updated 21 February 2025 at 12:25</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits) · [websites](/current/2025-turn/#websites)</span>&ensp; <small>Updated 21 February 2025 at 13:45</small>        
         
 *Presented by* Word of Warning *+* Contact        
         
 Our annual whirlwind of new North West dance returns to <a href="https://contactmcr.com" target="_blank">Contact</a>, taking over the building with eight short dance-works on **Friday 4 April from 7pm**.         
          
-Get a feel for [Turn](/hab/turn) with [2024's programme](/archive/2024-turn) and [gallery of images](/galleries/2024-turn); [2023's programme](/archive/2023-turn) and [gallery](/galleries/2023-turn); [2017's programme](/archive/2017-turn) and [gallery](/galleries/2017-turn).         
+Look at some of our [artists' images](/galleries/2025-turnpre/) and get a feel for it with [images from last year](/galleries/2024-turn).         
          
 Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn&nbsp;2025 transport you into a frenzy of dance…         
          
