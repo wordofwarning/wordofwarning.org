@@ -1,0 +1,21 @@
+---
+layout: fullscreengallery
+assetpath: "../../../"
+galleryimagespath: ""
+
+title: "Word of Warning + Contact present Turn, 4|4|2025"
+header: <img src="logo.png">
+stylesheet: gallery.css
+
+more_link: Turn 2025
+more_url: "../../current/2025-turn/"
+
+gallery:
+    -   {file: "titlepage.jpg", artist: "<i>A night of new dance, Fri 4 April 2025</i> · Umami i! by Joel Chester Fildes"}
+    -   {file: "jp_hon.jpg", artist: "JP Hong"}
+    -   {file: "nea.jpg", artist: "Néa"}
+    -   {file: "kudera_mpearsonator.jpg", artist: "KUDERA + MPEARSONATOR by Noel Jones"}
+    -   {file: "dais_leach.jpg", artist: "Dais Leach"}
+    -   {file: "emmy_lahouel.jpg", artist: "Emmy Lahoue (Meraki Collective)"}
+    -   {file: "rachel_li.jpg", artist: "Rachel Yan Ting Li by Jess Meade"}
+---
