@@ -17,7 +17,7 @@ season: "Turn 4|4|2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits) · [websites](/current/2025-turn/#websites)</span>&ensp; <small>Updated 21 February 2025</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits) · [websites](/current/2025-turn/#websites)</span>&ensp; <small>Updated 21 February 2025 at 12:25</small>        
         
 *Presented by* Word of Warning *+* Contact        
         
@@ -28,7 +28,7 @@ Get a feel for [Turn](/hab/turn) with [2024's programme](/archive/2024-turn) and
 Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn&nbsp;2025 transport you into a frenzy of dance…         
          
 #### Artists         
-Dais&nbsp;Leach&nbsp;· Emmy&nbsp;Lahouel (Meraki&nbsp;Collective)&nbsp;· Io&nbsp;Soy&nbsp;· JP&nbsp;Hon&nbsp;· KUDERA&nbsp;+&nbsp;MPEARSONATER&nbsp;· Maelstrom&nbsp;Theatre&nbsp;· Rachel&nbsp;Yan&nbsp;Ting&nbsp;Li&nbsp;· UMAMI&#8209;i!&#8209;MOVEMENT&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*<small>         
+Dais&nbsp;Leach&nbsp;· Emmy&nbsp;Lahouel (Meraki&nbsp;Collective)&nbsp;· JP&nbsp;Hon&nbsp;· KUDERA&nbsp;+&nbsp;MPEARSONATER&nbsp;· Maelstrom&nbsp;Theatre&nbsp;· Néa&nbsp;· Rachel&nbsp;Yan&nbsp;Ting&nbsp;Li&nbsp;· UMAMI&#8209;i!&#8209;MOVEMENT&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*<small>         
         
 #### Entry         
 Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
