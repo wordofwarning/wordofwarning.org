@@ -16,7 +16,7 @@ season: "Turn by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 20 February 2025</small>        
+<small>Updated 21 February 2025</small>        
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester every spring.    
              
@@ -55,4 +55,4 @@ On 30 April 2024 we were delighted to announce **Fabíola Santana** and **Louise
          
 Turn Prize 2024 supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> using public funding by Arts Council England, and by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>.          
          
-Image: UMAMI-i!-MOVEMENT, due to perform in [Turn 2025](/current/2025-turn) at Contact
+Image: UMAMI-i!-MOVEMENT, due to perform in [Turn 2025](/current/2025-turn) at Contact, by Joel Chester Fildes
