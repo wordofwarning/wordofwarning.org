@@ -16,6 +16,6 @@ gallery:
     -   {file: "nea.jpg", artist: "Néa"}
     -   {file: "kudera_mpearsonator.jpg", artist: "KUDERA + MPEARSONATOR by Noel Jones"}
     -   {file: "dais_leach.jpg", artist: "Dais Leach"}
-    -   {file: "emmy_lahouel.jpg", artist: "Emmy Lahoue (Meraki Collective)"}
+    -   {file: "emmy_lahouel.jpg", artist: "Emmy Lahouel (Meraki Collective)"}
     -   {file: "rachel_li.jpg", artist: "Rachel Yan Ting Li by Jess Meade"}
 ---
