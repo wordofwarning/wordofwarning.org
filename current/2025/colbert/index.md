@@ -34,7 +34,7 @@ An exposing and relatable performance that challenges and defies suffocating tru
 #### Entry          
 Pay What You Decide: £10/£5/£0 (advance booking recommended).        
          
-Tickets: were available <a href="https://contactmcr.com/book/instance/358558" target="_blank">online via Contact</a>, is now sold-out.        
+Tickets: were available <a href="https://contactmcr.com/book/instance/358558" target="_blank">online via Contact</a>; now sold-out.        
          
 Time: Thursday 13 March 2025, 7.30pm (ends *about* 8.15pm, no interval).         
              
