@@ -17,9 +17,9 @@ season: "Kellie Colbert 13|3|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/colbert/#entry) · [access](/current/2025/colbert/#access) · [artist](/current/2025/colbert/#artist) · [credits](/current/2025/colbert/#credits) · [websites](/current/2025/colbert/#websites)</span>&ensp; <small>Updated 26 February 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/colbert/#entry) · [access](/current/2025/colbert/#access) · [artist](/current/2025/colbert/#artist) · [credits](/current/2025/colbert/#credits) · [websites](/current/2025/colbert/#websites)</span>&ensp; <small>Updated 7 March 2025</small>        
            
-*Presented by* Word of Warning + Contact          
+*Presented by* Word of Warning + Contact ***NB* this performance has sold-out.**                  
          
 *And tell all the stars above. This is dedicated to the one I love.*         
          
