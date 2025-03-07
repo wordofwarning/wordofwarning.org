@@ -19,7 +19,7 @@ season: "Kellie Colbert 13|3|2025, 7.30pm"
 ---
 <span style='font-variant: small-caps'>→ [entry](/current/2025/colbert/#entry) · [access](/current/2025/colbert/#access) · [artist](/current/2025/colbert/#artist) · [credits](/current/2025/colbert/#credits) · [websites](/current/2025/colbert/#websites)</span>&ensp; <small>Updated 7 March 2025</small>        
            
-*Presented by* Word of Warning + Contact ***NB* this performance has sold-out.**                  
+*Presented by* Word of Warning + Contact<br>***NB* this performance is sold-out.**                  
          
 *And tell all the stars above. This is dedicated to the one I love.*         
          
@@ -34,7 +34,7 @@ An exposing and relatable performance that challenges and defies suffocating tru
 #### Entry          
 Pay What You Decide: £10/£5/£0 (advance booking recommended).        
          
-Tickets: now available <a href="https://contactmcr.com/book/instance/358558" target="_blank">online via Contact</a>.         
+Tickets: were available <a href="https://contactmcr.com/book/instance/358558" target="_blank">online via Contact</a>, is now sold-out.        
          
 Time: Thursday 13 March 2025, 7.30pm (ends *about* 8.15pm, no interval).         
              
