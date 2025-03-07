@@ -8,9 +8,9 @@ artist_size: 1
 season: "Performance Programme 2025"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 7 February 2025</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 7 March 2025</small>        
          
-*Spring started with a new [Social Experiment](/socialexperiment) and continues at <a href="https://contactmcr.com" target="_blank">Contact</a> with [Kellie Colbert](/current/2025/colbert)'s dedication of love, followed by [Turn](/current/2025-turn)'s whirlwind of dance and a second [Social Experiment](/socialexperiment)…*         
+*Spring started with a new [Social Experiment](/socialexperiment) and continues at <a href="https://contactmcr.com" target="_blank">Contact</a> with [Kellie Colbert](/current/2025/colbert)'s dedication of love (sold-out), followed by [Turn](/current/2025-turn)'s whirlwind of dance, and a second [Social Experiment](/socialexperiment)…*         
          
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
