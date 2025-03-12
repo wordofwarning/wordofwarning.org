@@ -17,7 +17,7 @@ season: "Kellie Colbert 13|3|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/colbert/#entry) · [access](/current/2025/colbert/#access) · [artist](/current/2025/colbert/#artist) · [credits](/current/2025/colbert/#credits) · [websites](/current/2025/colbert/#websites)</span>&ensp; <small>Updated 7 March 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/colbert/#entry) · [access](/current/2025/colbert/#access) · [artist](/current/2025/colbert/#artist) · [credits](/current/2025/colbert/#credits) · [websites](/current/2025/colbert/#websites)</span>&ensp; <small>Updated 12 March 2025</small>        
            
 *Presented by* Word of Warning + Contact<br>***NB* this performance is sold-out.**                  
          
@@ -54,12 +54,14 @@ Kellie is a Greater Manchester-based performance maker. She would describe herse
         
 Kellie has collaborated with Eggs Collective, and has been commissioned by NIAMOS & (in)sane Mcr as part of the *Starvin Artists* project and by Breakdown Bolton to create short performance videos to raise mental health awareness. She is currently part of the co-curation group at Factory International, organising an event for early 2025.        
          
-Her biggest accomplishment to date is publicly debuting *Root*, an intimate performance video that explores & exposes trichotillomania — it went on to be supported by HabitAware, a company who aims to raise awareness for Body-Focused Repetitive Behaviours.         
+Her biggest accomplishment to date is publicly debuting *Root*, an intimate performance video that explores and exposes trichotillomania — it went on to be supported by HabitAware, a company who aims to raise awareness for Body-Focused Repetitive Behaviours.         
          
 #### Credits         
-Director: Peader Kirk<br>Audio: *Falling in Love* from *Divine Madness* by Alan Watts<br>Music: *Dedicated to the One I Love* by The Mamas & the Papas; *You Don't Own Me* by Lesley Gore; *Sunken City* by Les Baxter; *Golden Square* by Warrington-Runcorn New Town Development Plan<br>Image: [Works Ahead 2023](/archive/2023-worksahead/colbert) at Contact by Tamsin Drury          
+Performed & created by: Kellie Colbert<br>Direction & dramaturgy: Peader Kirk<br>Audio: *Falling in Love* and *You may feel…* by Alan Watts<br>Music: *Dedicated to the One I Love* by The Mamas & the Papas; *You Don't Own Me* by Lesley Gore; *Sunken City* by Les Baxter; *Golden Square* by Warrington-Runcorn New Town Development Plan          
          
-Produced by [hÅb](/hab); commissioned for [Works Ahead](/hab/worksahead) by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>.         
+Produced by [hÅb](/hab); commissioned for [Works Ahead](/hab/worksahead) by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>.         
+         
+Image: [Works Ahead 2023](/archive/2023-worksahead/colbert) at Contact by Tamsin Drury         
          
 #### Websites          
 <a href="https://instagram.com/kellie.colbert.theatre" target="_blank">Insta @kellie.colbert.theatre</a> · <a href="https://x.com/imKellieColbert" target="_blank">X @imKellieColbert</a>         
