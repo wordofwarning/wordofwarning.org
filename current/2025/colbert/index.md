@@ -57,9 +57,10 @@ Kellie has collaborated with Eggs Collective, and has been commissioned by NIAMO
 Her biggest accomplishment to date is publicly debuting *Root*, an intimate performance video that explores and exposes trichotillomania — it went on to be supported by HabitAware, a company who aims to raise awareness for Body-Focused Repetitive Behaviours.         
          
 #### Credits         
-Performed & created by: Kellie Colbert<br>Direction & dramaturgy: Peader Kirk<br>Audio: *Falling in Love* and *You may feel…* by Alan Watts<br>Music: *Dedicated to the One I Love* by The Mamas & the Papas; *You Don't Own Me* by Lesley Gore; *Sunken City* by Les Baxter; *Golden Square* by Warrington-Runcorn New Town Development Plan          
+Performed & created by: Kellie Colbert<br>Direction & dramaturgy: Peader Kirk<br>Audio: *Falling in Love* and *You may feel…* by Alan Watts<br>Music: 
+*Sunken City* by Les Baxter; *Golden Square* by Warrington-Runcorn New Town Development Plan;*Dedicated to the One I Love* by The Mamas & the Papas; *You Don't Own Me* by Lesley Gore; *Going Through the Veil - Becoming a Swan* by Joanna Brouk.         
          
-Produced by [hÅb](/hab); commissioned for [Works Ahead](/hab/worksahead) by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>.         
+Produced by [hÅb](/hab); commissioned for [Works Ahead](/hab/worksahead) by [hÅb](/hab) & <a href="https://contactmcr.com" target="_blank">Contact</a>.         
          
 Image: [Works Ahead 2023](/archive/2023-worksahead/colbert) at Contact by Tamsin Drury         
          
