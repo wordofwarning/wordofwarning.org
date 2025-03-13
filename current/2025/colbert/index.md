@@ -17,7 +17,7 @@ season: "Kellie Colbert 13|3|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/colbert/#entry) · [access](/current/2025/colbert/#access) · [artist](/current/2025/colbert/#artist) · [credits](/current/2025/colbert/#credits) · [websites](/current/2025/colbert/#websites)</span>&ensp; <small>Updated 12 March 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/colbert/#entry) · [access](/current/2025/colbert/#access) · [artist](/current/2025/colbert/#artist) · [credits](/current/2025/colbert/#credits) · [websites](/current/2025/colbert/#websites)</span>&ensp; <small>Updated 13 March 2025</small>        
            
 *Presented by* Word of Warning + Contact<br>***NB* this performance is sold-out.**                  
          
@@ -36,7 +36,7 @@ Pay What You Decide: £10/£5/£0 (advance booking recommended).
          
 Tickets: were available <a href="https://contactmcr.com/book/instance/358558" target="_blank">online via Contact</a>; now sold-out.        
          
-Time: Thursday 13 March 2025, 7.30pm (ends *about* 8.15pm, no interval).         
+Time: Thursday 13 March 2025, 7.30pm (ends *about* 8.25pm, no interval).         
              
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 2), Oxford Rd, Manchester M15 6JA.         
         
@@ -45,7 +45,7 @@ Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).
          
 Content Warnings: please click [here](/warnings).         
         
-Features: a contemporary solo performance work, mainly spoken English with varied content; occurs in a studio space with raked seating, on the 2nd floor.         
+Features: a contemporary solo performance work, mainly spoken English with varied content including amplified audio and music; occurs in Space 2 on the second floor, a studio space with raked seating.         
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
