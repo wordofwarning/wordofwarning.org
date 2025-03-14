@@ -12,7 +12,7 @@ season: "Archived Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 7 February 2025<small>        
+<small>Updated 14 March 2025<small>        
         
 Age Advisories/Limits & Content Warnings for *past* events and *archived* livestreams on our YouTube channel are available below, including elements that may distress, cause upset, or trigger.&emsp;Go to → [2025](/archive/warnings/#2025) · [2024](/archive/warnings/#2024) · [2023](/archive/warnings/#2023) · [2022](/archive/warnings/#2022) · [2021](/archive/warnings/#2021) · [2020](/archive/warnings/#2020) · [2019](/archive/warnings/#2019)&emsp;(Please click [here](/warnings) for *upcoming* events.)        
         
@@ -20,8 +20,11 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 <hr>         
 #### 2025         
          
+##### [13 Mar. Contact | *Dedicated to the One I Love* by Kellie Colbert](/current/2025/colbert)          
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: referenced anxiety, depression, online trolling, <a href="https://www.nhs.uk/mental-health/conditions/trichotillomania" target="_blank">trichotillomania</a>.         
+         
 ##### [6 Feb. Contact | Social Experiment](/socialexperiment/feb2025)          
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works involved interaction and/or participation; specific warnings follow…<br>&nbsp;Harley Keasey — references death, rape, and violence against girls & women.<br>&nbsp;J. Edgar Staubsauger — themes include drug use; some sexual content (described, not shown); overall tone is one of comedy horror.         
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works involved interaction and/or participation; specific warnings follow…<br>&nbsp;Harley Keasey — referenced death, rape, and violence against girls & women.<br>&nbsp;J. Edgar Staubsauger — themes included drug use; some sexual content (described, not shown); overall tone is one of comedy horror.         
          
 #### 2024         
          
