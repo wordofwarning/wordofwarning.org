@@ -10,7 +10,7 @@ season: "Performance Programme 2025"
 ---
 <span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 20 March 2025</small>        
          
-*Spring started with a new [Social Experiment](/socialexperiment) and [Kellie Colbert](/current/2025/colbert)'s dedication of love at <a href="https://contactmcr.com" target="_blank">Contact</a> — continues with [Turn](/current/2025-turn)'s whirlwind of dance, a second [Social Experiment](/socialexperiment), and more events to come in May…*         
+*2025 began with a new [Social Experiment](/socialexperiment) and [Kellie Colbert](/current/2025/colbert)'s dedication of love at <a href="https://contactmcr.com" target="_blank">Contact</a> — Spring continues with [Turn](/current/2025-turn)'s whirlwind of dance, a second [Social Experiment](/socialexperiment), and more events to come in May…*         
          
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
