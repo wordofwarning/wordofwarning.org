@@ -1,15 +1,15 @@
 ---
 # CONFIGURATION
-layout: 2024-turn
+layout: 2025-turn
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Turn 2024" # the name of the artist or company
-show: "Programme Notes" # the name of the show
+artist: "Turn 2025" # the name of the artist or company
+show: "Programme" # the name of the show
 artist_size: 1
 show_size: 4
 header_image:  
-season: "Turn 22|3|2024, Programme Notes"
+season: "Turn 4|4|2025, Programme"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,9 +17,9 @@ season: "Turn 22|3|2024, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 21 March 2024</small>         
+<small>Updated 25 March 2025</small>         
         
-*[A night of new NW dance on 22 March](/current/2024-turn), presented by* Word of Warning *+* Company Chameleon         
+*[A night of new NW dance on 4 April](/current/2025-turn), presented by* Word of Warning *+* Company Chameleon         
          
 #### Artists         
 chris&nbsp;brown&nbsp;· Fabíola&nbsp;Santana&nbsp;· Isaac&nbsp;Glenister&nbsp;· Jake&nbsp;Evans&nbsp;· Just_Ina&nbsp;· Lily&nbsp;Antonia&nbsp;· Lisa&nbsp;Chearles&nbsp;· Louiseanne&nbsp;Wong<br><small>*Participating artists subject to change.*</small>         
@@ -129,4 +129,4 @@ Louiseanne (she/they) is a non-binary East Asian artist and coach, born and bred
           
 <a href="https://facebook.com/wonglouiseanne" target="_blank">Fb /wonglouiseanne</a> · <a href="https://instagram.com/louiseannewong" target="_blank">Insta @louiseannewong</a> · <a href="https://twitter.com/louiseannewong" target="_blank">X @louiseannewong</a>        
 <hr>          
-<small><span style='font-variant: small-caps'>[back to top](/current/2024-turn/programme)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/current/2025-turn/programme)</span></small>
