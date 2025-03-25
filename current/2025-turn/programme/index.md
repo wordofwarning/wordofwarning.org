@@ -63,13 +63,13 @@ KUDERA + MPEARSONATER is an ongoing collaboration between garment designer and t
          
 Content Warning: please click [here](/warnings).         
            
-KUDERA's collection of garments and accessories are made from single use plastics, fast fashion, and other materials destined for the landfill · Solo danced by Mary Pearson · Immersive digital habitat co-created by electro-acoustic composer Caterina McEvoy, and multimedia artist and production designer Noel Jones · Made in collaboration with dance makers Amy Voris and Laura Doehler.<br>Part of a larger work-in-progress supported using public funding by Arts Council England, Developing Your Creative Practice.         
+KUDERA's collection of garments and accessories are made from single use plastics, fast fashion, and other materials destined for the landfill · Solo danced by Mary Pearson · Immersive digital habitat co-created by electro-acoustic composer Caterina McEvoy, and multimedia artist and production designer Noel Jones · Made in collaboration with dance makers Amy Voris and Laura Doehler · Part of a larger work-in-progress supported using public funding by Arts Council England, Developing Your Creative Practice.         
          
 Insta <a href="https://instagram.com/kudera.a" target="_blank">@kudera.a</a> <a href="https://instagram.com/mpearsonater" target="_blank">@mpearsonater</a>         
 <hr>         
 **Maelstrom Theatre** · *Unapologetic (work-in-progress)*         
          
-A darkly comedic dance-theatre work exploring the shifting visibility of women in the dance industry.<br>Through a fusion of contemporary, commercial, and mixed media movement with character-driven text, the piece follows performers at different career stages — emerging dancers in their 20s, established artists in their 30s, and seasoned professionals in their 40s and 50s — grappling with the pressures of recognition, opportunity, and longevity in an industry that often renders them invisible.         
+A darkly comedic dance-theatre work exploring the shifting visibility of women in the dance industry.<br>Through a fusion of contemporary, commercial, and mixed media movement with character-driven text, the piece follows performers at different career stages — emerging dancers in their 20s, established artists in their 30s, seasoned professionals in their 40s & 50s — grappling with the pressures of recognition, opportunity, and longevity in an industry that often renders them invisible.         
          
 Content Warning: please click [here](/warnings).         
          
@@ -91,7 +91,7 @@ A reflection of the world we are living in today, drawing from personal experien
          
 Choreographer: Rachel Yan Ting Li · Performers: Rachel Yan Ting Li, Hannike Martens         
          
-Born and raised in Hong Kong, Rachel is a freelance dance artist in contemporary/ballet, a choreographer, and educator. She trained at Rambert School of Ballet & Contemporary Dance and toured nationally with Emergence Dance Company. Career highlights include Let's All Dance Ballet Company touring *The Nutcracker* and an original contemporary opera with Company Carpi: *Disunited Jukebox*.         
+Born & raised in Hong Kong, Rachel is a freelance dance artist in contemporary/ballet, a choreographer, and educator. She trained at Rambert School of Ballet & Contemporary Dance and toured nationally with Emergence Dance Company. Career highlights include Let's All Dance Ballet Company touring *The Nutcracker* and an original contemporary opera with Company Carpi: *Disunited Jukebox*.         
          
 Insta <a href="https://instagram.com/rachelyantingli.dance" target="_blank">@rachelyantingli.dance</a>         
 <hr>         
