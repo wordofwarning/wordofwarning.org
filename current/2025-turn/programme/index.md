@@ -19,17 +19,17 @@ season: "Turn 4|4|2025, Programme"
 ---
 <span style='font-variant: small-caps'>→ [artists](/current/2025-turn/programme/#artists) · [notes](/current/2025-turn/programme/#notes) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 25 March 2025</small>         
         
-*[A night of new dance on 4 April](/current/2025-turn), presented by* Word of Warning *+* Contact         
+*[Turn 2025 on 4 April](/current/2025-turn), presented by* Word of Warning *+* Contact         
          
 #### Artists         
 Dais&nbsp;Leach&nbsp;· Emmy&nbsp;Lahouel (Meraki&nbsp;Collective)&nbsp;· JP&nbsp;Hon&nbsp;· KUDERA&nbsp;+&nbsp;MPEARSONATER&nbsp;· Maelstrom&nbsp;Theatre&nbsp;· NéaSynergy&nbsp;· Rachel&nbsp;Yan&nbsp;Ting&nbsp;Li&nbsp;· UMAMI&#8209;i!&#8209;MOVEMENT&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*<small>         
         
 #### Notes         
-Our twelfth annual whirlwind of new North West dance presents eight short dance-works in three spaces at <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>, starting at 7pm…         
+This night of new North West dance presents eight short works in three spaces at Manchester's <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>, starting at 7pm in space 1…         
 <hr>         
 **Dais Leach** · *Echoes of the Isle*         
           
-This contemporary dance piece reimagines Caliban from *The Tempest*, transforming Shakespeare's traditionally ridiculed character into a symbol of human vulnerability. Interplaying spoken word, animalistic movement, and humanised gesture, the choreography explores Caliban's longing for comfort, belonging, and a place to call home. Structured around rhythms inspired by Shakespearean iambic pentameter, the piece highlights both poetic order and life's inherent unpredictability. Caliban's journey reflects the unpredictability of modern existence, where stability can vanish in an instant, and highlights the human instinct to seek both inner and outer peace.         
+This contemporary dance piece reimagines Caliban from *The Tempest*, transforming Shakespeare's traditionally ridiculed character into a symbol of human vulnerability.<br>Interplaying spoken word, animalistic movement, and humanised gesture, the choreography explores Caliban's longing for comfort, belonging, and a place to call home. Structured around rhythms inspired by Shakespearean iambic pentameter, the piece highlights both poetic order and life's inherent unpredictability. Caliban's journey reflects the unpredictability of modern existence, where stability can vanish in an instant, and highlights the human instinct to seek both inner and outer peace.         
          
 Dais is a Manchester-based dancer and freelance choreographer. She has performed, choreographed, and taught with various dance companies, groups, and community projects across Greater Manchester. Her personal choreographic practice involves blending traditional Shakespearean texts with contemporary dance — seeking to make Shakespeare more accessible, engaging, and inclusive for today's audience.         
          
@@ -37,13 +37,13 @@ Insta <a href="https://instagram.com/daisleach_dance" target="_blank">@daisleach
 <hr>         
 **Emmy Lahouel (Meraki Collective)** · *On Land & Lines & Other Space*         
 
-A new dance theatre work-in-progress exploring myth, memory, and belief. Blending movement, live music, layered soundscapes, and video projection, it examines the stories we inherit — about gods, history, and ourselves — inviting us to reflect on what we choose to believe and why. Rooted in folklore, lived experience, and cultural inquiry, this work doesn't offer answers but instead creates a moment for reflection, questioning, and navigating the unknown. How does it all end, or is it start?        
+A new dance theatre work-in-progress exploring myth, memory, and belief.<br>Blending movement, live music, layered soundscapes, and video projection, it examines the stories we inherit — about gods, history, and ourselves — inviting us to reflect on what we choose to believe and why. Rooted in folklore, lived experience, and cultural inquiry, this work doesn't offer answers but instead creates a moment for reflection, questioning, and navigating the unknown.<br>How does it all end, or is it start?        
          
 Content Warning: please click [here](/warnings).         
          
 Created & performed by Emmy Lahouel · Musical creation & performed by Alan Keary         
          
-Emmy (she/her) is an interdisciplinary artist and organiser working nationally and internationally across cultural organisations, venues and unusual spaces. Originally training in physical & dance theatre she has since gone on to work as director, producer, performer, and facilitator for various artists and organisations including: Contact, Selina Thompson, Eclipse Theatre, Ergon Theatre, Z-arts, MIF, Ludus Dance, HOME, Company Chameleon.
+Emmy (she/her) is an interdisciplinary artist and organiser working nationally and internationally across cultural organisations, venues, and unusual spaces. Originally training in physical & dance theatre she has since gone on to work as director, producer, performer, and facilitator for various artists and organisations including: Contact, Selina Thompson, Eclipse Theatre, Ergon Theatre, Z-arts, MIF, Ludus Dance, HOME, Company Chameleon.
          
 <a href="emmylahouel.com" target="_blank">emmylahouel.com</a> · Insta <a href="https://instagram.com/emmylahouel" target="_blank">@emmylahouel</a> <a href="https://instagram.com/merakicollectivept" target="_blank">@merakicollectivept</a> · X <a href="https://x.com/EmmyLahouel" target="_blank">@EmmyLahouel</a>         
 <hr>         
@@ -59,27 +59,27 @@ Insta <a href="https://instagram.com/jp.hon" target="_blank">@jp.hon</a>
 <hr>         
 **KUDERA + MPEARSONATER** · *What Have We Become?*         
          
+KUDERA + MPEARSONATER is an ongoing collaboration between garment designer and textile artist Alena Kudera + dancer and performance maker Mary Pearson, in search of an embodied and felt response to environmental crisis.         
+         
 Content Warning: please click [here](/warnings).         
            
-KUDERA's collection of garments and accessories are made from single use plastics, fast fashion, and other materials destined for the landfill.<br>Solo danced by Mary Pearson.<br>Immersive digital habitat co-created by electro-acoustic composer Caterina McEvoy and multimedia artist & production designer Noel Jones.<br>Made in collaboration with dance makers Amy Voris & Laura Doehler.<br>Part of a larger work-in-progress supported using public funding by Arts Council England, Developing Your Creative Practice.         
-         
-KUDERA + MPEARSONATER is an ongoing collaboration between garment designer and textile artist Alena Kudera + dancer and performance maker Mary Pearson, in search of an embodied and felt response to environmental crisis.         
+KUDERA's collection of garments and accessories are made from single use plastics, fast fashion, and other materials destined for the landfill · Solo danced by Mary Pearson · Immersive digital habitat co-created by electro-acoustic composer Caterina McEvoy, and multimedia artist and production designer Noel Jones · Made in collaboration with dance makers Amy Voris and Laura Doehler.<br>Part of a larger work-in-progress supported using public funding by Arts Council England, Developing Your Creative Practice.         
          
 Insta <a href="https://instagram.com/kudera.a" target="_blank">@kudera.a</a> <a href="https://instagram.com/mpearsonater" target="_blank">@mpearsonater</a>         
 <hr>         
 **Maelstrom Theatre** · *Unapologetic (work-in-progress)*         
          
-A darkly comedic dance-theatre work exploring the shifting visibility of women in the dance industry. Through a fusion of contemporary, commercial, and mixed media movement with character-driven text, the piece follows performers at different career stages — emerging dancers in their 20s, established artists in their 30s, and seasoned professionals in their 40s and 50s — grappling with the pressures of recognition, opportunity, and longevity in an industry that often renders them invisible.         
+A darkly comedic dance-theatre work exploring the shifting visibility of women in the dance industry.<br>Through a fusion of contemporary, commercial, and mixed media movement with character-driven text, the piece follows performers at different career stages — emerging dancers in their 20s, established artists in their 30s, and seasoned professionals in their 40s and 50s — grappling with the pressures of recognition, opportunity, and longevity in an industry that often renders them invisible.         
          
 Content Warning: please click [here](/warnings).         
          
-Collaborator & director: Lindsey Brocklebank<br>Collaborators & performers: Cara Marsh, Debbie Milner, Jasmin Saulo, Katherine Hollinson, Kyrah Decoteau, Rowena Gander, Sammy Allen, Sarah Jane Lockwood, Sophie Ellison, The D Twins         
+Collaborator & director: Lindsey Brocklebank · Collaborators & performers: Cara Marsh, Debbie Milner, Jasmin Saulo, Katherine Hollinson, Kyrah Decoteau, Rowena Gander, Sammy Allen, Sarah Jane Lockwood, Sophie Ellison, The D Twins         
          
 Insta <a href="https://instagram.com/maelstromtheatre" target="_blank">@maelstromtheatre</a> <a href="https://instagram.com/lindseybrockleb" target="_blank">@lindseybrockleb</a>                  
 <hr>         
 **NéaSynergy** · *Io sono quien Soy*         
          
-A journey through doubt, identity, and self-acceptance, where fear turns into freedom and differences become our strength.         
+A journey through doubt, identity, and self-acceptance — where fear turns into freedom and differences become our strength.         
          
 Beatrice is a Manchester-based Italian-Portuguese dance artist. Trained in ballet, contemporary, and floorwork, she explores her heritage through movement, integrating African dance and capoeira. Passionate about sharing dance, she helps others discover their creativity through movement.<br>Nessa Ndong is a dynamic dancer blending Afro dance, hip-hop, and contemporary styles. Originally from Equatorial Guinea and now Manchester-based, she brings high-energy performances to international stages, celebrating culture and identity through movement.         
          
@@ -87,11 +87,11 @@ Insta <a href="https://instagram.com/neasynergy" target="_blank">@neasynergy</a>
 <hr>         
 **Rachel Yan Ting Li 灰.Ash** · *Drawing Lines, Creating Sides…*         
          
-A reflection of the world we are living in today, drawing from personal experiences — especially living in a world where there is a mixture of cultures, backgrounds, beliefs and opinions. How do we achieve common ground in the 'Us and Them' world?         
+A reflection of the world we are living in today, drawing from personal experiences — especially living in a world where there is a mixture of cultures, backgrounds, beliefs and opinions.<br>How do we achieve common ground in the 'Us and Them' world?         
          
 Choreographer: Rachel Yan Ting Li · Performers: Rachel Yan Ting Li, Hannike Martens         
          
-Born and raised in Hong Kong, Rachel is a freelance dance artist in contemporary/ballet, a choreographer, and educator. She trained at Rambert School of Ballet & Contemporary Dance and toured nationally with Emergence Dance Company. Career highlights include Let's All Dance Ballet Company touring *The Nutcracker* and an original contemporary opera with Company Carpi, *Disunited Jukebox*.         
+Born and raised in Hong Kong, Rachel is a freelance dance artist in contemporary/ballet, a choreographer, and educator. She trained at Rambert School of Ballet & Contemporary Dance and toured nationally with Emergence Dance Company. Career highlights include Let's All Dance Ballet Company touring *The Nutcracker* and an original contemporary opera with Company Carpi: *Disunited Jukebox*.         
          
 Insta <a href="https://instagram.com/rachelyantingli.dance" target="_blank">@rachelyantingli.dance</a>         
 <hr>         
