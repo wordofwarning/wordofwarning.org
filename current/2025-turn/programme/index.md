@@ -31,7 +31,7 @@ Our twelfth annual whirlwind of new North West dance presents eight short dance-
           
 This contemporary dance piece reimagines Caliban from *The Tempest*, transforming Shakespeare's traditionally ridiculed character into a symbol of human vulnerability. Interplaying spoken word, animalistic movement, and humanised gesture, the choreography explores Caliban's longing for comfort, belonging, and a place to call home. Structured around rhythms inspired by Shakespearean iambic pentameter, the piece highlights both poetic order and life's inherent unpredictability. Caliban's journey reflects the unpredictability of modern existence, where stability can vanish in an instant, and highlights the human instinct to seek both inner and outer peace.         
          
-Dais is a Manchester-based dancer and freelance choreographer. She has performed, choreographed, and taught with various dance companies, groups, and community projects across Greater Manchester. Her personal choreographic practice involves blending traditional Shakespearean texts with contemporary dance: seeking to make Shakespeare more accessible, engaging, and inclusive for today's audience.         
+Dais is a Manchester-based dancer and freelance choreographer. She has performed, choreographed, and taught with various dance companies, groups, and community projects across Greater Manchester. Her personal choreographic practice involves blending traditional Shakespearean texts with contemporary dance — seeking to make Shakespeare more accessible, engaging, and inclusive for today's audience.         
          
 Insta <a href="https://instagram.com/daisleach_dance" target="_blank">@daisleach_dance</a>         
 <hr>         
@@ -53,9 +53,19 @@ Insta <a href="https://instagram.com/maelstromtheatre" target="_blank">@maelstro
 <hr>         
 **NéaSynergy** · *Io sono quien Soy*         
          
+A journey through doubt, identity, and self-acceptance, where fear turns into freedom and differences become our strength.         
+         
+Beatrice is a Manchester-based Italian-Portuguese dance artist. Trained in ballet, contemporary, and floorwork, she explores her heritage through movement, integrating African dance and capoeira. Passionate about sharing dance, she helps others discover their creativity through movement.<br>Nessa Ndong is a dynamic dancer blending Afro dance, hip-hop, and contemporary styles. Originally from Equatorial Guinea and now Manchester-based, she brings high-energy performances to international stages, celebrating culture and identity through movement.         
+         
 Insta <a href="https://instagram.com/neasynergy" target="_blank">@neasynergy</a> <a href="https://instagram.com/bea_montefusco" target="_blank">@bea_montefusco</a> <a href="https://instagram.com/nbnessa" target="_blank">@nbnessa</a>         
 <hr>         
 **Rachel Yan Ting Li 灰.Ash** · *Drawing Lines, Creating Sides…*         
+         
+A reflection of the world we are living in today, drawing from personal experiences — especially living in a world where there is a mixture of cultures, backgrounds, beliefs and opinions. How do we achieve common ground in the 'Us and Them' world?         
+         
+Choreographer: Rachel Yan Ting Li · Performers: Rachel Yan Ting Li, Hannike Martens         
+         
+Born and raised in Hong Kong, Rachel is a freelance dance artist in contemporary/ballet, a choreographer, and educator. She trained at Rambert School of Ballet & Contemporary Dance and toured nationally with Emergence Dance Company. Career highlights include Let's All Dance Ballet Company touring *The Nutcracker* and an original contemporary opera with Company Carpi, *Disunited Jukebox*.         
          
 Insta <a href="https://instagram.com/rachelyantingli.dance" target="_blank">@rachelyantingli.dance</a>         
 <hr>         
@@ -67,7 +77,7 @@ Content Warning: please click [here](/warnings).
          
 Supported by Company Chameleon.         
          
-UMAMI&#8209;i!&#8209;MOVEMENT is Maisha Kungu and Lily Antonia — a fledgling Manchester-based contemporary performance company who aim to delight, inspire, entertain, and leave a lasting impact. Maisha works with structured improvisation as a means to unlock identity and freedom of expression, generating authentic groove within body and soul. Lily's work centres around human relationships, investigating movement as keys to connection and exploring the interplay of nature vs nurture through somatic practice and improvisation.         
+UMAMI&#8209;i!&#8209;MOVEMENT is Maisha Kungu and Lily Antonia — a fledgling Manchester-based contemporary performance company who aim to delight, inspire, entertain, and leave a lasting impact.<br>Maisha works with structured improvisation as a means to unlock identity and freedom of expression, generating authentic groove within body and soul.<br>Lily's work centres around human relationships, investigating movement as keys to connection and exploring the interplay of nature vs nurture through somatic practice and improvisation.         
          
 Insta <a href="https://instagram.com/umami_movement" target="_blank">@umami_movement</a> <a href="https://instagram.com/lily.antonia" target="_blank">@lily.antonia</a> <a href="https://instagram.com/maisha.kungu.dance" target="_blank">@maisha.kungu.dance</a>         
 <hr>                  
