@@ -17,14 +17,14 @@ season: "Turn 4|4|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/programme/#artists) · [programme](/current/2025-turn/programme/#programme) · [entry](/current/2025-turn/programme/#entry) · [access](/current/2025-turn/programme/#access) · [credits](/current/2025-turn/programme/#credits)</span>&ensp; <small>Updated 25 March 2025</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/programme/#artists) · [notes](/current/2025-turn/programme/#notes) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 25 March 2025</small>         
         
 *[A night of new dance on 4 April](/current/2025-turn), presented by* Word of Warning *+* Contact         
          
 #### Artists         
 Dais&nbsp;Leach&nbsp;· Emmy&nbsp;Lahouel (Meraki&nbsp;Collective)&nbsp;· JP&nbsp;Hon&nbsp;· KUDERA&nbsp;+&nbsp;MPEARSONATER&nbsp;· Maelstrom&nbsp;Theatre&nbsp;· NéaSynergy&nbsp;· Rachel&nbsp;Yan&nbsp;Ting&nbsp;Li&nbsp;· UMAMI&#8209;i!&#8209;MOVEMENT&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*<small>         
         
-#### Programme         
+#### Notes         
 Our twelfth annual whirlwind of new North West dance presents eight short dance-works in three spaces at <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>, starting at 7pm…         
 <hr>         
 **Dais Leach** · *Echoes of the Isle*         
@@ -55,27 +55,6 @@ Choreographed & performed by Lily Antonia · Supported by Company Chameleon.
 Lily Antonia is a dance artist, teacher, and choreographer based in Manchester. Since graduating Trinity Laban they have been creating as a freelancer in the UK and internationally — sharing movement and telling stories through performance and workshops. They are especially interested in creating work that explores human relationships, making art accessible and relatable — using dance to connect to our inner and outer worlds and those we share it with.        
          
 <a href="https://instagram.com/lily.antonia" target="_blank">Insta @lily.antonia</a>         
-<hr>          
-#### Entry         
-Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
-         
-Tickets: now available <a href="https://contactmcr.com/book/instance/358758" target="_blank">online via Contact</a>.         
-         
-Time: Friday 4 April 2025, 7pm (with interval/pauses, ends *about* 10pm).         
-             
-Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
-        
-#### Access         
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
-         
-Content Warnings: some works *may* involve interaction and/or participation; specific warnings listed [here](/warnings).         
-        
-Features: eight contemporary dance performance works with varied content; works will occur in three spaces and will vary in format.
-         
-Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
-         
-#### Credits                 
-[Turn](/hab/turn) [2025](/current/2025-turn) produced by [hÅb](/hab); supported by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England.         
-         
+<hr>                  
 Image: UMAMI-i!-MOVEMENT by Joel Chester Fildes           
 <small><span style='font-variant: small-caps'>[back to top](/current/2025-turn/programme)</span></small>
