@@ -21,7 +21,7 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 #### 2025         
          
 ##### [4 Apr. Contact | Turn 2025](/current/2025-turn)          
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings to follow…<br>&nbsp;Dais Leach —<br>&nbsp;Emmy Lahouel (Meraki Collective) —<br>&nbsp;JP Hon —<br>&nbsp;KUDERA + MPEARSONATER —<br>&nbsp;Maelstrom Theatre —<br>&nbsp;NéaSynergy —<br>&nbsp;Rachel Yan Ting Li —<br>&nbsp;UMAMI&#8209;i!&#8209;MOVEMENT —         
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings follow…<br>&nbsp;Dais Leach — none.<br>&nbsp;Emmy Lahouel (Meraki Collective) — themes of displacement, myth, and spirituality.<br>&nbsp;JP Hon — TBC.<br>&nbsp;KUDERA + MPEARSONATER — visuals contain flashing light.<br>&nbsp;Maelstrom Theatre — emotional distress; strong language.<br>&nbsp;NéaSynergy — none.<br>&nbsp;Rachel Yan Ting Li — none.<br>&nbsp;UMAMI&#8209;i!&#8209;MOVEMENT — states of vulnerability; removal of clothing.         
          
 ##### [22 May. Contact | Social Experiment](/socialexperiment)          
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed here *about* a week before.
