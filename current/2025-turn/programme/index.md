@@ -57,7 +57,13 @@ Insta <a href="https://instagram.com/kudera.a" target="_blank">@kudera.a</a> <a 
 <hr>         
 **Maelstrom Theatre** · *Unapologetic (work-in-progress)*         
          
-Insta <a href="https://instagram.com/maelstromtheatre" target="_blank">@maelstromtheatre</a> <a href="https://instagram.com/lindseybrockleb" target="_blank">@lindseybrockleb</a> <a href="https://instagram.com/rowenagander" target="_blank">@rowenagander</a>         
+A darkly comedic dance-theatre work exploring the shifting visibility of women in the dance industry. Through a fusion of contemporary, commercial, and mixed media movement with character-driven text, the piece follows performers at different career stages — emerging dancers in their 20s, established artists in their 30s, and seasoned professionals in their 40s and 50s — grappling with the pressures of recognition, opportunity, and longevity in an industry that often renders them invisible.         
+         
+Content Warning: please click [here](/warnings).         
+         
+Collaborator & director: Lindsey Brocklebank<br>Collaborators & performers: Cara Marsh, Debbie Milner, Jasmin Saulo, Katherine Hollinson, Kyrah Decoteau, Rowena Gander, Sammy Allen, Sarah Jane Lockwood, Sophie Ellison, The D Twins         
+         
+Insta <a href="https://instagram.com/maelstromtheatre" target="_blank">@maelstromtheatre</a> <a href="https://instagram.com/lindseybrockleb" target="_blank">@lindseybrockleb</a>                  
 <hr>         
 **NéaSynergy** · *Io sono quien Soy*         
          
