@@ -45,7 +45,7 @@ Our twelfth annual whirlwind of new North West dance presents eight short dance-
 **NéaSynergy** · *Io sono quien Soy*         
 
 <hr>         
-**Rachel Yan Ting Li 灰.Ash** · *Drawing Lines, Creating Sides…         
+**Rachel Yan Ting Li 灰.Ash** · *Drawing Lines, Creating Sides…*         
 
 <hr>         
 **UMAMI&#8209;i!&#8209;MOVEMENT** · *Lean In*         
