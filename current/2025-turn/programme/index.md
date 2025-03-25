@@ -27,26 +27,34 @@ Dais&nbsp;Leach&nbsp;· Emmy&nbsp;Lahouel (Meraki&nbsp;Collective)&nbsp;· JP&nb
 #### Programme         
 Our twelfth annual whirlwind of new North West dance presents eight short dance-works in three spaces at <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>, starting at 7pm…         
 <hr>         
-**
+**Dais Leach** · *Echoes of the Isle*         
+
 <hr>         
-**
+**Emmy Lahouel (Meraki Collective)** · *On Land & Lines & Other Space*         
+
 <hr>         
-**
+**JP Hon** · *How Are You?*         
+
 <hr>         
-**
+**KUDERA + MPEARSONATER** · *What Have We Become?*         
+
 <hr>         
-**
+**Maelstrom Theatre** · *Unapologetic (work in progress)*         
+
 <hr>         
-**Lily  
+**NéaSynergy** · *Io sono quien Soy*         
+
+<hr>         
+**Rachel Yan Ting Li** · *灰 Ash*         
+
+<hr>         
+**UMAMI&#8209;i!&#8209;MOVEMENT** · *Lean In*         
+
 Choreographed & performed by Lily Antonia · With special thanks to Company Chameleon.         
          
-Lily Antonia is a dance artist, teacher, and choreographer based in Manchester. Since graduating Trinity Laban they have been creating as a freelancer in the UK and internationally — sharing movement and telling stories through performance and workshops. They are especially interested in creating work that explores human relationships, making art accessible and relatable — using dance to connect to our inner and outer worlds and those we share it with. 
+Lily Antonia is a dance artist, teacher, and choreographer based in Manchester. Since graduating Trinity Laban they have been creating as a freelancer in the UK and internationally — sharing movement and telling stories through performance and workshops. They are especially interested in creating work that explores human relationships, making art accessible and relatable — using dance to connect to our inner and outer worlds and those we share it with.        
          
 <a href="https://instagram.com/lily.antonia" target="_blank">Insta @lily.antonia</a>         
-<hr>         
-**
-<hr>         
-**     
 <hr>          
 #### Entry         
 Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
