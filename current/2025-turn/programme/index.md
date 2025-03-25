@@ -17,7 +17,7 @@ season: "Turn 4|4|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/programme/#artists) · [notes](/current/2025-turn/programme/#notes) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 25 March 2025</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/programme/#artists) · [notes](/current/2025-turn/programme/#notes) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 25 March 2025</small>         
         
 *[A night of new dance on 4 April](/current/2025-turn), presented by* Word of Warning *+* Contact         
          
@@ -28,33 +28,48 @@ Dais&nbsp;Leach&nbsp;· Emmy&nbsp;Lahouel (Meraki&nbsp;Collective)&nbsp;· JP&nb
 Our twelfth annual whirlwind of new North West dance presents eight short dance-works in three spaces at <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>, starting at 7pm…         
 <hr>         
 **Dais Leach** · *Echoes of the Isle*         
-
+          
+This contemporary dance piece reimagines Caliban from *The Tempest*, transforming Shakespeare's traditionally ridiculed character into a symbol of human vulnerability. Interplaying spoken word, animalistic movement, and humanised gesture, the choreography explores Caliban's longing for comfort, belonging, and a place to call home. Structured around rhythms inspired by Shakespearean iambic pentameter, the piece highlights both poetic order and life's inherent unpredictability. Caliban's journey reflects the unpredictability of modern existence, where stability can vanish in an instant, and highlights the human instinct to seek both inner and outer peace.         
+         
+Dais is a Manchester-based dancer and freelance choreographer. She has performed, choreographed, and taught with various dance companies, groups, and community projects across Greater Manchester. Her personal choreographic practice involves blending traditional Shakespearean texts with contemporary dance: seeking to make Shakespeare more accessible, engaging, and inclusive for today's audience.         
+         
+Insta <a href="https://instagram.com/daisleach_dance" target="_blank">@daisleach_dance</a>         
 <hr>         
 **Emmy Lahouel (Meraki Collective)** · *On Land & Lines & Other Space*         
-
+         
+Insta <a href="https://instagram.com/emmylahouel" target="_blank">@emmylahouel</a> <a href="https://instagram.com/merakicollectivept" target="_blank">@merakicollectivept</a> · X <a href="https://x.com/EmmyLahouel" target="_blank">@EmmyLahouel</a>         
 <hr>         
 **JP Hon** · *How Are You?*         
 
+Insta <a href="https://instagram.com/jp.hon" target="_blank">@jp.hon</a>         
 <hr>         
 **KUDERA + MPEARSONATER** · *What Have We Become?*         
-
+         
+Insta <a href="https://instagram.com/kudera.a" target="_blank">@kudera.a</a> <a href="https://instagram.com/mpearsonater" target="_blank">@mpearsonater</a>         
 <hr>         
 **Maelstrom Theatre** · *Unapologetic (work in progress)*         
-
+         
+Insta <a href="https://instagram.com/maelstromtheatre" target="_blank">@maelstromtheatre</a> <a href="https://instagram.com/lindseybrockleb" target="_blank">@lindseybrockleb</a> <a href="https://instagram.com/rowenagander" target="_blank">@rowenagander</a>         
 <hr>         
 **NéaSynergy** · *Io sono quien Soy*         
-
+         
+Insta <a href="https://instagram.com/neasynergy" target="_blank">@neasynergy</a> <a href="https://instagram.com/bea_montefusco" target="_blank">@bea_montefusco</a> <a href="https://instagram.com/nbnessa" target="_blank">@nbnessa</a>         
 <hr>         
 **Rachel Yan Ting Li 灰.Ash** · *Drawing Lines, Creating Sides…*         
-
+         
+Insta <a href="https://instagram.com/rachelyantingli.dance" target="_blank">@rachelyantingli.dance</a>         
 <hr>         
 **UMAMI&#8209;i!&#8209;MOVEMENT** · *Lean In*         
-
-Choreographed & performed by Lily Antonia · Supported by Company Chameleon.         
          
-Lily Antonia is a dance artist, teacher, and choreographer based in Manchester. Since graduating Trinity Laban they have been creating as a freelancer in the UK and internationally — sharing movement and telling stories through performance and workshops. They are especially interested in creating work that explores human relationships, making art accessible and relatable — using dance to connect to our inner and outer worlds and those we share it with.        
+Lean In: commit completely or more fully to something, especially when faced with difficulty or resistance.<br>Lean In: how close we really are when in relation to another. We explore what intimacy looks like when co-located with platonic care, disentangled from the explicitly sexual.<br>Lean In: exists as a counterpoint to aesthetic as outcome.<br>UMAMI-i!-MOVEMENT seeks to push back against the labelling of life's minutiae, platforming intimacy as social reform.         
          
-<a href="https://instagram.com/lily.antonia" target="_blank">Insta @lily.antonia</a>         
+Content Warning: please click [here](/warnings).         
+         
+Supported by Company Chameleon.         
+         
+UMAMI&#8209;i!&#8209;MOVEMENT is Maisha Kungu and Lily Antonia — a fledgling Manchester-based contemporary performance company who aim to delight, inspire, entertain, and leave a lasting impact. Maisha works with structured improvisation as a means to unlock identity and freedom of expression, generating authentic groove within body and soul. Lily's work centres around human relationships, investigating movement as keys to connection and exploring the interplay of nature vs nurture through somatic practice and improvisation.         
+         
+Insta <a href="https://instagram.com/umami_movement" target="_blank">@umami_movement</a> <a href="https://instagram.com/lily.antonia" target="_blank">@lily.antonia</a> <a href="https://instagram.com/maisha.kungu.dance" target="_blank">@maisha.kungu.dance</a>         
 <hr>                  
 Image: UMAMI-i!-MOVEMENT by Joel Chester Fildes           
 <small><span style='font-variant: small-caps'>[back to top](/current/2025-turn/programme)</span></small>
