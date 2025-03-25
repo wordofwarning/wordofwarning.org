@@ -36,8 +36,16 @@ Dais is a Manchester-based dancer and freelance choreographer. She has performed
 Insta <a href="https://instagram.com/daisleach_dance" target="_blank">@daisleach_dance</a>         
 <hr>         
 **Emmy Lahouel (Meraki Collective)** · *On Land & Lines & Other Space*         
+
+A new dance theatre work-in-progress exploring myth, memory, and belief. Blending movement, live music, layered soundscapes, and video projection, it examines the stories we inherit — about gods, history, and ourselves — inviting us to reflect on what we choose to believe and why. Rooted in folklore, lived experience, and cultural inquiry, this work doesn't offer answers but instead creates a moment for reflection, questioning, and navigating the unknown. How does it all end, or is it start?        
          
-Insta <a href="https://instagram.com/emmylahouel" target="_blank">@emmylahouel</a> <a href="https://instagram.com/merakicollectivept" target="_blank">@merakicollectivept</a> · X <a href="https://x.com/EmmyLahouel" target="_blank">@EmmyLahouel</a>         
+Content Warning: please click [here](/warnings).         
+         
+Created & performed by Emmy Lahouel · Musical creation & performed by Alan Keary         
+         
+Emmy (she/her) is an interdisciplinary artist and organiser working nationally and internationally across cultural organisations, venues and unusual spaces. Originally training in physical & dance theatre she has since gone on to work as director, producer, performer, and facilitator for various artists and organisations including: Contact, Selina Thompson, Eclipse Theatre, Ergon Theatre, Z-arts, MIF, Ludus Dance, HOME, Company Chameleon.
+         
+<a href="emmylahouel.com" target="_blank">emmylahouel.com</a> · Insta <a href="https://instagram.com/emmylahouel" target="_blank">@emmylahouel</a> <a href="https://instagram.com/merakicollectivept" target="_blank">@merakicollectivept</a> · X <a href="https://x.com/EmmyLahouel" target="_blank">@EmmyLahouel</a>         
 <hr>         
 **JP Hon** · *How Are You?*         
 
@@ -47,7 +55,7 @@ Insta <a href="https://instagram.com/jp.hon" target="_blank">@jp.hon</a>
          
 Insta <a href="https://instagram.com/kudera.a" target="_blank">@kudera.a</a> <a href="https://instagram.com/mpearsonater" target="_blank">@mpearsonater</a>         
 <hr>         
-**Maelstrom Theatre** · *Unapologetic (work in progress)*         
+**Maelstrom Theatre** · *Unapologetic (work-in-progress)*         
          
 Insta <a href="https://instagram.com/maelstromtheatre" target="_blank">@maelstromtheatre</a> <a href="https://instagram.com/lindseybrockleb" target="_blank">@lindseybrockleb</a> <a href="https://instagram.com/rowenagander" target="_blank">@rowenagander</a>         
 <hr>         
