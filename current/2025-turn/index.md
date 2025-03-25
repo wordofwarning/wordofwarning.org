@@ -17,7 +17,7 @@ season: "Turn 4|4|2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits) · [websites](/current/2025-turn/#websites)</span>&ensp; <small>Updated 26 February 2025</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 25 March 2025</small>        
         
 *Presented by* Word of Warning *+* Contact        
         
@@ -42,7 +42,7 @@ Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Co
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
          
-Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed [here](/warnings) by March.         
+Content Warnings: some works *may* involve interaction and/or participation; specific warnings listed [here](/warnings).         
         
 Features: eight contemporary dance performance works with varied content; works will occur in three spaces and will vary in format.
          
@@ -62,6 +62,6 @@ Get a feel for [Turn](/hab/turn) with [2024's programme](/archive/2024-turn) and
          
 Image: UMAMI-i!-MOVEMENT by Joel Chester Fildes           
         
-#### Websites         
+#### Website         
 <a href="https://turnmcr.org" target="_blank">TurnMcr.org</a> · Enquiries: <mailto:turn@habmcr.org>         
 <small><span style='font-variant: small-caps'>[back to top](/current/2025-turn)</span></small>
