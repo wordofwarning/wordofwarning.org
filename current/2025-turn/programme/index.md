@@ -48,10 +48,22 @@ Emmy (she/her) is an interdisciplinary artist and organiser working nationally a
 <a href="emmylahouel.com" target="_blank">emmylahouel.com</a> · Insta <a href="https://instagram.com/emmylahouel" target="_blank">@emmylahouel</a> <a href="https://instagram.com/merakicollectivept" target="_blank">@merakicollectivept</a> · X <a href="https://x.com/EmmyLahouel" target="_blank">@EmmyLahouel</a>         
 <hr>         
 **JP Hon** · *How Are You?*         
-
+         
+This piece explores JP's emotional journey, navigating the cultural differences and her personal struggles after moving from Hong Kong to the UK.<br>The choreographer and performer questions the complexity of adaptation and the gap between how we feel and what we actually express, revealing our fragilities and vulnerabilities.         
+         
+Content Warning: please click [here](/warnings).         
+         
+JP was born & raised in Hong Kong and graduated from the Hong Kong Academy for Performing Arts in 2021, majoring in contemporary dance. In 2022 she moved to the UK to continue her journey as an international dance artist. Currently Manchester-based, she is working as an apprentice company dancer with Company Chameleon. JP trains in various dance styles and movement practices, including contemporary dance, ballet, popping, acrobatics, hip-hop, jazz, and yoga. She is passionate about blending these styles, exploring interdisciplinary possibilities, and maximizing versatility in her work.         
+         
 Insta <a href="https://instagram.com/jp.hon" target="_blank">@jp.hon</a>         
 <hr>         
 **KUDERA + MPEARSONATER** · *What Have We Become?*         
+         
+Content Warning: please click [here](/warnings).         
+           
+KUDERA's collection of garments and accessories are made from single use plastics, fast fashion, and other materials destined for the landfill.<br>Solo danced by Mary Pearson.<br>Immersive digital habitat co-created by electro-acoustic composer Caterina McEvoy and multimedia artist & production designer Noel Jones.<br>Made in collaboration with dance makers Amy Voris & Laura Doehler.<br>Part of a larger work-in-progress supported using public funding by Arts Council England, Developing Your Creative Practice.         
+         
+KUDERA + MPEARSONATER is an ongoing collaboration between garment designer and textile artist Alena Kudera + dancer and performance maker Mary Pearson, in search of an embodied and felt response to environmental crisis.         
          
 Insta <a href="https://instagram.com/kudera.a" target="_blank">@kudera.a</a> <a href="https://instagram.com/mpearsonater" target="_blank">@mpearsonater</a>         
 <hr>         
