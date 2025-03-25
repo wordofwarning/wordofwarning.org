@@ -45,12 +45,12 @@ Our twelfth annual whirlwind of new North West dance presents eight short dance-
 **NéaSynergy** · *Io sono quien Soy*         
 
 <hr>         
-**Rachel Yan Ting Li** · *灰 Ash*         
+**Rachel Yan Ting Li 灰.Ash** · *Drawing Lines, Creating Sides…         
 
 <hr>         
 **UMAMI&#8209;i!&#8209;MOVEMENT** · *Lean In*         
 
-Choreographed & performed by Lily Antonia · With special thanks to Company Chameleon.         
+Choreographed & performed by Lily Antonia · Supported by Company Chameleon.         
          
 Lily Antonia is a dance artist, teacher, and choreographer based in Manchester. Since graduating Trinity Laban they have been creating as a freelancer in the UK and internationally — sharing movement and telling stories through performance and workshops. They are especially interested in creating work that explores human relationships, making art accessible and relatable — using dance to connect to our inner and outer worlds and those we share it with.        
          
