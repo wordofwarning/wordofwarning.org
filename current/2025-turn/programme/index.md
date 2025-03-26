@@ -17,12 +17,12 @@ season: "Turn 4|4|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/programme/#artists) · [notes](/current/2025-turn/programme/#notes) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 25 March 2025</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/programme/#artists) · [notes](/current/2025-turn/programme/#notes) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 26 March 2025</small>         
         
 *[Turn 2025 on 4 April](/current/2025-turn), presented by* Word of Warning *+* Contact         
          
 #### Artists         
-Dais&nbsp;Leach&nbsp;· Emmy&nbsp;Lahouel (Meraki&nbsp;Collective)&nbsp;· JP&nbsp;Hon&nbsp;· KUDERA&nbsp;+&nbsp;MPEARSONATER&nbsp;· Maelstrom&nbsp;Theatre&nbsp;· NéaSynergy&nbsp;· Rachel&nbsp;Yan&nbsp;Ting&nbsp;Li&nbsp;· UMAMI&#8209;i!&#8209;MOVEMENT&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*<small>         
+Dais&nbsp;Leach&nbsp;· Emmy&nbsp;Lahouel (Meraki&nbsp;Collective)&nbsp;· JP&nbsp;Hon&nbsp;· KUDERA&nbsp;+&nbsp;MPEARSONATER&nbsp;· Maelstrom&nbsp;Theatre&nbsp;· Néa&nbsp;Synergy&nbsp;· Rachel&nbsp;Yan&nbsp;Ting&nbsp;Li&nbsp;· UMAMI&#8209;i!&#8209;MOVEMENT&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*<small>         
         
 #### Notes         
 This night of new North West dance presents eight short works in three spaces at Manchester's <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>, starting at 7pm in space 1…         
@@ -75,13 +75,16 @@ Content Warning: please click [here](/warnings).
          
 Collaborator & director: Lindsey Brocklebank · Collaborators & performers: Cara Marsh, Debbie Milner, Jasmin Saulo, Katherine Hollinson, Kyrah Decoteau, Rowena Gander, Sammy Allen, Sarah Jane Lockwood, Sophie Ellison, The D Twins         
          
-Insta <a href="https://instagram.com/maelstromtheatre" target="_blank">@maelstromtheatre</a> <a href="https://instagram.com/lindseybrockleb" target="_blank">@lindseybrockleb</a>                  
+Insta <a href="https://instagram.com/maelstromtheatre" target="_blank">@maelstromtheatre</a> <a href="https://instagram.com/lindseybrockleb" target="_blank">@lindseybrockleb</a>         
 <hr>         
-**NéaSynergy** · *Io sono quien Soy*         
+**Néa Synergy** · *Io Sono Quien Soy*         
          
-A journey through doubt, identity, and self-acceptance — where fear turns into freedom and differences become our strength.         
+A powerful and emotional dance piece that explores the experience of having a mixed-heritage background, touching on themes of self-doubt, identity, and human
+connection.<br>*As two dancers, we navigate the tension of always feeling different — questioning who we are, where we belong, and why others care so much about defining us. Fear gives way to understanding, hesitation to support, and solitude to connection. Through movement, our journey begins in solitude, crawling through identities before encountering one another. The performance transitions from isolation to a celebration of culture and the embrace of our individual differences. The music shifts from poetic narration to Afro-inspired rhythms, mirroring our emotional transformation. This piece is a reminder that our differences are not barriers but the essence of what makes us whole.*         
          
-Beatrice is a Manchester-based Italian-Portuguese dance artist. Trained in ballet, contemporary, and floorwork, she explores her heritage through movement, integrating African dance and capoeira. Passionate about sharing dance, she helps others discover their creativity through movement.<br>Nessa Ndong is a dynamic dancer blending Afro dance, hip-hop, and contemporary styles. Originally from Equatorial Guinea and now Manchester-based, she brings high-energy performances to international stages, celebrating culture and identity through movement.         
+Content Warning: please click [here](/warnings).         
+         
+Beatrice is a Manchester-based Italian-Portuguese dance artist. She is a performer, choreographer, and movement facilitator passionate about sharing movement and creating meaningful connections. Her current practice explores cultural heritage through dance, integrating her background in ballet with African dance and capoeira.<br>Nessa is a dynamic dancer blending Afro dance, hip-hop, and contemporary styles. Originally from Equatorial Guinea and now Manchester-based, she delivers high-energy performances on international stages, celebrating culture and identity through movement.         
          
 Insta <a href="https://instagram.com/neasynergy" target="_blank">@neasynergy</a> <a href="https://instagram.com/bea_montefusco" target="_blank">@bea_montefusco</a> <a href="https://instagram.com/nbnessa" target="_blank">@nbnessa</a>         
 <hr>         
