@@ -32,32 +32,34 @@ How do we give care and how can we tell if somebody really cares for us?
 An exposing and relatable performance that challenges and defies suffocating truths we sometimes struggle to believe.         
          
 #### Entry          
-Pay What You Decide: £10/£5/£0 (advance booking recommended).        
+Pay What You Decide: £15/10/£5/£0 (advance booking recommended).        
          
 Tickets: now available <a href="https://eventbrite.com/e" target="_blank">online via EventBrite</a>.        
          
 Time: Thursday 29 May 2025, 7.30pm (doors and bar open at 7pm; performance ends *about* 8.30pm; postshow there will be an optional Q&A after an interval).         
              
-Location: <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, 6 Barrass St, Gorton, Manchester M11 1PU.<br>*NB <a href="https://nationalrail.co.uk/stations/gorton" target="_blank">Gorton station</a> is a 3-minute walk and we suggest arriving on the 18:57 northern train from Piccadilly; alternatively you could use the <a href="https://tfgm.com/public-transport/bus/routes/219-manchester-city-centre" target="_blank">219 bus</a>.*          
+Location: <a href="https://companychameleon.com/contact" target="_blank">Company Chameleon</a>, 6 Barrass St, Openshaw, Manchester M11 1PU.         
+         
+*NB* <a href="https://nationalrail.co.uk/stations/gorton" target="_blank">Gorton station</a> is a 3-minute walk and we suggest arriving on the 18:57 northern train from Piccadilly; alternatively you could use the <a href="https://tfgm.com/travel-updates/live-departures/bus/219-manchester-city-centre" target="_blank">219 bus</a>.          
         
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
          
 Content Warnings: please click [here](/warnings).         
         
-Features: a contemporary dance performance work, mainly spoken English with varied content including amplified audio and music; occurs on the ground floor in a studio space with raked seating.         
+Features: a contemporary dance performance work, mainly spoken English with varied content including amplified audio and music; occurs in Studio 1 on the ground floor in a studio space with raked seating.         
          
 Queries: please contact Word of Warning via <mailto:info@habmcr.com>        
          
 #### Artists        
-Fabíola is an interdisciplinary Afro-Portuguese Liverpool-based artist. With a PhD scholarship in performance and decolonising studies (Liverpool Hope University) she is currently researching performance-making as a space where people from the Global Ethnic Majority can gather to centre their stories, be witnessed, and be nurtured – collectively creating a space for the ancestors to reverberate through us — pointing us toward the elders we want to become.<br>She is the maker of *A Home for Grief* supported by Lancaster Arts, Unity Theatre (Liverpool), Contact, Tramway (Glasgow), and using public funding by the National Lottery through Arts Council England.          
+Fabíola is an interdisciplinary Afro-Portuguese Liverpool-based artist. With a PhD scholarship in performance and decolonising studies (Liverpool Hope University) she is currently researching performance-making as a space where people from the Global Ethnic Majority can gather to centre their stories, be witnessed, and be nurtured — collectively creating a space for the ancestors to reverberate through us — pointing us toward the elders we want to become.<br>She is the maker of *A Home for Grief* supported by Lancaster Arts, Unity Theatre (Liverpool), Contact (MAnchester), Tramway (Glasgow), and using public funding by the National Lottery through Arts Council England.          
           
 Jessica Morgado is an emerging Cambridge-based dance artist. As a dancer and international collaborator her works include: *WRESTLELADSWRESTLE* by Jennifer Jackson Company (Cambridge); [Turn 2024](/archive/2024-turn) with Fabíola Santana (Manchester); Company MARRAFA (Brussels); *HOME* by Luís Marrafa (Dilbeek, Belgium); *Rebuild* by Iolanda Rodrigues and Marina Sacramento (Portugal); *Oi-to* by Lia Vohlgemuth and Nuno Santos (Portugal).         
          
-WilL Dickie is an interdisciplinary artist whose works have received nationwide support and toured to over forty UK venues including: Southbank Centre, The Place (London), and In Between Time (Bristol). His recent show *White Sun* had its international premiere in Boorloo–Perth (Australia) as part of The Blue Room Theatre’s Summer Nights during Perth's 2025 Fringe World Festival. *White Sun* was first developed in Works Ahead [2020](archive/2020-spring/dickie)-[2022](/archive/2022-worksahead/dickie), commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>. His collaborative credits include choreography for Hanna Tuulikki; movement director at Regents Park Open Air Theatre; director of *A Home for Grief* by Fabíola Santana.         
+WilL Dickie is an interdisciplinary artist whose works have received nationwide support and toured to over forty UK venues including: Southbank Centre, The Place (London), and In Between Time (Bristol). His recent show *White Sun* had its international premiere in Boorloo—Perth (Australia) as part of The Blue Room Theatre’s Summer Nights during Fringe World Festival 2025. *White Sun* was first developed in Works Ahead [2020](/archive/2020-spring/dickie)-[2022](/archive/2022-worksahead/dickie), commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>. His collaborative credits include choreography for Hanna Tuulikki; movement director at Regents Park Open Air Theatre; director of *A Home for Grief* by Fabíola Santana.         
          
 #### Credits         
-Created & performed by: Fabíola Santana<br>Performed by & devised with: Jessica Morgado<br>Directed by: WilL Dickie<br>Producer: Emmy Lahouel<br>Other creatives will join the team as the project develops, with their names and contributions added here.         
+Created & performed by: Fabíola Santana<br>Performed by & devised with: Jessica Morgado<br>Directed by: WilL Dickie<br>Producer: Emmy Lahouel<br>*NB* other creatives will join the team as the project develops, with their names and contributions added here.         
          
 Recipient of the [Turn](/hab/turn) Prize 2024 supported by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>. Made possible by an Artist Residency with Metal Liverpool. In partnership with Unity Theatre (Liverpool), Tyn-y-Parc Studio (Wales), and Liverpool Hope University. Supported using public funding by the National Lottery through Arts Council England.          
          
