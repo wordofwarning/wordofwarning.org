@@ -4,12 +4,12 @@ layout: 2025-programme
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Kellie Colbert" # the name of the artist or company
-show: "Dedicated To The One I Love" # the name of the show
+artist: "Fabíola Santana" # the name of the artist or company
+show: "We’re Here Because They Were" # the name of the show
 artist_size: 1
 show_size: 4
-header_image: "header_kellie.jpg"
-season: "Kellie Colbert 13|3|2025, 7.30pm"
+header_image: "header_fabiola.jpg"
+season: "Fabíola Santana 29|5|2025, 7.30pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,9 +17,9 @@ season: "Kellie Colbert 13|3|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/colbert/#entry) · [access](/current/2025/colbert/#access) · [artist](/current/2025/colbert/#artist) · [credits](/current/2025/colbert/#credits) · [websites](/current/2025/colbert/#websites)</span>&ensp; <small>Updated 13 March 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/santana/#entry) · [access](/current/2025/santana/#access) · [artists](/current/2025/santana/#artists) · [credits](/current/2025/santana/#credits) · [websites](/current/2025/santana/#websites)</span>&ensp; <small>Updated 26 March 2025</small>        
            
-*Presented by* Word of Warning + Contact<br>***NB* this performance is sold-out.**                  
+*Presented by* Word of Warning         
          
 *And tell all the stars above. This is dedicated to the one I love.*         
          
@@ -57,14 +57,13 @@ Kellie has collaborated with Eggs Collective, and has been commissioned by NIAMO
 Her biggest accomplishment to date is publicly debuting *Root*, an intimate performance video that explores and exposes trichotillomania — it went on to be supported by HabitAware, a company who aims to raise awareness for Body-Focused Repetitive Behaviours.         
          
 #### Credits         
-Performed & created by: Kellie Colbert<br>Direction & dramaturgy: Peader Kirk<br>Audio: *Falling in Love* & *You may feel…* by Alan Watts<br>Music: 
-*Sunken City* by Les Baxter; *Golden Square* by Warrington-Runcorn New Town Development Plan; *Dedicated to the One I Love* by The Mamas & the Papas; *You Don't Own Me* by Lesley Gore; *Going Through the Veil - Becoming a Swan* by Joanna Brouk.         
+Created & performed by: Fabíola Santana<br>Performed by & devised with: Jessica Morgado<br>Directed by WilL Dickie<br>Producer: Emmy Lahouel<br>Other creatives will be joining our team as the project keeps developing, we will update their names and contributions as they join.         
          
-Produced by [hÅb](/hab); commissioned for [Works Ahead](/hab/worksahead) by [hÅb](/hab) & <a href="https://contactmcr.com" target="_blank">Contact</a>.         
+Recipient of the [Turn](/hab/turn) Prize 2024 supported by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>. Made possible by an Artist Residency with Metal Liverpool. In partnership with the Unity Theatre (Liverpool), Tyn-y-Parc Studio (Wales), and Liverpool Hope University. Supported using public funding by the National Lottery through Arts Council England.          
          
-Image: [Works Ahead 2023](/archive/2023-worksahead/colbert) at Contact by Tamsin Drury         
+Image: [Turn 2024](/archive/2024-turn) at Contact by Tamsin Drury         
          
-#### Websites          
-<a href="https://instagram.com/kellie.colbert.theatre" target="_blank">Insta @kellie.colbert.theatre</a> · <a href="https://x.com/imKellieColbert" target="_blank">X @imKellieColbert</a>         
+#### Websites        
+<a href="https://fabiolasantana.co.uk" target="_blank">fabiolasantana.co.uk</a> · <a href="https://willdickie.co.uk" target="_blank">willdickie.co.uk</a> · Insta <a href="https://instagram.com/fbs.santana" target="_blank">@fbs.santana</a> <a href="https://instagram.com/jessicamorgado_" target="_blank">@jessicamorgado_</a> <a href="https://instagram.com/will_dickie_" target="_blank">@will_dickie_</a>          
         
-<small><span style='font-variant: small-caps'>[back to top](/current/2025/colbert)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/current/2025/santana)</span></small>
