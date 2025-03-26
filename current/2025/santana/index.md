@@ -34,34 +34,34 @@ An exposing and relatable performance that challenges and defies suffocating tru
 #### Entry          
 Pay What You Decide: £10/£5/£0 (advance booking recommended).        
          
-Tickets: were available <a href="https://contactmcr.com/book/instance/358558" target="_blank">online via Contact</a>; now sold-out.        
+Tickets: now available <a href="https://eventbrite.com/e" target="_blank">online via EventBrite</a>.        
          
-Time: Thursday 13 March 2025, 7.30pm (ends *about* 8.25pm, no interval).         
+Time: Thursday 29 May 2025, 7.30pm (doors and bar open at 7pm; performance ends *about* 8.30pm; postshow there will be an optional Q&A after an interval).         
              
-Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 2), Oxford Rd, Manchester M15 6JA.         
+Location: <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, 6 Barrass St, Gorton, Manchester M11 1PU.<br>*NB <a href="https://nationalrail.co.uk/stations/gorton" target="_blank">Gorton station</a> is a 3-minute walk and we suggest arriving on the 18:57 northern train from Piccadilly; alternatively you could use the <a href="https://tfgm.com/public-transport/bus/routes/219-manchester-city-centre" target="_blank">219 bus</a>.*          
         
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
          
 Content Warnings: please click [here](/warnings).         
         
-Features: a contemporary solo performance work, mainly spoken English with varied content including amplified audio and music; occurs in Space 2 on the second floor, a studio space with raked seating.         
+Features: a contemporary dance performance work, mainly spoken English with varied content including amplified audio and music; occurs on the ground floor in a studio space with raked seating.         
          
-Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
+Queries: please contact Word of Warning via <mailto:info@habmcr.com>        
          
-#### Artist        
-Kellie is a Greater Manchester-based performance maker. She would describe herself as an autobiographical artist, who creates work that is honest, relatable, and at times self-critical. Kellie uses spoken word and symbolism to explore memories, often focusing on themes of mental health and feminism. She aims to create performance that is both self-exposing and empathetic.         
-        
-Kellie has collaborated with Eggs Collective, and has been commissioned by NIAMOS & (in)sane Mcr as part of the *Starvin Artists* project and by Breakdown Bolton to create short performance videos to raise mental health awareness. She is currently part of the co-curation group at Factory International, organising an event for early 2025.        
+#### Artists        
+Fabíola is an interdisciplinary Afro-Portuguese Liverpool-based artist. With a PhD scholarship in performance and decolonising studies (Liverpool Hope University) she is currently researching performance-making as a space where people from the Global Ethnic Majority can gather to centre their stories, be witnessed, and be nurtured – collectively creating a space for the ancestors to reverberate through us — pointing us toward the elders we want to become.<br>She is the maker of *A Home for Grief* supported by Lancaster Arts, Unity Theatre (Liverpool), Contact, Tramway (Glasgow), and using public funding by the National Lottery through Arts Council England.          
+          
+Jessica Morgado is an emerging Cambridge-based dance artist. As a dancer and international collaborator her works include: *WRESTLELADSWRESTLE* by Jennifer Jackson Company (Cambridge); [Turn 2024](/archive/2024-turn) with Fabíola Santana (Manchester); Company MARRAFA (Brussels); *HOME* by Luís Marrafa (Dilbeek, Belgium); *Rebuild* by Iolanda Rodrigues and Marina Sacramento (Portugal); *Oi-to* by Lia Vohlgemuth and Nuno Santos (Portugal).         
          
-Her biggest accomplishment to date is publicly debuting *Root*, an intimate performance video that explores and exposes trichotillomania — it went on to be supported by HabitAware, a company who aims to raise awareness for Body-Focused Repetitive Behaviours.         
+WilL Dickie is an interdisciplinary artist whose works have received nationwide support and toured to over forty UK venues including: Southbank Centre, The Place (London), and In Between Time (Bristol). His recent show *White Sun* had its international premiere in Boorloo–Perth (Australia) as part of The Blue Room Theatre’s Summer Nights during Perth's 2025 Fringe World Festival. *White Sun* was first developed in Works Ahead [2020](archive/2020-spring/dickie)-[2022](/archive/2022-worksahead/dickie), commissioned by [hÅb](/hab) + <a href="https://contactmcr.com" target="_blank">Contact</a>. His collaborative credits include choreography for Hanna Tuulikki; movement director at Regents Park Open Air Theatre; director of *A Home for Grief* by Fabíola Santana.         
          
 #### Credits         
-Created & performed by: Fabíola Santana<br>Performed by & devised with: Jessica Morgado<br>Directed by WilL Dickie<br>Producer: Emmy Lahouel<br>Other creatives will be joining our team as the project keeps developing, we will update their names and contributions as they join.         
+Created & performed by: Fabíola Santana<br>Performed by & devised with: Jessica Morgado<br>Directed by: WilL Dickie<br>Producer: Emmy Lahouel<br>Other creatives will join the team as the project develops, with their names and contributions added here.         
          
-Recipient of the [Turn](/hab/turn) Prize 2024 supported by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>. Made possible by an Artist Residency with Metal Liverpool. In partnership with the Unity Theatre (Liverpool), Tyn-y-Parc Studio (Wales), and Liverpool Hope University. Supported using public funding by the National Lottery through Arts Council England.          
+Recipient of the [Turn](/hab/turn) Prize 2024 supported by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>. Made possible by an Artist Residency with Metal Liverpool. In partnership with Unity Theatre (Liverpool), Tyn-y-Parc Studio (Wales), and Liverpool Hope University. Supported using public funding by the National Lottery through Arts Council England.          
          
-Image: [Turn 2024](/archive/2024-turn) at Contact by Tamsin Drury         
+Image: [Turn 2024](/archive/2024-turn) at Company Chameleon by Tamsin Drury         
          
 #### Websites        
 <a href="https://fabiolasantana.co.uk" target="_blank">fabiolasantana.co.uk</a> · <a href="https://willdickie.co.uk" target="_blank">willdickie.co.uk</a> · Insta <a href="https://instagram.com/fbs.santana" target="_blank">@fbs.santana</a> <a href="https://instagram.com/jessicamorgado_" target="_blank">@jessicamorgado_</a> <a href="https://instagram.com/will_dickie_" target="_blank">@will_dickie_</a>          
