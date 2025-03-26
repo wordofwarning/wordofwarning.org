@@ -31,7 +31,7 @@ This night of new North West dance presents eight short works in three spaces at
           
 This contemporary dance piece reimagines Caliban from *The Tempest*, transforming Shakespeare's traditionally ridiculed character into a symbol of human vulnerability.<br>Interplaying spoken word, animalistic movement, and humanised gesture, the choreography explores Caliban's longing for comfort, belonging, and a place to call home. Structured around rhythms inspired by Shakespearean iambic pentameter, the piece highlights both poetic order and life's inherent unpredictability. Caliban's journey reflects the unpredictability of modern existence, where stability can vanish in an instant, and highlights the human instinct to seek both inner and outer peace.         
          
-Dais is a Manchester-based dancer and freelance choreographer. She has performed, choreographed, and taught with various dance companies, groups, and community projects across Greater Manchester. Her personal choreographic practice involves blending traditional Shakespearean texts with contemporary dance — seeking to make Shakespeare more accessible, engaging, and inclusive for today's audience.         
+Dais is a Manchester-based dancer and freelance choreographer. They has performed, choreographed, and taught with various dance companies, groups, and community projects across Greater Manchester. Their personal choreographic practice involves blending traditional Shakespearean texts with contemporary dance — seeking to make Shakespeare more accessible, engaging, and inclusive for today's audience.         
          
 Insta <a href="https://instagram.com/daisleach_dance" target="_blank">@daisleach_dance</a>         
 <hr>         
