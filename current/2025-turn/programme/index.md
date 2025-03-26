@@ -88,9 +88,9 @@ Néa Synergy is Manchester-based duo Nessa Ndong (she/her) and Beatrice Montefus
          
 Insta <a href="https://instagram.com/neasynergy" target="_blank">@neasynergy</a> <a href="https://instagram.com/bea_montefusco" target="_blank">@bea_montefusco</a> <a href="https://instagram.com/nbnessa" target="_blank">@nbnessa</a>         
 <hr>         
-**Rachel Yan Ting Li 灰.Ash** · *Drawing Lines, Creating Sides…*         
+**Rachel Yan Ting Li** · *灰.Ash*         
          
-A reflection of the world we are living in today, drawing from personal experiences — especially living in a world where there is a mixture of cultures, backgrounds, beliefs and opinions.<br>How do we achieve common ground in the 'Us and Them' world?         
+Drawing Lines, Creating Sides…<br>A reflection of the world we are living in today, drawing from personal experiences — especially living in a world where there is a mixture of cultures, backgrounds, beliefs and opinions.<br>How do we achieve common ground in the 'Us and Them' world?         
          
 Choreographer: Rachel Yan Ting Li · Performers: Rachel Yan Ting Li, Hannike Martens         
          
