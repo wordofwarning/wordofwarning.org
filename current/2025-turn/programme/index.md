@@ -75,7 +75,7 @@ Content Warning: please click [here](/warnings).
          
 Performers: Bee Minett, Kyrah Decoteau, Lindsey Brocklebank, Sammy Allen, Rowena Gander, Sarah Jane Lockwood · Collaborators: Cara Marsh, Jasmin Saulo         
          
-Maelstrom is founded and led by Lindsey Brocklebank — an artist, academic, and researcher; current performers and collaborators are artists, choreographers, performers, actors, and educators who work with Lindsey at Shockout or are based in institutions across the North West. This group of females are unapologetic.         
+Maelstrom is founded and led by Lindsey Brocklebank — an artist, academic, and researcher; the current performers and collaborators are artists, choreographers, performers, actors, and educators who work with Lindsey at Shockout or are based in institutions across the North West.<br>This group of females are unapologetic.         
          
 Insta <a href="https://instagram.com/maelstromtheatre" target="_blank">@maelstromtheatre</a> <a href="https://instagram.com/lindseybrockleb" target="_blank">@lindseybrockleb</a>         
 <hr>         
