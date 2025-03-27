@@ -17,9 +17,9 @@ season: "Fabíola Santana 29|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/santana/#entry) · [access](/current/2025/santana/#access) · [artists](/current/2025/santana/#artists) · [credits](/current/2025/santana/#credits) · [websites](/current/2025/santana/#websites)</span>&ensp; <small>Updated 26 March 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/santana/#entry) · [access](/current/2025/santana/#access) · [artists](/current/2025/santana/#artists) · [credits](/current/2025/santana/#credits) · [websites](/current/2025/santana/#websites)</span>&ensp; <small>Updated 27 March 2025</small>        
            
-*Presented by* Word of Warning at Company Chameleon        
+*Presented by* Word of Warning *at* Company Chameleon        
          
 A movement ritual of care and resilience — to nurture our connections to the elders and ancestors.          
 
@@ -45,7 +45,7 @@ Age Advisory: 14+ (parent/guardian/carer discretion).
          
 Content Warnings: please click [here](/warnings).         
         
-Features: a contemporary dance performance work with varied content; occurs in Studio 1 on the ground floor, a studio space with raked seating.         
+Features: a contemporary dance performance work with varied content, including spoken English and Portuguese language?; occurs in Studio 1 on the ground floor, a studio space with raked seating.         
          
 Queries: please contact Word of Warning via <mailto:info@habmcr.com>        
          
@@ -57,7 +57,7 @@ Jessica Morgado is an emerging Cambridge-based dance artist. As a dancer and int
 WilL Dickie is an interdisciplinary artist whose works have received nationwide support and toured to over forty UK venues including: Southbank Centre, The Place (London), and In Between Time (Bristol). His recent show *White Sun* had its international premiere in Boorloo—Perth (Australia) as part of The Blue Room Theatre’s Summer Nights during Fringe World Festival 2025. *White Sun* was first developed in Works Ahead [2020](/archive/2020-spring/dickie)-[2022](/archive/2022-worksahead/dickie), commissioned by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>. His collaborative credits include choreography for Hanna Tuulikki; movement director at Regents Park Open Air Theatre; director of *A Home for Grief* by Fabíola Santana.         
          
 #### Credits         
-Created & performed by: Fabíola Santana<br>Performed by & devised with: Jessica Morgado<br>Directed by: WilL Dickie<br>Producer: Emmy Lahouel<br>*NB* as the project develops, other creatives will join the team and be listed.         
+Created & performed by: Fabíola Santana<br>Performed & devised with: Jessica Morgado<br>Directed by: WilL Dickie<br>Producer: Emmy Lahouel         
          
 Recipient of the [Turn](/hab/turn) Prize 2024 supported by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>. Made possible by an Artist Residency with Metal Liverpool. In partnership with Unity Theatre (Liverpool), Tyn-y-Parc Studio (Wales), and Liverpool Hope University. Supported using public funding by the National Lottery through Arts Council England.          
          
