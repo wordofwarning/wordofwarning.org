@@ -96,7 +96,7 @@ Drawing Lines, Creating Sides…<br>A reflection of the world we are living in t
          
 Choreographer: Rachel Yan Ting Li · Performers: Rachel Yan Ting Li, Hannike Martens         
          
-Born & raised in Hong Kong, Rachel is a freelance dance artist in contemporary/ballet, a choreographer, and educator. She trained at Rambert School of Ballet & Contemporary Dance and toured nationally with Emergence Dance Company. Career highlights include Let's All Dance Ballet Company touring *The Nutcracker* and an original contemporary opera with Company Carpi: *Disunited Jukebox*.         
+Born & raised in Hong Kong, Rachel is a freelance dance artist, choreographer, and educator. Through her choreographic works, she translates her understanding of the world into dynamic and captivating movement. She trained at Rambert School of Ballet & Contemporary Dance and toured nationally with Emergence Dance Company. As a versatile artist, her career highlights include Let's All Dance Ballet Company touring *The Nutcracker* and touring an original contemporary opera with Company Carpi: *Disunited Jukebox*.           
          
 Insta <a href="https://instagram.com/rachelyantingli.dance" target="_blank">@rachelyantingli.dance</a>         
 <hr>         
