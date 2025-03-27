@@ -17,7 +17,7 @@ season: "Turn 4|4|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/programme/#artists) · [notes](/current/2025-turn/programme/#notes) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 26 March 2025</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/programme/#artists) · [notes](/current/2025-turn/programme/#notes) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 27 March 2025 11:15</small>         
         
 *[Turn 2025 on 4 April](/current/2025-turn), presented by* Word of Warning *+* Contact         
          
@@ -73,7 +73,9 @@ A darkly comedic dance-theatre work exploring the shifting visibility of women i
          
 Content Warning: please click [here](/warnings).         
          
-Collaborator & director: Lindsey Brocklebank · Collaborators & performers: Cara Marsh, Debbie Milner, Jasmin Saulo, Katherine Hollinson, Kyrah Decoteau, Rowena Gander, Sammy Allen, Sarah Jane Lockwood, Sophie Ellison, The D Twins         
+Performers: Bee Minett, Kyrah Decoteau, Lindsey Brocklebank, Sammy Allen, Rowena Gander, Sarah Jane Lockwood · Collaborators: Cara Marsh, Jasmin Saulo         
+         
+Maelstrom is founded and led by Lindsey Brocklebank — an artist, academic, and researcher; current performers and collaborators are artists, choreographers, performers, actors, and educators who work with Lindsey at Shockout or are based in institutions across the North West. This group of females are unapologetic.         
          
 Insta <a href="https://instagram.com/maelstromtheatre" target="_blank">@maelstromtheatre</a> <a href="https://instagram.com/lindseybrockleb" target="_blank">@lindseybrockleb</a>         
 <hr>         
