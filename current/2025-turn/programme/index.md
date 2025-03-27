@@ -73,7 +73,7 @@ A darkly comedic dance-theatre work exploring the shifting visibility of women i
          
 Content Warning: please click [here](/warnings).         
          
-Performers: Bee Minett, Kyrah Decoteau, Lindsey Brocklebank, Sammy Allen, Rowena Gander, Sarah Jane Lockwood · Collaborators: Cara Marsh, Jasmin Saulo         
+Performers: Bee Minett, Kyrah Decoteau, Lindsey Brocklebank, Rowena Gander, Sammy Allen, Sarah Jane Lockwood · Collaborators: Cara Marsh, Jasmin Saulo         
          
 Maelstrom is founded and led by Lindsey Brocklebank — an artist, academic, and researcher; the current performers and collaborators are artists, choreographers, performers, actors, and educators who work with Lindsey at Shockout or are based in institutions across the North West.<br>This group of females are unapologetic.         
          
