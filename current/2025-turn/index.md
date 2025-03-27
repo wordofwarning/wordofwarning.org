@@ -17,13 +17,13 @@ season: "Turn 4|4|2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 26 March 2025</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 27 March 2025</small>        
         
 *Presented by* Word of Warning *+* Contact        
         
 Our annual whirlwind of new North West dance returns to <a href="https://contactmcr.com" target="_blank">Contact</a>, taking over the building with eight short dance-works on **Friday 4 April from 7pm**.         
          
-Look at some of our [artists' images](/galleries/2025-turnpre/) and also see [images from 2024's edition](/galleries/2024-turn).         
+Look at some of our [artists' images](/galleries/2025-turnpre/) and read their [programme notes](/current/2025-turn/programme).         
          
 Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn&nbsp;2025 transport you into a frenzy of dance…         
          
@@ -49,11 +49,11 @@ Features: eight contemporary dance performance works with varied content; works 
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### About         
-Our annual platform for North West dancers and dance-makers, [Turn](/hab/turn) is an opportunity to engage with new dance in Greater Manchester every spring. This twelfth edition will present eight short dance-works over a single night throughout <a href="https://contactmcr.com" target="_blank">Contact</a>'s building and its multiple spaces.<br>*NB* Friday’s public platform is followed by an artist day for participants only.         
+Our annual platform for North West dancers and dance-makers, [Turn](/hab/turn) is an opportunity to engage with new dance in Greater Manchester every spring.<br>This twelfth edition will present eight short dance-works over a single night throughout <a href="https://contactmcr.com" target="_blank">Contact</a>'s building and its multiple spaces.<br>*NB* Friday’s public platform is followed by an artist day for participants only.         
         
 Greater Manchester's open call dance platform, [Turn](/hab/turn) aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— and is open to <a href="http://en.wikipedia.org/wiki/North_West_England" target="_blank">North West England</a> dancers and dance-makers, aged 18+         
         
-First held at greenroom in spring 2009, [Turn](/hab/turn) moved to <a href="https://contactmcr.com" target="_blank">Contact</a> in 2012 (with a 2018-22 hiatus) and also popped-up at <a href="https://companychameleon.com" target="_blank">Company Chameleon Studios</a> in [2024](/archive/2024-turn)…          
+First held at greenroom in spring 2009, [Turn](/hab/turn) moved to <a href="https://contactmcr.com" target="_blank">Contact</a> in 2012 (with a 2018-22 hiatus) and also popped-up at <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> in [2024](/archive/2024-turn)…          
 
 Get a feel for [Turn](/hab/turn) with [2024's programme](/archive/2024-turn) and [gallery of images](/galleries/2024-turn); [2023's programme](/archive/2023-turn) and [gallery](/galleries/2023-turn); [2017's programme](/archive/2017-turn) and [gallery](/galleries/2017-turn).         
         
