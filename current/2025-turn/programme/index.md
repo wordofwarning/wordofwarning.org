@@ -53,7 +53,7 @@ This piece explores JP's emotional journey, navigating the cultural differences 
          
 Content Warning: please click [here](/warnings).         
          
-Sound designer & performer: Lalsangliana Zadeng · Quotes from *Home* by David A Thornton        
+Sound designer & performer: Lalsangliana Zadeng · Includes quotes from *Home* by David A Thornton        
          
 JP was born & raised in Hong Kong and graduated from the Hong Kong Academy for Performing Arts in 2021, majoring in contemporary dance. In 2022 she moved to the UK to continue her journey as an international dance artist. Currently Manchester-based, she is working as an apprentice company dancer with Company Chameleon. JP trains in various dance styles and movement practices, including contemporary dance, ballet, popping, acrobatics, hip-hop, jazz, and yoga. She is passionate about blending these styles, exploring interdisciplinary possibilities, and maximizing versatility in her work.         
          
