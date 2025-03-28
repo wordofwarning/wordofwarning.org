@@ -17,7 +17,7 @@ season: "Turn 4|4|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/programme/#artists) · [notes](/current/2025-turn/programme/#notes) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 27 March 2025</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/programme/#artists) · [notes](/current/2025-turn/programme/#notes) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 28 March 2025</small>         
         
 [Turn 2025](/current/2025-turn) *on* 4 April *presented by* Word of Warning *+* Contact         
          
@@ -52,6 +52,8 @@ Emmy (she/her) is an interdisciplinary artist and organiser working nationally a
 This piece explores JP's emotional journey, navigating the cultural differences and her personal struggles after moving from Hong Kong to the UK.<br>The choreographer and performer questions the complexity of adaptation and the gap between how we feel and what we actually express, revealing our fragilities and vulnerabilities.         
          
 Content Warning: please click [here](/warnings).         
+         
+Sound designer & performer: Lalsangliana Zadeng · Quotes from *Home* by David A Thornton        
          
 JP was born & raised in Hong Kong and graduated from the Hong Kong Academy for Performing Arts in 2021, majoring in contemporary dance. In 2022 she moved to the UK to continue her journey as an international dance artist. Currently Manchester-based, she is working as an apprentice company dancer with Company Chameleon. JP trains in various dance styles and movement practices, including contemporary dance, ballet, popping, acrobatics, hip-hop, jazz, and yoga. She is passionate about blending these styles, exploring interdisciplinary possibilities, and maximizing versatility in her work.         
          
