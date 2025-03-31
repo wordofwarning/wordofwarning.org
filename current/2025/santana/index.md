@@ -17,7 +17,7 @@ season: "Fabíola Santana 29|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/santana/#entry) · [access](/current/2025/santana/#access) · [artists](/current/2025/santana/#artists) · [credits](/current/2025/santana/#credits) · [websites](/current/2025/santana/#websites)</span>&ensp; <small>Updated 27 March 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/santana/#entry) · [access](/current/2025/santana/#access) · [artists](/current/2025/santana/#artists) · [credits](/current/2025/santana/#credits) · [websites](/current/2025/santana/#websites)</span>&ensp; <small>Updated 31 March 2025</small>        
            
 *Presented by* Word of Warning *at* Company Chameleon        
          
@@ -32,7 +32,7 @@ This performance draws upon a phase of R&D that focused on weaving personal stor
 #### Entry          
 Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
          
-Tickets: now available <a href="https://eventbrite.com/e" target="_blank">online via EventBrite</a>.        
+Tickets: now available <a href="https://www.eventbrite.com/e/1306671131529" target="_blank">online via Eventbrite</a>.        
          
 Time: Thursday 29 May 2025, 7.30pm (doors open 7pm; performance ends *about* 8.30pm; after an interval there will be an optional postshow Q&A).         
              
