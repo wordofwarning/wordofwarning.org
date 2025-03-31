@@ -17,7 +17,7 @@ season: "Turn 4|4|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/programme/#artists) · [notes](/current/2025-turn/programme/#notes) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 28 March 2025</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/programme/#artists) · [notes](/current/2025-turn/programme/#notes) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 31 March 2025</small>         
         
 [Turn 2025](/current/2025-turn) *on* 4 April *presented by* Word of Warning *+* Contact         
          
@@ -57,7 +57,7 @@ Sound designer & performer: Lalsangliana Zadeng · Includes quotes from *Home* b
          
 JP was born & raised in Hong Kong and graduated from the Hong Kong Academy for Performing Arts in 2021, majoring in contemporary dance. In 2022 she moved to the UK to continue her journey as an international dance artist. Currently Manchester-based, she is working as an apprentice company dancer with Company Chameleon. JP trains in various dance styles and movement practices, including contemporary dance, ballet, popping, acrobatics, hip-hop, jazz, and yoga. She is passionate about blending these styles, exploring interdisciplinary possibilities, and maximizing versatility in her work.         
          
-Insta <a href="https://instagram.com/jp.hon" target="_blank">@jp.hon</a>         
+Insta <a href="https://instagram.com/jp.hon" target="_blank">@jp.hon</a> <a href="https://instagram.com/sangliana_zadeng" target="_blank">@sangliana_zadeng</a>         
 <hr>         
 **KUDERA + MPEARSONATER** · *What Have We Become?*         
          
