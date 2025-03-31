@@ -79,7 +79,7 @@ Performers: Bee Minett, Kyrah Decoteau, Lindsey Brocklebank, Rowena Gander, Samm
          
 Maelstrom is founded and led by Lindsey Brocklebank — an artist, academic, and researcher; the current performers and collaborators are artists, choreographers, performers, actors, and educators who work with Lindsey at Shockout or are based in institutions across the North West.<br>This group of females are unapologetic.         
          
-Insta <a href="https://instagram.com/maelstromtheatre" target="_blank">@maelstromtheatre</a> <a href="https://instagram.com/lindseybrockleb" target="_blank">@lindseybrockleb</a>         
+Insta <a href="https://instagram.com/maelstromtheatre" target="_blank">@maelstromtheatre</a> <a href="https://instagram.com/bee_minett" target="_blank">@bee_minett</a> <a href="https://instagram.com/kyrahdecoteau" target="_blank">@kyrahdecoteau</a> <a href="https://instagram.com/lindseybrockleb" target="_blank">@lindseybrockleb</a> <a href="https://instagram.com/rowenagander" target="_blank">@rowenagander</a> <a href="https://instagram.com/samanthamarieallen" target="_blank">@samanthamarieallen</a> <a href="https://instagram.com/sarahjane_dance" target="_blank">@sarahjane_dance</a>       
 <hr>         
 **Néa Synergy** · *Io Sono Quien Soy*         
          
