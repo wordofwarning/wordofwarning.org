@@ -16,7 +16,7 @@ season: "Turn by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 27 March 2025</small>        
+<small>Updated 1 April 2025</small>        
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester every spring.    
              
@@ -28,7 +28,7 @@ Greater Manchester's open call dance platform, Turn aims to be:<br>— a public 
          
 † *<a href="http://en.wikipedia.org/wiki/North_West_England" target="_blank">North West England</a> consists of Cheshire, Cumbria, Greater Manchester, Lancashire, Merseyside; it does NOT include Yorkshire or Derbyshire*.        
         
-[Turn 2025](/current/2025-turn) will be:<br>— a **single evening of public performances on Friday 4 April**;<br>— followed by an **artist day on Saturday 5 April**, incorporating a workshop or masterclasses and feedback sessions;<br>— and participating artists will be expected to attend **both** days.         
+[Turn 2025](/current/2025-turn) will be:<br>— a **single evening of public performances on Friday 4 April**;<br>— followed by an **artist day on Saturday 5 April**, incorporating a workshop or masterclasses and feedback sessions, facilitated by <a href="https://katyecoe.org" target="_blank">Katye Coe</a>;<br>— and participating artists will be expected to attend **both** days.         
          
 [Turn 2025](/current/2025-turn) presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England.        
          
