@@ -17,7 +17,7 @@ season: "Fabíola Santana 29|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/santana/#entry) · [access](/current/2025/santana/#access) · [artists](/current/2025/santana/#artists) · [credits](/current/2025/santana/#credits) · [websites](/current/2025/santana/#websites)</span>&ensp; <small>Updated 31 March 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/santana/#entry) · [access](/current/2025/santana/#access) · [artists](/current/2025/santana/#artists) · [credits](/current/2025/santana/#credits) · [websites](/current/2025/santana/#websites)</span>&ensp; <small>Updated 1 April 2025</small>        
            
 *Presented by* Word of Warning *at* Company Chameleon        
          
@@ -59,11 +59,11 @@ WilL Dickie is an interdisciplinary artist whose works have received nationwide 
 #### Credits         
 Created & performed by: Fabíola Santana<br>Performed by & devised with: Jessica Morgado<br>Directed by: WilL Dickie<br>Producer: Emmy Lahouel         
          
-Recipient of the [Turn](/hab/turn) Prize 2024 supported by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>. Made possible by an Artist Residency with Metal Liverpool. In partnership with Unity Theatre (Liverpool), Tyn-y-Parc Studio (Wales), and Liverpool Hope University. Supported using public funding by the National Lottery through Arts Council England.          
+Recipient of the [Turn](/hab/turn) Prize 2024 supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> using public funding by Arts Council England, and by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>. Made possible by an Artist Residency with Metal Liverpool. In partnership with Unity Theatre (Liverpool), Tyn-y-Parc Studio (Wales), and Liverpool Hope University. Supported using public funding by the National Lottery through Arts Council England.          
          
 Image: [Turn 2024](/archive/2024-turn) at Company Chameleon by Tamsin Drury         
          
 #### Websites        
-<a href="https://fabiolasantana.co.uk" target="_blank">fabiolasantana.co.uk</a> · <a href="https://willdickie.co.uk" target="_blank">willdickie.co.uk</a> · Insta <a href="https://instagram.com/fbs.santana" target="_blank">@fbs.santana</a> <a href="https://instagram.com/jessicamorgado_" target="_blank">@jessicamorgado_</a> <a href="https://instagram.com/will_dickie_" target="_blank">@will_dickie_</a>          
+<a href="https://fabiolasantana.co.uk" target="_blank">fabiolasantana.co.uk</a> · <a href="https://willdickie.co.uk" target="_blank">willdickie.co.uk</a><br>Insta <a href="https://instagram.com/fbs.santana" target="_blank">@fbs.santana</a> <a href="https://instagram.com/jessicamorgado_" target="_blank">@jessicamorgado_</a> <a href="https://instagram.com/will_dickie_" target="_blank">@will_dickie_</a> <a href="https://instagram.com/emmylahouel" target="_blank">@emmylahouel</a>        
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2025/santana)</span></small>
