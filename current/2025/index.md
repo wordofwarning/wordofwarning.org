@@ -8,7 +8,7 @@ artist_size: 1
 season: "Performance Programme 2025"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 20 March 2025</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 2 April 2025</small>        
          
 *2025 began with a new [Social Experiment](/socialexperiment) and [Kellie Colbert](/current/2025/colbert)'s dedication of love at <a href="https://contactmcr.com" target="_blank">Contact</a> — Spring continues with [Turn](/current/2025-turn)'s whirlwind of dance, a second [Social Experiment](/socialexperiment), and more events to come in May…*         
          
@@ -16,7 +16,7 @@ Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Wee
         
 Visit our <a href="https://youtube.com/@warnmcr" target="_blank">YouTube channel</a> to watch archived livestreams and more.<br>Find further information for both audiences and artists on our [News](/news) page.         
         
-Discover what happened last year in our [2024 archive](/archive/2024) — and please <a href="https://www.illuminate-data.org.uk/survey/qvprln" target="_blank">tell us your thoughts</a> if you come to any of our events or watch a livestream.        
+Discover what happened last year in our [2024 archive](/archive/2024) — and <a href="https://www.illuminate-data.org.uk/survey/gnwmcx" target="_blank">please tell us your thoughts</a> if you come to any of our events or watch a livestream.        
 <small><span style='font-variant: small-caps'>[back to top](/current/2025)</span></small>        
         
 #### About         
