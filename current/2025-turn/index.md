@@ -5,7 +5,7 @@ rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Turn 2025" # the name of the artist or company
-show: "A night of new North West dance." # the name of the show
+show: "A night of new dance." # the name of the show
 artist_size: 1
 show_size: 4
 header_image:  
@@ -17,7 +17,7 @@ season: "Turn 4|4|2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 1 April 2025</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [programme](/current/2025-turn/programme) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 3 April 2025</small>        
         
 *Presented by* Word of Warning *+* Contact        
         
@@ -58,7 +58,7 @@ First held at greenroom in spring 2009, [Turn](/hab/turn) moved to <a href="http
 Get a feel for [Turn](/hab/turn) with [2024's programme](/archive/2024-turn) and [gallery of images](/galleries/2024-turn); [2023's programme](/archive/2023-turn) and [gallery](/galleries/2023-turn); [2017's programme](/archive/2017-turn) and [gallery](/galleries/2017-turn).         
         
 #### Credits                 
-[Turn](/hab/turn) 2025 produced by [hÅb](/hab); supported by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England.         
+[Turn](/hab/turn) 2025 produced by [hÅb](/hab); supported by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England. With thanks to Katye Coe.         
          
 Image: UMAMI-i!-MOVEMENT by Joel Chester Fildes           
         
