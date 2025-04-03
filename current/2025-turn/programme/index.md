@@ -19,7 +19,9 @@ season: "Turn 4|4|2025, Programme"
 ---
 <span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [programme](/current/2025-turn/programme) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 3 April 2025</small>         
         
-*Presented by* Word of Warning *+* Contact *on* 4 April<br>[Turn 2025](/current/2025-turn) is a night of new dance featuring eight short works in three spaces at <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>, see [artists' images](/galleries/2025-turnpre/)). Our twelfth annual platform for North West dancers and dance-makers starts at 7pm in space 1…         
+*Presented by* Word of Warning *+* Contact         
+         
+[Turn 2025](/current/2025-turn) is a night of new dance at <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>, featuring eight short works in three spaces on Friday 4 April. Look at some of our [artists' images](/galleries/2025-turnpre/)). Our twelfth annual platform for North West dancers and dance-makers starts at 7pm in space 1…                 
 <hr>         
 **Dais Leach** · *Echoes of the Isle*         
           
