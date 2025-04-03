@@ -17,9 +17,9 @@ season: "Turn 4|4|2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [programme](/current/2025-turn/programme) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 3 April 2025</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [programme](/current/2025-turn/programme) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 3 April 2025, 10.10pm</small>        
         
-*Presented by* Word of Warning *+* Contact        
+*Presented by* Word of Warning *+* Contact<br>***NB* this event is sold-out**.        
         
 Our annual whirlwind of new North West dance returns to <a href="https://contactmcr.com" target="_blank">Contact</a>, taking over the building with eight short dance-works on **Friday 4 April from 7pm**.         
          
@@ -33,7 +33,7 @@ Dais&nbsp;Leach&nbsp;· Emmy&nbsp;Lahouel (Meraki&nbsp;Collective)&nbsp;· JP&nb
 #### Entry         
 Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
          
-Tickets: now available <a href="https://contactmcr.com/book/instance/358758" target="_blank">online via Contact</a>.         
+Tickets: were available <a href="https://contactmcr.com/book/instance/358758" target="_blank">online via Contact</a>; now sold-out.         
          
 Time: Friday 4 April 2025, 7pm (with interval/pauses, ends *about* 10pm).         
              
