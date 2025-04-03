@@ -22,18 +22,18 @@ season: "Haphazard by hÅb"
          
 Playful, quirky, engaging, and sometimes plain daft: this is Live Art for kids and their adults, adults and *their* adults — anyone looking for a different day out!            
 
-Haphazard 2025 is our eighth free Live Art takeover of <a href="https://www.z-arts.org/events/haphazard-2025" target="_blank">Z-arts</a>, presenting *about eight to ten* works on **Saturday 2 August, 1pm-4pm** — turn up at any time, come and go as you please… and expect the unexpected!        
+Haphazard 2025 will be our eighth free Live Art takeover of <a href="https://www.z-arts.org/events/haphazard-2025" target="_blank">Z-arts</a>, presenting *about eight to ten* works on **Saturday 2 August from 1pm to 4pm** — turn up at any time, come and go as you please… and expect the unexpected!        
          
 Get a feel for it with [2024's programme](/archive/2024-haphazard/programme) and [gallery of images](/galleries/2024-haphazard) — also watch our <a href="https://youtu.be/sgw9SjPdCw0" target="_blank">short video</a> of what's gone before.         
          
 #### Haphazard 2025 Call for Proposals Opens Tuesday 8 April        
 Artists will soon be invited to submit proposals for inclusion in this event:<br>this is not Live Art for children, but Live Art for ALL AGES — and we mean from tot to timeworn, 8 months to 80 years — so work should have appeal for adults and children alike (even if the kids need to explain it to the adults!)          
           
-**If you'd like to hear more about what we think works for Haphazard, <a href="" target="_blank">join us for a short lunchtime Zoom call</a> at midday on Wednesday 16 April**        
+**If you'd like to hear more about what we think works for Haphazard, <a href="" target="_blank">join us for a short lunchtime Zoom</a> at midday on Wednesday 16 April.**        
           
 From experience, what works best are big surreal images, interesting repetitive movement, and nothing too text heavy. We have access to a number of spaces within Z-arts, and work immediately outside the building may also be possible. Durational, intervention, and 'come and go' work seems to work the best — we're not really looking for sit-down theatre shows.        
         
-**For details and to apply please visit <a href="https://haphazard.posthaven.com" target="_blank">haphazard.posthaven.com</a><br>Call Opens: Tuesday 8 April 2025<br>Online Info Session: Wednesday 16 April, 12noon<br>Proposal Deadline: Friday 30 May 2025, 5pm**         
+**For details and to apply please visit <a href="https://haphazard.posthaven.com" target="_blank">haphazard.posthaven.com</a><br>Call Opens: Tuesday 8 April 2025, by Noon<br>Online Info Session: Wednesday 16 April, Noon<br>Proposal Deadline: Friday 30 May 2025, 5pm**         
           
 Haphazard 2025 presented by [Word of Warning](/) + <a href="https://z-arts.org" target="_blank">Z-arts</a>; produced by [hÅb](/hab) with <a href="https://z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England, and by Manchester City Council and Greater Manchester Combined Authority.         
           
