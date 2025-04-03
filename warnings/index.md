@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 1 April 2025<small>        
+<small>Updated 3 April 2025<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>(Please click [here](/archive/warnings) for *past* events and *archived* livestreams on our YouTube channel.)         
          
@@ -25,3 +25,6 @@ Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Conten
          
 ##### [22 May. Contact | Social Experiment](/socialexperiment)          
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed here *about* a week before.
+
+##### [29 May. Company Chameleon | *We're Here Because They Were* by Fabíola Santana](/current/2025/santana)          
+Age Advisory: 14+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: deals with social construct of race and colonial histories/troubles; references body shaming.
