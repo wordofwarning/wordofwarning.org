@@ -25,7 +25,7 @@ Playful, quirky, engaging, and sometimes plain daft: this is Live Art for kids a
 #### Haphazard 2025 Call for Proposals Opens on Tuesday 8 April        
 Artists <a href="https://haphazard.posthaven.com" target="_blank">will soon be invited to submit proposals</a> for inclusion in this event:<br>this is not Live Art for children, but Live Art for ALL AGES — and we mean from tot to timeworn, 8 months to 80 years — so work should have appeal for adults and children alike (even if the kids need to explain it to the adults!)          
           
-From experience, what works best are big surreal images, interesting repetitive movement, and nothing too text heavy. We have access to a number of spaces within Z-arts, and work immediately outside the building may also be possible. Durational, intervention, and 'come and go' work seems to work the best — we're not really looking for sit-down theatre shows.        
+From experience, what works best are big surreal images, interesting repetitive movement, and nothing too text heavy. We have access to a number of spaces within Z-arts, and work immediately outside the building may also be possible. Durational, intervention, and 'come and go' work seems to work the best — we're NOT really looking for sit-down theatre shows.        
           
 If you'd like to hear more about what we think works for Haphazard, we will have a short zoom session on Wednesday 16 April at noon. <a href="" target="_blank">Sign up here</a>.        
         
@@ -36,7 +36,7 @@ Haphazard 2025 presented by [Word of Warning](/) + <a href="https://z-arts.org" 
 Enquiries: <mailto:haphazard@habmcr.org> · <a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a>         
          
 #### Past Editions        
-Taking over <a href="https://z-arts.org" target="_blank">Z-arts</a> irregularly since 2013, Haphazard has previously seen ping pong balls & squeaky toys; a singing fish & a sax-playing bear; paintball golf & human quoits; a giant periscope, a golden toilet, a giant wookie, clowd-dancing and a tiny bee-shaped world…         
+Taking over <a href="https://z-arts.org" target="_blank">Z-arts</a> irregularly since 2013, Haphazard has previously seen ping pong balls & squeaky toys; a singing fish & a sax-playing bear; paintball golf & human quoits; a giant periscope, a giant wookie​, a golden toilet​, clow​n-dancing​, and a tiny bee-shaped world…         
 
 [Haphazard 2024](/archive/2024-haphazard) was our seventh free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2024" target="_blank">Z-arts</a>, presenting nine works on **Saturday 27 July 2024** — you could turn up at any time, come and go as you please… and expect the unexpected!         
          
