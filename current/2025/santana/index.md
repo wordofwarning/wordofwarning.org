@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Fabíola Santana" # the name of the artist or company
-show: "We’re Here Because They Were" # the name of the show
+show: "We're Here Because They Were" # the name of the show
 artist_size: 1
 show_size: 4
 header_image: "header_fabiola.jpg"
@@ -17,7 +17,7 @@ season: "Fabíola Santana 29|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/santana/#entry) · [access](/current/2025/santana/#access) · [artists](/current/2025/santana/#artists) · [credits](/current/2025/santana/#credits) · [websites](/current/2025/santana/#websites)</span>&ensp; <small>Updated 1 April 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/santana/#entry) · [access](/current/2025/santana/#access) · [artists](/current/2025/santana/#artists) · [credits](/current/2025/santana/#credits) · [websites](/current/2025/santana/#websites)</span>&ensp; <small>Updated 3 April 2025</small>        
            
 *Presented by* Word of Warning *at* Company Chameleon        
          
@@ -39,6 +39,8 @@ Time: Thursday 29 May 2025, 7.30pm (doors open 7pm; performance ends *about* 8.3
 Location: <a href="https://companychameleon.com/contact" target="_blank">Company Chameleon</a>, 6 Barrass St, Openshaw, Manchester M11 1PU.         
          
 Travel: <a href="https://nationalrail.co.uk/stations/gorton" target="_blank">Gorton station</a> is a 3-minute walk and we suggest arriving on the 18:57 northern train from Piccadilly; alternatively you could take the <a href="https://tfgm.com/travel-updates/live-departures/bus/219-manchester-city-centre" target="_blank">219 bus</a>.        
+
+*NB*: you can also see *WHBTW (work in progress)* at <a href="https://unitytheatreliverpool.co.uk/whats-on/were-here-because-they-were" target="_blank">Unity Theatre Liverpool</a> on Wednesday 23 April, 7.30pm.         
         
 #### Access         
 Age Advisory: 14+ (parent/guardian/carer discretion).        
@@ -59,7 +61,7 @@ WilL Dickie is an interdisciplinary artist whose works have received nationwide 
 #### Credits         
 Created & performed by: Fabíola Santana<br>Performed by & devised with: Jessica Morgado<br>Directed by: WilL Dickie<br>Producer: Emmy Lahouel         
          
-Recipient of the [Turn](/hab/turn) Prize 2024 supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> using public funding by Arts Council England, and by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>. Made possible by an Artist Residency with Metal Liverpool. In partnership with Unity Theatre (Liverpool), Tyn-y-Parc Studio (Wales), and Liverpool Hope University. Supported using public funding by the National Lottery through Arts Council England.          
+Recipient of the [Turn](/hab/turn) Prize 2024 supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> using public funding by Arts Council England, and by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>. Made possible by an Artist Residency with Metal Liverpool. In partnership with <a href="https://unitytheatreliverpool.co.uk/whats-on/were-here-because-they-were" target="_blank">Unity Theatre Liverpool</a>, Tyn-y-Parc Studio (Wales), and Liverpool Hope University. Supported using public funding by the National Lottery through Arts Council England.          
          
 Image: [Turn 2024](/archive/2024-turn) at Company Chameleon by Tamsin Drury         
          
