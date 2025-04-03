@@ -40,7 +40,7 @@ Location: <a href="https://companychameleon.com/contact" target="_blank">Company
          
 Travel: <a href="https://nationalrail.co.uk/stations/gorton" target="_blank">Gorton station</a> is a 3-minute walk and we suggest arriving on the 18:57 northern train from Piccadilly; alternatively you could take the <a href="https://tfgm.com/travel-updates/live-departures/bus/219-manchester-city-centre" target="_blank">219 bus</a>.        
 
-*NB*: you can also see *WHBTW (work in progress)* at <a href="https://unitytheatreliverpool.co.uk/whats-on/were-here-because-they-were" target="_blank">Unity Theatre Liverpool</a> on Wednesday 23 April, 7.30pm.         
+*NB* you can also see *WHBTW* at <a href="https://unitytheatreliverpool.co.uk/whats-on/were-here-because-they-were" target="_blank">Unity Theatre Liverpool</a> on Wed 23 Apr, 7.30pm         
         
 #### Access         
 Age Advisory: 14+ (parent/guardian/carer discretion).        
