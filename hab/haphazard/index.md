@@ -24,7 +24,7 @@ Playful, quirky, engaging, and sometimes plain daft: this is Live Art for kids a
 
 Haphazard 2025 will be our eighth free Live Art takeover of <a href="https://www.z-arts.org/events/haphazard-2025" target="_blank">Z-arts</a>, presenting *about eight to ten* works on **Saturday 2 August from 1pm to 4pm** — turn up at any time, come and go as you please… and expect the unexpected!        
          
-Get a feel for it with [2024's programme](/archive/2024-haphazard/programme) and [gallery of images](/galleries/2024-haphazard) — also watch our <a href="https://youtu.be/sgw9SjPdCw0" target="_blank">short video</a> with some of what's gone before.         
+Get a feel for it with [2024's programme](/archive/2024-haphazard/programme) and [gallery of images](/galleries/2024-haphazard) — also watch our <a href="https://youtu.be/sgw9SjPdCw0" target="_blank">short video</a> to see some of what's gone before.         
          
 #### Haphazard 2025 Call for Proposals Opens Tuesday 8 April        
 Artists will soon be invited to submit proposals for inclusion in this event:<br>this is not Live Art for children, but Live Art for ALL AGES — and we mean from tot to timeworn, 8 months to 80 years — so work should have appeal for adults and children alike (even if the kids need to explain it to the adults!)          
