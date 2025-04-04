@@ -24,7 +24,7 @@ Playful, quirky, engaging, and sometimes plain daft: this is Live Art for kids a
 
 Haphazard 2025 will be our eighth free Live Art takeover of <a href="https://www.z-arts.org/events/haphazard-2025" target="_blank">Z-arts</a>, presenting *about eight to ten* works on **Saturday 2 August from 1pm to 4pm** — turn up at any time, come and go as you please… and expect the unexpected!        
          
-Get a feel for it with [2024's programme](/archive/2024-haphazard/programme) and [gallery of images](/galleries/2024-haphazard) — also watch our <a href="https://youtu.be/sgw9SjPdCw0" target="_blank">short video</a> of what's gone before.         
+Get a feel for it with [2024's programme](/archive/2024-haphazard/programme) and [gallery of images](/galleries/2024-haphazard) — also watch our <a href="https://youtu.be/sgw9SjPdCw0" target="_blank">short video</a> with some of what's gone before.         
          
 #### Haphazard 2025 Call for Proposals Opens Tuesday 8 April        
 Artists will soon be invited to submit proposals for inclusion in this event:<br>this is not Live Art for children, but Live Art for ALL AGES — and we mean from tot to timeworn, 8 months to 80 years — so work should have appeal for adults and children alike (even if the kids need to explain it to the adults!)          
@@ -40,7 +40,7 @@ Haphazard 2025 presented by [Word of Warning](/) + <a href="https://z-arts.org" 
 Enquiries: <mailto:haphazard@habmcr.org> · <a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a>         
          
 #### Past Editions        
-Taking over <a href="https://z-arts.org" target="_blank">Z-arts</a> irregularly since 2013, Haphazard has previously seen ping pong balls & squeaky toys; a singing fish & a sax-playing bear; paintball golf & human quoits; a giant periscope, a lonely wookie, a golden toilet, clown-dancing, and a tiny bee-shaped world… Watch this <a href="https://youtu.be/sgw9SjPdCw0" target="_blank">short video</a> of what's gone before.        
+Taking over <a href="https://z-arts.org" target="_blank">Z-arts</a> irregularly since 2013, Haphazard has previously seen ping pong balls & squeaky toys; a singing fish & a sax-playing bear; paintball golf & human quoits; a giant periscope, a lonely wookie, a golden toilet, clown-dancing, and a tiny bee-shaped world… <a href="https://youtu.be/sgw9SjPdCw0" target="_blank">Watch some of what's gone before</a>.        
          
 Get a feel for it by looking at image galleries from [2024](/galleries/2024-haphazard), [2023](/galleries/2023-haphazard), [2019](/galleries/2019-haphazard), [2017](/galleries/2017-haphazard), [2016](/galleries/2016-haphazard), [2015](/galleries/2015-haphazard), [2013](/galleries//2013-haphazard) — and programmes from [2024](/archive/2024-haphazard/programme), [2023](/archive/2023-haphazard/programme), [2019](/archive/2019-haphazard/programme), [2017](/archive/2017-haphazard/programme), [2016](/archive/2016-haphazard/programme), [2015](/archive/2015-haphazard), [2013](/archive/2013-spring/haphazard).         
          
