@@ -17,7 +17,7 @@ season: "Turn 4|4|2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [programme](/current/2025-turn/programme) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 3 April 2025, 10.10pm</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [programme](/current/2025-turn/programme) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 4 April 2025</small>        
         
 *Presented by* Word of Warning *+* Contact<br>***NB* this event is sold-out**.        
         
@@ -42,7 +42,7 @@ Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Co
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
          
-Content Warnings: some works *may* involve interaction and/or participation; specific warnings listed [here](/warnings).         
+Content Warnings: use of haze in many works; some works *may* involve interaction and/or participation; specific warnings listed [here](/warnings).         
         
 Features: eight contemporary dance performance works with varied content; works will occur in three spaces and will vary in format.
          
