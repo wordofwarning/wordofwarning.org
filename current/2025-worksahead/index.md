@@ -28,31 +28,30 @@ Adèle Le Gallez · Martha Pailing
 #### Entry         
 Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
          
-Tickets: will be available online from mid-April <a href="https://contactmcr.com" target="_blank">via Contact</a>.         
+Tickets: will be available <a href="https://contactmcr.com" target="_blank">online via Contact</a> from 16 April.         
          
 Times: Thursday 15 & Friday 16 May 2025, 7.30pm (a double bill with an interval, ends *about* 9pm).         
              
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
-
-#### Access         
+        
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
          
 Content Warnings: works *may* involve interaction and/or participation; specific warnings will be listed [here](/warnings) in early May.         
         
-Features: two contemporary performance works with varied content; works will vary in format.
+Features: two contemporary solo performance works with varied content; works will vary in format.
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### About           
-Each year since 2012, [Works Ahead](/hab/worksahead) has invited artists to dig deeper into work presented at [Emergency](/hab/emergency) — usually presenting a show the following May.   
+Each year since 2012, [Works Ahead](/hab/worksahead) has invited artists to dig deeper into work presented at the previous year’s [Emergency](/hab/emergency) platform (or other [Word of Warning](/) events). This year's thirteenth edition is a double bill from two solo artists: Adèle Le Gallez and Martha Pailing.         
         
-[Works Ahead](/hab/worksahead) is a project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011; since 2012 it has offered over 35 small, supported, work-in-development commissions for artists.         
+A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011, over the past fourteen years [Works Ahead](/hab/worksahead) has offered almost 40 small, supported, work-in-development commissions for artists — often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.         
          
 #### Credits         
 [Works Ahead](/hab/worksahead) 2025 produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.<br>Project Mentor: Peader Kirk        
          
 #### Websites          
-<a href="http://worksahead.org" target="_blank">WorksAhead.org</a><br>&nbsp;Ash Cox — <a href="https://ashtronomy.co.uk" target="_blank">ashtronomy.co.uk</a> · Insta <a href="https://instagram.com/ash_tronomy_" target="_blank">@ash_tronomy_</a> · X <a href="https://twitter.com/ash_tronomy_" target="_blank">@ash_tronomy_</a><br>&nbsp;chris brown — <a href="https://chrisbtheatre.com" target="_blank">chrisbtheatre.com</a> · Insta <a href="https://instagram.com/christopher.p.brown" target="_blank">@christopher.p.brown</a> · X <a href="https://twitter.com/ChristopherActB" target="_blank">@ChristopherActB</a>        
+<a href="http://worksahead.org" target="_blank">WorksAhead.org</a><br>Adèle Le Gallez — Insta <a href="https://instagram.com/adele.legallez" target="_blank">@adele.legallez</a><br>Martha Pailing — <a href="https://www.marthapailing.com" target="_blank">marthapailing.com</a> · Insta <a href="marthapailing" target="_blank">@marthapailing</a>        
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2025-worksahead)</span></small>
