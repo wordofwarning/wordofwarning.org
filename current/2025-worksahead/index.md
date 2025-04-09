@@ -46,7 +46,7 @@ Pay What You Decide: £15/£10/£5/£0.
          
 Tickets: will be available <a href="https://contactmcr.com" target="_blank">online via Contact</a> in mid-April.         
          
-Times: Thursday 15 May and Friday 16 May 2025, 7.30pm each night (a double bill with an interval, ends *about* 9pm).         
+Times: Thursday 15 and Friday 16 May 2025, 7.30pm each night (a double bill with an interval, ends *about* 9pm).         
              
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
         
