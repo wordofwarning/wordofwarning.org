@@ -21,17 +21,17 @@ season: "Works Ahead by hÅb"
         
 **Works Ahead** is a project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011.          
          
-Since 2012 it has offered 36 small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) (and sometimes elsewhere). Support includes mentoring and a public showing of the next stage of the work — often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.         
+Since 2012 it has offered 36 small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) or other platform event. Support includes mentoring and a public showing of the next stage of the work — often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.         
          
 Our thirteenth edition, **[Works Ahead 2025](/hab/worksahead/#2025)** takes place at <a href="https://contactmcr.com" target="_blank">Contact</a> on **15+16 May at 7.30pm**, with a double bill from Adèle Le Gallez and Martha Pailing.         
          
 <span style='font-variant: small-caps'>jump → [2012](/hab/worksahead/#2012) · [13](/hab/worksahead/#2013) · [14](/hab/worksahead/#2014) · [15](/hab/worksahead/#2015) · [16](/hab/worksahead/#2016) · [17](/hab/worksahead/#2017) · [18](/hab/worksahead/#2018) · [19](/hab/worksahead/#2019) · [20](/hab/worksahead/#2020) · [21](/hab/worksahead/#2021) · [22](/hab/worksahead/#2022) · [23](/hab/worksahead/#2023) · [24](/hab/worksahead/#2024) · [25](/hab/worksahead/#2025)</span>        
 <hr>        
 #### 2012         
-The [first Works Ahead](/archive/2012-woah) was a new partnership at Contact (as a Re:Con co-production), featuring a night of performances in May from Gareth Cutter, Lowri Evans + Krissi Musiol, and an evening of interactions in June from Angel Club (north), Fallen Wall Arts, Julieann O'Malley + Small Acts… See [images](/galleries/2012-woah).        
+The [first Works Ahead](/archive/2012-woah) was a new partnership at Contact (as a Re:Con co-production), featuring a night of performances in May from Gareth Cutter, Lowri Evans, Krissi Musiol, and an evening of interactions in June from Angel Club (north), Fallen Wall Arts, Julieann O'Malley, Small Acts… See [images](/galleries/2012-woah).        
         
 #### 2013                 
-Our [second Works Ahead](/archive/2013-worksahead) took place at Contact in May, with a night of work that moved you from 70/30 Split, Kitty Graham, Joseph Lau + Ellen Turner (*winner of the 2012 [Turn](/hab/turn) Prize*), and a night of work that spoke to you from Lena Simic, Façade Theatre + Wayne Steven Jackson… See [images](/galleries/2013-woah).        
+Our [second Works Ahead](/archive/2013-worksahead) took place at Contact in May, with a night of work that moved you from 70/30 Split, Kitty Graham, Joseph Lau, and Ellen Turner (*winner of the [Turn](/hab/turn) Prize 2012*), and a night of work that spoke to you from Lena Simic, Façade Theatre, Wayne Steven Jackson… See [images](/galleries/2013-woah).        
        
 #### 2014         
 Our [third Works Ahead](/archive/2014-worksahead) took place at Contact in May, with a triple bill of work that delved into the mindset of the performer from Lindsay Bennett, Paul O'Donnell, and SheepKnuckle… See [images](/galleries/2014-woah).        
