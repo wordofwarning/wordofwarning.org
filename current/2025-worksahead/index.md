@@ -37,7 +37,7 @@ Adèle is a writer, sound-artist, and performer.
 *"Touch is the first sensory system to develop in the foetus."*         
           
 What does it mean to be held, to be nurtured, to be known?<br>Part-story, part-discovery, part-surrender: an investigation into touch and regression.<br>
-Martha's performance unpacks the strange contradiction of being a fully grown adult who is still learning how to 'thrive'.         
+This work unpacks the strange contradiction of being a fully grown adult who is still learning how to 'thrive'.         
         
 Martha is a northern-born spoken word & performance artist.        
          
