@@ -21,7 +21,7 @@ season: "Works Ahead 15+16|5|2025, 7.30pm"
         
 *Presented by* Word of Warning *+* Contact         
 
-Our annual sampler evening of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> with a double bill of new works-in-development from artists Adèle Le Gallez + Martha Pailing…        
+Our annual sampler evening of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> with a double bill of new works-in-development from Adèle Le Gallez + Martha Pailing…        
          
 #### Works        
 ***UNTITLED* by Adèle Le Gallez**         
@@ -60,9 +60,9 @@ Features: two solo contemporary performance works with varied content; works wil
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### About           
-Each year since 2012, [Works Ahead](/hab/worksahead) has invited artists to dig deeper into work presented at the previous year’s [Emergency](/hab/emergency) (and sometimes elsewhere).          
+Each year since 2012, [Works Ahead](/hab/worksahead) has invited artists to dig deeper into work presented at the previous year’s [Emergency](/hab/emergency) (or sometimes elsewhere).          
         
-A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011, over the past fourteen years [Works Ahead](/hab/worksahead) has offered 36 small, supported, work-in-development commissions for artists — often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.         
+A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011, [Works Ahead](/hab/worksahead) has offered 36 small, supported, work-in-development commissions for artists over the past fourteen years — often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.         
          
 #### Credits         
 [Works Ahead](/hab/worksahead) 2025 produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.<br>Project Mentor: Peader Kirk        
