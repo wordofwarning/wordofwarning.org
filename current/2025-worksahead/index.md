@@ -17,7 +17,7 @@ season: "Works Ahead 15+16|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [works](/current/2025-worksahead/#works) · [entry](/current/2025-worksahead/#entry) · [access](/current/2025-worksahead/#access) · [about](/current/2025-worksahead/#about) · [credits](/current/2025-worksahead/#credits)</span>&ensp; <small>Updated 9 April 2025 17:10</small>        
+<span style='font-variant: small-caps'>→ [works](/current/2025-worksahead/#works) · [entry](/current/2025-worksahead/#entry) · [access](/current/2025-worksahead/#access) · [about](/current/2025-worksahead/#about) · [credits](/current/2025-worksahead/#credits)</span>&ensp; <small>Updated 9 April 2025 17:30</small>        
         
 *Presented by* Word of Warning *+* Contact         
 
@@ -64,7 +64,7 @@ Each year since 2012, [Works Ahead](/hab/worksahead) has invited artists to dig 
 A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011, [Works Ahead](/hab/worksahead) has offered 36 small, supported, work-in-development commissions for artists over the past fourteen years — often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.         
          
 #### Credits         
-[Works Ahead](/hab/worksahead) 2025 produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.<br>Project Mentor: Peader Kirk        
+[Works Ahead](/hab/worksahead) 2025 commissioned by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Project Mentor: Peader Kirk        
          
 #### Websites          
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a><br>Adèle Le Gallez — <a href="https://adelegallez.wixsite.com/portfolio" target="_blank">adelegallez.wixsite.com</a> · Insta <a href="https://instagram.com/adele.legallez" target="_blank">@adele.legallez</a><br>Martha Pailing — <a href="https://www.marthapailing.com" target="_blank">marthapailing.com</a> · Insta <a href="https://instagram.com/marthapailing" target="_blank">@marthapailing</a>        
