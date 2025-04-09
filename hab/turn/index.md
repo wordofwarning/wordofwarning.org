@@ -16,11 +16,11 @@ season: "Turn by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 1 April 2025</small>        
+<small>Updated 9 April 2025</small>        
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester every spring.    
              
-The twelfth edition, [Turn 2025](/current/2025-turn) takes place at <a href="https://contactmcr.com" target="_blank">Contact</a> on **Friday 4 April from 7pm** — presenting eight short dance-works across three spaces; look at some of our [artists' images](/galleries/2025-turnpre/) and read their [programme notes](/current/2025-turn/programme).        
+The twelfth edition, [Turn 2025](/current/2025-turn) took place at <a href="https://contactmcr.com" target="_blank">Contact</a> on **Friday 4 April from 7pm** — presenting eight short dance-works across three spaces; look at some of our [artists' images](/galleries/2025-turnpre/) and read their [programme notes](/current/2025-turn/programme).        
          
 Get a feel for it with [2024's programme](/archive/2024-turn) and [gallery of images](/galleries/2024-turn); [2023's programme](/archive/2023-turn) and [gallery](/galleries/2023-turn); [2017's programme](/archive/2017-turn) and [gallery](/galleries/2017-turn).         
         
@@ -28,7 +28,7 @@ Greater Manchester's open call dance platform, Turn aims to be:<br>— a public 
          
 † *<a href="http://en.wikipedia.org/wiki/North_West_England" target="_blank">North West England</a> consists of Cheshire, Cumbria, Greater Manchester, Lancashire, Merseyside; it does NOT include Yorkshire or Derbyshire*.        
         
-[Turn 2025](/current/2025-turn) will be:<br>— a **single evening of public performances on Friday 4 April**;<br>— followed by an **artist day on Saturday 5 April**, incorporating a workshop or masterclasses and feedback sessions, facilitated by <a href="https://katyecoe.org" target="_blank">Katye Coe</a>;<br>— and participating artists will be expected to attend **both** days.         
+[Turn 2025](/current/2025-turn) is:<br>— a **single evening of public performances on Friday 4 April**;<br>— followed by an **artist day on Saturday 5 April**, incorporating a workshop or masterclasses and feedback sessions, facilitated by <a href="https://katyecoe.org" target="_blank">Katye Coe</a>;<br>— and participating artists will be expected to attend **both** days.         
          
 [Turn 2025](/current/2025-turn) presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England.        
          
@@ -49,9 +49,9 @@ North West England† dancers and dance-makers (*aged 18+*) <a href="http://turn
 #### Turn Prize 2024         
 On 30 April 2024 we were delighted to announce **Fabíola Santana** and **Louiseanne Wong** as the recipients of the Turn Prize [2024](/archive/2024-turn).<br>The Turn Prize is a commission for the development of work shown at Turn by North West-based dance-makers.         
          
-**Fabíola Santana** performs *We're Here Because They Were (work in progress)* at <a href="https://unitytheatreliverpool.co.uk/whats-on/were-here-because-they-were" target="_blank">Unity Theatre Liverpool</a> on 23 April at 7.30pm — with a May performance in Manchester to be announced.         
+**Fabíola Santana** shows <a href="https://unitytheatreliverpool.co.uk/whats-on/were-here-because-they-were" target="_blank">a work in progress of *We're Here Because They Were* at Unity Theatre Liverpool</a> on Wednesday 23 April 2025 at 7.30pm — and then shows [*WHBTW* at Company Chameleon, Manchester](/current/2025/santana) on Thursday 29 May 2025, 7.30pm.         
          
-**Louiseanne Wong** performed *I Am. Am I (preview)* in the <a href="https://thelowry.com/pQW3zUL/horizons-collective-showcase" target="_blank">Horizons Collective Showcase</a> at <a href="https://thelowry.com/whats-on/336//horizons-collective-showcase" target="_blank">Lowry</a> on 12 February.         
+**Louiseanne Wong** showed *I Am. Am I (preview)* in the <a href="https://thelowry.com/pQW3zUL/horizons-collective-showcase" target="_blank">Horizons Collective Showcase</a> at <a href="https://thelowry.com/whats-on/336//horizons-collective-showcase" target="_blank">Lowry</a> on 12 February.         
          
 Turn Prize 2024 supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> using public funding by Arts Council England, and by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>.          
          
