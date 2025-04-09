@@ -17,7 +17,7 @@ season: "Works Ahead 15+16|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [works](/current/2025-worksahead/#works) · [entry](/current/2025-worksahead/#entry) · [access](/current/2025-worksahead/#access) · [about](/current/2025-worksahead/#about) · [credits](/current/2025-worksahead/#credits)</span>&ensp; <small>Updated 9 April 2025 21:18</small>        
+<span style='font-variant: small-caps'>→ [works](/current/2025-worksahead/#works) · [entry](/current/2025-worksahead/#entry) · [access](/current/2025-worksahead/#access) · [about](/current/2025-worksahead/#about) · [credits](/current/2025-worksahead/#credits)</span>&ensp; <small>Updated 9 April 2025 21:20</small>        
         
 *Presented by* Word of Warning *+* Contact         
 
@@ -26,7 +26,7 @@ Our annual sampler evening of new performance returns to <a href="https://contac
 #### Works        
 ***Landings* by Adèle Le Gallez**         
          
-A missing church on Orkney. An only child in Oldham. A relief for those in free-fall, and a retreat for those in crisis.         
+A missing church on Orkney.<br>An only child in Oldham.<br>A relief for those in free-fall, and a retreat for those in crisis.         
          
 Live sound experiment, demonstration, and storytelling.          
          
