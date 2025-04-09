@@ -17,7 +17,7 @@ season: "Works Ahead 15+16|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [works](/current/2025-worksahead/#works) · [entry](/current/2025-worksahead/#entry) · [access](/current/2025-worksahead/#access) · [about](/current/2025-worksahead/#about) · [credits](/current/2025-worksahead/#credits)</span>&ensp; <small>Updated 9 April 2025 17:45</small>        
+<span style='font-variant: small-caps'>→ [works](/current/2025-worksahead/#works) · [entry](/current/2025-worksahead/#entry) · [access](/current/2025-worksahead/#access) · [about](/current/2025-worksahead/#about) · [credits](/current/2025-worksahead/#credits)</span>&ensp; <small>Updated 9 April 2025 21:18</small>        
         
 *Presented by* Word of Warning *+* Contact         
 
@@ -26,9 +26,9 @@ Our annual sampler evening of new performance returns to <a href="https://contac
 #### Works        
 ***Landings* by Adèle Le Gallez**         
          
-In 1942, a church appears in the centre of Orkney — lifting, ringing loud above all the other noises, not taken in for more than a few seconds, red-hot by the feel.         
+A missing church on Orkney. An only child in Oldham. A relief for those in free-fall, and a retreat for those in crisis.         
          
-The same year, 528.9 miles away in Oldham — a woman who had always had faith in tangible things found a new kind of faith: settling, quiet voices chanting.         
+Live sound experiment, demonstration, and storytelling.          
          
 Adèle is a writer, sound-artist, and performer.         
          
