@@ -1070,6 +1070,27 @@
 	.t2025 .splash
 		{background:url(../images/header_turn25.jpg) center center}
 
+/* Works Ahead 2025 berry & A+M side-by-side
+------------------------------------------------------*/
+		
+	.w2025,
+	.w2025 .artist, 
+	.w2025 .show,
+	.w2025 .season
+		{background:#723; color:#fff;}
+
+	.w2025 a,
+	.w2025 a:visited,
+	.w2025 a:hover
+		{color:#fff;}
+	.w2025 nav a:hover,
+	.w2025 article a:hover,
+	.w2025 footer a:hover
+		{background: #fff; color: #723;}
+
+	.w2025 .splash
+		{background:url(../images/header_woah25a.jpg) center center}
+
 /* 2025 Programme blue DNA
 ------------------------------------------------------*/
 
