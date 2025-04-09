@@ -21,7 +21,7 @@ season: "Works Ahead 15+16|5|2025, 7.30pm"
         
 *Presented by* Word of Warning *+* Contact         
 
-Our annual sampler evening of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> with a double bill of new works-in-development from Adèle Le Gallez + Martha Pailing…        
+Our annual sampler evening of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> on **Thursday 15 and Friday 16 May at 7.30pm** with a double bill of new works-in-development from Adèle Le Gallez and Martha Pailing…        
          
 #### Works        
 ***UNTITLED* by Adèle Le Gallez**         
@@ -39,14 +39,14 @@ Adèle is a writer, sound-artist, and performer.
 What does it mean to be held, to be nurtured, to be known?<br>Part-story, part-discovery, part-surrender: an investigation into touch and regression.<br>
 This work unpacks the strange contradiction of being a fully grown adult who is still learning how to 'thrive'.         
         
-Martha is a northern-born spoken word & performance artist.        
+Martha is a northern-born spoken word and performance artist.        
          
 #### Entry         
 Pay What You Decide: £15/£10/£5/£0.        
          
 Tickets: will be available <a href="https://contactmcr.com" target="_blank">online via Contact</a> in mid-April.         
          
-Times: Thursday 15 & Friday 16 May 2025, 7.30pm each night (a double bill with an interval, ends *about* 9pm).         
+Times: Thursday 15 May and Friday 16 May 2025, 7.30pm each night (a double bill with an interval, ends *about* 9pm).         
              
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
         
@@ -60,7 +60,7 @@ Features: two solo contemporary performance works with varied content; works wil
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### About           
-Each year since 2012, [Works Ahead](/hab/worksahead) has invited artists to dig deeper into work presented at the previous year’s [Emergency](/hab/emergency) (or sometimes elsewhere).          
+Each year since 2012, [Works Ahead](/hab/worksahead) has invited artists to dig deeper into work presented at the previous year’s [Emergency](/hab/emergency) or other platform event.          
         
 A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011, [Works Ahead](/hab/worksahead) has offered 36 small, supported, work-in-development commissions for artists over the past fourteen years — often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.         
          
