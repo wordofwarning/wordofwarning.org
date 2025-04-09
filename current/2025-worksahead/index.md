@@ -17,7 +17,7 @@ season: "Works Ahead 15+16|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [works](/current/2025-worksahead/#works) · [entry](/current/2025-worksahead/#entry) · [access](/current/2025-worksahead/#access) · [about](/current/2025-worksahead/#about) · [credits](/current/2025-worksahead/#credits)</span>&ensp; <small>Updated 9 April 2025</small>        
+<span style='font-variant: small-caps'>→ [works](/current/2025-worksahead/#works) · [entry](/current/2025-worksahead/#entry) · [access](/current/2025-worksahead/#access) · [about](/current/2025-worksahead/#about) · [credits](/current/2025-worksahead/#credits)</span>&ensp; <small>Updated 9 April 2025 17:10</small>        
         
 *Presented by* Word of Warning *+* Contact         
 
@@ -34,10 +34,9 @@ Adèle is a writer, sound-artist, and performer.
          
 ***Failure To Thrive* by Martha Pailing**         
           
-*"Touch is the first sensory system to develop in the foetus."*         
-          
-What does it mean to be held, to be nurtured, to be known?<br>Part-story, part-discovery, part-surrender: an investigation into touch and regression.<br>
-This work unpacks the strange contradiction of being a fully grown adult who is still learning how to 'thrive'.         
+*"Touch is the first sensory system to develop in the foetus."*<br>What does it mean to be held, to be nurtured, to be known?         
+         
+Part-story, part-discovery, part-surrender: an investigation into touch and regression.<br>This work unpacks the strange contradiction of being a fully grown adult who is still learning how to 'thrive'.         
         
 Martha is a northern-born spoken word and performance artist.        
          
