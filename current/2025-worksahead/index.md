@@ -21,14 +21,14 @@ season: "Works Ahead 15+16|5|2025, 7.30pm"
         
 *Presented by* Word of Warning *+* Contact         
 
-Our annual sampler evening of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> with a double bill of new solo works-in-development from from artists Adèle Le Gallez and Martha Pailing…        
+Our annual sampler evening of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> with a double bill of new works-in-development from artists Adèle Le Gallez + Martha Pailing…        
          
 #### Works        
 ***UNTITLED* by Adèle Le Gallez**         
          
 In 1942, a church appears in the centre of Orkney: lifting, ringing loud above all the other noises, not taken in for more than a few seconds, red-hot by the feel.         
          
-The same year, 528.9 miles away in Oldham: a woman who had always had faith in the tangible things in life found a new kind of faith. That one decision she made, changed the trajectory of her family tree…         
+The same year, 528.9 miles away in Oldham: a woman who had always had faith in the tangible things in life found a new kind of faith.<br>That one decision she made, changed the trajectory of her family tree…         
          
 Adèle is a writer, sound-artist, and performer.         
          
@@ -46,7 +46,7 @@ Pay What You Decide: £15/£10/£5/£0.
          
 Tickets: will be available <a href="https://contactmcr.com" target="_blank">online via Contact</a> in mid-April.         
          
-Times: Thursday 15 & Friday 16 May 2025, 7.30pm (a double bill with an interval, ends *about* 9pm).         
+Times: Thursday 15 & Friday 16 May 2025, 7.30pm each night (a double bill with an interval, ends *about* 9pm).         
              
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
         
@@ -60,7 +60,7 @@ Features: two solo contemporary performance works with varied content; works wil
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### About           
-Each year since 2012, [Works Ahead](/hab/worksahead) has invited artists to dig deeper into work presented at the previous year’s [Emergency](/hab/emergency) (or occasionally at other events).          
+Each year since 2012, [Works Ahead](/hab/worksahead) has invited artists to dig deeper into work presented at the previous year’s [Emergency](/hab/emergency) (and sometimes elsewhere).          
         
 A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011, over the past fourteen years [Works Ahead](/hab/worksahead) has offered 36 small, supported, work-in-development commissions for artists — often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.         
          
@@ -68,6 +68,6 @@ A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/h
 [Works Ahead](/hab/worksahead) 2025 produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.<br>Project Mentor: Peader Kirk        
          
 #### Websites          
-<a href="http://worksahead.org" target="_blank">WorksAhead.org</a><br>Adèle Le Gallez — Insta <a href="https://instagram.com/adele.legallez" target="_blank">@adele.legallez</a><br>Martha Pailing — <a href="https://www.marthapailing.com" target="_blank">marthapailing.com</a> · Insta <a href="https://instagram.com/marthapailing" target="_blank">@marthapailing</a>        
+<a href="http://worksahead.org" target="_blank">WorksAhead.org</a><br>Adèle Le Gallez — <a href="https://adelegallez.wixsite.com/portfolio" target="_blank">adelegallez.wixsite.com</a> · Insta <a href="https://instagram.com/adele.legallez" target="_blank">@adele.legallez</a><br>Martha Pailing — <a href="https://www.marthapailing.com" target="_blank">marthapailing.com</a> · Insta <a href="https://instagram.com/marthapailing" target="_blank">@marthapailing</a>        
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2025-worksahead)</span></small>
