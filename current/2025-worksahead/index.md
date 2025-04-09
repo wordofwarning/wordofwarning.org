@@ -17,14 +17,30 @@ season: "Works Ahead 15+16|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-worksahead/#artists) · [entry](/current/2025-worksahead/#entry) · [access](/current/2025-worksahead/#access) · [about](/current/2025-worksahead/#about) · [credits](/current/2025-worksahead/#credits)</span>&ensp; <small>Updated 9 April 2025</small>        
+<span style='font-variant: small-caps'>→ [the works](/current/2025-worksahead/#works) · [entry](/current/2025-worksahead/#entry) · [access](/current/2025-worksahead/#access) · [about](/current/2025-worksahead/#about) · [credits](/current/2025-worksahead/#credits)</span>&ensp; <small>Updated 9 April 2025</small>        
         
 *Presented by* Word of Warning *+* Contact         
-             
+
+Our annual sampler evening of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> with a double bill of new solo works-in-development from from artists Adèle Le Gallez and Martha Pailing…        
          
-#### Artists        
-Adèle Le Gallez · Martha Pailing        
-                 
+#### Works        
+***UNTITLED* by Adèle Le Gallez**         
+         
+In 1942, a church appears in the centre of Orkney: lifting, ringing loud above all the other noises, not taken in for more than a few seconds, red-hot by the feel.         
+         
+The same year, 528.9 miles away in Oldham: a woman who had always had faith in the tangible things in life found a new kind of faith. That one decision she made, changed the trajectory of her family tree…         
+         
+Adèle is a writer, sound-artist, and performer.         
+         
+***Failure To Thrive* by Martha Pailing**         
+          
+*"Touch is the first sensory system to develop in the foetus."*         
+          
+What does it mean to be held, to be nurtured, to be known?<br>Part-story, part-discovery, part-surrender: an investigation into touch and regression.<br>
+Martha's performance unpacks the strange contradiction of being a fully grown adult who is still learning how to 'thrive'.         
+        
+Martha is a northern-born spoken word & performance artist.        
+         
 #### Entry         
 Pay What You Decide: £15/£10/£5/£0.        
          
@@ -44,7 +60,7 @@ Features: two solo contemporary performance works with varied content; works wil
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### About           
-Each year since 2012, [Works Ahead](/hab/worksahead) has invited artists to dig deeper into work presented at the previous year’s [Emergency](/hab/emergency) (or occasionally at other events). Our thirteenth edition is a double bill from artists Adèle Le Gallez and Martha Pailing.         
+Each year since 2012, [Works Ahead](/hab/worksahead) has invited artists to dig deeper into work presented at the previous year’s [Emergency](/hab/emergency) (or occasionally at other events).          
         
 A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011, over the past fourteen years [Works Ahead](/hab/worksahead) has offered 36 small, supported, work-in-development commissions for artists — often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.         
          
