@@ -26,7 +26,7 @@ season: "Works Ahead 15+16|5|2025, 7.30pm"
 Adèle Le Gallez · Martha Pailing        
                  
 #### Entry         
-Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
+Pay What You Decide: £15/£10/£5/£0.        
          
 Tickets: will be available <a href="https://contactmcr.com" target="_blank">online via Contact</a> in mid-April.         
          
@@ -39,12 +39,12 @@ Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).
          
 Content Warnings: works *may* involve interaction and/or participation; specific warnings will be listed [here](/warnings) in May.         
         
-Features: two contemporary solo performance works with varied content; works will vary in format.
+Features: two solo contemporary performance works with varied content; works will vary in format.
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### About           
-Each year since 2012, [Works Ahead](/hab/worksahead) has invited artists to dig deeper into work presented at the previous year’s [Emergency](/hab/emergency) (or occasionally at other events). Our thirteenth edition is a double bill from two solo artists: Adèle Le Gallez and Martha Pailing.         
+Each year since 2012, [Works Ahead](/hab/worksahead) has invited artists to dig deeper into work presented at the previous year’s [Emergency](/hab/emergency) (or occasionally at other events). Our thirteenth edition is a double bill from artists Adèle Le Gallez and Martha Pailing.         
         
 A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011, over the past fourteen years [Works Ahead](/hab/worksahead) has offered 36 small, supported, work-in-development commissions for artists — often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.         
          
