@@ -20,8 +20,8 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 <hr>         
 #### 2025         
          
-##### 15+16 May. Contact | Works Ahead 2025          
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: use of haze in many works; works *may* involve interaction and/or participation; specific warnings will be listed in May.         
+##### [15+16 May. Contact | Works Ahead 2025](/hab/worksahead/#2025)          
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: works *may* involve interaction and/or participation; specific warnings will be listed in May.         
          
 ##### [22 May. Contact | Social Experiment](/socialexperiment)          
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed here *about* a week before.
