@@ -17,18 +17,18 @@ season: "Works Ahead 15+16|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [the works](/current/2025-worksahead/#works) · [entry](/current/2025-worksahead/#entry) · [access](/current/2025-worksahead/#access) · [about](/current/2025-worksahead/#about) · [credits](/current/2025-worksahead/#credits)</span>&ensp; <small>Updated 9 April 2025</small>        
+<span style='font-variant: small-caps'>→ [works](/current/2025-worksahead/#works) · [entry](/current/2025-worksahead/#entry) · [access](/current/2025-worksahead/#access) · [about](/current/2025-worksahead/#about) · [credits](/current/2025-worksahead/#credits)</span>&ensp; <small>Updated 9 April 2025</small>        
         
 *Presented by* Word of Warning *+* Contact         
 
 Our annual sampler evening of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> on **Thursday 15 and Friday 16 May at 7.30pm** with a double bill of new works-in-development from Adèle Le Gallez and Martha Pailing…        
          
 #### Works        
-***UNTITLED* by Adèle Le Gallez**         
+***Landings* by Adèle Le Gallez**         
          
-In 1942, a church appears in the centre of Orkney: lifting, ringing loud above all the other noises, not taken in for more than a few seconds, red-hot by the feel.         
+In 1942, a church appears in the centre of Orkney — lifting, ringing loud above all the other noises, not taken in for more than a few seconds, red-hot by the feel.         
          
-The same year, 528.9 miles away in Oldham: a woman who had always had faith in the tangible things in life found a new kind of faith.<br>That one decision she made, changed the trajectory of her family tree…         
+The same year, 528.9 miles away in Oldham — a woman who had always had faith in tangible things found a new kind of faith: settling, quiet voices chanting.         
          
 Adèle is a writer, sound-artist, and performer.         
          
