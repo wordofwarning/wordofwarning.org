@@ -43,7 +43,7 @@ Martha is a spoken word and performance artist.
 #### Entry         
 Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
          
-Tickets: available online via Contact for <a href="https://contactmcr.com/book/instance/359758" target="_blank">Thursday</a>/<a href="https://contactmcr.com/book/instance/359759" target="_blank">Friday</a>.         
+Tickets: now available online via Contact for <a href="https://contactmcr.com/book/instance/359758" target="_blank">Thursday</a>/<a href="https://contactmcr.com/book/instance/359759" target="_blank">Friday</a>.         
          
 Times: Thursday 15 and Friday 16 May 2025, 7.30pm each night (a double bill with an interval, ends *about* 9pm).         
              
