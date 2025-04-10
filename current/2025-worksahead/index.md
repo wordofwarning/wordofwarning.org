@@ -17,11 +17,11 @@ season: "Works Ahead 15+16|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [works](/current/2025-worksahead/#works) · [entry](/current/2025-worksahead/#entry) · [access](/current/2025-worksahead/#access) · [about](/current/2025-worksahead/#about) · [credits](/current/2025-worksahead/#credits)</span>&ensp; <small>Updated 9 April 2025 21:20</small>        
+<span style='font-variant: small-caps'>→ [works](/current/2025-worksahead/#works) · [entry](/current/2025-worksahead/#entry) · [access](/current/2025-worksahead/#access) · [about](/current/2025-worksahead/#about) · [credits](/current/2025-worksahead/#credits)</span>&ensp; <small>Updated 10 April 2025</small>        
         
 *Presented by* Word of Warning *+* Contact         
 
-Our annual sampler evening of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> on **Thursday 15 and Friday 16 May at 7.30pm** with a double bill of new works-in-development from Adèle Le Gallez and Martha Pailing…        
+Our annual sampler evening of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2025-2" target="_blank">Contact</a> on **Thursday 15 and Friday 16 May at 7.30pm** with a double bill of new works-in-development from Adèle Le Gallez and Martha Pailing…        
          
 #### Works        
 ***Landings* by Adèle Le Gallez**         
@@ -41,9 +41,9 @@ Part-story, part-discovery, part-surrender: an investigation into touch and regr
 Martha is a spoken word and performance artist.        
          
 #### Entry         
-Pay What You Decide: £15/£10/£5/£0.        
+Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
          
-Tickets: will be available <a href="https://contactmcr.com" target="_blank">online via Contact</a> in mid-April.         
+Tickets: available online via Contact for <a href="https://contactmcr.com/book/instance/359758" target="_blank">Thursday</a>/<a href="https://contactmcr.com/book/instance/359759" target="_blank">Friday</a>.         
          
 Times: Thursday 15 and Friday 16 May 2025, 7.30pm each night (a double bill with an interval, ends *about* 9pm).         
              
