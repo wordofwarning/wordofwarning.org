@@ -8,7 +8,7 @@ artist_size: 1
 season: "Performance Programme 2025"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 10 April 2025</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 14 April 2025</small>        
          
 *2025 began with a new [Social Experiment](/socialexperiment), [Kellie Colbert](/current/2025/colbert)'s dedication of love, and [Turn](/current/2025-turn)'s whirlwind of dance — we continue in May with a pair of [Works Ahead](/current/2025-worksahead) at <a href="https://contactmcr.com" target="_blank">Contact</a>, our second [Social Experiment](/socialexperiment) at <a href="https://contactmcr.com" target="_blank">Contact</a>, and [Fabíola Santana](/current/2025/santana)'s movement ritual of care and resilience at <a href="https://companychameleon.com/contact" target="_blank">Company Chameleon</a>…*         
          
@@ -23,7 +23,7 @@ Discover what happened last year in our [2024 archive](/archive/2024) — and <a
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful, and the bizarre of new live performance — an attempt to keep alive the best of greenroom's 25-year legacy, and to also introduce new people to the possibilities of seeing live work in Manchester + beyond, including livestreams and more online…          
 >*If you haven’t attended one of these performance evenings yet, <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a> are you doing? Go and see the stimulating new work that's out there!*<br>&nbsp;— <a href="http://number9reviews.blogspot.com/2019/11/theatre-review-tom-cassani-i-promise.html" target="_blank">Number 9 Reviews on WTF Wednesdays (November 2019)</a>        
       
-We take live work very seriously — but we don't take ourselves seriously at all. Over the past dozen or so years we've shown funny, thought-provoking, and beautiful work by the likes of Ron Athey, Harry Clayton-Wright, ELOINA, Chanje Kunda, Stacy Makishi, Pinchbeck & Smith, Darren Pritchard, Proto-type Theater, Proud & Loud Arts, and Avital Raz (amongst others).         
+We take live work very seriously — but we don't take ourselves seriously at all. Over the past dozen or so years we've shown funny, thought-provoking, and beautiful work by the likes of Ron Athey, Harry Clayton-Wright, WilL Dickie, ELOINA, Chanje Kunda, Stacy Makishi, Kim Noble, Hetain Patel, Pinchbeck & Smith, Darren Pritchard, Proto-type Theater, Proud & Loud Arts, Avital Raz, and Two Destination Language (amongst others).         
 <small><span style='font-variant: small-caps'>[back to top](/current/2025)</span></small>         
          
 #### Audiences         
