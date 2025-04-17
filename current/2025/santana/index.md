@@ -66,6 +66,6 @@ Recipient of the [Turn](/hab/turn) Prize 2024 supported by <a href="https://danc
 Image: [Turn 2024](/archive/2024-turn) at Company Chameleon by Tamsin Drury         
          
 #### Websites        
-<a href="https://fabiolasantana.co.uk" target="_blank">fabiolasantana.co.uk</a> · <a href="https://willdickie.co.uk" target="_blank">willdickie.co.uk</a><br>Insta <a href="https://instagram.com/fbs.santana" target="_blank">@fbs.santana</a> <a href="https://instagram.com/jessicamorgado_" target="_blank">@jessicamorgado_</a> <a href="https://instagram.com/will_dickie_" target="_blank">@will_dickie_</a> <a href="https://instagram.com/emmylahouel" target="_blank">@emmylahouel</a>        
+<a href="https://fabiolasantana.co.uk" target="_blank">fabiolasantana.co.uk</a> · <a href="https://willdickie.co.uk" target="_blank">willdickie.co.uk</a><br>Insta <a href="https://instagram.com/fbs.santana" target="_blank">@fbs.santana</a> · <a href="https://instagram.com/jessicamorgado_" target="_blank">@jessicamorgado_</a> · <a href="https://instagram.com/will_dickie_" target="_blank">@will_dickie_</a>       
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2025/santana)</span></small>
