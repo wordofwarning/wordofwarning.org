@@ -33,7 +33,7 @@ Artists are <a href="https://haphazard.posthaven.com" target="_blank">now invite
           
 From experience, what works best are big surreal images, interesting repetitive movement, and nothing too text heavy. We have access to a number of spaces within Z-arts, and work immediately outside the building may also be possible. Durational, intervention, and 'come and go' work seems to work the best — we're not really looking for sit-down theatre shows.        
         
-**For details and to apply please visit <a href="https://haphazard.posthaven.com" target="_blank">haphazard.posthaven.com</a><br>Online Info Session: Wednesday 16 April 2025, Noon (<a href="https://habadvice.as.me/?appointmentType=74231566" target="_blank">sign-up</a>)<br>Proposal Deadline: Friday 30 May 2025, 5pm**         
+**For details and to apply please visit <a href="https://haphazard.posthaven.com" target="_blank">haphazard.posthaven.com</a><br>We held an Online Info Session on 16 April 2025 (<a href="https://youtu.be/2PncCQ7-YSs" target="_blank">watch recording</a>)<br>Proposal Deadline: Friday 30 May 2025, 5pm**         
           
 Haphazard 2025 presented by [Word of Warning](/) + <a href="https://z-arts.org" target="_blank">Z-arts</a>; produced by [hÅb](/hab) with <a href="https://z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England, and by Manchester City Council and Greater Manchester Combined Authority.         
           
