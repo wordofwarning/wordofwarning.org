@@ -17,7 +17,7 @@ season: "Fabíola Santana 29|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/santana/#entry) · [access](/current/2025/santana/#access) · [artists](/current/2025/santana/#artists) · [credits](/current/2025/santana/#credits) · [websites](/current/2025/santana/#websites)</span>&ensp; <small>Updated 17 April 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/santana/#entry) · [access](/current/2025/santana/#access) · [artists](/current/2025/santana/#artists) · [credits](/current/2025/santana/#credits) · [websites](/current/2025/santana/#websites)</span>&ensp; <small>Updated 22 April 2025</small>        
            
 *Presented by* Word of Warning *at* Company Chameleon        
          
@@ -59,13 +59,13 @@ Jessica Morgado is an emerging Cambridge-based dance artist. As a dancer and int
 WilL Dickie is an interdisciplinary artist whose works have received nationwide support and toured to over forty UK venues including: Southbank Centre, The Place (London), and In Between Time (Bristol). His recent show *White Sun* had its international premiere in Boorloo—Perth (Australia) as part of The Blue Room Theatre’s Summer Nights during Fringe World Festival 2025. *White Sun* was first developed in Works Ahead [2020](/archive/2020-spring/dickie)-[2022](/archive/2022-worksahead/dickie), commissioned by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>. His collaborative credits include choreography for Hanna Tuulikki; movement director at Regents Park Open Air Theatre; director of *A Home for Grief* by Fabíola Santana.         
          
 #### Credits         
-Created & performed by: Fabíola Santana<br>Performed by & devised with: Jessica Morgado<br>Directed by: WilL Dickie          
+Created & performed by Fabíola Santana<br>Devised & performed by Jessica Morgado<br>Directed by WilL Dickie<br>Dramaturgy by Kaite O'Reilly<br>Choreographed by WilL Dickie in collaboration with Fabíola Santana & Jessica Morgado<br>Sound design by WilL Dickie<br>Lighting design by Andrew Crofts<br>Costume design by Miss Lei-Lei<br>Creative therapy support & collaboration by Claire Beerjeraz         
          
 Recipient of the [Turn](/hab/turn) Prize 2024 supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> using public funding by Arts Council England, and by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>. Made possible by an Artist Residency with Metal Liverpool. In partnership with <a href="https://unitytheatreliverpool.co.uk/whats-on/were-here-because-they-were" target="_blank">Unity Theatre Liverpool</a>, Tyn-y-Parc Studio (Wales), and Liverpool Hope University. With thanks to Emmy Lahouel. Supported using public funding by the National Lottery through Arts Council England.          
          
 Image: [Turn 2024](/archive/2024-turn) at Company Chameleon by Tamsin Drury         
          
 #### Websites        
-<a href="https://fabiolasantana.co.uk" target="_blank">fabiolasantana.co.uk</a> · <a href="https://willdickie.co.uk" target="_blank">willdickie.co.uk</a><br>Insta <a href="https://instagram.com/fbs.santana" target="_blank">@fbs.santana</a> · <a href="https://instagram.com/jessicamorgado_" target="_blank">@jessicamorgado_</a> · <a href="https://instagram.com/will_dickie_" target="_blank">@will_dickie_</a>       
+<a href="https://fabiolasantana.co.uk" target="_blank">fabiolasantana.co.uk</a> · <a href="https://willdickie.co.uk" target="_blank">willdickie.co.uk</a><br>Insta <a href="https://instagram.com/fbs.santana" target="_blank">@fbs.santana</a> · <a href="https://instagram.com/jessicamorgado_" target="_blank">@jessicamorgado_</a> · <a href="https://instagram.com/will_dickie_" target="_blank">@will_dickie_</a> · <a href="https://instagram.com/kaiteoreillyo" target="_blank">@kaiteoreillyo</a>       
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2025/santana)</span></small>
