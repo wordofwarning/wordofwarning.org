@@ -17,7 +17,7 @@ season: "Fabíola Santana 29|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/santana/#entry) · [access](/current/2025/santana/#access) · [artists](/current/2025/santana/#artists) · [credits](/current/2025/santana/#credits) · [websites](/current/2025/santana/#websites)</span>&ensp; <small>Updated 22 April 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/santana/#entry) · [access](/current/2025/santana/#access) · [artists](/current/2025/santana/#artists) · [credits](/current/2025/santana/#credits) · [websites](/current/2025/santana/#websites)</span>&ensp; <small>Updated 23 April 2025</small>        
            
 *Presented by* Word of Warning *at* Company Chameleon        
          
@@ -28,6 +28,8 @@ A movement ritual of care and resilience — to nurture our connections to the e
 Women from the Global Ethnic Majority — whose families have been impacted by colonisation — share their own histories of care, resilience, legacy, and how these stories live in their bodies. Going beyond everyday storytelling, they transform those energies into a live experience.
 
 This performance draws upon a phase of R&D that focused on weaving personal storytelling, movement, dramaturgy, and community.         
+
+*NB* a work in progress is also showing on Wednesday 23 April, 7.30pm at <a href="https://unitytheatreliverpool.co.uk/whats-on/were-here-because-they-were" target="_blank">Unity Theatre Liverpool</a>.        
          
 #### Entry          
 Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
@@ -38,9 +40,7 @@ Time: Thursday 29 May 2025, 7.30pm (doors open 7pm; performance ends *about* 8.3
              
 Location: <a href="https://companychameleon.com/contact" target="_blank">Company Chameleon</a>, 6 Barrass St, Openshaw, Manchester M11 1PU.         
          
-Travel: <a href="https://nationalrail.co.uk/stations/gorton" target="_blank">Gorton station</a> is a 3-minute walk and we suggest arriving on the 18:57 northern train from Piccadilly; alternatively you could take the <a href="https://tfgm.com/travel-updates/live-departures/bus/219-manchester-city-centre" target="_blank">219 bus</a>.        
-
-<small>Please note: a work in progress of *WHBTW* is showing at <a href="https://unitytheatreliverpool.co.uk/whats-on/were-here-because-they-were" target="_blank">Unity Theatre Liverpool</a> on Wednesday 23 April, 7.30pm.<small>         
+Travel: <a href="https://nationalrail.co.uk/stations/gorton" target="_blank">Gorton station</a> is a 3-minute walk and we suggest arriving on the 18:57 northern train from Piccadilly; alternatively you could take the <a href="https://tfgm.com/travel-updates/live-departures/bus/219-manchester-city-centre" target="_blank">219 bus</a>.         
         
 #### Access         
 Age Advisory: 14+ (parent/guardian/carer discretion).        
