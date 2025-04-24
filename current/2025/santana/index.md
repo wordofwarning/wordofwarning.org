@@ -27,7 +27,7 @@ A movement ritual of care and resilience — to nurture our connections to the e
          
 Women from the Global Ethnic Majority — whose families have been impacted by colonisation — share their own histories of care, resilience, legacy, and how these stories live in their bodies. Going beyond everyday storytelling, they transform those energies into a live experience.
 
-This performance draws upon a phase of R&D that focused on weaving personal storytelling, movement, dramaturgy, and community. (A work in progress was shown on 23 April at <a href="https://unitytheatreliverpool.co.uk/whats-on/were-here-because-they-were" target="_blank">Unity Theatre Liverpool</a>.)         
+This performance draws upon a phase of R&D that focused on weaving personal storytelling, movement, dramaturgy, and community.<br>A work in progress was shown on 23 April at <a href="https://unitytheatreliverpool.co.uk/whats-on/were-here-because-they-were" target="_blank">Unity Theatre Liverpool</a>.         
          
 #### Entry          
 Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
