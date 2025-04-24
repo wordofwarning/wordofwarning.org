@@ -17,9 +17,9 @@ season: "Fabíola Santana 29|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/santana/#entry) · [access](/current/2025/santana/#access) · [artists](/current/2025/santana/#artists) · [credits](/current/2025/santana/#credits) · [websites](/current/2025/santana/#websites)</span>&ensp; <small>Updated 23 April 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/santana/#entry) · [access](/current/2025/santana/#access) · [artists](/current/2025/santana/#artists) · [credits](/current/2025/santana/#credits) · [websites](/current/2025/santana/#websites)</span>&ensp; <small>Updated 24 April 2025</small>        
            
-*Presented by* Word of Warning *at* Company Chameleon<br>&nbsp;*NB* a work in progress is also showing on 23 April, 7.30pm at <a href="https://unitytheatreliverpool.co.uk/whats-on/were-here-because-they-were" target="_blank">Unity Theatre</a>.        
+*Presented by* Word of Warning *at* Company Chameleon         
          
 A movement ritual of care and resilience — to nurture our connections to the elders and ancestors.          
 
@@ -27,7 +27,7 @@ A movement ritual of care and resilience — to nurture our connections to the e
          
 Women from the Global Ethnic Majority — whose families have been impacted by colonisation — share their own histories of care, resilience, legacy, and how these stories live in their bodies. Going beyond everyday storytelling, they transform those energies into a live experience.
 
-This performance draws upon a phase of R&D that focused on weaving personal storytelling, movement, dramaturgy, and community.         
+This performance draws upon a phase of R&D that focused on weaving personal storytelling, movement, dramaturgy, and community. (A work in progress was shown on 23 April at <a href="https://unitytheatreliverpool.co.uk/whats-on/were-here-because-they-were" target="_blank">Unity Theatre Liverpool</a>.)         
          
 #### Entry          
 Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
