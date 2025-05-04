@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 10 April 2025<small>        
+<small>Updated 4 May 2025<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>(Please click [here](/archive/warnings) for *past* events and *archived* livestreams on our YouTube channel.)         
          
@@ -21,7 +21,7 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 #### 2025         
          
 ##### [15+16 May. Contact | Works Ahead 2025](/current/2025-worksahead)          
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: works *may* involve interaction and/or participation; specific warnings will be listed in May.         
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: Martha Pailing's work includes optional interaction; strong language.         
          
 ##### [22 May. Contact | Social Experiment](/socialexperiment)          
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed here *about* a week before.
