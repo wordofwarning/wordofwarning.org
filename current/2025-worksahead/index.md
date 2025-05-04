@@ -17,7 +17,7 @@ season: "Works Ahead 15+16|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [works](/current/2025-worksahead/#works) · [entry](/current/2025-worksahead/#entry) · [access](/current/2025-worksahead/#access) · [about](/current/2025-worksahead/#about) · [credits](/current/2025-worksahead/#credits)</span>&ensp; <small>Updated 17 April 2025</small>        
+<span style='font-variant: small-caps'>→ [works](/current/2025-worksahead/#works) · [entry](/current/2025-worksahead/#entry) · [access](/current/2025-worksahead/#access) · [about](/current/2025-worksahead/#about) · [credits](/current/2025-worksahead/#credits)</span>&ensp; <small>Updated 4 May 2025</small>        
         
 *Presented by* Word of Warning *+* Contact         
 
@@ -52,9 +52,9 @@ Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Co
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
          
-Content Warnings: works *may* involve interaction and/or participation; specific warnings will be listed [here](/warnings) in May.         
+Content Warnings: please see [here](/warnings).         
         
-Features: two solo contemporary performance works with varied content; works will vary in format.
+Features: two solo contemporary performance works, spoken English with varied content including amplified audio and music; occur in Space 2 on the second floor, a studio space with raked seating.          
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
