@@ -45,14 +45,14 @@ Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).
          
 Tickets: now available online via Contact for <a href="https://contactmcr.com/book/instance/359758" target="_blank">Thursday</a>/<a href="https://contactmcr.com/book/instance/359759" target="_blank">Friday</a>.         
          
-Times: Thursday 15 and Friday 16 May 2025, 7.30pm each night (a double bill with an interval, ends *about* 9pm).         
+Times: Thursday 15 and Friday 16 May 2025, 7.30pm (both nights: a double bill with an interval, ending *about* 9pm).         
              
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
         
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
          
-Content Warnings: please see [here](/warnings).         
+Content Warnings: please click [here](/warnings).         
         
 Features: two solo contemporary performance works, spoken English with varied content including amplified audio and music; occur in Space 2 on the second floor, a studio space with raked seating.          
          
