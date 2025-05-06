@@ -21,6 +21,8 @@ season: "Martha Pailing in Works Ahead 15–16|5|2025, 7.30pm"
         
 *Presented by* Word of Warning *+* Contact *in* [Works Ahead 2025](/current/2025-worksahead): *a double bill of new works-in-development from Martha and Adèle Le Gallez*        
          
+***Failure To Thrive***         
+         
 *"Touch is the first sensory system to develop in the foetus."*<br>What does it mean to be held, to be nurtured, to be known?         
          
 Part-story, part-discovery, part-surrender: an investigation into touch and regression. This work unpacks the strange contradiction of being a fully grown adult who is still learning how to thrive.         
