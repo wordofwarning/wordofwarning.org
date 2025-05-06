@@ -4,12 +4,12 @@ layout: 2025-woah
 rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Works Ahead 2025" # the name of the artist or company
-show: "A sample of new performance." # the name of the show
+artist: "Martha Pailing" # the name of the artist or company
+show: "Failure To Thrive" # the name of the show
 artist_size: 1
 show_size: 4
-header_image:    
-season: "Works Ahead 15+16|5|2025, 7.30pm"
+header_image: "header_martha.jpg"
+season: "Martha Pailing in Works Ahead 15–16|5|2025, 7.30pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,27 +17,15 @@ season: "Works Ahead 15+16|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [works](/current/2025-worksahead/#works) · [entry](/current/2025-worksahead/#entry) · [access](/current/2025-worksahead/#access) · [about](/current/2025-worksahead/#about) · [credits](/current/2025-worksahead/#credits) · [websites](/current/2025-worksahead/#websites)</span>&ensp; <small>Updated 6 May 2025</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2025-worksahead/pailing/#artist) · [entry](/current/2025-worksahead/pailing/#entry) · [access](/current/2025-worksahead/pailing/#access) · [about](/current/2025-worksahead/pailing/#about) · [credits](/current/2025-worksahead/pailing/#credits) · [websites](/current/2025-worksahead/pailing/#websites)</span>&ensp; <small>Updated 6 May 2025</small>        
         
-*Presented by* Word of Warning *+* Contact         
-
-Our annual sampler evening of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2025-2" target="_blank">Contact</a> on **Thursday 15 and Friday 16 May at 7.30pm** with a double bill of new works-in-development from Adèle Le Gallez and Martha Pailing…        
+*Presented by* Word of Warning *+* Contact *in* [Works Ahead 2025](/current/2025-worksahead) *— a double bill of new works-in-development from Adèle Le Gallez and Martha Pailing…*        
          
-#### Works        
-***Landings* by Adèle Le Gallez**         
-         
-A missing church on Orkney.<br>An only child in Oldham.<br>A relief for those in free-fall, and a retreat for those in crisis.         
-         
-Live sound experiment, demonstration, and storytelling.          
-         
-Adèle is a writer, sound-artist, and performer.         
-         
-***Failure To Thrive* by Martha Pailing**         
-          
 *"Touch is the first sensory system to develop in the foetus."*<br>What does it mean to be held, to be nurtured, to be known?         
          
 Part-story, part-discovery, part-surrender: an investigation into touch and regression. This work unpacks the strange contradiction of being a fully grown adult who is still learning how to thrive.         
-        
+         
+#### Artist        
 Martha is a spoken word and performance artist.        
          
 #### Entry         
@@ -67,6 +55,6 @@ A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/h
 [Works Ahead](/hab/worksahead) 2025 commissioned by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England. With thanks to Manchester School of Theatre at Manchester Metropolitan University.<br>Project Mentor: Peader Kirk        
          
 #### Websites          
-<a href="http://worksahead.org" target="_blank">WorksAhead.org</a><br>Adèle Le Gallez — <a href="https://adelegallez.wixsite.com/portfolio" target="_blank">adelegallez.wixsite.com</a> · Insta <a href="https://instagram.com/adele.legallez" target="_blank">@adele.legallez</a><br>Martha Pailing — <a href="https://www.marthapailing.com" target="_blank">marthapailing.com</a> · Insta <a href="https://instagram.com/marthapailing" target="_blank">@marthapailing</a>        
+<a href="http://worksahead.org" target="_blank">WorksAhead.org</a><br>Martha Pailing — <a href="https://www.marthapailing.com" target="_blank">marthapailing.com</a> · Insta <a href="https://instagram.com/marthapailing" target="_blank">@marthapailing</a>        
         
-<small><span style='font-variant: small-caps'>[back to top](/current/2025-worksahead)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/current/2025-worksahead/pailing)</span></small>
