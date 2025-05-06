@@ -19,7 +19,7 @@ season: "Adèle Le Gallez in Works Ahead 15–16|5|2025, 7.30pm"
 ---
 <span style='font-variant: small-caps'>→ [artist](/current/2025-worksahead/legallez/#artist) · [entry](/current/2025-worksahead/legallez/#entry) · [access](/current/2025-worksahead/legallez/#access) · [about](/current/2025-worksahead/legallez/#about) · [credits](/current/2025-worksahead/legallez/#credits) · [websites](/current/2025-worksahead/legallez/#websites)</span>&ensp; <small>Updated 6 May 2025</small>        
         
-*Presented by* Word of Warning *+* Contact *in* [Works Ahead 2025](/current/2025-worksahead) *(a double bill of new works-in-development from Adèle Le Gallez and Martha Pailing)*        
+*Presented by* Word of Warning *+* Contact *in* [Works Ahead 2025](/current/2025-worksahead): *a double bill of new works-in-development from Adèle and Martha Pailing*        
             
 A missing church on Orkney.<br>An only child in Oldham.<br>A relief for those in free-fall, and a retreat for those in crisis.         
          
