@@ -24,7 +24,7 @@ season: "Works Ahead 15–16|5|2025, 7.30pm"
 Our annual sampler evening of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2025-2" target="_blank">Contact</a> on **Thursday 15 and Friday 16 May at 7.30pm** with a double bill of new works-in-development from [Adèle Le Gallez](/current/2025-worksahead/legallez) and [Martha Pailing](/current/2025-worksahead/pailing)…        
          
 #### Works        
-***[Landings* by Adèle Le Gallez](/current/2025-worksahead/legallez)**         
+**[*Landings* by Adèle Le Gallez](/current/2025-worksahead/legallez)**         
          
 A missing church on Orkney.<br>An only child in Oldham.<br>A relief for those in free-fall, and a retreat for those in crisis.         
          
@@ -32,7 +32,7 @@ Live sound experiment, demonstration, and storytelling.
          
 Adèle is a writer, sound-artist, and performer.         
          
-***[Failure To Thrive* by Martha Pailing](/current/2025-worksahead/pailing)**         
+**[*Failure To Thrive* by Martha Pailing](/current/2025-worksahead/pailing)**         
           
 *"Touch is the first sensory system to develop in the foetus."*<br>What does it mean to be held, to be nurtured, to be known?         
          
