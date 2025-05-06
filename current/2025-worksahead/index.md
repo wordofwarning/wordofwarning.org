@@ -17,7 +17,7 @@ season: "Works Ahead 15+16|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [works](/current/2025-worksahead/#works) · [entry](/current/2025-worksahead/#entry) · [access](/current/2025-worksahead/#access) · [about](/current/2025-worksahead/#about) · [credits](/current/2025-worksahead/#credits)</span>&ensp; <small>Updated 4 May 2025</small>        
+<span style='font-variant: small-caps'>→ [works](/current/2025-worksahead/#works) · [entry](/current/2025-worksahead/#entry) · [access](/current/2025-worksahead/#access) · [about](/current/2025-worksahead/#about) · [credits](/current/2025-worksahead/#credits)</span>&ensp; · [websites](/current/2025-worksahead/#websites)</span>&ensp;<small>Updated 6 May 2025</small>        
         
 *Presented by* Word of Warning *+* Contact         
 
@@ -36,7 +36,7 @@ Adèle is a writer, sound-artist, and performer.
           
 *"Touch is the first sensory system to develop in the foetus."*<br>What does it mean to be held, to be nurtured, to be known?         
          
-Part-story, part-discovery, part-surrender: an investigation into touch and regression.<br>This work unpacks the strange contradiction of being a fully grown adult who is still learning how to thrive.         
+Part-story, part-discovery, part-surrender: an investigation into touch and regression. This work unpacks the strange contradiction of being a fully grown adult who is still learning how to thrive.         
         
 Martha is a spoken word and performance artist.        
          
@@ -61,7 +61,7 @@ Queries: please contact <a href="https://contactmcr.com/visit/access" target="_b
 #### About           
 Each year since 2012, [Works Ahead](/hab/worksahead) has invited artists to dig deeper into work presented at the previous year’s [Emergency](/hab/emergency) or other platform event.          
         
-A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011, [Works Ahead](/hab/worksahead) has offered 36 small, supported, work-in-development commissions for artists over the past fourteen years — often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.         
+A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011; [Works Ahead](/hab/worksahead) has offered 36 small, supported, work-in-development commissions for artists over the past fourteen years — often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.         
          
 #### Credits         
 [Works Ahead](/hab/worksahead) 2025 commissioned by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England. With thanks to Manchester School of Theatre at Manchester Metropolitan University.<br>Project Mentor: Peader Kirk        
