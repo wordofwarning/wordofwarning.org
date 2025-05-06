@@ -19,7 +19,7 @@ season: "Martha Pailing in Works Ahead 15–16|5|2025, 7.30pm"
 ---
 <span style='font-variant: small-caps'>→ [artist](/current/2025-worksahead/pailing/#artist) · [entry](/current/2025-worksahead/pailing/#entry) · [access](/current/2025-worksahead/pailing/#access) · [about](/current/2025-worksahead/pailing/#about) · [credits](/current/2025-worksahead/pailing/#credits) · [websites](/current/2025-worksahead/pailing/#websites)</span>&ensp; <small>Updated 6 May 2025</small>        
         
-*Presented by* Word of Warning *+* Contact *in* [Works Ahead 2025](/current/2025-worksahead) *— a double bill of new works-in-development from Adèle Le Gallez and Martha Pailing…*        
+*Presented by* Word of Warning *+* Contact *in* [Works Ahead 2025](/current/2025-worksahead): *a double bill of new works-in-development from Martha and Adèle Le Gallez*        
          
 *"Touch is the first sensory system to develop in the foetus."*<br>What does it mean to be held, to be nurtured, to be known?         
          
