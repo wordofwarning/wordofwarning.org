@@ -17,7 +17,7 @@ season: "Adèle Le Gallez in Works Ahead 15–16|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2025-worksahead/legallez/#artist) · [entry](/current/2025-worksahead/legallez/#entry) · [access](/current/2025-worksahead/legallez/#access) · [about](/current/2025-worksahead/legallez/#about) · [credits](/current/2025-worksahead/legallez/#credits) · [websites](/current/2025-worksahead/legallez/#websites)</span>&ensp; <small>Updated 6 May 2025</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2025-worksahead/legallez/#artist) · [entry](/current/2025-worksahead/legallez/#entry) · [access](/current/2025-worksahead/legallez/#access) · [about](/current/2025-worksahead/legallez/#about) · [credits](/current/2025-worksahead/legallez/#credits) · [websites](/current/2025-worksahead/legallez/#websites)</span>&ensp; <small>Updated 8 May 2025</small>        
         
 *Presented by* Word of Warning *+* Contact *in* [Works Ahead 2025](/current/2025-worksahead): *a double bill of new works-in-development from Adèle and Martha Pailing*        
         
@@ -28,8 +28,12 @@ A missing church on Orkney.<br>An only child in Oldham.<br>A relief for those in
 Live sound experiment, demonstration, and storytelling.          
          
 #### Artist         
-Adèle is a writer, sound-artist, and performer.           
+Adèle is a Manchester-based writer, sound-artist, and performer. Their solo work — exploring themes such as capitalism, religion, and dreams — has taken the form of short-stories, soundscapes, poetry, and installations.         
          
+Before making solo work, Adèle co-founded MOUTH, a Bristol based dance-theatre duo. They created and toured *Mouth* (2017) before being commissioned by Arts Council England, in support with Creative Youth Network, to create *Skin* (2018) and *Teeth* (2019). With mentorship from CYN and becoming Ferment Artists through Bristol Old Vic’s Artist Development Programme, MOUTH toured shows to multiple venues in Bristol during their years as a company.         
+         
+They co-produced *Nothing* (2018) by Lulu Raczka in collaboration with A Room Full Of People Present. Most recently, they performed in *Sunday Morning* (2023) by Josh Coates at Liverpool's Unity Theatre and online at HOME — a walking tour of the internet that takes you through the history of trespass and how we now occupy the digital space. Adèle debuted *Mortar* (2022-2024), their soundstory performance, at [Emergency 24](/archive/2024-emergency/evening) and Camden People's Theatre — researching burnout in our capitalist world, telling the story of the man upstairs who gave his all.         
+          
 #### Entry         
 Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
          
