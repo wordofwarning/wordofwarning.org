@@ -16,11 +16,11 @@ season: "Social Experiment by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 24 January 2025</small>        
+<small>Updated 8 May 2025</small>        
         
 **Social Experiment** is a new gathering at <a href="https://contactmcr.com" target="_blank">Contact</a> for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
           
-A free and informal, semi-regular evening event with the first on **Thursday 6 February** — future dates are **22 May**, **17 July**, and **27 November 2025**.         
+A free and informal, semi-regular evening event with the **next on Thursday 22 May from 6pm to 9pm**. Subsequent dates are Thursdays 17 July and 27 November; the first event was held on [Thursday 6 February](/socialexperiment/feb2025).         
          
 If you're a Greater Manchester artist — this is your chance to test out a short performance, intervention, or durational work, in front of an informal audience.         
          
@@ -29,7 +29,7 @@ If you're an audience member looking for something a little bit different — th
 #### Social Experiment Call for Proposals        
 Greater Manchester artists (*aged 18+*) are invited to submit proposals of: short performances, interventions, or durational works, for inclusion in these events.        
           
-**For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a><br>Proposal Deadline: open on a rolling basis, closing a fortnight before each event — i.e. deadline for 22 May is 8 May, 5pm.**         
+**For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a><br>Proposal Deadline: open on a rolling basis, closing a fortnight before each event — i.e. deadline for 22 May was 8 May, 5pm; deadline for 17 July is 3 July, 5pm.**         
          
 (Direct link to proposal form is <a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">here</a> in case of issues with posthaven.)         
          
