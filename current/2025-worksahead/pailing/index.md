@@ -19,7 +19,7 @@ season: "Martha Pailing in Works Ahead 15–16|5|2025, 7.30pm"
 ---
 <span style='font-variant: small-caps'>→ [artist](/current/2025-worksahead/pailing/#artist) · [entry](/current/2025-worksahead/pailing/#entry) · [access](/current/2025-worksahead/pailing/#access) · [about](/current/2025-worksahead/pailing/#about) · [credits](/current/2025-worksahead/pailing/#credits) · [websites](/current/2025-worksahead/pailing/#websites)</span>&ensp; <small>Updated 9 May 2025</small>        
         
-*Presented by* Word of Warning *+* Contact *in* [Works Ahead 2025](/current/2025-worksahead): *a double bill of new works-in-development from Martha and Adèle Le Gallez*        
+*Presented by* Word of Warning *+* Contact *in* [Works Ahead 2025](/current/2025-worksahead): *a double bill of new works-in-development from Martha and [Adèle Le Gallez](/current/2025-worksahead/legallez)*        
          
 ***Failure To Thrive***         
          
@@ -28,7 +28,9 @@ season: "Martha Pailing in Works Ahead 15–16|5|2025, 7.30pm"
 Part-story, part-discovery, part-surrender: an investigation into touch and regression. This work unpacks the strange contradiction of being a fully grown adult who is still learning how to thrive.         
          
 #### Artist        
-Martha is a northern-born spoken word and performance artist. Her work considers what it is to remain empathetic and soft in a brutal, emotionally temperamental world. She is a former artist-in-residence at London's Roundhouse and Blackpool's The Old Electric. Her past work includes commissions for the Royal Court, Essex Book Festival, METAL, and Penned In The Margins. She has performed across the UK including at Soho Theatre, the Barbican, LADA, Curve, Alphabetti, and Contact. She has also performed in some dingy pubs and they were no less extraordinary.        
+Martha is a northern-born spoken word and performance artist. Her work considers what it is to remain empathetic and soft in a brutal, emotionally temperamental world.         
+         
+She is a former artist-in-residence at London's Roundhouse and Blackpool's The Old Electric. Her past work includes commissions for the Royal Court, Essex Book Festival, METAL, and Penned In The Margins. Martha has performed across the UK including at Soho Theatre, the Barbican, LADA, Curve, Alphabetti, and Contact. She has also performed in some dingy pubs and they were no less extraordinary.        
          
 #### Entry         
 Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
@@ -57,6 +59,6 @@ A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/h
 [Works Ahead](/hab/worksahead) 2025 commissioned by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England. With thanks to Manchester School of Theatre at Manchester Metropolitan University.<br>Project Mentor: Peader Kirk        
          
 #### Websites          
-<a href="http://worksahead.org" target="_blank">WorksAhead.org</a><br>Martha Pailing — <a href="https://www.marthapailing.com" target="_blank">marthapailing.com</a> · Insta <a href="https://instagram.com/marthapailing" target="_blank">@marthapailing</a>        
+<a href="http://worksahead.org" target="_blank">WorksAhead.org</a><br><a href="https://www.marthapailing.com" target="_blank">marthapailing.com</a> · Insta <a href="https://instagram.com/marthapailing" target="_blank">@marthapailing</a>        
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2025-worksahead/pailing)</span></small>
