@@ -17,9 +17,9 @@ season: "Adèle Le Gallez in Works Ahead 15–16|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2025-worksahead/legallez/#artist) · [entry](/current/2025-worksahead/legallez/#entry) · [access](/current/2025-worksahead/legallez/#access) · [about](/current/2025-worksahead/legallez/#about) · [credits](/current/2025-worksahead/legallez/#credits) · [websites](/current/2025-worksahead/legallez/#websites)</span>&ensp; <small>Updated 8 May 2025</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2025-worksahead/legallez/#artist) · [entry](/current/2025-worksahead/legallez/#entry) · [access](/current/2025-worksahead/legallez/#access) · [about](/current/2025-worksahead/legallez/#about) · [credits](/current/2025-worksahead/legallez/#credits) · [websites](/current/2025-worksahead/legallez/#websites)</span>&ensp; <small>Updated 9 May 2025</small>        
         
-*Presented by* Word of Warning *+* Contact *in* [Works Ahead 2025](/current/2025-worksahead): *a double bill of new works-in-development from Adèle and Martha Pailing*        
+*Presented by* Word of Warning *+* Contact *in* [Works Ahead 2025](/current/2025-worksahead): *a double bill of new works-in-development from Adèle and [Martha Pailing](/current/2025-worksahead/pailing)*        
         
 ***Landings***         
             
@@ -61,6 +61,6 @@ A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/h
 [Works Ahead](/hab/worksahead) 2025 commissioned by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England. With thanks to Manchester School of Theatre at Manchester Metropolitan University.<br>Project Mentor: Peader Kirk        
          
 #### Websites          
-<a href="http://worksahead.org" target="_blank">WorksAhead.org</a><br>Adèle Le Gallez — <a href="https://adelegallez.wixsite.com/portfolio" target="_blank">adelegallez.wixsite.com</a> · Insta <a href="https://instagram.com/adele.legallez" target="_blank">@adele.legallez</a>        
+<a href="http://worksahead.org" target="_blank">WorksAhead.org</a><br><a href="https://adelegallez.wixsite.com/portfolio" target="_blank">adelegallez.wixsite.com</a> · Insta <a href="https://instagram.com/adele.legallez" target="_blank">@adele.legallez</a>        
         
 <small><span style='font-variant: small-caps'>[back to top](/current/2025-worksahead/legallez)</span></small>
