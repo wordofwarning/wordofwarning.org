@@ -29,7 +29,7 @@ If you're a Greater Manchester artist — this is your <a href="https://socialex
          
 If you're an audience member looking for something a little bit different — this is your chance to take a few risks & meet some artists in our social experiment.         
          
-(And if you're an HE Student artist based in the North West — there's an extra *Student Edition* on Thursday 5 June at Contact, please see the <a href="https://studentedition.posthaven.com" target="_blank">call for proposals</a>.)         
+(And if you're an HE Student artist based in the North West — there's an extra *Student Edition* on Thursday 5 June at Contact, please go <a href="https://studentedition.posthaven.com" target="_blank">here</a> for info.)         
          
 #### Artists        
 **6 February**: Harley&nbsp;Keasey&nbsp;· J.&nbsp;Edgar&nbsp;Staubsauger&nbsp;· Rachael&nbsp;Gooch&nbsp;· Ray&nbsp;Bubbles&nbsp;· plus&nbsp;special&nbsp;guests Malandra&nbsp;Jacks<br>Read their [programme notes](/socialexperiment/feb2025) — and now it's over, see [images from the event](/galleries/2025-socex).        
