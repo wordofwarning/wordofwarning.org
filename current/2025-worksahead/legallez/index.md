@@ -17,7 +17,7 @@ season: "Adèle Le Gallez in Works Ahead 15–16|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2025-worksahead/legallez/#artist) · [entry](/current/2025-worksahead/legallez/#entry) · [access](/current/2025-worksahead/legallez/#access) · [about](/current/2025-worksahead/legallez/#about) · [credits](/current/2025-worksahead/legallez/#credits) · [websites](/current/2025-worksahead/legallez/#websites)</span>&ensp; <small>Updated 9 May 2025</small>        
+<span style='font-variant: small-caps'>→ [artist](/current/2025-worksahead/legallez/#artist) · [entry](/current/2025-worksahead/legallez/#entry) · [access](/current/2025-worksahead/legallez/#access) · [about](/current/2025-worksahead/legallez/#about) · [credits](/current/2025-worksahead/legallez/#credits) · [websites](/current/2025-worksahead/legallez/#websites)</span>&ensp; <small>Updated 13 May 2025</small>        
         
 *Presented by* Word of Warning *+* Contact *in* [Works Ahead 2025](/current/2025-worksahead): *a double bill of new works-in-development from Adèle and [Martha Pailing](/current/2025-worksahead/pailing)*        
         
@@ -28,7 +28,7 @@ A missing church on Orkney.<br>An only child in Oldham.<br>A relief for those in
 Live sound experiment, demonstration, and storytelling.          
          
 #### Artist         
-Adèle is a Manchester-based writer, sound-artist, and performer. Their solo work — exploring themes such as capitalism, religion, and dreams — has taken the form of short-stories, soundscapes, poetry, and installations.         
+Adèle is a Manchester-based writer, sound-artist, and performer.<br>Their solo work — exploring themes such as capitalism, religion, and dreams — has taken the form of short-stories, soundscapes, poetry, and installations.         
          
 Before making solo work, Adèle co-founded MOUTH, a Bristol based dance-theatre duo. They created and toured *Mouth* (2017) before being commissioned by Arts Council England, in support with Creative Youth Network, to create *Skin* (2018) and *Teeth* (2019). With mentorship from CYN and becoming Ferment Artists through Bristol Old Vic’s Artist Development Programme, MOUTH toured to multiple venues in Bristol during their years as a company.         
          
