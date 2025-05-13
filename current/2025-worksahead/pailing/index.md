@@ -28,11 +28,11 @@ season: "Martha Pailing in Works Ahead 15–16|5|2025, 7.30pm"
 Part-story, part-discovery, part-surrender: an investigation into touch and regression. This work unpacks the strange contradiction of being a fully grown adult who is still learning how to thrive.         
          
 #### Artist        
-Martha is a northern-born spoken word and performance artist. Her work considers what it is to remain empathetic and soft in a brutal, emotionally temperamental world.         
+Martha is a northern-born spoken word and performance artist.<br>Her work considers what it is to remain empathetic and soft in a brutal, emotionally temperamental world.         
          
 She is a former artist-in-residence at London's Roundhouse and Blackpool's The Old Electric. Her past work includes commissions for the Royal Court, Essex Book Festival, METAL, and Penned in the Margins. Martha has performed across the UK including Soho Theatre, the Barbican, LADA, Curve, Alphabetti, and Contact. She has also performed in some dingy pubs and they were no less extraordinary.        
          
-Martha is currently developing *Chat Sh\*t, Get Hit* — a funny and uncompromising new show exploring the suppression of women's rage. The project's R&D phase was supported using public funding by the National Lottery through Arts Council England, and she plans to tour the next stage of the piece in autumn 2025, pending further support.         
+Martha is currently developing *Chat Sh\*t, Get Hit* — a funny and uncompromising new show exploring the suppression of women's rage.<br>The project's R&D phase was supported using public funding by the National Lottery through Arts Council England, and there are plans to tour the next stage of the piece in autumn 2025, pending further support.         
           
 #### Entry         
 Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
