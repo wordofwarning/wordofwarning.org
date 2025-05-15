@@ -16,11 +16,11 @@ season: "Social Experiment by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 12 May 2025</small>        
+<small>Updated 15 May 2025</small>        
         
-**Social Experiment** is a new gathering at <a href="https://contactmcr.com" target="_blank">Contact</a> for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
+**[Social Experiment](/socialexperiment)** is a new gathering at <a href="https://contactmcr.com" target="_blank">Contact</a> for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
           
-A free and informal, semi-regular evening event with the **next on Thursday 22 May from 6pm to 9pm**. Subsequent dates are Thursdays 17 July and 27 November; the first event was held on [Thursday 6 February](/socialexperiment/feb2025).         
+A free and informal, semi-regular evening event with the **next on Thursday 22 May from 6pm to 9pm**. Subsequent dates are Thursdays 17 July and 27 November. The first event was held on [Thursday 6 February](/socialexperiment/feb2025), see some [images](/galleries/2025-socex).         
          
 If you're a Greater Manchester artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
          
@@ -33,7 +33,7 @@ Greater Manchester artists (*aged 18+*) are invited to submit proposals of: shor
           
 **For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>**<br>(Direct link to proposal form is <a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">here</a> in case of issues with posthaven.)         
          
-Proposal Deadline: open on a rolling basis, closing a fortnight before each event — i.e. deadline for 22 May was 8 May, 5pm; deadline for 17 July is 3 July, 5pm.         
+Proposal Deadline: open on a rolling basis, closing a fortnight before each event — i.e. deadline for 17 July is 3 July, 5pm; deadline for 27 Nov is 13 Nov, 5pm.         
          
 [Social Experiment](/socialexperiment) presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
          
