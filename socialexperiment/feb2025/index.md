@@ -86,6 +86,6 @@ Features: five Live Art & contemporary performance works with varied content.
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### Credits          
-[Social Experiment](/hab/socialexperiment) (Feb 2025) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
+[Social Experiment](/socialexperiment) (Feb 2025) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
                  
 <small><span style='font-variant: small-caps'>[back to top](/socialexperiment/feb2025)</span></small>
