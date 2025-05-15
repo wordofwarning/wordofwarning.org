@@ -59,7 +59,7 @@ Insta <a href="https://instagram.com/secretlocationtc" target="_blank">@secretlo
 #### Entry         
 FREE: there's no ticketing… just turn up!         
          
-Time: Thursday 6 May 2025, 6pm onwards (ends *by about* 9pm).         
+Time: Thursday 22 May 2025, 6pm onwards (ends *by about* 9pm).         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester M15 6JA.         
          
