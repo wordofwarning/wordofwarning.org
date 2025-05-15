@@ -23,7 +23,7 @@ season: "Social Experiment 2025"
          
 **Social Experiment** is a new gathering at <a href="https://contactmcr.com" target="_blank">Contact</a> for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
           
-A free and informal, semi-regular evening event with the **next on Thursday 22 May from 6pm to 9pm**. Subsequent dates are Thursdays 17 July and 27 November. The first event was held on [Thursday 6 February](/socialexperiment/feb2025), see some [images](/galleries/2025-socex).         
+A free and informal, semi-regular evening event with the **[next on Thursday 22 May from 6pm to 9pm](/socialexperiment/may2025)**. Subsequent dates are Thursdays 17 July and 27 November. The first event was held on [Thursday 6 February](/socialexperiment/feb2025), see some [images](/galleries/2025-socex).         
          
 If you're a Greater Manchester artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
          
@@ -32,14 +32,14 @@ If you're an audience member looking for something a little bit different — th
 (And if you're an HE Student artist based in the North West — there's an extra *Student Edition* on Thursday 5 June at Contact, please go <a href="https://studentedition.posthaven.com" target="_blank">here</a> for info.)         
          
 #### Artists        
-**22 May**<br>Ben&nbsp;Hodge&nbsp;· Bitterroot&nbsp;· Joely&nbsp;Mae&nbsp;Greally&nbsp;& Jasmine&nbsp;Naila&nbsp;Burt&nbsp;· Julie&nbsp;Burrow&nbsp;· Lizzy&nbsp;Owen&nbsp;· Paper&nbsp;People&nbsp;Theatre&nbsp;· Secret&nbsp;Location&nbsp;Theatre&nbsp;Company<br><small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*<small>         
+**[22 May](/socialexperiment/may2025)**<br>Ben&nbsp;Hodge&nbsp;· Bitterroot&nbsp;· Joely&nbsp;Mae&nbsp;Greally&nbsp;& Jasmine&nbsp;Naila&nbsp;Burt&nbsp;· Julie&nbsp;Burrow&nbsp;· Lizzy&nbsp;Owen&nbsp;· Paper&nbsp;People&nbsp;Theatre&nbsp;· Secret&nbsp;Location&nbsp;Theatre&nbsp;Company<br><small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*<small>         
          
 *NB* participating artists are announced *about* a week before each event — the call for proposals is open on a rolling basis at <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>         
          
 #### Entry         
 FREE: there's no ticketing… just turn up!         
          
-Dates: Thursdays 6 February, 22 May, 17 July, and 27 November 2025.<br>Time: 6pm onwards (each event ends *by about* 9pm).         
+Dates: Thursdays [6 February](/socialexperiment/feb2025), [22 May](/socialexperiment/may2025), 17 July, and 27 November 2025.<br>Time: 6pm onwards (each event ends *by about* 9pm).         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester M15 6JA.         
          
