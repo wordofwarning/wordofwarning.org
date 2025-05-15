@@ -32,7 +32,7 @@ If you're an audience member looking for something a little bit different — th
 (And if you're an HE Student artist based in the North West — there's an extra *Student Edition* on Thursday 5 June at Contact, please go <a href="https://studentedition.posthaven.com" target="_blank">here</a> for info.)         
          
 #### Artists        
-**22 May**: Ben&nbsp;Hodge&nbsp;· Bitterroot&nbsp;· Joely&nbsp;Mae&nbsp;Greally&nbsp;& Jasmine&nbsp;Naila&nbsp;Burt&nbsp;· Julie&nbsp;Burrow&nbsp;· Lizzy&nbsp;Owen&nbsp;· Paper&nbsp;People&nbsp;Theatre&nbsp;· Secret&nbsp;Location&nbsp;Theatre&nbsp;Company *Participating&nbsp;artists subject&nbsp;to&nbsp;change.*        
+**22 May**<br>Ben&nbsp;Hodge&nbsp;· Bitterroot&nbsp;· Joely&nbsp;Mae&nbsp;Greally&nbsp;& Jasmine&nbsp;Naila&nbsp;Burt&nbsp;· Julie&nbsp;Burrow&nbsp;· Lizzy&nbsp;Owen&nbsp;· Paper&nbsp;People&nbsp;Theatre&nbsp;· Secret&nbsp;Location&nbsp;Theatre&nbsp;Company<br><small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*<small>         
          
 *NB* participating artists are announced *about* a week before each event — the call for proposals is open on a rolling basis at <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>         
          
@@ -59,7 +59,7 @@ Greater Manchester artists (*aged 18+*) are invited to submit proposals of: shor
          
 **For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>**<br>(Direct link to proposal form is <a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">here</a> in case of issues with posthaven.)         
          
-Proposal Deadline: open on a rolling basis, closing a fortnight before each event — i.e. deadline for 22 May was 8 May, 5pm; deadline for 17 July is 3 July, 5pm.          
+Proposal Deadline: open on a rolling basis, closing a fortnight before each event — i.e. deadline for 17 July is 3 July, 5pm; deadline for 27 Nov is 13 Nov, 5pm.          
          
 #### Credits          
 [Social Experiment](/hab/socialexperiment) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
