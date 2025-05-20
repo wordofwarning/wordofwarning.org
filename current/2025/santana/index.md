@@ -50,7 +50,7 @@ Features: a contemporary dance performance work with varied content including sp
 Queries: please contact Word of Warning via <mailto:info@habmcr.com>        
          
 #### Workshop          
-Fabíola is holding a Creative Workshop for women from the Global Majority to create, reflect, and celebrate — on Saturday 31 May from 10am, at Space for Change in Hulme, Manchester. Please click <a href="https://www.eventbrite.com/e/were-here-because-they-were-creative-workshop-manchester-tickets-1321497547739" target="_blank">here</a>.         
+Fabíola is holding a Creative Workshop for women from the Global Majority to create, reflect, and celebrate — on Saturday 31 May from 10am, at Space for Change in Hulme, Manchester. For details please click <a href="https://www.eventbrite.com/e/were-here-because-they-were-creative-workshop-manchester-tickets-1321497547739" target="_blank">here</a>.         
          
 #### Artists        
 Fabíola is an interdisciplinary Afro-Portuguese Liverpool-based artist. With a PhD scholarship in performance and decolonising studies (Liverpool Hope University) she is currently researching performance-making as a space where people from the Global Ethnic Majority can gather to centre their stories, be witnessed, and be nurtured — collectively creating a space for the ancestors to reverberate through us — pointing us toward the elders we want to become.<br>She is the maker of *A Home for Grief* supported by Lancaster Arts, Unity Theatre (Liverpool), Contact (Manchester), Tramway (Glasgow), and using public funding by the National Lottery through Arts Council England.          
