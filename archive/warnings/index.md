@@ -20,7 +20,7 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 <hr>         
 #### 2025         
          
-##### [15+16 May. Contact | Works Ahead 2025](/current/2025-worksahead)          
+##### [15–16 May. Contact | Works Ahead 2025](/current/2025-worksahead)          
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: Martha Pailing's work included optional interaction; partial nudity; strong language.         
           
 ##### [4 Apr. Contact | Turn 2025](/current/2025-turn)          
@@ -57,7 +57,7 @@ Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Conten
 ##### [22 Jul. Z-arts | Haphazard 2023](/archive/2023-haphazard)          
 Age Advisory: suitable for all ages (parental/guardian/carer discretion).<br>Content Warnings: some works involved interaction or participation, some may disturb, specifics follow…<br>&nbsp;Gemma Lees — use of, and potential interaction with, neon & flashing light.<br>&nbsp;Joe Beedles — use of laser & haze.<br>&nbsp;Krissi Musiol & Amy Vreeke — loud/sudden bangs or noise, e.g. popping balloons, **Allergy Warnings: latex / popcorn**.         
         
-##### [18+19 May. Contact | Works Ahead 2023](/archive/2023-worksahead)          
+##### [18–19 May. Contact | Works Ahead 2023](/archive/2023-worksahead)          
 Age Advisory: 16+ (parental/guardian discretion).<br>Content Warnings: works included complex themes that may disturb, specifics follow…<br>&nbsp;[Jade Williams](/archive/2023-worksahead/williams) — included optional audience interaction; references slavery.<br>&nbsp;[Kellie Colbert](/archive/2023-worksahead/colbert) — references anxiety, depression, online trolling, <a href="https://www.nhs.uk/mental-health/conditions/trichotillomania" target="_blank">trichotillomania</a>.         
          
 ##### [3 May. The Lowry | *Unnatural Cycles — A Ghost Story* by Avital Raz](/archive/2023/raz)          
