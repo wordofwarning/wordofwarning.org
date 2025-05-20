@@ -17,7 +17,7 @@ season: "Fabíola Santana 29|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/santana/#entry) · [access](/current/2025/santana/#access) · [artists](/current/2025/santana/#artists) · [credits](/current/2025/santana/#credits) · [websites](/current/2025/santana/#websites)</span>&ensp; <small>Updated 24 April 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/santana/#entry) · [access](/current/2025/santana/#access) · [workshop](/current/2025/santana/#workshop) · [artists](/current/2025/santana/#artists) · [credits](/current/2025/santana/#credits) · [websites](/current/2025/santana/#websites)</span>&ensp; <small>Updated 20 May 2025</small>        
            
 *Presented by* Word of Warning *at* Company Chameleon         
          
@@ -48,6 +48,9 @@ Content Warnings: please click [here](/warnings).
 Features: a contemporary dance performance work with varied content including spoken English and Portuguese language; occurs in Studio 1 on the ground floor, a studio space with raked seating.         
          
 Queries: please contact Word of Warning via <mailto:info@habmcr.com>        
+         
+#### Workshop          
+Fabíola is holding a Creative Workshop for women from the Global Majority to create, reflect, and celebrate — on Saturday 31 May from 10am, at Space for Change in Hulme, Manchester. Please click <a href="https://www.eventbrite.com/e/were-here-because-they-were-creative-workshop-manchester-tickets-1321497547739" target="_blank">here</a>.         
          
 #### Artists        
 Fabíola is an interdisciplinary Afro-Portuguese Liverpool-based artist. With a PhD scholarship in performance and decolonising studies (Liverpool Hope University) she is currently researching performance-making as a space where people from the Global Ethnic Majority can gather to centre their stories, be witnessed, and be nurtured — collectively creating a space for the ancestors to reverberate through us — pointing us toward the elders we want to become.<br>She is the maker of *A Home for Grief* supported by Lancaster Arts, Unity Theatre (Liverpool), Contact (Manchester), Tramway (Glasgow), and using public funding by the National Lottery through Arts Council England.          
