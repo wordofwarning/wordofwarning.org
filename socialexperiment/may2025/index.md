@@ -17,7 +17,7 @@ season: "Social Experiment 22|5|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/may2025/#artists) · [programme](/socialexperiment/may2025/#programme) · [entry](/socialexperiment/may2025/#entry) · [access](/socialexperiment/may2025/#access) · [credits](/socialexperiment/may2025/#credits)</span>&ensp; <small>Updated 15 May 2025</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/may2025/#artists) · [programme](/socialexperiment/may2025/#programme) · [entry](/socialexperiment/may2025/#entry) · [access](/socialexperiment/may2025/#access) · [credits](/socialexperiment/may2025/#credits)</span>&ensp; <small>Updated 21 May 2025</small>          
          
 *A [Social Experiment](/socialexperiment) on 22 May, presented by* Word of Warning + Contact         
          
@@ -29,9 +29,13 @@ May's event kicks off at 6pm…
 <hr>         
 **Ben Hodge** · *Teddy Bears Picnic*         
          
+Deep within the forest, the teddy bears are having a lovely time. Catch them unawares, explore the deeper parts of the forest, and find your next adventure. Who knows, maybe the picnic will go home with you if you ask nicely…         
+         
 Insta <a href="https://instagram.com/benhodgeee" target="_blank">@benhodgeee</a>          
 <hr>         
 **Bitterroot** · *The Well*         
+         
+Deep in the desert lies a well. For some this is just a dream, for others this is life or death. As two men wander in search for water, you decide their fate.          
          
 Insta <a href="https://instagram.com/bitterroot_theatre" target="_blank">@bitterroot_theatre</a>          
 <hr>         
@@ -41,17 +45,25 @@ Insta <a href="https://instagram.com/joelymaegreally" target="_blank">@joelymaeg
 <hr>         
 **Julie Burrow** · *An Evening With Me, Rosy Maple*         
          
+Rosy Maple is the hardest-working moth in showbusiness. Used to riding high as the only moth in Hollywood, Rosy's now on her uppers, touring smaller venues she's never heard of. She's determined to wow audiences with her stellar talent, cluelessly bringing Broadway-level energy to the stages of the North West with a big dose of silly, colourful fun.         
+         
 Insta <a href="https://instagram.com/juliesusieb" target="_blank">@juliesusieb</a>          
 <hr>         
 **Lizzy Owen** · *[PAIN]ting*         
          
+A visual and visceral interdisciplinary response to the turmoil of existing. How can music and paint explore notions of how we view ourselves? Can a conversation between these expose the realities that come with being in the world and our bodies out on display for judgement and perception? And how does this affect our own view of ourselves and our physical being? The body is on display for exposure and judgement.         
+                  
 Insta <a href="https://instagram.com/lizzyowenn" target="_blank">@lizzyowenn</a>          
 <hr>         
 **Paper People Theatre** · *The Opposite of Distance*         
          
+*One night, a couple are attacked on the street, Sam appears to chase a mugger away, he returns to a devastated Molly cradling his bloodied corpse and realises he's dead… Oh wait — that's Ghost (1990). Well, one of us keeps dying. We've been apart for a while and things are feeling different. Come and see us try again after six years. Our bodies are different — it's taken a long time to grow together, like formations in a cave — we're here to re-emerge. How long does it take for stalagmites to form? I'm not sure we have that much time. One of us keeps dying. Please clap.*         
+         
 Insta <a href="https://instagram.com/paperpeopletheatre" target="_blank">@paperpeopletheatre</a>          
 <hr>         
 **Secret Location Theatre Company** · *Fragile*         
+          
+An experimental work inspired by journal entries. Physically exploring sensitivity, Isobel asks: '*How do we fit into the world around us? How do we portray sensitivity to others? Am I too sensitive? Or is the world too cruel? Either way, how on earth do I cope?*'          
          
 Insta <a href="https://instagram.com/secretlocationtc" target="_blank">@secretlocationtc</a>          
 <hr>         
