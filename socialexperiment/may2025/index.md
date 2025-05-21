@@ -37,7 +37,7 @@ Insta <a href="https://instagram.com/benhodgeee" target="_blank">@benhodgeee</a>
 <hr>         
 **Joely Mae Greally & Jasmine Naila Burt** · *Not Made To Last*         
 
-Joely's practice is expansive, consulting mediums such as installation, sound, photography, moving image, printmaking, and performance as well as writing practices embodying fragmented and fictional romance rooted in truths. Her works attempt to be both fragmented, fabricated, natural, and erotic, and she uses opposition and polarity as a working tool.<br>Jasmine is a multidisciplinary visual and sound artist. Using her roots in playing bass guitar as a starting point, then exploring further into sonic landscapes using synthesisers, eclectic pop culture samples from the last century, and collected field recordings from day to day life. She is also a printmaker, specialising in linoprinting, and enjoys seeing the links between creating layers of relief printing and creating layers of sound. Both visual and sonic mediums are intertwined and are an extension of each other.         
+Joely's practice is expansive, consulting mediums such as installation, sound, photography, moving image, printmaking, and performance as well as writing practices embodying fragmented and fictional romance rooted in truths. Her works attempt to be both fragmented, fabricated, natural, and erotic — and she uses opposition and polarity as a working tool.<br>Jasmine is a multidisciplinary visual and sound artist. Using her roots in playing bass guitar, exploring further into sonic landscapes using synthesisers, eclectic pop culture samples from the last century, and collected field recordings from day to day life. She's also a printmaker specialising in linoprinting, and enjoys seeing the links between creating layers of relief printing and creating layers of sound. Both visual and sonic mediums are intertwined and are an extension of each other.         
          
 <a href="https://joelymaegreally.co.uk" target="_blank">joelymaegreally.co.uk</a> · Insta <a href="https://instagram.com/joelymaegreally" target="_blank">@joelymaegreally</a> <a href="https://instagram.com/j.a.z.z.m.n" target="_blank">@j.a.z.z.m.n</a>                   
 <hr>         
@@ -45,7 +45,7 @@ Joely's practice is expansive, consulting mediums such as installation, sound, p
          
 A visual and visceral interdisciplinary response to the turmoil of existing.<br>How can music and paint explore notions of how we view ourselves?<br>Can a conversation between these expose the realities that come with being in the world and our bodies out on display for judgement and perception?<br>And how does this affect our own view of ourselves and our physical being?<br>The body is on display for exposure and judgement.         
          
-Lizzy is a Manchester-based movement artist. She is currently furthering her research, studying for a specialist diploma in choreological studies. She performs as a freelancer dance artist and teaches in the city Contemporary techniques.<br>Ashley McAuley is a Manchester-based performer/composer, who has developed his craft collaborating with art and dance, as well as exploration into graphic scores as a part of his masters research. He continues to work with musicians and bands across the globe.          
+A Manchester-based movement artist, Lizzy is currently furthering her research, studying for a specialist diploma in choreological studies. She performs as a freelancer dance artist and teaches Contemporary techniques in the city.<br>Ashley McAuley is a Manchester-based performer/composer, who's developed his craft collaborating with art and dance, as well as exploration into graphic scores as a part of his masters research. He continues to work with musicians and bands across the globe.          
           
 Insta <a href="https://instagram.com/lizzyowenn" target="_blank">@lizzyowenn</a>          
 <hr>         
@@ -53,7 +53,7 @@ Insta <a href="https://instagram.com/lizzyowenn" target="_blank">@lizzyowenn</a>
          
 Deep in the desert lies a well. For some this is just a dream, for others this is life or death. As two men wander in search for water, you decide their fate.          
          
-Bitterroot is a two-person theatre collective created by Chris Richards and Jake Rayner Blair. They have written and performed over twenty immersive theatre shows since 2022, as well as completing a UK tour last year.         
+Bitterroot is a two-person theatre collective created by Chris Richards and Jake Rayner Blair. They've written and performed over twenty immersive theatre shows since 2022, as well as completing a UK tour last year.         
          
 Insta <a href="https://instagram.com/bitterroot_theatre" target="_blank">@bitterroot_theatre</a>          
 <hr>         
@@ -61,7 +61,7 @@ Insta <a href="https://instagram.com/bitterroot_theatre" target="_blank">@bitter
           
 An experimental work inspired by journal entries. Physically exploring sensitivity, Isobel asks: '*How do we fit into the world around us? How do we portray sensitivity to others? Am I too sensitive? Or is the world too cruel? Either way, how on earth do I cope?*'          
          
-Secret Location is a North West-based, female-led, emerging theatre company. Directors Isobel Horton and Jemima Woods co-produce contemporary and commercial works. Combining creative writing, experimental styles, and avant-garde physicality, SLTC presents new, exciting, and innovative theatre works.         
+Secret Location is a North West-based, female-led, emerging theatre company. Directors Isobel Horton and Jemima Woods co-produce contemporary and commercial works. Combining creative writing, experimental styles, and avant-garde physicality, SLTC presents new, exciting, and innovative theatre.         
           
 Insta <a href="https://instagram.com/secretlocationtc" target="_blank">@secretlocationtc</a>          
 <hr>         
@@ -77,7 +77,7 @@ Paper People Theatre are an ensemble of three artists based in West Yorkshire, M
          
 Rosy Maple is the hardest-working moth in showbusiness.<br>Used to riding high as the only moth in Hollywood, Rosy's now on her uppers, touring smaller venues she's never heard of. She's determined to wow audiences with her stellar talent, cluelessly bringing Broadway-level energy to the stages of the North West with a big dose of silly, colourful fun.         
 
-Julie is a Manchester-based writer-performer who makes lo-fi, absurdist comedy. She's played an Aperol Spritz, a human tombola, and the entire city of Bruges. She's received multiple commissions to create short performances for Manchester cabaret and new writing nights, Word of Warning's Emergency and Haphazard, short filmed performances during lockdown, a new audio play, and twice been commissioned by Lowry. Also Resident Artist at Title Fight (monthly event at Grub produced by A Lovely Time), recently performed as a member of PISS SHY at Bonjour Claude’s first experimental performance night at Levy Old Library, and regularly performs at Eryn Tett’s night GMIM (last time she channelled an alien).           
+A Manchester-based writer-performer, Julie makes lo-fi, absurdist comedy. She's played an Aperol Spritz, a human tombola, and the entire city of Bruges. Julie's received multiple commissions to create short performances for Manchester cabaret and new writing nights, Word of Warning's Emergency and Haphazard, short filmed performances during lockdown, a new audio play, and twice been commissioned by Lowry. Also Resident Artist at Title Fight (monthly event at Grub produced by A Lovely Time), recently performed as a member of PISS SHY at Bonjour Claude's first experimental performance night at Levy Old Library, and regularly performs at Eryn Tett’s night GMIM (last time she channelled an alien).           
          
 Insta <a href="https://instagram.com/juliesusieb" target="_blank">@juliesusieb</a>          
 <hr>         
