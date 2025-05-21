@@ -33,21 +33,9 @@ Deep within the forest, the teddy bears are having a lovely time. Catch them una
          
 Insta <a href="https://instagram.com/benhodgeee" target="_blank">@benhodgeee</a>          
 <hr>         
-**Bitterroot** · *The Well*         
-         
-Deep in the desert lies a well. For some this is just a dream, for others this is life or death. As two men wander in search for water, you decide their fate.          
-         
-Insta <a href="https://instagram.com/bitterroot_theatre" target="_blank">@bitterroot_theatre</a>          
-<hr>         
 **Joely Mae Greally & Jasmine Naila Burt** · *Not Made To Last*         
          
 <a href="https://joelymaegreally.co.uk" target="_blank">joelymaegreally.co.uk</a> · Insta <a href="https://instagram.com/joelymaegreally" target="_blank">@joelymaegreally</a> <a href="https://instagram.com/j.a.z.z.m.n" target="_blank">@j.a.z.z.m.n</a>                   
-<hr>         
-**Julie Burrow** · *An Evening With Me, Rosy Maple*         
-         
-Rosy Maple is the hardest-working moth in showbusiness.<br>Used to riding high as the only moth in Hollywood, Rosy's now on her uppers, touring smaller venues she's never heard of. She's determined to wow audiences with her stellar talent, cluelessly bringing Broadway-level energy to the stages of the North West with a big dose of silly, colourful fun.         
-         
-Insta <a href="https://instagram.com/juliesusieb" target="_blank">@juliesusieb</a>          
 <hr>         
 **Lizzy Owen** · *[PAIN]ting*         
          
@@ -55,17 +43,29 @@ A visual and visceral interdisciplinary response to the turmoil of existing.<br>
                   
 Insta <a href="https://instagram.com/lizzyowenn" target="_blank">@lizzyowenn</a>          
 <hr>         
-**Paper People Theatre** · *The Opposite of Distance*         
+**Bitterroot** · *The Well*         
          
-*One night, a couple are attacked on the street, Sam appears to chase a mugger away, he returns to a devastated Molly cradling his bloodied corpse and realises he's dead… Oh wait — that's Ghost (1990). Well, one of us keeps dying. We've been apart for a while and things are feeling different. Come and see us try again after six years. Our bodies are different — it's taken a long time to grow together, like formations in a cave — we're here to re-emerge. How long does it take for stalagmites to form? I'm not sure we have that much time. One of us keeps dying. Please clap.*         
+Deep in the desert lies a well. For some this is just a dream, for others this is life or death. As two men wander in search for water, you decide their fate.          
          
-<a href="https://paperpeopletheatre.co.uk" target="_blank">paperpeopletheatre.co.uk</a> · Insta <a href="https://instagram.com/paperpeopletheatre" target="_blank">@paperpeopletheatre</a>          
+Insta <a href="https://instagram.com/bitterroot_theatre" target="_blank">@bitterroot_theatre</a>          
 <hr>         
 **Secret Location Theatre Company** · *Fragile*         
           
 An experimental work inspired by journal entries. Physically exploring sensitivity, Isobel asks: '*How do we fit into the world around us? How do we portray sensitivity to others? Am I too sensitive? Or is the world too cruel? Either way, how on earth do I cope?*'          
          
 Insta <a href="https://instagram.com/secretlocationtc" target="_blank">@secretlocationtc</a>          
+<hr>         
+**Paper People Theatre** · *The Opposite of Distance*         
+         
+*One night, a couple are attacked on the street, Sam appears to chase a mugger away, he returns to a devastated Molly cradling his bloodied corpse and realises he's dead… Oh wait — that's Ghost (1990). Well, one of us keeps dying. We've been apart for a while and things are feeling different. Come and see us try again after six years. Our bodies are different — it's taken a long time to grow together, like formations in a cave — we're here to re-emerge. How long does it take for stalagmites to form? I'm not sure we have that much time. One of us keeps dying. Please clap.*         
+         
+<a href="https://paperpeopletheatre.co.uk" target="_blank">paperpeopletheatre.co.uk</a> · Insta <a href="https://instagram.com/paperpeopletheatre" target="_blank">@paperpeopletheatre</a>          
+<hr>         
+**Julie Burrow** · *An Evening With Me, Rosy Maple*         
+         
+Rosy Maple is the hardest-working moth in showbusiness.<br>Used to riding high as the only moth in Hollywood, Rosy's now on her uppers, touring smaller venues she's never heard of. She's determined to wow audiences with her stellar talent, cluelessly bringing Broadway-level energy to the stages of the North West with a big dose of silly, colourful fun.         
+         
+Insta <a href="https://instagram.com/juliesusieb" target="_blank">@juliesusieb</a>          
 <hr>         
          
 #### Entry         
