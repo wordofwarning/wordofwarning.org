@@ -41,17 +41,17 @@ Insta <a href="https://instagram.com/bitterroot_theatre" target="_blank">@bitter
 <hr>         
 **Joely Mae Greally & Jasmine Naila Burt** · *Not Made To Last*         
          
-Insta <a href="https://instagram.com/joelymaegreally" target="_blank">@joelymaegreally</a> · <a href="https://instagram.com/j.a.z.z.m.n" target="_blank">@j.a.z.z.m.n</a>                   
+<a href="https://joelymaegreally.co.uk" target="_blank">joelymaegreally.co.uk</a> · Insta <a href="https://instagram.com/joelymaegreally" target="_blank">@joelymaegreally</a> <a href="https://instagram.com/j.a.z.z.m.n" target="_blank">@j.a.z.z.m.n</a>                   
 <hr>         
 **Julie Burrow** · *An Evening With Me, Rosy Maple*         
          
-Rosy Maple is the hardest-working moth in showbusiness. Used to riding high as the only moth in Hollywood, Rosy's now on her uppers, touring smaller venues she's never heard of. She's determined to wow audiences with her stellar talent, cluelessly bringing Broadway-level energy to the stages of the North West with a big dose of silly, colourful fun.         
+Rosy Maple is the hardest-working moth in showbusiness.<br>Used to riding high as the only moth in Hollywood, Rosy's now on her uppers, touring smaller venues she's never heard of. She's determined to wow audiences with her stellar talent, cluelessly bringing Broadway-level energy to the stages of the North West with a big dose of silly, colourful fun.         
          
 Insta <a href="https://instagram.com/juliesusieb" target="_blank">@juliesusieb</a>          
 <hr>         
 **Lizzy Owen** · *[PAIN]ting*         
          
-A visual and visceral interdisciplinary response to the turmoil of existing. How can music and paint explore notions of how we view ourselves? Can a conversation between these expose the realities that come with being in the world and our bodies out on display for judgement and perception? And how does this affect our own view of ourselves and our physical being? The body is on display for exposure and judgement.         
+A visual and visceral interdisciplinary response to the turmoil of existing.<br>How can music and paint explore notions of how we view ourselves?<br>Can a conversation between these expose the realities that come with being in the world and our bodies out on display for judgement and perception?<br>And how does this affect our own view of ourselves and our physical being?<br>The body is on display for exposure and judgement.         
                   
 Insta <a href="https://instagram.com/lizzyowenn" target="_blank">@lizzyowenn</a>          
 <hr>         
@@ -59,7 +59,7 @@ Insta <a href="https://instagram.com/lizzyowenn" target="_blank">@lizzyowenn</a>
          
 *One night, a couple are attacked on the street, Sam appears to chase a mugger away, he returns to a devastated Molly cradling his bloodied corpse and realises he's dead… Oh wait — that's Ghost (1990). Well, one of us keeps dying. We've been apart for a while and things are feeling different. Come and see us try again after six years. Our bodies are different — it's taken a long time to grow together, like formations in a cave — we're here to re-emerge. How long does it take for stalagmites to form? I'm not sure we have that much time. One of us keeps dying. Please clap.*         
          
-Insta <a href="https://instagram.com/paperpeopletheatre" target="_blank">@paperpeopletheatre</a>          
+<a href="https://paperpeopletheatre.co.uk" target="_blank">paperpeopletheatre.co.uk</a> · Insta <a href="https://instagram.com/paperpeopletheatre" target="_blank">@paperpeopletheatre</a>          
 <hr>         
 **Secret Location Theatre Company** · *Fragile*         
           
