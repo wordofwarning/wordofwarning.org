@@ -17,7 +17,7 @@ season: "Social Experiment 2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 15 May 2025</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 22 May 2025</small>          
          
 *Presented by* Word of Warning + Contact *as a semi-regular evening event.*         
          
@@ -32,7 +32,7 @@ If you're an audience member looking for something a little bit different — th
 (And if you're an HE Student artist based in the North West — there's an extra *Student Edition* on Thursday 5 June at Contact, please go <a href="https://studentedition.posthaven.com" target="_blank">here</a> for info.)         
          
 #### Artists        
-**[22 May](/socialexperiment/may2025)**<br>Ben&nbsp;Hodge&nbsp;· Bitterroot&nbsp;· Joely&nbsp;Mae&nbsp;Greally&nbsp;& Jasmine&nbsp;Naila&nbsp;Burt&nbsp;· Julie&nbsp;Burrow&nbsp;· Lizzy&nbsp;Owen&nbsp;· Paper&nbsp;People&nbsp;Theatre&nbsp;· Secret&nbsp;Location&nbsp;Theatre&nbsp;Company<br><small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*<small>         
+**22 May** — read their [programme notes](/socialexperiment/may2025).<br>Ben&nbsp;Hodge&nbsp;· Bitterroot&nbsp;· Joely&nbsp;Mae&nbsp;Greally&nbsp;& Jasmine&nbsp;Naila&nbsp;Burt&nbsp;· Julie&nbsp;Burrow&nbsp;· Lizzy&nbsp;Owen&nbsp;· Paper&nbsp;People&nbsp;Theatre&nbsp;· Secret&nbsp;Location&nbsp;Theatre&nbsp;Company<br><small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*<small>         
          
 *NB* participating artists are announced *about* a week before each event — the call for proposals is open on a rolling basis at <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>         
          
@@ -46,7 +46,7 @@ Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Co
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
           
-Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed [here](/warnings) *about* a week before each event.         
+Content Warnings: some works *may* involve interaction and/or participation; specific warnings listed [here](/warnings) *about* a week before each event.         
           
 Features: a small number of Live Art & contemporary performance works with varied content — to be confirmed *about* a week before each event.         
          
