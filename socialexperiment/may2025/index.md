@@ -35,9 +35,9 @@ Ben is 100% transfats. A comedian, host, performer, and facilitator — his work
          
 Insta <a href="https://instagram.com/benhodgeee" target="_blank">@benhodgeee</a>          
 <hr>         
-**Joely Mae Greally & Jasmine Naila Burt** · *Not Made To Last (Performance & Sound)*         
+**Joely Mae Greally & Jasmine Naila Burt** · *Not Made To Last (Performance & Sound, 2025)*         
 
-A neo-futurist work, where weary showgirls drift through disorienting gestures and layered sonic collages drawn from pop culture and personal archives. The performance traverses themes of unrequited love, pain, slowness, and idleness — offering a tender choreography of emotional residue and resistance.         
+A neo-futurist work, where weary showgirls drift through disorienting gestures and layered sonic collages drawn from pop culture and personal archives.<br>The performance traverses themes of unrequited love, pain, slowness, and idleness — offering a tender choreography of emotional residue and resistance.         
          
 Joely's practice is expansive, consulting mediums such as installation, sound, photography, moving image, printmaking, and performance as well as writing practices embodying fragmented and fictional romance rooted in truths. Her works attempt to be both fragmented, fabricated, natural, and erotic — and she uses opposition and polarity as a working tool.<br>Jasmine is a multidisciplinary visual and sound artist. Using her roots in playing bass guitar, exploring further into sonic landscapes using synthesisers, eclectic pop culture samples from the last century, and collected field recordings from day to day life. She's also a printmaker specialising in linoprinting, and enjoys seeing the links between creating layers of relief printing and creating layers of sound. Both visual and sonic mediums are intertwined and are an extension of each other.         
          
