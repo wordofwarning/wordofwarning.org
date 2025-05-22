@@ -17,7 +17,7 @@ season: "Social Experiment 22|5|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/may2025/#artists) · [programme](/socialexperiment/may2025/#programme) · [entry](/socialexperiment/may2025/#entry) · [access](/socialexperiment/may2025/#access) · [credits](/socialexperiment/may2025/#credits)</span>&ensp; <small>Updated 21 May 2025</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/may2025/#artists) · [programme](/socialexperiment/may2025/#programme) · [entry](/socialexperiment/may2025/#entry) · [access](/socialexperiment/may2025/#access) · [credits](/socialexperiment/may2025/#credits)</span>&ensp; <small>Updated 9.30am 22 May 2025</small>          
          
 *A [Social Experiment](/socialexperiment) on 22 May, presented by* Word of Warning + Contact         
          
@@ -35,8 +35,10 @@ Ben is 100% transfats. A comedian, host, performer, and facilitator — his work
          
 Insta <a href="https://instagram.com/benhodgeee" target="_blank">@benhodgeee</a>          
 <hr>         
-**Joely Mae Greally & Jasmine Naila Burt** · *Not Made To Last*         
+**Joely Mae Greally & Jasmine Naila Burt** · *Not Made To Last (Performance & Sound)*         
 
+A neo-futurist work, where weary showgirls drift through disorienting gestures and layered sonic collages drawn from pop culture and personal archives. The performance traverses themes of unrequited love, pain, slowness, and idleness — offering a tender choreography of emotional residue and resistance.         
+         
 Joely's practice is expansive, consulting mediums such as installation, sound, photography, moving image, printmaking, and performance as well as writing practices embodying fragmented and fictional romance rooted in truths. Her works attempt to be both fragmented, fabricated, natural, and erotic — and she uses opposition and polarity as a working tool.<br>Jasmine is a multidisciplinary visual and sound artist. Using her roots in playing bass guitar, exploring further into sonic landscapes using synthesisers, eclectic pop culture samples from the last century, and collected field recordings from day to day life. She's also a printmaker specialising in linoprinting, and enjoys seeing the links between creating layers of relief printing and creating layers of sound. Both visual and sonic mediums are intertwined and are an extension of each other.         
          
 <a href="https://joelymaegreally.co.uk" target="_blank">joelymaegreally.co.uk</a> · Insta <a href="https://instagram.com/joelymaegreally" target="_blank">@joelymaegreally</a> <a href="https://instagram.com/j.a.z.z.m.n" target="_blank">@j.a.z.z.m.n</a>                   
