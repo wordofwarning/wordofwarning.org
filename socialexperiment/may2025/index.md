@@ -17,7 +17,7 @@ season: "Social Experiment 22|5|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/may2025/#artists) · [programme](/socialexperiment/may2025/#programme) · [entry](/socialexperiment/may2025/#entry) · [access](/socialexperiment/may2025/#access) · [credits](/socialexperiment/may2025/#credits)</span>&ensp; <small>Updated 9.30am 22 May 2025</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/may2025/#artists) · [programme](/socialexperiment/may2025/#programme) · [entry](/socialexperiment/may2025/#entry) · [access](/socialexperiment/may2025/#access) · [credits](/socialexperiment/may2025/#credits)</span>&ensp; <small>Updated 12.30pm 22 May 2025</small>          
          
 *A [Social Experiment](/socialexperiment) on 22 May, presented by* Word of Warning + Contact         
          
@@ -87,14 +87,14 @@ Insta <a href="https://instagram.com/juliesusieb" target="_blank">@juliesusieb</
 #### Entry         
 FREE: there's no ticketing… just turn up!         
          
-Time: Thursday 22 May 2025, 6pm onwards (ends *by about* 9pm).         
+Time: Thursday 22 May 2025, 6pm onwards (ends *about* 9pm).         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester M15 6JA.         
          
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
           
-Content Warnings: some works involve interaction and/or participation; specific warnings will be listed [here](/warnings).         
+Content Warnings: some works involve interaction and/or participation; specific warnings listed [here](/warnings).         
           
 Features: seven Live Art & contemporary performance works with varied content.         
          
