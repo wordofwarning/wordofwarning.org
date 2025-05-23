@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 20 May 2025<small>        
+<small>Updated 23 May 2025<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>(Please click [here](/archive/warnings) for *past* events and *archived* livestreams on our YouTube channel.)         
          
@@ -20,11 +20,11 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 <hr>         
 #### 2025         
          
-##### [22 May. Contact | Social Experiment](/socialexperiment)          
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings follow…<br>&nbsp;Ben Hodge — occurs in an enclosed space; themes of a sexual nature.<br>&nbsp;Bitterroot — audience participation; climate anxiety.<br>&nbsp;Julie Burrow — audience interaction; references drug use and sex.<br>&nbsp;Lizzy Owen — includes loud noise.<br>&nbsp;Paper People Theatre — references to death.          
-         
 ##### [29 May. Company Chameleon | *We're Here Because They Were* by Fabíola Santana](/current/2025/santana)          
-Age Advisory: 14+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: deals with social construct of race and colonial histories/troubles; references body shaming.
-
+Age Advisory: 14+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: deals with social construct of race and colonial histories/troubles; references body shaming.         
+         
 ##### [17 Jul. Contact | Social Experiment](/socialexperiment)          
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed here *about* a week before. 
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed here *about* a week before.         
+         
+##### [27 Nov. Contact | Social Experiment](/socialexperiment)          
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed here *about* a week before.
