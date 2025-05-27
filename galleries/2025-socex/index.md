@@ -14,12 +14,12 @@ gallery:
     -   {file: "titlepage.jpg", artist: "<small><i>A new gathering for Live Art and contemporary performance.</i></small>"}
     -   {file: "ben_hodge1.jpg", artist: "Ben Hodge (May 2025)"}
     -   {file: "ben_hodge2.jpg", artist: "Ben Hodge (May 2025)"}
-    -   {file: "j+j1.jpg", artist: "Joely Mae Greally & Jasmine Naila Burt (May 2025)""}
-    -   {file: "j+j2.jpg", artist: "Joely Mae Greally & Jasmine Naila Burt (May2025)"}
+    -   {file: "joely_jasmine1.jpg", artist: "Joely Mae Greally & Jasmine Naila Burt (May 2025)""}
+    -   {file: "joely_jasmine2.jpg", artist: "Joely Mae Greally & Jasmine Naila Burt (May 2025)"}
     -   {file: "lizzy_owen1.jpg", artist: "Lizzy Owen (May 2025)""}
-    -   {file: "lizzy_owen2.jpg", artist: "Lizzy Owen (May2025)"}
-    -   {file: "bitteroot1.jpg", artist: "Bitteroot (May2025)"}
-    -   {file: "bitteroot2.jpg", artist: "Bitteroot (May2025)"}
+    -   {file: "lizzy_owen2.jpg", artist: "Lizzy Owen (May 2025)"}
+    -   {file: "bitteroot1.jpg", artist: "Bitteroot (May 2025)"}
+    -   {file: "bitteroot2.jpg", artist: "Bitteroot (May 2025)"}
     -   {file: "secret_location1.jpg", artist: "Secret Location (May 2025)"}
     -   {file: "secret_location2.jpg", artist: "Secret Location (May 2025)"}
     -   {file: "paper_people1.jpg", artist: "Paper People Theatre(May 2025)"}
