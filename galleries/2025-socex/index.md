@@ -25,7 +25,7 @@ gallery:
     -   {file: "paper_people1.jpg", artist: "Paper People Theatre(May 2025)"}
     -   {file: "paper_people2.jpg", artist: "Paper People Theatre (May 2025)"}
     -   {file: "julie_burrow1.jpg", artist: "Julie Burrow (May 2025)"}
-    -   {file: "julie_burrow1.jpg", artist: "Julie Burrow (May 2025)"}
+    -   {file: "julie_burrow2.jpg", artist: "Julie Burrow (May 2025)"}
     -   {file: "Harley Keasey1.jpg", artist: "Harley Keasey (Feb 2025)"}
     -   {file: "Harley Keasey2.jpg", artist: "Harley Keasey (Feb 2025)"}
     -   {file: "Rachael Gooch 1.jpg", artist: "Rachael Gooch (Feb 2025)"}
