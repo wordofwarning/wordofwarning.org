@@ -18,5 +18,5 @@ gallery:
     -   {file: "dais_leach.jpg", artist: "Dais Leach"}
     -   {file: "emmy_lahouel.jpg", artist: "Emmy Lahouel (Meraki Collective)"}
     -   {file: "rachel_li.jpg", artist: "Rachel Yan Ting Li"}
-    -   {file: "maelstrom.jpeg", artist: "Maelstrom Theatre"}
+    -   {file: "maelstrom.jpg", artist: "Maelstrom Theatre"}
 ---
