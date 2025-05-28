@@ -6,7 +6,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Social Experiment: Student Edition" # the name of the artist or company
 show: "5 June 2025 Programme" # the name of the show
-artist_size: 1
+artist_size: 2
 show_size: 4
 header_image: "header_socex.jpg"  
 season: "Social Experiment: Student Edition 5|6|2025, Programme"
