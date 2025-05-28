@@ -17,7 +17,7 @@ season: "Fabíola Santana 29|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/santana/#entry) · [access](/current/2025/santana/#access) · [workshop](/current/2025/santana/#workshop) · [artists](/current/2025/santana/#artists) · [credits](/current/2025/santana/#credits) · [websites](/current/2025/santana/#websites)</span>&ensp; <small>Updated 23 May 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/santana/#entry) · [access](/current/2025/santana/#access) · [workshop](/current/2025/santana/#workshop) · [artists](/current/2025/santana/#artists) · [credits](/current/2025/santana/#credits) · [websites](/current/2025/santana/#websites)</span>&ensp; <small>Updated 28 May 2025</small>        
            
 *Presented by* Word of Warning *at* Company Chameleon         
          
@@ -45,7 +45,7 @@ Age Advisory: 14+ (parent/guardian/carer discretion).
          
 Content Warnings: please click [here](/warnings).         
         
-Features: a contemporary dance performance work with varied content including spoken English and Portuguese language; occurs in Studio 1 on the ground floor, a studio space with raked seating.         
+Features: a contemporary dance performance work with varied content including spoken & sung Cape Verdean Creole, English, Portuguese, and Umbundu; occurs in Studio 1 on the ground floor, a studio space with raked seating.         
          
 Queries: please contact Word of Warning via <mailto:info@habmcr.com>        
          
@@ -58,6 +58,8 @@ Fabíola is an interdisciplinary Afro-Portuguese Liverpool-based artist. With a 
 Jessica Morgado is an emerging Cambridge-based dance artist. As a dancer and international collaborator her works include: *WRESTLELADSWRESTLE* by Jennifer Jackson Company (Cambridge); [Turn 2024](/archive/2024-turn) with Fabíola Santana (Manchester); Company MARRAFA (Brussels); *HOME* by Luís Marrafa (Dilbeek, Belgium); *Rebuild* by Iolanda Rodrigues and Marina Sacramento (Portugal); *Oi-to* by Lia Vohlgemuth and Nuno Santos (Portugal).         
          
 WilL Dickie is an interdisciplinary artist whose works have received nationwide support and toured to over forty UK venues including: Southbank Centre, The Place (London), and In Between Time (Bristol). His recent show *White Sun* had its international premiere in Boorloo—Perth (Australia) as part of The Blue Room Theatre’s Summer Nights during Fringe World Festival 2025. *White Sun* was first developed in Works Ahead [2020](/archive/2020-spring/dickie)-[2022](/archive/2022-worksahead/dickie), commissioned by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>. His collaborative credits include choreography for Hanna Tuulikki; movement director at Regents Park Open Air Theatre; director of *A Home for Grief* by Fabíola Santana.         
+           
+This project has involved a series of workshops with participants who identify with the themes. Their responses have been beautiful, tender, and evocative of landscapes of those from the Global Ethnic Majority. The team intends to weave them into the work's future development.         
          
 #### Credits         
 Created & performed by Fabíola Santana<br>Devised & performed by Jessica Morgado<br>Directed by WilL Dickie<br>Dramaturgy by Kaite O'Reilly<br>Choreographed by WilL Dickie in collaboration with Fabíola Santana & Jessica Morgado<br>Sound design by WilL Dickie<br>Lighting design by Andrew Crofts<br>Costume design by Miss Lei-Lei<br>Creative therapy support & collaboration by Claire Beerjeraz         
