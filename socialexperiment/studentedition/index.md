@@ -96,6 +96,6 @@ Features: six Live Art & contemporary performance works with varied content.
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### Credits          
-Social Experiment: Student Edition (June 2025) is curated and produced by The Producing Group from MMU's MA Performance Degree Programme, under the mentorship of [hÅb](/hab); supportd by hÅb, Contact and Manchester Metropolitan University.         
+Social Experiment: Student Edition (June 2025) is curated and produced by The Producing Group from MMU's MA Performance Degree Programme, under the mentorship of [hÅb](/hab); supported by hÅb, Contact and Manchester Metropolitan University.         
          
 <small><span style='font-variant: small-caps'>[back to top](/socialexperiment/studentedition)</span></small>
