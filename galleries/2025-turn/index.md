@@ -19,4 +19,5 @@ gallery:
     -   {file: "emmy_lahouel.jpg", artist: "Emmy Lahouel (Meraki Collective)"}
     -   {file: "rachel_li.jpg", artist: "Rachel Yan Ting Li"}
     -   {file: "maelstrom.jpg", artist: "Maelstrom Theatre"}
+    -   {file: "umami.jpg", artist: "UMAMI-i!-MOVEMENT"}
 ---
