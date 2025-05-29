@@ -17,19 +17,23 @@ season: "Social Experiment 2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 23 May 2025</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 29 May 2025</small>          
          
 *Presented by* Word of Warning + Contact *as a semi-regular evening event.*         
          
 **Social Experiment** is a new gathering at <a href="https://contactmcr.com" target="_blank">Contact</a> for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
           
 A free and informal, semi-regular evening event with the **next on Thursday 17 July from 6pm to 9pm**. Subsequent is Thursday 27 November, with 2026 dates tba. Previous events were held on [6 February](/socialexperiment/feb2025) & [22 May](/socialexperiment/may2025), see some [images](/galleries/2025-socex).         
+
+**EXTRA** — join us for a special [Student Edition](/socialexperiment/studentedition) on **Thursday 5 June from 6pm**.         
          
 If you're a Greater Manchester artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
          
 If you're an audience member looking for something a little bit different — this is your chance to take a few risks & meet some artists in our social experiment.         
          
 #### Artists        
+**5 Jun** Student Edition — Amelia&nbsp;Grace&nbsp;· Dana&nbsp;Potter&nbsp;· Gin&nbsp;Niemtus&nbsp;· Isla&nbsp;Webster&nbsp;& Gabrielle&nbsp;Kaufman&nbsp;· Oscar&nbsp;Dickson&nbsp;· Will&nbsp;Oliver —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/studentedition).<br><small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*</small>         
+          
 **22 May** — Ben&nbsp;Hodge&nbsp;· Bitterroot&nbsp;· Joely&nbsp;Mae&nbsp;Greally&nbsp;& Jasmine&nbsp;Naila&nbsp;Burt&nbsp;· Julie&nbsp;Burrow&nbsp;· Lizzy&nbsp;Owen&nbsp;· Paper&nbsp;People&nbsp;Theatre&nbsp;· Secret&nbsp;Location&nbsp;Theatre&nbsp;Company —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/may2025).         
          
 **6 Feb** — Harley&nbsp;Keasey&nbsp;· J.&nbsp;Edgar&nbsp;Staubsauger&nbsp;· Rachael&nbsp;Gooch&nbsp;· Ray&nbsp;Bubbles&nbsp;· plus&nbsp;special&nbsp;guests Malandra&nbsp;Jacks —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/feb2025).          
@@ -39,6 +43,7 @@ If you're an audience member looking for something a little bit different — th
 #### Entry         
 FREE: there's no ticketing… just turn up!         
          
+Student Edition: Thursday 5 June 2025, from 6pm to *about* 8.15pm.          
 Future Dates: Thursdays 17 July and 27 November 2025.<br>Time: 6pm onwards (each event ends *by about* 9pm).         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester M15 6JA.         
