@@ -53,7 +53,7 @@ Insta <a href="https://instagram.com/lia.attempt" target="_blank">@lia.attempt</
 <hr>         
 **Oscar Dickson** · *·µ∂…£¬§‚â†Œ≤¬øx{¬§ (call it lamps)*         
             
-Choreographer and Dramaturg Oscar Dickson presents a solo performance centred around the sensations of tourettes. In collaboration with sound design artists Ethan Siddons and Toby Fletcher, this piece combines sound and choreography to recreate the experience of someone living with tourettes. With the support of @touretteshero and their Department of Wonder and Play: Beyond Borders, Oscar is able to create a multi-sensory story that explores different types of tics and how tics impact the body.            
+Choreographer and Dramaturg Oscar Dickson presents a solo performance centred around the sensations of tourettes. In collaboration with sound design artists Ethan Siddons and Toby Fletcher, this piece combines sound and choreography to recreate the experience of someone living with tourettes.<br>With the support of @touretteshero and their Department of Wonder and Play: Beyond Borders, Oscar is able to create a multi-sensory story that explores different types of tics and how tics impact the body.            
           
 Oscar is a soon-to-be graduate from Manchester Met (BA Hons) in Drama and Contemporary Performance. Their work specialises in choreography and dance, often combining different genres of dance or elements of multimedia. Their work as a queer artist, while not as prevalent in this piece, reclaims the virtue and presence of queer and trans bodies through choreography and through drag.         
              
@@ -80,7 +80,7 @@ Insta <a href="https://instagram.com/foraneye.show" target="_blank">@foraneye.sh
 #### Entry         
 FREE: there's no ticketing… just turn up!         
          
-Time: Thursday 6 June 2025, 6pm onwards (ends *about* 8.15pm).         
+Time: Thursday 5 June 2025, 6pm onwards (ends *about* 8.15pm).         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester M15 6JA.         
          
@@ -96,6 +96,6 @@ Features: six Live Art & contemporary performance works with varied content.
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### Credits          
-[Social Experiment](/socialexperiment): Student Edition (June 2025) is curated and produced by The Producing Group from MMU's MA Performance Degree Programme under the mentorship of [hÅb](/hab); supported by hÅb, <a href="https://contactmcr.com" target="_blank">Contact</a>, and Manchester Metropolitan University.         
+[Social Experiment](/socialexperiment): Student Edition (June 2025) is curated and produced by The Producing Group from MMU's MA Performance Degree Programme, under the mentorship of [hÅb](/hab); supported by hÅb, <a href="https://contactmcr.com" target="_blank">Contact</a>, and Manchester Metropolitan University.         
          
 <small><span style='font-variant: small-caps'>[back to top](/socialexperiment/studentedition)</span></small>
