@@ -22,7 +22,7 @@ gallery:
     -   {file: "bitteroot2.jpg", artist: "Bitteroot (May 2025)"}
     -   {file: "secret_location1.jpg", artist: "Secret Location (May 2025)"}
     -   {file: "secret_location2.jpg", artist: "Secret Location (May 2025)"}
-    -   {file: "paper_people1.jpg", artist: "Paper People Theatre(May 2025)"}
+    -   {file: "paper_people1.jpg", artist: "Paper People Theatre (May 2025)"}
     -   {file: "paper_people2.jpg", artist: "Paper People Theatre (May 2025)"}
     -   {file: "julie_burrow1.jpg", artist: "Julie Burrow (May 2025)"}
     -   {file: "julie_burrow2.jpg", artist: "Julie Burrow (May 2025)"}
