@@ -55,7 +55,7 @@ Insta <a href="https://instagram.com/lia.attempt" target="_blank">@lia.attempt</
             
 Choreographer and Dramaturg Oscar Dickson presents a solo performance centred around the sensations of tourettes. In collaboration with sound design artists Ethan Siddons and Toby Fletcher, this piece combines sound and choreography to recreate the experience of someone living with tourettes.<br>With the support of @touretteshero and their Department of Wonder and Play: Beyond Borders, Oscar is able to create a multi-sensory story that explores different types of tics and how tics impact the body.            
           
-Oscar is a soon-to-be graduate from Manchester Met (BA Hons) in Drama and Contemporary Performance. Their work specialises in choreography and dance, often combining different genres of dance or elements of multimedia. Their work as a queer artist, while not as prevalent in this piece, reclaims the virtue and presence of queer and trans bodies through choreography and through drag.         
+Oscar is a soon-to-be graduate from Manchester Met (BA Hons) in Drama and Contemporary Performance. His work specialises in choreography and dance, often combining different genres of dance or elements of multimedia. His work as a queer artist, while not as prevalent in this piece, reclaims the virtue and presence of queer and trans bodies through choreography and through drag.         
              
 Insta <a href="https://instagram.com/oscar.iain.creates" target="_blank">@oscar.iain.creates</a>          
 <hr>         
