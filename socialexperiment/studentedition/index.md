@@ -22,7 +22,7 @@ season: "Social Experiment: Student Edition 5|6|2025, Programme"
 *A Student Edition of [Social Experiment](/socialexperiment) on 5 June, presented by* The Producing Group, Word of Warning + Contact         
          
 #### Artists        
-Amelia&nbsp;Grace&nbsp;· Dana&nbsp;Potter&nbsp;· Gin&nbsp;Niemtus&nbsp;· Isla&nbsp;Webster&nbsp;& Gabrielle&nbsp;Kaufman&nbsp;· Oscar&nbsp;Dickson&nbsp;· Will&nbsp;Oliver<br><small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*</small>         
+Amelia&nbsp;Grace&nbsp;· Dana&nbsp;Potter&nbsp;· GIN&nbsp;Niemtus&nbsp;· Isla&nbsp;Webster&nbsp;& Gabrielle&nbsp;Kaufman&nbsp;· Oscar&nbsp;Dickson&nbsp;· Will&nbsp;Oliver<br><small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*</small>         
          
 #### Programme        
 This Student Edition kicks off at 6pm… and finishes *about* 8.15pm.        
