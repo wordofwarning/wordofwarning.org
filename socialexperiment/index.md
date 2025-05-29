@@ -32,7 +32,7 @@ If you're a Greater Manchester artist — this is your <a href="https://socialex
 If you're an audience member looking for something a little bit different — this is your chance to take a few risks & meet some artists in our social experiment.         
          
 #### Artists        
-**5 June: Student Edition** — Amelia&nbsp;Grace&nbsp;· Dana&nbsp;Potter&nbsp;· Gin&nbsp;Niemtus&nbsp;· Isla&nbsp;Webster&nbsp;& Gabrielle&nbsp;Kaufman&nbsp;· Oscar&nbsp;Dickson&nbsp;· Will&nbsp;Oliver —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/studentedition).&ensp; <small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*</small>         
+**5 June: Student Edition** — Amelia&nbsp;Grace&nbsp;· Dana&nbsp;Potter&nbsp;· GIN&nbsp;Niemtus&nbsp;· Isla&nbsp;Webster&nbsp;& Gabrielle&nbsp;Kaufman&nbsp;· Oscar&nbsp;Dickson&nbsp;· Will&nbsp;Oliver —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/studentedition).&ensp; <small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*</small>         
           
 **22 May** — Ben&nbsp;Hodge&nbsp;· Bitterroot&nbsp;· Joely&nbsp;Mae&nbsp;Greally&nbsp;& Jasmine&nbsp;Naila&nbsp;Burt&nbsp;· Julie&nbsp;Burrow&nbsp;· Lizzy&nbsp;Owen&nbsp;· Paper&nbsp;People&nbsp;Theatre&nbsp;· Secret&nbsp;Location&nbsp;Theatre&nbsp;Company —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/may2025).         
          
