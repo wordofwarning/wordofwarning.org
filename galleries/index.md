@@ -63,4 +63,4 @@ archived:
 ---
 
 # Galleries     
-See images from our previous events below…&ensp; <small>Updated 7 February 2025<small>
+See images from our previous events below…&ensp; <small>Updated 29 May 2025<small>
