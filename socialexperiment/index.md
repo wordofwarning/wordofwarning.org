@@ -21,22 +21,22 @@ season: "Social Experiment 2025"
          
 *Presented by* Word of Warning + Contact *as a semi-regular evening event.*         
          
+**NEW**: join us for a special [Student Edition](/socialexperiment/studentedition) on **Thursday 5 June from 6pm**.         
+         
 **Social Experiment** is a new gathering at <a href="https://contactmcr.com" target="_blank">Contact</a> for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
           
 A free and informal, semi-regular evening event with the **next on Thursday 17 July from 6pm to 9pm**. Subsequent is Thursday 27 November, with 2026 dates tba. Previous events were held on [6 February](/socialexperiment/feb2025) & [22 May](/socialexperiment/may2025), see some [images](/galleries/2025-socex).         
-
-**Extra**: join us for a special [Student Edition](/socialexperiment/studentedition) on **Thursday 5 June from 6pm**.         
          
 If you're a Greater Manchester artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
          
 If you're an audience member looking for something a little bit different — this is your chance to take a few risks & meet some artists in our social experiment.         
          
 #### Artists        
-**5 June**: Student Edition — Amelia&nbsp;Grace&nbsp;· Dana&nbsp;Potter&nbsp;· Gin&nbsp;Niemtus&nbsp;· Isla&nbsp;Webster&nbsp;& Gabrielle&nbsp;Kaufman&nbsp;· Oscar&nbsp;Dickson&nbsp;· Will&nbsp;Oliver —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/studentedition).&ensp; <small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*</small>         
+**5 June: Student Edition** — Amelia&nbsp;Grace&nbsp;· Dana&nbsp;Potter&nbsp;· Gin&nbsp;Niemtus&nbsp;· Isla&nbsp;Webster&nbsp;& Gabrielle&nbsp;Kaufman&nbsp;· Oscar&nbsp;Dickson&nbsp;· Will&nbsp;Oliver —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/studentedition).&ensp; <small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*</small>         
           
 **22 May** — Ben&nbsp;Hodge&nbsp;· Bitterroot&nbsp;· Joely&nbsp;Mae&nbsp;Greally&nbsp;& Jasmine&nbsp;Naila&nbsp;Burt&nbsp;· Julie&nbsp;Burrow&nbsp;· Lizzy&nbsp;Owen&nbsp;· Paper&nbsp;People&nbsp;Theatre&nbsp;· Secret&nbsp;Location&nbsp;Theatre&nbsp;Company —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/may2025).         
          
-**6 February** — Harley&nbsp;Keasey&nbsp;· J.&nbsp;Edgar&nbsp;Staubsauger&nbsp;· Rachael&nbsp;Gooch&nbsp;· Ray&nbsp;Bubbles&nbsp;· plus&nbsp;special&nbsp;guests Malandra&nbsp;Jacks —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/feb2025).          
+**6 February** — Harley&nbsp;Keasey&nbsp;· J.&nbsp;Edgar&nbsp;Staubsauger&nbsp;· Rachael&nbsp;Gooch&nbsp;· Ray&nbsp;Bubbles&nbsp;· special&nbsp;guests Malandra&nbsp;Jacks —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/feb2025).          
          
 *NB* participating artists are announced *about* a week before each event — the call for proposals is open on a rolling basis at <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>         
          
