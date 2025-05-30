@@ -16,7 +16,7 @@ season: "Haphazard by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---         
-<small>Updated 17 April 2025</small>        
+<small>Updated 30 May 2025</small>        
         
 **Haphazard** is our frequent foray into 'all ages' Live Art, with intriguing images and offbeat oddities dotted around and about Hulme's historic <a href="https://z-arts.org/about-us" target="_blank">Z-arts</a> building.        
          
@@ -26,8 +26,8 @@ Playful, quirky, engaging, and sometimes plain daft: this is Live Art for kids a
          
 Get a feel for it with [2024's programme](/archive/2024-haphazard/programme) and [gallery of images](/galleries/2024-haphazard) — also watch our <a href="https://youtu.be/sgw9SjPdCw0" target="_blank">short video</a> to see some of what's gone before.         
          
-#### Haphazard 2025 Call for Proposals is Now Open        
-Artists are <a href="https://haphazard.posthaven.com" target="_blank">now invited to submit proposals</a> for inclusion in this event:<br>this is not Live Art for children, but Live Art for ALL AGES — and we mean from tot to timeworn, 8 months to 80 years — so work should have appeal for adults and children alike (even if the kids need to explain it to the adults!)          
+#### Haphazard 2025 Call for Proposals Closed on 30 May at 5pm        
+Artists <a href="https://haphazard.posthaven.com" target="_blank">were invited to submit proposals</a> for inclusion in this event:<br>this is not Live Art for children, but Live Art for ALL AGES — and we mean from tot to timeworn, 8 months to 80 years — so work should have appeal for adults and children alike (even if the kids need to explain it to the adults!)          
           
 **If you'd like to hear more about what we think works for Haphazard have a look at the <a href="https://youtu.be/2PncCQ7-YSs" target="_blank">recording of the Info Session we held on 16 April</a>.**        
           
