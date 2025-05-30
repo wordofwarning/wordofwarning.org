@@ -16,7 +16,7 @@ season: "Turn by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 24 April 2025</small>        
+<small>Updated 30 May 2025</small>        
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester every spring.    
              
@@ -49,7 +49,7 @@ North West England† dancers and dance-makers (*aged 18+*) <a href="http://turn
 #### Turn Prize 2024         
 On 30 April 2024 we were delighted to announce **Fabíola Santana** and **Louiseanne Wong** as the recipients of the Turn Prize [2024](/archive/2024-turn).<br>The Turn Prize is a commission for the development of work shown at Turn by North West-based dance-makers.         
          
-**Fabíola Santana** showed a work in progress of *We're Here Because They Were* on 23 April 2025 at <a href="https://unitytheatreliverpool.co.uk/whats-on/were-here-because-they-were" target="_blank">Unity Theatre Liverpool</a> — and will show *WHBTW* again on Thursday 29 May 2025, 7.30pm at [Company Chameleon, Manchester](/current/2025/santana).         
+**Fabíola Santana** showed a work in progress of *We're Here Because They Were* at <a href="https://unitytheatreliverpool.co.uk/whats-on/were-here-because-they-were" target="_blank">Unity Theatre, Liverpool</a> on 23 April 2025 and at [Company Chameleon](/current/2025/santana) on 29 May 2025.         
          
 **Louiseanne Wong** showed a preview of *I Am. Am I* on 12 February 2025 in the <a href="https://thelowry.com/pQW3zUL/horizons-collective-showcase" target="_blank">Horizons Collective Showcase</a> at <a href="https://thelowry.com/whats-on/336//horizons-collective-showcase" target="_blank">Lowry</a>.         
          
