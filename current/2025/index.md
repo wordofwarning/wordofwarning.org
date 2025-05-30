@@ -8,9 +8,9 @@ artist_size: 1
 season: "Performance Programme 2025"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 29 May 2025</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 30 May 2025</small>        
          
-*2025 has so far seen two new [Social Experiments](/socialexperiment), [Kellie Colbert](/current/2025/colbert)'s dedication of love, [Turn](/current/2025-turn)'s whirlwind of dance, and a pair of [Works Ahead](/current/2025-worksahead) — we continue with [Fabíola Santana](/current/2025/santana)'s movement ritual of care and resilience at <a href="https://companychameleon.com/contact" target="_blank">Company Chameleon</a> (29 May), a special [Student Edition](/socialexperiment/studentedition) of Social Experiment at <a href="https://contactmcr.com" target="_blank">Contact</a> (5 June), and another [Social Experiment](/socialexperiment) at <a href="https://contactmcr.com" target="_blank">Contact</a> (17 July)*          
+*2025 has so far seen two new [Social Experiments](/socialexperiment), [Kellie Colbert](/current/2025/colbert)'s dedication of love, [Turn](/current/2025-turn)'s whirlwind of dance, a pair of [Works Ahead](/current/2025-worksahead), and [Fabíola Santana](/current/2025/santana)'s movement ritual — we continue with a special [Student Edition](/socialexperiment/studentedition) of Social Experiment at <a href="https://contactmcr.com" target="_blank">Contact</a> (5 June) and another [Social Experiment](/socialexperiment) at <a href="https://contactmcr.com" target="_blank">Contact</a> (17 July), with more to be announced…*          
          
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
