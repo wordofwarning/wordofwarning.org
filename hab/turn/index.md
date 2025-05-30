@@ -51,8 +51,8 @@ On 30 April 2024 we were delighted to announce **Fabíola Santana** and **Louise
          
 **Fabíola Santana** showed a work in progress of *We're Here Because They Were* at <a href="https://unitytheatreliverpool.co.uk/whats-on/were-here-because-they-were" target="_blank">Unity Theatre, Liverpool</a> on 23 April 2025 and at [Company Chameleon](/current/2025/santana) on 29 May 2025.         
          
-**Louiseanne Wong** showed a preview of *I Am. Am I* on 12 February 2025 in the <a href="https://thelowry.com/pQW3zUL/horizons-collective-showcase" target="_blank">Horizons Collective Showcase</a> at <a href="https://thelowry.com/whats-on/336//horizons-collective-showcase" target="_blank">Lowry</a>.         
+**Louiseanne Wong** showed a preview of *I Am. Am I* in the <a href="https://thelowry.com/pQW3zUL/horizons-collective-showcase" target="_blank">Horizons Collective Showcase</a> at <a href="https://thelowry.com/whats-on/336//horizons-collective-showcase" target="_blank">Lowry</a> on 12 February 2025.         
          
 Turn Prize 2024 supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> using public funding by Arts Council England, and by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>.          
          
-Image: UMAMI-i!-MOVEMENT, due to perform in [Turn 2025](/current/2025-turn) at Contact, by Joel Chester Fildes
+Image: UMAMI-i!-MOVEMENT, who performed in [Turn 2025](/current/2025-turn) at Contact, by Joel Chester Fildes
