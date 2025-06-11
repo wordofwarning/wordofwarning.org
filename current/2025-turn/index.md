@@ -17,13 +17,13 @@ season: "Turn 4|4|2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [programme](/current/2025-turn/programme) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 4 April 2025</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [programme](/current/2025-turn/programme) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 11 June 2025</small>        
         
-*Presented by* Word of Warning *+* Contact<br>***NB* this event is sold-out**.        
+*Presented by* Word of Warning *+* Contact&ensp; ***NB* this event is sold-out**.        
         
 Our annual whirlwind of new North West dance returns to <a href="https://contactmcr.com" target="_blank">Contact</a>, taking over the building with eight short dance-works on **Friday 4 April from 7pm**.         
          
-Look at some of our [artists' images](/galleries/2025-turnpre/) and read their [programme notes](/current/2025-turn/programme).         
+Look at some of our [artists' images](/galleries/2025-turnpre/) & read their [programme notes](/current/2025-turn/programme) — and now it's over, see [images from the event](/galleries/2025-turn).         
          
 Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn&nbsp;2025 transport you into a frenzy of dance…         
          
