@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 30 May 2025<small>        
+<small>Updated 11 June 2025<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>(Please click [here](/archive/warnings) for *past* events and *archived* livestreams on our YouTube channel.)         
          
@@ -20,11 +20,12 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 <hr>         
 #### 2025         
          
-##### [5 Jun. Contact | Social Experiment: Student Edition](/socialexperiment/studentedition)          
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction and/or participation; specific warnings follow…<br>&nbsp;Amelia Grace— strong language; audience participation; themes of identity and objectification.<br>&nbsp;Dana Potter — discusses issues of race.<br>&nbsp;GIN Niemtus — references abuse, domestic violence, and mental health issues; loud noises.<br>&nbsp;Isla Webster & Gabrielle Kaufman — flashing lights; loud music; depictions of pain; distressing scenes surrounding gender dysphoria; use of masks; body alteration.<br>&nbsp;Oscar Dickson — audience participation; flashing lights; unsettling sounds; portrayals of tics.<br>&nbsp;Will Oliver — use of blood and injury detail; audience interaction; loud noises.         
-          
 ##### [17 Jul. Contact | Social Experiment](/socialexperiment)          
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed here *about* a week before.         
+
+##### 2 Aug. Z-arts | Haphazard 2025          
+Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Content Warnings: some works will involve interaction and/or participation; specific warnings will be listed here *about* a month before.         
+
          
 ##### [27 Nov. Contact | Social Experiment](/socialexperiment)          
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed here *about* a week before.
