@@ -17,12 +17,12 @@ season: "Social Experiment 6|2|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/feb2025/#artists) · [programme](/socialexperiment/feb2025/#programme) · [entry](/socialexperiment/feb2025/#entry) · [access](/socialexperiment/feb2025/#access) · [credits](/socialexperiment/feb2025/#credits)</span>&ensp; <small>Updated 7 February 2025</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/feb2025/#artists) · [programme](/socialexperiment/feb2025/#programme) · [entry](/socialexperiment/feb2025/#entry) · [access](/socialexperiment/feb2025/#access) · [credits](/socialexperiment/feb2025/#credits)</span>&ensp; <small>Updated 11 June 2025</small>          
          
 *A [Social Experiment](/socialexperiment) on 6 February, presented by* Word of Warning + Contact         
          
 #### Artists        
-Harley&nbsp;Keasey&nbsp;· J.&nbsp;Edgar&nbsp;Staubsauger&nbsp;· Rachael&nbsp;Gooch&nbsp;· Ray&nbsp;Bubbles&nbsp;· plus&nbsp;special&nbsp;guests Malandra&nbsp;Jacks&ensp;        
+Harley&nbsp;Keasey&nbsp;· J.&nbsp;Edgar&nbsp;Staubsauger&nbsp;· Rachael&nbsp;Gooch&nbsp;· Ray&nbsp;Bubbles&nbsp;· special&nbsp;guests Malandra&nbsp;Jacks&ensp; <small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*</small>         
          
 #### Programme        
 February's event kicks off at 6pm with durational pieces from Rachael and Harley, followed by short performances from J. Edgar and Ray, and guest appearance by Malandra Jacks. Now it's over, see [images from the event](/galleries/2025-socex).         
@@ -86,6 +86,6 @@ Features: five Live Art & contemporary performance works with varied content.
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### Credits          
-[Social Experiment](/socialexperiment) (Feb 2025) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
+[Social Experiment](/socialexperiment) (February 2025) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
                  
 <small><span style='font-variant: small-caps'>[back to top](/socialexperiment/feb2025)</span></small>
