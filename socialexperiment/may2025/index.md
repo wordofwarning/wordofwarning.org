@@ -17,15 +17,15 @@ season: "Social Experiment 22|5|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/may2025/#artists) · [programme](/socialexperiment/may2025/#programme) · [entry](/socialexperiment/may2025/#entry) · [access](/socialexperiment/may2025/#access) · [credits](/socialexperiment/may2025/#credits)</span>&ensp; <small>Updated 12.30pm 22 May 2025</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/may2025/#artists) · [programme](/socialexperiment/may2025/#programme) · [entry](/socialexperiment/may2025/#entry) · [access](/socialexperiment/may2025/#access) · [credits](/socialexperiment/may2025/#credits)</span>&ensp; <small>Updated 11 June 2025</small>          
          
 *A [Social Experiment](/socialexperiment) on 22 May, presented by* Word of Warning + Contact         
          
 #### Artists        
-Ben&nbsp;Hodge&nbsp;· Bitterroot&nbsp;· Joely&nbsp;Mae&nbsp;Greally&nbsp;& Jasmine&nbsp;Naila&nbsp;Burt&nbsp;· Julie&nbsp;Burrow&nbsp;· Lizzy&nbsp;Owen&nbsp;· Paper&nbsp;People&nbsp;Theatre&nbsp;· Secret&nbsp;Location&nbsp;Theatre&nbsp;Company<br><small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*<small>         
+Ben&nbsp;Hodge&nbsp;· Bitterroot&nbsp;· Joely&nbsp;Mae&nbsp;Greally&nbsp;& Jasmine&nbsp;Naila&nbsp;Burt&nbsp;· Julie&nbsp;Burrow&nbsp;· Lizzy&nbsp;Owen&nbsp;· Paper&nbsp;People&nbsp;Theatre&nbsp;· Secret&nbsp;Location&nbsp;Theatre&nbsp;Company&ensp; <small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*<small>         
          
 #### Programme        
-May's event kicks off at 6pm…         
+May's event kicks off at 6pm… and finishes *about* 9pm. Now it's over, see [images from the event](/galleries/2025-socex).         
 <hr>         
 **Ben Hodge** · *Teddy Bears Picnic*         
          
