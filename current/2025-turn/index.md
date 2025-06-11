@@ -19,7 +19,7 @@ season: "Turn 4|4|2025"
 ---
 <span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [programme](/current/2025-turn/programme) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 11 June 2025</small>        
         
-*Presented by* Word of Warning *+* Contact&ensp; ***NB* this event is sold-out**.        
+*Presented by* Word of Warning *+* Contact<br>***NB* this event is sold-out**.        
         
 Our annual whirlwind of new North West dance returns to <a href="https://contactmcr.com" target="_blank">Contact</a>, taking over the building with eight short dance-works on **Friday 4 April from 7pm**.         
          
@@ -28,7 +28,7 @@ Look at some of our [artists' images](/galleries/2025-turnpre/) & read their [pr
 Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn&nbsp;2025 transport you into a frenzy of dance…         
          
 #### Artists         
-Dais&nbsp;Leach&nbsp;· Emmy&nbsp;Lahouel (Meraki&nbsp;Collective)&nbsp;· JP&nbsp;Hon&nbsp;· KUDERA&nbsp;+&nbsp;MPEARSONATER&nbsp;· Maelstrom&nbsp;Theatre&nbsp;· Néa&nbsp;Synergy&nbsp;· Rachel&nbsp;Yan&nbsp;Ting&nbsp;Li&nbsp;· UMAMI&#8209;i!&#8209;MOVEMENT&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*<small>         
+Dais&nbsp;Leach&nbsp;· Emmy&nbsp;Lahouel (Meraki&nbsp;Collective)&nbsp;· JP&nbsp;Hon&nbsp;· KUDERA&nbsp;+ MPEARSONATER&nbsp;· Maelstrom&nbsp;Theatre&nbsp;· Néa&nbsp;Synergy&nbsp;· Rachel&nbsp;Yan&nbsp;Ting&nbsp;Li&nbsp;· UMAMI&#8209;i!&#8209;MOVEMENT&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*<small>         
         
 #### Entry         
 Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
