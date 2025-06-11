@@ -17,11 +17,13 @@ season: "Works Ahead 15–16|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [works](/current/2025-worksahead/#works) · [entry](/current/2025-worksahead/#entry) · [access](/current/2025-worksahead/#access) · [about](/current/2025-worksahead/#about) · [credits](/current/2025-worksahead/#credits) · [websites](/current/2025-worksahead/#websites)</span>&ensp; <small>Updated 6 May 2025</small>        
+<span style='font-variant: small-caps'>→ [works](/current/2025-worksahead/#works) · [entry](/current/2025-worksahead/#entry) · [access](/current/2025-worksahead/#access) · [about](/current/2025-worksahead/#about) · [credits](/current/2025-worksahead/#credits) · [websites](/current/2025-worksahead/#websites)</span>&ensp; <small>Updated 11 June 2025</small>        
         
 *Presented by* Word of Warning *+* Contact         
 
-Our annual sampler evening of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2025-2" target="_blank">Contact</a> on **Thursday 15 and Friday 16 May at 7.30pm** with a double bill of new works-in-development from [Adèle Le Gallez](/current/2025-worksahead/legallez) and [Martha Pailing](/current/2025-worksahead/pailing)…        
+Our annual sampler evening of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2025-2" target="_blank">Contact</a> on **Thursday 15 and Friday 16 May at 7.30pm** with a double bill of new works-in-development from [Adèle Le Gallez](/current/2025-worksahead/legallez) and [Martha Pailing](/current/2025-worksahead/pailing)…          
+          
+Now it's over, see [images from the event](/galleries/2025-woah).          
          
 #### Works        
 **[*Landings* by Adèle Le Gallez](/current/2025-worksahead/legallez)**         
