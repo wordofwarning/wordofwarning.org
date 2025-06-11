@@ -1091,6 +1091,27 @@
 	.w2025 .splash
 		{background:url(../images/header_woah25a.jpg) center center}
 
+/* Haphazard 2025 yellow & placeholder YEAP from Hap19
+------------------------------------------------------*/
+
+	.h2025,
+	.h2025 .artist, 
+	.h2025 .show,
+	.h2025 .season
+		{background:#fb3; color:#000;}
+
+	.h2025 a,
+	.h2025 a:visited,
+	.h2025 a:hover
+		{color:#000;}
+	.h2025 nav a:hover,
+	.h2025 article a:hover,
+	.h2025 footer a:hover
+		{background:#000; color:#fb3;}
+
+	.h2025 .splash
+		{background:url(../images/header_haphazard19.png) center center}
+
 /* 2025 Programme blue DNA
 ------------------------------------------------------*/
 
