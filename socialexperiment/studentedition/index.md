@@ -17,12 +17,12 @@ season: "Social Experiment: Student Edition 5|6|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/studentedition/#artists) · [programme](/socialexperiment/studentedition/#programme) · [entry](/socialexperiment/studentedition/#entry) · [access](/socialexperiment/studentedition/#access) · [credits](/socialexperiment/studentedition/#credits)</span>&ensp; <small>Updated 30 May 2025</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/studentedition/#artists) · [programme](/socialexperiment/studentedition/#programme) · [entry](/socialexperiment/studentedition/#entry) · [access](/socialexperiment/studentedition/#access) · [credits](/socialexperiment/studentedition/#credits)</span>&ensp; <small>Updated 11 June 2025</small>          
          
 *A Student Edition of [Social Experiment](/socialexperiment) on 5 June, presented by* The Producing Group, Word of Warning + Contact         
          
 #### Artists        
-Amelia&nbsp;Grace&nbsp;· Dana&nbsp;Potter&nbsp;· GIN&nbsp;Niemtus&nbsp;· Isla&nbsp;Webster&nbsp;& Gabrielle&nbsp;Kaufman&nbsp;· Oscar&nbsp;Dickson&nbsp;· Will&nbsp;Oliver<br><small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*</small>         
+Amelia&nbsp;Grace&nbsp;· Dana&nbsp;Potter&nbsp;· GIN&nbsp;Niemtus&nbsp;· Isla&nbsp;Webster&nbsp;& Gabrielle&nbsp;Kaufman&nbsp;· Oscar&nbsp;Dickson&nbsp;· Will&nbsp;Oliver&ensp; <small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*</small>         
          
 #### Programme        
 This Student Edition kicks off at 6pm… and finishes *about* 8.15pm.        
@@ -96,6 +96,8 @@ Features: six Live Art & contemporary performance works with varied content.
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### Credits          
-[Social Experiment](/socialexperiment): Student Edition (June 2025) is curated and produced by The Producing Group from MMU's MA Performance Degree Programme, under the mentorship of [hÅb](/hab); supported by hÅb, <a href="https://contactmcr.com" target="_blank">Contact</a>, and Manchester Metropolitan University.<br>Production team: Lauren Manville & Liberté-Mae Hirst · Event Host: Lisa Ford · Event Assistant: Amelia Grace         
+[Social Experiment](/socialexperiment): Student Edition (June 2025) curated and produced by The Producing Group from MMU's MA Performance Degree Programme, under the mentorship of [hÅb](/hab); supported by hÅb, <a href="https://contactmcr.com" target="_blank">Contact</a>, and Manchester Metropolitan University.         
+         
+Production team: Lauren Manville & Liberté-Mae Hirst · Event Host: Lisa Ford · Event Assistant: Amelia Grace         
          
 <small><span style='font-variant: small-caps'>[back to top](/socialexperiment/studentedition)</span></small>
