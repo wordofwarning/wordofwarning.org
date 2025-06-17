@@ -8,7 +8,7 @@ artist_size: 1
 season: "Performance Programme 2025"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 11 June 2025</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 17 June 2025</small>        
          
 *2025 has so far seen three new [Social Experiments](/socialexperiment), [Kellie Colbert](/current/2025/colbert)'s dedication of love, [Turn](/current/2025-turn)'s whirlwind of dance, a pair of [Works Ahead](/current/2025-worksahead), and [Fabíola Santana](/current/2025/santana)'s movement ritual — we continue with another [Social Experiment](/socialexperiment) at <a href="https://contactmcr.com" target="_blank">Contact</a> (17 July), and more to be announced…*          
          
@@ -50,7 +50,7 @@ Peader Kirk, artist & mentor, supports [Works Ahead](/hab/worksahead) and other 
          
 We're grateful for the ongoing support of hÅb projects during 2025 from a team of freelancers and volunteers that includes: Alison Darnbrough, Andrew Crofts, Annelise Edwards, Catherine Shaw, Jamil Keating, Martha Barr, Sam Stockdale, Tania Camara, Tricia Coleman, and Theatre & Performance students from The Arden.         
          
-Thanks also to [hÅb](/hab)'s Advisory Board: Helen Palmer, Charles Rowley, Cathy Butterworth, Joseph Lau, and Maya Chowdhry for [Divergency](/hab/divergencymcr).        
+Thanks also to [hÅb](/hab)'s Advisory Board: Helen Palmer, Cathy Butterworth, Charles Rowley, Joseph Lau, Tania Camara, and Maya Chowdhry for [Divergency](/hab/divergencymcr).        
 <small><span style='font-variant: small-caps'>[back to top](/current/2025)</span></small>        
          
 #### Warnings          
