@@ -16,36 +16,38 @@ season: "Emergency by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 9 January 2025</small>        
+<small>Updated 19 June 2025</small>        
         
-**Emergency** is our annual platform for Live Art and contemporary performance — offering a sneak preview of new live work over a single day in Manchester every autumn and now resident at <a href="https://contactmcr.com" target="_blank">Contact</a>, its seventh home.        
+**Emergency** is our annual open call platform for Live Art and contemporary performance — offering a sneak preview of new live work over a single day in Manchester every autumn and now resident at <a href="https://contactmcr.com" target="_blank">Contact</a>, its seventh home.        
          
-[Manchester's 24th micro-marathon of the bizarre, the bold, and the beautiful](/archive/2024-emergency) took over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 28 September 2024 from Noon to 10pm** — presenting 28 short works throughout the building and its multiple spaces.        
+Manchester's 25th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 27 September 2025 (Noon-10pm *tbc*)** — presenting *about 25-30* short works throughout the building and its multiple spaces.        
           
-Discover [2024's artists](/archive/2024-emergency/#artists) and see [images from the event](/galleries/2024-emergency).        
+Get a feel for it with [2024's programme](/archive/2024-emergency/#artists) and [gallery of images](/galleries/2024-emergency); [2023's programme](/archive/2023-emergency/#artists) and [gallery](/galleries/2023-emergency); [2022's programme](/archive/2022-emergency/#artists) and [gallery](/galleries/2022-emergency).         
          
 Manchester's annual Live Art & performance platform, Emergency aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions.        
         
-We usually expect to present *about 25* short works throughout the building — so if you would like to take part in what is *probably* England's longest-running Live Art event, please check back for our next open call in June 2025.        
+We usually expect to present *about 25-30* short works throughout the building — so if you would like to take part in what is *probably* England's longest-running Live Art event, please read on for our open call…         
+          
+#### Emergency 25 Call for Proposals Opens on Friday 20 June         
+Artists working in Live Art, contemporary performance, time-based media, and interdisciplinary arts will be <a href="https://emergencymcr.posthaven.com" target="_blank">invited to submit proposals</a>. Work can be in any relevant artform/medium, though some live presence is desirable.        
          
-[Emergency 24](/archive/2024-emergency) presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
+Unbelievably — or maybe all too believably — in 2025 Emergency is celebrating its 25th birthday. In addition to calling for new and emerging artists and work, we are interested in hearing from artists who have performed at Emergency over the past 25 years, and have any ideas to celebrate this milestone!          
+         
+**For details & to apply please visit <a href="https://emergencymcr.posthaven.com" target="_blank">emergencymcr.posthaven.com</a><br>Proposal Deadline: Friday 8 August 2024, 5pm**        
+         
+Emergency 25 combines an Afternoon of durational, installation, intervention, and limited capacity work; followed by an Evening of short (*max 20 min*) show-type pieces of work, works-in-progress, or extracts of longer work.        
+         
+Emergency 25 presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
         
 Enquiries: <mailto:emergency@habmcr.org> · <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a>         
          
 #### Past Editions        
 First held at greenroom in 2000, Emergency also took place at International Anthony Burgess Foundation, BLANKSPACE, Castlefield Gallery, Z-arts & STUN Studio, NIAMOS, before finding a new home at <a href="https://contactmcr.com" target="_blank">Contact</a> from [2020](/archive/2020-emergency)…         
          
-Get a feel for it with [2023's programme](/archive/2023-emergency) & [image gallery](/galleries/2023-emergency), [2022's programme](/archive/2022-emergency)/[gallery](/galleries/2022-emergency), [2021's programme](/archive/2021-emergency)/[gallery](/galleries/2021-emergency), [2019's programme](/archive/2019-emergency)/[gallery](/galleries/2019-emergency).         
-         
-**[Emergency 23](/archive/2023-emergency)** presented 23 new works throughout the <a href="https://contactmcr.com" target="_blank">Contact</a> building on **30 September 2023** — with a daytime of performance installations, one-to-ones, and interventions from Noon — followed by an evening full of short shows from 4pm — see a [gallery of images](/galleries/2023-emergency).        
+**[Emergency 24](/archive/2024-emergency)** presented 28 new works throughout <a href="https://contactmcr.com" target="_blank">Contact</a> on **28 September 2024** — with a daytime of performance installations, one-to-ones, and interventions from Noon — followed by an evening full of short shows from 4pm — see a [gallery of images](/galleries/2024-emergency).        
+
+**[Emergency 23](/archive/2023-emergency)** presented 23 new works throughout <a href="https://contactmcr.com" target="_blank">Contact</a> on **30 September 2023** — with a daytime of performance installations, one-to-ones, and interventions from Noon — followed by an evening full of short shows from 4pm — see a [gallery of images](/galleries/2023-emergency).        
           
 **[Emergency 21](/archive/2021-emergency)** was a socially-distanced live walkthrough event at a newly re-opened Contact on **25 September 2021** — with audiences guided on a one-way journey through the refurbished building, pausing en route in gallery fashion — see a [gallery of images](/galleries/2021-emergency).         
           
-**[Emergency StopGap](/archive/2020-emergencystopgap)** was a new iteration in Manchester's <a href="https://www.niamos.co.uk" target="_blank">NIAMOS</a> on **27 February 2020** — a small informal platform to bridge the gap between gallery and theatre, and to fill the empty months of winter… An informal 'Thursday Late' style evening with 13 durational live works and interventions throughout the building — see a [gallery of images](/galleries/2020-emergencystopgap).         
-         
-#### Emergency 24 Call for Proposals has Closed        
-Artists working in Live Art, contemporary performance, time-based media, and interdisciplinary arts <a href="https://emergencymcr.posthaven.com/emergency-24-call-for-proposals" target="_blank">were invited to submit proposals</a>; work can be in any relevant artform/medium, though some live presence is desirable.        
-         
-Emergency 24 combines an Afternoon of durational installation, intervention, and limited capacity work; followed by an Evening of short (*max 20 mins*) show-type pieces of work, works-in-progress, or extracts of longer work.        
-         
-**For details & to apply please visit <a href="https://emergencymcr.posthaven.com" target="_blank">emergencymcr.posthaven.com</a><br>Proposal Deadline: Friday 2 August 2024, 5pm**        
+**[Emergency StopGap](/archive/2020-emergencystopgap)** was a new iteration in Manchester's <a href="https://www.niamos.co.uk" target="_blank">NIAMOS</a> on **27 February 2020** — a small informal platform to bridge the gap between gallery and theatre, and to fill the empty months of winter… An informal 'Thursday Late' style evening with 13 durational live works and interventions throughout the building — see a [gallery of images](/galleries/2020-emergencystopgap).
