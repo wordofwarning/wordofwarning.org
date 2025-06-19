@@ -29,7 +29,7 @@ If you're a Greater Manchester artist — this is your <a href="https://socialex
          
 If you're an audience member looking for something a little bit different — this is your chance to take a few risks & meet some artists in our social experiment.         
          
-Past events were held on [6 February](/socialexperiment/feb2025), [22 May](/socialexperiment/may2025), and [5 June (a Student Edition)](/socialexperiment/studentedition) — see some [images](/galleries/2025-socex).         
+Past events were held on [6 February](/socialexperiment/feb2025), [22 May](/socialexperiment/may2025), and [5 June (a Student Edition)](/socialexperiment/studentedition) — [see some images](/galleries/2025-socex).         
          
 #### Artists        
 **5 June**: Student Edition — Amelia&nbsp;Grace&nbsp;· Dana&nbsp;Potter&nbsp;· GIN&nbsp;Niemtus&nbsp;· Isla&nbsp;Webster&nbsp;& Gabrielle&nbsp;Kaufman&nbsp;· Oscar&nbsp;Dickson&nbsp;· Will&nbsp;Oliver —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/studentedition).         
@@ -63,7 +63,7 @@ Greater Manchester artists (*aged 18+*) are invited to submit proposals of: shor
          
 **For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>**<br>(Direct link to proposal form is <a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">here</a> in case of issues with posthaven.)         
          
-Proposal Deadline: open on a rolling basis, closing fifteen days before each event — deadline for 17 July is 2 July at noon; deadline for 27 Nov is 12 Nov at noon.          
+Proposal Deadline: open on a rolling basis, closing fifteen days before each event — July deadline is 2 July at noon; November deadline is 12 Nov at noon.          
          
 #### Credits          
 [Social Experiment](/hab/socialexperiment) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
