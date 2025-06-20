@@ -16,7 +16,7 @@ season: "Emergency by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 19 June 2025</small>        
+<small>Updated 20 June 2025</small>        
         
 **Emergency** is our annual open call platform for Live Art and contemporary performance — offering a sneak preview of new live work over a single day in Manchester every autumn and now resident at <a href="https://contactmcr.com" target="_blank">Contact</a>, its seventh home.        
          
@@ -28,8 +28,8 @@ Manchester's annual Live Art & performance platform, Emergency aims to be:<br>�
         
 We usually expect to present *about 25* short works throughout the building — so if you would like to take part in what is *probably* England's longest-running Live Art event, please read on for our open call…         
           
-#### Emergency 25 Call for Proposals Opens on Friday 20 June         
-Artists working in Live Art, contemporary performance, time-based media, and interdisciplinary arts will be <a href="https://emergencymcr.posthaven.com" target="_blank">invited to submit proposals</a>. Work can be in any relevant artform/medium, though some live presence is desirable.        
+#### Emergency 25 Open Call for Proposals         
+Artists working in Live Art, contemporary performance, time-based media, and interdisciplinary arts are now <a href="https://emergencymcr.posthaven.com" target="_blank">invited to submit proposals</a>. Work can be in any relevant artform/medium, though some live presence is desirable.        
          
 Unbelievably — or maybe all too believably — in 2025 Emergency is celebrating its 25th birthday. In addition to calling for new and emerging artists and work, we are interested in hearing from artists who have performed at Emergency over the past 25 years, and have any ideas to celebrate this milestone!          
          
