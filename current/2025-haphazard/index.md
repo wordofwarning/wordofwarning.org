@@ -45,7 +45,7 @@ Queries: please contact <a href="https://z-arts.org/home/your-visit-to-z-arts/ac
 #### About         
 [Haphazard](/hab/haphazard) is our frequent foray into 'all ages' Live Art, with intriguing images and offbeat oddities dotted around and about Hulme's historic <a href="https://www.z-arts.org/about-us" target="_blank">Z-arts</a> building.         
          
-This eighth edition will present eight works — [2024 saw](/galleries/2024-haphazard) ??? and [2023 saw](/galleries/2023-haphazard), lasers, slinkies, silver birds, woolly jellyfish, and a shower of confetti… We've previously seen ping pong balls & squeaky toys; singing fish & a sax-playing bear; paintball golf & human quoits; a giant periscope, a golden toilet, and a tiny bee-shaped world…        
+This eighth edition will present eight works — Haphazard has previously seen ping pong balls & squeaky toys; a singing fish & a sax-playing bear; paintball golf & human quoits; a giant periscope, a lonely wookie, a golden toilet, clown-dancing, and a tiny bee-shaped world…        
         
 Get a feel for it by looking at image galleries from [2024](/galleries/2024-haphazard), [2023](/galleries/2023-haphazard), [2019](/galleries/2019-haphazard), [2017](/galleries/2017-haphazard), [2016](/galleries/2016-haphazard), [2015](/galleries/2015-haphazard), [2013](/galleries//2013-haphazard) — and programmes from [2024](/archive/2024-haphazard/programme), [2023](/archive/2023-haphazard/programme), [2019](/archive/2019-haphazard/programme), [2017](/archive/2017-haphazard/programme), [2016](/archive/2016-haphazard/programme), [2015](/archive/2015-haphazard), [2013](/archive/2013-spring/haphazard).
          
