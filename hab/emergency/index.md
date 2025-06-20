@@ -33,7 +33,7 @@ Artists working in Live Art, contemporary performance, time-based media, and int
          
 Unbelievably — or maybe all too believably — in 2025 Emergency is celebrating its 25th birthday. In addition to calling for new and emerging artists and work, we are interested in hearing from artists who have performed at Emergency over the past 25 years, and have any ideas to celebrate this milestone!          
          
-**For details & to apply please visit <a href="https://emergencymcr.posthaven.com" target="_blank">emergencymcr.posthaven.com</a><br>Proposal Deadline: Friday 8 August 2024, 5pm**        
+**For details & to apply please visit <a href="https://emergencymcr.posthaven.com" target="_blank">emergencymcr.posthaven.com</a><br>Proposal Deadline: Friday 8 August 2025, 5pm**        
          
 Emergency 25 combines an Afternoon of durational, installation, intervention, and limited capacity work; followed by an Evening of short (*max 20 min*) show-type pieces of work, works-in-progress, or extracts of longer work.        
          
