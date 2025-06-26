@@ -8,9 +8,9 @@ artist_size: 1
 season: "Performance Programme 2025"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 17 June 2025</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 26 June 2025</small>        
          
-*2025 has so far seen three new [Social Experiments](/socialexperiment), [Kellie Colbert](/current/2025/colbert)'s dedication of love, [Turn](/current/2025-turn)'s whirlwind of dance, a pair of [Works Ahead](/current/2025-worksahead), and [Fabíola Santana](/current/2025/santana)'s movement ritual — we continue with another [Social Experiment](/socialexperiment) at <a href="https://contactmcr.com" target="_blank">Contact</a> (17 July), and more to be announced…*          
+*2025 has so far seen three new [Social Experiments](/socialexperiment), [Kellie Colbert](/current/2025/colbert)'s dedication of love, [Turn](/current/2025-turn)'s whirlwind of dance, a pair of [Works Ahead](/current/2025-worksahead), and [Fabíola Santana](/current/2025/santana)'s movement ritual — we continue with another [Social Experiment](/socialexperiment) at <a href="https://contactmcr.com" target="_blank">Contact</a> (17 July), [Haphazard]()'s all ages antics at <a href="https://z-arts.org" target="_blank">Z-arts</a> (2 August), and more to be announced…*          
          
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
