@@ -22,11 +22,11 @@ season: "Haphazard by hÅb"
          
 Playful, quirky, engaging, and sometimes plain daft: this is Live Art for kids and their adults, adults and *their* adults — anyone looking for a different day out!            
 
-[**Haphazard 2025**](/2025-haphazard) will be our eighth free Live Art takeover of <a href="https://www.z-arts.org/events/haphazard-2025" target="_blank">Z-arts</a>, presenting eight works on **Saturday 2 August from 1pm to 4pm** — turn up at any time, come and go as you please… and expect the unexpected!        
+[**Haphazard 2025**](/current/2025-haphazard) will be our eighth free Live Art takeover of <a href="https://www.z-arts.org/events/haphazard-2025" target="_blank">Z-arts</a>, presenting eight works on **Saturday 2 August from 1pm to 4pm** — turn up at any time, come and go as you please… and expect the unexpected!        
          
 Get a feel for it with [2024's programme](/archive/2024-haphazard/programme) and [gallery of images](/galleries/2024-haphazard) — also watch our <a href="https://youtu.be/sgw9SjPdCw0" target="_blank">short video</a> to see some of what's gone before.         
          
-[Haphazard 2025](/2025-haphazard) presented by [Word of Warning](/) + <a href="https://z-arts.org" target="_blank">Z-arts</a>; produced by [hÅb](/hab) with <a href="https://z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England, and by Manchester City Council and Greater Manchester Combined Authority.         
+[Haphazard 2025](/current/2025-haphazard) presented by [Word of Warning](/) + <a href="https://z-arts.org" target="_blank">Z-arts</a>; produced by [hÅb](/hab) with <a href="https://z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England, and by Manchester City Council and Greater Manchester Combined Authority.         
           
 Enquiries: <mailto:haphazard@habmcr.org> · <a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a>         
          
@@ -38,10 +38,10 @@ Get a feel for it by looking at image galleries from [2024](/galleries/2024-haph
 #### Haphazard 2025 Call for Proposals Closed in May        
 Artists <a href="https://haphazard.posthaven.com" target="_blank">were invited to submit proposals</a> for inclusion in this event:<br>this is not Live Art for children, but Live Art for ALL AGES — and we mean from tot to timeworn, 8 months to 80 years — so work should have appeal for adults and children alike (even if the kids need to explain it to the adults!)          
           
-**If you'd like to hear more about what we think works for Haphazard have a look at the <a href="https://youtu.be/2PncCQ7-YSs" target="_blank">recording of the Info Session we held on 16 April</a>.**        
+If you'd like to hear more about what we think works for Haphazard have a look at the <a href="https://youtu.be/2PncCQ7-YSs" target="_blank">recording of the Info Session we held on 16 April</a>.        
           
 From experience, what works best are big surreal images, interesting repetitive movement, and nothing too text heavy. We have access to a number of spaces within Z-arts, and work immediately outside the building may also be possible. Durational, intervention, and 'come and go' work seems to work the best — we're not really looking for sit-down theatre shows.        
         
-**For details and to apply please visit <a href="https://haphazard.posthaven.com" target="_blank">haphazard.posthaven.com</a><br>We held an Online Info Session on 16 April 2025 (<a href="https://youtu.be/2PncCQ7-YSs" target="_blank">watch recording</a>)<br>Proposal Deadline: Friday 30 May 2025, 5pm**         
+For details and to apply please visit <a href="https://haphazard.posthaven.com" target="_blank">haphazard.posthaven.com</a><br>We held an Online Info Session on 16 April 2025 (<a href="https://youtu.be/2PncCQ7-YSs" target="_blank">watch recording</a>)<br>Proposal Deadline: Friday 30 May 2025, 5pm         
           
 Image: Catherine Jack for YEAP Association in [Haphazard 2019](/archive/2019-haphazard)
