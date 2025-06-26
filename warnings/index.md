@@ -26,5 +26,8 @@ Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Conten
 ##### [2 Aug. Z-arts | Haphazard 2025](/current/2025-haphazard)          
 Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction and/or participation; any specific warnings will be listed here in early July.         
          
+##### 27 Sep. Contact | Emergency 25          
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; any specific warnings will be listed here in early September.         
+         
 ##### [27 Nov. Contact | Social Experiment](/socialexperiment)          
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed here *about* a week before.
