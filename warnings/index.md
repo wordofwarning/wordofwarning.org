@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 11 June 2025<small>        
+<small>Updated 26 June 2025<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>(Please click [here](/archive/warnings) for *past* events and *archived* livestreams on our YouTube channel.)         
          
@@ -23,9 +23,8 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 ##### [17 Jul. Contact | Social Experiment](/socialexperiment)          
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed here *about* a week before.         
 
-##### 2 Aug. Z-arts | Haphazard 2025          
-Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Content Warnings: some works will involve interaction and/or participation; specific warnings will be listed here *about* a month before.         
-
+##### [2 Aug. Z-arts | Haphazard 2025](/current/2025-haphazard)          
+Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction and/or participation; any specific warnings will be listed here in early July.         
          
 ##### [27 Nov. Contact | Social Experiment](/socialexperiment)          
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed here *about* a week before.
