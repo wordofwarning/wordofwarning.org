@@ -15,7 +15,7 @@ season: "Haphazard 2|8|2025, 1-4pm"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits) · [websites](/current/2025-haphazard/#websites)</span><br><small>Updated 20 June 2025</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits) · [websites](/current/2025-haphazard/#websites)</span><br><small>Updated 26 June 2025</small>        
         
 *Presented by* Word of Warning *+* Z-arts           
          
@@ -24,7 +24,7 @@ Playful, quirky, engaging, and sometimes plain daft: Haphazard is for kids and t
 A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2025" target="_blank">Z-arts</a> **on Saturday 2 August from 1pm to 4pm**. Turn up at any time, come and go as you please… and expect the unexpected!         
          
 #### Artists         
-Aimee&nbsp;Williamson&nbsp;· Madame&nbsp;Zucchini&nbsp;· Orla&nbsp;Collier&nbsp;· Puppetfingers&nbsp;· Shannon&nbsp;Mulvey&nbsp;· the&nbsp;institute&nbsp;for&nbsp;crazy&nbsp;dancing&nbsp;· TurnAround&nbsp;Dance&nbsp;Theatre&ensp; <small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*</small>         
+Aimee&nbsp;Williamson&nbsp;· Madame&nbsp;Zucchini&nbsp;· Orla&nbsp;Collier&nbsp;· Puppetfingers&nbsp;· Shannon&nbsp;Mulvey&nbsp;· the&nbsp;institute&nbsp;for&nbsp;crazy&nbsp;dancing&nbsp;· TurnAround&nbsp;Dance&nbsp;Theatre&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
          
 #### Entry         
 FREE: there's no need to book… just turn up!         
