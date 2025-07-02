@@ -17,7 +17,7 @@ season: "Social Experiment 2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 2 July at 1pm</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 2 July 2025 at 1pm</small>          
          
 *Presented by* Word of Warning + Contact *as a semi-regular evening event.*         
          
@@ -34,7 +34,7 @@ Past events were held on [6 February](/socialexperiment/feb2025), [22 May](/soci
 #### Artists        
 **17 July** — participating artists to be announced *about* a week before.         
          
-**5 June**: Student Edition — Amelia&nbsp;Grace&nbsp;· Dana&nbsp;Potter&nbsp;· GIN&nbsp;Niemtus&nbsp;· Isla&nbsp;Webster&nbsp;& Gabrielle&nbsp;Kaufman&nbsp;· Oscar&nbsp;Dickson&nbsp;· Will&nbsp;Oliver —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/studentedition).         
+**5 June** (Student Edition) — Amelia&nbsp;Grace&nbsp;· Dana&nbsp;Potter&nbsp;· GIN&nbsp;Niemtus&nbsp;· Isla&nbsp;Webster&nbsp;& Gabrielle&nbsp;Kaufman&nbsp;· Oscar&nbsp;Dickson&nbsp;· Will&nbsp;Oliver —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/studentedition).         
           
 **22 May** — Ben&nbsp;Hodge&nbsp;· Bitterroot&nbsp;· Joely&nbsp;Mae&nbsp;Greally&nbsp;& Jasmine&nbsp;Naila&nbsp;Burt&nbsp;· Julie&nbsp;Burrow&nbsp;· Lizzy&nbsp;Owen&nbsp;· Paper&nbsp;People&nbsp;Theatre&nbsp;· Secret&nbsp;Location&nbsp;Theatre&nbsp;Company —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/may2025).         
          
@@ -65,7 +65,7 @@ Greater Manchester artists (*aged 18+*) are invited to submit proposals of: shor
          
 **For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>**<br>(Direct link to proposal form is <a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">here</a> in case of issues with posthaven.)         
          
-Proposal Deadline: open on a rolling basis, closing 15 days before each event — July deadline was 2 July at noon; November deadline is 12 Nov at noon.          
+Proposal Deadline: open on a rolling basis, closing 15 days before each event — July's deadline was 2 July at noon; November's deadline is 12 Nov at noon.          
          
 #### Credits          
 [Social Experiment](/hab/socialexperiment) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
