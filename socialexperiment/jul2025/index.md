@@ -17,7 +17,7 @@ season: "Social Experiment 17|7|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/jul2025/#artists) · [programme](/socialexperiment/jul2025/#programme) · [entry](/socialexperiment/jul2025/#entry) · [access](/socialexperiment/jul2025/#access) · [credits](/socialexperiment/jul2025/#credits)</span>&ensp; <small>Updated 8 July 2025 at 1.15pm</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/jul2025/#artists) · [programme](/socialexperiment/jul2025/#programme) · [entry](/socialexperiment/jul2025/#entry) · [access](/socialexperiment/jul2025/#access) · [credits](/socialexperiment/jul2025/#credits)</span>&ensp; <small>Updated 8 July 2025 at 1.30pm</small>          
          
 *A [Social Experiment](/socialexperiment) on 17 July, presented by* Word of Warning + Contact         
          
@@ -27,9 +27,29 @@ Ben&nbsp;Hodge&nbsp;· James&nbsp;Moss&nbsp;· Leah&nbsp;Stone&nbsp;· Rachel&nb
 #### Programme        
 July's event kicks off at 6pm… and finishes *about* 9pm.         
 <hr>         
-**Ben Hodge** · *tbc*         
+**Ben Hodge** · *Dating for Fat People*         
          
 Insta <a href="https://instagram.com/benhodgeee" target="_blank">@benhodgeee</a>          
+<hr>         
+**James Moss** · *Making Believe*         
+         
+Insta <a href="https://instagram.com/jamesmossart" target="_blank">@jamesmossart</a>          
+<hr>         
+**Leah Stone** · *One woman sexy comedy/poetry/writing mashup*         
+         
+Insta <a href="https://instagram.com/leaholiviafayestone" target="_blank">@leaholiviafayestone</a>          
+<hr>         
+**Rachel Smith** · *MOTHER DARK*         
+         
+Insta <a href="https://instagram.com/rachthesmith" target="_blank">@rachthesmith</a>          
+<hr>         
+**Shahireh Sharif** · *Downhill Blues*         
+         
+Insta <a href="https://instagram.com/sangrezeh" target="_blank">@sangrezeh</a>          
+<hr>         
+**Xhi Ndubisi** · *The apologetics of Icarus*         
+         
+Insta <a href="https://instagram.com/anotherdiasporan" target="_blank">@anotherdiasporan</a>          
 <hr>         
 
 <hr>         
