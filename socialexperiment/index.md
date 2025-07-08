@@ -17,13 +17,13 @@ season: "Social Experiment 2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 8 July 2025 at 1pm</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 8 July 2025 at 1.30pm</small>          
          
 *Presented by* Word of Warning + Contact *as a semi-regular evening event.*         
          
 **Social Experiment** is a new gathering at <a href="https://contactmcr.com" target="_blank">Contact</a> for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
           
-A free and informal, semi-regular evening event with the **next on Thursday 17 July from 6pm to 9pm**. Following is 27 November, with 2026 dates tba.          
+A free and informal, semi-regular evening event with the [**next on Thursday 17 July from 6pm to 9pm**](/socialexperiment/jul2025). Following is 27 November, with 2026 dates tba.          
          
 If you're a Greater Manchester artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
          
@@ -32,7 +32,8 @@ If you're an audience member looking for something a little bit different — th
 Past events were held on [6 February](/socialexperiment/feb2025), [22 May](/socialexperiment/may2025), and [5 June (a Student Edition)](/socialexperiment/studentedition) — [see some images](/galleries/2025-socex).         
          
 #### Artists        
-**17 July** — Ben&nbsp;Hodge&nbsp;· James&nbsp;Moss&nbsp;· Leah&nbsp;Stone&nbsp;· Rachel&nbsp;Smith&nbsp;· Shahireh&nbsp;Sharif&nbsp;· Xhi&nbsp;Ndubisi&ensp; <small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*</small>         
+**17 July** — Ben&nbsp;Hodge&nbsp;· James&nbsp;Moss&nbsp;· Leah&nbsp;Stone&nbsp;· Rachel&nbsp;Smith&nbsp;· Shahireh&nbsp;Sharif&nbsp;· Xhi&nbsp;Ndubisi
+—&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/jul2025).&ensp; <small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*</small>         
          
 **5 June** (Student Edition) — Amelia&nbsp;Grace&nbsp;· Dana&nbsp;Potter&nbsp;· GIN&nbsp;Niemtus&nbsp;· Isla&nbsp;Webster&nbsp;& Gabrielle&nbsp;Kaufman&nbsp;· Oscar&nbsp;Dickson&nbsp;· Will&nbsp;Oliver —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/studentedition).         
           
