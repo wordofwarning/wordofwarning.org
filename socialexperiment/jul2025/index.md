@@ -17,7 +17,7 @@ season: "Social Experiment 17|7|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/jul2025/#artists) · [programme](/socialexperiment/jul2025/#programme) · [entry](/socialexperiment/jul2025/#entry) · [access](/socialexperiment/jul2025/#access) · [credits](/socialexperiment/jul2025/#credits)</span>&ensp; <small>Updated 8 July 2025 at 1.30pm</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/jul2025/#artists) · [programme](/socialexperiment/jul2025/#programme) · [entry](/socialexperiment/jul2025/#entry) · [access](/socialexperiment/jul2025/#access) · [credits](/socialexperiment/jul2025/#credits)</span>&ensp; <small>Updated 9 July 2025</small>          
          
 *A [Social Experiment](/socialexperiment) on 17 July, presented by* Word of Warning + Contact         
          
@@ -35,7 +35,7 @@ Insta <a href="https://instagram.com/benhodgeee" target="_blank">@benhodgeee</a>
          
 Insta <a href="https://instagram.com/jamesmossart" target="_blank">@jamesmossart</a>          
 <hr>         
-**Leah Stone** · *One woman sexy comedy/poetry/writing mashup*         
+**Leah Stone** · *Sex & Neurodivergence*          
          
 Insta <a href="https://instagram.com/leaholiviafayestone" target="_blank">@leaholiviafayestone</a>          
 <hr>         
