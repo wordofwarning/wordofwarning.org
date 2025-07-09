@@ -15,7 +15,7 @@ season: "Haphazard 2|8|2025, 1-4pm"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits) · [websites](/current/2025-haphazard/#websites)</span><br><small>Updated 26 June 2025</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits) · [websites](/current/2025-haphazard/#websites)</span><br><small>Updated 9 July 2025</small>        
         
 *Presented by* Word of Warning *+* Z-arts           
          
@@ -36,7 +36,7 @@ Location: <a href="https://z-arts.org/home/your-visit-to-z-arts/getting-here" ta
 #### Access         
 Age Advisory: suitable for all ages (parent/guardian/carer discretion).         
          
-Content Warnings: some works involve interaction and/or participation; any specific warnings will be listed [here](/warnings) in early July.         
+Content Warnings: some works involve interaction and/or participation; there are no [specific warnings](/warnings).         
          
 Features: eight Live Art, contemporary performance, and participatory works with varied content.<br>*NB* multiple spaces are in use and works are varied in format — some roaming, some seated, some standing, some spoken word, some visual, some participatory.         
          
