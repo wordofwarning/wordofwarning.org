@@ -17,7 +17,7 @@ season: "Social Experiment 17|7|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/jul2025/#artists) · [programme](/socialexperiment/jul2025/#programme) · [entry](/socialexperiment/jul2025/#entry) · [access](/socialexperiment/jul2025/#access) · [credits](/socialexperiment/jul2025/#credits)</span>&ensp; <small>Updated 9 July 2025</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/jul2025/#artists) · [programme](/socialexperiment/jul2025/#programme) · [entry](/socialexperiment/jul2025/#entry) · [access](/socialexperiment/jul2025/#access) · [credits](/socialexperiment/jul2025/#credits)</span>&ensp; <small>Updated 10 July 2025 at 9.30am</small>          
          
 *A [Social Experiment](/socialexperiment) on 17 July, presented by* Word of Warning + Contact         
          
@@ -27,21 +27,13 @@ Ben&nbsp;Hodge&nbsp;· James&nbsp;Moss&nbsp;· Leah&nbsp;Stone&nbsp;· Rachel&nb
 #### Programme        
 July's event kicks off at 6pm… and finishes *about* 9pm.         
 <hr>         
-**Ben Hodge** · *Dating for Fat People*         
-         
-Insta <a href="https://instagram.com/benhodgeee" target="_blank">@benhodgeee</a>          
-<hr>         
 **James Moss** · *Making Believe*         
          
 Insta <a href="https://instagram.com/jamesmossart" target="_blank">@jamesmossart</a>          
 <hr>         
-**Leah Stone** · *Sex & Neurodivergence*          
+**Ben Hodge** · *Dating for Fat People*         
          
-Insta <a href="https://instagram.com/leaholiviafayestone" target="_blank">@leaholiviafayestone</a>          
-<hr>         
-**Rachel Smith** · *MOTHER DARK*         
-         
-Insta <a href="https://instagram.com/rachthesmith" target="_blank">@rachthesmith</a>          
+Insta <a href="https://instagram.com/benhodgeee" target="_blank">@benhodgeee</a>          
 <hr>         
 **Shahireh Sharif** · *Downhill Blues*         
          
@@ -51,7 +43,13 @@ Insta <a href="https://instagram.com/sangrezeh" target="_blank">@sangrezeh</a>
          
 Insta <a href="https://instagram.com/anotherdiasporan" target="_blank">@anotherdiasporan</a>          
 <hr>         
-
+**Rachel Smith** · *MOTHER DARK*         
+         
+Insta <a href="https://instagram.com/rachthesmith" target="_blank">@rachthesmith</a>          
+<hr>         
+**Leah Stone** · *Sex & Neurodivergence*          
+         
+Insta <a href="https://instagram.com/leaholiviafayestone" target="_blank">@leaholiviafayestone</a>          
 <hr>         
          
 #### Entry         
@@ -64,7 +62,7 @@ Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Co
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
           
-Content Warnings: some works involve interaction and/or participation; specific warnings listed [here](/warnings) *about* a week before.         
+Content Warnings: some works involve interaction and/or participation; specific warnings listed [here](/warnings).         
           
 Features: six Live Art & contemporary performance works with varied content.         
          
