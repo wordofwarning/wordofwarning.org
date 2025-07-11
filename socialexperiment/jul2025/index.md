@@ -17,7 +17,7 @@ season: "Social Experiment 17|7|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/jul2025/#artists) · [programme](/socialexperiment/jul2025/#programme) · [entry](/socialexperiment/jul2025/#entry) · [access](/socialexperiment/jul2025/#access) · [credits](/socialexperiment/jul2025/#credits)</span>&ensp; <small>Updated 11 July 2025 at 11.30am</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/jul2025/#artists) · [programme](/socialexperiment/jul2025/#programme) · [entry](/socialexperiment/jul2025/#entry) · [access](/socialexperiment/jul2025/#access) · [credits](/socialexperiment/jul2025/#credits)</span>&ensp; <small>Updated 11 July 2025 at 11.40am</small>          
          
 *A [Social Experiment](/socialexperiment) on 17 July, presented by* Word of Warning + Contact         
          
@@ -29,7 +29,7 @@ July's event kicks off at 6pm… and finishes *about* 9pm.
 <hr>         
 **James Moss** · *Making Believe*          
          
-Audio-visual series incorporating cut up, manipulated, and reassembled spoken word readings of books by Clara Barton, Virginia Woolf, Sigmund Freud, and Henrietta Marshall, plus texts from Xhi Ndubisi & Jo Manby's *Passing Cloud* series.<br>Collaged and edited archive film exploring authorship, obsolescence, and illusion in the information age.         
+Audio-visual series incorporating cut up, manipulated, and reassembled spoken word readings of books by Clara Barton, Virginia Woolf, Sigmund Freud, and Henrietta Marshall, plus texts from Xhi Ndubisi & Jo Manby's *Passing Cloud* series. Collaged and edited archive film exploring authorship, obsolescence, and illusion in the information age.         
          
 James makes artworks, performances, and exhibitions in collaboration with writers, researchers, residents, and visitors. Themes of particular interest include time, potential, work and waste; absence and erasure; and the frailties of language — when words can't, or mustn't, be enough. He's staged exhibitions and events around the UK and at the Cité de la Mode et du Design in Paris, with other venues including Fuse Art Space, Lowry, and Bristol Folk House. He's performed at Bluedot (Jodrell Bank), Festival Number 6, St John on Bethnal Green, Sounds from the Other City, Koko, Manchester Art Gallery, and Supersonic. Broadcasts include ARTE TV, BBC R1, BBC R6 Music (Best of 2015), NTS, and TF1.<br>Xhi Ndubisi and Jo Manby are artist-writers whose monthly series for the Fourdrinier, *Passing Cloud*, takes the form of a conversations with an imagined AI baby.         
          
@@ -73,7 +73,7 @@ Insta <a href="https://instagram.com/rachthesmith" target="_blank">@rachthesmith
          
 A delightfully edgy mix of sex positive disibility and trauma informed advocacy and survival laid out in silly girly packaging, wierd, moving funny and random. The perfect way to spend an evening amidst the global chaos.         
          
-Leah is a BBC NEW Comedy Award 2021 shortlisted comedian, and MOAN ZINE (issues 5+6) featured sex positive writer and poet.         
+Leah is a BBC New Comedy Award 2021 shortlisted comedian, and MOAN ZINE (issues 5+6) featured sex positive writer and poet.         
          
 Insta <a href="https://instagram.com/leaholiviafayestone" target="_blank">@leaholiviafayestone</a>          
 <hr>         
