@@ -17,7 +17,7 @@ season: "Social Experiment 17|7|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/jul2025/#artists) · [programme](/socialexperiment/jul2025/#programme) · [entry](/socialexperiment/jul2025/#entry) · [access](/socialexperiment/jul2025/#access) · [credits](/socialexperiment/jul2025/#credits)</span>&ensp; <small>Updated 11 July 2025 at 11.40am</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/jul2025/#artists) · [programme](/socialexperiment/jul2025/#programme) · [entry](/socialexperiment/jul2025/#entry) · [access](/socialexperiment/jul2025/#access) · [credits](/socialexperiment/jul2025/#credits)</span>&ensp; <small>Updated 14 July 2025 at 11am</small>          
          
 *A [Social Experiment](/socialexperiment) on 17 July, presented by* Word of Warning + Contact         
          
@@ -45,9 +45,9 @@ Insta <a href="https://instagram.com/benhodgeee" target="_blank">@benhodgeee</a>
 <hr>         
 **Shahireh Sharif** · *Downhill Blues*         
          
-A monologue that uses the swiss cheese analogy to explore discrimination. 'Ownership', 'labelling', 'dehumanisation', and 'obedience without critical thinking and maintaining ethical standards' can lead to moral exclusion. And in turn, it could result in turning a blind eye to genocide.         
+A monologue that uses the Swiss cheese analogy to explore discrimination. 'Ownership', 'labelling', 'dehumanisation', and 'obedience without critical thinking and maintaining ethical standards' can lead to moral exclusion. And in turn, it could result in turning a blind eye to genocide.         
          
-Shahireh is a multidisiplinery artist interested in exploring gender, identity, and race.         
+Shahireh is a multidisiplinary artist interested in exploring gender, identity, and race.         
          
 Insta <a href="https://instagram.com/sangrezeh" target="_blank">@sangrezeh</a>          
 <hr>         
@@ -63,7 +63,7 @@ Insta <a href="https://instagram.com/anotherdiasporan" target="_blank">@anotherd
 <hr>         
 **Rachel Smith** · *MOTHER DARK*         
          
-*Apparently 'rescuing' is enabling and 'helping' is the sunny side of control. But when there's nothing left to catch people, how do we let go?*<br>A propulsive ride through co-dependence, mothers' revenge, recovery, and re-connection. A true life story that may or may not have happened. If you love self help groups, the 90s, and Thelma and Louise, if you yearn in these times for a (dark) mother — this show is for you.<br>A solo show with dramaturgy from Annie Siddons, mentorship from Ursula Martinez, and development funding from Arts Council England.         
+*Apparently 'rescuing' is enabling and 'helping' is the sunny side of control. But when there's nothing left to catch people, how do we let go?*<br>A propulsive ride through co-dependence, mothers' revenge, recovery, and re-connection. A true-life story that may or may not have happened. If you love self-help groups, the 90s, and Thelma and Louise, if you yearn in these times for a (dark) mother — this show is for you.<br>A solo show with dramaturgy from Annie Siddons, mentorship from Ursula Martinez, and development funding from Arts Council England.         
          
 Rachel is a screenwriter and performer living in the North West. Having trained at Manchester School of Theatre in the 90s, Rachel worked extensively as an actor in theatre, TV and film for 16+ years before focussing full time on writing. She has written on many long running BBC TV shows and her R4 crime series *UNDERCOVER* is currently on BBC Sounds. Having returned to performing via stand-up in 2024, she is currently supported by a DYCP grant from Arts Council England to make a return to theatre, developing her first solo show.         
          
@@ -71,7 +71,7 @@ Insta <a href="https://instagram.com/rachthesmith" target="_blank">@rachthesmith
 <hr>         
 **Leah Stone** · *Sex & Neurodivergence*          
          
-A delightfully edgy mix of sex positive disibility and trauma informed advocacy and survival laid out in silly girly packaging, wierd, moving funny and random. The perfect way to spend an evening amidst the global chaos.         
+A delightfully edgy mix of sex positive disability and trauma informed advocacy and survival laid out in silly girly packaging, weird, moving funny and random. The perfect way to spend an evening amidst the global chaos.         
          
 Leah is a BBC New Comedy Award 2021 shortlisted comedian, and MOAN ZINE (issues 5+6) featured sex positive writer and poet.         
          
