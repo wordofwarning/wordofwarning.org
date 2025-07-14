@@ -17,7 +17,7 @@ season: "Social Experiment 17|7|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/jul2025/#artists) · [programme](/socialexperiment/jul2025/#programme) · [entry](/socialexperiment/jul2025/#entry) · [access](/socialexperiment/jul2025/#access) · [credits](/socialexperiment/jul2025/#credits)</span>&ensp; <small>Updated 14 July 2025 at 11am</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/jul2025/#artists) · [programme](/socialexperiment/jul2025/#programme) · [entry](/socialexperiment/jul2025/#entry) · [access](/socialexperiment/jul2025/#access) · [credits](/socialexperiment/jul2025/#credits)</span>&ensp; <small>Updated 14 July 2025 at 11.20am</small>          
          
 *A [Social Experiment](/socialexperiment) on 17 July, presented by* Word of Warning + Contact         
          
@@ -71,7 +71,7 @@ Insta <a href="https://instagram.com/rachthesmith" target="_blank">@rachthesmith
 <hr>         
 **Leah Stone** · *Sex & Neurodivergence*          
          
-A delightfully edgy mix of sex positive disability and trauma informed advocacy and survival laid out in silly girly packaging, weird, moving funny and random. The perfect way to spend an evening amidst the global chaos.         
+A delightfully edgy mix of sex positive disability and trauma-informed advocacy and survival laid out in silly girly packaging; weird, moving, funny, and random. The perfect way to spend an evening amidst the global chaos.         
          
 Leah is a BBC New Comedy Award 2021 shortlisted comedian, and MOAN ZINE (issues 5+6) featured sex positive writer and poet.         
          
