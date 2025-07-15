@@ -17,7 +17,7 @@ season: "Social Experiment 17|7|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/jul2025/#artists) · [programme](/socialexperiment/jul2025/#programme) · [entry](/socialexperiment/jul2025/#entry) · [access](/socialexperiment/jul2025/#access) · [credits](/socialexperiment/jul2025/#credits)</span>&ensp; <small>Updated 14 July 2025 at 11.30am</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/jul2025/#artists) · [programme](/socialexperiment/jul2025/#programme) · [entry](/socialexperiment/jul2025/#entry) · [access](/socialexperiment/jul2025/#access) · [credits](/socialexperiment/jul2025/#credits)</span>&ensp; <small>Updated 15 July 2025 at 10.15am</small>          
          
 *A [Social Experiment](/socialexperiment) on 17 July, presented by* Word of Warning + Contact         
          
@@ -37,7 +37,7 @@ Insta <a href="https://instagram.com/jamesmossart" target="_blank">@jamesmossart
 <hr>         
 **Ben Hodge** · *Dating for Fat People*         
          
-This informational video invites you on a date with a man. That man is fat.<br>Can he hide the truth from his date? Will the date go successfully even with his large body?<br>Join Ben as he explores fat attractiveness and the pressure to impress a date, knowing his body is one that comes with many expectations; not many of those expectations are good.         
+A live Tinder profile to entice you to a date with a man. That man is fat.<br>Can he hide the truth from his date? Will the date go successfully even with his large body?<br>Join Ben as he explores fat attractiveness and the pressure to impress a date, knowing his body is one that comes with many expectations; not many of those expectations are good.<br>Then join Ben for a one-to-one speed date…         
          
 Ben is a comedian, improvisor, and storyteller, currently studying an MA in Queer Performance at Rose Bruford. Ben's humorous approach to his identity as a fat, transmasculine person has seen him earn the title of one of Liverpool's Top 30 under 30. Ben has performed across the country at notable venues as well as festivals such as Brighton Fringe & Edinburgh Fringe Festival. Ben is currently writing his new show *Build-a-Bear*, exploring comfortability in a fat, queer body.         
          
