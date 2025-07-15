@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 15 July 2025 at 10.20am<small>        
+<small>Updated 15 July 2025 at 10.30am<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>(Please click [here](/archive/warnings) for *past* events and *archived* livestreams on our YouTube channel.)         
          
@@ -21,7 +21,7 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 #### 2025         
          
 ##### [17 Jul. Contact | Social Experiment](/socialexperiment/jul2025)          
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction and/or participation; specific warnings follow…<br>&nbsp;Ben Hodge — potential fatphobia aimed at the performer. **Allergy Warning: dates (fruit of date palms).**<br>&nbsp;Leah Stone — sexual content and offensive language (swearing).<br>&nbsp;Rachel Smith — references to mental health and suicide.<br>&nbsp;Shahireh Sharif — references to war and genocide; adult themes.<br>&nbsp;Xhi Ndubisi — graphic depiction of labour & birth; allusion to sexual violence (never overtly stated); offensive language. Tea made of ginger, water, and brown sugar may be offered.<br>&nbsp;&nbsp;*NB* Xhi will be available for debriefing after the performance, and additional support will be signposted.         
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction and/or participation; specific warnings follow…<br>&nbsp;Ben Hodge — potential fatphobia aimed at the performer. **Allergy Warning: dates (fruit of date palms).**<br>&nbsp;Leah Stone — sexual content and offensive language (swearing).<br>&nbsp;Rachel Smith — references to mental health and suicide.<br>&nbsp;Shahireh Sharif — references to war and genocide; adult themes.<br>&nbsp;Xhi Ndubisi — graphic depiction of labour & birth; allusion to sexual violence (never overtly stated); offensive language. Tea made of ginger, water, and brown sugar may be offered. *NB* Xhi will be available for debriefing after the performance, and additional support will be signposted.         
 
 ##### [2 Aug. Z-arts | Haphazard 2025](/current/2025-haphazard)          
 Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction and/or participation; there are no specific warnings.         
