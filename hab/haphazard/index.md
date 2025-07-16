@@ -24,7 +24,7 @@ Playful, quirky, engaging, and sometimes plain daft: this is Live Art for kids a
 
 [**Haphazard 2025**](/current/2025-haphazard) will be our eighth free Live Art takeover of <a href="https://www.z-arts.org/events/haphazard-2025" target="_blank">Z-arts</a>, presenting eight works on **Saturday 2 August from 1pm to 4pm** — turn up at any time, come and go as you please… and expect the unexpected!        
          
-Get a feel for it with some of our [artists’ images](/galleries/2025-haphazardpre) — also see [2024's programme](/archive/2024-haphazard/programme) and [2024's gallery of images](/galleries/2024-haphazard) — also watch our <a href="https://youtu.be/sgw9SjPdCw0" target="_blank">short video</a> to see some of what's gone before.         
+Get a feel for it with some of our [artists’ images](/galleries/2025-haphazardpre) — also see [2024's programme](/archive/2024-haphazard/programme), [2024's gallery of images](/galleries/2024-haphazard), and watch our <a href="https://youtu.be/sgw9SjPdCw0" target="_blank">short video</a> to see some of what's gone before.         
          
 [Haphazard 2025](/current/2025-haphazard) presented by [Word of Warning](/) + <a href="https://z-arts.org" target="_blank">Z-arts</a>; produced by [hÅb](/hab) with <a href="https://z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England, and by Manchester City Council and Greater Manchester Combined Authority.         
           
