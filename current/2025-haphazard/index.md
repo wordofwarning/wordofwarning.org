@@ -15,12 +15,14 @@ season: "Haphazard 2|8|2025, 1-4pm"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits) · [websites](/current/2025-haphazard/#websites)</span><br><small>Updated 9 July 2025</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits) · [websites](/current/2025-haphazard/#websites)</span><br><small>Updated 16 July 2025</small>        
         
 *Presented by* Word of Warning *+* Z-arts           
          
-Playful, quirky, engaging, and sometimes plain daft: Haphazard is for kids and their adults, adults and *their* adults — anyone looking for a different day out!         
-         
+Playful, quirky, engaging, and sometimes plain daft: Haphazard is for kids and their adults, adults and *their* adults — anyone looking for a different day out!          
+          
+Look at some of our [artists’ images](/galleries/2025-haphazardpre).         
+           
 A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2025" target="_blank">Z-arts</a> **on Saturday 2 August from 1pm to 4pm**. Turn up at any time, come and go as you please… and expect the unexpected!         
          
 #### Artists         
