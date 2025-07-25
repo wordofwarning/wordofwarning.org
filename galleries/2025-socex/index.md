@@ -15,8 +15,8 @@ gallery:
     -   {file: "ben_hodge.jpg", artist: "Ben Hodge (July 2025)"}
     -   {file: "james_moss.jpg", artist: "James Moss (July 2025)"}
     -   {file: "shahireh_sharif.jpg", artist: "Shahireh Sharif (July 2025)"}
-    -   {file: "rachel_smith", artist: "Rachel Smith (July 2025)"}
-    -   {file: "leah_stone", artist: "Leah Stone (July 2025)"}
+    -   {file: "rachel_smith.jpg", artist: "Rachel Smith (July 2025)"}
+    -   {file: "leah_stone.jpg", artist: "Leah Stone (July 2025)"}
     -   {file: "ben_hodge1.jpg", artist: "Ben Hodge (May 2025)"}
     -   {file: "ben_hodge2.jpg", artist: "Ben Hodge (May 2025)"}
     -   {file: "joely_jasmine1.jpg", artist: "Joely Mae Greally & Jasmine Naila Burt (May 2025)"}
