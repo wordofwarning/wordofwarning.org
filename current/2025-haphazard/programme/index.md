@@ -17,23 +17,13 @@ season: "Haphazard 2|8|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [programme](/current/2025-haphazard/programme) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits)</span>&ensp; <small>Updated 30 July 2025 at 3.25pm</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [programme](/current/2025-haphazard/programme) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits)</span>&ensp; <small>Updated 30 July 2025 at 5.25pm</small>         
          
 *Presented by* Word of Warning *+* Z-arts        
          
 [Haphazard 2025](/current/2025-haphazard) is a free afternoon for the curious of all ages — see our [artists' images](/galleries/2025-haphazardpre/). A Live Art takeover of <a href="https://z-arts.org/events/haphazard-2025" target="_blank">Z-arts</a> on Saturday 2 August from 1pm to 4pm. Turn up at any time, come and go as you please… and expect the unexpected!           
 <hr>         
-**the institute for crazy dancing** · *FRAGILE. One way to wonderment…*         
-         
-*Come and join us for a conversation about fragility — find your balance, then enter our cube, for a new view on the world.*         
-
-OLD: A colourful cube transforms into a see-saw and a striking Hazard Cube.<br>*Feeling fragile? Get a sticker; find your balance; make a wish and enter wonderment…*        
-         
-The ICD has been crafting participatory performance art for 25 years. From cross-city masquerades to installations that look like fairground rides — but do all the opposites; absurdist cabaret to art gallery interventions and site-responsive performance.         
-         
-<a href="https://icdancing.com" target="_blank">icdancing.com</a> · Insta <a href="https://instagram.com/icdancing" target="_blank">@icdancing</a>         
-<hr>         
-**Puppetfingers** · *A Mushroom World*         
+**Puppetfingers** · *A Mushroom World* · Roaming         
          
 A playful piece exploring re-enchantment through the eyes of a mushroom.<br>The fungi character reflects the vital role of mushrooms and mycelium in nature. In this new performance, the mushroom becomes a connector — linking people, nature, and space through curiosity, presence, and joyful interaction.         
          
@@ -41,7 +31,7 @@ Amy Hegarty (Puppetfingers) is a designer, maker, and performer in the outdoor a
          
 <a href="https://www.puppetfingers.com" target="_blank">puppetfingers.com</a> · Insta <a href="https://instagram.com/puppetfingers" target="_blank">@puppetfingers</a>         
 <hr>         
-**TurnAround Dance Theatre** · *Join The Circus (walking about)*         
+**TurnAround Dance Theatre** · *Join The Circus* · Roaming         
          
 *Roll up, Roll up! Meet Boingabella, the bounciest, springiest stilt walker in town!*<br>
 Dressed as a dazzling circus tent, she'll whisk you away on a high-flying adventure. Hunt for hidden circus clues‚ each unlocking a playful dance challenge. A joyful, interactive experience for all ages — circus adventure you won't want to miss!         
@@ -50,7 +40,7 @@ Ellen Turner is a Yorkshire-based stilt, film, and dance artist. She founded Tur
          
 <a href="https://www.turnarounddancetheatre.co.uk" target="_blank">turnarounddancetheatre.co.uk</a> · Insta <a href="https://instagram.com/turnarounddance" target="_blank">@turnarounddance</a>         
 <hr>         
-**Aimee Williamson** · *Cloak of Spells*         
+**Aimee Williamson** · *Cloak of Spells* · Cafe         
          
 Join Aimee, a friendly witch, in her coven — where you can make a magical spell to add to the Cloak of Spells! Then watch a special Broom Dance to cast all the spells out into the world…         
          
@@ -58,7 +48,7 @@ Aimee is a Lancashire-based performer, dance artist, and theatre-maker. Her work
          
 <a href="https://rvarts.co.uk/aimee-lily-williamson" target="_blank">rvarts.co.uk/aimee-lily-williamson</a> · Insta <a href="https://instagram.com/aimeelilywilliamson" target="_blank">@aimeelilywilliamson</a>         
 <hr>         
-**Orla Collier** · *Sometimes I hate going for walks in nice places that look nice*         
+**Orla Collier** · *Sometimes I hate going for walks in nice places that look nice* · Theatre         
          
 A solo performance piece exploring feelings of pressure and overwhelm.         
          
@@ -68,13 +58,13 @@ Orla is a Leeds-based freelance dance & physical theatre artist from Cumbria. Sh
          
 <a href="https://www.orlacollier.com" target="_blank">orlacollier.com</a> · Insta <a href="https://instagram.com/orla.collier" target="_blank">@orla.collier</a>         
 <hr>         
-**TurnAround Dance Theatre** · *Join The Circus (in the theatre)*         
+**TurnAround Dance Theatre** · *Join The Circus* · Theatre         
          
 Join BoingaBella as you look up to the sky… and spot Aimee the Air Witch, flying high and weaving magic mid-air with the mysterious Cloak of Spells aerial act. Together, they bring a sparkling mix of circus fun, folklore, and spellbinding surprises! Unlock the magic and become part of the show!         
          
 TurnAround Dance Theatre is thrilled to be collaborating with aerialist Aimee Williamson — read more about them in earlier entries.        
 <hr>         
-**Shannon Mulvey** · *FRANKENDIVA!*         
+**Shannon Mulvey** · *FRANKENDIVA!* · Theatre         
          
 A glorious, glitter-soaked monster of a show, *FRANKENDIVA!* is stomping back — bigger, bolder, and even more unapologetically fabulous. 💥🧷💋         
          
@@ -86,7 +76,15 @@ Shannon is a performer & lecturer with extensive national and international expe
          
 <a href="https://www.shannonmulvey.com" target="_blank">shannonmulvey.com</a> · Insta <a href="https://instagram.com/smperformanceart" target="_blank">@smperformanceart</a>         
 <hr>         
-**Madame Zucchini** · *Hot Political Potato Gameshow*         
+**the institute for crazy dancing** · *FRAGILE. One way to wonderment…* · Activity Space         
+         
+A colourful cube transforms into a see-saw and a striking Hazard Cube.<br>Feeling fragile? Get a sticker; find your balance; make a wish and enter wonderment…<br>Come and join us for a conversation about fragility — find your balance, then enter our cube, for a new view on the world.*         
+
+The ICD has been crafting participatory performance art for 25 years. From cross-city masquerades to installations that look like fairground rides — but do all the opposites; absurdist cabaret to art gallery interventions and site-responsive performance.         
+         
+<a href="https://icdancing.com" target="_blank">icdancing.com</a> · Insta <a href="https://instagram.com/icdancing" target="_blank">@icdancing</a>         
+<hr>         
+**Madame Zucchini** · *Hot Political Potato Gameshow* · Artists Studio from 1.30pm         
          
 *Come and see the veg characters Mme Z has created — could Nigel Cabbage be there? What about Tayto Swift? Do you want to throw potatoes at them in her Veg Shy, reminiscent of fetes with a dash of the horticultural show? Do you want to create your own character to add to the lineup? Feel free to take your creation with you.*         
          
