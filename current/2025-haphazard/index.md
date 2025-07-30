@@ -15,7 +15,7 @@ season: "Haphazard 2|8|2025, 1-4pm"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits) · [websites](/current/2025-haphazard/#websites)</span><br><small>Updated 25 July 2025</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits) · [websites](/current/2025-haphazard/#websites)</span><br><small>Updated 30 July 2025</small>        
         
 *Presented by* Word of Warning *+* Z-arts           
          
@@ -40,7 +40,7 @@ Age Advisory: suitable for all ages (parent/guardian/carer discretion).
          
 Content Warnings: some works involve interaction and/or participation; there are no [specific warnings](/warnings).         
          
-Features: eight Live Art, contemporary performance, and participatory works with varied content.<br>*NB* multiple spaces are in use and works are varied in format — some roaming, some seated, some standing, some spoken word, some visual, some participatory.<br>*NB* one of the lifts in <a href="https://z-arts.org/home/your-visit-to-z-arts/access" target="_blank">Z-arts</a> is currently out of order, which is affecting access to the lower ground and basement floors.<br>There is stair access available, but they know this might be tricky — especially if you're bringing buggies, prams, or have any access requirements — so they wanted to let you know as early as possible. They're keeping a close eye on the situation and we will keep you posted here if anything changes.<br>If you have any questions or if there's anything they can do to support your visit, please don't hesitate to get in touch — they're happy to help!       
+Features: eight Live Art, contemporary performance, and participatory works with varied content.<br>*NB* multiple spaces are in use on the ground & first floors, and works are varied in format — some roaming, some seated, some standing, some spoken word, some visual, some participatory.         
          
 Queries: please contact <a href="https://z-arts.org/home/your-visit-to-z-arts/access" target="_blank">Z-arts</a> via 0161 226 1912 or <mailto:boxoffice@z-arts.org>        
          
