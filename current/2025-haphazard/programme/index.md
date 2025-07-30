@@ -17,7 +17,7 @@ season: "Haphazard 2|8|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [programme](/current/2025-haphazard/programme) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits)</span>&ensp; <small>Updated 30 July 2025 at 2pm</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [programme](/current/2025-haphazard/programme) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits)</span>&ensp; <small>Updated 30 July 2025 at 2.30pm</small>         
          
 *Presented by* Word of Warning *+* Z-arts        
          
@@ -25,9 +25,7 @@ season: "Haphazard 2|8|2025, Programme"
 <hr>         
 **the institute for crazy dancing** · *FRAGILE. One way to wonderment…*         
          
-A colourful cube transforms into a see-saw and a striking Hazard Cube.<br>*Feeling fragile? Get a sticker; find your balance; make a wish and enter wonderment…*         
-         
-*THIS PARA READS LIKE DESCRIPTION, NOT COPY?<br>Participants approach us and ask what's going on. We engage in conversation about fragility. Up to four participants at a time then get a FR/AGILE sticker and find balance on the see-saw. Following the balance we unzip the 2m cube and invite the participants inside: "Close your eyes and make a wish". Then we count down from ten before tilting the cube on its axis to release them to a new view of the world.*         
+A colourful cube transforms into a see-saw and a striking Hazard Cube.<br>*Feeling fragile? Get a sticker; find your balance; make a wish and enter wonderment…*        
          
 The ICD has been crafting participatory performance art for 25 years. From cross-city masquerades to installations that look like fairground rides — but do all the opposites; absurdist cabaret to art gallery interventions and site-responsive performance.         
          
