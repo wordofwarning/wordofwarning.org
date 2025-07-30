@@ -17,11 +17,11 @@ season: "Haphazard 2|8|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [programme](/current/2025-haphazard/programme) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits) · [websites](/current/2025-haphazard/#websites)</span>&ensp; <small>Updated 30 July 2025 at 13:40</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [programme](/current/2025-haphazard/programme) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits)</span>&ensp; <small>Updated 30 July 2025 at 2pm</small>         
          
 *Presented by* Word of Warning *+* Z-arts        
          
-[Haphazard 2025](/current/2025-haphazard) is a free afternoon for the curious of all ages — see our [artists' images](/galleries/2025-haphazardpre/). A Live Art takeover of <a href="https://z-arts.org/events/haphazard-2025" target="_blank">Z-arts</a> on Saturday 2 August from 1pm to 4pm. Turn up at any time, come and go as you please… expect the unexpected!           
+[Haphazard 2025](/current/2025-haphazard) is a free afternoon for the curious of all ages — see our [artists' images](/galleries/2025-haphazardpre/). A Live Art takeover of <a href="https://z-arts.org/events/haphazard-2025" target="_blank">Z-arts</a> on Saturday 2 August from 1pm to 4pm. Turn up at any time, come and go as you please… and expect the unexpected!           
 <hr>         
 **the institute for crazy dancing** · *FRAGILE. One way to wonderment…*         
          
@@ -74,14 +74,6 @@ Join BoingaBella as you look up to the sky… and spot Aimee the Air Witch, flyi
          
 TurnAround Dance Theatre is thrilled to be collaborating with aerialist Aimee Williamson — read more about them in earlier entries.        
 <hr>         
-**Madame Zucchini** · *Hot Political Potato Gameshow*         
-         
-*Come and see the veg characters Mme Z has created — could Nigel Cabbage be there? What about Tayto Swift? Do you want to throw potatoes at them in her Veg Shy, reminiscent of fetes with a dash of the horticultural show? Do you want to create your own character to add to the lineup? Feel free to take your creation with you.*         
-         
-Madame Zucchini entertains with vegetables, and sometimes with fruit. She creates her own veg puppet shows (like Pirates of the Carrotbean with Capn Jack Marrow & Kiwi Knightley), runs veg craft sessions, and even dresses up in various vegetable guises. She has done this at all kinds of events across the UK for around 17 years.         
-         
-<a href="https://www.madamezucchini.co.uk" target="_blank">madamezucchini.co.uk</a> · Insta <a href="https://instagram.com/madamezucchini" target="_blank">@madamezucchini</a>         
-<hr>         
 **Shannon Mulvey** · *FRANKENDIVA!*         
          
 A glorious, glitter-soaked monster of a show, *FRANKENDIVA!* is stomping back — bigger, bolder, and even more unapologetically fabulous. 💥🧷💋         
@@ -92,7 +84,15 @@ Part pop party, part power anthem, this high-energy, interactive performance is 
          
 Shannon is a performer & lecturer with extensive national and international experience. As a solo artist, she has performed with FC Bergman at the Barbican Theatre, Trapdoor Theatre in Chicago, Gardzienice Theatre in Poland, and the Almeida Theatre. Television credits include appearances on BBC, ITV, and Channel 5.         
          
-<a href="https://www.shannonmulvey.com" target="_blank">shannonmulvey.com</a> · Insta <a href="https://instagram.com/smperformanceart" target="_blank">@smperformanceart</a>
-<hr>                  
+<a href="https://www.shannonmulvey.com" target="_blank">shannonmulvey.com</a> · Insta <a href="https://instagram.com/smperformanceart" target="_blank">@smperformanceart</a>         
+<hr>         
+**Madame Zucchini** · *Hot Political Potato Gameshow*         
+         
+*Come and see the veg characters Mme Z has created — could Nigel Cabbage be there? What about Tayto Swift? Do you want to throw potatoes at them in her Veg Shy, reminiscent of fetes with a dash of the horticultural show? Do you want to create your own character to add to the lineup? Feel free to take your creation with you.*         
+         
+Madame Zucchini entertains with vegetables, and sometimes with fruit. She creates her own veg puppet shows (like Pirates of the Carrotbean with Capn Jack Marrow & Kiwi Knightley), runs veg craft sessions, and even dresses up in various vegetable guises. She has done this at all kinds of events across the UK for around 17 years.         
+         
+<a href="https://www.madamezucchini.co.uk" target="_blank">madamezucchini.co.uk</a> · Insta <a href="https://instagram.com/madamezucchini" target="_blank">@madamezucchini</a>         
+<hr>         
 Image: Puppetfingers         
 <small><span style='font-variant: small-caps'>[back to top](/current/2025-haphazard/programme)</span></small>
