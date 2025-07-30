@@ -17,7 +17,7 @@ season: "Haphazard 2|8|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [programme](/current/2025-haphazard/programme) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits)</span>&ensp; <small>Updated 30 July 2025 at 2.30pm</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [programme](/current/2025-haphazard/programme) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits)</span>&ensp; <small>Updated 30 July 2025 at 3.25pm</small>         
          
 *Presented by* Word of Warning *+* Z-arts        
          
@@ -25,7 +25,9 @@ season: "Haphazard 2|8|2025, Programme"
 <hr>         
 **the institute for crazy dancing** · *FRAGILE. One way to wonderment…*         
          
-A colourful cube transforms into a see-saw and a striking Hazard Cube.<br>*Feeling fragile? Get a sticker; find your balance; make a wish and enter wonderment…*        
+*Come and join us for a conversation about fragility — find your balance, then enter our cube, for a new view on the world.*         
+
+OLD: A colourful cube transforms into a see-saw and a striking Hazard Cube.<br>*Feeling fragile? Get a sticker; find your balance; make a wish and enter wonderment…*        
          
 The ICD has been crafting participatory performance art for 25 years. From cross-city masquerades to installations that look like fairground rides — but do all the opposites; absurdist cabaret to art gallery interventions and site-responsive performance.         
          
