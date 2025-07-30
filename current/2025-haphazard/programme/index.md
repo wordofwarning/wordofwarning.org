@@ -17,32 +17,32 @@ season: "Haphazard 2|8|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [programme](/current/2025-haphazard/programme) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits) · [websites](/current/2025-haphazard/#websites)</span>&ensp; <small>Updated 30 July 2025 at 12:55</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [programme](/current/2025-haphazard/programme) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits) · [websites](/current/2025-haphazard/#websites)</span>&ensp; <small>Updated 30 July 2025 at 13:30</small>         
          
 *Presented by* Word of Warning *+* Z-arts        
          
-[Haphazard 2025](/current/2025-haphazard) is a free afternoon for the curious of all ages; a Live Art takeover of <a href="https://z-arts.org/events/haphazard-2025" target="_blank">Z-arts</a> on Saturday 2 August from 1pm to 4pm — look at some of our [artists' images](/galleries/2025-haphazardpre/). Turn up at any time, come and go as you please… and expect the unexpected!          
+[Haphazard 2025](/current/2025-haphazard) is an afternoon for the curious of all ages — look at some of our [artists' images](/galleries/2025-haphazardpre/).<br>A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2025" target="_blank">Z-arts</a> on Saturday 2 August from 1pm to 4pm. Turn up at any time, come and go as you please… and expect the unexpected!           
 <hr>         
-**the institute for crazy dancing** · *FRAGILE. One way to wonderment…*         
+**the institute for crazy dancing** · *FRAGILE*         
          
-A colourful one metre cube transforms into a see-saw and a striking two metre Hazard Cube.<br>*Participants approach us and ask what's going on. We engage in conversation about fragility. Up to four participants at a time then get a FR/AGILE sticker and find balance on the see-saw. Following the balance we unzip the 2m cube and invite the participants inside: "Close your eyes and make a wish". Then we count down from ten before tilting the cube on its axis to release them to a new view of the world.*         
+*One way to wonderment…* A colourful one metre cube transforms into a see-saw and a striking two metre Hazard Cube.<br>*Feeling fragile? Get a sticker; find your balance; make a wish and enter wonderment…*<br>*Participants approach us and ask what's going on. We engage in conversation about fragility. Up to four participants at a time then get a FR/AGILE sticker and find balance on the see-saw. Following the balance we unzip the 2m cube and invite the participants inside: "Close your eyes and make a wish". Then we count down from ten before tilting the cube on its axis to release them to a new view of the world.*         
          
 The ICD has been crafting participatory performance art for 25 years. From cross-city masquerades to installations that look like fairground rides — but do all the opposites; absurdist cabaret to art gallery interventions and site-responsive performance.         
          
-<a href="https://icdancing.com" target="_blank">icdancing.com</a>· Insta <a href="https://instagram.com/icdancing" target="_blank">@icdancing</a>         
+<a href="https://icdancing.com" target="_blank">icdancing.com</a> · Insta <a href="https://instagram.com/icdancing" target="_blank">@icdancing</a>         
 <hr>         
 **Puppetfingers** · *A Mushroom World*         
          
 A playful piece exploring re-enchantment through the eyes of a mushroom.<br>The fungi character reflects the vital role of mushrooms and mycelium in nature. In this new performance, the mushroom becomes a connector — linking people, nature, and space through curiosity, presence, and joyful interaction.         
          
-Puppetfingers: Amy Hegarty is a designer, maker, and performer in the outdoor arts world — specialising in costume, puppetry, and community arts. Her work is collaborative and playful. She particularly enjoys the buzz of performing and creating art that communities can engage with.         
+Amy Hegarty (Puppetfingers) is a designer, maker, and performer in the outdoor arts world — specialising in costume, puppetry, and community arts. Her work is collaborative and playful. She particularly enjoys the buzz of performing and creating art that communities can engage with.         
          
-<a href="https://www.puppetfingers.com" target="_blank">puppetfingers.com</a>· Insta <a href="https://instagram.com/puppetfingers" target="_blank">@puppetfingers</a>         
+<a href="https://www.puppetfingers.com" target="_blank">puppetfingers.com</a> · Insta <a href="https://instagram.com/puppetfingers" target="_blank">@puppetfingers</a>         
 <hr>         
 **TurnAround Dance Theatre** · *Join The Circus (walking about)*         
          
 *Roll up, Roll up! Meet Boingabella, the bounciest, springiest stilt walker in town!*<br>
-Dressed as a dazzling circus tent, she'll whisk you away on a high-flying adventure. Hunt for hidden circus clues‚ each unlocking a playful dance challenge.<br>A joyful, interactive experience for all ages — circus adventure you won't want to miss!         
+Dressed as a dazzling circus tent, she'll whisk you away on a high-flying adventure. Hunt for hidden circus clues‚ each unlocking a playful dance challenge. A joyful, interactive experience for all ages — circus adventure you won't want to miss!         
          
 Ellen Turner is a Yorkshire-based stilt, film, and dance artist. She founded TurnAround Dance Theatre in 2013, creating family-friendly circus and walkabout acts. Ellen's career began with Ludus Dance, touring works by Nigel Charnock, Yael Flexer, and Ben Wright. Her solo debut [*Car-Door Moment*](/archive/2013-worksahead/turner) won the Turn Prize 2012. She continues to tour, lead workshops, and has recently secured funding to develop work for early years, family audiences, and explore new theatrical styles like clowning, to enrich her performances.          
          
@@ -52,9 +52,9 @@ Ellen Turner is a Yorkshire-based stilt, film, and dance artist. She founded Tur
          
 Join Aimee, a friendly witch, in her coven — where you can make a magical spell to add to the Cloak of Spells! Then watch a special Broom Dance to cast all the spells out into the world…         
          
-Aimee Williamson is a Lancashire-based performer, dance artist, and theatre-maker. Her work spans across ballet, contemporary, physical theatre, and puppetry. She creates work for outdoor spaces using inspiration from folklore, nature, and local heritage.         
+Aimee is a Lancashire-based performer, dance artist, and theatre-maker. Her work spans across ballet, contemporary, physical theatre, and puppetry. She creates work for outdoor spaces using inspiration from folklore, nature, and local heritage.         
          
-<a href="https://rvarts.co.uk/aimee-lily-williamson" target="_blank">rvarts.co.uk/aimee-lily-williamson</a>· Insta <a href="https://instagram.com/aimeelilywilliamson" target="_blank">@aimeelilywilliamson</a>         
+<a href="https://rvarts.co.uk/aimee-lily-williamson" target="_blank">rvarts.co.uk/aimee-lily-williamson</a> · Insta <a href="https://instagram.com/aimeelilywilliamson" target="_blank">@aimeelilywilliamson</a>         
 <hr>         
 **Orla Collier** · *Sometimes I hate going for walks in nice places that look nice*         
          
@@ -62,7 +62,7 @@ A solo performance piece exploring feelings of pressure and overwhelm.
          
 Created & performed by Orla Collier. Music by Lee Affen. Commissioned & supported by <a href="https://www.theknottedproject.co.uk" target="_blank">The Knotted Project</a>         
           
-Orla is a Leeds-based freelance dance & physical theatre artist from Cumbria. She trained at Rambert School & NSCD, and now works as a performer, teacher, and choreographer. She is inspired by the capacity that dance and theatre has for emotional expression, and how it allows experiences to be explored in both real and absurd ways.         
+Orla is a Leeds-based freelance dance & physical theatre artist from Cumbria. She trained at Rambert School & NSCD, and now works as a performer, teacher, and choreographer. Orla is inspired by the capacity that dance and theatre has for emotional expression, and how it allows experiences to be explored in both real and absurd ways.         
          
 <a href="https://www.orlacollier.com" target="_blank">orlacollier.com</a>· Insta <a href="https://instagram.com/orla.collier" target="_blank">@orla.collier</a>         
 <hr>         
@@ -74,21 +74,23 @@ TurnAround Dance Theatre is thrilled to be collaborating with aerialist Aimee Wi
 <hr>         
 **Madame Zucchini** · *Hot Political Potato Gameshow*         
          
-*Come and see the veg characters Mme Z has created — could Nigel Cabbage be there? What about Tayto Swift? Do you want to throw potatoes at them in her Veg Shy, reminiscent of fetes with a dash of the horticultural show? Do you want to create your own character to add to the lineup? Feel free to take your creation with you.         
+*Come and see the veg characters Mme Z has created — could Nigel Cabbage be there? What about Tayto Swift? Do you want to throw potatoes at them in her Veg Shy, reminiscent of fetes with a dash of the horticultural show? Do you want to create your own character to add to the lineup? Feel free to take your creation with you.*         
          
 Madame Zucchini entertains with vegetables, and sometimes with fruit. She creates her own veg puppet shows (like Pirates of the Carrotbean with Capn Jack Marrow & Kiwi Knightley), runs veg craft sessions, and even dresses up in various vegetable guises. She has done this at all kinds of events across the UK for around 17 years.         
          
-<a href="https://www.madamezucchini.co.uk" target="_blank">madamezucchini.co.uk</a>· Insta <a href="https://instagram.com/madamezucchini" target="_blank">@madamezucchini</a>         
+<a href="https://www.madamezucchini.co.uk" target="_blank">madamezucchini.co.uk</a> · Insta <a href="https://instagram.com/madamezucchini" target="_blank">@madamezucchini</a>         
 <hr>         
 **Shannon Mulvey** · *FRANKENDIVA!*         
          
-A glorious, glitter-soaked monster of a show, *FRANKENDIVA!* is stomping back — bigger, bolder, and even more unapologetically fabulous. 💥🧷💋<br>Part pop party, part power anthem, this high-energy, interactive performance is inspired by Frankenstein — but instead of creating a monster, we're building a DIVA. With the help of the audience, piece by piece, she comes to life in all her fierce, messy glory. Expect iconic pop, franken-glam aesthetics, and a wild celebration of individuality, empowerment, and rejecting society's expectations.        
+A glorious, glitter-soaked monster of a show, *FRANKENDIVA!* is stomping back — bigger, bolder, and even more unapologetically fabulous. 💥🧷💋         
+         
+Part pop party, part power anthem, this high-energy, interactive performance is inspired by Frankenstein — but instead of creating a monster, we're building a DIVA. With the help of the audience, piece by piece, she comes to life in all her fierce, messy glory. Expect iconic pop, franken-glam aesthetics, and a wild celebration of individuality, empowerment, and rejecting society's expectations.        
 
-**At 15:30, join us for the *FRANKENDIVA! DISCO*** — a full-throttle, all-in, stomp-it-out dance party where everyone gets up to unleash their inner diva. 💃⚡️ Let's build a diva. Together. One stomp at a time. 💄🩹         
+**At 15:30**, join us for the *FRANKENDIVA! DISCO* — a full-throttle, all-in, stomp-it-out dance party where everyone gets up to unleash their inner diva. 💃⚡️ Let's build a diva. Together. One stomp at a time. 💄🩹         
          
 Shannon is a performer & lecturer with extensive national and international experience. As a solo artist, she has performed with FC Bergman at the Barbican Theatre, Trapdoor Theatre in Chicago, Gardzienice Theatre in Poland, and the Almeida Theatre. Television credits include appearances on BBC, ITV, and Channel 5.         
          
-<a href="https://www.shannonmulvey.com" target="_blank">shannonmulvey.com</a>· Insta <a href="https://instagram.com/smperformanceart" target="_blank">@smperformanceart</a>
+<a href="https://www.shannonmulvey.com" target="_blank">shannonmulvey.com</a> · Insta <a href="https://instagram.com/smperformanceart" target="_blank">@smperformanceart</a>
 <hr>                  
 Image: Puppetfingers         
 <small><span style='font-variant: small-caps'>[back to top](/current/2025-haphazard/programme)</span></small>
