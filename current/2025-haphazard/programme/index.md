@@ -4,11 +4,12 @@ layout: 2024-haphazard
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Haphazard 2024"
-show: "Programme Notes"
+artist: "Haphazard 2025" # the name of the artist or company
+show: "Programme Notes" # the name of the show
 artist_size: 1
 show_size: 4
-season: "Haphazard 27|7|2024, Programme Notes"
+header_image:
+season: "Haphazard 2|8|2025, Programme"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -16,26 +17,37 @@ season: "Haphazard 27|7|2024, Programme Notes"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 20 December 2024</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [programme](/current/2025-haphazard/programme) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits) · [websites](/current/2025-haphazard/#websites)</span>&ensp; <small>Updated 30 July 2025 at 11:10</small>         
          
-*[A free afternoon for the curious of all ages on 27 July](/archive/2024-haphazard), presented by* Word of Warning *+* Z-arts — *look at some of our [artists' images](/galleries/2024-haphazardpre).*        
+*Presented by* Word of Warning *+* Z-arts        
          
-#### Artists         
-Chanje&nbsp;Kunda&nbsp;· Chicken&nbsp;Shop&nbsp;Hermits&nbsp;· Chris&nbsp;Sav&nbsp;· Failed&nbsp;Artists&nbsp;Society&nbsp;· Jana&nbsp;Aizupe&nbsp;&&nbsp;Company&nbsp;· perfectly&nbsp;serviceable&nbsp;· Porcelain&nbsp;Delaney&nbsp;· Sohail&nbsp;Khan&nbsp;· Thomas&nbsp;Daniel&nbsp;Byrne&nbsp;&&nbsp;Aimee&nbsp;Williamson<br><small>*Participating artists subject to change.*</small>       
-         
-#### Access       
-Age Advisory: suitable for all ages (parent/guardian/carer discretion).         
-         
-Content Warnings: some works involve interaction and/or participation; any specific warnings will be listed [here](/warnings).         
-         
-Features: nine Live Art, contemporary performance, and participatory works with varied content.         
-         
-*NB* artists will take breaks on an ad hoc basis and some works have a short duration — although some works repeat you may not get a chance to see everything. Multiple spaces are in use and works are varied in format — some roaming, some seated, some standing, some spoken word, some visual, some participatory.         
-       
-Queries: please contact <a href="https://z-arts.org/home/your-visit-to-z-arts/access" target="_blank">Z-arts</a> via 0161 226 1912 or <mailto:boxoffice@z-arts.org>        
-         
-#### Programme
+[Haphazard 2025](/current/2025-haphazard) is a free afternoon for the curious of all ages; a Live Art takeover of <a href="https://z-arts.org/events/haphazard-2025" target="_blank">Z-arts</a> on Saturday 2 August from 1pm to 4pm — look at some of our [artists' images](/galleries/2025-haphazardpre/). Turn up at any time, come and go as you please… and expect the unexpected!          
 <hr>         
+        
+<hr>         
+**Aimee Williamson** · *
+
+Aimee is a Lancashire-based dance artist who loves folklore; together they make work for young people that is kind, highly visual, and immersive.        
+
+Insta <a href="https://instagram.com/aimeelilywilliamson" target="_blank">@aimeelilywilliamson</a>
+**Madame Zucchini** · *
+Insta <a href="https://instagram.com/madamezucchini" target="_blank">@madamezucchini</a>
+**Orla Collier** · *
+Insta <a href="https://instagram.com/orla.collier" target="_blank">@orla.collier</a>
+**Puppetfingers** · *
+Insta <a href="https://instagram.com/puppetfingers" target="_blank">@puppetfingers</a>
+**Shannon Mulvey** · *
+Insta <a href="https://instagram.com/smperformanceart" target="_blank">@smperformanceart</a>
+**the institute for crazy dancing** · *
+Insta <a href="https://instagram.com/icdancing" target="_blank">@icdancing</a>
+**TurnAround Dance Theatre** · *
+Insta <a href="https://instagram.com/turnarounddance" target="_blank">@turnarounddance</a>
+
+
+
+<br>Shannon Mulvey — <br>the institute for crazy dancing — <br>TurnAround Dance Theatre —          
+
+
 **Chanje Kunda** · *Climate for Healing*         
          
 Join Chanje to repurpose some of the 350 million tonnes of single-use plastic waste created every year. Wearing it, dancing with it, and creating art with it — Chanje brings focus to the need to ban single-use plastics.         
@@ -100,13 +112,15 @@ Huddersfield-based Sohail makes work around heritage, the impacts of British col
          
 sohail khan live art YouTube <a href="https://youtube.com/@trilobitefulness" target="_blank">@trilobitefulness</a>         
 <hr>         
-**Thomas Daniel Byrne, performed by Aimee Williamson** · *Blast Off!*         
+**Aimee Williamson** · *Blast Off!*         
          
 A story of space travel, football, and friendship told through a beautifully illustrated ‘crankie’ scroll. A walkabout performance for two at a time — pop on some headphones and be transported…         
          
-Thomas is a Manchester-based performer, musician, and puppeteer, Aimee is a Lancashire-based dance artist who loves folklore; together they make work for young people that is kind, highly visual, and immersive.        
+
          
-Thomas YouTube <a href="https://youtube.com/@ThomasDanielByrne" target="_blank">@ThomasDanielByrne</a> · Aimee Insta <a href="https://instagram.com/aimeelilywilliamson" target="_blank">@aimeelilywilliamson</a>         
+Aimee Insta <a href="https://instagram.com/aimeelilywilliamson" target="_blank">@aimeelilywilliamson</a>         
 <hr>          
-[Haphazard](/hab/haphazard) [2024](/archive/2024-haphazard) produced by [hÅb](/hab) with <a href="https://z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England, and by Manchester City Council and Greater Manchester Combined Authority.<br>Image: Puppetfingers at [Haphazard 2023](/archive/2023-haphazard)         
-<small><span style='font-variant: small-caps'>[back to top](/archive/2024-haphazard/programme)</span></small>
+
+<hr>                  
+Image: Puppetfingers         
+<small><span style='font-variant: small-caps'>[back to top](/current/2025-haphazard/programme)</span></small>
