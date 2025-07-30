@@ -1,6 +1,6 @@
 ---
 # CONFIGURATION
-layout: 2024-haphazard
+layout: 2025-haphazard
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
@@ -17,35 +17,65 @@ season: "Haphazard 2|8|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [programme](/current/2025-haphazard/programme) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits) · [websites](/current/2025-haphazard/#websites)</span>&ensp; <small>Updated 30 July 2025 at 11:10</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [programme](/current/2025-haphazard/programme) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits) · [websites](/current/2025-haphazard/#websites)</span>&ensp; <small>Updated 30 July 2025 at 12:10</small>         
          
 *Presented by* Word of Warning *+* Z-arts        
          
 [Haphazard 2025](/current/2025-haphazard) is a free afternoon for the curious of all ages; a Live Art takeover of <a href="https://z-arts.org/events/haphazard-2025" target="_blank">Z-arts</a> on Saturday 2 August from 1pm to 4pm — look at some of our [artists' images](/galleries/2025-haphazardpre/). Turn up at any time, come and go as you please… and expect the unexpected!          
 <hr>         
-        
+**the institute for crazy dancing** · *FRAGILE. One way to wonderment…*         
+         
+A colourful one metre cube transforms into a see-saw and a striking two metre Hazard Cube.<br>*Participants approach us and ask what's going on. We engage in conversation about fragility. Up to four participants at a time then get a FR/AGILE sticker and find balance on the see-saw. Following the balance we unzip the 2m cube and invite the participants inside: "Close your eyes and make a wish". Then we count down from ten before tilting the cube on its axis to release them to a new view of the world.*         
+         
+The ICD has been crafting participatory performance art for 25 years. From cross-city masquerades to installations that look like fairground rides — but do all the opposites; absurdist cabaret to art gallery interventions and site-responsive performance.         
+         
+<a href="https://icdancing.com" target="_blank">icdancing.com</a>· Insta <a href="https://instagram.com/icdancing" target="_blank">@icdancing</a>         
 <hr>         
-**Aimee Williamson** · *
+**Puppetfingers** · *A Mushroom World*         
+         
+A playful piece exploring re-enchantment through the eyes of a mushroom.<br>The fungi character reflects the vital role of mushrooms and mycelium in nature. In this new performance, the mushroom becomes a connector — linking people, nature, and space through curiosity, presence, and joyful interaction.         
+         
+Puppetfingers: Amy Hegarty is a designer, maker, and performer in the outdoor arts world — specialising in costume, puppetry, and community arts. Her work is collaborative and playful. She particularly enjoys the buzz of performing and creating art that communities can engage with.         
+         
+<a href="https://www.puppetfingers.com" target="_blank">puppetfingers.com</a>· Insta <a href="https://instagram.com/puppetfingers" target="_blank">@puppetfingers</a>         
+<hr>         
+**TurnAround Dance Theatre** · *Join The Circus*         
+         
+*Roll up, Roll up! Meet Boingabella, the bounciest, springiest stilt walker in town!*<br>
+Dressed as a dazzling circus tent, she'll whisk you away on a high-flying adventure. Hunt for hidden circus clues‚ each unlocking a playful dance challenge.<br>A joyful, interactive experience for all ages — circus adventure you won't want to miss!         
+         
+Ellen Turner is a stilt, film, and dance artist based in Yorkshire. She founded TurnAround Dance Theatre in 2013, creating family-friendly circus and walkabout acts. Ellen's career began with Ludus Dance, touring works by Nigel Charnock, Yael Flexer, and Ben Wright. Her solo debut [*Car-Door Moment*](/archive/2013-worksahead/turner) won the Turn Prize 2012. She continues to tour, lead workshops, and has recently secured funding to develop work for early years, family audiences, and explore new theatrical styles like clowning, to enrich her performances.          
+         
+<a href="https://www.turnarounddancetheatre.co.uk" target="_blank">turnarounddancetheatre.co.uk</a> · Insta <a href="https://instagram.com/turnarounddance" target="_blank">@turnarounddance</a>         
+<hr>         
+**Aimee Williamson** · *Cloak of Spells*         
 
 Aimee is a Lancashire-based dance artist who loves folklore; together they make work for young people that is kind, highly visual, and immersive.        
 
-Insta <a href="https://instagram.com/aimeelilywilliamson" target="_blank">@aimeelilywilliamson</a>
+<a href="" target="_blank"></a>· Insta <a href="https://instagram.com/aimeelilywilliamson" target="_blank">@aimeelilywilliamson</a>
+<hr>         
 **Madame Zucchini** · *
-Insta <a href="https://instagram.com/madamezucchini" target="_blank">@madamezucchini</a>
+<a href="" target="_blank"></a>· Insta <a href="https://instagram.com/madamezucchini" target="_blank">@madamezucchini</a>
+<hr>         
 **Orla Collier** · *
-Insta <a href="https://instagram.com/orla.collier" target="_blank">@orla.collier</a>
-**Puppetfingers** · *
-Insta <a href="https://instagram.com/puppetfingers" target="_blank">@puppetfingers</a>
+<a href="" target="_blank"></a>· Insta <a href="https://instagram.com/orla.collier" target="_blank">@orla.collier</a>
+<hr>         
 **Shannon Mulvey** · *
-Insta <a href="https://instagram.com/smperformanceart" target="_blank">@smperformanceart</a>
-**the institute for crazy dancing** · *
-Insta <a href="https://instagram.com/icdancing" target="_blank">@icdancing</a>
-**TurnAround Dance Theatre** · *
-Insta <a href="https://instagram.com/turnarounddance" target="_blank">@turnarounddance</a>
+A glorious, glitter-soaked monster of a show, FRANKENDIVA! is stomping back—bigger, bolder, and even more unapologetically fabulous. 💥🧷💋
+
+Part pop party, part power anthem, this high-energy, interactive performance is inspired by Frankenstein—but instead of creating a monster, we’re building a DIVA. With the help of the audience, piece by piece, she comes to life in all her fierce, messy glory. Expect iconic pop, franken-glam aesthetics, and a wild celebration of individuality, empowerment, and rejecting society’s expectations.
+
+At 15:30, join us for the FRANKENDIVA! DISCO—a full-throttle, all-in, stomp-it-out dance party where everyone gets up to unleash their inner diva.💃⚡️
+
+Let’s build a diva. Together. One stomp at a time. 💄🩹
+
+<a href="" target="_blank"></a>· Insta <a href="https://instagram.com/smperformanceart" target="_blank">@smperformanceart</a>
+
+<hr>                  
+Image: Puppetfingers         
+<small><span style='font-variant: small-caps'>[back to top](/current/2025-haphazard/programme)</span></small>
 
 
-
-<br>Shannon Mulvey — <br>the institute for crazy dancing — <br>TurnAround Dance Theatre —          
 
 
 **Chanje Kunda** · *Climate for Healing*         
@@ -111,16 +141,3 @@ Fb <a href="https://facebook.com/PorcelainDancer" target="_blank">PorcelainDance
 Huddersfield-based Sohail makes work around heritage, the impacts of British colonialism, and 'Otherness', and has made work for SPILL and National Review Of Live Art.         
          
 sohail khan live art YouTube <a href="https://youtube.com/@trilobitefulness" target="_blank">@trilobitefulness</a>         
-<hr>         
-**Aimee Williamson** · *Blast Off!*         
-         
-A story of space travel, football, and friendship told through a beautifully illustrated ‘crankie’ scroll. A walkabout performance for two at a time — pop on some headphones and be transported…         
-         
-
-         
-Aimee Insta <a href="https://instagram.com/aimeelilywilliamson" target="_blank">@aimeelilywilliamson</a>         
-<hr>          
-
-<hr>                  
-Image: Puppetfingers         
-<small><span style='font-variant: small-caps'>[back to top](/current/2025-haphazard/programme)</span></small>
