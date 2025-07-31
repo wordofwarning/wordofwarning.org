@@ -17,7 +17,7 @@ season: "Haphazard 2|8|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [programme](/current/2025-haphazard/programme) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits)</span>&ensp; <small>Updated 30 July 2025 at 5.30pm</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [programme](/current/2025-haphazard/programme) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits)</span>&ensp; <small>Updated 31 July 2025</small>         
          
 *Presented by* Word of Warning *+* Z-arts        
          
@@ -58,7 +58,7 @@ Orla is a Leeds-based freelance dance & physical theatre artist from Cumbria. Sh
          
 <a href="https://www.orlacollier.com" target="_blank">orlacollier.com</a> · Insta <a href="https://instagram.com/orla.collier" target="_blank">@orla.collier</a>         
 <hr>         
-**TurnAround Dance Theatre** · *Join The Circus* · Theatre         
+**TurnAround Dance Theatre** & **Aimee Williamson**· *Join The Circus* · Theatre         
          
 Join BoingaBella as you look up to the sky… and spot Aimee the Air Witch, flying high and weaving magic mid-air with the mysterious Cloak of Spells aerial act. Together, they bring a sparkling mix of circus fun, folklore, and spellbinding surprises! Unlock the magic and become part of the show!         
          
@@ -78,7 +78,7 @@ Shannon is a performer & lecturer with extensive national and international expe
 <hr>         
 **the institute for crazy dancing** · *FRAGILE. One way to wonderment…* · Activity Space         
          
-A colourful cube transforms into a see-saw and a striking Hazard Cube.<br>Feeling fragile? Get a sticker; find your balance; make a wish and enter wonderment…<br>Come and join us for a conversation about fragility — find your balance, then enter our cube, for a new view on the world.         
+A colourful cube transforms into a see-saw and a striking Hazard Cube.<br>Feeling fragile? Get a sticker; find your balance; make a wish and enter wonderment… Come and join us for a conversation about fragility — find your balance, then enter our cube, for a new view on the world.         
 
 The ICD has been crafting participatory performance art for 25 years. From cross-city masquerades to installations that look like fairground rides — but do all the opposites; absurdist cabaret to art gallery interventions and site-responsive performance.         
          
