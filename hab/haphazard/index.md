@@ -16,7 +16,7 @@ season: "Haphazard by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---         
-<small>Updated 31 July 2025</small>        
+<small>Updated 1 August 2025</small>        
         
 **Haphazard** is our frequent foray into 'all ages' Live Art, with intriguing images and offbeat oddities dotted around and about Hulme's historic <a href="https://z-arts.org/about-us" target="_blank">Z-arts</a> building.        
          
