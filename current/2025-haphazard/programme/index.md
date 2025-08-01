@@ -17,11 +17,17 @@ season: "Haphazard 2|8|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [programme](/current/2025-haphazard/programme) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits)</span>&ensp; <small>Updated 31 July 2025</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [programme](/current/2025-haphazard/programme) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits)</span>&ensp; <small>Updated 1 August 2025</small>         
          
 *Presented by* Word of Warning *+* Z-arts        
          
 [Haphazard 2025](/current/2025-haphazard) is a free afternoon for the curious of all ages — see our [artists' images](/galleries/2025-haphazardpre/). A Live Art takeover of <a href="https://z-arts.org/events/haphazard-2025" target="_blank">Z-arts</a> on Saturday 2 August from 1pm to 4pm. Turn up at any time, come and go as you please… and expect the unexpected!           
+<hr>          
+Atrium<br>**Pascaline Ruhana**          
+         
+Got a great idea for our haphazard artwork? Collect a plane from Reception, then fly your idea to Pascaline and watch from the ramp as she brings it to life…           
+           
+Insta <a href="https://instagram.com/niarthene" target="_blank">@niartthene</a>          
 <hr>         
 Roaming<br>**Puppetfingers** · *A Mushroom World*         
          
