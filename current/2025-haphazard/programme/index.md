@@ -46,7 +46,7 @@ Ellen Turner is a Yorkshire-based stilt, film, and dance artist. She founded Tur
          
 <a href="https://www.turnarounddancetheatre.co.uk" target="_blank">turnarounddancetheatre.co.uk</a> · Insta <a href="https://instagram.com/turnarounddance" target="_blank">@turnarounddance</a>         
 <hr>         
-Cafe<br>**Aimee Williamson** · *Cloak of Spells*          
+Café<br>**Aimee Williamson** · *Cloak of Spells*          
          
 Join Aimee, a friendly witch, in her coven — where you can make a magical spell to add to the Cloak of Spells! Then watch a special Broom Dance to cast all the spells out into the world…         
          
@@ -64,7 +64,7 @@ Orla is a Leeds-based freelance dance & physical theatre artist from Cumbria. Sh
          
 <a href="https://www.orlacollier.com" target="_blank">orlacollier.com</a> · Insta <a href="https://instagram.com/orla.collier" target="_blank">@orla.collier</a>         
 <hr>         
-Theatre, occurs three times<br>**TurnAround Dance Theatre** & **Aimee Williamson** · *Join The Circus*         
+Theatre, occurs three times<br>**TurnAround Dance Theatre** with **Aimee Williamson** · *Join The Circus*         
          
 Join BoingaBella as you look up to the sky… and spot Aimee the Air Witch, flying high and weaving magic mid-air with the mysterious Cloak of Spells aerial act. Together, they bring a sparkling mix of circus fun, folklore, and spellbinding surprises! Unlock the magic and become part of the show!         
          
