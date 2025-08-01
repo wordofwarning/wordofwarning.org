@@ -21,7 +21,7 @@ season: "Haphazard 2|8|2025, 1-4pm"
          
 Playful, quirky, engaging, and sometimes plain daft: Haphazard is for kids and their adults, adults and *their* adults — anyone looking for a different day out!          
           
-Look at some of our [artists’ images](/galleries/2025-haphazardpre) and read their [programme notes](/current/2025-haphazard/programme).         
+From Frankendiva to Nigel Cabbage, a giant mushroom to a flying witch, and a haphazard attempt to find balance — look at some of our [artists’ images](/galleries/2025-haphazardpre) and read their [programme notes](/current/2025-haphazard/programme).         
            
 A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2025" target="_blank">Z-arts</a> **on Saturday 2 August from 1pm to 4pm**. Turn up at any time, come and go as you please… and expect the unexpected!         
          
