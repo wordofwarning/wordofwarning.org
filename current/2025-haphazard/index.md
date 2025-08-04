@@ -15,7 +15,7 @@ season: "Haphazard 2|8|2025, 1-4pm"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [programme](/current/2025-haphazard/programme) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits) · [websites](/current/2025-haphazard/#websites)</span>&ensp; <small>Updated 1 August 2025</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [programme](/current/2025-haphazard/programme) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits) </span>&ensp; <small>Updated 4 August 2025</small>        
         
 *Presented by* Word of Warning *+* Z-arts           
          
@@ -26,7 +26,7 @@ From Frankendiva to Nigel Cabbage, a giant mushroom to a flying witch, and a hap
 A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2025" target="_blank">Z-arts</a> **on Saturday 2 August from 1pm to 4pm**. Turn up at any time, come and go as you please… and expect the unexpected!         
          
 #### Artists         
-Aimee&nbsp;Williamson&nbsp;· Madame&nbsp;Zucchini&nbsp;· Orla&nbsp;Collier&nbsp;· Pascaline&nbsp;Ruhana&nbsp;· Puppetfingers&nbsp;· Shannon&nbsp;Mulvey&nbsp;· the&nbsp;institute&nbsp;for&nbsp;crazy&nbsp;dancing&nbsp;· TurnAround&nbsp;Dance&nbsp;Theatre&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
+Aimee&nbsp;Williamson&nbsp;· Madame&nbsp;Zucchini&nbsp;· Orla&nbsp;Collier&nbsp;· Pascaline&nbsp;Ruhana&nbsp;· Puppetfingers&nbsp;· Shannon&nbsp;Mulvey&nbsp;· the&nbsp;institute&nbsp;for&nbsp;crazy&nbsp;dancing&nbsp;· TurnAround&nbsp;Dance&nbsp;Theatre         
          
 #### Entry         
 FREE: there's no need to book… just turn up!         
