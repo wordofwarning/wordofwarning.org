@@ -16,13 +16,13 @@ season: "Haphazard by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---         
-<small>Updated 1 August 2025</small>        
+<small>Updated 4 August 2025</small>        
         
 **Haphazard** is our frequent foray into 'all ages' Live Art, with intriguing images and offbeat oddities dotted around and about Hulme's historic <a href="https://z-arts.org/about-us" target="_blank">Z-arts</a> building.        
          
 Playful, quirky, engaging, and sometimes plain daft: this is Live Art for kids and their adults, adults and *their* adults — anyone looking for a different day out!            
 
-[**Haphazard 2025**](/current/2025-haphazard) will be our eighth free Live Art takeover of <a href="https://www.z-arts.org/events/haphazard-2025" target="_blank">Z-arts</a>, presenting nine works on **Saturday 2 August from 1pm to 4pm** — turn up at any time, come and go as you please… and expect the unexpected!        
+[**Haphazard 2025**](/current/2025-haphazard) was our eighth free Live Art takeover of <a href="https://www.z-arts.org/events/haphazard-2025" target="_blank">Z-arts</a>, presenting nine works on **Saturday 2 August from 1pm to 4pm** — you could turn up at any time, come and go as you please… and expect the unexpected!        
          
 Get a feel for it with some of our [artists’ images](/galleries/2025-haphazardpre) and read their [programme notes](/current/2025-haphazard/programme), also watch our <a href="https://youtu.be/sgw9SjPdCw0" target="_blank">short video</a> to see some of what's gone before.         
          
