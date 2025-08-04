@@ -12,7 +12,7 @@ season: "Archived Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 18 July 2025<small>        
+<small>Updated 4 August 2025<small>        
         
 Age Advisories/Limits & Content Warnings for *past* events and *archived* livestreams on our YouTube channel are available below, including elements that may distress, cause upset, or trigger.&emsp;Go to → [2025](/archive/warnings/#2025) · [2024](/archive/warnings/#2024) · [2023](/archive/warnings/#2023) · [2022](/archive/warnings/#2022) · [2021](/archive/warnings/#2021) · [2020](/archive/warnings/#2020) · [2019](/archive/warnings/#2019)&emsp;(Please click [here](/warnings) for *upcoming* events.)        
         
@@ -20,6 +20,9 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 <hr>         
 #### 2025         
           
+##### [2 Aug. Z-arts | Haphazard 2025](/current/2025-haphazard)          
+Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Content Warnings: some works involved interaction and/or participation; there were no specific warnings.         
+         
 ##### [17 Jul. Contact | Social Experiment](/socialexperiment/jul2025)          
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works involved interaction and/or participation; specific warnings follow…<br>&nbsp;Ben Hodge — potential fatphobia aimed at the performer. **Allergy Warning: dates (fruit of date palms).**<br>&nbsp;Leah Stone — sexual content and offensive language (swearing).<br>&nbsp;Rachel Smith — referenced mental health and suicide.<br>&nbsp;Shahireh Sharif — referenced war and genocide; adult themes.<br>&nbsp;Xhi Ndubisi — graphic depiction of labour & birth; allusion to sexual violence (never overtly stated); offensive language. Tea made of ginger, water, and brown sugar was offered. **Allergy Warning: ginger, tea.**<br>&nbsp;&nbsp;*NB* Xhi was available for debriefing after the performance, and additional support was signposted.         
 
