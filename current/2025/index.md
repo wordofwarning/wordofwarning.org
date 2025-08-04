@@ -3,7 +3,7 @@
 layout: 2025-programme
 rootpath: "../../"
 
-artist: "2025" # the name of the artist or company
+artist: "Performance Programme 2025" # the name of the artist or company
 artist_size: 1
 season: "Performance Programme 2025"
 
@@ -35,10 +35,10 @@ We don't want to put you off by talking art form labels — yes, there'll be the
 #### By         
 Word of Warning is a project by Manchester-based [hÅb](/hab) — you might not have heard of us though you may know some of our events like [Emergency](http://emergencymcr.org), [Haphazard](http://haphazardmcr.org), [Hazard](http://hazardmcr.org), or [Turn](http://turnmcr.org). Read 2021's interview with <a href="https://circlesandstalls.com/2021/09/17/an-interview-with-word-of-warnings-tamsin-drury" target="_blank">Circles & Stalls</a>.         
           
-Our Performance Programme 2025 is brought to you by [hÅb](/hab) with [partners](/hab/partners):<br><a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, <a href="https://homemcr.org" target="_blank">HOME</a>, <a href="https://thelowry.com" target="_blank">Lowry</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, <a href="https://z-arts.org" target="_blank">Z-arts</a>.        
+Our Performance Programme 2025 is brought to you by [hÅb](/hab) with [partners](/hab/partners):<br><a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, <a href="https://homemcr.org" target="_blank">HOME</a>, <a href="https://thelowry.com" target="_blank">Lowry</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and <a href="https://z-arts.org" target="_blank">Z-arts</a>.        
 >*Refreshing company that brings diverse shows to our door steps.*<br>*WoW are great, supporting emerging work and bringing it to new audiences.*<br>*Wonderful, daring performances that I have never been disappointed by.<br>A needed company in Manchester, feels like they really support artists.*<br>&nbsp;— Audience feedback         
          
-[hÅb](/hab) produces, develops, and advocates for Live Art, contemporary performance, and sited work in the North of England.<br>Supported using public funding by <a href="https://www.artscouncil.org.uk/npo" target="_blank">Arts Council England</a>, hÅb is also:<br>a <a href="http://divergencymcr.org" target="_blank">Divergency</a> core partner — encouraging diversity in Live Art;<br>a <a href="https://manchesterindependents.org" target="_blank">Manchester Independents</a> lead partner — highlighting independent GM artists;<br>a member of: <a href="http://liveartuk.org" target="_blank">Live Art UK</a>; <a href="https://g-mast.org" target="_blank">GMAST</a>; the GM LGBTQ+ Arts & Culture Network.         
+[hÅb](/hab) produces, develops, and advocates for Live Art, contemporary performance, and sited work in the North of England.<br>Supported using public funding by <a href="https://www.artscouncil.org.uk/npo" target="_blank">Arts Council England</a>, hÅb is also a <a href="http://divergencymcr.org" target="_blank">Divergency</a> core partner — encouraging diversity in Live Art; a <a href="https://manchesterindependents.org" target="_blank">Manchester Independents</a> lead partner — highlighting independent Greater Manchester artists; and a member of <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, <a href="http://liveartuk.org" target="_blank">Live Art UK</a>, <a href="https://g-mast.org" target="_blank">GMAST</a>, the GM LGBTQ+ Arts & Culture Network.         
 <small><span style='font-variant: small-caps'>[back to top](/current/2025)</span></small>        
          
 #### People        
