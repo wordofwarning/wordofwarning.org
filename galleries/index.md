@@ -5,6 +5,7 @@ layout: archive
 season: "Galleries"
 
 archived:
+    - {folder: "2025-haphazard", name: "Haphazard 2025", class: "h2025"}
     - {folder: "2025-socex", name: "Social Experiment (2025)", class: "se2025"}
     - {folder: "2025-woah", name: "Works Ahead 2025", class: "w2025"}
     - {folder: "2025-turn", name: "Turn 2025", class: "t2025"}
