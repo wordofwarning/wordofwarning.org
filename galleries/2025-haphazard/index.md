@@ -13,7 +13,7 @@ more_url: "../../current/2025-haphazard"
 gallery:
     -   {file: "titlepage.jpg", artist: "<small><i>A free day out for the curious of all ages at Z-arts, 2 Aug 2025</i></small> · Puppetfingers"}
     -   {file: "puppetfingers.jpg", artist: "Puppetfingers"}
-    -   {file: "puppetfingerss.jpg", artist: "Puppetfingers"}
+    -   {file: "puppetfingers2.jpg", artist: "Puppetfingers"}
     -   {file: "pascaline.jpg", artist: "Pascaline Ruhaha"}
     -   {file: "pascaline2.jpg", artist: "Pascaline Ruhaha"}
     -   {file: "ICD.jpg", artist: "the institute for crazy dancing"}
@@ -26,7 +26,7 @@ gallery:
     -   {file: "aimee2.jpg", artist: "Aimee Williamson"}
     -   {file: "turnaround.jpg", artist: "TurnAround Dance Theatre"}
     -   {file: "turnaround2.jpg", artist: "TurnAround Dance Theatre"}
-    -   {file: "turnaround2.jpg", artist: "TurnAround Dance Theatre"}
+    -   {file: "turnaround3.jpg", artist: "TurnAround Dance Theatre"}
     -   {file: "shannon.jpg", artist: "Shannon Mulvey"}
     -   {file: "shannon2.jpg", artist: "Shannon Mulvey"}
     -   {file: "shannon_disco.jpg", artist: "Shannon Mulvey"}
