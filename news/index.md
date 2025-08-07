@@ -27,7 +27,7 @@ Essentially industry-facing, [hÅb](/hab) advises and supports artists and freel
 <span style='font-variant: small-caps'>[back to top](/news)</span>         
          
 ##### Support         
-• Arts Council England's application portal **Grantium is currently closed — please read <a href="https://www.artscouncil.org.uk/applying-funding-us" target="_blank">latest information on their funding schemes</a>**.
+• Arts Council England's application portal **Grantium is currently closed — please read <a href="https://www.artscouncil.org.uk/applying-funding-us" target="_blank">latest information on their funding schemes</a>**.         
 • Arts Council England's <a href="https://www.artscouncil.org.uk/DYCP" target="_blank">Developing Your Creative Practice</a> Round 24 opens for applications on 23 October 2025 at noon and closes on 20 November 2025 at noon.         
 • Arts Council England's **<a href="https://www.artscouncil.org.uk/projectgrants" target="_blank">National Lottery Project Grants</a> are currently unavailable — a new digital application route will open no later than mid-September**. (New guidance was introduced 1 November 2023.)        
 • Arts Council England host information webinars for <a href="https://www.artscouncil.org.uk/DYCP" target="_blank">DYCP</a> & <a href="https://www.artscouncil.org.uk/projectgrants" target="_blank">NLPG</a> applicants — find dates and book on the <a href="https://www.eventbrite.co.uk/o/arts-council-england-events-north-28185338891" target="_blank">ACE North eventbrite page</a>.        
