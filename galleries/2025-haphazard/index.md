@@ -14,8 +14,8 @@ gallery:
     -   {file: "titlepage.jpg", artist: "<small><i>A free day out for the curious of all ages at Z-arts, 2 Aug 2025</i></small> · Puppetfingers"}
     -   {file: "puppetfingers.jpg", artist: "Puppetfingers"}
     -   {file: "puppetfingers2.jpg", artist: "Puppetfingers"}
-    -   {file: "pascaline.jpg", artist: "Pascaline Ruhaha"}
-    -   {file: "pascaline2.jpg", artist: "Pascaline Ruhaha"}
+    -   {file: "pascaline.jpg", artist: "Pascaline Ruhana"}
+    -   {file: "pascaline2.jpg", artist: "Pascaline Ruhana"}
     -   {file: "ICD.jpg", artist: "the institute for crazy dancing"}
     -   {file: "ICD2.jpg", artist: "the institute for crazy dancing"}
     -   {file: "zucchini.jpg", artist: "Madame Zucchini"}
