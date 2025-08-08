@@ -16,7 +16,7 @@ season: "Emergency by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 20 June 2025</small>        
+<small>Updated 8 August 2025, 8.30pm</small>        
         
 **Emergency** is our annual open call platform for Live Art and contemporary performance — offering a sneak preview of new live work over a single day in Manchester every autumn and now resident at <a href="https://contactmcr.com" target="_blank">Contact</a>, its seventh home.        
          
@@ -26,17 +26,8 @@ Get a feel for it with [2024's programme](/archive/2024-emergency/#artists) and 
          
 Manchester's annual Live Art & performance platform, Emergency aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions.        
         
-We usually expect to present *about 25* short works throughout the building — so if you would like to take part in what is *probably* England's longest-running Live Art event, please read on for our open call…         
+We usually expect to present *about 25* short works throughout the building — so if you would like to take part in what is *probably* England's longest-running Live Art event, please check back for our next open call in June 2026…         
           
-#### Emergency 25 Open Call for Proposals         
-Artists working in Live Art, contemporary performance, time-based media, and interdisciplinary arts are now <a href="https://emergencymcr.posthaven.com" target="_blank">invited to submit proposals</a>. Work can be in any relevant artform/medium, though some live presence is desirable.        
-         
-Unbelievably — or maybe all too believably — in 2025 Emergency is celebrating its 25th birthday. In addition to calling for new and emerging artists and work, we are interested in hearing from artists who have performed at Emergency over the past 25 years, and have any ideas to celebrate this milestone!          
-         
-**For details & to apply please visit <a href="https://emergencymcr.posthaven.com" target="_blank">emergencymcr.posthaven.com</a><br>Proposal Deadline: Friday 8 August 2025, 5pm**        
-         
-Emergency 25 combines an Afternoon of durational, installation, intervention, and limited capacity work; followed by an Evening of short (*max 20 min*) show-type pieces of work, works-in-progress, or extracts of longer work.        
-         
 Emergency 25 presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
         
 Enquiries: <mailto:emergency@habmcr.org> · <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a>         
@@ -50,4 +41,13 @@ First held at greenroom in 2000, Emergency also took place at International Anth
           
 **[Emergency 21](/archive/2021-emergency)** presented 10 new works in a socially-distanced live walkthrough at a newly re-opened <a href="https://contactmcr.com" target="_blank">Contact</a> on **25 September 2021** — with audiences guided on a one-way journey through the refurbished building, pausing en route in gallery fashion — [see images](/galleries/2021-emergency).         
           
-**[Emergency StopGap](/archive/2020-emergencystopgap)** presented 13 new works in a new iteration at Manchester's <a href="https://www.niamos.co.uk" target="_blank">NIAMOS</a> on **27 February 2020** — a small informal platform to bridge the gap between gallery and theatre, and to fill the empty months of winter… An informal 'Thursday Late' style evening with durational live works and interventions throughout the building — [see images](/galleries/2020-emergencystopgap).
+**[Emergency StopGap](/archive/2020-emergencystopgap)** presented 13 new works in a new iteration at Manchester's <a href="https://www.niamos.co.uk" target="_blank">NIAMOS</a> on **27 February 2020** — a small informal platform to bridge the gap between gallery and theatre, and to fill the empty months of winter… An informal 'Thursday Late' style evening with durational live works and interventions throughout the building — [see images](/galleries/2020-emergencystopgap).         
+         
+#### Emergency 25 Call for Proposals Closed 5pm, 8 August         
+Artists working in Live Art, contemporary performance, time-based media, and interdisciplinary arts <a href="https://emergencymcr.posthaven.com" target="_blank">were invited to submit proposals</a>. Work can be in any relevant artform/medium, though some live presence is desirable.        
+         
+Unbelievably — or maybe all too believably — in 2025 Emergency is celebrating its 25th birthday. In addition to calling for new and emerging artists and work, we were interested in hearing from artists who have performed at Emergency over the past 25 years, and have any ideas to celebrate this milestone!          
+         
+Emergency 25 combines an Afternoon of durational, installation, intervention, and limited capacity work; followed by an Evening of short (*max 20 min*) show-type pieces of work, works-in-progress, or extracts of longer work.         
+        
+**For details please visit <a href="https://emergencymcr.posthaven.com" target="_blank">emergencymcr.posthaven.com</a><br>Proposal Deadline: Friday 8 August 2025, 5pm**        
