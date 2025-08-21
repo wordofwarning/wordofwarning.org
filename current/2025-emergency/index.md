@@ -23,15 +23,15 @@ season: "Emergency 27|9|2025, Noon-10pm"
         
 Manchester's 25th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 27 September from Noon to 10pm**:<br>— with an **Afternoon** of installations, interventions, limited capacity works<br>— followed by an **Evening** full of short shows from 4pm…         
          
-Get a feel for it with [last year's programme](/archive/2024-emergency/#artists) and [gallery of images](/galleries/2024-emergency)         
+Get a feel for it with [last year's programme](/archive/2024-emergency/#artists) and [gallery of images](/galleries/2024-emergency).         
          
 #### Artists         
-Action&nbsp;Hero&nbsp;(special&nbsp;guests)&nbsp;· and&nbsp;more&nbsp;to&nbsp;be&nbsp;announced&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
+Action&nbsp;Hero&nbsp;(special&nbsp;guests)&nbsp;· more&nbsp;to&nbsp;be&nbsp;announced&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
           
 #### Entry         
-Pay What You Decide: there's no ticketing, just turn up and donate by cash or card.         
+Pay What You Decide: there's no ticketing, just turn up & donate by cash/card.         
           
-Time: Saturday 27 September 2025 from Noon to 10pm (last entry at 9.30pm).<br>*NB* some artists have breaks on an ad hoc basis, some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time — so you will not be able to see everything.         
+Time: Saturday 27 September 2025 from Noon to 10pm (last entry at 9.30pm).<br>*NB* some artists will take breaks on an ad hoc basis, some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time — so you will not be able to see everything.         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
         
