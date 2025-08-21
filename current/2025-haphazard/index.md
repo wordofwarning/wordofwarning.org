@@ -31,9 +31,9 @@ Aimee&nbsp;Williamson&nbsp;· Madame&nbsp;Zucchini&nbsp;· Orla&nbsp;Collier&nbs
 #### Entry         
 FREE: there's no need to book… just turn up!         
          
-Time: Saturday 2 August 2025, from 1pm to 4pm (turn up at any time).<br>*NB* artists will take breaks on an ad hoc basis and some works have a short duration. Although some works repeat you may not get a chance to see everything.          
+Times: Saturday 2 August 2025, from 1pm to 4pm (turn up at any time).<br>*NB* artists will take breaks on an ad hoc basis and some works have a short duration. Although some works repeat you may not get a chance to see everything.          
           
-Location: <a href="https://z-arts.org/home/your-visit-to-z-arts/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester, M15 5ZA          
+Location: <a href="https://z-arts.org/home/your-visit-to-z-arts/getting-here" target="_blank">Z-arts</a>, 335 Stretford Road, Manchester M15 5ZA.          
          
 #### Access         
 Age Advisory: suitable for all ages (parent/guardian/carer discretion).         
