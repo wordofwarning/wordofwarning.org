@@ -31,7 +31,7 @@ Action&nbsp;Hero&nbsp;(special&nbsp;guests)&nbsp;· and&nbsp;more&nbsp;to&nbsp;b
 #### Entry         
 Pay What You Decide: there's no ticketing, just turn up and donate by cash or card.         
           
-Times: Saturday 27 September 2025, Noon-10pm (last show starts *~9.30pm*).<br>*NB* some artists have breaks on an ad hoc basis, some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time — so you will not be able to see everything.         
+Times: Saturday 27 September 2025, from Noon to 10pm (turn up at any time, last show starts *~9.30pm*).<br>*NB* some artists have breaks on an ad hoc basis, some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time — so you will not be able to see everything.         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
         
