@@ -17,31 +17,31 @@ season: "Emergency 27|9|2025, Noon-10pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [details](/current/2025-emergency/#details) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated 21 August 2025</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [entry](/current/2025-emergency/entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated 21 August 2025</small>         
          
 *Presented by* Word of Warning *+* Contact        
         
 Manchester's 25th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 27 September from Noon to 10pm**:<br>— with an **Afternoon** of installations, interventions, limited capacity works<br>— followed by an **Evening** full of short shows from 4pm…         
          
-#### Artists         
-Action Hero (special guests) · and more tba         
+Get a feel for it with [last year's programme](/archive/2024-emergency/#artists) and [gallery of images](/galleries/2024-emergency)         
          
-<small>*Participating artists subject to change.*</small>        
+#### Artists         
+Action&nbsp;Hero&nbsp;(special&nbsp;guests)&nbsp;· and&nbsp;more&nbsp;to&nbsp;be&nbsp;announced&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
           
-#### Details         
-Entry: no need to book, just turn up and Pay What You Decide by cash or card.         
+#### Entry         
+Pay What You Decide: there's no ticketing, just turn up and donate by cash or card.         
           
-Times: Saturday 27 September 2025, Noon-10pm (last show starts *~9.30pm*).<br>*NB* some artists will take breaks on an ad hoc basis, some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time — so you will not be able to see everything.         
+Times: Saturday 27 September 2025, Noon-10pm (last show starts *~9.30pm*).<br>*NB* some artists have breaks on an ad hoc basis, some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time — so you will not be able to see everything.         
           
-Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester, M15 6JA         
+Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
         
 #### Access         
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>*NB* one works is suitable only for audiences aged 18+         
           
 Content Warnings: some works involve interaction and/or participation; specific warnings listed [here](/warnings).         
           
-Features: 25 Live Art & contemporary performance works with varied content.<br>*NB* works will occur in multiple spaces throughout the building and will vary in format — some roaming, some seated, some standing, some spoken word, some visual, some participatory.         
-         
+Features: 25 Live Art & contemporary performance works with varied content.<br>*NB* multiple spaces are in use throughout the building on the ground/first/second floors, and works are varied in format — some roaming, some seated, some standing, some spoken word, some visual, some participatory.          
+          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### About         
@@ -51,8 +51,8 @@ Our annual platform for Live Art and contemporary performance, [Emergency](/hab/
          
 First held at greenroom in 2000, [Emergency](/hab/emergency) also took place at International Anthony Burgess Foundation, BLANKSPACE, Castlefield Gallery, Z-arts & STUN Studio, NIAMOS, before finding a new home at <a href="https://contactmcr.com" target="_blank">Contact</a> from [2020](/archive/2020-emergency)…         
          
-Get a feel for it with [2023's programme](/archive/2023-emergency) & [image gallery](/galleries/2023-emergency), [2022's programme](/archive/2022-emergency)/[gallery](/galleries/2022-emergency), [2021's programme](/archive/2021-emergency)/[gallery](/galleries/2021-emergency), [2019's programme](/archive/2019-emergency)/[gallery](/galleries/2019-emergency).         
-        
+Get a feel for it with [2024's programme](/archive/2024-emergency/#artists) and [gallery of images](/galleries/2024-emergency); [2023's programme](/archive/2023-emergency/#artists) and [gallery](/galleries/2023-emergency); [2022's programme](/archive/2022-emergency/#artists) and [gallery](/galleries/2022-emergency).         
+         
 #### Credits         
 [Emergency](/hab/emergency) 25 produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.     
         
