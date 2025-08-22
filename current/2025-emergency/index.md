@@ -17,7 +17,7 @@ season: "Emergency 27|9|2025, Noon-10pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [entry](/current/2025-emergency/#entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated 21 August 2025</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [entry](/current/2025-emergency/#entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated 22 August 2025, 2.30pm</small>         
          
 *Presented by* Word of Warning *+* Contact        
         
@@ -26,7 +26,7 @@ Manchester's 25th micro-marathon of the bizarre, the bold, and the beautiful tak
 Get a feel for it with [last year's programme](/archive/2024-emergency/#artists) and [gallery of images](/galleries/2024-emergency).         
          
 #### Artists         
-Action&nbsp;Hero&nbsp;(special&nbsp;guests)&nbsp;· more&nbsp;to&nbsp;be&nbsp;announced&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
+Action&nbsp;Hero&nbsp;(special&nbsp;guests)&nbsp;· Alexis&nbsp;Maxwell&nbsp;· ClusterFlux&nbsp;Collective&nbsp;· Dongting&nbsp;Huang&nbsp;· Elana&nbsp;Binysh&nbsp;· Faye&nbsp;Yan&nbsp;· GOWD&nbsp;· Kellie&nbsp;Colbert&nbsp;&&nbsp;Deborah&nbsp;Newton&nbsp;· Kris&nbsp;Canavan&nbsp;· leon&nbsp;clowes&nbsp;· Lisa&nbsp;Ford&nbsp;· Luca&nbsp;Federici&nbsp;· Luke&nbsp;McDonnell&nbsp;· Madeleina&nbsp;Kay&nbsp;· Miss&nbsp;Freda&nbsp;Wallace&nbsp;· Mole&nbsp;Wetherell&nbsp;&&nbsp;UoS&nbsp;Performance&nbsp;· Mpearsonater&nbsp;&&nbsp;special guests&nbsp;· n:u&nbsp;(melissandre&nbsp;varin)&nbsp;· Nathan&nbsp;Birkinshaw&nbsp;· Ox&nbsp;Maló&nbsp;· Rachael&nbsp;Gooch&nbsp;· Rory&nbsp;Aaron&nbsp;&&nbsp;Markus&nbsp;Hetheier&nbsp;· Rosie&nbsp;Hart&nbsp;&&nbsp;Poppy&nbsp;Waxman&nbsp;· The&nbsp;Paula&nbsp;Davy&nbsp;· Tom&nbsp;Cassani&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
           
 #### Entry         
 Pay What You Decide: there's no ticketing, just turn up & donate by cash/card.         
