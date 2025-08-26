@@ -4,12 +4,12 @@ layout: 2025-programme
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Fabíola Santana" # the name of the artist or company
-show: "We're Here Because They Were" # the name of the show
+artist: "Hetain Patel" # the name of the artist or company
+show: "Mathroo Basha" # the name of the show
 artist_size: 1
 show_size: 4
 header_image: "header_fabiola.jpg"
-season: "Fabíola Santana 29|5|2025, 7.30pm"
+season: "Hetain Patel 12|11|2025, 7.30pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,9 +17,9 @@ season: "Fabíola Santana 29|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/santana/#entry) · [access](/current/2025/santana/#access) · [workshop](/current/2025/santana/#workshop) · [artists](/current/2025/santana/#artists) · [credits](/current/2025/santana/#credits) · [websites](/current/2025/santana/#websites)</span>&ensp; <small>Updated 28 May 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/santana/#entry) · [access](/current/2025/santana/#access) · [workshop](/current/2025/santana/#workshop) · [artists](/current/2025/santana/#artists) · [credits](/current/2025/santana/#credits) · [websites](/current/2025/santana/#websites)</span>&ensp; <small>Updated 26 August 2025</small>        
            
-*Presented by* Word of Warning *at* Company Chameleon         
+*Presented by* Word of Warning         
          
 A movement ritual of care and resilience — to nurture our connections to the elders and ancestors.          
 
@@ -34,7 +34,7 @@ Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).
          
 Tickets: now available <a href="https://www.eventbrite.com/e/1306671131529" target="_blank">online via Eventbrite</a>.        
          
-Time: Thursday 29 May 2025, 7.30pm (doors open 7pm; performance ends *about* 8.30pm; after an interval there will be an optional postshow Q&A).         
+Time: Wednesday 12 November 2025, 7.??pm (performance ends *about* 8.??pm; after an interval there will be an optional postshow Q&A).         
              
 Location: <a href="https://companychameleon.com/contact" target="_blank">Company Chameleon</a>, 6 Barrass St, Openshaw, Manchester M11 1PU.         
          
