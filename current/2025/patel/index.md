@@ -17,12 +17,12 @@ season: "Hetain Patel 12|11|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/patel/#entry) · [access](/current/2025/patel/#access) · [artist](/current/2025/patel/#artist) · [credits](/current/2025/patel/#credits) · [websites](/current/2025/patel/#websites)</span>&ensp; <small>Updated 26 August 2025, 5.35pm</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/patel/#entry) · [access](/current/2025/patel/#access) · [artist](/current/2025/patel/#artist) · [credits](/current/2025/patel/#credits) · [websites](/current/2025/patel/#websites)</span>&ensp; <small>Updated 26 August 2025, 6pm</small>        
            
 *Presented by* Lowry + Word of Warning *as a* WTF Wednesday        
          
-Visual artist and filmmaker Hetain Patel explores generational change across his Brit-Gujarati family in his latest work, *Mathroo Basha* (Mother Tongue in Gujarati).        
-         
+Visual artist and filmmaker Hetain Patel explores generational change across his Brit-Gujarati family in his latest work, *Mathroo Basha* (Mother Tongue in Gujarati).           
+         
 Following the passing of a number of first-generation immigrants in his family, British-born Hetain reflects on what is lost and what is transformed, revisiting rituals rooted in his family's working-class Brit-Gujarati experience.         
           
 Responding physically to audio interviews of women from his family speaking in Gujarati about inheritance, loss, and the future, Hetain delves into the emotional realities of generational change through personal movement explorations, where his body becomes the conduit…   
@@ -58,6 +58,6 @@ Commissioned by Dance Umbrella. Supported by Cockayne Foundation and FABRIC Inte
 Image: Foteini Christofilopoulou         
          
 #### Websites        
-<a href="https://fabiolasantana.co.uk" target="_blank">fabiolasantana.co.uk</a> · <a href="https://willdickie.co.uk" target="_blank">willdickie.co.uk</a><br>Insta <a href="https://instagram.com/fbs.santana" target="_blank">@fbs.santana</a> · <a href="https://instagram.com/jessicamorgado_" target="_blank">@jessicamorgado_</a> · <a href="https://instagram.com/will_dickie_" target="_blank">@will_dickie_</a> · <a href="https://instagram.com/kaiteoreillyo" target="_blank">@kaiteoreillyo</a>       
-        
+<a href="https://hetainpatel.com" target="_blank">hetainpatel.com</a> · <a href="https://facebook.com/hetainpatel" target="_blank">/hetainpatel</a> · Insta <a href="https://instagram.com/patelhetain" target="_blank">@patelhetain/</a>         
+         
 <small><span style='font-variant: small-caps'>[back to top](/current/2025/patel)</span></small>
