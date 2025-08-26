@@ -16,17 +16,17 @@ season: "Emergency by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 8 August 2025, 8.30pm</small>        
+<small>Updated 26 August 2025, 3.15pm</small>        
         
 **Emergency** is our annual open call platform for Live Art and contemporary performance — offering a sneak preview of new live work over a single day in Manchester every autumn and now resident at <a href="https://contactmcr.com" target="_blank">Contact</a>, its seventh home.        
          
-Manchester's 25th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 27 September 2025, *tbc* from Noon to 10pm** — presenting *about 25* short works throughout the building.        
+Manchester's 25th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 27 September 2025, from Noon to 10pm** — presenting *about 25* short works throughout the building.        
           
 Get a feel for it with [2024's programme](/archive/2024-emergency/#artists) and [gallery of images](/galleries/2024-emergency); [2023's programme](/archive/2023-emergency/#artists) and [gallery](/galleries/2023-emergency); [2022's programme](/archive/2022-emergency/#artists) and [gallery](/galleries/2022-emergency).         
          
 Manchester's annual Live Art & performance platform, Emergency aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions.        
         
-We usually expect to present *about 25* short works throughout the building — so if you would like to take part in what is *probably* England's longest-running Live Art event, please check back for our next open call in June 2026…         
+We usually expect to present *about 25* short works throughout Contact — so if you would like to take part in what is *probably* England's longest-running Live Art event, please check back for our next open call in June 2026…         
           
 Emergency 25 presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
         
@@ -51,3 +51,4 @@ Unbelievably — or maybe all too believably — in 2025 Emergency is celebratin
 Emergency 25 combines an Afternoon of durational, installation, intervention, and limited capacity work; followed by an Evening of short (*max 20 min*) show-type pieces of work, works-in-progress, or extracts of longer work.         
         
 **For details please visit <a href="https://emergencymcr.posthaven.com" target="_blank">emergencymcr.posthaven.com</a><br>Proposal Deadline: Friday 8 August 2025, 5pm**        
+
