@@ -17,7 +17,7 @@ season: "Emergency 27|9|2025, Noon-10pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [entry](/current/2025-emergency/#entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated 22 August 2025, 2.30pm</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [entry](/current/2025-emergency/#entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated 26 August 2025, 3.13pm</small>         
          
 *Presented by* Word of Warning *+* Contact        
         
@@ -26,7 +26,7 @@ Manchester's 25th micro-marathon of the bizarre, the bold, and the beautiful tak
 Get a feel for it with [last year's programme](/archive/2024-emergency/#artists) and [gallery of images](/galleries/2024-emergency).         
          
 #### Artists         
-Action&nbsp;Hero&nbsp;(special&nbsp;guests)&nbsp;· Alexis&nbsp;Maxwell&nbsp;· ClusterFlux&nbsp;Collective&nbsp;· Dongting&nbsp;Huang&nbsp;· Elana&nbsp;Binysh&nbsp;· Faye&nbsp;Yan&nbsp;· GOWD&nbsp;· Kellie&nbsp;Colbert&nbsp;&&nbsp;Deborah&nbsp;Newton&nbsp;· Kris&nbsp;Canavan&nbsp;· leon&nbsp;clowes&nbsp;· Lisa&nbsp;Ford&nbsp;· Luca&nbsp;Federici&nbsp;· Luke&nbsp;McDonnell&nbsp;· Madeleina&nbsp;Kay&nbsp;· Miss&nbsp;Freda&nbsp;Wallace&nbsp;· Mole&nbsp;Wetherell&nbsp;&&nbsp;UoS&nbsp;Performance&nbsp;· Mpearsonater&nbsp;&&nbsp;special&nbsp;guests&nbsp;· n:u&nbsp;(melissandre&nbsp;varin)&nbsp;· Nathan&nbsp;Birkinshaw&nbsp;· Ox&nbsp;Maló&nbsp;· Rachael&nbsp;Gooch&nbsp;· Rory&nbsp;Aaron&nbsp;&&nbsp;Markus&nbsp;Hetheier&nbsp;· Rosie&nbsp;Hart&nbsp;&&nbsp;Poppy&nbsp;Waxman&nbsp;· The&nbsp;Paula&nbsp;Davy&nbsp;· Tom&nbsp;Cassani&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
+Action&nbsp;Hero&nbsp;· Alexis&nbsp;Maxwell&nbsp;· Burt&nbsp;Turdgirth&nbsp;&&nbsp;special&nbsp;guests&nbsp;· ClusterFlux&nbsp;Collective&nbsp;· Dongting&nbsp;Huang&nbsp;· Elana&nbsp;Binysh&nbsp;· Faye&nbsp;Yan&nbsp;· GOWD&nbsp;· Kellie&nbsp;Colbert&nbsp;&&nbsp;Deborah&nbsp;Newton&nbsp;· Kris&nbsp;Canavan&nbsp;· Leon&nbsp;Clowes&nbsp;· Lisa&nbsp;Ford&nbsp;· Luca&nbsp;Federici&nbsp;· Luke&nbsp;McDonnell&nbsp;· Madeleina&nbsp;Kay&nbsp;· Miss&nbsp;Freda&nbsp;Wallace&nbsp;· Mole&nbsp;Wetherell&nbsp;&&nbsp;UoS&nbsp;Performance&nbsp;· n:u&nbsp;(melissandre&nbsp;varin)&nbsp;· Nathan&nbsp;Birkinshaw&nbsp;· Ox&nbsp;Maló&nbsp;· Rachael&nbsp;Gooch&nbsp;· Rory&nbsp;Aaron&nbsp;&&nbsp;Markus&nbsp;Hetheier&nbsp;· Rosie&nbsp;Hart&nbsp;&&nbsp;Poppy&nbsp;Waxman&nbsp;· The&nbsp;Paula&nbsp;Davy&nbsp;· Tom&nbsp;Cassani&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
           
 #### Entry         
 Pay What You Decide: there's no ticketing, just turn up & donate by cash/card.         
@@ -40,12 +40,12 @@ Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>*NB* o
           
 Content Warnings: some works involve interaction and/or participation; specific warnings will be listed [here](/warnings) *about* a fortnight before.         
           
-Features: 25 Live Art & contemporary performance works with varied content.<br>*NB* multiple spaces on the ground/first/second floors are in use, and works are varied in format — some roaming, some seated, some standing, some spoken word, some visual, some participatory.          
+Features: *about 25* Live Art & contemporary performance works with varied content. Multiple spaces on the ground/first/second floors are in use, and works are varied in format — some roaming, some seated, some standing, some spoken word, some visual, some participatory.          
           
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### About         
-Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day in Manchester every autumn — this 25th edition will present 25 works from lunchtime till late throughout <a href="https://contactmcr.com" target="_blank">Contact</a>'s building and its multiple spaces.       
+Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day in Manchester every autumn — this 25th edition will present *about 25* works from lunchtime till late throughout <a href="https://contactmcr.com" target="_blank">Contact</a>'s building and its multiple spaces.       
          
 *Probably* England's longest-running Live Art event, [Emergency](/hab/emergency) aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions.        
          
@@ -57,6 +57,6 @@ Get a feel for it with [2024's programme](/archive/2024-emergency/#artists) and 
 [Emergency](/hab/emergency) 25 produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.     
         
 #### Website         
-<a href="http://emergencymcr.org" target="_blank">EmergencyMcr.org</a>          
+<a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a>          
          
 <small><span style='font-variant: small-caps'>[back to top](/current/2025-emergency)</span></small>
