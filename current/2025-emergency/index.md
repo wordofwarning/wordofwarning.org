@@ -17,7 +17,7 @@ season: "Emergency 27|9|2025, Noon-10pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [entry](/current/2025-emergency/#entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated 26 August 2025, 4pm</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [entry](/current/2025-emergency/#entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated 26 August 2025, 4.15pm</small>         
          
 *Presented by* Word of Warning *+* Contact        
         
@@ -36,7 +36,7 @@ Time: Saturday 27 September 2025 from Noon to 10pm (last entry at 9.30pm).<br>*N
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
         
 #### Access         
-Age Advisory: mainly 16+, some work will be only suitable for 18+ (aimed at adults, parent/guardian/carer discretion).         
+Age Advisory: mainly 16+, some work will be suitable only for 18+ (aimed at adults, parent/guardian/carer discretion).         
           
 Content Warnings: some works involve interaction and/or participation; specific warnings will be listed [here](/warnings) *about* a fortnight before.         
           
