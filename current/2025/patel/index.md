@@ -17,39 +17,45 @@ season: "Hetain Patel 12|11|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/patel/#entry) · [access](/current/2025/patel/#access) · [artist](/current/2025/patel/#artist) · [credits](/current/2025/patel/#credits) · [websites](/current/2025/patel/#websites)</span>&ensp; <small>Updated 26 August 2025, 4.45pm</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/patel/#entry) · [access](/current/2025/patel/#access) · [artist](/current/2025/patel/#artist) · [credits](/current/2025/patel/#credits) · [websites](/current/2025/patel/#websites)</span>&ensp; <small>Updated 26 August 2025, 5.35pm</small>        
            
-*Presented by* Lowry + Word of Warning *as a* WTF         
+*Presented by* Lowry + Word of Warning *as a* WTF Wednesday        
          
-A movement ritual of care and resilience — to nurture our connections to the elders and ancestors.          
-
-*How has colonialism impacted the care we have received from our elders?<br>How did we experience their resilience?<br>What nurturing strategies can we share with each other to help us thrive, in a mainstream society that seeks to racialise and dehumanise us?<br>Can we create rituals and spaces to care for ourselves?*         
-                  
+Visual artist and filmmaker Hetain Patel explores generational change across his Brit-Gujarati family in his latest work, *Mathroo Basha* (Mother Tongue in Gujarati).        
+         
+Following the passing of a number of first-generation immigrants in his family, British-born Hetain reflects on what is lost and what is transformed, revisiting rituals rooted in his family's working-class Brit-Gujarati experience.         
+          
+Responding physically to audio interviews of women from his family speaking in Gujarati about inheritance, loss, and the future, Hetain delves into the emotional realities of generational change through personal movement explorations, where his body becomes the conduit…   
+         
+<iframe width="573" height="429" src="https://youtube.com/embed/ONAFW590t4A" title="Mathroo Basha Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>         
+         
 #### Entry          
 Pay What You Decide: £20/£15/£10/£5/£0 (advance booking recommended).        
          
 Tickets: available <a href="https://tickets.thelowry.com" target="_blank">online</a> or call Lowry on 0161 876 2000        
          
-Time: Wednesday 12 November 2025, 7.??pm (no interval, ends *about* 8.??pm).          
+Time: Wednesday 12 November 2025, 8pm (no interval, ends *about* 8.45pm).          
                        
 Location: <a href="https://thelowry.com/plan-your-visit-18cr" target="_blank">Lowry</a> (Aldridge Studio 1), Pier 8, The Quays, Salford M50 3AZ.         
         
 #### Access         
-Age Advisory: 14+ (parent/guardian/carer discretion).        
+Age Advisory: 7+ (parent/guardian/carer discretion).        
          
-Content Warnings: will be listed [here](/warnings) in mid-September.         
+[Content Warnings](/warnings): includes the use of haze.         
         
-Features: a contemporary performance work with varied content including ???; occurs in Aldridge Studio 1 on the second floor, a studio space with raked seating.         
+Features: a contemporary dance performance work with varied content including spoken English and Gujarati; occurs in Aldridge Studio 1 on the second floor, a studio space with raked seating.         
          
 Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">Lowry</a>, 0161 876 2183 or <mailto:access@thelowry.com>       
                   
 #### Artist        
-Hetain is           
+Acclaimed London-based artist Hetain Patel has shown films, paintings, sculptures, photographs, and performance work in galleries and theatres around the world. Heatain’s work explores identity and freedom – blending choreography, text, and popular culture. His 2013 TED talk *Who Am I? Think Again*, has been viewed over 3 million times. Heatain's performance work *Be Like Water*, was shown by Word of Warning in [2013](/archive/2013-spring/patel).           
          
 #### Credits         
-Created & performed by          
+Creator & Performer: Hetain Patel<br>Rehearsal Director: Vidya Patel<br>Costume: Holly Waddington, Lee Yaroshevski, Malin Anderson<br>Creative Programmer: Clancy Flynn<br>Interviewees: Leela Patel, Nina Chaagan, Lola Perry, Mital Patel          
          
-Image: by Roswitha Chesher?         
+Commissioned by Dance Umbrella. Supported by Cockayne Foundation and FABRIC International.          
+         
+Image: Foteini Christofilopoulou         
          
 #### Websites        
 <a href="https://fabiolasantana.co.uk" target="_blank">fabiolasantana.co.uk</a> · <a href="https://willdickie.co.uk" target="_blank">willdickie.co.uk</a><br>Insta <a href="https://instagram.com/fbs.santana" target="_blank">@fbs.santana</a> · <a href="https://instagram.com/jessicamorgado_" target="_blank">@jessicamorgado_</a> · <a href="https://instagram.com/will_dickie_" target="_blank">@will_dickie_</a> · <a href="https://instagram.com/kaiteoreillyo" target="_blank">@kaiteoreillyo</a>       
