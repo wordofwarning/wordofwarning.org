@@ -8,7 +8,7 @@ artist: "Hetain Patel" # the name of the artist or company
 show: "Mathroo Basha" # the name of the show
 artist_size: 1
 show_size: 4
-header_image: "header_fabiola.jpg"
+header_image: "header_hetain.jpg"
 season: "Hetain Patel 12|11|2025, 7.30pm"
 
 # ABOUT THE SHOW - LAYOUT
@@ -17,11 +17,11 @@ season: "Hetain Patel 12|11|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/patel/#entry) · [access](/current/2025/patel/#access) · [artist](/current/2025/patel/#artist) · [credits](/current/2025/patel/#credits) · [websites](/current/2025/patel/#websites)</span>&ensp; <small>Updated 26 August 2025, 6pm</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/patel/#entry) · [access](/current/2025/patel/#access) · [artist](/current/2025/patel/#artist) · [credits](/current/2025/patel/#credits) · [websites](/current/2025/patel/#websites)</span>&ensp; <small>Updated 26 August 2025, 6.22pm</small>        
            
 *Presented by* Lowry + Word of Warning *as a* WTF Wednesday        
          
-Visual artist and filmmaker Hetain Patel explores generational change across his Brit-Gujarati family in his latest work, *Mathroo Basha* (Mother Tongue in Gujarati).           
+Visual artist and filmmaker Hetain Patel explores generational change across his Brit-Gujarati family in *Mathroo Basha* (Mother Tongue in Gujarati).           
          
 Following the passing of a number of first-generation immigrants in his family, British-born Hetain reflects on what is lost and what is transformed, revisiting rituals rooted in his family's working-class Brit-Gujarati experience.         
           
@@ -45,19 +45,19 @@ Age Advisory: 7+ (parent/guardian/carer discretion).
         
 Features: a contemporary dance performance work with varied content including spoken English and Gujarati; occurs in Aldridge Studio 1 on the second floor, a studio space with raked seating.         
          
-Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">Lowry</a>, 0161 876 2183 or <mailto:access@thelowry.com>       
+Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">Lowry</a> on 0161 876 2183 or <mailto:access@thelowry.com>       
                   
 #### Artist        
-Acclaimed London-based artist Hetain Patel has shown films, paintings, sculptures, photographs, and performance work in galleries and theatres around the world. Heatain’s work explores identity and freedom – blending choreography, text, and popular culture. His 2013 TED talk *Who Am I? Think Again*, has been viewed over 3 million times. Heatain's performance work *Be Like Water*, was shown by Word of Warning in [2013](/archive/2013-spring/patel).           
+Acclaimed London-based artist Hetain Patel has shown films, paintings, sculptures, photographs, and performance work in galleries and theatres around the world. Hetain’s work explores identity and freedom – blending choreography, text, and popular culture. His 2013 TED talk *Who Am I? Think Again* has been viewed over 3 million times. Hetain's performance work *Be Like Water* was shown by Word of Warning [in 2013](/archive/2013-spring/patel).           
          
 #### Credits         
 Creator & Performer: Hetain Patel<br>Rehearsal Director: Vidya Patel<br>Costume: Holly Waddington, Lee Yaroshevski, Malin Anderson<br>Creative Programmer: Clancy Flynn<br>Interviewees: Leela Patel, Nina Chaagan, Lola Perry, Mital Patel          
          
-Commissioned by Dance Umbrella. Supported by Cockayne Foundation and FABRIC International.          
+Commissioned by Dance Umbrella.<br>Supported by Cockayne Foundation and FABRIC International.          
          
 Image: Foteini Christofilopoulou         
          
 #### Websites        
-<a href="https://hetainpatel.com" target="_blank">hetainpatel.com</a> · <a href="https://facebook.com/hetainpatel" target="_blank">/hetainpatel</a> · Insta <a href="https://instagram.com/patelhetain" target="_blank">@patelhetain/</a>         
+<a href="https://hetainpatel.com" target="_blank">hetainpatel.com</a> · Facebook <a href="https://facebook.com/hetainpatel" target="_blank">/hetainpatel</a> · Insta <a href="https://instagram.com/patelhetain" target="_blank">@patelhetain</a>         
          
 <small><span style='font-variant: small-caps'>[back to top](/current/2025/patel)</span></small>
