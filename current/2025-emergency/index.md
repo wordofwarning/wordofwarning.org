@@ -17,11 +17,11 @@ season: "Emergency 27|9|2025, Noon-10pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [entry](/current/2025-emergency/#entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated 26 August 2025, 3.13pm</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [entry](/current/2025-emergency/#entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated 26 August 2025, 3.50pm</small>         
          
 *Presented by* Word of Warning *+* Contact        
         
-Manchester's 25th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 27 September from Noon to 10pm**:<br>— with an **Afternoon** of installations, interventions, limited capacity works<br>— followed by an **Evening** full of short shows from 4pm…         
+Manchester's 25th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 27 September from Noon to 10pm**:<br>— with an **Afternoon** of installations, interventions, limited capacity works<br>— followed by an **Evening** full of short shows from 4pm…<br>— including the return of special guests, Action Hero.          
          
 Get a feel for it with [last year's programme](/archive/2024-emergency/#artists) and [gallery of images](/galleries/2024-emergency).         
          
@@ -36,16 +36,16 @@ Time: Saturday 27 September 2025 from Noon to 10pm (last entry at 9.30pm).<br>*N
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
         
 #### Access         
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>*NB* one Afternoon work is only suitable for 18+         
+Age Advisory: mainly 16+, some work will be only suitable for 18+ (aimed at adults, parent/guardian/carer discretion).         
           
 Content Warnings: some works involve interaction and/or participation; specific warnings will be listed [here](/warnings) *about* a fortnight before.         
           
-Features: *about 25* Live Art & contemporary performance works with varied content. Multiple spaces on the ground/first/second floors are in use, and works are varied in format — some roaming, some seated, some standing, some spoken word, some visual, some participatory.          
+Features: *roughly 25* Live Art & contemporary performance works with varied content. Multiple spaces on the ground/first/second floors are in use, and works are varied in format — some roaming, some seated, some standing, some spoken word, some visual, some participatory.          
           
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### About         
-Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day in Manchester every autumn — this 25th edition will present *about 25* works from lunchtime till late throughout <a href="https://contactmcr.com" target="_blank">Contact</a>'s building and its multiple spaces.       
+Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day in Manchester every autumn — this 25th edition will present about 25 works from lunchtime till late throughout <a href="https://contactmcr.com" target="_blank">Contact</a>'s building and its multiple spaces.       
          
 *Probably* England's longest-running Live Art event, [Emergency](/hab/emergency) aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions.        
          
