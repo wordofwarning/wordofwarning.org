@@ -8,9 +8,9 @@ artist_size: 1
 season: "Performance Programme 2025"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 4 August 2025</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 28 August 2025</small>        
          
-*Currently on hiatus, we'll announce our autumn plans later in August…<br>2025 has already seen four new [Social Experiments](/socialexperiment), [Kellie Colbert](/current/2025/colbert)'s dedication of love, [Turn](/current/2025-turn)'s whirlwind of dance, a pair of [Works Ahead](/current/2025-worksahead), [Fabíola Santana](/current/2025/santana)'s movement ritual, and [Haphazard](/current/2025-haphazard)'s all ages antics…*          
+*Autumn opens with [Emergency](/current/2025-emergency)'s day out for the curious at Contact, and continues with a [Social Experiment](/socialexperiment) and two further events to be announced…<br>2025 has already seen four [Social Experiments](/socialexperiment), [Kellie Colbert](/current/2025/colbert)'s dedication of love, [Turn](/current/2025-turn)'s whirlwind of dance, a pair of [Works Ahead](/current/2025-worksahead), [Fabíola Santana](/current/2025/santana)'s movement ritual, and [Haphazard](/current/2025-haphazard)'s all ages antics…*          
          
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
@@ -21,9 +21,9 @@ Discover what happened last year in our [2024 archive](/archive/2024) — and <a
         
 #### About         
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful, and the bizarre of new live performance — an attempt to keep alive the best of greenroom's 25-year legacy, and to also introduce new people to the possibilities of seeing live work in Manchester + beyond, including livestreams and more online…          
->*If you haven’t attended one of these performance evenings yet, <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a> are you doing? Go and see the stimulating new work that's out there!*<br>&nbsp;— <a href="http://number9reviews.blogspot.com/2019/11/theatre-review-tom-cassani-i-promise.html" target="_blank">Number 9 Reviews on WTF Wednesdays (November 2019)</a>        
+>*If you haven't attended one of these performance evenings yet, <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a> are you doing? Go and see the stimulating new work that's out there!*<br>&nbsp;— <a href="http://number9reviews.blogspot.com/2019/11/theatre-review-tom-cassani-i-promise.html" target="_blank">Number 9 Reviews on WTF Wednesdays (November 2019)</a>        
       
-We take live work very seriously — but we don't take ourselves seriously at all. Over the past dozen or so years we've shown funny, thought-provoking, and beautiful work by the likes of Ron Athey, Harry Clayton-Wright, WilL Dickie, ELOINA, Chanje Kunda, Stacy Makishi, Kim Noble, Hetain Patel, Pinchbeck & Smith, Darren Pritchard, Proto-type Theater, Proud & Loud Arts, Avital Raz, and Two Destination Language (amongst others).         
+We take live work very seriously — but we don't take ourselves seriously at all. Over the past dozen or so years we've shown funny, thought-provoking, and beautiful work by the likes of Avital Raz, Chanje Kunda, Darren Pritchard, ELOINA, Harry Clayton-Wright, Hetain Patel, Kim Noble, Michael Pinchbeck, Proto-type Theater, Ron Athey,  WilL Dickie, Stacy Makishi, Two Destination Language, Uncurbed Collective (amongst others).         
 <small><span style='font-variant: small-caps'>[back to top](/current/2025)</span></small>         
          
 #### Audiences         
@@ -35,10 +35,12 @@ We don't want to put you off by talking art form labels — yes, there'll be the
 #### By         
 Word of Warning is a project by Manchester-based [hÅb](/hab) — you might not have heard of us though you may know some of our events like [Emergency](http://emergencymcr.org), [Haphazard](http://haphazardmcr.org), [Hazard](http://hazardmcr.org), or [Turn](http://turnmcr.org). Read 2021's interview with <a href="https://circlesandstalls.com/2021/09/17/an-interview-with-word-of-warnings-tamsin-drury" target="_blank">Circles & Stalls</a>.         
           
-Our Performance Programme 2025 is brought to you by [hÅb](/hab) with [partners](/hab/partners):<br><a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, <a href="https://homemcr.org" target="_blank">HOME</a>, <a href="https://thelowry.com" target="_blank">Lowry</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and <a href="https://z-arts.org" target="_blank">Z-arts</a>.        
+Our Performance Programme 2025 is brought to you by [hÅb](/hab) with [partners](/hab/partners) including <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, <a href="https://homemcr.org" target="_blank">HOME</a>, <a href="https://thelowry.com" target="_blank">Lowry</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and <a href="https://z-arts.org" target="_blank">Z-arts</a>.        
 >*Refreshing company that brings diverse shows to our door steps.*<br>*WoW are great, supporting emerging work and bringing it to new audiences.*<br>*Wonderful, daring performances that I have never been disappointed by.<br>A needed company in Manchester, feels like they really support artists.*<br>&nbsp;— Audience feedback         
          
-[hÅb](/hab) produces, develops, and advocates for Live Art, contemporary performance, and sited work in the North of England.<br>Supported using public funding by <a href="https://www.artscouncil.org.uk/npo" target="_blank">Arts Council England</a>, hÅb is also a <a href="http://divergencymcr.org" target="_blank">Divergency</a> core partner — encouraging diversity in Live Art; a <a href="https://manchesterindependents.org" target="_blank">Manchester Independents</a> lead partner — highlighting independent Greater Manchester artists; and a member of <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, <a href="http://liveartuk.org" target="_blank">Live Art UK</a>, <a href="https://g-mast.org" target="_blank">GMAST</a>, and the GM LGBTQ+ Arts & Culture Network.         
+[hÅb](/hab) produces, develops, and advocates for Live Art, contemporary performance, and sited work in the North of England.         
+          
+[hÅb](/hab) is supported using public funding by <a href="https://www.artscouncil.org.uk/NationalPortfolio23" target="_blank">Arts Council England (a National Portfolio Organisation)</a>.<br>hÅb is also a <a href="http://divergencymcr.org" target="_blank">Divergency</a> core partner — encouraging diversity in Live Art; a <a href="https://manchesterindependents.org" target="_blank">Manchester Independents</a> lead partner — highlighting independent Greater Manchester artists; and a member of <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, <a href="https://g-mast.org" target="_blank">GMAST</a>, the GM LGBTQ+ Arts & Culture Network, and <a href="http://liveartuk.org" target="_blank">Live Art UK</a>.         
 <small><span style='font-variant: small-caps'>[back to top](/current/2025)</span></small>        
          
 #### People        
@@ -48,7 +50,7 @@ John Franklin-Johnston, hÅb's Programme Manager, is a freelance producer, event
          
 Peader Kirk, artist & mentor, supports [Works Ahead](/hab/worksahead) and other hÅb projects.         
          
-We're grateful for the ongoing support of hÅb projects during 2025 from a team of freelancers and volunteers that includes: Alison Darnbrough, Andrew Crofts, Annelise Edwards, Catherine Shaw, Jamil Keating, Martha Barr, Sam Stockdale, Tania Camara, Tricia Coleman, and Theatre & Performance students from The Arden.         
+We're grateful for the ongoing support of hÅb projects during 2025 from a team of freelancers and volunteers that includes: Alison Darnbrough, Andrew Crofts, Annelise Edwards, Catherine Shaw, Jamil Keating, Martha Barr, Sam Stockdale, Tania Camara, Tricia Coleman, plus Theatre & Performance students from The Arden.         
          
 Thanks also to [hÅb](/hab)'s Advisory Board: Helen Palmer, Cathy Butterworth, Charles Rowley, Joseph Lau, Tania Camara, and Maya Chowdhry for [Divergency](/hab/divergencymcr).        
 <small><span style='font-variant: small-caps'>[back to top](/current/2025)</span></small>        
