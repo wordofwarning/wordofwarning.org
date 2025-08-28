@@ -1,6 +1,6 @@
 /* THEMED PER-EVENT STYLES ---------------------------*/
 
-/* default word of warning styling + homepage header currently 2025 blue DNA
+/* default word of warning styling + homepage header currently AW2025 silver foil
 ------------------------------------------------------*/
 
 	body,
@@ -1117,3 +1117,9 @@
 
 	.p2025 .splash
 		{background:url(../images/header_warni_2025.jpg) -150px center}
+
+/* 2025 AW Programme silver foil
+------------------------------------------------------*/
+
+	.a2025 .splash
+		{background:url(../images/header_warni_AW25.jpg) -150px center}
