@@ -24,6 +24,7 @@ gallery:
     -   {file: "luca.jpg", artist: "Luca Federici"}
     -   {file: "luke.jpg", artist: "Luke McDonnell"}
     -   {file: "madeleina.jpg", artist: "Madeleina Kay"}
+    -   {file: "nu.jpg", artist: "n:u (melissandre varin)", show: "<small>by Hans Gaston Op de Beeck</small>"}
     -   {file: "mole.jpg", artist: "Mole Wetherell / UoS Performance"}
     -   {file: "nathan.jpg", artist: "nathan birkinshaw"}
     -   {file: "rachael.jpg", artist: "Rachael Gooch"}
