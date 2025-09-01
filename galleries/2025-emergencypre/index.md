@@ -17,6 +17,7 @@ gallery:
     -   {file: "dongting.jpg", artist: "Dongting Huang"}
     -   {file: "elana.jpg", artist: "Elana Binysh"} 
     -   {file: "faye.jpg", artist: "Faye Yan", show: "<small>by Sarah Song</small>"}
+    -   {file: "freda.jpg", artist: "Freda Wallace"} 
     -   {file: "gowd.jpg", artist: "GOWD"} 
     -   {file: "kris.jpg", artist: "Kris Canavan"}
     -   {file: "leon.jpg", artist: "Leon Clowes"}
@@ -30,4 +31,5 @@ gallery:
     -   {file: "rachael.jpg", artist: "Rachael Gooch"}
     -   {file: "rosie + poppy.jpg", artist: "Rosie Hart & Poppy Waxman"}
     -   {file: "paula.jpg", artist: "The Paula Davy"}
+    -   {file: "tom.jpg", artist: "Tom Cassani"} 
 ---
