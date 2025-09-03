@@ -17,13 +17,13 @@ season: "Emergency 27|9|2025, Noon-10pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [entry](/current/2025-emergency/#entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated 28 August 2025, 12.45pm</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [entry](/current/2025-emergency/#entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated 3 September 2025</small>         
          
 *Presented by* Word of Warning *+* Contact        
         
 Manchester's 25th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 27 September from Noon to 10pm**:<br>— with an **Afternoon** of installations, interventions, limited capacity works<br>— followed by an **Evening** full of short shows from 4pm<br>— including the return of special guests, Action Hero.          
-         
-Get a feel for it with [last year's programme](/archive/2024-emergency/#artists) and [gallery of images](/galleries/2024-emergency).         
+          
+Look at some of our [artists’ images](/galleries/2025-emergencypre).         
          
 #### Artists         
 Action&nbsp;Hero&nbsp;· Alexis&nbsp;Maxwell&nbsp;· Burt&nbsp;Turdgirth&nbsp;&&nbsp;special&nbsp;guests&nbsp;· ClusterFlux&nbsp;Collective&nbsp;· Dongting&nbsp;Huang&nbsp;· Elana&nbsp;Binysh&nbsp;· Faye&nbsp;Yan&nbsp;· GOWD&nbsp;· Kellie&nbsp;Colbert&nbsp;&&nbsp;Deborah&nbsp;Newton&nbsp;· Kris&nbsp;Canavan&nbsp;· Leon&nbsp;Clowes&nbsp;· Lisa&nbsp;Ford&nbsp;· Luca&nbsp;Federici&nbsp;· Luke&nbsp;McDonnell&nbsp;· Madeleina&nbsp;Kay&nbsp;· Miss&nbsp;Freda&nbsp;Wallace&nbsp;· Mole&nbsp;Wetherell&nbsp;&&nbsp;UoS&nbsp;Performance&nbsp;· n:u&nbsp;(melissandre&nbsp;varin)&nbsp;· Nathan&nbsp;Birkinshaw&nbsp;· Rachael&nbsp;Gooch&nbsp;· Rory&nbsp;Aaron&nbsp;&&nbsp;Markus&nbsp;Hetheier&nbsp;· Rosie&nbsp;Hart&nbsp;&&nbsp;Poppy&nbsp;Waxman&nbsp;· The&nbsp;Paula&nbsp;Davy&nbsp;· Tom&nbsp;Cassani&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
