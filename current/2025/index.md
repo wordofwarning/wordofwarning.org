@@ -8,9 +8,11 @@ artist_size: 1
 season: "Performance Programme 2025"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 3 September 2025</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 4 September 2025</small>        
          
-*Autumn begins with [Emergency 25](/current/2025-emergency)'s day out for the curious at Contact — continues with a [Social Experiment](/socialexperiment), plus further events to be announced…<br>2025 has already seen four [Social Experiments](/socialexperiment), [Kellie Colbert](/current/2025/colbert)'s dedication of love, [Turn](/current/2025-turn)'s whirlwind of dance, a pair of [Works Ahead](/current/2025-worksahead), [Fabíola Santana](/current/2025/santana)'s movement ritual, and [Haphazard](/current/2025-haphazard)'s all ages antics…*          
+*Autumn begins with [Emergency 25](/current/2025-emergency)'s day out for the curious at Contact — continues with a [Social Experiment](/socialexperiment), plus two further events tba…*         
+         
+*2025 has already seen four [Social Experiments](/socialexperiment), [Kellie Colbert](/current/2025/colbert)'s dedication of love, [Turn](/current/2025-turn)'s whirlwind of dance, a pair of [Works Ahead](/current/2025-worksahead), [Fabíola Santana](/current/2025/santana)'s movement ritual, and [Haphazard](/current/2025-haphazard)'s all ages antics…*          
          
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
