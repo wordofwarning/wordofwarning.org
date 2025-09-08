@@ -17,11 +17,11 @@ season: "Emergency 27|9|2025, Noon-10pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [entry](/current/2025-emergency/#entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated 3 September 2025</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [entry](/current/2025-emergency/#entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated 8 September 2025</small>         
          
 *Presented by* Word of Warning *+* Contact        
         
-Manchester's 25th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 27 September from Noon to 10pm**:<br>— with an **Afternoon** of installations, interventions, limited capacity works<br>— followed by an **Evening** full of short shows from 4pm<br>— including the return of special guests, Action Hero.          
+Manchester's 25th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com/events/emergency-25" target="_blank">Contact</a> on **Saturday 27 September from Noon to 10pm**:<br>— with an **Afternoon** of installations, interventions, limited capacity works<br>— followed by an **Evening** full of short shows from 4pm<br>— including the return of special guests, Action Hero.          
           
 Look at some of our [artists’ images](/galleries/2025-emergencypre).         
          
@@ -45,7 +45,7 @@ Features: twenty-four Live Art & contemporary performance works with varied cont
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### About         
-Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day in Manchester every autumn — this 25th edition will present twenty-four works from lunchtime till late throughout <a href="https://contactmcr.com" target="_blank">Contact</a>'s building and its multiple spaces.       
+Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day in Manchester every autumn — this 25th edition will present twenty-four works from lunchtime till late throughout <a href="https://contactmcr.com/events/emergency-25" target="_blank">Contact</a>'s building and its multiple spaces.       
          
 *Probably* England's longest-running Live Art event, [Emergency](/hab/emergency) aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions.        
          
