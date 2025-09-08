@@ -8,7 +8,7 @@ artist: "Hetain Patel" # the name of the artist or company
 show: "Mathroo Basha" # the name of the show
 artist_size: 1
 show_size: 4
-header_image: "header_hetain.jpg"
+header_image: ""
 season: "Hetain Patel 12|11|2025, 7.30pm"
 
 # ABOUT THE SHOW - LAYOUT
@@ -17,7 +17,7 @@ season: "Hetain Patel 12|11|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/patel/#entry) · [access](/current/2025/patel/#access) · [artist](/current/2025/patel/#artist) · [credits](/current/2025/patel/#credits) · [websites](/current/2025/patel/#websites)</span>&ensp; <small>Updated 26 August 2025, 6.35pm</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/patel/#entry) · [access](/current/2025/patel/#access) · [artist](/current/2025/patel/#artist) · [credits](/current/2025/patel/#credits) · [websites](/current/2025/patel/#websites)</span>&ensp; <small>Updated 8 September 2025 at 12:30</small>        
            
 *Presented by* Lowry + Word of Warning *as a* WTF Wednesday        
          
@@ -34,7 +34,7 @@ Pay What You Decide: £20/£15/£10/£5/£0 (advance booking recommended).
          
 Tickets: available <a href="https://tickets.thelowry.com" target="_blank">online</a> or call Lowry on 0161 876 2000        
          
-Time: Wednesday 12 November 2025, 8pm (no interval, ends *about* 8.45pm).          
+Time: Wednesday 12 November 2025, 8pm (no interval, ends *about* 8.50pm).          
                        
 Location: <a href="https://thelowry.com/plan-your-visit-18cr" target="_blank">Lowry</a> (Aldridge Studio 1), Pier 8, The Quays, Salford M50 3AZ.         
         
