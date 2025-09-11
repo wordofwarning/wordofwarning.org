@@ -17,9 +17,9 @@ season: "Hetain Patel 12|11|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/patel/#entry) · [access](/current/2025/patel/#access) · [artist](/current/2025/patel/#artist) · [credits](/current/2025/patel/#credits) · [websites](/current/2025/patel/#websites)</span>&ensp; <small>Updated 8 September 2025 at 1.40pm</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/patel/#entry) · [access](/current/2025/patel/#access) · [artist](/current/2025/patel/#artist) · [credits](/current/2025/patel/#credits) · [websites](/current/2025/patel/#websites)</span>&ensp; <small>Updated 11 September 2025 at 11:15</small>        
            
-*Presented by* Lowry + Word of Warning *as a* WTF Wednesday        
+*Presented by* <a href="https://thelowry.com/whats-on/mathroo-basha-by-hetain-patel-t6qc" target="_blank">Lowry</a> + Word of Warning *as a* WTF Wednesday        
          
 Acclaimed visual artist and filmmaker Hetain Patel uses movement and audio interviews to explore generational change across his Brit-Gujarati family in *Mathroo Basha* (Mother Tongue in Gujarati).           
          
@@ -32,7 +32,7 @@ Responding physically to audio interviews of women from his family — speaking 
 #### Entry          
 Pay What You Decide: £20/£15/£10/£5/£0 (advance booking recommended).        
          
-Tickets: available <a href="https://tickets.thelowry.com" target="_blank">online</a> or call Lowry on 0161 876 2000        
+Tickets: available <a href="https://tickets.thelowry.com/events/wtf%20wednesday-%20mathroo%20basha%20by%20hetain%20patel/2025-11-12_20.00/lowry%20studio" target="_blank">online</a> or call Lowry on 0161 876 2000        
          
 Time: Wednesday 12 November 2025, 8pm (no interval, ends *about* 8.50pm).          
                        
