@@ -17,7 +17,7 @@ season: "Hetain Patel 12|11|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/patel/#entry) · [access](/current/2025/patel/#access) · [artist](/current/2025/patel/#artist) · [credits](/current/2025/patel/#credits) · [websites](/current/2025/patel/#websites)</span>&ensp; <small>Updated 11 September 2025 at 11:15</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/patel/#entry) · [access](/current/2025/patel/#access) · [artist](/current/2025/patel/#artist) · [credits](/current/2025/patel/#credits) · [websites](/current/2025/patel/#websites)</span>&ensp; <small>Updated 11 September 2025, 6.50pm</small>        
            
 *Presented by* <a href="https://thelowry.com/whats-on/mathroo-basha-by-hetain-patel-t6qc" target="_blank">Lowry</a> + Word of Warning *as a* WTF Wednesday        
          
@@ -41,7 +41,7 @@ Location: <a href="https://thelowry.com/plan-your-visit-18cr" target="_blank">Lo
 #### Access         
 Age Advisory: 7+ (parent/guardian/carer discretion).        
          
-[Content Warnings](/warnings): includes the use of haze.         
+Content Warning: includes the use of haze. ([See here](/warnings).)         
         
 Features: a contemporary dance performance work with varied content including spoken English and Gujarati; occurs in Aldridge Studio 1 on the second floor, a studio space with raked seating.         
          
