@@ -27,7 +27,7 @@ Following the passing of a number of first-generation immigrants in his family, 
           
 Responding physically to audio interviews of women from his family — speaking in Gujarati about inheritance, loss, and the future — Hetain delves into the emotional realities of generational change through personal movement explorations, where his body becomes the conduit…   
          
-<iframe width="400" height="225" src="https://www.youtube.com/embed/ONAFW590t4A?si=fGCXP9Ke1vDzpCYH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>        
+<iframe width="352" height="198" src="https://www.youtube.com/embed/ONAFW590t4A?si=fGCXP9Ke1vDzpCYH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>        
          
 #### Entry          
 Pay What You Decide: £20/£15/£10/£5/£0 (advance booking recommended).        
