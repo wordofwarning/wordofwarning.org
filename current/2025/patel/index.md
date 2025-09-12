@@ -17,7 +17,7 @@ season: "Hetain Patel 12|11|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/patel/#entry) · [access](/current/2025/patel/#access) · [artist](/current/2025/patel/#artist) · [credits](/current/2025/patel/#credits) · [websites](/current/2025/patel/#websites)</span>&ensp; <small>Updated 11 September 2025, 6.50pm</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/patel/#entry) · [access](/current/2025/patel/#access) · [artist](/current/2025/patel/#artist) · [credits](/current/2025/patel/#credits) · [websites](/current/2025/patel/#websites)</span>&ensp; <small>Updated 12 September 2025, 1pm</small>        
            
 *Presented by* <a href="https://thelowry.com/whats-on/mathroo-basha-by-hetain-patel-t6qc" target="_blank">Lowry</a> + Word of Warning *as a* WTF Wednesday        
          
@@ -27,7 +27,7 @@ Following the passing of a number of first-generation immigrants in his family, 
           
 Responding physically to audio interviews of women from his family — speaking in Gujarati about inheritance, loss, and the future — Hetain delves into the emotional realities of generational change through personal movement explorations, where his body becomes the conduit…   
          
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ONAFW590t4A?si=F6qxwguJ1JbUSHs-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>          
+<iframe src="https://youtube-nocookie.com/embed/ONAFW590t4A?si=F6qxwguJ1JbUSHs-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>          
          
 #### Entry          
 Pay What You Decide: £20/£15/£10/£5/£0 (advance booking recommended).        
@@ -48,7 +48,7 @@ Features: a contemporary dance performance work with varied content including sp
 Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">Lowry</a> on 0161 876 2183 or <mailto:access@thelowry.com>       
                   
 #### Artist        
-London-based artist Hetain Patel has shown films, paintings, sculptures, photographs, and performance work in galleries and theatres. Hetain’s work explores identity and freedom – blending choreography, text, and popular culture.         
+London-based artist Hetain Patel has shown films, paintings, sculptures, photographs, and performance work in galleries and theatres. Hetain’s work explores identity and freedom — blending choreography, text, and popular culture.         
          
 His performance work *Be Like Water* was [shown by Word of Warning](/archive/2013-spring/patel) and his 2013 TED talk *Who Am I? Think Again* has been viewed over 3 million times.            
          
