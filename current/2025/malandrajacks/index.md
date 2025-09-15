@@ -32,7 +32,7 @@ Award-winning duo Malandra Jacks invite you into a world of spellbinding project
 Funny, intimate, and defiant — *Census* is a love letter to working-class communities, and a call to remember who we are and what we carry with us.         
           
 <iframe width="352" height="198" src="https://www.youtube.com/embed/Bk3eFhuNyxE?si=9-asdBXGDkzN1mhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>        
-<br>Winner of best performance at the Manchester Culture Awards 2024.         
+<br>**Winner of Best Performance at the <a href="https://www.manchester.gov.uk/info/200070/museums_galleries_and_the_arts/7657/manchester_culture_awards_2024/3 " target="_blank">Manchester Culture Awards 2024.</a>**        
          
 #### Entry          
 Tickets: care of HOME, book <a href="https://homemcr.org/whats-on/census-542n" target="_blank">online</a> or call 0161 200 1500        
@@ -66,8 +66,6 @@ Joshua Wilkinson is a Manchester-based performer, arts facilitator, and filmmake
 Performers & Writers: Chloe Malandra & Joshua Wilkinson<br>Dramaturge: Kate Bradnam<br>Technical Consultant: Andrew Crofts<br>Composer: Greg Harper<br>Projection Visual Designer: David Hall<br>Set Designer: Faz Barber<br>Set Maker: Tom Mills<br>R&D Creative Practitioner: Julia Samuels<br>With thanks to Roxy Daykin-Moores.         
          
 Originally commissioned by Contact and hÅb; supported by hÅb, Manchester City Council, and using public funding by the National Lottery through Arts Council England.         
-         
-Image: by ???        
          
 #### Websites        
 <a href="https://malandrajacks.com" target="_blank">malandrajacks.com</a> · Facebook <a href="https://facebook.com/MalandraJacks" target="_blank">/MalandraJacks</a> · Insta <a href="https://instagram.com/malandra_jacks" target="_blank">@malandra_jacks</a>         
