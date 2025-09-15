@@ -37,7 +37,7 @@ Funny, intimate, and defiant — *Census* is a love letter to working-class comm
 #### Entry          
 Tickets: care of HOME, book <a href="https://homemcr.org/whats-on/census-542n" target="_blank">online</a> or call 0161 200 1500        
          
-Times:<br>&nbsp;Thursday&nbsp;20&nbsp;November&nbsp;2025,&nbsp;7.45pm;<br>&nbsp;Friday&nbsp;21&nbsp;November&nbsp;2025,&nbsp;7.45pm;<br>&nbsp;Saturday&nbsp;22&nbsp;November&nbsp;2025,&nbsp;2.15pm &nbsp;and&nbsp;7.45pm.         
+Times: Thursday&nbsp;20&nbsp;November&nbsp;2025,&nbsp;7.45pm &nbsp;Friday&nbsp;21&nbsp;November&nbsp;2025,&nbsp;7.45pm &nbsp;Saturday&nbsp;22&nbsp;November&nbsp;2025,&nbsp;2.15pm &nbsp;Saturday&nbsp;22&nbsp;November&nbsp;2025,&nbsp;7.45pm         
          
 Duration: 1 hour (no interval).          
          
@@ -48,7 +48,7 @@ Age Advisory: 12+ (parent/guardian/carer discretion).
          
 Content Warnings: will be listed [here](/warnings) in late September.         
         
-Features: a contemporary performance work with varied content including spoken English and projected video; occurs in Theatre 2 on the first, a studio space with raked seating.         
+Features: a contemporary performance work with varied content including spoken English and projected video; occurs in Theatre 2 on the first floor, a studio space with raked seating.         
          
 Queries: please contact <a href="https://homemcr.org/access-information-1mrc" target="_blank">HOME</a> on 0161 200 1500 or <mailto:access@homemcr.org>       
                   
