@@ -37,7 +37,7 @@ Funny, intimate, and defiant — *Census* is a love letter to working-class comm
 #### Entry          
 Tickets: care of HOME, book <a href="https://homemcr.org/whats-on/census-542n" target="_blank">online</a> or call 0161 200 1500        
          
-Times: Thursday&nbsp;20&nbsp;November&nbsp;2025,&nbsp;7.45pm &nbsp;Friday&nbsp;21&nbsp;November&nbsp;2025,&nbsp;7.45pm &nbsp;Saturday&nbsp;22&nbsp;November&nbsp;2025,&nbsp;2.15pm &nbsp;Saturday&nbsp;22&nbsp;November&nbsp;2025,&nbsp;7.45pm         
+Times:<br>&nbsp;Thursday 20 November 2025, 7.45pm<br>&nbsp;Friday 21 November 2025, 7.45pm<br>&nbsp;Saturday 22 November 2025, 2.15pm<br>&nbsp;Saturday 22 November 2025, 7.45pm         
          
 Duration: 1 hour (no interval).          
          
