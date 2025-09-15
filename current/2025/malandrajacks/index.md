@@ -4,12 +4,12 @@ layout: 2025-programme
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Hetain Patel" # the name of the artist or company
-show: "Mathroo Basha" # the name of the show
+artist: "Malandra Jacks" # the name of the artist or company
+show: "Census" # the name of the show
 artist_size: 1
 show_size: 4
-header_image: "header_hetain4.jpg"
-season: "Hetain Patel 12|11|2025, 7.30pm"
+header_image: "header_malandrajacks1.jpg"
+season: "Malandra Jacks 20–22|11|2025"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,9 +17,9 @@ season: "Hetain Patel 12|11|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/patel/#entry) · [access](/current/2025/patel/#access) · [artist](/current/2025/patel/#artist) · [credits](/current/2025/patel/#credits) · [websites](/current/2025/patel/#websites)</span>&ensp; <small>Updated 12 September 2025, 1.30pm</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/malandrajacks/#entry) · [access](/current/2025/malandrajacks/#access) · [artists](/current/2025/malandrajacks/#artists) · [credits](/current/2025/malandrajacks/#credits) · [websites](/current/2025/malandrajacks/#websites)</span>&ensp; <small>Updated 15 September 2025, 10:30</small>        
            
-*Presented by* <a href="https://thelowry.com/whats-on/mathroo-basha-by-hetain-patel-t6qc" target="_blank">Lowry</a> + Word of Warning *as a* WTF Wednesday        
+*Presented by* Word of Warning + HOME         
          
 Acclaimed visual artist and filmmaker Hetain Patel uses movement and audio interviews to explore generational change across his Brit-Gujarati family in *Mathroo Basha* (Mother Tongue in Gujarati).           
          
@@ -32,20 +32,20 @@ Responding physically to audio interviews of women from his family — speaking 
 #### Entry          
 Pay What You Decide: £20/£15/£10/£5/£0 (advance booking recommended).        
          
-Tickets: available <a href="https://tickets.thelowry.com/events/wtf%20wednesday-%20mathroo%20basha%20by%20hetain%20patel/2025-11-12_20.00/lowry%20studio" target="_blank">online</a> or call Lowry on 0161 876 2000        
+Tickets: available <a href="https://homemcr.org/whats-on/census-542n" target="_blank">online</a> or call HOME on 0161 200 1500        
          
-Time: Wednesday 12 November 2025, 8pm (no interval, ends *about* 8.50pm).          
+Times: Thursday 20 November 2025, 7.45pm | Friday 21 November 2025, 7.45pm | Saturday 22 November 2025, 2.15pm | Saturday 22 November 2025, 7.45pm<br>Duration: 1 hour (no interval).          
                        
-Location: <a href="https://thelowry.com/plan-your-visit-18cr" target="_blank">Lowry</a> (Aldridge Studio 1), Pier 8, The Quays, Salford M50 3AZ.         
+Location: <a href="https://homemcr.org/plan-your-visit-q15t" target="_blank">HOME</a> (Theatre 2), 2 Tony Wilson Place, Manchester M15 4FN.         
         
 #### Access         
-Age Advisory: 7+ (parent/guardian/carer discretion).        
+Age Advisory: 12+ (parent/guardian/carer discretion).        
          
-Content Warning: includes the use of haze. ([See here](/warnings).)         
+Content Warnings: will be listed [here](/warnings) in late September.         
         
-Features: a contemporary dance performance work with varied content including spoken English and Gujarati; occurs in Aldridge Studio 1 on the second floor, a studio space with raked seating.         
+Features: a contemporary theatre/performance work with varied content including spoken English; occurs in Theatre 2 on the first, a studio space with raked seating.         
          
-Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">Lowry</a> on 0161 876 2183 or <mailto:access@thelowry.com>       
+Queries: please contact <a href="https://homemcr.org/access-information-1mrc" target="_blank">HOME</a> on 0161 200 1500 or <mailto:aaccess@homemcr.org>       
                   
 #### Artist        
 London-based artist Hetain Patel has shown films, paintings, sculptures, photographs, and performance work in galleries and theatres. Hetain’s work explores identity and freedom — blending choreography, text, and popular culture.         
@@ -57,7 +57,7 @@ Creator & Performer: Hetain Patel<br>Rehearsal Director: Vidya Patel<br>Costum
          
 Commissioned by Dance Umbrella. Made possible with the support of the Cockayne Foundation and FABRIC International.         
          
-Image: Foteini Christofilopoulou         
+Image: ???        
          
 #### Websites        
 <a href="https://hetainpatel.com" target="_blank">hetainpatel.com</a> · Facebook <a href="https://facebook.com/hetainpatel" target="_blank">/hetainpatel</a> · Insta <a href="https://instagram.com/patelhetain" target="_blank">@patelhetain</a>         
