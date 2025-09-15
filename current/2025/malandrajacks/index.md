@@ -8,7 +8,7 @@ artist: "Malandra Jacks" # the name of the artist or company
 show: "Census" # the name of the show
 artist_size: 3
 show_size: 1
-header_image: "header_malandrajacks2.jpg"
+header_image: "header_malandrajacks1.jpg"
 season: "Malandra Jacks 20–22|11|2025"
 
 # ABOUT THE SHOW - LAYOUT
