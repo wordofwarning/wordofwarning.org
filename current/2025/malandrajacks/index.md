@@ -6,9 +6,9 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Malandra Jacks" # the name of the artist or company
 show: "Census" # the name of the show
-artist_size: 4
-show_size: 1
-header_image: "header_malandrajacks1.jpg"
+artist_size: 3
+show_size: 2
+header_image: "header_malandrajacks2.jpg"
 season: "Malandra Jacks 20–22|11|2025"
 
 # ABOUT THE SHOW - LAYOUT
@@ -17,7 +17,7 @@ season: "Malandra Jacks 20–22|11|2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/malandrajacks/#entry) · [access](/current/2025/malandrajacks/#access) · [artists](/current/2025/malandrajacks/#artists) · [credits](/current/2025/malandrajacks/#credits) · [websites](/current/2025/malandrajacks/#websites)</span>&ensp; <small>Updated 15 September 2025, 1252</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/malandrajacks/#entry) · [access](/current/2025/malandrajacks/#access) · [artists](/current/2025/malandrajacks/#artists) · [credits](/current/2025/malandrajacks/#credits) · [websites](/current/2025/malandrajacks/#websites)</span>&ensp; <small>Updated 15 September 2025, 1309</small>        
            
 *Presented by* Word of Warning + HOME         
          
@@ -27,19 +27,20 @@ This is what happens when a working-class community tells its own story…
          
 *This is our neighbourhood, not the one in the media, but the one shaped by our stories, our laughter, and our silence.*         
          
-Award-winning duo Malandra Jacks invite you into a world of spellbinding projection, real voices, and unapologetic heart.<br>Part theatre, part time capsule: a celebration of communities rarely seen on stage.         
+Award-winning duo Malandra Jacks invite you into a world of spellbinding projection, real voices, and unapologetic heart. Part theatre, part time capsule: a celebration of communities rarely seen on stage.         
          
 Funny, intimate, and defiant — *Census* is a love letter to working-class communities, and a call to remember who we are and what we carry with us.         
           
 <iframe width="352" height="198" src="https://www.youtube.com/embed/Bk3eFhuNyxE?si=9-asdBXGDkzN1mhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>        
-         
-Winner of best performance at the Manchester Culture Awards 2024.         
+<br>Winner of best performance at the Manchester Culture Awards 2024.         
          
 #### Entry          
 Tickets: care of HOME, book <a href="https://homemcr.org/whats-on/census-542n" target="_blank">online</a> or call 0161 200 1500        
          
-Times: Thursday&nbsp;20&nbsp;November&nbsp;2025,&nbsp;7.45pm&nbsp;· Friday&nbsp;21&nbsp;November&nbsp;2025,&nbsp;7.45pm&nbsp;· Saturday&nbsp;22&nbsp;November&nbsp;2025,&nbsp;2.15pm&nbsp;and&nbsp;7.45pm.<br>Duration: 1 hour (no interval).          
-                       
+Times: Thursday&nbsp;20&nbsp;November&nbsp;2025,&nbsp;7.45pm; &nbsp;Friday&nbsp;21&nbsp;November&nbsp;2025,&nbsp;7.45pm; &nbsp;Saturday&nbsp;22&nbsp;November&nbsp;2025,&nbsp;2.15pm&nbsp;and&nbsp;7.45pm.         
+         
+Duration: 1 hour (no interval).          
+         
 Location: <a href="https://homemcr.org/plan-your-visit-q15t" target="_blank">HOME</a> (Theatre 2), 2 Tony Wilson Place, Manchester M15 4FN.         
         
 #### Access         
@@ -52,11 +53,11 @@ Features: a contemporary theatre/performance work with varied content including 
 Queries: please contact <a href="https://homemcr.org/access-information-1mrc" target="_blank">HOME</a> on 0161 200 1500 or <mailto:access@homemcr.org>       
                   
 #### Artists        
-Malandra Jacks are two artists making film, theatre, art installations, and sharing authentic stories. Importantly, their work offers a platform for communities who voices often go unheard and underrepresented…         
+Malandra Jacks are two artists making film, theatre, art installations, and sharing authentic stories. Importantly, their work offers a platform for communities whose voices often go unheard and are underrepresented…         
          
 Chloe Malandra is a multidisciplinary freelance artist, whose skills range from film production and theatre making to drama and arts facilitation for all ages and abilities. She has a genuine belief that the arts are for everyone and carries this ethos through all of her work.         
           
-Josh Wilkinson is a Manchester-based performer, arts facilitator, and filmmaker. He produces short films with video production company, Modify. Josh regularly facilitates arts workshops across the UK, is a board member of Factory International, and former board member of Contact.         
+Joshua Wilkinson is a Manchester-based performer, arts facilitator, and filmmaker. He produces short films with video production company, Modify. Josh regularly facilitates arts workshops across the UK, is a board member of Factory International, and a former board member of Contact.         
          
 KB?         
          
