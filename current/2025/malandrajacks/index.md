@@ -6,8 +6,8 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Malandra Jacks" # the name of the artist or company
 show: "Census" # the name of the show
-artist_size: 1
-show_size: 4
+artist_size: 4
+show_size: 1
 header_image: "header_malandrajacks1.jpg"
 season: "Malandra Jacks 20–22|11|2025"
 
@@ -17,7 +17,7 @@ season: "Malandra Jacks 20–22|11|2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/malandrajacks/#entry) · [access](/current/2025/malandrajacks/#access) · [artists](/current/2025/malandrajacks/#artists) · [credits](/current/2025/malandrajacks/#credits) · [websites](/current/2025/malandrajacks/#websites)</span>&ensp; <small>Updated 15 September 2025, 10:30</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/malandrajacks/#entry) · [access](/current/2025/malandrajacks/#access) · [artists](/current/2025/malandrajacks/#artists) · [credits](/current/2025/malandrajacks/#credits) · [websites](/current/2025/malandrajacks/#websites)</span>&ensp; <small>Updated 15 September 2025, 1100</small>        
            
 *Presented by* Word of Warning + HOME         
          
@@ -27,14 +27,14 @@ Following the passing of a number of first-generation immigrants in his family, 
           
 Responding physically to audio interviews of women from his family — speaking in Gujarati about inheritance, loss, and the future — Hetain delves into the emotional realities of generational change through personal movement explorations, where his body becomes the conduit…   
          
-<iframe width="352" height="198" src="https://www.youtube.com/embed/ONAFW590t4A?si=fGCXP9Ke1vDzpCYH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>        
+<iframe width="352" height="198" src="https://www.youtube.com/embed/Bk3eFhuNyxE?si=9-asdBXGDkzN1mhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>        
          
 #### Entry          
 Pay What You Decide: £20/£15/£10/£5/£0 (advance booking recommended).        
          
 Tickets: available <a href="https://homemcr.org/whats-on/census-542n" target="_blank">online</a> or call HOME on 0161 200 1500        
          
-Times: Thursday 20 November 2025, 7.45pm | Friday 21 November 2025, 7.45pm | Saturday 22 November 2025, 2.15pm | Saturday 22 November 2025, 7.45pm<br>Duration: 1 hour (no interval).          
+Times: Thursday 20 November 2025, 7.45pm · Friday 21 November 2025, 7.45pm · Saturday 22 November 2025, 2.15pm · Saturday 22 November 2025, 7.45pm<br>Duration: 1 hour (no interval).          
                        
 Location: <a href="https://homemcr.org/plan-your-visit-q15t" target="_blank">HOME</a> (Theatre 2), 2 Tony Wilson Place, Manchester M15 4FN.         
         
@@ -47,15 +47,15 @@ Features: a contemporary theatre/performance work with varied content including 
          
 Queries: please contact <a href="https://homemcr.org/access-information-1mrc" target="_blank">HOME</a> on 0161 200 1500 or <mailto:aaccess@homemcr.org>       
                   
-#### Artist        
+#### Artists        
 London-based artist Hetain Patel has shown films, paintings, sculptures, photographs, and performance work in galleries and theatres. Hetain’s work explores identity and freedom — blending choreography, text, and popular culture.         
          
 His performance work *Be Like Water* was [shown by Word of Warning](/archive/2013-spring/patel) and his 2013 TED talk *Who Am I? Think Again* has been viewed over 3 million times.            
          
 #### Credits         
-Creator & Performer: Hetain Patel<br>Rehearsal Director: Vidya Patel<br>Costume: Holly Waddington, Lee Yaroshevski, Malin Anderson<br>Creative Programmer: Clancy Flynn<br>Interviewees: Leela Patel, Nina Chaagan, Lola Perry, Mital Patel          
+Creators & Performers: Chloe & Josh<br>Director or? Dramaturg: Kate B<br>etc          
          
-Commissioned by Dance Umbrella. Made possible with the support of the Cockayne Foundation and FABRIC International.         
+Originally commissioned by Contact and hÅb; supported by hÅb, Manchester City Council, and using public funding by the National Lottery through Arts Council England.         
          
 Image: ???        
          
