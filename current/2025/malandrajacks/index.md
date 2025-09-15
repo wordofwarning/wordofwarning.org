@@ -12,12 +12,12 @@ header_image: "header_malandrajacks2.jpg"
 season: "Malandra Jacks 20–22|11|2025"
 
 # ABOUT THE SHOW - LAYOUT
-# artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
-# show_size: 2 # optional - size of show name 2-5. Default is 2. Set longer names to lower values
+# artist_size: 3 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
+# show_size: 1 # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/malandrajacks/#entry) · [access](/current/2025/malandrajacks/#access) · [artists](/current/2025/malandrajacks/#artists) · [credits](/current/2025/malandrajacks/#credits) · [websites](/current/2025/malandrajacks/#websites)</span>&ensp; <small>Updated 15 September 2025, 1.30pm</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/malandrajacks/#entry) · [access](/current/2025/malandrajacks/#access) · [artists](/current/2025/malandrajacks/#artists) · [reviews](/current/2025/malandrajacks/#reviews) · [credits](/current/2025/malandrajacks/#credits) · [websites](/current/2025/malandrajacks/#websites)</span>&ensp; <small>Updated 15 September 2025, 1.50pm</small>        
            
 *Presented by* Word of Warning + HOME         
          
@@ -58,6 +58,9 @@ Malandra Jacks are two artists making film, theatre, art installations, and shar
 Chloe Malandra is a multidisciplinary freelance artist, whose skills range from film production and theatre making to drama and arts facilitation for all ages and abilities. She has a genuine belief that the arts are for everyone and carries this ethos through all of her work.         
           
 Joshua Wilkinson is a Manchester-based performer, arts facilitator, and filmmaker. He produces short films with video production company, Modify. Josh regularly facilitates arts workshops across the UK, is a board member of Factory International and former board member of Contact.         
+         
+#### Reviews         
+>*Ambitious, exciting and gorgeous.* — <a href="https://ilovemanchester.com/census-theatre-project-north-manchester" target="_blank">I Love MCR</a><br>★★★★ A real delight in the inventiveness with which they upset the apple cart.* — <a href="https://www.northernsoul.me.uk/census-theatre-contact-manchester" target="_blank">Northern Soul</a><br>*Warm-hearted and thought-provoking, it was the sort of socially engaged theatre-making that we need more of and felt like a true labour of love* — <a href="https://circlesandstalls.com/2023/12/28/manchester-theatre-best-of-2023" target="_blank">Circles & Stalls</a><br>*The core of this production is about what strong community values mean and how they enhance and are the very backbone of what makes an area viable.* — <a href="https://liveartalive.com/2023/09/15/census" target="_blank">Live Art Alive</a>        
          
 #### Credits         
 Performers & Writers: Chloe Malandra & Joshua Wilkinson<br>Dramaturge: Kate Bradnam<br>Technical Consultant: Andrew Crofts<br>Composer: Greg Harper<br>Projection Visual Designer: David Hall<br>Set Designer: Faz Barber<br>Set Maker: Tom Mills<br>R&D Creative Practitioner: Julia Samuels<br>With thanks to Roxy Daykin-Moores.         
