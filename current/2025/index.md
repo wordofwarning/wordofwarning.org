@@ -8,7 +8,7 @@ artist_size: 1
 season: "Performance Programme 2025"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 11 September 2025, 6.50pm</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 15 September 2025, 1pm</small>        
          
 *Autumn begins with [Emergency 25](/current/2025-emergency)'s day out for the curious at Contact — continues with [Hetain Patel](/current/2025/patel)'s moving exploration of generational change at Lowry — and closes with a [Social Experiment](/socialexperiment) at Contact…*         
          
@@ -50,7 +50,7 @@ John Franklin-Johnston, hÅb's Programme Manager, is a freelance producer, event
          
 Peader Kirk, artist & mentor, supports [Works Ahead](/hab/worksahead) and other hÅb projects.         
          
-We're grateful for the ongoing support of hÅb projects during 2025 from a team of freelancers and volunteers that includes: Alison Darnbrough, Andrew Crofts, Annelise Edwards, Catherine Shaw, Jamil Keating, Martha Barr, Sam Stockdale, Tania Camara, Tricia Coleman, plus Theatre & Performance students from The Arden.         
+We're grateful for the ongoing support of hÅb projects during 2025 from a team of freelancers and volunteers that includes: Alison Darnbrough, Andrew Crofts, Annelise Edwards, Bronwyn Bull, Catherine Shaw, Ella Roberts, Jacob Lisle, Jamil Keating, Martha Barr, Sam Stockdale, Sophie Meakin, Tania Camara, Tricia Coleman, plus Theatre & Performance students from The Arden.         
          
 Thanks also to [hÅb](/hab)'s Advisory Board: Helen Palmer, Cathy Butterworth, Charles Rowley, Joseph Lau, Tania Camara, and Maya Chowdhry for [Divergency](/hab/divergencymcr).        
 <small><span style='font-variant: small-caps'>[back to top](/current/2025)</span></small>        
