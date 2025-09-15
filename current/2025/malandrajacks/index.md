@@ -17,26 +17,28 @@ season: "Malandra Jacks 20–22|11|2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/malandrajacks/#entry) · [access](/current/2025/malandrajacks/#access) · [artists](/current/2025/malandrajacks/#artists) · [credits](/current/2025/malandrajacks/#credits) · [websites](/current/2025/malandrajacks/#websites)</span>&ensp; <small>Updated 15 September 2025, 1100</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/malandrajacks/#entry) · [access](/current/2025/malandrajacks/#access) · [artists](/current/2025/malandrajacks/#artists) · [credits](/current/2025/malandrajacks/#credits) · [websites](/current/2025/malandrajacks/#websites)</span>&ensp; <small>Updated 15 September 2025, 1252</small>        
            
 *Presented by* Word of Warning + HOME         
          
 This is what happens when a working-class community tells its own story…        
          
-A bus ride. A bingo card. A memory you didn’t know you shared.         
+*A bus ride. A bingo card. A memory you didn't know you shared.*         
          
 *This is our neighbourhood, not the one in the media, but the one shaped by our stories, our laughter, and our silence.*         
          
-Award-winning duo Malandra Jacks invite you into a world of spellbinding projection, real voices, and unapologetic heart. Part theatre, part time capsule; a celebration of communities rarely seen on stage.         
+Award-winning duo Malandra Jacks invite you into a world of spellbinding projection, real voices, and unapologetic heart.<br>Part theatre, part time capsule: a celebration of communities rarely seen on stage.         
          
 Funny, intimate, and defiant — *Census* is a love letter to working-class communities, and a call to remember who we are and what we carry with us.         
           
 <iframe width="352" height="198" src="https://www.youtube.com/embed/Bk3eFhuNyxE?si=9-asdBXGDkzN1mhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>        
          
+Winner of best performance at the Manchester Culture Awards 2024.         
+         
 #### Entry          
 Tickets: care of HOME, book <a href="https://homemcr.org/whats-on/census-542n" target="_blank">online</a> or call 0161 200 1500        
          
-Times: Thursday&nbsp;20&nbsp;November&nbsp;2025,&nbsp;7.45pm&nbsp;· Friday&nbsp;21&nbsp;November&nbsp;2025,&nbsp;7.45pm&nbsp;· Saturday&nbsp;22&nbsp;November&nbsp;2025,&nbsp;2.15pm&nbsp;· Saturday&nbsp;22&nbsp;November&nbsp;2025,&nbsp;7.45pm.<br>Duration: 1 hour (no interval).          
+Times: Thursday&nbsp;20&nbsp;November&nbsp;2025,&nbsp;7.45pm&nbsp;· Friday&nbsp;21&nbsp;November&nbsp;2025,&nbsp;7.45pm&nbsp;· Saturday&nbsp;22&nbsp;November&nbsp;2025,&nbsp;2.15pm&nbsp;and&nbsp;7.45pm.<br>Duration: 1 hour (no interval).          
                        
 Location: <a href="https://homemcr.org/plan-your-visit-q15t" target="_blank">HOME</a> (Theatre 2), 2 Tony Wilson Place, Manchester M15 4FN.         
         
@@ -50,16 +52,20 @@ Features: a contemporary theatre/performance work with varied content including 
 Queries: please contact <a href="https://homemcr.org/access-information-1mrc" target="_blank">HOME</a> on 0161 200 1500 or <mailto:access@homemcr.org>       
                   
 #### Artists        
-London-based artist Hetain Patel has shown films, paintings, sculptures, photographs, and performance work in galleries and theatres. Hetain’s work explores identity and freedom — blending choreography, text, and popular culture.         
+Malandra Jacks are two artists making film, theatre, art installations, and sharing authentic stories. Importantly, their work offers a platform for communities who voices often go unheard and underrepresented…         
          
-His performance work *Be Like Water* was [shown by Word of Warning](/archive/2013-spring/patel) and his 2013 TED talk *Who Am I? Think Again* has been viewed over 3 million times.            
+Chloe Malandra is a multidisciplinary freelance artist, whose skills range from film production and theatre making to drama and arts facilitation for all ages and abilities. She has a genuine belief that the arts are for everyone and carries this ethos through all of her work.         
+          
+Josh Wilkinson is a Manchester-based performer, arts facilitator, and filmmaker. He produces short films with video production company, Modify. Josh regularly facilitates arts workshops across the UK, is a board member of Factory International, and former board member of Contact.         
+         
+KB?         
          
 #### Credits         
-Creators & Performers: Chloe Barlow & Joshua Wilkinson<br>Dramaturge: Kate Bradnam<br>etc          
+Creators & Performers: Chloe Malandra & Joshua Wilkinson<br>Dramaturge: Kate Bradnam<br>etc          
          
 Originally commissioned by Contact and hÅb; supported by hÅb, Manchester City Council, and using public funding by the National Lottery through Arts Council England.         
          
-Image: ???        
+Image: by ???        
          
 #### Websites        
 <a href="https://malandrajacks.com" target="_blank">malandrajacks.com</a> · Facebook <a href="https://facebook.com/MalandraJacks" target="_blank">/MalandraJacks</a> · Insta <a href="https://instagram.com/malandra_jacks" target="_blank">@malandra_jacks</a>         
