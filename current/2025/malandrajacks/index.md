@@ -7,7 +7,7 @@ rootpath: "../../../"
 artist: "Malandra Jacks" # the name of the artist or company
 show: "Census" # the name of the show
 artist_size: 3
-show_size: 2
+show_size: 1
 header_image: "header_malandrajacks2.jpg"
 season: "Malandra Jacks 20–22|11|2025"
 
@@ -17,7 +17,7 @@ season: "Malandra Jacks 20–22|11|2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/malandrajacks/#entry) · [access](/current/2025/malandrajacks/#access) · [artists](/current/2025/malandrajacks/#artists) · [credits](/current/2025/malandrajacks/#credits) · [websites](/current/2025/malandrajacks/#websites)</span>&ensp; <small>Updated 15 September 2025, 1309</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/malandrajacks/#entry) · [access](/current/2025/malandrajacks/#access) · [artists](/current/2025/malandrajacks/#artists) · [credits](/current/2025/malandrajacks/#credits) · [websites](/current/2025/malandrajacks/#websites)</span>&ensp; <small>Updated 15 September 2025, 1323</small>        
            
 *Presented by* Word of Warning + HOME         
          
@@ -37,7 +37,7 @@ Funny, intimate, and defiant — *Census* is a love letter to working-class comm
 #### Entry          
 Tickets: care of HOME, book <a href="https://homemcr.org/whats-on/census-542n" target="_blank">online</a> or call 0161 200 1500        
          
-Times: Thursday&nbsp;20&nbsp;November&nbsp;2025,&nbsp;7.45pm; &nbsp;Friday&nbsp;21&nbsp;November&nbsp;2025,&nbsp;7.45pm; &nbsp;Saturday&nbsp;22&nbsp;November&nbsp;2025,&nbsp;2.15pm&nbsp;and&nbsp;7.45pm.         
+Times: Thursday&nbsp;20&nbsp;November&nbsp;2025,&nbsp;7.45pm; &nbsp;Friday&nbsp;21&nbsp;November&nbsp;2025,&nbsp;7.45pm; &nbsp;Saturday&nbsp;22&nbsp;November&nbsp;2025,&nbsp;2.15pm and&nbsp;7.45pm.         
          
 Duration: 1 hour (no interval).          
          
@@ -48,7 +48,7 @@ Age Advisory: 12+ (parent/guardian/carer discretion).
          
 Content Warnings: will be listed [here](/warnings) in late September.         
         
-Features: a contemporary theatre/performance work with varied content including spoken English and projected video; occurs in Theatre 2 on the first, a studio space with raked seating.         
+Features: a contemporary performance work with varied content including spoken English and projected video; occurs in Theatre 2 on the first, a studio space with raked seating.         
          
 Queries: please contact <a href="https://homemcr.org/access-information-1mrc" target="_blank">HOME</a> on 0161 200 1500 or <mailto:access@homemcr.org>       
                   
@@ -57,12 +57,12 @@ Malandra Jacks are two artists making film, theatre, art installations, and shar
          
 Chloe Malandra is a multidisciplinary freelance artist, whose skills range from film production and theatre making to drama and arts facilitation for all ages and abilities. She has a genuine belief that the arts are for everyone and carries this ethos through all of her work.         
           
-Joshua Wilkinson is a Manchester-based performer, arts facilitator, and filmmaker. He produces short films with video production company, Modify. Josh regularly facilitates arts workshops across the UK, is a board member of Factory International, and a former board member of Contact.         
+Joshua Wilkinson is a Manchester-based performer, arts facilitator, and filmmaker. He produces short films with video production company, Modify. Josh regularly facilitates arts workshops across the UK, is a board member of Factory International and former board member of Contact.         
          
 KB?         
          
 #### Credits         
-Creators & Performers: Chloe Malandra & Joshua Wilkinson<br>Dramaturge: Kate Bradnam<br>etc          
+Performers & Writers: Chloe Malandra & Joshua Wilkinson<br>Dramaturge: Kate Bradnam<br>Technical Consultant: Andrew Crofts<br>Composer: Greg Harper<br>Projection Visual Designer: David Hall<br>Set Designer: Faz Barber<br>Set Maker: Tom Mills<br>R&D Creative Practitioner: Julia Samuels<br>With thanks to Roxy Daykin-Moores.         
          
 Originally commissioned by Contact and hÅb; supported by hÅb, Manchester City Council, and using public funding by the National Lottery through Arts Council England.         
          
