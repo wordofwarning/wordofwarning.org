@@ -21,20 +21,22 @@ season: "Malandra Jacks 20–22|11|2025"
            
 *Presented by* Word of Warning + HOME         
          
-Acclaimed visual artist and filmmaker Hetain Patel uses movement and audio interviews to explore generational change across his Brit-Gujarati family in *Mathroo Basha* (Mother Tongue in Gujarati).           
+This is what happens when a working-class community tells its own story…        
          
-Following the passing of a number of first-generation immigrants in his family, British-born Hetain reflects on what is lost and what is transformed — revisiting rituals rooted in his family's working-class Brit-Gujarati experience.         
+A bus ride. A bingo card. A memory you didn’t know you shared.         
+         
+*This is our neighbourhood, not the one in the media, but the one shaped by our stories, our laughter, and our silence.*         
+         
+Award-winning duo Malandra Jacks invite you into a world of spellbinding projection, real voices, and unapologetic heart. Part theatre, part time capsule; a celebration of communities rarely seen on stage.         
+         
+Funny, intimate, and defiant — *Census* is a love letter to working-class communities, and a call to remember who we are and what we carry with us.         
           
-Responding physically to audio interviews of women from his family — speaking in Gujarati about inheritance, loss, and the future — Hetain delves into the emotional realities of generational change through personal movement explorations, where his body becomes the conduit…   
-         
 <iframe width="352" height="198" src="https://www.youtube.com/embed/Bk3eFhuNyxE?si=9-asdBXGDkzN1mhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>        
          
 #### Entry          
-Pay What You Decide: £20/£15/£10/£5/£0 (advance booking recommended).        
+Tickets: care of HOME, book <a href="https://homemcr.org/whats-on/census-542n" target="_blank">online</a> or call 0161 200 1500        
          
-Tickets: available <a href="https://homemcr.org/whats-on/census-542n" target="_blank">online</a> or call HOME on 0161 200 1500        
-         
-Times: Thursday 20 November 2025, 7.45pm · Friday 21 November 2025, 7.45pm · Saturday 22 November 2025, 2.15pm · Saturday 22 November 2025, 7.45pm<br>Duration: 1 hour (no interval).          
+Times: Thursday&nbsp;20&nbsp;November&nbsp;2025,&nbsp;7.45pm&nbsp;· Friday&nbsp;21&nbsp;November&nbsp;2025,&nbsp;7.45pm&nbsp;· Saturday&nbsp;22&nbsp;November&nbsp;2025,&nbsp;2.15pm&nbsp;· Saturday&nbsp;22&nbsp;November&nbsp;2025,&nbsp;7.45pm.<br>Duration: 1 hour (no interval).          
                        
 Location: <a href="https://homemcr.org/plan-your-visit-q15t" target="_blank">HOME</a> (Theatre 2), 2 Tony Wilson Place, Manchester M15 4FN.         
         
@@ -43,9 +45,9 @@ Age Advisory: 12+ (parent/guardian/carer discretion).
          
 Content Warnings: will be listed [here](/warnings) in late September.         
         
-Features: a contemporary theatre/performance work with varied content including spoken English; occurs in Theatre 2 on the first, a studio space with raked seating.         
+Features: a contemporary theatre/performance work with varied content including spoken English and projected video; occurs in Theatre 2 on the first, a studio space with raked seating.         
          
-Queries: please contact <a href="https://homemcr.org/access-information-1mrc" target="_blank">HOME</a> on 0161 200 1500 or <mailto:aaccess@homemcr.org>       
+Queries: please contact <a href="https://homemcr.org/access-information-1mrc" target="_blank">HOME</a> on 0161 200 1500 or <mailto:access@homemcr.org>       
                   
 #### Artists        
 London-based artist Hetain Patel has shown films, paintings, sculptures, photographs, and performance work in galleries and theatres. Hetain’s work explores identity and freedom — blending choreography, text, and popular culture.         
@@ -53,13 +55,13 @@ London-based artist Hetain Patel has shown films, paintings, sculptures, photo
 His performance work *Be Like Water* was [shown by Word of Warning](/archive/2013-spring/patel) and his 2013 TED talk *Who Am I? Think Again* has been viewed over 3 million times.            
          
 #### Credits         
-Creators & Performers: Chloe & Josh<br>Director or? Dramaturg: Kate B<br>etc          
+Creators & Performers: Chloe Barlow & Joshua Wilkinson<br>Dramaturge: Kate Bradnam<br>etc          
          
 Originally commissioned by Contact and hÅb; supported by hÅb, Manchester City Council, and using public funding by the National Lottery through Arts Council England.         
          
 Image: ???        
          
 #### Websites        
-<a href="https://hetainpatel.com" target="_blank">hetainpatel.com</a> · Facebook <a href="https://facebook.com/hetainpatel" target="_blank">/hetainpatel</a> · Insta <a href="https://instagram.com/patelhetain" target="_blank">@patelhetain</a>         
+<a href="https://malandrajacks.com" target="_blank">malandrajacks.com</a> · Facebook <a href="https://facebook.com/MalandraJacks" target="_blank">/MalandraJacks</a> · Insta <a href="https://instagram.com/malandra_jacks" target="_blank">@malandra_jacks</a>         
          
-<small><span style='font-variant: small-caps'>[back to top](/current/2025/patel)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/current/2025/malandrajacks)</span></small>
