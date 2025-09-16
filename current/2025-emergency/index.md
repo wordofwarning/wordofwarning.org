@@ -17,7 +17,7 @@ season: "Emergency 27|9|2025, Noon-10pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [entry](/current/2025-emergency/#entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated 9 September 2025, 8.20pm</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [entry](/current/2025-emergency/#entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated 16 September 2025, 12.30pm</small>         
          
 *Presented by* Word of Warning *+* Contact        
         
@@ -40,7 +40,7 @@ Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Co
 #### Access         
 Age Advisory: mainly 16+, some work will be suitable only for 18+ (aimed at adults, parent/guardian/carer discretion).         
           
-Content Warnings: some works involve interaction and/or participation; specific warnings will be listed [here](/warnings) *about* a fortnight before.         
+Content Warnings: some works involve interaction and/or participation; specific warnings will are now listed [here](/warnings).         
           
 Features: twenty-three Live Art & contemporary performance works with varied content. Multiple spaces on the ground/first/second floors are in use, and works are varied in format — some roaming, some seated, some standing, some spoken word, some visual, some participatory.          
           
