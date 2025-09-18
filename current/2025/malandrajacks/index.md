@@ -65,7 +65,7 @@ Joshua Wilkinson is a Manchester-based performer, arts facilitator, and filmmake
 #### Credits         
 Performers & Writers: Chloe Malandra & Joshua Wilkinson<br>Dramaturge: Kate Bradnam<br>Technical Consultant: Andrew Crofts<br>Composer: Greg Harper<br>Projection Visual Designer: David Hall<br>Set Designer: Faz Barber<br>Set Maker: Tom Mills<br>R&D Creative Practitioners: Julia Samuels & Matt Fenton<br>With special thanks to Roxy Daykin-Moores.         
          
-Originally commissioned by Contact and hÅb; supported by hÅb, Manchester City Council, and using public funding by the National Lottery through Arts Council England.         
+Originally commissioned by Contact and hÅb; supported by hÅb, Manchester&nbsp;City&nbsp;Council, and using public funding by the National&nbsp;Lottery through Arts&nbsp;Council&nbsp;England.         
          
 #### Websites        
 <a href="https://malandrajacks.com" target="_blank">malandrajacks.com</a> · Facebook <a href="https://facebook.com/MalandraJacks" target="_blank">/MalandraJacks</a> · Insta <a href="https://instagram.com/malandra_jacks" target="_blank">@malandra_jacks</a>         
