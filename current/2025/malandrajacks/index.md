@@ -17,7 +17,7 @@ season: "Malandra Jacks 20–22|11|2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/malandrajacks/#entry) · [access](/current/2025/malandrajacks/#access) · [artists](/current/2025/malandrajacks/#artists) · [reviews](/current/2025/malandrajacks/#reviews) · [credits](/current/2025/malandrajacks/#credits) · [websites](/current/2025/malandrajacks/#websites)</span>&ensp; <small>Updated 15 September 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/malandrajacks/#entry) · [access](/current/2025/malandrajacks/#access) · [artists](/current/2025/malandrajacks/#artists) · [reviews](/current/2025/malandrajacks/#reviews) · [credits](/current/2025/malandrajacks/#credits) · [websites](/current/2025/malandrajacks/#websites)</span>&ensp; <small>Updated 18 September 2025</small>        
            
 *Presented by* Word of Warning + HOME         
          
@@ -46,7 +46,7 @@ Location: <a href="https://homemcr.org/plan-your-visit-q15t" target="_blank">HOM
 #### Access         
 Age Advisory: 12+ (parent/guardian/carer discretion).        
          
-Content Warnings: will be listed [here](/warnings) in late September.         
+Content Warnings: please click [here](/warnings).         
         
 Features: a contemporary performance work with varied content including spoken English and projected video; occurs in Theatre 2 on the first floor, a studio space with raked seating.         
          
@@ -63,7 +63,7 @@ Joshua Wilkinson is a Manchester-based performer, arts facilitator, and filmmake
 >*Ambitious, exciting and gorgeous.* — <a href="https://ilovemanchester.com/census-theatre-project-north-manchester" target="_blank">I Love MCR</a><br>★★★★ *Real delight in the inventiveness with which they upset the apple cart.* — <a href="https://www.northernsoul.me.uk/census-theatre-contact-manchester" target="_blank">Northern Soul</a><br>*Warm-hearted and thought-provoking, it was the sort of socially engaged theatre-making that we need more of and felt like a true labour of love.* — <a href="https://circlesandstalls.com/2023/12/28/manchester-theatre-best-of-2023" target="_blank">Circles & Stalls</a><br>*The core of this production is about what strong community values mean and how they enhance and are the very backbone of what makes an area viable.* — <a href="https://liveartalive.com/2023/09/15/census" target="_blank">Live Art Alive</a>        
          
 #### Credits         
-Performers & Writers: Chloe Malandra & Joshua Wilkinson<br>Dramaturge: Kate Bradnam<br>Technical Consultant: Andrew Crofts<br>Composer: Greg Harper<br>Projection Visual Designer: David Hall<br>Set Designer: Faz Barber<br>Set Maker: Tom Mills<br>R&D Creative Practitioner: Julia Samuels<br>With thanks to Roxy Daykin-Moores.         
+Performers & Writers: Chloe Malandra & Joshua Wilkinson<br>Dramaturge: Kate Bradnam<br>Technical Consultant: Andrew Crofts<br>Composer: Greg Harper<br>Projection Visual Designer: David Hall<br>Set Designer: Faz Barber<br>Set Maker: Tom Mills<br>R&D Creative Practitioners: Julia Samuels & Matt Fenton<br>With special thanks to Roxy Daykin-Moores.         
          
 Originally commissioned by Contact and hÅb; supported by hÅb, Manchester City Council, and using public funding by the National Lottery through Arts Council England.         
          
