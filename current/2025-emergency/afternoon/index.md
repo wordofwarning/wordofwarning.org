@@ -62,7 +62,7 @@ A funny, moving, and interactive experience based on Leon's lived experience of 
          
 Leon's arts work spans installation, performance, sound design, and socially curious projects. He has shown work across the UK and internationally, including SPILL Festival, Cafe Oto, Frieze Art Fair, Snape Maltings, SUPERNORMAL Festival, WORM Rotterdam, and has been commissioned by and selected for projects nationally and internationally.         
          
-<a href="https://www.leonclowes.com" target="_blank">www.leonclowes.com</a> · Insta <a href="https://instagram.com/leonclowes" target="_blank">@leonclowes</a> · X <a href="https://x.com/ClowesLeon" target="_blank">@ClowesLeon</a>         
+<a href="https://www.leonclowes.com" target="_blank">leonclowes.com</a> · Insta <a href="https://instagram.com/leonclowes" target="_blank">@leonclowes</a> · X <a href="https://x.com/ClowesLeon" target="_blank">@ClowesLeon</a>         
 <hr>         
 **Lisa Ford** · *Heirloom*         
          
@@ -82,50 +82,55 @@ Luke is a performance artist and theatre maker living and making work in Manches
 <hr>         
 **Miss Freda Wallace** · *Brutal Ephemeral*         
          
-*My mother was a seamstress, and my family were mill workers in some of the buildings around the north west that are now fancy apartments and retail units. I am interested in the complex yet delicate nature of history and how social determinants shape us. Being both brutal and ephemeral, delicate and jarring, the work hopes to reflect the evolution of women's work and how it became the engine of the industrial world and how we protest against it while being complicit in its mechanisms.         
+*My mother was a seamstress, and my family were mill workers in some of the buildings around the north west that are now fancy apartments and retail units. I am interested in the complex yet delicate nature of history and how social determinants shape us. Being both brutal and ephemeral, delicate and jarring, the work hopes to reflect the evolution of women's work and how it became the engine of the industrial world and how we protest against it while being complicit in its mechanisms.*         
          
 Freda is a visceral performance artist using machines, spoken word, noise, and body movement to create a jarring experience that is a sensory attack while remaining tender and sensitive in creating a description of the incongruity of living in a fragmented, insecure world.         
          
 <a href="https://www.fredamedia.net/Spokenword" target="_blank">fredamedia.net</a> · Insta <a href="https://instagram.com/miss.freda.wallace" target="_blank">@miss.freda.wallace</a>         
          
 <hr>         
-**Luca Federici** · *Specimen*
+**Luca Federici** · *Specimen*         
+         
+A durational performance exploring themes of power, surveillance, and bodily discipline. The performer enacts a cycle of endurance, involving cutting, piercing, and controlled suffocation — inviting the audience to witness the tensions between control and submission. Inspired by Michel Foucault's 'Discipline and Punish', *Specimen* uses mirrors to blur the line between watcher and watched, highlighting how power is internalised and enacted through the body.
 
-A durational performance exploring themes of power, surveillance, and bodily discipline. The performer enacts a cycle of endurance, involving cutting, piercing, and controlled suffocation, inviting the audience to witness the tensions between control and submission. Inspired by Michel Foucault's Discipline and Punish, Specimen uses mirrors to blur the line between watcher and watched, highlighting how power is internalised and enacted through the body.Luca Federici is a performance artist working at the intersection of BDSM and performance art. <a href="https://www.<a href="https://instagram.com/luca.federici/"" target="_blank">instagram.com/luca.federici/"</a> target="_blank">instagram.com/luca.federici/</a>CW: 18+. Contains nudity, graphic depictions of cutting, self-flagellation and piercing, use of an anal speculum and suffocation with cling film. These elements may be distressing to some viewers.
-
-Insta <a href="https://instagram.com/luca.federici" target="_blank">@luca.federici</a>
-<hr>
-**Madeleina Kay** · *The "Hate Dress"*
-
-A feminist garment and performative artwork made from real online abuse, making a visceral statement against online violence. The artist exposes the weight of digital misogyny and reclaims power through visibility by re-speaking the troll comments featured on the garment and responding to the abuse through expressive song. The repeated destruction and reconstruction of the dress, transforms hate into liberation in a ritual participatory performance, symbolising collective resistance to the policing of women's bodies and voices, whilst emphasising the cyclic nature of trauma and recovery. Madeleina Kay is an artist, activist and MA Fine Art graduate, Central Saint Martins. She was awarded a ‘Democracy Needs Imagination’ grant from the European Cultural Foundation, Young European of the Year and the European Charlemagne Youth Prize by the European Parliament. She has written, illustrated and self-published nine books and contributed writing to the German National Library’s House of Europe book. She has performed at events across Europe, including the National Justice Museum, Glastonbury Festival, the European Parliament and Stormont, NI Assembly.  <a href="https://www.madeleinakayart.com" target="_blank">www.madeleinakayart.com</a>CW: misogynistic content and mental health stigmatisation.
-
-Insta <a href="https://instagram.com/madeleina_kay" target="_blank">@madeleina_kay</a> · X <a href="https://x.com/MadeleinaKay" target="_blank">@MadeleinaKay</a> · Facebook <a href="https://www.facebook.com/MadeleinaKay/" target="_blank">https://www.facebook.com/MadeleinaKay/</a> · <a href="https://www.madeleinakayart.com/" target="_blank">madeleinakayart.com/</a>
-<hr>
-**Faye Yan** · *Lullaby*
-
-A performance of endurance, cultural memory, and the politics of obedience. By transforming the traditional Chinese gesture of 叩头 (kowtow, meaning to knock one’s head on the ground) into an act of action painting with the performer’s hair, this work turns a ritual of reverence into a visceral meditation on violence and the generational inheritance of pain. Developed in residence at Arteles Creative Center, FinlandFaye Yan is a performance and visual artist born in Beijing, lived in LA and London, and currently based in Manchester. Her work combines durational art with theatre and painting with dance, exploring endurance, femininity, heritage and rebellion by seeing the personal as political.       <a href="https://fayeyan.com" target="_blank">fayeyan.com</a>CW: references to violence and self-harm; manic behaviour
-
-Insta <a href="https://instagram.com/fayeyanart" target="_blank">@fayeyanart</a> · <a href="https://fayeyan.com" target="_blank">fayeyan.com</a>
-<hr>
-**The Paula Davy** · *One Night Stand*
-
-A celebration of the countless dysfunctional relationships that Paula The Slut has become entangled in throughout the course of her bizarre existence. Finally she has a chance to experience a relationship on her terms, safe in the knowledge that she has taken all possible precautions to protect herself from the harmful effects of dating.Paula Davy is a solo live artist from a background of political activism & protest. Influenced by personal histories, biography, her own feelings of displacement, and strained family relationships, her practice could be described as Live Art happenings. Most of her works are informed by a biographical trilogy — Paula The Slut, Paula The Disappointment, Paula The Depressive — each celebrating a negative aspect of her history.                                                                                          <a href="https://pauladavy.wordpress.com" target="_blank">pauladavy.wordpress.com</a>CW: Work makes reference to relationships/ marriage divorce/ relationship breakdown and may involve touching limited to holding hands.
-
-Insta <a href="https://instagram.com/N/A" target="_blank">@N/A</a> · Facebook <a href="https://www.facebook.com/paula.davy.161" target="_blank">https://www.facebook.com/paula.davy.161</a> · <a href="https://pauladavy.wordpress.com/" target="_blank">pauladavy.wordpress.com/</a>
-<hr>
-**Kris Canavan** · *Urolagnia*
-
-Black, cold and wet.The quiet embrace of the finality denied as life finds a way.To endure in the face of adversity - the only way out is through.  Dissident, unapologetic and vulnerable at your feet.Violent and tender, the contradictions are intentional.Kris Canavan was born in County Down, in the North of Ireland in 1980 and graduated from The University of The West of England (UWE), Bristol in 2004 and they have been presenting artwork at an international level since the early 2000's. They now live and work in Blackpool, Lancashire and define themselves as being the "BUMBOY" of Boris Johnsons nightmares.                                                                                                                                                                                            <a href="https://www.kris-canavan.com" target="_blank">www.kris-canavan.com</a> CW: Performance deals with mental health, attempted suicide and waterboarding/tortureThis work lasts up to 60 minutes, limited capacity, no latecomers, no readmission.
-
-Insta <a href="https://instagram.com/kristina_canavan_" target="_blank">@kristina_canavan_</a> · <a href="https://www.kris-canavan.com" target="_blank">kris-canavan.com</a>
-  
+**Content Warnings: suitable only for 18+; elements may be distressing, please consider them before viewing this work, click [here](/warnings)**.         
+         
+Luca is a performance artist working at the intersection of BDSM and performance art.         
+         
+Insta <a href="https://instagram.com/luca.federici" target="_blank">@luca.federici</a>         
 <hr>         
-**The Paula Davy** · *?*         
+**Madeleina Kay** · *The "Hate Dress"*         
          
-*On entering the water, resist the urge to swim until the cold(shock) has passed.*<br>You are invited to visit Paula The Disappointment at her traditional Ice Cream Cart and exchange your inner most hopes & fears for something more useful.         
+A feminist garment and performative artwork made from real online abuse, making a visceral statement against online violence. The artist exposes the weight of digital misogyny and reclaims power through visibility by re-speaking the troll comments featured on the garment and responding to the abuse through expressive song. The repeated destruction and reconstruction of the dress, transforms hate into liberation in a ritual participatory performance, symbolising collective resistance to the policing of women's bodies and voices, whilst emphasising the cyclic nature of trauma and recovery.         
          
-Paula Davy is a solo live artist from a background of political activism & protest. Influenced by personal histories, biography, her own feelings of displacement, and strained family relationships, her practice could be described as Live Art happenings. Most of her works are informed by a biographical trilogy — *Paula The Slut*, *Paula The Disappointment*, *Paula The Depressive* — each celebrating a negative aspect of her history.         
+Madeleina is an artist, activist, and MA Fine Art graduate (Central Saint Martins). She was awarded a 'Democracy Needs Imagination' grant from the European Cultural Foundation, Young European of the Year, and the European Charlemagne Youth Prize by the European Parliament. She has written, illustrated, and self-published nine books, and contributed writing to the German National Library's House of Europe book. She has performed at events across Europe, including the National Justice Museum, Glastonbury Festival, the European Parliament, and the Northern Ireland Assembly.         
+         
+<a href="https://www.madeleinakayart.com" target="_blank">madeleinakayart.com</a> · Insta <a href="https://instagram.com/madeleina_kay" target="_blank">@madeleina_kay</a> · X <a href="https://x.com/MadeleinaKay" target="_blank">@MadeleinaKay</a>         
+<hr>         
+**Faye Yan** · *Lullaby*         
+         
+A performance of endurance, cultural memory, and the politics of obedience. By transforming the traditional Chinese gesture of 叩头 (kowtow, meaning to knock one's head on the ground) into an act of action painting with the performer's hair, this work turns a ritual of reverence into a visceral meditation on violence and the generational inheritance of pain.         
+         
+Developed in residence at Arteles Creative Center, Finland.         
+         
+Faye Yan is a performance and visual artist born in Beijing, lived in LA and London, and currently based in Manchester. Her work combines durational art with theatre and painting with dance, exploring endurance, femininity, heritage, and rebellion by seeing the personal as political.         
+         
+<a href="https://fayeyan.com" target="_blank">fayeyan.com</a> · Insta <a href="https://instagram.com/fayeyanart" target="_blank">@fayeyanart</a>         
+<hr>         
+**The Paula Davy** · *One Night Stand*         
+         
+A celebration of the countless dysfunctional relationships that Paula The Slut has become entangled in throughout the course of her bizarre existence. Finally she has a chance to experience a relationship on her terms, safe in the knowledge that she has taken all possible precautions to protect herself from the harmful effects of dating.         
+         
+Paula is a solo live artist from a background of political activism & protest. Influenced by personal histories, biography, her own feelings of displacement, and strained family relationships, her practice could be described as Live Art happenings. Most of her works are informed by a biographical trilogy — *Paula The Slut*, *Paula The Disappointment*, *Paula The Depressive* — each celebrating a negative aspect of her history.         
          
 <a href="https://pauladavy.wordpress.com" target="_blank">pauladavy.wordpress.com</a>         
+<hr>         
+**Kris Canavan** · *Urolagnia*         
+         
+Black, cold, and wet. The quiet embrace of the finality denied as life finds a way. To endure in the face of adversity — the only way out is through. Dissident, unapologetic, and vulnerable at your feet. Violent and tender, the contradictions are intentional.         
+         
+Kris was born in County Down in the North of Ireland in 1980 and graduated from The University of The West of England (UWE) Bristol in 2004; they have been presenting artwork at an international level since the early 2000s. They now live and work in Blackpool and define themselves as being the 'BUMBOY' of Boris Johnson's nightmares.         
+         
+<a href="https://www.kris-canavan.com" target="_blank">kris-canavan.com</a> · Insta <a href="https://instagram.com/kristina_canavan_" target="_blank">@kristina_canavan_</a>         
 <hr>         
 <small><span style='font-variant: small-caps'>[back to top](/current/2025-emergency/afternoon)</span></small>
