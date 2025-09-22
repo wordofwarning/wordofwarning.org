@@ -122,17 +122,12 @@ Insta <a href="https://instagram.com/rach.elliot" target="_blank">@rach.elliot</
 <hr>         
 **Rosie Hart & Poppy Waxman** · *You shall not boil a kid in its mother's milk*         
          
-milk milk milk milk milk milk milk milk milk milk milk llaeth milk milk milk milk milk milk milk milkPERfecta twenty-minute sensual, silly, suspenseful, (mostly) silent soak — with milk.Rosie Hart is a Welsh artist, theatre-maker and writer who aims to strike the sweet spot between absurdism and realism in everything that she creates. Poppy Waxman is an innovative director, movement director and theatre-maker who creates dynamic, textured work which explores complex ideas with raw, humorous authenticity. CW: Partial nudity
-
-Insta <a href="https://instagram.com/rosiedavies1996/waxmanharrietpoppy" target="_blank">@rosiedavies1996/waxmanharrietpoppy</a>
-
+milk milk milk milk milk milk milk milk milk milk milk llaeth milk milk milk milk milk milk milk milk. PERfect. A twenty-minute sensual, silly, suspenseful, (mostly) silent soak — with milk.         
          
+Rosie is a Welsh artist, theatre-maker, and writer who aims to strike the sweet spot between absurdism and realism in everything that she creates.         
          
+Poppy is an innovative director, movement director, and theatre-maker who creates dynamic, textured work which explores complex ideas with raw, humorous authenticity.         
          
-Created & performed by Rosie Hart & Poppy Waxman.<br>*SLABS* made its international debut in BIFALD festival (Denmark) in 2023.           
-         
-         
-         
-Insta <a href="https://instagram.com/" target="_blank">@</a> & <a href="https://instagram.com/waxmanharrietpoppy" target="_blank">@waxmanharrietpoppy</a>         
+Insta <a href="https://instagram.com/rosiedavies1996" target="_blank">@rosiedavies1996</a> & <a href="https://instagram.com/waxmanharrietpoppy" target="_blank">@waxmanharrietpoppy</a>         
 <hr>          
 <small><span style='font-variant: small-caps'>[back to top](/current/2025-emergency/evening)</span></small>
