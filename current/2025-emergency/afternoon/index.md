@@ -113,7 +113,7 @@ A performance of endurance, cultural memory, and the politics of obedience. By t
          
 Developed in residence at Arteles Creative Center, Finland.         
          
-Faye Yan is a performance and visual artist born in Beijing, lived in LA and London, and currently based in Manchester. Her work combines durational art with theatre and painting with dance, exploring endurance, femininity, heritage, and rebellion by seeing the personal as political.         
+Faye is a performance and visual artist born in Beijing, has lived in LA and London, and is currently based in Manchester. Her work combines durational art with theatre and painting with dance, exploring endurance, femininity, heritage, and rebellion by seeing the personal as political.         
          
 <a href="https://fayeyan.com" target="_blank">fayeyan.com</a> · Insta <a href="https://instagram.com/fayeyanart" target="_blank">@fayeyanart</a>         
 <hr>         
@@ -121,7 +121,7 @@ Faye Yan is a performance and visual artist born in Beijing, lived in LA and Lon
          
 A celebration of the countless dysfunctional relationships that Paula The Slut has become entangled in throughout the course of her bizarre existence. Finally she has a chance to experience a relationship on her terms, safe in the knowledge that she has taken all possible precautions to protect herself from the harmful effects of dating.         
          
-Paula is a solo live artist from a background of political activism & protest. Influenced by personal histories, biography, her own feelings of displacement, and strained family relationships, her practice could be described as Live Art happenings. Most of her works are informed by a biographical trilogy — *Paula The Slut*, *Paula The Disappointment*, *Paula The Depressive* — each celebrating a negative aspect of her history.         
+Paula is a solo live artist from a background of political activism and protest. Influenced by personal histories, biography, her own feelings of displacement, and strained family relationships, her practice could be described as Live Art happenings. Most of her works are informed by a biographical trilogy — *Paula The Slut*, *Paula The Disappointment*, *Paula The Depressive* — each celebrating a negative aspect of her history.         
          
 <a href="https://pauladavy.wordpress.com" target="_blank">pauladavy.wordpress.com</a>         
 <hr>         
