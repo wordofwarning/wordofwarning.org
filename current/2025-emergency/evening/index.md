@@ -58,7 +58,7 @@ Insta <a href="https://instagram.com/kellie.colbert.theatre" target="_blank">@ke
 <hr>         
 **n:u (melissandre varin)** · *le monstre de mon papa*          
         
-With *le monstre de mon papa* the monstrous reproduction of violence that happens in supremacist systems is subtly brought into question. Here the white lilies, white cotton, blue tarpaulin, and the artist's body invite attention to passed down violence. It is about imperial, monarchal, and patriarchal intimacies and their offshoots. Flirting with their inner inherited monster, n:u (melissandre varin) morphs into the haunting figure, the ghost of their father — that they are.         
+With *le monstre de mon papa* the monstrous reproduction of violence that happens in supremacist systems is subtly brought into question. Here the white lilies, white cotton, blue tarpaulin, and the artist's body invite attention to passed down violence. It is about imperial, monarchal, and patriarchal intimacies and their offshoots. Flirting with their inner inherited monster, n:u morphs into the haunting figure, the ghost of their father — that they are.         
          
 n:u is an atmosphere-maker based in Birmingham. Working as an atmosphere-maker emerges from their Congolese sapeur heritage, and their practice as an environmental artist. They develop an ecologically care-full practice of receptivity, encounter, reciprocity, and transformation — creating performances, installations, sculptures, and liberatory infrastructures. Their practice invites different ways to be with change by blurring colonial lines between designers and participants, and making unexpected pairings between materials and concepts.         
          
@@ -66,48 +66,62 @@ n:u is an atmosphere-maker based in Birmingham. Working as an atmosphere-maker e
 <hr>         
 **Alexis Maxwell** · *The Space Between Us*         
          
-A live spoken word performance with animated visuals, exploring what it means to be human through a speculative, sci-fi lens. Blending poetry and digital storytelling, it centres on non-human figures — Androids, Machines and Aliens — as metaphors for marginalised identities; weaving together personal reflections and cultural narratives to touch on the ways we navigate belonging, otherness and the shifting borders of identity.         
+A live spoken word performance with animated visuals, exploring what it means to be human through a speculative, sci-fi lens. Blending poetry and digital storytelling, it centres on non-human figures — Androids, Machines and Aliens — as metaphors for marginalised identities; weaving together personal reflections and cultural narratives to touch on the ways we navigate belonging, otherness, and the shifting borders of identity.         
          
 Alexis is an interdisciplinary storyteller, self-taught animator, and long-time fan of all things spoken word. They adopt a socially involved approach to exploring their lived experiences; using a blend of sound, projection, and poetry to merge the digital and physical realms.         
          
 <a href="https://sway.cloud.microsoft/D11WAgF2nucQnVAE" target="_blank">sway.cloud.microsoft/D11WAgF2nucQnVAE</a> · Insta <a href="https://instagram.com/blacklivesstillmatterr" target="_blank">@blacklivesstillmatterr</a>         
 <hr>         
-**Tom Cassani** · *Oraculum*
-
-A divine announcement. A prophetic declaration. A reflective gathering. A reassembled mind reading act.Thanks to South House Faversham, Augusto Corrieri, Tim Bromage, Ocean Stefan, Thomas Wood, Lara Clifton, Screaming Alley and Nik Taylor.Tom Cassani is a UK based performance maker working with choreography, magic and live art. His performances draw on an expanded approach to magic examining the nature of deception and truth. Cassani's illusory texts, imagery and physicality reveal the mechanics of trickery ensuring we stay aware of our own role in experiencing something that is often not real.
-
-Insta <a href="https://instagram.com/tomcassani" target="_blank">@tomcassani</a>
-<hr>
-**Elana Binysh** · *I think it was a feeling*
-
-A performance experiment about self voyeurism, shame + sensation.  It’s also about pissing yourself: what it feels like when you can’t control it, and when you can. Elana will instruct you until you’re hyper aware of your body + bodies around you. You’ll be taught how to rub your fingers together, swallow + hide a wet patch.Set to a pulsing electronic soundtrack, I think it was a feeling is brash, noisy + tender. It asks you to let go of control—because maybe pissing yourself actually feels good. Lead Artist: Elana Binysh;  Sound Design: Naycha Somko;  Producer: Catherine Hoffmann; Support: Ged Boden Funded by Arts Council England  Elana Binysh is a live artist working across sound + performance. She creates sensory environments for audiences to give themselves over to + be swallowed up by. She likes to think about transgression, shame and grossness. <a href="https://www.elanabinysh.co.uk" target="_blank">www.elanabinysh.co.uk</a>CW: Mentions of medical trauma, bodily waste + kink practices
-
-Insta <a href="https://instagram.com/elanabinysh" target="_blank">@elanabinysh</a> · <a href="https://www.elanabinysh.co.uk" target="_blank">elanabinysh.co.uk</a>
-<hr>
-**** · *INTERVAL*
-
-
-<hr>
-**Mole Wetherell / UoS Performance** · *Am i right, am I wrong?*
-
-If all of your friends jumped off a cliff, would you jump too?In the beginning there was nothing. We copied, we divided, we multiplied and copied again until we ended up here.In our beginning there was a song, although from another time it made a different sense than what it did then, We listened to that same song over 100 times until it stopped making sense. A new performance project created by a group of UoS students collectively called Large Blue automobile together with Mole Wetherell. Mole is artistic director of Reckless Sleepers an international company that have presented theatre performances for over 30 years.                                                                                                                                                                <a href="https://www.reckless-sleepers.eu" target="_blank">www.reckless-sleepers.eu</a>
-
-Insta <a href="https://instagram.com/recklesssleepers" target="_blank">@recklesssleepers</a> · <a href="https://www.reckless-sleepers.eu" target="_blank">reckless-sleepers.eu</a>
-<hr>
-**nathan birkinshaw** · *no one asked for this*
-
-In a world of AI copies and IP rehashes. Nostalgia for a forgotten past and a copy and pasted blurb, Nathan Birkinshaw - artist, film maker, raconteur is now sober, domesticated and lives with two cats.Nathan Birkinshaw is a comedian, writer, and artist from Wakefield, West Yorkshire, known for a unique blend of humour and theatricality. With over fifteen years of making theatre, Nathan has created a few semi-successful shows such as the WorksAhead 2015 commission How I Lost The Will To Live (and why you should too). His works have toured nationally but now he spends most of his time making sandwiches and tending to his two cats.                                 <a href="https://www.nathanbirkinshaw.co.uk" target="_blank">www.nathanbirkinshaw.co.uk</a>CW: nudity. dead animal being strapped to a remote control car.
-
-Insta <a href="https://instagram.com/Nathanbirkinshaw" target="_blank">@Nathanbirkinshaw</a> · Facebook <a href="https://facebook.com/nathanbirkinshaw / Facebook.com/nathanbirkinshaw" target="_blank">https://facebook.com/nathanbirkinshaw / Facebook.com/nathanbirkinshaw</a> · <a href="https://www.nathanbirkinshaw.co.uk" target="_blank">nathanbirkinshaw.co.uk</a>
-<hr>
-**Rachael Gooch** · *Mother Nature*
-
-Compared with Mother Nature, we are insignificant. We are a single grain of sand on a vast beach. The world was turning before we were born and continues to turn long after we are dead. Mother Nature doesn't need us, but we need her. She generously sustains our existence but don't take for granted her brutality.Exploring motherhood, nature, and the strength, sacrifices and acts of servitude of women. How does the term Mother Nature reflect gender roles and societal expectations? How do our own life experiences shape our view on mothers? How do you know if you want to be a mother?Rachael Gooch is a North West based contemporary artist and theatre maker. She makes physical performances including solo and durational pieces and has performed at Word of Warning's Social Experiment. Her work explores human behaviour, voyeurism, parent/child dynamics, physical and vocal endurance, environment and natural cycles.CW: some flashes of light
-
-Insta <a href="https://instagram.com/rach.elliot" target="_blank">@rach.elliot</a> · Facebook <a href="https://facebook.com/Rachael Gooch" target="_blank">https://facebook.com/Rachael Gooch</a>
-<hr>
-**Rosie Hart & Poppy Waxman** · *You shall not boil a kid in its mother's milk*
-
+**Tom Cassani** · *Oraculum*         
+         
+A divine announcement. A prophetic declaration. A reflective gathering. A reassembled mind reading act.         
+         
+Thanks to South House Faversham, Augusto Corrieri, Tim Bromage, Ocean Stefan, Thomas Wood, Lara Clifton, Screaming Alley, and Nik Taylor.         
+         
+Tom is a UK-based performance maker working with choreography, magic, and live art. His performances draw on an expanded approach to magic examining the nature of deception and truth. Tom's illusory texts, imagery, and physicality reveal the mechanics of trickery — ensuring we stay aware of our own role in experiencing something that is often not real.         
+         
+Insta <a href="https://instagram.com/tomcassani" target="_blank">@tomcassani</a>         
+<hr>         
+**Elana Binysh** · *I think it was a feeling*         
+         
+A performance experiment about self voyeurism, shame, and sensation. It's also about pissing yourself: what it feels like when you can't control it, and when you can. Elana will instruct you until you're hyper aware of your body and bodies around you. You'll be taught how to rub your fingers together, swallow, and hide a wet patch. Set to a pulsing electronic soundtrack, *I think it was a feeling* is brash, noisy, and tender. It asks you to let go of control — because maybe pissing yourself actually feels good.         
+         
+Lead Artist: Elana Binysh · Sound Design: Naycha Somko · Producer: Catherine Hoffmann · Support: Ged Boden<br>Supported using public funding by Arts Council England.         
+         
+Elana is a live artist working across sound and performance. She creates sensory environments for audiences to give themselves over to and be swallowed up by. She likes to think about transgression, shame, and grossness.         
+         
+<a href="https://www.elanabinysh.co.uk" target="_blank">elanabinysh.co.uk</a> · Insta <a href="https://instagram.com/elanabinysh" target="_blank">@elanabinysh</a>         
+<hr>         
+**INTERVAL**         
+<hr>         
+**Mole Wetherell & UoS Performance** · *Am i right, am I wrong?*         
+         
+*If all of your friends jumped off a cliff, would you jump too? In the beginning there was nothing. We copied, we divided, we multiplied and copied again until we ended up here. In our beginning there was a song, although from another time it made a different sense than what it did then. We listened to that same song over 100 times until it stopped making sense.*         
+         
+A new performance project created by a group of UoS students collectively called Large Blue Automobile, together with Mole Wetherell.         
+         
+Mole is artistic director of Reckless Sleepers, an international company that has presented theatre performances for over 30 years.         
+         
+<a href="https://www.reckless-sleepers.eu" target="_blank">reckless-sleepers.eu</a> · Insta <a href="https://instagram.com/recklesssleepers" target="_blank">@recklesssleepers</a>         
+<hr>         
+**Nathan Birkinshaw** · *no one asked for this*         
+         
+In a world of AI copies and IP rehashes, nostalgia for a forgotten past, and a copy and pasted blurb, Nathan Birkinshaw — artist, film maker, raconteur — is now sober, domesticated, and lives with two cats.         
+         
+Nathan is a comedian, writer, and artist from Wakefield, known for a unique blend of humour and theatricality. With over fifteen years of making theatre, he has created a few semi-successful shows such as the Works Ahead 2015 commission [*How I Lost The Will To Live (& Why You Should Too)*](/archive/2015-worksahead/birkinshaw). His works have toured nationally but now he spends most of his time making sandwiches and tending to his two cats.         
+         
+<a href="https://www.nathanbirkinshaw.co.uk" target="_blank">nathanbirkinshaw.co.uk</a> · Insta <a href="https://instagram.com/nathanbirkinshaw" target="_blank">@nathanbirkinshaw</a>         
+<hr>         
+**Rachael Gooch** · *Mother Nature*         
+         
+Compared with Mother Nature, we are insignificant. We are a single grain of sand on a vast beach. The world was turning before we were born and continues to turn long after we are dead. Mother Nature doesn't need us, but we need her. She generously sustains our existence but don't take for granted her brutality. Exploring motherhood, nature, and the strength, sacrifices and acts of servitude of women. How does the term Mother Nature reflect gender roles and societal expectations? How do our own life experiences shape our view on mothers? How do you know if you want to be a mother?         
+         
+Rachael is a North West-based contemporary artist and theatre maker. She makes physical performances including solo and durational pieces, and has performed at Word of Warning's Social Experiment. Her work explores human behaviour, voyeurism, parent/child dynamics, physical and vocal endurance, environment, and natural cycles.         
+         
+Insta <a href="https://instagram.com/rach.elliot" target="_blank">@rach.elliot</a> · Facebook <a href="https://facebook.com/Rachael Gooch" target="_blank">/Rachael Gooch</a>         
+<hr>         
+**Rosie Hart & Poppy Waxman** · *You shall not boil a kid in its mother's milk*         
+         
 milk milk milk milk milk milk milk milk milk milk milk llaeth milk milk milk milk milk milk milk milkPERfecta twenty-minute sensual, silly, suspenseful, (mostly) silent soak — with milk.Rosie Hart is a Welsh artist, theatre-maker and writer who aims to strike the sweet spot between absurdism and realism in everything that she creates. Poppy Waxman is an innovative director, movement director and theatre-maker who creates dynamic, textured work which explores complex ideas with raw, humorous authenticity. CW: Partial nudity
 
 Insta <a href="https://instagram.com/rosiedavies1996/waxmanharrietpoppy" target="_blank">@rosiedavies1996/waxmanharrietpoppy</a>
