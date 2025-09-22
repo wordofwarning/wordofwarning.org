@@ -40,7 +40,7 @@ Dongting (b. 1999) is a London-based visual artist and multidisciplinary creator
           
 *…someone new can come in and take over*<br>In a society where progress is measured by productivity, where minutes are monetised, and our value amounts to our utility — what happens when we let the mind wander?<br>*Our show is set in an office, your bog-standard office — printers, filing cabinets and complimentary fruit bowls. It's not where we pictured we would be, when we were just little sprogs and the world was wide and weird and anything could and would (eventually) happen. As we toil our way through the working day, we're distracted by our childhood dreams and the futures we imagined for ourselves keep disrupting the present we never chose.*         
          
-Supported by ArtsDepot, Theatre Deli and London Performance Studios.         
+Supported by ArtsDepot, Theatre Deli, and London Performance Studios.         
          
 ClusterFlux is a London-based collective of international artists making slick multimedia theatre that responds to the now with a light touch, bright lights, and music you can move to.         
          
@@ -48,7 +48,7 @@ ClusterFlux is a London-based collective of international artists making slick m
 <hr>         
 **GOWD** · *Mass*         
         
-Raw and fully transparent, bare. Gagged, a multitude of tiny jaws biting my skin as 50 skin-fold calipers are used on my body, clinging on for dear life like leaches. The performance is a response to my own personal issues with my own body image, growing up queer in a sports environment and the inevitability of placing value on my worth as a person and as an artist.         
+*Raw and fully transparent, bare. Gagged, a multitude of tiny jaws biting my skin as 50 skin-fold calipers are used on my body, clinging on for dear life like leaches. The performance is a response to my own personal issues with my own body image, growing up queer in a sports environment and the inevitability of placing value on my worth as a person and as an artist.*         
          
 Created by BoNJ · Creative/Performance Collaborator: Riley Hamshaw-Mills · Producer: GOWD · Special thanks to Lexy Cooper.         
          
@@ -56,30 +56,39 @@ BoNJ (they/them) is an experimental performance artist and dual-citizen (Canada/
          
 Insta <a href="https://instagram.com/bonj.theatre" target="_blank">@bonj.theatre</a>         
 <hr>           
-**Leon Clowes** · *The Alcoholic's Tarot*
-
-A funny, moving and interactive experience based on leon clowes' lived experience of alcoholism. Each unique performance is shaped by one-to-one ‚’alcoholic misfortune tellings’ with audience members. The work challenges stigma, questions society's normalisation of drinking, and gently opens space for honest, humorous conversations about addiction. Whether you're affected personally, know someone who is, or think it doesn't touch your life (spoiler: it probably does), The Alcoholic's Tarot is a curious, compassionate invitation to look again. Leon Clowe's artswork spans installation, performance, sound design, and socially curious projects. He has shown work across the UK and internationally, including SPILL Festival, Cafe Oto, Frieze Art Fair, Snape Maltings, SUPERNORMAL Festival, and WORM Rotterdam and has been commissioned by and selected for projects nationally and internationally.  <a href="https://www.leonclowes.com" target="_blank">www.leonclowes.com</a>CW: The performance exchanges will touch on issues relating to addiction
-
-Insta <a href="https://instagram.com/leonclowes" target="_blank">@leonclowes</a> · X <a href="https://x.com/ClowesLeon" target="_blank">@ClowesLeon</a> · Facebook <a href="https://www.facebook.com/leon.clowes" target="_blank">https://www.facebook.com/leon.clowes</a> · <a href="https://leonclowes.com" target="_blank">leonclowes.com</a>
-<hr>
-**Lisa Ford** · *Heirloom*
-
-She takes thread, some yours, some hers, some found in streets and in libraries. Often the threads are words and images or conversations with people. She weaves these to create theatrical pieces, that wrap audiences in collective feeling. Heirloom is a piece for one performer and one audience member. The soundscape is made from stories of invisible work in women's lives. It is an invitation to sit, sew and share and to add your thread to the repair.Lisa Ford is a theatre director, performer, producer, maker, facilitator. Engaging communities, telling stories, connecting disparate ideas, to a shared creative goal. Working reactively, with multidisciplinary techniques, shaping work with found stimulus.
-
-Insta <a href="https://instagram.com/lisaf0rd" target="_blank">@lisaf0rd</a>
-<hr>
-**Luke McDonnell** · *Slow News Day*
-
-The 18th April 1930 the BBC News Broadcast script simply read "There is no news" and played piano music for 10 minutes. Hard to imagine that happening today, but if it did? What story would you write to fill the gap?Will you tell a feel good fluff piece, or a highly political rant, will you celebrate a local hero or simply tell a pack of lies?Join Luke McDonnell in this one-to-one performance to do exactly that. This a performance where the audience brings the story! You won't need to prepare anything beforehand, Luke will guide you through to discover what's important to you in the moment. Luke McDonnell is a performance artist and theatre maker living and making work in Manchester for almost 10 years. His work explores big issues through conversation and play. He has previously worked with Daniel Bye, Emma Geraghty, Jake Walton, Andy Smith and been commissioned by New Adelphi Theatre and The Dukes.                                                     <a href="https://lukemcdonnell.co.uk" target="_blank">lukemcdonnell.co.uk</a>
-
-Insta <a href="https://instagram.com/Luke__McDonnell" target="_blank">@Luke__McDonnell</a> · <a href="https://lukemcdonnell.co.uk" target="_blank">lukemcdonnell.co.uk</a>
-<hr>
-**Miss Freda Wallace** · *Brutal Ephemeral*
-
-My mother was a seamstress, and my family were mill workers in some of the buildings around the north west that are now fancy apartments and retail units. I am interested in the complex yet delicate nature of history and how social determinants shape us.  Being both brutal and ephemeral, delicate and jarring, the work hopes to reflect the evolution of women's work and how it became the engine of the industrial world and how we protest against it while being complicit in its mechanisms.Freda Wallace is a visceral performance artist using machines, spoken word, noise and body movement to create a jarring experience that is a sensory attack while remaining tender and sensitive in creating a description of the incongruity of living in a fragmented, insecure world.                                                                                                                      <a href="https://www.fredamedia.net/Spokenword" target="_blank">www.fredamedia.net/Spokenword</a>CW: Loud noise (earplugs provided)
-
-<a href="https://www.fredamedia.net/Spokenword/" target="_blank">fredamedia.net/Spokenword/</a>
-<hr>
+**Leon Clowes** · *The Alcoholic's Tarot*         
+         
+A funny, moving, and interactive experience based on Leon's lived experience of alcoholism. Each unique performance is shaped by one-to-one, 'alcoholic misfortune tellings' with audience members. The work challenges stigma, questions society's normalisation of drinking, and gently opens space for honest, humorous conversations about addiction. Whether you're affected personally, know someone who is, or think it doesn't touch your life (spoiler: it probably does) — *The Alcoholic's Tarot* is a curious, compassionate invitation to look again.         
+         
+Leon's arts work spans installation, performance, sound design, and socially curious projects. He has shown work across the UK and internationally, including SPILL Festival, Cafe Oto, Frieze Art Fair, Snape Maltings, SUPERNORMAL Festival, WORM Rotterdam, and has been commissioned by and selected for projects nationally and internationally.         
+         
+<a href="https://www.leonclowes.com" target="_blank">www.leonclowes.com</a> · Insta <a href="https://instagram.com/leonclowes" target="_blank">@leonclowes</a> · X <a href="https://x.com/ClowesLeon" target="_blank">@ClowesLeon</a>         
+<hr>         
+**Lisa Ford** · *Heirloom*         
+         
+*She takes thread, some yours, some hers, some found in streets and in libraries. Often the threads are words and images or conversations with people. She weaves these to create theatrical pieces, that wrap audiences in collective feeling.*<br>*Heirloom* is a piece for one performer and one audience member. The soundscape is made from stories of invisible work in women's lives. It is an invitation to sit, sew, and share — and to add your thread to the repair.         
+         
+Lisa is a theatre director, performer, producer, maker, facilitator. Engaging communities, telling stories, connecting disparate ideas, to a shared creative goal. Working reactively, with multidisciplinary techniques, shaping work with found stimulus.         
+         
+Insta <a href="https://instagram.com/lisaf0rd" target="_blank">@lisaf0rd</a>         
+<hr>         
+**Luke McDonnell** · *Slow News Day*         
+         
+On 18th April 1930, the BBC News Broadcast script simply read 'There is no news' and played piano music for 10 minutes. Hard to imagine that happening today, but if it did? What story would you write to fill the gap? Will you tell a feel good fluff piece or a highly political rant, will you celebrate a local hero or simply tell a pack of lies? Join Luke in this one-to-one performance to do exactly that. This a performance where the audience brings the story! You won't need to prepare anything beforehand, Luke will guide you through to discover what's important to you in the moment.         
+         
+Luke is a performance artist and theatre maker living and making work in Manchester for almost 10 years. His work explores big issues through conversation and play. He has previously worked with Daniel Bye, Emma Geraghty, Jake Walton, Andy Smith, and been commissioned by New Adelphi Theatre and The Dukes.         
+         
+<a href="https://lukemcdonnell.co.uk" target="_blank">lukemcdonnell.co.uk</a> · Insta <a href="https://instagram.com/Luke__McDonnell" target="_blank">@Luke__McDonnell</a>         
+<hr>         
+**Miss Freda Wallace** · *Brutal Ephemeral*         
+         
+*My mother was a seamstress, and my family were mill workers in some of the buildings around the north west that are now fancy apartments and retail units. I am interested in the complex yet delicate nature of history and how social determinants shape us. Being both brutal and ephemeral, delicate and jarring, the work hopes to reflect the evolution of women's work and how it became the engine of the industrial world and how we protest against it while being complicit in its mechanisms.         
+         
+Freda is a visceral performance artist using machines, spoken word, noise, and body movement to create a jarring experience that is a sensory attack while remaining tender and sensitive in creating a description of the incongruity of living in a fragmented, insecure world.         
+         
+<a href="https://www.fredamedia.net/Spokenword" target="_blank">fredamedia.net</a> · Insta <a href="https://instagram.com/miss.freda.wallace" target="_blank">@miss.freda.wallace</a>         
+         
+<hr>         
 **Luca Federici** · *Specimen*
 
 A durational performance exploring themes of power, surveillance, and bodily discipline. The performer enacts a cycle of endurance, involving cutting, piercing, and controlled suffocation, inviting the audience to witness the tensions between control and submission. Inspired by Michel Foucault's Discipline and Punish, Specimen uses mirrors to blur the line between watcher and watched, highlighting how power is internalised and enacted through the body.Luca Federici is a performance artist working at the intersection of BDSM and performance art. <a href="https://www.<a href="https://instagram.com/luca.federici/"" target="_blank">instagram.com/luca.federici/"</a> target="_blank">instagram.com/luca.federici/</a>CW: 18+. Contains nudity, graphic depictions of cutting, self-flagellation and piercing, use of an anal speculum and suffocation with cling film. These elements may be distressing to some viewers.
