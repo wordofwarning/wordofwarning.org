@@ -23,7 +23,7 @@ season: "Emergency 27|9|2025, Evening Programme"
          
 [Emergency 25](/current/2025-emergency) is a day out for the curious at <a href="https://contactmcr.com/events/emergency-25" target="_blank">Contact</a> on Saturday 27 September. Read Evening Programme Notes below and see some of our [artists' images](/galleries/2025-emergencypre).         
          
-Content Warnings: please click [here]().         
+Content Warnings: please click [here](/warnings).         
         
 <hr>         
 **Action Hero** · *A Western*         
@@ -50,18 +50,21 @@ Please note: raw meat is used during the performance; out of respect for the ani
          
 A playful exploration of life's messy, unplanned moments and milestones through the lens of a party gone awry. Two performers invite the audience into a fun but awkward celebration filled with confetti and confessions. Blending humour and vulnerability, this piece captures the experience of navigating unexpected loss, unmet expectations, and quiet resilience. Through play, partying, and friendship it celebrates survival over perfection, offering a bittersweet reflection on what it means to keep showing up when life doesn't go to plan.         
        
-Kellie is a Greater Manchester-based performance maker. She would describe herself as an autobiographical artist, who creates work that is honest, relatable, and at times self-critical. She has collaborated with Eggs Collective, and has been commissioned by NIAMOS, Breakdown Bolton, Factory International, and most recently on her hÅb-commissioned solo: [*Dedicated To The One I Love*](/current/2025/colbert) which debuted at Contact in March.<br>Deborah is the programme leader for BA (Hons) Theatre and Performance at The Arden School of Theatre. She is also a performance practitioner and facilitator specialising in contemporary performance with a strong commitment to making the arts accessible to all. Her work is often autobiographical, exploring themes of relationships, identity, and mental health.         
+Kellie is a Greater Manchester-based performance maker. She would describe herself as an autobiographical artist, who creates work that is honest, relatable, and at times self-critical. She has collaborated with Eggs Collective, and has been commissioned by NIAMOS, Breakdown Bolton, Factory International, and most recently on her hÅb-commissioned solo: [*Dedicated To The One I Love*](/current/2025/colbert) which debuted at Contact in March.         
+         
+Deborah is the programme leader for BA (Hons) Theatre and Performance at The Arden School of Theatre. She is also a performance practitioner and facilitator specialising in contemporary performance with a strong commitment to making the arts accessible to all. Her work is often autobiographical, exploring themes of relationships, identity, and mental health.         
          
 Insta <a href="https://instagram.com/kellie.colbert.theatre" target="_blank">@kellie.colbert.theatre</a> & <a href="https://instagram.com/deborahnewtonartist" target="_blank">@deborahnewtonartist</a>
 <hr>         
-**n:u (melissandre varin)** · *le monstre de mon papa*
-
-With le monstre de mon papa the monstrous reproduction of violence that happens in supremacist systems is subtly brought into question. Here the white lilies, white cotton, blue tarpaulin, and the artist's body invite attention to passed down violence.It is about imperial, monarchal, and patriarchal intimacies and their offshoots. Flirting with their inner inherited monster n:u (melissandre varin) morphs into the haunting figure, the ghost of their father - that they are.n:u (melissandre varin) is an atmosphere-maker based in Birmingham, UK. Working as an atmosphere-maker emerges from their Congolese sapeur heritage, and their practice as an environmental artist. They develop an ecologically care-full practice of receptivity, encounter, reciprocity and transformation, creating performances, installations, sculptures and liberatory infrastructures. Their practice invites different ways to be with change by blurring colonial lines between designers and participants and making unexpected pairings between materials and concepts.                     <a href="https://www.atmosphere-maker.org/about" target="_blank">www.atmosphere-maker.org/about</a>CW: ingestion of material, and repetitive movement
-
-Insta <a href="https://instagram.com/nu.melissandre.varin" target="_blank">@nu.melissandre.varin</a> · <a href="https://www.atmosphere-maker.org/" target="_blank">atmosphere-maker.org/</a>
-<hr>
-**Alexis Maxwell** · *The Space Between Us*
-
+**n:u (melissandre varin)** · *le monstre de mon papa*          
+        
+With *le monstre de mon papa* the monstrous reproduction of violence that happens in supremacist systems is subtly brought into question. Here the white lilies, white cotton, blue tarpaulin, and the artist's body invite attention to passed down violence. It is about imperial, monarchal, and patriarchal intimacies and their offshoots. Flirting with their inner inherited monster, n:u (melissandre varin) morphs into the haunting figure, the ghost of their father — that they are.         
+         
+n:u is an atmosphere-maker based in Birmingham. Working as an atmosphere-maker emerges from their Congolese sapeur heritage, and their practice as an environmental artist. They develop an ecologically care-full practice of receptivity, encounter, reciprocity, and transformation — creating performances, installations, sculptures, and liberatory infrastructures. Their practice invites different ways to be with change by blurring colonial lines between designers and participants, and making unexpected pairings between materials and concepts.         
+         
+<a href="https://www.atmosphere-maker.org" target="_blank">atmosphere-maker.org</a> · Insta <a href="https://instagram.com/nu.melissandre.varin" target="_blank">@nu.melissandre.varin</a>         
+**Alexis Maxwell** · *The Space Between Us*         
+         
 A live spoken word performance with animated visuals, exploring what it means to be human through a speculative, sci-fi lens. Blending poetry and digital storytelling, it centres on non-human figures - Androids, Machines and Aliens - as metaphors for marginalised identities; weaving together personal reflections and cultural narratives to touch on the ways we navigate belonging, otherness and the shifting borders of identity.Alexis Maxwell is an interdisciplinary storyteller, self-taught animator and long-time fan of all things spoken word. They adopt a socially involved approach to exploring their lived experiences; using a blend of sound, projection and poetry to merge the digital and physical realms.                                                                                               <a href="https://sway.cloud.microsoft/D11WAgF2nucQnVAE" target="_blank">sway.cloud.microsoft/D11WAgF2nucQnVAE</a>
 
 Insta <a href="https://instagram.com/blacklivesstillmatterr" target="_blank">@blacklivesstillmatterr</a> · <a href="https://sway.cloud.microsoft/D11WAgF2nucQnVAE" target="_blank">sway.cloud.microsoft/D11WAgF2nucQnVAE</a>
