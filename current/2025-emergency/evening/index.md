@@ -63,12 +63,15 @@ With *le monstre de mon papa* the monstrous reproduction of violence that happen
 n:u is an atmosphere-maker based in Birmingham. Working as an atmosphere-maker emerges from their Congolese sapeur heritage, and their practice as an environmental artist. They develop an ecologically care-full practice of receptivity, encounter, reciprocity, and transformation — creating performances, installations, sculptures, and liberatory infrastructures. Their practice invites different ways to be with change by blurring colonial lines between designers and participants, and making unexpected pairings between materials and concepts.         
          
 <a href="https://www.atmosphere-maker.org" target="_blank">atmosphere-maker.org</a> · Insta <a href="https://instagram.com/nu.melissandre.varin" target="_blank">@nu.melissandre.varin</a>         
+<hr>         
 **Alexis Maxwell** · *The Space Between Us*         
          
-A live spoken word performance with animated visuals, exploring what it means to be human through a speculative, sci-fi lens. Blending poetry and digital storytelling, it centres on non-human figures - Androids, Machines and Aliens - as metaphors for marginalised identities; weaving together personal reflections and cultural narratives to touch on the ways we navigate belonging, otherness and the shifting borders of identity.Alexis Maxwell is an interdisciplinary storyteller, self-taught animator and long-time fan of all things spoken word. They adopt a socially involved approach to exploring their lived experiences; using a blend of sound, projection and poetry to merge the digital and physical realms.                                                                                               <a href="https://sway.cloud.microsoft/D11WAgF2nucQnVAE" target="_blank">sway.cloud.microsoft/D11WAgF2nucQnVAE</a>
-
-Insta <a href="https://instagram.com/blacklivesstillmatterr" target="_blank">@blacklivesstillmatterr</a> · <a href="https://sway.cloud.microsoft/D11WAgF2nucQnVAE" target="_blank">sway.cloud.microsoft/D11WAgF2nucQnVAE</a>
-<hr>
+A live spoken word performance with animated visuals, exploring what it means to be human through a speculative, sci-fi lens. Blending poetry and digital storytelling, it centres on non-human figures — Androids, Machines and Aliens — as metaphors for marginalised identities; weaving together personal reflections and cultural narratives to touch on the ways we navigate belonging, otherness and the shifting borders of identity.         
+         
+Alexis is an interdisciplinary storyteller, self-taught animator, and long-time fan of all things spoken word. They adopt a socially involved approach to exploring their lived experiences; using a blend of sound, projection, and poetry to merge the digital and physical realms.         
+         
+<a href="https://sway.cloud.microsoft/D11WAgF2nucQnVAE" target="_blank">sway.cloud.microsoft/D11WAgF2nucQnVAE</a> · Insta <a href="https://instagram.com/blacklivesstillmatterr" target="_blank">@blacklivesstillmatterr</a>         
+<hr>         
 **Tom Cassani** · *Oraculum*
 
 A divine announcement. A prophetic declaration. A reflective gathering. A reassembled mind reading act.Thanks to South House Faversham, Augusto Corrieri, Tim Bromage, Ocean Stefan, Thomas Wood, Lara Clifton, Screaming Alley and Nik Taylor.Tom Cassani is a UK based performance maker working with choreography, magic and live art. His performances draw on an expanded approach to magic examining the nature of deception and truth. Cassani's illusory texts, imagery and physicality reveal the mechanics of trickery ensuring we stay aware of our own role in experiencing something that is often not real.
