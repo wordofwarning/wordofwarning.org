@@ -38,7 +38,7 @@ Gemma Paintin & James Stenhouse work under the moniker Action Hero. Together, th
          
 A surreal journey into the underworld with drag king, anti-hero, and torch singer Burt Turdgirth, and his dog guides. Burt confronts his deepest fears and exposes his inner emotional life as an act of public service. His broken heart is the antidote to toxic masculinity. His mediocrity is your mediocrity; his shame is your shame. And you guessed it, his midlife crisis belongs to you. Please enjoy!         
          
-*Whisper to Black* by Richard DeDomenici. Guest starring Martin Shead & Myshak Salansky.         
+*Whisper to Black* by Richard DeDomenici. Guest starring Martin Shead & William Lang, originally devised with Myshak Salansky.         
          
 Burt is a torch singer and an epic fantasist. A Liverpool local phenomena, Burt has been seen at the Everyman Bistro, Quarry, Unity Theatre, on the runway at House of Suarez, at a kundalini retreat in Stolzenhagen (Germany), and a wedding in Rostanga (Sweden).         
          
