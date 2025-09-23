@@ -17,7 +17,7 @@ season: "Emergency 27|9|2025, Evening Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [afternoon](/current/2025-emergency/afternoon) · [evening](/current/2025-emergency/evening) · [entry](/current/2025-emergency/#entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated&nbsp;22&nbsp;September&nbsp;2025</small>                  
+<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [afternoon](/current/2025-emergency/afternoon) · [evening](/current/2025-emergency/evening) · [entry](/current/2025-emergency/#entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated&nbsp;23&nbsp;September&nbsp;2025</small>                  
          
 *Presented by* Word of Warning *+* Contact         
          
@@ -58,7 +58,7 @@ Insta <a href="https://instagram.com/kellie.colbert.theatre" target="_blank">@ke
 <hr>         
 **n:u (melissandre varin)** · *le monstre de mon papa*          
         
-With *le monstre de mon papa* the monstrous reproduction of violence that happens in supremacist systems is subtly brought into question. Here the white lilies, white cotton, blue tarpaulin, and the artist's body invite attention to passed down violence. It is about imperial, monarchal, and patriarchal intimacies and their offshoots. Flirting with their inner inherited monster, n:u morphs into the haunting figure, the ghost of their father — that they are.         
+With *le monstre de mon papa* the monstrous reproduction of violence that happens in supremacist systems is subtly brought into question. Here white lilies, milk, images, and the artist's body invite attention to passed down violence. It is about imperial, monarchal, and patriarchal intimacies and their offshoots. Flirting with their inner inherited monster, n:u morphs into the haunting figure, the ghost of their father — that they are.         
          
 n:u is an atmosphere-maker based in Birmingham. Working as an atmosphere-maker emerges from their Congolese sapeur heritage, and their practice as an environmental artist. They develop an ecologically care-full practice of receptivity, encounter, reciprocity, and transformation — creating performances, installations, sculptures, and liberatory infrastructures. Their practice invites different ways to be with change by blurring colonial lines between designers and participants, and making unexpected pairings between materials and concepts.         
          
