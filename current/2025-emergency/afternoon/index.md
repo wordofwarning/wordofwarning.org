@@ -17,7 +17,7 @@ season: "Emergency 27|9|2025, Afternoon Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [afternoon](/current/2025-emergency/afternoon) · [evening](/current/2025-emergency/evening) · [entry](/current/2025-emergency/#entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated&nbsp;22&nbsp;September&nbsp;2025</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [afternoon](/current/2025-emergency/afternoon) · [evening](/current/2025-emergency/evening) · [entry](/current/2025-emergency/#entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated&nbsp;24&nbsp;September&nbsp;2025</small>         
          
 *Presented by* Word of Warning *+* Contact         
          
@@ -66,7 +66,7 @@ Leon's arts work spans installation, performance, sound design, and socially cur
 <hr>         
 **Lisa Ford** · *Heirloom*         
          
-*She takes thread, some yours, some hers, some found in streets and in libraries. Often the threads are words and images or conversations with people. She weaves these to create theatrical pieces, that wrap audiences in collective feeling.*<br>*Heirloom* is a piece for one performer and one audience member. The soundscape is made from stories of invisible work in women's lives. It is an invitation to sit, sew, and share — and to add your thread to the repair.         
+She takes thread, some yours, some hers, some found in streets and in libraries. Often the threads are words and images or conversations with people. She weaves these to create theatrical pieces, that wrap audiences in collective feeling.<br>*Heirloom* is a piece for one performer and one audience member. The soundscape is made from stories of invisible work in women's lives. It is an invitation to sit, sew, and share — and to add your thread to the repair.         
          
 Lisa is a theatre director, performer, producer, maker, facilitator. Engaging communities, telling stories, connecting disparate ideas, to a shared creative goal. Working reactively, with multidisciplinary techniques, shaping work with found stimulus.         
          
@@ -128,6 +128,8 @@ Paula is a solo live artist from a background of political activism and protest.
 **Kris Canavan** · *Urolagnia*         
          
 Black, cold, and wet. The quiet embrace of the finality denied as life finds a way. To endure in the face of adversity — the only way out is through. Dissident, unapologetic, and vulnerable at your feet. Violent and tender, the contradictions are intentional.         
+         
+*NB* this work lasts up to 60 minutes, limited capacity, no latecomers, no readmission.         
          
 Kris was born in County Down in the North of Ireland in 1980 and graduated from The University of The West of England (UWE) Bristol in 2004; they have been presenting artwork at an international level since the early 2000s. They now live and work in Blackpool and define themselves as being the 'BUMBOY' of Boris Johnson's nightmares.         
          
