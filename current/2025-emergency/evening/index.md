@@ -17,7 +17,7 @@ season: "Emergency 27|9|2025, Evening Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [afternoon](/current/2025-emergency/afternoon) · [evening](/current/2025-emergency/evening) · [entry](/current/2025-emergency/#entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated&nbsp;24&nbsp;September&nbsp;2025</small>                  
+<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [afternoon](/current/2025-emergency/afternoon) · [evening](/current/2025-emergency/evening) · [entry](/current/2025-emergency/#entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated&nbsp;26&nbsp;September&nbsp;2025</small>                  
          
 *Presented by* Word of Warning *+* Contact         
          
@@ -64,13 +64,11 @@ n:u is an atmosphere-maker based in Birmingham. Working as an atmosphere-maker e
          
 <a href="https://www.atmosphere-maker.org" target="_blank">atmosphere-maker.org</a> · Insta <a href="https://instagram.com/nu.melissandre.varin" target="_blank">@nu.melissandre.varin</a>         
 <hr>         
-**Alexis Maxwell** · *The Space Between Us*         
+**NEW INTERVAL**         
          
-A live spoken word performance with animated visuals, exploring what it means to be human through a speculative, sci-fi lens. Blending poetry and digital storytelling, it centres on non-human figures — Androids, Machines and Aliens — as metaphors for marginalised identities; weaving together personal reflections and cultural narratives to touch on the ways we navigate belonging, otherness, and the shifting borders of identity.         
-         
-Alexis is an interdisciplinary storyteller, self-taught animator, and long-time fan of all things spoken word. They adopt a socially involved approach to exploring their lived experiences; using a blend of sound, projection, and poetry to merge the digital and physical realms.         
-         
-<a href="https://sway.cloud.microsoft/D11WAgF2nucQnVAE" target="_blank">sway.cloud.microsoft/D11WAgF2nucQnVAE</a> · Insta <a href="https://instagram.com/blacklivesstillmatterr" target="_blank">@blacklivesstillmatterr</a>         
+*Unfortunately Alexis Maxwell is unable to perform due to injury·*         
+        
+<a href="https://sway.cloud.microsoft/D11WAgF2nucQnVAE" target="_blank">Alexis Maxwell website</a> · Insta <a href="https://instagram.com/blacklivesstillmatterr" target="_blank">@blacklivesstillmatterr</a>         
 <hr>         
 **Tom Cassani** · *Oraculum*         
          
