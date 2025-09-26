@@ -16,11 +16,11 @@ season: "Emergency by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 8 September 2025, 4pm</small>        
+<small>Updated 26 September 2025</small>        
         
 **Emergency** is our annual open call platform for Live Art and contemporary performance — offering a sneak preview of new live work over a single day in Manchester every autumn and now resident at <a href="https://contactmcr.com" target="_blank">Contact</a>, its seventh home.        
          
-Manchester's [25th micro-marathon of the bizarre, the bold, and the beautiful](/current/2025-emergency) takes over <a href="https://contactmcr.com/events/emergency-25" target="_blank">Contact</a> on **Saturday 27 September 2025 from Noon to 10pm** — presenting twenty-three works throughout the building. Look at some of [our artists’ images](/galleries/2025-emergencypre).         
+Manchester's [25th micro-marathon of the bizarre, the bold, and the beautiful](/current/2025-emergency) takes over <a href="https://contactmcr.com/events/emergency-25" target="_blank">Contact</a> on **Saturday 27 September 2025 from Noon to 10pm** — presenting twenty-two works throughout the building. Look at some of [our artists' images](/galleries/2025-emergencypre).         
          
 Get a feel for it with [2024's programme](/archive/2024-emergency/#artists) and [gallery of images](/galleries/2024-emergency); [2023's programme](/archive/2023-emergency/#artists) and [gallery](/galleries/2023-emergency); [2022's programme](/archive/2022-emergency/#artists) and [gallery](/galleries/2022-emergency).         
          
@@ -51,6 +51,7 @@ Unbelievably — or maybe all too believably — in 2025 Emergency is celebratin
 Emergency 25 combines an Afternoon of durational, installation, intervention, and limited capacity work; followed by an Evening of short (*max 20 min*) show-type pieces of work, works-in-progress, or extracts of longer work.         
         
 **For details please visit <a href="https://emergencymcr.posthaven.com" target="_blank">emergencymcr.posthaven.com</a><br>Proposal Deadline: Friday 8 August 2025, 5pm**        
+
 
 
 
