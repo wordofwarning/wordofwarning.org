@@ -66,7 +66,7 @@ n:u is an atmosphere-maker based in Birmingham. Working as an atmosphere-maker e
 <hr>         
 **NEW INTERVAL**         
          
-*Unfortunately Alexis Maxwell is unable to perform due to injury·*         
+*Unfortunately Alexis Maxwell is unable to perform due to injury.*         
         
 <a href="https://sway.cloud.microsoft/D11WAgF2nucQnVAE" target="_blank">Alexis Maxwell website</a> · Insta <a href="https://instagram.com/blacklivesstillmatterr" target="_blank">@blacklivesstillmatterr</a>         
 <hr>         
