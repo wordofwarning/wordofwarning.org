@@ -64,11 +64,15 @@ n:u is an atmosphere-maker based in Birmingham. Working as an atmosphere-maker e
          
 <a href="https://www.atmosphere-maker.org" target="_blank">atmosphere-maker.org</a> · Insta <a href="https://instagram.com/nu.melissandre.varin" target="_blank">@nu.melissandre.varin</a>         
 <hr>         
-**NEW INTERVAL**         
+**Riley Hamshaw-Mills** · *Rollo*         
          
-*Unfortunately Alexis Maxwell is unable to perform due to injury.*         
+*When I was young, I hoped to join the magic circle, but my struggles to keep faith in my own ability got in the way. This quick fire medley attempts to rekindle a previous version of myself, 'magically' appearing in front of my eyes and the audience's: 1-4 cm of levitation (across multiple areas of the stage), a card trick of all my ages, sounds of transferable knowledge from my brain to the audience. A blend of physical movement, personal manifestos and audience interaction.*         
         
-<a href="https://sway.cloud.microsoft/D11WAgF2nucQnVAE" target="_blank">Alexis Maxwell website</a> · Insta <a href="https://instagram.com/blacklivesstillmatterr" target="_blank">@blacklivesstillmatterr</a>         
+Riley is a Lowestoft-based working-class artist involved in producing experimental work from all different aspects of performance, including Live Art, immersive/site specific & autobiographical theatre. His work looks to blend the mundane aspects of living with surreal ideas & feelings, with satire & small town working-class attitudes being a through point in a lot of his work.         
+         
+Insta <a href="https://instagram.com/rileyjhm" target="_blank">@rileyjhm</a>         
+         
+† change of programme — due to injury, <a href="https://sway.cloud.microsoft/D11WAgF2nucQnVAE" target="_blank">Alexis Maxwell</a> is no longer able to perform.         
 <hr>         
 **Tom Cassani** · *Oraculum*         
          
