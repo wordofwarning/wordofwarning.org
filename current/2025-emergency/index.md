@@ -28,7 +28,7 @@ Look at some of our [artists’ images](/galleries/2025-emergencypre).
 #### Artists         
 **[Afternoon, Noon-4pm.](/current/2025-emergency/afternoon)**<br>ClusterFlux&nbsp;Collective&nbsp;· Dongting&nbsp;Huang&nbsp;· Faye&nbsp;Yan&nbsp;· GOWD&nbsp;· Kris&nbsp;Canavan&nbsp;· Leon&nbsp;Clowes&nbsp;· Lisa&nbsp;Ford&nbsp;· Luca&nbsp;Federici&nbsp;· Luke&nbsp;McDonnell&nbsp;· Madeleina&nbsp;Kay&nbsp;· Miss&nbsp;Freda&nbsp;Wallace&nbsp;· The&nbsp;Paula&nbsp;Davy&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
         
-**[Evening, 4pm-10pm.](/current/2025-emergency/evening)**<br>Action&nbsp;Hero&nbsp;· Burt&nbsp;Turdgirth&nbsp;&&nbsp;special&nbsp;guests&nbsp;· Elana&nbsp;Binysh&nbsp;· Kellie&nbsp;Colbert&nbsp;&&nbsp;Deborah&nbsp;Newton&nbsp;· Mole&nbsp;Wetherell&nbsp;&&nbsp;UoS&nbsp;Performance&nbsp;· n:u&nbsp;(melissandre&nbsp;varin)&nbsp;· Nathan&nbsp;Birkinshaw&nbsp;· Rachael&nbsp;Gooch&nbsp;· Rosie&nbsp;Hart&nbsp;&&nbsp;Poppy&nbsp;Waxman&nbsp;· Tom&nbsp;Cassani&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change. Unfortunately&nbsp;Alexis&nbsp;Maxwell&nbsp;is&nbsp;unable&nbsp;to&nbsp;perform&nbsp;due&nbsp;to&nbsp;injury.*</small>         
+**[Evening, 4pm-10pm.](/current/2025-emergency/evening)**<br>Action&nbsp;Hero&nbsp;· Burt&nbsp;Turdgirth&nbsp;&&nbsp;special&nbsp;guests&nbsp;· Elana&nbsp;Binysh&nbsp;· Kellie&nbsp;Colbert&nbsp;&&nbsp;Deborah&nbsp;Newton&nbsp;· Mole&nbsp;Wetherell&nbsp;&&nbsp;UoS&nbsp;Performance&nbsp;· n:u&nbsp;(melissandre&nbsp;varin)&nbsp;· Nathan&nbsp;Birkinshaw&nbsp;· Rachael&nbsp;Gooch&nbsp;· Riley&nbsp;Hamshaw-Mills&nbsp;· Rosie&nbsp;Hart&nbsp;&&nbsp;Poppy&nbsp;Waxman&nbsp;· Tom&nbsp;Cassani&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change. Unfortunately&nbsp;Alexis&nbsp;Maxwell&nbsp;is&nbsp;unable&nbsp;to&nbsp;perform&nbsp;due&nbsp;to&nbsp;injury.*</small>         
           
 #### Entry         
 Pay What You Decide: there's no ticketing, just turn up & donate by cash/card.         
@@ -42,12 +42,12 @@ Age Advisory: mainly 16+, some work will be suitable only for 18+ (aimed at adul
           
 Content Warnings: some works involve interaction and/or participation; specific warnings are now listed [here](/warnings).         
           
-Features: twenty-two Live Art & contemporary performance works with varied content. Multiple spaces on the ground/first/second floors are in use, and works are varied in format — some roaming, some seated, some standing, some spoken word, some visual, some participatory.          
+Features: twenty-three Live Art & contemporary performance works with varied content. Multiple spaces on the ground/first/second floors are in use, and works are varied in format — some roaming, some seated, some standing, some spoken word, some visual, some participatory.          
           
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### About         
-Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day in Manchester every autumn — this 25th edition will present twenty-two works from lunchtime till late throughout <a href="https://contactmcr.com/events/emergency-25" target="_blank">Contact</a>'s building and its multiple spaces.       
+Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day in Manchester every autumn — this 25th edition will present twenty-three works from lunchtime till late throughout <a href="https://contactmcr.com/events/emergency-25" target="_blank">Contact</a>'s building and its multiple spaces.       
          
 *Probably* England's longest-running Live Art event, [Emergency](/hab/emergency) aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions.        
          
