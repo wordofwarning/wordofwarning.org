@@ -17,13 +17,13 @@ season: "Emergency 27|9|2025, Noon-10pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [afternoon](/current/2025-emergency/afternoon) · [evening](/current/2025-emergency/evening) · [entry](/current/2025-emergency/#entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated&nbsp;26&nbsp;September&nbsp;2025</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [afternoon](/current/2025-emergency/afternoon) · [evening](/current/2025-emergency/evening) · [entry](/current/2025-emergency/#entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated&nbsp;6&nbsp;October&nbsp;2025</small>         
          
 *Presented by* Word of Warning *+* Contact        
         
 Manchester's 25th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com/events/emergency-25" target="_blank">Contact</a> on **Saturday 27 September from Noon to 10pm**:<br>— with an **[Afternoon](/current/2025-emergency/afternoon)** of installations, interventions, limited capacity works<br>— followed by an **[Evening](/current/2025-emergency/evening)** full of short shows from 4pm<br>— including the return of special guests, Action Hero.          
           
-Look at some of our [artists’ images](/galleries/2025-emergencypre).         
+Look at some of our [artists' images](/galleries/2025-emergencypre) — now it's over, see [images from the event](/galleries/2025-emergency).         
          
 #### Artists         
 **[Afternoon, Noon-4pm.](/current/2025-emergency/afternoon)**<br>ClusterFlux&nbsp;Collective&nbsp;· Dongting&nbsp;Huang&nbsp;· Faye&nbsp;Yan&nbsp;· GOWD&nbsp;· Kris&nbsp;Canavan&nbsp;· Leon&nbsp;Clowes&nbsp;· Lisa&nbsp;Ford&nbsp;· Luca&nbsp;Federici&nbsp;· Luke&nbsp;McDonnell&nbsp;· Madeleina&nbsp;Kay&nbsp;· Miss&nbsp;Freda&nbsp;Wallace&nbsp;· The&nbsp;Paula&nbsp;Davy&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
