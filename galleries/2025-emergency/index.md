@@ -11,7 +11,7 @@ more_link: Emergency 25
 more_url: "../../current/2025-emergency"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "<small><i>A day out for the curious at Contact, Sat 27 Sep 2025</i></small> · Action Hero"}
+    -   {file: "titlepage.jpg", artist: "<small><i>A day out for the curious at Contact, 27 Sep 2025</i></small> · Action Hero"}
     -   {file: "burt.jpg", artist: "Burt Turdgirth & special guests"}
     -   {file: "clusterflux.jpg", artist: "ClusterFlux Collective"} 
     -   {file: "dongting.jpg", artist: "Dongting Huang"}
