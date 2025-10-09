@@ -8,7 +8,7 @@ artist_size: 1
 season: "Performance Programme 2025"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 30 September 2025</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 9 October 2025</small>        
          
 *Autumn began with [Emergency 25](/current/2025-emergency)'s day out for the curious at Contact…<br>next is [Hetain Patel](/current/2025/patel)'s moving exploration of generational change at Lowry…<br>then [Malandra Jacks](/current/2025/malandrajacks)' love letter to working-class communities at HOME…<br>and another [Social Experiment](/socialexperiment) at Contact…*         
          
@@ -23,7 +23,7 @@ Discover what happened last year in our [2024 archive](/archive/2024) — and <a
         
 #### About         
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful, and the bizarre of new live performance — an attempt to keep alive the best of greenroom's 25-year legacy, and to also introduce new people to the possibilities of seeing live work in Manchester + beyond, including online…          
->*If you haven't attended one of these performance evenings yet, <a href="https://thelowry.com/wtf-wednesday" target="_blank">WTF</a> are you doing? Go and see the stimulating new work that's out there!*<br>&nbsp;— <a href="http://number9reviews.blogspot.com/2019/11/theatre-review-tom-cassani-i-promise.html" target="_blank">Number 9 Reviews on WTF Wednesdays (November 2019)</a>        
+>*If you haven't attended one of these performance evenings yet, <a href="https://thelowry.com/wtf-wednesday-m2wx" target="_blank">WTF</a> are you doing? Go and see the stimulating new work that's out there!*<br>&nbsp;— <a href="http://number9reviews.blogspot.com/2019/11/theatre-review-tom-cassani-i-promise.html" target="_blank">Number 9 Reviews (Nov 2019)</a> on <a href="https://thelowry.com/wtf-wednesday-m2wx" target="_blank">WTF Wednesdays with Lowry</a>         
       
 We take live work very seriously — but we don't take ourselves seriously at all. Over the past thirteen or so years we've shown funny, thought-provoking, and beautiful work by the likes of Action Hero, Avital Raz, Chanje Kunda, Cheryl Martin, Darren Pritchard, Deborah Pearson, ELOINA, FK Alexander, Harry Clayton-Wright, Hetain Patel, Jo Bannon, Kim Noble, Michael Pinchbeck, Proto-type Theater, Richard DeDomenici, Ron Athey, WilL Dickie, Stacy Makishi, Two Destination Language, and Uncurbed Collective (amongst others).         
 <small><span style='font-variant: small-caps'>[back to top](/current/2025)</span></small>         
