@@ -46,7 +46,7 @@ Past events were held on [6 February](/socialexperiment/feb2025), [22 May](/soci
 #### Entry         
 FREE: there's no ticketing… just turn up!         
          
-Dates: Thursday 27 November 2025.<br>Time: 6pm onwards (each event ends *by about* 9pm).         
+Dates: Thursdays 27 November 2025, 19 February (Queer Contact Edition), 9 April, and 11 June 2026.<br>Time: 6pm onwards (each event ends *by about* 9pm).         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester M15 6JA.         
          
