@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 29 September 2025<small>        
+<small>Updated 7 November 2025<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>(Please click [here](/archive/warnings) for *past* events and *archived* livestreams on our YouTube channel.)         
          
@@ -24,7 +24,7 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 Age Advisory: 7+ (parent/guardian/carer discretion).<br>Content Warnings: includes the use of <a href="https://en.wikipedia.org/wiki/Haze_machine" target="_blank">haze</a>.         
          
 ##### [20–22 Nov. HOME | Malandra Jacks](/current/2025/malandrajacks)        
-Age Advisory: 12+ (parent/guardian/carer discretion).<br>Content Warnings: includes discussion of class and economic inequality, poverty and financial hardship; includes discussions around mental health including anxiety, depression, and social isolation; use of mild language/profanity.         
+Age Advisory: 12+ (parent/guardian/carer discretion).<br>Content Warnings: includes discussion of class and economic inequality, poverty and financial hardship; includes discussions around mental health including anxiety, depression, and social isolation; cites racist commentary; use of mild language/profanity.         
          
 ##### [27 Nov. Contact | Social Experiment](/socialexperiment)          
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed here *about* a week before.
