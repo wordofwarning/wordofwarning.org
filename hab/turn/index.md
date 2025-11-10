@@ -22,20 +22,22 @@ season: "Turn by hÅb"
              
 The thirteenth edition, Turn 2026 will take place at <a href="https://contactmcr.com" target="_blank">Contact</a> on **Friday 20 March from 7pm** — presenting *up to ten* short dance-works throughout the building.         
          
-Get a feel for it with [2025's programme](/current/2025-turn/programme) and [gallery of images](/galleries/2025-turn); [2024's programme](/archive/2024-turn/programme) and [gallery of images](/galleries/2024-turn/programme); [2023's programme](/archive/2023-turn/programme) and [gallery](/galleries/2023-turn).         
+Get a feel for it with [2025's programme](/current/2025-turn/programme) and [gallery of images](/galleries/2025-turn); [2024's programme](/archive/2024-turn/programme) and [gallery](/galleries/2024-turn); [2023's programme](/archive/2023-turn/programme) and [gallery](/galleries/2023-turn).         
         
 Greater Manchester's annual open call dance platform, Turn aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— and is open to North West England† dancers and dance-makers, aged 18+          
          
 † *<a href="http://en.wikipedia.org/wiki/North_West_England" target="_blank">North West England</a> consists of Cheshire, Cumbria, Greater Manchester, Lancashire, Merseyside; it does NOT include Yorkshire or Derbyshire*.        
         
 #### Turn 2026 Call for Proposals Now Open        
-North West England† dancers and dance-makers (*aged 18+*) <a href="http://turnmcr.posthaven.com" target="_blank">are invited to submit proposals</a> of: short finished pieces of work, excerpts or extracts of longer works, or works-in-progress, for inclusion in this annual event — where we typically expect to present *up to ten* dance-works.        
+North West England† dancers and dance-makers (*aged 18+*) <a href="http://turnmcr.posthaven.com" target="_blank">are now invited to submit proposals</a> of: short finished pieces of work, excerpts or extracts of longer works, or works-in-progress, for inclusion in this annual event — where we typically expect to present *up to ten* dance-works.        
           
 Turn 2026 is:<br>— a **single evening of public performances on Friday 20 March**;<br>— followed by an **artist day on Saturday 21 March**, incorporating a workshop or masterclasses and feedback sessions;<br>— and participating artists will be expected to attend **both** days.         
          
+**For details please <a href="http://turnmcr.posthaven.com" target="_blank">turnmcr.posthaven.com</a><br>Proposal Deadline: Friday 16 January 2026, 5pm**         
+         
 Turn 2026 presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://cheshiredance.org" target="_blank">Cheshire Dance</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England. Thanks to <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>.        
          
-Enquiries: <mailto:turn@habmcr.org> · <a href="http://turnmcr.org" target="_blank">TurnMcr.org</a>         
+Enquiries: <mailto:turn@habmcr.org> · <a href="http://turnmcr.org" target="_blank">turnmcr.org</a>         
          
 #### Past Editions        
 First held at greenroom in spring 2009, Turn moved to <a href="https://contactmcr.com" target="_blank">Contact</a> in 2012 (with a 2018-22 hiatus) and also popped-up at <a href="https://companychameleon.com" target="_blank">Company Chameleon Studios</a> in [2024](/archive/2024-turn)…          
