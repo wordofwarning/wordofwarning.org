@@ -31,11 +31,11 @@ Greater Manchester's annual open call dance platform, Turn aims to be:<br>— a 
 #### Turn 2026 Call for Proposals Now Open        
 North West England† dancers and dance-makers (*aged 18+*) <a href="http://turnmcr.posthaven.com" target="_blank">are now invited to submit proposals</a> of: short finished pieces of work, excerpts or extracts of longer works, or works-in-progress, for inclusion in this annual event — where we typically expect to present *up to ten* dance-works.        
           
+**For details please visit <a href="http://turnmcr.posthaven.com" target="_blank">turnmcr.posthaven.com</a><br>Proposal Deadline: Friday 16 January 2026, 5pm**         
+         
 Turn 2026 is:<br>— a **single evening of public performances on Friday 20 March**;<br>— followed by an **artist day on Saturday 21 March**, incorporating a workshop or masterclasses and feedback sessions;<br>— and participating artists will be expected to attend **both** days.         
          
-**For details please <a href="http://turnmcr.posthaven.com" target="_blank">turnmcr.posthaven.com</a><br>Proposal Deadline: Friday 16 January 2026, 5pm**         
-         
-Turn 2026 presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://cheshiredance.org" target="_blank">Cheshire Dance</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England. Thanks to <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>.        
+Turn 2026 presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://cheshiredance.org" target="_blank">Cheshire Dance</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England. Thanks to <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>.         
          
 Enquiries: <mailto:turn@habmcr.org> · <a href="http://turnmcr.org" target="_blank">turnmcr.org</a>         
          
