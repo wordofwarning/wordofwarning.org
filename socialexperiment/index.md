@@ -17,7 +17,7 @@ season: "Social Experiment 2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 12 November 2025 at 12:40</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 12 November 2025 at 12:45</small>          
          
 *Presented by* Word of Warning + Contact *as a semi-regular evening event.*         
          
@@ -48,7 +48,7 @@ Past events were held on [6 February](/socialexperiment/feb2025), [22 May](/soci
 #### Entry         
 FREE: there's no ticketing… just turn up!         
          
-Next Date: Thursdays 27 November 2025<br>Following Dates: 19 February (Queer Contact Edition), 9 April, and 11 June 2026.<br>Time: 6pm onwards (each event ends *by about* 9pm).         
+Next Date: Thursday 27 November 2025<br>Following Dates: 19 February (Queer Contact Edition), 9 April, 11 June 2026.<br>Time: 6pm onwards (each event ends *by about* 9pm).         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester M15 6JA.         
          
@@ -68,7 +68,7 @@ Greater Manchester artists (*aged 18+*) are invited to submit proposals of: shor
          
 **For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>**<br>(Direct link to proposal form is <a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">here</a> in case of issues with posthaven.)         
          
-Proposal Deadline: open on a rolling basis and closing 17 days before each event — February's deadline is Mon 2 Feb at noon, April's is Mon 23 Mar at noon.         
+Proposal Deadline: open on a rolling basis and closing 17 days before each event — February's deadline is Mon 2 Feb at noon, April's is Mon 23 Mar at noon, etc.         
          
 #### Credits          
 [Social Experiment](/hab/socialexperiment) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
