@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Social Experiment" # the name of the artist or company
-show: "A gathering for Live Art and&nbsp;<br>&nbsp;contemporary performance." # the name of the show
+show: "A gathering for Live Art and contemporary performance." # the name of the show
 artist_size: 1
 show_size: 4
 header_image: "header_socex.jpg"  
@@ -17,7 +17,7 @@ season: "Social Experiment 2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 10 October 2025</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 12 November 2025 at 12:30</small>          
          
 *Presented by* Word of Warning + Contact *as a semi-regular evening event.*         
          
@@ -32,6 +32,8 @@ If you're an audience member looking for something a little bit different — th
 Past events were held on [6 February](/socialexperiment/feb2025), [22 May](/socialexperiment/may2025), [5 June](/socialexperiment/studentedition) (a Student Edition), and [17 July](/socialexperiment/jul2025) 2025 — [see some images](/galleries/2025-socex).         
          
 #### Artists        
+**27 November** — artists will be announced *about* a week before.         
+         
 **17 July** — Ben&nbsp;Hodge&nbsp;· James&nbsp;Moss&nbsp;· Leah&nbsp;Stone&nbsp;· Rachel&nbsp;Smith&nbsp;· Shahireh&nbsp;Sharif&nbsp;· Xhi&nbsp;Ndubisi
 —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/jul2025).         
          
@@ -66,7 +68,7 @@ Greater Manchester artists (*aged 18+*) are invited to submit proposals of: shor
          
 **For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>**<br>(Direct link to proposal form is <a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">here</a> in case of issues with posthaven.)         
          
-Proposal Deadline: open on a rolling basis — November's deadline is Wednesday 12 Nov at noon; then closing 17 days before each event in 2026.         
+Proposal Deadline: open on a rolling basis and closing 17 days before each event — i.e. February's deadline is Mon 2 Feb at noon, April's deadline is Mon 23 Mar at noon.         
          
 #### Credits          
 [Social Experiment](/hab/socialexperiment) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
