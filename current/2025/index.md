@@ -10,9 +10,9 @@ season: "Performance Programme 2025"
 ---
 <span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 13 November 2025</small>        
          
-*Autumn began with [Emergency 25](/current/2025-emergency)'s day out for the curious at Contact, and [Hetain Patel](/current/2025/patel)'s moving exploration of generational change at Lowry…<br>Next is [Malandra Jacks](/current/2025/malandrajacks)' love letter to working-class communities at HOME, and our final [Social Experiment](/socialexperiment) of the year at Contact…*         
+*Autumn continues with [Malandra Jacks](/current/2025/malandrajacks)' love letter to working-class communities at HOME — followed by the final [Social Experiment](/socialexperiment) of the year at Contact…*         
          
-*2025 has already seen four [Social Experiments](/socialexperiment), [Kellie Colbert](/current/2025/colbert)'s dedication of love, [Turn](/current/2025-turn)'s whirlwind of dance, a pair of [Works Ahead](/current/2025-worksahead), [Fabíola Santana](/current/2025/santana)'s movement ritual, and [Haphazard](/current/2025-haphazard)'s all ages antics…*          
+*2025 has already seen four [Social Experiments](/socialexperiment), [Kellie Colbert](/current/2025/colbert)'s dedication of love, [Turn](/current/2025-turn)'s whirlwind of dance, a pair of [Works Ahead](/current/2025-worksahead), [Fabíola Santana](/current/2025/santana)'s movement ritual, [Haphazard](/current/2025-haphazard)'s all ages antics, [Emergency](/current/2025-emergency)'s day out for the curious, and [Hetain Patel](/current/2025/patel)'s moving reflections…*          
          
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
