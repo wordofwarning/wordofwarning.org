@@ -10,7 +10,7 @@ season: "Performance Programme 2025"
 ---
 <span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 13 November 2025</small>        
          
-*Autumn continues with [Malandra Jacks](/current/2025/malandrajacks)' love letter to working-class communities at HOME — followed by the final [Social Experiment](/socialexperiment) of the year at Contact…*         
+*Next is [Malandra Jacks](/current/2025/malandrajacks)' love letter to working-class communities at HOME — followed by the final [Social Experiment](/socialexperiment) of the year at Contact…*         
          
 *2025 has already seen four [Social Experiments](/socialexperiment), [Kellie Colbert](/current/2025/colbert)'s dedication of love, [Turn](/current/2025-turn)'s whirlwind of dance, a pair of [Works Ahead](/current/2025-worksahead), [Fabíola Santana](/current/2025/santana)'s movement ritual, [Haphazard](/current/2025-haphazard)'s all ages antics, [Emergency](/current/2025-emergency)'s day out for the curious, and [Hetain Patel](/current/2025/patel)'s moving reflections…*          
          
