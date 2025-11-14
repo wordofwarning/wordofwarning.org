@@ -27,12 +27,13 @@ This is what happens when a working-class community tells its own story…
          
 *This is our neighbourhood, not the one in the media, but the one shaped by our stories, our laughter, and our silence.*         
          
-Award-winning duo Malandra Jacks invite you into a world of spellbinding projection, real voices, and unapologetic heart. Part theatre, part time capsule: a celebration of communities rarely seen on stage.         
+Award-winning† duo Malandra Jacks invite you into a world of spellbinding projection, real voices, and unapologetic heart. Part theatre, part time capsule: a celebration of communities rarely seen on stage.         
          
 Funny, intimate, and defiant — *Census* is a love letter to working-class communities, and a call to remember who we are and what we carry with us.         
           
+† Winner of Best Performance at <a href="https://www.manchester.gov.uk/info/200070/museums_galleries_and_the_arts/7657/manchester_culture_awards_2024/3" target="_blank">Manchester Culture Awards 2024</a>.         
+         
 <iframe width="352" height="198" src="https://www.youtube.com/embed/Bk3eFhuNyxE?si=9-asdBXGDkzN1mhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>        
-<br>Winner of Best Performance at <a href="https://www.manchester.gov.uk/info/200070/museums_galleries_and_the_arts/7657/manchester_culture_awards_2024/3 " target="_blank">Manchester Culture Awards 2024</a>.        
          
 #### Entry          
 Tickets: care of HOME, book <a href="https://homemcr.org/spektrix/ChooseSeats?EventInstanceId=1409605AHTCVLSTTDHQVVPRTSGCHQQLPG" target="_blank">online</a> or call 0161 200 1500        
