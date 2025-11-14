@@ -17,9 +17,9 @@ season: "Malandra Jacks 20–22|11|2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/malandrajacks/#entry) · [access](/current/2025/malandrajacks/#access) · [artists](/current/2025/malandrajacks/#artists) · [reviews](/current/2025/malandrajacks/#reviews) · [credits](/current/2025/malandrajacks/#credits) · [websites](/current/2025/malandrajacks/#websites)</span>&ensp; <small>Updated 10 November 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/malandrajacks/#entry) · [access](/current/2025/malandrajacks/#access) · [artists](/current/2025/malandrajacks/#artists) · [reviews](/current/2025/malandrajacks/#reviews) · [credits](/current/2025/malandrajacks/#credits) · [websites](/current/2025/malandrajacks/#websites)</span>&ensp; <small>Updated 14 November 2025</small>        
            
-*Presented by* Word of Warning + HOME         
+*Presented by* Word of Warning + <a href="https://homemcr.org/whats-on/census-542n" target="_blank">HOME</a>         
          
 This is what happens when a working-class community tells its own story…        
          
@@ -32,14 +32,14 @@ Award-winning duo Malandra Jacks invite you into a world of spellbinding project
 Funny, intimate, and defiant — *Census* is a love letter to working-class communities, and a call to remember who we are and what we carry with us.         
           
 <iframe width="352" height="198" src="https://www.youtube.com/embed/Bk3eFhuNyxE?si=9-asdBXGDkzN1mhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>        
-<br>**Winner of Best Performance at <a href="https://www.manchester.gov.uk/info/200070/museums_galleries_and_the_arts/7657/manchester_culture_awards_2024/3 " target="_blank">Manchester Culture Awards 2024</a>**.        
+<br>Winner of Best Performance at <a href="https://www.manchester.gov.uk/info/200070/museums_galleries_and_the_arts/7657/manchester_culture_awards_2024/3 " target="_blank">Manchester Culture Awards 2024</a>.        
          
 #### Entry          
-Tickets: care of HOME, book <a href="https://homemcr.org/whats-on/census-542n" target="_blank">online</a> or call 0161 200 1500        
+Tickets: care of HOME, book <a href="https://homemcr.org/spektrix/ChooseSeats?EventInstanceId=1409605AHTCVLSTTDHQVVPRTSGCHQQLPG" target="_blank">online</a> or call 0161 200 1500        
          
-Times:<br>&nbsp;Thursday 20 November 2025, 7.45pm (followed by a 30-minute post-show Q&A)<br>&nbsp;Friday 21 November 2025, 7.45pm (last few tickets)<br>&nbsp;Saturday 22 November 2025, 2.15pm<br>&nbsp;Saturday 22 November 2025, 7.45pm         
+Times:<br>Thursday 20 November 2025, 7.45pm (followed by a 30-minute post-show Q&A)<br>Friday 21 November 2025, 7.45pm (last few tickets)<br>Saturday 22 November 2025, 2.15pm<br>Saturday 22 November 2025, 7.45pm         
          
-Duration: 1 hour (no interval).          
+Duration: 75 minutes (no interval).          
          
 Location: <a href="https://homemcr.org/plan-your-visit-q15t" target="_blank">HOME</a> (Theatre 2), 2 Tony Wilson Place, Manchester M15 4FN.         
         
