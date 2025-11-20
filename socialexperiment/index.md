@@ -17,7 +17,7 @@ season: "Social Experiment 2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 12 November 2025 at 12:45</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 20 November 2025</small>          
          
 *Presented by* Word of Warning + Contact *as a semi-regular evening event.*         
          
@@ -32,7 +32,7 @@ If you're an audience member looking for something a little bit different — th
 Past events were held on [6 February](/socialexperiment/feb2025), [22 May](/socialexperiment/may2025), [5 June](/socialexperiment/studentedition) (a Student Edition), and [17 July](/socialexperiment/jul2025) 2025 — [see some images](/galleries/2025-socex).         
          
 #### Artists        
-**27 November** — artists will be announced *about* a week before.         
+**27 November** — Gemma&nbsp;Lees&nbsp;· Gin&nbsp;Niemtus&nbsp;· Howard&nbsp;Walmsley&nbsp;· Matt&nbsp;Rogerson&nbsp;· Nightingale&nbsp;&&nbsp;Sage&nbsp;· The&nbsp;Chubby&nbsp;Northerner&nbsp;· Y&nbsp;Talking&nbsp;Nonsense &ensp; <small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*</small>         
          
 **17 July** — Ben&nbsp;Hodge&nbsp;· James&nbsp;Moss&nbsp;· Leah&nbsp;Stone&nbsp;· Rachel&nbsp;Smith&nbsp;· Shahireh&nbsp;Sharif&nbsp;· Xhi&nbsp;Ndubisi
 —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/jul2025).         
