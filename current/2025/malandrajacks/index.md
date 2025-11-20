@@ -17,7 +17,7 @@ season: "Malandra Jacks 20–22|11|2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/malandrajacks/#entry) · [access](/current/2025/malandrajacks/#access) · [artists](/current/2025/malandrajacks/#artists) · [reviews](/current/2025/malandrajacks/#reviews) · [credits](/current/2025/malandrajacks/#credits) · [websites](/current/2025/malandrajacks/#websites)</span>&ensp; <small>Updated 14 November 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2025/malandrajacks/#entry) · [access](/current/2025/malandrajacks/#access) · [artists](/current/2025/malandrajacks/#artists) · [reviews](/current/2025/malandrajacks/#reviews) · [credits](/current/2025/malandrajacks/#credits) · [websites](/current/2025/malandrajacks/#websites)</span>&ensp; <small>Updated 20 November 2025</small>        
            
 *Presented by* Word of Warning + <a href="https://homemcr.org/whats-on/census-542n" target="_blank">HOME</a>         
          
@@ -38,9 +38,9 @@ Funny, intimate, and defiant — *Census* is a love letter to working-class comm
 #### Entry          
 Tickets: care of HOME, book <a href="https://homemcr.org/spektrix/ChooseSeats?EventInstanceId=1409605AHTCVLSTTDHQVVPRTSGCHQQLPG" target="_blank">online</a> or call 0161 200 1500        
          
-Times:<br>Thursday 20 November 2025, 7.45pm (followed by a 30-minute post-show Q&A)<br>Friday 21 November 2025, 7.45pm (last few tickets)<br>Saturday 22 November 2025, 2.15pm<br>Saturday 22 November 2025, 7.45pm         
+Times:<br>Thursday 20 November 2025, 7.45pm (last few tickets)<br>Friday 21 November 2025, 7.45pm (last few tickets)<br>Saturday 22 November 2025, 2.15pm (last few tickets)<br>Saturday 22 November 2025, 7.45pm         
          
-Duration: 75 minutes (no interval).          
+Duration: about 75 minutes without interval.<br>(Thursday's show is followed by a 30-minute post-show Q&A.)          
          
 Location: <a href="https://homemcr.org/plan-your-visit-q15t" target="_blank">HOME</a> (Theatre 2), 2 Tony Wilson Place, Manchester M15 4FN.         
         
@@ -67,6 +67,8 @@ Joshua Wilkinson is a Manchester-based performer, arts facilitator, and filmmake
 Performers & Writers: Chloe Malandra & Joshua Wilkinson<br>Dramaturge: Kate Bradnam<br>Technical Consultant: Andrew Crofts<br>Composer: Greg Harper<br>Projection Visual Designer: David Hall<br>Set Designer: Faz Barber<br>Set Maker: Tom Mills<br>R&D Creative Practitioners: Julia Samuels & Matt Fenton<br>With special thanks to Roxy Daykin-Moores.         
          
 Originally commissioned by Contact and hÅb; supported by hÅb, Manchester&nbsp;City&nbsp;Council, and using public funding by the National&nbsp;Lottery through Arts&nbsp;Council&nbsp;England.         
+         
+Thanks to all the people of Moston, Harpurhey, and Charlestown whose voices make this work…         
          
 #### Websites        
 <a href="https://malandrajacks.com" target="_blank">malandrajacks.com</a> · Facebook <a href="https://facebook.com/MalandraJacks" target="_blank">/MalandraJacks</a> · Insta <a href="https://instagram.com/malandra_jacks" target="_blank">@malandra_jacks</a>         
