@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 13 November 2025<small>        
+<small>Updated 24 November 2025<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>(Please click [here](/archive/warnings) for *past* events and *archived* livestreams on our YouTube channel.)         
          
@@ -24,4 +24,4 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 Age Advisory: 12+ (parent/guardian/carer discretion).<br>Content Warnings: includes discussion of class and economic inequality, poverty and financial hardship; includes discussions around mental health including anxiety, depression, and social isolation; cites racist commentary; use of mild language/profanity.         
          
 ##### [27 Nov. Contact | Social Experiment](/socialexperiment)          
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed here *about* a week before.
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction and/or participation; specific warnings follow…<br>&nbsp;Gemma Lees — references to benefit claimants and disabled people which might be triggering.<br>&nbsp;Gin Niemtus — references abuse, domestic violence, and mental health issues.<br>&nbsp;Howard Walmsley — none.<br>&nbsp;Matt Rogerson — flashing light and imagery with **potential to trigger photosensitive epilepsy**; loud and intense audio.<br>&nbsp;Nightingale & Sage — references grief, loss, and bereavement. **Allergy Warning: nail varnish remover.**<br>&nbsp;The Chubby Northerner — swearing; references to male body positivity & dysmorphia.<br>&nbsp;Y Talking Nonsense — themes of race, identity, and self-hatred.
