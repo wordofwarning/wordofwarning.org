@@ -29,7 +29,7 @@ November's event kicks off at 6pm… and finishes *about* 9pm.
 <hr>         
 **Gin Niemtus** · *Alter*         
          
-Parts. Ingredients. Tools. Scraps. Toys. Ideas. Catalysts. Fantasies.<br>This piece explores the nature of change, metamorphosis, and alchemy.<br>Do we have what we need in front of us?<br>What makes us want to use it?<br>Can we find ourselves through transformation?         
+Parts. Ingredients. Tools. Scraps. Toys. Ideas. Catalysts. Fantasies.<br>This piece explores the nature of change, metamorphosis, and alchemy.<br>Do we have what we need in front of us? What makes us want to use it? Can we find ourselves through transformation?         
          
 Insta <a href="https://instagram.com/ginniemtus" target="_blank">@ginniemtus</a>         
 <hr>         
