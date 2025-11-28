@@ -23,7 +23,7 @@ season: "Social Experiment"
          
 **Social Experiment** is a gathering at <a href="https://contactmcr.com" target="_blank">Contact</a> for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
           
-A free and informal, semi-regular evening event with the **next on Thursday 19 February 2026 from 6pm to 9pm (a Queer Contact Edition)** — followed by Thursdays **9 April** and **11 June**.         
+A free and informal, semi-regular evening event with the **next on Thursday 19 February 2026 from 6pm to 9pm (a Queer Contact Edition)** — followed by Thursdays **9 April** and **11 June** 2026.         
           
 If you're a Greater Manchester artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
          
@@ -36,7 +36,7 @@ Past events were held on [6 February](/socialexperiment/feb2025), [22 May](/soci
          
 **17 July** — Ben&nbsp;Hodge&nbsp;· James&nbsp;Moss&nbsp;· Leah&nbsp;Stone&nbsp;· Rachel&nbsp;Smith&nbsp;· Shahireh&nbsp;Sharif&nbsp;· Xhi&nbsp;Ndubisi —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/jul2025).         
          
-**5 June** (Student Edition) — Amelia&nbsp;Grace&nbsp;· Dana&nbsp;Potter&nbsp;· GIN&nbsp;Niemtus&nbsp;· Isla&nbsp;Webster&nbsp;& Gabrielle&nbsp;Kaufman&nbsp;· Oscar&nbsp;Dickson&nbsp;· Will&nbsp;Oliver —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/studentedition).         
+**5 June** (Student Edition) — Amelia&nbsp;Grace&nbsp;· Dana&nbsp;Potter&nbsp;· Gin&nbsp;Niemtus&nbsp;· Isla&nbsp;Webster&nbsp;& Gabrielle&nbsp;Kaufman&nbsp;· Oscar&nbsp;Dickson&nbsp;· Will&nbsp;Oliver —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/studentedition).         
           
 **22 May** — Ben&nbsp;Hodge&nbsp;· Bitterroot&nbsp;· Joely&nbsp;Mae&nbsp;Greally&nbsp;& Jasmine&nbsp;Naila&nbsp;Burt&nbsp;· Julie&nbsp;Burrow&nbsp;· Lizzy&nbsp;Owen&nbsp;· Paper&nbsp;People&nbsp;Theatre&nbsp;· Secret&nbsp;Location&nbsp;Theatre&nbsp;Company —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/may2025).         
          
@@ -47,7 +47,7 @@ Past events were held on [6 February](/socialexperiment/feb2025), [22 May](/soci
 #### Entry         
 FREE: there's no ticketing… just turn up!         
          
-Next Date: Thursday 19 February 2026 (a Queer Contact Edition)<br>Following Dates: 9 April and 11 June 2026.<br>Time: 6pm onwards (each event ends *by about* 9pm).         
+Next Date: Thursday 19 February 2026 (a Queer Contact Edition).<br>Following Dates: Thursdays 9 April and 11 June 2026.<br>Time: 6pm onwards (each event ends *by about* 9pm).         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester M15 6JA.         
          
