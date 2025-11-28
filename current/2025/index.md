@@ -8,11 +8,11 @@ artist_size: 1
 season: "Performance Programme 2025"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 24 November 2025</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2025/#about) · [audiences](/current/2025/#audiences) · [by](/current/2025/#by) · [people](/current/2025/#people) · [warnings](/current/2025/#warnings)</span>&ensp; <small>Updated 28 November 2025</small>        
          
-*Our last event of the year is a [Social Experiment](/socialexperiment) at Contact…*         
+*2025 saw five [Social Experiments](/socialexperiment), [Kellie Colbert](/current/2025/colbert)'s dedication of love, [Turn](/current/2025-turn)'s whirlwind of dance, a pair of [Works Ahead](/current/2025-worksahead), [Fabíola Santana](/current/2025/santana)'s movement ritual, [Haphazard](/current/2025-haphazard)'s all ages antics, [Emergency](/current/2025-emergency)'s day out for the curious, [Hetain Patel](/current/2025/patel)'s moving reflections, and [Malandra Jacks](/current/2025/malandrajacks)' love letter to working-class communities…*         
          
-*2025 has already seen four [Social Experiments](/socialexperiment), [Kellie Colbert](/current/2025/colbert)'s dedication of love, [Turn](/current/2025-turn)'s whirlwind of dance, a pair of [Works Ahead](/current/2025-worksahead), [Fabíola Santana](/current/2025/santana)'s movement ritual, [Haphazard](/current/2025-haphazard)'s all ages antics, [Emergency](/current/2025-emergency)'s day out for the curious, [Hetain Patel](/current/2025/patel)'s moving reflections, and [Malandra Jacks](/current/2025/malandrajacks)' love letter to working-class communities…*         
+*Now on hiatus, 2026's Performance Programme will be announced from early January…*         
          
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
@@ -48,7 +48,7 @@ Tamsin Drury, [hÅb](/hab)'s Director, has been around a while — a really long
         
 John Franklin-Johnston, hÅb's Programme Manager, is a freelance producer, events manager, facilitator, and was <a href="http://greenroomarts.org" target="_blank">greenroom</a>'s programme co-ordinator.         
          
-Peader Kirk, artist & mentor, supports [Works Ahead](/hab/worksahead) and other hÅb projects.         
+Peader Kirk, artist & mentor, supports [Works Ahead](/hab/worksahead) and other hÅb projects, and hosts our [Social Experiments](/socialexperiment).         
          
 We're grateful for the ongoing support of hÅb projects during 2025 from a team of freelancers and volunteers that includes: Alison Darnbrough, Andrew Crofts, Annelise Edwards, Bronwyn Bull, Catherine Shaw, Ella Roberts, Jacob Lisle, Jamil Keating, Martha Barr, Sam Stockdale, Sophie Meakin, Tania Camara, Tricia Coleman, plus Theatre & Performance students from The Arden.         
          
