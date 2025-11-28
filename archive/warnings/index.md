@@ -12,13 +12,16 @@ season: "Archived Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 24 November 2025<small>        
+<small>Updated 28 November 2025<small>        
         
 Age Advisories/Limits & Content Warnings for *past* events and *archived* livestreams on our YouTube channel are available below, including elements that may distress, cause upset, or trigger.&emsp;Go to → [2025](/archive/warnings/#2025) · [2024](/archive/warnings/#2024) · [2023](/archive/warnings/#2023) · [2022](/archive/warnings/#2022) · [2021](/archive/warnings/#2021) · [2020](/archive/warnings/#2020) · [2019](/archive/warnings/#2019)&emsp;(Please click [here](/warnings) for *upcoming* events.)        
         
 If issues raised affect you, these organisations may be of support:&ensp;<a href="https://thecalmzone.net" target="_blank">CALM</a> 0800 585858 · <a href="https://harmless.org.uk" target="_blank">Harmless</a> · <a href="https://mind.org.uk" target="_blank">Mind</a> 0300 123 3393 · <a href="https://nopanic.org.uk" target="_blank">No Panic</a> 0300 772 9844 · <a href="https://samaritans.org" target="_blank">Samaritans</a> call 116 123 or email jo@samaritans.org · <a href="https://supportline.org.uk" target="_blank">SupportLine</a> 01708 765 200 · <a href="https://thesurvivorstrust.org" target="_blank">The Survivors Trust</a> 08088 010 818         
 <hr>         
 #### 2025         
+         
+##### [27 Nov. Contact | Social Experiment](/socialexperiment)          
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works involved interaction and/or participation; specific warnings follow…<br>&nbsp;Gemma Lees — references to benefit claimants and disabled people which might be triggering.<br>&nbsp;Gin Niemtus — referenced abuse, domestic violence, and mental health issues.<br>&nbsp;Matt Rogerson — flashing light and imagery with **potential to trigger photosensitive epilepsy**; loud and intense audio.<br>&nbsp;Nightingale & Sage — referenced grief, loss, and bereavement. **Allergy Warning: nail varnish remover.**<br>&nbsp;The Chubby Northerner — swearing; references to male body positivity/dysmorphia.<br>&nbsp;Y Talking Nonsense — themes of race, identity, and self-hatred.         
          
 ##### [20–22 Nov. HOME | Malandra Jacks](/current/2025/malandrajacks)        
 Age Advisory: 12+ (parent/guardian/carer discretion).<br>Content Warnings: included discussion of class and economic inequality, poverty and financial hardship; included discussions around mental health including anxiety, depression, and social isolation; cited racist commentary; use of mild language/profanity.         
