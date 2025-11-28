@@ -12,13 +12,13 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 24 November 2025<small>        
+<small>Updated 28 November 2025<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>(Please click [here](/archive/warnings) for *past* events and *archived* livestreams on our YouTube channel.)         
          
 If issues raised affect you, these organisations may be of support:&ensp;<a href="https://thecalmzone.net" target="_blank">CALM</a> 0800 585858 · <a href="https://harmless.org.uk" target="_blank">Harmless</a> · <a href="https://mind.org.uk" target="_blank">Mind</a> 0300 123 3393 · <a href="https://nopanic.org.uk" target="_blank">No Panic</a> 0300 772 9844 · <a href="https://samaritans.org" target="_blank">Samaritans</a> call 116 123 or email jo@samaritans.org · <a href="https://supportline.org.uk" target="_blank">SupportLine</a> 01708 765 200 · <a href="https://www.thesurvivorstrust.org" target="_blank">The Survivors Trust</a> 08088 010 818        
 <hr>         
-#### 2025         
+#### 2026         
          
-##### [27 Nov. Contact | Social Experiment](/socialexperiment)          
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction and/or participation; specific warnings follow…<br>&nbsp;Gemma Lees — references to benefit claimants and disabled people which might be triggering.<br>&nbsp;Gin Niemtus — references abuse, domestic violence, and mental health issues.<br>&nbsp;Matt Rogerson — flashing light and imagery with **potential to trigger photosensitive epilepsy**; loud and intense audio.<br>&nbsp;Nightingale & Sage — references grief, loss, and bereavement. **Allergy Warning: nail varnish remover.**<br>&nbsp;The Chubby Northerner — swearing; references to male body positivity/dysmorphia.<br>&nbsp;Y Talking Nonsense — themes of race, identity, and self-hatred.
+##### 19 Feb. Contact | [Social Experiment: Queer Contact Edition](/socialexperiment)          
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings to follow *about* a week before…
