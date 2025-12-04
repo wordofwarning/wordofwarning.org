@@ -15,7 +15,7 @@ gallery:
     -   {file: "Matt1.jpg", artist: "Matt Rogerson (November 2025)"}
     -   {file: "Matt2.jpg", artist: "Matt Rogerson (November 2025)"}
     -   {file: "Gin1.jpg", artist: "Gin Niemtus (November 2025)"}
-    -   {file: "Gin1.jpg", artist: "Gin Niemtus (November 2025)"}
+    -   {file: "Gin2.jpg", artist: "Gin Niemtus (November 2025)"}
     -   {file: "Gemma1.jpg", artist: "Gemma Lees (November 2025)"}
     -   {file: "Gemma2.jpg", artist: "Gemma Lees (November 2025)"}
     -   {file: "Lydia1.jpg", artist: "Nightingale & Sage (November 2025)"}
@@ -23,7 +23,7 @@ gallery:
     -   {file: "Howard1.jpg", artist: "Howard Walmsley (November 2025)"}
     -   {file: "Howard2.jpg", artist: "Howard Walmsley (November 2025)"}
     -   {file: "Yuri1.jpg", artist: "Y Talking Nonsense (November 2025)"}
-    -   {file: "Yuri1.jpg", artist: "Y Talking Nonsense (November 2025)"}
+    -   {file: "Yuri2.jpg", artist: "Y Talking Nonsense (November 2025)"}
     -   {file: "ben_hodge.jpg", artist: "Ben Hodge (July 2025)"}
     -   {file: "james_moss.jpg", artist: "James Moss (July 2025)"}
     -   {file: "shahireh_sharif.jpg", artist: "Shahireh Sharif (July 2025)"}
