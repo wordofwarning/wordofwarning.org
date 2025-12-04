@@ -22,6 +22,8 @@ gallery:
     -   {file: "Lydia2.jpg", artist: "Nightingale & Sage (November 2025)"}
     -   {file: "Howard1.jpg", artist: "Howard Walmsley (November 2025)"}
     -   {file: "Howard2.jpg", artist: "Howard Walmsley (November 2025)"}
+    -   {file: "Tom1.jpg", artist: "The Chubby Northerner (November 2025)"}
+    -   {file: "Tom2.jpg", artist: "The Chubby Northerne (November 2025)"}
     -   {file: "Yuri1.jpg", artist: "Y Talking Nonsense (November 2025)"}
     -   {file: "Yuri2.jpg", artist: "Y Talking Nonsense (November 2025)"}
     -   {file: "ben_hodge.jpg", artist: "Ben Hodge (July 2025)"}
