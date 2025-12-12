@@ -1112,7 +1112,7 @@
 	.h2025 .splash
 		{background:url(../images/header_haphazard25a.jpg) center center}
 
-/* 2025 Programme blue DNA
+/* 2025 SS Programme blue DNA
 ------------------------------------------------------*/
 
 	.p2025 .splash
@@ -1123,3 +1123,9 @@
 
 	.a2025 .splash
 		{background:url(../images/header_warni_AW25.jpg) -150px center}
+
+/* 2026 Programme shimmer - black red purple green
+------------------------------------------------------*/
+
+	.p2026 .splash
+		{background:url(../images/header_PP26gif.GIF) -150px center}
