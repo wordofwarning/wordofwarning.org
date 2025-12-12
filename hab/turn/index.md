@@ -7,7 +7,7 @@ rootpath: "../../../"
 artist: "Turn" # the name of the artist or company
 show: "New North West dance." # the name of the artist or company
 show_size: 4
-header_image: "header_turn25.jpg"   
+header_image: "header_turn26maelstrom.jpg"   
 season: "Turn by hÅb"
 
 # ABOUT THE SHOW - LAYOUT
@@ -16,7 +16,7 @@ season: "Turn by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 10 November 2025</small>        
+<small>Updated 12 December 2025</small>        
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester every spring.    
              
@@ -57,4 +57,4 @@ Fabíola Santana showed *We're Here Because They Were* at [Company Chameleon](/c
          
 Louiseanne Wong showed a preview of *I Am. Am I* in the <a href="https://thelowry.com/pQW3zUL/horizons-collective-showcase" target="_blank">Horizons Collective Showcase</a> at <a href="https://thelowry.com/whats-on/336//horizons-collective-showcase" target="_blank">Lowry</a> on 12 February 2025.        
          
-Image: UMAMI-i!-MOVEMENT, who performed in [Turn 2025](/current/2025-turn) at Contact, by Joel Chester Fildes
+Image: Maelstrom Theatre in [Turn 2025](/current/2025-turn) at Contact
