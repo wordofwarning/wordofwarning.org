@@ -21,7 +21,7 @@ season: "Turn 20|3|2026"
         
 *Presented by* Word of Warning *+* Contact        
         
-Our annual whirlwind of new North West dance returns to <a href="https://contactmcr.com" target="_blank">Contact</a>, taking over the building on **Friday 20 March from 7pm**.         
+Our annual whirlwind of new North West dance takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Friday 20 March from 7pm**…         
          
 Get a feel for Turn with [images from last year's event](/galleries/2025-turn).          
           
