@@ -28,7 +28,7 @@ Get a feel for Turn with [images from last year's event](/galleries/2025-turn).
 Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn&nbsp;2026 transport you into a frenzy of dance…         
          
 #### Artists         
-*Participating&nbsp;artists&nbsp;will&nbsp;be&nbsp;announced&nbsp;in&nbsp;early&nbsp;February.*<br>*<a href="http://turnmcr.posthaven.com" target="_blank">Call for Proposals</a> open until Friday 16 January, 5pm.*         
+*Participating&nbsp;artists will&nbsp;be&nbsp;announced in&nbsp;early&nbsp;February.*<br>*<a href="http://turnmcr.posthaven.com" target="_blank">Call for Proposals</a> open until Friday&nbsp;16&nbsp;January,&nbsp;5pm.*         
         
 #### Entry         
 Pay What You Decide: £20/£15/£10/£5/£0 (advance booking recommended).        
