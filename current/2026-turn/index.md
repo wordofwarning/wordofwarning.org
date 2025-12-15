@@ -25,13 +25,13 @@ Our annual whirlwind of new North West dance returns to <a href="https://contact
          
 Get a feel for it with [images from last year's Turn](/galleries/2025-turn).          
           
-Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn&nbsp;2025 transport you into a frenzy of dance…         
+Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn&nbsp;2026 transport you into a frenzy of dance…         
          
 #### Artists         
-*Participating&nbsp;artists&nbsp;will&nbsp;be&nbsp;announced&nbsp;in&nbsp;early&nbsp;February.*<small>         
+*Participating&nbsp;artists&nbsp;will&nbsp;be&nbsp;announced&nbsp;in&nbsp;early&nbsp;February.*<br>*<a href="http://turnmcr.posthaven.com" target="_blank">Call for Proposals</a> open until Friday 16 January, 5pm.*         
         
 #### Entry         
-Pay What You Decide: £20/15/£10/£5/£0 (advance booking recommended).        
+Pay What You Decide: £20/£15/£10/£5/£0 (advance booking recommended).        
          
 Tickets: available <a href="https://contactmcr.com" target="_blank">online via Contact</a> from mid-January.         
          
@@ -58,7 +58,7 @@ First held at greenroom in spring 2009, [Turn](/hab/turn) moved to <a href="http
 Get a feel for [Turn](/hab/turn) with [2025's programme](/archive/2025-turn) and [gallery of images](/galleries/2025-turn); [2024's programme](/archive/2024-turn) and [gallery](/galleries/2024-turn); [2023's programme](/archive/2023-turn) and [gallery](/galleries/2023-turn); [2017's programme](/archive/2017-turn) and [gallery](/galleries/2017-turn).         
         
 #### Credits                 
-[Turn](/hab/turn) 2026 produced by [hÅb](/hab); supported by <a href="https://www.cheshiredance.org" target="_blank">Cheshire Dance</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>,, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England. Thanks to <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>.         
+[Turn](/hab/turn) 2026 produced by [hÅb](/hab); supported by <a href="https://www.cheshiredance.org" target="_blank">Cheshire Dance</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England. Thanks to <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>.         
           
 Image: Maelstrom Theatre in [Turn 2025](/archive/2025-turn) at Contact         
           
