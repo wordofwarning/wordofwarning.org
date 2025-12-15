@@ -5,14 +5,14 @@ layout: archive
 season: "Galleries"
 
 archived:
+    - {folder: "2025-socex", name: "Social Experiment 2025", class: "se2025"}
     - {folder: "2025-emergency", name: "Emergency 25", class: "e2021"}
     - {folder: "2025-haphazard", name: "Haphazard 2025", class: "h2025"}
-    - {folder: "2025-socex", name: "Social Experiment (2025)", class: "se2025"}
     - {folder: "2025-woah", name: "Works Ahead 2025", class: "w2025"}
     - {folder: "2025-turn", name: "Turn 2025", class: "t2025"}
     - {folder: "2024-emergency", name: "Emergency 24", class: "e2021"}
     - {folder: "2024-haphazard", name: "Haphazard 2024", class: "h2024"}
-    - {folder: "2024-woah", name: "Works Ahead: Radiator (2024)", class: "w2024"}
+    - {folder: "2024-woah", name: "Works Ahead: Radiator 2024", class: "w2024"}
     - {folder: "2024-turn", name: "Turn 2024", class: "t2024"}
     - {folder: "2023-emergency", name: "Emergency 23", class: "e2021"}
     - {folder: "2023-haphazard", name: "Haphazard 2023", class: "h2023"}
@@ -65,4 +65,4 @@ archived:
 ---
 
 # Galleries     
-See images from our previous events below…&ensp; <small>Updated 6 October 2025<small>
+See images from our previous events below…&ensp; <small>Updated 15 December 2025<small>
