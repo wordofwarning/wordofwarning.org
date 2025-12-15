@@ -23,7 +23,7 @@ season: "Turn 20|3|2026"
         
 Our annual whirlwind of new North West dance returns to <a href="https://contactmcr.com" target="_blank">Contact</a>, taking over the building on **Friday 20 March from 7pm**.         
          
-Get a feel for it with [images from last year's Turn](/galleries/2025-turn).          
+Get a feel for Turn with [images from last year's event](/galleries/2025-turn).          
           
 Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn&nbsp;2026 transport you into a frenzy of dance…         
          
@@ -42,20 +42,20 @@ Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Co
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
          
-Content Warnings: potential use of haze; some works *may* involve interaction and/or participation; specific warnings listed [here](/warnings).         
+Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed [here](/warnings) in late February.         
         
-Features: up to ten contemporary dance performance works with varied content; works will occur in three spaces and will vary in format.
+Features: *up to ten* contemporary dance performance works with varied content; works will occur in three spaces and will vary in format.
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### About         
-Our annual platform for North West dancers and dance-makers, [Turn](/hab/turn) is an opportunity to engage with new dance in Greater Manchester every spring.<br>This thirteenth edition will present up to ten short dance-works over a single night throughout <a href="https://contactmcr.com" target="_blank">Contact</a>'s building and its multiple spaces.<br>*NB* Friday's public platform is followed by an artist day for participants only.         
+Our annual platform for North West dancers and dance-makers, [Turn](/hab/turn) is an opportunity to engage with new dance in Greater Manchester every spring.<br>This thirteenth edition will present *up to ten* short dance-works over a single night throughout <a href="https://contactmcr.com" target="_blank">Contact</a>'s building and its multiple spaces.<br>*NB* Friday's public platform is followed by an artist day for participants only.         
         
 Greater Manchester's open call dance platform, [Turn](/hab/turn) aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— and is open to <a href="http://en.wikipedia.org/wiki/North_West_England" target="_blank">North West England</a> dancers and dance-makers, aged 18+         
         
 First held at greenroom in spring 2009, [Turn](/hab/turn) moved to <a href="https://contactmcr.com" target="_blank">Contact</a> in 2012 (with a 2018-22 hiatus) and also popped-up at <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> in [2024](/archive/2024-turn)…          
 
-Get a feel for [Turn](/hab/turn) with [2025's programme](/archive/2025-turn) and [gallery of images](/galleries/2025-turn); [2024's programme](/archive/2024-turn) and [gallery](/galleries/2024-turn); [2023's programme](/archive/2023-turn) and [gallery](/galleries/2023-turn); [2017's programme](/archive/2017-turn) and [gallery](/galleries/2017-turn).         
+Get a feel for [Turn](/hab/turn) with [2025's programme](/archive/2025-turn) and [gallery of images](/galleries/2025-turn); [2024's programme](/archive/2024-turn) and [gallery](/galleries/2024-turn); [2023's programme](/archive/2023-turn) and [gallery](/galleries/2023-turn).         
         
 #### Credits                 
 [Turn](/hab/turn) 2026 produced by [hÅb](/hab); supported by <a href="https://www.cheshiredance.org" target="_blank">Cheshire Dance</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England. Thanks to <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>.         
