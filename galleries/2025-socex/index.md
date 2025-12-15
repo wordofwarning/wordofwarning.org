@@ -12,26 +12,26 @@ more_url: "../../socialexperiment"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small><i>A gathering for Live Art and contemporary performance.</i></small>"}
-    -   {file: "Matt1.jpg", artist: "Matt Rogerson (November 2025)"}
-    -   {file: "Matt2.jpg", artist: "Matt Rogerson (November 2025)"}
-    -   {file: "Gin1.jpg", artist: "Gin Niemtus (November 2025)"}
-    -   {file: "Gin2.jpg", artist: "Gin Niemtus (November 2025)"}
-    -   {file: "Gemma1.jpg", artist: "Gemma Lees (November 2025)"}
-    -   {file: "Gemma2.jpg", artist: "Gemma Lees (November 2025)"}
-    -   {file: "Lydia1.jpg", artist: "Nightingale & Sage (November 2025)"}
-    -   {file: "Lydia2.jpg", artist: "Nightingale & Sage (November 2025)"}
-    -   {file: "Howard1.jpg", artist: "Howard Walmsley (November 2025)"}
-    -   {file: "Howard2.jpg", artist: "Howard Walmsley (November 2025)"}
-    -   {file: "Tom1.jpg", artist: "The Chubby Northerner (November 2025)"}
-    -   {file: "Tom2.jpg", artist: "The Chubby Northerne (November 2025)"}
-    -   {file: "Yuri1.jpg", artist: "Y Talking Nonsense (November 2025)"}
-    -   {file: "Yuri2.jpg", artist: "Y Talking Nonsense (November 2025)"}
-    -   {file: "ben_hodge.jpg", artist: "Ben Hodge (July 2025)"}
-    -   {file: "james_moss.jpg", artist: "James Moss (July 2025)"}
-    -   {file: "shahireh_sharif.jpg", artist: "Shahireh Sharif (July 2025)"}
-    -   {file: "xhi_ndubisi.jpg", artist: "Xhi Ndubisi (July 2025)"}
-    -   {file: "rachel_smith.jpg", artist: "Rachel Smith (July 2025)"}
-    -   {file: "leah_stone.jpg", artist: "Leah Stone (July 2025)"}
+    -   {file: "Matt1.jpg", artist: "Matt Rogerson (Nov 2025)"}
+    -   {file: "Matt2.jpg", artist: "Matt Rogerson (Nov 2025)"}
+    -   {file: "Gin1.jpg", artist: "Gin Niemtus (Nov 2025)"}
+    -   {file: "Gin2.jpg", artist: "Gin Niemtus (Nov 2025)"}
+    -   {file: "Gemma1.jpg", artist: "Gemma Lees (Nov 2025)"}
+    -   {file: "Gemma2.jpg", artist: "Gemma Lees (Nov 2025)"}
+    -   {file: "Lydia1.jpg", artist: "Nightingale & Sage (Nov 2025)"}
+    -   {file: "Lydia2.jpg", artist: "Nightingale & Sage (Nov 2025)"}
+    -   {file: "Howard1.jpg", artist: "Howard Walmsley (Nov 2025)"}
+    -   {file: "Howard2.jpg", artist: "Howard Walmsley (Nov 2025)"}
+    -   {file: "Tom1.jpg", artist: "The Chubby Northerner (Nov 2025)"}
+    -   {file: "Tom2.jpg", artist: "The Chubby Northerne (Nov 2025)"}
+    -   {file: "Yuri1.jpg", artist: "Y Talking Nonsense (Nov 2025)"}
+    -   {file: "Yuri2.jpg", artist: "Y Talking Nonsense (Nov 2025)"}
+    -   {file: "ben_hodge.jpg", artist: "Ben Hodge (Jul 2025)"}
+    -   {file: "james_moss.jpg", artist: "James Moss (Jul 2025)"}
+    -   {file: "shahireh_sharif.jpg", artist: "Shahireh Sharif (Jul 2025)"}
+    -   {file: "xhi_ndubisi.jpg", artist: "Xhi Ndubisi (Jul 2025)"}
+    -   {file: "rachel_smith.jpg", artist: "Rachel Smith (Jul 2025)"}
+    -   {file: "leah_stone.jpg", artist: "Leah Stone (Jul 2025)"}
     -   {file: "ben_hodge1.jpg", artist: "Ben Hodge (May 2025)"}
     -   {file: "ben_hodge2.jpg", artist: "Ben Hodge (May 2025)"}
     -   {file: "joely_jasmine1.jpg", artist: "Joely Mae Greally & Jasmine Naila Burt (May 2025)"}
