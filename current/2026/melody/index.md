@@ -6,9 +6,9 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Victoria Melody&nbsp;<br>&nbsp;dir. Mark Thomas" # the name of the artist or company
 show: "Trouble, Struggle,&nbsp;<br>&nbsp;Bubble & Squeak" # the name of the show
-artist_size: 2
-show_size: 2
-header_image: "header_melody.jpg"
+artist_size: 3
+show_size: 3
+header_image: "header_melody.JPG"
 season: "Victoria Melody 11|2|2026, 8pm"
 
 # ABOUT THE SHOW - LAYOUT
