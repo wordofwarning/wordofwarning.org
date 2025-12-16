@@ -1,15 +1,15 @@
 ---
 # CONFIGURATION
-layout: 2025-programme
+layout: 2026-programme
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Hetain Patel" # the name of the artist or company
-show: "Mathroo Basha" # the name of the show
-artist_size: 1
+artist: "Victoria Melody (dir. Mark Thomas)" # the name of the artist or company
+show: "Trouble, Struggle, Bubble & Squeak" # the name of the show
+artist_size: 4
 show_size: 4
 header_image: "header_hetain4.jpg"
-season: "Hetain Patel 12|11|2025, 7.30pm"
+season: "Victoria Melody (dir. Mark Thomas) 11|2|2026, 8pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,49 +17,62 @@ season: "Hetain Patel 12|11|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/patel/#entry) · [access](/current/2025/patel/#access) · [artist](/current/2025/patel/#artist) · [credits](/current/2025/patel/#credits) · [websites](/current/2025/patel/#websites)</span>&ensp; <small>Updated 9 October 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2026/melody/#entry) · [access](/current/2026/melody/#access) · [artists](/current/2026/melody/#artists) · [reviews](/current/2026/melody/#reviews) · [credits](/current/2026/melody/#credits) · [websites](/current/2026/melody/#websites)</span>&ensp; <small>Updated 16 December 2025</small>        
            
-*Presented by* <a href="https://thelowry.com/whats-on/mathroo-basha-by-hetain-patel-t6qc" target="_blank">Lowry</a> + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday-m2wx" target="_blank">WTF Wednesday</a>         
+*Presented by* <a href="https://thelowry.com/whats-on/trouble-struggle-bubble-and-squeak-6wvb" target="_blank">Lowry</a> + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday-m2wx" target="_blank">WTF Wednesday</a>         
          
-Acclaimed visual artist and filmmaker Hetain Patel uses movement and audio interviews to explore generational change across his Brit-Gujarati family in *Mathroo Basha* (Mother Tongue in Gujarati).           
+Victoria Melody joined a historical re-enactment society because we all deal with divorce differently!         
          
-Following the passing of a number of first-generation immigrants in his family, British-born Hetain reflects on what is lost and what is transformed — revisiting rituals rooted in his family's working-class Brit-Gujarati experience.         
-          
-Responding physically to audio interviews of women from his family — speaking in Gujarati about inheritance, loss, and the future — Hetain delves into the emotional realities of generational change through personal movement explorations, where his body becomes the conduit…   
-         
-<iframe width="352" height="198" src="https://www.youtube.com/embed/ONAFW590t4A?si=fGCXP9Ke1vDzpCYH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>        
+Ever the obsessive, she uncovered the story of the 17th-century <a href="https://en.wikipedia.org/wiki/Diggers" target="_blank">Diggers</a>, who occupied common land. This investigation into their modern-day equivalents — community organisers and campaigners uses storytelling and stand-up to explore land, power and working-class resistance. 
+
+<iframe width="368" height="207" src="https://www.youtube.com/embed/e9VGbtnB6yY?si=lLYXCbO5S7HaTZUj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>         
          
 #### Entry          
 Pay What You Decide: £20/£15/£10/£5/£0 (advance booking recommended).        
          
 Tickets: available <a href="https://tickets.thelowry.com/events/wtf%20wednesday-%20mathroo%20basha%20by%20hetain%20patel/2025-11-12_20.00/lowry%20studio" target="_blank">online</a> or call Lowry on 0161 876 2000        
          
-Time: Wednesday 12 November 2025, 8pm (no interval, ends *about* 8.50pm).          
+Time: Wednesday 11 February 2026, 8pm (no interval, ends *about* 9pm).          
                        
 Location: <a href="https://thelowry.com/plan-your-visit-18cr" target="_blank">Lowry</a> (Aldridge Studio 1), Pier 8, The Quays, Salford M50 3AZ.         
         
 #### Access         
-Age Advisory: 7+ (parent/guardian/carer discretion).        
+Age Advisory: 14+ (parent/guardian/carer discretion).        
          
-Content Warning: includes the use of haze. ([See here](/warnings).)         
+Content Warning: short reference to violence/murder and sexual innuendo. ([See here](/warnings).)         
         
-Features: a contemporary dance performance work with varied content including spoken English and Gujarati; occurs in Aldridge Studio 1 on the second floor, a studio space with raked seating.         
+Features: a contemporary  performance work with varied content including spoken English; occurs in Aldridge Studio 1 on the second floor, a studio space with raked seating.         
          
 Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">Lowry</a> on 0161 876 2183 or <mailto:access@thelowry.com>       
                   
-#### Artist        
-London-based artist Hetain Patel has shown films, paintings, sculptures, photographs, and performance work in galleries and theatres. Hetain’s work explores identity and freedom — blending choreography, text, and popular culture.         
+#### Artists        
+Victoria Melody         
          
-His performance work *Be Like Water* was [shown by Word of Warning](/archive/2013-spring/patel) and his 2013 TED talk *Who Am I? Think Again* has been viewed over 3 million times.            
+Mark Thomas         
+
+#### Reviews         
+AMEND         
+★★★★ “a joyful testament to people power, a heartening parable about the possibility of collective action” - The Guardian
+
+“a delightfully oddball solo account where she finds wonderful people, everyday heroes, in 
+and out of armor” - The New Yorker
+
+★★★★ “a hymn to community and solidarity” - The Stage
+
+★★★★ “a moving and inspirational comic call to arms” - The List
+
+★★★★ “I doubt that there will be many shows that restore your faith in community more" - The Quintessential Review
          
 #### Credits         
-Creator & Performer: Hetain Patel<br>Rehearsal Director: Vidya Patel<br>Costume: Holly Waddington, Lee Yaroshevski, Malin Anderson<br>Creative Programmer: Clancy Flynn<br>Interviewees: Leela Patel, Nina Chaagan, Lola Perry, Mital Patel          
+*Trouble, Struggle, Bubble & Squeak* presented by Victoria Melody and Mark Thomas.         
          
-Commissioned by Dance Umbrella. Made possible with the support of the Cockayne Foundation and FABRIC International.         
+Writer & Performer: Victoria Melody<br>Director: Mark Thomas<br>Producer: Faith Dodkins<br>Sound Designer: Simon James<br>Design Consultant: Katharina Radeva<br>Lighting Designer: Sean xxx         
          
-Image: Foteini Christofilopoulou         
+Commissioned by Brighton Dome & Brighton Festival.<br>Supported by East Brighton Trust, Creative Crawley (as part of Creative Playground), Keep It Fringe, The Spring, and using public funding by the National Lottery through Arts Council England.<br>Developed with Crew Club, East Brighton Food Co-op, Friends of Whitehawk Hill, The English Civil War Society, and Woolly Umbrella.         
+         
+Image: xxx         
          
 #### Websites        
 <a href="https://hetainpatel.com" target="_blank">hetainpatel.com</a> · Facebook <a href="https://facebook.com/hetainpatel" target="_blank">/hetainpatel</a> · Insta <a href="https://instagram.com/patelhetain" target="_blank">@patelhetain</a>         
          
-<small><span style='font-variant: small-caps'>[back to top](/current/2025/patel)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/current/2026/melody)</span></small>
