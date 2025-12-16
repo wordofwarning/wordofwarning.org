@@ -8,8 +8,8 @@ artist: "Victoria Melody&nbsp;<br>&nbsp;dir. Mark Thomas" # the name of the arti
 show: "Trouble, Struggle,&nbsp;<br>&nbsp;Bubble & Squeak" # the name of the show
 artist_size: 2
 show_size: 2
-header_image: "header_.jpg"
-season: "Victoria Melody & Mark Thomas 11|2|2026, 8pm"
+header_image: "header_melody.jpg"
+season: "Victoria Melody 11|2|2026, 8pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -70,9 +70,9 @@ Writer & Performer: Victoria Melody<br>Director: Mark Thomas<br>Producer: Faith 
          
 Commissioned by Brighton Dome & Brighton Festival.<br>Supported by East Brighton Trust, Creative Crawley (as part of Creative Playground), Keep It Fringe, The Spring, and using public funding by the National Lottery through Arts Council England.<br>Developed with Crew Club, East Brighton Food Co-op, Friends of Whitehawk Hill, The English Civil War Society, and Woolly Umbrella.         
          
-Image: xxx         
+Image: Matt Stronge         
          
 #### Websites        
-AMEND <a href="https://hetainpatel.com" target="_blank">hetainpatel.com</a> · Facebook <a href="https://facebook.com/hetainpatel" target="_blank">/hetainpatel</a> · Insta <a href="https://instagram.com/patelhetain" target="_blank">@patelhetain</a>         
+<a href="https://victoriamelody.com" target="_blank">victoriamelody.com</a> · Insta <a href="https://instagram.com/victoriamelody_" target="_blank">@victoriamelody_</a>         
          
 <small><span style='font-variant: small-caps'>[back to top](/current/2026/melody)</span></small>
