@@ -63,5 +63,5 @@ Get a feel for [Turn](/hab/turn) with [2025's programme](/archive/2025-turn) and
 Image: Maelstrom Theatre in [Turn 2025](/archive/2025-turn) at Contact         
           
 #### Website         
-<a href="https://turnmcr.org" target="_blank">turnmcr.org</a         
+<a href="https://turnmcr.org" target="_blank">turnmcr.org</a>         
 <small><span style='font-variant: small-caps'>[back to top](/current/2026-turn)</span></small>
