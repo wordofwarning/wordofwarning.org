@@ -17,7 +17,7 @@ season: "Turn 20|3|2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 15 December 2025</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 16 December 2025, 09:45</small>        
         
 *Presented by* Word of Warning *+* Contact        
         
@@ -63,5 +63,5 @@ Get a feel for [Turn](/hab/turn) with [2025's programme](/archive/2025-turn) and
 Image: Maelstrom Theatre in [Turn 2025](/archive/2025-turn) at Contact         
           
 #### Website         
-<a href="https://turnmcr.org" target="_blank">TurnMcr.org</a> · Enquiries: <mailto:turn@habmcr.org>         
+<a href="https://turnmcr.org" target="_blank">turnmcr.org</a         
 <small><span style='font-variant: small-caps'>[back to top](/current/2026-turn)</span></small>
