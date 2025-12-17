@@ -4,10 +4,10 @@ layout: 2026-programme
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Victoria Melody&nbsp;<br>&nbsp;dir. Mark Thomas" # the name of the artist or company
+artist: "Victoria Melody&nbsp;<br>&nbsp;(dir. Mark Thomas)" # the name of the artist or company
 show: "Trouble, Struggle,&nbsp;<br>&nbsp;Bubble & Squeak" # the name of the show
-artist_size: 3
-show_size: 3
+artist_size: 2
+show_size: 2
 header_image: "header_melody.JPG"
 season: "Victoria Melody 11|2|2026, 8pm"
 
@@ -17,7 +17,7 @@ season: "Victoria Melody 11|2|2026, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2026/melody/#entry) · [access](/current/2026/melody/#access) · [artists](/current/2026/melody/#artists) · [reviews](/current/2026/melody/#reviews) · [credits](/current/2026/melody/#credits) · [websites](/current/2026/melody/#websites)</span>&ensp; <small>Updated 16 December 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2026/melody/#entry) · [access](/current/2026/melody/#access) · [artists](/current/2026/melody/#artists) · [reviews](/current/2026/melody/#reviews) · [credits](/current/2026/melody/#credits) · [websites](/current/2026/melody/#websites)</span>&ensp; <small>Updated 17 December 2025</small>        
          
 *Presented by* <a href="https://thelowry.com/whats-on/trouble-struggle-bubble-and-squeak-6wvb" target="_blank">Lowry</a> + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday-m2wx" target="_blank">WTF Wednesday</a>         
          
@@ -46,22 +46,12 @@ Features: a contemporary  performance work with varied content including spoken 
 Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">Lowry</a> on 0161 876 2183 or <mailto:access@thelowry.com>       
                   
 #### Artists        
-Victoria Melody ADD        
+Victoria Melody… ADD BIO        
          
-Mark Thomas ADD        
+Mark Thomas… ADD BIO       
 
 #### Reviews         
-AMEND         
-★★★★ “a joyful testament to people power, a heartening parable about the possibility of collective action” - The Guardian
-
-“a delightfully oddball solo account where she finds wonderful people, everyday heroes, in 
-and out of armor” - The New Yorker
-
-★★★★ “a hymn to community and solidarity” - The Stage
-
-★★★★ “a moving and inspirational comic call to arms” - The List
-
-★★★★ “I doubt that there will be many shows that restore your faith in community more" - The Quintessential Review
+>★★★★ *a joyful testament to people power and a heartening parable about the possibility of collective action* — <a href="https://www.theguardian.com/stage/2025/aug/11/trouble-struggle-bubble-and-squeak-review-pleasance-courtyard-edinburgh" target="_blank">The Guardian</a><br>*a delightfully oddball solo account … where she finds wonderful people, everyday heroes, in and out of armor* — <a href="https://www.newyorker.com/culture/the-theatre/a-season-of-unease-at-the-edinburgh-festival" target="_blank">The New Yorker</a><br>★★★★ *hymn to community and solidarity* — <a href="https://www.thestage.co.uk/reviews/trouble-struggle-bubble-and-squeak-review-pleasance-courtyard-edinburgh-victoria-melody" target="_blank">The Stage</a><br>★★★★ *a moving and inspirational comic call to arms* — <a href="https://list.co.uk/news/trouble-struggle-bubble-squeak-theatre-review-the-right-side-of-history-47076" target="_blank">The List</a><br>★★★★ *I doubt there will be many, if any, shows at the Fringe this year which will restore your faith in humanity more* — <a href="URL" target="_blank">The Quinntessential Review</a>         
          
 #### Credits         
 *Trouble, Struggle, Bubble & Squeak* presented by Victoria Melody and Mark Thomas.         
