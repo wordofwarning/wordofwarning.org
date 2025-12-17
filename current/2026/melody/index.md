@@ -6,8 +6,8 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Victoria Melody&nbsp;<br>&nbsp;(dir. Mark Thomas)" # the name of the artist or company
 show: "Trouble, Struggle,&nbsp;<br>&nbsp;Bubble & Squeak" # the name of the show
-artist_size: 2
-show_size: 2
+artist_size: 3
+show_size: 3
 header_image: "header_melody.JPG"
 season: "Victoria Melody 11|2|2026, 8pm"
 
@@ -17,7 +17,7 @@ season: "Victoria Melody 11|2|2026, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2026/melody/#entry) · [access](/current/2026/melody/#access) · [artists](/current/2026/melody/#artists) · [reviews](/current/2026/melody/#reviews) · [credits](/current/2026/melody/#credits) · [websites](/current/2026/melody/#websites)</span>&ensp; <small>Updated 17 December 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2026/melody/#entry) · [access](/current/2026/melody/#access) · [artists](/current/2026/melody/#artists) · [reviews](/current/2026/melody/#reviews) · [credits](/current/2026/melody/#credits) · [websites](/current/2026/melody/#websites)</span>&ensp; <small>Updated 17 December 2025, 4pm</small>        
          
 *Presented by* <a href="https://thelowry.com/whats-on/trouble-struggle-bubble-and-squeak-6wvb" target="_blank">Lowry</a> + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday-m2wx" target="_blank">WTF Wednesday</a>         
          
