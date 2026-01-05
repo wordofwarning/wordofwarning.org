@@ -73,6 +73,6 @@ Commissioned by Brighton Dome & Brighton Festival with financial support from Ea
 Image: Matt Stronge         
          
 #### Websites        
-<a href="https://victoriamelody.com" target="_blank">victoriamelody.com</a> · Insta <a href="https://instagram.com/victoriamelody_" target="_blank">@victoriamelody_</a>         
+<a href="https://victoriamelody.com" target="_blank">victoriamelody.com</a> · Insta&nbsp;<a href="https://instagram.com/victoriamelody_" target="_blank">@victoriamelody_</a>         
          
 <small><span style='font-variant: small-caps'>[back to top](/current/2026/melody)</span></small>
