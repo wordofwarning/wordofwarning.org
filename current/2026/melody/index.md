@@ -17,17 +17,19 @@ season: "Victoria Melody 11|2|2026, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2026/melody/#entry) · [access](/current/2026/melody/#access) · [artist](/current/2026/melody/#artist) · [reviews](/current/2026/melody/#reviews) · [credits](/current/2026/melody/#credits) · [websites](/current/2026/melody/#websites)</span>&ensp; <small>Updated 5 January 2026, 2pm</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2026/melody/#entry) · [access](/current/2026/melody/#access) · [artist](/current/2026/melody/#artist) · [reviews](/current/2026/melody/#reviews) · [credits](/current/2026/melody/#credits) · [websites](/current/2026/melody/#websites)</span>&ensp; <small>Updated 5 January 2026, 2.45pm</small>        
          
 *Presented by* <a href="https://thelowry.com/whats-on/trouble-struggle-bubble-and-squeak-6wvb" target="_blank">Lowry</a> + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday-m2wx" target="_blank">WTF Wednesday</a>         
          
-Award-winning theatre maker and "Fringe legend" (Time Out), Victoria Melody joined a historical re-enactment society… because we all deal with divorce differently!          
+**Award-winning theatre maker and "Fringe legend" (Time Out), Victoria Melody joined a historical re-enactment society… because we all deal with divorce differently!**          
           
 Spending weekends as a Musketeer trying to get her head straight, she uncovered the story of a bunch of 17th-century radicals called <a href="https://en.wikipedia.org/wiki/Diggers" target="_blank">Diggers</a> — and everything changed.          
          
 What started as a personal search for happiness turned into a quest to find the Diggers of today. She didn't expect to find them far from the battlefield, right on her doorstep.          
           
-Blending storytelling and stand-up, past and present collide in this tale of high jinks and resistance. Directed by Mark Thomas, this show celebrates the ordinary people still shaping history.         
+Blending storytelling and stand-up, past and present collide in this tale of high jinks and resistance.         
+         
+Directed by Mark Thomas, this show celebrates the ordinary people still shaping history.         
          
 <iframe width="368" height="207" src="https://www.youtube.com/embed/e9VGbtnB6yY?si=lLYXCbO5S7HaTZUj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>         
          
