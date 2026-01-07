@@ -17,13 +17,13 @@ season: "Victoria Melody 11|2|2026, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2026/melody/#entry) · [access](/current/2026/melody/#access) · [artist](/current/2026/melody/#artist) · [reviews](/current/2026/melody/#reviews) · [credits](/current/2026/melody/#credits) · [websites](/current/2026/melody/#websites)</span>&ensp; <small>Updated 5 January 2026, 3pm</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2026/melody/#entry) · [access](/current/2026/melody/#access) · [artist](/current/2026/melody/#artist) · [reviews](/current/2026/melody/#reviews) · [credits](/current/2026/melody/#credits) · [websites](/current/2026/melody/#websites)</span>&ensp; <small>Updated 7 January 2026</small>        
          
 *Presented by* <a href="https://thelowry.com/whats-on/trouble-struggle-bubble-and-squeak-6wvb" target="_blank">Lowry</a> + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday-m2wx" target="_blank">WTF Wednesday</a>         
          
 Award-winning theatre maker and "Fringe legend" (Time Out), Victoria Melody joined a historical re-enactment society… because we all deal with divorce differently!          
           
-Spending weekends as a Musketeer trying to get her head straight, she uncovered the story of a bunch of 17th-century radicals called <a href="https://en.wikipedia.org/wiki/Diggers" target="_blank">Diggers</a> — and everything changed.          
+Spending weekends as a Musketeer trying to get her head straight, Victoria uncovered the story of a bunch of 17th-century radicals called the <a href="https://en.wikipedia.org/wiki/Diggers" target="_blank">Diggers</a> — and everything changed.          
          
 What started as a personal search for happiness turned into a quest to find the Diggers of today. She didn't expect to find them far from the battlefield, right on her doorstep.          
           
