@@ -17,7 +17,7 @@ season: "Victoria Melody 11|2|2026, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2026/melody/#entry) · [access](/current/2026/melody/#access) · [artist](/current/2026/melody/#artist) · [reviews](/current/2026/melody/#reviews) · [credits](/current/2026/melody/#credits) · [websites](/current/2026/melody/#websites)</span>&ensp; <small>Updated 7 January 2026</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2026/melody/#entry) · [access](/current/2026/melody/#access) · [artist](/current/2026/melody/#artist) · [reviews](/current/2026/melody/#reviews) · [credits](/current/2026/melody/#credits) · [websites](/current/2026/melody/#websites)</span>&ensp; <small>Updated 8 January 2026</small>        
          
 *Presented by* <a href="https://thelowry.com/whats-on/trouble-struggle-bubble-and-squeak-6wvb" target="_blank">Lowry</a> + Word of Warning *as a* <a href="https://thelowry.com/wtf-wednesday-m2wx" target="_blank">WTF Wednesday</a>         
          
@@ -45,9 +45,9 @@ Location: <a href="https://thelowry.com/plan-your-visit-18cr" target="_blank">Lo
 #### Access         
 Age Advisory: 14+ (parent/guardian/carer discretion).        
          
-Content Warning: short reference to violence/murder and sexual innuendo. ([See here](/warnings).)         
+Content Warnings: please click [here](/warnings).         
         
-Features: a contemporary  performance work with varied content including spoken English; occurs in Aldridge Studio 1 on the second floor, a studio space with raked seating.         
+Features: a contemporary performance work with varied content including spoken English; occurs in Aldridge Studio 1 on the second floor, a studio space with raked seating.         
          
 Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">Lowry</a> on 0161 876 2183 or <mailto:access@thelowry.com>       
                   
