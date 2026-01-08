@@ -21,9 +21,9 @@ season: "Social Experiment 2025"
          
 *Presented by* Word of Warning + Contact         
          
-**Social Experiment** is a gathering at <a href="https://contactmcr.com" target="_blank">Contact</a> for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
+**[Social Experiment](/socialexperiment)** is a gathering at <a href="https://contactmcr.com" target="_blank">Contact</a> for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
           
-A free and informal, semi-regular evening event — [see some images](/galleries/2025-socex) from 2025's gatherings.         
+A free and informal, semi-regular evening event — [see some images](/galleries/2025-socex) from 2025.         
           
 If you're a Greater Manchester artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
          
