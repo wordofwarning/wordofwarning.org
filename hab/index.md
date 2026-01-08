@@ -8,7 +8,7 @@ season: "hÅb homepage"
 ---
 ### Stimulating… extraordinary… performance…   
         
-<small>Updated 28 August 2025</small>        
+<small>Updated 8 January 2026</small>        
         
 hÅb is a Manchester-based producer, developer, and strategic advocate of Live Art, contemporary performance, and sited work in the North of England.        
         
@@ -16,8 +16,8 @@ hÅb is a Manchester-based producer, developer, and strategic advocate of Live A
           
 Essentially industry-facing, hÅb works with [artists, peers, venues, and others](/hab/partners) to create the best possible [opportunities](/news/#artists) for new work to flourish. We also offer free 30-minute [Advice Sessions](/hab/advice) on Mondays with Tamsin Drury via Zoom.          
         
-hÅb is supported using public funding by <a href="https://www.artscouncil.org.uk/NationalPortfolio23" target="_blank">Arts Council England (a National Portfolio Organisation)</a>. hÅb is also a <a href="http://divergencymcr.org" target="_blank">Divergency</a> core partner — encouraging diversity in Live Art; a <a href="https://manchesterindependents.org" target="_blank">Manchester Independents</a> lead partner — highlighting independent Greater Manchester artists; and a member of <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, <a href="https://g-mast.org" target="_blank">GMAST</a>, GM LGBTQ+ Arts & Culture Network, and <a href="http://liveartuk.org" target="_blank">Live Art UK</a>.                 
-       
+hÅb is supported using public funding by <a href="https://www.artscouncil.org.uk/NationalPortfolio23" target="_blank">Arts Council England (a National Portfolio Organisation)</a>. hÅb is also a <a href="http://divergencymcr.org" target="_blank">Divergency</a> core partner (encouraging diversity in Live Art); a <a href="https://manchesterindependents.org" target="_blank">Manchester Independents</a> lead partner (highlighting independent Greater Manchester artists); and a member of <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a>, <a href="https://g-mast.org" target="_blank">GMAST</a>, the <a href="https://lgbt.foundation/connecting-communities" target="_blank">GM LGBTQ+ Arts and Culture Network</a>, and <a href="http://liveartuk.org" target="_blank">Live Art UK</a>.         
+         
 Since January 2012, hÅb has been 'public' in the guise of [Word of Warning](/) — a peripatetic programme of, and online signpost to, contemporary live work in Manchester + beyond… ***NB** this part of our site aims to offer **information to artists** wishing to know more about hÅb's work and how to get involved; for information on our public-facing programme please see [Word of Warning](/).*       
         
 From [Emergency](/hab/emergency), our annual micro-festival for new live work with <a href="https://contactmcr.com" target="_blank">Contact</a>, presenting about 25 short works in a day every autumn; through to [Works Ahead](/hab/worksahead), a series of small commissions for new work — hÅb aims to provide a joined-up set of opportunities for emerging new work and artists in Live Art, contemporary performance, and sited work.         
