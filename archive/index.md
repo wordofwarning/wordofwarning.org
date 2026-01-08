@@ -5,10 +5,10 @@ season: "Archive"
 
 archived:
     - {folder: "2025", name: "Programme 2025", class: "a2025"}
-    - {folder: "2025-emergency", name: "Social Experiment 2025", class: "se2025"}
+    - {folder: "2025-socialexperiment", name: "Social Experiment 2025", class: "se2025"}
     - {folder: "2025-emergency", name: "Emergency 25", class: "e2021"}
     - {folder: "2025-haphazard", name: "Haphazard 2025", class: "h2025"}
-    - {folder: "2025-worksahead", name: "Works Ahead 2025)", class: "w2025"}
+    - {folder: "2025-worksahead", name: "Works Ahead 2025", class: "w2025"}
     - {folder: "2025-turn", name: "Turn 2025", class: "t2025"}
     - {folder: "2024", name: "Programme 2024", class: "p2024"}
     - {folder: "2024-emergency", name: "Emergency 24", class: "e2021"}
@@ -88,4 +88,4 @@ archived:
     
 ---
 # Archive
-Discover our previous events below…&emsp;<small>Updated 9 January 2025<small>
+Discover our previous programme of events below…&emsp;<small>Updated 8 January 2026<small>
