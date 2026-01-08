@@ -8,9 +8,9 @@ artist_size: 1
 season: "Performance Programme 2026"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2026/#about) · [audiences](/current/2026/#audiences) · [by](/current/2026/#by) · [people](/current/2026/#people) · [warnings](/current/2026/#warnings)</span>&ensp; <small>Updated 8 January 2026</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2026/#about) · [what](/current/2026/#art) · [by](/current/2026/#by) · [people](/current/2026/#people) · [warnings](/current/2026/#warnings)</span>&ensp; <small>Updated 8 January 2026</small>        
          
-*First up this year is [Victoria Melody](/current/2026/melody)'s tale of high jinks and resistance — followed by more of our informal [Social Experiments](/socialexperiment) and [Turn](/current/2026-turn)'s whirlwind of dance — with more to be announced during spring…*          
+*First up this year is [Victoria Melody](/current/2026/melody)'s tale of high jinks and resistance — followed by some informal [Social Experiments](/socialexperiment) and [Turn](/current/2026-turn)'s whirlwind of dance — with more events to be announced…*          
           
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
@@ -26,7 +26,7 @@ Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful, a
 We take live work very seriously — but we don't take ourselves seriously at all. Over the past fourteen or so years we've shown funny, thought-provoking, and beautiful work by the likes of Action Hero, Avital Raz, Chanje Kunda, Cheryl Martin, Darren Pritchard, Deborah Pearson, ELOINA, Fabíola Santana, FK Alexander, Harry Clayton-Wright, Hetain Patel, Jo Bannon, Kim Noble, Malandra Jacks, Michael Pinchbeck, Proto-type Theater, Richard DeDomenici, Ron Athey, WilL Dickie, Stacy Makishi, Two Destination Language, and Uncurbed Collective (amongst others).         
 <small><span style='font-variant: small-caps'>[back to top](/current/2026)</span></small>         
          
-#### Audiences         
+#### What         
 We don't want to put you off by talking art form labels — yes, there'll be theatre, Live Art, performance, dance, etc. — as our aim is to be anything but elitist or po-faced. So, if you like comedy, music, gaming, or want a friendly, stimulating evening — there'll be something you might want to take a chance on…         
 >*Astonishing. Like nothing else. Transformative, immersive, moving.*<br>*Always special, bringing the unexpected and intriguing, thank you.*<br>*Fabulous for seeing things different from the mainstream machine.<br>Really important and interesting work, different to everything else.*<br>&nbsp;— Audience feedback          
          
