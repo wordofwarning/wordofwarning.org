@@ -20,7 +20,7 @@ season: "Social Experiment by hÅb"
         
 **[Social Experiment](/socialexperiment)** is a gathering at <a href="https://contactmcr.com" target="_blank">Contact</a> for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
          
-A free and informal, semi-regular evening event with the next on Thursday **19 February** from 6pm to 9pm (a Queer Contact Edition)** — followed by Thursdays **9 April** and **11 June** 2026.         
+A free and informal, semi-regular evening event with the next on Thursday **19 February** from 6pm to 9pm (a Queer Contact Edition) — followed by Thursdays **9 April** and **11 June** 2026.         
          
 If you're a Greater Manchester artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
          
