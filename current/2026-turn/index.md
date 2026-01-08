@@ -17,11 +17,11 @@ season: "Turn 20|3|2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 16 December 2025, 09:45</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 8 January 2026</small>        
         
 *Presented by* Word of Warning *+* Contact        
         
-Our annual whirlwind of new North West dance takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Friday 20 March from 7pm**…         
+Our annual whirlwind of new North West dance takes over <a href="https://contactmcr.com/events/turn-2026" target="_blank">Contact</a> on **Friday 20 March from 7pm**…         
          
 Get a feel for Turn with [images from last year's event](/galleries/2025-turn).          
           
@@ -33,7 +33,7 @@ Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn
 #### Entry         
 Pay What You Decide: £20/£15/£10/£5/£0 (advance booking recommended).        
          
-Tickets: available <a href="https://contactmcr.com" target="_blank">online via Contact</a> from mid-January.         
+Tickets: available <a href="https://contactmcr.com/events/turn-2026" target="_blank">online via Contact</a> from 9 January.         
          
 Time: Friday 20 March 2026, 7pm (with interval/pauses, ends *about* 10pm).         
              
