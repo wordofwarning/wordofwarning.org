@@ -8,9 +8,9 @@ artist_size: 1
 season: "Performance Programme 2026"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2026/#about) · [what](/current/2026/#art) · [by](/current/2026/#by) · [people](/current/2026/#people) · [warnings](/current/2026/#warnings)</span>&ensp; <small>Updated 8 January 2026</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2026/#about) · [what](/current/2026/#what) · [by](/current/2026/#by) · [people](/current/2026/#people) · [warnings](/current/2026/#warnings)</span>&ensp; <small>Updated 8 January 2026</small>        
          
-*First up this year is [Victoria Melody](/current/2026/melody)'s tale of high jinks and resistance — followed by some informal [Social Experiments](/socialexperiment) and [Turn](/current/2026-turn)'s whirlwind of dance — with more events to be announced…*          
+*First up this year is [Victoria Melody](/current/2026/melody)'s tale of high jinks and resistance — followed by some informal [Social Experiments](/socialexperiment) and [Turn](/current/2026-turn)'s whirlwind of dance — with more Spring/Summer events to be announced…*          
           
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
