@@ -17,7 +17,7 @@ season: "Turn 20|3|2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 8 January 2026</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 8 January 2026</small>        
         
 *Presented by* Word of Warning *+* Contact        
         
@@ -49,7 +49,7 @@ Features: *up to ten* contemporary dance performance works with varied content; 
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### About         
-Our annual platform for North West dancers and dance-makers, [Turn](/hab/turn) is an opportunity to engage with new dance in Greater Manchester every spring.<br>This thirteenth edition will present *up to ten* short dance-works over a single night throughout <a href="https://contactmcr.com" target="_blank">Contact</a>'s building and its multiple spaces.<br>*NB* Friday's public platform is followed by an artist day for participants only.         
+Our annual platform for North West dancers and dance-makers, [Turn](/hab/turn) is an opportunity to engage with new dance in Greater Manchester every spring.<br>This thirteenth edition will present *up to ten* short dance-works over a single night throughout <a href="https://contactmcr.com" target="_blank">Contact</a>'s building and its multiple spaces.         
         
 Greater Manchester's open call dance platform, [Turn](/hab/turn) aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— and is open to <a href="http://en.wikipedia.org/wiki/North_West_England" target="_blank">North West England</a> dancers and dance-makers, aged 18+         
         
