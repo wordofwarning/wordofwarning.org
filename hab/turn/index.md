@@ -16,13 +16,13 @@ season: "Turn by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 12 December 2025</small>        
+<small>Updated 8 January 2026</small>        
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester every spring.    
              
-The thirteenth edition, Turn 2026 will take place at <a href="https://contactmcr.com" target="_blank">Contact</a> on **Friday 20 March from 7pm** — presenting *up to ten* short dance-works throughout the building.         
+The thirteenth edition, **[Turn 2026](/current/2026-turn)** will take place at <a href="https://contactmcr.com" target="_blank">Contact</a> on **Friday 20 March from 7pm** — presenting *up to ten* short dance-works throughout the building.         
          
-Get a feel for it with [2025's programme](/current/2025-turn/programme) and [gallery of images](/galleries/2025-turn); [2024's programme](/archive/2024-turn/programme) and [gallery](/galleries/2024-turn); [2023's programme](/archive/2023-turn/programme) and [gallery](/galleries/2023-turn).         
+Get a feel for it with [2025's programme](/archive/2025-turn/programme) and [gallery of images](/galleries/2025-turn); [2024's programme](/archive/2024-turn/programme) and [gallery](/galleries/2024-turn); [2023's programme](/archive/2023-turn/programme) and [gallery](/galleries/2023-turn).         
         
 Greater Manchester's annual open call dance platform, Turn aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— and is open to North West England† dancers and dance-makers, aged 18+          
          
@@ -35,7 +35,7 @@ North West England† dancers and dance-makers (*aged 18+*) <a href="http://turn
          
 Turn 2026 is:<br>— a **single evening of public performances on Friday 20 March**;<br>— followed by an **artist day on Saturday 21 March**, incorporating a workshop or masterclasses and feedback sessions;<br>— and participating artists will be expected to attend **both** days.         
          
-Turn 2026 presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://cheshiredance.org" target="_blank">Cheshire Dance</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England. Thanks to <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>.         
+[Turn 2026](/current/2026-turn) presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://cheshiredance.org" target="_blank">Cheshire Dance</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England. Thanks to <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>.         
          
 Enquiries: <mailto:turn@habmcr.org> · <a href="http://turnmcr.org" target="_blank">turnmcr.org</a>         
          
@@ -48,13 +48,13 @@ After a hiatus the tenth edition returned to <a href="https://contactmcr.com" ta
           
 The eleventh edition took place at <a href="https://companychameleon.com" target="_blank">Company Chameleon Studios</a>, with eight short dance-works in just the one studio ([see images](/galleries/2024-turn)) on [**22 March 2024**](/archive/2024-turn), also followed by an artist day.          
 
-The twelfth edition returned to <a href="https://contactmcr.com" target="_blank">Contact</a>, with eight short dance-works across three spaces ([see images](/galleries/2025-turn)) on [**4 April 2025**](/current/2025-turn), followed again by an artist day.         
+The twelfth edition returned to <a href="https://contactmcr.com" target="_blank">Contact</a>, with eight short dance-works across three spaces ([see images](/galleries/2025-turn)) on [**4 April 2025**](/archive/2025-turn), followed again by an artist day.         
          
 #### Turn Prize 2024         
 On 30 April 2024 we were delighted to announce Fabíola Santana and Louiseanne Wong as the recipients of the Turn Prize [2024](/archive/2024-turn).<br>The Turn Prize is a commission for the development of work shown at Turn by North West-based dance-makers, in [2024](/archive/2024-turn) supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> using public funding by Arts Council England, and by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>.         
          
-Fabíola Santana showed *We're Here Because They Were* at [Company Chameleon](/current/2025/santana) on 29 May 2025, and a work in progress at <a href="https://unitytheatreliverpool.co.uk/whats-on/were-here-because-they-were" target="_blank">Unity Theatre, Liverpool</a> on 23 April 2025.         
+Fabíola Santana showed *We're Here Because They Were* at [Company Chameleon](/archive/2025/santana) on 29 May 2025, and a work in progress at <a href="https://unitytheatreliverpool.co.uk/whats-on/were-here-because-they-were" target="_blank">Unity Theatre, Liverpool</a> on 23 April 2025.         
          
 Louiseanne Wong showed a preview of *I Am. Am I* in the <a href="https://thelowry.com/pQW3zUL/horizons-collective-showcase" target="_blank">Horizons Collective Showcase</a> at <a href="https://thelowry.com/whats-on/336//horizons-collective-showcase" target="_blank">Lowry</a> on 12 February 2025.        
          
-Image: Maelstrom Theatre in [Turn 2025](/current/2025-turn) at Contact
+Image: Maelstrom Theatre in [Turn 2025](/archive/2025-turn) at Contact
