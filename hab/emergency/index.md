@@ -28,7 +28,7 @@ Manchester's annual Live Art & performance platform, Emergency aims to be:<br>�
         
 We usually expect to present about 25 works at each year's platform — if you would like to take part in what is *probably* England's longest-running Live Art event, please check back for our next open call in June 2026…         
           
-Emergency 25 presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
+[Emergency 25](/archive/2025-emergency) presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
         
 Enquiries: <mailto:emergency@habmcr.org> · <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a>         
          
@@ -51,3 +51,4 @@ Unbelievably — or maybe all too believably — in 2025 Emergency is celebratin
 Emergency 25 combines an Afternoon of durational, installation, intervention, and limited capacity work; followed by an Evening of short (*max 20 min*) show-type pieces of work, works-in-progress, or extracts of longer work.         
         
 **For details please visit <a href="https://emergencymcr.posthaven.com" target="_blank">emergencymcr.posthaven.com</a><br>Proposal Deadline: Friday 8 August 2025, 5pm**
+
