@@ -10,7 +10,7 @@ season: "Performance Programme 2025"
 ---
 <span style='font-variant: small-caps'>→ [about](/archive/2025/#about) · [audiences](/archive/2025/#audiences) · [by](/archive/2025/#by) · [people](/archive/2025/#people) · [warnings](/archive/2025/#warnings)</span>&ensp; <small>Updated 8 January 2026</small>         
          
-*The year saw five new [Social Experiments](/socialexperiment), [Kellie Colbert](/archive/2025/colbert)'s dedication of love, [Turn](/archive/2025-turn)'s whirlwind of dance, a pair of [Works Ahead](/archive/2025-worksahead), [Fabíola Santana](/archive/2025/santana)'s movement ritual, [Haphazard](/archive/2025-haphazard)'s all ages antics, [Emergency](/archive/2025-emergency)'s day out for the curious, [Hetain Patel](/archive/2025/patel)'s moving reflections, and [Malandra Jacks](/archive/2025/malandrajacks)' love letter to working-class communities…*         
+*The year saw five new [Social Experiments](/archive/2025-socialexperiment), [Kellie Colbert](/archive/2025/colbert)'s dedication of love, [Turn](/archive/2025-turn)'s whirlwind of dance, a pair of [Works Ahead](/archive/2025-worksahead), [Fabíola Santana](/archive/2025/santana)'s movement ritual, [Haphazard](/archive/2025-haphazard)'s all ages antics, [Emergency](/archive/2025-emergency)'s day out for the curious, [Hetain Patel](/archive/2025/patel)'s moving reflections, and [Malandra Jacks](/archive/2025/malandrajacks)' love letter to working-class communities…*         
          
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
