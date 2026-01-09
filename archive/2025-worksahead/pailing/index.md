@@ -17,9 +17,9 @@ season: "Martha Pailing in Works Ahead 15–16|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/current/2025-worksahead/pailing/#artist) · [entry](/current/2025-worksahead/pailing/#entry) · [access](/current/2025-worksahead/pailing/#access) · [about](/current/2025-worksahead/pailing/#about) · [credits](/current/2025-worksahead/pailing/#credits) · [websites](/current/2025-worksahead/pailing/#websites)</span>&ensp; <small>Updated 13 May 2025</small>        
+<span style='font-variant: small-caps'>→ [artist](/archive/2025-worksahead/pailing/#artist) · [entry](/archive/2025-worksahead/pailing/#entry) · [access](/archive/2025-worksahead/pailing/#access) · [about](/archive/2025-worksahead/pailing/#about) · [credits](/archive/2025-worksahead/pailing/#credits) · [websites](/archive/2025-worksahead/pailing/#websites)</span>&ensp; <small>Updated 13 May 2025</small>        
         
-*Presented by* Word of Warning *+* Contact *in* [Works Ahead 2025](/current/2025-worksahead): *a double bill of new works-in-development from Martha and [Adèle Le Gallez](/current/2025-worksahead/legallez)*        
+*Presented by* Word of Warning *+* Contact *in* [Works Ahead 2025](/archive/2025-worksahead): *a double bill of new works-in-development from Martha and [Adèle Le Gallez](/archive/2025-worksahead/legallez)*        
          
 ***Failure To Thrive***         
          
@@ -63,4 +63,4 @@ A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/h
 #### Websites          
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a><br><a href="https://www.marthapailing.com" target="_blank">marthapailing.com</a> · Insta <a href="https://instagram.com/marthapailing" target="_blank">@marthapailing</a>        
         
-<small><span style='font-variant: small-caps'>[back to top](/current/2025-worksahead/pailing)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2025-worksahead/pailing)</span></small>
