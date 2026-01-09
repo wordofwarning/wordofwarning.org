@@ -15,13 +15,13 @@ season: "Haphazard 2|8|2025, 1-4pm"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [programme](/current/2025-haphazard/programme) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits)</span>&ensp; <small>Updated 7 August 2025</small>        
+<span style='font-variant: small-caps'>→ [artists](/archive/2025-haphazard/#artists) · [programme](/archive/2025-haphazard/programme) · [entry](/archive/2025-haphazard/#entry) · [access](/archive/2025-haphazard/#access) · [about](/archive/2025-haphazard/#about) · [credits](/archive/2025-haphazard/#credits)</span>&ensp; <small>Updated 7 August 2025</small>        
         
 *Presented by* Word of Warning *+* Z-arts           
          
 Playful, quirky, engaging, and sometimes plain daft: Haphazard is for kids and their adults, adults and *their* adults — anyone looking for a different day out!          
           
-From Frankendiva to Nigel Cabbage, a giant mushroom to a flying witch, and a haphazard attempt to find balance — look at some of our [artists’ images](/galleries/2025-haphazardpre) and read their [programme notes](/current/2025-haphazard/programme). Now it's over, see [images from the event](/galleries/2025-haphazard).         
+From Frankendiva to Nigel Cabbage, a giant mushroom to a flying witch, and a haphazard attempt to find balance — look at some of our [artists’ images](/galleries/2025-haphazardpre) and read their [programme notes](/archive/2025-haphazard/programme). Now it's over, see [images from the event](/galleries/2025-haphazard).         
            
 A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2025" target="_blank">Z-arts</a> **on Saturday 2 August from 1pm to 4pm**. Turn up at any time, come and go as you please… and expect the unexpected!         
          
@@ -58,4 +58,4 @@ Get a feel for it by looking at image galleries from [2024](/galleries/2024-haph
 <a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a><br>Aimee Williamson — Insta <a href="https://instagram.com/aimeelilywilliamson" target="_blank">@aimeelilywilliamson</a><br>Madame Zucchini — Insta <a href="https://instagram.com/madamezucchini" target="_blank">@madamezucchini</a>
 <br>Orla Collier — Insta <a href="https://instagram.com/orla.collier" target="_blank">@orla.collier</a><br>Pascaline Ruhana — Insta <a href="https://instagram.com/niarthene" target="_blank">@niartthene</a><br>Puppetfingers — Insta <a href="https://instagram.com/puppetfingers" target="_blank">@puppetfingers</a><br>Shannon Mulvey — Insta <a href="https://instagram.com/smperformanceart" target="_blank">@smperformanceart</a><br>the institute for crazy dancing — Insta <a href="https://instagram.com/icdancing" target="_blank">@icdancing</a><br>TurnAround Dance Theatre — Insta <a href="https://instagram.com/turnarounddance" target="_blank">@turnarounddance</a>         
         
-<small><span style='font-variant: small-caps'>[back to top](/current/2025-haphazard)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2025-haphazard)</span></small>
