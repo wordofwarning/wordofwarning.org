@@ -17,7 +17,7 @@ season: "Fabíola Santana 29|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/santana/#entry) · [access](/current/2025/santana/#access) · [workshop](/current/2025/santana/#workshop) · [artists](/current/2025/santana/#artists) · [credits](/current/2025/santana/#credits) · [websites](/current/2025/santana/#websites)</span>&ensp; <small>Updated 28 May 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/archive/2025/santana/#entry) · [access](/archive/2025/santana/#access) · [workshop](/archive/2025/santana/#workshop) · [artists](/archive/2025/santana/#artists) · [credits](/archive/2025/santana/#credits) · [websites](/archive/2025/santana/#websites)</span>&ensp; <small>Updated 28 May 2025</small>        
            
 *Presented by* Word of Warning *at* Company Chameleon         
          
@@ -71,4 +71,4 @@ Image: [Turn 2024](/archive/2024-turn) at Company Chameleon by Tamsin Drury
 #### Websites        
 <a href="https://fabiolasantana.co.uk" target="_blank">fabiolasantana.co.uk</a> · <a href="https://willdickie.co.uk" target="_blank">willdickie.co.uk</a><br>Insta <a href="https://instagram.com/fbs.santana" target="_blank">@fbs.santana</a> · <a href="https://instagram.com/jessicamorgado_" target="_blank">@jessicamorgado_</a> · <a href="https://instagram.com/will_dickie_" target="_blank">@will_dickie_</a> · <a href="https://instagram.com/kaiteoreillyo" target="_blank">@kaiteoreillyo</a>       
         
-<small><span style='font-variant: small-caps'>[back to top](/current/2025/santana)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2025/santana)</span></small>
