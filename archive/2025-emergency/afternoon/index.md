@@ -17,11 +17,11 @@ season: "Emergency 27|9|2025, Afternoon Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [afternoon](/current/2025-emergency/afternoon) · [evening](/current/2025-emergency/evening) · [entry](/current/2025-emergency/#entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated&nbsp;24&nbsp;September&nbsp;2025</small>         
+<span style='font-variant: small-caps'>→ [artists](/archive/2025-emergency/#artists) · [afternoon](/archive/2025-emergency/afternoon) · [evening](/archive/2025-emergency/evening) · [entry](/archive/2025-emergency/#entry) · [access](/archive/2025-emergency/#access) · [about](/archive/2025-emergency/#about) · [credits](/archive/2025-emergency/#credits)</span>&ensp; <small>Updated&nbsp;24&nbsp;September&nbsp;2025</small>         
          
 *Presented by* Word of Warning *+* Contact         
          
-[Emergency 25](/current/2025-emergency) is a day out for the curious at <a href="https://contactmcr.com/events/emergency-25" target="_blank">Contact</a> on Saturday 27 September. Read Afternoon Programme Notes below and see some of our [artists' images](/galleries/2025-emergencypre).         
+[Emergency 25](/archive/2025-emergency) is a day out for the curious at <a href="https://contactmcr.com/events/emergency-25" target="_blank">Contact</a> on Saturday 27 September. Read Afternoon Programme Notes below and see some of our [artists' images](/galleries/2025-emergencypre).         
          
 Content Warnings: please click [here](/warnings).         
          
@@ -135,4 +135,4 @@ Kris was born in County Down in the North of Ireland in 1980 and graduated from 
          
 <a href="https://www.kris-canavan.com" target="_blank">kris-canavan.com</a> · Insta <a href="https://instagram.com/kristina_canavan_" target="_blank">@kristina_canavan_</a>         
 <hr>         
-<small><span style='font-variant: small-caps'>[back to top](/current/2025-emergency/afternoon)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2025-emergency/afternoon)</span></small>
