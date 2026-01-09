@@ -17,7 +17,7 @@ season: "Kellie Colbert 13|3|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/colbert/#entry) · [access](/current/2025/colbert/#access) · [artist](/current/2025/colbert/#artist) · [credits](/current/2025/colbert/#credits) · [websites](/current/2025/colbert/#websites)</span>&ensp; <small>Updated 26 March 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/archive/2025/colbert/#entry) · [access](/archive/2025/colbert/#access) · [artist](/archive/2025/colbert/#artist) · [credits](/archive/2025/colbert/#credits) · [websites](/archive/2025/colbert/#websites)</span>&ensp; <small>Updated 26 March 2025</small>        
            
 *Presented by* Word of Warning + Contact<br>***NB* this performance is sold-out.**                  
          
@@ -67,4 +67,4 @@ Image: [Works Ahead 2023](/archive/2023-worksahead/colbert) at Contact by Tamsin
 #### Websites          
 Insta <a href="https://instagram.com/kellie.colbert.theatre" target="_blank">@kellie.colbert.theatre</a> · X <a href="https://x.com/imKellieColbert" target="_blank">@imKellieColbert</a>         
         
-<small><span style='font-variant: small-caps'>[back to top](/current/2025/colbert)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2025/colbert)</span></small>
