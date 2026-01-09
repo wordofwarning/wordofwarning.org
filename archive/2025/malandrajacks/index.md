@@ -17,7 +17,7 @@ season: "Malandra Jacks 20–22|11|2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2025/malandrajacks/#entry) · [access](/current/2025/malandrajacks/#access) · [artists](/current/2025/malandrajacks/#artists) · [reviews](/current/2025/malandrajacks/#reviews) · [credits](/current/2025/malandrajacks/#credits) · [websites](/current/2025/malandrajacks/#websites)</span>&ensp; <small>Updated 20 November 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/archive/2025/malandrajacks/#entry) · [access](/archive/2025/malandrajacks/#access) · [artists](/archive/2025/malandrajacks/#artists) · [reviews](/archive/2025/malandrajacks/#reviews) · [credits](/archive/2025/malandrajacks/#credits) · [websites](/archive/2025/malandrajacks/#websites)</span>&ensp; <small>Updated 8 January 2026</small>        
            
 *Presented by* Word of Warning + <a href="https://homemcr.org/whats-on/census-542n" target="_blank">HOME</a>         
          
@@ -34,13 +34,15 @@ Funny, intimate, and defiant — *Census* is a love letter to working-class comm
 † Winner of Best Performance at <a href="https://www.manchester.gov.uk/info/200070/museums_galleries_and_the_arts/7657/manchester_culture_awards_2024/3" target="_blank">Manchester Culture Awards 2024</a>.         
          
 <iframe width="352" height="198" src="https://www.youtube.com/embed/Bk3eFhuNyxE?si=9-asdBXGDkzN1mhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>        
+
+Now that it's over, read a review in <a href="https://morningstaronline.co.uk/article/when-working-class-community-tells-its-own-story" target="_blank">Morning Star</a>.         
          
 #### Entry          
 Tickets: care of HOME, book <a href="https://homemcr.org/spektrix/ChooseSeats?EventInstanceId=1409605AHTCVLSTTDHQVVPRTSGCHQQLPG" target="_blank">online</a> or call 0161 200 1500        
          
 Times:<br>Thursday 20 November 2025, 7.45pm (last few tickets)<br>Friday 21 November 2025, 7.45pm (last few tickets)<br>Saturday 22 November 2025, 2.15pm (last few tickets)<br>Saturday 22 November 2025, 7.45pm         
          
-Duration: about 75 minutes without interval.<br>(Thursday's show is followed by a 30-minute post-show Q&A.)          
+Duration: about 75 minutes without interval.<br>(Thursday's show followed by a 30-minute post-show Q&A.)          
          
 Location: <a href="https://homemcr.org/plan-your-visit-q15t" target="_blank">HOME</a> (Theatre 2), 2 Tony Wilson Place, Manchester M15 4FN.         
         
@@ -73,4 +75,4 @@ Thanks to all the people of Moston, Harpurhey, and Charlestown whose voices make
 #### Websites        
 <a href="https://malandrajacks.com" target="_blank">malandrajacks.com</a> · Facebook <a href="https://facebook.com/MalandraJacks" target="_blank">/MalandraJacks</a> · Insta <a href="https://instagram.com/malandra_jacks" target="_blank">@malandra_jacks</a>         
          
-<small><span style='font-variant: small-caps'>[back to top](/current/2025/malandrajacks)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2025/malandrajacks)</span></small>
