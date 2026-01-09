@@ -8,7 +8,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: "Turn 2025"
-more_url: "../../current/2025-turn"
+more_url: "../../archive/2025-turn"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small><i>A night of new dance, 4 April 2025</i></small> · UMAMI-i!-MOVEMENT by Joel Chester Fildes"}
