@@ -17,16 +17,16 @@ season: "Works Ahead 15–16|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [works](/current/2025-worksahead/#works) · [entry](/current/2025-worksahead/#entry) · [access](/current/2025-worksahead/#access) · [about](/current/2025-worksahead/#about) · [credits](/current/2025-worksahead/#credits) · [websites](/current/2025-worksahead/#websites)</span>&ensp; <small>Updated 11 June 2025</small>        
+<span style='font-variant: small-caps'>→ [works](/archive/2025-worksahead/#works) · [entry](/archive/2025-worksahead/#entry) · [access](/archive/2025-worksahead/#access) · [about](/archive/2025-worksahead/#about) · [credits](/archive/2025-worksahead/#credits) · [websites](/archive/2025-worksahead/#websites)</span>&ensp; <small>Updated 11 June 2025</small>        
         
 *Presented by* Word of Warning *+* Contact         
 
-Our annual sampler evening of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2025-2" target="_blank">Contact</a> on **Thursday 15 and Friday 16 May at 7.30pm** with a double bill of new works-in-development from [Adèle Le Gallez](/current/2025-worksahead/legallez) and [Martha Pailing](/current/2025-worksahead/pailing)…          
+Our annual sampler evening of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2025-2" target="_blank">Contact</a> on **Thursday 15 and Friday 16 May at 7.30pm** with a double bill of new works-in-development from [Adèle Le Gallez](/archive/2025-worksahead/legallez) and [Martha Pailing](/archive/2025-worksahead/pailing)…          
           
 Now it's over, see [images from the event](/galleries/2025-woah).          
          
 #### Works        
-**[*Landings* by Adèle Le Gallez](/current/2025-worksahead/legallez)**         
+**[*Landings* by Adèle Le Gallez](/archive/2025-worksahead/legallez)**         
          
 A missing church on Orkney.<br>An only child in Oldham.<br>A relief for those in free-fall, and a retreat for those in crisis.         
          
@@ -34,7 +34,7 @@ Live sound experiment, demonstration, and storytelling.
          
 Adèle is a writer, sound-artist, and performer.         
          
-**[*Failure To Thrive* by Martha Pailing](/current/2025-worksahead/pailing)**         
+**[*Failure To Thrive* by Martha Pailing](/archive/2025-worksahead/pailing)**         
           
 *"Touch is the first sensory system to develop in the foetus."*<br>What does it mean to be held, to be nurtured, to be known?         
          
@@ -71,4 +71,4 @@ A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/h
 #### Websites          
 <a href="http://worksahead.org" target="_blank">WorksAhead.org</a><br>Adèle Le Gallez — <a href="https://adelegallez.wixsite.com/portfolio" target="_blank">adelegallez.wixsite.com</a> · Insta <a href="https://instagram.com/adele.legallez" target="_blank">@adele.legallez</a><br>Martha Pailing — <a href="https://www.marthapailing.com" target="_blank">marthapailing.com</a> · Insta <a href="https://instagram.com/marthapailing" target="_blank">@marthapailing</a>        
         
-<small><span style='font-variant: small-caps'>[back to top](/current/2025-worksahead)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2025-worksahead)</span></small>
