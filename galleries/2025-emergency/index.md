@@ -8,7 +8,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: Emergency 25
-more_url: "../../current/2025-emergency"
+more_url: "../../archive/2025-emergency"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small><i>A day out for the curious at Contact, 27 Sep 2025</i></small> · Action Hero"}
