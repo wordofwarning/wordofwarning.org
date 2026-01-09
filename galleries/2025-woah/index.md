@@ -8,7 +8,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: "Works Ahead 2025"
-more_url: "../../current/2025-worksahead"
+more_url: "../../archive/2025-worksahead"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small><i>Works Ahead at Contact, 15+16 May 2025</i> · Martha Pailing</small>", show: "<small>All images &copy; 2025 Word of Warning</small>"}
