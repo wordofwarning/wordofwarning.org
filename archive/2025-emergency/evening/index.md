@@ -17,11 +17,11 @@ season: "Emergency 27|9|2025, Evening Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-emergency/#artists) · [afternoon](/current/2025-emergency/afternoon) · [evening](/current/2025-emergency/evening) · [entry](/current/2025-emergency/#entry) · [access](/current/2025-emergency/#access) · [about](/current/2025-emergency/#about) · [credits](/current/2025-emergency/#credits)</span>&ensp; <small>Updated&nbsp;26&nbsp;September&nbsp;2025</small>                  
+<span style='font-variant: small-caps'>→ [artists](/archive/2025-emergency/#artists) · [afternoon](/archive/2025-emergency/afternoon) · [evening](/archive/2025-emergency/evening) · [entry](/archive/2025-emergency/#entry) · [access](/archive/2025-emergency/#access) · [about](/archive/2025-emergency/#about) · [credits](/archive/2025-emergency/#credits)</span>&ensp; <small>Updated&nbsp;26&nbsp;September&nbsp;2025</small>                  
          
 *Presented by* Word of Warning *+* Contact         
          
-[Emergency 25](/current/2025-emergency) is a day out for the curious at <a href="https://contactmcr.com/events/emergency-25" target="_blank">Contact</a> on Saturday 27 September. Read Evening Programme Notes below and see some of our [artists' images](/galleries/2025-emergencypre).         
+[Emergency 25](/archive/2025-emergency) is a day out for the curious at <a href="https://contactmcr.com/events/emergency-25" target="_blank">Contact</a> on Saturday 27 September. Read Evening Programme Notes below and see some of our [artists' images](/galleries/2025-emergencypre).         
          
 Content Warnings: please click [here](/warnings).         
         
@@ -50,7 +50,7 @@ Please note: raw meat is used during the performance; out of respect for the ani
          
 A playful exploration of life's messy, unplanned moments and milestones through the lens of a party gone awry. Two performers invite the audience into a fun but awkward celebration filled with confetti and confessions. Blending humour and vulnerability, this piece captures the experience of navigating unexpected loss, unmet expectations, and quiet resilience. Through play, partying, and friendship it celebrates survival over perfection, offering a bittersweet reflection on what it means to keep showing up when life doesn't go to plan.         
        
-Kellie is a Greater Manchester-based performance maker. She would describe herself as an autobiographical artist, who creates work that is honest, relatable, and at times self-critical. She has collaborated with Eggs Collective, and has been commissioned by NIAMOS, Breakdown Bolton, Factory International, and most recently on her hÅb-commissioned solo: [*Dedicated To The One I Love*](/current/2025/colbert) which debuted at Contact in March.         
+Kellie is a Greater Manchester-based performance maker. She would describe herself as an autobiographical artist, who creates work that is honest, relatable, and at times self-critical. She has collaborated with Eggs Collective, and has been commissioned by NIAMOS, Breakdown Bolton, Factory International, and most recently on her hÅb-commissioned solo: [*Dedicated To The One I Love*](/archive/2025/colbert) which debuted at Contact in March.         
          
 Deborah is the programme leader for BA (Hons) Theatre and Performance at The Arden School of Theatre. She is also a performance practitioner and facilitator specialising in contemporary performance with a strong commitment to making the arts accessible to all. Her work is often autobiographical, exploring themes of relationships, identity, and mental health.         
          
@@ -132,4 +132,4 @@ Poppy is an innovative director, movement director, and theatre-maker who create
          
 Insta <a href="https://instagram.com/rosiedavies1996" target="_blank">@rosiedavies1996</a> & <a href="https://instagram.com/waxmanharrietpoppy" target="_blank">@waxmanharrietpoppy</a>         
 <hr>          
-<small><span style='font-variant: small-caps'>[back to top](/current/2025-emergency/evening)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2025-emergency/evening)</span></small>
