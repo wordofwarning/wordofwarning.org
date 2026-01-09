@@ -17,11 +17,11 @@ season: "Haphazard 2|8|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-haphazard/#artists) · [programme](/current/2025-haphazard/programme) · [entry](/current/2025-haphazard/#entry) · [access](/current/2025-haphazard/#access) · [about](/current/2025-haphazard/#about) · [credits](/current/2025-haphazard/#credits)</span>&ensp; <small>Updated 1 August 2025</small>         
+<span style='font-variant: small-caps'>→ [artists](/archive/2025-haphazard/#artists) · [programme](/archive/2025-haphazard/programme) · [entry](/archive/2025-haphazard/#entry) · [access](/archive/2025-haphazard/#access) · [about](/archive/2025-haphazard/#about) · [credits](/archive/2025-haphazard/#credits)</span>&ensp; <small>Updated 1 August 2025</small>         
          
 *Presented by* Word of Warning *+* Z-arts        
          
-[Haphazard 2025](/current/2025-haphazard) is a free afternoon for the curious of all ages — see our [artists' images](/galleries/2025-haphazardpre/). A Live Art takeover of <a href="https://z-arts.org/events/haphazard-2025" target="_blank">Z-arts</a> on Saturday 2 August from 1pm to 4pm. Turn up at any time, come and go as you please… and expect the unexpected!           
+[Haphazard 2025](/archive/2025-haphazard) is a free afternoon for the curious of all ages — see our [artists' images](/galleries/2025-haphazardpre/). A Live Art takeover of <a href="https://z-arts.org/events/haphazard-2025" target="_blank">Z-arts</a> on Saturday 2 August from 1pm to 4pm. Turn up at any time, come and go as you please… and expect the unexpected!           
 <hr>          
 Atrium<br>**Pascaline Ruhana**          
          
@@ -99,4 +99,4 @@ Madame Zucchini entertains with vegetables, and sometimes with fruit. She create
 <a href="https://www.madamezucchini.co.uk" target="_blank">madamezucchini.co.uk</a> · Insta <a href="https://instagram.com/madamezucchini" target="_blank">@madamezucchini</a>         
 <hr>         
 Image: Puppetfingers         
-<small><span style='font-variant: small-caps'>[back to top](/current/2025-haphazard/programme)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/archive/2025-haphazard/programme)</span></small>
