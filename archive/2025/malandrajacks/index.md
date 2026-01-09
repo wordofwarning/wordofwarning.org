@@ -17,7 +17,7 @@ season: "Malandra Jacks 20–22|11|2025"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/archive/2025/malandrajacks/#entry) · [access](/archive/2025/malandrajacks/#access) · [artists](/archive/2025/malandrajacks/#artists) · [reviews](/archive/2025/malandrajacks/#reviews) · [credits](/archive/2025/malandrajacks/#credits) · [websites](/archive/2025/malandrajacks/#websites)</span>&ensp; <small>Updated 8 January 2026</small>        
+<span style='font-variant: small-caps'>→ [entry](/archive/2025/malandrajacks/#entry) · [access](/archive/2025/malandrajacks/#access) · [artists](/archive/2025/malandrajacks/#artists) · [reviews](/archive/2025/malandrajacks/#reviews) · [credits](/archive/2025/malandrajacks/#credits) · [websites](/archive/2025/malandrajacks/#websites)</span>&ensp; <small>Updated 9 January 2026</small>        
            
 *Presented by* Word of Warning + <a href="https://homemcr.org/whats-on/census-542n" target="_blank">HOME</a>         
          
@@ -34,8 +34,8 @@ Funny, intimate, and defiant — *Census* is a love letter to working-class comm
 † Winner of Best Performance at <a href="https://www.manchester.gov.uk/info/200070/museums_galleries_and_the_arts/7657/manchester_culture_awards_2024/3" target="_blank">Manchester Culture Awards 2024</a>.         
          
 <iframe width="352" height="198" src="https://www.youtube.com/embed/Bk3eFhuNyxE?si=9-asdBXGDkzN1mhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>        
-
-Now that it's over, read a review in <a href="https://morningstaronline.co.uk/article/when-working-class-community-tells-its-own-story" target="_blank">Morning Star</a>.         
+          
+Now that it's over, read a ★★★★ review in <a href="https://morningstaronline.co.uk/article/when-working-class-community-tells-its-own-story" target="_blank">Morning Star</a>.         
          
 #### Entry          
 Tickets: care of HOME, book <a href="https://homemcr.org/spektrix/ChooseSeats?EventInstanceId=1409605AHTCVLSTTDHQVVPRTSGCHQQLPG" target="_blank">online</a> or call 0161 200 1500        
@@ -63,7 +63,7 @@ Chloe Malandra is a multidisciplinary freelance artist, whose skills range from 
 Joshua Wilkinson is a Manchester-based performer, arts facilitator, and filmmaker. He produces short films with video production company, Modify. Josh regularly facilitates arts workshops across the UK, is a board member of Factory International and former board member of Contact.         
          
 #### Reviews         
->*Ambitious, exciting and gorgeous.* — <a href="https://ilovemanchester.com/census-theatre-project-north-manchester" target="_blank">I Love MCR</a><br>★★★★ *Real delight in the inventiveness with which they upset the apple cart.* — <a href="https://www.northernsoul.me.uk/census-theatre-contact-manchester" target="_blank">Northern Soul</a><br>*Warm-hearted and thought-provoking, it was the sort of socially engaged theatre-making that we need more of and felt like a true labour of love.* — <a href="https://circlesandstalls.com/2023/12/28/manchester-theatre-best-of-2023" target="_blank">Circles & Stalls</a><br>*The core of this production is about what strong community values mean and how they enhance and are the very backbone of what makes an area viable.* — <a href="https://liveartalive.com/2023/09/15/census" target="_blank">Live Art Alive</a>        
+>★★★★ *Brilliantly compelling … Woven together with love, care, humour and defiance.* — <a href="https://morningstaronline.co.uk/article/when-working-class-community-tells-its-own-story" target="_blank">Morning Star</a><br>*Ambitious, exciting and gorgeous.* — <a href="https://ilovemanchester.com/census-theatre-project-north-manchester" target="_blank">I Love MCR</a><br>★★★★ *Real delight in the inventiveness with which they upset the apple cart.* — <a href="https://www.northernsoul.me.uk/census-theatre-contact-manchester" target="_blank">Northern Soul</a><br>*Warm-hearted and thought-provoking, it was the sort of socially engaged theatre-making that we need more of and felt like a true labour of love.* — <a href="https://circlesandstalls.com/2023/12/28/manchester-theatre-best-of-2023" target="_blank">Circles & Stalls</a><br>*The core of this production is about what strong community values mean and how they enhance and are the very backbone of what makes an area viable.* — <a href="https://liveartalive.com/2023/09/15/census" target="_blank">Live Art Alive</a>        
          
 #### Credits         
 Performers & Writers: Chloe Malandra & Joshua Wilkinson<br>Dramaturge: Kate Bradnam<br>Technical Consultant: Andrew Crofts<br>Composer: Greg Harper<br>Projection Visual Designer: David Hall<br>Set Designer: Faz Barber<br>Set Maker: Tom Mills<br>R&D Creative Practitioners: Julia Samuels & Matt Fenton<br>With special thanks to Roxy Daykin-Moores.         
