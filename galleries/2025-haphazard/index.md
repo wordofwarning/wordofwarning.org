@@ -8,7 +8,7 @@ header:
 stylesheet: gallery.css
 
 more_link: "Haphazard 2025"
-more_url: "../../current/2025-haphazard"
+more_url: "../../archive/2025-haphazard"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small><i>A free day out for the curious of all ages at Z-arts, 2 Aug 2025</i></small> · Puppetfingers"}
