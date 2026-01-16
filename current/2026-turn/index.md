@@ -17,7 +17,7 @@ season: "Turn 20|3|2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 9 January 2026</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 16 January 2026, 5pm</small>        
         
 *Presented by* Word of Warning *+* Contact        
         
@@ -28,7 +28,7 @@ Get a feel for Turn with [images from last year's event](/galleries/2025-turn).
 Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn&nbsp;2026 transport you into a frenzy of dance…         
          
 #### Artists         
-*Participating&nbsp;artists will&nbsp;be&nbsp;announced in&nbsp;early&nbsp;February.*<br>*<a href="http://turnmcr.posthaven.com" target="_blank">Call for Proposals</a> open until Friday&nbsp;16&nbsp;January,&nbsp;5pm.*         
+*Participating&nbsp;artists will&nbsp;be&nbsp;announced in&nbsp;early&nbsp;February.*         
         
 #### Entry         
 Pay What You Decide: £20/£15/£10/£5/£0 (advance booking recommended).        
