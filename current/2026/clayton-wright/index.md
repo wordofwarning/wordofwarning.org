@@ -25,7 +25,7 @@ A tongue-in-cheek theatrical extravaganza, *Mr Blackpool* is an end of the pier 
          
 <iframe width="368" height="207" src="https://www.youtube.com/embed/YMIBDoeEfOQ?si=_Yylmg4biVS3hAf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>          
           
-Set in the not too distant future against the decimated backdrop of climate collapse or late stage capitalism — you decide, could be both — four Blackpool performers embed the history of 'end of the pier' entertainment into a series of turns inspired by their lives and stories, the town's history, and modern politics. Through cabaret, magic, dance, and drag, this is cultural archaeology and satire at its campiest, presented in lurid technicolor and garish seaside spectacle.          
+<br>Set in the not too distant future against the decimated backdrop of climate collapse or late stage capitalism — you decide, could be both — four Blackpool performers embed the history of 'end of the pier' entertainment into a series of turns inspired by their lives and stories, the town's history, and modern politics. Through cabaret, magic, dance, and drag, this is cultural archaeology and satire at its campiest, presented in lurid technicolor and garish seaside spectacle.          
          
 Remember your first time being led astray by a Liza Minnelli tribute act? Thought not. Been rugby tackled by stag and hen parties whilst dressed in a mascot costume on Blackpool's Golden Mile? Perhaps you just had a paper round? These are quotidian tales in the life of a Blackpool entertainer serving as inspiration for this bold new work.         
              
@@ -72,7 +72,7 @@ Featuring Interview Contribution by Millie Bracewell aka Millie B.
 Produced by Sally Rose with Lee Smith for Marlborough Productions.
 Executive Producers: David Sheppeard and Harry Clayton-Wright.
 
-Commissioned by Marlborough Productions and Attenborough Centre for the Creative Arts.<br>Supported using public funding from Arts Council England.<br>Initial research and development supported by Marlborough Productions, Shoreditch Town Hall, Homotopia, Cambridge Junction, The Old Electric, and using public funding from Arts Council England.
+Commissioned by Marlborough Productions and Attenborough Centre for the Creative Arts. Supported using public funding from Arts Council England.<br>Initial research and development supported by Marlborough Productions, Shoreditch Town Hall, Homotopia, Cambridge Junction, The Old Electric, and using public funding from Arts Council England.
 
 ---
 Writer & Performer: Victoria Melody<br>Director: Mark Thomas<br>Producer: Faith Dodkins<br>Sound Designer: Simon James<br>Design Consultant: Katharina Radeva<br>Lighting Designer: Sean         
