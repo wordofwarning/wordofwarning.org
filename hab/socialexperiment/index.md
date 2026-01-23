@@ -16,7 +16,7 @@ season: "Social Experiment by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 8 January 2026</small>        
+<small>Updated 23 January 2026</small>        
         
 **[Social Experiment](/socialexperiment)** is a gathering at <a href="https://contactmcr.com" target="_blank">Contact</a> for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
          
@@ -29,7 +29,7 @@ If you're an audience member looking for something a little bit different — th
 Past events were held during 2025 in [February](/socialexperiment/feb2025), [May](/socialexperiment/may2025), [June (Student Edition)](/socialexperiment/studentedition), [July](/socialexperiment/jul2025), and [November](/socialexperiment/nov2025) — [see some images](/galleries/2025-socex).         
          
 #### Social Experiment Call for Proposals        
-Greater Manchester artists (*aged 18+*) are invited to submit proposals of: short performances, interventions, or durational works, for inclusion in these events.        
+Greater Manchester artists (*aged 18+*) are invited to submit proposals of: short performances, interventions, or durational works, for inclusion in these events. The priority is for GM artists, we will consider applications from other North West based artists but not from other regions.       
           
 **For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>**<br>(Direct link to proposal form is <a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">here</a> in case of issues with posthaven.)         
          
