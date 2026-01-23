@@ -17,7 +17,7 @@ season: "Social Experiment"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 8 January 2026</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 23 January 2026</small>          
          
 *Presented by* Word of Warning + Contact *as a semi-regular evening event.*         
          
@@ -59,7 +59,7 @@ Features: a small number of Live Art & contemporary performance works with varie
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
                    
 #### Apply        
-Greater Manchester artists (*aged 18+*) are invited to submit proposals of: short performances, interventions, or durational works, for inclusion in these events.         
+Greater Manchester artists (*aged 18+*) are invited to submit proposals of: short performances, interventions, or durational works, for inclusion in these events. The priority is for GM, we will consider applications from other North West based artists but not from other regions.         
          
 **For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>**<br>(Direct link to proposal form is <a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">here</a> in case of issues with posthaven.)         
          
