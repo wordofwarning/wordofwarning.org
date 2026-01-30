@@ -17,7 +17,7 @@ season: "Harry Clayton-Wright 2|5|2026, 7.45pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2026/clayton-wright/#entry) · [access](/current/2026/clayton-wright/#access) · [artist](/current/2026/clayton-wright/#artist) · [reviews](/current/2026/clayton-wright/#reviews) · [credits](/current/2026/clayton-wright/#credits) · [websites](/current/2026/clayton-wright/#websites)</span>&ensp; <small>Updated 30 January 2026</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2026/clayton-wright/#entry) · [access](/current/2026/clayton-wright/#access) · [artist](/current/2026/clayton-wright/#artist) · [credits](/current/2026/clayton-wright/#credits) · [websites](/current/2026/clayton-wright/#websites)</span>&ensp; <small>Updated 30 January 2026</small>        
          
 *Presented by* <a href="https://thelowry.com/whats-on/harry-clayton-wright-mr-blackpool-cfs1" target="_blank">Lowry</a> + Word of Warning          
          
@@ -50,13 +50,12 @@ Features: a contemporary performance work with varied content including spoken E
 Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">Lowry</a> on 0161 876 2183 or <mailto:access@thelowry.com>       
                   
 #### Artist        
-Harry is a critically acclaimed performance artist and award-winning theatre-maker and director from Blackpool with multiple international tours under his belt. He has worked with cabaret and circus ensembles, presented and produced theatre shows, created short films, published zines, crafted durational performances, and been a commissioned artist on LGBTQ+ heritage projects across the country. Harry has been an Associate Artist with Marlborough Productions since 2016. *Sex Education*, his debut solo theatre show, won a Brighton Fringe award and was nominated for a Total Theatre award at the Edinburgh Fringe, toured the UK including [at Lowry with Word of Warning](/archive/2020-spring/clayton-wright), and was part of the Sydney Mardi Gras programme in 2020. In 2029 Harry was named one of British Council's Artists to Watch.         
+Harry is a critically acclaimed performance artist and award-winning theatre-maker and director from Blackpool with multiple international tours under his belt. He has worked with cabaret and circus ensembles, presented and produced theatre shows, created short films, published zines, crafted durational performances, and been a commissioned artist on LGBTQ+ heritage projects across the country. Harry has been an Associate Artist with Marlborough Productions since 2016 and was named one of British Council's Artists to Watch in 2019. *Sex Education*, his debut solo theatre show, won a Brighton Fringe award, was nominated for a Total Theatre award at the Edinburgh Fringe, toured the UK (including [Lowry with Word of Warning](/archive/2020-spring/clayton-wright)), and was part of the 2020 Sydney Mardi Gras programme.          
          
-Harry made a small cameo appearance as Gaëtan Dugas (1952-1984), the man incorrectly named as ‘Patient Zero’, in the Channel 4 award-winning drama *It's a Sin* (2021). At the helm as Creative Director, Harry launched Queer Amusements in 2024, a brand new multi-artform festival taking place in Blackpool which returns in 2026. Harry directed the multi-award winning *No Apologies* by two-time Fringe First award-winner Emma Frankland which ran at Summerhall at the Edinburgh Fringe in August 2025. *Mr Blackpool*, Harry's new theatre work described as an "end of the pier show at the end of the world" premiered in November 2025. *We’re Still Here*, an LGBTQ+ heritage project based in Blackpool and founded by Harry and Blackpool artist Garth Gratrix, recently received £235k from The National Lottery Heritage Fund to produce two exhibitions about the town's queer history in 2027.          
+Harry made a small cameo appearance as Gaëtan Dugas (1952-1984), the man incorrectly named as ‘Patient Zero’, in the Channel 4 award-winning drama *It's a Sin* (2021). At the helm as Creative Director, he launched Queer Amusements in 2024, a brand new multi-artform festival taking place in Blackpool which returns in 2026. Harry directed the multi-award winning *No Apologies* by two-time Fringe First award-winner Emma Frankland which ran at Summerhall at the Edinburgh Fringe in August 2025. *We’re Still Here*, an LGBTQ+ heritage project based in Blackpool and founded by Harry and Blackpool artist Garth Gratrix, recently received £235k from The National Lottery Heritage Fund to produce two exhibitions about the town's queer history in 2027.          
           
-#### Reviews         
-About Harry's previous work…
->Extraordinary.* — The Guardian<br>*Truly stunning. A work of legitimately radical power.* — Little White Lies<br>*A delectably disruptive force in theatre, film and installation.* — Attitude Magazine         
+About Harry's previous work…          
+>*Extraordinary.* — The Guardian<br>*Truly stunning. A work of legitimately radical power.* — Little White Lies<br>*A delectably disruptive force in theatre, film and installation.* — Attitude Magazine         
          
 #### Credits         
 A new show from Harry Clayton-Wright. Created in collaboration with Oliver Gregory, aka Miss Titty Kaka, with Aysh de Belle and Sam de Belle.          
@@ -68,6 +67,6 @@ Commissioned by Marlborough Productions and Attenborough Centre for the Creative
 Image: Matt Crockett<br>Trailer: Rosie Powell<br>Logo: Polari Design          
          
 #### Websites         
-<a href="https://hcw.horse" target="_blank">hcw.horse</a> <a href="https://marlboroughproductions.org.uk" target="_blank">marlboroughproductions.org.uk</a> · Insta&nbsp;<a href="https://instagram.com/hclaytonwright" target="_blank">@hclaytonwright</a> <a href="https://instagram.com/marlboroughproductions" target="_blank">@marlboroughproductions</a> <a href="https://instagram.com/attenboroughctr" target="_blank">@attenboroughctr</a>          
+<a href="https://hcw.horse" target="_blank">hcw.horse</a> · <a href="https://marlboroughproductions.org.uk" target="_blank">marlboroughproductions.org.uk</a><br>Insta&nbsp;<a href="https://instagram.com/hclaytonwright" target="_blank">@hclaytonwright</a> · <a href="https://instagram.com/marlboroughproductions" target="_blank">@marlboroughproductions</a> · <a href="https://instagram.com/attenboroughctr" target="_blank">@attenboroughctr</a>          
          
 <small><span style='font-variant: small-caps'>[back to top](/current/2026/clayton-wright)</span></small>
