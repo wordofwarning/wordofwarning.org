@@ -50,22 +50,24 @@ Features: a contemporary performance work with varied content including spoken E
 Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">Lowry</a> on 0161 876 2183 or <mailto:access@thelowry.com>       
                   
 #### Artist        
-BIOG         
+Harry is a critically acclaimed performance artist and award-winning theatre-maker and director from Blackpool with multiple international tours under his belt. He has worked with cabaret and circus ensembles, presented and produced theatre shows, created short films, published zines, crafted durational performances, and been a commissioned artist on LGBTQ+ heritage projects across the country. Harry has been an Associate Artist with Marlborough Productions since 2016. *Sex Education*, his debut solo theatre show, won a Brighton Fringe award and was nominated for a Total Theatre award at the Edinburgh Fringe, toured the UK including [at Lowry with Word of Warning](/archive/2020-spring/clayton-wright), and was part of the Sydney Mardi Gras programme in 2020. In 2029 Harry was named one of British Council's Artists to Watch.         
          
+Harry made a small cameo appearance as Gaëtan Dugas (1952-1984), the man incorrectly named as ‘Patient Zero’, in the Channel 4 award-winning drama *It's a Sin* (2021). At the helm as Creative Director, Harry launched Queer Amusements in 2024, a brand new multi-artform festival taking place in Blackpool which returns in 2026. Harry directed the multi-award winning *No Apologies* by two-time Fringe First award-winner Emma Frankland which ran at Summerhall at the Edinburgh Fringe in August 2025. *Mr Blackpool*, Harry's new theatre work described as an "end of the pier show at the end of the world" premiered in November 2025. *We’re Still Here*, an LGBTQ+ heritage project based in Blackpool and founded by Harry and Blackpool artist Garth Gratrix, recently received £235k from The National Lottery Heritage Fund to produce two exhibitions about the town's queer history in 2027.          
+          
 #### Reviews         
-ADD
->★★★★ *A joyful testament to people power and a heartening parable about the possibility of collective action* — <a href="https://www.theguardian.com/stage/2025/aug/11/trouble-struggle-bubble-and-squeak-review-pleasance-courtyard-edinburgh" target="_blank">The Guardian</a><br>*A delightfully oddball solo account … where she finds wonderful people, everyday heroes, in and out of armor* — <a href="https://www.newyorker.com/culture/the-theatre/a-season-of-unease-at-the-edinburgh-festival" target="_blank">The New Yorker</a><br>★★★★ *Hymn to community and solidarity* — <a href="https://www.thestage.co.uk/reviews/trouble-struggle-bubble-and-squeak-review-pleasance-courtyard-edinburgh-victoria-melody" target="_blank">The Stage</a><br>★★★★ *A moving and inspirational comic call to arms* — <a href="https://list.co.uk/news/trouble-struggle-bubble-squeak-theatre-review-the-right-side-of-history-47076" target="_blank">The List</a><br>★★★★ *I doubt there will be many, if any, shows at the Fringe this year which will restore your faith in humanity* — <a href="URL" target="_blank">The Quinntessential Review</a>         
+About Harry's previous work…
+>Extraordinary.* — The Guardian<br>*Truly stunning. A work of legitimately radical power.* — Little White Lies<br>*A delectably disruptive force in theatre, film and installation.* — Attitude Magazine         
          
 #### Credits         
 A new show from Harry Clayton-Wright. Created in collaboration with Oliver Gregory, aka Miss Titty Kaka, with Aysh de Belle and Sam de Belle.          
          
-Costume Design: Ryan Dawson Laight<br>Sound Design: Oliver Gregory<br>Lighting Design: Simon Booth<br>Stage Management: Noah Sumptions<br>Movement Direction & Dramaturgy: Darren Pritchard<br>Dramaturgy: Scottee, Ursula Martinez<br>Rehearsal Producer: Catherine Mugonyi<br>Magic Consultant: Scott Penrose<br>Sign Writing: Lisa Wigham<br>Featuring Interview Contribution by Millie Bracewell aka Millie B<br>Produced by Sally Rose with Lee Smith for Marlborough Productions<br>Executive Producers: David Sheppeard and Harry Clayton-Wright          
+Costume Design: Ryan Dawson Laight<br>Sound Design: Oliver Gregory<br>Lighting Design: Simon Booth<br>Stage Management: Noah Sumptions<br>Movement Direction & Dramaturgy: Darren Pritchard<br>Dramaturgy: Scottee, Ursula Martinez<br>Rehearsal Producer: Catherine Mugonyi<br>Magic Consultant: Scott Penrose<br>Sign Writing: Lisa Wigham<br>Featuring Interview Contribution by Millie Bracewell aka Millie B.<br>Produced by Sally Rose with Lee Smith for Marlborough Productions<br>Executive Producers: David Sheppeard and Harry Clayton-Wright          
           
-Commissioned by Marlborough Productions and Attenborough Centre for the Creative Arts.<br>Supported using public funding from Arts Council England.<br>Initial research and development supported by Marlborough Productions, Shoreditch Town Hall, Homotopia, Cambridge Junction, The Old Electric, and using public funding from Arts Council England.          
+Commissioned by Marlborough Productions and Attenborough Centre for the Creative Arts. Supported using public funding from Arts Council England.<br>Initial research and development supported by Marlborough Productions, Shoreditch Town Hall, Homotopia, Cambridge Junction, The Old Electric, and using public funding from Arts Council England.          
           
-Image: Matt Crockett          
+Image: Matt Crockett<br>Trailer: Rosie Powell<br>Logo: Polari Design          
          
-#### Websites        
-<a href="https://hcw.horse" target="_blank">hcw.horse</a> · Insta&nbsp;<a href="https://instagram.com/hclaytonwright" target="_blank">@hclaytonwright</a> <a href="https://instagram.com/marlboroughproductions" target="_blank">@marlboroughproductions</a> <a href="https://instagram.com/attenboroughctr" target="_blank">@attenboroughctr</a>          
+#### Websites         
+<a href="https://hcw.horse" target="_blank">hcw.horse</a> <a href="https://marlboroughproductions.org.uk" target="_blank">marlboroughproductions.org.uk</a> · Insta&nbsp;<a href="https://instagram.com/hclaytonwright" target="_blank">@hclaytonwright</a> <a href="https://instagram.com/marlboroughproductions" target="_blank">@marlboroughproductions</a> <a href="https://instagram.com/attenboroughctr" target="_blank">@attenboroughctr</a>          
          
 <small><span style='font-variant: small-caps'>[back to top](/current/2026/clayton-wright)</span></small>
