@@ -8,8 +8,8 @@ artist: "Harry Clayton-Wright" # the name of the artist or company
 show: "Mr Blackpool" # the name of the show
 artist_size: 2
 show_size: 1
-header_image: "header_hcw.jpg"
-season: "Harry Clayton-Wright 2|5|2026, 7.45pm"
+header_image: "header_hcw.jpeg"
+season: "Harry Clayton-Wright 2|5|2026, 8pm"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -41,11 +41,11 @@ Time: Saturday 2 May 2026, 8pm (no interval, ends *about* 9pm).
 Location: <a href="https://thelowry.com/plan-your-visit-18cr" target="_blank">Lowry</a> (Quays Theatre), Pier 8, The Quays, Salford M50 3AZ.         
         
 #### Access         
-Age Advisory: 16+ (parent/guardian/carer discretion).        
+Age Advisory: 18+ (parent/guardian/carer discretion).        
          
-Content Warnings: please click [here](/warnings). *(features flashing and strobe lights, loud music, haze and smoke, and stage effects including pyrotechnics, and themes that some people may find upsetting)*         
+Content Warnings: please click [here](/warnings).          
         
-Features: a contemporary performance work with varied content including spoken English; occurs in the Quays Theatre on the ground floor, a theatre auditorium space with stalls seating.         
+Features: a contemporary performance work with varied content including spoken English; occurs in the Quays Theatre on the ground floor, an auditorium with stalls seating.         
          
 Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">Lowry</a> on 0161 876 2183 or <mailto:access@thelowry.com>       
                   
