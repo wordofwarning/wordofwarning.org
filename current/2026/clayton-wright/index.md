@@ -17,13 +17,13 @@ season: "Harry Clayton-Wright 2|5|2026, 7.45pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2026/clayton-wright/#entry) · [access](/current/2026/clayton-wright/#access) · [artist](/current/2026/clayton-wright/#artist) · [reviews](/current/2026/clayton-wright/#reviews) · [credits](/current/2026/clayton-wright/#credits) · [websites](/current/2026/clayton-wright/#websites)</span>&ensp; <small>Updated 21 January 2026</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2026/clayton-wright/#entry) · [access](/current/2026/clayton-wright/#access) · [artist](/current/2026/clayton-wright/#artist) · [reviews](/current/2026/clayton-wright/#reviews) · [credits](/current/2026/clayton-wright/#credits) · [websites](/current/2026/clayton-wright/#websites)</span>&ensp; <small>Updated 30 January 2026</small>        
          
-*Presented by* <a href="https://thelowry.com/whats-on" target="_blank">Lowry</a> + Word of Warning          
+*Presented by* <a href="https://thelowry.com/whats-on/harry-clayton-wright-mr-blackpool-cfs1" target="_blank">Lowry</a> + Word of Warning          
          
 A tongue-in-cheek theatrical extravaganza, *Mr Blackpool* is an end of the pier show at the end of the world from multi-award winning theatre maker Harry Clayton-Wright…      
          
-<iframe width="368" height="207" src="https://www.youtube.com/embed/YMIBDoeEfOQ?si=_Yylmg4biVS3hAf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>          
+<iframe width="368" height="207" src="https://www.youtube.com/embed/MIGVKJFqFsI?si=6els6HOovTEvP1bJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>          
           
 <br>Set in the not too distant future against the decimated backdrop of climate collapse or late stage capitalism — you decide, could be both — four Blackpool performers embed the history of 'end of the pier' entertainment into a series of turns inspired by their lives and stories, the town's history, and modern politics. Through cabaret, magic, dance, and drag, this is cultural archaeology and satire at its campiest, presented in lurid technicolor and garish seaside spectacle.          
          
@@ -34,9 +34,9 @@ But who is this haunted impresario leading you through the night? What's beyond 
 #### Entry          
 £15/£12 (advance booking recommended).        
          
-Tickets: available <a href="https://tickets.thelowry.com" target="_blank">online</a> or call Lowry on 0161 876 2000        
+Tickets: available <a href="https://tickets.thelowry.com/events/harry%20clayton-wright-%20mr%20blackpool/2026-5-2_20.00/quays%20theatre?hallmap" target="_blank">online</a> or call Lowry on 0161 876 2000        
          
-Time: Saturday 2 May 2026, 7.45pm (no interval, ends *about* 8.45pm).          
+Time: Saturday 2 May 2026, 8pm (no interval, ends *about* 9pm).          
                        
 Location: <a href="https://thelowry.com/plan-your-visit-18cr" target="_blank">Lowry</a> (Quays Theatre), Pier 8, The Quays, Salford M50 3AZ.         
         
@@ -57,30 +57,15 @@ ADD
 >★★★★ *A joyful testament to people power and a heartening parable about the possibility of collective action* — <a href="https://www.theguardian.com/stage/2025/aug/11/trouble-struggle-bubble-and-squeak-review-pleasance-courtyard-edinburgh" target="_blank">The Guardian</a><br>*A delightfully oddball solo account … where she finds wonderful people, everyday heroes, in and out of armor* — <a href="https://www.newyorker.com/culture/the-theatre/a-season-of-unease-at-the-edinburgh-festival" target="_blank">The New Yorker</a><br>★★★★ *Hymn to community and solidarity* — <a href="https://www.thestage.co.uk/reviews/trouble-struggle-bubble-and-squeak-review-pleasance-courtyard-edinburgh-victoria-melody" target="_blank">The Stage</a><br>★★★★ *A moving and inspirational comic call to arms* — <a href="https://list.co.uk/news/trouble-struggle-bubble-squeak-theatre-review-the-right-side-of-history-47076" target="_blank">The List</a><br>★★★★ *I doubt there will be many, if any, shows at the Fringe this year which will restore your faith in humanity* — <a href="URL" target="_blank">The Quinntessential Review</a>         
          
 #### Credits         
-A new show from Harry Clayton-Wright. Created in collaboration with Oliver Gregory, aka Miss Titty Kaka, with Aysh de Belle, and Sam de Belle.
-
-Costume Design: Ryan Dawson Laight.
-Sound Design: Oliver Gregory.
-Lighting Design: Simon Booth.
-Stage Management: Noah Sumptions.
-Movement Direction and Dramaturgy: Darren Pritchard.
-Dramaturgy: Scottee, Ursula Martinez.
-Rehearsal Producer: Catherine Mugonyi.
-Magic Consultant: Scott Penrose.
-Sign Writing: Lisa Wigham
-Featuring Interview Contribution by Millie Bracewell aka Millie B.
-Produced by Sally Rose with Lee Smith for Marlborough Productions.
-Executive Producers: David Sheppeard and Harry Clayton-Wright.
-
-Commissioned by Marlborough Productions and Attenborough Centre for the Creative Arts. Supported using public funding from Arts Council England.<br>Initial research and development supported by Marlborough Productions, Shoreditch Town Hall, Homotopia, Cambridge Junction, The Old Electric, and using public funding from Arts Council England.
-
----
-Writer & Performer: Victoria Melody<br>Director: Mark Thomas<br>Producer: Faith Dodkins<br>Sound Designer: Simon James<br>Design Consultant: Katharina Radeva<br>Lighting Designer: Sean         
+A new show from Harry Clayton-Wright. Created in collaboration with Oliver Gregory, aka Miss Titty Kaka, with Aysh de Belle and Sam de Belle.          
          
-Image: Matt Crockett         
+Costume Design: Ryan Dawson Laight<br>Sound Design: Oliver Gregory<br>Lighting Design: Simon Booth<br>Stage Management: Noah Sumptions<br>Movement Direction & Dramaturgy: Darren Pritchard<br>Dramaturgy: Scottee, Ursula Martinez<br>Rehearsal Producer: Catherine Mugonyi<br>Magic Consultant: Scott Penrose<br>Sign Writing: Lisa Wigham<br>Featuring Interview Contribution by Millie Bracewell aka Millie B<br>Produced by Sally Rose with Lee Smith for Marlborough Productions<br>Executive Producers: David Sheppeard and Harry Clayton-Wright          
+          
+Commissioned by Marlborough Productions and Attenborough Centre for the Creative Arts.<br>Supported using public funding from Arts Council England.<br>Initial research and development supported by Marlborough Productions, Shoreditch Town Hall, Homotopia, Cambridge Junction, The Old Electric, and using public funding from Arts Council England.          
+          
+Image: Matt Crockett          
          
 #### Websites        
-ADD
-<a href="https://hcw.horse" target="_blank">hcw.horse</a> · Insta&nbsp;<a href="https://instagram.com/victoriamelody_" target="_blank">@victoriamelody_</a>  @hclaytonwright @marlboroughproductions @attenboroughctr       
+<a href="https://hcw.horse" target="_blank">hcw.horse</a> · Insta&nbsp;<a href="https://instagram.com/hclaytonwright" target="_blank">@hclaytonwright</a> <a href="https://instagram.com/marlboroughproductions" target="_blank">@marlboroughproductions</a> <a href="https://instagram.com/attenboroughctr" target="_blank">@attenboroughctr</a>          
          
 <small><span style='font-variant: small-caps'>[back to top](/current/2026/clayton-wright)</span></small>
