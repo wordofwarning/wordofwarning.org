@@ -6,8 +6,8 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Harry Clayton-Wright" # the name of the artist or company
 show: "Mr Blackpool" # the name of the show
-artist_size: 2
-show_size: 1
+artist_size: 3
+show_size: 2
 header_image: "header_hcw.jpeg"
 season: "Harry Clayton-Wright 2|5|2026, 8pm"
 
@@ -23,7 +23,7 @@ season: "Harry Clayton-Wright 2|5|2026, 8pm"
          
 A tongue-in-cheek theatrical extravaganza, *Mr Blackpool* is an end of the pier show at the end of the world from multi-award winning theatre maker Harry Clayton-Wright…      
          
-<iframe width="368" height="207" src="https://www.youtube.com/embed/MIGVKJFqFsI?si=6els6HOovTEvP1bJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>          
+<iframe width="352" height="198" src="https://www.youtube.com/embed/MIGVKJFqFsI?si=6els6HOovTEvP1bJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>          
           
 <br>Set in the not too distant future against the decimated backdrop of climate collapse or late stage capitalism — you decide, could be both — four Blackpool performers embed the history of 'end of the pier' entertainment into a series of turns inspired by their lives and stories, the town's history, and modern politics. Through cabaret, magic, dance, and drag, this is cultural archaeology and satire at its campiest, presented in lurid technicolor and garish seaside spectacle.          
          
