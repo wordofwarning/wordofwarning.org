@@ -6,7 +6,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Harry Clayton-Wright" # the name of the artist or company
 show: "Mr Blackpool" # the name of the show
-artist_size: 3
+artist_size: 4
 show_size: 2
 header_image: "header_hcw.jpeg"
 season: "Harry Clayton-Wright 2|5|2026, 8pm"
