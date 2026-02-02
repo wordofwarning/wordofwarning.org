@@ -17,7 +17,7 @@ season: "Harry Clayton-Wright 2|5|2026, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2026/clayton-wright/#entry) · [access](/current/2026/clayton-wright/#access) · [artist](/current/2026/clayton-wright/#artist) · [credits](/current/2026/clayton-wright/#credits) · [websites](/current/2026/clayton-wright/#websites)</span>&ensp; <small>Updated 30 January 2026</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2026/clayton-wright/#entry) · [access](/current/2026/clayton-wright/#access) · [artist](/current/2026/clayton-wright/#artist) · [credits](/current/2026/clayton-wright/#credits) · [websites](/current/2026/clayton-wright/#websites)</span>&ensp; <small>Updated 2 February 2026</small>        
          
 *Presented by* <a href="https://thelowry.com/whats-on/harry-clayton-wright-mr-blackpool-cfs1" target="_blank">Lowry</a> + Word of Warning          
          
@@ -36,7 +36,7 @@ But who is this haunted impresario leading you through the night? What's beyond 
          
 Tickets: available <a href="https://tickets.thelowry.com/events/harry%20clayton-wright-%20mr%20blackpool/2026-5-2_20.00/quays%20theatre?hallmap" target="_blank">online</a> or call Lowry on 0161 876 2000        
          
-Time: Saturday 2 May 2026, 8pm (no interval, ends *about* 9pm).          
+Time: Saturday 2 May 2026, 8pm (no interval, ends *about* 9.20pm).          
                        
 Location: <a href="https://thelowry.com/plan-your-visit-18cr" target="_blank">Lowry</a> (Quays Theatre), Pier 8, The Quays, Salford M50 3AZ.         
         
@@ -45,7 +45,7 @@ Age Advisory: 18+ (parent/guardian/carer discretion).
          
 Content Warnings: please click [here](/warnings).          
         
-Features: a contemporary performance work with varied content including spoken English; occurs in the Quays Theatre on the ground floor, an auditorium with stalls seating.         
+Features: a contemporary cabaret/performance work with varied content including spoken English, flashing and strobe lights, loud music, haze and smoke, stage effects including pyrotechnics; occurs in the Quays Theatre on the ground floor, an auditorium with stalls seating.         
          
 Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">Lowry</a> on 0161 876 2183 or <mailto:access@thelowry.com>       
                   
