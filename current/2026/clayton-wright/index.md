@@ -17,7 +17,7 @@ season: "Harry Clayton-Wright 2|5|2026, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2026/clayton-wright/#entry) · [access](/current/2026/clayton-wright/#access) · [artist](/current/2026/clayton-wright/#artist) · [credits](/current/2026/clayton-wright/#credits) · [websites](/current/2026/clayton-wright/#websites)</span>&ensp; <small>Updated 2 February 2026</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2026/clayton-wright/#entry) · [access](/current/2026/clayton-wright/#access) · [artist](/current/2026/clayton-wright/#artist) · [credits](/current/2026/clayton-wright/#credits) · [websites](/current/2026/clayton-wright/#websites)</span>&ensp; <small>Updated 3 February 2026</small>        
          
 *Presented by* <a href="https://thelowry.com/whats-on/harry-clayton-wright-mr-blackpool-cfs1" target="_blank">Lowry</a> + Word of Warning          
          
@@ -45,10 +45,10 @@ Age Advisory: 18+ (parent/guardian/carer discretion).
          
 Content Warnings: please click [here](/warnings).          
         
-Features: a contemporary cabaret/performance work with varied content including spoken English, flashing and strobe lights, loud music, haze and smoke, stage effects including pyrotechnics; occurs in the Quays Theatre on the ground floor, an auditorium with stalls seating.         
+Features: a contemporary cabaret/performance work with varied content including spoken English, dance/movement and magic; occurs in the Quays Theatre on the ground floor, an auditorium with stalls seating.         
          
-Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">Lowry</a> on 0161 876 2183 or <mailto:access@thelowry.com>       
-                  
+Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">Lowry</a> on 0161 876 2183 or <mailto:access@thelowry.com>         
+         
 #### Artist        
 Harry is a critically acclaimed performance artist and award-winning theatre-maker and director from Blackpool with multiple international tours under his belt. He has worked with cabaret and circus ensembles, presented and produced theatre shows, created short films, published zines, crafted durational performances, and been a commissioned artist on LGBTQ+ heritage projects across the country. Harry has been an Associate Artist with Marlborough Productions since 2016 and was named one of British Council's Artists to Watch in 2019. *Sex Education*, his debut solo theatre show, won a Brighton Fringe award, was nominated for a Total Theatre award at the Edinburgh Fringe, toured the UK (including [Lowry with Word of Warning](/archive/2020-spring/clayton-wright)), and was part of the 2020 Sydney Mardi Gras programme.          
          
