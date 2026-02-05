@@ -17,7 +17,7 @@ season: "Harry Clayton-Wright 2|5|2026, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2026/clayton-wright/#entry) · [access](/current/2026/clayton-wright/#access) · [artist](/current/2026/clayton-wright/#artist) · [credits](/current/2026/clayton-wright/#credits) · [websites](/current/2026/clayton-wright/#websites)</span>&ensp; <small>Updated 3 February 2026</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2026/clayton-wright/#entry) · [access](/current/2026/clayton-wright/#access) · [artist](/current/2026/clayton-wright/#artist) · [credits](/current/2026/clayton-wright/#credits) · [websites](/current/2026/clayton-wright/#websites)</span>&ensp; <small>Updated 5 February 2026</small>        
          
 *Presented by* <a href="https://thelowry.com/whats-on/harry-clayton-wright-mr-blackpool-cfs1" target="_blank">Lowry</a> + Word of Warning          
          
@@ -62,7 +62,7 @@ A new show from Harry Clayton-Wright. Created in collaboration with Oliver Grego
          
 Costume Design: Ryan Dawson Laight<br>Sound Design: Oliver Gregory<br>Lighting Design: Simon Booth<br>Stage Management: Noah Sumptions<br>Movement Direction & Dramaturgy: Darren Pritchard<br>Dramaturgy: Scottee, Ursula Martinez<br>Rehearsal Producer: Catherine Mugonyi<br>Magic Consultant: Scott Penrose<br>Sign Writing: Lisa Wigham<br>Featuring Interview Contribution by Millie Bracewell aka Millie B.<br>Produced by Sally Rose with Lee Smith for Marlborough Productions<br>Executive Producers: David Sheppeard and Harry Clayton-Wright          
           
-Commissioned by Marlborough Productions and Attenborough Centre for the Creative Arts. Supported using public funding from Arts Council England.<br>Initial research and development supported by Marlborough Productions, Shoreditch Town Hall, Homotopia, Cambridge Junction, The Old Electric, and using public funding from Arts Council England.          
+Commissioned by Marlborough Productions and Attenborough Centre for the Creative Arts. Supported using public funding by Arts Council England.<br>Initial research and development supported by Marlborough Productions, Shoreditch Town Hall, Homotopia, Cambridge Junction, The Old Electric, and using public funding by Arts Council England.          
           
 Image: Matt Crockett<br>Trailer: Rosie Powell<br>Logo: Polari Design          
          
