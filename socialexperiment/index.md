@@ -29,7 +29,7 @@ If you're a Greater Manchester artist — this is your <a href="https://socialex
          
 If you're an audience member looking for something a little bit different — this is your chance to take a few risks & meet some artists in our social experiment.         
          
-Past events were held during [2025](/archive/2025-socialexperiment) in [February](/socialexperiment/feb2025), [May](/socialexperiment/may2025), [June (Student Edition)](/socialexperiment/studentedition), [July](/socialexperiment/jul2025), and [November](/socialexperiment/nov2025) — [see some images](/galleries/2025-socex).         
+Past events were held during [2025](/archive/2025-socialexperiment) in [February](/socialexperiment/feb2025), [May](/socialexperiment/may2025), [June (a Student Edition)](/socialexperiment/studentedition), [July](/socialexperiment/jul2025), and [November](/socialexperiment/nov2025) — [see some images](/galleries/2025-socex).         
          
 #### Artists        
 **19 February** (<a href="https://contactmcr.com/queer-contact-2026" target="_blank">Queer Contact</a> Edition) — Ariel&nbsp;Hebditch&nbsp;· Ben&nbsp;Hodge&nbsp;· Failed&nbsp;Artist&nbsp;Society&nbsp;· lucy&nbsp;· Maddie&nbsp;Maycock&nbsp;· PHOBIA&nbsp;· special&nbsp;guest&nbsp;Graham&nbsp;Clayton-Chance —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/feb2026).&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
@@ -63,7 +63,7 @@ Greater Manchester artists (*aged 18+*) are invited to submit proposals of: shor
          
 **For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>**<br>(Direct link to proposal form is <a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">here</a> in case of issues with posthaven.)         
          
-Proposal Deadline: open on a rolling basis and closing 17 days before each event — April's is Mon 23 Mar at noon, June's deadline is Mon 25 May at noon, etc.         
+Proposal Deadline: open on a rolling basis and closing 17 days before each event — April's deadline is Mon 23 Mar at noon, June's is Mon 25 May at noon, etc.         
          
 #### Credits          
 [Social Experiment](/hab/socialexperiment) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.
