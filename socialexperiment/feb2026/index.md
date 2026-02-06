@@ -6,7 +6,7 @@ rootpath: "../../../"
 # ABOUT THE SHOW - GENERIC
 artist: "Social Experiment:&nbsp;<br>&nbsp;Queer Contact Edition" # the name of the artist or company
 show: "19 February 2026 Programme" # the name of the show
-artist_size: 1
+artist_size: 2
 show_size: 4
 header_image: "header_socex.jpg"  
 season: "Social Experiment 19|2|2026, Programme"
@@ -25,7 +25,7 @@ season: "Social Experiment 19|2|2026, Programme"
 Ariel&nbsp;Hebditch&nbsp;· Ben&nbsp;Hodge&nbsp;· Failed&nbsp;Artist&nbsp;Society&nbsp;· lucy&nbsp;· Maddie&nbsp;Maycock&nbsp;· PHOBIA&nbsp;· special&nbsp;guest&nbsp;Graham&nbsp;Clayton-Chance &ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
          
 #### Programme        
-February's event kicks off at 6pm… and finishes *by about* 9pm.         
+February's event kicks off at 6pm and finishes *by about* 9pm. More information about each work will be added before the event…        
 <hr>         
 **Ben Hodge** · *(title tbc)*         
          
