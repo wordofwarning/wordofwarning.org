@@ -1,15 +1,15 @@
 ---
 # CONFIGURATION
-layout: 2025-programme
+layout: 2026-programme
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Social Experiment" # the name of the artist or company
-show: "27 November 2025 Programme" # the name of the show
+artist: "Social Experiment:<br>Queer Contact Edition" # the name of the artist or company
+show: "19 February 2026 Programme" # the name of the show
 artist_size: 1
 show_size: 4
 header_image: "header_socex.jpg"  
-season: "Social Experiment 27|11|2025, Programme"
+season: "Social Experiment 19|2|2026, Programme"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,15 +17,15 @@ season: "Social Experiment 27|11|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/nov2025/#artists) · [programme](/socialexperiment/nov2025/#programme) · [entry](/socialexperiment/nov2025/#entry) · [access](/socialexperiment/nov2025/#access) · [credits](/socialexperiment/nov2025/#credits)</span>&ensp; <small>Updated 27 November at 2.45pm</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/feb2026/#artists) · [programme](/socialexperiment/feb2026/#programme) · [entry](/socialexperiment/feb2026/#entry) · [access](/socialexperiment/feb2026/#access) · [credits](/socialexperiment/feb2026/#credits)</span>&ensp; <small>Updated 6 February 2026</small>          
          
-*A [Social Experiment](/socialexperiment) on 27 November, presented by* Word of Warning + Contact         
+*A <a href="https://contactmcr.com/queer-contact-2026" target="_blank">Queer Contact</a> Edition of [Social Experiment](/socialexperiment) on 19 February, presented by* Word of Warning + Contact         
          
 #### Artists         
 Gemma&nbsp;Lees&nbsp;· Gin&nbsp;Niemtus&nbsp;· Howard&nbsp;Walmsley&nbsp;· Matt&nbsp;Rogerson&nbsp;· Nightingale&nbsp;&&nbsp;Sage&nbsp;· The&nbsp;Chubby&nbsp;Northerner&nbsp;· Y&nbsp;Talking&nbsp;Nonsense &ensp; <small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*</small>         
          
 #### Programme        
-November's event kicks off at 6pm… and finishes *about* 9pm.         
+February's event kicks off at 6pm… and finishes *by about* 9pm.         
 <hr>         
 **Gin Niemtus** · *Alter*         
          
@@ -88,11 +88,11 @@ Content Warnings: some works involve interaction and/or participation; specific 
           
 Features: seven Live Art & contemporary performance works with varied content.         
          
-*NB* works occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in space 0 & bar, and vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
+*NB* works occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in space 0 & bar, and in space 2 on the second floor, and vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### Credits          
-[Social Experiment](/socialexperiment) (November 2025) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
+[Social Experiment](/socialexperiment): <a href="https://contactmcr.com/queer-contact-2026" target="_blank">Queer Contact</a> Edition (February 2026) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
                  
-<small><span style='font-variant: small-caps'>[back to top](/socialexperiment/nov2025)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/socialexperiment/feb2026)</span></small>
