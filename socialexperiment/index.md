@@ -32,7 +32,7 @@ If you're an audience member looking for something a little bit different — th
 Past events were held during [2025](/archive/2025-socialexperiment) in [February](/socialexperiment/feb2025), [May](/socialexperiment/may2025), [June (Student Edition)](/socialexperiment/studentedition), [July](/socialexperiment/jul2025), and [November](/socialexperiment/nov2025) — [see some images](/galleries/2025-socex).         
          
 #### Artists        
-**19 February** (<a href="https://contactmcr.com/queer-contact-2026" target="_blank">Queer Contact</a> Edition) — Ariel&nbsp;Hebditch&nbsp;· Ben&nbsp;Hodge&nbsp;· Failed&nbsp;Artist&nbsp;Society&nbsp;· lucy&nbsp;· Maddie&nbsp;Maycock&nbsp;· PHOBIA&nbsp;· special&nbsp;guest Graham&nbsp;Clayton-Chance&ensp; <small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*</small>         
+**19 February** (<a href="https://contactmcr.com/queer-contact-2026" target="_blank">Queer Contact</a> Edition) — Ariel&nbsp;Hebditch&nbsp;· Ben&nbsp;Hodge&nbsp;· Failed&nbsp;Artist&nbsp;Society&nbsp;· lucy&nbsp;· Maddie&nbsp;Maycock&nbsp;· PHOBIA&nbsp;· special&nbsp;guest&nbsp;Graham&nbsp;Clayton-Chance&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
          
 **9 April** — participating artists to be announced.         
          
