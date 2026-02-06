@@ -4,7 +4,7 @@ layout: 2026-programme
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Social Experiment:<br>Queer Contact Edition" # the name of the artist or company
+artist: "Social Experiment:&nbsp;<br>&nbsp;Queer Contact Edition" # the name of the artist or company
 show: "19 February 2026 Programme" # the name of the show
 artist_size: 1
 show_size: 4
@@ -22,73 +22,55 @@ season: "Social Experiment 19|2|2026, Programme"
 *A <a href="https://contactmcr.com/queer-contact-2026" target="_blank">Queer Contact</a> Edition of [Social Experiment](/socialexperiment) on 19 February, presented by* Word of Warning + Contact         
          
 #### Artists         
-Gemma&nbsp;Lees&nbsp;· Gin&nbsp;Niemtus&nbsp;· Howard&nbsp;Walmsley&nbsp;· Matt&nbsp;Rogerson&nbsp;· Nightingale&nbsp;&&nbsp;Sage&nbsp;· The&nbsp;Chubby&nbsp;Northerner&nbsp;· Y&nbsp;Talking&nbsp;Nonsense &ensp; <small>*Participating&nbsp;artists subject&nbsp;to&nbsp;change.*</small>         
+Ariel&nbsp;Hebditch&nbsp;· Ben&nbsp;Hodge&nbsp;· Failed&nbsp;Artist&nbsp;Society&nbsp;· lucy&nbsp;· Maddie&nbsp;Maycock&nbsp;· PHOBIA&nbsp;· special&nbsp;guest&nbsp;Graham&nbsp;Clayton-Chance &ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
          
 #### Programme        
 February's event kicks off at 6pm… and finishes *by about* 9pm.         
 <hr>         
-**Gin Niemtus** · *Alter*         
+**Ben Hodge** · *(title tbc)*         
          
-Parts. Ingredients. Tools. Scraps. Toys. Ideas. Catalysts. Fantasies.<br>This piece explores the nature of change, metamorphosis, and alchemy.<br>Do we have what we need in front of us? What makes us want to use it? Can we find ourselves through transformation?         
-         
-Insta <a href="https://instagram.com/ginniemtus" target="_blank">@ginniemtus</a>         
+Insta <a href="https://instagram.com/benhodgeee" target="_blank">@benhodgeee</a>         
 <hr>         
-**Nightingale & Sage** · *The Grief Manicures Project*         
+**lucy** · *I Will Be Dead In Ten Minutes*         
          
-An interactive, intimate piece that blurs the lines between performance, beauty regime, and death café.<br>A dialogue about grief, loss, and bereavement — during the painting of nails.<br>This project transforms the personal experience of double bereavement into a work of live art that addresses universal themes of death, loss, and self-care.         
-         
-Insta <a href="https://instagram.com/nightingaleandsage" target="_blank">@nightingaleandsage</a>         
+Insta <a href="https://instagram.com/luuuuuccccccyy" target="_blank">@luuuuuccccccyy</a>         
 <hr>         
-**Matt Rogerson** · *Dromos/Autos*         
+**Ariel Hebditch** · *There Will Be Blood*         
          
-An audio-visual live art performance that interrogates and represents the artists' autistic lived and embodied experience.<br>It utilises EEG-facilitated neurofeedback to establish an affective feedback loop, whereby the performer — using their brainwaves — simultaneously alters and is affected by a sensorially provocative real-time audio-visual system.         
-         
-This project is the outcome of a Masters by Research degree that has been supported financially and conceptually by De Montfort University, Leicester.         
-         
-<a href="https://linktr.ee/matt_rogerson" target="_blank">linktr.ee/matt_rogerson</a> · Insta <a href="https://instagram.com/matt_rogerson_" target="_blank">@matt_rogerson_</a>         
+Insta <a href="https://instagram.com/arielhebditch" target="_blank">@arielhebditch</a>         
 <hr>         
-**Gemma Lees** · *Badge of Dishonour*         
+**PHOBIA** · *Mistoffelees, or the Fear of Magic (rehearsed reading)*         
          
-What is it like to be physically badged as receiving poor support as in Elizabethan times, and how does that stigmatisation of benefit claimants and the disabled manifest today, especially in the wake of Kier Starmer's proposed PIP reforms?<br>Join disabled artist and PIP claimant Gemma Lees to find out and get the opportunity to respond to modern-day Britain's invisible yet enduring beggar's badges.         
-         
-<a href="https://gemmaleesartist.co.uk" target="_blank">gemmaleesartist.co.uk</a> · Insta <a href="https://instagram.com/gemmathepoet" target="_blank">@gemmathepoet</a>         
+Insta <a href="https://instagram.com/thatcreaturephobia" target="_blank">@thatcreaturephobia</a> <a href="https://instagram.com/mistoffeleesshow" target="_blank">@mistoffeleesshow</a>         
 <hr>         
-**Howard Walmsley** · *I Looked Into Their Eyes And Saw Only Pixels*         
+**Maddie Maycock** · *NONBINARYHOOD: The Questions, Live.*         
          
-A performance lecture by Howard Walmsley featuring the Kodak Carousel Slide Projector, with live improvised soundscape by Graham Massey.<br>In slide collages, cutout digital citizens escape their building site hoardings. They overlap and collide, becoming framed in new relationships and chance meetings. Pressed up hard against the grit and noise of the everyday, they begin to reflect the chaos of the city. What will be the fate of these Imagined people in their yet-to-be places?         
-         
-Howard is a film-maker, artist, and anthropologist based in Manchester. His film work examines the skewed anthropology of everyday life.<br>Graham Massey is a musician, producer, and remixer.         
-         
-<a href="http://howardwalmsley.co.uk" target="_blank">howardwalmsley.co.uk</a> · Insta <a href="https://instagram.com/howard_walmsley" target="_blank">@howard_walmsley</a>         
+Insta <a href="https://instagram.com/crocsportfolio" target="_blank">@crocsportfolio</a>         
 <hr>         
-**Y Talking Nonsense** · *I love myself but I don't like me*         
+**Failed Artist Society** · *The Trial of Jake A*         
          
-A monologue and movement piece exploring race, identity, and internalised racism.<br>Shifting between dance, silence, and spoken confession, the work embodies the tension of belonging everywhere and nowhere, revealing the fragile space between self-love and self-rejection.         
-         
-<a href="https://www.dorisun.com" target="_blank">dorisun.com</a> · Insta <a href="https://instagram.com/ytalkingnonsense" target="_blank">@ytalkingnonsense</a>         
+Insta <a href="https://instagram.com/welsh_webster" target="_blank">@welsh_webster</a> <a href="https://instagram.com/rosewilsonarts" target="_blank">@rosewilsonarts</a> <a href="https://instagram.com/emmabourketheatre" target="_blank">@emmabourketheatre</a>         
 <hr>         
-**The Chubby Northerner** · *Mr Chubba Chubba*         
-
-A spoken word theatre show that wrestles, laughs, and dances with the idea of what it means to be a man then and now.<br>Part confession, part comedy, part cultural archaeology. The show examines the contradictions of masculinity: tough in the changing rooms but tender on stage, loud with the lads but quiet in the mirror. The show is in its early stages of development and is a work in progress.         
-          
-Insta <a href="https://instagram.com/thechubbynortherner" target="_blank">@thechubbynortherner</a>         
+**Graham Clayton-Chance (special guest)** · *<a href="https://contactmcr.com/events/less-like-ourselves-and-more-like-each-other" target="_blank">Less Like Ourselves, More Like Each Other (installation preview)</a>*         
+         
+Insta <a href="https://instagram.com/claytonchancegraham" target="_blank">@claytonchancegraham</a>         
 <hr>          
          
 #### Entry         
 FREE: there's no ticketing… just turn up!         
          
-Time: Thursday 27 November 2025, 6pm onwards (ends *about* 9pm).         
+Time: Thursday 19 February 2026, 6pm onwards (ends *by about* 9pm).         
           
-Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester M15 6JA.         
+Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar & space 2), Oxford Rd, Manchester M15 6JA.         
          
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
           
-Content Warnings: some works involve interaction and/or participation; specific warnings listed [here](/warnings).         
+Content Warnings: some works involve interaction and/or participation; specific warnings listed [here](/warnings) *about* a week before.         
           
 Features: seven Live Art & contemporary performance works with varied content.         
          
-*NB* works occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in space 0 & bar, and in space 2 on the second floor, and vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
+*NB* works mostly occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in space 0 & bar, with one in space 2 on the second floor, and vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
