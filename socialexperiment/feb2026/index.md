@@ -27,6 +27,14 @@ Ariel&nbsp;Hebditch&nbsp;· Ben&nbsp;Hodge&nbsp;· Failed&nbsp;Artist&nbsp;Socie
 #### Programme        
 February's event kicks off at 6pm and finishes *by* 9pm…         
 <hr>         
+**Graham Clayton-Chance (special guest)** · *Less Like Ourselves, More Like Each Other (installation preview)*         
+         
+Artist and filmmaker Graham Clayton-Chance presents *<a href="https://contactmcr.com/events/less-like-ourselves-and-more-like-each-other" target="_blank">Less Like Ourselves, More Like Each Other</a>* on Saturday 21 February during Queer Contact — a body of work rooted in queer country and western dancing in San Francisco, spanning his multi-award-winning film *Last Dance at the Sundance Stompede* and immersive installation developed for Queer Contact.         
+         
+Experience a preview of the installation at Social Experiment: an embodied encounter using original footage, sound, and movement — it reimagines what it must feel like to be on a LGBTQ+ country-western dance floor in an immersive environment shaped by rhythm, proximity, and presence. The work invites you not only to witness community, but to feel it — exploring how movement generates queer collectivity and shared joy.         
+         
+Insta <a href="https://instagram.com/claytonchancegraham" target="_blank">@claytonchancegraham</a>         
+<hr>         
 **Ben Hodge** · *What's in a name?*         
          
 This work explores the relationship we have to our very first gift. This 1-2-1 performance builds from the artist's lived experience as a trans person — carrying a name for 18 years before dealing with systematic and institutional ignorance to the legality of name changing. Join Ben and get a taste of this experience. Can you carry a name? Will they let you change it?         
@@ -38,14 +46,6 @@ Insta <a href="https://instagram.com/benhodgeee" target="_blank">@benhodgeee</a>
 Further information to follow…         
          
 Insta <a href="https://instagram.com/crocsportfolio" target="_blank">@crocsportfolio</a>         
-<hr>         
-**Graham Clayton-Chance (special guest)** · *Less Like Ourselves, More Like Each Other (installation preview)*         
-         
-Artist and filmmaker Graham Clayton-Chance presents *<a href="https://contactmcr.com/events/less-like-ourselves-and-more-like-each-other" target="_blank">Less Like Ourselves, More Like Each Other</a>* on Saturday 21 February during Queer Contact — a body of work rooted in queer country and western dancing in San Francisco, spanning his multi-award-winning film *Last Dance at the Sundance Stompede* and immersive installation developed for Queer Contact.         
-         
-Experience a preview of the installation at Social Experiment: an embodied encounter using original footage, sound, and movement — it reimagines what it must feel like to be on a LGBTQ+ country-western dance floor in an immersive environment shaped by rhythm, proximity, and presence. The work invites you not only to witness community, but to feel it — exploring how movement generates queer collectivity and shared joy.         
-         
-Insta <a href="https://instagram.com/claytonchancegraham" target="_blank">@claytonchancegraham</a>         
 <hr>         
 **PHOBIA** · *Mistoffelees, or the Fear of Magic (rehearsed reading)*         
          
