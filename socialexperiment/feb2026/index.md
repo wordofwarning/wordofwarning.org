@@ -17,7 +17,7 @@ season: "Social Experiment 19|2|2026, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/feb2026/#artists) · [programme](/socialexperiment/feb2026/#programme) · [entry](/socialexperiment/feb2026/#entry) · [access](/socialexperiment/feb2026/#access) · [credits](/socialexperiment/feb2026/#credits)</span>&ensp; <small>Updated 6 February 2026</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/feb2026/#artists) · [programme](/socialexperiment/feb2026/#programme) · [entry](/socialexperiment/feb2026/#entry) · [access](/socialexperiment/feb2026/#access) · [credits](/socialexperiment/feb2026/#credits)</span>&ensp; <small>Updated 12 February 2026</small>          
          
 *A <a href="https://contactmcr.com/queer-contact-2026" target="_blank">Queer Contact</a> Edition of [Social Experiment](/socialexperiment) on 19 February, presented by* Word of Warning + Contact         
          
@@ -25,35 +25,56 @@ season: "Social Experiment 19|2|2026, Programme"
 Ariel&nbsp;Hebditch&nbsp;· Ben&nbsp;Hodge&nbsp;· Failed&nbsp;Artist&nbsp;Society&nbsp;· lucy&nbsp;· Maddie&nbsp;Maycock&nbsp;· PHOBIA&nbsp;· special&nbsp;guest&nbsp;Graham&nbsp;Clayton-Chance &ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
          
 #### Programme        
-February's event kicks off at 6pm and finishes *by about* 9pm. More information about each work will be added before the event…        
+February's event kicks off at 6pm and finishes *by* 9pm…         
 <hr>         
-**Ben Hodge** · *(title tbc)*         
+**Ben Hodge** · *What's in a name?*         
+         
+This work explores the relationship we have to our very first gift. This 1-2-1 performance builds from the artist's lived experience as a trans person — carrying a name for 18 years before dealing with systematic and institutional ignorance to the legality of name changing. Join Ben and get a taste of this experience. Can you carry a name? Will they let you change it?         
          
 Insta <a href="https://instagram.com/benhodgeee" target="_blank">@benhodgeee</a>         
 <hr>         
-**lucy** · *I Will Be Dead In Ten Minutes*         
+**Maddie Maycock** · *NONBINARYHOOD: The Interview, Live.*         
          
-Insta <a href="https://instagram.com/luuuuuccccccyy" target="_blank">@luuuuuccccccyy</a>         
-<hr>         
-**Ariel Hebditch** · *There Will Be Blood*         
-         
-Insta <a href="https://instagram.com/arielhebditch" target="_blank">@arielhebditch</a>         
-<hr>         
-**PHOBIA** · *Mistoffelees, or the Fear of Magic (rehearsed reading)*         
-         
-Insta <a href="https://instagram.com/thatcreaturephobia" target="_blank">@thatcreaturephobia</a> <a href="https://instagram.com/mistoffeleesshow" target="_blank">@mistoffeleesshow</a>         
-<hr>         
-**Maddie Maycock** · *NONBINARYHOOD: The Questions, Live.*         
+Further information to follow…         
          
 Insta <a href="https://instagram.com/crocsportfolio" target="_blank">@crocsportfolio</a>         
 <hr>         
-**Failed Artist Society** · *The Trial of Jake A*         
+**Graham Clayton-Chance (special guest)** · *Less Like Ourselves, More Like Each Other (installation preview)*         
          
-Insta <a href="https://instagram.com/welsh_webster" target="_blank">@welsh_webster</a> <a href="https://instagram.com/rosewilsonarts" target="_blank">@rosewilsonarts</a> <a href="https://instagram.com/emmabourketheatre" target="_blank">@emmabourketheatre</a>         
-<hr>         
-**Graham Clayton-Chance (special guest)** · *<a href="https://contactmcr.com/events/less-like-ourselves-and-more-like-each-other" target="_blank">Less Like Ourselves, More Like Each Other (installation preview)</a>*         
+Artist and filmmaker Graham Clayton-Chance presents *<a href="https://contactmcr.com/events/less-like-ourselves-and-more-like-each-other" target="_blank">Less Like Ourselves, More Like Each Other</a>* on Saturday 21 February during Queer Contact — a body of work rooted in queer country and western dancing in San Francisco, spanning his multi-award-winning film *Last Dance at the Sundance Stompede* and immersive installation developed for Queer Contact.         
+         
+Experience a preview of the installation at Social Experiment: an embodied encounter using original footage, sound, and movement — it reimagines what it must feel like to be on a LGBTQ+ country-western dance floor in an immersive environment shaped by rhythm, proximity, and presence. The work invites you not only to witness community, but to feel it — exploring how movement generates queer collectivity and shared joy.         
          
 Insta <a href="https://instagram.com/claytonchancegraham" target="_blank">@claytonchancegraham</a>         
+<hr>         
+**PHOBIA** · *Mistoffelees, or the Fear of Magic (rehearsed reading)*         
+         
+PHOBIA wants to make a show about their special interest, *Cats* the musical. Not a show about trauma. Not a success story. But when your special interest is such a key part of your life, is that even possible?         
+         
+Part drag show. Part autobiography. Part autistic joy. *Mistofeeles* is a new work-in-progress solo show from the drag artist PHOBIA.         
+         
+Insta <a href="https://instagram.com/thatcreaturephobia" target="_blank">@thatcreaturephobia</a> <a href="https://instagram.com/mistoffeleesshow" target="_blank">@mistoffeleesshow</a>         
+<hr>         
+**Ariel Hebditch** · *There Will Be Blood*          
+         
+Further information to follow…         
+         
+Insta <a href="https://instagram.com/arielhebditch" target="_blank">@arielhebditch</a>         
+<hr>         
+**lucy** · *I Will Be Dead In Ten Minutes*         
+         
+A work completely controlled by you.<br>"*You as an audience have full control on how I work as an artist. Will I do a stand-up comedy set as if I were a cow? Can I paint blindfolded? Can art exist within a world of constraint? The choice is up to you.*"         
+         
+Insta <a href="https://instagram.com/luuuuuccccccyy" target="_blank">@luuuuuccccccyy</a>         
+<hr>         
+
+**Failed Artist Society** · *The Trial of Jake A*         
+         
+A courthouse drama where judges are drag queens, the court is a theatre, and the trials are a performance. These are the people who are deciding our rights. They are not televised but this is a show you want a ticket to.         
+         
+Blending historic accounts, drag, and theatre, this work deconstructs the courtroom — revealing it to be a private pantomime where public rights are at stake. Emma, Ellie, and Rose explore queerness in the courtroom and hold up a mirror to the trans panic plaguing us today.         
+         
+Insta <a href="https://instagram.com/emmabourketheatre" target="_blank">@emmabourketheatre</a> <a href="https://instagram.com/welsh_webster" target="_blank">@welsh_webster</a> <a href="https://instagram.com/rosewilsonarts" target="_blank">@rosewilsonarts</a>         
 <hr>          
          
 #### Entry         
