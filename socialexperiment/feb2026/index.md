@@ -17,7 +17,7 @@ season: "Social Experiment 19|2|2026, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/feb2026/#artists) · [programme](/socialexperiment/feb2026/#programme) · [entry](/socialexperiment/feb2026/#entry) · [access](/socialexperiment/feb2026/#access) · [credits](/socialexperiment/feb2026/#credits)</span>&ensp; <small>Updated 12 February 2026</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/feb2026/#artists) · [programme](/socialexperiment/feb2026/#programme) · [entry](/socialexperiment/feb2026/#entry) · [access](/socialexperiment/feb2026/#access) · [credits](/socialexperiment/feb2026/#credits)</span>&ensp; <small>Updated 13 February 2026</small>          
          
 *A <a href="https://contactmcr.com/queer-contact-2026" target="_blank">Queer Contact</a> Edition of [Social Experiment](/socialexperiment) on 19 February, presented by* Word of Warning + Contact         
          
@@ -87,7 +87,7 @@ Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Co
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
           
-Content Warnings: some works involve interaction and/or participation; specific warnings listed [here](/warnings) *about* a week before.         
+Content Warnings: some works involve interaction and/or participation; specific warnings are now listed [here](/warnings).         
           
 Features: seven Live Art & contemporary performance works with varied content.         
          
