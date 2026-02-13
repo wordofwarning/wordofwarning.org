@@ -17,7 +17,7 @@ season: "Turn 20|3|2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 16 January 2026, 5pm</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 13 February</small>        
         
 *Presented by* Word of Warning *+* Contact        
         
@@ -28,7 +28,7 @@ Get a feel for Turn with [images from last year's event](/galleries/2025-turn).
 Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn&nbsp;2026 transport you into a frenzy of dance…         
          
 #### Artists         
-*Participating&nbsp;artists will&nbsp;be&nbsp;announced in&nbsp;early&nbsp;February.*         
+Alice&nbsp;Robinson&nbsp;Moves&nbsp;· Blood&nbsp;Bones&nbsp;Jones· Clara&nbsp;Selberg· Hui-Hsin&nbsp;Lu· Jax&nbsp;Nation· Joseph&nbsp;Adamson· Joseph&nbsp;Lau&nbsp;&&nbsp;friends· printerror· Sap&nbsp;Dance &ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
         
 #### Entry         
 Pay What You Decide: £20/£15/£10/£5/£0 (advance booking recommended).        
@@ -44,12 +44,12 @@ Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).
          
 Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed [here](/warnings) in late February.         
         
-Features: *up to ten* contemporary dance performance works with varied content; works will occur in three spaces and will vary in format.
+Features: nine contemporary dance performance works with varied content; works will occur in three spaces and will vary in format.
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### About         
-Our annual platform for North West dancers and dance-makers, [Turn](/hab/turn) is an opportunity to engage with new dance in Greater Manchester every spring.<br>This thirteenth edition will present *up to ten* short dance-works over a single night throughout <a href="https://contactmcr.com" target="_blank">Contact</a>'s building and its multiple spaces.         
+Our annual platform for North West dancers and dance-makers, [Turn](/hab/turn) is an opportunity to engage with new dance in Greater Manchester every spring.<br>This thirteenth edition will present nine short dance-works over a single night throughout <a href="https://contactmcr.com" target="_blank">Contact</a>'s building and its multiple spaces.         
         
 Greater Manchester's open call dance platform, [Turn](/hab/turn) aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— and is open to <a href="http://en.wikipedia.org/wiki/North_West_England" target="_blank">North West England</a> dancers and dance-makers, aged 18+         
         
