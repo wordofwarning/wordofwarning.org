@@ -21,7 +21,7 @@ season: "Turn 20|3|2026"
         
 *Presented by* Word of Warning *+* Contact        
         
-Our annual whirlwind of new North West dance takes over <a href="https://contactmcr.com/events/turn-2026" target="_blank">Contact</a> on **Friday 20 March from 7pm**…         
+Our annual whirlwind of new North West dance takes over <a href="https://contactmcr.com/events/turn-2026" target="_blank">Contact</a> with nine short dance-works on **Friday 20 March from 7pm**…         
          
 Get a feel for Turn with [images from last year's event](/galleries/2025-turn).          
           
@@ -53,7 +53,7 @@ Our annual platform for North West dancers and dance-makers, [Turn](/hab/turn) i
         
 Greater Manchester's open call dance platform, [Turn](/hab/turn) aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— and is open to <a href="http://en.wikipedia.org/wiki/North_West_England" target="_blank">North West England</a> dancers and dance-makers, aged 18+         
         
-First held at greenroom in spring 2009, [Turn](/hab/turn) moved to <a href="https://contactmcr.com" target="_blank">Contact</a> in 2012 (with a 2018-22 hiatus) and also popped-up at <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> in [2024](/archive/2024-turn)…          
+First held at greenroom in spring 2009, [Turn](/hab/turn) moved to <a href="https://contactmcr.com" target="_blank">Contact</a> in 2012 (with a 2018-22 hiatus) and also popped-up at <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> in 2024…          
 
 Get a feel for [Turn](/hab/turn) with [2025's programme](/archive/2025-turn) and [gallery of images](/galleries/2025-turn); [2024's programme](/archive/2024-turn) and [gallery](/galleries/2024-turn); [2023's programme](/archive/2023-turn) and [gallery](/galleries/2023-turn).         
         
