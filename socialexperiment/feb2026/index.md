@@ -29,7 +29,7 @@ February's event kicks off at 6pm and finishes *by* 9pm…
 <hr>         
 **Graham Clayton-Chance (special guest)** · *Less Like Ourselves, More Like Each Other (installation preview)*         
          
-Artist and filmmaker Graham Clayton-Chance presents *<a href="https://contactmcr.com/events/less-like-ourselves-and-more-like-each-other" target="_blank">Less Like Ourselves, More Like Each Other</a>* on Saturday 21 February during Queer Contact — a body of work rooted in queer country and western dancing in San Francisco, spanning his multi-award-winning film *Last Dance at the Sundance Stompede* and immersive installation developed for Queer Contact.         
+Artist and filmmaker Graham presents *<a href="https://contactmcr.com/events/less-like-ourselves-and-more-like-each-other" target="_blank">Less Like Ourselves, More Like Each Other</a>* on Saturday 21 February during Queer Contact — a body of work rooted in queer country and western dancing in San Francisco, spanning his multi-award-winning film *Last Dance at the Sundance Stompede* and immersive installation developed for Queer Contact.         
          
 Experience a preview of the installation at Social Experiment: an embodied encounter using original footage, sound, and movement — it reimagines what it must feel like to be on a LGBTQ+ country-western dance floor in an immersive environment shaped by rhythm, proximity, and presence. The work invites you not only to witness community, but to feel it — exploring how movement generates queer collectivity and shared joy.         
          
@@ -59,7 +59,7 @@ Insta <a href="https://instagram.com/thatcreaturephobia" target="_blank">@thatcr
 <hr>         
 **Ariel Hebditch** · *There Will Be Blood*          
          
-Further information to follow…         
+Ariel is an extremely silly, chaotic, high-energy stand-up comedian, but don't catch her on the full moon — it's the wrong time of the month! Winner of the Jason Manford Award for Best Newcomer at the Women in Comedy Festival 2024, Ariel will give you the time of your death as she combines stand-up, storytelling, and, spookiest of all, marketing in her brand-new piece exploring menstruation and monsters with her forked tongue in her cheek. If you love campy B-movie horror, feminism, and Dragon's Den, then she invites you in to her old, gothic castle, but be warned… there will be blood.         
          
 Insta <a href="https://instagram.com/arielhebditch" target="_blank">@arielhebditch</a>         
 <hr>         
