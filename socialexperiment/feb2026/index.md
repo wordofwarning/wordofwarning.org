@@ -43,7 +43,9 @@ Insta <a href="https://instagram.com/benhodgeee" target="_blank">@benhodgeee</a>
 <hr>         
 **Maddie Maycock** · *NONBINARYHOOD: The Interview, Live.*         
          
-A durational 1-2-1 performance asking questions about queerhood, girlhood, boyhood, and nonbinaryhood.<br>"*This work draws on an interview format, the difference is, only the audience speaks. In an intimate style of one to one performance, I'll be asking questions about girlhood, boyhood and nonbinaryhood. Giving space for people to speak aloud about their experiences as queer beings, and how the art of storytelling begins with people sharing parts of themselves, and someone there to listen. The piece is part of a wider research project that aims to expand the language surrounding the non-binary experience. Through testimony, interview and other artistic methods I have been conducting research into girlhood, boyhood, and people's experiences of queerness in their childhoods. Stay for as long or as little as you wish. Participants who enter the space and speak as part of the one to one performance will be recorded, as all participation will go directly towards the research. You do not have to be a performer, you do not have to be an artist, the aim is to engage with as many people as possible and to listen to your stories.*"
+A durational 1-2-1 performance asking questions about queerhood, girlhood, boyhood, and nonbinaryhood.         
+         
+"*This work draws on an interview format, the difference is, only the audience speaks. In an intimate style of one to one performance, I'll be asking questions about girlhood, boyhood and nonbinaryhood. Giving space for people to speak aloud about their experiences as queer beings, and how the art of storytelling begins with people sharing parts of themselves, and someone there to listen. The piece is part of a wider research project that aims to expand the language surrounding the non-binary experience. Through testimony, interview and other artistic methods I have been conducting research into girlhood, boyhood, and people's experiences of queerness in their childhoods. Stay for as long or as little as you wish. Participants who enter the space and speak as part of the one to one performance will be recorded, as all participation will go directly towards the research. You do not have to be a performer, you do not have to be an artist, the aim is to engage with as many people as possible and to listen to your stories.*"
          
 Insta <a href="https://instagram.com/crocsportfolio" target="_blank">@crocsportfolio</a>         
 <hr>         
@@ -63,7 +65,9 @@ Insta <a href="https://instagram.com/arielhebditch" target="_blank">@arielhebdit
 <hr>         
 **lucy** · *I Will Be Dead In Ten Minutes*         
          
-A work completely controlled by you.<br>"*You as an audience have full control on how I work as an artist. Will I do a stand-up comedy set as if I were a cow? Can I paint blindfolded? Can art exist within a world of constraint? The choice is up to you.*"         
+A work completely controlled by you.         
+         
+"*You as an audience have full control on how I work as an artist. Will I do a stand-up comedy set as if I were a cow? Can I paint blindfolded? Can art exist within a world of constraint? The choice is up to you.*"         
          
 Insta <a href="https://instagram.com/luuuuuccccccyy" target="_blank">@luuuuuccccccyy</a>         
 <hr>         
