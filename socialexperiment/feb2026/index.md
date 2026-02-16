@@ -59,7 +59,9 @@ Insta <a href="https://instagram.com/thatcreaturephobia" target="_blank">@thatcr
 <hr>         
 **Ariel Hebditch** · *There Will Be Blood*          
          
-Ariel is an extremely silly, chaotic, high-energy stand-up comedian, but don't catch her on the full moon — it's the wrong time of the month! Winner of the Jason Manford Award for Best Newcomer at the Women in Comedy Festival 2024, Ariel will give you the time of your death as she combines stand-up, storytelling, and, spookiest of all, marketing in her brand-new piece exploring menstruation and monsters with her forked tongue in her cheek. If you love campy B-movie horror, feminism, and Dragon's Den, then she invites you in to her old, gothic castle, but be warned… there will be blood.         
+Ariel is an extremely silly, chaotic, high-energy stand-up comedian, but don't catch her on the full moon — it's the wrong time of the month!         
+         
+Winner of the Jason Manford Award for Best Newcomer at the Women in Comedy Festival 2024, Ariel will give you the time of your death as she combines stand-up, storytelling, and, spookiest of all, marketing in her brand-new piece exploring menstruation and monsters with her forked tongue in her cheek. If you love campy B-movie horror, feminism, and Dragon's Den, then she invites you in to her old, gothic castle, but be warned… there will be blood.         
          
 Insta <a href="https://instagram.com/arielhebditch" target="_blank">@arielhebditch</a>         
 <hr>         
@@ -91,7 +93,7 @@ Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Co
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
           
-Content Warnings: some works involve interaction and/or participation; specific warnings are now listed [here](/warnings).         
+Content Warnings: some works involve interaction and/or participation; specific warnings listed [here](/warnings).         
           
 Features: seven Live Art & contemporary performance works with varied content.         
          
