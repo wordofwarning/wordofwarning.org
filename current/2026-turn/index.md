@@ -17,7 +17,7 @@ season: "Turn 20|3|2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 13 February 2026</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 17 February 2026</small>        
         
 *Presented by* Word of Warning *+* Contact        
         
@@ -28,7 +28,7 @@ Get a feel for Turn with [images from last year's event](/galleries/2025-turn).
 Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn&nbsp;2026 transport you into a frenzy of dance…         
          
 #### Artists         
-Alice&nbsp;Robinson&nbsp;Moves&nbsp;· Blood&nbsp;Bones&nbsp;Jones&nbsp;· Clara&nbsp;Selberg&nbsp;· Hui-Hsin&nbsp;Lu&nbsp;· Jax&nbsp;Nation&nbsp;· Joseph&nbsp;Adamson&nbsp;· Joseph&nbsp;Lau&nbsp;&&nbsp;friends&nbsp;· printerror&nbsp;· Sap&nbsp;Dance &ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
+Alice&nbsp;Robinson&nbsp;Moves&nbsp;· Blood&nbsp;Bones&nbsp;Jones&nbsp;· Clara&nbsp;Selberg&nbsp;· Hui-Hsin&nbsp;Lu&nbsp;· Jax&nbsp;Nation&nbsp;&&nbsp;Sophia&nbsp;Egan&nbsp;· Joseph&nbsp;Adamson&nbsp;· Joseph&nbsp;Lau&nbsp;&&nbsp;friends&nbsp;· printerror&nbsp;· Sap&nbsp;Dance &ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
         
 #### Entry         
 Pay What You Decide: £20/£15/£10/£5/£0 (advance booking recommended).        
