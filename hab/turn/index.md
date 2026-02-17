@@ -16,11 +16,11 @@ season: "Turn by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 16 January 2026, 5pm</small>        
+<small>Updated 17 February 2026</small>        
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester every spring.    
              
-The thirteenth edition, **[Turn 2026](/current/2026-turn)** will take place at <a href="https://contactmcr.com" target="_blank">Contact</a> on **Friday 20 March from 7pm** — presenting *up to ten* short dance-works throughout the building.         
+The thirteenth edition, **[Turn 2026](/current/2026-turn)** will take place at <a href="https://contactmcr.com" target="_blank">Contact</a> on **Friday 20 March from 7pm** — presenting nine short dance-works throughout the building.         
          
 Get a feel for it with [2025's programme](/archive/2025-turn/programme) and [gallery of images](/galleries/2025-turn); [2024's programme](/archive/2024-turn/programme) and [gallery](/galleries/2024-turn); [2023's programme](/archive/2023-turn/programme) and [gallery](/galleries/2023-turn).         
         
