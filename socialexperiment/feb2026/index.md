@@ -17,21 +17,27 @@ season: "Social Experiment 19|2|2026, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/feb2026/#artists) · [programme](/socialexperiment/feb2026/#programme) · [entry](/socialexperiment/feb2026/#entry) · [access](/socialexperiment/feb2026/#access) · [credits](/socialexperiment/feb2026/#credits)</span>&ensp; <small>Updated 16 February 2026</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/feb2026/#artists) · [programme](/socialexperiment/feb2026/#programme) · [entry](/socialexperiment/feb2026/#entry) · [access](/socialexperiment/feb2026/#access) · [credits](/socialexperiment/feb2026/#credits)</span>&ensp; <small>Updated 18 February 2026</small>          
          
 *A <a href="https://contactmcr.com/queer-contact-2026" target="_blank">Queer Contact</a> Edition of [Social Experiment](/socialexperiment) on 19 February, presented by* Word of Warning + Contact         
+         
+**Social Experiment** is a free and informal, semi-regular evening gathering at Contact for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
+        
+If you're a Greater Manchester artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
+         
+If you're an audience member looking for something a little bit different — this is your chance to take a few risks & meet some artists in our social experiment.         
          
 #### Artists         
 Ariel&nbsp;Hebditch&nbsp;· Ben&nbsp;Hodge&nbsp;· Failed&nbsp;Artist&nbsp;Society&nbsp;· lucy&nbsp;· Maddie&nbsp;Maycock&nbsp;· PHOBIA&nbsp;· special&nbsp;guest&nbsp;Graham&nbsp;Clayton-Chance &ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
          
 #### Programme        
-February's event kicks off at 6pm and finishes *by* 9pm…         
+February's <a href="https://contactmcr.com/queer-contact-2026" target="_blank">Queer Contact</a> Edition, hosted by Seth Douglas, kicks off at 6pm and finishes *by* 9pm…         
 <hr>         
 **Graham Clayton-Chance (special guest)** · *Less Like Ourselves, More Like Each Other (installation preview)*         
          
 Artist and filmmaker Graham presents *<a href="https://contactmcr.com/events/less-like-ourselves-and-more-like-each-other" target="_blank">Less Like Ourselves, More Like Each Other</a>* on Saturday 21 February during Queer Contact — a body of work rooted in queer country and western dancing in San Francisco, spanning his multi-award-winning film *Last Dance at the Sundance Stompede* and immersive installation developed for Queer Contact.         
          
-Experience a preview of the installation at Social Experiment: an embodied encounter using original footage, sound, and movement — it reimagines what it must feel like to be on a LGBTQ+ country-western dance floor in an immersive environment shaped by rhythm, proximity, and presence. The work invites you not only to witness community, but to feel it — exploring how movement generates queer collectivity and shared joy.         
+From 6pm experience a preview of the installation in Space 2 (shown twice): an embodied encounter using original footage, sound, and movement — it reimagines what it must feel like to be on a LGBTQ+ country-western dance floor in an immersive environment shaped by rhythm, proximity, and presence. The work invites you not only to witness community, but to feel it — exploring how movement generates queer collectivity and shared joy.         
          
 Insta <a href="https://instagram.com/claytonchancegraham" target="_blank">@claytonchancegraham</a>         
 <hr>         
