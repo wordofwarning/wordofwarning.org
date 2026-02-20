@@ -17,22 +17,22 @@ season: "Social Experiment"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 6 February 2026</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 20 February 2026</small>          
          
 *Presented by* Word of Warning + <a href="https://contactmcr.com/events/social-experiment" target="_blank">Contact</a> *as a semi-regular evening event.*         
          
 **Social Experiment** is a gathering at Contact for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
           
-A free and informal, semi-regular evening event with the next on Thursday **[19 February](/socialexperiment/feb2026)** from 6pm to 9pm (a <a href="https://contactmcr.com/queer-contact-2026" target="_blank">Queer Contact</a> Edition) — followed by Thursdays **9 April** and **11 June** 2026.         
+A free and informal, semi-regular evening event with the next on Thursday **9 April** from 6pm to 9pm — followed by Thursday **11 June** 2026.         
           
 If you're a Greater Manchester artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
          
 If you're an audience member looking for something a little bit different — this is your chance to take a few risks & meet some artists in our social experiment.         
          
-Past events were held during [2025](/archive/2025-socialexperiment) in [February](/socialexperiment/feb2025), [May](/socialexperiment/may2025), [June (a Student Edition)](/socialexperiment/studentedition), [July](/socialexperiment/jul2025), and [November](/socialexperiment/nov2025) — [see some images](/galleries/2025-socex).         
+Past events were held in [February 2026 (a Queer Contact Edition)](/socialexperiment/feb2026) and during [2025](/archive/2025-socialexperiment) in [February](/socialexperiment/feb2025), [May](/socialexperiment/may2025), [June (a Student Edition)](/socialexperiment/studentedition), [July](/socialexperiment/jul2025), and [November](/socialexperiment/nov2025) — [see some 2025 images](/galleries/2025-socex).         
          
 #### Artists        
-**19 February** (<a href="https://contactmcr.com/queer-contact-2026" target="_blank">Queer Contact</a> Edition) — Ariel&nbsp;Hebditch&nbsp;· Ben&nbsp;Hodge&nbsp;· Failed&nbsp;Artist&nbsp;Society&nbsp;· lucy&nbsp;· Maddie&nbsp;Maycock&nbsp;· PHOBIA&nbsp;· special&nbsp;guest&nbsp;Graham&nbsp;Clayton-Chance —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/feb2026).&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
+**19 February** (<a href="https://contactmcr.com/queer-contact-2026" target="_blank">Queer Contact</a> Edition) — Ariel&nbsp;Hebditch&nbsp;· Ben&nbsp;Hodge&nbsp;· Failed&nbsp;Artist&nbsp;Society&nbsp;· lucy&nbsp;· Maddie&nbsp;Maycock&nbsp;· PHOBIA&nbsp;· special&nbsp;guest&nbsp;Graham&nbsp;Clayton-Chance —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/feb2026).         
          
 **9 April** — participating artists to be announced.         
          
@@ -43,7 +43,7 @@ Past events were held during [2025](/archive/2025-socialexperiment) in [February
 #### Entry         
 FREE: there's no ticketing… just turn up!         
          
-Next Date: Thursday 19 February 2026 (Queer Contact Edition).<br>Following Dates: Thursdays 9 April and 11 June 2026.<br>Time: 6pm onwards (each event ends *by about* 9pm).         
+Next Date: Thursday 9 April 2026<br>Following Date: Thursday 11 June 2026.<br>Time: 6pm onwards (each event ends *by about* 9pm).         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester M15 6JA.         
          
