@@ -8,7 +8,7 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: "Social<br>Experiment<br>2026"
-more_url: "../../socialexperiment/feb2026/"
+more_url: "../../socialexperiment/"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small><i>A gathering for Live Art and contemporary performance.</i></small>"}
