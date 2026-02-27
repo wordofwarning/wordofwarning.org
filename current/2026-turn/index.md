@@ -17,18 +17,18 @@ season: "Turn 20|3|2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 17 February 2026</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 27 February 2026</small>        
         
 *Presented by* Word of Warning *+* Contact        
         
 Our annual whirlwind of new North West dance takes over <a href="https://contactmcr.com/events/turn-2026" target="_blank">Contact</a> with nine short dance-works on **Friday 20 March from 7pm**…         
          
-Get a feel for Turn with [images from last year's event](/galleries/2025-turn).          
+Look at some of our [artists' images](/galleries/2026-turnpre) and get a feel for it with [images from last year's event](/galleries/2025-turn).          
           
 Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn&nbsp;2026 transport you into a frenzy of dance…         
          
 #### Artists         
-Alice&nbsp;Robinson&nbsp;Moves&nbsp;· Blood&nbsp;Bones&nbsp;Jones&nbsp;· Clara&nbsp;Selberg&nbsp;· Hui-Hsin&nbsp;Lu&nbsp;· Jax&nbsp;Nation&nbsp;&&nbsp;Sophia&nbsp;Egan&nbsp;· Joseph&nbsp;Adamson&nbsp;· Joseph&nbsp;Lau&nbsp;&&nbsp;friends&nbsp;· printerror&nbsp;· Sap&nbsp;Dance &ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
+Alice&nbsp;Robinson&nbsp;Moves&nbsp;· Blood&nbsp;Bones&nbsp;Jones&nbsp;· Clara&nbsp;Selberg&nbsp;·  Emmy&nbsp;Jax&nbsp;&&nbsp;Sophia&nbsp;Egan&nbsp;· Hui-in&nbsp;Lu&nbsp;· Joseph&nbsp;Adamson&nbsp;· Joseph&nbsp;Lau&nbsp;&&nbsp;friends&nbsp;· printerror&nbsp;· Sap&nbsp;Dance &ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
         
 #### Entry         
 Pay What You Decide: £20/£15/£10/£5/£0 (advance booking recommended).        
@@ -60,7 +60,7 @@ Get a feel for [Turn](/hab/turn) with [2025's programme](/archive/2025-turn) and
 #### Credits                 
 [Turn](/hab/turn) 2026 produced by [hÅb](/hab); supported by <a href="https://www.cheshiredance.org" target="_blank">Cheshire Dance</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England. Thanks to <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>.         
           
-Image: Maelstrom Theatre in [Turn 2025](/archive/2025-turn) at Contact         
+Image: Clara Selberg, due to appear in Turn 2026 at Contact         
           
 #### Website         
 <a href="https://turnmcr.org" target="_blank">turnmcr.org</a>         
