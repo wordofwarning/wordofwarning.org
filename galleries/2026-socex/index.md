@@ -18,6 +18,6 @@ gallery:
     -   {file: "phobia.jpg", artist: "PHOBIA (Feb 2026)"}
     -   {file: "ariel.jpg", artist: "Ariel Hebditch (Feb 2026)"}
     -   {file: "lucy.jpg", artist: "lucy (Feb 2026)"}
-    -   {file: "failed artist.jpg", artist: "Failed Artist Society)"}
+    -   {file: "failed artist.jpg", artist: "Failed Artist Society (Feb 2026)"}
     -   {file: "social dancing.jpg", artist: "social dancing (Feb 2026)"}
 ---
