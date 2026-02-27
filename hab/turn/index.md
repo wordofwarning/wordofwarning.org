@@ -16,11 +16,11 @@ season: "Turn by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 17 February 2026</small>        
+<small>Updated 27 February 2026</small>        
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester every spring.    
              
-The thirteenth edition, **[Turn 2026](/current/2026-turn)** will take place at <a href="https://contactmcr.com" target="_blank">Contact</a> on **Friday 20 March from 7pm** — presenting nine short dance-works throughout the building.         
+The thirteenth edition, **[Turn 2026](/current/2026-turn)** will take place at <a href="https://contactmcr.com" target="_blank">Contact</a> on **Friday 20 March from 7pm** — presenting nine short dance-works throughout the building. Look at some of our [artists' images](/galleries/2026-turnpre).                  
          
 Get a feel for it with [2025's programme](/archive/2025-turn/programme) and [gallery of images](/galleries/2025-turn); [2024's programme](/archive/2024-turn/programme) and [gallery](/galleries/2024-turn); [2023's programme](/archive/2023-turn/programme) and [gallery](/galleries/2023-turn).         
         
@@ -53,8 +53,6 @@ The twelfth edition returned to <a href="https://contactmcr.com" target="_blank"
 #### Turn Prize 2024         
 On 30 April 2024 we were delighted to announce Fabíola Santana and Louiseanne Wong as the recipients of the Turn Prize [2024](/archive/2024-turn).<br>The Turn Prize is a commission for the development of work shown at Turn by North West-based dance-makers, in [2024](/archive/2024-turn) supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> using public funding by Arts Council England, and by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>.         
          
-Fabíola Santana showed *We're Here Because They Were* at [Company Chameleon](/archive/2025/santana) on 29 May 2025, and a work in progress at <a href="https://unitytheatreliverpool.co.uk/whats-on/were-here-because-they-were" target="_blank">Unity Theatre, Liverpool</a> on 23 April 2025.         
-         
-Louiseanne Wong showed a preview of *I Am. Am I* in the <a href="https://thelowry.com/pQW3zUL/horizons-collective-showcase" target="_blank">Horizons Collective Showcase</a> at <a href="https://thelowry.com/whats-on/336//horizons-collective-showcase" target="_blank">Lowry</a> on 12 February 2025.        
+**Fabíola Santana** showed *We're Here Because They Were* at [Company Chameleon](/archive/2025/santana) on 29 May 2025, and a work in progress at <a href="https://unitytheatreliverpool.co.uk/whats-on/were-here-because-they-were" target="_blank">Unity Theatre, Liverpool</a> on 23 April 2025. **Louiseanne Wong** showed a preview of *I Am. Am I* in the <a href="https://thelowry.com/pQW3zUL/horizons-collective-showcase" target="_blank">Horizons Collective Showcase</a> at <a href="https://thelowry.com/whats-on/336//horizons-collective-showcase" target="_blank">Lowry</a> on 12 February 2025.        
          
 Image: Maelstrom Theatre in [Turn 2025](/archive/2025-turn) at Contact
