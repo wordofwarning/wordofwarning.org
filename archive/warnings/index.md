@@ -12,7 +12,7 @@ season: "Archived Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 12 February 2026<small>        
+<small>Updated 27 February 2026<small>        
         
 Age Advisories/Limits & Content Warnings for *past* events and *archived* livestreams on our YouTube channel are available below, including elements that may distress, cause upset, or trigger.&emsp;Go to → [2026](/archive/warnings/#2026) · [2025](/archive/warnings/#2025) · [2024](/archive/warnings/#2024) · [2023](/archive/warnings/#2023) · [2022](/archive/warnings/#2022) · [2021](/archive/warnings/#2021) · [2020](/archive/warnings/#2020) · [2019](/archive/warnings/#2019)&emsp;(Please click [here](/warnings) for *upcoming* events.)        
         
@@ -20,6 +20,9 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 <hr>         
 #### 2026         
          
+##### [19 Feb. Contact | Social Experiment: Queer Contact Edition](/socialexperiment/feb2026)          
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works involved interaction and/or participation; specific warnings follow…<br>&nbsp;Ariel Hebditch — audience interaction; use of fake blood; discussion of misogyny.<br>&nbsp;Ben Hodge — audience participation.<br>&nbsp;Failed Artist Society — referenced institutional transphobia.<br>&nbsp;Graham Clayton-Chance — optional audience participation (social dancing).<br>&nbsp;lucy — reactive to audience requests: therefore emotionally disturbing or upsetting imagery may have been presented and use of profanity.<br>&nbsp;Maddie Maycock — encouraged audience participation.<br>&nbsp;PHOBIA — discussion of psychosis, transphobia, queerphobia, suicidal ideation, parental isolation, and trauma.         
+ 
 ##### [11 Feb. Lowry | *Trouble, Struggle, Bubble & Squeak* by Victoria Melody (dir. Mark Thomas)](/current/2026/melody)          
 Age Advisory: 14+ (parent/guardian/carer discretion).<br>Content Warnings: short reference to violence/murder and sexual innuendo.         
          
