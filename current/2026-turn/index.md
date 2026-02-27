@@ -23,12 +23,12 @@ season: "Turn 20|3|2026"
         
 Our annual whirlwind of new North West dance takes over <a href="https://contactmcr.com/events/turn-2026" target="_blank">Contact</a> with nine short dance-works on **Friday 20 March from 7pm**…         
          
-Look at some of our [artists' images](/galleries/2026-turnpre) and get a feel for it with [images from last year's event](/galleries/2025-turn).          
+Look at some of our [artists' images](/galleries/2026-turnpre).          
           
 Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn&nbsp;2026 transport you into a frenzy of dance…         
          
 #### Artists         
-Alice&nbsp;Robinson&nbsp;Moves&nbsp;· Blood&nbsp;Bones&nbsp;Jones&nbsp;· Clara&nbsp;Selberg&nbsp;·  Emmy&nbsp;Jax&nbsp;&&nbsp;Sophia&nbsp;Egan&nbsp;· Hui-in&nbsp;Lu&nbsp;· Joseph&nbsp;Adamson&nbsp;· Joseph&nbsp;Lau&nbsp;&&nbsp;friends&nbsp;· printerror&nbsp;· Sap&nbsp;Dance &ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
+Alice&nbsp;Robinson&nbsp;Moves&nbsp;· Blood&nbsp;Bones&nbsp;Jones&nbsp;· Clara&nbsp;Selberg&nbsp;·  Emmy&nbsp;Jax&nbsp;&&nbsp;Sophia&nbsp;Egan&nbsp;· Hui-Hsin&nbsp;Lu&nbsp;· Joseph&nbsp;Adamson&nbsp;· Joseph&nbsp;Lau&nbsp;&&nbsp;friends&nbsp;· printerror&nbsp;· Sap&nbsp;Dance &ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
         
 #### Entry         
 Pay What You Decide: £20/£15/£10/£5/£0 (advance booking recommended).        
@@ -42,7 +42,7 @@ Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Co
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
          
-Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed [here](/warnings) in late February.         
+Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed [here](/warnings) in early March.         
         
 Features: nine contemporary dance performance works with varied content; works will occur in three spaces and will vary in format.
          
