@@ -42,7 +42,7 @@ Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Co
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
          
-Content Warnings: some works *may* involve interaction and/or participation; specific warnings will be listed [here](/warnings) in early March.         
+Content Warnings: please click [here](/warnings).         
         
 Features: nine contemporary dance performance works with varied content; works will occur in three spaces and will vary in format.
          
