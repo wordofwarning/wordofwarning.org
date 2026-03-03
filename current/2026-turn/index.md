@@ -17,7 +17,7 @@ season: "Turn 20|3|2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 27 February 2026</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 3 March 2026</small>        
         
 *Presented by* Word of Warning *+* Contact        
         
@@ -60,7 +60,7 @@ Get a feel for [Turn](/hab/turn) with [2025's programme](/archive/2025-turn) and
 #### Credits                 
 [Turn](/hab/turn) 2026 produced by [hÅb](/hab); supported by <a href="https://www.cheshiredance.org" target="_blank">Cheshire Dance</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England. Thanks to <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>.         
           
-Image: Clara Selberg, due to appear in Turn 2026 at Contact         
+Image: Clara Selberg, due to appear in Turn 2026 at Contact (credit: Wiswould Wise Productions)        
           
 #### Website         
 <a href="https://turnmcr.org" target="_blank">turnmcr.org</a>         
