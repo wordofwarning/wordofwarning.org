@@ -1,15 +1,15 @@
 ---
 # CONFIGURATION
-layout: 2025-turn
+layout: 2026-turn
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Turn 2025" # the name of the artist or company
+artist: "Turn 2026" # the name of the artist or company
 show: "Programme Notes" # the name of the show
 artist_size: 1
 show_size: 4
 header_image:  
-season: "Turn 4|4|2025, Programme"
+season: "Turn 20|3|2026, Programme"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,11 +17,11 @@ season: "Turn 4|4|2025, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2025-turn/#artists) · [programme](/current/2025-turn/programme) · [entry](/current/2025-turn/#entry) · [access](/current/2025-turn/#access) · [about](/current/2025-turn/#about) · [credits](/current/2025-turn/#credits)</span>&ensp; <small>Updated 3 April 2025, 10.10pm</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2025-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 6 March 2026</small>         
         
-*Presented by* Word of Warning *+* Contact<br>***NB* this event is sold-out.**         
+*Presented by* Word of Warning *+* Contact<br>         
          
-[Turn 2025](/current/2025-turn) is a night of new dance at <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> featuring eight short works in three spaces on Friday 4 April — look at our [artists' images](/galleries/2025-turnpre/). Our twelfth annual platform for North West dancers and dance-makers starts at 7pm in space 1…         
+[Turn 2026](/current/2026-turn) is a night of new dance at <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> featuring nine short works in three spaces on Friday 20 March — look at our [artists' images](/galleries/2026-turnpre). Our thirteenth annual platform for North West dancers and dance-makers starts at 7pm in space 1…         
 <hr>         
 **Dais Leach** · *Echoes of the Isle*         
           
@@ -110,5 +110,5 @@ UMAMI&#8209;i!&#8209;MOVEMENT is Maisha Kungu and Lily Antonia — a fledgling M
          
 Insta <a href="https://instagram.com/umami_movement" target="_blank">@umami_movement</a> <a href="https://instagram.com/lily.antonia" target="_blank">@lily.antonia</a> <a href="https://instagram.com/maisha.kungu.dance" target="_blank">@maisha.kungu.dance</a>         
 <hr>                  
-Image: UMAMI-i!-MOVEMENT by Joel Chester Fildes           
-<small><span style='font-variant: small-caps'>[back to top](/current/2025-turn/programme)</span></small>
+Image: Clara Selberg, due to appear in Turn 2026 at Contact (credit: Wiswould Wise Productions)           
+<small><span style='font-variant: small-caps'>[back to top](/current/2026-turn/programme)</span></small>
