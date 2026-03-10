@@ -58,7 +58,7 @@ About Harry's previous work…
 >*Extraordinary.* — The Guardian<br>*Truly stunning. A work of legitimately radical power.* — Little White Lies<br>*A delectably disruptive force in theatre, film and installation.* — Attitude Magazine         
          
 #### Credits         
-A new show from Harry Clayton-Wright.<br>Performed by Harry Clayton-Wright, Aysh de Belle, Sam de Belle, and Blake Rainey.<br>Created in collaboration with Oliver Gregory, aka Miss Titty Kaka, with Aysh de Belle and Sam de Belle.          
+A new show from Harry Clayton-Wright. Performed by Harry Clayton-Wright, Aysh de Belle, Sam de Belle, and Blake Rainey. Created in collaboration with Oliver Gregory, aka Miss Titty Kaka, with Aysh de Belle and Sam de Belle.          
          
 Costume Design: Ryan Dawson Laight<br>Sound Design: Oliver Gregory<br>Lighting Design: Simon Booth<br>Stage Management: Noah Sumptions<br>Movement Direction & Dramaturgy: Darren Pritchard<br>Dramaturgy: Scottee, Ursula Martinez<br>Rehearsal Producer: Catherine Mugonyi<br>Magic Consultant: Scott Penrose<br>Sign Writing: Lisa Wigham<br>Featuring Interview Contribution by Millie Bracewell aka Millie B<br>Produced by Sally Rose with Lee Smith for Marlborough Productions<br>Executive Producers: David Sheppeard and Harry Clayton-Wright          
           
