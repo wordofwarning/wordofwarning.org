@@ -8,7 +8,7 @@ artist: "Harry Clayton-Wright" # the name of the artist or company
 show: "Mr Blackpool" # the name of the show
 artist_size: 4
 show_size: 2
-header_image: "header_harry.jpg"
+header_image: "header_hcw.jpg"
 season: "Harry Clayton-Wright 2|5|2026, 8pm"
 
 # ABOUT THE SHOW - LAYOUT
