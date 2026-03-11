@@ -17,7 +17,7 @@ season: "Turn 20|3|2026, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2025-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 11 March 2026</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2025-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 11 March 2026, 4pm</small>         
         
 *Presented by* Word of Warning *+* Contact<br>         
          
@@ -73,7 +73,7 @@ we all have one body, one conscience; let it speak its truth.<br>sensations shar
          
 Content Warning: please click [here](/warnings).         
          
-Choreographer, Text & Performer: Joseph Adamson · Dramaturg & Mentors: Isobelle Webb & Sophie Owen         
+Choreographry, Text, Performer: Joseph Adamson<br>Dramaturg & Mentors: Isobelle Webb & Sophie Owen         
          
 Joseph (he/him) is a queer-identifying, early-career dance artist and choreographer from Cheshire. Joseph recently graduated from Northern School of Contemporary Dance and has worked with Phoenix Dance Theatre, Jasmin Vardimon Company, Jamaal Burkmar, and FLOCK. His artistic direction is grounded in multidisciplinary inquiry, fusing disciplines to cultivate embodied exploration. This process functions as a meditative experience for himself that softens the sense of time and heightens awareness of sensation and internal rhythms.         
          
