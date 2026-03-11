@@ -17,7 +17,7 @@ season: "Turn 20|3|2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 3 March 2026</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 11 March 2026</small>        
         
 *Presented by* Word of Warning *+* Contact        
         
@@ -58,7 +58,7 @@ First held at greenroom in spring 2009, [Turn](/hab/turn) moved to <a href="http
 Get a feel for [Turn](/hab/turn) with [2025's programme](/archive/2025-turn) and [gallery of images](/galleries/2025-turn); [2024's programme](/archive/2024-turn) and [gallery](/galleries/2024-turn); [2023's programme](/archive/2023-turn) and [gallery](/galleries/2023-turn).         
         
 #### Credits                 
-[Turn](/hab/turn) 2026 produced by [hÅb](/hab); supported by <a href="https://www.cheshiredance.org" target="_blank">Cheshire Dance</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England. Thanks to <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>.         
+[Turn](/hab/turn) 2026 produced by [hÅb](/hab); supported by <a href="https://www.cheshiredance.org" target="_blank">Cheshire Dance</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England. Thanks to <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> and <a href="https://katyecoe.org" target="_blank">Katye Coe</a>.         
           
 Image: Clara Selberg, due to appear in Turn 2026 at Contact (credit: Wiswould Wise Productions)        
           
