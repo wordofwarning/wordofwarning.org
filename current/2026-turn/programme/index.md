@@ -17,7 +17,7 @@ season: "Turn 20|3|2026, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 11 March 2026, 4pm</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 11 March 2026, 6pm</small>         
         
 *Presented by* Word of Warning *+* Contact<br>         
          
@@ -30,6 +30,8 @@ Tessera — noun. A small block of stone, tile, glass, or other material used i
 Performers: Abbie Fearns, Joshua Owen, Tom Oakley, Tzu Hsien Wang         
          
 Content Warning: please click [here](/warnings).         
+
+Faye Jones is a dance artist, choreographer, and filmmaker based in the North West. Growing up in the Manchester dance scene, The Lowry CAT scheme exposed her to multiple styles of contemporary dance and gave space for her creative practice. Whilst studying her foundation degree at Northern School of Contemporary Dance she developed a love for combining film with dance. After this year she joined London Contemporary Dance School, working with choreographers including James Cousins and Holly Blakey. Faye later returned to the North West to join Emergence at the University of Salford, where she worked with Joss Arnott, Lisa Marie Robinson, Sofia Nappi, and SAY (Sarah Golding & Yukiko Masai). She is interested in pushing the boundaries between live performance and cinema through the genres of horror and science fiction, using a wide range of dance styles to create creatures and beings not of this world.         
          
 Insta <a href="https://instagram.com/blood.bones.jones" target="_blank">@blood.bones.jones</a>         
 <hr>         
@@ -49,33 +51,15 @@ Content Warning: please click [here](/warnings).
          
 Insta <a href="https://instagram.com/emmyjakx" target="_blank">@emmyjakx</a> <a href="https://instagram.com/sophs_lifeventures" target="_blank">@sophs_lifeventures</a>         
 <hr>         
-**Sap Dance** · *Twenty-first Century Love*         
-         
-An intergenerational duet that explores the compulsions and complexities of love and intimacy in contemporary times.  A man and a much younger woman negotiate their relationship. Refusing to specify if this relationship is between two lovers, a young woman and her father, or two friends, the duet invites the audience to question their own assumptions about the dynamics of different types of love and to follow changes in who is and isn't in control.
-         
-Content Warning: please click [here](/warnings).         
-         
-Co-choreographed and performed by Orla Collier & Nigel Stewart.<br>Commissioned by Ludus Dance as part of *Looking Back, Moving Forward* at the Dukes Theatre, Lancaster, on 17 October 2025.         
-
-Orla is a freelance dance artist, physical theatre practitioner, and life model. Trained at Rambert and NSCD, she is regularly commissioned to perform her own solos and has worked on several site-specific and interdisciplinary projects.<br>Nigel is a freelance dance artist and scholar, Artistic Director of Sap Dance, and Emeritus Senior Lecturer at Lancaster University. He has worked in the UK, the US, and continental Europe since 1982.<br>Sap Dance have produced short theatre pieces and full-length site-specific rural performance works since 2005. They last performed at Turn in 2016.         
-         
-Insta <a href="https://instagram.com/orla.collier" target="_blank">@orla.collier</a>         
-<hr>         
-**Alice Robinson Moves** · *Elements*         
-        
-Violin loop pedal meets expressive dance improviser.         
-         
-Insta <a href="https://instagram.com/alicerobinsonmoves" target="_blank">@alicerobinsonmoves</a>         
-<hr>         
 **Joseph Adamson** · *bare nerve (work-in-progress)*         
           
 we all have one body, one conscience; let it speak its truth.<br>sensations share one body, pulling in opposite directions.<br>the mind races, the body lingers, both refusing silence, until exhaustion strikes.<br>the body learns its truthto stay, to feel, to accept as part of becoming whole.         
          
 Content Warning: please click [here](/warnings).         
          
-Choreographry, Text, Performer: Joseph Adamson<br>Dramaturg & Mentors: Isobelle Webb & Sophie Owen         
+Choreography, Text, Performer: Joseph Adamson<br>Dramaturg & Mentors: Isobelle Webb & Sophie Owen         
          
-Joseph (he/him) is a queer-identifying, early-career dance artist and choreographer from Cheshire. Joseph recently graduated from Northern School of Contemporary Dance and has worked with Phoenix Dance Theatre, Jasmin Vardimon Company, Jamaal Burkmar, and FLOCK. His artistic direction is grounded in multidisciplinary inquiry, fusing disciplines to cultivate embodied exploration. This process functions as a meditative experience for himself that softens the sense of time and heightens awareness of sensation and internal rhythms.         
+Joseph (he/him) is a queer-identifying, early-career dance artist and choreographer from Cheshire. He recently graduated from Northern School of Contemporary Dance and has worked with Phoenix Dance Theatre, Jasmin Vardimon Company, Jamaal Burkmar, and FLOCK. His artistic direction is grounded in multidisciplinary inquiry, fusing disciplines to cultivate embodied exploration. This process functions as a meditative experience for himself that softens the sense of time and heightens awareness of sensation and internal rhythms.         
          
 Insta <a href="https://instagram.com/josephthomasadamson" target="_blank">@josephthomasadamson</a>         
 <hr>         
@@ -87,11 +71,33 @@ Content Warning: please click [here](/warnings).
          
 Insta <a href="https://instagram.com/printerror.co" target="_blank">@printerror.co</a> <a href="https://instagram.com/fleurr_louise" target="_blank">@fleurr_louise</a> <a href="https://instagram.com/lia_garner" target="_blank">@lia_garner</a>         
 <hr>         
+**Sap Dance** · *Twenty-first Century Love*         
+         
+An intergenerational duet that explores the compulsions and complexities of love and intimacy in contemporary times.  A man and a much younger woman negotiate their relationship. Refusing to specify if this relationship is between two lovers, a young woman and her father, or two friends, the duet invites the audience to question their own assumptions about the dynamics of different types of love and to follow changes in who is and isn't in control.
+         
+Content Warning: please click [here](/warnings).         
+         
+Co-choreographed and performed by Orla Collier & Nigel Stewart.<br>Commissioned by Ludus Dance as part of *Looking Back, Moving Forward* at the Dukes Theatre, Lancaster, on 17 October 2025.         
+
+Nigel Stewart is a freelance dance artist and Emeritus Senior Lecturer at Lancaster University. He has choreographed and performed in the UK, the US, and continental Europe since 1982.<br>Orla is a freelance dance artist, physical theatre practitioner, and life model. Having trained at Rambert and Northern School of Contemporary Dance where she performed with Verve, she has created solo work and collaborated on a wide range of site-specific and interdisciplinary projects for UK companies.<br>Sap Dance have produced short theatre pieces and full-length site-specific rural performance works since 2005. They last performed at Turn in 2016.         
+         
+Insta <a href="https://instagram.com/orla.collier" target="_blank">@orla.collier</a>         
+<hr>         
+**Alice Robinson Moves** · *Elements*         
+        
+Violin loop pedal meets expressive dance improviser.         
+         
+Alice is an experienced movement specialist and clown with an MA in Movement Studies from CSSD. Her work focuses on enlivening a playful body in performance and in teaching. Alongside performing, teaching, and movement direction she runs Mothers Who Make for the many mothers of Manchester at HOME, where they explore and express their art forms alongside caring roles.<br>Claire Northey is a violinist and composer who has worked on theatre projects in Manchester and Bristol over the past decade. Recent work includes *Motherland* in partnership with Mothers Who Make. She creates live soundtracks using violin and loop pedal, layering atmospheric strings and beats with an exploratory use of the instrument's body.         
+        
+Insta <a href="https://instagram.com/alicerobinsonmoves" target="_blank">@alicerobinsonmoves</a> <a href="https://instagram.com/clairenorthey" target="_blank">@clairenorthey</a>         
+<hr>         
 **Hui-Hsin Lu** · *Black & White*         
          
 Black and White Impermanence: ritual, dance, and live suona.         
          
 Content Warning: please click [here](/warnings).         
+
+Hui-Hsin (she/her) is a Taiwan-born choreographer and physical theatre artist based in the UK. Her work spans immersive dance, physical theatre, film, and cross-disciplinary arts — exploring tensions between society, emotion, and the environment through embodied narratives. Her creations include *The Lab* (Silver Medal, Singapore International Choreography Competition 2022), Rush! (guest choreographer, University of Northern Ohio, 2024), Sanctum of Shadows (Edinburgh Fringe 2025), Me, Myself and I (Company Chameleon UPLIFT 2025) and Follow Me!!(Resolution 2026).
          
 Insta <a href="https://instagram.com/luhuihsinn" target="_blank">@luhuihsinn</a>         
 <hr>         
