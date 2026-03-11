@@ -17,7 +17,7 @@ season: "Turn 20|3|2026, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 11 March 2026, 7pm</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 11 March 2026 19:20</small>         
         
 *Presented by* Word of Warning *+* Contact<br>         
          
@@ -41,11 +41,15 @@ A movement and dance work exploring stillness, quiet, trance, and meditation acr
          
 With Joanne Perrie & Rander Martins de Melo.         
          
+Joseph is a North West dance artist creating collaborative performance work with fellow movers and musicians. His practice explores movement, rhythm, and collective physical presence.         
+         
 Insta <a href="https://instagram.com/jau.artist" target="_blank">@jau.artist</a>         
 <hr>         
 **Emmy Jax & Sophia Egan** · *In Harmony*         
          
 Dancers explore mental health, identity, and the catharsis of movement through African traditional and contemporary rhythms as well as hip hop fusion.         
+         
+Emmy & Sophia are Manchester-based dance artists collaborating on contemporary performance work. Their practice explores connection, musicality and shared physical expression.         
          
 Content Warning: please click [here](/warnings).         
          
@@ -69,6 +73,8 @@ Consumed by the ties and bounds of something we want to let go.
          
 Content Warning: please click [here](/warnings).         
          
+printerror is an experimental performance project working across movement, technology, and live art. Their work explores disruption, repetition, and the aesthetics of digital failure in physical form.         
+         
 Insta <a href="https://instagram.com/printerror.co" target="_blank">@printerror.co</a> <a href="https://instagram.com/fleurr_louise" target="_blank">@fleurr_louise</a> <a href="https://instagram.com/lia_garner" target="_blank">@lia_garner</a>         
 <hr>         
 **Sap Dance** · *Twenty-first Century Love*         
@@ -79,7 +85,7 @@ Content Warning: please click [here](/warnings).
          
 Co-choreographed and performed by Orla Collier & Nigel Stewart.<br>Commissioned by Ludus Dance as part of *Looking Back, Moving Forward* at the Dukes Theatre, Lancaster, on 17 October 2025.         
 
-Nigel is a freelance dance artist and Emeritus Senior Lecturer at Lancaster University. He has choreographed and performed in the UK, the US, and continental Europe since 1982.<br>Orla is a freelance dance artist, physical theatre practitioner, and life model. Having trained at Rambert and Northern School of Contemporary Dance where she performed with Verve, she has created solo work and collaborated on a wide range of site-specific and interdisciplinary projects for UK companies.<br>Sap Dance have produced short theatre pieces and full-length site-specific rural performance works since 2005. They last performed at Turn in 2016.         
+Nigel is a freelance dance artist and Emeritus Senior Lecturer at Lancaster University. He has choreographed and performed in the UK, the US, and continental Europe since 1982.<br>Orla is a freelance dance artist, physical theatre practitioner, and life model. Having trained at Rambert and Northern School of Contemporary Dance where she performed with Verve, she has created solo work and collaborated on a wide range of site-specific and interdisciplinary projects for UK companies.<br>Sap Dance, the long-running collaboration between Nigel & Orla, have produced short theatre pieces and full-length site-specific rural performance works since 2005. They last performed at Turn in 2016.         
          
 Insta <a href="https://instagram.com/orla.collier" target="_blank">@orla.collier</a>         
 <hr>         
