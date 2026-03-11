@@ -17,7 +17,7 @@ season: "Turn 20|3|2026, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 11 March 2026, 6pm</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 11 March 2026, 7pm</small>         
         
 *Presented by* Word of Warning *+* Contact<br>         
          
@@ -31,7 +31,7 @@ Performers: Abbie Fearns, Joshua Owen, Tom Oakley, Tzu Hsien Wang
          
 Content Warning: please click [here](/warnings).         
 
-Faye Jones is a dance artist, choreographer, and filmmaker based in the North West. Growing up in the Manchester dance scene, The Lowry CAT scheme exposed her to multiple styles of contemporary dance and gave space for her creative practice. Whilst studying her foundation degree at Northern School of Contemporary Dance she developed a love for combining film with dance. After this year she joined London Contemporary Dance School, working with choreographers including James Cousins and Holly Blakey. Faye later returned to the North West to join Emergence at the University of Salford, where she worked with Joss Arnott, Lisa Marie Robinson, Sofia Nappi, and SAY (Sarah Golding & Yukiko Masai). She is interested in pushing the boundaries between live performance and cinema through the genres of horror and science fiction, using a wide range of dance styles to create creatures and beings not of this world.         
+Faye Jones is a dance artist, choreographer, and filmmaker based in the North West. Growing up in the Manchester dance scene, The Lowry CAT scheme exposed her to multiple styles of contemporary dance and gave space for her creative practice. Whilst studying her foundation degree at Northern School of Contemporary Dance she developed a love for combining film with dance. After this year she joined London Contemporary Dance School, working with choreographers including James Cousins and Holly Blakey. Faye later returned to the North West to join Emergence at the University of Salford, where she worked with Joss Arnott, Lisa Marie Robinson, Sofia Nappi, and SAY (Sarah Golding & Yukiko Masui). She is interested in pushing the boundaries between live performance and cinema through the genres of horror and science fiction, using a wide range of dance styles to create creatures and beings not of this world.         
          
 Insta <a href="https://instagram.com/blood.bones.jones" target="_blank">@blood.bones.jones</a>         
 <hr>         
@@ -53,7 +53,7 @@ Insta <a href="https://instagram.com/emmyjakx" target="_blank">@emmyjakx</a> <a 
 <hr>         
 **Joseph Adamson** · *bare nerve (work-in-progress)*         
           
-we all have one body, one conscience; let it speak its truth.<br>sensations share one body, pulling in opposite directions.<br>the mind races, the body lingers, both refusing silence, until exhaustion strikes.<br>the body learns its truthto stay, to feel, to accept as part of becoming whole.         
+we all have one body, one conscience; let it speak its truth.<br>sensations share one body, pulling in opposite directions.<br>the mind races, the body lingers, both refusing silence, until exhaustion strikes.<br>the body learns its truth to stay, to feel, to accept as part of becoming whole.         
          
 Content Warning: please click [here](/warnings).         
          
@@ -79,7 +79,7 @@ Content Warning: please click [here](/warnings).
          
 Co-choreographed and performed by Orla Collier & Nigel Stewart.<br>Commissioned by Ludus Dance as part of *Looking Back, Moving Forward* at the Dukes Theatre, Lancaster, on 17 October 2025.         
 
-Nigel Stewart is a freelance dance artist and Emeritus Senior Lecturer at Lancaster University. He has choreographed and performed in the UK, the US, and continental Europe since 1982.<br>Orla is a freelance dance artist, physical theatre practitioner, and life model. Having trained at Rambert and Northern School of Contemporary Dance where she performed with Verve, she has created solo work and collaborated on a wide range of site-specific and interdisciplinary projects for UK companies.<br>Sap Dance have produced short theatre pieces and full-length site-specific rural performance works since 2005. They last performed at Turn in 2016.         
+Nigel is a freelance dance artist and Emeritus Senior Lecturer at Lancaster University. He has choreographed and performed in the UK, the US, and continental Europe since 1982.<br>Orla is a freelance dance artist, physical theatre practitioner, and life model. Having trained at Rambert and Northern School of Contemporary Dance where she performed with Verve, she has created solo work and collaborated on a wide range of site-specific and interdisciplinary projects for UK companies.<br>Sap Dance have produced short theatre pieces and full-length site-specific rural performance works since 2005. They last performed at Turn in 2016.         
          
 Insta <a href="https://instagram.com/orla.collier" target="_blank">@orla.collier</a>         
 <hr>         
@@ -97,7 +97,7 @@ Black and White Impermanence: ritual, dance, and live suona.
          
 Content Warning: please click [here](/warnings).         
 
-Hui-Hsin (she/her) is a Taiwan-born choreographer and physical theatre artist based in the UK. Her work spans immersive dance, physical theatre, film, and cross-disciplinary arts — exploring tensions between society, emotion, and the environment through embodied narratives. Her creations include *The Lab* (Silver Medal, Singapore International Choreography Competition 2022), Rush! (guest choreographer, University of Northern Ohio, 2024), Sanctum of Shadows (Edinburgh Fringe 2025), Me, Myself and I (Company Chameleon UPLIFT 2025) and Follow Me!!(Resolution 2026).
+Hui-Hsin (she/her) is a Taiwan-born choreographer and physical theatre artist based in the UK. Her work spans immersive dance, physical theatre, film, and cross-disciplinary arts — exploring tensions between society, emotion, and the environment through embodied narratives. Her creations include *The Lab* (Silver Medal, Singapore International Choreography Competition 2022); *Rush!* (guest choreographer, University of Northern Ohio, 2024); *Sanctum of Shadows* (Edinburgh Fringe 2025); *Me, Myself and I* (Company Chameleon UPLIFT 2025); *Follow Me!!* (Resolution 2026).         
          
 Insta <a href="https://instagram.com/luhuihsinn" target="_blank">@luhuihsinn</a>         
 <hr>         
@@ -106,6 +106,10 @@ Insta <a href="https://instagram.com/luhuihsinn" target="_blank">@luhuihsinn</a>
 This work explores how dancers' deep bodily knowledge supports their understanding of non-verbal communication of emotions, and invites you to witness how movement can reveal something beyond what words can.         
          
 Content Warning: please click [here](/warnings).         
+         
+Clara graduated from London Contemporary Dance School with a first-class honours BA in 2023. In 2024 she joined Emergence Dance Company at the University of Salford, performing works by Sofia Nappi, SAY (Sarah Golding & Yukiko Masui), Joss Arnott and Lisa Robinson. She also performed in *Balkan Epic Erotic*, directed by Marina Abramović and choreographed by Blenard Azizaj, at Factory International.         
+         
+Dancers: Becky Linton (BA University of Salford; current Emergence MA student), Bee Minett (MA & BA Shockout Arts Manchester), Chloe Smith (MA & BA University of Salford), Ozzy Berzin-Cohen (MA University of Salford; BA Falmouth University), Sasha Gunning (MA University of Salford; BA Northern School of Contemporary Dance)         
          
 Insta <a href="https://instagram.com/claraselberg_" target="_blank">@claraselberg_</a>        
 <hr>         
