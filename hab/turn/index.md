@@ -16,7 +16,7 @@ season: "Turn by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 27 February 2026</small>        
+<small>Updated 11 March 2026</small>        
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester every spring.    
              
@@ -35,7 +35,7 @@ North West England† dancers and dance-makers (*aged 18+*) <a href="http://turn
          
 Turn 2026 is:<br>— a **single evening of public performances on Friday 20 March**;<br>— followed by an **artist day on Saturday 21 March**, incorporating a workshop or masterclasses and feedback sessions;<br>— and participating artists will be expected to attend **both** days.         
          
-[Turn 2026](/current/2026-turn) presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://cheshiredance.org" target="_blank">Cheshire Dance</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England. Thanks to <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>.         
+[Turn 2026](/current/2026-turn) presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://cheshiredance.org" target="_blank">Cheshire Dance</a>, <a href="https://contactmcr.com" target="_blank">Contact</a>, <a href="https://projectauske.com" target="_blank">Project Auske</a>, and using public funding by Arts Council England. Thanks to <a href="https://companychameleon.com" target="_blank">Company Chameleon</a> and <a href="https://katyecoe.org" target="_blank">Katye Coe</a>.         
          
 Enquiries: <mailto:turn@habmcr.org> · <a href="http://turnmcr.org" target="_blank">turnmcr.org</a>         
          
