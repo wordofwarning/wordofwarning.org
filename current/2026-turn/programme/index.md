@@ -17,7 +17,7 @@ season: "Turn 20|3|2026, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 11 March 2026 19:20</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 11 March 2026 19:25</small>         
         
 *Presented by* Word of Warning *+* Contact<br>         
          
@@ -103,7 +103,7 @@ Black and White Impermanence: ritual, dance, and live suona.
          
 Content Warning: please click [here](/warnings).         
 
-Hui-Hsin (she/her) is a Taiwan-born choreographer and physical theatre artist based in the UK. Her work spans immersive dance, physical theatre, film, and cross-disciplinary arts — exploring tensions between society, emotion, and the environment through embodied narratives. Her creations include *The Lab* (Silver Medal, Singapore International Choreography Competition 2022); *Rush!* (guest choreographer, University of Northern Ohio, 2024); *Sanctum of Shadows* (Edinburgh Fringe 2025); *Me, Myself and I* (Company Chameleon UPLIFT 2025); *Follow Me!!* (Resolution 2026).         
+Hui-Hsin Lu (she/her) is a Taiwan-born choreographer and physical theatre artist based in the UK. Her work spans immersive dance, physical theatre, film, and cross-disciplinary arts — exploring tensions between society, emotion, and the environment through embodied narratives. Her creations include *The Lab* (Silver Medal, Singapore International Choreography Competition 2022); *Rush!* (guest choreographer, University of Northern Ohio, 2024); *Sanctum of Shadows* (Edinburgh Fringe 2025); *Me, Myself and I* (Company Chameleon UPLIFT 2025); *Follow Me!!* (Resolution 2026).         
          
 Insta <a href="https://instagram.com/luhuihsinn" target="_blank">@luhuihsinn</a>         
 <hr>         
@@ -113,7 +113,7 @@ This work explores how dancers' deep bodily knowledge supports their understandi
          
 Content Warning: please click [here](/warnings).         
          
-Clara graduated from London Contemporary Dance School with a first-class honours BA in 2023. In 2024 she joined Emergence Dance Company at the University of Salford, performing works by Sofia Nappi, SAY (Sarah Golding & Yukiko Masui), Joss Arnott and Lisa Robinson. She also performed in *Balkan Epic Erotic*, directed by Marina Abramović and choreographed by Blenard Azizaj, at Factory International.         
+Clara graduated from London Contemporary Dance School with a first-class honours BA in 2023. In 2024 she joined Emergence Dance Company at the University of Salford, performing works by Sofia Nappi, SAY (Sarah Golding & Yukiko Masui), Joss Arnott, and Lisa Robinson. She also performed in *Balkan Epic Erotic*, directed by Marina Abramović and choreographed by Blenard Azizaj, at Factory International.         
          
 Dancers: Becky Linton (BA University of Salford; current Emergence MA student), Bee Minett (MA & BA Shockout Arts Manchester), Chloe Smith (MA & BA University of Salford), Ozzy Berzin-Cohen (MA University of Salford; BA Falmouth University), Sasha Gunning (MA University of Salford; BA Northern School of Contemporary Dance)         
          
