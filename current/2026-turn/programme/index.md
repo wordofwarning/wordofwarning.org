@@ -17,7 +17,7 @@ season: "Turn 20|3|2026, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 12 March 2026 11:20</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 12 March 2026 14:37</small>         
         
 *Presented by* Word of Warning *+* Contact<br>         
          
@@ -27,8 +27,8 @@ season: "Turn 20|3|2026, Programme"
         
 Tessera — noun. A small block of stone, tile, glass, or other material used in the construction of a mosaic.         
          
-Performers: Abbie Fearns, Joshua Owen, Tom Oakley, Tzu Hsien Wang         
-         
+Performers: Abbie Fearns, Alexander Oswald (saxophonist), Joshua Owen, Lydia Horne, Tom Oakley, Tzu Hsien Wang<br>Additional music made by Ethan Corrigan.         
+        
 Content Warning: please click [here](/warnings).         
 
 Faye Jones is a dance artist, choreographer, and filmmaker based in the North West. Growing up in the Manchester dance scene, The Lowry CAT scheme exposed her to multiple styles of contemporary dance and gave space for her creative practice. Whilst studying her foundation degree at Northern School of Contemporary Dance she developed a love for combining film with dance. After this year she joined London Contemporary Dance School, working with choreographers including James Cousins and Holly Blakey. Faye later returned to the North West to join Emergence at the University of Salford, where she worked with Joss Arnott, Lisa Marie Robinson, Sofia Nappi, and SAY (Sarah Golding & Yukiko Masui). She is interested in pushing the boundaries between live performance and cinema through the genres of horror and science fiction, using a wide range of dance styles to create creatures and beings not of this world.         
@@ -85,7 +85,7 @@ Content Warning: please click [here](/warnings).
          
 Co-choreographed and performed by Orla Collier & Nigel Stewart.<br>Commissioned by Ludus Dance as part of *Looking Back, Moving Forward* at the Dukes Theatre, Lancaster, on 17 October 2025.         
 
-Nigel is a freelance dance artist and Emeritus Senior Lecturer at Lancaster University. He has choreographed and performed in the UK, the US, and continental Europe since 1982.<br>Orla is a freelance dance artist, physical theatre practitioner, and life model. Having trained at Rambert and Northern School of Contemporary Dance where she performed with Verve, she has created solo work and collaborated on a wide range of site-specific and interdisciplinary projects for UK companies.<br>Sap Dance, the long-running collaboration between Nigel & Orla, have produced short theatre pieces and full-length site-specific rural performance works since 2005. They last performed at Turn in 2016.         
+Nigel is a freelance dance artist and Emeritus Senior Lecturer at Lancaster University. He has choreographed and performed in the UK, the US, and continental Europe since 1982.<br>Orla is a freelance dance artist, physical theatre practitioner, and life model. Having trained at Rambert and Northern School of Contemporary Dance where she performed with Verve, she has created solo work and collaborated on a wide range of site-specific and interdisciplinary projects for UK companies.<br>Sap Dance have produced short theatre pieces and full-length site-specific rural performance works since 2005. They last performed at Turn in 2016.         
          
 Insta <a href="https://instagram.com/orla.collier" target="_blank">@orla.collier</a>         
 <hr>         
