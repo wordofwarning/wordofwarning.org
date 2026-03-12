@@ -17,7 +17,7 @@ season: "Turn 20|3|2026, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 11 March 2026 19:25</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 12 March 2026 11:20</small>         
         
 *Presented by* Word of Warning *+* Contact<br>         
          
@@ -93,7 +93,7 @@ Insta <a href="https://instagram.com/orla.collier" target="_blank">@orla.collier
         
 Violin loop pedal meets expressive dance improviser.         
          
-Alice is an experienced movement specialist and clown with an MA in Movement Studies from CSSD. Her work focuses on enlivening a playful body in performance and in teaching. Alongside performing, teaching, and movement direction she runs Mothers Who Make for the many mothers of Manchester at HOME, where they explore and express their art forms alongside caring roles.<br>Claire Northey is a violinist and composer who has worked on theatre projects in Manchester and Bristol over the past decade. Recent work includes *Motherland* in partnership with Mothers Who Make. She creates live soundtracks using violin and loop pedal, layering atmospheric strings and beats with an exploratory use of the instrument's body.         
+Alice is an experienced movement specialist and clown with an MA in Movement Studies from CSSD. Her work focuses on enlivening a playful body in performance and in teaching. Alongside performing, teaching, and movement direction she runs Mothers Who Make for the many mothers of Manchester at HOME, where they explore and express their art forms alongside caring roles.<br>Claire Northey is a violinist and composer who has worked on theatre projects in Manchester and Bristol over the past decade. Recent work includes *Motherkind* in partnership with Mothers Who Make. She creates live soundtracks using violin and loop pedal, layering atmospheric strings and beats with an exploratory use of the instrument's body.         
         
 Insta <a href="https://instagram.com/alicerobinsonmoves" target="_blank">@alicerobinsonmoves</a> <a href="https://instagram.com/clairenorthey" target="_blank">@clairenorthey</a>         
 <hr>         
