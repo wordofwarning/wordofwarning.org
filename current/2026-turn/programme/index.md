@@ -17,7 +17,7 @@ season: "Turn 20|3|2026, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 12 March 2026 14:37</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 15 March 2026</small>         
         
 *Presented by* Word of Warning *+* Contact<br>         
          
@@ -73,7 +73,7 @@ Consumed by the ties and bounds of something we want to let go.
          
 Content Warning: please click [here](/warnings).         
          
-printerror is an experimental performance project working across movement, technology, and live art. Their work explores disruption, repetition, and the aesthetics of digital failure in physical form.         
+printerror is a Northern-based dance/performance company specialising in combining styles including popping, hip hop, and contemporary. Co-founded by Lia Garner and Fleur Hetherington, it aims to create unique movement languages and engaging work.                  
          
 Insta <a href="https://instagram.com/printerror.co" target="_blank">@printerror.co</a> <a href="https://instagram.com/fleurr_louise" target="_blank">@fleurr_louise</a> <a href="https://instagram.com/lia_garner" target="_blank">@lia_garner</a>         
 <hr>         
