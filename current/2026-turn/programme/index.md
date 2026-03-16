@@ -99,6 +99,8 @@ Insta <a href="https://instagram.com/alicerobinsonmoves" target="_blank">@alicer
          
 A dance work inspired by Taoist ritual culture and the figures of the Black and White Impermanence. Through a duet built on gestures and physical dialogue, the piece explores the shifting relationship between two bodies. Echoing ritual movements, the choreography reflects themes of yin and yang, tension and harmony, and the balance between opposing forces.         
          
+Dancers: Brian Yam, JP Hon<br>Composer: Balfours (Juncheng Su)<br>Costume Designer: Hanxin Zhang         
+         
 Hui-Hsin Lu (she/her) is a Taiwan-born choreographer and physical theatre artist based in the UK. Her work spans immersive dance, physical theatre, film, and cross-disciplinary arts — exploring tensions between society, emotion, and the environment through embodied narratives. Her creations include *The Lab* (Silver Medal, Singapore International Choreography Competition 2022); *Rush!* (guest choreographer, University of Northern Ohio, 2024); *Sanctum of Shadows* (Edinburgh Fringe 2025); *Me, Myself and I* (Company Chameleon UPLIFT 2025); *Follow Me!!* (Resolution 2026).         
          
 Insta <a href="https://instagram.com/luhuihsinn" target="_blank">@luhuihsinn</a>         
