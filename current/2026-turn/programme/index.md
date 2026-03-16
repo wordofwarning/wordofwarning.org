@@ -99,7 +99,7 @@ Insta <a href="https://instagram.com/alicerobinsonmoves" target="_blank">@alicer
 <hr>         
 **Hui-Hsin Lu** · *Black & White*         
          
-Black and White Impermanence: ritual, dance, and live suona.         
+A dance work inspired by Taoist ritual culture and the figures of the Black and White Impermanence. Through a duet built on gestures and physical dialogue, the piece explores the shifting relationship between two bodies. Echoing ritual movements, the choreography reflects themes of yin and yang, tension and harmony, and the balance between opposing forces.         
          
 Content Warning: please click [here](/warnings).         
 
