@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 12 March 2026<small>        
+<small>Updated 16 March 2026<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>(Please click [here](/archive/warnings) for *past* events and *archived* livestreams on our YouTube channel.)         
          
@@ -21,7 +21,7 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 #### 2026         
          
 ##### [20 Mar. Contact | Turn 2026](/current/2026-turn)          
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: specific warnings for each work follow…<br>&nbsp;Alice Robinson Moves — none.<br>&nbsp;Blood Bones Jones — includes bright lights and loud, intense, high frequency music.<br>&nbsp;Clara Selberg — includes loud music and strong lighting.<br>&nbsp;Emmy Jax & Sophia Egan — references mental health breakdown.<br>&nbsp;Hui-Hsin Lu — includes loud <a href="https://en.wikipedia.org/wiki/Suona" target="_blank">suona</a> music.<br>&nbsp;Joseph Adamson — references mental health & illness.<br>&nbsp;Joseph Lau & friends — none.<br>&nbsp;printerror — *tbc*.<br>&nbsp;Sap Dance — references power dynamics between a young woman and a much older man.         
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: specific warnings for each work follow…<br>&nbsp;Alice Robinson Moves — none.<br>&nbsp;Blood Bones Jones — includes bright lights and loud, intense, high frequency music.<br>&nbsp;Clara Selberg — includes loud music and strong lighting.<br>&nbsp;Emmy Jax & Sophia Egan — references mental health breakdown.<br>&nbsp;Hui-Hsin Lu — none.<br>&nbsp;Joseph Adamson — references mental health & illness.<br>&nbsp;Joseph Lau & friends — none.<br>&nbsp;printerror — *tbc*.<br>&nbsp;Sap Dance — references power dynamics between a young woman and a much older man.         
          
 ##### [9 Apr. Contact | Social Experiment](/socialexperiment)          
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings to follow *about* a week before…         
