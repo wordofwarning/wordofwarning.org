@@ -17,7 +17,7 @@ season: "Turn 20|3|2026, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 15 March 2026</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 16 March 2026</small>         
         
 *Presented by* Word of Warning *+* Contact<br>         
          
@@ -109,15 +109,15 @@ Insta <a href="https://instagram.com/luhuihsinn" target="_blank">@luhuihsinn</a>
 <hr>         
 **Clara Selberg** · *Embodied*         
          
-This work explores how dancers' deep bodily knowledge supports their understanding of non-verbal communication of emotions, and invites you to witness how movement can reveal something beyond what words can.         
+This work asks what remains when language falls away and invites you to witness how movement can reveal something beyond words. Through improvisation, breath, and shared movement, the dancers explore how bodily knowledge supports non-verbal communication of emotions, kinaesthetic empathy, and the body as a vessel for emotional sensations.          
          
 Content Warning: please click [here](/warnings).         
          
-Clara graduated from London Contemporary Dance School with a first-class honours BA in 2023. In 2024 she joined Emergence Dance Company at the University of Salford, performing works by Sofia Nappi, SAY (Sarah Golding & Yukiko Masui), Joss Arnott, and Lisa Robinson. She also performed in *Balkan Epic Erotic*, directed by Marina Abramović and choreographed by Blenard Azizaj, at Factory International.         
+Clara is a Swedish choreographer, dancer, and performer. Clara’s choreographic practice is rooted in a curiosity about what makes us human, unfolding through somatic improvisation and embodied choreographic research. Some of her most recent performance experiences include the exhibition performance *Balkan Epic Erotic*, directed by Marina Abramović, and pieces by SAY, Sofia Nappi, and Joss Arnott.         
          
-Dancers: Becky Linton (BA University of Salford; current Emergence MA student), Bee Minett (MA & BA Shockout Arts Manchester), Chloe Smith (MA & BA University of Salford), Ozzy Berzin-Cohen (MA University of Salford; BA Falmouth University), Sasha Gunning (MA University of Salford; BA Northern School of Contemporary Dance)         
+Dancers: Bee Minett, Chloe Smith, Ozzy Berzin-Cohen, Sasha Gunning         
          
-Insta <a href="https://instagram.com/claraselberg_" target="_blank">@claraselberg_</a>        
+Insta <a href="https://instagram.com/claraselberg_" target="_blank">@claraselberg_</a> <a href="https://instagram.com/bee_minett" target="_blank">@bee_minett</a> <a href="https://instagram.com/clo.smith.dance15" target="_blank">@clo.smith.dance15</a> <a href="https://instagram.com/ozzyb.c" target="_blank">@ozzyb.c</a> <a href="https://instagram.com/sashagunning_dance" target="_blank">@sashagunning_dance</a>        
 <hr>         
 Image: Clara Selberg, due to appear in Turn 2026 at Contact (credit: Wiswould Wise Productions)           
 <small><span style='font-variant: small-caps'>[back to top](/current/2026-turn/programme)</span></small>
