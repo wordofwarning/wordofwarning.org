@@ -70,9 +70,7 @@ Insta <a href="https://instagram.com/josephthomasadamson" target="_blank">@josep
 **printerror** · *Tied*         
          
 Consumed by the ties and bounds of something we want to let go.         
-         
-Content Warning: please click [here](/warnings).         
-         
+        
 printerror is a Northern-based dance/performance company specialising in combining styles including popping, hip hop, and contemporary. Co-founded by Lia Garner and Fleur Hetherington, it aims to create unique movement languages and engaging work.                  
          
 Insta <a href="https://instagram.com/printerror.co" target="_blank">@printerror.co</a> <a href="https://instagram.com/fleurr_louise" target="_blank">@fleurr_louise</a> <a href="https://instagram.com/lia_garner" target="_blank">@lia_garner</a>         
