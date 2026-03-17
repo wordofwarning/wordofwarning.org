@@ -17,7 +17,7 @@ season: "Turn 20|3|2026, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 16 March 2026</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 17 March 2026</small>         
         
 *Presented by* Word of Warning *+* Contact<br>         
          
@@ -27,13 +27,13 @@ season: "Turn 20|3|2026, Programme"
         
 Tessera — noun. A small block of stone, tile, glass, or other material used in the construction of a mosaic.         
          
-Performers: Abbie Fearns, Alexander Oswald (saxophonist), Joshua Owen, Lydia Horne, Tom Oakley, Tzu Hsien Wang<br>Additional music made by Ethan Corrigan.         
-        
+Performers: Abbie Fearns, Alexander Oswald (saxophonist), Joshua Owen, Lydia Horne, Tom Oakley, Tzu-Hsien Wang<br>Additional music made by Ethan Corrigan.         
+         
 Content Warning: please click [here](/warnings).         
 
 Faye Jones is a dance artist, choreographer, and filmmaker based in the North West. Growing up in the Manchester dance scene, The Lowry CAT scheme exposed her to multiple styles of contemporary dance and gave space for her creative practice. Whilst studying her foundation degree at Northern School of Contemporary Dance she developed a love for combining film with dance. After this year she joined London Contemporary Dance School, working with choreographers including James Cousins and Holly Blakey. Faye later returned to the North West to join Emergence at the University of Salford, where she worked with Joss Arnott, Lisa Marie Robinson, Sofia Nappi, and SAY (Sarah Golding & Yukiko Masui). She is interested in pushing the boundaries between live performance and cinema through the genres of horror and science fiction, using a wide range of dance styles to create creatures and beings not of this world.         
          
-Insta <a href="https://instagram.com/blood.bones.jones" target="_blank">@blood.bones.jones</a>         
+Insta <a href="https://instagram.com/blood.bones.jones" target="_blank">@blood.bones.jones</a> <a href="https://instagram.com/faye.joness" target="_blank">@faye.joness</a> <a href="https://instagram.com/abbie_fearns" target="_blank">@abbie_fearns</a> <a href="https://instagram.com/alexander.ozza" target="_blank">@alexander.ozza</a> <a href="https://instagram.com/__joshua_owen__" target="_blank">@__joshua_owen__</a> <a href="https://instagram.com/lydiahornecreative" target="_blank">@lydiahornecreative</a> <a href="https://instagram.com/tomm.oakley" target="_blank">@tomm.oakley</a> <a href="https://instagram.com/_____________.z.x" target="_blank">@_____________.z.x</a> <a href="https://instagram.com/ethan_a_corrigan" target="_blank">@ethan_a_corrigan</a>        
 <hr>         
 **Joseph Lau & friends** · *Vessels in Motion*          
          
@@ -103,7 +103,7 @@ Dancers: Brian Yam, JP Hon<br>Composer: Balfours (Juncheng Su)<br>Costume Design
          
 Hui-Hsin Lu (she/her) is a Taiwan-born choreographer and physical theatre artist based in the UK. Her work spans immersive dance, physical theatre, film, and cross-disciplinary arts — exploring tensions between society, emotion, and the environment through embodied narratives. Her creations include *The Lab* (Silver Medal, Singapore International Choreography Competition 2022); *Rush!* (guest choreographer, University of Northern Ohio, 2024); *Sanctum of Shadows* (Edinburgh Fringe 2025); *Me, Myself and I* (Company Chameleon UPLIFT 2025); *Follow Me!!* (Resolution 2026).         
          
-Insta <a href="https://instagram.com/luhuihsinn" target="_blank">@luhuihsinn</a>         
+Insta <a href="https://instagram.com/luhuihsinn" target="_blank">@luhuihsinn</a> <a href="https://instagram.com/brianyam_ag" target="_blank">@brianyam_ag</a> <a href="https://instagram.com/jp.hon" target="_blank">@jp.hon</a> <a href="https://instagram.com/balfourssound" target="_blank">@balfourssound</a> <a href="https://instagram.com/hanxinart" target="_blank">@hanxinart</a>         
 <hr>         
 **Clara Selberg** · *Embodied*         
          
