@@ -17,7 +17,7 @@ season: "Turn 20|3|2026, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 17 March 2026 21:03</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 19 March 2026 20:40</small>         
         
 *Presented by* Word of Warning *+* Contact<br>         
          
@@ -26,32 +26,32 @@ season: "Turn 20|3|2026, Programme"
 **Blood Bones Jones** · *Tessera*        
         
 Tessera — noun. A small block of stone, tile, glass, or other material used in the construction of a mosaic.         
+        
+Content Warning: please click [here](/warnings).         
          
 Performers: Abbie Fearns, Alexander Oswald (saxophonist), Joshua Owen, Lydia Horne, Tom Oakley, Tzu-Hsien Wang<br>Additional music made by Ethan Corrigan.         
          
-Content Warning: please click [here](/warnings).         
-
 Faye Jones is a dance artist, choreographer, and filmmaker based in the North West. Growing up in the Manchester dance scene, The Lowry CAT scheme exposed her to multiple styles of contemporary dance and gave space for her creative practice. Whilst studying her foundation degree at Northern School of Contemporary Dance she developed a love for combining film with dance. After this year she joined London Contemporary Dance School, working with choreographers including James Cousins and Holly Blakey. Faye later returned to the North West to join Emergence at the University of Salford, where she worked with Joss Arnott, Lisa Marie Robinson, Sofia Nappi, and SAY (Sarah Golding & Yukiko Masui). She is interested in pushing the boundaries between live performance and cinema through the genres of horror and science fiction, using a wide range of dance styles to create creatures and beings not of this world.         
          
 Insta <a href="https://instagram.com/blood.bones.jones" target="_blank">@blood.bones.jones</a> <a href="https://instagram.com/faye.joness" target="_blank">@faye.joness</a> <a href="https://instagram.com/abbie_fearns" target="_blank">@abbie\_fearns</a> <a href="https://instagram.com/alexander.ozza" target="_blank">@alexander.ozza</a> <a href="https://instagram.com/__joshua_owen__" target="_blank">@\_\_joshua\_owen\_\_</a> <a href="https://instagram.com/lydiahornecreative" target="_blank">@lydiahornecreative</a> <a href="https://instagram.com/tomm.oakley" target="_blank">@tomm.oakley</a> <a href="https://instagram.com/_____________.z.x" target="_blank">@\_\_\_\_\_\_\_\_\_\_\_\_\_.z.x</a> <a href="https://instagram.com/ethan_a_corrigan" target="_blank">@ethan\_a\_corrigan</a>        
 <hr>         
 **Joseph Lau & friends** · *Vessels in Motion*          
          
-A movement and dance work exploring stillness, quiet, trance, and meditation across the dynamic, vibrational, and frequency range of the body.         
+A new movement and dance work exploring stillness, quiet, trance, and meditation across the dynamic, vibrational, and frequency range of the body.         
          
 With Joanne Perrie & Rander Martins de Melo.         
          
 Joseph is a North West dance artist creating collaborative performance work with fellow movers and musicians. His practice explores movement, rhythm, and collective physical presence.         
          
-Insta <a href="https://instagram.com/jau.artist" target="_blank">@jau.artist</a>         
+Insta <a href="https://instagram.com/jau.artist" target="_blank">@jau.artist</a> <a href="https://instagram.com/joannepirrie" target="_blank">@joannepirrie</a> <a href="https://instagram.com/rander_tucum_capoeira" target="_blank">@rander_tucum_capoeira</a>         
 <hr>         
 **Emmy Jax & Sophia Egan** · *In Harmony*         
          
 Dancers explore mental health, identity, and the catharsis of movement through African traditional and contemporary rhythms as well as hip hop fusion.         
          
-Emmy & Sophia are Manchester-based dance artists collaborating on contemporary performance work. Their practice explores connection, musicality and shared physical expression.         
-         
 Content Warning: please click [here](/warnings).         
+         
+Emmy & Sophia are Manchester-based dance artists collaborating on contemporary performance work. Their practice explores connection, musicality and shared physical expression.         
          
 Insta <a href="https://instagram.com/emmyjakx" target="_blank">@emmyjakx</a> <a href="https://instagram.com/sophs_lifeventures" target="_blank">@sophs_lifeventures</a>         
 <hr>         
@@ -111,9 +111,9 @@ This work asks what remains when language falls away and invites you to witness 
          
 Content Warning: please click [here](/warnings).         
          
-Clara is a Swedish choreographer, dancer, and performer. Clara’s choreographic practice is rooted in a curiosity about what makes us human, unfolding through somatic improvisation and embodied choreographic research. Some of her most recent performance experiences include the exhibition performance *Balkan Epic Erotic*, directed by Marina Abramović, and pieces by SAY, Sofia Nappi, and Joss Arnott.         
-         
 Dancers: Bee Minett, Chloe Smith, Ozzy Berzin-Cohen, Sasha Gunning         
+         
+Clara is a Swedish choreographer, dancer, and performer. Clara’s choreographic practice is rooted in a curiosity about what makes us human, unfolding through somatic improvisation and embodied choreographic research. Some of her most recent performance experiences include the exhibition performance *Balkan Epic Erotic*, directed by Marina Abramović, and pieces by SAY, Sofia Nappi, and Joss Arnott.         
          
 Insta <a href="https://instagram.com/claraselberg_" target="_blank">@claraselberg_</a> <a href="https://instagram.com/bee_minett" target="_blank">@bee_minett</a> <a href="https://instagram.com/clo.smith.dance15" target="_blank">@clo.smith.dance15</a> <a href="https://instagram.com/ozzyb.c" target="_blank">@ozzyb.c</a> <a href="https://instagram.com/sashagunning_dance" target="_blank">@sashagunning_dance</a>        
 <hr>         
