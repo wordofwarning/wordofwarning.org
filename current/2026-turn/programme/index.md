@@ -17,7 +17,7 @@ season: "Turn 20|3|2026, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 19 March 2026 20:40</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 19 March 2026 20:45</small>         
         
 *Presented by* Word of Warning *+* Contact<br>         
          
@@ -37,9 +37,9 @@ Insta <a href="https://instagram.com/blood.bones.jones" target="_blank">@blood.b
 <hr>         
 **Joseph Lau & friends** · *Vessels in Motion*          
          
-A new movement and dance work exploring stillness, quiet, trance, and meditation across the dynamic, vibrational, and frequency range of the body.         
+A new movement and dance work in development exploring stillness, quiet, trance, and meditation across the dynamic, vibrational, and frequency range of the body.           
          
-With Joanne Perrie & Rander Martins de Melo.         
+With Joanne Perrie and Rander Martins de Melo.         
          
 Joseph is a North West dance artist creating collaborative performance work with fellow movers and musicians. His practice explores movement, rhythm, and collective physical presence.         
          
