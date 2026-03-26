@@ -34,7 +34,7 @@ Greater Manchester artists (*aged 18+*) are invited to submit proposals of: shor
           
 **For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>**<br>(Direct link to proposal form is <a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">here</a> in case of issues with posthaven.)         
          
-Proposal Deadline: open on a rolling basis and closing 17 days before each event — June's is Mon 25 May at noon, November's is Mon 2 Nov at noon.         
+Proposal Deadline: open on a rolling basis and closing 17 days before each event — June's deadline is Mon 25 May at noon, November's is Mon 2 Nov at noon.         
          
 [Social Experiment](/socialexperiment) presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
          
