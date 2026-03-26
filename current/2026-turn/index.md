@@ -17,13 +17,13 @@ season: "Turn 20|3|2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 19 March 2026</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2026-turn/#artists) · [programme](/current/2026-turn/programme) · [entry](/current/2026-turn/#entry) · [access](/current/2026-turn/#access) · [about](/current/2026-turn/#about) · [credits](/current/2026-turn/#credits)</span>&ensp; <small>Updated 26 March 2026</small>        
         
-*Presented by* Word of Warning *+* Contact        
+*Presented by* Word of Warning *+* Contact         
         
 Our annual whirlwind of new North West dance takes over <a href="https://contactmcr.com/events/turn-2026" target="_blank">Contact</a> with nine short dance-works on **Friday 20 March from 7pm**…         
          
-Look at some of our [artists' images](/galleries/2026-turnpre) & read their [programme notes](/current/2026-turn/programme).          
+Look at some of our [artists' images](/galleries/2026-turnpre) and read their [programme notes](/current/2026-turn/programme) — now it's over, see [images from the event](/galleries/2026-turn).          
           
 Fluidly lyrical, effervescently acrobatic, or eccentrically innovative, let Turn&nbsp;2026 transport you into a frenzy of dance…         
          
