@@ -41,7 +41,7 @@ Past events were held in [February 2026 (a Queer Contact Edition)](/socialexperi
          
 **19 November** — participating artists to be announced.         
           
-*NB* participating artists are announced *about* a fortnight before each event — the call for proposals is open on a rolling basis at <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>         
+*NB* participating artists announced *about* a fortnight before each event — our call for proposals is open on a rolling basis at <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>         
          
 #### Entry         
 FREE: there's no ticketing… just turn up!         
