@@ -17,7 +17,7 @@ season: "Social Experiment"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 6 March 2026</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 26 March 2026</small>          
          
 *Presented by* Word of Warning + <a href="https://contactmcr.com/events/social-experiment" target="_blank">Contact</a> *as a semi-regular evening event.*         
          
@@ -35,13 +35,13 @@ Past events were held in [February 2026 (a Queer Contact Edition)](/socialexperi
 #### Artists        
 **19 February** (<a href="https://contactmcr.com/queer-contact-2026" target="_blank">Queer Contact</a> Edition) — Ariel&nbsp;Hebditch&nbsp;· Ben&nbsp;Hodge&nbsp;· Failed&nbsp;Artist&nbsp;Society&nbsp;· lucy&nbsp;· Maddie&nbsp;Maycock&nbsp;· PHOBIA&nbsp;· special&nbsp;guest&nbsp;Graham&nbsp;Clayton-Chance —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/feb2026).         
          
-**9 April** — participating artists to be announced.         
+**9 April** — Daniel&nbsp;Nicholas&nbsp;· Gin&nbsp;Niemtus&nbsp;· Kathy&nbsp;Rivett&nbsp;· Lisa&nbsp;Ford&nbsp;· Orla&nbsp;Collier&nbsp;· special&nbsp;guest&nbsp;Natalie&nbsp;Spanner &ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
          
 **11 June** — participating artists to be announced.         
          
 **19 November** — participating artists to be announced.         
           
-*NB* participating artists are announced *about* a week before each event — the call for proposals is open on a rolling basis at <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>         
+*NB* participating artists are announced *about* a fortnight before each event — the call for proposals is open on a rolling basis at <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>         
          
 #### Entry         
 FREE: there's no ticketing… just turn up!         
@@ -66,7 +66,7 @@ Greater Manchester artists (*aged 18+*) are invited to submit proposals of: shor
          
 **For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>**<br>(Direct link to proposal form is <a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">here</a> in case of issues with posthaven.)         
          
-Proposal Deadline: open on a rolling basis and closing 17 days before each event — April's deadline is Mon 23 Mar at noon, June's is Mon 25 May at noon, etc.         
+Proposal Deadline: open on a rolling basis and closing 17 days before each event — June's deadline is Mon 25 May at noon, November's is Mon 2 Nov at noon.         
          
 #### Credits          
 [Social Experiment](/hab/socialexperiment) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.
