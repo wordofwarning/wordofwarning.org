@@ -8,10 +8,10 @@ header: <img src="logo.png">
 stylesheet: gallery.css
 
 more_link: "Turn 2026"
-more_url: "../../current/2026-turn/"
+more_url: "../../current/2026-turn"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "<small><i>A night of new dance, 20 Mar 2026</i> · Clara Selberg</small>"}
+    -   {file: "titlepage.jpg", artist: "<small><i>A night of new dance, 20 Mar 2026</i> · Clara Selberg by Wiswould Wise Productions</small>"}
     -   {file: "hui hsin lu.jpg", artist: "Hui-Hsin Lu"}
     -   {file: "sophia jax.jpg", artist: "Emmy Jax & Sophia Egan"}
     -   {file: "alice robinson.jpg", artist: "Alice Robinson Moves"}
