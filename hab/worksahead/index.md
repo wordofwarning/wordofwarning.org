@@ -17,15 +17,17 @@ season: "Works Ahead by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 8 January 2026</small>                
+<small>Updated 2 April 2026</small>                
         
 **Works Ahead** is a project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011.          
          
-Since 2012 it has offered 36 small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) or other platform event. Support includes mentoring and a public showing of the next stage of the work — often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.         
+Since 2012 it has offered 38 small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) or other platform event. Support includes mentoring and a public showing of the next stage of the work — often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.         
          
 Our thirteenth edition, **[Works Ahead 2025](/archive/2025-worksahead)** took place at <a href="https://contactmcr.com/events/works-ahead-2025-2" target="_blank">Contact</a> in May with a double bill from [Adèle Le Gallez](/archive/2025-worksahead/legallez) and [Martha Pailing](/archive/2025-worksahead/pailing). See [images](/galleries/2025-woah).        
          
-<span style='font-variant: small-caps'>jump → [2012](/hab/worksahead/#2012) · [13](/hab/worksahead/#2013) · [14](/hab/worksahead/#2014) · [15](/hab/worksahead/#2015) · [16](/hab/worksahead/#2016) · [17](/hab/worksahead/#2017) · [18](/hab/worksahead/#2018) · [19](/hab/worksahead/#2019) · [20](/hab/worksahead/#2020) · [21](/hab/worksahead/#2021) · [22](/hab/worksahead/#2022) · [23](/hab/worksahead/#2023) · [24](/hab/worksahead/#2024) · [25](/hab/worksahead/#2025)</span>        
+Our fourteenth edition, **Works Ahead 2026** will take place at <a href="https://contactmcr.com" target="_blank">Contact</a> in May and June with two very different works from n:u (melissandre varin) and Nathan Birkinshaw.         
+         
+<span style='font-variant: small-caps'>jump → [2012](/hab/worksahead/#2012) · [13](/hab/worksahead/#2013) · [14](/hab/worksahead/#2014) · [15](/hab/worksahead/#2015) · [16](/hab/worksahead/#2016) · [17](/hab/worksahead/#2017) · [18](/hab/worksahead/#2018) · [19](/hab/worksahead/#2019) · [20](/hab/worksahead/#2020) · [21](/hab/worksahead/#2021) · [22](/hab/worksahead/#2022) · [23](/hab/worksahead/#2023) · [24](/hab/worksahead/#2024) · [25](/hab/worksahead/#2025) · [26](/hab/worksahead/#2026)</span>        
 <hr>        
 #### 2012         
 The [first Works Ahead](/archive/2012-woah) was a new partnership at Contact (as a Re:Con co-production), featuring a night of performances in May from Gareth Cutter, Lowri Evans, Krissi Musiol, and an evening of interactions in June from Angel Club (north), Fallen Wall Arts, Julieann O'Malley, Small Acts… See [images](/galleries/2012-woah).        
@@ -69,7 +71,10 @@ Our twelfth edition, [Works Ahead: Radiator](/archive/2024-worksahead) took plac
 #### 2025         
 Our [thirteenth Works Ahead](/archive/2025-worksahead) returned to <a href="https://contactmcr.com" target="_blank">Contact</a> in May, with a double bill from artists Adèle Le Gallez and Martha Pailing… See [images](/galleries/2025-woah).         
          
-Works Ahead 2025 commissioned by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Works Ahead Project Mentor: Peader Kirk         
+#### 2026         
+Our fourteenth Works Ahead will take place at <a href="https://contactmcr.com" target="_blank">Contact</a> in May and June, with two very different works from artists n:u (melissandre varin) and Nathan Birkinshaw…         
+         
+Works Ahead 2026 commissioned by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Works Ahead Project Mentor: Peader Kirk         
          
 <a href="http://worksahead.org" target="_blank">worksahead.org</a>         
          
