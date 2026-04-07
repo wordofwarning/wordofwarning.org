@@ -57,7 +57,7 @@ Our [eighth Works Ahead](/archive/2019-worksahead) took place at STUN Studio in 
 Our ninth Works Ahead was planned as a sited double bill at NIAMOS in May from artists Will Dickie and Ross McCaffrey… [Will](/archive/2020-spring/dickie) adapted his work for livestreaming, which was <a href="http://youtu.be/yrZFSzURaS4" target="_blank">broadcast in May</a>; Ross postponed sharing his work until it could be shown to a physical audience, which happened in [2022](/hab/worksahead/#2022).         
             
 #### 2021         
-Commissions were awarded with Contact to artists Helena Ascough and Jade Williams for them to develop their ideas for future presentation…       
+Commissions were awarded with Contact to artists Helena Ascough and Jade Williams for them to develop their ideas for future presentation…        
          
 #### 2022         
 Our [tenth Works Ahead](/archive/2022-worksahead) took place at <a href="https://contactmcr.com" target="_blank">Contact</a> in May, picking up where we were interrupted in [2020](/hab/worksahead/#2020) to show Will Dickie's finished live work alongside Ross McCaffrey's re-imagined development, plus Helena Ascough's digital outcome from [2021](/hab/worksahead/#2021) (watch her short film <a href="https://youtu.be/OXnLmCojOwI" target="_blank">here</a>). See [images](/galleries/2022-woah).                  
@@ -72,7 +72,7 @@ Our twelfth edition, [Works Ahead: Radiator](/archive/2024-worksahead) took plac
 Our [thirteenth Works Ahead](/archive/2025-worksahead) returned to <a href="https://contactmcr.com" target="_blank">Contact</a> in May, with a double bill from artists Adèle Le Gallez and Martha Pailing… See [images](/galleries/2025-woah).         
          
 #### 2026         
-Our fourteenth Works Ahead will take place at <a href="https://contactmcr.com" target="_blank">Contact</a> in May and June, with two very different works from artists n:u (melissandre varin) and Nathan Birkinshaw…         
+Our fourteenth Works Ahead will take place at <a href="https://contactmcr.com" target="_blank">Contact</a> in May and June, with two very different works from artists n:u (melissandre varin) and Nathan Birkinshaw. A further commission was awarded with Contact to artist Lisa Ford for them to develop their idea for future presentation…         
          
 Works Ahead 2026 commissioned by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Works Ahead Project Mentor: Peader Kirk         
          
