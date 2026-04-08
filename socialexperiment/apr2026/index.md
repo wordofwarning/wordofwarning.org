@@ -62,22 +62,22 @@ and has since worked in a variety of interdisciplinary performance projects, inc
          
 <a href="https://www.orlacollier.com" target="_blank">orlacollier.com</a> · Insta <a href="https://instagram.com/orla.collier" target="_blank">@orla.collier</a>             
 <hr>         
-**Graham Clayton-Chance (special guest)** · *Less Like Ourselves, More Like Each Other (installation preview)*         
+**Natalie Spanner (special guest)**         
          
-Artist and filmmaker Graham presents *<a href="https://contactmcr.com/events/less-like-ourselves-and-more-like-each-other" target="_blank">Less Like Ourselves, More Like Each Other</a>* on Saturday 21 February during Queer Contact — a body of work rooted in queer country and western dancing in San Francisco, spanning his multi-award-winning film *Last Dance at the Sundance Stompede* and immersive installation developed for Queer Contact.         
+Drag mechanic Natalie Spanner would like to teach you all about holistic car care — how to look after our cars, but also ourselves — and invite you to get down and dirty under the bonnet.         
          
-From 6pm experience a preview of the installation in Space 2 (shown twice): an embodied encounter using original footage, sound, and movement — it reimagines what it must feel like to be on a LGBTQ+ country-western dance floor in an immersive environment shaped by rhythm, proximity, and presence. The work invites you not only to witness community, but to feel it — exploring how movement generates queer collectivity and shared joy.         
+Matt Miller is a Nottingham-based poet, performer, and theatre maker who writes about place, identity, and ways of belonging.         
          
-Insta <a href="https://instagram.com/claytonchancegraham" target="_blank">@claytonchancegraham</a>         
+<a href="https://mattmillertheatre.com" target="_blank">mattmillertheatre.com</a> · Insta <a href="https://instagram.com/mattylewismiller" target="_blank">@mattylewismiller</a>         
 <hr>         
 
-**PHOBIA** · *Mistoffelees, or the Fear of Magic (rehearsed reading)*         
+**Daniel Nicholas** · *It Could be Us*         
          
-PHOBIA wants to make a show about their special interest, *Cats* the musical. Not a show about trauma. Not a success story. But when your special interest is such a key part of your life, is that even possible?         
+What would you do if you won the lottery? What would you spend it on? And what if there were certain conditions? Join award-winning comedian & theatre maker Daniel Nicholas who alongside yourselves (the audience) has just won the lottery. But there's a catch, it has to be spent within the hour or we don't get anything at all! (Inspired by & definitely not ripping off *Brewsters Millions*). Through a series of interactive games & conversations, we'll explore wealth inequality, generational divide, and holidays, as we imagine a better world for ourselves. In this excerpt of new ideas, we'll be looking at trying to find someone the perfect house.         
          
-Part drag show. Part autobiography. Part autistic joy. *Mistofeeles* is a new work-in-progress solo show from the drag artist PHOBIA.         
+Daniel is a Manchester-based theatre maker & comedian. Previous work includes *Eugene*‚ a show about AI & billionaires that uses captioning software the Difference Engine for audiences to receive scripted messages from the AI character throughout the show, that toured nationally in 2023. He co-produces Cultural Comedy Tours, where comedians give tours of cultural & heritage sites; as a comedian he's been shortlisted for the BBC New Comedy Award, won best improv show in Leicester Comedy Festival, and performed at a variety of festivals…          
          
-Insta <a href="https://instagram.com/thatcreaturephobia" target="_blank">@thatcreaturephobia</a> <a href="https://instagram.com/mistoffeleesshow" target="_blank">@mistoffeleesshow</a>         
+<a href="https://danielnicholas.co.uk" target="_blank">danielnicholas.co.uk</a> · Insta <a href="https://instagram.com/danielnicholasthings" target="_blank">@danielnicholasthings</a>         
 <hr>         
 **Ariel Hebditch** · *There Will Be Blood*          
          
@@ -108,22 +108,22 @@ Insta <a href="https://instagram.com/emmabourketheatre" target="_blank">@emmabou
 #### Entry         
 FREE: there's no ticketing… just turn up!         
          
-Time: Thursday 19 February 2026, 6pm onwards (ends *by about* 9pm).         
+Time: Thursday 9 April 2026, 6pm onwards (ends *by about* 9pm).         
           
-Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar & space 2), Oxford Rd, Manchester M15 6JA.         
+Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester M15 6JA.         
          
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
           
 Content Warnings: some works involve interaction and/or participation; specific warnings listed [here](/warnings).         
           
-Features: seven Live Art & contemporary performance works with varied content.         
+Features: six Live Art & contemporary performance works with varied content.         
          
-*NB* works mostly occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in space 0 & bar, with one in space 2 on the second floor, and vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
+*NB* works occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in space 0 & bar, and vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### Credits          
-[Social Experiment](/socialexperiment): <a href="https://contactmcr.com/queer-contact-2026" target="_blank">Queer Contact</a> Edition (February 2026) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
+[Social Experiment](/socialexperiment) (April 2026) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
                  
 <small><span style='font-variant: small-caps'>[back to top](/socialexperiment/apr2026)</span></small>
