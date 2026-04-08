@@ -85,7 +85,7 @@ Kathy is a comedian that can't drive. She's constantly on trains, and found hers
          
 Originally created as part of Lowry Artist Development.         
          
-Kathy '*an explosion of mad energy*' (Chortle) is one of the most exciting young comedians on the comedy circuit. She uses absurdism, characters, and silliness to explore '*endlessly creative*' (blizzard comedy) ideas on stage — it's the wrong time of the month!         
+Kathy 'an explosion of mad energy' (Chortle) is one of the most exciting young comedians on the comedy circuit. She uses absurdism, characters, and silliness to explore 'endlessly creative' (blizzard comedy) ideas on stage — it's the wrong time of the month!         
          
 Insta <a href="https://instagram.com/kathy_rivett" target="_blank">@kathy_rivett</a>         
 <hr>         
