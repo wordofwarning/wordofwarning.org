@@ -81,7 +81,7 @@ Daniel is a Manchester-based theatre maker & comedian. Previous work includes *E
 <hr>         
 **Kathy Rivett** · *Train Of Thought*          
          
-Kathy is a comedian that can't drive. She's constantly on trains, and found herself wondering "*what if I became the train?*"… She uses character comedy to explore the different personas she thinks different train companies would have.         
+Kathy is a comedian that can't drive. She's constantly on trains, and found herself wondering "*what if I became the train?…*" She uses character comedy to explore the different personas she thinks different train companies would have.         
          
 Originally created as part of Lowry Artist Development.         
          
