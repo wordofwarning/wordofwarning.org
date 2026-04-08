@@ -73,37 +73,22 @@ Matt Miller is a Nottingham-based poet, performer, and theatre maker who writes 
 
 **Daniel Nicholas** · *It Could be Us*         
          
-What would you do if you won the lottery? What would you spend it on? And what if there were certain conditions? Join award-winning comedian & theatre maker Daniel Nicholas who alongside yourselves (the audience) has just won the lottery. But there's a catch, it has to be spent within the hour or we don't get anything at all! (Inspired by & definitely not ripping off *Brewsters Millions*). Through a series of interactive games & conversations, we'll explore wealth inequality, generational divide, and holidays, as we imagine a better world for ourselves. In this excerpt of new ideas, we'll be looking at trying to find someone the perfect house.         
+What would you do if you won the lottery? What would you spend it on? And what if there were certain conditions? Join award-winning comedian & theatre maker Daniel who alongside yourselves (the audience) has just won the lottery. But there's a catch, it has to be spent within the hour or we don't get anything at all! (Inspired by & definitely not ripping off *Brewsters Millions*.) Through a series of interactive games & conversations, we'll explore wealth inequality, generational divide, and holidays, as we imagine a better world for ourselves. In this excerpt of new ideas, we'll be looking at trying to find someone the perfect house.         
          
 Daniel is a Manchester-based theatre maker & comedian. Previous work includes *Eugene*‚ a show about AI & billionaires that uses captioning software the Difference Engine for audiences to receive scripted messages from the AI character throughout the show, that toured nationally in 2023. He co-produces Cultural Comedy Tours, where comedians give tours of cultural & heritage sites; as a comedian he's been shortlisted for the BBC New Comedy Award, won best improv show in Leicester Comedy Festival, and performed at a variety of festivals…          
          
-<a href="https://danielnicholas.co.uk" target="_blank">danielnicholas.co.uk</a> · Insta <a href="https://instagram.com/danielnicholasthings" target="_blank">@danielnicholasthings</a>         
+<a href="https://www.danielnicholas.co.uk" target="_blank">danielnicholas.co.uk</a> · Insta <a href="https://instagram.com/danielnicholasthings" target="_blank">@danielnicholasthings</a>         
 <hr>         
-**Ariel Hebditch** · *There Will Be Blood*          
+**Kathy Rivett** · *Train Of Thought*          
          
-Ariel is an extremely silly, chaotic, high-energy stand-up comedian, but don't catch her on the full moon — it's the wrong time of the month!         
+Kathy is a comedian that can't drive. She's constantly on trains, and found herself wondering "*what if I became the train?*"… She uses character comedy to explore the different personas she thinks different train companies would have.         
          
-Winner of the Jason Manford Award for Best Newcomer at the Women in Comedy Festival 2024, Ariel will give you the time of your death as she combines stand-up, storytelling, and, spookiest of all, marketing in her brand-new piece exploring menstruation and monsters with her forked tongue in her cheek. If you love campy B-movie horror, feminism, and Dragon's Den, then she invites you in to her old, gothic castle, but be warned… there will be blood.         
+Originally created as part of Lowry Artist Development.         
          
-Insta <a href="https://instagram.com/arielhebditch" target="_blank">@arielhebditch</a>         
+Kathy '*an explosion of mad energy*' (Chortle) is one of the most exciting young comedians on the comedy circuit. She uses absurdism, characters, and silliness to explore '*endlessly creative*' (blizzard comedy) ideas on stage — it's the wrong time of the month!         
+         
+Insta <a href="https://instagram.com/kathy_rivett" target="_blank">@kathy_rivett</a>         
 <hr>         
-**lucy** · *I Will Be Dead In Ten Minutes*         
-         
-A work completely controlled by you.         
-         
-"*You as an audience have full control on how I work as an artist. Will I do a stand-up comedy set as if I were a cow? Can I paint blindfolded? Can art exist within a world of constraint? The choice is up to you.*"         
-         
-Insta <a href="https://instagram.com/luuuuuccccccyy" target="_blank">@luuuuuccccccyy</a>         
-<hr>         
-
-**Failed Artist Society** · *The Trial of Jake A*         
-         
-A courthouse drama where judges are drag queens, the court is a theatre, and the trials are a performance. These are the people who are deciding our rights. They are not televised but this is a show you want a ticket to.         
-         
-Blending historic accounts, drag, and theatre, this work deconstructs the courtroom — revealing it to be a private pantomime where public rights are at stake. Emma, Ellie, and Rose explore queerness in the courtroom and hold up a mirror to the trans panic plaguing us today.         
-         
-Insta <a href="https://instagram.com/emmabourketheatre" target="_blank">@emmabourketheatre</a> <a href="https://instagram.com/welsh_webster" target="_blank">@welsh_webster</a> <a href="https://instagram.com/rosewilsonarts" target="_blank">@rosewilsonarts</a>         
-<hr>          
          
 #### Entry         
 FREE: there's no ticketing… just turn up!         
