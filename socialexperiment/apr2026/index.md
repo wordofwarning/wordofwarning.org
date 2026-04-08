@@ -4,12 +4,12 @@ layout: 2026-programme
 rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Social Experiment:&nbsp;<br>&nbsp;Queer Contact Edition" # the name of the artist or company
-show: "19 February 2026 Programme" # the name of the show
-artist_size: 2
+artist: "Social Experiment" # the name of the artist or company
+show: "9 April 2026 Programme" # the name of the show
+artist_size: 1
 show_size: 4
 header_image: "header_socex.jpg"  
-season: "Social Experiment 19|2|2026, Programme"
+season: "Social Experiment 9|4|2026, Programme"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,9 +17,9 @@ season: "Social Experiment 19|2|2026, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/feb2026/#artists) · [programme](/socialexperiment/feb2026/#programme) · [entry](/socialexperiment/feb2026/#entry) · [access](/socialexperiment/feb2026/#access) · [credits](/socialexperiment/feb2026/#credits)</span>&ensp; <small>Updated 18 February 2026</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/apr2026/#artists) · [programme](/socialexperiment/apr2026/#programme) · [entry](/socialexperiment/apr2026/#entry) · [access](/socialexperiment/apr2026/#access) · [credits](/socialexperiment/apr2026/#credits)</span>&ensp; <small>Updated 8 April 2026</small>          
          
-*A <a href="https://contactmcr.com/queer-contact-2026" target="_blank">Queer Contact</a> Edition of [Social Experiment](/socialexperiment) on 19 February, presented by* Word of Warning + Contact         
+*A [Social Experiment](/socialexperiment) on 9 April, presented by* Word of Warning + Contact         
          
 **Social Experiment** is a free and informal, semi-regular evening gathering at Contact for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
         
@@ -28,10 +28,39 @@ If you're a Greater Manchester artist — this is your <a href="https://socialex
 If you're an audience member looking for something a little bit different — this is your chance to take a few risks & meet some artists in our social experiment.         
          
 #### Artists         
-Ariel&nbsp;Hebditch&nbsp;· Ben&nbsp;Hodge&nbsp;· Failed&nbsp;Artist&nbsp;Society&nbsp;· lucy&nbsp;· Maddie&nbsp;Maycock&nbsp;· PHOBIA&nbsp;· special&nbsp;guest&nbsp;Graham&nbsp;Clayton-Chance &ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
+Daniel&nbsp;Nicholas&nbsp;· Gin&nbsp;Niemtus&nbsp;· Kathy&nbsp;Rivett&nbsp;· Lisa&nbsp;Ford&nbsp;· Orla&nbsp;Collier&nbsp;· special&nbsp;guest&nbsp;Natalie&nbsp;Spanner &ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
          
 #### Programme        
-February's <a href="https://contactmcr.com/queer-contact-2026" target="_blank">Queer Contact</a> Edition, hosted by Seth Douglas, kicks off at 6pm and finishes *by* 9pm…         
+April's Edition, hosted by Peader Kirk, kicks off at 6pm and finishes *by* 9pm…         
+<hr>         
+**Lisa Ford** · *Four rows back and on the other side of the aisle*         
+         
+Did you notice when they caught your eye, brushed past your elbow, tapped the table, left a coffee cup, raised their voice, held the door?<br>Write me a postcard when you get there.         
+         
+A [Works Ahead 2026](https://wordofwarning.org/hab/worksahead/#2026) commission by hÅb + Contact.         
+         
+Lisa is a theatre-maker and dramaturg, she takes threads, some yours, some hers, some found in streets, in shop doorways, or in libraries. Often the threads are words and images or conversations with people, she weaves these together to create a fabric of collective feeling.         
+         
+Insta <a href="https://instagram.com/lisaf0rd" target="_blank">@lisaf0rd</a>         
+<hr>         
+**Gin Niemtus** · *I Don't Think This Is Good For Me*         
+         
+Gin is a multidisciplinary artist with a kaleidoscopic practice ranging from installation art to shadow puppetry to music, performance, and theatre. Their art explores the unusual experiences we might be simultaneously haunted and inspired by, and the notion nothing exists in isolation; it all belongs to a chain of events. They aim to make a home for the strange emotions and impulses that we feel as people. Let them cradle your weird with theirs.         
+         
+Insta <a href="https://instagram.com/ginniemtus" target="_blank">@ginniemtus</a>         
+<hr>         
+**Orla Collier** · *Sometimes I hate going for walks in nice places that look nice*          
+         
+A solo performance piece exploring feelings of pressure and overwhelm.         
+
+"*Life is not a competition with others. In its truest sense it is a rivalry with ourselves. We should each day seek to break the record of our yesterday. We should seek each day to live stronger, better, truer lives; each day to master some weakness of yesterday; each day to repair past follies; each day to surpass… ourselves. And this is but progress."* — William George Jordan         
+         
+Created & performed by Orla Collier. Music by Lee Affen. Interview conducted & edited by Jack Ballinger. Commissioned & supported by <a href="https://www.theknottedproject.co.uk" target="_blank">The Knotted Project</a>         
+          
+Orla (she/her) is a Leeds-based freelance dance artist, physical theatre practitioner, and life model from Cumbria. She trained at Rambert School & NSCD, 
+and has since worked in a variety of interdisciplinary performance projects, including her own solo works. Orla's practice focuses on using her body to express feelings or experiences that can otherwise be difficult to express or accept.         
+         
+<a href="https://www.orlacollier.com" target="_blank">orlacollier.com</a> · Insta <a href="https://instagram.com/orla.collier" target="_blank">@orla.collier</a>             
 <hr>         
 **Graham Clayton-Chance (special guest)** · *Less Like Ourselves, More Like Each Other (installation preview)*         
          
@@ -41,20 +70,7 @@ From 6pm experience a preview of the installation in Space 2 (shown twice): an e
          
 Insta <a href="https://instagram.com/claytonchancegraham" target="_blank">@claytonchancegraham</a>         
 <hr>         
-**Ben Hodge** · *What's in a name?*         
-         
-This work explores the relationship we have to our very first gift. This 1-2-1 performance builds from the artist's lived experience as a trans person — carrying a name for 18 years before dealing with systematic and institutional ignorance to the legality of name changing. Join Ben and get a taste of this experience. Can you carry a name? Will they let you change it?         
-         
-Insta <a href="https://instagram.com/benhodgeee" target="_blank">@benhodgeee</a>         
-<hr>         
-**Maddie Maycock** · *NONBINARYHOOD: The Interview, Live.*         
-         
-A durational 1-2-1 performance asking questions about queerhood, girlhood, boyhood, and nonbinaryhood.         
-         
-"*This work draws on an interview format, the difference is, only the audience speaks. In an intimate style of one to one performance, I'll be asking questions about girlhood, boyhood and nonbinaryhood. Giving space for people to speak aloud about their experiences as queer beings, and how the art of storytelling begins with people sharing parts of themselves, and someone there to listen. The piece is part of a wider research project that aims to expand the language surrounding the non-binary experience. Through testimony, interview and other artistic methods I have been conducting research into girlhood, boyhood, and people's experiences of queerness in their childhoods. Stay for as long or as little as you wish. Participants who enter the space and speak as part of the one to one performance will be recorded, as all participation will go directly towards the research. You do not have to be a performer, you do not have to be an artist, the aim is to engage with as many people as possible and to listen to your stories.*"
-         
-Insta <a href="https://instagram.com/crocsportfolio" target="_blank">@crocsportfolio</a>         
-<hr>         
+
 **PHOBIA** · *Mistoffelees, or the Fear of Magic (rehearsed reading)*         
          
 PHOBIA wants to make a show about their special interest, *Cats* the musical. Not a show about trauma. Not a success story. But when your special interest is such a key part of your life, is that even possible?         
@@ -110,4 +126,4 @@ Queries: please contact <a href="https://contactmcr.com/visit/access" target="_b
 #### Credits          
 [Social Experiment](/socialexperiment): <a href="https://contactmcr.com/queer-contact-2026" target="_blank">Queer Contact</a> Edition (February 2026) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
                  
-<small><span style='font-variant: small-caps'>[back to top](/socialexperiment/feb2026)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/socialexperiment/apr2026)</span></small>
