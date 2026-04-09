@@ -17,7 +17,7 @@ season: "Social Experiment 9|4|2026, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/apr2026/#artists) · [programme](/socialexperiment/apr2026/#programme) · [entry](/socialexperiment/apr2026/#entry) · [access](/socialexperiment/apr2026/#access) · [credits](/socialexperiment/apr2026/#credits)</span>&ensp; <small>Updated 8 April 2026</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/apr2026/#artists) · [programme](/socialexperiment/apr2026/#programme) · [entry](/socialexperiment/apr2026/#entry) · [access](/socialexperiment/apr2026/#access) · [credits](/socialexperiment/apr2026/#credits)</span>&ensp; <small>Updated 9 April 2026</small>          
          
 *A [Social Experiment](/socialexperiment) on 9 April, presented by* Word of Warning + Contact         
          
@@ -46,6 +46,8 @@ Insta <a href="https://instagram.com/lisaf0rd" target="_blank">@lisaf0rd</a>
 **Gin Niemtus** · *I Don't Think This Is Good For Me*         
          
 Gin is a multidisciplinary artist with a kaleidoscopic practice ranging from installation art to shadow puppetry to music, performance, and theatre. Their art explores the unusual experiences we might be simultaneously haunted and inspired by, and the notion nothing exists in isolation; it all belongs to a chain of events. They aim to make a home for the strange emotions and impulses that we feel as people. Let them cradle your weird with theirs.         
+         
+Content Warning: please click [here](/warnings).         
          
 Insta <a href="https://instagram.com/ginniemtus" target="_blank">@ginniemtus</a>         
 <hr>         
