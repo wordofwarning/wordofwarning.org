@@ -66,7 +66,7 @@ and has since worked in a variety of interdisciplinary performance projects, inc
 <hr>         
 **Natalie Spanner (special guest)**         
          
-Drag mechanic Natalie Spanner would like to teach you all about holistic car care — how to look after our cars, but also ourselves — and invite you to get down and dirty under the bonnet.         
+Drag mechanic Natalie Spanner would like to teach you all about holistic car care — how to look after our cars, but also ourselves — and invite you to get down and dirty under the bonnet. This is the introductory car car class — if you want to do the full course, join her at <a href="http://thelowry.com/whats-on/fixing-dwx9" target="_blank">Lowry on Friday night</a>.         
          
 Matt Miller is a Nottingham-based poet, performer, and theatre maker who writes about place, identity, and ways of belonging.         
          
