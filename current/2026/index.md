@@ -8,7 +8,7 @@ artist_size: 1
 season: "Performance Programme 2026"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2026/#about) · [what](/current/2026/#what) · [by](/current/2026/#by) · [people](/current/2026/#people) · [warnings](/current/2026/#warnings)</span>&ensp; <small>Updated 26 March 2026</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2026/#about) · [what](/current/2026/#what) · [by](/current/2026/#by) · [people](/current/2026/#people) · [warnings](/current/2026/#warnings)</span>&ensp; <small>Updated 9 April 2026</small>        
          
 *The year continues with more [Social Experiments](/socialexperiment) and [Harry Clayton-Wright](/current/2026/clayton-wright)'s tongue-in-cheek theatrical extravaganza — we began with [Victoria Melody](/current/2026/melody)'s testament to people power and [Turn](/current/2026-turn)'s whirlwind of dance…*          
           
@@ -16,7 +16,7 @@ Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Wee
         
 Visit our <a href="https://youtube.com/@warnmcr" target="_blank">YouTube channel</a> to watch archived livestreams and more.<br>Find further information for both audiences and artists on our [News](/news) page.         
         
-Discover what happened last year in our [2025 archive](/archive/2025) — and <a href="https://www.illuminate-data.org.uk/survey/gnwmcx" target="_blank">please tell us your thoughts</a> if you come to any of our events or watch a livestream.        
+Discover what happened last year in our [2025 archive](/archive/2025) — and <a href="https://www.illuminate-data.org.uk/survey/rnqbgk" target="_blank">please tell us your thoughts</a> if you come to any of our events or watch a livestream.        
 <small><span style='font-variant: small-caps'>[back to top](/current/2026)</span></small>        
         
 #### About         
