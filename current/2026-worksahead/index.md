@@ -21,7 +21,7 @@ season: "Works Ahead 2026"
         
 *Presented by* Word of Warning *+* Contact         
 
-Our annual sample of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> with new works-in-development from n:u (melissandre varin) in May, and Nathan Birkinshaw in June; Lisa Ford is further developing an idea for future presentation…        
+Our annual sample of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> with new works-in-development from n:u (melissandre varin) in May, and Nathan Birkinshaw in June; Lisa Ford is developing an idea for future presentation…        
           
 #### Works        
 **n:u (melissandre varin)** · *العين — Le mauvais oeil — The evil eye* 🧿         
@@ -53,6 +53,6 @@ A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/h
 [Works Ahead](/hab/worksahead) 2026 commissioned by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Project Mentor: Peader Kirk        
          
 #### Websites          
-<a href="http://worksahead.org" target="_blank">WorksAhead.org</a><br>n:u — <a href="https://atmosphere-maker.org" target="_blank">atmosphere-maker.org</a> · Insta <a href="https://instagram.com/nu.melissandre.varin" target="_blank">@nu.melissandre.varin</a><br>Nathan Birkinshaw — Insta <a href="https://instagram.com/nathanbirkinshaw" target="_blank">@nathanbirkinshaw</a> · <a href="https://www.youtube.com/@nathanbirkinshaw" target="_blank">YouTube @nathanbirkinshaw</a><br>Lisa Ford — Insta <a href="https://instagram.com/lisaf0rd" target="_blank">@lisaf0rd</a>         
+<a href="http://worksahead.org" target="_blank">WorksAhead.org</a><br>n:u — <a href="https://atmosphere-maker.org" target="_blank">atmosphere-maker.org</a> · Insta <a href="https://instagram.com/nu.melissandre.varin" target="_blank">@nu.melissandre.varin</a><br>Nathan Birkinshaw — Insta <a href="https://instagram.com/nathanbirkinshaw" target="_blank">@nathanbirkinshaw</a> · YouTube <a href="https://www.youtube.com/@nathanbirkinshaw" target="_blank">@nathanbirkinshaw</a><br>Lisa Ford — Insta <a href="https://instagram.com/lisaf0rd" target="_blank">@lisaf0rd</a>         
          
 <small><span style='font-variant: small-caps'>[back to top](/current/2026-worksahead)</span></small>
