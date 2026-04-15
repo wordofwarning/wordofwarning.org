@@ -21,9 +21,9 @@ season: "Works Ahead by hÅb"
         
 **Works Ahead** is a project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011.          
          
-Since 2012 it has offered 38 small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) or other platform event. Support includes mentoring and a public showing of the next stage of the work — often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.         
+Since 2012 it has offered 39 small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) or other platform event. Support includes mentoring and a public showing of the next stage of the work — often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.         
          
-Our fourteenth edition, **Works Ahead 2026** will take place at <a href="https://contactmcr.com" target="_blank">Contact</a> with new works-in-development from n:u (melissandre varin) in May and Nathan Birkinshaw in June; Lisa Ford is also developing an idea for future presentation…         
+Our fourteenth edition, [**Works Ahead 2026**](/current/2026-worksahead) will take place at <a href="https://contactmcr.com" target="_blank">Contact</a> with new works-in-development from n:u (melissandre varin) in May and Nathan Birkinshaw in June; Lisa Ford is also developing an idea for future presentation…         
          
 <span style='font-variant: small-caps'>jump → [2012](/hab/worksahead/#2012) · [13](/hab/worksahead/#2013) · [14](/hab/worksahead/#2014) · [15](/hab/worksahead/#2015) · [16](/hab/worksahead/#2016) · [17](/hab/worksahead/#2017) · [18](/hab/worksahead/#2018) · [19](/hab/worksahead/#2019) · [20](/hab/worksahead/#2020) · [21](/hab/worksahead/#2021) · [22](/hab/worksahead/#2022) · [23](/hab/worksahead/#2023) · [24](/hab/worksahead/#2024) · [25](/hab/worksahead/#2025) · [26](/hab/worksahead/#2026)</span>        
 <hr>        
@@ -70,7 +70,7 @@ Our twelfth edition, [Works Ahead: Radiator](/archive/2024-worksahead) took plac
 Our [thirteenth Works Ahead](/archive/2025-worksahead) returned to <a href="https://contactmcr.com" target="_blank">Contact</a> in May, with a double bill from artists Adèle Le Gallez and Martha Pailing… See [images](/galleries/2025-woah).         
          
 #### 2026         
-Our fourteenth Works Ahead will take place at <a href="https://contactmcr.com" target="_blank">Contact</a> in May and June, with two very different works from artists n:u (melissandre varin) and Nathan Birkinshaw. A further commission was awarded with Contact to artist Lisa Ford for them to develop their idea for future presentation…         
+Our [fourteenth Works Ahead](/current/2026-worksahead) will take place at <a href="https://contactmcr.com" target="_blank">Contact</a> in May and June, with two very different works from artists n:u (melissandre varin) and Nathan Birkinshaw. A further commission was awarded with Contact to artist Lisa Ford for them to develop their idea for future presentation…         
          
 Works Ahead 2026 commissioned by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Works Ahead Project Mentor: Peader Kirk         
          
