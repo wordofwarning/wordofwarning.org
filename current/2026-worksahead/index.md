@@ -23,7 +23,9 @@ season: "Works Ahead 2026"
 
 Our annual sample of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> with new works-in-development from n:u (melissandre varin) in May and Nathan Birkinshaw in June; Lisa Ford is also developing an idea for future presentation…        
 
-**28 & 29 May, evening** n:u (melissandre varin)<br>**11 June, 6pm-9pm** Nathan Birkinshaw — during Social Experiment<br>Full event details to follow in late-April.         
+**28 & 29 May, evening**<br>n:u (melissandre varin) — event details to be announced in late-April.         
+          
+**11 June, 6pm-9pm**<br>Nathan Birkinshaw — guest appearance in [Social Experiment](/socialexperiment).         
           
 #### Works        
 **n:u (melissandre varin)** · *العين — Le mauvais oeil — The evil eye* 🧿         
