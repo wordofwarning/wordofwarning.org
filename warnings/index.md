@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 9 April 2026<small>        
+<small>Updated 15 April 2026<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>(Please click [here](/archive/warnings) for *past* events and *archived* livestreams on our YouTube channel.)         
          
@@ -20,9 +20,6 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 <hr>         
 #### 2026         
          
-##### [9 Apr. Contact | Social Experiment](/socialexperiment/apr2026)          
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction and/or participation; specific warnings follow…<br>&nbsp;Gin Niemtus — references abuse, sexual themes, domestic violence, strong language, and mental health issues.         
-
 ##### [2 May. Lowry | *Mr Blackpool* by Harry Clayton-Wright](/current/2026/clayton-wright)          
 Age Advisory: 18+ (parent/guardian/carer discretion).<br>Content Warnings: features flashing lights, loud music, haze and smoke, and stage effects including pyrotechnics, and themes that some people may find upsetting.          
          
