@@ -21,7 +21,7 @@ season: "Works Ahead 2026"
         
 *Presented by* Word of Warning *+* Contact         
 
-Our annual sample of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> in May and June with two very different new works-in-development from n:u (melissandre varin) and Nathan Birkinshaw…         
+Our annual sample of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> with new works-in-development from n:u (melissandre varin) in May, and Nathan Birkinshaw in June; Lisa Ford is further developing an idea for future presentation…        
           
 #### Works        
 **n:u (melissandre varin)** · *العين — Le mauvais oeil — The evil eye* 🧿         
@@ -31,24 +31,18 @@ Reframing the العين as an energy not to be fearful of, but instead a force 
 The creation process is rooted in "composing nearby", a methodology inspired by Trinh T. Minh-ha's refusal to speak about and preference to speak nearby. This approach allows the work to challenge a domineering, linear division of time (past-present-future triptych), and a vertical classification of ways of being.         
          
 n:u is an atmosphere-maker with a practice rooted in Congolese, Guadeloupean, and Beninese heritages. Building upon (more than) human, cross-border collaborations, they unearth ancestral ceremonies to be with change. They play with unexpected pairings between materials, bodies, and concepts — disrupting colonial binaries and dominant narratives.         
-         
-atmosphere-maker.org  · Insta <a href="https://instagram.com/nu.melissandre.varin" target="_blank">@nu.melissandre.varin</a>         
 <hr>        
 **Nathan Birkinshaw** · *How To Be Content*         
          
 "Making peace with the fact this might be it."<br>An exploration of contentment, led by a man brimming with mediocrity.<br>Through film, performance, song, and an increasingly questionable process, comes a show that investigates how to find meaning in the mundane — that somehow becomes increasingly more performative itself as time slips by.          
          
-Nathan is a performance artist, comedian, and theatre-maker whose work blends humour with the explorations of being human and the general absurdity of what comes with that responsibility (or lack thereof).<br>With an unhealthy obsession with the internet, you're just as likely to find him there as well as showing work in theatres, back rooms of pubs, and having work appearing on BBC Radio.          
-         
-Insta <a href="https://instagram.com/nathanbirkinshaw" target="_blank">@nathanbirkinshaw</a> · YT @nathanbirkinshaw         
+Nathan is a performance artist, comedian, and theatre-maker whose work blends humour with the explorations of being human and the general absurdity of what comes with that responsibility (or lack thereof).<br>With an unhealthy obsession with the internet, you're just as likely to find him there as well as showing work in theatres, back rooms of pubs, and having work appearing on BBC Radio.                
 <hr>          
 **Lisa Ford** · *Four rows back and on the other side of the aisle*         
          
 Did you notice when they caught your eye, brushed past your elbow, tapped the table, left a coffee cup, raised their voice, held the door?<br>Write me a postcard when you get there.         
          
 Lisa is a theatre-maker and dramaturg, she takes threads, some yours, some hers, some found in streets, in shop doorways, or in libraries. Often the threads are words and images or conversations with people, she weaves these together to create a fabric of collective feeling.         
-         
-Insta <a href="https://instagram.com/lisaf0rd" target="_blank">@lisaf0rd</a>         
          
 #### About           
 Each year since 2012, [Works Ahead](/hab/worksahead) has invited artists to dig deeper into work presented at the previous year’s [Emergency](/hab/emergency) or other platform event.          
@@ -59,6 +53,6 @@ A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/h
 [Works Ahead](/hab/worksahead) 2026 commissioned by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Project Mentor: Peader Kirk        
          
 #### Websites          
-<a href="http://worksahead.org" target="_blank">WorksAhead.org</a><br>Adèle Le Gallez — <a href="https://adelegallez.wixsite.com/portfolio" target="_blank">adelegallez.wixsite.com</a> · Insta <a href="https://instagram.com/adele.legallez" target="_blank">@adele.legallez</a><br>Martha Pailing — <a href="https://www.marthapailing.com" target="_blank">marthapailing.com</a> · Insta <a href="https://instagram.com/marthapailing" target="_blank">@marthapailing</a>        
-        
+<a href="http://worksahead.org" target="_blank">WorksAhead.org</a><br>n:u — <a href="https://atmosphere-maker.org" target="_blank">atmosphere-maker.org</a> · Insta <a href="https://instagram.com/nu.melissandre.varin" target="_blank">@nu.melissandre.varin</a><br>Nathan Birkinshaw — Insta <a href="https://instagram.com/nathanbirkinshaw" target="_blank">@nathanbirkinshaw</a> · <a href="https://www.youtube.com/@nathanbirkinshaw" target="_blank">YouTube @nathanbirkinshaw</a><br>Lisa Ford — Insta <a href="https://instagram.com/lisaf0rd" target="_blank">@lisaf0rd</a>         
+         
 <small><span style='font-variant: small-caps'>[back to top](/current/2026-worksahead)</span></small>
