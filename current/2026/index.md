@@ -8,9 +8,9 @@ artist_size: 1
 season: "Performance Programme 2026"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2026/#about) · [what](/current/2026/#what) · [by](/current/2026/#by) · [people](/current/2026/#people) · [warnings](/current/2026/#warnings)</span>&ensp; <small>Updated 9 April 2026</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2026/#about) · [what](/current/2026/#what) · [by](/current/2026/#by) · [people](/current/2026/#people) · [warnings](/current/2026/#warnings)</span>&ensp; <small>Updated 15 April 2026</small>        
          
-*The year continues with more [Social Experiments](/socialexperiment) and [Harry Clayton-Wright](/current/2026/clayton-wright)'s tongue-in-cheek theatrical extravaganza — we began with [Victoria Melody](/current/2026/melody)'s testament to people power and [Turn](/current/2026-turn)'s whirlwind of dance…*          
+*The year continues with [Harry Clayton-Wright](/current/2026/clayton-wright)'s tongue-in-cheek theatrical extravaganza and more [Social Experiments](/socialexperiment) and  — we began with [Victoria Melody](/current/2026/melody)'s testament to people power and [Turn](/current/2026-turn)'s whirlwind of dance…*          
           
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
