@@ -17,15 +17,13 @@ season: "Works Ahead by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 2 April 2026</small>                
+<small>Updated 15 April 2026</small>                
         
 **Works Ahead** is a project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011.          
          
 Since 2012 it has offered 38 small, supported, work-in-development commissions for artists selected from the previous year's [Emergency](/hab/emergency) or other platform event. Support includes mentoring and a public showing of the next stage of the work — often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.         
          
-Our thirteenth edition, **[Works Ahead 2025](/archive/2025-worksahead)** took place at <a href="https://contactmcr.com/events/works-ahead-2025-2" target="_blank">Contact</a> in May with a double bill from [Adèle Le Gallez](/archive/2025-worksahead/legallez) and [Martha Pailing](/archive/2025-worksahead/pailing). See [images](/galleries/2025-woah).        
-         
-Our fourteenth edition, **Works Ahead 2026** will take place at <a href="https://contactmcr.com" target="_blank">Contact</a> in May and June with two very different works from n:u (melissandre varin) and Nathan Birkinshaw.         
+Our fourteenth edition, **Works Ahead 2026** will take place at <a href="https://contactmcr.com" target="_blank">Contact</a> with new works-in-development from n:u (melissandre varin) in May and Nathan Birkinshaw in June; Lisa Ford is also developing an idea for future presentation…         
          
 <span style='font-variant: small-caps'>jump → [2012](/hab/worksahead/#2012) · [13](/hab/worksahead/#2013) · [14](/hab/worksahead/#2014) · [15](/hab/worksahead/#2015) · [16](/hab/worksahead/#2016) · [17](/hab/worksahead/#2017) · [18](/hab/worksahead/#2018) · [19](/hab/worksahead/#2019) · [20](/hab/worksahead/#2020) · [21](/hab/worksahead/#2021) · [22](/hab/worksahead/#2022) · [23](/hab/worksahead/#2023) · [24](/hab/worksahead/#2024) · [25](/hab/worksahead/#2025) · [26](/hab/worksahead/#2026)</span>        
 <hr>        
