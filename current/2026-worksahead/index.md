@@ -17,11 +17,11 @@ season: "Works Ahead 2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [works](/current/2026-worksahead/#works) · [about](/current/2026-worksahead/#about) · [credits](/current/2026-worksahead/#credits) · [websites](/current/2026-worksahead/#websites)</span>&ensp; <small>Updated 15 April 2026</small>        
+<span style='font-variant: small-caps'>→ [works](/current/2026-worksahead/#works) · [about](/current/2026-worksahead/#about) · [credits](/current/2026-worksahead/#credits) · [websites](/current/2026-worksahead/#websites)</span>&ensp; <small>Updated 21 April 2026</small>        
         
 *Presented by* Word of Warning *+* Contact         
 
-Our annual sample of new performance returns to <a href="https://contactmcr.com" target="_blank">Contact</a> with new works-in-development from n:u (melissandre varin) in May and Nathan Birkinshaw in June; Lisa Ford is also developing an idea for future presentation…        
+Our annual sample of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2026" target="_blank">Contact</a> with new works-in-development from **n:u (melissandre varin) in May** and **Nathan Birkinshaw in June**; Lisa Ford is also developing an idea for future presentation…        
 
 **28 & 29 May, evening**<br>n:u (melissandre varin) — event details to be announced in late-April.         
           
@@ -38,7 +38,7 @@ n:u is an atmosphere-maker with a practice rooted in Congolese, Guadeloupean, an
 <hr>        
 **Nathan Birkinshaw** · *How To Be Content*         
          
-"Making peace with the fact this might be it."<br>An exploration of contentment, led by a man brimming with mediocrity.<br>Through film, performance, song, and an increasingly questionable process, comes a show that investigates how to find meaning in the mundane — that somehow becomes increasingly more performative itself as time slips by.          
+"*Making peace with the fact this might be it.*"<br>An exploration of contentment, led by a man brimming with mediocrity.<br>Through film, performance, song, and an increasingly questionable process, comes a show that investigates how to find meaning in the mundane — that somehow becomes increasingly more performative itself as time slips by.          
          
 Nathan is a performance artist, comedian, and theatre-maker whose work blends humour with the explorations of being human and the general absurdity of what comes with that responsibility (or lack thereof).<br>With an unhealthy obsession with the internet, you're just as likely to find him there as well as showing work in theatres, back rooms of pubs, and having work appearing on BBC Radio.                
 <hr>          
@@ -57,6 +57,6 @@ A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/h
 [Works Ahead](/hab/worksahead) 2026 commissioned by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Project Mentor: Peader Kirk        
          
 #### Websites         
-n:u — <a href="https://atmosphere-maker.org" target="_blank">atmosphere-maker.org</a> · Insta <a href="https://instagram.com/nu.melissandre.varin" target="_blank">@nu.melissandre.varin</a><br>Nathan Birkinshaw — Insta <a href="https://instagram.com/nathanbirkinshaw" target="_blank">@nathanbirkinshaw</a> · YouTube <a href="https://www.youtube.com/@nathanbirkinshaw" target="_blank">@nathanbirkinshaw</a><br>Lisa Ford — Insta <a href="https://instagram.com/lisaf0rd" target="_blank">@lisaf0rd</a>         
+<a href="https://worksahead.org" target="_blank">worksahead.org</a><br>n:u — <a href="https://atmosphere-maker.org" target="_blank">atmosphere-maker.org</a> · Insta <a href="https://instagram.com/nu.melissandre.varin" target="_blank">@nu.melissandre.varin</a><br>Nathan Birkinshaw — Insta <a href="https://instagram.com/nathanbirkinshaw" target="_blank">@nathanbirkinshaw</a> · YouTube <a href="https://www.youtube.com/@nathanbirkinshaw" target="_blank">@nathanbirkinshaw</a><br>Lisa Ford — Insta <a href="https://instagram.com/lisaf0rd" target="_blank">@lisaf0rd</a>         
          
 <small><span style='font-variant: small-caps'>[back to top](/current/2026-worksahead)</span></small>
