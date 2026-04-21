@@ -30,7 +30,7 @@ Our annual sample of new performance returns to <a href="https://contactmcr.com/
 #### Works        
 **n:u (melissandre varin)** · *evil eyes*         
          
-evil eyes directly confronts the power dynamics embedded in gaze.         
+*evil eyes* directly confronts the power dynamics embedded in gaze.         
          
 The evil eye is a belief, found across many cultures, that someone can cause harm just by looking at you. Some believe that it is put upon us by others, while some believe that it comes from our own pride.         
          
