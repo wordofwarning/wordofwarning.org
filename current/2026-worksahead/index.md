@@ -44,7 +44,11 @@ n:u is an atmosphere-maker with a practice rooted in Congolese, Guadeloupean, an
 <hr>        
 **Nathan Birkinshaw** · *How To Be Content*         
          
-*"Making peace with the fact this might be it."*<br>An exploration of contentment, led by a man brimming with mediocrity.<br>Through film, performance, song, and an increasingly questionable process, comes a show that investigates how to find meaning in the mundane — that somehow becomes increasingly more performative itself as time slips by.          
+*"Making peace with the fact this might be it."*         
+         
+An exploration of contentment, led by a man brimming with mediocrity.         
+         
+Through film, performance, song, and an increasingly questionable process, comes a show that investigates how to find meaning in the mundane — that somehow becomes increasingly more performative itself as time slips by.          
          
 Nathan is a performance artist, comedian, and theatre-maker whose work blends humour with the explorations of being human and the general absurdity of what comes with that responsibility (or lack thereof).<br>With an unhealthy obsession with the internet, you're just as likely to find him there as well as showing work in theatres, back rooms of pubs, and having work appearing on BBC Radio.                
 <hr>          
