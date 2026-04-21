@@ -23,7 +23,7 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 ##### [2 May. Lowry | *Mr Blackpool* by Harry Clayton-Wright](/current/2026/clayton-wright)          
 Age Advisory: 18+<br>Content Warnings: features flashing lights, loud music, haze and smoke, and stage effects including pyrotechnics, and themes that some people may find upsetting.          
          
-##### [28 & 29 May. Contact | Works Ahead 2026: *العين — Le mauvais oeil — The evil eye* by n:u (melissandre varin)](/current/2026-worksahead)         
+##### [28 & 29 May. Contact | Works Ahead 2026: *evil eyes* by n:u (melissandre varin)](/current/2026-worksahead)         
 Age Advisory: 18+<br>Content Warnings: to follow in late-April…
 
 ##### [11 Jun. Contact | Social Experiment](/socialexperiment)          
