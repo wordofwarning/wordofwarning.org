@@ -21,7 +21,7 @@ season: "Works Ahead 2026"
         
 *Presented by* Word of Warning *+* Contact         
 
-Our annual sample of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2026" target="_blank">Contact</a> with new works-in-development from **n:u (melissandre varin) in May** and **Nathan Birkinshaw in June**; Lisa Ford is also developing an idea for future presentation…        
+Our annual sample of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2026" target="_blank">Contact</a> with new works-in-development from n:u (melissandre varin) in May and Nathan Birkinshaw in June; Lisa Ford is also developing an idea for future presentation…        
 
 **28 & 29 May, evening**<br>n:u (melissandre varin) — event details to be announced in late-April.         
           
