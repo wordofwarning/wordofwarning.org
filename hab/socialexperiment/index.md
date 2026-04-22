@@ -16,18 +16,17 @@ season: "Social Experiment by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 26 March 2026</small>        
+<small>Updated 22 April 2026</small>        
         
 **[Social Experiment](/socialexperiment)** is a gathering at <a href="https://contactmcr.com/events/social-experiment" target="_blank">Contact</a> for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
          
-A free and informal, semi-regular evening event with the next on Thursday **9 April** from 6pm to 9pm — followed by Thursdays **11 June** & **19 November** 2026.         
+A free and informal, semi-regular evening event with the next on Thursday **1 June** from 6pm to 9pm — followed by Thursday **19 November** 2026.         
          
 If you're a Greater Manchester artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
          
 If you're an audience member looking for something a little bit different — this is your chance to take a few risks & meet some artists in our social experiment.          
          
-Past events were held in [February 2026 (a Queer Contact Edition)](/socialexperiment/feb2026) and during [2025](/archive/2025-socialexperiment) in
-[November](/socialexperiment/nov2025), [July](/socialexperiment/jul2025), [June (a Student Edition)](/socialexperiment/studentedition), [May](/socialexperiment/may2025), and [February](/socialexperiment/feb2025). See some images from [2026](/galleries/2026-socex) and [2025](/galleries/2025-socex).         
+Past events were held in [April 2026](/socialexperiment/apr2026), [February 2026 (Queer Contact Edition)](/socialexperiment/feb2026), [November 2025](/socialexperiment/nov2025), [July 2025](/socialexperiment/jul2025), [June 2025 (Student Edition)](/socialexperiment/studentedition), [May 2025](/socialexperiment/may2025), and [February 2025](/socialexperiment/feb2025). See some images from [2026](/galleries/2026-socex) and [2025](/galleries/2025-socex).         
          
 #### Social Experiment Call for Proposals        
 Greater Manchester artists (*aged 18+*) are invited to submit proposals of: short performances, interventions, or durational works, for inclusion in these events. The priority is for GM artists, we will consider applications from other North West based artists but not from other regions.       
