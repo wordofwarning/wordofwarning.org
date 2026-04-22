@@ -32,14 +32,12 @@ If you're an audience member looking for something a little bit different — th
 Past events were held in [April 2026](/socialexperiment/apr2026), [February 2026 (Queer Contact Edition)](/socialexperiment/feb2026), [November 2025](/socialexperiment/nov2025), [July 2025](/socialexperiment/jul2025), [June 2025 (Student Edition)](/socialexperiment/studentedition), [May 2025](/socialexperiment/may2025), and [February 2025](/socialexperiment/feb2025). See some images from [2026](/galleries/2026-socex) and [2025](/galleries/2025-socex).         
          
 #### Artists        
-**11 June** — special&nbsp;guest&nbsp;[Nathan&nbsp;Birkinshaw](/current/2026-worksahead)&nbsp;· further participating artists to be announced.         
+**11 June** — special&nbsp;guest&nbsp;[Nathan&nbsp;Birkinshaw](/current/2026-worksahead)&nbsp;· further participating artists to be announced         
          
-**9 April** — Daniel&nbsp;Nicholas&nbsp;· Gin&nbsp;Niemtus&nbsp;· Kathy&nbsp;Rivett&nbsp;· Lisa&nbsp;Ford&nbsp;· Orla&nbsp;Collier&nbsp;· special&nbsp;guest&nbsp;Natalie&nbsp;Spanner —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/apr2026). &ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
+**9 April** — Daniel&nbsp;Nicholas&nbsp;· Gin&nbsp;Niemtus&nbsp;· Kathy&nbsp;Rivett&nbsp;· Lisa&nbsp;Ford&nbsp;· Orla&nbsp;Collier&nbsp;· special&nbsp;guest&nbsp;Natalie&nbsp;Spanner —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/apr2026).         
          
 **19 February** (<a href="https://contactmcr.com/queer-contact-2026" target="_blank">Queer Contact</a> Edition) — Ariel&nbsp;Hebditch&nbsp;· Ben&nbsp;Hodge&nbsp;· Failed&nbsp;Artist&nbsp;Society&nbsp;· lucy&nbsp;· Maddie&nbsp;Maycock&nbsp;· PHOBIA&nbsp;· special&nbsp;guest&nbsp;Graham&nbsp;Clayton-Chance —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/feb2026).         
          
-**19 November** — participating artists to be announced.         
-          
 *NB* participating artists announced *about* a fortnight before each event — our call for proposals is open on a rolling basis at <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>         
          
 #### Entry         
