@@ -59,18 +59,18 @@ Did you notice when they caught your eye, brushed past your elbow, tapped the ta
 Lisa is a theatre-maker and dramaturg, she takes threads, some yours, some hers, some found in streets, in shop doorways, or in libraries. Often the threads are words and images or conversations with people, she weaves these together to create a fabric of collective feeling.         
 
 #### Entry         
-**n:u (melissandre varin)** · *evil eyes*         
+**n:u (melissandre varin)**         
           
 Pay What You Can: £10/£5/£2 (advance booking recommended).        
          
-Tickets: available online via Contact for <a href="[https://contactmcr.com/book/instance/383158" target="_blank">28</a> & <a href="https://contactmcr.com/book/instance/383159" target="_blank">29</a> May.         
+Tickets: available online via Contact for <a href="https://contactmcr.com/book/instance/383158" target="_blank">28</a> & <a href="https://contactmcr.com/book/instance/383159" target="_blank">29</a> May.         
          
-Times: Thursday 28 May 2026, 7.30pm & Friday 29 May 2026, 6.30pm.<br>Duration: up to 75 minutes without interval.         
+Times: Thursday 28 May 2026, 7.30pm and Friday 29 May 2026, 6.30pm.<br>Duration: up to 75 minutes without interval.         
              
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
         
 #### Access         
-**n:u (melissandre varin)** · *evil eyes*         
+**n:u (melissandre varin)**         
           
 Age Advisory: 18+         
          
