@@ -9,7 +9,7 @@ show: "evil eyes" # the name of the show
 artist_size: 4
 show_size: 1
 header_image: "header_nu.jpg"
-season: "n:u (melissandre varin) in Works Ahead 28&29|5|2026"
+season: "n:u (melissandre varin) 28&29|5|2026"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -19,7 +19,7 @@ season: "n:u (melissandre varin) in Works Ahead 28&29|5|2026"
 ---
 <span style='font-variant: small-caps'>→ [entry](/current/2026-worksahead/nu/#entry) · [access](/current/2026-worksahead/nu/#access) · [artist](/current/2026-worksahead/nu/#artist) · [about](/current/2026-worksahead/nu/#about) · [credits](/current/2026-worksahead/nu/#credits) · [websites](/current/2026-worksahead/nu/#websites)</span>&ensp; <small>Updated 23 April 2026</small>         
         
-*Presented by* Word of Warning *+* Contact *as* [Works Ahead 2026](/current/2026-worksahead)        
+*Presented by* Word of Warning *+* Contact *for* [Works Ahead 2026](/current/2026-worksahead)        
          
 Our annual sample of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2026" target="_blank">Contact</a> with a new work-in-development from n:u (melissandre varin)…         
          
