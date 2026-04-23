@@ -17,13 +17,13 @@ season: "Works Ahead 2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [works](/current/2026-worksahead/#works) · [entry](/current/2026-worksahead/#entry) · [access](/current/2026-worksahead/#access) · [about](/current/2026-worksahead/#about) · [credits](/current/2026-worksahead/#credits) · [websites](/current/2026-worksahead/#websites)</span>&ensp; <small>Updated 22 April 2026</small>        
+<span style='font-variant: small-caps'>→ [works](/current/2026-worksahead/#works) · [entry](/current/2026-worksahead/#entry) · [access](/current/2026-worksahead/#access) · [about](/current/2026-worksahead/#about) · [credits](/current/2026-worksahead/#credits) · [websites](/current/2026-worksahead/#websites)</span>&ensp; <small>Updated 23 April 2026</small>        
         
 *Presented by* Word of Warning *+* Contact         
 
 Our annual sample of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2026" target="_blank">Contact</a> with new works-in-development from n:u (melissandre varin) in May and Nathan Birkinshaw in June; Lisa Ford is also developing an idea for future presentation…        
 
-**28 May, 7.30pm & 29 May, 6.30pm**<br>n:u (melissandre varin)         
+**28 May, 7.30pm & 29 May, 6.30pm**<br>[n:u (melissandre varin)](/current/2026-worksahead/nu)         
           
 **11 June, 6pm-9pm**<br>Nathan Birkinshaw — guest appearance in [Social Experiment](/socialexperiment).         
           
@@ -87,6 +87,8 @@ A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/h
          
 #### Credits         
 [Works Ahead](/hab/worksahead) 2026 commissioned by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Project Mentor: Peader Kirk        
+
+*evil eyes*<br>Artistic Direction, Concept, Performance, Choreography, Scenography: n:u (melissandre varin)<br>Performer: Liz Ord<br>Sound Editor: Gisou Golshani<br>Spiritual Advisors: a Seer in Senegal; a Vodún priest in Benin<br>Audio Contributions: Peader Kirk; n:u (melissandre varin)<br>Special thanks to Aïssatou Ciss, Leila Bencharnia.         
          
 #### Websites         
 <a href="https://worksahead.org" target="_blank">worksahead.org</a>         
