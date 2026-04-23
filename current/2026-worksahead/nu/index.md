@@ -4,12 +4,12 @@ layout: 2025-woah
 rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
-artist: "Adèle Le Gallez" # the name of the artist or company
-show: "Landings" # the name of the show
-artist_size: 1
-show_size: 4
-header_image: "header_adele.jpg"
-season: "Adèle Le Gallez in Works Ahead 15–16|5|2025, 7.30pm"
+artist: "n:u (melissandre varin)" # the name of the artist or company
+show: "evil eyes" # the name of the show
+artist_size: 4
+show_size: 2
+header_image: "header_nu.jpg"
+season: "n:u (melissandre varin) in Works Ahead 28&29|5|2026"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,50 +17,54 @@ season: "Adèle Le Gallez in Works Ahead 15–16|5|2025, 7.30pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artist](/archive/2025-worksahead/legallez/#artist) · [entry](/archive/2025-worksahead/legallez/#entry) · [access](/archive/2025-worksahead/legallez/#access) · [about](/archive/2025-worksahead/legallez/#about) · [credits](/archive/2025-worksahead/legallez/#credits) · [websites](/archive/2025-worksahead/legallez/#websites)</span>&ensp; <small>Updated 13 May 2025</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2026-worksahead/nu/#entry) · [access](/current/2026-worksahead/nu/#access) · [artist](/current/2026-worksahead/nu/#artist) · [about](/current/2026-worksahead/nu/#about) · [credits](/current/2026-worksahead/nu/#credits) · [websites](/current/2026-worksahead/nu/#websites)</span>&ensp; <small>Updated 23 April 2026</small>         
         
-*Presented by* Word of Warning *+* Contact *in* [Works Ahead 2025](/archive/2025-worksahead): *a double bill of new works-in-development from Adèle and [Martha Pailing](/archive/2025-worksahead/pailing)*        
-        
-***Landings***         
-            
-A missing church on Orkney.<br>An only child in Oldham.<br>A relief for those in free-fall, and a retreat for those in crisis.         
+*Presented by* Word of Warning *+* Contact *in* [Works Ahead 2026](/current/2026-worksahead)        
          
-Live sound experiment, demonstration, and storytelling.          
+Our annual sample of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2026" target="_blank">Contact</a> with a new work-in-development from n:u (melissandre varin)…         
          
-#### Artist         
-Adèle is a Manchester-based writer, sound-artist, and performer.<br>Their solo work — exploring themes such as capitalism, religion, and dreams — has taken the form of short-stories, soundscapes, poetry, and installations.         
+*evil eyes* directly confronts the power dynamics embedded in gaze.         
          
-Before making solo work, Adèle co-founded MOUTH, a Bristol based dance-theatre duo. They created and toured *Mouth* (2017) before being commissioned by Arts Council England, in support with Creative Youth Network, to create *Skin* (2018) and *Teeth* (2019). With mentorship from CYN and becoming Ferment Artists through Bristol Old Vic’s Artist Development Programme, MOUTH toured to multiple venues in Bristol during their years as a company.         
+The evil eye is a belief, found across many cultures, that someone can cause harm just by looking at you. Some believe that it is put upon us by others, while some believe that it comes from our own pride.         
          
-They co-produced *Nothing* (2018) by Lulu Raczka in collaboration with A Room Full Of People Present. Most recently they performed in *Sunday Morning* (2023) by Josh Coates at Liverpool's Unity Theatre and online at HOME — a walking tour of the internet that takes you through the history of trespass and how we now occupy the digital space. Adèle debuted *Mortar* (2022-2024), their soundstory performance, at [Emergency 24](/archive/2024-emergency/evening) and Camden People's Theatre — researching burnout in our capitalist world, telling the story of the man upstairs who gave his all.         
-          
+Instead of ignoring or repulsing the energy of the evil eye, this performance-ritual demands its mobilisation and transmutation. Shadows and unprocessed energies are welcomed, acknowledged, and transformed — with both hands.         
+         
+Attuning to ancestral and contemporary rituals around the evil eye, n:u traces the contours of emotions and energies that transcend binaries of good and evil.         
+         
+You are invited to enter this performance-ritual experimenting with ancient cosmologies: Vodún figures of the twins, Celtic folklore, and African knowledge systems.         
+         
 #### Entry         
-Pay What You Decide: £15/£10/£5/£0 (advance booking recommended).        
+Pay What You Can: £10/£5/£2 (advance booking recommended).         
          
-Tickets: now available online via Contact for <a href="https://contactmcr.com/book/instance/359758" target="_blank">Thursday</a>/<a href="https://contactmcr.com/book/instance/359759" target="_blank">Friday</a>.         
+Tickets: available online via Contact for <a href="https://contactmcr.com/book/instance/383158" target="_blank">28</a> & <a href="https://contactmcr.com/book/instance/383159" target="_blank">29</a> May.         
          
-Times: Thursday 15 and Friday 16 May 2025, 7.30pm (both nights: a double bill with an interval, ending *about* 9pm).         
-             
+Times: Thursday 28 May 2026, 7.30pm and Friday 29 May 2026, 6.30pm.<br>Duration: up to 75 minutes without interval.         
+         
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
         
 #### Access         
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
+Age Advisory: 18+         
          
 Content Warnings: please click [here](/warnings).         
-        
-Features: two solo contemporary performance works, spoken English with varied content including amplified audio and music; occur in Space 2 on the second floor, a studio space with raked seating.          
+         
+Features: a performance-ritual with varied content including potential participation; occurs in Space 2 on the second floor, a studio space with seating.         
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
-#### About           
+#### Artist         
+n:u is an atmosphere-maker with a practice rooted in Congolese, Guadeloupean, and Beninese heritages. Building upon (more than) human, cross-border collaborations, they unearth ancestral ceremonies to be with change. They play with unexpected pairings between materials, bodies, and concepts — disrupting colonial binaries and dominant narratives.         
+         
+#### About         
 Each year since 2012, [Works Ahead](/hab/worksahead) has invited artists to dig deeper into work presented at the previous year’s [Emergency](/hab/emergency) or other platform event.          
         
-A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011; [Works Ahead](/hab/worksahead) has offered 36 small, supported, work-in-development commissions for artists over the past fourteen years — often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.         
+A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011; [Works Ahead](/hab/worksahead) has offered 39 small, supported, work-in-development commissions for artists over the past fifteen years — often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.         
          
 #### Credits         
-[Works Ahead](/hab/worksahead) 2025 commissioned by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England. With thanks to Manchester School of Theatre at Manchester Metropolitan University.<br>Project Mentor: Peader Kirk        
+[Works Ahead 2026](/current/2026-worksahead) commissioned by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Project Mentor: Peader Kirk        
          
-#### Websites          
-<a href="http://worksahead.org" target="_blank">WorksAhead.org</a><br><a href="https://adelegallez.wixsite.com/portfolio" target="_blank">adelegallez.wixsite.com</a> · Insta <a href="https://instagram.com/adele.legallez" target="_blank">@adele.legallez</a>        
-        
-<small><span style='font-variant: small-caps'>[back to top](/archive/2025-worksahead/legallez)</span></small>
+#### Websites         
+<a href="https://worksahead.org" target="_blank">worksahead.org</a>         
+         
+n:u — <a href="https://atmosphere-maker.org" target="_blank">atmosphere-maker.org</a> · Insta <a href="https://instagram.com/nu.melissandre.varin" target="_blank">@nu.melissandre.varin</a>         
+         
+<small><span style='font-variant: small-caps'>[back to top](/current/2026-worksahead/nu)</span></small>
