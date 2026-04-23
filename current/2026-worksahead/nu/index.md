@@ -1,13 +1,13 @@
 ---
 # CONFIGURATION
-layout: 2025-woah
+layout: 2026-woah
 rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "n:u (melissandre varin)" # the name of the artist or company
 show: "evil eyes" # the name of the show
 artist_size: 4
-show_size: 2
+show_size: 1
 header_image: "header_nu.jpg"
 season: "n:u (melissandre varin) in Works Ahead 28&29|5|2026"
 
@@ -19,7 +19,7 @@ season: "n:u (melissandre varin) in Works Ahead 28&29|5|2026"
 ---
 <span style='font-variant: small-caps'>→ [entry](/current/2026-worksahead/nu/#entry) · [access](/current/2026-worksahead/nu/#access) · [artist](/current/2026-worksahead/nu/#artist) · [about](/current/2026-worksahead/nu/#about) · [credits](/current/2026-worksahead/nu/#credits) · [websites](/current/2026-worksahead/nu/#websites)</span>&ensp; <small>Updated 23 April 2026</small>         
         
-*Presented by* Word of Warning *+* Contact *in* [Works Ahead 2026](/current/2026-worksahead)        
+*Presented by* Word of Warning *+* Contact *as* [Works Ahead 2026](/current/2026-worksahead)        
          
 Our annual sample of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2026" target="_blank">Contact</a> with a new work-in-development from n:u (melissandre varin)…         
          
@@ -61,6 +61,8 @@ A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/h
          
 #### Credits         
 [Works Ahead 2026](/current/2026-worksahead) commissioned by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Project Mentor: Peader Kirk        
+         
+*evil eyes*<br>Artistic Direction, Concept, Performance, Choreography, Scenography: n:u (melissandre varin)<br>Performer: Liz Ord<br>Sound Editor: Gisou Golshani<br>Spiritual Advisors: a Seer in Senegal; a Vodún priest in Benin<br>Audio Contributions: Peader Kirk; n:u (melissandre varin)<br>Special thanks to Aïssatou Ciss, Leila Bencharnia.         
          
 #### Websites         
 <a href="https://worksahead.org" target="_blank">worksahead.org</a>         
