@@ -24,7 +24,7 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 Age Advisory: 18+<br>Content Warnings: featured flashing lights, loud music, haze and smoke, and stage effects including pyrotechnics, and themes that some people may have found upsetting.         
          
 ##### [9 Apr. Contact | Social Experiment](/socialexperiment/apr2026)          
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction and/or participation; specific warnings follow…<br>&nbsp;Gin Niemtus — references abuse, sexual themes, domestic violence, strong language, and mental health issues.         
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works involved interaction and/or participation; specific warnings follow…<br>&nbsp;Gin Niemtus — referenced abuse, sexual themes, domestic violence, strong language, and mental health issues.         
           
 ##### [20 Mar. Contact | Turn 2026](/current/2026-turn)          
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: specific warnings for each work follow…<br>&nbsp;Blood Bones Jones — included bright lights and loud, intense, high frequency music.<br>&nbsp;Clara Selberg — included loud music and strong lighting.<br>&nbsp;Emmy Jax & Sophia Egan — referenced mental health breakdown.<br>&nbsp;Joseph Adamson — referenced mental health & illness.<br>&nbsp;Sap Dance — referenced power dynamics between a young woman and a much older man.         
