@@ -16,7 +16,7 @@ season: "Haphazard by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---         
-<small>Updated 16 March 2026</small>        
+<small>Updated 11 May 2026</small>        
         
 **Haphazard** is our frequent foray into 'all ages' Live Art, with intriguing images and offbeat oddities dotted around and about Hulme's historic <a href="https://z-arts.org/about-us" target="_blank">Z-arts</a> building.        
          
@@ -30,12 +30,12 @@ Haphazard 2026 presented by [Word of Warning](/) + <a href="https://z-arts.org" 
           
 Enquiries: <mailto:haphazard@habmcr.org> · <a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a>         
          
-#### Haphazard 2026 Call for Proposals Now Open         
-Artists <a href="https://haphazard.posthaven.com" target="_blank">are now invited to submit proposals</a> for inclusion in this event:<br>this is not Live Art for children, but Live Art for ALL AGES — and we mean from tot to timeworn, 8 months to 80 years — so work should have appeal for adults and children alike (even if the kids need to explain it to the adults!)          
+#### Haphazard 2026 Call for Proposals Closed on 8 May         
+Artists <a href="https://haphazard.posthaven.com" target="_blank">were invited to submit proposals</a> for inclusion in this event:<br>this is not Live Art for children, but Live Art for ALL AGES — and we mean from tot to timeworn, 8 months to 80 years — so work should have appeal for adults and children alike (even if the kids need to explain it to the adults!)          
         
-**For details and to apply please visit <a href="https://haphazard.posthaven.com" target="_blank">haphazard.posthaven.com</a><br>Proposal Deadline: Friday 8 May 2026, 5pm**         
+**For details please visit <a href="https://haphazard.posthaven.com" target="_blank">haphazard.posthaven.com</a><br>Proposal Deadline: Friday 8 May 2026, 5pm**         
          
-If you'd like to hear more about what we think works for Haphazard we will have a short, informal zoom meeting on Tuesday 31 March at 3pm. <a href="https://habadvice.as.me/Haphazard2026InfoSession" target="_blank">Sign-up here</a> or have a look at the <a href="https://youtu.be/2PncCQ7-YSs" target="_blank">recording of the information session we held in 2025</a>.        
+If you'd like to know more about what we think works for Haphazard, have a look at the <a href="https://youtu.be/2PncCQ7-YSs" target="_blank">recording of an information session we held in 2025</a>.        
           
 From experience, what works best are big surreal images, interesting repetitive movement, and nothing too text heavy. We have access to a number of spaces within Z-arts, and work immediately outside the building may also be possible. Durational, intervention, and 'come and go' work seems to work the best — we're not really looking for sit-down theatre shows.<br>This year, in particular, we are looking for a piece that can work in the Atrium to be viewed/interacted with solely from above.         
          
