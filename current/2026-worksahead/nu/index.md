@@ -17,7 +17,7 @@ season: "n:u (melissandre varin) 28&29|5|2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2026-worksahead/nu/#entry) · [access](/current/2026-worksahead/nu/#access) · [artist](/current/2026-worksahead/nu/#artist) · [about](/current/2026-worksahead/nu/#about) · [credits](/current/2026-worksahead/nu/#credits) · [websites](/current/2026-worksahead/nu/#websites)</span>&ensp; <small>Updated 23 April 2026</small>         
+<span style='font-variant: small-caps'>→ [entry](/current/2026-worksahead/nu/#entry) · [access](/current/2026-worksahead/nu/#access) · [artist](/current/2026-worksahead/nu/#artist) · [about](/current/2026-worksahead/nu/#about) · [credits](/current/2026-worksahead/nu/#credits) · [websites](/current/2026-worksahead/nu/#websites)</span>&ensp; <small>Updated 12 May 2026</small>         
         
 *Presented by* Word of Warning *+* Contact *for* [Works Ahead 2026](/current/2026-worksahead)        
          
@@ -62,11 +62,11 @@ A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/h
 #### Credits         
 [Works Ahead 2026](/current/2026-worksahead) commissioned by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Project Mentor: Peader Kirk        
          
-*evil eyes*<br>Artistic Direction, Concept, Performance, Choreography, Scenography: n:u (melissandre varin)<br>Performer: Liz Ord<br>Sound Editor: Gisou Golshani<br>Spiritual Advisors: a Seer in Senegal; a Vodún priest in Benin<br>Audio Contributions: Peader Kirk; n:u (melissandre varin)<br>Special thanks to Aïssatou Ciss, Leila Bencharnia.         
+*evil eyes*<br>Artistic Direction, Concept, Performance, Choreography, Scenography: n:u (melissandre varin)<br>Performer: Liz Ord<br>Sound: Maria Muehombo<br>Spiritual Advisors: a Seer in Senegal; a Vodún priest in Benin<br>Audio Contributions: Peader Kirk; n:u (melissandre varin)<br>Special thanks to Aïssatou Ciss, Leila Bencharnia.         
          
 #### Websites         
 <a href="https://worksahead.org" target="_blank">worksahead.org</a>         
          
-n:u — <a href="https://atmosphere-maker.org" target="_blank">atmosphere-maker.org</a> · Insta <a href="https://instagram.com/nu.melissandre.varin" target="_blank">@nu.melissandre.varin</a>         
+n:u (melissandre varin) — <a href="https://atmosphere-maker.org" target="_blank">atmosphere-maker.org</a> · Insta <a href="https://instagram.com/nu.melissandre.varin" target="_blank">@nu.melissandre.varin</a>         
          
 <small><span style='font-variant: small-caps'>[back to top](/current/2026-worksahead/nu)</span></small>
