@@ -17,11 +17,11 @@ season: "Works Ahead 2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [works](/current/2026-worksahead/#works) · [entry](/current/2026-worksahead/#entry) · [access](/current/2026-worksahead/#access) · [about](/current/2026-worksahead/#about) · [credits](/current/2026-worksahead/#credits) · [websites](/current/2026-worksahead/#websites)</span>&ensp; <small>Updated 23 April 2026</small>        
+<span style='font-variant: small-caps'>→ [works](/current/2026-worksahead/#works) · [entry](/current/2026-worksahead/#entry) · [access](/current/2026-worksahead/#access) · [about](/current/2026-worksahead/#about) · [credits](/current/2026-worksahead/#credits) · [websites](/current/2026-worksahead/#websites)</span>&ensp; <small>Updated 12 May 2026</small>        
         
 *Presented by* Word of Warning *+* Contact         
 
-Our annual sample of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2026" target="_blank">Contact</a> with new works-in-development from n:u (melissandre varin) in May and Nathan Birkinshaw in June; Lisa Ford is also developing an idea for future presentation…        
+Our annual sample of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2026" target="_blank">Contact</a> with new works-in-development from [n:u (melissandre varin)](/current/2026-worksahead/nu) in May and Nathan Birkinshaw in June; Lisa Ford is also developing an idea for future presentation…        
 
 **28 May, 7.30pm & 29 May, 6.30pm**<br>[n:u (melissandre varin)](/current/2026-worksahead/nu)         
           
@@ -59,7 +59,7 @@ Did you notice when they caught your eye, brushed past your elbow, tapped the ta
 Lisa is a theatre-maker and dramaturg, she takes threads, some yours, some hers, some found in streets, in shop doorways, or in libraries. Often the threads are words and images or conversations with people, she weaves these together to create a fabric of collective feeling.         
 
 #### Entry         
-**n:u (melissandre varin)**         
+**n:u (melissandre varin)** · *evil eyes*         
           
 Pay What You Can: £10/£5/£2 (advance booking recommended).        
          
@@ -70,7 +70,7 @@ Times: Thursday 28 May 2026, 7.30pm and Friday 29 May 2026, 6.30pm.<br>Duration:
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
         
 #### Access         
-**n:u (melissandre varin)**         
+**n:u (melissandre varin)** · *evil eyes*         
           
 Age Advisory: 18+         
          
@@ -88,12 +88,12 @@ A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/h
 #### Credits         
 [Works Ahead](/hab/worksahead) 2026 commissioned by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Project Mentor: Peader Kirk        
 
-*evil eyes*<br>Artistic Direction, Concept, Performance, Choreography, Scenography: n:u (melissandre varin)<br>Performer: Liz Ord<br>Sound Editor: Gisou Golshani<br>Spiritual Advisors: a Seer in Senegal; a Vodún priest in Benin<br>Audio Contributions: Peader Kirk; n:u (melissandre varin)<br>Special thanks to Aïssatou Ciss, Leila Bencharnia.         
+*[evil eyes](/current/2026-worksahead/nu)*<br>Artistic Direction, Concept, Performance, Choreography, Scenography: n:u (melissandre varin)<br>Performer: Liz Ord<br>Sound: Maria Muehombo<br>Spiritual Advisors: a Seer in Senegal; a Vodún priest in Benin<br>Audio Contributions: Peader Kirk; n:u (melissandre varin)<br>Special thanks to Aïssatou Ciss, Leila Bencharnia.         
          
 #### Websites         
 <a href="https://worksahead.org" target="_blank">worksahead.org</a>         
          
-n:u — <a href="https://atmosphere-maker.org" target="_blank">atmosphere-maker.org</a> · Insta <a href="https://instagram.com/nu.melissandre.varin" target="_blank">@nu.melissandre.varin</a>         
+n:u (melissandre varin) — <a href="https://atmosphere-maker.org" target="_blank">atmosphere-maker.org</a> · Insta <a href="https://instagram.com/nu.melissandre.varin" target="_blank">@nu.melissandre.varin</a>         
          
 Nathan Birkinshaw — Insta <a href="https://instagram.com/nathanbirkinshaw" target="_blank">@nathanbirkinshaw</a> · YouTube <a href="https://www.youtube.com/@nathanbirkinshaw" target="_blank">@nathanbirkinshaw</a>         
          
