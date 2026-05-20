@@ -17,7 +17,7 @@ season: "n:u (melissandre varin) 28&29|5|2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2026-worksahead/nu/#entry) · [access](/current/2026-worksahead/nu/#access) · [artist](/current/2026-worksahead/nu/#artist) · [about](/current/2026-worksahead/nu/#about) · [credits](/current/2026-worksahead/nu/#credits) · [websites](/current/2026-worksahead/nu/#websites)</span>&ensp; <small>Updated 14 May 2026</small>         
+<span style='font-variant: small-caps'>→ [entry](/current/2026-worksahead/nu/#entry) · [access](/current/2026-worksahead/nu/#access) · [artist](/current/2026-worksahead/nu/#artist) · [about](/current/2026-worksahead/nu/#about) · [credits](/current/2026-worksahead/nu/#credits) · [websites](/current/2026-worksahead/nu/#websites)</span>&ensp; <small>Updated 20 May 2026</small>         
         
 *Presented by* Word of Warning *+* Contact *for* [Works Ahead 2026](/current/2026-worksahead)        
          
@@ -39,6 +39,8 @@ Pay What You Can: £10/£5/£2 (advance booking recommended).
 Tickets: available online via Contact for <a href="https://contactmcr.com/book/instance/383158" target="_blank">28</a> & <a href="https://contactmcr.com/book/instance/383159" target="_blank">29</a> May.         
          
 Times: Thursday 28 May 2026, 7.30pm and Friday 29 May 2026, 6.30pm.<br>Duration: up to 75 minutes without interval.         
+         
+SICK! Festival: on Friday 29 May at 8pm you can also see <a href="https://contactmcr.com/events/philosophy-of-the-world" target="_blank">*Philosophy of the World* by In Bed With My Brother</a> after *evil eyes*.         
          
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
         
