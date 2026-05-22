@@ -17,7 +17,7 @@ season: "Works Ahead 2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [works](/current/2026-worksahead/#works) · [entry](/current/2026-worksahead/#entry) · [access](/current/2026-worksahead/#access) · [about](/current/2026-worksahead/#about) · [credits](/current/2026-worksahead/#credits) · [websites](/current/2026-worksahead/#websites)</span>&ensp; <small>Updated 20 May 2026</small>        
+<span style='font-variant: small-caps'>→ [works](/current/2026-worksahead/#works) · [entry](/current/2026-worksahead/#entry) · [access](/current/2026-worksahead/#access) · [about](/current/2026-worksahead/#about) · [credits](/current/2026-worksahead/#credits) · [websites](/current/2026-worksahead/#websites)</span>&ensp; <small>Updated 22 May 2026</small>        
         
 *Presented by* Word of Warning *+* Contact         
 
@@ -90,7 +90,7 @@ A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/h
 #### Credits         
 [Works Ahead](/hab/worksahead) 2026 commissioned by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Project Mentor: Peader Kirk        
 
-*[evil eyes](/current/2026-worksahead/nu)*<br>Artistic Direction, Concept, Performance, Choreography, Scenography: n:u (melissandre varin)<br>Performer: Liz Ord<br>Spiritual Advisors: a Seer in Senegal; a Vodún priest in Benin<br>Audio Contributions: Peader Kirk; n:u (melissandre varin)<br>Special thanks to Aïssatou Ciss, Leila Bencharnia.         
+*[evil eyes](/current/2026-worksahead/nu)*<br>Artistic Direction, Concept, Performance, Choreography, Scenography: n:u (melissandre varin)<br>Performer: Liz Ord<br>Composer, Sound Designer: Maria Muehembo<br>Spiritual Advisors: a Seer in Senegal; a Vodún priest in Benin<br>Audio Contributions: Peader Kirk; n:u (melissandre varin)<br>Special thanks to Aïssatou Ciss, Leila Bencharnia.         
          
 #### Websites         
 <a href="https://worksahead.org" target="_blank">worksahead.org</a>         
