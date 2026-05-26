@@ -17,7 +17,7 @@ season: "Works Ahead 2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [works](/current/2026-worksahead/#works) · [entry](/current/2026-worksahead/#entry) · [access](/current/2026-worksahead/#access) · [about](/current/2026-worksahead/#about) · [credits](/current/2026-worksahead/#credits) · [websites](/current/2026-worksahead/#websites)</span>&ensp; <small>Updated 23 May 2026</small>        
+<span style='font-variant: small-caps'>→ [works](/current/2026-worksahead/#works) · [entry](/current/2026-worksahead/#entry) · [access](/current/2026-worksahead/#access) · [about](/current/2026-worksahead/#about) · [credits](/current/2026-worksahead/#credits) · [websites](/current/2026-worksahead/#websites)</span>&ensp; <small>Updated 26 May 2026</small>        
         
 *Presented by* Word of Warning *+* Contact         
 
@@ -65,7 +65,7 @@ Pay What You Can: £10/£5/£2 (advance booking recommended).
          
 Tickets: available online via Contact for <a href="https://contactmcr.com/book/instance/383158" target="_blank">28</a> & <a href="https://contactmcr.com/book/instance/383159" target="_blank">29</a> May.         
          
-Times: Thursday 28 May 2026, 7.30pm and Friday 29 May 2026, 6.30pm.<br>Duration: up to 75 minutes without interval.         
+Times: Thursday 28 May 2026, 7.30pm and Friday 29 May 2026, 6.30pm.<br>Duration: up to 1 hour without interval.         
          
 SICK! Festival: on Friday 29 May at 8pm you can also see <a href="https://contactmcr.com/events/philosophy-of-the-world" target="_blank">*Philosophy of the World* by In Bed With My Brother</a> after *evil eyes*.        
          
