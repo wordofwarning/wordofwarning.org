@@ -7,7 +7,7 @@ rootpath: "../../"
 artist: "Nathan Birkinshaw" # the name of the artist or company
 show: "How To Be Content" # the name of the show
 artist_size: 3
-show_size: 2
+show_size: 3
 header_image: "header_nathan.jpeg"
 season: "Nathan Birkinshaw 11|6|2026"
 
@@ -34,7 +34,9 @@ Please note: Nathan makes a guest appearance in [Social Experiment](/socialexper
 #### Entry         
 FREE: there's no ticketing… just turn up to Social Experiment!         
          
-Time: Thursday 11 June 2026, Social Experiment starts at 6pm and ends *by about* 9pm<br>Duration: within Social Experiment, *How To Be Content* lasts *about* 45 minutes.         
+Time: Thursday 11 June 2026, Social Experiment starts at 6pm and ends *by about* 9pm.         
+         
+Duration: within Social Experiment, *How To Be Content* lasts *about* 45 minutes.         
          
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 2), Oxford Rd, Manchester M15 6JA.         
         
