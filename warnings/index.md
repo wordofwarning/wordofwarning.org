@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 26 May 2026<small>        
+<small>Updated 27 May 2026<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>(Please click [here](/archive/warnings) for *past* events and *archived* livestreams on our YouTube channel.)         
          
@@ -20,7 +20,7 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 <hr>         
 #### 2026         
          
-##### [28 & 29 May. Contact | Works Ahead 2026: *evil eyes* by n:u (melissandre varin)](/current/2026-worksahead)         
+##### [28 & 29 May. Contact | Works Ahead 2026: *evil eyes* by n:u (melissandre varin)](/current/2026-worksahead/nu)         
 Age Advisory: **18+**<br>Content Warnings: a performance-ritual with potential participation; full nudity; loud noises (ear defenders available); references to asphyxiation, colonialism, gender dynamics, racial dynamics; use of alcohol.
 
 ##### [11 Jun. Contact | Social Experiment](/socialexperiment)          
