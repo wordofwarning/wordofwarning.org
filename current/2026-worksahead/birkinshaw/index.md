@@ -8,7 +8,7 @@ artist: "Nathan Birkinshaw" # the name of the artist or company
 show: "How To Be Content" # the name of the show
 artist_size: 3
 show_size: 2
-header_image: "header_nathan.jpg"
+header_image: "header_nathan.jpeg"
 season: "Nathan Birkinshaw 11|6|2026"
 
 # ABOUT THE SHOW - LAYOUT
@@ -27,24 +27,19 @@ Our annual sample of new performance returns to <a href="https://contactmcr.com/
          
 An exploration of contentment, led by a man brimming with mediocrity.         
          
-Through film, performance, song, and an increasingly questionable process, comes a show that investigates how to find meaning in the mundane — that somehow becomes increasingly more performative itself as time slips by.          
+Through film, performance, song, and an increasingly questionable process, comes a show that investigates how to find meaning in the mundane — that somehow becomes increasingly more performative itself as time slips by.         
          
-         
-         
-NathaA guest appearance in [Social Experiment](/socialexperiment)         
+Please note: Nathan makes a guest appearance in [Social Experiment](/socialexperiment) to show *How To Be Content*.        
          
 #### Entry         
-Pay What You Can: £10/£5/£2 (advance booking recommended).         
+FREE: there's no ticketing… just turn up to Social Experiment!         
          
-Tickets: available online via Contact for <a href="https://contactmcr.com/book/instance/383158" target="_blank">28</a> & <a href="https://contactmcr.com/book/instance/383159" target="_blank">29</a> May.         
+Time: Thursday 11 June 2026, Social Experiment starts at 6pm and ends *by about* 9pm<br>Duration: within Social Experiment, *How To Be Content* lasts *about* 45 minutes.         
          
-Times: Thursday 28 May 2026, 7.30pm and Friday 29 May 2026, 6.30pm.<br>Duration: up to 1 hour without interval.         
-         
-
-Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
+Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 2), Oxford Rd, Manchester M15 6JA.         
         
 #### Access         
-Age Advisory: 18+         
+Age Advisory: 16+ (Social Experiment is aimed at adults, parent/guardian/carer discretion)         
          
 Content Warnings: please click [here](/warnings).         
          
