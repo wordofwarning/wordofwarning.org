@@ -17,15 +17,15 @@ season: "Works Ahead 2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [works](/current/2026-worksahead/#works) · [entry](/current/2026-worksahead/#entry) · [access](/current/2026-worksahead/#access) · [about](/current/2026-worksahead/#about) · [credits](/current/2026-worksahead/#credits) · [websites](/current/2026-worksahead/#websites)</span>&ensp; <small>Updated 26 May 2026</small>        
+<span style='font-variant: small-caps'>→ [works](/current/2026-worksahead/#works) · [entry](/current/2026-worksahead/#entry) · [access](/current/2026-worksahead/#access) · [about](/current/2026-worksahead/#about) · [credits](/current/2026-worksahead/#credits) · [websites](/current/2026-worksahead/#websites)</span>&ensp; <small>Updated 27 May 2026</small>        
         
 *Presented by* Word of Warning *+* Contact         
 
-Our annual sample of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2026" target="_blank">Contact</a> with new works-in-development from [n:u (melissandre varin)](/current/2026-worksahead/nu) in May and Nathan Birkinshaw in June; Lisa Ford is also developing an idea for future presentation…        
+Our annual sample of new performance returns to <a href="https://contactmcr.com/events/works-ahead-2026" target="_blank">Contact</a> with new works-in-development from [n:u (melissandre varin)](/current/2026-worksahead/nu) in May and [Nathan Birkinshaw](/current/2026-worksahead/birkinshaw) in June; Lisa Ford is also developing an idea for future presentation…        
 
 **28 May, 7.30pm & 29 May, 6.30pm**<br>[n:u (melissandre varin)](/current/2026-worksahead/nu)         
           
-**11 June, 6pm-9pm**<br>Nathan Birkinshaw — guest appearance in [Social Experiment](/socialexperiment).         
+**11 June, 6pm-9pm**<br>[Nathan Birkinshaw](/current/2026-worksahead/birkinshaw) — guest appearance in [Social Experiment](/socialexperiment).         
           
 #### Works        
 **n:u (melissandre varin)** · *evil eyes*         
@@ -69,16 +69,36 @@ Times: Thursday 28 May 2026, 7.30pm and Friday 29 May 2026, 6.30pm.<br>Duration:
          
 SICK! Festival: on Friday 29 May at 8pm you can also see <a href="https://contactmcr.com/events/philosophy-of-the-world" target="_blank">*Philosophy of the World* by In Bed With My Brother</a> after *evil eyes*.        
          
-Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
+Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 2), Oxford Rd, Manchester M15 6JA.         
+
+**Nathan Birkinshaw** · *How To Be Content*         
+
+FREE: there's no ticketing… just turn up to Social Experiment!         
+         
+Time: Thursday 11 June 2026, Social Experiment starts at 6pm and ends *by about* 9pm.         
+         
+Duration: within Social Experiment, *How To Be Content* lasts *about* 45 minutes.         
+         
+Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 2), Oxford Rd, Manchester M15 6JA.         
         
 #### Access         
 **n:u (melissandre varin)** · *evil eyes*         
           
-Age Advisory: 18+         
+Age Advisory: **18+**         
          
 Content Warnings: please click [here](/warnings).         
         
 Features: a performance-ritual with varied content including potential participation; occurs in Space 2 on the second floor, a studio space with seating.          
+         
+Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
+         
+**Nathan Birkinshaw** · *How To Be Content*         
+         
+Age Advisory: 16+ (Social Experiment is aimed at adults, parent/guardian/carer discretion)         
+         
+Content Warnings: please click [here](/warnings).         
+         
+Features: a solo performance with varied content including film and music; occurs in Space 2 on the second floor, a studio space with seating.         
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
@@ -88,9 +108,11 @@ Each year since 2012, [Works Ahead](/hab/worksahead) has invited artists to dig 
 A project developed out of the old Method Lab & SeedFund schemes which [hÅb](/hab) ran with greenroom until 2011; [Works Ahead](/hab/worksahead) has offered 39 small, supported, work-in-development commissions for artists over the past fifteen years — often in partnership with <a href="https://contactmcr.com" target="_blank">Contact</a>.         
          
 #### Credits         
-[Works Ahead](/hab/worksahead) 2026 commissioned by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Project Mentor: Peader Kirk        
-
+[Works Ahead](/hab/worksahead) 2026 commissioned by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Project Mentor: Peader Kirk         
+         
 *[evil eyes](/current/2026-worksahead/nu)*<br>Artistic Direction, Concept, Performance, Choreography, Scenography: n:u (melissandre varin)<br>Performer: Liz Ord<br>Composer, Sound Designer: Maria Muehombo         
+         
+*[How To Be Content](/current/2026-worksahead/birkinshaw)*<br>by Nathan Birkinshaw         
          
 #### Websites         
 <a href="https://worksahead.org" target="_blank">worksahead.org</a>         
