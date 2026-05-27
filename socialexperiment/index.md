@@ -17,7 +17,7 @@ season: "Social Experiment"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 22 April 2026</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 27 May 2026</small>          
          
 *Presented by* Word of Warning + <a href="https://contactmcr.com/events/social-experiment" target="_blank">Contact</a> *as a semi-regular evening event.*         
          
@@ -32,7 +32,7 @@ If you're an audience member looking for something a little bit different — th
 Past events were held in [April 2026](/socialexperiment/apr2026), [February 2026 (Queer Contact Edition)](/socialexperiment/feb2026), [November 2025](/socialexperiment/nov2025), [July 2025](/socialexperiment/jul2025), [June 2025 (Student Edition)](/socialexperiment/studentedition), [May 2025](/socialexperiment/may2025), and [February 2025](/socialexperiment/feb2025). See some images from [2026](/galleries/2026-socex) and [2025](/galleries/2025-socex).         
          
 #### Artists        
-**11 June** — special&nbsp;guest&nbsp;[Nathan&nbsp;Birkinshaw](/current/2026-worksahead)&nbsp;· further participating artists TBA         
+**11 June** — special&nbsp;guest&nbsp;[Nathan&nbsp;Birkinshaw](/current/2026-worksahead/birkinshaw)&nbsp;· further participating artists TBA         
          
 **9 April** — Daniel&nbsp;Nicholas&nbsp;· Gin&nbsp;Niemtus&nbsp;· Kathy&nbsp;Rivett&nbsp;· Lisa&nbsp;Ford&nbsp;· Orla&nbsp;Collier&nbsp;· special&nbsp;guest&nbsp;Natalie&nbsp;Spanner —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/apr2026).         
          
