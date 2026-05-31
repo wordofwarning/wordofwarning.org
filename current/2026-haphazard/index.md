@@ -24,7 +24,7 @@ Playful, quirky, engaging, and sometimes plain daft: Haphazard is for kids and t
 A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2026" target="_blank">Z-arts</a> **on Saturday 11 July from 1pm to 4pm**. Turn up at any time, come and go as you please… and expect the unexpected!         
          
 #### Artists         
-Aimee&nbsp;Williamson&nbsp;· Madame&nbsp;Zucchini&nbsp;· Orla&nbsp;Collier&nbsp;· Pascaline&nbsp;Ruhana&nbsp;· Puppetfingers&nbsp;· Shannon&nbsp;Mulvey&nbsp;· the&nbsp;institute&nbsp;for&nbsp;crazy&nbsp;dancing&nbsp;· TurnAround&nbsp;Dance&nbsp;Theatre&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
+Claire&nbsp;Leith&nbsp;&&nbsp;Lucy&nbsp;Fegan&nbsp;· Hyde&nbsp;N&nbsp;Seek&nbsp;· In&nbsp;Between&nbsp;Time&nbsp;· Lesya&nbsp;Tyminska&nbsp;· Liv&nbsp;Loupe&nbsp;· Lizzy&nbsp;Margereson&nbsp;· Miranda&nbsp;Prag&nbsp;· Scrapheap&nbsp;Collective&nbsp;· Tilekxin&nbsp;artist&nbsp;collective, Shynara&nbsp;Nygmetova&nbsp;&&nbsp;Zixuan&nbsp;Hong &ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
          
 #### Entry         
 FREE: there's no need to book… just turn up!         
