@@ -8,10 +8,9 @@ artist_size: 1
 season: "Performance Programme 2026"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2026/#about) · [what](/current/2026/#what) · [by](/current/2026/#by) · [people](/current/2026/#people) · [warnings](/current/2026/#warnings)</span>&ensp; <small>Updated 27 May 2026</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2026/#about) · [what](/current/2026/#what) · [by](/current/2026/#by) · [people](/current/2026/#people) · [warnings](/current/2026/#warnings)</span>&ensp; <small>Updated 31 May 2026</small>        
          
-*The year continues with new [Works Ahead](/current/2026-worksahead) from [n:u (melissandre varin)](/current/2026-worksahead/nu) & [Nathan Birkinshaw](/current/2026-worksahead/birkinshaw), and more [Social Experiments](/socialexperiment) — we began with [Victoria Melody](/current/2026/melody)'s testament to people power, [Turn](/current/2026-turn)'s whirlwind of dance, and
-[Harry Clayton-Wright](/current/2026/clayton-wright)'s theatrical extravaganza…*          
+*The year continues with new [Works Ahead](/current/2026-worksahead) from [Nathan Birkinshaw](/current/2026-worksahead/birkinshaw), and more [Social Experiments](/socialexperiment) — we began with [Victoria Melody](/current/2026/melody)'s testament to people power, [Turn](/current/2026-turn)'s whirlwind of dance, [Harry Clayton-Wright](/current/2026/clayton-wright)'s theatrical extravaganza, and [n:u (melissandre varin)](/current/2026-worksahead/nu)' performance-ritual…*          
           
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
