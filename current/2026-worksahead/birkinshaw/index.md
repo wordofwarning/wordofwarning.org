@@ -17,7 +17,7 @@ season: "Nathan Birkinshaw 11|6|2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2026-worksahead/birkinshaw/#entry) · [access](/current/2026-worksahead/birkinshaw/#access) · [artist](/current/2026-worksahead/birkinshaw/#artist) · [about](/current/2026-worksahead/birkinshaw/#about) · [credits](/current/2026-worksahead/birkinshaw/#credits) · [websites](/current/2026-worksahead/birkinshaw/#websites)</span>&ensp; <small>Updated 27 May 2026</small>         
+<span style='font-variant: small-caps'>→ [entry](/current/2026-worksahead/birkinshaw/#entry) · [access](/current/2026-worksahead/birkinshaw/#access) · [artist](/current/2026-worksahead/birkinshaw/#artist) · [about](/current/2026-worksahead/birkinshaw/#about) · [credits](/current/2026-worksahead/birkinshaw/#credits) · [websites](/current/2026-worksahead/birkinshaw/#websites)</span>&ensp; <small>Updated 31 May 2026</small>         
         
 *Presented by* Word of Warning *+* Contact *for* [Works Ahead 2026](/current/2026-worksahead)        
          
@@ -29,19 +29,19 @@ An exploration of contentment, led by a man brimming with mediocrity.
          
 Through film, performance, song, and an increasingly questionable process, comes a show that investigates how to find meaning in the mundane — that somehow becomes increasingly more performative itself as time slips by.         
          
-Please note: Nathan makes a guest appearance in [Social Experiment](/socialexperiment) to show *How To Be Content*.        
+Please note: Nathan makes a guest appearance in [June's Social Experiment](/socialexperiment/jun2026) to show *How To Be Content*.        
          
 #### Entry         
-FREE: there's no ticketing… just turn up to Social Experiment!         
+FREE: there's no ticketing… just turn up to [June's Social Experiment](/socialexperiment/jun2026)!         
          
 Time: Thursday 11 June 2026, Social Experiment starts at 6pm and ends *by about* 9pm.         
          
-Duration: within Social Experiment, *How To Be Content* lasts *about* 45 minutes.         
+Duration: *How To Be Content* lasts *about* 45 minutes.         
          
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 2), Oxford Rd, Manchester M15 6JA.         
         
 #### Access         
-Age Advisory: 16+ (Social Experiment is aimed at adults, parent/guardian/carer discretion)         
+Age Advisory: 16+ ([June's Social Experiment](/socialexperiment/jun2026) is aimed at adults, parent/guardian/carer discretion)         
          
 Content Warnings: please click [here](/warnings).         
          
