@@ -5,11 +5,11 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Social Experiment" # the name of the artist or company
-show: "9 April 2026 Programme" # the name of the show
+show: "11 June 2026 Programme" # the name of the show
 artist_size: 1
 show_size: 4
 header_image: "header_socex.jpg"  
-season: "Social Experiment 9|4|2026, Programme"
+season: "Social Experiment 11|6|2026, Programme"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -17,9 +17,9 @@ season: "Social Experiment 9|4|2026, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/apr2026/#artists) · [programme](/socialexperiment/apr2026/#programme) · [entry](/socialexperiment/apr2026/#entry) · [access](/socialexperiment/apr2026/#access) · [credits](/socialexperiment/apr2026/#credits)</span>&ensp; <small>Updated 9 April 2026</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/jun2026/#artists) · [programme](/socialexperiment/jun2026/#programme) · [entry](/socialexperiment/jun2026/#entry) · [access](/socialexperiment/jun2026/#access) · [credits](/socialexperiment/jun2026/#credits)</span>&ensp; <small>Updated 31 May 2026</small>          
          
-*A [Social Experiment](/socialexperiment) on 9 April, presented by* Word of Warning + Contact         
+*A [Social Experiment](/socialexperiment) on 11 June, presented by* Word of Warning + Contact         
          
 **Social Experiment** is a free and informal, semi-regular evening gathering at Contact for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
         
@@ -28,14 +28,14 @@ If you're a Greater Manchester artist — this is your <a href="https://socialex
 If you're an audience member looking for something a little bit different — this is your chance to take a few risks & meet some artists in our social experiment.         
          
 #### Artists         
-Daniel&nbsp;Nicholas&nbsp;· Gin&nbsp;Niemtus&nbsp;· Kathy&nbsp;Rivett&nbsp;· Lisa&nbsp;Ford&nbsp;· Orla&nbsp;Collier&nbsp;· special&nbsp;guest&nbsp;Natalie&nbsp;Spanner &ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
+Ash&nbsp;Cox&nbsp;· Blood&nbsp;Bones&nbsp;Jones&nbsp;· Lauren&nbsp;Temple&nbsp;· special&nbsp;guest&nbsp;[Nathan&nbsp;Birkinshaw](/current/2026-worksahead/birkinshaw) &ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>        
          
 #### Programme        
-April's Edition, hosted by Peader Kirk, kicks off at 6pm and finishes *by* 9pm…         
+June's Edition, hosted by Peader Kirk, kicks off at 6pm and finishes *by* 9pm…         
 <hr>         
-**Lisa Ford** · *Four rows back and on the other side of the aisle*         
+**Ash Cox** · *Hot Air*         
          
-Did you notice when they caught your eye, brushed past your elbow, tapped the table, left a coffee cup, raised their voice, held the door?<br>Write me a postcard when you get there.         
+A short live art performance about empty claims.        
          
 A [Works Ahead 2026](https://wordofwarning.org/hab/worksahead/#2026) commission by hÅb + Contact.         
          
@@ -90,12 +90,28 @@ Originally created as part of Lowry Artist Development.
 Kathy 'an explosion of mad energy' (Chortle) is one of the most exciting young comedians on the comedy circuit. She uses absurdism, characters, and silliness to explore 'endlessly creative' (blizzard comedy) ideas on stage — it's the wrong time of the month!         
          
 Insta <a href="https://instagram.com/kathy_rivett" target="_blank">@kathy_rivett</a>         
+<hr>**Nathan Birkinshaw** · *How To Be Content*         
+         
+*"Making peace with the fact this might be it."*         
+         
+An exploration of contentment, led by a man brimming with mediocrity.         
+         
+Through film, performance, song, and an increasingly questionable process, comes a show that investigates how to find meaning in the mundane — that somehow becomes increasingly more performative itself as time slips by.         
+         
+Did you notice when they caught your eye, brushed past your elbow, tapped the table, left a coffee cup, raised their voice, held the door?<br>Write me a postcard when you get there.         
+         
+A [Works Ahead](/hab/worksahead) 2026 commission by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Project Mentor: Peader Kirk         
+         
+Nathan is a performance artist, comedian, and theatre-maker whose work blends humour with the explorations of being human and the general absurdity of what comes with that responsibility (or lack thereof).
+With an unhealthy obsession with the internet, you’re just as likely to find him there as well as showing work in theatres, back rooms of pubs, and having work appearing on BBC Radio.         
+         
+Insta <a href="https://instagram.com/nathanbirkinshaw" target="_blank">@nathanbirkinshaw</a> · YouTube <a href="https://www.youtube.com/@nathanbirkinshaw" target="_blank">@nathanbirkinshaw</a>         
 <hr>         
          
 #### Entry         
 FREE: there's no ticketing… just turn up!         
          
-Time: Thursday 9 April 2026, 6pm onwards (ends *by about* 9pm).         
+Time: Thursday 11 June 2026, 6pm onwards (ends *by about* 9pm).         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester M15 6JA.         
          
@@ -104,13 +120,13 @@ Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).
           
 Content Warnings: some works involve interaction and/or participation; specific warnings listed [here](/warnings).         
           
-Features: six Live Art & contemporary performance works with varied content.         
+Features: four Live Art & contemporary performance works with varied content.<br>Ash Cox: relaxed performance, creative captions, some BSL, and visual vernacular.         
          
-*NB* works occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in space 0 & bar, and vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
+*NB* works mostly occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in space 0 & bar, with one in space 2 on the second floor, and vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### Credits          
-[Social Experiment](/socialexperiment) (April 2026) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
+[Social Experiment](/socialexperiment) (June 2026) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
                  
-<small><span style='font-variant: small-caps'>[back to top](/socialexperiment/apr2026)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/socialexperiment/jun2026)</span></small>
