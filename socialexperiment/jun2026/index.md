@@ -71,7 +71,7 @@ An exploration of contentment, led by a man brimming with mediocrity.
          
 Through film, performance, song, and an increasingly questionable process, comes a show that investigates how to find meaning in the mundane — that somehow becomes increasingly more performative itself as time slips by.         
          
-A [Works Ahead](/hab/worksahead) 2026 commission by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Project Mentor: Peader Kirk         
+A [Works Ahead 2026](/2026-worksahead/birkinshaw) commission by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Project Mentor: Peader Kirk         
          
 Nathan is a performance artist, comedian, and theatre-maker whose work blends humour with the explorations of being human and the general absurdity of what comes with that responsibility (or lack thereof).<br>With an unhealthy obsession with the internet, you're just as likely to find him there as well as showing work in theatres, back rooms of pubs, and having work appearing on BBC Radio.         
          
@@ -90,7 +90,7 @@ Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).
           
 Content Warnings: some works involve interaction and/or participation; specific warnings listed [here](/warnings).         
           
-Features: four Live Art & contemporary performance works with varied content.<br>Ash Cox: relaxed performance, creative captions and some BSL.         
+Features: four Live Art & contemporary performance works with varied content.         
          
 *NB* works mostly occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in space 0 & bar, with one in space 2 on the second floor, and vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
          
