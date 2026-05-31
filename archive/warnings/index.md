@@ -12,13 +12,16 @@ season: "Archived Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 7 May 2026<small>        
+<small>Updated 31 May 2026<small>        
         
 Age Advisories/Limits & Content Warnings for *past* events and *archived* livestreams on our YouTube channel are available below, including elements that may distress, cause upset, or trigger.&emsp;Go to → [2026](/archive/warnings/#2026) · [2025](/archive/warnings/#2025) · [2024](/archive/warnings/#2024) · [2023](/archive/warnings/#2023) · [2022](/archive/warnings/#2022) · [2021](/archive/warnings/#2021) · [2020](/archive/warnings/#2020) · [2019](/archive/warnings/#2019)&emsp;(Please click [here](/warnings) for *upcoming* events.)        
         
 If issues raised affect you, these organisations may be of support:&ensp;<a href="https://thecalmzone.net" target="_blank">CALM</a> 0800 585858 · <a href="https://harmless.org.uk" target="_blank">Harmless</a> · <a href="https://mind.org.uk" target="_blank">Mind</a> 0300 123 3393 · <a href="https://nopanic.org.uk" target="_blank">No Panic</a> 0300 772 9844 · <a href="https://samaritans.org" target="_blank">Samaritans</a> call 116 123 or email jo@samaritans.org · <a href="https://supportline.org.uk" target="_blank">SupportLine</a> 01708 765 200 · <a href="https://thesurvivorstrust.org" target="_blank">The Survivors Trust</a> 08088 010 818         
 <hr>         
 #### 2026         
+         
+##### [28 & 29 May. Contact | Works Ahead 2026: *evil eyes* by n:u (melissandre varin)](/current/2026-worksahead/nu)         
+Age Advisory: **18+**<br>Content Warnings: a performance-ritual with potential participation and invitation to touch naked skin; full nudity; loud noises (ear defenders available); references to asphyxiation, colonialism, gender dynamics, racial dynamics; use of alcohol.         
          
 ##### [2 May. Lowry | *Mr Blackpool* by Harry Clayton-Wright](/current/2026/clayton-wright)          
 Age Advisory: 18+<br>Content Warnings: featured flashing lights, loud music, haze and smoke, and stage effects including pyrotechnics, and themes that some people may have found upsetting.         
