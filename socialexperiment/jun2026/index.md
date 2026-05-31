@@ -71,7 +71,7 @@ An exploration of contentment, led by a man brimming with mediocrity.
          
 Through film, performance, song, and an increasingly questionable process, comes a show that investigates how to find meaning in the mundane — that somehow becomes increasingly more performative itself as time slips by.         
          
-A [Works Ahead 2026](/2026-worksahead/birkinshaw) commission by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Project Mentor: Peader Kirk         
+A [Works Ahead 2026](/current/2026-worksahead/birkinshaw) commission by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Project Mentor: Peader Kirk         
          
 Nathan is a performance artist, comedian, and theatre-maker whose work blends humour with the explorations of being human and the general absurdity of what comes with that responsibility (or lack thereof).<br>With an unhealthy obsession with the internet, you're just as likely to find him there as well as showing work in theatres, back rooms of pubs, and having work appearing on BBC Radio.         
          
