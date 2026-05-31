@@ -41,13 +41,17 @@ Content Warning: please click [here](/warnings).<br>Access: relaxed performance,
          
 Ash (they/them) is an artivist (artist + activist), creative access producer, consultant, and facilitator from Salford, focusing on work that reflects their lived experience being a disabled, queer, working-class arts and science nerd.​         
          
-<a href="https://laurentemplepoet.co.uk" target="_blank">laurentemplepoet.co.uk</a> · Insta <a href="https://instagram.com/ash_tronomy_" target="_blank">@ash_tronomy_</a>         
+<a href="https://www.ashtronomy.co.uk" target="_blank">ashtronomy.co.uk</a> · Insta <a href="https://instagram.com/ash_tronomy_" target="_blank">@ash_tronomy_</a>         
 <hr>         
 **Blood Bones Jones** · *The Findings of Jacob Charles Trist*         
-          
+         
+An immersive horror piece. Explore the space, and piece together a story. Follow Jacob on his discovery of creatures not of this earth and decide if what he's seeing is real or a matter of fiction.         
+         
 Content Warning: please click [here](/warnings).         
          
-<a href="https://laurentemplepoet.co.uk" target="_blank">laurentemplepoet.co.uk</a> · Insta <a href="https://instagram.com/blood.bones.jones" target="_blank">@blood.bones.jones</a> <a href="https://instagram.com/faye.joness" target="_blank">@faye.joness</a>         
+Faye Jones is a multidisciplinary artist based in the North West. With a passion for combining her dance background with her love for horror cinema, Faye is always striving to create creatures not of this earth through thought-provoking choreography and film.         
+         
+Insta <a href="https://instagram.com/blood.bones.jones" target="_blank">@blood.bones.jones</a> <a href="https://instagram.com/faye.joness" target="_blank">@faye.joness</a>         
 <hr>         
 **Lauren Temple** · *Ethereal*         
          
@@ -69,8 +73,7 @@ Through film, performance, song, and an increasingly questionable process, comes
          
 A [Works Ahead](/hab/worksahead) 2026 commission by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Project Mentor: Peader Kirk         
          
-Nathan is a performance artist, comedian, and theatre-maker whose work blends humour with the explorations of being human and the general absurdity of what comes with that responsibility (or lack thereof).
-With an unhealthy obsession with the internet, you’re just as likely to find him there as well as showing work in theatres, back rooms of pubs, and having work appearing on BBC Radio.         
+Nathan is a performance artist, comedian, and theatre-maker whose work blends humour with the explorations of being human and the general absurdity of what comes with that responsibility (or lack thereof).<br>With an unhealthy obsession with the internet, you're just as likely to find him there as well as showing work in theatres, back rooms of pubs, and having work appearing on BBC Radio.         
          
 Insta <a href="https://instagram.com/nathanbirkinshaw" target="_blank">@nathanbirkinshaw</a> · YouTube <a href="https://www.youtube.com/@nathanbirkinshaw" target="_blank">@nathanbirkinshaw</a>         
 <hr>         
@@ -80,7 +83,7 @@ FREE: there's no ticketing… just turn up!
          
 Time: Thursday 11 June 2026, 6pm onwards (ends *by about* 9pm).         
           
-Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester M15 6JA.         
+Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (bar & spaces 0 & 2), Oxford Rd, Manchester M15 6JA.         
          
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
