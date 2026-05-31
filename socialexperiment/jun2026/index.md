@@ -41,19 +41,23 @@ Content Warning: please click [here](/warnings).<br>Access: relaxed performance,
          
 Ash (they/them) is an artivist (artist + activist), creative access producer, consultant, and facilitator from Salford, focusing on work that reflects their lived experience being a disabled, queer, working-class arts and science nerd.​         
          
-Insta <a href="https://instagram.com/ash_tronomy_" target="_blank">@ash_tronomy_</a>         
+<a href="https://laurentemplepoet.co.uk" target="_blank">laurentemplepoet.co.uk</a> · Insta <a href="https://instagram.com/ash_tronomy_" target="_blank">@ash_tronomy_</a>         
 <hr>         
 **Blood Bones Jones** · *The Findings of Jacob Charles Trist*         
           
 Content Warning: please click [here](/warnings).         
          
-Insta <a href="https://instagram.com/blood.bones.jones" target="_blank">@blood.bones.jones</a> <a href="https://instagram.com/faye.joness" target="_blank">@faye.joness</a>         
+<a href="https://laurentemplepoet.co.uk" target="_blank">laurentemplepoet.co.uk</a> · Insta <a href="https://instagram.com/blood.bones.jones" target="_blank">@blood.bones.jones</a> <a href="https://instagram.com/faye.joness" target="_blank">@faye.joness</a>         
 <hr>         
 **Lauren Temple** · *Ethereal*         
+         
+A queer coming of age story: be guided in self-discovery through goddesses, and gay clubs, and the great outdoors.         
           
 Content Warning: please click [here](/warnings).         
          
-Insta <a href="https://instagram.com/rentemplepoet" target="_blank">@rentemplepoet</a>         
+Lauren is a multi-disciplinary creative from Manchester. Seeing herself primarily as a storyteller, Lauren often uses a narrative style that weaves fantasy with mundanity to examine contemporary life. Lauren's work often focuses on queerness, feminism, and mental health.         
+         
+<a href="https://laurentemplepoet.co.uk" target="_blank">laurentemplepoet.co.uk</a> · Insta <a href="https://instagram.com/rentemplepoet" target="_blank">@rentemplepoet</a>         
 <hr>         
 **Nathan Birkinshaw** · *How To Be Content*         
          
@@ -62,8 +66,6 @@ Insta <a href="https://instagram.com/rentemplepoet" target="_blank">@rentemplepo
 An exploration of contentment, led by a man brimming with mediocrity.         
          
 Through film, performance, song, and an increasingly questionable process, comes a show that investigates how to find meaning in the mundane — that somehow becomes increasingly more performative itself as time slips by.         
-         
-Did you notice when they caught your eye, brushed past your elbow, tapped the table, left a coffee cup, raised their voice, held the door?<br>Write me a postcard when you get there.         
          
 A [Works Ahead](/hab/worksahead) 2026 commission by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Project Mentor: Peader Kirk         
          
