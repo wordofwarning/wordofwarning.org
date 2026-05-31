@@ -37,60 +37,25 @@ June's Edition, hosted by Peader Kirk, kicks off at 6pm and finishes *by* 9pm…
          
 A short live art performance about empty claims.        
          
-A [Works Ahead 2026](https://wordofwarning.org/hab/worksahead/#2026) commission by hÅb + Contact.         
+Content Warning: please click [here](/warnings).<br>Access: relaxed performance, creative captions, and some BSL.         
          
-Lisa is a theatre-maker and dramaturg, she takes threads, some yours, some hers, some found in streets, in shop doorways, or in libraries. Often the threads are words and images or conversations with people, she weaves these together to create a fabric of collective feeling.         
+Ash (they/them) is an artivist (artist + activist), creative access producer, consultant, and facilitator from Salford, focusing on work that reflects their lived experience being a disabled, queer, working-class arts and science nerd.​         
          
-Insta <a href="https://instagram.com/lisaf0rd" target="_blank">@lisaf0rd</a>         
+Insta <a href="https://instagram.com/ash_tronomy_" target="_blank">@ash_tronomy_</a>         
 <hr>         
-**Gin Niemtus** · *I Don't Think This Is Good For Me*         
-         
-Gin is a multidisciplinary artist with a kaleidoscopic practice ranging from installation art to shadow puppetry to music, performance, and theatre. Their art explores the unusual experiences we might be simultaneously haunted and inspired by, and the notion nothing exists in isolation; it all belongs to a chain of events. They aim to make a home for the strange emotions and impulses that we feel as people. Let them cradle your weird with theirs.         
-         
+**Blood Bones Jones** · *The Findings of Jacob Charles Trist*         
+          
 Content Warning: please click [here](/warnings).         
          
-Insta <a href="https://instagram.com/ginniemtus" target="_blank">@ginniemtus</a>         
+Insta <a href="https://instagram.com/blood.bones.jones" target="_blank">@blood.bones.jones</a> <a href="https://instagram.com/faye.joness" target="_blank">@faye.joness</a>         
 <hr>         
-**Orla Collier** · *Sometimes I hate going for walks in nice places that look nice*          
-         
-A solo performance piece exploring feelings of pressure and overwhelm.         
-
-"*Life is not a competition with others. In its truest sense it is a rivalry with ourselves. We should each day seek to break the record of our yesterday. We should seek each day to live stronger, better, truer lives; each day to master some weakness of yesterday; each day to repair past follies; each day to surpass… ourselves. And this is but progress."* — William George Jordan         
-         
-Created & performed by Orla Collier. Music by Lee Affen. Interview conducted & edited by Jack Ballinger. Commissioned & supported by <a href="https://www.theknottedproject.co.uk" target="_blank">The Knotted Project</a>         
+**Lauren Temple** · *Ethereal*         
           
-Orla (she/her) is a Leeds-based freelance dance artist, physical theatre practitioner, and life model from Cumbria. She trained at Rambert School & NSCD, 
-and has since worked in a variety of interdisciplinary performance projects, including her own solo works. Orla's practice focuses on using her body to express feelings or experiences that can otherwise be difficult to express or accept.         
+Content Warning: please click [here](/warnings).         
          
-<a href="https://www.orlacollier.com" target="_blank">orlacollier.com</a> · Insta <a href="https://instagram.com/orla.collier" target="_blank">@orla.collier</a>             
+Insta <a href="https://instagram.com/rentemplepoet" target="_blank">@rentemplepoet</a>         
 <hr>         
-**Natalie Spanner (special guest)**         
-         
-Drag mechanic Natalie Spanner would like to teach you all about holistic car care — how to look after our cars, but also ourselves — and invite you to get down and dirty under the bonnet. This is the introductory car car class — if you want to do the full course, join her at <a href="http://thelowry.com/whats-on/fixing-dwx9" target="_blank">Lowry on Friday night</a>.         
-         
-Matt Miller is a Nottingham-based poet, performer, and theatre maker who writes about place, identity, and ways of belonging.         
-         
-<a href="https://mattmillertheatre.com" target="_blank">mattmillertheatre.com</a> · Insta <a href="https://instagram.com/mattylewismiller" target="_blank">@mattylewismiller</a>         
-<hr>         
-
-**Daniel Nicholas** · *It Could be Us*         
-         
-What would you do if you won the lottery? What would you spend it on? And what if there were certain conditions? Join award-winning comedian & theatre maker Daniel who alongside yourselves (the audience) has just won the lottery. But there's a catch, it has to be spent within the hour or we don't get anything at all! (Inspired by & definitely not ripping off *Brewsters Millions*.) Through a series of interactive games & conversations, we'll explore wealth inequality, generational divide, and holidays, as we imagine a better world for ourselves. In this excerpt of new ideas, we'll be looking at trying to find someone the perfect house.         
-         
-Daniel is a Manchester-based theatre maker & comedian. Previous work includes *Eugene*‚ a show about AI & billionaires that uses captioning software the Difference Engine for audiences to receive scripted messages from the AI character throughout the show, that toured nationally in 2023. He co-produces Cultural Comedy Tours, where comedians give tours of cultural & heritage sites; as a comedian he's been shortlisted for the BBC New Comedy Award, won best improv show in Leicester Comedy Festival, and performed at a variety of festivals…          
-         
-<a href="https://www.danielnicholas.co.uk" target="_blank">danielnicholas.co.uk</a> · Insta <a href="https://instagram.com/danielnicholasthings" target="_blank">@danielnicholasthings</a>         
-<hr>         
-**Kathy Rivett** · *Train Of Thought*          
-         
-Kathy is a comedian that can't drive. She's constantly on trains, and found herself wondering "*what if I became the train?…*" She uses character comedy to explore the different personas she thinks different train companies would have.         
-         
-Originally created as part of Lowry Artist Development.         
-         
-Kathy 'an explosion of mad energy' (Chortle) is one of the most exciting young comedians on the comedy circuit. She uses absurdism, characters, and silliness to explore 'endlessly creative' (blizzard comedy) ideas on stage — it's the wrong time of the month!         
-         
-Insta <a href="https://instagram.com/kathy_rivett" target="_blank">@kathy_rivett</a>         
-<hr>**Nathan Birkinshaw** · *How To Be Content*         
+**Nathan Birkinshaw** · *How To Be Content*         
          
 *"Making peace with the fact this might be it."*         
          
@@ -120,7 +85,7 @@ Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).
           
 Content Warnings: some works involve interaction and/or participation; specific warnings listed [here](/warnings).         
           
-Features: four Live Art & contemporary performance works with varied content.<br>Ash Cox: relaxed performance, creative captions, some BSL, and visual vernacular.         
+Features: four Live Art & contemporary performance works with varied content.<br>Ash Cox: relaxed performance, creative captions and some BSL.         
          
 *NB* works mostly occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in space 0 & bar, with one in space 2 on the second floor, and vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
          
