@@ -17,7 +17,7 @@ season: "Social Experiment 11|6|2026, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/jun2026/#artists) · [programme](/socialexperiment/jun2026/#programme) · [entry](/socialexperiment/jun2026/#entry) · [access](/socialexperiment/jun2026/#access) · [credits](/socialexperiment/jun2026/#credits)</span>&ensp; <small>Updated 31 May 2026</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/jun2026/#artists) · [programme](/socialexperiment/jun2026/#programme) · [entry](/socialexperiment/jun2026/#entry) · [access](/socialexperiment/jun2026/#access) · [credits](/socialexperiment/jun2026/#credits)</span>&ensp; <small>Updated 9 June 2026</small>          
          
 *A [Social Experiment](/socialexperiment) on 11 June, presented by* Word of Warning + Contact         
          
@@ -70,6 +70,8 @@ Lauren is a multi-disciplinary creative from Manchester. Seeing herself primaril
 An exploration of contentment, led by a man brimming with mediocrity.         
          
 Through film, performance, song, and an increasingly questionable process, comes a show that investigates how to find meaning in the mundane — that somehow becomes increasingly more performative itself as time slips by.         
+         
+Content Warning: please click [here](/warnings).         
          
 A [Works Ahead 2026](/current/2026-worksahead/birkinshaw) commission by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Project Mentor: Peader Kirk         
          
