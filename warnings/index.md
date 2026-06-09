@@ -21,7 +21,7 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 #### 2026         
          
 ##### [11 Jun. Contact | Social Experiment](/socialexperiment/jun2026)          
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings follow…<br>&nbsp;Ash Cox — contains: latex balloons (please do not pop), permanent markers, optional participation, loud music, strong language, ableism, disabled working-class rage (and joy).<br>&nbsp;Blood Bones Jones — implies a child has gone missing and not returned; some scenes of gore within certain tapes.<br>&nbsp;Lauren Temple — mentions of homophobia and sexism.<br>&nbsp;Nathan Birkinshaw — mention of illness, medication, death; use of taxidermy.         
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction and/or participation; specific warnings follow…<br>&nbsp;Ash Cox — contains: latex balloons (please do not pop), permanent markers, optional participation, loud music, strong language, ableism, disabled working-class rage (and joy).<br>&nbsp;Blood Bones Jones — implies a child has gone missing and not returned; some scenes of gore within certain tapes.<br>&nbsp;Lauren Temple — mentions of homophobia and sexism.<br>&nbsp;Nathan Birkinshaw — mention of illness, medication, death; use of taxidermy.         
          
 ##### [11 Jul. Z-arts | Haphazard 2026](/current/2026-haphazard)          
-Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings to follow *about* a month before…
+Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction and/or participation; specific warnings to follow *about* a month before…
