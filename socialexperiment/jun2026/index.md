@@ -17,7 +17,7 @@ season: "Social Experiment 11|6|2026, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/jun2026/#artists) · [programme](/socialexperiment/jun2026/#programme) · [entry](/socialexperiment/jun2026/#entry) · [access](/socialexperiment/jun2026/#access) · [credits](/socialexperiment/jun2026/#credits)</span>&ensp; <small>Updated 9 June 2026</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/jun2026/#artists) · [programme](/socialexperiment/jun2026/#programme) · [entry](/socialexperiment/jun2026/#entry) · [access](/socialexperiment/jun2026/#access) · [credits](/socialexperiment/jun2026/#credits)</span>&ensp; <small>Updated 11 June 2026</small>          
          
 *A [Social Experiment](/socialexperiment) on 11 June, presented by* Word of Warning + Contact         
          
@@ -45,9 +45,11 @@ Ash (they/them) is an artivist (artist + activist), creative access producer, co
 <hr>         
 **Blood Bones Jones** · *The Findings of Jacob Charles Trist*         
          
-An immersive horror piece. Explore the space, and piece together a story. Follow Jacob on his discovery of creatures not of this earth and decide if what he's seeing is real or a matter of fiction.         
+An immersive horror experience. Explore the space, and piece together a story. Follow Jacob on his discovery of creatures not of this earth and decide if what he's seeing is real or a matter of fiction.         
          
 Content Warning: please click [here](/warnings).         
+         
+Performers: Joshua Owen & Lydia Horne         
          
 Faye Jones is a multidisciplinary artist based in the North West. With a passion for combining her dance background with her love for horror cinema, Faye is always striving to create creatures not of this earth through thought-provoking choreography and film.         
          
@@ -58,6 +60,8 @@ Insta <a href="https://instagram.com/blood.bones.jones" target="_blank">@blood.b
 A queer coming of age story: be guided in self-discovery through goddesses, and gay clubs, and the great outdoors.         
           
 Content Warning: please click [here](/warnings).         
+         
+Movement Director: Chris Brown         
          
 Lauren is a multi-disciplinary creative from Manchester. Seeing herself primarily as a storyteller, Lauren often uses a narrative style that weaves fantasy with mundanity to examine contemporary life. Lauren's work often focuses on queerness, feminism, and mental health.         
          
