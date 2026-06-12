@@ -17,23 +17,25 @@ season: "Social Experiment"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 31 May 2026</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 12 June 2026</small>          
          
 *Presented by* Word of Warning + <a href="https://contactmcr.com/events/social-experiment" target="_blank">Contact</a> *as a semi-regular evening event.*         
          
 **Social Experiment** is a gathering at Contact for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
           
-A free and informal, semi-regular evening event with the next edition on Thursday [**11 June**](/socialexperiment/jun2026) from 6pm to 9pm — followed by Thursday **19 November**.         
+A free and informal, semi-regular evening event with the next edition on Thursday **19 November** from 6pm to 9pm — with further **2027 dates TBA**.         
           
 If you're a Greater Manchester artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
          
 If you're an audience member looking for something a little bit different — this is your chance to take a few risks & meet some artists in our social experiment.         
          
-Past events were held in [April 2026](/socialexperiment/apr2026), [February 2026 (Queer Contact Edition)](/socialexperiment/feb2026), [November 2025](/socialexperiment/nov2025), [July 2025](/socialexperiment/jul2025), [June 2025 (Student Edition)](/socialexperiment/studentedition), [May 2025](/socialexperiment/may2025), and [February 2025](/socialexperiment/feb2025). See some images from [2026](/galleries/2026-socex) and [2025](/galleries/2025-socex).         
+Past events were held in [June](/socialexperiment/jun2026), [April](/socialexperiment/apr2026), and [February (Queer Contact Edition)](/socialexperiment/feb2026) 2026 — and [November](/socialexperiment/nov2025), [July](/socialexperiment/jul2025), [June (Student Edition)](/socialexperiment/studentedition), [May](/socialexperiment/may2025), and [February](/socialexperiment/feb2025) 2025. See some images from [2026](/galleries/2026-socex) and [2025](/galleries/2025-socex).         
          
 #### Artists        
-**11 June** — Ash&nbsp;Cox&nbsp;· Blood&nbsp;Bones&nbsp;Jones&nbsp;· Lauren&nbsp;Temple&nbsp;· special&nbsp;guest&nbsp;[Nathan&nbsp;Birkinshaw](/current/2026-worksahead/birkinshaw) —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/jun2026). &ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
+**19 November** — *participating&nbsp;artists&nbsp;to&nbsp;be&nbsp;announced*.         
          
+**11 June** — Ash&nbsp;Cox&nbsp;· Blood&nbsp;Bones&nbsp;Jones&nbsp;· Lauren&nbsp;Temple&nbsp;· special&nbsp;guest&nbsp;[Nathan&nbsp;Birkinshaw](/current/2026-worksahead/birkinshaw) —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/jun2026).          
+          
 **9 April** — Daniel&nbsp;Nicholas&nbsp;· Gin&nbsp;Niemtus&nbsp;· Kathy&nbsp;Rivett&nbsp;· Lisa&nbsp;Ford&nbsp;· Orla&nbsp;Collier&nbsp;· special&nbsp;guest&nbsp;Natalie&nbsp;Spanner —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/apr2026).         
          
 **19 February** (<a href="https://contactmcr.com/queer-contact-2026" target="_blank">Queer Contact</a> Edition) — Ariel&nbsp;Hebditch&nbsp;· Ben&nbsp;Hodge&nbsp;· Failed&nbsp;Artist&nbsp;Society&nbsp;· lucy&nbsp;· Maddie&nbsp;Maycock&nbsp;· PHOBIA&nbsp;· special&nbsp;guest&nbsp;Graham&nbsp;Clayton-Chance —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/feb2026).         
@@ -43,7 +45,7 @@ Past events were held in [April 2026](/socialexperiment/apr2026), [February 2026
 #### Entry         
 FREE: there's no ticketing… just turn up!         
          
-Next Date: Thursday 11 June 2026.<br>Following Date: Thursday 19 November 2026.<br>Time: 6pm onwards (each event ends *by about* 9pm).         
+Next Date: Thursday 19 November 2026.<br>Following Dates: 2027 dates TBA.<br>Time: 6pm onwards (each event ends *by about* 9pm).         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester M15 6JA.         
          
@@ -63,7 +65,7 @@ Greater Manchester artists (*aged 18+*) are invited to submit proposals of: shor
          
 **For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>**<br>(Direct link to proposal form is <a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">here</a> in case of issues with posthaven.)         
          
-Proposal Deadline: open on a rolling basis and closing 17 days before each event — June's deadline was Mon 25 May at noon, November's is Mon 2 Nov at noon.         
+Proposal Deadline: open on a rolling basis and closing 17 days before each event — June's  was Mon 25 May at noon, November's deadline is Mon 2 Nov at noon.         
          
 #### Credits          
 [Social Experiment](/hab/socialexperiment) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.<br>Host: Peader Kirk
