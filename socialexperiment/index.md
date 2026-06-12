@@ -23,7 +23,7 @@ season: "Social Experiment"
          
 **Social Experiment** is a gathering at Contact for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
           
-A free and informal, semi-regular evening event with the next edition on Thursday **19 November** from 6pm to 9pm — with further **2027 dates TBA**.         
+A free and informal, semi-regular evening event with the next on Thursday **19 November 2026** from 6pm to 9pm — with further **2027 dates TBA**.         
           
 If you're a Greater Manchester artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
          
@@ -65,7 +65,7 @@ Greater Manchester artists (*aged 18+*) are invited to submit proposals of: shor
          
 **For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>**<br>(Direct link to proposal form is <a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">here</a> in case of issues with posthaven.)         
          
-Proposal Deadline: open on a rolling basis and closing 17 days before each event — June's  was Mon 25 May at noon, November's deadline is Mon 2 Nov at noon.         
+Proposal Deadline: open on a rolling basis and closing 17 days before each event — November's deadline is Mon 2 Nov at noon.         
          
 #### Credits          
 [Social Experiment](/hab/socialexperiment) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.<br>Host: Peader Kirk
