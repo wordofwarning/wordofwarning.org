@@ -12,7 +12,7 @@ season: "Archived Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 31 May 2026<small>        
+<small>Updated 12 June 2026<small>        
         
 Age Advisories/Limits & Content Warnings for *past* events and *archived* livestreams on our YouTube channel are available below, including elements that may distress, cause upset, or trigger.&emsp;Go to → [2026](/archive/warnings/#2026) · [2025](/archive/warnings/#2025) · [2024](/archive/warnings/#2024) · [2023](/archive/warnings/#2023) · [2022](/archive/warnings/#2022) · [2021](/archive/warnings/#2021) · [2020](/archive/warnings/#2020) · [2019](/archive/warnings/#2019)&emsp;(Please click [here](/warnings) for *upcoming* events.)        
         
@@ -20,8 +20,11 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 <hr>         
 #### 2026         
          
+##### [11 Jun. Contact | Social Experiment](/socialexperiment/jun2026)          
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works involved interaction and/or participation; specific warnings follow…<br>&nbsp;Ash Cox — contained: latex balloons (please do not pop), permanent markers, optional participation, loud music, strong language, ableism, disabled working-class rage (and joy).<br>&nbsp;Blood Bones Jones — implied a child has gone missing and not returned; some scenes of gore within certain tapes.<br>&nbsp;Lauren Temple — mentions of homophobia and sexism.<br>&nbsp;Nathan Birkinshaw — mention of illness, medication, death; use of taxidermy; performer injected themself on stage.         
+         
 ##### [28 & 29 May. Contact | Works Ahead 2026: *evil eyes* by n:u (melissandre varin)](/current/2026-worksahead/nu)         
-Age Advisory: **18+**<br>Content Warnings: a performance-ritual with potential participation and invitation to touch naked skin; full nudity; loud noises (ear defenders available); references to asphyxiation, colonialism, gender dynamics, racial dynamics; use of alcohol.         
+Age Advisory: **18+**<br>Content Warnings: a performance-ritual with potential participation and invitation to touch naked skin; full nudity; loud noises (ear defenders available); referencd asphyxiation, colonialism, gender dynamics, racial dynamics; use of alcohol.         
          
 ##### [2 May. Lowry | *Mr Blackpool* by Harry Clayton-Wright](/current/2026/clayton-wright)          
 Age Advisory: 18+<br>Content Warnings: featured flashing lights, loud music, haze and smoke, and stage effects including pyrotechnics, and themes that some people may have found upsetting.         

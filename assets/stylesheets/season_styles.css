@@ -1145,6 +1145,27 @@
 	.t2026 .splash
 		{background:url(../images/header_turn26a.jpg) center center}
 
+/* Haphazard 2026 yellow & Miranda Prag headdress and hands
+------------------------------------------------------*/
+
+	.h2026,
+	.h2026 .artist, 
+	.h2026 .show,
+	.h2026 .season
+		{background:#fb3; color:#000;}
+
+	.h2026 a,
+	.h2026 a:visited,
+	.h2026 a:hover
+		{color:#000;}
+	.h2026 nav a:hover,
+	.h2026 article a:hover,
+	.h2026 footer a:hover
+		{background:#000; color:#fb3;}
+
+	.h2026 .splash
+		{background:url(../images/header_haphazard26a.jpg) center center}
+
 /* 2026 Programme shimmer - black red purple green
 ------------------------------------------------------*/
 

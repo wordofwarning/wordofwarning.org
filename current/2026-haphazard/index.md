@@ -15,7 +15,7 @@ season: "Haphazard 11|7|2026, 1-4pm"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-haphazard/#artists) · [entry](/current/2026-haphazard/#entry) · [access](/current/2026-haphazard/#access) · [about](/current/2026-haphazard/#about) · [credits](/current/2026-haphazard/#credits)</span>&ensp; <small>Updated 10 June 2026</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2026-haphazard/#artists) · [entry](/current/2026-haphazard/#entry) · [access](/current/2026-haphazard/#access) · [about](/current/2026-haphazard/#about) · [credits](/current/2026-haphazard/#credits)</span>&ensp; <small>Updated 18 June 2026</small>        
         
 *Presented by* Word of Warning *+* Z-arts           
          
@@ -50,7 +50,7 @@ This ninth edition will present ten works — Haphazard has previously seen ping
 Get a feel for it by looking at image galleries from [2025](/galleries/2025-haphazard), [2024](/galleries/2024-haphazard), [2023](/galleries/2023-haphazard), [2019](/galleries/2019-haphazard), [2017](/galleries/2017-haphazard), [2016](/galleries/2016-haphazard), [2015](/galleries/2015-haphazard), [2013](/galleries//2013-haphazard) — and programmes from [2025](/archive/2025-haphazard/programme), [2024](/archive/2024-haphazard/programme), [2023](/archive/2023-haphazard/programme), [2019](/archive/2019-haphazard/programme), [2017](/archive/2017-haphazard/programme), [2016](/archive/2016-haphazard/programme), [2015](/archive/2015-haphazard), [2013](/archive/2013-spring/haphazard).
          
 #### Credits                 
-[Haphazard](/hab/haphazard) 2026 produced by [hÅb](/hab) with <a href="https://z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England, and by Manchester City Council and Greater Manchester Combined Authority.<br>Image: Puppetfingers (appeared in Haphazard 2025)          
+[Haphazard](/hab/haphazard) 2026 produced by [hÅb](/hab) with <a href="https://z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England, and by Manchester City Council and Greater Manchester Combined Authority.<br>Image: Miranda Prag (appearing in Haphazard 2026)          
         
 #### Websites         
 <a href="http://haphazardmcr.org" target="_blank">haphazardmcr.org</a>    
