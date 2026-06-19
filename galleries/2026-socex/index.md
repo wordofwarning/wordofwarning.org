@@ -12,6 +12,9 @@ more_url: "../../socialexperiment/"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small><i>A gathering for Live Art and contemporary performance.</i></small>"}
+    -   {file: "blood bones jones.jpg", artist: "Blood Bones Jones (Jun 2026)"}
+    -   {file: "Lauren Temple.jpg", artist: "Lauren Temple (Jun 2026)"}
+    -   {file: "Ash Cox.jpg", artist: "Ash Cox (Jun 2026)"}
     -   {file: "gin.jpg", artist: "Gin Niemtus (Apr 2026)"}
     -   {file: "orla.jpg", artist: "Orla Collier (Apr 2026)"}
     -   {file: "natalie.jpg", artist: "Natalie Spanner (Apr 2026)"}
