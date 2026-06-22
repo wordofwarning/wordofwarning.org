@@ -11,7 +11,7 @@ more_link: "Works Ahead 2026"
 more_url: "../../current/2026-worksahead"
 
 gallery:
-    -   {file: "titlepage.jpg", artist: "<small><i>Works Ahead at Contact, 28+29 May & 11 June 2026</i>, show: "<small>All images &copy; 2026 Word of Warning</small>"}
+    -   {file: "titlepage.jpg", artist: "<small><i>Works Ahead at Contact, 28+29 May & 11 June 2026</i></small>", show: "<small>All images &copy; 2026 Word of Warning</small>"}
     -   {file: "nu1.jpg", artist: "n:u (melissandre varin)"}
     -   {file: "nu2.jpg", artist: "n:u (melissandre varin)"}
     -   {file: "nu3.jpg", artist: "n:u (melissandre varin)"}
