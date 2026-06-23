@@ -17,7 +17,7 @@ season: "Works Ahead 2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [works](/current/2026-worksahead/#works) · [entry](/current/2026-worksahead/#entry) · [access](/current/2026-worksahead/#access) · [about](/current/2026-worksahead/#about) · [credits](/current/2026-worksahead/#credits) · [websites](/current/2026-worksahead/#websites)</span>&ensp; <small>Updated 27 May 2026</small>        
+<span style='font-variant: small-caps'>→ [works](/current/2026-worksahead/#works) · [entry](/current/2026-worksahead/#entry) · [access](/current/2026-worksahead/#access) · [about](/current/2026-worksahead/#about) · [credits](/current/2026-worksahead/#credits) · [websites](/current/2026-worksahead/#websites)</span>&ensp; <small>Updated 23 June 2026</small>        
         
 *Presented by* Word of Warning *+* Contact         
 
@@ -27,6 +27,8 @@ Our annual sample of new performance returns to <a href="https://contactmcr.com/
           
 **11 June, 6pm-9pm**<br>[Nathan Birkinshaw](/current/2026-worksahead/birkinshaw) — guest appearance in [Social Experiment](/socialexperiment).         
           
+Now it's over, see [images from these events](/galleries/2026-woah).        
+         
 #### Works        
 **n:u (melissandre varin)** · *evil eyes*         
          
