@@ -52,7 +52,7 @@ Peader Kirk, artist & mentor, supports [Works Ahead](/hab/worksahead) and other 
          
 We're grateful for the ongoing support of hÅb projects during 2026 from a team of freelancers and volunteers that includes: Alison Darnbrough, Andrew Crofts, Catherine Shaw, Sam Stockdale, Tania Camara, Tricia Coleman, plus Theatre & Performance students from The Arden.         
          
-Thanks also to [hÅb](/hab)'s Advisory Board: Helen Palmer, Cathy Butterworth, Charles Rowley, Joseph Lau, Tania Camara, and Maya Chowdhry for [Divergency](/hab/divergencymcr).        
+Thanks also to [hÅb](/hab)'s Advisory Board: Helen Palmer, Alice Booth, Cathy Butterworth, Charles Rowley, Joseph Lau, Tania Camara, and Maya Chowdhry for [Divergency](/hab/divergencymcr).        
 <small><span style='font-variant: small-caps'>[back to top](/current/2026)</span></small>        
          
 #### Warnings          
