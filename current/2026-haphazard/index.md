@@ -21,7 +21,7 @@ season: "Haphazard 11|7|2026"
          
 Playful, quirky, engaging, and sometimes plain daft: Haphazard is for kids and their adults, adults and *their* adults — anyone looking for a different day out!         
           
-From whispered constellations to dissolving homes, paper wishes to impossible time machines, and holiday camp clowning to becoming a dog – a haphazard exploration of how we move through the world together. Have a look at some of our [artists’ images](/galleries/2026-haphazardpre).         
+From whispered constellations to dissolving homes, paper wishes to impossible time machines, and holiday camp clowning to becoming a dog – a haphazard exploration of how we move through the world together.<br>Have a look at some of our [artists’ images](/galleries/2026-haphazardpre).         
          
 A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2026" target="_blank">Z-arts</a> **on Saturday 11 July from 1pm to 4pm**. Turn up at any time, come and go as you please… and expect the unexpected!         
          
