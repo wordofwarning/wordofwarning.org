@@ -21,17 +21,17 @@ season: "Emergency 26|9|2026"
          
 *Presented by* Word of Warning *+* Contact        
         
-Manchester's 26th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 26 September from Noon to 10pm** *tbc*:<br>— with an Afternoon of installations, interventions, limited capacity works<br>— followed by an Evening full of short shows…          
+Manchester's 26th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 26 September from Noon to 10pm**:<br>— with an **Afternoon** of installations, interventions, limited capacity works;<br>— followed by an **Evening** full of short shows from *about* 4pm…          
           
 Get a feel for it with [2025's programme](/archive/2025-emergency/#artists) and [gallery of images](/galleries/2025-emergency).         
          
 #### Artists         
-*Participating artists to be announced during August — to apply, please visit <a href="https://emergencymcr.posthaven.com" target="_blank">emergencymcr.posthaven.com</a>*        
+*Participating artists will be announced during August — for details on how to apply please visit <a href="https://emergencymcr.posthaven.com" target="_blank">emergencymcr.posthaven.com</a>*        
           
 #### Entry         
 Pay What You Decide: there's no ticketing, just turn up & donate by cash/card.         
           
-Times: Saturday 26 September 2026, from Noon to 10pm *tbc* (turn up at any time).<br>*NB* some artists *may* take breaks on an ad hoc basis, some works *may* have a short duration, some *may* have limited capacity on a first-come first-served basis, and some *may* occur at the same time — so you will not be able to see everything.         
+Times *tbc*: Saturday 26 September 2026, from Noon to 10pm.<br>*NB* some artists *may* take breaks on an ad hoc basis, some works *may* have a short duration, some *may* have limited capacity on a first-come first-served basis, and some *may* occur at the same time: you *may* be unable to see everything.         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
         
@@ -51,7 +51,7 @@ Our annual platform for Live Art and contemporary performance, [Emergency](/hab/
          
 First held at greenroom in 2000, [Emergency](/hab/emergency) also took place at International Anthony Burgess Foundation, BLANKSPACE, Castlefield Gallery, Z-arts & STUN Studio, NIAMOS, before finding a new home at <a href="https://contactmcr.com" target="_blank">Contact</a> from [2020](/archive/2020-emergency)…         
          
-Get a feel for it with [2025's programme](/archive/2025-emergency/#artists) and [gallery of images](/galleries/2025-emergency); [2024's programme](/archive/2024-emergency/#artists) and [gallery](/galleries/2024-emergency); [2023's programme](/archive/2023-emergency/#artists) and [gallery](/galleries/2023-emergency); [2022's programme](/archive/2022-emergency/#artists) and [gallery](/galleries/2022-emergency).         
+Get a feel for it with [2025's programme](/archive/2025-emergency/#artists) and [gallery of images](/galleries/2025-emergency); [2024's programme](/archive/2024-emergency/#artists) and [gallery](/galleries/2024-emergency); [2023's programme](/archive/2023-emergency/#artists) and [gallery](/galleries/2023-emergency).         
          
 #### Credits         
 [Emergency](/hab/emergency) 26 produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.     
