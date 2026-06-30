@@ -26,7 +26,7 @@ Manchester's 26th micro-marathon of the bizarre, the bold, and the beautiful tak
 Get a feel for it with [2025's programme](/archive/2025-emergency/#artists) and [gallery of images](/galleries/2025-emergency).         
          
 #### Artists         
-*Participating artists to be announced — to apply, please visit <a href="https://emergencymcr.posthaven.com" target="_blank">emergencymcr.posthaven.com</a>*        
+*Participating artists to be announced during August — to apply, please visit <a href="https://emergencymcr.posthaven.com" target="_blank">emergencymcr.posthaven.com</a>*        
           
 #### Entry         
 Pay What You Decide: there's no ticketing, just turn up & donate by cash/card.         
