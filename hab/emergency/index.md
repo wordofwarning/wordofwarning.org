@@ -16,11 +16,11 @@ season: "Emergency by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 18 June 2026</small>        
+<small>Updated 30 June 2026</small>        
         
 **Emergency** is our annual open call platform for Live Art and contemporary performance — offering a sneak preview of new live work over a single day in Manchester every autumn and now resident at <a href="https://contactmcr.com" target="_blank">Contact</a>, its seventh home.        
          
-Manchester's 26th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 26 September 2026, *tbc* from Noon to 10pm** — presenting *about* twenty works throughout the building.          
+[Manchester's 26th micro-marathon](/current/2026-emergency) of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 26 September 2026, *tbc* from Noon to 10pm** — presenting *about* twenty works throughout the building.          
          
 Get a feel for it with [2025's programme](/archive/2025-emergency/#artists) and [gallery of images](/galleries/2025-emergency); [2024's programme](/archive/2024-emergency/#artists) and [gallery](/galleries/2024-emergency); [2023's programme](/archive/2023-emergency/#artists) and [gallery](/galleries/2023-emergency).         
          
@@ -33,9 +33,9 @@ Artists working in Live Art, contemporary performance, time-based media, and int
          
 **For details & to apply please visit <a href="https://emergencymcr.posthaven.com" target="_blank">emergencymcr.posthaven.com</a><br>Proposal Deadline: Friday 7 August 2026, 5pm**         
          
-Emergency 26 combines an Afternoon of durational, installation, intervention, and limited capacity work; followed by an Evening of short (*max 20 min*) show-type pieces of work, works-in-progress, or extracts of longer work.         
+[Emergency 26](/current/2026-emergency) combines an Afternoon of durational, installation, intervention, and limited capacity work; followed by an Evening of short (*max 20 min*) show-type pieces of work, works-in-progress, or extracts of longer work.         
          
-Emergency 26 presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
+[Emergency 26](/current/2026-emergency) presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
         
 Enquiries: <mailto:emergency@habmcr.org> · <a href="http://emergencymcr.org" target="_blank">emergencymcr.org</a>         
          
@@ -48,5 +48,4 @@ First held at greenroom in 2000, Emergency also took place at International Anth
          
 **[Emergency 21](/archive/2021-emergency)** presented 10 new works in a socially-distanced live walkthrough at a newly re-opened <a href="https://contactmcr.com" target="_blank">Contact</a> on **25 September 2021** — with audiences guided on a one-way journey through the refurbished building, pausing en route in gallery fashion — [see images](/galleries/2021-emergency).         
           
-**[Emergency StopGap](/archive/2020-emergencystopgap)** presented 13 new works in a new iteration at Manchester's <a href="https://www.niamos.co.uk" target="_blank">NIAMOS</a> on **27 February 2020** — a small informal platform to bridge the gap between gallery and theatre, and to fill the empty months of winter… An informal 'Thursday Late' style evening with durational live works and interventions throughout the building — [see images](/galleries/2020-emergencystopgap).         
-         
+**[Emergency StopGap](/archive/2020-emergencystopgap)** presented 13 new works in a new iteration at Manchester's <a href="https://www.niamos.co.uk" target="_blank">NIAMOS</a> on **27 February 2020** — a small informal platform to bridge the gap between gallery and theatre, and to fill the empty months of winter… An informal 'Thursday Late' style evening with durational live works and interventions throughout the building — [see images](/galleries/2020-emergencystopgap).
