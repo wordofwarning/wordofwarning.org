@@ -31,7 +31,7 @@ Get a feel for it with [2025's programme](/archive/2025-emergency/#artists) and 
 #### Entry         
 Pay What You Decide: there's no ticketing, just turn up & donate by cash/card.         
           
-Times *tbc*: Saturday 26 September 2026, from Noon to 10pm.<br>*NB* some artists *may* take breaks on an ad hoc basis, some works *may* have a short duration, some *may* have limited capacity on a first-come first-served basis, and some *may* occur at the same time: you *may* be unable to see everything.         
+Times *tbc*: Saturday 26 September 2026, from Noon to 10pm.<br>*NB* some artists *may* take breaks on an ad hoc basis, some works *may* have a short duration, some *may* have limited capacity on a first-come first-served basis, and some *may* occur at the same time: you *might* not see everything.         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
         
