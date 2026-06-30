@@ -8,19 +8,21 @@ artist: "Haphazard 2026" # the name of the artist or company
 show: "A free day out for the curious of all ages." # the name of the show
 artist_size: 1
 show_size: 4
-season: "Haphazard 11|7|2026, 1-4pm"
+season: "Haphazard 11|7|2026"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-haphazard/#artists) · [entry](/current/2026-haphazard/#entry) · [access](/current/2026-haphazard/#access) · [about](/current/2026-haphazard/#about) · [credits](/current/2026-haphazard/#credits)</span>&ensp; <small>Updated 26 June 2026</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2026-haphazard/#artists) · [entry](/current/2026-haphazard/#entry) · [access](/current/2026-haphazard/#access) · [about](/current/2026-haphazard/#about) · [credits](/current/2026-haphazard/#credits)</span>&ensp; <small>Updated 30 June 2026</small>        
         
 *Presented by* Word of Warning *+* Z-arts           
          
-Playful, quirky, engaging, and sometimes plain daft: Haphazard is for kids and their adults, adults and *their* adults — anyone looking for a different day out! Have a look at some of our [artists’ images](/galleries/2026-haphazardpre).      
+Playful, quirky, engaging, and sometimes plain daft: Haphazard is for kids and their adults, adults and *their* adults — anyone looking for a different day out!         
           
+From whispered constellations to dissolving homes, paper wishes to impossible time machines, and holiday camp clowning to becoming a dog – a haphazard exploration of how we move through the world together. Have a look at some of our [artists’ images](/galleries/2026-haphazardpre).         
+         
 A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2026" target="_blank">Z-arts</a> **on Saturday 11 July from 1pm to 4pm**. Turn up at any time, come and go as you please… and expect the unexpected!         
          
 #### Artists         
