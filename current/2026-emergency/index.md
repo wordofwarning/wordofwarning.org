@@ -21,7 +21,7 @@ season: "Emergency 26|9|2026"
          
 *Presented by* Word of Warning *+* Contact        
         
-Manchester's 26th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 26 September from Noon to 10pm**:<br>— with an **Afternoon** of installations, interventions, limited capacity works;<br>— followed by an **Evening** full of short shows from *about* 4pm…          
+Manchester's 26th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 26 September from Noon to 10pm**<br>— with an **Afternoon** of installations, interventions, limited capacity works;<br>— followed by an **Evening** full of short shows from *about* 4pm…          
           
 Get a feel for it with [2025's programme](/archive/2025-emergency/#artists) and [gallery of images](/galleries/2025-emergency).         
          
@@ -31,7 +31,7 @@ Get a feel for it with [2025's programme](/archive/2025-emergency/#artists) and 
 #### Entry         
 Pay What You Decide: there's no ticketing, just turn up & donate by cash/card.         
           
-Times *tbc*: Saturday 26 September 2026, from Noon to 10pm.<br>*NB* some artists *may* take breaks on an ad hoc basis, some works *may* have a short duration, some *may* have limited capacity on a first-come first-served basis, and some *may* occur at the same time: you *might* not see everything.         
+Times: Saturday 26 September 2026, *tbc* from Noon to 10pm.<br>*NB* some artists *may* take breaks on an ad hoc basis, some works *may* have a short duration, some *may* have limited capacity on a first-come first-served basis, and some *may* occur at the same time: you *might* not see everything.         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
         
