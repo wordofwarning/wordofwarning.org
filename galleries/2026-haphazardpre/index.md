@@ -17,7 +17,7 @@ gallery:
     -   {file: "In Between Time.jpg", artist: "In Between Time <small>(c) Manuel Vason</small>"} 
     -   {file: "Lesya Tyminska.jpg", artist: "Lesya Tyminska"}
     -   {file: "Liv Loupe.jpg", artist: "Liv Loupe"}
-    -   {file: "Miranda Prag.jpg", artist: "Miranda Prag"}
+    -   {file: "Miranda Prag.jpg", artist: "Miranda Prag <small>by Joe Twigg</small>"}
     -   {file: "Scrapheap Collective.jpg", artist: "Scrapheap Collective <small>by Yunfeng Zhu</small>"}
-    -   {file: "Tilexkin Collective.jpg", artist: "Tilekxin artist collective, Shynara Nygmetova & Zixuan Hong"}
+    -   {file: "Tilexkin Collective.jpg", artist: "Shynara Nygmetova & Zixuan Hong"}
 ---
