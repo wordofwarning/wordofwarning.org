@@ -81,7 +81,7 @@ Liv is a multi-disciplinary artist studying Contemporary Performance at Manchest
          
 <a href="olivialoupe.wixsite.com/liv-loupe" target="_blank">olivialoupe.wixsite.com/liv-loupe</a> · Insta <a href="https://instagram.com/livlooptyloop" target="_blank">@livlooptyloop</a>         
 <hr>         
-First floor, Activity Space<br>**the institute for crazy dancing** · *FRAGILE. One way to wonderment…*         
+First floor, Playspace<br>**Claire Leith & Lucy Fegan** · *We Once Lived Here*         
          
 A colourful cube transforms into a see-saw and a striking Hazard Cube.<br>Feeling fragile? Get a sticker; find your balance; make a wish and enter wonderment… Come and join us for a conversation about fragility — find your balance, then enter our cube, for a new view on the world.         
 
