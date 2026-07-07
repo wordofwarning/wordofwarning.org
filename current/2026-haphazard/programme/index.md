@@ -9,7 +9,7 @@ show: "Programme Notes" # the name of the show
 artist_size: 1
 show_size: 4
 header_image:
-season: "Haphazard 11|7|2025, Programme"
+season: "Haphazard 11|7|2026, Programme"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
@@ -23,19 +23,13 @@ season: "Haphazard 11|7|2025, Programme"
          
 [Haphazard 2026](/current/2026-haphazard) is a free afternoon for the curious of all ages — see our [artists' images](/galleries/2026-haphazardpre/). A Live Art takeover of <a href="https://z-arts.org/events/haphazard-2026" target="_blank">Z-arts</a> on Saturday 11 July from 1pm to 4pm. Turn up at any time, come and go as you please… and expect the unexpected!           
 <hr>          
-Atrium<br>**Pascaline Ruhana**          
+Atrium<br>**Shynara Nygmetova & Zixuan Hong** · *The Televerse*         
          
-Got a great idea for our haphazard artwork? Collect a plane from Reception, then fly your idea to Pascaline and watch from the ramp as she brings it to life…           
-           
-Insta <a href="https://instagram.com/niarthene" target="_blank">@niartthene</a>          
-<hr>         
-Roaming<br>**Puppetfingers** · *A Mushroom World*         
+A distant universe made entirely from paper wishes and shaped by you.<br>Send messages through a tube system to the floor below, launch paper planes from the balcony toward a giant target, and hunt for hidden objects across the installation using telescopes and search cards. Every contribution becomes part of the landscape.         
          
-A playful piece exploring re-enchantment through the eyes of a mushroom.<br>The fungi character reflects the vital role of mushrooms and mycelium in nature. In this new performance, the mushroom becomes a connector — linking people, nature, and space through curiosity, presence, and joyful interaction.         
+Tilekxin is an emerging London-based participatory collective founded by Shynara Nygmetova & Zixuan Hong. *The Televerse* continues their ongoing interest in collective authorship, imaginative play and the emotional possibilities of shared physical space.<br>Shynara is a graphic designer from Kazakhstan with a background in visual communication, working across image, language and systems to shape how people understand and experience the world around them.<br>Zixuan is a spatial designer from China whose architectural thinking translates into environments that guide how people move, feel and relate to one another.<br>Together their practice spans participatory installation, community engagement and multimedia work, always placing the audience as collaborator rather than observer.         
          
-Amy Hegarty (Puppetfingers) is a designer, maker, and performer in the outdoor arts world — specialising in costume, puppetry, and community arts. Her work is collaborative and playful. She particularly enjoys the buzz of performing and creating art that communities can engage with.         
-         
-<a href="https://www.puppetfingers.com" target="_blank">puppetfingers.com</a> · Insta <a href="https://instagram.com/puppetfingers" target="_blank">@puppetfingers</a>         
+<a href="https://readymag.website/u426588891/6242129" target="_blank">website</a> · Insta <a href="https://instagram.com/shynara.nb" target="_blank">@shynara.nb</a> <a href="https://instagram.com/kkakoku1" target="_blank">@kkakoku1</a> <a href="https://instagram.com/tilek.xin" target="_blank">@tilek.xin</a>         
 <hr>         
 Roaming<br>**TurnAround Dance Theatre** · *Join The Circus* 
          
