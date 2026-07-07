@@ -27,9 +27,26 @@ Atrium<br>**Shynara Nygmetova & Zixuan Hong** · *The Televerse*
          
 A distant universe made entirely from paper wishes and shaped by you.<br>Send messages through a tube system to the floor below, launch paper planes from the balcony toward a giant target, and hunt for hidden objects across the installation using telescopes and search cards. Every contribution becomes part of the landscape.         
          
-Tilekxin is an emerging London-based participatory collective founded by Shynara Nygmetova & Zixuan Hong. *The Televerse* continues their ongoing interest in collective authorship, imaginative play and the emotional possibilities of shared physical space.<br>Shynara is a graphic designer from Kazakhstan with a background in visual communication, working across image, language and systems to shape how people understand and experience the world around them.<br>Zixuan is a spatial designer from China whose architectural thinking translates into environments that guide how people move, feel and relate to one another.<br>Together their practice spans participatory installation, community engagement and multimedia work, always placing the audience as collaborator rather than observer.         
+Founded by Shynara & Zixuan, Tilekxin is an emerging London-based participatory collective; *The Televerse* continues their ongoing interest in collective authorship, imaginative play, and the emotional possibilities of shared physical space.<br>Shynara is a graphic designer from Kazakhstan with a background in visual communication, working across image, language, and systems to shape how people understand and experience the world around them.<br>Zixuan is a spatial designer from China whose architectural thinking translates into environments that guide how people move, feel, and relate to one another.<br>Together their practice spans participatory installation, community engagement, and multimedia work, always placing the audience as collaborator rather than observer.         
          
 <a href="https://readymag.website/u426588891/6242129" target="_blank">website</a> · Insta <a href="https://instagram.com/shynara.nb" target="_blank">@shynara.nb</a> <a href="https://instagram.com/kkakoku1" target="_blank">@kkakoku1</a> <a href="https://instagram.com/tilek.xin" target="_blank">@tilek.xin</a>         
+<hr>         
+Roaming<br>**Hyde N Seek** · *Hyde N Seek Goes on Holiday*         
+         
+A drag clown trying to be a redcoat. A three-hour shuffled playlist of holiday disco bangers.<br>*Hello! My name is Hyde N Seek — drag clown, monster, and aspiring redcoat — and I am the entertainments team. I'm going to be here all afternoon doing the Cha Cha Slide and the Macarena and YMCA and loads more. I don't know in what order. It's a surprise. Even for me. If you know the dance (and I think you do) you're doing it with me.*         
+         
+Hyde N Seek is the drag persona of PHOBIA, the drag creature of Finch, a regular person who is currently developing their solo show *Mistoffelees, or The Fear of Magic*. Their work focuses on identity, childhood, and what it means to perform.          
+         
+Insta <a href="https://instagram.com/thatcreaturephobia" target="_blank">@thatcreaturephobia</a>         
+<hr>         
+Roaming<br>**Matt Girling** · *Together Heads*         
+         
+Things are always more beautiful and strange when you collaborate with others.<br>A walking sculpture that celebrates the beauty and strange nature of relationships and family bonds — stirring up a contemporary folklore by animating a pot plant gargoyle hiding in the garden of a West Yorkshire dementia home.         
+         
+Matt is an artist, prop maker, and printmaker living and working in NW England, particularly interested in process-based art working, workshop facilitation, and interactive art.          
+         
+<a href="https://mattgirlingartist.tumblr.com" target="_blank">mattgirlingartist.tumblr.com</a> · Insta <a href="https://instagram.com/_pondwater_" target="_blank">@_pondwater_</a>         
+<hr>         
 <hr>         
 Roaming<br>**Hyde N Seek** · *Hyde N Seek Goes on Holiday*         
          
@@ -38,6 +55,17 @@ A drag clown trying to be a redcoat. A three-hour shuffled playlist of holiday d
 Hyde N Seek is the drag persona of PHOBIA, the drag creature of Finch, a regular person who is currently developing their solo show *Mistoffelees, or The Fear of Magic*. Their work focuses on identity, childhood and what it means to perform.          
          
 Insta <a href="https://instagram.com/thatcreaturephobia" target="_blank">@thatcreaturephobia</a>         
+<hr>         
+
+
+
+
+
+
+
+
+
+
 <hr>         
 Café<br>**Aimee Williamson** · *Cloak of Spells*          
          
