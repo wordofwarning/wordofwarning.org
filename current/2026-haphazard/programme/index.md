@@ -57,15 +57,15 @@ Dongting Huang (DongDong) is a Chinese-born, London-based artist and multidiscip
          
 <a href="https://scrapheapcollective.com" target="_blank">scrapheapcollective.com</a> · Insta <a href="https://instagram.com/scrapheapcollective" target="_blank">@scrapheapcollective</a>         
 <hr>                  
-Café<br>**Aimee Williamson** · *Cloak of Spells*          
+Café<br>**Lesya Tyminska** · *Preen*          
          
-Join Aimee, a friendly witch, in her coven — where you can make a magical spell to add to the Cloak of Spells! Then watch a special Broom Dance to cast all the spells out into the world…         
+Flutter into a warped, chaotic world‚ where reality is twisted, and nothing is quite what it seems. In this visceral exploration through movement, unraveling the fragile threads of beauty, perception, and identity. In disturbing the fabric of what's familiar, we dare to imagine a world shaped not by expectation, but by truth.         
          
-Aimee is a Lancashire-based performer, dance artist, and theatre-maker. Her work spans across ballet, contemporary, physical theatre, and puppetry. She creates work for outdoor spaces using inspiration from folklore, nature, and local heritage.         
+Floating between the north and south, Lesya is a multi-disciplinary movement artist with a passion for the weird and wonderful. Rooted in contemporary dance, she brings physical theatre, character work, and (contact) improvisation into her choreographic practice, often exploring socio-political themes through humour. She feels most at home in unconventional spaces, having explored these throughout her freelance career across live performance, film, and musical collaboration. Working now predominantly in community dance‚ a central passion in her practice‚ her recent role at Cheshire Dance allows her to deepen this work alongside a supportive and inspiring organisation.         
          
-<a href="https://rvarts.co.uk/aimee-lily-williamson" target="_blank">rvarts.co.uk/aimee-lily-williamson</a> · Insta <a href="https://instagram.com/aimeelilywilliamson" target="_blank">@aimeelilywilliamson</a>         
+Insta <a href="https://instagram.com/lesya.tym" target="_blank">@lesya.tym</a>         
 <hr>         
-Theatre, occurs three times<br>**Orla Collier** · *Sometimes I hate going for walks in nice places that look nice*          
+Theatre<br>**Orla Collier** · *Sometimes I hate going for walks in nice places that look nice*          
          
 A solo performance piece exploring feelings of pressure and overwhelm.         
          
