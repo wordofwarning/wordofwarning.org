@@ -45,13 +45,13 @@ Things are always more beautiful and strange when you collaborate with others.<b
          
 Matt is an artist, prop maker, and printmaker living and working in NW England, particularly interested in process-based art working, workshop facilitation, and interactive art.          
          
-<a href="https://mattgirlingartist.tumblr.com" target="_blank">mattgirlingartist.tumblr.com</a> · Insta <a href="https://instagram.com/_pondwater_" target="_blank">@_pondwater_</a>         
+<a href="https://mattgirlingartist.tumblr.com" target="_blank">mattgirlingartist.tumblr.com</a> · Insta <a href="https://instagram.com/_pondwater_" target="_blank">@\_pondwater\_</a>         
 <hr>         
 Roaming<br>**Scrapheap Collective** · *One-Meter Chain Reaction*         
          
-A participatory performance that explores how movement and behaviour are transmitted through collective imitation and shifting roles of leading and following. Participants form a loose chain, maintaining spatial distance while responding to and transforming each other's actions as they move through space. The work generates evolving relational structures between bodies, attention, and environment.<br>This iteration continues the work's site-responsive approach through a new spatial and public context.         
+A participatory performance that explores how movement and behaviour are transmitted through collective imitation and shifting roles of leading and following. Participants form a loose chain, maintaining spatial distance while responding to and transforming each other's actions as they move through space. The work generates evolving relational structures between bodies, attention, and environment, and this iteration continues a site-responsive approach through a new spatial and public context.         
          
-Initiated & led by Dongting Huang, working through Scrapheap Collective · Collaborators: Guangyi Shen, Yiwen Zhang         
+Initiated & led by Dongting Huang, working through Scrapheap Collective. Collaborators: Guangyi Shen, Yiwen Zhang         
          
 Dongting Huang (DongDong) is a Chinese-born, London-based artist and multidisciplinary creator working across moving image, performance, installation, and painting. Their practice investigates how perception, participation, and material processes co-produce shifting systems of meaning. Through the use of trace, repetition, and transformation, their work constructs environments in which stability dissolves and form remains in flux. Their practice engages the body as a relational node within dynamic material and sensory systems, where it is continuously shaped through interaction. Increasingly, their work approaches participation as a generative condition, where meaning and form emerge through interactions between human and non-human elements. These processes remain open-ended, unfolding through ongoing involvement, contingency, and transformation.          
          
@@ -79,7 +79,7 @@ Walking in a Straight Line is OUT! Walking in squares or triangles is IN!<br>Do 
          
 Liv is a multi-disciplinary artist studying Contemporary Performance at Manchester School of Theatre. Before moving to the UK, she taught dance and drama to young children. She aspires to create theatre that both inspires creativity and fosters empathy in her audiences.        
          
-<a href="olivialoupe.wixsite.com/liv-loupe" target="_blank">olivialoupe.wixsite.com/liv-loupe</a> · Insta <a href="https://instagram.com/livlooptyloop" target="_blank">@livlooptyloop</a>         
+<a href="https://olivialoupe.wixsite.com/liv-loupe" target="_blank">olivialoupe.wixsite.com/liv-loupe</a> · Insta <a href="https://instagram.com/livlooptyloop" target="_blank">@livlooptyloop</a>         
 <hr>         
 First floor, Playspace<br>**Claire Leith & Lucy Fegan** · *We Once Lived Here*         
          
