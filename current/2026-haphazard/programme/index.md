@@ -89,13 +89,13 @@ Claire is a live artist working with material-led processes to explore memory, h
          
 <a href="https://clairesleith.wixsite.com/claireleith" target="_blank">clairesleith.wixsite.com/claireleith</a> · Insta <a href="https://instagram.com/claire_leith" target="_blank">@claire_leith</a> <a href="https://instagram.com/l.ucyblue" target="_blank">@l.ucyblue</a>         
 <hr>         
-First floor, Artists Studio from 1.30pm<br>**Madame Zucchini** · *Hot Political Potato Gameshow*         
+First floor, Playspace<br>**Lizzy Margereson** · *Becoming Dog*         
          
-*Come and see the veg characters Mme Z has created — could Nigel Cabbage be there? What about Tayto Swift? Do you want to throw potatoes at them in her Veg Shy, reminiscent of fetes with a dash of the horticultural show? Do you want to create your own character to add to the lineup? Feel free to take your creation with you.*         
+*ver wondered what it's like to be a dog? Here's a glimpse into what it might be like. Using sound, smell, and touch, you're invited to step into the shoes of humananity's best friend — what does human language sound like through dog ears? What secret sounds can dogs hear that humans cannot? And how does smell become the strongest sense?<br>Exploring themes of radical empathy and kinship with the animal world, the work asks "what is it like to walk in another animal's shoes?"         
          
-Madame Zucchini entertains with vegetables, and sometimes with fruit. She creates her own veg puppet shows (like Pirates of the Carrotbean with Capn Jack Marrow & Kiwi Knightley), runs veg craft sessions, and even dresses up in various vegetable guises. She has done this at all kinds of events across the UK for around 17 years.         
+Lizzy is a performance artist and maker. She works solo and in collaboration nationally and internationally, creating pieces and experiences that centre audiences of all ages!         
          
-<a href="https://www.madamezucchini.co.uk" target="_blank">madamezucchini.co.uk</a> · Insta <a href="https://instagram.com/madamezucchini" target="_blank">@madamezucchini</a>         
+<a href="https://emargereson.wixsite.com/lizmargereson" target="_blank">emargereson.wixsite.com/lizmargereson</a> · Insta <a href="https://instagram.com/lizzyisaclown" target="_blank">@lizzyisaclown</a>         
 <hr>         
 Image: Miranda Prag (appearing in Haphazard 2026) by Joe Twigg        
 <small><span style='font-variant: small-caps'>[back to top](/current/2026-haphazard/programme)</span></small>
