@@ -97,5 +97,13 @@ Lizzy is a performance artist and maker. She works solo and in collaboration nat
          
 <a href="https://emargereson.wixsite.com/lizmargereson" target="_blank">emargereson.wixsite.com/lizmargereson</a> · Insta <a href="https://instagram.com/lizzyisaclown" target="_blank">@lizzyisaclown</a>         
 <hr>         
+First floor, Artists Studio<br>**Miranda Prag** · *The Time Machine*         
+         
+*ver wondered what it's like to be a dog? Here's a glimpse into what it might be like. Using sound, smell, and touch, you're invited to step into the shoes of humananity's best friend — what does human language sound like through dog ears? What secret sounds can dogs hear that humans cannot? And how does smell become the strongest sense?<br>Exploring themes of radical empathy and kinship with the animal world, the work asks "what is it like to walk in another animal's shoes?"         
+         
+Lizzy is a performance artist and maker. She works solo and in collaboration nationally and internationally, creating pieces and experiences that centre audiences of all ages!         
+         
+<a href="https://mirandaprag.co.uk" target="_blank">mirandaprag.co.uk</a> · Insta <a href="https://instagram.com/miranda_praaaaaagh" target="_blank">@miranda_praaaaaagh</a>         
+<hr>         
 Image: Miranda Prag (appearing in Haphazard 2026) by Joe Twigg        
 <small><span style='font-variant: small-caps'>[back to top](/current/2026-haphazard/programme)</span></small>
