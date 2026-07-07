@@ -47,26 +47,16 @@ Matt is an artist, prop maker, and printmaker living and working in NW England, 
          
 <a href="https://mattgirlingartist.tumblr.com" target="_blank">mattgirlingartist.tumblr.com</a> · Insta <a href="https://instagram.com/_pondwater_" target="_blank">@_pondwater_</a>         
 <hr>         
-<hr>         
-Roaming<br>**Hyde N Seek** · *Hyde N Seek Goes on Holiday*         
+Roaming<br>**Scrapheap Collective** · *One-Meter Chain Reaction*         
          
-A drag clown trying to be a redcoat. A three-hour shuffled playlist of holiday disco bangers.<br>*Hello! My name is Hyde N Seek — drag clown, monster, and aspiring redcoat — and I am the entertainments team. I'm going to be here all afternoon doing the *Cha Cha Slide* and the *Macarena* and *YMCA* and loads more. I don't know in what order. It's a surprise. Even for me. If you know the dance (and I think you do) you're doing it with me.*         
+A participatory performance that explores how movement and behaviour are transmitted through collective imitation and shifting roles of leading and following. Participants form a loose chain, maintaining spatial distance while responding to and transforming each other's actions as they move through space. The work generates evolving relational structures between bodies, attention, and environment.<br>This iteration continues the work's site-responsive approach through a new spatial and public context.         
          
-Hyde N Seek is the drag persona of PHOBIA, the drag creature of Finch, a regular person who is currently developing their solo show *Mistoffelees, or The Fear of Magic*. Their work focuses on identity, childhood and what it means to perform.          
+Initiated & led by Dongting Huang, working through Scrapheap Collective · Collaborators: Guangyi Shen, Yiwen Zhang         
          
-Insta <a href="https://instagram.com/thatcreaturephobia" target="_blank">@thatcreaturephobia</a>         
-<hr>         
-
-
-
-
-
-
-
-
-
-
-<hr>         
+Dongting Huang (DongDong) is a Chinese-born, London-based artist and multidisciplinary creator working across moving image, performance, installation, and painting. Their practice investigates how perception, participation, and material processes co-produce shifting systems of meaning. Through the use of trace, repetition, and transformation, their work constructs environments in which stability dissolves and form remains in flux. Their practice engages the body as a relational node within dynamic material and sensory systems, where it is continuously shaped through interaction. Increasingly, their work approaches participation as a generative condition, where meaning and form emerge through interactions between human and non-human elements. These processes remain open-ended, unfolding through ongoing involvement, contingency, and transformation.          
+         
+<a href="https://scrapheapcollective.com" target="_blank">scrapheapcollective.com</a> · Insta <a href="https://instagram.com/scrapheapcollective" target="_blank">@scrapheapcollective</a>         
+<hr>                  
 Café<br>**Aimee Williamson** · *Cloak of Spells*          
          
 Join Aimee, a friendly witch, in her coven — where you can make a magical spell to add to the Cloak of Spells! Then watch a special Broom Dance to cast all the spells out into the world…         
