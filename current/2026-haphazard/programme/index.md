@@ -65,15 +65,13 @@ Floating between the north and south, Lesya is a multi-disciplinary movement art
          
 Insta <a href="https://instagram.com/lesya.tym" target="_blank">@lesya.tym</a>         
 <hr>         
-Theatre<br>**Orla Collier** · *Sometimes I hate going for walks in nice places that look nice*          
+Theatre<br>**In Between Time** · *We Are Warriors*          
          
-A solo performance piece exploring feelings of pressure and overwhelm.         
+Described as 'a wonderground', this is an immersive sound and light installation that creates glowing constellations of voice, memory, and light. A layered soundscape of whispers, breaths, sighs and lullabies surround the audience. Created with 130 women, girls, non-binary and trans femmes, the work explores visibility, resilience, and how much stronger we are when we come together. You're invited to move freely through the space, adding your own light to the installation. A participatory experience that calls for a fairer, safer world through shared presence and testimony.         
          
-Created & performed by Orla Collier. Music by Lee Affen. Commissioned & supported by <a href="https://www.theknottedproject.co.uk" target="_blank">The Knotted Project</a>         
-          
-Orla is a Leeds-based freelance dance & physical theatre artist from Cumbria. She trained at Rambert School & NSCD, and now works as a performer, teacher, and choreographer. Orla is inspired by the capacity that dance and theatre has for emotional expression, and how it allows experiences to be explored in both real and absurd ways.         
+Helen Cole is old and has worked really hard and just wants to work with nice people now. She creates large-scale, immersive, and socially engaged artworks that sit at the intersection of performance, installation, sound, and participatory practice. Her work often transforms unusual or overlooked spaces‚ such as caves, tunnels, forests, streets, and civic buildings, into sensory environments that audiences physically enter and experience from within. These works typically combine soundscapes, light, testimony, and live or participatory elements, inviting audiences not just to watch but to move through, contribute to, and shape the experience. A consistent focus in her practice is voice and visibility, particularly amplifying experiences that are often underrepresented or unheard, and creating collective, public-facing works that explore equity, care, and transformation.         
          
-<a href="https://www.orlacollier.com" target="_blank">orlacollier.com</a> · Insta <a href="https://instagram.com/orla.collier" target="_blank">@orla.collier</a>         
+<a href="https://inbetweentime.co.uk" target="_blank">inbetweentime.co.uk</a> · Insta <a href="https://instagram.com/inbetweentime" target="_blank">@inbetweentime</a>         
 <hr>         
 Theatre, occurs three times<br>**TurnAround Dance Theatre** with **Aimee Williamson** · *Join The Circus*         
          
