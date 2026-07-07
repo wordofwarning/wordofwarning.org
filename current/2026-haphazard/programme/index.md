@@ -31,14 +31,13 @@ Tilekxin is an emerging London-based participatory collective founded by Shynara
          
 <a href="https://readymag.website/u426588891/6242129" target="_blank">website</a> · Insta <a href="https://instagram.com/shynara.nb" target="_blank">@shynara.nb</a> <a href="https://instagram.com/kkakoku1" target="_blank">@kkakoku1</a> <a href="https://instagram.com/tilek.xin" target="_blank">@tilek.xin</a>         
 <hr>         
-Roaming<br>**TurnAround Dance Theatre** · *Join The Circus* 
+Roaming<br>**Hyde N Seek** · *Hyde N Seek Goes on Holiday*         
          
-*Roll up, Roll up! Meet Boingabella, the bounciest, springiest stilt walker in town!*<br>
-Dressed as a dazzling circus tent, she'll whisk you away on a high-flying adventure. Hunt for hidden circus clues‚ each unlocking a playful dance challenge. A joyful, interactive experience for all ages — circus adventure you won't want to miss!         
+A drag clown trying to be a redcoat. A three-hour shuffled playlist of holiday disco bangers.<br>*Hello! My name is Hyde N Seek — drag clown, monster, and aspiring redcoat — and I am the entertainments team. I'm going to be here all afternoon doing the *Cha Cha Slide* and the *Macarena* and *YMCA* and loads more. I don't know in what order. It's a surprise. Even for me. If you know the dance (and I think you do) you're doing it with me.*         
          
-Ellen Turner is a Yorkshire-based stilt, film, and dance artist. She founded TurnAround Dance Theatre in 2013, creating family-friendly circus and walkabout acts. Ellen's career began with Ludus Dance, touring works by Nigel Charnock, Yael Flexer, and Ben Wright. Her solo debut [*Car-Door Moment*](/archive/2013-worksahead/turner) won the Turn Prize 2012. She continues to tour, lead workshops, and has recently secured funding to develop work for early years, family audiences, and explore new theatrical styles like clowning, to enrich her performances.          
+Hyde N Seek is the drag persona of PHOBIA, the drag creature of Finch, a regular person who is currently developing their solo show *Mistoffelees, or The Fear of Magic*. Their work focuses on identity, childhood and what it means to perform.          
          
-<a href="https://www.turnarounddancetheatre.co.uk" target="_blank">turnarounddancetheatre.co.uk</a> · Insta <a href="https://instagram.com/turnarounddance" target="_blank">@turnarounddance</a>         
+Insta <a href="https://instagram.com/thatcreaturephobia" target="_blank">@thatcreaturephobia</a>         
 <hr>         
 Café<br>**Aimee Williamson** · *Cloak of Spells*          
          
