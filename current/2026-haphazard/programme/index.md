@@ -22,6 +22,8 @@ season: "Haphazard 11|7|2026, Programme"
 *Presented by* Word of Warning *+* Z-arts        
          
 [Haphazard 2026](/current/2026-haphazard) is a free afternoon for the curious of all ages — see our [artists' images](/galleries/2026-haphazardpre/). A Live Art takeover of <a href="https://z-arts.org/events/haphazard-2026" target="_blank">Z-arts</a> on Saturday 11 July from 1pm to 4pm. Turn up at any time, come and go as you please… and expect the unexpected!           
+         
+Content Warnings: some works involve interaction and/or participation; specific warnings listed [here](/warnings).         
 <hr>          
 Atrium<br>**Shynara Nygmetova & Zixuan Hong** · *The Televerse*         
          
