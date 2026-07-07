@@ -73,23 +73,13 @@ Helen Cole is old and has worked really hard and just wants to work with nice pe
          
 <a href="https://inbetweentime.co.uk" target="_blank">inbetweentime.co.uk</a> · Insta <a href="https://instagram.com/inbetweentime" target="_blank">@inbetweentime</a>         
 <hr>         
-Theatre, occurs three times<br>**TurnAround Dance Theatre** with **Aimee Williamson** · *Join The Circus*         
+First floor, Activity Space<br>**Liv Loupe** · *What Shape is Your Gait?*         
          
-Join BoingaBella as you look up to the sky… and spot Aimee the Air Witch, flying high and weaving magic mid-air with the mysterious Cloak of Spells aerial act. Together, they bring a sparkling mix of circus fun, folklore, and spellbinding surprises! Unlock the magic and become part of the show!         
+Walking in a Straight Line is OUT! Walking in squares or triangles is IN!<br>Do you wish you could twirl your way from one place to another. Or hop from cobblestone to cobblestone? You're not alone. There isn't just one way to walk, there are hundreds! Maybe thousands! Come explore new and fun ways to get from Point A to Point B. The only limits are your own imagination.         
          
-TurnAround Dance Theatre is thrilled to be collaborating with aerialist Aimee Williamson — read more about them in earlier entries.        
-<hr>         
-Theatre, occurs three times<br>**Shannon Mulvey** · *FRANKENDIVA!*         
+Liv is a multi-disciplinary artist studying Contemporary Performance at Manchester School of Theatre. Before moving to the UK, she taught dance and drama to young children. She aspires to create theatre that both inspires creativity and fosters empathy in her audiences.        
          
-A glorious, glitter-soaked monster of a show, *FRANKENDIVA!* is stomping back — bigger, bolder, and even more unapologetically fabulous. 💥🧷💋         
-         
-Part pop party, part power anthem, this high-energy, interactive performance is inspired by Frankenstein — but instead of creating a monster, we're building a DIVA. With the help of the audience, piece by piece, she comes to life in all her fierce, messy glory. Expect iconic pop, franken-glam aesthetics, and a wild celebration of individuality, empowerment, and rejecting society's expectations.        
-
-**At 3.30pm**, join us for the *FRANKENDIVA! DISCO* — a full-throttle, all-in, stomp-it-out dance party where everyone gets up to unleash their inner diva. 💃⚡️ Let's build a diva. Together. One stomp at a time. 💄🩹         
-         
-Shannon is a performer & lecturer with extensive national and international experience. As a solo artist, she has performed with FC Bergman at the Barbican Theatre, Trapdoor Theatre in Chicago, Gardzienice Theatre in Poland, and the Almeida Theatre. Television credits include appearances on BBC, ITV, and Channel 5.         
-         
-<a href="https://www.shannonmulvey.com" target="_blank">shannonmulvey.com</a> · Insta <a href="https://instagram.com/smperformanceart" target="_blank">@smperformanceart</a>         
+<a href="olivialoupe.wixsite.com/liv-loupe" target="_blank">olivialoupe.wixsite.com/liv-loupe</a> · Insta <a href="https://instagram.com/livlooptyloop" target="_blank">@livlooptyloop</a>         
 <hr>         
 First floor, Activity Space<br>**the institute for crazy dancing** · *FRAGILE. One way to wonderment…*         
          
