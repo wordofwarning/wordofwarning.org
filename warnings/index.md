@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 1 July 2026<small>        
+<small>Updated 7 July 2026<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>(Please click [here](/archive/warnings) for *past* events and *archived* livestreams on our YouTube channel.)         
          
@@ -21,7 +21,7 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 #### 2026         
          
 ##### [11 Jul. Z-arts | Haphazard 2026](/current/2026-haphazard)          
-Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction and/or participation; specific warnings follow…<br>&nbsp;Hyde N Seek — *to be confirmed*.<br>&nbsp;Lesya Tyminska — *tbc*.<br>&nbsp;Lizzy Margereson — based upon sensory experience, headphones must be worn.<br>&nbsp;Matt Girling — *tbc*.<br>&nbsp;Scrapheap Collective — involves guided physical movement and participation within a group including walking, imitation, and interacting with the surrounding space and surfaces such as floors or walls. You're free to leave the action at any time.        
+Age Advisory: suitable for all ages (parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction and/or participation; specific warnings follow…<br>&nbsp;Hyde N Seek — clown imagery may trigger coulrophobia; optional audience participation.<br>&nbsp;In Between Time — under 16s must be accompanied by an adult and use of batteries must be supervised; low light levels upon entry, please allow your eyes time to adjust; sound levels vary, ear plugs and defenders available.<br>&nbsp;Lesya Tyminska — *to be confirmed*.<br>&nbsp;Liv Loupe — optional audience participation.<br>&nbsp;Lizzy Margereson — based upon sensory experience, headphones must be worn.<br>&nbsp;Matt Girling — use of large scale puppets that may frighten.<br>&nbsp;Miranda Prag — optional audience participation and gentle interactions.<br>&nbsp;Scrapheap Collective — involves guided physical movement and participation within a group including walking, imitation, and interacting with the surrounding space and surfaces such as floors or walls. You're free to leave the action at any time.<br>&nbsp;Shynara Nygmetova & Zixuan Hong — optional audience participation, under 16s must be accompanied by an adult.        
          
 ##### [26 Sep. Contact | Emergency 26](/current/2026-emergency)          
 Age Advisory: typically 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings to follow *about* a fortnight before…         
