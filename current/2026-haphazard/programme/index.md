@@ -91,7 +91,7 @@ Claire is a live artist working with material-led processes to explore memory, h
 <hr>         
 First floor, Playspace<br>**Lizzy Margereson** · *Becoming Dog*         
          
-*ver wondered what it's like to be a dog? Here's a glimpse into what it might be like. Using sound, smell, and touch, you're invited to step into the shoes of humananity's best friend — what does human language sound like through dog ears? What secret sounds can dogs hear that humans cannot? And how does smell become the strongest sense?<br>Exploring themes of radical empathy and kinship with the animal world, the work asks "what is it like to walk in another animal's shoes?"         
+Ever wondered what it's like to be a dog? Here's a glimpse into what it might be like. Using sound, smell, and touch, you're invited to step into the shoes of humananity's best friend — what does human language sound like through dog ears? What secret sounds can dogs hear that humans cannot? And how does smell become the strongest sense?<br>Exploring themes of radical empathy and kinship with the animal world, the work asks "what is it like to walk in another animal's shoes?"         
          
 Lizzy is a performance artist and maker. She works solo and in collaboration nationally and internationally, creating pieces and experiences that centre audiences of all ages!         
          
@@ -99,9 +99,11 @@ Lizzy is a performance artist and maker. She works solo and in collaboration nat
 <hr>         
 First floor, Artists Studio<br>**Miranda Prag** · *The Time Machine*         
          
-*ver wondered what it's like to be a dog? Here's a glimpse into what it might be like. Using sound, smell, and touch, you're invited to step into the shoes of humananity's best friend — what does human language sound like through dog ears? What secret sounds can dogs hear that humans cannot? And how does smell become the strongest sense?<br>Exploring themes of radical empathy and kinship with the animal world, the work asks "what is it like to walk in another animal's shoes?"         
+Do you ever wish you could speed up time, slow it down, or escape the clock altogether? Join the mysterious Cosmic Witch as she deconstructs and rebuilds her own perception of time — and yours! — one piece at a time. When the machine is complete, stay and watch the magic happen. A playful, surreal, and surprising exploration of time and the way it shapes our lives, and an invitation to see time differently.         
          
-Lizzy is a performance artist and maker. She works solo and in collaboration nationally and internationally, creating pieces and experiences that centre audiences of all ages!         
+Designed and built in collaboration with Tom Mills. Originally supported using public funding by the National Lottery through Arts Council England.         
+         
+Miranda is a theatre maker, artist, performer, and boat dweller based in Lancashire. She makes multidisciplinary performance that has been presented nationally and internationally. Her work looks at big themes on a minute scale, unpacking the building blocks of everyday life and questioning concepts that are often taken for granted. Her shows are funny, surreal, and often unexpected.         
          
 <a href="https://mirandaprag.co.uk" target="_blank">mirandaprag.co.uk</a> · Insta <a href="https://instagram.com/miranda_praaaaaagh" target="_blank">@miranda_praaaaaagh</a>         
 <hr>         
