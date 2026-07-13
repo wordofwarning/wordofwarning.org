@@ -8,9 +8,9 @@ artist_size: 1
 season: "Performance Programme 2026"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2026/#about) · [what](/current/2026/#what) · [by](/current/2026/#by) · [people](/current/2026/#people) · [warnings](/current/2026/#warnings)</span>&ensp; <small>Updated 30 June 2026</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2026/#about) · [what](/current/2026/#what) · [by](/current/2026/#by) · [people](/current/2026/#people) · [warnings](/current/2026/#warnings)</span>&ensp; <small>Updated 13 July 2026</small>        
          
-*The year continues with [Haphazard](/current/2026-haphazard)'s all ages antics, [Emergency](/current/2026-emergency)'s day out for the curious, and an autumnal [Social Experiment](/socialexperiment) — we began with [Victoria Melody](/current/2026/melody)'s testament to people power, [Turn](/current/2026-turn)'s whirlwind of dance, [Harry Clayton-Wright](/current/2026/clayton-wright)'s theatrical extravaganza, [n:u (melissandre varin)](/current/2026-worksahead/nu)'s performance-ritual, and [Nathan Birkinshaw](/current/2026-worksahead/birkinshaw)'s exploration of contentment…*          
+*The year continues with [Emergency](/current/2026-emergency)'s day out for the curious and an autumnal [Social Experiment](/socialexperiment) — we began with [Victoria Melody](/current/2026/melody)'s testament to people power, [Turn](/current/2026-turn)'s whirlwind of dance, [Harry Clayton-Wright](/current/2026/clayton-wright)'s theatrical extravaganza, [n:u (melissandre varin)](/current/2026-worksahead/nu)'s performance-ritual, [Nathan Birkinshaw](/current/2026-worksahead/birkinshaw)'s exploration of contentment, and [Haphazard](/current/2026-haphazard)'s all ages antics…*          
           
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
@@ -21,7 +21,7 @@ Discover what happened last year in our [2025 archive](/archive/2025) — and <a
         
 #### About         
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful, and the bizarre of new live performance — an attempt to keep alive the best of greenroom's 25-year legacy, and to also introduce new people to the possibilities of seeing live work in Manchester + beyond, including online…          
->*If you haven't attended one of these performance evenings yet, <a href="https://thelowry.com/wtf-wednesday-m2wx" target="_blank">WTF</a> are you doing? Go and see the stimulating new work that's out there!*<br>&nbsp;— <a href="http://number9reviews.blogspot.com/2019/11/theatre-review-tom-cassani-i-promise.html" target="_blank">Number 9 Reviews (Nov 2019)</a> on <a href="https://thelowry.com/wtf-wednesday-m2wx" target="_blank">WTF Wednesdays with Lowry</a>         
+>*If you haven't attended one of these performance evenings yet, WTF are you doing? Go and see the stimulating new work that's out there!*<br>&nbsp;— <a href="http://number9reviews.blogspot.com/2019/11/theatre-review-tom-cassani-i-promise.html" target="_blank">Number 9 Reviews (Nov 2019)</a> on WTF Wednesdays with Lowry         
       
 We take live work very seriously — but we don't take ourselves seriously at all. Over the past fourteen or so years we've shown funny, thought-provoking, and beautiful work by the likes of Action Hero, Avital Raz, Chanje Kunda, Cheryl Martin, Darren Pritchard, Deborah Pearson, ELOINA, Fabíola Santana, FK Alexander, Harry Clayton-Wright, Hetain Patel, Jo Bannon, Kim Noble, Malandra Jacks, Mark Thomas, Michael Pinchbeck, Proto-type Theater, Richard DeDomenici, Ron Athey, WilL Dickie, Stacy Makishi, Two Destination Language, Uncurbed Collective, and Victoria Melody (amongst others).         
 <small><span style='font-variant: small-caps'>[back to top](/current/2026)</span></small>         
