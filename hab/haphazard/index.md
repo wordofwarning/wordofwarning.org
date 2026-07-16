@@ -16,7 +16,7 @@ season: "Haphazard by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---         
-<small>Updated 13 July 2026</small>        
+<small>Updated 16 July 2026</small>        
         
 **Haphazard** is our frequent foray into 'all ages' Live Art, with intriguing images and offbeat oddities dotted around and about Hulme's historic <a href="https://z-arts.org/about-us" target="_blank">Z-arts</a> building.        
          
@@ -24,7 +24,7 @@ Playful, quirky, engaging, and sometimes plain daft: this is Live Art for kids a
 
 **[Haphazard 2026](/current/2026-haphazard)** was our ninth free Live Art takeover of <a href="https://www.z-arts.org/events/haphazard-2026" target="_blank">Z-arts</a>, presenting ten works on **Saturday 11 July from 1pm to 4pm** — you could turn up at any time, come and go as you please… and expect the unexpected!        
          
-Get a feel for it with some of our [artists' images](/galleries/2026-haphazardpre), also watch our <a href="https://youtu.be/sgw9SjPdCw0" target="_blank">short video</a> to see some of what's gone before.         
+Get a feel for it with some of our [artists' images](/galleries/2026-haphazardpre), also watch our <a href="https://youtu.be/sgw9SjPdCw0" target="_blank">short video</a> to see some of what's gone before — now it's over, see [images from the event](/galleries/2026-haphazard).         
          
 Haphazard 2026 presented by [Word of Warning](/) + <a href="https://z-arts.org" target="_blank">Z-arts</a>; produced by [hÅb](/hab) with <a href="https://z-arts.org" target="_blank">Z-arts</a>; supported using public funding by Arts Council England, and by Manchester City Council and Greater Manchester Combined Authority.         
           
