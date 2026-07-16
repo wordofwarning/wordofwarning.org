@@ -15,13 +15,13 @@ season: "Haphazard 11|7|2026"
 # show_size # optional - size of show name 2-5. Default is 2. Set longer names to lower values
 # header_image: "header.jpg" # optional custom background image, relative to current page
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-haphazard/#artists) · [programme](/current/2026-haphazard/programme) · [entry](/current/2026-haphazard/#entry) · [access](/current/2026-haphazard/#access) · [about](/current/2026-haphazard/#about) · [credits](/current/2026-haphazard/#credits)</span>&ensp; <small>Updated 7 July 2026</small>        
+<span style='font-variant: small-caps'>→ [artists](/current/2026-haphazard/#artists) · [programme](/current/2026-haphazard/programme) · [entry](/current/2026-haphazard/#entry) · [access](/current/2026-haphazard/#access) · [about](/current/2026-haphazard/#about) · [credits](/current/2026-haphazard/#credits)</span>&ensp; <small>Updated 16 July 2026</small>        
         
 *Presented by* Word of Warning *+* Z-arts           
          
 Playful, quirky, engaging, and sometimes plain daft: Haphazard is for kids and their adults, adults and *their* adults — anyone looking for a different day out!         
           
-From whispered constellations to dissolving homes, paper wishes to impossible time machines, and holiday camp clowning to becoming a dog – a haphazard exploration of how we move through the world together.<br>Have a look at some of our [artists' images](/galleries/2026-haphazardpre) and read their [programme notes](/current/2026-haphazard/programme).         
+From whispered constellations to dissolving homes, paper wishes to impossible time machines, and holiday camp clowning to becoming a dog — a haphazard exploration of how we move through the world together.<br>Have a look at some of our [artists' images](/galleries/2026-haphazardpre) and read their [programme notes](/current/2026-haphazard/programme) — now it's over, see [images from the event](/galleries/2026-haphazard).         
          
 A free Live Art takeover of <a href="https://z-arts.org/events/haphazard-2026" target="_blank">Z-arts</a> **on Saturday 11 July from 1pm to 4pm**. Turn up at any time, come and go as you please… and expect the unexpected!         
          
