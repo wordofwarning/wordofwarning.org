@@ -22,8 +22,8 @@ gallery:
     -   {file: "Lesya Tyminska2.jpg", artist: "Lesya Tyminska"}
     -   {file: "Liv Loupe1.jpg", artist: "Liv Loupe"}
     -   {file: "Liv Loupe2.jpg", artist: "Liv Loupe"}
-    -   {file: "Lizzy Margerson1.jpg", artist: "Lizzy Margerson"}
-    -   {file: "Lizzy Margerson2.jpg", artist: "Lizzy Margerson"}
+    -   {file: "Lizzy Margereson1.jpg", artist: "Lizzy Margereson"}
+    -   {file: "Lizzy Margereson2.jpg", artist: "Lizzy Margereson"}
     -   {file: "Matt Girling1.jpg", artist: "Matt Girling"}
     -   {file: "Matt Girling2.jpg", artist: "Matt Girling"}
     -   {file: "Matt Girling3.jpg", artist: "Matt Girling & Lesya Tyminska"}
