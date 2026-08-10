@@ -17,7 +17,7 @@ season: "Emergency 26|9|2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-emergency/#artists) · [entry](/current/2026-emergency/#entry) · [access](/current/2026-emergency/#access) · [about](/current/2026-emergency/#about) · [credits](/current/2026-emergency/#credits)</span>&ensp; <small>Updated&nbsp;30&nbsp;June&nbsp;2026</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2026-emergency/#artists) · [entry](/current/2026-emergency/#entry) · [access](/current/2026-emergency/#access) · [about](/current/2026-emergency/#about) · [credits](/current/2026-emergency/#credits)</span>&ensp; <small>Updated&nbsp;10&nbsp;August&nbsp;2026</small>         
          
 *Presented by* Word of Warning *+* Contact        
         
@@ -26,7 +26,7 @@ Manchester's 26th micro-marathon of the bizarre, the bold, and the beautiful tak
 Get a feel for it with [2025's programme](/archive/2025-emergency/#artists) and [gallery of images](/galleries/2025-emergency).         
          
 #### Artists         
-*Participating artists will be announced during August — for details on how to apply please visit <a href="https://emergencymcr.posthaven.com" target="_blank">emergencymcr.posthaven.com</a>*        
+*Participating artists will be announced at the end of August — please note the <a href="https://emergencymcr.posthaven.com" target="_blank">call for proposals</a> has now closed.*        
           
 #### Entry         
 Pay What You Decide: there's no ticketing, just turn up & donate by cash/card.         
