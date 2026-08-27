@@ -21,17 +21,13 @@ season: "Egan & Pinchbeck 4|11|2026, 8pm"
          
 *Presented by* <a href="https://thelowry.com/whats-on/matchstalks-remastered-ntcv" target="_blank">Lowry</a> + Word of Warning          
          
-A tongue-in-cheek theatrical extravaganza, *Mr Blackpool* is an end of the pier show at the end of the world from multi-award winning theatre maker Harry eganpinchbeck…      
+This is a show about a song about a painter performed to the score of the song.        
          
-<iframe width="352" height="198" src="https://www.youtube.com/embed/MIGVKJFqFsI?si=6els6HOovTEvP1bJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>          
+A playful and inventive music-theatre performance inspired by *Matchstalk Men and Matchstalk Cats and Dogs*, the 1978 hit written about the artist L. S. Lowry by folk-pop duo Brian and Michael. Two performers, joined by a live jazz musician and a record player, attempt to keep pace with a relentlessly scrolling animated score that dictates their every move in this farcical re-telling of 'Lowry's Song'. As they follow its instructions, they weave together compelling stories, machine-like movement, and slapstick humour. Transforming into different characters, they shift between performers, songwriters, Mr Lowry, and the figures in his paintings.          
+         
+Remastering the biographies of Lowry and the band, Egan & Pinchbeck translate the song's verse-and-chorus structure into a series of theatrical scenes exploring identity, memory, and how artists process the world around them. The production follows the needle of the record player and Lowry's footsteps around Manchester to ask how painting becomes music, music becomes theatre, and people become performers. To commemorate the 50th anniversary of Lowry's death, *Matchstalks Remastered* reimagines his evocative landscapes through a musical score, reflecting on their continuing relevance to contemporary debates around community, creativity, and place.         
           
-<br>Set in the not too distant future against the decimated backdrop of climate collapse or late stage capitalism — you decide, could be both — four Blackpool performers embed the history of 'end of the pier' entertainment into a series of turns inspired by their lives and stories, the town's history, and modern politics. Through cabaret, magic, dance, and drag, this is cultural archaeology and satire at its campiest, presented in lurid technicolor and garish seaside spectacle.          
-         
-Remember your first time being led astray by a Liza Minnelli tribute act? Thought not. Been rugby tackled by stag and hen parties whilst dressed in a mascot costume on Blackpool's Golden Mile? Perhaps you just had a paper round? These are quotidian tales in the life of a Blackpool entertainer serving as inspiration for this bold new work.         
-             
-But who is this haunted impresario leading you through the night? What's beyond the feathers and rhinestones? The smiles covered in petroleum jelly? The sparkle and shine of the seafront? Don't worry about that, you're on holiday. The evening awaits you with *Mr Blackpool*.         
-
-Part of <a href="https://thelowry.com/whats-on/autumn-contemporary-season" target="_blank">Lowry's Autumn Contemporary Season</a>.
+Part of <a href="https://thelowry.com/whats-on/autumn-contemporary-season" target="_blank">Lowry's Autumn Contemporary Season</a>.         
           
 #### Entry          
 Pay What You Can: £15/£10/£5/£2 (advance booking recommended).        
@@ -47,7 +43,7 @@ Age Advisory: 12+ (parent/guardian/carer discretion).
          
 Content Warnings: please click [here](/warnings).          
         
-Features: a contemporary cabaret/performance work with varied content including spoken English, dance/movement and magic; occurs in the Quays Theatre on the ground floor, an auditorium with stalls seating.         
+Features: a contemporary performance work with varied content including spoken English, music, and projected visuals; occurs in Aldridge Studio 1 on the second floor, a studio space with raked seating.         
          
 Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">Lowry</a> on 0161 876 2183 or <mailto:access@thelowry.com>         
          
