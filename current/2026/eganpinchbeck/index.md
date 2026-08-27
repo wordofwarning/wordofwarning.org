@@ -8,7 +8,7 @@ artist: "Egan & Pinchbeck" # the name of the artist or company
 show: "Matchstalks Remastered" # the name of the show
 artist_size: 2
 show_size: 3
-header_image: "header_mr.jpg"
+header_image: "header_ep.jpg"
 season: "Egan & Pinchbeck 4|11|2026, 8pm"
 
 # ABOUT THE SHOW - LAYOUT
