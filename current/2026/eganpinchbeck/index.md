@@ -53,11 +53,11 @@ Information to follow…
 #### Credits         
 Devisers & performers: Kevin Egan & Michael Pinchbeck<br>Animator: Becca Horswill<br>Dramaturg: Ollie Smith<br>Musician: Adam Fairhall<br>Video: North West Film Archive at Manchester Metropolitan University.         
           
-Supported by hÅb, Manchester School of Art, the Performance Research Group, and the School of English at Manchester Metropolitan University.         
+Supported by [hÅb](/hab), Manchester School of Art, the Performance Research Group, and the School of English at Manchester Metropolitan University.         
           
 Image created by Michael Pinchbeck & Kevin Egan, outside of Manchester School of Art, Manchester Metropolitan University. Photographer: Ollie Smith. Design: Kevin Egan.         
          
 #### Websites         
-<a href="https://" target="_blank">web</a> · <a href="https://" target="_blank">web</a><br>Insta&nbsp;<a href="https://instagram.com/" target="_blank">@</a> · <a href="https://instagram.com/" target="_blank">@</a> · <a href="https://instagram.com/" target="_blank">@</a>          
+<a href="https://" target="_blank">web</a> · <a href="https://" target="_blank">web</a><br>Insta&nbsp;<a href="https://instagram.com/k.s.egan" target="_blank">@k.s.egan</a> · <a href="https://instagram.com/mdpinchbeck" target="_blank">@mdpinchbeck</a> · <a href="https://instagram.com/mcrschart" target="_blank">@mcrschart</a> · <a href="https://instagram.com/mcrschart_prg" target="_blank">@mcrschart_prg</a> · <a href="https://instagram.com/english_manmetuni" target="_blank">@english_manmetuni</a>          
          
 <small><span style='font-variant: small-caps'>[back to top](/current/2026/eganpinchbeck)</span></small>
