@@ -17,7 +17,7 @@ season: "Egan & Pinchbeck 4|11|2026, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2026/eganpinchbeck/#entry) · [access](/current/2026/eganpinchbeck/#access) · [artist](/current/2026/eganpinchbeck/#artist) · [credits](/current/2026/eganpinchbeck/#credits) · [websites](/current/2026/eganpinchbeck/#websites)</span>&ensp; <small>Updated 27 August 2026</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2026/eganpinchbeck/#entry) · [access](/current/2026/eganpinchbeck/#access) · [artists](/current/2026/eganpinchbeck/#artists) · [credits](/current/2026/eganpinchbeck/#credits) · [websites](/current/2026/eganpinchbeck/#websites)</span>&ensp; <small>Updated 27 August 2026</small>        
          
 *Presented by* <a href="https://thelowry.com/whats-on/matchstalks-remastered-ntcv" target="_blank">Lowry</a> + Word of Warning          
          
@@ -43,32 +43,21 @@ Age Advisory: 12+ (parent/guardian/carer discretion).
          
 Content Warnings: please click [here](/warnings).          
         
-Features: a contemporary performance work with varied content including spoken English, music, and projected visuals; occurs in Aldridge Studio 1 on the second floor, a studio space with raked seating.         
+Features: a contemporary performance work with varied content including spoken English, music, and projected animations; occurs in Aldridge Studio 1 on the second floor, a studio space with raked seating.         
          
 Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">Lowry</a> on 0161 876 2183 or <mailto:access@thelowry.com>         
          
-#### Artist        
-Harry is a critically acclaimed performance artist and award-winning theatre-maker and director from Blackpool with multiple international tours under his belt. He has worked with cabaret and circus ensembles, presented and produced theatre shows, created short films, published zines, crafted durational performances, and been a commissioned artist on LGBTQ+ heritage projects across the country. Harry has been an Associate Artist with Marlborough Productions since 2016 and was named one of British Council's Artists to Watch in 2019. *Sex Education*, his debut solo theatre show, won a Brighton Fringe award, was nominated for a Total Theatre award at the Edinburgh Fringe, toured the UK (including [Lowry with Word of Warning](/archive/2020-spring/eganpinchbeck)), and was part of the 2020 Sydney Mardi Gras programme.          
-         
-Harry made a small cameo appearance as Gaëtan Dugas (1952-1984), the man incorrectly named as ‘Patient Zero’, in the Channel 4 award-winning drama *It's a Sin* (2021). At the helm as Creative Director, he launched Queer Amusements in 2024, a brand new multi-artform festival taking place in Blackpool which returns in 2026. Harry directed the multi-award winning *No Apologies* by two-time Fringe First award-winner Emma Frankland which ran at Summerhall at the Edinburgh Fringe in August 2025. *We’re Still Here*, an LGBTQ+ heritage project based in Blackpool and founded by Harry and Blackpool artist Garth Gratrix, recently received £235k from The National Lottery Heritage Fund to produce two exhibitions about the town's queer history in 2027.          
+#### Artists        
+Information to follow…       
           
-About Harry's previous work…          
->*Extraordinary.* — The Guardian<br>*Truly stunning. A work of legitimately radical power.* — Little White Lies<br>*A delectably disruptive force in theatre, film and installation.* — Attitude Magazine         
-         
 #### Credits         
-A new show from Harry eganpinchbeck.         
-         
-Performed by Harry eganpinchbeck, Aysh de Belle, Sam de Belle, and Blake Rainey.         
-         
-Created in collaboration with Oliver Gregory, aka Miss Titty Kaka, with Aysh de Belle and Sam de Belle.          
-         
-Costume Design: Ryan Dawson Laight<br>Sound Design: Oliver Gregory<br>Lighting Design: Simon Booth<br>Stage Management: Noah Sumptions<br>Movement Direction & Dramaturgy: Darren Pritchard<br>Dramaturgy: Scottee, Ursula Martinez<br>Rehearsal Producer: Catherine Mugonyi<br>Magic Consultant: Scott Penrose<br>Sign Writing: Lisa Wigham<br>Featuring Interview Contribution by Millie Bracewell aka Millie B<br>Produced by Sally Rose with Lee Smith for Marlborough Productions<br>Executive Producers: David Sheppeard and Harry eganpinchbeck          
+Devisers & performers: Kevin Egan & Michael Pinchbeck<br>Animator: Becca Horswill<br>Dramaturg: Ollie Smith<br>Musician: Adam Fairhall<br>Video: North West Film Archive at Manchester Metropolitan University.         
           
-Commissioned by Marlborough Productions and Attenborough Centre for the Creative Arts. Supported using public funding by Arts Council England.<br>Initial research and development supported by Marlborough Productions, Shoreditch Town Hall, Homotopia, Cambridge Junction, The Old Electric, and using public funding by the National Lottery through Arts Council England.          
+Supported by hÅb, Manchester School of Art, the Performance Research Group, and the School of English at Manchester Metropolitan University.         
           
-Image: Matt Crockett<br>Trailer: Rosie Powell<br>Logo: Polari Design          
+Image created by Michael Pinchbeck & Kevin Egan, outside of Manchester School of Art, Manchester Metropolitan University. Photographer: Ollie Smith. Design: Kevin Egan.         
          
 #### Websites         
-<a href="https://hcw.horse" target="_blank">hcw.horse</a> · <a href="https://marlboroughproductions.org.uk" target="_blank">marlboroughproductions.org.uk</a><br>Insta&nbsp;<a href="https://instagram.com/hclaytonwright" target="_blank">@hclaytonwright</a> · <a href="https://instagram.com/marlboroughproductions" target="_blank">@marlboroughproductions</a> · <a href="https://instagram.com/attenboroughctr" target="_blank">@attenboroughctr</a>          
+<a href="https://" target="_blank">web</a> · <a href="https://" target="_blank">web</a><br>Insta&nbsp;<a href="https://instagram.com/" target="_blank">@</a> · <a href="https://instagram.com/" target="_blank">@</a> · <a href="https://instagram.com/" target="_blank">@</a>          
          
 <small><span style='font-variant: small-caps'>[back to top](/current/2026/eganpinchbeck)</span></small>
