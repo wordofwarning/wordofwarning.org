@@ -48,7 +48,9 @@ Features: a contemporary performance work with varied content including spoken E
 Queries: please contact <a href="https://thelowry.com/visit-us/access" target="_blank">Lowry</a> on 0161 876 2183 or <mailto:access@thelowry.com>         
          
 #### Artists        
-Information to follow…       
+Kevin Egan is an interdisciplinary performer, theatre-maker, and Senior Lecturer of Contemporary Performance at Manchester Metropolitan University. He is a core member of the internationally renowned theatre company, Reckless Sleepers, having worked with the company since 2007 on projects such as *Schrödinger* (2011), *Negative Space* (2014), *It's Hot, It's Not* (2019), and *Binary Opposition* (2025). His work is predominantly physical, visual, and task-based, which is often generated through scores rather than scripts, and connects to his research on musicality and composition.        
+         
+Michael Pinchbeck is a writer, director, theatre-maker, and Professor of Theatre at Manchester Metropolitan University. He has created work for parked cars, park benches, sheds, Roman walls, recital halls, and theatres — and was commissioned to write three plays by Nottingham Playhouse: *The White Album*, *The Ashes*, and *Bolero*. His recent theatre work explores notions of performance as commemoration, the relationship between musicality and dramaturgy, and immersive adaptation.         
           
 #### Credits         
 Devisers & performers: Kevin Egan & Michael Pinchbeck<br>Animator: Becca Horswill<br>Dramaturg: Ollie Smith<br>Musician: Adam Fairhall<br>Video: North West Film Archive at Manchester Metropolitan University.         
