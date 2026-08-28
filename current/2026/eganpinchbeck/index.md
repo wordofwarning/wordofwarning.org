@@ -17,7 +17,7 @@ season: "Egan & Pinchbeck 4|11|2026, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2026/eganpinchbeck/#entry) · [access](/current/2026/eganpinchbeck/#access) · [artists](/current/2026/eganpinchbeck/#artists) · [credits](/current/2026/eganpinchbeck/#credits) · [websites](/current/2026/eganpinchbeck/#websites)</span>&ensp; <small>Updated 27 August 2026</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2026/eganpinchbeck/#entry) · [access](/current/2026/eganpinchbeck/#access) · [artists](/current/2026/eganpinchbeck/#artists) · [credits](/current/2026/eganpinchbeck/#credits) · [websites](/current/2026/eganpinchbeck/#websites)</span>&ensp; <small>Updated 28 August 2026</small>        
          
 *Presented by* <a href="https://thelowry.com/whats-on/matchstalks-remastered-ntcv" target="_blank">Lowry</a> + Word of Warning          
          
@@ -58,6 +58,6 @@ Supported by [hÅb](/hab), Manchester School of Art, the Performance Research Gr
 Image created by Michael Pinchbeck & Kevin Egan, outside of Manchester School of Art, Manchester Metropolitan University. Photographer: Ollie Smith. Design: Kevin Egan.         
          
 #### Websites         
-<a href="https://" target="_blank">web</a> · <a href="https://" target="_blank">web</a><br>Insta&nbsp;<a href="https://instagram.com/k.s.egan" target="_blank">@k.s.egan</a> · <a href="https://instagram.com/mdpinchbeck" target="_blank">@mdpinchbeck</a> · <a href="https://instagram.com/mcrschart" target="_blank">@mcrschart</a> · <a href="https://instagram.com/mcrschart_prg" target="_blank">@mcrschart_prg</a> · <a href="https://instagram.com/english_manmetuni" target="_blank">@english_manmetuni</a>          
+Insta&nbsp;<a href="https://instagram.com/k.s.egan" target="_blank">@k.s.egan</a> · <a href="https://instagram.com/mdpinchbeck" target="_blank">@mdpinchbeck</a> · <a href="https://instagram.com/beccahorswillart_" target="_blank">@beccahorswillart_</a> · <a href="https://instagram.com/ollie.d.smith" target="_blank">@ollie.d.smith</a> · <a href="https://instagram.com/adam.fairhall.7" target="_blank">@adam.fairhall.7</a> · <a href="https://instagram.com/mcrschart" target="_blank">@mcrschart</a> · <a href="https://instagram.com/mcrschart_prg" target="_blank">@mcrschart_prg</a> · <a href="https://instagram.com/english_manmetuni" target="_blank">@english_manmetuni</a> · <a href="https://instagram.com/the_lowry" target="_blank">@the_lowry</a>           
          
 <small><span style='font-variant: small-caps'>[back to top](/current/2026/eganpinchbeck)</span></small>
