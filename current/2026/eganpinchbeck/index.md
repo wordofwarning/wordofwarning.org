@@ -53,7 +53,7 @@ Information to follow…
 #### Credits         
 Devisers & performers: Kevin Egan & Michael Pinchbeck<br>Animator: Becca Horswill<br>Dramaturg: Ollie Smith<br>Musician: Adam Fairhall<br>Video: North West Film Archive at Manchester Metropolitan University.         
           
-Supported by [hÅb](/hab), Manchester School of Art, the Performance Research Group, and the School of English at Manchester Metropolitan University.         
+Commissioned by [hÅb](/hab), and supported by Manchester School of Art, the Performance Research Group, and the School of English at Manchester Metropolitan University.         
           
 Image created by Michael Pinchbeck & Kevin Egan, outside of Manchester School of Art, Manchester Metropolitan University. Photographer: Ollie Smith. Design: Kevin Egan.         
          
