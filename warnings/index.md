@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated 13 July 2026<small>        
+<small>Updated 28 August 2026<small>        
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>(Please click [here](/archive/warnings) for *past* events and *archived* livestreams on our YouTube channel.)         
          
@@ -21,7 +21,10 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 #### 2026         
          
 ##### [26 Sep. Contact | Emergency 26](/current/2026-emergency)          
-Age Advisory: typically 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings to follow *about* a fortnight before…         
+Age Advisory: typically 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction and/or participation; specific warnings to follow *about* a fortnight before…         
          
+##### [4 Nov. Lowry | *Matchstalks Remastered* by Egan & Pinchbeck](/current/2026/eganpinchbeck)          
+Age Advisory: 12+ (parent/guardian/carer discretion).<br>Content Warnings: may contain loud noises.         
+        
 ##### [19 Nov. Contact | Social Experiment](/socialexperiment)          
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings to follow *about* a week before…
