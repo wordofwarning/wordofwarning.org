@@ -16,11 +16,11 @@ season: "Social Experiment by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 12 June 2026</small>        
+<small>Updated 28 August 2026</small>        
         
 **[Social Experiment](/socialexperiment)** is a gathering at <a href="https://contactmcr.com/events/social-experiment" target="_blank">Contact</a> for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
          
-A free and informal, semi-regular evening event with the next on Thursday **19 November 2026** from 6pm to 9pm — with further **2027 dates TBA**.         
+A free and informal, semi-regular evening event with the next on Thursdays **19 November 2026** and **11 February 2027** from 6pm to 9pm — further 2027 dates TBA.         
          
 If you're a Greater Manchester artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
          
@@ -33,7 +33,7 @@ Greater Manchester artists (*aged 18+*) are invited to submit proposals of: shor
           
 **For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>**<br>(Direct link to proposal form is <a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">here</a> in case of issues with posthaven.)         
          
-Proposal Deadline: open on a rolling basis and closing 17 days before each event — November's deadline is Mon 2 Nov at noon.         
+Proposal Deadline: open on a rolling basis and closing 17 days before each event — November's deadline is Mon 2 Nov at noon and February's is Mon 25 Jan at noon.         
          
 [Social Experiment](/socialexperiment) presented by [Word of Warning](/) + <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
          
