@@ -29,7 +29,7 @@ Get a feel for it with [2025's programme](/archive/2025-emergency/#artists) and 
 Alex&nbsp;Billingham&nbsp;· Bait&nbsp;· Ben&nbsp;Hodge&nbsp;· chris&nbsp;brown&nbsp;· Chris&nbsp;Jenkins&nbsp;· Emergency&nbsp;Chorus&nbsp;· Emily&nbsp;Bold&nbsp;· Emma&nbsp;Geraghty&nbsp;· Id&nbsp;Est&nbsp;Performance&nbsp;Company&nbsp;· Isabella&nbsp;Victorie&nbsp;A.&nbsp;· Joss&nbsp;Affleck&nbsp;· Kellie&nbsp;Colbert&nbsp;&&nbsp;Deborah&nbsp;Newton&nbsp;· Lee&nbsp;Fletcher&nbsp;· Lisa&nbsp;Ford&nbsp;· Lowri&nbsp;Evans&nbsp;· Mimosa&nbsp;Art&nbsp;House&nbsp;&&nbsp;Rosie&nbsp;Fielding&nbsp;· ON&nbsp;· Pablo&nbsp;Pakula&nbsp;· PHØBIA&nbsp;· Rachel&nbsp;Gomme&nbsp;· Reckless&nbsp;Sleepers&nbsp;&&nbsp;UoS&nbsp;Performance&nbsp;· Rowena&nbsp;Gander&nbsp;· Ruby&nbsp;Antonowicz&#8209;Behnan&nbsp;&&nbsp;Yui&nbsp;Yamamoto&nbsp;· Sap&nbsp;Dance&nbsp;&&nbsp;Desire&nbsp;Lines&nbsp;Dance&nbsp;Theatre&nbsp;· Sweætshops®<br><small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>        
           
 #### Entry         
-Pay What You Decide: there's no ticketing, just turn up & donate by cash/card.         
+Pay What You Can: there's no ticketing, just turn up & donate by cash/card.         
           
 Times: Saturday 26 September 2026, from Noon to 10pm.<br>***NB*** some artists will take breaks on an ad hoc basis, some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time: you *might* not see everything.         
           
