@@ -17,7 +17,7 @@ season: "Emergency 26|9|2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-emergency/#artists) · [entry](/current/2026-emergency/#entry) · [access](/current/2026-emergency/#access) · [about](/current/2026-emergency/#about) · [credits](/current/2026-emergency/#credits)</span>&ensp; <small>Updated&nbsp;25&nbsp;August&nbsp;2026</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2026-emergency/#artists) · [entry](/current/2026-emergency/#entry) · [access](/current/2026-emergency/#access) · [about](/current/2026-emergency/#about) · [credits](/current/2026-emergency/#credits)</span>&ensp; <small>Updated&nbsp;2&nbsp;September&nbsp;2026</small>         
          
 *Presented by* Word of Warning *+* Contact        
         
@@ -26,12 +26,12 @@ Manchester's 26th micro-marathon of the bizarre, the bold, and the beautiful tak
 Get a feel for it with [2025's programme](/archive/2025-emergency/#artists) and [gallery of images](/galleries/2025-emergency).         
          
 #### Artists         
-*Participating artists will be announced at the beginning of September.*        
+Alex&nbsp;Billingham&nbsp;· Bait&nbsp;· Ben&nbsp;Hodge&nbsp;· chris&nbsp;brown&nbsp;· Chris&nbsp;Jenkins&nbsp;· Emergency&nbsp;Chorus&nbsp;· Emily&nbsp;Bold&nbsp;· Emma&nbsp;Geraghty&nbsp;· Id&nbsp;Est&nbsp;Performance&nbsp; Company&nbsp;· Isabella&nbsp;Victorie&nbsp;A.&nbsp;· Joss&nbsp;Affleck&nbsp;· Kellie&nbsp;Colbert&nbsp;&&nbsp;Deborah&nbsp;Newton&nbsp;· Lee&nbsp;Fletcher&nbsp;· Lisa&nbsp;Ford&nbsp;· Lowri&nbsp;Evans&nbsp;· Mimosa&nbsp;Art&nbsp;House&nbsp;&&nbsp;Rosie&nbsp;Fielding&nbsp;· ON&nbsp;· Pablo&nbsp;Pakula&nbsp;· PHØBIA&nbsp;· Rachel&nbsp;Gomme&nbsp;· Reckless&nbsp;Sleepers&nbsp;&&nbsp;UoS&nbsp;Performance&nbsp;· Rowena&nbsp;Gander&nbsp;· Ruby&nbsp;Antonowicz-Behnan&nbsp;&&nbsp;Yui&nbsp;Yamamoto&nbsp;· Sap&nbsp;Dance&nbsp;&&nbsp;Desire&nbsp;Lines&nbsp;Dance&nbsp;Theatre&nbsp;· Sweætshops® &ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>        
           
 #### Entry         
 Pay What You Decide: there's no ticketing, just turn up & donate by cash/card.         
           
-Times: Saturday 26 September 2026, from Noon to 10pm.<br>*NB* some artists will take breaks on an ad hoc basis, some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time: you *might* not see everything.         
+Times: Saturday 26 September 2026, from Noon to 10pm.<br>***NB*** some artists will take breaks on an ad hoc basis, some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time: you *might* not see everything.         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
         
