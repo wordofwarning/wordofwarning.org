@@ -17,7 +17,7 @@ season: "Emergency 26|9|2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-emergency/#artists) · [entry](/current/2026-emergency/#entry) · [access](/current/2026-emergency/#access) · [about](/current/2026-emergency/#about) · [credits](/current/2026-emergency/#credits)</span>&ensp; <small>Updated&nbsp;2&nbsp;September&nbsp;2026</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2026-emergency/#artists) · [entry](/current/2026-emergency/#entry) · [access](/current/2026-emergency/#access) · [about](/current/2026-emergency/#about) · [credits](/current/2026-emergency/#credits)</span>&ensp; <small>Updated&nbsp;3&nbsp;September&nbsp;2026</small>         
          
 *Presented by* Word of Warning *+* Contact        
         
@@ -26,7 +26,7 @@ Manchester's 26th micro-marathon of the bizarre, the bold, and the beautiful tak
 Get a feel for it with [2025's programme](/archive/2025-emergency/#artists) and [gallery of images](/galleries/2025-emergency).         
          
 #### Artists         
-Alex&nbsp;Billingham&nbsp;· Bait&nbsp;· Ben&nbsp;Hodge&nbsp;· chris&nbsp;brown&nbsp;· Chris&nbsp;Jenkins&nbsp;· Emergency&nbsp;Chorus&nbsp;· Emily&nbsp;Bold&nbsp;· Emma&nbsp;Geraghty&nbsp;· Id&nbsp;Est&nbsp;Performance&nbsp;Company&nbsp;· Isabella&nbsp;Victorie&nbsp;A.&nbsp;· Joss&nbsp;Affleck&nbsp;· Kellie&nbsp;Colbert&nbsp;&&nbsp;Deborah&nbsp;Newton&nbsp;· Lee&nbsp;Fletcher&nbsp;· Lisa&nbsp;Ford&nbsp;· Lowri&nbsp;Evans&nbsp;· Mimosa&nbsp;Art&nbsp;House&nbsp;&&nbsp;Rosie&nbsp;Fielding&nbsp;· ON&nbsp;· Pablo&nbsp;Pakula&nbsp;· PHØBIA&nbsp;· Rachel&nbsp;Gomme&nbsp;· Reckless&nbsp;Sleepers&nbsp;&&nbsp;UoS&nbsp;Performance&nbsp;· Rowena&nbsp;Gander&nbsp;· Ruby&nbsp;Antonowicz&#8209;Behnan&nbsp;&&nbsp;Yui&nbsp;Yamamoto&nbsp;· Sap&nbsp;Dance&nbsp;&&nbsp;Desire&nbsp;Lines&nbsp;Dance&nbsp;Theatre&nbsp;· Sweætshops®<br><small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>        
+Alex&nbsp;Billingham&nbsp;· Bait&nbsp;· Ben&nbsp;Hodge&nbsp;· chris&nbsp;brown&nbsp;· Chris&nbsp;Jenkins&nbsp;· Emergency&nbsp;Chorus&nbsp;· Emily&nbsp;Bold&nbsp;· Emma&nbsp;Geraghty&nbsp;· Id&nbsp;Est&nbsp;Performance&nbsp;Company&nbsp;· Isabella&nbsp;Victorie&nbsp;A.&nbsp;· Joss&nbsp;Affleck&nbsp;· Kellie&nbsp;Colbert&nbsp;&&nbsp;Deborah&nbsp;Newton&nbsp;· Lee&nbsp;Fletcher&nbsp;· Lisa&nbsp;Ford&nbsp;· Lowri&nbsp;Evans&nbsp;· Mimosa&nbsp;Art&nbsp;House&nbsp;&&nbsp;Rosie&nbsp;Fielding&nbsp;· ON&nbsp;· Pablo&nbsp;Pakula&nbsp;· PHØBIA&nbsp;· Rachel&nbsp;Gomme&nbsp;· Reckless&nbsp;Sleepers&nbsp;&&nbsp;UoS&nbsp;Performance&nbsp;· Rowena&nbsp;Gander&nbsp;· Ruby&nbsp;Antonowicz&#8209;Behnan&nbsp;&&nbsp;Yui&nbsp;Yamamoto&nbsp;· Sap&nbsp;Dance&nbsp;&&nbsp;Desire&nbsp;Lines&nbsp;Dance&nbsp;Theatre&nbsp;· Sweætshops®&nbsp;· Terri&nbsp;Jade&nbsp;Donovan<br><small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>        
           
 #### Entry         
 Pay What You Can: there's no ticketing, just turn up & donate by cash/card.         
@@ -40,12 +40,12 @@ Age Advisory: typically 16+ (aimed at adults, parent/guardian/carer discretion).
           
 Content Warnings: some works involve interaction and/or participation; specific warnings will be listed [here](/warnings) *about* a fortnight before.         
           
-Features: *about* twenty-six Live Art & contemporary performance works with varied content. Multiple spaces on the ground/first/second floors will be in use, and works will vary in format — some roaming, some seated, some standing, some spoken word, some visual, some participatory.          
+Features: *about* 26 Live Art & contemporary performance works with varied content. Multiple spaces on the ground/first/second floors will be in use, and works will vary in format — some roaming, some seated, some standing, some spoken word, some visual, some participatory.          
           
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### About         
-Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day in Manchester every autumn — this 26th edition will present *about* twenty-six works from lunchtime till late throughout <a href="https://contactmcr.com" target="_blank">Contact</a>'s building and its multiple spaces.       
+Our annual platform for Live Art and contemporary performance, [Emergency](/hab/emergency) offers a sneak preview of new live work over a single day in Manchester every autumn — this 26th edition will present *about* 26 works from lunchtime till late throughout <a href="https://contactmcr.com" target="_blank">Contact</a>'s building and its multiple spaces.       
          
 *Probably* England's longest-running Live Art event, [Emergency](/hab/emergency) aims to be:<br>— a free to access public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer review work;<br>— a selection event for a number of small [Works Ahead](/hab/worksahead) commissions.        
          
