@@ -26,14 +26,14 @@ Manchester's 26th micro-marathon of the bizarre, the bold, and the beautiful tak
 Get a feel for it with [2025's programme](/archive/2025-emergency/#artists) and [gallery of images](/galleries/2025-emergency).         
          
 #### Artists         
-**Afternoon, Noon-5pm (installations, interventions, limited capacity works)**<br>Bait&nbsp;· Ben&nbsp;Hodge&nbsp;· chris&nbsp;brown&nbsp;· Emergency&nbsp;Chorus&nbsp;· Emma&nbsp;Geraghty&nbsp;· Joss&nbsp;Affleck&nbsp;· Kellie&nbsp;Colbert&nbsp;&&nbsp;Deborah&nbsp;Newton&nbsp;· Lisa&nbsp;Ford&nbsp;· Mimosa&nbsp;Art&nbsp;House&nbsp;&&nbsp;Rosie&nbsp;Fielding&nbsp;· ON&nbsp;· Pablo&nbsp;Pakula&nbsp;· PHØBIA&nbsp;· Rachel&nbsp;Gomme&nbsp;· Rowena&nbsp;Gander&nbsp;· Ruby&nbsp;Antonowicz&#8209;Behnan&nbsp;&&nbsp;Yui&nbsp;Yamamoto&nbsp;· Sweætshops®&nbsp;· Terri&nbsp;Jade&nbsp;Donovan&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
+**Afternoon, Noon-5pm**<br>Bait&nbsp;· Ben&nbsp;Hodge&nbsp;· chris&nbsp;brown&nbsp;· Emergency&nbsp;Chorus&nbsp;· Emma&nbsp;Geraghty&nbsp;· Joss&nbsp;Affleck&nbsp;· Kellie&nbsp;Colbert&nbsp;&&nbsp;Deborah&nbsp;Newton&nbsp;· Lisa&nbsp;Ford&nbsp;· Mimosa&nbsp;Art&nbsp;House&nbsp;&&nbsp;Rosie&nbsp;Fielding&nbsp;· ON&nbsp;· Pablo&nbsp;Pakula&nbsp;· PHØBIA&nbsp;· Rachel&nbsp;Gomme&nbsp;· Rowena&nbsp;Gander&nbsp;· Ruby&nbsp;Antonowicz&#8209;Behnan&nbsp;&&nbsp;Yui&nbsp;Yamamoto&nbsp;· Sweætshops®&nbsp;· Terri&nbsp;Jade&nbsp;Donovan&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
          
-**Evening, 5pm-10pm (short shows)**<br>Alex&nbsp;Billingham&nbsp;· Chris&nbsp;Jenkins&nbsp;· Emily&nbsp;Bold&nbsp;· Id&nbsp;Est&nbsp;Performance&nbsp;Company&nbsp;· Isabella&nbsp;Victorie&nbsp;A.&nbsp;· Lee&nbsp;Fletcher&nbsp;· Lowri&nbsp;Evans&nbsp;· Reckless&nbsp;Sleepers&nbsp;&&nbsp;UoS&nbsp;Performance&nbsp;· Sap&nbsp;Dance&nbsp;&&nbsp;Desire&nbsp;Lines&nbsp;Dance&nbsp;Theatre&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
+**Evening, 5pm-10pm**<br>Alex&nbsp;Billingham&nbsp;· Chris&nbsp;Jenkins&nbsp;· Emily&nbsp;Bold&nbsp;· Id&nbsp;Est&nbsp;Performance&nbsp;Company&nbsp;· Isabella&nbsp;Victorie&nbsp;A.&nbsp;· Lee&nbsp;Fletcher&nbsp;· Lowri&nbsp;Evans&nbsp;· Reckless&nbsp;Sleepers&nbsp;&&nbsp;UoS&nbsp;Performance&nbsp;· Sap&nbsp;Dance&nbsp;&&nbsp;Desire&nbsp;Lines&nbsp;Dance&nbsp;Theatre&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
           
 #### Entry         
 Pay What You Can: there's no ticketing, just turn up & donate by cash/card.         
           
-Times: Saturday 26 September 2026, from Noon to 10pm.<br>***NB*** some artists will take breaks on an ad hoc basis, some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time: you *might* not see everything.         
+Times: Saturday 26 September 2026, Noon-10pm (last entry 9.30pm).<br>***NB*** some artists will take breaks on an ad hoc basis, some works have a short duration, some have limited capacity on a first-come first-served basis, and some occur at the same time: you *might* not see everything.         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a>, Oxford Rd, Manchester M15 6JA.         
         
