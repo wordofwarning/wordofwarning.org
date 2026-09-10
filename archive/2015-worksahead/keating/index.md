@@ -39,4 +39,4 @@ To date he has made small pieces for [Hazard](/archive/2014-hazard/ongoing) (as 
            
 ####Credits         
 Commissioned by hÅb, co-produced with Contact.<br>Project Mentor: Peader Kirk.        
-![Affected](JamilKeatingWoAh15029.jpg)
+
