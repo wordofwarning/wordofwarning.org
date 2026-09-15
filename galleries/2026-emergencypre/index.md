@@ -26,7 +26,7 @@ gallery:
     -   {file: "kellie_deborah.jpg", artist: "Kellie Colbert & Deborah Newton"}
     -   {file: "lee fletcher.jpg", artist: "Lee Fletcher"}
     -   {file: "lisa ford.jpg", artist: "Lisa Ford"}
-    -   {file: "lowri evans.jpg", artist: "Lowri Evans", show: "}
+    -   {file: "lowri evans.jpg", artist: "Lowri Evans"}
     -   {file: "mimosa.jpg", artist: "Mimosa Art House & Rosie Fielding"}
     -   {file: "mob.jpg", artist: "Reckless Sleepers & UoS Performance"}
     -   {file: "on.jpg", artist: "ON"} 
