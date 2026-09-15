@@ -23,7 +23,7 @@ season: "Emergency 26|9|2026"
         
 Manchester's 26th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 26 September**, from Noon to 10pm:<br>— with an **Afternoon** of installations, interventions, limited capacity works;<br>— followed by an **Evening** full of short shows from 5pm…          
           
-Look at some of our [artists' images](/galleries/2026-emergencypre) and get a feel for it with [2025's programme](/archive/2025-emergency/#artists) and [gallery of images](/galleries/2025-emergency).         
+Look at some of our [artists' images](/galleries/2026-emergencypre) and get a feel for it with [2025's programme](/archive/2025-emergency/#artists).         
          
 #### Artists         
 **Afternoon, Noon-5pm**<br>Bait&nbsp;· Ben&nbsp;Hodge&nbsp;· chris&nbsp;brown&nbsp;· Emergency&nbsp;Chorus&nbsp;· Emma&nbsp;Geraghty&nbsp;· Joss&nbsp;Affleck&nbsp;· Kellie&nbsp;Colbert&nbsp;&&nbsp;Deborah&nbsp;Newton&nbsp;· Lisa&nbsp;Ford&nbsp;· Mimosa&nbsp;Art&nbsp;House&nbsp;&&nbsp;Rosie&nbsp;Fielding&nbsp;· ON&nbsp;· Pablo&nbsp;Pakula&nbsp;· PHØBIA&nbsp;· Rachel&nbsp;Gomme&nbsp;· Rowena&nbsp;Gander&nbsp;· Ruby&nbsp;Antonowicz&#8209;Behnan&nbsp;&&nbsp;Yui&nbsp;Yamamoto&nbsp;· Sweætshops®&nbsp;· Terri&nbsp;Jade&nbsp;Donovan&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
