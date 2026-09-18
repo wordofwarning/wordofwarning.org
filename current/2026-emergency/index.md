@@ -25,7 +25,7 @@ Manchester's 26th micro-marathon of the bizarre, the bold, and the beautiful tak
           
 Look at some of our [artists' images](/galleries/2026-emergencypre) and get a feel for it with [2025's programme](/archive/2025-emergency/#artists).         
          
->*<font color="#FFFFFF">From digital ghosts to an immortal Elvis, falling bodies to miniature worlds, a train full of memories, and the smallest of farewells.<br>Welcoming new faces and the return of old friends, we’ll be mending the unrepairable, holding everything together, and watching things unravel. What we can say is: the only thing trickling down will be the performer.</font>*         
+>*<font color="#FFFFFF">From digital ghosts to an immortal Elvis, falling bodies to miniature worlds, a train full of memories, and the smallest of farewells.<br>Welcoming new faces and the return of old friends, we’ll be mending the unrepairable, holding everything together, and watching things unravel.<br>What we can say is: the only thing trickling down will be the performer.</font>*         
          
 #### Artists         
 **Afternoon, Noon-5pm**<br>Bait&nbsp;· Ben&nbsp;Hodge&nbsp;· chris&nbsp;brown&nbsp;· Emergency&nbsp;Chorus&nbsp;· Emma&nbsp;Geraghty&nbsp;· Joss&nbsp;Affleck&nbsp;· Kellie&nbsp;Colbert&nbsp;&&nbsp;Deborah&nbsp;Newton&nbsp;· Lisa&nbsp;Ford&nbsp;· Mimosa&nbsp;Art&nbsp;House&nbsp;&&nbsp;Rosie&nbsp;Fielding&nbsp;· ON&nbsp;· Pablo&nbsp;Pakula&nbsp;· PHØBIA&nbsp;· Rachel&nbsp;Gomme&nbsp;· Rowena&nbsp;Gander&nbsp;· Ruby&nbsp;Antonowicz&#8209;Behnan&nbsp;&&nbsp;Yui&nbsp;Yamamoto&nbsp;· Sweætshops®&nbsp;· Terri&nbsp;Jade&nbsp;Donovan&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
