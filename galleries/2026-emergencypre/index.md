@@ -19,7 +19,7 @@ gallery:
     -   {file: "chris jenkins.jpg", artist: "Chris Jenkins", show: "<small>by Simon Gabriel</small>"}
     -   {file: "emergency chorus.jpg", artist: "Emergency Chorus"} 
     -   {file: "emily bold2.jpg", artist: "Emily Bold"}
-    -   {file: "emma geraghty.jpg", artist: "Emma Geraghty"} 
+    -   {file: "emma-geraghty-new.jpg", artist: "Emma Geraghty"}
     -   {file: "id est.jpg", artist: "Id Est Performance Company"}
     -   {file: "isabella victorie a.jpg", artist: "Isabella Victorie A."} 
     -   {file: "joss affleck.jpg", artist: "Joss Affleck"} 
