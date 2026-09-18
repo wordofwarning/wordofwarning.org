@@ -19,9 +19,9 @@ season: "Emergency 26|9|2026"
 ---
 <span style='font-variant: small-caps'>→ [artists](/current/2026-emergency/#artists) · [entry](/current/2026-emergency/#entry) · [access](/current/2026-emergency/#access) · [about](/current/2026-emergency/#about) · [credits](/current/2026-emergency/#credits)</span>&ensp; <small>Updated&nbsp;18&nbsp;September&nbsp;2026</small>         
          
-*Presented by* Word of Warning *+* Contact        
+*Presented by* Word of Warning *+* <a href="https://contactmcr.com/events/emergency-26" target="_blank">Contact</a>        
         
-Manchester's 26th micro-marathon of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 26 September**, from Noon to 10pm:<br>— with an **Afternoon** of installations, interventions, limited capacity works;<br>— followed by an **Evening** full of short shows from 5pm…          
+Manchester's 26th micro-marathon of the bizarre, the bold, and the beautiful takes over Contact on **Saturday 26 September**, from Noon to 10pm:<br>— with an **Afternoon** of installations, interventions, limited capacity works;<br>— followed by an **Evening** full of short shows from 5pm…          
           
 Look at some of our [artists' images](/galleries/2026-emergencypre) and get a feel for it with [2025's programme](/archive/2025-emergency/#artists).         
          
