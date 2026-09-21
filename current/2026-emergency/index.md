@@ -17,7 +17,7 @@ season: "Emergency 26|9|2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-emergency/#artists) · [entry](/current/2026-emergency/#entry) · [access](/current/2026-emergency/#access) · [about](/current/2026-emergency/#about) · [credits](/current/2026-emergency/#credits)</span>&ensp; <small>Updated&nbsp;18&nbsp;September&nbsp;2026</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2026-emergency/#artists) · [entry](/current/2026-emergency/#entry) · [access](/current/2026-emergency/#access) · [about](/current/2026-emergency/#about) · [credits](/current/2026-emergency/#credits)</span>&ensp; <small>Updated&nbsp;21&nbsp;September&nbsp;2026</small>         
          
 *Presented by* Word of Warning *+* <a href="https://contactmcr.com/events/emergency-26" target="_blank">Contact</a>        
         
@@ -28,7 +28,7 @@ Look at some of our [artists' images](/galleries/2026-emergencypre) and get a fe
 >*<font color="#FFFFFF">From digital ghosts to an immortal Elvis, falling bodies to miniature worlds, a train full of memories, and the smallest of farewells.<br>Welcoming new faces and the return of old friends, we’ll be mending the unrepairable, holding everything together, and watching things unravel.<br>What we can say is: the only thing trickling down will be the performer.</font>*         
          
 #### Artists         
-**Afternoon, Noon-5pm**<br>Bait&nbsp;· Ben&nbsp;Hodge&nbsp;· chris&nbsp;brown&nbsp;· Emergency&nbsp;Chorus&nbsp;· Emma&nbsp;Geraghty&nbsp;· Joss&nbsp;Affleck&nbsp;· Kellie&nbsp;Colbert&nbsp;&&nbsp;Deborah&nbsp;Newton&nbsp;· Lisa&nbsp;Ford&nbsp;· Mimosa&nbsp;Art&nbsp;House&nbsp;&&nbsp;Rosie&nbsp;Fielding&nbsp;· ON&nbsp;· Pablo&nbsp;Pakula&nbsp;· PHØBIA&nbsp;· Rachel&nbsp;Gomme&nbsp;· Rowena&nbsp;Gander&nbsp;· Ruby&nbsp;Antonowicz&#8209;Behnan&nbsp;&&nbsp;Yui&nbsp;Yamamoto&nbsp;· Sweætshops®&nbsp;· Terri&nbsp;Jade&nbsp;Donovan&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
+**Afternoon, Noon-5pm**<br>Bait&nbsp;· Ben&nbsp;Hodge&nbsp;· chris&nbsp;brown&nbsp;· Emergency&nbsp;Chorus&nbsp;· Emma&nbsp;Geraghty&nbsp;· Joss&nbsp;Affleck&nbsp;· Kellie&nbsp;Colbert&nbsp;&&nbsp;Deborah&nbsp;Newton&nbsp;· Lisa&nbsp;Ford&nbsp;· Mimosa&nbsp;Art&nbsp;House&nbsp;&&nbsp;Rosie&nbsp;Fielding&nbsp;· Pablo&nbsp;Pakula&nbsp;· Parastu&nbsp;Mohafezatkar&nbsp;· PHØBIA&nbsp;· Rachel&nbsp;Gomme&nbsp;· Rowena&nbsp;Gander&nbsp;· Ruby&nbsp;Antonowicz&#8209;Behnan&nbsp;&&nbsp;Yui&nbsp;Yamamoto&nbsp;· Sweætshops®&nbsp;· Terri&nbsp;Jade&nbsp;Donovan&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
          
 **Evening, 5pm-10pm**<br>Alex&nbsp;Billingham&nbsp;· Chris&nbsp;Jenkins&nbsp;· Emily&nbsp;Bold&nbsp;· Id&nbsp;Est&nbsp;Performance&nbsp;Company&nbsp;· Isabella&nbsp;Victorie&nbsp;A.&nbsp;· Lee&nbsp;Fletcher&nbsp;· Lowri&nbsp;Evans&nbsp;· Reckless&nbsp;Sleepers&nbsp;&&nbsp;UoS&nbsp;Performance&nbsp;· Sap&nbsp;Dance&nbsp;&&nbsp;Desire&nbsp;Lines&nbsp;Dance&nbsp;Theatre&ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
           
