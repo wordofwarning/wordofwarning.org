@@ -33,6 +33,7 @@ Content Warnings: some works involve interaction and/or participation; please re
 <hr>          
 **Ben Hodge** · *Can I Join You?*         
          
+Ben is 100% transfats. A comedian, host, performer, and facilitator — his work explores his identity and community in relation to being a fat, transmasculine queer person.         
          
 <a href="https://tinyurl.com/transfatsbh" target="_blank">tiny url.com/transfatsbh</a> · Insta <a href="https://instagram.com/benhodgeee" target="_blank">@benhodgeee</a>         
 <hr>          
@@ -51,7 +52,7 @@ chris is an interdisciplinary artist based in Manchester. Through movement, perf
          
 More fat and less girl and more singing, but also I'll probably cry?<br>In this durational performance, Emma will remake their 2016 solo show *Fat Girl Singing* over and over again until it makes sense for the person they are now in 2026. *BSIDES* uses live music, movement, writing, and watching to reimagine autobiography.<br>It's a rehearsal room. It's a tiny desk concert. It's live at the royal albert hall. It's a disco. It's probably going to be fun.         
          
-Emma is         
+Emma is (they/she) is a writer and theatremaker from Manchester, now based in London. They write plays about working class queerness and make performance things with music about the fat queer body. They were one quarter of award-winning theatre company Powder Keg, and their solo show *Fat Girl Singing* was described in The Guardian as “charming yet unabashedly, infectiously angry”, a description that they have used on dating profiles in the past.        
          
 <a href="https://emmageraghty.co.uk" target="_blank">emmageraghty.co.uk</a> · Insta <a href="https://instagram.com/giraffety91" target="_blank">@giraffety91</a>         
 <hr>          
@@ -62,11 +63,11 @@ Emma is
 <hr>          
 **Kellie Colbert & Deborah Newton** · *What We Carry*         
          
-A playful exploration of life's messy, unplanned moments and milestones through the lens of a party gone awry. Two performers invite the audience into a fun but awkward celebration filled with confetti and confessions. Blending humour and vulnerability, this piece captures the experience of navigating unexpected loss, unmet expectations, and quiet resilience. Through play, partying, and friendship it celebrates survival over perfection, offering a bittersweet reflection on what it means to keep showing up when life doesn't go to plan.         
-       
-Kellie is a Greater Manchester-based performance maker. She would describe herself as an autobiographical artist, who creates work that is honest, relatable, and at times self-critical. She has collaborated with Eggs Collective, and has been commissioned by NIAMOS, Breakdown Bolton, Factory International, and most recently on her hÅb-commissioned solo: [*Dedicated To The One I Love*](/archive/2025/colbert) which debuted at Contact in March.         
+Kellie is a Greater Manchester-based performance maker and facilitator. She describes herself as an autobiographical artist, creating work that is honest, relatable and, at times, self-critical. Through spoken word, symbolism and storytelling, Kellie explores memories and lived experiences, often focusing on themes of mental health, identity and feminism. Her work aims to create performances that are both deeply personal and widely accessible, encouraging audiences to reflect, connect and recognise elements of their own experiences.<br>Alongside her creative practice, Kellie works as a freelance theatre practitioner, collaborating with a range of organisations to facilitate, coordinate and manage educational and community arts projects. She also performs in immersive family theatre and live events across the UK. Kellie has been commissioned by organisations including NIAMOS, Breakdown Bolton, Factory International, and hÅb to develop her debut solo show, [*Dedicated To The One I Love*](/archive/2025/colbert), which premiered at Contact in 2025.          
          
-Deborah is the programme leader for BA (Hons) Theatre and Performance at The Arden School of Theatre. She is also a performance practitioner and facilitator specialising in contemporary performance with a strong commitment to making the arts accessible to all. Her work is often autobiographical, exploring themes of relationships, identity, and mental health.         
+Deborah is the Programme Leader for BA (Hons) Theatre + Creative Performance at The Arden School of Theatre. Alongside her academic role, she is an experienced performance practitioner and facilitator specialising in contemporary performance, with a strong commitment to making the arts accessible, inclusive and meaningful for diverse communities. Her creative practice is rooted in autobiographical performance, exploring themes of relationships, identity and mental health through honest and engaging storytelling.<br>Deborah has performed extensively at both national and international festivals and has collaborated with a wide range of organisations, creating immersive family theatre, participatory arts experiences and puppetry projects. Her collaborators include The Laughter Specialists, supporting children and families at Manchester Children's Hospital, as well as Partridge Lakes Events, Global Grooves, Casaba Carnival Arts, Rentadinosaur and the National Justice Museum. Through both her artistic practice and teaching, Deborah champions performance as a powerful tool for connection, creativity and social engagement.         
+         
+Kellie & Deborah have worked together for the past six years, creating contemporary and durational performance works that explore friendship, womanhood, care, and autobiography. What began as a tutor–student relationship has evolved into a close friendship and enduring creative partnership, built on trust, honesty, and a shared commitment to making personal work. Together, they draw on their own lived experiences to create performances that examine the complexities of human connection, everyday labour, and the stories we carry as women, inviting audiences into intimate and thought-provoking shared experiences.         
          
 Insta <a href="https://instagram.com/kellie.colbert.theatre" target="_blank">@kellie.colbert.theatre</a> & <a href="https://instagram.com/deborahnewtonartist" target="_blank">@deborahnewtonartist</a>         
 <hr>          
