@@ -38,6 +38,7 @@ Content Warnings: some works involve interaction and/or participation; please re
 <hr>          
 **chris brown** · *Trickle Down*         
          
+chris is an interdisciplinary artist based in Manchester. Through movement, performance, writing, and video, they interrogate the relationships between body, land, and perception, exploring the inner transformation systems that shape human existence within the biosphere.<br>Technology and audiovisual media serve as sensory tools in their practice, fostering modes of listening, translation, and dialogue between human and more than human worlds. Collaboration lies at the heart of their work. As a movement director, facilitator, poet, and artist, chris engages with performers, directors, community groups, academics, and creative teams to develop live and digital projects. These emerge through dialogue, improvisation, and embodied practice, with an approach that prioritizes listening, adaptability, and care. Their work translates conceptual, emotional, and ecological frameworks into performances, interventions, and beyond.         
          
 <a href="https://drive.google.com/drive/folders/1skHzDIEvn8I5xk6d-hkItlJgyZH9YeX0?usp=drive_link" target="_blank">Digital Portfolio</a> · Insta <a href="https://instagram.com/christopher.p.brown" target="_blank">@christopher.p.brown</a>         
 <hr>          
@@ -100,6 +101,7 @@ Insta <a href="https://instagram.com/parastumohafezatkar5" target="_blank">@para
 <hr>          
 **PHØBIA** · *I am sixteen and stupid*         
          
+Their work includes *Hyde N Seek Goes On Holiday* (Haphazard 2026 at Z-arts) and *Mistoffelees* (a developing solo show), alongside drag work around Manchester and the North of England.         
          
 Insta <a href="https://instagram.com/thatcreaturephobia" target="_blank">@thatcreaturephobia</a>         
 <hr>          
@@ -110,6 +112,7 @@ Insta <a href="https://instagram.com/thatcreaturephobia" target="_blank">@thatcr
 <hr>          
 **Rowena Gander** · *Diluting Lesbian*         
          
+Dr Rowena Gander is a Liverpool-based performance artist, choreographer, and educator known for bold solo works and publications that explore power, lesbian sexuality, and female objectification. Her acclaimed pieces *Barely Visible* and *Woman | Women* have toured nationally, confronting lesbian invisibility through raw physicality.<br>Rowena has previously reperformed the timeless work of Marina Abramović in her Solo Retrospective at the Royal Academy of Arts and is currently part of the world touring cast for Abramović’s *Balkan Erotic Epic*.<br>Alongside making and performing her own and others’ work, Rowena has choreographed numerous musical theatre productions, as well as movement directing \/ support on small and large scale physical theatre and cabaret productions.<br>Rowena has been in receipt of grant awards from Arts Council England, Liverpool Improvisation Festival, Leap Dance Festival, Word of Warning, Metal Culture UK, Physical Fest, and Unity Theatre’s Open Call. Rowena has worked with celebrated directors and choreographers, including Blenard Azijaz, Izzie Major, Elinor Randle, Jenny Rees, Jen Hale, Jo Fong, Alexandra Pirici, Manuel Pelmus, Dawn Schultz, and Pauline Brooks.        
          
 <a href="https://rowenagander.com" target="_blank">rowenagander.com</a> · Insta <a href="https://instagram.com/rowenagander" target="_blank">@rowenagander</a> <a href="https://instagram.com/lesbianperformance" target="_blank">@lesbianperformance</a>         
 <hr>          
