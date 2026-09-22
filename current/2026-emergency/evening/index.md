@@ -28,27 +28,43 @@ Content Warnings: some works involve interaction and/or participation; please re
 <hr>        
 **Lowri Evans** · *The Smallest Thing in the World*          
          
+         
+<a href="https://thelowri.com" target="_blank">thelowri.com</a> · Insta <a href="https://instagram.com/thelowri" target="_blank">@thelowri</a>         
 <hr>          
 **Isabella Victorie A.** · *darvo\_*         
          
+         
+<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
 <hr>          
 **Sap Dance & Desire Lines Dance Theatre** · *Unconstrued Bodies*         
          
+         
+<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
 <hr>          
 **Id Est Performance Company** · *Mania*         
          
+         
+<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
 <hr>          
 **Emily Bold** · *COMPUTER\_GRRRL*         
          
+         
+<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
 <hr>          
 **Chris Jenkins** · *Huel Days*         
          
+         
+<a href="https://crjjenkins.co.uk" target="_blank">crjjenkins.co.uk</a> · Insta <a href="https://instagram.com/crjjenkins" target="_blank">@crjjenkins</a>         
 <hr>          
 **Lee Fletcher** · *Grow Up!*         
          
+         
+<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
 <hr>          
 **Alex Billingham** · *Lost in the moment*         
          
+         
+<a href="https://alexbillingham.co.uk" target="_blank">alexbillingham.co.uk</a> · Insta <a href="https://instagram.com/billingham_alex" target="_blank">@billingham_alex</a>         
 <hr>          
 **Reckless Sleepers & UoS Performance** · *MOB*         
          
@@ -58,6 +74,6 @@ A new performance project created by a group of UoS students collectively called
          
 Mole is artistic director of Reckless Sleepers, an international company that has presented theatre performances for over 30 years.         
          
-<a href="https://www.reckless-sleepers.eu" target="_blank">reckless-sleepers.eu</a> · Insta <a href="https://instagram.com/recklesssleepers" target="_blank">@recklesssleepers</a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<a href="https://reckless-sleepers.eu" target="_blank">reckless-sleepers.eu</a> · Insta <a href="https://instagram.com/recklesssleepers" target="_blank">@recklesssleepers</a> · Insta <a href="https://instagram.com/uos_performance" target="_blank">@uos\_performance</a>         
 <hr>          
 <small><span style='font-variant: small-caps'>[back to top](/current/2026-emergency/evening)</span></small>
