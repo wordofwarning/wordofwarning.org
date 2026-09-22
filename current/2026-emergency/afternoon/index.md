@@ -26,14 +26,97 @@ season: "Emergency 26|9|2026, Afternoon Programme"
 Content Warnings: some works involve interaction and/or participation; please read specific warnings [here](/warnings).         
          
 <hr>          
-**Lisa Ford** · *Heirloom*         
+**Bait** · *The Rewilding Of Uncle Dad*         
+         
+         
+<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<hr>          
+**Ben Hodge** · *Can I Join You?*         
+         
+         
+<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<hr>          
+**chris brown** · *Trickle Down*         
+         
+         
+<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<hr>          
+**Emergency Chorus** · *Both/\And*         
+         
+         
+<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<hr>          
+**Emma Geraghty** · *BSIDES*         
+         
+         
+<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<hr>          
+**Joss Affleck** · *The Skin Show*         
+         
+         
+<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<hr>          
+**Kellie Colbert & Deborah Newton** · *What We Carry*         
+         
+A playful exploration of life's messy, unplanned moments and milestones through the lens of a party gone awry. Two performers invite the audience into a fun but awkward celebration filled with confetti and confessions. Blending humour and vulnerability, this piece captures the experience of navigating unexpected loss, unmet expectations, and quiet resilience. Through play, partying, and friendship it celebrates survival over perfection, offering a bittersweet reflection on what it means to keep showing up when life doesn't go to plan.         
+       
+Kellie is a Greater Manchester-based performance maker. She would describe herself as an autobiographical artist, who creates work that is honest, relatable, and at times self-critical. She has collaborated with Eggs Collective, and has been commissioned by NIAMOS, Breakdown Bolton, Factory International, and most recently on her hÅb-commissioned solo: [*Dedicated To The One I Love*](/archive/2025/colbert) which debuted at Contact in March.         
+         
+Deborah is the programme leader for BA (Hons) Theatre and Performance at The Arden School of Theatre. She is also a performance practitioner and facilitator specialising in contemporary performance with a strong commitment to making the arts accessible to all. Her work is often autobiographical, exploring themes of relationships, identity, and mental health.         
+         
+Insta <a href="https://instagram.com/kellie.colbert.theatre" target="_blank">@kellie.colbert.theatre</a> & <a href="https://instagram.com/deborahnewtonartist" target="_blank">@deborahnewtonartist</a>         
+<hr>          
+**Lisa Ford** · *Four rows back*         
          
 She takes thread, some yours, some hers, some found in streets and in libraries. Often the threads are words and images or conversations with people. She weaves these to create theatrical pieces, that wrap audiences in collective feeling.<br>*Heirloom* is a piece for one performer and one audience member. The soundscape is made from stories of invisible work in women's lives. It is an invitation to sit, sew, and share — and to add your thread to the repair.         
          
 Lisa is a theatre director, performer, producer, maker, facilitator. Engaging communities, telling stories, connecting disparate ideas, to a shared creative goal. Working reactively, with multidisciplinary techniques, shaping work with found stimulus.         
          
 <a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/lisaf0rd" target="_blank">@lisaf0rd</a>         
-<hr>         
-       
-<hr>         
+<hr>          
+**Mimosa Art House & Rosie Fielding** · *worktown stories*         
+         
+         
+<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<hr>          
+**Pablo Pakula** · *ellipsis*         
+         
+         
+<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<hr>          
+**Parastu Mohafezatkar** · *Can You FEEL Me?*         
+         
+         
+<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<hr>          
+**PHØBIA** · *I am sixteen and stupid*         
+         
+         
+<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<hr>          
+**Rachel Gomme** · *Relay*         
+         
+         
+<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<hr>          
+**Rowena Gander** · *Diluting Lesbian*         
+         
+         
+<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<hr>          
+**Ruby Antonowicz-Behnan & Yui Yamamoto** · *Requiem in Progress*         
+         
+         
+<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<hr>          
+**Sweætshops®** · *imperson - imprint*         
+         
+         
+<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<hr>          
+**Terri Jade Donovan** · *Take Off Tiffany*         
+         
+         
+<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<hr>          
 <small><span style='font-variant: small-caps'>[back to top](/current/2026-emergency/afternoon)</span></small>
