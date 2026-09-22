@@ -34,22 +34,22 @@ Content Warnings: some works involve interaction and/or participation; please re
 **Isabella Victorie A.** · *darvo\_*         
          
          
-<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+Insta <a href="https://instagram.com/is.vi.a_" target="_blank">@is.vi.a\_</a>         
 <hr>          
 **Sap Dance & Desire Lines Dance Theatre** · *Unconstrued Bodies*         
          
          
-<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<a href="https://desirelinesdancetheatre.com" target="_blank">desirelinesdancetheatre.com</a> · Insta <a href="https://instagram.com/desirelinesdancetheatre" target="_blank">@desirelinesdancetheatre</a> <a href="https://instagram.com/orla.collier" target="_blank">@orla.collier</a>         
 <hr>          
 **Id Est Performance Company** · *Mania*         
          
          
-<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+Insta <a href="https://instagram.com/idest_idest" target="_blank">@idest_idest</a>         
 <hr>          
 **Emily Bold** · *COMPUTER\_GRRRL*         
          
          
-<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+Insta <a href="https://instagram.com/emily_bold_" target="_blank">@emily\_bold\_</a>         
 <hr>          
 **Chris Jenkins** · *Huel Days*         
          
