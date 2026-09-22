@@ -46,6 +46,7 @@ chris is an interdisciplinary artist based in Manchester. Through movement, perf
 <hr>          
 **Emergency Chorus** · *Both/And*         
          
+Emergency Chorus is the collaboration between Ben Kulvichit (he/ him) & Clara Potter-Sweet (they/them). Since 2017, they have been working across theatre, live art, and dance, creating collage-like performances of text, choreography, music, and image ("Beguiling and enchanting work", The Guardian).<br>Their work deals with states of crisis and emergency, the relationships between ecology, capitalism, and technology, and ways of approaching the future; with complexity, strangeness, playfulness, intimacy, and ambiguity.<br>They have created and performed work at venues and organisations including Battersea Arts Centre, Cambridge Junction, Fierce Festival, Warwick Arts Centre, Old Diorama Arts Centre, Bristol Old Vic, and Chisenhale Dance Space.<br>Ben & Clara live in Bristol and are proud members of artist collective, Interval.         
          
 <a href="https://emergencychorus.com" target="_blank">emergencychorus.com</a> · Insta <a href="https://instagram.com/emergencychorus" target="_blank">@emergencychorus</a>         
 <hr>          
@@ -59,6 +60,7 @@ Emma is (they/she) is a writer and theatremaker from Manchester, now based in Lo
 <hr>          
 **Joss Affleck** · *The Skin Show*         
          
+Joss (they/them) is a Bristol-based multidisciplinary artist, performer, and filmmaker. Their work combines participation, projection, sound, folklore, and digital technologies to create live experiences exploring queer identity, transformation, ritual, and collective imagination. Formerly an art director within a BAFTA Award-winning animation and design team, they are now a resident at Watershed's Pervasive Media Studio.         
          
 <a href="https://theskinshow.xyz" target="_blank">theskinshow.xyz</a> · <a href="https://misterllaneousstudio.com" target="_blank">misterllaneousstudio.com</a> · Insta <a href="https://instagram.com/mister_llaneous" target="_blank">@mister\_llaneous</a>         
 <hr>          
@@ -82,6 +84,7 @@ Insta <a href="https://instagram.com/lisaf0rd" target="_blank">@lisaf0rd</a>
 <hr>          
 **Mimosa Art House & Rosie Fielding** · *worktown stories*         
          
+Rosie is a British artist with a PhD in contemporary performances of Shakespeare in Japan. She has worked with many different arts and education organisations in Europe and Japan, including Saitama Arts Theatre, the Comedie Francaise, the New National Theatre Tokyo, and Shakespeare's Globe.         
          
 Insta <a href="https://instagram.com/mimosarthouse" target="_blank">@mimosarthouse</a> & <a href="https://instagram.com/rosie_jf" target="_blank">@rosie\_jf</a>         
 <hr>          
@@ -111,12 +114,13 @@ Insta <a href="https://instagram.com/thatcreaturephobia" target="_blank">@thatcr
 <hr>          
 **Rachel Gomme** · *Relay*         
          
+Rachel works across performance, drawing, and installation. Her work interrogates the action of time and memory in the body, and explores the nature of shared embodiment, among humans and with the more-than-human world. She works primarily in durational, site-specific, and one-to-one performance, and has performed, presented work, and exhibited throughout the UK and internationally since 1998.         
          
 <a href="https://rachelgomme.com" target="_blank">rachelgomme.com</a> · Insta <a href="https://instagram.com/rachelgommelive" target="_blank">@rachelgommelive</a>         
 <hr>          
 **Rowena Gander** · *Diluting Lesbian*         
          
-Dr Rowena Gander is a Liverpool-based performance artist, choreographer, and educator known for bold solo works and publications that explore power, lesbian sexuality, and female objectification. Her acclaimed pieces *Barely Visible* and *Woman | Women* have toured nationally, confronting lesbian invisibility through raw physicality.<br>Rowena has previously reperformed the timeless work of Marina Abramović in her Solo Retrospective at the Royal Academy of Arts and is currently part of the world touring cast for Abramović’s *Balkan Erotic Epic*.<br>Alongside making and performing her own and others’ work, Rowena has choreographed numerous musical theatre productions, as well as movement directing \/ support on small and large scale physical theatre and cabaret productions.<br>Rowena has been in receipt of grant awards from Arts Council England, Liverpool Improvisation Festival, Leap Dance Festival, Word of Warning, Metal Culture UK, Physical Fest, and Unity Theatre’s Open Call. Rowena has worked with celebrated directors and choreographers, including Blenard Azijaz, Izzie Major, Elinor Randle, Jenny Rees, Jen Hale, Jo Fong, Alexandra Pirici, Manuel Pelmus, Dawn Schultz, and Pauline Brooks.        
+Dr Rowena Gander is a Liverpool-based performance artist, choreographer, and educator known for bold solo works and publications that explore power, lesbian sexuality, and female objectification. Her acclaimed pieces *Barely Visible* and *Woman \| Women* have toured nationally, confronting lesbian invisibility through raw physicality.<br>Rowena has previously reperformed the timeless work of Marina Abramović in her Solo Retrospective at the Royal Academy of Arts and is currently part of the world touring cast for Abramović’s *Balkan Erotic Epic*.<br>Alongside making and performing her own and others’ work, Rowena has choreographed numerous musical theatre productions, as well as movement directing \/ support on small and large scale physical theatre and cabaret productions.<br>Rowena has been in receipt of grant awards from Arts Council England, Liverpool Improvisation Festival, Leap Dance Festival, Word of Warning, Metal Culture UK, Physical Fest, and Unity Theatre’s Open Call. Rowena has worked with celebrated directors and choreographers, including Blenard Azijaz, Izzie Major, Elinor Randle, Jenny Rees, Jen Hale, Jo Fong, Alexandra Pirici, Manuel Pelmus, Dawn Schultz, and Pauline Brooks.        
          
 <a href="https://rowenagander.com" target="_blank">rowenagander.com</a> · Insta <a href="https://instagram.com/rowenagander" target="_blank">@rowenagander</a> <a href="https://instagram.com/lesbianperformance" target="_blank">@lesbianperformance</a>         
 <hr>          
