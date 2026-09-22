@@ -29,27 +29,27 @@ Content Warnings: some works involve interaction and/or participation; please re
 **Bait** · *The Rewilding Of Uncle Dad*         
          
          
-<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<a href="https://baittheatre.com" target="_blank">baittheatre.com</a> · Insta <a href="https://instagram.com/baitmatetheatre" target="_blank">@baitmatetheatre</a>         
 <hr>          
 **Ben Hodge** · *Can I Join You?*         
          
          
-<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<a href="https://tiny url.com/transfatsbh" target="_blank">tiny url.com/transfatsbh</a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
 <hr>          
 **chris brown** · *Trickle Down*         
          
          
-<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<a href="https://drive.google.com/drive/folders/1skHzDIEvn8I5xk6d-hkItlJgyZH9YeX0?usp=drive_link" target="_blank">google drive</a> · Insta <a href="https://instagram.com/benhodgeee" target="_blank">@benhodgeee</a>         
 <hr>          
 **Emergency Chorus** · *Both\/And*         
          
          
-<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/christopher.p.brown" target="_blank">@christopher.p.brown</a>         
 <hr>          
 **Emma Geraghty** · *BSIDES*         
          
          
-<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<a href="https://emmageraghty.co.uk" target="_blank">emmageraghty.co.uk</a> · Insta <a href="https://instagram.com/giraffety91" target="_blank">@giraffety91</a>         
 <hr>          
 **Joss Affleck** · *The Skin Show*         
          
