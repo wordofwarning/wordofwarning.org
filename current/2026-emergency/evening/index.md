@@ -46,6 +46,7 @@ Insta <a href="https://instagram.com/is.vi.a_" target="_blank">@is.vi.a\_</a>
 <hr>          
 **Id Est Performance Company** · *Mania*         
          
+Id Est is a female-led performance company founded by Iris Bell & Emma Grave: together they make work that is rooted in knowledge, experience, and play. They aim to discuss and present themes, largely surrounding the female experience, with a fresh perspective, whilst deploying conceptual techniques.         
          
 Insta <a href="https://instagram.com/idest_idest" target="_blank">@idest_idest</a>         
 <hr>          
@@ -66,6 +67,7 @@ Insta <a href="https://instagram.com/leepy_fletch" target="_blank">@leepy\_fletc
 <hr>          
 **Alex Billingham** · *Lost in the moment*         
          
+Alex is an international artist. Residencies at The Herbert, Hospitalfield, Summerhall Arts; performed for Tate St Ives, Ugly Duck London, and far more. Currently on the 26\/27 Syllabus Cohort with a residency and solo show at Stryx Birmingham. Her work is part of The New Art Galleries permanent collection.         
          
 <a href="https://alexbillingham.co.uk" target="_blank">alexbillingham.co.uk</a> · Insta <a href="https://instagram.com/billingham_alex" target="_blank">@billingham\_alex</a>         
 <hr>          
