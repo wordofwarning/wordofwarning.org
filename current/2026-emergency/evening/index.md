@@ -33,6 +33,9 @@ Content Warnings: some works involve interaction and/or participation; please re
 <hr>          
 **Isabella Victorie A.** · *darvo\_*         
          
+How much silent weight can one body carry before it breaks?<br>*darvo\_* explores covert abuse, focusing on the rarely discussed subtype of emotional neglect — a quiet, insidious form of abuse without obvious red flags that often drives the target's nervous system into total collapse.<br>Subjected to silent disrespect, followed by calm excuses and blame-shifting, targets experience prolonged mental stress that can cause the same nervous system breakdown and severe physical toll as loud, overt abuse.<br>Through a raw physical endurance test, Isabella Victorie A. makes the unseen price of "nothing happening" impossible to ignore. How many moments of silent disrespect can a body take before it collapses?         
+         
+Isabella is a performance artist and actor from Austria, based in London. In her bold and abstract performance work, she raises awareness of complex interpersonal dynamics, with a central emphasis on different forms of emotional abuse. She's performed at venues including the Vienna State Opera, Theaterforum Kreuzberg, Komische Oper Berlin, Battersea Arts Centre, Sadler's Wells Theatre, Underbelly Boulevard London, and Copeland Gallery. Her performance *fragments.foyc* was shown in Emergency 24; *darvo\_* marks the continuation of her ongoing series about emotional abuse.         
          
 Insta <a href="https://instagram.com/is.vi.a_" target="_blank">@is.vi.a\_</a>         
 <hr>          
