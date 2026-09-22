@@ -48,6 +48,9 @@ Content Warnings: some works involve interaction and/or participation; please re
 <hr>          
 **Emma Geraghty** · *BSIDES*         
          
+More fat and less girl and more singing, but also I'll probably cry?<br>In this durational performance, Emma will remake their 2016 solo show *Fat Girl Singing* over and over again until it makes sense for the person they are now in 2026. *BSIDES* uses live music, movement, writing, and watching to reimagine autobiography.<br>It's a rehearsal room. It's a tiny desk concert. It's live at the royal albert hall. It's a disco. It's probably going to be fun.         
+         
+Emma is         
          
 <a href="https://emmageraghty.co.uk" target="_blank">emmageraghty.co.uk</a> · Insta <a href="https://instagram.com/giraffety91" target="_blank">@giraffety91</a>         
 <hr>          
@@ -81,11 +84,17 @@ Insta <a href="https://instagram.com/mimosarthouse" target="_blank">@mimosarthou
 <hr>          
 **Pablo Pakula** · *ellipsis*         
          
+Something omitted. Withheld. Left out. Unsaid. A deliberate gap. A meaningful absence.<br>The strategy of omitting one or more elements from a sequence, narrative, statement, action, or image; implying something could have been present but deliberately isn't. This absence is perceptible and meaningful. What's missing isn't necessarily unknown or unknowable but can be inferred or understood through what remains.<br>This work was created in June 2025 for a research event at University of Birmingham. I wanted to address (…) by using a (…) at the centre of the piece. However, particular bureaucratic challenges meant I was unable to do so. Using a white piece of fabric instead, a kind of visual/conceptual ellipsis, began as a simple workaround yet became a core strategy that hands agency to the audience, inviting them to fill the gap and complete the work.         
+         
+Pablo is a live artist teaching at Central Saint Martins and University of Birmingham. He's drawn to musicalisation and materiality to bypass discursive language and rational thought. Whilst socially engaged, his practice rejects a ‘message’, tackling complex subjects in poetic ways that playfully straddle the solemn and the carnivalesque, the holy and the prophane, genuine emotion and irreverent irony.         
          
 <a href="https://www.pablopakula.com/ellipsis.html" target="_blank">pablopakula.com</a> · Insta <a href="https://instagram.com/pablopakula" target="_blank">@pablopakula</a>         
 <hr>          
 **Parastu Mohafezatkar** · *Can You FEEL Me?*         
          
+"It doesn’t matter what that word is called in your language; its meaning is the same for all of us. Like a shared feeling."<br>*Can You FEEL Me?* is a remote participatory performance with empathy and responsibility at its heart. The audience enters a one-to-one encounter where they are no longer simply watching, but gradually become part of the world they are witnessing.Through a first-person perspective and an encounter that slowly unfolds, the boundary between observer and participant begins to disappear.<br>The question is: can we recognise something of ourselves in another person, even when we come from different places and do not share the same language or culture?<br>Can we understand another human being without sharing the same words or the same world?<br>And if we are given the opportunity to respond, what do we choose?         
+         
+Writer & Director: Parastu Mohafezatkar · Concept: Shahrokh Rad · Cast: Parastu Mohafezatkar & Sina Tavakoli · Music: Hasan Moinfar & Hosein Moinfar · Assistant Director: Ghazal Bakhtiary         
          
 Insta <a href="https://instagram.com/parastumohafezatkar5" target="_blank">@parastumohafezatkar5</a> with <a href="https://instagram.com/shahrokh_rad7" target="_blank">@shahrokh\_rad7</a> <a href="https://instagram.com/ghazal_bakhtiary" target="_blank">@ghazal\_bakhtiary</a> <a href="https://instagram.com/hasan_moinfar" target="_blank">@hasan\_moinfar</a> <a href="https://instagram.com/thisiscnaelnino" target="_blank">@thisiscnaelnino</a>         
 <hr>          
