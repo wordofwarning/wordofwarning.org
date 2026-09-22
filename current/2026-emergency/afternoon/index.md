@@ -82,7 +82,7 @@ Insta <a href="https://instagram.com/mimosarthouse" target="_blank">@mimosarthou
 **Pablo Pakula** · *ellipsis*         
          
          
-<a href="https://pablopakula.com/performance.html" target="_blank">pablopakula.com</a> · Insta <a href="https://instagram.com/pablopakula" target="_blank">@pablopakula</a>         
+<a href="https://www.pablopakula.com/ellipsis.html" target="_blank">pablopakula.com</a> · Insta <a href="https://instagram.com/pablopakula" target="_blank">@pablopakula</a>         
 <hr>          
 **Parastu Mohafezatkar** · *Can You FEEL Me?*         
          
@@ -92,7 +92,7 @@ Insta <a href="https://instagram.com/parastumohafezatkar5" target="_blank">@para
 **PHØBIA** · *I am sixteen and stupid*         
          
          
-<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+Insta <a href="https://instagram.com/thatcreaturephobia" target="_blank">@thatcreaturephobia</a>         
 <hr>          
 **Rachel Gomme** · *Relay*         
          
@@ -102,21 +102,21 @@ Insta <a href="https://instagram.com/parastumohafezatkar5" target="_blank">@para
 **Rowena Gander** · *Diluting Lesbian*         
          
          
-<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> <a href="https://instagram.com/" target="_blank">@</a>         
+<a href="https://rowenagander.com" target="_blank">rowenagander.com</a> · Insta <a href="https://instagram.com/" target="_blank">@</a> <a href="https://instagram.com/" target="_blank">@</a> <a href="https://instagram.com/" target="_blank">@</a>        
 <hr>          
 **Ruby Antonowicz-Behnan & Yui Yamamoto** · *Requiem in Progress*         
          
          
-<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> & <a href="https://instagram.com/" target="_blank">@</a>         
+<a href="https://yuiyamamoto.com" target="_blank">yuiyamamoto.com</a> · Insta <a href="https://instagram.com/" target="_blank">@</a> & <a href="https://instagram.com/" target="_blank">@</a>         
 <hr>          
 **Sweætshops®** · *imperson - imprint*         
          
          
-<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<a href="https://swextshops.io" target="_blank">swextshops.io</a> · Insta <a href="https://instagram.com/swextshops" target="_blank">@swextshops</a>         
 <hr>          
 **Terri Jade Donovan** · *Take Off Tiffany*         
          
          
-<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<a href="https://spotlight.com/3418-9080-7516" target="_blank">Spotlight</a> · Insta <a href="https://instagram.com/terri_donovan5" target="_blank">@terri_donovan5</a>         
 <hr>          
 <small><span style='font-variant: small-caps'>[back to top](/current/2026-emergency/afternoon)</span></small>
