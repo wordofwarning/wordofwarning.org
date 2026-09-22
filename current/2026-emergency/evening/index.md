@@ -29,7 +29,7 @@ Content Warnings: some works involve interaction and/or participation; please re
 **Lowri Evans** · *The Smallest Thing in the World*          
          
 <hr>          
-**Isabella Victorie A.** · *darvo_\*         
+**Isabella Victorie A.** · *darvo\_*         
          
 <hr>          
 **Sap Dance & Desire Lines Dance Theatre** · *Unconstrued Bodies*         
@@ -38,7 +38,7 @@ Content Warnings: some works involve interaction and/or participation; please re
 **Id Est Performance Company** · *Mania*         
          
 <hr>          
-**Emily Bold** · *COMPUTER_\GRRRL*         
+**Emily Bold** · *COMPUTER\_GRRRL*         
          
 <hr>          
 **Chris Jenkins** · *Huel Days*         
