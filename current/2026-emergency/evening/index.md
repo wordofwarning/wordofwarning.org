@@ -28,6 +28,7 @@ Content Warnings: some works involve interaction and/or participation; please re
 <hr>        
 **Lowri Evans** · *The Smallest Thing in the World*          
          
+I am an artist based in Manchester, I make intimate art projects in unusual places with complete strangers. Art is my way of saying ‘sometimes I feel like this, do you?’         
          
 <a href="https://thelowri.com" target="_blank">thelowri.com</a> · Insta <a href="https://instagram.com/thelowri" target="_blank">@thelowri</a>         
 <hr>          
@@ -53,16 +54,19 @@ Insta <a href="https://instagram.com/idest_idest" target="_blank">@idest_idest</
 <hr>          
 **Emily Bold** · *COMPUTER\_GRRRL*         
          
+Emily (she/they) is an interdisciplinary performer and artist from Manchester. Their work has been best described via a YouTube comment: “viscerally unpleasant. good stuff.”<br>Current other projects include *Bad Science*, a theatre piece exploring the political abuse of psychiatry in the context of big data and surveillance, and *Deviant Diners*, a solo mixed-media project on neuroqueer experiences with food, shown as part of A Modest Show, the official collateral programme to the BAS09. Emily also works as a creative captioner and began their career creating disabled-led work across the North West. They regularly collaborate with emerging artists from stand-up, poetry, and music, and have performed at HOME, Unity Theatre, Royal Exchange Theatre, Lowry, Pleasance Courtyard at EdFringe, and the National Student Drama Festival.Emily was also a part of the BEYOND Conference's 2025 Emerging Innovators, and has recently been a part of the University of Salford x Lowry CreaTech Artist CoLab.         
          
 Insta <a href="https://instagram.com/emily_bold_" target="_blank">@emily\_bold\_</a>         
 <hr>          
 **Chris Jenkins** · *Huel Days*         
          
+Chris is a writer, comedian, filmmaker, spoken word performer, and performance artist whose work blends storytelling, humour, and audience participation. He has performed nationally, including multiple appearances at the Edinburgh Fringe; was the winner of the Liverpool Echo Comedian of the Year; and previously performed as 'Top Joe'. He has also created new work for Word of Warning's [Works Ahead(/hab/worksahead/#2016) and continues to develop original performances that combine comedy, poetry, and experimentation.         
          
 <a href="https://crjjenkins.co.uk" target="_blank">crjjenkins.co.uk</a> · Insta <a href="https://instagram.com/crjjenkins" target="_blank">@crjjenkins</a>         
 <hr>          
 **Lee Fletcher** · *Grow Up!*         
          
+Lee is a theatre maker and actor from Hull, now based in Manchester, who specialises in autobiographical work that blend comedy with honesty, inviting the audience into his life in order to allow them to reflect on their own. After recently graduating from the Arden School of Theatre, he is incredibly excited to kickstart his career and see where his creative potential can take him.         
          
 Insta <a href="https://instagram.com/leepy_fletch" target="_blank">@leepy\_fletch</a>         
 <hr>          
@@ -74,11 +78,9 @@ Alex is an international artist. Residencies at The Herbert, Hospitalfield, Summ
 <hr>          
 **Reckless Sleepers & UoS Performance** · *MOB*         
          
-*If all of your friends jumped off a cliff, would you jump too? In the beginning there was nothing. We copied, we divided, we multiplied and copied again until we ended up here. In our beginning there was a song, although from another time it made a different sense than what it did then. We listened to that same song over 100 times until it stopped making sense.*         
+A co-commission with Reckless Sleepers; a new collaboration made by artists Mole Wetherell, Teresa Brayshaw, and Hannah Butterfield.         
          
-A new performance project created by a group of UoS students collectively called Large Blue Automobile, together with Mole Wetherell.         
-         
-Mole is artistic director of Reckless Sleepers, an international company that has presented theatre performances for over 30 years.         
+Reckless Sleepers is an international company that has presented theatre performances for over 30 years.         
          
 <a href="https://reckless-sleepers.eu" target="_blank">reckless-sleepers.eu</a> · Insta <a href="https://instagram.com/recklesssleepers" target="_blank">@recklesssleepers</a> & <a href="https://instagram.com/uos_performance" target="_blank">@uos\_performance</a>         
 <hr>          
