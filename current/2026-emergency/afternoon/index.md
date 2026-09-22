@@ -54,7 +54,7 @@ Content Warnings: some works involve interaction and/or participation; please re
 **Joss Affleck** · *The Skin Show*         
          
          
-<a href="https://theskinshow.xyz" target="_blank">theskinshow.xyz</a> · <a href="https://misterllaneousstudio.com" target="_blank">misterllaneousstudio.com</a> · Insta <a href="https://instagram.com/mister_llaneous" target="_blank">@mister_llaneous</a>         
+<a href="https://theskinshow.xyz" target="_blank">theskinshow.xyz</a> · <a href="https://misterllaneousstudio.com" target="_blank">misterllaneousstudio.com</a> · Insta <a href="https://instagram.com/mister_llaneous" target="_blank">@mister\_llaneous</a>         
 <hr>          
 **Kellie Colbert & Deborah Newton** · *What We Carry*         
          
@@ -77,7 +77,7 @@ Insta <a href="https://instagram.com/lisaf0rd" target="_blank">@lisaf0rd</a>
 **Mimosa Art House & Rosie Fielding** · *worktown stories*         
          
          
-Insta <a href="https://instagram.com/mimosarthouse" target="_blank">@mimosarthouse</a> & <a href="https://instagram.com/rosie_jf" target="_blank">@rosie_jf</a>         
+Insta <a href="https://instagram.com/mimosarthouse" target="_blank">@mimosarthouse</a> & <a href="https://instagram.com/rosie_jf" target="_blank">@rosie\_jf</a>         
 <hr>          
 **Pablo Pakula** · *ellipsis*         
          
@@ -87,7 +87,7 @@ Insta <a href="https://instagram.com/mimosarthouse" target="_blank">@mimosarthou
 **Parastu Mohafezatkar** · *Can You FEEL Me?*         
          
          
-Insta <a href="https://instagram.com/parastumohafezatkar5" target="_blank">@parastumohafezatkar5</a> with          
+Insta <a href="https://instagram.com/parastumohafezatkar5" target="_blank">@parastumohafezatkar5</a> with <a href="https://instagram.com/shahrokh_rad7" target="_blank">@shahrokh\_rad7</a> <a href="https://instagram.com/ghazal_bakhtiary" target="_blank">@ghazal\_bakhtiary</a> <a href="https://instagram.com/hasan_moinfar" target="_blank">@hasan\_moinfar</a> <a href="https://instagram.com/thisiscnaelnino" target="_blank">@thisiscnaelnino</a>         
 <hr>          
 **PHØBIA** · *I am sixteen and stupid*         
          
@@ -107,7 +107,7 @@ Insta <a href="https://instagram.com/thatcreaturephobia" target="_blank">@thatcr
 **Ruby Antonowicz-Behnan & Yui Yamamoto** · *Requiem in Progress*         
          
          
-<a href="https://yuiyamamoto.com" target="_blank">yuiyamamoto.com</a> · Insta <a href="https://instagram.com/rubyantonowiczbehnan" target="_blank">@rubyantonowiczbehnan</a> & <a href="https://instagram.com/ugly_society_lover" target="_blank">@ugly_society_lover</a>         
+<a href="https://yuiyamamoto.com" target="_blank">yuiyamamoto.com</a> · Insta <a href="https://instagram.com/rubyantonowiczbehnan" target="_blank">@rubyantonowiczbehnan</a> & <a href="https://instagram.com/ugly_society_lover" target="_blank">@ugly\_society\_lover</a>         
 <hr>          
 **Sweætshops®** · *imperson - imprint*         
          
@@ -117,6 +117,6 @@ Insta <a href="https://instagram.com/thatcreaturephobia" target="_blank">@thatcr
 **Terri Jade Donovan** · *Take Off Tiffany*         
          
          
-<a href="https://spotlight.com/3418-9080-7516" target="_blank">Spotlight</a> · Insta <a href="https://instagram.com/terri_donovan5" target="_blank">@terri_donovan5</a>         
+<a href="https://spotlight.com/3418-9080-7516" target="_blank">Spotlight</a> · Insta <a href="https://instagram.com/terri_donovan5" target="_blank">@terri\_donovan5</a>         
 <hr>          
 <small><span style='font-variant: small-caps'>[back to top](/current/2026-emergency/afternoon)</span></small>
