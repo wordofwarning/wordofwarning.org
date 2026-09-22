@@ -87,7 +87,7 @@ Insta <a href="https://instagram.com/mimosarthouse" target="_blank">@mimosarthou
 **Parastu Mohafezatkar** · *Can You FEEL Me?*         
          
          
-Insta <a href="https://instagram.com/parastumohafezatkar5" target="_blank">@parastumohafezatkar5</a>         
+Insta <a href="https://instagram.com/parastumohafezatkar5" target="_blank">@parastumohafezatkar5</a> with          
 <hr>          
 **PHØBIA** · *I am sixteen and stupid*         
          
@@ -102,12 +102,12 @@ Insta <a href="https://instagram.com/thatcreaturephobia" target="_blank">@thatcr
 **Rowena Gander** · *Diluting Lesbian*         
          
          
-<a href="https://rowenagander.com" target="_blank">rowenagander.com</a> · Insta <a href="https://instagram.com/" target="_blank">@</a> <a href="https://instagram.com/" target="_blank">@</a> <a href="https://instagram.com/" target="_blank">@</a>        
+<a href="https://rowenagander.com" target="_blank">rowenagander.com</a> · Insta <a href="https://instagram.com/rowenagander" target="_blank">@rowenagander</a> <a href="https://instagram.com/lesbianperformance" target="_blank">@lesbianperformance</a>         
 <hr>          
 **Ruby Antonowicz-Behnan & Yui Yamamoto** · *Requiem in Progress*         
          
          
-<a href="https://yuiyamamoto.com" target="_blank">yuiyamamoto.com</a> · Insta <a href="https://instagram.com/" target="_blank">@</a> & <a href="https://instagram.com/" target="_blank">@</a>         
+<a href="https://yuiyamamoto.com" target="_blank">yuiyamamoto.com</a> · Insta <a href="https://instagram.com/rubyantonowiczbehnan" target="_blank">@rubyantonowiczbehnan</a> & <a href="https://instagram.com/ugly_society_lover" target="_blank">@ugly_society_lover</a>         
 <hr>          
 **Sweætshops®** · *imperson - imprint*         
          
