@@ -59,12 +59,12 @@ Insta <a href="https://instagram.com/emily_bold_" target="_blank">@emily\_bold\_
 **Lee Fletcher** · *Grow Up!*         
          
          
-Insta <a href="https://instagram.com/leepy_fletch" target="_blank">@leepy_fletch</a>         
+Insta <a href="https://instagram.com/leepy_fletch" target="_blank">@leepy\_fletch</a>         
 <hr>          
 **Alex Billingham** · *Lost in the moment*         
          
          
-<a href="https://alexbillingham.co.uk" target="_blank">alexbillingham.co.uk</a> · Insta <a href="https://instagram.com/billingham_alex" target="_blank">@billingham_alex</a>         
+<a href="https://alexbillingham.co.uk" target="_blank">alexbillingham.co.uk</a> · Insta <a href="https://instagram.com/billingham_alex" target="_blank">@billingham\_alex</a>         
 <hr>          
 **Reckless Sleepers & UoS Performance** · *MOB*         
          
