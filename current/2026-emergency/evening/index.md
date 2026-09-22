@@ -25,22 +25,32 @@ season: "Emergency 26|9|2026, Evening Programme"
          
 Content Warnings: some works involve interaction and/or participation; please read specific warnings [here](/warnings).         
          
-<hr>         
-      
-<hr>         
-**Kellie Colbert & Deborah Newton** · *The Party We Didn't Plan*         
+<hr>        
+**Lowri Evans** · *The Smallest Thing in the World*          
          
-A playful exploration of life's messy, unplanned moments and milestones through the lens of a party gone awry. Two performers invite the audience into a fun but awkward celebration filled with confetti and confessions. Blending humour and vulnerability, this piece captures the experience of navigating unexpected loss, unmet expectations, and quiet resilience. Through play, partying, and friendship it celebrates survival over perfection, offering a bittersweet reflection on what it means to keep showing up when life doesn't go to plan.         
-       
-Kellie is a Greater Manchester-based performance maker. She would describe herself as an autobiographical artist, who creates work that is honest, relatable, and at times self-critical. She has collaborated with Eggs Collective, and has been commissioned by NIAMOS, Breakdown Bolton, Factory International, and most recently on her hÅb-commissioned solo: [*Dedicated To The One I Love*](/archive/2025/colbert) which debuted at Contact in March.         
+<hr>          
+**Isabella Victorie A.** · *darvo_\*         
          
-Deborah is the programme leader for BA (Hons) Theatre and Performance at The Arden School of Theatre. She is also a performance practitioner and facilitator specialising in contemporary performance with a strong commitment to making the arts accessible to all. Her work is often autobiographical, exploring themes of relationships, identity, and mental health.         
+<hr>          
+**Sap Dance & Desire Lines Dance Theatre** · *Unconstrued Bodies*         
          
-Insta <a href="https://instagram.com/kellie.colbert.theatre" target="_blank">@kellie.colbert.theatre</a> & <a href="https://instagram.com/deborahnewtonartist" target="_blank">@deborahnewtonartist</a>
-<hr>         
-  
-<hr>         
-**Mole Wetherell & UoS Performance** · *Am i right, am I wrong?*         
+<hr>          
+**Id Est Performance Company** · *Mania*         
+         
+<hr>          
+**Emily Bold** · *COMPUTER_\GRRRL*         
+         
+<hr>          
+**Chris Jenkins** · *Huel Days*         
+         
+<hr>          
+**Lee Fletcher** · *Grow Up!*         
+         
+<hr>          
+**Alex Billingham** · *Lost in the moment*         
+         
+<hr>          
+**Reckless Sleepers & UoS Performance** · *MOB*         
          
 *If all of your friends jumped off a cliff, would you jump too? In the beginning there was nothing. We copied, we divided, we multiplied and copied again until we ended up here. In our beginning there was a song, although from another time it made a different sense than what it did then. We listened to that same song over 100 times until it stopped making sense.*         
          
@@ -48,8 +58,6 @@ A new performance project created by a group of UoS students collectively called
          
 Mole is artistic director of Reckless Sleepers, an international company that has presented theatre performances for over 30 years.         
          
-<a href="https://www.reckless-sleepers.eu" target="_blank">reckless-sleepers.eu</a> · Insta <a href="https://instagram.com/recklesssleepers" target="_blank">@recklesssleepers</a>         
-<hr>         
-    
+<a href="https://www.reckless-sleepers.eu" target="_blank">reckless-sleepers.eu</a> · Insta <a href="https://instagram.com/recklesssleepers" target="_blank">@recklesssleepers</a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
 <hr>          
 <small><span style='font-variant: small-caps'>[back to top](/current/2026-emergency/evening)</span></small>
