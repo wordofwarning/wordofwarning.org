@@ -28,6 +28,7 @@ Content Warnings: some works involve interaction and/or participation; please re
 <hr>          
 **Bait** · *The Rewilding Of Uncle Dad*         
          
+Bait is a critically-acclaimed performance company working out of the UK and Berlin. Since 2017 they have performed their work at festivals and venues across the UK and Europe. Founders and co-artistic directors Michelle Madsen & Lizzy Margereson both studied Lecoq's physical theatrical pedagogy and now make work which takes the principles of play and the poetic body and applies them to a genre-busting body of award-winning work.          
          
 <a href="https://baittheatre.com" target="_blank">baittheatre.com</a> · Insta <a href="https://instagram.com/baitmatetheatre" target="_blank">@baitmatetheatre</a>         
 <hr>          
@@ -73,9 +74,9 @@ Insta <a href="https://instagram.com/kellie.colbert.theatre" target="_blank">@ke
 <hr>          
 **Lisa Ford** · *Four rows back*         
          
-She takes thread, some yours, some hers, some found in streets and in libraries. Often the threads are words and images or conversations with people. She weaves these to create theatrical pieces, that wrap audiences in collective feeling.<br>*Heirloom* is a piece for one performer and one audience member. The soundscape is made from stories of invisible work in women's lives. It is an invitation to sit, sew, and share — and to add your thread to the repair.         
+Commissioned by hÅb and Contact for [Works Ahead](/hab/worksahead/#2026).         
          
-Lisa is a theatre director, performer, producer, maker, facilitator. Engaging communities, telling stories, connecting disparate ideas, to a shared creative goal. Working reactively, with multidisciplinary techniques, shaping work with found stimulus.         
+Lisa is a theatre director, performer, producer, maker, facilitator. Engaging communities, telling stories, connecting disparate ideas, to a shared creative goal. Working reactively, with multidisciplinary techniques, shaping work with found stimulus. Intertwining herstory, biography, and ideas.        
          
 Insta <a href="https://instagram.com/lisaf0rd" target="_blank">@lisaf0rd</a>         
 <hr>          
@@ -94,10 +95,12 @@ Pablo is a live artist teaching at Central Saint Martins and University of Birmi
 <hr>          
 **Parastu Mohafezatkar** · *Can You FEEL Me?*         
          
-"It doesn’t matter what that word is called in your language; its meaning is the same for all of us. Like a shared feeling."<br>*Can You FEEL Me?* is a remote participatory performance with empathy and responsibility at its heart. The audience enters a one-to-one encounter where they are no longer simply watching, but gradually become part of the world they are witnessing.Through a first-person perspective and an encounter that slowly unfolds, the boundary between observer and participant begins to disappear.<br>The question is: can we recognise something of ourselves in another person, even when we come from different places and do not share the same language or culture?<br>Can we understand another human being without sharing the same words or the same world?<br>And if we are given the opportunity to respond, what do we choose?         
+"It doesn't matter what that word is called in your language; its meaning is the same for all of us. Like a shared feeling."<br>*Can You FEEL Me?* is a remote participatory performance with empathy and responsibility at its heart. The audience enters a one-to-one encounter where they are no longer simply watching, but gradually become part of the world they are witnessing.Through a first-person perspective and an encounter that slowly unfolds, the boundary between observer and participant begins to disappear.<br>The question is: can we recognise something of ourselves in another person, even when we come from different places and do not share the same language or culture?<br>Can we understand another human being without sharing the same words or the same world?<br>And if we are given the opportunity to respond, what do we choose?         
          
 Writer & Director: Parastu Mohafezatkar · Concept: Shahrokh Rad · Cast: Parastu Mohafezatkar & Sina Tavakoli · Music: Hasan Moinfar & Hosein Moinfar · Assistant Director: Ghazal Bakhtiary         
-         
+        
+Parastu began her artistic journey at the age of 14 through journalism and reporting, later becoming a news program host. She was introduced to theatre through acting classes and stage practice, gradually turning her initial interest into a professional pursuit. Over the years, she trained in voice, expression, and performance, combining practical experience with academic studies in acting and theatre in Tehran. Her work spans short films, television series, small-town theatre productions, and university performances, which gradually evolved into professional stage and screen work. She has participated in several prestigious national and international festivals, earning awards, and continues to pursue deeper artistic growth and meaningful connections within the theatre community.         
+                   
 Insta <a href="https://instagram.com/parastumohafezatkar5" target="_blank">@parastumohafezatkar5</a> with <a href="https://instagram.com/shahrokh_rad7" target="_blank">@shahrokh\_rad7</a> <a href="https://instagram.com/ghazal_bakhtiary" target="_blank">@ghazal\_bakhtiary</a> <a href="https://instagram.com/hasan_moinfar" target="_blank">@hasan\_moinfar</a> <a href="https://instagram.com/thisiscnaelnino" target="_blank">@thisiscnaelnino</a>         
 <hr>          
 **PHØBIA** · *I am sixteen and stupid*         
