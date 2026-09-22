@@ -34,17 +34,17 @@ Content Warnings: some works involve interaction and/or participation; please re
 **Ben Hodge** · *Can I Join You?*         
          
          
-<a href="https://tiny url.com/transfatsbh" target="_blank">tiny url.com/transfatsbh</a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<a href="https://tinyurl.com/transfatsbh" target="_blank">tiny url.com/transfatsbh</a> · Insta <a href="https://instagram.com/benhodgeee" target="_blank">@benhodgeee</a>         
 <hr>          
 **chris brown** · *Trickle Down*         
          
          
-<a href="https://drive.google.com/drive/folders/1skHzDIEvn8I5xk6d-hkItlJgyZH9YeX0?usp=drive_link" target="_blank">google drive</a> · Insta <a href="https://instagram.com/benhodgeee" target="_blank">@benhodgeee</a>         
+<a href="https://drive.google.com/drive/folders/1skHzDIEvn8I5xk6d-hkItlJgyZH9YeX0?usp=drive_link" target="_blank">Digital Portfolio</a> · Insta <a href="https://instagram.com/christopher.p.brown" target="_blank">@christopher.p.brown</a>         
 <hr>          
-**Emergency Chorus** · *Both\/And*         
+**Emergency Chorus** · *Both/And*         
          
          
-<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/christopher.p.brown" target="_blank">@christopher.p.brown</a>         
+<a href="https://emergencychorus.com" target="_blank">emergencychorus.com</a> · Insta <a href="https://instagram.com/emergencychorus" target="_blank">@emergencychorus</a>         
 <hr>          
 **Emma Geraghty** · *BSIDES*         
          
@@ -54,7 +54,7 @@ Content Warnings: some works involve interaction and/or participation; please re
 **Joss Affleck** · *The Skin Show*         
          
          
-<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<a href="https://theskinshow.xyz" target="_blank">theskinshow.xyz</a> · <a href="https://misterllaneousstudio.com" target="_blank">misterllaneousstudio.com</a> · Insta <a href="https://instagram.com/mister_llaneous" target="_blank">@mister_llaneous</a>         
 <hr>          
 **Kellie Colbert & Deborah Newton** · *What We Carry*         
          
@@ -72,7 +72,7 @@ She takes thread, some yours, some hers, some found in streets and in libraries.
          
 Lisa is a theatre director, performer, producer, maker, facilitator. Engaging communities, telling stories, connecting disparate ideas, to a shared creative goal. Working reactively, with multidisciplinary techniques, shaping work with found stimulus.         
          
-<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/lisaf0rd" target="_blank">@lisaf0rd</a>         
+Insta <a href="https://instagram.com/lisaf0rd" target="_blank">@lisaf0rd</a>         
 <hr>          
 **Mimosa Art House & Rosie Fielding** · *worktown stories*         
          
