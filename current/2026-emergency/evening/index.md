@@ -41,6 +41,7 @@ Insta <a href="https://instagram.com/is.vi.a_" target="_blank">@is.vi.a\_</a>
 <hr>          
 **Sap Dance & Desire Lines Dance Theatre** · *Unconstrued Bodies*         
          
+Orla Collier is a dance artist, physical theatre practitioner, and life model based in Leeds. She is the lead artist of Desire Lines Theatre and has collaborated on a wide range of projects for UK companies.<br>Nigel Stewart is a freelance dance artist, life model, and independent dance scholar. He is Artistic Director of Sap Dance, and Emeritus Senior Lecturer at Lancaster University. He has choreographed and performed in the UK, the US, and continental Europe since 1982. He has published extensively on contemporary dance.<br>Sap Dance have produced short theatre pieces and full-length site-specific rural and coastal performance works and films since 2005. They last performed in [Turn 2026](/current/2026-turn).<br>Desire Lines Dance Theatre have produced works for theatres and outdoor settings since 2021, including the solo *Are You Local?* and the duet *Twenty-first Century Love* with Sap Dance.       
          
 <a href="https://desirelinesdancetheatre.com" target="_blank">desirelinesdancetheatre.com</a> · Insta <a href="https://instagram.com/desirelinesdancetheatre" target="_blank">@desirelinesdancetheatre</a> <a href="https://instagram.com/orla.collier" target="_blank">@orla.collier</a>         
 <hr>          
