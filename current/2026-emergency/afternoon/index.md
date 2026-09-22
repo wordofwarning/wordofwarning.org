@@ -77,17 +77,17 @@ Insta <a href="https://instagram.com/lisaf0rd" target="_blank">@lisaf0rd</a>
 **Mimosa Art House & Rosie Fielding** · *worktown stories*         
          
          
-<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+Insta <a href="https://instagram.com/mimosarthouse" target="_blank">@mimosarthouse</a> & <a href="https://instagram.com/rosie_jf" target="_blank">@rosie_jf</a>         
 <hr>          
 **Pablo Pakula** · *ellipsis*         
          
          
-<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<a href="https://pablopakula.com/performance.html" target="_blank">pablopakula.com</a> · Insta <a href="https://instagram.com/pablopakula" target="_blank">@pablopakula</a>         
 <hr>          
 **Parastu Mohafezatkar** · *Can You FEEL Me?*         
          
          
-<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+Insta <a href="https://instagram.com/parastumohafezatkar5" target="_blank">@parastumohafezatkar5</a>         
 <hr>          
 **PHØBIA** · *I am sixteen and stupid*         
          
@@ -97,17 +97,17 @@ Insta <a href="https://instagram.com/lisaf0rd" target="_blank">@lisaf0rd</a>
 **Rachel Gomme** · *Relay*         
          
          
-<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<a href="https://rachelgomme.com" target="_blank">rachelgomme.com</a> · Insta <a href="https://instagram.com/rachelgommelive" target="_blank">@rachelgommelive</a>         
 <hr>          
 **Rowena Gander** · *Diluting Lesbian*         
          
          
-<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> <a href="https://instagram.com/" target="_blank">@</a>         
 <hr>          
 **Ruby Antonowicz-Behnan & Yui Yamamoto** · *Requiem in Progress*         
          
          
-<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
+<a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a> & <a href="https://instagram.com/" target="_blank">@</a>         
 <hr>          
 **Sweætshops®** · *imperson - imprint*         
          
