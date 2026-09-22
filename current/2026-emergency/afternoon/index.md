@@ -41,7 +41,7 @@ Content Warnings: some works involve interaction and/or participation; please re
          
 <a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
 <hr>          
-**Emergency Chorus** · *Both/\And*         
+**Emergency Chorus** · *Both\/And*         
          
          
 <a href="https://" target="_blank"></a> · Insta <a href="https://instagram.com/" target="_blank">@</a>         
