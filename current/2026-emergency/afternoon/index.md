@@ -126,16 +126,19 @@ Dr Rowena Gander is a Liverpool-based performance artist, choreographer, and edu
 <hr>          
 **Ruby Antonowicz-Behnan & Yui Yamamoto** · *Requiem in Progress*         
          
+Yamamoto-Antonowicz is the performance duo of Yui Yamamoto and Ruby Antonowicz-Behnan. Our work interweaves voice, movement, and analogue and digital audio practices through theatre and sonic composition. We aim to open new perspectives on death, care, and memory, exploring how these experiences are voiced, shared, and understood.         
          
 <a href="https://yuiyamamoto.com" target="_blank">yuiyamamoto.com</a> · Insta <a href="https://instagram.com/rubyantonowiczbehnan" target="_blank">@rubyantonowiczbehnan</a> & <a href="https://instagram.com/ugly_society_lover" target="_blank">@ugly\_society\_lover</a>         
 <hr>          
 **Sweætshops®** · *imperson - imprint*         
          
+Sweætshops® (@sweXtshops) is a multi-personality enterprise from the birthplace of the industrial revolution. As above, so below: reappropriating the relentless flow of pop culture, mass-produced goods, and digital trends through various esoteric frameworks to create allegories for hidden systems of power, social contradictions, and the emerging conditions of 21st-century life.         
          
 <a href="https://swextshops.io" target="_blank">swextshops.io</a> · Insta <a href="https://instagram.com/swextshops" target="_blank">@swextshops</a>         
 <hr>          
 **Terri Jade Donovan** · *Take Off Tiffany*         
          
+Terri is a disabled, hard of hearing, and neurodivergent actor and writer from Stockport. In 2025, their play *DOG DOG DOG* won the Bruntwood Prize for Playwrighting's Special Commendation award.         
          
 <a href="https://spotlight.com/3418-9080-7516" target="_blank">Spotlight</a> · Insta <a href="https://instagram.com/terri_donovan5" target="_blank">@terri\_donovan5</a>         
 <hr>          
