@@ -72,6 +72,10 @@ Emma is (they/she) is a writer and theatremaker from Manchester, now based in Lo
 <hr>          
 **Joss Affleck** · *The Skin Show*         
          
+Our skin renews itself every twenty-seven days, yet it still carries traces of the lives we have lived. What if we could shed those skins and step inside them once more?<br>Our phones have become a kind of second skin, carrying photographs, conversations, memories and digital ghosts, an archive of who we are and all the people we have been.<br>*The Skin Show* is a digial séance that rummages through the wardrobe of our former selves, where old voices linger, identities refuse to stay still, and the boundary between who we were and who we are becoming begins to blur. Unlike most performances, your phone should remain switched on. You may need it to contact the spirit realm.          
+         
+Created & performed by Joss Affleck · Sound collaboration by Martin Viktorov<br>Developed through a residency at Watershed's Pervasive Media Studio.         
+         
 Joss (they/them) is a Bristol-based multidisciplinary artist, performer, and filmmaker. Their work combines participation, projection, sound, folklore, and digital technologies to create live experiences exploring queer identity, transformation, ritual, and collective imagination. Formerly an art director within a BAFTA Award-winning animation and design team, they are now a resident at Watershed's Pervasive Media Studio.         
          
 <a href="https://theskinshow.xyz" target="_blank">theskinshow.xyz</a> · <a href="https://misterllaneousstudio.com" target="_blank">misterllaneousstudio.com</a> · Insta <a href="https://instagram.com/mister_llaneous" target="_blank">@mister\_llaneous</a>         
