@@ -132,7 +132,7 @@ Insta <a href="https://instagram.com/parastumohafezatkar5" target="_blank">@para
 <hr>          
 **PHØBIA** · *I am sixteen and stupid*         
          
-When I was in a paediatric psych ward I would often dance and lip sync to songs to cheer up the other patients. Music was a key part of my recovery and the main reason I'm here today. Without drag, I don't believe I would be here.<br>I have prepared a playlist of all the songs I wish I could have performed back in my adolescence, and I will be performing them back to back on a shuffled playlist.<br>This is a love letter to music and performance. It is also a cry for help.         
+When I was in a paediatric psych ward I would often dance and lip sync to songs to cheer up the other patients. Music was a key part of my recovery and the main reason I'm here today. Without drag, I don't believe I would be here.<br>For Emergency 26 I have prepared a playlist of all the songs I wish I could have performed back in my adolescence, and I will be performing them back to back on a shuffled playlist.<br>This is a love letter to music and performance. It is also a cry for help.         
          
 Their work includes *Hyde N Seek Goes On Holiday* ([Haphazard 2026](/current/2026-haphazard) at Z-arts) and *Mistoffelees* (a developing solo show), alongside drag work around Manchester and the North of England.         
          
@@ -148,11 +148,15 @@ Rachel works across performance, drawing, and installation. Her work interrogate
 <hr>          
 **Rowena Gander** · *Diluting Lesbian*         
          
+*Diluting Lesbian* is a four-hour durational performance in a small shower cubicle, where the performer repeatedly speaks the word "lesbian" as a ritualistic mantra.<br> Audiences are invited to say the word aloud, which is echoed back in their tone, exposing, reflecting, and amplifying how it is socially held. Constant running water threatens to wash the word away, yet it persists, resisting dilution and reclaiming its defining power. Confronting the lingering stigma surrounding "lesbian," the work transforms shame into endurance, ritual, and specificity. Through repetition, exhaustion, and audience exchange, the performance continually evolves in texture, resonance, and meaning.	
+         
 Dr Rowena Gander is a Liverpool-based performance artist, choreographer, and educator known for bold solo works and publications that explore power, lesbian sexuality, and female objectification. Her acclaimed pieces *Barely Visible* and *Woman \| Women* have toured nationally, confronting lesbian invisibility through raw physicality.<br>Rowena has previously reperformed the timeless work of Marina Abramović in her Solo Retrospective at the Royal Academy of Arts and is currently part of the world touring cast for Abramović’s *Balkan Erotic Epic*.<br>Alongside making and performing her own and others’ work, Rowena has choreographed numerous musical theatre productions, as well as movement directing / support on small and large scale physical theatre and cabaret productions.<br>Rowena has been in receipt of grant awards from Arts Council England, Liverpool Improvisation Festival, Leap Dance Festival, Word of Warning, Metal Culture UK, Physical Fest, and Unity Theatre’s Open Call. Rowena has worked with celebrated directors and choreographers, including Blenard Azijaz, Izzie Major, Elinor Randle, Jenny Rees, Jen Hale, Jo Fong, Alexandra Pirici, Manuel Pelmus, Dawn Schultz, and Pauline Brooks.        
          
 <a href="https://rowenagander.com" target="_blank">rowenagander.com</a> · Insta <a href="https://instagram.com/rowenagander" target="_blank">@rowenagander</a> <a href="https://instagram.com/lesbianperformance" target="_blank">@lesbianperformance</a>         
 <hr>          
 **Ruby Antonowicz-Behnan & Yui Yamamoto** · *Requiem in Progress*         
+         
+*Requiem in Progress* is an ongoing sonic performance project. Two people explore memory, grief, and new forms of relationships with the absent through various activation points: voice, movement, found sounds, and a record collection left behind.<br>*Requiem in Progress* is a response to loss where grief is not resolved but held open as an embodied and communal experience.         
          
 Yamamoto-Antonowicz is the performance duo of Yui Yamamoto and Ruby Antonowicz-Behnan. Our work interweaves voice, movement, and analogue and digital audio practices through theatre and sonic composition. We aim to open new perspectives on death, care, and memory, exploring how these experiences are voiced, shared, and understood.         
          
