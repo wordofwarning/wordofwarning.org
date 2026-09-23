@@ -40,17 +40,23 @@ Bait is a critically-acclaimed performance company working out of the UK and Ber
 <hr>          
 **Ben Hodge** · *Can I Join You?*         
          
+A tender one to one encounter — can you provide care when others don't want you to? In a society and existence where caring for your body can be seen as a radical act, artist Ben Hodge invites you into this safe and respectful one to one encounter, to connect with yourself and find joy in the vessel that carries you through life.<br>This 5-7 minute performance draws on Ben's own experience of being a fat, queer person in a society that seeks to diminish his body and identity.         
+         
 Ben is 100% transfats. A comedian, host, performer, and facilitator — his work explores his identity and community in relation to being a fat, transmasculine queer person.         
          
 <a href="https://tinyurl.com/transfatsbh" target="_blank">tiny url.com/transfatsbh</a> · Insta <a href="https://instagram.com/benhodgeee" target="_blank">@benhodgeee</a>         
 <hr>          
 **chris brown** · *Trickle Down*         
          
+*Trickle Down* is a provocative dance and monologue piece exposing the failures of trickle-down economics. Blending butoh-inspired falls, verbatim text, and original writing, it dissects austerity politics and the neoliberal capitalist model through raw, physical storytelling.<br>In an oversized suit, the performer stumbles down an endless staircase, verbally unraveling the absurdities of an economic system that perpetuates inequality. Oscillating between dark humor and unsettling truth, the work lays bare the human cost of policies designed to keep people poor. A biting, cyclical descent into systemic failure.         
+         
 chris is an interdisciplinary artist based in Manchester. Through movement, performance, writing, and video, they interrogate the relationships between body, land, and perception, exploring the inner transformation systems that shape human existence within the biosphere.<br>Technology and audiovisual media serve as sensory tools in their practice, fostering modes of listening, translation, and dialogue between human and more than human worlds. Collaboration lies at the heart of their work. As a movement director, facilitator, poet, and artist, chris engages with performers, directors, community groups, academics, and creative teams to develop live and digital projects. These emerge through dialogue, improvisation, and embodied practice, with an approach that prioritizes listening, adaptability, and care. Their work translates conceptual, emotional, and ecological frameworks into performances, interventions, and beyond.         
          
 <a href="https://drive.google.com/drive/folders/1skHzDIEvn8I5xk6d-hkItlJgyZH9YeX0?usp=drive_link" target="_blank">Digital Portfolio</a> · Insta <a href="https://instagram.com/christopher.p.brown" target="_blank">@christopher.p.brown</a>         
 <hr>          
 **Emergency Chorus** · *Both/And*         
+         
+Artist duo Emergency Chorus present a short text-based performance, taking a simple sentence for a walk, and turning words into a precise musical study. Everyday language unravels a catalogue of contradictions, a repository of hidden desires and unspoken truths, images from inner lives — but whose exactly?         
          
 Emergency Chorus is the collaboration between Ben Kulvichit (he/ him) & Clara Potter-Sweet (they/them). Since 2017, they have been working across theatre, live art, and dance, creating collage-like performances of text, choreography, music, and image ("Beguiling and enchanting work", The Guardian).<br>Their work deals with states of crisis and emergency, the relationships between ecology, capitalism, and technology, and ways of approaching the future; with complexity, strangeness, playfulness, intimacy, and ambiguity.<br>They have created and performed work at venues and organisations including Battersea Arts Centre, Cambridge Junction, Fierce Festival, Warwick Arts Centre, Old Diorama Arts Centre, Bristol Old Vic, and Chisenhale Dance Space.<br>Ben & Clara live in Bristol and are proud members of artist collective, Interval.         
          
