@@ -17,7 +17,7 @@ season: "Emergency 26|9|2026, Afternoon Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-emergency/#artists) · [afternoon](/current/2026-emergency/afternoon) · [evening](/current/2026-emergency/evening) · [entry](/current/2026-emergency/#entry) · [access](/current/2026-emergency/#access) · [about](/current/2026-emergency/#about) · [credits](/current/2026-emergency/#credits)</span>&ensp; <small>Updated&nbsp;22&nbsp;September&nbsp;2026</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2026-emergency/#artists) · [afternoon](/current/2026-emergency/afternoon) · [evening](/current/2026-emergency/evening) · [entry](/current/2026-emergency/#entry) · [access](/current/2026-emergency/#access) · [about](/current/2026-emergency/#about) · [credits](/current/2026-emergency/#credits)</span>&ensp; <small>Updated&nbsp;23&nbsp;September&nbsp;2026</small>         
          
 *Presented by* Word of Warning *+* <a href="https://contactmcr.com/events/emergency-26" target="_blank">Contact</a>         
          
@@ -102,7 +102,11 @@ Lisa is a theatre director, performer, producer, maker, facilitator. Engaging co
          
 Insta <a href="https://instagram.com/lisaf0rd" target="_blank">@lisaf0rd</a>         
 <hr>          
-**Mimosa Art House & Rosie Fielding** · *worktown stories*         
+**Mimosa Art House & Rosie Fielding** · *Worktown Stories*         
+         
+*Worktown Stories* is a live digital performance set inside a miniature gallery where constantly changing scenes — from museum to bedroom to boat at sea — reimagine stories from mythology and literature. Seen only through their hands, the performers build miniature worlds and invite the audience to interact, shape the narrative, and play games with them.         
+         
+Performed by Cemil Yildiz, Erhan Cemil Sagir, and Rosalind Fielding (Mimosa Art House) · Videography by Esad Akdag · Music by Erhan Cemil Sagir · Concept by Rosalind Fielding.         
          
 Rosie is a British artist with a PhD in contemporary performances of Shakespeare in Japan. She has worked with many different arts and education organisations in Europe and Japan, including Saitama Arts Theatre, the Comedie Francaise, the New National Theatre Tokyo, and Shakespeare's Globe.         
          
@@ -128,11 +132,15 @@ Insta <a href="https://instagram.com/parastumohafezatkar5" target="_blank">@para
 <hr>          
 **PHØBIA** · *I am sixteen and stupid*         
          
+When I was in a paediatric psych ward I would often dance and lip sync to songs to cheer up the other patients. Music was a key part of my recovery and the main reason I'm here today. Without drag, I don't believe I would be here.<br>I have prepared a playlist of all the songs I wish I could have performed back in my adolescence, and I will be performing them back to back on a shuffled playlist.<br>This is a love letter to music and performance. It is also a cry for help.         
+         
 Their work includes *Hyde N Seek Goes On Holiday* ([Haphazard 2026](/current/2026-haphazard) at Z-arts) and *Mistoffelees* (a developing solo show), alongside drag work around Manchester and the North of England.         
          
 Insta <a href="https://instagram.com/thatcreaturephobia" target="_blank">@thatcreaturephobia</a>         
 <hr>          
 **Rachel Gomme** · *Relay*         
+         
+Can we repair the unrepairable? What happens if we try?<br>This delicate, quietly absurd performance explores what value there is in the action of mending, even when it does not bring back what was lost, and how joy might arise out of destruction.         
          
 Rachel works across performance, drawing, and installation. Her work interrogates the action of time and memory in the body, and explores the nature of shared embodiment, among humans and with the more-than-human world. She works primarily in durational, site-specific, and one-to-one performance, and has performed, presented work, and exhibited throughout the UK and internationally since 1998.         
          
