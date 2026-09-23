@@ -82,6 +82,8 @@ Joss (they/them) is a Bristol-based multidisciplinary artist, performer, and fil
 <hr>          
 **Kellie Colbert & Deborah Newton** · *What We Carry*         
          
+*What We Carry* is a two-hour durational performance exploring the invisible labour of care, endurance, and expectation placed upon women. Through repeated cycles of carrying leaking salt, relentless running, fragile rituals with eggs and flowers, and sustained acts of holding one another, the work transforms from quiet beauty into physical exhaustion and unsettling excess. As materials and fatigue accumulate, the performers ask: how long can women keep holding everything together before the image of strength finally breaks?         
+         
 Kellie is a Greater Manchester-based performance maker and facilitator. She describes herself as an autobiographical artist, creating work that is honest, relatable and, at times, self-critical. Through spoken word, symbolism and storytelling, Kellie explores memories and lived experiences, often focusing on themes of mental health, identity and feminism. Her work aims to create performances that are both deeply personal and widely accessible, encouraging audiences to reflect, connect and recognise elements of their own experiences.<br>Alongside her creative practice, Kellie works as a freelance theatre practitioner, collaborating with a range of organisations to facilitate, coordinate and manage educational and community arts projects. She also performs in immersive family theatre and live events across the UK. Kellie has been commissioned by organisations including NIAMOS, Breakdown Bolton, Factory International, and hÅb to develop her debut solo show, [*Dedicated To The One I Love*](/archive/2025/colbert), which premiered at Contact in 2025.          
          
 Deborah is the Programme Leader for BA (Hons) Theatre + Creative Performance at The Arden School of Theatre. Alongside her academic role, she is an experienced performance practitioner and facilitator specialising in contemporary performance, with a strong commitment to making the arts accessible, inclusive and meaningful for diverse communities. Her creative practice is rooted in autobiographical performance, exploring themes of relationships, identity and mental health through honest and engaging storytelling. Deborah has performed extensively at both national and international festivals and has collaborated with a wide range of organisations, creating immersive family theatre, participatory arts experiences and puppetry projects. Her collaborators include The Laughter Specialists, supporting children and families at Manchester Children's Hospital, as well as Partridge Lakes Events, Global Grooves, Casaba Carnival Arts, Rentadinosaur and the National Justice Museum. Through both her artistic practice and teaching, Deborah champions performance as a powerful tool for connection, creativity and social engagement.         
@@ -90,9 +92,11 @@ Kellie & Deborah have worked together for the past six years, creating contempor
          
 Insta <a href="https://instagram.com/kellie.colbert.theatre" target="_blank">@kellie.colbert.theatre</a> & <a href="https://instagram.com/deborahnewtonartist" target="_blank">@deborahnewtonartist</a>         
 <hr>          
-**Lisa Ford** · *Four rows back*         
+**Lisa Ford** · *Four Rows Back*         
          
-Commissioned by hÅb and Contact for [Works Ahead](/hab/worksahead/#2026).         
+Lisa takes threads, some yours, some hers, some found in streets and in libraries. Often the threads are words and images or conversations with people. She weaves these to create theatrical pieces, that wrap audiences in collective feeling. Her previous work explores herstory, invisible work, and biography. In this new work, *Four Rows Back*, she is going to post a letter.  Carrying a night full of memories in her bag. It is an invitation to join her on the train journey.         
+         
+Commissioned by hÅb and Contact for [Works Ahead 2026](/hab/worksahead/#2026).         
          
 Lisa is a theatre director, performer, producer, maker, facilitator. Engaging communities, telling stories, connecting disparate ideas, to a shared creative goal. Working reactively, with multidisciplinary techniques, shaping work with found stimulus. Intertwining herstory, biography, and ideas.        
          
