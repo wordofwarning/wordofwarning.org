@@ -28,6 +28,8 @@ Content Warnings: some works involve interaction and/or participation; please re
 <hr>        
 **Lowri Evans** · *The Smallest Thing in the World*          
          
+*The Smallest Thing in the World* will see Lowri Evans thaw her last frozen embryo. Come and give her smallest ever creation the biggest send off and contemplate life and death in the same breath. A once in a lifetime show. Literally.         
+         
 *I am an artist based in Manchester, I make intimate art projects in unusual places with complete strangers. Art is my way of saying ‘sometimes I feel like this, do you?’*         
          
 <a href="https://thelowri.com" target="_blank">thelowri.com</a> · Insta <a href="https://instagram.com/thelowri" target="_blank">@thelowri</a>         
@@ -36,7 +38,7 @@ Content Warnings: some works involve interaction and/or participation; please re
          
 How much silent weight can one body carry before it breaks?<br>*darvo\_* explores covert abuse, focusing on the rarely discussed subtype of emotional neglect — a quiet, insidious form of abuse without obvious red flags that often drives the target's nervous system into total collapse.<br>Subjected to silent disrespect, followed by calm excuses and blame-shifting, targets experience prolonged mental stress that can cause the same nervous system breakdown and severe physical toll as loud, overt abuse.<br>Through a raw physical endurance test, Isabella Victorie A. makes the unseen price of "nothing happening" impossible to ignore. How many moments of silent disrespect can a body take before it collapses?         
          
-Isabella is a performance artist and actor from Austria, based in London. In her bold and abstract performance work, she raises awareness of complex interpersonal dynamics, with a central emphasis on different forms of emotional abuse. She's performed at venues including the Vienna State Opera, Theaterforum Kreuzberg, Komische Oper Berlin, Battersea Arts Centre, Sadler's Wells Theatre, Underbelly Boulevard London, and Copeland Gallery. Her performance *fragments.foyc* was shown in [Emergency 24](/archive/2024-emergency); *darvo\_* marks the continuation of her ongoing series about emotional abuse.         
+Isabella (she/they) is a performance artist and actor from Austria, based in London. In her bold and abstract performance work, she raises awareness of complex interpersonal dynamics, with a central emphasis on different forms of emotional abuse. She's performed at venues including the Vienna State Opera, Theaterforum Kreuzberg, Komische Oper Berlin, Battersea Arts Centre, Sadler's Wells Theatre, Underbelly Boulevard London, and Copeland Gallery. Her performance *fragments.foyc* was shown in [Emergency 24](/archive/2024-emergency); *darvo\_* marks the continuation of her ongoing series about emotional abuse.         
          
 Insta <a href="https://instagram.com/is.vi.a_" target="_blank">@is.vi.a\_</a>         
 <hr>          
@@ -79,6 +81,8 @@ Alex is an international artist. Residencies at The Herbert, Hospitalfield, Summ
 <a href="https://alexbillingham.co.uk" target="_blank">alexbillingham.co.uk</a> · Insta <a href="https://instagram.com/billingham_alex" target="_blank">@billingham\_alex</a>         
 <hr>          
 **Reckless Sleepers & UoS Performance** · *MOB*         
+         
+We've been thinking about people. About lots of people, about groups of people, about people on the move, and what they move through. We've been thinking about the crowd and the pack and the gang and the mass and the flock and the group and the troop and the crew and the herd and the host and the horde and the swarm and the throng.<br>And we've been thinking about space. About making space, and claiming space, about filling space and taking space, about the space for everyone, and the big dark void beyond.<br>*MOB* taps into the dynamics of human action and interaction, in this room and this world, whilst also paying homage to some of the greatest choreographers, artists, and movers of the 20th Century.         
          
 A co-commission with Reckless Sleepers; a new collaboration made by artists Mole Wetherell, Teresa Brayshaw, and Hannah Butterfield.         
          
