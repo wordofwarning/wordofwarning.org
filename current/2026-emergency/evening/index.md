@@ -44,17 +44,25 @@ Insta <a href="https://instagram.com/is.vi.a_" target="_blank">@is.vi.a\_</a>
 <hr>          
 **Sap Dance & Desire Lines Dance Theatre** · *Unconstrued Bodies*         
          
+*Unconstrued Bodies* is an intergenerational movement-based live art work offering alternative ways of paying attention to naked bodies. Inspired by life drawing and modelling, the work explores what happens when we unconstrue (suspend, deconstruct, challenge) our habitual ways of viewing unclothed bodies and the fresh possibilities that this then creates for performers and spectators.         
+          
+Co-created & performed by Orla Collier & Nigel Stewart · Produced by Sap Dance & Desire Lines Dance Theatre<br>Supported by Lancaster Arts and Yorkshire Dance. Special thanks to life drawing groups: Bare Canvas, Catherine MacDiarmid, Ilkley Arts, King Street Arts, Otley Life Drawing, See You Naked, ColourWheel Lancaster.         
+         
 Orla Collier is a dance artist, physical theatre practitioner, and life model based in Leeds. She is the lead artist of Desire Lines Theatre and has collaborated on a wide range of projects for UK companies.<br>Nigel Stewart is a freelance dance artist, life model, and independent dance scholar. He is Artistic Director of Sap Dance, and Emeritus Senior Lecturer at Lancaster University. He has choreographed and performed in the UK, the US, and continental Europe since 1982. He has published extensively on contemporary dance.<br>Sap Dance have produced short theatre pieces and full-length site-specific rural and coastal performance works and films since 2005. They last performed in [Turn 2026](/current/2026-turn).<br>Desire Lines Dance Theatre have produced works for theatres and outdoor settings since 2021, including the solo *Are You Local?* and the duet *Twenty-first Century Love* with Sap Dance.       
          
 <a href="https://desirelinesdancetheatre.com" target="_blank">desirelinesdancetheatre.com</a> · Insta <a href="https://instagram.com/desirelinesdancetheatre" target="_blank">@desirelinesdancetheatre</a> <a href="https://instagram.com/orla.collier" target="_blank">@orla.collier</a>         
 <hr>          
 **Id Est Performance Company** · *Mania*         
          
+*Mania* is an informed mess that is quietly loud with a calm chaos. Iris knows. Emma knows. She knows. They know. We know. You know?<br>There is twenty-eight minutes counting down on the clock, two young women on stage ready to shred, prepare, release, and grow. Exploring cycles, within us and surrounding us. Cycles are shared, connecting us internally and externally. 28 days for the moon to orbit earth, 28 days of a menstrual cycle. Our cycles create who we are. Cycles can change with time but for now we would like to keep ours. And we assure you that Mania will fall and rise again.         
+         
 Id Est is a female-led performance company founded by Iris Bell & Emma Grave: together they make work that is rooted in knowledge, experience, and play. They aim to discuss and present themes, largely surrounding the female experience, with a fresh perspective, whilst deploying conceptual techniques.         
          
 Insta <a href="https://instagram.com/idest_idest" target="_blank">@idest_idest</a>         
 <hr>          
 **Emily Bold** · *COMPUTER\_GRRRL*         
+         
+*COMPUTER\_GRRRL (WIP)*
          
 Emily (she/they) is an interdisciplinary performer and artist from Manchester. Their work has been best described via a YouTube comment: “viscerally unpleasant. good stuff.”<br>Current other projects include *Bad Science*, a theatre piece exploring the political abuse of psychiatry in the context of big data and surveillance, and *Deviant Diners*, a solo mixed-media project on neuroqueer experiences with food, shown as part of A Modest Show, the official collateral programme to the BAS09. Emily also works as a creative captioner and began their career creating disabled-led work across the North West. They regularly collaborate with emerging artists from stand-up, poetry, and music, and have performed at HOME, Unity Theatre, Royal Exchange Theatre, Lowry, Pleasance Courtyard at EdFringe, and the National Student Drama Festival.Emily was also a part of the BEYOND Conference's 2025 Emerging Innovators, and has recently been a part of the University of Salford x Lowry CreaTech Artist CoLab.         
          
