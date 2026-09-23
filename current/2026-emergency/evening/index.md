@@ -17,7 +17,7 @@ season: "Emergency 26|9|2026, Evening Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-emergency/#artists) · [afternoon](/current/2026-emergency/afternoon) · [evening](/current/2026-emergency/evening) · [entry](/current/2026-emergency/#entry) · [access](/current/2026-emergency/#access) · [about](/current/2026-emergency/#about) · [credits](/current/2026-emergency/#credits)</span>&ensp; <small>Updated&nbsp;22&nbsp;September&nbsp;2026</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2026-emergency/#artists) · [afternoon](/current/2026-emergency/afternoon) · [evening](/current/2026-emergency/evening) · [entry](/current/2026-emergency/#entry) · [access](/current/2026-emergency/#access) · [about](/current/2026-emergency/#about) · [credits](/current/2026-emergency/#credits)</span>&ensp; <small>Updated&nbsp;23&nbsp;September&nbsp;2026</small>         
          
 *Presented by* Word of Warning *+* <a href="https://contactmcr.com/events/emergency-26" target="_blank">Contact</a>         
          
@@ -60,8 +60,10 @@ Insta <a href="https://instagram.com/emily_bold_" target="_blank">@emily\_bold\_
 <hr>          
 **Chris Jenkins** · *Huel Days*         
          
-Chris is a writer, comedian, filmmaker, spoken word performer, and performance artist whose work blends storytelling, humour, and audience participation. He has performed nationally, including multiple appearances at the Edinburgh Fringe; was the winner of the Liverpool Echo Comedian of the Year; and previously performed as 'Top Joe'. He has also created new work for Word of Warning's [Works Ahead](/hab/worksahead/#2016) and continues to develop original performances that combine comedy, poetry, and experimentation.         
+*“Did they change the Huel Black formula for Strawberry Banana? I ordered a variety pack from the website and the strawberry banana in it was thick like gaviscon. The chocolat RTD crate from Costco was thick. The new strawberry banana is liquid. It has the consistency of water or Yakult. Is that normal?”* — DanceswithTurtles9. Reddit. 28/07/26.<br>Does a man make Huel? Or does Huel make a man? And also… what is Huel?<br>Chris Jenkins can't answer these questions, but he has ordered a ‘Grab & Go Starter Bundle’ and will attempt to make it. During this time he will say words constructed from the fragments of poems, lost sentences, and past lives. Grief, work, parenthood, capitalism — it's all in the mix (in the BPA-free, Huel shaker).         
          
+Chris is a spoken word and performance artist working across comedy, live art, and theatre. His work moves between humour and sincerity, often drawing on the autobiographical and the everyday to explore the proximity of the profound to the mundane.<br>He has performed multiple times at the Edinburgh Fringe and was the Liverpool Echo Comedian of the Year, performing as ‘Top Joe’. He has performed in saunas, warehouses, comedy clubs, cabarets, and shopping centres. He has developed new work for Word of Warning's [Works Ahead](/hab/worksahead/#2016) and performed at Contact, Unity Theatre, Liverpool Everyman, Metal, Latitude, and Leicester Comedy Festival.         
+        
 <a href="https://crjjenkins.co.uk" target="_blank">crjjenkins.co.uk</a> · Insta <a href="https://instagram.com/crjjenkins" target="_blank">@crjjenkins</a>         
 <hr>          
 **Lee Fletcher** · *Grow Up!*         
