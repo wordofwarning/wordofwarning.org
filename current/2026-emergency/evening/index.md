@@ -62,7 +62,7 @@ Insta <a href="https://instagram.com/idest_idest" target="_blank">@idest_idest</
 <hr>          
 **Emily Bold** · *COMPUTER\_GRRRL*         
          
-*COMPUTER\_GRRRL (WIP)*
+*COMPUTER\_GRRRL (WIP)* is literally just a girl on a laptop <3. Emily Bold is a computer\_grrl from Manchester who also does theatre, art, and creative captioning. This is her first solo performance.         
          
 Emily (she/they) is an interdisciplinary performer and artist from Manchester. Their work has been best described via a YouTube comment: “viscerally unpleasant. good stuff.”<br>Current other projects include *Bad Science*, a theatre piece exploring the political abuse of psychiatry in the context of big data and surveillance, and *Deviant Diners*, a solo mixed-media project on neuroqueer experiences with food, shown as part of A Modest Show, the official collateral programme to the BAS09. Emily also works as a creative captioner and began their career creating disabled-led work across the North West. They regularly collaborate with emerging artists from stand-up, poetry, and music, and have performed at HOME, Unity Theatre, Royal Exchange Theatre, Lowry, Pleasance Courtyard at EdFringe, and the National Student Drama Festival.Emily was also a part of the BEYOND Conference's 2025 Emerging Innovators, and has recently been a part of the University of Salford x Lowry CreaTech Artist CoLab.         
          
@@ -78,11 +78,17 @@ Chris is a spoken word and performance artist working across comedy, live art, a
 <hr>          
 **Lee Fletcher** · *Grow Up!*         
          
+*Grow Up!* The classic expression everyone tells you when you're younger. Be better than you were before, more mature, more older, more wiser. But that isn't what Lee thinks, or what Little Lee thinks. What you dreamt of when you were younger is still there, and what you were afraid of. The only difference: that jumper you used to love just might not fit anymore… and that's okay.<br>So, look back at Lee's memories, dreams, and fears, and see what his family has to say about all that too. Just don't tell him he's about to turn 21!         
+         
 Lee is a theatre maker and actor from Hull, now based in Manchester, who specialises in autobiographical work that blend comedy with honesty, inviting the audience into his life in order to allow them to reflect on their own. After recently graduating from the Arden School of Theatre, he is incredibly excited to kickstart his career and see where his creative potential can take him.         
          
 Insta <a href="https://instagram.com/leepy_fletch" target="_blank">@leepy\_fletch</a>         
 <hr>          
 **Alex Billingham** · *Lost in the moment*         
+         
+Out beyond the stars and time lies a moment almost forgotten to time. Travel with the artist to the edge of memory.<br>Pulling from lived experience of memory loss / disability and more, join the artist as she attempts to navigate the black hole using desire lines and water divination.         
+         
+Developed with support from BOARC, Summerhall Arts, Hospitalfield, and Stryx.         
          
 Alex is an international artist. Residencies at The Herbert, Hospitalfield, Summerhall Arts; performed for Tate St Ives, Ugly Duck London, and far more. Currently on the 26/27 Syllabus Cohort with a residency and solo show at Stryx Birmingham. Her work is part of The New Art Galleries permanent collection.         
          
