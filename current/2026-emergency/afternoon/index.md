@@ -28,6 +28,12 @@ Content Warnings: some works involve interaction and/or participation; please re
 <hr>          
 **Bait** · *The Rewilding Of Uncle Dad*         
          
+Slip on the headphones and enter a world where live sound, surreal encounters, and a retiring office worker on the brink make the ordinary strange and extraordinary, uncovering beauty, loss, and wildness within the architecture of everyday life.
+
+Made with support from artists Nigel Barrett and Louise Mari, Mammalian Diving Reflex, Silvia Mercuriali, and institutions Arts Council England, La Fabrique Autonomme des Acteurs, London Fieldworks, and ZKU Berlin.
+
+Writers & performers: Michelle Madsen & Lizzy Shakespeare · Field recording & sound mentor: Kate Carr · Live sound: Thomas Mayer · Outside eye Berlin: Shai Cohen · Outside eye UK: Rachel Gay · Costume: Lena Boeckmann · Dramaturgy: Maria Hüber
+
 Bait is a critically-acclaimed performance company working out of the UK and Berlin. Since 2017 they have performed their work at festivals and venues across the UK and Europe. Founders and co-artistic directors Michelle Madsen & Lizzy Margereson both studied Lecoq's physical theatrical pedagogy and now make work which takes the principles of play and the poetic body and applies them to a genre-busting body of award-winning work.          
          
 <a href="https://baittheatre.com" target="_blank">baittheatre.com</a> · Insta <a href="https://instagram.com/baitmatetheatre" target="_blank">@baitmatetheatre</a>         
