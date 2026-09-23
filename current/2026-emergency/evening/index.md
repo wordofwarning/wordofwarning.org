@@ -30,7 +30,7 @@ Content Warnings: some works involve interaction and/or participation; please re
          
 *The Smallest Thing in the World* will see Lowri Evans thaw her last frozen embryo. Come and give her smallest ever creation the biggest send off and contemplate life and death in the same breath. A once in a lifetime show. Literally.         
          
-*I am an artist based in Manchester, I make intimate art projects in unusual places with complete strangers. Art is my way of saying ‘sometimes I feel like this, do you?’*         
+I am an artist based in Manchester, I make intimate art projects in unusual places with complete strangers. Art is my way of saying ‘sometimes I feel like this, do you?’         
          
 <a href="https://thelowri.com" target="_blank">thelowri.com</a> · Insta <a href="https://instagram.com/thelowri" target="_blank">@thelowri</a>         
 <hr>          
@@ -46,7 +46,7 @@ Insta <a href="https://instagram.com/is.vi.a_" target="_blank">@is.vi.a\_</a>
          
 *Unconstrued Bodies* is an intergenerational movement-based live art work offering alternative ways of paying attention to naked bodies. Inspired by life drawing and modelling, the work explores what happens when we unconstrue (suspend, deconstruct, challenge) our habitual ways of viewing unclothed bodies and the fresh possibilities that this then creates for performers and spectators.         
           
-Co-created & performed by Orla Collier & Nigel Stewart · Produced by Sap Dance & Desire Lines Dance Theatre<br>Supported by Lancaster Arts and Yorkshire Dance. Special thanks to life drawing groups: Bare Canvas, Catherine MacDiarmid, Ilkley Arts, King Street Arts, Otley Life Drawing, See You Naked, ColourWheel Lancaster.         
+Co-created & performed by Orla Collier & Nigel Stewart.<br>Produced by Sap Dance & Desire Lines Dance Theatre.<br>Supported by Lancaster Arts and Yorkshire Dance.<br>Special thanks to life drawing groups: Bare Canvas, Catherine MacDiarmid, Ilkley Arts, King Street Arts, Otley Life Drawing, See You Naked, ColourWheel Lancaster.         
          
 Orla Collier is a dance artist, physical theatre practitioner, and life model based in Leeds. She is the lead artist of Desire Lines Theatre and has collaborated on a wide range of projects for UK companies.<br>Nigel Stewart is a freelance dance artist, life model, and independent dance scholar. He is Artistic Director of Sap Dance, and Emeritus Senior Lecturer at Lancaster University. He has choreographed and performed in the UK, the US, and continental Europe since 1982. He has published extensively on contemporary dance.<br>Sap Dance have produced short theatre pieces and full-length site-specific rural and coastal performance works and films since 2005. They last performed in [Turn 2026](/current/2026-turn).<br>Desire Lines Dance Theatre have produced works for theatres and outdoor settings since 2021, including the solo *Are You Local?* and the duet *Twenty-first Century Love* with Sap Dance.       
          
