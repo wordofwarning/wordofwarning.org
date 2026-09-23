@@ -160,11 +160,17 @@ Yamamoto-Antonowicz is the performance duo of Yui Yamamoto and Ruby Antonowicz-B
 <hr>          
 **Sweætshops®** · *imperson - imprint*         
          
+𓇒 𓎟 𓇜 𓅐 𓎟 𓈐 𓁹 *imperson - imprint* is an ongoing performance and sound project. Structured as a series of contemporary mystery plays, it examines the world's most impersonated figure (Elvis Presley) through the lens of the ancient Egyptian Memphite conception of the afterlife and iconisation.<br>Within the Memphite belief system, the continued replication of a person's image in the world of the living ensured their existence in the afterlife. When their likeness ceased to be reproduced, they ceased to exist entirely. *imperson - imprint* approaches this as a form of proto-celebrity culture, where a shallow immortality is sustained through continued acts of representation.<br>"The image is one thing and the human being is another." — Elvis Presley          
+         
+Supported with seed funding from the Creative Scotland project fund.	     
+         
 Sweætshops® (@sweXtshops) is a multi-personality enterprise from the birthplace of the industrial revolution. As above, so below: reappropriating the relentless flow of pop culture, mass-produced goods, and digital trends through various esoteric frameworks to create allegories for hidden systems of power, social contradictions, and the emerging conditions of 21st-century life.         
          
 <a href="https://swextshops.io" target="_blank">swextshops.io</a> · Insta <a href="https://instagram.com/swextshops" target="_blank">@swextshops</a>         
 <hr>          
 **Terri Jade Donovan** · *Take Off Tiffany*         
+         
+Tiffany is attempting to be in the commercial world, but over the course of one phone call, it becomes apparent that she's starting to be stretched too far.<br>The world is a tight place to be sometimes.         
          
 Terri is a disabled, hard of hearing, and neurodivergent actor and writer from Stockport. In 2025, their play *DOG DOG DOG* won the Bruntwood Prize for Playwrighting's Special Commendation award.         
          
