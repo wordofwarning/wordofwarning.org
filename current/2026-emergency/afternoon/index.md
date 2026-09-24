@@ -30,7 +30,7 @@ Content Warnings: some works involve interaction and/or participation; please re
          
 Slip on the headphones and enter a world where live sound, surreal encounters, and a retiring office worker on the brink make the ordinary strange and extraordinary, uncovering beauty, loss, and wildness within the architecture of everyday life.
 
-Made with support from artists Nigel Barrett and Louise Mari, Mammalian Diving Reflex, Silvia Mercuriali, and institutions Arts Council England, La Fabrique Autonomme des Acteurs, London Fieldworks, and ZKU Berlin.
+Made with support from artists Nigel Barrett and Louise Mari, Mammalian Diving Reflex, Silvia Mercuriali, and institutions Arts Council England, La Fabrique Autonome des Acteurs, London Fieldworks, and ZKU Berlin.
 
 Writers & performers: Michelle Madsen & Lizzy Shakespeare · Field recording & sound mentor: Kate Carr · Live sound: Thomas Mayer · Outside eye Berlin: Shai Cohen · Outside eye UK: Rachel Gay · Costume: Lena Boeckmann · Dramaturgy: Maria Hüber
 
@@ -44,7 +44,7 @@ A tender one to one encounter — can you provide care when others don't want yo
          
 Ben is 100% transfats. A comedian, host, performer, and facilitator — his work explores his identity and community in relation to being a fat, transmasculine queer person.         
          
-<a href="https://tinyurl.com/transfatsbh" target="_blank">tiny url.com/transfatsbh</a> · Insta <a href="https://instagram.com/benhodgeee" target="_blank">@benhodgeee</a>         
+<a href="https://tinyurl.com/transfatsbh" target="_blank">tinyurl.com/transfatsbh</a> · Insta <a href="https://instagram.com/benhodgeee" target="_blank">@benhodgeee</a>         
 <hr>          
 **chris brown** · *Trickle Down*         
          
@@ -72,7 +72,7 @@ Emma is (they/she) is a writer and theatremaker from Manchester, now based in Lo
 <hr>          
 **Joss Affleck** · *The Skin Show*         
          
-Our skin renews itself every twenty-seven days, yet it still carries traces of the lives we have lived. What if we could shed those skins and step inside them once more?<br>Our phones have become a kind of second skin, carrying photographs, conversations, memories and digital ghosts, an archive of who we are and all the people we have been.<br>*The Skin Show* is a digial séance that rummages through the wardrobe of our former selves, where old voices linger, identities refuse to stay still, and the boundary between who we were and who we are becoming begins to blur. Unlike most performances, your phone should remain switched on. You may need it to contact the spirit realm.          
+Our skin renews itself every twenty-seven days, yet it still carries traces of the lives we have lived. What if we could shed those skins and step inside them once more?<br>Our phones have become a kind of second skin, carrying photographs, conversations, memories and digital ghosts, an archive of who we are and all the people we have been.<br>*The Skin Show* is a digital séance that rummages through the wardrobe of our former selves, where old voices linger, identities refuse to stay still, and the boundary between who we were and who we are becoming begins to blur. Unlike most performances, your phone should remain switched on. You may need it to contact the spirit realm.          
          
 Created & performed by Joss Affleck · Sound collaboration by Martin Viktorov<br>Developed through a residency at Watershed's Pervasive Media Studio.         
          
@@ -116,13 +116,13 @@ Insta <a href="https://instagram.com/mimosarthouse" target="_blank">@mimosarthou
          
 Something omitted. Withheld. Left out. Unsaid. A deliberate gap. A meaningful absence.<br>The strategy of omitting one or more elements from a sequence, narrative, statement, action, or image; implying something could have been present but deliberately isn't. This absence is perceptible and meaningful. What's missing isn't necessarily unknown or unknowable but can be inferred or understood through what remains.<br>This work was created in June 2025 for a research event at University of Birmingham. I wanted to address (…) by using a (…) at the centre of the piece. However, particular bureaucratic challenges meant I was unable to do so. Using a white piece of fabric instead, a kind of visual/conceptual ellipsis, began as a simple workaround yet became a core strategy that hands agency to the audience, inviting them to fill the gap and complete the work.         
          
-Pablo is a live artist teaching at Central Saint Martins and University of Birmingham. He's drawn to musicalisation and materiality to bypass discursive language and rational thought. Whilst socially engaged, his practice rejects a ‘message’, tackling complex subjects in poetic ways that playfully straddle the solemn and the carnivalesque, the holy and the prophane, genuine emotion and irreverent irony.         
+Pablo is a live artist teaching at Central Saint Martins and University of Birmingham. He's drawn to musicalisation and materiality to bypass discursive language and rational thought. Whilst socially engaged, his practice rejects a ‘message’, tackling complex subjects in poetic ways that playfully straddle the solemn and the carnivalesque, the holy and the profane, genuine emotion and irreverent irony.         
          
 <a href="https://www.pablopakula.com/ellipsis.html" target="_blank">pablopakula.com</a> · Insta <a href="https://instagram.com/pablopakula" target="_blank">@pablopakula</a>         
 <hr>          
 **Parastu Mohafezatkar** · *Can You FEEL Me?*         
          
-"It doesn't matter what that word is called in your language; its meaning is the same for all of us. Like a shared feeling."<br>*Can You FEEL Me?* is a remote participatory performance with empathy and responsibility at its heart. The audience enters a one-to-one encounter where they are no longer simply watching, but gradually become part of the world they are witnessing.Through a first-person perspective and an encounter that slowly unfolds, the boundary between observer and participant begins to disappear.<br>The question is: can we recognise something of ourselves in another person, even when we come from different places and do not share the same language or culture?<br>Can we understand another human being without sharing the same words or the same world?<br>And if we are given the opportunity to respond, what do we choose?         
+"It doesn't matter what that word is called in your language; its meaning is the same for all of us. Like a shared feeling."<br>*Can You FEEL Me?* is a remote participatory performance with empathy and responsibility at its heart. The audience enters a one-to-one encounter where they are no longer simply watching, but gradually become part of the world they are witnessing. Through a first-person perspective and an encounter that slowly unfolds, the boundary between observer and participant begins to disappear.<br>The question is: can we recognise something of ourselves in another person, even when we come from different places and do not share the same language or culture?<br>Can we understand another human being without sharing the same words or the same world?<br>And if we are given the opportunity to respond, what do we choose?         
          
 Writer & Director: Parastu Mohafezatkar · Concept: Shahrokh Rad · Cast: Parastu Mohafezatkar & Sina Tavakoli · Music: Hasan Moinfar & Hosein Moinfar · Assistant Director: Ghazal Bakhtiary         
         
@@ -176,7 +176,7 @@ Sweætshops® (@sweXtshops) is a multi-personality enterprise from the birthplac
          
 Tiffany is attempting to be in the commercial world, but over the course of one phone call, it becomes apparent that she's starting to be stretched too far.<br>The world is a tight place to be sometimes.         
          
-Terri is a disabled, hard of hearing, and neurodivergent actor and writer from Stockport. In 2025, their play *DOG DOG DOG* won the Bruntwood Prize for Playwrighting's Special Commendation award.         
+Terri is a disabled, hard of hearing, and neurodivergent actor and writer from Stockport. In 2025, their play *DOG DOG DOG* won the Bruntwood Prize for Playwriting's Special Commendation award.         
          
 <a href="https://spotlight.com/3418-9080-7516" target="_blank">Spotlight</a> · Insta <a href="https://instagram.com/terri_donovan5" target="_blank">@terri\_donovan5</a>         
 <hr>          
