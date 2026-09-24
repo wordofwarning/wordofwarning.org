@@ -5,7 +5,7 @@ rootpath: "../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Emergency 26" # the name of the artist or company
-show: "Evening Programme, Noon-5pm." # the name of the show
+show: "Evening Programme, 5pm-10pm." # the name of the show
 artist_size: 1
 show_size: 4
 header_image:  
@@ -32,7 +32,7 @@ Content Warnings: some works involve interaction and/or participation; please re
          
 Sound design by Andrew Heath.<br>Thanks to Professor Daniel Brison and Roshana Rubin Mayhew.         
          
-I am an artist based in Manchester, I make intimate art projects in unusual places with complete strangers. Art is my way of saying ‘sometimes I feel like this, do you?’         
+I am an artist based in Manchester. I make intimate art projects in unusual places with complete strangers. Art is my way of saying ‘sometimes I feel like this, do you?’         
          
 <a href="https://thelowri.com" target="_blank">thelowri.com</a> · Insta <a href="https://instagram.com/thelowri" target="_blank">@thelowri</a>         
 <hr>          
@@ -50,13 +50,13 @@ Insta <a href="https://instagram.com/is.vi.a_" target="_blank">@is.vi.a\_</a>
           
 Co-created & performed by Orla Collier & Nigel Stewart.<br>Produced by Sap Dance & Desire Lines Dance Theatre.<br>Supported by Lancaster Arts and Yorkshire Dance.<br>Special thanks to life drawing groups: Bare Canvas, Catherine MacDiarmid, Ilkley Arts, King Street Arts, Otley Life Drawing, See You Naked, ColourWheel Lancaster.         
          
-Orla Collier is a dance artist, physical theatre practitioner, and life model based in Leeds. She is the lead artist of Desire Lines Theatre and has collaborated on a wide range of projects for UK companies.<br>Nigel Stewart is a freelance dance artist, life model, and independent dance scholar. He is Artistic Director of Sap Dance, and Emeritus Senior Lecturer at Lancaster University. He has choreographed and performed in the UK, the US, and continental Europe since 1982. He has published extensively on contemporary dance.<br>Sap Dance have produced short theatre pieces and full-length site-specific rural and coastal performance works and films since 2005. They last performed in [Turn 2026](/current/2026-turn).<br>Desire Lines Dance Theatre have produced works for theatres and outdoor settings since 2021, including the solo *Are You Local?* and the duet *Twenty-first Century Love* with Sap Dance.       
+Orla Collier is a dance artist, physical theatre practitioner, and life model based in Leeds. She is the lead artist of Desire Lines Dance Theatre and has collaborated on a wide range of projects for UK companies.<br>Nigel Stewart is a freelance dance artist, life model, and independent dance scholar. He is Artistic Director of Sap Dance, and Emeritus Senior Lecturer at Lancaster University. He has choreographed and performed in the UK, the US, and continental Europe since 1982. He has published extensively on contemporary dance.<br>Sap Dance have produced short theatre pieces and full-length site-specific rural and coastal performance works and films since 2005. They last performed in [Turn 2026](/current/2026-turn).<br>Desire Lines Dance Theatre have produced works for theatres and outdoor settings since 2021, including the solo *Are You Local?* and the duet *Twenty-first Century Love* with Sap Dance.       
          
 <a href="https://desirelinesdancetheatre.com" target="_blank">desirelinesdancetheatre.com</a> · Insta <a href="https://instagram.com/desirelinesdancetheatre" target="_blank">@desirelinesdancetheatre</a> <a href="https://instagram.com/orla.collier" target="_blank">@orla.collier</a>         
 <hr>          
 **Id Est Performance Company** · *Mania*         
          
-*Mania* is an informed mess that is quietly loud with a calm chaos. Iris knows. Emma knows. She knows. They know. We know. You know?<br>There is twenty-eight minutes counting down on the clock, two young women on stage ready to shred, prepare, release, and grow. Exploring cycles, within us and surrounding us. Cycles are shared, connecting us internally and externally. 28 days for the moon to orbit earth, 28 days of a menstrual cycle. Our cycles create who we are. Cycles can change with time but for now we would like to keep ours. And we assure you that Mania will fall and rise again.         
+*Mania* is an informed mess that is quietly loud with a calm chaos. Iris knows. Emma knows. She knows. They know. We know. You know?<br>There are twenty-eight minutes counting down on the clock, two young women on stage ready to shred, prepare, release, and grow. Exploring cycles, within us and surrounding us. Cycles are shared, connecting us internally and externally. 28 days for the moon to orbit earth, 28 days of a menstrual cycle. Our cycles create who we are. Cycles can change with time but for now we would like to keep ours. And we assure you that Mania will fall and rise again.         
          
 Id Est is a female-led performance company founded by Iris Bell & Emma Grave: together they make work that is rooted in knowledge, experience, and play. They aim to discuss and present themes, largely surrounding the female experience, with a fresh perspective, whilst deploying conceptual techniques.         
          
@@ -66,7 +66,7 @@ Insta <a href="https://instagram.com/idest_idest" target="_blank">@idest_idest</
          
 *COMPUTER\_GRRRL (WIP)* is literally just a girl on a laptop <3. Emily Bold is a computer\_grrl from Manchester who also does theatre, art, and creative captioning. This is her first solo performance.         
          
-Emily (she/they) is an interdisciplinary performer and artist from Manchester. Their work has been best described via a YouTube comment: “viscerally unpleasant. good stuff.”<br>Current other projects include *Bad Science*, a theatre piece exploring the political abuse of psychiatry in the context of big data and surveillance, and *Deviant Diners*, a solo mixed-media project on neuroqueer experiences with food, shown as part of A Modest Show, the official collateral programme to the BAS09. Emily also works as a creative captioner and began their career creating disabled-led work across the North West. They regularly collaborate with emerging artists from stand-up, poetry, and music, and have performed at HOME, Unity Theatre, Royal Exchange Theatre, Lowry, Pleasance Courtyard at EdFringe, and the National Student Drama Festival.Emily was also a part of the BEYOND Conference's 2025 Emerging Innovators, and has recently been a part of the University of Salford x Lowry CreaTech Artist CoLab.         
+Emily (she/they) is an interdisciplinary performer and artist from Manchester. Their work has been best described via a YouTube comment: “viscerally unpleasant. good stuff.”<br>Current other projects include *Bad Science*, a theatre piece exploring the political abuse of psychiatry in the context of big data and surveillance, and *Deviant Diners*, a solo mixed-media project on neuroqueer experiences with food, shown as part of A Modest Show, the official collateral programme to the BAS9. Emily also works as a creative captioner and began their career creating disabled-led work across the North West. They regularly collaborate with emerging artists from stand-up, poetry, and music, and have performed at HOME, Unity Theatre, Royal Exchange Theatre, Lowry, Pleasance Courtyard at EdFringe, and the National Student Drama Festival. Emily was also a part of the BEYOND Conference's 2025 Emerging Innovators, and has recently been a part of the University of Salford x Lowry CreaTech Artist CoLab.         
          
 Insta <a href="https://instagram.com/emily_bold_" target="_blank">@emily\_bold\_</a>         
 <hr>          
@@ -82,7 +82,7 @@ Chris is a spoken word and performance artist working across comedy, live art, a
          
 *Grow Up!* The classic expression everyone tells you when you're younger. Be better than you were before, more mature, more older, more wiser. But that isn't what Lee thinks, or what Little Lee thinks. What you dreamt of when you were younger is still there, and what you were afraid of. The only difference: that jumper you used to love just might not fit anymore… and that's okay.<br>So, look back at Lee's memories, dreams, and fears, and see what his family has to say about all that too. Just don't tell him he's about to turn 21!         
          
-Lee is a theatre maker and actor from Hull, now based in Manchester, who specialises in autobiographical work that blend comedy with honesty, inviting the audience into his life in order to allow them to reflect on their own. After recently graduating from the Arden School of Theatre, he is incredibly excited to kickstart his career and see where his creative potential can take him.         
+Lee is a theatre maker and actor from Hull, now based in Manchester, who specialises in autobiographical work that blends comedy with honesty, inviting the audience into his life in order to allow them to reflect on their own. After recently graduating from the Arden School of Theatre, he is incredibly excited to kickstart his career and see where his creative potential can take him.         
          
 Insta <a href="https://instagram.com/leepy_fletch" target="_blank">@leepy\_fletch</a>         
 <hr>          
