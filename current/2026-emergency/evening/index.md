@@ -17,7 +17,7 @@ season: "Emergency 26|9|2026, Evening Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-emergency/#artists) · [afternoon](/current/2026-emergency/afternoon) · [evening](/current/2026-emergency/evening) · [entry](/current/2026-emergency/#entry) · [access](/current/2026-emergency/#access) · [about](/current/2026-emergency/#about) · [credits](/current/2026-emergency/#credits)</span>&ensp; <small>Updated&nbsp;23&nbsp;September&nbsp;2026</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2026-emergency/#artists) · [afternoon](/current/2026-emergency/afternoon) · [evening](/current/2026-emergency/evening) · [entry](/current/2026-emergency/#entry) · [access](/current/2026-emergency/#access) · [about](/current/2026-emergency/#about) · [credits](/current/2026-emergency/#credits)</span>&ensp; <small>Updated&nbsp;24&nbsp;September&nbsp;2026</small>         
          
 *Presented by* Word of Warning *+* <a href="https://contactmcr.com/events/emergency-26" target="_blank">Contact</a>         
          
@@ -29,6 +29,8 @@ Content Warnings: some works involve interaction and/or participation; please re
 **Lowri Evans** · *The Smallest Thing in the World*          
          
 *The Smallest Thing in the World* will see Lowri Evans thaw her last frozen embryo. Come and give her smallest ever creation the biggest send off and contemplate life and death in the same breath. A once in a lifetime show. Literally.         
+         
+Sound design by Andrew Heath.<br>Thanks to Professor Daniel Brison and Roshana Rubin Mayhew.         
          
 I am an artist based in Manchester, I make intimate art projects in unusual places with complete strangers. Art is my way of saying ‘sometimes I feel like this, do you?’         
          
