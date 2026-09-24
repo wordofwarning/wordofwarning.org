@@ -17,7 +17,7 @@ season: "Emergency 26|9|2026, Afternoon Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-emergency/#artists) · [afternoon](/current/2026-emergency/afternoon) · [evening](/current/2026-emergency/evening) · [entry](/current/2026-emergency/#entry) · [access](/current/2026-emergency/#access) · [about](/current/2026-emergency/#about) · [credits](/current/2026-emergency/#credits)</span>&ensp; <small>Updated&nbsp;23&nbsp;September&nbsp;2026</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2026-emergency/#artists) · [afternoon](/current/2026-emergency/afternoon) · [evening](/current/2026-emergency/evening) · [entry](/current/2026-emergency/#entry) · [access](/current/2026-emergency/#access) · [about](/current/2026-emergency/#about) · [credits](/current/2026-emergency/#credits)</span>&ensp; <small>Updated&nbsp;24&nbsp;September&nbsp;2026</small>         
          
 *Presented by* Word of Warning *+* <a href="https://contactmcr.com/events/emergency-26" target="_blank">Contact</a>         
          
