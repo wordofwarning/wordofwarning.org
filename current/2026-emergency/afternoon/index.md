@@ -158,9 +158,9 @@ Dr Rowena Gander is a Liverpool-based performance artist, choreographer, and edu
          
 *Requiem in Progress* is an ongoing sonic performance project. Two people explore memory, grief, and new forms of relationships with the absent through various activation points: voice, movement, found sounds, and a record collection left behind.<br>*Requiem in Progress* is a response to loss where grief is not resolved but held open as an embodied and communal experience.         
          
-Yamamoto-Antonowicz is the performance duo of Yui Yamamoto and Ruby Antonowicz-Behnan. Our work interweaves voice, movement, and analogue and digital audio practices through theatre and sonic composition. We aim to open new perspectives on death, care, and memory, exploring how these experiences are voiced, shared, and understood.         
+Ruby Antonowicz-Behnan and Yui Yamamoto’s work interweaves voice, movement, and analogue and digital audio practices through theatre and sonic composition. We aim to open new perspectives on death, care, and memory, exploring how these experiences are voiced, shared, and understood. As a duo we have also organised a live art and performance weekender under the name Present Voices.        
          
-<a href="https://yuiyamamoto.com" target="_blank">yuiyamamoto.com</a> · Insta <a href="https://instagram.com/rubyantonowiczbehnan" target="_blank">@rubyantonowiczbehnan</a> & <a href="https://instagram.com/ugly_society_lover" target="_blank">@ugly\_society\_lover</a>         
+Insta <a href="https://instagram.com/rubyantonowiczbehnan" target="_blank">@rubyantonowiczbehnan</a> <a href="https://instagram.com/ugly_society_lover" target="_blank">@ugly\_society\_lover</a> <a href="https://instagram.com/present_voices" target="_blank">@present_voices</a>         
 <hr>          
 **Sweætshops®** · *imperson - imprint*         
          
