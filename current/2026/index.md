@@ -8,11 +8,11 @@ artist_size: 1
 season: "Performance Programme 2026"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2026/#about) · [what](/current/2026/#what) · [by](/current/2026/#by) · [people](/current/2026/#people) · [warnings](/current/2026/#warnings)</span>&ensp; <small>Updated&nbsp;2&nbsp;September&nbsp;2026</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2026/#about) · [what](/current/2026/#what) · [by](/current/2026/#by) · [people](/current/2026/#people) · [warnings](/current/2026/#warnings)</span>&ensp; <small>Updated&nbsp;28&nbsp;September&nbsp;2026</small>        
          
-*The year continues with [Emergency](/current/2026-emergency)'s day out for the curious, then [Egan & Pinchbeck](/current/2026/eganpinchbeck)'s show about a song about a painter, and concludes with an autumnal [Social Experiment](/socialexperiment)…*         
+*The year continues with [Egan & Pinchbeck](/current/2026/eganpinchbeck)'s show about a song about a painter, and concludes with an autumnal [Social Experiment](/socialexperiment)…*         
            
-*So far we've shown [Victoria Melody](/current/2026/melody)'s testament to people power, [Turn](/current/2026-turn)'s whirlwind of dance, [Harry Clayton-Wright](/current/2026/clayton-wright)'s theatrical extravaganza, [n:u (melissandre varin)](/current/2026-worksahead/nu)'s performance-ritual, [Nathan Birkinshaw](/current/2026-worksahead/birkinshaw)'s exploration of contentment, and [Haphazard](/current/2026-haphazard)'s all ages antics…*          
+*So far we've shown [Victoria Melody](/current/2026/melody)'s testament to people power, [Turn](/current/2026-turn)'s whirlwind of dance, [Harry Clayton-Wright](/current/2026/clayton-wright)'s theatrical extravaganza, [n:u (melissandre varin)](/current/2026-worksahead/nu)'s performance-ritual, [Nathan Birkinshaw](/current/2026-worksahead/birkinshaw)'s exploration of contentment, [Haphazard](/current/2026-haphazard)'s all ages antics, and [Emergency](/current/2026-emergency)'s day out for the curious…*          
           
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
@@ -48,13 +48,13 @@ hÅb is also a <a href="http://divergencymcr.org" target="_blank">Divergency</a>
 #### People        
 Tamsin Drury, [hÅb](/hab)'s Director, has been around a while — a really long while — she's been responsible for making the Arndale Tower flash, wrapping Cathedral Gardens in 7km of hazard tape, and firing a glitter-cannon to the *Hallelujah* chorus! On the less eccentric side, over the years hÅb has worked with hundreds of GM & NW artists to help them create new work.<br><i>Please send programming enquiries to her via <mailto:info@habmcr.org></i>        
         
-John Franklin-Johnston, hÅb's Programme Manager, is a freelance producer, events manager, facilitator, and was <a href="http://greenroomarts.org" target="_blank">greenroom</a>'s programme co-ordinator.         
+John Franklin-Johnston, hÅb's Programme Manager, is a freelance producer and events manager, and was <a href="http://greenroomarts.org" target="_blank">greenroom</a>'s programme co-ordinator.         
          
 Peader Kirk, artist & mentor, supports [Works Ahead](/hab/worksahead) and other hÅb projects, and hosts our [Social Experiments](/socialexperiment).         
          
-We're grateful for the ongoing support of hÅb projects during 2026 from a team of freelancers and volunteers that includes: Alison Darnbrough, Andrew Crofts, Catherine Shaw, Sam Stockdale, Tania Camara, Tricia Coleman, plus Theatre & Performance students from The Arden.         
+We're grateful for the ongoing support of hÅb projects during 2026 from a team of freelancers and volunteers that includes: Alison&nbsp;Darnbrough, Andrew&nbsp;Crofts, Annelise&nbsp;Edwards, Bronwyn&nbsp;Bull, Catherine&nbsp;Shaw, Christopher&nbsp;Mountain, Ella&nbsp;Roberts, Emma&nbsp;Grave, Jacob&nbsp;Lisle, Jamil&nbsp;Keating, Martha&nbsp;Barr, Sam&nbsp;Stockdale, Tania&nbsp;Camara, Tricia&nbsp;Coleman, plus alumni & students from <a href="https://thearden.ucenmanchester.ac.uk/courses/theatre-and-performance" target="_blank">Theatre + Creative Performance at The Arden</a>.         
          
-Thanks also to [hÅb](/hab)'s Advisory Board: Helen Palmer, Alice Booth, Cathy Butterworth, Charles Rowley, Joseph Lau, Tania Camara, and Maya Chowdhry for [Divergency](/hab/divergencymcr).        
+Thanks also to [hÅb](/hab)'s Advisory Board: Helen&nbsp;Palmer, Alice&nbsp;Booth, Cathy&nbsp;Butterworth, Charles&nbsp;Rowley, Joseph&nbsp;Lau, Tania&nbsp;Camara, and Maya&nbsp;Chowdhry for [Divergency](/hab/divergencymcr).        
 <small><span style='font-variant: small-caps'>[back to top](/current/2026)</span></small>        
          
 #### Warnings          
