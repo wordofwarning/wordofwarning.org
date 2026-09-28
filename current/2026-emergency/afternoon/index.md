@@ -170,7 +170,7 @@ Terri is a disabled, hard of hearing, and neurodivergent actor and writer from S
          
 <a href="https://spotlight.com/3418-9080-7516" target="_blank">Spotlight</a> · Insta <a href="https://instagram.com/terri_donovan5" target="_blank">@terri\_donovan5</a>         
 <hr>         
-Unfortunately Sweætshops® unable to perform **imperson - imprint**.         
+***NB*** unfortunately **Sweætshops®** unable to perform *imperson - imprint*.         
          
 <a href="https://swextshops.io" target="_blank">swextshops.io</a> · Insta <a href="https://instagram.com/swextshops" target="_blank">@swextshops</a>        
 <hr>          
