@@ -17,7 +17,7 @@ season: "Emergency 26|9|2026, Afternoon Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-emergency/#artists) · [afternoon](/current/2026-emergency/afternoon) · [evening](/current/2026-emergency/evening) · [entry](/current/2026-emergency/#entry) · [access](/current/2026-emergency/#access) · [about](/current/2026-emergency/#about) · [credits](/current/2026-emergency/#credits)</span>&ensp; <small>Updated&nbsp;24&nbsp;September&nbsp;2026</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2026-emergency/#artists) · [afternoon](/current/2026-emergency/afternoon) · [evening](/current/2026-emergency/evening) · [entry](/current/2026-emergency/#entry) · [access](/current/2026-emergency/#access) · [about](/current/2026-emergency/#about) · [credits](/current/2026-emergency/#credits)</span>&ensp; <small>Updated&nbsp;28&nbsp;September&nbsp;2026</small>         
          
 *Presented by* Word of Warning *+* <a href="https://contactmcr.com/events/emergency-26" target="_blank">Contact</a>         
          
@@ -162,16 +162,6 @@ Ruby Antonowicz-Behnan and Yui Yamamoto’s work interweaves voice, movement, an
          
 Insta <a href="https://instagram.com/rubyantonowiczbehnan" target="_blank">@rubyantonowiczbehnan</a> <a href="https://instagram.com/ugly_society_lover" target="_blank">@ugly\_society\_lover</a> <a href="https://instagram.com/present_voices" target="_blank">@present_voices</a>         
 <hr>          
-**Sweætshops®** · *imperson - imprint*         
-         
-𓇒 𓎟 𓇜 𓅐 𓎟 𓈐 𓁹 *imperson - imprint* is an ongoing performance and sound project. Structured as a series of contemporary mystery plays, it examines the world's most impersonated figure (Elvis Presley) through the lens of the ancient Egyptian Memphite conception of the afterlife and iconisation.<br>Within the Memphite belief system, the continued replication of a person's image in the world of the living ensured their existence in the afterlife. When their likeness ceased to be reproduced, they ceased to exist entirely. *imperson - imprint* approaches this as a form of proto-celebrity culture, where a shallow immortality is sustained through continued acts of representation.<br>"The image is one thing and the human being is another." — Elvis Presley          
-         
-Supported with seed funding from the Creative Scotland project fund.	     
-         
-Sweætshops® (@sweXtshops) is a multi-personality enterprise from the birthplace of the industrial revolution. As above, so below: reappropriating the relentless flow of pop culture, mass-produced goods, and digital trends through various esoteric frameworks to create allegories for hidden systems of power, social contradictions, and the emerging conditions of 21st-century life.         
-         
-<a href="https://swextshops.io" target="_blank">swextshops.io</a> · Insta <a href="https://instagram.com/swextshops" target="_blank">@swextshops</a>         
-<hr>          
 **Terri Jade Donovan** · *Take Off Tiffany*         
          
 Tiffany is attempting to be in the commercial world, but over the course of one phone call, it becomes apparent that she's starting to be stretched too far.<br>The world is a tight place to be sometimes.         
@@ -179,5 +169,9 @@ Tiffany is attempting to be in the commercial world, but over the course of one 
 Terri is a disabled, hard of hearing, and neurodivergent actor and writer from Stockport. In 2025, their play *DOG DOG DOG* won the Bruntwood Prize for Playwriting's Special Commendation award.         
          
 <a href="https://spotlight.com/3418-9080-7516" target="_blank">Spotlight</a> · Insta <a href="https://instagram.com/terri_donovan5" target="_blank">@terri\_donovan5</a>         
+<hr>         
+Unfortunately Sweætshops® unable to perform **imperson - imprint**.         
+         
+<a href="https://swextshops.io" target="_blank">swextshops.io</a> · Insta <a href="https://instagram.com/swextshops" target="_blank">@swextshops</a>        
 <hr>          
 <small><span style='font-variant: small-caps'>[back to top](/current/2026-emergency/afternoon)</span></small>
