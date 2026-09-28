@@ -16,11 +16,11 @@ season: "Emergency by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated 25 August 2026</small>        
+<small>Updated&nbsp;28&nbsp;September&nbsp;2026</small>        
         
 **Emergency** is our annual open call platform for Live Art and contemporary performance — offering a sneak preview of new live work over a single day in Manchester every autumn and now resident at <a href="https://contactmcr.com" target="_blank">Contact</a>, its seventh home.        
          
-[Manchester's 26th micro-marathon](/current/2026-emergency) of the bizarre, the bold, and the beautiful takes over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 26 September 2026, from Noon to 10pm** — presenting *about* twenty-six works throughout the building.          
+[Manchester's 26th micro-marathon](/current/2026-emergency) of the bizarre, the bold, and the beautiful took over <a href="https://contactmcr.com" target="_blank">Contact</a> on **Saturday 26 September 2026, from Noon to 10pm** — presenting twenty-five works throughout the building.          
          
 Get a feel for it with [2025's programme](/archive/2025-emergency/#artists) and [gallery of images](/galleries/2025-emergency); [2024's programme](/archive/2024-emergency/#artists) and [gallery](/galleries/2024-emergency); [2023's programme](/archive/2023-emergency/#artists) and [gallery](/galleries/2023-emergency).         
          
@@ -45,7 +45,7 @@ First held at greenroom in 2000, Emergency also took place at International Anth
           
 **[Emergency StopGap](/archive/2020-emergencystopgap)** presented 13 new works in a new iteration at Manchester's <a href="https://www.niamos.co.uk" target="_blank">NIAMOS</a> on **27 February 2020** — a small informal platform to bridge the gap between gallery and theatre, and to fill the empty months of winter… An informal 'Thursday Late' style evening with durational live works and interventions throughout the building — [see images](/galleries/2020-emergencystopgap).         
          
-#### Emergency 26 Call for Proposals Closed on 7 August      
+#### Emergency 26 Call for Proposals Closed on 7 August 2026      
 Artists working in Live Art, contemporary performance, time-based media, and interdisciplinary arts <a href="https://emergencymcr.posthaven.com" target="_blank">were invited to submit proposals</a>. Work can be in any relevant artform/medium, though some live presence is desirable.        
          
 **For details please visit <a href="https://emergencymcr.posthaven.com" target="_blank">emergencymcr.posthaven.com</a><br>Proposal Deadline: Friday 7 August 2026, 5pm**
