@@ -1,0 +1,1 @@
+Emergency 26 documentation gallery. Upload this directory as 2026-emergency; it contains 25 photographed pieces, two images each, plus the title image. ON and Sweætshops® had no photo folders in the supplied Pictures directory. Originals are unchanged.
