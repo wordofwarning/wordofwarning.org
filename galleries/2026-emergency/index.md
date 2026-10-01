@@ -3,7 +3,7 @@ layout: fullscreengallery
 assetpath: "../../../"
 galleryimagespath: ""
 
-title: "Word of Warning + Contact present Emergency 26|09|26"
+title: "Word of Warning + Contact present Emergency 26|9|26"
 header: <img src="logo.png">
 stylesheet: gallery.css
 
@@ -18,8 +18,8 @@ gallery:
     -   {file: "bait-2.jpg", artist: "Bait"}
     -   {file: "ben-hodge-1.jpg", artist: "Ben Hodge"}
     -   {file: "ben-hodge-2.jpg", artist: "Ben Hodge"}
-    -   {file: "chris-brown-1.jpg", artist: "Chris Brown"}
-    -   {file: "chris-brown-2.jpg", artist: "Chris Brown"}
+    -   {file: "chris-brown-1.jpg", artist: "chris brown"}
+    -   {file: "chris-brown-2.jpg", artist: "chris brown"}
     -   {file: "chris-jenkins-1.jpg", artist: "Chris Jenkins"}
     -   {file: "chris-jenkins-2.jpg", artist: "Chris Jenkins"}
     -   {file: "emergency-chorus-1.jpg", artist: "Emergency Chorus"}
@@ -28,8 +28,8 @@ gallery:
     -   {file: "emily-bold-2.jpg", artist: "Emily Bold"}
     -   {file: "emma-geraghty-1.jpg", artist: "Emma Geraghty"}
     -   {file: "emma-geraghty-2.jpg", artist: "Emma Geraghty"}
-    -   {file: "id-est-1.jpg", artist: "Id Est"}
-    -   {file: "id-est-2.jpg", artist: "Id Est"}
+    -   {file: "id-est-1.jpg", artist: "Id Est Performance Company"}
+    -   {file: "id-est-2.jpg", artist: "Id Est Performance Company"}
     -   {file: "isabella-victorie-a-1.jpg", artist: "Isabella Victorie A."}
     -   {file: "isabella-victorie-a-2.jpg", artist: "Isabella Victorie A."}
     -   {file: "joss-affleck-1.jpg", artist: "Joss Affleck"}
@@ -46,8 +46,8 @@ gallery:
     -   {file: "mimosa-art-house-rosie-fielding-2.jpg", artist: "Mimosa Art House & Rosie Fielding"}
     -   {file: "pablo-pakula-1.jpg", artist: "Pablo Pakula"}
     -   {file: "pablo-pakula-2.jpg", artist: "Pablo Pakula"}
-    -   {file: "parastu-1.jpg", artist: "Parastu"}
-    -   {file: "parastu-2.jpg", artist: "Parastu"}
+    -   {file: "parastu-1.jpg", artist: "Parastu Mohafezatkar"}
+    -   {file: "parastu-2.jpg", artist: "Parastu Mohafezatkar"}
     -   {file: "phbia-1.jpg", artist: "PHØBIA"}
     -   {file: "phbia-2.jpg", artist: "PHØBIA"}
     -   {file: "rachel-gomme-1.jpg", artist: "Rachel Gomme"}
