@@ -68,6 +68,5 @@ archived:
     - {folder: "hab-archive", name: "hÅb Archive (pre-2011)", class: "hab"}
 
 ---
-
-# Galleries     
-See images from our previous events below…&ensp; <small>Updated 16 July 2026<small>
+# Galleries         
+See images from our previous events below…&ensp; <small>Updated&nbsp;1&nbsp;October&nbsp;2026</small>
