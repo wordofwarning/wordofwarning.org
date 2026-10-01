@@ -17,13 +17,13 @@ season: "Emergency 26|9|2026"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/current/2026-emergency/#artists) · [afternoon](/current/2026-emergency/afternoon) · [evening](/current/2026-emergency/evening) · [entry](/current/2026-emergency/#entry) · [access](/current/2026-emergency/#access) · [about](/current/2026-emergency/#about) · [credits](/current/2026-emergency/#credits)</span>&ensp; <small>Updated&nbsp;28&nbsp;September&nbsp;2026</small>         
+<span style='font-variant: small-caps'>→ [artists](/current/2026-emergency/#artists) · [afternoon](/current/2026-emergency/afternoon) · [evening](/current/2026-emergency/evening) · [entry](/current/2026-emergency/#entry) · [access](/current/2026-emergency/#access) · [about](/current/2026-emergency/#about) · [credits](/current/2026-emergency/#credits)</span>&ensp; <small>Updated&nbsp;1&nbsp;October&nbsp;2026</small>         
          
 *Presented by* Word of Warning *+* <a href="https://contactmcr.com/events/emergency-26" target="_blank">Contact</a>        
         
 Manchester's 26th micro-marathon of the bizarre, the bold, and the beautiful takes over Contact on **Saturday 26 September**, from Noon to 10pm:<br>— with an [**Afternoon**](/current/2026-emergency/afternoon) of installations, interventions, limited capacity works;<br>— followed by an [**Evening**](/current/2026-emergency/evening) full of short shows from 5pm…          
           
-Look at some of our [artists' images](/galleries/2026-emergencypre) and get a feel for it with [2025's programme](/archive/2025-emergency/#artists).         
+Look at some of our [artists' images](/galleries/2026-emergencypre) — now it's over, see [images from the event](/galleries/2026-emergency).          
          
 >*<font color="#FFFFFF">From digital ghosts to an immortal Elvis, falling bodies to miniature worlds, a train full of memories, and the smallest of farewells.<br>Welcoming new faces and the return of old friends, we’ll be mending the unrepairable, holding everything together, and watching things unravel.<br>What we can say is: the only thing trickling down will be the performer.</font>*         
          
