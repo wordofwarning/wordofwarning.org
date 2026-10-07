@@ -7,12 +7,12 @@ is_index: true
 
 ---
 
-####What is Word of Warning and where did it come from?
+#### What is Word of Warning and where did it come from?
 
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of live performance: an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work.
 
 
-####Who’s it for?
+#### Who’s it for?
 
 Anyone looking for a different night out.
 
@@ -20,7 +20,7 @@ We don’t want to put you off by talking labels – yes there’ll be theatre, 
 
 Oh, and of course it’s for anyone seriously missing greenroom!
 
-####Who is Word of Warning?
+#### Who is Word of Warning?
 
 Ok – well to come clean, it’s largely just one, pretty obsessive, person.  
 
