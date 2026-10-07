@@ -18,7 +18,7 @@ After Easter we head into a [Spring/Summer](/archive/2014-springsummer) extensio
                 
 Really hoping to see you at some of our forthcoming programme; if you want to check out what happened last season, have a look at our [A/W 2013 archive](/archive/2013-autumnwinter).    
         
-####What is Word of Warning and where did it come from?
+#### What is Word of Warning and where did it come from?
 Simply put, Word of Warning is a one-stop shop for the bonkers, the beautiful and the bizarre of live performance: an attempt to keep alive the best of the 25 year greenroom legacy and to introduce new people to the possibilities of seeing live work in Manchester.
 
 We take live work very seriously — but we don't take ourselves seriously at all. In 2012, alongside funny, thought-provoking, beautiful work by the likes of Third Angel, Ellie Harrison, GETINTHEBACKOFTHEVAN, Levantes Dance Theatre, Action Hero, Richard DeDomenici, Made In China and many more, we served the audience gin and satsuma jello shots, played bingo, apple-bobbing, drenched them in confetti and reinvented St Andrews Day with snowballs and whisky macs.        
@@ -27,7 +27,7 @@ For 2013 we presented a whirlwind of work from artists including Lowri Evans, He
 
 >*Curated by the ever-impressive Word Of Warning, Domestic consists of seven offbeat shows staged in a 1970s tower block in Hulme.*<br>[The Guardian's Lyn Gardner, on Domestic](http://www.theguardian.com/stage/2013/nov/02/this-weeks-theatre)
         
-####Who’s it for?
+#### Who’s it for?
 **Anyone looking for a different night out.**    
 
 We don’t want to put you off by talking labels – yes there’ll be theatre, live art, dance – the aim is to be anything but elitist or po-faced. So if you like comedy, music, gaming or just a friendly, stimulating evening – there’ll be something you might want to take a chance on.    
@@ -46,7 +46,7 @@ We don’t want to put you off by talking labels – yes there’ll be theatre, 
 >*A really eclectic and engaging programme of intimate work in a series of exciting and unique spaces.*        
 >*Bold and brave programming.*      
        
-####Who is Word of Warning?         
+#### Who is Word of Warning?         
 My name’s Tamsin Drury and I run an organisation called **[hÅb](/hab)**, which was greenroom’s partner for over a decade. You might not know hÅb but you might know some of our events – like **Emergency** (Manchester’s free marathon of live work with 40 shows in 3 venues) and **Hazard** (random sprees of eccentricity in Manchester's City Centre).
 
 I’ve been around a while, a really long while… and in that time, I’ve been responsible for making the Arndale Tower flash, wrapping Cathedral Gardens in 7km of hazard tape and encouraging a mass audience conga and a glitter-cannon Hallelujah chorus!    

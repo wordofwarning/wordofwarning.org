@@ -14,12 +14,12 @@ show: "27" # the name of the show
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-####In Brief    
+#### In Brief    
 Real rockstars die aged 27. Ollie Smith is 26. He is not a rockstar. Yet. Sitting somewhere between a grubby gig, a fanatic lecture and a Jonestown-esque cult meeting, *27* is a darkly humorous show that stirs up the myths surrounding the notorious 27 Club: a group of legendary musicians who all died at just 27 years of age.    
 
 ![27](Ollie27_1.jpg)    
 
-####More    
+#### More    
 **Hendrix. Joplin. Morrison. Cobain. Winehouse. Smith?**             
 *27* takes on hedonism and fading dreams, drugs and booze, suffocation and electrocution, murder and suicide.            
 
@@ -29,7 +29,7 @@ Through a precise meandering of pseudo-philosophy and numerology, risk assessmen
 
 ![27](Ollie27_2.jpg) 
 
-####Who is he
+#### Who is he
 Ollie Smith is a live artist, theatre maker and musician based in Nottingham, UK. He makes performance work as a solo artist and as a collaborator. He has been a rock junkie since he was a child and has an extensive vinyl library - but his turntable is broken.           
 
 In addition to *27*, Ollie has recently begun working on *Cat in Hell*:          
@@ -42,15 +42,15 @@ Ollie has toured nationally with various shows and has received commissions, pla
 Ollie trained as a performer at Bretton Hall and graduated in 2007 with first-class honours.
 
 
-####Credits            
+#### Credits            
 *27* is supported using public funding by Arts Council England, Emerge (Leeds) and circuit Live Art Festival (Leicester).
 
 
-####Website    
+#### Website    
 [www.olliesmiths27.co.uk](http://www.olliesmiths27.co.uk)
 
 
-####Venue & Booking Details
+#### Venue & Booking Details
 Date: Friday 2 November, 7.30pm (double bill with Richard DeDomenici)    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
 [Tickets: £8/5](http://www.z-arts.org/events/word-of-warning-02-nov/)    

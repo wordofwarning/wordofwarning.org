@@ -13,13 +13,13 @@ show_size: 3
 ---
 *Part of* The Flare Weekender 2014, *presented by* Flare + Word of Warning       
      
-####Venue + Booking Details        
+#### Venue + Booking Details        
 Date: Saturday 14 June 2014, 7pm     
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA      
 Tickets: [£10/6 Saturday 7pm](http://www.z-arts.org/events/flare-2014-sat-eve); [£16/10 Weekender Pass](http://www.z-arts.org/events/flare-2014-friday/)     
 Box Office Tel: 0161 232 6089    
 
-####Order of Appearance (subject to change)      
+#### Order of Appearance (subject to change)      
 **Hannah Sullivan (UK) ¦ *Echo Beach***              
 Hannah has a dance collection, it is a collection she has been gathering for a while, since 1999 in fact. It's in the details, that's what makes your dance so specific, whether you dance with your hips or your elbows, whether your eyes are open or closed.         
                         

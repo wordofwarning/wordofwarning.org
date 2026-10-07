@@ -13,13 +13,13 @@ artist_size: 2
 
 ![GETINTHEBACKOFTHEVAN](w6getintheback.jpg)
 
-####Who are they?
+#### Who are they?
 
 GETINTHEBACKOFTHEVAN is Hester Chillingworth, Lucy McCormick and Jennifer Pick, a London-based performance company, formed in 2008.
 
 Together they play with failure, attempt, endurance, utterance, trashiness, the pathetic, triumph, mess.  Based in London, they make theatre pieces and live art together… so far.  
 
-####Vanifesto
+#### Vanifesto
 
 GETINTHEBACKOFTHEVAN:   
 Make: broken genre performance  
@@ -27,7 +27,7 @@ Hold: a core belief in performance as dialogue
 Assert: that text does not always say what it says that it says it is saying      
 Want: to transport you.  
 
-####What People Have Said About Them
+#### What People Have Said About Them
 
 >External is michievous, hilarious and throught provoking - *Mark Ravenhill*
 
@@ -41,7 +41,7 @@ Want: to transport you.
 
 >Be warned, GETINTHEBACKOFTHEVAN is Marmite, and I hate Marmite. - *A Younger Theatre*
 
-####More
+#### More
 
 Jen wants to talk to you. Lucy wants more.
 They’ve got some stuff they found in a garage, a strict no-touch policy and conflicting ideas about how to keep you happy.
@@ -54,7 +54,7 @@ Hear them talk about the piece [here](http://www.youtube.com/watch?v=ZlvafgN31hs
 
 Let’s get the party started.
 
-####Website
+#### Website
 
 [getinthebackofthevan.com](http://www.getinthebackofthevan.com/)
 

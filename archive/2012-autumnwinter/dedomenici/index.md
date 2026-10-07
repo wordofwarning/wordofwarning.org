@@ -24,11 +24,11 @@ See video [here](http://www.youtube.com/watch?v=T3bCKVk2Ui0) and [here.](http://
 
 ![Popaganda](Popaganda.jpg)     
 
-####Who is he?
+#### Who is he?
 Artist, Filmmaker, Raconteur and Manufacturer of Dangerous Toys since 1798.    
 ![Popaganda](rd2.jpg)
 
-####What people have said about him
+#### What people have said about him
 >The thinking man's Ashton Kutcher<br>*Matt Trueman, The Guardian*    
 >Beautiful acts of absurdity highlighting more serious issues.  Frighteningly effective.<br>*The Guardian*       
 >Clever, tremendously funny, powerfully political and unafraid to be accessible.  Think of comic activist Mark Thomas crossed with TV satirist Chris Morris, and you have something approximating DeDomenici.<br>*The Sunday Herald*    
@@ -37,17 +37,17 @@ Artist, Filmmaker, Raconteur and Manufacturer of Dangerous Toys since 1798.
 ![Popaganda](rd6.jpg)
 
 
-####Credits       
+#### Credits       
 Presented by house.  Supported using public funding by Arts Council England.
 
 ![Popaganda](rd5.jpg)    
 
-####Websites
+#### Websites
 [www.dedomenici.com](http://www.dedomenici.com)    
 [www.housetheatre.org.uk](http://www.housetheatre.org.uk)
 
 
-####Venue & Booking Details
+#### Venue & Booking Details
 Date: Friday 2 November, 7.30pm (double bill with Ollie Smith)   
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
 [Tickets: £8/5](http://www.z-arts.org/events/word-of-warning-02-nov/)    

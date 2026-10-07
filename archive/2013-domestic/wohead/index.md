@@ -19,14 +19,14 @@ header_image: "header_wearyourhair.jpg"
 *Presented by* Word of Warning, Guiness Northern Counties + Z-arts       
 *during* [Domestic](/current/2013-domestic/index.html)        
 
-####In Brief
+#### In Brief
 Welcome to Greg’s bedroom in Mesquite, Texas, 1998. The Savage Garden CD is on repeat, there’s a pile of dirty laundry in the corner and he can’t stop thinking about Sara.            
           
 In this solo performance Greg tells you (from the perspective of a geeky teenager) the true story of the night he took a chance.            
                
 **Please note: this is a show for maximum 15 people, lasting approximately 50 minutes. Suitable for ages 12+.**        
          
-####Venue + Booking Details
+#### Venue + Booking Details
 Day One: Saturday 16 November 2013, [4pm](http://www.wegottickets.com/event/240541) + [7pm](http://www.wegottickets.com/event/240543)        
 Day Two: Sunday 17 November 2013, [4pm](http://www.wegottickets.com/event/240545) + [7pm](http://www.wegottickets.com/event/240547)                      
 [Venue: Cooper House](http://bit.ly/1anL5UN), off Boundary Lane, Manchester, M15 6DX — a 5 minute walk from Oxford Road (Aquatic Centre/RNCM), with a bus stop right outside for no's 53, 85, 86, 99, 101, 104, 105, 108, 109, 112, 250, 253, 263 & 291.             
@@ -34,31 +34,31 @@ LIMITED CAPACITIES, BOOKING ESSENTIAL:
 Tickets: £6/4, can be [booked online; a fee applies](http://www.wegottickets.com/wordofwarning).                
 Tickets: £6/4, can be reserved over the phone: 07581 299 439 (leave a message + we’ll get back to you).        
           
-####Access Information    
+#### Access Information    
 As a sited event, *Domestic* presents a number of access challenges.
 The flat *I like the way...* takes place in is level access, but **doorways are narrow** and wheelchair access may not be possible dependent on width.  If you are a wheelchair user planning to come **please contact us asap** on 07581 299 439.
 Spoken word based.             
 Age advisory: 12+    
 For specific age and access information please email <mailto:info@habarts.org> or call 07581 299 439.  
          
-####More      
+#### More      
 *I like the way you wear your hair* is a conversation with a past version of yourself. It’s about stomach butterflies, private thoughts and marching bands conveyed with simple storytelling and a pico projector, throwing hand-drawn memories and DIY atmosphere onto the walls, floor and ceiling.
 
 *"It's about me when I was 16 years old. I played the trumpet in a marching band, wanted desperately to be 'grunge' and had a huge crush on a girl called Sara. The show is mainly about the ways I tried to get Sara's attention and the huge rush of emotions you get when you put yourself out there. But more generally it's about looking back at the person you used to be with older eyes and recognising how that person made you who you are today."*       
             
-####Who is he?    
+#### Who is he?    
 Greg Wohead is a writer and performer who makes theatre shows, 1-to-1 performances and audio pieces.          
          
 Some of his work so far has been based around ideas of place and identity; he lived in Texas until moving to the UK at age 22, nearly 8 years ago. He likes work that’s personal and generous, and tries to make it with that in mind. He's shown original work at places like Battersea Arts Centre, Ovalhouse, Wales Millennium Centre and The Yard, where he is an Artistic Associate.        
          
-####What people have said about him       
+#### What people have said about him       
 >*Wohead’s performance and projected drawings set the work apart from most in the usually unoriginal genre of teen-romance.*<br>The Latest         
 >         
 >*A truly intimate coming of age journey whose gentle and richly evocative narrative brings audience and performer into genuine emotional as well as physical closeness.*<br>Total Theatre about  *...and other safe places*        
         
-####Credits        
+#### Credits        
 Supported by Battersea Arts Centre, The Basement and Camden People's Theatre.          
 Domestic is produced by [hÅb](/hab); supported by [Guinness Northern Counties](http://www.guinnesspartnership.com/about-us/news/gnc/2013/October/manchester%20tower%20block%20plays%20host%20to%20performing%20arts%20festival.aspx), [Z-arts](http://www.z-arts.org) + [City Response Ltd](http://www.cityresponse.co.uk). With thanks to [Wesley Community Furniture](http://www.thewesley.org.uk/index.html).    
                
-####Websites        
+#### Websites        
 [gregwohead.com](http://http://gregwohead.com) | [@gregwohead](http://twitter.com/gregwohead)

@@ -12,7 +12,7 @@ show: "Canapé Art"
 
 ![Levantes Dance Theatre](w8ldt.jpg)
 
-####Who are they?
+#### Who are they?
 
 Winners of the Oxford Samuel Beckett Trust Award in 2010, Levantes Dance Theatre is Bethanie Harrison and Eleni Edipidi.
 
@@ -22,18 +22,18 @@ Bethanie trained in Dance and Visual Art at MMU and has co-directed and co-chore
 
 Levantes Dance Theatre has a constant enthusiasm for fusing artistic disciplines and indulging in vibrant aesthetics. Current, bold and honest, the work visually explores contradictions: the mundane and divine, the absurd and the familiar in a kitsch cocoon of colourful activity.
 
-####What People Have Said About Them
+#### What People Have Said About Them
 
 >The Northern Ballet foyer no longer bristles with the wary fascination of bystanders as Levantes Theatre mixed cupcakes, made paper-chains, flew paper aeroplanes, and scattered confetti into the early gloaming. - *Aled Roberts, Head Receptionist, Northern Ballet.*
 
 >Members of Levantes Dance Theatre trace ambiguous themes of compulsive disorders, pleasures and sins through an intensely visual display. Inventive props and wacky costumes feature high on the agenda… - *Josephine Leask, Resolution* 
 
-####More
+#### More
 
 *Canapé Art* is the performance of daily routine with a peculiar twist. A series of task are repeated, extended and submerged in sugar to playfully explore aspects of human behaviour.
 
 *Canapé Art* is small pieces of play performed both amongst and in front of its audience, pockets of performance that hopefully trigger a smile.
 
-####Website
+#### Website
 
 [levantesdancetheatre.org](http://www.levantesdancetheatre.org)

@@ -15,14 +15,14 @@ header_image:
 ---
 *A micro-festival of new dance, presented by* Word of Warning*,* Contact *+* Dance Manchester       
      
-####Venue + Booking Details, for Turn        
+#### Venue + Booking Details, for Turn        
 Dates: Friday 27 + Saturday 28 March 2015, 7.30pm    
 [Venue: Contact](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA    
 [Tickets: £9/5 per night (two night pass £11/6)](http://contactmcr.com/whats-on/30697-turn-2015/booking)        
 Special offer: buy nine tickets + get your tenth free    
 Box Office Tel: 0161 274 0600    
         
-####Order of Appearance (subject to change)      
+#### Order of Appearance (subject to change)      
 **Rachel Sweeney | *Driftlines*** (video programme, ongoing from 7pm)        
 This short dance film explores sense and synapses within a delicate ecology of rock, water, salt and skin. *Driftlines* follows a series of shifting perspectives held by both camera and dancer, captured along the Copper Coast shingle stretches of south east Ireland. Here, the camera follows a dancer's physical immersion and tactile exploration of those arterial spaces that are left in the wake of coastal erosion. The movement and environmental sounds fuse with internalized sensations to create a kinesthetic experience moving from water to land.         
 [www.orrandsweeney.com](http://www.orrandsweeney.com)           
@@ -66,5 +66,5 @@ Inspired by time spent with artist Hector De Gregorio and his study on the theme
 **Maelstrom Theatre | *Oversight***        
 Due to illness this piece will not be presented.        
 
-####[Appearing on the Second Night: Saturday 28 March](/archive/2015-turn/sat)          
+#### [Appearing on the Second Night: Saturday 28 March](/archive/2015-turn/sat)          
 Dan Watson | EdgeFWD Dance Theatre | Joseph Mannion | Phoebe Ophelia Douthwaite | Rebekka Platt | Tangled Dance Company | ™ Dance Company | Victoria Sheldon — *plus a Mixed Movement Turn Special*

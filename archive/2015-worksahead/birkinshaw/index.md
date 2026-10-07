@@ -19,31 +19,31 @@ header_image: "header_birkinshaw.jpg"
 ---
 *Part of* Works Ahead 2015, *presented by* Word of Warning + Contact      
          
-####In Brief                      
+#### In Brief                      
 A coming of age story for a hyper-connected world.   
 A world convinced it's dying.   
 A world that's no longer good enough.    
 A world where it's not the length that matters, but what you do with it.   
 (Allergen information: may contain nuts, gluten, ketchup and cats.)     
        
-####Venue + Booking Details, for Works Ahead
+#### Venue + Booking Details, for Works Ahead
 Dates: Friday 24 (+ Saturday 25: SOLD-OUT) April 2015, 8pm (Double Bill)        
 [Venue: Contact (space 2)](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA            
 [Tickets: £6/3](http://contactmcr.com/whats-on/35092-works-ahead-2015/booking) | Special offer: buy nine tickets + get your tenth free            
 Box Office Tel: 0161 274 0600        
         
-####Access Information      
+#### Access Information      
 **Due to mechanical breakdown, Works Ahead is only accessible by stairs (two floors). Word of Warning + Contact apologise to any potential audience member for whom this is not possible.**<br>Age advisory: 16+ Part of a double bill of new performance in development, the evening will last approximately 1¾ hours — each show lasts approximately 30-40 minutes, with a 30 minute interval between during which our audience will be asked to return to the bar/foyer. Mainly spoken English. For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.                     
  
-####Who is he?    
+#### Who is he?    
 Nathan Birkinshaw is a performer and theatre-maker from Wakefield, creating work that's honest and funny, with a mixed-media approach. He aims to pick out the absurdity in the notion of humanity and the crazy time we're living in.    
                                              
 >*Smartly-silly* — [Donald Hutera](http://twitter.com/donaldhutera/status/576193697022373888)<br>*A mistake* — Mr + Mrs Birkinshaw         
         
 ![Nathan Birkinshaw](NathanBirkinshawWoAh15007.jpg)        
         
-####Credits         
+#### Credits         
 Commissioned by hÅb, co-produced with Contact.<br>Project Mentor: Peader Kirk.
 
-####Websites
+#### Websites
 [nathanbirkinshaw.wordpress.com](http://nathanbirkinshaw.wordpress.com) | [@NathBirkinshaw](http://twitter.com/NathBirkinshaw)

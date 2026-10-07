@@ -19,17 +19,17 @@ show_size: 3
 ---
 *Presented by* Flare + Word of Warning    
          
-###Friday 13 + Saturday 14 June 2014
+### Friday 13 + Saturday 14 June 2014
 A weekend of new performance by theatre-makers from Belgium, Norway, the Netherlands, Spain and the UK.         
           
-####Venue + Booking Details
+#### Venue + Booking Details
 Day One: Friday 13 June 2014, 7pm       
 Day Two: Saturday 14 June 2014, 1pm + 7pm         
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA      
 Tickets: [£10/6 Friday 7pm](http://www.z-arts.org/events/flare-2014-friday); [£5/3 Saturday 1pm](http://www.z-arts.org/events/flare-2014-sat-afternoon); [£10/6 Saturday 7pm](http://www.z-arts.org/events/flare-2014-sat-eve); [£16/10 Weekender Pass](http://www.z-arts.org/events/flare-2014-friday/)     
 Box Office Tel: 0161 232 6089    
               
-####More      
+#### More      
 Returning to Manchester's Z-arts, The Flare Weekender 2014 offers a glimpse of where the cutting edge of theatre might be heading in the future, with artists from Amsterdam, Barcelona, Bergen, Bristol, London, Manchester + Utrecht.        
           
 Accompanied by live music, artist's forum, workshop and closing party, the 2014 Weekender presents two evenings and an afternoon of performance…       
@@ -48,8 +48,8 @@ Accompanied by live music, artist's forum, workshop and closing party, the 2014 
          
 To get a feel for The Flare Weekender see 2012's [programme](/archive/2012-springsummer/flare).      
                            
-####Credits         
+#### Credits         
 Produced by Flare with hÅb; hosted by Z-arts; supported using public funding by the National Lottery through Arts Council England, supported by Manchester Metropolitan University Cheshire + University of Salford.          
         
-####Websites           
+#### Websites           
 [www.flarefestival.com](http://www.flarefestival.com) ¦ [@flarefestival](http://twitter.com/flarefestival)

@@ -14,7 +14,7 @@ header_image: "header_lau2_photo.jpg"
 ---
 *Part of* Works Ahead 2013 — [booking details + information](/current/2013-worksahead/index.html)          
          
-####In Brief    
+#### In Brief    
 This is a new solo work under development. The main themes and questions are about the value of being human, globalisation, and the economics of being a human resource.         
         
 ![Joseph Lau](joe.jpg)

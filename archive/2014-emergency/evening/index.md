@@ -18,7 +18,7 @@ header_image:
 ---
 *Presented by* Word of Warning, STUN + Z-arts *during* [Emergency 2014](/archive/2014-emergency)    
           
-####Order of Appearance (subject to change):      
+#### Order of Appearance (subject to change):      
 [Emergency 2014](/archive/2014-emergency) runs from 12noon to 10pm and is primarily an adult event; from 3pm onwards we *advise* that work may not be suitable for under 18s.      
           
 **Paul O'Donnell ¦ *One Thing On His Mime***      
@@ -69,11 +69,11 @@ With huge thanks to Natasha Davis, Bob Karper, Simone Kenyon, Theron Schmidt, Ha
 **Odd Comic… ¦ *…Do Jazz***         
 Join us in a rousing jazz fanfare for Emergency's 15th birthday!      
           
-####Venues + Booking Details  
+#### Venues + Booking Details  
 Date: Saturday 4 October 2014, 12noon-10pm        
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA         
 Tickets: FREE no booking required; some ltd capacity shows will have sign-up sheets on the day      
 Venue Tel: 0161 232 6089      
           
-####Credits         
+#### Credits         
 [Emergency](/hab/emergency) 2014 is produced by [hÅb](/hab); supported using public funding through Arts Council England, funded by Manchester City Council, supported by [STUN](http://stunlive.com) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.

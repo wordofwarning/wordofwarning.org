@@ -14,12 +14,12 @@ header_image: "header_carboot.jpg"
 ---
 *Part of* Hazard 2014, *presented by* Word of Warning       
      
-####Venue + Booking Details        
+#### Venue + Booking Details        
 Date: Saturday 12 July, 12noon-1pm                
 Venue: within [St Ann's Square](http://bit.ly/1wrGmvW) (Manchester, M2 7LF) and surrounding streets       
 Tickets: FREE/unticketed                              
                 
-####12noon-12.10pm (starts 11.45am)        
+#### 12noon-12.10pm (starts 11.45am)        
 **Bingo Meg + Disco Jazz ¦ *Carboot Disco Bingo***        
 An interactive experience — part dance-lesson, part party, part performance, part bingo. Essentially it's an elaborate game of bingo combined with the magic of disco, think Henry Ford meets Donna Summer down the gala! C'mon disco dogs, get your groove on!        
         
@@ -27,5 +27,5 @@ Megan Clark-Bagnall + Jasmine Loveys are Bristol-based independent artists, esta
         
 [Carboot Disco Bingo facebook](http://www.facebook.com/CarbootDiscoBingoFanClub) ¦ [@ClarkBagnall](http://twitter.com/ClarkBagnall) + [@JasmineLoveys](http://twitter.com/JasmineLoveys)        
          
-####[Ongoing activity, happens all afternoon (12noon-5pm)](/archive/2014-hazard/ongoing):                
+#### [Ongoing activity, happens all afternoon (12noon-5pm)](/archive/2014-hazard/ongoing):                
 Hanna Rohn + Signhild Wærsted ¦ Harald Smykla ¦ Hidden Track ¦ ICD ¦ Leo Burtin ¦ Martin Hamblen ¦ Natasha Vicars ¦ No More Page 3 ¦ Oliver Palmer ¦ Rachel Ramchurn ¦ Top Joe ¦ Tracy Lumpkin

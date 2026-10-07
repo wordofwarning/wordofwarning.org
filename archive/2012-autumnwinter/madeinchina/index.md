@@ -15,12 +15,12 @@ show_size: 3 # optional - size of show name 2-5. Default is 2. Set longer names 
 
 ---
 
-####*Stop Press - bonus event*    
+#### *Stop Press - bonus event*    
 *Because this is Word of Warning and because we can't help ourselves, we've got an extra bonus event!  Following their Emergency appearance, shaking their shambolic thing, Angel Club (north)'s errant offspring, The Mirror Twins return to present a special seasonal buffet of ‘one to one’ cabaret encounters.*    
 ![Mirror Twins](ACN1.jpg) 
   
-###Made In China    
-####In Brief    
+### Made In China    
+#### In Brief    
 A thrilling rollercoaster of a show about making sense of a mad world. Full of quick wit, hilarious stupidity, shards of deep dark insight, pop music, excess and plenty of mess.           
 
 Jess is stuck. Her lifelong friend, Chris, can’t help. The others are out getting wasted. And the world is falling apart.          
@@ -34,19 +34,19 @@ A flat-out, unhinged and very normal performance about trying to connect: to the
 ![We Hope That You're Happy](Made-In-China_0134.jpg)    
 
 
-####More    
+#### More    
 Formed in 2009 and already a National Theatre Studio affiliate company, Made In China debuted with *Stationary Excess*, performed on an exercise bike at Underbelly, Edinburgh 2010 before transferring to the Shunt Lounge.  Part of Forest Fringe’s Edinburgh 2011 programme, the two hander *We Hope That You’re Happy…* turned more heads with an unhinged, riotous mix of new writing and live art that informs the company’s unique style.   
 
 Watch video trailer [here.](http://vimeo.com/30622699)    
 
 
-####Who are they    
+#### Who are they    
 Made In China is the collaborative work of Tim Cowbury and Jessica Latowicki. They make visceral shows at the juncture of playwriting and live art, for audiences who are fans of neither and both. So far, the shows have been physical, playful, excessive and destructive. Made In China are drawn to great stories but like to disrupt them with things like bad dancing, beer downing, interval training and downright lying. Each show makes its own rules. And each show aims to ask the audience difficult questions whilst giving them a really good time.         
 
 Made in China formed in 2009. Their work has been seen across the UK and internationally at venues including: BAC, The ICA, Shunt Lounge, Riverside Studios, The Junction (Cambridge), Warwick Arts Centre, Hull Truck Theatre, Tobacco Factory Theatre (Bristol), Arcola Theatre, La MaMa ETC (New York).
     
 
-####What people have said about them    
+#### What people have said about them    
 >a slick, clever and disquieting exploration of dissatisfaction, compassion fatigue, empathy and emotional consumerism<br>*Lyn Gardner, The Guardian*            
 >When I first saw Made In China I had one of those rare and exciting moments for a producer – when you feel you have glimpsed the future… I hugely enjoy their work<br>*David Jubb, BAC*            
 >50 minute pocket rocket.<br>*Time Out*            
@@ -55,15 +55,15 @@ Made in China formed in 2009. Their work has been seen across the UK and interna
 
 ![We Hope That You're Happy](wehopethat.jpg)    
 
-####Websites    
+#### Websites    
 [www.madeinchinatheatre.com](http://www.madeinchinatheatre.com)    
 [www.bac.org.uk](http://www.bac.org.uk/get-involved/programmes/bac-t/)
       
-####Credits     
+#### Credits     
 Presented by BAC Take Out and funded by Arts Council England. Developed with support from National Theatre Studio, The Junction and The Basement.     
 Made In China is a National Theatre Studio Affiliate Company.   
 
-####Venue & Booking Details    
+#### Venue & Booking Details    
 Date: Friday 30 November, 7.30pm    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
 [Tickets: £8/5](http://www.z-arts.org/events/word-of-warning-30-nov/)    

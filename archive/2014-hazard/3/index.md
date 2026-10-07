@@ -14,12 +14,12 @@ header_image: "header_sheehan.jpg"
 ---
 *Part of* Hazard 2014, *presented by* Word of Warning       
      
-####Venue + Booking Details        
+#### Venue + Booking Details        
 Date: Saturday 12 July, 3-4pm       
 Venue: within [St Ann's Square](http://bit.ly/1wrGmvW) (Manchester, M2 7LF) and surrounding streets       
 Tickets: FREE/unticketed       
          
-####2-3.30pm             
+#### 2-3.30pm             
 **The Association Of Low Visibility Workers ¦ *By Association***               
 A discreet game to be played between you and The Association, via your smartphone. Take care that only your most trusted friends know that you are playing. You'll need a charged smart phone with credit/facility to send a number of text messages. Everything else will reveal itself to you.    
           
@@ -27,7 +27,7 @@ To sign up in advance, text **ASSOCIATE** to **01618504353**
               
 [www.lowvisibilityworkers.org.uk](http://www.lowvisibilityworkers.org.uk) ¦ [@ByAssociated](http://twitter.com/ByAssociated)            
                
-####3-3.03pm               
+#### 3-3.03pm               
 **Stephen Sheehan ¦ *Challenging a brick***             
 Artist screams at brick.            
             
@@ -35,7 +35,7 @@ A conceptual artist, Sheehan predominately uses performance to explore and quest
               
 [www.stephen-sheehan.com](http://www.stephen-sheehan.com) ¦ [Stephen Sheehan Art facebook](http://www.facebook.com/StephenSheehanArt) ¦ [@sjsheehanart](http://twitter.com/sjsheehanart)              
               
-####3.30pm departure                
+#### 3.30pm departure                
 **Stephen Donnelly ¦ *DriftMob***               
 A culture-jamming game of follow-the-leader: players take it in turns to lead a city-wide improvisation through the streets of Manchester, dishing out impromptu happenings and interventions as they go. The *DriftMob* begins in St Ann's Square; from there the details get hazy… all we know is it conspires to mark out it’s territory before evaporating back into the swarm of the street, leaving its traces in memories, rumours and urban myths.                 
                 
@@ -45,7 +45,7 @@ A Swansea-based performer, creating site-specific and site-responsive work which
                 
 [@StDonnelly](http://twitter.com/StDonnelly)           
                
-####3.30-4.15pm              
+#### 3.30-4.15pm              
 **Kris Canavan ¦ *The Leveller***                
 As a political movement, the term "Leveller" first referred to a faction of New Model Army Agitators and their London supporters in 1649 who were allegedly plotting to assassinate the king; it had been used in 17th-century England as a term of abuse for rural rebels and in the Midland Revolt of 1607 to refer to those who "levelled" hedges in enclosure riots. Organised at a national level, with offices in a number of London inns and taverns such as The Rosemary Branch in Islington, "Levellers" would identify one another by sprigs of rosemary that they would wear in their hats…              
             
@@ -55,5 +55,5 @@ Since graduating in 2004, Kris Canavan has been developing works on his own and 
                 
 [www.kriscanavan.com](http://www.kriscanavan.com) ¦ [@kriscanavan](http://twitter.com/kriscanavan)               
                  
-####[Ongoing activity, happens all afternoon (12noon-5pm)](/archive/2014-hazard/ongoing):                
+#### [Ongoing activity, happens all afternoon (12noon-5pm)](/archive/2014-hazard/ongoing):                
 Hanna Rohn + Signhild Wærsted ¦ Harald Smykla ¦ Hidden Track ¦ ICD ¦ Leo Burtin ¦ Martin Hamblen ¦ Natasha Vicars ¦ No More Page 3 ¦ Oliver Palmer ¦ Rachel Ramchurn ¦ Top Joe ¦ Tracy Lumpkin

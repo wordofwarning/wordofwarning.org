@@ -19,18 +19,18 @@ header_image: "header_beginning_photo.jpg"
 ---
 *Presented by* Word of Warning + The Lowry + University of Salford
 
-####In Brief    
+#### In Brief    
 A double bill by Michael Pinchbeck.   
 A pair of beginnings that ask why we take to the stage and what we do when we get there.    
 
-####Venue + Booking Details
+#### Venue + Booking Details
 Date: Friday 15 March 2013, 8pm (Double Bill)        
 [Venue: The Lowry – Studio](http://www.thelowry.com/plan-your-visit/getting-here/), Pier 8, Salford Quays, M50 3AZ    
 [Tickets: £9/7](http://www.thelowry.com/event/the-beginning-debut)    
 Box Office Tel: 0843 208 6000    
 
-##Michael Pinchbeck | The Beginning   
-####More
+## Michael Pinchbeck | The Beginning   
+#### More
 *They are professionals.    
 They have learned their lines.     
 They are waiting to make their entrance.    
@@ -42,7 +42,7 @@ Part theatrical memoir, part safety announcement, *The Beginning* is the second 
 
 Watch video [here](https://vimeo.com/43531029)   
  
-####Who is he?    
+#### Who is he?    
 Michael Pinchbeck is a writer, live artist and performance maker. He
 co-founded Metro-Boulot-Dodo in 1997 after studying Theatre and Creative
 Writing at Lancaster University. He left the company in 2004 to embark on a
@@ -65,27 +65,27 @@ performance in the East Midlands, and lectures at the University of Lincoln.
 
 ![The Beginning](TheBeginningsunset.jpg)    
 
-####What people have said about him    
+#### What people have said about him    
 >*The Beginning asks us to reassess how we watch a play* <br>The Stage    
 >*Pinchbeck is such an interesting theatre-maker*<br>The Guardian    
 >*An individual practice that is powerful and compelling*<br>ArtArtArt magazine    
 
-####Credits
+#### Credits
 Developed at Lakeside Arts Centre (Nottingham), Leeds Met Studio Theatre, Loughborough University and The Junction (Cambridge). Supported using public funding by the National Lottery through Arts Council England, and commissioned by World Event Young Artists 2012 (Nottingham).    
     
-####Websites    
+#### Websites    
 [www.michaelpinchbeck.co.uk](http://www.michaelpinchbeck.co.uk) | [@MDPinchbeck](http://twitter.com/mdpinchbeck)    
 [www.makingthebeginning.tumblr.com](http://www.makingthebeginning.tumblr.com)   
     
 ![The Debutants](Debut.jpg)     
 
-##M Pinchbeck + The Debutants | Debut         
-####More    
+## M Pinchbeck + The Debutants | Debut         
+#### More    
 *"They are here but they are not here"*    
 
 Somewhere between a sweaty Macarena and an unfulfilled vow lies *Debut*. An eclectic mix of 'first times' that will be revisited in an attempt to uncover how we dealt with the initial nerves, excitement and the anti climax of performing. It is a journey back to the start via everything in between.    
 
 Contemporary Theatre Practice students from the University of Salford have worked with live artist and writer, Michael Pinchbeck, to devise a piece that reflects on their own experiences of walking onstage for the first time. They may have been nervous. They may have forgotten their lines. They may have missed their entrance. These stories are a starting point for a show that looks at beginnings through the lens of what it means to perform. *Debut* asks what we do when we walk onstage and why we walk onstage in the first place.    
    
-####Website
+#### Website
 [Contemporary Theatre Practice, University of Salford](http://www.salford.ac.uk/courses/performance-contemporary-practices?mode=ov )

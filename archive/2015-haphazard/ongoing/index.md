@@ -17,13 +17,13 @@ show_size: 4
 ---
 *A free event for the curious of all ages, presented by* Word of Warning *+* Z-arts*<br>Turn up at Z-arts any time from 12noon to 4pm, come and go as you please…*		
 
-####Venue + Booking Details, for Haphazard
+#### Venue + Booking Details, for Haphazard
 Date: Saturday 28 February 2015, 12noon-4pm    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA        
 Tickets: FREE no booking required († *limited capacity, sign-up on the day*)        
 Venue Tel: 0161 232 6089
 
-####Ongoing Activity (in no particular order)   
+#### Ongoing Activity (in no particular order)   
 **Lani Irving** (The Busy Badger) **| *Livestock***        
 Haphazard welcomes its very own bovine micro-herd… Last seen during [2013](/archive/2013-spring/haphazard), Lani returns with a friendly bunch of cows to herd you around the building — and if you **need any help** they might moo back!        
 [The Busy Badger website](http://laniirving.wix.com/thebusybadgeruk) | [The Busy Badger facebook](http://www.facebook.com/thebusybadger) | [@thebusybadger](http://twitter.com/thebusybadger)          
@@ -71,5 +71,5 @@ Can **your** ideas help the Queen save her bees?
 [@JulieannOMalley](http://twitter.com/JulieannOMalley)       
 ![Queen Bee](bee.jpg)        
         
-####There's also [Timed Activity between 12noon & 4pm](/archive/2015-haphazard/timed):		
+#### There's also [Timed Activity between 12noon & 4pm](/archive/2015-haphazard/timed):		
 Rachel Ramchurn | Robert Foster | Levantes Dance Theatre | Liz Clarke

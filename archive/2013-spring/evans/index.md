@@ -27,34 +27,34 @@ But the telescope has turned on this meddling voyeur. You are invited to witness
 
 This is Lowri's first feature length solo show and will see her visual art and theatre practice blur together on the night of her thirtieth birthday.
 
-####Venue + Booking Details
+#### Venue + Booking Details
 Date: (Thursday 31 January + Friday 1 February 2013, 8pm: SOLD-OUT)    
 [Venue: The Lowry – Studio](http://www.thelowry.com/plan-your-visit/getting-here/), Pier 8, Salford Quays, M50 3AZ    
 [Tickets: £10/8](http://www.thelowry.com/event/the-secret-life-of-you-and-me)    
 Box Office Tel: 0843 208 6000    
     
-####More
+#### More
 Lowri's website is beautiful – we couldn't sum it up any better than her pictures do – so have a look [here](http://www.thelowri.com/the-secret-life-of-you-and-me-2/).    
 
 ![A sketch](five.jpg)    
  
-####Who is she?
+#### Who is she?
 Lowri is a Manchester based live artist whose work draws upon a background in visual art, experience in performance and commitment to social engagement. Over the last few years she has worked with National Theatre of Scotland, Tate Liverpool, Cornerhouse, Contact Theatre, Hatch, Islington Mill, hÅb, The Lowry, Quarantine, Eggs Collective, David Hoyle, Small Things, Weeding Cane, Salford University and Grupo XIX de Teatro. She is also in girl band Hotpants Romance, who have released two albums and toured the world.    
     
 ![Live Letter](Lowri-Evans-Image-3.jpg)    
    
 *"I am interested in human experience, the mundane and the miraculous. I try to strip information away to the barest truth, to the startling and underwhelming inside of things, often starting with the autobiographical. I am fascinated by the blurring of art and real life, and play as much as I can with that, subsequently my life appears in my work and I also take my work out to non-art spaces and connect with people from all walks of life."*   
 
-####What people have said about her
+#### What people have said about her
 >*Lowri is one of the most interesting emerging artists and performance makers in the North West*<br>Richard Gregory, Quarantine   
 >*Compelling*<br>David Hoyle
 
-####Credits       
+#### Credits       
 Supported by hÅb and The Lowry.    
 Developed with support from Works Ahead, Contact, The Future, University of Salford and public funding by the National Lottery through Arts Council England.    
 Photography by Layla Sailor.   
 
-####Websites
+#### Websites
 [www.thelowri.com](http://www.thelowri.com) | [@LowriEvans](http://twitter.com/lowrievans)    
      
 ![The Secret Life of You and Me](lowri_brochure.jpg)

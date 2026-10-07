@@ -10,7 +10,7 @@ show: "Stacy Makishi"
 
 ---
 
-####In Brief
+#### In Brief
 
 ![Stacy Makishis](w3stacy.jpg)
 
@@ -24,17 +24,17 @@ Stacy Makishi will lead *Bull: Your Own True Lies Workshop* on Wed 7 March, 3pm 
 
 [Watch video here](http://www.youtube.com/v/X9Ms1XDocvI&hl=en_US&feature=player_embedded&version=3%22)
 
-####Who is she?
+#### Who is she?
 Hawaii-born Stacy Makishi works in a variety of media including site-specific installations, video, new writing, physical theatre and live art. She is artistic director of runt, a multi-media company that celebrates creativity and collaboration and hosts international workshops.  The company is committed to producing intelligent, challenging works that appeal to the widest community possible.
 
 Stacy is  an Artsadmin Associate Artist.
 
-####What people have said about her
+#### What people have said about her
 >The sheer waves of emotion that come over you with every performance. She has a knack for leaving no clues as to where the performance is going until you’re emotionally ensnared in it. Genius. - *Self Titled Daily Magazine*
 
 >Stacy Makishi is a master of mischief. She can draw out the creative juice from any situation in the most inspiring ways. She rocks. - *Shlomo*
 
-####More
+#### More
 Inspired by the film *FARGO*, which proclaims in its prologue "this is a true story". Hawaii-born Makishi finally "comes out" and tells the whole truth behind an elliptical tale.
 
 Weaving between the real and the fake, the unbelievable real and the believable fake, and sampling excerpts from *FARGO* along the way, Makishi takes us on an uncanny, hilarious and enjoyably disorientating journey.  There's an element of audience participation involving an incident with a doughnut and a 'post-show' Q&A built directly into the structure of the show itself.
@@ -50,10 +50,10 @@ Inspired by the strange twists surrounding the mythology of *FARGO*, *The Making
 
 *Running Time:* 50 minutes
 
-####Website:
+#### Website:
 [stacymakishi.com](http://www.stacymakishi.com/)
 
-####Workshop
+#### Workshop
 **BULL: YOUR OWN TRUE LIES    
 Wed 7 March, 3pm to 6pm. FREE with a show ticket**    
 Makishi is a renowned workshop leader and mentor, often opening her making processes to the public through creative workshops alongside performances.

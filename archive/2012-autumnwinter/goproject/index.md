@@ -15,14 +15,14 @@ show: "Frontman"
 
 ---
 
-####In Brief
+#### In Brief
 Poised on the edge of catastrophe, *Frontman* is a furiously loud, raucous reproduction of the all the best gigs you never saw. With borrowed ramblings from iconic frontmen, the ghost of Elvis/Dolly/Kurt/Iggy is channeled by a girl in sequins, whilst a techie in rabbit ears refuses to watch the show. She turns up the volume and humps the speakers, and tells the crowd she loves them.     
 
 Balanced between euphoria and a car crash, *Frontman* is part-gig, part-perfomance for an audience who like it loud.    
 
 ![Frontman](Action_Hero_6.jpg)
 
-####More
+#### More
 *I just wanna say that as of right now, this time tonight, you are my favourite fucking audience I’ve ever had!*   
 
 On a small raised stage surrounded by a tightly packed crowd on three sides cut through with haze and lights, a frontman lip-synchs, dances in spangled hotpants, sings her heart out and reminds us all how thankful she is that we’re all here.    
@@ -33,7 +33,7 @@ It feels like a music gig but we know its not.  The frontman knows this and we k
 
 ![Frontman](Action_Hero_1.jpg)
 
-####Who are they       
+#### Who are they       
 **Action Hero** is the collaboration between artists Gemma Paintin and James Stenhouse. They’re based in Bristol and have been making performance together since 2005. This performance at GORILLA comes seven years to the weekend after their very first gig, at greenroom, as part of Emergency 2005!     
 
 *Frontman* is the third piece in an unintentional trilogy of work about icons and the iconography of masculinity, following the highly successful *A Western* and *Watch Me Fall*.     
@@ -42,18 +42,18 @@ It feels like a music gig but we know its not.  The frontman knows this and we k
    
 *Like Throbbing Gristle meets Factory Floor meets Phil Niblock meets Zoviet France with a dose of live art thrown in for good measure!*    
 
-####What people have said about them
+#### What people have said about them
 >a beautiful, poignant and comic performance<br>*Don’t Panic magazine*    
 >a truly epic piece of theatre<br>*The Guardian*         
 >GO Project: ‘Achingly beautiful and fascinatingly different.’<br>*Glasgow Herald*     
 
-####Credits      
+#### Credits      
 *Action Hero vs. GO Project* was co-commissioned by In Between Time and hÅb. Frontman was co-commissioned by Fierce festival 2011 and IBT. Supported by Forest Fringe and Residence. National tour supported by ACE. Photos by Briony Campbell.     
 
-####Websites
+#### Websites
 [www.actionhero.org.uk](http://www.actionhero.org.uk)
 
-####Venue & Booking Details
+#### Venue & Booking Details
 Date:    Friday, 12 October, 7.30pm    
 [Venue: Gorilla](http://www.thisisgorilla.com/), 54-56 Whitworth Street West, M1 5WW    
 [Tickets: £8/5](http://www.wegottickets.com/wordofwarning) (also available in person from Gorilla's bar)      

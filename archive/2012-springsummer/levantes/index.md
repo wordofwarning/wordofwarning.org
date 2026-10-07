@@ -12,7 +12,7 @@ show: "Gin & Satsumas"
 
 ![Levantes Dance Theatre](w4ldt.jpg)
 
-####Who are They?
+#### Who are They?
 
 Winners of the Oxford Samuel Beckett Trust Award in 2010, Levantes Dance Theatre is Bethanie Harrison and Eleni Edipidi.  
 
@@ -24,7 +24,7 @@ Levantes Dance Theatre has a constant enthusiasm for fusing artistic disciplines
 
 [Watch video here](http://www.levantesdancetheatre.org/GIn%20and%20Satsumas_Smlr_Prog.mov)
 
-####What People Have Said About Them
+#### What People Have Said About Them
 
 >Often challenging, their previous works have established Levantes Dance Theatre as one of the most innovative modern dance organisations in the country. A powerful critique of glorified normality, Gin & Satsumas is every bit as refreshing as the title suggests. - *Aaron Lavery, Manchester Metro*
 
@@ -32,7 +32,7 @@ Levantes Dance Theatre has a constant enthusiasm for fusing artistic disciplines
 
 >They bring the stage space alive with their strong presence, and striking use of visual environments. This is certainly a company worth looking out for! - *Sally O'Donnell, Leicester University, De Monfort*    
  
-####More
+#### More
 
 The story of gin and a lot of satsumas.
 
@@ -40,6 +40,6 @@ Returning by popular demand (oh, ok, mine!) in a one-off special, Gin & Satsumas
 
 >“… a surreal cocktail of sensation. Seeming like a circus, with its disappearing floor lights, trapeze wired objects and obligatory cartoon clowns, we are drawn into this incongruous spectacle by Levantes Dance Theatre. Visually stunning, this carnival cascade of cross-dressing strange-faced people doing strange-placed things is curious yet oddly pleasing.” - *Mandy Richards @ Resolution! 2008*
 
-####Website
+#### Website
 
 [levantesdancetheatre.org](http://www.levantesdancetheatre.org/)

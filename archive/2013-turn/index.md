@@ -22,7 +22,7 @@ show_size: 4
         
 **Plus**: SoundMoves Mixed Movement Jam, Saturday from 10pm.    
 
-####Venue + Booking Details
+#### Venue + Booking Details
 Dates: Friday 19 + Saturday 20 April 2013, 7.30pm    
 [Venue: Contact](http://contactmcr.com/visit/getting-here/), Oxford Road, Manchester, M15 6JA    
 [Tickets: £8/5 (2 night pass £10/6)](http://contactmcr.com/whats-on/1201-turn-2013/)    
@@ -40,15 +40,15 @@ Rebekka Platt | hop.skip.jump dance collective | Jo Ashbridge | Adam John Robert
 **Saturday 20 April, from 7.30pm**  
 Rebekka Platt | The Mustdashios | Joseph Lau, Shona Roberts & Joseph While | Tom Bowes Dance | Percussive Customer Projects | Maelstrom Productions | Emma Lansley | Joshua Hubbard F\*\#\"\!D | **from 10pm** SoundMoves Mixed Movement Jam    
     
-####Schedule *All times are approximate and subject to change.*          
+#### Schedule *All times are approximate and subject to change.*          
 To download, right click and save image.    
 ![Turn Schedule Friday](TurnschedFri.jpg)    
 ![Turn Schedule Saturday](TurnschedSat.jpg)    
        
-####What people said about Turn 2013    
+#### What people said about Turn 2013    
 A 4* review of Friday night is [here](http://www.thepublicreviews.com/turn-2013-contact-manchester/).    
 A gallery of images from both nights is [here](/galleries/2013-turn/index.html).    
 A documentary about Tom Bowes Dance performing *Brute* on Saturday night is [here](http://vimeo.com/66465915).   
     
-####Credits         
+#### Credits         
 Co-produced by hÅb, Contact, Dance initiative Greater Manchester + Live at LICA.

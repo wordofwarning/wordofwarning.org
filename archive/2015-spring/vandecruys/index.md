@@ -19,19 +19,19 @@ header_image: "header_horse.jpg"
 ---
 *Presented by* University of Salford, The Lowry + Word of Warning        
            
-####In Brief     
+#### In Brief     
 Two shows about horses, humans and fitting in. Giddy-up!                     
                       
-####Venue + Booking Details    
+#### Venue + Booking Details    
 Date: Tuesday 24 February 2015, 7.30pm (Double Bill)              
 [Venue: The Lowry (Aldridge Studio)](http://www.thelowry.com/plan-your-visit/getting-here), Pier 8, Salford Quays, M50 3AZ    
 [Tickets: £12/10](http://www.thelowry.com/event/double-bill-whoaaaaa-steady-and-horse)        
 Box Office Tel: 0843 208 6000   
         
-####Access Information      
+#### Access Information      
 With an interval, the double bill will last about 2 hours. Includes nudity.<br>Age advisory: 14+ (*parental discretion*).      
       
-####More    
+#### More    
 A pair of performances about being human (and being a horse) from Belgian theatre-maker Leentje Van de Cruys + University of Salford collaborators…           
 
 ***HORSE*** is a story about a woman who thinks she's a horse. But the real problem is that she thinks she is a different horse from the one she is. *HORSE* is about what it takes to fit in, to make yourself look beautiful to other people, to be loved and accepted, despite everything…                
@@ -42,11 +42,11 @@ It's fascinating to observe some intriguing abnormalities in the body language, 
                       
 The double bill was reviewed at The Lowry by [The Public Reviews](http://www.thepublicreviews.com/whoaaaaa-steady-and-horse-the-lowry-salford).        
                       
-####Who is she?    
+#### Who is she?    
 Belgian actress and theatre-maker Leentje Van de Cruys has been making quirky solo performances about domesticity and women's identity for the last 11 years — her recent shows include *Kitsch'n Sync* ([commissioned by hÅb for Domestic](/archive/2013-domestic/vandecruys)), *Going to the Chapel*, *Feedback*, *HORSE*, *The Best Party Ever* and *Knitting to Worry About*. She regularly performs and tours with contemporary theatre companies including Quarantine, Reckless Sleepers, Plane Performance, Proto-type Theater, and is the lead actress/vocalist in *In May*, a music theatre piece written by Frank Alva Buecheler + composed by Neil Hannon (The Divine Comedy). She has also been a guest lecturer and supervisor at Manchester Metropolitan University, Lancaster University + University of Salford.
                       
-####Credits    
+#### Credits    
 *HORSE* originally commissioned by greenroom + hÅb for Method Lab 2010. *Whoaaaaa Steady!* performed by University of Salford BA (Hons) Performance students.            
            
-####Websites    
+#### Websites    
 [www.salford.ac.uk/news](http://www.salford.ac.uk/news/double-bill-horse-by-leentje-van-de-cruys-and-whoaaaaa-steady-by-contemporary-performance-students) | [@Leentjevdc](http://twitter.com/Leentjevdc) | [@UoSArts](http://twitter.com/UoSArts)

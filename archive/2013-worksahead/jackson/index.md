@@ -14,7 +14,7 @@ header_image: "header_wayne_photo.jpg"
 ---
 *Part of* Works Ahead 2013 — [booking details + information](/current/2013-worksahead/index.html)        
         
-####In Brief   
+#### In Brief   
 *(rewind) and two* goes back to the beginning of all of your love stories that could and should have happened, but didn’t.   
 
 *Now, has just happened.   
@@ -23,7 +23,7 @@ This is where we rewind.
 Past the strangers walking towards each other, past you willing them to have their happy ending, past the opening credits, past the choir singing, past the lights fading, past you finding your seat, past you preparing to take the role of an audience, to the moment the doors open.    
 And now, we can begin.*   
         
-####More         
+#### More         
 The first in a trilogy of work developing a non-love, non-film, live performance that revolves around the moment two strangers collide; *(rewind) and two* goes back to the beginning, exploring the fusion of the mediated with the live and the frailty of memory, amidst the deconstruction of the role of the audience.   
 
 *Now has just happened.    
@@ -38,7 +38,7 @@ Wayne Steven Jackson creates "poignant, beautiful and clever" work. Melding film
         
 ![Wayne Jackson](wayne.jpg)    
         
-####Who is he?   
+#### Who is he?   
 Wayne Steven Jackson was the three year old boy who swallowed a pound coin in his mum and dad’s bedroom, with cream walls, brown velvet curtains and a green carpet, in a semi-detached house on Ing’s Bridge, in Hull. He has also been a sales assistant, internet order dispatcher, caravan light fitter, restaurant manager, play worker, barman, sports coach, gambling machine technician, retail banking salesman, care worker co-ordinator, light haulage driver, paperboy, lecturer, and aerosol can sell-by-date checker. But he much prefers being an artist.    
 
 He has worked for nine years creating "funny, baffling, mystical, absurd and mind bending" work with Escape Theatre. Through continuing support from hÅb he has created seven pieces of live performance both with Escape and as a solo artist. He is currently exploring the relationship between live performance and memory, using video within his performances with intelligence and creativity as an aide to exploring his and his audience’s position to his work.

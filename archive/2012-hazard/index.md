@@ -9,7 +9,7 @@ is_index: true
 artist: "Hazard 2012" # the name of the artist or company
 show: "Random sprees of eccentricity." # the name of the show
 ---
-####Saturday 21 July 2012, 12noon-5pm
+#### Saturday 21 July 2012, 12noon-5pm
 **To see our gallery of the day's events click [here](http://hazardmcr.org)**
 
 Sneaking up on you from behind a bus, Manchester's stripiest festival returns to unleash its fourth wave of bizarre behaviour on the city centre. 

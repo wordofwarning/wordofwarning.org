@@ -18,7 +18,7 @@ header_image:
 ---
 *Presented by* Word of Warning, Blank Media Collective + Z-arts          
 
-####Saturday 5 October 2013, 12noon-11pm             
+#### Saturday 5 October 2013, 12noon-11pm             
 **Manchester's marathon micro-festival returns for its fourteenth year — the bizarre, the bold + the beautiful popping up in a plethora of spaces.**       
           
 Last year we taped performers to windows, played a uniquely guttural rendition of Nessun Dorma and unearthed a viscerally prehistoric woman. This year will be an equally eclectic performance lucky-dip in two locations — your chance to sample the different and all for free.         
@@ -30,7 +30,7 @@ Maiada aBOUD | Lindsay Bennett | Nathan Birkinshaw | Sarah Boulton | Kerry Carro
        
 *Sniff out* Dove *— an ambient intervention by* Sarah Boulton*, who has invited all our participating artists to smell the same.*
                 
-####Venues + Booking Details
+#### Venues + Booking Details
 Date: Saturday 5 October 2013, 12noon-4pm    
 [Venue: BLANKSPACE](http://blankmediacollective.org/about-us), 43 Hulme Street, Manchester M15 6AW    
 Tickets: FREE no booking required    
@@ -43,19 +43,19 @@ Tickets: FREE no booking required
 Venue Tel: 0161 232 6089    
 [Venues Map](http://bit.ly/1bFUlqt)       
             
-####What people said about the work        
+#### What people said about the work        
 A review of the work presented at BLANKSPACE by [C. James Fagan](http://confusedguff.blogspot.co.uk/2013/10/emergency-2013.html).        
 A review of some of the work presented at Z-arts by [The Mancunion](http://mancunion.com/2013/10/17/emergency2013).        
         
-####Schedules (timings are approximate)          
+#### Schedules (timings are approximate)          
 ![BLANKSPACE](Emerg_sched_BS_2_10.jpg)        
 ![Z-arts](Emerg_sched_Z_2_10.jpg)        
         
-####Access Information    
+#### Access Information    
 Emergency 2013 takes place in a number of different spaces and formats — some seated, some standing, some spoken word, some visual.   
 Some of the work is suitable for the under 16's, the majority may not be.   
 Upstairs at [BLANKSPACE](/current/2013-emergency/blank) is unfortunately not wheelchair accessible.    
 For specific age and access information please email <mailto:info@habarts.org> or call 0161 232 6086.    
             
-####Credits         
+#### Credits         
 [Emergency](/hab/emergency) is co-produced by [hÅb](/hab), [Blank Media Collective](http://www.blankmediacollective.org) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.

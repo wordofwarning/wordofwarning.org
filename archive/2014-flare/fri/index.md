@@ -13,13 +13,13 @@ show_size: 3
 ---
 *Part of* The Flare Weekender 2014, *presented by* Flare + Word of Warning       
      
-####Venue + Booking Details        
+#### Venue + Booking Details        
 Date: Friday 13 June 2014, 7pm       
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA      
 Tickets: [£10/6 Friday 7pm](http://www.z-arts.org/events/flare-2014-friday); [£16/10 Weekender Pass](http://www.z-arts.org/events/flare-2014-friday/)     
 Box Office Tel: 0161 232 6089    
                 
-####Order of Appearance (subject to change)      
+#### Order of Appearance (subject to change)      
 **SheepKnuckle (UK) ¦ *A Brave and Startling Truth***     
 An attempt to unravel the fragile ownership of words in a culture that freely expresses itself through social media. Blending live performance with a narrative that is built online, *A Brave and Startling Truth* is an attempt to engage with a world where you are more honest with your Google search bar than you are with your family.      
            

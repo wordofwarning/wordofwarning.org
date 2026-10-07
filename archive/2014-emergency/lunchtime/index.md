@@ -18,7 +18,7 @@ header_image:
 ---
 *Presented by* Word of Warning, STUN + Z-arts *during* [Emergency 2014](/archive/2014-emergency)    
           
-####Order of Appearance (subject to change):            
+#### Order of Appearance (subject to change):            
 [Emergency 2014](/archive/2014-emergency) runs from 12noon to 10pm and is primarily an adult event; from 3pm onwards we *advise* that work may not be suitable for under 18s.      
           
 **Anton Mirto ¦ *earning innocence /3***          
@@ -66,11 +66,11 @@ During a not-so-perfect family holiday in southern Spain, a boy sits on a beach 
 A short performance piece about the countless awkward, absurd and atrocious moments we have on the cusp of being young and naive enough to think you can save the world, but old and cynical enough to start doubting if it's even worth bothering.      
 Jamil Keating is an emerging theatre-maker, writer and performer currently undertaking a residency at the Whitworth Art Gallery. *Sandcastles* is his live art debut, the first step in an artistic journey of trying to find the balance between being overwhelmed by perverse enthusiasm for the craziness of life, and trying to say something of substance about it… simply.          
           
-####Venues + Booking Details  
+#### Venues + Booking Details  
 Date: Saturday 4 October 2014, 12noon-10pm        
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here), 335 Stretford Road, Manchester, M15 5ZA         
 Tickets: FREE no booking required; some ltd capacity shows will have sign-up sheets on the day      
 Venue Tel: 0161 232 6089      
           
-####Credits         
+#### Credits         
 [Emergency](/hab/emergency) 2014 is produced by [hÅb](/hab); supported using public funding through Arts Council England, funded by Manchester City Council, supported by [STUN](http://stunlive.com) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.

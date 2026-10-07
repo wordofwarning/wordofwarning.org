@@ -18,7 +18,7 @@ show_size: 4
 ---
 *Presented by* Word of Warning + Z-arts
           
-####In Brief
+#### In Brief
 Intriguing images and offbeat oddities dotted around this historic building — take a wander and see what you stumble upon… Living geometric shapes making moon music, a bonkers bucket dance, marathon hula-hooping and bouncy, squeaky, ping-pong performers…    
 
 Playful, quirky, engaging and sometimes plain daft: this is a day for kids and their adults, adults and *their* adults — in short, anyone looking for a different day out.    
@@ -27,13 +27,13 @@ Turn up at any time during the course of the day (12noon-4pm), come and go as yo
                     
 Now it's all over, see Haphazard 2013's [image gallery](/galleries/2013-haphazard).       
                     
-####Venue + Booking Details
+#### Venue + Booking Details
 Date: Saturday 9 February 2013, 12noon-4pm    
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA    
 Tickets: FREE    
 Box Office Tel: 0161 232 6089
 
-####Schedule (*timings are approximate and subject to change*)            
+#### Schedule (*timings are approximate and subject to change*)            
 To download, right click and save image.                    
 ![Schedule](hap-public-sched.jpg)                 
 In the **Café**, expect Volkov Commanders' geometric orchestra, Rachael Nutter's carbon dioxide garden, Angel Club (north's) mischievous *mirror twins* and, **Upstairs**, become contestants in Lydia Hirst's budget recreation of the iconic Crystal Maze *gameshow*… Or take a journey of discovery on Ultra Violets' exploration of the **hidden maze of Z-arts** in search of a Minotaur on the prowl.    
@@ -43,7 +43,7 @@ In the **Atrium** meet *Kitty*, a hula-hooping maestro, or listen-in on a miniat
 Participating artists:                  
 Angel Club (north) | Robert Foster | Lydia Hirst | Lani Irving | Anna Macdonald | Rachael Nutter | Katherina Radeva | Ultra Violets | Volkov Commanders | whatsthebigmistry             
                     
-####More     
+#### More     
 ![Ultra Violets](labolis.jpg)    
 **[Ultra Violets](http://www.ultraviolets.org.uk) | *LABOLIS :: Threads***    
 Enter [*LABOLIS*](http://vimeo.com/33027206)… getting lost is just the beginning.   
@@ -95,8 +95,8 @@ A small orchestra of bodies and objects, performing a score of action and tasks 
 There is something about being in a car that invites us to talk in ways that we wouldn’t in other places. *Car Conversations* is an installation that consists of thousands of toy cars forming tiny motorways that run along, over and under unusual spaces. Inside some of the cars are miniature speakers so, when you lean in closely, you can hear real recordings of people on car journeys as they sing, shout and ask ‘are we nearly there yet?’    
 Anna Macdonald's work spans dance, film and installations. For this work she collaborated with Manchester-based sound artist Sam Heitzman.    
 
-####Plus: Haphazard discussion, 4pm
+#### Plus: Haphazard discussion, 4pm
 An informal chance to meet the artists and to discuss art that can bridge the generation gap. What different responses does the same work provoke and what can we, as adults, learn from how kids watch performance?    
                     
-####Credits
+#### Credits
 Co-produced by hÅb + Z-arts.

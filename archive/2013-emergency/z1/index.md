@@ -18,7 +18,7 @@ header_image:
 ---
 *Presented by* Word of Warning, Blank Media Collective + Z-arts *during* [Emergency 2013](/current/2013-emergency/index.html)    
         
-####Order of Appearance (subject to change):      
+#### Order of Appearance (subject to change):      
 **Zimmermann / Singh | Melancholy Machines**    
 A live, improvised dialogue between electronic sound, voice and the projected image; an artistic collaboration between Jason Singh & Maike Zimmermann.    
              
@@ -88,11 +88,11 @@ Manoli Moriaty is a Manchester-based sound artist & composer of noise and electr
 [http://metanast.wordpress.com](http://metanast.wordpress.com)    
 ![Manoli Moriaty](manoli_moriaty.jpg)    
                    
-####Venue + Booking Details          
+#### Venue + Booking Details          
 Date: Saturday 5 October 2013, 3pm-11pm               
 [Venue: Z-arts](http://www.z-arts.org/about-us/getting-here/), 335 Stretford Road, Manchester, M15 5ZA           
 Tickets: FREE no booking required               
 Venue Tel: 0161 232 6089         
           
-####Credits           
+#### Credits           
 Co-produced by [hÅb](/hab/index.html), [Blank Media Collective](http://www.blankmediacollective.org) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.

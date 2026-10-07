@@ -15,14 +15,14 @@ header_image:
 ---
 *A micro-festival of new dance, presented by* Word of Warning*,* Contact *+* Dance Manchester       
      
-####Venue + Booking Details, for Turn        
+#### Venue + Booking Details, for Turn        
 Dates: Friday 27 + Saturday 28 March 2015, 7.30pm    
 [Venue: Contact](http://contactmcr.com/visit/getting-here), Oxford Road, Manchester, M15 6JA    
 [Tickets: £9/5 per night (two night pass £11/6)](https://contactmcr.com/whats-on/30697-turn-2015/booking)        
 Special offer: buy nine tickets + get your tenth free    
 Box Office Tel: 0161 274 0600    
         
-####Order of Appearance (subject to change)        
+#### Order of Appearance (subject to change)        
 **Rachel Sweeney | *Driftlines*** (video programme, ongoing from 7pm)        
 This short dance film explores sense and synapses within a delicate ecology of rock, water, salt and skin. *Driftlines* follows a series of shifting perspectives held by both camera and dancer, captured along the Copper Coast shingle stretches of south east Ireland. Here, the camera follows a dancer's physical immersion and tactile exploration of those arterial spaces that are left in the wake of coastal erosion. The movement and environmental sounds fuse with internalized sensations to create a kinesthetic experience moving from water to land.        
 [www.orrandsweeney.com](http://www.orrandsweeney.com)        
@@ -84,5 +84,5 @@ Made possible by a Dance and the Homemade Commission from Chisenhale Dance Space
 **Mixed Movement** (from about 10pm, ends by 11.30pm)          
 Dance and live music combine, New York-style. The brainchild of dancer, theatre artist and poet DawN Crandell, Mixed Movement gives dancers and musicians a chance to improvise, celebrate and show off their skills.        
         
-####[Appearing on the First Night: Friday 27 March](/archive/2015-turn/fri)         
+#### [Appearing on the First Night: Friday 27 March](/archive/2015-turn/fri)         
 Adam Russell | Ebony-Rose + Lorienne Aimée | Joshua Hubbard | Lo-Giudice Dance | Peter Grist + Company | Rachel Sweeney | Sophie Unwin<br>*Maelstrom Theatre no longer appear due to illness*

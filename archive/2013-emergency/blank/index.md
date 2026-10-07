@@ -18,7 +18,7 @@ header_image:
 ---
 *Presented by* Word of Warning, Blank Media Collective + Z-arts *during* [Emergency 2013](/current/2013-emergency/index.html)        
           
-####Order of Appearance (subject to change):              
+#### Order of Appearance (subject to change):              
 **lili Spain | Break on Through (to the Other Side)**                
 Pillaging elements of ancient ritual, anthropology, psychoanalysis and self-hypnosis, the work is an attempt to break through/back to an alternate state/time, and one of a series of performances marking the centenary of the publication of Sigmund Freud's controversial *Totem and Taboo* (2013).              
               
@@ -116,12 +116,12 @@ Melody Parker (performer/writer) is currently studying theatre & performance at 
 [geraniumtheatreco.tumblr.com](http://geraniumtheatreco.tumblr.com) | [melodyparker.tumblr.com](http://melodyparker.tumblr.com)    
 ![Geranium Theatre](geranium.jpg)    
         
-####Venue + Booking Details          
+#### Venue + Booking Details          
 Date: Saturday 5 October 2013, 12noon-4pm           
 [Venue: BLANKSPACE](http://blankmediacollective.org/about-us), 43 Hulme Street, Manchester M15 6AW                
 Tickets: FREE no booking required                
 Venue Tel: 0161 222 6164         
 NB. Thanks to building works, Hulme Street has been bisected by a large grey wall. To reach BLANKSPACE, follow the diversion signs, or on foot, arrive via Medlock Street (see [map](http://bit.ly/1bFUlqt)).    
          
-####Credits           
+#### Credits           
 Co-produced by [hÅb](/hab/index.html), [Blank Media Collective](http://www.blankmediacollective.org) + [Z-arts](http://www.z-arts.org); a greenroom legacy project.

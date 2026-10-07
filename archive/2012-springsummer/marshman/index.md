@@ -12,7 +12,7 @@ show: "Legs 11"
 
 ![Tom Marshman](w6tom.jpg)
 
-####Who is he?
+#### Who is he?
 
 Hello, I'm Tom Marshman.
 
@@ -22,7 +22,7 @@ I have shown work in a variety of venues including Bristol Old Vic, Arnolfini (B
 
 Collaborators include: Dan Canham, Sam Halmarack, Ben Pollock, Ziggy Jacobs, Neil Bartlett MBE, Michael Pinchbeck, Bryony Kimmings, Mamoru Iriguchi,  Clara Giraud.
 
-####What people have said about him
+#### What people have said about him
 
 >We fully support your project and if the quest for *Legs11* helps bring it to a more public view, we are delighted. - *David Hinchliffe, brands director, Pretty Polly.*
 
@@ -33,7 +33,7 @@ Collaborators include: Dan Canham, Sam Halmarack, Ben Pollock, Ziggy Jacobs, Nei
 >Unapologetically sentimental, and loveable for it. - *Tim Atack, Venue Magazine*
 
 
-####More
+#### More
 
 Tom Marshman is mingling with fashionistas&hellip; but will his winning smile pull him through? 
 
@@ -43,5 +43,5 @@ Tom has an ambiguous relationship to his legs. He has suffered from varicose vei
 
 In this intimate performance, Tom conveys a brave story of transformation, hospital visits and rejuvenation, running a half marathon and remembering past embarrassments. Heart-warming and funny, the show celebrates misfits through personal stories, songs and charmingly camp dances. 
 
-####Website
+#### Website
 [tommarshman.com](http://tommarshman.com/)   

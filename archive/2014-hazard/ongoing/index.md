@@ -14,12 +14,12 @@ header_image: "header_boat.jpg"
 ---
 *Part of* Hazard 2014, *presented by* Word of Warning       
      
-####Venue + Booking Details        
+#### Venue + Booking Details        
 Date: Saturday 12 July, 12noon-5pm                
 Venue: within [St Ann's Square](http://bit.ly/1wrGmvW) (Manchester, M2 7LF) and surrounding streets       
 Tickets: FREE/unticketed              
                 
-####Happening all afternoon (12noon-5pm)             
+#### Happening all afternoon (12noon-5pm)             
 **Hanna Rohn + Signhild Wærsted ¦ *Do Touch The Artwork***        
 100kg of beans are spread-out in St Ann's Square — an urban bean-field inviting you to touch, listen, move, watch, and create. *Do Touch The Artwork* is for everyone who dares to cross the line, and enter a playful experience where individuals face the collective & collaboration faces sabotage. 
                      
