@@ -17,13 +17,13 @@ season: "Social Experiment"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated 28 August 2026</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated&nbsp;2&nbsp;November&nbsp;2026</small>          
          
 *Presented by* Word of Warning + <a href="https://contactmcr.com/events/social-experiment" target="_blank">Contact</a> *as a semi-regular evening event.*         
          
 **Social Experiment** is a gathering at Contact for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
           
-A free and informal, semi-regular evening event with the next on Thursdays **19 November 2026** and **11 February 2027** from 6pm to 9pm (further TBA).         
+A free and informal, semi-regular evening event with the next on Thursday **19 November 2026** from 6pm to 9pm — followed by Thursdays 11 February, 22 April, 24 June, and 11 November 2027.         
           
 If you're a Greater Manchester artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
          
@@ -45,7 +45,7 @@ Past events were held in [June](/socialexperiment/jun2026), [April](/socialexper
 #### Entry         
 FREE: there's no ticketing… just turn up!         
          
-Next Date: Thursday 19 November 2026.<br>Following Date: Thursday 11 February 2027 (further dates TBA).<br>Time: 6pm onwards (each event ends *by about* 9pm).         
+Next Date: Thursday 19 November 2026.<br>Following Dates: Thursdays 11 February, 22 April, 24 June, and 11 November 2027.<br>Time: 6pm onwards (each event ends *by about* 9pm).         
           
 Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester M15 6JA.         
          
@@ -65,7 +65,7 @@ Greater Manchester artists (*aged 18+*) are invited to submit proposals of: shor
          
 **For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>**<br>(Direct link to proposal form is <a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">here</a> in case of issues with posthaven.)         
          
-Proposal Deadline: open on a rolling basis and closing 17 days before each event — November's deadline is 2 Nov at noon and February's is 25 Jan at noon.         
+Proposal Deadline: open on a rolling basis and closing 17 days before each event — November's deadline was 2 Nov at noon, February's is 25 Jan at noon, etc.         
          
 #### Credits          
 [Social Experiment](/hab/socialexperiment) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.<br>Host: Peader Kirk
