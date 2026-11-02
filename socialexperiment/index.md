@@ -25,7 +25,7 @@ season: "Social Experiment"
           
 A free and informal, semi-regular evening event with the next on Thursday **19 November 2026** from 6pm to 9pm — followed by Thursdays 11 February, 22 April, 24 June, and 11 November 2027.         
           
-If you're a Greater Manchester artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
+If you're a North West† artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
          
 If you're an audience member looking for something a little bit different — this is your chance to take a few risks & meet some artists in our social experiment.         
          
@@ -61,7 +61,11 @@ Features: a small number of Live Art & contemporary performance works with varie
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
                    
 #### Apply        
-Greater Manchester artists (*aged 18+*) are invited to submit proposals of: short performances, interventions, or durational works, for inclusion in these events. The priority is for GM artists, we will consider applications from other North West based artists but not from other regions.         
+North West† artists (*aged 18+*) are invited to submit proposals of: short performances, interventions, or durational works, for inclusion in these events.          
+         
+†Please note: the priority is for Greater Manchester artists, we will consider applications from other North West England-based artists.        
+         
+Please also note: the focus of Social Experiment is Live Art. It is not a dance platform, and the space available is not suitable for dance duets, group dance pieces, nor for large physical performance groups.         
          
 **For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>**<br>(Direct link to proposal form is <a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">here</a> in case of issues with posthaven.)         
          
