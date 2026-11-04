@@ -17,7 +17,7 @@ season: "Egan & Pinchbeck 4|11|2026, 8pm"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [entry](/current/2026/eganpinchbeck/#entry) · [access](/current/2026/eganpinchbeck/#access) · [artists](/current/2026/eganpinchbeck/#artists) · [credits](/current/2026/eganpinchbeck/#credits) · [websites](/current/2026/eganpinchbeck/#websites)</span>&ensp; <small>Updated&nbsp;11&nbsp;September&nbsp;2026</small>        
+<span style='font-variant: small-caps'>→ [entry](/current/2026/eganpinchbeck/#entry) · [access](/current/2026/eganpinchbeck/#access) · [artists](/current/2026/eganpinchbeck/#artists) · [credits](/current/2026/eganpinchbeck/#credits) · [websites](/current/2026/eganpinchbeck/#websites)</span>&ensp; <small>Updated&nbsp;4&nbsp;November&nbsp;2026</small>        
          
 *Presented by* <a href="https://thelowry.com/whats-on/matchstalks-remastered-ntcv" target="_blank">Lowry</a> + Word of Warning          
          
@@ -53,9 +53,11 @@ Kevin Egan is an interdisciplinary performer, theatre-maker, and Senior Lecturer
 Michael Pinchbeck is a writer, director, theatre-maker, and Professor of Theatre at Manchester Metropolitan University. He has created work for parked cars, park benches, sheds, Roman walls, recital halls, and theatres — and was commissioned to write three plays by Nottingham Playhouse: *The White Album*, *The Ashes*, and *Bolero*. His recent theatre work explores notions of performance as commemoration, the relationship between musicality and dramaturgy, and immersive adaptation.         
           
 #### Credits         
-Devisers & performers: Kevin Egan & Michael Pinchbeck<br>Animator: Becca Horswill<br>Dramaturg: Ollie Smith<br>Musician: Adam Fairhall<br>Video: North West Film Archive at Manchester Metropolitan University.         
+Devisers & performers: Kevin Egan & Michael Pinchbeck<br>Animator: Becca Horswill<br>Dramaturg: Ollie Smith<br>Musician: Adam Fairhall<br>Video: North West Film Archive at Manchester Metropolitan University.<br>Voiceovers: Bill Egan, Liv Egan, Harper Pinchbeck         
           
 Commissioned by [hÅb](/hab), and supported by Manchester School of Art, the Performance Research Group, and the School of English at Manchester Metropolitan University.         
+         
+With thanks to the North West Film Archive for providing footage including material from Alstom Group, Salford City Council, University of Salford, Mottram Community Association, and the ITV Archive.<br>Thanks to John Campbell and the technical team at Manchester Met and colleagues at the Manchester School of Theatre.<br>Thanks to Tamsin Drury and hÅb for support.         
           
 Image created by Michael Pinchbeck & Kevin Egan, outside of Manchester School of Art, Manchester Metropolitan University. Photographer: Ollie Smith. Design: Kevin Egan.         
          
