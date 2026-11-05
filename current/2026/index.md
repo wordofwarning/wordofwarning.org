@@ -8,11 +8,11 @@ artist_size: 1
 season: "Performance Programme 2026"
 
 ---
-<span style='font-variant: small-caps'>→ [about](/current/2026/#about) · [what](/current/2026/#what) · [by](/current/2026/#by) · [people](/current/2026/#people) · [warnings](/current/2026/#warnings)</span>&ensp; <small>Updated&nbsp;28&nbsp;September&nbsp;2026</small>        
+<span style='font-variant: small-caps'>→ [about](/current/2026/#about) · [what](/current/2026/#what) · [by](/current/2026/#by) · [people](/current/2026/#people) · [warnings](/current/2026/#warnings)</span>&ensp; <small>Updated&nbsp;5&nbsp;November&nbsp;2026</small>        
          
-*The year continues with [Egan & Pinchbeck](/current/2026/eganpinchbeck)'s show about a song about a painter, and concludes with an autumnal [Social Experiment](/socialexperiment)…*         
+*The year concludes with an autumnal [Social Experiment](/socialexperiment)…*         
            
-*So far we've shown [Victoria Melody](/current/2026/melody)'s testament to people power, [Turn](/current/2026-turn)'s whirlwind of dance, [Harry Clayton-Wright](/current/2026/clayton-wright)'s theatrical extravaganza, [n:u (melissandre varin)](/current/2026-worksahead/nu)'s performance-ritual, [Nathan Birkinshaw](/current/2026-worksahead/birkinshaw)'s exploration of contentment, [Haphazard](/current/2026-haphazard)'s all ages antics, and [Emergency](/current/2026-emergency)'s day out for the curious…*          
+*So far we've shown [Victoria Melody](/current/2026/melody)'s testament to people power, [Turn](/current/2026-turn)'s whirlwind of dance, [Harry Clayton-Wright](/current/2026/clayton-wright)'s theatrical extravaganza, [n:u (melissandre varin)](/current/2026-worksahead/nu)'s performance-ritual, [Nathan Birkinshaw](/current/2026-worksahead/birkinshaw)'s exploration of contentment, [Haphazard](/current/2026-haphazard)'s all ages antics, [Emergency](/current/2026-emergency)'s day out for the curious, and [Egan & Pinchbeck](/current/2026/eganpinchbeck)'s show about a song about a painter…*          
           
 Read our latest <a href="http://wordofwarning.posthaven.com" target="_blank">Weekly Warning</a> signpost to discover more live and online performance in Manchester + beyond… Please also <a href="{{ site.mailer_signup_url }}" target="_blank">sign-up</a> to keep in touch.        
         
