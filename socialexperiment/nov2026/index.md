@@ -5,7 +5,7 @@ rootpath: "../../../"
 
 # ABOUT THE SHOW - GENERIC
 artist: "Social Experiment" # the name of the artist or company
-show: "11 June 2026 Programme" # the name of the show
+show: "19 November 2026 Programme" # the name of the show
 artist_size: 1
 show_size: 4
 header_image: "header_socex.jpg"  
@@ -17,21 +17,21 @@ season: "Social Experiment 11|6|2026, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/jun2026/#artists) · [programme](/socialexperiment/jun2026/#programme) · [entry](/socialexperiment/jun2026/#entry) · [access](/socialexperiment/jun2026/#access) · [credits](/socialexperiment/jun2026/#credits)</span>&ensp; <small>Updated 11 June 2026</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/nov2026/#artists) · [programme](/socialexperiment/nov2026/#programme) · [entry](/socialexperiment/nov2026/#entry) · [access](/socialexperiment/nov2026/#access) · [credits](/socialexperiment/nov2026/#credits)</span>&ensp; <small>Updated&nbsp;5&nbsp;November&nbsp;2026</small>          
          
-*A [Social Experiment](/socialexperiment) on 11 June, presented by* Word of Warning + Contact         
+*A [Social Experiment](/socialexperiment) on 19 November, presented by* Word of Warning + Contact         
          
 **Social Experiment** is a free and informal, semi-regular evening gathering at Contact for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
         
-If you're a Greater Manchester artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
+If you're a North West artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
          
 If you're an audience member looking for something a little bit different — this is your chance to take a few risks & meet some artists in our social experiment.         
          
 #### Artists         
-Ash&nbsp;Cox&nbsp;· Blood&nbsp;Bones&nbsp;Jones&nbsp;· Lauren&nbsp;Temple&nbsp;· special&nbsp;guest&nbsp;[Nathan&nbsp;Birkinshaw](/current/2026-worksahead/birkinshaw) &ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>        
+TBA&nbsp;?&nbsp;· TBA&nbsp;?&nbsp;· special&nbsp;guest&nbsp;TBA&nbsp;? &ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>        
          
 #### Programme        
-June's Edition, hosted by Peader Kirk, kicks off at 6pm and finishes *by* 9pm…         
+November's Edition, hosted by Peader Kirk, kicks off at 6pm and finishes *by* 9pm…         
 <hr>         
 **Ash Cox** · *Hot Air*         
          
@@ -87,22 +87,22 @@ Insta <a href="https://instagram.com/nathanbirkinshaw" target="_blank">@nathanbi
 #### Entry         
 FREE: there's no ticketing… just turn up!         
          
-Time: Thursday 11 June 2026, 6pm onwards (ends *by about* 9pm).         
+Time: Thursday 19 November 2026, 6pm onwards (ends *by about* 9pm).         
           
-Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (bar & spaces 0 & 2), Oxford Rd, Manchester M15 6JA.         
+Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (bar & space 0), Oxford Rd, Manchester M15 6JA.         
          
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
           
 Content Warnings: some works involve interaction and/or participation; specific warnings listed [here](/warnings).         
           
-Features: four Live Art & contemporary performance works with varied content.         
+Features: ***TBC*** Live Art & contemporary performance works with varied content.         
          
-*NB* works mostly occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in space 0 & bar, with one in space 2 on the second floor, and vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
+*NB* works occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in space 0 & bar, and vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### Credits          
-[Social Experiment](/socialexperiment) (June 2026) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
+[Social Experiment](/socialexperiment) (November 2026) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
                  
-<small><span style='font-variant: small-caps'>[back to top](/socialexperiment/jun2026)</span></small>
+<small><span style='font-variant: small-caps'>[back to top](/socialexperiment/nov2026)</span></small>
