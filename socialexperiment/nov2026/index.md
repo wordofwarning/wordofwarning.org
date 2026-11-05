@@ -9,7 +9,7 @@ show: "19 November 2026 Programme" # the name of the show
 artist_size: 1
 show_size: 4
 header_image: "header_socex.jpg"  
-season: "Social Experiment 11|6|2026, Programme"
+season: "Social Experiment 19|11|2026, Programme"
 
 # ABOUT THE SHOW - LAYOUT
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
