@@ -42,7 +42,7 @@ Enquiries: <mailto:turn@habmcr.org> · <a href="http://turnmcr.org" target="_bla
 #### Past Editions        
 First held at greenroom in spring 2009, Turn moved to <a href="https://contactmcr.com" target="_blank">Contact</a> in 2012 (with a 2018-22 hiatus) and also popped-up at <a href="https://companychameleon.com" target="_blank">Company Chameleon Studios</a> in [2024](/archive/2024-turn)…          
            
-The ninth edition trialled a new format with a dozen short dance-works shown on [**28 April 2017**](/archive/2017-turn), followed by a day of professional development.         
+The ninth edition trialled a new format at <a href="https://contactmcr.com" target="_blank">Contact</a> with a dozen short dance-works shown on [**28 April 2017**](/archive/2017-turn), followed by a day of professional development.         
           
 After a hiatus, the tenth edition returned to <a href="https://contactmcr.com" target="_blank">Contact</a> with nine short dance-works ([see images](/galleries/2023-turn)) on [**10 March 2023**](/archive/2023-turn), followed by an artist day.          
           
@@ -50,7 +50,7 @@ The eleventh edition took place at <a href="https://companychameleon.com" target
 
 The twelfth edition returned to <a href="https://contactmcr.com" target="_blank">Contact</a> with eight short dance-works across three spaces ([see images](/galleries/2025-turn)) on [**4 April 2025**](/archive/2025-turn), followed by an artist day.         
 
-The thirteenth edition returned to <a href="https://contactmcr.com" target="_blank">Contact</a> with nine short dance-works across three spaces ([see images](/galleries/2026-turn)) on [**20 March 2026**](/current/2026-turn), followed by an artist day.         
+The thirteenth edition took place at <a href="https://contactmcr.com" target="_blank">Contact</a> with nine short dance-works across three spaces ([see images](/galleries/2026-turn)) on [**20 March 2026**](/current/2026-turn), followed by an artist day.         
          
 #### Turn Prize 2024         
 On 30 April 2024 we were delighted to announce Fabíola Santana and Louiseanne Wong as the recipients of the Turn Prize [2024](/archive/2024-turn)<br>Fabíola Santana showed *We're Here Because They Were* at [Company Chameleon](/archive/2025/santana) on 29 May 2025, and a work in progress at <a href="https://unitytheatreliverpool.co.uk/whats-on/were-here-because-they-were" target="_blank">Unity Theatre, Liverpool</a> on 23 April 2025.<br>Louiseanne Wong showed a preview of *I Am. Am I* in the <a href="https://thelowry.com/pQW3zUL/horizons-collective-showcase" target="_blank">Horizons Collective Showcase</a> at <a href="https://thelowry.com/whats-on/336//horizons-collective-showcase" target="_blank">Lowry</a> on 12 February 2025.<br>The Turn Prize is a commission for the development of work shown at Turn by North West England-based dance-makers, in [2024](/archive/2024-turn) supported by <a href="https://danceconsortianorthwest.org" target="_blank">Dance Consortia North West</a> using public funding by Arts Council England, and by <a href="https://companychameleon.com" target="_blank">Company Chameleon</a>, [hÅb](/hab), and <a href="https://projectauske.com" target="_blank">Project Auske</a>.         
