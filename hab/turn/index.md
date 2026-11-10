@@ -16,7 +16,7 @@ season: "Turn by hÅb"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<small>Updated&nbsp;9&nbsp;November&nbsp;2026</small>        
+<small>Updated&nbsp;10&nbsp;November&nbsp;2026</small>        
         
 **Turn** is our annual platform for North West† dancers and dance-makers — an opportunity to engage with new dance in Greater Manchester every spring.    
              
@@ -26,8 +26,8 @@ Get a feel for it with [2026's programme](/current/2026-turn/programme) and [gal
         
 Manchester's annual open call dance platform, Turn aims to be:<br>— a public micro-festival and open submission platform;<br>— an opportunity for artists to meet, show, and peer-review work;<br>— an artist networking event;<br>— and is open to North West England† dancers and dance-makers, *aged 18+*          
        
-#### Turn 2027 Call for Proposals Opens on 10 November 2026       
-North West† dancers and dance-makers (*aged 18+*) are <a href="http://turnmcr.posthaven.com" target="_blank">invited to submit proposals</a> of: short finished pieces of work, excerpts or extracts of longer works, or works-in-progress, for inclusion in this annual event — where we typically expect to present *up to ten* dance-works.        
+#### Turn 2027 Call for Proposals is Now Open      
+North West† dancers and dance-makers (*aged 18+*) are <a href="http://turnmcr.posthaven.com" target="_blank">now invited to submit proposals</a> of: short finished pieces of work, excerpts or extracts of longer works, or works-in-progress, for inclusion in this annual event — where we typically expect to present *up to ten* dance-works.        
           
 **For details please visit <a href="http://turnmcr.posthaven.com" target="_blank">turnmcr.posthaven.com</a><br>Proposal Deadline: Friday 15 January 2027, 5pm**         
          
