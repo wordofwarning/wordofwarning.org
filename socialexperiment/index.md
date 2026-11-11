@@ -17,7 +17,7 @@ season: "Social Experiment"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated&nbsp;2&nbsp;November&nbsp;2026</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated&nbsp;11&nbsp;November&nbsp;2026</small>          
          
 *Presented by* Word of Warning + <a href="https://contactmcr.com/events/social-experiment" target="_blank">Contact</a> *as a semi-regular evening event.*         
          
@@ -32,7 +32,7 @@ If you're an audience member looking for something a little bit different — th
 Past events were held in [June](/socialexperiment/jun2026), [April](/socialexperiment/apr2026), and [February (Queer Contact Edition)](/socialexperiment/feb2026) 2026 — and [November](/socialexperiment/nov2025), [July](/socialexperiment/jul2025), [June (Student Edition)](/socialexperiment/studentedition), [May](/socialexperiment/may2025), and [February](/socialexperiment/feb2025) 2025. See some images from [2026](/galleries/2026-socex) and [2025](/galleries/2025-socex).         
          
 #### Artists        
-**19 November** — *participating&nbsp;artists&nbsp;to&nbsp;be&nbsp;announced*.         
+**19 November** — Chanje&nbsp;Kunda&nbsp;· Edy&nbsp;Hurst&nbsp;· Erick&nbsp;Santos&nbsp;· Katherine&nbsp;Lee&nbsp;· Nightingale&nbsp;&&nbsp;Sage&nbsp;· Peader&nbsp;Kirk&nbsp;· PHØBIA&nbsp;· Rachel&nbsp;Smith &ensp;<small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>
          
 **11 June** — Ash&nbsp;Cox&nbsp;· Blood&nbsp;Bones&nbsp;Jones&nbsp;· Lauren&nbsp;Temple&nbsp;· special&nbsp;guest&nbsp;[Nathan&nbsp;Birkinshaw](/current/2026-worksahead/birkinshaw) —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/jun2026).          
           
