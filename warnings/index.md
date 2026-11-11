@@ -12,7 +12,7 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated&nbsp;5&nbsp;November&nbsp;2026<small>          
+<small>Updated&nbsp;11&nbsp;November&nbsp;2026<small>          
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>(Please click [here](/archive/warnings) for *past* events and *archived* livestreams on our YouTube channel.)         
          
@@ -21,7 +21,7 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 #### 2026         
          
 ##### [19 Nov. Contact | Social Experiment](/socialexperiment)          
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings to follow *about* a week before…         
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings follow…<br>&nbsp;Chanje Kunda — themes of racism, mysogynoir, sexism.<br>&nbsp;Edy Hurst — audience interaction; swearing.<br>&nbsp;Erick Santos — themes of racism, colonial histories, ancestral memory. Includes intense physical and vocal expression, moments of heightened sound, emotional intensity. Performer appears bare-chested.<br>&nbsp;Nightingale & Sage — **Allergy Warning: barley malt (gluten)**; involves 1-2-1 interaction.<br>&nbsp;Peader Kirk — potential offer of alcoholic drink, non-alcoholic options including water are available.<br>&nbsp;Rachel Smith — references mental illness, homophobic bullying, grief.         
          
 #### 2027         
          
