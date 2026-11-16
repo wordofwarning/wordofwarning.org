@@ -41,7 +41,7 @@ Content Warning: please click [here](/warnings).<br>Access: a one-to-one encount
          
 Nightingale & Sage is a creative practitioner, walking artist, and complementary therapist — combining creativity, walking, and therapeutic modalities. Their autobiographical work is inspired by personal histories, rites of passage, mapping loss, and pathways to recovery.         
          
-<a href="https://nightingaleandsage.com" target="_blank">nightingaleandsage.com</a> · Insta <a href="https://instagram.com/ash_tronomy_" target="_blank">@ash_tronomy_</a>         
+<a href="https://nightingaleandsage.com" target="_blank">nightingaleandsage.com</a> · Insta <a href="https://instagram.com/nightingaleandsage" target="_blank">@nightingaleandsage</a>         
          
 <hr>         
 **PHØBIA** · *Untitled (Face Yourself)*        
@@ -74,23 +74,31 @@ Rachel is a writer-performer based in Todmorden. An actor turned screenwriter, *
          
 <a href="https://rachelsmithwriterperformer.com" target="_blank">rachelsmithwriterperformer.com</a> · Insta <a href="https://instagram.com/rachthesmith" target="_blank">@rachthesmith</a>         
 <hr>         
-**Nathan Birkinshaw** · *How To Be Content*         
+**Erick Santos** · *AutoEscavo (Self-Excavation)*         
+
+What can a Black body do in a state of performance?<br>In this new twenty-minute experiment arising from *AutoEscavo*, Brazilian performer Erick Santos brings together movement, voice, song, and fragments of Portuguese to explore ancestral memory and the body as a place of transformation.<br>Developed during his research stay in Manchester, this intimate solo invites audiences to listen beyond language and discover how gestures, rhythms, and memories can speak across cultural boundaries.         
          
-*"Making peace with the fact this might be it."*         
+Content Warning: please click [here](/warnings).<br>Access: all spoken word is Portuguese.         
          
-An exploration of contentment, led by a man brimming with mediocrity.         
+Erick is an Afro-Brazilian performer and artist-researcher, currently based in Manchester as a visiting doctoral researcher at Manchester Metropolitan University. His practice brings together physical theatre, dance, voice, and ancestral memory. Since 2019, he has developed and performed *AutoEscavo (Self-Excavation)* — exploring the relationship between Black embodied experience and artistic creation.         
          
-Through film, performance, song, and an increasingly questionable process, comes a show that investigates how to find meaning in the mundane — that somehow becomes increasingly more performative itself as time slips by.         
+<a href="https://ericksantos.pb.online" target="_blank">ericksantos.pb.online</a> · Insta <a href="https://instagram.com/erickperformer" target="_blank">@erickperformer</a>         
+<hr>         
+**Peader Kirk** · *This is not a bar…*         
+         
+Conjuring up the unique atmosphere and sociality of greenroom's bar, and the artists and audiences who frequented it. A requiem and a celebration.         
          
 Content Warning: please click [here](/warnings).         
          
-A [Works Ahead 2026](/current/2026-worksahead/birkinshaw) commission by [hÅb](/hab) and <a href="https://contactmcr.com" target="_blank">Contact</a>; produced by [hÅb](/hab); supported using public funding by Arts Council England.<br>Project Mentor: Peader Kirk         
+Peader is an artist and director working internationally in performance and sound art. He has directed over 50 performances since 2000, with work shown at venues including the Southbank Centre and the Institute of Contemporary Arts in London, the National Theatre of Greece in Athens, the Academy of Fine Arts in Turin, and the Hong Kong Repertory Theatre. His work engages directly with communities to ask how we meet amidst difference and how we create change, ranging from encounters in small rooms to large-scale public works in the urban environment.         
          
-Nathan is a performance artist, comedian, and theatre-maker whose work blends humour with the explorations of being human and the general absurdity of what comes with that responsibility (or lack thereof).<br>With an unhealthy obsession with the internet, you're just as likely to find him there as well as showing work in theatres, back rooms of pubs, and having work appearing on BBC Radio.         
-         
-Insta <a href="https://instagram.com/nathanbirkinshaw" target="_blank">@nathanbirkinshaw</a> · YouTube <a href="https://www.youtube.com/@nathanbirkinshaw" target="_blank">@nathanbirkinshaw</a>         
+Insta <a href="https://instagram.com/peaderkirk" target="_blank">@peaderkirk</a>         
 <hr>         
-         
+
+<hr>         
+
+<hr>         
+                  
 #### Entry         
 FREE: there's no ticketing… just turn up!         
          
