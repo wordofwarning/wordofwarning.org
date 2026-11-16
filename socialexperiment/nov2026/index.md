@@ -104,7 +104,7 @@ Katherine is a Hong Kong-born composer-performer based in the UK, specialising i
         
 <a href="https://llkatherineleelll.wixsite.com/experimentalcomposer" target="_blank">website</a> · Insta <a href="https://instagram.com/llkatherinelll" target="_blank">@llkatherinelll</a>         
 <hr>         
-**Edy Hurst**         
+**Edy Hurst** · *Edy Hurst Thanks Every Member of the Audience with a Unique Bespoke Act of Gratitude*         
          
 Celebrated comedian Edy Hurst (★★★★★ "*Effortlessly Funny*" — NDSreview) is so glad you're here. And you're here. And you are too. But talk is cheap, and in this economy, we need action. The handbrake is down, and the engine of Cheers is going chugga chugga.<br>Take your seat and prepare for a unique act of gratitude from a man who has really taken on too many hobbies to not share them. Will everyone be uniquely gratted before time is up?<br>What does it mean to say thank you? Choo choo!         
          
