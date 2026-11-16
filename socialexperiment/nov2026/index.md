@@ -94,9 +94,25 @@ Peader is an artist and director working internationally in performance and soun
          
 Insta <a href="https://instagram.com/peaderkirk" target="_blank">@peaderkirk</a>         
 <hr>         
-
+**Katherine Lee** · *Tin Ling Ling Dei Ling Ling*         
+         
+An experimental sound work exploring the tension between beliefs and superstitions, inspired by the ghost myth of Hong Kong’s Nam Koo Terrace during WWII.<br>Using unconventional sound objects closely tied to ritual practice — including rice and singing bowls, alongside live guzheng, human voice, movement, and electronics — Katherine evokes an immersive Asian ritualistic atmosphere. The piece invites us to reflect on how deeply held beliefs can transform into superstition, and why they are internalised even when they cannot be rationally explained.         
+         
+Commissioned by Brighter Sound and ESEA Contemporary.         
+         
+Katherine is a Hong Kong-born composer-performer based in the UK, specialising in electronic and experimental music. Her work explores subtle sonic possibilities in instruments, objects, and space — often combining Asian traditions with contemporary Western practices. Many of her projects are site-specific, engaging with spatial dynamics and audience placement to create immersive experiences that invite reflection on sound and perception.         
+        
+<a href="https://llkatherineleelll.wixsite.com/experimentalcomposer" target="_blank">website</a> · Insta <a href="https://instagram.com/llkatherinelll" target="_blank">@llkatherinelll</a>         
 <hr>         
-
+**Edy Hurst**         
+         
+Celebrated comedian Edy Hurst (★★★★★ "*Effortlessly Funny*" — NDSreview) is so glad you're here. And you're here. And you are too. But talk is cheap, and in this economy, we need action. The handbrake is down, and the engine of Cheers is going chugga chugga.<br>Take your seat and prepare for a unique act of gratitude from a man who has really taken on too many hobbies to not share them. Will everyone be uniquely gratted before time is up?<br>What does it mean to say thank you? Choo choo!         
+         
+Content Warning: please click [here](/warnings).         
+         
+Edy is a Manchester-based comedian and theatre-maker. As part of Lowry's Developed With cohort, he created *Edy Hurst's Wonderfull Discoverie of Witches in the Countie of Himself*, a show about the Lancashire Witch Trials, the Vengaboys, and ‘nothing else’ — which toured the UK and received five-star reviews at the Edinburgh Fringe. He has been nominated for the BBC New Comedy Award and Best Alternative Act at the North West Comedy Awards, and was a finalist in the Musical Comedy Awards.         
+         
+<a href="https://www.edyhurst.co.uk" target="_blank">edyhurst.co.uk</a> · Insta <a href="https://instagram.com/edyhurst" target="_blank">@edyhurst</a>         
 <hr>         
                   
 #### Entry         
