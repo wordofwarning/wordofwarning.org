@@ -46,7 +46,7 @@ Nightingale & Sage is a creative practitioner, walking artist, and complementary
 <hr>         
 **PHØBIA** · *Untitled (Face Yourself)*        
          
-How many faces can one person have?<br>In *Face Yourself*, genderless drag creature PHØBIA creates a face, performs in it, photographs it, wipes it away, and begins again. Across three hours, an archive of discarded identities slowly accumulates. Each photograph preserves a version of the performer that no longer exists.<br>Part endurance performance, part live self-portrait, *Face Yourself* invites audiences to witness the labour, vulnerability, and endless possibilities of transformation.<br>Come and go as you please. The face you leave behind might not be the one you return to.         
+How many faces can one person have?<br>In *Face Yourself*, genderless drag creature PHØBIA creates a face, performs in it, photographs it, wipes it away, and begins again.<br>Across three hours, an archive of discarded identities slowly accumulates. Each photograph preserves a version of the performer that no longer exists.<br>Part endurance performance, part live self-portrait, *Face Yourself* invites audiences to witness the labour, vulnerability, and endless possibilities of transformation.<br>Come and go as you please. The face you leave behind might not be the one you return to.         
          
 Access: a durational performance, running throughout the evening; come and go.        
          
@@ -78,7 +78,7 @@ Rachel is a writer-performer based in Todmorden. An actor turned screenwriter, *
 
 What can a Black body do in a state of performance?<br>In this new twenty-minute experiment arising from *AutoEscavo*, Brazilian performer Erick Santos brings together movement, voice, song, and fragments of Portuguese to explore ancestral memory and the body as a place of transformation.<br>Developed during his research stay in Manchester, this intimate solo invites audiences to listen beyond language and discover how gestures, rhythms, and memories can speak across cultural boundaries.         
          
-Content Warning: please click [here](/warnings).<br>Access: all spoken word is Portuguese.         
+Content Warning: please click [here](/warnings).<br>Access: spoken word is all Portuguese.         
          
 Erick is an Afro-Brazilian performer and artist-researcher, currently based in Manchester as a visiting doctoral researcher at Manchester Metropolitan University. His practice brings together physical theatre, dance, voice, and ancestral memory. Since 2019, he has developed and performed *AutoEscavo (Self-Excavation)* — exploring the relationship between Black embodied experience and artistic creation.         
          
@@ -96,7 +96,7 @@ Insta <a href="https://instagram.com/peaderkirk" target="_blank">@peaderkirk</a>
 <hr>         
 **Katherine Lee** · *Tin Ling Ling Dei Ling Ling*         
          
-An experimental sound work exploring the tension between beliefs and superstitions, inspired by the ghost myth of Hong Kong’s Nam Koo Terrace during WWII.<br>Using unconventional sound objects closely tied to ritual practice — including rice and singing bowls, alongside live guzheng, human voice, movement, and electronics — Katherine evokes an immersive Asian ritualistic atmosphere. The piece invites us to reflect on how deeply held beliefs can transform into superstition, and why they are internalised even when they cannot be rationally explained.         
+An experimental sound work exploring the tension between beliefs and superstitions, inspired by the ghost myth of Hong Kong’s Nam Koo Terrace during WWII.<br>Using unconventional sound objects closely tied to ritual practice — including rice and singing bowls, alongside live guzheng, human voice, movement, and electronics — Katherine evokes an immersive Asian ritualistic atmosphere.<br>The piece invites us to reflect on how deeply held beliefs can transform into superstition, and why they are internalised even when they cannot be rationally explained.         
          
 Commissioned by Brighter Sound and ESEA Contemporary.         
          
