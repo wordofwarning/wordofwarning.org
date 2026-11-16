@@ -17,19 +17,19 @@ season: "Social Experiment"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated&nbsp;11&nbsp;November&nbsp;2026</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated&nbsp;16&nbsp;November&nbsp;2026</small>          
          
 *Presented by* Word of Warning + <a href="https://contactmcr.com/events/social-experiment" target="_blank">Contact</a> *as a semi-regular evening event.*         
          
 **Social Experiment** is a gathering at Contact for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
           
-A free and informal, semi-regular evening event with the next on Thursday **19 November 2026** from 6pm to 9pm — followed by Thursdays 11 February, 22 April, 24 June, and 11 November 2027.         
+A free and informal, semi-regular evening event with the next on Thursday **19 November 2026** from 6pm to 9pm — followed by 11 February, 22 April, 24 June, and 11 November 2027.         
           
 If you're a North West† artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
          
 If you're an audience member looking for something a little bit different — this is your chance to take a few risks & meet some artists in our social experiment.         
          
-Past events were held in [June](/socialexperiment/jun2026), [April](/socialexperiment/apr2026), and [February (Queer Contact Edition)](/socialexperiment/feb2026) 2026 — and [November](/socialexperiment/nov2025), [July](/socialexperiment/jul2025), [June (Student Edition)](/socialexperiment/studentedition), [May](/socialexperiment/may2025), and [February](/socialexperiment/feb2025) 2025. See some images from [2026](/galleries/2026-socex) and [2025](/galleries/2025-socex).         
+Past events were held in [Jun](/socialexperiment/jun2026)/[Apr](/socialexperiment/apr2026)/[Feb](/socialexperiment/feb2026) 2026 and [Nov](/socialexperiment/nov2025)/[Jul](/socialexperiment/jul2025)/[Jun](/socialexperiment/studentedition)/[May](/socialexperiment/may2025)/[Feb](/socialexperiment/feb2025) 2025. See some images from [2026](/galleries/2026-socex) and [2025](/galleries/2025-socex).         
          
 #### Artists        
 **19 November** — Chanje&nbsp;Kunda&nbsp;· Edy&nbsp;Hurst&nbsp;· Erick&nbsp;Santos&nbsp;· Katherine&nbsp;Lee&nbsp;· Nightingale&nbsp;&&nbsp;Sage&nbsp;· Peader&nbsp;Kirk&nbsp;· PHØBIA&nbsp;· Rachel&nbsp;Smith &ensp;<small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>
