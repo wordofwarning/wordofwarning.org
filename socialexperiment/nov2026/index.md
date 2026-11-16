@@ -17,18 +17,18 @@ season: "Social Experiment 19|11|2026, Programme"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/nov2026/#artists) · [programme](/socialexperiment/nov2026/#programme) · [entry](/socialexperiment/nov2026/#entry) · [access](/socialexperiment/nov2026/#access) · [credits](/socialexperiment/nov2026/#credits)</span>&ensp; <small>Updated&nbsp;5&nbsp;November&nbsp;2026</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/nov2026/#artists) · [programme](/socialexperiment/nov2026/#programme) · [entry](/socialexperiment/nov2026/#entry) · [access](/socialexperiment/nov2026/#access) · [credits](/socialexperiment/nov2026/#credits)</span>&ensp; <small>Updated&nbsp;16&nbsp;November&nbsp;2026</small>          
          
-*A [Social Experiment](/socialexperiment) on 19 November, presented by* Word of Warning + Contact         
+*Presented by* Word of Warning + <a href="https://contactmcr.com/events/social-experiment" target="_blank">Contact</a> *on 19 November 2026*         
          
-**Social Experiment** is a free and informal, semi-regular evening gathering at Contact for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
+**[Social Experiment](/socialexperiment)** is a free and informal, semi-regular evening gathering at Contact for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
         
 If you're a North West artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
          
 If you're an audience member looking for something a little bit different — this is your chance to take a few risks & meet some artists in our social experiment.         
          
-#### Artists         
-TBA&nbsp;?&nbsp;· TBA&nbsp;?&nbsp;· special&nbsp;guest&nbsp;TBA&nbsp;? &ensp; <small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>        
+#### Artists        
+Chanje&nbsp;Kunda&nbsp;· Edy&nbsp;Hurst&nbsp;· Erick&nbsp;Santos&nbsp;· Katherine&nbsp;Lee&nbsp;· Nightingale&nbsp;&&nbsp;Sage&nbsp;· Peader&nbsp;Kirk&nbsp;· PHØBIA&nbsp;· Rachel&nbsp;Smith &ensp;<small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
          
 #### Programme        
 November's Edition, hosted by Peader Kirk, kicks off at 6pm and finishes *by* 9pm…         
@@ -108,7 +108,7 @@ Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).
           
 Content Warnings: some works involve interaction and/or participation; specific warnings listed [here](/warnings).         
           
-Features: ***TBC*** Live Art & contemporary performance works with varied content.         
+Features: eight Live Art & contemporary performance works with varied content.         
          
 *NB* works occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in space 0 & bar, and vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
          
