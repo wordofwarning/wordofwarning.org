@@ -46,9 +46,9 @@ Nightingale & Sage is a creative practitioner, walking artist, and complementary
 <hr>         
 **PHØBIA** · *Untitled (Face Yourself)*        
          
-How many faces can one person have?<br>In *Face Yourself*, genderless drag creature PHØBIA creates a face, performs in it, photographs it, wipes it away, and begins again.<br>Across three hours, an archive of discarded identities slowly accumulates. Each photograph preserves a version of the performer that no longer exists.<br>Part endurance performance, part live self-portrait, *Face Yourself* invites audiences to witness the labour, vulnerability, and endless possibilities of transformation.<br>Come and go as you please. The face you leave behind might not be the one you return to.         
+How many faces can one person have?<br>In *Face Yourself*, genderless drag creature PHØBIA creates a face, performs in it, photographs it, wipes it away, and begins again.<br>Across three hours, an archive of discarded identities slowly accumulates; each photograph preserves a version of the performer that no longer exists.<br>Part endurance performance, part live self-portrait, *Face Yourself* invites audiences to witness the labour, vulnerability, and endless possibilities of transformation.<br>Come and go as you please. The face you leave behind might not be the one you return to.         
          
-Access: a durational performance, running throughout the evening; come and go.        
+Access: a durational performance, running throughout the evening.        
          
 PHØBIA is a Manchester-based genderless drag creature and performance artist working across horror drag, autobiographical theatre, and durational Live Art. A Factory International Fellow, their practice combines transformation, endurance, absurdity and vulnerability — challenging expectations of what drag can be. Their work includes *I Am Sixteen and Stupid*, a four-hour durational performance premiered at Emergency 26 for Word of Warning + Contact.         
          
