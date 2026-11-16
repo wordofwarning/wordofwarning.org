@@ -53,31 +53,26 @@ Access: a durational performance, running throughout the evening; come and go.
 PHØBIA is a Manchester-based genderless drag creature and performance artist working across horror drag, autobiographical theatre, and durational Live Art. A Factory International Fellow, their practice combines transformation, endurance, absurdity and vulnerability — challenging expectations of what drag can be. Their work includes *I Am Sixteen and Stupid*, a four-hour durational performance premiered at Emergency 26 for Word of Warning + Contact.         
          
 Insta <a href="https://instagram.com/thatcreaturephobia" target="_blank">@thatcreaturephobia</a>         
-<hr>
-
-**Blood Bones Jones** · *The Findings of Jacob Charles Trist*         
-         
-An immersive horror experience. Explore the space, and piece together a story. Follow Jacob on his discovery of creatures not of this earth and decide if what he's seeing is real or a matter of fiction.         
-         
-Content Warning: please click [here](/warnings).         
-         
-Performers: Joshua Owen & Lydia Horne         
-         
-Faye Jones is a multidisciplinary artist based in the North West. With a passion for combining her dance background with her love for horror cinema, Faye is always striving to create creatures not of this earth through thought-provoking choreography and film.         
-         
-Insta <a href="https://instagram.com/blood.bones.jones" target="_blank">@blood.bones.jones</a> <a href="https://instagram.com/faye.joness" target="_blank">@faye.joness</a>         
 <hr>         
-**Lauren Temple** · *Ethereal*         
+**Chanje Kunda** · *The Grace Card*         
          
-A queer coming of age story: be guided in self-discovery through goddesses, and gay clubs, and the great outdoors.         
-          
+A ‘play’ on the Race Cards concept, and inspired by the iconic Grace Jones, this celebratory performance explores the intersectionality of being a Black woman in the 21st century, whilst highlighting the exquisiteness of Black female and non-binary existence.<br>Combining poems, performance, and pole art — *The Grace Card* invites you into a swirling series of questions about our divinity.         
+         
 Content Warning: please click [here](/warnings).         
          
-Movement Director: Chris Brown         
+Chanje is a poet, performance artist, and filmmaker whose work explores 21st-century life — using art to transform lives, shift consciousness, and bring joy to an otherwise serious and stressful modern existence. She creates work across literature, theatre, Live Art, and film, and has presented nationally and internationally, including at the Southbank Centre, the National Arts Festival of South Africa, and Harare International Festival of Arts.         
          
-Lauren is a multi-disciplinary creative from Manchester. Seeing herself primarily as a storyteller, Lauren often uses a narrative style that weaves fantasy with mundanity to examine contemporary life. Lauren's work often focuses on queerness, feminism, and mental health.         
+<a href="https://www.chanjekunda.com" target="_blank">chanjekunda.com</a> · Insta <a href="https://instagram.com/chanje.kunda" target="_blank">@chanje.kunda</a> <a href="https://instagram.com/spinning.constellations" target="_blank">@spinning.constellations</a>         
+<hr>         
+**Rachel Smith** · *Self Help with Mother Dark*         
          
-<a href="https://laurentemplepoet.co.uk" target="_blank">laurentemplepoet.co.uk</a> · Insta <a href="https://instagram.com/rentemplepoet" target="_blank">@rentemplepoet</a>         
+Apparently rescuing is ‘enabling’ and ‘helping’ is the sunny side of control, but how do we let people go when there’s nothing left to catch them?<br>*MOTHER DARK* is a blackly comic, cathartic ride through co-dependence, mother rage, and recovery. If you love a self-help group and a banging 90s tune, if you yearn in these times for a (dark) Mother, this show is for you.         
+         
+Content Warning: please click [here](/warnings).         
+         
+Rachel is a writer-performer based in Todmorden. An actor turned screenwriter, *MOTHER DARK* marks her return to performance and is her first solo show.         
+         
+<a href="https://rachelsmithwriterperformer.com" target="_blank">rachelsmithwriterperformer.com</a> · Insta <a href="https://instagram.com/rachthesmith" target="_blank">@rachthesmith</a>         
 <hr>         
 **Nathan Birkinshaw** · *How To Be Content*         
          
@@ -115,6 +110,6 @@ Features: eight Live Art & contemporary performance works with varied content.
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
          
 #### Credits          
-[Social Experiment](/socialexperiment) (November 2026) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.         
-                 
+[Social Experiment](/socialexperiment) (November 2026) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.<br>Host: Peader Kirk         
+         
 <small><span style='font-variant: small-caps'>[back to top](/socialexperiment/nov2026)</span></small>
