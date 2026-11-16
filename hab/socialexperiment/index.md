@@ -20,13 +20,13 @@ season: "Social Experiment by hÅb"
         
 **[Social Experiment](/socialexperiment)** is a gathering at <a href="https://contactmcr.com/events/social-experiment" target="_blank">Contact</a> for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
          
-A free and informal, semi-regular evening event with the next on Thursday **19 November 2026** from 6pm to 9pm — followed by Thursdays 11 February, 22 April, 24 June, and 11 November 2027.         
+A free and informal, semi-regular evening event with the next on Thursday **19 November 2026** from 6pm to 9pm — followed by 11 February, 22 April, 24 June, and 11 November 2027.         
          
 If you're a North West† artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
          
 If you're an audience member looking for something a little bit different — this is your chance to take a few risks & meet some artists in our social experiment.          
          
-Past events were held in [Jun](/socialexperiment/jun2026)/[Apr](/socialexperiment/apr2026)/[Feb)](/socialexperiment/feb2026) 2026 and [Nov](/socialexperiment/nov2025)/[Jul](/socialexperiment/jul2025)/[Jun](/socialexperiment/studentedition)/[May](/socialexperiment/may2025)/[Feb](/socialexperiment/feb2025) 2025. See some images from [2026](/galleries/2026-socex) and [2025](/galleries/2025-socex).         
+Past events were held in [Jun](/socialexperiment/jun2026)/[Apr](/socialexperiment/apr2026)/[Feb](/socialexperiment/feb2026) 2026 and [Nov](/socialexperiment/nov2025)/[Jul](/socialexperiment/jul2025)/[Jun](/socialexperiment/studentedition)/[May](/socialexperiment/may2025)/[Feb](/socialexperiment/feb2025) 2025. See some images from [2026](/galleries/2026-socex) and [2025](/galleries/2025-socex).         
          
 #### Social Experiment Call for Proposals        
 North West† artists (*aged 18+*) are invited to submit proposals of: short performances, interventions, or durational works, for inclusion in these events.          
