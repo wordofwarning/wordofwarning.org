@@ -32,7 +32,7 @@ If you're an audience member looking for something a little bit different — th
 Past events were held in [Jun](/socialexperiment/jun2026)/[Apr](/socialexperiment/apr2026)/[Feb](/socialexperiment/feb2026) 2026 and [Nov](/socialexperiment/nov2025)/[Jul](/socialexperiment/jul2025)/[Jun](/socialexperiment/studentedition)/[May](/socialexperiment/may2025)/[Feb](/socialexperiment/feb2025) 2025. See some images from [2026](/galleries/2026-socex) and [2025](/galleries/2025-socex).         
          
 #### Artists        
-**19 November** — Chanje&nbsp;Kunda&nbsp;· Edy&nbsp;Hurst&nbsp;· Erick&nbsp;Santos&nbsp;· Katherine&nbsp;Lee&nbsp;· Nightingale&nbsp;&&nbsp;Sage&nbsp;· Peader&nbsp;Kirk&nbsp;· PHØBIA&nbsp;· Rachel&nbsp;Smith —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes(/socialexperiment/nov2026). &ensp;<small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
+**19 November** — Chanje&nbsp;Kunda&nbsp;· Edy&nbsp;Hurst&nbsp;· Erick&nbsp;Santos&nbsp;· Katherine&nbsp;Lee&nbsp;· Nightingale&nbsp;&&nbsp;Sage&nbsp;· Peader&nbsp;Kirk&nbsp;· PHØBIA&nbsp;· Rachel&nbsp;Smith —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/nov2026). &ensp;<small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
          
 **11 June** — Ash&nbsp;Cox&nbsp;· Blood&nbsp;Bones&nbsp;Jones&nbsp;· Lauren&nbsp;Temple&nbsp;· special&nbsp;guest&nbsp;[Nathan&nbsp;Birkinshaw](/current/2026-worksahead/birkinshaw) —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/jun2026).          
           
