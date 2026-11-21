@@ -12,14 +12,14 @@ more_url: "../../socialexperiment/"
 
 gallery:
     -   {file: "titlepage.jpg", artist: "<small><i>A gathering for Live Art and contemporary performance.</i></small>"}
-    -   {file: "nov2026-chanje-kunda.jpg", artist: "Chanje Kunda (Nov 2026)"}
-    -   {file: "nov2026-edy-hurst.jpg", artist: "Edy Hurst (Nov 2026)"}
-    -   {file: "nov2026-erick-santos.jpg", artist: "Erick Santos (Nov 2026)"}
-    -   {file: "nov2026-katherine-lee.jpg", artist: "Katherine Lee (Nov 2026)"}
     -   {file: "nov2026-nightingale-and-sage.jpg", artist: "Nightingale & Sage (Nov 2026)"}
-    -   {file: "nov2026-peader-kirk.jpg", artist: "Peader Kirk (Nov 2026)"}
     -   {file: "nov2026-phobia.jpg", artist: "PHØBIA (Nov 2026)"}
+    -   {file: "nov2026-chanje-kunda.jpg", artist: "Chanje Kunda (Nov 2026)"}
     -   {file: "nov2026-rachel-smith.jpg", artist: "Rachel Smith (Nov 2026)"}
+    -   {file: "nov2026-erick-santos.jpg", artist: "Erick Santos (Nov 2026)"}
+    -   {file: "nov2026-peader-kirk.jpg", artist: "Peader Kirk (Nov 2026)"}
+    -   {file: "nov2026-katherine-lee.jpg", artist: "Katherine Lee (Nov 2026)"}
+    -   {file: "nov2026-edy-hurst.jpg", artist: "Edy Hurst (Nov 2026)"}
     -   {file: "blood bones jones.jpg", artist: "Blood Bones Jones (Jun 2026)"}
     -   {file: "Lauren Temple.jpg", artist: "Lauren Temple (Jun 2026)"}
     -   {file: "Ash Cox.jpg", artist: "Ash Cox (Jun 2026)"}
