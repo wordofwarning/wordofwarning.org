@@ -12,18 +12,17 @@ season: "Performance Programme Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated&nbsp;16&nbsp;November&nbsp;2026<small>          
+<small>Updated&nbsp;23&nbsp;November&nbsp;2026<small>          
         
 Age Advisories/Limits & Content Warnings for *upcoming* events are available below, including elements that may distress, cause upset, or trigger.<br>(Please click [here](/archive/warnings) for *past* events and *archived* livestreams on our YouTube channel.)         
          
 If issues raised affect you, these organisations may be of support:&ensp;<a href="https://thecalmzone.net" target="_blank">CALM</a> 0800 585858 · <a href="https://harmless.org.uk" target="_blank">Harmless</a> · <a href="https://mind.org.uk" target="_blank">Mind</a> 0300 123 3393 · <a href="https://nopanic.org.uk" target="_blank">No Panic</a> 0300 772 9844 · <a href="https://samaritans.org" target="_blank">Samaritans</a> call 116 123 or email jo@samaritans.org · <a href="https://supportline.org.uk" target="_blank">SupportLine</a> 01708 765 200 · <a href="https://www.thesurvivorstrust.org" target="_blank">The Survivors Trust</a> 08088 010 818        
 <hr>         
-#### 2026         
-         
-##### [19 Nov. Contact | Social Experiment](/socialexperiment)          
-Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works involve interaction and/or participation; specific warnings follow…<br>&nbsp;Chanje Kunda — themes of racism, misogynoir, sexism.<br>&nbsp;Edy Hurst — audience interaction; swearing.<br>&nbsp;Erick Santos — themes of racism, colonial histories, ancestral memory; includes intense physical and vocal expression, moments of heightened sound, emotional intensity; performer appears bare-chested.<br>&nbsp;Nightingale & Sage — **Allergy Warning: barley malt (gluten)**; involves 1-2-1 interaction.<br>&nbsp;Peader Kirk — potential offer of alcoholic drink, non-alcoholic options including water are available.<br>&nbsp;Rachel Smith — references mental illness, homophobic bullying, grief.         
          
 #### 2027         
+         
+##### <a href="https://www.thelowry.com/whats-on/stacy-makishi-walking-each-other-home-4wb6" target="_blank">3 Feb. Lowry | *Walking Each Other Home* by Stacy Makishi</a>          
+Age Advisory: 16+<br>Content Warning: references to grief & death.          
          
 ##### [11 Feb. Contact | Social Experiment](/socialexperiment)          
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works *may* involve interaction and/or participation; specific warnings to follow *about* a week before…         
