@@ -17,46 +17,42 @@ season: "Social Experiment"
 # header_image: "header.jpg" # optional custom background image, relative to current page
 
 ---
-<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated&nbsp;16&nbsp;November&nbsp;2026</small>          
+<span style='font-variant: small-caps'>→ [artists](/socialexperiment/#artists) · [entry](/socialexperiment/#entry) · [access](/socialexperiment/#access) · [apply](/socialexperiment/#apply) · [credits](/socialexperiment/#credits)</span>&ensp; <small>Updated&nbsp;23&nbsp;November&nbsp;2026</small>          
          
 *Presented by* Word of Warning + <a href="https://contactmcr.com/events/social-experiment" target="_blank">Contact</a> *as a semi-regular evening event.*         
          
 **Social Experiment** is a gathering at Contact for anyone interested in Live Art and contemporary performance to meet, chat, and try ideas out…         
           
-A free and informal, semi-regular evening event with the next on Thursday **[19 November 2026](/socialexperiment/nov2026)** from 6pm to 9pm — followed by 11 February, 22 April, 24 June, and 11 November 2027.         
+A free and informal, semi-regular evening event with the next on **Thursday 11 February 2027** from 6pm to 9pm — followed by 22 April, 24 June, and 11 November.         
           
 If you're a North West† artist — this is your <a href="https://socialexperiment.posthaven.com" target="_blank">chance to test out</a> a short performance, intervention, or durational work, in front of an informal audience.         
          
 If you're an audience member looking for something a little bit different — this is your chance to take a few risks & meet some artists in our social experiment.         
          
-Past events were held in [Jun](/socialexperiment/jun2026)/[Apr](/socialexperiment/apr2026)/[Feb](/socialexperiment/feb2026) 2026 and [Nov](/socialexperiment/nov2025)/[Jul](/socialexperiment/jul2025)/[Jun](/socialexperiment/studentedition)/[May](/socialexperiment/may2025)/[Feb](/socialexperiment/feb2025) 2025. See some images from [2026](/galleries/2026-socex) and [2025](/galleries/2025-socex).         
+Past events were held in [Nov](/socialexperiment/nov2026)/[Jun](/socialexperiment/jun2026)/[Apr](/socialexperiment/apr2026)/[Feb](/socialexperiment/feb2026) 2026 and [Nov](/socialexperiment/nov2025)/[Jul](/socialexperiment/jul2025)/[Jun](/socialexperiment/studentedition)/[May](/socialexperiment/may2025)/[Feb](/socialexperiment/feb2025) 2025. See some images from [2026](/galleries/2026-socex) and [2025](/galleries/2025-socex).         
          
 #### Artists        
-**19 November** — Chanje&nbsp;Kunda&nbsp;· Edy&nbsp;Hurst&nbsp;· Erick&nbsp;Santos&nbsp;· Katherine&nbsp;Lee&nbsp;· Nightingale&nbsp;&&nbsp;Sage&nbsp;· Peader&nbsp;Kirk&nbsp;· PHØBIA&nbsp;· Rachel&nbsp;Smith —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/nov2026). &ensp;<small>*Participating&nbsp;artists&nbsp;subject&nbsp;to&nbsp;change.*</small>         
-         
-**11 June** — Ash&nbsp;Cox&nbsp;· Blood&nbsp;Bones&nbsp;Jones&nbsp;· Lauren&nbsp;Temple&nbsp;· special&nbsp;guest&nbsp;[Nathan&nbsp;Birkinshaw](/current/2026-worksahead/birkinshaw) —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/jun2026).          
+**11 February 2027** — *Participating&nbsp;artists&nbsp;to&nbsp;be&nbsp;announced.*          
           
-**9 April** — Daniel&nbsp;Nicholas&nbsp;· Gin&nbsp;Niemtus&nbsp;· Kathy&nbsp;Rivett&nbsp;· Lisa&nbsp;Ford&nbsp;· Orla&nbsp;Collier&nbsp;· special&nbsp;guest&nbsp;Natalie&nbsp;Spanner —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/apr2026).         
+**19 November 2026** — Chanje&nbsp;Kunda&nbsp;· Edy&nbsp;Hurst&nbsp;· Erick&nbsp;Santos&nbsp;· Katherine&nbsp;Lee&nbsp;· Nightingale&nbsp;&&nbsp;Sage&nbsp;· Peader&nbsp;Kirk&nbsp;· PHØBIA&nbsp;· Rachel&nbsp;Smith —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/nov2026).          
          
-**19 February** (<a href="https://contactmcr.com/queer-contact-2026" target="_blank">Queer Contact</a> Edition) — Ariel&nbsp;Hebditch&nbsp;· Ben&nbsp;Hodge&nbsp;· Failed&nbsp;Artist&nbsp;Society&nbsp;· lucy&nbsp;· Maddie&nbsp;Maycock&nbsp;· PHOBIA&nbsp;· special&nbsp;guest&nbsp;Graham&nbsp;Clayton-Chance —&nbsp;[read&nbsp;their&nbsp;programme&nbsp;notes](/socialexperiment/feb2026).         
-         
-*NB* participating artists announced *about* ten days before each event — our call for proposals is open on a rolling basis at <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>         
+*NB* participating artists announced *about* a week before each event — our call for proposals is open on a rolling basis at <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>         
          
 #### Entry         
 FREE: there's no ticketing… just turn up!         
          
-Next Date: Thursday 19 November 2026.<br>Following Dates: Thursdays 11 February, 22 April, 24 June, and 11 November 2027.<br>Time: 6pm onwards (each event ends *by about* 9pm).         
+Next Date: Thursday 11 February 2027.<br>Following Dates: Thursdays 22 April, 24 June, and 11 November 2027.<br>Time: 6pm onwards (each event ends *by about* 9pm).         
           
-Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (space 0 & bar), Oxford Rd, Manchester M15 6JA.         
+Location: <a href="https://contactmcr.com/visit/getting-here" target="_blank">Contact</a> (bar & space 0), Oxford Rd, Manchester M15 6JA.         
          
 #### Access         
 Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).         
           
 Content Warnings: some works *may* involve interaction and/or participation; specific warnings listed [here](/warnings) *about* a week before each event.         
           
-Features: a small number of Live Art & contemporary performance works with varied content — to be confirmed *about* ten days before each event.         
+Features: a small number of Live Art & contemporary performance works with varied content — to be confirmed *about* a week before each event.         
          
-*NB* works usually occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in space 0 & bar, and will vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
+*NB* works usually occur on <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a>'s step-free ground floor in the bar and space 0, and will vary in format — they could be immersive, participatory, roaming, seated, standing, spoken word, visual, etc.         
          
 Queries: please contact <a href="https://contactmcr.com/visit/access" target="_blank">Contact</a> via <mailto:boxoffice@contactmcr.com>        
                    
@@ -69,9 +65,9 @@ Please also note: the focus of Social Experiment is Live Art. It is not a dance 
          
 **For details & to apply please go to <a href="https://socialexperiment.posthaven.com" target="_blank">socialexperiment.posthaven.com</a>**<br>(Direct link to proposal form is <a href="https://forms.gle/rAnfSN2AQP5xv6e9A" target="_blank">here</a> in case of issues with posthaven.)         
          
-Proposal Deadline: open on a rolling basis and closing 17 days before each event — November's deadline was 2 Nov at noon, February's is 25 Jan at noon, etc.         
+Proposal Deadline: open on a rolling basis and closing 17 days before each event — February's deadline is 25 Jan at noon, April's is 5 Apr at noon, etc.         
          
 #### Credits          
-[Social Experiment](/hab/socialexperiment) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com" target="_blank">Contact</a> and using public funding by Arts Council England.<br>Host: Peader Kirk
+[Social Experiment](/hab/socialexperiment) produced by [hÅb](/hab); supported by <a href="https://contactmcr.com/events/social-experiment" target="_blank">Contact</a> and using public funding by Arts Council England.<br>Host: Peader Kirk
                  
 <small><span style='font-variant: small-caps'>[back to top](/socialexperiment)</span></small>
