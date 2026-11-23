@@ -12,7 +12,7 @@ season: "Archived Content Warnings"
 # artist_size: 1 # optional - size of artist name 1-5. Default is 1. Set longer names to lower values
 
 ---
-<small>Updated&nbsp;5&nbsp;November&nbsp;2026<small>        
+<small>Updated&nbsp;23&nbsp;November&nbsp;2026<small>        
         
 Age Advisories/Limits & Content Warnings for *past* events and *archived* livestreams on our YouTube channel are available below, including elements that may distress, cause upset, or trigger.&emsp;Go to → [2026](/archive/warnings/#2026) · [2025](/archive/warnings/#2025) · [2024](/archive/warnings/#2024) · [2023](/archive/warnings/#2023) · [2022](/archive/warnings/#2022) · [2021](/archive/warnings/#2021) · [2020](/archive/warnings/#2020) · [2019](/archive/warnings/#2019)&emsp;(Please click [here](/warnings) for *upcoming* events.)        
         
@@ -20,6 +20,9 @@ If issues raised affect you, these organisations may be of support:&ensp;<a href
 <hr>         
 #### 2026         
          
+##### [19 Nov. Contact | Social Experiment](/socialexperiment/nov2026)          
+Age Advisory: 16+ (aimed at adults, parent/guardian/carer discretion).<br>Content Warnings: some works involved interaction and/or participation; specific warnings follow…<br>&nbsp;Chanje Kunda — themes of racism, misogynoir, sexism.<br>&nbsp;Edy Hurst — audience interaction; swearing.<br>&nbsp;Erick Santos — themes of racism, colonial histories, ancestral memory; includes intense physical and vocal expression, moments of heightened sound, emotional intensity; performer appears bare-chested.<br>&nbsp;Nightingale & Sage — **Allergy Warning: barley malt (gluten)**; involves 1-2-1 interaction.<br>&nbsp;Peader Kirk — potential offer of alcoholic drink, non-alcoholic options including water are available.<br>&nbsp;Rachel Smith — references mental illness, homophobic bullying, grief.    
+
 ##### [4 Nov. Lowry | *Matchstalks Remastered* by Egan & Pinchbeck](/current/2026/eganpinchbeck)          
 Age Advisory: 12+ (parent/guardian/carer discretion).<br>Content Warnings: may contain loud noises.         
          
