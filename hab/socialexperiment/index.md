@@ -39,6 +39,6 @@ Please also note: the focus of [Social Experiment](/socialexperiment) is Live Ar
          
 Proposal Deadline: open on a rolling basis and closing 17 days before each event — February's deadline is 25 Jan at noon, April's is 5 Apr at noon, etc.          
          
-[Social Experiment](/socialexperiment) presented by [Word of Warning](/) + <a href="https://contactmcr.com/events/social-experiment" target="_blank">Contact</a>Contact</a>; produced by [hÅb](/hab); supported by <a href="https://contactmcr.com/events/social-experiment" target="_blank">Contact</a> and using public funding by Arts Council England.<br>Host: Peader Kirk         
+[Social Experiment](/socialexperiment) presented by [Word of Warning](/) + <a href="https://contactmcr.com/events/social-experiment" target="_blank">Contact</a>; produced by [hÅb](/hab); supported by <a href="https://contactmcr.com/events/social-experiment" target="_blank">Contact</a> and using public funding by Arts Council England.<br>Host: Peader Kirk         
          
 Enquiries: <mailto:socex@habmcr.org> · [wordofwarning.org/socialexperiment](/socialexperiment)
